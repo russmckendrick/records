@@ -1,0 +1,39 @@
+---
+title: "Pond (5) - Tasmania"
+album_artist: "Pond (5)"
+album_title: "Tasmania"
+date: 2019-03-04
+release_id: "13285382"
+slug: "tasmania-13285382"
+cover:
+    image: "tasmania-13285382.jpg"
+tags: ["Electronic", "Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Daisy
+2. Sixteen Days
+3. Tasmania
+4. The Boys Are Killing Me
+5. Hand Mouth Danger
+6. Goodnight, P.C.C.
+7. Burnt Out Star
+8. Selene
+9. Shame
+10. Doctor's In
+
+## Videos
+{{< youtube id="Ap2gStsDZZo" title="Pond - Daisy (Official Video)" >}}
+- [POND - Tasmania (Official Audio)](https://www.youtube.com/watch?v=NX6EIDepJDk)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Pond (5) - Tasmania](https://www.discogs.com/release/13285382) |
+| Label          | Marathon Artists |
+| Format         | 2xLP, Album, Ltd, Whi |
+| Catalog Number | MA0145LPX |
+

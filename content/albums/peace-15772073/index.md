@@ -1,0 +1,42 @@
+---
+title: "The Levellers - Peace"
+album_artist: "The Levellers"
+album_title: "Peace"
+date: 2020-08-21
+release_id: "15772073"
+slug: "peace-15772073"
+cover:
+    image: "peace-15772073.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Food Roof Family (3:40)
+2. Generation Fear (2:36)
+3. Four Boys Lost (3:36)
+4. Burning Hate Like Fire (3:49)
+5. Born That Way (3:13)
+6. Our New Day (2:33)
+7. Calling Out (3:44)
+8. Ghosts In The Water (3:59)
+9. The Men Who Would Be King (2:20)
+10. Albion + Phoenix (3:09)
+11. Our Future (3:55)
+12. Food Roof Family (Live In The Studio)
+13. Our New Day (Live In The Studio)
+
+## Videos
+{{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}
+- [Levellers - Peace (Full Album) 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [The Levellers - Peace](https://www.discogs.com/release/15772073) |
+| Label          | On The Fiddle Recordings |
+| Format         | LP, Dlx, Blu + 7\" |
+| Catalog Number | OTFLP031S |
+

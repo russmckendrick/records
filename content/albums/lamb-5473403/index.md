@@ -1,0 +1,54 @@
+---
+title: "Lamb - Lamb"
+album_artist: "Lamb"
+album_title: "Lamb"
+date: 2016-11-22
+release_id: "5473403"
+slug: "lamb-5473403"
+cover:
+    image: "lamb-5473403.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Lusty
+2. God Bless
+3. Cotton Wool
+4. Trans Fatty Acid
+5. Zero
+6. Merge
+7. Gold
+8. Closer
+9. Górecki
+10. Feela
+11. Cotton Wool (Fila Brazillia Mix)
+12. Trans Fatty Acid (Kruder & Dorfmeister Remix)
+13. Gorecki (Global Communication Mix)
+
+## Videos
+{{< youtube id="EuWq_Gx0vjc" title="Lamb ‎– Lamb (Album, 1996)" >}}
+- [Lamb//Trans Fatty Acid//Kruder & Dorfmeister Remix](https://www.youtube.com/watch?v=94NU-W-KgxI)
+- [Lamb - Lusty (HD)](https://www.youtube.com/watch?v=x954Iy1kjSU)
+- [Lamb - Gorecki (Global Communication Remix) (HD)](https://www.youtube.com/watch?v=KBMaBYE-Awo)
+- [Lamb - Gorecki](https://www.youtube.com/watch?v=tSRYvYN1ayw)
+- [Lamb - God Bless](https://www.youtube.com/watch?v=N9lQjEtiMp0)
+- [Lamb - Cotton Wool](https://www.youtube.com/watch?v=eF4hFfDcV7I)
+- [Lamb - Trans Fatty Acid](https://www.youtube.com/watch?v=nRF80TuHhVk)
+- [Lamb - Zero](https://www.youtube.com/watch?v=43dsR77b_gQ)
+- [Lamb - Merge](https://www.youtube.com/watch?v=QAEJ80au1Kk)
+- [Lamb - Gold](https://www.youtube.com/watch?v=uY1qETRJN-c)
+- [Lamb - Gorecki](https://www.youtube.com/watch?v=kbUfDXrWgbs)
+- [Lamb - Feela part 1](https://www.youtube.com/watch?v=glR2hFrq4ks)
+- [Lamb - Cotton Wool (Fila Brazillia mix)](https://www.youtube.com/watch?v=OcJNGptYif8)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2014 |
+| Discogs Link   | [Lamb - Lamb](https://www.discogs.com/release/5473403) |
+| Label          | Music On Vinyl |
+| Format         | 2xLP, Album, RE, 180 |
+| Catalog Number | MOVLP854 |
+

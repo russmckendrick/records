@@ -1,0 +1,46 @@
+---
+title: "Janet Jackson - Control"
+album_artist: "Janet Jackson"
+album_title: "Control"
+date: 2020-08-01
+release_id: "339019"
+slug: "control-339019"
+cover:
+    image: "control-339019.jpg"
+tags: ["Electronic", "Funk / Soul", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Control (5:55)
+2. Nasty (4:00)
+3. What Have You Done For Me Lately (4:41)
+4. You Can Be Mine (5:12)
+5. The Pleasure Principle (4:58)
+6. When I Think Of You (3:57)
+7. He Doesn't Know I'm Alive (3:30)
+8. Let's Wait Awhile (4:36)
+9. Funny How Time Flies (When You're Having Fun) (4:27)
+
+## Videos
+{{< youtube id="LH8xbDGv7oY" title="Janet Jackson - Control" >}}
+- [Control](https://www.youtube.com/watch?v=FMuoowyCkUU)
+- [Nasty](https://www.youtube.com/watch?v=nkTBzFUToLY)
+- [What Have You Done For Me Lately](https://www.youtube.com/watch?v=Q16EWAXwh94)
+- [You Can Be Mine](https://www.youtube.com/watch?v=gdhKkOodub8)
+- [The Pleasure Principle](https://www.youtube.com/watch?v=jXInTVW5h4Y)
+- [When I Think Of You](https://www.youtube.com/watch?v=gIgeh8PEQXI)
+- [He Doesn't Know I'm Alive](https://www.youtube.com/watch?v=FqVAAWyoirU)
+- [Let's Wait Awhile](https://www.youtube.com/watch?v=5cZ7IOApdfg)
+- [Funny How Time Flies (When You're Having Fun)](https://www.youtube.com/watch?v=B2tyZjh-eD0)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1986 |
+| Discogs Link   | [Janet Jackson - Control](https://www.discogs.com/release/339019) |
+| Label          | A&M Records |
+| Format         | LP, Album |
+| Catalog Number | AMA 5106 |
+

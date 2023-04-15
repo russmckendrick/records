@@ -1,0 +1,57 @@
+---
+title: "The Charlatans - Melting Pot"
+album_artist: "The Charlatans"
+album_title: "Melting Pot"
+date: 2017-04-22
+release_id: "7147752"
+slug: "melting-pot-7147752"
+cover:
+    image: "melting-pot-7147752.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. The Only One I Know
+2. Then
+3. Opportunity Three
+4. Over Rising
+5. Sproston Green (US Version)
+6. Weirdo
+7. Theme From The Wish
+8. Patrol (The Chemical Brothers Mix)
+9. Can't Get Out Of Bed
+10. I Never Want An Easy Life If Me & He Were Ever To Get There
+11. Jesus Hairdo
+12. Crashin' In
+13. Just Lookin'
+14. Here Comes A Soul Saver
+15. Just When You're Thinkin' Things Over
+16. One To Another
+17. North Country Boy
+
+## Videos
+{{< youtube id="0RJwW77Lsj8" title="The Charlatans - The Only One I Know" >}}
+- [The Charlatans - Patrol (Chemical Brothers Mix)](https://www.youtube.com/watch?v=l30MOxYHLw0)
+- [The Charlatans: Melting Pot (Promo Videos)](https://www.youtube.com/watch?v=4HJ2rnGmvII)
+- [The Charlatans - Opportunity Three](https://www.youtube.com/watch?v=1MtRmr1Pe3Q)
+- [The Charlatans - Melting Pot Neon](https://www.youtube.com/watch?v=mXSGtWAilpg)
+- [One To Another](https://www.youtube.com/watch?v=OxftZoWaWpY)
+- [Jesus Hairdo](https://www.youtube.com/watch?v=KxHlEKc5eoU)
+- [The Only One I Know (Remastered)](https://www.youtube.com/watch?v=srBb61GnTC4)
+- [Weirdo](https://www.youtube.com/watch?v=aE1Ns5-KRkQ)
+- [North Country Boy](https://www.youtube.com/watch?v=NuozckSMNh4)
+- [The Charlatans - Theme from Wish](https://www.youtube.com/watch?v=T5pkheKRKOk)
+- [Then](https://www.youtube.com/watch?v=x-eOMMuwTC4)
+- [Just When You’re Thinkin’ Things Over](https://www.youtube.com/watch?v=nJeHGRetnNw)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2015 |
+| Discogs Link   | [The Charlatans - Melting Pot](https://www.discogs.com/release/7147752) |
+| Label          | Beggars Banquet |
+| Format         | 2xLP, Comp, Ltd, RE |
+| Catalog Number | BBQLP 198 |
+

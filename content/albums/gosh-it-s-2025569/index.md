@@ -1,0 +1,42 @@
+---
+title: "Bad Manners - Gosh It's..."
+album_artist: "Bad Manners"
+album_title: "Gosh It's..."
+date: 2019-01-19
+release_id: "2025569"
+slug: "gosh-it-s-2025569"
+cover:
+    image: "gosh-it-s-2025569.jpg"
+tags: ["Reggae", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Walking In The Sunshine (3:26)
+2. Dansetta (3:53)
+3. Can Can (2:55)
+4. Weeping And Wailing (3:37)
+5. Casablanca (Rags And Riches) (4:48)
+6. Don't Be Angry (Live Recording) (2:30)
+7. Ben E. Wriggle (3:48)
+8. Runaway (3:06)
+9. Never Will Change (3:04)
+10. Only Funkin' (3:32)
+11. End Of The World (2:57)
+12. Gherkin (4:36)
+
+## Videos
+{{< youtube id="sirHoeJ5Td8" title="Bad Manners - Can-Can (TOTP)" >}}
+- [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
+- [Bad Manners - can can](https://www.youtube.com/watch?v=CJSwSBbdiCM)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1981 |
+| Discogs Link   | [Bad Manners - Gosh It's...](https://www.discogs.com/release/2025569) |
+| Label          | Magnet (2) |
+| Format         | LP, Album |
+| Catalog Number | MAGL 5043 |
+

@@ -1,0 +1,46 @@
+---
+title: "Bruce Willis - The Return Of Bruno"
+album_artist: "Bruce Willis"
+album_title: "The Return Of Bruno"
+date: 2015-10-05
+release_id: "743575"
+slug: "the-return-of-bruno-743575"
+cover:
+    image: "the-return-of-bruno-743575.jpg"
+tags: ["Rock", "Funk / Soul", "Blues"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Comin' Right Up (3:25)
+2. Respect Yourself (3:51)
+3. Down In Hollywood (5:19)
+4. Young Blood (4:06)
+5. Under The Boardwalk (3:02)
+6. Secret Agent Man (James Bond Is Back) (4:46)
+7. Jackpot (Bruno's Bop) (4:08)
+8. Fun Time (3:35)
+9. Lose Myself (3:55)
+10. Flirting With Disaster (4:27)
+
+## Videos
+{{< youtube id="Z2uComF6LuY" title="Jackpot (Bruno's Bop)" >}}
+- [Bruce Willis - Secret Agent Man](https://www.youtube.com/watch?v=3v6pBscvuZI)
+- [Return of Bruno](https://www.youtube.com/watch?v=Z6hJn272wIM)
+- [Under The Boardwalk - Bruce Willis - The Return of Bruno](https://www.youtube.com/watch?v=gH2zJfK0B0Q)
+- [Bruce Willis (The Return of Bruno)](https://www.youtube.com/watch?v=WIciG46xNdg)
+- [Bruce Willis - Down in Hollywood](https://www.youtube.com/watch?v=BY2oWGpNF_s)
+- [(1987) Bruce Willis - The Return of Bruno [Cassette Rip]](https://www.youtube.com/watch?v=YQ1xNdH06r8)
+- [Bruce Willis Respecting Himself - VHS Files 02](https://www.youtube.com/watch?v=ni90iL81wTQ)
+- [Bruce Willis Respect Yourself (1987)](https://www.youtube.com/watch?v=a3vMKSA0OKc)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1987 |
+| Discogs Link   | [Bruce Willis - The Return Of Bruno](https://www.discogs.com/release/743575) |
+| Label          | Motown, Motown |
+| Format         | LP, Album |
+| Catalog Number | ZL 72571, ZL72571 |
+

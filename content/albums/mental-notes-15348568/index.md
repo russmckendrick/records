@@ -1,0 +1,45 @@
+---
+title: "Split Enz - Mental Notes"
+album_artist: "Split Enz"
+album_title: "Mental Notes"
+date: 2020-05-26
+release_id: "15348568"
+slug: "mental-notes-15348568"
+cover:
+    image: "mental-notes-15348568.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Late Last Night
+2. Walking Down A Road
+3. Titus
+4. Lovey Dovey
+5. Sweet Dreams
+6. Stranger Than Fiction
+7. Time For A Change
+8. Matinee Idyll
+9. The Woman Who Loves You
+10. Mental Notes
+
+## Videos
+{{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}
+- [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
+- [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
+- [Split Enz Amy [Darling]](https://www.youtube.com/watch?v=2CWQ6EDZGYc)
+- [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
+- [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
+- [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
+- [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568) |
+| Label          | Demon Records |
+| Format         | LP, Album, RE, RM, Whi |
+| Catalog Number | DEMREC540 |
+

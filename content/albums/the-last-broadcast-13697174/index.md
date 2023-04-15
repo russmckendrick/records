@@ -1,0 +1,51 @@
+---
+title: "Doves - The Last Broadcast"
+album_artist: "Doves"
+album_title: "The Last Broadcast"
+date: 2019-06-03
+release_id: "13697174"
+slug: "the-last-broadcast-13697174"
+cover:
+    image: "the-last-broadcast-13697174.jpg"
+tags: ["Electronic", "Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Intro
+2. Words
+3. There Goes The Fear
+4. M62 Song
+5. Where We're Calling From
+6. N.Y.
+7. Satellites
+8. Friday's Dust
+9. Pounding
+10. Last Broadcast
+11. The Sulphur Man
+12. Caught By The River
+
+## Videos
+{{< youtube id="Xupes6H56DA" title="Intro" >}}
+- [DOVES - The Last Broadcast - 2. Words](https://www.youtube.com/watch?v=jE9SnuxgEYw)
+- [DOVES - The Last Broadcast - 3. There Goes The Fear](https://www.youtube.com/watch?v=JTWh62o8izQ)
+- [DOVES - The Last Broadcast - 4. M62 Song](https://www.youtube.com/watch?v=Kl8s3LoTpDM)
+- [DOVES - The Last Broadcast - 9. Pounding](https://www.youtube.com/watch?v=CnfVBTFaktw)
+- [DOVES - The Last Broadcast - 10. Last Broadcast](https://www.youtube.com/watch?v=xYJ-OEGANFk)
+- [DOVES - The Last Broadcast - 5. Where We're Calling From](https://www.youtube.com/watch?v=K6tKIMjdLpo)
+- [DOVES - The Last Broadcast - 6. N.Y](https://www.youtube.com/watch?v=0hnNV2s8wWM)
+- [DOVES - The Last Broadcast - 7. Satellites](https://www.youtube.com/watch?v=jSlTlo6s3YI)
+- [DOVES - The Last Broadcast - 8. Friday's Dust](https://www.youtube.com/watch?v=maqHQq39Jm8)
+- [DOVES - The Last Broadcast - 12. The Sulphur Man](https://www.youtube.com/watch?v=uPo4lqI46F8)
+- [DOVES - The Last Broadcast - 11. Caught By The River](https://www.youtube.com/watch?v=7uU5kYy53WU)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Doves - The Last Broadcast](https://www.discogs.com/release/13697174) |
+| Label          | Heavenly |
+| Format         | 2xLP, Album, Ltd, Num, RE, Ora |
+| Catalog Number | 7748263 |
+

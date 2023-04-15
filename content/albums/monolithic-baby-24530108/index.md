@@ -1,0 +1,55 @@
+---
+title: "Monster Magnet - Monolithic Baby!"
+album_artist: "Monster Magnet"
+album_title: "Monolithic Baby!"
+date: 2022-10-01
+release_id: "24530108"
+slug: "monolithic-baby-24530108"
+cover:
+    image: "monolithic-baby-24530108.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Slut Machine
+2. Supercruel
+3. On The Verge
+4. Unbroken (Hotel Baby)
+5. Radiation Day
+6. Monolithic
+7. The Right Stuff
+8. There's No Way Out Of Here
+9. Master Of Light
+10. Too Bad
+11. Ultimate Everything
+12. CNN War Theme
+
+## Videos
+{{< youtube id="BrztzfOW7z4" title="Monster Magnet ‎– Slut Machine" >}}
+- [Monster Magnet - Monolithic.  (HQ)](https://www.youtube.com/watch?v=2fAL9sjce6Q)
+- [On The Verge - Monster Magnet - Monolithic Baby!](https://www.youtube.com/watch?v=k7ZETM9Ewxk)
+- [Unbroken (Hotel Baby)](https://www.youtube.com/watch?v=99DfGBp5PYE)
+- [Monster Magnet - Radiation Day](https://www.youtube.com/watch?v=D5Id6AoS63I)
+- [Monster Magnet - Monolithic](https://www.youtube.com/watch?v=WtMFxoTMJso)
+- [The Right Stuff - Monster Magnet](https://www.youtube.com/watch?v=AwcJ5YoWyBc)
+- [Monster Magnet - Theres No Way Out Of Here](https://www.youtube.com/watch?v=6TS8nii_HJ8)
+- [Master Of The Light - Monster Magnet - Monolithic Baby!](https://www.youtube.com/watch?v=wp_QYeQceQE)
+- [Monster Magnet - Too Bad](https://www.youtube.com/watch?v=rMpT-Uyy3lY)
+- [Monster Magnet - Ultimate everything](https://www.youtube.com/watch?v=ugkEdtoxgco)
+- [Monster Magnet - CNN War Theme - Monolithic Baby!](https://www.youtube.com/watch?v=7DcP3qJCZ48)
+- [Monster Magnet - Monolithic official video (HQ)](https://www.youtube.com/watch?v=47tPU2ch5UU)
+- [Monster Magnet   The Right Stuff](https://www.youtube.com/watch?v=NAU7KF2PWFk)
+- [Monster Magnet - Monolithic Baby! Interview](https://www.youtube.com/watch?v=lVkVq-2jdUU)
+- [Monster Magnet - Monolithic (HQ Live, London Astoria, England)](https://www.youtube.com/watch?v=DEgAHuAHQJ0)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2022 |
+| Discogs Link   | [Monster Magnet - Monolithic Baby!](https://www.discogs.com/release/24530108) |
+| Label          | Napalm Records |
+| Format         | 2xLP, Album, RE |
+| Catalog Number | NPR1066VINYL |
+

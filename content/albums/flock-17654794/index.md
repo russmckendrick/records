@@ -1,0 +1,47 @@
+---
+title: "Jane Weaver - Flock"
+album_artist: "Jane Weaver"
+album_title: "Flock"
+date: 2021-03-08
+release_id: "17654794"
+slug: "flock-17654794"
+cover:
+    image: "flock-17654794.jpg"
+tags: ["Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Heartlow
+2. The Revolution Of Super Visions
+3. Stages Of Phases
+4. Lux
+5. Modern Reputation
+6. Flock
+7. Sunset Dreams
+8. All The Things You Do
+9. Pyramid Schemes
+10. Solarised
+
+## Videos
+{{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}
+- [Jane Weaver - The Revolution Of Super Visions (Official Video)](https://www.youtube.com/watch?v=Zop_79wxs6M)
+- [Stages Of Phases](https://www.youtube.com/watch?v=-2fmLoa6jwc)
+- [Lux](https://www.youtube.com/watch?v=gVsw8943ego)
+- [Modern Reputation](https://www.youtube.com/watch?v=Ty4rkqddcQY)
+- [Flock](https://www.youtube.com/watch?v=XfeRoGIXpvE)
+- [Sunset Dreams](https://www.youtube.com/watch?v=2DrxgWCsYkY)
+- [All The Things You Do](https://www.youtube.com/watch?v=MUn_De7Mw8A)
+- [Pyramid Schemes](https://www.youtube.com/watch?v=AWVt8c4ju40)
+- [Solarised](https://www.youtube.com/watch?v=IOMq26ygSAQ)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2021 |
+| Discogs Link   | [Jane Weaver - Flock](https://www.discogs.com/release/17654794) |
+| Label          | Fire Records |
+| Format         | LP, Album, Ltd, Pin |
+| Catalog Number | FIRELP544 |
+

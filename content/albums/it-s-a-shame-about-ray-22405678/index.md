@@ -1,0 +1,65 @@
+---
+title: "The Lemonheads - It's A Shame About Ray"
+album_artist: "The Lemonheads"
+album_title: "It's A Shame About Ray"
+date: 2022-04-24
+release_id: "22405678"
+slug: "it-s-a-shame-about-ray-22405678"
+cover:
+    image: "it-s-a-shame-about-ray-22405678.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Original Album
+2. Rockin Stroll (1:41)
+3. Confetti (2:48)
+4. It's A Shame About Ray (3:10)
+5. Rudderless (3:18)
+6. My Drug Buddy (3:05)
+7. The Turnpike Down (2:24)
+8. Bit Part (1:47)
+9. Alison's Starting To Happen (1:56)
+10. Hannah & Gabi (2:51)
+11. Kitchen (3:00)
+12. Ceiling Fan In My Spoon (1:45)
+13. Frank Mills (2:01)
+14. Essential Extras
+15. Mrs. Robinson
+16. Shaky Ground
+17. My Drug Buddy (KCRW Session)
+18. Knowing Me, Knowing You
+19. Confetti (Acoustic)
+20. Alison's Starting To Happen (Acoustic)
+21. Divan
+22. Demo Recordings
+23. It's A Shame About Ray
+24. Rockin Stroll
+25. My Drug Buddy
+26. Hannah & Gabi
+27. Kitchen
+28. Bit Part
+29. Rudderless
+30. Ceiling Fan In My Spoon
+31. Confetti
+
+## Videos
+{{< youtube id="NofWFKSMiM4" title="Lemonheads - Rudderless (Album version)" >}}
+- [The Turnpike Down (Remastered)](https://www.youtube.com/watch?v=LKjeqYxK8_0)
+- [The Lemonheads - It's A Shame About Ray (Official Video)](https://www.youtube.com/watch?v=NdU0fQzt0h8)
+- [Lemonheads - Bit part (studio verison)](https://www.youtube.com/watch?v=ca6N9FN-rbQ)
+- [It's A Shame About Ray (Demo Version)](https://www.youtube.com/watch?v=EKGAk4TUdEQ)
+- [The Lemonheads - Alison's Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
+- [Rockin Stroll (Remastered)](https://www.youtube.com/watch?v=jet27-LRviQ)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2022 |
+| Discogs Link   | [The Lemonheads - It's A Shame About Ray](https://www.discogs.com/release/22405678) |
+| Label          | Fire Records |
+| Format         | 2xLP, Album, Ltd, RE, RM, Gol |
+| Catalog Number | FIRELP624 |
+

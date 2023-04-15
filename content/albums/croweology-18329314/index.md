@@ -1,0 +1,57 @@
+---
+title: "The Black Crowes - Croweology"
+album_artist: "The Black Crowes"
+album_title: "Croweology"
+date: 2021-04-30
+release_id: "18329314"
+slug: "croweology-18329314"
+cover:
+    image: "croweology-18329314.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Jealous Again
+2. Share The Ride
+3. Remedy
+4. Non-Fiction
+5. Hotel Illness
+6. Soul Singing
+7. Ballad In Urgency
+8. Wiser Time
+9. Cold Boy Smile
+10. Under A Mountain
+11. She Talks To Angels
+12. Morning Song
+13. Downtown Money Waster
+14. Good Friday
+15. Thorn In My Pride
+16. Welcome To The Good Times
+17. Girl From A Pawnshop
+18. Sister Luck
+19. She
+20. Bad Luck Blue Eyes Goodbye
+
+## Videos
+{{< youtube id="bS5MwHiLqOQ" title="Wiser Time" >}}
+- [Thorn in My Pride](https://www.youtube.com/watch?v=hbk8NM2XLbY)
+- [Morning Song](https://www.youtube.com/watch?v=l3BgyfsjgV0)
+- [Non-Fiction](https://www.youtube.com/watch?v=WI13i7SMsz4)
+- [Sister Luck](https://www.youtube.com/watch?v=CWsm2eJjihg)
+- [Remedy](https://www.youtube.com/watch?v=uge7HKkF_Ro)
+- [Hotel Illness](https://www.youtube.com/watch?v=anxlw3cQyfk)
+- [She Talks to Angels](https://www.youtube.com/watch?v=B_8fDDIxbgs)
+- [Soul Singing](https://www.youtube.com/watch?v=olVG7oKsWEo)
+- [Ballad in Urgency](https://www.youtube.com/watch?v=sgfPKR5i9oc)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2021 |
+| Discogs Link   | [The Black Crowes - Croweology](https://www.discogs.com/release/18329314) |
+| Label          | Silver Arrow, Angelus Entertainment |
+| Format         | 3xLP, Album, Ltd, RE, 10t |
+| Catalog Number | SAR 03 LP |
+

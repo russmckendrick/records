@@ -1,0 +1,44 @@
+---
+title: "Maps - Turning The Mind"
+album_artist: "Maps"
+album_title: "Turning The Mind"
+date: 2019-09-01
+release_id: "13836790"
+slug: "turning-the-mind-13836790"
+cover:
+    image: "turning-the-mind-13836790.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Turning The Mind
+2. I Dream Of Crystal
+3. Let Go Of The Fear
+4. Valium In The Sunshine
+5. Papercuts
+6. Love Will Come
+7. Everything Is Shattering
+8. Nothing
+9. The Note (These Voices)
+10. Chemeleon
+11. Die Happy, Die Smiling
+12. Without You
+
+## Videos
+{{< youtube id="bHIv9QBY_GQ" title="Maps - Turning the Mind (Song)" >}}
+- [Turning the Mind](https://www.youtube.com/watch?v=wX4ALgTvqaw)
+- [Maps - Chemeleon (Turning the Mind 2009)](https://www.youtube.com/watch?v=T8gRiWWLSo8)
+- [Maps - From Here's to Bliss (Bonus Track)](https://www.youtube.com/watch?v=2c6q2F-zEM0)
+- [From Here's to Bliss](https://www.youtube.com/watch?v=EK7rKGkYesM)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Maps - Turning The Mind](https://www.discogs.com/release/13836790) |
+| Label          | Mute |
+| Format         | LP + LP, Etch + Album, Ltd, RE, RP, Ora |
+| Catalog Number | STUMM298 |
+

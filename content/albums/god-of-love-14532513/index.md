@@ -1,0 +1,47 @@
+---
+title: "Bad Brains - God Of Love"
+album_artist: "Bad Brains"
+album_title: "God Of Love"
+date: 2019-12-16
+release_id: "14532513"
+slug: "god-of-love-14532513"
+cover:
+    image: "god-of-love-14532513.jpg"
+tags: ["Rock", "Reggae"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Cool Mountaineer
+2. Justice Keepers
+3. Long Time
+4. Rights Of A Child
+5. God Of Love
+6. Overs The Water
+7. Tongue Tee Tie
+8. Darling I Need You
+9. To The Heavens
+10. Thank Jah
+11. Big Fun
+12. How I Love Thee
+
+## Videos
+{{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love (Full album 1995)" >}}
+- [Bad Brains - To The Heavens](https://www.youtube.com/watch?v=9scEyRRKRHU)
+- [How I Love Thee](https://www.youtube.com/watch?v=HlUQmaEBRLE)
+- [Bad Brains  -  God of Love](https://www.youtube.com/watch?v=ryLmymTTfGg)
+- [Cool Mountaineer](https://www.youtube.com/watch?v=boZu3RvzApE)
+- [Darling I Need You](https://www.youtube.com/watch?v=SadIA-zX4vk)
+- [Justice Keepers](https://www.youtube.com/watch?v=isp3qJH_jlI)
+- [Long Time](https://www.youtube.com/watch?v=jUVw_nD5Hws)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Bad Brains - God Of Love](https://www.discogs.com/release/14532513) |
+| Label          | Music On Vinyl |
+| Format         | LP, Ltd, Num, RE, Gre |
+| Catalog Number | MOVLP2531 |
+

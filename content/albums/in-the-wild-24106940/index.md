@@ -1,0 +1,56 @@
+---
+title: "The Interrupters - In The Wild"
+album_artist: "The Interrupters"
+album_title: "In The Wild"
+date: 2022-09-07
+release_id: "24106940"
+slug: "in-the-wild-24106940"
+cover:
+    image: "in-the-wild-24106940.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Anything Was Better
+2. As We Live
+3. Raised By Wolves
+4. In The Mirror
+5. Kiss The Ground
+6. Jailbird
+7. The Hard Way
+8. My Heart
+9. Let 'Em Go
+10. Worst For Me
+11. Burdens
+12. Love Never Dies
+13. Afterthought
+14. Alien
+
+## Videos
+{{< youtube id="KWvN78Z8YU8" title="The Interrupters - Anything Was Better (Lyric Video)" >}}
+- [The Interrupters - Raised By Wolves](https://www.youtube.com/watch?v=GqjUHB6hf9s)
+- [The Interrupters - As We Live (feat. Tim Armstrong & Rhoda Dakar) (Lyric Video)](https://www.youtube.com/watch?v=raC0Hy_k1a8)
+- [Raised By Wolves](https://www.youtube.com/watch?v=8Q4iMc0E6TY)
+- [The Interrupters - In The Mirror](https://www.youtube.com/watch?v=3ev-i7qHRPo)
+- [Kiss The Ground](https://www.youtube.com/watch?v=TfhfueFGxi0)
+- [The Interrupters - Jailbird (Lyric Video)](https://www.youtube.com/watch?v=g0tF6spcbyk)
+- [The Hard Way](https://www.youtube.com/watch?v=MhnLkA5jRcc)
+- [My Heart](https://www.youtube.com/watch?v=wrOqrZs5Di8)
+- [Let 'Em Go](https://www.youtube.com/watch?v=p740EsQ8XmY)
+- [Worst For Me](https://www.youtube.com/watch?v=VmGLmVur1vk)
+- [Burdens (feat. Alex Désert & Greg Lee of Hepcat)](https://www.youtube.com/watch?v=xI7GUxAgPV0)
+- [Love Never Dies (feat. The Skints)](https://www.youtube.com/watch?v=O40oAztngLA)
+- [Afterthought](https://www.youtube.com/watch?v=d7IN2vVQ-Go)
+- [Alien](https://www.youtube.com/watch?v=wijkVQ4ela8)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2022 |
+| Discogs Link   | [The Interrupters - In The Wild](https://www.discogs.com/release/24106940) |
+| Label          | Hellcat Records |
+| Format         | LP, Album, Ltd, Whi |
+| Catalog Number | 0543-1 |
+

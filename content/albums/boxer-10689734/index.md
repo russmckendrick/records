@@ -1,0 +1,43 @@
+---
+title: "The National - Boxer"
+album_artist: "The National"
+album_title: "Boxer"
+date: 2017-08-13
+release_id: "10689734"
+slug: "boxer-10689734"
+cover:
+    image: "boxer-10689734.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Fake Empire (3:25)
+2. Mistaken For Strangers (3:29)
+3. Brainy (3:16)
+4. Squalor Victoria (3:01)
+5. Green Gloves (3:33)
+6. Slow Show (4:06)
+7. Apartment Story (3:31)
+8. Start A War (3:14)
+9. Guest Room (3:17)
+10. Racing Like A Pro (3:26)
+11. Ada (3:56)
+12. Gospel (4:28)
+13. The System Only Dreams In Total Darkness
+14. Guilty Party
+
+## Videos
+{{< youtube id="E9ck_FhoDUc" title="The National - Mistaken For Strangers" >}}
+- [The National- Apartment Story](https://www.youtube.com/watch?v=S97xQKZDV_4)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [The National - Boxer](https://www.discogs.com/release/10689734) |
+| Label          | Beggars Banquet |
+| Format         | LP, Album, Club, RE, S/Edition, Gra + 7\", Cle |
+| Catalog Number | BBQLP 252 |
+

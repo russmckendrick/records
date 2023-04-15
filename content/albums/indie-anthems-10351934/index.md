@@ -1,0 +1,67 @@
+---
+title: "Various - Indie Anthems"
+album_artist: "Various"
+album_title: "Indie Anthems"
+date: 2017-05-27
+release_id: "10351934"
+slug: "indie-anthems-10351934"
+cover:
+    image: "indie-anthems-10351934.jpg"
+tags: ["Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Trash
+2. Just
+3. One To Another
+4. Movin' On Up
+5. Juxtaposed With U
+6. Fools Gold
+7. Fire
+8. Rearrange
+9. Same Jeans
+10. Dreaming Of You
+11. Breathe (Edit)
+12. You Love Us
+13. Waking Up
+14. Ladykillers
+15. Inbetweener
+16. Ashes
+17. Sing
+18. Here Comes Your Man
+19. Sparky's Dream
+20. Come Together
+
+## Videos
+{{< youtube id="-PdKGDMhau4" title="Suede - Trash" >}}
+- [Radiohead - Just](https://www.youtube.com/watch?v=oIFLtNYI3Ls)
+- [The Charlatans - One To Another](https://www.youtube.com/watch?v=uxyQ5ByKLfE)
+- [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
+- [Super Furry Animals - Juxtapozed with U (Video)](https://www.youtube.com/watch?v=dmCZ4f8NhOk)
+- [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
+- [Kasabian - Fire (Official Music Video)](https://www.youtube.com/watch?v=agVpq_XXRmU)
+- [Miles Kane - Rearrange](https://www.youtube.com/watch?v=2SV422fSYE4)
+- [The View - Same Jeans](https://www.youtube.com/watch?v=RpXTISw_Huw)
+- [The Coral - Dreaming of You](https://www.youtube.com/watch?v=Jdc6s7gJEfA)
+- [The Prodigy - 'Breathe'](https://www.youtube.com/watch?v=rmHDhAohJlQ)
+- [Manic Street Preachers - You Love Us (Clean Version)](https://www.youtube.com/watch?v=FgKXBJ2LZKo)
+- [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
+- [Lush - Ladykillers (Official Video)](https://www.youtube.com/watch?v=Iedz_x6Hlhw)
+- [Inbetweener](https://www.youtube.com/watch?v=iUQ4Ps9zOQQ)
+- [Ashes](https://www.youtube.com/watch?v=J_4xS6rcTs0)
+- [Travis - Sing (Official Video)](https://www.youtube.com/watch?v=eYO1-gGWJyo)
+- [Pixies - Here Comes Your Man (Official Video)](https://www.youtube.com/watch?v=tPgf_btTFlc)
+- [TEENAGE FANCLUB - Sparky's dream](https://www.youtube.com/watch?v=9buNckusos0)
+- [Spiritualized - Come Together (Official Music Video)](https://www.youtube.com/watch?v=uWOdSeDzyy4)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Various - Indie Anthems](https://www.discogs.com/release/10351934) |
+| Label          | Demon Records |
+| Format         | 2xLP, Comp |
+| Catalog Number | DEMRECOMP004 |
+

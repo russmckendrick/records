@@ -1,0 +1,45 @@
+---
+title: "T. Rex - Electric Warrior"
+album_artist: "T. Rex"
+album_title: "Electric Warrior"
+date: 2017-01-27
+release_id: "6271897"
+slug: "electric-warrior-6271897"
+cover:
+    image: "electric-warrior-6271897.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Mambo Sun (3:39)
+2. Cosmic Dancer (4:28)
+3. Jeepster (4:11)
+4. Monolith (3:45)
+5. Lean Woman Blues (2:59)
+6. Get It On (4:24)
+7. Planet Queen (3:11)
+8. Girl (2:29)
+9. The Motivator (3:57)
+10. Life's A Gas (2:25)
+11. Rip Off (3:42)
+
+## Videos
+{{< youtube id="FyzWDl0nz00" title="T. Rex - Bang a Gong (Get It On) (Official Audio)" >}}
+- [Cosmic Dancer (2003 Remaster)](https://www.youtube.com/watch?v=UAv1qZnYAwY)
+- [Mambo Sun (2003 Remaster)](https://www.youtube.com/watch?v=bPkc5-2McG0)
+- [Planet Queen (2003 Remaster)](https://www.youtube.com/watch?v=Q48jqaJWToc)
+- [Rip Off](https://www.youtube.com/watch?v=U1pG-23Jvuw)
+- [Hot Love](https://www.youtube.com/watch?v=kKoaHw8gy88)
+- [The Motivator (2003 Remaster)](https://www.youtube.com/watch?v=j8HPwDIEinM)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2014 |
+| Discogs Link   | [T. Rex - Electric Warrior](https://www.discogs.com/release/6271897) |
+| Label          | A&M Records, Universal Music Catalogue |
+| Format         | LP, Album, RE, 180 |
+| Catalog Number | 535 407-6 |
+

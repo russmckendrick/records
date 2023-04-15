@@ -1,0 +1,49 @@
+---
+title: "Ian Dury - New Boots And Panties!!"
+album_artist: "Ian Dury"
+album_title: "New Boots And Panties!!"
+date: 2016-01-07
+release_id: "392738"
+slug: "new-boots-and-panties-392738"
+cover:
+    image: "new-boots-and-panties-392738.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Wake Up And Make Love With Me (4:30)
+2. Sweet Gene Vincent (3:30)
+3. I'm Partial To Your Abracadabra (3:30)
+4. My Old Man (3:30)
+5. Billericay Dickie (4:00)
+6. Clevor Trever (5:00)
+7. If I Was With A Woman (3:30)
+8. Blockheads (4:00)
+9. Plaistow Patricia (4:00)
+10. Blackmail Man (2:00)
+
+## Videos
+{{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}
+- [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
+- [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
+- [I'm Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
+- [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
+- [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
+- [Ian Dury - Sex And Drugs And Rock And Roll.](https://www.youtube.com/watch?v=dvhoSAKLztM)
+- [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
+- [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
+- [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
+- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
+- [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1977 |
+| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/392738) |
+| Label          | Stiff Records |
+| Format         | LP, Album |
+| Catalog Number | SEEZ 4 |
+

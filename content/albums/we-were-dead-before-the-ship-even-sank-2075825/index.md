@@ -1,0 +1,54 @@
+---
+title: "Modest Mouse - We Were Dead Before The Ship Even Sank"
+album_artist: "Modest Mouse"
+album_title: "We Were Dead Before The Ship Even Sank"
+date: 2017-08-23
+release_id: "2075825"
+slug: "we-were-dead-before-the-ship-even-sank-2075825"
+cover:
+    image: "we-were-dead-before-the-ship-even-sank-2075825.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. 1 Unum
+2. March Into The Sea (3:30)
+3. Dashboard (4:06)
+4. Fire It Up (4:34)
+5. Florida (2:57)
+6. 2 Duo
+7. Parting Of The Sensory (5:34)
+8. Missed The Boat (4:24)
+9. We've Got Everything (3:40)
+10. 3 Tria
+11. Fly Trapped In A Jar (4:29)
+12. Education (3:56)
+13. Little Motel (4:44)
+14. Steam Engenius (4:26)
+15. 4 Quattor
+16. Spitting Venom (8:27)
+17. People As Places As People (3:42)
+18. Invisible (3:59)
+
+## Videos
+{{< youtube id="O4XskfT6vNY" title="Modest Mouse - Missed the Boat (Contest Video)" >}}
+- [Modest Mouse - Dashboard (Official Music Video)](https://www.youtube.com/watch?v=penvn9VL32Y)
+- [Modest Mouse-Parting of the sensory](https://www.youtube.com/watch?v=4k_h9g4eoAI)
+- [Modest Mouse - Steam Engenius](https://www.youtube.com/watch?v=_PrhGkguKSE)
+- [Modest Mouse March into the Sea](https://www.youtube.com/watch?v=N3RendyCVvE)
+- [Modest Mouse - Florida](https://www.youtube.com/watch?v=7bTjjS_palc)
+- [Album Review : We Were Dead Before The Ship Even Sank by Modest Mouse](https://www.youtube.com/watch?v=hwZDSJB8L2o)
+- [Modest Mouse-Fly Trapped In A Jar](https://www.youtube.com/watch?v=i1FFOB3aP-M)
+- [Modest Mouse - We've Got Everything](https://www.youtube.com/watch?v=AceNg5WrF9I)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2007 |
+| Discogs Link   | [Modest Mouse - We Were Dead Before The Ship Even Sank](https://www.discogs.com/release/2075825) |
+| Label          | Epic |
+| Format         | 2xLP, Album, Gat |
+| Catalog Number | 82876 86139 1 |
+

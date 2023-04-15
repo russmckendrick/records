@@ -1,0 +1,62 @@
+---
+title: "Phil Collins - The Singles"
+album_artist: "Phil Collins"
+album_title: "The Singles"
+date: 2017-01-06
+release_id: "9196545"
+slug: "the-singles-9196545"
+cover:
+    image: "the-singles-9196545.jpg"
+tags: ["Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Easy Lover (5:03)
+2. Two Hearts (3:24)
+3. Sussudio (4:23)
+4. I Missed Again (3:44)
+5. Wear My Hat (4:42)
+6. Don't Lose My Number (4:48)
+7. You Can't Hurry Love (2:54)
+8. Something Happened On The Way To Heaven (4:51)
+9. We Wait And We Wonder (7:00)
+10. Can't Stop Loving You (4:16)
+11. Dance Into The Light (4:23)
+12. It's In Your Eyes (3:04)
+13. Hang In Long Enough (4:44)
+14. Thru These Walls (5:04)
+15. I Wish It Would Rain Down (5:28)
+16. Both Sides Of The Story (6:42)
+17. (Love Is Like A) Heatwave (2:52)
+18. Going Back (4:38)
+19. In The Air Tonight (5:35)
+20. Against All Odds (3:26)
+21. If Leaving Me Is Easy (4:56)
+22. One More Night (4:48)
+23. Separate Lives (4:08)
+24. A Groovy Kind Of Love (3:30)
+25. That's Just The Way It Is (5:20)
+26. Do You Remember? (4:36)
+27. Everyday (5:43)
+28. True Colors (4:34)
+29. You'll Be In My Heart (4:17)
+30. The Least You Can Do (4:22)
+31. Look Through My Eyes (4:00)
+32. Another Day In Paradise (5:23)
+33. Take Me Home (5:53)
+
+## Videos
+{{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}
+- [Phil Collins - In The Air Tonight (Official Music Video)](https://www.youtube.com/watch?v=YkADj0TPrJA)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [Phil Collins - The Singles](https://www.discogs.com/release/9196545) |
+| Label          | Atlantic |
+| Format         | 4xLP, Comp, RM + Box |
+| Catalog Number | 081227945909 |
+

@@ -1,0 +1,69 @@
+---
+title: "Bob Stanley & Pete Wiggs - The Tears Of Technology"
+album_artist: "Bob Stanley & Pete Wiggs"
+album_title: "The Tears Of Technology"
+date: 2020-03-05
+release_id: "14861335"
+slug: "the-tears-of-technology-14861335"
+cover:
+    image: "the-tears-of-technology-14861335.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Jean Walks In Fresh Fields (1:48)
+2. Grey Skies (4:17)
+3. Real To Real (2:49)
+4. Tidal Flow (3:51)
+5. An Evening In The Ray (2:48)
+6. The Winds (5:10)
+7. Youth (3:14)
+8. Europe After The Rain (3:58)
+9. Personal Loss (2:51)
+10. Lights Of April (2:19)
+11. Sealand (7:42)
+12. Private Plane (3:58)
+13. Direct Lines (3:51)
+14. Unless (4:38)
+15. October (Love Song) (3:51)
+16. A Map Of You (3:48)
+17. WXJL Tonight (4:35)
+18. Christiana (3:36)
+19. Tiny Children (3:49)
+20. Behind The Shades (5:55)
+21. Feather Bed (3:02)
+
+## Videos
+{{< youtube id="d7Mf_mxnsjg" title="China Crisis - Jean Walks in Fresh Fields" >}}
+- [Turquoise Days - Grey Skies](https://www.youtube.com/watch?v=GqpL5iNa4rA)
+- [Reel To Real (Remastered 2002)](https://www.youtube.com/watch?v=ACV2n3lJxFs)
+- [Illustration - Tidal Flow](https://www.youtube.com/watch?v=zs_BTg2FQTc)
+- [An Evening In The Ray](https://www.youtube.com/watch?v=pqhTGaRRXSg)
+- [The Turquoise Swimming Pools - The Winds](https://www.youtube.com/watch?v=zwa54ZlE25Y)
+- [Youth](https://www.youtube.com/watch?v=2ikFs0cwqp0)
+- [John Foxx - Europe After The Rain (HQ)](https://www.youtube.com/watch?v=DFjkOWigb-M)
+- [Patrik Fitzgerald - Personal Loss](https://www.youtube.com/watch?v=GMVLCp183Ks)
+- [Eyeless In Gaza - Light of April](https://www.youtube.com/watch?v=3OoJWs5wtfM)
+- [Sealand (2003 Digital Remaster)](https://www.youtube.com/watch?v=t_he2hubqNo)
+- [THOMAS LEER private plane 1978](https://www.youtube.com/watch?v=sehOKE4vNGE)
+- [The Electronic Circus   Direct Lines 1981](https://www.youtube.com/watch?v=n9uLSLUxHzU)
+- [Pale Fountains - Unless - 1983](https://www.youtube.com/watch?v=pAOi3hmA3Cw)
+- [Chris & Cosey - October Love Song](https://www.youtube.com/watch?v=2jJ0P06zx78)
+- [New Musik - A Map Of You](https://www.youtube.com/watch?v=xvARmk0cML0)
+- [WXJL Tonight (2003 Digital Remaster)](https://www.youtube.com/watch?v=mvDPlDVP-iI)
+- [Paul Haig - Christiana](https://www.youtube.com/watch?v=L3IdU1ATLWo)
+- [Tiny Children - The Teardrop Explodes](https://www.youtube.com/watch?v=-PBhVJrXnuY)
+- [Oppenheimer Analysis - Behind The Shades](https://www.youtube.com/watch?v=YGc5oF4tn9E)
+- [Trevor Bastow - feather bed](https://www.youtube.com/watch?v=obMWwz1M5NE)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [Bob Stanley & Pete Wiggs - The Tears Of Technology](https://www.discogs.com/release/14861335) |
+| Label          | Ace |
+| Format         | 2xLP, Comp, Ltd, Whi |
+| Catalog Number | XXQLP2068W |
+

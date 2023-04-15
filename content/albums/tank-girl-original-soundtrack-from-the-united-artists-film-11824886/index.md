@@ -1,0 +1,51 @@
+---
+title: "Various - Tank Girl - Original Soundtrack From The United Artists Film"
+album_artist: "Various"
+album_title: "Tank Girl - Original Soundtrack From The United Artists Film"
+date: 2018-04-10
+release_id: "11824886"
+slug: "tank-girl-original-soundtrack-from-the-united-artists-film-11824886"
+cover:
+    image: "tank-girl-original-soundtrack-from-the-united-artists-film-11824886.jpg"
+tags: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Ripper Sole (1:42)
+2. Army Of Me (3:56)
+3. Girl U Want (3:51)
+4. Mockingbird Girl (3:30)
+5. Shove (3:11)
+6. Drown Soda (3:50)
+7. Bomb (3:23)
+8. Roads (5:04)
+9. Let's Do It (2:23)
+10. Thief (3:12)
+11. Aurora (4:03)
+12. Big Gun (3:54)
+
+## Videos
+{{< youtube id="8ric_N_AGD8" title="Ripper's Sole (O.S.T.)" >}}
+- [Army Of Me](https://www.youtube.com/watch?v=a19X695w3No)
+- [Girl U Want (O.S.T.)](https://www.youtube.com/watch?v=Ga_eP6vIHnQ)
+- [Mockingbird Girl (O.S.T.)](https://www.youtube.com/watch?v=6TqnZEe-6K8)
+- [Shove (O.S.T.)](https://www.youtube.com/watch?v=itXA0NPMu7M)
+- [Drown Soda (O.S.T.)](https://www.youtube.com/watch?v=MisB3HHSffU)
+- [Bomb (O.S.T.)](https://www.youtube.com/watch?v=yTz1Mdv5aj0)
+- [Roads (O.S.T.)](https://www.youtube.com/watch?v=uvOkWj1USBE)
+- [Let's Do It (O.S.T.)](https://www.youtube.com/watch?v=xi8i08ve4hE)
+- [Thief (O.S.T.)](https://www.youtube.com/watch?v=-MjlENtpyxc)
+- [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
+- [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2018 |
+| Discogs Link   | [Various - Tank Girl - Original Soundtrack From The United Artists Film](https://www.discogs.com/release/11824886) |
+| Label          | Real Gone Music, Elektra |
+| Format         | LP, Comp, Ltd, Aqu |
+| Catalog Number | RGM 0679 |
+

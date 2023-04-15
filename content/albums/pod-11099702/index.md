@@ -1,0 +1,51 @@
+---
+title: "The Breeders - Pod"
+album_artist: "The Breeders"
+album_title: "Pod"
+date: 2018-05-25
+release_id: "11099702"
+slug: "pod-11099702"
+cover:
+    image: "pod-11099702.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Glorious
+2. Doe
+3. Happiness Is A Warm Gun
+4. Oh!
+5. Hellbound
+6. When I Was A Painter
+7. Fortunately Gone
+8. Iris
+9. Opened
+10. Only In 3's
+11. Lime House
+12. Metal Man
+
+## Videos
+{{< youtube id="OSwgWt0UNgE" title="Glorious" >}}
+- [Doe](https://www.youtube.com/watch?v=wANv31sHYrk)
+- [Happiness Is A Warm Gun](https://www.youtube.com/watch?v=LoIyUl10ChQ)
+- [Oh!](https://www.youtube.com/watch?v=53sd3y2m1uU)
+- [Hellbound](https://www.youtube.com/watch?v=vByo-9H5xBs)
+- [When I Was A Painter](https://www.youtube.com/watch?v=3Pe9LS65yM4)
+- [Fortunately Gone](https://www.youtube.com/watch?v=9eFufqZ_wBI)
+- [Iris](https://www.youtube.com/watch?v=BjNkwC59tp4)
+- [Opened](https://www.youtube.com/watch?v=wFMxXEcATxk)
+- [Only In 3's](https://www.youtube.com/watch?v=6LM6hA4NyO8)
+- [Lime House](https://www.youtube.com/watch?v=fjsELVfqFFw)
+- [Metal Man](https://www.youtube.com/watch?v=9S-V1LxNccI)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2018 |
+| Discogs Link   | [The Breeders - Pod](https://www.discogs.com/release/11099702) |
+| Label          | 4AD |
+| Format         | LP, Album, RE |
+| Catalog Number | CAD 0006 |
+

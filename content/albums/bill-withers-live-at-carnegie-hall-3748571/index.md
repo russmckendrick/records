@@ -1,0 +1,55 @@
+---
+title: "Bill Withers - Bill Withers Live At Carnegie Hall"
+album_artist: "Bill Withers"
+album_title: "Bill Withers Live At Carnegie Hall"
+date: 2016-10-01
+release_id: "3748571"
+slug: "bill-withers-live-at-carnegie-hall-3748571"
+cover:
+    image: "bill-withers-live-at-carnegie-hall-3748571.jpg"
+tags: ["Funk / Soul"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Use Me (8:30)
+2. Friend Of Mine (4:26)
+3. Ain't No Sunshine (2:25)
+4. Grandma's Hands (With Rap) (5:08)
+5. World Keeps Going Around (5:08)
+6. Let Me In Your Life (With Rap) (4:35)
+7. Better Off Dead (3:36)
+8. For My Friend (2:58)
+9. I Can't Write Left Handed (6:52)
+10. Lean On Me (5:47)
+11. Lonely Town Lonely Street (3:54)
+12. Hope She'll Be Happier (4:23)
+13. Let Us Love (5:21)
+14. Harlem/Cold Baloney (13:07)
+
+## Videos
+{{< youtube id="fSqtPjpKb6k" title="Use Me (Live at Carnegie Hall, New York, NY - October 1972)" >}}
+- [Friend of Mine (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=LXIe92-eQCg)
+- [Ain't No Sunshine (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=oHoM2i804QI)
+- [Grandma's Hands (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=erARI_f9AvA)
+- [World Keeps Going Around (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=hwFz7--6e2w)
+- [Let Me in Your Life (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=EiVnd1DwSHA)
+- [Better off Dead (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=-jpP9pUdiyk)
+- [For My Friend (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=aD337fVyAXk)
+- [Bill Withers - I Can't Write Left-Handed (Live) (Audio)](https://www.youtube.com/watch?v=__4_fCgjI74)
+- [Lean on Me (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=tXcCav4zyJI)
+- [Lonely Town, Lonely Street (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=Fa65k3eWj8o)
+- [Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=MXdn9FrTpk8)
+- [Let Us Love (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=vOfSxkgX8XM)
+- [Medley: Harlem / Cold Baloney (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=S00jJdAYVoU)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2012 |
+| Discogs Link   | [Bill Withers - Bill Withers Live At Carnegie Hall](https://www.discogs.com/release/3748571) |
+| Label          | Music On Vinyl, Sussex |
+| Format         | 2xLP, Album, RE, 180 |
+| Catalog Number | MOVLP432, SXBS 7025-2 |
+

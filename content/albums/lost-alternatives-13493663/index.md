@@ -1,0 +1,55 @@
+---
+title: "Steve Lamacq - Lost Alternatives"
+album_artist: "Steve Lamacq"
+album_title: "Lost Alternatives"
+date: 2019-04-15
+release_id: "13493663"
+slug: "lost-alternatives-13493663"
+cover:
+    image: "lost-alternatives-13493663.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Chelsea Girl
+2. Indian Rope
+3. Shall We Take A Trip?
+4. Is It Too Late?
+5. Big Bad Baby Pig Squeal
+6. Catch The Breeze
+7. Supermodel Superficial
+8. Waterlogged
+9. Real Surreal
+10. Speed King
+11. Rat
+12. Stutter
+13. Wuthering Heights
+14. Uncle Pat
+15. Happy Shopper
+16. Race
+17. Lover
+18. Morning Morning 5:19
+19. Take It Easy Chicken
+20. Alkaline
+21. School Disco
+22. The First Big Weekend
+23. New Paths To Helicon Part 1
+24. I.P.C. Subeditors Dictate Our Youth
+25. Freeze The Atlantic
+26. This Is My Hollywood
+27. Strachan
+
+## Videos
+
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Steve Lamacq - Lost Alternatives](https://www.discogs.com/release/13493663) |
+| Label          | Demon Records |
+| Format         | 2xLP, RSD, Comp, Ltd, Whi |
+| Catalog Number | DEMREC406 |
+

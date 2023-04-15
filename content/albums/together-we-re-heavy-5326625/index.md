@@ -1,0 +1,43 @@
+---
+title: "The Polyphonic Spree - Together We're Heavy"
+album_artist: "The Polyphonic Spree"
+album_title: "Together We're Heavy"
+date: 2017-07-29
+release_id: "5326625"
+slug: "together-we-re-heavy-5326625"
+cover:
+    image: "together-we-re-heavy-5326625.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Section 11 (A Long Day Continues / We Sound Amazed) (8:32)
+2. Section 12 (Hold Me Now) (4:30)
+3. Section 13 (Diamonds / Mild Devotion To Majesty) (4:55)
+4. Section 14 (Two Thousand Places) (5:19)
+5. Section 15 (Ensure Your Reservation) (1:39)
+6. Section 16 (One Man Show) (4:58)
+7. Section 17 (Suitcase Calling) (8:48)
+8. Section 18 (Everything Starts At The Seam) (1:54)
+9. Section 19 (When The Fool Becomes A King) (10:38)
+10. Section 20 (Together We're Heavy) (6:30)
+
+## Videos
+{{< youtube id="zpAOozUt-K8" title="The Polyphonic Spree - Section 20 (Together We're Heavy)" >}}
+- [The Polyphonic Spree - Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=XeA1AYpgLY4)
+- [The Polyphonic Spree: Together We're Heavy](https://www.youtube.com/watch?v=-MYLRycwgqw)
+- [Section 11 (A Long Day Continues/We Sound Amazed)](https://www.youtube.com/watch?v=KdyFxfFHnmg)
+- [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=3KCv7U2KA8c)
+- [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=_nxjf6AYecc)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2004 |
+| Discogs Link   | [The Polyphonic Spree - Together We're Heavy](https://www.discogs.com/release/5326625) |
+| Label          | Hollywood Records, Good Records, Disneyland |
+| Format         | 2xLP, Album, Gat |
+| Catalog Number | 2061-62423-1, none |
+

@@ -1,0 +1,60 @@
+---
+title: "Haken (2) - The Mountain"
+album_artist: "Haken (2)"
+album_title: "The Mountain"
+date: 2021-03-06
+release_id: "17706778"
+slug: "the-mountain-17706778"
+cover:
+    image: "the-mountain-17706778.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. The Path
+2. Atlas Stone
+3. Cockroach King
+4. In Memorian
+5. Because It's There
+6. Falling Back To Earth
+7. As Death Embraces
+8. Pareidolia
+9. Somebody
+10. The Path Unbeaten
+11. Nobody
+12. The Path (2:47)
+13. Atlas Stone (7:34)
+14. Cockroach King (8:15)
+15. In Memorian (4:17)
+16. Because It's There (4:24)
+17. Falling Back To Earth (11:51)
+18. As Death Embraces (3:13)
+19. Pareidolia (10:51)
+20. Somebody (9:01)
+21. The Path Unbeaten (2:12)
+22. Nobody (4:53)
+
+## Videos
+{{< youtube id="RvzL2FoF5W8" title="The Path" >}}
+- [Atlas Stone](https://www.youtube.com/watch?v=JUK4CMh4Feg)
+- [Cockroach King](https://www.youtube.com/watch?v=mwcA2xuKtts)
+- [In Memoriam](https://www.youtube.com/watch?v=-xgE_g0PJ-s)
+- [Because It's There](https://www.youtube.com/watch?v=3u4d7k3nMXA)
+- [Falling Back To Earth](https://www.youtube.com/watch?v=52ALziuI-AY)
+- [As Death Embraces](https://www.youtube.com/watch?v=FHNbW3I-lug)
+- [Pareidolia](https://www.youtube.com/watch?v=-AbGjGpJPO0)
+- [Somebody](https://www.youtube.com/watch?v=kLIyBYQkr3w)
+- [The Path Unbeaten](https://www.youtube.com/watch?v=N8naO6HASm0)
+- [Nobody](https://www.youtube.com/watch?v=bVmucEX4DZQ)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2021 |
+| Discogs Link   | [Haken (2) - The Mountain](https://www.discogs.com/release/17706778) |
+| Label          | Inside Out Music, Sony Music |
+| Format         | 2xLP, Album, 180 + CD, Album + RE |
+| Catalog Number | IOMLP 578, 19439819551 |
+

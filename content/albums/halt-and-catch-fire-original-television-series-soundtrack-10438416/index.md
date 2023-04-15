@@ -1,0 +1,51 @@
+---
+title: "Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)"
+album_artist: "Paul Haslinger"
+album_title: "Halt And Catch Fire (Original Television Series Soundtrack)"
+date: 2017-07-01
+release_id: "10438416"
+slug: "halt-and-catch-fire-original-television-series-soundtrack-10438416"
+cover:
+    image: "halt-and-catch-fire-original-television-series-soundtrack-10438416.jpg"
+tags: ["Electronic", "Stage & Screen"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Golden Gate (2:06)
+2. A Wolf In Unix (1:16)
+3. The Scenic Route (1:49)
+4. First Day On The Job (1:16)
+5. It Speaks (4:20)
+6. Reverse Engineering (2:25)
+7. Security Is A Myth (3:02)
+8. The Morning After (2:22)
+9. Rooftop Fireworks (1:17)
+10. I Need A Little Time (1:08)
+11. Western Arrivals (1:35)
+12. The Slingshot (1:16)
+13. 10broad36 (0:32)
+14. The Way In (0:32)
+15. Run Time (0:30)
+16. Last Nerve (0:57)
+17. Gordon Steals A Cabbage Patch (2:32)
+18. The Cost Of Doing Business (1:50)
+19. Joe's Truth (2:03)
+20. Go Get The Bike (1:24)
+21. The End Of Donna's Day (1:04)
+22. It's Not Right (1:23)
+23. MacMillan Utility (1:51)
+
+## Videos
+
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)](https://www.discogs.com/release/10438416) |
+| Label          | Fire Records, Lakeshore Records LLC., Fire Records, Lakeshore Records LLC. |
+| Format         | LP, Album, Dlx, Ltd, Whi |
+| Catalog Number | FROST001LP, FROST001LPX |
+

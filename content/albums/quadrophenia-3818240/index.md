@@ -1,0 +1,86 @@
+---
+title: "The Who - Quadrophenia"
+album_artist: "The Who"
+album_title: "Quadrophenia"
+date: 2015-08-09
+release_id: "3818240"
+slug: "quadrophenia-3818240"
+cover:
+    image: "quadrophenia-3818240.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. The Original Album : 2011 Remaster
+2. I Am The Sea (2:10)
+3. The Real Me (3:21)
+4. Quadrophenia (6:13)
+5. Cut My Hair (3:45)
+6. The Punk And The Godfather (5:11)
+7. I'm One (2:38)
+8. The Dirty Jobs (4:29)
+9. Helpless Dancer (2:34)
+10. Is It In My Head? (3:43)
+11. I've Had Enough (6:16)
+12. 5.15 (5:01)
+13. Sea And Sand (5:01)
+14. Drowned (5:27)
+15. Bell Boy (4:58)
+16. Doctor Jimmy (8:36)
+17. The Rock (6:37)
+18. Love Reign O'er Me (5:50)
+19. The Demos
+20. The Real Me (Demo) (4:27)
+21. Quadrophenia - Four Overtures (Demo) (6:21)
+22. Cut My Hair (Demo) (3:30)
+23. Fill No. 1 - Get Out And Stay Out (Demo) (1:23)
+24. Quadrophenic - Four Faces (Demo) (4:04)
+25. We Close Tonight (Demo) (2:44)
+26. You Came Back (Demo) (3:19)
+27. Get Inside (Demo) (3:11)
+28. Joker James (Demo) (3:42)
+29. Punk (Demo) (4:56)
+30. I'm One (Demo) (2:39)
+31. Dirty Jobs (Demo) (3:48)
+32. Helpless Dancer (Demo) (2:16)
+33. Is It In My Head? (Demo) (4:13)
+34. Anymore (Demo) (3:22)
+35. I've Had Enough (Demo) (6:23)
+36. Fill No. 2 (Demo) (1:32)
+37. Wizardry (Demo) (3:11)
+38. Sea And Sand (Demo) (4:14)
+39. Drowned (Demo) (4:15)
+40. Is It Me? (Demo) (4:39)
+41. Bell Boy (Demo) (5:04)
+42. Doctor Jimmy (Demo) (7:30)
+43. Finale - The Rock (Demo) (8:00)
+44. Love Reign O'er Me (Demo) (5:12)
+45. 5.1 Surround-Sound Mix
+46. I Am The Sea
+47. The Real Me
+48. Quadrophenia
+49. I've Had Enough
+50. 5.15
+51. Doctor Jimmy
+52. The Rock
+53. Love Reign O'er Me
+54. Seven-Inch Vinyl Single
+55. 5.15
+56. Water
+
+## Videos
+{{< youtube id="okPlOaNQSpE" title="The Who - Quadrophenia" >}}
+- [The̲ W̲ho   Qu̲adrophe̲nia Full Album 1973](https://www.youtube.com/watch?v=11_ZE5ATDq4)
+- [Quadrophenia](https://www.youtube.com/watch?v=_oRkeKVWayg)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2011 |
+| Discogs Link   | [The Who - Quadrophenia](https://www.discogs.com/release/3818240) |
+| Label          | Polydor, Universal Music Catalogue, Track Record |
+| Format         | Box, Dlx, Ltd, Dir + 2xCD, Album, RE, RM + 2xCD, A |
+| Catalog Number | 2777840 |
+

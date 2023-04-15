@@ -1,0 +1,51 @@
+---
+title: "Sunny War - Anarchist Gospel"
+album_artist: "Sunny War"
+album_title: "Anarchist Gospel"
+date: 2023-02-06
+release_id: "25939921"
+slug: "anarchist-gospel-25939921"
+cover:
+    image: "anarchist-gospel-25939921.jpg"
+tags: ["Rock", "Blues", "Folk, World, & Country"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Love's Death Bed
+2. No Reason
+3. Shelter And Storm
+4. I Got No Fight
+5. Swear To Gawd
+6. Baby Bitch
+7. His Love
+8. Whole
+9. New Day
+10. Earth
+11. Hopeless
+12. Higher
+13. Test Dummy
+14. Sweet Nothing
+
+## Videos
+{{< youtube id="8hnaMoHzx7o" title="Sunny War - Higher (feat. David Rawlings) [Official Audio]" >}}
+- [Sunny War performs Whole](https://www.youtube.com/watch?v=VflAVCg385Q)
+- [Sunny War - New Day [Official Audio]](https://www.youtube.com/watch?v=XOxIAk-DQSs)
+- [Sunny War - Baby Bitch  [Official Audio]](https://www.youtube.com/watch?v=Qim2TSC3x40)
+- [Sunny War - Shelter And Storm (feat. David Rawlings) [Official Audio]](https://www.youtube.com/watch?v=w0xt2H9COvo)
+- [Sweet Nothing](https://www.youtube.com/watch?v=p6F-CmRerF4)
+- [Sunny War - Whole [Official Audio]](https://www.youtube.com/watch?v=O7GlPPDZp_A)
+- [Sunny War - Hopeless (feat. Allison Russell and Chris Pierce) [Official Audio]](https://www.youtube.com/watch?v=psTUUQe9cz0)
+- [Whole](https://www.youtube.com/watch?v=O1TQYzmzRTQ)
+- [Sunny War - No Reason [Official Audio]](https://www.youtube.com/watch?v=jsNlM1wKynQ)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2023 |
+| Discogs Link   | [Sunny War - Anarchist Gospel](https://www.discogs.com/release/25939921) |
+| Label          | New West Records |
+| Format         | LP, Album, Red |
+| Catalog Number | NW5702 |
+

@@ -1,0 +1,71 @@
+---
+title: "R.E.M. - Out Of Time"
+album_artist: "R.E.M."
+album_title: "Out Of Time"
+date: 2018-01-08
+release_id: "9375101"
+slug: "out-of-time-9375101"
+cover:
+    image: "out-of-time-9375101.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Time Side
+2. Radio Song (4:12)
+3. Losing My Religion (4:26)
+4. Low (4:55)
+5. Near Wild Heaven (3:17)
+6. Endgame (3:48)
+7. Memory Side
+8. Shiny Happy People (3:44)
+9. Belong (4:03)
+10. Half A World Away (3:26)
+11. Texarkana (3:36)
+12. Country Feedback (4:07)
+13. Me In Honey (4:06)
+14. Out Of Time Demos
+15. Losing My Religion 1 (Demo) (4:00)
+16. Near Wild Heaven 1 (Demo) (4:09)
+17. Shiny Happy People 1 (Demo) (3:14)
+18. Texarkana 1 (Demo) (3:50)
+19. Untitled Demo 2 (3:33)
+20. Radio – Acoustic (Radio Song 1 Demo) (4:15)
+21. Near Wild Heaven 2 (Demo) (4:34)
+22. Shiny Happy People 2 (Demo) (3:55)
+23. Slow Sad Rocker (Endgame Demo) (4:34)
+24. Radio – Band (Radio Song 3 Demo) (4:22)
+25. Losing My Religion 2 (Demo) (4:36)
+26. Belong (Demo) (4:17)
+27. Blackbirds (Half A World Away Demo) (3:26)
+28. Texarkana (Demo) (4:06)
+29. Country Feedback (Demo) (4:03)
+30. Me On Keyboard (Me In Honey Demo) (3:42)
+31. Low (Demo) (4:54)
+32. 40 Sec. (40 Second Song Demo) (1:22)
+33. Fretless 1 (Demo) (4:52)
+
+## Videos
+{{< youtube id="ZlgOnooY7FA" title="Radio Song" >}}
+- [Losing My Religion](https://www.youtube.com/watch?v=Efa6BAWPm9o)
+- [Low](https://www.youtube.com/watch?v=iRO7oryZUnM)
+- [Near Wild Heaven](https://www.youtube.com/watch?v=dcP7TxLnd9M)
+- [Endgame](https://www.youtube.com/watch?v=-3coDah-ZQU)
+- [Shiny Happy People](https://www.youtube.com/watch?v=nsI2BdCmoCA)
+- [Belong](https://www.youtube.com/watch?v=UOtcV_6wfxQ)
+- [Half A World Away](https://www.youtube.com/watch?v=u3KMOGAm2Rs)
+- [Texarkana](https://www.youtube.com/watch?v=p16q-w2OuI4)
+- [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
+- [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101) |
+| Label          | Concord Bicycle Music, Universal Music Group International |
+| Format         | LP, Album, RE + 2xLP, Dem + Ltd, RM, 25t |
+| Catalog Number | 0888072010246 |
+

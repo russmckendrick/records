@@ -1,0 +1,59 @@
+---
+title: "Joe Strummer & The Mescaleros - Global A Go-Go"
+album_artist: "Joe Strummer & The Mescaleros"
+album_title: "Global A Go-Go"
+date: 2017-12-23
+release_id: "4436307"
+slug: "global-a-go-go-4436307"
+cover:
+    image: "global-a-go-go-4436307.jpg"
+tags: ["Rock", "Folk, World, & Country"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Johnny Appleseed (4:05)
+2. Cool'n'Out (4:17)
+3. Global A Go-Go (5:50)
+4. Bhindi Bhagee (5:45)
+5. Gamma Ray (6:55)
+6. Mega Bottle Ride (3:33)
+7. Shaktar Donetsk (5:58)
+8. Mondo Bongo (6:13)
+9. Bummed Out City (5:33)
+10. At The Border, Guy (7:02)
+11. Minstrel Boy (Full Length Version) (20:56)
+12. Johnny Appleseed (4:05)
+13. Cool'n'Out (4:17)
+14. Global A Go-Go (5:50)
+15. Bhindi Bhagee (5:45)
+16. Gamma Ray (6:55)
+17. Mega Bottle Ride (3:33)
+18. Shaktar Donetsk (5:58)
+19. Mondo Bongo (6:13)
+20. Bummed Out City (5:33)
+21. At The Border, Guy (7:02)
+22. Minstrel Boy (17:51)
+23. Bhindi Bhagee (Live From The Action Concert) (5:58)
+
+## Videos
+{{< youtube id="nmyKLpVM98Q" title="Joe Strummer & the Mescaleros - Global A Go-Go" >}}
+- [Joe Strummer Johnny Appleseed](https://www.youtube.com/watch?v=9pYwPc6UNmo)
+- [Joe Strummer & The Mescaleros - Mondo Bongo](https://www.youtube.com/watch?v=_B9OaJIFumg)
+- [03. Joe Strummer & The Mescaleros - Cool 'N' Out.](https://www.youtube.com/watch?v=7YVHweOugaY)
+- [Minstrel Boy](https://www.youtube.com/watch?v=m_eoJMaLEGI)
+- [Joe Strummer & the Mescaleros - Mega Bottle Ride](https://www.youtube.com/watch?v=PJs2R-DWEMo)
+- [Joe Strummer & The Mescaleros - Cool 'n' Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
+- [Joe Strummer & The Mescaleros ‎– Global A Go-Go](https://www.youtube.com/watch?v=EJktmPyX4L8)
+- [Joe Strummer & The Mescaleros ‎– Johnny Appleseed](https://www.youtube.com/watch?v=xU2WdDnLhTM)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2012 |
+| Discogs Link   | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307) |
+| Label          | Hellcat Records |
+| Format         | 2xLP, Album, RE + CD, Album, RM |
+| Catalog Number | 80440-1 |
+

@@ -1,0 +1,47 @@
+---
+title: "Depeche Mode - A Broken Frame"
+album_artist: "Depeche Mode"
+album_title: "A Broken Frame"
+date: 2017-02-20
+release_id: "8970950"
+slug: "a-broken-frame-8970950"
+cover:
+    image: "a-broken-frame-8970950.jpg"
+tags: ["Electronic", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Leave In Silence
+2. My Secret Garden
+3. Monument
+4. Nothing To Fear
+5. See You
+6. Satellite
+7. The Meaning Of Love
+8. A Photograph Of You
+9. Shouldn't Have Done That
+10. The Sun & The Rainfall
+
+## Videos
+{{< youtube id="ucIv-sMta7I" title="Depeche Mode - Leave In Silence (Official Video)" >}}
+- [My Secret Garden](https://www.youtube.com/watch?v=Gt_orM2MdAw)
+- [Monument](https://www.youtube.com/watch?v=x46E6ztyOtU)
+- [Nothing to Fear](https://www.youtube.com/watch?v=GFTGQ0sl_NM)
+- [Depeche Mode - See You (Official Video)](https://www.youtube.com/watch?v=zuWQitNlvf0)
+- [Satellite](https://www.youtube.com/watch?v=Khr-Il_Ub08)
+- [Depeche Mode - The Meaning of Love (Official Video)](https://www.youtube.com/watch?v=Fkc6TYIxNls)
+- [A Photograph of You](https://www.youtube.com/watch?v=L-u86zxkpjQ)
+- [Shouldn't Have Done That](https://www.youtube.com/watch?v=mZeK1bawOY8)
+- [The Sun and the Rainfall](https://www.youtube.com/watch?v=gHEK_mCyzbU)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [Depeche Mode - A Broken Frame](https://www.discogs.com/release/8970950) |
+| Label          | Mute, Sony Music, Legacy |
+| Format         | LP, Album, RE, RM, Gat |
+| Catalog Number | STUMM9, 88985329931 |
+

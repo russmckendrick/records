@@ -1,0 +1,57 @@
+---
+title: "Tim Bowness - Late Night Laments"
+album_artist: "Tim Bowness"
+album_title: "Late Night Laments"
+date: 2020-08-31
+release_id: "15842720"
+slug: "late-night-laments-15842720"
+cover:
+    image: "late-night-laments-15842720.jpg"
+tags: ["Electronic", "Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Late Night Laments
+2. Northern Rain (4:47)
+3. I'm Better Now (3:50)
+4. Darkline (3:58)
+5. We Caught The Light (3:56)
+6. The Hitman Who Missed (3:21)
+7. Never A Place (4:41)
+8. The Last Getaway (4:55)
+9. Hidden Life (5:05)
+10. One Last Call (4:15)
+11. Late Night Laments
+12. Northern Rain (4:47)
+13. I'm Better Now (3:50)
+14. Darkline (3:58)
+15. We Caught The Light (3:56)
+16. The Hitman Who Missed (3:21)
+17. Never A Place (4:41)
+18. The Last Getaway (4:55)
+19. Hidden Life (5:05)
+20. One Last Call (4:15)
+
+## Videos
+{{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}
+- [TIM BOWNESS - Northern Rain (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=ns8_oScLjeE)
+- [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
+- [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
+- [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
+- [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
+- [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
+- [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
+- [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
+- [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [Tim Bowness - Late Night Laments](https://www.discogs.com/release/15842720) |
+| Label          | Inside Out Music, Sony Music |
+| Format         | LP, Album, Blu + CD, Album + Ltd |
+| Catalog Number | IOMLP 558, 19439783221 |
+

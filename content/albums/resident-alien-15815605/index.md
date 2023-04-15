@@ -1,0 +1,51 @@
+---
+title: "Spacehog - Resident Alien"
+album_artist: "Spacehog"
+album_title: "Resident Alien"
+date: 2020-09-07
+release_id: "15815605"
+slug: "resident-alien-15815605"
+cover:
+    image: "resident-alien-15815605.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. In The Meantime (4:58)
+2. Spacehog (2:14)
+3. Starside (3:49)
+4. Candyman (5:23)
+5. Space Is The Place (3:04)
+6. Never Coming Down (Part I) (1:43)
+7. Cruel To Be Kind (3:03)
+8. Ship Wrecked (5:28)
+9. Only A Few (3:24)
+10. The Last Dictator (4:13)
+11. Never Coming Down (Part II) (4:02)
+12. Zeroes (6:38)
+13. To Be A Millionaire...Was It Likely? (13:10)
+14. Untitled (8:10)
+
+## Videos
+{{< youtube id="PCsGRCf8T9Y" title="Spacehog - In the Meantime (Official Music Video)" >}}
+- [Spacehog - Cruel to Be Kind (Official Music Video)](https://www.youtube.com/watch?v=_5IyLeWJQvw)
+- [Spacehog - Candyman (Official Music Video)](https://www.youtube.com/watch?v=OkauEG7dtB4)
+- [Spacehog - Space Is the Place (Official Music Video)](https://www.youtube.com/watch?v=a4vvMnIF36M)
+- [Never Coming Down (Pt 1)](https://www.youtube.com/watch?v=t1BNCU3EMpo)
+- [Never Coming Down (Pt. 2)](https://www.youtube.com/watch?v=qKoQc1fh1SE)
+- [Starside](https://www.youtube.com/watch?v=-Or5bGgL5jY)
+- [Space Is the Place](https://www.youtube.com/watch?v=gPLoIo6nwZQ)
+- [Only a Few](https://www.youtube.com/watch?v=uf7XG1irP0M)
+- [The Last Dictator](https://www.youtube.com/watch?v=t99_bSas4DI)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [Spacehog - Resident Alien](https://www.discogs.com/release/15815605) |
+| Label          | Sire, Hi Fi Recordings, Real Gone Music |
+| Format         | 2xLP, Album, RSD, Ltd, RE, Pin |
+| Catalog Number | 61834-2, RGM-1014 |
+

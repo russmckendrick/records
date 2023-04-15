@@ -1,0 +1,51 @@
+---
+title: "Stars - There Is No Love In Fluorescent Light"
+album_artist: "Stars"
+album_title: "There Is No Love In Fluorescent Light"
+date: 2017-11-07
+release_id: "10994086"
+slug: "there-is-no-love-in-fluorescent-light-10994086"
+cover:
+    image: "there-is-no-love-in-fluorescent-light-10994086.jpg"
+tags: ["Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Privilege
+2. Fluorescent Light
+3. Losing To You
+4. Hope Avenue
+5. Alone
+6. We Called It Love
+7. Real Thing
+8. The Gift Of Love
+9. On The Hills
+10. The Maze
+11. California, I Love That Name
+12. Wanderers
+
+## Videos
+{{< youtube id="Q1-jaX3K4Ik" title="Privilege" >}}
+- [We Called It Love](https://www.youtube.com/watch?v=YJwmEFm_tpg)
+- [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
+- [California, I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
+- [Stars - Real Thing (Official Audio)](https://www.youtube.com/watch?v=xm-vMmgKL68)
+- [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
+- [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
+- [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
+- [Stars - Alone (Official Audio)](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
+- [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
+- [Fluorescent Light](https://www.youtube.com/watch?v=UItCDy8ARYA)
+- [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Stars - There Is No Love In Fluorescent Light](https://www.discogs.com/release/10994086) |
+| Label          | Last Gang Records |
+| Format         | 2xLP, Album, Ltd, Bon |
+| Catalog Number | Q101943 |
+

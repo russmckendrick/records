@@ -1,0 +1,44 @@
+---
+title: "Jean-Michel Jarre - Equinoxe"
+album_artist: "Jean-Michel Jarre"
+album_title: "Equinoxe"
+date: 2016-12-08
+release_id: "7597791"
+slug: "equinoxe-7597791"
+cover:
+    image: "equinoxe-7597791.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Equinoxe Part 1 (2:23)
+2. Equinoxe Part 2 (5:02)
+3. Equinoxe Part 3 (4:59)
+4. Equinoxe Part 4 (7:04)
+5. Equinoxe Part 5 (3:52)
+6. Equinoxe Part 6 (2:47)
+7. Equinoxe Part 7 (7:48)
+8. Equinoxe Part 8 (5:07)
+
+## Videos
+{{< youtube id="RAhgz9aLukk" title="Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ]" >}}
+- [Equinoxe, Pt. 1](https://www.youtube.com/watch?v=kAcUmjU-ZDo)
+- [Equinoxe, Pt. 2](https://www.youtube.com/watch?v=_okeeslfmh8)
+- [Equinoxe, Pt. 3](https://www.youtube.com/watch?v=lzcPAAaeAF8)
+- [Equinoxe, Pt. 4](https://www.youtube.com/watch?v=W18VtbMEbZ0)
+- [Equinoxe, Pt. 5](https://www.youtube.com/watch?v=sH16HY2oEzk)
+- [Equinoxe, Pt. 7](https://www.youtube.com/watch?v=IuJ50xs2rWU)
+- [Equinoxe, Pt. 6](https://www.youtube.com/watch?v=eeAfE-s2Ow8)
+- [Equinoxe, Pt. 8](https://www.youtube.com/watch?v=W4Te8E3AHQU)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2015 |
+| Discogs Link   | [Jean-Michel Jarre - Equinoxe](https://www.discogs.com/release/7597791) |
+| Label          | Disques Dreyfus, BMG, Sony Music |
+| Format         | LP, Album, RE, RM, 180 |
+| Catalog Number | 88843024691 |
+

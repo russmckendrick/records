@@ -1,0 +1,52 @@
+---
+title: "Mac Quayle - Mr. Robot: Volume 2 (Original Television Series Soundtrack)"
+album_artist: "Mac Quayle"
+album_title: "Mr. Robot: Volume 2 (Original Television Series Soundtrack)"
+date: 2016-09-21
+release_id: "9022562"
+slug: "mr-robot-volume-2-original-television-series-soundtrack-9022562"
+cover:
+    image: "mr-robot-volume-2-original-television-series-soundtrack-9022562.jpg"
+tags: ["Stage & Screen"]
+hideSummary: true
+---
+
+## Tracklisting
+1. 1.5_1-Askingthe1mpossible.M4p
+2. 1.5_2-Hackthepolice.Mp3
+3. 1.5_3-Trustyourself.Bwf
+4. 1.5_4-Issacsbestmove.Bwf
+5. 1.5_5-Mybestmove.Ra
+6. 1.5_6-Veraliber4ted.Aiff
+7. 1.6_1-V1ew-S0urce.Ogg
+8. 1.6_2-A-Way-Out.Wav
+9. 1.7_1-Consumatesurvivor.Caf
+10. 1.7_2-Darlenesgun.Aac
+11. 1.7_3-In0urgrasps.Ogg
+12. 1.7_4-Wh1ter0se.Flac
+13. 1.7_5-Mrrobot&Tyrell.Wma
+14. 1.8_1-Imcrazy.Aiff
+15. 1.8_2-Mostdangerouscar.M4p
+16. 1.8_3-Ch4ngefromwith1n.Au
+17. 1.8_4-Oneconstant.Caf
+18. 1.9_1-Waltznumber2.Bwf
+19. 1.9_2-Wearefinallyaw4ke.Ra
+20. 1.9_3-Johannaphishes.Wav
+21. 1.9_4-Forcerobotshand.Sd2
+22. 1.9_5-Urmygod.Ogg
+23. 1.9_6-Nothingisreal.Ra
+
+## Videos
+{{< youtube id="lVll1epJBHU" title="Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)" >}}
+- [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [Mac Quayle - Mr. Robot: Volume 2 (Original Television Series Soundtrack)](https://www.discogs.com/release/9022562) |
+| Label          | Invada |
+| Format         | 2xLP, Album, Whi |
+| Catalog Number | INV161LP |
+

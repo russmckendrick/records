@@ -1,0 +1,55 @@
+---
+title: "Gary Numan - Dance"
+album_artist: "Gary Numan"
+album_title: "Dance"
+date: 2018-01-19
+release_id: "11403737"
+slug: "dance-11403737"
+cover:
+    image: "dance-11403737.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Slowcar To China (9:05)
+2. Night Talk (4:26)
+3. A Subway Called 'You' (4:36)
+4. Cry The Clock Said (9:54)
+5. She's Got Claws (4:59)
+6. Crash (3:35)
+7. Boys Like Me (4:14)
+8. Stories (3:09)
+9. My Brother's Time (4:35)
+10. You Are, You Are (4:00)
+11. Moral (Extended Version) (5:41)
+12. Stormtrooper In Drag (4:57)
+13. Face To Face (3:45)
+14. Dance (2:46)
+15. Exhibition (4:26)
+16. I Sing Rain (2:29)
+
+## Videos
+{{< youtube id="RbQYtlE5hVc" title="Moral" >}}
+- [Slowcar to China](https://www.youtube.com/watch?v=ROGHXpApiwE)
+- [Moral (Extended Version)](https://www.youtube.com/watch?v=NTZ9IV03ZLE)
+- [Night Talk](https://www.youtube.com/watch?v=ZD-I0j-e-mU)
+- [A Subway Called 'You'](https://www.youtube.com/watch?v=udi3ox-s1QE)
+- [Cry the Clock Said](https://www.youtube.com/watch?v=Led64P0ZbLo)
+- [Crash](https://www.youtube.com/watch?v=H8a7SSBal94)
+- [Boys Like Me](https://www.youtube.com/watch?v=d43fYBTannM)
+- [Stories](https://www.youtube.com/watch?v=Af5DBiDupvU)
+- [My Brother's Time](https://www.youtube.com/watch?v=m1FoXeW3Hho)
+- [You Are, You Are](https://www.youtube.com/watch?v=SHeEfqbVLh0)
+- [Moral](https://www.youtube.com/watch?v=SilAUckYysk)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2018 |
+| Discogs Link   | [Gary Numan - Dance](https://www.discogs.com/release/11403737) |
+| Label          | Beggars Banquet |
+| Format         | 2xLP, Album, Ltd, RE, Pur |
+| Catalog Number | BBQLP 2146 |
+

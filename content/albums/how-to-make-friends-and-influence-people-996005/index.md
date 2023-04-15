@@ -1,0 +1,48 @@
+---
+title: "Terrorvision - How To Make Friends And Influence People"
+album_artist: "Terrorvision"
+album_title: "How To Make Friends And Influence People"
+date: 2019-05-31
+release_id: "996005"
+slug: "how-to-make-friends-and-influence-people-996005"
+cover:
+    image: "how-to-make-friends-and-influence-people-996005.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Alice What's The Matter? (2:43)
+2. Oblivion (3:03)
+3. Stop The Bus (3:43)
+4. Discotheque Wreck (3:17)
+5. Middleman (3:32)
+6. Still The Rhythm (3:32)
+7. Ten Shades Of Grey (3:03)
+8. Stab In The Back (4:51)
+9. Pretend Best Friend (3:47)
+10. Time O' The Signs (3:25)
+11. What The Doctor Ordered (2:17)
+12. Some People Say (3:03)
+13. What Makes You Tick (4:12)
+
+## Videos
+{{< youtube id="VOOcJobuZTc" title="Terrorvision - Alice, What's the matter?" >}}
+- [Stop the Bus](https://www.youtube.com/watch?v=MG2PtSSNbho)
+- [Terrorvision - Oblivion](https://www.youtube.com/watch?v=5RIlRhXXQjg)
+- [Terrorvision – Some People Say](https://www.youtube.com/watch?v=4IuL7EDHPi8)
+- [Middle Man](https://www.youtube.com/watch?v=S0i5RnRj-ZM)
+- [Time O' the Signs](https://www.youtube.com/watch?v=Y5LS9iSIJv4)
+- [Pretend Best Friend](https://www.youtube.com/watch?v=oZ4LW_BkO_M)
+- [What Makes You Tick](https://www.youtube.com/watch?v=Ooxedc1BiPM)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1994 |
+| Discogs Link   | [Terrorvision - How To Make Friends And Influence People](https://www.discogs.com/release/996005) |
+| Label          | EMI, Total Vegas Recordings |
+| Format         | LP, Album |
+| Catalog Number | 7243 8 29406 1 6, VEGAS LPX 2 |
+

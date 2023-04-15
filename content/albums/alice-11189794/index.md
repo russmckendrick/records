@@ -1,0 +1,45 @@
+---
+title: "Tom Waits - Alice"
+album_artist: "Tom Waits"
+album_title: "Alice"
+date: 2017-11-24
+release_id: "11189794"
+slug: "alice-11189794"
+cover:
+    image: "alice-11189794.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Alice
+2. Everything You Can Think
+3. Flower's Grave
+4. No One Knows I'm Gone
+5. Kommienezuspadt
+6. Poor Edward
+7. Table Top Joe
+8. Lost In The Harbour
+9. We're All Mad Here
+10. Watch Her Disappear
+11. Reeperbahn
+12. I'm Still Here
+13. Fish & Bird
+14. Barcarolle
+15. Fawn
+
+## Videos
+{{< youtube id="aEj-mrwwaxo" title="Alice - Tom Waits" >}}
+- [Tom Waits - Flowers Grave](https://www.youtube.com/watch?v=_x198_I0Nfc)
+- [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=9Bk9ao6cSFs)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Tom Waits - Alice](https://www.discogs.com/release/11189794) |
+| Label          | Anti- |
+| Format         | LP, Album, RE + LP, S/Sided, Etch |
+| Catalog Number | 6632-3 |
+

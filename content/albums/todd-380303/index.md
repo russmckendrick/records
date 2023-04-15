@@ -1,0 +1,45 @@
+---
+title: "Todd Rundgren - Todd"
+album_artist: "Todd Rundgren"
+album_title: "Todd"
+date: 2022-03-06
+release_id: "380303"
+slug: "todd-380303"
+cover:
+    image: "todd-380303.jpg"
+tags: ["Electronic", "Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. How About A Little Fanfare? (0:57)
+2. I Think You Know (3:48)
+3. The Spark Of Life (6:43)
+4. An Elpee's Worth Of Toons (2:08)
+5. A Dream Goes On Forever (2:21)
+6. Lord Chancellor's Nightmare Song (3:30)
+7. Drunken Blue Rooster (3:00)
+8. The Last Ride (4:46)
+9. Everybody's Going To Heaven / King Kong Reggae (6:35)
+10. Number 1 Lowest Common Denominator (5:10)
+11. Useless Begging (3:27)
+12. Sidewalk Cafe (2:25)
+13. Izzat Love? (1:56)
+14. Heavy Metal Kids (4:13)
+15. In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space) (5:48)
+16. Don't You Ever Learn? (6:01)
+17. Sons Of 1984 (4:37)
+
+## Videos
+
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1974 |
+| Discogs Link   | [Todd Rundgren - Todd](https://www.discogs.com/release/380303) |
+| Label          | Bearsville, Bearsville |
+| Format         | 2xLP, Album |
+| Catalog Number | 2 BR 6952, 2BR 6952 |
+

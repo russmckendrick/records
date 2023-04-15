@@ -1,0 +1,62 @@
+---
+title: "Wendy Carlos - Tron (Original Motion Picture Soundtrack)"
+album_artist: "Wendy Carlos"
+album_title: "Tron (Original Motion Picture Soundtrack)"
+date: 2015-08-09
+release_id: "6035147"
+slug: "tron-original-motion-picture-soundtrack-6035147"
+cover:
+    image: "tron-original-motion-picture-soundtrack-6035147.jpg"
+tags: ["Electronic", "Jazz", "Classical", "Stage & Screen"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Creation Of Tron (0:49)
+2. Only Solutions  (3:41)
+3. We've Got Company (2:19)
+4. Wormhole (2:29)
+5. Ring Game And Escape (2:57)
+6. Water Music And Tronaction (2:25)
+7. Tron Scherzo (1:46)
+8. Miracle And Magician (2:40)
+9. Magic Landings (3:44)
+10. Theme From Tron (1:37)
+11. 1990's Theme (2:08)
+12. Love Theme (2:07)
+13. Tower Music - Let Us Pray (3:47)
+14. The Light Sailer (2:37)
+15. Sea Of Simulation (3:23)
+16. A New Tron And The Mcp (5:10)
+17. Anthem (1:40)
+18. Ending Titles (5:16)
+
+## Videos
+{{< youtube id="P5RcNuQXuR4" title="Tron Suite - Wendy Carlos" >}}
+- [01 Tron   Creation Of Tron   Wendy Carlos](https://www.youtube.com/watch?v=o4XVOmAAkyo)
+- [We've Got Company](https://www.youtube.com/watch?v=VKt5-mxKSz4)
+- [Wormhole (TRON Soundtrack)](https://www.youtube.com/watch?v=m-v2vCMjrnw)
+- [Ring Game And Escape (TRON Soundtrack)](https://www.youtube.com/watch?v=xnaFPMkbvEA)
+- [Water, Music And Tronaction (TRON Soundtrack)](https://www.youtube.com/watch?v=bdmIJMhxVk8)
+- [TRON Scherzo (TRON Soundtrack)](https://www.youtube.com/watch?v=xTvU-R82ax8)
+- [Miracle and Magician](https://www.youtube.com/watch?v=vLgQrzyc4WA)
+- [Magic Landings](https://www.youtube.com/watch?v=l6NogoCCUMc)
+- [Theme from Tron (From TRON/Score)](https://www.youtube.com/watch?v=TPF7CXUgcus)
+- [Love Theme](https://www.youtube.com/watch?v=nB_AVIC14ow)
+- [Tower Music [Let Us Pray] (TRON Soundtrack)](https://www.youtube.com/watch?v=AFTSOU6h_UI)
+- [The Light Sailer (TRON Soundtrack)](https://www.youtube.com/watch?v=MkDI0m5M06A)
+- [Sea of Simulation](https://www.youtube.com/watch?v=II7pQns97iU)
+- [A New Tron and the MCP](https://www.youtube.com/watch?v=ewSk7uf4MbQ)
+- [Anthem (TRON Soundtrack)](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
+- [Tron: End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2014 |
+| Discogs Link   | [Wendy Carlos - Tron (Original Motion Picture Soundtrack)](https://www.discogs.com/release/6035147) |
+| Label          | Audio Fidelity (3), Walt Disney Records |
+| Format         | 2xLP, Album, Ltd, Num, RE, RM, Blu |
+| Catalog Number | AFZLP2 177 |
+

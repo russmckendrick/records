@@ -1,0 +1,45 @@
+---
+title: "BadBadNotGood - IV"
+album_artist: "BadBadNotGood"
+album_title: "IV"
+date: 2017-06-25
+release_id: "8716935"
+slug: "iv-8716935"
+cover:
+    image: "iv-8716935.jpg"
+tags: ["Jazz"]
+hideSummary: true
+---
+
+## Tracklisting
+1. And That, Too.
+2. Speaking Gently 
+3. Time Moves Slow
+4. Confessions Pt. II
+5. Lavender
+6. Chompy's Paradise
+7. IV
+8. Hyssop of Love
+9. Structure No. 3
+10. In Your Eyes
+11. Cashmere
+
+## Videos
+{{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}
+- [BADBADNOTGOOD - Speaking Gently (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
+- [BADBADNOTGOOD - Up (IV Bonus Track - Japan Edition)](https://www.youtube.com/watch?v=VwVX172N3OQ)
+- [BADBADNOTGOOD - Time Moves Slow feat. Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
+- [BADBADNOTGOOD - In Your Eyes (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
+- [BADBADNOTGOOD -  Hyssop of Love (featuring Mick Jenkins)](https://www.youtube.com/watch?v=t4cI5zNfNb0)
+- [BADBADNOTGOOD Lavender (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [BadBadNotGood - IV](https://www.discogs.com/release/8716935) |
+| Label          | Innovative Leisure Records |
+| Format         | 2xLP, Album |
+| Catalog Number | IL 2034 |
+

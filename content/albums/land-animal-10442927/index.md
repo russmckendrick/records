@@ -1,0 +1,57 @@
+---
+title: "Bent Knee - Land Animal"
+album_artist: "Bent Knee"
+album_title: "Land Animal"
+date: 2017-07-02
+release_id: "10442927"
+slug: "land-animal-10442927"
+cover:
+    image: "land-animal-10442927.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Terror Bird
+2. Hole
+3. Holy Ghost
+4. Insides In
+5. These Hands
+6. Land Animal
+7. Time Deer
+8. Belly Side Up
+9. The Well
+10. Boxes
+11. Terror Bird (4:09)
+12. Hole (3:22)
+13. Holy Ghost (5:33)
+14. Insides In (6:30)
+15. These Hands (5:37)
+16. Land Animal (5:14)
+17. Time Deer (4:19)
+18. Belly Side Up (4:15)
+19. The Well (5:31)
+20. Boxes (12:44)
+21. Bonus Tracks
+22. Way Too Long (Sylvia Massy Treatment) (5:20)
+23. Land Animal (Ben Levin Remix) (4:40)
+
+## Videos
+{{< youtube id="se6f2_rAfh4" title="Insides In" >}}
+- [Bent Knee - Land Animal (official video)](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
+- [Hole](https://www.youtube.com/watch?v=YcxA1O80BjA)
+- [Holy Ghost](https://www.youtube.com/watch?v=Io8chDO3u2E)
+- [The Well](https://www.youtube.com/watch?v=dO2ZzHyaqcA)
+- [These Hands](https://www.youtube.com/watch?v=vI6qzBpuGtQ)
+- [Belly Side Up](https://www.youtube.com/watch?v=3nEXBoos3Cg)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Bent Knee - Land Animal](https://www.discogs.com/release/10442927) |
+| Label          | Inside Out Music, Sony Music |
+| Format         | LP, Album, Whi + CD, Album + Ltd |
+| Catalog Number | IOMLP 479, 88985421021 |
+

@@ -1,0 +1,39 @@
+---
+title: "Mildlife - Phase"
+album_artist: "Mildlife"
+album_title: "Phase"
+date: 2018-12-28
+release_id: "11622307"
+slug: "phase-11622307"
+cover:
+    image: "phase-11622307.jpg"
+tags: ["Jazz"]
+hideSummary: true
+---
+
+## Tracklisting
+1. The Magnificent Moon (8:52)
+2. Zwango Zop (4:49)
+3. Im Blau (7:08)
+4. Phase (6:19)
+5. Two Horizons (6:04)
+6. The Gloves Don't Bite (6:47)
+
+## Videos
+{{< youtube id="LCXU2OQW-Nc" title="Mildlife - The Magnificent Moon [Audio] (1 of 6)" >}}
+- [Mildlife - Zwango Zop [Audio] (2 of 6)](https://www.youtube.com/watch?v=HwG4whc-cd8)
+- [Mildlife - Im Blau [Audio] (3 of 6)](https://www.youtube.com/watch?v=aYVu7stu-us)
+- [Mildlife - Phase [Audio] (4 of 6)](https://www.youtube.com/watch?v=YaIN9-TzSg0)
+- [Mildlife - Two Horizons [Audio] (5 of 6)](https://www.youtube.com/watch?v=8N4PrhKe-NE)
+- [Mildlife - The Gloves Don't Bite [Audio] (6 of 6)](https://www.youtube.com/watch?v=VtnpOpHdfiw)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2018 |
+| Discogs Link   | [Mildlife - Phase](https://www.discogs.com/release/11622307) |
+| Label          | Research Records |
+| Format         | LP, Album |
+| Catalog Number | RESEARCH02 |
+

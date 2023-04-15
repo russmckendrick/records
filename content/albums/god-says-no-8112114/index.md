@@ -1,0 +1,52 @@
+---
+title: "Monster Magnet - God Says No"
+album_artist: "Monster Magnet"
+album_title: "God Says No"
+date: 2016-07-10
+release_id: "8112114"
+slug: "god-says-no-8112114"
+cover:
+    image: "god-says-no-8112114.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Melt
+2. Heads Explode
+3. Doomsday
+4. God Says No
+5. Kiss Of The Scorpion
+6. All Shook Out
+7. Gravity Well
+8. My Little Friend
+9. Queen Of You
+10. Down In The Jungle
+11. Cry
+12. Take It
+13. Silver Future
+14. I Want More (B-Side)
+15. Leapin' Lizards (B-Side)
+16. Into The Void
+17. Black Celebration
+
+## Videos
+{{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}
+- [MONSTER MAGNET - Heads Explode unedited [God Says No] [HDadv][1080p]](https://www.youtube.com/watch?v=WhJGAbBVzQw)
+- [All Shook Out - Monster Magnet - God Says No](https://www.youtube.com/watch?v=luq69m7Sp-g)
+- [Monster Magnet - Down in the Jungle](https://www.youtube.com/watch?v=HTMOv_2YgWg)
+- [Monster Magnet-Queen of You (lyrics)](https://www.youtube.com/watch?v=RxFIuSVQ7vM)
+- [Silver Future - Monster Magnet - God Says No](https://www.youtube.com/watch?v=kuixhLvxA5A)
+- [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)
+- [Monster Magnet - I Want More](https://www.youtube.com/watch?v=Yji5Keb5Nko)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [Monster Magnet - God Says No](https://www.discogs.com/release/8112114) |
+| Label          | Spinefarm Records, Universal Music Group, A&M Records |
+| Format         | 2xLP, Album, RE, RM |
+| Catalog Number | 00600753637845 |
+

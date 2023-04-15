@@ -1,0 +1,41 @@
+---
+title: "DJ Spinna & Bobbito - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
+album_artist: "DJ Spinna & Bobbito"
+album_title: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
+date: 2016-08-09
+release_id: "736967"
+slug: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967"
+cover:
+    image: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967.jpg"
+tags: ["Funk / Soul"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Perfect Angel
+2. It's A Shame
+3. Let's Get Serious
+4. Bring Your Sweet Stuff Home To Me
+5. Melody Man
+6. Signed, Sealed, Delivered
+7. Betcha Wouldn't Hurt Me
+8. Loving You Is Sweeter Than Ever
+9. Tears Of A Clown
+10. Too High
+
+## Videos
+{{< youtube id="ZaMX0Cs5Bc4" title="Smokey Robinson & The Miracles - Tears Of A Clown (1970) HD 0815007" >}}
+- [Melody Man–Smokey Robinson / remix DJ Spinna & Bobbito](https://www.youtube.com/watch?v=uOVu1qmf5ww)
+- [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
+- [Jermaine Jackson - Let's Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2004 |
+| Discogs Link   | [DJ Spinna & Bobbito - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)](https://www.discogs.com/release/736967) |
+| Label          | Harmless |
+| Format         | 2xLP, Comp |
+| Catalog Number | HURTLP055 |
+

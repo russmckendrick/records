@@ -1,0 +1,51 @@
+---
+title: "Jesus Jones - Perverse"
+album_artist: "Jesus Jones"
+album_title: "Perverse"
+date: 2022-11-03
+release_id: "25037878"
+slug: "perverse-25037878"
+cover:
+    image: "perverse-25037878.jpg"
+tags: ["Electronic", "Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Zeroes And Ones (3:24)
+2. The Devil You Know (4:31)
+3. Get A Good Thing (3:23)
+4. From Love To War (3:49)
+5. Yellow Brown (3:23)
+6. Magazine (2:46)
+7. The Right Decision (3:36)
+8. Your Crusade (3:30)
+9. Dont Believe It (3:45)
+10. Tongue Tied (3:16)
+11. Spiral (4:30)
+12. Idiot Stare (5:10)
+
+## Videos
+{{< youtube id="2s_UjdsMoPk" title="Zeroes And Ones - Jesus Jones" >}}
+- [The Devil You Know - Jesus Jones](https://www.youtube.com/watch?v=wewIoLusKP8)
+- [Get A Good Thing](https://www.youtube.com/watch?v=MSlkl3ozIq4)
+- [From Love To War](https://www.youtube.com/watch?v=XgGF3SwynZs)
+- [Yellow Brown](https://www.youtube.com/watch?v=P0ygGaVFGFA)
+- [Magazine](https://www.youtube.com/watch?v=EsOawfkUwSw)
+- [The Right Decision](https://www.youtube.com/watch?v=KaSIMyfzU7s)
+- [Your Crusade](https://www.youtube.com/watch?v=x40Wg4whKrI)
+- [Don't Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
+- [Tongue Tied](https://www.youtube.com/watch?v=Jfl9kQUxNgE)
+- [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
+- [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2022 |
+| Discogs Link   | [Jesus Jones - Perverse](https://www.discogs.com/release/25037878) |
+| Label          | Demon Records |
+| Format         | LP, Album, RE, Tra |
+| Catalog Number | DEMREC954 |
+

@@ -1,0 +1,45 @@
+---
+title: "Survive (4) - HD015"
+album_artist: "Survive (4)"
+album_title: "HD015"
+date: 2016-12-08
+release_id: "9231465"
+slug: "hd015-9231465"
+cover:
+    image: "hd015-9231465.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Deserted Skies
+2. Floating Cube
+3. To Light Alone I Bow
+4. Hourglass
+5. Omniverse
+6. Black Mollies
+7. Scalar Wave
+8. Shunting Yard
+9. Dirge
+
+## Videos
+{{< youtube id="G4onbTp1jio" title="S U R V I V E - Deserted Skies MNQ 026" >}}
+- [S U R V I V E - Floating Cube MNQ 026](https://www.youtube.com/watch?v=MrVc3pd9PS8)
+- [S U R V I V E - To The Alone Blow MNQ 026](https://www.youtube.com/watch?v=Rl6l0pr4kSo)
+- [S U R V I V E - To Hourglass MNQ 026](https://www.youtube.com/watch?v=RhFugm5c2Xg)
+- [S U R V I V E - Omniverse MNQ 026](https://www.youtube.com/watch?v=dOsLzKVJO30)
+- [S U R V I V E - Black Mollies MNQ 026](https://www.youtube.com/watch?v=bMRGn2mlfow)
+- [S U R V I V E - Scalar Wave MNQ 026](https://www.youtube.com/watch?v=LfBSXdX4TdQ)
+- [S U R V I V E - Shunting Yard MNQ 026](https://www.youtube.com/watch?v=Y5EjtsGKQ8g)
+- [S U R V I V E - Dirge MNQ 026](https://www.youtube.com/watch?v=wpkVwT4wh2E)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [Survive (4) - HD015](https://www.discogs.com/release/9231465) |
+| Label          | HoloDeck, 540 Records, Light Lodge |
+| Format         | LP, Album, Ltd, RE, RP, Cle |
+| Catalog Number | HD015LP, 540-046, LLR010 |
+

@@ -1,0 +1,51 @@
+---
+title: "Placebo - Placebo"
+album_artist: "Placebo"
+album_title: "Placebo"
+date: 2019-06-17
+release_id: "13705514"
+slug: "placebo-13705514"
+cover:
+    image: "placebo-13705514.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Come Home
+2. Teenage Angst
+3. Bionic
+4. 36 Degrees
+5. Hang On To Your IQ
+6. Nancy Boy
+7. I Know
+8. Bruise Pristine
+9. Lady Of The Flowers
+10. Swallow
+
+## Videos
+{{< youtube id="f8CkTsDNGJI" title="Placebo - 36 Degrees" >}}
+- [PLACEBO 'Bruise Pristine'](https://www.youtube.com/watch?v=v6XhoHTDFSM)
+- [PLACEBO - Teenage Angst](https://www.youtube.com/watch?v=Fx5bfLI5slU)
+- [Placebo - Come Home](https://www.youtube.com/watch?v=KFnvkypksPI)
+- [PLACEBO - Nancy Boy](https://www.youtube.com/watch?v=PBxuq_eWW94)
+- [Placebo - Teenage Angst](https://www.youtube.com/watch?v=SpEHT9blu_0)
+- [Placebo - I Know](https://www.youtube.com/watch?v=2wqlAfeC-Jc)
+- [Placebo - Bionic](https://www.youtube.com/watch?v=YMpi6I0Rex8)
+- [Placebo - Hang on to your IQ](https://www.youtube.com/watch?v=_OWNqTkWl-Q)
+- [Placebo - Nancy Boy](https://www.youtube.com/watch?v=RbCvjxjGiKE)
+- [Placebo - I Know](https://www.youtube.com/watch?v=gGGWN2T-Nno)
+- [Placebo - Bruise Pristine](https://www.youtube.com/watch?v=3xMI6Ql_Ch0)
+- [Placebo - Lady of the Flowers](https://www.youtube.com/watch?v=gan1oKzVtiU)
+- [Placebo - Swallow](https://www.youtube.com/watch?v=eq0r8xD3ADs)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Placebo - Placebo](https://www.discogs.com/release/13705514) |
+| Label          | Elevator Music (4) |
+| Format         | LP, Album, RE, Gat |
+| Catalog Number | 6711042 |
+

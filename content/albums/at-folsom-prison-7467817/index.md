@@ -1,0 +1,53 @@
+---
+title: "Johnny Cash - At Folsom Prison"
+album_artist: "Johnny Cash"
+album_title: "At Folsom Prison"
+date: 2016-11-30
+release_id: "7467817"
+slug: "at-folsom-prison-7467817"
+cover:
+    image: "at-folsom-prison-7467817.jpg"
+tags: ["Folk, World, & Country"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Opening Announcements From Hugh Cherry (1:01)
+2. Blue Suede Shoes (3:31)
+3. This Ole House (1:38)
+4. Announcements And Johnny Cash Intro From Hugh Cherry (1:04)
+5. Folsom Prison Blues (2:36)
+6. Busted (1:24)
+7. Dark As A Dungeon (3:07)
+8. I Still Miss Someone (1:36)
+9. Cocaine Blues (2:49)
+10. 25 Minutes To Go (2:57)
+11. I'm Here To Get My Baby Out Of Jail (2:22)
+12. Orange Blossom Special (3:36)
+13. The Long Black Veil (3:43)
+14. Send A Picture Of Mother (2:10)
+15. The Wall (1:54)
+16. Dirty Old Egg-Sucking Dog (1:17)
+17. Flushed From The Bathroom Of Your Heart (2:24)
+18. Joe Bean (2:30)
+19. Jackson (3:28)
+20. I Got A Woman (4:37)
+21. The Legend Of John Henry's Hammer (7:06)
+22. June's Poem (0:58)
+23. Green, Green Grass Of Home (3:19)
+24. Greystone Chapel (2:49)
+25. Closing Announcements (1:46)
+
+## Videos
+{{< youtube id="GpZ-2HDJzFw" title="Johnny Cash - At Folsom Prison (1968) (Full album)" >}}
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2015 |
+| Discogs Link   | [Johnny Cash - At Folsom Prison](https://www.discogs.com/release/7467817) |
+| Label          | Columbia, Legacy, Sony Music |
+| Format         | 2xLP, Album, 180 |
+| Catalog Number | 88875111971 |
+

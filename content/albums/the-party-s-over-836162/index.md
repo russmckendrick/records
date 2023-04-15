@@ -1,0 +1,48 @@
+---
+title: "Talk Talk - The Party's Over"
+album_artist: "Talk Talk"
+album_title: "The Party's Over"
+date: 2016-10-14
+release_id: "836162"
+slug: "the-party-s-over-836162"
+cover:
+    image: "the-party-s-over-836162.jpg"
+tags: ["Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Talk Talk (3:20)
+2. It's So Serious (3:19)
+3. Today (3:28)
+4. The Party's Over (6:10)
+5. Hate (3:56)
+6. Have You Heard The News? (5:05)
+7. Mirror Man (3:18)
+8. Another Word (3:12)
+9. Candy (4:40)
+
+## Videos
+{{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}
+- [Talk Talk - MIRROR MAN - 1982](https://www.youtube.com/watch?v=MKirbC-GCG8)
+- [Talk Talk](https://www.youtube.com/watch?v=0uA5Qe5PSWw)
+- [Talk Talk - Talk Talk (Official Video)](https://www.youtube.com/watch?v=2IgjUYrDbWI)
+- [It's so Serious (1997 Remaster)](https://www.youtube.com/watch?v=cSautOeiZqQ)
+- [Today (1997 Remaster)](https://www.youtube.com/watch?v=gMDN4MbSKqw)
+- [The Party's Over (1997 Remaster)](https://www.youtube.com/watch?v=kNXYKYkqvE8)
+- [Hate (1997 Remaster)](https://www.youtube.com/watch?v=4rqUYKKSyHE)
+- [Have You Heard the News (1997 Remaster)](https://www.youtube.com/watch?v=aYIKfkTJYcs)
+- [Mirror Man (1997 Remaster)](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
+- [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
+- [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1982 |
+| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/836162) |
+| Label          | EMI, EMI |
+| Format         | LP, Album |
+| Catalog Number | EMC 3413, OC 062-07 646 |
+

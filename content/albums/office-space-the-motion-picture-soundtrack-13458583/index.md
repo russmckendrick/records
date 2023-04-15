@@ -1,0 +1,55 @@
+---
+title: "Various - Office Space (The Motion Picture Soundtrack)"
+album_artist: "Various"
+album_title: "Office Space (The Motion Picture Soundtrack)"
+date: 2019-04-13
+release_id: "13458583"
+slug: "office-space-the-motion-picture-soundtrack-13458583"
+cover:
+    image: "office-space-the-motion-picture-soundtrack-13458583.jpg"
+tags: ["Hip Hop", "Latin", "Stage & Screen"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Shove This Jay-Oh-Bee
+2. Get Dis Money
+3. Get Off My Elevator
+4. Big Boss Man
+5. 9 To 5
+6. Down For Whatever
+7. Damn It Feels Good To Be A Gangsta
+8. Home
+9. No Tears
+10. Still
+11. Mambo No. 8
+12. Peanut Vendor
+
+## Videos
+{{< youtube id="lqi_HT1MfsU" title="Mambo 8" >}}
+- [9-5](https://www.youtube.com/watch?v=rOifm4AbsuY)
+- [Geto Boys - Still (Office Space soundtrack)](https://www.youtube.com/watch?v=lCOeIksA3Yo)
+- [No Tears](https://www.youtube.com/watch?v=9KWpIxdfNzY)
+- [Office Space Soundtrack - Shove This Jay Oh Bee (HQ)](https://www.youtube.com/watch?v=HyxoLqbFDkI)
+- [Damn It Feels Good To Be A Gangsta](https://www.youtube.com/watch?v=0PqRXVCGKIA)
+- [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
+- [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
+- [Shove This Jay-Oh-Bee](https://www.youtube.com/watch?v=axJVs-OseS8)
+- [Ice Cube - Down for Whatever (DIRTY)](https://www.youtube.com/watch?v=-T44yl-LMSU)
+- [Big Boss Man](https://www.youtube.com/watch?v=CY4lNkIO76U)
+- [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
+- [Home](https://www.youtube.com/watch?v=QKuJ-DJPUXs)
+- [Get Off My Elevator](https://www.youtube.com/watch?v=r-WMAkO7r3Q)
+- [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
+- [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583) |
+| Label          | Interscope Records |
+| Format         | LP, RSD, Comp, Ltd, Red |
+| Catalog Number | B0029333-01 |
+

@@ -1,0 +1,49 @@
+---
+title: "Jon & Vangelis - Short Stories"
+album_artist: "Jon & Vangelis"
+album_title: "Short Stories"
+date: 2015-12-17
+release_id: "161300"
+slug: "short-stories-161300"
+cover:
+    image: "short-stories-161300.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Curious Electric
+2. Each And Everyday
+3. Bird Song
+4. I Hear You Now
+5. The Road
+6. Far Away In Baagad
+7. Love Is
+8. One More Time
+9. Thunder
+10. A Play Within A Play
+
+## Videos
+{{< youtube id="Q-INz9nR1vg" title="Jon and Vangelis - Short Stories: I Hear You Now" >}}
+- [Jon & Vangelis - I Hear You Now](https://www.youtube.com/watch?v=hti1iZ9LsIU)
+- [Vangelis - Short Stories - Far away in Baghdad](https://www.youtube.com/watch?v=VAaCes5pv4A)
+- [Vangelis - Short Stories - A play within a play](https://www.youtube.com/watch?v=ZWJTfqKPBLs)
+- [Vangelis - Short Stories - Love is - One more Time](https://www.youtube.com/watch?v=44fCYCEQ5SE)
+- [Vangelis - Short Stories - The Road](https://www.youtube.com/watch?v=KkXEwS5uD24)
+- [Jon & Vangelis - Curious Electric](https://www.youtube.com/watch?v=iQnd8wpScj0)
+- [Vangelis - Short Stories -Curious electric](https://www.youtube.com/watch?v=Jg97_9dyngY)
+- [Vangelis - Short Stories - Thunder](https://www.youtube.com/watch?v=EUfZ3YyUMXc)
+- [Vangelis - Short Stories - I Hear You Now](https://www.youtube.com/watch?v=prYXu1SlT7Y)
+- [Jon and Vangelis - Bird Song](https://www.youtube.com/watch?v=RpJp1Wxmyfs)
+- [Jon and Vangelis - The Road](https://www.youtube.com/watch?v=AWLySXyfpv4)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1980 |
+| Discogs Link   | [Jon & Vangelis - Short Stories](https://www.discogs.com/release/161300) |
+| Label          | Polydor, Polydor |
+| Format         | LP, Album |
+| Catalog Number | POLD 5030, 2442 169 |
+

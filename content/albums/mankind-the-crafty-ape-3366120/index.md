@@ -1,0 +1,51 @@
+---
+title: "Crippled Black Phoenix - (Mankind) The Crafty Ape"
+album_artist: "Crippled Black Phoenix"
+album_title: "(Mankind) The Crafty Ape"
+date: 2016-01-17
+release_id: "3366120"
+slug: "mankind-the-crafty-ape-3366120"
+cover:
+    image: "mankind-the-crafty-ape-3366120.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Chapter I (A Thread)
+2. Nothing (We Are)
+3. The Heart Of Every Country
+4. Get Down And Live With It
+5. (In The Yonder Marsh)
+6. A Letter Concerning Dogheads
+7. The Brain / Poznan
+8. Chapter II (The Trap)
+9. Laying Traps
+10. Born In A Hurricane
+11. Release The Clowns
+12. (What?)
+13. Chapter III (The Blues Of Man)
+14. A Suggestion (Not A Very Nice One)
+15. (Dig, Bury, Deny)
+16. Operation Mincemeat
+17. We'll Never Get Out Of This World Alive
+18. Faced With Complete Failure, Utter Defiance Is The Only Response
+
+## Videos
+{{< youtube id="SLiR_MT6toQ" title="Crippled Black Phoenix - The Heart Of Every Country (album version)" >}}
+- [Crippled Black Phoenix - The Brain / Poznan](https://www.youtube.com/watch?v=MSg917RuF_k)
+- [Crippled Black Phoenix - Faced With Complete Failure, Utter Defiance Is the Only Response](https://www.youtube.com/watch?v=x_-bDI5VBCE)
+- [Crippled Black Phoenix - Laying Traps (official video)](https://www.youtube.com/watch?v=-hww41CRS0E)
+- [Crippled Black Phoenix - A Letter Concerning Dogheads](https://www.youtube.com/watch?v=MQfypm8ZDgo)
+- [Crippled Black Phoenix - Born In A Hurricane](https://www.youtube.com/watch?v=cihKxslHy2o)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2012 |
+| Discogs Link   | [Crippled Black Phoenix - (Mankind) The Crafty Ape](https://www.discogs.com/release/3366120) |
+| Label          | Cool Green Recordings |
+| Format         | 2xLP, Album |
+| Catalog Number | CGR 7360 1 |
+

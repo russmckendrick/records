@@ -1,0 +1,48 @@
+---
+title: "Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters"
+album_artist: "Paul Rodgers"
+album_title: "Muddy Water Blues - A Tribute to Muddy Waters"
+date: 2020-09-26
+release_id: "15965368"
+slug: "muddy-water-blues-a-tribute-to-muddy-waters-15965368"
+cover:
+    image: "muddy-water-blues-a-tribute-to-muddy-waters-15965368.jpg"
+tags: ["Rock", "Blues"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Muddy Water Blues (Acoustic Version) (4:50)
+2. Louisiana Blues (4:02)
+3. I Can't Be Satisfied (4:12)
+4. Rollin' Stone (5:28)
+5. Good Morning Little School Girl (Part 1) (4:03)
+6. I'm Your Hoochie Coochie Man (5:07)
+7. She's Alright (3:45)
+8. Standing Around Crying (6:24)
+9. The Hunter (3:39)
+10. She Moves Me (4:49)
+11. I'm Ready (2:59)
+12. I Just Want to Make Love to You (4:01)
+13. Born Under a Bad Sign (4:45)
+14. Good Morning Little School Girl (Part 2) (3:03)
+15. Muddy Water Blues (Electric Version) (4:47)
+
+## Videos
+{{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers ~ The Hunter" >}}
+- [Paul Rodgers - Muddy Water Blues (Electric Version)](https://www.youtube.com/watch?v=jzqq1FrvBKo)
+- [Paul Rodgers - Louisiana Blues](https://www.youtube.com/watch?v=pfAYIW0nArs)
+- [Paul Rodgers (feat. David Gilmour) - Standing around crying](https://www.youtube.com/watch?v=Qj1t95ijlUM)
+- [Paul Rodgers/Gary Moore - She Moves Me (A tribute to Muddy Waters)](https://www.youtube.com/watch?v=_XfTUR_vaQ0)
+- [Paul Rodgers & Jeff Beck - I Just Want to Make Love to You](https://www.youtube.com/watch?v=yhPnsWZRF0k)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters](https://www.discogs.com/release/15965368) |
+| Label          | Music On Vinyl |
+| Format         | 2xLP, Album, Ltd, Num, RE, Ora |
+| Catalog Number | MOVLP2716 |
+

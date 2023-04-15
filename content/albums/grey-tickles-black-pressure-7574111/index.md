@@ -1,0 +1,67 @@
+---
+title: "John Grant - Grey Tickles, Black Pressure"
+album_artist: "John Grant"
+album_title: "Grey Tickles, Black Pressure"
+date: 2015-10-09
+release_id: "7574111"
+slug: "grey-tickles-black-pressure-7574111"
+cover:
+    image: "grey-tickles-black-pressure-7574111.jpg"
+tags: ["Electronic", "Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Intro (1:37)
+2. Grey Tickles, Black Pressure (5:30)
+3. Snug Slacks (4:12)
+4. Guess How I Know (3:34)
+5. You & Him (3:26)
+6. Down Here (4:09)
+7. Voodoo Doll (3:07)
+8. Global Warming (4:05)
+9. Magma Arrives (5:03)
+10. Black Blizzard (4:48)
+11. Disappointing (4:55)
+12. No More Tangles (6:09)
+13. Geraldine (6:22)
+14. Outro (0:30)
+15. Intro (1:37)
+16. Grey Tickles, Black Pressure (5:30)
+17. Snug Slacks (4:12)
+18. Guess How I Know (3:34)
+19. You And Him (3:26)
+20. Down Here (4:09)
+21. Voodoo Doll (3:07)
+22. Global Warming (4:05)
+23. Magma Arrives (5:03)
+24. Black Blizzard (4:48)
+25. Disappointing (4:55)
+26. No More Tangles (6:09)
+27. Geraldine (6:22)
+28. Outro (0:30)
+29. John Grant With Royal Northern Sinfonia
+30. Global Warming (4:14)
+31. Black Blizzard (4:56)
+32. Drug (3:53)
+33. Geraldine (6:23)
+34. No More Tangles (6:18)
+
+## Videos
+{{< youtube id="-0QsMQZf1q4" title="John Grant - Grey Tickles, Black Pressure (Album Trailer)" >}}
+- [Intro](https://www.youtube.com/watch?v=SAvuoyxR_eU)
+- [John Grant - Disappointing feat. Tracey Thorn (Official Music Video)](https://www.youtube.com/watch?v=U2Ig4sMURdc)
+- [John Grant - Down Here (Official Video)](https://www.youtube.com/watch?v=eViyPYJ2okc)
+- [John Grant - Voodoo Doll (Official Music Video)](https://www.youtube.com/watch?v=rOIZbYaVWSg)
+- [John Grant - Grey Tickles, Black Pressure (Full Album)](https://www.youtube.com/watch?v=5yOYx2qsIUg)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2015 |
+| Discogs Link   | [John Grant - Grey Tickles, Black Pressure](https://www.discogs.com/release/7574111) |
+| Label          | Bella Union, Bella Union, Bella Union |
+| Format         | LP, Album, Lav + LP, Album, Ora + CD, Album + CD,  |
+| Catalog Number | BELLA505V, BELLA505VRT, BELLA514CD |
+

@@ -1,0 +1,58 @@
+---
+title: "Various - Doing It For The Kids"
+album_artist: "Various"
+album_title: "Doing It For The Kids"
+date: 2016-11-16
+release_id: "547494"
+slug: "doing-it-for-the-kids-547494"
+cover:
+    image: "doing-it-for-the-kids-547494.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Cut Me Deep (3:28)
+2. Ballad Of The Band (2:53)
+3. Christine (3:26)
+4. Well Done Sonny (3:47)
+5. All Fall Down (2:13)
+6. She Paints (5:22)
+7. Lot 49 (3:36)
+8. North Shore Train (7:10)
+9. Death Is Hanging Over Me (4:11)
+10. Cigarette In My Bed (3:28)
+11. Jetstream (5:00)
+12. Godevil (4:40)
+13. A Complete History Of Sexual Jealousy (Parts 17-24) (5:31)
+14. Reflect On Rye (2:12)
+15. Brighter Now (2:39)
+
+## Videos
+{{< youtube id="4wi2bi9-ZUI" title="Primal Scream - All Fall Down" >}}
+- [Pacific - Jetstream (Fanmade Video) (1988)](https://www.youtube.com/watch?v=Dul4i-Y5vU4)
+- [Felt - Ballad Of The Band](https://www.youtube.com/watch?v=FcQs4sng8CU)
+- [Jasmine Minks - Cut Me Deep](https://www.youtube.com/watch?v=38xbRxrnwqk)
+- [The House of Love - Christine](https://www.youtube.com/watch?v=wIKpkjlptNY)
+- [Nikki Sudden & The Jacobites - Death Is Hanging Over Me](https://www.youtube.com/watch?v=gN08etKFUs8)
+- [Momus A Complete History Of Sexual Jealousy](https://www.youtube.com/watch?v=PAjpgAkeTj0)
+- [The Jazz Butcher - Lot 49](https://www.youtube.com/watch?v=f8EVyEaXu_I)
+- [The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988](https://www.youtube.com/watch?v=J5AyEsD0Tpk)
+- [Biff Bang Pow! - She Paints](https://www.youtube.com/watch?v=Ai4ifP6MA_M)
+- [Pacific - Jet stream (Audio)](https://www.youtube.com/watch?v=HLXXByTQH54)
+- [My Bloody Valentine - Cigarette In Your Bed](https://www.youtube.com/watch?v=P82V5TEEVWc)
+- [The Times - Godevil](https://www.youtube.com/watch?v=hCuK6BGrxz4)
+- [Razorcuts-Brighter Now](https://www.youtube.com/watch?v=M6-m8jFd2JU)
+- [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)
+- [Heidi Berry - Northshore Train](https://www.youtube.com/watch?v=VWh8Bi8d4h0)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 1988 |
+| Discogs Link   | [Various - Doing It For The Kids](https://www.discogs.com/release/547494) |
+| Label          | Creation Records |
+| Format         | LP, Comp |
+| Catalog Number | CRELP 037 |
+

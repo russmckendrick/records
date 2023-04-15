@@ -1,0 +1,45 @@
+---
+title: "Sam & Dave - Soul Men"
+album_artist: "Sam & Dave"
+album_title: "Soul Men"
+date: 2018-01-26
+release_id: "10527579"
+slug: "soul-men-10527579"
+cover:
+    image: "soul-men-10527579.jpg"
+tags: ["Funk / Soul"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Soul Man (2:36)
+2. May I Baby (2:38)
+3. Broke Down Piece Of Man (2:46)
+4. Let It Be Me (2:45)
+5. Hold It Baby (2:35)
+6. I'm With You (2:50)
+7. Don't Knock It (2:28)
+8. Just Keep Holding On (2:52)
+9. The Good Runs The Bad Way (2:15)
+10. Rich Kind Of Poverty (2:13)
+11. I've Seen What Loneliness Can Do (2:58)
+
+## Videos
+{{< youtube id="Sh_ujzyu78o" title="Let It Be Me" >}}
+- [Sam & Dave - Just Keep Holding On](https://www.youtube.com/watch?v=7Mn5ZJd74Cs)
+- [Broke Down Piece of Man](https://www.youtube.com/watch?v=J0rUeSccx-I)
+- [Sam & Dave- Soul Man](https://www.youtube.com/watch?v=m7sKnLrsOwo)
+- [SAM & DAVE  (Soul Man)](https://www.youtube.com/watch?v=7DL_qz8i9b4)
+- [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
+- [Sam And Dave  I'm With You](https://www.youtube.com/watch?v=gTxg0V_Jkuk)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579) |
+| Label          | Stax, Stax |
+| Format         | LP, Album, Mono, RE, 180 |
+| Catalog Number | 081227940577, 725 |
+

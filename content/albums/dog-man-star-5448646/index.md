@@ -1,0 +1,43 @@
+---
+title: "Suede - Dog Man Star"
+album_artist: "Suede"
+album_title: "Dog Man Star"
+date: 2016-10-01
+release_id: "5448646"
+slug: "dog-man-star-5448646"
+cover:
+    image: "dog-man-star-5448646.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Introducing The Band (2:38)
+2. We Are The Pigs (4:19)
+3. Heroine (3:22)
+4. The Wild Ones (4:50)
+5. Daddy's Speeding (5:22)
+6. The Power (4:31)
+7. New Generation (4:37)
+8. This Hollywood Life (3:50)
+9. The 2 Of Us (5:45)
+10. Black Or Blue (3:48)
+11. The Asphalt World (9:25)
+12. Still Life (5:23)
+
+## Videos
+{{< youtube id="m2n3qKD6C8k" title="Still Life (Remastered)" >}}
+- [Suede - We Are The Pigs](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
+- [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
+- [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2014 |
+| Discogs Link   | [Suede - Dog Man Star](https://www.discogs.com/release/5448646) |
+| Label          | Demon Records |
+| Format         | 2xLP, Album, RE, 180 |
+| Catalog Number | INSATIABLE 2 |
+

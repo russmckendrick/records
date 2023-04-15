@@ -1,0 +1,59 @@
+---
+title: "Modest Mouse - Good News For People Who Love Bad News"
+album_artist: "Modest Mouse"
+album_title: "Good News For People Who Love Bad News"
+date: 2019-06-03
+release_id: "2862960"
+slug: "good-news-for-people-who-love-bad-news-2862960"
+cover:
+    image: "good-news-for-people-who-love-bad-news-2862960.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Horn Intro (0:10)
+2. The World At Large (4:32)
+3. Float On (3:28)
+4. Ocean Breathes Salty (3:47)
+5. Dig Your Grave (0:13)
+6. Bury Me With It (3:49)
+7. Dance Hall (2:57)
+8. Bukowski (4:14)
+9. This Devil's Workday (2:19)
+10. The View (4:11)
+11. Satin In A Coffin (2:35)
+12. Interlude (Milo) (0:58)
+13. Blame It On The Tetons (5:24)
+14. Black Cadillacs (2:43)
+15. One Chance (3:02)
+16. The Good Times Are Killing Me (4:16)
+17. I've Got It All (Most) (3:06)
+
+## Videos
+{{< youtube id="uHnfpd7gUjE" title="Horn Intro" >}}
+- [Modest Mouse - Float On (Official Music Video)](https://www.youtube.com/watch?v=CTAud5O7Qqk)
+- [Modest Mouse - The World At Large (Audio)](https://www.youtube.com/watch?v=1TXdU9LMmv4)
+- [Dig Your Grave](https://www.youtube.com/watch?v=3wFiHru0Ke4)
+- [Bury Me With It](https://www.youtube.com/watch?v=-0c53YAYK1o)
+- [Dance Hall](https://www.youtube.com/watch?v=LTQhvRv2ziQ)
+- [Bukowski](https://www.youtube.com/watch?v=m0VpdRYCv3s)
+- [This Devil's Workday](https://www.youtube.com/watch?v=cOIeXLSajSg)
+- [The View](https://www.youtube.com/watch?v=POWgfPP88nA)
+- [Satin In A Coffin](https://www.youtube.com/watch?v=FC9Puvn9Xsw)
+- [Interlude (Milo)](https://www.youtube.com/watch?v=OQATHY-Tgh0)
+- [Blame It On the Tetons](https://www.youtube.com/watch?v=kLMENNyUxcI)
+- [Black Cadillacs](https://www.youtube.com/watch?v=dTKJcZhrn6A)
+- [One Chance](https://www.youtube.com/watch?v=jsiirnDtio8)
+- [The Good Times Are Killing Me](https://www.youtube.com/watch?v=oITcKJpM9UQ)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2011 |
+| Discogs Link   | [Modest Mouse - Good News For People Who Love Bad News](https://www.discogs.com/release/2862960) |
+| Label          | Epic |
+| Format         | 2xLP, Album, RE, 180 |
+| Catalog Number | E2 87125 |
+

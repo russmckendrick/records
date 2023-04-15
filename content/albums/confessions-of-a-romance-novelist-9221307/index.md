@@ -1,0 +1,46 @@
+---
+title: "The Anchoress - Confessions Of A Romance Novelist"
+album_artist: "The Anchoress"
+album_title: "Confessions Of A Romance Novelist"
+date: 2016-10-20
+release_id: "9221307"
+slug: "confessions-of-a-romance-novelist-9221307"
+cover:
+    image: "confessions-of-a-romance-novelist-9221307.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Long Year (3:52)
+2. What Goes Around (4:17)
+3. Doesn't Kill You (4:40)
+4. You And Only You (4:09)
+5. One For Sorrow (3:24)
+6. P.S. Fuck You (3:19)
+7. Popular (3:57)
+8. Bury Me (3:43)
+9. Intermission (Notes To The Editor) (2:09)
+10. Waiting To Breathe (3:03)
+11. Chip On Your Shoulder (2:58)
+12. Confessions Of A Romance Novelist (6:26)
+13. You And Only You (Acoustic Version) (4:50)
+14. Bury Me ( Acoustic Version ) (3:46)
+15. Long Year (Acoustic Version) (3:33)
+16. Popular (Acoustic Version) (2:23)
+
+## Videos
+{{< youtube id="6ul6hypmC30" title="Confessions of a Romance Novelist" >}}
+- [The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=Z2FXZeJED2w)
+- [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [The Anchoress - Confessions Of A Romance Novelist](https://www.discogs.com/release/9221307) |
+| Label          | Kscope |
+| Format         | 2xLP, Album |
+| Catalog Number | KSCOPE920 |
+

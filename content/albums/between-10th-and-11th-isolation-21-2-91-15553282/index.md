@@ -1,0 +1,57 @@
+---
+title: "The Charlatans - Between 10th And 11th / Isolation 21.2.91"
+album_artist: "The Charlatans"
+album_title: "Between 10th And 11th / Isolation 21.2.91"
+date: 2020-07-03
+release_id: "15553282"
+slug: "between-10th-and-11th-isolation-21-2-91-15553282"
+cover:
+    image: "between-10th-and-11th-isolation-21-2-91-15553282.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Between 10th And 11th
+2. I Don't Want To See The Sights
+3. Ignition
+4. Page One
+5. Tremelo Song
+6. The End Of Everything
+7. Subtitle
+8. Can't Even Be Bothered
+9. Weirdo
+10. Chewing Gum Weekend
+11. (No One) Not Even The Rain
+12. Isolation 21.2.91 Live At Chicago Metro
+13. Imperial 109
+14. The Only One I Know
+15. Then
+16. Happen To Die
+17. White Shirt
+18. Indian Rope
+19. Opportunity
+20. Sproston Green
+
+## Videos
+{{< youtube id="xivKBrdgz3c" title="I Don't Want To See The Sights" >}}
+- [The Charlatans - Tremelo Song](https://www.youtube.com/watch?v=a_jfHwt8USc)
+- [Can't Even Be Bothered](https://www.youtube.com/watch?v=GyOk-gCOE9U)
+- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
+- [Ignition](https://www.youtube.com/watch?v=NtinvC3Yc8k)
+- [The Charlatans - Weirdo](https://www.youtube.com/watch?v=SXBR96Z8_e8)
+- [The End Of Everything](https://www.youtube.com/watch?v=BYBzjmrw8Qs)
+- [Subtitle](https://www.youtube.com/watch?v=t_Wr_nfYTbg)
+- [[No One] Not Even The Rain](https://www.youtube.com/watch?v=AZezlm4_KOA)
+- [Weirdo](https://www.youtube.com/watch?v=m-yjro8dZjY)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2020 |
+| Discogs Link   | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282) |
+| Label          | Beggars Banquet, Situation Two |
+| Format         | LP, Album, RE, Cle + LP, RE, RM, Cle + Exp |
+| Catalog Number | BBQ2165LP |
+

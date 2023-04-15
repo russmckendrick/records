@@ -1,0 +1,33 @@
+---
+title: "Pijn - Floodlit"
+album_artist: "Pijn"
+album_title: "Floodlit"
+date: 2019-01-11
+release_id: "10611482"
+slug: "floodlit-10611482"
+cover:
+    image: "floodlit-10611482.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Dumbstruck & Floodlit (8:23)
+2. Hazel (2:29)
+3. Cassandra (1:37)
+4. Lacquer (7:25)
+
+## Videos
+{{< youtube id="F417DTW7O6o" title="Pijn - Dumbstruck & Floodlit Live" >}}
+- [Pijn - Floodlit (Full EP)](https://www.youtube.com/watch?v=GNzTHF8HsKY)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Pijn - Floodlit](https://www.discogs.com/release/10611482) |
+| Label          | Holy Roar Records |
+| Format         | LP, EP, Ltd, RP, Cre |
+| Catalog Number | HRR166 |
+

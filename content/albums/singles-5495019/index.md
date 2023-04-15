@@ -1,0 +1,43 @@
+---
+title: "Future Islands - Singles"
+album_artist: "Future Islands"
+album_title: "Singles"
+date: 2017-04-14
+release_id: "5495019"
+slug: "singles-5495019"
+cover:
+    image: "singles-5495019.jpg"
+tags: ["Electronic", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Seasons (Waiting On You) (3:46)
+2. Spirit (4:21)
+3. Sun In The Morning (3:50)
+4. Doves (3:28)
+5. Back In The Tall Grass (4:15)
+6. A Song For Our Grandfathers (4:55)
+7. Light House (4:47)
+8. Like The Moon (4:40)
+9. Fall From Grace (4:15)
+10. A Dream Of You & Me (3:59)
+
+## Videos
+{{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons (Waiting On You) (Official Video)" >}}
+- [Sun in the Morning](https://www.youtube.com/watch?v=Uyjt0EXHm9A)
+- [Future Islands - A Song for Our Grandfathers (Official Video)](https://www.youtube.com/watch?v=la6Ohm3dobk)
+- [Back in the Tall Grass](https://www.youtube.com/watch?v=3P4_58VCOIc)
+- [Doves](https://www.youtube.com/watch?v=In4JkFZy7jI)
+- [Future Islands - Spirit](https://www.youtube.com/watch?v=PeuCCJ9qQ-k)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2014 |
+| Discogs Link   | [Future Islands - Singles](https://www.discogs.com/release/5495019) |
+| Label          | 4AD |
+| Format         | LP, Album |
+| Catalog Number | CAD 3402 |
+

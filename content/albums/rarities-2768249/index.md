@@ -1,0 +1,62 @@
+---
+title: "Emiliana Torrini - Rarities"
+album_artist: "Emiliana Torrini"
+album_title: "Rarities"
+date: 2016-11-21
+release_id: "2768249"
+slug: "rarities-2768249"
+cover:
+    image: "rarities-2768249.jpg"
+tags: ["Electronic", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Dead Things
+2. Wednesday’s Child
+3. Tuna Fish
+4. To Be Free
+5. If You Go Away
+6. Weird Friendless Kid
+7. To Be Free (Futureshock Vocal Mix)
+8. To Be Free (Dillon & Dickens Vocal Remix)
+9. To Be Free (Raw Deal Remix)
+10. Baby Blue
+11. Baby Blue (Rae & Christian Remix)
+12. Baby Blue (Runaways Mix)
+13. Easy (Tore Johansson Mix)
+14. Easy (Album Version)
+15. Flirt (Slow Blow)
+16. Easy (In The Sunshine Acoustic)
+17. Easy (In The Rain Acoustic)
+18. Easy (Video Version)
+19. Unemployed In Summertime (Tore Johansson Mix)
+20. 7-Up Days
+21. Tuna Fish (Acoustic Version)
+22. Unemployed In Summertime (Dreemhouse Radio Mix)
+23. Unemployed In Summertime (Dreemhouse Mix)
+24. Unemployed In Summertime (Junior’s Summertime Mix)
+25. Unemployed In Summertime (Batucada Mix)
+26. To Be Free (Tore Johansson Radio Edit)
+27. To Be Free (Future Shock To Be Free Vocal Club Mix)
+28. Unemployed In Summertime (Dreemhouse Unemployed Club Mix)
+
+## Videos
+{{< youtube id="MBj5ZFPWxqE" title="Emiliana Torrini - Weird Friendless Kid" >}}
+- [Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)](https://www.youtube.com/watch?v=wsDWu4vC-eI)
+- [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
+- [Baby Blue (Rae & Christian Remix)](https://www.youtube.com/watch?v=ESrnf0rz05A)
+- [Emilíana Torrini - Unemployed in Summertime - Music Video](https://www.youtube.com/watch?v=lDi_tJcCJP0)
+- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
+- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2011 |
+| Discogs Link   | [Emiliana Torrini - Rarities](https://www.discogs.com/release/2768249) |
+| Label          | One Little Indian |
+| Format         | 4xLP, Comp |
+| Catalog Number | TPLP1081 |
+

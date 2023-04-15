@@ -1,0 +1,39 @@
+---
+title: "British Theatre - Mastery"
+album_artist: "British Theatre"
+album_title: "Mastery"
+date: 2016-06-27
+release_id: "8693685"
+slug: "mastery-8693685"
+cover:
+    image: "mastery-8693685.jpg"
+tags: ["Electronic", "Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Blue Horror
+2. The Cull 
+3. Dinosaur
+4. The Coldest Of Shoulders
+5. Capra
+6. Newman
+7. Cross The Swords
+8. Gold Bruise
+9. Thunderlips
+10. Favour The Brave
+11. Mastery
+
+## Videos
+
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2016 |
+| Discogs Link   | [British Theatre - Mastery](https://www.discogs.com/release/8693685) |
+| Label          | Not On Label (British Theatre Self-released) |
+| Format         | 2xLP, Album, Ltd, Cle |
+| Catalog Number | none |
+
