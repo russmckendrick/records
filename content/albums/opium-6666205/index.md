@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Opium"
-album_artist: "Matt Berry (3)"
-album_title: "Opium"
+artist: "Matt Berry (3)"
+album_name: "Opium"
 date: 2015-10-20
 release_id: "6666205"
 slug: "opium-6666205"
+hideSummary: true
 cover:
     image: "opium-6666205.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Opium by Matt Berry (3)"
+    caption: "Opium by Matt Berry (3)"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Experimental", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Matt Berry Jet Setter](https://www.youtube.com/watch?v=3GAas03g84c)
 - [Matt Berry One More Hit](https://www.youtube.com/watch?v=gXRX2PqPRiM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Matt Berry (3) - Opium](https://www.discogs.com/release/6666205) |
+| Release Year   | 2015 |
+| Discogs Link   | [Matt Berry (3) - Opium](https://www.discogs.com/release/6666205-Matt-Berry-Opium) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Ltd, Num, RP, Ora |
 | Catalog Number | AJXLP372 |
+
+Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only.
 

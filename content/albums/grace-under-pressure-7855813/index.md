@@ -1,14 +1,17 @@
 ---
 title: "Rush - Grace Under Pressure"
-album_artist: "Rush"
-album_title: "Grace Under Pressure"
+artist: "Rush"
+album_name: "Grace Under Pressure"
 date: 2017-02-22
 release_id: "7855813"
 slug: "grace-under-pressure-7855813"
+hideSummary: true
 cover:
     image: "grace-under-pressure-7855813.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grace Under Pressure by Rush"
+    caption: "Grace Under Pressure by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -21,16 +24,17 @@ hideSummary: true
 7. Red Lenses
 8. Between The Wheels
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Grace Under Pressure](https://www.discogs.com/release/7855813) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Grace Under Pressure](https://www.discogs.com/release/7855813-Rush-Grace-Under-Pressure) |
 | Label          | Anthem (5), Mercury, Universal Music Group International |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 00602547118271 |
+
+Including a voucher to download an MP3 version of the album  Comes with 10x10 glossy lyric & credits insert  DMM (Direct Metal Mastering)  Made in the EU
 

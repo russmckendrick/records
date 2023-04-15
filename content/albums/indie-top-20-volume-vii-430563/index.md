@@ -1,14 +1,17 @@
 ---
 title: "Various - Indie Top 20 Volume VII"
-album_artist: "Various"
-album_title: "Indie Top 20 Volume VII"
+artist: "Various"
+album_name: "Indie Top 20 Volume VII"
 date: 2016-11-16
 release_id: "430563"
 slug: "indie-top-20-volume-vii-430563"
+hideSummary: true
 cover:
     image: "indie-top-20-volume-vii-430563.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Indie Top 20 Volume VII by Various"
+    caption: "Indie Top 20 Volume VII by Various"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. White Knuckle Ride (2:46)
 20. Deanna (3:43)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Various - Indie Top 20 Volume VII](https://www.discogs.com/release/430563) |
+| Release Year   | 1989 |
+| Discogs Link   | [Various - Indie Top 20 Volume VII](https://www.discogs.com/release/430563-Various-Indie-Top-20-Volume-VII) |
 | Label          | Beechwood Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | TT07 |
+
+℗ + © Beechwood Music Made in England 1989
 

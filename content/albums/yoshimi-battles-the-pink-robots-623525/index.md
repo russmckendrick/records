@@ -1,14 +1,17 @@
 ---
 title: "The Flaming Lips - Yoshimi Battles The Pink Robots"
-album_artist: "The Flaming Lips"
-album_title: "Yoshimi Battles The Pink Robots"
+artist: "The Flaming Lips"
+album_name: "Yoshimi Battles The Pink Robots"
 date: 2015-08-09
 release_id: "623525"
 slug: "yoshimi-battles-the-pink-robots-623525"
+hideSummary: true
 cover:
     image: "yoshimi-battles-the-pink-robots-623525.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Yoshimi Battles The Pink Robots by The Flaming Lips"
+    caption: "Yoshimi Battles The Pink Robots by The Flaming Lips"
+genres: ["Electronic", "Rock"]
+styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [The Flaming Lips - Fight Test [Official Music Video]](https://www.youtube.com/watch?v=fye1XtXQn9s)
 - [The Flaming Lips - Phoebe Battles The Pink Robots [Official Music Video]](https://www.youtube.com/watch?v=HEaKdBSNS3k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2002 |
-| Discogs Link   | [The Flaming Lips - Yoshimi Battles The Pink Robots](https://www.discogs.com/release/623525) |
+| Release Year   | 2002 |
+| Discogs Link   | [The Flaming Lips - Yoshimi Battles The Pink Robots](https://www.discogs.com/release/623525-The-Flaming-Lips-Yoshimi-Battles-The-Pink-Robots) |
 | Label          | Warner Bros. Records |
 | Format         | LP, Album, Red |
 | Catalog Number | 9362-48141-1 |
+
+Comes in a gatefold sleeve.  Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.  © ℗ 2002 Warner Bros. Records Inc. ©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.  Some copies come affixed with a Cargo Distribution sticker.  Made in Germany.
 

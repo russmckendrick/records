@@ -1,14 +1,17 @@
 ---
 title: "Voice Of The Beehive - Let It Bee"
-album_artist: "Voice Of The Beehive"
-album_title: "Let It Bee"
+artist: "Voice Of The Beehive"
+album_name: "Let It Bee"
 date: 2022-12-12
 release_id: "25442044"
 slug: "let-it-bee-25442044"
+hideSummary: true
 cover:
     image: "let-it-bee-25442044.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Let It Bee by Voice Of The Beehive"
+    caption: "Let It Bee by Voice Of The Beehive"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Voice Of The Beehive - Sorrow Floats](https://www.youtube.com/watch?v=H3nWNxFoz-w)
 - [Voice Of The Beehive - What You Have Is Enough](https://www.youtube.com/watch?v=Kd7ae8oqkd4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/25442044) |
+| Release Year   | 2022 |
+| Discogs Link   | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/25442044-Voice-Of-The-Beehive-Let-It-Bee) |
 | Label          | London Records, London Records |
 | Format         | LP, Album, Ltd, RE, Yel |
 | Catalog Number | LMS5521766, 5060555217662 |
+
+Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.  Copies ordered from the artist's online store (via Townsend Music) come with a signed print.  Manufactured in France.
 

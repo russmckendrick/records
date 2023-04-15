@@ -1,14 +1,17 @@
 ---
 title: "The Who - Who"
-album_artist: "The Who"
-album_title: "Who"
+artist: "The Who"
+album_name: "Who"
 date: 2019-12-11
 release_id: "14492295"
 slug: "who-14492295"
+hideSummary: true
 cover:
     image: "who-14492295.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Who by The Who"
+    caption: "Who by The Who"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Rockin' In Rage](https://www.youtube.com/watch?v=49fVOODLUy0)
 - [She Rocked My World](https://www.youtube.com/watch?v=QSaMjzbJrtg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Who - Who](https://www.discogs.com/release/14492295) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Who - Who](https://www.discogs.com/release/14492295-The-Who-Who) |
 | Label          | Polydor |
 | Format         | LP, Album, Ltd, Pic |
 | Catalog Number | 0830402 |
+
+The First Studio Album since 2006  Includes free digital download code of all songs of "Who"  ℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited  Made in the EU 
 

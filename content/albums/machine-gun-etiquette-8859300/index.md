@@ -1,14 +1,17 @@
 ---
 title: "The Damned - Machine Gun Etiquette"
-album_artist: "The Damned"
-album_title: "Machine Gun Etiquette"
+artist: "The Damned"
+album_name: "Machine Gun Etiquette"
 date: 2023-02-05
 release_id: "8859300"
 slug: "machine-gun-etiquette-8859300"
+hideSummary: true
 cover:
     image: "machine-gun-etiquette-8859300.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Machine Gun Etiquette by The Damned"
+    caption: "Machine Gun Etiquette by The Damned"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Looking at You](https://www.youtube.com/watch?v=14PKjhC9Fnk)
 - [Smash It Up (Pts. 1 & 2)](https://www.youtube.com/watch?v=z0VdIX2YM9c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Damned - Machine Gun Etiquette](https://www.discogs.com/release/8859300) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Damned - Machine Gun Etiquette](https://www.discogs.com/release/8859300-The-Damned-Machine-Gun-Etiquette) |
 | Label          | Ace, Chiswick Records |
 | Format         | LP, Album, RE |
 | Catalog Number | WIKD 333 |
+
+Comes with an illustrated printed inner sleeve. 
 

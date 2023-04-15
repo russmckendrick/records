@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - The Man•Machine"
-album_artist: "Kraftwerk"
-album_title: "The Man•Machine"
+artist: "Kraftwerk"
+album_name: "The Man•Machine"
 date: 2016-02-29
 release_id: "2058334"
 slug: "the-manmachine-2058334"
+hideSummary: true
 cover:
     image: "the-manmachine-2058334.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Man•Machine by Kraftwerk"
+    caption: "The Man•Machine by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [The Man Machine (2009 Remaster)](https://www.youtube.com/watch?v=zHIsGqJaXXw)
 - [Kraftwerk - The Man • Machine (1978)](https://www.youtube.com/watch?v=nuJharcdxsk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Kraftwerk - The Man•Machine](https://www.discogs.com/release/2058334) |
+| Release Year   | 2009 |
+| Discogs Link   | [Kraftwerk - The Man•Machine](https://www.discogs.com/release/2058334-Kraftwerk-The-ManMachine) |
 | Label          | Kling Klang, Mute |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 50999 9 66022 1 8, STUMM 306 |
+
+Comes with full-size (12") 16 page colour booklet. Picture inner sleeve. 
 

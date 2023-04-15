@@ -1,14 +1,17 @@
 ---
 title: "Frankie Goes To Hollywood - Welcome To The Pleasuredome"
-album_artist: "Frankie Goes To Hollywood"
-album_title: "Welcome To The Pleasuredome"
+artist: "Frankie Goes To Hollywood"
+album_name: "Welcome To The Pleasuredome"
 date: 2015-10-14
 release_id: "73458"
 slug: "welcome-to-the-pleasuredome-73458"
+hideSummary: true
 cover:
     image: "welcome-to-the-pleasuredome-73458.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Welcome To The Pleasuredome by Frankie Goes To Hollywood"
+    caption: "Welcome To The Pleasuredome by Frankie Goes To Hollywood"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Synth-pop", "Ballad"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [The Power Of Love](https://www.youtube.com/watch?v=3-APuH5b46M)
 - [Bang](https://www.youtube.com/watch?v=49rN_5MNO98)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Frankie Goes To Hollywood - Welcome To The Pleasuredome](https://www.discogs.com/release/73458) |
+| Release Year   | 1984 |
+| Discogs Link   | [Frankie Goes To Hollywood - Welcome To The Pleasuredome](https://www.discogs.com/release/73458-Frankie-Goes-To-Hollywood-Welcome-To-The-Pleasuredome) |
 | Label          | ZTT |
 | Format         | 2xLP, Album, EMI |
 | Catalog Number | ZTT IQ1 |
+
+Gatefold sleeve with printed inner sleeves (round corners).  Some copies came with a sticker with European cat# 302 419-977 on upper right corner of back cover (UK version imported to mainland Europe?)  From sleeve notes: IQ number one becomes no.four in Zang Tuum Tumb's fishy Action Series. "Ain't that peculiar."  Record two's inner sleeve includes a mail order form for FGTH accessories, such as the "Sophisticated Virginia Woolf vest for the luxury of life" and the "Jean Genet boxer shorts", modelled by Paul Rutherford of the group Frankie Goes To Hollywood and Claudia Bruecken [sic] of the group Propaganda ...  "[4 symbols] x (frankie symbol) = BANG! (the spunk plus the bomb plus the pump plus the torture instrument times frankie equalling the bang is an exclusive piece of ZTT exploitation.)" © ZTT 1984  A1, A2, A4, B1, B3, C4, C5, D1, D2, D3, D4, D5: Perfect Songs Ltd A3, C1: Dick James Music Ltd B2: Jobete Music (UK) Ltd C2: Zomba Music Ltd C3: Carlin Music Corp  Side A banded as one continuous piece.  Spelling inconsistencies (intentional or otherwise) appear on release: • title listed as Welcome To The Pleasuredome on front, spine and inner sleeve / The Pleasure Dome on labels; • track C1 listed as 'ferry (Go)' on inner sleeve / 'fury' on label. • track D1 listed as 'Krisco Kisses' on inner sleeve / 'Ḱrisco Ḱisses' on label.
 

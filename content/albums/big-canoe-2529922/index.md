@@ -1,14 +1,17 @@
 ---
 title: "Tim Finn - Big Canoe"
-album_artist: "Tim Finn"
-album_title: "Big Canoe"
+artist: "Tim Finn"
+album_name: "Big Canoe"
 date: 2015-09-11
 release_id: "2529922"
 slug: "big-canoe-2529922"
+hideSummary: true
 cover:
     image: "big-canoe-2529922.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Big Canoe by Tim Finn"
+    caption: "Big Canoe by Tim Finn"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Tim Finn - Spiritual Hunger (1986)](https://www.youtube.com/watch?v=GGVNSZowmT8)
 - [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Tim Finn - Big Canoe](https://www.discogs.com/release/2529922) |
+| Release Year   | 1986 |
+| Discogs Link   | [Tim Finn - Big Canoe](https://www.discogs.com/release/2529922-Tim-Finn-Big-Canoe) |
 | Label          | Virgin |
 | Format         | LP, Album |
 | Catalog Number | V2369 |
+
+This version differs from [another similar release](http://www.discogs.com/release/1877272) in that it lacks "Manufactured in the U.K." anywhere on the release.  Printed inner sleeve with lyrics and credits No country of release displayed on packaging or labels.  Outer sleeve: ℗ 1986 VIRGIN RECORDS © 1986 VIRGIN RECORDS  Inner sleeve: Recorded and Mixed at Townhouse Studios 2 & 3  Labels: ℗ 1986 Virgin Records Ltd. VIRGIN IS A TRADE MARK OF VIRGIN HOLDINGS LTD. 
 

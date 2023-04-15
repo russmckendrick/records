@@ -1,14 +1,17 @@
 ---
 title: "My Bloody Valentine - Isn't Anything"
-album_artist: "My Bloody Valentine"
-album_title: "Isn't Anything"
+artist: "My Bloody Valentine"
+album_name: "Isn't Anything"
 date: 2021-05-21
 release_id: "18793480"
 slug: "isn-t-anything-18793480"
+hideSummary: true
 cover:
     image: "isn-t-anything-18793480.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Isn't Anything by My Bloody Valentine"
+    caption: "Isn't Anything by My Bloody Valentine"
+genres: ["Rock"]
+styles: ["Shoegaze", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [I Can See It (But I Can’t Feel It)](https://www.youtube.com/watch?v=EG159C9shuA)
 - [I Can See It (But I Can't Feel It)](https://www.youtube.com/watch?v=ZD7PK9ZRBAo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [My Bloody Valentine - Isn't Anything](https://www.discogs.com/release/18793480) |
+| Release Year   | 2021 |
+| Discogs Link   | [My Bloody Valentine - Isn't Anything](https://www.discogs.com/release/18793480-My-Bloody-Valentine-Isnt-Anything) |
 | Label          | Domino, MBV Records |
 | Format         | LP, Album, Dlx, RE, RP, Gat |
 | Catalog Number | REWIGLP158X  |
+
+Fully analog cut. Released in a deluxe gatefold tip-on and board-mounted sleeve. Includes a printed polylined inner sleeve and MP3 and WAV download card.   ℗ & © 2021 mbv records under exclusive license to domino recording co. ltd.
 

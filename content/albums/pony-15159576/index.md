@@ -1,14 +1,17 @@
 ---
 title: "Orville Peck - Pony"
-album_artist: "Orville Peck"
-album_title: "Pony"
+artist: "Orville Peck"
+album_name: "Pony"
 date: 2020-04-23
 release_id: "15159576"
 slug: "pony-15159576"
+hideSummary: true
 cover:
     image: "pony-15159576.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Pony by Orville Peck"
+    caption: "Pony by Orville Peck"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Queen of the Rodeo](https://www.youtube.com/watch?v=zrLZ4fzUP5k)
 - [Kansas (Remembers Me Now)](https://www.youtube.com/watch?v=Jbml8g3iaDQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Orville Peck - Pony](https://www.discogs.com/release/15159576) |
+| Release Year   | 2020 |
+| Discogs Link   | [Orville Peck - Pony](https://www.discogs.com/release/15159576-Orville-Peck-Pony) |
 | Label          | Sub Pop, Sub Pop |
 | Format         | LP, Album, Ltd, RP, Ora |
 | Catalog Number | SP1293, SP1361 |
+
+
 

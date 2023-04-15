@@ -1,14 +1,17 @@
 ---
 title: "Jane Weaver - Flock"
-album_artist: "Jane Weaver"
-album_title: "Flock"
+artist: "Jane Weaver"
+album_name: "Flock"
 date: 2021-03-08
 release_id: "17654794"
 slug: "flock-17654794"
+hideSummary: true
 cover:
     image: "flock-17654794.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Flock by Jane Weaver"
+    caption: "Flock by Jane Weaver"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Pyramid Schemes](https://www.youtube.com/watch?v=AWVt8c4ju40)
 - [Solarised](https://www.youtube.com/watch?v=IOMq26ygSAQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Jane Weaver - Flock](https://www.discogs.com/release/17654794) |
+| Release Year   | 2021 |
+| Discogs Link   | [Jane Weaver - Flock](https://www.discogs.com/release/17654794-Jane-Weaver-Flock) |
 | Label          | Fire Records |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | FIRELP544 |
+
+Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown).
 

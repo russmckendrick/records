@@ -1,14 +1,17 @@
 ---
 title: "M83 - Fantasy"
-album_artist: "M83"
-album_title: "Fantasy"
+artist: "M83"
+album_name: "Fantasy"
 date: 2023-03-20
 release_id: "26449427"
 slug: "fantasy-26449427"
+hideSummary: true
 cover:
     image: "fantasy-26449427.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Fantasy by M83"
+    caption: "Fantasy by M83"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [M83 - 'Us And The Rest' (Official Audio)](https://www.youtube.com/watch?v=SBX5LsazDho)
 - [M83 - 'Earth To Sea' (Official Audio)](https://www.youtube.com/watch?v=kyaO0zgBxa8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [M83 - Fantasy](https://www.discogs.com/release/26449427) |
+| Release Year   | 2023 |
+| Discogs Link   | [M83 - Fantasy](https://www.discogs.com/release/26449427-M83-Fantasy) |
 | Label          | Other Suns, Virgin |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | OS1 LP, 486 373-3 |
+
+tracks listed 1-13 on sleeve
 

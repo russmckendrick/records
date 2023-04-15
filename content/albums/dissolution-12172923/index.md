@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - Dissolution"
-album_artist: "The Pineapple Thief"
-album_title: "Dissolution"
+artist: "The Pineapple Thief"
+album_name: "Dissolution"
 date: 2018-08-31
 release_id: "12172923"
 slug: "dissolution-12172923"
+hideSummary: true
 cover:
     image: "dissolution-12172923.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dissolution by The Pineapple Thief"
+    caption: "Dissolution by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="J2G89BomTYk" title="The Pineapple Thief- Dissolution- Full Album" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Pineapple Thief - Dissolution](https://www.discogs.com/release/12172923) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Pineapple Thief - Dissolution](https://www.discogs.com/release/12172923-The-Pineapple-Thief-Dissolution) |
 | Label          | Kscope |
 | Format         | LP, Album, Ltd, Cry |
 | Catalog Number | KSCOPE997 |
+
+The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag. Ace guitarist David Torn guests on the song White Mist.
 

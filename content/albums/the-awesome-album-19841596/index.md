@@ -1,14 +1,17 @@
 ---
 title: "Mouse Rat - The Awesome Album"
-album_artist: "Mouse Rat"
-album_title: "The Awesome Album"
+artist: "Mouse Rat"
+album_name: "The Awesome Album"
 date: 2022-01-12
 release_id: "19841596"
 slug: "the-awesome-album-19841596"
+hideSummary: true
 cover:
     image: "the-awesome-album-19841596.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "The Awesome Album by Mouse Rat"
+    caption: "The Awesome Album by Mouse Rat"
+genres: ["Rock", "Stage & Screen"]
+styles: null
 ---
 
 ## Tracklisting
@@ -28,16 +31,17 @@ hideSummary: true
 14. Pickled Ginger
 15. Cold Water
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Mouse Rat - The Awesome Album](https://www.discogs.com/release/19841596) |
+| Release Year   | 2021 |
+| Discogs Link   | [Mouse Rat - The Awesome Album](https://www.discogs.com/release/19841596-Mouse-Rat-The-Awesome-Album) |
 | Label          | Dualtone, Entertainment 720 |
 | Format         | LP, Album, Ltd, Cat |
 | Catalog Number | x |
+
+Mouse Rat, formerly known as Scarecrow Boat, Everything Rhymes With Orange, Fleetwood Mac Sexpants, Threeskin, Just The Tip, Tackleshaft, or Teddy Bear Suicide, is fronted by Parks and Recreation shoe shine employee Andy Dwyer.  They have released a prolific string of hits including 5000 Candles In The Wind (Bye Bye Li'l Sebastian), Catch Your Dream (featuring Duke Silver), Two Birds Holding Hands, and The Pit.  "Catch Your Dream" red, white, and blue vinyl variant exclusive to the Dualtone Store.
 

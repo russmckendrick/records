@@ -1,14 +1,17 @@
 ---
 title: "Paul Draper - EP Two"
-album_artist: "Paul Draper"
-album_title: "EP Two"
+artist: "Paul Draper"
+album_name: "EP Two"
 date: 2017-08-12
 release_id: "9446803"
 slug: "ep-two-9446803"
+hideSummary: true
 cover:
     image: "ep-two-9446803.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "EP Two by Paul Draper"
+    caption: "EP Two by Paul Draper"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -20,13 +23,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO (Full EP stream)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Paul Draper - EP Two](https://www.discogs.com/release/9446803) |
+| Release Year   | 2016 |
+| Discogs Link   | [Paul Draper - EP Two](https://www.discogs.com/release/9446803-Paul-Draper-EP-Two) |
 | Label          | Kscope |
 | Format         | 12\", EP, Ltd, Num, Cle |
 | Catalog Number | KSCOPE935 |
+
+Limited edition, numbered clear vinyl. Includes download card.  Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo]. 'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting' LOUDER THAN WAR 
 

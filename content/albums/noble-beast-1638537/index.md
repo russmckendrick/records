@@ -1,14 +1,17 @@
 ---
 title: "Andrew Bird - Noble Beast"
-album_artist: "Andrew Bird"
-album_title: "Noble Beast"
+artist: "Andrew Bird"
+album_name: "Noble Beast"
 date: 2016-02-11
 release_id: "1638537"
 slug: "noble-beast-1638537"
+hideSummary: true
 cover:
     image: "noble-beast-1638537.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Noble Beast by Andrew Bird"
+    caption: "Noble Beast by Andrew Bird"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Natural Disaster](https://www.youtube.com/watch?v=dOiQDGPIMtU)
 - [Tenuousness](https://www.youtube.com/watch?v=0nSbR0hG6nc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Andrew Bird - Noble Beast](https://www.discogs.com/release/1638537) |
+| Release Year   | 2009 |
+| Discogs Link   | [Andrew Bird - Noble Beast](https://www.discogs.com/release/1638537-Andrew-Bird-Noble-Beast) |
 | Label          | Fat Possum Records |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | 1124-1 |
+
+Lightweight paper disc sleeves have artwork on one side and track list and lyrics on the other.
 

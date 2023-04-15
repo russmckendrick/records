@@ -1,14 +1,17 @@
 ---
 title: "Tubeway Army - Replicas"
-album_artist: "Tubeway Army"
-album_title: "Replicas"
+artist: "Tubeway Army"
+album_name: "Replicas"
 date: 2016-01-08
 release_id: "49235"
 slug: "replicas-49235"
+hideSummary: true
 cover:
     image: "replicas-49235.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Replicas by Tubeway Army"
+    caption: "Replicas by Tubeway Army"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "New Wave", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
 - [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1979 |
-| Discogs Link   | [Tubeway Army - Replicas](https://www.discogs.com/release/49235) |
+| Release Year   | 1979 |
+| Discogs Link   | [Tubeway Army - Replicas](https://www.discogs.com/release/49235-Tubeway-Army-Replicas) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album |
 | Catalog Number | BEGA 7 |
+
+Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London. Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners. Initial copies included a poster.  There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording
 

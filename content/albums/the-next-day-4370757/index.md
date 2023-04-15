@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - The Next Day"
-album_artist: "David Bowie"
-album_title: "The Next Day"
+artist: "David Bowie"
+album_name: "The Next Day"
 date: 2016-01-12
 release_id: "4370757"
 slug: "the-next-day-4370757"
+hideSummary: true
 cover:
     image: "the-next-day-4370757.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Next Day by David Bowie"
+    caption: "The Next Day by David Bowie"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock", "Pop Rock", "Avantgarde"]
 ---
 
 ## Tracklisting
@@ -47,16 +50,17 @@ hideSummary: true
 33. Plan (2:02)
 34. I'll Take You There (2:41)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [David Bowie - The Next Day](https://www.discogs.com/release/4370757) |
+| Release Year   | 2013 |
+| Discogs Link   | [David Bowie - The Next Day](https://www.discogs.com/release/4370757-David-Bowie-The-Next-Day) |
 | Label          | ISO Records, Columbia, Sony Music |
 | Format         | 2xLP, Album, 180 + CD, Album, Promo |
 | Catalog Number | 88765461861 |
+
+Gatefold cover with printed inner sleeves with lyrics and credits.  Sticker on shrinkwrap:  David Bowie's First Album in 10 Years. Featuring 17 New Songs Including 'Where Are We Now?' and 'The Stars (Are Out Tonight)'. 180 Gram Vinyl. Also Contains a CD of the Complete Album. 88765461861  On back cover: © & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment.  On CD:  © & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment. All rights reserved. BIEM/GEMA. LC 00162. Made in the EU. 88765 49048 2-Promo CD  Some marks from the plating like "3, 1, 1V┴, 1TX, 3||, 1+-" appear mirrored in the runouts.
 

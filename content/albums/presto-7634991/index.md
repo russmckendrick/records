@@ -1,14 +1,17 @@
 ---
 title: "Rush - Presto"
-album_artist: "Rush"
-album_title: "Presto"
+artist: "Rush"
+album_name: "Presto"
 date: 2017-02-26
 release_id: "7634991"
 slug: "presto-7634991"
+hideSummary: true
 cover:
     image: "presto-7634991.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Presto by Rush"
+    caption: "Presto by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Hand Over Fist (4:11)
 11. Available Light (5:03)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Presto](https://www.discogs.com/release/7634991) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Presto](https://www.discogs.com/release/7634991-Rush-Presto) |
 | Label          | Atlantic, Anthem (5) |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | R1-83736 |
+
+Issued with a printed inner sleeve with lyrics and credits. 200 gram reissue. Includes high-res 24bit/48kHz digital download card.  Recorded June-August 1989. Mixed September 1989. Preproduction work at Chalet Studio.  "Side I is much longer than Side II, therefore is not as loud. So turn it up!"  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  On labels: ℗ 1989 Atlantic Recording Corporation © 1989 Atlantic Recording Corporation and Anthem Entertainment
 

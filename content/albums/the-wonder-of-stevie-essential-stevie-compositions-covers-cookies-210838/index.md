@@ -1,14 +1,17 @@
 ---
 title: "DJ Spinna & Bobbito - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
-album_artist: "DJ Spinna & Bobbito"
-album_title: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
+artist: "DJ Spinna & Bobbito"
+album_name: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
 date: 2016-08-03
 release_id: "210838"
 slug: "the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838"
+hideSummary: true
 cover:
     image: "the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838.jpg"
-tags: ["Latin", "Funk / Soul"]
-hideSummary: true
+    alt: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna & Bobbito"
+    caption: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna & Bobbito"
+genres: ["Latin", "Funk / Soul"]
+styles: ["Soul", "Funk", "Disco"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [First Choice - Love Having You Around](https://www.youtube.com/watch?v=so9_Vb5yY4k)
 - [Ramsey Lewis - Spring High](https://www.youtube.com/watch?v=6rAFUTaCa3k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2003 |
-| Discogs Link   | [DJ Spinna & Bobbito - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)](https://www.discogs.com/release/210838) |
+| Release Year   | 2003 |
+| Discogs Link   | [DJ Spinna & Bobbito - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)](https://www.discogs.com/release/210838-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Essential-Stevie-Compositions-Covers-Cookies) |
 | Label          | Harmless |
 | Format         | 2x12\", Comp |
 | Catalog Number | HURTLP051 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Little Angels - Jam"
-album_artist: "Little Angels"
-album_title: "Jam"
+artist: "Little Angels"
+album_name: "Jam"
 date: 2016-04-15
 release_id: "2591057"
 slug: "jam-2591057"
+hideSummary: true
 cover:
     image: "jam-2591057.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Jam by Little Angels"
+    caption: "Jam by Little Angels"
+genres: ["Rock"]
+styles: ["Soft Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="AyqjkGLewpY" title="Little Angels – Womankind" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1993 |
-| Discogs Link   | [Little Angels - Jam](https://www.discogs.com/release/2591057) |
+| Release Year   | 1993 |
+| Discogs Link   | [Little Angels - Jam](https://www.discogs.com/release/2591057-Little-Angels-Jam) |
 | Label          | Polydor, Polydor |
 | Format         | LP, Album + 10\" |
 | Catalog Number | 517 676-1, Jam LP1 |
+
+Includes Live Jam 10" recorded at Newport Centre, Gwent  With hype sticker on sleeve and printed inner sleeve.  'Tired Of Waiting For You' originally performed by [a94078] 'Won't Get Fooled Again' originally performed by [a196766]  ℗ 1992 Polydor Ltd. (UK) ℗ 1993 Polydor Ltd. (UK) © 1993 Polydor Ltd. (UK)
 

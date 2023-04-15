@@ -1,14 +1,17 @@
 ---
 title: "Muddy Waters - Electric Mud"
-album_artist: "Muddy Waters"
-album_title: "Electric Mud"
+artist: "Muddy Waters"
+album_name: "Electric Mud"
 date: 2017-12-08
 release_id: "11183534"
 slug: "electric-mud-11183534"
+hideSummary: true
 cover:
     image: "electric-mud-11183534.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Electric Mud by Muddy Waters"
+    caption: "Electric Mud by Muddy Waters"
+genres: ["Rock", "Blues"]
+styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Tom Cat](https://www.youtube.com/watch?v=RnK4mvFNj64)
 - [The Same Thing](https://www.youtube.com/watch?v=RBvebLOo98Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Muddy Waters - Electric Mud](https://www.discogs.com/release/11183534) |
+| Release Year   | 2017 |
+| Discogs Link   | [Muddy Waters - Electric Mud](https://www.discogs.com/release/11183534-Muddy-Waters-Electric-Mud) |
 | Label          | Third Man Records, Geffen Records, Universal Music Special Markets |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | TMR-485, B0026557-01 |
+
+Recorded at Ter Mar Studios, Chicago, May, 1968 Comes with a poster  For the 2019 reissue WITHOUT poster, see here : [r=16092165]
 

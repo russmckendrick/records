@@ -1,14 +1,17 @@
 ---
 title: "The Stranglers / Squeeze (2) / Various - The History Of Rock (Volume Thirty One)"
-album_artist: "The Stranglers / Squeeze (2) / Various"
-album_title: "The History Of Rock (Volume Thirty One)"
+artist: "The Stranglers / Squeeze (2) / Various"
+album_name: "The History Of Rock (Volume Thirty One)"
 date: 2018-12-28
 release_id: "1996636"
 slug: "the-history-of-rock-volume-thirty-one-1996636"
+hideSummary: true
 cover:
     image: "the-history-of-rock-volume-thirty-one-1996636.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The History Of Rock (Volume Thirty One) by The Stranglers / Squeeze (2) / Various"
+    caption: "The History Of Rock (Volume Thirty One) by The Stranglers / Squeeze (2) / Various"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ---
 
 ## Tracklisting
@@ -39,16 +42,17 @@ hideSummary: true
 25. Do Nothing
 26. Let's Do Rock Steady
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [The Stranglers / Squeeze (2) / Various - The History Of Rock (Volume Thirty One)](https://www.discogs.com/release/1996636) |
+| Release Year   | 1985 |
+| Discogs Link   | [The Stranglers / Squeeze (2) / Various - The History Of Rock (Volume Thirty One)](https://www.discogs.com/release/1996636-The-Stranglers-Squeeze-2-Various-The-History-Of-Rock-Volume-Thirty-One) |
 | Label          | Orbis |
 | Format         | 2xLP, Comp |
 | Catalog Number | HRL 031 |
+
+
 

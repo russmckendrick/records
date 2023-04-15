@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Live"
-album_artist: "Status Quo"
-album_title: "Live"
+artist: "Status Quo"
+album_name: "Live"
 date: 2016-05-23
 release_id: "7580911"
 slug: "live-7580911"
+hideSummary: true
 cover:
     image: "live-7580911.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live by Status Quo"
+    caption: "Live by Status Quo"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Status Quo - Roadhouse Blues (Live at the Apollo Glasgow 1976)](https://www.youtube.com/watch?v=I_1XYhm750Y)
 - [Status Quo - Rain](https://www.youtube.com/watch?v=Z_mHSGlyRa0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Live](https://www.discogs.com/release/7580911) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Live](https://www.discogs.com/release/7580911-Status-Quo-Live) |
 | Label          | Vertigo |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | 4723768 |
+
+Gatefold sleeve
 

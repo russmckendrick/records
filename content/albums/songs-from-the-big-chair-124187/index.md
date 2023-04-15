@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - Songs From The Big Chair"
-album_artist: "Tears For Fears"
-album_title: "Songs From The Big Chair"
+artist: "Tears For Fears"
+album_name: "Songs From The Big Chair"
 date: 2015-12-30
 release_id: "124187"
 slug: "songs-from-the-big-chair-124187"
+hideSummary: true
 cover:
     image: "songs-from-the-big-chair-124187.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Songs From The Big Chair by Tears For Fears"
+    caption: "Songs From The Big Chair by Tears For Fears"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Broken](https://www.youtube.com/watch?v=Vsva4qGh8l8)
 - [Listen](https://www.youtube.com/watch?v=JPCn04KwUgQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/124187) |
+| Release Year   | 1985 |
+| Discogs Link   | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/124187-Tears-For-Fears-Songs-From-The-Big-Chair) |
 | Label          | Mercury |
 | Format         | LP, Album |
 | Catalog Number | MERH 58 |
+
+Released with known two different types of hype sticker. See images.  Labels: A1 to A4 & B5 Virgin Music (Publishers) Ltd./10 Music Ltd. B1 to B4 Virgin Music (Publishers) Ltd.  Original sound recording made by Phonogram Ltd. (London) A1 & A4 ℗ 1984 Phonogram Ltd. (London) A2, A3 & B1 to B5 ℗ 1985 Phonogram Ltd. (London)  Made In England  Sleeve: © Phonogram Ltd. (London) 1985 ℗ 1985 Phonogram Ltd. (London)  Track B4 Broken (Live) is only mentioned on the label. Comes with Credits / Picture inner sleeve.
 

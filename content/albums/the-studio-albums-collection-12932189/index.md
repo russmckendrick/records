@@ -1,14 +1,17 @@
 ---
 title: "Creedence Clearwater Revival - The Studio Albums Collection"
-album_artist: "Creedence Clearwater Revival"
-album_title: "The Studio Albums Collection"
+artist: "Creedence Clearwater Revival"
+album_name: "The Studio Albums Collection"
 date: 2019-11-16
 release_id: "12932189"
 slug: "the-studio-albums-collection-12932189"
+hideSummary: true
 cover:
     image: "the-studio-albums-collection-12932189.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Studio Albums Collection by Creedence Clearwater Revival"
+    caption: "The Studio Albums Collection by Creedence Clearwater Revival"
+genres: ["Rock"]
+styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
 
 ## Tracklisting
@@ -85,16 +88,17 @@ hideSummary: true
 71. Door To Door (2:03)
 72. Sweet Hitch-Hiker (2:59)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Creedence Clearwater Revival - The Studio Albums Collection](https://www.discogs.com/release/12932189) |
+| Release Year   | 2018 |
+| Discogs Link   | [Creedence Clearwater Revival - The Studio Albums Collection](https://www.discogs.com/release/12932189-Creedence-Clearwater-Revival-The-Studio-Albums-Collection) |
 | Label          | Craft Recordings, Fantasy |
 | Format         | Box, Comp, Num, S/Edition + 7xLP, Album, RE, RM, H |
 | Catalog Number | CR00131, 0888072049376 |
+
+Text on the back cover of the box set:  The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands
 

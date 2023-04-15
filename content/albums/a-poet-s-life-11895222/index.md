@@ -1,14 +1,17 @@
 ---
 title: "Tim Armstrong - A Poet's Life"
-album_artist: "Tim Armstrong"
-album_title: "A Poet's Life"
+artist: "Tim Armstrong"
+album_name: "A Poet's Life"
 date: 2018-04-21
 release_id: "11895222"
 slug: "a-poet-s-life-11895222"
+hideSummary: true
 cover:
     image: "a-poet-s-life-11895222.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Poet's Life by Tim Armstrong"
+    caption: "A Poet's Life by Tim Armstrong"
+genres: ["Rock"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Tim Armstrong - Among The Dead](https://www.youtube.com/watch?v=-HDdFRGkOJU)
 - [Tim Armstrong - Cold Blooded](https://www.youtube.com/watch?v=yDCTI84is3o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Tim Armstrong - A Poet's Life](https://www.discogs.com/release/11895222) |
+| Release Year   | 2018 |
+| Discogs Link   | [Tim Armstrong - A Poet's Life](https://www.discogs.com/release/11895222-Tim-Armstrong-A-Poets-Life) |
 | Label          | Hellcat Records |
 | Format         | LP, Album, RSD, Ltd, RE, Whi |
 | Catalog Number | 0491-1 |
+
+Gatefold cover. White vinyl.   The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made.
 

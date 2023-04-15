@@ -1,14 +1,17 @@
 ---
 title: "Various - Radio Active"
-album_artist: "Various"
-album_title: "Radio Active"
+artist: "Various"
+album_name: "Radio Active"
 date: 2015-09-16
 release_id: "1762222"
 slug: "radio-active-1762222"
+hideSummary: true
 cover:
     image: "radio-active-1762222.jpg"
-tags: ["Electronic", "Rock", "Reggae", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Radio Active by Various"
+    caption: "Radio Active by Various"
+genres: ["Electronic", "Rock", "Reggae", "Funk / Soul", "Pop"]
+styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [Sue Wilkinson - You've Got to be a Hustler - TOTP 1980 [HD]](https://www.youtube.com/watch?v=rT0T6ErJEJU)
 - [UB40 - I Think It's Going to Rain Today (Lyrics)](https://www.youtube.com/watch?v=JSUhwUF5P_w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Various - Radio Active](https://www.discogs.com/release/1762222) |
+| Release Year   | 1980 |
+| Discogs Link   | [Various - Radio Active](https://www.discogs.com/release/1762222-Various-Radio-Active) |
 | Label          | Ronco |
 | Format         | LP, Comp, Lyn |
 | Catalog Number | RTL 2049 |
+
+Subtitled "20 Electric Hits"  Track B5 title shortened to 'Lies' on sleeve tracklist. 
 

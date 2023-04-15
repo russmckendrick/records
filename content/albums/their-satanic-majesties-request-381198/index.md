@@ -1,14 +1,17 @@
 ---
 title: "The Rolling Stones - Their Satanic Majesties Request"
-album_artist: "The Rolling Stones"
-album_title: "Their Satanic Majesties Request"
+artist: "The Rolling Stones"
+album_name: "Their Satanic Majesties Request"
 date: 2016-12-02
 release_id: "381198"
 slug: "their-satanic-majesties-request-381198"
+hideSummary: true
 cover:
     image: "their-satanic-majesties-request-381198.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Their Satanic Majesties Request by The Rolling Stones"
+    caption: "Their Satanic Majesties Request by The Rolling Stones"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. 2000 Light Years From Home
 10. On With The Show
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2003 |
-| Discogs Link   | [The Rolling Stones - Their Satanic Majesties Request](https://www.discogs.com/release/381198) |
+| Release Year   | 2003 |
+| Discogs Link   | [The Rolling Stones - Their Satanic Majesties Request](https://www.discogs.com/release/381198-The-Rolling-Stones-Their-Satanic-Majesties-Request) |
 | Label          | ABKCO |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | 882 329-1 |
+
+Some copies comes with sticker of the The Rolling Stones DSD Remastered Series on front cover (applied on the shrink-wrap) Laminated sleeve. Generic anti-static poly-lined dust inner sleeve. DSD Direct Stream Digital, Direct SBM Super Bit Mapping Direct  [On labels] DSD, & SBM Direct are Trademarks of Sony & Philips ©2003 ℗1967 ABKCO Records. Manufactured by ABKCO Records a division of ABKCO Music & Records, Inc Made in EU 882 329-1  [On back] ©2003 ABKCO Records. [...] Printed in EU. DSD, & SBM Direct are Trademarks of Sony & Philips.  Some copies distributed with barcode sticker (text): 0 18771 90021 4  Runouts are hand-etched except of the stamped -7642-.
 

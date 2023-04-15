@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - Intruder"
-album_artist: "Gary Numan"
-album_title: "Intruder"
+artist: "Gary Numan"
+album_name: "Intruder"
 date: 2021-05-21
 release_id: "18815773"
 slug: "intruder-18815773"
+hideSummary: true
 cover:
     image: "intruder-18815773.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Intruder by Gary Numan"
+    caption: "Intruder by Gary Numan"
+genres: ["Rock"]
+styles: ["Industrial"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Gary Numan - I Am Screaming (Official Audio)](https://www.youtube.com/watch?v=tvO_BpzlV8E)
 - [Gary Numan -  Betrayed (Official Audio)](https://www.youtube.com/watch?v=Vh8ITj24rKk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Gary Numan - Intruder](https://www.discogs.com/release/18815773) |
+| Release Year   | 2021 |
+| Discogs Link   | [Gary Numan - Intruder](https://www.discogs.com/release/18815773-Gary-Numan-Intruder) |
 | Label          | BMG |
 | Format         | 2xLP, Album, Ltd, Sil |
 | Catalog Number | 538658721 |
+
+Gatefold sleeve.
 

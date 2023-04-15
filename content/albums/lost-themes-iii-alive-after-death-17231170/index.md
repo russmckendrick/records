@@ -1,14 +1,17 @@
 ---
 title: "John Carpenter - Lost Themes III: Alive After Death"
-album_artist: "John Carpenter"
-album_title: "Lost Themes III: Alive After Death"
+artist: "John Carpenter"
+album_name: "Lost Themes III: Alive After Death"
 date: 2021-02-06
 release_id: "17231170"
 slug: "lost-themes-iii-alive-after-death-17231170"
+hideSummary: true
 cover:
     image: "lost-themes-iii-alive-after-death-17231170.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Lost Themes III: Alive After Death by John Carpenter"
+    caption: "Lost Themes III: Alive After Death by John Carpenter"
+genres: ["Electronic"]
+styles: ["Ambient", "Experimental", "Synthwave"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [John Carpenter - Lost Themes III: Alive After Death](https://www.youtube.com/watch?v=jJn_0YA-R2U)
 - [Lost Theme 3 Alive After Death John Carpenter - Il paradiso della musica 16](https://www.youtube.com/watch?v=JpxXF_UFs60)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [John Carpenter - Lost Themes III: Alive After Death](https://www.discogs.com/release/17231170) |
+| Release Year   | 2021 |
+| Discogs Link   | [John Carpenter - Lost Themes III: Alive After Death](https://www.discogs.com/release/17231170-John-Carpenter-Lost-Themes-III-Alive-After-Death) |
 | Label          | Sacred Bones Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | SBR-265 |
+
+Includes a digital download card and a 24" x 36" fold-out poster.
 

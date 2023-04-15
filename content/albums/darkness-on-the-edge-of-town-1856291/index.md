@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Darkness On The Edge Of Town"
-album_artist: "Bruce Springsteen"
-album_title: "Darkness On The Edge Of Town"
+artist: "Bruce Springsteen"
+album_name: "Darkness On The Edge Of Town"
 date: 2015-09-15
 release_id: "1856291"
 slug: "darkness-on-the-edge-of-town-1856291"
+hideSummary: true
 cover:
     image: "darkness-on-the-edge-of-town-1856291.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Darkness On The Edge Of Town by Bruce Springsteen"
+    caption: "Darkness On The Edge Of Town by Bruce Springsteen"
+genres: ["Rock"]
+styles: ["Folk Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Prove It All Night](https://www.youtube.com/watch?v=UzjkWdRqWFo)
 - [Darkness on the Edge of Town](https://www.youtube.com/watch?v=0LpdEyGhNxM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Bruce Springsteen - Darkness On The Edge Of Town](https://www.discogs.com/release/1856291) |
+| Release Year   | 1978 |
+| Discogs Link   | [Bruce Springsteen - Darkness On The Edge Of Town](https://www.discogs.com/release/1856291-Bruce-Springsteen-Darkness-On-The-Edge-Of-Town) |
 | Label          | CBS, CBS |
 | Format         | LP, Album |
 | Catalog Number | CBS 86061, S CBS 86061 |
+
+'Made in England'  With picture inner sleeve and lyric insert. 
 

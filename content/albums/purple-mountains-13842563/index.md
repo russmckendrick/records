@@ -1,14 +1,17 @@
 ---
 title: "Purple Mountains - Purple Mountains"
-album_artist: "Purple Mountains"
-album_title: "Purple Mountains"
+artist: "Purple Mountains"
+album_name: "Purple Mountains"
 date: 2019-07-12
 release_id: "13842563"
 slug: "purple-mountains-13842563"
+hideSummary: true
 cover:
     image: "purple-mountains-13842563.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Purple Mountains by Purple Mountains"
+    caption: "Purple Mountains by Purple Mountains"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Alternative Rock", "Folk"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Storyline Fever](https://www.youtube.com/watch?v=YEpq9RFBaew)
 - [Maybe I’m the Only One For Me](https://www.youtube.com/watch?v=A2y5msfAClU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Purple Mountains - Purple Mountains](https://www.discogs.com/release/13842563) |
+| Release Year   | 2019 |
+| Discogs Link   | [Purple Mountains - Purple Mountains](https://www.discogs.com/release/13842563-Purple-Mountains-Purple-Mountains) |
 | Label          | Drag City |
 | Format         | LP, Album |
 | Catalog Number | DC680 |
+
+Packaged in a tip-on sleeve. Includes a printed inner sleeve.  © & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647  Engineered [...] at Jamdek in Chicago and Thump in Brooklyn Mixed [...] at Electrical Audio in Chicago
 

@@ -1,14 +1,17 @@
 ---
 title: "The Charlatans - The Charlatans"
-album_artist: "The Charlatans"
-album_title: "The Charlatans"
+artist: "The Charlatans"
+album_name: "The Charlatans"
 date: 2021-10-08
 release_id: "20376190"
 slug: "the-charlatans-20376190"
+hideSummary: true
 cover:
     image: "the-charlatans-20376190.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Charlatans by The Charlatans"
+    caption: "The Charlatans by The Charlatans"
+genres: ["Rock"]
+styles: ["Britpop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The Charlatans - Feeling Holy](https://www.youtube.com/watch?v=-mSwij3eShM)
 - [The Charlatans - Nine Acre Court](https://www.youtube.com/watch?v=uT5DUezAaRw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Charlatans - The Charlatans](https://www.discogs.com/release/20376190) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Charlatans - The Charlatans](https://www.discogs.com/release/20376190-The-Charlatans-The-Charlatans) |
 | Label          | Beggars Arkive |
 | Format         | 2xLP, Album, RE, RM, Yel |
 | Catalog Number | BBL 174 LP2 |
+
+Gatefold sleeve.    nb: Secondary barcode sticker not on most copies.  For mispressing featuring Gary Numan see "[r=20732044]".
 

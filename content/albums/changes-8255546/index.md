@@ -1,14 +1,17 @@
 ---
 title: "Charles Bradley - Changes"
-album_artist: "Charles Bradley"
-album_title: "Changes"
+artist: "Charles Bradley"
+album_name: "Changes"
 date: 2016-04-02
 release_id: "8255546"
 slug: "changes-8255546"
+hideSummary: true
 cover:
     image: "changes-8255546.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Changes by Charles Bradley"
+    caption: "Changes by Charles Bradley"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
 - [Charles Bradley Changes (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Charles Bradley - Changes](https://www.discogs.com/release/8255546) |
+| Release Year   | 2016 |
+| Discogs Link   | [Charles Bradley - Changes](https://www.discogs.com/release/8255546-Charles-Bradley-Changes) |
 | Label          | Dunham, Daptone Records, Daptone Records |
 | Format         | LP, Album |
 | Catalog Number | DUN-1005, DAP-041, DAP041 |
+
+Includes [download card](http://www.discogs.com/release/9023062).   Some with hype sticker on shrink wrap of new copies.
 

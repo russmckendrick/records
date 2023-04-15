@@ -1,14 +1,17 @@
 ---
 title: "Saun & Starr - Look Closer"
-album_artist: "Saun & Starr"
-album_title: "Look Closer"
+artist: "Saun & Starr"
+album_name: "Look Closer"
 date: 2016-09-06
 release_id: "7014688"
 slug: "look-closer-7014688"
+hideSummary: true
 cover:
     image: "look-closer-7014688.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Look Closer by Saun & Starr"
+    caption: "Look Closer by Saun & Starr"
+genres: ["Funk / Soul"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Saun & Starr Sunshine (You're Blowin' My Cool)](https://www.youtube.com/watch?v=3q_UZaTg_G4)
 - [Saun & Starr Your Face Before My Eyes](https://www.youtube.com/watch?v=2WH9NQ_ctp0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Saun & Starr - Look Closer](https://www.discogs.com/release/7014688) |
+| Release Year   | 2015 |
+| Discogs Link   | [Saun & Starr - Look Closer](https://www.discogs.com/release/7014688-Saun-Starr-Look-Closer) |
 | Label          | Daptone Records |
 | Format         | LP, Album |
 | Catalog Number | DAP-035 |
+
+includes coupon with code for mp3 download
 

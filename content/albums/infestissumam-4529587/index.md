@@ -1,14 +1,17 @@
 ---
 title: "Ghost (32) - Infestissumam"
-album_artist: "Ghost (32)"
-album_title: "Infestissumam"
+artist: "Ghost (32)"
+album_name: "Infestissumam"
 date: 2018-09-21
 release_id: "4529587"
 slug: "infestissumam-4529587"
+hideSummary: true
 cover:
     image: "infestissumam-4529587.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Infestissumam by Ghost (32)"
+    caption: "Infestissumam by Ghost (32)"
+genres: ["Rock"]
+styles: ["Hard Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [La Mantra Mori](https://www.youtube.com/watch?v=6FN6k8XtRpw)
 - [I'm A Marionette](https://www.youtube.com/watch?v=Gvj7f8-UZ9g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Ghost (32) - Infestissumam](https://www.discogs.com/release/4529587) |
+| Release Year   | 2013 |
+| Discogs Link   | [Ghost (32) - Infestissumam](https://www.discogs.com/release/4529587-Ghost-BC-Infestissumam) |
 | Label          | Loma Vista, Republic Records, Rise Above Records |
 | Format         | LP, Album, Red |
 | Catalog Number | 602537343737 |
+
+Gatefold cover. Made in EU.
 

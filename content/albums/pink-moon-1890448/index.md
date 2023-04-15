@@ -1,14 +1,17 @@
 ---
 title: "Nick Drake - Pink Moon"
-album_artist: "Nick Drake"
-album_title: "Pink Moon"
+artist: "Nick Drake"
+album_name: "Pink Moon"
 date: 2016-08-09
 release_id: "1890448"
 slug: "pink-moon-1890448"
+hideSummary: true
 cover:
     image: "pink-moon-1890448.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Pink Moon by Nick Drake"
+    caption: "Pink Moon by Nick Drake"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Acoustic", "Folk", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Harvest Breed](https://www.youtube.com/watch?v=7d87RHPn8kI)
 - [From The Morning](https://www.youtube.com/watch?v=xPe5ZQx0OpQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Nick Drake - Pink Moon](https://www.discogs.com/release/1890448) |
+| Release Year   | 2009 |
+| Discogs Link   | [Nick Drake - Pink Moon](https://www.discogs.com/release/1890448-Nick-Drake-Pink-Moon) |
 | Label          | Island Records |
 | Format         | LP, Album, RP |
 | Catalog Number | 006025 17456976 |
+
+Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl. Issued with hype sticker on shrink wrap and download code.  Engineer: John Wood, Sound Techniques
 

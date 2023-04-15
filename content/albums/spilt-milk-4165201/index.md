@@ -1,14 +1,17 @@
 ---
 title: "Jellyfish (2) - Spilt Milk"
-album_artist: "Jellyfish (2)"
-album_title: "Spilt Milk"
+artist: "Jellyfish (2)"
+album_name: "Spilt Milk"
 date: 2016-02-07
 release_id: "4165201"
 slug: "spilt-milk-4165201"
+hideSummary: true
 cover:
     image: "spilt-milk-4165201.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Spilt Milk by Jellyfish (2)"
+    caption: "Spilt Milk by Jellyfish (2)"
+genres: ["Rock"]
+styles: ["Power Pop", "Glam"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Jellyfish - Spilt Milk [FULL ALBUM, HQ]](https://www.youtube.com/watch?v=cu9xIyZ6ZMg)
 - [Jellyfish - The Ghost At #1](https://www.youtube.com/watch?v=YgKjC2V4xfk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Jellyfish (2) - Spilt Milk](https://www.discogs.com/release/4165201) |
+| Release Year   | 2012 |
+| Discogs Link   | [Jellyfish (2) - Spilt Milk](https://www.discogs.com/release/4165201-Jellyfish-Spilt-Milk) |
 | Label          | Omnivore Recordings |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | OVLP-6 |
+
+Full title: Jellyfish Presents Spilt Milk   Cut from original analog masters.  First time on LP in the U.S.  Pressed on 180-Gram Vinyl!  Black vinyl edition
 

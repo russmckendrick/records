@@ -1,14 +1,17 @@
 ---
 title: "Fu Manchu - Clone Of The Universe"
-album_artist: "Fu Manchu"
-album_title: "Clone Of The Universe"
+artist: "Fu Manchu"
+album_name: "Clone Of The Universe"
 date: 2018-02-10
 release_id: "11533218"
 slug: "clone-of-the-universe-11533218"
+hideSummary: true
 cover:
     image: "clone-of-the-universe-11533218.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Clone Of The Universe by Fu Manchu"
+    caption: "Clone Of The Universe by Fu Manchu"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Fu Manchu - Intelligent Worship](https://www.youtube.com/watch?v=DXu5YFTVCyc)
 - [Fu Manchu - Slower Than Light](https://www.youtube.com/watch?v=d2FRV4wcyDw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Fu Manchu - Clone Of The Universe](https://www.discogs.com/release/11533218) |
+| Release Year   | 2018 |
+| Discogs Link   | [Fu Manchu - Clone Of The Universe](https://www.discogs.com/release/11533218-Fu-Manchu-Clone-Of-The-Universe) |
 | Label          | At The Dojo Records |
 | Format         | LP, Album, Bla |
 | Catalog Number | ATD014 |
+
+Includes a printed 12" x 12" sheet with photos and credits.  LP's from band store came with lyric sheets for each of the 7 songs just as Scott Hill wrote them down to sing from in the studio and die cut prism stickers.  ℗ © Fu Manchu Under License To At The Dojo Records  Recorded, Engineered And Mixed [...] At The Racket Room In Santa Ana, CA July 2017 Drums / Bass On [B, A1, A5] Were Recorded [...] At Susstudio In Simi Valley, CA July 2017 All Songs Written By [...] (ASCAP) And Published By Fu Manchu (ASCAP) Alex Lifeson Appears Courtesy Of Lersxt Music
 

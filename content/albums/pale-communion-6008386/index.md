@@ -1,14 +1,17 @@
 ---
 title: "Opeth - Pale Communion"
-album_artist: "Opeth"
-album_title: "Pale Communion"
+artist: "Opeth"
+album_name: "Pale Communion"
 date: 2016-08-25
 release_id: "6008386"
 slug: "pale-communion-6008386"
+hideSummary: true
 cover:
     image: "pale-communion-6008386.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pale Communion by Opeth"
+    caption: "Pale Communion by Opeth"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Unboxing Opeth - Pale Communion 2014 Deluxe Edition](https://www.youtube.com/watch?v=cuAd_0CXfvc)
 - [Opeth - Cusp Of Eternity (Audio)](https://www.youtube.com/watch?v=JHq9yMXw3iA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Opeth - Pale Communion](https://www.discogs.com/release/6008386) |
+| Release Year   | 2014 |
+| Discogs Link   | [Opeth - Pale Communion](https://www.discogs.com/release/6008386-Opeth-Pale-Communion) |
 | Label          | Roadrunner Records |
 | Format         | 2xLP, Album, Ltd, Sil |
 | Catalog Number | RR7573-1 |
+
+180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies. Inclusive download card with bonus content (available on 08/25/14)  Some releases contained a silver coloured Opeth hanger, art.nr. 285947St  Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver.
 

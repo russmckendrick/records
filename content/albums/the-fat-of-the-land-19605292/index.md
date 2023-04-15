@@ -1,14 +1,17 @@
 ---
 title: "The Prodigy - The Fat Of The Land"
-album_artist: "The Prodigy"
-album_title: "The Fat Of The Land"
+artist: "The Prodigy"
+album_name: "The Fat Of The Land"
 date: 2021-07-27
 release_id: "19605292"
 slug: "the-fat-of-the-land-19605292"
+hideSummary: true
 cover:
     image: "the-fat-of-the-land-19605292.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Fat Of The Land by The Prodigy"
+    caption: "The Fat Of The Land by The Prodigy"
+genres: ["Electronic"]
+styles: ["Breakbeat", "Breaks"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Climbatize](https://www.youtube.com/watch?v=YW2nvdDpoyA)
 - [Fuel My Fire](https://www.youtube.com/watch?v=YjypgWMj_gI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Prodigy - The Fat Of The Land](https://www.discogs.com/release/19605292) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Prodigy - The Fat Of The Land](https://www.discogs.com/release/19605292-Prodigy-The-Fat-Of-The-Land) |
 | Label          | XL Recordings, XL Recordings |
 | Format         | 2xLP, Album, Ltd, RE, RP, Ora |
 | Catalog Number | XL121LPE2, XLLP 121 |
+
+Limited edition of 1000 copies.  ℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997.
 

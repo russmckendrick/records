@@ -1,14 +1,17 @@
 ---
 title: "Deacon Blue - Riding On The Tide Of Love"
-album_artist: "Deacon Blue"
-album_title: "Riding On The Tide Of Love"
+artist: "Deacon Blue"
+album_name: "Riding On The Tide Of Love"
 date: 2022-02-15
 release_id: "17275717"
 slug: "riding-on-the-tide-of-love-17275717"
+hideSummary: true
 cover:
     image: "riding-on-the-tide-of-love-17275717.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Riding On The Tide Of Love by Deacon Blue"
+    caption: "Riding On The Tide Of Love by Deacon Blue"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
 - [Deacon Blue - City of Love (At Home Sessions)](https://www.youtube.com/watch?v=eyEUQOIwxuY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Deacon Blue - Riding On The Tide Of Love](https://www.discogs.com/release/17275717) |
+| Release Year   | 2021 |
+| Discogs Link   | [Deacon Blue - Riding On The Tide Of Love](https://www.discogs.com/release/17275717-Deacon-Blue-Riding-On-The-Tide-Of-Love) |
 | Label          | Ear Music |
 | Format         | LP, MiniAlbum |
 | Catalog Number | 0215401EMU |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "LCD Soundsystem - Electric Lady Sessions"
-album_artist: "LCD Soundsystem"
-album_title: "Electric Lady Sessions"
+artist: "LCD Soundsystem"
+album_name: "Electric Lady Sessions"
 date: 2019-02-08
 release_id: "13185878"
 slug: "electric-lady-sessions-13185878"
+hideSummary: true
 cover:
     image: "electric-lady-sessions-13185878.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Electric Lady Sessions by LCD Soundsystem"
+    caption: "Electric Lady Sessions by LCD Soundsystem"
+genres: ["Electronic", "Rock"]
+styles: ["Electro", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
 - [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [LCD Soundsystem - Electric Lady Sessions](https://www.discogs.com/release/13185878) |
+| Release Year   | 2019 |
+| Discogs Link   | [LCD Soundsystem - Electric Lady Sessions](https://www.discogs.com/release/13185878-LCD-Soundsystem-Electric-Lady-Sessions) |
 | Label          | DFA, Columbia |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | C-216887, 19075892161 |
+
+New recordings of songs from the band's catalog (plus three covers), recorded January 19, 20 & 21, 2018 at Electric Lady Studios, NYC.
 

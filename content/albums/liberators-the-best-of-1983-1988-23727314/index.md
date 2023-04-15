@@ -1,14 +1,17 @@
 ---
 title: "Spear Of Destiny - Liberators! The Best Of 1983-1988"
-album_artist: "Spear Of Destiny"
-album_title: "Liberators! The Best Of 1983-1988"
+artist: "Spear Of Destiny"
+album_name: "Liberators! The Best Of 1983-1988"
 date: 2022-07-03
 release_id: "23727314"
 slug: "liberators-the-best-of-1983-1988-23727314"
+hideSummary: true
 cover:
     image: "liberators-the-best-of-1983-1988-23727314.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Liberators! The Best Of 1983-1988 by Spear Of Destiny"
+    caption: "Liberators! The Best Of 1983-1988 by Spear Of Destiny"
+genres: ["Rock"]
+styles: ["Alternative Rock", "New Wave"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. So In Love With You (4:20)
 12. Radio Radio (3:10)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Spear Of Destiny - Liberators! The Best Of 1983-1988](https://www.discogs.com/release/23727314) |
+| Release Year   | 2022 |
+| Discogs Link   | [Spear Of Destiny - Liberators! The Best Of 1983-1988](https://www.discogs.com/release/23727314-Spear-Of-Destiny-Liberators-The-Best-Of-1983-1988) |
 | Label          | Demon Records |
 | Format         | LP, Comp, Red |
 | Catalog Number | DEMREC1015 5014797907355 |
+
+
 

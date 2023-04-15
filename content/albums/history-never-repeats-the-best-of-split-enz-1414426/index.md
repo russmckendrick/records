@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - History Never Repeats (The Best Of Split Enz)"
-album_artist: "Split Enz"
-album_title: "History Never Repeats (The Best Of Split Enz)"
+artist: "Split Enz"
+album_name: "History Never Repeats (The Best Of Split Enz)"
 date: 2015-09-02
 release_id: "1414426"
 slug: "history-never-repeats-the-best-of-split-enz-1414426"
+hideSummary: true
 cover:
     image: "history-never-repeats-the-best-of-split-enz-1414426.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "History Never Repeats (The Best Of Split Enz) by Split Enz"
+    caption: "History Never Repeats (The Best Of Split Enz) by Split Enz"
+genres: ["Rock"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Split Enz - History Never Repeats (The Best Of Split Enz)](https://www.discogs.com/release/1414426) |
+| Release Year   | 1987 |
+| Discogs Link   | [Split Enz - History Never Repeats (The Best Of Split Enz)](https://www.discogs.com/release/1414426-Split-Enz-History-Never-Repeats-The-Best-Of-Split-Enz) |
 | Label          | A&M Records |
 | Format         | LP, Comp |
 | Catalog Number | SP-3289 |
+
+"B" on labels and "EMW" in runouts denotes an [l285745] pressing.
 

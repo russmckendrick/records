@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Intriguer"
-album_artist: "Crowded House"
-album_title: "Intriguer"
+artist: "Crowded House"
+album_name: "Intriguer"
 date: 2015-11-03
 release_id: "2388576"
 slug: "intriguer-2388576"
+hideSummary: true
 cover:
     image: "intriguer-2388576.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Intriguer by Crowded House"
+    caption: "Intriguer by Crowded House"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="YcKh-VeFxX0" title="Crowded House - Twice If You're Lucky" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Crowded House - Intriguer](https://www.discogs.com/release/2388576) |
+| Release Year   | 2010 |
+| Discogs Link   | [Crowded House - Intriguer](https://www.discogs.com/release/2388576-Crowded-House-Intriguer) |
 | Label          | Universal Music Group International |
 | Format         | LP, Album |
 | Catalog Number | 00602527415185 |
+
+Recorded at Roundhead Studios, Auckland May-Aug 09 Mixed at PLYRZ Studios, LA Mastered @ Gateway Mastering & DVD Portland. Additional recording @ Exchequer Studios, Dublin. Additional recording & mixing @ PLYRZ Studios Aug 25-Sept 25 2009.  Preorder from Neil Finn site were signed by Neil, Nick, Mark and Matt on cover 
 

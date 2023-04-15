@@ -1,14 +1,17 @@
 ---
 title: "The Pharcyde - Bizarre Ride II"
-album_artist: "The Pharcyde"
-album_title: "Bizarre Ride II"
+artist: "The Pharcyde"
+album_name: "Bizarre Ride II"
 date: 2023-02-13
 release_id: "25831636"
 slug: "bizarre-ride-ii-25831636"
+hideSummary: true
 cover:
     image: "bizarre-ride-ii-25831636.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Bizarre Ride II by The Pharcyde"
+    caption: "Bizarre Ride II by The Pharcyde"
+genres: ["Hip Hop"]
+styles: ["Turntablism", "Jazzy Hip-Hop"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Quinton's On The Way (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
 - [Return of the B-Boy by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4NR4b1bbls4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [The Pharcyde - Bizarre Ride II](https://www.discogs.com/release/25831636) |
+| Release Year   | 2023 |
+| Discogs Link   | [The Pharcyde - Bizarre Ride II](https://www.discogs.com/release/25831636-The-Pharcyde-Bizarre-Ride-II) |
 | Label          | Craft Recordings |
 | Format         | 2xLP, Album, RSD, RE, Cle |
 | Catalog Number | CR00018 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Steve Lamacq - Lost Alternatives"
-album_artist: "Steve Lamacq"
-album_title: "Lost Alternatives"
+artist: "Steve Lamacq"
+album_name: "Lost Alternatives"
 date: 2019-04-15
 release_id: "13493663"
 slug: "lost-alternatives-13493663"
+hideSummary: true
 cover:
     image: "lost-alternatives-13493663.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lost Alternatives by Steve Lamacq"
+    caption: "Lost Alternatives by Steve Lamacq"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -40,16 +43,17 @@ hideSummary: true
 26. This Is My Hollywood
 27. Strachan
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Steve Lamacq - Lost Alternatives](https://www.discogs.com/release/13493663) |
+| Release Year   | 2019 |
+| Discogs Link   | [Steve Lamacq - Lost Alternatives](https://www.discogs.com/release/13493663-Steve-Lamacq-Lost-Alternatives) |
 | Label          | Demon Records |
 | Format         | 2xLP, RSD, Comp, Ltd, Whi |
 | Catalog Number | DEMREC406 |
+
+Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019" 27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl,  INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai  DEMREC406  Made in the EU
 

@@ -1,14 +1,17 @@
 ---
 title: "Gram Parsons - GP"
-album_artist: "Gram Parsons"
-album_title: "GP"
+artist: "Gram Parsons"
+album_name: "GP"
 date: 2015-08-10
 release_id: "5886669"
 slug: "gp-5886669"
+hideSummary: true
 cover:
     image: "gp-5886669.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "GP by Gram Parsons"
+    caption: "GP by Gram Parsons"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Country", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [How Much I've Lied (Remastered Version)](https://www.youtube.com/watch?v=WhGP3bGaFxY)
 - [Big Mouth Blues (Remastered Version)](https://www.youtube.com/watch?v=u9YANfKuPt4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Gram Parsons - GP](https://www.discogs.com/release/5886669) |
+| Release Year   | 2014 |
+| Discogs Link   | [Gram Parsons - GP](https://www.discogs.com/release/5886669-Gram-Parsons-GP) |
 | Label          | Reprise Records, Reprise Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122795953, R1-2123 |
+
+℗ & © 1973 Warner Bros. Records Inc Manufactured in the EU. 
 

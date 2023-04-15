@@ -1,14 +1,17 @@
 ---
 title: "Danny Cavanagh - Monochrome"
-album_artist: "Danny Cavanagh"
-album_title: "Monochrome"
+artist: "Danny Cavanagh"
+album_name: "Monochrome"
 date: 2017-10-14
 release_id: "10932389"
 slug: "monochrome-10932389"
+hideSummary: true
 cover:
     image: "monochrome-10932389.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Monochrome by Danny Cavanagh"
+    caption: "Monochrome by Danny Cavanagh"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Daniel Cavanagh - Oceans Of Time (Monochrome)](https://www.youtube.com/watch?v=xxsaFocAETQ)
 - [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Danny Cavanagh - Monochrome](https://www.discogs.com/release/10932389) |
+| Release Year   | 2017 |
+| Discogs Link   | [Danny Cavanagh - Monochrome](https://www.discogs.com/release/10932389-Danny-Cavanagh-Monochrome) |
 | Label          | Kscope |
 | Format         | 2xLP, Album |
 | Catalog Number | KSCOPE945 |
+
+Anneke van Giersbergen appears courtesy of InsideOut Music. Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope  Many thanks to my beloved anathema family.  Dedicated to Ariel & Ester    ℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh. Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd. Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU.
 

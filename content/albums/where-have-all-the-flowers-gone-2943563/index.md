@@ -1,14 +1,17 @@
 ---
 title: "Pete Seeger - Where Have All The Flowers Gone?"
-album_artist: "Pete Seeger"
-album_title: "Where Have All The Flowers Gone?"
+artist: "Pete Seeger"
+album_name: "Where Have All The Flowers Gone?"
 date: 2019-01-19
 release_id: "2943563"
 slug: "where-have-all-the-flowers-gone-2943563"
+hideSummary: true
 cover:
     image: "where-have-all-the-flowers-gone-2943563.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Where Have All The Flowers Gone? by Pete Seeger"
+    caption: "Where Have All The Flowers Gone? by Pete Seeger"
+genres: ["Folk, World, & Country"]
+styles: ["Folk"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. We Are Moving On To Victory
 10. Don't You Weep After Me
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Pete Seeger - Where Have All The Flowers Gone?](https://www.discogs.com/release/2943563) |
+| Release Year   | 0 |
+| Discogs Link   | [Pete Seeger - Where Have All The Flowers Gone?](https://www.discogs.com/release/2943563-Pete-Seeger-Where-Have-All-The-Flowers-Gone) |
 | Label          | Contour, Contour |
 | Format         | LP |
 | Catalog Number | 2870 380, 2870-380 |
+
+Made in Austria
 

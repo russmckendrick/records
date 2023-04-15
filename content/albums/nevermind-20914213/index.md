@@ -1,14 +1,17 @@
 ---
 title: "Nirvana - Nevermind"
-album_artist: "Nirvana"
-album_title: "Nevermind"
+artist: "Nirvana"
+album_name: "Nevermind"
 date: 2022-06-01
 release_id: "20914213"
 slug: "nevermind-20914213"
+hideSummary: true
 cover:
     image: "nevermind-20914213.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nevermind by Nirvana"
+    caption: "Nevermind by Nirvana"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)
 - [Nirvana - Aneurysm](https://www.youtube.com/watch?v=y7TPnH5emFg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Nirvana - Nevermind](https://www.discogs.com/release/20914213) |
+| Release Year   | 2021 |
+| Discogs Link   | [Nirvana - Nevermind](https://www.discogs.com/release/20914213-Nirvana-Nevermind) |
 | Label          | Geffen Records, UMe, DGC |
 | Format         | LP, Album, RE, RM, 180 + 7\" + Ltd, 30t |
 | Catalog Number | 3846123 |
+
+On yellow/black hype sticker: Nirvana 30th Anniversary Edition Nevermind Limited Edition 180-Gram Premium Gatefold Jacket + 7-Inch Newly Remastered  On back cover: David Geffen Company Produced by special arrangement with Sub Pop Records. A Geffen Records reissue. 2021 UMG Recordings, Inc. Distributed by Universal Music Enterprises a Division of UMG Recordings Inc. Geffen Records, 2220 Colorado Avenue, Santa Monica, CA 90404. All rights reserved. Made in Czech Republic 3846123  Commemorating the 30th anniversary of Nirvana’s seminal 1991 release, Nevermind has been newly remastered from the original analog tapes on 180-gram vinyl. The 1LP version has been expanded to a premium tip-on gatefold jacket for the first time and includes a brand new 7-inch vinyl ("Endless, Nameless" with B-sides "Even In His Youth" and "Aneurysm").  Glossy gatefold jacket with black polylined & paper inner sleeve. Black/white insert. 7-inch in separate jacket with transparent inner sleeve. Barcode is on sticker only.  Runout details: everything is stamped except "B0034257-XX-X XX" and "RKS", which is etched.
 

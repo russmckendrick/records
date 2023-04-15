@@ -1,14 +1,17 @@
 ---
 title: "Elbow - Giants Of All Sizes"
-album_artist: "Elbow"
-album_title: "Giants Of All Sizes"
+artist: "Elbow"
+album_name: "Giants Of All Sizes"
 date: 2019-12-25
 release_id: "14246743"
 slug: "giants-of-all-sizes-14246743"
+hideSummary: true
 cover:
     image: "giants-of-all-sizes-14246743.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Giants Of All Sizes by Elbow"
+    caption: "Giants Of All Sizes by Elbow"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [elbow - Weightless (Lyrics)](https://www.youtube.com/watch?v=5vW5HpyPKME)
 - [elbow - The Delayed 3.15 (Lyrics)](https://www.youtube.com/watch?v=c7yOQloSClU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Elbow - Giants Of All Sizes](https://www.discogs.com/release/14246743) |
+| Release Year   | 2019 |
+| Discogs Link   | [Elbow - Giants Of All Sizes](https://www.discogs.com/release/14246743-Elbow-Giants-Of-All-Sizes) |
 | Label          | Polydor, Polydor |
 | Format         | LP, Album, 180 |
 | Catalog Number | 7764402, 00602577644023 |
+
+Heavyweight Black Vinyl + Download Card  A Polydor Records Release. ℗ & © 2019 Polydor Limited. All rights reserved. Made In Germany. BIEM/SDRM. LC 00309 7764402. 00602577644023.  elbow.co.uk Worldwide management: TRC Management Ltd mail@trcmanagement.com
 

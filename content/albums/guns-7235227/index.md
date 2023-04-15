@@ -1,14 +1,17 @@
 ---
 title: "Cardiacs - Guns"
-album_artist: "Cardiacs"
-album_title: "Guns"
+artist: "Cardiacs"
+album_name: "Guns"
 date: 2016-12-13
 release_id: "7235227"
 slug: "guns-7235227"
+hideSummary: true
 cover:
     image: "guns-7235227.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Guns by Cardiacs"
+    caption: "Guns by Cardiacs"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Song Of A Dead Pest](https://www.youtube.com/watch?v=87xA35MmnOs)
 - [Will Bleed Amen](https://www.youtube.com/watch?v=flgj1pkYSXw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Cardiacs - Guns](https://www.discogs.com/release/7235227) |
+| Release Year   | 2015 |
+| Discogs Link   | [Cardiacs - Guns](https://www.discogs.com/release/7235227-Cardiacs-Guns) |
 | Label          | The Alphabet Business Concern |
 | Format         | LP, Album, Ltd, Num |
 | Catalog Number | ALPH LP027 |
+
+ "The first 200 pressings will have a special sticker to make them even more special." (They are numbered) Pressings without the shrink wrap sticker are found here: [r=12334086]  Comes in a gatefold sleeve with a picture inner sleeve and a download coupon.   Recorded and mixed at Apollo 8 London England.  Made in England.  ©&℗ Alphabet 1999
 

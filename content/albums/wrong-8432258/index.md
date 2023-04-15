@@ -1,14 +1,17 @@
 ---
 title: "Cleft - Wrong"
-album_artist: "Cleft"
-album_title: "Wrong"
+artist: "Cleft"
+album_name: "Wrong"
 date: 2016-05-21
 release_id: "8432258"
 slug: "wrong-8432258"
+hideSummary: true
 cover:
     image: "wrong-8432258.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wrong by Cleft"
+    caption: "Wrong by Cleft"
+genres: ["Rock"]
+styles: ["Math Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="RvnQpW_Vw6E" title="Cleft - Wrong [Full Album]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Cleft - Wrong](https://www.discogs.com/release/8432258) |
+| Release Year   | 2016 |
+| Discogs Link   | [Cleft - Wrong](https://www.discogs.com/release/8432258-Cleft-Wrong) |
 | Label          | Mega Face Records |
 | Format         | LP, Album, Blu |
 | Catalog Number | MFR06 |
+
+Recorded at The Grand Studios (Clitheroe), Noiseboy Studios (Salford), Edge Recording Studio (Cheshire), Chairworks (Castleford) in the UK.  Artwork by Jessica Wild. Engineering by Tom Peters (1,6,9), Chris Taylor (2,3,4,5,7,10), Mark Winterburn (8,11), David Watts (12). Mixed by Cleft and mastered by Tom Peters at The Grand.
 

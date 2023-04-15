@@ -1,14 +1,17 @@
 ---
 title: "Can - Ege Bamyasi"
-album_artist: "Can"
-album_title: "Ege Bamyasi"
+artist: "Can"
+album_name: "Ege Bamyasi"
 date: 2019-11-08
 release_id: "14373286"
 slug: "ege-bamyasi-14373286"
+hideSummary: true
 cover:
     image: "ege-bamyasi-14373286.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ege Bamyasi by Can"
+    caption: "Ege Bamyasi by Can"
+genres: ["Rock"]
+styles: ["Krautrock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Can, Ege Bamyasi, LP 1972 Spoon](https://www.youtube.com/watch?v=IDa3uDvzPo0)
 - [One More Night - Can (1972)](https://www.youtube.com/watch?v=2s4ABAOK-o8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Can - Ege Bamyasi](https://www.discogs.com/release/14373286) |
+| Release Year   | 2019 |
+| Discogs Link   | [Can - Ege Bamyasi](https://www.discogs.com/release/14373286-Can-Ege-Bamyasi) |
 | Label          | Mute, Spoon Records |
 | Format         | LP, Album, Ltd, RE, RM, Gre |
 | Catalog Number | XLSPOON8_UK, XSPOON8 |
+
+Limited Edition Green Vinyl. Includes Download Code.
 

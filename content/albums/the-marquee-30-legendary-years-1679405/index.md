@@ -1,14 +1,17 @@
 ---
 title: "Various - The Marquee - 30 Legendary Years"
-album_artist: "Various"
-album_title: "The Marquee - 30 Legendary Years"
+artist: "Various"
+album_name: "The Marquee - 30 Legendary Years"
 date: 2015-09-10
 release_id: "1679405"
 slug: "the-marquee-30-legendary-years-1679405"
+hideSummary: true
 cover:
     image: "the-marquee-30-legendary-years-1679405.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Marquee - 30 Legendary Years by Various"
+    caption: "The Marquee - 30 Legendary Years by Various"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -45,16 +48,17 @@ hideSummary: true
 31. Purple Haze (2:45)
 32. Space Oddity (3:44)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Various - The Marquee - 30 Legendary Years](https://www.discogs.com/release/1679405) |
+| Release Year   | 1989 |
+| Discogs Link   | [Various - The Marquee - 30 Legendary Years](https://www.discogs.com/release/1679405-Various-The-Marquee-30-Legendary-Years) |
 | Label          | Polydor, Polydor |
 | Format         | 2xLP, Comp |
 | Catalog Number | MQTV 1, 840 010-1 |
+
+Issued in gatefold sleeve.  Also available on: Cassette (MQTVC 1) CD (840 010-2)  The company name used on this release "PolyGram Records Inc. (New York)" refers to [l129352].
 

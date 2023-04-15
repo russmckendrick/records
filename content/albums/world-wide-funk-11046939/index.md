@@ -1,14 +1,17 @@
 ---
 title: "Bootsy Collins - World Wide Funk"
-album_artist: "Bootsy Collins"
-album_title: "World Wide Funk"
+artist: "Bootsy Collins"
+album_name: "World Wide Funk"
 date: 2017-10-28
 release_id: "11046939"
 slug: "world-wide-funk-11046939"
+hideSummary: true
 cover:
     image: "world-wide-funk-11046939.jpg"
-tags: ["Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "World Wide Funk by Bootsy Collins"
+    caption: "World Wide Funk by Bootsy Collins"
+genres: ["Hip Hop", "Funk / Soul"]
+styles: ["P.Funk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [A Salute To Bernie (feat. Dr. G. & Bernie Worrell)](https://www.youtube.com/watch?v=2UVNZ4oRlTA)
 - [Pusherman (feat. Dru Down, BlvckSeeds & Mr. Talkbox)](https://www.youtube.com/watch?v=VxExDMN6C4w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Bootsy Collins - World Wide Funk](https://www.discogs.com/release/11046939) |
+| Release Year   | 2017 |
+| Discogs Link   | [Bootsy Collins - World Wide Funk](https://www.discogs.com/release/11046939-Bootsy-Collins-World-Wide-Funk) |
 | Label          | Mascot Records (2), Mascot Records (2) |
 | Format         | 2xLP, Album, Ltd, Spl |
 | Catalog Number | M 75141, M75141 |
+
+Hype sticker on shrink: 140 gram splatter 2-LP Download card included  Gatefold cover, spine: [Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141  Gatefold cover, back: [Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo] Ⓟ © 2017 Mascot Music Productions and Publishing B.V.  Includes 12-pages LP size comic book  Spoken Intro by Iggy Pop
 

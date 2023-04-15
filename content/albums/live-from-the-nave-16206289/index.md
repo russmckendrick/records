@@ -1,14 +1,17 @@
 ---
 title: "bdrmm - Live From The Nave"
-album_artist: "bdrmm"
-album_title: "Live From The Nave"
+artist: "bdrmm"
+album_name: "Live From The Nave"
 date: 2020-11-14
 release_id: "16206289"
 slug: "live-from-the-nave-16206289"
+hideSummary: true
 cover:
     image: "live-from-the-nave-16206289.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Live From The Nave by bdrmm"
+    caption: "Live From The Nave by bdrmm"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ---
 
 ## Tracklisting
@@ -18,16 +21,17 @@ hideSummary: true
 4. Forget The Credits (6:28)
 5. Shame (5:28)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [bdrmm - Live From The Nave](https://www.discogs.com/release/16206289) |
+| Release Year   | 2020 |
+| Discogs Link   | [bdrmm - Live From The Nave](https://www.discogs.com/release/16206289-bdrmm-Live-From-The-Nave) |
 | Label          | Sonic Cathedral Recordings |
 | Format         | 10\", EP, Ltd, Whi |
 | Catalog Number | SCR192 |
+
+Housed in a single sleeve jacket. Limited to 400 copies.
 

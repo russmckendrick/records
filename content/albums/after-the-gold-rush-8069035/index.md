@@ -1,14 +1,17 @@
 ---
 title: "Neil Young - After The Gold Rush"
-album_artist: "Neil Young"
-album_title: "After The Gold Rush"
+artist: "Neil Young"
+album_name: "After The Gold Rush"
 date: 2017-04-02
 release_id: "8069035"
 slug: "after-the-gold-rush-8069035"
+hideSummary: true
 cover:
     image: "after-the-gold-rush-8069035.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "After The Gold Rush by Neil Young"
+    caption: "After The Gold Rush by Neil Young"
+genres: ["Rock"]
+styles: ["Folk Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. I Believe In You (3:27)
 11. Cripple Creek Ferry (1:34)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Neil Young - After The Gold Rush](https://www.discogs.com/release/8069035) |
+| Release Year   | 2009 |
+| Discogs Link   | [Neil Young - After The Gold Rush](https://www.discogs.com/release/8069035-Neil-Young-After-The-Gold-Rush) |
 | Label          | Reprise Records, Reprise Records |
 | Format         | LP, Album, RE, RP, 140 |
 | Catalog Number | 517936-1, 1-517936 (K1) |
+
+Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.  Originally released in 1970.  ©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  ©℗2009 Reprise Records, a Warner Music Group Company Manufactured in Germany
 

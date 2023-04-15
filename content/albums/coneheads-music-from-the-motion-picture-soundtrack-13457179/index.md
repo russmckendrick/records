@@ -1,14 +1,17 @@
 ---
 title: "Various - Coneheads (Music From The Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Coneheads (Music From The Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Coneheads (Music From The Motion Picture Soundtrack)"
 date: 2019-04-13
 release_id: "13457179"
 slug: "coneheads-music-from-the-motion-picture-soundtrack-13457179"
+hideSummary: true
 cover:
     image: "coneheads-music-from-the-motion-picture-soundtrack-13457179.jpg"
-tags: ["Rock", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Coneheads (Music From The Motion Picture Soundtrack) by Various"
+    caption: "Coneheads (Music From The Motion Picture Soundtrack) by Various"
+genres: ["Rock", "Pop", "Stage & Screen"]
+styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [CoRe - Track 4 - Jumble](https://www.youtube.com/watch?v=wdUqNciCrvE)
 - [Conehead Love Music Video](https://www.youtube.com/watch?v=NMkaOtvRvVo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Coneheads (Music From The Motion Picture Soundtrack)](https://www.discogs.com/release/13457179) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Coneheads (Music From The Motion Picture Soundtrack)](https://www.discogs.com/release/13457179-Various-Coneheads-Music-From-The-Motion-Picture-Soundtrack) |
 | Label          | Warner Bros. Records |
 | Format         | LP, RSD, Yel |
 | Catalog Number | 45345-1 |
+
+RSD Exclusive 2019/Ltd. to 1500  'Printed in Canada' on rear sleeve. Similar release with 'Manufactured in the E.U.' is here, [r=14540630].
 

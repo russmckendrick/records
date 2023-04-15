@@ -1,14 +1,17 @@
 ---
 title: "DJ Spinna - The Wonder Of Stevie (Volume 3)"
-album_artist: "DJ Spinna"
-album_title: "The Wonder Of Stevie (Volume 3)"
+artist: "DJ Spinna"
+album_name: "The Wonder Of Stevie (Volume 3)"
 date: 2016-07-30
 release_id: "8755651"
 slug: "the-wonder-of-stevie-volume-3-8755651"
+hideSummary: true
 cover:
     image: "the-wonder-of-stevie-volume-3-8755651.jpg"
-tags: ["Latin", "Funk / Soul"]
-hideSummary: true
+    alt: "The Wonder Of Stevie (Volume 3) by DJ Spinna"
+    caption: "The Wonder Of Stevie (Volume 3) by DJ Spinna"
+genres: ["Latin", "Funk / Soul"]
+styles: ["Soul", "Funk", "Gospel", "Disco"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Go Home](https://www.youtube.com/watch?v=cVc-1zwqtbk)
 - [Don't You Worry About a Thing](https://www.youtube.com/watch?v=PpBBIwJTRU0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [DJ Spinna - The Wonder Of Stevie (Volume 3)](https://www.discogs.com/release/8755651) |
+| Release Year   | 2016 |
+| Discogs Link   | [DJ Spinna - The Wonder Of Stevie (Volume 3)](https://www.discogs.com/release/8755651-DJ-Spinna-The-Wonder-Of-Stevie-Volume-3) |
 | Label          | BBE, !K7 Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | BBE358CLP |
+
+
 

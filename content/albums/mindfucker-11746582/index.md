@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Mindfucker"
-album_artist: "Monster Magnet"
-album_title: "Mindfucker"
+artist: "Monster Magnet"
+album_name: "Mindfucker"
 date: 2018-03-24
 release_id: "11746582"
 slug: "mindfucker-11746582"
+hideSummary: true
 cover:
     image: "mindfucker-11746582.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mindfucker by Monster Magnet"
+    caption: "Mindfucker by Monster Magnet"
+genres: ["Rock"]
+styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
 - [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582) |
+| Release Year   | 2018 |
+| Discogs Link   | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582-Monster-Magnet-Mindfucker) |
 | Label          | Napalm Records |
 | Format         | LP, Yel + LP, S/Sided, Etch, Yel + Album, Ltd |
 | Catalog Number | NPR 757 VINYL |
+
+Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies.
 

@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Milking The Stars: A Re-Imagining Of Last Patrol"
-album_artist: "Monster Magnet"
-album_title: "Milking The Stars: A Re-Imagining Of Last Patrol"
+artist: "Monster Magnet"
+album_name: "Milking The Stars: A Re-Imagining Of Last Patrol"
 date: 2016-01-29
 release_id: "6299294"
 slug: "milking-the-stars-a-re-imagining-of-last-patrol-6299294"
+hideSummary: true
 cover:
     image: "milking-the-stars-a-re-imagining-of-last-patrol-6299294.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Milking The Stars: A Re-Imagining Of Last Patrol by Monster Magnet"
+    caption: "Milking The Stars: A Re-Imagining Of Last Patrol by Monster Magnet"
+genres: ["Rock"]
+styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Stay Tuned (Even Sadder)](https://www.youtube.com/watch?v=3yvfjPGVOIo)
 - [Hallelujah (Fuzz And Swamp)](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Monster Magnet - Milking The Stars: A Re-Imagining Of Last Patrol](https://www.discogs.com/release/6299294) |
+| Release Year   | 2014 |
+| Discogs Link   | [Monster Magnet - Milking The Stars: A Re-Imagining Of Last Patrol](https://www.discogs.com/release/6299294-Monster-Magnet-Milking-The-Stars-A-Re-Imagining-Of-Last-Patrol) |
 | Label          | Napalm Records |
 | Format         | 2xLP, Album, Ltd |
 | Catalog Number | NPR 563 LP |
+
+Limited Edition. Gatefold 2-LP on black 180 g vinyl. It's not a new  album, it's a re-imagining of [Last Patrol](http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229), with two new songs, six overworked songs and two live songs.  New vocal, guitar, bass and keyboard tracks recorded March 2014. Mixed at JHOC Studios  © + ℗ 2014 Napalm Records Handels GmbH Made in Germany 
 

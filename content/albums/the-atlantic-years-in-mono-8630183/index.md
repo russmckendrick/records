@@ -1,14 +1,17 @@
 ---
 title: "John Coltrane - The Atlantic Years – In Mono"
-album_artist: "John Coltrane"
-album_title: "The Atlantic Years – In Mono"
+artist: "John Coltrane"
+album_name: "The Atlantic Years – In Mono"
 date: 2017-07-12
 release_id: "8630183"
 slug: "the-atlantic-years-in-mono-8630183"
+hideSummary: true
 cover:
     image: "the-atlantic-years-in-mono-8630183.jpg"
-tags: ["Jazz", "Blues"]
-hideSummary: true
+    alt: "The Atlantic Years – In Mono by John Coltrane"
+    caption: "The Atlantic Years – In Mono by John Coltrane"
+genres: ["Jazz", "Blues"]
+styles: ["Hard Bop", "Modal", "Post Bop"]
 ---
 
 ## Tracklisting
@@ -54,16 +57,17 @@ hideSummary: true
 40. My Favorite Things (Part I)
 41. My Favorite Things (Part II)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Coltrane - The Atlantic Years – In Mono](https://www.discogs.com/release/8630183) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Coltrane - The Atlantic Years – In Mono](https://www.discogs.com/release/8630183-John-Coltrane-The-Atlantic-Years-In-Mono) |
 | Label          | Atlantic, Rhino Records (2) |
 | Format         | Box, Comp + LP, Album, Mono, RE, RM, 180 + LP, Alb |
 | Catalog Number | 0081227946401 |
+
+Comes in a clothbound box.  Includes:  - Original studio albums in glossy tip-on LP sleeves, replicating the original artwork and labels.  - One LP of outtakes. - A replica of the original "My Favorite Things Part I & II" 7" single. - A 12" x 12" 32-page booklet with liner notes by Ashley Kahn.
 

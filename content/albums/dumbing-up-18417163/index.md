@@ -1,14 +1,17 @@
 ---
 title: "World Party - Dumbing Up"
-album_artist: "World Party"
-album_title: "Dumbing Up"
+artist: "World Party"
+album_name: "Dumbing Up"
 date: 2021-05-28
 release_id: "18417163"
 slug: "dumbing-up-18417163"
+hideSummary: true
 cover:
     image: "dumbing-up-18417163.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dumbing Up by World Party"
+    caption: "Dumbing Up by World Party"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [See the Light](https://www.youtube.com/watch?v=9oWxP5Pk8Wc)
 - [World Party - Always On My Mind](https://www.youtube.com/watch?v=rN1GCf3MwoE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [World Party - Dumbing Up](https://www.discogs.com/release/18417163) |
+| Release Year   | 2021 |
+| Discogs Link   | [World Party - Dumbing Up](https://www.discogs.com/release/18417163-World-Party-Dumbing-Up) |
 | Label          | Seaview Records Ltd. |
 | Format         | LP, Album, M/Print, RE, RM, 180 |
 | Catalog Number | Seaview 5LP  |
+
+180 gram vinyl reissue. This 2 LP version is first time on vinyl.  This release combines the tracks from the original 2000 UK CD release and the 2006 US CD release and adds "I Want to Be Free," "Words" and "Photograph."  Spine erroneously reads "Private Revolution."  Lyrics for "Who Are You?" are actually those of "What Does It Mean Now?"  Rear cover & labels: Manufactured in the USA.
 

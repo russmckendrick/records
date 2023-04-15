@@ -1,14 +1,17 @@
 ---
 title: "Three Trapped Tigers - Silent Earthling"
-album_artist: "Three Trapped Tigers"
-album_title: "Silent Earthling"
+artist: "Three Trapped Tigers"
+album_name: "Silent Earthling"
 date: 2016-04-03
 release_id: "8337431"
 slug: "silent-earthling-8337431"
+hideSummary: true
 cover:
     image: "silent-earthling-8337431.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Silent Earthling by Three Trapped Tigers"
+    caption: "Silent Earthling by Three Trapped Tigers"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="8QlQw4QU_0E" title="Three Trapped Tigers - Silent Earthling (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Three Trapped Tigers - Silent Earthling](https://www.discogs.com/release/8337431) |
+| Release Year   | 2016 |
+| Discogs Link   | [Three Trapped Tigers - Silent Earthling](https://www.discogs.com/release/8337431-Three-Trapped-Tigers-Silent-Earthling) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Cle + LP, S/Sided, Etch, Cle + Album + CD, Alb |
 | Catalog Number | SMBLP 039, 88875198091 |
+
+Additional Recording by Ash Gardner  Side D is etched with the TTT logo
 

@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Division Bell 20th. Anniversary De Luxe Box"
-album_artist: "Pink Floyd"
-album_title: "The Division Bell 20th. Anniversary De Luxe Box"
+artist: "Pink Floyd"
+album_name: "The Division Bell 20th. Anniversary De Luxe Box"
 date: 2015-08-09
 release_id: "6229448"
 slug: "the-division-bell-20th-anniversary-de-luxe-box-6229448"
+hideSummary: true
 cover:
     image: "the-division-bell-20th-anniversary-de-luxe-box-6229448.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Division Bell 20th. Anniversary De Luxe Box by Pink Floyd"
+    caption: "The Division Bell 20th. Anniversary De Luxe Box by Pink Floyd"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. CD  Tsui (The Division Bell)
 20. Blu-ray Disc (All PCM Stereo and Unreleased 5.1 Mix Audio And Video) 
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Pink Floyd - The Division Bell 20th. Anniversary De Luxe Box](https://www.discogs.com/release/6229448) |
+| Release Year   | 2014 |
+| Discogs Link   | [Pink Floyd - The Division Bell 20th. Anniversary De Luxe Box](https://www.discogs.com/release/6229448-Pink-Floyd-The-Division-Bell-20th-Anniversary-De-Luxe-Box) |
 | Label          | Warner Music |
 | Format         | Box, Ltd + 2xLP, Album, RM, Gat + Blu-ray, Album,  |
 | Catalog Number | WPZR-30576/83 |
+
+Set Box Include:  - 2   LP Editions Of The Album - 2     7" Vinyl Replica - 1   12" Vinyl Replica - 1   CD The 2011 ‘Discovery’ remaster of "The Division Bell" - 1   Blu-ray  The Division Bell Album in HD Audio and Audio-Visual Material - 1   Download Card -  Additional  Art Prints and Booklet  The Set box is Japan Import (Made in EU)  On gatefold 2-vinyl release all full length tracks first time on vinyl because on originally vinyl-edition release all tracks was edited to fit on a single LP. - Tracks 1-11 are CD track-numbers and same on Blu-ray stereo / multichannel versions. - Vinyl 1 A side : A1, A2, A3 as tracks 1 to 3 - Vinyl 1 B side : B1, B2, B3 as tracks 4 to 6 - Vinyl 2 A side : A1, A2, A3 as tracks 7 to 9 - Vinyl 2 B side : B1, B2 as tracks 10 and 11
 

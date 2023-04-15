@@ -1,14 +1,17 @@
 ---
 title: "Genesis - BBC Broadcasts"
-album_artist: "Genesis"
-album_title: "BBC Broadcasts"
+artist: "Genesis"
+album_name: "BBC Broadcasts"
 date: 2023-03-04
 release_id: "26289155"
 slug: "bbc-broadcasts-26289155"
+hideSummary: true
 cover:
     image: "bbc-broadcasts-26289155.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "BBC Broadcasts by Genesis"
+    caption: "BBC Broadcasts by Genesis"
+genres: ["Rock", "Pop"]
+styles: ["Prog Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -44,16 +47,17 @@ hideSummary: true
 30. No Son Of Mine
 31. Driving The Last Spike
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Genesis - BBC Broadcasts](https://www.discogs.com/release/26289155) |
+| Release Year   | 2023 |
+| Discogs Link   | [Genesis - BBC Broadcasts](https://www.discogs.com/release/26289155-Genesis-BBC-Broadcasts) |
 | Label          | EMI, UMC, BBC |
 | Format         | 3xLP, Comp |
 | Catalog Number | 00602435686370 |
+
+Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)  Trifold sleeve. Made in the EU.  Photography By Knebwoth, BBC & Getty Images.
 

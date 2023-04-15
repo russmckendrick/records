@@ -1,14 +1,17 @@
 ---
 title: "XTC - Black Sea"
-album_artist: "XTC"
-album_title: "Black Sea"
+artist: "XTC"
+album_name: "Black Sea"
 date: 2019-10-05
 release_id: "14153842"
 slug: "black-sea-14153842"
+hideSummary: true
 cover:
     image: "black-sea-14153842.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Black Sea by XTC"
+    caption: "Black Sea by XTC"
+genres: ["Rock"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [XTC - Sgt. Rock-Multi-Coloured Wap Shop BBC1 Television 1981](https://www.youtube.com/watch?v=OjQwLBYHcx0)
 - [XTC - Towers Of London](https://www.youtube.com/watch?v=nYui2Z-12WI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [XTC - Black Sea](https://www.discogs.com/release/14153842) |
+| Release Year   | 2019 |
+| Discogs Link   | [XTC - Black Sea](https://www.discogs.com/release/14153842-XTC-Black-Sea) |
 | Label          | Ape House |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | APELP104 |
+
+
 

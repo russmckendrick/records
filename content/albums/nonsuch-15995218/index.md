@@ -1,14 +1,17 @@
 ---
 title: "XTC - Nonsuch"
-album_artist: "XTC"
-album_title: "Nonsuch"
+artist: "XTC"
+album_name: "Nonsuch"
 date: 2020-10-08
 release_id: "15995218"
 slug: "nonsuch-15995218"
+hideSummary: true
 cover:
     image: "nonsuch-15995218.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Nonsuch by XTC"
+    caption: "Nonsuch by XTC"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
 - [The Ballad of Peter Pumpkinhead /  XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [XTC - Nonsuch](https://www.discogs.com/release/15995218) |
+| Release Year   | 2020 |
+| Discogs Link   | [XTC - Nonsuch](https://www.discogs.com/release/15995218-XTC-Nonsuch) |
 | Label          | Ape House |
 | Format         | 2xLP, Album, RE, RM, 200 |
 | Catalog Number | APELPX110 |
+
+Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991. Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991. This edition remastered at Loud Mastering.  Published by BMG  Front cover image from John Speed's Map of Surrey 1611.  ℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd. Made in the EU.
 

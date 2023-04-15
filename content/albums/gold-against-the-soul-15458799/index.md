@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - Gold Against The Soul"
-album_artist: "Manic Street Preachers"
-album_title: "Gold Against The Soul"
+artist: "Manic Street Preachers"
+album_name: "Gold Against The Soul"
 date: 2020-06-13
 release_id: "15458799"
 slug: "gold-against-the-soul-15458799"
+hideSummary: true
 cover:
     image: "gold-against-the-soul-15458799.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Gold Against The Soul by Manic Street Preachers"
+    caption: "Gold Against The Soul by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Symphony of Tourette (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=3Pgui4hr9SA)
 - [Gold Against The Soul - Trailer](https://www.youtube.com/watch?v=8qaD-U7fS24)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Manic Street Preachers - Gold Against The Soul](https://www.discogs.com/release/15458799) |
+| Release Year   | 2020 |
+| Discogs Link   | [Manic Street Preachers - Gold Against The Soul](https://www.discogs.com/release/15458799-Manic-Street-Preachers-Gold-Against-The-Soul) |
 | Label          | Columbia, Sony Music |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 19439733611 |
+
+2020 remastered reissue on 180gm vinyl.  Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.  Includes a [l=we are vinyl] download code for album plus b sides.  Made in the EU.
 

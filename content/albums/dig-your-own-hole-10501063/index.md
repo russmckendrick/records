@@ -1,14 +1,17 @@
 ---
 title: "The Chemical Brothers - Dig Your Own Hole"
-album_artist: "The Chemical Brothers"
-album_title: "Dig Your Own Hole"
+artist: "The Chemical Brothers"
+album_name: "Dig Your Own Hole"
 date: 2017-07-07
 release_id: "10501063"
 slug: "dig-your-own-hole-10501063"
+hideSummary: true
 cover:
     image: "dig-your-own-hole-10501063.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Dig Your Own Hole by The Chemical Brothers"
+    caption: "Dig Your Own Hole by The Chemical Brothers"
+genres: ["Electronic"]
+styles: ["Breakbeat", "Big Beat"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Where Do I Begin](https://www.youtube.com/watch?v=_91HbYkguwk)
 - [The Private Psychedelic Reel](https://www.youtube.com/watch?v=aqGzrjL3kys)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Chemical Brothers - Dig Your Own Hole](https://www.discogs.com/release/10501063) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Chemical Brothers - Dig Your Own Hole](https://www.discogs.com/release/10501063-The-Chemical-Brothers-Dig-Your-Own-Hole) |
 | Label          | Virgin, Freestyle Dust |
 | Format         | 2xLP, Album, RE, RP, Sil |
 | Catalog Number | 5761964, 00602557619645 |
+
+20th Anniversary Silver vinyl edition. Gatefold cover. Printed in the UK.  ℗ 1997 Virgin Records Limited. © 1997 Virgin Records Limited.  Includes a download code for the album in 16 bit WAV format, [r=11516477].  The colour is rather gray than the stated silver.
 

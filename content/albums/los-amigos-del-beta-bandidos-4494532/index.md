@@ -1,14 +1,17 @@
 ---
 title: "The Beta Band - Los Amigos Del Beta Bandidos"
-album_artist: "The Beta Band"
-album_title: "Los Amigos Del Beta Bandidos"
+artist: "The Beta Band"
+album_name: "Los Amigos Del Beta Bandidos"
 date: 2016-02-18
 release_id: "4494532"
 slug: "los-amigos-del-beta-bandidos-4494532"
+hideSummary: true
 cover:
     image: "los-amigos-del-beta-bandidos-4494532.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Los Amigos Del Beta Bandidos by The Beta Band"
+    caption: "Los Amigos Del Beta Bandidos by The Beta Band"
+genres: ["Electronic", "Rock"]
+styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
 
 ## Tracklisting
@@ -22,13 +25,16 @@ hideSummary: true
 - [The Beta Band-Push It Out](https://www.youtube.com/watch?v=HluhRrB0bPA)
 - [The Beta Band - Needles in My Eyes](https://www.youtube.com/watch?v=byJRrkigdEM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [The Beta Band - Los Amigos Del Beta Bandidos](https://www.discogs.com/release/4494532) |
+| Release Year   | 2013 |
+| Discogs Link   | [The Beta Band - Los Amigos Del Beta Bandidos](https://www.discogs.com/release/4494532-The-Beta-Band-Los-Amigos-Del-Beta-Bandidos) |
 | Label          | EMI, EMI |
 | Format         | 12\", EP, RSD, Ltd, RE |
 | Catalog Number | REGS 20, 50999 9 34804 1 3 |
+
+Record Store Day 2013 limited edition reissue.  ℗ 1998 © 2013  Made in EU.
 

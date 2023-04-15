@@ -1,14 +1,17 @@
 ---
 title: "Michael Kiwanuka - Home Again"
-album_artist: "Michael Kiwanuka"
-album_title: "Home Again"
+artist: "Michael Kiwanuka"
+album_name: "Home Again"
 date: 2017-01-16
 release_id: "3461309"
 slug: "home-again-3461309"
+hideSummary: true
 cover:
     image: "home-again-3461309.jpg"
-tags: ["Funk / Soul", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Home Again by Michael Kiwanuka"
+    caption: "Home Again by Michael Kiwanuka"
+genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
+styles: ["Modern Electric Blues", "Soul", "Folk"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Michael Kiwanuka - I Won't Lie](https://www.youtube.com/watch?v=0t2KhjyKEus)
 - [Michael Kiwanuka feat. Dan Auerbach - Lasan](https://www.youtube.com/watch?v=GQUo8lLxVmI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Michael Kiwanuka - Home Again](https://www.discogs.com/release/3461309) |
+| Release Year   | 2012 |
+| Discogs Link   | [Michael Kiwanuka - Home Again](https://www.discogs.com/release/3461309-Michael-Kiwanuka-Home-Again) |
 | Label          | Polydor, Communion Records (2) |
 | Format         | LP, Album |
 | Catalog Number | 2797133 |
+
+℗ & © Polydor Ltd. The Copyright in this sound recording is owned by Polydor Ltd. A Universal Music Company  Mastered at Electric Mastering - London Except A5 Mastered at 24-96 Mastering Published by Warner Chappell Art Direction at Big Active  Runouts are laser-etched, except "Guy's - ELECTRIC", which is hand-etched.
 

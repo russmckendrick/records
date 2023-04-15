@@ -1,14 +1,17 @@
 ---
 title: "Placebo - Placebo"
-album_artist: "Placebo"
-album_title: "Placebo"
+artist: "Placebo"
+album_name: "Placebo"
 date: 2019-06-17
 release_id: "13705514"
 slug: "placebo-13705514"
+hideSummary: true
 cover:
     image: "placebo-13705514.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Placebo by Placebo"
+    caption: "Placebo by Placebo"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Placebo - Lady of the Flowers](https://www.youtube.com/watch?v=gan1oKzVtiU)
 - [Placebo - Swallow](https://www.youtube.com/watch?v=eq0r8xD3ADs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Placebo - Placebo](https://www.discogs.com/release/13705514) |
+| Release Year   | 2019 |
+| Discogs Link   | [Placebo - Placebo](https://www.discogs.com/release/13705514-Placebo-Placebo) |
 | Label          | Elevator Music (4) |
 | Format         | LP, Album, RE, Gat |
 | Catalog Number | 6711042 |
+
+Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996. Made in the EU Riverman Management.  Gatefold sleeve. Opening inside. Printed glossy inner sleeve. A Blue Source Sleeve.
 

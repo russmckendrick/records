@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - Home Invasion (In Concert At The Royal Albert Hall)"
-album_artist: "Steven Wilson"
-album_title: "Home Invasion (In Concert At The Royal Albert Hall)"
+artist: "Steven Wilson"
+album_name: "Home Invasion (In Concert At The Royal Albert Hall)"
 date: 2020-05-29
 release_id: "13391500"
 slug: "home-invasion-in-concert-at-the-royal-albert-hall-13391500"
+hideSummary: true
 cover:
     image: "home-invasion-in-concert-at-the-royal-albert-hall-13391500.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson"
+    caption: "Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson"
+genres: ["Rock"]
+styles: ["Prog Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Steven Wilson - Ancestral (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=qFwcahcDzP4)
 - [Routine- Ninet Tayeb & Steven Wilson In the Royal Albert Hall](https://www.youtube.com/watch?v=tMfGp79fJCQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Steven Wilson - Home Invasion (In Concert At The Royal Albert Hall)](https://www.discogs.com/release/13391500) |
+| Release Year   | 2019 |
+| Discogs Link   | [Steven Wilson - Home Invasion (In Concert At The Royal Albert Hall)](https://www.discogs.com/release/13391500-Steven-Wilson-Home-Invasion-In-Concert-At-The-Royal-Albert-Hall) |
 | Label          | Caroline International, Caroline International |
 | Format         | 5xLP + Box, Album |
 | Catalog Number | CAROL017LP, 00602567943600 |
+
+The LP's include the full soundtrack of the concert across 4 discs, while the fifth LP in the vinyl set includes 3 rehearsal songs as well as 3 songs taken from the previous night’s performance (How is Your Life Today?, Blackfield, and Postcard). J1 to J3 are exclusive to the vinyl release.  This box set includes a 32 page 12" booklet with pictures and credits. Every LP is housed in a printed outer sleeve with plain polylined inner sleeves.  To The Bone tour created by Steven Wilson and Lasse Hoile  ℗ & © 2018 Steven Wilson Productions Ltd. Made in the EU.
 

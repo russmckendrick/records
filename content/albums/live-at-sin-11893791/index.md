@@ -1,14 +1,17 @@
 ---
 title: "Jeff Buckley - Live At Sin-é"
-album_artist: "Jeff Buckley"
-album_title: "Live At Sin-é"
+artist: "Jeff Buckley"
+album_name: "Live At Sin-é"
 date: 2018-04-21
 release_id: "11893791"
 slug: "live-at-sin-11893791"
+hideSummary: true
 cover:
     image: "live-at-sin-11893791.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At Sin-é by Jeff Buckley"
+    caption: "Live At Sin-é by Jeff Buckley"
+genres: ["Rock"]
+styles: ["Folk Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
 - [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jeff Buckley - Live At Sin-é](https://www.discogs.com/release/11893791) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jeff Buckley - Live At Sin-é](https://www.discogs.com/release/11893791-Jeff-Buckley-Live-At-Sin-%C3%A9) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | 4xLP, Album, RSD, Dlx, Ltd, Num |
 | Catalog Number | 88985494801 |
+
+Fabric box containing 4 single glossy jackets with black paper inner sleeves. Eight page full color booklet of photos and liner notes.  Hype sticker says: "Record Store Day  First Time on Vinyl 34 Songs recorded live during Jeff Buckley's café days in the summer of 1993 Individually numbered 4LP set limited edition deluxe packaging 88985494801S1"  Made in the EU.
 

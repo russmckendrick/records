@@ -1,14 +1,17 @@
 ---
 title: "Gong - Pulsing Signals"
-album_artist: "Gong"
-album_title: "Pulsing Signals"
+artist: "Gong"
+album_name: "Pulsing Signals"
 date: 2022-03-25
 release_id: "22602818"
 slug: "pulsing-signals-22602818"
+hideSummary: true
 cover:
     image: "pulsing-signals-22602818.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pulsing Signals by Gong"
+    caption: "Pulsing Signals by Gong"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [GONG - My Sawtooth Wake (LIVE - from Pulsing Signals)](https://www.youtube.com/watch?v=9aIIvnpf0UQ)
 - [Insert Yr Own Prophecy (Live)](https://www.youtube.com/watch?v=BJOKcB1hiOw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Gong - Pulsing Signals](https://www.discogs.com/release/22602818) |
+| Release Year   | 2022 |
+| Discogs Link   | [Gong - Pulsing Signals](https://www.discogs.com/release/22602818-Gong-Pulsing-Signals) |
 | Label          | Kscope |
 | Format         | 2xLP |
 | Catalog Number | Kscope1143 |
+
+Comes with foldout sleeve and cardboard inner sleeves  Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi [Hype sticker:] "Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"  (C) 2022 Gong (P) 2022 Gongband.com 
 

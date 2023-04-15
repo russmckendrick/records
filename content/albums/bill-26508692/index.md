@@ -1,14 +1,17 @@
 ---
 title: "Tripping Daisy - Bill"
-album_artist: "Tripping Daisy"
-album_title: "Bill"
+artist: "Tripping Daisy"
+album_name: "Bill"
 date: 2023-04-03
 release_id: "26508692"
 slug: "bill-26508692"
+hideSummary: true
 cover:
     image: "bill-26508692.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bill by Tripping Daisy"
+    caption: "Bill by Tripping Daisy"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Miles And Miles Of Pain (5:41)
 10. Triangle (5:52)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Tripping Daisy - Bill](https://www.discogs.com/release/26508692) |
+| Release Year   | 2023 |
+| Discogs Link   | [Tripping Daisy - Bill](https://www.discogs.com/release/26508692-Tripping-Daisy-Bill) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP3369 |
+
+MOV Hype Sticker: Available On Vinyl For The First Time Includes Insert 180 Gram Audiophile Vinyl
 

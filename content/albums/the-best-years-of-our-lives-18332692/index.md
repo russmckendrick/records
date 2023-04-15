@@ -1,14 +1,17 @@
 ---
 title: "Steve Harley & Cockney Rebel - The Best Years Of Our Lives"
-album_artist: "Steve Harley & Cockney Rebel"
-album_title: "The Best Years Of Our Lives"
+artist: "Steve Harley & Cockney Rebel"
+album_name: "The Best Years Of Our Lives"
 date: 2021-04-17
 release_id: "18332692"
 slug: "the-best-years-of-our-lives-18332692"
+hideSummary: true
 cover:
     image: "the-best-years-of-our-lives-18332692.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Best Years Of Our Lives by Steve Harley & Cockney Rebel"
+    caption: "The Best Years Of Our Lives by Steve Harley & Cockney Rebel"
+genres: ["Rock", "Pop"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Make Me Smile (Come up and See Me) (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=iIXGkgkst7s)
 - [Tumbling Down (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=zWHMjqV1SJQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Steve Harley & Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692) |
+| Release Year   | 2021 |
+| Discogs Link   | [Steve Harley & Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692-Steve-Harley-Cockney-Rebel-The-Best-Years-Of-Our-Lives) |
 | Label          | Chrysalis Catalogue, Chrysalis Catalogue |
 | Format         | 2xLP, Album, RE, Ora |
 | Catalog Number | CRVX1383, 5060516095506 |
+
+℗ 2020 ... in this compilation is owned by Chrysalis Records Limited © 2020 Chrysalis Records Limited Made in the UK  Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'  Credits on the inner sleeve say "2020 Reissue" although released in 2021  The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"  2020 Reissue Mastering / Lacquers: Alchemy Mastering "The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068]   Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.  Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974]
 

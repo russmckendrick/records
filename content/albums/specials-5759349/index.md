@@ -1,14 +1,17 @@
 ---
 title: "The Specials - Specials"
-album_artist: "The Specials"
-album_title: "Specials"
+artist: "The Specials"
+album_name: "Specials"
 date: 2015-10-15
 release_id: "5759349"
 slug: "specials-5759349"
+hideSummary: true
 cover:
     image: "specials-5759349.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Specials by The Specials"
+    caption: "Specials by The Specials"
+genres: ["Rock"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
 - [The Specials - Stupid Marriage](https://www.youtube.com/watch?v=YM7oBFi0oN8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Specials - Specials](https://www.discogs.com/release/5759349) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Specials - Specials](https://www.discogs.com/release/5759349-Specials-Specials) |
 | Label          | Two-Tone Records, Two-Tone Records |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | CDL TTX 5001, 825646336050 |
+
+Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company 
 

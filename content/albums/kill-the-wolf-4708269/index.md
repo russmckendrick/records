@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Kill The Wolf"
-album_artist: "Matt Berry (3)"
-album_title: "Kill The Wolf"
+artist: "Matt Berry (3)"
+album_name: "Kill The Wolf"
 date: 2016-03-07
 release_id: "4708269"
 slug: "kill-the-wolf-4708269"
+hideSummary: true
 cover:
     image: "kill-the-wolf-4708269.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Kill The Wolf by Matt Berry (3)"
+    caption: "Kill The Wolf by Matt Berry (3)"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Matt Berry (3) - Kill The Wolf](https://www.discogs.com/release/4708269) |
+| Release Year   | 2013 |
+| Discogs Link   | [Matt Berry (3) - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-Kill-The-Wolf) |
 | Label          | Acid Jazz |
 | Format         | LP, Album |
 | Catalog Number | AJXLP334 |
+
+
 

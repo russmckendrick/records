@@ -1,14 +1,17 @@
 ---
 title: "Michael Kiwanuka - Love & Hate"
-album_artist: "Michael Kiwanuka"
-album_title: "Love & Hate"
+artist: "Michael Kiwanuka"
+album_name: "Love & Hate"
 date: 2017-01-06
 release_id: "8778580"
 slug: "love-hate-8778580"
+hideSummary: true
 cover:
     image: "love-hate-8778580.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Love & Hate by Michael Kiwanuka"
+    caption: "Love & Hate by Michael Kiwanuka"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Father's Child](https://www.youtube.com/watch?v=NUl_rGOEy7U)
 - [The Final Frame](https://www.youtube.com/watch?v=qV-PDqMLL3U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Michael Kiwanuka - Love & Hate](https://www.discogs.com/release/8778580) |
+| Release Year   | 2016 |
+| Discogs Link   | [Michael Kiwanuka - Love & Hate](https://www.discogs.com/release/8778580-Michael-Kiwanuka-Love-Hate) |
 | Label          | Polydor |
 | Format         | 2xLP, Album |
 | Catalog Number | 4783458 |
+
+Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode Gatefold. Includes a card to download [r=9073982]  On back cover and label: 2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited. Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands  Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters).
 

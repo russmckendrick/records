@@ -1,14 +1,17 @@
 ---
 title: "Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay (As It Should Have Sounded)"
-album_artist: "Kevin Rowland & Dexys Midnight Runners"
-album_title: "Too-Rye-Ay (As It Should Have Sounded)"
+artist: "Kevin Rowland & Dexys Midnight Runners"
+album_name: "Too-Rye-Ay (As It Should Have Sounded)"
 date: 2022-10-16
 release_id: "24838748"
 slug: "too-rye-ay-as-it-should-have-sounded-24838748"
+hideSummary: true
 cover:
     image: "too-rye-ay-as-it-should-have-sounded-24838748.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland & Dexys Midnight Runners"
+    caption: "Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland & Dexys Midnight Runners"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Until I Believe In My Soul (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=VvrDUFcrxIs)
 - [Come On Eileen (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fVaQeoWzwRU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay (As It Should Have Sounded)](https://www.discogs.com/release/24838748) |
+| Release Year   | 2022 |
+| Discogs Link   | [Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay (As It Should Have Sounded)](https://www.discogs.com/release/24838748-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay-As-It-Should-Have-Sounded) |
 | Label          | Mercury |
 | Format         | LP, Album, RE, RM, Gre |
 | Catalog Number | 388 570-2 |
+
+
 

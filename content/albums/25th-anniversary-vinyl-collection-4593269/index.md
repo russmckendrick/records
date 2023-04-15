@@ -1,14 +1,17 @@
 ---
 title: "Public Enemy - 25th Anniversary Vinyl Collection "
-album_artist: "Public Enemy"
-album_title: "25th Anniversary Vinyl Collection "
+artist: "Public Enemy"
+album_name: "25th Anniversary Vinyl Collection "
 date: 2016-04-28
 release_id: "4593269"
 slug: "25th-anniversary-vinyl-collection-4593269"
+hideSummary: true
 cover:
     image: "25th-anniversary-vinyl-collection-4593269.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "25th Anniversary Vinyl Collection  by Public Enemy"
+    caption: "25th Anniversary Vinyl Collection  by Public Enemy"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -116,13 +119,16 @@ hideSummary: true
 - [Public Enemy 25th Anniversary Box Set out May 6th 2013](https://www.youtube.com/watch?v=qIMs1YfI9XU)
 - [Public Enemy-Fear Of A Black Planet Album Review](https://www.youtube.com/watch?v=9rqg7OrJlG8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269) |
+| Release Year   | 2013 |
+| Discogs Link   | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269-Public-Enemy-25th-Anniversary-Vinyl-Collection-) |
 | Label          | Def Jam Recordings |
 | Format         | LP + LP + LP + 2xLP + 2xLP + 2xLP + Box, Comp, Ltd |
 | Catalog Number | 06007 534 087-8 (0) |
+
+
 

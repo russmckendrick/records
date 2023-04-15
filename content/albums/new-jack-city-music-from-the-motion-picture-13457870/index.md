@@ -1,14 +1,17 @@
 ---
 title: "VARIOUS - New Jack City (Music From The Motion Picture)"
-album_artist: "VARIOUS"
-album_title: "New Jack City (Music From The Motion Picture)"
+artist: "VARIOUS"
+album_name: "New Jack City (Music From The Motion Picture)"
 date: 2019-04-13
 release_id: "13457870"
 slug: "new-jack-city-music-from-the-motion-picture-13457870"
+hideSummary: true
 cover:
     image: "new-jack-city-music-from-the-motion-picture-13457870.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "New Jack City (Music From The Motion Picture) by VARIOUS"
+    caption: "New Jack City (Music From The Motion Picture) by VARIOUS"
+genres: ["Hip Hop"]
+styles: ["Pop Rap", "RnB/Swing"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Essence - Lyrics 2 The Rhythm](https://www.youtube.com/watch?v=oDIfvCvNLuw)
 - [Keith Sweat - (There You Go) Tellin' Me No Again](https://www.youtube.com/watch?v=fEVN_yPyXXg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [VARIOUS - New Jack City (Music From The Motion Picture)](https://www.discogs.com/release/13457870) |
+| Release Year   | 2019 |
+| Discogs Link   | [VARIOUS - New Jack City (Music From The Motion Picture)](https://www.discogs.com/release/13457870-VARIOUS-New-Jack-City-Music-From-The-Motion-Picture) |
 | Label          | Giant Records |
 | Format         | LP, Comp, RE |
 | Catalog Number | 0573953 |
+
+RSD Exclusive 2019/Ltd. to 1500
 

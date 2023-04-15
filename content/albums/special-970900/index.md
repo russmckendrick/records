@@ -1,14 +1,17 @@
 ---
 title: "Jimmy Cliff - Special"
-album_artist: "Jimmy Cliff"
-album_title: "Special"
+artist: "Jimmy Cliff"
+album_name: "Special"
 date: 2020-08-02
 release_id: "970900"
 slug: "special-970900"
+hideSummary: true
 cover:
     image: "special-970900.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Special by Jimmy Cliff"
+    caption: "Special by Jimmy Cliff"
+genres: ["Reggae"]
+styles: ["Reggae"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Rock Children](https://www.youtube.com/watch?v=OOWaTCeUgX0)
 - [Love Heights](https://www.youtube.com/watch?v=Jo23MfdC2_k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Jimmy Cliff - Special](https://www.discogs.com/release/970900) |
+| Release Year   | 1982 |
+| Discogs Link   | [Jimmy Cliff - Special](https://www.discogs.com/release/970900-Jimmy-Cliff-Special) |
 | Label          | CBS, CBS |
 | Format         | LP, Album |
 | Catalog Number | CX 85878, FC 38099 |
+
+℗ 1982 CBS Inc./© 1982 CBS Inc. Made & Printed in Holland Printed inner sleeve with lyrics. CX Encoded Recording
 

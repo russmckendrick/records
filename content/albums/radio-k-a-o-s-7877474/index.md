@@ -1,14 +1,17 @@
 ---
 title: "Roger Waters - Radio K.A.O.S."
-album_artist: "Roger Waters"
-album_title: "Radio K.A.O.S."
+artist: "Roger Waters"
+album_name: "Radio K.A.O.S."
 date: 2018-10-24
 release_id: "7877474"
 slug: "radio-k-a-o-s-7877474"
+hideSummary: true
 cover:
     image: "radio-k-a-o-s-7877474.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Radio K.A.O.S. by Roger Waters"
+    caption: "Radio K.A.O.S. by Roger Waters"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Roger Waters - Who Needs Information](https://www.youtube.com/watch?v=IXIyFM60uPg)
 - [Roger Waters   Radio K A O S   Video EP   FULL](https://www.youtube.com/watch?v=7gKTd3CN4ok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Roger Waters - Radio K.A.O.S.](https://www.discogs.com/release/7877474) |
+| Release Year   | 1987 |
+| Discogs Link   | [Roger Waters - Radio K.A.O.S.](https://www.discogs.com/release/7877474-Roger-Waters-Radio-KAOS) |
 | Label          | EMI |
 | Format         | LP, Album, Promo |
 | Catalog Number | 074 24 0783 1 |
+
+Disco destinado a promoción prohibida su venta. ℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987  © 1987 Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.  Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)  Made in Spain.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Lurkers - Fulham Fallout"
-album_artist: "The Lurkers"
-album_title: "Fulham Fallout"
+artist: "The Lurkers"
+album_name: "Fulham Fallout"
 date: 2018-04-25
 release_id: "11897745"
 slug: "fulham-fallout-11897745"
+hideSummary: true
 cover:
     image: "fulham-fallout-11897745.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fulham Fallout by The Lurkers"
+    caption: "Fulham Fallout by The Lurkers"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [I Love the Dark (Demo)](https://www.youtube.com/watch?v=raIG1_yTzq4)
 - [Freak Show (LP Demo)](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Lurkers - Fulham Fallout](https://www.discogs.com/release/11897745) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Lurkers - Fulham Fallout](https://www.discogs.com/release/11897745-The-Lurkers-Fulham-Fallout) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album, RSD, Ltd, RE, Gat |
 | Catalog Number | BBQLP2 |
+
+RSD 2018
 

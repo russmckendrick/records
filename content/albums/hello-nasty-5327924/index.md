@@ -1,14 +1,17 @@
 ---
 title: "Beastie Boys - Hello Nasty"
-album_artist: "Beastie Boys"
-album_title: "Hello Nasty"
+artist: "Beastie Boys"
+album_name: "Hello Nasty"
 date: 2020-07-20
 release_id: "5327924"
 slug: "hello-nasty-5327924"
+hideSummary: true
 cover:
     image: "hello-nasty-5327924.jpg"
-tags: ["Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "Hello Nasty by Beastie Boys"
+    caption: "Hello Nasty by Beastie Boys"
+genres: ["Hip Hop", "Funk / Soul"]
+styles: ["Instrumental", "Funk"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Beastie Boys - Body Movin'](https://www.youtube.com/watch?v=uvRBUw_Ls2o)
 - [Beastie Boys - Three MC's And One DJ](https://www.youtube.com/watch?v=XflfiylNNXY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Beastie Boys - Hello Nasty](https://www.discogs.com/release/5327924) |
+| Release Year   | 2009 |
+| Discogs Link   | [Beastie Boys - Hello Nasty](https://www.discogs.com/release/5327924-Beastie-Boys-Hello-Nasty) |
 | Label          | Capitol Records, Grand Royal |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 509996 94239 18 |
+
+Gatefold packaging sleeve design, pressed on 180 gram vinyl.
 

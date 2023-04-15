@@ -1,14 +1,17 @@
 ---
 title: "Buffalo Tom - Birdbrain"
-album_artist: "Buffalo Tom"
-album_title: "Birdbrain"
+artist: "Buffalo Tom"
+album_name: "Birdbrain"
 date: 2020-10-10
 release_id: "16016550"
 slug: "birdbrain-16016550"
+hideSummary: true
 cover:
     image: "birdbrain-16016550.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Birdbrain by Buffalo Tom"
+    caption: "Birdbrain by Buffalo Tom"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="eEIb5Xrf81g" title="Buffalo Tom - Birdbrain" >}}
 - [Buffalo Tom - Crawl](https://www.youtube.com/watch?v=MNd9RYJMt6k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Buffalo Tom - Birdbrain](https://www.discogs.com/release/16016550) |
+| Release Year   | 2020 |
+| Discogs Link   | [Buffalo Tom - Birdbrain](https://www.discogs.com/release/16016550-Buffalo-Tom-Birdbrain) |
 | Label          | Beggars Arkive |
 | Format         | LP, Album, Ltd, RE, Min |
 | Catalog Number | BBQ2179LP |
+
+Published by Scrawny Music Licensed from Megadisc Records, Belgium ℗ 1990 Megadisc Records © 2020 Beggars Banquet Records Ltd.  30th anniversary pressing.  Hype Sticker 'Limited Edition featuring mint green colored vinyl"
 

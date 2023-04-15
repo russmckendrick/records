@@ -1,14 +1,17 @@
 ---
 title: "Cud - Asquarius"
-album_artist: "Cud"
-album_title: "Asquarius"
+artist: "Cud"
+album_name: "Asquarius"
 date: 2017-05-19
 release_id: "1832443"
 slug: "asquarius-1832443"
+hideSummary: true
 cover:
     image: "asquarius-1832443.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Asquarius by Cud"
+    caption: "Asquarius by Cud"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [CUD - Beyond Hair](https://www.youtube.com/watch?v=FYJUxY4Pa7Q)
 - [Cud - Spanish Love Song](https://www.youtube.com/watch?v=hC2vQwuvr5o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [Cud - Asquarius](https://www.discogs.com/release/1832443) |
+| Release Year   | 1992 |
+| Discogs Link   | [Cud - Asquarius](https://www.discogs.com/release/1832443-Cud-Asquarius) |
 | Label          | A&M Records |
 | Format         | LP, Album, Ltd, Num |
 | Catalog Number | 395 390-1 |
+
+A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".  Issued in a 'flipback' outer sleeve and a printed inner sleeve.  Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92. Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.  ℗ 1992 A&M Records Ltd. London © 1992 A&M Records Ltd. London  Made in England.
 

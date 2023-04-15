@@ -1,14 +1,17 @@
 ---
 title: "Kenji Kawai - Ghost In The Shell (Original Soundtrack)"
-album_artist: "Kenji Kawai"
-album_title: "Ghost In The Shell (Original Soundtrack)"
+artist: "Kenji Kawai"
+album_name: "Ghost In The Shell (Original Soundtrack)"
 date: 2017-07-14
 release_id: "10522236"
 slug: "ghost-in-the-shell-original-soundtrack-10522236"
+hideSummary: true
 cover:
     image: "ghost-in-the-shell-original-soundtrack-10522236.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Ghost In The Shell (Original Soundtrack) by Kenji Kawai"
+    caption: "Ghost In The Shell (Original Soundtrack) by Kenji Kawai"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Ghost in the Shell OST - Floating Museum](https://www.youtube.com/watch?v=S9579XgUUds)
 - [Kenji Kawai – 謡II - Ghost City [1995] HQ HD](https://www.youtube.com/watch?v=T1lFE39E1Tc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Kenji Kawai - Ghost In The Shell (Original Soundtrack)](https://www.discogs.com/release/10522236) |
+| Release Year   | 2017 |
+| Discogs Link   | [Kenji Kawai - Ghost In The Shell (Original Soundtrack)](https://www.discogs.com/release/10522236-Kenji-Kawai-Ghost-In-The-Shell-Original-Soundtrack) |
 | Label          | We Release Whatever The Fuck We Want Records |
 | Format         | LP + 7\", S/Sided + Album, Ltd, M/Print, RE |
 | Catalog Number | WRWTFWW017LTD |
+
+Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing. Version with correct printed obi strip: [r10806721].  Hype sticker reads: "First official release on vinyl."  Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet.
 

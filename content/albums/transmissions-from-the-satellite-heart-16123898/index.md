@@ -1,14 +1,17 @@
 ---
 title: "The Flaming Lips - Transmissions From The Satellite Heart"
-album_artist: "The Flaming Lips"
-album_title: "Transmissions From The Satellite Heart"
+artist: "The Flaming Lips"
+album_name: "Transmissions From The Satellite Heart"
 date: 2021-03-10
 release_id: "16123898"
 slug: "transmissions-from-the-satellite-heart-16123898"
+hideSummary: true
 cover:
     image: "transmissions-from-the-satellite-heart-16123898.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Transmissions From The Satellite Heart by The Flaming Lips"
+    caption: "Transmissions From The Satellite Heart by The Flaming Lips"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Moth in the Incubator](https://www.youtube.com/watch?v=Jw7c-h5TZ7s)
 - [When Yer Twenty-Two](https://www.youtube.com/watch?v=PkDqpwXHe3I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Flaming Lips - Transmissions From The Satellite Heart](https://www.discogs.com/release/16123898) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Flaming Lips - Transmissions From The Satellite Heart](https://www.discogs.com/release/16123898-The-Flaming-Lips-Transmissions-From-The-Satellite-Heart) |
 | Label          | Warner Records |
 | Format         | LP, Album, Ltd, RE, RM, Gre |
 | Catalog Number | 093624952206 |
+
+Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.  Made in Germany.  All runouts etched except for "P. USA -22310-" which is stamped.
 

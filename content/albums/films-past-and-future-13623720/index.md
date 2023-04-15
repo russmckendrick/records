@@ -1,14 +1,17 @@
 ---
 title: "Rob Dougan - Films: Past And Future"
-album_artist: "Rob Dougan"
-album_title: "Films: Past And Future"
+artist: "Rob Dougan"
+album_name: "Films: Past And Future"
 date: 2019-05-13
 release_id: "13623720"
 slug: "films-past-and-future-13623720"
+hideSummary: true
 cover:
     image: "films-past-and-future-13623720.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Films: Past And Future by Rob Dougan"
+    caption: "Films: Past And Future by Rob Dougan"
+genres: ["Electronic"]
+styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 {{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}
 - [FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)](https://www.youtube.com/watch?v=mdIEqCWV9U8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Rob Dougan - Films: Past And Future](https://www.discogs.com/release/13623720) |
+| Release Year   | 2019 |
+| Discogs Link   | [Rob Dougan - Films: Past And Future](https://www.discogs.com/release/13623720-Rob-Dougan-Films-Past-And-Future) |
 | Label          | Label Rob |
 | Format         | 3xLP, Comp |
 | Catalog Number | none |
+
+
 

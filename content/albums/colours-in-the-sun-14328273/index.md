@@ -1,14 +1,17 @@
 ---
 title: "Voyager (30) - Colours In The Sun"
-album_artist: "Voyager (30)"
-album_title: "Colours In The Sun"
+artist: "Voyager (30)"
+album_name: "Colours In The Sun"
 date: 2019-11-04
 release_id: "14328273"
 slug: "colours-in-the-sun-14328273"
+hideSummary: true
 cover:
     image: "colours-in-the-sun-14328273.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Colours In The Sun by Voyager (30)"
+    caption: "Colours In The Sun by Voyager (30)"
+genres: ["Rock"]
+styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [VOYAGER – Severomance [official audio]](https://www.youtube.com/watch?v=jPkaA-_EtQQ)
 - [VOYAGER – Saccharine Dream [official audio]](https://www.youtube.com/watch?v=EKqZnyra1Eo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Voyager (30) - Colours In The Sun](https://www.discogs.com/release/14328273) |
+| Release Year   | 2019 |
+| Discogs Link   | [Voyager (30) - Colours In The Sun](https://www.discogs.com/release/14328273-Voyager-Colours-In-The-Sun) |
 | Label          | Season Of Mist, Season Of Mist |
 | Format         | LP, Album, Ltd, Tur |
 | Catalog Number | SOM 533LP, SOM 533LPES |
+
+First pressing. Transparent Turquoise version limited to 100. 
 

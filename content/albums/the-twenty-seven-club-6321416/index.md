@@ -1,14 +1,17 @@
 ---
 title: "Magenta (10) - The Twenty Seven Club"
-album_artist: "Magenta (10)"
-album_title: "The Twenty Seven Club"
+artist: "Magenta (10)"
+album_name: "The Twenty Seven Club"
 date: 2017-08-06
 release_id: "6321416"
 slug: "the-twenty-seven-club-6321416"
+hideSummary: true
 cover:
     image: "the-twenty-seven-club-6321416.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Twenty Seven Club by Magenta (10)"
+    caption: "The Twenty Seven Club by Magenta (10)"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -22,13 +25,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="yidfGKTVtdo" title="Magenta - The Twenty Seven Club PROMO" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Magenta (10) - The Twenty Seven Club](https://www.discogs.com/release/6321416) |
+| Release Year   | 2013 |
+| Discogs Link   | [Magenta (10) - The Twenty Seven Club](https://www.discogs.com/release/6321416-Magenta-The-Twenty-Seven-Club) |
 | Label          | Plane Groovy |
 | Format         | 2xLP, Album, Ltd, 180 |
 | Catalog Number | PLG018 |
+
+Packaged in a gatefold cover with color printed inner LP sleeves.  Limited edition of 500 copies.
 

@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Piledriver"
-album_artist: "Status Quo"
-album_title: "Piledriver"
+artist: "Status Quo"
+album_name: "Piledriver"
 date: 2016-05-23
 release_id: "7578335"
 slug: "piledriver-7578335"
+hideSummary: true
 cover:
     image: "piledriver-7578335.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Piledriver by Status Quo"
+    caption: "Piledriver by Status Quo"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [status quo unspoken words (piledriver).wmv](https://www.youtube.com/watch?v=qdS6iXsvT1o)
 - [Status Quo - Roadhouse Blues - HQ](https://www.youtube.com/watch?v=y2Hi0boj1OM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Piledriver](https://www.discogs.com/release/7578335) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Piledriver](https://www.discogs.com/release/7578335-Status-Quo-Piledriver) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723762 |
+
+Gatefold sleeve 
 

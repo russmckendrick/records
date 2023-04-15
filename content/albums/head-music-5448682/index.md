@@ -1,14 +1,17 @@
 ---
 title: "Suede - Head Music"
-album_artist: "Suede"
-album_title: "Head Music"
+artist: "Suede"
+album_name: "Head Music"
 date: 2017-05-04
 release_id: "5448682"
 slug: "head-music-5448682"
+hideSummary: true
 cover:
     image: "head-music-5448682.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Head Music by Suede"
+    caption: "Head Music by Suede"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Suede - Can't Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
 - [Suede - Head Music (Full Album)](https://www.youtube.com/watch?v=ysFDcqnE7D4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Suede - Head Music](https://www.discogs.com/release/5448682) |
+| Release Year   | 2014 |
+| Discogs Link   | [Suede - Head Music](https://www.discogs.com/release/5448682-Suede-Head-Music) |
 | Label          | Demon Records |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | INSATIABLE 4 |
+
+Mastered at The Townhouse. Pressed at Damont Audio Limited. Designed at Commercial Art. Supplied with download card for the full album.  Though reissued in 2014, copyright notice states '(c) 2013'. 
 

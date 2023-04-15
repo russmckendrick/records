@@ -1,14 +1,17 @@
 ---
 title: "Roxette - Look Sharp!"
-album_artist: "Roxette"
-album_title: "Look Sharp!"
+artist: "Roxette"
+album_name: "Look Sharp!"
 date: 2016-02-29
 release_id: "1937220"
 slug: "look-sharp-1937220"
+hideSummary: true
 cover:
     image: "look-sharp-1937220.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Look Sharp! by Roxette"
+    caption: "Look Sharp! by Roxette"
+genres: ["Rock"]
+styles: ["Power Pop"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Roxette - Dressed For Success](https://www.youtube.com/watch?v=kkxj5xVLyj0)
 - [Roxette - Listen To Your Heart (Official Music Video)](https://www.youtube.com/watch?v=yCC_b5WHLX0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Roxette - Look Sharp!](https://www.discogs.com/release/1937220) |
+| Release Year   | 1988 |
+| Discogs Link   | [Roxette - Look Sharp!](https://www.discogs.com/release/1937220-Roxette-Look-Sharp) |
 | Label          | EMI |
 | Format         | LP, Album |
 | Catalog Number | EMC 3557 |
+
+
 

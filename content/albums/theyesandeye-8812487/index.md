@@ -1,14 +1,17 @@
 ---
 title: "Louise Rhodes - Theyesandeye"
-album_artist: "Louise Rhodes"
-album_title: "Theyesandeye"
+artist: "Louise Rhodes"
+album_name: "Theyesandeye"
 date: 2016-07-25
 release_id: "8812487"
 slug: "theyesandeye-8812487"
+hideSummary: true
 cover:
     image: "theyesandeye-8812487.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Theyesandeye by Louise Rhodes"
+    caption: "Theyesandeye by Louise Rhodes"
+genres: ["Folk, World, & Country"]
+styles: ["Folk"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Magic Ride](https://www.youtube.com/watch?v=TAPADzBL3jk)
 - [Circle Song](https://www.youtube.com/watch?v=ueees67-u68)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Louise Rhodes - Theyesandeye](https://www.discogs.com/release/8812487) |
+| Release Year   | 2016 |
+| Discogs Link   | [Louise Rhodes - Theyesandeye](https://www.discogs.com/release/8812487-Lou-Rhodes-Theyesandeye) |
 | Label          | Nude Records |
 | Format         | LP, Album |
 | Catalog Number | NUDE 23 LP |
+
+
 

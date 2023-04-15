@@ -1,14 +1,17 @@
 ---
 title: "Thom Yorke - Suspiria"
-album_artist: "Thom Yorke"
-album_title: "Suspiria"
+artist: "Thom Yorke"
+album_name: "Suspiria"
 date: 2018-12-27
 release_id: "12682472"
 slug: "suspiria-12682472"
+hideSummary: true
 cover:
     image: "suspiria-12682472.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Suspiria by Thom Yorke"
+    caption: "Suspiria by Thom Yorke"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Experimental", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -70,13 +73,16 @@ hideSummary: true
 - [Thom Yorke - Open Again](https://www.youtube.com/watch?v=F_RdZncHwKw)
 - [Thom Yorke - Unmade](https://www.youtube.com/watch?v=27c3JaZq4_c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Thom Yorke - Suspiria](https://www.discogs.com/release/12682472) |
+| Release Year   | 2018 |
+| Discogs Link   | [Thom Yorke - Suspiria](https://www.discogs.com/release/12682472-Thom-Yorke-Suspiria) |
 | Label          | XL Recordings |
 | Format         | 2xLP, Album, Pin |
 | Catalog Number | XL936LP |
+
+Matte pink heavy card gatefold sleeve with wide spine. Pink can be seen on inside sleeves. Blue style screen print design forming cover image. Additional information on back sleeve in White lettering. Each LP comes in a custom inner sleeve.  1st sales in some independent record shops were given with a promotional tote-bag, or a flipbook with the animations from the "Suspirium" music video.
 

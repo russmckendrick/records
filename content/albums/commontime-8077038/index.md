@@ -1,14 +1,17 @@
 ---
 title: "Field Music - Commontime"
-album_artist: "Field Music"
-album_title: "Commontime"
+artist: "Field Music"
+album_name: "Commontime"
 date: 2016-02-08
 release_id: "8077038"
 slug: "commontime-8077038"
+hideSummary: true
 cover:
     image: "commontime-8077038.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Commontime by Field Music"
+    caption: "Commontime by Field Music"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Field Music - Same Name](https://www.youtube.com/watch?v=8YCLtsTJ5N8)
 - [Field Music - Stay Awake](https://www.youtube.com/watch?v=j5LfWbN8ZdA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Field Music - Commontime](https://www.discogs.com/release/8077038) |
+| Release Year   | 2016 |
+| Discogs Link   | [Field Music - Commontime](https://www.discogs.com/release/8077038-Field-Music-Commontime) |
 | Label          | Memphis Industries |
 | Format         | 2xLP, Album, Ltd, 180 |
 | Catalog Number | MI0387LP |
+
+This LP comes with a download code.
 

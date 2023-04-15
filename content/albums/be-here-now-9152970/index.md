@@ -1,14 +1,17 @@
 ---
 title: "Oasis (2) - Be Here Now"
-album_artist: "Oasis (2)"
-album_title: "Be Here Now"
+artist: "Oasis (2)"
+album_name: "Be Here Now"
 date: 2016-10-14
 release_id: "9152970"
 slug: "be-here-now-9152970"
+hideSummary: true
 cover:
     image: "be-here-now-9152970.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Be Here Now by Oasis (2)"
+    caption: "Be Here Now by Oasis (2)"
+genres: ["Rock"]
+styles: ["Britpop"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="vn-X88PgIaU" title="Be Here Now" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Oasis (2) - Be Here Now](https://www.discogs.com/release/9152970) |
+| Release Year   | 2016 |
+| Discogs Link   | [Oasis (2) - Be Here Now](https://www.discogs.com/release/9152970-Oasis-Be-Here-Now) |
 | Label          | Big Brother |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | RKIDLP85 |
+
+Double heavyweight vinyl. Includes download code for album, rare & unreleased tracks, & mustique demos.  Original release date was 7.10.2016 but it was postponed to 14.10.2016.   Back sleeve: ℗ & © 2016 Big Brother Recordings Ltd The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd.  WWW.OASISINET.COM  All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Inside panel: Recorded at Abbey Road, Ridge Farm, Air, Master Rock and Orinoco Studios, England between Nov 96 - April 97 All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Labels: The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd. ℗ & © 2016 Big Brother Recordings Ltd All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)
 

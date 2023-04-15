@@ -1,14 +1,17 @@
 ---
 title: "Howlin' Wolf - The Best Of Howlin' Wolf"
-album_artist: "Howlin' Wolf"
-album_title: "The Best Of Howlin' Wolf"
+artist: "Howlin' Wolf"
+album_name: "The Best Of Howlin' Wolf"
 date: 2021-12-23
 release_id: "8503900"
 slug: "the-best-of-howlin-wolf-8503900"
+hideSummary: true
 cover:
     image: "the-best-of-howlin-wolf-8503900.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "The Best Of Howlin' Wolf by Howlin' Wolf"
+    caption: "The Best Of Howlin' Wolf by Howlin' Wolf"
+genres: ["Blues"]
+styles: ["Chicago Blues"]
 ---
 
 ## Tracklisting
@@ -29,16 +32,17 @@ hideSummary: true
 15. The Natchez Burnin' (2:12)
 16. Goin' Down Slow (4:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Howlin' Wolf - The Best Of Howlin' Wolf](https://www.discogs.com/release/8503900) |
+| Release Year   | 2015 |
+| Discogs Link   | [Howlin' Wolf - The Best Of Howlin' Wolf](https://www.discogs.com/release/8503900-Howlin-Wolf-The-Best-Of-Howlin-Wolf) |
 | Label          | Not Now Music |
 | Format         | LP, Comp |
 | Catalog Number | CATLP105 |
+
+Made in The E.U.
 

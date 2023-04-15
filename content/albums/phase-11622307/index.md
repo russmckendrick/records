@@ -1,14 +1,17 @@
 ---
 title: "Mildlife - Phase"
-album_artist: "Mildlife"
-album_title: "Phase"
+artist: "Mildlife"
+album_name: "Phase"
 date: 2018-12-28
 release_id: "11622307"
 slug: "phase-11622307"
+hideSummary: true
 cover:
     image: "phase-11622307.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Phase by Mildlife"
+    caption: "Phase by Mildlife"
+genres: ["Jazz"]
+styles: ["Jazz-Funk"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Mildlife - Two Horizons [Audio] (5 of 6)](https://www.youtube.com/watch?v=8N4PrhKe-NE)
 - [Mildlife - The Gloves Don't Bite [Audio] (6 of 6)](https://www.youtube.com/watch?v=VtnpOpHdfiw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Mildlife - Phase](https://www.discogs.com/release/11622307) |
+| Release Year   | 2018 |
+| Discogs Link   | [Mildlife - Phase](https://www.discogs.com/release/11622307-Mildlife-Phase) |
 | Label          | Research Records |
 | Format         | LP, Album |
 | Catalog Number | RESEARCH02 |
+
+First pressing, edition of 1000. First 400 orders include one of four Mildlife trading cards.  This pressing has been re-cut on October 1, 2018.  Research Records 2018
 

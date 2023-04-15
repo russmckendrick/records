@@ -1,14 +1,17 @@
 ---
 title: "Baroness - Gold & Grey"
-album_artist: "Baroness"
-album_title: "Gold & Grey"
+artist: "Baroness"
+album_name: "Gold & Grey"
 date: 2019-06-17
 release_id: "13744754"
 slug: "gold-grey-13744754"
+hideSummary: true
 cover:
     image: "gold-grey-13744754.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Gold & Grey by Baroness"
+    caption: "Gold & Grey by Baroness"
+genres: ["Rock"]
+styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
 - [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Baroness - Gold & Grey](https://www.discogs.com/release/13744754) |
+| Release Year   | 2019 |
+| Discogs Link   | [Baroness - Gold & Grey](https://www.discogs.com/release/13744754-Baroness-Gold-Grey) |
 | Label          | Abraxan Hymns |
 | Format         | LP, Red + LP, S/Sided, Etch, Blu + Album, Ltd |
 | Catalog Number | ABXN006-1 |
+
+Independent Record Stores Release Includes download code, lyric booklet, and printed inner sleeves.  Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA. Strings recorded at Bird Cloud Recording in Edwardsville, IL. Mastered at Sterling Sound in Edgewater, NJ.  All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).  © & ℗ 2019 Abraxan Hymns, LLC.
 

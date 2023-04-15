@@ -1,14 +1,17 @@
 ---
 title: "The Velvet Underground & Nico (3) - The Velvet Underground & Nico"
-album_artist: "The Velvet Underground & Nico (3)"
-album_title: "The Velvet Underground & Nico"
+artist: "The Velvet Underground & Nico (3)"
+album_name: "The Velvet Underground & Nico"
 date: 2016-01-10
 release_id: "1839185"
 slug: "the-velvet-underground-nico-1839185"
+hideSummary: true
 cover:
     image: "the-velvet-underground-nico-1839185.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Velvet Underground & Nico by The Velvet Underground & Nico (3)"
+    caption: "The Velvet Underground & Nico by The Velvet Underground & Nico (3)"
+genres: ["Rock"]
+styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Miss Joanie Lee (The Factory Rehearsal)](https://www.youtube.com/watch?v=B95uGs1z6x0)
 - [European Son (Alternate Version)](https://www.youtube.com/watch?v=Uq78HdfsRPs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [The Velvet Underground & Nico (3) - The Velvet Underground & Nico](https://www.discogs.com/release/1839185) |
+| Release Year   | 2008 |
+| Discogs Link   | [The Velvet Underground & Nico (3) - The Velvet Underground & Nico](https://www.discogs.com/release/1839185-The-Velvet-Underground-Nico-The-Velvet-Underground-Nico) |
 | Label          | Vinyl Lovers |
 | Format         | LP, Album, RE, Pee |
 | Catalog Number | 900051 |
+
+Barcode sticker on plastic protection with the text: "180 gram Virgin Vinyl - Bonus Track: Chelsea Girls - Cover with Andy Warhol's Original Peeling Banana!!!" Gatefold sleeve with original real peelable banana design. Banana is made from window sticker material, and is re-peelable. Track B5 is a bonus track.  © 1967 Verve. This compilation ℗ & © 2008 Lilith Records Ltd. Manufactured in EU - Under license from ℗ 000 "Universal Music", Russia. Photos by kind permission of Universal Music PLC. 
 

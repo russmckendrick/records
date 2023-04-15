@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Animals"
-album_artist: "Pink Floyd"
-album_title: "Animals"
+artist: "Pink Floyd"
+album_name: "Animals"
 date: 2016-11-18
 release_id: "9359985"
 slug: "animals-9359985"
+hideSummary: true
 cover:
     image: "animals-9359985.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Animals by Pink Floyd"
+    caption: "Animals by Pink Floyd"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -21,13 +24,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="D4KQae9oMWs" title="Pink Floyd - Animals (Full Album) 1977" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - Animals](https://www.discogs.com/release/9359985) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - Animals](https://www.discogs.com/release/9359985-Pink-Floyd-Animals) |
 | Label          | Pink Floyd Records, Pink Floyd Records, Pink Floyd Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP10, PFRLP 10, 0190295996963 |
+
+Issued in a gatefold sleeve with a cardboard inner sleeve which has rounded corners  printed with lyrics, publishing and copyright details on both sides.  Hype sticker is affixed to the shrinkwrap. The French release is exactly the same except sticker text is in French instead of English.  1st cat# PFRLP10 is printed on sticker, rear sleeve & spine. 2nd cat# PFRLP 10 is printed on the inner sleeve 3rd cat# 0190295996963 is printed on sticker, inner sleeve & rear sleeve.  Hype sticker on shrinkwrap reads: "The stereo remastered album on heavyweight 180ɢ vinyl. Remastered from the original analogue tapes by James Guthrie, Joel Plante and Bernie Grundman. Original UK release date: January 1977"  Recorded at Britannia Row Studios, London.  Published by Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE), administered by Warner/Chappell Music Publishing Limited for the world excluding U.S.A & Canada. US.A & Canada: Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE). All rights on behalf of Artemis Muziekuitgeverij B.V. administered by Warner-Tamerlane Publishing Corp.  Except A2, published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell Music Publishing Limited for the World excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE). All rights on behalf of Artemis Muziekuitgeverij B.V. administered by Warner-Tamerlane Publishing Corp.  Printed on sticker, back sleeve, inner sleeve, and labels: ℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd. Made in the E.U.  Printed in the gatefold sleeve: 7701 PCSS Made and printed in the E.U.  Runouts: "17203 1A" / "17203 1B" / "17203 5A" / "17203 5B" are stamped, everything else is etched.
 

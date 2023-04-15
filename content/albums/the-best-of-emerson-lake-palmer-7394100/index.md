@@ -1,14 +1,17 @@
 ---
 title: "Emerson, Lake & Palmer - The Best Of Emerson Lake & Palmer"
-album_artist: "Emerson, Lake & Palmer"
-album_title: "The Best Of Emerson Lake & Palmer"
+artist: "Emerson, Lake & Palmer"
+album_name: "The Best Of Emerson Lake & Palmer"
 date: 2016-03-16
 release_id: "7394100"
 slug: "the-best-of-emerson-lake-palmer-7394100"
+hideSummary: true
 cover:
     image: "the-best-of-emerson-lake-palmer-7394100.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer"
+    caption: "The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer"
+genres: ["Rock"]
+styles: ["Classic Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 {{< youtube id="89g1P_J40JA" title="Emerson, Lake & Palmer - Lucky Man" >}}
 - [Emerson, Lake & Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Emerson, Lake & Palmer - The Best Of Emerson Lake & Palmer](https://www.discogs.com/release/7394100) |
+| Release Year   | 0 |
+| Discogs Link   | [Emerson, Lake & Palmer - The Best Of Emerson Lake & Palmer](https://www.discogs.com/release/7394100-Emerson-Lake-Palmer-The-Best-Of-Emerson-Lake-Palmer) |
 | Label          | Atlantic, Atlantic, Atlantic |
 | Format         | LP, Comp, RE |
 | Catalog Number | K 50 757, 50 757, SD 19283 |
+
+Japanese sleeve text, lower right: リチヤド エバンス - 'Richard Evans'.  Printed inner sleeve. No Atlantic logo on front of sleeve. Cat. Nos. + STEREO (50 757 & SD 19 283) back top right. 50 757 on back, spine and inner sleeve.  K 50 757 on label. No barcode.   
 

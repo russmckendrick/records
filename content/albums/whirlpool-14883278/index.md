@@ -1,14 +1,17 @@
 ---
 title: "Chapterhouse - Whirlpool"
-album_artist: "Chapterhouse"
-album_title: "Whirlpool"
+artist: "Chapterhouse"
+album_name: "Whirlpool"
 date: 2020-04-10
 release_id: "14883278"
 slug: "whirlpool-14883278"
+hideSummary: true
 cover:
     image: "whirlpool-14883278.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Whirlpool by Chapterhouse"
+    caption: "Whirlpool by Chapterhouse"
+genres: ["Rock"]
+styles: ["Indie Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Satin Safe](https://www.youtube.com/watch?v=z0SiT_RG-qg)
 - [Treasure](https://www.youtube.com/watch?v=6H2Pq0ZLllc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Chapterhouse - Whirlpool](https://www.discogs.com/release/14883278) |
+| Release Year   | 2020 |
+| Discogs Link   | [Chapterhouse - Whirlpool](https://www.discogs.com/release/14883278-Chapterhouse-Whirlpool) |
 | Label          | Music On Vinyl, Sony Music |
 | Format         | LP, Album, Ltd, Num, RE, Blu |
 | Catalog Number | MOVLP2567 |
+
+Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl Includes Insert 180 gram audiophile vinyl
 

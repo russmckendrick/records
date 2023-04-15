@@ -1,14 +1,17 @@
 ---
 title: "Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)"
-album_artist: "Sharon Jones & The Dap-Kings"
-album_title: "Miss Sharon Jones! (Original Motion Picture Soundtrack)"
+artist: "Sharon Jones & The Dap-Kings"
+album_name: "Miss Sharon Jones! (Original Motion Picture Soundtrack)"
 date: 2016-12-29
 release_id: "9382390"
 slug: "miss-sharon-jones-original-motion-picture-soundtrack-9382390"
+hideSummary: true
 cover:
     image: "miss-sharon-jones-original-motion-picture-soundtrack-9382390.jpg"
-tags: ["Funk / Soul", "Stage & Screen"]
-hideSummary: true
+    alt: "Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings"
+    caption: "Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings"
+genres: ["Funk / Soul", "Stage & Screen"]
+styles: ["Funk", "Soul", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="XQOYAjd8icg" title="Sharon Jones & the Dap-Kings I'm Still Here" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9382390) |
+| Release Year   | 2016 |
+| Discogs Link   | [Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9382390-Sharon-Jones-The-Dap-Kings-Miss-Sharon-Jones-Original-Motion-Picture-Soundtrack) |
 | Label          | Daptone Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | DAP-043 |
+
+Gatefold sleeve. Includes MP3 download code.  Includes a performance of "His Eye On The Sparrow" as heard in the film sung by Sharon Jones in her local church in Augusta, GA.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Future Sound Of London - Dead Cities"
-album_artist: "The Future Sound Of London"
-album_title: "Dead Cities"
+artist: "The Future Sound Of London"
+album_name: "Dead Cities"
 date: 2021-04-16
 release_id: "18313399"
 slug: "dead-cities-18313399"
+hideSummary: true
 cover:
     image: "dead-cities-18313399.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Dead Cities by The Future Sound Of London"
+    caption: "Dead Cities by The Future Sound Of London"
+genres: ["Electronic"]
+styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [The Future Sound Of London  ISDN](https://www.youtube.com/watch?v=wvCILJjTlnI)
 - [FSOL - Dead Cities Full Album 1996](https://www.youtube.com/watch?v=WrfYrxvnvzI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Future Sound Of London - Dead Cities](https://www.discogs.com/release/18313399) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Future Sound Of London - Dead Cities](https://www.discogs.com/release/18313399-The-Future-Sound-Of-London-Dead-Cities) |
 | Label          | Virgin, Virgin, UMC, UMC, EBV, EBV |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 3537463, 0602435374635 |
+
+Comes with a [free digital download](https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008) code redeemable at [l1052727].  Gatefold cover.  Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print.
 

@@ -1,14 +1,17 @@
 ---
 title: "Teenage Fanclub - Grand Prix"
-album_artist: "Teenage Fanclub"
-album_title: "Grand Prix"
+artist: "Teenage Fanclub"
+album_name: "Grand Prix"
 date: 2018-08-29
 release_id: "12372525"
 slug: "grand-prix-12372525"
+hideSummary: true
 cover:
     image: "grand-prix-12372525.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grand Prix by Teenage Fanclub"
+    caption: "Grand Prix by Teenage Fanclub"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [I'll Make It Clear](https://www.youtube.com/watch?v=mrk3OCT9UaQ)
 - [Neil Jung](https://www.youtube.com/watch?v=sifx0wF9gzA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Teenage Fanclub - Grand Prix](https://www.discogs.com/release/12372525) |
+| Release Year   | 2018 |
+| Discogs Link   | [Teenage Fanclub - Grand Prix](https://www.discogs.com/release/12372525-Teenage-Fanclub-Grand-Prix) |
 | Label          | Sony Music |
 | Format         | LP, Album, RE, RM, 180 + 7\", Ltd |
 | Catalog Number | 19075837051 |
+
+Limited 180gm vinyl LP + 7" single. Packaged in a reproduction of the original vinyl artwork. Remastered from the original tapes at Abbey Road Studios, London under the guidance of the band. The initial run of copies preordered from the official webstore was signed by band members.
 

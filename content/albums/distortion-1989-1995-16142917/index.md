@@ -1,14 +1,17 @@
 ---
 title: "Bob Mould - Distortion: 1989 - 1995"
-album_artist: "Bob Mould"
-album_title: "Distortion: 1989 - 1995"
+artist: "Bob Mould"
+album_name: "Distortion: 1989 - 1995"
 date: 2020-11-05
 release_id: "16142917"
 slug: "distortion-1989-1995-16142917"
+hideSummary: true
 cover:
     image: "distortion-1989-1995-16142917.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Distortion: 1989 - 1995 by Bob Mould"
+    caption: "Distortion: 1989 - 1995 by Bob Mould"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -93,16 +96,17 @@ hideSummary: true
 79. Can't Fight It
 80. Turning Of The Tide
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Bob Mould - Distortion: 1989 - 1995](https://www.discogs.com/release/16142917) |
+| Release Year   | 2020 |
+| Discogs Link   | [Bob Mould - Distortion: 1989 - 1995](https://www.discogs.com/release/16142917-Bob-Mould-Distortion-1989-1995) |
 | Label          | Demon Records, Granary Music |
 | Format         | Box, Ltd + LP, Album, RE, Cle + LP, Album, RE, Cle |
 | Catalog Number | DEMRECBOX48X, DEMRECBOX48 |
+
+℗ and © 2020 Demon Music Group.  Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced.
 

@@ -1,14 +1,17 @@
 ---
 title: "Gladys Knight And The Pips - The Touch Of Love"
-album_artist: "Gladys Knight And The Pips"
-album_title: "The Touch Of Love"
+artist: "Gladys Knight And The Pips"
+album_name: "The Touch Of Love"
 date: 2020-08-02
 release_id: "2171568"
 slug: "the-touch-of-love-2171568"
+hideSummary: true
 cover:
     image: "the-touch-of-love-2171568.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Touch Of Love by Gladys Knight And The Pips"
+    caption: "The Touch Of Love by Gladys Knight And The Pips"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -29,16 +32,17 @@ hideSummary: true
 15. Come Back And Finish What You Started
 16. Try To Remember / The Way We Were
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Gladys Knight And The Pips - The Touch Of Love](https://www.discogs.com/release/2171568) |
+| Release Year   | 1980 |
+| Discogs Link   | [Gladys Knight And The Pips - The Touch Of Love](https://www.discogs.com/release/2171568-Gladys-Knight-And-The-Pips-The-Touch-Of-Love) |
 | Label          | K-Tel |
 | Format         | LP, Comp |
 | Catalog Number | NE 1090 |
+
+Produced in association with PYE and Buddah Records.  This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts.
 

@@ -1,14 +1,17 @@
 ---
 title: "Dennis Wilson (2) - Bambu (The Caribou Sessions)"
-album_artist: "Dennis Wilson (2)"
-album_title: "Bambu (The Caribou Sessions)"
+artist: "Dennis Wilson (2)"
+album_name: "Bambu (The Caribou Sessions)"
 date: 2017-04-23
 release_id: "10171845"
 slug: "bambu-the-caribou-sessions-10171845"
+hideSummary: true
 cover:
     image: "bambu-the-caribou-sessions-10171845.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bambu (The Caribou Sessions) by Dennis Wilson (2)"
+    caption: "Bambu (The Caribou Sessions) by Dennis Wilson (2)"
+genres: ["Rock"]
+styles: ["Pop Rock", "Soft Rock"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Piano Variations On Thoughts of You](https://www.youtube.com/watch?v=iL3vtS7Mfj8)
 - [Dennis Wilson | Unreleased 1978 Solo Album](https://www.youtube.com/watch?v=-G3uRm2-HaM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Dennis Wilson (2) - Bambu (The Caribou Sessions)](https://www.discogs.com/release/10171845) |
+| Release Year   | 2017 |
+| Discogs Link   | [Dennis Wilson (2) - Bambu (The Caribou Sessions)](https://www.discogs.com/release/10171845-Dennis-Wilson-Bambu-The-Caribou-Sessions) |
 | Label          | Caribou Records, Legacy |
 | Format         | 2xLP, Album, RSD, Ltd, RE, Gre |
 | Catalog Number | 88985403631 |
+
+RSD 2017 release. Quantity: 3000  Sticker: Highlights from the planned follow-up to Pacific Ocean Blue.        _______ Newly Designed 2LP set on green vinyl        _______ Liner notes by Ken Sharp, author of Dreamer: The Making of Dennis Wilson's Pacific Ocean Blue        _______ Includes Digital Download
 

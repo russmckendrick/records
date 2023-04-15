@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Gather Up"
-album_artist: "Matt Berry (3)"
-album_title: "Gather Up"
+artist: "Matt Berry (3)"
+album_name: "Gather Up"
 date: 2021-11-26
 release_id: "21118603"
 slug: "gather-up-21118603"
+hideSummary: true
 cover:
     image: "gather-up-21118603.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Gather Up by Matt Berry (3)"
+    caption: "Gather Up by Matt Berry (3)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Matt Berry - Gather Up (Ten Years On Acid Jazz)](https://www.youtube.com/watch?v=LhXrLO8oMLs)
 - [The Pheasant (Live)](https://www.youtube.com/watch?v=zMKikkZX4qQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Matt Berry (3) - Gather Up](https://www.discogs.com/release/21118603) |
+| Release Year   | 2021 |
+| Discogs Link   | [Matt Berry (3) - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-Gather-Up) |
 | Label          | Acid Jazz |
 | Format         | 2xLP, Comp, Ltd, Red |
 | Catalog Number | AJX2LP605 |
+
+Gatefold sleeve
 

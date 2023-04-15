@@ -1,14 +1,17 @@
 ---
 title: "John Shuttleworth - The Yamaha Years"
-album_artist: "John Shuttleworth"
-album_title: "The Yamaha Years"
+artist: "John Shuttleworth"
+album_name: "The Yamaha Years"
 date: 2016-12-19
 release_id: "7453474"
 slug: "the-yamaha-years-7453474"
+hideSummary: true
 cover:
     image: "the-yamaha-years-7453474.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Yamaha Years by John Shuttleworth"
+    caption: "The Yamaha Years by John Shuttleworth"
+genres: ["Electronic"]
+styles: ["Synth-pop", "Comedy"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [John Shuttleworth  Shopkeepers in the North](https://www.youtube.com/watch?v=PI7o-FJM8f4)
 - [Pigeons in Flight - John Shuttleworth](https://www.youtube.com/watch?v=GXp455mQ4xE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [John Shuttleworth - The Yamaha Years](https://www.discogs.com/release/7453474) |
+| Release Year   | 2015 |
+| Discogs Link   | [John Shuttleworth - The Yamaha Years](https://www.discogs.com/release/7453474-John-Shuttleworth-The-Yamaha-Years) |
 | Label          | Free Range Product |
 | Format         | 2xLP, Album |
 | Catalog Number | FRP2LP001 |
+
+"Includes songs from BBC TV's 500 Bus Stops"  "All songs written, performed and produced by Graham Fellows except 'The Christmas Orphan' written by G. Fellows and P. Ovcar"  Licensed From Chic Ken Productions Contains 7 bonus tracks not featured on the CD version 
 

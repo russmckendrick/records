@@ -1,14 +1,17 @@
 ---
 title: "Gene - Yours For The Taking (The Best Of)"
-album_artist: "Gene"
-album_title: "Yours For The Taking (The Best Of)"
+artist: "Gene"
+album_name: "Yours For The Taking (The Best Of)"
 date: 2020-08-22
 release_id: "15778008"
 slug: "yours-for-the-taking-the-best-of-15778008"
+hideSummary: true
 cover:
     image: "yours-for-the-taking-the-best-of-15778008.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Yours For The Taking (The Best Of) by Gene"
+    caption: "Yours For The Taking (The Best Of) by Gene"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,16 +38,17 @@ hideSummary: true
 21. Somewhere In The World
 22. Let Me Move On (Long Version)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Gene - Yours For The Taking (The Best Of)](https://www.discogs.com/release/15778008) |
+| Release Year   | 2020 |
+| Discogs Link   | [Gene - Yours For The Taking (The Best Of)](https://www.discogs.com/release/15778008-Gene-Yours-For-The-Taking-The-Best-Of) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp, Blu |
 | Catalog Number | DEMREC734 |
+
+22 tracks compiled by the band.  Manufactured in the EU.
 

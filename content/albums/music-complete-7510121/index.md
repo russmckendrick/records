@@ -1,14 +1,17 @@
 ---
 title: "New Order - Music Complete"
-album_artist: "New Order"
-album_title: "Music Complete"
+artist: "New Order"
+album_name: "Music Complete"
 date: 2015-09-25
 release_id: "7510121"
 slug: "music-complete-7510121"
+hideSummary: true
 cover:
     image: "music-complete-7510121.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Music Complete by New Order"
+    caption: "Music Complete by New Order"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [New Order - Music Complete](https://www.discogs.com/release/7510121) |
+| Release Year   | 2015 |
+| Discogs Link   | [New Order - Music Complete](https://www.discogs.com/release/7510121-New-Order-Music-Complete) |
 | Label          | Mute |
 | Format         | 2xLP, Album |
 | Catalog Number | STUMM390 |
+
+This is the non-limited black vinyl edition which includes a 12 page booklet featuring variations of the 'lines' artwork in black & white and recording credits. A code to redeem a digital copy of the album in both 96khz/24-bit FLAC and 320kbps MP3 formats from the Mute web site is also included on a sticker on the inner vinyl bag. Issued in a Gatefold sleeve as all other versions. Additional notes from the booklet state:  · Managed by Rebecca Boulton and Andrew Robinson at Prime Management. · New Order published by Universal Music Publishing, · Tom Rowlands published by BMG Rights Management (UK) Ltd., · Brandon Flowers published by Universal-Polygram International Publishing Inc. (ASCAP). · Richard X appears courtesy of blackmelody.com · Pete Hofmann appears courtesy of gothamproducers.com · Iggy Pop appears courtesy of Thousand Mile Inc. · Strings recorded at 80 Hertz Studios, The Sharp Project, Manchester.  ℗&© 2015 New Order Ltd. under exclusive license to Mute Artists Ltd. Printed in the EU.
 

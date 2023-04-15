@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - Late Developers"
-album_artist: "Belle & Sebastian"
-album_title: "Late Developers"
+artist: "Belle & Sebastian"
+album_name: "Late Developers"
 date: 2023-02-06
 release_id: "25756201"
 slug: "late-developers-25756201"
+hideSummary: true
 cover:
     image: "late-developers-25756201.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Late Developers by Belle & Sebastian"
+    caption: "Late Developers by Belle & Sebastian"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock", "Indie Pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
 - [Belle and Sebastian- Late Developers (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Belle & Sebastian - Late Developers](https://www.discogs.com/release/25756201) |
+| Release Year   | 2023 |
+| Discogs Link   | [Belle & Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |
 | Label          | Matador, Matador |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | OLE1896LPE, OLE1896LP |
+
+Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >.
 

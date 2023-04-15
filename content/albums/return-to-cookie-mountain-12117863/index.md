@@ -1,14 +1,17 @@
 ---
 title: "TV On The Radio - Return To Cookie Mountain"
-album_artist: "TV On The Radio"
-album_title: "Return To Cookie Mountain"
+artist: "TV On The Radio"
+album_name: "Return To Cookie Mountain"
 date: 2018-06-16
 release_id: "12117863"
 slug: "return-to-cookie-mountain-12117863"
+hideSummary: true
 cover:
     image: "return-to-cookie-mountain-12117863.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Return To Cookie Mountain by TV On The Radio"
+    caption: "Return To Cookie Mountain by TV On The Radio"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Untitled](https://www.youtube.com/watch?v=_ZyRRWO_teA)
 - [Let The Devil In](https://www.youtube.com/watch?v=vb9DxtmsYHM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [TV On The Radio - Return To Cookie Mountain](https://www.discogs.com/release/12117863) |
+| Release Year   | 2018 |
+| Discogs Link   | [TV On The Radio - Return To Cookie Mountain](https://www.discogs.com/release/12117863-TV-On-The-Radio-Return-To-Cookie-Mountain) |
 | Label          | Interscope Records, Universal Music Special Markets |
 | Format         | LP, Bro + LP, Bro + Album, Club, Dlx, RE, RM |
 | Catalog Number | B0028301-01 |
+
+Vinyl Me Please Essentials, June 2018 Includes an obi strip and an art print. Tracks are continuously numbered across sides on the release.  Sticker: VMP Exclusive Vinyl Edition - Half-Speed Remastered at Alchemy UK - 2LP, 45RPM Multi-Color Vinyl - Heavyweight Gatefold, Tip On Jacket - 24pg Full Color Lyric Booklet  A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.            
 

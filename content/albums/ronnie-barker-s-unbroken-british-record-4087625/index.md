@@ -1,14 +1,17 @@
 ---
 title: "Ronnie Barker - Ronnie Barker's Unbroken British Record"
-album_artist: "Ronnie Barker"
-album_title: "Ronnie Barker's Unbroken British Record"
+artist: "Ronnie Barker"
+album_name: "Ronnie Barker's Unbroken British Record"
 date: 2015-12-09
 release_id: "4087625"
 slug: "ronnie-barker-s-unbroken-british-record-4087625"
+hideSummary: true
 cover:
     image: "ronnie-barker-s-unbroken-british-record-4087625.jpg"
-tags: ["Non-Music", "Folk, World, & Country", "Stage & Screen"]
-hideSummary: true
+    alt: "Ronnie Barker's Unbroken British Record by Ronnie Barker"
+    caption: "Ronnie Barker's Unbroken British Record by Ronnie Barker"
+genres: ["Non-Music", "Folk, World, & Country", "Stage & Screen"]
+styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Pismonunciation
 10. The Welsh Medley:
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Ronnie Barker - Ronnie Barker's Unbroken British Record](https://www.discogs.com/release/4087625) |
+| Release Year   | 1978 |
+| Discogs Link   | [Ronnie Barker - Ronnie Barker's Unbroken British Record](https://www.discogs.com/release/4087625-Ronnie-Barker-Ronnie-Barkers-Unbroken-British-Record) |
 | Label          | K-Tel |
 | Format         | LP, Album |
 | Catalog Number | NE 1029 |
+
+Produced & Co-ordinated by John Schroeder. A Smug Production.
 

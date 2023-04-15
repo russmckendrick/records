@@ -1,14 +1,17 @@
 ---
 title: "EMF - Go Go Sapiens"
-album_artist: "EMF"
-album_title: "Go Go Sapiens"
+artist: "EMF"
+album_name: "Go Go Sapiens"
 date: 2022-05-13
 release_id: "23205512"
 slug: "go-go-sapiens-23205512"
+hideSummary: true
 cover:
     image: "go-go-sapiens-23205512.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Go Go Sapiens by EMF"
+    caption: "Go Go Sapiens by EMF"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Dance-pop"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Greatest Day
 11. Sparks And Flashes
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [EMF - Go Go Sapiens](https://www.discogs.com/release/23205512) |
+| Release Year   | 2022 |
+| Discogs Link   | [EMF - Go Go Sapiens](https://www.discogs.com/release/23205512-EMF-Go-Go-Sapiens) |
 | Label          | Not On Label (EMF Self-released) |
 | Format         | LP, Album, Whi |
 | Catalog Number | EMF04 |
+
+Catalogue number found on spine and inner sleeve  
 

@@ -1,14 +1,17 @@
 ---
 title: "Vuur (2) - In This Moment We Are Free - Cities"
-album_artist: "Vuur (2)"
-album_title: "In This Moment We Are Free - Cities"
+artist: "Vuur (2)"
+album_name: "In This Moment We Are Free - Cities"
 date: 2017-10-21
 release_id: "11031373"
 slug: "in-this-moment-we-are-free-cities-11031373"
+hideSummary: true
 cover:
     image: "in-this-moment-we-are-free-cities-11031373.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In This Moment We Are Free - Cities by Vuur (2)"
+    caption: "In This Moment We Are Free - Cities by Vuur (2)"
+genres: ["Rock"]
+styles: ["Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [VUUR - The Fire - San Francisco (Track By Track)](https://www.youtube.com/watch?v=11EeCmOz9Cg)
 - [An introduction to VUUR - Anneke van Giersbergen's new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Vuur (2) - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373) |
+| Release Year   | 2017 |
+| Discogs Link   | [Vuur (2) - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-In-This-Moment-We-Are-Free-Cities) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Red + LP, S/Sided, Etch, Red + Album + CD, Alb |
 | Catalog Number | IOMLP 491, 88985474371 |
+
+Released through the webshop of VUUR. Pre-ordered copies are signed by Anneke.
 

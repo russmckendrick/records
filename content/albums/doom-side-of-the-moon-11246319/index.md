@@ -1,14 +1,17 @@
 ---
 title: "Doom Side Of The Moon - Doom Side Of The Moon"
-album_artist: "Doom Side Of The Moon"
-album_title: "Doom Side Of The Moon"
+artist: "Doom Side Of The Moon"
+album_name: "Doom Side Of The Moon"
 date: 2018-01-25
 release_id: "11246319"
 slug: "doom-side-of-the-moon-11246319"
+hideSummary: true
 cover:
     image: "doom-side-of-the-moon-11246319.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Doom Side Of The Moon by Doom Side Of The Moon"
+    caption: "Doom Side Of The Moon by Doom Side Of The Moon"
+genres: ["Rock"]
+styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [DOOM SIDE OF THE MOON - GREAT GIG IN THE SKY](https://www.youtube.com/watch?v=N_4L3hv4Fp8)
 - [DOOM SIDE OF THE MOON - MONEY](https://www.youtube.com/watch?v=iEG6SdZ7hXQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Doom Side Of The Moon - Doom Side Of The Moon](https://www.discogs.com/release/11246319) |
+| Release Year   | 2017 |
+| Discogs Link   | [Doom Side Of The Moon - Doom Side Of The Moon](https://www.discogs.com/release/11246319-Doom-Side-Of-The-Moon-Doom-Side-Of-The-Moon) |
 | Label          | Music Theories Recordings, Mascot Label Group |
 | Format         | LP, Album, Yel |
 | Catalog Number | MTR75411, MTR 75411 |
+
+Track numbering on the label is sequential 1 through to 10.  Custom packaging includes a die-cut front panel. Includes digital download.  Made in the EU.  First cat # is on the spine, second cat # is on inner sleeve.
 

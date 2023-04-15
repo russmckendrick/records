@@ -1,14 +1,17 @@
 ---
 title: "Ramones - Rocket To Russia"
-album_artist: "Ramones"
-album_title: "Rocket To Russia"
+artist: "Ramones"
+album_name: "Rocket To Russia"
 date: 2018-02-09
 release_id: "11538026"
 slug: "rocket-to-russia-11538026"
+hideSummary: true
 cover:
     image: "rocket-to-russia-11538026.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rocket To Russia by Ramones"
+    caption: "Rocket To Russia by Ramones"
+genres: ["Rock"]
+styles: ["Punk", "Power Pop", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Surfin' Bird (2:37)
 14. Why Is It Always This Way? (2:32)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Ramones - Rocket To Russia](https://www.discogs.com/release/11538026) |
+| Release Year   | 2018 |
+| Discogs Link   | [Ramones - Rocket To Russia](https://www.discogs.com/release/11538026-Ramones-Rocket-To-Russia) |
 | Label          | Sire, Sire |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | RR1 6042, 081227932701 |
+
+Hype sticker on shrink wrap has NO barcode/NO catalog number RR1 6042. Another version exists with different hype sticker (WITH barcode & RR1 6042 on sticker) found here: [r=11534113]   Superior 2017 Remastered Audio.  [Labels] All selections published by Taco Tunes, Warner Chappell-ASCAP Track B2: Bobby Freeman Music/Clockus Music Co.-BMI Track B6: Atlantic Music Corp./Beechwood Music Corp.-BMI Made in E.U.  [Inner sleeve] Copyright © 1977 Taco Tunes/Bleu Disque Music Co., Inc. (ASCAP) Copyright © 1977 Sire Records, Inc.  [Back cover] Recorded at Media Sound, New York Mixed at the Power Station, New York ℗ & © 2018, 1977 Sire Records Company. Manufactured in E.U.
 

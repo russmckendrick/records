@@ -1,14 +1,17 @@
 ---
 title: "Jean-Michel Jarre - Magnetic Fields"
-album_artist: "Jean-Michel Jarre"
-album_title: "Magnetic Fields"
+artist: "Jean-Michel Jarre"
+album_name: "Magnetic Fields"
 date: 2017-06-14
 release_id: "263430"
 slug: "magnetic-fields-263430"
+hideSummary: true
 cover:
     image: "magnetic-fields-263430.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Magnetic Fields by Jean-Michel Jarre"
+    caption: "Magnetic Fields by Jean-Michel Jarre"
+genres: ["Electronic"]
+styles: ["Ambient"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [Jean Michel Jarre - Magnetic Fields I (Part 1) HD](https://www.youtube.com/watch?v=E7ZN0UBH2bI)
 - [Jean Michel Jarre - Magnetic Fields 2](https://www.youtube.com/watch?v=aibQMYOiofs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Jean-Michel Jarre - Magnetic Fields](https://www.discogs.com/release/263430) |
+| Release Year   | 1981 |
+| Discogs Link   | [Jean-Michel Jarre - Magnetic Fields](https://www.discogs.com/release/263430-Jarre-Magnetic-Fields) |
 | Label          | Polydor, Polydor |
 | Format         | LP, Album |
 | Catalog Number | POLS 1033, 2311 075 |
+
+Released with inner picture sleeve  Cover: ℗ 1981 Disques Dreyfus © 1981 Disques Dreyfus Record printed and made in England by James Upton & Sons Ltd.  Inner sleeve: Gravure/Cutting : Dyam Music Thanks to [M. Geiss](http://www.discogs.com/artist/230353), MCI, [l=Music Land], RSF, [Fairlight](http://www.discogs.com/label/145912), [Oberheim](http://www.discogs.com/label/319372) & [MDB](http://www.discogs.com/artist/288563)  Labels: Made in England Original sound recording made by [l=Disques Dreyfus] ℗ 1981 Disques Dreyfus  Artist is credited as Jarre on front cover, but as Jean Michel Jarre on the spine and centre labels
 

@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - Shake Your Money Maker"
-album_artist: "The Black Crowes"
-album_title: "Shake Your Money Maker"
+artist: "The Black Crowes"
+album_name: "Shake Your Money Maker"
 date: 2021-02-28
 release_id: "17594401"
 slug: "shake-your-money-maker-17594401"
+hideSummary: true
 cover:
     image: "shake-your-money-maker-17594401.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Shake Your Money Maker by The Black Crowes"
+    caption: "Shake Your Money Maker by The Black Crowes"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Black Crowes - Shake Your Money Maker](https://www.discogs.com/release/17594401) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Black Crowes - Shake Your Money Maker](https://www.discogs.com/release/17594401-The-Black-Crowes-Shake-Your-Money-Maker) |
 | Label          | American Recordings |
 | Format         | LP, Album, RE, RM, 30t |
 | Catalog Number | B0031874-01 |
+
+30th Anniversary Pressing  Newly remastered from the original production tapes. 
 

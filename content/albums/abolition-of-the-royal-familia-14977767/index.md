@@ -1,14 +1,17 @@
 ---
 title: "The Orb - Abolition Of The Royal Familia"
-album_artist: "The Orb"
-album_title: "Abolition Of The Royal Familia"
+artist: "The Orb"
+album_name: "Abolition Of The Royal Familia"
 date: 2020-03-28
 release_id: "14977767"
 slug: "abolition-of-the-royal-familia-14977767"
+hideSummary: true
 cover:
     image: "abolition-of-the-royal-familia-14977767.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Abolition Of The Royal Familia by The Orb"
+    caption: "Abolition Of The Royal Familia by The Orb"
+genres: ["Electronic"]
+styles: ["Ambient", "House"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Shape Shifting Part 2 in Dub (Pitter Patter in Batter See Version Excursion)](https://www.youtube.com/watch?v=2Dd7UuTs8-I)
 - [Say Cheese in Dub (Smile You're on Cctv)](https://www.youtube.com/watch?v=Y9KMOPEg3c8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Orb - Abolition Of The Royal Familia](https://www.discogs.com/release/14977767) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Orb - Abolition Of The Royal Familia](https://www.discogs.com/release/14977767-Orb-Abolition-Of-The-Royal-Familia) |
 | Label          | Cooking Vinyl, Cooking Vinyl |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | COOKLP757XX, COOKLP757 |
+
+Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.  On spine: COOKLP757 On sticker on back jacket: COOKLP757XX
 

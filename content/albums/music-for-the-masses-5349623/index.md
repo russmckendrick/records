@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Music For The Masses"
-album_artist: "Depeche Mode"
-album_title: "Music For The Masses"
+artist: "Depeche Mode"
+album_name: "Music For The Masses"
 date: 2016-05-24
 release_id: "5349623"
 slug: "music-for-the-masses-5349623"
+hideSummary: true
 cover:
     image: "music-for-the-masses-5349623.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Music For The Masses by Depeche Mode"
+    caption: "Music For The Masses by Depeche Mode"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Behind the Wheel](https://www.youtube.com/watch?v=zJ2yQH6Nw5U)
 - [The Things You Said](https://www.youtube.com/watch?v=0r0mjPctuoE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Depeche Mode - Music For The Masses](https://www.discogs.com/release/5349623) |
+| Release Year   | 2014 |
+| Discogs Link   | [Depeche Mode - Music For The Masses](https://www.discogs.com/release/5349623-Depeche-Mode-Music-For-The-Masses) |
 | Label          | Music On Vinyl, Mute |
 | Format         | LP, Album, RM, 180 |
 | Catalog Number | MOVLP942, STUMM47 |
+
+Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.  ℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V.   Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.   Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.  Design & Artwork Photography at T&CP Assoc. 
 

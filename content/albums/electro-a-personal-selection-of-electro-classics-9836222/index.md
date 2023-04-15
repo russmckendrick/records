@@ -1,14 +1,17 @@
 ---
 title: "Various - Electro (A Personal Selection Of Electro Classics)"
-album_artist: "Various"
-album_title: "Electro (A Personal Selection Of Electro Classics)"
+artist: "Various"
+album_name: "Electro (A Personal Selection Of Electro Classics)"
 date: 2017-02-22
 release_id: "9836222"
 slug: "electro-a-personal-selection-of-electro-classics-9836222"
+hideSummary: true
 cover:
     image: "electro-a-personal-selection-of-electro-classics-9836222.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "Electro (A Personal Selection Of Electro Classics) by Various"
+    caption: "Electro (A Personal Selection Of Electro Classics) by Various"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Electro"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [X-Ray Vision ‎- Video Control (Vocal)](https://www.youtube.com/watch?v=blwFnZGLg4w)
 - [The Sunburst Band - Atlantic Forest](https://www.youtube.com/watch?v=6946h5a9gtk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Electro (A Personal Selection Of Electro Classics)](https://www.discogs.com/release/9836222) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Electro (A Personal Selection Of Electro Classics)](https://www.discogs.com/release/9836222-Various-Electro-A-Personal-Selection-Of-Electro-Classics) |
 | Label          | Z Records |
 | Format         | 2x12\", Comp |
 | Catalog Number | ZEDDLP040 |
+
+Gatefold sleeve.
 

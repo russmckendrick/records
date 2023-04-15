@@ -1,14 +1,17 @@
 ---
 title: "Sparks - The Best & The Rest Of The Island Years 74-78"
-album_artist: "Sparks"
-album_title: "The Best & The Rest Of The Island Years 74-78"
+artist: "Sparks"
+album_name: "The Best & The Rest Of The Island Years 74-78"
 date: 2018-05-05
 release_id: "11894228"
 slug: "the-best-the-rest-of-the-island-years-74-78-11894228"
+hideSummary: true
 cover:
     image: "the-best-the-rest-of-the-island-years-74-78-11894228.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Best & The Rest Of The Island Years 74-78 by Sparks"
+    caption: "The Best & The Rest Of The Island Years 74-78 by Sparks"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Sparks - The Best & The Rest Of The Island Years 74-78](https://www.discogs.com/release/11894228) |
+| Release Year   | 2018 |
+| Discogs Link   | [Sparks - The Best & The Rest Of The Island Years 74-78](https://www.discogs.com/release/11894228-Sparks-The-Best-The-Rest-Of-The-Island-Years-74-78) |
 | Label          | Island Records |
 | Format         | 2xLP, RSD, Comp, Ltd, RM, Red |
 | Catalog Number | 6702244 |
+
+Limited edition Record Store Day 2018 release in gatefold sleeve. Remastered from the original tapes  Includes download code card.
 

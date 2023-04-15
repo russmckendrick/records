@@ -1,14 +1,17 @@
 ---
 title: "Ash - Teenage Wildlife: 25 Years Of Ash"
-album_artist: "Ash"
-album_title: "Teenage Wildlife: 25 Years Of Ash"
+artist: "Ash"
+album_name: "Teenage Wildlife: 25 Years Of Ash"
 date: 2020-02-16
 release_id: "14801136"
 slug: "teenage-wildlife-25-years-of-ash-14801136"
+hideSummary: true
 cover:
     image: "teenage-wildlife-25-years-of-ash-14801136.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Teenage Wildlife: 25 Years Of Ash by Ash"
+    caption: "Teenage Wildlife: 25 Years Of Ash by Ash"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -35,16 +38,17 @@ hideSummary: true
 21. Orpheus
 22. Jack Names The Planets
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Ash - Teenage Wildlife: 25 Years Of Ash](https://www.discogs.com/release/14801136) |
+| Release Year   | 2020 |
+| Discogs Link   | [Ash - Teenage Wildlife: 25 Years Of Ash](https://www.discogs.com/release/14801136-Ash-Teenage-Wildlife-25-Years-Of-Ash) |
 | Label          | BMG |
 | Format         | 2xLP, Comp |
 | Catalog Number | BMGCAT425DLP |
+
+2LP set  Manufactured in the E.U.  Initial copies available via recordstore.co.uk were signed by the band.
 

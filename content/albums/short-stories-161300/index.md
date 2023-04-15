@@ -1,14 +1,17 @@
 ---
 title: "Jon & Vangelis - Short Stories"
-album_artist: "Jon & Vangelis"
-album_title: "Short Stories"
+artist: "Jon & Vangelis"
+album_name: "Short Stories"
 date: 2015-12-17
 release_id: "161300"
 slug: "short-stories-161300"
+hideSummary: true
 cover:
     image: "short-stories-161300.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Short Stories by Jon & Vangelis"
+    caption: "Short Stories by Jon & Vangelis"
+genres: ["Electronic"]
+styles: ["Synth-pop", "Ambient"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Jon and Vangelis - Bird Song](https://www.youtube.com/watch?v=RpJp1Wxmyfs)
 - [Jon and Vangelis - The Road](https://www.youtube.com/watch?v=AWLySXyfpv4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Jon & Vangelis - Short Stories](https://www.discogs.com/release/161300) |
+| Release Year   | 1980 |
+| Discogs Link   | [Jon & Vangelis - Short Stories](https://www.discogs.com/release/161300-Jon-And-Vangelis-Short-Stories) |
 | Label          | Polydor, Polydor |
 | Format         | LP, Album |
 | Catalog Number | POLD 5030, 2442 169 |
+
+Recorded at London, England, 1979.  A Spheric Production.  All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979 ℗ 1979  © 1979  Includes printed inner sleeve with lyrics  Cassette POLDC 5030  Runout is stamped
 

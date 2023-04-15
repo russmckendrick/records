@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - Common Ground"
-album_artist: "Big Big Train"
-album_title: "Common Ground"
+artist: "Big Big Train"
+album_name: "Common Ground"
 date: 2021-07-30
 release_id: "19581835"
 slug: "common-ground-19581835"
+hideSummary: true
 cover:
     image: "common-ground-19581835.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Common Ground by Big Big Train"
+    caption: "Common Ground by Big Big Train"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Dandelion Clock](https://www.youtube.com/watch?v=xvsqQSxag5c)
 - [BIG BIG TRAIN - The Strangest Times (2021) [Progressive Rock / Art Rock]](https://www.youtube.com/watch?v=swdU6qMjldE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Big Big Train - Common Ground](https://www.discogs.com/release/19581835) |
+| Release Year   | 2021 |
+| Discogs Link   | [Big Big Train - Common Ground](https://www.discogs.com/release/19581835-Big-Big-Train-Common-Ground) |
 | Label          | Plane Groovy |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | PLG096 |
+
+Packaged in a gatefold jacket with 2-page color printed insert and polylined LP sleeves.
 

@@ -1,14 +1,17 @@
 ---
 title: "Various - The Apollo (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "The Apollo (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "The Apollo (Original Motion Picture Soundtrack)"
 date: 2021-07-01
 release_id: "15987938"
 slug: "the-apollo-original-motion-picture-soundtrack-15987938"
+hideSummary: true
 cover:
     image: "the-apollo-original-motion-picture-soundtrack-15987938.jpg"
-tags: ["Jazz", "Stage & Screen"]
-hideSummary: true
+    alt: "The Apollo (Original Motion Picture Soundtrack) by Various"
+    caption: "The Apollo (Original Motion Picture Soundtrack) by Various"
+genres: ["Jazz", "Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -45,16 +48,17 @@ hideSummary: true
 31. Don't Turn Back Now (4:36)
 32. At The Apollo Theater, January 19, 2012 (0:28)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - The Apollo (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15987938) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - The Apollo (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15987938-Various-The-Apollo-Original-Motion-Picture-Soundtrack) |
 | Label          | Blue Note, UMe |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | 602508383793 |
+
+Made in the EU. Back To Black hype sticker on shrink wrap. Comes with 'Back To Black' download code.  Matrices stamped, with exception of B0031355-01-A IS, B0031355-01-B IS, B0031355-01-C IS and B0031355-01-D IS which are etched. The IS symbol in the deadwax represents the initials of mastering and cutting engineer [a527017].
 

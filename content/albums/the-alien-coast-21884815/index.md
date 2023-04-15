@@ -1,14 +1,17 @@
 ---
 title: "St. Paul & The Broken Bones - The Alien Coast"
-album_artist: "St. Paul & The Broken Bones"
-album_title: "The Alien Coast"
+artist: "St. Paul & The Broken Bones"
+album_name: "The Alien Coast"
 date: 2022-01-28
 release_id: "21884815"
 slug: "the-alien-coast-21884815"
+hideSummary: true
 cover:
     image: "the-alien-coast-21884815.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Alien Coast by St. Paul & The Broken Bones"
+    caption: "The Alien Coast by St. Paul & The Broken Bones"
+genres: ["Funk / Soul"]
+styles: null
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="TUhQkIYB8KA" title="St. Paul & The Broken Bones - The Alien Coast Album Listening Party" >}}
 - [St. Paul & The Broken Bones - Minotaur (Official Audio)](https://www.youtube.com/watch?v=bd96ZE48h5M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [St. Paul & The Broken Bones - The Alien Coast](https://www.discogs.com/release/21884815) |
+| Release Year   | 2022 |
+| Discogs Link   | [St. Paul & The Broken Bones - The Alien Coast](https://www.discogs.com/release/21884815-St-Paul-The-Broken-Bones-The-Alien-Coast) |
 | Label          | ATO Records |
 | Format         | LP, Album, Dlx, Gho |
 | Catalog Number | ATO0590 |
+
+Ghost vinyl with foil cover limited to 2,000 copies.   First 300 pre-orders receive a signed postcard  Vinyl pressed in Czech Republic   
 

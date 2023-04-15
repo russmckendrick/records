@@ -1,14 +1,17 @@
 ---
 title: "Television - Marquee Moon"
-album_artist: "Television"
-album_title: "Marquee Moon"
+artist: "Television"
+album_name: "Marquee Moon"
 date: 2017-03-04
 release_id: "7603547"
 slug: "marquee-moon-7603547"
+hideSummary: true
 cover:
     image: "marquee-moon-7603547.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Marquee Moon by Television"
+    caption: "Marquee Moon by Television"
+genres: ["Rock"]
+styles: ["New Wave", "Punk"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Prove It](https://www.youtube.com/watch?v=-kS2t2YTBFs)
 - [Torn Curtain](https://www.youtube.com/watch?v=UVAooI5jLaQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Television - Marquee Moon](https://www.discogs.com/release/7603547) |
+| Release Year   | 2015 |
+| Discogs Link   | [Television - Marquee Moon](https://www.discogs.com/release/7603547-Television-Marquee-Moon) |
 | Label          | Elektra |
 | Format         | LP, Album, Ltd, RE, RM, Whi |
 | Catalog Number | 8122797158 |
+
+Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.   Ltd Edition of 3000 copies
 

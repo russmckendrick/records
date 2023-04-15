@@ -1,14 +1,17 @@
 ---
 title: "Various - Music From The Motion Picture Soundtrack \"Fletch\""
-album_artist: "Various"
-album_title: "Music From The Motion Picture Soundtrack \"Fletch\""
+artist: "Various"
+album_name: "Music From The Motion Picture Soundtrack \"Fletch\""
 date: 2020-08-02
 release_id: "171543"
 slug: "music-from-the-motion-picture-soundtrack-fletch-171543"
+hideSummary: true
 cover:
     image: "music-from-the-motion-picture-soundtrack-fletch-171543.jpg"
-tags: ["Electronic", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Music From The Motion Picture Soundtrack \"Fletch\" by Various"
+    caption: "Music From The Motion Picture Soundtrack \"Fletch\" by Various"
+genres: ["Electronic", "Pop", "Stage & Screen"]
+styles: ["Soundtrack", "Synth-pop", "Disco"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Exotic Skates](https://www.youtube.com/watch?v=aIlWY_tk53s)
 - [Running For Love (Instrumental)](https://www.youtube.com/watch?v=HC2-slEyuVk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Various - Music From The Motion Picture Soundtrack \"Fletch\"](https://www.discogs.com/release/171543) |
+| Release Year   | 1985 |
+| Discogs Link   | [Various - Music From The Motion Picture Soundtrack \"Fletch\"](https://www.discogs.com/release/171543-Various-Music-From-The-Motion-Picture-Soundtrack-Fletch) |
 | Label          | MCA Records, MCA Records |
 | Format         | LP, Album |
 | Catalog Number | 252 332-1, MCA-6142 |
+
+Manufactured in Germany by Record Service GmbH, Alsdorf.  ℗ 1985 MCA Records, Inc., except * [tracks A4 + B2] ℗ 1984 MCA Records, Inc.  There is a Warner "Big W" logo embossed on the bottom right of the back cover.
 

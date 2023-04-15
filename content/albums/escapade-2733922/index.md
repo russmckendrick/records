@@ -1,14 +1,17 @@
 ---
 title: "Tim Finn - Escapade"
-album_artist: "Tim Finn"
-album_title: "Escapade"
+artist: "Tim Finn"
+album_name: "Escapade"
 date: 2015-10-14
 release_id: "2733922"
 slug: "escapade-2733922"
+hideSummary: true
 cover:
     image: "escapade-2733922.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Escapade by Tim Finn"
+    caption: "Escapade by Tim Finn"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
 - [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Tim Finn - Escapade](https://www.discogs.com/release/2733922) |
+| Release Year   | 1983 |
+| Discogs Link   | [Tim Finn - Escapade](https://www.discogs.com/release/2733922-Tim-Finn-Escapade) |
 | Label          | Mushroom |
 | Format         | LP, Album |
 | Catalog Number | RML 53104 |
+
+Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Kino (2) - Radio Voltaire"
-album_artist: "Kino (2)"
-album_title: "Radio Voltaire"
+artist: "Kino (2)"
+album_name: "Radio Voltaire"
 date: 2018-03-24
 release_id: "11744021"
 slug: "radio-voltaire-11744021"
+hideSummary: true
 cover:
     image: "radio-voltaire-11744021.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Radio Voltaire by Kino (2)"
+    caption: "Radio Voltaire by Kino (2)"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [I Won't Break So Easily Any More](https://www.youtube.com/watch?v=0fFdioSs9ic)
 - [Warmth of the Sun](https://www.youtube.com/watch?v=N6rIZtd6izQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kino (2) - Radio Voltaire](https://www.discogs.com/release/11744021) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kino (2) - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | IOMLP 501, 19075820301 |
+
+Gatefold sleeve
 

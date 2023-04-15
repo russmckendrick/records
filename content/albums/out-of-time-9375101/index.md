@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - Out Of Time"
-album_artist: "R.E.M."
-album_title: "Out Of Time"
+artist: "R.E.M."
+album_name: "Out Of Time"
 date: 2018-01-08
 release_id: "9375101"
 slug: "out-of-time-9375101"
+hideSummary: true
 cover:
     image: "out-of-time-9375101.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Out Of Time by R.E.M."
+    caption: "Out Of Time by R.E.M."
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 - [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
 - [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101) |
+| Release Year   | 2016 |
+| Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |
 | Label          | Concord Bicycle Music, Universal Music Group International |
 | Format         | LP, Album, RE + 2xLP, Dem + Ltd, RM, 25t |
 | Catalog Number | 0888072010246 |
+
+25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands.
 

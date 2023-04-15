@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Western Stars"
-album_artist: "Bruce Springsteen"
-album_title: "Western Stars"
+artist: "Bruce Springsteen"
+album_name: "Western Stars"
 date: 2019-06-15
 release_id: "13751042"
 slug: "western-stars-13751042"
+hideSummary: true
 cover:
     image: "western-stars-13751042.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Western Stars by Bruce Springsteen"
+    caption: "Western Stars by Bruce Springsteen"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
 - [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13751042) |
+| Release Year   | 2019 |
+| Discogs Link   | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13751042-Bruce-Springsteen-Western-Stars) |
 | Label          | Columbia, Sony Music |
 | Format         | 2xLP, Album |
 | Catalog Number | 19075937511 |
+
+© & ℗ 2019 Bruce Springsteen  Gatefold sleeve. Includes printed inner sleeves and Free Digital Download.  Some copies sold in Spain were repackaged to include a promotional slipmat.  Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Gentle Giant - Free Hand"
-album_artist: "Gentle Giant"
-album_title: "Free Hand"
+artist: "Gentle Giant"
+album_name: "Free Hand"
 date: 2021-06-27
 release_id: "19250605"
 slug: "free-hand-19250605"
+hideSummary: true
 cover:
     image: "free-hand-19250605.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Free Hand by Gentle Giant"
+    caption: "Free Hand by Gentle Giant"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Talybont (2012 Remaster)](https://www.youtube.com/watch?v=wt8-qBqS6S8)
 - [Mobile (2012 Remaster)](https://www.youtube.com/watch?v=O1-MUd0hGRE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Gentle Giant - Free Hand](https://www.discogs.com/release/19250605) |
+| Release Year   | 2021 |
+| Discogs Link   | [Gentle Giant - Free Hand](https://www.discogs.com/release/19250605-Gentle-Giant-Free-Hand) |
 | Label          | Alucard, Alucard |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | ALUGGV066, ALUGGV66 |
+
+Black vinyl release. Red vinyl pressing seen here [r19268482] White vinyl pressing seen here [r22115038]  Catalogue # on spine and sticker: ALUGGV066 Catalogue # on labels: ALUGGV66
 

@@ -1,14 +1,17 @@
 ---
 title: "David Gilmour - Live At Pompeii"
-album_artist: "David Gilmour"
-album_title: "Live At Pompeii"
+artist: "David Gilmour"
+album_name: "Live At Pompeii"
 date: 2017-09-29
 release_id: "10920062"
 slug: "live-at-pompeii-10920062"
+hideSummary: true
 cover:
     image: "live-at-pompeii-10920062.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At Pompeii by David Gilmour"
+    caption: "Live At Pompeii by David Gilmour"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [David Gilmour - In Any Tongue (Live At Pompeii)](https://www.youtube.com/watch?v=iOACn7v-_VI)
 - [David Gilmour - On An Island (Live At Pompeii)](https://www.youtube.com/watch?v=r49ehE3bU94)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [David Gilmour - Live At Pompeii](https://www.discogs.com/release/10920062) |
+| Release Year   | 2017 |
+| Discogs Link   | [David Gilmour - Live At Pompeii](https://www.discogs.com/release/10920062-David-Gilmour-Live-At-Pompeii) |
 | Label          | Columbia, Sony Music |
 | Format         | 4xLP, Album, 180 + Box |
 | Catalog Number | 88985464971 |
+
+Sticker - 88985464971 S1  David Gilmour The Voice & Guitar of Pink Floyd  Sticker - 88985464971 S2  4 LP Set 180 Gram Heavyweight Vinyl 2 Gatefold Jackets Polyliner inner bags 24-page photo booklet Heavyweight Slipcase  Made in the EU
 

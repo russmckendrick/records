@@ -1,14 +1,17 @@
 ---
 title: "a-ha - Hunting High And Low"
-album_artist: "a-ha"
-album_title: "Hunting High And Low"
+artist: "a-ha"
+album_name: "Hunting High And Low"
 date: 2018-08-17
 release_id: "12210337"
 slug: "hunting-high-and-low-12210337"
+hideSummary: true
 cover:
     image: "hunting-high-and-low-12210337.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Hunting High And Low by a-ha"
+    caption: "Hunting High And Low by a-ha"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [I Dream Myself Alive](https://www.youtube.com/watch?v=aUgkVW8L160)
 - [Here I Stand and Face the Rain](https://www.youtube.com/watch?v=jPk9FhbSexs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [a-ha - Hunting High And Low](https://www.discogs.com/release/12210337) |
+| Release Year   | 2018 |
+| Discogs Link   | [a-ha - Hunting High And Low](https://www.discogs.com/release/12210337-a-ha-Hunting-High-And-Low) |
 | Label          | Warner Bros. Records |
 | Format         | LP, Album, Ltd, RE, Cle |
 | Catalog Number | RCV1 25300 |
+
+140-gram clear vinyl - Limited edition of 8,000 copies.
 

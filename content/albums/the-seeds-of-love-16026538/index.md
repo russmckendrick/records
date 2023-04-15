@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - The Seeds Of Love"
-album_artist: "Tears For Fears"
-album_title: "The Seeds Of Love"
+artist: "Tears For Fears"
+album_name: "The Seeds Of Love"
 date: 2020-10-09
 release_id: "16026538"
 slug: "the-seeds-of-love-16026538"
+hideSummary: true
 cover:
     image: "the-seeds-of-love-16026538.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Seeds Of Love by Tears For Fears"
+    caption: "The Seeds Of Love by Tears For Fears"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -73,13 +76,16 @@ hideSummary: true
 - [Bad Man's Song (Medley / Reprise / Townhouse Live Jam Sessions)](https://www.youtube.com/watch?v=qOPoyzJRuV0)
 - [Standing On The Corner Of The Third World (Townhouse Live Jam Sessions)](https://www.youtube.com/watch?v=46GBfif2iFA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/16026538) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/16026538-Tears-For-Fears-The-Seeds-Of-Love) |
 | Label          | Mercury, Fontana |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 4770716 |
+
+ 
 

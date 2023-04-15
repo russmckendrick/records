@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend - Lightwork"
-album_artist: "Devin Townsend"
-album_title: "Lightwork"
+artist: "Devin Townsend"
+album_name: "Lightwork"
 date: 2022-11-02
 release_id: "24964213"
 slug: "lightwork-24964213"
+hideSummary: true
 cover:
     image: "lightwork-24964213.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lightwork by Devin Townsend"
+    caption: "Lightwork by Devin Townsend"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -86,13 +89,16 @@ hideSummary: true
 - [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
 - [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Devin Townsend - Lightwork](https://www.discogs.com/release/24964213) |
+| Release Year   | 2022 |
+| Discogs Link   | [Devin Townsend - Lightwork](https://www.discogs.com/release/24964213-Devin-Townsend-Lightwork) |
 | Label          | Inside Out Music, Sony Music, HevyDevy Records |
 | Format         | Box, Dlx, Ltd + 2xLP, Album, Ora + LP, Album, Ora  |
 | Catalog Number | IOM624, 19658724451 |
+
+
 

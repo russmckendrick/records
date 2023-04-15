@@ -1,14 +1,17 @@
 ---
 title: "Sharon Jones & The Dap-Kings - I Learned The Hard Way"
-album_artist: "Sharon Jones & The Dap-Kings"
-album_title: "I Learned The Hard Way"
+artist: "Sharon Jones & The Dap-Kings"
+album_name: "I Learned The Hard Way"
 date: 2017-02-11
 release_id: "2214427"
 slug: "i-learned-the-hard-way-2214427"
+hideSummary: true
 cover:
     image: "i-learned-the-hard-way-2214427.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "I Learned The Hard Way by Sharon Jones & The Dap-Kings"
+    caption: "I Learned The Hard Way by Sharon Jones & The Dap-Kings"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [If You Call](https://www.youtube.com/watch?v=XlenCIefJOM)
 - [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Sharon Jones & The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427) |
+| Release Year   | 2010 |
+| Discogs Link   | [Sharon Jones & The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427-Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way) |
 | Label          | Daptone Records |
 | Format         | LP, Album |
 | Catalog Number | DAP-019 |
+
+Jacket: Another BOSCO MANN Production. Labels: A BOSCO MANN Production.  Includes code for digital download (Digital download includes an additional song, "When I Come Home") Stereo compatible  Hype sticker affixed to shrink: The explosive and soulful next chapter in the captivating story of Sharon Jones, the Dap-Kings and Daptone Records. Includes coupon for MP3 download! [Daptone Records logo] "...gritty, credible, emotion-laden..." - Rolling Stone "...simply one of the most scorching outfits on the planet..." - MOJO  Barcode is a sticker affixed to shrink  Recorded to 8-Tracks at Daptone Records' House Of Soul.  Track A1: ASCAP, BMI Tracks A2 to A6, B2 to B6: BMI Track B1: ASCAP, SESAC
 

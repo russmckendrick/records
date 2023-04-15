@@ -1,14 +1,17 @@
 ---
 title: "Todd Rundgren - Faithful"
-album_artist: "Todd Rundgren"
-album_title: "Faithful"
+artist: "Todd Rundgren"
+album_name: "Faithful"
 date: 2022-03-06
 release_id: "1692998"
 slug: "faithful-1692998"
+hideSummary: true
 cover:
     image: "faithful-1692998.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Faithful by Todd Rundgren"
+    caption: "Faithful by Todd Rundgren"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="_d3JyvmT0Xg" title="T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Todd Rundgren - Faithful](https://www.discogs.com/release/1692998) |
+| Release Year   | 1976 |
+| Discogs Link   | [Todd Rundgren - Faithful](https://www.discogs.com/release/1692998-Todd-Rundgren-Faithful) |
 | Label          | Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K55510 |
+
+Textured sleeve with embossed letters on front cover. Plain cardboard inner sleeve with BR 6963 printed on. ℗ & © 1976 on back cover  B4 is misspelled 'Cliches' on label.
 

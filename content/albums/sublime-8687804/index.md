@@ -1,14 +1,17 @@
 ---
 title: "Sublime (2) - Sublime"
-album_artist: "Sublime (2)"
-album_title: "Sublime"
+artist: "Sublime (2)"
+album_name: "Sublime"
 date: 2016-09-29
 release_id: "8687804"
 slug: "sublime-8687804"
+hideSummary: true
 cover:
     image: "sublime-8687804.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sublime by Sublime (2)"
+    caption: "Sublime by Sublime (2)"
+genres: ["Rock"]
+styles: ["Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Sublime - Doin' Time (Official Video)](https://www.youtube.com/watch?v=2yT8RsCarJA)
 - [Sublime - Pawn Shop (Official Video)](https://www.youtube.com/watch?v=gAQ7fGXHFJ8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Sublime (2) - Sublime](https://www.discogs.com/release/8687804) |
+| Release Year   | 2016 |
+| Discogs Link   | [Sublime (2) - Sublime](https://www.discogs.com/release/8687804-Sublime-Sublime) |
 | Label          | Gasoline Alley Records, Skunk Records (2), Geffen Records, UMe |
 | Format         | 2xLP, Album, RE, RM, RTI |
 | Catalog Number | B0024679-01 |
+
+2016 LP reissue variant  Runouts indicate that the metal parts used for this pressing were processed by Record Technology, Inc.  Records housed in thick cardstock color graphics inner's. Gatefold sleeve
 

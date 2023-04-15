@@ -1,14 +1,17 @@
 ---
 title: "Gong - Radio Gnome Invisible Trilogy"
-album_artist: "Gong"
-album_title: "Radio Gnome Invisible Trilogy"
+artist: "Gong"
+album_name: "Radio Gnome Invisible Trilogy"
 date: 2017-07-11
 release_id: "7910537"
 slug: "radio-gnome-invisible-trilogy-7910537"
+hideSummary: true
 cover:
     image: "radio-gnome-invisible-trilogy-7910537.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Radio Gnome Invisible Trilogy by Gong"
+    caption: "Radio Gnome Invisible Trilogy by Gong"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [The Flying Teapot [Full Album]  1973](https://www.youtube.com/watch?v=8GWkSyHGL6U)
 - [Gong - Flying Teapot](https://www.youtube.com/watch?v=k2Yc9mHCwRI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Gong - Radio Gnome Invisible Trilogy](https://www.discogs.com/release/7910537) |
+| Release Year   | 2015 |
+| Discogs Link   | [Gong - Radio Gnome Invisible Trilogy](https://www.discogs.com/release/7910537-Gong-Radio-Gnome-Invisible-Trilogy) |
 | Label          | BYG Records, Charly Records |
 | Format         | Box, Comp, Ltd + LP, Album, RE, RM, 180 + LP, Albu |
 | Catalog Number | CHARLY L 178 |
+
+Gong - Radio Gnome Invisible Trilogy, 3LP box set collection, remastered audiophile edition  180 gram heavyweight audiophile vinyl LP's, mastered from the original tapes and cut pure-analogue to lacquers. Each one housed in a cardboard printed inner sleeve with original cover artwork.  The 3-LP Box Set features exclusive content including four rare and out-of-print promotional booklets full of Gong-founder Daevid Allen's illustrations, his complete trilogy narrative, lyrics and philosophy reproduced as facsimile editions together with a packed full-colour booklet that includes Daevid's original LP artwork, full band line-ups, credits, rare photos plus new, in-depth sleeve notes.  This Box Set is dedicated to the memory and ongoing legacy of [a=Daevid Allen]  "Flying Teapot" Recorded at The Manor, Shipton-On-Cherwell, Oxford, England Mixed at The Manor Additional mixing at Air Studios, London  Originally licensed from BYG Records for release in the UK and other territories by Virgin Records Limited during May 1973 ℗ 1973 BYG © 2015 Charly Acquisitions Ltd.  "Angels Egg" Produced by Gong under the direction of Giorgio Gomelsky and mixed at the Manor Studios, Oxfordshire Additional mixing at Advision Studios, London Editing at Island Studios, London  Originally licensed from BYG Records for release in the UK and other territories by Virgin Records Limited during December 1973 ℗ 1973 BYG © 2015 Charly Acquisitions Ltd.  "You" Produced by Simon Heyworth & Gong  Recorded at The Manor, Shipton-On-Cherwell, Osfordshire, England, Summer '74 Side One Mixed at Bye, Marble Arch, London Side Two Mixed at The Manor, Oxfordshire  Originally licensed from BYG Records for release in the UK and other territories by Virgin Records Limited during October 1974 ℗ 1974 BYG © 2015 Charly Acquisitions Ltd.  An Original BYG recording Licensed from LicenseMusic.com ApS. Courtesy of Charly Acquisitions Ltd.  This compilation: ℗ 2015 Charly Acquisitions Ltd. © 2015 Charly Acquisitions Ltd.  Made in Germany  Limited Edition Facsimile Booklets 1. A Pocket Introduction To The Planet Gong: distributed to the press and at Gong's first UK shows in 1971. 2. Radio Gnome Invisible: literally a handful were printed and found in some first pressings of 'Flying Teapot' and 'Angels Egg'. 3. You: planned to accompany the album but reduced to a 1-page LP insert. 4. What's Going On?: Gong philosophy (some of it!) and a lot more besides, originally published during 1979.
 

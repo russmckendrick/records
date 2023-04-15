@@ -1,14 +1,17 @@
 ---
 title: "Joe Walsh - \"But Seriously, Folks...\""
-album_artist: "Joe Walsh"
-album_title: "\"But Seriously, Folks...\""
+artist: "Joe Walsh"
+album_name: "\"But Seriously, Folks...\""
 date: 2020-08-02
 release_id: "1673433"
 slug: "but-seriously-folks-1673433"
+hideSummary: true
 cover:
     image: "but-seriously-folks-1673433.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "\"But Seriously, Folks...\" by Joe Walsh"
+    caption: "\"But Seriously, Folks...\" by Joe Walsh"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
 - [Joe Walsh - Life's Been Good](https://www.youtube.com/watch?v=BXWvKDSwvls)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Joe Walsh - \"But Seriously, Folks...\"](https://www.discogs.com/release/1673433) |
+| Release Year   | 1978 |
+| Discogs Link   | [Joe Walsh - \"But Seriously, Folks...\"](https://www.discogs.com/release/1673433-Joe-Walsh-But-Seriously-Folks) |
 | Label          | Asylum Records |
 | Format         | LP, Album, Gat |
 | Catalog Number | K 53081 |
+
+Mastered at Sterling Sound, N.Y.C. Recorded at Bayshore Recording Studios, Coconut Grove, Florida. Gatefold sleeve and printed inner sleeve ℗ 1978 Asylum Records © 1978 an Elektra/Asylum recording.
 

@@ -1,14 +1,17 @@
 ---
 title: "Coheed And Cambria - The Color Before The Sun"
-album_artist: "Coheed And Cambria"
-album_title: "The Color Before The Sun"
+artist: "Coheed And Cambria"
+album_name: "The Color Before The Sun"
 date: 2015-10-24
 release_id: "7603029"
 slug: "the-color-before-the-sun-7603029"
+hideSummary: true
 cover:
     image: "the-color-before-the-sun-7603029.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Color Before The Sun by Coheed And Cambria"
+    caption: "The Color Before The Sun by Coheed And Cambria"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Coheed And Cambria - The Color Before The Sun](https://www.discogs.com/release/7603029) |
+| Release Year   | 2015 |
+| Discogs Link   | [Coheed And Cambria - The Color Before The Sun](https://www.discogs.com/release/7603029-Coheed-And-Cambria-The-Color-Before-The-Sun) |
 | Label          | 300 Entertainment |
 | Format         | LP, Album + CD, Album, Promo |
 | Catalog Number | 551277-1 |
+
+Standard release on black vinyl. Includes album on CD in a paper sleeve. Parental Advisory sticker on outer shrink wrap
 

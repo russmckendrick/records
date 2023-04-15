@@ -1,14 +1,17 @@
 ---
 title: "Todd Rundgren - Initiation"
-album_artist: "Todd Rundgren"
-album_title: "Initiation"
+artist: "Todd Rundgren"
+album_name: "Initiation"
 date: 2022-03-06
 release_id: "13238761"
 slug: "initiation-13238761"
+hideSummary: true
 cover:
     image: "initiation-13238761.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Initiation by Todd Rundgren"
+    caption: "Initiation by Todd Rundgren"
+genres: ["Electronic", "Rock"]
+styles: ["Experimental"]
 ---
 
 ## Tracklisting
@@ -20,16 +23,17 @@ hideSummary: true
 6. Fair Warning (8:07)
 7. A Treatise On Cosmic Fire (36:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Todd Rundgren - Initiation](https://www.discogs.com/release/13238761) |
+| Release Year   | 1975 |
+| Discogs Link   | [Todd Rundgren - Initiation](https://www.discogs.com/release/13238761-Todd-Rundgren-Initiation) |
 | Label          | Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K 55504 |
+
+Lyrics printed on white board inner sleeve   Label states “Produced, Arranged & Mixed by Todd Rundgren” And then underneath “ISLAND MUSIC”  The back cover text and labels are different from the other UK 1975 release.
 

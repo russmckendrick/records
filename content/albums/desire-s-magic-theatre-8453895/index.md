@@ -1,14 +1,17 @@
 ---
 title: "Purson - Desire's Magic Theatre"
-album_artist: "Purson"
-album_title: "Desire's Magic Theatre"
+artist: "Purson"
+album_name: "Desire's Magic Theatre"
 date: 2016-04-29
 release_id: "8453895"
 slug: "desire-s-magic-theatre-8453895"
+hideSummary: true
 cover:
     image: "desire-s-magic-theatre-8453895.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Desire's Magic Theatre by Purson"
+    caption: "Desire's Magic Theatre by Purson"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="QygP9o9aO4s" title="Desire's Magic Theatre" >}}
 - [Purson - Desire’s Magic Theatre Full album](https://www.youtube.com/watch?v=JK6R94X01dI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Purson - Desire's Magic Theatre](https://www.discogs.com/release/8453895) |
+| Release Year   | 2016 |
+| Discogs Link   | [Purson - Desire's Magic Theatre](https://www.discogs.com/release/8453895-Purson-Desires-Magic-Theatre) |
 | Label          | Spinefarm Records |
 | Format         | LP, Album |
 | Catalog Number | 0602547711557 |
+
+Album has a sticker on shrinkwrap. Gatefold cover.
 

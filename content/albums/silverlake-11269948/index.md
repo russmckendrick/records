@@ -1,14 +1,17 @@
 ---
 title: "Pugwash (2) - Silverlake"
-album_artist: "Pugwash (2)"
-album_title: "Silverlake"
+artist: "Pugwash (2)"
+album_name: "Silverlake"
 date: 2018-01-04
 release_id: "11269948"
 slug: "silverlake-11269948"
+hideSummary: true
 cover:
     image: "silverlake-11269948.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Silverlake by Pugwash (2)"
+    caption: "Silverlake by Pugwash (2)"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Easier Done Than Said
 11. Autarch
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Pugwash (2) - Silverlake](https://www.discogs.com/release/11269948) |
+| Release Year   | 2017 |
+| Discogs Link   | [Pugwash (2) - Silverlake](https://www.discogs.com/release/11269948-Pugwash-Silverlake) |
 | Label          | Lojinx |
 | Format         | LP, Album |
 | Catalog Number | LJX111LP |
+
+Black vinyl.
 

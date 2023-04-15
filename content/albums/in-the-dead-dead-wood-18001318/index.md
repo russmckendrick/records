@@ -1,14 +1,17 @@
 ---
 title: "Vennart - In The Dead, Dead Wood"
-album_artist: "Vennart"
-album_title: "In The Dead, Dead Wood"
+artist: "Vennart"
+album_name: "In The Dead, Dead Wood"
 date: 2021-03-29
 release_id: "18001318"
 slug: "in-the-dead-dead-wood-18001318"
+hideSummary: true
 cover:
     image: "in-the-dead-dead-wood-18001318.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In The Dead, Dead Wood by Vennart"
+    caption: "In The Dead, Dead Wood by Vennart"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Vennart - In The Dead, Dead Wood](https://www.discogs.com/release/18001318) |
+| Release Year   | 2021 |
+| Discogs Link   | [Vennart - In The Dead, Dead Wood](https://www.discogs.com/release/18001318-Vennart-In-The-Dead-Dead-Wood) |
 | Label          | Not On Label (Vennart Self-released) |
 | Format         | LP, Album, Ltd, Cle |
 | Catalog Number | none |
+
+Limited to 300 copies. The sleeve features spot varnish artwork and the release comes with 8 Tarot cards. The cards have lyrics and credits on them and come in a white envelope that has a hand written excerpt from the lyrics on the front. No credits appear on the sleeve.
 

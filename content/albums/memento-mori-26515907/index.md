@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Memento Mori"
-album_artist: "Depeche Mode"
-album_title: "Memento Mori"
+artist: "Depeche Mode"
+album_name: "Memento Mori"
 date: 2023-04-03
 release_id: "26515907"
 slug: "memento-mori-26515907"
+hideSummary: true
 cover:
     image: "memento-mori-26515907.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Memento Mori by Depeche Mode"
+    caption: "Memento Mori by Depeche Mode"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Depeche Mode - Never Let Me Go (Official Audio)](https://www.youtube.com/watch?v=Hig8cPsPlRc)
 - [Depeche Mode - Speak To Me (Official Audio)](https://www.youtube.com/watch?v=9DH0XTSkZHU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Depeche Mode - Memento Mori](https://www.discogs.com/release/26515907) |
+| Release Year   | 2023 |
+| Discogs Link   | [Depeche Mode - Memento Mori](https://www.discogs.com/release/26515907-Depeche-Mode-Memento-Mori) |
 | Label          | Columbia, Sony Music |
 | Format         | LP, Red + LP, S/Sided, Etch, Red + Album, Ltd |
 | Catalog Number | 19658792641 |
+
+© & ℗ 2023 Venusnote Ltd., under exclusive license to Columbia Records, a Division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany Sony Music UK, 2 Canal Reach, Kings Cross, London, N1C 4DB, United Kingdom. Made in the EU.  [Publishing]: Tracks A1, B2, C1 to C3 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) Track A2 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc., Grabbing Hands Music Ltd., and EMI Music Publishing Ltd. (PRS) Tracks A3 to B1, B3 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) / Universal - Songs of PolyGram Int., Inc. (BMI) Track B4 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) Track C4 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) / WC Music Corp. (ASCAP) on behalf of Warner/Chappell Music Ltd. (PRS) / Marta Salogni Publishing Designee.  Recorded at Electric Ladyboy (Santa Barbara, CA) and Shangri-La (Malibu, CA) Shangri-La Studio Assistant: Gregg White Mixed at Studio Zona (London) Mastered at Metropolis Studios (London) Additional vocal recording at Blanco Studio (New York, NY) Design assistance for Antonymous BV  [On inner jacket] Andrew John Fletcher 1961 - 2022 'in our hearts and minds' dave & martin  [On hype sticker] Depeche Mode New album Memento Mori 2x 180g vinyl Limited Edition Opaque red vinyl 19658792641  Side D is etched with a floral arrangement and "est vere malus".  In runouts GZ Media and Memphis Records Pressing identifiers are stamped, the rest is etched.  Track times not given on release.  Comes in a trifold embossed sleeve with a poster. Some copies show both some transparency and translucency
 

@@ -1,14 +1,17 @@
 ---
 title: "Frequency Drift - Letters To Maro"
-album_artist: "Frequency Drift"
-album_title: "Letters To Maro"
+artist: "Frequency Drift"
+album_name: "Letters To Maro"
 date: 2018-11-10
 release_id: "11856237"
 slug: "letters-to-maro-11856237"
+hideSummary: true
 cover:
     image: "letters-to-maro-11856237.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Letters To Maro by Frequency Drift"
+    caption: "Letters To Maro by Frequency Drift"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Sleep Paralysis](https://www.youtube.com/watch?v=nHwBffb2F5A)
 - [Nine](https://www.youtube.com/watch?v=cW0xqaJJYQ4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Frequency Drift - Letters To Maro](https://www.discogs.com/release/11856237) |
+| Release Year   | 2018 |
+| Discogs Link   | [Frequency Drift - Letters To Maro](https://www.discogs.com/release/11856237-Frequency-Drift-Letters-To-Maro) |
 | Label          | Gentle Art Of Music |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | GAOM 056LP |
+
+Packaged in a gatefold jacket with lyrics printed inside, black LP sleeves, download coupon and hype sticker affixed to the shrink wrap on the front.
 

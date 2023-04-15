@@ -1,14 +1,17 @@
 ---
 title: "Big Star - In Space"
-album_artist: "Big Star"
-album_title: "In Space"
+artist: "Big Star"
+album_name: "In Space"
 date: 2021-07-31
 release_id: "14299811"
 slug: "in-space-14299811"
+hideSummary: true
 cover:
     image: "in-space-14299811.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In Space by Big Star"
+    caption: "In Space by Big Star"
+genres: ["Rock"]
+styles: ["Power Pop"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Big Star - February's Quiet](https://www.youtube.com/watch?v=Q5aFB_6re3M)
 - [BIG STAR - Hung Up With Summer](https://www.youtube.com/watch?v=UJAjnBNJ7jk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Big Star - In Space](https://www.discogs.com/release/14299811) |
+| Release Year   | 2019 |
+| Discogs Link   | [Big Star - In Space](https://www.discogs.com/release/14299811-Big-Star-In-Space) |
 | Label          | Omnivore Recordings |
 | Format         | LP, Album, RE, Blu |
 | Catalog Number | OVLP-338 |
+
+Pressed on Translucent Blue Vinyl. Includes Liner Notes From the Band & Other Contributors. 
 

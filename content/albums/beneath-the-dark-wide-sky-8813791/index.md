@@ -1,14 +1,17 @@
 ---
 title: "Dream The Electric Sleep - Beneath The Dark Wide Sky"
-album_artist: "Dream The Electric Sleep"
-album_title: "Beneath The Dark Wide Sky"
+artist: "Dream The Electric Sleep"
+album_name: "Beneath The Dark Wide Sky"
 date: 2016-11-17
 release_id: "8813791"
 slug: "beneath-the-dark-wide-sky-8813791"
+hideSummary: true
 cover:
     image: "beneath-the-dark-wide-sky-8813791.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Beneath The Dark Wide Sky by Dream The Electric Sleep"
+    caption: "Beneath The Dark Wide Sky by Dream The Electric Sleep"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 {{< youtube id="fjo9bj0A-Qc" title="All Good Things" >}}
 - [Drift](https://www.youtube.com/watch?v=Ck-J8hWeqJY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Dream The Electric Sleep - Beneath The Dark Wide Sky](https://www.discogs.com/release/8813791) |
+| Release Year   | 2016 |
+| Discogs Link   | [Dream The Electric Sleep - Beneath The Dark Wide Sky](https://www.discogs.com/release/8813791-Dream-The-Electric-Sleep-Beneath-The-Dark-Wide-Sky) |
 | Label          | Mutiny Records (2) |
 | Format         | 2x12\", Album, Ltd, Sil + CD, Album |
 | Catalog Number | OMN16155 |
+
+Gatefold sleeve with sticker.
 

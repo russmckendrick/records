@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - VH1 Storytellers"
-album_artist: "David Bowie"
-album_title: "VH1 Storytellers"
+artist: "David Bowie"
+album_name: "VH1 Storytellers"
 date: 2019-10-11
 release_id: "14223932"
 slug: "vh1-storytellers-14223932"
+hideSummary: true
 cover:
     image: "vh1-storytellers-14223932.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "VH1 Storytellers by David Bowie"
+    caption: "VH1 Storytellers by David Bowie"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Always Crashing In The Same Car
 13. If I'm Dreaming My Life
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [David Bowie - VH1 Storytellers](https://www.discogs.com/release/14223932) |
+| Release Year   | 2019 |
+| Discogs Link   | [David Bowie - VH1 Storytellers](https://www.discogs.com/release/14223932-David-Bowie-VH1-Storytellers) |
 | Label          | Parlophone, Parlophone |
 | Format         | 2xLP, Album, Ltd, RE |
 | Catalog Number | DBVH1 9919, 0190295474096 |
+
+Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.  Recorded at Manhattan Center, New York, NY 23rd August, 1999.  ℗ 2009 © 2019  Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"  
 

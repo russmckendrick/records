@@ -1,14 +1,17 @@
 ---
 title: "Grandaddy - Under The Western Freeway 20th Anniversary Edition"
-album_artist: "Grandaddy"
-album_title: "Under The Western Freeway 20th Anniversary Edition"
+artist: "Grandaddy"
+album_name: "Under The Western Freeway 20th Anniversary Edition"
 date: 2017-10-27
 release_id: "11028998"
 slug: "under-the-western-freeway-20th-anniversary-edition-11028998"
+hideSummary: true
 cover:
     image: "under-the-western-freeway-20th-anniversary-edition-11028998.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Under The Western Freeway 20th Anniversary Edition by Grandaddy"
+    caption: "Under The Western Freeway 20th Anniversary Edition by Grandaddy"
+genres: ["Rock"]
+styles: ["Lo-Fi", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Grandaddy - Why took your advice + Lawn and so on](https://www.youtube.com/watch?v=8nAokLLLvr0)
 - [Best Of 90's - 1Album/1Song - Grandaddy Under The Western Freeway/AM180](https://www.youtube.com/watch?v=rUKM-1x0mVg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Grandaddy - Under The Western Freeway 20th Anniversary Edition](https://www.discogs.com/release/11028998) |
+| Release Year   | 2017 |
+| Discogs Link   | [Grandaddy - Under The Western Freeway 20th Anniversary Edition](https://www.discogs.com/release/11028998-Grandaddy-Under-The-Western-Freeway-20th-Anniversary-Edition) |
 | Label          | Friendship Fever |
 | Format         | LP, Album, RE, Yel + LP, Blu |
 | Catalog Number | FVRLP012 |
+
+Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet. Disc 2 mastered at Wave Parade Studio.  The first 250 orders got a special bundle [r=11060713].  Tracklisting ascends numerically regardless of disc side.  Pressing credit identified in runout stampings.
 

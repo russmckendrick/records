@@ -1,14 +1,17 @@
 ---
 title: "Marillion - A Sunday Night Above The Rain"
-album_artist: "Marillion"
-album_title: "A Sunday Night Above The Rain"
+artist: "Marillion"
+album_name: "A Sunday Night Above The Rain"
 date: 2021-11-02
 release_id: "5864102"
 slug: "a-sunday-night-above-the-rain-5864102"
+hideSummary: true
 cover:
     image: "a-sunday-night-above-the-rain-5864102.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Sunday Night Above The Rain by Marillion"
+    caption: "A Sunday Night Above The Rain by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Marillion - Sounds That Can't Be Made (Live in Holland 2013)](https://www.youtube.com/watch?v=2SUB-iReAB4)
 - [Marillion - Montreal (Live in Holland 2013)](https://www.youtube.com/watch?v=567P9ZD2iuc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Marillion - A Sunday Night Above The Rain](https://www.discogs.com/release/5864102) |
+| Release Year   | 2014 |
+| Discogs Link   | [Marillion - A Sunday Night Above The Rain](https://www.discogs.com/release/5864102-Marillion-A-Sunday-Night-Above-The-Rain) |
 | Label          | Ear Music |
 | Format         | 3xLP, Album, 180 |
 | Catalog Number | 0209657ERE |
+
+Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.  ℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.  Made in Germany.  comes in a gatefold cover
 

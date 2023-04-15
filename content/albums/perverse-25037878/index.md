@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Perverse"
-album_artist: "Jesus Jones"
-album_title: "Perverse"
+artist: "Jesus Jones"
+album_name: "Perverse"
 date: 2022-11-03
 release_id: "25037878"
 slug: "perverse-25037878"
+hideSummary: true
 cover:
     image: "perverse-25037878.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Perverse by Jesus Jones"
+    caption: "Perverse by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
 - [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Perverse](https://www.discogs.com/release/25037878) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Perverse](https://www.discogs.com/release/25037878-Jesus-Jones-Perverse) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Tra |
 | Catalog Number | DEMREC954 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Goldfrapp - Supernature"
-album_artist: "Goldfrapp"
-album_title: "Supernature"
+artist: "Goldfrapp"
+album_name: "Supernature"
 date: 2021-04-01
 release_id: "15380160"
 slug: "supernature-15380160"
+hideSummary: true
 cover:
     image: "supernature-15380160.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Supernature by Goldfrapp"
+    caption: "Supernature by Goldfrapp"
+genres: ["Electronic", "Pop"]
+styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Goldfrapp - Ride A White Horse](https://www.youtube.com/watch?v=nFF8bubMc40)
 - [Goldfrapp - Ooh La La](https://www.youtube.com/watch?v=uco-2V4ytYQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Goldfrapp - Supernature](https://www.discogs.com/release/15380160) |
+| Release Year   | 2020 |
+| Discogs Link   | [Goldfrapp - Supernature](https://www.discogs.com/release/15380160-Goldfrapp-Supernature) |
 | Label          | Mute |
 | Format         | LP, Album, Ltd, RE, S/Edition, Gre |
 | Catalog Number | GSTUMM250 |
+
+On hype sticker: "SUPERNATURE GATEFOLD SPECIAL EDITION TRANSLUCENT GREEN VINYL WITH EXCLUSIVE ART PRINT INCLUDES THE SINGLES: OOH LA LA NUMBER1 RIDE A WHITE HORSE AND FLY ME AWAY GSTUMM250"  ℗ 2020 Mute Records Limited, a BMG Company © 2005 Mute Records Limited, a BMG Company  Made in the EU  Amazon.it were distributing copies from 15/5/20 even though their website advises release date is 14/8/20.  Includes exclusive art print of the original artwork.
 

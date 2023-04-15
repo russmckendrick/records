@@ -1,14 +1,17 @@
 ---
 title: "Thin Lizzy - Greatest Hits"
-album_artist: "Thin Lizzy"
-album_title: "Greatest Hits"
+artist: "Thin Lizzy"
+album_name: "Greatest Hits"
 date: 2021-08-01
 release_id: "19396810"
 slug: "greatest-hits-19396810"
+hideSummary: true
 cover:
     image: "greatest-hits-19396810.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hits by Thin Lizzy"
+    caption: "Greatest Hits by Thin Lizzy"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -35,16 +38,17 @@ hideSummary: true
 21. Cold Sweat
 22. Wild One
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Thin Lizzy - Greatest Hits](https://www.discogs.com/release/19396810) |
+| Release Year   | 2021 |
+| Discogs Link   | [Thin Lizzy - Greatest Hits](https://www.discogs.com/release/19396810-Thin-Lizzy-Greatest-Hits) |
 | Label          | UMC, Mercury |
 | Format         | 2xLP, Comp, RE |
 | Catalog Number | 3559306 |
+
+Embossed gatefold sleeve.
 

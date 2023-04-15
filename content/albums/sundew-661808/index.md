@@ -1,14 +1,17 @@
 ---
 title: "Paris Angels - Sundew"
-album_artist: "Paris Angels"
-album_title: "Sundew"
+artist: "Paris Angels"
+album_name: "Sundew"
 date: 2016-04-04
 release_id: "661808"
 slug: "sundew-661808"
+hideSummary: true
 cover:
     image: "sundew-661808.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Sundew by Paris Angels"
+    caption: "Sundew by Paris Angels"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Paris Angels - Chaos (Stupid Stupid)](https://www.youtube.com/watch?v=5nP9We7LcxA)
 - [Paris Angels - Purest Values (Audio)](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Paris Angels - Sundew](https://www.discogs.com/release/661808) |
+| Release Year   | 1991 |
+| Discogs Link   | [Paris Angels - Sundew](https://www.discogs.com/release/661808-Paris-Angels-Sundew) |
 | Label          | Virgin, Sheer Joy |
 | Format         | LP, Album |
 | Catalog Number | V 2667, 211 915 |
+
+Laminated cover Inner sleeve with photo and credits  [Label] Manufactured by the UK
 

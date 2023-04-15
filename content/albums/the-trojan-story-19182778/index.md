@@ -1,14 +1,17 @@
 ---
 title: "Various - The Trojan Story"
-album_artist: "Various"
-album_title: "The Trojan Story"
+artist: "Various"
+album_name: "The Trojan Story"
 date: 2021-07-28
 release_id: "19182778"
 slug: "the-trojan-story-19182778"
+hideSummary: true
 cover:
     image: "the-trojan-story-19182778.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "The Trojan Story by Various"
+    caption: "The Trojan Story by Various"
+genres: ["Reggae"]
+styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
 ## Tracklisting
@@ -95,13 +98,16 @@ hideSummary: true
 - [THE TENNORS ~ I've Got To Get You Off My Mind](https://www.youtube.com/watch?v=pJF4cDQf0E8)
 - [THE MAYTALS ~ Do The Reggay](https://www.youtube.com/watch?v=x4KXyyU8lzc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Various - The Trojan Story](https://www.discogs.com/release/19182778) |
+| Release Year   | 2021 |
+| Discogs Link   | [Various - The Trojan Story](https://www.discogs.com/release/19182778-Various-The-Trojan-Story) |
 | Label          | Trojan Records |
 | Format         | 3xLP, Comp, RE, 50t |
 | Catalog Number | TJBOX009 |
+
+3LPs + 50 page booklet in a hardbacked book packaging. The records are housed in the book, no seperate covers.  Alternate track listing to the original 1971 compilation.  50 years following its original release, this hugely influential album has been revisited by Bell, along with reggae musician, Rusty Zinn, who have succeeded in improving what was already an almost perfect collection.  Presented in the original eye-catching artwork, the set is further enhanced by a highly illustrated 50-page booklet in which Bell relates the stories behind the release and the 50 tracks featured on the compilation.  Original 1971 sleeve note:  "The master tapes for many of the tracks have either deteriorated or been lost, resulting in several dubs from disc. We have endeavoured to clean up the surface noise wherever possible, but please excuse any slight noise remaining".
 

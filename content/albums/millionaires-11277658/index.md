@@ -1,14 +1,17 @@
 ---
 title: "James - Millionaires"
-album_artist: "James"
-album_title: "Millionaires"
+artist: "James"
+album_name: "Millionaires"
 date: 2017-12-17
 release_id: "11277658"
 slug: "millionaires-11277658"
+hideSummary: true
 cover:
     image: "millionaires-11277658.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Millionaires by James"
+    caption: "Millionaires by James"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [James - Hello (live)](https://www.youtube.com/watch?v=hhOHnCqpmCg)
 - [JAMES - STRANGERS - legendado](https://www.youtube.com/watch?v=XYlcPuru_wU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [James - Millionaires](https://www.discogs.com/release/11277658) |
+| Release Year   | 2017 |
+| Discogs Link   | [James - Millionaires](https://www.discogs.com/release/11277658-James-Millionaires) |
 | Label          | Fontana, Mercury, UMC, Fontana, Mercury, UMC |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 5712914, 571 291-4 |
+
+Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.  The hype sticker reads:  James Millionaires Never before on Vinyl 'Millionaires' over 2 x 180G Heavyweight Vinyl LPs Includes the single '[m=3524]'  [a42895] appears courtesy of Atlantic Recording Corporation.  Outer sleeve: ℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company. Made in the E.U.  Inner sleeve: ℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company.
 

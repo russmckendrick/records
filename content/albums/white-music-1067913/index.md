@@ -1,14 +1,17 @@
 ---
 title: "XTC - White Music"
-album_artist: "XTC"
-album_title: "White Music"
+artist: "XTC"
+album_name: "White Music"
 date: 2020-08-02
 release_id: "1067913"
 slug: "white-music-1067913"
+hideSummary: true
 cover:
     image: "white-music-1067913.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "White Music by XTC"
+    caption: "White Music by XTC"
+genres: ["Rock"]
+styles: ["New Wave", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Into The Atom Age (2001 Remaster)](https://www.youtube.com/watch?v=3G7leRPG9-0)
 - [XTC - Radios In Motion](https://www.youtube.com/watch?v=20iFxRUoOVA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [XTC - White Music](https://www.discogs.com/release/1067913) |
+| Release Year   | 1978 |
+| Discogs Link   | [XTC - White Music](https://www.discogs.com/release/1067913-XTC-White-Music) |
 | Label          | Virgin, Virgin |
 | Format         | LP, Album |
 | Catalog Number | V 2095, V2095 |
+
+Some tracks have alternate, shorter titles given on the back sleeve: A2: X Wires B1: Atom Age B2: Set Myself On Fire B4: New Town Animal  Virgin Records, Vernon Yard, Portobello Road, London W11.  Recorded at The Manor, Mixed at The Manor & Advision.  Made in England  Cat.# V2095 on the rear and spine of the sleeve. Cat.# V 2095 on the labels. © 1977 Virgin Music (Publishers) Ltd exc. A6, B. Feldman & Co Ltd
 

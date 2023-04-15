@@ -1,14 +1,17 @@
 ---
 title: "Roxette - Joyride"
-album_artist: "Roxette"
-album_title: "Joyride"
+artist: "Roxette"
+album_name: "Joyride"
 date: 2016-02-29
 release_id: "3178939"
 slug: "joyride-3178939"
+hideSummary: true
 cover:
     image: "joyride-3178939.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Joyride by Roxette"
+    caption: "Joyride by Roxette"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Love Spins (T & A demo 3 Jan, 1990)](https://www.youtube.com/watch?v=0hxI5DPO1hQ)
 - [Seduce Me (T & A Demo Aug 22, 1990)](https://www.youtube.com/watch?v=k7jjyd5Ej-E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Roxette - Joyride](https://www.discogs.com/release/3178939) |
+| Release Year   | 1991 |
+| Discogs Link   | [Roxette - Joyride](https://www.discogs.com/release/3178939-Roxette-Joyride) |
 | Label          | EMI |
 | Format         | LP, Album |
 | Catalog Number | EMD 1019 |
+
+Inner sleeve with lyrics Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is) 
 

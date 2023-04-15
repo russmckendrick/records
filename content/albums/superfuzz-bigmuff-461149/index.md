@@ -1,14 +1,17 @@
 ---
 title: "Mudhoney - Superfuzz Bigmuff"
-album_artist: "Mudhoney"
-album_title: "Superfuzz Bigmuff"
+artist: "Mudhoney"
+album_name: "Superfuzz Bigmuff"
 date: 2019-08-23
 release_id: "461149"
 slug: "superfuzz-bigmuff-461149"
+hideSummary: true
 cover:
     image: "superfuzz-bigmuff-461149.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Superfuzz Bigmuff by Mudhoney"
+    caption: "Superfuzz Bigmuff by Mudhoney"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [If I Think](https://www.youtube.com/watch?v=TDnCLWgCdk0)
 - [In 'n' Out of Grace](https://www.youtube.com/watch?v=LYKAXJC1Lkk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Mudhoney - Superfuzz Bigmuff](https://www.discogs.com/release/461149) |
+| Release Year   | 1988 |
+| Discogs Link   | [Mudhoney - Superfuzz Bigmuff](https://www.discogs.com/release/461149-Mudhoney-Superfuzz-Bigmuff) |
 | Label          | Glitterhouse Records |
 | Format         | 12\", EP |
 | Catalog Number | GR 0034 |
+
+Recorded at Reciprocal.  Manufactured under license from Sub Pop Records, USA.  Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".  The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype. 
 

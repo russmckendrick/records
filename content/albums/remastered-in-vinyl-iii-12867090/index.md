@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - Remastered In Vinyl III"
-album_artist: "Kate Bush"
-album_title: "Remastered In Vinyl III"
+artist: "Kate Bush"
+album_name: "Remastered In Vinyl III"
 date: 2018-11-30
 release_id: "12867090"
 slug: "remastered-in-vinyl-iii-12867090"
+hideSummary: true
 cover:
     image: "remastered-in-vinyl-iii-12867090.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Remastered In Vinyl III by Kate Bush"
+    caption: "Remastered In Vinyl III by Kate Bush"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -36,16 +39,17 @@ hideSummary: true
 22. 50 Words For Snow
 23. Among Angels
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kate Bush - Remastered In Vinyl III](https://www.discogs.com/release/12867090) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kate Bush - Remastered In Vinyl III](https://www.discogs.com/release/12867090-Kate-Bush-Remastered-In-Vinyl-III) |
 | Label          | Fish People |
 | Format         | 2xLP, Album, RE, RM + 2xLP, Album, RE, RM + 2xLP,  |
 | Catalog Number | 0190295593933 |
+
+
 

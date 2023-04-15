@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Phantom Birds"
-album_artist: "Matt Berry (3)"
-album_title: "Phantom Birds"
+artist: "Matt Berry (3)"
+album_name: "Phantom Birds"
 date: 2020-09-18
 release_id: "15930943"
 slug: "phantom-birds-15930943"
+hideSummary: true
 cover:
     image: "phantom-birds-15930943.jpg"
-tags: ["Jazz", "Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "Phantom Birds by Matt Berry (3)"
+    caption: "Phantom Birds by Matt Berry (3)"
+genres: ["Jazz", "Funk / Soul", "Blues"]
+styles: ["Psychedelic", "Easy Listening"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Waving Goodbye](https://www.youtube.com/watch?v=RztchZ6f3Oo)
 - [Covered In Clowns](https://www.youtube.com/watch?v=OZFsqfN49Dc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Matt Berry (3) - Phantom Birds](https://www.discogs.com/release/15930943) |
+| Release Year   | 2020 |
+| Discogs Link   | [Matt Berry (3) - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-Phantom-Birds) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Ltd, Bon |
 | Catalog Number | AJXLP536B |
+
+Limited edition, first release on bone coloured vinyl. Initial copies that were preodered had the option to be signed by Matt himself.
 

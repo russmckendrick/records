@@ -1,14 +1,17 @@
 ---
 title: "Pulp - His 'N' Hers"
-album_artist: "Pulp"
-album_title: "His 'N' Hers"
+artist: "Pulp"
+album_name: "His 'N' Hers"
 date: 2016-06-22
 release_id: "8669493"
 slug: "his-n-hers-8669493"
+hideSummary: true
 cover:
     image: "his-n-hers-8669493.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "His 'N' Hers by Pulp"
+    caption: "His 'N' Hers by Pulp"
+genres: ["Rock", "Pop"]
+styles: ["Britpop"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Pulp - David's Last Summer](https://www.youtube.com/watch?v=1ir1Ib3Tbdw)
 - [Pulp - Someone Like The Moon](https://www.youtube.com/watch?v=3bzX8OG2nZc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pulp - His 'N' Hers](https://www.discogs.com/release/8669493) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pulp - His 'N' Hers](https://www.discogs.com/release/8669493-Pulp-His-N-Hers) |
 | Label          | Island Records, Universal |
 | Format         | LP, Album, RE |
 | Catalog Number | 4785292 |
+
+An initial run of copies of this release were exclusively sold on [l11249] stores (those copies have an "HMV exclusive" sticker placed on shrink).   Released with lyrics / credits printed on a glossy liner.  ℗ 1994 except track 2 ℗ 1993 & track 5 ℗ 1992 Island Records Ltd. © 2016 Universal-Island Records Ltd 
 

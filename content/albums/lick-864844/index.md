@@ -1,14 +1,17 @@
 ---
 title: "The Lemonheads - Lick"
-album_artist: "The Lemonheads"
-album_title: "Lick"
+artist: "The Lemonheads"
+album_name: "Lick"
 date: 2020-08-02
 release_id: "864844"
 slug: "lick-864844"
+hideSummary: true
 cover:
     image: "lick-864844.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lick by The Lemonheads"
+    caption: "Lick by The Lemonheads"
+genres: ["Rock"]
+styles: ["Punk", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Glad I Dont Know](https://www.youtube.com/watch?v=ux4Uo9uCrPU)
 - [I Am a Rabbit- The Lemonheads](https://www.youtube.com/watch?v=t6rQgNS01x4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [The Lemonheads - Lick](https://www.discogs.com/release/864844) |
+| Release Year   | 1989 |
+| Discogs Link   | [The Lemonheads - Lick](https://www.discogs.com/release/864844-Lemonheads-Lick) |
 | Label          | World Service |
 | Format         | LP, Album |
 | Catalog Number | SERV 007 |
+
+© 1988 Ray Burr Music, Inc. Issued under license ℗ 1989 World Service.  Sad Girl (1/87) Ever (8/86)   Made in England   Distribution: UK - Rough Trade/Cartel                   BENELUX - Rough Trade B.V.                    W. Germany - Rough Trade G.M.B.H. 
 

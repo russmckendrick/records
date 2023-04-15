@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "Orchestral Manoeuvres In The Dark"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "Orchestral Manoeuvres In The Dark"
 date: 2018-11-03
 release_id: "12748287"
 slug: "orchestral-manoeuvres-in-the-dark-12748287"
+hideSummary: true
 cover:
     image: "orchestral-manoeuvres-in-the-dark-12748287.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Orchestral Manoeuvres In The Dark by Orchestral Manoeuvres In The Dark"
+    caption: "Orchestral Manoeuvres In The Dark by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Electricity (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=n2-RNug1XoI)
 - [Almost (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=e9LDb3bgq3c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark](https://www.discogs.com/release/12748287) |
+| Release Year   | 2018 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark](https://www.discogs.com/release/12748287-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark) |
 | Label          | Virgin EMI Records |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 602557050806 |
+
+Half speed mastered at Abbey Road Studios. Includes digital download card.
 

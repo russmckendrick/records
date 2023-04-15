@@ -1,14 +1,17 @@
 ---
 title: "Thumpermonkey - Make Me Young, etc. "
-album_artist: "Thumpermonkey"
-album_title: "Make Me Young, etc. "
+artist: "Thumpermonkey"
+album_name: "Make Me Young, etc. "
 date: 2018-11-06
 release_id: "12765567"
 slug: "make-me-young-etc-12765567"
+hideSummary: true
 cover:
     image: "make-me-young-etc-12765567.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Make Me Young, etc.  by Thumpermonkey"
+    caption: "Make Me Young, etc.  by Thumpermonkey"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Figstorm](https://www.youtube.com/watch?v=bez5Jd96Xa4)
 - [Tempe Terra](https://www.youtube.com/watch?v=rtEqRFXhTBM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Thumpermonkey - Make Me Young, etc. ](https://www.discogs.com/release/12765567) |
+| Release Year   | 2018 |
+| Discogs Link   | [Thumpermonkey - Make Me Young, etc. ](https://www.discogs.com/release/12765567-Thumpermonkey-Make-Me-Young-etc-) |
 | Label          | Rockosmos |
 | Format         | LP, Album |
 | Catalog Number | n.a. |
+
+
 

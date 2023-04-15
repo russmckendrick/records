@@ -1,14 +1,17 @@
 ---
 title: "Small Faces - Greatest Hits The Immediate Years 1967 - 1969"
-album_artist: "Small Faces"
-album_title: "Greatest Hits The Immediate Years 1967 - 1969"
+artist: "Small Faces"
+album_name: "Greatest Hits The Immediate Years 1967 - 1969"
 date: 2017-09-15
 release_id: "6585325"
 slug: "greatest-hits-the-immediate-years-1967-1969-6585325"
+hideSummary: true
 cover:
     image: "greatest-hits-the-immediate-years-1967-1969-6585325.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hits The Immediate Years 1967 - 1969 by Small Faces"
+    caption: "Greatest Hits The Immediate Years 1967 - 1969 by Small Faces"
+genres: ["Rock"]
+styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [The Universal (2013 Remaster)](https://www.youtube.com/watch?v=abAt2vXSeHI)
 - [The Journey (2013 Remaster)](https://www.youtube.com/watch?v=Q1yKurfmu60)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Small Faces - Greatest Hits The Immediate Years 1967 - 1969](https://www.discogs.com/release/6585325) |
+| Release Year   | 2014 |
+| Discogs Link   | [Small Faces - Greatest Hits The Immediate Years 1967 - 1969](https://www.discogs.com/release/6585325-Small-Faces-Greatest-Hits-The-Immediate-Years-1967-1969) |
 | Label          | Charly Records, Immediate Records |
 | Format         | LP, Comp, Mono, RM |
 | Catalog Number | CHARLY L 126 |
+
+'Small Faces Greatest Hits - The Immediate Years 1967 - 1969' vinyl edition was cut by Matt Colton on a Neumann VMS 80 mastering lathe modified by Crispin Murray, with nothing else in the signal path between the source material and the lacquer. The cutting session on 6 November 2013 was conducted under the supervision of Kenney Jones & Small Faces reissue series producer Rob Caiger.  2014 Black Vinyl Issue
 

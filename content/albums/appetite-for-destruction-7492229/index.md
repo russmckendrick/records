@@ -1,14 +1,17 @@
 ---
 title: "Guns N' Roses - Appetite For Destruction"
-album_artist: "Guns N' Roses"
-album_title: "Appetite For Destruction"
+artist: "Guns N' Roses"
+album_name: "Appetite For Destruction"
 date: 2016-05-18
 release_id: "7492229"
 slug: "appetite-for-destruction-7492229"
+hideSummary: true
 cover:
     image: "appetite-for-destruction-7492229.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Appetite For Destruction by Guns N' Roses"
+    caption: "Appetite For Destruction by Guns N' Roses"
+genres: ["Rock"]
+styles: ["Hard Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="_0fJo8niR5M" title="Guns N Roses  Appetite for Destruction 1987  Full Album" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Guns N' Roses - Appetite For Destruction](https://www.discogs.com/release/7492229) |
+| Release Year   | 2015 |
+| Discogs Link   | [Guns N' Roses - Appetite For Destruction](https://www.discogs.com/release/7492229-Guns-N-Roses-Appetite-For-Destruction) |
 | Label          | Geffen Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00720642414811 |
+
+Made in the EU. Universal International Music BVGerrit van der veenlaan4, 3743 DN, Baarn, Netherlands.  Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it.  A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040]
 

@@ -1,14 +1,17 @@
 ---
 title: "Little Angels - Too Posh To Mosh, Too Good To Last!"
-album_artist: "Little Angels"
-album_title: "Too Posh To Mosh, Too Good To Last!"
+artist: "Little Angels"
+album_name: "Too Posh To Mosh, Too Good To Last!"
 date: 2016-04-15
 release_id: "3205048"
 slug: "too-posh-to-mosh-too-good-to-last-3205048"
+hideSummary: true
 cover:
     image: "too-posh-to-mosh-too-good-to-last-3205048.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Too Posh To Mosh, Too Good To Last! by Little Angels"
+    caption: "Too Posh To Mosh, Too Good To Last! by Little Angels"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Too Posh To Mosh
 11. Some Kind Of Alien
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Little Angels - Too Posh To Mosh, Too Good To Last!](https://www.discogs.com/release/3205048) |
+| Release Year   | 1994 |
+| Discogs Link   | [Little Angels - Too Posh To Mosh, Too Good To Last!](https://www.discogs.com/release/3205048-Little-Angels-Too-Posh-To-Mosh-Too-Good-To-Last) |
 | Label          | Essential! Records, Castle Communications PLC |
 | Format         | LP, Album, Ltd |
 | Catalog Number | ESS LP 213 |
+
+'Classic Little Angels' Collectors Item 5000 Limited Edition  Runout is etched "Pressed by" is denoted in the runout
 

@@ -1,14 +1,17 @@
 ---
 title: "Valerie June - The Order Of Time"
-album_artist: "Valerie June"
-album_title: "The Order Of Time"
+artist: "Valerie June"
+album_name: "The Order Of Time"
 date: 2017-03-18
 release_id: "9969829"
 slug: "the-order-of-time-9969829"
+hideSummary: true
 cover:
     image: "the-order-of-time-9969829.jpg"
-tags: ["Funk / Soul", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Order Of Time by Valerie June"
+    caption: "The Order Of Time by Valerie June"
+genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
+styles: ["Gospel", "Folk"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Valerie June - Got Soul (Radio Edit)](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
 - [Valerie June - Two Hearts](https://www.youtube.com/watch?v=HFFi4v2wq_8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Valerie June - The Order Of Time](https://www.discogs.com/release/9969829) |
+| Release Year   | 2017 |
+| Discogs Link   | [Valerie June - The Order Of Time](https://www.discogs.com/release/9969829-Valerie-June-The-Order-Of-Time) |
 | Label          | Concord Records |
 | Format         | LP, Album |
 | Catalog Number | CRE00209 |
+
+Norah Jones appears courtesy of [l=Blue Note Records].  Includes a download code on a card.
 

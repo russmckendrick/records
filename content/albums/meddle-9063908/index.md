@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Meddle"
-album_artist: "Pink Floyd"
-album_title: "Meddle"
+artist: "Pink Floyd"
+album_name: "Meddle"
 date: 2016-09-23
 release_id: "9063908"
 slug: "meddle-9063908"
+hideSummary: true
 cover:
     image: "meddle-9063908.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Meddle by Pink Floyd"
+    caption: "Meddle by Pink Floyd"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 ---
 
 ## Tracklisting
@@ -19,16 +22,17 @@ hideSummary: true
 5. Seamus
 6. Echoes
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - Meddle](https://www.discogs.com/release/9063908) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - Meddle](https://www.discogs.com/release/9063908-Pink-Floyd-Meddle) |
 | Label          | Pink Floyd Records, Pink Floyd Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP6, 0190295997076 |
+
+℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.  Hype sticker: The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1971 Made and printed in the E.U. www.pinkfloyd.com  Fully textured sleeve. "Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II). Track durations are not given on this release.  The US release can be found [here](http://www.discogs.com/release/9092521)  Runouts are etched: "16909 1A" and "16909 1B" are stamped.
 

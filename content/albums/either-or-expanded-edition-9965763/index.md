@@ -1,14 +1,17 @@
 ---
 title: "Elliott Smith - Either / Or: Expanded Edition"
-album_artist: "Elliott Smith"
-album_title: "Either / Or: Expanded Edition"
+artist: "Elliott Smith"
+album_name: "Either / Or: Expanded Edition"
 date: 2017-05-16
 release_id: "9965763"
 slug: "either-or-expanded-edition-9965763"
+hideSummary: true
 cover:
     image: "either-or-expanded-edition-9965763.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Either / Or: Expanded Edition by Elliott Smith"
+    caption: "Either / Or: Expanded Edition by Elliott Smith"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Elliott Smith - 2:45 AM (from Either/Or)](https://www.youtube.com/watch?v=FGKoJVXG98g)
 - [Elliott Smith - Say Yes (from Either/Or)](https://www.youtube.com/watch?v=8bxmk09lCzk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Elliott Smith - Either / Or: Expanded Edition](https://www.discogs.com/release/9965763) |
+| Release Year   | 2017 |
+| Discogs Link   | [Elliott Smith - Either / Or: Expanded Edition](https://www.discogs.com/release/9965763-Elliott-Smith-Either-Or-Expanded-Edition) |
 | Label          | Kill Rock Stars |
 | Format         | 2xLP, Album, Ltd, RE, RM |
 | Catalog Number | KRS620 |
+
+Black vinyl version.
 

@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Animals (2018 Remix)"
-album_artist: "Pink Floyd"
-album_title: "Animals (2018 Remix)"
+artist: "Pink Floyd"
+album_name: "Animals (2018 Remix)"
 date: 2022-10-07
 release_id: "24735206"
 slug: "animals-2018-remix-24735206"
+hideSummary: true
 cover:
     image: "animals-2018-remix-24735206.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Animals (2018 Remix) by Pink Floyd"
+    caption: "Animals (2018 Remix) by Pink Floyd"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -62,13 +65,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="D4KQae9oMWs" title="Pink Floyd - Animals (Full Album) 1977" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Pink Floyd - Animals (2018 Remix)](https://www.discogs.com/release/24735206) |
+| Release Year   | 2022 |
+| Discogs Link   | [Pink Floyd - Animals (2018 Remix)](https://www.discogs.com/release/24735206-Pink-Floyd-Animals-2018-Remix) |
 | Label          | Pink Floyd Records, Pink Floyd Records |
 | Format         | Box, Dlx, Ltd + LP, Album, RE + CD, Album, RE + Bl |
 | Catalog Number | PFR28D, 0190295599577 |
+
+Original UK release date: January 1977.  Box set with 32-page book. Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front  Blu-Ray Audio Mixes: 2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA  DVD Audio Mixes: 2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM) 2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps. 1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)  Made in The Netherlands on back of box. CD made in Germany Blu-ray and DVD made in Japan
 

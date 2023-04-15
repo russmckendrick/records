@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - London"
-album_artist: "Jesus Jones"
-album_title: "London"
+artist: "Jesus Jones"
+album_name: "London"
 date: 2022-11-03
 release_id: "25038310"
 slug: "london-25038310"
+hideSummary: true
 cover:
     image: "london-25038310.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "London by Jesus Jones"
+    caption: "London by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Nowhere Slow (4:01)
 12. In The Face Of All Of This (3:36)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - London](https://www.discogs.com/release/25038310) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - London](https://www.discogs.com/release/25038310-Jesus-Jones-London) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Whi |
 | Catalog Number | DEMREC956 |
+
+
 

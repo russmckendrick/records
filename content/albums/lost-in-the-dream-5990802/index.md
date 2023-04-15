@@ -1,14 +1,17 @@
 ---
 title: "The War On Drugs - Lost In The Dream"
-album_artist: "The War On Drugs"
-album_title: "Lost In The Dream"
+artist: "The War On Drugs"
+album_name: "Lost In The Dream"
 date: 2015-08-09
 release_id: "5990802"
 slug: "lost-in-the-dream-5990802"
+hideSummary: true
 cover:
     image: "lost-in-the-dream-5990802.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lost In The Dream by The War On Drugs"
+    caption: "Lost In The Dream by The War On Drugs"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [The War on Drugs - Under The Pressure (Official Video)](https://www.youtube.com/watch?v=vkLOg252KRE)
 - [An Ocean In Between The Waves](https://www.youtube.com/watch?v=BijxWQluXE0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The War On Drugs - Lost In The Dream](https://www.discogs.com/release/5990802) |
+| Release Year   | 2014 |
+| Discogs Link   | [The War On Drugs - Lost In The Dream](https://www.discogs.com/release/5990802-The-War-On-Drugs-Lost-In-The-Dream) |
 | Label          | Secretly Canadian |
 | Format         | 2xLP, Album, Club, Ltd, RE, Gre |
 | Catalog Number | SC310 |
+
+Limited to 2,100 copies. Gatefold tip-on sleeve with glossy, printed inner sleeves. Includes a download code.  ©&℗ 2014 Secretly Canadian  All songs © 2014 Sea Formation Music ASCAP  Mixed at Rare Book Room Studios, Brooklyn, August-September 2013. "An Ocean in Between the Waves," "Disappearing" and "The Haunting Idle" mixed at Uniform Recording, Philadelphia, September-November 2013.  All songs recorded between August 2012 and November 2013 at Uniform Recording (Philly), Echo Mountain (Asheville, NC), Fidelitorium (Kornersville, NC), Rare Book Room (Brooklyn), Miner St (Philly), Water Music (Hoboken), Public Hi-Fi (Austin), University of the Arts (Philly) and Adam's house in Philly.  Mastered at Sterling Sound, NYC.
 

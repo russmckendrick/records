@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend - Eras II"
-album_artist: "Devin Townsend"
-album_title: "Eras II"
+artist: "Devin Townsend"
+album_name: "Eras II"
 date: 2018-09-15
 release_id: "12482001"
 slug: "eras-ii-12482001"
+hideSummary: true
 cover:
     image: "eras-ii-12482001.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Eras II by Devin Townsend"
+    caption: "Eras II by Devin Townsend"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -80,13 +83,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="q_r6a-qmYkY" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Devin Townsend - Eras II](https://www.discogs.com/release/12482001) |
+| Release Year   | 2018 |
+| Discogs Link   | [Devin Townsend - Eras II](https://www.discogs.com/release/12482001-Devin-Townsend-Eras-II) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | Box, Comp, Dlx, Ltd + 2xLP, Album, RE, RM, Ora + L |
 | Catalog Number | IOMLP 510, 19075867871 |
+
+Orange 180g vinyl variant limited to 100 copies, sold exclusively on insideoutshop.de. Includes the albums “Ocean Machine”, “Infinity”, “Physicist”, “Terria” and “Synchestra”. All albums come in gatefold sleeves on 180 g vinyl, specifically remastered for vinyl. Includes a 36 page booklet with photos, credits, lyrics & new liner notes for each album by Devin Townsend. Side D of Synchestra is Etched
 

@@ -1,14 +1,17 @@
 ---
 title: "John Carpenter In Association With Alan Howarth - Big Trouble In Little China (Original Motion Picture Soundtrack)"
-album_artist: "John Carpenter In Association With Alan Howarth"
-album_title: "Big Trouble In Little China (Original Motion Picture Soundtrack)"
+artist: "John Carpenter In Association With Alan Howarth"
+album_name: "Big Trouble In Little China (Original Motion Picture Soundtrack)"
 date: 2019-02-21
 release_id: "12384176"
 slug: "big-trouble-in-little-china-original-motion-picture-soundtrack-12384176"
+hideSummary: true
 cover:
     image: "big-trouble-in-little-china-original-motion-picture-soundtrack-12384176.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter In Association With Alan Howarth"
+    caption: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter In Association With Alan Howarth"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Big Trouble In Little China Soundtrack - The Final Escape](https://www.youtube.com/watch?v=2-_ERyOeDSw)
 - [John Carpenter's Coup de Villes Music Video](https://www.youtube.com/watch?v=D03E9kUTTtQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [John Carpenter In Association With Alan Howarth - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176) |
+| Release Year   | 2018 |
+| Discogs Link   | [John Carpenter In Association With Alan Howarth - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |
 | Label          | Mondo (3) |
 | Format         | 2xLP, Album, RE, RM, Red |
 | Catalog Number | MOND-124 |
+
+
 

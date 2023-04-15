@@ -1,14 +1,17 @@
 ---
 title: "John Lennon - The John Lennon Collection"
-album_artist: "John Lennon"
-album_title: "The John Lennon Collection"
+artist: "John Lennon"
+album_name: "The John Lennon Collection"
 date: 2017-04-14
 release_id: "685687"
 slug: "the-john-lennon-collection-685687"
+hideSummary: true
 cover:
     image: "the-john-lennon-collection-685687.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The John Lennon Collection by John Lennon"
+    caption: "The John Lennon Collection by John Lennon"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [John Lennon: Give Peace A Chance](https://www.youtube.com/watch?v=SBBl5h0SJ1c)
 - [Instant Karma! (We All Shine On)](https://www.youtube.com/watch?v=T9mrBxWLcbM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [John Lennon - The John Lennon Collection](https://www.discogs.com/release/685687) |
+| Release Year   | 1982 |
+| Discogs Link   | [John Lennon - The John Lennon Collection](https://www.discogs.com/release/685687-John-Lennon-The-John-Lennon-Collection) |
 | Label          | Parlophone, Parlophone |
 | Format         | LP, Comp |
 | Catalog Number | EMTV 37, OC 062-78 224 |
+
+Released with a lyric inner sleeve.  A1 recorded in Room 1742, Montreal, Canada. Mastered at Artisan Sound Recorders, Hollywood.  Durations do not appear on this release. ℗Original sound recordings made by EMI Records Ltd. *The David Geffen Co. [Tracks from Double Fantasy B4-B9] The compilation ℗1982 by EMI Records Ltd.  Manufactured in the UK by EMI Records Limited.  Publishing info: A1, A2, A3, A7, B1, B2: Northern Songs Ltd. A4, A6: John Lennon. A5: John Lennon / ATV Music. A8: John Lennon / Ono Music. B3: Carlin Music Corp. B4, B5, B6, B7, B8: Lenono Music. / Warner Bros. Music Ltd. B9: Lenono Music.   A1: ©1969 Northern Songs A2, A7: ©1970 Northern Songs A3, B2: ©1971 Northern Songs A4: ©1974 John Lennon A5: ©1974 John Lennon / ATV Music A6: ©1973 John Lennon  B1: ©1971 John Lennon / Ono Music B3: ©1961 Carlin Music Corp B4, B5, B6, B7, B8: ©1980/81 Lenono Music / Warner Bros. Music B9: ©1980 Lenono Music  Give Peace A Chance, Instant Karma, Power To The People, Happy Xmas (War Is Over) from the [l=EMI Records] album [ Shaved Fish](https://www.discogs.com/Lennon-Plastic-Ono-Band-Shaved-Fish/master/41265) Whatever Gets You Thru The Night, #9 Dream from the [l=EMI Records] album [ Walls And Bridges](https://www.discogs.com/John-Lennon-Walls-And-Bridges/master/72957) Mind Games from the [l=EMI Records] album [ Mind Games](https://www.discogs.com/John-Lennon-Mind-Games/master/72939) Love from the [l=EMI Records] album [ Plastic Ono Band](https://www.discogs.com/John-Lennon-Plastic-Ono-Band-John-Lennon-Plastic-Ono-Band/master/72864) Imagine and Jealous Guy from the [l=EMI Records] album [ Imagine](https://www.discogs.com/John-Lennon-Imagine/master/72879) Stand By Me from the [l=EMI Records] album [ Rock 'n' Roll](https://www.discogs.com/John-Lennon-Rock-N-Roll/master/72981) (Just Like) Starting Over to Dear Yoko from the [l=Geffen Records] album [ Double Fantasy](https://www.discogs.com/John-Lennon-Yoko-Ono-Double-Fantasy/master/73013)
 

@@ -1,14 +1,17 @@
 ---
 title: "Amy Grant - Baby Baby"
-album_artist: "Amy Grant"
-album_title: "Baby Baby"
+artist: "Amy Grant"
+album_name: "Baby Baby"
 date: 2020-08-01
 release_id: "623435"
 slug: "baby-baby-623435"
+hideSummary: true
 cover:
     image: "baby-baby-623435.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Baby Baby by Amy Grant"
+    caption: "Baby Baby by Amy Grant"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Amy Grant - Baby Baby (12 Heart In Motion Mix)](https://www.youtube.com/watch?v=ucyLYstmAzk)
 - [Baby Baby (12 No getting Over You Mix) - Amy Grant](https://www.youtube.com/watch?v=DP0uTkS5t5g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Amy Grant - Baby Baby](https://www.discogs.com/release/623435) |
+| Release Year   | 1991 |
+| Discogs Link   | [Amy Grant - Baby Baby](https://www.discogs.com/release/623435-Amy-Grant-Baby-Baby) |
 | Label          | A&M Records |
 | Format         | 12\", Single |
 | Catalog Number | AMY 727 |
+
+Track B2 (P) 1988
 

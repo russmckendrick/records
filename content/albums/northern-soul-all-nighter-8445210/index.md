@@ -1,14 +1,17 @@
 ---
 title: "Various - Northern Soul All Nighter"
-album_artist: "Various"
-album_title: "Northern Soul All Nighter"
+artist: "Various"
+album_name: "Northern Soul All Nighter"
 date: 2017-03-02
 release_id: "8445210"
 slug: "northern-soul-all-nighter-8445210"
+hideSummary: true
 cover:
     image: "northern-soul-all-nighter-8445210.jpg"
-tags: ["Funk / Soul", "Blues", "Pop"]
-hideSummary: true
+    alt: "Northern Soul All Nighter by Various"
+    caption: "Northern Soul All Nighter by Various"
+genres: ["Funk / Soul", "Blues", "Pop"]
+styles: ["Soul", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [Sam Cooke. Sugar dumpling](https://www.youtube.com/watch?v=tIQL17pjAXo)
 - [The Tams - Disillusioned](https://www.youtube.com/watch?v=Q_5-inO-IBY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various - Northern Soul All Nighter](https://www.discogs.com/release/8445210) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various - Northern Soul All Nighter](https://www.discogs.com/release/8445210-Various-Northern-Soul-All-Nighter) |
 | Label          | Not Now Music |
 | Format         | 2xLP, Comp, Gat |
 | Catalog Number | NOT2LP226 |
+
+2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.  An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order.
 

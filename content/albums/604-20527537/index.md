@@ -1,14 +1,17 @@
 ---
 title: "Ladytron - 604"
-album_artist: "Ladytron"
-album_title: "604"
+artist: "Ladytron"
+album_name: "604"
 date: 2022-01-11
 release_id: "20527537"
 slug: "604-20527537"
+hideSummary: true
 cover:
     image: "604-20527537.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "604 by Ladytron"
+    caption: "604 by Ladytron"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Jet Age](https://www.youtube.com/watch?v=XTOSuN6i5to)
 - [Skools Out…](https://www.youtube.com/watch?v=EGIOehtTR0g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Ladytron - 604](https://www.discogs.com/release/20527537) |
+| Release Year   | 2021 |
+| Discogs Link   | [Ladytron - 604](https://www.discogs.com/release/20527537-Ladytron-604) |
 | Label          | Nettwerk |
 | Format         | LP, Red + LP, Cle + Album, Ltd, RE |
 | Catalog Number | 30912 1 |
+
+20th Anniversary Edition limited to 1000 copies.  140g 
 

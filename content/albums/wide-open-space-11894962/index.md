@@ -1,14 +1,17 @@
 ---
 title: "Mansun - Wide Open Space"
-album_artist: "Mansun"
-album_title: "Wide Open Space"
+artist: "Mansun"
+album_name: "Wide Open Space"
 date: 2018-04-26
 release_id: "11894962"
 slug: "wide-open-space-11894962"
+hideSummary: true
 cover:
     image: "wide-open-space-11894962.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wide Open Space by Mansun"
+    caption: "Wide Open Space by Mansun"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Mansun - Wide Open Space (John 00 Fleming Mix) 1998](https://www.youtube.com/watch?v=b-EE3VnETeU)
 - [Mansun - Wide Open Space (Forthright Dub)](https://www.youtube.com/watch?v=P91Os-2UVR8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Mansun - Wide Open Space](https://www.discogs.com/release/11894962) |
+| Release Year   | 2018 |
+| Discogs Link   | [Mansun - Wide Open Space](https://www.discogs.com/release/11894962-Mansun-Wide-Open-Space) |
 | Label          | Kscope |
 | Format         | 12\", EP, Ltd, RM, Whi |
 | Catalog Number | Kscope989 |
+
+Record Store Day 2018 release.  First time on 12" vinyl. Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]).
 

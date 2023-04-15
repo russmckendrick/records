@@ -1,14 +1,17 @@
 ---
 title: "The Proclaimers - Sunshine On Leith"
-album_artist: "The Proclaimers"
-album_title: "Sunshine On Leith"
+artist: "The Proclaimers"
+album_name: "Sunshine On Leith"
 date: 2018-01-20
 release_id: "11066426"
 slug: "sunshine-on-leith-11066426"
+hideSummary: true
 cover:
     image: "sunshine-on-leith-11066426.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Sunshine On Leith by The Proclaimers"
+    caption: "Sunshine On Leith by The Proclaimers"
+genres: ["Rock", "Pop"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [The Proclaimers - Sunshine On Leith](https://www.youtube.com/watch?v=0NzPmtQTuVI)
 - [The proclaimers - 500 miles (With lyrics)](https://www.youtube.com/watch?v=TyyNlxiMDB8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Proclaimers - Sunshine On Leith](https://www.discogs.com/release/11066426) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Proclaimers - Sunshine On Leith](https://www.discogs.com/release/11066426-The-Proclaimers-Sunshine-On-Leith) |
 | Label          | Parlophone Records Ltd. |
 | Format         | LP, Album, RE |
 | Catalog Number | 0190295784416 |
+
+℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.    Printed In us 
 

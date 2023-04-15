@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend - Order Of Magnitude - Empath Live Volume 1"
-album_artist: "Devin Townsend"
-album_title: "Order Of Magnitude - Empath Live Volume 1"
+artist: "Devin Townsend"
+album_name: "Order Of Magnitude - Empath Live Volume 1"
 date: 2020-10-27
 release_id: "16092605"
 slug: "order-of-magnitude-empath-live-volume-1-16092605"
+hideSummary: true
 cover:
     image: "order-of-magnitude-empath-live-volume-1-16092605.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Order Of Magnitude - Empath Live Volume 1 by Devin Townsend"
+    caption: "Order Of Magnitude - Empath Live Volume 1 by Devin Townsend"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Disco Inferno (live in London 2019)](https://www.youtube.com/watch?v=7BnKtXVoAFo)
 - [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Devin Townsend - Order Of Magnitude - Empath Live Volume 1](https://www.discogs.com/release/16092605) |
+| Release Year   | 2020 |
+| Discogs Link   | [Devin Townsend - Order Of Magnitude - Empath Live Volume 1](https://www.discogs.com/release/16092605-Devin-Townsend-Order-Of-Magnitude-Empath-Live-Volume-1) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 3xLP, Album, Gre + 2xCD, Album + Ltd |
 | Catalog Number | IOMLP 563, 19439779481 |
+
+Recorded on December 12th, 2019 at the Roundhouse, Camden, London, United Kingdom.  Issued with a postcard, a coaster and a sticker.  Slipcase sleeve with a gatefold sleeve for the first two LPs and a standard sleeve for the third one. CDs housed in a protective plastic sleeve.
 

@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - Lionheart"
-album_artist: "Kate Bush"
-album_title: "Lionheart"
+artist: "Kate Bush"
+album_name: "Lionheart"
 date: 2018-02-20
 release_id: "426108"
 slug: "lionheart-426108"
+hideSummary: true
 cover:
     image: "lionheart-426108.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Lionheart by Kate Bush"
+    caption: "Lionheart by Kate Bush"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock", "Pop Rock", "Ballad"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Kate Bush - Wow - Official Music Video](https://www.youtube.com/watch?v=ZyuxXWxKSTg)
 - [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Kate Bush - Lionheart](https://www.discogs.com/release/426108) |
+| Release Year   | 1978 |
+| Discogs Link   | [Kate Bush - Lionheart](https://www.discogs.com/release/426108-Kate-Bush-Lionheart) |
 | Label          | EMI, EMI |
 | Format         | LP, Album, Emb |
 | Catalog Number | EMA 787, OC-064-06 859 |
+
+Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.  "Kate Bush - Lionheart" text on front cover and rear cover are embossed. Gatefold sleeve with lyrics inside. Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side. 'HOPE YOU LIKE IT' etched in runouts, the rest stamped. Recorded at Superbear Studios. All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978. David Paton and Ian Bairnson courtesy of Arista Records. (P) 1978 EMI Records Ltd. Available on tape.  Made in Gt. Britain.  Durations do not appear on this release.  [r=10148817] is a later repress with different record labels [r=5536970] has "Made in Ireland" on the labels, otherwise identical
 

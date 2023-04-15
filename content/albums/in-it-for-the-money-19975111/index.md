@@ -1,14 +1,17 @@
 ---
 title: "Supergrass - In It For The Money"
-album_artist: "Supergrass"
-album_title: "In It For The Money"
+artist: "Supergrass"
+album_name: "In It For The Money"
 date: 2021-08-28
 release_id: "19975111"
 slug: "in-it-for-the-money-19975111"
+hideSummary: true
 cover:
     image: "in-it-for-the-money-19975111.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In It For The Money by Supergrass"
+    caption: "In It For The Money by Supergrass"
+genres: ["Rock"]
+styles: ["Britpop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Supergrass - Sun Hits The Sky (Official HD Video)](https://www.youtube.com/watch?v=OJ8TYNpJdLg)
 - [Supergrass - It's Not Me (Early Version) (Official Video)](https://www.youtube.com/watch?v=u80_jUEaWII)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Supergrass - In It For The Money](https://www.discogs.com/release/19975111) |
+| Release Year   | 2021 |
+| Discogs Link   | [Supergrass - In It For The Money](https://www.discogs.com/release/19975111-Supergrass-In-It-For-The-Money) |
 | Label          | BMG, Echo, BMG, Echo, BMG, Echo |
 | Format         | LP, Album, RE, RM, Tur + 12\", Single, Whi + Ltd, T |
 | Catalog Number | BMGCAT506CLP, 4050538672909, 4050538685411 |
+
+Remastered From Original Analogue Tapes Limited Edition 140g Turquoise Vinyl  Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal' Textured Sleeve Manufactured in Poland  There are three catalog numbers on this release: BMGCAT506CLP appears on the outer sleeve 4050538672909 appears on the LP 4050538685411 appears on the 12" single
 

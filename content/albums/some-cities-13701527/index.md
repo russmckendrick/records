@@ -1,14 +1,17 @@
 ---
 title: "Doves - Some Cities"
-album_artist: "Doves"
-album_title: "Some Cities"
+artist: "Doves"
+album_name: "Some Cities"
 date: 2019-06-03
 release_id: "13701527"
 slug: "some-cities-13701527"
+hideSummary: true
 cover:
     image: "some-cities-13701527.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Some Cities by Doves"
+    caption: "Some Cities by Doves"
+genres: ["Electronic", "Rock"]
+styles: ["Downtempo", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Doves - Walk in Fire](https://www.youtube.com/watch?v=NzXuCj-DXv4)
 - [Doves - Black & White Town (From Some Cities - 2005)](https://www.youtube.com/watch?v=Nio3f2yN8u8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Doves - Some Cities](https://www.discogs.com/release/13701527) |
+| Release Year   | 2019 |
+| Discogs Link   | [Doves - Some Cities](https://www.discogs.com/release/13701527-Doves-Some-Cities) |
 | Label          | Heavenly |
 | Format         | 2xLP, Album, Ltd, Num, RE, Whi |
 | Catalog Number | 7748265 |
+
+All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.  B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.  ℗ 2004 [l26760] © 2019 [l26760]  Non-gatefold (single) sleeve with insert. Comes with a [l1052727] download coupon.
 

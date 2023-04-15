@@ -1,14 +1,17 @@
 ---
 title: "The Soup Dragons - Lovegod"
-album_artist: "The Soup Dragons"
-album_title: "Lovegod"
+artist: "The Soup Dragons"
+album_name: "Lovegod"
 date: 2018-11-29
 release_id: "632447"
 slug: "lovegod-632447"
+hideSummary: true
 cover:
     image: "lovegod-632447.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lovegod by The Soup Dragons"
+    caption: "Lovegod by The Soup Dragons"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Crotch Deep Trash (Remastered)](https://www.youtube.com/watch?v=pa3gLC2UiJI)
 - [Soup Dragons - I'm Free](https://www.youtube.com/watch?v=ZVGf3ePIO04)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [The Soup Dragons - Lovegod](https://www.discogs.com/release/632447) |
+| Release Year   | 1990 |
+| Discogs Link   | [The Soup Dragons - Lovegod](https://www.discogs.com/release/632447-The-Soup-Dragons-Lovegod) |
 | Label          | Big Life, Big Life, Raw TV Products, Raw TV Products |
 | Format         | LP, Album, RE |
 | Catalog Number | SOUP LP2R, 842985-1 |
+
+Reissue added "I'm Free" in place of "From Heaven And Back" & "Man".  "From sweeteness comes forth strength"  All tracks published by Big Life Music / Soup Music except A1 published by Westminster Music Ltd. All titles ℗ & © 1990 Big Life Records except A1 ℗ & © 1989 Big Life Records. Made in England.
 

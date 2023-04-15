@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Dopes To Infinity"
-album_artist: "Monster Magnet"
-album_title: "Dopes To Infinity"
+artist: "Monster Magnet"
+album_name: "Dopes To Infinity"
 date: 2016-02-17
 release_id: "8112602"
 slug: "dopes-to-infinity-8112602"
+hideSummary: true
 cover:
     image: "dopes-to-infinity-8112602.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dopes To Infinity by Monster Magnet"
+    caption: "Dopes To Infinity by Monster Magnet"
+genres: ["Rock"]
+styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Monster Magnet - Forbidden Planet 2](https://www.youtube.com/watch?v=krSiJW4AZbE)
 - [Monster Magnet - Negasonic Teenage Warhead](https://www.youtube.com/watch?v=Qv2CADhNYMg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Monster Magnet - Dopes To Infinity](https://www.discogs.com/release/8112602) |
+| Release Year   | 2016 |
+| Discogs Link   | [Monster Magnet - Dopes To Infinity](https://www.discogs.com/release/8112602-Monster-Magnet-Dopes-To-Infinity) |
 | Label          | Spinefarm Records, Universal Music Group |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 00600753642337 |
+
+Black vinyl. Includes sleeve-notes & bonus material.  Comes with free album download code.  ℗ & © 2015 Spinefarm Records & Universal Music Group Company  Made in the EU.
 

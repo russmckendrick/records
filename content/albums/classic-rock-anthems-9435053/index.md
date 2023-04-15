@@ -1,14 +1,17 @@
 ---
 title: "Various - Classic Rock Anthems"
-album_artist: "Various"
-album_title: "Classic Rock Anthems"
+artist: "Various"
+album_name: "Classic Rock Anthems"
 date: 2016-12-27
 release_id: "9435053"
 slug: "classic-rock-anthems-9435053"
+hideSummary: true
 cover:
     image: "classic-rock-anthems-9435053.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Classic Rock Anthems by Various"
+    caption: "Classic Rock Anthems by Various"
+genres: ["Rock", "Pop"]
+styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. Because The Night
 20. (Don't Fear) The Reaper
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various - Classic Rock Anthems](https://www.discogs.com/release/9435053) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various - Classic Rock Anthems](https://www.discogs.com/release/9435053-Various-Classic-Rock-Anthems) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp, 180 |
 | Catalog Number |  DEMRECOMP001 |
+
+Vinyl exclusive.  2016 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company  Thanks: Colin Auchterlonie, Adrian Sear, Ben Duke.
 

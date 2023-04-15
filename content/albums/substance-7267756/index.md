@@ -1,14 +1,17 @@
 ---
 title: "Joy Division - Substance"
-album_artist: "Joy Division"
-album_title: "Substance"
+artist: "Joy Division"
+album_name: "Substance"
 date: 2015-08-09
 release_id: "7267756"
 slug: "substance-7267756"
+hideSummary: true
 cover:
     image: "substance-7267756.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Substance by Joy Division"
+    caption: "Substance by Joy Division"
+genres: ["Rock"]
+styles: ["Post-Punk", "New Wave"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Komakino (2010 Remaster)](https://www.youtube.com/watch?v=4DbnkkyhPnI)
 - [These Days (2010 Remaster)](https://www.youtube.com/watch?v=6g_b0xr9rZs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Joy Division - Substance](https://www.discogs.com/release/7267756) |
+| Release Year   | 2015 |
+| Discogs Link   | [Joy Division - Substance](https://www.discogs.com/release/7267756-Joy-Division-Substance) |
 | Label          | Factory |
 | Format         | 2xLP, Comp, RE, RM |
 | Catalog Number | Fact250R |
+
+Back cover: "A Factory Record ℗ & © 2015 Warner Records 90 Limited" ([r11569139] has "A Factory Record. This Reissue ℗ & © 2015 Warner Records 90 Limited. All Rights Reserved. R1 183937")
 

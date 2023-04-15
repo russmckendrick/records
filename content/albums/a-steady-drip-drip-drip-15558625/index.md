@@ -1,14 +1,17 @@
 ---
 title: "Sparks - A Steady Drip, Drip, Drip"
-album_artist: "Sparks"
-album_title: "A Steady Drip, Drip, Drip"
+artist: "Sparks"
+album_name: "A Steady Drip, Drip, Drip"
 date: 2020-07-05
 release_id: "15558625"
 slug: "a-steady-drip-drip-drip-15558625"
+hideSummary: true
 cover:
     image: "a-steady-drip-drip-drip-15558625.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "A Steady Drip, Drip, Drip by Sparks"
+    caption: "A Steady Drip, Drip, Drip by Sparks"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Pacific Standard Time](https://www.youtube.com/watch?v=zf6y7p2iauE)
 - [Sparks - The Existential Threat (+ bonus How To Make A Music Video by Cyriak)](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Sparks - A Steady Drip, Drip, Drip](https://www.discogs.com/release/15558625) |
+| Release Year   | 2020 |
+| Discogs Link   | [Sparks - A Steady Drip, Drip, Drip](https://www.discogs.com/release/15558625-Sparks-A-Steady-Drip-Drip-Drip) |
 | Label          | BMG |
 | Format         | LP, Blu + LP, Pur + Album, Ltd |
 | Catalog Number | 538603240 |
+
+Includes exclusive poster.  Gatefold sleeve
 

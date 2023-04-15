@@ -1,14 +1,17 @@
 ---
 title: "The Police - Zenyatta Mondatta"
-album_artist: "The Police"
-album_title: "Zenyatta Mondatta"
+artist: "The Police"
+album_name: "Zenyatta Mondatta"
 date: 2016-04-08
 release_id: "371546"
 slug: "zenyatta-mondatta-371546"
+hideSummary: true
 cover:
     image: "zenyatta-mondatta-371546.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Zenyatta Mondatta by The Police"
+    caption: "Zenyatta Mondatta by The Police"
+genres: ["Rock"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="FR2TAdDiOCo" title="The Police - Shadows In The Rain" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [The Police - Zenyatta Mondatta](https://www.discogs.com/release/371546) |
+| Release Year   | 1980 |
+| Discogs Link   | [The Police - Zenyatta Mondatta](https://www.discogs.com/release/371546-The-Police-Zenyatta-Mondatta) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | AMLH 64831 |
+
+℗ 1980 A&M Records Ltd. © 1980 A&M Records Ltd. Original sound recording made by A&M Records Ltd  Recorded at Wisseloord Studios, Hilversum, Netherlands.  Issued with an illustrated picture inner sleeve.  A1 to A5, B1, B3, B4: Virgin Music (Publishers) Ltd A6, B2, B5: Roxanne Music Overseas Ltd  Runouts are etched, except for STRAWBERRY
 

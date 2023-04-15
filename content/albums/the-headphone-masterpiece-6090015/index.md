@@ -1,14 +1,17 @@
 ---
 title: "Cody ChesnuTT - The Headphone Masterpiece"
-album_artist: "Cody ChesnuTT"
-album_title: "The Headphone Masterpiece"
+artist: "Cody ChesnuTT"
+album_name: "The Headphone Masterpiece"
 date: 2017-11-26
 release_id: "6090015"
 slug: "the-headphone-masterpiece-6090015"
+hideSummary: true
 cover:
     image: "the-headphone-masterpiece-6090015.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "The Headphone Masterpiece by Cody ChesnuTT"
+    caption: "The Headphone Masterpiece by Cody ChesnuTT"
+genres: ["Electronic", "Rock", "Funk / Soul"]
+styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [Cody ChesnuTT - The Most Beautiful Shame](https://www.youtube.com/watch?v=sq09nzSbA9s)
 - [Cody ChesnuTT - Look Good In Leather Lyrics](https://www.youtube.com/watch?v=PeF0U6SssgY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Cody ChesnuTT - The Headphone Masterpiece](https://www.discogs.com/release/6090015) |
+| Release Year   | 2014 |
+| Discogs Link   | [Cody ChesnuTT - The Headphone Masterpiece](https://www.discogs.com/release/6090015-Cody-Chesnutt-The-Headphone-Masterpiece) |
 | Label          | One Little Indian |
 | Format         | 3xLP, Album, Ltd, Num, RP |
 | Catalog Number | TPLP345DMM |
+
+third pressing - Limited Edition numbered on the front side  
 

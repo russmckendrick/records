@@ -1,14 +1,17 @@
 ---
 title: "Judas Priest - The Best Of"
-album_artist: "Judas Priest"
-album_title: "The Best Of"
+artist: "Judas Priest"
+album_name: "The Best Of"
 date: 2020-08-02
 release_id: "1800080"
 slug: "the-best-of-1800080"
+hideSummary: true
 cover:
     image: "the-best-of-1800080.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of by Judas Priest"
+    caption: "The Best Of by Judas Priest"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 - [Judas Priest - The Ripper (Video)](https://www.youtube.com/watch?v=lriWlHZAy8A)
 - [Judas Priest - Victim Of Changes](https://www.youtube.com/watch?v=EKSU1W0ZUmQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Judas Priest - The Best Of](https://www.discogs.com/release/1800080) |
+| Release Year   | 1978 |
+| Discogs Link   | [Judas Priest - The Best Of](https://www.discogs.com/release/1800080-Judas-Priest-The-Best-Of) |
 | Label          | Gull |
 | Format         | LP, Comp |
 | Catalog Number | GULP 1026 |
+
+Track listing and lengths on back of sleeve are incorrect. Track listing and lengths on labels are correct except for "Rocka Rolla" (stated as 4:00 but actually 3:05).
 

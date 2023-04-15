@@ -1,14 +1,17 @@
 ---
 title: "John Cale - Paris 1919"
-album_artist: "John Cale"
-album_title: "Paris 1919"
+artist: "John Cale"
+album_name: "Paris 1919"
 date: 2016-10-14
 release_id: "8726836"
 slug: "paris-1919-8726836"
+hideSummary: true
 cover:
     image: "paris-1919-8726836.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Paris 1919 by John Cale"
+    caption: "Paris 1919 by John Cale"
+genres: ["Rock"]
+styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [John Cale - Half Past France](https://www.youtube.com/watch?v=-_5NXNIZnhw)
 - [John Cale - Antarctica Starts Here](https://www.youtube.com/watch?v=Sbmo0MfLiBE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1973 |
-| Discogs Link   | [John Cale - Paris 1919](https://www.discogs.com/release/8726836) |
+| Release Year   | 1973 |
+| Discogs Link   | [John Cale - Paris 1919](https://www.discogs.com/release/8726836-John-Cale-Paris-1919) |
 | Label          | Reprise Records, Reprise Records, Reprise Records |
 | Format         | LP, Album |
 | Catalog Number | K44239, K 44239, MS 2131 |
+
+The same as [this edition](https://www.discogs.com/release/861265) but with different inscription along the edge of label. Includes lyric insert.  On back cover: K44239 (MS 2131) Stereo  A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 © Shorepak by Shorewood Packaging Co. Ltd., England  On label: Made in UK 33⅓ RPM  K 44239 (MS 2131) ℗ 1973
 

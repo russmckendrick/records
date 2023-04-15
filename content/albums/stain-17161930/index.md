@@ -1,14 +1,17 @@
 ---
 title: "Living Colour - Stain"
-album_artist: "Living Colour"
-album_title: "Stain"
+artist: "Living Colour"
+album_name: "Stain"
 date: 2021-01-29
 release_id: "17161930"
 slug: "stain-17161930"
+hideSummary: true
 cover:
     image: "stain-17161930.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Stain by Living Colour"
+    caption: "Stain by Living Colour"
+genres: ["Rock"]
+styles: ["Funk Metal"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="EMprpu0et9M" title="Living Colour - Bi" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Living Colour - Stain](https://www.discogs.com/release/17161930) |
+| Release Year   | 2021 |
+| Discogs Link   | [Living Colour - Stain](https://www.discogs.com/release/17161930-Living-Colour-Stain) |
 | Label          | Music On Vinyl, Epic |
 | Format         | LP, Album, Ltd, Num, RE, Red |
 | Catalog Number | MOVLP1346 |
+
+Limited to 1000 copies.  Originally released (P) & (C) 1993 Sony Music Entertainment. This release (P) & (C) 2015 Sony Music Entertainment.   Made in EU.
 

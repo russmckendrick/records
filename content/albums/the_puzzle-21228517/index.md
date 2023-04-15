@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend - The_Puzzle"
-album_artist: "Devin Townsend"
-album_title: "The_Puzzle"
+artist: "Devin Townsend"
+album_name: "The_Puzzle"
 date: 2021-12-20
 release_id: "21228517"
 slug: "the_puzzle-21228517"
+hideSummary: true
 cover:
     image: "the_puzzle-21228517.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The_Puzzle by Devin Townsend"
+    caption: "The_Puzzle by Devin Townsend"
+genres: ["Electronic", "Rock"]
+styles: ["Abstract"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. The Puzzle
 20. Monuments Of Glitch
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Devin Townsend - The_Puzzle](https://www.discogs.com/release/21228517) |
+| Release Year   | 2021 |
+| Discogs Link   | [Devin Townsend - The_Puzzle](https://www.discogs.com/release/21228517-Devin_Townsend-The_Puzzle) |
 | Label          | HevyDevy Records |
 | Format         | 2xLP, Ltd, Red |
 | Catalog Number | HDR 0001007 |
+
+Limited edition exclusive to devintownsendshop.com  ℗ 2021 HevyDevy Records © 2021 HevyDevy Records All songs published by [l1618032], administered by Kobalt Music Services Ltd.,  except "The Yugas," administered by Kobalt Music Services Ltd. / [l1617984] (BMI); "Maybe Over The Void," "FrogFlowers" and "Mother" administered by Kobalt Music Services Ltd. and [l48207].  Recorded all over the place, Earth, 2020-2021.  Issued with a 8-page 12" booklet in a UV gloss finish on the front cover.  Run-out information: [HDR 0001007 - (A, B, C, D)] is etched, the rest is stamped. 
 

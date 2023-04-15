@@ -1,14 +1,17 @@
 ---
 title: "Pijn - Loss"
-album_artist: "Pijn"
-album_title: "Loss"
+artist: "Pijn"
+album_name: "Loss"
 date: 2018-12-22
 release_id: "12713966"
 slug: "loss-12713966"
+hideSummary: true
 cover:
     image: "loss-12713966.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Loss by Pijn"
+    caption: "Loss by Pijn"
+genres: ["Rock"]
+styles: ["Post Rock", "Post-Metal"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="f5dPFLMa2Ik" title="Pijn - Loss [Full Album]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pijn - Loss](https://www.discogs.com/release/12713966) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pijn - Loss](https://www.discogs.com/release/12713966-Pijn-Loss) |
 | Label          | Holy Roar Records |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | HRR262V |
+
+Limited edition of: 250 x Blue/frosted clear/purple starburst (Holy Roar subscribers only) (this) 250 x Blue/frosted clear half and half ([r12713869]) 500 x Blue suede shoes ([r12713919])
 

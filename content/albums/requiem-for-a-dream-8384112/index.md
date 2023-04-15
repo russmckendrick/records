@@ -1,14 +1,17 @@
 ---
 title: "Clint Mansell Featuring Kronos Quartet - Requiem For A Dream"
-album_artist: "Clint Mansell Featuring Kronos Quartet"
-album_title: "Requiem For A Dream"
+artist: "Clint Mansell Featuring Kronos Quartet"
+album_name: "Requiem For A Dream"
 date: 2016-07-25
 release_id: "8384112"
 slug: "requiem-for-a-dream-8384112"
+hideSummary: true
 cover:
     image: "requiem-for-a-dream-8384112.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Requiem For A Dream by Clint Mansell Featuring Kronos Quartet"
+    caption: "Requiem For A Dream by Clint Mansell Featuring Kronos Quartet"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="B9S1nojrxCg" title="R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Clint Mansell Featuring Kronos Quartet - Requiem For A Dream](https://www.discogs.com/release/8384112) |
+| Release Year   | 2016 |
+| Discogs Link   | [Clint Mansell Featuring Kronos Quartet - Requiem For A Dream](https://www.discogs.com/release/8384112-Clint-Mansell-Featuring-Kronos-Quartet-Requiem-For-A-Dream) |
 | Label          | Nonesuch |
 | Format         | 2xLP, Album, RSD, Ltd, RE, RM |
 | Catalog Number | 553787-1 |
+
+Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000). Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.  Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.  Originally mastered at SoundByte Productions, Inc., New York City.  Limited edition of 5000 copies. Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).  Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store.
 

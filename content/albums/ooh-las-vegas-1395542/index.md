@@ -1,14 +1,17 @@
 ---
 title: "Deacon Blue - Ooh Las Vegas"
-album_artist: "Deacon Blue"
-album_title: "Ooh Las Vegas"
+artist: "Deacon Blue"
+album_name: "Ooh Las Vegas"
 date: 2019-04-26
 release_id: "1395542"
 slug: "ooh-las-vegas-1395542"
+hideSummary: true
 cover:
     image: "ooh-las-vegas-1395542.jpg"
-tags: ["Jazz", "Rock", "Pop"]
-hideSummary: true
+    alt: "Ooh Las Vegas by Deacon Blue"
+    caption: "Ooh Las Vegas by Deacon Blue"
+genres: ["Jazz", "Rock", "Pop"]
+styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Disneyworld](https://www.youtube.com/watch?v=hXIRGY5OP3I)
 - [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Deacon Blue - Ooh Las Vegas](https://www.discogs.com/release/1395542) |
+| Release Year   | 1990 |
+| Discogs Link   | [Deacon Blue - Ooh Las Vegas](https://www.discogs.com/release/1395542-Deacon-Blue-Ooh-Las-Vegas) |
 | Label          | CBS |
 | Format         | 2xLP, Comp |
 | Catalog Number | 467242 1 |
+
+Very similar to [r=1867062] but with a different set of codes and layout in the upper right back cover - above and below the barcode. [r=1867062] also has BIEM/STEMRA and "Made in Holland" on the B & D labels and is a [l371454] pressing
 

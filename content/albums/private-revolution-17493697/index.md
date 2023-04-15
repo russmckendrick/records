@@ -1,14 +1,17 @@
 ---
 title: "World Party - Private Revolution"
-album_artist: "World Party"
-album_title: "Private Revolution"
+artist: "World Party"
+album_name: "Private Revolution"
 date: 2021-02-26
 release_id: "17493697"
 slug: "private-revolution-17493697"
+hideSummary: true
 cover:
     image: "private-revolution-17493697.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Private Revolution by World Party"
+    caption: "Private Revolution by World Party"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/17493697) |
+| Release Year   | 2021 |
+| Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/17493697-World-Party-Private-Revolution) |
 | Label          | Seaview |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 1LP |
+
+
 

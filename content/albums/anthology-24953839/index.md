@@ -1,14 +1,17 @@
 ---
 title: "Garbage - Anthology"
-album_artist: "Garbage"
-album_title: "Anthology"
+artist: "Garbage"
+album_name: "Anthology"
 date: 2022-10-28
 release_id: "24953839"
 slug: "anthology-24953839"
+hideSummary: true
 cover:
     image: "anthology-24953839.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Anthology by Garbage"
+    caption: "Anthology by Garbage"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="NFY2NdX80qU" title="Garbage - Witness To Your Love (Official Music Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Garbage - Anthology](https://www.discogs.com/release/24953839) |
+| Release Year   | 2022 |
+| Discogs Link   | [Garbage - Anthology](https://www.discogs.com/release/24953839-Garbage-Anthology) |
 | Label          | Stun Volume, BMG |
 | Format         | 2xLP, Comp, Yel |
 | Catalog Number | BMGCAT585CLP |
+
+Garbage Anthology 1995-2022 Advertised as Transparent Yellow Vinyl Some copies ordered direct from the artist webstore came with an exclusive set of four postcards.  Hype sticker on shrink-wrap: Garbage Anthology 1995 - 2022 Includes rare track "Witness To Your Love" Released on transparent coloured vinyl  Marketed as "Limited Edition"  This compilation ℗ & © 2022 Garbage Unlimited, LCC D/B/A/ Stunvolume under exclusive license to Infectious Music, a division of BMG Rights Management (UK) Limited.  This package contains previously unreleased material. Manufactured in Poland.
 

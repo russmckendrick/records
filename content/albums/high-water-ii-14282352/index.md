@@ -1,14 +1,17 @@
 ---
 title: "The Magpie Salute - High Water II"
-album_artist: "The Magpie Salute"
-album_title: "High Water II"
+artist: "The Magpie Salute"
+album_name: "High Water II"
 date: 2019-11-16
 release_id: "14282352"
 slug: "high-water-ii-14282352"
+hideSummary: true
 cover:
     image: "high-water-ii-14282352.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "High Water II by The Magpie Salute"
+    caption: "High Water II by The Magpie Salute"
+genres: ["Rock"]
+styles: ["Southern Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="RO5Dl_b_sF4" title="Sooner Or Later" >}}
 - [Doesn't Really Matter](https://www.youtube.com/watch?v=NqQ9XfKAPYU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Magpie Salute - High Water II](https://www.discogs.com/release/14282352) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Magpie Salute - High Water II](https://www.discogs.com/release/14282352-The-Magpie-Salute-High-Water-II) |
 | Label          | Provogue, Mascot Label Group, Provogue, Mascot Label Group |
 | Format         | 2xLP, Album |
 | Catalog Number | PRD 7580 1, PRD75801 |
+
+First catalog# on sleeve, second on labels.  ℗&© 2019 Mascot Music Productions And Publishing BV. Made in the EU.  Download card included
 

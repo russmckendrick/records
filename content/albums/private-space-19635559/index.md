@@ -1,14 +1,17 @@
 ---
 title: "Durand Jones & The Indications - Private Space"
-album_artist: "Durand Jones & The Indications"
-album_title: "Private Space"
+artist: "Durand Jones & The Indications"
+album_name: "Private Space"
 date: 2021-07-30
 release_id: "19635559"
 slug: "private-space-19635559"
+hideSummary: true
 cover:
     image: "private-space-19635559.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Private Space by Durand Jones & The Indications"
+    caption: "Private Space by Durand Jones & The Indications"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Durand Jones & The Indications - Private Space (Full Album) 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
 - [Sexy Thang](https://www.youtube.com/watch?v=hs2RSEg9fyE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Durand Jones & The Indications - Private Space](https://www.discogs.com/release/19635559) |
+| Release Year   | 2021 |
+| Discogs Link   | [Durand Jones & The Indications - Private Space](https://www.discogs.com/release/19635559-Durand-Jones-The-Indications-Private-Space) |
 | Label          | Dead Oceans, Dead Oceans, Colemine Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | DOC227LP-C1, DOC227 |
+
+Hype sticker : "Limited Edition Red Nebula Vinyl Includes digital download"
 

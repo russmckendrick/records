@@ -1,14 +1,17 @@
 ---
 title: "The Wonder Stuff - Hup"
-album_artist: "The Wonder Stuff"
-album_title: "Hup"
+artist: "The Wonder Stuff"
+album_name: "Hup"
 date: 2016-11-16
 release_id: "3580276"
 slug: "hup-3580276"
+hideSummary: true
 cover:
     image: "hup-3580276.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hup by The Wonder Stuff"
+    caption: "Hup by The Wonder Stuff"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [The Wonder Stuff - Unfaithful](https://www.youtube.com/watch?v=onDvSeWeJsc)
 - [The Wonder Stuff 30 Years In The Bathroom.wmv](https://www.youtube.com/watch?v=fS2AA27i0Ag)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [The Wonder Stuff - Hup](https://www.discogs.com/release/3580276) |
+| Release Year   | 1989 |
+| Discogs Link   | [The Wonder Stuff - Hup](https://www.discogs.com/release/3580276-The-Wonder-Stuff-Hup) |
 | Label          | Polydor, The Far Out Recording Company |
 | Format         | LP, Album |
 | Catalog Number | 841187-1 |
+
+'HUP' printed on front cover with 'The Wonder Stuff' sticker attached.  Released with a printed lyric and credit inner sleeve.  Engineered at The Greenhouse, North London.  [Labels]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. Polygram Music 1989. [Sleeve]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989.
 

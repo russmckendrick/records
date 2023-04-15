@@ -1,14 +1,17 @@
 ---
 title: "The Orb - The Orb's Adventures Beyond The Ultraworld"
-album_artist: "The Orb"
-album_title: "The Orb's Adventures Beyond The Ultraworld"
+artist: "The Orb"
+album_name: "The Orb's Adventures Beyond The Ultraworld"
 date: 2020-04-25
 release_id: "11049937"
 slug: "the-orb-s-adventures-beyond-the-ultraworld-11049937"
+hideSummary: true
 cover:
     image: "the-orb-s-adventures-beyond-the-ultraworld-11049937.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Orb's Adventures Beyond The Ultraworld by The Orb"
+    caption: "The Orb's Adventures Beyond The Ultraworld by The Orb"
+genres: ["Electronic"]
+styles: ["Ambient", "Dub", "Ambient House"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Star 6 & 7 8 9](https://www.youtube.com/watch?v=-w21fIWxaFE)
 - [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix Mark 10)](https://www.youtube.com/watch?v=MlsY8MQ2CWE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Orb - The Orb's Adventures Beyond The Ultraworld](https://www.discogs.com/release/11049937) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Orb - The Orb's Adventures Beyond The Ultraworld](https://www.discogs.com/release/11049937-The-Orb-The-Orbs-Adventures-Beyond-The-Ultraworld) |
 | Label          | Island Records, Island Records, UMC, UMC |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 0602557753264, 577 532-6 |
+
+℗ 1991 Islands Records, a division of Universal Music Operations Limited © 1991 Islands Records, a division of Universal Music Operations Limited Made in the E.U. Includes a download voucher.  Cat# on sticker: 577 5326 Cat# on spine: 060255753264  A1: Recorded at Do Not Erase, London. Programmed at the Coach house, London.  A2: Recorded at Do Not Erase, London. Respect to Jasper.  The inner sleeve shows incorrect credits, these are corrected in the discogs credits. A3: Recorded at Marcus Studios, London.  B1: Recorded at Marcus Studios, London. Programmed 25 miles above the earth. B2: Recorded at Berwick Street Studio, London. Programmed in Barcelona, Spain.  C1, C2: Recorded at Berwick Street Studio, London. Programmed in Soho, London.  C3: Recorded at Berwick Street Studio, London. Programmed in Lab Studio, Berlin.  D1: Recorded at Berwick Street Studio, London. Programmed in Brixton, Southside.  D2: Recorded live at Trancentral, London. Programmed in inner space.
 

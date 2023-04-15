@@ -1,14 +1,17 @@
 ---
 title: "Townes Van Zandt - Sky Blue"
-album_artist: "Townes Van Zandt"
-album_title: "Sky Blue"
+artist: "Townes Van Zandt"
+album_name: "Sky Blue"
 date: 2019-03-12
 release_id: "13310013"
 slug: "sky-blue-13310013"
+hideSummary: true
 cover:
     image: "sky-blue-13310013.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Sky Blue by Townes Van Zandt"
+    caption: "Sky Blue by Townes Van Zandt"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Dream Spider](https://www.youtube.com/watch?v=qsSveNJ3Iu0)
 - [Last Thing on My Mind](https://www.youtube.com/watch?v=42XHepyp2r0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Townes Van Zandt - Sky Blue](https://www.discogs.com/release/13310013) |
+| Release Year   | 2019 |
+| Discogs Link   | [Townes Van Zandt - Sky Blue](https://www.discogs.com/release/13310013-Townes-Van-Zandt-Sky-Blue) |
 | Label          | Fat Possum Records |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | FP1706-1 |
+
+Contains eleven unreleased recordings composed of two new songs, a re-worked "Blue Ridge Mtns"' a venerable east Tennessee murder ballad, Richard Dobson and Tom Paxton covers and versions of five Van Zandt gems, all in solo, acoustic performances.  Rough Trade Exclusive. Limited to 300 Copies on White Vinyl.  Includes Download Card
 

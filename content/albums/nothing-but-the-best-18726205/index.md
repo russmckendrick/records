@@ -1,14 +1,17 @@
 ---
 title: "Frank Sinatra - Nothing But The Best"
-album_artist: "Frank Sinatra"
-album_title: "Nothing But The Best"
+artist: "Frank Sinatra"
+album_name: "Nothing But The Best"
 date: 2021-06-23
 release_id: "18726205"
 slug: "nothing-but-the-best-18726205"
+hideSummary: true
 cover:
     image: "nothing-but-the-best-18726205.jpg"
-tags: ["Jazz", "Pop"]
-hideSummary: true
+    alt: "Nothing But The Best by Frank Sinatra"
+    caption: "Nothing But The Best by Frank Sinatra"
+genres: ["Jazz", "Pop"]
+styles: ["Swing", "Vocal", "Easy Listening"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 {{< youtube id="8GrYyuO0TOE" title="Nothing But The Best (2008 Remastered)" >}}
 - [Come Fly With Me (2008 Remastered)](https://www.youtube.com/watch?v=yOzEeJZ92X8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Frank Sinatra - Nothing But The Best](https://www.discogs.com/release/18726205) |
+| Release Year   | 2021 |
+| Discogs Link   | [Frank Sinatra - Nothing But The Best](https://www.discogs.com/release/18726205-Frank-Sinatra-Nothing-But-The-Best) |
 | Label          | Capitol Records, UMe, Signature Sinatra |
 | Format         | LP, Blu + LP, Tra + Comp, Ltd, RE |
 | Catalog Number | 00602435639901 |
+
+Limited Edition - Exclusive Transparent Blue & Clear Vinyl  First Time on Vinyl  Manufactured in the E.U.
 

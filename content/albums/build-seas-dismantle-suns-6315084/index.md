@@ -1,14 +1,17 @@
 ---
 title: "Nordic Giants - Build Seas, Dismantle Suns"
-album_artist: "Nordic Giants"
-album_title: "Build Seas, Dismantle Suns"
+artist: "Nordic Giants"
+album_name: "Build Seas, Dismantle Suns"
 date: 2015-09-01
 release_id: "6315084"
 slug: "build-seas-dismantle-suns-6315084"
+hideSummary: true
 cover:
     image: "build-seas-dismantle-suns-6315084.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Build Seas, Dismantle Suns by Nordic Giants"
+    caption: "Build Seas, Dismantle Suns by Nordic Giants"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Nordic Giants - Live at the Cabaret Voltaire, Edinburgh October 7, 2013 FULL SHOW HD](https://www.youtube.com/watch?v=VBkcCv9pzsA)
 - [Nordic Giants @ London Lexington 2013 - Dark Clouds Mean War](https://www.youtube.com/watch?v=fCqAjnaluNg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Nordic Giants - Build Seas, Dismantle Suns](https://www.discogs.com/release/6315084) |
+| Release Year   | 2014 |
+| Discogs Link   | [Nordic Giants - Build Seas, Dismantle Suns](https://www.discogs.com/release/6315084-Nordic-Giants-Build-Seas-Dismantle-Suns) |
 | Label          | Kscope |
 | Format         | LP, Album, Cle |
 | Catalog Number | KSCOPE869 |
+
+Made in Germany  The 2013 Self Released EPs on 180g Clear Vinyl  www.nordicgiants.co.uk
 

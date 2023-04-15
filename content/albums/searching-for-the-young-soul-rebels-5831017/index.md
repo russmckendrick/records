@@ -1,14 +1,17 @@
 ---
 title: "Dexys Midnight Runners - Searching For The Young Soul Rebels"
-album_artist: "Dexys Midnight Runners"
-album_title: "Searching For The Young Soul Rebels"
+artist: "Dexys Midnight Runners"
+album_name: "Searching For The Young Soul Rebels"
 date: 2020-08-07
 release_id: "5831017"
 slug: "searching-for-the-young-soul-rebels-5831017"
+hideSummary: true
 cover:
     image: "searching-for-the-young-soul-rebels-5831017.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Searching For The Young Soul Rebels by Dexys Midnight Runners"
+    caption: "Searching For The Young Soul Rebels by Dexys Midnight Runners"
+genres: ["Rock", "Funk / Soul"]
+styles: ["New Wave", "Soul"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Love, Pt. 1 (Poem) (2000 Remaster)](https://www.youtube.com/watch?v=bAB5okWV9s4)
 - [There There My Dear (2000 Remaster)](https://www.youtube.com/watch?v=OQHFTLIbRLU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Dexys Midnight Runners - Searching For The Young Soul Rebels](https://www.discogs.com/release/5831017) |
+| Release Year   | 2014 |
+| Discogs Link   | [Dexys Midnight Runners - Searching For The Young Soul Rebels](https://www.discogs.com/release/5831017-Dexys-Midnight-Runners-Searching-For-The-Young-Soul-Rebels) |
 | Label          | Parlophone, Late Night Feelings |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | PCSX 7213, 2564629701 |
+
+Comes with lyrics inner sleeve.
 

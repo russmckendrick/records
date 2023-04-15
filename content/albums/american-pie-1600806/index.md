@@ -1,14 +1,17 @@
 ---
 title: "Don McLean - American Pie"
-album_artist: "Don McLean"
-album_title: "American Pie"
+artist: "Don McLean"
+album_name: "American Pie"
 date: 2020-08-02
 release_id: "1600806"
 slug: "american-pie-1600806"
+hideSummary: true
 cover:
     image: "american-pie-1600806.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "American Pie by Don McLean"
+    caption: "American Pie by Don McLean"
+genres: ["Rock"]
+styles: ["Folk Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The Grave](https://www.youtube.com/watch?v=p05aJNfWib8)
 - [Babylon](https://www.youtube.com/watch?v=4bnhhbV34nI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1971 |
-| Discogs Link   | [Don McLean - American Pie](https://www.discogs.com/release/1600806) |
+| Release Year   | 1971 |
+| Discogs Link   | [Don McLean - American Pie](https://www.discogs.com/release/1600806-Don-McLean-American-Pie) |
 | Label          | United Artists Records |
 | Format         | LP, Album |
 | Catalog Number | UAS 29285 |
+
+Made in the UK Dedicated to Buddy Holly  Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55 Some initial copies comes with a small white/red sticker 
 

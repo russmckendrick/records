@@ -1,14 +1,17 @@
 ---
 title: "Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
-album_artist: "Curtis Mayfield"
-album_title: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
+artist: "Curtis Mayfield"
+album_name: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
 date: 2020-05-27
 release_id: "13270217"
 slug: "keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217"
+hideSummary: true
 cover:
     image: "keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield"
+    caption: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Funk"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="00_KO4YFaRM" title="Kung Fu (Remastered)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974](https://www.discogs.com/release/13270217) |
+| Release Year   | 2019 |
+| Discogs Link   | [Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974](https://www.discogs.com/release/13270217-Curtis-Keep-On-Keeping-On-Curtis-Mayfield-Studio-Albums-1970-1974) |
 | Label          | Rhino Records (2), Curtom, Rhino Records (2), Curtom |
 | Format         | LP, Album, RE, RM, 180 + LP, Album, RE, RM, 180 +  |
 | Catalog Number | R1 573931 , 603497855797 |
+
+Record 1: Vocal overdubbing at Record Plant, New York Published by CAMAD MUSIC ℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve  Record 2: Recorded at RCA Studios, Chicago, Illinois ℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics and poster calendar  Record 3: Recorded at Curtom Studios, Chicago ℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Record 4: Recorded at Curtom Studios, Chicago, Illinois ℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Box: This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S. Made in EU.  Round sticker on shrink with The first four funk-soul slabs from the ground-floor layer of the conscious groove. Newly remastered On 180 gram vinyl R1 573931 / 603497855797 
 

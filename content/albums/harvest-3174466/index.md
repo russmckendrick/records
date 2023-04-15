@@ -1,14 +1,17 @@
 ---
 title: "Neil Young - Harvest"
-album_artist: "Neil Young"
-album_title: "Harvest"
+artist: "Neil Young"
+album_name: "Harvest"
 date: 2016-01-11
 release_id: "3174466"
 slug: "harvest-3174466"
+hideSummary: true
 cover:
     image: "harvest-3174466.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Harvest by Neil Young"
+    caption: "Harvest by Neil Young"
+genres: ["Rock"]
+styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="If6OYimXFTc" title="Neil Young - Harvest (Official Audio)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Neil Young - Harvest](https://www.discogs.com/release/3174466) |
+| Release Year   | 2009 |
+| Discogs Link   | [Neil Young - Harvest](https://www.discogs.com/release/3174466-Neil-Young-Harvest) |
 | Label          | Reprise Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 9362-49786-5 |
+
+Sticker the sleeve:  A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)  On the back: Neil Young Archives, Official Release Series, Disc 04  Comes in a textured, gatefold sleeve and with gatefold lyric sheet.  Matrices in runouts are etched, "-18662-" are stamped.
 

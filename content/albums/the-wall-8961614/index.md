@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Wall"
-album_artist: "Pink Floyd"
-album_title: "The Wall"
+artist: "Pink Floyd"
+album_name: "The Wall"
 date: 2016-09-05
 release_id: "8961614"
 slug: "the-wall-8961614"
+hideSummary: true
 cover:
     image: "the-wall-8961614.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Wall by Pink Floyd"
+    caption: "The Wall by Pink Floyd"
+genres: ["Rock"]
+styles: ["Prog Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -39,16 +42,17 @@ hideSummary: true
 25. The Trial (5:13)
 26. Outside The Wall (1:41)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - The Wall](https://www.discogs.com/release/8961614) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - The Wall](https://www.discogs.com/release/8961614-Pink-Floyd-The-Wall) |
 | Label          | Pink Floyd Records, Pink Floyd Records |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | PFRLP11, 5099902988313 |
+
+The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1979 Made in the E.U. www.pinkfloyd.com  Cat#s: 'PFRLP11-1' on LP1 inner sleeve 'PFRLP11-2' on LP2 inner sleeve  Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap. Printed inner sleeves in original UK-Style.  ℗ & © 2016 Pink Floyd Music Ltd.   Runtimes measured by digitalizing the vinyl and having timed each track on computer.  Runouts: '16736 #A / #B / #C / #D' is stamped, remainder is etched.
 

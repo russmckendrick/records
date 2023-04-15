@@ -1,14 +1,17 @@
 ---
 title: "Church Of The Cosmic Skull - There Is No Time"
-album_artist: "Church Of The Cosmic Skull"
-album_title: "There Is No Time"
+artist: "Church Of The Cosmic Skull"
+album_name: "There Is No Time"
 date: 2022-10-12
 release_id: "24780821"
 slug: "there-is-no-time-24780821"
+hideSummary: true
 cover:
     image: "there-is-no-time-24780821.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "There Is No Time by Church Of The Cosmic Skull"
+    caption: "There Is No Time by Church Of The Cosmic Skull"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="tmt-O6of2o4" title="Church of the Cosmic Skull - There Is No Time (Full Album 2022)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Church Of The Cosmic Skull - There Is No Time](https://www.discogs.com/release/24780821) |
+| Release Year   | 2022 |
+| Discogs Link   | [Church Of The Cosmic Skull - There Is No Time](https://www.discogs.com/release/24780821-Church-Of-The-Cosmic-Skull-There-Is-No-Time) |
 | Label          | Septaphonic Records |
 | Format         | LP, Album, Num, Pin |
 | Catalog Number | Septaphonic 6 |
+
+Side A ends in a lock-groove that repeats "nothing nothing nothing".  Vertical gatefold LP-style sleeve signed by all members with inner lyric sleeve. Limited to 500 copies. Comes with a certificate of authenticity authenticated by a band member when purchased directly from the band.
 

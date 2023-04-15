@@ -1,14 +1,17 @@
 ---
 title: "Fiona Apple - Tidal"
-album_artist: "Fiona Apple"
-album_title: "Tidal"
+artist: "Fiona Apple"
+album_name: "Tidal"
 date: 2017-05-16
 release_id: "10241165"
 slug: "tidal-10241165"
+hideSummary: true
 cover:
     image: "tidal-10241165.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Tidal by Fiona Apple"
+    caption: "Tidal by Fiona Apple"
+genres: ["Rock", "Pop"]
+styles: ["Soft Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Fiona Apple - Sleep to Dream (Official Video)](https://www.youtube.com/watch?v=L9Wnh0V4HMM)
 - [Fiona Apple - Never Is a Promise (Official Video)](https://www.youtube.com/watch?v=c5XptSCCciU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Fiona Apple - Tidal](https://www.discogs.com/release/10241165) |
+| Release Year   | 2017 |
+| Discogs Link   | [Fiona Apple - Tidal](https://www.discogs.com/release/10241165-Fiona-Apple-Tidal) |
 | Label          | Epic, Clean Slate, Sony Music Commercial Music Group |
 | Format         | 2xLP, Album, Club, RE, RM, 180 |
 | Catalog Number | 88985420001 |
+
+Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet. www.vinylmeplease.com/products/fiona-full  © 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles Mixed at Brooklyn Recording Studio, Los Angeles [...] Production Coordinator: Valerie Pack for Harvest Moon Productions  All songs [...] © 1996 FHW Publishing (ASCAP)
 

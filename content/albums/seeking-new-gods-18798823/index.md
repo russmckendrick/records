@@ -1,14 +1,17 @@
 ---
 title: "Gruff Rhys - Seeking New Gods"
-album_artist: "Gruff Rhys"
-album_title: "Seeking New Gods"
+artist: "Gruff Rhys"
+album_name: "Seeking New Gods"
 date: 2021-05-29
 release_id: "18798823"
 slug: "seeking-new-gods-18798823"
+hideSummary: true
 cover:
     image: "seeking-new-gods-18798823.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Seeking New Gods by Gruff Rhys"
+    caption: "Seeking New Gods by Gruff Rhys"
+genres: ["Rock", "Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Everlasting Joy](https://www.youtube.com/watch?v=OztJcWT6krI)
 - [Distant Snowy Peaks](https://www.youtube.com/watch?v=aKUrrXx6HQg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Gruff Rhys - Seeking New Gods](https://www.discogs.com/release/18798823) |
+| Release Year   | 2021 |
+| Discogs Link   | [Gruff Rhys - Seeking New Gods](https://www.discogs.com/release/18798823-Gruff-Rhys-Seeking-New-Gods) |
 | Label          | Rough Trade |
 | Format         | LP, Album, Gre |
 | Catalog Number | RT0127LP2 |
+
+Comes in a mountain die-cut envelope-style sleeve with belly band.  Initial copies from Rough Trade came with a poster and signed postcard.  Dark green vinyl.  Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.  Track durations are not mentioned on the release.
 

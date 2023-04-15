@@ -1,14 +1,17 @@
 ---
 title: "Anathema - A Natural Disaster"
-album_artist: "Anathema"
-album_title: "A Natural Disaster"
+artist: "Anathema"
+album_name: "A Natural Disaster"
 date: 2016-10-22
 release_id: "7042351"
 slug: "a-natural-disaster-7042351"
+hideSummary: true
 cover:
     image: "a-natural-disaster-7042351.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Natural Disaster by Anathema"
+    caption: "A Natural Disaster by Anathema"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Anathema - A Natural Disaster (Audio)](https://www.youtube.com/watch?v=_lMiIsQqLaE)
 - [Anathema - A Natural Disaster | FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Anathema - A Natural Disaster](https://www.discogs.com/release/7042351) |
+| Release Year   | 2015 |
+| Discogs Link   | [Anathema - A Natural Disaster](https://www.discogs.com/release/7042351-Anathema-A-Natural-Disaster) |
 | Label          | Sony Music, Music For Nations |
 | Format         | LP, Album, 180 + CD, Album + RE, RM |
 | Catalog Number | 88875058531 |
+
+Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.
 

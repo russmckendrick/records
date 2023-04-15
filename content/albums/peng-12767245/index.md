@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Peng!"
-album_artist: "Stereolab"
-album_title: "Peng!"
+artist: "Stereolab"
+album_name: "Peng!"
 date: 2018-11-09
 release_id: "12767245"
 slug: "peng-12767245"
+hideSummary: true
 cover:
     image: "peng-12767245.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Peng! by Stereolab"
+    caption: "Peng! by Stereolab"
+genres: ["Rock"]
+styles: ["Experimental", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Stomach Worm (2018 Remaster)](https://www.youtube.com/watch?v=5t-c9d8QAQg)
 - [Surrealchemist (2018 Remaster)](https://www.youtube.com/watch?v=5DlNE-LOEt4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Stereolab - Peng!](https://www.discogs.com/release/12767245) |
+| Release Year   | 2018 |
+| Discogs Link   | [Stereolab - Peng!](https://www.discogs.com/release/12767245-Stereolab-Peng) |
 | Label          | Too Pure |
 | Format         | LP, Album, RE, RM, Cle |
 | Catalog Number | PURE11LPX |
+
+Recorded - London April 1992 Re-mastered [...] @ Calyx, Berlin Published by Complete Music / Domino Publ. Co. Ltd Original sound recording made by Too Pure, London  ℗ & © 1992 Too Pure  Includes a double-sided insert with lyrics and liner notes discussing the album.
 

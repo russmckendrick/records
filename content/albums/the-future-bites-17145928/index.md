@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - The Future Bites"
-album_artist: "Steven Wilson"
-album_title: "The Future Bites"
+artist: "Steven Wilson"
+album_name: "The Future Bites"
 date: 2021-02-01
 release_id: "17145928"
 slug: "the-future-bites-17145928"
+hideSummary: true
 cover:
     image: "the-future-bites-17145928.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Future Bites by Steven Wilson"
+    caption: "The Future Bites by Steven Wilson"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17145928) |
+| Release Year   | 2021 |
+| Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17145928-Steven-Wilson-The-Future-Bites) |
 | Label          | Caroline International, Arts & Crafts |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | CAROL021LPC |
+
+Slip cover around a gatefold sleeve with a 16-page booklet. Early copies came with poster of cover signed by Steven Wilson.  All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC
 

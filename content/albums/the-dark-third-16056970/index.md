@@ -1,14 +1,17 @@
 ---
 title: "Pure Reason Revolution - The Dark Third"
-album_artist: "Pure Reason Revolution"
-album_title: "The Dark Third"
+artist: "Pure Reason Revolution"
+album_name: "The Dark Third"
 date: 2020-10-16
 release_id: "16056970"
 slug: "the-dark-third-16056970"
+hideSummary: true
 cover:
     image: "the-dark-third-16056970.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Dark Third by Pure Reason Revolution"
+    caption: "The Dark Third by Pure Reason Revolution"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -65,13 +68,16 @@ hideSummary: true
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/16056970) |
+| Release Year   | 2020 |
+| Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/16056970-Pure-Reason-Revolution-The-Dark-Third) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, Yel + 2xCD, Album + Ltd, RE |
 | Catalog Number | 19439793441 |
+
+Gatefold, strictly limited to 200 copies.
 

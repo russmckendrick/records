@@ -1,14 +1,17 @@
 ---
 title: "Sly & The Family Stone - The Best Of Sly And The Family Stone"
-album_artist: "Sly & The Family Stone"
-album_title: "The Best Of Sly And The Family Stone"
+artist: "Sly & The Family Stone"
+album_name: "The Best Of Sly And The Family Stone"
 date: 2021-10-12
 release_id: "20361376"
 slug: "the-best-of-sly-and-the-family-stone-20361376"
+hideSummary: true
 cover:
     image: "the-best-of-sly-and-the-family-stone-20361376.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Best Of Sly And The Family Stone by Sly & The Family Stone"
+    caption: "The Best Of Sly And The Family Stone by Sly & The Family Stone"
+genres: ["Funk / Soul"]
+styles: ["Funk", "Psychedelic", "Disco"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Sly And The Family Stone - Que Sera Sera (w/ Mishal Moore and The Firth Sisters)](https://www.youtube.com/watch?v=hlc5f-cJEVM)
 - [Sly & The Family Stone - Family Affair (Official Audio)](https://www.youtube.com/watch?v=xag5RKD0VHk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Sly & The Family Stone - The Best Of Sly And The Family Stone](https://www.discogs.com/release/20361376) |
+| Release Year   | 2021 |
+| Discogs Link   | [Sly & The Family Stone - The Best Of Sly And The Family Stone](https://www.discogs.com/release/20361376-Sly-The-Family-Stone-The-Best-Of-Sly-And-The-Family-Stone) |
 | Label          | Epic, Music On Vinyl |
 | Format         | 2xLP, Comp, Ltd, Num, RE, Pin |
 | Catalog Number | MOVLP125 |
+
+Limited Edition of 2000 Copies (numbered)
 

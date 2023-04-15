@@ -1,14 +1,17 @@
 ---
 title: "The Smashing Pumpkins - Adore"
-album_artist: "The Smashing Pumpkins"
-album_title: "Adore"
+artist: "The Smashing Pumpkins"
+album_name: "Adore"
 date: 2016-03-06
 release_id: "6172304"
 slug: "adore-6172304"
+hideSummary: true
 cover:
     image: "adore-6172304.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Adore by The Smashing Pumpkins"
+    caption: "Adore by The Smashing Pumpkins"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,16 +32,17 @@ hideSummary: true
 15. Blank Page (4:51)
 16. 17 (0:17)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Smashing Pumpkins - Adore](https://www.discogs.com/release/6172304) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Smashing Pumpkins - Adore](https://www.discogs.com/release/6172304-The-Smashing-Pumpkins-Adore) |
 | Label          | Virgin |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 6 02537 89926 5 |
+
+Comes with 2 types of innersleeve; 1 type is blanck, 2nd type is printed innersleeves (both are different, one with lyrics and one with  credits)
 

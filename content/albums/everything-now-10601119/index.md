@@ -1,14 +1,17 @@
 ---
 title: "Arcade Fire - Everything Now"
-album_artist: "Arcade Fire"
-album_title: "Everything Now"
+artist: "Arcade Fire"
+album_name: "Everything Now"
 date: 2017-07-29
 release_id: "10601119"
 slug: "everything-now-10601119"
+hideSummary: true
 cover:
     image: "everything-now-10601119.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Everything Now by Arcade Fire"
+    caption: "Everything Now by Arcade Fire"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Arcade Fire - Signs of Life (Official Video)](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
 - [Arcade Fire - Electric Blue (Official Video)](https://www.youtube.com/watch?v=UymXRxJPOQo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Arcade Fire - Everything Now](https://www.discogs.com/release/10601119) |
+| Release Year   | 2017 |
+| Discogs Link   | [Arcade Fire - Everything Now](https://www.discogs.com/release/10601119-Arcade-Fire-Everything-Now) |
 | Label          | Sonovox Records |
 | Format         | LP, Album, Ltd, Blu |
 | Catalog Number | 88985447861 |
+
+Referred to as the 'Night Version.'  Gatefold sleeve that comes in a clear plastic slipcase. Includes a printed insert and a printed inner sleeve.  ℗&© 2017 Arcade Fire Music  "Everything Now" contains elements from "The Coffee Cola Song" written by [a181285].  Recorded at Boombox Studios, New Orleans; Sonovox Studios, Montréal; Gang Recording Studio, Paris Mixed at Parlor Studios & Boombox Studios, New Orleans; Toast, London Mastered at Sterling Sound, NYC  [Artwork] shot in Death Valley  Published by EMI Music Publishing Limited
 

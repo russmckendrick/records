@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Monolithic Baby!"
-album_artist: "Monster Magnet"
-album_title: "Monolithic Baby!"
+artist: "Monster Magnet"
+album_name: "Monolithic Baby!"
 date: 2022-10-01
 release_id: "24530108"
 slug: "monolithic-baby-24530108"
+hideSummary: true
 cover:
     image: "monolithic-baby-24530108.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Monolithic Baby! by Monster Magnet"
+    caption: "Monolithic Baby! by Monster Magnet"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Monster Magnet - Monolithic Baby! Interview](https://www.youtube.com/watch?v=lVkVq-2jdUU)
 - [Monster Magnet - Monolithic (HQ Live, London Astoria, England)](https://www.youtube.com/watch?v=DEgAHuAHQJ0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Monster Magnet - Monolithic Baby!](https://www.discogs.com/release/24530108) |
+| Release Year   | 2022 |
+| Discogs Link   | [Monster Magnet - Monolithic Baby!](https://www.discogs.com/release/24530108-Monster-Magnet-Monolithic-Baby) |
 | Label          | Napalm Records |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | NPR1066VINYL |
+
+Black vinyl edition.  Tracks C1, D3 mixed at Paramount Studios, CA.  Tim Cronin, eye of agamotto and the sum of all fears.  Magnet welcomes aboard Bob Pantella on drums.  Dedicated to the memory of Gerald F Wyndorf 1918-2003 "Love you Pop! See you on the other side!'  (45 RPM not mentioned anywhere on the cover/inlay/record.)
 

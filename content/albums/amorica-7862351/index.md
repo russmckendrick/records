@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - Amorica"
-album_artist: "The Black Crowes"
-album_title: "Amorica"
+artist: "The Black Crowes"
+album_name: "Amorica"
 date: 2015-12-21
 release_id: "7862351"
 slug: "amorica-7862351"
+hideSummary: true
 cover:
     image: "amorica-7862351.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Amorica by The Black Crowes"
+    caption: "Amorica by The Black Crowes"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [The Black Crowes – Downtown Money Waster](https://www.youtube.com/watch?v=R2pO0AUy82U)
 - [The Black Crowes – Ballad In Urgency](https://www.youtube.com/watch?v=kiI-30MkIZg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Black Crowes - Amorica](https://www.discogs.com/release/7862351) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Black Crowes - Amorica](https://www.discogs.com/release/7862351-The-Black-Crowes-Amorica) |
 | Label          | American Recordings |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 00602537494231 |
+
+© ℗ 1994 American Recordings, LLC.  Made in the EU. Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.  Comes with plain white inner sleeves and a double printed lyric sheet.  Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record. Contains added coupon with [MP3 download](https://www.discogs.com/release/9476948) code.  Back To Black Sticker on front.
 

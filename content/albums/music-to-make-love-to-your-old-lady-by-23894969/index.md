@@ -1,14 +1,17 @@
 ---
 title: "Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles - Music To Make Love To Your Old Lady By"
-album_artist: "Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
-album_title: "Music To Make Love To Your Old Lady By"
+artist: "Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
+album_name: "Music To Make Love To Your Old Lady By"
 date: 2022-07-26
 release_id: "23894969"
 slug: "music-to-make-love-to-your-old-lady-by-23894969"
+hideSummary: true
 cover:
     image: "music-to-make-love-to-your-old-lady-by-23894969.jpg"
-tags: ["Electronic", "Hip Hop", "Pop"]
-hideSummary: true
+    alt: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
+    caption: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
+genres: ["Electronic", "Hip Hop", "Pop"]
+styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
 - [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969) |
+| Release Year   | 2022 |
+| Discogs Link   | [Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969-Nathaniel-Merriweather-Presents-Lovage-Avec-Michael-Patton-Jennifer-Charles-Music-To-Make-Love-To-Yo) |
 | Label          | Bulk Recordings |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | BULK020LP |
+
+"Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb  The cover is a remake of [m4375].   ℗ © 2022 Bulk Recordings
 

@@ -1,14 +1,17 @@
 ---
 title: "Iggy Pop - Lust For Life"
-album_artist: "Iggy Pop"
-album_title: "Lust For Life"
+artist: "Iggy Pop"
+album_name: "Lust For Life"
 date: 2017-07-05
 release_id: "10451767"
 slug: "lust-for-life-10451767"
+hideSummary: true
 cover:
     image: "lust-for-life-10451767.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lust For Life by Iggy Pop"
+    caption: "Lust For Life by Iggy Pop"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Iggy Pop - Lust For Life](https://www.youtube.com/watch?v=jQvUBf5l7Vw)
 - [Iggy Pop - The Passenger (Official Video)](https://www.youtube.com/watch?v=-fWw7FE9tTo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Iggy Pop - Lust For Life](https://www.discogs.com/release/10451767) |
+| Release Year   | 2017 |
+| Discogs Link   | [Iggy Pop - Lust For Life](https://www.discogs.com/release/10451767-Iggy-Pop-Lust-For-Life) |
 | Label          | UMC |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 00600753772454 |
+
+Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Album notes credit Vocals to "The Band". Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".  Made in the EU.
 

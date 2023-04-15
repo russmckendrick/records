@@ -1,14 +1,17 @@
 ---
 title: "Various - Confessin' The Blues"
-album_artist: "Various"
-album_title: "Confessin' The Blues"
+artist: "Various"
+album_name: "Confessin' The Blues"
 date: 2018-12-19
 release_id: "12774929"
 slug: "confessin-the-blues-12774929"
+hideSummary: true
 cover:
     image: "confessin-the-blues-12774929.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "Confessin' The Blues by Various"
+    caption: "Confessin' The Blues by Various"
+genres: ["Blues"]
+styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 {{< youtube id="SCy_YxJmFX4" title="Confessin' the Blues (version de luxe) & Le Blues en 150 figures" >}}
 - [Muddy Waters - Rollin' Stone (Catfish Blues)](https://www.youtube.com/watch?v=4T2hygHu8CI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - Confessin' The Blues](https://www.discogs.com/release/12774929) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - Confessin' The Blues](https://www.discogs.com/release/12774929-Various-Confessin-The-Blues) |
 | Label          | BMG, Universal Music On Demand |
 | Format         | 5x10\", Comp + Box |
 | Catalog Number | BMGCAT155EPX |
+
+"The Blues. It's probably the most important thing that America has ever given to the World." - Keith Richards (on the back cover) "The Blues - The sound of a sinner on revival day." - W.C. Handy - the father of the blues (on the second page of the 40 pages inside book)  The box includes 5 x 10" vinyl, period inner sleeves, 6 x art cards, extended essay and iconic imagery of the blues legends.  On sticker on shrink: Original blues masterpieces hand picked and curated in collaboration with The Rolling Stones  Manufactured in the EU.  This compilation ℗ & © 2018 BMG Rights Management (UK) Limited / Universal Music Operations Ltd.
 

@@ -1,14 +1,17 @@
 ---
 title: "Ryan Adams - Heartbreaker"
-album_artist: "Ryan Adams"
-album_title: "Heartbreaker"
+artist: "Ryan Adams"
+album_name: "Heartbreaker"
 date: 2016-04-27
 release_id: "7040056"
 slug: "heartbreaker-7040056"
+hideSummary: true
 cover:
     image: "heartbreaker-7040056.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Heartbreaker by Ryan Adams"
+    caption: "Heartbreaker by Ryan Adams"
+genres: ["Rock", "Blues"]
+styles: ["Acoustic"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)
 - [Sweet Lil' gal (23rd/1st)](https://www.youtube.com/watch?v=DuL3Zx0hEFs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Ryan Adams - Heartbreaker](https://www.discogs.com/release/7040056) |
+| Release Year   | 2015 |
+| Discogs Link   | [Ryan Adams - Heartbreaker](https://www.discogs.com/release/7040056-Ryan-Adams-Heartbreaker) |
 | Label          | Pax Americana Record Company, Pax Americana Record Company |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | PAX-AM 052, 00600753583609 |
+
+Includes a voucher to download 96/24 WAV version of the album.  MADE IN GERMANY sticker on shrink wrap on back cover.  PAX-AM 052 located in lower right corner of back cover. 00600753583609 located on spine, and labels.
 

@@ -1,14 +1,17 @@
 ---
 title: "Ghost (32) - Prequelle"
-album_artist: "Ghost (32)"
-album_title: "Prequelle"
+artist: "Ghost (32)"
+album_name: "Prequelle"
 date: 2018-06-15
 release_id: "12074710"
 slug: "prequelle-12074710"
+hideSummary: true
 cover:
     image: "prequelle-12074710.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Prequelle by Ghost (32)"
+    caption: "Prequelle by Ghost (32)"
+genres: ["Rock"]
+styles: ["Gothic Metal"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)
 - [Life Eternal](https://www.youtube.com/watch?v=LU6ZN_CJICo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Ghost (32) - Prequelle](https://www.discogs.com/release/12074710) |
+| Release Year   | 2018 |
+| Discogs Link   | [Ghost (32) - Prequelle](https://www.discogs.com/release/12074710-Ghost-Prequelle) |
 | Label          | Loma Vista, Spinefarm Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | LVR00392, 0888072054851 |
+
+Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings
 

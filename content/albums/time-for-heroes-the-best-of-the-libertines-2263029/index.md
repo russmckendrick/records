@@ -1,14 +1,17 @@
 ---
 title: "The Libertines - Time For Heroes - The Best Of The Libertines"
-album_artist: "The Libertines"
-album_title: "Time For Heroes - The Best Of The Libertines"
+artist: "The Libertines"
+album_name: "Time For Heroes - The Best Of The Libertines"
 date: 2018-07-13
 release_id: "2263029"
 slug: "time-for-heroes-the-best-of-the-libertines-2263029"
+hideSummary: true
 cover:
     image: "time-for-heroes-the-best-of-the-libertines-2263029.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Time For Heroes - The Best Of The Libertines by The Libertines"
+    caption: "Time For Heroes - The Best Of The Libertines by The Libertines"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="CqM11bt9QvI" title="The Libertines - Can't Stand Me Now (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2007 |
-| Discogs Link   | [The Libertines - Time For Heroes - The Best Of The Libertines](https://www.discogs.com/release/2263029) |
+| Release Year   | 2007 |
+| Discogs Link   | [The Libertines - Time For Heroes - The Best Of The Libertines](https://www.discogs.com/release/2263029-The-Libertines-Time-For-Heroes-The-Best-Of-The-Libertines) |
 | Label          | Rough Trade |
 | Format         | LP, Comp, Ltd, Red |
 | Catalog Number | RTRADLP421 |
+
+
 

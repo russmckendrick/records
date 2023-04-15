@@ -1,14 +1,17 @@
 ---
 title: "Love - Forever Changes"
-album_artist: "Love"
-album_title: "Forever Changes"
+artist: "Love"
+album_name: "Forever Changes"
 date: 2016-10-09
 release_id: "7597206"
 slug: "forever-changes-7597206"
+hideSummary: true
 cover:
     image: "forever-changes-7597206.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Forever Changes by Love"
+    caption: "Forever Changes by Love"
+genres: ["Rock"]
+styles: ["Folk Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [A House Is Not a Motel (2015 Remaster)](https://www.youtube.com/watch?v=H3xzHYz6L5w)
 - [You Set the Scene (2015 Remaster)](https://www.youtube.com/watch?v=-N9kGKFIAQk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Love - Forever Changes](https://www.discogs.com/release/7597206) |
+| Release Year   | 2015 |
+| Discogs Link   | [Love - Forever Changes](https://www.discogs.com/release/7597206-Love-Forever-Changes) |
 | Label          | Elektra, Rhino Records (2) |
 | Format         | LP, Album, Ltd, RE, Whi |
 | Catalog Number | 8122797115 |
+
+Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.  Judging from the matrix nos, it looks as though plating was done at RTI and EU version pressed by Optimal.  Technically, this is a repress of [r4073447]  Ltd ed. of only 2000
 

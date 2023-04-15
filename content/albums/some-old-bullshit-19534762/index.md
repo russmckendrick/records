@@ -1,14 +1,17 @@
 ---
 title: "Beastie Boys - Some Old Bullshit"
-album_artist: "Beastie Boys"
-album_title: "Some Old Bullshit"
+artist: "Beastie Boys"
+album_name: "Some Old Bullshit"
 date: 2022-04-15
 release_id: "19534762"
 slug: "some-old-bullshit-19534762"
+hideSummary: true
 cover:
     image: "some-old-bullshit-19534762.jpg"
-tags: ["Electronic", "Hip Hop", "Rock"]
-hideSummary: true
+    alt: "Some Old Bullshit by Beastie Boys"
+    caption: "Some Old Bullshit by Beastie Boys"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Michelle's Farm](https://www.youtube.com/watch?v=4k8ikteOs1s)
 - [Transit Cop (Demo)](https://www.youtube.com/watch?v=7mZC6Uc37hQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Beastie Boys - Some Old Bullshit](https://www.discogs.com/release/19534762) |
+| Release Year   | 2021 |
+| Discogs Link   | [Beastie Boys - Some Old Bullshit](https://www.discogs.com/release/19534762-Beastie-Boys-Some-Old-Bullshit) |
 | Label          | Grand Royal, Capitol Records |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | GR 003, 00602507458256 |
+
+℗ 1994 © 2020 Capitol Records, LLC and Beastie Boys 2021 reissue on black 180g vinyl.  © and ℗ of the Beastie Boys, 1982  Made in the E.U.  Antistatic white innersleeve.  Hype Sticker : "Featuring Beastie Boys' Earliest Recordings Including EGG RAID ON MOJO and COOKY PUSS on 180gram VINYL 0062507458256"  Come with a 4 pages insert.  #'s 1 and 10 were recorded on 4 track cassette by Greg Cewdson and Eric Hoofert then taped from Tim Sommer's "Noise The Show" radio program.  #'s 2 through 9 were recorded at 171A studios, engineered by Scott Jarvis, and produced by Beastie Boys and Scott Jarvis in the winter of 1981.  #'s 11 trough 14 were recorded at Celebration recordings, engineered by Dug Pomeroy, and produced by Beastie Boys and Dug Pomeroy on March of 1983  Side A = [m20098] Side B = [m20205]
 

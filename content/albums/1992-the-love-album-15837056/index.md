@@ -1,14 +1,17 @@
 ---
 title: "Carter The Unstoppable Sex Machine - 1992 The Love Album"
-album_artist: "Carter The Unstoppable Sex Machine"
-album_title: "1992 The Love Album"
+artist: "Carter The Unstoppable Sex Machine"
+album_name: "1992 The Love Album"
 date: 2020-09-03
 release_id: "15837056"
 slug: "1992-the-love-album-15837056"
+hideSummary: true
 cover:
     image: "1992-the-love-album-15837056.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "1992 The Love Album by Carter The Unstoppable Sex Machine"
+    caption: "1992 The Love Album by Carter The Unstoppable Sex Machine"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Carter U.S.M. - The Only Living Boy In New Cross (Official Video)](https://www.youtube.com/watch?v=imcSt2HyzEo)
 - [Carter U.S.M. - The Impossible Dream](https://www.youtube.com/watch?v=-Mp6F0u-cw0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Carter The Unstoppable Sex Machine - 1992 The Love Album](https://www.discogs.com/release/15837056) |
+| Release Year   | 2020 |
+| Discogs Link   | [Carter The Unstoppable Sex Machine - 1992 The Love Album](https://www.discogs.com/release/15837056-Carter-The-Unstoppable-Sex-Machine-1992-The-Love-Album) |
 | Label          | Chrysalis |
 | Format         | LP, Album, RSD, Ltd, Pic |
 | Catalog Number | CHRP 1946 |
+
+ RSD UK August 2020 release limited to 750 copies.  Track B4 - words from 'The Man From La Mancha', © Dale Wasserman.  Track B5 - published by Carlin Music Corp.
 

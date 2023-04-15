@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend - Eras I"
-album_artist: "Devin Townsend"
-album_title: "Eras I"
+artist: "Devin Townsend"
+album_name: "Eras I"
 date: 2018-06-09
 release_id: "12108653"
 slug: "eras-i-12108653"
+hideSummary: true
 cover:
     image: "eras-i-12108653.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Eras I by Devin Townsend"
+    caption: "Eras I by Devin Townsend"
+genres: ["Electronic", "Rock"]
+styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", "Power Pop", "Heavy Metal", "Acoustic", "Ethereal", "Symphonic Rock", "Industrial"]
 ---
 
 ## Tracklisting
@@ -65,13 +68,16 @@ hideSummary: true
 {{< youtube id="I4PkL5FwDEA" title="Devin Townsend ~ Bend It Like Bender" >}}
 - [A Monday](https://www.youtube.com/watch?v=7UYFLIaxaEk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Devin Townsend - Eras I](https://www.discogs.com/release/12108653) |
+| Release Year   | 2018 |
+| Discogs Link   | [Devin Townsend - Eras I](https://www.discogs.com/release/12108653-Devin-Townsend-Eras-I) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | Box, Comp, Dlx, Ltd + 2xLP, Album, RE + LP, Album, |
 | Catalog Number | IOMLP 503, 19075827351 |
+
+Black 180g vinyl limited to 2500 copies. Includes the albums Ki, Addicted, Deconstruction & Ghost. For the latter two this is the first vinyl pressing.  Includes a 34 page booklet with photos, credits, lyrics & new liner notes for each album by Devin Townsend.  "On booklet page 8: Legal & Management Jeff Cohen and Mike Mohery www.outerloopmanagement.com" "On booklet page 16: Management: Mike Mohery for Outerloop Management (mike@outerloopmanagement.com); Legal: Jeff Cohen (cohen@mwzb.com)"  The track list on the back of the box and booklet has typo in the title of Addicted, it is misspelled as "Addictced".
 

@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - Everything Must Go"
-album_artist: "Manic Street Preachers"
-album_title: "Everything Must Go"
+artist: "Manic Street Preachers"
+album_name: "Everything Must Go"
 date: 2016-07-18
 release_id: "8667461"
 slug: "everything-must-go-8667461"
+hideSummary: true
 cover:
     image: "everything-must-go-8667461.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Everything Must Go by Manic Street Preachers"
+    caption: "Everything Must Go by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Manic Street Preachers - A Design For Life](https://www.youtube.com/watch?v=zSIs1YmBQaY)
 - [Manic Street Preachers - Australia](https://www.youtube.com/watch?v=FAb6KGxm58U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Manic Street Preachers - Everything Must Go](https://www.discogs.com/release/8667461) |
+| Release Year   | 2016 |
+| Discogs Link   | [Manic Street Preachers - Everything Must Go](https://www.discogs.com/release/8667461-Manic-Street-Preachers-Everything-Must-Go) |
 | Label          | Sony Music, Columbia |
 | Format         | LP, Album, Ltd, RE, RM, Blu |
 | Catalog Number | 88985317831 |
+
+Initial copies were exclusive to HMV. Heavyweight vinyl. The whole release run was limited to 1000 copies.  Cut by Chris Blair - Abbey Road, London. All songs recorded Autumn 95 - Winter 96.  All tracks mixed at Chateau De La Rouge Motte except  A2, B7, B11 mixed at Abbey Road, London, B9 Battery Studios, London  and B12 Swanyard Recording Studios, London. All tracks recorded at Chateau De La Rouge Motte, France except  B12 recorded at The Big Noise Recorders, Cardiff and House In The Woods  and B7 recorded at Real World Studios, Wiltshire.  Love to Philip and Richey. Thanks to Martin and Rob.  ℗ & © 2016 Sony Music Entertainment UK Limited.
 

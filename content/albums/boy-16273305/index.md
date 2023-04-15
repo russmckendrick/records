@@ -1,14 +1,17 @@
 ---
 title: "U2 - Boy"
-album_artist: "U2"
-album_title: "Boy"
+artist: "U2"
+album_name: "Boy"
 date: 2020-12-03
 release_id: "16273305"
 slug: "boy-16273305"
+hideSummary: true
 cover:
     image: "boy-16273305.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Boy by U2"
+    caption: "Boy by U2"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Shadows And Tall Trees
 12. Untitled
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [U2 - Boy](https://www.discogs.com/release/16273305) |
+| Release Year   | 2020 |
+| Discogs Link   | [U2 - Boy](https://www.discogs.com/release/16273305-U2-Boy) |
 | Label          | Island Records, UMC |
 | Format         | LP, Album, RSD, Ltd, RE, RM, Whi |
 | Catalog Number | 0749627 |
+
+40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   Made In Germany.
 

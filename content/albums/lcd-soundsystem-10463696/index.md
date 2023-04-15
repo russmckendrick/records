@@ -1,14 +1,17 @@
 ---
 title: "LCD Soundsystem - LCD Soundsystem"
-album_artist: "LCD Soundsystem"
-album_title: "LCD Soundsystem"
+artist: "LCD Soundsystem"
+album_name: "LCD Soundsystem"
 date: 2017-06-24
 release_id: "10463696"
 slug: "lcd-soundsystem-10463696"
+hideSummary: true
 cover:
     image: "lcd-soundsystem-10463696.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "LCD Soundsystem by LCD Soundsystem"
+    caption: "LCD Soundsystem by LCD Soundsystem"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Electro"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Yeah](https://www.youtube.com/watch?v=ERdGCgI-Uj4)
 - [Yeah (Pretentious Mix)](https://www.youtube.com/watch?v=vTDDSrhXdBY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [LCD Soundsystem - LCD Soundsystem](https://www.discogs.com/release/10463696) |
+| Release Year   | 2017 |
+| Discogs Link   | [LCD Soundsystem - LCD Soundsystem](https://www.discogs.com/release/10463696-LCD-Soundsystem-LCD-Soundsystem) |
 | Label          | DFA, DFA, Parlophone |
 | Format         | LP, Album, RE, Gat |
 | Catalog Number | dfaplg 2138lp, 0190295905262 |
+
+Gatefold sleeve  ℗ 2005 © 2017  Printed in the EU  Reissue with different back cover.
 

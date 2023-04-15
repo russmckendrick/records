@@ -1,14 +1,17 @@
 ---
 title: "Steely Dan - Can't Buy A Thrill"
-album_artist: "Steely Dan"
-album_title: "Can't Buy A Thrill"
+artist: "Steely Dan"
+album_name: "Can't Buy A Thrill"
 date: 2022-11-04
 release_id: "25006759"
 slug: "can-t-buy-a-thrill-25006759"
+hideSummary: true
 cover:
     image: "can-t-buy-a-thrill-25006759.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Can't Buy A Thrill by Steely Dan"
+    caption: "Can't Buy A Thrill by Steely Dan"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Change Of The Guard](https://www.youtube.com/watch?v=roLIYw8Ov_I)
 - [Turn That Heartbeat Over Again](https://www.youtube.com/watch?v=DSfiPrhpeF8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Steely Dan - Can't Buy A Thrill](https://www.discogs.com/release/25006759) |
+| Release Year   | 2022 |
+| Discogs Link   | [Steely Dan - Can't Buy A Thrill](https://www.discogs.com/release/25006759-Steely-Dan-Cant-Buy-A-Thrill) |
 | Label          | Geffen Records, UMe |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | B0035111-01 |
+
+50th Anniversary Edition Runouts: Var 1 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 1 Side B: 249034E2 1378024 (stamped) B0035111-01B B 6/30/22 (etched) Var 2 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 2 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 (etched) Var 3 Side A: 249034E1 1375812 (stamped) B0035111-01A A 6/29/22 AA (etched) Var 3 Side B: 249034E2 1325460 (stamped) B0035111-01B B 6/30/22 AA (etched)  Pressed By Precision and Mastered By Bernie Grundman credits are not shown on this release, but were sourced from the Acoustic Sounds website. 
 

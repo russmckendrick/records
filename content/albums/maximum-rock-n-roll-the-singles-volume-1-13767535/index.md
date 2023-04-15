@@ -1,14 +1,17 @@
 ---
 title: "Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 "
-album_artist: "Primal Scream"
-album_title: "Maximum Rock 'N' Roll The Singles Volume 1 "
+artist: "Primal Scream"
+album_name: "Maximum Rock 'N' Roll The Singles Volume 1 "
 date: 2019-06-16
 release_id: "13767535"
 slug: "maximum-rock-n-roll-the-singles-volume-1-13767535"
+hideSummary: true
 cover:
     image: "maximum-rock-n-roll-the-singles-volume-1-13767535.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream"
+    caption: "Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="R7HNtyxrlu8" title="Bobby Gillespie on Primal Scream's ‘Maximum Rock N Roll’ – The Blues Kitchen Presents..." >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 ](https://www.discogs.com/release/13767535) |
+| Release Year   | 2019 |
+| Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 ](https://www.discogs.com/release/13767535-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-1-) |
 | Label          | Sony Music |
 | Format         | LP, Red + LP, Whi + Comp, Ltd |
 | Catalog Number | 88985486441 |
+
+Limited 500 copies in a gatefold sleeve.
 

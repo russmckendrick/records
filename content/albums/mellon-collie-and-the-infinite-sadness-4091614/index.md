@@ -1,14 +1,17 @@
 ---
 title: "The Smashing Pumpkins - Mellon Collie And The Infinite Sadness"
-album_artist: "The Smashing Pumpkins"
-album_title: "Mellon Collie And The Infinite Sadness"
+artist: "The Smashing Pumpkins"
+album_name: "Mellon Collie And The Infinite Sadness"
 date: 2015-09-23
 release_id: "4091614"
 slug: "mellon-collie-and-the-infinite-sadness-4091614"
+hideSummary: true
 cover:
     image: "mellon-collie-and-the-infinite-sadness-4091614.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mellon Collie And The Infinite Sadness by The Smashing Pumpkins"
+    caption: "Mellon Collie And The Infinite Sadness by The Smashing Pumpkins"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,16 +44,17 @@ hideSummary: true
 27. By Starlight (4:47)
 28. Farewell And Goodnight (4:21)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [The Smashing Pumpkins - Mellon Collie And The Infinite Sadness](https://www.discogs.com/release/4091614) |
+| Release Year   | 2012 |
+| Discogs Link   | [The Smashing Pumpkins - Mellon Collie And The Infinite Sadness](https://www.discogs.com/release/4091614-The-Smashing-Pumpkins-Mellon-Collie-And-The-Infinite-Sadness) |
 | Label          | Virgin |
 | Format         | 4xLP, Album, RE, RM + Box |
 | Catalog Number | 5099997855316 |
+
+Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.  All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.  ℗ 2012, Virgin Records America, Inc. © 2012, Virgin Records America, Inc.   All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.
 

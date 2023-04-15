@@ -1,14 +1,17 @@
 ---
 title: "The Finn Brothers - Finn"
-album_artist: "The Finn Brothers"
-album_title: "Finn"
+artist: "The Finn Brothers"
+album_name: "Finn"
 date: 2022-07-29
 release_id: "24028274"
 slug: "finn-24028274"
+hideSummary: true
 cover:
     image: "finn-24028274.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Finn by The Finn Brothers"
+    caption: "Finn by The Finn Brothers"
+genres: ["Rock", "Pop"]
+styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="7Kl-Y5ISIvM" title="Finn Brothers - Only Talking Sense" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Finn Brothers - Finn](https://www.discogs.com/release/24028274) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Finn Brothers - Finn](https://www.discogs.com/release/24028274-The-Finn-Brothers-Finn) |
 | Label          | Needle Mythology |
 | Format         | LP, Album, RE + LP + Comp, Dlx, 180 |
 | Catalog Number | NEMYLP006 |
+
+Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95.  This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd.  Initial quantity from artist website included a cover print signed by Neil and Tim Finn.  Track D6 is unlisted. Title for track taken from [r18754873].
 

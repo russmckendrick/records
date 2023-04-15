@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury - New Boots And Panties!!"
-album_artist: "Ian Dury"
-album_title: "New Boots And Panties!!"
+artist: "Ian Dury"
+album_name: "New Boots And Panties!!"
 date: 2018-02-01
 release_id: "11098144"
 slug: "new-boots-and-panties-11098144"
+hideSummary: true
 cover:
     image: "new-boots-and-panties-11098144.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "New Boots And Panties!! by Ian Dury"
+    caption: "New Boots And Panties!! by Ian Dury"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/11098144) |
+| Release Year   | 2017 |
+| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/11098144-Ian-Dury-New-Boots-And-Panties) |
 | Label          | Demon Records |
 | Format         | 2xLP, Album, Dlx, Ltd, Num, RE, Spl |
 | Catalog Number | DEMRECDLX005 |
+
+Limited to 1000 copies - numbered on the lower left of the back cover. Deluxe Edition Includes the classic album and Live AT The Paris Theatre, London. 2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.  Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C. 
 

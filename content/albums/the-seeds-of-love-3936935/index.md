@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - The Seeds Of Love"
-album_artist: "Tears For Fears"
-album_title: "The Seeds Of Love"
+artist: "Tears For Fears"
+album_name: "The Seeds Of Love"
 date: 2016-03-20
 release_id: "3936935"
 slug: "the-seeds-of-love-3936935"
+hideSummary: true
 cover:
     image: "the-seeds-of-love-3936935.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Seeds Of Love by Tears For Fears"
+    caption: "The Seeds Of Love by Tears For Fears"
+genres: ["Rock", "Pop"]
+styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -73,13 +76,16 @@ hideSummary: true
 - [Bad Man's Song (Medley / Reprise / Townhouse Live Jam Sessions)](https://www.youtube.com/watch?v=qOPoyzJRuV0)
 - [Standing On The Corner Of The Third World (Townhouse Live Jam Sessions)](https://www.youtube.com/watch?v=46GBfif2iFA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/3936935) |
+| Release Year   | 2012 |
+| Discogs Link   | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/3936935-Tears-For-Fears-The-Seeds-Of-Love) |
 | Label          | Mobile Fidelity Sound Lab, Mercury, Universal Music Special Markets |
 | Format         | LP, Album, Ltd, Num, RE, RM, S/Edition, Gat |
 | Catalog Number | MOFI 1-034, B001649-01 |
+
+Mastered on "The Gain 2 Ultra Analog System". Special numbered limited edition. Standart weight audiophile quality vinyl, 140gram.  1/2" / 30 IPS analog copy to analog console to lathe
 

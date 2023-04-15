@@ -1,14 +1,17 @@
 ---
 title: "Magma (6) - Mëkanïk Dëstruktïẁ Kömmandöh"
-album_artist: "Magma (6)"
-album_title: "Mëkanïk Dëstruktïẁ Kömmandöh"
+artist: "Magma (6)"
+album_name: "Mëkanïk Dëstruktïẁ Kömmandöh"
 date: 2022-03-14
 release_id: "22097701"
 slug: "mkank-dstrukt-kmmandh-22097701"
+hideSummary: true
 cover:
     image: "mkank-dstrukt-kmmandh-22097701.jpg"
-tags: ["Jazz", "Rock"]
-hideSummary: true
+    alt: "Mëkanïk Dëstruktïẁ Kömmandöh by Magma (6)"
+    caption: "Mëkanïk Dëstruktïẁ Kömmandöh by Magma (6)"
+genres: ["Jazz", "Rock"]
+styles: ["Avant-garde Jazz", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 {{< youtube id="23k0pCLLmuE" title="MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)" >}}
 - [Mëkanïk kömmandöh (2017 Remastered Version)](https://www.youtube.com/watch?v=wy8LdQyQK_k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Magma (6) - Mëkanïk Dëstruktïẁ Kömmandöh](https://www.discogs.com/release/22097701) |
+| Release Year   | 2022 |
+| Discogs Link   | [Magma (6) - Mëkanïk Dëstruktïẁ Kömmandöh](https://www.discogs.com/release/22097701-Magma-M%C3%ABkan%C3%AFk-D%C3%ABstrukt%C3%AF%E1%BA%81-K%C3%B6mmand%C3%B6h) |
 | Label          | Music On Vinyl |
 | Format         | LP, Ltd, Num, RE, Cop |
 | Catalog Number | MOVLP2975 |
+
+Limited Edition of 2000 individually numbered copies on copper vinyl with an embossed (copper foil finish) gatefold sleeve.
 

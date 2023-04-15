@@ -1,14 +1,17 @@
 ---
 title: "The Coral - The Coral"
-album_artist: "The Coral"
-album_title: "The Coral"
+artist: "The Coral"
+album_name: "The Coral"
 date: 2022-03-08
 release_id: "22394203"
 slug: "the-coral-22394203"
+hideSummary: true
 cover:
     image: "the-coral-22394203.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Coral by The Coral"
+    caption: "The Coral by The Coral"
+genres: ["Rock", "Pop"]
+styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [The Coral - Bad Man | UTV](https://www.youtube.com/watch?v=xkazy8eC35A)
 - [Calendars and Clocks](https://www.youtube.com/watch?v=cd1YoKHuyCE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Coral - The Coral](https://www.discogs.com/release/22394203) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Coral - The Coral](https://www.discogs.com/release/22394203-The-Coral-The-Coral) |
 | Label          | Run on Records, Modern Sky |
 | Format         | LP, Album, RP, Whi + LP, Comp, Whi + Ltd, RM |
 | Catalog Number | RO-002-LP |
+
+20th Anniversary Edition. Sticker on sleeve. Included printed colour inner sleeves and artwork booklet with original album lyrics. Pressed on  opaque white double heavyweight vinyl. Some copies were sold with a signed print.  Remastered from the original mixes. This reissue includes two, unreleased, never-before-heard-tracks, She’s The Girl For Me and Tumble Graves, produced by Ian Broudie, but shelved after the 2001 album sessions.  The rarities appear on a complete singles B-sides collection and the band’s pre-album EP The Oldest Path.  ℗ 2022 Deltasonic Records © 2022 Run On Records/ Modern Sky  www.thecoral.co.uk
 

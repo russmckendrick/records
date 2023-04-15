@@ -1,14 +1,17 @@
 ---
 title: "Dream Theater - Images And Words"
-album_artist: "Dream Theater"
-album_title: "Images And Words"
+artist: "Dream Theater"
+album_name: "Images And Words"
 date: 2017-03-08
 release_id: "4708303"
 slug: "images-and-words-4708303"
+hideSummary: true
 cover:
     image: "images-and-words-4708303.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Images And Words by Dream Theater"
+    caption: "Images And Words by Dream Theater"
+genres: ["Rock"]
+styles: ["Prog Rock", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 {{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}
 - [Dream Theater - Another Day [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=LYtiDCXLAcQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Dream Theater - Images And Words](https://www.discogs.com/release/4708303) |
+| Release Year   | 2013 |
+| Discogs Link   | [Dream Theater - Images And Words](https://www.discogs.com/release/4708303-Dream-Theater-Images-And-Words) |
 | Label          | ATCO Records, Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP780 |
+
+180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics  Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991 Additional recording at The Hit Factory, NYC.  Originally released ℗ & © 1992 ATCO Records This release ℗ & © 2013 Warner Music Made in the EU
 

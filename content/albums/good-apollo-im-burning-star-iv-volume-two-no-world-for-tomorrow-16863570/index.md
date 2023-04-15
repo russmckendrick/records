@@ -1,14 +1,17 @@
 ---
 title: "Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
-album_artist: "Coheed And Cambria"
-album_title: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
+artist: "Coheed And Cambria"
+album_name: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
 date: 2021-06-15
 release_id: "16863570"
 slug: "good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570"
+hideSummary: true
 cover:
     image: "good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria"
+    caption: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria"
+genres: ["Rock"]
+styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The Hound (of Blood and Rank)](https://www.youtube.com/watch?v=Q62g4b0A8Qs)
 - [Gravemakers & Gunslingers](https://www.youtube.com/watch?v=Fx8yc4u8Qgc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow](https://www.discogs.com/release/16863570) |
+| Release Year   | 2021 |
+| Discogs Link   | [Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow](https://www.discogs.com/release/16863570-Coheed-And-Cambria-Good-Apollo-Im-Burning-Star-IV-Volume-Two-No-World-For-Tomorrow) |
 | Label          | Music On Vinyl, Columbia, Legacy |
 | Format         | LP + LP, S/Sided, Etch + Album, RE |
 | Catalog Number | MOVLP2793 |
+
+180 gram audiophile vinyl Gatefold sleeve Etched artwork on d-side 2 printed innersleeves with lyrics and artwork by Ken Kelly Made in The EU. 
 

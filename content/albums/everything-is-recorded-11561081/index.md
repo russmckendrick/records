@@ -1,14 +1,17 @@
 ---
 title: "Everything Is Recorded - Everything Is Recorded"
-album_artist: "Everything Is Recorded"
-album_title: "Everything Is Recorded"
+artist: "Everything Is Recorded"
+album_name: "Everything Is Recorded"
 date: 2018-02-16
 release_id: "11561081"
 slug: "everything-is-recorded-11561081"
+hideSummary: true
 cover:
     image: "everything-is-recorded-11561081.jpg"
-tags: ["Electronic", "Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "Everything Is Recorded by Everything Is Recorded"
+    caption: "Everything Is Recorded by Everything Is Recorded"
+genres: ["Electronic", "Hip Hop", "Funk / Soul"]
+styles: ["Trip Hop", "Beatdown"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Everything Is Recorded - Bloodshot Red Eyes feat. Infinite & Green Gartside](https://www.youtube.com/watch?v=2PLLVNT9FjU)
 - [Everything Is Recorded - Mountains Of Gold (ft. Sampha, Ibeyi, Wiki & Kamasi Washington)](https://www.youtube.com/watch?v=PWCh1qlNth4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Everything Is Recorded - Everything Is Recorded](https://www.discogs.com/release/11561081) |
+| Release Year   | 2018 |
+| Discogs Link   | [Everything Is Recorded - Everything Is Recorded](https://www.discogs.com/release/11561081-Everything-Is-Recorded-Everything-Is-Recorded) |
 | Label          | XL Recordings |
 | Format         | LP, Album, Ltd, Yel + CD, Album |
 | Catalog Number | XL883LPE |
+
+Limited edition yellow vinyl issue. Includes cd in a clear slip case, 2x A4 art prints and an A4 facsimile of an XL Recordings dj reaction report.
 

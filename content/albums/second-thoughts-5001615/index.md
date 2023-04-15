@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Second Thoughts"
-album_artist: "Split Enz"
-album_title: "Second Thoughts"
+artist: "Split Enz"
+album_name: "Second Thoughts"
 date: 2016-12-08
 release_id: "5001615"
 slug: "second-thoughts-5001615"
+hideSummary: true
 cover:
     image: "second-thoughts-5001615.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Second Thoughts by Split Enz"
+    caption: "Second Thoughts by Split Enz"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Split Enz - Second Thoughts](https://www.discogs.com/release/5001615) |
+| Release Year   | 1976 |
+| Discogs Link   | [Split Enz - Second Thoughts](https://www.discogs.com/release/5001615-Split-Enz-Second-Thoughts) |
 | Label          | Mushroom, Mushroom |
 | Format         | LP, Album |
 | Catalog Number | L 35981, L-35,981 |
+
+Labels: Made in Australia by Festival Records Pty Ltd.  Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia
 

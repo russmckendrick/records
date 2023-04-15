@@ -1,14 +1,17 @@
 ---
 title: "Various - Transformers: The Movie (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Transformers: The Movie (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Transformers: The Movie (Original Motion Picture Soundtrack)"
 date: 2015-12-07
 release_id: "7782037"
 slug: "transformers-the-movie-original-motion-picture-soundtrack-7782037"
+hideSummary: true
 cover:
     image: "transformers-the-movie-original-motion-picture-soundtrack-7782037.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Transformers: The Movie (Original Motion Picture Soundtrack) by Various"
+    caption: "Transformers: The Movie (Original Motion Picture Soundtrack) by Various"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="3rlREG4ad4Q" title="Transformers The Movie (1986) Soundtrack - Unicron's Reckoning (Epic Suite) (Soundtrack Mix)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Various - Transformers: The Movie (Original Motion Picture Soundtrack)](https://www.discogs.com/release/7782037) |
+| Release Year   | 2015 |
+| Discogs Link   | [Various - Transformers: The Movie (Original Motion Picture Soundtrack)](https://www.discogs.com/release/7782037-Various-Transformers-The-Movie-Original-Motion-Picture-Soundtrack) |
 | Label          | Volcano (2), Legacy |
 | Format         | LP, S/Sided, Etch, Ltd, Red + LP, S/Sided, Etch, L |
 | Catalog Number | 88875144321 |
+
+30th Anniversary "Black Friday" Exclusive. 2 Color/Etched LPs in "Transforming" cover. 5000 pressed.  LP 1: Autobot Logo Etched, Translucent Red Vinyl.  LP 2: Decepticon Logo Etched, Translucent Purple/Red Marbled Vinyl. 
 

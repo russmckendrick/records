@@ -1,14 +1,17 @@
 ---
 title: "Phil Cook - Southland Mission"
-album_artist: "Phil Cook"
-album_title: "Southland Mission"
+artist: "Phil Cook"
+album_name: "Southland Mission"
 date: 2016-01-24
 release_id: "7451878"
 slug: "southland-mission-7451878"
+hideSummary: true
 cover:
     image: "southland-mission-7451878.jpg"
-tags: ["Rock", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Southland Mission by Phil Cook"
+    caption: "Southland Mission by Phil Cook"
+genres: ["Rock", "Blues", "Folk, World, & Country"]
+styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
 - [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Phil Cook - Southland Mission](https://www.discogs.com/release/7451878) |
+| Release Year   | 2015 |
+| Discogs Link   | [Phil Cook - Southland Mission](https://www.discogs.com/release/7451878-Phil-Cook-Southland-Mission) |
 | Label          | Thirty Tigers |
 | Format         | LP, Album |
 | Catalog Number | none |
+
+Recorded at Echo Mountain Recording, March to October 2014.  Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).  B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.  Contains download code
 

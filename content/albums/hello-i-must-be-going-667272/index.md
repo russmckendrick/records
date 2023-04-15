@@ -1,14 +1,17 @@
 ---
 title: "Phil Collins - Hello, I Must Be Going!"
-album_artist: "Phil Collins"
-album_title: "Hello, I Must Be Going!"
+artist: "Phil Collins"
+album_name: "Hello, I Must Be Going!"
 date: 2020-08-02
 release_id: "667272"
 slug: "hello-i-must-be-going-667272"
+hideSummary: true
 cover:
     image: "hello-i-must-be-going-667272.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Hello, I Must Be Going! by Phil Collins"
+    caption: "Hello, I Must Be Going! by Phil Collins"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Phil Collins - Don't Let Him Steal Your Heart Away (Official Music Video)](https://www.youtube.com/watch?v=b2W-lxDq4-Y)
 - [Phil Collins ♫ I Cannot Believe It's True Ⓞ Hello, I Must Be Going!【1982】](https://www.youtube.com/watch?v=KCL9x14jfJk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Phil Collins - Hello, I Must Be Going!](https://www.discogs.com/release/667272) |
+| Release Year   | 1982 |
+| Discogs Link   | [Phil Collins - Hello, I Must Be Going!](https://www.discogs.com/release/667272-Phil-Collins-Hello-I-Must-Be-Going) |
 | Label          | Virgin, Virgin |
 | Format         | LP, Album, Gat |
 | Catalog Number | V2252, V 2252 |
+
+Released in a gatefold sleeve, with printed inner sleeve showing credits. ℗ & © 1982 Virgin Records Ltd  Recorded at Old Croft on 1" 8 track, overdubbed at 'The Farm' and 'Townhouse' May - June 82 Strings recorded at CBS  All titles published Phil Collins Ltd / Hit & Run Music (Publishing) Ltd., except A5 1965 Jobete Music Ltd. (U.K.)  Die-cut on Insert is small and round, opposite to straight and longer one on 2nd UK pressing.
 

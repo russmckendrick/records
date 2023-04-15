@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - Remastered In Vinyl IV"
-album_artist: "Kate Bush"
-album_title: "Remastered In Vinyl IV"
+artist: "Kate Bush"
+album_name: "Remastered In Vinyl IV"
 date: 2018-11-30
 release_id: "12867333"
 slug: "remastered-in-vinyl-iv-12867333"
+hideSummary: true
 cover:
     image: "remastered-in-vinyl-iv-12867333.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Remastered In Vinyl IV by Kate Bush"
+    caption: "Remastered In Vinyl IV by Kate Bush"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="lC_U-Nu0hrw" title="Kate Bush / 2018 Remasters unboxing part 2" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kate Bush - Remastered In Vinyl IV](https://www.discogs.com/release/12867333) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kate Bush - Remastered In Vinyl IV](https://www.discogs.com/release/12867333-Kate-Bush-Remastered-In-Vinyl-IV) |
 | Label          | Fish People |
 | Format         | LP, Comp, RM + LP, Comp, RM + LP, Comp, RM + LP, C |
 | Catalog Number | 0190295593926 |
+
+Made in the E.U. 180G
 

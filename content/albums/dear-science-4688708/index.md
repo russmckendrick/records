@@ -1,14 +1,17 @@
 ---
 title: "TV On The Radio - Dear Science"
-album_artist: "TV On The Radio"
-album_title: "Dear Science"
+artist: "TV On The Radio"
+album_name: "Dear Science"
 date: 2016-02-24
 release_id: "4688708"
 slug: "dear-science-4688708"
+hideSummary: true
 cover:
     image: "dear-science-4688708.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Dear Science by TV On The Radio"
+    caption: "Dear Science by TV On The Radio"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [TV On The Radio - Golden Age](https://www.youtube.com/watch?v=2wTHxUl9WdQ)
 - [Family Tree](https://www.youtube.com/watch?v=1oKgKT8yONs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [TV On The Radio - Dear Science](https://www.discogs.com/release/4688708) |
+| Release Year   | 2013 |
+| Discogs Link   | [TV On The Radio - Dear Science](https://www.discogs.com/release/4688708-TV-On-The-Radio-Dear-Science) |
 | Label          | 4AD, Touch And Go |
 | Format         | 2xLP, RE, Whi |
 | Catalog Number | CAD2821 |
+
+"TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink. Gatefold sleeve.  ℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.  Recorded at Stay Gold Studio, Brooklyn, NY 2008. Mixed at Chalice Studios, Los Angeles, CA.  Track durations not listed on the release.
 

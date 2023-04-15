@@ -1,14 +1,17 @@
 ---
 title: "Rancid - Trouble Maker"
-album_artist: "Rancid"
-album_title: "Trouble Maker"
+artist: "Rancid"
+album_name: "Trouble Maker"
 date: 2017-06-10
 release_id: "10418344"
 slug: "trouble-maker-10418344"
+hideSummary: true
 cover:
     image: "trouble-maker-10418344.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Trouble Maker by Rancid"
+    caption: "Trouble Maker by Rancid"
+genres: ["Rock"]
+styles: ["Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [An Intimate Close Up of a Street Punk Trouble Maker - Rancid](https://www.youtube.com/watch?v=hKeH-vtQIdo)
 - [Telegraph Avenue - Rancid](https://www.youtube.com/watch?v=2hcr2RdhWJ0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Rancid - Trouble Maker](https://www.discogs.com/release/10418344) |
+| Release Year   | 2017 |
+| Discogs Link   | [Rancid - Trouble Maker](https://www.discogs.com/release/10418344-Rancid-Trouble-Maker) |
 | Label          | Hellcat Records, Epitaph |
 | Format         | LP, Album |
 | Catalog Number | 7465-1 |
+
+It contains a double sided insert.
 

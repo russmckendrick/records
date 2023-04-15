@@ -1,14 +1,17 @@
 ---
 title: "Echo & The Bunnymen - The Stars, The Oceans & The Moon"
-album_artist: "Echo & The Bunnymen"
-album_title: "The Stars, The Oceans & The Moon"
+artist: "Echo & The Bunnymen"
+album_name: "The Stars, The Oceans & The Moon"
 date: 2018-10-06
 release_id: "12607039"
 slug: "the-stars-the-oceans-the-moon-12607039"
+hideSummary: true
 cover:
     image: "the-stars-the-oceans-the-moon-12607039.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "The Stars, The Oceans & The Moon by Echo & The Bunnymen"
+    caption: "The Stars, The Oceans & The Moon by Echo & The Bunnymen"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Echo & The Bunnymen - Nothing Lasts Forever (Transformed) (Official Audio)](https://www.youtube.com/watch?v=i6z4k-6JIsc)
 - [Stars Are Stars (Transformed)](https://www.youtube.com/watch?v=ZoHJ7JaTCu0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Echo & The Bunnymen - The Stars, The Oceans & The Moon](https://www.discogs.com/release/12607039) |
+| Release Year   | 2018 |
+| Discogs Link   | [Echo & The Bunnymen - The Stars, The Oceans & The Moon](https://www.discogs.com/release/12607039-Echo-The-Bunnymen-The-StarsOceans-The-Moon) |
 | Label          | BMG |
 | Format         | 2xLP, Album, Ltd, Lum |
 | Catalog Number | 538355220 |
+
+Gatefold Sleeve. Includes Download Code.
 

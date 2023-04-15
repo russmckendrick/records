@@ -1,14 +1,17 @@
 ---
 title: "Frank Sidebottom And Chris Sievey - Being Frank: The Chris Sievey Story"
-album_artist: "Frank Sidebottom And Chris Sievey"
-album_title: "Being Frank: The Chris Sievey Story"
+artist: "Frank Sidebottom And Chris Sievey"
+album_name: "Being Frank: The Chris Sievey Story"
 date: 2019-03-30
 release_id: "13418323"
 slug: "being-frank-the-chris-sievey-story-13418323"
+hideSummary: true
 cover:
     image: "being-frank-the-chris-sievey-story-13418323.jpg"
-tags: ["Rock", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Being Frank: The Chris Sievey Story by Frank Sidebottom And Chris Sievey"
+    caption: "Being Frank: The Chris Sievey Story by Frank Sidebottom And Chris Sievey"
+genres: ["Rock", "Pop", "Stage & Screen"]
+styles: ["Soundtrack", "Punk", "Comedy"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="_wHcHaPkYnw" title="BEING FRANK: THE CHRIS SIEVEY STORY - OFFICIAL UK TRAILER [HD] - IN CINEMAS & ON DIGITAL MARCH 29" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Frank Sidebottom And Chris Sievey - Being Frank: The Chris Sievey Story](https://www.discogs.com/release/13418323) |
+| Release Year   | 2019 |
+| Discogs Link   | [Frank Sidebottom And Chris Sievey - Being Frank: The Chris Sievey Story](https://www.discogs.com/release/13418323-Frank-Sidebottom-And-Chris-Sievey-Being-Frank-The-Chris-Sievey-Story) |
 | Label          | 7A Records |
 | Format         | LP, Comp, Pic |
 | Catalog Number | 7A020 |
+
+This is a limited edition of only 500 copies.
 

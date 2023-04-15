@@ -1,14 +1,17 @@
 ---
 title: "Snuff (3) - Flibbiddydibbiddydob"
-album_artist: "Snuff (3)"
-album_title: "Flibbiddydibbiddydob"
+artist: "Snuff (3)"
+album_name: "Flibbiddydibbiddydob"
 date: 2020-01-03
 release_id: "1178217"
 slug: "flibbiddydibbiddydob-1178217"
+hideSummary: true
 cover:
     image: "flibbiddydibbiddydob-1178217.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flibbiddydibbiddydob by Snuff (3)"
+    caption: "Flibbiddydibbiddydob by Snuff (3)"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Do nothing-Snuff](https://www.youtube.com/watch?v=JzZ3PLXl__o)
 - [SNUFF - A HAZY SHADE OF WINTER](https://www.youtube.com/watch?v=RfNWt6aGsog)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Snuff (3) - Flibbiddydibbiddydob](https://www.discogs.com/release/1178217) |
+| Release Year   | 1990 |
+| Discogs Link   | [Snuff (3) - Flibbiddydibbiddydob](https://www.discogs.com/release/1178217-Snuff-Flibbiddydibbiddydob) |
 | Label          | Workers Playtime, Workers Playtime |
 | Format         | 12\", MiniAlbum |
 | Catalog Number | Play 11T, PLAY 11T |
+
+Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.  Cat# Play 11T appears on spine and back cover. Cat# PLAY 11T appears on labels.  ℗1989 Workers Playtime (On Back Cover) ℗ Workers Playtime 1990 (On Labels)
 

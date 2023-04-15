@@ -1,14 +1,17 @@
 ---
 title: "Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop"
-album_artist: "Various"
-album_title: "Music From The Motion Picture Soundtrack - Beverly Hills Cop"
+artist: "Various"
+album_name: "Music From The Motion Picture Soundtrack - Beverly Hills Cop"
 date: 2017-03-25
 release_id: "7781680"
 slug: "music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680"
+hideSummary: true
 cover:
     image: "music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680.jpg"
-tags: ["Electronic", "Hip Hop", "Rock", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Music From The Motion Picture Soundtrack - Beverly Hills Cop by Various"
+    caption: "Music From The Motion Picture Soundtrack - Beverly Hills Cop by Various"
+genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Stage & Screen"]
+styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Beverly Hills Cop (OST) - Shoot Out (Original Version)](https://www.youtube.com/watch?v=cI3BVNKUdpk)
 - [Beverly Hills Cop (OST) - Good Guys on Grounds](https://www.youtube.com/watch?v=3ywO3YmrGxg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop](https://www.discogs.com/release/7781680) |
+| Release Year   | 2015 |
+| Discogs Link   | [Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop](https://www.discogs.com/release/7781680-Various-Music-From-The-Motion-Picture-Soundtrack-Beverly-Hills-Cop) |
 | Label          | Geffen Records, UMe |
 | Format         | LP, Comp, RE |
 | Catalog Number | B0023070-01 |
+
+On back cover:  Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.  © 1984 Paramount Pictures Corporation ℗ 1984 © 2015 Geffen Records  Contains additional songs that were not in the film  Copyright © MCMLXXXIV By Paramount Pictures Corporation.   On labels:  ℗ 1984 © 2015 Geffen Records  Geffen [logo] UMe [logo] - A Universal Music Company  
 

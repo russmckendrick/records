@@ -1,14 +1,17 @@
 ---
 title: "Future Islands - The Far Field "
-album_artist: "Future Islands"
-album_title: "The Far Field "
+artist: "Future Islands"
+album_name: "The Far Field "
 date: 2017-04-08
 release_id: "10101734"
 slug: "the-far-field-10101734"
+hideSummary: true
 cover:
     image: "the-far-field-10101734.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Far Field  by Future Islands"
+    caption: "The Far Field  by Future Islands"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Future Islands - Cave (Official Lyric Video)](https://www.youtube.com/watch?v=RGrhubD8VDg)
 - [Future Islands - Ran (Official Video)](https://www.youtube.com/watch?v=MlQunle406U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734) |
+| Release Year   | 2017 |
+| Discogs Link   | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734-Future-Islands-The-Far-Field-) |
 | Label          | 4AD, 4AD |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | 4AD0001LPX, 4AD0001LP |
+
+Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name.
 

@@ -1,14 +1,17 @@
 ---
 title: "Then Jerico - The Big Area"
-album_artist: "Then Jerico"
-album_title: "The Big Area"
+artist: "Then Jerico"
+album_name: "The Big Area"
 date: 2016-07-05
 release_id: "265140"
 slug: "the-big-area-265140"
+hideSummary: true
 cover:
     image: "the-big-area-265140.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Big Area by Then Jerico"
+    caption: "The Big Area by Then Jerico"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. Sugar Box (3:42)
 9. Helpless (4:05)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Then Jerico - The Big Area](https://www.discogs.com/release/265140) |
+| Release Year   | 1989 |
+| Discogs Link   | [Then Jerico - The Big Area](https://www.discogs.com/release/265140-Then-Jerico-The-Big-Area) |
 | Label          | London Records |
 | Format         | LP, Album |
 | Catalog Number | 828 122-1 |
+
+"Big Area" is featured in the movie "Slipstream".  Includes a printed inner sleeve with lyrics to all songs and credits.  Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)  Written and recorded in 1988.  Made in England.  © 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.  Durations do not appear on this release. Timings via stopwatch.
 

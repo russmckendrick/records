@@ -1,14 +1,17 @@
 ---
 title: "The Moody Blues - Octave"
-album_artist: "The Moody Blues"
-album_title: "Octave"
+artist: "The Moody Blues"
+album_name: "Octave"
 date: 2017-05-27
 release_id: "1660021"
 slug: "octave-1660021"
+hideSummary: true
 cover:
     image: "octave-1660021.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Octave by The Moody Blues"
+    caption: "Octave by The Moody Blues"
+genres: ["Rock"]
+styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Moody Blues - The Day We Meet Again](https://www.youtube.com/watch?v=Zs2Hwp8pmoQ)
 - [THE MOODY BLUES Octave 03 had to fall in love](https://www.youtube.com/watch?v=jxN_LCVHtdk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [The Moody Blues - Octave](https://www.discogs.com/release/1660021) |
+| Release Year   | 1978 |
+| Discogs Link   | [The Moody Blues - Octave](https://www.discogs.com/release/1660021-The-Moody-Blues-Octave) |
 | Label          | Decca |
 | Format         | LP, Album, Gat |
 | Catalog Number | TXS 129 |
+
+Gatefold sleeve.  Track lengths only printed on sleeve 
 

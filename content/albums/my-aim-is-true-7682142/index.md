@@ -1,14 +1,17 @@
 ---
 title: "Elvis Costello - My Aim Is True"
-album_artist: "Elvis Costello"
-album_title: "My Aim Is True"
+artist: "Elvis Costello"
+album_name: "My Aim Is True"
 date: 2017-08-11
 release_id: "7682142"
 slug: "my-aim-is-true-7682142"
+hideSummary: true
 cover:
     image: "my-aim-is-true-7682142.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "My Aim Is True by Elvis Costello"
+    caption: "My Aim Is True by Elvis Costello"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [I'm Not Angry](https://www.youtube.com/watch?v=AyGXSW-9x8I)
 - [Waiting For The End Of The World](https://www.youtube.com/watch?v=pgIR3GU_5sw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Elvis Costello - My Aim Is True](https://www.discogs.com/release/7682142) |
+| Release Year   | 2015 |
+| Discogs Link   | [Elvis Costello - My Aim Is True](https://www.discogs.com/release/7682142-Elvis-Costello-My-Aim-Is-True) |
 | Label          | UMe |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0602547331144 |
+
+Includes a voucher to download MP3 version of the album. Made in the Czech Republic.  
 

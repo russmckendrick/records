@@ -1,14 +1,17 @@
 ---
 title: "Carter The Unstoppable Sex Machine - Hello, Good Evening, Welcome and Goodbye"
-album_artist: "Carter The Unstoppable Sex Machine"
-album_title: "Hello, Good Evening, Welcome and Goodbye"
+artist: "Carter The Unstoppable Sex Machine"
+album_name: "Hello, Good Evening, Welcome and Goodbye"
 date: 2017-12-02
 release_id: "7922543"
 slug: "hello-good-evening-welcome-and-goodbye-7922543"
+hideSummary: true
 cover:
     image: "hello-good-evening-welcome-and-goodbye-7922543.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hello, Good Evening, Welcome and Goodbye by Carter The Unstoppable Sex Machine"
+    caption: "Hello, Good Evening, Welcome and Goodbye by Carter The Unstoppable Sex Machine"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Rubbish (Live)](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
 - [CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Carter The Unstoppable Sex Machine - Hello, Good Evening, Welcome and Goodbye](https://www.discogs.com/release/7922543) |
+| Release Year   | 2015 |
+| Discogs Link   | [Carter The Unstoppable Sex Machine - Hello, Good Evening, Welcome and Goodbye](https://www.discogs.com/release/7922543-Carter-The-Unstoppable-Sex-Machine-Hello-Good-Evening-Welcome-and-Goodbye) |
 | Label          | 3 Loop Music |
 | Format         | LP, Album, Red |
 | Catalog Number | 3RANGE-50LP |
+
+
 

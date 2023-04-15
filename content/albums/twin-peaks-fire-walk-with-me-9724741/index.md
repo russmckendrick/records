@@ -1,14 +1,17 @@
 ---
 title: "Angelo Badalamenti - Twin Peaks: Fire Walk With Me"
-album_artist: "Angelo Badalamenti"
-album_title: "Twin Peaks: Fire Walk With Me"
+artist: "Angelo Badalamenti"
+album_name: "Twin Peaks: Fire Walk With Me"
 date: 2017-02-28
 release_id: "9724741"
 slug: "twin-peaks-fire-walk-with-me-9724741"
+hideSummary: true
 cover:
     image: "twin-peaks-fire-walk-with-me-9724741.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Twin Peaks: Fire Walk With Me by Angelo Badalamenti"
+    caption: "Twin Peaks: Fire Walk With Me by Angelo Badalamenti"
+genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Montage from Twin Peaks (Girl Talk / Birds in Hell / Laura Palmer's Theme / Falling)](https://www.youtube.com/watch?v=nQsEFLFLv1c)
 - [The Voice of Love](https://www.youtube.com/watch?v=2VpNT0V25HU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Angelo Badalamenti - Twin Peaks: Fire Walk With Me](https://www.discogs.com/release/9724741) |
+| Release Year   | 2017 |
+| Discogs Link   | [Angelo Badalamenti - Twin Peaks: Fire Walk With Me](https://www.discogs.com/release/9724741-Angelo-Badalamenti-Twin-Peaks-Fire-Walk-With-Me) |
 | Label          | Death Waltz Recording Company |
 | Format         | 2xLP, Album, RE, RM, Red |
 | Catalog Number | DW51 |
+
+•    Director approved artwork •    Composer approved audio •    425gsm Gatefold sleeve housed inside a bespoke black die cut outer jacket with black spot varnish finish, complete with obi strip.  [On back gatefold and label margins] ℗ & © 1992 & 2016 Warner Bros. Records Inc. Produced under license from Warner Bros. Records Inc. Manufactured by Rhino Entertainment Company, A Warner Music Group Company. Made in the U.S.A. Marketed by Death Waltz Records.  [On back outer jacket] ℗1990 & 2016 Warner Bros. Records Inc. [...] ©Death Waltz Records. [...]  [On inside gatefold] Recorded at Excalibur Sound by Art Pohlemus except 'The Pink Room' Recorded at Capitol Recording by David Bianco "Best Friends" Recorded at Fantasy Studios by Michael Semanick Originally Mastered at Sterling Sound, NYC by Ted Jenson Engineered for vinyl by Tal Miller at Warner Archives Lacquer cut for vinyl by David Cheppa for Plush Vinyl  Tracks listed in sequential order on inner jacket and center labels. Track B4 incorrectly listed as Don't Do Anything (I Woudn't Do) on both back cover and label. Track C8 incorrectly listed as The Black Dog Run At Night on label. Tracks B5 and C8 credited to [a129732] on the original 1992 release. Typo on sleeve (gatefold inner and back): Anlon Music Co. and Bobkind Music are administered worldwide by Univerisal Music Corp. (ASCAP)
 

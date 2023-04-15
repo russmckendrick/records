@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - Songs From The Big Chair"
-album_artist: "Tears For Fears"
-album_title: "Songs From The Big Chair"
+artist: "Tears For Fears"
+album_name: "Songs From The Big Chair"
 date: 2016-03-24
 release_id: "6298468"
 slug: "songs-from-the-big-chair-6298468"
+hideSummary: true
 cover:
     image: "songs-from-the-big-chair-6298468.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Songs From The Big Chair by Tears For Fears"
+    caption: "Songs From The Big Chair by Tears For Fears"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Broken](https://www.youtube.com/watch?v=Vsva4qGh8l8)
 - [Listen](https://www.youtube.com/watch?v=JPCn04KwUgQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/6298468) |
+| Release Year   | 2014 |
+| Discogs Link   | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/6298468-Tears-For-Fears-Songs-From-The-Big-Chair) |
 | Label          | Mercury, Universal Music Group |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 3794995 |
+
+Includes voucher to download MP3 version of the album.  ℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited. Made in EU.   All runouts are hand etched. Plating symbols are mirrored. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Various - The Man Who Fell To Earth"
-album_artist: "Various"
-album_title: "The Man Who Fell To Earth"
+artist: "Various"
+album_name: "The Man Who Fell To Earth"
 date: 2017-02-28
 release_id: "9399915"
 slug: "the-man-who-fell-to-earth-9399915"
+hideSummary: true
 cover:
     image: "the-man-who-fell-to-earth-9399915.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "The Man Who Fell To Earth by Various"
+    caption: "The Man Who Fell To Earth by Various"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -74,13 +77,16 @@ hideSummary: true
 - [Mandala (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=js0AhQ9dyec)
 - [One Way (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=SHcRIQcIPOg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various - The Man Who Fell To Earth](https://www.discogs.com/release/9399915) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various - The Man Who Fell To Earth](https://www.discogs.com/release/9399915-Various-The-Man-Who-Fell-To-Earth) |
 | Label          | UMC |
 | Format         | Box + 2xCD, Album + 2xLP |
 | Catalog Number | 479 921-7 |
+
+Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.  Made in Germany.  ℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd.
 

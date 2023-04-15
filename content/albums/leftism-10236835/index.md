@@ -1,14 +1,17 @@
 ---
 title: "Leftfield - Leftism"
-album_artist: "Leftfield"
-album_title: "Leftism"
+artist: "Leftfield"
+album_name: "Leftism"
 date: 2017-05-05
 release_id: "10236835"
 slug: "leftism-10236835"
+hideSummary: true
 cover:
     image: "leftism-10236835.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Leftism by Leftfield"
+    caption: "Leftism by Leftfield"
+genres: ["Electronic"]
+styles: ["Leftfield", "Downtempo", "Progressive House"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Open Up (Remastered)](https://www.youtube.com/watch?v=uq3IAHVDCGM)
 - [21st Century Poem (Remastered)](https://www.youtube.com/watch?v=Ysve0XA8QjU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Leftfield - Leftism](https://www.discogs.com/release/10236835) |
+| Release Year   | 2017 |
+| Discogs Link   | [Leftfield - Leftism](https://www.discogs.com/release/10236835-Leftfield-Leftism) |
 | Label          | Columbia, Hard Hands, Sony Music, Columbia, Hard Hands, Sony Music |
 | Format         | 3xLP, Album, RE, RM, S/Edition, 180 |
 | Catalog Number | 88985388501, HANDLPT |
+
+Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"  First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back. 
 

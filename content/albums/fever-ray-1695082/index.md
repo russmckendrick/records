@@ -1,14 +1,17 @@
 ---
 title: "Fever Ray - Fever Ray"
-album_artist: "Fever Ray"
-album_title: "Fever Ray"
+artist: "Fever Ray"
+album_name: "Fever Ray"
 date: 2022-11-14
 release_id: "1695082"
 slug: "fever-ray-1695082"
+hideSummary: true
 cover:
     image: "fever-ray-1695082.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Fever Ray by Fever Ray"
+    caption: "Fever Ray by Fever Ray"
+genres: ["Electronic", "Pop"]
+styles: ["Electro", "Ambient", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Fever Ray 'Keep The Streets Empty For Me'](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
 - [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082) |
+| Release Year   | 2009 |
+| Discogs Link   | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082-Fever-Ray-Fever-Ray) |
 | Label          | Rabid Records |
 | Format         | LP, Album |
 | Catalog Number | RABIDT039 |
+
+Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially
 

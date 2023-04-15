@@ -1,14 +1,17 @@
 ---
 title: "DJ Format & Abdominal - Still Hungry"
-album_artist: "DJ Format & Abdominal"
-album_title: "Still Hungry"
+artist: "DJ Format & Abdominal"
+album_name: "Still Hungry"
 date: 2017-04-28
 release_id: "10119644"
 slug: "still-hungry-10119644"
+hideSummary: true
 cover:
     image: "still-hungry-10119644.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Still Hungry by DJ Format & Abdominal"
+    caption: "Still Hungry by DJ Format & Abdominal"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [DJ Format & Abdominal - Dirt (Official Video)](https://www.youtube.com/watch?v=LrEta1txJY4)
 - [DJ Format & Abdominal - We're Back](https://www.youtube.com/watch?v=yPJlNs-8ERk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [DJ Format & Abdominal - Still Hungry](https://www.discogs.com/release/10119644) |
+| Release Year   | 2017 |
+| Discogs Link   | [DJ Format & Abdominal - Still Hungry](https://www.discogs.com/release/10119644-DJ-Format-Abdominal-Still-Hungry) |
 | Label          | AAF |
 | Format         | LP, Album |
 | Catalog Number | AAF003LP |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Menswear - Nuisance"
-album_artist: "Menswear"
-album_title: "Nuisance"
+artist: "Menswear"
+album_name: "Nuisance"
 date: 2020-10-28
 release_id: "15932078"
 slug: "nuisance-15932078"
+hideSummary: true
 cover:
     image: "nuisance-15932078.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nuisance by Menswear"
+    caption: "Nuisance by Menswear"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Menswear - Daydreamer (Official Music Video)](https://www.youtube.com/watch?v=oRwlD6qyMF0)
 - [Menswear - Stardust (Official Video)](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Menswear - Nuisance](https://www.discogs.com/release/15932078) |
+| Release Year   | 2020 |
+| Discogs Link   | [Menswear - Nuisance](https://www.discogs.com/release/15932078-Menswer-Nuisance) |
 | Label          | Demon Records |
 | Format         | LP, Album, Ltd, RE, Ora |
 | Catalog Number | DEMREC 654 |
+
+Record Store Day 2020 DROP#3 release.
 

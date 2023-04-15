@@ -1,14 +1,17 @@
 ---
 title: "Bent Knee - You Know What They Mean"
-album_artist: "Bent Knee"
-album_title: "You Know What They Mean"
+artist: "Bent Knee"
+album_name: "You Know What They Mean"
 date: 2019-10-13
 release_id: "14257006"
 slug: "you-know-what-they-mean-14257006"
+hideSummary: true
 cover:
     image: "you-know-what-they-mean-14257006.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "You Know What They Mean by Bent Knee"
+    caption: "You Know What They Mean by Bent Knee"
+genres: ["Rock"]
+styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [Golden Hour](https://www.youtube.com/watch?v=fodUyqaqeNQ)
 - [It Happens](https://www.youtube.com/watch?v=mS_a6H1liwQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Bent Knee - You Know What They Mean](https://www.discogs.com/release/14257006) |
+| Release Year   | 2019 |
+| Discogs Link   | [Bent Knee - You Know What They Mean](https://www.discogs.com/release/14257006-Bent-Knee-You-Know-What-They-Mean) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 535, 19075980581 |
+
+Packaged in a gatefold jacket with black polylined LP sleeve and hype sticker affixed to shrink wrap on the front. CD is packaged inside in an envelope-style PVC sleeve.
 

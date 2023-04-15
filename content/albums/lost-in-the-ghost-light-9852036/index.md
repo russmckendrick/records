@@ -1,14 +1,17 @@
 ---
 title: "Tim Bowness - Lost In The Ghost Light"
-album_artist: "Tim Bowness"
-album_title: "Lost In The Ghost Light"
+artist: "Tim Bowness"
+album_name: "Lost In The Ghost Light"
 date: 2017-02-18
 release_id: "9852036"
 slug: "lost-in-the-ghost-light-9852036"
+hideSummary: true
 cover:
     image: "lost-in-the-ghost-light-9852036.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lost In The Ghost Light by Tim Bowness"
+    caption: "Lost In The Ghost Light by Tim Bowness"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}
 - [Tim Bowness - Kill the Pain That's Killing You](https://www.youtube.com/watch?v=6rCXh6FAsZ0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tim Bowness - Lost In The Ghost Light](https://www.discogs.com/release/9852036) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tim Bowness - Lost In The Ghost Light](https://www.discogs.com/release/9852036-Tim-Bowness-Lost-In-The-Ghost-Light) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | LP, Album, Gol + CD, Album + Ltd, Num |
 | Catalog Number | IOMLP 473, 88985405441 |
+
+Gold vinyl + CD in gatefold. Limited to 400 copies. Burning Shed mailorder exclusive including postcard signed by Tim Bowness.  Tracks durations as indicated on release back.
 

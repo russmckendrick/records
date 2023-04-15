@@ -1,14 +1,17 @@
 ---
 title: "Jean-Michel Jarre - Equinoxe"
-album_artist: "Jean-Michel Jarre"
-album_title: "Equinoxe"
+artist: "Jean-Michel Jarre"
+album_name: "Equinoxe"
 date: 2016-12-08
 release_id: "7597791"
 slug: "equinoxe-7597791"
+hideSummary: true
 cover:
     image: "equinoxe-7597791.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Equinoxe by Jean-Michel Jarre"
+    caption: "Equinoxe by Jean-Michel Jarre"
+genres: ["Electronic"]
+styles: ["Experimental", "Ambient", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Equinoxe, Pt. 6](https://www.youtube.com/watch?v=eeAfE-s2Ow8)
 - [Equinoxe, Pt. 8](https://www.youtube.com/watch?v=W4Te8E3AHQU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Jean-Michel Jarre - Equinoxe](https://www.discogs.com/release/7597791) |
+| Release Year   | 2015 |
+| Discogs Link   | [Jean-Michel Jarre - Equinoxe](https://www.discogs.com/release/7597791-Jean-Michel-Jarre-Equinoxe) |
 | Label          | Disques Dreyfus, BMG, Sony Music |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 88843024691 |
+
+Cover & labels: ℗ 1978 Disques Dreyfus-BMG © 2015 Disques Dreyfus-BMG  Made in the EU.  Cover: Recorded on MCI-STUDIO EQUIPMENT New mastering from the original analog tapes 2014 Special thanks to [a=Michel Geiss] 
 

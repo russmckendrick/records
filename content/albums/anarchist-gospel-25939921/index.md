@@ -1,14 +1,17 @@
 ---
 title: "Sunny War - Anarchist Gospel"
-album_artist: "Sunny War"
-album_title: "Anarchist Gospel"
+artist: "Sunny War"
+album_name: "Anarchist Gospel"
 date: 2023-02-06
 release_id: "25939921"
 slug: "anarchist-gospel-25939921"
+hideSummary: true
 cover:
     image: "anarchist-gospel-25939921.jpg"
-tags: ["Rock", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Anarchist Gospel by Sunny War"
+    caption: "Anarchist Gospel by Sunny War"
+genres: ["Rock", "Blues", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Whole](https://www.youtube.com/watch?v=O1TQYzmzRTQ)
 - [Sunny War - No Reason [Official Audio]](https://www.youtube.com/watch?v=jsNlM1wKynQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Sunny War - Anarchist Gospel](https://www.discogs.com/release/25939921) |
+| Release Year   | 2023 |
+| Discogs Link   | [Sunny War - Anarchist Gospel](https://www.discogs.com/release/25939921-Sunny-War-Anarchist-Gospel) |
 | Label          | New West Records |
 | Format         | LP, Album, Red |
 | Catalog Number | NW5702 |
+
+150g vinyl. This version is signed by the artist & exclusive to New West Records' mailorder store.
 

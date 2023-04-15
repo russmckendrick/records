@@ -1,14 +1,17 @@
 ---
 title: "Blur - Modern Life Is Rubbish"
-album_artist: "Blur"
-album_title: "Modern Life Is Rubbish"
+artist: "Blur"
+album_name: "Modern Life Is Rubbish"
 date: 2016-04-30
 release_id: "3773519"
 slug: "modern-life-is-rubbish-3773519"
+hideSummary: true
 cover:
     image: "modern-life-is-rubbish-3773519.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Modern Life Is Rubbish by Blur"
+    caption: "Modern Life Is Rubbish by Blur"
+genres: ["Rock"]
+styles: ["Britpop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,16 +32,17 @@ hideSummary: true
 15. Resigned (5:13)
 16. Commercial Break (0:56)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Blur - Modern Life Is Rubbish](https://www.discogs.com/release/3773519) |
+| Release Year   | 2012 |
+| Discogs Link   | [Blur - Modern Life Is Rubbish](https://www.discogs.com/release/3773519-Blur-Modern-Life-Is-Rubbish) |
 | Label          | Food, Parlophone |
 | Format         | 2xLP, Album, RE, RM, S/Edition, 180 |
 | Catalog Number | FOODLPX9, 5099962483919 |
+
+Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3  Each LP comes in a printed inner sleeve. Tracks are numbered sequentially on release. Sticker on shrinkwrap
 

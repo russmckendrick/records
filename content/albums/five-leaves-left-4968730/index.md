@@ -1,14 +1,17 @@
 ---
 title: "Nick Drake - Five Leaves Left"
-album_artist: "Nick Drake"
-album_title: "Five Leaves Left"
+artist: "Nick Drake"
+album_name: "Five Leaves Left"
 date: 2016-08-05
 release_id: "4968730"
 slug: "five-leaves-left-4968730"
+hideSummary: true
 cover:
     image: "five-leaves-left-4968730.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Five Leaves Left by Nick Drake"
+    caption: "Five Leaves Left by Nick Drake"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Fruit Tree](https://www.youtube.com/watch?v=lBBeyHk8Gmw)
 - [Saturday Sun](https://www.youtube.com/watch?v=QwaqO3i_eQA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Nick Drake - Five Leaves Left](https://www.discogs.com/release/4968730) |
+| Release Year   | 2013 |
+| Discogs Link   | [Nick Drake - Five Leaves Left](https://www.discogs.com/release/4968730-Nick-Drake-Five-Leaves-Left) |
 | Label          | Island Records, Island Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0602537347568, ILPS 9105 |
+
+Packaged in a gatefold sleeve. Includes a custom inner sleeve. Some copies include a digital download.  Remastered from a 24-bit digital file made from the original tape by the album's original engineer, John Wood at Abbey Road Studios.  All Songs [...] © 1969 Warlock Music Ltd.  Printed & Made by Ernest J. Day & Co. Ltd.
 

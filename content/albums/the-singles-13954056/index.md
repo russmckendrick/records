@@ -1,14 +1,17 @@
 ---
 title: "The Bluetones - The Singles"
-album_artist: "The Bluetones"
-album_title: "The Singles"
+artist: "The Bluetones"
+album_name: "The Singles"
 date: 2019-08-03
 release_id: "13954056"
 slug: "the-singles-13954056"
+hideSummary: true
 cover:
     image: "the-singles-13954056.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Singles by The Bluetones"
+    caption: "The Singles by The Bluetones"
+genres: ["Rock"]
+styles: ["Soft Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The Bluetones - Slight Return](https://www.youtube.com/watch?v=B-3UpL6MkZ0)
 - [Keep the Home Fires Burning | The Bluetones (2000)](https://www.youtube.com/watch?v=mNRgUARwQe8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Bluetones - The Singles](https://www.discogs.com/release/13954056) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Bluetones - The Singles](https://www.discogs.com/release/13954056-The-Bluetones-The-Singles) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp, RE, Blu |
 | Catalog Number | DEMREC421 |
+
+Gatefold sleeve. 500 copies available on official web store include a 12x12" print signed by the band. This compilation Ⓟ 2002 [l125796] © 2019 [l204812].
 

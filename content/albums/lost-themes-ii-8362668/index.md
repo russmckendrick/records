@@ -1,14 +1,17 @@
 ---
 title: "John Carpenter - Lost Themes II"
-album_artist: "John Carpenter"
-album_title: "Lost Themes II"
+artist: "John Carpenter"
+album_name: "Lost Themes II"
 date: 2018-02-17
 release_id: "8362668"
 slug: "lost-themes-ii-8362668"
+hideSummary: true
 cover:
     image: "lost-themes-ii-8362668.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Lost Themes II by John Carpenter"
+    caption: "Lost Themes II by John Carpenter"
+genres: ["Electronic"]
+styles: ["Dark Ambient", "Synthwave", "Electro"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [John Carpenter Lost Themes II - Utopian Facade](https://www.youtube.com/watch?v=UlNikrTNVV0)
 - [John Carpenter Lost Themes II - Real Xeno](https://www.youtube.com/watch?v=olfs-L9GSQI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Carpenter - Lost Themes II](https://www.discogs.com/release/8362668) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Carpenter - Lost Themes II](https://www.discogs.com/release/8362668-John-Carpenter-Lost-Themes-II) |
 | Label          | Sacred Bones Records |
 | Format         | LP, Album |
 | Catalog Number | SBR-150 |
+
+Release in die-cut jacket with printed inner sleeve.  Includes download card.
 

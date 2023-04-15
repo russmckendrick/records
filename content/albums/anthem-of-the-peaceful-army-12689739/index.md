@@ -1,14 +1,17 @@
 ---
 title: "Greta Van Fleet - Anthem Of The Peaceful Army"
-album_artist: "Greta Van Fleet"
-album_title: "Anthem Of The Peaceful Army"
+artist: "Greta Van Fleet"
+album_name: "Anthem Of The Peaceful Army"
 date: 2018-10-28
 release_id: "12689739"
 slug: "anthem-of-the-peaceful-army-12689739"
+hideSummary: true
 cover:
     image: "anthem-of-the-peaceful-army-12689739.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Anthem Of The Peaceful Army by Greta Van Fleet"
+    caption: "Anthem Of The Peaceful Army by Greta Van Fleet"
+genres: ["Rock"]
+styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Greta Van Fleet - Brave New World (Audio)](https://www.youtube.com/watch?v=K6l0JTo-Ovc)
 - [Greta Van Fleet - Mountain of the Sun (Audio)](https://www.youtube.com/watch?v=RqFwTIkWegY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Greta Van Fleet - Anthem Of The Peaceful Army](https://www.discogs.com/release/12689739) |
+| Release Year   | 2018 |
+| Discogs Link   | [Greta Van Fleet - Anthem Of The Peaceful Army](https://www.discogs.com/release/12689739-Greta-Van-Fleet-Anthem-Of-The-Peaceful-Army) |
 | Label          | Lava, Republic Records |
 | Format         | LP, Album |
 | Catalog Number | 00602567949756 |
+
+Made in the EU. Includes two-sided lyric sheet insert.  The name of the album is misspelled on the back cover as "Anthem of the Peacful Army".   A line from the song 'When the curtain falls' has a spelling mistake in the lyrics sheet. "Well I loved you in that move (movie) show".  ℗ & © 2018 Republic Records, a division of UMG Recordings, Inc & Lava Music LLC.  © | 2018 | Published by LAVA Music Publishing (admin. Kobalt Music Publishing)  All songs recorded at Blackbird Studio Nashville, TN All songs mixed at Rustbelt Studios Royal Oak, MI All songs mastered at Sterling Sound 
 

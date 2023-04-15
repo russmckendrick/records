@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - [Five Years 1969 - 1973]"
-album_artist: "David Bowie"
-album_title: "[Five Years 1969 - 1973]"
+artist: "David Bowie"
+album_name: "[Five Years 1969 - 1973]"
 date: 2016-01-20
 release_id: "7521520"
 slug: "five-years-1969-1973-7521520"
+hideSummary: true
 cover:
     image: "five-years-1969-1973-7521520.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "[Five Years 1969 - 1973] by David Bowie"
+    caption: "[Five Years 1969 - 1973] by David Bowie"
+genres: ["Rock", "Pop"]
+styles: ["Glam"]
 ---
 
 ## Tracklisting
@@ -159,16 +162,17 @@ hideSummary: true
 145. Holy Holy (Spiders Version) (2:18)
 146. Velvet Goldmine (3:10)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [David Bowie - [Five Years 1969 - 1973]](https://www.discogs.com/release/7521520) |
+| Release Year   | 2015 |
+| Discogs Link   | [David Bowie - [Five Years 1969 - 1973]](https://www.discogs.com/release/7521520-David-Bowie-Five-Years-1969-1973) |
 | Label          | Parlophone, Parlophone |
 | Format         | Box, Comp, Ltd, RM + LP, Album, RE + LP, Album, RE |
 | Catalog Number | 0825646284092, DBXL 1 |
+
+Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [Pinups Radio Show](https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599) by adding it to shopping basket for free while preordering boxset.  Track A2b is not listed on the release.
 

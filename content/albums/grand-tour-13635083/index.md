@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - Grand Tour"
-album_artist: "Big Big Train"
-album_title: "Grand Tour"
+artist: "Big Big Train"
+album_name: "Grand Tour"
 date: 2019-05-17
 release_id: "13635083"
 slug: "grand-tour-13635083"
+hideSummary: true
 cover:
     image: "grand-tour-13635083.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grand Tour by Big Big Train"
+    caption: "Grand Tour by Big Big Train"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="nZRsmxpS7iI" title="Big Big Train - Theodora in Green and Gold" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Big Big Train - Grand Tour](https://www.discogs.com/release/13635083) |
+| Release Year   | 2019 |
+| Discogs Link   | [Big Big Train - Grand Tour](https://www.discogs.com/release/13635083-Big-Big-Train-Grand-Tour) |
 | Label          | Plane Groovy |
 | Format         | 2xLP, Album, Ltd, 180 |
 | Catalog Number | PLG074 |
+
+Limited edition vinyl release that includes a 24-page booklet with full color graphics, lyrics, credits, and band explanations for the inspiration and/or story behind each song. Some copies ordered through Burning Shed were sent a BBT concert flyer for upcoming performances and a Burning Shed postcard. 
 

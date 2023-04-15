@@ -1,14 +1,17 @@
 ---
 title: "Pavement - Terror Twilight"
-album_artist: "Pavement"
-album_title: "Terror Twilight"
+artist: "Pavement"
+album_name: "Terror Twilight"
 date: 2017-06-01
 release_id: "3014122"
 slug: "terror-twilight-3014122"
+hideSummary: true
 cover:
     image: "terror-twilight-3014122.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Terror Twilight by Pavement"
+    caption: "Terror Twilight by Pavement"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger (Official Video)" >}}
 - [Pavement - Major Leagues (Official Video)](https://www.youtube.com/watch?v=qWmXoHLF0LE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Pavement - Terror Twilight](https://www.discogs.com/release/3014122) |
+| Release Year   | 2010 |
+| Discogs Link   | [Pavement - Terror Twilight](https://www.discogs.com/release/3014122-Pavement-Terror-Twilight) |
 | Label          | Domino |
 | Format         | LP, RE, 180 |
 | Catalog Number | WIGLP 66 |
+
+Sticker says :180gm heavyweight vinyl comes with mp3s!  Comes with printed inner sleeve and free download code. 
 

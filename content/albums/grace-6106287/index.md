@@ -1,14 +1,17 @@
 ---
 title: "Jeff Buckley - Grace"
-album_artist: "Jeff Buckley"
-album_title: "Grace"
+artist: "Jeff Buckley"
+album_name: "Grace"
 date: 2015-08-09
 release_id: "6106287"
 slug: "grace-6106287"
+hideSummary: true
 cover:
     image: "grace-6106287.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grace by Jeff Buckley"
+    caption: "Grace by Jeff Buckley"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Dream Brother](https://www.youtube.com/watch?v=EaUL-_VZXcg)
 - [Forget Her](https://www.youtube.com/watch?v=yZhHtSJwjq0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Jeff Buckley - Grace](https://www.discogs.com/release/6106287) |
+| Release Year   | 2014 |
+| Discogs Link   | [Jeff Buckley - Grace](https://www.discogs.com/release/6106287-Jeff-Buckley-Grace) |
 | Label          | Columbia |
 | Format         | CD, Album, RE + LP, Album, RE |
 | Catalog Number | 88843094771 |
+
+(C)1994, 2014 Sony Music Entertainment Inc. (P)1994, 2014 Sony Music Entertainment Inc. Manufactured by Columbia Records.  2014 180 gram Vinyl Reissue with CD included. 
 

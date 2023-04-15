@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - Grace For Drowning"
-album_artist: "Steven Wilson"
-album_title: "Grace For Drowning"
+artist: "Steven Wilson"
+album_name: "Grace For Drowning"
 date: 2016-12-10
 release_id: "3130731"
 slug: "grace-for-drowning-3130731"
+hideSummary: true
 cover:
     image: "grace-for-drowning-3130731.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grace For Drowning by Steven Wilson"
+    caption: "Grace For Drowning by Steven Wilson"
+genres: ["Rock"]
+styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Like Dust I Have Cleared from My Eye](https://www.youtube.com/watch?v=oavmSFLaDAI)
 - [Steven Wilson - Grace For Drowning](https://www.youtube.com/watch?v=w8AitJAZTZ8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Steven Wilson - Grace For Drowning](https://www.discogs.com/release/3130731) |
+| Release Year   | 2011 |
+| Discogs Link   | [Steven Wilson - Grace For Drowning](https://www.discogs.com/release/3130731-Steven-Wilson-Grace-For-Drowning) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd |
 | Catalog Number | KSCOPE818 |
+
+Written and recorded during the period of Jan 2010 - June 2011.  Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.  Additional recording made by the musicians on location in the UK, USA and Germany.   Management for Acme Music. Artwork and design for Aleph. Exclusively administered through Universal Music Publishing Group  ℗ 2011 Steven Wilson © Steven Wilson Made in EU.  Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits.
 

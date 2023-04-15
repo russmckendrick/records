@@ -1,14 +1,17 @@
 ---
 title: "Various - Stranger Things (Music From The Netflix Original Series)"
-album_artist: "Various"
-album_title: "Stranger Things (Music From The Netflix Original Series)"
+artist: "Various"
+album_name: "Stranger Things (Music From The Netflix Original Series)"
 date: 2018-05-15
 release_id: "11273965"
 slug: "stranger-things-music-from-the-netflix-original-series-11273965"
+hideSummary: true
 cover:
     image: "stranger-things-music-from-the-netflix-original-series-11273965.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Stranger Things (Music From The Netflix Original Series) by Various"
+    caption: "Stranger Things (Music From The Netflix Original Series) by Various"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -68,13 +71,16 @@ hideSummary: true
 - [Peter Gabriel - Heroes](https://www.youtube.com/watch?v=LsvuipGq2ns)
 - [Elegia (2015 Remaster)](https://www.youtube.com/watch?v=omzJvwYO440)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - Stranger Things (Music From The Netflix Original Series)](https://www.discogs.com/release/11273965) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - Stranger Things (Music From The Netflix Original Series)](https://www.discogs.com/release/11273965-Various-Stranger-Things-Music-From-The-Netflix-Original-Series) |
 | Label          | Legacy, Netflix |
 | Format         | 2xLP, Album, Comp |
 | Catalog Number | 88985480901 |
+
+Comes in a gatefold sleeve.  Dialogue taken from the Netflix Original Series "Stranger Things". Courtesy Of Netflix.  The runouts are etched.
 

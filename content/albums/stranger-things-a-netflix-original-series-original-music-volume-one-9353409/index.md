@@ -1,14 +1,17 @@
 ---
 title: "Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume One"
-album_artist: "Kyle Dixon (2) & Michael Stein (9)"
-album_title: "Stranger Things (A Netflix Original Series) Original Music • Volume One"
+artist: "Kyle Dixon (2) & Michael Stein (9)"
+album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume One"
 date: 2016-11-14
 release_id: "9353409"
 slug: "stranger-things-a-netflix-original-series-original-music-volume-one-9353409"
+hideSummary: true
 cover:
     image: "stranger-things-a-netflix-original-series-original-music-volume-one-9353409.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon (2) & Michael Stein (9)"
+    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon (2) & Michael Stein (9)"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Soundtrack", "Score"]
 ---
 
 ## Tracklisting
@@ -66,13 +69,16 @@ hideSummary: true
 - [What Else Is There to Do?](https://www.youtube.com/watch?v=rzoQ6O-1FbM)
 - [You Can Talk to Me](https://www.youtube.com/watch?v=rdNF1ekZF3E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume One](https://www.discogs.com/release/9353409) |
+| Release Year   | 2016 |
+| Discogs Link   | [Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume One](https://www.discogs.com/release/9353409-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-One) |
 | Label          | Invada, Netflix, Lakeshore Records |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | INV176LP |
+
+Mastered at Audiosiege Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits.
 

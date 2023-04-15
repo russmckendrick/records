@@ -1,14 +1,17 @@
 ---
 title: "Lamb - The Secret Of Letting Go"
-album_artist: "Lamb"
-album_title: "The Secret Of Letting Go"
+artist: "Lamb"
+album_name: "The Secret Of Letting Go"
 date: 2019-04-28
 release_id: "13558086"
 slug: "the-secret-of-letting-go-13558086"
+hideSummary: true
 cover:
     image: "the-secret-of-letting-go-13558086.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Secret Of Letting Go by Lamb"
+    caption: "The Secret Of Letting Go by Lamb"
+genres: ["Electronic"]
+styles: ["Leftfield", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The Silence in Between](https://www.youtube.com/watch?v=X-W26gZDkxE)
 - [One Hand Clapping](https://www.youtube.com/watch?v=Oz0i-3_1-xk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Lamb - The Secret Of Letting Go](https://www.discogs.com/release/13558086) |
+| Release Year   | 2019 |
+| Discogs Link   | [Lamb - The Secret Of Letting Go](https://www.discogs.com/release/13558086-Lamb-The-Secret-Of-Letting-Go) |
 | Label          | Cooking Vinyl |
 | Format         | LP, Album, Ltd, 180 |
 | Catalog Number | COOKLP728 |
+
+Ltd edition sticker on front cover 180g heavyweight vinyl in gatefold sleeve Label has cat number as COOKCD728 on both sides
 

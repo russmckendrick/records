@@ -1,14 +1,17 @@
 ---
 title: "Gong - The Universe Also Collapses "
-album_artist: "Gong"
-album_title: "The Universe Also Collapses "
+artist: "Gong"
+album_name: "The Universe Also Collapses "
 date: 2019-05-10
 release_id: "13361745"
 slug: "the-universe-also-collapses-13361745"
+hideSummary: true
 cover:
     image: "the-universe-also-collapses-13361745.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Universe Also Collapses  by Gong"
+    caption: "The Universe Also Collapses  by Gong"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 - [The Elemental](https://www.youtube.com/watch?v=7jjCO45jw88)
 - [If Never I'm and Ever You](https://www.youtube.com/watch?v=B3jBKRKQSXQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Gong - The Universe Also Collapses ](https://www.discogs.com/release/13361745) |
+| Release Year   | 2019 |
+| Discogs Link   | [Gong - The Universe Also Collapses ](https://www.discogs.com/release/13361745-Gong-The-Universe-Also-Collapses-) |
 | Label          | Kscope |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | KSCOPE1039 |
+
+Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.  Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.   Square pink hype sticker with white writing. All copies come with KSCOPE advertising card 10"x10"
 

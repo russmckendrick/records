@@ -1,14 +1,17 @@
 ---
 title: "Suede - Love & Poison (Live At The Brixton Academy, 16th May 1993)"
-album_artist: "Suede"
-album_title: "Love & Poison (Live At The Brixton Academy, 16th May 1993)"
+artist: "Suede"
+album_name: "Love & Poison (Live At The Brixton Academy, 16th May 1993)"
 date: 2021-06-18
 release_id: "19107601"
 slug: "love-poison-live-at-the-brixton-academy-16th-may-1993-19107601"
+hideSummary: true
 cover:
     image: "love-poison-live-at-the-brixton-academy-16th-may-1993-19107601.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Love & Poison (Live At The Brixton Academy, 16th May 1993) by Suede"
+    caption: "Love & Poison (Live At The Brixton Academy, 16th May 1993) by Suede"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [🔴Suede ‎– Complete B Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=HZP5yePt6oY)
 - [🔴Suede ‎– Complete C Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=1z2ysPUqirE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Suede - Love & Poison (Live At The Brixton Academy, 16th May 1993)](https://www.discogs.com/release/19107601) |
+| Release Year   | 2021 |
+| Discogs Link   | [Suede - Love & Poison (Live At The Brixton Academy, 16th May 1993)](https://www.discogs.com/release/19107601-Suede-Love-Poison-Live-At-The-Brixton-Academy-16th-May-1993) |
 | Label          | Demon Records |
 | Format         | 2xLP, Album, RSD, Ltd, Cle |
 | Catalog Number | DEMREC880 |
+
+The soundtrack to the band’s first concert video, [m858959], recorded at Brixton Academy 16th May 1993.   Issued in a die-cut outer sleeve with printed inner sleeves. Pressed on 2 x 180g clear vinyl for Record Store Day 2021 (1st drop 12.06.21) in a total number of 3500 copies worldwide.  Released in U.S. as [r19169785].  ℗ 1993 Suede Ltd. © 2021 Demon Music Group Ltd.   Manufactured in the EU.
 

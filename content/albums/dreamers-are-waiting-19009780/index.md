@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Dreamers Are Waiting"
-album_artist: "Crowded House"
-album_title: "Dreamers Are Waiting"
+artist: "Crowded House"
+album_name: "Dreamers Are Waiting"
 date: 2021-06-04
 release_id: "19009780"
 slug: "dreamers-are-waiting-19009780"
+hideSummary: true
 cover:
     image: "dreamers-are-waiting-19009780.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Dreamers Are Waiting by Crowded House"
+    caption: "Dreamers Are Waiting by Crowded House"
+genres: ["Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Crowded House - Playing with Fire (Official Video)](https://www.youtube.com/watch?v=HRzk3sWMxAg)
 - [Crowded House - Show Me the Way (Lyric Video)](https://www.youtube.com/watch?v=BVauKkGwdSk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Crowded House - Dreamers Are Waiting](https://www.discogs.com/release/19009780) |
+| Release Year   | 2021 |
+| Discogs Link   | [Crowded House - Dreamers Are Waiting](https://www.discogs.com/release/19009780-Crowded-House-Dreamers-Are-Waiting) |
 | Label          | EMI, EMI, EMI |
 | Format         | LP, Album, Ltd, Cya |
 | Catalog Number | 3543054, 00602435329635, 3532963 |
+
+Gatefold sleeve. Photo innersleeve. 8 pages lyrics insert.  An EMI Recorded Music Australia production. ℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company. Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the E.U.  Round Hype sticker: 180 gram Heavyweight Multi-Coloured Vinyl 3543054  Rectangular Hype sticker: Crowded House Dreamers Are Waiting 3543054 
 

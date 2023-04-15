@@ -1,14 +1,17 @@
 ---
 title: "The Stranglers - Peaches: The Very Best Of The Stranglers"
-album_artist: "The Stranglers"
-album_title: "Peaches: The Very Best Of The Stranglers"
+artist: "The Stranglers"
+album_name: "Peaches: The Very Best Of The Stranglers"
 date: 2020-11-27
 release_id: "16274027"
 slug: "peaches-the-very-best-of-the-stranglers-16274027"
+hideSummary: true
 cover:
     image: "peaches-the-very-best-of-the-stranglers-16274027.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Peaches: The Very Best Of The Stranglers by The Stranglers"
+    caption: "Peaches: The Very Best Of The Stranglers by The Stranglers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [The Stranglers - Always The Sun (Video)](https://www.youtube.com/watch?v=8dEySTzQ6oc)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |
 | Label          | Parlophone |
 | Format         | 2xLP, RSD, Comp, Ltd, RE, Gat |
 | Catalog Number | 0190295187149 |
+
+Sticker on front: the very best of the stranglers - 2 LP set on vinyl for the first time Limited 1,500 copies  Event: RSD 2020 Black friday Release type: RSD First Release
 

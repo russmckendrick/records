@@ -1,14 +1,17 @@
 ---
 title: "XTC - English Settlement"
-album_artist: "XTC"
-album_title: "English Settlement"
+artist: "XTC"
+album_name: "English Settlement"
 date: 2018-01-19
 release_id: "8800946"
 slug: "english-settlement-8800946"
+hideSummary: true
 cover:
     image: "english-settlement-8800946.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "English Settlement by XTC"
+    caption: "English Settlement by XTC"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 - [No Thugs In Our House (2001 Remaster)](https://www.youtube.com/watch?v=PnRzV4ehSxY)
 - [XTC - Knuckle Down](https://www.youtube.com/watch?v=g9zZ0hefFok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [XTC - English Settlement](https://www.discogs.com/release/8800946) |
+| Release Year   | 2016 |
+| Discogs Link   | [XTC - English Settlement](https://www.discogs.com/release/8800946-XTC-English-Settlement) |
 | Label          | Ape House |
 | Format         | 2xLP, Album, RE + CD, Album, RE + Box, Dlx |
 | Catalog Number | APELPD105 |
+
+A deluxe version of XTC's 1982 classic, English Settlement.   Including:   * 2 x 33rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * 2016 cut from original half-inch master sources  * CD mastered from the same original master sources  * All contents packaged in a sturdy slipcase   While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition. 
 

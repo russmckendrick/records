@@ -1,14 +1,17 @@
 ---
 title: "Morphine (2) - Cure For Pain"
-album_artist: "Morphine (2)"
-album_title: "Cure For Pain"
+artist: "Morphine (2)"
+album_name: "Cure For Pain"
 date: 2019-06-12
 release_id: "13678278"
 slug: "cure-for-pain-13678278"
+hideSummary: true
 cover:
     image: "cure-for-pain-13678278.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cure For Pain by Morphine (2)"
+    caption: "Cure For Pain by Morphine (2)"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Sheila](https://www.youtube.com/watch?v=CNpFR4P7uZE)
 - [Miles Davis' Funeral](https://www.youtube.com/watch?v=57Rd7FjC3c4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Morphine (2) - Cure For Pain](https://www.discogs.com/release/13678278) |
+| Release Year   | 2019 |
+| Discogs Link   | [Morphine (2) - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-Cure-For-Pain) |
 | Label          | Music On Vinyl, Rykodisc |
 | Format         | LP, Album, Ltd, Num, RE, RP, Blu |
 | Catalog Number | MOVLP1783 |
+
+ Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU.
 

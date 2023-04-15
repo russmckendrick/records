@@ -1,14 +1,17 @@
 ---
 title: "Blind Melon - Blind Melon"
-album_artist: "Blind Melon"
-album_title: "Blind Melon"
+artist: "Blind Melon"
+album_name: "Blind Melon"
 date: 2016-12-18
 release_id: "5746552"
 slug: "blind-melon-5746552"
+hideSummary: true
 cover:
     image: "blind-melon-5746552.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Blind Melon by Blind Melon"
+    caption: "Blind Melon by Blind Melon"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Drive](https://www.youtube.com/watch?v=kgwqrCqEm2U)
 - [Time](https://www.youtube.com/watch?v=8AO4n6W_cTA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Blind Melon - Blind Melon](https://www.discogs.com/release/5746552) |
+| Release Year   | 2014 |
+| Discogs Link   | [Blind Melon - Blind Melon](https://www.discogs.com/release/5746552-Blind-Melon-Blind-Melon) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP1100 |
+
+- 180 gram audiophile vinyl - Insert with printed lyrics.  © 1992 Heavy Melon Music ASCAP 
 

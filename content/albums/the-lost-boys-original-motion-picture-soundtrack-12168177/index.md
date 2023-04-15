@@ -1,14 +1,17 @@
 ---
 title: "Various - The Lost Boys (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "The Lost Boys (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "The Lost Boys (Original Motion Picture Soundtrack)"
 date: 2018-06-23
 release_id: "12168177"
 slug: "the-lost-boys-original-motion-picture-soundtrack-12168177"
+hideSummary: true
 cover:
     image: "the-lost-boys-original-motion-picture-soundtrack-12168177.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "The Lost Boys (Original Motion Picture Soundtrack) by Various"
+    caption: "The Lost Boys (Original Motion Picture Soundtrack) by Various"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12168177) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12168177-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |
 | Label          | Atlantic, Atlantic |
 | Format         | LP, RE, Whi |
 | Catalog Number | 603497860630, RCV1 81767 |
+
+Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition" 
 

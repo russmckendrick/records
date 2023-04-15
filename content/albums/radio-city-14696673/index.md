@@ -1,14 +1,17 @@
 ---
 title: "Big Star - Radio City"
-album_artist: "Big Star"
-album_title: "Radio City"
+artist: "Big Star"
+album_name: "Radio City"
 date: 2020-03-07
 release_id: "14696673"
 slug: "radio-city-14696673"
+hideSummary: true
 cover:
     image: "radio-city-14696673.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Radio City by Big Star"
+    caption: "Radio City by Big Star"
+genres: ["Rock"]
+styles: ["Power Pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Big Star - September Gurls from Radio City](https://www.youtube.com/watch?v=7kbYVZ8eR-o)
 - [Big Star - I'm In Love With A Girl from Radio City](https://www.youtube.com/watch?v=I0bWB56Tjok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Big Star - Radio City](https://www.discogs.com/release/14696673) |
+| Release Year   | 2020 |
+| Discogs Link   | [Big Star - Radio City](https://www.discogs.com/release/14696673-Big-Star-Radio-City) |
 | Label          | Ardent Records (2), Craft Recordings |
 | Format         | LP, Album, Mono, RE, 180 |
 | Catalog Number | ADS-1501, CR00212 |
+
+Red, black, and white hype sticker from Craft Recordings All-analog mastering Tip-on Sleeve A1 is mono.  All other tracks are stereo  From back cover: Photographs by Bill Eggleston/Cenotaph January 1974 ℗ 2019 & © 1973 Craft Recordings Made in U.S.A.  On label: All tracks published by Koala/Birdees (ASCAP)  Runout details: Variant 1 -- Both sides are etched. Variant 2 -- Stamped vs etched state not specified Variant 3 -- Both sides are etched. On side A '10#' has been scratched out
 

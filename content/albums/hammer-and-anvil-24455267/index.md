@@ -1,14 +1,17 @@
 ---
 title: "Pure Reason Revolution - Hammer And Anvil"
-album_artist: "Pure Reason Revolution"
-album_title: "Hammer And Anvil"
+artist: "Pure Reason Revolution"
+album_name: "Hammer And Anvil"
 date: 2022-09-09
 release_id: "24455267"
 slug: "hammer-and-anvil-24455267"
+hideSummary: true
 cover:
     image: "hammer-and-anvil-24455267.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Hammer And Anvil by Pure Reason Revolution"
+    caption: "Hammer And Anvil by Pure Reason Revolution"
+genres: ["Electronic", "Rock"]
+styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Pure Reason Revolution - Black Mourning - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=fg2C_9Bj_sQ)
 - [Pure Reason Revolution - Fight Fire - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=-oOWaZRn8WM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Pure Reason Revolution - Hammer And Anvil](https://www.discogs.com/release/24455267) |
+| Release Year   | 2022 |
+| Discogs Link   | [Pure Reason Revolution - Hammer And Anvil](https://www.discogs.com/release/24455267-Pure-Reason-Revolution-Hammer-And-Anvil) |
 | Label          | Superball Music, Music On Vinyl |
 | Format         | 2xLP, Album, Ltd, RE, Yel |
 | Catalog Number | MOVLP3078 |
+
+Limited Edition of 1000 copies on yellow coloured vinyl Available on vinyl for the first time Includes band logo etch on D-side 180 gram audiophile vinyl  Made in the EU.
 

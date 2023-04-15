@@ -1,14 +1,17 @@
 ---
 title: "Dodgy - Ace A's + Killer B's"
-album_artist: "Dodgy"
-album_title: "Ace A's + Killer B's"
+artist: "Dodgy"
+album_name: "Ace A's + Killer B's"
 date: 2022-02-25
 release_id: "22218358"
 slug: "ace-a-s-killer-b-s-22218358"
+hideSummary: true
 cover:
     image: "ace-a-s-killer-b-s-22218358.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ace A's + Killer B's by Dodgy"
+    caption: "Ace A's + Killer B's by Dodgy"
+genres: ["Rock"]
+styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="WTkeHkdIuB0" title="Dodgy Ace A's + Killer B's" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Dodgy - Ace A's + Killer B's](https://www.discogs.com/release/22218358) |
+| Release Year   | 2022 |
+| Discogs Link   | [Dodgy - Ace A's + Killer B's](https://www.discogs.com/release/22218358-Dodgy-Ace-As-Killer-Bs) |
 | Label          | Demon Records |
 | Format         | LP, Gre + LP, Yel + Comp, Ltd, RE |
 | Catalog Number | DEMREC907X |
+
+First ever vinyl issue. Previously only available on CD.  Title on hype sticker: Ace A's + Killer B's The Best Of  Standard sleeve with printed inner sleeves. Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'  Manufactured in E.U.
 

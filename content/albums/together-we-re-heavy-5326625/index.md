@@ -1,14 +1,17 @@
 ---
 title: "The Polyphonic Spree - Together We're Heavy"
-album_artist: "The Polyphonic Spree"
-album_title: "Together We're Heavy"
+artist: "The Polyphonic Spree"
+album_name: "Together We're Heavy"
 date: 2017-07-29
 release_id: "5326625"
 slug: "together-we-re-heavy-5326625"
+hideSummary: true
 cover:
     image: "together-we-re-heavy-5326625.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Together We're Heavy by The Polyphonic Spree"
+    caption: "Together We're Heavy by The Polyphonic Spree"
+genres: ["Rock"]
+styles: ["Art Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=3KCv7U2KA8c)
 - [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=_nxjf6AYecc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2004 |
-| Discogs Link   | [The Polyphonic Spree - Together We're Heavy](https://www.discogs.com/release/5326625) |
+| Release Year   | 2004 |
+| Discogs Link   | [The Polyphonic Spree - Together We're Heavy](https://www.discogs.com/release/5326625-The-Polyphonic-Spree-Together-Were-Heavy) |
 | Label          | Hollywood Records, Good Records, Disneyland |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | 2061-62423-1, none |
+
+Cover has Disneyland Records logo on back, but no catalog number.  Release comes with 2-page booklet of liner notes and lyrics.
 

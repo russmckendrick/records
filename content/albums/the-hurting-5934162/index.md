@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - The Hurting"
-album_artist: "Tears For Fears"
-album_title: "The Hurting"
+artist: "Tears For Fears"
+album_name: "The Hurting"
 date: 2016-03-24
 release_id: "5934162"
 slug: "the-hurting-5934162"
+hideSummary: true
 cover:
     image: "the-hurting-5934162.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "The Hurting by Tears For Fears"
+    caption: "The Hurting by Tears For Fears"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The Prisoner](https://www.youtube.com/watch?v=iU59GwY25fU)
 - [Start Of The Breakdown](https://www.youtube.com/watch?v=n6sUE66Xv5o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Tears For Fears - The Hurting](https://www.discogs.com/release/5934162) |
+| Release Year   | 2014 |
+| Discogs Link   | [Tears For Fears - The Hurting](https://www.discogs.com/release/5934162-Tears-For-Fears-The-Hurting) |
 | Label          | Mercury, Mercury |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 378 944-0, 0602537894406 |
+
+Issued with a printed inner sleeve, containing credits and lyrics. Including digital download code.   Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd. All lyrics Copyright Control.  "Pale Shelter" on this release, is the second single version.  Track durations are not printed on the release.  Runouts are machine stamped.  ℗ & © 1983 Mercury Records Ltd.  Made in the EU.
 

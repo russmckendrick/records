@@ -1,14 +1,17 @@
 ---
 title: "Sigur Rós - Ágætis Byrjun"
-album_artist: "Sigur Rós"
-album_title: "Ágætis Byrjun"
+artist: "Sigur Rós"
+album_name: "Ágætis Byrjun"
 date: 2016-11-18
 release_id: "6589854"
 slug: "gtis-byrjun-6589854"
+hideSummary: true
 cover:
     image: "gtis-byrjun-6589854.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Ágætis Byrjun by Sigur Rós"
+    caption: "Ágætis Byrjun by Sigur Rós"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock", "Ambient"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Ágætis byrjun](https://www.youtube.com/watch?v=MHTRGBdH-s4)
 - [Avalon](https://www.youtube.com/watch?v=vwf4Z941jAA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Sigur Rós - Ágætis Byrjun](https://www.discogs.com/release/6589854) |
+| Release Year   | 2015 |
+| Discogs Link   | [Sigur Rós - Ágætis Byrjun](https://www.discogs.com/release/6589854-Sigur-R%C3%B3s-%C3%81g%C3%A6tis-Byrjun) |
 | Label          | XL Recordings, XL Recordings, Krúnk |
 | Format         | 2xLP, Album, RE + CD, Album |
 | Catalog Number | XLLP610, XLCD610 |
+
+℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.  Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD."  Sigur Ros clear sticker logo is pasted on outer shrink wrap.  
 

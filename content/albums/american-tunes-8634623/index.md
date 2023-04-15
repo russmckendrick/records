@@ -1,14 +1,17 @@
 ---
 title: "Allen Toussaint - American Tunes"
-album_artist: "Allen Toussaint"
-album_title: "American Tunes"
+artist: "Allen Toussaint"
+album_name: "American Tunes"
 date: 2016-07-01
 release_id: "8634623"
 slug: "american-tunes-8634623"
+hideSummary: true
 cover:
     image: "american-tunes-8634623.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "American Tunes by Allen Toussaint"
+    caption: "American Tunes by Allen Toussaint"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Confessin' (That I Love You)](https://www.youtube.com/watch?v=VTvzPmI5hzo)
 - [Big Chief](https://www.youtube.com/watch?v=5xOgbMlESMs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Allen Toussaint - American Tunes](https://www.discogs.com/release/8634623) |
+| Release Year   | 2016 |
+| Discogs Link   | [Allen Toussaint - American Tunes](https://www.discogs.com/release/8634623-Allen-Toussaint-American-Tunes) |
 | Label          | Nonesuch, Nonesuch |
 | Format         | 2xLP, Album |
 | Catalog Number | 554656-1, 7559-79467-8 |
+
+Gatefold sleeve includes printed insert with credits and notes.   ℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.  Runouts are etched up to ᶜB, everything after is stamped. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Marvin Gaye - What's Going On"
-album_artist: "Marvin Gaye"
-album_title: "What's Going On"
+artist: "Marvin Gaye"
+album_name: "What's Going On"
 date: 2015-08-09
 release_id: "1576940"
 slug: "what-s-going-on-1576940"
+hideSummary: true
 cover:
     image: "what-s-going-on-1576940.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "What's Going On by Marvin Gaye"
+    caption: "What's Going On by Marvin Gaye"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. Wholy Holy (3:20)
 9. Inner City Blues (Make Me Wanna Holler) (5:16)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [Marvin Gaye - What's Going On](https://www.discogs.com/release/1576940) |
+| Release Year   | 2008 |
+| Discogs Link   | [Marvin Gaye - What's Going On](https://www.discogs.com/release/1576940-Marvin-Gaye-Whats-Going-On) |
 | Label          | Tamla Motown, Motown, Tamla |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0731453002210 |
+
+180 gram vinyl remastered. Includes a voucher to download MP3 version of the album. Shrink wrapped copies featured red [l197898] sticker with [l138199] branding. Copies sold in France featured red [l197898] sticker with [l181316] branding, covering aforementioned sticker. Made in the EU. Copies exist with square white square sticker on back of sleeve (on shrink wrap) with black text "Disc Made In Germany".  ℗ © 1991 [l266901]  Record labels: [l33859] branding Sleeve (spine and back cover): [l1723] branding Sleeve (front cover): [l6200] branding 
 

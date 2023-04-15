@@ -1,14 +1,17 @@
 ---
 title: "Ghost (32) - Meliora"
-album_artist: "Ghost (32)"
-album_title: "Meliora"
+artist: "Ghost (32)"
+album_name: "Meliora"
 date: 2018-09-16
 release_id: "7381473"
 slug: "meliora-7381473"
+hideSummary: true
 cover:
     image: "meliora-7381473.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Meliora by Ghost (32)"
+    caption: "Meliora by Ghost (32)"
+genres: ["Rock"]
+styles: ["Hard Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Ghost - Majesty](https://www.youtube.com/watch?v=qS5-QmkKzJQ)
 - [Spirit](https://www.youtube.com/watch?v=_gSsp7vasSA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Ghost (32) - Meliora](https://www.discogs.com/release/7381473) |
+| Release Year   | 2015 |
+| Discogs Link   | [Ghost (32) - Meliora](https://www.discogs.com/release/7381473-Ghost-Meliora) |
 | Label          | Spinefarm Records, Rise Above Records, Loma Vista |
 | Format         | LP, Album |
 | Catalog Number | SPINE237751 |
+
+℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records.   Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet.   Runouts are etched and stamped    
 

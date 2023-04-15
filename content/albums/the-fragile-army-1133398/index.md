@@ -1,14 +1,17 @@
 ---
 title: "The Polyphonic Spree - The Fragile Army"
-album_artist: "The Polyphonic Spree"
-album_title: "The Fragile Army"
+artist: "The Polyphonic Spree"
+album_name: "The Fragile Army"
 date: 2017-07-14
 release_id: "1133398"
 slug: "the-fragile-army-1133398"
+hideSummary: true
 cover:
     image: "the-fragile-army-1133398.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Fragile Army by The Polyphonic Spree"
+    caption: "The Fragile Army by The Polyphonic Spree"
+genres: ["Rock"]
+styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Section 31 (Ocerblow Your Nest)
 12. Section 32 (The Championship)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2007 |
-| Discogs Link   | [The Polyphonic Spree - The Fragile Army](https://www.discogs.com/release/1133398) |
+| Release Year   | 2007 |
+| Discogs Link   | [The Polyphonic Spree - The Fragile Army](https://www.discogs.com/release/1133398-The-Polyphonic-Spree-The-Fragile-Army) |
 | Label          | Gut Records |
 | Format         | 2xLP, Gat |
 | Catalog Number | INSREC05V |
+
+This is advertised as a "2 LP 180 gram vinyl", however the actual weight of the records are significantly lower.
 

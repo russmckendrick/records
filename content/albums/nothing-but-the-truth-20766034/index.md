@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - Nothing But The Truth"
-album_artist: "The Pineapple Thief"
-album_title: "Nothing But The Truth"
+artist: "The Pineapple Thief"
+album_name: "Nothing But The Truth"
 date: 2021-11-03
 release_id: "20766034"
 slug: "nothing-but-the-truth-20766034"
+hideSummary: true
 cover:
     image: "nothing-but-the-truth-20766034.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nothing But The Truth by The Pineapple Thief"
+    caption: "Nothing But The Truth by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [The Final Thing on My Mind (Nothing But The Truth)](https://www.youtube.com/watch?v=fODhYXZCRmo)
 - [Drum Cam Split Screen - Our Mire by The Pineapple Thief (From 'Nothing But The Truth')](https://www.youtube.com/watch?v=Ylxs0xVvSDo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Pineapple Thief - Nothing But The Truth](https://www.discogs.com/release/20766034) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Pineapple Thief - Nothing But The Truth](https://www.discogs.com/release/20766034-The-Pineapple-Thief-Nothing-But-The-Truth) |
 | Label          | Kscope |
 | Format         | 2xLP, Album |
 | Catalog Number | KSCOPE1136 |
+
+Gavin Harrison - Drums Steve Kitch - Keyboards Bruce Soord - Guitars and vocals Jon Sykes - Bass guitar and backing vocals George Marios - Guitars and backing vocals - Mixed by - Bruce Soord and Gavin Harrison Mastered by - Steve Kitch at Steve Kitch mastering Artwork by - Michael Schoenholtz Design and layout by - Beech Photographer - Greg Holland Publisher - Universal/MCA Music Ltd Squatter Madras Music and Bruce Soord
 

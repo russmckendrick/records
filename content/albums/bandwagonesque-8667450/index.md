@@ -1,14 +1,17 @@
 ---
 title: "Teenage Fanclub - Bandwagonesque"
-album_artist: "Teenage Fanclub"
-album_title: "Bandwagonesque"
+artist: "Teenage Fanclub"
+album_name: "Bandwagonesque"
 date: 2016-06-21
 release_id: "8667450"
 slug: "bandwagonesque-8667450"
+hideSummary: true
 cover:
     image: "bandwagonesque-8667450.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bandwagonesque by Teenage Fanclub"
+    caption: "Bandwagonesque by Teenage Fanclub"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Teenage Fanclub - What You Do To Me](https://www.youtube.com/watch?v=SmJ3zOn9RD8)
 - [Teenage Fanclub - The Concept](https://www.youtube.com/watch?v=Er_JOsnwzcI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Teenage Fanclub - Bandwagonesque](https://www.discogs.com/release/8667450) |
+| Release Year   | 2016 |
+| Discogs Link   | [Teenage Fanclub - Bandwagonesque](https://www.discogs.com/release/8667450-Teenage-Fanclub-Bandwagonesque) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, RP, Pin |
 | Catalog Number | MOVLP336 |
+
+Limited to 500 numbered copies
 

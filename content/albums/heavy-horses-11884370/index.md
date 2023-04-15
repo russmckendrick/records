@@ -1,14 +1,17 @@
 ---
 title: "Jethro Tull - Heavy Horses"
-album_artist: "Jethro Tull"
-album_title: "Heavy Horses"
+artist: "Jethro Tull"
+album_name: "Heavy Horses"
 date: 2021-05-30
 release_id: "11884370"
 slug: "heavy-horses-11884370"
+hideSummary: true
 cover:
     image: "heavy-horses-11884370.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Heavy Horses by Jethro Tull"
+    caption: "Heavy Horses by Jethro Tull"
+genres: ["Rock"]
+styles: ["Folk Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [One Brown Mouse (2003 Remaster)](https://www.youtube.com/watch?v=sa6IrbDWJ2w)
 - [Weathercock (2003 Remaster)](https://www.youtube.com/watch?v=ffVNuAYEeEo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jethro Tull - Heavy Horses](https://www.discogs.com/release/11884370) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jethro Tull - Heavy Horses](https://www.discogs.com/release/11884370-Jethro-Tull-Heavy-Horses) |
 | Label          | Chrysalis, Parlophone |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0190295757311 |
+
+40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.  Recorded July 1977 - January 1978  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd.  Runouts etched, Optimal markings (1=) are mirrored
 

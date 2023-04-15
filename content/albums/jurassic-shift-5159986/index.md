@@ -1,14 +1,17 @@
 ---
 title: "Ozric Tentacles - Jurassic Shift"
-album_artist: "Ozric Tentacles"
-album_title: "Jurassic Shift"
+artist: "Ozric Tentacles"
+album_name: "Jurassic Shift"
 date: 2020-06-01
 release_id: "5159986"
 slug: "jurassic-shift-5159986"
+hideSummary: true
 cover:
     image: "jurassic-shift-5159986.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Jurassic Shift by Ozric Tentacles"
+    caption: "Jurassic Shift by Ozric Tentacles"
+genres: ["Electronic", "Rock"]
+styles: ["Space Rock", "Prog Rock", "Ambient"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Ozric Tentacles - Train Oasis](https://www.youtube.com/watch?v=wgjEguBHbv4)
 - [Ozric Tentacles - Feng Shui (Live)](https://www.youtube.com/watch?v=M9CjobOAPoQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Ozric Tentacles - Jurassic Shift](https://www.discogs.com/release/5159986) |
+| Release Year   | 2013 |
+| Discogs Link   | [Ozric Tentacles - Jurassic Shift](https://www.discogs.com/release/5159986-Ozric-Tentacles-Jurassic-Shift) |
 | Label          | Madfish |
 | Format         | LP, Album, RE, Pin + 12\" |
 | Catalog Number | SMALP955 |
+
+Recorded in 1992-1993 at The Mill, Somerset.  ℗1993 Snapper Music ©2013 Snapper Music  
 

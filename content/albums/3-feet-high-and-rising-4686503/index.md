@@ -1,14 +1,17 @@
 ---
 title: "De La Soul - 3 Feet High And Rising"
-album_artist: "De La Soul"
-album_title: "3 Feet High And Rising"
+artist: "De La Soul"
+album_name: "3 Feet High And Rising"
 date: 2015-08-09
 release_id: "4686503"
 slug: "3-feet-high-and-rising-4686503"
+hideSummary: true
 cover:
     image: "3-feet-high-and-rising-4686503.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "3 Feet High And Rising by De La Soul"
+    caption: "3 Feet High And Rising by De La Soul"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/4686503) |
+| Release Year   | 2013 |
+| Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/4686503-De-La-Soul-3-Feet-High-And-Rising) |
 | Label          | Rhino Records (2), Tommy Boy |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | R1-81019 |
+
+Black Vinyl Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label.
 

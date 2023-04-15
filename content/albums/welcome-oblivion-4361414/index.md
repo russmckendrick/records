@@ -1,14 +1,17 @@
 ---
 title: "How To Destroy Angels - Welcome Oblivion"
-album_artist: "How To Destroy Angels"
-album_title: "Welcome Oblivion"
+artist: "How To Destroy Angels"
+album_name: "Welcome Oblivion"
 date: 2017-04-14
 release_id: "4361414"
 slug: "welcome-oblivion-4361414"
+hideSummary: true
 cover:
     image: "welcome-oblivion-4361414.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Welcome Oblivion by How To Destroy Angels"
+    caption: "Welcome Oblivion by How To Destroy Angels"
+genres: ["Electronic", "Rock"]
+styles: ["Industrial", "Electro"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [How To Destroy Angels - The loop closes](https://www.youtube.com/watch?v=gY2VADkYanQ)
 - [Strings and Attractors - How To Destroy Angels](https://www.youtube.com/watch?v=2JLxrq0KLVY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [How To Destroy Angels - Welcome Oblivion](https://www.discogs.com/release/4361414) |
+| Release Year   | 2013 |
+| Discogs Link   | [How To Destroy Angels - Welcome Oblivion](https://www.discogs.com/release/4361414-How-To-Destroy-Angels-Welcome-Oblivion) |
 | Label          | Columbia |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | 88765475461 |
+
+Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.  Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)  ℗ 2013 & © 2012, 2013 HDTA, LLC
 

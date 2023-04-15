@@ -1,14 +1,17 @@
 ---
 title: "Mull Historical Society - Loss"
-album_artist: "Mull Historical Society"
-album_title: "Loss"
+artist: "Mull Historical Society"
+album_name: "Loss"
 date: 2023-03-01
 release_id: "26212055"
 slug: "loss-26212055"
+hideSummary: true
 cover:
     image: "loss-26212055.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Loss by Mull Historical Society"
+    caption: "Loss by Mull Historical Society"
+genres: ["Rock"]
+styles: ["Acoustic", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Watching Xanadu](https://www.youtube.com/watch?v=mvccQGUpXYM)
 - [This Is Not Who We Were](https://www.youtube.com/watch?v=ZB7W0Ii6Uzo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Mull Historical Society - Loss](https://www.discogs.com/release/26212055) |
+| Release Year   | 2023 |
+| Discogs Link   | [Mull Historical Society - Loss](https://www.discogs.com/release/26212055-Mull-Historical-Society-Loss) |
 | Label          | Demon Records |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | DEMREC 1028 |
+
+
 

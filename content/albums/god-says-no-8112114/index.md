@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - God Says No"
-album_artist: "Monster Magnet"
-album_title: "God Says No"
+artist: "Monster Magnet"
+album_name: "God Says No"
 date: 2016-07-10
 release_id: "8112114"
 slug: "god-says-no-8112114"
+hideSummary: true
 cover:
     image: "god-says-no-8112114.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "God Says No by Monster Magnet"
+    caption: "God Says No by Monster Magnet"
+genres: ["Rock"]
+styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)
 - [Monster Magnet - I Want More](https://www.youtube.com/watch?v=Yji5Keb5Nko)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Monster Magnet - God Says No](https://www.discogs.com/release/8112114) |
+| Release Year   | 2016 |
+| Discogs Link   | [Monster Magnet - God Says No](https://www.discogs.com/release/8112114-Monster-Magnet-God-Says-No) |
 | Label          | Spinefarm Records, Universal Music Group, A&M Records |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 00600753637845 |
+
+Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.  Original sound recording made by A & M Records Ltd. Tracks C4 and D1 to D4 are bonus tracks.  Recorded at The Warehouse, Vancouver, B.C. Canada Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company  Made in the EU.
 

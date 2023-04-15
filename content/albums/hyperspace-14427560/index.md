@@ -1,14 +1,17 @@
 ---
 title: "Beck - Hyperspace"
-album_artist: "Beck"
-album_title: "Hyperspace"
+artist: "Beck"
+album_name: "Hyperspace"
 date: 2019-11-22
 release_id: "14427560"
 slug: "hyperspace-14427560"
+hideSummary: true
 cover:
     image: "hyperspace-14427560.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hyperspace by Beck"
+    caption: "Hyperspace by Beck"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Star (2:51)
 11. Everlasting Nothing (5:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Beck - Hyperspace](https://www.discogs.com/release/14427560) |
+| Release Year   | 2019 |
+| Discogs Link   | [Beck - Hyperspace](https://www.discogs.com/release/14427560-Beck-Hyperspace) |
 | Label          | Capitol Records, Fonograf (3) |
 | Format         | LP, Album, Ltd, Sil |
 | Catalog Number | 00602577692505 |
+
+Limited Indie Exclusive Silver Vinyl. Gatefold Sleeve.   Includes a download card (mp3 and WAV - expiry 22 November 2021)
 

@@ -1,14 +1,17 @@
 ---
 title: "The Colorist & Emiliana Torrini - The Colorist & Emiliana Torrini"
-album_artist: "The Colorist & Emiliana Torrini"
-album_title: "The Colorist & Emiliana Torrini"
+artist: "The Colorist & Emiliana Torrini"
+album_name: "The Colorist & Emiliana Torrini"
 date: 2017-05-16
 release_id: "9675385"
 slug: "the-colorist-emiliana-torrini-9675385"
+hideSummary: true
 cover:
     image: "the-colorist-emiliana-torrini-9675385.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Colorist & Emiliana Torrini by The Colorist & Emiliana Torrini"
+    caption: "The Colorist & Emiliana Torrini by The Colorist & Emiliana Torrini"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Today Has Been OK](https://www.youtube.com/watch?v=GfmLjtSbpQc)
 - [Serenade](https://www.youtube.com/watch?v=VAv_vqYPRBA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Colorist & Emiliana Torrini - The Colorist & Emiliana Torrini](https://www.discogs.com/release/9675385) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Colorist & Emiliana Torrini - The Colorist & Emiliana Torrini](https://www.discogs.com/release/9675385-The-Colorist-Emiliana-Torrini-The-Colorist-Emiliana-Torrini) |
 | Label          | Rough Trade, Rough Trade, Rough Trade |
 | Format         | LP, Album, Die + CD, Album + Dlx |
 | Catalog Number | 883870081610, RTRADLP816, RTRADCD816 |
+
+Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect. A printed inner sleeve is also included.  Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched 
 

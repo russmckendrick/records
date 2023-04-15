@@ -1,14 +1,17 @@
 ---
 title: "Various - Classic Rock Anthems II"
-album_artist: "Various"
-album_title: "Classic Rock Anthems II"
+artist: "Various"
+album_name: "Classic Rock Anthems II"
 date: 2017-12-13
 release_id: "11162384"
 slug: "classic-rock-anthems-ii-11162384"
+hideSummary: true
 cover:
     image: "classic-rock-anthems-ii-11162384.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Classic Rock Anthems II by Various"
+    caption: "Classic Rock Anthems II by Various"
+genres: ["Rock", "Pop"]
+styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. She's Not Here
 20. American Woman
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Classic Rock Anthems II](https://www.discogs.com/release/11162384) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Classic Rock Anthems II](https://www.discogs.com/release/11162384-Various-Classic-Rock-Anthems-II) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp, 180 |
 | Catalog Number |  DEMRECOMP006 |
+
+Vinyl exclusive.  2017 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company
 

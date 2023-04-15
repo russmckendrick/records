@@ -1,14 +1,17 @@
 ---
 title: "Various - The Lost Boys (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "The Lost Boys (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "The Lost Boys (Original Motion Picture Soundtrack)"
 date: 2016-06-18
 release_id: "650426"
 slug: "the-lost-boys-original-motion-picture-soundtrack-650426"
+hideSummary: true
 cover:
     image: "the-lost-boys-original-motion-picture-soundtrack-650426.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "The Lost Boys (Original Motion Picture Soundtrack) by Various"
+    caption: "The Lost Boys (Original Motion Picture Soundtrack) by Various"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/650426) |
+| Release Year   | 1987 |
+| Discogs Link   | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/650426-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |
 | Label          | Atlantic |
 | Format         | LP, Comp |
 | Catalog Number | 781 767-1 |
+
+Labels: ℗ + © 1987 Atlantic Recording Corporation for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by WEA Musik GmbH.  Sleeve: This compilation ℗ 1987 Atlantic Recording Cooperation for the United States and WEA International Inc. for the world outside the United States. © 1987 Warner Bros. Inc. Mastered at Atlantic Studios, NYC. Manufactured in Germany by Record Services GmbH, Alsdorf.  This Issue: no publishing notes on labels Another european issue: with publishing notes on labels [r18850189]
 

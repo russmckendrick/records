@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Passages"
-album_artist: "Jesus Jones"
-album_title: "Passages"
+artist: "Jesus Jones"
+album_name: "Passages"
 date: 2022-11-03
 release_id: "25038535"
 slug: "passages-25038535"
+hideSummary: true
 cover:
     image: "passages-25038535.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Passages by Jesus Jones"
+    caption: "Passages by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Jesus Jones - Where Are All the Dreams? NEW SINGLE](https://www.youtube.com/watch?v=61sf98y0VAk)
 - [Jesus Jones - Grateful](https://www.youtube.com/watch?v=7EQtbMXGFyk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Passages](https://www.discogs.com/release/25038535) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Passages](https://www.discogs.com/release/25038535-Jesus-Jones-Passages) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Tra |
 | Catalog Number | DEMREC957 |
+
+
 

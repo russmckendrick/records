@@ -1,14 +1,17 @@
 ---
 title: "T. Rex - Electric Warrior"
-album_artist: "T. Rex"
-album_title: "Electric Warrior"
+artist: "T. Rex"
+album_name: "Electric Warrior"
 date: 2017-01-27
 release_id: "6271897"
 slug: "electric-warrior-6271897"
+hideSummary: true
 cover:
     image: "electric-warrior-6271897.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Electric Warrior by T. Rex"
+    caption: "Electric Warrior by T. Rex"
+genres: ["Rock"]
+styles: ["Glam"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Hot Love](https://www.youtube.com/watch?v=kKoaHw8gy88)
 - [The Motivator (2003 Remaster)](https://www.youtube.com/watch?v=j8HPwDIEinM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [T. Rex - Electric Warrior](https://www.discogs.com/release/6271897) |
+| Release Year   | 2014 |
+| Discogs Link   | [T. Rex - Electric Warrior](https://www.discogs.com/release/6271897-T-Rex-Electric-Warrior) |
 | Label          | A&M Records, Universal Music Catalogue |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 535 407-6 |
+
+Plus download code.
 

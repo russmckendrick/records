@@ -1,14 +1,17 @@
 ---
 title: "Coheed And Cambria - Vaxis II: A Window of the Waking Mind"
-album_artist: "Coheed And Cambria"
-album_title: "Vaxis II: A Window of the Waking Mind"
+artist: "Coheed And Cambria"
+album_name: "Vaxis II: A Window of the Waking Mind"
 date: 2022-06-24
 release_id: "23676254"
 slug: "vaxis-ii-a-window-of-the-waking-mind-23676254"
+hideSummary: true
 cover:
     image: "vaxis-ii-a-window-of-the-waking-mind-23676254.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vaxis II: A Window of the Waking Mind by Coheed And Cambria"
+    caption: "Vaxis II: A Window of the Waking Mind by Coheed And Cambria"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
 - [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Coheed And Cambria - Vaxis II: A Window of the Waking Mind](https://www.discogs.com/release/23676254) |
+| Release Year   | 2022 |
+| Discogs Link   | [Coheed And Cambria - Vaxis II: A Window of the Waking Mind](https://www.discogs.com/release/23676254-Coheed-And-Cambria-Vaxis-II-A-Window-of-the-Waking-Mind) |
 | Label          | Roadrunner Records |
 | Format         | 2xLP, Album, Ele |
 | Catalog Number | 075678640780 |
+
+Indie Store Exclusive (Transparent Electric Blue Vinyl)
 

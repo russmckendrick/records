@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Endless River"
-album_artist: "Pink Floyd"
-album_title: "The Endless River"
+artist: "Pink Floyd"
+album_name: "The Endless River"
 date: 2016-05-31
 release_id: "6268164"
 slug: "the-endless-river-6268164"
+hideSummary: true
 cover:
     image: "the-endless-river-6268164.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Endless River by Pink Floyd"
+    caption: "The Endless River by Pink Floyd"
+genres: ["Rock"]
+styles: ["Prog Rock", "Ambient", "Art Rock", "Instrumental"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="2IKdU6T601g" title="Pink Floyd  Sum vinyl" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Pink Floyd - The Endless River](https://www.discogs.com/release/6268164) |
+| Release Year   | 2014 |
+| Discogs Link   | [Pink Floyd - The Endless River](https://www.discogs.com/release/6268164-Pink-Floyd-The-Endless-River) |
 | Label          | Parlophone |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | 825646215478 |
+
+Issued in a gatefold sleeve.  Matrix cat# is etched, except part beginning with TML which is stamped  Made in the EU  Pressing plant uncredited, identified by the matrix numbers.   Printed on front cover sticker: "PINK FLOYD ENDLESS RIVER 2-LP SET includes • Heavyweight 180 gram vinyl • Gatefold sleeve, full colour inner bags • 16-page 275mm x 275mm booklet with unseen photographs from 1993 sessions • Download card 825646215478"  Durations do not appear on release. Timings via stopwatch.  ℗ 2014 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group company. 
 

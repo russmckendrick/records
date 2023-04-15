@@ -1,14 +1,17 @@
 ---
 title: "Stiff Little Fingers - Inflammable Material"
-album_artist: "Stiff Little Fingers"
-album_title: "Inflammable Material"
+artist: "Stiff Little Fingers"
+album_name: "Inflammable Material"
 date: 2021-08-31
 release_id: "14224076"
 slug: "inflammable-material-14224076"
+hideSummary: true
 cover:
     image: "inflammable-material-14224076.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Inflammable Material by Stiff Little Fingers"
+    caption: "Inflammable Material by Stiff Little Fingers"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Alternative Ulster](https://www.youtube.com/watch?v=PlGmYetiCjA)
 - [Closed Groove](https://www.youtube.com/watch?v=xFgRXssRmQ4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stiff Little Fingers - Inflammable Material](https://www.discogs.com/release/14224076) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stiff Little Fingers - Inflammable Material](https://www.discogs.com/release/14224076-Stiff-Little-Fingers-Inflammable-Material) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE |
 | Catalog Number | 0190295448271 |
+
+℗ 1979 Sedgenote Ltd under exclusive license to Parlophone Records Ltd © 2019 Parlophone Records Ltd, A Warner Music Group Company. Made In The E.U.  First published in the U.K. by Rough Trade Records, 1979 in association with Rigid Digits  Includes printed innersleeve containing lyrics, info and credits.  Writing credits in tracklisting field are taken from innersleeve, and writing credits in credits field are taken from labels.  Track B3: -Bob Marley Music admin by Rondor Music (London) Ltd [Innersleeve]. -Bob Marley Music Ltd Admin by Rondor Music (London) Ltd [Labels].  Side B ends in locked groove.  Some copies have either stickers on the shrinkwrap or white blocks on the rear outer sleeve stating both "Made in Germany" and "Made in Czech Republic". Both label sides read "Made In the E.U. ...".
 

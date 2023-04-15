@@ -1,14 +1,17 @@
 ---
 title: "King Crimson - Live At The Orpheum"
-album_artist: "King Crimson"
-album_title: "Live At The Orpheum"
+artist: "King Crimson"
+album_name: "Live At The Orpheum"
 date: 2015-08-09
 release_id: "6596408"
 slug: "live-at-the-orpheum-6596408"
+hideSummary: true
 cover:
     image: "live-at-the-orpheum-6596408.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At The Orpheum by King Crimson"
+    caption: "Live At The Orpheum by King Crimson"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -20,16 +23,17 @@ hideSummary: true
 6. Sailor's Tale (6:51)
 7. Starless (12:15)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [King Crimson - Live At The Orpheum](https://www.discogs.com/release/6596408) |
+| Release Year   | 2015 |
+| Discogs Link   | [King Crimson - Live At The Orpheum](https://www.discogs.com/release/6596408-King-Crimson-Live-At-The-Orpheum) |
 | Label          | Discipline Global Mobile, Panegyric, Inner Knot |
 | Format         | LP, Album, Ltd |
 | Catalog Number | DGMLV1 |
+
+Gatefold Sleeve. 200 Gram Super Heavyweight Vinyl. The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1. ℗ & © 2015 Robert Fripp on behalf of King Crimson Made in England.
 

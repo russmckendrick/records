@@ -1,14 +1,17 @@
 ---
 title: "New Fast Automatic Daffodils - Pigeonhole"
-album_artist: "New Fast Automatic Daffodils"
-album_title: "Pigeonhole"
+artist: "New Fast Automatic Daffodils"
+album_name: "Pigeonhole"
 date: 2016-02-29
 release_id: "3580224"
 slug: "pigeonhole-3580224"
+hideSummary: true
 cover:
     image: "pigeonhole-3580224.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Pigeonhole by New Fast Automatic Daffodils"
+    caption: "Pigeonhole by New Fast Automatic Daffodils"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Dub", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [New Fast Automatic Daffodils   I found Myself In another Room .video](https://www.youtube.com/watch?v=s2QHsYY6t2M)
 - [New Fast Automatic Daffodils - Big (1990)](https://www.youtube.com/watch?v=fQUhCHJk6Nk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [New Fast Automatic Daffodils - Pigeonhole](https://www.discogs.com/release/3580224) |
+| Release Year   | 1990 |
+| Discogs Link   | [New Fast Automatic Daffodils - Pigeonhole](https://www.discogs.com/release/3580224-New-Fast-Automatic-Daffodils-Pigeonhole) |
 | Label          | Play It Again Sam Records |
 | Format         | LP, Album |
 | Catalog Number | BIAS 185 |
+
+Regular release without 7" bonus single  Released in conjunction with Playtime Recorded at Studio House August / September 1990  Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".  A1 to A3, B2 to B5 published by Copyright Control A4 published by Playtime Songs/Sands Enterprises Ltd. B1 published by Playtime Songs/Copyright Control 
 

@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Time On Earth"
-album_artist: "Crowded House"
-album_title: "Time On Earth"
+artist: "Crowded House"
+album_name: "Time On Earth"
 date: 2016-01-04
 release_id: "5536618"
 slug: "time-on-earth-5536618"
+hideSummary: true
 cover:
     image: "time-on-earth-5536618.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Time On Earth by Crowded House"
+    caption: "Time On Earth by Crowded House"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="eGZJKsTHXG0" title="Crowded House - Don't Stop Now" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2007 |
-| Discogs Link   | [Crowded House - Time On Earth](https://www.discogs.com/release/5536618) |
+| Release Year   | 2007 |
+| Discogs Link   | [Crowded House - Time On Earth](https://www.discogs.com/release/5536618-Crowded-House-Time-On-Earth) |
 | Label          | Parlophone, Parlophone |
 | Format         | 2xLP, Album, Ltd |
 | Catalog Number | 396 0271, 00946-396027-1-1 |
+
+European double 180gm vinyl edition in custom stickered gatefold lyric sleeve with picture inner sleeves - features 16 tracks; B4 and C4 appear only on the LP.
 

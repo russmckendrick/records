@@ -1,14 +1,17 @@
 ---
 title: "Iamthemorning - Ocean Sounds"
-album_artist: "Iamthemorning"
-album_title: "Ocean Sounds"
+artist: "Iamthemorning"
+album_name: "Ocean Sounds"
 date: 2018-10-20
 release_id: "12686247"
 slug: "ocean-sounds-12686247"
+hideSummary: true
 cover:
     image: "ocean-sounds-12686247.jpg"
-tags: ["Rock", "Classical"]
-hideSummary: true
+    alt: "Ocean Sounds by Iamthemorning"
+    caption: "Ocean Sounds by Iamthemorning"
+genres: ["Rock", "Classical"]
+styles: ["Alternative Rock", "Neo-Classical"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Iamthemorning - Chalk & Coal (from Ocean Sounds)](https://www.youtube.com/watch?v=rMecuWBzhMk)
 - [K. O. S. (Ocean Sounds Sessions)](https://www.youtube.com/watch?v=b8qZUZf_mMo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Iamthemorning - Ocean Sounds](https://www.discogs.com/release/12686247) |
+| Release Year   | 2018 |
+| Discogs Link   | [Iamthemorning - Ocean Sounds](https://www.discogs.com/release/12686247-Iamthemorning-Ocean-Sounds) |
 | Label          | Kscope |
 | Format         | LP, Album, 180 |
 | Catalog Number | KSCOPE984 |
+
+- Sticker - printed inner sleeve  Ⓟ 2018 Kscope Ⓒ 2018 Kscope Made in Germany  Barcode is scan only (no text).
 

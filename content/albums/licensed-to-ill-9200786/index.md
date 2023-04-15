@@ -1,14 +1,17 @@
 ---
 title: "Beastie Boys - Licensed To Ill"
-album_artist: "Beastie Boys"
-album_title: "Licensed To Ill"
+artist: "Beastie Boys"
+album_name: "Licensed To Ill"
 date: 2019-11-16
 release_id: "9200786"
 slug: "licensed-to-ill-9200786"
+hideSummary: true
 cover:
     image: "licensed-to-ill-9200786.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Licensed To Ill by Beastie Boys"
+    caption: "Licensed To Ill by Beastie Boys"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Beastie Boys - Time To Get Ill](https://www.youtube.com/watch?v=yFTG1_5VKcU)
 - [Beastie Boys - She's Crafty (Official Music Video)](https://www.youtube.com/watch?v=erD0nCFA75g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Beastie Boys - Licensed To Ill](https://www.discogs.com/release/9200786) |
+| Release Year   | 2016 |
+| Discogs Link   | [Beastie Boys - Licensed To Ill](https://www.discogs.com/release/9200786-Beastie-Boys-Licensed-To-Ill) |
 | Label          | Def Jam Recordings |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 06025 478 207-5 (4) |
+
+30th anniversary reissue  Made in the EU.  No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.  Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped.
 

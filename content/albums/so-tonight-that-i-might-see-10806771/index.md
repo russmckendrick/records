@@ -1,14 +1,17 @@
 ---
 title: "Mazzy Star - So Tonight That I Might See"
-album_artist: "Mazzy Star"
-album_title: "So Tonight That I Might See"
+artist: "Mazzy Star"
+album_name: "So Tonight That I Might See"
 date: 2017-09-08
 release_id: "10806771"
 slug: "so-tonight-that-i-might-see-10806771"
+hideSummary: true
 cover:
     image: "so-tonight-that-i-might-see-10806771.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "So Tonight That I Might See by Mazzy Star"
+    caption: "So Tonight That I Might See by Mazzy Star"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Mazzy Star - So Tonight That I Might See](https://www.discogs.com/release/10806771) |
+| Release Year   | 2017 |
+| Discogs Link   | [Mazzy Star - So Tonight That I Might See](https://www.discogs.com/release/10806771-Mazzy-Star-So-Tonight-That-I-Might-See) |
 | Label          | Capitol Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602557537574 |
+
+A Capitol Records release; ℗ 2016 © 2017 Capitol Records, LLC. All rights reserved. Unauthorised copying, reproducing, hiring, lending, public performance and broadcasting prohibited. Made in the EU. LC 06406. 006062557537574. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands.  MP3 download coupon included.
 

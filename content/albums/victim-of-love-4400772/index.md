@@ -1,14 +1,17 @@
 ---
 title: "Charles Bradley Featuring Menahan Street Band - Victim Of Love"
-album_artist: "Charles Bradley Featuring Menahan Street Band"
-album_title: "Victim Of Love"
+artist: "Charles Bradley Featuring Menahan Street Band"
+album_name: "Victim Of Love"
 date: 2016-10-03
 release_id: "4400772"
 slug: "victim-of-love-4400772"
+hideSummary: true
 cover:
     image: "victim-of-love-4400772.jpg"
-tags: ["Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "Victim Of Love by Charles Bradley Featuring Menahan Street Band"
+    caption: "Victim Of Love by Charles Bradley Featuring Menahan Street Band"
+genres: ["Funk / Soul", "Blues"]
+styles: ["Soul", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Charles Bradley - Hurricane](https://www.youtube.com/watch?v=z-zTw7TWWws)
 - [Through the Storm](https://www.youtube.com/watch?v=o_HtSBU73bs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Charles Bradley Featuring Menahan Street Band - Victim Of Love](https://www.discogs.com/release/4400772) |
+| Release Year   | 2013 |
+| Discogs Link   | [Charles Bradley Featuring Menahan Street Band - Victim Of Love](https://www.discogs.com/release/4400772-Charles-Bradley-Featuring-Menahan-Street-Band-Victim-Of-Love) |
 | Label          | Dunham, Dunham, Daptone Records, Daptone Records |
 | Format         | LP, Album |
 | Catalog Number | DUN-1004, DUN 1004, DAP-031, DAP 031 |
+
+Includes coupon for MP3 download.  CAT# on sleeve spine : DUN-1004 / DAP-031 CAT# on sleeve (back) : DUN 1004 / DAP 031 Barcode on the plastic shrink wrap only.
 

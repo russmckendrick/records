@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - Real Gone"
-album_artist: "Tom Waits"
-album_title: "Real Gone"
+artist: "Tom Waits"
+album_name: "Real Gone"
 date: 2018-01-22
 release_id: "11189843"
 slug: "real-gone-11189843"
+hideSummary: true
 cover:
     image: "real-gone-11189843.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Real Gone by Tom Waits"
+    caption: "Real Gone by Tom Waits"
+genres: ["Rock"]
+styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Tom Waits - Shake It](https://www.youtube.com/watch?v=lWL9mZ91Dvo)
 - [Tom Waits - How's It Gonna End](https://www.youtube.com/watch?v=bVaQN240G80)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tom Waits - Real Gone](https://www.discogs.com/release/11189843) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tom Waits - Real Gone](https://www.discogs.com/release/11189843-Tom-Waits-Real-Gone) |
 | Label          | Anti- |
 | Format         | 2xLP, Album, RM, Rem |
 | Catalog Number | 7548-1 |
+
+Track D5 (known as "Chick A Boom") is not named or referenced on outer or inner sleeves, nor labels. 
 

@@ -1,14 +1,17 @@
 ---
 title: "bdrmm - Bedroom"
-album_artist: "bdrmm"
-album_title: "Bedroom"
+artist: "bdrmm"
+album_name: "Bedroom"
 date: 2020-08-28
 release_id: "15830094"
 slug: "bedroom-15830094"
+hideSummary: true
 cover:
     image: "bedroom-15830094.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Bedroom by bdrmm"
+    caption: "Bedroom by bdrmm"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [bdrmm - A Reason To Celebrate (Official Audio)](https://www.youtube.com/watch?v=_PMHvJwelug)
 - [bdrmm - Happy (Official Audio)](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [bdrmm - Bedroom](https://www.discogs.com/release/15830094) |
+| Release Year   | 2020 |
+| Discogs Link   | [bdrmm - Bedroom](https://www.discogs.com/release/15830094-bdrmm-Bedroom) |
 | Label          | Sonic Cathedral Recordings |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | SCR160LP |
+
+Limited Red Vinyl
 

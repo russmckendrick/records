@@ -1,14 +1,17 @@
 ---
 title: "Sigur Rós - Variations On Darkness"
-album_artist: "Sigur Rós"
-album_title: "Variations On Darkness"
+artist: "Sigur Rós"
+album_name: "Variations On Darkness"
 date: 2019-04-13
 release_id: "13474949"
 slug: "variations-on-darkness-13474949"
+hideSummary: true
 cover:
     image: "variations-on-darkness-13474949.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Variations On Darkness by Sigur Rós"
+    caption: "Variations On Darkness by Sigur Rós"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -19,13 +22,16 @@ hideSummary: true
 {{< youtube id="ywHYsR6WqHs" title="The Hungry Ghosts, We Live in an Old Chaos of the Sun" >}}
 - [The Silence of Animals, The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Sigur Rós - Variations On Darkness](https://www.discogs.com/release/13474949) |
+| Release Year   | 2019 |
+| Discogs Link   | [Sigur Rós - Variations On Darkness](https://www.discogs.com/release/13474949-Sigur-R%C3%B3s-Variations-On-Darkness) |
 | Label          | Krúnk |
 | Format         | LP, Album, RSD, Ltd |
 | Catalog Number | KRUNK31LP |
+
+Released on Record Store Day 2019.  Note on the front cover :  A score of high nordic drama drawing on unreleased Sigur Rós material and multitracks from the band's catalogue. Premiered at Norður og Niður Festival, to soundtrack performances from the Iceland Dance Company. Arranged by Valdimar Johansson, choreographed by Erna Ómarsdóttir.
 

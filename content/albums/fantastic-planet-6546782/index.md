@@ -1,14 +1,17 @@
 ---
 title: "Noveller - Fantastic Planet"
-album_artist: "Noveller"
-album_title: "Fantastic Planet"
+artist: "Noveller"
+album_name: "Fantastic Planet"
 date: 2017-02-10
 release_id: "6546782"
 slug: "fantastic-planet-6546782"
+hideSummary: true
 cover:
     image: "fantastic-planet-6546782.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fantastic Planet by Noveller"
+    caption: "Fantastic Planet by Noveller"
+genres: ["Rock"]
+styles: ["Avantgarde"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Noveller - 'Rubicon'](https://www.youtube.com/watch?v=hPDN9DH-now)
 - [Noveller - 'Pulse Point'](https://www.youtube.com/watch?v=C2k1ItFICXY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Noveller - Fantastic Planet](https://www.discogs.com/release/6546782) |
+| Release Year   | 2015 |
+| Discogs Link   | [Noveller - Fantastic Planet](https://www.discogs.com/release/6546782-Noveller-Fantastic-Planet) |
 | Label          | Fire Records |
 | Format         | LP, Album, Min |
 | Catalog Number | FIRELP398 |
+
+
 

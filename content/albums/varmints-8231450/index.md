@@ -1,14 +1,17 @@
 ---
 title: "Anna Meredith - Varmints"
-album_artist: "Anna Meredith"
-album_title: "Varmints"
+artist: "Anna Meredith"
+album_name: "Varmints"
 date: 2016-10-26
 release_id: "8231450"
 slug: "varmints-8231450"
+hideSummary: true
 cover:
     image: "varmints-8231450.jpg"
-tags: ["Electronic", "Classical"]
-hideSummary: true
+    alt: "Varmints by Anna Meredith"
+    caption: "Varmints by Anna Meredith"
+genres: ["Electronic", "Classical"]
+styles: ["Modern Classical"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Anna Meredith - R-Type](https://www.youtube.com/watch?v=A4F2_cWk8cY)
 - [Honeyed Words](https://www.youtube.com/watch?v=S_MO6fL6D7M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Anna Meredith - Varmints](https://www.discogs.com/release/8231450) |
+| Release Year   | 2016 |
+| Discogs Link   | [Anna Meredith - Varmints](https://www.discogs.com/release/8231450-Anna-Meredith-Varmints) |
 | Label          | Moshi Moshi Records |
 | Format         | LP, Album |
 | Catalog Number | MOSHILP67 |
+
+
 

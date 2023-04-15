@@ -1,14 +1,17 @@
 ---
 title: "Al Stewart - Year Of The Cat"
-album_artist: "Al Stewart"
-album_title: "Year Of The Cat"
+artist: "Al Stewart"
+album_name: "Year Of The Cat"
 date: 2017-01-25
 release_id: "774100"
 slug: "year-of-the-cat-774100"
+hideSummary: true
 cover:
     image: "year-of-the-cat-774100.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Year Of The Cat by Al Stewart"
+    caption: "Year Of The Cat by Al Stewart"
+genres: ["Rock"]
+styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Broadway Hotel (2001 Remaster)](https://www.youtube.com/watch?v=2zpShd0A7Nk)
 - [Midas Shadow (2001 Remaster)](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Al Stewart - Year Of The Cat](https://www.discogs.com/release/774100) |
+| Release Year   | 1976 |
+| Discogs Link   | [Al Stewart - Year Of The Cat](https://www.discogs.com/release/774100-Al-Stewart-Year-Of-The-Cat) |
 | Label          | RCA, RCA Victor |
 | Format         | LP, Album, Gat |
 | Catalog Number | RS 1082 |
+
+  Note: An alternate version with flat labels and mastered by [a336941], is here - [r8747181]   
 

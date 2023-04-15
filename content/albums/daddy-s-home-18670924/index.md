@@ -1,14 +1,17 @@
 ---
 title: "St. Vincent - Daddy's Home"
-album_artist: "St. Vincent"
-album_title: "Daddy's Home"
+artist: "St. Vincent"
+album_name: "Daddy's Home"
 date: 2021-05-15
 release_id: "18670924"
 slug: "daddy-s-home-18670924"
+hideSummary: true
 cover:
     image: "daddy-s-home-18670924.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "Daddy's Home by St. Vincent"
+    caption: "Daddy's Home by St. Vincent"
+genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Blues"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [St. Vincent - Down (Official Video)](https://www.youtube.com/watch?v=VQ9iAlm-sJ8)
 - [St. Vincent - The Melting Of The Sun (Official Video)](https://www.youtube.com/watch?v=6oji2hmpzvM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [St. Vincent - Daddy's Home](https://www.discogs.com/release/18670924) |
+| Release Year   | 2021 |
+| Discogs Link   | [St. Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |
 | Label          | Loma Vista |
 | Format         | LP, Album, Ltd, Cle |
 | Catalog Number | LVR01797 |
+
+Indie Exclusive. Includes Poster  Made in the EU.
 

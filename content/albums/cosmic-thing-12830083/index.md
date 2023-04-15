@@ -1,14 +1,17 @@
 ---
 title: "The B-52's - Cosmic Thing"
-album_artist: "The B-52's"
-album_title: "Cosmic Thing"
+artist: "The B-52's"
+album_name: "Cosmic Thing"
 date: 2018-11-23
 release_id: "12830083"
 slug: "cosmic-thing-12830083"
+hideSummary: true
 cover:
     image: "cosmic-thing-12830083.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Cosmic Thing by The B-52's"
+    caption: "Cosmic Thing by The B-52's"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [The B-52's - Roam (Official Music Video)](https://www.youtube.com/watch?v=iNwC0sp-uA4)
 - [The B-52's - Channel Z (Official Music Video)](https://www.youtube.com/watch?v=pB4G9WBYMFo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The B-52's - Cosmic Thing](https://www.discogs.com/release/12830083) |
+| Release Year   | 2018 |
+| Discogs Link   | [The B-52's - Cosmic Thing](https://www.discogs.com/release/12830083-The-B-52s-Cosmic-Thing) |
 | Label          | Reprise Records |
 | Format         | LP, Album, RSD, Ltd, RE, Rai |
 | Catalog Number | RCV1 25854 |
+
+Sticker: Exclusive Rainbow Vinyl Features: "Love Shack", "Roam" & "Channel Z" Limited to 4500 copies.  Includes printed inner sleeve containing lyrics, credits, and photograph.
 

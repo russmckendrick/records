@@ -1,14 +1,17 @@
 ---
 title: "Ozzy Osbourne - Blizzard Of Ozz"
-album_artist: "Ozzy Osbourne"
-album_title: "Blizzard Of Ozz"
+artist: "Ozzy Osbourne"
+album_name: "Blizzard Of Ozz"
 date: 2021-03-27
 release_id: "18000301"
 slug: "blizzard-of-ozz-18000301"
+hideSummary: true
 cover:
     image: "blizzard-of-ozz-18000301.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Blizzard Of Ozz by Ozzy Osbourne"
+    caption: "Blizzard Of Ozz by Ozzy Osbourne"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Revelation (Mother Earth)](https://www.youtube.com/watch?v=meCb_LfzRhE)
 - [Steal Away (The Night)](https://www.youtube.com/watch?v=lBWuLyIqUGQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Ozzy Osbourne - Blizzard Of Ozz](https://www.discogs.com/release/18000301) |
+| Release Year   | 2021 |
+| Discogs Link   | [Ozzy Osbourne - Blizzard Of Ozz](https://www.discogs.com/release/18000301-Ozzy-Osbourne-Blizzard-Of-Ozz) |
 | Label          | Epic, Legacy, Jet Records |
 | Format         | LP, Album, RE, Sil |
 | Catalog Number | 19439812511 |
+
+Made in the EU.  Includes printed inner sleeve containing lyrics, publishing information, and words/music by information. 
 

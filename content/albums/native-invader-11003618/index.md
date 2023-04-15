@@ -1,14 +1,17 @@
 ---
 title: "Tori Amos - Native Invader"
-album_artist: "Tori Amos"
-album_title: "Native Invader"
+artist: "Tori Amos"
+album_name: "Native Invader"
 date: 2018-01-20
 release_id: "11003618"
 slug: "native-invader-11003618"
+hideSummary: true
 cover:
     image: "native-invader-11003618.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Native Invader by Tori Amos"
+    caption: "Native Invader by Tori Amos"
+genres: ["Rock", "Pop"]
+styles: ["Acoustic", "Alternative Rock", "Ballad"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 {{< youtube id="ub0yooZAGOA" title="Tori Amos - Reindeer King (Audio)" >}}
 - [Tori Amos - Cloud Riders (Audio)](https://www.youtube.com/watch?v=DmVvSjVFh28)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tori Amos - Native Invader](https://www.discogs.com/release/11003618) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tori Amos - Native Invader](https://www.discogs.com/release/11003618-Tori-Amos-Native-Invader) |
 | Label          | Decca, Universal Music |
 | Format         | 2xLP, Album |
 | Catalog Number | 00028948155880 |
+
+2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.  This European-made release is the sole version on vinyl, released and available in all major territories.
 

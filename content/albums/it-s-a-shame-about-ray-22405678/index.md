@@ -1,14 +1,17 @@
 ---
 title: "The Lemonheads - It's A Shame About Ray"
-album_artist: "The Lemonheads"
-album_title: "It's A Shame About Ray"
+artist: "The Lemonheads"
+album_name: "It's A Shame About Ray"
 date: 2022-04-24
 release_id: "22405678"
 slug: "it-s-a-shame-about-ray-22405678"
+hideSummary: true
 cover:
     image: "it-s-a-shame-about-ray-22405678.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "It's A Shame About Ray by The Lemonheads"
+    caption: "It's A Shame About Ray by The Lemonheads"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [The Lemonheads - Alison's Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
 - [Rockin Stroll (Remastered)](https://www.youtube.com/watch?v=jet27-LRviQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Lemonheads - It's A Shame About Ray](https://www.discogs.com/release/22405678) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Lemonheads - It's A Shame About Ray](https://www.discogs.com/release/22405678-Lemonheads-Its-A-Shame-About-Ray) |
 | Label          | Fire Records |
 | Format         | 2xLP, Album, Ltd, RE, RM, Gol |
 | Catalog Number | FIRELP624 |
+
+Limited to 1000 copies.   Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download.
 

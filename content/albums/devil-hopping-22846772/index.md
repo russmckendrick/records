@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - Devil Hopping"
-album_artist: "Inspiral Carpets"
-album_title: "Devil Hopping"
+artist: "Inspiral Carpets"
+album_name: "Devil Hopping"
 date: 2022-04-15
 release_id: "22846772"
 slug: "devil-hopping-22846772"
+hideSummary: true
 cover:
     image: "devil-hopping-22846772.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Devil Hopping by Inspiral Carpets"
+    caption: "Devil Hopping by Inspiral Carpets"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
 - [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/22846772) |
+| Release Year   | 2022 |
+| Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/22846772-Inspiral-Carpets-Devil-Hopping) |
 | Label          | Mute, BMG, Cow |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | ldung25 |
+
+Hype sticker on sleeve. Inner sleeve with lyrics.  "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."   
 

@@ -1,14 +1,17 @@
 ---
 title: "Johnny Cash - American Recordings I - VI"
-album_artist: "Johnny Cash"
-album_title: "American Recordings I - VI"
+artist: "Johnny Cash"
+album_name: "American Recordings I - VI"
 date: 2015-12-29
 release_id: "7001701"
 slug: "american-recordings-i-vi-7001701"
+hideSummary: true
 cover:
     image: "american-recordings-i-vi-7001701.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "American Recordings I - VI by Johnny Cash"
+    caption: "American Recordings I - VI by Johnny Cash"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -97,16 +100,17 @@ hideSummary: true
 83. Last Night I Had The Strangest Dream (3:14)
 84. Aloha Oe (3:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Johnny Cash - American Recordings I - VI](https://www.discogs.com/release/7001701) |
+| Release Year   | 2015 |
+| Discogs Link   | [Johnny Cash - American Recordings I - VI](https://www.discogs.com/release/7001701-Johnny-Cash-American-Recordings-I-VI) |
 | Label          | American Recordings |
 | Format         | 7xLP, 180 + Box, Comp |
 | Catalog Number | 060254721702 |
+
+7 LP Box Set Contains Audiophile 180g Vinyl Reissues Of All Six Of Cash's American Recordings Albums  Repackaging these 2014 'Back To Black' re-issues in one box set: [r=5516812] (1994) [r=5516845] (1996) [r=5516860] (2000) [r=5516887] (2002) [r=5516900] (2006) [r=5516904] (2010) The only difference: there's one coupon for mp3 downloads in the box set instead of a coupon with each separate album.
 

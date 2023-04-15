@@ -1,14 +1,17 @@
 ---
 title: "The Wedding Present - The Hit Parade"
-album_artist: "The Wedding Present"
-album_title: "The Hit Parade"
+artist: "The Wedding Present"
+album_name: "The Hit Parade"
 date: 2022-09-25
 release_id: "24616364"
 slug: "the-hit-parade-24616364"
+hideSummary: true
 cover:
     image: "the-hit-parade-24616364.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Hit Parade by The Wedding Present"
+    caption: "The Hit Parade by The Wedding Present"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -68,13 +71,16 @@ hideSummary: true
 - [The Wedding Present - Cattle and Cane](https://www.youtube.com/watch?v=AJr9GYf9FkQ)
 - [The Wedding Present - Silver Shorts (HD)](https://www.youtube.com/watch?v=xrh2iV7MISw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Wedding Present - The Hit Parade](https://www.discogs.com/release/24616364) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Wedding Present - The Hit Parade](https://www.discogs.com/release/24616364-The-Wedding-Present-The-Hit-Parade) |
 | Label          | Sony Music, RCA |
 | Format         | 2xLP, Comp, RE + 2xCD, Comp, Promo, RE + 30t |
 | Catalog Number | 19658708791 |
+
+Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions. Vinyl discs held in top opening gloss inner sleeves of thin card. CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale". Hype sticker applied to the shrink-wrap.  Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.  The two CDs have the same tracks as the Vinyl. Runouts are hand etched excepting the GZ Media data which is laser etched.
 

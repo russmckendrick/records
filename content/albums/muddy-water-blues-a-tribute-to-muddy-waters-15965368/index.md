@@ -1,14 +1,17 @@
 ---
 title: "Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters"
-album_artist: "Paul Rodgers"
-album_title: "Muddy Water Blues - A Tribute to Muddy Waters"
+artist: "Paul Rodgers"
+album_name: "Muddy Water Blues - A Tribute to Muddy Waters"
 date: 2020-09-26
 release_id: "15965368"
 slug: "muddy-water-blues-a-tribute-to-muddy-waters-15965368"
+hideSummary: true
 cover:
     image: "muddy-water-blues-a-tribute-to-muddy-waters-15965368.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Muddy Water Blues - A Tribute to Muddy Waters by Paul Rodgers"
+    caption: "Muddy Water Blues - A Tribute to Muddy Waters by Paul Rodgers"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Paul Rodgers/Gary Moore - She Moves Me (A tribute to Muddy Waters)](https://www.youtube.com/watch?v=_XfTUR_vaQ0)
 - [Paul Rodgers & Jeff Beck - I Just Want to Make Love to You](https://www.youtube.com/watch?v=yhPnsWZRF0k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters](https://www.discogs.com/release/15965368) |
+| Release Year   | 2020 |
+| Discogs Link   | [Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters](https://www.discogs.com/release/15965368-Paul-Rodgers-Muddy-Water-Blues-A-Tribute-to-Muddy-Waters) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, Ltd, Num, RE, Ora |
 | Catalog Number | MOVLP2716 |
+
+Released in a gatefold cover  [On back cover]: Originally released ℗ & © 1993 Victor Entertainment, Japan  Made in the EU  [Sticker on front]: Music On Vinyl Paul Rodgers 'Muddy Water Blues' A Tribute to Muddy Waters Limited Edition of 2000 Orange Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com   MOVLP2716  The runout strings are etched
 

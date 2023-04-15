@@ -1,14 +1,17 @@
 ---
 title: "Rush - Snakes & Arrows"
-album_artist: "Rush"
-album_title: "Snakes & Arrows"
+artist: "Rush"
+album_name: "Snakes & Arrows"
 date: 2017-02-27
 release_id: "7973425"
 slug: "snakes-arrows-7973425"
+hideSummary: true
 cover:
     image: "snakes-arrows-7973425.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Snakes & Arrows by Rush"
+    caption: "Snakes & Arrows by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Malignant Narcissism (2:17)
 13. Hold On (4:13)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Rush - Snakes & Arrows](https://www.discogs.com/release/7973425) |
+| Release Year   | 2016 |
+| Discogs Link   | [Rush - Snakes & Arrows](https://www.discogs.com/release/7973425-Rush-Snakes-Arrows) |
 | Label          | Atlantic, Anthem (5) |
 | Format         | 2xLP, Album, RE, RM, 200 |
 | Catalog Number | R1 177084 |
+
+Remastered On 200 gram Audiophile vinyl. Includes high-res 24/96khz digital download card and 2 glossy lyric sheets.
 

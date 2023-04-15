@@ -1,14 +1,17 @@
 ---
 title: "Snarky Puppy - Immigrance"
-album_artist: "Snarky Puppy"
-album_title: "Immigrance"
+artist: "Snarky Puppy"
+album_name: "Immigrance"
 date: 2020-01-25
 release_id: "13391155"
 slug: "immigrance-13391155"
+hideSummary: true
 cover:
     image: "immigrance-13391155.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Immigrance by Snarky Puppy"
+    caption: "Immigrance by Snarky Puppy"
+genres: ["Jazz"]
+styles: ["Fusion"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Are You In: Immigrance Album Review (Snarky Puppy)](https://www.youtube.com/watch?v=7j1l2DHuRtg)
 - [Snarky Puppy, LIVE FULL SET, Avondale Brewing, Birmingham, 9-21-19](https://www.youtube.com/watch?v=lTNibgY1OSY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Snarky Puppy - Immigrance](https://www.discogs.com/release/13391155) |
+| Release Year   | 2019 |
+| Discogs Link   | [Snarky Puppy - Immigrance](https://www.discogs.com/release/13391155-Snarky-Puppy-Immigrance) |
 | Label          | GroundUP Music (2) |
 | Format         | LP + LP, S/Sided, Etch + Album |
 | Catalog Number | GUM0319V |
+
+Distributed in a gatefold sleeve. Includes an mp3 download card.  Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York Additional recording by Camilo Salazar at Morley College in London, England Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York Mastered by Dave McNair in Winston-Salem, North Carolina  Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC) Track A3: © Big Boy Big Girl (ASCAP) Track B1: © Ceebull Music (SESAC) Track B3: © Mazarito Music (SESAC) Track C1: © J Stant Music (SESAC)  ℗ & © 2019 GroundUp Music LLC
 

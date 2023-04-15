@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - A New Career In A New Town [ 1977–1982 ]"
-album_artist: "David Bowie"
-album_title: "A New Career In A New Town [ 1977–1982 ]"
+artist: "David Bowie"
+album_name: "A New Career In A New Town [ 1977–1982 ]"
 date: 2017-09-29
 release_id: "10919769"
 slug: "a-new-career-in-a-new-town-19771982-10919769"
+hideSummary: true
 cover:
     image: "a-new-career-in-a-new-town-19771982-10919769.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "A New Career In A New Town [ 1977–1982 ] by David Bowie"
+    caption: "A New Career In A New Town [ 1977–1982 ] by David Bowie"
+genres: ["Rock", "Pop"]
+styles: ["Avantgarde", "Art Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -131,16 +134,17 @@ hideSummary: true
 117. Peace On Earth / Little Drummer Boy (Mono)
 118. Bertolt Brecht’s Baal
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [David Bowie - A New Career In A New Town [ 1977–1982 ]](https://www.discogs.com/release/10919769) |
+| Release Year   | 2017 |
+| Discogs Link   | [David Bowie - A New Career In A New Town [ 1977–1982 ]](https://www.discogs.com/release/10919769-David-Bowie-A-New-Career-In-A-New-Town-19771982-) |
 | Label          | Parlophone |
 | Format         | Box, Comp, Ltd + LP, Album, RE, RM + LP, Album, RE |
 | Catalog Number | DBXL 3 |
+
+Deluxe box set includes 84-page hardback book.
 

@@ -1,14 +1,17 @@
 ---
 title: "Meat Loaf - Bat Out Of Hell"
-album_artist: "Meat Loaf"
-album_title: "Bat Out Of Hell"
+artist: "Meat Loaf"
+album_name: "Bat Out Of Hell"
 date: 2017-07-05
 release_id: "9681142"
 slug: "bat-out-of-hell-9681142"
+hideSummary: true
 cover:
     image: "bat-out-of-hell-9681142.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bat Out Of Hell by Meat Loaf"
+    caption: "Bat Out Of Hell by Meat Loaf"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Great Boleros of Fire (Live Intro)](https://www.youtube.com/watch?v=6YBGsJtXtys)
 - [Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)](https://www.youtube.com/watch?v=hkgXS5sotAM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Meat Loaf - Bat Out Of Hell](https://www.discogs.com/release/9681142) |
+| Release Year   | 2017 |
+| Discogs Link   | [Meat Loaf - Bat Out Of Hell](https://www.discogs.com/release/9681142-Meat-Loaf-Bat-Out-Of-Hell) |
 | Label          | Epic, Legacy, Cleveland International Records, Sony Music |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88985375141 |
+
+Some copies have a sticker.   Dedicated to Wesley and Wilma Aday and Louis Steinman.  Edgar Winter appears courtesy of Blue Sky Records.  Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records.  Album Conceived by Jim Steinman and Meat Loaf.   Made in the EU. 
 

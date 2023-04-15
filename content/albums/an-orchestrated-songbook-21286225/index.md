@@ -1,14 +1,17 @@
 ---
 title: "Paul Weller With Jules Buckley & BBC Symphony Orchestra - An Orchestrated Songbook"
-album_artist: "Paul Weller With Jules Buckley & BBC Symphony Orchestra"
-album_title: "An Orchestrated Songbook"
+artist: "Paul Weller With Jules Buckley & BBC Symphony Orchestra"
+album_name: "An Orchestrated Songbook"
 date: 2023-02-11
 release_id: "21286225"
 slug: "an-orchestrated-songbook-21286225"
+hideSummary: true
 cover:
     image: "an-orchestrated-songbook-21286225.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "An Orchestrated Songbook by Paul Weller With Jules Buckley & BBC Symphony Orchestra"
+    caption: "An Orchestrated Songbook by Paul Weller With Jules Buckley & BBC Symphony Orchestra"
+genres: ["Rock"]
+styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Wild Wood](https://www.youtube.com/watch?v=JQHvHhZmSBE)
 - [Andromeda](https://www.youtube.com/watch?v=RgMEYMXacmc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Paul Weller With Jules Buckley & BBC Symphony Orchestra - An Orchestrated Songbook](https://www.discogs.com/release/21286225) |
+| Release Year   | 2021 |
+| Discogs Link   | [Paul Weller With Jules Buckley & BBC Symphony Orchestra - An Orchestrated Songbook](https://www.discogs.com/release/21286225-Paul-Weller-With-Jules-Buckley-The-BBC-Symphony-Orchestra-An-Orchestrated-Songbook) |
 | Label          | Polydor, Polydor, BBC Music |
 | Format         | 2xLP, Album |
 | Catalog Number | 3845942, 00602438459421 |
+
+All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021. Made in the EU 
 

@@ -1,14 +1,17 @@
 ---
 title: "Beth Orton - Central Reservation"
-album_artist: "Beth Orton"
-album_title: "Central Reservation"
+artist: "Beth Orton"
+album_name: "Central Reservation"
 date: 2022-06-18
 release_id: "23031092"
 slug: "central-reservation-23031092"
+hideSummary: true
 cover:
     image: "central-reservation-23031092.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Central Reservation by Beth Orton"
+    caption: "Central Reservation by Beth Orton"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Beth Orton - So Much More](https://www.youtube.com/watch?v=6h5OkCHsFuI)
 - [Beth Orton - Stolen Car](https://www.youtube.com/watch?v=uJ35dnfYKrQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Beth Orton - Central Reservation](https://www.discogs.com/release/23031092) |
+| Release Year   | 2022 |
+| Discogs Link   | [Beth Orton - Central Reservation](https://www.discogs.com/release/23031092-Beth-Orton-Central-Reservation) |
 | Label          | Sony Music |
 | Format         | 2xLP, Album, RSD, Ltd, RE, Red |
 | Catalog Number | 19439 95678 1  |
+
+Released for Record Store Day 2022 on Pillar Box Red Vinyl  
 

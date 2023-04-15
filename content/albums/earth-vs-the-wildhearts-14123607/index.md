@@ -1,14 +1,17 @@
 ---
 title: "The Wildhearts - Earth Vs The Wildhearts"
-album_artist: "The Wildhearts"
-album_title: "Earth Vs The Wildhearts"
+artist: "The Wildhearts"
+album_name: "Earth Vs The Wildhearts"
 date: 2019-09-13
 release_id: "14123607"
 slug: "earth-vs-the-wildhearts-14123607"
+hideSummary: true
 cover:
     image: "earth-vs-the-wildhearts-14123607.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Earth Vs The Wildhearts by The Wildhearts"
+    caption: "Earth Vs The Wildhearts by The Wildhearts"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [News of the World](https://www.youtube.com/watch?v=L191KWeauHQ)
 - [The Wildhearts - Loveshit](https://www.youtube.com/watch?v=nW_eNEuYNUI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Wildhearts - Earth Vs The Wildhearts](https://www.discogs.com/release/14123607) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Wildhearts - Earth Vs The Wildhearts](https://www.discogs.com/release/14123607-The-Wildhearts-Earth-Vs-The-Wildhearts) |
 | Label          | EastWest |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0190295451950 |
+
+Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.  Mastered at Sterling Sounds, NYC.  ℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company.
 

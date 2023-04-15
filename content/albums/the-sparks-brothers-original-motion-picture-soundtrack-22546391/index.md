@@ -1,14 +1,17 @@
 ---
 title: "Sparks - The Sparks Brothers (Original Motion Picture Soundtrack)"
-album_artist: "Sparks"
-album_title: "The Sparks Brothers (Original Motion Picture Soundtrack)"
+artist: "Sparks"
+album_name: "The Sparks Brothers (Original Motion Picture Soundtrack)"
 date: 2022-04-05
 release_id: "22546391"
 slug: "the-sparks-brothers-original-motion-picture-soundtrack-22546391"
+hideSummary: true
 cover:
     image: "the-sparks-brothers-original-motion-picture-soundtrack-22546391.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Sparks Brothers (Original Motion Picture Soundtrack) by Sparks"
+    caption: "The Sparks Brothers (Original Motion Picture Soundtrack) by Sparks"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Glam"]
 ---
 
 ## Tracklisting
@@ -55,16 +58,17 @@ hideSummary: true
 41. ‘My Way’ / When Do I Get To Sing ‘My Way’ (Live In London 2018)
 42. Amateur Hour
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Sparks - The Sparks Brothers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/22546391) |
+| Release Year   | 2022 |
+| Discogs Link   | [Sparks - The Sparks Brothers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/22546391-Sparks-The-Sparks-Brothers-Original-Motion-Picture-Soundtrack) |
 | Label          | Waxwork Records |
 | Format         | 4xLP, Album, Comp, Pin |
 | Catalog Number | WW143 |
+
+Track A2: From 'Plagiarism' Track B8: From 'Kimono My House'  8 page booklet & liner notes. 11x17 Poster  Tracks are listed sequentially on rear sleeve.
 

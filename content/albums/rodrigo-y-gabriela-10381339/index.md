@@ -1,14 +1,17 @@
 ---
 title: "Rodrigo Y Gabriela - Rodrigo Y Gabriela"
-album_artist: "Rodrigo Y Gabriela"
-album_title: "Rodrigo Y Gabriela"
+artist: "Rodrigo Y Gabriela"
+album_name: "Rodrigo Y Gabriela"
 date: 2017-06-04
 release_id: "10381339"
 slug: "rodrigo-y-gabriela-10381339"
+hideSummary: true
 cover:
     image: "rodrigo-y-gabriela-10381339.jpg"
-tags: ["Rock", "Latin"]
-hideSummary: true
+    alt: "Rodrigo Y Gabriela by Rodrigo Y Gabriela"
+    caption: "Rodrigo Y Gabriela by Rodrigo Y Gabriela"
+genres: ["Rock", "Latin"]
+styles: ["Acoustic"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Rodrigo y Gabriela - Viking Man](https://www.youtube.com/watch?v=dLESmgh-VCE)
 - [Rodrigo y Gabriela - Stairway To Heaven (Led Zeppelin coer)](https://www.youtube.com/watch?v=YRNVn_B-7OA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Rodrigo Y Gabriela - Rodrigo Y Gabriela](https://www.discogs.com/release/10381339) |
+| Release Year   | 2017 |
+| Discogs Link   | [Rodrigo Y Gabriela - Rodrigo Y Gabriela](https://www.discogs.com/release/10381339-Rodrigo-Y-Gabriela-Rodrigo-Y-Gabriela) |
 | Label          | Rubyworks |
 | Format         | 2xLP, Album, Dlx, Ltd, RM |
 | Catalog Number | RWXLP37R |
+
+The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela.   "Limited Edition Double LP - pressed on heavyweight 180g vinyl. Special Gold Foil logo cover (first pressing only)."  Limitation of this run/pressing unknown.  LP1 - Rodrigo y Gabriela (Remastered) Recorded at Riverside Studios, Bath, UK, Oct. 2005. 2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.  LP2 - Rodrigo y Gabriela Live At The Olympia Theatre Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland. 2016 Remaster by John Webber at Air Studios, London.
 

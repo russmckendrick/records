@@ -1,14 +1,17 @@
 ---
 title: "Kyuss - Blues For The Red Sun"
-album_artist: "Kyuss"
-album_title: "Blues For The Red Sun"
+artist: "Kyuss"
+album_name: "Blues For The Red Sun"
 date: 2016-09-14
 release_id: "8901170"
 slug: "blues-for-the-red-sun-8901170"
+hideSummary: true
 cover:
     image: "blues-for-the-red-sun-8901170.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Blues For The Red Sun by Kyuss"
+    caption: "Blues For The Red Sun by Kyuss"
+genres: ["Rock"]
+styles: ["Stoner Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Mondo Generator](https://www.youtube.com/watch?v=lWDJ6R1nTnI)
 - [Yeah](https://www.youtube.com/watch?v=t_lpSSTIbpM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Kyuss - Blues For The Red Sun](https://www.discogs.com/release/8901170) |
+| Release Year   | 2016 |
+| Discogs Link   | [Kyuss - Blues For The Red Sun](https://www.discogs.com/release/8901170-Kyuss-Blues-For-The-Red-Sun) |
 | Label          | Dali Records, Chameleon Records (2) |
 | Format         | LP, Album, RP, Dar |
 | Catalog Number | 3705-61340-1 |
+
+Repress on dark red marbled vinyl.  ℗&©1992 Dali Records. Exclusively distributed by Elektra Entertainment, a division of Warner Communications, INC. in the United States and WEA International for the world excluding the United States, Australia and New Zealand. All rights reserved. Dali Records, 1740 Broadway, New York, Ny 10019
 

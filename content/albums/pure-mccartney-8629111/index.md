@@ -1,14 +1,17 @@
 ---
 title: "Paul McCartney - Pure McCartney"
-album_artist: "Paul McCartney"
-album_title: "Pure McCartney"
+artist: "Paul McCartney"
+album_name: "Pure McCartney"
 date: 2017-01-19
 release_id: "8629111"
 slug: "pure-mccartney-8629111"
+hideSummary: true
 cover:
     image: "pure-mccartney-8629111.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pure McCartney by Paul McCartney"
+    caption: "Pure McCartney by Paul McCartney"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -66,13 +69,16 @@ hideSummary: true
 - [Big Barn Bed](https://www.youtube.com/watch?v=HGU6MnvksuA)
 - [Little Willow (Remastered 2016)](https://www.youtube.com/watch?v=wJPdriOIlWs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Paul McCartney - Pure McCartney](https://www.discogs.com/release/8629111) |
+| Release Year   | 2016 |
+| Discogs Link   | [Paul McCartney - Pure McCartney](https://www.discogs.com/release/8629111-Paul-McCartney-Pure-McCartney) |
 | Label          | Concord Music Group, MPL (2), MPL (2), Concord Music Group |
 | Format         | 4xLP + Box, Comp, RM, 180 |
 | Catalog Number | HRM-38698-01, 88072386983 |
+
+Manufactured in Germany. HRM-38698-01. 88072386983. www.puremccartney.com Booklet 20 pages & download voucher Pressed on 180g vinyl.  A1 Recorded and mixed at EMI Studios, Abbey Road, London A2 Recorded at CBS Studios, New York. Mixed at Sound Recorders, Los Angeles A3 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London A4 Recorded and mixed at Abbey Road Studios, London A5 Recorded at Sea-Saint Recording Studio, New Orleans; Wally Heider Studios, Los Angeles; Sunset Sound Studios, Los Angeles. Mixed at Wally Heider Studios, Los Angeles A6 Recorded and mixed at Sound Recorders Studio, Los Angeles B1 Recorded and mixed at Abbey Road Studios, London B2 Recorded and mixed at Hog Hill Mill, East Sussex B3 Recorded at CBS Studios, New York. Orchestra recorded at A&R Studios, New York. Mixed at Sound Recorders Studio, Los Angeles B4 Recorded at CBS Studios, New York. Mixed at A&R Studios, New York B5 Recorded at Avatar Studios, New York. Additional recordings at Henson Recording Studios, Los Angeles and at Hog Hill Mill, East Sussex. Mixed at The Mixsuite, UK; Henson Recording Studios, Los Angeles; Hog Hill Mill, East Sussex C1 Recorded at Spirit of Ranachan Studio, Scotland. Mixed at Abbey Road Studios, London C2 Recorded and mixed at Hog Hill Mill C3 Recorded at Ocean Way Recording, Los Angeles. Mixed at AIR Studios, London C4 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London C5 Recorded at Wolf tone Studios, London; AIR Studios, London and Hog Hill Mill, East Sussex. Addtional recording at Henson Recording Studios, Los Angeles. Mixed at The Mixsuite, UK; Henson Recording Studios, Los Angeles; Hog Hill Mill, East Sussex D1 Recorded and mixed at Abbey Road Studios, London D2 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London D3 Recorded at AIR Studios, Montserrat. Remixed at Hog Hill Mill, East Sussex D4 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London E1 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London E2 Recorded and mixed at Abbey Road Studios, London E3 Recorded and mixed at Abbey Road Studios, London E4 Recorded and mixed at AIR Studios, London E5 Recorded at AIR Studios, London. Mixed at Ocean Way Recording, Los Angeles F1 Recorded at AIR Studios, London and Odysssey Studios, London. Additional recording at Cherokee Studios, Los Angeles and Sigma Sound Studios, New York. Mixed at The Mixsuite, UK F2 Recorded at Avatar Studios, New York. London Symphony Orchestra recorded at Abbey Road Studios F3 Recorded at Abbey Road Studios, London. Mixed at Replica Studios, London F4 Recorded and mixed at Hog Hill Mill, East Sussex F5 Recorded and mixed at AIR Studios, London G1 Recorded at RAK Studios, London. Mixed at See Squared Studios, New York G2 Recorded at AIR Studios, London. Remixed at Hog Hill Mill, East Sussex G3 Recorded at Park Gate Studios, East Sussex. Additional recording at AIR Studios, London. remixed at Hog Hill Mill, East Sussex G4 Recorded and mixed at Hog Hill Mill, East Sussex G5 Recorded at Lower Gate Farm, Sussex. Mixed at Abbey Road Studios, London G6 Recorded and mixed at AIR Studios, London H1 Recorded at CBS Studios, New York. Mixed at Sound Recorder Studio, Los Angeles H2 Recorded at AIR Studios, London and Hog Hill Mill, East Sussex. Orchestra recorded at Abbey Road Studios, London. Mixed at Hog Hill Mill, East Sussex H3 Recorded at Fair Carol, Virgin Islands. Mixed at Abbey Road Studios, London H4 Recorded at Abbey Road Studios, London and AIR Studios, London; Avatar Studios, New York; Hog Hill Mill, East Sussex. Orchestra recorded at Abbey Road Studios, London. Mixed at Henson Recording Studios, Los Angeles H5 Recorded at Paul's home and at Morgan Studios, London. Mixed at EMI Studios, Abbey Road, London  All tracks published by MPL Communications Inc except A1, H1, H5 published by Sony/ATV Tunes LLC (ASCAP), C5, E4 published by MPL Communications INC/SONY/ATV Tunes LLC (ASCAP), F1 MPL Communications Inc (ASCAP)/Mijac Music (BMI)  A1 to A6 & B1 to B4, C1, C4, D1, D2, D4, E1 to E4, F3 to F5, G4 to G6, H1, H3, H5 remastered at Abbey Road Studios, London A5, C5, H4 mastered at Sterling Sound, New York C2, D3, F1, G2, G3 mastered at Abbey Road Studios, London C3, E5 mastered at Ocean Way Mastering, Los Angeles F2 mastered at The Mastering Lab, Ojai G1, H2 mastered at Gateway Mastering, Portland ℗ and © 2016. Copyright owned by MPL Communications Inc/Ltd under exclusive license to Concord Music Group, Inc. 
 

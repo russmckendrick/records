@@ -1,14 +1,17 @@
 ---
 title: "The Stone Roses - The Very Best Of The Stone Roses"
-album_artist: "The Stone Roses"
-album_title: "The Very Best Of The Stone Roses"
+artist: "The Stone Roses"
+album_name: "The Very Best Of The Stone Roses"
 date: 2020-07-15
 release_id: "8632444"
 slug: "the-very-best-of-the-stone-roses-8632444"
+hideSummary: true
 cover:
     image: "the-very-best-of-the-stone-roses-8632444.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Very Best Of The Stone Roses by The Stone Roses"
+    caption: "The Very Best Of The Stone Roses by The Stone Roses"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [The Stone Roses - Complete C Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
 - [The Stone Roses - Complete D Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=KmY_D5ixBIg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Stone Roses - The Very Best Of The Stone Roses](https://www.discogs.com/release/8632444) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Stone Roses - The Very Best Of The Stone Roses](https://www.discogs.com/release/8632444-The-Stone-Roses-The-Very-Best-Of-The-Stone-Roses) |
 | Label          | Silvertone Records, Sony Music |
 | Format         | 2xLP, Comp, RE, RM, Gat |
 | Catalog Number | 88725406221 |
+
+Remastered from the original master tapes by John Davis @ Metropolis Studios. Remastering was overseen by John Leckie. Both vinyl housed in picture sleeves. A 12x12" insert with liner notes, lyrics and credits is also included.  2012 is stated beside ℗&© on side two and side four labels respectively. 2016 is stated on insert.
 

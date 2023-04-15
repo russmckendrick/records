@@ -1,14 +1,17 @@
 ---
 title: "Beth Orton - Trailer Park"
-album_artist: "Beth Orton"
-album_title: "Trailer Park"
+artist: "Beth Orton"
+album_name: "Trailer Park"
 date: 2022-06-18
 release_id: "23590796"
 slug: "trailer-park-23590796"
+hideSummary: true
 cover:
     image: "trailer-park-23590796.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Trailer Park by Beth Orton"
+    caption: "Trailer Park by Beth Orton"
+genres: ["Electronic", "Rock"]
+styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796) |
+| Release Year   | 2022 |
+| Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796-Beth-Orton-Trailer-Park) |
 | Label          | Sony Music |
 | Format         | 2xLP, Album, RSD, Ltd, RE, RM, Blu |
 | Catalog Number | 19439956801 |
+
+On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ######
 

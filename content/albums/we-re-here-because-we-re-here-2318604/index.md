@@ -1,14 +1,17 @@
 ---
 title: "Anathema - We're Here Because We're Here"
-album_artist: "Anathema"
-album_title: "We're Here Because We're Here"
+artist: "Anathema"
+album_name: "We're Here Because We're Here"
 date: 2016-01-25
 release_id: "2318604"
 slug: "we-re-here-because-we-re-here-2318604"
+hideSummary: true
 cover:
     image: "we-re-here-because-we-re-here-2318604.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "We're Here Because We're Here by Anathema"
+    caption: "We're Here Because We're Here by Anathema"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Anathema - Angels Walk Among Us (Lyrics)](https://www.youtube.com/watch?v=BRMNJNzscwQ)
 - [Anathema - Presence](https://www.youtube.com/watch?v=T8fWHvP8oqg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Anathema - We're Here Because We're Here](https://www.discogs.com/release/2318604) |
+| Release Year   | 2010 |
+| Discogs Link   | [Anathema - We're Here Because We're Here](https://www.discogs.com/release/2318604-Anathema-Were-Here-Because-Were-Here) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd, Num |
 | Catalog Number | kscope812 |
+
+Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall. String arrangements recorded at Angel Studios, London. All photographs taken at significant locations in Liverpool.  Limited edition of 2.000 numbered copies on 180g black vinyl. Made in Germany Gatefold sleeve Two printed inner sleeves 
 

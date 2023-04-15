@@ -1,14 +1,17 @@
 ---
 title: "Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
-album_artist: "Elvis Presley"
-album_title: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
+artist: "Elvis Presley"
+album_name: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
 date: 2021-06-07
 release_id: "9640707"
 slug: "50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707"
+hideSummary: true
 cover:
     image: "50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2) by Elvis Presley"
+    caption: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2) by Elvis Presley"
+genres: ["Rock", "Pop"]
+styles: ["Rock & Roll", "Vocal", "Ballad"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Stuck On You *
 14. It's Now Or Never *
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)](https://www.discogs.com/release/9640707) |
+| Release Year   | 2016 |
+| Discogs Link   | [Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)](https://www.discogs.com/release/9640707-Elvis-Presley-50000000-Elvis-Fans-Cant-Be-Wrong-Elvis-Gold-Records-Vol-2) |
 | Label          | Vinyl Lovers (3) |
 | Format         | LP, Comp, Ltd, RE, 180 |
 | Catalog Number | 6785426 |
+
+* BONUS TRACKS
 

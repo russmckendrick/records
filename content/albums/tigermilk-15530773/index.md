@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - Tigermilk"
-album_artist: "Belle & Sebastian"
-album_title: "Tigermilk"
+artist: "Belle & Sebastian"
+album_name: "Tigermilk"
 date: 2020-07-03
 release_id: "15530773"
 slug: "tigermilk-15530773"
+hideSummary: true
 cover:
     image: "tigermilk-15530773.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Tigermilk by Belle & Sebastian"
+    caption: "Tigermilk by Belle & Sebastian"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Belle & Sebastian :: Electronic Renaissance](https://www.youtube.com/watch?v=GKTDiWslOPo)
 - [Belle and Sebastian - I Don't Love Anyone](https://www.youtube.com/watch?v=yYw3AoLG3Fo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Belle & Sebastian - Tigermilk](https://www.discogs.com/release/15530773) |
+| Release Year   | 2020 |
+| Discogs Link   | [Belle & Sebastian - Tigermilk](https://www.discogs.com/release/15530773-Belle-And-Sebastian-Tigermilk) |
 | Label          | Jeepster Recordings, Jeepster Recordings |
 | Format         | LP, Album, Ltd, RE, Bab |
 | Catalog Number | JPRLP007CLR, JPRLP007 |
+
+Limited reissue (700 copies) on “baby blue” vinyl, for Love Record Stores. Appears to be subtly marbled when held up to the light. Release date was supposed to 20th June but was delayed to the 26th June.  For Lawerence Bradby Made by Electric Honey Records (P) 1996 Jeepster Recordings Ltd. (C) 1999 Jeepster Recordings Ltd. Distributed by Universal Music Operations Ltd. Made in the EU.
 

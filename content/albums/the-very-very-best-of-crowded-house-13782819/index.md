@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - The Very Very Best Of Crowded House"
-album_artist: "Crowded House"
-album_title: "The Very Very Best Of Crowded House"
+artist: "Crowded House"
+album_name: "The Very Very Best Of Crowded House"
 date: 2019-08-25
 release_id: "13782819"
 slug: "the-very-very-best-of-crowded-house-13782819"
+hideSummary: true
 cover:
     image: "the-very-very-best-of-crowded-house-13782819.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Very Very Best Of Crowded House by Crowded House"
+    caption: "The Very Very Best Of Crowded House by Crowded House"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13782819) |
+| Release Year   | 2019 |
+| Discogs Link   | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13782819-Crowded-House-The-Very-Very-Best-Of-Crowded-House) |
 | Label          | Universal Music |
 | Format         | 2xLP, Comp, Ltd, RE, Ora |
 | Catalog Number | 5784759 |
+
+[Sticker on front cover]: "Limited Edition Orange Vinyl" 180 gram vinyl
 

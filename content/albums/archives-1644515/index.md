@@ -1,14 +1,17 @@
 ---
 title: "Rush - Archives"
-album_artist: "Rush"
-album_title: "Archives"
+artist: "Rush"
+album_name: "Archives"
 date: 2016-03-09
 release_id: "1644515"
 slug: "archives-1644515"
+hideSummary: true
 cover:
     image: "archives-1644515.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Archives by Rush"
+    caption: "Archives by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -37,16 +40,17 @@ hideSummary: true
 23. The Necromancer
 24. The Fountain Of Lamneth
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Rush - Archives](https://www.discogs.com/release/1644515) |
+| Release Year   | 1978 |
+| Discogs Link   | [Rush - Archives](https://www.discogs.com/release/1644515-Rush-Archives) |
 | Label          | Mercury |
 | Format         | 3xLP, Comp |
 | Catalog Number | 6641 799 |
+
+Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve. 
 

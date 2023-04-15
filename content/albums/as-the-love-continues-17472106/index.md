@@ -1,14 +1,17 @@
 ---
 title: "Mogwai - As The Love Continues"
-album_artist: "Mogwai"
-album_title: "As The Love Continues"
+artist: "Mogwai"
+album_name: "As The Love Continues"
 date: 2021-02-19
 release_id: "17472106"
 slug: "as-the-love-continues-17472106"
+hideSummary: true
 cover:
     image: "as-the-love-continues-17472106.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "As The Love Continues by Mogwai"
+    caption: "As The Love Continues by Mogwai"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Mogwai - Ritchie Sacramento (Official Video)](https://www.youtube.com/watch?v=VWjzlJEmmxM)
 - [Mogwai - Pat Stains (Official Audio)](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Mogwai - As The Love Continues](https://www.discogs.com/release/17472106) |
+| Release Year   | 2021 |
+| Discogs Link   | [Mogwai - As The Love Continues](https://www.discogs.com/release/17472106-Mogwai-As-The-Love-Continues) |
 | Label          | Rock Action Records, Rock Action Records, Rock Action Records |
 | Format         | Box + 2xLP, Album, Red + 12\", Dem + CD |
 | Catalog Number | ROCKACT140, ROCKACT140LP, ROCKACT140CD |
+
+This Deluxe Vinyl Boxset includes:  2 x Transparent Red Vinyl | Gatefold Cover  1 x Black Vinyl Demos EP 12 page photograph book CD version of album Album digital download code  Limited to 1000 copies 
 

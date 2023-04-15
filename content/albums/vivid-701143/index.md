@@ -1,14 +1,17 @@
 ---
 title: "Living Colour - Vivid"
-album_artist: "Living Colour"
-album_title: "Vivid"
+artist: "Living Colour"
+album_name: "Vivid"
 date: 2019-01-05
 release_id: "701143"
 slug: "vivid-701143"
+hideSummary: true
 cover:
     image: "vivid-701143.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vivid by Living Colour"
+    caption: "Vivid by Living Colour"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Funk Metal"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
 - [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/701143) |
+| Release Year   | 1988 |
+| Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/701143-Living-Colour-Vivid) |
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | 460758 1 |
+
+Including an insert with lyrics and credits.  Recorded at Skyline, Sound On Sound and Right Track Studios. Mixed at Right Track. Mastered at Sterling Sound, New York.  ℗ 1988 CBS Records Inc. © 1988 CBS Records Inc. Shorepak™ by Shorewood Packaging Co. Ltd. England.  Made in England.  On the insert: "In Memory of: Marc DeShong, Stephen Crichlow, James Baldwin, Alphonia Tims, Mary Multrie, Mrs. Kippins "Go on Virginia, play it loud. Your neighbors will love it."  Runouts are etched except for 'Λ' and the stamper numbers which are stamped.
 

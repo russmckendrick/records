@@ -1,14 +1,17 @@
 ---
 title: "Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
-album_artist: "Nick Cave & The Bad Seeds"
-album_title: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
+artist: "Nick Cave & The Bad Seeds"
+album_name: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
 date: 2017-05-05
 release_id: "10242191"
 slug: "lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191"
+hideSummary: true
 cover:
     image: "lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds"
+    caption: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Lovely Creatures: The Best of Nick Cave & The Bad Seeds 1984-2014](https://www.youtube.com/watch?v=wtaEKCOdvus)
 - [Nick Cave & The Bad Seeds - Loverman](https://www.youtube.com/watch?v=P51IVqf28Hs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)](https://www.discogs.com/release/10242191) |
+| Release Year   | 2017 |
+| Discogs Link   | [Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)](https://www.discogs.com/release/10242191-Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014) |
 | Label          | Mute, BMG |
 | Format         | 3xLP, Comp, RM, 180 |
 | Catalog Number | LPSEEDS15 |
+
+Released in a tri-fold sleeve.  Hype sticker on shrink:  3 LP Set  180g  Heavyweight Vinyl  [Another version](https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250) of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve. 
 

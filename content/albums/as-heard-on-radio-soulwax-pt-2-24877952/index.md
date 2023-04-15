@@ -1,14 +1,17 @@
 ---
 title: "2 Many DJ's - As Heard On Radio Soulwax Pt.2"
-album_artist: "2 Many DJ's"
-album_title: "As Heard On Radio Soulwax Pt.2"
+artist: "2 Many DJ's"
+album_name: "As Heard On Radio Soulwax Pt.2"
 date: 2022-12-05
 release_id: "24877952"
 slug: "as-heard-on-radio-soulwax-pt-2-24877952"
+hideSummary: true
 cover:
     image: "as-heard-on-radio-soulwax-pt-2-24877952.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "As Heard On Radio Soulwax Pt.2 by 2 Many DJ's"
+    caption: "As Heard On Radio Soulwax Pt.2 by 2 Many DJ's"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["House", "Electro"]
 ---
 
 ## Tracklisting
@@ -62,13 +65,16 @@ hideSummary: true
 {{< youtube id="4Xe23QBP1bE" title="2 Many DJ's: As Heard On Radio Soulwax (Part 2)" >}}
 - [As Heard on Radio Soulwax Pt. 2](https://www.youtube.com/watch?v=5QRaerLc0BM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [2 Many DJ's - As Heard On Radio Soulwax Pt.2](https://www.discogs.com/release/24877952) |
+| Release Year   | 2022 |
+| Discogs Link   | [2 Many DJ's - As Heard On Radio Soulwax Pt.2](https://www.discogs.com/release/24877952-2manydjs-As-Heard-On-Radio-Soulwax-Pt2) |
 | Label          | Play It Again Sam |
 | Format         | 2xLP, Mixed, RE, RP, Gat |
 | Catalog Number | PIASR565DLPR |
+
+­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam. Made in the EU.  Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"  First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition. 
 

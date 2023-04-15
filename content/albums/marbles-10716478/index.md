@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Marbles"
-album_artist: "Marillion"
-album_title: "Marbles"
+artist: "Marillion"
+album_name: "Marbles"
 date: 2017-09-15
 release_id: "10716478"
 slug: "marbles-10716478"
+hideSummary: true
 cover:
     image: "marbles-10716478.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Marbles by Marillion"
+    caption: "Marbles by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [The Only Unforgiveable Thing](https://www.youtube.com/watch?v=K8HbkspNobo)
 - [Marillion : Don't Hurt Yourself (Promo Video)](https://www.youtube.com/watch?v=zXugzawSvvg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Marillion - Marbles](https://www.discogs.com/release/10716478) |
+| Release Year   | 2017 |
+| Discogs Link   | [Marillion - Marbles](https://www.discogs.com/release/10716478-Marillion-Marbles) |
 | Label          | Madfish, Madfish |
 | Format         | 3xLP, RE + Box, Album |
 | Catalog Number | SMALP1086, smalp1086 |
+
+3 LP box set with book. It includes the tracks 'Genie', 'The Only Unforgivable Thing', 'Ocean Cloud' and 'The Damage' which have not previously been available on vinyl.  Mastered at Super Audio Mastering. Written, recorded and mixed at The Racket Club, Buckinghamshire, for the whole of 2002, 2003 and the beginning of 2004 Phew... Take the rest of the day off, Dave...  The copyright in this sound recording is owned by Intact Recordings.under exclusive license to Snapper Music Plc.  ℗ 2004 Intact Recordings under exclusive license to Snapper Music Plc.  © 2004 Intact Recordings under exclusive license to Snapper Music Plc.   Made in EU. www.marillion.com
 

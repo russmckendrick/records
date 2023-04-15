@@ -1,14 +1,17 @@
 ---
 title: "Riverside - Wasteland"
-album_artist: "Riverside"
-album_title: "Wasteland"
+artist: "Riverside"
+album_name: "Wasteland"
 date: 2018-09-30
 release_id: "12587923"
 slug: "wasteland-12587923"
+hideSummary: true
 cover:
     image: "wasteland-12587923.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wasteland by Riverside"
+    caption: "Wasteland by Riverside"
+genres: ["Rock"]
+styles: ["Prog Rock", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
 - [RIVERSIDE - Vale Of Tears (Album Track)](https://www.youtube.com/watch?v=001IMO53JwY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Riverside - Wasteland](https://www.discogs.com/release/12587923) |
+| Release Year   | 2018 |
+| Discogs Link   | [Riverside - Wasteland](https://www.discogs.com/release/12587923-Riverside-Wasteland) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Sil + LP, S/Sided, Etch, Sil + Album + CD, Alb |
 | Catalog Number | IOMLP 514, 19075871861 |
+
+Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap.  180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive.  IOMLP 514 on back, 19075871861 on back and lateral side.  
 

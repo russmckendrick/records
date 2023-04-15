@@ -1,14 +1,17 @@
 ---
 title: "Anathema - Internal Landscapes 2008-2018 (The Best Of)"
-album_artist: "Anathema"
-album_title: "Internal Landscapes 2008-2018 (The Best Of)"
+artist: "Anathema"
+album_name: "Internal Landscapes 2008-2018 (The Best Of)"
 date: 2018-10-27
 release_id: "12717350"
 slug: "internal-landscapes-2008-2018-the-best-of-12717350"
+hideSummary: true
 cover:
     image: "internal-landscapes-2008-2018-the-best-of-12717350.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Internal Landscapes 2008-2018 (The Best Of) by Anathema"
+    caption: "Internal Landscapes 2008-2018 (The Best Of) by Anathema"
+genres: ["Rock"]
+styles: ["Prog Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Anathema - Thin Air (from the Universal concert film)](https://www.youtube.com/watch?v=fjOis-QWPdI)
 - [Anathema - Anathema (lyric video) (from Distant Satellites)](https://www.youtube.com/watch?v=a-80LdBCDXc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Anathema - Internal Landscapes 2008-2018 (The Best Of)](https://www.discogs.com/release/12717350) |
+| Release Year   | 2018 |
+| Discogs Link   | [Anathema - Internal Landscapes 2008-2018 (The Best Of)](https://www.discogs.com/release/12717350-Anathema-Internal-Landscapes-2008-2018-The-Best-Of) |
 | Label          | Kscope |
 | Format         | 2xLP, Comp, Ltd, Red |
 | Catalog Number | KSCOPE1009 |
+
+The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping. 2LP gatefold 180 gram heavyweight red vinyl.
 

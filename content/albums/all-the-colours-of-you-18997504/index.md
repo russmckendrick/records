@@ -1,14 +1,17 @@
 ---
 title: "James - All The Colours Of You"
-album_artist: "James"
-album_title: "All The Colours Of You"
+artist: "James"
+album_name: "All The Colours Of You"
 date: 2021-06-04
 release_id: "18997504"
 slug: "all-the-colours-of-you-18997504"
+hideSummary: true
 cover:
     image: "all-the-colours-of-you-18997504.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "All The Colours Of You by James"
+    caption: "All The Colours Of You by James"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="-fQk-hEMYMc" title="James - All The Colours Of You (Official Lyric Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [James - All The Colours Of You](https://www.discogs.com/release/18997504) |
+| Release Year   | 2021 |
+| Discogs Link   | [James - All The Colours Of You](https://www.discogs.com/release/18997504-James-All-The-Colours-Of-You) |
 | Label          | Virgin Music Label & Artist Services |
 | Format         | 2xLP, Album, Ltd, Red |
 | Catalog Number | NBLM001LPX |
+
+Deluxe Split Colour Double Vinyl
 

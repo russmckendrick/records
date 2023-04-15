@@ -1,14 +1,17 @@
 ---
 title: "The Bluetones - Expecting To Fly"
-album_artist: "The Bluetones"
-album_title: "Expecting To Fly"
+artist: "The Bluetones"
+album_name: "Expecting To Fly"
 date: 2016-10-04
 release_id: "8548682"
 slug: "expecting-to-fly-8548682"
+hideSummary: true
 cover:
     image: "expecting-to-fly-8548682.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Expecting To Fly by The Bluetones"
+    caption: "Expecting To Fly by The Bluetones"
+genres: ["Rock", "Pop"]
+styles: ["Britpop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Bluetones - Cut Some Rug - Full Video Song](https://www.youtube.com/watch?v=i80ClZCwVcg)
 - [Cut Some Rug - The Bluetones](https://www.youtube.com/watch?v=Cv3be8ScIdQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Bluetones - Expecting To Fly](https://www.discogs.com/release/8548682) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Bluetones - Expecting To Fly](https://www.discogs.com/release/8548682-The-Bluetones-Expecting-To-Fly) |
 | Label          | 3 Loop Music, Superior Quality Recordings |
 | Format         | LP, Album, RE |
 | Catalog Number | 3RANGE-51LP, none |
+
+Includes download card
 

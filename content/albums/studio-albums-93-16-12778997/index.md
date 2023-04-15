@@ -1,14 +1,17 @@
 ---
 title: "Suede - Studio Albums 93 - 16"
-album_artist: "Suede"
-album_title: "Studio Albums 93 - 16"
+artist: "Suede"
+album_name: "Studio Albums 93 - 16"
 date: 2019-12-14
 release_id: "12778997"
 slug: "studio-albums-93-16-12778997"
+hideSummary: true
 cover:
     image: "studio-albums-93-16-12778997.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Studio Albums 93 - 16 by Suede"
+    caption: "Studio Albums 93 - 16 by Suede"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -100,16 +103,17 @@ hideSummary: true
 86. When You Were Young (2:19)
 87. The Fur And The Feathers (4:40)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Suede - Studio Albums 93 - 16](https://www.discogs.com/release/12778997) |
+| Release Year   | 2018 |
+| Discogs Link   | [Suede - Studio Albums 93 - 16](https://www.discogs.com/release/12778997-Suede-Studio-Albums-93-16) |
 | Label          | Demon Records |
 | Format         | Box, Comp, Ltd, Num + LP, Album, RE, Bro + 2xLP, A |
 | Catalog Number | SUEDEBOX009X |
+
+Numbered and Limited (1000 copies) LP boxset including the 7 studio albums, on heavyweight coloured vinyl exclusive to Amazon.  There was an error made with the use of the incorrect masters for Night Thoughts within the box set and replacement discs using the correct mastering were issued by Demon. Replacement issue for blue vinyl edition listed here: [r13083066] 
 

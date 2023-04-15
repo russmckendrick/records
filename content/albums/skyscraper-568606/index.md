@@ -1,14 +1,17 @@
 ---
 title: "David Lee Roth - Skyscraper"
-album_artist: "David Lee Roth"
-album_title: "Skyscraper"
+artist: "David Lee Roth"
+album_name: "Skyscraper"
 date: 2016-02-29
 release_id: "568606"
 slug: "skyscraper-568606"
+hideSummary: true
 cover:
     image: "skyscraper-568606.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Skyscraper by David Lee Roth"
+    caption: "Skyscraper by David Lee Roth"
+genres: ["Rock"]
+styles: ["Hard Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [David Lee Roth – Two Fools A Minute](https://www.youtube.com/watch?v=CUHtAqD4UVQ)
 - [David Lee Roth - Skyscraper [Full Album] (Remastered)](https://www.youtube.com/watch?v=OSOPWQp25mI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [David Lee Roth - Skyscraper](https://www.discogs.com/release/568606) |
+| Release Year   | 1988 |
+| Discogs Link   | [David Lee Roth - Skyscraper](https://www.discogs.com/release/568606-David-Lee-Roth-Skyscraper) |
 | Label          | Warner Bros. Records, Warner Bros. Records |
 | Format         | LP, Album |
 | Catalog Number | 925 671-1, WX 140 |
+
+Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound. Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle. Manufactured in Germany. Record Service GmbH, Alsdorf.  (C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S. 
 

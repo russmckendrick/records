@@ -1,14 +1,17 @@
 ---
 title: "Beach House - Devotion"
-album_artist: "Beach House"
-album_title: "Devotion"
+artist: "Beach House"
+album_name: "Devotion"
 date: 2018-03-14
 release_id: "11684922"
 slug: "devotion-11684922"
+hideSummary: true
 cover:
     image: "devotion-11684922.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Devotion by Beach House"
+    caption: "Devotion by Beach House"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock", "Dream Pop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Beach House - You Came To Me](https://www.youtube.com/watch?v=8UqwNLdb45k)
 - [Beach House Gila](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Beach House - Devotion](https://www.discogs.com/release/11684922) |
+| Release Year   | 2018 |
+| Discogs Link   | [Beach House - Devotion](https://www.discogs.com/release/11684922-Beach-House-Devotion) |
 | Label          | Vinyl Me, Please, Carpark Records |
 | Format         | 2xLP, Album, Club, Dlx, RE, RM, Cle |
 | Catalog Number | VMP-027 |
+
+10th anniversary reissue.  Lyric poster is hand-written by Victoria Legrand.  Runouts: Etched. Characters after [Side letter]-1 are stamped For example - Side B - etched, 'VMP027-B1' stamped, '168079M2/A'
 

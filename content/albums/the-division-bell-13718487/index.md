@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Division Bell"
-album_artist: "Pink Floyd"
-album_title: "The Division Bell"
+artist: "Pink Floyd"
+album_name: "The Division Bell"
 date: 2019-06-07
 release_id: "13718487"
 slug: "the-division-bell-13718487"
+hideSummary: true
 cover:
     image: "the-division-bell-13718487.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Division Bell by Pink Floyd"
+    caption: "The Division Bell by Pink Floyd"
+genres: ["Rock"]
+styles: ["Arena Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Lost For Words (5:14)
 11. High Hopes (8:31)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Pink Floyd - The Division Bell](https://www.discogs.com/release/13718487) |
+| Release Year   | 2019 |
+| Discogs Link   | [Pink Floyd - The Division Bell](https://www.discogs.com/release/13718487-Pink-Floyd-The-Division-Bell) |
 | Label          | Parlophone, Pink Floyd Records |
 | Format         | 2xLP, Album, Ltd, RE, RM, RP, Blu |
 | Catalog Number | 0190295477394, PFRLP31 |
+
+25th Anniversary Blue Heavyweight Vinyl  Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes With a Special Appearance by Stephen Hawking in "Keep Talkin"   Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection. All rights reserved. Made in the E.U.  [Runouts] All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped 
 

@@ -1,14 +1,17 @@
 ---
 title: "Mr. Mister - Welcome To The Real World"
-album_artist: "Mr. Mister"
-album_title: "Welcome To The Real World"
+artist: "Mr. Mister"
+album_name: "Welcome To The Real World"
 date: 2018-09-07
 release_id: "945673"
 slug: "welcome-to-the-real-world-945673"
+hideSummary: true
 cover:
     image: "welcome-to-the-real-world-945673.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Welcome To The Real World by Mr. Mister"
+    caption: "Welcome To The Real World by Mr. Mister"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Mr. Mister - Broken Wings (Official Video)](https://www.youtube.com/watch?v=nKhN1t_7PEY)
 - [Mr. Mister - Is It Love](https://www.youtube.com/watch?v=nWxxRlVNM30)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Mr. Mister - Welcome To The Real World](https://www.discogs.com/release/945673) |
+| Release Year   | 1985 |
+| Discogs Link   | [Mr. Mister - Welcome To The Real World](https://www.discogs.com/release/945673-Mr-Mister-Welcome-To-The-Real-World) |
 | Label          | RCA |
 | Format         | LP, Album |
 | Catalog Number | PL89647 |
+
+Tracklisting as on center labels, different as printed on the backside of the sleeve. Includes a printed inner sleeve containing lyrics  [Inner sleeve] Recorded October 1984 thru April 1985  Songs © 1985 Warner-Tamerlane Publishing Corp./Entente Music (BMI); all rights administered by Warner-Tamerlane Publishing Corp. Stemwa Famo Music (BMI)  © 1985, RCA Records. Printed in W. Germany. Imprimé en Allemagne.  [Label side A] 1. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Label side B] 1: Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Labels] Recorded: Calif. All timings are approximate  Marketed By RCA Records From Master Recordings Of RCA Records Made in Germany. Fabriqué en Allemagne  [Sleeve] Belgique/Belgie: Distributed by RCA S.A. Deutschland: Vertrieb durch RCA Schallplatten GmbH France: Distribué par RCA S.A. · Italia: Distributed by RCA S.p.A. Nederland: Distributed by RCA B.V. · U.K.: Distributed by RCA Ltd.  © 1985 RCA Records. Printed in W. Germany. Imprimé en Allemagne. 5/85/S
 

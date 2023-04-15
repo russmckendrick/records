@@ -1,14 +1,17 @@
 ---
 title: "O.R.k. - Ramagehead"
-album_artist: "O.R.k."
-album_title: "Ramagehead"
+artist: "O.R.k."
+album_name: "Ramagehead"
 date: 2019-02-25
 release_id: "13258018"
 slug: "ramagehead-13258018"
+hideSummary: true
 cover:
     image: "ramagehead-13258018.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ramagehead by O.R.k."
+    caption: "Ramagehead by O.R.k."
+genres: ["Rock"]
+styles: ["Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Some Other Rainbow (Pt. One)](https://www.youtube.com/watch?v=hNfrQUazSCE)
 - [Some Other Rainbow (Pt. Two)](https://www.youtube.com/watch?v=H47wv7OF0Qw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [O.R.k. - Ramagehead](https://www.discogs.com/release/13258018) |
+| Release Year   | 2019 |
+| Discogs Link   | [O.R.k. - Ramagehead](https://www.discogs.com/release/13258018-ORk-Ramagehead) |
 | Label          | Kscope |
 | Format         | LP, Album, 180 |
 | Catalog Number | KSCOPE1014 |
+
+Made in Germany.  Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.  Tracks numbered 1-9 on the back cover and labels.
 

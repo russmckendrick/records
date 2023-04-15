@@ -1,14 +1,17 @@
 ---
 title: "Nordic Giants - Symbiosis"
-album_artist: "Nordic Giants"
-album_title: "Symbiosis"
+artist: "Nordic Giants"
+album_name: "Symbiosis"
 date: 2022-02-27
 release_id: "22298998"
 slug: "symbiosis-22298998"
+hideSummary: true
 cover:
     image: "symbiosis-22298998.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Symbiosis by Nordic Giants"
+    caption: "Symbiosis by Nordic Giants"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -21,16 +24,17 @@ hideSummary: true
 7. Spires Of Ascendency (4:27)
 8. Infinity (7:32)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Nordic Giants - Symbiosis](https://www.discogs.com/release/22298998) |
+| Release Year   | 2022 |
+| Discogs Link   | [Nordic Giants - Symbiosis](https://www.discogs.com/release/22298998-Nordic-Giants-Symbiosis) |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Format         | LP, Album, Sky |
 | Catalog Number | none |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Nordic Giants - Amplify Human Vibration"
-album_artist: "Nordic Giants"
-album_title: "Amplify Human Vibration"
+artist: "Nordic Giants"
+album_name: "Amplify Human Vibration"
 date: 2017-11-25
 release_id: "11194610"
 slug: "amplify-human-vibration-11194610"
+hideSummary: true
 cover:
     image: "amplify-human-vibration-11194610.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Amplify Human Vibration by Nordic Giants"
+    caption: "Amplify Human Vibration by Nordic Giants"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="b_D76NQA4wU" title="Nordic Giants - Amplify Human Vibration [Full Album]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Nordic Giants - Amplify Human Vibration](https://www.discogs.com/release/11194610) |
+| Release Year   | 2017 |
+| Discogs Link   | [Nordic Giants - Amplify Human Vibration](https://www.discogs.com/release/11194610-Nordic-Giants-Amplify-Human-Vibration) |
 | Label          | Kscope |
 | Format         | LP, Album, 180 |
 | Catalog Number | KSCOPE968 |
+
+The soundtrack for the Nordic Giants’ 2017 documentary film, Amplify Human Vibration.   Known for its breath-taking apocalyptic music and extravagant live performances, Nordic Giants place one foot outside of the shadows for on Amplify Human Vibration. In a world undergoing turbulent changes and with the mainstream media concentrating on the negative side of these shifts, the Nordic Giants’ remarkable documentary and soundtrack brings light to the positive changes people are making, and explores the kindness and drive of humanity.   The band has stated: "For those that have seen the live show before fear not, this is not a light affair, but a thought provoking exploration into the human spirit." The filming for the documentary incorporates 2017 summer festival performances from the band, including ArcTanGent &  Green Man.   LP pressed on 180g vinyl.   “The perfect union between ambient post-rock and film.” - Time Out
 

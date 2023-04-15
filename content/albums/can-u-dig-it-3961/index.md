@@ -1,14 +1,17 @@
 ---
 title: "Pop Will Eat Itself - Can U Dig It?"
-album_artist: "Pop Will Eat Itself"
-album_title: "Can U Dig It?"
+artist: "Pop Will Eat Itself"
+album_name: "Can U Dig It?"
 date: 2018-02-15
 release_id: "3961"
 slug: "can-u-dig-it-3961"
+hideSummary: true
 cover:
     image: "can-u-dig-it-3961.jpg"
-tags: ["Electronic", "Hip Hop", "Rock"]
-hideSummary: true
+    alt: "Can U Dig It? by Pop Will Eat Itself"
+    caption: "Can U Dig It? by Pop Will Eat Itself"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 - [Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12 House Mix] 1989](https://www.youtube.com/watch?v=D8VTrcfE758)
 - [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Pop Will Eat Itself - Can U Dig It?](https://www.discogs.com/release/3961) |
+| Release Year   | 1989 |
+| Discogs Link   | [Pop Will Eat Itself - Can U Dig It?](https://www.discogs.com/release/3961-Pop-Will-Eat-Itself-Can-U-Dig-It) |
 | Label          | RCA |
 | Format         | 12\" |
 | Catalog Number | PT 42620 |
+
+(P)+(C) BMG Records UK Ltd.  On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"  Printed in England
 

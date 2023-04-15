@@ -1,14 +1,17 @@
 ---
 title: "Fine Young Cannibals - The Raw & The Cooked"
-album_artist: "Fine Young Cannibals"
-album_title: "The Raw & The Cooked"
+artist: "Fine Young Cannibals"
+album_name: "The Raw & The Cooked"
 date: 2016-01-13
 release_id: "251670"
 slug: "the-raw-the-cooked-251670"
+hideSummary: true
 cover:
     image: "the-raw-the-cooked-251670.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "The Raw & The Cooked by Fine Young Cannibals"
+    caption: "The Raw & The Cooked by Fine Young Cannibals"
+genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
+styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/251670) |
+| Release Year   | 1989 |
+| Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/251670-Fine-Young-Cannibals-The-Raw-The-Cooked) |
 | Label          | London Records |
 | Format         | LP, Album |
 | Catalog Number | 828 069. 1 |
+
+© 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited. A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd. A2, A5 & B4 ℗ 1987 Touchstone Pictures B5 ℗ 1987 FFRR Records Ltd.  Publishers: A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd. A2, A5 & B4 - Campbell Connelly Issued in a single sleeve and with a printed inner sleeve.  All runout data is stamped.
 

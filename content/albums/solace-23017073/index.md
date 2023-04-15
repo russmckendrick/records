@@ -1,14 +1,17 @@
 ---
 title: "Held By Trees - Solace"
-album_artist: "Held By Trees"
-album_title: "Solace"
+artist: "Held By Trees"
+album_name: "Solace"
 date: 2022-04-27
 release_id: "23017073"
 slug: "solace-23017073"
+hideSummary: true
 cover:
     image: "solace-23017073.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Solace by Held By Trees"
+    caption: "Solace by Held By Trees"
+genres: ["Rock"]
+styles: ["Post Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Wave Upon Wave](https://www.youtube.com/watch?v=RumGniGdO4g)
 - [Held By Trees // Mysterium](https://www.youtube.com/watch?v=zr5KAsCU4L0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Held By Trees - Solace](https://www.discogs.com/release/23017073) |
+| Release Year   | 2022 |
+| Discogs Link   | [Held By Trees - Solace](https://www.discogs.com/release/23017073-Held-By-Trees-Solace) |
 | Label          | Tweed Jacket Music Ltd |
 | Format         | LP, Album, Eco |
 | Catalog Number | TJMLP01 |
+
+The colour of the record may vary as it is 'eco vinyl'.  © ℗ Tweed Jacket Music Ltd 2022  The tracks are numbered 1 to 8 on the release.
 

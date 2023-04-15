@@ -1,14 +1,17 @@
 ---
 title: "Led Zeppelin - Untitled"
-album_artist: "Led Zeppelin"
-album_title: "Untitled"
+artist: "Led Zeppelin"
+album_name: "Untitled"
 date: 2017-02-26
 release_id: "6224514"
 slug: "untitled-6224514"
+hideSummary: true
 cover:
     image: "untitled-6224514.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Untitled by Led Zeppelin"
+    caption: "Untitled by Led Zeppelin"
+genres: ["Rock"]
+styles: ["Hard Rock", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="NRUTJAO7uLE" title="Led Zeppelin - When The Levee Breaks (HQ Sound)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Led Zeppelin - Untitled](https://www.discogs.com/release/6224514) |
+| Release Year   | 2014 |
+| Discogs Link   | [Led Zeppelin - Untitled](https://www.discogs.com/release/6224514-Led-Zeppelin-Untitled) |
 | Label          | Atlantic, Atlantic |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | 8122-79657-7, 8122796577 |
+
+Release doesn't feature an explicit title, as with the original issues. It is, however, referred to as "Led Zeppelin IV" in online retailers and such.  180gr vinyl in gatefold sleeve with insert.  Printed on front cover sticker: "LED ZEPPELIN'S CLASSIC 4th ALBUM ON 180g VINYL Includes Stairway To Heaven, Black Dog & Rock And Roll Remastered & Produced by Jimmy Page [barcode image 0 81227 96577 8] 8122796577"  Cat# on labels 8122-79657-7 Cat# on sticker on front cover : 8122769577  Manufactured in Germany. (on label) Made in the EU (inside the sleeve)
 

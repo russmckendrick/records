@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - The Pleasure Principle (The First Recordings)"
-album_artist: "Gary Numan"
-album_title: "The Pleasure Principle (The First Recordings)"
+artist: "Gary Numan"
+album_name: "The Pleasure Principle (The First Recordings)"
 date: 2019-10-11
 release_id: "14245498"
 slug: "the-pleasure-principle-the-first-recordings-14245498"
+hideSummary: true
 cover:
     image: "the-pleasure-principle-the-first-recordings-14245498.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Pleasure Principle (The First Recordings) by Gary Numan"
+    caption: "The Pleasure Principle (The First Recordings) by Gary Numan"
+genres: ["Electronic"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Films (BBC Peel Sessions)](https://www.youtube.com/watch?v=m4T0s5OhxiQ)
 - [Conversation (BBC Peel Sessions)](https://www.youtube.com/watch?v=NOE_Q0IEO0Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Gary Numan - The Pleasure Principle (The First Recordings)](https://www.discogs.com/release/14245498) |
+| Release Year   | 2019 |
+| Discogs Link   | [Gary Numan - The Pleasure Principle (The First Recordings)](https://www.discogs.com/release/14245498-Gary-Numan-The-Pleasure-Principle-The-First-Recordings) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Comp, Ora |
 | Catalog Number | BBQ2158LP |
+
+40th Anniversary Edition.  Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks.   Orange vinyl. Cut out sleeve.   ℗ & © 2019 Beggars Banquet, The Arkive.  Side One / Two / Three Recorded at Freerange Recording Studios London. Side Four Recorded at BBC Maida Vale Studios London.  
 

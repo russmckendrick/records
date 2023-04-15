@@ -1,14 +1,17 @@
 ---
 title: "Mogwai - Every Country's Sun"
-album_artist: "Mogwai"
-album_title: "Every Country's Sun"
+artist: "Mogwai"
+album_name: "Every Country's Sun"
 date: 2017-09-02
 release_id: "10769899"
 slug: "every-country-s-sun-10769899"
+hideSummary: true
 cover:
     image: "every-country-s-sun-10769899.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Every Country's Sun by Mogwai"
+    caption: "Every Country's Sun by Mogwai"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="9ubqJl36KFU" title="Every Country's Sun" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Mogwai - Every Country's Sun](https://www.discogs.com/release/10769899) |
+| Release Year   | 2017 |
+| Discogs Link   | [Mogwai - Every Country's Sun](https://www.discogs.com/release/10769899-Mogwai-Every-Countrys-Sun) |
 | Label          | Rock Action Records |
 | Format         | 2xLP, Album, Whi + 12\" + CD, Album + Box, Album, D |
 | Catalog Number | ROCKACT108 |
+
+Boxset includes: - white vinyl double LP in a gatefold sleeve - 12" with demos in own sleeve - seven 12"x12" photo prints - a copy of the UK/Europe CD ([r=10788412]) - a download coupon  Copies bought direct from the Mogwai webshop came with a 12"x12" graphical print, hand signed by the band members. This was included as an additional item, separate from the sealed box.  CD-Track durations are taken from the cd-ripper programm.
 

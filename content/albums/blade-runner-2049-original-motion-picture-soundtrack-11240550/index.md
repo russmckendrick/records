@@ -1,14 +1,17 @@
 ---
 title: "Hans Zimmer & Benjamin Wallfisch - Blade Runner 2049 (Original Motion Picture Soundtrack)"
-album_artist: "Hans Zimmer & Benjamin Wallfisch"
-album_title: "Blade Runner 2049 (Original Motion Picture Soundtrack)"
+artist: "Hans Zimmer & Benjamin Wallfisch"
+album_name: "Blade Runner 2049 (Original Motion Picture Soundtrack)"
 date: 2017-12-24
 release_id: "11240550"
 slug: "blade-runner-2049-original-motion-picture-soundtrack-11240550"
+hideSummary: true
 cover:
     image: "blade-runner-2049-original-motion-picture-soundtrack-11240550.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Blade Runner 2049 (Original Motion Picture Soundtrack) by Hans Zimmer & Benjamin Wallfisch"
+    caption: "Blade Runner 2049 (Original Motion Picture Soundtrack) by Hans Zimmer & Benjamin Wallfisch"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Can't Help Falling in Love | Blade Runner 2049 Soundtrack](https://www.youtube.com/watch?v=gjIiKmpBV1Q)
 - [Lauren Daigle - Almost Human](https://www.youtube.com/watch?v=HcBpKOiGuz8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Hans Zimmer & Benjamin Wallfisch - Blade Runner 2049 (Original Motion Picture Soundtrack)](https://www.discogs.com/release/11240550) |
+| Release Year   | 2017 |
+| Discogs Link   | [Hans Zimmer & Benjamin Wallfisch - Blade Runner 2049 (Original Motion Picture Soundtrack)](https://www.discogs.com/release/11240550-Hans-Zimmer-Benjamin-Wallfisch-Blade-Runner-2049-Original-Motion-Picture-Soundtrack) |
 | Label          | Epic, Alcon Sleeping Giant, Sony Music |
 | Format         | 2xLP, Album |
 | Catalog Number | 19075803641 |
+
+The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").  Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).  Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.  Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.  The catalogue number printed on the spine is 19075803641. The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.  Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany. Made in the EU.
 

@@ -1,14 +1,17 @@
 ---
 title: "Chali 2NA, Krafty Kuts - Adventures Of A Reluctant Superhero"
-album_artist: "Chali 2NA, Krafty Kuts"
-album_title: "Adventures Of A Reluctant Superhero"
+artist: "Chali 2NA, Krafty Kuts"
+album_name: "Adventures Of A Reluctant Superhero"
 date: 2019-08-11
 release_id: "13986143"
 slug: "adventures-of-a-reluctant-superhero-13986143"
+hideSummary: true
 cover:
     image: "adventures-of-a-reluctant-superhero-13986143.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Adventures Of A Reluctant Superhero by Chali 2NA, Krafty Kuts"
+    caption: "Adventures Of A Reluctant Superhero by Chali 2NA, Krafty Kuts"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Hands High](https://www.youtube.com/watch?v=c9JFNWYp9Lo)
 - [Distance](https://www.youtube.com/watch?v=qi0unYZA5Fg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Chali 2NA, Krafty Kuts - Adventures Of A Reluctant Superhero](https://www.discogs.com/release/13986143) |
+| Release Year   | 2019 |
+| Discogs Link   | [Chali 2NA, Krafty Kuts - Adventures Of A Reluctant Superhero](https://www.discogs.com/release/13986143-Chali-2NA-Krafty-Kuts-Adventures-Of-A-Reluctant-Superhero) |
 | Label          | Manphibian Music |
 | Format         | LP |
 | Catalog Number | MANP 001LP |
+
+Includes printed sleeve/liner, 8-page comic & digital download.
 

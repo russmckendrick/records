@@ -1,14 +1,17 @@
 ---
 title: "Rush - Test For Echo"
-album_artist: "Rush"
-album_title: "Test For Echo"
+artist: "Rush"
+album_name: "Test For Echo"
 date: 2017-02-27
 release_id: "7684234"
 slug: "test-for-echo-7684234"
+hideSummary: true
 cover:
     image: "test-for-echo-7684234.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Test For Echo by Rush"
+    caption: "Test For Echo by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Limbo (5:29)
 11. Carve Away The Stone (4:08)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Test For Echo](https://www.discogs.com/release/7684234) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Test For Echo](https://www.discogs.com/release/7684234-Rush-Test-For-Echo) |
 | Label          | Atlantic, Anthem (5) |
 | Format         | LP, 200 + LP, S/Sided, Etch, 200 + Album, RE, RM,  |
 | Catalog Number | R1 83739 |
+
+Includes High Quality Download Code  Etched D Side
 

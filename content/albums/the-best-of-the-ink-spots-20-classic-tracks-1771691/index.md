@@ -1,14 +1,17 @@
 ---
 title: "The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)"
-album_artist: "The Ink Spots"
-album_title: "The Best Of The Ink Spots (20 Classic Tracks)"
+artist: "The Ink Spots"
+album_name: "The Best Of The Ink Spots (20 Classic Tracks)"
 date: 2020-08-02
 release_id: "1771691"
 slug: "the-best-of-the-ink-spots-20-classic-tracks-1771691"
+hideSummary: true
 cover:
     image: "the-best-of-the-ink-spots-20-classic-tracks-1771691.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "The Best Of The Ink Spots (20 Classic Tracks) by The Ink Spots"
+    caption: "The Best Of The Ink Spots (20 Classic Tracks) by The Ink Spots"
+genres: ["Pop"]
+styles: ["Vocal"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [The Ink Spots - It's A Sin To Tell A Lie](https://www.youtube.com/watch?v=kK4JTwcCp_0)
 - [The Ink Spots - Someones Rocking My Dreamboat](https://www.youtube.com/watch?v=SR1_sY0_yAo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691) |
+| Release Year   | 1981 |
+| Discogs Link   | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691-The-Ink-Spots-The-Best-Of-The-Ink-Spots-20-Classic-Tracks) |
 | Label          | Music For Pleasure, MCA Records |
 | Format         | LP, Comp, Mono, RE |
 | Catalog Number | MFP 50529 |
+
+On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([MCF 2573](https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463)) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd.
 

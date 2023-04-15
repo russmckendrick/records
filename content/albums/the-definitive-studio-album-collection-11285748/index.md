@@ -1,14 +1,17 @@
 ---
 title: "Otis Redding - The Definitive Studio Album Collection"
-album_artist: "Otis Redding"
-album_title: "The Definitive Studio Album Collection"
+artist: "Otis Redding"
+album_name: "The Definitive Studio Album Collection"
 date: 2017-12-16
 release_id: "11285748"
 slug: "the-definitive-studio-album-collection-11285748"
+hideSummary: true
 cover:
     image: "the-definitive-studio-album-collection-11285748.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Definitive Studio Album Collection by Otis Redding"
+    caption: "The Definitive Studio Album Collection by Otis Redding"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -105,13 +108,16 @@ hideSummary: true
 - [Cigarettes and Coffee](https://www.youtube.com/watch?v=cm3YM_9iW_s)
 - [Down in the Valley (Mono) (2018 Remaster)](https://www.youtube.com/watch?v=GuxR4JZ0l7A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Otis Redding - The Definitive Studio Album Collection](https://www.discogs.com/release/11285748) |
+| Release Year   | 2017 |
+| Discogs Link   | [Otis Redding - The Definitive Studio Album Collection](https://www.discogs.com/release/11285748-Otis-Redding-The-Definitive-Studio-Album-Collection) |
 | Label          | Rhino Records (2), Rhino Records (2) |
 | Format         | LP, Album, Mono, RE + LP, Album, Mono, RE + LP, Al |
 | Catalog Number | R1 563422, 081227932749 |
+
+Stax and Volt are Registered Trademarks of the Concord Music Group, Inc.  This Collection ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company. Marketed by Rhino Entertainment Company, 3400 W. Olive Ave., Burbank, CA 91505-4614. Manufactured in E.U.  Pain In My Heart:  A1 - Jarb, BMI. A2 - East, BMI. A3 - Progressive-Trio, BMI. A4 - English-Time, BMI. A5 - Kags, BMI. A6 - Fast-Pete, BMI. B1 - English-Time, BMI. B2 - Limax, BMI. B3 - English-Time, BMI. B4 - English-Time, BMI. B5 - English-Time, BMI. B6 - Venice, BMI.  ℗ & © 2017, 1964 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Great Otis Redding Sings Soul Ballads:  C1 - Rise, BMI. C2 - East & Time, BMI. C3 - Merrimac, BMI. C4 - East & Time, BMI. C5 - Kags, BMI. C6 - Rush, BMI. D1 - Gladstone, ASCAP. D2 - East & Time, BMI. D3 - East & Time, BMI. D4 - Progressive, BMI. D5 - East & Time, BMI. D6 - East & Time, BMI.  ℗ & © 2017, 1965 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  Otis Blue / Otis Redding Sings Soul:  ℗ & © 2017, 1965 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Soul Album:  G1 - East-Time-Redwal, BMI. G2 - Jobete, BMI. G3 - Maxine-Curtom-Lion, BMI. G4 - Kags, BMI. G5 - Pickwick, ASCAP. H1 - East-Time-Redwal, BMI. H2 - Excellorec, BMI. H3 - Don, BMI. H4 - Falart, BMI. H5 - East-Time-Redwal, BMI. H6 - East-Pronto, BMI.  ℗ & © 2017, 1966 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Otis Redding Dictionary Of Soul Complete & Unbelievable:  I1 - East-Time-Redwal, BMI. I2 - East-Time-Redwal, BMI. I3 - Acuff-Rose, BMI. I4 - East-Time-Redwal, BMI. I5 - Campbell-Connelly & Robbins, ASCAP. I6 - Maclen Music, BMI. J1 - East-Time-Redwal, BMI. J2 - East-Time-Redwal, BMI. J3 - East-Time-Redwal, BMI. J4 - Berkshire, BMI. J5 - East-Time-Redwal, BMI. J6 - East-Time-Redwal, BMI.  ℗ & © 2017, 1966 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  King & Queen:  K1 - East, BMI. K2 - East, BMI. K3 - Modern, BMI. K4 - Olrap, BMI. K5 - East, BMI. K6 - Progressive, BMI. L1 - East, Time & Redwal BMI. L2 - Detroit & Jobete, BMI. L3 - Web IV, BMI. L4 - Kags, BMI. L5 - East, Time & Redwal, BMI.  ℗ & © 2017, 1967 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Dock Of The Bay:  M1 - East-Time-Redwal, BMI. M2 - East-Time-Redwal, BMI. M3 - East-Time-Redwal, BMI. M4 - East-Time-Redwal, BMI. M5 - East-Time-Redwal, BMI. N1 - Shapiro Bernstein, ASCAP. N2 - East-Time-Redwal, BMI. N3 - Modern-Budget, BMI. N4 - United Music Corp., ASCAP. N5 - Pickwick, ASCAP. N6 - East-Time-Walco, BMI.  ℗ & © 2017, 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.
 

@@ -1,14 +1,17 @@
 ---
 title: "Son Little - Aloha"
-album_artist: "Son Little"
-album_title: "Aloha"
+artist: "Son Little"
+album_name: "Aloha"
 date: 2020-02-07
 release_id: "14719879"
 slug: "aloha-14719879"
+hideSummary: true
 cover:
     image: "aloha-14719879.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Aloha by Son Little"
+    caption: "Aloha by Son Little"
+genres: ["Funk / Soul"]
+styles: null
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Son Little - about her. again.](https://www.youtube.com/watch?v=RKyR-kOMLNY)
 - [Son Little - neve give up](https://www.youtube.com/watch?v=jaZcnBog0Zs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Son Little - Aloha](https://www.discogs.com/release/14719879) |
+| Release Year   | 2020 |
+| Discogs Link   | [Son Little - Aloha](https://www.discogs.com/release/14719879-Son-Little-Aloha) |
 | Label          | Anti- |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | 27678-3 |
+
+180 Gram
 

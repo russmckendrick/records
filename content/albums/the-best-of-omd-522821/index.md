@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - The Best Of OMD"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "The Best Of OMD"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "The Best Of OMD"
 date: 2016-07-05
 release_id: "522821"
 slug: "the-best-of-omd-522821"
+hideSummary: true
 cover:
     image: "the-best-of-omd-522821.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "The Best Of OMD by Orchestral Manoeuvres In The Dark"
+    caption: "The Best Of OMD by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop", "New Wave", "Dance-pop"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Joan Of Arc (Maid Of Orleans)](https://www.youtube.com/watch?v=8M_tBfHido0)
 - [Dreaming](https://www.youtube.com/watch?v=EWg1y65OqHE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - The Best Of OMD](https://www.discogs.com/release/522821) |
+| Release Year   | 1988 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - The Best Of OMD](https://www.discogs.com/release/522821-Orchestral-Manoeuvres-In-The-Dark-The-Best-Of-OMD) |
 | Label          | Virgin |
 | Format         | LP, Album, Comp, Gat |
 | Catalog Number | OMD 1 |
+
+Released in a gatefold sleeve with photos of the group members, plus images of the sleeves used for the release of the singles.
 

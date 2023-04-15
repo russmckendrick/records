@@ -1,14 +1,17 @@
 ---
 title: "McAlmont & Butler - The Sound Of... McAlmont & Butler"
-album_artist: "McAlmont & Butler"
-album_title: "The Sound Of... McAlmont & Butler"
+artist: "McAlmont & Butler"
+album_name: "The Sound Of... McAlmont & Butler"
 date: 2016-07-10
 release_id: "8331235"
 slug: "the-sound-of-mcalmont-butler-8331235"
+hideSummary: true
 cover:
     image: "the-sound-of-mcalmont-butler-8331235.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Sound Of... McAlmont & Butler by McAlmont & Butler"
+    caption: "The Sound Of... McAlmont & Butler by McAlmont & Butler"
+genres: ["Rock", "Pop"]
+styles: ["Indie Pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [You'll Lose A Good Thing](https://www.youtube.com/watch?v=fSKCLfeYbQM)
 - [How About You?](https://www.youtube.com/watch?v=eAX2DJU08wM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [McAlmont & Butler - The Sound Of... McAlmont & Butler](https://www.discogs.com/release/8331235) |
+| Release Year   | 2016 |
+| Discogs Link   | [McAlmont & Butler - The Sound Of... McAlmont & Butler](https://www.discogs.com/release/8331235-McAlmont-Butler-The-Sound-Of-McAlmont-Butler) |
 | Label          | Edsel Records |
 | Format         | LP, Album, RE, RM, Gol |
 | Catalog Number | DEMREC114 |
+
+
 

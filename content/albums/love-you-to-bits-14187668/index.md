@@ -1,14 +1,17 @@
 ---
 title: "No-Man - Love You To Bits"
-album_artist: "No-Man"
-album_title: "Love You To Bits"
+artist: "No-Man"
+album_name: "Love You To Bits"
 date: 2019-11-23
 release_id: "14187668"
 slug: "love-you-to-bits-14187668"
+hideSummary: true
 cover:
     image: "love-you-to-bits-14187668.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Love You To Bits by No-Man"
+    caption: "Love You To Bits by No-Man"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Electro", "Disco", "Ambient"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Love You To Pieces (Piece 4)](https://www.youtube.com/watch?v=NEBgViwr_bQ)
 - [Love You To Pieces (Piece 5)](https://www.youtube.com/watch?v=UB0W7ax8Hws)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [No-Man - Love You To Bits](https://www.discogs.com/release/14187668) |
+| Release Year   | 2019 |
+| Discogs Link   | [No-Man - Love You To Bits](https://www.discogs.com/release/14187668-No-Man-Love-You-To-Bits) |
 | Label          | Caroline International |
 | Format         | LP, Album, Ltd, Blu |
 | Catalog Number | CAROL020LP |
+
+Burning Shed exclusive 180g blue vinyl edition. Limited to 1000 copies. Comes with an art print signed by Tim Bowness and Steven Wilson.  [Liner notes] Mixed by Bruno Ellingham at Riverside Studios, Batheaston, August 2019 Mastered by Matt Colton at Metropolis  ℗&© 2019 no-man, under exclusive license to Caroline Internatinal
 

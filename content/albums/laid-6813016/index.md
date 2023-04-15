@@ -1,14 +1,17 @@
 ---
 title: "James - Laid"
-album_artist: "James"
-album_title: "Laid"
+artist: "James"
+album_name: "Laid"
 date: 2017-05-04
 release_id: "6813016"
 slug: "laid-6813016"
+hideSummary: true
 cover:
     image: "laid-6813016.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Laid by James"
+    caption: "Laid by James"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [James - Laid (Version 2)](https://www.youtube.com/watch?v=g_qZ5B-yioU)
 - [James - Laid (Version 3) [Official Video]](https://www.youtube.com/watch?v=0trh9Y598fM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [James - Laid](https://www.discogs.com/release/6813016) |
+| Release Year   | 2015 |
+| Discogs Link   | [James - Laid](https://www.discogs.com/release/6813016-James-Laid) |
 | Label          | Fontana |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 0602547096401 |
+
+Sleeves with lyrics, photos, credits, art etc Contains voucher for MP3 download 180 Gram Heavyweight Vinyl Made in the EU
 

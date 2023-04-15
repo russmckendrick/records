@@ -1,14 +1,17 @@
 ---
 title: "Screaming Trees - Uncle Anesthesia"
-album_artist: "Screaming Trees"
-album_title: "Uncle Anesthesia"
+artist: "Screaming Trees"
+album_name: "Uncle Anesthesia"
 date: 2022-06-24
 release_id: "3977067"
 slug: "uncle-anesthesia-3977067"
+hideSummary: true
 cover:
     image: "uncle-anesthesia-3977067.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Uncle Anesthesia by Screaming Trees"
+    caption: "Uncle Anesthesia by Screaming Trees"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Time For Light](https://www.youtube.com/watch?v=VCg4E1I0YkM)
 - [Ocean Of Confusion](https://www.youtube.com/watch?v=BxXTRl7QIRU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Screaming Trees - Uncle Anesthesia](https://www.discogs.com/release/3977067) |
+| Release Year   | 2012 |
+| Discogs Link   | [Screaming Trees - Uncle Anesthesia](https://www.discogs.com/release/3977067-Screaming-Trees-Uncle-Anesthesia) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP587 |
+
+
 

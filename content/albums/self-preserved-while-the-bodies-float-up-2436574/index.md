@@ -1,14 +1,17 @@
 ---
 title: "Oceansize - Self Preserved While The Bodies Float Up"
-album_artist: "Oceansize"
-album_title: "Self Preserved While The Bodies Float Up"
+artist: "Oceansize"
+album_name: "Self Preserved While The Bodies Float Up"
 date: 2016-01-28
 release_id: "2436574"
 slug: "self-preserved-while-the-bodies-float-up-2436574"
+hideSummary: true
 cover:
     image: "self-preserved-while-the-bodies-float-up-2436574.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Self Preserved While The Bodies Float Up by Oceansize"
+    caption: "Self Preserved While The Bodies Float Up by Oceansize"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
 - [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Oceansize - Self Preserved While The Bodies Float Up](https://www.discogs.com/release/2436574) |
+| Release Year   | 2010 |
+| Discogs Link   | [Oceansize - Self Preserved While The Bodies Float Up](https://www.discogs.com/release/2436574-Oceansize-Self-Preserved-While-The-Bodies-Float-Up) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album, Whi + CD, Album + Ltd |
 | Catalog Number | SBMLP 014, 0504421 |
+
+Black and limited white vinyl edition exists under the same catalogue #.
 

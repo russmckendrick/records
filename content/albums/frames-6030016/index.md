@@ -1,14 +1,17 @@
 ---
 title: "Oceansize - Frames"
-album_artist: "Oceansize"
-album_title: "Frames"
+artist: "Oceansize"
+album_name: "Frames"
 date: 2015-10-30
 release_id: "6030016"
 slug: "frames-6030016"
+hideSummary: true
 cover:
     image: "frames-6030016.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Frames by Oceansize"
+    caption: "Frames by Oceansize"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Frame](https://www.youtube.com/watch?v=QThNbmBK0l4)
 - [Oceansize - The frame (With lyrics)](https://www.youtube.com/watch?v=1rjJ_qxiRzM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Oceansize - Frames](https://www.discogs.com/release/6030016) |
+| Release Year   | 2014 |
+| Discogs Link   | [Oceansize - Frames](https://www.discogs.com/release/6030016-Oceansize-Frames) |
 | Label          | Superball Music |
 | Format         | 2xLP, Album, Red + CD, Album + Dlx, Ltd |
 | Catalog Number | SBMLP 001 |
+
+Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.  Transparent red vinyl limited to 100 copies. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Prince - Controversy"
-album_artist: "Prince"
-album_title: "Controversy"
+artist: "Prince"
+album_name: "Controversy"
 date: 2016-06-26
 release_id: "3559573"
 slug: "controversy-3559573"
+hideSummary: true
 cover:
     image: "controversy-3559573.jpg"
-tags: ["Electronic", "Funk / Soul"]
-hideSummary: true
+    alt: "Controversy by Prince"
+    caption: "Controversy by Prince"
+genres: ["Electronic", "Funk / Soul"]
+styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Private Joy](https://www.youtube.com/watch?v=TX94-R9rsoQ)
 - [Annie Christian](https://www.youtube.com/watch?v=rcqb9EvqXS8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Prince - Controversy](https://www.discogs.com/release/3559573) |
+| Release Year   | 2011 |
+| Discogs Link   | [Prince - Controversy](https://www.discogs.com/release/3559573-Prince-Controversy) |
 | Label          | Warner Bros. Records, Rhino Records (2) |
 | Format         | LP, Album, Ltd, RE, RM |
 | Catalog Number | 8122-79777-6, 8122797776 |
+
+℗&© 1981 Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  Like most Rhino reissues - Rhino pressed both an EU version and a US version [[r3139564]]. This is the EU pressing.  Record Technology Incorporated and Optimal Media Production were identified from runout/matrix.  • Limited 180 grams audiophile with large fold-out poster of Prince in shower photo. • Mastered at Bernie Grundman Mastering from the Original Tapes
 

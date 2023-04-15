@@ -1,14 +1,17 @@
 ---
 title: "The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
-album_artist: "The Beach Boys"
-album_title: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
+artist: "The Beach Boys"
+album_name: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
 date: 2022-09-04
 release_id: "20015524"
 slug: "feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524"
+hideSummary: true
 cover:
     image: "feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys"
+    caption: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -51,16 +54,17 @@ hideSummary: true
 37. A Day In The Life Of A Tree (Track- & Backing Vocals) (2:54)
 38. 'Til I Die (A Capella) (2:11)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)](https://www.discogs.com/release/20015524) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)](https://www.discogs.com/release/20015524-The-Beach-Boys-Feel-Flows-The-Sunflower-Surfs-Up-Sessions-1969-1971) |
 | Label          | Capitol Records, Brother Records (3), Universal Music Group |
 | Format         | Comp + LP, Album, Comp, RE + LP, Album, Comp, RE |
 | Catalog Number | 00602508802102 |
+
+Made in the EU.  Gatefold sleeve including 4-page booklet 
 

@@ -1,14 +1,17 @@
 ---
 title: "Deacon Blue - Believers"
-album_artist: "Deacon Blue"
-album_title: "Believers"
+artist: "Deacon Blue"
+album_name: "Believers"
 date: 2021-05-31
 release_id: "9416088"
 slug: "believers-9416088"
+hideSummary: true
 cover:
     image: "believers-9416088.jpg"
-tags: ["Jazz", "Rock", "Pop"]
-hideSummary: true
+    alt: "Believers by Deacon Blue"
+    caption: "Believers by Deacon Blue"
+genres: ["Jazz", "Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="UVUsVqdKzmI" title="Deacon Blue  - Believers - 03 - I Will and I Won't" >}}
 - [Deacon Blue The Believers Official Music Video](https://www.youtube.com/watch?v=d9JmILWh5i8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Deacon Blue - Believers](https://www.discogs.com/release/9416088) |
+| Release Year   | 2016 |
+| Discogs Link   | [Deacon Blue - Believers](https://www.discogs.com/release/9416088-Deacon-Blue-Believers) |
 | Label          | Ear Music |
 | Format         | LP, Album |
 | Catalog Number | 0211435EMU |
+
+Hype sticker on shrink reads:  "DEACON BLUE  Their brilliant new album.  Featuring 'The Believers' and 'This is a Love Song'.  THIS IS CLASSIC DEACON BLUE" .  Durations do not appear on this release.  Made in Germany.
 

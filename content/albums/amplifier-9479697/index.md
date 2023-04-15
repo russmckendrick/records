@@ -1,14 +1,17 @@
 ---
 title: "Amplifier (3) - Amplifier"
-album_artist: "Amplifier (3)"
-album_title: "Amplifier"
+artist: "Amplifier (3)"
+album_name: "Amplifier"
 date: 2016-12-15
 release_id: "9479697"
 slug: "amplifier-9479697"
+hideSummary: true
 cover:
     image: "amplifier-9479697.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Amplifier by Amplifier (3)"
+    caption: "Amplifier by Amplifier (3)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Amplifier (3) - Amplifier](https://www.discogs.com/release/9479697) |
+| Release Year   | 2016 |
+| Discogs Link   | [Amplifier (3) - Amplifier](https://www.discogs.com/release/9479697-Amplifier-Amplifier) |
 | Label          | Not On Label (Amplifier (3) Self-released) |
 | Format         | 2xLP, Album, RM |
 | Catalog Number | none |
+
+180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies.  Sequential tracklist as per the cover.
 

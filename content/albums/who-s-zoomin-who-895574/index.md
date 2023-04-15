@@ -1,14 +1,17 @@
 ---
 title: "Aretha Franklin - Who's Zoomin' Who?"
-album_artist: "Aretha Franklin"
-album_title: "Who's Zoomin' Who?"
+artist: "Aretha Franklin"
+album_name: "Who's Zoomin' Who?"
 date: 2020-08-02
 release_id: "895574"
 slug: "who-s-zoomin-who-895574"
+hideSummary: true
 cover:
     image: "who-s-zoomin-who-895574.jpg"
-tags: ["Electronic", "Funk / Soul"]
-hideSummary: true
+    alt: "Who's Zoomin' Who? by Aretha Franklin"
+    caption: "Who's Zoomin' Who? by Aretha Franklin"
+genres: ["Electronic", "Funk / Soul"]
+styles: ["Disco", "Synth-pop", "Soul"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Integrity](https://www.youtube.com/watch?v=wOse0WM-6c4)
 - [Ain't Nobody Ever Loved You](https://www.youtube.com/watch?v=hoea1s3PY_8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Aretha Franklin - Who's Zoomin' Who?](https://www.discogs.com/release/895574) |
+| Release Year   | 1985 |
+| Discogs Link   | [Aretha Franklin - Who's Zoomin' Who?](https://www.discogs.com/release/895574-Aretha-Franklin-Whos-Zoomin-Who) |
 | Label          | Arista, Arista |
 | Format         | LP, Album |
 | Catalog Number | 207 202, 207 202-620 |
+
+B1: Duet with The Eurythmics B4: Duet with Peter Wolf  Came with printed inner sleeve. (P) & (C) 1985 Arista Records  [On labels]: Orig. Sound Rec. made by Arista Rec. Inc. ℗ © 1985 Arista Records Inc.  [On runout groove]:  Mastering/processing method: Direct Mastering [DM].  Some copies were released with a sticker.
 

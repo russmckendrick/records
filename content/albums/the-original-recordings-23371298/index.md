@@ -1,14 +1,17 @@
 ---
 title: "Sex Pistols - The Original Recordings"
-album_artist: "Sex Pistols"
-album_title: "The Original Recordings"
+artist: "Sex Pistols"
+album_name: "The Original Recordings"
 date: 2022-05-31
 release_id: "23371298"
 slug: "the-original-recordings-23371298"
+hideSummary: true
 cover:
     image: "the-original-recordings-23371298.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Original Recordings by Sex Pistols"
+    caption: "The Original Recordings by Sex Pistols"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. Substitute
 20. My Way
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Sex Pistols - The Original Recordings](https://www.discogs.com/release/23371298) |
+| Release Year   | 2022 |
+| Discogs Link   | [Sex Pistols - The Original Recordings](https://www.discogs.com/release/23371298-Sex-Pistols-The-Original-Recordings) |
 | Label          | UMC |
 | Format         | 2xLP, Comp, Gre |
 | Catalog Number | 455 953-5 |
+
+
 

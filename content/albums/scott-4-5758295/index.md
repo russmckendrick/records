@@ -1,14 +1,17 @@
 ---
 title: "Scott Walker - Scott 4"
-album_artist: "Scott Walker"
-album_title: "Scott 4"
+artist: "Scott Walker"
+album_name: "Scott 4"
 date: 2018-03-07
 release_id: "5758295"
 slug: "scott-4-5758295"
+hideSummary: true
 cover:
     image: "scott-4-5758295.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Scott 4 by Scott Walker"
+    caption: "Scott 4 by Scott Walker"
+genres: ["Rock", "Pop"]
+styles: ["Vocal", "Ballad", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Scott Walker - The Seventh Seal](https://www.youtube.com/watch?v=jMUk1R_fKEA)
 - [Scott Walker The Old Man`s Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Scott Walker - Scott 4](https://www.discogs.com/release/5758295) |
+| Release Year   | 2014 |
+| Discogs Link   | [Scott Walker - Scott 4](https://www.discogs.com/release/5758295-Scott-Walker-Scott-4) |
 | Label          | Mercury, Mercury |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 3728852, 00602537288526 |
+
+Includes download code. Remastered 2013 from original analogue tapes.
 

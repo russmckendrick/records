@@ -1,14 +1,17 @@
 ---
 title: "Dropkick Murphys - This Machine Still Kills Fascists"
-album_artist: "Dropkick Murphys"
-album_title: "This Machine Still Kills Fascists"
+artist: "Dropkick Murphys"
+album_name: "This Machine Still Kills Fascists"
 date: 2022-11-14
 release_id: "25013020"
 slug: "this-machine-still-kills-fascists-25013020"
+hideSummary: true
 cover:
     image: "this-machine-still-kills-fascists-25013020.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "This Machine Still Kills Fascists by Dropkick Murphys"
+    caption: "This Machine Still Kills Fascists by Dropkick Murphys"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Where Trouble Is At](https://www.youtube.com/watch?v=2btpqK2Ss3s)
 - [Cadillac, Cadillac](https://www.youtube.com/watch?v=n_GPhieZfqY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Dropkick Murphys - This Machine Still Kills Fascists](https://www.discogs.com/release/25013020) |
+| Release Year   | 2022 |
+| Discogs Link   | [Dropkick Murphys - This Machine Still Kills Fascists](https://www.discogs.com/release/25013020-Dropkick-Murphys-This-Machine-Still-Kills-Fascists) |
 | Label          | Dummy Luck Music, Dummy Luck Music, Dummy Luck Music |
 | Format         | LP, Album, Ltd, Cry |
 | Catalog Number | DLM002LPXC, DLM002LP, DLM-002 |
+
+Indie store exclusive pressed on crystal vinyl  Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.  Songs are listed on the sleeve in track order and are not divided into sides
 

@@ -1,14 +1,17 @@
 ---
 title: "Marillion - An Hour Before It's Dark"
-album_artist: "Marillion"
-album_title: "An Hour Before It's Dark"
+artist: "Marillion"
+album_name: "An Hour Before It's Dark"
 date: 2022-03-04
 release_id: "22379854"
 slug: "an-hour-before-it-s-dark-22379854"
+hideSummary: true
 cover:
     image: "an-hour-before-it-s-dark-22379854.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "An Hour Before It's Dark by Marillion"
+    caption: "An Hour Before It's Dark by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 - [Only a Kiss](https://www.youtube.com/watch?v=shzPzmf7jAg)
 - [Marillion 'Be Hard On Yourself' (Official Audio) - An Hour Before It's Dark](https://www.youtube.com/watch?v=v4VfrnTvm9Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Marillion - An Hour Before It's Dark](https://www.discogs.com/release/22379854) |
+| Release Year   | 2022 |
+| Discogs Link   | [Marillion - An Hour Before It's Dark](https://www.discogs.com/release/22379854-Marillion-An-Hour-Before-Its-Dark) |
 | Label          | Ear Music |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | 0217171EMU |
+
+Recorded at The Racket Club, Bucks and Real World, Box. Assistant Engineer at Real World: Katie May. Strings Recorded by Christine Verschoren at Ace Studio, Aarteslaar, Belgium. Artwork by Simon Ward for 1d3ntity. www.identity-media.co.uk  No credit details listed for Track D - Murder Machines (12" Remix) but probably similar to track A8.  Limited coloured version sold exclusively at the Marillion store. Could be ordered signed from the band members.   Comes With Printed Inner Sleeves (Lyrics and Credits). Barcode covered with a separate sticker.  ℗ & © 2022 Intact Records under exclusive license to Edel Music & Entertainment GmbH. Made in Germany.  Durations do not appear on this release.
 

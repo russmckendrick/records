@@ -1,14 +1,17 @@
 ---
 title: "Joy Division - Closer"
-album_artist: "Joy Division"
-album_title: "Closer"
+artist: "Joy Division"
+album_name: "Closer"
 date: 2020-07-17
 release_id: "15622026"
 slug: "closer-15622026"
+hideSummary: true
 cover:
     image: "closer-15622026.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Closer by Joy Division"
+    caption: "Closer by Joy Division"
+genres: ["Rock"]
+styles: ["Post-Punk", "New Wave"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [The Eternal (2007 Remaster)](https://www.youtube.com/watch?v=3YkutkTQOqc)
 - [Decades (2007 Remaster)](https://www.youtube.com/watch?v=5-SZraSMiEc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Joy Division - Closer](https://www.discogs.com/release/15622026) |
+| Release Year   | 2020 |
+| Discogs Link   | [Joy Division - Closer](https://www.discogs.com/release/15622026-Joy-Division-Closer) |
 | Label          | Factory, Factory, Factory |
 | Format         | LP, Album, Ltd, RE, RM, RP, Cle |
 | Catalog Number | FACT∙XXV, FACT. 25, FACT·XXV·MMXX |
+
+40th anniversary edition.  Includes a plastic lined inner sleeve as well as a printed inner sleeve.  ℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd.
 

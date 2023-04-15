@@ -1,14 +1,17 @@
 ---
 title: "The Polyphonic Spree - Afflatus"
-album_artist: "The Polyphonic Spree"
-album_title: "Afflatus"
+artist: "The Polyphonic Spree"
+album_name: "Afflatus"
 date: 2022-02-12
 release_id: "21302986"
 slug: "afflatus-21302986"
+hideSummary: true
 cover:
     image: "afflatus-21302986.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Afflatus by The Polyphonic Spree"
+    caption: "Afflatus by The Polyphonic Spree"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Never My Love
 10. The Spirit Of Radio
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Polyphonic Spree - Afflatus](https://www.discogs.com/release/21302986) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Polyphonic Spree - Afflatus](https://www.discogs.com/release/21302986-The-Polyphonic-Spree-Afflatus) |
 | Label          | Good Records Recordings |
 | Format         | LP, Album, Ltd, Neo |
 | Catalog Number | GRR104LP |
+
+Limited to 1000 copies  Recorded by David Wilson at The Triplex Dallas, TX March 2020 *except Mixed by Justin Cortelyou
 

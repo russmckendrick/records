@@ -1,14 +1,17 @@
 ---
 title: "Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds "
-album_artist: "Izzy Stradlin And The Ju Ju Hounds"
-album_title: "Izzy Stradlin And The Ju Ju Hounds "
+artist: "Izzy Stradlin And The Ju Ju Hounds"
+album_name: "Izzy Stradlin And The Ju Ju Hounds "
 date: 2020-05-13
 release_id: "8536055"
 slug: "izzy-stradlin-and-the-ju-ju-hounds-8536055"
+hideSummary: true
 cover:
     image: "izzy-stradlin-and-the-ju-ju-hounds-8536055.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Izzy Stradlin And The Ju Ju Hounds  by Izzy Stradlin And The Ju Ju Hounds"
+    caption: "Izzy Stradlin And The Ju Ju Hounds  by Izzy Stradlin And The Ju Ju Hounds"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Izzy Stradlin And The Ju Ju Hounds ‎– Somebody Knockin'](https://www.youtube.com/watch?v=Th39YEYA-uY)
 - [Izzy Stradlin And The Ju Ju Hounds    Come On Now Inside](https://www.youtube.com/watch?v=ggljxdB_MBs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds ](https://www.discogs.com/release/8536055) |
+| Release Year   | 2015 |
+| Discogs Link   | [Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds ](https://www.discogs.com/release/8536055-Izzy-Stradlin-And-The-Ju-Ju-Hounds-Izzy-Stradlin-And-The-Ju-Ju-Hounds-) |
 | Label          | Geffen Records, Music On Vinyl |
 | Format         | LP, Album, RE |
 | Catalog Number | MOVLP1386 |
+
+180g black vinyl 
 

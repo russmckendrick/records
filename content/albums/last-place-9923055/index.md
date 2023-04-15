@@ -1,14 +1,17 @@
 ---
 title: "Grandaddy - Last Place"
-album_artist: "Grandaddy"
-album_title: "Last Place"
+artist: "Grandaddy"
+album_name: "Last Place"
 date: 2017-03-04
 release_id: "9923055"
 slug: "last-place-9923055"
+hideSummary: true
 cover:
     image: "last-place-9923055.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Last Place by Grandaddy"
+    caption: "Last Place by Grandaddy"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Grandaddy - A Lost Machine](https://www.youtube.com/watch?v=0Z_ldxXaHIc)
 - [Grandaddy - Songbird Son](https://www.youtube.com/watch?v=AKZzOBsBoLc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Grandaddy - Last Place](https://www.discogs.com/release/9923055) |
+| Release Year   | 2017 |
+| Discogs Link   | [Grandaddy - Last Place](https://www.discogs.com/release/9923055-Grandaddy-Last-Place) |
 | Label          | 30th Century Records |
 | Format         | LP, Album, Ltd, Tra |
 | Catalog Number | 88985 39875 1 |
+
+2000 copies available exclusively through Rough Trade.
 

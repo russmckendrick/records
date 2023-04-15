@@ -1,14 +1,17 @@
 ---
 title: "Lamb - Lamb"
-album_artist: "Lamb"
-album_title: "Lamb"
+artist: "Lamb"
+album_name: "Lamb"
 date: 2016-11-22
 release_id: "5473403"
 slug: "lamb-5473403"
+hideSummary: true
 cover:
     image: "lamb-5473403.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Lamb by Lamb"
+    caption: "Lamb by Lamb"
+genres: ["Electronic"]
+styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Lamb - Feela part 1](https://www.youtube.com/watch?v=glR2hFrq4ks)
 - [Lamb - Cotton Wool (Fila Brazillia mix)](https://www.youtube.com/watch?v=OcJNGptYif8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Lamb - Lamb](https://www.discogs.com/release/5473403) |
+| Release Year   | 2014 |
+| Discogs Link   | [Lamb - Lamb](https://www.discogs.com/release/5473403-Lamb-Lamb) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | MOVLP854 |
+
+Standard Black Vinyl release.  180 gram audiophile vinyl. Insert with exclusive liner notes written by Lou Rhodes. Includes 3 bonus tracks.
 

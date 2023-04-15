@@ -1,14 +1,17 @@
 ---
 title: "Hothouse Flowers - People"
-album_artist: "Hothouse Flowers"
-album_title: "People"
+artist: "Hothouse Flowers"
+album_name: "People"
 date: 2015-12-09
 release_id: "1163794"
 slug: "people-1163794"
+hideSummary: true
 cover:
     image: "people-1163794.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "People by Hothouse Flowers"
+    caption: "People by Hothouse Flowers"
+genres: ["Rock"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Hothouse Flowers The Older We Get](https://www.youtube.com/watch?v=h3oWuIEAGaQ)
 - [Hothouse Flowers - Don't Go (Official Video)](https://www.youtube.com/watch?v=HDEY1UeIsr4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Hothouse Flowers - People](https://www.discogs.com/release/1163794) |
+| Release Year   | 1988 |
+| Discogs Link   | [Hothouse Flowers - People](https://www.discogs.com/release/1163794-Hothouse-Flowers-People) |
 | Label          | London Records, London Records, London Records, London Records |
 | Format         | LP, Album |
 | Catalog Number | LON LP 58, LONLP 58, 8281011, 828 101-1 |
+
+Dedicated to Eamon and Terri with love. Issued with a custom inner sleeve containing lyrics, credits and images.
 

@@ -1,14 +1,17 @@
 ---
 title: "Sel Balamir - Swell"
-album_artist: "Sel Balamir"
-album_title: "Swell"
+artist: "Sel Balamir"
+album_name: "Swell"
 date: 2022-04-01
 release_id: "22720439"
 slug: "swell-22720439"
+hideSummary: true
 cover:
     image: "swell-22720439.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Swell by Sel Balamir"
+    caption: "Swell by Sel Balamir"
+genres: ["Rock"]
+styles: ["Prog Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -21,13 +24,16 @@ hideSummary: true
 - [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
 - [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Sel Balamir - Swell](https://www.discogs.com/release/22720439) |
+| Release Year   | 2022 |
+| Discogs Link   | [Sel Balamir - Swell](https://www.discogs.com/release/22720439-Sel-Balamir-Swell) |
 | Label          | Rockosmos |
 | Format         | LP, Album, Ltd, FX |
 | Catalog Number | ROK151 |
+
+Limited 180 FX Vinyl. Track timings not listed.
 

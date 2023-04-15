@@ -1,14 +1,17 @@
 ---
 title: "EYE (16) - Vision And Ageless Light"
-album_artist: "EYE (16)"
-album_title: "Vision And Ageless Light"
+artist: "EYE (16)"
+album_name: "Vision And Ageless Light"
 date: 2017-03-18
 release_id: "9522870"
 slug: "vision-and-ageless-light-9522870"
+hideSummary: true
 cover:
     image: "vision-and-ageless-light-9522870.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vision And Ageless Light by EYE (16)"
+    caption: "Vision And Ageless Light by EYE (16)"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Kill the Slavemaster](https://www.youtube.com/watch?v=s8BqdpTiOkI)
 - [As Sure as the Sun](https://www.youtube.com/watch?v=PSMuvO9Pj-s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [EYE (16) - Vision And Ageless Light](https://www.discogs.com/release/9522870) |
+| Release Year   | 2016 |
+| Discogs Link   | [EYE (16) - Vision And Ageless Light](https://www.discogs.com/release/9522870-EYE-Vision-And-Ageless-Light) |
 | Label          | The Laser's Edge |
 | Format         | LP, Album, Cle |
 | Catalog Number | LE1077LP |
+
+Side two was captured at Relay Recording. All other recording and mixing at Backroads Recording. Mastered at Lacquer Channel Mastering.  All compositions © 2016 EYE ℗ The Laser's Edge
 

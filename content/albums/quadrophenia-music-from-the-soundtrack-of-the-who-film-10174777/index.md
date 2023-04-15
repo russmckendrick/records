@@ -1,14 +1,17 @@
 ---
 title: "Various - Quadrophenia (Music From The Soundtrack Of The Who Film)"
-album_artist: "Various"
-album_title: "Quadrophenia (Music From The Soundtrack Of The Who Film)"
+artist: "Various"
+album_name: "Quadrophenia (Music From The Soundtrack Of The Who Film)"
 date: 2017-06-06
 release_id: "10174777"
 slug: "quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777"
+hideSummary: true
 cover:
     image: "quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777.jpg"
-tags: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Quadrophenia (Music From The Soundtrack Of The Who Film) by Various"
+    caption: "Quadrophenia (Music From The Soundtrack Of The Who Film) by Various"
+genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
+styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues", "Mod"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [The Ronettes - Be My Baby - live [HQ]](https://www.youtube.com/watch?v=jrVbawRPO7I)
 - [The Crystals - Da Doo Ron Ron - new stereo remix versions](https://www.youtube.com/watch?v=v-qqi7-Q19k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Quadrophenia (Music From The Soundtrack Of The Who Film)](https://www.discogs.com/release/10174777) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Quadrophenia (Music From The Soundtrack Of The Who Film)](https://www.discogs.com/release/10174777-Various-Quadrophenia-Music-From-The-Soundtrack-Of-The-Who-Film) |
 | Label          | Polydor |
 | Format         | 2xLP, RSD, Comp, Ltd, RE, Gre |
 | Catalog Number | 5732868 |
+
+RSD 2017 Re-issue on 180 gram "Parka Green" coloured vinyl.  Comes in gatefold sleeve.
 

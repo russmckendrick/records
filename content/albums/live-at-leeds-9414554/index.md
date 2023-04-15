@@ -1,14 +1,17 @@
 ---
 title: "The Who - Live At Leeds"
-album_artist: "The Who"
-album_title: "Live At Leeds"
+artist: "The Who"
+album_name: "Live At Leeds"
 date: 2016-11-30
 release_id: "9414554"
 slug: "live-at-leeds-9414554"
+hideSummary: true
 cover:
     image: "live-at-leeds-9414554.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At Leeds by The Who"
+    caption: "Live At Leeds by The Who"
+genres: ["Rock"]
+styles: ["Blues Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -46,16 +49,17 @@ hideSummary: true
 32. My Generation (15:24)
 33. Magic Bus (7:54)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Who - Live At Leeds](https://www.discogs.com/release/9414554) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Who - Live At Leeds](https://www.discogs.com/release/9414554-The-Who-Live-At-Leeds) |
 | Label          | Polydor, Universal Music Group International |
 | Format         | 3xLP, Album, Dlx, RE, RM, 180 |
 | Catalog Number | 0600753698075 |
+
+Back To Black half-speed mastering reissue of the full show.  Triple gatefold sleeve that comes with :  - a download card  - a "Mastered at Abbey Road Studios" black OBI - a half-speed mastering certificate - 3 printed inner sleeves  No label edge credits on sides 2, 4 & 6. Sides 1, 3 & 5 have credits.  ℗ 2016 Polydor Ltd. (UK) © 2016 Polydor Ltd. (UK)  Runout details: Everything is laser etched except hand etched "MILES. ABBEY ROAD ½ SPEED.".
 

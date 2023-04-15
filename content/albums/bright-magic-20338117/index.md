@@ -1,14 +1,17 @@
 ---
 title: "Public Service Broadcasting - Bright Magic"
-album_artist: "Public Service Broadcasting"
-album_title: "Bright Magic"
+artist: "Public Service Broadcasting"
+album_name: "Bright Magic"
 date: 2021-09-24
 release_id: "20338117"
 slug: "bright-magic-20338117"
+hideSummary: true
 cover:
     image: "bright-magic-20338117.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Bright Magic by Public Service Broadcasting"
+    caption: "Bright Magic by Public Service Broadcasting"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Public Service Broadcasting - Lichtspiel III: Symphonie Diagonale](https://www.youtube.com/watch?v=hbLGFrWid-w)
 - [Ich und die Stadt](https://www.youtube.com/watch?v=GQ2tZjtfOgc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Public Service Broadcasting - Bright Magic](https://www.discogs.com/release/20338117) |
+| Release Year   | 2021 |
+| Discogs Link   | [Public Service Broadcasting - Bright Magic](https://www.discogs.com/release/20338117-Public-Service-Broadcasting-Bright-Magic) |
 | Label          | Play It Again Sam |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | PIASR1230LPX |
+
+Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX  Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print  ℗ & © 2021 Test Card Recordings Released under exclusive license to Play It Again Sam.  Made in The EU.
 

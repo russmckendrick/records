@@ -1,14 +1,17 @@
 ---
 title: "Senser - Stacked Up"
-album_artist: "Senser"
-album_title: "Stacked Up"
+artist: "Senser"
+album_name: "Stacked Up"
 date: 2015-12-04
 release_id: "1723235"
 slug: "stacked-up-1723235"
+hideSummary: true
 cover:
     image: "stacked-up-1723235.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Stacked Up by Senser"
+    caption: "Stacked Up by Senser"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Breaks", "Electro"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Senser - Stacked Up](https://www.discogs.com/release/1723235) |
+| Release Year   | 1994 |
+| Discogs Link   | [Senser - Stacked Up](https://www.discogs.com/release/1723235-Senser-Stacked-Up) |
 | Label          | Ultimate, Ultimate |
 | Format         | 2xLP, Album, Ltd, Num, Yel |
 | Catalog Number | topp lp008s, topp lp 008 |
+
+Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold Sleeve with lyrics on inside. Some with merchandise insert. 
 

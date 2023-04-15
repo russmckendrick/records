@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Western Stars"
-album_artist: "Bruce Springsteen"
-album_title: "Western Stars"
+artist: "Bruce Springsteen"
+album_name: "Western Stars"
 date: 2019-06-17
 release_id: "13744936"
 slug: "western-stars-13744936"
+hideSummary: true
 cover:
     image: "western-stars-13744936.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Western Stars by Bruce Springsteen"
+    caption: "Western Stars by Bruce Springsteen"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk Rock", "Country", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
 - [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13744936) |
+| Release Year   | 2019 |
+| Discogs Link   | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13744936-Bruce-Springsteen-Western-Stars) |
 | Label          | Columbia, Sony Music |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | 19075960331 |
+
+Limited edition blue colored vinyl (light blue with dark blue and white splatters). Includes free digital download 19075960331 S2  Gatefold sleeve + 2 inner sleeves with lyrics and credits  On back cover & labels: © & ℗ 2019 Bruce Springsteen Made in the EU  On inner sleeve: Recorded at Stone Hill Studio, NJ Additional recording at: Ocean Studio (Burbank, CA) / Very Loud House (Woodland Hills, CA) / Avatar Studios (New York, NY) / Sage And Sound (Hollywood, CA) / Stone Hill Studio, NJ Mixed at Electric Lady Studios (New York, NY) Mastered at Gateway Mastering (Portland, ME)  On runouts: All is etched except GZ Media number 
 

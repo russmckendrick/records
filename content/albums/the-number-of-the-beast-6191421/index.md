@@ -1,14 +1,17 @@
 ---
 title: "Iron Maiden - The Number Of The Beast"
-album_artist: "Iron Maiden"
-album_title: "The Number Of The Beast"
+artist: "Iron Maiden"
+album_name: "The Number Of The Beast"
 date: 2016-06-27
 release_id: "6191421"
 slug: "the-number-of-the-beast-6191421"
+hideSummary: true
 cover:
     image: "the-number-of-the-beast-6191421.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Number Of The Beast by Iron Maiden"
+    caption: "The Number Of The Beast by Iron Maiden"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -21,16 +24,17 @@ hideSummary: true
 7. Gangland (3:46)
 8. Hallowed Be Thy Name (7:08)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421) |
+| Release Year   | 2014 |
+| Discogs Link   | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421-Iron-Maiden-The-Number-Of-The-Beast) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 2564625240 |
+
+Printed in EU.  Glossy cover and printed inner sleeve with photos, lyrics & credits.
 

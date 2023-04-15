@@ -1,14 +1,17 @@
 ---
 title: "Nelson (4) - After The Rain"
-album_artist: "Nelson (4)"
-album_title: "After The Rain"
+artist: "Nelson (4)"
+album_name: "After The Rain"
 date: 2017-07-11
 release_id: "1841300"
 slug: "after-the-rain-1841300"
+hideSummary: true
 cover:
     image: "after-the-rain-1841300.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "After The Rain by Nelson (4)"
+    caption: "After The Rain by Nelson (4)"
+genres: ["Rock"]
+styles: ["Hard Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Nelson – (Can't Live Without Your) Love And Affection](https://www.youtube.com/watch?v=sYo7Pu7XPSU)
 - [Nelson - (Can't Live Without Your) Love And Affection [Official Video]](https://www.youtube.com/watch?v=x1W6-ErrHls)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Nelson (4) - After The Rain](https://www.discogs.com/release/1841300) |
+| Release Year   | 1990 |
+| Discogs Link   | [Nelson (4) - After The Rain](https://www.discogs.com/release/1841300-Nelson-After-The-Rain) |
 | Label          | DGC, DGC |
 | Format         | LP, Album |
 | Catalog Number | 7599-24290-1, WX 397 |
+
+Made in Germany
 

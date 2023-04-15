@@ -1,14 +1,17 @@
 ---
 title: "A Flock Of Seagulls - A Flock Of Seagulls"
-album_artist: "A Flock Of Seagulls"
-album_title: "A Flock Of Seagulls"
+artist: "A Flock Of Seagulls"
+album_name: "A Flock Of Seagulls"
 date: 2023-02-18
 release_id: "26056165"
 slug: "a-flock-of-seagulls-26056165"
+hideSummary: true
 cover:
     image: "a-flock-of-seagulls-26056165.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "A Flock Of Seagulls by A Flock Of Seagulls"
+    caption: "A Flock Of Seagulls by A Flock Of Seagulls"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [A Flock Of Seagulls - Messages](https://www.youtube.com/watch?v=ZgB1fd07rfs)
 - [A Flock Of Seagulls - You Can Run](https://www.youtube.com/watch?v=T1K5fMKlCeI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [A Flock Of Seagulls - A Flock Of Seagulls](https://www.discogs.com/release/26056165) |
+| Release Year   | 2023 |
+| Discogs Link   | [A Flock Of Seagulls - A Flock Of Seagulls](https://www.discogs.com/release/26056165-A-Flock-Of-Seagulls-A-Flock-Of-Seagulls) |
 | Label          | BMG |
 | Format         | LP, Album, Ltd, RE, RM, Ora |
 | Catalog Number | BMGCAT588CLP |
+
+Manufactured in Ireland. Hype sticker on shrink wrap. 
 

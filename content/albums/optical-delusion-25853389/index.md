@@ -1,14 +1,17 @@
 ---
 title: "Orbital - Optical Delusion"
-album_artist: "Orbital"
-album_title: "Optical Delusion"
+artist: "Orbital"
+album_name: "Optical Delusion"
 date: 2023-02-20
 release_id: "25853389"
 slug: "optical-delusion-25853389"
+hideSummary: true
 cover:
     image: "optical-delusion-25853389.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Optical Delusion by Orbital"
+    caption: "Optical Delusion by Orbital"
+genres: ["Electronic"]
+styles: ["Techno"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [What a Surprise](https://www.youtube.com/watch?v=Lq8PEoEq8Y8)
 - [Moon Princess](https://www.youtube.com/watch?v=74BoaOdnEqA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Orbital - Optical Delusion](https://www.discogs.com/release/25853389) |
+| Release Year   | 2023 |
+| Discogs Link   | [Orbital - Optical Delusion](https://www.discogs.com/release/25853389-Orbital-Optical-Delusion) |
 | Label          | London Records, Orbital Recordings |
 | Format         | 2xLP, Album, Ltd, Whi |
 | Catalog Number | LMS5521861 |
+
+
 

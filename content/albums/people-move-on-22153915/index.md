@@ -1,14 +1,17 @@
 ---
 title: "Bernard Butler - People Move On"
-album_artist: "Bernard Butler"
-album_title: "People Move On"
+artist: "Bernard Butler"
+album_name: "People Move On"
 date: 2022-08-08
 release_id: "22153915"
 slug: "people-move-on-22153915"
+hideSummary: true
 cover:
     image: "people-move-on-22153915.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "People Move On by Bernard Butler"
+    caption: "People Move On by Bernard Butler"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Bernard Butler - Woman I know](https://www.youtube.com/watch?v=kOICJ_-yXe0)
 - [YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.](https://www.youtube.com/watch?v=yeQUVyYiJKU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Bernard Butler - People Move On](https://www.discogs.com/release/22153915) |
+| Release Year   | 2022 |
+| Discogs Link   | [Bernard Butler - People Move On](https://www.discogs.com/release/22153915-Bernard-Butler-People-Move-On) |
 | Label          | Demon Records |
 | Format         | 2xLP, Album, Ltd, 202 |
 | Catalog Number | DEMREC943 |
+
+This version has re-recorded vocals and new guitar overdubs recorded in 2021.   Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X).
 

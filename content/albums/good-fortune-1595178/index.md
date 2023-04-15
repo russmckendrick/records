@@ -1,14 +1,17 @@
 ---
 title: "Airborn Audio - Good Fortune"
-album_artist: "Airborn Audio"
-album_title: "Good Fortune"
+artist: "Airborn Audio"
+album_name: "Good Fortune"
 date: 2020-08-01
 release_id: "1595178"
 slug: "good-fortune-1595178"
+hideSummary: true
 cover:
     image: "good-fortune-1595178.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "Good Fortune by Airborn Audio"
+    caption: "Good Fortune by Airborn Audio"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Abstract", "Experimental"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Airborn Audio | House Of Mirrors (Edit) 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
 - [Airborn Audio - This Year (Unofficial Music Video)](https://www.youtube.com/watch?v=wkUzklrqM4o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2004 |
-| Discogs Link   | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178) |
+| Release Year   | 2004 |
+| Discogs Link   | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178-Airborn-Audio-Good-Fortune) |
 | Label          | Ninja Tune |
 | Format         | LP, Album |
 | Catalog Number | ZEN 95 |
+
+Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios. Printed in Canada.  Comes with an 12" photography (photocopy). 
 

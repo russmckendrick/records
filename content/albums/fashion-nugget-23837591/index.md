@@ -1,14 +1,17 @@
 ---
 title: "Cake - Fashion Nugget"
-album_artist: "Cake"
-album_title: "Fashion Nugget"
+artist: "Cake"
+album_name: "Fashion Nugget"
 date: 2022-08-11
 release_id: "23837591"
 slug: "fashion-nugget-23837591"
+hideSummary: true
 cover:
     image: "fashion-nugget-23837591.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fashion Nugget by Cake"
+    caption: "Fashion Nugget by Cake"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Cake-Italian Leather Sofa from Fashion Nugget](https://www.youtube.com/watch?v=DuVSvSbnaUg)
 - [Cake-Sad Songs and Waltzes from Fashion Nugget](https://www.youtube.com/watch?v=UK-DcAcQ-7Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Cake - Fashion Nugget](https://www.discogs.com/release/23837591) |
+| Release Year   | 2022 |
+| Discogs Link   | [Cake - Fashion Nugget](https://www.discogs.com/release/23837591-Cake-Fashion-Nugget) |
 | Label          | Upbeat Records (2), Sony Music |
 | Format         | LP, Album, Ltd, M/Print, RE, RM, Red |
 | Catalog Number | 19439966461, 19439977291S1 |
+
+Comes with printed inner sleeve. Track B1 "Stickshifts And Safetybelts" is misspelled on cover reverse as "Stickshifts And Saftybelts".
 

@@ -1,14 +1,17 @@
 ---
 title: "The Fierce & The Dead - The Euphoric"
-album_artist: "The Fierce & The Dead"
-album_title: "The Euphoric"
+artist: "The Fierce & The Dead"
+album_name: "The Euphoric"
 date: 2018-05-17
 release_id: "12012650"
 slug: "the-euphoric-12012650"
+hideSummary: true
 cover:
     image: "the-euphoric-12012650.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Euphoric by The Fierce & The Dead"
+    caption: "The Euphoric by The Fierce & The Dead"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. 48K (2:38)
 9. Parts 7 & 8 (6:47)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Fierce & The Dead - The Euphoric](https://www.discogs.com/release/12012650) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Fierce & The Dead - The Euphoric](https://www.discogs.com/release/12012650-The-Fierce-The-Dead-The-Euphoric) |
 | Label          | Bad Elephant Music |
 | Format         | LP, Album |
 | Catalog Number | BEM058 |
+
+The track list on the back cover does not indicate sides. Parts 7 & 8 are listed as individual tracks but they are actually one track. Times and the title for the index track are taken from the Bandcamp listing.   'The Euphoric' on 12" vinyl LP in a gatefold sleeve, plus a limited edition bonus CD featuring unreleased live tracks and demos, and an print of the album artwork.  The bonus CD and print are both signed and numbered, and in limited editions of 500. 
 

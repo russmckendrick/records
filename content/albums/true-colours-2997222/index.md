@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - True Colours"
-album_artist: "Split Enz"
-album_title: "True Colours"
+artist: "Split Enz"
+album_name: "True Colours"
 date: 2016-01-29
 release_id: "2997222"
 slug: "true-colours-2997222"
+hideSummary: true
 cover:
     image: "true-colours-2997222.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "True Colours by Split Enz"
+    caption: "True Colours by Split Enz"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
 - [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/2997222) |
+| Release Year   | 1980 |
+| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/2997222-Split-Enz-True-Colours) |
 | Label          | A&M Records |
 | Format         | LP, Album, Etch, Vio |
 | Catalog Number | AMLH 68422 |
+
+Released with a special inner sleeve. Silver hype sticker on sleeve "Limited Edition Laser-Etched Disc AMLH 64822"  Holographic etched vinyl.  Recorded at Armstrongs, Melbourne, Australia. A Boomerang production. © 1980 A&M Records Ltd. ℗ 1979 Mushroom Records Pty. Ltd. Australia. 
 

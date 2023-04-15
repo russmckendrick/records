@@ -1,14 +1,17 @@
 ---
 title: "The Wonder Stuff - Never Loved Elvis"
-album_artist: "The Wonder Stuff"
-album_title: "Never Loved Elvis"
+artist: "The Wonder Stuff"
+album_name: "Never Loved Elvis"
 date: 2019-01-12
 release_id: "566167"
 slug: "never-loved-elvis-566167"
+hideSummary: true
 cover:
     image: "never-loved-elvis-566167.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Never Loved Elvis by The Wonder Stuff"
+    caption: "Never Loved Elvis by The Wonder Stuff"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Wonderstuff: Size of a cow](https://www.youtube.com/watch?v=t1egoyuCrwM)
 - [THE WONDER STUFF - Mission Drive : Live(1991)](https://www.youtube.com/watch?v=V4NW5S1UTPQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [The Wonder Stuff - Never Loved Elvis](https://www.discogs.com/release/566167) |
+| Release Year   | 1991 |
+| Discogs Link   | [The Wonder Stuff - Never Loved Elvis](https://www.discogs.com/release/566167-The-Wonder-Stuff-Never-Loved-Elvis) |
 | Label          | The Far Out Recording Company, Polydor |
 | Format         | LP, Album |
 | Catalog Number | 847252-1 |
+
+Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	 Comes with printed inner sleeve. Release date taken from 'Polydor News' press release.
 

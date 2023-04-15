@@ -1,14 +1,17 @@
 ---
 title: "Bob Mould - Sunshine Rock"
-album_artist: "Bob Mould"
-album_title: "Sunshine Rock"
+artist: "Bob Mould"
+album_name: "Sunshine Rock"
 date: 2019-02-08
 release_id: "13162648"
 slug: "sunshine-rock-13162648"
+hideSummary: true
 cover:
     image: "sunshine-rock-13162648.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sunshine Rock by Bob Mould"
+    caption: "Sunshine Rock by Bob Mould"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Bob Mould - Lost Faith (Official Music Video)](https://www.youtube.com/watch?v=k5F-aj171QM)
 - [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Bob Mould - Sunshine Rock](https://www.discogs.com/release/13162648) |
+| Release Year   | 2019 |
+| Discogs Link   | [Bob Mould - Sunshine Rock](https://www.discogs.com/release/13162648-Bob-Mould-Sunshine-Rock) |
 | Label          | Merge Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | MRG650 |
+
+
 

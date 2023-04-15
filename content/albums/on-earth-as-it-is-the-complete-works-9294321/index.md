@@ -1,14 +1,17 @@
 ---
 title: "Mother Love Bone - On Earth As It Is: The Complete Works"
-album_artist: "Mother Love Bone"
-album_title: "On Earth As It Is: The Complete Works"
+artist: "Mother Love Bone"
+album_name: "On Earth As It Is: The Complete Works"
 date: 2016-11-14
 release_id: "9294321"
 slug: "on-earth-as-it-is-the-complete-works-9294321"
+hideSummary: true
 cover:
     image: "on-earth-as-it-is-the-complete-works-9294321.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "On Earth As It Is: The Complete Works by Mother Love Bone"
+    caption: "On Earth As It Is: The Complete Works by Mother Love Bone"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Mother Love Bone - Chloe Dancer / Crown of Thorns](https://www.youtube.com/watch?v=lH0gnwtSEGI)
 - [Man Of Golden Words](https://www.youtube.com/watch?v=EM0wPIjmYbs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Mother Love Bone - On Earth As It Is: The Complete Works](https://www.discogs.com/release/9294321) |
+| Release Year   | 2016 |
+| Discogs Link   | [Mother Love Bone - On Earth As It Is: The Complete Works](https://www.discogs.com/release/9294321-Mother-Love-Bone-On-Earth-As-It-Is-The-Complete-Works) |
 | Label          | Monkeywrench Records, Stardog Records, Mercury, Republic Records |
 | Format         | 12\", EP, RE, RM + 2xLP, Album, RE, RM + Box, Comp |
 | Catalog Number | B0025317-01 |
+
+Set Includes:   Shine EP - remastered vinyl   Apple LP - remastered vinyl   24 page booklet - lyrics, credits, and rare photos. 12" x 12" Envelope containing photo prints, 24 page zine, fold out poster, stencil and more!   Vinyl set is packaged in a slipcase replicating a Mother Love Bone wall mural painted by Jeff Ament  A limited number of sets received also an "Happy Holidays greeting card" signed by each member of Mother Love Bone. "These cards were uncovered from the Mother Love Bone / Love Co. deep archives."
 

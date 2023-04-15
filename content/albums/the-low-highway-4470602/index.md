@@ -1,14 +1,17 @@
 ---
 title: "Steve Earle & The Dukes (And Duchesses) - The Low Highway"
-album_artist: "Steve Earle & The Dukes (And Duchesses)"
-album_title: "The Low Highway"
+artist: "Steve Earle & The Dukes (And Duchesses)"
+album_name: "The Low Highway"
 date: 2021-11-05
 release_id: "4470602"
 slug: "the-low-highway-4470602"
+hideSummary: true
 cover:
     image: "the-low-highway-4470602.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Low Highway by Steve Earle & The Dukes (And Duchesses)"
+    caption: "The Low Highway by Steve Earle & The Dukes (And Duchesses)"
+genres: ["Rock", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Steve Earle & The Dukes (& Duchesses) - Remember Me](https://www.youtube.com/watch?v=QRQZnhgVgC8)
 - [Steve Earle & The Dukes (& Duchesses) - Invisible [Official Music Video]](https://www.youtube.com/watch?v=w_AZmBT4wWI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Steve Earle & The Dukes (And Duchesses) - The Low Highway](https://www.discogs.com/release/4470602) |
+| Release Year   | 2013 |
+| Discogs Link   | [Steve Earle & The Dukes (And Duchesses) - The Low Highway](https://www.discogs.com/release/4470602-Steve-Earle-The-Dukes-And-Duchesses-The-Low-Highway) |
 | Label          | New West Records |
 | Format         | LP, Album |
 | Catalog Number | NW5073 |
+
+180 gram pressing. Lyrics on inner sleeve   Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee Additional mastering for vinyl at NRP - Nashville, Tennessee  © & ℗ 2013 New West Records, LLC All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI)
 

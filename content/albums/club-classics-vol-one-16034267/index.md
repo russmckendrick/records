@@ -1,14 +1,17 @@
 ---
 title: "Soul II Soul - Club Classics Vol. One"
-album_artist: "Soul II Soul"
-album_title: "Club Classics Vol. One"
+artist: "Soul II Soul"
+album_name: "Club Classics Vol. One"
 date: 2020-10-16
 release_id: "16034267"
 slug: "club-classics-vol-one-16034267"
+hideSummary: true
 cover:
     image: "club-classics-vol-one-16034267.jpg"
-tags: ["Hip Hop", "Jazz", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Club Classics Vol. One by Soul II Soul"
+    caption: "Club Classics Vol. One by Soul II Soul"
+genres: ["Hip Hop", "Jazz", "Funk / Soul", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Soul II Soul - Jazzie's Groove](https://www.youtube.com/watch?v=_FtrDBpl0WI)
 - [Happiness (Dub)](https://www.youtube.com/watch?v=X_W2zyhwzMg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Soul II Soul - Club Classics Vol. One](https://www.discogs.com/release/16034267) |
+| Release Year   | 2020 |
+| Discogs Link   | [Soul II Soul - Club Classics Vol. One](https://www.discogs.com/release/16034267-Soul-II-Soul-Club-Classics-Vol-One) |
 | Label          | 10 Records, 10 Records |
 | Format         | LP, Album, Ltd, RE, Gol |
 | Catalog Number | 3507526, 00602435075266 |
+
+National Album Day 2020 Release Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.  Catalogue number on sticker is: 3507526 Catalogue number on sleeve & labels is: 00602435075266  ℗ 1989 10 Records Ltd. © 2020 10 Records Ltd. Manufactured in the EU. Made in Germany.
 

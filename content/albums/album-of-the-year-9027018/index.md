@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - Album Of The Year"
-album_artist: "Faith No More"
-album_title: "Album Of The Year"
+artist: "Faith No More"
+album_name: "Album Of The Year"
 date: 2016-09-12
 release_id: "9027018"
 slug: "album-of-the-year-9027018"
+hideSummary: true
 cover:
     image: "album-of-the-year-9027018.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Album Of The Year by Faith No More"
+    caption: "Album Of The Year by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Home Sick Home](https://www.youtube.com/watch?v=6gRC-oZZEhg)
 - [Pristina](https://www.youtube.com/watch?v=of0cPCjfCAM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Faith No More - Album Of The Year](https://www.discogs.com/release/9027018) |
+| Release Year   | 2016 |
+| Discogs Link   | [Faith No More - Album Of The Year](https://www.discogs.com/release/9027018-Faith-No-More-Album-Of-The-Year) |
 | Label          | Slash Records, Rhino Records (2) |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | 0190295972967 |
+
+The record comes in a gatefold sleeve with liner notes and artwork printed on the inside. The inner sleeves are polythene lines plain black paper sleeves.  There are two stickers affixed to the shrink wrap. A parental advisory warning on the bottom right and a hype sticker at the top left that reads: "Double 180GM Vinyl Bonus LP features rare tracks & live versions New liner notes by Roddy Bottum Includes "Stripsearch" "Last Cup Of Sorrow" & "Ashes To Ashes" 0190295972967  Vinyl Collector Includes Download code for MP3 version of the album www.thisvinylcollector.com"  Inside gatefold: "Career Direction: Warren Etner [sic] and John Vassilou for W.E.M.  Recorded at Brilliant Studios, San Francisco, CA. Recorded at Razor's Edge, San Francisco, CA. Mixed at The Plant, Sausalito, CA, assisted by Paul Coppaglia. Mastered by Howie Weinberg at Masterdisk, New York, NY.   Reissue credits: Remastered by Geoff Pesche at Abbey Road Studios, London, June 2016."  Face labels: Though the face label reads that track A6 is 4:39, it is actually 3:54. Though the face label reads that track C4 is 4:13, it is actually 3:40.  "FNM Music ASCAP. Original sound recording made by Slash Records.  Face labels and rear sleeve: This reissue ℗ 2016 Slash Records, A Warner Music Group Company. © 2016 Slash Records, A Warner Music Group Company. All rights reserved. The copyright in this sound recording and artwork is owned by Slash Records, A Warner Music Group Company. Made in the E.U."
 

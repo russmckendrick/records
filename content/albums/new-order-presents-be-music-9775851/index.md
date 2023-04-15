@@ -1,14 +1,17 @@
 ---
 title: "Various - New Order Presents Be Music"
-album_artist: "Various"
-album_title: "New Order Presents Be Music"
+artist: "Various"
+album_name: "New Order Presents Be Music"
 date: 2017-02-22
 release_id: "9775851"
 slug: "new-order-presents-be-music-9775851"
+hideSummary: true
 cover:
     image: "new-order-presents-be-music-9775851.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "New Order Presents Be Music by Various"
+    caption: "New Order Presents Be Music by Various"
+genres: ["Electronic", "Rock", "Funk / Soul"]
+styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter [Stephen Morris Remix]" >}}
 - [Motherland](https://www.youtube.com/watch?v=oS9IUVolNwg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - New Order Presents Be Music](https://www.discogs.com/release/9775851) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - New Order Presents Be Music](https://www.discogs.com/release/9775851-Various-New-Order-Presents-Be-Music) |
 | Label          | Factory Benelux |
 | Format         | 2xLP, Comp, RM |
 | Catalog Number | FBN 60 |
+
+A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016. ℗ + © 2017 Factory Benelux. Printed & manufactured in Belgium.
 

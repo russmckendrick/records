@@ -1,14 +1,17 @@
 ---
 title: "Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
-album_artist: "Mick Fleetwood & Friends"
-album_title: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
+artist: "Mick Fleetwood & Friends"
+album_name: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
 date: 2021-05-03
 release_id: "18527902"
 slug: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902"
+hideSummary: true
 cover:
     image: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends"
+    caption: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends"
+genres: ["Rock", "Pop"]
+styles: ["Classic Rock", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="clf-JWLd8_Y" title="Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac](https://www.discogs.com/release/18527902) |
+| Release Year   | 2021 |
+| Discogs Link   | [Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac](https://www.discogs.com/release/18527902-Mick-Fleetwood-Friends-Celebrate-The-Music-Of-Peter-Green-And-The-Early-Years-Of-Fleetwood-Mac) |
 | Label          | BMG |
 | Format         | 4xLP, Album |
 | Catalog Number | BMGCAT454QLP |
+
+Widespine gatefold  
 

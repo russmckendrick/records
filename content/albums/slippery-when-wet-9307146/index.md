@@ -1,14 +1,17 @@
 ---
 title: "Bon Jovi - Slippery When Wet"
-album_artist: "Bon Jovi"
-album_title: "Slippery When Wet"
+artist: "Bon Jovi"
+album_name: "Slippery When Wet"
 date: 2021-06-22
 release_id: "9307146"
 slug: "slippery-when-wet-9307146"
+hideSummary: true
 cover:
     image: "slippery-when-wet-9307146.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Slippery When Wet by Bon Jovi"
+    caption: "Slippery When Wet by Bon Jovi"
+genres: ["Rock"]
+styles: ["Hard Rock", "Arena Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Bon Jovi - You Give Love A Bad Name (Official Music Video)](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
 - [Bon Jovi - Never Say Goodbye (Official Music Video)](https://www.youtube.com/watch?v=ifm00JEjSeo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Bon Jovi - Slippery When Wet](https://www.discogs.com/release/9307146) |
+| Release Year   | 2016 |
+| Discogs Link   | [Bon Jovi - Slippery When Wet](https://www.discogs.com/release/9307146-Bon-Jovi-Slippery-When-Wet) |
 | Label          | Mercury, Universal Music Group |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 06025 470 292-1 (8) |
+
+℗© 2016 Mercury Records Comes with lyric inner sleeve Includes download voucher. Made in the EU. 
 

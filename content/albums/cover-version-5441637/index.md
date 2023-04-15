@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - Cover Version"
-album_artist: "Steven Wilson"
-album_title: "Cover Version"
+artist: "Steven Wilson"
+album_name: "Cover Version"
 date: 2016-12-20
 release_id: "5441637"
 slug: "cover-version-5441637"
+hideSummary: true
 cover:
     image: "cover-version-5441637.jpg"
-tags: ["Electronic", "Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Cover Version by Steven Wilson"
+    caption: "Cover Version by Steven Wilson"
+genres: ["Electronic", "Rock", "Folk, World, & Country"]
+styles: ["Folk", "Ambient", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Steven Wilson - An End To An End/Cover Version VI](https://www.youtube.com/watch?v=_eVMIDd8NqE)
 - [Steven Wilson- Four Trees Down](https://www.youtube.com/watch?v=3mR8xXy8GFs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Steven Wilson - Cover Version](https://www.discogs.com/release/5441637) |
+| Release Year   | 2014 |
+| Discogs Link   | [Steven Wilson - Cover Version](https://www.discogs.com/release/5441637-Steven-Wilson-Cover-Version) |
 | Label          | Kscope |
 | Format         | 2xLP, Comp, 180 |
 | Catalog Number | KSCOPE858 |
+
+Gatefold sleeve and printed innersleeves. Tracks listed sequentially on rear cover.
 

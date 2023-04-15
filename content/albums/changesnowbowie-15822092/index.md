@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - Changesnowbowie"
-album_artist: "David Bowie"
-album_title: "Changesnowbowie"
+artist: "David Bowie"
+album_name: "Changesnowbowie"
 date: 2020-09-07
 release_id: "15822092"
 slug: "changesnowbowie-15822092"
+hideSummary: true
 cover:
     image: "changesnowbowie-15822092.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Changesnowbowie by David Bowie"
+    caption: "Changesnowbowie by David Bowie"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. Andy Warhol (2:33)
 9. Quicksand (4:47)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [David Bowie - Changesnowbowie](https://www.discogs.com/release/15822092) |
+| Release Year   | 2020 |
+| Discogs Link   | [David Bowie - Changesnowbowie](https://www.discogs.com/release/15822092-David-Bowie-Changesnowbowie) |
 | Label          | Parlophone, ISO Records |
 | Format         | LP, Album, RSD, Ltd |
 | Catalog Number | 0190295332747, CNBLP 2020 |
+
+Recorded and mixed in November 96 at Looking Glass Studios, NYC. Recorded for radio and broadcasted by the BBC on Bowie’s 50th birthday on January 8, 1997.  Record Store Day Exclusive 2020 (hype sticker bottom right hand corner). Some copies have a further hype sticker for the charity [l355868] in the bottom left corner. Limited to 5000 copies. RSD DROPS 2020 - August 29  ℗ © 2020 [l281591]  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”).  
 

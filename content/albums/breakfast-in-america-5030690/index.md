@@ -1,14 +1,17 @@
 ---
 title: "Supertramp - Breakfast In America"
-album_artist: "Supertramp"
-album_title: "Breakfast In America"
+artist: "Supertramp"
+album_name: "Breakfast In America"
 date: 2017-06-08
 release_id: "5030690"
 slug: "breakfast-in-america-5030690"
+hideSummary: true
 cover:
     image: "breakfast-in-america-5030690.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Breakfast In America by Supertramp"
+    caption: "Breakfast In America by Supertramp"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Supertramp - The Logical Song (Official Video)](https://www.youtube.com/watch?v=k4tdefi0Znc)
 - [Supertramp - Goodbye Stranger (Official Video)](https://www.youtube.com/watch?v=VoMwGjwhl5A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Supertramp - Breakfast In America](https://www.discogs.com/release/5030690) |
+| Release Year   | 2013 |
+| Discogs Link   | [Supertramp - Breakfast In America](https://www.discogs.com/release/5030690-Supertramp-Breakfast-In-America) |
 | Label          | A&M Records |
 | Format         | LP, Album, Pic, RE |
 | Catalog Number | 00600753454589 |
+
+On cover sticker: ℗ & © 2013 A&M Records On picture disc: ℗ & © 2013 A&M Record  Made in the EU
 

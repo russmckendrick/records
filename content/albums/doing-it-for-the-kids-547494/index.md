@@ -1,14 +1,17 @@
 ---
 title: "Various - Doing It For The Kids"
-album_artist: "Various"
-album_title: "Doing It For The Kids"
+artist: "Various"
+album_name: "Doing It For The Kids"
 date: 2016-11-16
 release_id: "547494"
 slug: "doing-it-for-the-kids-547494"
+hideSummary: true
 cover:
     image: "doing-it-for-the-kids-547494.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Doing It For The Kids by Various"
+    caption: "Doing It For The Kids by Various"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)
 - [Heidi Berry - Northshore Train](https://www.youtube.com/watch?v=VWh8Bi8d4h0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Various - Doing It For The Kids](https://www.discogs.com/release/547494) |
+| Release Year   | 1988 |
+| Discogs Link   | [Various - Doing It For The Kids](https://www.discogs.com/release/547494-Various-Doing-It-For-The-Kids) |
 | Label          | Creation Records |
 | Format         | LP, Comp |
 | Catalog Number | CRELP 037 |
+
+Sticker on front: "CRELP 037 'Doing It For The Kids' A 15 track compilation LP for the price of a 7" single. From Creation"  Top right corner of front sleeve has "CRELP 037 An L.P. for the price of a 7" single" printed in dark blue/grey.    This compilation ℗ and © 1988 Creation Records.  A1, A2, A4, A6, B2, B6, B8 published by Complete Music A3, A5, B1, B3 to B5, B7 unpublished A7 published by Rough Trade Music Ltd.  "This is a label of love.." - Alan McGee. August, '88.  An Alan McGee/Richard Green Extravaganza.  A Creation Records Product.  Manufactured and Distributed by the Cartel.  Made in England.    Distributed in Germany by Rough Trade Distribution (sticker on back cover) 
 

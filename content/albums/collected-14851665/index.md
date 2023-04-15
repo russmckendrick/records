@@ -1,14 +1,17 @@
 ---
 title: "Cat Stevens - Collected"
-album_artist: "Cat Stevens"
-album_title: "Collected"
+artist: "Cat Stevens"
+album_name: "Collected"
 date: 2020-02-27
 release_id: "14851665"
 slug: "collected-14851665"
+hideSummary: true
 cover:
     image: "collected-14851665.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Collected by Cat Stevens"
+    caption: "Collected by Cat Stevens"
+genres: ["Rock", "Pop"]
+styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -39,16 +42,17 @@ hideSummary: true
 25. Child For A Day (4:22)
 26. Midday (Avoid City After Dark) (4:23)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Cat Stevens - Collected](https://www.discogs.com/release/14851665) |
+| Release Year   | 2020 |
+| Discogs Link   | [Cat Stevens - Collected](https://www.discogs.com/release/14851665-Cat-Stevens-Collected) |
 | Label          | Music On Vinyl, Universal Music |
 | Format         | 2xLP, Comp, Ltd, Num, RE, Pur |
 | Catalog Number | MOVLP1961 |
+
+Limited edition of 2.000 individually numbered copies on purple 180 gram audiophile vinyl. Released in a gatefold sleeve.  Made in the EU.
 

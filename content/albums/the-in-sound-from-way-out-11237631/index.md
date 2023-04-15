@@ -1,14 +1,17 @@
 ---
 title: "Beastie Boys - The In Sound From Way Out!"
-album_artist: "Beastie Boys"
-album_title: "The In Sound From Way Out!"
+artist: "Beastie Boys"
+album_name: "The In Sound From Way Out!"
 date: 2018-01-06
 release_id: "11237631"
 slug: "the-in-sound-from-way-out-11237631"
+hideSummary: true
 cover:
     image: "the-in-sound-from-way-out-11237631.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "The In Sound From Way Out! by Beastie Boys"
+    caption: "The In Sound From Way Out! by Beastie Boys"
+genres: ["Hip Hop"]
+styles: ["Instrumental"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [beastie boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=7pONzCsX_kM)
 - [beastie boys - Transitions - The In Sound From Way Out!](https://www.youtube.com/watch?v=P_u-N4E-JkU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Beastie Boys - The In Sound From Way Out!](https://www.discogs.com/release/11237631) |
+| Release Year   | 2017 |
+| Discogs Link   | [Beastie Boys - The In Sound From Way Out!](https://www.discogs.com/release/11237631-Beastie-Boys-The-In-Sound-From-Way-Out) |
 | Label          | Capitol Records, Grand Royal, Universal |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | 602557727920 |
+
+A Capitol Records release; (P) 1996 (C) 2017 Capitol Records, LLC. [...] Made in the EU. [...] Netherlands.  (at the bottom right of the back cover)
 

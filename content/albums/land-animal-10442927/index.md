@@ -1,14 +1,17 @@
 ---
 title: "Bent Knee - Land Animal"
-album_artist: "Bent Knee"
-album_title: "Land Animal"
+artist: "Bent Knee"
+album_name: "Land Animal"
 date: 2017-07-02
 release_id: "10442927"
 slug: "land-animal-10442927"
+hideSummary: true
 cover:
     image: "land-animal-10442927.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Land Animal by Bent Knee"
+    caption: "Land Animal by Bent Knee"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [These Hands](https://www.youtube.com/watch?v=vI6qzBpuGtQ)
 - [Belly Side Up](https://www.youtube.com/watch?v=3nEXBoos3Cg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Bent Knee - Land Animal](https://www.discogs.com/release/10442927) |
+| Release Year   | 2017 |
+| Discogs Link   | [Bent Knee - Land Animal](https://www.discogs.com/release/10442927-Bent-Knee-Land-Animal) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Album, Whi + CD, Album + Ltd |
 | Catalog Number | IOMLP 479, 88985421021 |
+
+White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve. Limited edition of 300 copies.  Bonus tracks listed on front sticker
 

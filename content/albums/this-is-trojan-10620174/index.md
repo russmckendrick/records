@@ -1,14 +1,17 @@
 ---
 title: "Various - This Is Trojan"
-album_artist: "Various"
-album_title: "This Is Trojan"
+artist: "Various"
+album_name: "This Is Trojan"
 date: 2017-07-29
 release_id: "10620174"
 slug: "this-is-trojan-10620174"
+hideSummary: true
 cover:
     image: "this-is-trojan-10620174.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "This Is Trojan by Various"
+    caption: "This Is Trojan by Various"
+genres: ["Reggae"]
+styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
 ## Tracklisting
@@ -76,16 +79,17 @@ hideSummary: true
 62. Moon Hop
 63. Reggae Merengue
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - This Is Trojan](https://www.discogs.com/release/10620174) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - This Is Trojan](https://www.discogs.com/release/10620174-Various-This-Is-Trojan) |
 | Label          | Trojan Records |
 | Format         | Box, Comp, Dlx + 2xLP, Comp, RP, 180 + 2xLP, Comp, |
 | Catalog Number | TROJANLP001X |
+
+Sticker on cover.  Made in the EU
 

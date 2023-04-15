@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - A Momentary Lapse Of Reason"
-album_artist: "Pink Floyd"
-album_title: "A Momentary Lapse Of Reason"
+artist: "Pink Floyd"
+album_name: "A Momentary Lapse Of Reason"
 date: 2017-01-20
 release_id: "9658639"
 slug: "a-momentary-lapse-of-reason-9658639"
+hideSummary: true
 cover:
     image: "a-momentary-lapse-of-reason-9658639.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Momentary Lapse Of Reason by Pink Floyd"
+    caption: "A Momentary Lapse Of Reason by Pink Floyd"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. A New Machine (Part 2)
 11. Sorrow
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Pink Floyd - A Momentary Lapse Of Reason](https://www.discogs.com/release/9658639) |
+| Release Year   | 2017 |
+| Discogs Link   | [Pink Floyd - A Momentary Lapse Of Reason](https://www.discogs.com/release/9658639-Pink-Floyd-A-Momentary-Lapse-Of-Reason) |
 | Label          | Pink Floyd Records, Pink Floyd Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP13, 0190295996949 |
+
+℗ 2016 Pink Floyd (1987) Ltd., marketed and distributed by Parlophone Records Ltd. © 2016 Pink Floyd (1987) Ltd. Made in the EU.  Original UK release date: September 1987  This album was recorded digitally, with the exception of the acoustic drums and bass guitar which were recorded analogue. Dolby SR noise reduction was used for mixing: mastered direct to metal.  Drums by Ludwig Drum Co. USA  Simmons Electronics UK and Paiste Cymbals  On sticker: "Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN" On cover (gatefold, bottom left): “Mastered by: James Guthrie, Joel Plante and Bernie Grundman. 2016” 
 

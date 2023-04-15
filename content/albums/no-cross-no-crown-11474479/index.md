@@ -1,14 +1,17 @@
 ---
 title: "Corrosion Of Conformity - No Cross No Crown"
-album_artist: "Corrosion Of Conformity"
-album_title: "No Cross No Crown"
+artist: "Corrosion Of Conformity"
+album_name: "No Cross No Crown"
 date: 2018-02-10
 release_id: "11474479"
 slug: "no-cross-no-crown-11474479"
+hideSummary: true
 cover:
     image: "no-cross-no-crown-11474479.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "No Cross No Crown by Corrosion Of Conformity"
+    caption: "No Cross No Crown by Corrosion Of Conformity"
+genres: ["Rock"]
+styles: ["Stoner Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [CORROSION OF CONFORMITY - The Luddite (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=TusKotRru_c)
 - [Corrosion Of Conformity — Little Man](https://www.youtube.com/watch?v=B0ubqmddD4s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Corrosion Of Conformity - No Cross No Crown](https://www.discogs.com/release/11474479) |
+| Release Year   | 2018 |
+| Discogs Link   | [Corrosion Of Conformity - No Cross No Crown](https://www.discogs.com/release/11474479-Corrosion-Of-Conformity-No-Cross-No-Crown) |
 | Label          | Nuclear Blast Entertainment, Nuclear Blast Entertainment |
 | Format         | 2xLP, Album |
 | Catalog Number | NE 4243-1, 27361 42431 |
+
+
 

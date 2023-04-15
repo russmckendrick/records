@@ -1,14 +1,17 @@
 ---
 title: "Skindred - Roots Rock Riot"
-album_artist: "Skindred"
-album_title: "Roots Rock Riot"
+artist: "Skindred"
+album_name: "Roots Rock Riot"
 date: 2021-06-04
 release_id: "18443227"
 slug: "roots-rock-riot-18443227"
+hideSummary: true
 cover:
     image: "roots-rock-riot-18443227.jpg"
-tags: ["Rock", "Reggae"]
-hideSummary: true
+    alt: "Roots Rock Riot by Skindred"
+    caption: "Roots Rock Riot by Skindred"
+genres: ["Rock", "Reggae"]
+styles: ["Nu Metal", "Ragga"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Rude Boy for Life](https://www.youtube.com/watch?v=u1borxceXS0)
 - [Roots Rock Riot](https://www.youtube.com/watch?v=fWQuZIzdXPU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Skindred - Roots Rock Riot](https://www.discogs.com/release/18443227) |
+| Release Year   | 2021 |
+| Discogs Link   | [Skindred - Roots Rock Riot](https://www.discogs.com/release/18443227-Skindred-Roots-Rock-Riot) |
 | Label          | Hassle Records |
 | Format         | LP, Album, RE, Tra + 7\", Single |
 | Catalog Number | HOFFSIDE004LP |
+
+MADE IN POLAND
 

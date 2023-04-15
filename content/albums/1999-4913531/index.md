@@ -1,14 +1,17 @@
 ---
 title: "Prince - 1999"
-album_artist: "Prince"
-album_title: "1999"
+artist: "Prince"
+album_name: "1999"
 date: 2016-07-01
 release_id: "4913531"
 slug: "1999-4913531"
+hideSummary: true
 cover:
     image: "1999-4913531.jpg"
-tags: ["Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "1999 by Prince"
+    caption: "1999 by Prince"
+genres: ["Funk / Soul", "Pop"]
+styles: ["Minneapolis Sound", "Funk"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [All the Critics Love U in New York](https://www.youtube.com/watch?v=6Rtjb1SMGVE)
 - [International Lover](https://www.youtube.com/watch?v=40sGh8zBD4U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Prince - 1999](https://www.discogs.com/release/4913531) |
+| Release Year   | 2011 |
+| Discogs Link   | [Prince - 1999](https://www.discogs.com/release/4913531-Prince-1999) |
 | Label          | Warner Bros. Records |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 8122-79777-5 |
+
+Cover: Mastered [...] at A&M Records Manufactured in the E.U.  Labels: Made in the E.U.  Similar editions: 1999 (Manufactured in the E.U.) [this release] [r=3139530] (Printed in U.S.A.)
 

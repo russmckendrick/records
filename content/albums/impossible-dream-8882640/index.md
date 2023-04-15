@@ -1,14 +1,17 @@
 ---
 title: "Haley Bonar - Impossible Dream"
-album_artist: "Haley Bonar"
-album_title: "Impossible Dream"
+artist: "Haley Bonar"
+album_name: "Impossible Dream"
 date: 2016-11-14
 release_id: "8882640"
 slug: "impossible-dream-8882640"
+hideSummary: true
 cover:
     image: "impossible-dream-8882640.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Impossible Dream by Haley Bonar"
+    caption: "Impossible Dream by Haley Bonar"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Haley Bonar - I Can Change](https://www.youtube.com/watch?v=4nMyJOqUvq4)
 - [Haley Bonar - Called You Queen](https://www.youtube.com/watch?v=cBUraU3HWzA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Haley Bonar - Impossible Dream](https://www.discogs.com/release/8882640) |
+| Release Year   | 2016 |
+| Discogs Link   | [Haley Bonar - Impossible Dream](https://www.discogs.com/release/8882640-Haley-Bonar-Impossible-Dream) |
 | Label          | Memphis Industries |
 | Format         | LP, Album, Ltd, Tea |
 | Catalog Number | MI0403LP |
+
+Gatefold sleeve. Standard white die-cut paper inner. Includes a download code on a sticker on the inner paper sleeve.  3 inch white circular sticker on shrink-wrap with Teal colour text reads: HALEY BONAR Impossible Dream LIMITED EDITION COLOUR VINYL INCLUDES DOWNLOAD CODE mi [= Memphis Industries logo]  ℗ & © 2016 Haley Bonar Under exclusive license to Memphis Industries
 

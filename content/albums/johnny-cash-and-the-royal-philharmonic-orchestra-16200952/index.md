@@ -1,14 +1,17 @@
 ---
 title: "Johnny Cash And The Royal Philharmonic Orchestra - Johnny Cash And The Royal Philharmonic Orchestra"
-album_artist: "Johnny Cash And The Royal Philharmonic Orchestra"
-album_title: "Johnny Cash And The Royal Philharmonic Orchestra"
+artist: "Johnny Cash And The Royal Philharmonic Orchestra"
+album_name: "Johnny Cash And The Royal Philharmonic Orchestra"
 date: 2020-12-26
 release_id: "16200952"
 slug: "johnny-cash-and-the-royal-philharmonic-orchestra-16200952"
+hideSummary: true
 cover:
     image: "johnny-cash-and-the-royal-philharmonic-orchestra-16200952.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash And The Royal Philharmonic Orchestra"
+    caption: "Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash And The Royal Philharmonic Orchestra"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Ring Of Fire
 12. Highwayman
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Johnny Cash And The Royal Philharmonic Orchestra - Johnny Cash And The Royal Philharmonic Orchestra](https://www.discogs.com/release/16200952) |
+| Release Year   | 2020 |
+| Discogs Link   | [Johnny Cash And The Royal Philharmonic Orchestra - Johnny Cash And The Royal Philharmonic Orchestra](https://www.discogs.com/release/16200952-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | LP, Album |
 | Catalog Number | 19075996061 |
+
+
 

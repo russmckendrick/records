@@ -1,14 +1,17 @@
 ---
 title: "Frank Black - Frank Black"
-album_artist: "Frank Black"
-album_title: "Frank Black"
+artist: "Frank Black"
+album_name: "Frank Black"
 date: 2019-04-13
 release_id: "13452156"
 slug: "frank-black-13452156"
+hideSummary: true
 cover:
     image: "frank-black-13452156.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Frank Black by Frank Black"
+    caption: "Frank Black by Frank Black"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Adda Lee   Frank Black](https://www.youtube.com/watch?v=btZ0kRsTkTQ)
 - [Don't Ya Rile 'Em - Frank Black](https://www.youtube.com/watch?v=GE9MNA_C-Ts)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Frank Black - Frank Black](https://www.discogs.com/release/13452156) |
+| Release Year   | 2019 |
+| Discogs Link   | [Frank Black - Frank Black](https://www.discogs.com/release/13452156-Frank-Black-Frank-Black) |
 | Label          | 4AD |
 | Format         | LP, Album, RSD, RE, Ora |
 | Catalog Number | CAD 3004 LPE |
+
+A Record Store Day 2019 release. Exclusive, quantity of 4,500. Includes a custom inner sleeve.  On back of jacket: Made in E.U. U.S. • 134 Grand Street, New York, N.Y. 10013 U.K. • 17-19 Alma Road, London SW18 1AA  Made in E.U on labels.  Recorded at The Clubhouse, Burbank, California. Mixed at The Plant Studios, Sausalito, Ca. Additional recording at Master Control Studio, Burbank, Ca. Mastered at Capitol Tower Mastering [...]  All songs [...] published by Spime Songs, BMI 1992 except "Hang On To Your Ego" [...] published by Rondor Music (London) Ltd.  ℗ & © 1993 4AD Ltd.  On the runouts: catalog numbers together with side indicators A and B are hand-etched, other numbers and MPO logo are laser etched.
 

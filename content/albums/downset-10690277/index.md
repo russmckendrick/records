@@ -1,14 +1,17 @@
 ---
 title: "Downset. - Downset."
-album_artist: "Downset."
-album_title: "Downset."
+artist: "Downset."
+album_name: "Downset."
 date: 2017-08-23
 release_id: "10690277"
 slug: "downset-10690277"
+hideSummary: true
 cover:
     image: "downset-10690277.jpg"
-tags: ["Hip Hop", "Rock"]
-hideSummary: true
+    alt: "Downset. by Downset."
+    caption: "Downset. by Downset."
+genres: ["Hip Hop", "Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [downset. - take 'em out](https://www.youtube.com/watch?v=u_RUlt7bjQE)
 - [Breed The Killer](https://www.youtube.com/watch?v=KJdRbiJvOxY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Downset. - Downset.](https://www.discogs.com/release/10690277) |
+| Release Year   | 2017 |
+| Discogs Link   | [Downset. - Downset.](https://www.discogs.com/release/10690277-Downset-Downset) |
 | Label          | Music On Vinyl, Mercury, Universal Music |
 | Format         | LP, Album, Ltd, Num, RE, Blu |
 | Catalog Number | MOVLP1883 |
+
+- 180 gram audiophile vinyl - Includes 4 page 12X12" insert with song lyrics & credits - Limited edition of 1.000 numbered copies on blue vinyl
 

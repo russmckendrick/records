@@ -1,14 +1,17 @@
 ---
 title: "PJ Harvey - Dry"
-album_artist: "PJ Harvey"
-album_title: "Dry"
+artist: "PJ Harvey"
+album_name: "Dry"
 date: 2020-07-31
 release_id: "15641824"
 slug: "dry-15641824"
+hideSummary: true
 cover:
     image: "dry-15641824.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dry by PJ Harvey"
+    caption: "Dry by PJ Harvey"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="ah9NdBKkEQY" title="PJ Harvey - Dress" >}}
 - [PJ Harvey - Sheela-Na-Gig](https://www.youtube.com/watch?v=Sjxr_No-yuY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [PJ Harvey - Dry](https://www.discogs.com/release/15641824) |
+| Release Year   | 2020 |
+| Discogs Link   | [PJ Harvey - Dry](https://www.discogs.com/release/15641824-P-J-Harvey-Dry) |
 | Label          | Too Pure |
 | Format         | LP, Album, RE, RM, Met |
 | Catalog Number | PURE 10 LP |
+
+On spine, printed: PURE 10 LP   P J HARVEY   DRY. With inner sleeve black with white lettering.  Includes download card.  Mastering consultant: Head Thank you Richard and Paul  The etching 'HLH' was made by Mike Hillier during cutting. It is his new-born daughter's initials.  Alternative version cut by Lex van Coeverden (runouts with etching "-LvC-") is here: [r17089623]
 

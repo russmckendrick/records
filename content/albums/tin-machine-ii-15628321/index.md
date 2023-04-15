@@ -1,14 +1,17 @@
 ---
 title: "Tin Machine - Tin Machine II"
-album_artist: "Tin Machine"
-album_title: "Tin Machine II"
+artist: "Tin Machine"
+album_name: "Tin Machine II"
 date: 2020-07-19
 release_id: "15628321"
 slug: "tin-machine-ii-15628321"
+hideSummary: true
 cover:
     image: "tin-machine-ii-15628321.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tin Machine II by Tin Machine"
+    caption: "Tin Machine II by Tin Machine"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Tin Machine - Baby Universal (music video version)](https://www.youtube.com/watch?v=E7q3FDDmqmA)
 - [Tin Machine - One Shot](https://www.youtube.com/watch?v=esu90pt3aTo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tin Machine - Tin Machine II](https://www.discogs.com/release/15628321) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tin Machine - Tin Machine II](https://www.discogs.com/release/15628321-Tin-Machine-Tin-Machine-II) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Sil |
 | Catalog Number | MOVLP2715 |
+
+Originally released ℗ © 1991 Tin Machine.  Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover. Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.  Track B7 is unlisted.  Includes insert.  Special spot varnished sleeve.  Hype sticker front cover in gold.
 

@@ -1,14 +1,17 @@
 ---
 title: "Victoria Williams - Swing The Statue!"
-album_artist: "Victoria Williams"
-album_title: "Swing The Statue!"
+artist: "Victoria Williams"
+album_name: "Swing The Statue!"
 date: 2019-01-19
 release_id: "2079943"
 slug: "swing-the-statue-2079943"
+hideSummary: true
 cover:
     image: "swing-the-statue-2079943.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Swing The Statue! by Victoria Williams"
+    caption: "Swing The Statue! by Victoria Williams"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Victoria Williams - Boogieman](https://www.youtube.com/watch?v=BtW8SV-9JLs)
 - [Victoria Williams - Wobbling](https://www.youtube.com/watch?v=GL8x-eNgPA4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Victoria Williams - Swing The Statue!](https://www.discogs.com/release/2079943) |
+| Release Year   | 1990 |
+| Discogs Link   | [Victoria Williams - Swing The Statue!](https://www.discogs.com/release/2079943-Victoria-Williams-Swing-The-Statue) |
 | Label          | Rough Trade |
 | Format         | LP, Album |
 | Catalog Number | Rough US 50 |
+
+Issued with illustrated inner sleeve that includes credits and release information.
 

@@ -1,14 +1,17 @@
 ---
 title: "Sleeper (2) - The It Girl"
-album_artist: "Sleeper (2)"
-album_title: "The It Girl"
+artist: "Sleeper (2)"
+album_name: "The It Girl"
 date: 2022-11-14
 release_id: "25128730"
 slug: "the-it-girl-25128730"
+hideSummary: true
 cover:
     image: "the-it-girl-25128730.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The It Girl by Sleeper (2)"
+    caption: "The It Girl by Sleeper (2)"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="GDqcXMQxMG0" title="Shrinkwrapped - Sleeper - The It Girl" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Sleeper (2) - The It Girl](https://www.discogs.com/release/25128730) |
+| Release Year   | 2022 |
+| Discogs Link   | [Sleeper (2) - The It Girl](https://www.discogs.com/release/25128730-Sleeper-The-It-Girl) |
 | Label          | Gorsky Records, Gorsky Records |
 | Format         | LP, Album, Ltd, RE, Red + CD, Comp |
 | Catalog Number | SLEEP29LP, SLEEP 29CDL |
+
+Package includes 12 track "The It Girl B Sides & Demos" CD (not available separately) and a double-sided 12"x12" print slipped inside the sleeve.  Pre-orders via band’s store included an additional one-sided signed print  The CD tracks are listed in the incorrect order on the sleeve. The correct order (confirmed by the CD text titles) is as above. The order on the sleeve is: 1. Paint Me 2. Pokerface 3. Package Holiday 4. Spies 5. She's A Sweetheart 6. Room At The Top 7. Sale Of The Century 8. Nice Guy Eddie 9. Good Luck Mr Gorsky 10. Dress Like Your Mother 11. Lamp Light On 12. Mr Blue  Timings taken from the CD. 
 

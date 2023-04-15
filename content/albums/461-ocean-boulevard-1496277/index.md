@@ -1,14 +1,17 @@
 ---
 title: "Eric Clapton - 461 Ocean Boulevard"
-album_artist: "Eric Clapton"
-album_title: "461 Ocean Boulevard"
+artist: "Eric Clapton"
+album_name: "461 Ocean Boulevard"
 date: 2020-08-02
 release_id: "1496277"
 slug: "461-ocean-boulevard-1496277"
+hideSummary: true
 cover:
     image: "461-ocean-boulevard-1496277.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "461 Ocean Boulevard by Eric Clapton"
+    caption: "461 Ocean Boulevard by Eric Clapton"
+genres: ["Rock"]
+styles: ["Blues Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Steady Rollin' Man
 10. Mainline Florida
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Eric Clapton - 461 Ocean Boulevard](https://www.discogs.com/release/1496277) |
+| Release Year   | 1983 |
+| Discogs Link   | [Eric Clapton - 461 Ocean Boulevard](https://www.discogs.com/release/1496277-Eric-Clapton-461-Ocean-Boulevard) |
 | Label          | RSO, RSO |
 | Format         | LP, Album, RE |
 | Catalog Number | SPELP 24, 2479 118 |
+
+Non-gatefold sleeve.  — Back cover: Recorded at Criteria Recording Studios, Miami, Florida. Yvonne Elliman courtesy of Purple Records. Al Jackson courtesy of Stax Records. Produced […] by arrangement with the Robert Stigwood Organization ℗ 1974 RSO Records © 1983 Polydor Ltd. (London)  — Labels: Made in England Marketed by Polydor Ltd Original Sound Recording made by RSO Records Ltd. ℗ 1974 RSO Records Ltd.
 

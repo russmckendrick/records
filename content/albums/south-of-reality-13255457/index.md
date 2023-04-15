@@ -1,14 +1,17 @@
 ---
 title: "The Claypool Lennon Delirium - South Of Reality"
-album_artist: "The Claypool Lennon Delirium"
-album_title: "South Of Reality"
+artist: "The Claypool Lennon Delirium"
+album_name: "South Of Reality"
 date: 2019-02-26
 release_id: "13255457"
 slug: "south-of-reality-13255457"
+hideSummary: true
 cover:
     image: "south-of-reality-13255457.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "South Of Reality by The Claypool Lennon Delirium"
+    caption: "South Of Reality by The Claypool Lennon Delirium"
+genres: ["Rock"]
+styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [The Claypool Lennon Delirium - Amethyst Realm (Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
 - [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Claypool Lennon Delirium - South Of Reality](https://www.discogs.com/release/13255457) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Claypool Lennon Delirium - South Of Reality](https://www.discogs.com/release/13255457-The-Claypool-Lennon-Delirium-South-Of-Reality) |
 | Label          | Prawn Song, Chimera Music |
 | Format         | 2xLP, Album, Pin |
 | Catalog Number | ATO 0445LP |
+
+
 

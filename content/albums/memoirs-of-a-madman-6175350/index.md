@@ -1,14 +1,17 @@
 ---
 title: "Ozzy Osbourne - Memoirs Of A Madman"
-album_artist: "Ozzy Osbourne"
-album_title: "Memoirs Of A Madman"
+artist: "Ozzy Osbourne"
+album_name: "Memoirs Of A Madman"
 date: 2016-05-09
 release_id: "6175350"
 slug: "memoirs-of-a-madman-6175350"
+hideSummary: true
 cover:
     image: "memoirs-of-a-madman-6175350.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Memoirs Of A Madman by Ozzy Osbourne"
+    caption: "Memoirs Of A Madman by Ozzy Osbourne"
+genres: ["Rock"]
+styles: ["Hard Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
 - [Paranoid (Live at The Roundhouse, London, England - 2010)](https://www.youtube.com/watch?v=uUsqxqRCuig)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Ozzy Osbourne - Memoirs Of A Madman](https://www.discogs.com/release/6175350) |
+| Release Year   | 2014 |
+| Discogs Link   | [Ozzy Osbourne - Memoirs Of A Madman](https://www.discogs.com/release/6175350-Ozzy-Osbourne-Memoirs-Of-A-Madman) |
 | Label          | Epic, Legacy, Sony Music |
 | Format         | 2xLP, Comp, RM, Gat |
 | Catalog Number | 88875015611 |
+
+17 Remastered classic hits on double 180gr vinyl. Made in EU.
 

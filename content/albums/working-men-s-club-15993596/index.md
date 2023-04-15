@@ -1,14 +1,17 @@
 ---
 title: "Working Men's Club (2) - Working Men's Club"
-album_artist: "Working Men's Club (2)"
-album_title: "Working Men's Club"
+artist: "Working Men's Club (2)"
+album_name: "Working Men's Club"
 date: 2020-10-02
 release_id: "15993596"
 slug: "working-men-s-club-15993596"
+hideSummary: true
 cover:
     image: "working-men-s-club-15993596.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Working Men's Club by Working Men's Club (2)"
+    caption: "Working Men's Club by Working Men's Club (2)"
+genres: ["Electronic", "Rock"]
+styles: ["Post-Punk", "Acid House", "New Wave"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
 - [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Working Men's Club (2) - Working Men's Club](https://www.discogs.com/release/15993596) |
+| Release Year   | 2020 |
+| Discogs Link   | [Working Men's Club (2) - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-Working-Mens-Club) |
 | Label          | Heavenly, [pias] |
 | Format         | LP, Album, Ltd, Neo |
 | Catalog Number | HVNLP179C |
+
+Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209]
 

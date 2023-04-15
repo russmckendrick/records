@@ -1,14 +1,17 @@
 ---
 title: "Electronic - Electronic"
-album_artist: "Electronic"
-album_title: "Electronic"
+artist: "Electronic"
+album_name: "Electronic"
 date: 2020-01-24
 release_id: "14694007"
 slug: "electronic-14694007"
+hideSummary: true
 cover:
     image: "electronic-14694007.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Electronic by Electronic"
+    caption: "Electronic by Electronic"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Some Distant Memory (4:09)
 11. Feel Every Beat (5:09)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Electronic - Electronic](https://www.discogs.com/release/14694007) |
+| Release Year   | 2020 |
+| Discogs Link   | [Electronic - Electronic](https://www.discogs.com/release/14694007-Electronic-Electronic) |
 | Label          | Parlophone, Warner Records |
 | Format         | LP, Album, Ltd, RE, RM, Whi |
 | Catalog Number | Fact 290, 0190295381868 |
+
+The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994.  
 

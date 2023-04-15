@@ -1,14 +1,17 @@
 ---
 title: "Talking Heads - The Name Of This Band Is Talking Heads"
-album_artist: "Talking Heads"
-album_title: "The Name Of This Band Is Talking Heads"
+artist: "Talking Heads"
+album_name: "The Name Of This Band Is Talking Heads"
 date: 2021-01-23
 release_id: "16809120"
 slug: "the-name-of-this-band-is-talking-heads-16809120"
+hideSummary: true
 cover:
     image: "the-name-of-this-band-is-talking-heads-16809120.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "The Name Of This Band Is Talking Heads by Talking Heads"
+    caption: "The Name Of This Band Is Talking Heads by Talking Heads"
+genres: ["Rock", "Funk / Soul"]
+styles: ["New Wave", "Art Rock", "Funk"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Cities (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=wF9gUzSNUlw)
 - [Animals (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=F53a0uGFAv8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Talking Heads - The Name Of This Band Is Talking Heads](https://www.discogs.com/release/16809120) |
+| Release Year   | 2021 |
+| Discogs Link   | [Talking Heads - The Name Of This Band Is Talking Heads](https://www.discogs.com/release/16809120-Talking-Heads-The-Name-Of-This-Band-Is-Talking-Heads) |
 | Label          | Sire, Sire |
 | Format         | 2xLP, Album, Ltd, RE, RP, Red |
 | Catalog Number | RCV5 3590, 603497845347 |
+
+Rhino 2021 "Start Your Ear Off Right" release.  Limited edition of 4,500 copies.  On outer sleeve - ℗© 1982 Sire Records Company On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc. On labels -  ℗ & © 1982 Sire Records Company  Made in Germany on labels / Made in Germany sticker on shrinkwrap
 

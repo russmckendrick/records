@@ -1,14 +1,17 @@
 ---
 title: "Daryl Hall & John Oates With David Ruffin & Eddie Kendricks - Live At The Apollo"
-album_artist: "Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
-album_title: "Live At The Apollo"
+artist: "Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
+album_name: "Live At The Apollo"
 date: 2020-08-01
 release_id: "1389988"
 slug: "live-at-the-apollo-1389988"
+hideSummary: true
 cover:
     image: "live-at-the-apollo-1389988.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Live At The Apollo by Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
+    caption: "Live At The Apollo by Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Pop Rock", "Soul"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Daryl Hall & John Oates With David Ruffin & Eddie Kendricks - Live At The Apollo](https://www.discogs.com/release/1389988) |
+| Release Year   | 1985 |
+| Discogs Link   | [Daryl Hall & John Oates With David Ruffin & Eddie Kendricks - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |
 | Label          | RCA |
 | Format         | LP, Album |
 | Catalog Number | PL87035 |
+
+℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label  
 

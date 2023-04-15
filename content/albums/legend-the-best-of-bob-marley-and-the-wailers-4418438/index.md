@@ -1,14 +1,17 @@
 ---
 title: "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers"
-album_artist: "Bob Marley & The Wailers"
-album_title: "Legend - The Best Of Bob Marley And The Wailers"
+artist: "Bob Marley & The Wailers"
+album_name: "Legend - The Best Of Bob Marley And The Wailers"
 date: 2016-06-21
 release_id: "4418438"
 slug: "legend-the-best-of-bob-marley-and-the-wailers-4418438"
+hideSummary: true
 cover:
     image: "legend-the-best-of-bob-marley-and-the-wailers-4418438.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
+    caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
+genres: ["Reggae"]
+styles: ["Reggae", "Roots Reggae"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="hUzeGvg0pOg" title="Legend  Bob Marley Cd completo Hd  Remastered" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438) |
+| Release Year   | 2015 |
+| Discogs Link   | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |
 | Label          | Tuff Gong, Island Records, Universal Music Group International |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | 0600753030523 |
+
+BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple
 

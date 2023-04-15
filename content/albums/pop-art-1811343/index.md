@@ -1,14 +1,17 @@
 ---
 title: "Transvision Vamp - Pop Art"
-album_artist: "Transvision Vamp"
-album_title: "Pop Art"
+artist: "Transvision Vamp"
+album_name: "Pop Art"
 date: 2017-05-27
 release_id: "1811343"
 slug: "pop-art-1811343"
+hideSummary: true
 cover:
     image: "pop-art-1811343.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pop Art by Transvision Vamp"
+    caption: "Pop Art by Transvision Vamp"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Andy Warhol's Dead (Andy Kershaw BBC Session)](https://www.youtube.com/watch?v=0Qx1WzFazCI)
 - [Revolution Baby](https://www.youtube.com/watch?v=xsv5dhQALAs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Transvision Vamp - Pop Art](https://www.discogs.com/release/1811343) |
+| Release Year   | 1988 |
+| Discogs Link   | [Transvision Vamp - Pop Art](https://www.discogs.com/release/1811343-Transvision-Vamp-Pop-Art) |
 | Label          | MCA Records |
 | Format         | LP, Album |
 | Catalog Number | MCF 3421 |
+
+Recorded and mixed at Garden, Eastcote and Swanyard. Comes with lyrics inner. 
 

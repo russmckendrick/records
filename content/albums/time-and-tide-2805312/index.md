@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Time And Tide"
-album_artist: "Split Enz"
-album_title: "Time And Tide"
+artist: "Split Enz"
+album_name: "Time And Tide"
 date: 2018-09-29
 release_id: "2805312"
 slug: "time-and-tide-2805312"
+hideSummary: true
 cover:
     image: "time-and-tide-2805312.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Time And Tide by Split Enz"
+    caption: "Time And Tide by Split Enz"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer](https://www.youtube.com/watch?v=kgXuTj13JO0)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever](https://www.youtube.com/watch?v=VQqjT4YUyNQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Split Enz - Time And Tide](https://www.discogs.com/release/2805312) |
+| Release Year   | 1982 |
+| Discogs Link   | [Split Enz - Time And Tide](https://www.discogs.com/release/2805312-Split-Enz-Time-And-Tide) |
 | Label          | A&M Records, A&M Records |
 | Format         | LP, Album + LP, Album, RP |
 | Catalog Number | AMLH 64894, AMLH 64894/F |
+
+Label States "Made in England". Released with a lyrics inner sleeve and a bonus album: ''Frenzy'' (AMLH 64894/F). The latter is housed in a flimsy version of the original cover as seen on this submission: [r975918] The back cover of that states: ''This album comes free with ''Time & Tide''. There are no credits on that cover. Tracks from ''Frenzy'' recorded in 1978 and 1979. Some copies advertize ''Frenzy with a sticker on the front cover of ''Time And Tide''. 
 

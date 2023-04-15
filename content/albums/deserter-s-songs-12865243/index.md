@@ -1,14 +1,17 @@
 ---
 title: "Mercury Rev - Deserter's Songs"
-album_artist: "Mercury Rev"
-album_title: "Deserter's Songs"
+artist: "Mercury Rev"
+album_name: "Deserter's Songs"
 date: 2019-01-19
 release_id: "12865243"
 slug: "deserter-s-songs-12865243"
+hideSummary: true
 cover:
     image: "deserter-s-songs-12865243.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Deserter's Songs by Mercury Rev"
+    caption: "Deserter's Songs by Mercury Rev"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Pick Up If You're There](https://www.youtube.com/watch?v=FLCfMxO60N8)
 - [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Mercury Rev - Deserter's Songs](https://www.discogs.com/release/12865243) |
+| Release Year   | 2018 |
+| Discogs Link   | [Mercury Rev - Deserter's Songs](https://www.discogs.com/release/12865243-Mercury-Rev-Deserters-Songs) |
 | Label          | Excelsior Melodies |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | EXM-309 |
+
+
 

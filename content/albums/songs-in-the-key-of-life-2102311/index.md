@@ -1,14 +1,17 @@
 ---
 title: "Stevie Wonder - Songs In The Key Of Life"
-album_artist: "Stevie Wonder"
-album_title: "Songs In The Key Of Life"
+artist: "Stevie Wonder"
+album_name: "Songs In The Key Of Life"
 date: 2015-08-11
 release_id: "2102311"
 slug: "songs-in-the-key-of-life-2102311"
+hideSummary: true
 cover:
     image: "songs-in-the-key-of-life-2102311.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Songs In The Key Of Life by Stevie Wonder"
+    caption: "Songs In The Key Of Life by Stevie Wonder"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Disco"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 {{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}
 - [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Stevie Wonder - Songs In The Key Of Life](https://www.discogs.com/release/2102311) |
+| Release Year   | 1976 |
+| Discogs Link   | [Stevie Wonder - Songs In The Key Of Life](https://www.discogs.com/release/2102311-Stevie-Wonder-Songs-In-The-Key-Of-Life) |
 | Label          | Tamla, Tamla |
 | Format         | 2xLP + 7\", EP + Album, Gat |
 | Catalog Number | T13-340C2, T13-00340 |
+
+Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott   Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.  Gatefold sleeve has cat. number T13-340C2, labels have T13-00340. 
 

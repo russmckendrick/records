@@ -1,14 +1,17 @@
 ---
 title: "Rush - Roll The Bones"
-album_artist: "Rush"
-album_title: "Roll The Bones"
+artist: "Rush"
+album_name: "Roll The Bones"
 date: 2017-02-26
 release_id: "7632117"
 slug: "roll-the-bones-7632117"
+hideSummary: true
 cover:
     image: "roll-the-bones-7632117.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Roll The Bones by Rush"
+    caption: "Roll The Bones by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Neurotica
 10. You Bet Your Life
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Roll The Bones](https://www.discogs.com/release/7632117) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Roll The Bones](https://www.discogs.com/release/7632117-Rush-Roll-The-Bones) |
 | Label          | Atlantic, Anthem (5) |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | R1 83737 |
+
+Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto. Mixed at Nomis Studios, London. Pre-production work at Chalet Studio by Lerxst Sound. Mastered at Masterdisk, NYC.  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download.
 

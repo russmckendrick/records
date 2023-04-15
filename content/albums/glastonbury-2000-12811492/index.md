@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - Glastonbury 2000"
-album_artist: "David Bowie"
-album_title: "Glastonbury 2000"
+artist: "David Bowie"
+album_name: "Glastonbury 2000"
 date: 2018-11-30
 release_id: "12811492"
 slug: "glastonbury-2000-12811492"
+hideSummary: true
 cover:
     image: "glastonbury-2000-12811492.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Glastonbury 2000 by David Bowie"
+    caption: "Glastonbury 2000 by David Bowie"
+genres: ["Rock"]
+styles: ["Art Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,16 +38,17 @@ hideSummary: true
 21. Let's Dance (7:06)
 22. I'm Afraid Of Americans (5:43)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [David Bowie - Glastonbury 2000](https://www.discogs.com/release/12811492) |
+| Release Year   | 2018 |
+| Discogs Link   | [David Bowie - Glastonbury 2000](https://www.discogs.com/release/12811492-Bowie-Glastonbury-2000) |
 | Label          | Parlophone, BBC, Glastonbury Festival Of Contemporary Performing Arts |
 | Format         | 3xLP, M/Print, RE |
 | Catalog Number | 0190295570453 |
+
+Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000. Made in the EU. Triple gatefold sleeve, with colour booklet. Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [repress with corrected back sleeve](http://www.discogs.com/release/13345593).  Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted. 
 

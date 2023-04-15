@@ -1,14 +1,17 @@
 ---
 title: "Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal"
-album_artist: "Amorphous Androgynous & Peter Hammill"
-album_title: "We Persuade Ourselves We Are Immortal"
+artist: "Amorphous Androgynous & Peter Hammill"
+album_name: "We Persuade Ourselves We Are Immortal"
 date: 2021-03-24
 release_id: "16248143"
 slug: "we-persuade-ourselves-we-are-immortal-16248143"
+hideSummary: true
 cover:
     image: "we-persuade-ourselves-we-are-immortal-16248143.jpg"
-tags: ["Electronic", "Rock", "Blues"]
-hideSummary: true
+    alt: "We Persuade Ourselves We Are Immortal by Amorphous Androgynous & Peter Hammill"
+    caption: "We Persuade Ourselves We Are Immortal by Amorphous Androgynous & Peter Hammill"
+genres: ["Electronic", "Rock", "Blues"]
+styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 - [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.discogs.com/release/16248143) |
+| Release Year   | 2020 |
+| Discogs Link   | [Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.discogs.com/release/16248143-The-Amorphous-Androgynous-Peter-Hammill-We-Persuade-Ourselves-We-Are-Immortal) |
 | Label          | fsoldigital.com |
 | Format         | LP, Album |
 | Catalog Number | LP TOT 79 |
+
+There is a second pressing, [r=18310498], which was available on pre-order through Bandcamp, released on 17th of February 2021. It is identical to this first batch except for the more greenish sleeve artwork whereas this first edition is more blueish.
 

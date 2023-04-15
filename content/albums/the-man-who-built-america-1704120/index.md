@@ -1,14 +1,17 @@
 ---
 title: "Horslips - The Man Who Built America"
-album_artist: "Horslips"
-album_title: "The Man Who Built America"
+artist: "Horslips"
+album_name: "The Man Who Built America"
 date: 2020-08-02
 release_id: "1704120"
 slug: "the-man-who-built-america-1704120"
+hideSummary: true
 cover:
     image: "the-man-who-built-america-1704120.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Man Who Built America by Horslips"
+    caption: "The Man Who Built America by Horslips"
+genres: ["Rock"]
+styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Horslips- Man who built America](https://www.youtube.com/watch?v=NynajakSbV0)
 - [Loneliness](https://www.youtube.com/watch?v=E1i3mWHSsyk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1979 |
-| Discogs Link   | [Horslips - The Man Who Built America](https://www.discogs.com/release/1704120) |
+| Release Year   | 1979 |
+| Discogs Link   | [Horslips - The Man Who Built America](https://www.discogs.com/release/1704120-Horslips-The-Man-Who-Built-America) |
 | Label          | DJM Records (2) |
 | Format         | LP, Album |
 | Catalog Number | DJF 20546 |
+
+Recorded and mixed at Advision, October 1978.  Laminated sleeve. Included printed inner sleeve.  Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y"
 

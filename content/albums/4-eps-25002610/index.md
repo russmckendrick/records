@@ -1,14 +1,17 @@
 ---
 title: "Ride - 4 EPs"
-album_artist: "Ride"
-album_title: "4 EPs"
+artist: "Ride"
+album_name: "4 EPs"
 date: 2022-11-04
 release_id: "25002610"
 slug: "4-eps-25002610"
+hideSummary: true
 cover:
     image: "4-eps-25002610.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "4 EPs by Ride"
+    caption: "4 EPs by Ride"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}
 - [Ride - Sennen](https://www.youtube.com/watch?v=_4FjWtH83Ho)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Ride - 4 EPs](https://www.discogs.com/release/25002610) |
+| Release Year   | 2022 |
+| Discogs Link   | [Ride - 4 EPs](https://www.discogs.com/release/25002610-Ride-4-EPs) |
 | Label          | Wichita |
 | Format         | 2xLP, Comp, Whi |
 | Catalog Number | WEBB574LP |
+
+'Original audio reworked and refined' Double white vinyl, standard weight Gatefold sleeve, reverse board Download included Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp.
 

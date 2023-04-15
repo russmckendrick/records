@@ -1,14 +1,17 @@
 ---
 title: "Mark Lanegan - Straight Songs Of Sorrow"
-album_artist: "Mark Lanegan"
-album_title: "Straight Songs Of Sorrow"
+artist: "Mark Lanegan"
+album_name: "Straight Songs Of Sorrow"
 date: 2020-05-18
 release_id: "15264315"
 slug: "straight-songs-of-sorrow-15264315"
+hideSummary: true
 cover:
     image: "straight-songs-of-sorrow-15264315.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Straight Songs Of Sorrow by Mark Lanegan"
+    caption: "Straight Songs Of Sorrow by Mark Lanegan"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
 - [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Mark Lanegan - Straight Songs Of Sorrow](https://www.discogs.com/release/15264315) |
+| Release Year   | 2020 |
+| Discogs Link   | [Mark Lanegan - Straight Songs Of Sorrow](https://www.discogs.com/release/15264315-Mark-Lanegan-Straight-Songs-Of-Sorrow) |
 | Label          | Heavenly, Heavenly |
 | Format         | 2xLP, Album, Ltd, Cle |
 | Catalog Number | HVNLP178C, HVNLP178 |
+
+Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download  Download code sticker on inner sleeve  On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS]. Made in the EU.
 

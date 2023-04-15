@@ -1,14 +1,17 @@
 ---
 title: "Coldcut x On-U Sound - Outside The Echo Chamber"
-album_artist: "Coldcut x On-U Sound"
-album_title: "Outside The Echo Chamber"
+artist: "Coldcut x On-U Sound"
+album_name: "Outside The Echo Chamber"
 date: 2017-06-09
 release_id: "10312776"
 slug: "outside-the-echo-chamber-10312776"
+hideSummary: true
 cover:
     image: "outside-the-echo-chamber-10312776.jpg"
-tags: ["Hip Hop", "Reggae"]
-hideSummary: true
+    alt: "Outside The Echo Chamber by Coldcut x On-U Sound"
+    caption: "Outside The Echo Chamber by Coldcut x On-U Sound"
+genres: ["Hip Hop", "Reggae"]
+styles: ["Reggae", "Dub", "Dancehall"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Coldcut x On-U Sound - 'Everyday Another Sanction feat. Chezidek (Dub)'](https://www.youtube.com/watch?v=BhmrN758ZZQ)
 - [Coldcut x On-U Sound - 'Make Up Your Mind feat. Elan'](https://www.youtube.com/watch?v=76aNehvVO8w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Coldcut x On-U Sound - Outside The Echo Chamber](https://www.discogs.com/release/10312776) |
+| Release Year   | 2017 |
+| Discogs Link   | [Coldcut x On-U Sound - Outside The Echo Chamber](https://www.discogs.com/release/10312776-Coldcut-x-On-U-Sound-Outside-The-Echo-Chamber) |
 | Label          | Ahead Of Our Time |
 | Format         | 8x7\", Album + Box, Ltd |
 | Catalog Number | AHEDBOX015 |
+
+Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.  Includes download code.  Signed copies were available from Recordstore.co.uk
 

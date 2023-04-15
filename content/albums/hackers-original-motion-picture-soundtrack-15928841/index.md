@@ -1,14 +1,17 @@
 ---
 title: "Various - Hackers (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Hackers (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Hackers (Original Motion Picture Soundtrack)"
 date: 2020-09-29
 release_id: "15928841"
 slug: "hackers-original-motion-picture-soundtrack-15928841"
+hideSummary: true
 cover:
     image: "hackers-original-motion-picture-soundtrack-15928841.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Hackers (Original Motion Picture Soundtrack) by Various"
+    caption: "Hackers (Original Motion Picture Soundtrack) by Various"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "Ambient", "Electro"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Grand Central Station - Guy Pratt (featuring David Gilmour)](https://www.youtube.com/watch?v=moca2B0O0RM)
 - [Hackers Soundtrack - Richest Junkie Still Alive (Sank Remix)](https://www.youtube.com/watch?v=EYkuVytnZWw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Various - Hackers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15928841) |
+| Release Year   | 2020 |
+| Discogs Link   | [Various - Hackers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15928841-Various-Hackers-Original-Motion-Picture-Soundtrack) |
 | Label          | Varèse Sarabande |
 | Format         | 2xLP, RSD, Comp, Ltd, 25t |
 | Catalog Number | VSD00206 |
+
+Record Store Day exclusive release, part of the September 26th, 2020 drop.   Limited to 2500 copies in a gatefold jacket.  Made in the EU.
 

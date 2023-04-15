@@ -1,14 +1,17 @@
 ---
 title: "Various - The Big Lebowski  (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "The Big Lebowski  (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "The Big Lebowski  (Original Motion Picture Soundtrack)"
 date: 2019-01-27
 release_id: "13075622"
 slug: "the-big-lebowski-original-motion-picture-soundtrack-13075622"
+hideSummary: true
 cover:
     image: "the-big-lebowski-original-motion-picture-soundtrack-13075622.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "Stage & Screen"]
-hideSummary: true
+    alt: "The Big Lebowski  (Original Motion Picture Soundtrack) by Various"
+    caption: "The Big Lebowski  (Original Motion Picture Soundtrack) by Various"
+genres: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Stamping Ground (Instrumental)](https://www.youtube.com/watch?v=FZHc_HEncwc)
 - [Townes Van Zandt - Dead Flowers (Official Audio)](https://www.youtube.com/watch?v=8ApA2W8f2vg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - The Big Lebowski  (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13075622) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - The Big Lebowski  (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13075622-Various-The-Big-Lebowski-Original-Motion-Picture-Soundtrack) |
 | Label          | Mondo (3), Universal Music Special Markets, Mercury |
 | Format         | LP, Album, Comp, RE, 180 |
 | Catalog Number | MOND-149 |
+
+Black vinyl version. Gatefold sleeve and obi strip.
 

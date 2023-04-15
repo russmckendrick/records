@@ -1,14 +1,17 @@
 ---
 title: "James Brown & The Famous Flames - Please Please Please"
-album_artist: "James Brown & The Famous Flames"
-album_title: "Please Please Please"
+artist: "James Brown & The Famous Flames"
+album_name: "Please Please Please"
 date: 2021-05-17
 release_id: "13262472"
 slug: "please-please-please-13262472"
+hideSummary: true
 cover:
     image: "please-please-please-13262472.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Please Please Please by James Brown & The Famous Flames"
+    caption: "Please Please Please by James Brown & The Famous Flames"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [James Brown - Let's Make It (1959)](https://www.youtube.com/watch?v=yMSbsx7hdhQ)
 - [Love Or A Game](https://www.youtube.com/watch?v=3zseC9DxrKk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472) |
+| Release Year   | 2019 |
+| Discogs Link   | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |
 | Label          | WaxTime In Color |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 950662 |
+
+
 

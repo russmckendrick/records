@@ -1,14 +1,17 @@
 ---
 title: "Riverside - ID.Entity"
-album_artist: "Riverside"
-album_title: "ID.Entity"
+artist: "Riverside"
+album_name: "ID.Entity"
 date: 2023-01-20
 release_id: "25826326"
 slug: "id-entity-25826326"
+hideSummary: true
 cover:
     image: "id-entity-25826326.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "ID.Entity by Riverside"
+    caption: "ID.Entity by Riverside"
+genres: ["Rock"]
+styles: ["Prog Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [RIVERSIDE - “Friend or Foe? (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=EWQQFjyHtro)
 - [RIVERSIDE - “Self-Aware (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=Weuo4hgVHyY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Riverside - ID.Entity](https://www.discogs.com/release/25826326) |
+| Release Year   | 2023 |
+| Discogs Link   | [Riverside - ID.Entity](https://www.discogs.com/release/25826326-Riverside-IDEntity) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, Ltd, Whi |
 | Catalog Number | IOM658, 19658753201 |
+
+Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC. Some copies came with signed art card.  ℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic Made in the EU
 

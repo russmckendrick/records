@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Rockin' All Over The World"
-album_artist: "Status Quo"
-album_title: "Rockin' All Over The World"
+artist: "Status Quo"
+album_name: "Rockin' All Over The World"
 date: 2016-05-23
 release_id: "7581010"
 slug: "rockin-all-over-the-world-7581010"
+hideSummary: true
 cover:
     image: "rockin-all-over-the-world-7581010.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rockin' All Over The World by Status Quo"
+    caption: "Rockin' All Over The World by Status Quo"
+genres: ["Rock"]
+styles: ["Classic Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [status quo can't give you more (rockin' all over the world).wmv](https://www.youtube.com/watch?v=VjqP7UHepBw)
 - [status quo let's ride (rockin' all over the world).wmv](https://www.youtube.com/watch?v=WNniyPlYFOo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Rockin' All Over The World](https://www.discogs.com/release/7581010) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Rockin' All Over The World](https://www.discogs.com/release/7581010-Status-Quo-Rockin-All-Over-The-World) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 4723767 |
+
+Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1977 Mercury Records Limited/Universal Music Catalogue ℗ 1977 Mercury Records Limited
 

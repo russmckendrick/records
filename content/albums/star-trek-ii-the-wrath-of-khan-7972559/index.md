@@ -1,14 +1,17 @@
 ---
 title: "James Horner - Star Trek II: The Wrath Of Khan"
-album_artist: "James Horner"
-album_title: "Star Trek II: The Wrath Of Khan"
+artist: "James Horner"
+album_name: "Star Trek II: The Wrath Of Khan"
 date: 2016-02-04
 release_id: "7972559"
 slug: "star-trek-ii-the-wrath-of-khan-7972559"
+hideSummary: true
 cover:
     image: "star-trek-ii-the-wrath-of-khan-7972559.jpg"
-tags: ["Classical", "Stage & Screen"]
-hideSummary: true
+    alt: "Star Trek II: The Wrath Of Khan by James Horner"
+    caption: "Star Trek II: The Wrath Of Khan by James Horner"
+genres: ["Classical", "Stage & Screen"]
+styles: ["Soundtrack", "Score"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="aICzV6QS9wA" title="Star Trek II: The Wrath of Khan • Main Theme • James Horner" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [James Horner - Star Trek II: The Wrath Of Khan](https://www.discogs.com/release/7972559) |
+| Release Year   | 2016 |
+| Discogs Link   | [James Horner - Star Trek II: The Wrath Of Khan](https://www.discogs.com/release/7972559-James-Horner-Star-Trek-II-The-Wrath-Of-Khan) |
 | Label          | Mondo (3) |
 | Format         | 2xLP, Dlx, Ltd, Blu |
 | Catalog Number | MOND-032 |
+
+Deluxe expanded soundtrack. 
 

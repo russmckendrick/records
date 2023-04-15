@@ -1,14 +1,17 @@
 ---
 title: "Janis Joplin - Janis Joplin's Greatest Hits"
-album_artist: "Janis Joplin"
-album_title: "Janis Joplin's Greatest Hits"
+artist: "Janis Joplin"
+album_name: "Janis Joplin's Greatest Hits"
 date: 2017-11-24
 release_id: "11176700"
 slug: "janis-joplin-s-greatest-hits-11176700"
+hideSummary: true
 cover:
     image: "janis-joplin-s-greatest-hits-11176700.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Janis Joplin's Greatest Hits by Janis Joplin"
+    caption: "Janis Joplin's Greatest Hits by Janis Joplin"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Janis Joplin - Get It While You Can (Official Lyric Video)](https://www.youtube.com/watch?v=mtj9w2gYzV4)
 - [Move Over](https://www.youtube.com/watch?v=W4zumh4m7Kg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Janis Joplin - Janis Joplin's Greatest Hits](https://www.discogs.com/release/11176700) |
+| Release Year   | 2017 |
+| Discogs Link   | [Janis Joplin - Janis Joplin's Greatest Hits](https://www.discogs.com/release/11176700-Janis-Joplin-Janis-Joplins-Greatest-Hits) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | LP, Comp, RE, Pin |
 | Catalog Number | 88985479731 |
+
+THE CLASSIC GREATEST HITS SERIES FIRST TIME AVAILABLE ON VINYL IN 27 YEARS PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL  For Record Store Day's Black Friday 2017  Inc MP3 download
 

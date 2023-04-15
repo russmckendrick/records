@@ -1,14 +1,17 @@
 ---
 title: "Letters To Cleo - Aurora Gory Alice"
-album_artist: "Letters To Cleo"
-album_title: "Aurora Gory Alice"
+artist: "Letters To Cleo"
+album_name: "Aurora Gory Alice"
 date: 2020-03-11
 release_id: "11180733"
 slug: "aurora-gory-alice-11180733"
+hideSummary: true
 cover:
     image: "aurora-gory-alice-11180733.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Aurora Gory Alice by Letters To Cleo"
+    caption: "Aurora Gory Alice by Letters To Cleo"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here & Now (Official Music Video)" >}}
 - [Big Star](https://www.youtube.com/watch?v=V9lzLf5sOJk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Letters To Cleo - Aurora Gory Alice](https://www.discogs.com/release/11180733) |
+| Release Year   | 2017 |
+| Discogs Link   | [Letters To Cleo - Aurora Gory Alice](https://www.discogs.com/release/11180733-Letters-To-Cleo-Aurora-Gory-Alice) |
 | Label          | Dot Rat Records |
 | Format         | LP, Album, RE, Pur |
 | Catalog Number | DRR-101 |
+
+Limited to 1000 copies  Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com Booking: Larry Webman: lwebmn@paradigmagency.com  Reissues dedicated to Steve Baker RIP
 

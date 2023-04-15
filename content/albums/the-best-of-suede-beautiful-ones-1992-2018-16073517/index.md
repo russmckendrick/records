@@ -1,14 +1,17 @@
 ---
 title: "Suede - The Best Of Suede. Beautiful Ones. 1992-2018"
-album_artist: "Suede"
-album_title: "The Best Of Suede. Beautiful Ones. 1992-2018"
+artist: "Suede"
+album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
 date: 2020-10-31
 release_id: "16073517"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16073517"
+hideSummary: true
 cover:
     image: "the-best-of-suede-beautiful-ones-1992-2018-16073517.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
+    caption: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -34,16 +37,17 @@ hideSummary: true
 20. The Invisibles
 21. Life Is Golden
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16073517) |
+| Release Year   | 2020 |
+| Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16073517-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | INSATIABLE10 |
+
+
 

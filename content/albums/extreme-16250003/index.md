@@ -1,14 +1,17 @@
 ---
 title: "Extreme (2) - Extreme"
-album_artist: "Extreme (2)"
-album_title: "Extreme"
+artist: "Extreme (2)"
+album_name: "Extreme"
 date: 2021-03-11
 release_id: "16250003"
 slug: "extreme-16250003"
+hideSummary: true
 cover:
     image: "extreme-16250003.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Extreme by Extreme (2)"
+    caption: "Extreme by Extreme (2)"
+genres: ["Rock"]
+styles: ["Funk Metal"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Rock A Bye Bye](https://www.youtube.com/watch?v=K_ousowfvDE)
 - [Play With Me](https://www.youtube.com/watch?v=nDWjWfLU2kQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Extreme (2) - Extreme](https://www.discogs.com/release/16250003) |
+| Release Year   | 2020 |
+| Discogs Link   | [Extreme (2) - Extreme](https://www.discogs.com/release/16250003-Extreme-Extreme) |
 | Label          | Lmlr, A&M Records |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 783 266 |
+
+Limited edition of 1,000 copies.
 

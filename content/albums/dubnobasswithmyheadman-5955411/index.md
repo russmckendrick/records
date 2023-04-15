@@ -1,14 +1,17 @@
 ---
 title: "Underworld - Dubnobasswithmyheadman"
-album_artist: "Underworld"
-album_title: "Dubnobasswithmyheadman"
+artist: "Underworld"
+album_name: "Dubnobasswithmyheadman"
 date: 2015-10-10
 release_id: "5955411"
 slug: "dubnobasswithmyheadman-5955411"
+hideSummary: true
 cover:
     image: "dubnobasswithmyheadman-5955411.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Dubnobasswithmyheadman by Underworld"
+    caption: "Dubnobasswithmyheadman by Underworld"
+genres: ["Electronic"]
+styles: ["Techno", "Leftfield", "Ambient"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Tongue (Remastered)](https://www.youtube.com/watch?v=oIXPcW_6V7k)
 - [River Of Bass (Remastered)](https://www.youtube.com/watch?v=OOWEY4MGzM8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Underworld - Dubnobasswithmyheadman](https://www.discogs.com/release/5955411) |
+| Release Year   | 2014 |
+| Discogs Link   | [Underworld - Dubnobasswithmyheadman](https://www.discogs.com/release/5955411-Underworld-Dubnobasswithmyheadman) |
 | Label          | Universal UMC |
 | Format         | 2xLP, Album, RE, RM, 20t |
 | Catalog Number | 3790795 |
+
+Digital download code included. Copies ordered directly from Underworld come with an "Underworld - Dubnobasswithmyheadman 20th Anniversary" postcard.
 

@@ -1,14 +1,17 @@
 ---
 title: "Sonic Youth - Rather Ripped"
-album_artist: "Sonic Youth"
-album_title: "Rather Ripped"
+artist: "Sonic Youth"
+album_name: "Rather Ripped"
 date: 2021-06-10
 release_id: "8784914"
 slug: "rather-ripped-8784914"
+hideSummary: true
 cover:
     image: "rather-ripped-8784914.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rather Ripped by Sonic Youth"
+    caption: "Rather Ripped by Sonic Youth"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Sonic Youth - Jams Runs Free](https://www.youtube.com/watch?v=vU93I5UU8-c)
 - [Sonic Youth - Sleepin' around](https://www.youtube.com/watch?v=MIsq3sEQ4Hs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Sonic Youth - Rather Ripped](https://www.discogs.com/release/8784914) |
+| Release Year   | 2016 |
+| Discogs Link   | [Sonic Youth - Rather Ripped](https://www.discogs.com/release/8784914-Sonic-Youth-Rather-Ripped) |
 | Label          | Geffen Records, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547491831 |
+
+Includes a voucher to download MP3 version of the album. Made in the EU.   
 

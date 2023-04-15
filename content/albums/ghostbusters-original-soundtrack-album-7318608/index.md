@@ -1,14 +1,17 @@
 ---
 title: "Various - Ghostbusters - Original Soundtrack Album"
-album_artist: "Various"
-album_title: "Ghostbusters - Original Soundtrack Album"
+artist: "Various"
+album_name: "Ghostbusters - Original Soundtrack Album"
 date: 2020-08-01
 release_id: "7318608"
 slug: "ghostbusters-original-soundtrack-album-7318608"
+hideSummary: true
 cover:
     image: "ghostbusters-original-soundtrack-album-7318608.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "Ghostbusters - Original Soundtrack Album by Various"
+    caption: "Ghostbusters - Original Soundtrack Album by Various"
+genres: ["Stage & Screen"]
+styles: null
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Magic](https://www.youtube.com/watch?v=hK2EUIYiWXU)
 - [Ghostbusters 1984 - Complete motion picture score - Elmer Bernstein](https://www.youtube.com/watch?v=4o6KaJ36660)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Various - Ghostbusters - Original Soundtrack Album](https://www.discogs.com/release/7318608) |
+| Release Year   | 1984 |
+| Discogs Link   | [Various - Ghostbusters - Original Soundtrack Album](https://www.discogs.com/release/7318608-Various-Ghostbusters-Original-Soundtrack-Album) |
 | Label          | Arista |
 | Format         | LP, Album |
 | Catalog Number | 206 559 |
+
+
 

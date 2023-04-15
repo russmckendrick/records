@@ -1,14 +1,17 @@
 ---
 title: "Steel Pulse - Handsworth Revolution"
-album_artist: "Steel Pulse"
-album_title: "Handsworth Revolution"
+artist: "Steel Pulse"
+album_name: "Handsworth Revolution"
 date: 2016-11-08
 release_id: "5954072"
 slug: "handsworth-revolution-5954072"
+hideSummary: true
 cover:
     image: "handsworth-revolution-5954072.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Handsworth Revolution by Steel Pulse"
+    caption: "Handsworth Revolution by Steel Pulse"
+genres: ["Reggae"]
+styles: ["Roots Reggae"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Steel Pulse - Handsworth Revolution - 08 - Macka Splaff.](https://www.youtube.com/watch?v=BLi3P8MRg8E)
 - [Steel Pulse ‎– Ku Klux Klan](https://www.youtube.com/watch?v=4UjkeIiXTr8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Steel Pulse - Handsworth Revolution](https://www.discogs.com/release/5954072) |
+| Release Year   | 2014 |
+| Discogs Link   | [Steel Pulse - Handsworth Revolution](https://www.discogs.com/release/5954072-Steel-Pulse-Handsworth-Revolution) |
 | Label          | Island Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 535 158-2 |
+
+"Back To Black" series.  180 gram heavyweight vinyl.  Includes a voucher to download MP3 version of the album.
 

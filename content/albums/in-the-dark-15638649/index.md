@@ -1,14 +1,17 @@
 ---
 title: "Toots & The Maytals - In The Dark"
-album_artist: "Toots & The Maytals"
-album_title: "In The Dark"
+artist: "Toots & The Maytals"
+album_name: "In The Dark"
 date: 2020-07-25
 release_id: "15638649"
 slug: "in-the-dark-15638649"
+hideSummary: true
 cover:
     image: "in-the-dark-15638649.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "In The Dark by Toots & The Maytals"
+    caption: "In The Dark by Toots & The Maytals"
+genres: ["Reggae"]
+styles: ["Roots Reggae"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [54-46 Was My Number](https://www.youtube.com/watch?v=wNxNwvjzGM0)
 - [Sailing On](https://www.youtube.com/watch?v=itnsYaWbtQg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Toots & The Maytals - In The Dark](https://www.discogs.com/release/15638649) |
+| Release Year   | 2020 |
+| Discogs Link   | [Toots & The Maytals - In The Dark](https://www.discogs.com/release/15638649-Toots-And-The-Maytals-In-The-Dark) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP2325 |
+
+    
 

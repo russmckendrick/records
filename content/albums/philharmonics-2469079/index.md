@@ -1,14 +1,17 @@
 ---
 title: "Agnes Obel - Philharmonics"
-album_artist: "Agnes Obel"
-album_title: "Philharmonics"
+artist: "Agnes Obel"
+album_name: "Philharmonics"
 date: 2017-01-05
 release_id: "2469079"
 slug: "philharmonics-2469079"
+hideSummary: true
 cover:
     image: "philharmonics-2469079.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Philharmonics by Agnes Obel"
+    caption: "Philharmonics by Agnes Obel"
+genres: ["Folk, World, & Country"]
+styles: ["Folk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Agnes Obel - Over The Hill](https://www.youtube.com/watch?v=56juk63B4yM)
 - [Agnes Obel - On Powdered Ground](https://www.youtube.com/watch?v=gz8tE1HlOok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Agnes Obel - Philharmonics](https://www.discogs.com/release/2469079) |
+| Release Year   | 2010 |
+| Discogs Link   | [Agnes Obel - Philharmonics](https://www.discogs.com/release/2469079-Agnes-Obel-Philharmonics) |
 | Label          | [PIAS] Recordings, [PIAS] Recordings |
 | Format         | LP, Album |
 | Catalog Number | PIASR 195 LP, 945.A195.010 |
+
+The track numbers are given sequentially on the release, 1 to 12. Recorded in Berlin 2004 - 2010.  ℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings. [PIAS] Recordings is a label of the [PIAS] Entertainment Group.
 

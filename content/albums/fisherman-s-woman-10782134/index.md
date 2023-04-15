@@ -1,14 +1,17 @@
 ---
 title: "Emiliana Torrini - Fisherman's Woman"
-album_artist: "Emiliana Torrini"
-album_title: "Fisherman's Woman"
+artist: "Emiliana Torrini"
+album_name: "Fisherman's Woman"
 date: 2017-09-01
 release_id: "10782134"
 slug: "fisherman-s-woman-10782134"
+hideSummary: true
 cover:
     image: "fisherman-s-woman-10782134.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fisherman's Woman by Emiliana Torrini"
+    caption: "Fisherman's Woman by Emiliana Torrini"
+genres: ["Rock"]
+styles: ["Folk Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Emiliana Torrini - Serenade](https://www.youtube.com/watch?v=hoLBtOOuM34)
 - [Emiliana Torrini-Serenade lyrics](https://www.youtube.com/watch?v=giMPPilet8Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Emiliana Torrini - Fisherman's Woman](https://www.discogs.com/release/10782134) |
+| Release Year   | 2017 |
+| Discogs Link   | [Emiliana Torrini - Fisherman's Woman](https://www.discogs.com/release/10782134-Emiliana-Torrini-Fishermans-Woman) |
 | Label          | Rough Trade |
 | Format         | LP, Album, RE |
 | Catalog Number | RTRADLP185 |
+
+Issued in a gatefold sleeve with barcode sticker on shrink wrap.
 

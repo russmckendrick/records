@@ -1,14 +1,17 @@
 ---
 title: "Suede - See You In The Next Life..."
-album_artist: "Suede"
-album_title: "See You In The Next Life..."
+artist: "Suede"
+album_name: "See You In The Next Life..."
 date: 2021-04-19
 release_id: "17269255"
 slug: "see-you-in-the-next-life-17269255"
+hideSummary: true
 cover:
     image: "see-you-in-the-next-life-17269255.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "See You In The Next Life... by Suede"
+    caption: "See You In The Next Life... by Suede"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Britpop", "Glam"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Attitude (Mick Jones Remix) (3:36)
 13. Still Life (Strings) (5:19)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Suede - See You In The Next Life...](https://www.discogs.com/release/17269255) |
+| Release Year   | 2021 |
+| Discogs Link   | [Suede - See You In The Next Life...](https://www.discogs.com/release/17269255-Suede-See-You-In-The-Next-Life) |
 | Label          | Demon Records |
 | Format         | LP, RE, 180 |
 | Catalog Number | demrec871 |
+
+A2 is an early version of the song "Another No-One", first released as one of the additional tracks on CD2 of the [r=875546] single, 29 July 1996.  A3 is a short live version of "The Power" sung in French. Audio originally released in 1995 as part of the "Cards, pliers and videotape: a short film about touring" section of [r1101072]. The original version of "The Power" was released on the album [m=10069], released 10 October 1994.  On inner sleeve: "Thanks to [a424270], [a420394], [a2139268] at [l265432]"  Reissue on black vinyl. Originally released as the limited edition, fan club only cd [r1339326], then reissued on red vinyl for RSD 2020 [r15835797].
 

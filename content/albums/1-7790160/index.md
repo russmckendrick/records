@@ -1,14 +1,17 @@
 ---
 title: "The Beatles - 1"
-album_artist: "The Beatles"
-album_title: "1"
+artist: "The Beatles"
+album_name: "1"
 date: 2015-12-04
 release_id: "7790160"
 slug: "1-7790160"
+hideSummary: true
 cover:
     image: "1-7790160.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "1 by The Beatles"
+    caption: "1 by The Beatles"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -40,16 +43,17 @@ hideSummary: true
 26. Let It Be (3:50)
 27. The Long And Winding Road (3:35)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Beatles - 1](https://www.discogs.com/release/7790160) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Beatles - 1](https://www.discogs.com/release/7790160-The-Beatles-1) |
 | Label          | Apple Records, Universal Music Group International |
 | Format         | 2xLP, Comp, RE, 180 |
 | Catalog Number | 0602547567901 |
+
+New 2015 stereo mixes. Comes with 1 large poster with 126 PS cover images, 4 individual artsy portraits of John, Paul, George & Ringo, and the original PS covers pictured on the inner sleeves.  Made in Germany.
 

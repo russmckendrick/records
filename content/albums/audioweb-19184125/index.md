@@ -1,14 +1,17 @@
 ---
 title: "Audioweb - Audioweb"
-album_artist: "Audioweb"
-album_title: "Audioweb"
+artist: "Audioweb"
+album_name: "Audioweb"
 date: 2021-10-09
 release_id: "19184125"
 slug: "audioweb-19184125"
+hideSummary: true
 cover:
     image: "audioweb-19184125.jpg"
-tags: ["Hip Hop", "Rock", "Reggae"]
-hideSummary: true
+    alt: "Audioweb by Audioweb"
+    caption: "Audioweb by Audioweb"
+genres: ["Hip Hop", "Rock", "Reggae"]
+styles: ["Dub", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Lover](https://www.youtube.com/watch?v=RSeZFH8yD7Y)
 - [Drip Feed / Untitled Dialogue (Medley)](https://www.youtube.com/watch?v=TDLHsvDsmXE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Audioweb - Audioweb](https://www.discogs.com/release/19184125) |
+| Release Year   | 2021 |
+| Discogs Link   | [Audioweb - Audioweb](https://www.discogs.com/release/19184125-Audioweb-Audioweb) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Whi |
 | Catalog Number | DEMREC897 |
+
+About this release This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.  This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.  
 

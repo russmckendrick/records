@@ -1,14 +1,17 @@
 ---
 title: "Tangerine Dream - Raum"
-album_artist: "Tangerine Dream"
-album_title: "Raum"
+artist: "Tangerine Dream"
+album_name: "Raum"
 date: 2022-02-28
 release_id: "22300372"
 slug: "raum-22300372"
+hideSummary: true
 cover:
     image: "raum-22300372.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Raum by Tangerine Dream"
+    caption: "Raum by Tangerine Dream"
+genres: ["Electronic"]
+styles: ["Berlin-School"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [What You Should Know About Endings](https://www.youtube.com/watch?v=eKNVMBfy-rk)
 - [Raum](https://www.youtube.com/watch?v=RM5aeRkVf4I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Tangerine Dream - Raum](https://www.discogs.com/release/22300372) |
+| Release Year   | 2022 |
+| Discogs Link   | [Tangerine Dream - Raum](https://www.discogs.com/release/22300372-Tangerine-Dream-Raum) |
 | Label          | Kscope |
 | Format         | 2xLP, Album |
 | Catalog Number | KSCOPE1019 |
+
+Release issued in gatefold sleeve with printed inner sleeves.   Notes from black-orange hype sticker: "THE NEW STUDIO ALBUM - 2LP SET The band's second studio album since the passing of Edgar Froese in 2015.  With deep respect for the sound of the previous five decades, this record continues in the ever evolving pathway of Tangerine Dream. KSCOPE1019"  ℗ 2022 eastgate music & arts © 2022 eastgate music & arts  All Runouts are etched.
 

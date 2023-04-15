@@ -1,14 +1,17 @@
 ---
 title: "J Dilla - Donuts"
-album_artist: "J Dilla"
-album_title: "Donuts"
+artist: "J Dilla"
+album_name: "Donuts"
 date: 2020-02-14
 release_id: "14749929"
 slug: "donuts-14749929"
+hideSummary: true
 cover:
     image: "donuts-14749929.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Donuts by J Dilla"
+    caption: "Donuts by J Dilla"
+genres: ["Hip Hop"]
+styles: ["Instrumental"]
 ---
 
 ## Tracklisting
@@ -77,13 +80,16 @@ hideSummary: true
 - [J Dilla - Bye - Donuts (Full Album)](https://www.youtube.com/watch?v=2-hKtCCgIMw)
 - [J Dilla - Welcome to the Show - Donuts (Full Album)](https://www.youtube.com/watch?v=4tAsNON4SN0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [J Dilla - Donuts](https://www.discogs.com/release/14749929) |
+| Release Year   | 2020 |
+| Discogs Link   | [J Dilla - Donuts](https://www.discogs.com/release/14749929-J-Dilla-Donuts) |
 | Label          | Stones Throw Records |
 | Format         | 2x12\", Album, Ltd, RE, Red |
 | Catalog Number | STH2126-8 |
+
+2 x 12" (referred to as LP) Red-in-clear 'Jelly Edition' of Donuts, a limited run created for Stones Throw and Rough Trade (NYC & London). Limited to 1000 copies.
 

@@ -1,14 +1,17 @@
 ---
 title: "My Bloody Valentine - m b v"
-album_artist: "My Bloody Valentine"
-album_title: "m b v"
+artist: "My Bloody Valentine"
+album_name: "m b v"
 date: 2021-05-21
 release_id: "18769009"
 slug: "m-b-v-18769009"
+hideSummary: true
 cover:
     image: "m-b-v-18769009.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "m b v by My Bloody Valentine"
+    caption: "m b v by My Bloody Valentine"
+genres: ["Rock"]
+styles: ["Shoegaze"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [nothing is - m b v - my bloody valentine](https://www.youtube.com/watch?v=HHlVpADx_jk)
 - [wonder 2 - m b v - my bloody valentine](https://www.youtube.com/watch?v=pWyRfqfEC2s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [My Bloody Valentine - m b v](https://www.discogs.com/release/18769009) |
+| Release Year   | 2021 |
+| Discogs Link   | [My Bloody Valentine - m b v](https://www.discogs.com/release/18769009-My-Bloody-Valentine-m-b-v) |
 | Label          | Domino, MBV Records |
 | Format         | LP, Album, Dlx, RE, Gat |
 | Catalog Number | REWIGLP160X |
+
+Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve. Includes a set of 5 card art prints and download card.  [Sticker on shrink / front] "Fully Analog Cut includes download codes 24-bit . 16-bit . mp3 Made in the EU"  
 

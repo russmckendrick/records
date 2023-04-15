@@ -1,14 +1,17 @@
 ---
 title: "Ned's Atomic Dustbin - Are You Normal?"
-album_artist: "Ned's Atomic Dustbin"
-album_title: "Are You Normal?"
+artist: "Ned's Atomic Dustbin"
+album_name: "Are You Normal?"
 date: 2019-05-31
 release_id: "929001"
 slug: "are-you-normal-929001"
+hideSummary: true
 cover:
     image: "are-you-normal-929001.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Are You Normal? by Ned's Atomic Dustbin"
+    caption: "Are You Normal? by Ned's Atomic Dustbin"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Ned's Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
 - [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001) |
+| Release Year   | 1992 |
+| Discogs Link   | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |
 | Label          | Sony Soho Square |
 | Format         | LP, Album |
 | Catalog Number | 472633 1 |
+
+printed inner sleeve with lyrics/credits
 

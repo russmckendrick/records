@@ -1,14 +1,17 @@
 ---
 title: "Symarip - Skinhead Moonstomp"
-album_artist: "Symarip"
-album_title: "Skinhead Moonstomp"
+artist: "Symarip"
+album_name: "Skinhead Moonstomp"
 date: 2023-04-03
 release_id: "26519942"
 slug: "skinhead-moonstomp-26519942"
+hideSummary: true
 cover:
     image: "skinhead-moonstomp-26519942.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Skinhead Moonstomp by Symarip"
+    caption: "Skinhead Moonstomp by Symarip"
+genres: ["Reggae"]
+styles: ["Ska", "Rocksteady"]
 ---
 
 ## Tracklisting
@@ -58,13 +61,16 @@ hideSummary: true
 - [Symarip - Must Catch a Train](https://www.youtube.com/watch?v=EWJU--K-Y6U)
 - [Symarip - You're Mine](https://www.youtube.com/watch?v=tVNUcX80ANM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Symarip - Skinhead Moonstomp](https://www.discogs.com/release/26519942) |
+| Release Year   | 2023 |
+| Discogs Link   | [Symarip - Skinhead Moonstomp](https://www.discogs.com/release/26519942-Symarip-Skinhead-Moonstomp) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Mono, Num, RE, Smo |
 | Catalog Number | MOVLP2529 |
+
+1000 copies only.
 

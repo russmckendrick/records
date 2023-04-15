@@ -1,14 +1,17 @@
 ---
 title: "XTC - Apple Venus Volume One"
-album_artist: "XTC"
-album_title: "Apple Venus Volume One"
+artist: "XTC"
+album_name: "Apple Venus Volume One"
 date: 2018-10-27
 release_id: "12595763"
 slug: "apple-venus-volume-one-12595763"
+hideSummary: true
 cover:
     image: "apple-venus-volume-one-12595763.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Apple Venus Volume One by XTC"
+    caption: "Apple Venus Volume One by XTC"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [XTC - Apple Venus Demos - I'm Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
 - [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [XTC - Apple Venus Volume One](https://www.discogs.com/release/12595763) |
+| Release Year   | 2018 |
+| Discogs Link   | [XTC - Apple Venus Volume One](https://www.discogs.com/release/12595763-XTC-Apple-Venus-Volume-One) |
 | Label          | Ape House |
 | Format         | LP, Album, RE, 200 |
 | Catalog Number | APELP118 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Gizmodrome - Gizmodrome"
-album_artist: "Gizmodrome"
-album_title: "Gizmodrome"
+artist: "Gizmodrome"
+album_name: "Gizmodrome"
 date: 2017-09-15
 release_id: "10844344"
 slug: "gizmodrome-10844344"
+hideSummary: true
 cover:
     image: "gizmodrome-10844344.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Gizmodrome by Gizmodrome"
+    caption: "Gizmodrome by Gizmodrome"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
 - [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Gizmodrome - Gizmodrome](https://www.discogs.com/release/10844344) |
+| Release Year   | 2017 |
+| Discogs Link   | [Gizmodrome - Gizmodrome](https://www.discogs.com/release/10844344-Gizmodrome-Gizmodrome) |
 | Label          | Ear Music |
 | Format         | LP, Album |
 | Catalog Number | 0212264EMU |
+
+Gatefold sleeve, printed inner.  Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)". Made in Germany.
 

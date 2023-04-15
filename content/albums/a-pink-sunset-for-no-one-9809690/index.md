@@ -1,14 +1,17 @@
 ---
 title: "Noveller - A Pink Sunset For No One"
-album_artist: "Noveller"
-album_title: "A Pink Sunset For No One"
+artist: "Noveller"
+album_name: "A Pink Sunset For No One"
 date: 2017-02-10
 release_id: "9809690"
 slug: "a-pink-sunset-for-no-one-9809690"
+hideSummary: true
 cover:
     image: "a-pink-sunset-for-no-one-9809690.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "A Pink Sunset For No One by Noveller"
+    caption: "A Pink Sunset For No One by Noveller"
+genres: ["Electronic"]
+styles: ["Ambient", "Drone"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Rituals](https://www.youtube.com/watch?v=9ngNK_OwK-k)
 - [Lone Victory Tonight](https://www.youtube.com/watch?v=rOysMVKzmRE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Noveller - A Pink Sunset For No One](https://www.discogs.com/release/9809690) |
+| Release Year   | 2017 |
+| Discogs Link   | [Noveller - A Pink Sunset For No One](https://www.discogs.com/release/9809690-Noveller-A-Pink-Sunset-For-No-One) |
 | Label          | Fire Records |
 | Format         | LP, Album |
 | Catalog Number | FIRELP401 |
+
+Noveller is Sarah Lipstate.  Recorded in Brooklyn, NY and Lafayette, LA November 2015-April 2016.  Dedicated to Gene Lipstate.   Includes download code.
 

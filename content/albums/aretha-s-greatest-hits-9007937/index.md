@@ -1,14 +1,17 @@
 ---
 title: "Aretha Franklin - Aretha's Greatest Hits"
-album_artist: "Aretha Franklin"
-album_title: "Aretha's Greatest Hits"
+artist: "Aretha Franklin"
+album_name: "Aretha's Greatest Hits"
 date: 2016-09-06
 release_id: "9007937"
 slug: "aretha-s-greatest-hits-9007937"
+hideSummary: true
 cover:
     image: "aretha-s-greatest-hits-9007937.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Aretha's Greatest Hits by Aretha Franklin"
+    caption: "Aretha's Greatest Hits by Aretha Franklin"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Aretha Franklin - Spanish Harlem](https://www.youtube.com/watch?v=ax3EJyeKW3M)
 - [Chain of Fools by Aretha Franklin REMASTERED](https://www.youtube.com/watch?v=vFBi7ZEbGx8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Aretha Franklin - Aretha's Greatest Hits](https://www.discogs.com/release/9007937) |
+| Release Year   | 2016 |
+| Discogs Link   | [Aretha Franklin - Aretha's Greatest Hits](https://www.discogs.com/release/9007937-Aretha-Franklin-Arethas-Greatest-Hits) |
 | Label          | Atlantic |
 | Format         | LP, Comp, RE |
 | Catalog Number | 081227943516 |
+
+
 

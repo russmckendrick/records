@@ -1,14 +1,17 @@
 ---
 title: "The Charlatans - Melting Pot"
-album_artist: "The Charlatans"
-album_title: "Melting Pot"
+artist: "The Charlatans"
+album_name: "Melting Pot"
 date: 2017-04-22
 release_id: "7147752"
 slug: "melting-pot-7147752"
+hideSummary: true
 cover:
     image: "melting-pot-7147752.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Melting Pot by The Charlatans"
+    caption: "Melting Pot by The Charlatans"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Then](https://www.youtube.com/watch?v=x-eOMMuwTC4)
 - [Just When You’re Thinkin’ Things Over](https://www.youtube.com/watch?v=nJeHGRetnNw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Charlatans - Melting Pot](https://www.discogs.com/release/7147752) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Charlatans - Melting Pot](https://www.discogs.com/release/7147752-The-Charlatans-Melting-Pot) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Comp, Ltd, RE |
 | Catalog Number | BBQLP 198 |
+
+HMV UK exclusive limited to 500 copies.
 

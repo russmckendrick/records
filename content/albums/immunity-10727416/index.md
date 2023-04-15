@@ -1,14 +1,17 @@
 ---
 title: "Jon Hopkins - Immunity"
-album_artist: "Jon Hopkins"
-album_title: "Immunity"
+artist: "Jon Hopkins"
+album_name: "Immunity"
 date: 2020-04-10
 release_id: "10727416"
 slug: "immunity-10727416"
+hideSummary: true
 cover:
     image: "immunity-10727416.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Immunity by Jon Hopkins"
+    caption: "Immunity by Jon Hopkins"
+genres: ["Electronic"]
+styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Jon Hopkins - Abandon Window 154/Bpm - Vinyl](https://www.youtube.com/watch?v=Gmhyr8konJk)
 - [Jon Hopkins - Sun Harmonics 124/Bpm - Vinyl](https://www.youtube.com/watch?v=SeiTV2iiUDQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Jon Hopkins - Immunity](https://www.discogs.com/release/10727416) |
+| Release Year   | 2016 |
+| Discogs Link   | [Jon Hopkins - Immunity](https://www.discogs.com/release/10727416-Jon-Hopkins-Immunity) |
 | Label          | Domino |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | WIGLP298 |
+
+• 180-gram heavyweight virgin vinyl • Gatefold sleeve • Includes glossy insert with printed artwork/details/credits • Includes a card for MP3 album download
 

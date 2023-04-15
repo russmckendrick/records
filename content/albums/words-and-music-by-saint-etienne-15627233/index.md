@@ -1,14 +1,17 @@
 ---
 title: "Saint Etienne - Words And Music By Saint Etienne "
-album_artist: "Saint Etienne"
-album_title: "Words And Music By Saint Etienne "
+artist: "Saint Etienne"
+album_name: "Words And Music By Saint Etienne "
 date: 2020-07-17
 release_id: "15627233"
 slug: "words-and-music-by-saint-etienne-15627233"
+hideSummary: true
 cover:
     image: "words-and-music-by-saint-etienne-15627233.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Words And Music By Saint Etienne  by Saint Etienne"
+    caption: "Words And Music By Saint Etienne  by Saint Etienne"
+genres: ["Electronic", "Pop"]
+styles: ["Indie Pop", "Dance-pop"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Saint Etienne - I've Got Your Music](https://www.youtube.com/watch?v=3MQmsHPwLvU)
 - [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Saint Etienne - Words And Music By Saint Etienne ](https://www.discogs.com/release/15627233) |
+| Release Year   | 2020 |
+| Discogs Link   | [Saint Etienne - Words And Music By Saint Etienne ](https://www.discogs.com/release/15627233-Saint-Etienne-Words-And-Music-By-Saint-Etienne-) |
 | Label          | Heavenly |
 | Format         | LP, Album, Ltd, RE, Whi |
 | Catalog Number | HVNLP92C |
+
+Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.  Includes Download.  
 

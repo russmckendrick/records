@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - Remastered In Vinyl II"
-album_artist: "Kate Bush"
-album_title: "Remastered In Vinyl II"
+artist: "Kate Bush"
+album_name: "Remastered In Vinyl II"
 date: 2018-11-17
 release_id: "12811795"
 slug: "remastered-in-vinyl-ii-12811795"
+hideSummary: true
 cover:
     image: "remastered-in-vinyl-ii-12811795.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Remastered In Vinyl II by Kate Bush"
+    caption: "Remastered In Vinyl II by Kate Bush"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kate Bush - Remastered In Vinyl II](https://www.discogs.com/release/12811795) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kate Bush - Remastered In Vinyl II](https://www.discogs.com/release/12811795-Kate-Bush-Remastered-In-Vinyl-II) |
 | Label          | Fish People |
 | Format         | LP, Album, RE, RM + LP, Album, RE, RM + 2xLP, Albu |
 | Catalog Number | 0190295593957 |
+
+Comes in a slipcase style box with each album housed in its own jacket.  - 'Hounds Of Love' has a color printed inner sleeve with lyrics and credits  - 'The Sensual World' has a monochrome printed inner sleeve with lyrics and credits  - 'The Red Shoes is a dual pocket gatefold with lyrics and credits on the interior and plain black poly-lined inner sleeve for each LP.  Each album was also released separately on the same day: [r=12795892]; [r=12810399]; and [r=12809698].  [From back of the box and each album] ℗ 2018 The copyright in this compilation is owned by Noble & Brite Ltd. © 2018 Noble & Brite Ltd. Made in the E.U. 
 

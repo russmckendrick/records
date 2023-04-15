@@ -1,14 +1,17 @@
 ---
 title: "Bob Seger And The Silver Bullet Band - Stranger In Town"
-album_artist: "Bob Seger And The Silver Bullet Band"
-album_title: "Stranger In Town"
+artist: "Bob Seger And The Silver Bullet Band"
+album_name: "Stranger In Town"
 date: 2016-02-29
 release_id: "5173884"
 slug: "stranger-in-town-5173884"
+hideSummary: true
 cover:
     image: "stranger-in-town-5173884.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Stranger In Town by Bob Seger And The Silver Bullet Band"
+    caption: "Stranger In Town by Bob Seger And The Silver Bullet Band"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Brave Strangers](https://www.youtube.com/watch?v=l6vYnLQFtc0)
 - [The Famous Final Scene](https://www.youtube.com/watch?v=9_Cqohz0188)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Bob Seger And The Silver Bullet Band - Stranger In Town](https://www.discogs.com/release/5173884) |
+| Release Year   | 1982 |
+| Discogs Link   | [Bob Seger And The Silver Bullet Band - Stranger In Town](https://www.discogs.com/release/5173884-Bob-Seger-The-Silver-Bullet-Band-Stranger-In-Town) |
 | Label          | Capitol Records, Capitol Records |
 | Format         | LP, Album, RE |
 | Catalog Number | EAST 11698, 0C 062-85 333 |
+
+On the back of the sleeve with this release, under the catalogue numbers, is printed "Available on Cassette"  Printer code in lower right corner dates this reissue to 1982 (plain inner sleeve also dated 1982).  Lilac Capitol label.
 

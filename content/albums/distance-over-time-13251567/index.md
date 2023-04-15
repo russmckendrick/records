@@ -1,14 +1,17 @@
 ---
 title: "Dream Theater - Distance Over Time"
-album_artist: "Dream Theater"
-album_title: "Distance Over Time"
+artist: "Dream Theater"
+album_name: "Distance Over Time"
 date: 2019-02-22
 release_id: "13251567"
 slug: "distance-over-time-13251567"
+hideSummary: true
 cover:
     image: "distance-over-time-13251567.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Distance Over Time by Dream Theater"
+    caption: "Distance Over Time by Dream Theater"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 {{< youtube id="zB19NXfsxdQ" title="Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album" >}}
 - [DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=gylxuO6dKOw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Dream Theater - Distance Over Time](https://www.discogs.com/release/13251567) |
+| Release Year   | 2019 |
+| Discogs Link   | [Dream Theater - Distance Over Time](https://www.discogs.com/release/13251567-Dream-Theater-Distance-Over-Time) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 523, 19075920621 |
+
+This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch. It comes with hype-sticker on external sleeve.  Durations do not appear on this release.  CD mastered at Baker Mastering LP mastered at Fine Tune Mastering
 

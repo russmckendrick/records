@@ -1,14 +1,17 @@
 ---
 title: "Michael Jackson - Off The Wall"
-album_artist: "Michael Jackson"
-album_title: "Off The Wall"
+artist: "Michael Jackson"
+album_name: "Off The Wall"
 date: 2016-04-08
 release_id: "3761228"
 slug: "off-the-wall-3761228"
+hideSummary: true
 cover:
     image: "off-the-wall-3761228.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Off The Wall by Michael Jackson"
+    caption: "Off The Wall by Michael Jackson"
+genres: ["Funk / Soul"]
+styles: ["Disco", "Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [It's the Falling in Love](https://www.youtube.com/watch?v=G1fll9DHS1w)
 - [Burn This Disco Out](https://www.youtube.com/watch?v=3w75_OUcRXs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Michael Jackson - Off The Wall](https://www.discogs.com/release/3761228) |
+| Release Year   | 1986 |
+| Discogs Link   | [Michael Jackson - Off The Wall](https://www.discogs.com/release/3761228-Michael-Jackson-Off-The-Wall) |
 | Label          | Epic, Epic |
 | Format         | LP, Album, RE |
 | Catalog Number | EPC 450086 1, 450086 1 |
+
+ © 1979 CBS, Inc. / ℗ 1979 CBS Inc. Distribution: CBS Records / CBS Disques S.A. Shorepak by Shorewood Packaging Co. Ltd., England  This release has a slighty different cover to the other reissue.  Some releases came with insert containing all lyrics and credits.
 

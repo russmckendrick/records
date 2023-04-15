@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - The Ultra Vivid Lament"
-album_artist: "Manic Street Preachers"
-album_title: "The Ultra Vivid Lament"
+artist: "Manic Street Preachers"
+album_name: "The Ultra Vivid Lament"
 date: 2021-09-17
 release_id: "20182972"
 slug: "the-ultra-vivid-lament-20182972"
+hideSummary: true
 cover:
     image: "the-ultra-vivid-lament-20182972.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Ultra Vivid Lament by Manic Street Preachers"
+    caption: "The Ultra Vivid Lament by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Manic Street Preachers - The Secret He Had Missed (Official Video) ft. Julia Cumming](https://www.youtube.com/watch?v=4Q3sDyp3mbo)
 - [Manic Street Preachers - Orwellian (Official Video)](https://www.youtube.com/watch?v=bzSYaCeWvFM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Manic Street Preachers - The Ultra Vivid Lament](https://www.discogs.com/release/20182972) |
+| Release Year   | 2021 |
+| Discogs Link   | [Manic Street Preachers - The Ultra Vivid Lament](https://www.discogs.com/release/20182972-Manic-Street-Preachers-The-Ultra-Vivid-Lament) |
 | Label          | Columbia, Sony Music, Columbia, Sony Music |
 | Format         | LP, Album, Ltd, Yel |
 | Catalog Number | 19439895431, 19439895471 |
+
+Amazon exclusive coloured vinyl edition.  Made in the EU.  
 

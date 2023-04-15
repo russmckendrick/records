@@ -1,14 +1,17 @@
 ---
 title: "House Of Pain - House Of Pain (Fine Malt Lyrics)"
-album_artist: "House Of Pain"
-album_title: "House Of Pain (Fine Malt Lyrics)"
+artist: "House Of Pain"
+album_name: "House Of Pain (Fine Malt Lyrics)"
 date: 2022-09-02
 release_id: "24012683"
 slug: "house-of-pain-fine-malt-lyrics-24012683"
+hideSummary: true
 cover:
     image: "house-of-pain-fine-malt-lyrics-24012683.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "House Of Pain (Fine Malt Lyrics) by House Of Pain"
+    caption: "House Of Pain (Fine Malt Lyrics) by House Of Pain"
+genres: ["Hip Hop"]
+styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [House Of Pain - One For the Road](https://www.youtube.com/watch?v=3wSKzP4xhDc)
 - [House Of Pain - Top O' The Morning To Ya](https://www.youtube.com/watch?v=Fu7a9lADJ0g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [House Of Pain - House Of Pain (Fine Malt Lyrics)](https://www.discogs.com/release/24012683) |
+| Release Year   | 2022 |
+| Discogs Link   | [House Of Pain - House Of Pain (Fine Malt Lyrics)](https://www.discogs.com/release/24012683-House-Of-Pain-House-Of-Pain-Fine-Malt-Lyrics) |
 | Label          | Tommy Boy |
 | Format         | LP, Ora + LP, Whi + Album, Dlx, Ltd, Num, RE, RM |
 | Catalog Number | TB-5184-1 |
+
+Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl. Numbered edition of 6500. Comes with a jump rope.
 

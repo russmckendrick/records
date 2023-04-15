@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - Versions Of The Truth"
-album_artist: "The Pineapple Thief"
-album_title: "Versions Of The Truth"
+artist: "The Pineapple Thief"
+album_name: "Versions Of The Truth"
 date: 2020-09-06
 release_id: "15866863"
 slug: "versions-of-the-truth-15866863"
+hideSummary: true
 cover:
     image: "versions-of-the-truth-15866863.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Versions Of The Truth by The Pineapple Thief"
+    caption: "Versions Of The Truth by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [The Pineapple Thief - Versions of the Truth](https://www.youtube.com/watch?v=O32DMyXN-mI)
 - [The Pineapple Thief - Driving Like Maniacs](https://www.youtube.com/watch?v=eV_i6Y_6KVY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Pineapple Thief - Versions Of The Truth](https://www.discogs.com/release/15866863) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Pineapple Thief - Versions Of The Truth](https://www.discogs.com/release/15866863-The-Pineapple-Thief-Versions-Of-The-Truth) |
 | Label          | Kscope, Kscope |
 | Format         | LP, Album, Ltd, Cle |
 | Catalog Number | KSCOPE1062, KSCOPE1085 |
+
+On limited edition 180g heavyweight clear vinyl.  Comes with inner sleeve with lyrics, credits and artwork.  Inside of outer sleeve is coloured red.  Kscope flyer containing details of recent and future releases also included as an insert.  "Indies only" version.  KSCOPE1085 on Hype Sticker.  Recorded and mixed...between 1st October 2018 and 4th May 2020  Made in Germany  ℗2020 ©2020  
 

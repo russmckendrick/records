@@ -1,14 +1,17 @@
 ---
 title: "Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay"
-album_artist: "Kevin Rowland & Dexys Midnight Runners"
-album_title: "Too-Rye-Ay"
+artist: "Kevin Rowland & Dexys Midnight Runners"
+album_name: "Too-Rye-Ay"
 date: 2018-04-24
 release_id: "6093646"
 slug: "too-rye-ay-6093646"
+hideSummary: true
 cover:
     image: "too-rye-ay-6093646.jpg"
-tags: ["Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Too-Rye-Ay by Kevin Rowland & Dexys Midnight Runners"
+    caption: "Too-Rye-Ay by Kevin Rowland & Dexys Midnight Runners"
+genres: ["Pop", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Until I Believe In My Soul (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=VvrDUFcrxIs)
 - [Come On Eileen (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fVaQeoWzwRU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay](https://www.discogs.com/release/6093646) |
+| Release Year   | 2014 |
+| Discogs Link   | [Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay](https://www.discogs.com/release/6093646-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay) |
 | Label          | Mercury, Mercury |
 | Format         | LP, Album, RE |
 | Catalog Number | 3789427, 378 942-7 |
+
+
 

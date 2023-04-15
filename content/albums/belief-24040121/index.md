@@ -1,14 +1,17 @@
 ---
 title: "Belief (9) - Belief"
-album_artist: "Belief (9)"
-album_title: "Belief"
+artist: "Belief (9)"
+album_name: "Belief"
 date: 2022-08-04
 release_id: "24040121"
 slug: "belief-24040121"
+hideSummary: true
 cover:
     image: "belief-24040121.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Belief by Belief (9)"
+    caption: "Belief by Belief (9)"
+genres: ["Electronic"]
+styles: ["House"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="xAphjKTK1sk" title="BELIEF - DREAMS (OFFICIAL VIDEO)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Belief (9) - Belief](https://www.discogs.com/release/24040121) |
+| Release Year   | 2022 |
+| Discogs Link   | [Belief (9) - Belief](https://www.discogs.com/release/24040121-Belief-Belief) |
 | Label          | Lex Records |
 | Format         | LP |
 | Catalog Number | LEX163LP |
+
+
 

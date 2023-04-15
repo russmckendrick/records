@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Afraid Of Sunlight"
-album_artist: "Marillion"
-album_title: "Afraid Of Sunlight"
+artist: "Marillion"
+album_name: "Afraid Of Sunlight"
 date: 2022-09-23
 release_id: "14338949"
 slug: "afraid-of-sunlight-14338949"
+hideSummary: true
 cover:
     image: "afraid-of-sunlight-14338949.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Afraid Of Sunlight by Marillion"
+    caption: "Afraid Of Sunlight by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Marillion - Beautiful](https://www.youtube.com/watch?v=gYplFCf-Gt0)
 - [Marillion - Beautiful - Ao vivo em São Paulo, Brasil](https://www.youtube.com/watch?v=4VPJ7IgGEuY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Marillion - Afraid Of Sunlight](https://www.discogs.com/release/14338949) |
+| Release Year   | 2019 |
+| Discogs Link   | [Marillion - Afraid Of Sunlight](https://www.discogs.com/release/14338949-Marillion-Afraid-Of-Sunlight) |
 | Label          | Parlophone |
 | Format         | 2xLP, Album, RE, RM, Rem + 3xLP, Album, 180 + Box, |
 | Catalog Number | 0190295477226 |
+
+Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd. Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd. Labels and booklet: Made in the EU. Comes with 20 page booklet. Hype sticker on front First 4000 copies ordered at the Marillion Store come with signed A4 print  All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [Optimal Media GmbH](https://www.discogs.com/label/313190-Optimal-Media-GmbH). 
 

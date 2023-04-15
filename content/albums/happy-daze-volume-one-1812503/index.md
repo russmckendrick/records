@@ -1,14 +1,17 @@
 ---
 title: "Various - Happy Daze (Volume One)"
-album_artist: "Various"
-album_title: "Happy Daze (Volume One)"
+artist: "Various"
+album_name: "Happy Daze (Volume One)"
 date: 2017-12-07
 release_id: "1812503"
 slug: "happy-daze-volume-one-1812503"
+hideSummary: true
 cover:
     image: "happy-daze-volume-one-1812503.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Happy Daze (Volume One) by Various"
+    caption: "Happy Daze (Volume One) by Various"
+genres: ["Rock"]
+styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,16 +31,17 @@ hideSummary: true
 14. Wrote For Luck
 15. I'm Free
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Various - Happy Daze (Volume One)](https://www.discogs.com/release/1812503) |
+| Release Year   | 1990 |
+| Discogs Link   | [Various - Happy Daze (Volume One)](https://www.discogs.com/release/1812503-Various-Happy-Daze-Volume-One) |
 | Label          | Island Records, Island Records |
 | Format         | LP, Comp |
 | Catalog Number | ILPTV 1, 848 026-1 |
+
+℗ 1990 Island Records Ltd. © 1990 Island Records Ltd. 
 

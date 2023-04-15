@@ -1,14 +1,17 @@
 ---
 title: "John Martyn - Solid Air (Classics Revisited)"
-album_artist: "John Martyn"
-album_title: "Solid Air (Classics Revisited)"
+artist: "John Martyn"
+album_name: "Solid Air (Classics Revisited)"
 date: 2016-07-08
 release_id: "5695629"
 slug: "solid-air-classics-revisited-5695629"
+hideSummary: true
 cover:
     image: "solid-air-classics-revisited-5695629.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Solid Air (Classics Revisited) by John Martyn"
+    caption: "Solid Air (Classics Revisited) by John Martyn"
+genres: ["Rock", "Blues"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Ways To Cry
 10. Man In The Station
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [John Martyn - Solid Air (Classics Revisited)](https://www.discogs.com/release/5695629) |
+| Release Year   | 2014 |
+| Discogs Link   | [John Martyn - Solid Air (Classics Revisited)](https://www.discogs.com/release/5695629-John-Martyn-Solid-Air-Classics-Revisited) |
 | Label          | Madfish |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | SMALP1028 |
+
+Solid Air: Classics Revisited is drawn from John Martyn's 1993 studio re-recordings of several of his back catalogue treasures (on which Martyn was joined by the likes of David Gilmour, Eric Clapton and Phil Collins).   Featuring 10 of Martyn's most essential songs, this Madfish re-release is now available on 180g vinyl.   Made in Germany
 

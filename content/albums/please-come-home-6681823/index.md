@@ -1,14 +1,17 @@
 ---
 title: "Lonely Robot - Please Come Home"
-album_artist: "Lonely Robot"
-album_title: "Please Come Home"
+artist: "Lonely Robot"
+album_name: "Please Come Home"
 date: 2016-01-10
 release_id: "6681823"
 slug: "please-come-home-6681823"
+hideSummary: true
 cover:
     image: "please-come-home-6681823.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Please Come Home by Lonely Robot"
+    caption: "Please Come Home by Lonely Robot"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Lonely Robot - A Godless Sea](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
 - [Lonely Robot - Airlock](https://www.youtube.com/watch?v=XeZcUm77IJg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Lonely Robot - Please Come Home](https://www.discogs.com/release/6681823) |
+| Release Year   | 2015 |
+| Discogs Link   | [Lonely Robot - Please Come Home](https://www.discogs.com/release/6681823-Lonely-Robot-Please-Come-Home) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 415, 0507041 |
+
+Sticker on front reads: "New project by mastermind, producer, guitarist and vocalist John Mitchell (Kino, It Bites, Frost*, Arena), feat. guest appearances from Peter Cox (Go West, Ex- Manfred Mann's Earth Band), Nik Kershaw, Steve Hogarth (Marillion) and many more ...  "Lonely Robot is a gloriously ambitious sonic adventure, produced and performed to perfection" - Steven Wilson  Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front. CD comes packaged inside in a clear envelope-style PVC sleeve.  On tour in the spring 2015!  This sticker is removeable."  Orders through German retailer JPC come with an autographed promo card exclusively.
 

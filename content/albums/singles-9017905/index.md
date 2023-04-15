@@ -1,14 +1,17 @@
 ---
 title: "New Order - Singles"
-album_artist: "New Order"
-album_title: "Singles"
+artist: "New Order"
+album_name: "Singles"
 date: 2016-09-12
 release_id: "9017905"
 slug: "singles-9017905"
+hideSummary: true
 cover:
     image: "singles-9017905.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Singles by New Order"
+    caption: "Singles by New Order"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -45,16 +48,17 @@ hideSummary: true
 31. Turn (Stephen Street Edit)
 32. I'll Stay With You ('Lost Sirens' LP Version)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [New Order - Singles](https://www.discogs.com/release/9017905) |
+| Release Year   | 2016 |
+| Discogs Link   | [New Order - Singles](https://www.discogs.com/release/9017905-New-Order-Singles) |
 | Label          | Warner Music |
 | Format         | 4xLP, Comp, RM + Box |
 | Catalog Number | 0825646069620 |
+
+Additions in the new "Singles" 4xLP (Remastered 2016) / Omissions from the "Singles" 2xCD (2005):  B2 - Confusion (UK 7" Promo Edit) replaces "Confusion (''Singles'' Unique Edit) " C1 - The Perfect Kiss (7" Edit) replaces "The Perfect Kiss (Album Version)" D1 - Bizarre Love Triangle (7" Remix Edit) replaces "Bizarre Love Triangle (Album Version)" D2 - True Faith (7" Edit) replaces "True Faith (Album Version)" E3 - Run 2 (7" Remix Edit) replaces "Run (Album Version)" F5 - Nineteen63 (Arthur Baker Radio Remix) replaces "1963 (''Singles'' Unique Edit)" F4 - Spooky (Minimix) replaces "Spooky (Radio Edit)" .................................................................  H4 - I'll Stay With You (Lost Sirens LP Version) is an extra/bonus track in this remastered version. ..................................................................  Tracks first time on vinyl:  F4 - Spooky (Minimix) G1 - Crystal (Radio Edit) G2 - 60 Miles an Hour (Radio Edit) H3 - Turn (Stephen Street Edit)  Contains a [l873810] download coupon.
 

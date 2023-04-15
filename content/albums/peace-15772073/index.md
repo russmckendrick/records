@@ -1,14 +1,17 @@
 ---
 title: "The Levellers - Peace"
-album_artist: "The Levellers"
-album_title: "Peace"
+artist: "The Levellers"
+album_name: "Peace"
 date: 2020-08-21
 release_id: "15772073"
 slug: "peace-15772073"
+hideSummary: true
 cover:
     image: "peace-15772073.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Peace by The Levellers"
+    caption: "Peace by The Levellers"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 {{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}
 - [Levellers - Peace (Full Album) 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Levellers - Peace](https://www.discogs.com/release/15772073) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Levellers - Peace](https://www.discogs.com/release/15772073-Levellers-Peace) |
 | Label          | On The Fiddle Recordings |
 | Format         | LP, Dlx, Blu + 7\" |
 | Catalog Number | OTFLP031S |
+
+Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7” (SIGNED)  Bonus 7” A – Food Roof Family (Live in the Studio) B – Our New Day (Live in the Studio)
 

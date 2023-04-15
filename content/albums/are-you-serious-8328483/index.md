@@ -1,14 +1,17 @@
 ---
 title: "Andrew Bird - Are You Serious"
-album_artist: "Andrew Bird"
-album_title: "Are You Serious"
+artist: "Andrew Bird"
+album_name: "Are You Serious"
 date: 2017-06-24
 release_id: "8328483"
 slug: "are-you-serious-8328483"
+hideSummary: true
 cover:
     image: "are-you-serious-8328483.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Are You Serious by Andrew Bird"
+    caption: "Are You Serious by Andrew Bird"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Andrew Bird - Valleys of the Young](https://www.youtube.com/watch?v=IeuCE-iazeA)
 - [Andrew Bird - ROMA FADE  (Are You Serious 2016)](https://www.youtube.com/watch?v=wRoj8WzBsJo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Andrew Bird - Are You Serious](https://www.discogs.com/release/8328483) |
+| Release Year   | 2016 |
+| Discogs Link   | [Andrew Bird - Are You Serious](https://www.discogs.com/release/8328483-Andrew-Bird-Are-You-Serious) |
 | Label          | Loma Vista |
 | Format         | LP, Album, Dlx, Blu + 7\", Single, Red |
 | Catalog Number | LVR-39052-01 |
+
+Deluxe edition. Includes bonus red colored 7" single, insert with lyrics and download card.
 

@@ -1,14 +1,17 @@
 ---
 title: "Mark Morriss - A Flash Of Darkness"
-album_artist: "Mark Morriss"
-album_title: "A Flash Of Darkness"
+artist: "Mark Morriss"
+album_name: "A Flash Of Darkness"
 date: 2022-03-02
 release_id: "5871313"
 slug: "a-flash-of-darkness-5871313"
+hideSummary: true
 cover:
     image: "a-flash-of-darkness-5871313.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Flash Of Darkness by Mark Morriss"
+    caption: "A Flash Of Darkness by Mark Morriss"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="aSwZUI8ETZ8" title="A Flash of Darkness" >}}
 - [Mark Morriss 'A Flash Of Darkness' Full Album](https://www.youtube.com/watch?v=L9q47aVymd4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Mark Morriss - A Flash Of Darkness](https://www.discogs.com/release/5871313) |
+| Release Year   | 2014 |
+| Discogs Link   | [Mark Morriss - A Flash Of Darkness](https://www.discogs.com/release/5871313-Mark-Morriss-A-Flash-Of-Darkness) |
 | Label          | Acid Jazz |
 | Format         | LP, Album |
 | Catalog Number | AJXLP346 |
+
+Black vinyl 12" LP.  Record in white paper sleeve + colour 12"x12" info insert.  Download card included to redeem all tracks as mp3's. 
 

@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - A Reality Tour"
-album_artist: "David Bowie"
-album_title: "A Reality Tour"
+artist: "David Bowie"
+album_name: "A Reality Tour"
 date: 2016-10-14
 release_id: "9195108"
 slug: "a-reality-tour-9195108"
+hideSummary: true
 cover:
     image: "a-reality-tour-9195108.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "A Reality Tour by David Bowie"
+    caption: "A Reality Tour by David Bowie"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock", "Alternative Rock", "Glam"]
 ---
 
 ## Tracklisting
@@ -46,16 +49,17 @@ hideSummary: true
 32. Breaking Glass (2:27)
 33. China Girl (4:19)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [David Bowie - A Reality Tour](https://www.discogs.com/release/9195108) |
+| Release Year   | 2016 |
+| Discogs Link   | [David Bowie - A Reality Tour](https://www.discogs.com/release/9195108-Bowie-A-Reality-Tour) |
 | Label          | ISO Records, Columbia, Legacy, Sony Music |
 | Format         | 3xLP, Album, RE, Blu + Box, Ltd |
 | Catalog Number | 88985348411 |
+
+Box set: lift off lid box. includes two photo inserts:  12" x 12" front cover image + 12" x 24" double-sided.  A REALITY TOUR was recorded November 22 and 23, 2003, in front of emotionally charged audiences at the Point Depot Dublin, Ireland.  Cover Photo: Dorothea Müller/Keystone © 2004   ℗ 2009 The copyright in this sound recording is owned by ISO Records, under license to Sony Music Entertainment. © 2009, 2016 ISO Records made under license to Sony Music Entertainment / Distributed by Sony Music Entertainment. Made in the EU / Sony Music Entertainment International Services GmbH.
 

@@ -1,14 +1,17 @@
 ---
 title: "Koj (3) - Home"
-album_artist: "Koj (3)"
-album_title: "Home"
+artist: "Koj (3)"
+album_name: "Home"
 date: 2020-11-21
 release_id: "16250518"
 slug: "home-16250518"
+hideSummary: true
 cover:
     image: "home-16250518.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Home by Koj (3)"
+    caption: "Home by Koj (3)"
+genres: ["Rock"]
+styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Y0D2FA0Po1Y" title="KOJ - Home (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Koj (3) - Home](https://www.discogs.com/release/16250518) |
+| Release Year   | 2020 |
+| Discogs Link   | [Koj (3) - Home](https://www.discogs.com/release/16250518-Koj-Home) |
 | Label          | Long Branch Records |
 | Format         | LP, Album |
 | Catalog Number | SPV 289221 LP |
+
+(p) & (c) 2020 Long Branch Records, a division of SPV GmbH. Distributed by SPV GmbH, Boulevard der EU 8, 30539 Hannover, Germany. Made in the EU. Supported by Initiative Musik gGmbH with project funds from the Federal Government Commissioner for Culture and Media.
 

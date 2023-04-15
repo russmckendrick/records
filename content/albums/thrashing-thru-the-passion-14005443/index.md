@@ -1,14 +1,17 @@
 ---
 title: "The Hold Steady - Thrashing Thru The Passion"
-album_artist: "The Hold Steady"
-album_title: "Thrashing Thru The Passion"
+artist: "The Hold Steady"
+album_name: "Thrashing Thru The Passion"
 date: 2019-08-16
 release_id: "14005443"
 slug: "thrashing-thru-the-passion-14005443"
+hideSummary: true
 cover:
     image: "thrashing-thru-the-passion-14005443.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Thrashing Thru The Passion by The Hold Steady"
+    caption: "Thrashing Thru The Passion by The Hold Steady"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="HA3CF9rusvE" title="The Hold Steady - Denver Haircut" >}}
 - [The Hold Steady - You Did Good Kid](https://www.youtube.com/watch?v=P-aRAhigP1I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Hold Steady - Thrashing Thru The Passion](https://www.discogs.com/release/14005443) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Hold Steady - Thrashing Thru The Passion](https://www.discogs.com/release/14005443-The-Hold-Steady-Thrashing-Thru-The-Passion) |
 | Label          | Frenchkiss Records, Frenchkiss Records |
 | Format         | LP, Ltd, Bro |
 | Catalog Number | FKR103-1, FKR1031A |
+
+Opaque brown vinyl - indie exclusive, limited to 1,000 copies.  ©&℗ 2019 Frenchkiss Records  All songs © 2019 Muy Interestane Music (ASCAP) Key Hits (ASCAP) Eggshell Armor Music (ASCAP) Sounds Like Selvidge (BMI) Guilty Parties/Sounds of Sabco (ASCAP) (Administered for the world by Words & Music/Big Deal Music, LLC)
 

@@ -1,14 +1,17 @@
 ---
 title: "Poison (3) - Open Up and Say...Ahh!"
-album_artist: "Poison (3)"
-album_title: "Open Up and Say...Ahh!"
+artist: "Poison (3)"
+album_name: "Open Up and Say...Ahh!"
 date: 2018-05-18
 release_id: "11926311"
 slug: "open-up-and-say-ahh-11926311"
+hideSummary: true
 cover:
     image: "open-up-and-say-ahh-11926311.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Open Up and Say...Ahh! by Poison (3)"
+    caption: "Open Up and Say...Ahh! by Poison (3)"
+genres: ["Rock"]
+styles: ["Glam"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Poison - Every Rose Has Its Thorn (Official Video)](https://www.youtube.com/watch?v=j2r2nDhTzO4)
 - [Poison - Your Mama Don't Dance](https://www.youtube.com/watch?v=aB5JRS6JOck)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Poison (3) - Open Up and Say...Ahh!](https://www.discogs.com/release/11926311) |
+| Release Year   | 2018 |
+| Discogs Link   | [Poison (3) - Open Up and Say...Ahh!](https://www.discogs.com/release/11926311-Poison-Open-Up-and-SayAhh) |
 | Label          | Capitol Records, UMe |
 | Format         | LP, Album, Ltd, RE, Gre |
 | Catalog Number | B0027945-01 |
+
+Limited to 1000 copies
 

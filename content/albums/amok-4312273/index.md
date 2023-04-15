@@ -1,14 +1,17 @@
 ---
 title: "Atoms For Peace (2) - Amok"
-album_artist: "Atoms For Peace (2)"
-album_title: "Amok"
+artist: "Atoms For Peace (2)"
+album_name: "Amok"
 date: 2018-01-06
 release_id: "4312273"
 slug: "amok-4312273"
+hideSummary: true
 cover:
     image: "amok-4312273.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Amok by Atoms For Peace (2)"
+    caption: "Amok by Atoms For Peace (2)"
+genres: ["Electronic", "Rock"]
+styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Atoms for Peace - Time Was Dropped](https://www.youtube.com/watch?v=v4tprVlFZDY)
 - [Atoms For Peace  - Judge Jury and Executioner](https://www.youtube.com/watch?v=LmNXMAQhp-I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Atoms For Peace (2) - Amok](https://www.discogs.com/release/4312273) |
+| Release Year   | 2013 |
+| Discogs Link   | [Atoms For Peace (2) - Amok](https://www.discogs.com/release/4312273-Atoms-For-Peace-Amok) |
 | Label          | XL Recordings, XL Recordings |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | XLLP583, XLLP 583 |
+
+Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way. Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.  P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd. Track durations not given on release.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Levellers - Levelling The Land 25th Anniversary Edition"
-album_artist: "The Levellers"
-album_title: "Levelling The Land 25th Anniversary Edition"
+artist: "The Levellers"
+album_name: "Levelling The Land 25th Anniversary Edition"
 date: 2016-11-30
 release_id: "9365189"
 slug: "levelling-the-land-25th-anniversary-edition-9365189"
+hideSummary: true
 cover:
     image: "levelling-the-land-25th-anniversary-edition-9365189.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Levelling The Land 25th Anniversary Edition by The Levellers"
+    caption: "Levelling The Land 25th Anniversary Edition by The Levellers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -88,13 +91,16 @@ hideSummary: true
 - [Levellers - The Game](https://www.youtube.com/watch?v=5rxC6_S1a1A)
 - [Levellers - The Road (with lyrics)](https://www.youtube.com/watch?v=HN4oQeKMTig)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Levellers - Levelling The Land 25th Anniversary Edition](https://www.discogs.com/release/9365189) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Levellers - Levelling The Land 25th Anniversary Edition](https://www.discogs.com/release/9365189-The-Levellers-Levelling-The-Land-25th-Anniversary-Edition) |
 | Label          | On The Fiddle Recordings |
 | Format         | Box, Album, Ltd + 2x12\", Album, S/Edition, Blu + 2 |
 | Catalog Number | OTFLP023XX |
+
+
 

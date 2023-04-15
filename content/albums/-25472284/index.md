@@ -1,14 +1,17 @@
 ---
 title: "Sigur Rós - ( )"
-album_artist: "Sigur Rós"
-album_title: "( )"
+artist: "Sigur Rós"
+album_name: "( )"
 date: 2022-12-19
 release_id: "25472284"
 slug: "-25472284"
+hideSummary: true
 cover:
     image: "-25472284.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "( ) by Sigur Rós"
+    caption: "( ) by Sigur Rós"
+genres: ["Electronic", "Rock"]
+styles: ["Abstract", "Post Rock", "Ambient"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Untitled #7 (Dauðalagið)](https://www.youtube.com/watch?v=yY4uo9yC7v8)
 - [Untitled #8 (Popplagið)](https://www.youtube.com/watch?v=kwNF5tDQVGk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Sigur Rós - ( )](https://www.discogs.com/release/25472284) |
+| Release Year   | 2022 |
+| Discogs Link   | [Sigur Rós - ( )](https://www.discogs.com/release/25472284-Sigur-R%C3%B3s--) |
 | Label          | Krúnk |
 | Format         | 2xLP, Album, Ltd, RE, RM, Tra |
 | Catalog Number | KRUNK79CLP |
+
+Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.  ℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk. © 2022 Krunk
 

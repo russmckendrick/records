@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - The Mix"
-album_artist: "Kraftwerk"
-album_title: "The Mix"
+artist: "Kraftwerk"
+album_name: "The Mix"
 date: 2017-04-23
 release_id: "10035766"
 slug: "the-mix-10035766"
+hideSummary: true
 cover:
     image: "the-mix-10035766.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Mix by Kraftwerk"
+    caption: "The Mix by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Electro"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="lnVEj5H0rpU" title="Kraftwerk   The Mix Full Album + Bonus Tracks 1991   English Version SD, 854x480" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Kraftwerk - The Mix](https://www.discogs.com/release/10035766) |
+| Release Year   | 2014 |
+| Discogs Link   | [Kraftwerk - The Mix](https://www.discogs.com/release/10035766-Kraftwerk-The-Mix) |
 | Label          | Kling Klang, Parlophone |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 50999 9 6605219 |
+
+Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider  Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.  ℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd.  © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company. Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover. 
 

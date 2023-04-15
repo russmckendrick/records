@@ -1,14 +1,17 @@
 ---
 title: "Madness - One Step Beyond..."
-album_artist: "Madness"
-album_title: "One Step Beyond..."
+artist: "Madness"
+album_name: "One Step Beyond..."
 date: 2016-02-02
 release_id: "395329"
 slug: "one-step-beyond-395329"
+hideSummary: true
 cover:
     image: "one-step-beyond-395329.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "One Step Beyond... by Madness"
+    caption: "One Step Beyond... by Madness"
+genres: ["Rock"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Madness ‎– My Girl](https://www.youtube.com/watch?v=tpp4chKLJTc)
 - [Madness ‎– Night Boat To Cairo](https://www.youtube.com/watch?v=aU2nnpZu0S0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1979 |
-| Discogs Link   | [Madness - One Step Beyond...](https://www.discogs.com/release/395329) |
+| Release Year   | 1979 |
+| Discogs Link   | [Madness - One Step Beyond...](https://www.discogs.com/release/395329-Madness-One-Step-Beyond) |
 | Label          | Stiff Records |
 | Format         | LP, Album, M/Print |
 | Catalog Number | SEEZ 17 |
+
+Similar UK versions (SEEZ 17): [r=395329] (this) - "Bed & Breakfast" on labels and sleeve; "Copyright Control" publisher; [r=10744663] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Copyright Control" publisher; [r=6915969] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Nutty Sounds / Warner" publisher;  A Clanger / Alan Winstanley Production. Recorded at Eden & T.W. Studios. Mixed at Rushent's Mansion (The Lucky Bleeder).  ℗ 1979  All tracks published by Copyright Control except B1 by Melodisc Records Ltd. and B6 by Warner Bros Music Ltd.  Both sleeve and label list B2 as Bed & Breakfast instead of Bed & Breakfast Man as seen on later issues. The track B7 'Madness' is intentionally not credited on either the sleeve or label.  Runouts are etched except for the CBS mark which is stamped SEEZ 17 A1 is etched SEEZ 16, the six is struck by a line and followed by a 7 (variants 2 & 7)
 

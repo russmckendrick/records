@@ -1,14 +1,17 @@
 ---
 title: "Derek & The Dominos - Layla And Other Assorted Love Songs"
-album_artist: "Derek & The Dominos"
-album_title: "Layla And Other Assorted Love Songs"
+artist: "Derek & The Dominos"
+album_name: "Layla And Other Assorted Love Songs"
 date: 2021-04-05
 release_id: "16252835"
 slug: "layla-and-other-assorted-love-songs-16252835"
+hideSummary: true
 cover:
     image: "layla-and-other-assorted-love-songs-16252835.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Layla And Other Assorted Love Songs by Derek & The Dominos"
+    caption: "Layla And Other Assorted Love Songs by Derek & The Dominos"
+genres: ["Rock", "Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Layla (40th Anniversary Version / 2010 Remastered)](https://www.youtube.com/watch?v=XVGTGW0cCw8)
 - [Derek and the Dominos - Thorn Tree in the Garden](https://www.youtube.com/watch?v=DrofkmicrRM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Derek & The Dominos - Layla And Other Assorted Love Songs](https://www.discogs.com/release/16252835) |
+| Release Year   | 2020 |
+| Discogs Link   | [Derek & The Dominos - Layla And Other Assorted Love Songs](https://www.discogs.com/release/16252835-Derek-The-Dominos-Layla-And-Other-Assorted-Love-Songs) |
 | Label          | Polydor, UMC |
 | Format         | Box, 50t + 2xLP, Album, RE, RM, Hal + 2xLP |
 | Catalog Number | 0602507274900, 0727490 |
+
+This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company. Made in the Czech Republic.  Hype Sticker (Guitar Shape) on Front of The Box Set reads: 50th Anniversary Half-Speed Mastered Vinyl Edition. Includes: - The Original Album In Half-Speed Mastered Format - Bonus Material Cut As Normal 180 Gram Vinyl - First Time On Vinyl For Some  Of These Rarities  F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set).
 

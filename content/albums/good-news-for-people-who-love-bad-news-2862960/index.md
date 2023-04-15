@@ -1,14 +1,17 @@
 ---
 title: "Modest Mouse - Good News For People Who Love Bad News"
-album_artist: "Modest Mouse"
-album_title: "Good News For People Who Love Bad News"
+artist: "Modest Mouse"
+album_name: "Good News For People Who Love Bad News"
 date: 2019-06-03
 release_id: "2862960"
 slug: "good-news-for-people-who-love-bad-news-2862960"
+hideSummary: true
 cover:
     image: "good-news-for-people-who-love-bad-news-2862960.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Good News For People Who Love Bad News by Modest Mouse"
+    caption: "Good News For People Who Love Bad News by Modest Mouse"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [One Chance](https://www.youtube.com/watch?v=jsiirnDtio8)
 - [The Good Times Are Killing Me](https://www.youtube.com/watch?v=oITcKJpM9UQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Modest Mouse - Good News For People Who Love Bad News](https://www.discogs.com/release/2862960) |
+| Release Year   | 2011 |
+| Discogs Link   | [Modest Mouse - Good News For People Who Love Bad News](https://www.discogs.com/release/2862960-Modest-Mouse-Good-News-For-People-Who-Love-Bad-News) |
 | Label          | Epic |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | E2 87125 |
+
+180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."  Includes printed inner-sleeves containing lyrics, credits and artwork.  EPIC E2-87125-1 © 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment  Pressing and lacquer cutting credits are identified in runout etchings.
 

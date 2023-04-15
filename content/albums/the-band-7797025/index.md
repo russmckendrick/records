@@ -1,14 +1,17 @@
 ---
 title: "The Band - The Band"
-album_artist: "The Band"
-album_title: "The Band"
+artist: "The Band"
+album_name: "The Band"
 date: 2017-10-06
 release_id: "7797025"
 slug: "the-band-7797025"
+hideSummary: true
 cover:
     image: "the-band-7797025.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Band by The Band"
+    caption: "The Band by The Band"
+genres: ["Rock", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. The Unfaithful Servant (4:15)
 12. King Harvest (Has Surely Come) (3:35)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Band - The Band](https://www.discogs.com/release/7797025) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Band - The Band](https://www.discogs.com/release/7797025-The-Band-The-Band) |
 | Label          | Capitol Records, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547206701 |
+
+
 

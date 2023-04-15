@@ -1,14 +1,17 @@
 ---
 title: "The Smashing Pumpkins - Oceania"
-album_artist: "The Smashing Pumpkins"
-album_title: "Oceania"
+artist: "The Smashing Pumpkins"
+album_name: "Oceania"
 date: 2015-09-27
 release_id: "3702725"
 slug: "oceania-3702725"
+hideSummary: true
 cover:
     image: "oceania-3702725.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Oceania by The Smashing Pumpkins"
+    caption: "Oceania by The Smashing Pumpkins"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Inkless (3:08)
 13. Wildflower (4:42)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [The Smashing Pumpkins - Oceania](https://www.discogs.com/release/3702725) |
+| Release Year   | 2012 |
+| Discogs Link   | [The Smashing Pumpkins - Oceania](https://www.discogs.com/release/3702725-The-Smashing-Pumpkins-Oceania) |
 | Label          | Martha's Music |
 | Format         | 2xLP, Album |
 | Catalog Number | MM 002 |
+
+Gatefold packaging, with lyrics printed inside the sleeve. 180 grams pressing.  Nicole Fiorentino's name is misspelled "Florentino" in the credits.  Sticker: "Oceania  First studio album from The Smashing Pumpkins in 5 years On Tour Fall 2012" 
 

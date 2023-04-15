@@ -1,14 +1,17 @@
 ---
 title: "Black Sabbath - Technical Ecstasy"
-album_artist: "Black Sabbath"
-album_title: "Technical Ecstasy"
+artist: "Black Sabbath"
+album_name: "Technical Ecstasy"
 date: 2017-05-27
 release_id: "4672294"
 slug: "technical-ecstasy-4672294"
+hideSummary: true
 cover:
     image: "technical-ecstasy-4672294.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Technical Ecstasy by Black Sabbath"
+    caption: "Technical Ecstasy by Black Sabbath"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [She's Gone (2021 - Remaster)](https://www.youtube.com/watch?v=rpt3XO_Z9mI)
 - [Dirty Women (2021 - Remaster)](https://www.youtube.com/watch?v=j5LN6rpvdGY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Black Sabbath - Technical Ecstasy](https://www.discogs.com/release/4672294) |
+| Release Year   | 1976 |
+| Discogs Link   | [Black Sabbath - Technical Ecstasy](https://www.discogs.com/release/4672294-Black-Sabbath-Technical-Ecstasy) |
 | Label          | Vertigo |
 | Format         | Cass, Album |
 | Catalog Number | 7231 400 |
+
+Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada  "It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct.
 

@@ -1,14 +1,17 @@
 ---
 title: "Pearl Jam - Vs."
-album_artist: "Pearl Jam"
-album_title: "Vs."
+artist: "Pearl Jam"
+album_name: "Vs."
 date: 2016-10-26
 release_id: "8354355"
 slug: "vs-8354355"
+hideSummary: true
 cover:
     image: "vs-8354355.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vs. by Pearl Jam"
+    caption: "Vs. by Pearl Jam"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Pearl Jam - Elderly Woman Behind the Counter in a Small Town (Official Audio)](https://www.youtube.com/watch?v=4YFYNUu_sqE)
 - [Rats (Remastered)](https://www.youtube.com/watch?v=NW_YwJNcZyY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pearl Jam - Vs.](https://www.discogs.com/release/8354355) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pearl Jam - Vs.](https://www.discogs.com/release/8354355-Pearl-Jam-Vs) |
 | Label          | Sony Music, Epic, Legacy |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 88697843131 |
+
+Issued in a gatefold sleeve, includes an insert with lyrics & credits.  
 

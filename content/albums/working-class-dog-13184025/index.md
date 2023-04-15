@@ -1,14 +1,17 @@
 ---
 title: "Rick Springfield - Working Class Dog"
-album_artist: "Rick Springfield"
-album_title: "Working Class Dog"
+artist: "Rick Springfield"
+album_name: "Working Class Dog"
 date: 2020-01-30
 release_id: "13184025"
 slug: "working-class-dog-13184025"
+hideSummary: true
 cover:
     image: "working-class-dog-13184025.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Working Class Dog by Rick Springfield"
+    caption: "Working Class Dog by Rick Springfield"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Rick Springfield - I've Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)
 - [Rick Springfield, Everybody's Girl](https://www.youtube.com/watch?v=YV_O-_LAQj8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Rick Springfield - Working Class Dog](https://www.discogs.com/release/13184025) |
+| Release Year   | 2019 |
+| Discogs Link   | [Rick Springfield - Working Class Dog](https://www.discogs.com/release/13184025-Rick-Springfield-Working-Class-Dog) |
 | Label          | RCA Victor, Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Bla |
 | Catalog Number | MOVLP1655 |
+
+180 gram audiophile vinyl Includes insert Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl
 

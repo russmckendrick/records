@@ -1,14 +1,17 @@
 ---
 title: "Bullet Height - No Atonement"
-album_artist: "Bullet Height"
-album_title: "No Atonement"
+artist: "Bullet Height"
+album_name: "No Atonement"
 date: 2017-06-08
 release_id: "10376234"
 slug: "no-atonement-10376234"
+hideSummary: true
 cover:
     image: "no-atonement-10376234.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "No Atonement by Bullet Height"
+    caption: "No Atonement by Bullet Height"
+genres: ["Electronic", "Rock"]
+styles: ["Industrial"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Fever](https://www.youtube.com/watch?v=Z6hnJrBKOKw)
 - [Break Our Hearts Down](https://www.youtube.com/watch?v=xHItLkOiP3g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Bullet Height - No Atonement](https://www.discogs.com/release/10376234) |
+| Release Year   | 2017 |
+| Discogs Link   | [Bullet Height - No Atonement](https://www.discogs.com/release/10376234-Bullet-Height-No-Atonement) |
 | Label          | Superball Music, Sony Music |
 | Format         | LP, Album, Gre + CD, Album + Ltd |
 | Catalog Number | SBMLP 044, 88985426881 |
+
+Limited to 1000 copies.
 

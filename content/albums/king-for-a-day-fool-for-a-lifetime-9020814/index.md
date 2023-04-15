@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - King For A Day Fool For A Lifetime"
-album_artist: "Faith No More"
-album_title: "King For A Day Fool For A Lifetime"
+artist: "Faith No More"
+album_name: "King For A Day Fool For A Lifetime"
 date: 2016-09-12
 release_id: "9020814"
 slug: "king-for-a-day-fool-for-a-lifetime-9020814"
+hideSummary: true
 cover:
     image: "king-for-a-day-fool-for-a-lifetime-9020814.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "King For A Day Fool For A Lifetime by Faith No More"
+    caption: "King For A Day Fool For A Lifetime by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [The Last to Know](https://www.youtube.com/watch?v=KER-6L5jq40)
 - [Just a Man](https://www.youtube.com/watch?v=h5MFFc0xdwg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Faith No More - King For A Day Fool For A Lifetime](https://www.discogs.com/release/9020814) |
+| Release Year   | 2016 |
+| Discogs Link   | [Faith No More - King For A Day Fool For A Lifetime](https://www.discogs.com/release/9020814-Faith-No-More-King-For-A-Day-Fool-For-A-Lifetime) |
 | Label          | Slash, Rhino Records (2) |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | 0190295973292 |
+
+A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker.
 

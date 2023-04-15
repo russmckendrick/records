@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - Autobahn"
-album_artist: "Kraftwerk"
-album_title: "Autobahn"
+artist: "Kraftwerk"
+album_name: "Autobahn"
 date: 2016-02-21
 release_id: "1978364"
 slug: "autobahn-1978364"
+hideSummary: true
 cover:
     image: "autobahn-1978364.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Autobahn by Kraftwerk"
+    caption: "Autobahn by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Krautrock", "Electro", "Experimental"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Morgenspaziergang (2009 Remaster)](https://www.youtube.com/watch?v=KnuHOtTw8QI)
 - [Kraftwerk Autobahn full](https://www.youtube.com/watch?v=x-G28iyPtz0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Kraftwerk - Autobahn](https://www.discogs.com/release/1978364) |
+| Release Year   | 2009 |
+| Discogs Link   | [Kraftwerk - Autobahn](https://www.discogs.com/release/1978364-Kraftwerk-Autobahn) |
 | Label          | Kling Klang, EMI |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 50999 6 99586 1 8 |
+
+Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974 [on booklet]  Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801] Printed in Germany [on rear cover]  Made in the EU [on labels]  Printed inner sleeve and 12" square 12-page booklet inserted.
 

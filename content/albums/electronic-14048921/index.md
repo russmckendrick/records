@@ -1,14 +1,17 @@
 ---
 title: "Various - Electronic"
-album_artist: "Various"
-album_title: "Electronic"
+artist: "Various"
+album_name: "Electronic"
 date: 2019-08-31
 release_id: "14048921"
 slug: "electronic-14048921"
+hideSummary: true
 cover:
     image: "electronic-14048921.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Electronic by Various"
+    caption: "Electronic by Various"
+genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
+styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro", "Hip Hop", "Pop Rock", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Say Hello, Wave Goodbye](https://www.youtube.com/watch?v=1G6SuujVCtk)
 - [Simple Minds - Glittering Prize](https://www.youtube.com/watch?v=ucw0twciNGk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Electronic](https://www.discogs.com/release/14048921) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Electronic](https://www.discogs.com/release/14048921-Various-Electronic) |
 | Label          | UMC, Sony Music, UMC, Sony Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | 5388157, 00600753881576 |
+
+Includes 'The Sound of Vinyl' free digital download code.  This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.  Made in the E.U.
 

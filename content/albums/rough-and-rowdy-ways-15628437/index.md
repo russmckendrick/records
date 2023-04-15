@@ -1,14 +1,17 @@
 ---
 title: "Bob Dylan - Rough And Rowdy Ways"
-album_artist: "Bob Dylan"
-album_title: "Rough And Rowdy Ways"
+artist: "Bob Dylan"
+album_name: "Rough And Rowdy Ways"
 date: 2020-07-17
 release_id: "15628437"
 slug: "rough-and-rowdy-ways-15628437"
+hideSummary: true
 cover:
     image: "rough-and-rowdy-ways-15628437.jpg"
-tags: ["Rock", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Rough And Rowdy Ways by Bob Dylan"
+    caption: "Rough And Rowdy Ways by Bob Dylan"
+genres: ["Rock", "Blues", "Folk, World, & Country"]
+styles: ["Country Blues", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Key West (Philosopher Pirate) (9:34)
 10. Murder Most Foul (16:54)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Bob Dylan - Rough And Rowdy Ways](https://www.discogs.com/release/15628437) |
+| Release Year   | 2020 |
+| Discogs Link   | [Bob Dylan - Rough And Rowdy Ways](https://www.discogs.com/release/15628437-Bob-Dylan-Rough-And-Rowdy-Ways) |
 | Label          | Columbia, Sony Music, Columbia, Sony Music |
 | Format         | 2xLP, Album, Ltd, Oli |
 | Catalog Number | 19439780991, C-250652 |
+
+Gatefold jacket with printed inner sleeves. Includes a download code card.  Hype sticker (all caps): 'Bob Dylan The new album Limited edition olive vinyl Exclusive Includes digital download 19439780991 S1'  © & ℗ 2020 Columbia Records, a division of Sony Music Entertainment Made in the EU.  Runouts:  'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched. Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'.
 

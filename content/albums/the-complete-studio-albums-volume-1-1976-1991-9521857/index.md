@@ -1,14 +1,17 @@
 ---
 title: "Tom Petty And The Heartbreakers - The Complete Studio Albums Volume 1 (1976-1991)"
-album_artist: "Tom Petty And The Heartbreakers"
-album_title: "The Complete Studio Albums Volume 1 (1976-1991)"
+artist: "Tom Petty And The Heartbreakers"
+album_name: "The Complete Studio Albums Volume 1 (1976-1991)"
 date: 2018-10-14
 release_id: "9521857"
 slug: "the-complete-studio-albums-volume-1-1976-1991-9521857"
+hideSummary: true
 cover:
     image: "the-complete-studio-albums-volume-1-1976-1991-9521857.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Complete Studio Albums Volume 1 (1976-1991) by Tom Petty And The Heartbreakers"
+    caption: "The Complete Studio Albums Volume 1 (1976-1991) by Tom Petty And The Heartbreakers"
+genres: ["Rock"]
+styles: ["Southern Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -115,16 +118,17 @@ hideSummary: true
 101. Makin' Some Noise (3:25)
 102. Built To Last (3:59)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Tom Petty And The Heartbreakers - The Complete Studio Albums Volume 1 (1976-1991)](https://www.discogs.com/release/9521857) |
+| Release Year   | 2016 |
+| Discogs Link   | [Tom Petty And The Heartbreakers - The Complete Studio Albums Volume 1 (1976-1991)](https://www.discogs.com/release/9521857-Tom-Petty-And-The-Heartbreakers-The-Complete-Studio-Albums-Volume-1-1976-1991) |
 | Label          | UMe, Geffen Records |
 | Format         | Box, Comp, Ltd + LP, Album, RE, RM + LP, Album, RE |
 | Catalog Number | 00602547952158 |
+
+Made in the EU.  All discs has the same dead wax information as the US release. First two LPs "Manufatured in Germany" on label.  First of two box sets released December 9, 2016, comprising Tom Petty and The Heartbreakers' studio album releases.  [b]The Studio Album Vinyl Collection (1976-1991)[/b] features the first 9 Tom Petty albums each pressed on 180g vinyl. All housed in a deluxe LP box with flip top lid.  • Cut by Chris Bellman at Bernie Grundman Mastering. • Cut from Original Analog Master Tapes.  Includes: Tom Petty And The Heartbreakers* (1976) You're Gonna Get It!* (1978) Damn The Torpedoes* (1979) Hard Promises (1981) Long After Dark (1982) Southern Accents (1985) Let Me Up (I've Had Enough) (1987) Full Moon Fever (1989) Into the Great Wide Open (1991) * remastered since 2010 - others remastered for this box set.  Albums with original cover art including inners and leaflets.  Volume 2 is here: [r=9481317] 
 

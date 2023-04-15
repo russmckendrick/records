@@ -1,14 +1,17 @@
 ---
 title: "Richard Hawley - Late Night Final"
-album_artist: "Richard Hawley"
-album_title: "Late Night Final"
+artist: "Richard Hawley"
+album_name: "Late Night Final"
 date: 2019-05-17
 release_id: "6196121"
 slug: "late-night-final-6196121"
+hideSummary: true
 cover:
     image: "late-night-final-6196121.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Late Night Final by Richard Hawley"
+    caption: "Late Night Final by Richard Hawley"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)
 - [The Light At the End of the Tunnel (Was a Train Coming the Other Way)](https://www.youtube.com/watch?v=jIYdJeRYNSo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Richard Hawley - Late Night Final](https://www.discogs.com/release/6196121) |
+| Release Year   | 2014 |
+| Discogs Link   | [Richard Hawley - Late Night Final](https://www.discogs.com/release/6196121-Richard-Hawley-Late-Night-Final) |
 | Label          | Setanta |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | SETLP088 |
+
+Some signed copies were available on the 2016 tour.  ℗ & © Setanta Records Ltd, Made In UK
 

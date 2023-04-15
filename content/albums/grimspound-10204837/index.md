@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - Grimspound"
-album_artist: "Big Big Train"
-album_title: "Grimspound"
+artist: "Big Big Train"
+album_name: "Grimspound"
 date: 2017-04-29
 release_id: "10204837"
 slug: "grimspound-10204837"
+hideSummary: true
 cover:
     image: "grimspound-10204837.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grimspound by Big Big Train"
+    caption: "Grimspound by Big Big Train"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 - [Brave Captain](https://www.youtube.com/watch?v=m8M6KG1e-jU)
 - [A Mead Hall in Winter](https://www.youtube.com/watch?v=52lrA-D7aKA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Big Big Train - Grimspound](https://www.discogs.com/release/10204837) |
+| Release Year   | 2017 |
+| Discogs Link   | [Big Big Train - Grimspound](https://www.discogs.com/release/10204837-Big-Big-Train-Grimspound) |
 | Label          | Plane Groovy |
 | Format         | 2xLP, Album, Ltd, Opa |
 | Catalog Number | PLG050 |
+
+Limited edition Opaque Vinyl version which also came with a signed postcard
 

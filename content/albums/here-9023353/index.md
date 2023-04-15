@@ -1,14 +1,17 @@
 ---
 title: "Teenage Fanclub - Here"
-album_artist: "Teenage Fanclub"
-album_title: "Here"
+artist: "Teenage Fanclub"
+album_name: "Here"
 date: 2016-09-12
 release_id: "9023353"
 slug: "here-9023353"
+hideSummary: true
 cover:
     image: "here-9023353.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Here by Teenage Fanclub"
+    caption: "Here by Teenage Fanclub"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}
 - [Teenage Fanclub - Thin Air](https://www.youtube.com/watch?v=wjAl8jqdMjg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Teenage Fanclub - Here](https://www.discogs.com/release/9023353) |
+| Release Year   | 2016 |
+| Discogs Link   | [Teenage Fanclub - Here](https://www.discogs.com/release/9023353-Teenage-Fanclub-Here) |
 | Label          | Pema |
 | Format         | LP, Album |
 | Catalog Number | PEMA009LP |
+
+Includes download code coupon and a printed inner sleeve.  ℗ & © 2016 PeMa  Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road.
 

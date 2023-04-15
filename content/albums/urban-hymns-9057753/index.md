@@ -1,14 +1,17 @@
 ---
 title: "The Verve - Urban Hymns"
-album_artist: "The Verve"
-album_title: "Urban Hymns"
+artist: "The Verve"
+album_name: "Urban Hymns"
 date: 2017-07-13
 release_id: "9057753"
 slug: "urban-hymns-9057753"
+hideSummary: true
 cover:
     image: "urban-hymns-9057753.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Urban Hymns by The Verve"
+    caption: "Urban Hymns by The Verve"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -87,13 +90,16 @@ hideSummary: true
 - [Weeping Willow (Live From The 9:30 Club)](https://www.youtube.com/watch?v=dboEqXd8tBM)
 - [Stormy Clouds / (Reprise)](https://www.youtube.com/watch?v=0YofkBCMEkY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Verve - Urban Hymns](https://www.discogs.com/release/9057753) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Verve - Urban Hymns](https://www.discogs.com/release/9057753-The-Verve-Urban-Hymns) |
 | Label          | Virgin EMI Records, Universal UMC |
 | Format         | 2xLP, Album, RE, RM, Ban |
 | Catalog Number | 4787014, 00602547870148 |
+
+℗ 2016 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Originally released 1997 as HUTLP45. Includes printed innersleeves.  All tracks published by Kobalt Music Publishing Limited, except track 1 published by Abkco Music Inc.  At least five different vinyl releases exist; this one replicates the version with [the band pictured on each side label and RIM text](https://www.discogs.com/The-Verve-Urban-Hymns/release/8139920)  Other versions available are: - with [the band pictured on each side label without RIM text](https://www.discogs.com/The-Verve-Urban-Hymns/release/4274293) - with [black side labels](https://www.discogs.com/The-Verve-Urban-Hymns/release/445878) - the [mailing sleeve](https://www.discogs.com/The-Verve-Urban-Hymns/release/3416731) edition (limited to 5000 copies) - the [2008 US reissue](https://www.discogs.com/The-Verve-Urban-Hymns/release/1548478) by [L=Capitol Records]   Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media.
 

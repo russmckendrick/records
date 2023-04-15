@@ -1,14 +1,17 @@
 ---
 title: "Roger Waters - Us + Them"
-album_artist: "Roger Waters"
-album_title: "Us + Them"
+artist: "Roger Waters"
+album_name: "Us + Them"
 date: 2020-10-03
 release_id: "15995138"
 slug: "us-them-15995138"
+hideSummary: true
 cover:
     image: "us-them-15995138.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Us + Them by Roger Waters"
+    caption: "Us + Them by Roger Waters"
+genres: ["Rock"]
+styles: ["Classic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Roger Waters - Us & Them (Live in Amsterdam, June, 2018)](https://www.youtube.com/watch?v=O7w765-TbjY)
 - [Roger Waters - Money (Live in Amsterdam, June, 2018)](https://www.youtube.com/watch?v=LnRXVt1UFrQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Roger Waters - Us + Them](https://www.discogs.com/release/15995138) |
+| Release Year   | 2020 |
+| Discogs Link   | [Roger Waters - Us + Them](https://www.discogs.com/release/15995138-Roger-Waters-Us-Them) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | 3xLP, Album, Tri |
 | Catalog Number | 19439707691 |
+
+Sleeve Trifolded + 8-page booklet. Made in the E.U.  Sticker: US+THEM  A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE Over two hours of live music including TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE TRIPLE LP SET Audio companion to the acclaimed film Includes digital download
 

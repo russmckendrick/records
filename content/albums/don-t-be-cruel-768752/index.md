@@ -1,14 +1,17 @@
 ---
 title: "Bobby Brown - Don't Be Cruel"
-album_artist: "Bobby Brown"
-album_title: "Don't Be Cruel"
+artist: "Bobby Brown"
+album_name: "Don't Be Cruel"
 date: 2020-08-01
 release_id: "768752"
 slug: "don-t-be-cruel-768752"
+hideSummary: true
 cover:
     image: "don-t-be-cruel-768752.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Don't Be Cruel by Bobby Brown"
+    caption: "Don't Be Cruel by Bobby Brown"
+genres: ["Hip Hop"]
+styles: ["RnB/Swing"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Bobby Brown - Don't Be Cruel [Club MTV] *1989*](https://www.youtube.com/watch?v=kqmaLrpWk6Y)
 - [Don't Be Cruel Bobby Brown live in Japan 1991](https://www.youtube.com/watch?v=hmrWJHVt1q8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Bobby Brown - Don't Be Cruel](https://www.discogs.com/release/768752) |
+| Release Year   | 1988 |
+| Discogs Link   | [Bobby Brown - Don't Be Cruel](https://www.discogs.com/release/768752-Bobby-Brown-Dont-Be-Cruel) |
 | Label          | MCA Records, MCA Records |
 | Format         | LP, Album, M/Print |
 | Catalog Number | MCF 3425, MCF 3245 |
+
+Misprint version with MCF 3245 on back cover.
 

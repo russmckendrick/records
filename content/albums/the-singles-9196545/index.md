@@ -1,14 +1,17 @@
 ---
 title: "Phil Collins - The Singles"
-album_artist: "Phil Collins"
-album_title: "The Singles"
+artist: "Phil Collins"
+album_name: "The Singles"
 date: 2017-01-06
 release_id: "9196545"
 slug: "the-singles-9196545"
+hideSummary: true
 cover:
     image: "the-singles-9196545.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Singles by Phil Collins"
+    caption: "The Singles by Phil Collins"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Ballad"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 {{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}
 - [Phil Collins - In The Air Tonight (Official Music Video)](https://www.youtube.com/watch?v=YkADj0TPrJA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Phil Collins - The Singles](https://www.discogs.com/release/9196545) |
+| Release Year   | 2016 |
+| Discogs Link   | [Phil Collins - The Singles](https://www.discogs.com/release/9196545-Phil-Collins-The-Singles) |
 | Label          | Atlantic |
 | Format         | 4xLP, Comp, RM + Box |
 | Catalog Number | 081227945909 |
+
+Includes 20 page high gloss book with photos and song info.  For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'  Half speed mastering and pressing plant uncredited, identified by runout.
 

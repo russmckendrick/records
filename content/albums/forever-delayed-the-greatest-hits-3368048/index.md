@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - Forever Delayed - The Greatest Hits"
-album_artist: "Manic Street Preachers"
-album_title: "Forever Delayed - The Greatest Hits"
+artist: "Manic Street Preachers"
+album_name: "Forever Delayed - The Greatest Hits"
 date: 2016-03-24
 release_id: "3368048"
 slug: "forever-delayed-the-greatest-hits-3368048"
+hideSummary: true
 cover:
     image: "forever-delayed-the-greatest-hits-3368048.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Forever Delayed - The Greatest Hits by Manic Street Preachers"
+    caption: "Forever Delayed - The Greatest Hits by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. The Everlasting
 20. Motown Junk
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Manic Street Preachers - Forever Delayed - The Greatest Hits](https://www.discogs.com/release/3368048) |
+| Release Year   | 2010 |
+| Discogs Link   | [Manic Street Preachers - Forever Delayed - The Greatest Hits](https://www.discogs.com/release/3368048-Manic-Street-Preachers-Forever-Delayed-The-Greatest-Hits) |
 | Label          | Epic, Music On Vinyl |
 | Format         | 2xLP, Comp, RE |
 | Catalog Number | MOVLP221 |
+
+180-gram pressing with two full-colour printed inner sleeves and original artwork.
 

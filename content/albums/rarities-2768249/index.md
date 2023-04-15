@@ -1,14 +1,17 @@
 ---
 title: "Emiliana Torrini - Rarities"
-album_artist: "Emiliana Torrini"
-album_title: "Rarities"
+artist: "Emiliana Torrini"
+album_name: "Rarities"
 date: 2016-11-21
 release_id: "2768249"
 slug: "rarities-2768249"
+hideSummary: true
 cover:
     image: "rarities-2768249.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Rarities by Emiliana Torrini"
+    caption: "Rarities by Emiliana Torrini"
+genres: ["Electronic", "Pop"]
+styles: ["Techno", "Trip Hop", "Vocal"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Emiliana Torrini - Rarities](https://www.discogs.com/release/2768249) |
+| Release Year   | 2011 |
+| Discogs Link   | [Emiliana Torrini - Rarities](https://www.discogs.com/release/2768249-Emiliana-Torrini-Rarities) |
 | Label          | One Little Indian |
 | Format         | 4xLP, Comp |
 | Catalog Number | TPLP1081 |
+
+Issued in a slip case with 2 separate outer sleeves. Hype sticker on shrink wrap.  This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records.  The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited. CAT NO. TPLP1081 (LC 03275) 5 016958 134662. 
 

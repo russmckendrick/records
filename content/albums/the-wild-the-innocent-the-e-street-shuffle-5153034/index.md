@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle"
-album_artist: "Bruce Springsteen"
-album_title: "The Wild, The Innocent &  The E Street Shuffle"
+artist: "Bruce Springsteen"
+album_name: "The Wild, The Innocent &  The E Street Shuffle"
 date: 2015-09-15
 release_id: "5153034"
 slug: "the-wild-the-innocent-the-e-street-shuffle-5153034"
+hideSummary: true
 cover:
     image: "the-wild-the-innocent-the-e-street-shuffle-5153034.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Wild, The Innocent &  The E Street Shuffle by Bruce Springsteen"
+    caption: "The Wild, The Innocent &  The E Street Shuffle by Bruce Springsteen"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Rosalita (Come Out Tonight)](https://www.youtube.com/watch?v=JuVKhS13eKY)
 - [New York City Serenade](https://www.youtube.com/watch?v=fEQENfRoBgw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle](https://www.discogs.com/release/5153034) |
+| Release Year   | 1975 |
+| Discogs Link   | [Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle](https://www.discogs.com/release/5153034-Bruce-Springsteen-The-WildInnocent-The-E-Street-Shuffle) |
 | Label          | CBS |
 | Format         | LP, Album, RE |
 | Catalog Number | S 65780 |
+
+Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).  Wide title, first line in record title on label is 70 mm long.
 

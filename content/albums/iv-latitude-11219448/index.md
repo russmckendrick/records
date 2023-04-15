@@ -1,14 +1,17 @@
 ---
 title: "Lesoir - IV Latitude"
-album_artist: "Lesoir"
-album_title: "IV Latitude"
+artist: "Lesoir"
+album_name: "IV Latitude"
 date: 2019-03-27
 release_id: "11219448"
 slug: "iv-latitude-11219448"
+hideSummary: true
 cover:
     image: "iv-latitude-11219448.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "IV Latitude by Lesoir"
+    caption: "IV Latitude by Lesoir"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Lesoir Latitude (GAOM054)](https://www.youtube.com/watch?v=L8vaclL7Ojc)
 - [In Their Eyes](https://www.youtube.com/watch?v=H6JRkSNYD80)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Lesoir - IV Latitude](https://www.discogs.com/release/11219448) |
+| Release Year   | 2017 |
+| Discogs Link   | [Lesoir - IV Latitude](https://www.discogs.com/release/11219448-Lesoir-IV-Latitude) |
 | Label          | Gentle Art Of Music |
 | Format         | 2xLP, Album |
 | Catalog Number | GAOM 054LP |
+
+Ordered Directly by the Band to get a Signed edition. Includes a download card.
 

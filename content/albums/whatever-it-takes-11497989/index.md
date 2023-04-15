@@ -1,14 +1,17 @@
 ---
 title: "The James Hunter Six - Whatever It Takes"
-album_artist: "The James Hunter Six"
-album_title: "Whatever It Takes"
+artist: "The James Hunter Six"
+album_name: "Whatever It Takes"
 date: 2018-02-19
 release_id: "11497989"
 slug: "whatever-it-takes-11497989"
+hideSummary: true
 cover:
     image: "whatever-it-takes-11497989.jpg"
-tags: ["Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "Whatever It Takes by The James Hunter Six"
+    caption: "Whatever It Takes by The James Hunter Six"
+genres: ["Funk / Soul", "Blues"]
+styles: ["Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
 - [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The James Hunter Six - Whatever It Takes](https://www.discogs.com/release/11497989) |
+| Release Year   | 2018 |
+| Discogs Link   | [The James Hunter Six - Whatever It Takes](https://www.discogs.com/release/11497989-The-James-Hunter-Six-Whatever-It-Takes) |
 | Label          | Daptone Records |
 | Format         | LP, Album, Mono, Ltd, Gol |
 | Catalog Number | DAP-051 |
+
+Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  All songs Stoketone Pub., BMI. A Bosco Mann Production © 2017, Daptone Records. Sleeve notes -Sam Boncon, WHIT  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Limited edition translucent gold vinyl. Includes MP 3 download card.
 

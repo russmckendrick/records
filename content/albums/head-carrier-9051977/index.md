@@ -1,14 +1,17 @@
 ---
 title: "Pixies - Head Carrier"
-album_artist: "Pixies"
-album_title: "Head Carrier"
+artist: "Pixies"
+album_name: "Head Carrier"
 date: 2016-10-03
 release_id: "9051977"
 slug: "head-carrier-9051977"
+hideSummary: true
 cover:
     image: "head-carrier-9051977.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Head Carrier by Pixies"
+    caption: "Head Carrier by Pixies"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [PIXIES - Plaster Of Paris (Official Audio)](https://www.youtube.com/watch?v=vI9ivJ276Xg)
 - [PIXIES - All The Saints (Official Audio)](https://www.youtube.com/watch?v=loG0HjEjWMU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pixies - Head Carrier](https://www.discogs.com/release/9051977) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pixies - Head Carrier](https://www.discogs.com/release/9051977-Pixies-Head-Carrier) |
 | Label          | Pixies Music, Pixies Music |
 | Format         | LP, Album, 180 |
 | Catalog Number | PM018LP, PMX018LPX |
+
+The first catalog number appears on the spine, back cover and A-side label. The second catalog number appears on the back cover barcode that is stickered on the release.   Housed in a gatefold cover and a printed inner sleeve, contains a slipmat and a download coupon for the entire album.  Indie records store exclusive release.    From the back cover:  Exclusively licensed worldwide to play it aǵain     sam   ℗ & © Pixies Music 2016  From the inner sleeve:  Recorded at RAK Studios  Mixed at Psalm Studios  Assistant at RAK: [...]  Pressing plant uncredited, derived from runout etchings.
 

@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Cobra And Phases Group Play Voltage In The Milky Night"
-album_artist: "Stereolab"
-album_title: "Cobra And Phases Group Play Voltage In The Milky Night"
+artist: "Stereolab"
+album_name: "Cobra And Phases Group Play Voltage In The Milky Night"
 date: 2019-09-15
 release_id: "14128831"
 slug: "cobra-and-phases-group-play-voltage-in-the-milky-night-14128831"
+hideSummary: true
 cover:
     image: "cobra-and-phases-group-play-voltage-in-the-milky-night-14128831.jpg"
-tags: ["Electronic", "Jazz", "Rock"]
-hideSummary: true
+    alt: "Cobra And Phases Group Play Voltage In The Milky Night by Stereolab"
+    caption: "Cobra And Phases Group Play Voltage In The Milky Night by Stereolab"
+genres: ["Electronic", "Jazz", "Rock"]
+styles: ["Experimental", "Indie Rock", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [Caleidoscopic Gaze](https://www.youtube.com/watch?v=jTS6Mu2guiI)
 - [The Spiracles](https://www.youtube.com/watch?v=lbW9w7Oo6vs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stereolab - Cobra And Phases Group Play Voltage In The Milky Night](https://www.discogs.com/release/14128831) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stereolab - Cobra And Phases Group Play Voltage In The Milky Night](https://www.discogs.com/release/14128831-Stereolab-Cobra-And-Phases-Group-Play-Voltage-In-The-Milky-Night) |
 | Label          | Duophonic Ultra High Frequency Disks, Warp Records |
 | Format         | 2xLP, Album, RE, RM + LP + Ltd, Num, Cle |
 | Catalog Number | D-UHF-D23RC |
+
+Limited edition numbered clear vinyl edition (2500 copies)  With scratch card to win an exclusive Stereolab record at end of the year. Remastered from original tapes. Bonus disk of unreleased demos, outtakes and alternate mixes. Co-released by band’s own label Duophonic UHF Disks and Warp Records. Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane. Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet. 
 

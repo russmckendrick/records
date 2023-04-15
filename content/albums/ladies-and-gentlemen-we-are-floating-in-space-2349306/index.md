@@ -1,14 +1,17 @@
 ---
 title: "Spiritualized - Ladies And Gentlemen We Are Floating In Space"
-album_artist: "Spiritualized"
-album_title: "Ladies And Gentlemen We Are Floating In Space"
+artist: "Spiritualized"
+album_name: "Ladies And Gentlemen We Are Floating In Space"
 date: 2016-04-28
 release_id: "2349306"
 slug: "ladies-and-gentlemen-we-are-floating-in-space-2349306"
+hideSummary: true
 cover:
     image: "ladies-and-gentlemen-we-are-floating-in-space-2349306.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Ladies And Gentlemen We Are Floating In Space by Spiritualized"
+    caption: "Ladies And Gentlemen We Are Floating In Space by Spiritualized"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Gospel", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/2349306) |
+| Release Year   | 2010 |
+| Discogs Link   | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/2349306-Spiritualized-Ladies-And-Gentlemen-We-Are-Floating-In-Space) |
 | Label          | Plain Recordings, Arista |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | Plain150, P766613 |
+
+Includes "Patient Product Information" credit sheet.  Date of preparation March 1997.  © 2010 Sony Music Entertainment ℗ 1997 Dedicated  The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland.
 

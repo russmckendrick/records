@@ -1,14 +1,17 @@
 ---
 title: "Church Of The Cosmic Skull - Everybody's Going To Die "
-album_artist: "Church Of The Cosmic Skull"
-album_title: "Everybody's Going To Die "
+artist: "Church Of The Cosmic Skull"
+album_name: "Everybody's Going To Die "
 date: 2020-03-14
 release_id: "14924038"
 slug: "everybody-s-going-to-die-14924038"
+hideSummary: true
 cover:
     image: "everybody-s-going-to-die-14924038.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Everybody's Going To Die  by Church Of The Cosmic Skull"
+    caption: "Everybody's Going To Die  by Church Of The Cosmic Skull"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="vaMH-ha3Lbc" title="Everybody's Going to Die" >}}
 - [Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)](https://www.youtube.com/watch?v=KcFy-lYmncE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Church Of The Cosmic Skull - Everybody's Going To Die ](https://www.discogs.com/release/14924038) |
+| Release Year   | 2020 |
+| Discogs Link   | [Church Of The Cosmic Skull - Everybody's Going To Die ](https://www.discogs.com/release/14924038-Church-Of-The-Cosmic-Skull-Everybodys-Going-To-Die-) |
 | Label          | Septaphonic Records |
 | Format         | LP, Album, Ltd, Num, Cos |
 | Catalog Number | Septaphonic 1 |
+
+Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.  Comes with signed poster and certificate of authentication on name of customer Serial number: 5 070000 12808
 

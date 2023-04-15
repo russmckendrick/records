@@ -1,14 +1,17 @@
 ---
 title: "Goldie - Timeless (25th Anniversary Edition)"
-album_artist: "Goldie"
-album_title: "Timeless (25th Anniversary Edition)"
+artist: "Goldie"
+album_name: "Timeless (25th Anniversary Edition)"
 date: 2021-04-17
 release_id: "18291646"
 slug: "timeless-25th-anniversary-edition-18291646"
+hideSummary: true
 cover:
     image: "timeless-25th-anniversary-edition-18291646.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Timeless (25th Anniversary Edition) by Goldie"
+    caption: "Timeless (25th Anniversary Edition) by Goldie"
+genres: ["Electronic"]
+styles: ["Drum n Bass", "Jungle"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Goldie: Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
 - [Goldie: You & Me](https://www.youtube.com/watch?v=kZAeF4Fy9us)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Goldie - Timeless (25th Anniversary Edition)](https://www.discogs.com/release/18291646) |
+| Release Year   | 2021 |
+| Discogs Link   | [Goldie - Timeless (25th Anniversary Edition)](https://www.discogs.com/release/18291646-Goldie-Timeless-25th-Anniversary-Edition) |
 | Label          | Metalheadz, London Records |
 | Format         | 3xLP, Album, Ltd, RE, Gol |
 | Catalog Number | LMS551367 |
+
+Released in tri-fold sleeve.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Wedding Present - Bizarro"
-album_artist: "The Wedding Present"
-album_title: "Bizarro"
+artist: "The Wedding Present"
+album_name: "Bizarro"
 date: 2020-10-11
 release_id: "16038548"
 slug: "bizarro-16038548"
+hideSummary: true
 cover:
     image: "bizarro-16038548.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bizarro by The Wedding Present"
+    caption: "Bizarro by The Wedding Present"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Be Honest](https://www.youtube.com/watch?v=HfNduoq-Gz8)
 - [No](https://www.youtube.com/watch?v=Rww6zqqTh7A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Wedding Present - Bizarro](https://www.discogs.com/release/16038548) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Wedding Present - Bizarro](https://www.discogs.com/release/16038548-The-Wedding-Present-Bizarro) |
 | Label          | RCA |
 | Format         | LP, Album, RE |
 | Catalog Number | 19439793371 |
+
+One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green. Outer sleeve is a paler shade and has a different font, notably to the artist name. Band official website states that David Gedge was not consulted whilst this reissue was being put together. Download voucher included.  On both runouts, the geometric plating marks are mirrored.
 

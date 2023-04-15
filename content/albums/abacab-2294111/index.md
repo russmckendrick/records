@@ -1,14 +1,17 @@
 ---
 title: "Genesis - Abacab"
-album_artist: "Genesis"
-album_title: "Abacab"
+artist: "Genesis"
+album_name: "Abacab"
 date: 2015-09-11
 release_id: "2294111"
 slug: "abacab-2294111"
+hideSummary: true
 cover:
     image: "abacab-2294111.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Abacab by Genesis"
+    caption: "Abacab by Genesis"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Genesis - Abacab (Official Music Video)](https://www.youtube.com/watch?v=suCNZe3Gwkw)
 - [Genesis - Abacab 1981 Live Video](https://www.youtube.com/watch?v=EOK1Y4GJnMc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Genesis - Abacab](https://www.discogs.com/release/2294111) |
+| Release Year   | 1981 |
+| Discogs Link   | [Genesis - Abacab](https://www.discogs.com/release/2294111-Genesis-Abacab) |
 | Label          | Charisma |
 | Format         | LP, Album, COR |
 | Catalog Number | CBR 102 |
+
+Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release  Contains a special, picture inner sleeve  This version has a cyan, orange, red and green embossed cover  A version with a blue/grey cover is [r667424] 
 

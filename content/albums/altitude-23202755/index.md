@@ -1,14 +1,17 @@
 ---
 title: "ALT (6) - Altitude "
-album_artist: "ALT (6)"
-album_title: "Altitude "
+artist: "ALT (6)"
+album_name: "Altitude "
 date: 2022-06-06
 release_id: "23202755"
 slug: "altitude-23202755"
+hideSummary: true
 cover:
     image: "altitude-23202755.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Altitude  by ALT (6)"
+    caption: "Altitude  by ALT (6)"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Acoustic", "Soft Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 {{< youtube id="-vjGteVwIM8" title="Alt - Favourite Girl" >}}
 - [alt - what you've done](https://www.youtube.com/watch?v=o-x_kPtLdiA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [ALT (6) - Altitude ](https://www.discogs.com/release/23202755) |
+| Release Year   | 2022 |
+| Discogs Link   | [ALT (6) - Altitude ](https://www.discogs.com/release/23202755-ALT-Altitude-) |
 | Label          | Needle Mythology |
 | Format         | 2xLP, Album, Dlx, RE, RM |
 | Catalog Number | NEMYLP010 |
+
+
 

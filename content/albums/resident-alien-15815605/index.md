@@ -1,14 +1,17 @@
 ---
 title: "Spacehog - Resident Alien"
-album_artist: "Spacehog"
-album_title: "Resident Alien"
+artist: "Spacehog"
+album_name: "Resident Alien"
 date: 2020-09-07
 release_id: "15815605"
 slug: "resident-alien-15815605"
+hideSummary: true
 cover:
     image: "resident-alien-15815605.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Resident Alien by Spacehog"
+    caption: "Resident Alien by Spacehog"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Glam", "Punk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Only a Few](https://www.youtube.com/watch?v=uf7XG1irP0M)
 - [The Last Dictator](https://www.youtube.com/watch?v=t99_bSas4DI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Spacehog - Resident Alien](https://www.discogs.com/release/15815605) |
+| Release Year   | 2020 |
+| Discogs Link   | [Spacehog - Resident Alien](https://www.discogs.com/release/15815605-Spacehog-Resident-Alien) |
 | Label          | Sire, Hi Fi Recordings, Real Gone Music |
 | Format         | 2xLP, Album, RSD, Ltd, RE, Pin |
 | Catalog Number | 61834-2, RGM-1014 |
+
+Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.  Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.  
 

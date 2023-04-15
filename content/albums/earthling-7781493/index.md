@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - Earthling"
-album_artist: "David Bowie"
-album_title: "Earthling"
+artist: "David Bowie"
+album_name: "Earthling"
 date: 2016-02-24
 release_id: "7781493"
 slug: "earthling-7781493"
+hideSummary: true
 cover:
     image: "earthling-7781493.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Earthling by David Bowie"
+    caption: "Earthling by David Bowie"
+genres: ["Electronic", "Rock"]
+styles: ["Drum n Bass", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. I'm Afraid Of Americans
 9. Law (Earthlings On Fire)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [David Bowie - Earthling](https://www.discogs.com/release/7781493) |
+| Release Year   | 2015 |
+| Discogs Link   | [David Bowie - Earthling](https://www.discogs.com/release/7781493-David-Bowie-Earthling) |
 | Label          | ISO Records, Columbia, Friday Music |
 | Format         | LP, Album, RSD, RE, Gre |
 | Catalog Number | FRM-42627 |
+
+Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.  Recorded at Looking Glass Studios Mixed at Right Track Originally mastered at Gateway Mastering Studios Inc. Portland, Maine (Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA  © 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment ℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment  Title is written as "EART HL I NG" on the cover.  Premium Vinyl Pressing HQ-180 RTI   ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine 
 

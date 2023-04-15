@@ -1,14 +1,17 @@
 ---
 title: "Panda Bear - Person Pitch"
-album_artist: "Panda Bear"
-album_title: "Person Pitch"
+artist: "Panda Bear"
+album_name: "Person Pitch"
 date: 2017-01-16
 release_id: "9649225"
 slug: "person-pitch-9649225"
+hideSummary: true
 cover:
     image: "person-pitch-9649225.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Person Pitch by Panda Bear"
+    caption: "Person Pitch by Panda Bear"
+genres: ["Electronic", "Rock"]
+styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Search For Delicious](https://www.youtube.com/watch?v=Hiz0C5hQsxU)
 - [Ponytail](https://www.youtube.com/watch?v=EgDqnQLX6hk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Panda Bear - Person Pitch](https://www.discogs.com/release/9649225) |
+| Release Year   | 2017 |
+| Discogs Link   | [Panda Bear - Person Pitch](https://www.discogs.com/release/9649225-Panda-Bear-Person-Pitch) |
 | Label          | My Animal Home |
 | Format         | 12\", Whi + 12\", Blu + Album, Club, RE, RM, Gat |
 | Catalog Number | MAH08 |
+
+'Vinyl Me, Please' record club exclusive. Record of the month for January 2017: 10-year Anniversary Reissue 2xLP, White + Blue Vinyl Half Speed Remastered, 45 RPM Gatefold direct-to-board style jacket 12" x 12" Original Art Print by Mi Ju  https://www.vinylmeplease.com/products/panda-bear-person-pitch-full
 

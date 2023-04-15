@@ -1,14 +1,17 @@
 ---
 title: "The War On Drugs - I Don't Live Here Anymore"
-album_artist: "The War On Drugs"
-album_title: "I Don't Live Here Anymore"
+artist: "The War On Drugs"
+album_name: "I Don't Live Here Anymore"
 date: 2021-10-30
 release_id: "20771347"
 slug: "i-don-t-live-here-anymore-20771347"
+hideSummary: true
 cover:
     image: "i-don-t-live-here-anymore-20771347.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "I Don't Live Here Anymore by The War On Drugs"
+    caption: "I Don't Live Here Anymore by The War On Drugs"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [The War On Drugs - I Don't Live Here Anymore (feat. Lucius) [Official Music Video]](https://www.youtube.com/watch?v=MVh6XTwWhMY)
 - [The War On Drugs - Living Proof [Official Video]](https://www.youtube.com/watch?v=B3OEofsCur8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The War On Drugs - I Don't Live Here Anymore](https://www.discogs.com/release/20771347) |
+| Release Year   | 2021 |
+| Discogs Link   | [The War On Drugs - I Don't Live Here Anymore](https://www.discogs.com/release/20771347-The-War-On-Drugs-I-Dont-Live-Here-Anymore) |
 | Label          | Atlantic, Atlantic |
 | Format         | 2xLP, Album |
 | Catalog Number | SEL 1-659043 - 075678643477, 075678641299 |
+
+℗ & © 2021 Atlantic Recording Corporation.  Manufactured in France.  Double LP, black vinyl Catalog Number 075678641299 on spine Catalog Numbers SEL 1-659043 - 075678643477 on label
 

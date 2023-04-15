@@ -1,14 +1,17 @@
 ---
 title: "Gentle Giant - Three Piece Suite"
-album_artist: "Gentle Giant"
-album_title: "Three Piece Suite"
+artist: "Gentle Giant"
+album_name: "Three Piece Suite"
 date: 2017-10-13
 release_id: "10928571"
 slug: "three-piece-suite-10928571"
+hideSummary: true
 cover:
     image: "three-piece-suite-10928571.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Three Piece Suite by Gentle Giant"
+    caption: "Three Piece Suite by Gentle Giant"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Three Friends (Steven Wilson Mix)](https://www.youtube.com/watch?v=TBWPlsVcd18)
 - [Schooldays (Steven Wilson Mix)](https://www.youtube.com/watch?v=e9JzxQyYdWg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Gentle Giant - Three Piece Suite](https://www.discogs.com/release/10928571) |
+| Release Year   | 2017 |
+| Discogs Link   | [Gentle Giant - Three Piece Suite](https://www.discogs.com/release/10928571-Gentle-Giant-Three-Piece-Suite) |
 | Label          | Alucard |
 | Format         | 2xLP, Comp, 180 |
 | Catalog Number | ALUGGV058 |
+
+This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954].   Made in EU
 

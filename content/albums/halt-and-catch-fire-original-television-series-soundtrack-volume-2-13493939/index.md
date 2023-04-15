@@ -1,14 +1,17 @@
 ---
 title: "Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack Volume 2)"
-album_artist: "Paul Haslinger"
-album_title: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2)"
+artist: "Paul Haslinger"
+album_name: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2)"
 date: 2019-04-19
 release_id: "13493939"
 slug: "halt-and-catch-fire-original-television-series-soundtrack-volume-2-13493939"
+hideSummary: true
 cover:
     image: "halt-and-catch-fire-original-television-series-soundtrack-volume-2-13493939.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger"
+    caption: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
 - [I Have an Idea](https://www.youtube.com/watch?v=uRrGFikI8iU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack Volume 2)](https://www.discogs.com/release/13493939) |
+| Release Year   | 2019 |
+| Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack Volume 2)](https://www.discogs.com/release/13493939-Paul-Haslinger-Halt-And-Catch-Fire-Original-Television-Series-Soundtrack-Volume-2) |
 | Label          | Lakeshore Records |
 | Format         | LP, Album, Ltd |
 | Catalog Number | FROST007LPX |
+
+Record Store Day 2019 exclusive release  Gate-fold sleeve inside a die-cut comet outer sleeve
 

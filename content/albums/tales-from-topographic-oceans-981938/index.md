@@ -1,14 +1,17 @@
 ---
 title: "Yes - Tales From Topographic Oceans"
-album_artist: "Yes"
-album_title: "Tales From Topographic Oceans"
+artist: "Yes"
+album_name: "Tales From Topographic Oceans"
 date: 2016-03-09
 release_id: "981938"
 slug: "tales-from-topographic-oceans-981938"
+hideSummary: true
 cover:
     image: "tales-from-topographic-oceans-981938.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tales From Topographic Oceans by Yes"
+    caption: "Tales From Topographic Oceans by Yes"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -20,13 +23,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="_rwNe2QXwrU" title="Yes - Tales from Topographic Oceans (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1973 |
-| Discogs Link   | [Yes - Tales From Topographic Oceans](https://www.discogs.com/release/981938) |
+| Release Year   | 1973 |
+| Discogs Link   | [Yes - Tales From Topographic Oceans](https://www.discogs.com/release/981938-Yes-Tales-From-Topographic-Oceans) |
 | Label          | Atlantic |
 | Format         | 2xLP, Album |
 | Catalog Number | K 80001 |
+
+Full colour gatefold sleeve with double page illustration, by [a1826912] across the front and rear faces of the outer sleeve.  Song titles and lyrics printed across the double page inner faces on a black background.  Recorded at Morgan Studio London during late summer and early autumn 1973.  Plates made by - Mansell Litho. Printed and made in England by Shorewood Packaging. An Atlantic Record distributed by WEA Records Ltd. © and ℗ 1973.   No Atlantic logo on labels - different from [r=6010444].  Plain polylined paper inner sleeves with text:  British Patent No. 800513 & 973939  MADE IN ENGLAND  4913 000 15801  3510
 

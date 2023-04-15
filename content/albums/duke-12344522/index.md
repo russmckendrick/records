@@ -1,14 +1,17 @@
 ---
 title: "Genesis - Duke"
-album_artist: "Genesis"
-album_title: "Duke"
+artist: "Genesis"
+album_name: "Duke"
 date: 2020-06-01
 release_id: "12344522"
 slug: "duke-12344522"
+hideSummary: true
 cover:
     image: "duke-12344522.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Duke by Genesis"
+    caption: "Duke by Genesis"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Genesis - Duchess](https://www.youtube.com/watch?v=J3fLoF-Jus0)
 - [Genesis - Turn It On Again (Official Music Video)](https://www.youtube.com/watch?v=8OIkw9kJ0u4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Genesis - Duke](https://www.discogs.com/release/12344522) |
+| Release Year   | 2018 |
+| Discogs Link   | [Genesis - Duke](https://www.discogs.com/release/12344522-Genesis-Duke) |
 | Label          | Charisma |
 | Format         | LP, Album, RE |
 | Catalog Number | 6748978 |
+
+Gatefold sleeve. Comes with a download card.
 

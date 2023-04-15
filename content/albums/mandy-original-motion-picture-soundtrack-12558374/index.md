@@ -1,14 +1,17 @@
 ---
 title: "Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)"
-album_artist: "Jóhann Jóhannsson"
-album_title: "Mandy (Original Motion Picture Soundtrack)"
+artist: "Jóhann Jóhannsson"
+album_name: "Mandy (Original Motion Picture Soundtrack)"
 date: 2018-09-22
 release_id: "12558374"
 slug: "mandy-original-motion-picture-soundtrack-12558374"
+hideSummary: true
 cover:
     image: "mandy-original-motion-picture-soundtrack-12558374.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Mandy (Original Motion Picture Soundtrack) by Jóhann Jóhannsson"
+    caption: "Mandy (Original Motion Picture Soundtrack) by Jóhann Jóhannsson"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Mandy 2018 Soundtrack | 08. Red | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=SSjKG4tUYIA)
 - [Mandy 2018 Soundtrack | 06. Death and Ashes | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=oFJ5AKF0WKw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374-J%C3%B3hann-J%C3%B3hannsson-Mandy-Original-Motion-Picture-Soundtrack) |
 | Label          | Lakeshore Records, Invada |
 | Format         | LP, Album, Red |
 | Catalog Number | LKSINV203LP |
+
+Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC.
 

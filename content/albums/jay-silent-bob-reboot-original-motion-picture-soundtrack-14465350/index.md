@@ -1,14 +1,17 @@
 ---
 title: "Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
 date: 2020-01-26
 release_id: "14465350"
 slug: "jay-silent-bob-reboot-original-motion-picture-soundtrack-14465350"
+hideSummary: true
 cover:
     image: "jay-silent-bob-reboot-original-motion-picture-soundtrack-14465350.jpg"
-tags: ["Rock", "Non-Music", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various"
+    caption: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various"
+genres: ["Rock", "Non-Music", "Pop", "Stage & Screen"]
+styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Pop Rap"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
 - [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)](https://www.discogs.com/release/14465350) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)](https://www.discogs.com/release/14465350-Various-Jay-Silent-Bob-Reboot-Original-Motion-Picture-Soundtrack) |
 | Label          | eOne |
 | Format         | LP, Album, RSD, Gre |
 | Catalog Number | EOM-LP-46214 |
+
+The track duration is not mentioned in the output. Made in U.S.A. including: a movie poster with credits  Hype Sticker:  "RECORD STORE DAY 1ST TIME ON VINYL! 180G WEED GREEN  COLORED EDITION INCLUDES CHRONICON DOWNLOAD CARD"
 

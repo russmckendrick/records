@@ -1,14 +1,17 @@
 ---
 title: "The Style Council - Long Hot Summers / The Story Of The Style Council"
-album_artist: "The Style Council"
-album_title: "Long Hot Summers / The Story Of The Style Council"
+artist: "The Style Council"
+album_name: "Long Hot Summers / The Story Of The Style Council"
 date: 2020-10-31
 release_id: "16136664"
 slug: "long-hot-summers-the-story-of-the-style-council-16136664"
+hideSummary: true
 cover:
     image: "long-hot-summers-the-story-of-the-style-council-16136664.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Long Hot Summers / The Story Of The Style Council by The Style Council"
+    caption: "Long Hot Summers / The Story Of The Style Council by The Style Council"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 {{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}
 - [My Ever Changing Moods (Extended Version)](https://www.youtube.com/watch?v=vAjf6-lhdOY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Style Council - Long Hot Summers / The Story Of The Style Council](https://www.discogs.com/release/16136664) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Style Council - Long Hot Summers / The Story Of The Style Council](https://www.discogs.com/release/16136664-The-Style-Council-Long-Hot-Summers-The-Story-Of-The-Style-Council) |
 | Label          | Polydor, UMC |
 | Format         | 3xLP, Comp, Ltd, RM |
 | Catalog Number | 089 411-9 |
+
+Tracks C5 and F5 marked as previously unreleased.
 

@@ -1,14 +1,17 @@
 ---
 title: "Dubstar (2) - One"
-album_artist: "Dubstar (2)"
-album_title: "One"
+artist: "Dubstar (2)"
+album_name: "One"
 date: 2018-10-13
 release_id: "12652179"
 slug: "one-12652179"
+hideSummary: true
 cover:
     image: "one-12652179.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "One by Dubstar (2)"
+    caption: "One by Dubstar (2)"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
 - [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Dubstar (2) - One](https://www.discogs.com/release/12652179) |
+| Release Year   | 2018 |
+| Discogs Link   | [Dubstar (2) - One](https://www.discogs.com/release/12652179-Dubstar-One) |
 | Label          | Northern Writes |
 | Format         | LP, Album, Ltd, Num, Red |
 | Catalog Number | none |
+
+Limited to 500 copies.  Comes with Mp3 download code card.
 

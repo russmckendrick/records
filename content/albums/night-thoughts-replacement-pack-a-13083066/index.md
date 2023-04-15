@@ -1,14 +1,17 @@
 ---
 title: "Suede - Night Thoughts Replacement Pack A"
-album_artist: "Suede"
-album_title: "Night Thoughts Replacement Pack A"
+artist: "Suede"
+album_name: "Night Thoughts Replacement Pack A"
 date: 2019-12-19
 release_id: "13083066"
 slug: "night-thoughts-replacement-pack-a-13083066"
+hideSummary: true
 cover:
     image: "night-thoughts-replacement-pack-a-13083066.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Night Thoughts Replacement Pack A by Suede"
+    caption: "Night Thoughts Replacement Pack A by Suede"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Suede - Night Thoughts (Album Sampler)](https://www.youtube.com/watch?v=d5conz2AbJk)
 - [Suede  - Pale Snow](https://www.youtube.com/watch?v=ir9RgLZuIfY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Suede - Night Thoughts Replacement Pack A](https://www.discogs.com/release/13083066) |
+| Release Year   | 2019 |
+| Discogs Link   | [Suede - Night Thoughts Replacement Pack A](https://www.discogs.com/release/13083066-Suede-Night-Thoughts-Replacement-Pack-A) |
 | Label          | Demon Records, Demon Records |
 | Format         | 2xLP, Album, RE, Tra |
 | Catalog Number | SUEDEAMZREP1, DEMREC367 |
+
+Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition.   Blue vinyl Amazon exclusive version. 1,000 only.  Sent in plain white sleeves with no album cover or inserts (unless requested).   ℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd. © Demon Music Group Ltd Made in the EU.
 

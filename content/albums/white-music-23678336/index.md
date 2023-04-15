@@ -1,14 +1,17 @@
 ---
 title: "XTC - White Music"
-album_artist: "XTC"
-album_title: "White Music"
+artist: "XTC"
+album_name: "White Music"
 date: 2022-06-25
 release_id: "23678336"
 slug: "white-music-23678336"
+hideSummary: true
 cover:
     image: "white-music-23678336.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "White Music by XTC"
+    caption: "White Music by XTC"
+genres: ["Rock"]
+styles: ["New Wave", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Into The Atom Age (2001 Remaster)](https://www.youtube.com/watch?v=3G7leRPG9-0)
 - [XTC - Radios In Motion](https://www.youtube.com/watch?v=20iFxRUoOVA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [XTC - White Music](https://www.discogs.com/release/23678336) |
+| Release Year   | 2022 |
+| Discogs Link   | [XTC - White Music](https://www.discogs.com/release/23678336-XTC-White-Music) |
 | Label          | Ape House |
 | Format         | LP, Album, RE, 200 |
 | Catalog Number | APELP101 |
+
+Newly cut from approved by Andy Partridge.
 

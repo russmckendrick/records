@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - The Kick Inside"
-album_artist: "Kate Bush"
-album_title: "The Kick Inside"
+artist: "Kate Bush"
+album_name: "The Kick Inside"
 date: 2018-02-20
 release_id: "414374"
 slug: "the-kick-inside-414374"
+hideSummary: true
 cover:
     image: "the-kick-inside-414374.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Kick Inside by Kate Bush"
+    caption: "The Kick Inside by Kate Bush"
+genres: ["Rock", "Pop"]
+styles: ["Art Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Room for the Life (2018 Remaster)](https://www.youtube.com/watch?v=M60QcBKxFPY)
 - [The Kick Inside (2018 Remaster)](https://www.youtube.com/watch?v=_Lay3XINaLg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Kate Bush - The Kick Inside](https://www.discogs.com/release/414374) |
+| Release Year   | 1978 |
+| Discogs Link   | [Kate Bush - The Kick Inside](https://www.discogs.com/release/414374-Kate-Bush-The-Kick-Inside) |
 | Label          | EMI, EMI |
 | Format         | LP, Album |
 | Catalog Number | EMC 3223, 0C 062 06 603 |
+
+Fully laminated sleeve Tan labels with red EMI logo Durations do not appear on the release. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in runouts, the rest stamped.  Recorded at Air London Studios: July/August 1977 Recorded at Air London Studios: June 1975 [Gilmour executive produced songs] All songs published by EMI/Kate Bush ©1978  On labels: ℗ 1978 EMI Records Ltd. Made in Gt. Britain
 

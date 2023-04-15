@@ -1,14 +1,17 @@
 ---
 title: "Seu Jorge - The Life Aquatic Studio Sessions"
-album_artist: "Seu Jorge"
-album_title: "The Life Aquatic Studio Sessions"
+artist: "Seu Jorge"
+album_name: "The Life Aquatic Studio Sessions"
 date: 2020-07-28
 release_id: "6242963"
 slug: "the-life-aquatic-studio-sessions-6242963"
+hideSummary: true
 cover:
     image: "the-life-aquatic-studio-sessions-6242963.jpg"
-tags: ["Rock", "Folk, World, & Country", "Stage & Screen"]
-hideSummary: true
+    alt: "The Life Aquatic Studio Sessions by Seu Jorge"
+    caption: "The Life Aquatic Studio Sessions by Seu Jorge"
+genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
+styles: ["Acoustic", "MPB", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [seu jorge ziggy stardust](https://www.youtube.com/watch?v=9KWVtcAxKYA)
 - [Seu Jorge - O Astronauta de Mármore (Starman)](https://www.youtube.com/watch?v=ykghg4E9nzw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Seu Jorge - The Life Aquatic Studio Sessions](https://www.discogs.com/release/6242963) |
+| Release Year   | 2014 |
+| Discogs Link   | [Seu Jorge - The Life Aquatic Studio Sessions](https://www.discogs.com/release/6242963-Seu-Jorge-The-Life-Aquatic-Studio-Sessions) |
 | Label          | Hollywood Records (5) |
 | Format         | 2xLP, Album, Ltd, RE, Unofficial, Cle |
 | Catalog Number | SEUJORGE001 |
+
+Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies! All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005 Printed on labels: "Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263]
 

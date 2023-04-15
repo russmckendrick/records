@@ -1,14 +1,17 @@
 ---
 title: "Bad Brains - God Of Love"
-album_artist: "Bad Brains"
-album_title: "God Of Love"
+artist: "Bad Brains"
+album_name: "God Of Love"
 date: 2019-12-16
 release_id: "14532513"
 slug: "god-of-love-14532513"
+hideSummary: true
 cover:
     image: "god-of-love-14532513.jpg"
-tags: ["Rock", "Reggae"]
-hideSummary: true
+    alt: "God Of Love by Bad Brains"
+    caption: "God Of Love by Bad Brains"
+genres: ["Rock", "Reggae"]
+styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Justice Keepers](https://www.youtube.com/watch?v=isp3qJH_jlI)
 - [Long Time](https://www.youtube.com/watch?v=jUVw_nD5Hws)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Bad Brains - God Of Love](https://www.discogs.com/release/14532513) |
+| Release Year   | 2019 |
+| Discogs Link   | [Bad Brains - God Of Love](https://www.discogs.com/release/14532513-Bad-Brains-God-Of-Love) |
 | Label          | Music On Vinyl |
 | Format         | LP, Ltd, Num, RE, Gre |
 | Catalog Number | MOVLP2531 |
+
+180-gram audiophile vinyl Insert Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl
 

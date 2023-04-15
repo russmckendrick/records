@@ -1,14 +1,17 @@
 ---
 title: "Denise Johnson - Where Does It Go"
-album_artist: "Denise Johnson"
-album_title: "Where Does It Go"
+artist: "Denise Johnson"
+album_name: "Where Does It Go"
 date: 2021-02-02
 release_id: "15998946"
 slug: "where-does-it-go-15998946"
+hideSummary: true
 cover:
     image: "where-does-it-go-15998946.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Where Does It Go by Denise Johnson"
+    caption: "Where Does It Go by Denise Johnson"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Well I Wonder](https://www.youtube.com/watch?v=P_R5Y3-2utE)
 - [Steal Me Easy](https://www.youtube.com/watch?v=tBDmZT2_3dY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Denise Johnson - Where Does It Go](https://www.discogs.com/release/15998946) |
+| Release Year   | 2020 |
+| Discogs Link   | [Denise Johnson - Where Does It Go](https://www.discogs.com/release/15998946-Denise-Johnson-Where-Does-It-Go) |
 | Label          | Adassa |
 | Format         | LP, Album |
 | Catalog Number | ADASSA003 |
+
+Glossy black inner sleeve with track list, times, writers credits on each side Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021
 

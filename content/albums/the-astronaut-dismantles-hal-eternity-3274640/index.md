@@ -1,14 +1,17 @@
 ---
 title: "Amplifier (3) - The Astronaut Dismantles HAL/Eternity"
-album_artist: "Amplifier (3)"
-album_title: "The Astronaut Dismantles HAL/Eternity"
+artist: "Amplifier (3)"
+album_name: "The Astronaut Dismantles HAL/Eternity"
 date: 2015-11-03
 release_id: "3274640"
 slug: "the-astronaut-dismantles-hal-eternity-3274640"
+hideSummary: true
 cover:
     image: "the-astronaut-dismantles-hal-eternity-3274640.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Astronaut Dismantles HAL/Eternity by Amplifier (3)"
+    caption: "The Astronaut Dismantles HAL/Eternity by Amplifier (3)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -28,16 +31,17 @@ hideSummary: true
 14. Departure Lounge (6:35)
 15. Number One Son (6:04)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Amplifier (3) - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640) |
+| Release Year   | 2011 |
+| Discogs Link   | [Amplifier (3) - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640-Amplifier-The-Astronaut-Dismantles-HALEternity) |
 | Label          | Not On Label (Amplifier (3) Self-released) |
 | Format         | 2x12\", EP, Comp, Ltd, Num, RE |
 | Catalog Number | none |
+
+Limited to 500 hand-numbered copies. Comes with a full size 6-page booklet and some are signed by the band.
 

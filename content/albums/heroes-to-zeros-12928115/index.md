@@ -1,14 +1,17 @@
 ---
 title: "The Beta Band - Heroes To Zeros"
-album_artist: "The Beta Band"
-album_title: "Heroes To Zeros"
+artist: "The Beta Band"
+album_name: "Heroes To Zeros"
 date: 2018-12-17
 release_id: "12928115"
 slug: "heroes-to-zeros-12928115"
+hideSummary: true
 cover:
     image: "heroes-to-zeros-12928115.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Heroes To Zeros by The Beta Band"
+    caption: "Heroes To Zeros by The Beta Band"
+genres: ["Electronic"]
+styles: ["Leftfield", "Dub", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [The Beta Band: Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
 - [The Beta Band - Troubles+lyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Beta Band - Heroes To Zeros](https://www.discogs.com/release/12928115) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Beta Band - Heroes To Zeros](https://www.discogs.com/release/12928115-The-Beta-Band-Heroes-To-Zeros) |
 | Label          | Because Music |
 | Format         | LP, Album, RE |
 | Catalog Number | BEC5543703 |
+
+
 

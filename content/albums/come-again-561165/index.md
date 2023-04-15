@@ -1,14 +1,17 @@
 ---
 title: "Derek & Clive - Come Again"
-album_artist: "Derek & Clive"
-album_title: "Come Again"
+artist: "Derek & Clive"
+album_name: "Come Again"
 date: 2015-12-30
 release_id: "561165"
 slug: "come-again-561165"
+hideSummary: true
 cover:
     image: "come-again-561165.jpg"
-tags: ["Non-Music"]
-hideSummary: true
+    alt: "Come Again by Derek & Clive"
+    caption: "Come Again by Derek & Clive"
+genres: ["Non-Music"]
+styles: ["Comedy", "Spoken Word"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Mother](https://www.youtube.com/watch?v=4pPdFSBVVQI)
 - [Parking Offence](https://www.youtube.com/watch?v=OhtoR2CYk1E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1977 |
-| Discogs Link   | [Derek & Clive - Come Again](https://www.discogs.com/release/561165) |
+| Release Year   | 1977 |
+| Discogs Link   | [Derek & Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |
 | Label          | Virgin |
 | Format         | LP, Album, RP |
 | Catalog Number | V 2094 |
+
+℗ 1977 Virgin Records Ltd © 1977 Aspera A.G. Side One: Ay, Bee, See, You, En, Tee. Side Two: Ef, You2, See2, Kay, Aye, En2, Gee.
 

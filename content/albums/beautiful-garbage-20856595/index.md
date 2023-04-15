@@ -1,14 +1,17 @@
 ---
 title: "Garbage - Beautiful Garbage"
-album_artist: "Garbage"
-album_title: "Beautiful Garbage"
+artist: "Garbage"
+album_name: "Beautiful Garbage"
 date: 2022-10-05
 release_id: "20856595"
 slug: "beautiful-garbage-20856595"
+hideSummary: true
 cover:
     image: "beautiful-garbage-20856595.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Beautiful Garbage by Garbage"
+    caption: "Beautiful Garbage by Garbage"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop", "Experimental"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Garbage - Androgyny (Official Video)](https://www.youtube.com/watch?v=hVs6Fekh0RY)
 - [Garbage - Shut Your Mouth](https://www.youtube.com/watch?v=ptr5CpFM2uI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Garbage - Beautiful Garbage](https://www.discogs.com/release/20856595) |
+| Release Year   | 2021 |
+| Discogs Link   | [Garbage - Beautiful Garbage](https://www.discogs.com/release/20856595-Garbage-Beautiful-Garbage) |
 | Label          | Stun Volume, BMG, UMe, Interscope Records |
 | Format         | 2xLP, Album, Ltd, RE, RM, Whi |
 | Catalog Number | BMGCAT528DCLP |
+
+Made in Poland  20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."  Tracks are numbered sequentially on release.  ℗ & © 2021
 

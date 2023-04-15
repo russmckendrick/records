@@ -1,14 +1,17 @@
 ---
 title: "The Waterboys - Fisherman's Blues"
-album_artist: "The Waterboys"
-album_title: "Fisherman's Blues"
+artist: "The Waterboys"
+album_name: "Fisherman's Blues"
 date: 2018-01-20
 release_id: "7147495"
 slug: "fisherman-s-blues-7147495"
+hideSummary: true
 cover:
     image: "fisherman-s-blues-7147495.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Fisherman's Blues by The Waterboys"
+    caption: "Fisherman's Blues by The Waterboys"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Acoustic"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [The Waterboys - The Stolen Child (High Quality)](https://www.youtube.com/watch?v=hqAyfueYtT0)
 - [The Waterboys - This Land Is Your Land (High Quality)](https://www.youtube.com/watch?v=6hOoz2TsXoY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Waterboys - Fisherman's Blues](https://www.discogs.com/release/7147495) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Waterboys - Fisherman's Blues](https://www.discogs.com/release/7147495-The-Waterboys-Fishermans-Blues) |
 | Label          | Chrysalis |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | CHEN 5 |
+
+www.mikescottwaterboys.com  Made in the E.U.  Track B5 not listed on rear sleeve. Listed on label and printed inner sleeve.  Track B6 contains a coda of “This Land Is Your Land” that is not credited on sleeve, but is partially acknowledged on the label and inner sleeve. 
 

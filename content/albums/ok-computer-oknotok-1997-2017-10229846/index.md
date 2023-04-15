@@ -1,14 +1,17 @@
 ---
 title: "Radiohead - OK Computer OKNOTOK 1997 2017"
-album_artist: "Radiohead"
-album_title: "OK Computer OKNOTOK 1997 2017"
+artist: "Radiohead"
+album_name: "OK Computer OKNOTOK 1997 2017"
 date: 2017-06-27
 release_id: "10229846"
 slug: "ok-computer-oknotok-1997-2017-10229846"
+hideSummary: true
 cover:
     image: "ok-computer-oknotok-1997-2017-10229846.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "OK Computer OKNOTOK 1997 2017 by Radiohead"
+    caption: "OK Computer OKNOTOK 1997 2017 by Radiohead"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -42,16 +45,17 @@ hideSummary: true
 28. Palo Alto
 29. How I Made My Millions
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Radiohead - OK Computer OKNOTOK 1997 2017](https://www.discogs.com/release/10229846) |
+| Release Year   | 2017 |
+| Discogs Link   | [Radiohead - OK Computer OKNOTOK 1997 2017](https://www.discogs.com/release/10229846-Radiohead-OK-Computer-OKNOTOK-1997-2017) |
 | Label          | XL Recordings, XL Recordings |
 | Format         | 2xLP, Album, Ltd, RE + LP, Comp + Ltd, RM, Blu |
 | Catalog Number | XLLP868X, XLLP868 |
+
+Originally advertised as being "Limited to 7,000 copies". Unconfirmed 10,000 copies pressed due to pre-order demand. Indie record stores exclusive.  Triple-sleeve gatefold jacket with colour printed inner sleeves. Three 180 gram blue coloured 12" vinyl records containing the original twelve track album,  three unreleased tracks and eight B-sides, all newly remastered from the original analogue tapes.  Includes a download code card (for MP3 or WAV formats).  Different barcodes on the cover and shrink.  XLLP868  appears on the back of the gatefold. XLLP868X appears on a sticker on the shrink wrap on the back of the gatefold.  ℗ 1997-2017 The copyright in this sound recording is owned by XL Recordings Limited. © 1997-2017 XL Recordings Limited.  Printed in E.U. Made in the E.U.
 

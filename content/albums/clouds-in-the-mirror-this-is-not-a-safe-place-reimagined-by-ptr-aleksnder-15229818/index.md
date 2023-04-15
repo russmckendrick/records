@@ -1,14 +1,17 @@
 ---
 title: "Ride Reimagined By Pêtr Aleksänder - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)"
-album_artist: "Ride Reimagined By Pêtr Aleksänder"
-album_title: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)"
+artist: "Ride Reimagined By Pêtr Aleksänder"
+album_name: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)"
 date: 2021-06-12
 release_id: "15229818"
 slug: "clouds-in-the-mirror-this-is-not-a-safe-place-reimagined-by-ptr-aleksnder-15229818"
+hideSummary: true
 cover:
     image: "clouds-in-the-mirror-this-is-not-a-safe-place-reimagined-by-ptr-aleksnder-15229818.jpg"
-tags: ["Electronic", "Rock", "Classical"]
-hideSummary: true
+    alt: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder) by Ride Reimagined By Pêtr Aleksänder"
+    caption: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder) by Ride Reimagined By Pêtr Aleksänder"
+genres: ["Electronic", "Rock", "Classical"]
+styles: ["Alternative Rock", "Modern", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Future Love (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=MVIcN2-x3LM)
 - [Jump Jet (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=t8HP_4MFkwU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Ride Reimagined By Pêtr Aleksänder - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818) |
+| Release Year   | 2020 |
+| Discogs Link   | [Ride Reimagined By Pêtr Aleksänder - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818-Ride-Reimagined-By-P%C3%AAtr-Aleks%C3%A4nder-Clouds-In-The-Mirror-This-Is-Not-A-Safe-Place-Reimagined-By-P%C3%AA) |
 | Label          | Wichita, [pias] |
 | Format         | LP, Album, Ltd, Cle |
 | Catalog Number | WEBB584LP, none |
+
+With one-sided card stock insert. Download code on sticker attached to inner sleeve.  On hype sticker:  Limited edition clear vinyl With full album download 'Wichita recordings would like to thank you for buying vinyl'
 

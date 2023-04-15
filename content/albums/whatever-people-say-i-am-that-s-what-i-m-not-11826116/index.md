@@ -1,14 +1,17 @@
 ---
 title: "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not"
-album_artist: "Arctic Monkeys"
-album_title: "Whatever People Say I Am, That's What I'm Not"
+artist: "Arctic Monkeys"
+album_name: "Whatever People Say I Am, That's What I'm Not"
 date: 2018-04-17
 release_id: "11826116"
 slug: "whatever-people-say-i-am-that-s-what-i-m-not-11826116"
+hideSummary: true
 cover:
     image: "whatever-people-say-i-am-that-s-what-i-m-not-11826116.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Whatever People Say I Am, That's What I'm Not by Arctic Monkeys"
+    caption: "Whatever People Say I Am, That's What I'm Not by Arctic Monkeys"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [From The Ritz To The Rubble](https://www.youtube.com/watch?v=H8bNHRVwzyA)
 - [A Certain Romance](https://www.youtube.com/watch?v=zMupng6KQeE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Arctic Monkeys - Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/release/11826116) |
+| Release Year   | 2018 |
+| Discogs Link   | [Arctic Monkeys - Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/release/11826116-Arctic-Monkeys-Whatever-People-Say-I-Am-Thats-What-Im-Not) |
 | Label          | Domino |
 | Format         | LP, Album, Club, RE, Gra |
 | Catalog Number | WIGLP162VMP |
+
+Sticker: VMP Exclusive Vinyl Edition 1LP 180g Multi-color "Smoke" vinyl 16pg Full-color Lyric & Photo Booklet  Includes a obi strip with a cocktail recipe, and an art print.  ℗ 2006 © 2018 Domino Recording Co. Ltd. PO Box 47029 London, SW18 1WD 20 Jay Street, Suite 626, Brooklyn NY 11201  Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield. 'Mardy Bum' recorded at Telstar Studios, Munich Mixed [...] at Olympic Studios, London [...]
 

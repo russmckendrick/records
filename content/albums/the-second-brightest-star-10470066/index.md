@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - The Second Brightest Star"
-album_artist: "Big Big Train"
-album_title: "The Second Brightest Star"
+artist: "Big Big Train"
+album_name: "The Second Brightest Star"
 date: 2017-06-24
 release_id: "10470066"
 slug: "the-second-brightest-star-10470066"
+hideSummary: true
 cover:
     image: "the-second-brightest-star-10470066.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Second Brightest Star by Big Big Train"
+    caption: "The Second Brightest Star by Big Big Train"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Terra Australis Incognita](https://www.youtube.com/watch?v=T4gWzO7aRpA)
 - [Big Big Train - London Plane Sequence](https://www.youtube.com/watch?v=z3SS27wGjq0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066) |
+| Release Year   | 2017 |
+| Discogs Link   | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066-Big-Big-Train-The-Second-Brightest-Star) |
 | Label          | Plane Groovy |
 | Format         | 2xLP, Album, Ltd, 180 |
 | Catalog Number | PLG056 |
+
+Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements.
 

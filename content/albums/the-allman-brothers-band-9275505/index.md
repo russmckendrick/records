@@ -1,14 +1,17 @@
 ---
 title: "The Allman Brothers Band - The Allman Brothers Band"
-album_artist: "The Allman Brothers Band"
-album_title: "The Allman Brothers Band"
+artist: "The Allman Brothers Band"
+album_name: "The Allman Brothers Band"
 date: 2017-01-23
 release_id: "9275505"
 slug: "the-allman-brothers-band-9275505"
+hideSummary: true
 cover:
     image: "the-allman-brothers-band-9275505.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Allman Brothers Band by The Allman Brothers Band"
+    caption: "The Allman Brothers Band by The Allman Brothers Band"
+genres: ["Rock"]
+styles: ["Blues Rock", "Southern Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Every Hungry Woman](https://www.youtube.com/watch?v=5XK2DDoAWTc)
 - [Don't Want You No More/It's Not My Cross To Bear The Allman Brothers Duane Allman](https://www.youtube.com/watch?v=ZkBdtjq_26s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Allman Brothers Band - The Allman Brothers Band](https://www.discogs.com/release/9275505) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Allman Brothers Band - The Allman Brothers Band](https://www.discogs.com/release/9275505-The-Allman-Brothers-Band-The-Allman-Brothers-Band) |
 | Label          | Mercury |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | 00602547813190 |
+
+2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.  180-Gram Audiophile vinyl, newly remastered from original analog tapes. DMM Direct Metal Mastering for Optimal Sound  Made in Holland
 

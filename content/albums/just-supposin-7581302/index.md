@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Just Supposin'..."
-album_artist: "Status Quo"
-album_title: "Just Supposin'..."
+artist: "Status Quo"
+album_name: "Just Supposin'..."
 date: 2016-05-23
 release_id: "7581302"
 slug: "just-supposin-7581302"
+hideSummary: true
 cover:
     image: "just-supposin-7581302.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Just Supposin'... by Status Quo"
+    caption: "Just Supposin'... by Status Quo"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Status Quo ‎– What You're Proposing](https://www.youtube.com/watch?v=ZSSLFV7JQxU)
 - [Status Quo ‎– Don't Drive My Car](https://www.youtube.com/watch?v=YRx923Rmvgc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Just Supposin'...](https://www.discogs.com/release/7581302) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Just Supposin'...](https://www.discogs.com/release/7581302-Status-Quo-Just-Supposin) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723773 |
+
+
 

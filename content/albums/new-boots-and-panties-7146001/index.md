@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury - New Boots And Panties!!"
-album_artist: "Ian Dury"
-album_title: "New Boots And Panties!!"
+artist: "Ian Dury"
+album_name: "New Boots And Panties!!"
 date: 2016-09-21
 release_id: "7146001"
 slug: "new-boots-and-panties-7146001"
+hideSummary: true
 cover:
     image: "new-boots-and-panties-7146001.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "New Boots And Panties!! by Ian Dury"
+    caption: "New Boots And Panties!! by Ian Dury"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/7146001) |
+| Release Year   | 2015 |
+| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/7146001-Ian-Dury-New-Boots-And-Panties) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | DEMREC56 |
+
+Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.  This record was not produced and recorded at The Workhouse in the Old Kent Road!!  Manufactured in the EU. 
 

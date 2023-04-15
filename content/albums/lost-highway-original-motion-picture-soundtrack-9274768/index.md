@@ -1,14 +1,17 @@
 ---
 title: "Various - Lost Highway (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Lost Highway (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Lost Highway (Original Motion Picture Soundtrack)"
 date: 2016-11-14
 release_id: "9274768"
 slug: "lost-highway-original-motion-picture-soundtrack-9274768"
+hideSummary: true
 cover:
     image: "lost-highway-original-motion-picture-soundtrack-9274768.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Lost Highway (Original Motion Picture Soundtrack) by Various"
+    caption: "Lost Highway (Original Motion Picture Soundtrack) by Various"
+genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
+styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporary Jazz", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [Driver Down](https://www.youtube.com/watch?v=PxBGukgq2cM)
 - [Lost Highway Soundtrack 23. I’m Deranged (Reprise)](https://www.youtube.com/watch?v=yrb9QKVEMvM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various - Lost Highway (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9274768) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various - Lost Highway (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9274768-Various-Lost-Highway-Original-Motion-Picture-Soundtrack) |
 | Label          | Music On Vinyl, Universal Music, Interscope Records |
 | Format         | 2xLP, Comp, Dlx, Ltd, Num, RE, Yel |
 | Catalog Number | MOVATM101 |
+
+Limited to 2000 copies. Title lettering on the sleeve is embossed. A printed inner sheet with info is also included.  Track 14 contains excerpts from: "Spooky", written by H.Middlesbrooke, M.Shapiro, B.Buie and J.R.Cobb (performed by [The Classics IV](http://www.discogs.com/artist/Classics+IV,+The)); "Blue Lines", written by R.Del Naja, G.Marshall, A.Vowles and A.Thaws (performed by [Massive Attack](http://www.discogs.com/artist/Massive+Attack)); "Le Temps Des Souvenirs", written by J.J.Datin, M.Vidalin and C.Blackwell (performed by [Françoise Hardy](http://www.discogs.com/artist/Fran%C3%A7oise+Hardy)).  1, 23. © 1995 Tintoretto Music Administered by RZO Music, Inc. (BMI) and Ulapa Music, Inc. 3. © 1996 Leaving Hope Music/TVT Music (ASCAP), D. Lohner 4, 5, 7, 11, 16, 17, 21. © 1996 Avalon Music/Bobkind Music (ASCAP) 6. © 1996 Chrysalis Songs/Cinderful Music (BMI) Recorded at Soundworks (Chicago). Mixed at Chung King (New York) 8, 10, 19. © 1996 Mute Song/Bobkind Music (ASCAP) 9. © 1960 Unichappell Music, Inc (BMI) 12. © 1996 Dinger & Ollie Music/Beat Up Your Mom Music (BMI) 13. © 1963 Duchess Music Corporation 15. © 1956 Copyright renewed 1984 Unart Music Corporation 18, 20. ©  Edition Rammstein administered in The BMG UFA Musikverlage administered in The US by BMG Songs, Inc. (ASCAP) 22. © 1996 Leaving Hope Music/TVT Music (ASCAP)   Made in the EU. 
 

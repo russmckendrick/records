@@ -1,14 +1,17 @@
 ---
 title: "Steve Earle & The Dukes - J.T. "
-album_artist: "Steve Earle & The Dukes"
-album_title: "J.T. "
+artist: "Steve Earle & The Dukes"
+album_name: "J.T. "
 date: 2021-03-19
 release_id: "17858752"
 slug: "j-t-17858752"
+hideSummary: true
 cover:
     image: "j-t-17858752.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "J.T.  by Steve Earle & The Dukes"
+    caption: "J.T.  by Steve Earle & The Dukes"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Steve Earle & The Dukes - Far Away In Another Town [Audio Only]](https://www.youtube.com/watch?v=yqcFxkhM_i0)
 - [Steve Earle & The Dukes - They Killed John Henry [Audio Only]](https://www.youtube.com/watch?v=1TGssyFJAuk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Steve Earle & The Dukes - J.T. ](https://www.discogs.com/release/17858752) |
+| Release Year   | 2021 |
+| Discogs Link   | [Steve Earle & The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |
 | Label          | New West Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | NW5492 |
+
+Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve.
 

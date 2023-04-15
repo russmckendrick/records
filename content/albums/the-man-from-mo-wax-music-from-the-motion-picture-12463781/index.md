@@ -1,14 +1,17 @@
 ---
 title: "Various - The Man From Mo'Wax (Music From The Motion Picture)"
-album_artist: "Various"
-album_title: "The Man From Mo'Wax (Music From The Motion Picture)"
+artist: "Various"
+album_name: "The Man From Mo'Wax (Music From The Motion Picture)"
 date: 2018-09-03
 release_id: "12463781"
 slug: "the-man-from-mo-wax-music-from-the-motion-picture-12463781"
+hideSummary: true
 cover:
     image: "the-man-from-mo-wax-music-from-the-motion-picture-12463781.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "The Man From Mo'Wax (Music From The Motion Picture) by Various"
+    caption: "The Man From Mo'Wax (Music From The Motion Picture) by Various"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Ian Brown & U.N.K.L.E - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
 - [DJ Shadow - What Does Your Soul Look Like (Part 1 - Blue Sky Revisit)](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781-Various-The-Man-From-MoWax-Music-From-The-Motion-Picture) |
 | Label          | UMC, Island Records, Mo Wax |
 | Format         | LP, Red + LP, Blu + Comp, Ltd |
 | Catalog Number | 6727901 |
+
+Gatefold sleeve.  Including download code and director's notes.
 

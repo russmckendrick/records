@@ -1,14 +1,17 @@
 ---
 title: "Scott Walker - Scott 2"
-album_artist: "Scott Walker"
-album_title: "Scott 2"
+artist: "Scott Walker"
+album_name: "Scott 2"
 date: 2017-05-27
 release_id: "2403028"
 slug: "scott-2-2403028"
+hideSummary: true
 cover:
     image: "scott-2-2403028.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Scott 2 by Scott Walker"
+    caption: "Scott 2 by Scott Walker"
+genres: ["Rock", "Pop"]
+styles: ["Vocal", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Scott Walker - B5 - The Bridge [Mono LP / Vinyl Rip]](https://www.youtube.com/watch?v=SjDeQBtk9XM)
 - [Scott Walker - B6 - Come Next Spring [Mono LP / Vinyl Rip]](https://www.youtube.com/watch?v=cyZcPm8u5Ck)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1968 |
-| Discogs Link   | [Scott Walker - Scott 2](https://www.discogs.com/release/2403028) |
+| Release Year   | 1968 |
+| Discogs Link   | [Scott Walker - Scott 2](https://www.discogs.com/release/2403028-Scott-Walker-Scott-2) |
 | Label          | Philips, Philips, Philips |
 | Format         | LP, Album |
 | Catalog Number | SBL7840, SBL.7840, 844 210 BY |
+
+Included 11" by 11" artist portrait insert.  SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.  A1. ℗ 1967 A2 to B6. ℗ 1968  A1, A5, B3. Carlin/BIEM A2. Lords Music A3. Robbins Music A4, A6, B1, B5. Miracle Songs B2. Blossom Music B4. Blue Seas/Jac B6. Frank Music
 

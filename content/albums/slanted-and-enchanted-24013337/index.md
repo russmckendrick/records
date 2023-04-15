@@ -1,14 +1,17 @@
 ---
 title: "Pavement - Slanted And Enchanted"
-album_artist: "Pavement"
-album_title: "Slanted And Enchanted"
+artist: "Pavement"
+album_name: "Slanted And Enchanted"
 date: 2022-08-21
 release_id: "24013337"
 slug: "slanted-and-enchanted-24013337"
+hideSummary: true
 cover:
     image: "slanted-and-enchanted-24013337.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Slanted And Enchanted by Pavement"
+    caption: "Slanted And Enchanted by Pavement"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Jackals, False Grails: The Lonesome Era](https://www.youtube.com/watch?v=dG_69muRWCw)
 - [Our Singer](https://www.youtube.com/watch?v=IlmL9BggCNo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Pavement - Slanted And Enchanted](https://www.discogs.com/release/24013337) |
+| Release Year   | 2022 |
+| Discogs Link   | [Pavement - Slanted And Enchanted](https://www.discogs.com/release/24013337-Pavement-Slanted-And-Enchanted) |
 | Label          | Matador, Matador |
 | Format         | LP, Album, Ltd, RE, RP, Red |
 | Catalog Number | OLE038LP, OLE-038-0 |
+
+30th Anniversary Red w/ White & Black Splatter Vinyl  Made in Czech Republic
 

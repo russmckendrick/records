@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Doubt"
-album_artist: "Jesus Jones"
-album_title: "Doubt"
+artist: "Jesus Jones"
+album_name: "Doubt"
 date: 2015-10-05
 release_id: "564216"
 slug: "doubt-564216"
+hideSummary: true
 cover:
     image: "doubt-564216.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Doubt by Jesus Jones"
+    caption: "Doubt by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Blissed](https://www.youtube.com/watch?v=YvRImAFep80)
 - [Jesus Jones - Right Here Right Now (Official Music Video)](https://www.youtube.com/watch?v=MznHdJReoeo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Jesus Jones - Doubt](https://www.discogs.com/release/564216) |
+| Release Year   | 1991 |
+| Discogs Link   | [Jesus Jones - Doubt](https://www.discogs.com/release/564216-Jesus-Jones-Doubt) |
 | Label          | Food |
 | Format         | LP, Album |
 | Catalog Number | FOOD LP 5 |
+
+
 

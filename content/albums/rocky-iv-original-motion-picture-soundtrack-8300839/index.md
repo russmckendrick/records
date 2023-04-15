@@ -1,14 +1,17 @@
 ---
 title: "Various - Rocky IV (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Rocky IV (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Rocky IV (Original Motion Picture Soundtrack)"
 date: 2016-03-29
 release_id: "8300839"
 slug: "rocky-iv-original-motion-picture-soundtrack-8300839"
+hideSummary: true
 cover:
     image: "rocky-iv-original-motion-picture-soundtrack-8300839.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "Rocky IV (Original Motion Picture Soundtrack) by Various"
+    caption: "Rocky IV (Original Motion Picture Soundtrack) by Various"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Training Montage (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=WU9NFr-81tA)
 - [Training Montage (Rocky IV Score Mix)](https://www.youtube.com/watch?v=DYo1yFZMlvM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various - Rocky IV (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8300839) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various - Rocky IV (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8300839-Various-Rocky-IV-Original-Motion-Picture-Soundtrack) |
 | Label          | Music On Vinyl |
 | Format         | LP, Ltd, Num, RE, Cle |
 | Catalog Number | MOVATM062 |
+
+Limited to 1000 individually-numbered copies.  PVC protective sleeve included 180 Gram Audiophile Vinyl
 

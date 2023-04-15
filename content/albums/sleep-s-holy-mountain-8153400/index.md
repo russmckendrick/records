@@ -1,14 +1,17 @@
 ---
 title: "Sleep - Sleep's Holy Mountain"
-album_artist: "Sleep"
-album_title: "Sleep's Holy Mountain"
+artist: "Sleep"
+album_name: "Sleep's Holy Mountain"
 date: 2018-08-23
 release_id: "8153400"
 slug: "sleep-s-holy-mountain-8153400"
+hideSummary: true
 cover:
     image: "sleep-s-holy-mountain-8153400.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sleep's Holy Mountain by Sleep"
+    caption: "Sleep's Holy Mountain by Sleep"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Sleep - From Beyond (Official Audio)](https://www.youtube.com/watch?v=yLBF-b54sfA)
 - [Sleep - Nains Baptism (Official Audio)](https://www.youtube.com/watch?v=qv1DwJmAemo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Sleep - Sleep's Holy Mountain](https://www.discogs.com/release/8153400) |
+| Release Year   | 2016 |
+| Discogs Link   | [Sleep - Sleep's Holy Mountain](https://www.discogs.com/release/8153400-Sleep-Sleeps-Holy-Mountain) |
 | Label          | Earache |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | MOSH079FDR |
+
+New edition on black vinyl with different matrix. Same layout as the [2015](https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007) press.  Comes with printed inner sleeve.  There is also [mispress](http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920) version on black vinyl, the copies were not issued for general sale.
 

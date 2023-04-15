@@ -1,14 +1,17 @@
 ---
 title: "Chapterhouse - The Best Of Chapterhouse"
-album_artist: "Chapterhouse"
-album_title: "The Best Of Chapterhouse"
+artist: "Chapterhouse"
+album_name: "The Best Of Chapterhouse"
 date: 2019-11-09
 release_id: "14377153"
 slug: "the-best-of-chapterhouse-14377153"
+hideSummary: true
 cover:
     image: "the-best-of-chapterhouse-14377153.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of Chapterhouse by Chapterhouse"
+    caption: "The Best Of Chapterhouse by Chapterhouse"
+genres: ["Rock"]
+styles: ["Indie Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Chapterhouse - The Best Of Chapterhouse](https://www.discogs.com/release/14377153) |
+| Release Year   | 2019 |
+| Discogs Link   | [Chapterhouse - The Best Of Chapterhouse](https://www.discogs.com/release/14377153-Chapterhouse-The-Best-Of-Chapterhouse) |
 | Label          | Sony Music, Music On Vinyl |
 | Format         | 2xLP, Comp, Ltd, Num, RE, Pur |
 | Catalog Number | MOVLP2568 |
+
+Limited edition of 1500 copies
 

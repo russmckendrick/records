@@ -1,14 +1,17 @@
 ---
 title: "The Temperance Movement - A Deeper Cut"
-album_artist: "The Temperance Movement"
-album_title: "A Deeper Cut"
+artist: "The Temperance Movement"
+album_name: "A Deeper Cut"
 date: 2018-02-16
 release_id: "11575338"
 slug: "a-deeper-cut-11575338"
+hideSummary: true
 cover:
     image: "a-deeper-cut-11575338.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "A Deeper Cut by The Temperance Movement"
+    caption: "A Deeper Cut by The Temperance Movement"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [The Temperance Movement - Built-In Forgetter](https://www.youtube.com/watch?v=VORUDEzu89M)
 - [The Temperance Movement - A Deeper Cut](https://www.youtube.com/watch?v=_seBHGQCqgU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Temperance Movement - A Deeper Cut](https://www.discogs.com/release/11575338) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Temperance Movement - A Deeper Cut](https://www.discogs.com/release/11575338-The-Temperance-Movement-A-Deeper-Cut) |
 | Label          | Earache |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | MOSH606LP |
+
+Came with glossy 4 pages booklet with lyrics and credits. Limited to 1000 copies for the indie stores. Label code only on lower right on back cover.
 

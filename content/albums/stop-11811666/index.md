@@ -1,14 +1,17 @@
 ---
 title: "Sam Brown - Stop!"
-album_artist: "Sam Brown"
-album_title: "Stop!"
+artist: "Sam Brown"
+album_name: "Stop!"
 date: 2019-01-19
 release_id: "11811666"
 slug: "stop-11811666"
+hideSummary: true
 cover:
     image: "stop-11811666.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Stop! by Sam Brown"
+    caption: "Stop! by Sam Brown"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Merry Go Round](https://www.youtube.com/watch?v=Vj9OdQpY_4M)
 - [Sometimes You Just Don't Know](https://www.youtube.com/watch?v=r-zwq1Xqab4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Sam Brown - Stop!](https://www.discogs.com/release/11811666) |
+| Release Year   | 1988 |
+| Discogs Link   | [Sam Brown - Stop!](https://www.discogs.com/release/11811666-Sam-Brown-Stop) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | Ama 5195 |
+
+Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163 6 page insert with lyrics, not 4 page. Etched runout starts JA, not AJ. Song timings different. 
 

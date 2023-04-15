@@ -1,14 +1,17 @@
 ---
 title: "The B-52's - The B-52's"
-album_artist: "The B-52's"
-album_title: "The B-52's"
+artist: "The B-52's"
+album_name: "The B-52's"
 date: 2016-09-14
 release_id: "7247829"
 slug: "the-b-52-s-7247829"
+hideSummary: true
 cover:
     image: "the-b-52-s-7247829.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The B-52's by The B-52's"
+    caption: "The B-52's by The B-52's"
+genres: ["Rock"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [The B-52's - Planet Claire (1979)](https://www.youtube.com/watch?v=gdMRTmuOeqA)
 - [The B-52's - The B-52's (1979) - Full Album](https://www.youtube.com/watch?v=bZNdaL75118)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The B-52's - The B-52's](https://www.discogs.com/release/7247829) |
+| Release Year   | 2015 |
+| Discogs Link   | [The B-52's - The B-52's](https://www.discogs.com/release/7247829-The-B-52s-The-B-52s) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP1420 |
+
+Black vinyl. Insert with lyric included.
 

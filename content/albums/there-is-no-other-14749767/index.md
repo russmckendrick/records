@@ -1,14 +1,17 @@
 ---
 title: "Isobel Campbell - There Is No Other..."
-album_artist: "Isobel Campbell"
-album_title: "There Is No Other..."
+artist: "Isobel Campbell"
+album_name: "There Is No Other..."
 date: 2020-02-07
 release_id: "14749767"
 slug: "there-is-no-other-14749767"
+hideSummary: true
 cover:
     image: "there-is-no-other-14749767.jpg"
-tags: ["Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "There Is No Other... by Isobel Campbell"
+    caption: "There Is No Other... by Isobel Campbell"
+genres: ["Pop", "Folk, World, & Country"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Isobel Campbell - Runnin' Down A Dream (Official Audio)](https://www.youtube.com/watch?v=97DY0TXNW9A)
 - [Isobel Campbell - The National Bird Of India (Official Audio)](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Isobel Campbell - There Is No Other...](https://www.discogs.com/release/14749767) |
+| Release Year   | 2020 |
+| Discogs Link   | [Isobel Campbell - There Is No Other...](https://www.discogs.com/release/14749767-Isobel-Campbell-There-Is-No-Other) |
 | Label          | Cooking Vinyl, Cooking Vinyl, Cooking Vinyl |
 | Format         | LP, Album, Ltd, Yel + CD |
 | Catalog Number | COOKLP720Y, COOKLP720, FRYCD1194 |
+
+Limited to 1,000 copies.  Rough Trade album of the month February 2020.  LP packaged in a gatefold sleeve, includes a printed inner sleeve.  Includes a download code.  Includes a bonus 5-track CD in its own card sleeve.  Cat. number COOKLP720Y on sticker Cat. number COOKLP720 on LP spine and labels Cat. number FRYCD1194 on CD sleeve and CD label.
 

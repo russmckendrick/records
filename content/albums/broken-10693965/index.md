@@ -1,14 +1,17 @@
 ---
 title: "Nine Inch Nails - Broken"
-album_artist: "Nine Inch Nails"
-album_title: "Broken"
+artist: "Nine Inch Nails"
+album_name: "Broken"
 date: 2017-11-18
 release_id: "10693965"
 slug: "broken-10693965"
+hideSummary: true
 cover:
     image: "broken-10693965.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Broken by Nine Inch Nails"
+    caption: "Broken by Nine Inch Nails"
+genres: ["Electronic", "Rock"]
+styles: ["Industrial", "Industrial Metal"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Nine Inch Nails: Help Me I Am In Hell (1992)](https://www.youtube.com/watch?v=CBOhQamGGuI)
 - [Nine Inch Nails: Gave Up (1992)](https://www.youtube.com/watch?v=yVpw1SwJRBI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Nine Inch Nails - Broken](https://www.discogs.com/release/10693965) |
+| Release Year   | 2017 |
+| Discogs Link   | [Nine Inch Nails - Broken](https://www.discogs.com/release/10693965-Nine-Inch-Nails-Broken) |
 | Label          | Nothing Records, Interscope Records |
 | Format         | 12\", S/Sided, MiniAlbum, Etch, 180 + 7\" + RE, RM,  |
 | Catalog Number | B0025684-01 |
+
+2017 Definitive Edition. Comes with digital download code. The 12" contains a spiral etching of random lyrics from the songs on the record.  Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).  12" Jacket has a matte "n" on the front and the inside is white. 7" Paper inner sleeve.  From the hype sticker:  The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about.   Halo five Original release date: September 22, 1992
 

@@ -1,14 +1,17 @@
 ---
 title: "Guns N' Roses - Use Your Illusion II"
-album_artist: "Guns N' Roses"
-album_title: "Use Your Illusion II"
+artist: "Guns N' Roses"
+album_name: "Use Your Illusion II"
 date: 2016-06-21
 release_id: "8422961"
 slug: "use-your-illusion-ii-8422961"
+hideSummary: true
 cover:
     image: "use-your-illusion-ii-8422961.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Use Your Illusion II by Guns N' Roses"
+    caption: "Use Your Illusion II by Guns N' Roses"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="FOLaMrCIQAY" title="Gu̲ns N'Ro̲se̲s - Use Your Illusion II (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Guns N' Roses - Use Your Illusion II](https://www.discogs.com/release/8422961) |
+| Release Year   | 2016 |
+| Discogs Link   | [Guns N' Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |
 | Label          | Geffen Records, Uzi Suicide Records |
 | Format         | 2xLP, Album, RE, RM, RP |
 | Catalog Number | 0720642442012 |
+
+Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].  2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic."
 

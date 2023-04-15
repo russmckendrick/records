@@ -1,14 +1,17 @@
 ---
 title: "Ian Brown - The Greatest"
-album_artist: "Ian Brown"
-album_title: "The Greatest"
+artist: "Ian Brown"
+album_name: "The Greatest"
 date: 2017-02-02
 release_id: "1051499"
 slug: "the-greatest-1051499"
+hideSummary: true
 cover:
     image: "the-greatest-1051499.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Greatest by Ian Brown"
+    caption: "The Greatest by Ian Brown"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Ian Brown - Billie Jean](https://www.youtube.com/watch?v=LC2lidZxymA)
 - [Ian Brown - Thriller (Michael Jackson cover)](https://www.youtube.com/watch?v=L5vwuhnM1QQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2005 |
-| Discogs Link   | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499) |
+| Release Year   | 2005 |
+| Discogs Link   | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |
 | Label          | Polydor, Fiction Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | 987 289-0, 987 298-0 |
+
+Made in the EU.
 

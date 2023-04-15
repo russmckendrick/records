@@ -1,14 +1,17 @@
 ---
 title: "Roger Daltrey - Ride A Rock Horse"
-album_artist: "Roger Daltrey"
-album_title: "Ride A Rock Horse"
+artist: "Roger Daltrey"
+album_name: "Ride A Rock Horse"
 date: 2017-05-27
 release_id: "4105977"
 slug: "ride-a-rock-horse-4105977"
+hideSummary: true
 cover:
     image: "ride-a-rock-horse-4105977.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ride A Rock Horse by Roger Daltrey"
+    caption: "Ride A Rock Horse by Roger Daltrey"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Roger Daltrey:-'Proud'](https://www.youtube.com/watch?v=axxYY9nyCBw)
 - [Roger Daltrey:-'Come And Get Your Love'](https://www.youtube.com/watch?v=e8BtsTLvvSM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Roger Daltrey - Ride A Rock Horse](https://www.discogs.com/release/4105977) |
+| Release Year   | 1975 |
+| Discogs Link   | [Roger Daltrey - Ride A Rock Horse](https://www.discogs.com/release/4105977-Roger-Daltrey-Ride-A-Rock-Horse) |
 | Label          | Polydor |
 | Format         | LP, Album |
 | Catalog Number | ACB 199 |
+
+Fully laminated sleeve printed by James Upton Ltd Made in England
 

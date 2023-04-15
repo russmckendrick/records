@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - In Time: The Best Of R.E.M. 1988-2003"
-album_artist: "R.E.M."
-album_title: "In Time: The Best Of R.E.M. 1988-2003"
+artist: "R.E.M."
+album_name: "In Time: The Best Of R.E.M. 1988-2003"
 date: 2019-06-15
 release_id: "13640264"
 slug: "in-time-the-best-of-r-e-m-1988-2003-13640264"
+hideSummary: true
 cover:
     image: "in-time-the-best-of-r-e-m-1988-2003-13640264.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "In Time: The Best Of R.E.M. 1988-2003 by R.E.M."
+    caption: "In Time: The Best Of R.E.M. 1988-2003 by R.E.M."
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [R.E.M. - At My Most Beautiful (Official Music Video)](https://www.youtube.com/watch?v=UIXs66BPooY)
 - [R.E.M. - Nightswimming (Official Music Video) [British Version]](https://www.youtube.com/watch?v=ahJ6Kh8klM4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [R.E.M. - In Time: The Best Of R.E.M. 1988-2003](https://www.discogs.com/release/13640264) |
+| Release Year   | 2019 |
+| Discogs Link   | [R.E.M. - In Time: The Best Of R.E.M. 1988-2003](https://www.discogs.com/release/13640264-REM-In-Time-The-Best-Of-REM-1988-2003) |
 | Label          | Craft Recordings |
 | Format         | 2xLP, Comp, RE, Blu |
 | Catalog Number | 00888072095274 |
+
+180g  Gatefold sleeve.  Made in the EU.  Exclusive retailers in Germany: Media Markt & Saturn Exclusive retailers in UK: HMV & Fopp Exclusive retailer in Italy La Feltrinelli Exclusive retailer in Australia: JB Hi-Fi
 

@@ -1,14 +1,17 @@
 ---
 title: "Anathema - A Sort Of Homecoming"
-album_artist: "Anathema"
-album_title: "A Sort Of Homecoming"
+artist: "Anathema"
+album_name: "A Sort Of Homecoming"
 date: 2016-07-08
 release_id: "7809395"
 slug: "a-sort-of-homecoming-7809395"
+hideSummary: true
 cover:
     image: "a-sort-of-homecoming-7809395.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Sort Of Homecoming by Anathema"
+    caption: "A Sort Of Homecoming by Anathema"
+genres: ["Rock"]
+styles: ["Prog Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming (2015)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Anathema - A Sort Of Homecoming](https://www.discogs.com/release/7809395) |
+| Release Year   | 2015 |
+| Discogs Link   | [Anathema - A Sort Of Homecoming](https://www.discogs.com/release/7809395-Anathema-A-Sort-Of-Homecoming) |
 | Label          | Kscope |
 | Format         | 3xLP, Gat |
 | Catalog Number | KSCOPE884 |
+
+
 

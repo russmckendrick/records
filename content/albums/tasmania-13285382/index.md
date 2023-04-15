@@ -1,14 +1,17 @@
 ---
 title: "Pond (5) - Tasmania"
-album_artist: "Pond (5)"
-album_title: "Tasmania"
+artist: "Pond (5)"
+album_name: "Tasmania"
 date: 2019-03-04
 release_id: "13285382"
 slug: "tasmania-13285382"
+hideSummary: true
 cover:
     image: "tasmania-13285382.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Tasmania by Pond (5)"
+    caption: "Tasmania by Pond (5)"
+genres: ["Electronic", "Rock"]
+styles: ["Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="Ap2gStsDZZo" title="Pond - Daisy (Official Video)" >}}
 - [POND - Tasmania (Official Audio)](https://www.youtube.com/watch?v=NX6EIDepJDk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Pond (5) - Tasmania](https://www.discogs.com/release/13285382) |
+| Release Year   | 2019 |
+| Discogs Link   | [Pond (5) - Tasmania](https://www.discogs.com/release/13285382-Pond-Tasmania) |
 | Label          | Marathon Artists |
 | Format         | 2xLP, Album, Ltd, Whi |
 | Catalog Number | MA0145LPX |
+
+Rough Trade exclusive, limited to 1000 copies on white vinyl. Comes with OBI strip and 'Exclusive White Double Vinyl' hype sticker.
 

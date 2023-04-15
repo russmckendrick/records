@@ -1,14 +1,17 @@
 ---
 title: "Flying Lotus - Cosmogramma"
-album_artist: "Flying Lotus"
-album_title: "Cosmogramma"
+artist: "Flying Lotus"
+album_name: "Cosmogramma"
 date: 2020-08-01
 release_id: "2595467"
 slug: "cosmogramma-2595467"
+hideSummary: true
 cover:
     image: "cosmogramma-2595467.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "Cosmogramma by Flying Lotus"
+    caption: "Cosmogramma by Flying Lotus"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Flying Lotus- Cosmogramma ALBUM REVIEW](https://www.youtube.com/watch?v=KCuamde9Atc)
 - [Satelllliiiiiteee](https://www.youtube.com/watch?v=PC69RbHDiCg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Flying Lotus - Cosmogramma](https://www.discogs.com/release/2595467) |
+| Release Year   | 2010 |
+| Discogs Link   | [Flying Lotus - Cosmogramma](https://www.discogs.com/release/2595467-Flying-Lotus-Cosmogramma) |
 | Label          | Warp Records |
 | Format         | CD, Album |
 | Catalog Number | WARPCD195 |
+
+Released in jewel case.  Published by Just Isn't Music.  (P)(C) 2010 Warp Records Limited  Made in EU. 
 

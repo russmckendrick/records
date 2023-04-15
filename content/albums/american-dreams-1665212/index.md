@@ -1,14 +1,17 @@
 ---
 title: "Various - American Dreams"
-album_artist: "Various"
-album_title: "American Dreams"
+artist: "Various"
+album_name: "American Dreams"
 date: 2015-12-04
 release_id: "1665212"
 slug: "american-dreams-1665212"
+hideSummary: true
 cover:
     image: "american-dreams-1665212.jpg"
-tags: ["Rock", "Latin", "Folk, World, & Country"]
-hideSummary: true
+    alt: "American Dreams by Various"
+    caption: "American Dreams by Various"
+genres: ["Rock", "Latin", "Folk, World, & Country"]
+styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 {{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble (1981) (Music Video) 720p" >}}
 - [Air Supply - Even The Nights Are Better](https://www.youtube.com/watch?v=BRx58DgOxeg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Various - American Dreams](https://www.discogs.com/release/1665212) |
+| Release Year   | 1985 |
+| Discogs Link   | [Various - American Dreams](https://www.discogs.com/release/1665212-Various-American-Dreams) |
 | Label          | Starblend Records Ltd. |
 | Format         | 2xLP, Comp, Gat |
 | Catalog Number | SLTD 12 |
+
+This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.  Artwork differs from [r=6672471]  Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5
 

@@ -1,14 +1,17 @@
 ---
 title: "Extreme (2) - III Sides To Every Story"
-album_artist: "Extreme (2)"
-album_title: "III Sides To Every Story"
+artist: "Extreme (2)"
+album_name: "III Sides To Every Story"
 date: 2017-05-03
 release_id: "10091923"
 slug: "iii-sides-to-every-story-10091923"
+hideSummary: true
 cover:
     image: "iii-sides-to-every-story-10091923.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "III Sides To Every Story by Extreme (2)"
+    caption: "III Sides To Every Story by Extreme (2)"
+genres: ["Rock"]
+styles: ["Funk Metal", "Hard Rock", "Glam"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Extreme – Politicalamity](https://www.youtube.com/watch?v=dJrUX2s4tF8)
 - [Extreme – Peacemaker Die](https://www.youtube.com/watch?v=jMlXxkiUe5s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Extreme (2) - III Sides To Every Story](https://www.discogs.com/release/10091923) |
+| Release Year   | 2017 |
+| Discogs Link   | [Extreme (2) - III Sides To Every Story](https://www.discogs.com/release/10091923-Extreme-III-Sides-To-Every-Story) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, Ltd, Num, RE, RM, Gre |
 | Catalog Number | MOVLP1387 |
+
+- 180 gram audiophile vinyl - Includes insert with song lyrics - 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl
 

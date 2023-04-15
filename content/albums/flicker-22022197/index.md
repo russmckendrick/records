@@ -1,14 +1,17 @@
 ---
 title: "Andy Bell (2) - Flicker"
-album_artist: "Andy Bell (2)"
-album_title: "Flicker"
+artist: "Andy Bell (2)"
+album_name: "Flicker"
 date: 2022-02-05
 release_id: "22022197"
 slug: "flicker-22022197"
+hideSummary: true
 cover:
     image: "flicker-22022197.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flicker by Andy Bell (2)"
+    caption: "Flicker by Andy Bell (2)"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [The Looking Glass](https://www.youtube.com/watch?v=gYXa3rSDsao)
 - [When The Lights Go Down](https://www.youtube.com/watch?v=OrzpZ6GNZ0s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Andy Bell (2) - Flicker](https://www.discogs.com/release/22022197) |
+| Release Year   | 2022 |
+| Discogs Link   | [Andy Bell (2) - Flicker](https://www.discogs.com/release/22022197-Andy-Bell-Flicker) |
 | Label          | Sonic Cathedral Recordings |
 | Format         | 2xLP, Album, Ltd, Tra |
 | Catalog Number | SCR200LP |
+
+Limited edition of 300 copies.  Available only from the Sonic Cathedral shop on Bandcamp. Includes download code.
 

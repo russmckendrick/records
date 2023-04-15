@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury - New Boots And Panties!!"
-album_artist: "Ian Dury"
-album_title: "New Boots And Panties!!"
+artist: "Ian Dury"
+album_name: "New Boots And Panties!!"
 date: 2016-01-07
 release_id: "392738"
 slug: "new-boots-and-panties-392738"
+hideSummary: true
 cover:
     image: "new-boots-and-panties-392738.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "New Boots And Panties!! by Ian Dury"
+    caption: "New Boots And Panties!! by Ian Dury"
+genres: ["Rock"]
+styles: ["Punk", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1977 |
-| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/392738) |
+| Release Year   | 1977 |
+| Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/392738-Ian-Dury-New-Boots-And-Panties) |
 | Label          | Stiff Records |
 | Format         | LP, Album |
 | Catalog Number | SEEZ 4 |
+
+This record was not produced and recorded at The Workhouse in the Old Kent Road!! P and C 1977 Stiff Records Ltd.  Printed inner sleeve with diagonal cut corners.  
 

@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Emperor Tomato Ketchup"
-album_artist: "Stereolab"
-album_title: "Emperor Tomato Ketchup"
+artist: "Stereolab"
+album_name: "Emperor Tomato Ketchup"
 date: 2019-09-15
 release_id: "14118464"
 slug: "emperor-tomato-ketchup-14118464"
+hideSummary: true
 cover:
     image: "emperor-tomato-ketchup-14118464.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Emperor Tomato Ketchup by Stereolab"
+    caption: "Emperor Tomato Ketchup by Stereolab"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Metronomic Underground](https://www.youtube.com/watch?v=pxknMTAoC8U)
 - [Tomorrow Is Already Here](https://www.youtube.com/watch?v=MxXxT-o4SPY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stereolab - Emperor Tomato Ketchup](https://www.discogs.com/release/14118464) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stereolab - Emperor Tomato Ketchup](https://www.discogs.com/release/14118464-Stereolab-Emperor-Tomato-Ketchup) |
 | Label          | Duophonic Ultra High Frequency Disks, Warp Records |
 | Format         | 2xLP, Album, RE, RM + LP + Ltd, Num, Cle |
 | Catalog Number | D-UHF-D11R |
+
+Expanded Edition, housed in PVC outer sleeve. Limited to 2500 copies, numbered on hype sticker.  Contains poster, download card, and lottery scratch ticket.
 

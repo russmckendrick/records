@@ -1,14 +1,17 @@
 ---
 title: "The National - Boxer"
-album_artist: "The National"
-album_title: "Boxer"
+artist: "The National"
+album_name: "Boxer"
 date: 2017-08-13
 release_id: "10689734"
 slug: "boxer-10689734"
+hideSummary: true
 cover:
     image: "boxer-10689734.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Boxer by The National"
+    caption: "Boxer by The National"
+genres: ["Rock"]
+styles: ["Acoustic", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 {{< youtube id="E9ck_FhoDUc" title="The National - Mistaken For Strangers" >}}
 - [The National- Apartment Story](https://www.youtube.com/watch?v=S97xQKZDV_4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The National - Boxer](https://www.discogs.com/release/10689734) |
+| Release Year   | 2017 |
+| Discogs Link   | [The National - Boxer](https://www.discogs.com/release/10689734-The-National-Boxer) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album, Club, RE, S/Edition, Gra + 7\", Cle |
 | Catalog Number | BBQLP 252 |
+
+10th Anniversary Reissue.  Sticker says : "The National Boxer Special Edition Gray Vinyl Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."
 

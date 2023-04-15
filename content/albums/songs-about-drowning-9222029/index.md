@@ -1,14 +1,17 @@
 ---
 title: "Thought Forms - Songs About Drowning"
-album_artist: "Thought Forms"
-album_title: "Songs About Drowning"
+artist: "Thought Forms"
+album_name: "Songs About Drowning"
 date: 2016-11-22
 release_id: "9222029"
 slug: "songs-about-drowning-9222029"
+hideSummary: true
 cover:
     image: "songs-about-drowning-9222029.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Songs About Drowning by Thought Forms"
+    caption: "Songs About Drowning by Thought Forms"
+genres: ["Rock"]
+styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 {{< youtube id="20G3LlU4z1A" title="Thought Forms - Woolf Music" >}}
 - [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Thought Forms - Songs About Drowning](https://www.discogs.com/release/9222029) |
+| Release Year   | 2016 |
+| Discogs Link   | [Thought Forms - Songs About Drowning](https://www.discogs.com/release/9222029-Thought-Forms-Songs-About-Drowning) |
 | Label          | Invada |
 | Format         | LP, Album, Pur |
 | Catalog Number | INV167LP |
+
+Purple coloured vinyl in matte gatefold sleeve with glossy insert and download card. The first 100 copies ordered from the Invada website came with a 12"x12" lithograph art print signed and numbered by all members of the band.
 

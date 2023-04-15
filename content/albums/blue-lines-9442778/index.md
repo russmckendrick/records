@@ -1,14 +1,17 @@
 ---
 title: "Massive Attack - Blue Lines"
-album_artist: "Massive Attack"
-album_title: "Blue Lines"
+artist: "Massive Attack"
+album_name: "Blue Lines"
 date: 2016-12-02
 release_id: "9442778"
 slug: "blue-lines-9442778"
+hideSummary: true
 cover:
     image: "blue-lines-9442778.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Blue Lines by Massive Attack"
+    caption: "Blue Lines by Massive Attack"
+genres: ["Electronic"]
+styles: ["Trip Hop", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Daydreaming (2012 Mix/Master)](https://www.youtube.com/watch?v=rT18lMwmt1U)
 - [Lately (2012 Mix/Master)](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Massive Attack - Blue Lines](https://www.discogs.com/release/9442778) |
+| Release Year   | 2016 |
+| Discogs Link   | [Massive Attack - Blue Lines](https://www.discogs.com/release/9442778-Massive-Attack-Blue-Lines) |
 | Label          | Virgin, Circa, Wild Bunch Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 5700960 |
+
+Reissue. Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU  
 

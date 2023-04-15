@@ -1,14 +1,17 @@
 ---
 title: "World Party - Goodbye Jumbo"
-album_artist: "World Party"
-album_title: "Goodbye Jumbo"
+artist: "World Party"
+album_name: "Goodbye Jumbo"
 date: 2021-10-30
 release_id: "20773816"
 slug: "goodbye-jumbo-20773816"
+hideSummary: true
 cover:
     image: "goodbye-jumbo-20773816.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Goodbye Jumbo by World Party"
+    caption: "Goodbye Jumbo by World Party"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Sweet Soul Dream](https://www.youtube.com/watch?v=NJcop92PPT0)
 - [Thank You World](https://www.youtube.com/watch?v=6o8tGRwGGp0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [World Party - Goodbye Jumbo](https://www.discogs.com/release/20773816) |
+| Release Year   | 2021 |
+| Discogs Link   | [World Party - Goodbye Jumbo](https://www.discogs.com/release/20773816-World-Party-Goodbye-Jumbo) |
 | Label          | Seaview Records |
 | Format         | LP, Album, RE |
 | Catalog Number | seaview 2LP |
+
+Recorded At Seaview Studios,  The Old Rectory, Bedfordshire, England And Seaview Studios, London, England  Printed Inner Sleeve Digitally edited, mastered and remastered by Tim Young
 

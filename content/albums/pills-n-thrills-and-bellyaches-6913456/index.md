@@ -1,14 +1,17 @@
 ---
 title: "Happy Mondays - Pills 'N' Thrills And Bellyaches"
-album_artist: "Happy Mondays"
-album_title: "Pills 'N' Thrills And Bellyaches"
+artist: "Happy Mondays"
+album_name: "Pills 'N' Thrills And Bellyaches"
 date: 2016-04-30
 release_id: "6913456"
 slug: "pills-n-thrills-and-bellyaches-6913456"
+hideSummary: true
 cover:
     image: "pills-n-thrills-and-bellyaches-6913456.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Pills 'N' Thrills And Bellyaches by Happy Mondays"
+    caption: "Pills 'N' Thrills And Bellyaches by Happy Mondays"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Happy Mondays - Kinky Afro (Official Video)](https://www.youtube.com/watch?v=O8maBsuhHr4)
 - [Happy Mondays - Loose Fit (Official Music Video)](https://www.youtube.com/watch?v=xfF4k6TxFno)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Happy Mondays - Pills 'N' Thrills And Bellyaches](https://www.discogs.com/release/6913456) |
+| Release Year   | 2015 |
+| Discogs Link   | [Happy Mondays - Pills 'N' Thrills And Bellyaches](https://www.discogs.com/release/6913456-Happy-Mondays-Pills-N-Thrills-And-Bellyaches) |
 | Label          | Rhino Records (2) |
 | Format         | LP, Album, RSD, Ltd, RE, Yel |
 | Catalog Number | R1 60986 |
+
+25th Anniversary edition, released on Record Store Day 2015. Mastered from the original tapes on limited edition 180 gram yellow vinyl.  Published by London Music Ltd. except B3 published by Tapestry Music Ltd. © 1970
 

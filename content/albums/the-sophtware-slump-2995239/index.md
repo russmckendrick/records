@@ -1,14 +1,17 @@
 ---
 title: "Grandaddy - The Sophtware Slump"
-album_artist: "Grandaddy"
-album_title: "The Sophtware Slump"
+artist: "Grandaddy"
+album_name: "The Sophtware Slump"
 date: 2017-01-30
 release_id: "2995239"
 slug: "the-sophtware-slump-2995239"
+hideSummary: true
 cover:
     image: "the-sophtware-slump-2995239.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Sophtware Slump by Grandaddy"
+    caption: "The Sophtware Slump by Grandaddy"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Grandaddy - E. Knievel Interlude (The Perils Of Keeping It Real)](https://www.youtube.com/watch?v=YqEIsiF95Lc)
 - [Grandaddy - The Sophtware Slump (2000) [Full Album]](https://www.youtube.com/watch?v=RIGqUy8gzGY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Grandaddy - The Sophtware Slump](https://www.discogs.com/release/2995239) |
+| Release Year   | 2011 |
+| Discogs Link   | [Grandaddy - The Sophtware Slump](https://www.discogs.com/release/2995239-Grandaddy-The-Sophtware-Slump) |
 | Label          | The Control Group, The Control Group |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | CGO073, CGO 073 |
+
+On inner sleeve : All tracks published by Genghis Music/Deadlineless Music (admin. in the USA by BMG Songs, Inc.) (ASCAP) The Sophtware Slump was recorded at Little Portugal in Modesto by Lytle with occasional on/off switch assistance by Fairchild.  The color of spring reverb and other shades were applied and mixed at Robo Crops in Modesto by Lytle.  Final gloss and glue by Calbi.  On back cover : ℗ & © 2010 The Control Group, LLC. Master recording exclusively licensed from Eone Music. All rights administered by eOne Music Entertainment U.S. All tracks written and produced by Jason Lytle. All songs published by Genghis Music/Deadlineless/Music of V2 America . All rights administered by Blue Mountain Music.  Sticker on the wrapping says:  "This is quite possibly the last great entry in the atmospheric pop canon" - Pitchfork  Remastered at Sterling Sound  Label cat# is "CGO073" on back cover and "CGO 073" on spine
 

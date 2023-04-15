@@ -1,14 +1,17 @@
 ---
 title: "Janet Jackson - Control"
-album_artist: "Janet Jackson"
-album_title: "Control"
+artist: "Janet Jackson"
+album_name: "Control"
 date: 2020-08-01
 release_id: "339019"
 slug: "control-339019"
+hideSummary: true
 cover:
     image: "control-339019.jpg"
-tags: ["Electronic", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Control by Janet Jackson"
+    caption: "Control by Janet Jackson"
+genres: ["Electronic", "Funk / Soul", "Pop"]
+styles: ["Contemporary R&B", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Let's Wait Awhile](https://www.youtube.com/watch?v=5cZ7IOApdfg)
 - [Funny How Time Flies (When You're Having Fun)](https://www.youtube.com/watch?v=B2tyZjh-eD0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Janet Jackson - Control](https://www.discogs.com/release/339019) |
+| Release Year   | 1986 |
+| Discogs Link   | [Janet Jackson - Control](https://www.discogs.com/release/339019-Janet-Jackson-Control) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | AMA 5106 |
+
+℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve) © 1986 A & M Records Inc. (back cover, inner sleeve)  Issued with a custom printed inner sleeve containing credits.  'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)  'Made in England' (labels)  'Printed in England' (spine)
 

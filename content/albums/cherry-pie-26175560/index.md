@@ -1,14 +1,17 @@
 ---
 title: "Warrant - Cherry Pie"
-album_artist: "Warrant"
-album_title: "Cherry Pie"
+artist: "Warrant"
+album_name: "Cherry Pie"
 date: 2023-04-03
 release_id: "26175560"
 slug: "cherry-pie-26175560"
+hideSummary: true
 cover:
     image: "cherry-pie-26175560.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cherry Pie by Warrant"
+    caption: "Cherry Pie by Warrant"
+genres: ["Rock"]
+styles: ["Glam", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Warrant – Blind Faith](https://www.youtube.com/watch?v=QGB_J4OEk6c)
 - [Warrant – Sure Feels Good To Me](https://www.youtube.com/watch?v=KCL2ZWA_yE0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560) |
+| Release Year   | 2023 |
+| Discogs Link   | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560-Warrant-Cherry-Pie) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Pin |
 | Catalog Number | MOVLP3112 |
+
+Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112
 

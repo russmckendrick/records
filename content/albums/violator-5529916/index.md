@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Violator"
-album_artist: "Depeche Mode"
-album_title: "Violator"
+artist: "Depeche Mode"
+album_name: "Violator"
 date: 2016-04-30
 release_id: "5529916"
 slug: "violator-5529916"
+hideSummary: true
 cover:
     image: "violator-5529916.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Violator by Depeche Mode"
+    caption: "Violator by Depeche Mode"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Depeche Mode - World In My Eyes (Official Video)](https://www.youtube.com/watch?v=nhZdL4JlnxI)
 - [Depeche Mode - Halo (Official Video)](https://www.youtube.com/watch?v=iEH4eqtK8SU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Depeche Mode - Violator](https://www.discogs.com/release/5529916) |
+| Release Year   | 2014 |
+| Discogs Link   | [Depeche Mode - Violator](https://www.discogs.com/release/5529916-Depeche-Mode-Violator) |
 | Label          | Music On Vinyl, Mute, BMG, Sony Music |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | MOVLP 941 , STUMM64 |
+
+℗ & © 1990 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.  Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.  Recorded and mixed at Logic Studios, Milan, Puk Studios, Denmark, The Church, London, Master Rock Studios, London and Axis, New York. Remastered at Super Audio Mastering. Cut at The Exchange  Released in a spot gloss printed gatefold sleeve with inner sleeve replica insert (2007 remaster). Contained in a resealable plastic sleeve with info sticker.
 

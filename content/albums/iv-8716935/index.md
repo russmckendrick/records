@@ -1,14 +1,17 @@
 ---
 title: "BadBadNotGood - IV"
-album_artist: "BadBadNotGood"
-album_title: "IV"
+artist: "BadBadNotGood"
+album_name: "IV"
 date: 2017-06-25
 release_id: "8716935"
 slug: "iv-8716935"
+hideSummary: true
 cover:
     image: "iv-8716935.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "IV by BadBadNotGood"
+    caption: "IV by BadBadNotGood"
+genres: ["Jazz"]
+styles: null
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [BADBADNOTGOOD -  Hyssop of Love (featuring Mick Jenkins)](https://www.youtube.com/watch?v=t4cI5zNfNb0)
 - [BADBADNOTGOOD Lavender (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [BadBadNotGood - IV](https://www.discogs.com/release/8716935) |
+| Release Year   | 2016 |
+| Discogs Link   | [BadBadNotGood - IV](https://www.discogs.com/release/8716935-BadBadNotGood-IV) |
 | Label          | Innovative Leisure Records |
 | Format         | 2xLP, Album |
 | Catalog Number | IL 2034 |
+
+Gatefold cover. Blue front cover, yellow back cover, inside image is of the band with coconut tree in background. 
 

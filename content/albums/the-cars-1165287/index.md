@@ -1,14 +1,17 @@
 ---
 title: "The Cars - The Cars"
-album_artist: "The Cars"
-album_title: "The Cars"
+artist: "The Cars"
+album_name: "The Cars"
 date: 2020-08-02
 release_id: "1165287"
 slug: "the-cars-1165287"
+hideSummary: true
 cover:
     image: "the-cars-1165287.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Cars by The Cars"
+    caption: "The Cars by The Cars"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Moving in Stereo](https://www.youtube.com/watch?v=y5oPZFDci80)
 - [All Mixed Up](https://www.youtube.com/watch?v=VFXsdQb35Io)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [The Cars - The Cars](https://www.discogs.com/release/1165287) |
+| Release Year   | 1978 |
+| Discogs Link   | [The Cars - The Cars](https://www.discogs.com/release/1165287-The-Cars-The-Cars) |
 | Label          | Elektra |
 | Format         | LP, Album |
 | Catalog Number | K 52088 |
+
+℗ 1978 Elektra Records © 1978 An Elektra/Asylum Recording  All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978 Made in UK A1 to B2, B4: Lido Music B3: Lido Music / Oversnare Music  This version labels say SIDE 1 and SIDE 2 Version with SIDE ONE and SIDE TWO on labels is here [r14061338]
 

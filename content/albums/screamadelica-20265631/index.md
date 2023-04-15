@@ -1,14 +1,17 @@
 ---
 title: "Primal Scream - Screamadelica"
-album_artist: "Primal Scream"
-album_title: "Screamadelica"
+artist: "Primal Scream"
+album_name: "Screamadelica"
 date: 2021-09-23
 release_id: "20265631"
 slug: "screamadelica-20265631"
+hideSummary: true
 cover:
     image: "screamadelica-20265631.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Screamadelica by Primal Scream"
+    caption: "Screamadelica by Primal Scream"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
 - [Primal Scream - Shine Like Stars (Official Audio)](https://www.youtube.com/watch?v=SKPRmuraUEE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Primal Scream - Screamadelica](https://www.discogs.com/release/20265631) |
+| Release Year   | 2021 |
+| Discogs Link   | [Primal Scream - Screamadelica](https://www.discogs.com/release/20265631-Primal-Scream-Screamadelica) |
 | Label          | Sony Music |
 | Format         | 2xLP, Album, Pic, RE |
 | Catalog Number | 19439906211 |
+
+Double vinyl Picture disc
 

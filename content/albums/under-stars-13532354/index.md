@@ -1,14 +1,17 @@
 ---
 title: "Lonely Robot - Under Stars"
-album_artist: "Lonely Robot"
-album_title: "Under Stars"
+artist: "Lonely Robot"
+album_name: "Under Stars"
 date: 2019-04-26
 release_id: "13532354"
 slug: "under-stars-13532354"
+hideSummary: true
 cover:
     image: "under-stars-13532354.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Under Stars by Lonely Robot"
+    caption: "Under Stars by Lonely Robot"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Lonely Robot - Under Stars](https://www.discogs.com/release/13532354) |
+| Release Year   | 2019 |
+| Discogs Link   | [Lonely Robot - Under Stars](https://www.discogs.com/release/13532354-Lonely-Robot-Under-Stars) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 528, 19075938861 |
+
+Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker affixed to the front of the shrink wrap. CD is packaged inside in a clear envelope-style PVC sleeve.
 

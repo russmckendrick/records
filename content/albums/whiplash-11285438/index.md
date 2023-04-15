@@ -1,14 +1,17 @@
 ---
 title: "James - Whiplash"
-album_artist: "James"
-album_title: "Whiplash"
+artist: "James"
+album_name: "Whiplash"
 date: 2017-12-16
 release_id: "11285438"
 slug: "whiplash-11285438"
+hideSummary: true
 cover:
     image: "whiplash-11285438.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Whiplash by James"
+    caption: "Whiplash by James"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [James - Waltzing Along](https://www.youtube.com/watch?v=QZTCt-nQY9U)
 - [James - She's a star (HQ) (Whiplash 1997)](https://www.youtube.com/watch?v=VF2qV-oSn0Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [James - Whiplash](https://www.discogs.com/release/11285438) |
+| Release Year   | 2017 |
+| Discogs Link   | [James - Whiplash](https://www.discogs.com/release/11285438-James-Whiplash) |
 | Label          | Fontana |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | 5712913 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "LCD Soundsystem - American Dream"
-album_artist: "LCD Soundsystem"
-album_title: "American Dream"
+artist: "LCD Soundsystem"
+album_name: "American Dream"
 date: 2017-09-01
 release_id: "10776167"
 slug: "american-dream-10776167"
+hideSummary: true
 cover:
     image: "american-dream-10776167.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "American Dream by LCD Soundsystem"
+    caption: "American Dream by LCD Soundsystem"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [emotional haircut](https://www.youtube.com/watch?v=N2olnx1bTW0)
 - [black screen](https://www.youtube.com/watch?v=hYmvBLNhif4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [LCD Soundsystem - American Dream](https://www.discogs.com/release/10776167) |
+| Release Year   | 2017 |
+| Discogs Link   | [LCD Soundsystem - American Dream](https://www.discogs.com/release/10776167-LCD-Soundsystem-American-Dream) |
 | Label          | DFA, Columbia |
 | Format         | 2xLP, Album |
 | Catalog Number | 88985456111 |
+
+140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos.  © & ℗ 2017 Excelsior Equity Management of NY, LLC
 

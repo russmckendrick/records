@@ -1,14 +1,17 @@
 ---
 title: "Nick Cave & The Bad Seeds - Murder Ballads"
-album_artist: "Nick Cave & The Bad Seeds"
-album_title: "Murder Ballads"
+artist: "Nick Cave & The Bad Seeds"
+album_name: "Murder Ballads"
 date: 2016-10-01
 release_id: "6620802"
 slug: "murder-ballads-6620802"
+hideSummary: true
 cover:
     image: "murder-ballads-6620802.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Murder Ballads by Nick Cave & The Bad Seeds"
+    caption: "Murder Ballads by Nick Cave & The Bad Seeds"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [O'Malley's Bar (2011 - Remaster)](https://www.youtube.com/watch?v=awV25UXXYxQ)
 - [Death Is Not the End (2011 - Remaster)](https://www.youtube.com/watch?v=Nf5Y94tw30E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Nick Cave & The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802) |
+| Release Year   | 2015 |
+| Discogs Link   | [Nick Cave & The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802-Nick-Cave-And-The-Bad-Seeds-Murder-Ballads) |
 | Label          | Mute, BMG |
 | Format         | LP + LP, S/Sided + Album, RE, RM, 180 |
 | Catalog Number | LPSEEDS9 |
+
+Sides A to C contain music, side D is blank. Track numbers are listed sequentially regardless of side.  From front sticker on shrink wrap: Includes download code  Contains download card for [FLAC](http://www.discogs.com/release/8065277) or [MP3](http://www.discogs.com/release/8065337) files.  Issued with plain white paper inner sleeves.  Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis.  "Where The Wild Roses Grow" was mixed at Sarm West, London. Mastered at Whitfield Street  ℗ 2011 Mute Records Ltd, a BMG Company © 2014 Mute Records Ltd, a BMG Company
 

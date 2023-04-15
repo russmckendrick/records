@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - Shake Your Money Maker"
-album_artist: "The Black Crowes"
-album_title: "Shake Your Money Maker"
+artist: "The Black Crowes"
+album_name: "Shake Your Money Maker"
 date: 2015-12-19
 release_id: "7864739"
 slug: "shake-your-money-maker-7864739"
+hideSummary: true
 cover:
     image: "shake-your-money-maker-7864739.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Shake Your Money Maker by The Black Crowes"
+    caption: "Shake Your Money Maker by The Black Crowes"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Black Crowes - Shake Your Money Maker](https://www.discogs.com/release/7864739) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Black Crowes - Shake Your Money Maker](https://www.discogs.com/release/7864739-The-Black-Crowes-Shake-Your-Money-Maker) |
 | Label          | American Recordings |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | B0018989-01 |
+
+2015 Reissue released by American Recordings
 

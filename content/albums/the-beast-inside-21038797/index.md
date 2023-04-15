@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - The Beast Inside"
-album_artist: "Inspiral Carpets"
-album_title: "The Beast Inside"
+artist: "Inspiral Carpets"
+album_name: "The Beast Inside"
 date: 2021-11-22
 release_id: "21038797"
 slug: "the-beast-inside-21038797"
+hideSummary: true
 cover:
     image: "the-beast-inside-21038797.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "The Beast Inside by Inspiral Carpets"
+    caption: "The Beast Inside by Inspiral Carpets"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Further Away](https://www.youtube.com/watch?v=XdODbhPsHLQ)
 - [Dreams Are All We Have](https://www.youtube.com/watch?v=ZuEIxhrGYUY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Inspiral Carpets - The Beast Inside](https://www.discogs.com/release/21038797) |
+| Release Year   | 2021 |
+| Discogs Link   | [Inspiral Carpets - The Beast Inside](https://www.discogs.com/release/21038797-Inspiral-Carpets-The-Beast-Inside) |
 | Label          | Mute, BMG, Cow |
 | Format         | 2xLP, Album, Ltd, RE, Pur |
 | Catalog Number | Ldung14 |
+
+Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).  Single jacket sleeve with two printed innersleeves. Tracks listed sequentially on side labels.  "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."
 

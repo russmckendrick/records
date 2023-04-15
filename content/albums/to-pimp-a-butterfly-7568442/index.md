@@ -1,14 +1,17 @@
 ---
 title: "Kendrick Lamar - To Pimp A Butterfly"
-album_artist: "Kendrick Lamar"
-album_title: "To Pimp A Butterfly"
+artist: "Kendrick Lamar"
+album_name: "To Pimp A Butterfly"
 date: 2016-03-26
 release_id: "7568442"
 slug: "to-pimp-a-butterfly-7568442"
+hideSummary: true
 cover:
     image: "to-pimp-a-butterfly-7568442.jpg"
-tags: ["Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "To Pimp A Butterfly by Kendrick Lamar"
+    caption: "To Pimp A Butterfly by Kendrick Lamar"
+genres: ["Hip Hop", "Funk / Soul"]
+styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
 - [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442) |
+| Release Year   | 2015 |
+| Discogs Link   | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly) |
 | Label          | Top Dawg Entertainment, Aftermath Entertainment, Interscope Records |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | 0602547311009 |
+
+Released in a gatefold cover. No track durations mentioned on the release.  [a2402706] of [a1628709]'  The credit section inside gatefold contains some errors: – Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa. – Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"  [Back cover] ℗© 2015 Aftermath/Interscope Records. […] Made in the EU. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands
 

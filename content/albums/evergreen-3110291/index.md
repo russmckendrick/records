@@ -1,14 +1,17 @@
 ---
 title: "Acker Bilk His Clarinet And Strings - Evergreen"
-album_artist: "Acker Bilk His Clarinet And Strings"
-album_title: "Evergreen"
+artist: "Acker Bilk His Clarinet And Strings"
+album_name: "Evergreen"
 date: 2020-08-02
 release_id: "3110291"
 slug: "evergreen-3110291"
+hideSummary: true
 cover:
     image: "evergreen-3110291.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Evergreen by Acker Bilk His Clarinet And Strings"
+    caption: "Evergreen by Acker Bilk His Clarinet And Strings"
+genres: ["Jazz"]
+styles: ["Easy Listening"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 {{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}
 - [Mr. Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Acker Bilk His Clarinet And Strings - Evergreen](https://www.discogs.com/release/3110291) |
+| Release Year   | 1978 |
+| Discogs Link   | [Acker Bilk His Clarinet And Strings - Evergreen](https://www.discogs.com/release/3110291-Acker-Bilk-His-Clarinet-And-Strings-Evergreen) |
 | Label          | Warwick Records, Warwick Records |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | PW 5045, PW5045 |
+
+
 

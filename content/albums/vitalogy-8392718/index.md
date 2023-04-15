@@ -1,14 +1,17 @@
 ---
 title: "Pearl Jam - Vitalogy"
-album_artist: "Pearl Jam"
-album_title: "Vitalogy"
+artist: "Pearl Jam"
+album_name: "Vitalogy"
 date: 2016-10-26
 release_id: "8392718"
 slug: "vitalogy-8392718"
+hideSummary: true
 cover:
     image: "vitalogy-8392718.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vitalogy by Pearl Jam"
+    caption: "Vitalogy by Pearl Jam"
+genres: ["Rock"]
+styles: ["Grunge", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Last Exit (Remastered)](https://www.youtube.com/watch?v=YQRyhKmkUUE)
 - [Better Man](https://www.youtube.com/watch?v=27ztFtLKvuQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pearl Jam - Vitalogy](https://www.discogs.com/release/8392718) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pearl Jam - Vitalogy](https://www.discogs.com/release/8392718-Pearl-Jam-Vitalogy) |
 | Label          | Epic, Sony Music, Legacy |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 88697843111 |
+
+Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits. Track D2 titled "Stupid Mop" on label.   Recorded in Seattle, Atlanta & New Orleans 1994.   ℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh  Made in the EU
 

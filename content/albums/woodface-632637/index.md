@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Woodface"
-album_artist: "Crowded House"
-album_title: "Woodface"
+artist: "Crowded House"
+album_name: "Woodface"
 date: 2015-08-25
 release_id: "632637"
 slug: "woodface-632637"
+hideSummary: true
 cover:
     image: "woodface-632637.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Woodface by Crowded House"
+    caption: "Woodface by Crowded House"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [She Goes On](https://www.youtube.com/watch?v=Kar6Q_Yr65c)
 - [crowded house - how will you go](https://www.youtube.com/watch?v=8IoT0Zj3bU8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2000 |
-| Discogs Link   | [Crowded House - Woodface](https://www.discogs.com/release/632637) |
+| Release Year   | 2000 |
+| Discogs Link   | [Crowded House - Woodface](https://www.discogs.com/release/632637-Crowded-House-Woodface) |
 | Label          | Simply Vinyl |
 | Format         | LP, RE, 180 |
 | Catalog Number | SVLP 240 |
+
+
 

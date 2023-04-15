@@ -1,14 +1,17 @@
 ---
 title: "The Slackers - Redlight"
-album_artist: "The Slackers"
-album_title: "Redlight"
+artist: "The Slackers"
+album_name: "Redlight"
 date: 2019-04-17
 release_id: "10018831"
 slug: "redlight-10018831"
+hideSummary: true
 cover:
     image: "redlight-10018831.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Redlight by The Slackers"
+    caption: "Redlight by The Slackers"
+genres: ["Reggae"]
+styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="EggsTYwhYk8" title="The Slackers - Tin Tin Deo - [ Redlight ]" >}}
 - [The Slackers- Watch This](https://www.youtube.com/watch?v=z6jNekFYAyg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Slackers - Redlight](https://www.discogs.com/release/10018831) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Slackers - Redlight](https://www.discogs.com/release/10018831-The-Slackers-Redlight) |
 | Label          | Pirates Press Records, Epitaph |
 | Format         | LP, Album, Ltd, RE, RM, Cle |
 | Catalog Number | PPR167 |
+
+Pirates Press Mailorder Edition 250 copies on clear w/ oxblood, cyan and white splatter 180 gram vinyl.  Cover is two-color foil stamped cover and comes with an exclusive art-print insert.  Comes with a card for digital download which includes 3 bonus tracks: 1. When I Find A Place Where I Belong 2. Calypso Jazz (Iron Bar) 3. Come Back Baby (Glen Adams Mix)  
 

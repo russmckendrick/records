@@ -1,14 +1,17 @@
 ---
 title: "xPropaganda - The Heart Is Strange"
-album_artist: "xPropaganda"
-album_title: "The Heart Is Strange"
+artist: "xPropaganda"
+album_name: "The Heart Is Strange"
 date: 2022-05-28
 release_id: "23203103"
 slug: "the-heart-is-strange-23203103"
+hideSummary: true
 cover:
     image: "the-heart-is-strange-23203103.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "The Heart Is Strange by xPropaganda"
+    caption: "The Heart Is Strange by xPropaganda"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [The Wolves Are Returning](https://www.youtube.com/watch?v=_906dqMbLLs)
 - [Ribbons Of Steel](https://www.youtube.com/watch?v=G1K3hBQ6330)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103) |
+| Release Year   | 2022 |
+| Discogs Link   | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103-xPropaganda-The-Heart-Is-Strange) |
 | Label          | ZTT |
 | Format         | LP, Album |
 | Catalog Number | ZTTnovis1 |
+
+
 

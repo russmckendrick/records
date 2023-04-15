@@ -1,14 +1,17 @@
 ---
 title: "Suede - Suede"
-album_artist: "Suede"
-album_title: "Suede"
+artist: "Suede"
+album_name: "Suede"
 date: 2016-07-18
 release_id: "5438130"
 slug: "suede-5438130"
+hideSummary: true
 cover:
     image: "suede-5438130.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Suede by Suede"
+    caption: "Suede by Suede"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="2e5N0tn1-7s" title="Suede - Sleeping Pills (Audio Only)" >}}
 - [Suede - So Young](https://www.youtube.com/watch?v=twoO3xYRsz0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Suede - Suede](https://www.discogs.com/release/5438130) |
+| Release Year   | 2014 |
+| Discogs Link   | [Suede - Suede](https://www.discogs.com/release/5438130-Suede-Suede) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE |
 | Catalog Number | INSATIABLE 1 |
+
+2014 Demon Records reissue on 180g vinyl.  Supplied with download card for the full album.  Late issue doesn't have Demon sticker or download coupon. Though reissued in 2014, copyright notice states '(c) 2013'.
 

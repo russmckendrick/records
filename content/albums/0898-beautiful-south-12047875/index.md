@@ -1,14 +1,17 @@
 ---
 title: "The Beautiful South - 0898 Beautiful South"
-album_artist: "The Beautiful South"
-album_title: "0898 Beautiful South"
+artist: "The Beautiful South"
+album_name: "0898 Beautiful South"
 date: 2018-05-25
 release_id: "12047875"
 slug: "0898-beautiful-south-12047875"
+hideSummary: true
 cover:
     image: "0898-beautiful-south-12047875.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "0898 Beautiful South by The Beautiful South"
+    caption: "0898 Beautiful South by The Beautiful South"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
 - [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Beautiful South - 0898 Beautiful South](https://www.discogs.com/release/12047875) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Beautiful South - 0898 Beautiful South](https://www.discogs.com/release/12047875-The-Beautiful-South-0898-Beautiful-South) |
 | Label          | Go! Discs, UMC |
 | Format         | LP, Album, RE |
 | Catalog Number | 5743902 |
+
+"2018 Edition".  Issued in a matte sleeve. Picture/ lyric top opening inner sleeve of thin card. Includes a "The Sound Of Vinyl" download voucher. Package came shrink-wrapped.  Runouts are etched.
 

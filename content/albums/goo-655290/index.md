@@ -1,14 +1,17 @@
 ---
 title: "Sonic Youth - Goo"
-album_artist: "Sonic Youth"
-album_title: "Goo"
+artist: "Sonic Youth"
+album_name: "Goo"
 date: 2016-01-23
 release_id: "655290"
 slug: "goo-655290"
+hideSummary: true
 cover:
     image: "goo-655290.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Goo by Sonic Youth"
+    caption: "Goo by Sonic Youth"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [Sonic Youth - Scooter And Jinx](https://www.youtube.com/watch?v=W69cTdiDSwQ)
 - [Sonic Youth - Titanium Expose](https://www.youtube.com/watch?v=1lWwdpBeZd0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2005 |
-| Discogs Link   | [Sonic Youth - Goo](https://www.discogs.com/release/655290) |
+| Release Year   | 2005 |
+| Discogs Link   | [Sonic Youth - Goo](https://www.discogs.com/release/655290-Sonic-Youth-Goo) |
 | Label          | Goofin' Records |
 | Format         | 2xLP, Album, RE, RM + 2xLP, RM + Box |
 | Catalog Number | GOO-07 |
+
+"That's All I Know (Right Now)" originally recorded by Neon Boys. "I Know There's an Answer" originally recorded by The Beach Boys. A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990. D2, H3 recorded at Wharton Tier's Studio, 1990. D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990. D4 recorded at Sorcerer Sound, NYC, 1990 D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989. E1 to H1 recorded at Waterworks, NYC, Nov 1989.  Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.  16-page printed color booklet, photographic inner sleeves.
 

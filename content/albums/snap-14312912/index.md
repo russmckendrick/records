@@ -1,14 +1,17 @@
 ---
 title: "The Jam - Snap!"
-album_artist: "The Jam"
-album_title: "Snap!"
+artist: "The Jam"
+album_name: "Snap!"
 date: 2019-10-25
 release_id: "14312912"
 slug: "snap-14312912"
+hideSummary: true
 cover:
     image: "snap-14312912.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Snap! by The Jam"
+    caption: "Snap! by The Jam"
+genres: ["Rock"]
+styles: ["Mod"]
 ---
 
 ## Tracklisting
@@ -83,13 +86,16 @@ hideSummary: true
 - [The Jam - (Compact SNAP!) Full Album](https://www.youtube.com/watch?v=9FoSomJHHU4)
 - [The Jam SNAP! Full Album](https://www.youtube.com/watch?v=f2TzoccDCDI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Jam - Snap!](https://www.discogs.com/release/14312912) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Jam - Snap!](https://www.discogs.com/release/14312912-The-Jam-Snap) |
 | Label          | Polydor, Polydor, UMC, UMC |
 | Format         | 2xLP, Comp + 7\", EP + Comp, RE |
 | Catalog Number | SNAP 1, 775 270-2 |
+
+Gatefold cover.
 

@@ -1,14 +1,17 @@
 ---
 title: "Genesis - Three Sides Live"
-album_artist: "Genesis"
-album_title: "Three Sides Live"
+artist: "Genesis"
+album_name: "Three Sides Live"
 date: 2021-09-03
 release_id: "1152731"
 slug: "three-sides-live-1152731"
+hideSummary: true
 cover:
     image: "three-sides-live-1152731.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Three Sides Live by Genesis"
+    caption: "Three Sides Live by Genesis"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Open Door - Genesis - Three Sides Live](https://www.youtube.com/watch?v=1B2TzXOa05M)
 - [Paperlate - Genesis - Three Sides Live](https://www.youtube.com/watch?v=lrz3pm2axPo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Genesis - Three Sides Live](https://www.discogs.com/release/1152731) |
+| Release Year   | 1982 |
+| Discogs Link   | [Genesis - Three Sides Live](https://www.discogs.com/release/1152731-Genesis-Three-Sides-Live) |
 | Label          | Charisma |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | GE 2002 |
+
+Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.  ⓟ & © 1982 Charisma Records Ltd.  This version has no mention of "Virgin" on it. Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage" 
 

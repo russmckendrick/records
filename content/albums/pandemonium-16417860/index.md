@@ -1,14 +1,17 @@
 ---
 title: "Killing Joke - Pandemonium"
-album_artist: "Killing Joke"
-album_title: "Pandemonium"
+artist: "Killing Joke"
+album_name: "Pandemonium"
 date: 2020-12-12
 release_id: "16417860"
 slug: "pandemonium-16417860"
+hideSummary: true
 cover:
     image: "pandemonium-16417860.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pandemonium by Killing Joke"
+    caption: "Pandemonium by Killing Joke"
+genres: ["Rock"]
+styles: ["Industrial", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Pleasures Of The Flesh](https://www.youtube.com/watch?v=YMAdcR6JyJg)
 - [Mathematics Of Chaos](https://www.youtube.com/watch?v=Vc2bWPBrS5I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Killing Joke - Pandemonium](https://www.discogs.com/release/16417860) |
+| Release Year   | 2020 |
+| Discogs Link   | [Killing Joke - Pandemonium](https://www.discogs.com/release/16417860-Killing-Joke-Pandemonium) |
 | Label          | Spinefarm Records |
 | Format         | LP, Blu + LP, Cle + Album, RE |
 | Catalog Number | SPINE511303 |
+
+Includes double-sided insert with lyrics, credits and new liner notes.  Features revised cover art.  
 

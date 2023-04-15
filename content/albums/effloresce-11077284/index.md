@@ -1,14 +1,17 @@
 ---
 title: "Oceansize - Effloresce"
-album_artist: "Oceansize"
-album_title: "Effloresce"
+artist: "Oceansize"
+album_name: "Effloresce"
 date: 2017-11-10
 release_id: "11077284"
 slug: "effloresce-11077284"
+hideSummary: true
 cover:
     image: "effloresce-11077284.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Effloresce by Oceansize"
+    caption: "Effloresce by Oceansize"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}
 - [Oceansize - One Day All This Could Be Yours](https://www.youtube.com/watch?v=ZHCy8KlifXc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Oceansize - Effloresce](https://www.discogs.com/release/11077284) |
+| Release Year   | 2017 |
+| Discogs Link   | [Oceansize - Effloresce](https://www.discogs.com/release/11077284-Oceansize-Effloresce) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Album, RE, RM, Yel |
 | Catalog Number | BBQLP 235X |
+
+2017 reissue by Beggars Banquet on red/yellow swirl vinyl.  Comes with a download voucher.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill. 
 

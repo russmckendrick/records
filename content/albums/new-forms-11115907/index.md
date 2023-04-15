@@ -1,14 +1,17 @@
 ---
 title: "Roni Size / Reprazent - New Forms"
-album_artist: "Roni Size / Reprazent"
-album_title: "New Forms"
+artist: "Roni Size / Reprazent"
+album_name: "New Forms"
 date: 2017-11-10
 release_id: "11115907"
 slug: "new-forms-11115907"
+hideSummary: true
 cover:
     image: "new-forms-11115907.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "New Forms by Roni Size / Reprazent"
+    caption: "New Forms by Roni Size / Reprazent"
+genres: ["Electronic"]
+styles: ["Drum n Bass"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Roni Size Reprazent - Destination](https://www.youtube.com/watch?v=jthxuoPLt3E)
 - [Roni Size Reprazent -  Change My Life](https://www.youtube.com/watch?v=DVXhlpxutII)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Roni Size / Reprazent - New Forms](https://www.discogs.com/release/11115907) |
+| Release Year   | 2017 |
+| Discogs Link   | [Roni Size / Reprazent - New Forms](https://www.discogs.com/release/11115907-Roni-Size-Reprazent-New-Forms) |
 | Label          | UMC, Mercury, Talkin' Loud |
 | Format         | 2xLP, Album, Dlx, RM |
 | Catalog Number | 5773719 |
+
+20th anniversary deluxe edition.  Records housed in a gatefold jacket.  All tracks have been remastered.  Includes a download code for all tracks from the [CD version](https://www.discogs.com/Roni-Size-Reprazent-New-Forms/release/11152835).  Track C1 samples: Flute from Luiz Arruda Paez - Upa Neguinho Vocal from Moloko - Boo Guitar from The Brand New Heavies - Brother Sister  Track C4 samples: Horns from Everything But The Girl - Each And Every One  ℗ 2017 Mercury Records Limited, a division of Universal Music Operations Limited. © 2017 Mercury Records Limited, a division of Universal Music Operations Limited. Made in the EU. - printed on cover and labels.  This differs from the one disc CD version in that 'Mad Cat' is not included, the running order is changed, and two tracks ('Trust Me' & 'Change My Life') have been included from CD 2 in the 2xCD edition. When compared to the original 4xLP version, this one has dropped 'Mat Cat' in favour of the two tracks mentioned above, as well as featuring 'Heroes' & 'Watching Windows'. 
 

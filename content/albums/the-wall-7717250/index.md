@@ -1,14 +1,17 @@
 ---
 title: "Roger Waters - The Wall"
-album_artist: "Roger Waters"
-album_title: "The Wall"
+artist: "Roger Waters"
+album_name: "The Wall"
 date: 2015-11-20
 release_id: "7717250"
 slug: "the-wall-7717250"
+hideSummary: true
 cover:
     image: "the-wall-7717250.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Wall by Roger Waters"
+    caption: "The Wall by Roger Waters"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Roger Waters - Mother / Goodbye Blue Sky (The Wall Tour 2010)](https://www.youtube.com/watch?v=w_Wcl7getFI)
 - [Roger Waters - The Wall (Full Theatrical Trailer)](https://www.youtube.com/watch?v=jZgJqX8Dxzg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Roger Waters - The Wall](https://www.discogs.com/release/7717250) |
+| Release Year   | 2015 |
+| Discogs Link   | [Roger Waters - The Wall](https://www.discogs.com/release/7717250-Roger-Waters-The-Wall) |
 | Label          | Columbia, Legacy |
 | Format         | 3xLP, Album, Tri |
 | Catalog Number | 88875155411 |
+
+The Soundtrack From A Film By Roger Waters And Sean Evans 3LP in tri-fold jacket on 180-gram audiophile vinyl Includes 16-page book with color photos Made in the EU.  Live Recording Athens: Le Voyageur
 

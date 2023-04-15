@@ -1,14 +1,17 @@
 ---
 title: "Van Morrison - Astral Weeks"
-album_artist: "Van Morrison"
-album_title: "Astral Weeks"
+artist: "Van Morrison"
+album_name: "Astral Weeks"
 date: 2017-07-23
 release_id: "10596963"
 slug: "astral-weeks-10596963"
+hideSummary: true
 cover:
     image: "astral-weeks-10596963.jpg"
-tags: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Astral Weeks by Van Morrison"
+    caption: "Astral Weeks by Van Morrison"
+genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
+styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Ballerina (2015 Remaster)](https://www.youtube.com/watch?v=B4GCR_moiMc)
 - [Slim Slow Slider (2015 Remaster)](https://www.youtube.com/watch?v=xaRa98bvIfc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963) |
+| Release Year   | 2017 |
+| Discogs Link   | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963-Van-Morrison-Astral-Weeks) |
 | Label          | Warner Bros. - Seven Arts Records |
 | Format         | LP, Album, RE, Cle |
 | Catalog Number | 081227937850 |
+
+Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl
 

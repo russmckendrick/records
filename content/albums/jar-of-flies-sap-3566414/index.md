@@ -1,14 +1,17 @@
 ---
 title: "Alice In Chains - Jar Of Flies / Sap"
-album_artist: "Alice In Chains"
-album_title: "Jar Of Flies / Sap"
+artist: "Alice In Chains"
+album_name: "Jar Of Flies / Sap"
 date: 2016-10-01
 release_id: "3566414"
 slug: "jar-of-flies-sap-3566414"
+hideSummary: true
 cover:
     image: "jar-of-flies-sap-3566414.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Jar Of Flies / Sap by Alice In Chains"
+    caption: "Jar Of Flies / Sap by Alice In Chains"
+genres: ["Rock"]
+styles: ["Grunge"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Swing On This](https://www.youtube.com/watch?v=Uj3R2ASEMDE)
 - [Love Song](https://www.youtube.com/watch?v=lmTKN09DPPQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Alice In Chains - Jar Of Flies / Sap](https://www.discogs.com/release/3566414) |
+| Release Year   | 2010 |
+| Discogs Link   | [Alice In Chains - Jar Of Flies / Sap](https://www.discogs.com/release/3566414-Alice-In-Chains-Jar-Of-Flies-Sap) |
 | Label          | Music On Vinyl, Columbia |
 | Format         | 12\", EP + 12\", S/Sided, EP, Etch + MiniAlbum, Comp |
 | Catalog Number | MOVLP086, 88697685411 |
+
+"Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993. Mixed at Scream Studio, 17-22 September 1993.  "Sap" recorded at London Bridge Studios, Seattle, WA..  Released in gatefold sleeve with printed inner sleeves containing lyrics and credits. Tribal sun logo lasered on side D. Track C5 is not listed on the release, title taken from the label's website.  All runouts are etched.
 

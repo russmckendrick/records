@@ -1,14 +1,17 @@
 ---
 title: "Funkadelic - Maggot Brain"
-album_artist: "Funkadelic"
-album_title: "Maggot Brain"
+artist: "Funkadelic"
+album_name: "Maggot Brain"
 date: 2017-07-16
 release_id: "602546"
 slug: "maggot-brain-602546"
+hideSummary: true
 cover:
     image: "maggot-brain-602546.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Maggot Brain by Funkadelic"
+    caption: "Maggot Brain by Funkadelic"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Funkadelic - Maggot Brain (full album)](https://www.youtube.com/watch?v=21sP7orRS3c)
 - [Funkadelic - Can You Get To That (HQ)](https://www.youtube.com/watch?v=8rrOdcnFbAY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Funkadelic - Maggot Brain](https://www.discogs.com/release/602546) |
+| Release Year   | 1989 |
+| Discogs Link   | [Funkadelic - Maggot Brain](https://www.discogs.com/release/602546-Funkadelic-Maggot-Brain) |
 | Label          | Westbound Records |
 | Format         | LP, Album, RE |
 | Catalog Number | SEW 002 |
+
+Reissue of the original [Westbound release](http://www.discogs.com/release/773587) from 1971.  Also available on CD (CDSEW 002)  [Rear Cover Notes] Taken from Process Number Five on Fear The Process-Church of the Final Judgement.  ® 1971 Nine Records Inc © 1971 Nine Records Inc Direct Metal Mastered from digital tapes Made in West Germany  All titles Bridgeport Music Inc. ℗ 1971 Nine Records Inc.  Runouts are stamped. 
 

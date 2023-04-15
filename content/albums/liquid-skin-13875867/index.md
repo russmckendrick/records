@@ -1,14 +1,17 @@
 ---
 title: "Gomez - Liquid Skin"
-album_artist: "Gomez"
-album_title: "Liquid Skin"
+artist: "Gomez"
+album_name: "Liquid Skin"
 date: 2019-07-15
 release_id: "13875867"
 slug: "liquid-skin-13875867"
+hideSummary: true
 cover:
     image: "liquid-skin-13875867.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Liquid Skin by Gomez"
+    caption: "Liquid Skin by Gomez"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Gomez - California](https://www.youtube.com/watch?v=6Ago5SAGV3E)
 - [Devil Will Ride](https://www.youtube.com/watch?v=5TYdDX1Fqlc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Gomez - Liquid Skin](https://www.discogs.com/release/13875867) |
+| Release Year   | 2019 |
+| Discogs Link   | [Gomez - Liquid Skin](https://www.discogs.com/release/13875867-Gomez-Liquid-Skin) |
 | Label          | UMC, Virgin EMI Records |
 | Format         | 2xLP, Album, Ltd, RE, RM, Tra |
 | Catalog Number | 00602577534225, 7753422 |
+
+20th Anniversary release including free download
 

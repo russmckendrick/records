@@ -1,14 +1,17 @@
 ---
 title: "The Georgia Satellites - Georgia Satellites"
-album_artist: "The Georgia Satellites"
-album_title: "Georgia Satellites"
+artist: "The Georgia Satellites"
+album_name: "Georgia Satellites"
 date: 2020-07-08
 release_id: "9581842"
 slug: "georgia-satellites-9581842"
+hideSummary: true
 cover:
     image: "georgia-satellites-9581842.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Georgia Satellites by The Georgia Satellites"
+    caption: "Georgia Satellites by The Georgia Satellites"
+genres: ["Rock"]
+styles: ["Southern Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [GEORGIA SATELLITES - Keep Your Hands To Yourself](https://www.youtube.com/watch?v=PdpAop7gp0w)
 - [Georgia Satellites - Battleship Chains](https://www.youtube.com/watch?v=HQr7RxYec-0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [The Georgia Satellites - Georgia Satellites](https://www.discogs.com/release/9581842) |
+| Release Year   | 1986 |
+| Discogs Link   | [The Georgia Satellites - Georgia Satellites](https://www.discogs.com/release/9581842-Georgia-Satellites-Georgia-Satellites) |
 | Label          | Elektra, Elektra |
 | Format         | LP, Album, Gra |
 | Catalog Number | 960 496-1, EKT 38 |
+
+Gray labels with different label logo.  Runouts: 'R / S Alsdorf 960496-1-A' and 'R / S Alsdorf 960496-1-B' are stamped, the rest is etched.
 

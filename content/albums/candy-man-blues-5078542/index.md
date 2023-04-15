@@ -1,14 +1,17 @@
 ---
 title: "Mississippi John Hurt - Candy Man Blues"
-album_artist: "Mississippi John Hurt"
-album_title: "Candy Man Blues"
+artist: "Mississippi John Hurt"
+album_name: "Candy Man Blues"
 date: 2020-08-01
 release_id: "5078542"
 slug: "candy-man-blues-5078542"
+hideSummary: true
 cover:
     image: "candy-man-blues-5078542.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "Candy Man Blues by Mississippi John Hurt"
+    caption: "Candy Man Blues by Mississippi John Hurt"
+genres: ["Blues"]
+styles: ["Country Blues"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="u8EraarVcKI" title="Avalon blues - The complete 1928 okeh recordings (full album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Mississippi John Hurt - Candy Man Blues](https://www.discogs.com/release/5078542) |
+| Release Year   | 2013 |
+| Discogs Link   | [Mississippi John Hurt - Candy Man Blues](https://www.discogs.com/release/5078542-Mississippi-John-Hurt-Candy-Man-Blues) |
 | Label          | Complete Blues |
 | Format         | LP, Comp, Blu |
 | Catalog Number | SBLUELP010 |
+
+A1, A3 Recorded Memphis, Tenn. 14 Feb 1928 A2, A4, A6, B1 Recorded New York City 21 Dec 1928 A5, B2 to B7 Recorded New York City 28 Dec 1928
 

@@ -1,14 +1,17 @@
 ---
 title: "Thank You Scientist - Stranger Heads Prevail"
-album_artist: "Thank You Scientist"
-album_title: "Stranger Heads Prevail"
+artist: "Thank You Scientist"
+album_name: "Stranger Heads Prevail"
 date: 2020-01-10
 release_id: "14543822"
 slug: "stranger-heads-prevail-14543822"
+hideSummary: true
 cover:
     image: "stranger-heads-prevail-14543822.jpg"
-tags: ["Jazz", "Rock"]
-hideSummary: true
+    alt: "Stranger Heads Prevail by Thank You Scientist"
+    caption: "Stranger Heads Prevail by Thank You Scientist"
+genres: ["Jazz", "Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Thank You Scientist ¨Caverns¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=DN6sJ0WYwlw)
 - [Thank You Scientist ¨Rube Goldberg Variations¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=f54m5AUEuzc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Thank You Scientist - Stranger Heads Prevail](https://www.discogs.com/release/14543822) |
+| Release Year   | 2019 |
+| Discogs Link   | [Thank You Scientist - Stranger Heads Prevail](https://www.discogs.com/release/14543822-Thank-You-Scientist-Stranger-Heads-Prevail) |
 | Label          | Evil Ink Records |
 | Format         | 2xLP, Album, Ltd, RP, Cle |
 | Catalog Number | EI209V |
+
+Gatefold cover. Limited edition of 1000 pressed on clear vinyl mixed with blue smoke. Second pressing.
 

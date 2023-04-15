@@ -1,14 +1,17 @@
 ---
 title: "The White Stripes - Icky Thump"
-album_artist: "The White Stripes"
-album_title: "Icky Thump"
+artist: "The White Stripes"
+album_name: "Icky Thump"
 date: 2018-11-23
 release_id: "12839822"
 slug: "icky-thump-12839822"
+hideSummary: true
 cover:
     image: "icky-thump-12839822.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Icky Thump by The White Stripes"
+    caption: "Icky Thump by The White Stripes"
+genres: ["Rock"]
+styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)](https://www.youtube.com/watch?v=8xsF9fHdAfo)
 - [The White Stripes - Conquest (Official Music Video)](https://www.youtube.com/watch?v=0L7FuA8Rry8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The White Stripes - Icky Thump](https://www.discogs.com/release/12839822) |
+| Release Year   | 2018 |
+| Discogs Link   | [The White Stripes - Icky Thump](https://www.discogs.com/release/12839822-The-White-Stripes-Icky-Thump) |
 | Label          | Third Man Records |
 | Format         | 2xLP, Album, RSD, RE, 180 |
 | Catalog Number | TMR-500 |
+
+Black Friday release by third man records.  Direct-to-board double pocket gatefold LP jacket. 180 gram weight vinyl with 4-page insert.  The new TMR version has a printed inner sleeve with a black and white image. Audio sourced from the original master tapes. 100% all-analog mastering by NRP with even more superior sound than previous pressings.  © & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC.
 

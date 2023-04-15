@@ -1,14 +1,17 @@
 ---
 title: "Operation Ivy - Energy"
-album_artist: "Operation Ivy"
-album_title: "Energy"
+artist: "Operation Ivy"
+album_name: "Energy"
 date: 2019-06-17
 release_id: "3546884"
 slug: "energy-3546884"
+hideSummary: true
 cover:
     image: "energy-3546884.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Energy by Operation Ivy"
+    caption: "Energy by Operation Ivy"
+genres: ["Rock"]
+styles: ["Ska", "Punk"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Bankshot (2007 Remaster)](https://www.youtube.com/watch?v=v3arEYZxrzI)
 - [Room Without a Window (2007 Remaster)](https://www.youtube.com/watch?v=8gW1ha3UsmI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Operation Ivy - Energy](https://www.discogs.com/release/3546884) |
+| Release Year   | 2010 |
+| Discogs Link   | [Operation Ivy - Energy](https://www.discogs.com/release/3546884-Operation-Ivy-Energy) |
 | Label          | Hellcat Records |
 | Format         | LP, Album, RE |
 | Catalog Number | 86893-1 |
+
+Recorded at Sound And Vision in San Francisco. Mixed at Dancing Dog in E-Ville. Mastered by John Golden at K-Disc, Hollywood.  Insert contains band info, lyrics, photos & artwork.
 

@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Waiata"
-album_artist: "Split Enz"
-album_title: "Waiata"
+artist: "Split Enz"
+album_name: "Waiata"
 date: 2016-01-29
 release_id: "2684571"
 slug: "waiata-2684571"
+hideSummary: true
 cover:
     image: "waiata-2684571.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Waiata by Split Enz"
+    caption: "Waiata by Split Enz"
+genres: ["Rock", "Pop"]
+styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Split Enz - Albert Of India [Demo] - from Corroboree / Waiata](https://www.youtube.com/watch?v=ckT36u5xEZY)
 - [Split Enz - Ghost Girl](https://www.youtube.com/watch?v=8EJKYfnxlbs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Split Enz - Waiata](https://www.discogs.com/release/2684571) |
+| Release Year   | 1981 |
+| Discogs Link   | [Split Enz - Waiata](https://www.discogs.com/release/2684571-Split-Enz-Waiata) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | AMLH 64848 |
+
+Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England.
 

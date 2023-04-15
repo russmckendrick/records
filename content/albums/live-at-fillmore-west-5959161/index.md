@@ -1,14 +1,17 @@
 ---
 title: "King Curtis - Live At Fillmore West"
-album_artist: "King Curtis"
-album_title: "Live At Fillmore West"
+artist: "King Curtis"
+album_name: "Live At Fillmore West"
 date: 2016-02-08
 release_id: "5959161"
 slug: "live-at-fillmore-west-5959161"
+hideSummary: true
 cover:
     image: "live-at-fillmore-west-5959161.jpg"
-tags: ["Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "Live At Fillmore West by King Curtis"
+    caption: "Live At Fillmore West by King Curtis"
+genres: ["Jazz", "Funk / Soul"]
+styles: ["Jazz-Funk"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Signed, Sealed, Delivered (I'm Yours) (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=4kbU4KldDAA)
 - [Soul Serenade (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=oQlq6BqIP-o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [King Curtis - Live At Fillmore West](https://www.discogs.com/release/5959161) |
+| Release Year   | 2014 |
+| Discogs Link   | [King Curtis - Live At Fillmore West](https://www.discogs.com/release/5959161-King-Curtis-Live-At-Fillmore-West) |
 | Label          | Music On Vinyl, ATCO Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | MOVLP1143 |
+
+Originally released ℗  & © 1971 ATCO records This release ℗ © 2104 Warner Music. Comes into a lined black paper with round central holes. Made in the EU.
 

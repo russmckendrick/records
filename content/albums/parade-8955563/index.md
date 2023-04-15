@@ -1,14 +1,17 @@
 ---
 title: "Prince And The Revolution - Parade"
-album_artist: "Prince And The Revolution"
-album_title: "Parade"
+artist: "Prince And The Revolution"
+album_name: "Parade"
 date: 2016-09-12
 release_id: "8955563"
 slug: "parade-8955563"
+hideSummary: true
 cover:
     image: "parade-8955563.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Parade by Prince And The Revolution"
+    caption: "Parade by Prince And The Revolution"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Do U Lie?](https://www.youtube.com/watch?v=FRaxAVVuqLs)
 - [Christopher Tracy's Parade](https://www.youtube.com/watch?v=U2QWdZ7m_3o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Prince And The Revolution - Parade](https://www.discogs.com/release/8955563) |
+| Release Year   | 2016 |
+| Discogs Link   | [Prince And The Revolution - Parade](https://www.discogs.com/release/8955563-Prince-And-The-Revolution-Parade) |
 | Label          | Paisley Park |
 | Format         | LP, Album, RE, Gat |
 | Catalog Number | 1-25395 |
+
+Hype sticker: Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"  Dust sleeve with photo collage and detailed credits.  Labels: Music from the motion picture [m=268031]   
 

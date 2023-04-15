@@ -1,14 +1,17 @@
 ---
 title: "Echobelly - On"
-album_artist: "Echobelly"
-album_title: "On"
+artist: "Echobelly"
+album_name: "On"
 date: 2019-01-19
 release_id: "13020112"
 slug: "on-13020112"
+hideSummary: true
 cover:
     image: "on-13020112.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "On by Echobelly"
+    caption: "On by Echobelly"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [echobelly - car fiction](https://www.youtube.com/watch?v=CAKsWxJLfD0)
 - [Echobelly // Dark Therapy (Official Music Video)](https://www.youtube.com/watch?v=OY1Jw4BtUXE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Echobelly - On](https://www.discogs.com/release/13020112) |
+| Release Year   | 2019 |
+| Discogs Link   | [Echobelly - On](https://www.discogs.com/release/13020112-Echobelly-On) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Ora |
 | Catalog Number | MOVLP2250 |
+
+℗ 1995 Rhythm King Records.  © 1995, 2018 Distribution Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V for Sony Music Entertainment.  Cat#: MOVLP2250 appears on back cover, front sticker and spine.   Sticker on front: Music On Vinyl Echobelly “On” Limited Edition of 750 Numbered Copies on Orange Vinyl Contains Insert  180 gram audiophile vinyl.
 

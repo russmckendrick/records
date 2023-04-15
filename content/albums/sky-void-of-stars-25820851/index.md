@@ -1,14 +1,17 @@
 ---
 title: "Katatonia - Sky Void Of Stars"
-album_artist: "Katatonia"
-album_title: "Sky Void Of Stars"
+artist: "Katatonia"
+album_name: "Sky Void Of Stars"
 date: 2023-02-06
 release_id: "25820851"
 slug: "sky-void-of-stars-25820851"
+hideSummary: true
 cover:
     image: "sky-void-of-stars-25820851.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sky Void Of Stars by Katatonia"
+    caption: "Sky Void Of Stars by Katatonia"
+genres: ["Rock"]
+styles: ["Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [KATATONIA - Austerity (Official Video) | Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
 - [KATATONIA - Opaline (Official Video) | Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Katatonia - Sky Void Of Stars](https://www.discogs.com/release/25820851) |
+| Release Year   | 2023 |
+| Discogs Link   | [Katatonia - Sky Void Of Stars](https://www.discogs.com/release/25820851-Katatonia-Sky-Void-Of-Stars) |
 | Label          | Napalm Records |
 | Format         | 2x12\", Album |
 | Catalog Number | NPR1208VINYL |
+
+
 

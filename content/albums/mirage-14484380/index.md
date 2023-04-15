@@ -1,14 +1,17 @@
 ---
 title: "Fleetwood Mac - Mirage"
-album_artist: "Fleetwood Mac"
-album_title: "Mirage"
+artist: "Fleetwood Mac"
+album_name: "Mirage"
 date: 2019-12-04
 release_id: "14484380"
 slug: "mirage-14484380"
+hideSummary: true
 cover:
     image: "mirage-14484380.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mirage by Fleetwood Mac"
+    caption: "Mirage by Fleetwood Mac"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Wish You Were Here (2016 Remaster)](https://www.youtube.com/watch?v=sU1ioGkL4pU)
 - [Empire State (2016 Remaster)](https://www.youtube.com/watch?v=pnD4RTk0ciQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Fleetwood Mac - Mirage](https://www.discogs.com/release/14484380) |
+| Release Year   | 2019 |
+| Discogs Link   | [Fleetwood Mac - Mirage](https://www.discogs.com/release/14484380-Fleetwood-Mac-Mirage) |
 | Label          | Warner Records, Warner Records |
 | Format         | LP, Album, Ltd, RE, RM, Vio |
 | Catalog Number | RCV1 23607, 60349785055 |
+
+Limited Edition Violet Coloured Vinyl. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Wishbone Ash - Argus"
-album_artist: "Wishbone Ash"
-album_title: "Argus"
+artist: "Wishbone Ash"
+album_name: "Argus"
 date: 2017-06-01
 release_id: "8668871"
 slug: "argus-8668871"
+hideSummary: true
 cover:
     image: "argus-8668871.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Argus by Wishbone Ash"
+    caption: "Argus by Wishbone Ash"
+genres: ["Rock"]
+styles: ["Hard Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Wishbone Ash - Warrior](https://www.youtube.com/watch?v=U5X_Dd_6Czk)
 - [Wishbone Ash - Leaf and Stream](https://www.youtube.com/watch?v=ZB6fCuxGvAw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Wishbone Ash - Argus](https://www.discogs.com/release/8668871) |
+| Release Year   | 1978 |
+| Discogs Link   | [Wishbone Ash - Argus](https://www.discogs.com/release/8668871-Wishbone-Ash-Argus) |
 | Label          | MCA Records, MCA Records |
 | Format         | LP, Album, RE, Gat |
 | Catalog Number | MCA 410 099, 410099 |
+
+Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919 BA-213 on rear sleeve (P) 1978 réédition Printed in France Imp Glory 92602 Asnières Made in France  cat# is given as MCA 410 009 on cover and 410009 on center labels
 

@@ -1,14 +1,17 @@
 ---
 title: "Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha"
-album_artist: "Carmen & Fernando Del Valle & Their Orchestra"
-album_title: "Cha Cha Cha"
+artist: "Carmen & Fernando Del Valle & Their Orchestra"
+album_name: "Cha Cha Cha"
 date: 2020-08-02
 release_id: "2950887"
 slug: "cha-cha-cha-2950887"
+hideSummary: true
 cover:
     image: "cha-cha-cha-2950887.jpg"
-tags: ["Jazz", "Latin"]
-hideSummary: true
+    alt: "Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra"
+    caption: "Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra"
+genres: ["Jazz", "Latin"]
+styles: ["Cha-Cha"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Carmen & Fernando del Valle - Torrid Cha Cha](https://www.youtube.com/watch?v=QYMMx2I3nHs)
 - [Carmen & Fernando del Valle - Piccadilly Cha Cha](https://www.youtube.com/watch?v=7Ttn9aOGmR0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1964 |
-| Discogs Link   | [Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887) |
+| Release Year   | 1964 |
+| Discogs Link   | [Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |
 | Label          | Allegro Records |
 | Format         | LP |
 | Catalog Number | ALL734 |
+
+Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964 
 

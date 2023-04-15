@@ -1,14 +1,17 @@
 ---
 title: "Al Green - Greatest Hits"
-album_artist: "Al Green"
-album_title: "Greatest Hits"
+artist: "Al Green"
+album_name: "Greatest Hits"
 date: 2018-08-07
 release_id: "7687375"
 slug: "greatest-hits-7687375"
+hideSummary: true
 cover:
     image: "greatest-hits-7687375.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Greatest Hits by Al Green"
+    caption: "Greatest Hits by Al Green"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
 - [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/7687375) |
+| Release Year   | 0 |
+| Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/7687375-Al-Green-Greatest-Hits) |
 | Label          | Fat Possum Records, Hi Records |
 | Format         | LP, Comp, RE |
 | Catalog Number | FPH1135-1 |
+
+Comes with a download code, redeemable via Memphis Vinyl's website.
 

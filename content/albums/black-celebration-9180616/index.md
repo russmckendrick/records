@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Black Celebration"
-album_artist: "Depeche Mode"
-album_title: "Black Celebration"
+artist: "Depeche Mode"
+album_name: "Black Celebration"
 date: 2016-12-04
 release_id: "9180616"
 slug: "black-celebration-9180616"
+hideSummary: true
 cover:
     image: "black-celebration-9180616.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Black Celebration by Depeche Mode"
+    caption: "Black Celebration by Depeche Mode"
+genres: ["Electronic"]
+styles: ["Synth-pop", "Darkwave"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Black Day](https://www.youtube.com/watch?v=_6pERrNJvrU)
 - [Christmas Island](https://www.youtube.com/watch?v=eOj88ftXG_Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Depeche Mode - Black Celebration](https://www.discogs.com/release/9180616) |
+| Release Year   | 2016 |
+| Discogs Link   | [Depeche Mode - Black Celebration](https://www.discogs.com/release/9180616-Depeche-Mode-Black-Celebration) |
 | Label          | Legacy, Sony Music |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | STUMM26, 88985336741 |
+
+180 Gram Superior Audio Quality  ℗ 1986 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.  © 1986, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Made in the EU. Sony Music Entertainment International Services GmbH.  Very similar release: [Black Celebration](https://www.discogs.com/release/13132856) Differences: Legacy Logo right of Sony on label + Legacy Sticker on cover (this), Mute Logo left of STUMM26 on label (other)
 

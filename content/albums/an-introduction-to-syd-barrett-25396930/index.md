@@ -1,14 +1,17 @@
 ---
 title: "Syd Barrett - An Introduction To Syd Barrett"
-album_artist: "Syd Barrett"
-album_title: "An Introduction To Syd Barrett"
+artist: "Syd Barrett"
+album_name: "An Introduction To Syd Barrett"
 date: 2023-01-15
 release_id: "25396930"
 slug: "an-introduction-to-syd-barrett-25396930"
+hideSummary: true
 cover:
     image: "an-introduction-to-syd-barrett-25396930.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "An Introduction To Syd Barrett by Syd Barrett"
+    caption: "An Introduction To Syd Barrett by Syd Barrett"
+genres: ["Rock"]
+styles: ["Acoustic", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Apples and Oranges(Stereo version)](https://www.youtube.com/watch?v=8YAdhzx8gjQ)
 - [Pink Floyd - Arnold Layne (Official Music Video)](https://www.youtube.com/watch?v=H3DGpINHX5Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Syd Barrett - An Introduction To Syd Barrett](https://www.discogs.com/release/25396930) |
+| Release Year   | 2022 |
+| Discogs Link   | [Syd Barrett - An Introduction To Syd Barrett](https://www.discogs.com/release/25396930-Syd-Barrett-An-Introduction-To-Syd-Barrett) |
 | Label          | Syd Barrett Music Ltd., Parlophone |
 | Format         | 2xLP, Comp, RP |
 | Catalog Number | SBM001LP, 0190295037383a |
+
+Gatefold cover. Hype sticker on shrinkwrap. Colour inners with printed lyrics.
 

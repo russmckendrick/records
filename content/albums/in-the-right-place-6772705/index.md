@@ -1,14 +1,17 @@
 ---
 title: "Dr. John - In The Right Place"
-album_artist: "Dr. John"
-album_title: "In The Right Place"
+artist: "Dr. John"
+album_name: "In The Right Place"
 date: 2015-10-05
 release_id: "6772705"
 slug: "in-the-right-place-6772705"
+hideSummary: true
 cover:
     image: "in-the-right-place-6772705.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "In The Right Place by Dr. John"
+    caption: "In The Right Place by Dr. John"
+genres: ["Funk / Soul"]
+styles: ["Bayou Funk", "Soul", "Funk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [I Been Hoodood](https://www.youtube.com/watch?v=8abnes8TpW8)
 - [Cold Cold Cold (Single)](https://www.youtube.com/watch?v=lO8RbsTX8Sg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Dr. John - In The Right Place](https://www.discogs.com/release/6772705) |
+| Release Year   | 2015 |
+| Discogs Link   | [Dr. John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |
 | Label          | ATCO Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0349791111 |
+
+Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine, like the original 1973 cover.
 

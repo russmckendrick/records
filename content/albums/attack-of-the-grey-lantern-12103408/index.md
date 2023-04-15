@@ -1,14 +1,17 @@
 ---
 title: "Mansun - Attack Of The Grey Lantern"
-album_artist: "Mansun"
-album_title: "Attack Of The Grey Lantern"
+artist: "Mansun"
+album_name: "Attack Of The Grey Lantern"
 date: 2018-06-08
 release_id: "12103408"
 slug: "attack-of-the-grey-lantern-12103408"
+hideSummary: true
 cover:
     image: "attack-of-the-grey-lantern-12103408.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Attack Of The Grey Lantern by Mansun"
+    caption: "Attack Of The Grey Lantern by Mansun"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
 - [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408) |
+| Release Year   | 2018 |
+| Discogs Link   | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408-Mansun-Attack-Of-The-Grey-Lantern) |
 | Label          | Kscope |
 | Format         | 2xLP, Ltd, RE, RM, Pur |
 | Catalog Number | KSCOPE992 |
+
+Gatefold sleeve.   Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops.
 

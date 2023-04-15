@@ -1,14 +1,17 @@
 ---
 title: "Nirvana - Nevermind"
-album_artist: "Nirvana"
-album_title: "Nevermind"
+artist: "Nirvana"
+album_name: "Nevermind"
 date: 2016-09-08
 release_id: "1860470"
 slug: "nevermind-1860470"
+hideSummary: true
 cover:
     image: "nevermind-1860470.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nevermind by Nirvana"
+    caption: "Nevermind by Nirvana"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)
 - [Nirvana - Aneurysm](https://www.youtube.com/watch?v=y7TPnH5emFg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [Nirvana - Nevermind](https://www.discogs.com/release/1860470) |
+| Release Year   | 2008 |
+| Discogs Link   | [Nirvana - Nevermind](https://www.discogs.com/release/1860470-Nirvana-Nevermind) |
 | Label          | DGC |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0720642442517 |
+
+Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU.
 

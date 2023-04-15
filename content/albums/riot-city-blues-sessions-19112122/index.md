@@ -1,14 +1,17 @@
 ---
 title: "Primal Scream - Riot City Blues Sessions"
-album_artist: "Primal Scream"
-album_title: "Riot City Blues Sessions"
+artist: "Primal Scream"
+album_name: "Riot City Blues Sessions"
 date: 2021-06-18
 release_id: "19112122"
 slug: "riot-city-blues-sessions-19112122"
+hideSummary: true
 cover:
     image: "riot-city-blues-sessions-19112122.jpg"
-tags: ["Rock", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Riot City Blues Sessions by Primal Scream"
+    caption: "Riot City Blues Sessions by Primal Scream"
+genres: ["Rock", "Blues", "Folk, World, & Country"]
+styles: ["Indie Rock", "Blues Rock", "Garage Rock", "Country Rock", "Country Blues"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="GATJDE_uZmA" title="Primal Scream - Country Girl (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Primal Scream - Riot City Blues Sessions](https://www.discogs.com/release/19112122) |
+| Release Year   | 2021 |
+| Discogs Link   | [Primal Scream - Riot City Blues Sessions](https://www.discogs.com/release/19112122-Primal-Scream-Riot-City-Blues-Sessions) |
 | Label          | Columbia |
 | Format         | LP, Red + LP, Gre + Album, RSD, Ltd |
 | Catalog Number | 19439873831 |
+
+RSD June 2021 release.  Gatefold sleeve with two inner sleeves with images, credits, lyrics, and new sleevenotes by Bobby Gillespie.  Includes code for digital download, in 320kbps MP3 format. On the downloaded files, the last note of 'Zeppelin Blues While Thinking Of Robert Parker' is mistakenly indexed as the first note of the following track, 'The 99th Floor'.  Matrix/Runout note: All sides - number/letter strings stamped, text strings etched.
 

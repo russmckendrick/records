@@ -1,14 +1,17 @@
 ---
 title: "The Lemonheads - Varshons II"
-album_artist: "The Lemonheads"
-album_title: "Varshons II"
+artist: "The Lemonheads"
+album_name: "Varshons II"
 date: 2019-02-08
 release_id: "13179207"
 slug: "varshons-ii-13179207"
+hideSummary: true
 cover:
     image: "varshons-ii-13179207.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Varshons II by The Lemonheads"
+    caption: "Varshons II by The Lemonheads"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Old Man Blank](https://www.youtube.com/watch?v=h8EFKNJg0zo)
 - [Unfamiliar](https://www.youtube.com/watch?v=6-KM4GPXCOM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Lemonheads - Varshons II](https://www.discogs.com/release/13179207) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Lemonheads - Varshons II](https://www.discogs.com/release/13179207-The-Lemonheads-Varshons-II) |
 | Label          | Fire Records |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | FIRELP532 |
+
+Indie Store Only Green Vinyl Comes with Banana Scented Scratch & Sniff Sleeve
 

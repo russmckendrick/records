@@ -1,14 +1,17 @@
 ---
 title: "Various - Motown Funk"
-album_artist: "Various"
-album_title: "Motown Funk"
+artist: "Various"
+album_name: "Motown Funk"
 date: 2017-04-23
 release_id: "10167720"
 slug: "motown-funk-10167720"
+hideSummary: true
 cover:
     image: "motown-funk-10167720.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Motown Funk by Various"
+    caption: "Motown Funk by Various"
+genres: ["Funk / Soul"]
+styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
 - [The Temptations - Psychedelic Shack (Extended Version)](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Motown Funk](https://www.discogs.com/release/10167720) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Motown Funk](https://www.discogs.com/release/10167720-Various-Motown-Funk) |
 | Label          | Tamla Motown, UMC, Tamla Motown, UMC |
 | Format         | 2xLP, Comp, Red |
 | Catalog Number | 537 552-0, 00600753755204 |
+
+Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company.
 

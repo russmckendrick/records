@@ -1,14 +1,17 @@
 ---
 title: "Moby & The Void Pacific Choir - These Systems Are Failing"
-album_artist: "Moby & The Void Pacific Choir"
-album_title: "These Systems Are Failing"
+artist: "Moby & The Void Pacific Choir"
+album_name: "These Systems Are Failing"
 date: 2017-02-10
 release_id: "9341373"
 slug: "these-systems-are-failing-9341373"
+hideSummary: true
 cover:
     image: "these-systems-are-failing-9341373.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "These Systems Are Failing by Moby & The Void Pacific Choir"
+    caption: "These Systems Are Failing by Moby & The Void Pacific Choir"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Post-Punk", "Punk"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Moby & The Void Pacific Choir - Break. Doubt (Performance Video)](https://www.youtube.com/watch?v=ebNnzqjaBew)
 - [Moby & The Void Pacific Choir - A Simple Love](https://www.youtube.com/watch?v=2guWg9C-YGE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Moby & The Void Pacific Choir - These Systems Are Failing](https://www.discogs.com/release/9341373) |
+| Release Year   | 2016 |
+| Discogs Link   | [Moby & The Void Pacific Choir - These Systems Are Failing](https://www.discogs.com/release/9341373-Moby-The-Void-Pacific-Choir-These-Systems-Are-Failing) |
 | Label          | Little Idiot |
 | Format         | LP, Album |
 | Catalog Number | IDIOT049LP |
+
+Printed inner sleeve and lenticular cover.  Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".  ℗ 2016 little idiot © 2016 little idiot 
 

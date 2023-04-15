@@ -1,14 +1,17 @@
 ---
 title: "Terrorvision - How To Make Friends And Influence People"
-album_artist: "Terrorvision"
-album_title: "How To Make Friends And Influence People"
+artist: "Terrorvision"
+album_name: "How To Make Friends And Influence People"
 date: 2019-05-31
 release_id: "996005"
 slug: "how-to-make-friends-and-influence-people-996005"
+hideSummary: true
 cover:
     image: "how-to-make-friends-and-influence-people-996005.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "How To Make Friends And Influence People by Terrorvision"
+    caption: "How To Make Friends And Influence People by Terrorvision"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Pretend Best Friend](https://www.youtube.com/watch?v=oZ4LW_BkO_M)
 - [What Makes You Tick](https://www.youtube.com/watch?v=Ooxedc1BiPM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Terrorvision - How To Make Friends And Influence People](https://www.discogs.com/release/996005) |
+| Release Year   | 1994 |
+| Discogs Link   | [Terrorvision - How To Make Friends And Influence People](https://www.discogs.com/release/996005-Terrorvision-How-To-Make-Friends-And-Influence-People) |
 | Label          | EMI, Total Vegas Recordings |
 | Format         | LP, Album |
 | Catalog Number | 7243 8 29406 1 6, VEGAS LPX 2 |
+
+Comes with lyric printed inner sleeve.
 

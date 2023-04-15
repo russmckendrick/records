@@ -1,14 +1,17 @@
 ---
 title: "Neil Finn - Out Of Silence"
-album_artist: "Neil Finn"
-album_title: "Out Of Silence"
+artist: "Neil Finn"
+album_name: "Out Of Silence"
 date: 2017-11-10
 release_id: "11093773"
 slug: "out-of-silence-11093773"
+hideSummary: true
 cover:
     image: "out-of-silence-11093773.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Out Of Silence by Neil Finn"
+    caption: "Out Of Silence by Neil Finn"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Infinity Sessions: Week Three](https://www.youtube.com/watch?v=aw7M6X0zgaw)
 - [The Infinity Sessions: Week Four](https://www.youtube.com/watch?v=LDSDBG68zHI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Neil Finn - Out Of Silence](https://www.discogs.com/release/11093773) |
+| Release Year   | 2017 |
+| Discogs Link   | [Neil Finn - Out Of Silence](https://www.discogs.com/release/11093773-Neil-Finn-Out-Of-Silence) |
 | Label          | Lester Records, EMI, Universal Music Group |
 | Format         | LP, Album |
 | Catalog Number | LRNF0016LP |
+
+℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd  All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control  Printed on side A/B labels: Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.  Initial online pre-orders included a 7” x 5” photo signed by Neil Finn.
 

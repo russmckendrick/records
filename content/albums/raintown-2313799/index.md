@@ -1,14 +1,17 @@
 ---
 title: "Deacon Blue - Raintown"
-album_artist: "Deacon Blue"
-album_title: "Raintown"
+artist: "Deacon Blue"
+album_name: "Raintown"
 date: 2015-09-22
 release_id: "2313799"
 slug: "raintown-2313799"
+hideSummary: true
 cover:
     image: "raintown-2313799.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Raintown by Deacon Blue"
+    caption: "Raintown by Deacon Blue"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Riches](https://www.youtube.com/watch?v=zJ48Sppm9Co)
 - [Kings Of The Western World](https://www.youtube.com/watch?v=1lZbCUtUdAo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Deacon Blue - Raintown](https://www.discogs.com/release/2313799) |
+| Release Year   | 1987 |
+| Discogs Link   | [Deacon Blue - Raintown](https://www.discogs.com/release/2313799-Deacon-Blue-Raintown) |
 | Label          | CBS |
 | Format         | LP, Album |
 | Catalog Number | CBS 450549 1 |
+
+℗ © 1987 CBS Records
 

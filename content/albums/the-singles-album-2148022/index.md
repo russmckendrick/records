@@ -1,14 +1,17 @@
 ---
 title: "Jimi Hendrix - The Singles Album"
-album_artist: "Jimi Hendrix"
-album_title: "The Singles Album"
+artist: "Jimi Hendrix"
+album_name: "The Singles Album"
 date: 2016-04-08
 release_id: "2148022"
 slug: "the-singles-album-2148022"
+hideSummary: true
 cover:
     image: "the-singles-album-2148022.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Singles Album by Jimi Hendrix"
+    caption: "The Singles Album by Jimi Hendrix"
+genres: ["Rock"]
+styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [Third Stone From The Sun](https://www.youtube.com/watch?v=yNBRnkAbhys)
 - [Jimi Hendrix -  Gloria 1968 (audio)](https://www.youtube.com/watch?v=E1D-E-K_DDY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Jimi Hendrix - The Singles Album](https://www.discogs.com/release/2148022) |
+| Release Year   | 1983 |
+| Discogs Link   | [Jimi Hendrix - The Singles Album](https://www.discogs.com/release/2148022-Jimi-Hendrix-The-Singles-Album) |
 | Label          | Polydor, Polydor |
 | Format         | 2xLP, Comp |
 | Catalog Number | PODV 6, 2625 047 |
+
+Issued in gatefold sleeve. 
 

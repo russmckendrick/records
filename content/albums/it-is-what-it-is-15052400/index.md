@@ -1,14 +1,17 @@
 ---
 title: "Thundercat - It Is What It Is"
-album_artist: "Thundercat"
-album_title: "It Is What It Is"
+artist: "Thundercat"
+album_name: "It Is What It Is"
 date: 2020-04-09
 release_id: "15052400"
 slug: "it-is-what-it-is-15052400"
+hideSummary: true
 cover:
     image: "it-is-what-it-is-15052400.jpg"
-tags: ["Electronic", "Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "It Is What It Is by Thundercat"
+    caption: "It Is What It Is by Thundercat"
+genres: ["Electronic", "Jazz", "Funk / Soul"]
+styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
 - [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400) |
+| Release Year   | 2020 |
+| Discogs Link   | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400-Thundercat-It-Is-What-It-Is) |
 | Label          | Brainfeeder, Brainfeeder |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | BF100RT, BF100 |
+
+Limited edition (Rough Trade exclusive), 1,000 copies.  140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.  Sleeve does not have gold foil detail (only on deluxe editions).  Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers. 
 

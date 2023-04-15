@@ -1,14 +1,17 @@
 ---
 title: "Janis Ian - Aftertones"
-album_artist: "Janis Ian"
-album_title: "Aftertones"
+artist: "Janis Ian"
+album_name: "Aftertones"
 date: 2019-01-19
 release_id: "2037717"
 slug: "aftertones-2037717"
+hideSummary: true
 cover:
     image: "aftertones-2037717.jpg"
-tags: ["Rock", "Blues", "Pop"]
-hideSummary: true
+    alt: "Aftertones by Janis Ian"
+    caption: "Aftertones by Janis Ian"
+genres: ["Rock", "Blues", "Pop"]
+styles: ["Ballad"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
 - [I Would Like to Dance](https://www.youtube.com/watch?v=OUN1Yon-Q50)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Janis Ian - Aftertones](https://www.discogs.com/release/2037717) |
+| Release Year   | 1975 |
+| Discogs Link   | [Janis Ian - Aftertones](https://www.discogs.com/release/2037717-Janis-Ian-Aftertones) |
 | Label          | Columbia |
 | Format         | LP, Album, Ter |
 | Catalog Number | PC 33919 |
+
+"T" in runouts denotes a [l403953] pressing.
 

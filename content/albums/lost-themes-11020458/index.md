@@ -1,14 +1,17 @@
 ---
 title: "John Carpenter - Lost Themes"
-album_artist: "John Carpenter"
-album_title: "Lost Themes"
+artist: "John Carpenter"
+album_name: "Lost Themes"
 date: 2018-02-08
 release_id: "11020458"
 slug: "lost-themes-11020458"
+hideSummary: true
 cover:
     image: "lost-themes-11020458.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Lost Themes by John Carpenter"
+    caption: "Lost Themes by John Carpenter"
+genres: ["Electronic"]
+styles: ["Soundtrack", "Ambient"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="EDqLQ7PgvY8" title="John Carpenter's -  Lost Themes (Full Vinyl Rip)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [John Carpenter - Lost Themes](https://www.discogs.com/release/11020458) |
+| Release Year   | 2017 |
+| Discogs Link   | [John Carpenter - Lost Themes](https://www.discogs.com/release/11020458-John-Carpenter-Lost-Themes) |
 | Label          | Sacred Bones Records |
 | Format         | LP, Album, Ltd, RE, Gre |
 | Catalog Number | SBR123 |
+
+© 2014 Sacred Bones Records ℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music  "Obsidian Green" vinyl pressing  Limited to 500 copies worldwide  Comes in a gatefold sleeve with liner notes insert and download code.  NO catalog number on the cover
 

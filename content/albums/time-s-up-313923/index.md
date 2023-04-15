@@ -1,14 +1,17 @@
 ---
 title: "Living Colour - Time's Up"
-album_artist: "Living Colour"
-album_title: "Time's Up"
+artist: "Living Colour"
+album_name: "Time's Up"
 date: 2015-10-05
 release_id: "313923"
 slug: "time-s-up-313923"
+hideSummary: true
 cover:
     image: "time-s-up-313923.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Time's Up by Living Colour"
+    caption: "Time's Up by Living Colour"
+genres: ["Rock"]
+styles: ["Funk Metal"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Under Cover of Darkness](https://www.youtube.com/watch?v=fueAMsAUUbk)
 - [Tag Team Partners](https://www.youtube.com/watch?v=o3DlvVupc_U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Living Colour - Time's Up](https://www.discogs.com/release/313923) |
+| Release Year   | 1990 |
+| Discogs Link   | [Living Colour - Time's Up](https://www.discogs.com/release/313923-Living-Colour-Times-Up) |
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | 466920 1 |
+
+
 

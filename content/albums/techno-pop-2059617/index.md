@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - Techno Pop"
-album_artist: "Kraftwerk"
-album_title: "Techno Pop"
+artist: "Kraftwerk"
+album_name: "Techno Pop"
 date: 2017-04-23
 release_id: "2059617"
 slug: "techno-pop-2059617"
+hideSummary: true
 cover:
     image: "techno-pop-2059617.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Techno Pop by Kraftwerk"
+    caption: "Techno Pop by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="6U6mNAXtCOk" title="Kraftwerk - Electric Café 1986" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Kraftwerk - Techno Pop](https://www.discogs.com/release/2059617) |
+| Release Year   | 2009 |
+| Discogs Link   | [Kraftwerk - Techno Pop](https://www.discogs.com/release/2059617-Kraftwerk-Techno-Pop) |
 | Label          | Kling Klang, Mute |
 | Format         | LP, Album, RE, RM, Eng |
 | Catalog Number | 50999 9 66050 1 1, STUMM 308 |
+
+Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".  Released with 16 page 12"x12" booklet and illustrated inner sleeve.  Sleeve: Printed in Germany Labels: Made in the EU
 

@@ -1,14 +1,17 @@
 ---
 title: "Justin Townes Earle - Harlem River Blues"
-album_artist: "Justin Townes Earle"
-album_title: "Harlem River Blues"
+artist: "Justin Townes Earle"
+album_name: "Harlem River Blues"
 date: 2015-12-30
 release_id: "2682819"
 slug: "harlem-river-blues-2682819"
+hideSummary: true
 cover:
     image: "harlem-river-blues-2682819.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Harlem River Blues by Justin Townes Earle"
+    caption: "Harlem River Blues by Justin Townes Earle"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Country", "Folk"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Justin Townes Earle - Ain't Waitin' (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
 - [Justin Townes Earle - Wanderin' - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Justin Townes Earle - Harlem River Blues](https://www.discogs.com/release/2682819) |
+| Release Year   | 2010 |
+| Discogs Link   | [Justin Townes Earle - Harlem River Blues](https://www.discogs.com/release/2682819-Justin-Townes-Earle-Harlem-River-Blues) |
 | Label          | Bloodshot Records |
 | Format         | LP, Album |
 | Catalog Number | BS 178 LP |
+
+© ℗ 2010 Bloodshot Ltd. All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except "Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug  [a929782] appears courtesy of [l166451] [a732399] appears courtesy of [l126609]   
 

@@ -1,14 +1,17 @@
 ---
 title: "The Rolling Stones - Hot Rocks 1964-1971"
-album_artist: "The Rolling Stones"
-album_title: "Hot Rocks 1964-1971"
+artist: "The Rolling Stones"
+album_name: "Hot Rocks 1964-1971"
 date: 2016-10-01
 release_id: "879358"
 slug: "hot-rocks-1964-1971-879358"
+hideSummary: true
 cover:
     image: "hot-rocks-1964-1971-879358.jpg"
-tags: ["Rock", "Blues", "Pop"]
-hideSummary: true
+    alt: "Hot Rocks 1964-1971 by The Rolling Stones"
+    caption: "Hot Rocks 1964-1971 by The Rolling Stones"
+genres: ["Rock", "Blues", "Pop"]
+styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -34,16 +37,17 @@ hideSummary: true
 20. Brown Sugar
 21. Wild Horses
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2003 |
-| Discogs Link   | [The Rolling Stones - Hot Rocks 1964-1971](https://www.discogs.com/release/879358) |
+| Release Year   | 2003 |
+| Discogs Link   | [The Rolling Stones - Hot Rocks 1964-1971](https://www.discogs.com/release/879358-The-Rolling-Stones-Hot-Rocks-1964-1971) |
 | Label          | ABKCO |
 | Format         | 2xLP, Comp, RE, RM |
 | Catalog Number | 882 334-1 |
+
+Made in EU. Printed in EU. Originally released in 1972. Digitally remastered from original master recordings. Comes in gatefold sleeve.
 

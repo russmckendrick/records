@@ -1,14 +1,17 @@
 ---
 title: "Kamasi Washington - Heaven And Earth"
-album_artist: "Kamasi Washington"
-album_title: "Heaven And Earth"
+artist: "Kamasi Washington"
+album_name: "Heaven And Earth"
 date: 2018-06-23
 release_id: "12138973"
 slug: "heaven-and-earth-12138973"
+hideSummary: true
 cover:
     image: "heaven-and-earth-12138973.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Heaven And Earth by Kamasi Washington"
+    caption: "Heaven And Earth by Kamasi Washington"
+genres: ["Jazz"]
+styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 ---
 
 ## Tracklisting
@@ -63,13 +66,16 @@ hideSummary: true
 - [My Family](https://www.youtube.com/watch?v=nEo9KrnRG0M)
 - [Ooh Child](https://www.youtube.com/watch?v=X33VVqENupc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kamasi Washington - Heaven And Earth](https://www.discogs.com/release/12138973) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kamasi Washington - Heaven And Earth](https://www.discogs.com/release/12138973-Kamasi-Washington-Heaven-And-Earth) |
 | Label          | Young Turks |
 | Format         | 5xLP, Album |
 | Catalog Number | YT176LP |
+
+The tracks of each part ('Earth, Heaven' and 'The Choice') are numbered sequentially on both inner sleeves and labels. The runouts are etched, apart from "MASTERDISK", which is stamped; and the plating marks such as "1=", "1+", "1⊥", are mirrored.  'The Choice' disc is hidden in the middle of the packaging, under a corrugated seam. The seam must be cut open to access the hidden disc.  On labels: YT176LP: ℗2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. ©2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. All rights reserved. Made in EU  Recording Studios: Electro-Vox Recording; Henson Recording Studio; Stagg Street Studio  Track A1: © 2018 Molique Music (BMI) Tracks A2, B4 to G5, H7 to I1, J3, J4: © 2018 Kamasi Music (ASCAP) Track B3: © 2018 Hubtones Music Co (BMI) Tracks D7, G5: Lyrics by Patrice Quinn (ASCAP) Track G6: © 2018 Ryan Porter Progressive Music Publishing Company (ASCAP) Track I2: © 2018 Screen Gems - EMI Music Inc. (BMI) Track J4: © 2018 Drum Hedz 713 Music (SESAC) Track J5: © 2018 Kama Sutra Music Inc. / Stan Vincent Music (BMI)  All rights on behalf of Kamasi Music administered by Words & Music, a division of Big Deal Music Group; on behalf of Molique Music administered by BMG Platinum Songs US; on behalf of Kama Sutra Music Inc., Stan Vincent Music administered by EMI Unart Catalog Inc.  ℗ 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings © 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings
 

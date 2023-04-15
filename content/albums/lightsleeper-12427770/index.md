@@ -1,14 +1,17 @@
 ---
 title: "Neil & Liam Finn - Lightsleeper"
-album_artist: "Neil & Liam Finn"
-album_title: "Lightsleeper"
+artist: "Neil & Liam Finn"
+album_name: "Lightsleeper"
 date: 2018-08-25
 release_id: "12427770"
 slug: "lightsleeper-12427770"
+hideSummary: true
 cover:
     image: "lightsleeper-12427770.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lightsleeper by Neil & Liam Finn"
+    caption: "Lightsleeper by Neil & Liam Finn"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Neil & Liam Finn -  Hold Her Close](https://www.youtube.com/watch?v=Qq-MAHDilxk)
 - [Neil & Liam Finn - Lightsleeper](https://www.youtube.com/watch?v=IQRnK9JZLuE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Neil & Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770) |
+| Release Year   | 2018 |
+| Discogs Link   | [Neil & Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |
 | Label          | Lester Records, Inertia, [PIAS] |
 | Format         | LP, Album |
 | Catalog Number | LRNFLF0017LP |
+
+Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]
 

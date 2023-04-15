@@ -1,14 +1,17 @@
 ---
 title: "U2 - Songs Of Surrender"
-album_artist: "U2"
-album_title: "Songs Of Surrender"
+artist: "U2"
+album_name: "Songs Of Surrender"
 date: 2023-03-18
 release_id: "26446712"
 slug: "songs-of-surrender-26446712"
+hideSummary: true
 cover:
     image: "songs-of-surrender-26446712.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Songs Of Surrender by U2"
+    caption: "Songs Of Surrender by U2"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [With Or Without You (Songs Of Surrender)](https://www.youtube.com/watch?v=B6dvvpKZYh8)
 - [All I Want Is You (Songs Of Surrender)](https://www.youtube.com/watch?v=7XJjMxLTrHw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712) |
+| Release Year   | 2023 |
+| Discogs Link   | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712-U2-Songs-Of-Surrender) |
 | Label          | Island Records |
 | Format         | 2xLP, Ltd, Ora |
 | Catalog Number | 5503448 |
+
+16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany".
 

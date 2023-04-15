@@ -1,14 +1,17 @@
 ---
 title: "Fishbone - Truth And Soul"
-album_artist: "Fishbone"
-album_title: "Truth And Soul"
+artist: "Fishbone"
+album_name: "Truth And Soul"
 date: 2023-04-03
 release_id: "26513438"
 slug: "truth-and-soul-26513438"
+hideSummary: true
 cover:
     image: "truth-and-soul-26513438.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Truth And Soul by Fishbone"
+    caption: "Truth And Soul by Fishbone"
+genres: ["Rock"]
+styles: ["Ska", "Punk"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Fishbone - Freddie's Dead (Video)](https://www.youtube.com/watch?v=zFrz7sBWbyw)
 - [Bonin in the boneyard by Fishbone](https://www.youtube.com/watch?v=78ZVbw74OhU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Fishbone - Truth And Soul](https://www.discogs.com/release/26513438) |
+| Release Year   | 2023 |
+| Discogs Link   | [Fishbone - Truth And Soul](https://www.discogs.com/release/26513438-Fishbone-Truth-And-Soul) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Num, RE, Red |
 | Catalog Number | MOVLP606 |
+
+1000 copies pressed on 180 gram vinyl.
 

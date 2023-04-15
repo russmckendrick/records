@@ -1,14 +1,17 @@
 ---
 title: "David Gray - White Ladder"
-album_artist: "David Gray"
-album_title: "White Ladder"
+artist: "David Gray"
+album_name: "White Ladder"
 date: 2020-02-15
 release_id: "14791554"
 slug: "white-ladder-14791554"
+hideSummary: true
 cover:
     image: "white-ladder-14791554.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "White Ladder by David Gray"
+    caption: "White Ladder by David Gray"
+genres: ["Rock"]
+styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)
 - [David Gray - Say Hello Wave Goodbye 2/24/12 Las Vegas, NV](https://www.youtube.com/watch?v=BXbeT2ta77Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [David Gray - White Ladder](https://www.discogs.com/release/14791554) |
+| Release Year   | 2020 |
+| Discogs Link   | [David Gray - White Ladder](https://www.discogs.com/release/14791554-David-Gray-White-Ladder) |
 | Label          | IHT Records |
 | Format         | 2xLP, Album, RE, RM, Whi |
 | Catalog Number | IHTLP1910 |
+
+To celebrate the 20th Anniversary of White Ladder. Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411]. All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.  Track C8 engineered and recorded at Air Studios.  ℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.  Tracks appear sequentially on release.
 

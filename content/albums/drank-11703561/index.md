@@ -1,14 +1,17 @@
 ---
 title: "Thundercat + OG Ron \"C\" & The Chopstars - Drank"
-album_artist: "Thundercat + OG Ron \"C\" & The Chopstars"
-album_title: "Drank"
+artist: "Thundercat + OG Ron \"C\" & The Chopstars"
+album_name: "Drank"
 date: 2018-03-16
 release_id: "11703561"
 slug: "drank-11703561"
+hideSummary: true
 cover:
     image: "drank-11703561.jpg"
-tags: ["Hip Hop", "Jazz"]
-hideSummary: true
+    alt: "Drank by Thundercat + OG Ron \"C\" & The Chopstars"
+    caption: "Drank by Thundercat + OG Ron \"C\" & The Chopstars"
+genres: ["Hip Hop", "Jazz"]
+styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Thundercat - Jethro (Screwed & Chopped by DJ Slopped Up)](https://www.youtube.com/watch?v=KXznSsiNMoM)
 - [Thundercat - Show You The Way (Chopped And Screwed) DeathScrewed](https://www.youtube.com/watch?v=WxE2kUx588E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Thundercat + OG Ron \"C\" & The Chopstars - Drank](https://www.discogs.com/release/11703561) |
+| Release Year   | 2018 |
+| Discogs Link   | [Thundercat + OG Ron \"C\" & The Chopstars - Drank](https://www.discogs.com/release/11703561-Thundercat-OG-Ron-C-The-Chopstars-Drank) |
 | Label          | Brainfeeder |
 | Format         | 2xLP, Mixtape, Pur |
 | Catalog Number | BF067 |
+
+Chopped Not Slopped by DJ Candlestick & OG Ron C for The Chopstars  Download code sticker affixed to inner sleeve of record 1.
 

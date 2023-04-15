@@ -1,14 +1,17 @@
 ---
 title: "The Power Station - The Power Station"
-album_artist: "The Power Station"
-album_title: "The Power Station"
+artist: "The Power Station"
+album_name: "The Power Station"
 date: 2018-11-01
 release_id: "5372278"
 slug: "the-power-station-5372278"
+hideSummary: true
 cover:
     image: "the-power-station-5372278.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Power Station by The Power Station"
+    caption: "The Power Station by The Power Station"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
 - [The Power Station - Get It On (Bang A Gong)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [The Power Station - The Power Station](https://www.discogs.com/release/5372278) |
+| Release Year   | 0 |
+| Discogs Link   | [The Power Station - The Power Station](https://www.discogs.com/release/5372278-The-Power-Station-The-Power-Station) |
 | Label          | Fame |
 | Format         | LP, Album, RE |
 | Catalog Number | FA 3206 |
+
+Budget re-issue.
 

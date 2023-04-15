@@ -1,14 +1,17 @@
 ---
 title: "Tangerine Dream - Quantum Gate"
-album_artist: "Tangerine Dream"
-album_title: "Quantum Gate"
+artist: "Tangerine Dream"
+album_name: "Quantum Gate"
 date: 2017-10-28
 release_id: "10932564"
 slug: "quantum-gate-10932564"
+hideSummary: true
 cover:
     image: "quantum-gate-10932564.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Quantum Gate by Tangerine Dream"
+    caption: "Quantum Gate by Tangerine Dream"
+genres: ["Electronic"]
+styles: ["Ambient", "Berlin-School"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Tangerine Dream - Quantum Key](https://www.youtube.com/watch?v=L4zPGoE_guw)
 - [Tangerine Dream - It is Time to Leave When Everyone is Dancing (from Quantum Gate)](https://www.youtube.com/watch?v=xW7CRMXo7kA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tangerine Dream - Quantum Gate](https://www.discogs.com/release/10932564) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tangerine Dream - Quantum Gate](https://www.discogs.com/release/10932564-Tangerine-Dream-Quantum-Gate) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | KSCOPE967 |
+
+Double LP edition on 180g heavyweight vinyl in gatefold packaging.
 

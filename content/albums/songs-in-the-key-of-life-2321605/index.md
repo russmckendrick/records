@@ -1,14 +1,17 @@
 ---
 title: "Stevie Wonder - Songs In The Key Of Life"
-album_artist: "Stevie Wonder"
-album_title: "Songs In The Key Of Life"
+artist: "Stevie Wonder"
+album_name: "Songs In The Key Of Life"
 date: 2017-03-26
 release_id: "2321605"
 slug: "songs-in-the-key-of-life-2321605"
+hideSummary: true
 cover:
     image: "songs-in-the-key-of-life-2321605.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Songs In The Key Of Life by Stevie Wonder"
+    caption: "Songs In The Key Of Life by Stevie Wonder"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Disco"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 {{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}
 - [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Stevie Wonder - Songs In The Key Of Life](https://www.discogs.com/release/2321605) |
+| Release Year   | 2009 |
+| Discogs Link   | [Stevie Wonder - Songs In The Key Of Life](https://www.discogs.com/release/2321605-Stevie-Wonder-Songs-In-The-Key-Of-Life) |
 | Label          | Motown |
 | Format         | 2xLP, Album, RE, RM, 180 + 7\" |
 | Catalog Number | 0600753164228 |
+
+Includes 24-page lyric booklet. Unlike many earlier issues this version in not auto-coupled.
 

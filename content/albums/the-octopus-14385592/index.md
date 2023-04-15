@@ -1,14 +1,17 @@
 ---
 title: "Amplifier (3) - The Octopus"
-album_artist: "Amplifier (3)"
-album_title: "The Octopus"
+artist: "Amplifier (3)"
+album_name: "The Octopus"
 date: 2021-03-13
 release_id: "14385592"
 slug: "the-octopus-14385592"
+hideSummary: true
 cover:
     image: "the-octopus-14385592.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Octopus by Amplifier (3)"
+    caption: "The Octopus by Amplifier (3)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Interstellar Video Official](https://www.youtube.com/watch?v=D6-OHRup75c)
 - [Planet Of Insects](https://www.youtube.com/watch?v=UsJ_lzhiHb0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Amplifier (3) - The Octopus](https://www.discogs.com/release/14385592) |
+| Release Year   | 2019 |
+| Discogs Link   | [Amplifier (3) - The Octopus](https://www.discogs.com/release/14385592-Amplifier-The-Octopus) |
 | Label          | Rockosmos |
 | Format         | LP, Cle + LP, Blu + LP, Ora + LP, Red + Album, RE, |
 | Catalog Number | ROK 70 |
+
+Reissue on vinyl for the first time, only available through preorder and prepayment on the band´s website.  500 Copies only  Including Bonus Track "The Eternal"  From Amplifier's bandcamp page.  "The moment is here. Getting this together has been a monumental effort. It was never going to be done in half measures and by golly it hasn't been. This is EIGHT SIDES of premium FX Splatter Vinyl in a beautiful Hardcase gold foiled book. There's no doubt that it is expensive - but we guarantee that you will be blown away by this. One pressing only - you will never sell it and handle it only with white gloves (not included) Remastered for vinyl by Greg Norman. We can only afford 500 - so it will be strictly first come first served."
 

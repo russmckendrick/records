@@ -1,14 +1,17 @@
 ---
 title: "Curve - Frozen"
-album_artist: "Curve"
-album_title: "Frozen"
+artist: "Curve"
+album_name: "Frozen"
 date: 2023-02-13
 release_id: "26071519"
 slug: "frozen-26071519"
+hideSummary: true
 cover:
     image: "frozen-26071519.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Frozen by Curve"
+    caption: "Frozen by Curve"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Curve - Coast is clear](https://www.youtube.com/watch?v=lqtxTl4m6l4)
 - [Curve - Frozen](https://www.youtube.com/watch?v=vAANdjxEKlU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Curve - Frozen](https://www.discogs.com/release/26071519) |
+| Release Year   | 2023 |
+| Discogs Link   | [Curve - Frozen](https://www.discogs.com/release/26071519-Curve-Frozen) |
 | Label          | Music On Vinyl |
 | Format         | 12\", EP, Ltd, Num, Whi |
 | Catalog Number | MOV12031 |
+
+Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Pogues - The Best Of The Pogues"
-album_artist: "The Pogues"
-album_title: "The Best Of The Pogues"
+artist: "The Pogues"
+album_name: "The Best Of The Pogues"
 date: 2018-06-23
 release_id: "12121159"
 slug: "the-best-of-the-pogues-12121159"
+hideSummary: true
 cover:
     image: "the-best-of-the-pogues-12121159.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Best Of The Pogues by The Pogues"
+    caption: "The Best Of The Pogues by The Pogues"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [pogues - dirty old town](https://www.youtube.com/watch?v=kVUZuVZWHkk)
 - [The Pogues - Shane MacGowan - Body of an American](https://www.youtube.com/watch?v=BgYml2eokLA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Pogues - The Best Of The Pogues](https://www.discogs.com/release/12121159) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Pogues - The Best Of The Pogues](https://www.discogs.com/release/12121159-The-Pogues-The-Best-Of-The-Pogues) |
 | Label          | Pogue Mahone Records |
 | Format         | LP, Comp, RE |
 | Catalog Number | 0190295672560 |
+
+This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.
 

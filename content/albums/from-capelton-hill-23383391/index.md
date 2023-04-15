@@ -1,14 +1,17 @@
 ---
 title: "Stars - From Capelton Hill"
-album_artist: "Stars"
-album_title: "From Capelton Hill"
+artist: "Stars"
+album_name: "From Capelton Hill"
 date: 2022-05-31
 release_id: "23383391"
 slug: "from-capelton-hill-23383391"
+hideSummary: true
 cover:
     image: "from-capelton-hill-23383391.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "From Capelton Hill by Stars"
+    caption: "From Capelton Hill by Stars"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="l94kK-S8wvc" title="Stars - Patterns (Official Music Video)" >}}
 - [Stars - That Girl (Official Video)](https://www.youtube.com/watch?v=2MI3CHUrCFo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Stars - From Capelton Hill](https://www.discogs.com/release/23383391) |
+| Release Year   | 2022 |
+| Discogs Link   | [Stars - From Capelton Hill](https://www.discogs.com/release/23383391-Stars-From-Capelton-Hill) |
 | Label          | Last Gang Records |
 | Format         | LP, Album, Ltd, Gol |
 | Catalog Number | LGE-LP-49041 |
+
+
 

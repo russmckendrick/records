@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - The Boy With The Arab Strap"
-album_artist: "Belle & Sebastian"
-album_title: "The Boy With The Arab Strap"
+artist: "Belle & Sebastian"
+album_name: "The Boy With The Arab Strap"
 date: 2017-04-25
 release_id: "6215340"
 slug: "the-boy-with-the-arab-strap-6215340"
+hideSummary: true
 cover:
     image: "the-boy-with-the-arab-strap-6215340.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Boy With The Arab Strap by Belle & Sebastian"
+    caption: "The Boy With The Arab Strap by Belle & Sebastian"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
 - [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/6215340) |
+| Release Year   | 2014 |
+| Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/6215340-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |
 | Label          | Jeepster Recordings |
 | Format         | LP, Album, RE |
 | Catalog Number | JPRLP 003 |
+
+Includes download of entire album. Includes a PVC outer sleeve.  ℗ & © 1998 Jeepster Recordings Ltd. Made in the E.U. Distributed by Universal Music Operations Ltd.  Lyrics printed on the inside (left half) of the gatefold sleeve.   
 

@@ -1,14 +1,17 @@
 ---
 title: "Teenage Fanclub - Thirteen"
-album_artist: "Teenage Fanclub"
-album_title: "Thirteen"
+artist: "Teenage Fanclub"
+album_name: "Thirteen"
 date: 2018-08-29
 release_id: "12373131"
 slug: "thirteen-12373131"
+hideSummary: true
 cover:
     image: "thirteen-12373131.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Thirteen by Teenage Fanclub"
+    caption: "Thirteen by Teenage Fanclub"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="UeuvjxmaEkk" title="Teenage Fanclub - Hang On" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Teenage Fanclub - Thirteen](https://www.discogs.com/release/12373131) |
+| Release Year   | 2018 |
+| Discogs Link   | [Teenage Fanclub - Thirteen](https://www.discogs.com/release/12373131-Teenage-Fanclub-Thirteen) |
 | Label          | Sony Music |
 | Format         | LP, Album, RE, RM + 7\", Ltd |
 | Catalog Number | 19075837061 |
+
+Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire. Mixed at Revolution Studios. Mastered at the Hit Factory. Remastered at Abbey Road Studio Joe MacAlinden appears courtesy of [l944]/[l144867]. John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [Temple Records](https://www.discogs.com/label/120387-Temple-Records-2). An initial run of copies preordered from official webstore was signed by band members'.  Includes a colour inner sleeve printed with credits and photographs. Includes mp3 download card. Limited edition 7" included with initial pressing. Track times are not printed on the release itself, 7" excepted.
 

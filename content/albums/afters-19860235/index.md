@@ -1,14 +1,17 @@
 ---
 title: "The Helicopter Of The Holy Ghost - Afters"
-album_artist: "The Helicopter Of The Holy Ghost"
-album_title: "Afters"
+artist: "The Helicopter Of The Holy Ghost"
+album_name: "Afters"
 date: 2021-10-04
 release_id: "19860235"
 slug: "afters-19860235"
+hideSummary: true
 cover:
     image: "afters-19860235.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Afters by The Helicopter Of The Holy Ghost"
+    caption: "Afters by The Helicopter Of The Holy Ghost"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Hangar Lane Gyratory System; 4.44am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
 - [Difficult Song](https://www.youtube.com/watch?v=SUl84NqIqJM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Helicopter Of The Holy Ghost - Afters](https://www.discogs.com/release/19860235) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Helicopter Of The Holy Ghost - Afters](https://www.discogs.com/release/19860235-The-Helicopter-Of-The-Holy-Ghost-Afters) |
 | Label          | Kscope |
 | Format         | LP, Album |
 | Catalog Number | KSCOPE1120 |
+
+
 

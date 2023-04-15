@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Piper At The Gates Of Dawn"
-album_artist: "Pink Floyd"
-album_title: "The Piper At The Gates Of Dawn"
+artist: "Pink Floyd"
+album_name: "The Piper At The Gates Of Dawn"
 date: 2018-04-21
 release_id: "11888042"
 slug: "the-piper-at-the-gates-of-dawn-11888042"
+hideSummary: true
 cover:
     image: "the-piper-at-the-gates-of-dawn-11888042.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Piper At The Gates Of Dawn by Pink Floyd"
+    caption: "The Piper At The Gates Of Dawn by Pink Floyd"
+genres: ["Rock"]
+styles: ["Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. The Scarecrow (2:11)
 11. Bike (3:23)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/11888042) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/11888042-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |
 | Label          | Pink Floyd Records, Columbia |
 | Format         | LP, Album, RSD, Mono, Ltd, RE, RM, 180 |
 | Catalog Number | PFRLP26, 0190295690199 |
+
+RSD 2018 release, limited edition package with poster. Quantity: 15.000 copies worldwide.  Original UK release date: August 1967. © 2018 Pink Floyd Music Ltd.
 

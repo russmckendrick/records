@@ -1,14 +1,17 @@
 ---
 title: "Led Zeppelin - Coda"
-album_artist: "Led Zeppelin"
-album_title: "Coda"
+artist: "Led Zeppelin"
+album_name: "Coda"
 date: 2017-02-26
 release_id: "7303584"
 slug: "coda-7303584"
+hideSummary: true
 cover:
     image: "coda-7303584.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Coda by Led Zeppelin"
+    caption: "Coda by Led Zeppelin"
+genres: ["Rock"]
+styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="RunTziaqymA" title="Led Zeppelin - Coda (1982) (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Led Zeppelin - Coda](https://www.discogs.com/release/7303584) |
+| Release Year   | 2015 |
+| Discogs Link   | [Led Zeppelin - Coda](https://www.discogs.com/release/7303584-Led-Zeppelin-Coda) |
 | Label          | Swan Song |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 8122795588 |
+
+℗ & © 1982 Atlantic Recording Corporation, manufactured in Germany A1: Recorded on the Pye Mobile Truck at The Royal Albert Hall, on 9/1/70 A2: Recorded at Olympic Studios, London, on 5/6/70 A3: Recorded during sound rehearsal at the Royal Albert Hall, London, on 9/1/70 A4: Recorded on the Rolling Stones Mobile at Stargroves, on 16/5/72 B1: Recorded at Polar Studios, Stockholm, on 14/11/78 B2: Recorded at Polar Studios, Stockholm, on 16/11/78 B3: Recorded at Mountain Studios, Montreux, on 12/9/76 B4: Recorded at Polar Studios, Stockholm, on 21/11/78  A & B runouts are etched.  Embossed Cover.
 

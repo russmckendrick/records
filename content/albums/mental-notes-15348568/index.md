@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Mental Notes"
-album_artist: "Split Enz"
-album_title: "Mental Notes"
+artist: "Split Enz"
+album_name: "Mental Notes"
 date: 2020-05-26
 release_id: "15348568"
 slug: "mental-notes-15348568"
+hideSummary: true
 cover:
     image: "mental-notes-15348568.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mental Notes by Split Enz"
+    caption: "Mental Notes by Split Enz"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568) |
+| Release Year   | 2020 |
+| Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568-Split-Enz-Mental-Notes) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, RM, Whi |
 | Catalog Number | DEMREC540 |
+
+Gatefold Runouts are stamped
 

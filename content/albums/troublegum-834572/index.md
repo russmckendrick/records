@@ -1,14 +1,17 @@
 ---
 title: "Therapy? - Troublegum"
-album_artist: "Therapy?"
-album_title: "Troublegum"
+artist: "Therapy?"
+album_name: "Troublegum"
 date: 2016-12-13
 release_id: "834572"
 slug: "troublegum-834572"
+hideSummary: true
 cover:
     image: "troublegum-834572.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Troublegum by Therapy?"
+    caption: "Troublegum by Therapy?"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Therapy? - Screamager](https://www.youtube.com/watch?v=oDVsIvvFtcs)
 - [Therapy? - Nowhere](https://www.youtube.com/watch?v=5Bcpj-q0Snc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Therapy? - Troublegum](https://www.discogs.com/release/834572) |
+| Release Year   | 1994 |
+| Discogs Link   | [Therapy? - Troublegum](https://www.discogs.com/release/834572-Therapy-Troublegum) |
 | Label          | A&M Records |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | 540 196-1 |
+
+Also available on [black vinyl](http://www.discogs.com/Therapy-Troublegum/release/1632751).
 

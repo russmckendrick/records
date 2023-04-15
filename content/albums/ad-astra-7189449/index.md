@@ -1,14 +1,17 @@
 ---
 title: "Spiritual Beggars - Ad Astra"
-album_artist: "Spiritual Beggars"
-album_title: "Ad Astra"
+artist: "Spiritual Beggars"
+album_name: "Ad Astra"
 date: 2017-04-09
 release_id: "7189449"
 slug: "ad-astra-7189449"
+hideSummary: true
 cover:
     image: "ad-astra-7189449.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ad Astra by Spiritual Beggars"
+    caption: "Ad Astra by Spiritual Beggars"
+genres: ["Rock"]
+styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Spiritual Beggars - Left Brain Ambassadors](https://www.youtube.com/watch?v=wzhWmLEHEBY)
 - [Spiritual Beggars - Ad Astra - It's Over](https://www.youtube.com/watch?v=pyWN8u7Ikp0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Spiritual Beggars - Ad Astra](https://www.discogs.com/release/7189449) |
+| Release Year   | 2015 |
+| Discogs Link   | [Spiritual Beggars - Ad Astra](https://www.discogs.com/release/7189449-Spiritual-Beggars-Ad-Astra) |
 | Label          | Music For Nations |
 | Format         | LP, Album, RE, RM, Pur + CD, Album, RE |
 | Catalog Number | 88875088291 |
+
+180 gram purple vinyl  Printed inner sleeve with credits and liner notes by Michael Amott  Comes with an additional CD in a cardboard sleeve.
 

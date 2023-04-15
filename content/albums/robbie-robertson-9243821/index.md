@@ -1,14 +1,17 @@
 ---
 title: "Robbie Robertson - Robbie Robertson"
-album_artist: "Robbie Robertson"
-album_title: "Robbie Robertson"
+artist: "Robbie Robertson"
+album_name: "Robbie Robertson"
 date: 2020-08-01
 release_id: "9243821"
 slug: "robbie-robertson-9243821"
+hideSummary: true
 cover:
     image: "robbie-robertson-9243821.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Robbie Robertson by Robbie Robertson"
+    caption: "Robbie Robertson by Robbie Robertson"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Sonny Got Caught In The Moonlight](https://www.youtube.com/watch?v=Dk3UzUXBMdc)
 - [Testimony](https://www.youtube.com/watch?v=FqUFRUQ8uZI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Robbie Robertson - Robbie Robertson](https://www.discogs.com/release/9243821) |
+| Release Year   | 1987 |
+| Discogs Link   | [Robbie Robertson - Robbie Robertson](https://www.discogs.com/release/9243821-Robbie-Robertson-Robbie-Robertson) |
 | Label          | Geffen Records, Geffen Records |
 | Format         | LP, Album |
 | Catalog Number | 924160-1, WX 133 |
+
+Similar to [r=1113594] but with different publishers on label  made in germany  Promotional sticker in top right corner to front cover "Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky"
 

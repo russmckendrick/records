@@ -1,14 +1,17 @@
 ---
 title: "Men At Work - Business As Usual"
-album_artist: "Men At Work"
-album_title: "Business As Usual"
+artist: "Men At Work"
+album_name: "Business As Usual"
 date: 2017-04-14
 release_id: "843432"
 slug: "business-as-usual-843432"
+hideSummary: true
 cover:
     image: "business-as-usual-843432.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Business As Usual by Men At Work"
+    caption: "Business As Usual by Men At Work"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Men At Work - Be Good Johnny (Official Music Video)](https://www.youtube.com/watch?v=74dvJVwGA6Y)
 - [Men At Work - Who Can It Be Now? (Video Version)](https://www.youtube.com/watch?v=SECVGN4Bsgg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Men At Work - Business As Usual](https://www.discogs.com/release/843432) |
+| Release Year   | 1982 |
+| Discogs Link   | [Men At Work - Business As Usual](https://www.discogs.com/release/843432-Men-At-Work-Business-As-Usual) |
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | EPC 85669 |
+
+Rear Sleeve: © 1982 CBS Inc. Labels: ℗ 1981 CBS Records Australia Ltd. Made in England. Original sound recording made by CBS Records Australia Ltd. CBS Records are the exclusive licensees for the UK.  Shorepak by Shorewood Packaging Co. Ltd., England.
 

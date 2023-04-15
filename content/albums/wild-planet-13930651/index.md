@@ -1,14 +1,17 @@
 ---
 title: "The B-52's - Wild Planet"
-album_artist: "The B-52's"
-album_title: "Wild Planet"
+artist: "The B-52's"
+album_name: "Wild Planet"
 date: 2020-07-14
 release_id: "13930651"
 slug: "wild-planet-13930651"
+hideSummary: true
 cover:
     image: "wild-planet-13930651.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wild Planet by The B-52's"
+    caption: "Wild Planet by The B-52's"
+genres: ["Rock"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 {{< youtube id="BxHyliIspkA" title="The B-52's - Private Idaho (Official Audio)" >}}
 - [53 Miles West of Venus](https://www.youtube.com/watch?v=mvXbB67rSHc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The B-52's - Wild Planet](https://www.discogs.com/release/13930651) |
+| Release Year   | 2019 |
+| Discogs Link   | [The B-52's - Wild Planet](https://www.discogs.com/release/13930651-The-B-52s-Wild-Planet) |
 | Label          | Island Records, UMC |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 538798 0 |
+
+180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.  Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980
 

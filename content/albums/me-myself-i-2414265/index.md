@@ -1,14 +1,17 @@
 ---
 title: "Joan Armatrading - Me Myself I"
-album_artist: "Joan Armatrading"
-album_title: "Me Myself I"
+artist: "Joan Armatrading"
+album_name: "Me Myself I"
 date: 2020-08-02
 release_id: "2414265"
 slug: "me-myself-i-2414265"
+hideSummary: true
 cover:
     image: "me-myself-i-2414265.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Me Myself I by Joan Armatrading"
+    caption: "Me Myself I by Joan Armatrading"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [I Need You](https://www.youtube.com/watch?v=9zsuwzoxfDU)
 - [joan armatrading - turn out the light](https://www.youtube.com/watch?v=UL99gk3ELvc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Joan Armatrading - Me Myself I](https://www.discogs.com/release/2414265) |
+| Release Year   | 1980 |
+| Discogs Link   | [Joan Armatrading - Me Myself I](https://www.discogs.com/release/2414265-Joan-Armatrading-Me-Myself-I) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | AMLH 64809 |
+
+Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side.  Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE" 
 

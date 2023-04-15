@@ -1,14 +1,17 @@
 ---
 title: "Spiritualized - Everything Was Beautiful"
-album_artist: "Spiritualized"
-album_title: "Everything Was Beautiful"
+artist: "Spiritualized"
+album_name: "Everything Was Beautiful"
 date: 2022-04-22
 release_id: "22954349"
 slug: "everything-was-beautiful-22954349"
+hideSummary: true
 cover:
     image: "everything-was-beautiful-22954349.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Everything Was Beautiful by Spiritualized"
+    caption: "Everything Was Beautiful by Spiritualized"
+genres: ["Rock"]
+styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Spiritualized - The Mainline Song (Official Video)](https://www.youtube.com/watch?v=hze3Su59kFE)
 - [Spiritualized - Crazy (Official Music Video)](https://www.youtube.com/watch?v=3vCcjlcJ8JM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Spiritualized - Everything Was Beautiful](https://www.discogs.com/release/22954349) |
+| Release Year   | 2022 |
+| Discogs Link   | [Spiritualized - Everything Was Beautiful](https://www.discogs.com/release/22954349-Spiritualized-Everything-Was-Beautiful) |
 | Label          | Bella Union |
 | Format         | LP, Album |
 | Catalog Number | BELLA1270V |
+
+Includes printed inner sleeve and download card. Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER
 

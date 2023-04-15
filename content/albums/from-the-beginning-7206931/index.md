@@ -1,14 +1,17 @@
 ---
 title: "Small Faces - From The Beginning"
-album_artist: "Small Faces"
-album_title: "From The Beginning"
+artist: "Small Faces"
+album_name: "From The Beginning"
 date: 2021-05-21
 release_id: "7206931"
 slug: "from-the-beginning-7206931"
+hideSummary: true
 cover:
     image: "from-the-beginning-7206931.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "From The Beginning by Small Faces"
+    caption: "From The Beginning by Small Faces"
+genres: ["Rock"]
+styles: ["Mod", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [[Tell Me] Have You Ever Seen Me](https://www.youtube.com/watch?v=e6KphiUD0-8)
 - [Small Faces-Whatcha Gonna Do About It](https://www.youtube.com/watch?v=Cec2HBgCkqk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Small Faces - From The Beginning](https://www.discogs.com/release/7206931) |
+| Release Year   | 2015 |
+| Discogs Link   | [Small Faces - From The Beginning](https://www.discogs.com/release/7206931-Small-Faces-From-The-Beginning) |
 | Label          | Decca, Decca, Universal Music Group International |
 | Format         | LP, Comp, Mono, RE, 180 |
 | Catalog Number | 471 537-3, 0602547153739 |
+
+Includes a voucher to download an MP3 version of the album. 180 gram heavyweight vinyl.  © 1967, The Decca Record Company Limited, London. ℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd. Made in the EU.
 

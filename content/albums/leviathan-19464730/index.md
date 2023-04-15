@@ -1,14 +1,17 @@
 ---
 title: "The Grid / Robert Fripp - Leviathan"
-album_artist: "The Grid / Robert Fripp"
-album_title: "Leviathan"
+artist: "The Grid / Robert Fripp"
+album_name: "Leviathan"
 date: 2021-12-15
 release_id: "19464730"
 slug: "leviathan-19464730"
+hideSummary: true
 cover:
     image: "leviathan-19464730.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Leviathan by The Grid / Robert Fripp"
+    caption: "Leviathan by The Grid / Robert Fripp"
+genres: ["Electronic", "Rock"]
+styles: ["Ambient", "Drone", "Deep Techno"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [The Grid / Fripp - Zhora](https://www.youtube.com/watch?v=9ClPw6JWGPM)
 - [The Grid / Fripp - Sympatico](https://www.youtube.com/watch?v=MinRXsxINRg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Grid / Robert Fripp - Leviathan](https://www.discogs.com/release/19464730) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Grid / Robert Fripp - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |
 | Label          | Discipline Global Mobile, Panegyric |
 | Format         | 2xLP, Album, 200 |
 | Catalog Number | DGMLPX102 |
+
+Gatefold sleeve    
 

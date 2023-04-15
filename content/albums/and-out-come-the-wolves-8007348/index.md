@@ -1,14 +1,17 @@
 ---
 title: "Rancid - ...And Out Come The Wolves"
-album_artist: "Rancid"
-album_title: "...And Out Come The Wolves"
+artist: "Rancid"
+album_name: "...And Out Come The Wolves"
 date: 2016-01-22
 release_id: "8007348"
 slug: "and-out-come-the-wolves-8007348"
+hideSummary: true
 cover:
     image: "and-out-come-the-wolves-8007348.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "...And Out Come The Wolves by Rancid"
+    caption: "...And Out Come The Wolves by Rancid"
+genres: ["Rock"]
+styles: ["Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Rancid - Avenues and Alleyways (Full Album Stream)](https://www.youtube.com/watch?v=kInWnJ9et1s)
 - [Rancid - The Way I Feel (Full Album Stream)](https://www.youtube.com/watch?v=X7sILDfQXdk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Rancid - ...And Out Come The Wolves](https://www.discogs.com/release/8007348) |
+| Release Year   | 2016 |
+| Discogs Link   | [Rancid - ...And Out Come The Wolves](https://www.discogs.com/release/8007348-Rancid-And-Out-Come-The-Wolves) |
 | Label          | Epitaph |
 | Format         | LP, Album, Ltd, RE, RM, Gol |
 | Catalog Number | 7441-1 |
+
+To celebrate the 20th anniversary of this very special release in our history, Epitaph Records is proud to present the deluxe 20th Anniversary edition of Rancid’s …and Out Come The Wolves. Released at the height of the 90’s wave of punk resurgence, …and Out Come The Wolves is arguably on the most important albums of that decade and features tracks that became punk standards. – Audiophile 180 gram gold vinyl – Remastered from the original master tapes – Includes giant poster and lyric sheet LP contains Download card.Comes with fold-out poster. Limited to 1500 copies  ©+℗ 1995 Epitaph Records All songs published by I Want To Go Where The Action Is Music (King Roy Music B.M.I.)  Intro to A1 from the movie "Gringo" by Lech Kowalski. Thanks to [a=Jim Carroll] for coming down & writing a poem to our song.
 

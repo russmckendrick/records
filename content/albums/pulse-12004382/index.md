@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Pulse"
-album_artist: "Pink Floyd"
-album_title: "Pulse"
+artist: "Pink Floyd"
+album_name: "Pulse"
 date: 2018-05-17
 release_id: "12004382"
 slug: "pulse-12004382"
+hideSummary: true
 cover:
     image: "pulse-12004382.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pulse by Pink Floyd"
+    caption: "Pulse by Pink Floyd"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -40,16 +43,17 @@ hideSummary: true
 26. Comfortably Numb (9:10)
 27. Run Like Hell (7:58)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pink Floyd - Pulse](https://www.discogs.com/release/12004382) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pink Floyd - Pulse](https://www.discogs.com/release/12004382-Pink-Floyd-Pulse) |
 | Label          | Pink Floyd Records |
 | Format         | 4xLP, Album, RE, RM, 180 + Box |
 | Catalog Number | PFRLP17 |
+
+Book: Recorded live in Europe and the UK with Le Voyageur II Mobile. Mixed at Astoria in Q Sound. Mastered at The Mastering Lab. This is an analogue recording.  With Thanks to: Marc Brickman, Mark Fisher and Robbie Williams and all the crew who worked on the tour between March and October 1994.  Records 1 & 2: All tracks published by Pink Floyd Music Publishers Ltd. except 'Astronomy Domine': Westminster Music Ltd. Records 3 & 4: All tracks published by Pink Floyd Music Publishers Ltd.  Labels: Made in the EU.  Includes one more track than the CD releases (D3 One Of These Days).  Packaged in a hard box with a 52 page hardback book featuring credits and colour photographs from the concerts.  Hype sticker on front cover (on shrink).
 

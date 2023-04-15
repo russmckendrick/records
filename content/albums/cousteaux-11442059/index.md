@@ -1,14 +1,17 @@
 ---
 title: "Cousteau (2) - CousteauX"
-album_artist: "Cousteau (2)"
-album_title: "CousteauX"
+artist: "Cousteau (2)"
+album_name: "CousteauX"
 date: 2018-01-31
 release_id: "11442059"
 slug: "cousteaux-11442059"
+hideSummary: true
 cover:
     image: "cousteaux-11442059.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "CousteauX by Cousteau (2)"
+    caption: "CousteauX by Cousteau (2)"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="G7MOMU0K5c4" title="CousteauX - The Innermost Light" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Cousteau (2) - CousteauX](https://www.discogs.com/release/11442059) |
+| Release Year   | 2017 |
+| Discogs Link   | [Cousteau (2) - CousteauX](https://www.discogs.com/release/11442059-CousteauX-CousteauX) |
 | Label          | Silent X Records |
 | Format         | LP, Album |
 | Catalog Number | SNTX002LP |
+
+Studios, What Studios? UK & Australia Design & Artwork - Gower Preston - oicdesign.net Photography - John Halfhide Cover Image - Snyder & Cole - Courtesy of Chicago Tribune Published by Blue Mountain Music  Signed copies offered as a pre-order through PledgeMusic
 

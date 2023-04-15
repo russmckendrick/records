@@ -1,14 +1,17 @@
 ---
 title: "Simple Minds - Once Upon A Time"
-album_artist: "Simple Minds"
-album_title: "Once Upon A Time"
+artist: "Simple Minds"
+album_name: "Once Upon A Time"
 date: 2015-09-11
 release_id: "762207"
 slug: "once-upon-a-time-762207"
+hideSummary: true
 cover:
     image: "once-upon-a-time-762207.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Once Upon A Time by Simple Minds"
+    caption: "Once Upon A Time by Simple Minds"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Come A Long Way](https://www.youtube.com/watch?v=b0A9siJrokg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/762207) |
+| Release Year   | 1985 |
+| Discogs Link   | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/762207-Simple-Minds-Once-Upon-A-Time) |
 | Label          | Virgin |
 | Format         | LP, Album, Pic |
 | Catalog Number | VP 2364 |
+
+Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics. Recorded at Townhouse Studios, London. 
 

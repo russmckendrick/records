@@ -1,14 +1,17 @@
 ---
 title: "Prince - Prince"
-album_artist: "Prince"
-album_title: "Prince"
+artist: "Prince"
+album_name: "Prince"
 date: 2016-06-26
 release_id: "8486292"
 slug: "prince-8486292"
+hideSummary: true
 cover:
     image: "prince-8486292.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Prince by Prince"
+    caption: "Prince by Prince"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Disco", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
 - [Bambi](https://www.youtube.com/watch?v=INduB7K6VWo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Prince - Prince](https://www.discogs.com/release/8486292) |
+| Release Year   | 2016 |
+| Discogs Link   | [Prince - Prince](https://www.discogs.com/release/8486292-Prince-Prince) |
 | Label          | Warner Bros. Records, Warner Bros. Records |
 | Format         | LP, Album, RE |
 | Catalog Number | 9362-49220-8, 553365-1 |
+
+Cover: Manufactured in the E.U.  Dust sleeve: © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8  Labels: 553365-1 © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. Manufactured in the Netherlands  Vinyl, matrix/runout: 14944 2A and 14944 2B are stamped the rest is etched
 

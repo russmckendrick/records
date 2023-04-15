@@ -1,14 +1,17 @@
 ---
 title: "The Lemonheads - Come On Feel The Lemonheads"
-album_artist: "The Lemonheads"
-album_title: "Come On Feel The Lemonheads"
+artist: "The Lemonheads"
+album_name: "Come On Feel The Lemonheads"
 date: 2017-05-04
 release_id: "6353508"
 slug: "come-on-feel-the-lemonheads-6353508"
+hideSummary: true
 cover:
     image: "come-on-feel-the-lemonheads-6353508.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Come On Feel The Lemonheads by The Lemonheads"
+    caption: "Come On Feel The Lemonheads by The Lemonheads"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [The Lemonheads - Big gay heart](https://www.youtube.com/watch?v=wnxTjW8MBlc)
 - [The Lemonheads - Into Your Arms](https://www.youtube.com/watch?v=ZhlJCQH7-SQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Lemonheads - Come On Feel The Lemonheads](https://www.discogs.com/release/6353508) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Lemonheads - Come On Feel The Lemonheads](https://www.discogs.com/release/6353508-The-Lemonheads-Come-On-Feel-The-Lemonheads) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP1240 |
+
+
 

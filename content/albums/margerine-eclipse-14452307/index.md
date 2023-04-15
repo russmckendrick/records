@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Margerine Eclipse"
-album_artist: "Stereolab"
-album_title: "Margerine Eclipse"
+artist: "Stereolab"
+album_name: "Margerine Eclipse"
 date: 2019-11-29
 release_id: "14452307"
 slug: "margerine-eclipse-14452307"
+hideSummary: true
 cover:
     image: "margerine-eclipse-14452307.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Margerine Eclipse by Stereolab"
+    caption: "Margerine Eclipse by Stereolab"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Stereolab - Feel and Triple](https://www.youtube.com/watch?v=_aXEUwbf1S4)
 - [Stereolab - Margerine Melodie](https://www.youtube.com/watch?v=YlMqK1vzvBc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stereolab - Margerine Eclipse](https://www.discogs.com/release/14452307) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stereolab - Margerine Eclipse](https://www.discogs.com/release/14452307-Stereolab-Margerine-Eclipse) |
 | Label          | Warp Records, Duophonic Ultra High Frequency Disks |
 | Format         | 2xLP, Album, RE + LP + Ltd, Num, RM, Cle |
 | Catalog Number | D-UHF-D29R |
+
+
 

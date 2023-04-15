@@ -1,14 +1,17 @@
 ---
 title: "Bob Stanley & Pete Wiggs - The Tears Of Technology"
-album_artist: "Bob Stanley & Pete Wiggs"
-album_title: "The Tears Of Technology"
+artist: "Bob Stanley & Pete Wiggs"
+album_name: "The Tears Of Technology"
 date: 2020-03-05
 release_id: "14861335"
 slug: "the-tears-of-technology-14861335"
+hideSummary: true
 cover:
     image: "the-tears-of-technology-14861335.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Tears Of Technology by Bob Stanley & Pete Wiggs"
+    caption: "The Tears Of Technology by Bob Stanley & Pete Wiggs"
+genres: ["Electronic"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Oppenheimer Analysis - Behind The Shades](https://www.youtube.com/watch?v=YGc5oF4tn9E)
 - [Trevor Bastow - feather bed](https://www.youtube.com/watch?v=obMWwz1M5NE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Bob Stanley & Pete Wiggs - The Tears Of Technology](https://www.discogs.com/release/14861335) |
+| Release Year   | 2020 |
+| Discogs Link   | [Bob Stanley & Pete Wiggs - The Tears Of Technology](https://www.discogs.com/release/14861335-Bob-Stanley-Pete-Wiggs-The-Tears-Of-Technology) |
 | Label          | Ace |
 | Format         | 2xLP, Comp, Ltd, Whi |
 | Catalog Number | XXQLP2068W |
+
+The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd  This compilation P & C 2020 Ace Records Ltd  White Vinyl version exclusive to Rough Trade in the UK.   Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"  
 

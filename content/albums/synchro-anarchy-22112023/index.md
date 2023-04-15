@@ -1,14 +1,17 @@
 ---
 title: "Voïvod - Synchro Anarchy"
-album_artist: "Voïvod"
-album_title: "Synchro Anarchy"
+artist: "Voïvod"
+album_name: "Synchro Anarchy"
 date: 2022-02-13
 release_id: "22112023"
 slug: "synchro-anarchy-22112023"
+hideSummary: true
 cover:
     image: "synchro-anarchy-22112023.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Synchro Anarchy by Voïvod"
+    caption: "Synchro Anarchy by Voïvod"
+genres: ["Rock"]
+styles: ["Thrash", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [VOIVOD - Planet Eaters (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=lvHjNcjMqvU)
 - [VOIVOD - Sleeves Off (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-4hDSNieOnA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Voïvod - Synchro Anarchy](https://www.discogs.com/release/22112023) |
+| Release Year   | 2022 |
+| Discogs Link   | [Voïvod - Synchro Anarchy](https://www.discogs.com/release/22112023-Vo%C3%AFvod-Synchro-Anarchy) |
 | Label          | Century Media |
 | Format         | LP, Album, 180 |
 | Catalog Number | 19439967881 |
+
+Regular black vinyl version, includes A2 poster. 1 I mirrored in runouts  Made in the EU.
 

@@ -1,14 +1,17 @@
 ---
 title: "Rush - A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)"
-album_artist: "Rush"
-album_title: "A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)"
+artist: "Rush"
+album_name: "A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)"
 date: 2017-12-11
 release_id: "11255606"
 slug: "a-farewell-to-kings-40th-anniversary-limited-edition-super-deluxe-11255606"
+hideSummary: true
 cover:
     image: "a-farewell-to-kings-40th-anniversary-limited-edition-super-deluxe-11255606.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe) by Rush"
+    caption: "A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe) by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -82,16 +85,17 @@ hideSummary: true
 68. Xanadu (11:08)
 69. Closer To The Heart (2:56)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Rush - A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)](https://www.discogs.com/release/11255606) |
+| Release Year   | 2017 |
+| Discogs Link   | [Rush - A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)](https://www.discogs.com/release/11255606-Rush-A-Farewell-To-Kings-40th-Anniversary-Limited-Edition-Super-Deluxe) |
 | Label          | Anthem (5), Mercury, UMe, Ole |
 | Format         | Box, Dlx, Ltd + 4xLP, 180 + 3xCD, Dlx + Blu-ray, B |
 | Catalog Number | B0027243-80 |
+
+EXCLUSIVE BONUS ITEMS: 40th Anniversary King's Ring, Velvet Pouch & Neck Chain 1978 A FAREWELL TO KINGS Tour Program Hugh Syme 1977 King's Crown Sketch Litho Hugh Syme 1977 Cover Concept Sketch Litho 12-inch Turntable Mat  Blu-Ray Audio Specs Approx Run Time: 55 mins Audio: 96kHz 24-bit DTS-HD Master Audio 5.1 96kHz 24-bit Dolby TrueHD 5.1 96kHz 24-bit PCM Stereo Video 1080p / 23.98fps / 16:9 Widescreen *Standard Definition 4:3 Full Frame  PRODUCER'S NOTE: With disc four you are now able to hear at home what we hear in the studio. This Blu-ray disc contains all 6 tracks from A FAREWELL TO KINGS in high resolution 96kHz 24-bit DTS-HD Master Audio and Dolby True 5.1 surround sound along with the 96kHz 24-bit remastered original stereo mix. It is primarily an audio-only disc with basic navigation and song information displayed on-screen along with three bonus videos. The 96kHz 24-bit audio on this disc has 256 times more resolution than a CD, providing greater detail and reproducing the music's full dynamic range, from the softest to the loudest sounds.
 

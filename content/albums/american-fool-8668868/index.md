@@ -1,14 +1,17 @@
 ---
 title: "John Cougar Mellencamp - American Fool"
-album_artist: "John Cougar Mellencamp"
-album_title: "American Fool"
+artist: "John Cougar Mellencamp"
+album_name: "American Fool"
 date: 2017-04-09
 release_id: "8668868"
 slug: "american-fool-8668868"
+hideSummary: true
 cover:
     image: "american-fool-8668868.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "American Fool by John Cougar Mellencamp"
+    caption: "American Fool by John Cougar Mellencamp"
+genres: ["Rock"]
+styles: ["Southern Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)
 - [American Fool (Bonus Track)](https://www.youtube.com/watch?v=-IIXpzlaMlw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Cougar Mellencamp - American Fool](https://www.discogs.com/release/8668868) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Cougar Mellencamp - American Fool](https://www.discogs.com/release/8668868-John-Cougar-American-Fool) |
 | Label          | Riva (2) |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | RVL 7501 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - True Colours"
-album_artist: "Split Enz"
-album_title: "True Colours"
+artist: "Split Enz"
+album_name: "True Colours"
 date: 2020-08-22
 release_id: "15700504"
 slug: "true-colours-15700504"
+hideSummary: true
 cover:
     image: "true-colours-15700504.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "True Colours by Split Enz"
+    caption: "True Colours by Split Enz"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
 - [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/15700504) |
+| Release Year   | 2020 |
+| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/15700504-Split-Enz-True-Colours) |
 | Label          | Warner Music |
 | Format         | LP, Album, RE, 40t |
 | Catalog Number | 5419707418 |
+
+40th Anniversary, special issue of the LP pressed in four colors of vinyl (green, blue, yellow, orange) and housed in one of four various covers. The covers were released in the original first four sleeve color combinations (yellow/blue, red/green, purple/yellow, blue/orange).
 

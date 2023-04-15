@@ -1,14 +1,17 @@
 ---
 title: "Fleetwood Mac - Peter Green's Fleetwood Mac"
-album_artist: "Fleetwood Mac"
-album_title: "Peter Green's Fleetwood Mac"
+artist: "Fleetwood Mac"
+album_name: "Peter Green's Fleetwood Mac"
 date: 2017-09-09
 release_id: "3107317"
 slug: "peter-green-s-fleetwood-mac-3107317"
+hideSummary: true
 cover:
     image: "peter-green-s-fleetwood-mac-3107317.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Peter Green's Fleetwood Mac by Fleetwood Mac"
+    caption: "Peter Green's Fleetwood Mac by Fleetwood Mac"
+genres: ["Rock"]
+styles: ["Blues Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Vi1Le05iZZk" title="F̲le̲e̲twood M̲ac - F̲le̲e̲twood M̲ac (Full Album) 1968" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Fleetwood Mac - Peter Green's Fleetwood Mac](https://www.discogs.com/release/3107317) |
+| Release Year   | 2011 |
+| Discogs Link   | [Fleetwood Mac - Peter Green's Fleetwood Mac](https://www.discogs.com/release/3107317-Fleetwood-Mac-Peter-Greens-Fleetwood-Mac) |
 | Label          | Music On Vinyl, Columbia |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP339 |
+
+Plain white poly-lined paper inner sleeve.  A Blue Horizon Production  Originally released ℗ & © 1968 Sony Music Entertainment. This release ℗ & © 2011 Sony Music Entertainment.  Made in the EU.  There's also a 2018 Music On Vinyl reissue on [blue vinyl](https://www.discogs.com/release/12732203).
 

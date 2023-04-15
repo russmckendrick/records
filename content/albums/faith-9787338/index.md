@@ -1,14 +1,17 @@
 ---
 title: "George Michael - Faith"
-album_artist: "George Michael"
-album_title: "Faith"
+artist: "George Michael"
+album_name: "Faith"
 date: 2020-08-01
 release_id: "9787338"
 slug: "faith-9787338"
+hideSummary: true
 cover:
     image: "faith-9787338.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Faith by George Michael"
+    caption: "Faith by George Michael"
+genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
+styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Fantasy](https://www.youtube.com/watch?v=rMgJA83j8BA)
 - [Hard Day (Shep Pettibone Remix Remastered)](https://www.youtube.com/watch?v=mxGYPYhLF6Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [George Michael - Faith](https://www.discogs.com/release/9787338) |
+| Release Year   | 1987 |
+| Discogs Link   | [George Michael - Faith](https://www.discogs.com/release/9787338-George-Michael-Faith) |
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | 460000 1 |
+
+Released with a printed card inner sleeve and separate paper credit insert. Photographs on both inserts.  Recorded at Sarm West and Puk Studios.  Track A3 is given as simply "I Want Your Sex" on the rear sleeve. It is given as "I Want Your Sex (Parts 1 & 2)" on the centre labels; and "I Want Your Sex (Monogamy Mix)"; "Rhythm 1 Lust" and "Rhythm 2 Brass In Love" on the credit inner.  All songs published by Morrison Leahy Music Ltd except "Look At Your Hands" published by Morrison Leahy Music Ltd / EMI Music Ltd.  [Labels]: ℗ 1987 CBS Records EPIC & Epic [logo] ® CBS Inc. Made in England.  [Rear sleeve]: EPIC and Epic [logo] ® CBS Inc. Distribution CBS Records CBS Disques S.A. © 1987 CBS Records Made in England.
 

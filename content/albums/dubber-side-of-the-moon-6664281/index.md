@@ -1,14 +1,17 @@
 ---
 title: "Easy Star All-Stars - Dubber Side Of The Moon"
-album_artist: "Easy Star All-Stars"
-album_title: "Dubber Side Of The Moon"
+artist: "Easy Star All-Stars"
+album_name: "Dubber Side Of The Moon"
 date: 2017-12-17
 release_id: "6664281"
 slug: "dubber-side-of-the-moon-6664281"
+hideSummary: true
 cover:
     image: "dubber-side-of-the-moon-6664281.jpg"
-tags: ["Electronic", "Reggae"]
-hideSummary: true
+    alt: "Dubber Side Of The Moon by Easy Star All-Stars"
+    caption: "Dubber Side Of The Moon by Easy Star All-Stars"
+genres: ["Electronic", "Reggae"]
+styles: ["Reggae", "Dub"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Easy Star All Stars - Money (The Alchemist Remix)](https://www.youtube.com/watch?v=azmdQp4MryE)
 - [Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)](https://www.youtube.com/watch?v=CD_SkZpc6J0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Easy Star All-Stars - Dubber Side Of The Moon](https://www.discogs.com/release/6664281) |
+| Release Year   | 2010 |
+| Discogs Link   | [Easy Star All-Stars - Dubber Side Of The Moon](https://www.discogs.com/release/6664281-Easy-Star-All-Stars-Dubber-Side-Of-The-Moon) |
 | Label          | Easy Star Records |
 | Format         | LP, Album, Lig |
 | Catalog Number | ES-1023V |
+
+Distributed By Broken Silence
 

@@ -1,14 +1,17 @@
 ---
 title: "Rush - Hold Your Fire"
-album_artist: "Rush"
-album_title: "Hold Your Fire"
+artist: "Rush"
+album_name: "Hold Your Fire"
 date: 2017-02-19
 release_id: "7897222"
 slug: "hold-your-fire-7897222"
+hideSummary: true
 cover:
     image: "hold-your-fire-7897222.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hold Your Fire by Rush"
+    caption: "Hold Your Fire by Rush"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Tai Shan (4:14)
 10. High Water (5:32)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Hold Your Fire](https://www.discogs.com/release/7897222) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Hold Your Fire](https://www.discogs.com/release/7897222-Rush-Hold-Your-Fire) |
 | Label          | Mercury, Anthem (5), Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547118295 |
+
+Lyrics sheet inserted with lyrics, credits on one side and photo/art (man juggling with fire) on other. Plastic-lined paper inner sleeve. Including a voucher to download an MP3 Vinyl rip of the album. Voucher also includes credits for reissue and DMM info. Direct Metal Mastering (DMM) technology used. Pressed on 180 g vinyl. 
 

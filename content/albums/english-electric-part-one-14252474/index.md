@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - English Electric Part One"
-album_artist: "Big Big Train"
-album_title: "English Electric Part One"
+artist: "Big Big Train"
+album_name: "English Electric Part One"
 date: 2019-10-11
 release_id: "14252474"
 slug: "english-electric-part-one-14252474"
+hideSummary: true
 cover:
     image: "english-electric-part-one-14252474.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "English Electric Part One by Big Big Train"
+    caption: "English Electric Part One by Big Big Train"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="czgRIvcnTeE" title="Big Big Train - English Electric Part 1 (2012) Full" >}}
 - [Big Big Train - Judas Unrepentant](https://www.youtube.com/watch?v=s4JeLGchO7s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Big Big Train - English Electric Part One](https://www.discogs.com/release/14252474) |
+| Release Year   | 2019 |
+| Discogs Link   | [Big Big Train - English Electric Part One](https://www.discogs.com/release/14252474-Big-Big-Train-English-Electric-Part-One) |
 | Label          | English Electric Recordings, Plane Groovy |
 | Format         | 2xLP, Album, Ltd, RE, Blu |
 | Catalog Number | 7426822210565, PLG078 |
+
+2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live). Including one sided credit sheet.  Gatefold sleeve
 

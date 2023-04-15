@@ -1,14 +1,17 @@
 ---
 title: "James - Pleased To Meet You"
-album_artist: "James"
-album_title: "Pleased To Meet You"
+artist: "James"
+album_name: "Pleased To Meet You"
 date: 2017-12-17
 release_id: "11277673"
 slug: "pleased-to-meet-you-11277673"
+hideSummary: true
 cover:
     image: "pleased-to-meet-you-11277673.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pleased To Meet You by James"
+    caption: "Pleased To Meet You by James"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [James - Falling Down (Later with Jools Holland 2001)](https://www.youtube.com/watch?v=4qnc93RdAqQ)
 - [James - Falling Down (Live VH1 Will Wanted 2001) [RARE!!]](https://www.youtube.com/watch?v=wAtjCVcc3pk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [James - Pleased To Meet You](https://www.discogs.com/release/11277673) |
+| Release Year   | 2017 |
+| Discogs Link   | [James - Pleased To Meet You](https://www.discogs.com/release/11277673-James-Pleased-To-Meet-You) |
 | Label          | Mercury, Fontana, UMC |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 5712915 |
+
+2017 EU 
 

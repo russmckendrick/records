@@ -1,14 +1,17 @@
 ---
 title: "Mew - And The Glass Handed Kites"
-album_artist: "Mew"
-album_title: "And The Glass Handed Kites"
+artist: "Mew"
+album_name: "And The Glass Handed Kites"
 date: 2020-10-23
 release_id: "15964207"
 slug: "and-the-glass-handed-kites-15964207"
+hideSummary: true
 cover:
     image: "and-the-glass-handed-kites-15964207.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "And The Glass Handed Kites by Mew"
+    caption: "And The Glass Handed Kites by Mew"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 {{< youtube id="zqt8-FJsdQU" title="Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)" >}}
 - [Mew - An envoy to the open fields](https://www.youtube.com/watch?v=PT9Du2wmcqk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Mew - And The Glass Handed Kites](https://www.discogs.com/release/15964207) |
+| Release Year   | 2020 |
+| Discogs Link   | [Mew - And The Glass Handed Kites](https://www.discogs.com/release/15964207-Mew-And-The-Glass-Handed-Kites) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, RSD, Ltd, Num, Bla |
 | Catalog Number | MOVLP2561 |
+
+15th anniversary expanded edition of 2500 copies  Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn  RSD 2020 drop 2 release
 

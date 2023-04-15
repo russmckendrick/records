@@ -1,14 +1,17 @@
 ---
 title: "Gavin Harrison - Sanity & Gravity"
-album_artist: "Gavin Harrison"
-album_title: "Sanity & Gravity"
+artist: "Gavin Harrison"
+album_name: "Sanity & Gravity"
 date: 2022-02-07
 release_id: "21992293"
 slug: "sanity-gravity-21992293"
+hideSummary: true
 cover:
     image: "sanity-gravity-21992293.jpg"
-tags: ["Electronic", "Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "Sanity & Gravity by Gavin Harrison"
+    caption: "Sanity & Gravity by Gavin Harrison"
+genres: ["Electronic", "Jazz", "Funk / Soul"]
+styles: ["Jazz-Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="suOkrGLngns" title="Gavin Harrison - Aim" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Gavin Harrison - Sanity & Gravity](https://www.discogs.com/release/21992293) |
+| Release Year   | 2022 |
+| Discogs Link   | [Gavin Harrison - Sanity & Gravity](https://www.discogs.com/release/21992293-Gavin-Harrison-Sanity-Gravity) |
 | Label          | Kscope |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | KSCOPE1133 |
+
+-25th anniversary LP reissue of Gavin Harrison's debut album.  -Remastered with an exclusive bonus track and new original artwork. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)"
-album_artist: "Michael McDonald"
-album_title: "Sweet Freedom (The Best Of Michael McDonald)"
+artist: "Michael McDonald"
+album_name: "Sweet Freedom (The Best Of Michael McDonald)"
 date: 2021-09-03
 release_id: "573351"
 slug: "sweet-freedom-the-best-of-michael-mcdonald-573351"
+hideSummary: true
 cover:
     image: "sweet-freedom-the-best-of-michael-mcdonald-573351.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald"
+    caption: "Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&B Pop](https://www.youtube.com/watch?v=dJe1iUuAW4M)
 - [Michael McDonald - Sweet Freedom (1986)](https://www.youtube.com/watch?v=O8-JPyVRkiE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)](https://www.discogs.com/release/573351) |
+| Release Year   | 1986 |
+| Discogs Link   | [Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)](https://www.discogs.com/release/573351-Michael-McDonald-Sweet-Freedom-The-Best-Of-Michael-McDonald) |
 | Label          | Warner Bros. Records, Warner Bros. Records |
 | Format         | LP, Comp, RM |
 | Catalog Number | 241 049-1, WX 67 |
+
+Manufactured in Germany has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it  Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144]
 

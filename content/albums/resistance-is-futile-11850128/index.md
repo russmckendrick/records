@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - Resistance Is Futile"
-album_artist: "Manic Street Preachers"
-album_title: "Resistance Is Futile"
+artist: "Manic Street Preachers"
+album_name: "Resistance Is Futile"
 date: 2018-04-13
 release_id: "11850128"
 slug: "resistance-is-futile-11850128"
+hideSummary: true
 cover:
     image: "resistance-is-futile-11850128.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Resistance Is Futile by Manic Street Preachers"
+    caption: "Resistance Is Futile by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Manic Street Preachers - Distant Colours (Official Video)](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
 - [Manic Street Preachers - International Blue (Official Video)](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Manic Street Preachers - Resistance Is Futile](https://www.discogs.com/release/11850128) |
+| Release Year   | 2018 |
+| Discogs Link   | [Manic Street Preachers - Resistance Is Futile](https://www.discogs.com/release/11850128-Manic-Street-Preachers-Resistance-Is-Futile) |
 | Label          | Columbia, Sony Music |
 | Format         | LP, Album, Ltd, Whi + CD, Album |
 | Catalog Number | 19075809911 |
+
+Includes the album on CD.  Made In The E.U. 
 

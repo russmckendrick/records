@@ -1,14 +1,17 @@
 ---
 title: "Various - Lost In Translation (Music From The Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Lost In Translation (Music From The Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Lost In Translation (Music From The Motion Picture Soundtrack)"
 date: 2019-04-17
 release_id: "13468045"
 slug: "lost-in-translation-music-from-the-motion-picture-soundtrack-13468045"
+hideSummary: true
 cover:
     image: "lost-in-translation-music-from-the-motion-picture-soundtrack-13468045.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Lost In Translation (Music From The Motion Picture Soundtrack) by Various"
+    caption: "Lost In Translation (Music From The Motion Picture Soundtrack) by Various"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)](https://www.youtube.com/watch?v=DP16_k3CWyg)
 - [Lost in Translation - Soundtrack - Full Album (2003)](https://www.youtube.com/watch?v=WETG07MZ8Mk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Lost In Translation (Music From The Motion Picture Soundtrack)](https://www.discogs.com/release/13468045) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Lost In Translation (Music From The Motion Picture Soundtrack)](https://www.discogs.com/release/13468045-Various-Lost-In-Translation-Music-From-The-Motion-Picture-Soundtrack) |
 | Label          | Emperor Norton |
 | Format         | LP, RSD, Comp, Ltd, RE, Vio |
 | Catalog Number | 603497854400 |
+
+Record Store Day 2019 exclusive pressed on translucent violet vinyl. Limited Edition of 8000 copies. Made in E.U.  Mastered At [l264302] is credited in liner notes. It refers to the original release from 2003 ([l264302] changed its name in 2010). Mastered At [l265641] is stamped in runout and refers to mastering for vinyl for this release.
 

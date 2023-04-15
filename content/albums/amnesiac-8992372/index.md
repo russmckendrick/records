@@ -1,14 +1,17 @@
 ---
 title: "Radiohead - Amnesiac"
-album_artist: "Radiohead"
-album_title: "Amnesiac"
+artist: "Radiohead"
+album_name: "Amnesiac"
 date: 2016-10-01
 release_id: "8992372"
 slug: "amnesiac-8992372"
+hideSummary: true
 cover:
     image: "amnesiac-8992372.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Amnesiac by Radiohead"
+    caption: "Amnesiac by Radiohead"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Like Spinning Plates
 11. Life In A Glasshouse
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Radiohead - Amnesiac](https://www.discogs.com/release/8992372) |
+| Release Year   | 2016 |
+| Discogs Link   | [Radiohead - Amnesiac](https://www.discogs.com/release/8992372-Radiohead-Amnesiac) |
 | Label          | XL Recordings |
 | Format         | 2x10\", Album, RE |
 | Catalog Number | XLLP783 |
+
+From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.  Including voucher with download code
 

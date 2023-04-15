@@ -1,14 +1,17 @@
 ---
 title: "Booker T & The MG's - Green Onions"
-album_artist: "Booker T & The MG's"
-album_title: "Green Onions"
+artist: "Booker T & The MG's"
+album_name: "Green Onions"
 date: 2017-05-12
 release_id: "7877126"
 slug: "green-onions-7877126"
+hideSummary: true
 cover:
     image: "green-onions-7877126.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Green Onions by Booker T & The MG's"
+    caption: "Green Onions by Booker T & The MG's"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul", "Funk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
 - [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126) |
+| Release Year   | 2015 |
+| Discogs Link   | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |
 | Label          | DOL |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | DOL1517H |
+
+
 

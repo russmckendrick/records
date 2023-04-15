@@ -1,14 +1,17 @@
 ---
 title: "Fleetwood Mac - Fleetwood Mac"
-album_artist: "Fleetwood Mac"
-album_title: "Fleetwood Mac"
+artist: "Fleetwood Mac"
+album_name: "Fleetwood Mac"
 date: 2019-12-02
 release_id: "14471238"
 slug: "fleetwood-mac-14471238"
+hideSummary: true
 cover:
     image: "fleetwood-mac-14471238.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fleetwood Mac by Fleetwood Mac"
+    caption: "Fleetwood Mac by Fleetwood Mac"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="pSMmTDddV3w" title="Fleetwood Mac   First Album with Stevie Nicks" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Fleetwood Mac - Fleetwood Mac](https://www.discogs.com/release/14471238) |
+| Release Year   | 2019 |
+| Discogs Link   | [Fleetwood Mac - Fleetwood Mac](https://www.discogs.com/release/14471238-Fleetwood-Mac-Fleetwood-Mac) |
 | Label          | Reprise Records, Reprise Records |
 | Format         | LP, Album, RE, Whi |
 | Catalog Number | RCV1 2281, 603497850501 |
+
+Reissue on white vinyl. ℗ & © 1975 Warner Records Inc. Made in the E.U.  The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].    .
 

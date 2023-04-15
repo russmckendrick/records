@@ -1,14 +1,17 @@
 ---
 title: "Mantronix - The Album"
-album_artist: "Mantronix"
-album_title: "The Album"
+artist: "Mantronix"
+album_name: "The Album"
 date: 2019-06-29
 release_id: "13704037"
 slug: "the-album-13704037"
+hideSummary: true
 cover:
     image: "the-album-13704037.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "The Album by Mantronix"
+    caption: "The Album by Mantronix"
+genres: ["Hip Hop"]
+styles: ["Electro"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Mantronix - Fresh Is The Word](https://www.youtube.com/watch?v=M2xKzGy93E8)
 - [Fresh Is The Word](https://www.youtube.com/watch?v=K0TMOqwF1mo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Mantronix - The Album](https://www.discogs.com/release/13704037) |
+| Release Year   | 2019 |
+| Discogs Link   | [Mantronix - The Album](https://www.discogs.com/release/13704037-Mantronix-The-Album) |
 | Label          | Demon Music Group, Sleeping Bag Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | DEMREC 364 |
+
+
 

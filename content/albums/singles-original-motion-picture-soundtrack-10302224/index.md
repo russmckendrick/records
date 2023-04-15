@@ -1,14 +1,17 @@
 ---
 title: "Various - Singles (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Singles (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Singles (Original Motion Picture Soundtrack)"
 date: 2017-05-19
 release_id: "10302224"
 slug: "singles-original-motion-picture-soundtrack-10302224"
+hideSummary: true
 cover:
     image: "singles-original-motion-picture-soundtrack-10302224.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Singles (Original Motion Picture Soundtrack) by Various"
+    caption: "Singles (Original Motion Picture Soundtrack) by Various"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -62,13 +65,16 @@ hideSummary: true
 - [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
 - [Smashing Pumpkins Drown](https://www.youtube.com/watch?v=N66Ki1iMMjY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Singles (Original Motion Picture Soundtrack)](https://www.discogs.com/release/10302224) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Singles (Original Motion Picture Soundtrack)](https://www.discogs.com/release/10302224-Various-Singles-Original-Motion-Picture-Soundtrack) |
 | Label          | Epic Soundtrax, Legacy, Vinyl Films, Sony Music |
 | Format         | 2xLP, RE, Gat + CD + Comp, Dlx, 25t |
 | Catalog Number | 88985315511 |
+
+Gatefold sleeve. Includes mp3 download card. CD issued in cardboard sleeve.  Made in the EU. (on labels and back sleeve)  Sony Music logo on back of gatefold sleeve.  Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)"
 

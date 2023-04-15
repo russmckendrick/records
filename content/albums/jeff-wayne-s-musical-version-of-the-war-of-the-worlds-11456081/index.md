@@ -1,14 +1,17 @@
 ---
 title: "Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds"
-album_artist: "Jeff Wayne"
-album_title: "Jeff Wayne's Musical Version Of The War Of The Worlds"
+artist: "Jeff Wayne"
+album_name: "Jeff Wayne's Musical Version Of The War Of The Worlds"
 date: 2018-01-26
 release_id: "11456081"
 slug: "jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081"
+hideSummary: true
 cover:
     image: "jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081.jpg"
-tags: ["Electronic", "Rock", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Jeff Wayne's Musical Version Of The War Of The Worlds by Jeff Wayne"
+    caption: "Jeff Wayne's Musical Version Of The War Of The Worlds by Jeff Wayne"
+genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
+styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Jeff Wayne - The Eve of the War (Official Audio) ft. Richard Burton, Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
 - [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds](https://www.discogs.com/release/11456081) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds](https://www.discogs.com/release/11456081-Jeff-Wayne-Jeff-Waynes-Musical-Version-Of-The-War-Of-The-Worlds) |
 | Label          | Sony Music |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | 88985449431 |
+
+Includes full colour 16-page booklet. ℗ 2005 & © 2017 Made in the EU
 

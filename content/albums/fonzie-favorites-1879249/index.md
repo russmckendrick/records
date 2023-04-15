@@ -1,14 +1,17 @@
 ---
 title: "Various - Fonzie Favorites"
-album_artist: "Various"
-album_title: "Fonzie Favorites"
+artist: "Various"
+album_name: "Fonzie Favorites"
 date: 2020-08-02
 release_id: "1879249"
 slug: "fonzie-favorites-1879249"
+hideSummary: true
 cover:
     image: "fonzie-favorites-1879249.jpg"
-tags: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Fonzie Favorites by Various"
+    caption: "Fonzie Favorites by Various"
+genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
+styles: ["Rock & Roll", "Ballad", "Theme"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [The Skyliners - Since I Don't Have You](https://www.youtube.com/watch?v=ngZh6ZSRoYg)
 - [Ya Ya](https://www.youtube.com/watch?v=NcwD7kh28M0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Various - Fonzie Favorites](https://www.discogs.com/release/1879249) |
+| Release Year   | 1976 |
+| Discogs Link   | [Various - Fonzie Favorites](https://www.discogs.com/release/1879249-Various-Fonzie-Favorites) |
 | Label          | Warwick Records, Warwick Records |
 | Format         | LP, Album, Comp |
 | Catalog Number | WW5037, WW 5037 |
+
+The last track on Side One is an "impressionist" track containing the expressions Aaaaay, Cool, Nerd, Sit on it! Listen and learn to use Fonzie's favorite phrases perfectly!  Cat. no WW5037 on sleeve, WW 5037 on labels.  Novelty cover: back is die cut to open up like a picture frame stand.  Front cover photo credit - TRI-ADS/Sid Brawer © 1976 Paramount Pictures © 1976 Tri-Ads
 

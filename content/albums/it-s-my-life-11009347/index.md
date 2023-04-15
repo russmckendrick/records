@@ -1,14 +1,17 @@
 ---
 title: "Talk Talk - It's My Life"
-album_artist: "Talk Talk"
-album_title: "It's My Life"
+artist: "Talk Talk"
+album_name: "It's My Life"
 date: 2017-11-04
 release_id: "11009347"
 slug: "it-s-my-life-11009347"
+hideSummary: true
 cover:
     image: "it-s-my-life-11009347.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "It's My Life by Talk Talk"
+    caption: "It's My Life by Talk Talk"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Does Caroline Know? (1997 Remaster)](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
 - [It's You (1997 Remaster)](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Talk Talk - It's My Life](https://www.discogs.com/release/11009347) |
+| Release Year   | 2017 |
+| Discogs Link   | [Talk Talk - It's My Life](https://www.discogs.com/release/11009347-Talk-Talk-Its-My-Life) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE |
 | Catalog Number | 0190295792619 |
+
+Inner sleeve in glossy paper.  Published by: Universal/Island Music Ltd. except: A1/A4: Universal/Island Music Ltd./Imagem London Ltd. B2: Universal/Island Music Ltd./DWB Music Ltd.
 

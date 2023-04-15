@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - Your Wilderness"
-album_artist: "The Pineapple Thief"
-album_title: "Your Wilderness"
+artist: "The Pineapple Thief"
+album_name: "Your Wilderness"
 date: 2016-08-19
 release_id: "8925684"
 slug: "your-wilderness-8925684"
+hideSummary: true
 cover:
     image: "your-wilderness-8925684.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Your Wilderness by The Pineapple Thief"
+    caption: "Your Wilderness by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Pineapple Thief - The Final Thing On My Mind](https://www.youtube.com/watch?v=Xnx_qgvH8xk)
 - [The Pineapple Thief - Where We Stood](https://www.youtube.com/watch?v=M8C3w2GvJSk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Pineapple Thief - Your Wilderness](https://www.discogs.com/release/8925684) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Pineapple Thief - Your Wilderness](https://www.discogs.com/release/8925684-The-Pineapple-Thief-Your-Wilderness) |
 | Label          | Kscope |
 | Format         | LP, Album, 180 |
 | Catalog Number | KSCOPE921 |
+
+Made in Germany Download code and inner laminated booklet included.
 

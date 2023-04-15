@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Hello!"
-album_artist: "Status Quo"
-album_title: "Hello!"
+artist: "Status Quo"
+album_name: "Hello!"
 date: 2016-05-23
 release_id: "7578510"
 slug: "hello-7578510"
+hideSummary: true
 cover:
     image: "hello-7578510.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hello! by Status Quo"
+    caption: "Hello! by Status Quo"
+genres: ["Rock"]
+styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Status Quo - Claudie - HQ](https://www.youtube.com/watch?v=lQx7oYg445A)
 - [Status Quo - Caroline](https://www.youtube.com/watch?v=KAM6eeEKrxQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Hello!](https://www.discogs.com/release/7578510) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Hello!](https://www.discogs.com/release/7578510-Status-Quo-Hello) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723763 |
+
+
 

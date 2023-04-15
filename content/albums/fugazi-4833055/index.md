@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Fugazi"
-album_artist: "Marillion"
-album_title: "Fugazi"
+artist: "Marillion"
+album_name: "Fugazi"
 date: 2017-01-25
 release_id: "4833055"
 slug: "fugazi-4833055"
+hideSummary: true
 cover:
     image: "fugazi-4833055.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fugazi by Marillion"
+    caption: "Fugazi by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Qp8P1qxEdmE" title="Marillion - She Chameleon (Fugazi) (European CD Reissue)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Marillion - Fugazi](https://www.discogs.com/release/4833055) |
+| Release Year   | 1984 |
+| Discogs Link   | [Marillion - Fugazi](https://www.discogs.com/release/4833055-Marillion-Fugazi) |
 | Label          | EMI |
 | Format         | LP, Album |
 | Catalog Number | EMC 2400851 |
+
+Recorded November - December 1983, January - February 1984 at Manor Studio, Sarm East, Eel Pie and Maison Rouge Studios.  The sleeve and label are misprinted and list the tracks shown the tracklisting section below.  The record actually has: B1 - Incubus  B2 - She Chameleon  Gatefold full laminated sleeve with lyrics. Original Inner sleeve is Black  This version has the black text on the back in the top rght corner for the cassette catalogue number. EMI RECORDS LTD text is printed in white.  Centre labels are black with silver text. There is no EMI logo.
 

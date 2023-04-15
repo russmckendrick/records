@@ -1,14 +1,17 @@
 ---
 title: "Sigur Rós - Von"
-album_artist: "Sigur Rós"
-album_title: "Von"
+artist: "Sigur Rós"
+album_name: "Von"
 date: 2019-01-04
 release_id: "6655456"
 slug: "von-6655456"
+hideSummary: true
 cover:
     image: "von-6655456.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Von by Sigur Rós"
+    caption: "Von by Sigur Rós"
+genres: ["Electronic", "Rock"]
+styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von [Full Album Stream]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Sigur Rós - Von](https://www.discogs.com/release/6655456) |
+| Release Year   | 2015 |
+| Discogs Link   | [Sigur Rós - Von](https://www.discogs.com/release/6655456-Sigur-R%C3%B3s-Von) |
 | Label          | XL Recordings |
 | Format         | 2xLP, Album, RE, 180 + CD, Album, RE |
 | Catalog Number | XLLP609 |
+
+Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.  Violet PVC outer sleeve & printed inner sleeves. Track D2 ends in a locked groove.
 

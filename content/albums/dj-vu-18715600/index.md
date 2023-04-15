@@ -1,14 +1,17 @@
 ---
 title: "Crosby, Stills, Nash & Young - Déjà Vu"
-album_artist: "Crosby, Stills, Nash & Young"
-album_title: "Déjà Vu"
+artist: "Crosby, Stills, Nash & Young"
+album_name: "Déjà Vu"
 date: 2021-05-14
 release_id: "18715600"
 slug: "dj-vu-18715600"
+hideSummary: true
 cover:
     image: "dj-vu-18715600.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Déjà Vu by Crosby, Stills, Nash & Young"
+    caption: "Déjà Vu by Crosby, Stills, Nash & Young"
+genres: ["Rock"]
+styles: ["Folk Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -102,13 +105,16 @@ hideSummary: true
 - [Triad (Demo) (2021 Remaster)](https://www.youtube.com/watch?v=weuAjAmZD60)
 - [Teach Your Children (2021 Remaster)](https://www.youtube.com/watch?v=ZT6mclMGtVA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Crosby, Stills, Nash & Young - Déjà Vu](https://www.discogs.com/release/18715600) |
+| Release Year   | 2021 |
+| Discogs Link   | [Crosby, Stills, Nash & Young - Déjà Vu](https://www.discogs.com/release/18715600-Crosby-Stills-Nash-Young-D%C3%A9j%C3%A0-Vu) |
 | Label          | Atlantic, Rhino Records (2) |
 | Format         | LP, Album, RE, RM + CD, Album, RE, RM + 3xCD + Box |
 | Catalog Number | 603497848027, R2 625238 |
+
+Hype sticker: "The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."  Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein"  on backcover: Made In Germany
 

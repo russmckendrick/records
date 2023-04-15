@@ -1,14 +1,17 @@
 ---
 title: "Sons Of Kemet - Black To The Future"
-album_artist: "Sons Of Kemet"
-album_title: "Black To The Future"
+artist: "Sons Of Kemet"
+album_name: "Black To The Future"
 date: 2021-12-15
 release_id: "18665626"
 slug: "black-to-the-future-18665626"
+hideSummary: true
 cover:
     image: "black-to-the-future-18665626.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Black To The Future by Sons Of Kemet"
+    caption: "Black To The Future by Sons Of Kemet"
+genres: ["Jazz"]
+styles: ["Afrobeat", "Fusion"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Throughout The Madness, Stay Strong](https://www.youtube.com/watch?v=fH4baTgOALo)
 - [Black](https://www.youtube.com/watch?v=d6CADUV0QB0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626) |
+| Release Year   | 2021 |
+| Discogs Link   | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626-Sons-Of-Kemet-Black-To-The-Future) |
 | Label          | Impulse! |
 | Format         | 2xLP, Album |
 | Catalog Number | 00602435621661 |
+
+Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts.
 

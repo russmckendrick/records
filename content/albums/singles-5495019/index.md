@@ -1,14 +1,17 @@
 ---
 title: "Future Islands - Singles"
-album_artist: "Future Islands"
-album_title: "Singles"
+artist: "Future Islands"
+album_name: "Singles"
 date: 2017-04-14
 release_id: "5495019"
 slug: "singles-5495019"
+hideSummary: true
 cover:
     image: "singles-5495019.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Singles by Future Islands"
+    caption: "Singles by Future Islands"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Doves](https://www.youtube.com/watch?v=In4JkFZy7jI)
 - [Future Islands - Spirit](https://www.youtube.com/watch?v=PeuCCJ9qQ-k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Future Islands - Singles](https://www.discogs.com/release/5495019) |
+| Release Year   | 2014 |
+| Discogs Link   | [Future Islands - Singles](https://www.discogs.com/release/5495019-Future-Islands-Singles) |
 | Label          | 4AD |
 | Format         | LP, Album |
 | Catalog Number | CAD 3402 |
+
+Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.  ℗ & © 2014 4AD All songs © 2014 Ideas for Housecrafts (ASCAP).  Recorded August 2013 at Dreamland Recording Studios in Hurley, NY. Additional tracking and mixing at DNA Studios in New York, NY.  Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.  Runouts are etched except "STERLING" which is stamped.
 

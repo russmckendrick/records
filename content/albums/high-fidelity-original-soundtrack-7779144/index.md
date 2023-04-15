@@ -1,14 +1,17 @@
 ---
 title: "Various - High Fidelity (Original Soundtrack)"
-album_artist: "Various"
-album_title: "High Fidelity (Original Soundtrack)"
+artist: "Various"
+album_name: "High Fidelity (Original Soundtrack)"
 date: 2016-02-29
 release_id: "7779144"
 slug: "high-fidelity-original-soundtrack-7779144"
+hideSummary: true
 cover:
     image: "high-fidelity-original-soundtrack-7779144.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "High Fidelity (Original Soundtrack) by Various"
+    caption: "High Fidelity (Original Soundtrack) by Various"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [High Fidelity Original Soundtracks - Who Loves The Sun](https://www.youtube.com/watch?v=u9eXAJhXrhg)
 - [High Fidelity Original Soundtracks - Always See Your Face](https://www.youtube.com/watch?v=0vMsKQ2ti50)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Various - High Fidelity (Original Soundtrack)](https://www.discogs.com/release/7779144) |
+| Release Year   | 2015 |
+| Discogs Link   | [Various - High Fidelity (Original Soundtrack)](https://www.discogs.com/release/7779144-Various-High-Fidelity-Original-Soundtrack) |
 | Label          | Hollywood Records |
 | Format         | 2xLP, RSD, Comp, Num, RE, Ora |
 | Catalog Number | D002176001 |
+
+"Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015  Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.   
 

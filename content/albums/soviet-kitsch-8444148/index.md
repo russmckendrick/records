@@ -1,14 +1,17 @@
 ---
 title: "Regina Spektor - Soviet Kitsch"
-album_artist: "Regina Spektor"
-album_title: "Soviet Kitsch"
+artist: "Regina Spektor"
+album_name: "Soviet Kitsch"
 date: 2017-06-08
 release_id: "8444148"
 slug: "soviet-kitsch-8444148"
+hideSummary: true
 cover:
     image: "soviet-kitsch-8444148.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Soviet Kitsch by Regina Spektor"
+    caption: "Soviet Kitsch by Regina Spektor"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)
 - [Regina Spektor - Sailor Song](https://www.youtube.com/watch?v=Uro9hjHSsiw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Regina Spektor - Soviet Kitsch](https://www.discogs.com/release/8444148) |
+| Release Year   | 2016 |
+| Discogs Link   | [Regina Spektor - Soviet Kitsch](https://www.discogs.com/release/8444148-Regina-Spektor-Soviet-Kitsch) |
 | Label          | Sire, Sire, Sire |
 | Format         | LP, Album, RSD, Ltd, RE, Red + 7\", Single, Ltd, La |
 | Catalog Number | 9362-49267-9, 549811-1, PRO-S-553971 |
+
+℗ 2004, 2005 Sire Records for the US  and WEA International Inc. © 2005 Sire Records for the US  and WEA International Inc. Manufactured in E.U. Comes with double-printed lyric sheet.  LP: © 2005 Sire Records ℗ 2004, 2005 Sire Records. Manufactured in The Netherlands. 7": © ℗ 2016 Sire Records. Manufactured in The Netherlands. Has a large ("dinked") center hole  A Record Store Day 2016 release. Limited to 3,000 copies. 
 

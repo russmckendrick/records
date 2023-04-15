@@ -1,14 +1,17 @@
 ---
 title: "Skin (4) - Skin"
-album_artist: "Skin (4)"
-album_title: "Skin"
+artist: "Skin (4)"
+album_name: "Skin"
 date: 2018-12-17
 release_id: "3142113"
 slug: "skin-3142113"
+hideSummary: true
 cover:
     image: "skin-3142113.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Skin by Skin (4)"
+    caption: "Skin by Skin (4)"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}
 - [SKIN - Shine Your Light (1993)](https://www.youtube.com/watch?v=jkBX8h5P0No)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Skin (4) - Skin](https://www.discogs.com/release/3142113) |
+| Release Year   | 1994 |
+| Discogs Link   | [Skin (4) - Skin](https://www.discogs.com/release/3142113-Skin-Skin) |
 | Label          | Parlophone, Parlophone |
 | Format         | LP, Album |
 | Catalog Number | 7243 8 28869 1 4, PCSD 151 |
+
+Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box
 

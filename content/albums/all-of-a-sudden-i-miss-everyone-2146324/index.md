@@ -1,14 +1,17 @@
 ---
 title: "Explosions In The Sky - All Of A Sudden I Miss Everyone"
-album_artist: "Explosions In The Sky"
-album_title: "All Of A Sudden I Miss Everyone"
+artist: "Explosions In The Sky"
+album_name: "All Of A Sudden I Miss Everyone"
 date: 2016-08-18
 release_id: "2146324"
 slug: "all-of-a-sudden-i-miss-everyone-2146324"
+hideSummary: true
 cover:
     image: "all-of-a-sudden-i-miss-everyone-2146324.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "All Of A Sudden I Miss Everyone by Explosions In The Sky"
+    caption: "All Of A Sudden I Miss Everyone by Explosions In The Sky"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock", "Ambient"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Explosions in the Sky | All Of A Sudden I Miss EveryOne | It's Natural To Be Afraid](https://www.youtube.com/watch?v=NcFCUeYBcjs)
 - [Explosions in the Sky - The Birth and Death of the Day](https://www.youtube.com/watch?v=TnTCwg7-UKg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2007 |
-| Discogs Link   | [Explosions In The Sky - All Of A Sudden I Miss Everyone](https://www.discogs.com/release/2146324) |
+| Release Year   | 2007 |
+| Discogs Link   | [Explosions In The Sky - All Of A Sudden I Miss Everyone](https://www.discogs.com/release/2146324-Explosions-In-The-Sky-All-Of-A-Sudden-I-Miss-Everyone) |
 | Label          | Temporary Residence Limited |
 | Format         | LP + LP, S/Sided, Etch + Album |
 | Catalog Number | trr 99 |
+
+Recorded in Minnesota, August 2006.  Side D is an etched picture similar to the cover artwork. Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker.  Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical. 
 

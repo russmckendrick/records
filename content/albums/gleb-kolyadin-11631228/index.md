@@ -1,14 +1,17 @@
 ---
 title: "Gleb Kolyadin - Gleb Kolyadin"
-album_artist: "Gleb Kolyadin"
-album_title: "Gleb Kolyadin"
+artist: "Gleb Kolyadin"
+album_name: "Gleb Kolyadin"
 date: 2018-03-04
 release_id: "11631228"
 slug: "gleb-kolyadin-11631228"
+hideSummary: true
 cover:
     image: "gleb-kolyadin-11631228.jpg"
-tags: ["Jazz", "Rock"]
-hideSummary: true
+    alt: "Gleb Kolyadin by Gleb Kolyadin"
+    caption: "Gleb Kolyadin by Gleb Kolyadin"
+genres: ["Jazz", "Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
 - [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gleb Kolyadin - Gleb Kolyadin](https://www.discogs.com/release/11631228) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gleb Kolyadin - Gleb Kolyadin](https://www.discogs.com/release/11631228-Gleb-Kolyadin-Gleb-Kolyadin) |
 | Label          | Kscope |
 | Format         | LP, Album, 180 |
 | Catalog Number | KSCOPE973 |
+
+Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.  Ⓟ 2018 Kscope Ⓒ 2018 Kscope  Made in the EU.
 

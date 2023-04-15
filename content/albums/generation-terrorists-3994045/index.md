@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - Generation Terrorists"
-album_artist: "Manic Street Preachers"
-album_title: "Generation Terrorists"
+artist: "Manic Street Preachers"
+album_name: "Generation Terrorists"
 date: 2018-11-05
 release_id: "3994045"
 slug: "generation-terrorists-3994045"
+hideSummary: true
 cover:
     image: "generation-terrorists-3994045.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Generation Terrorists by Manic Street Preachers"
+    caption: "Generation Terrorists by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Manic Street Preachers - Slash 'N' Burn (Video)](https://www.youtube.com/watch?v=b8a1WEjLqUw)
 - [Manic Street Preachers - Love's Sweet Exile](https://www.youtube.com/watch?v=hQS1czT0Egg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Manic Street Preachers - Generation Terrorists](https://www.discogs.com/release/3994045) |
+| Release Year   | 2012 |
+| Discogs Link   | [Manic Street Preachers - Generation Terrorists](https://www.discogs.com/release/3994045-Manic-Street-Preachers-Generation-Terrorists) |
 | Label          | Columbia, Sony Music |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | 88725471251 |
+
+20th Anniversary Legacy Edition   Comes with a 16 page 29x29 cm booklet.  Made in the EU.   * This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)".
 

@@ -1,14 +1,17 @@
 ---
 title: "The Platters - The Platters"
-album_artist: "The Platters"
-album_title: "The Platters"
+artist: "The Platters"
+album_name: "The Platters"
 date: 2020-08-02
 release_id: "5675912"
 slug: "the-platters-5675912"
+hideSummary: true
 cover:
     image: "the-platters-5675912.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Platters by The Platters"
+    caption: "The Platters by The Platters"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Platters - My Prayer](https://www.youtube.com/watch?v=FTqoTZ3lPsA)
 - [The Platters & Tony Williams - Bewitched, Bothered And Bewildered (VintageMusic.es)](https://www.youtube.com/watch?v=2YWAPun86Eg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1956 |
-| Discogs Link   | [The Platters - The Platters](https://www.discogs.com/release/5675912) |
+| Release Year   | 1956 |
+| Discogs Link   | [The Platters - The Platters](https://www.discogs.com/release/5675912-Platters-The-Platters) |
 | Label          | Mercury |
 | Format         | LP |
 | Catalog Number | MPL 6504 |
+
+ Turquoise Blue Label printed on rear of sleeve. Distributed by Pye Records Ltd.
 

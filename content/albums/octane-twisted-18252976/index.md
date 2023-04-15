@@ -1,14 +1,17 @@
 ---
 title: "Porcupine Tree - Octane Twisted"
-album_artist: "Porcupine Tree"
-album_title: "Octane Twisted"
+artist: "Porcupine Tree"
+album_name: "Octane Twisted"
 date: 2021-04-16
 release_id: "18252976"
 slug: "octane-twisted-18252976"
+hideSummary: true
 cover:
     image: "octane-twisted-18252976.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Octane Twisted by Porcupine Tree"
+    caption: "Octane Twisted by Porcupine Tree"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -38,16 +41,17 @@ hideSummary: true
 24. Dislocated Day
 25. Arriving Somewhere But Not Here
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Porcupine Tree - Octane Twisted](https://www.discogs.com/release/18252976) |
+| Release Year   | 2021 |
+| Discogs Link   | [Porcupine Tree - Octane Twisted](https://www.discogs.com/release/18252976-Porcupine-Tree-Octane-Twisted) |
 | Label          | Transmission Recordings, Transmission Recordings |
 | Format         | Box, Album, RE + 3xLP + LP, S/Sided, Etch |
 | Catalog Number | TRANSM132LBX, Transmission 13.2 |
+
+4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane  Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010   ℗ 2012 Porcupine Tree © 2012 Porcupine Tree Made in the EU
 

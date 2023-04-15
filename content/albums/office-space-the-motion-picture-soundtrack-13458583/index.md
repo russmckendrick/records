@@ -1,14 +1,17 @@
 ---
 title: "Various - Office Space (The Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "Office Space (The Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Office Space (The Motion Picture Soundtrack)"
 date: 2019-04-13
 release_id: "13458583"
 slug: "office-space-the-motion-picture-soundtrack-13458583"
+hideSummary: true
 cover:
     image: "office-space-the-motion-picture-soundtrack-13458583.jpg"
-tags: ["Hip Hop", "Latin", "Stage & Screen"]
-hideSummary: true
+    alt: "Office Space (The Motion Picture Soundtrack) by Various"
+    caption: "Office Space (The Motion Picture Soundtrack) by Various"
+genres: ["Hip Hop", "Latin", "Stage & Screen"]
+styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
 - [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |
 | Label          | Interscope Records |
 | Format         | LP, RSD, Comp, Ltd, Red |
 | Catalog Number | B0029333-01 |
+
+Stapler red, Record Store Day release limited to 2,500. 
 

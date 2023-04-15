@@ -1,14 +1,17 @@
 ---
 title: "Various - Almost Famous (Music From The Motion Picture)"
-album_artist: "Various"
-album_title: "Almost Famous (Music From The Motion Picture)"
+artist: "Various"
+album_name: "Almost Famous (Music From The Motion Picture)"
 date: 2022-03-29
 release_id: "19945918"
 slug: "almost-famous-music-from-the-motion-picture-19945918"
+hideSummary: true
 cover:
     image: "almost-famous-music-from-the-motion-picture-19945918.jpg"
-tags: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
-hideSummary: true
+    alt: "Almost Famous (Music From The Motion Picture) by Various"
+    caption: "Almost Famous (Music From The Motion Picture) by Various"
+genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
+styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", "Hard Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -89,13 +92,16 @@ hideSummary: true
 - [I've Seen all Good People(studio)](https://www.youtube.com/watch?v=uJM7TdshUbw)
 - [Yes - Roundabout (Original 1971)](https://www.youtube.com/watch?v=QOrrNM4md8c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Various - Almost Famous (Music From The Motion Picture)](https://www.discogs.com/release/19945918) |
+| Release Year   | 2021 |
+| Discogs Link   | [Various - Almost Famous (Music From The Motion Picture)](https://www.discogs.com/release/19945918-Various-Almost-Famous-Music-From-The-Motion-Picture) |
 | Label          | Geffen Records |
 | Format         | Box, Dlx, Sup + 6xLP, Comp, 180 |
 | Catalog Number | B0033289-01 |
+
+Album sleeves are the same as the colored version, with the same catalog number showing. Nothing visible to denote it is the regular version other than the barcode.  Boxed set contains: 6 LPs in three gatefold jackets, inner sleeves are white with plastic lining 20" x 24" Stillwater poster William's high school notebook / binder, hard bound with cloth cover.  Two reproduction Ticketron concert tickets - Cleveland Music Hall (-Stillwater- plus special guests) and San Diego Sports Arena (-Black Sabbath- with Sillwater) 12 Page Rolling Stone newsprint 40 Page booklet bound within binder: Unreleased photos and stories, memories and dedications from Cameron Crowe, cast members, Nancy Wilson and crew   Lacquer cutting credit and company derived from runout JJ GOLDEN. Runouts are a mix of etched and stamped, first half of string is etched, remainder of string starting with GOLDEN is stamped. 
 

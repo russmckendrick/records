@@ -1,14 +1,17 @@
 ---
 title: "Ash - Nu-Clear Sounds"
-album_artist: "Ash"
-album_title: "Nu-Clear Sounds"
+artist: "Ash"
+album_name: "Nu-Clear Sounds"
 date: 2023-03-01
 release_id: "26207951"
 slug: "nu-clear-sounds-26207951"
+hideSummary: true
 cover:
     image: "nu-clear-sounds-26207951.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nu-Clear Sounds by Ash"
+    caption: "Nu-Clear Sounds by Ash"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Fortune Teller
 11. I'm Gonna Fall
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Ash - Nu-Clear Sounds](https://www.discogs.com/release/26207951) |
+| Release Year   | 2023 |
+| Discogs Link   | [Ash - Nu-Clear Sounds](https://www.discogs.com/release/26207951-Ash-Nu-Clear-Sounds) |
 | Label          | BMG |
 | Format         | LP, Album, RE, RM, Cle |
 | Catalog Number | BMGCAT759CLP |
+
+Gatefold sleeve containing band photos, tracklist and credits. Record is housed in a matte full-colour innersleeve with songtexts on one side.  Tracks are numbered as exactly as on [r=649223]  Recorded at Rockfield, Wales and Astoria, London - Spring & Summer 1998.  Strings recorded at Metropolis.   Management by Tav and Pat  Manufactured in Czech Republic
 

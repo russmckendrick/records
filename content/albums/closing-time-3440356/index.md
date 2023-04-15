@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - Closing Time"
-album_artist: "Tom Waits"
-album_title: "Closing Time"
+artist: "Tom Waits"
+album_name: "Closing Time"
 date: 2015-08-09
 release_id: "3440356"
 slug: "closing-time-3440356"
+hideSummary: true
 cover:
     image: "closing-time-3440356.jpg"
-tags: ["Jazz", "Rock", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Closing Time by Tom Waits"
+    caption: "Closing Time by Tom Waits"
+genres: ["Jazz", "Rock", "Blues", "Folk, World, & Country"]
+styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Tom Waits - Grapefruit Moon](https://www.youtube.com/watch?v=7bpZjkjo3Tw)
 - [Tom Waits - Closing Time](https://www.youtube.com/watch?v=mKFCp9P0cFc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Tom Waits - Closing Time](https://www.discogs.com/release/3440356) |
+| Release Year   | 2010 |
+| Discogs Link   | [Tom Waits - Closing Time](https://www.discogs.com/release/3440356-Tom-Waits-Closing-Time) |
 | Label          | Asylum Records, Rhino Vinyl, Rhino Records (2) |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 8122-79807-1, 8122 79807 1 |
+
+On back cover: This production committed to Asylum by Herb Cohen  On sticker: LPs cut from the original analog masters  Packages replicated to the finest detail  Manufactured with more care than ever  Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package. 
 

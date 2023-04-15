@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - The Complete Singles"
-album_artist: "Inspiral Carpets"
-album_title: "The Complete Singles"
+artist: "Inspiral Carpets"
+album_name: "The Complete Singles"
 date: 2023-03-20
 release_id: "26454110"
 slug: "the-complete-singles-26454110"
+hideSummary: true
 cover:
     image: "the-complete-singles-26454110.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Complete Singles by Inspiral Carpets"
+    caption: "The Complete Singles by Inspiral Carpets"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -64,13 +67,16 @@ hideSummary: true
 - [Spitfire (2023 Remaster)](https://www.youtube.com/watch?v=xgrVxrWhCdw)
 - [Let You Down (Edit) (2023 Remaster)](https://www.youtube.com/watch?v=6m33S82yYAM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110) |
+| Release Year   | 2023 |
+| Discogs Link   | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110-Inspiral-Carpets-The-Complete-Singles) |
 | Label          | Mute, BMG |
 | Format         | 2xLP, Comp, Ltd, RM |
 | Catalog Number | dung36lpx, 4050538867718 |
+
+"Midnight Licorice" colour double vinyl [ie: black!]  Manufactured in Poland
 

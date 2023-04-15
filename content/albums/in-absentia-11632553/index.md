@@ -1,14 +1,17 @@
 ---
 title: "Porcupine Tree - In Absentia"
-album_artist: "Porcupine Tree"
-album_title: "In Absentia"
+artist: "Porcupine Tree"
+album_name: "In Absentia"
 date: 2018-03-12
 release_id: "11632553"
 slug: "in-absentia-11632553"
+hideSummary: true
 cover:
     image: "in-absentia-11632553.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In Absentia by Porcupine Tree"
+    caption: "In Absentia by Porcupine Tree"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Futile [Remastered]](https://www.youtube.com/watch?v=YN-N_YSXhcg)
 - [Meantime [Remastered]](https://www.youtube.com/watch?v=JNmaWGOnJz0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553) |
+| Release Year   | 2018 |
+| Discogs Link   | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553-Porcupine-Tree-In-Absentia) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd, RE, RM, Whi |
 | Catalog Number | KSCOPE981 |
+
+[Liner Notes] "Remastered by Steven Wilson in November 2017." "The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "  Gatefold cover with printed inner sleeves. 
 

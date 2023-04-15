@@ -1,14 +1,17 @@
 ---
 title: "Father John Misty - God's Favorite Customer"
-album_artist: "Father John Misty"
-album_title: "God's Favorite Customer"
+artist: "Father John Misty"
+album_name: "God's Favorite Customer"
 date: 2018-06-09
 release_id: "12075275"
 slug: "god-s-favorite-customer-12075275"
+hideSummary: true
 cover:
     image: "god-s-favorite-customer-12075275.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "God's Favorite Customer by Father John Misty"
+    caption: "God's Favorite Customer by Father John Misty"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Father John Misty - Mr. Tillman [Official Music Video]](https://www.youtube.com/watch?v=j5B5IGqyy2s)
 - [Father John Misty - Mr. Tillman [Official Audio]](https://www.youtube.com/watch?v=n38R1JTEAPo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Father John Misty - God's Favorite Customer](https://www.discogs.com/release/12075275) |
+| Release Year   | 2018 |
+| Discogs Link   | [Father John Misty - God's Favorite Customer](https://www.discogs.com/release/12075275-Father-John-Misty-Gods-Favorite-Customer) |
 | Label          | Bella Union, Bella Union |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | BELLA770RT, BELLA770V |
+
+Rough Trade Exclusive: Neon Orange. Limited to 1000 copies.   Test pressing labels with track numbering on sequential to 1 through 10.  Sticker with download information stuck on inner sleeve.  BELLA770RT on barcode sticker. BELLA770V on spine
 

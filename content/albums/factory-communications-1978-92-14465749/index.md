@@ -1,14 +1,17 @@
 ---
 title: "Various - Factory Communications 1978-92"
-album_artist: "Various"
-album_title: "Factory Communications 1978-92"
+artist: "Various"
+album_name: "Factory Communications 1978-92"
 date: 2020-06-17
 release_id: "14465749"
 slug: "factory-communications-1978-92-14465749"
+hideSummary: true
 cover:
     image: "factory-communications-1978-92-14465749.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Factory Communications 1978-92 by Various"
+    caption: "Factory Communications 1978-92 by Various"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -115,13 +118,16 @@ hideSummary: true
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
 - [Various ‎– Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Factory Communications 1978-92](https://www.discogs.com/release/14465749) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Factory Communications 1978-92](https://www.discogs.com/release/14465749-Various-Factory-Communications-1978-92) |
 | Label          | Warner Music |
 | Format         | 8xLP, RE, 180 + Box, Comp |
 | Catalog Number | 0190295663841 |
+
+Housed in a cardboard box with 40 page booklet. Cat. # printed on all labels.  Track A5: The version used here is the 12" version FACUS 2 released August 1980. Track A6: On the single Finney and Perrin are credited as writers. Track B3: Duration on the 12" 10:11, here is fading out.   Track F1: On the 12" Royal Family And The Poor (The Poor) are also credited as producers.  [a=John Davis (4)] cut is directly credited on booklet and his signature (JD) is etched on side A
 

@@ -1,14 +1,17 @@
 ---
 title: "Durand Jones & The Indications - Durand Jones & The Indications "
-album_artist: "Durand Jones & The Indications"
-album_title: "Durand Jones & The Indications "
+artist: "Durand Jones & The Indications"
+album_name: "Durand Jones & The Indications "
 date: 2018-03-20
 release_id: "11718792"
 slug: "durand-jones-the-indications-11718792"
+hideSummary: true
 cover:
     image: "durand-jones-the-indications-11718792.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Durand Jones & The Indications  by Durand Jones & The Indications"
+    caption: "Durand Jones & The Indications  by Durand Jones & The Indications"
+genres: ["Funk / Soul"]
+styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Durand Jones & The Indications - Smile - 8/28/2017 - Paste Studios, New York, NY](https://www.youtube.com/watch?v=tnaq5ObKVSs)
 - [Can't Keep My Cool](https://www.youtube.com/watch?v=NgzG4XYcgcU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Durand Jones & The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792) |
+| Release Year   | 2018 |
+| Discogs Link   | [Durand Jones & The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |
 | Label          | Dead Oceans, Colemine Records |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | DOC157 |
+
+
 

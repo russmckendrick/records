@@ -1,14 +1,17 @@
 ---
 title: "Rush - Rush In Rio"
-album_artist: "Rush"
-album_title: "Rush In Rio"
+artist: "Rush"
+album_name: "Rush In Rio"
 date: 2019-01-19
 release_id: "13087653"
 slug: "rush-in-rio-13087653"
+hideSummary: true
 cover:
     image: "rush-in-rio-13087653.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rush In Rio by Rush"
+    caption: "Rush In Rio by Rush"
+genres: ["Rock"]
+styles: ["Arena Rock", "Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -44,16 +47,17 @@ hideSummary: true
 30. Between Sun & Moon
 31. Vital Signs
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Rush - Rush In Rio](https://www.discogs.com/release/13087653) |
+| Release Year   | 2019 |
+| Discogs Link   | [Rush - Rush In Rio](https://www.discogs.com/release/13087653-Rush-Rush-In-Rio) |
 | Label          | Atlantic, Anthem (5), Ole |
 | Format         | 4xLP, Album, 180 |
 | Catalog Number | R1 83672, 081227934330 |
+
+℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.  Packaged in a four-panel gatefold.  Sticker on shrink foil:  "Rush in Rio  180g  Never-Before-Released on Vinyl 4LP + Download Card"
 

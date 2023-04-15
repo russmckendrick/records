@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd – London Symphonia - The Wall For Chamber Orchestra"
-album_artist: "Pink Floyd – London Symphonia"
-album_title: "The Wall For Chamber Orchestra"
+artist: "Pink Floyd – London Symphonia"
+album_name: "The Wall For Chamber Orchestra"
 date: 2022-06-30
 release_id: "13569554"
 slug: "the-wall-for-chamber-orchestra-13569554"
+hideSummary: true
 cover:
     image: "the-wall-for-chamber-orchestra-13569554.jpg"
-tags: ["Classical"]
-hideSummary: true
+    alt: "The Wall For Chamber Orchestra by Pink Floyd – London Symphonia"
+    caption: "The Wall For Chamber Orchestra by Pink Floyd – London Symphonia"
+genres: ["Classical"]
+styles: null
 ---
 
 ## Tracklisting
@@ -28,16 +31,17 @@ hideSummary: true
 14. The Trial
 15. Outside The Wall
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Pink Floyd – London Symphonia - The Wall For Chamber Orchestra](https://www.discogs.com/release/13569554) |
+| Release Year   | 2019 |
+| Discogs Link   | [Pink Floyd – London Symphonia - The Wall For Chamber Orchestra](https://www.discogs.com/release/13569554-Pink-Floyd-The-London-Symphonia-The-Wall-For-Chamber-Orchestra) |
 | Label          | Coda Records Ltd |
 | Format         | LP, Album, Ltd, Unofficial, Whi |
 | Catalog Number | CLRVNY004 |
+
+Produced, Mastered and Manufactured in the Czech Republic
 

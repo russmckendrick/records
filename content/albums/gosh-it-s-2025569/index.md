@@ -1,14 +1,17 @@
 ---
 title: "Bad Manners - Gosh It's..."
-album_artist: "Bad Manners"
-album_title: "Gosh It's..."
+artist: "Bad Manners"
+album_name: "Gosh It's..."
 date: 2019-01-19
 release_id: "2025569"
 slug: "gosh-it-s-2025569"
+hideSummary: true
 cover:
     image: "gosh-it-s-2025569.jpg"
-tags: ["Reggae", "Pop"]
-hideSummary: true
+    alt: "Gosh It's... by Bad Manners"
+    caption: "Gosh It's... by Bad Manners"
+genres: ["Reggae", "Pop"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
 - [Bad Manners - can can](https://www.youtube.com/watch?v=CJSwSBbdiCM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Bad Manners - Gosh It's...](https://www.discogs.com/release/2025569) |
+| Release Year   | 1981 |
+| Discogs Link   | [Bad Manners - Gosh It's...](https://www.discogs.com/release/2025569-Bad-Manners-Gosh-Its) |
 | Label          | Magnet (2) |
 | Format         | LP, Album |
 | Catalog Number | MAGL 5043 |
+
+Track A3 is based on the classical operetta by [r13333558].  Issued in a textured single sleeve and with a printed lyric inner sleeve.  Some copies include a poster of the band.
 

@@ -1,14 +1,17 @@
 ---
 title: "Belly - Dove"
-album_artist: "Belly"
-album_title: "Dove"
+artist: "Belly"
+album_name: "Dove"
 date: 2018-05-04
 release_id: "11957072"
 slug: "dove-11957072"
+hideSummary: true
 cover:
     image: "dove-11957072.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dove by Belly"
+    caption: "Dove by Belly"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Belly - Shiny One](https://www.youtube.com/watch?v=prF1CdzjTZ4)
 - [Belly Stars Align (Official Audio)](https://www.youtube.com/watch?v=rgxHiKv25EM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Belly - Dove](https://www.discogs.com/release/11957072) |
+| Release Year   | 2018 |
+| Discogs Link   | [Belly - Dove](https://www.discogs.com/release/11957072-Belly-Dove) |
 | Label          | Not On Label (Belly Self-released) |
 | Format         | LP, Album, Ltd, Yel |
 | Catalog Number | 83774-031-I |
+
+Includes download card for MP3 version.  Printed inner sleeve with lyrics.  Tracks numbered sequentially regardless of sides.
 

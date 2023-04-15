@@ -1,14 +1,17 @@
 ---
 title: "Pet Shop Boys - Very"
-album_artist: "Pet Shop Boys"
-album_title: "Very"
+artist: "Pet Shop Boys"
+album_name: "Very"
 date: 2020-07-03
 release_id: "12452813"
 slug: "very-12452813"
+hideSummary: true
 cover:
     image: "very-12452813.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Very by Pet Shop Boys"
+    caption: "Very by Pet Shop Boys"
+genres: ["Electronic", "Pop"]
+styles: ["House", "Synth-pop", "Dance-pop"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Pet Shop Boys - Liberation](https://www.youtube.com/watch?v=vtlM1F8guPc)
 - [Pet Shop Boys - Yesterday When I Was Mad](https://www.youtube.com/watch?v=jS0fsoyrFg4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pet Shop Boys - Very](https://www.discogs.com/release/12452813) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pet Shop Boys - Very](https://www.discogs.com/release/12452813-Pet-Shop-Boys-Very) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0190295823085 |
+
+[Sticker on shrinkwrap:] Pressed onto 180g heavyweight  vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company.  All rights reserved. Made in the EU  [From inner sleeve:] Recorded at Sarm West, London. Orchestra recorded at Angel Studios, London. Choir on Go West recorded at The Power Station, New York. Mixed at Rak Studios, London. Mastered at Gateway Mastering, Maine, USA.  Optimal credit extrapolated from runout data.
 

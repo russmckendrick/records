@@ -1,14 +1,17 @@
 ---
 title: "Buena Vista Social Club - Buena Vista Social Club"
-album_artist: "Buena Vista Social Club"
-album_title: "Buena Vista Social Club"
+artist: "Buena Vista Social Club"
+album_name: "Buena Vista Social Club"
 date: 2022-10-19
 release_id: "20165404"
 slug: "buena-vista-social-club-20165404"
+hideSummary: true
 cover:
     image: "buena-vista-social-club-20165404.jpg"
-tags: ["Latin"]
-hideSummary: true
+    alt: "Buena Vista Social Club by Buena Vista Social Club"
+    caption: "Buena Vista Social Club by Buena Vista Social Club"
+genres: ["Latin"]
+styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 ---
 
 ## Tracklisting
@@ -82,13 +85,16 @@ hideSummary: true
 - [Buena Vista Social Club - Buena Vista Social Club (Official Audio)](https://www.youtube.com/watch?v=8TdC59g-u1U)
 - [Buena Vista Social Club - La Bayamesa (Official Audio)](https://www.youtube.com/watch?v=alB2Q2m64es)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Buena Vista Social Club - Buena Vista Social Club](https://www.discogs.com/release/20165404) |
+| Release Year   | 2021 |
+| Discogs Link   | [Buena Vista Social Club - Buena Vista Social Club](https://www.discogs.com/release/20165404-Buena-Vista-Social-Club-Buena-Vista-Social-Club) |
 | Label          | World Circuit |
 | Format         | 2xLP, Album, RE, RM + CD, Album, RE, RM + CD |
 | Catalog Number | WCV050BOX |
+
+From hype sticker: 25th Anniversary Edition 2CD + 2LP Bookpack Includes: The original album remastered by [...] on CD & 2LP CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2). 40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club 2x 12x12" Art Prints  Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks.   Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.  A World Circuit Production  ℗ & © 2021 World Circuit Limited, a BMG company.  Made in Czech Republic.   BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS
 

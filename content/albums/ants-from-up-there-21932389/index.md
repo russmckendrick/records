@@ -1,14 +1,17 @@
 ---
 title: "Black Country, New Road - Ants From Up There"
-album_artist: "Black Country, New Road"
-album_title: "Ants From Up There"
+artist: "Black Country, New Road"
+album_name: "Ants From Up There"
 date: 2022-02-04
 release_id: "21932389"
 slug: "ants-from-up-there-21932389"
+hideSummary: true
 cover:
     image: "ants-from-up-there-21932389.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Ants From Up There by Black Country, New Road"
+    caption: "Ants From Up There by Black Country, New Road"
+genres: ["Rock", "Pop"]
+styles: ["Folk Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Black Country, New Road - 'Snow Globes' (Official Audio)](https://www.youtube.com/watch?v=hTVwQ1Gjqas)
 - [Black Country, New Road - 'Basketball Shoes' (Official Audio)](https://www.youtube.com/watch?v=uOnjuIb1TWY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Black Country, New Road - Ants From Up There](https://www.discogs.com/release/21932389) |
+| Release Year   | 2022 |
+| Discogs Link   | [Black Country, New Road - Ants From Up There](https://www.discogs.com/release/21932389-Black-Country-New-Road-Ants-From-Up-There) |
 | Label          | Ninja Tune |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | ZEN278X |
+
+Inverted artwork. Packaged in a gatefold sleeve.  Includes a lyric booklet and a download code.  Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.  Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.  ℗ & © Ninja Tune 2022 Made in EU  Recorded at Chale Abbey Studios. Mixed at Fish Factory and Chale Abbey Studios. Mastered [...] at Abbey Road.
 

@@ -1,14 +1,17 @@
 ---
 title: "Flowered Up - Weatherall's Weekender"
-album_artist: "Flowered Up"
-album_title: "Weatherall's Weekender"
+artist: "Flowered Up"
+album_name: "Weatherall's Weekender"
 date: 2021-09-09
 release_id: "20148349"
 slug: "weatherall-s-weekender-20148349"
+hideSummary: true
 cover:
     image: "weatherall-s-weekender-20148349.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Weatherall's Weekender by Flowered Up"
+    caption: "Weatherall's Weekender by Flowered Up"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Flowered Up - Weatherall's Weekender](https://www.discogs.com/release/20148349) |
+| Release Year   | 2021 |
+| Discogs Link   | [Flowered Up - Weatherall's Weekender](https://www.discogs.com/release/20148349-Flowered-Up-Weatheralls-Weekender) |
 | Label          | Heavenly |
 | Format         | 12\", Ltd, RE, Yel |
 | Catalog Number | HVN589 |
+
+Love Record Stores yellow vinyl repress.  Issued in a die-cut Heavenly house sleeve with an updated design using the Flowered Up logo instead of the Heavenly bird logo, housed inside an outer polythene sleeve. A barcode sticker is affixed to the outer polythene sleeve.   ℗ 1992 Sony Music Entertainment UK Limited. Licensed courtesy of Sony Music Entertainment UK Limited. Made in the EU
 

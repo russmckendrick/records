@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Sound-Dust"
-album_artist: "Stereolab"
-album_title: "Sound-Dust"
+artist: "Stereolab"
+album_name: "Sound-Dust"
 date: 2019-11-29
 release_id: "14452259"
 slug: "sound-dust-14452259"
+hideSummary: true
 cover:
     image: "sound-dust-14452259.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Sound-Dust by Stereolab"
+    caption: "Sound-Dust by Stereolab"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [Gus The Mynah Bird](https://www.youtube.com/watch?v=xHX5PCuq8zs)
 - [Nothing To Do With Me](https://www.youtube.com/watch?v=D0-FTcR-9YI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stereolab - Sound-Dust](https://www.discogs.com/release/14452259) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stereolab - Sound-Dust](https://www.discogs.com/release/14452259-Stereolab-Sound-Dust) |
 | Label          | Warp Records, Duophonic Ultra High Frequency Disks, Warp Records, Duophonic Ultra High Frequency Disks |
 | Format         | 2xLP, Album, RE, RM + LP, S/Sided, Etch + Ltd, Num |
 | Catalog Number | D-UHF-D27RC, D-UHF-D27R |
+
+Ⓟ 2001 Duophonic Ultra High Frequency Disks © 2019 Warp Records  Cat#: D-UHF-D27RC stickered on PVC front and back D-UHF-D27R printed on cover
 

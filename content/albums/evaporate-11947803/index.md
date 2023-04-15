@@ -1,14 +1,17 @@
 ---
 title: "Midas Fall - Evaporate"
-album_artist: "Midas Fall"
-album_title: "Evaporate"
+artist: "Midas Fall"
+album_name: "Evaporate"
 date: 2018-05-14
 release_id: "11947803"
 slug: "evaporate-11947803"
+hideSummary: true
 cover:
     image: "evaporate-11947803.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Evaporate by Midas Fall"
+    caption: "Evaporate by Midas Fall"
+genres: ["Rock"]
+styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
 - [Midas Fall - Evaporate (Live Session)](https://www.youtube.com/watch?v=U_KKsAY55qM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Midas Fall - Evaporate](https://www.discogs.com/release/11947803) |
+| Release Year   | 2018 |
+| Discogs Link   | [Midas Fall - Evaporate](https://www.discogs.com/release/11947803-Midas-Fall-Evaporate) |
 | Label          | Monotreme Records |
 | Format         | LP |
 | Catalog Number | MONO-130VNL |
+
+Limited to 500 copies on 180g vinyl (300 clear blue & black, 200 black) Colours were randomly distributed Includes CD of the Album in Card Sleeve
 

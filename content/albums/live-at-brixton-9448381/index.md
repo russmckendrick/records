@@ -1,14 +1,17 @@
 ---
 title: "Public Service Broadcasting - Live At Brixton "
-album_artist: "Public Service Broadcasting"
-album_title: "Live At Brixton "
+artist: "Public Service Broadcasting"
+album_name: "Live At Brixton "
 date: 2016-12-08
 release_id: "9448381"
 slug: "live-at-brixton-9448381"
+hideSummary: true
 cover:
     image: "live-at-brixton-9448381.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Live At Brixton  by Public Service Broadcasting"
+    caption: "Live At Brixton  by Public Service Broadcasting"
+genres: ["Electronic"]
+styles: ["Ambient"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Tomorrow (Live)](https://www.youtube.com/watch?v=qYcWJqWH4RA)
 - [London Can Take It (Live)](https://www.youtube.com/watch?v=67a1aWx3Ksg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Public Service Broadcasting - Live At Brixton ](https://www.discogs.com/release/9448381) |
+| Release Year   | 2016 |
+| Discogs Link   | [Public Service Broadcasting - Live At Brixton ](https://www.discogs.com/release/9448381-Public-Service-Broadcasting-Live-At-Brixton-) |
 | Label          | Test Card Recordings |
 | Format         | 2xLP, Album, Ltd, Gat + DVD,   |
 | Catalog Number | TCRVAL04X |
+
+Released in a gatefold sleeve with printed inner sleeves. A download voucher of the album is included. Audio and video content recorded by Living Indie at O2 Brixton Academy, London on 29 November 2015. DVD contains bonus features and band commentary track and comes in a matte picture cardboard sleeve.
 

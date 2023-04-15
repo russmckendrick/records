@@ -1,14 +1,17 @@
 ---
 title: "Utopia (5) - Todd Rundgren's Utopia"
-album_artist: "Utopia (5)"
-album_title: "Todd Rundgren's Utopia"
+artist: "Utopia (5)"
+album_name: "Todd Rundgren's Utopia"
 date: 2022-03-06
 release_id: "1971194"
 slug: "todd-rundgren-s-utopia-1971194"
+hideSummary: true
 cover:
     image: "todd-rundgren-s-utopia-1971194.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Todd Rundgren's Utopia by Utopia (5)"
+    caption: "Todd Rundgren's Utopia by Utopia (5)"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 - [UTOPIA - Todd Rundgren's ---- 1974 --Promo](https://www.youtube.com/watch?v=YvoQKl00j1g)
 - [Utopia - The Ikon [Full Song]](https://www.youtube.com/watch?v=SCrkk1FsFAw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1974 |
-| Discogs Link   | [Utopia (5) - Todd Rundgren's Utopia](https://www.discogs.com/release/1971194) |
+| Release Year   | 1974 |
+| Discogs Link   | [Utopia (5) - Todd Rundgren's Utopia](https://www.discogs.com/release/1971194-Utopia-Todd-Rundgrens-Utopia) |
 | Label          | Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K55501 |
+
+Stamped runouts Lyrics printed on back sleeve. A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974 All lyrics reproduced by kind permission of United Artists © 1974
 

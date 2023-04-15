@@ -1,14 +1,17 @@
 ---
 title: "Agnes Obel - Citizen Of Glass"
-album_artist: "Agnes Obel"
-album_title: "Citizen Of Glass"
+artist: "Agnes Obel"
+album_name: "Citizen Of Glass"
 date: 2017-01-03
 release_id: "9218599"
 slug: "citizen-of-glass-9218599"
+hideSummary: true
 cover:
     image: "citizen-of-glass-9218599.jpg"
-tags: ["Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Citizen Of Glass by Agnes Obel"
+    caption: "Citizen Of Glass by Agnes Obel"
+genres: ["Pop", "Folk, World, & Country"]
+styles: ["Vocal", "Ballad"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Agnes Obel - Grasshopper (Official Audio)](https://www.youtube.com/watch?v=TMPRryoSny0)
 - [Agnes Obel - Mary (Official Audio)](https://www.youtube.com/watch?v=CoBT59xRElU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Agnes Obel - Citizen Of Glass](https://www.discogs.com/release/9218599) |
+| Release Year   | 2016 |
+| Discogs Link   | [Agnes Obel - Citizen Of Glass](https://www.discogs.com/release/9218599-Agnes-Obel-Citizen-Of-Glass) |
 | Label          | [PIAS], Play It Again Sam |
 | Format         | LP, Album, 180 |
 | Catalog Number | PIASR905LP |
+
+Debossed gatefold sleeve with full lyrics and credits printed on inside. Includes download code for MP3 and/or FLAC digital copy of the album.  Dedicated to Ole.  (P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam. All runouts etched. 
 

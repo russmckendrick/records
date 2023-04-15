@@ -1,14 +1,17 @@
 ---
 title: "Wendy Carlos - Tron (Original Motion Picture Soundtrack)"
-album_artist: "Wendy Carlos"
-album_title: "Tron (Original Motion Picture Soundtrack)"
+artist: "Wendy Carlos"
+album_name: "Tron (Original Motion Picture Soundtrack)"
 date: 2015-08-09
 release_id: "6035147"
 slug: "tron-original-motion-picture-soundtrack-6035147"
+hideSummary: true
 cover:
     image: "tron-original-motion-picture-soundtrack-6035147.jpg"
-tags: ["Electronic", "Jazz", "Classical", "Stage & Screen"]
-hideSummary: true
+    alt: "Tron (Original Motion Picture Soundtrack) by Wendy Carlos"
+    caption: "Tron (Original Motion Picture Soundtrack) by Wendy Carlos"
+genres: ["Electronic", "Jazz", "Classical", "Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Anthem (TRON Soundtrack)](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
 - [Tron: End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Wendy Carlos - Tron (Original Motion Picture Soundtrack)](https://www.discogs.com/release/6035147) |
+| Release Year   | 2014 |
+| Discogs Link   | [Wendy Carlos - Tron (Original Motion Picture Soundtrack)](https://www.discogs.com/release/6035147-Wendy-Carlos-Tron-Original-Motion-Picture-Soundtrack) |
 | Label          | Audio Fidelity (3), Walt Disney Records |
 | Format         | 2xLP, Album, Ltd, Num, RE, RM, Blu |
 | Catalog Number | AFZLP2 177 |
+
+Limited to 3000 copies, some copies have a number greater than 3000.  © Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music Made in U.S.A.
 

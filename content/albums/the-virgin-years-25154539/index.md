@@ -1,14 +1,17 @@
 ---
 title: "The Human League - The Virgin Years"
-album_artist: "The Human League"
-album_title: "The Virgin Years"
+artist: "The Human League"
+album_name: "The Virgin Years"
 date: 2022-12-27
 release_id: "25154539"
 slug: "the-virgin-years-25154539"
+hideSummary: true
 cover:
     image: "the-virgin-years-25154539.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Virgin Years by The Human League"
+    caption: "The Virgin Years by The Human League"
+genres: ["Electronic"]
+styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -67,13 +70,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="NUFi1m0oVfQ" title="The HumanLeague - Dare! - 1981 /LP Album" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Human League - The Virgin Years](https://www.discogs.com/release/25154539) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Human League - The Virgin Years](https://www.discogs.com/release/25154539-The-Human-League-The-Virgin-Years) |
 | Label          | UMC, Virgin, UMC, Virgin |
 | Format         | Box, Comp, Ltd + LP, Album, RE, Tur + LP, MiniAlbu |
 | Catalog Number | 358694, 00602435869407 |
+
+Coloured vinyl box set of the Human League MK II. Comprises  Dare - Turquoise vinyl Fascination - Lime Green vinyl Hysteria - Yellow vinyl Crash - Red vinyl Romantic? - Crystal Clear vinyl
 

@@ -1,14 +1,17 @@
 ---
 title: "Caravan - In The Land Of Grey And Pink"
-album_artist: "Caravan"
-album_title: "In The Land Of Grey And Pink"
+artist: "Caravan"
+album_name: "In The Land Of Grey And Pink"
 date: 2019-06-16
 release_id: "13767699"
 slug: "in-the-land-of-grey-and-pink-13767699"
+hideSummary: true
 cover:
     image: "in-the-land-of-grey-and-pink-13767699.jpg"
-tags: ["Jazz", "Rock"]
-hideSummary: true
+    alt: "In The Land Of Grey And Pink by Caravan"
+    caption: "In The Land Of Grey And Pink by Caravan"
+genres: ["Jazz", "Rock"]
+styles: ["Jazz-Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [In The Land Of Grey & Pink](https://www.youtube.com/watch?v=sTAhkb31khY)
 - [Nine Feet Underground (Medley)](https://www.youtube.com/watch?v=_Sls_QCMG2Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/13767699) |
+| Release Year   | 2019 |
+| Discogs Link   | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/13767699-Caravan-In-The-Land-Of-Grey-And-Pink) |
 | Label          | Deram, Deram |
 | Format         | LP, Album, Ltd, RE, Gat |
 | Catalog Number | 7763089, 00602577630897 |
+
+HMV limited edition of 750 copies on transparent vinyl.  English liner notes uncredited.
 

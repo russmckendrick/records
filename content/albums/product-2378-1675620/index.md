@@ -1,14 +1,17 @@
 ---
 title: "Various - Product 2378"
-album_artist: "Various"
-album_title: "Product 2378"
+artist: "Various"
+album_name: "Product 2378"
 date: 2015-10-14
 release_id: "1675620"
 slug: "product-2378-1675620"
+hideSummary: true
 cover:
     image: "product-2378-1675620.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Product 2378 by Various"
+    caption: "Product 2378 by Various"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Rock", "Goth Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [All About Eve - December](https://www.youtube.com/watch?v=mZ15nDrekTU)
 - [Tower Of Strength (Bombay Edit)](https://www.youtube.com/watch?v=owjzPHBabI4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Various - Product 2378](https://www.discogs.com/release/1675620) |
+| Release Year   | 1990 |
+| Discogs Link   | [Various - Product 2378](https://www.discogs.com/release/1675620-Various-Product-2378) |
 | Label          | Telstar |
 | Format         | LP, Comp, Dam |
 | Catalog Number | STAR 2378 |
+
+This album compiled in association with 4.A.D., Mute, Factory, WEA, EMI, BMG & Polygram  Distributed in the UK by BMG Records Ltd. Distributed in Eire by WEA Records (IRL) Ltd.  Also available on cassette >> [STAC 2378](http://www.discogs.com/Various-Product-2378/release/749901) and CD >> [TCD 2378](http://www.discogs.com/Various-Product-2378/release/722967). - This version pressed by Damont. [r=11770103] is pressed by [l=MPO].
 

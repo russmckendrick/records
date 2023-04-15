@@ -1,14 +1,17 @@
 ---
 title: "Green Day - Insomniac"
-album_artist: "Green Day"
-album_title: "Insomniac"
+artist: "Green Day"
+album_name: "Insomniac"
 date: 2021-03-21
 release_id: "17885617"
 slug: "insomniac-17885617"
+hideSummary: true
 cover:
     image: "insomniac-17885617.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Insomniac by Green Day"
+    caption: "Insomniac by Green Day"
+genres: ["Rock"]
+styles: ["Pop Punk"]
 ---
 
 ## Tracklisting
@@ -36,16 +39,17 @@ hideSummary: true
 22. Walking Contradiction
 23. 86
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Green Day - Insomniac](https://www.discogs.com/release/17885617) |
+| Release Year   | 2021 |
+| Discogs Link   | [Green Day - Insomniac](https://www.discogs.com/release/17885617-Green-Day-Insomniac) |
 | Label          | Reprise Records |
 | Format         | LP, Album, RE, Mad + LP, S/Sided, Etch + Dlx, Ltd, |
 | Catalog Number | 093624884576 |
+
+This release has center labels which indicate "Made in Czech Republic." For the release with center labels which indicate "Made in Canada," use [r21660517].  Packaged in rainbow foil cover Side C is a live recording from Prague in 1996. Etching of album cover on side D.  Reprise Records, A Warner Music Group Company.  777 S. Santa Fe Ave. Los Angeles, CA 90021; 1633 Broadway, New York, NY 10019-6708. © 2021 Reprise Records. ℗ 2016, 2020 Reprise Records. Made in Czech Republic.  Runouts are etched and stamped.
 

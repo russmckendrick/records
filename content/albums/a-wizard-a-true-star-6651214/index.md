@@ -1,14 +1,17 @@
 ---
 title: "Todd Rundgren - A Wizard, A True Star"
-album_artist: "Todd Rundgren"
-album_title: "A Wizard, A True Star"
+artist: "Todd Rundgren"
+album_name: "A Wizard, A True Star"
 date: 2017-01-13
 release_id: "6651214"
 slug: "a-wizard-a-true-star-6651214"
+hideSummary: true
 cover:
     image: "a-wizard-a-true-star-6651214.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "A Wizard, A True Star by Todd Rundgren"
+    caption: "A Wizard, A True Star by Todd Rundgren"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -32,16 +35,17 @@ hideSummary: true
 18. Is It My Name? (4:01)
 19. Just One Victory (4:59)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/6651214) |
+| Release Year   | 2014 |
+| Discogs Link   | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/6651214-Todd-Rundgren-A-Wizard-A-True-Star) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Tea |
 | Catalog Number | DEMREC22 |
+
+180g vinyl edition in a gatefold sleeve. Includes a replica competition insert plus lyrics and photography.   
 

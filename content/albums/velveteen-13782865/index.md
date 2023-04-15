@@ -1,14 +1,17 @@
 ---
 title: "Transvision Vamp - Velveteen"
-album_artist: "Transvision Vamp"
-album_title: "Velveteen"
+artist: "Transvision Vamp"
+album_name: "Velveteen"
 date: 2019-06-22
 release_id: "13782865"
 slug: "velveteen-13782865"
+hideSummary: true
 cover:
     image: "velveteen-13782865.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Velveteen by Transvision Vamp"
+    caption: "Velveteen by Transvision Vamp"
+genres: ["Rock"]
+styles: ["Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Transvision Vamp - Landslide of Love (1989)](https://www.youtube.com/watch?v=H1TBj_bYog8)
 - [Transvision Vamp - Born to Be Sold (1989)](https://www.youtube.com/watch?v=wyBphauZeJo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Transvision Vamp - Velveteen](https://www.discogs.com/release/13782865) |
+| Release Year   | 2019 |
+| Discogs Link   | [Transvision Vamp - Velveteen](https://www.discogs.com/release/13782865-Transvision-Vamp-Velveteen) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Red |
 | Catalog Number | DEMREC325 |
+
+
 

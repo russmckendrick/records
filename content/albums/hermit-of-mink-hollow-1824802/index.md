@@ -1,14 +1,17 @@
 ---
 title: "Todd Rundgren - Hermit Of Mink Hollow"
-album_artist: "Todd Rundgren"
-album_title: "Hermit Of Mink Hollow"
+artist: "Todd Rundgren"
+album_name: "Hermit Of Mink Hollow"
 date: 2022-03-06
 release_id: "1824802"
 slug: "hermit-of-mink-hollow-1824802"
+hideSummary: true
 cover:
     image: "hermit-of-mink-hollow-1824802.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hermit Of Mink Hollow by Todd Rundgren"
+    caption: "Hermit Of Mink Hollow by Todd Rundgren"
+genres: ["Rock"]
+styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Out Of Control (3:55)
 14. Fade Away (3:01)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Todd Rundgren - Hermit Of Mink Hollow](https://www.discogs.com/release/1824802) |
+| Release Year   | 1978 |
+| Discogs Link   | [Todd Rundgren - Hermit Of Mink Hollow](https://www.discogs.com/release/1824802-Todd-Rundgren-Hermit-Of-Mink-Hollow) |
 | Label          | Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K 55521 |
+
+Includes a printed inner sleeve with lyrics.  On label: Ⓟ&Ⓒ 1978  Made in UK
 

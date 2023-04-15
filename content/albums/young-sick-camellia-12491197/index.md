@@ -1,14 +1,17 @@
 ---
 title: "St. Paul & The Broken Bones - Young Sick Camellia"
-album_artist: "St. Paul & The Broken Bones"
-album_title: "Young Sick Camellia"
+artist: "St. Paul & The Broken Bones"
+album_name: "Young Sick Camellia"
 date: 2018-09-29
 release_id: "12491197"
 slug: "young-sick-camellia-12491197"
+hideSummary: true
 cover:
     image: "young-sick-camellia-12491197.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Young Sick Camellia by St. Paul & The Broken Bones"
+    caption: "Young Sick Camellia by St. Paul & The Broken Bones"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 {{< youtube id="mHEPoG11EtE" title="St. Paul & The Broken Bones - Apollo" >}}
 - [St. Paul & The Broken Bones - NASA (Audio)](https://www.youtube.com/watch?v=k5EtjM9uNPU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [St. Paul & The Broken Bones - Young Sick Camellia](https://www.discogs.com/release/12491197) |
+| Release Year   | 2018 |
+| Discogs Link   | [St. Paul & The Broken Bones - Young Sick Camellia](https://www.discogs.com/release/12491197-St-Paul-The-Broken-Bones-Young-Sick-Camellia) |
 | Label          | Records (11), Sony Music |
 | Format         | LP, Album |
 | Catalog Number | 19075878101 |
+
+Standard cover, vinyl being housed in a printed innersleeve.  On labels and back cover: ℗ & © 2018 Records, LLC / Red Music Distributed by Sony Music Entertainment Made in the EU  Runouts are etched, except MPO(R) inclusive numbers are stamped.
 

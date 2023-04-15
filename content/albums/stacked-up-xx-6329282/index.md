@@ -1,14 +1,17 @@
 ---
 title: "Senser - Stacked Up XX"
-album_artist: "Senser"
-album_title: "Stacked Up XX"
+artist: "Senser"
+album_name: "Stacked Up XX"
 date: 2020-02-14
 release_id: "6329282"
 slug: "stacked-up-xx-6329282"
+hideSummary: true
 cover:
     image: "stacked-up-xx-6329282.jpg"
-tags: ["Electronic", "Hip Hop", "Rock"]
-hideSummary: true
+    alt: "Stacked Up XX by Senser"
+    caption: "Stacked Up XX by Senser"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Senser - Stacked Up XX](https://www.discogs.com/release/6329282) |
+| Release Year   | 2014 |
+| Discogs Link   | [Senser - Stacked Up XX](https://www.discogs.com/release/6329282-Senser-Stacked-Up-XX) |
 | Label          | Ultimate |
 | Format         | 2xLP, Album, Ltd, RM |
 | Catalog Number | SBR 208LP |
+
+Stacked Up XX Limited Edition Double Vinyl Album includes a remastered version of the original record with new artwork and a digital download copy of all Stacked Up XX CD tracks.   Includes insert with pictures. Some signed copies were available from Senser website.  The Bacon Empire Publishing Ltd 2014. All Songs Published by London Music 
 

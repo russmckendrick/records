@@ -1,14 +1,17 @@
 ---
 title: "Lambchop - This (Is What I Wanted To Tell You)"
-album_artist: "Lambchop"
-album_title: "This (Is What I Wanted To Tell You)"
+artist: "Lambchop"
+album_name: "This (Is What I Wanted To Tell You)"
 date: 2019-03-23
 release_id: "13383347"
 slug: "this-is-what-i-wanted-to-tell-you-13383347"
+hideSummary: true
 cover:
     image: "this-is-what-i-wanted-to-tell-you-13383347.jpg"
-tags: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "This (Is What I Wanted To Tell You) by Lambchop"
+    caption: "This (Is What I Wanted To Tell You) by Lambchop"
+genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
+styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 {{< youtube id="u8NxdNERUGc" title="Lambchop - Everything For You (Official Video)" >}}
 - [Lambchop - 'Crosswords, or What This Says About You' (Official Video)](https://www.youtube.com/watch?v=xPERKl54QBY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Lambchop - This (Is What I Wanted To Tell You)](https://www.discogs.com/release/13383347) |
+| Release Year   | 2019 |
+| Discogs Link   | [Lambchop - This (Is What I Wanted To Tell You)](https://www.discogs.com/release/13383347-Lambchop-This-Is-What-I-Wanted-To-Tell-You) |
 | Label          | City Slang |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | SLANG50197LP |
+
+Limited 180g White Vinyl. Comes in a die cut sleeve. Includes a fold out insert with lyrics and credits. An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner.
 

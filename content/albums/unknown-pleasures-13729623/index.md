@@ -1,14 +1,17 @@
 ---
 title: "Joy Division - Unknown Pleasures"
-album_artist: "Joy Division"
-album_title: "Unknown Pleasures"
+artist: "Joy Division"
+album_name: "Unknown Pleasures"
 date: 2019-06-17
 release_id: "13729623"
 slug: "unknown-pleasures-13729623"
+hideSummary: true
 cover:
     image: "unknown-pleasures-13729623.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Unknown Pleasures by Joy Division"
+    caption: "Unknown Pleasures by Joy Division"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Interzone (2007 Remaster)](https://www.youtube.com/watch?v=WHg4jVrbg60)
 - [I Remember Nothing (2007 Remaster)](https://www.youtube.com/watch?v=NDMxGIyZGgg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Joy Division - Unknown Pleasures](https://www.discogs.com/release/13729623) |
+| Release Year   | 2019 |
+| Discogs Link   | [Joy Division - Unknown Pleasures](https://www.discogs.com/release/13729623-Joy-Division-Unknown-Pleasures) |
 | Label          | Factory |
 | Format         | LP, Album, Ltd, RE, RP, Red |
 | Catalog Number | FACT 10 40 |
+
+30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.  [Labels] ℗ 2015 & ©  2019 Warner Records UK Ltd.   [Sticker (on shrink wrap)] Joy Division Unknown Pleasures 40th anniversary limited edition of the classic debut album Pressed on ruby red 180g heavyweight vinyl
 

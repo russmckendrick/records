@@ -1,14 +1,17 @@
 ---
 title: "The Beautiful South - Welcome To The Beautiful South"
-album_artist: "The Beautiful South"
-album_title: "Welcome To The Beautiful South"
+artist: "The Beautiful South"
+album_name: "Welcome To The Beautiful South"
 date: 2018-02-02
 release_id: "11493625"
 slug: "welcome-to-the-beautiful-south-11493625"
+hideSummary: true
 cover:
     image: "welcome-to-the-beautiful-south-11493625.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Welcome To The Beautiful South by The Beautiful South"
+    caption: "Welcome To The Beautiful South by The Beautiful South"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Love Is...](https://www.youtube.com/watch?v=nzHU2pCUA0c)
 - [The Beautiful South - I Love You (But You're Boring)](https://www.youtube.com/watch?v=LhXRAHepS7Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Beautiful South - Welcome To The Beautiful South](https://www.discogs.com/release/11493625) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Beautiful South - Welcome To The Beautiful South](https://www.discogs.com/release/11493625-The-Beautiful-South-Welcome-To-The-Beautiful-South) |
 | Label          | Go! Discs |
 | Format         | LP, Album, RE, Flu |
 | Catalog Number | 5743901 |
+
+Comes with a download card. Matte sleeve. Picture/lyric inner sleeve. Package came shrink-wrapped.  Though labeled as ‚2017 Edition‘ it was released in January 2018.  Made in the EU Universal International Music B.V.
 

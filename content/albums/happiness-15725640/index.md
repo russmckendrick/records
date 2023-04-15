@@ -1,14 +1,17 @@
 ---
 title: "The Beloved - Happiness"
-album_artist: "The Beloved"
-album_title: "Happiness"
+artist: "The Beloved"
+album_name: "Happiness"
 date: 2020-08-26
 release_id: "15725640"
 slug: "happiness-15725640"
+hideSummary: true
 cover:
     image: "happiness-15725640.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Happiness by The Beloved"
+    caption: "Happiness by The Beloved"
+genres: ["Electronic"]
+styles: ["House", "Synth-pop", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Time After Time (Demo)](https://www.youtube.com/watch?v=DeIjVkuB4eM)
 - [Jennifer Smiles](https://www.youtube.com/watch?v=R_hKl9z_IdQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Beloved - Happiness](https://www.discogs.com/release/15725640) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Beloved - Happiness](https://www.discogs.com/release/15725640-The-Beloved-Happiness) |
 | Label          | New State Music |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | NEW9239LP |
+
+Signed copies were available via Recordstore.co.uk  ‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release.
 

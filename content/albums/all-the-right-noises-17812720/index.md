@@ -1,14 +1,17 @@
 ---
 title: "Thunder (3) - All The Right Noises"
-album_artist: "Thunder (3)"
-album_title: "All The Right Noises"
+artist: "Thunder (3)"
+album_name: "All The Right Noises"
 date: 2021-03-13
 release_id: "17812720"
 slug: "all-the-right-noises-17812720"
+hideSummary: true
 cover:
     image: "all-the-right-noises-17812720.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "All The Right Noises by Thunder (3)"
+    caption: "All The Right Noises by Thunder (3)"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="AWWZ38bQYZg" title="Thunder - Last One Out Turn Off The Lights (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Thunder (3) - All The Right Noises](https://www.discogs.com/release/17812720) |
+| Release Year   | 2021 |
+| Discogs Link   | [Thunder (3) - All The Right Noises](https://www.discogs.com/release/17812720-Thunder-All-The-Right-Noises) |
 | Label          | BMG |
 | Format         | 2xLP, Album, Dlx, Blu |
 | Catalog Number | BMGCAT465CDLP |
+
+This version is the Deluxe Blue & Orange Galaxy Vinyl with Pop-Up Gatefold. Comes complete with printed inner sleeves with lyrics, credits and photographs. The first 500 pre-orders from Thunders on-line store also included and album artwork print hand signed by the band.   Manufactured in Czech Republic.  Durations do not appear on this release.  Timings via stopwatch.
 

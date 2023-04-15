@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury And The Blockheads - Do It Yourself"
-album_artist: "Ian Dury And The Blockheads"
-album_title: "Do It Yourself"
+artist: "Ian Dury And The Blockheads"
+album_name: "Do It Yourself"
 date: 2016-09-21
 release_id: "6288194"
 slug: "do-it-yourself-6288194"
+hideSummary: true
 cover:
     image: "do-it-yourself-6288194.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Do It Yourself by Ian Dury And The Blockheads"
+    caption: "Do It Yourself by Ian Dury And The Blockheads"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Hit Me with Your Rhythm Stick](https://www.youtube.com/watch?v=RUnQnIrJ3XE)
 - [There Ain't Half Been Some Clever Bastards](https://www.youtube.com/watch?v=Q63UoIPZFe0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Ian Dury And The Blockheads - Do It Yourself](https://www.discogs.com/release/6288194) |
+| Release Year   | 2013 |
+| Discogs Link   | [Ian Dury And The Blockheads - Do It Yourself](https://www.discogs.com/release/6288194-Ian-Dury-The-Blockheads-Do-It-Yourself) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE |
 | Catalog Number | DEMREC02 |
+
+Includes download code and photo sheet
 

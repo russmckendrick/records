@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - 4-Way Diablo"
-album_artist: "Monster Magnet"
-album_title: "4-Way Diablo"
+artist: "Monster Magnet"
+album_name: "4-Way Diablo"
 date: 2022-09-24
 release_id: "24531617"
 slug: "4-way-diablo-24531617"
+hideSummary: true
 cover:
     image: "4-way-diablo-24531617.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "4-Way Diablo by Monster Magnet"
+    caption: "4-Way Diablo by Monster Magnet"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Monster Magnet - Little Bag of Gloom (2007) +Lyrics](https://www.youtube.com/watch?v=IqxdqQku6wE)
 - [Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=3psuTo6UY_8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Monster Magnet - 4-Way Diablo](https://www.discogs.com/release/24531617) |
+| Release Year   | 2022 |
+| Discogs Link   | [Monster Magnet - 4-Way Diablo](https://www.discogs.com/release/24531617-Monster-Magnet-4-Way-Diablo) |
 | Label          | Napalm Records |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | NPR1067VINYL |
+
+Black vinyl edition. Gatefold cover.  © + ℗ 2022
 

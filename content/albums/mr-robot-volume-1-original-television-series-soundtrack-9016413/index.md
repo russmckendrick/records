@@ -1,14 +1,17 @@
 ---
 title: "Mac Quayle - Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
-album_artist: "Mac Quayle"
-album_title: "Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
+artist: "Mac Quayle"
+album_name: "Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
 date: 2016-09-21
 release_id: "9016413"
 slug: "mr-robot-volume-1-original-television-series-soundtrack-9016413"
+hideSummary: true
 cover:
     image: "mr-robot-volume-1-original-television-series-soundtrack-9016413.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Mr. Robot: Volume 1 (Original Television Series Soundtrack) by Mac Quayle"
+    caption: "Mr. Robot: Volume 1 (Original Television Series Soundtrack) by Mac Quayle"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Soundtrack", "Score"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [MR ROBOT   Soundtrack OST   Depth Of Field Mix](https://www.youtube.com/watch?v=YC1n6NGANw0)
 - [MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream](https://www.youtube.com/watch?v=L5v7UmvvM0Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Mac Quayle - Mr. Robot: Volume 1 (Original Television Series Soundtrack)](https://www.discogs.com/release/9016413) |
+| Release Year   | 2016 |
+| Discogs Link   | [Mac Quayle - Mr. Robot: Volume 1 (Original Television Series Soundtrack)](https://www.discogs.com/release/9016413-Mac-Quayle-Mr-Robot-Volume-1-Original-Television-Series-Soundtrack) |
 | Label          | Invada |
 | Format         | 2xLP, Album, Whi |
 | Catalog Number | INV160LP |
+
+Gatefold sleeve, printed with false pricing sticker from the "Mr Robot" store for $7.99 and code "683  898".  Release comes with: Double Sided Printed Insert 11" x 22" Poster Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.2, included an additional extremely limited 12"x12" lithograph art print.
 

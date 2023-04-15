@@ -1,14 +1,17 @@
 ---
 title: "Morrissey - Low In High School"
-album_artist: "Morrissey"
-album_title: "Low In High School"
+artist: "Morrissey"
+album_name: "Low In High School"
 date: 2017-11-17
 release_id: "11140416"
 slug: "low-in-high-school-11140416"
+hideSummary: true
 cover:
     image: "low-in-high-school-11140416.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Low In High School by Morrissey"
+    caption: "Low In High School by Morrissey"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Morrissey - Who Will Protect Us from the Police? (Official Audio)](https://www.youtube.com/watch?v=cvDRtyoqHNw)
 - [Morrissey - Israel (Official Audio)](https://www.youtube.com/watch?v=uCKjotJEWjo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Morrissey - Low In High School](https://www.discogs.com/release/11140416) |
+| Release Year   | 2017 |
+| Discogs Link   | [Morrissey - Low In High School](https://www.discogs.com/release/11140416-Morrissey-Low-In-High-School) |
 | Label          | Étienne, BMG, Étienne, Étienne |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | 538337938, 538337931, 538337891 |
+
+Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green. Green printed inner sleeve of card which is centre hole die cut on one side only. Includes a credit card sized download voucher, printed on both sides. Package came in hype stickered shrink-wrap.  Runouts are etched.
 

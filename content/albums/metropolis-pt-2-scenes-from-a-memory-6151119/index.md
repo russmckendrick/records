@@ -1,14 +1,17 @@
 ---
 title: "Dream Theater - Metropolis Pt. 2: Scenes From A Memory"
-album_artist: "Dream Theater"
-album_title: "Metropolis Pt. 2: Scenes From A Memory"
+artist: "Dream Theater"
+album_name: "Metropolis Pt. 2: Scenes From A Memory"
 date: 2016-02-01
 release_id: "6151119"
 slug: "metropolis-pt-2-scenes-from-a-memory-6151119"
+hideSummary: true
 cover:
     image: "metropolis-pt-2-scenes-from-a-memory-6151119.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Metropolis Pt. 2: Scenes From A Memory by Dream Theater"
+    caption: "Metropolis Pt. 2: Scenes From A Memory by Dream Theater"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Symphonic Metal"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Scene Eight: The Spirit Carries On](https://www.youtube.com/watch?v=7NuiVUxZQfs)
 - [Scene Nine: Finally Free](https://www.youtube.com/watch?v=tdZKo7hPzmE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Dream Theater - Metropolis Pt. 2: Scenes From A Memory](https://www.discogs.com/release/6151119) |
+| Release Year   | 2014 |
+| Discogs Link   | [Dream Theater - Metropolis Pt. 2: Scenes From A Memory](https://www.discogs.com/release/6151119-Dream-Theater-Metropolis-Pt-2-Scenes-From-A-Memory) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | MOVLP1001 |
+
+Issued in a gatefold cover with black inner sleeves and an insert with credits.  Patiently and expertly engineered at Bear Tracks Studios, Suffern, NY Additional overdubs at Little Bear Studios, Suffern, NY February-June 1999 Additional overdubs (vocals) at Metal Works Studios, Toronto, Ontario June-July 1999 Mixed at Avatar Studios, NYC and at Electric Lady Studios, NYC July-August 1999 Mastered at Sterling Sound, NYC August 1999  Originally released ℗ & © 1999 Elektra Entertainment Group Inc. Made in the EU  Release dates: 03 Oct 2014 in Netherlands 06 Oct 2014 in Europe
 

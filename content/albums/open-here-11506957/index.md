@@ -1,14 +1,17 @@
 ---
 title: "Field Music - Open Here"
-album_artist: "Field Music"
-album_title: "Open Here"
+artist: "Field Music"
+album_name: "Open Here"
 date: 2018-02-03
 release_id: "11506957"
 slug: "open-here-11506957"
+hideSummary: true
 cover:
     image: "open-here-11506957.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Open Here by Field Music"
+    caption: "Open Here by Field Music"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [New album Open Here out 2nd February](https://www.youtube.com/watch?v=au3S8F08v54)
 - [Field Music - Share A Pillow](https://www.youtube.com/watch?v=O44fNIhz1XY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Field Music - Open Here](https://www.discogs.com/release/11506957) |
+| Release Year   | 2018 |
+| Discogs Link   | [Field Music - Open Here](https://www.discogs.com/release/11506957-Field-Music-Open-Here) |
 | Label          | Memphis Industries |
 | Format         | LP, Album |
 | Catalog Number | MI0476LP |
+
+180 gram black vinyl housed in die cut sleeve with download card and lyric inner.
 

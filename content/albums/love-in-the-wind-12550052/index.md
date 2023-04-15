@@ -1,14 +1,17 @@
 ---
 title: "The Sha La Das - Love in the Wind"
-album_artist: "The Sha La Das"
-album_title: "Love in the Wind"
+artist: "The Sha La Das"
+album_name: "Love in the Wind"
 date: 2018-09-25
 release_id: "12550052"
 slug: "love-in-the-wind-12550052"
+hideSummary: true
 cover:
     image: "love-in-the-wind-12550052.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Love in the Wind by The Sha La Das"
+    caption: "Love in the Wind by The Sha La Das"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Doo Wop", "Soul", "Surf"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Sha La Das - Carnival (Official Audio)](https://www.youtube.com/watch?v=kaA0TFlVtiY)
 - [The Sha La Das - Those Years Are Over (Official Audio)](https://www.youtube.com/watch?v=UncuOBiYjuM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Sha La Das - Love in the Wind](https://www.discogs.com/release/12550052) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Sha La Das - Love in the Wind](https://www.discogs.com/release/12550052-The-Sha-La-Das-Love-in-the-Wind) |
 | Label          | Dunham, Daptone Records |
 | Format         | LP, Album |
 | Catalog Number | DUN-1006, DAP-053 |
+
+Text on the Backside of the Record: All Songs @ BMG Platinum Songs (BMI) / Extraordinaire Music (BMI) /  Music of Big Deal (BMI) / WC Songs (ASCAP) / Words for Free (ASCAP.) Recorded by T. Brenneck at DUNHAM SOUND STUDIOS, Brooklyn, NY. Mixed by T. Brenneck at THE DIAMOND MINE, Long Island City, NY.  Assistant Engineering by JENS JUNGKURTH, JOE HARRISON. Vocal Arrangements by W.C. SCHALDA, Except "Sha La Da La La (Christmas Time)" by TNT. String Arrangements by TNT. Mastered by J.J. Golden. Cover Photo by W.C. SCHALDA. Sleeve Design by HOMER STEINWEISS, DANNY MILLER. Executive Producers, SUGARMAN & ROTH. Copyright 2018, DAPTONE RECORDS     
 

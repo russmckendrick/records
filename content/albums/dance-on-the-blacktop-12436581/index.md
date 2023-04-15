@@ -1,14 +1,17 @@
 ---
 title: "Nothing (12) - Dance On The Blacktop"
-album_artist: "Nothing (12)"
-album_title: "Dance On The Blacktop"
+artist: "Nothing (12)"
+album_name: "Dance On The Blacktop"
 date: 2018-08-31
 release_id: "12436581"
 slug: "dance-on-the-blacktop-12436581"
+hideSummary: true
 cover:
     image: "dance-on-the-blacktop-12436581.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dance On The Blacktop by Nothing (12)"
+    caption: "Dance On The Blacktop by Nothing (12)"
+genres: ["Rock"]
+styles: ["Shoegaze", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [NOTHING - The Carpenter's Son (Official Audio)](https://www.youtube.com/watch?v=bxQjvOGl9qU)
 - [NOTHING - Heavy Water/I'd Rather Be Sleeping (Grouper Cover)](https://www.youtube.com/watch?v=JysJhkFzMGo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Nothing (12) - Dance On The Blacktop](https://www.discogs.com/release/12436581) |
+| Release Year   | 2018 |
+| Discogs Link   | [Nothing (12) - Dance On The Blacktop](https://www.discogs.com/release/12436581-Nothing-Dance-On-The-Blacktop) |
 | Label          | Relapse Records |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | RR7394 |
+
+UK indie retailer exclusive.  From sticker on plastic cover sleeve: LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.  Comes in a gatefold cover with a lyric/credit sheet and a digital download code.  Recorded at Dreamland Recording, West Hurley, NY. Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY. Mixed at Strange Weather, Greenpoint, Brooklyn, NY. Additional mixing at Water Music Recorders, Hoboken, NJ. Mastered at Sterling Sound, NY.  ℗&© 2018 Relapse Record Inc. Made in EU.
 

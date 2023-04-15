@@ -1,14 +1,17 @@
 ---
 title: "The Gentle Storm - The Diary"
-album_artist: "The Gentle Storm"
-album_title: "The Diary"
+artist: "The Gentle Storm"
+album_name: "The Diary"
 date: 2023-02-11
 release_id: "26059753"
 slug: "the-diary-26059753"
+hideSummary: true
 cover:
     image: "the-diary-26059753.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Diary by The Gentle Storm"
+    caption: "The Diary by The Gentle Storm"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=2q2Wx5H6wkg)
 - [THE GENTLE STORM - Endless Sea (LYRIC VIDEO) (Gentle Version)](https://www.youtube.com/watch?v=ml-v1bgMJDQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [The Gentle Storm - The Diary](https://www.discogs.com/release/26059753) |
+| Release Year   | 2023 |
+| Discogs Link   | [The Gentle Storm - The Diary](https://www.discogs.com/release/26059753-The-Gentle-Storm-The-Diary) |
 | Label          | Music On Vinyl, Inside Out Music |
 | Format         | 3xLP, Album, Ltd, Num, RE, Fla |
 | Catalog Number | MOVLP3074 |
+
+180 gram audiophile vinyl includes 12-page booklet with lyrics and background story Limited edition of 1000 numbered copies
 

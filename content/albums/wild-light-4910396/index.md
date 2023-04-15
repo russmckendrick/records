@@ -1,14 +1,17 @@
 ---
 title: "65daysofstatic - Wild Light"
-album_artist: "65daysofstatic"
-album_title: "Wild Light"
+artist: "65daysofstatic"
+album_name: "Wild Light"
 date: 2015-09-25
 release_id: "4910396"
 slug: "wild-light-4910396"
+hideSummary: true
 cover:
     image: "wild-light-4910396.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Wild Light by 65daysofstatic"
+    caption: "Wild Light by 65daysofstatic"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock", "Math Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [65daysofstatic - Prisms - [Journey Day 8]](https://www.youtube.com/watch?v=8LvxtskPltE)
 - [65daysofstatic - Unmake the Wild Light](https://www.youtube.com/watch?v=XUufXQm3NqI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [65daysofstatic - Wild Light](https://www.discogs.com/release/4910396) |
+| Release Year   | 2013 |
+| Discogs Link   | [65daysofstatic - Wild Light](https://www.discogs.com/release/4910396-65daysofstatic-Wild-Light) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album + CD, Album |
 | Catalog Number | SBMLP 028, 0506581 |
+
+Includes printed inner sleeve and CD version of the album. Pre-orders from the first week came signed by all band members.  Cover with sticker on front reading:  "180gr Vinyl Edition incl. album on CD  Wild Light is where the music leads. There is no order but chaos. All that matters is to listen.  "No-one knows what is happening. There is a lot of danger out there, ok?"  Co-produced by longtime conspirator Dave Sanderson, mixed at the Castle of Doom by Tony Doogan (Belle and Sebastien/Mogwai) in Glasgow, mastered at Abbey Road Studios  This sticker is removable"
 

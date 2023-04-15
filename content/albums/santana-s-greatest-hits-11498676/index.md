@@ -1,14 +1,17 @@
 ---
 title: "Santana - Santana's Greatest Hits"
-album_artist: "Santana"
-album_title: "Santana's Greatest Hits"
+artist: "Santana"
+album_name: "Santana's Greatest Hits"
 date: 2018-02-08
 release_id: "11498676"
 slug: "santana-s-greatest-hits-11498676"
+hideSummary: true
 cover:
     image: "santana-s-greatest-hits-11498676.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Santana's Greatest Hits by Santana"
+    caption: "Santana's Greatest Hits by Santana"
+genres: ["Rock"]
+styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Santana - Smooth (Stereo) ft. Rob Thomas](https://www.youtube.com/watch?v=6Whgn_iE5uc)
 - [Evil Ways](https://www.youtube.com/watch?v=lR4ZjMVHCuM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Santana - Santana's Greatest Hits](https://www.discogs.com/release/11498676) |
+| Release Year   | 2017 |
+| Discogs Link   | [Santana - Santana's Greatest Hits](https://www.discogs.com/release/11498676-Santana-Santanas-Greatest-Hits) |
 | Label          | Columbia |
 | Format         | LP, Comp, RE |
 | Catalog Number | 88985446151 |
+
+
 

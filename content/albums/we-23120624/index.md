@@ -1,14 +1,17 @@
 ---
 title: "Arcade Fire - We"
-album_artist: "Arcade Fire"
-album_title: "We"
+artist: "Arcade Fire"
+album_name: "We"
 date: 2022-05-06
 release_id: "23120624"
 slug: "we-23120624"
+hideSummary: true
 cover:
     image: "we-23120624.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "We by Arcade Fire"
+    caption: "We by Arcade Fire"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Arcade Fire - Unconditional II (Race and Religion) (Official Audio) ft. Peter Gabriel](https://www.youtube.com/watch?v=dXGUMVoOPlk)
 - [Arcade Fire - WE (Official Audio)](https://www.youtube.com/watch?v=X4MHYNGmqng)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Arcade Fire - We](https://www.discogs.com/release/23120624) |
+| Release Year   | 2022 |
+| Discogs Link   | [Arcade Fire - We](https://www.discogs.com/release/23120624-Arcade-Fire-We) |
 | Label          | Columbia |
 | Format         | LP, Album, Ltd, Bro |
 | Catalog Number | 19439971281 |
+
+Limited pressing sold exclusively on Amazon and in Indie Stores. Packaged in an embossed gatefold sleeve with a gold foil hype sticker. Includes a printed inner sleeve, sticker and poster.
 

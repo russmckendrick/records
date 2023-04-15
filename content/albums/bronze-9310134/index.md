@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - Bronze"
-album_artist: "Crippled Black Phoenix"
-album_title: "Bronze"
+artist: "Crippled Black Phoenix"
+album_name: "Bronze"
 date: 2016-11-11
 release_id: "9310134"
 slug: "bronze-9310134"
+hideSummary: true
 cover:
     image: "bronze-9310134.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bronze by Crippled Black Phoenix"
+    caption: "Bronze by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Post Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Crippled Black Phoenix - A future Shock](https://www.youtube.com/watch?v=qohb-MbsuLU)
 - [Crippled Black Phoenix - Winning A Losing Battle](https://www.youtube.com/watch?v=jhWfxcOGQnk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Crippled Black Phoenix - Bronze](https://www.discogs.com/release/9310134) |
+| Release Year   | 2016 |
+| Discogs Link   | [Crippled Black Phoenix - Bronze](https://www.discogs.com/release/9310134-Crippled-Black-Phoenix-Bronze) |
 | Label          | Season Of Mist, Season Of Mist |
 | Format         | 2xLP, Album, Ltd, Gre |
 | Catalog Number | SOM 399LP, SOM 399LPD1 |
+
+Limited edition of 200 copies worldwide.  Released in gatefold sleeve with printed insert.  First cat.# on spine, second cat.# on sticker.  On label print: A=B B=R C=O D=N
 

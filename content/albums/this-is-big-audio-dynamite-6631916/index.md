@@ -1,14 +1,17 @@
 ---
 title: "Big Audio Dynamite - This Is Big Audio Dynamite"
-album_artist: "Big Audio Dynamite"
-album_title: "This Is Big Audio Dynamite"
+artist: "Big Audio Dynamite"
+album_name: "This Is Big Audio Dynamite"
 date: 2016-01-20
 release_id: "6631916"
 slug: "this-is-big-audio-dynamite-6631916"
+hideSummary: true
 cover:
     image: "this-is-big-audio-dynamite-6631916.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "This Is Big Audio Dynamite by Big Audio Dynamite"
+    caption: "This Is Big Audio Dynamite by Big Audio Dynamite"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Bad](https://www.youtube.com/watch?v=CmIywAI2erw)
 - [Big Audio Dynamite - This Is Big Audio Dynamite (Full Album)](https://www.youtube.com/watch?v=GUM0B35JL9A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Big Audio Dynamite - This Is Big Audio Dynamite](https://www.discogs.com/release/6631916) |
+| Release Year   | 1985 |
+| Discogs Link   | [Big Audio Dynamite - This Is Big Audio Dynamite](https://www.discogs.com/release/6631916-Big-Audio-Dynamite-This-Is-Big-Audio-Dynamite) |
 | Label          | CBS, CBS |
 | Format         | LP, Album, No  |
 | Catalog Number | CBS 26714, 26714 |
+
+Made entirely on location in West London  Lyrics printed on inner sleeve, all songs Bad Songs Publishing.  Very similar to [r=180852]; however this release does not have a barcode on the right hand top corner of the rear sleeve. 
 

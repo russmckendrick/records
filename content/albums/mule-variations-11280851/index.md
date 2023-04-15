@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - Mule Variations"
-album_artist: "Tom Waits"
-album_title: "Mule Variations"
+artist: "Tom Waits"
+album_name: "Mule Variations"
 date: 2017-12-15
 release_id: "11280851"
 slug: "mule-variations-11280851"
+hideSummary: true
 cover:
     image: "mule-variations-11280851.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Mule Variations by Tom Waits"
+    caption: "Mule Variations by Tom Waits"
+genres: ["Electronic", "Rock"]
+styles: ["Abstract", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Tom Waits - Georgia Lee](https://www.youtube.com/watch?v=hrYEvUOj5bg)
 - [Whats He Building by Tom Waits album: Mule Variations](https://www.youtube.com/watch?v=qjX0GYKFU2k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tom Waits - Mule Variations](https://www.discogs.com/release/11280851) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tom Waits - Mule Variations](https://www.discogs.com/release/11280851-Tom-Waits-Mule-Variations) |
 | Label          | Anti- |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 6547-3 |
+
+Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler. Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.  All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.  Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records  John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.  Marc Ribot appears courtesy of Atlantic Recording Corporation  © 1999 Jalma Music (ASCAP)
 

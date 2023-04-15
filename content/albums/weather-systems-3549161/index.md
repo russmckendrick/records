@@ -1,14 +1,17 @@
 ---
 title: "Anathema - Weather Systems"
-album_artist: "Anathema"
-album_title: "Weather Systems"
+artist: "Anathema"
+album_name: "Weather Systems"
 date: 2016-03-29
 release_id: "3549161"
 slug: "weather-systems-3549161"
+hideSummary: true
 cover:
     image: "weather-systems-3549161.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Weather Systems by Anathema"
+    caption: "Weather Systems by Anathema"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Anathema - Lost Child (Weather Systems)](https://www.youtube.com/watch?v=iUKEORfqDF4)
 - [Anathema - Gathering Of The Clouds (Weather Systems)](https://www.youtube.com/watch?v=SIA64DzrAdk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Anathema - Weather Systems](https://www.discogs.com/release/3549161) |
+| Release Year   | 2012 |
+| Discogs Link   | [Anathema - Weather Systems](https://www.discogs.com/release/3549161-Anathema-Weather-Systems) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | KSCOPE824 |
+
+180 gram vinyl in a gatefold sleeve with printed inner sleeves, and a download card.  Recorded at Parr Street Studios - Liverpool, Aerial Studios, Wrexham and at Christer's place, Oslo. Mixed at Christer's place. Mastered by Chris Sansom at Propeller mastering Oslo. Strings recorded by Steve Price at Angel Studios, London. Band photo by Rod Maurice for Le-HibOO. Photos reproduced courtesy of the National Oceanic & Atmospheric Administration. Management Andy Leff & Alx Leeks for Acme Music.  "Internal Landscapes" is dedicated to William Cavanagh.  Kscope is a Snapper Music label. ℗ 2012 Anathema © 2012 Anathema Made in Germany. 
 

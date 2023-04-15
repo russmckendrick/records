@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - Folklore"
-album_artist: "Big Big Train"
-album_title: "Folklore"
+artist: "Big Big Train"
+album_name: "Folklore"
 date: 2016-05-25
 release_id: "8567409"
 slug: "folklore-8567409"
+hideSummary: true
 cover:
     image: "folklore-8567409.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Folklore by Big Big Train"
+    caption: "Folklore by Big Big Train"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-{2016}](https://www.youtube.com/watch?v=O9l-ROlHqg0)
 - [Folklore by Big Big Train](https://www.youtube.com/watch?v=0D9YF3e4Gac)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Big Big Train - Folklore](https://www.discogs.com/release/8567409) |
+| Release Year   | 2016 |
+| Discogs Link   | [Big Big Train - Folklore](https://www.discogs.com/release/8567409-Big-Big-Train-Folklore) |
 | Label          | Plane Groovy, English Electric Recordings |
 | Format         | 2xLP, Album |
 | Catalog Number | PLG044 |
+
+Gatefold edition with two additional tracks to CD, Mudlark and Rivers of London, which both appear on the Wassail EP (2015). A limited number of copies sold through Burning Shed were autographed by the band on the inner booklet.
 

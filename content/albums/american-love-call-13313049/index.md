@@ -1,14 +1,17 @@
 ---
 title: "Durand Jones & The Indications - American Love Call"
-album_artist: "Durand Jones & The Indications"
-album_title: "American Love Call"
+artist: "Durand Jones & The Indications"
+album_name: "American Love Call"
 date: 2019-03-11
 release_id: "13313049"
 slug: "american-love-call-13313049"
+hideSummary: true
 cover:
     image: "american-love-call-13313049.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "American Love Call by Durand Jones & The Indications"
+    caption: "American Love Call by Durand Jones & The Indications"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [How Can I Be Sure](https://www.youtube.com/watch?v=Ouut4xyeOIU)
 - [True Love](https://www.youtube.com/watch?v=L8demwJ3318)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Durand Jones & The Indications - American Love Call](https://www.discogs.com/release/13313049) |
+| Release Year   | 2019 |
+| Discogs Link   | [Durand Jones & The Indications - American Love Call](https://www.discogs.com/release/13313049-Durand-Jones-The-Indications-American-Love-Call) |
 | Label          | Dead Oceans, Colemine Records |
 | Format         | LP, Album, Ltd, Pur + CD, EP |
 | Catalog Number | DOC 177 |
+
+Rough Trade exclusive pressing on transparent purple vinyl; includes a download code for digital copies of the LP and a bonus "Demo Tracks" CD.
 

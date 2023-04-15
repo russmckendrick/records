@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury And The Blockheads - Laughter"
-album_artist: "Ian Dury And The Blockheads"
-album_title: "Laughter"
+artist: "Ian Dury And The Blockheads"
+album_name: "Laughter"
 date: 2016-09-21
 release_id: "8396709"
 slug: "laughter-8396709"
+hideSummary: true
 cover:
     image: "laughter-8396709.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Laughter by Ian Dury And The Blockheads"
+    caption: "Laughter by Ian Dury And The Blockheads"
+genres: ["Rock", "Funk / Soul"]
+styles: ["New Wave", "Pop Rock", "Disco"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
 - [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/8396709) |
+| Release Year   | 2014 |
+| Discogs Link   | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/8396709-Ian-Dury-The-Blockheads-Laughter) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE |
 | Catalog Number | DEMREC57 |
+
+Contains printed inner which shows Ian Horne and Wilco Johnson.  Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING". -------------------- Some other examples have the WARNING! sticker adhered to the left side of the front, and a small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'. ------------------ 
 

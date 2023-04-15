@@ -1,14 +1,17 @@
 ---
 title: "My Morning Jacket - The Waterfall"
-album_artist: "My Morning Jacket"
-album_title: "The Waterfall"
+artist: "My Morning Jacket"
+album_name: "The Waterfall"
 date: 2015-08-09
 release_id: "6959105"
 slug: "the-waterfall-6959105"
+hideSummary: true
 cover:
     image: "the-waterfall-6959105.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Waterfall by My Morning Jacket"
+    caption: "The Waterfall by My Morning Jacket"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [My Morning Jacket - Believe (Nobody Knows) (Visualizer)](https://www.youtube.com/watch?v=_K7RsttseGI)
 - [My Morning Jacket - Like A River](https://www.youtube.com/watch?v=IZHNZaWIPis)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [My Morning Jacket - The Waterfall](https://www.discogs.com/release/6959105) |
+| Release Year   | 2015 |
+| Discogs Link   | [My Morning Jacket - The Waterfall](https://www.discogs.com/release/6959105-My-Morning-Jacket-The-Waterfall) |
 | Label          | ATO Records |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | ATO0276LP |
+
+Gatefold jacket. Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.  ℗&© 2015 ATO Records, LLC under exclusive license to [PIAS]
 

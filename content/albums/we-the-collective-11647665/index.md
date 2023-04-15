@@ -1,14 +1,17 @@
 ---
 title: "The Levellers - We The Collective"
-album_artist: "The Levellers"
-album_title: "We The Collective"
+artist: "The Levellers"
+album_name: "We The Collective"
 date: 2018-03-30
 release_id: "11647665"
 slug: "we-the-collective-11647665"
+hideSummary: true
 cover:
     image: "we-the-collective-11647665.jpg"
-tags: ["Rock", "Classical"]
-hideSummary: true
+    alt: "We The Collective by The Levellers"
+    caption: "We The Collective by The Levellers"
+genres: ["Rock", "Classical"]
+styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Dance Before The Storm](https://www.youtube.com/watch?v=vA1QK16pPFs)
 - [England My Home](https://www.youtube.com/watch?v=TrPa6me_JkU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Levellers - We The Collective](https://www.discogs.com/release/11647665) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Levellers - We The Collective](https://www.discogs.com/release/11647665-Levellers-We-The-Collective) |
 | Label          | On The Fiddle Recordings, On The Fiddle Recordings |
 | Format         | LP, Album, Gre + 12\", Gre + Dlx, Ltd |
 | Catalog Number | OTFLP029F, OTFS023X |
+
+LP+12” limited edition green vinyl . Limited to 1000 copies worldwide.  First 500 copies Signed by Band.
 

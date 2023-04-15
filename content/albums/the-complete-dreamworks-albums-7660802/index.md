@@ -1,14 +1,17 @@
 ---
 title: "Eels - The Complete Dreamworks Albums"
-album_artist: "Eels"
-album_title: "The Complete Dreamworks Albums"
+artist: "Eels"
+album_name: "The Complete Dreamworks Albums"
 date: 2016-01-19
 release_id: "7660802"
 slug: "the-complete-dreamworks-albums-7660802"
+hideSummary: true
 cover:
     image: "the-complete-dreamworks-albums-7660802.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Complete Dreamworks Albums by Eels"
+    caption: "The Complete Dreamworks Albums by Eels"
+genres: ["Rock"]
+styles: ["Indie Rock", "Lo-Fi"]
 ---
 
 ## Tracklisting
@@ -102,16 +105,17 @@ hideSummary: true
 88. The Medication Is Wearing Off
 89. Climbing To The Moon
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Eels - The Complete Dreamworks Albums](https://www.discogs.com/release/7660802) |
+| Release Year   | 2015 |
+| Discogs Link   | [Eels - The Complete Dreamworks Albums](https://www.discogs.com/release/7660802-Eels-The-Complete-Dreamworks-Albums) |
 | Label          | Universal Music Group, Universal Music Group, Universal Music Group, Universal Music Group, UMe, Geffen Records, Geffen Records, Geffen Records, Geffen Records, DreamWorks Records, E Works Records |
 | Format         | LP, Album, RE + 2xLP, Album, RE + LP, Album, RE +  |
 | Catalog Number | 602547306623, 602547306616, 602547306630, 60254730 |
+
+"Daisies Of The Galaxy" and "Souljacker" have consecutively listed track positions. Track H15 is not listed on the release.  M1-O3 Recorded somewhere in England, December 1998 P1. Gronigen, Holland, Sept. 30 1998 P2. Stockholm, Sweden, Oct. 5 1998 P3 & P4. Paris, France, Sept. 21 1998 P5. Indianapolis, Indiana, U.S.A., Oct. 29 1998  First 100 copies came with 6 art prints.
 

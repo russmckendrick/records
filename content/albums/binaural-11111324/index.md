@@ -1,14 +1,17 @@
 ---
 title: "Pearl Jam - Binaural"
-album_artist: "Pearl Jam"
-album_title: "Binaural"
+artist: "Pearl Jam"
+album_name: "Binaural"
 date: 2018-01-20
 release_id: "11111324"
 slug: "binaural-11111324"
+hideSummary: true
 cover:
     image: "binaural-11111324.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Binaural by Pearl Jam"
+    caption: "Binaural by Pearl Jam"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Light Years](https://www.youtube.com/watch?v=qW_x8gujuYs)
 - [Sleight of Hand](https://www.youtube.com/watch?v=Gb0lzdMGc6Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Pearl Jam - Binaural](https://www.discogs.com/release/11111324) |
+| Release Year   | 2017 |
+| Discogs Link   | [Pearl Jam - Binaural](https://www.discogs.com/release/11111324-Pearl-Jam-Binaural) |
 | Label          | Epic, Legacy, Sony Music |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 88985409121 |
+
+On back cover : © 2000, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 2000 Epic Records, a division of Sony Music Entertainment / Distributed by Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33310 Gütersloh, Germany. / All trademarks and logos are protected. / EPIC is a registered trademark of Sony Music Entertainment. / All Rights Reserved. /Made in the EU. / This package consists of previously released material. / LC00199  On sticker :  "Newly Remastered from the Original Sources by [a271098] 88985409121S1"  Released in a 3-panel gatefold jacket, with two special cardboard photo inner sleeves, and a replica of the original [r=1092382]'s booklet incl. song lyrics, credits & photos.  Unlike the [US version](https://www.discogs.com/release/11112572), the EU version contains the Sony Music logo.
 

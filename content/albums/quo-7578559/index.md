@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Quo"
-album_artist: "Status Quo"
-album_title: "Quo"
+artist: "Status Quo"
+album_name: "Quo"
 date: 2016-05-23
 release_id: "7578559"
 slug: "quo-7578559"
+hideSummary: true
 cover:
     image: "quo-7578559.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Quo by Status Quo"
+    caption: "Quo by Status Quo"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Status Quo - Backwater and Just Take Me 1974 Hard Rock](https://www.youtube.com/watch?v=AhKBCIYzX8c)
 - [Backwater/Just Take Me Status Quo Apollo Theatre Glasgow](https://www.youtube.com/watch?v=7Mlh5wtJgMc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Quo](https://www.discogs.com/release/7578559) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Quo](https://www.discogs.com/release/7578559-Status-Quo-Quo) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 4723764 |
+
+Comes as 180 gram Vinyl with a poster and a 4-page inlay  © 1974 Mercury Records Limited/Universal Music Catalogue ℗ 1974 Mercury Records Limited  
 

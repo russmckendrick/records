@@ -1,14 +1,17 @@
 ---
 title: "Nas - Illmatic"
-album_artist: "Nas"
-album_title: "Illmatic"
+artist: "Nas"
+album_name: "Illmatic"
 date: 2022-10-14
 release_id: "24818978"
 slug: "illmatic-24818978"
+hideSummary: true
 cover:
     image: "illmatic-24818978.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Illmatic by Nas"
+    caption: "Illmatic by Nas"
+genres: ["Hip Hop"]
+styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [Nas - Illmatic ALBUM REVIEW](https://www.youtube.com/watch?v=DjVrJ1kSmRA)
 - [Illmatic: The Greatest Rap Album Ever](https://www.youtube.com/watch?v=2rKJ-ayJXIM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Nas - Illmatic](https://www.discogs.com/release/24818978) |
+| Release Year   | 2022 |
+| Discogs Link   | [Nas - Illmatic](https://www.discogs.com/release/24818978-Nas-Illmatic) |
 | Label          | Columbia |
 | Format         | LP, Album, Ltd, RP, Red |
 | Catalog Number | 19658723181 |
+
+National Album Day 2022
 

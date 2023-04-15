@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - This Is My Truth Tell Me Yours"
-album_artist: "Manic Street Preachers"
-album_title: "This Is My Truth Tell Me Yours"
+artist: "Manic Street Preachers"
+album_name: "This Is My Truth Tell Me Yours"
 date: 2018-12-07
 release_id: "12902247"
 slug: "this-is-my-truth-tell-me-yours-12902247"
+hideSummary: true
 cover:
     image: "this-is-my-truth-tell-me-yours-12902247.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "This Is My Truth Tell Me Yours by Manic Street Preachers"
+    caption: "This Is My Truth Tell Me Yours by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Ready For Drowning](https://www.youtube.com/watch?v=KDJvmgc-lPk)
 - [Manic Street Preachers - If You Tolerate This Your Children Will Be Next (Live)](https://www.youtube.com/watch?v=ubhMc_odHcU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Manic Street Preachers - This Is My Truth Tell Me Yours](https://www.discogs.com/release/12902247) |
+| Release Year   | 2018 |
+| Discogs Link   | [Manic Street Preachers - This Is My Truth Tell Me Yours](https://www.discogs.com/release/12902247-Manic-Street-Preachers-This-Is-My-Truth-Tell-Me-Yours) |
 | Label          | Sony Music, Epic |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | 19075895241 |
+
+20th Anniversary Collectors’ Edition  Gatefold sleeve Printed inner sleeves Double180 gram vinyl Includes mp3 download card and a poster.  Made in the EU. 
 

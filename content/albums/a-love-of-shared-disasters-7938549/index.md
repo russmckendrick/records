@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - A Love Of Shared Disasters"
-album_artist: "Crippled Black Phoenix"
-album_title: "A Love Of Shared Disasters"
+artist: "Crippled Black Phoenix"
+album_name: "A Love Of Shared Disasters"
 date: 2016-02-21
 release_id: "7938549"
 slug: "a-love-of-shared-disasters-7938549"
+hideSummary: true
 cover:
     image: "a-love-of-shared-disasters-7938549.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Love Of Shared Disasters by Crippled Black Phoenix"
+    caption: "A Love Of Shared Disasters by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Crippled Black Phoenix - The Whistler](https://www.youtube.com/watch?v=WY9F0NoOXhg)
 - [Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends](https://www.youtube.com/watch?v=VZQ-QgI9Y88)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Crippled Black Phoenix - A Love Of Shared Disasters](https://www.discogs.com/release/7938549) |
+| Release Year   | 2015 |
+| Discogs Link   | [Crippled Black Phoenix - A Love Of Shared Disasters](https://www.discogs.com/release/7938549-Crippled-Black-Phoenix-A-Love-Of-Shared-Disasters) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | KSCOPE901 |
+
+Sticker on a shrinkwrap: "Crippled Black Phoenix A Love of Shared Disasters GATEFOLD 2LP on 180g VINYL 2006 debut album from the musical collective led by Justin Greaves (Electric Wizard, Iron Monkey, Se Delan) & Dominic Aitchison (Mogwai) with alternative cover artwork. kscope901 kscopemusic.com/cbp"  2 x 180g black vinyl in gatefold cover. Made in Germany.
 

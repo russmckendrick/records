@@ -1,14 +1,17 @@
 ---
 title: "Tori Amos - Little Earthquakes"
-album_artist: "Tori Amos"
-album_title: "Little Earthquakes"
+artist: "Tori Amos"
+album_name: "Little Earthquakes"
 date: 2017-03-26
 release_id: "6886034"
 slug: "little-earthquakes-6886034"
+hideSummary: true
 cover:
     image: "little-earthquakes-6886034.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Little Earthquakes by Tori Amos"
+    caption: "Little Earthquakes by Tori Amos"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Tori Amos - Winter (Official Music Video)](https://www.youtube.com/watch?v=_PDlGUdDF8Y)
 - [Tori Amos - Crucify [Music Video]](https://www.youtube.com/watch?v=q8ljHOSqc4A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/6886034) |
+| Release Year   | 2015 |
+| Discogs Link   | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/6886034-Tori-Amos-Little-Earthquakes) |
 | Label          | Atlantic |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 081227968304 |
+
+Made in EU. Insert included.  
 

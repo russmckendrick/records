@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - Know Your Enemy"
-album_artist: "Manic Street Preachers"
-album_title: "Know Your Enemy"
+artist: "Manic Street Preachers"
+album_name: "Know Your Enemy"
 date: 2022-09-10
 release_id: "24453626"
 slug: "know-your-enemy-24453626"
+hideSummary: true
 cover:
     image: "know-your-enemy-24453626.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Know Your Enemy by Manic Street Preachers"
+    caption: "Know Your Enemy by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Manic Street Preachers - Found That Soul](https://www.youtube.com/watch?v=DWmtlTxvUsU)
 - [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=3UAjcuSVZMs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Manic Street Preachers - Know Your Enemy](https://www.discogs.com/release/24453626) |
+| Release Year   | 2022 |
+| Discogs Link   | [Manic Street Preachers - Know Your Enemy](https://www.discogs.com/release/24453626-Manic-Street-Preachers-Know-Your-Enemy) |
 | Label          | Columbia, Sony Music |
 | Format         | LP, Album + LP, Album + RM, 180 |
 | Catalog Number | 19439988681 |
+
+A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.  Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail. Top opening picture inner sleeves of thin card. Hype stickered shrink-wrap.  A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.  Tracks on each album are numbered sequentially. All runout characters are etched excepting the pressing numbers between "- -", which are stamped.  Made in the EU.
 

@@ -1,14 +1,17 @@
 ---
 title: "Talking Heads - Speaking In Tongues"
-album_artist: "Talking Heads"
-album_title: "Speaking In Tongues"
+artist: "Talking Heads"
+album_name: "Speaking In Tongues"
 date: 2017-03-11
 release_id: "4564584"
 slug: "speaking-in-tongues-4564584"
+hideSummary: true
 cover:
     image: "speaking-in-tongues-4564584.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Speaking In Tongues by Talking Heads"
+    caption: "Speaking In Tongues by Talking Heads"
+genres: ["Rock", "Funk / Soul"]
+styles: ["New Wave", "Pop Rock", "Funk"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
 - [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/4564584) |
+| Release Year   | 2013 |
+| Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/4564584-Talking-Heads-Speaking-In-Tongues) |
 | Label          | Sire, Rhino Records (2) |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122796665 |
+
+Comes with a printed inner sleeve, containing lyrics.  Basic tracks recorded at Blank Tapes, NY. Final overdubbing and mixing at Compass Point Studios and Sigma Sound, NY. © 1983 Bleu Disque Music Co./ Index Music, Inc. ASCAP  ℗ 1983 Sire Records Company. © 1983 Sire Records Company & Talking Heads Tours Inc.  On inner sleeve: Made in U.S.A. On labels: Made in EU. On back cover: Manufactured In The E.U.
 

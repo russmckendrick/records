@@ -1,14 +1,17 @@
 ---
 title: "Mike Oldfield - Ommadawn"
-album_artist: "Mike Oldfield"
-album_title: "Ommadawn"
+artist: "Mike Oldfield"
+album_name: "Ommadawn"
 date: 2017-06-01
 release_id: "6644110"
 slug: "ommadawn-6644110"
+hideSummary: true
 cover:
     image: "ommadawn-6644110.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ommadawn by Mike Oldfield"
+    caption: "Ommadawn by Mike Oldfield"
+genres: ["Rock"]
+styles: ["Prog Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 - [Mike Oldfield - Ommadawn (Part Two)](https://www.youtube.com/watch?v=7cn0IHm-Q38)
 - [Mike Oldfield Ommadawn Part 1. Live, Roskilde Festival1982](https://www.youtube.com/watch?v=_gPXrmytqeQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Mike Oldfield - Ommadawn](https://www.discogs.com/release/6644110) |
+| Release Year   | 1975 |
+| Discogs Link   | [Mike Oldfield - Ommadawn](https://www.discogs.com/release/6644110-Mike-Oldfield-Ommadawn) |
 | Label          | Virgin |
 | Format         | LP, Album |
 | Catalog Number | V 2043 |
+
+Recorded at The Beacon January - September 1975.  Printed cardboard inner sleeve.  Virgin Records, Vernon Yard, Portobello Road, London W11 Printed in England by Robor Limited  Different coloured labels.  Bagpipes player : Herbie credited on inner sleeve Paddy Moloney credited on center label side B only
 

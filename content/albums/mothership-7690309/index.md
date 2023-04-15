@@ -1,14 +1,17 @@
 ---
 title: "Led Zeppelin - Mothership"
-album_artist: "Led Zeppelin"
-album_title: "Mothership"
+artist: "Led Zeppelin"
+album_name: "Mothership"
 date: 2016-01-03
 release_id: "7690309"
 slug: "mothership-7690309"
+hideSummary: true
 cover:
     image: "mothership-7690309.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mothership by Led Zeppelin"
+    caption: "Mothership by Led Zeppelin"
+genres: ["Rock"]
+styles: ["Hard Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -37,16 +40,17 @@ hideSummary: true
 23. In The Evening (6:49)
 24. All Of My Love (5:53)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Led Zeppelin - Mothership](https://www.discogs.com/release/7690309) |
+| Release Year   | 2015 |
+| Discogs Link   | [Led Zeppelin - Mothership](https://www.discogs.com/release/7690309-Led-Zeppelin-Mothership) |
 | Label          | Atlantic, Swan Song |
 | Format         | Box + 4xLP, Comp, Enh, RE, RM, Emb |
 | Catalog Number | R1 344700 |
+
+This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company   © 2007 Mythgem, Ltd.  4-LP Set  Sticker on box front states :   - The Very Best of Led Zepplin - Remastering Supervised by Jimmy Page - Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs - On Four 180-Gram LPS - Plus 20-Page Booklet 
 

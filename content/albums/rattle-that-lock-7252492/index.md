@@ -1,14 +1,17 @@
 ---
 title: "David Gilmour - Rattle That Lock"
-album_artist: "David Gilmour"
-album_title: "Rattle That Lock"
+artist: "David Gilmour"
+album_name: "Rattle That Lock"
 date: 2015-09-18
 release_id: "7252492"
 slug: "rattle-that-lock-7252492"
+hideSummary: true
 cover:
     image: "rattle-that-lock-7252492.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rattle That Lock by David Gilmour"
+    caption: "Rattle That Lock by David Gilmour"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [David Gilmour - And Then... (Official Audio)](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
 - [David Gilmour, Rattle That Lock (Albun completo)](https://www.youtube.com/watch?v=HMJl3gq2Ows)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [David Gilmour - Rattle That Lock](https://www.discogs.com/release/7252492) |
+| Release Year   | 2015 |
+| Discogs Link   | [David Gilmour - Rattle That Lock](https://www.discogs.com/release/7252492-David-Gilmour-Rattle-That-Lock) |
 | Label          | Columbia |
 | Format         | LP, Album |
 | Catalog Number | 88875123291 |
+
+Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions. [Download card of CD version (mp3)](http://www.discogs.com/release/9200296). Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release.
 

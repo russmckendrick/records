@@ -1,14 +1,17 @@
 ---
 title: "Heaven 17 - Play To Win (The • Virgin • Albums)"
-album_artist: "Heaven 17"
-album_title: "Play To Win (The • Virgin • Albums)"
+artist: "Heaven 17"
+album_name: "Play To Win (The • Virgin • Albums)"
 date: 2019-03-31
 release_id: "13428374"
 slug: "play-to-win-the-virgin-albums-13428374"
+hideSummary: true
 cover:
     image: "play-to-win-the-virgin-albums-13428374.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Play To Win (The • Virgin • Albums) by Heaven 17"
+    caption: "Play To Win (The • Virgin • Albums) by Heaven 17"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -67,13 +70,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="m-fY639gW08" title="Play To Win (Remastered)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Heaven 17 - Play To Win (The • Virgin • Albums)](https://www.discogs.com/release/13428374) |
+| Release Year   | 2019 |
+| Discogs Link   | [Heaven 17 - Play To Win (The • Virgin • Albums)](https://www.discogs.com/release/13428374-Heaven-17-Play-To-Win-The-Virgin-Albums) |
 | Label          | Demon Records |
 | Format         | Box, Comp, Ltd + LP, Album, RE, Whi + LP, Album, R |
 | Catalog Number | DEMRECBOX31 |
+
+  
 

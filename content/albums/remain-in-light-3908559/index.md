@@ -1,14 +1,17 @@
 ---
 title: "Talking Heads - Remain In Light"
-album_artist: "Talking Heads"
-album_title: "Remain In Light"
+artist: "Talking Heads"
+album_name: "Remain In Light"
 date: 2015-09-16
 release_id: "3908559"
 slug: "remain-in-light-3908559"
+hideSummary: true
 cover:
     image: "remain-in-light-3908559.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Remain In Light by Talking Heads"
+    caption: "Remain In Light by Talking Heads"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Listening Wind (2005 Remaster)](https://www.youtube.com/watch?v=RjWej8fOdR8)
 - [The Overload (2005 Remaster)](https://www.youtube.com/watch?v=fNpc8jv7Awk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Talking Heads - Remain In Light](https://www.discogs.com/release/3908559) |
+| Release Year   | 0 |
+| Discogs Link   | [Talking Heads - Remain In Light](https://www.discogs.com/release/3908559-Talking-Heads-Remain-In-Light) |
 | Label          | Sire, Sire, Sire |
 | Format         | LP, Album, RE |
 | Catalog Number | SIR K 56 867, SRK. 6095, WB 56 867 |
+
+℗ 1980 Sire Records Company. Distributed by WEA Records Ltd. Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf. Label: Made in Germany by WEA Musik GMBH  Cat# on labels: SRK. 6095 Cat# on sleeve: SIR K 56 867 Cat# on inner sleeve: WB 56 867 UK: SRK 6095  Printed polylined inner sleeve.  The back cover and labels have different tracklistings, of which the label shows the correct order.
 

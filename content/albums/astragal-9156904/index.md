@@ -1,14 +1,17 @@
 ---
 title: "Broken DC - Astragal"
-album_artist: "Broken DC"
-album_title: "Astragal"
+artist: "Broken DC"
+album_name: "Astragal"
 date: 2016-11-17
 release_id: "9156904"
 slug: "astragal-9156904"
+hideSummary: true
 cover:
     image: "astragal-9156904.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Astragal by Broken DC"
+    caption: "Astragal by Broken DC"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="mK12aoSMjvc" title="Broken DC - Summer Lawns" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Broken DC - Astragal](https://www.discogs.com/release/9156904) |
+| Release Year   | 2016 |
+| Discogs Link   | [Broken DC - Astragal](https://www.discogs.com/release/9156904-Broken-DC-Astragal) |
 | Label          | God Unknown Records |
 | Format         | LP, Album, Ltd |
 | Catalog Number | GOD025 |
+
+Limited edition of 300
 

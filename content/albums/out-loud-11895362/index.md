@@ -1,14 +1,17 @@
 ---
 title: "Michael Kiwanuka - Out Loud!"
-album_artist: "Michael Kiwanuka"
-album_title: "Out Loud!"
+artist: "Michael Kiwanuka"
+album_name: "Out Loud!"
 date: 2018-07-28
 release_id: "11895362"
 slug: "out-loud-11895362"
+hideSummary: true
 cover:
     image: "out-loud-11895362.jpg"
-tags: ["Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "Out Loud! by Michael Kiwanuka"
+    caption: "Out Loud! by Michael Kiwanuka"
+genres: ["Funk / Soul", "Blues"]
+styles: ["Soul", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Michael Kiwanuka - Out Loud!](https://www.youtube.com/watch?v=mZ_q4N1HvWM)
 - [Michael Kiwanuka - Cold Little Heart (Live Session Video)](https://www.youtube.com/watch?v=FngDSOuCNAA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Michael Kiwanuka - Out Loud!](https://www.discogs.com/release/11895362) |
+| Release Year   | 2018 |
+| Discogs Link   | [Michael Kiwanuka - Out Loud!](https://www.discogs.com/release/11895362-Michael-Kiwanuka-Out-Loud) |
 | Label          | Polydor |
 | Format         | LP, RSD, Ltd |
 | Catalog Number | 6730886 |
+
+RSD Exclusive Release limited to 3500 copies.  Comes with a download card for the album & bonus track "Cold Little Heart - Live From Royal Albert Hall, London 2017".  ℗ © 2018 Polydor Limited  Made in the Czech Republic. [back sleeve, labels]  Publisher BMG Chrysalis Music as BMG Chrysalis 
 

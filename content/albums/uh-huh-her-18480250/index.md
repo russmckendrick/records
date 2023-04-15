@@ -1,14 +1,17 @@
 ---
 title: "PJ Harvey - Uh Huh Her"
-album_artist: "PJ Harvey"
-album_title: "Uh Huh Her"
+artist: "PJ Harvey"
+album_name: "Uh Huh Her"
 date: 2021-04-30
 release_id: "18480250"
 slug: "uh-huh-her-18480250"
+hideSummary: true
 cover:
     image: "uh-huh-her-18480250.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Uh Huh Her by PJ Harvey"
+    caption: "Uh Huh Her by PJ Harvey"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The Life And Death Of Mr. Badmouth](https://www.youtube.com/watch?v=GnM9ZKuZM60)
 - [Cat On The Wall](https://www.youtube.com/watch?v=TXnJdptcL9A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [PJ Harvey - Uh Huh Her](https://www.discogs.com/release/18480250) |
+| Release Year   | 2021 |
+| Discogs Link   | [PJ Harvey - Uh Huh Her](https://www.discogs.com/release/18480250-P-J-Harvey-Uh-Huh-Her) |
 | Label          | Island Records, Island Records Group |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0725318 |
+
+On jacket back: 0725318 • LC00407 • BIEM/SDRM ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. www.pjharvey.net  Label rimext: An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM  Issued with printed inner sleeve.  Download card included with some copies.  Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)  Hype sticker with cat. # affixed to shrink on some copies: Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame  Pressed On 180GSM Vinyl Includes Download Card  In runouts, Optimal symbols are mirrored.
 

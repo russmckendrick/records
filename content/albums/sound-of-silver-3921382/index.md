@@ -1,14 +1,17 @@
 ---
 title: "LCD Soundsystem - Sound Of Silver"
-album_artist: "LCD Soundsystem"
-album_title: "Sound Of Silver"
+artist: "LCD Soundsystem"
+album_name: "Sound Of Silver"
 date: 2016-10-31
 release_id: "3921382"
 slug: "sound-of-silver-3921382"
+hideSummary: true
 cover:
     image: "sound-of-silver-3921382.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Sound Of Silver by LCD Soundsystem"
+    caption: "Sound Of Silver by LCD Soundsystem"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Sound of Silver](https://www.youtube.com/watch?v=_kmTQj8x0N8)
 - [New York, I Love You but You're Bringing Me Down](https://www.youtube.com/watch?v=c5kM3iwYVi0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [LCD Soundsystem - Sound Of Silver](https://www.discogs.com/release/3921382) |
+| Release Year   | 2012 |
+| Discogs Link   | [LCD Soundsystem - Sound Of Silver](https://www.discogs.com/release/3921382-LCD-Soundsystem-Sound-Of-Silver) |
 | Label          | DFA |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | dfaemi 2164lp |
+
+2012 Reissue. 180g vinyl. Printed in UK  Packaging:  Gatefold cover double album. Includes a large poster. Printed inner sleeves with pictures and lyrics. Metalic silver embossed writing on the front cover. Electrospective sticker on the shrink wrap.
 

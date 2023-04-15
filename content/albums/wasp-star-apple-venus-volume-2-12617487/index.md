@@ -1,14 +1,17 @@
 ---
 title: "XTC - Wasp Star (Apple Venus Volume 2)"
-album_artist: "XTC"
-album_title: "Wasp Star (Apple Venus Volume 2)"
+artist: "XTC"
+album_name: "Wasp Star (Apple Venus Volume 2)"
 date: 2018-10-27
 release_id: "12617487"
 slug: "wasp-star-apple-venus-volume-2-12617487"
+hideSummary: true
 cover:
     image: "wasp-star-apple-venus-volume-2-12617487.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wasp Star (Apple Venus Volume 2) by XTC"
+    caption: "Wasp Star (Apple Venus Volume 2) by XTC"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [XTC  -  Church Of Women](https://www.youtube.com/watch?v=cgiueeCJOLY)
 - [XTC -The Wheel and the Maypole-](https://www.youtube.com/watch?v=vRIP77kLhxI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [XTC - Wasp Star (Apple Venus Volume 2)](https://www.discogs.com/release/12617487) |
+| Release Year   | 2018 |
+| Discogs Link   | [XTC - Wasp Star (Apple Venus Volume 2)](https://www.discogs.com/release/12617487-XTC-Wasp-Star-Apple-Venus-Volume-2) |
 | Label          | Ape House |
 | Format         | LP, Album, RE, 200 |
 | Catalog Number | APELP119 |
+
+lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits 
 

@@ -1,14 +1,17 @@
 ---
 title: "Ash - 1977"
-album_artist: "Ash"
-album_title: "1977"
+artist: "Ash"
+album_name: "1977"
 date: 2022-07-02
 release_id: "23719583"
 slug: "1977-23719583"
+hideSummary: true
 cover:
     image: "1977-23719583.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "1977 by Ash"
+    caption: "1977 by Ash"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Lost In You
 12. Darkside Lightside
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Ash - 1977](https://www.discogs.com/release/23719583) |
+| Release Year   | 2022 |
+| Discogs Link   | [Ash - 1977](https://www.discogs.com/release/23719583-Ash-1977) |
 | Label          | BMG |
 | Format         | LP, Album, RE, RM, Whi |
 | Catalog Number | BMGCAT711CLP |
+
+Gatefold sleeve Sticker reports "Black & White splatter vinyl - Each copy unique and individual"  Track numbering listed sequentially on both sleeve and side labels.   4050538785463 catalog number printed on side labels  Manufactured in Czech Republic.
 

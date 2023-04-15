@@ -1,14 +1,17 @@
 ---
 title: "Jean-Michel Jarre - Equinoxe Infinity"
-album_artist: "Jean-Michel Jarre"
-album_title: "Equinoxe Infinity"
+artist: "Jean-Michel Jarre"
+album_name: "Equinoxe Infinity"
 date: 2018-11-17
 release_id: "12805890"
 slug: "equinoxe-infinity-12805890"
+hideSummary: true
 cover:
     image: "equinoxe-infinity-12805890.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Equinoxe Infinity by Jean-Michel Jarre"
+    caption: "Equinoxe Infinity by Jean-Michel Jarre"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Jean Michel Jarre - Equinoxe Infinity [Full Album] [HQ]](https://www.youtube.com/watch?v=LL1RawtMmb8)
 - [Jean Michel Jarre - The Watchers (Movement I)](https://www.youtube.com/watch?v=d_RsdauwljE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jean-Michel Jarre - Equinoxe Infinity](https://www.discogs.com/release/12805890) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jean-Michel Jarre - Equinoxe Infinity](https://www.discogs.com/release/12805890-Jean-Michel-Jarre-Equinoxe-Infinity) |
 | Label          | Columbia |
 | Format         | LP, Album, Fir |
 | Catalog Number | 19075876451 |
+
+Pre-mastered with the new FiDef algorithm.  Made in the EU
 

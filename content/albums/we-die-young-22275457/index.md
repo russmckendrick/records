@@ -1,14 +1,17 @@
 ---
 title: "Alice In Chains - We Die Young"
-album_artist: "Alice In Chains"
-album_title: "We Die Young"
+artist: "Alice In Chains"
+album_name: "We Die Young"
 date: 2022-04-24
 release_id: "22275457"
 slug: "we-die-young-22275457"
+hideSummary: true
 cover:
     image: "we-die-young-22275457.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "We Die Young by Alice In Chains"
+    caption: "We Die Young by Alice In Chains"
+genres: ["Rock"]
+styles: ["Alternative Metal", "Grunge"]
 ---
 
 ## Tracklisting
@@ -22,13 +25,16 @@ hideSummary: true
 - [Alice in Chains - Killing Yourself - We Die Young EP](https://www.youtube.com/watch?v=MtrLJrMZwMo)
 - [Killing Yourself - Alice in Chains](https://www.youtube.com/watch?v=6e8l4TPdVCI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Alice In Chains - We Die Young](https://www.discogs.com/release/22275457) |
+| Release Year   | 2022 |
+| Discogs Link   | [Alice In Chains - We Die Young](https://www.discogs.com/release/22275457-Alice-In-Chains-We-Die-Young) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | 12\", EP, RSD, Ltd, RE, RM |
 | Catalog Number | 19439784651 |
+
+Record Store Day 2022 exclusive release, edition of 14350 copies worldwide. This is the version for RSD outside the US, that can be distinguished from the US version by the presence of Sony Music logo. No MPO pressing info on side C.  Made in the EU.
 

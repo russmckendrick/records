@@ -1,14 +1,17 @@
 ---
 title: "The Rolling Stones - Exile On Main St."
-album_artist: "The Rolling Stones"
-album_title: "Exile On Main St."
+artist: "The Rolling Stones"
+album_name: "Exile On Main St."
 date: 2015-08-09
 release_id: "2285052"
 slug: "exile-on-main-st-2285052"
+hideSummary: true
 cover:
     image: "exile-on-main-st-2285052.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Exile On Main St. by The Rolling Stones"
+    caption: "Exile On Main St. by The Rolling Stones"
+genres: ["Rock"]
+styles: ["Blues Rock", "Country Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -31,16 +34,17 @@ hideSummary: true
 17. Shine A Light (4:12)
 18. Soul Survivor (3:46)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [The Rolling Stones - Exile On Main St.](https://www.discogs.com/release/2285052) |
+| Release Year   | 2010 |
+| Discogs Link   | [The Rolling Stones - Exile On Main St.](https://www.discogs.com/release/2285052-The-Rolling-Stones-Exile-On-Main-St) |
 | Label          | Rolling Stones Records, Polydor |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | 271 428-6 |
+
+Packaged in a gatefold sleeve and printed inner sleeves.  ℗ 2010 Promotone B.V. under exclusive license to Universal Music International B.V. © 2010 Promotone B.V. under exclusive license to Universal Music International B.V.  A1, A2, A4, A5, B2, B3, C1, C2, C3, C4, C5, D4 published by EMI Music Publishing Ltd. A3 published by Campbell Connelly & Co. Ltd. B1, B4, D1 published by ABKCO Music, Inc. C3 published by Belfern Music Ltd. D2 published by Kobalt Music Publishing / MPCA King Of Spades D3 published by Westminster Music Ltd.  Made in the EU. 
 

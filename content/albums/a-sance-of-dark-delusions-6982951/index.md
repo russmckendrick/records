@@ -1,14 +1,17 @@
 ---
 title: "Nordic Giants - A Séance Of Dark Delusions"
-album_artist: "Nordic Giants"
-album_title: "A Séance Of Dark Delusions"
+artist: "Nordic Giants"
+album_name: "A Séance Of Dark Delusions"
 date: 2015-08-21
 release_id: "6982951"
 slug: "a-sance-of-dark-delusions-6982951"
+hideSummary: true
 cover:
     image: "a-sance-of-dark-delusions-6982951.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Séance Of Dark Delusions by Nordic Giants"
+    caption: "A Séance Of Dark Delusions by Nordic Giants"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Nordic Giants - A Séance of Dark Delusions (documentary clip)](https://www.youtube.com/watch?v=LDroAjaym04)
 - [Nordic Giants - Rapture (from A Séance of Dark Delusions)](https://www.youtube.com/watch?v=K79YFZLXobM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Nordic Giants - A Séance Of Dark Delusions](https://www.discogs.com/release/6982951) |
+| Release Year   | 2015 |
+| Discogs Link   | [Nordic Giants - A Séance Of Dark Delusions](https://www.discogs.com/release/6982951-Nordic-Giants-A-S%C3%A9ance-Of-Dark-Delusions) |
 | Label          | Kscope |
 | Format         | LP, Album, 180 |
 | Catalog Number | KSCOPE879 |
+
+℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.  Gatefold 1LP + 4 page booklet + download code.  
 

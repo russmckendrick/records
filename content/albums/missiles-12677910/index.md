@@ -1,14 +1,17 @@
 ---
 title: "The Dears - Missiles"
-album_artist: "The Dears"
-album_title: "Missiles"
+artist: "The Dears"
+album_name: "Missiles"
 date: 2018-11-26
 release_id: "12677910"
 slug: "missiles-12677910"
+hideSummary: true
 cover:
     image: "missiles-12677910.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Missiles by The Dears"
+    caption: "Missiles by The Dears"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="dcxOp26H2OM" title="The Dears - Missiles" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Dears - Missiles](https://www.discogs.com/release/12677910) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Dears - Missiles](https://www.discogs.com/release/12677910-The-Dears-Missiles) |
 | Label          | Dangerbird Records, Not On Label (The Dears Self-released) |
 | Format         | 2xLP, Album |
 | Catalog Number | DGB033, DE050014 |
+
+℗ © 2018 Dangerbird Records LLC  Tenth Anniversary First Edition on Vinyl LP 
 

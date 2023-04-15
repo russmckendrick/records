@@ -1,14 +1,17 @@
 ---
 title: "Elephant Gym - Underwater"
-album_artist: "Elephant Gym"
-album_title: "Underwater"
+artist: "Elephant Gym"
+album_name: "Underwater"
 date: 2019-08-15
 release_id: "13413825"
 slug: "underwater-13413825"
+hideSummary: true
 cover:
     image: "underwater-13413825.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Underwater by Elephant Gym"
+    caption: "Underwater by Elephant Gym"
+genres: ["Rock"]
+styles: ["Math Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="oAwNf9Zy2UU" title="Elephant Gym - Underwater - Full Album - 2018" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Elephant Gym - Underwater](https://www.discogs.com/release/13413825) |
+| Release Year   | 2019 |
+| Discogs Link   | [Elephant Gym - Underwater](https://www.discogs.com/release/13413825-Elephant-Gym-Underwater) |
 | Label          | Topshelf Records (2) |
 | Format         | LP, Ltd, Dar |
 | Catalog Number | Eg-0017/TSR-201 |
+
+Record housed in a single jacket with paper inner sleeve.  Limited to 350 copies. Includes a foldout lyric sheet insert.
 

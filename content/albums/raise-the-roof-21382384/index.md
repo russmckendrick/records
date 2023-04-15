@@ -1,14 +1,17 @@
 ---
 title: "Robert Plant | Alison Krauss - Raise The Roof"
-album_artist: "Robert Plant | Alison Krauss"
-album_title: "Raise The Roof"
+artist: "Robert Plant | Alison Krauss"
+album_name: "Raise The Roof"
 date: 2021-12-17
 release_id: "21382384"
 slug: "raise-the-roof-21382384"
+hideSummary: true
 cover:
     image: "raise-the-roof-21382384.jpg"
-tags: ["Rock", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Raise The Roof by Robert Plant | Alison Krauss"
+    caption: "Raise The Roof by Robert Plant | Alison Krauss"
+genres: ["Rock", "Blues", "Folk, World, & Country"]
+styles: ["Blues Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [My Heart Would Know](https://www.youtube.com/watch?v=i_pp4c0kT8s)
 - [You Can’t Rule Me](https://www.youtube.com/watch?v=ZepyzyhyGdg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Robert Plant | Alison Krauss - Raise The Roof](https://www.discogs.com/release/21382384) |
+| Release Year   | 2021 |
+| Discogs Link   | [Robert Plant | Alison Krauss - Raise The Roof](https://www.discogs.com/release/21382384-Robert-Plant-Alison-Krauss-Raise-The-Roof) |
 | Label          | Warner Music, Warner Music UK |
 | Format         | 2xLP, Album, Ltd, Red |
 | Catalog Number | 0190296548857 |
+
+Amazon Europe limited release.  Comes in a gatefold sleeve with alternate red artwork.  Issued with plain black inner sleeves (discobags), both with the catalog number.  ℗ & © 2021 Hokker, Inc and Trolcharm Limited. Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada  Made in The Netherlands.  T Bone Burnett appears courtesy of Verse Forecast Bill Frisell  appears courtesy of Blue Note Records Lucinda Williams  appears courtesy of Highway 20 Records  Runouts: 34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched.
 

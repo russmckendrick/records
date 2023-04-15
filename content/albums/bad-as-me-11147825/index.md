@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - Bad As Me"
-album_artist: "Tom Waits"
-album_title: "Bad As Me"
+artist: "Tom Waits"
+album_name: "Bad As Me"
 date: 2018-01-23
 release_id: "11147825"
 slug: "bad-as-me-11147825"
+hideSummary: true
 cover:
     image: "bad-as-me-11147825.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Bad As Me by Tom Waits"
+    caption: "Bad As Me by Tom Waits"
+genres: ["Rock", "Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Tom Waits - Raised Right Men](https://www.youtube.com/watch?v=M9uTo_KBBAw)
 - [Tom Waits   bad as me            full album](https://www.youtube.com/watch?v=c3IHscrJB0I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tom Waits - Bad As Me](https://www.discogs.com/release/11147825) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tom Waits - Bad As Me](https://www.discogs.com/release/11147825-Tom-Waits-Bad-As-Me) |
 | Label          | Anti- |
 | Format         | LP, Album, RM, 180 |
 | Catalog Number | 7151-1 |
+
+Information on shrinkwrap:   "Newly Remastered with Waits/Brennan 7151-1"  "Download Card Included 180 Gram"  Information on the back:  "LC02576 | BIEM/STEMRA (C)&(P) 2011 ANTI, Inc. Manufactured and distributed by Epitaph Europe. P.O. Box 10574, 1001 EN Amsterdam. The Netherlands. All rights reserved. Unauthorized duplication is a violation of applicable laws.
 

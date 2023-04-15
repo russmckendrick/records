@@ -1,14 +1,17 @@
 ---
 title: "EMF - Schubert Dip"
-album_artist: "EMF"
-album_title: "Schubert Dip"
+artist: "EMF"
+album_name: "Schubert Dip"
 date: 2015-10-14
 release_id: "2122351"
 slug: "schubert-dip-2122351"
+hideSummary: true
 cover:
     image: "schubert-dip-2122351.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Schubert Dip by EMF"
+    caption: "Schubert Dip by EMF"
+genres: ["Electronic"]
+styles: ["Leftfield", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Longtime](https://www.youtube.com/watch?v=elrHGYu0CWo)
 - [EMF - EMF](https://www.youtube.com/watch?v=bpmAQeGzmXo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [EMF - Schubert Dip](https://www.discogs.com/release/2122351) |
+| Release Year   | 1991 |
+| Discogs Link   | [EMF - Schubert Dip](https://www.discogs.com/release/2122351-EMF-Schubert-Dip) |
 | Label          | Parlophone, Parlophone |
 | Format         | LP, Album |
 | Catalog Number | PCS 7353, 79 6238 1 |
+
+Includes printed inner sleeve with lyrics and credits on one side and "thanks" on the other.  Some early copies had a round sticker on the cover that reads: "Includes Unbelievable; I Believe; Children; PCS 7353".  Track B6 is not listed on the sleeve or labels - on [r=175763] B-side label it is listed as "EMF - 'Live At The Bilson'"  [Record labels, rim text] Manufactured in England by EMI Records Limited  [Record label side A] ℗ 1991... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Record label side B] ℗ 1991 except track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Inner sleeve, back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd. Sleeve printed in England. Manufactured in England. SP9105GU  [Runouts] All runout data is stamped.
 

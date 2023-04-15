@@ -1,14 +1,17 @@
 ---
 title: "John Grant - Love Is Magic"
-album_artist: "John Grant"
-album_title: "Love Is Magic"
+artist: "John Grant"
+album_name: "Love Is Magic"
 date: 2018-10-12
 release_id: "12640054"
 slug: "love-is-magic-12640054"
+hideSummary: true
 cover:
     image: "love-is-magic-12640054.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Love Is Magic by John Grant"
+    caption: "Love Is Magic by John Grant"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [John Grant - Love Is Magic (Album Trailer)](https://www.youtube.com/watch?v=mNFt_ECyFb8)
 - [John Grant - He's Got His Mother's Hips (Official Audio)](https://www.youtube.com/watch?v=KrogQsF1Qes)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [John Grant - Love Is Magic](https://www.discogs.com/release/12640054) |
+| Release Year   | 2018 |
+| Discogs Link   | [John Grant - Love Is Magic](https://www.discogs.com/release/12640054-John-Grant-Love-Is-Magic) |
 | Label          | Bella Union, Partisan Records |
 | Format         | 2xLP, Album, Dlx, Cle |
 | Catalog Number | BELLA825V |
+
+Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.  Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.  C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.  Label Code and catalog number on spine.  Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.  ℗ & © 2018 Bella Union
 

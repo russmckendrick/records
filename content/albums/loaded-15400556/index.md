@@ -1,14 +1,17 @@
 ---
 title: "Various - Loaded"
-album_artist: "Various"
-album_title: "Loaded"
+artist: "Various"
+album_name: "Loaded"
 date: 2021-06-07
 release_id: "15400556"
 slug: "loaded-15400556"
+hideSummary: true
 cover:
     image: "loaded-15400556.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Loaded by Various"
+    caption: "Loaded by Various"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -43,16 +46,17 @@ hideSummary: true
 29. Lucky You (4:20)
 30. Why Does It Always Rain On Me? (4:23)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Various - Loaded](https://www.discogs.com/release/15400556) |
+| Release Year   | 2020 |
+| Discogs Link   | [Various - Loaded](https://www.discogs.com/release/15400556-Various-Loaded) |
 | Label          | Spectrum Music (2) |
 | Format         | 2xLP, Comp |
 | Catalog Number | 00600753910719 |
+
+
 

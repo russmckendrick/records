@@ -1,14 +1,17 @@
 ---
 title: "Death In Vegas - Transmission"
-album_artist: "Death In Vegas"
-album_title: "Transmission"
+artist: "Death In Vegas"
+album_name: "Transmission"
 date: 2016-05-31
 release_id: "8473733"
 slug: "transmission-8473733"
+hideSummary: true
 cover:
     image: "transmission-8473733.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Transmission by Death In Vegas"
+    caption: "Transmission by Death In Vegas"
+genres: ["Electronic"]
+styles: ["Darkwave", "EBM", "Techno"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Death in Vegas - Transwave](https://www.youtube.com/watch?v=g-4vdO6FuX4)
 - [DEATH IN VEGAS 'TRANSMISSION'](https://www.youtube.com/watch?v=pY8W241L9x0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Death In Vegas - Transmission](https://www.discogs.com/release/8473733) |
+| Release Year   | 2016 |
+| Discogs Link   | [Death In Vegas - Transmission](https://www.discogs.com/release/8473733-Death-In-Vegas-Transmission) |
 | Label          | Drone |
 | Format         | 3x12\", Album |
 | Catalog Number | DRONE 007LP |
+
+Tri-fold gatefold sleeve.  Includes digital download code.  
 

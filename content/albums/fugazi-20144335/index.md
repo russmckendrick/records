@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Fugazi"
-album_artist: "Marillion"
-album_title: "Fugazi"
+artist: "Marillion"
+album_name: "Fugazi"
 date: 2021-09-10
 release_id: "20144335"
 slug: "fugazi-20144335"
+hideSummary: true
 cover:
     image: "fugazi-20144335.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fugazi by Marillion"
+    caption: "Fugazi by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Qp8P1qxEdmE" title="Marillion - She Chameleon (Fugazi) (European CD Reissue)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Marillion - Fugazi](https://www.discogs.com/release/20144335) |
+| Release Year   | 2021 |
+| Discogs Link   | [Marillion - Fugazi](https://www.discogs.com/release/20144335-Marillion-Fugazi) |
 | Label          | Parlophone |
 | Format         | Box, Dlx, Ltd + LP, Album, RE, rem + 3xLP |
 | Catalog Number | 0190295016463 |
+
+Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website. Signed by Fish when pre-ordered at Fish webshop  Ⓟ 2021 this compilation Parlophone Records Ltd.  Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany 
 

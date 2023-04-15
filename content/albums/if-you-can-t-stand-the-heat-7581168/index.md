@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - If You Can't Stand The Heat"
-album_artist: "Status Quo"
-album_title: "If You Can't Stand The Heat"
+artist: "Status Quo"
+album_name: "If You Can't Stand The Heat"
 date: 2016-05-23
 release_id: "7581168"
 slug: "if-you-can-t-stand-the-heat-7581168"
+hideSummary: true
 cover:
     image: "if-you-can-t-stand-the-heat-7581168.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "If You Can't Stand The Heat by Status Quo"
+    caption: "If You Can't Stand The Heat by Status Quo"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [status quo i'm giving up my worryin' (if you can't stand the heat).wmv](https://www.youtube.com/watch?v=Re8--gXXF1s)
 - [status quo someone show me home (if you can't stand the heat).wmv](https://www.youtube.com/watch?v=bTEldoUi84E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - If You Can't Stand The Heat](https://www.discogs.com/release/7581168) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - If You Can't Stand The Heat](https://www.discogs.com/release/7581168-Status-Quo-If-You-Cant-Stand-The-Heat) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 4723771 |
+
+Die-cut gatefold sleeve Comes with a poster and an insert.  © 1978 Mercury Records Limited/Universal Music Catalogue ℗ 1978 Mercury Records Limited   
 

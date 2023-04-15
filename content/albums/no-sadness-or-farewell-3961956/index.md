@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - No Sadness Or Farewell"
-album_artist: "Crippled Black Phoenix"
-album_title: "No Sadness Or Farewell"
+artist: "Crippled Black Phoenix"
+album_name: "No Sadness Or Farewell"
 date: 2016-11-01
 release_id: "3961956"
 slug: "no-sadness-or-farewell-3961956"
+hideSummary: true
 cover:
     image: "no-sadness-or-farewell-3961956.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "No Sadness Or Farewell by Crippled Black Phoenix"
+    caption: "No Sadness Or Farewell by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Crippled Black Phoenix - What Have We Got to Lose?](https://www.youtube.com/watch?v=TEioeVpQQQw)
 - [Crippled Black Phoenix-Jonestown Martin](https://www.youtube.com/watch?v=cM-EGF5Pl8Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Crippled Black Phoenix - No Sadness Or Farewell](https://www.discogs.com/release/3961956) |
+| Release Year   | 2012 |
+| Discogs Link   | [Crippled Black Phoenix - No Sadness Or Farewell](https://www.discogs.com/release/3961956-Crippled-Black-Phoenix-No-Sadness-Or-Farewell) |
 | Label          | Cool Green Recordings |
 | Format         | LP, EP |
 | Catalog Number | CGR 7397 1 |
+
+℗ + © Production and Publishing Mascot Music B.V. All rights reserved.  B1's title on the label is "One Armed Robber".
 

@@ -1,14 +1,17 @@
 ---
 title: "Motörhead - Ace Of Spades"
-album_artist: "Motörhead"
-album_title: "Ace Of Spades"
+artist: "Motörhead"
+album_name: "Ace Of Spades"
 date: 2021-06-08
 release_id: "16134336"
 slug: "ace-of-spades-16134336"
+hideSummary: true
 cover:
     image: "ace-of-spades-16134336.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ace Of Spades by Motörhead"
+    caption: "Ace Of Spades by Motörhead"
+genres: ["Rock"]
+styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 ---
 
 ## Tracklisting
@@ -95,16 +98,17 @@ hideSummary: true
 81. Live In Belfast '81 (26:25)
 82. Ace Of Spades 5.1 (36:35)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Motörhead - Ace Of Spades](https://www.discogs.com/release/16134336) |
+| Release Year   | 2020 |
+| Discogs Link   | [Motörhead - Ace Of Spades](https://www.discogs.com/release/16134336-Mot%C3%B6rhead-Ace-Of-Spades) |
 | Label          | BMG |
 | Format         | Box, Dlx, 40t + LP, Album, RE, RM + 2xLP, Album +  |
 | Catalog Number | BMGCAT432BOX |
+
+40th Anniversary Box  This deluxe lift-off lid box set includes: • Ace Of Spades (half-speed mastered and created from the original master tapes) • Two double-live albums of previously unheard concerts from the Ace Up Your Sleeve tour, both in gatefold sleeves. • A Fistful Of Instrumentals : A 10” EP of previously unreleased, instrumental tracks from 1980. • The Good, The Broke & The Ugly. A double album of B-sides, outtakes and rare tracks, in gatefold sleeve. • Ace On Your Screens: A DVD compilation of rare TV appearances from 1980-81, a live concert from 1981 and a 5.1 audio mix of the original album. The disc is in a digipak which is affixed into the base section. • The Ace Of Spades story. A 40 page book telling the story of Ace Of Spades through previously unpublished interviews with the people that were there. Includes never before seen photos and memorabilia. • The Ace Up Your Sleeve tour programme. • The Motörhead Rock Commando comic. • A set of 5 poker dice that can be played on the game board inside the box set lid. • All encased in a classic Wild West dynamite box, which has woodgrain effect texturing. The texturing is in the opposite direction to the printed woodgrain. There is an access cord to raise the vinyl. There is a bullet belt shaped wraparound bellyband with a barcode and contents information.  The package came in hype stickered shrink-wrap. There was a picture barcode label on the outer packing case. Aside from the E.P., each vinyl is held in a die cut black paper inner.  Orders at the official Motörhead shop got an exclusive "Ace Of Spades" single, Dutch replica, with an unrelease instrumental version of the song on side B.  DVD barcode came from DVD label
 

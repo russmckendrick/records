@@ -1,14 +1,17 @@
 ---
 title: "Amplifier (3) - Amplifier"
-album_artist: "Amplifier (3)"
-album_title: "Amplifier"
+artist: "Amplifier (3)"
+album_name: "Amplifier"
 date: 2022-04-15
 release_id: "22878905"
 slug: "amplifier-22878905"
+hideSummary: true
 cover:
     image: "amplifier-22878905.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Amplifier by Amplifier (3)"
+    caption: "Amplifier by Amplifier (3)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Amplifier (3) - Amplifier](https://www.discogs.com/release/22878905) |
+| Release Year   | 2022 |
+| Discogs Link   | [Amplifier (3) - Amplifier](https://www.discogs.com/release/22878905-Amplifier-Amplifier) |
 | Label          | Rockosmos |
 | Format         | LP, Bla + LP, Red + Album, Ltd, RE, RM |
 | Catalog Number | none |
+
+
 

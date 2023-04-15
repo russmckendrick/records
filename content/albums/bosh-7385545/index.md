@@ -1,14 +1,17 @@
 ---
 title: "Cleft - Bosh!"
-album_artist: "Cleft"
-album_title: "Bosh!"
+artist: "Cleft"
+album_name: "Bosh!"
 date: 2015-09-22
 release_id: "7385545"
 slug: "bosh-7385545"
+hideSummary: true
 cover:
     image: "bosh-7385545.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bosh! by Cleft"
+    caption: "Bosh! by Cleft"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="qot35mfF_ls" title="Cleft live in session - Hostage" >}}
 - [Recording the BOSH! album.  Cleft do a gear nerd walkthrough in the recording studio.](https://www.youtube.com/watch?v=gXTYMla2hew)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Cleft - Bosh!](https://www.discogs.com/release/7385545) |
+| Release Year   | 2014 |
+| Discogs Link   | [Cleft - Bosh!](https://www.discogs.com/release/7385545-Cleft-Bosh) |
 | Label          | Mega Face Records |
 | Format         | 12\", Album, Ltd, M/Print, Num, RP, Blu |
 | Catalog Number | MFR03 |
+
+300 pressings on 12" transparent blue vinyl.  Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve.
 

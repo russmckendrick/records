@@ -1,14 +1,17 @@
 ---
 title: "The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)"
-album_artist: "The Blues Brothers"
-album_title: "The Blues Brothers (Original Soundtrack Recording)"
+artist: "The Blues Brothers"
+album_name: "The Blues Brothers (Original Soundtrack Recording)"
 date: 2020-10-09
 release_id: "16032516"
 slug: "the-blues-brothers-original-soundtrack-recording-16032516"
+hideSummary: true
 cover:
     image: "the-blues-brothers-original-soundtrack-recording-16032516.jpg"
-tags: ["Blues", "Stage & Screen"]
-hideSummary: true
+    alt: "The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers"
+    caption: "The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers"
+genres: ["Blues", "Stage & Screen"]
+styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [The Blues Brothers - Sweet Home Chicago (Official Audio)](https://www.youtube.com/watch?v=euJ22UqLD5Y)
 - [The Blues Brothers - Jailhouse Rock (Official Audio)](https://www.youtube.com/watch?v=TosN2G1mmTs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/16032516) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/16032516-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |
 | Label          | Rhino Entertainment Company, Warner Music Group, Atlantic |
 | Format         | LP, Album, Ltd, RE, Blu |
 | Catalog Number | 0603497845552, 603497845552, RCV1 16017 |
+
+There are two versions of the info / hype sticker that may appear on the shrink-wrap.  Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers: - "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe) - "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)  In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]  ℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands. RCV1 16017 / 603497845552
 

@@ -1,14 +1,17 @@
 ---
 title: "Sharon Jones & The Dap-Kings - Soul Of A Woman"
-album_artist: "Sharon Jones & The Dap-Kings"
-album_title: "Soul Of A Woman"
+artist: "Sharon Jones & The Dap-Kings"
+album_name: "Soul Of A Woman"
 date: 2017-11-18
 release_id: "11143584"
 slug: "soul-of-a-woman-11143584"
+hideSummary: true
 cover:
     image: "soul-of-a-woman-11143584.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Soul Of A Woman by Sharon Jones & The Dap-Kings"
+    caption: "Soul Of A Woman by Sharon Jones & The Dap-Kings"
+genres: ["Funk / Soul"]
+styles: null
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Sharon Jones & The Dap-Kings - Girl! (You Got To Forgive Him) (Official Audio)](https://www.youtube.com/watch?v=KjCWFCN87Yw)
 - [Sharon Jones & the Dap Kings - Call On God](https://www.youtube.com/watch?v=A6PdxJOoPzQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Sharon Jones & The Dap-Kings - Soul Of A Woman](https://www.discogs.com/release/11143584) |
+| Release Year   | 2017 |
+| Discogs Link   | [Sharon Jones & The Dap-Kings - Soul Of A Woman](https://www.discogs.com/release/11143584-Sharon-Jones-The-Dap-Kings-Soul-Of-A-Woman) |
 | Label          | Daptone Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | DAP-050 |
+
+Red vinyl variant only available in independent record shops.  Includes mp3 download card.
 

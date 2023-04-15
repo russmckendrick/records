@@ -1,14 +1,17 @@
 ---
 title: "Little Angels - Young Gods"
-album_artist: "Little Angels"
-album_title: "Young Gods"
+artist: "Little Angels"
+album_name: "Young Gods"
 date: 2016-04-04
 release_id: "1433332"
 slug: "young-gods-1433332"
+hideSummary: true
 cover:
     image: "young-gods-1433332.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Young Gods by Little Angels"
+    caption: "Young Gods by Little Angels"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="dysWRyP3Ung" title="Little Angels - Young Gods" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Little Angels - Young Gods](https://www.discogs.com/release/1433332) |
+| Release Year   | 1991 |
+| Discogs Link   | [Little Angels - Young Gods](https://www.discogs.com/release/1433332-Little-Angels-Young-Gods) |
 | Label          | Polydor |
 | Format         | LP, Album |
 | Catalog Number | 847 846-1 |
+
+Etching on matrixes also on Netherlands version r5579832
 

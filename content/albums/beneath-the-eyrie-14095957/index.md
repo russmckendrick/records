@@ -1,14 +1,17 @@
 ---
 title: "Pixies - Beneath The Eyrie"
-album_artist: "Pixies"
-album_title: "Beneath The Eyrie"
+artist: "Pixies"
+album_name: "Beneath The Eyrie"
 date: 2019-09-15
 release_id: "14095957"
 slug: "beneath-the-eyrie-14095957"
+hideSummary: true
 cover:
     image: "beneath-the-eyrie-14095957.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Beneath The Eyrie by Pixies"
+    caption: "Beneath The Eyrie by Pixies"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [PIXIES – Daniel Boone (Official Audio)](https://www.youtube.com/watch?v=ybT82QanNsE)
 - [PIXIES - On Graveyard Hill (Official Video)](https://www.youtube.com/watch?v=E2o-65chdoc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Pixies - Beneath The Eyrie](https://www.discogs.com/release/14095957) |
+| Release Year   | 2019 |
+| Discogs Link   | [Pixies - Beneath The Eyrie](https://www.discogs.com/release/14095957-Pixies-Beneath-The-Eyrie) |
 | Label          | Infectious Music |
 | Format         | LP, Album, Whi |
 | Catalog Number | INFECT526LPC |
+
+Indies Edition in gatefold sleeve with lyric inner sleeve plus download code.   Tracks numbered sequentially regardless of sides.
 

@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Delicate Sound Of Thunder"
-album_artist: "Pink Floyd"
-album_title: "Delicate Sound Of Thunder"
+artist: "Pink Floyd"
+album_name: "Delicate Sound Of Thunder"
 date: 2017-11-17
 release_id: "10775346"
 slug: "delicate-sound-of-thunder-10775346"
+hideSummary: true
 cover:
     image: "delicate-sound-of-thunder-10775346.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Delicate Sound Of Thunder by Pink Floyd"
+    caption: "Delicate Sound Of Thunder by Pink Floyd"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Comfortably Numb (8:42)
 14. Run Like Hell (6:42)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/10775346) |
+| Release Year   | 2017 |
+| Discogs Link   | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/10775346-Pink-Floyd-Delicate-Sound-Of-Thunder) |
 | Label          | Pink Floyd Records, Parlophone |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP16, 190295996932 |
+
+The sticker, the cover and the label show "Breathe in the air (reprise)" but the song is not present.
 

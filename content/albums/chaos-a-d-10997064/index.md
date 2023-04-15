@@ -1,14 +1,17 @@
 ---
 title: "Sepultura - Chaos A.D."
-album_artist: "Sepultura"
-album_title: "Chaos A.D."
+artist: "Sepultura"
+album_name: "Chaos A.D."
 date: 2018-01-20
 release_id: "10997064"
 slug: "chaos-a-d-10997064"
+hideSummary: true
 cover:
     image: "chaos-a-d-10997064.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Chaos A.D. by Sepultura"
+    caption: "Chaos A.D. by Sepultura"
+genres: ["Rock"]
+styles: ["Thrash"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Sepultura - Territory [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=Q_WHGV5bejk)
 - [Sepultura - Slave New World [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0K4J90s1A2M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Sepultura - Chaos A.D.](https://www.discogs.com/release/10997064) |
+| Release Year   | 2017 |
+| Discogs Link   | [Sepultura - Chaos A.D.](https://www.discogs.com/release/10997064-Sepultura-Chaos-AD) |
 | Label          | Roadrunner Records |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | 081227934248 |
+
+Newly remastered on 180gr vinyls. The second and bonus LP contains rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.  LP2 - Side D: Live In Minneapolis (1994)
 

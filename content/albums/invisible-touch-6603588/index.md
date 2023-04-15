@@ -1,14 +1,17 @@
 ---
 title: "Genesis - Invisible Touch"
-album_artist: "Genesis"
-album_title: "Invisible Touch"
+artist: "Genesis"
+album_name: "Invisible Touch"
 date: 2015-12-04
 release_id: "6603588"
 slug: "invisible-touch-6603588"
+hideSummary: true
 cover:
     image: "invisible-touch-6603588.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Invisible Touch by Genesis"
+    caption: "Invisible Touch by Genesis"
+genres: ["Electronic", "Rock"]
+styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Genesis - Tonight, Tonight, Tonight (Official Music Video)](https://www.youtube.com/watch?v=gvsaWu_dBqE)
 - [Genesis -  Tonight, Tonight, Tonight (Official Audio)](https://www.youtube.com/watch?v=bvsz_9pp3no)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Genesis - Invisible Touch](https://www.discogs.com/release/6603588) |
+| Release Year   | 1986 |
+| Discogs Link   | [Genesis - Invisible Touch](https://www.discogs.com/release/6603588-Genesis-Invisible-Touch) |
 | Label          | Virgin |
 | Format         | LP, Album |
 | Catalog Number | GEN LP2 |
+
+Written, recorded and mixed at The Farm, Surrey, 85/86. Mastered at Masterdisc N.Y.C. Sleeve produced at Assorted Images. Track B2 'Domino' consists of two parts.  All tracks published by Anthony Banks Ltd / Philip Collins Ltd / Michael Rutherford Ltd / Hit and Run Music Publishing Ltd Virgin Records. (P) 1986 Charisma Records Ltd. (C) 1986 Charisma Records Ltd.  Manufactured in the UK. Glossy printed inner sleeve. Not embossed or textured. Single cat. no. followed by side indicator on label.  This version is almost identical to [r=10216464] but this has Masterdisk stamped in the matrices.  Runouts are Etched, except "MASTERDISK" Stamped.  Direct Metal Mastering.
 

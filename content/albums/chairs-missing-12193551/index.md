@@ -1,14 +1,17 @@
 ---
 title: "Wire - Chairs Missing"
-album_artist: "Wire"
-album_title: "Chairs Missing"
+artist: "Wire"
+album_name: "Chairs Missing"
 date: 2018-12-22
 release_id: "12193551"
 slug: "chairs-missing-12193551"
+hideSummary: true
 cover:
     image: "chairs-missing-12193551.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Chairs Missing by Wire"
+    caption: "Chairs Missing by Wire"
+genres: ["Rock"]
+styles: ["New Wave", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Used To (2006 Remastered Version)](https://www.youtube.com/watch?v=kFv1fNud0cY)
 - [Too Late (2006 Remastered Version)](https://www.youtube.com/watch?v=ZiKagKI-_OI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Wire - Chairs Missing](https://www.discogs.com/release/12193551) |
+| Release Year   | 2018 |
+| Discogs Link   | [Wire - Chairs Missing](https://www.discogs.com/release/12193551-Wire-Chairs-Missing) |
 | Label          | Pinkflag |
 | Format         | LP, Album, RE |
 | Catalog Number | PF12LP |
+
+Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Not available on cassette  Printed inner sleeve with lyrics.  Labels read "Side One" on both sides, track listing is correct for each side however.
 

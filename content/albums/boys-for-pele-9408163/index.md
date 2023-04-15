@@ -1,14 +1,17 @@
 ---
 title: "Tori Amos - Boys For Pele"
-album_artist: "Tori Amos"
-album_title: "Boys For Pele"
+artist: "Tori Amos"
+album_name: "Boys For Pele"
 date: 2017-05-19
 release_id: "9408163"
 slug: "boys-for-pele-9408163"
+hideSummary: true
 cover:
     image: "boys-for-pele-9408163.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Boys For Pele by Tori Amos"
+    caption: "Boys For Pele by Tori Amos"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Avantgarde"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Tori Amos - Caught a Lite Sneeze (Official Music Video)](https://www.youtube.com/watch?v=weWtRqoSUOI)
 - [Tori Amos - Hey Jupiter (The Dakota Version) (Official Music Video)](https://www.youtube.com/watch?v=1AbNx4h8XYc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Tori Amos - Boys For Pele](https://www.discogs.com/release/9408163) |
+| Release Year   | 2016 |
+| Discogs Link   | [Tori Amos - Boys For Pele](https://www.discogs.com/release/9408163-Tori-Amos-Boys-For-Pele) |
 | Label          | Atlantic, Rhino Records (2) |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 081227947774 |
+
+"Newly remastered" release in stickered sleeve.  "Includes download code for MP3 version of the album". with printed lyricsheet
 

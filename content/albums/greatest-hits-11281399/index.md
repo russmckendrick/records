@@ -1,14 +1,17 @@
 ---
 title: "Sly & The Family Stone - Greatest Hits"
-album_artist: "Sly & The Family Stone"
-album_title: "Greatest Hits"
+artist: "Sly & The Family Stone"
+album_name: "Greatest Hits"
 date: 2018-01-29
 release_id: "11281399"
 slug: "greatest-hits-11281399"
+hideSummary: true
 cover:
     image: "greatest-hits-11281399.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Greatest Hits by Sly & The Family Stone"
+    caption: "Greatest Hits by Sly & The Family Stone"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Psychedelic Rock", "Soul", "Funk"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)
 - [M'Lady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Sly & The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399) |
+| Release Year   | 2017 |
+| Discogs Link   | [Sly & The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |
 | Label          | Epic, Legacy, Sony Music |
 | Format         | LP, Comp |
 | Catalog Number | 88985432351 |
+
+ 
 

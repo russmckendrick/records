@@ -1,14 +1,17 @@
 ---
 title: "Lonely Robot - The Big Dream"
-album_artist: "Lonely Robot"
-album_title: "The Big Dream"
+artist: "Lonely Robot"
+album_name: "The Big Dream"
 date: 2017-04-30
 release_id: "10212812"
 slug: "the-big-dream-10212812"
+hideSummary: true
 cover:
     image: "the-big-dream-10212812.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Big Dream by Lonely Robot"
+    caption: "The Big Dream by Lonely Robot"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [LONELY ROBOT - The Big Dream (Q&A Pt.3)](https://www.youtube.com/watch?v=1IZTy0l1CRw)
 - [LONELY ROBOT - The Big Dream (Q&A Pt.1)](https://www.youtube.com/watch?v=cKm3C80_AO8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Lonely Robot - The Big Dream](https://www.discogs.com/release/10212812) |
+| Release Year   | 2017 |
+| Discogs Link   | [Lonely Robot - The Big Dream](https://www.discogs.com/release/10212812-Lonely-Robot-The-Big-Dream) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 476, 88985369491 |
+
+Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front of the shrink wrap. CD comes packaged inside in a clear envelope-style PVC sleeve.
 

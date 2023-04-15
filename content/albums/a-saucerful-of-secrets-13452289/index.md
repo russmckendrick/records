@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - A Saucerful Of Secrets"
-album_artist: "Pink Floyd"
-album_title: "A Saucerful Of Secrets"
+artist: "Pink Floyd"
+album_name: "A Saucerful Of Secrets"
 date: 2019-04-13
 release_id: "13452289"
 slug: "a-saucerful-of-secrets-13452289"
+hideSummary: true
 cover:
     image: "a-saucerful-of-secrets-13452289.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Saucerful Of Secrets by Pink Floyd"
+    caption: "A Saucerful Of Secrets by Pink Floyd"
+genres: ["Rock"]
+styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -20,16 +23,17 @@ hideSummary: true
 6. See-Saw (4:37)
 7. Jugband Blues (3:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Pink Floyd - A Saucerful Of Secrets](https://www.discogs.com/release/13452289) |
+| Release Year   | 2019 |
+| Discogs Link   | [Pink Floyd - A Saucerful Of Secrets](https://www.discogs.com/release/13452289-Pink-Floyd-A-Saucerful-Of-Secrets) |
 | Label          | Pink Floyd Records, Columbia |
 | Format         | LP, Album, RSD, Mono, Ltd, RE, RM, 180 |
 | Catalog Number | PFRLP29, 0190295506889 |
+
+Reproduction of original sleeve. Limited edition of 6500 copies.  Made and Printed in the EU for Record Store Day 2019.  Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment
 

@@ -1,14 +1,17 @@
 ---
 title: "Various - True Romance (Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "True Romance (Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "True Romance (Motion Picture Soundtrack)"
 date: 2018-09-13
 release_id: "12488063"
 slug: "true-romance-motion-picture-soundtrack-12488063"
+hideSummary: true
 cover:
     image: "true-romance-motion-picture-soundtrack-12488063.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "True Romance (Motion Picture Soundtrack) by Various"
+    caption: "True Romance (Motion Picture Soundtrack) by Various"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro House"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Amid The Chaos Of The Day](https://www.youtube.com/watch?v=eFZm0oOi2Oc)
 - [Two Hearts](https://www.youtube.com/watch?v=gQ4bRyK3JEo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - True Romance (Motion Picture Soundtrack)](https://www.discogs.com/release/12488063) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - True Romance (Motion Picture Soundtrack)](https://www.discogs.com/release/12488063-Various-True-Romance-Motion-Picture-Soundtrack) |
 | Label          | Real Gone Music |
 | Format         | LP, Ltd, Cle |
 | Catalog Number | RGM-0759 |
+
+25th Anniversary Edition. Pressed on clear with white splatter vinyl. Limited Edition of 1700.
 

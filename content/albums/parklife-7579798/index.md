@@ -1,14 +1,17 @@
 ---
 title: "Blur - Parklife"
-album_artist: "Blur"
-album_title: "Parklife"
+artist: "Blur"
+album_name: "Parklife"
 date: 2016-07-05
 release_id: "7579798"
 slug: "parklife-7579798"
+hideSummary: true
 cover:
     image: "parklife-7579798.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Parklife by Blur"
+    caption: "Parklife by Blur"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -29,16 +32,17 @@ hideSummary: true
 15. This Is A Low
 16. Lot 105
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Blur - Parklife](https://www.discogs.com/release/7579798) |
+| Release Year   | 2015 |
+| Discogs Link   | [Blur - Parklife](https://www.discogs.com/release/7579798-Blur-Parklife) |
 | Label          | Food, Parlophone |
 | Format         | 2xLP, Album, Ltd, RE, RM, RP, Yel |
 | Catalog Number | FOODLPX10, 5099962484213 |
+
+Gatefold sleeve. Limited to 3000 copies on 180 gram yellow vinyl.  Same release, on black vinyl is here, [r8640693].
 

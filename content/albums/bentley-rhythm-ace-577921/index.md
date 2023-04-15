@@ -1,14 +1,17 @@
 ---
 title: "Bentley Rhythm Ace - Bentley Rhythm Ace"
-album_artist: "Bentley Rhythm Ace"
-album_title: "Bentley Rhythm Ace"
+artist: "Bentley Rhythm Ace"
+album_name: "Bentley Rhythm Ace"
 date: 2016-01-11
 release_id: "577921"
 slug: "bentley-rhythm-ace-577921"
+hideSummary: true
 cover:
     image: "bentley-rhythm-ace-577921.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Bentley Rhythm Ace by Bentley Rhythm Ace"
+    caption: "Bentley Rhythm Ace by Bentley Rhythm Ace"
+genres: ["Electronic"]
+styles: ["Big Beat"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Spacehopper 1997 Bentley Rhythm Ace](https://www.youtube.com/watch?v=mpXVR7P4TyE)
 - [BENTLEY  RHYTHM  ACE - Return Of The Hardcore Jumble Carbootechnodisco Roadshow](https://www.youtube.com/watch?v=HfGDkeneGTo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1997 |
-| Discogs Link   | [Bentley Rhythm Ace - Bentley Rhythm Ace](https://www.discogs.com/release/577921) |
+| Release Year   | 1997 |
+| Discogs Link   | [Bentley Rhythm Ace - Bentley Rhythm Ace](https://www.discogs.com/release/577921-Bentley-Rhythm-Ace-Bentley-Rhythm-Ace) |
 | Label          | EMI |
 | Format         | 2xLP, Album |
 | Catalog Number | 7243 8 21049 1 9 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Eels - The Deconstruction"
-album_artist: "Eels"
-album_title: "The Deconstruction"
+artist: "Eels"
+album_name: "The Deconstruction"
 date: 2018-04-07
 release_id: "11823715"
 slug: "the-deconstruction-11823715"
+hideSummary: true
 cover:
     image: "the-deconstruction-11823715.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Deconstruction by Eels"
+    caption: "The Deconstruction by Eels"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [EELS - Be Hurt (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=Tju1_bwzLFw)
 - [EELS - Coming Back (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=jfrEpjWyCYc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Eels - The Deconstruction](https://www.discogs.com/release/11823715) |
+| Release Year   | 2018 |
+| Discogs Link   | [Eels - The Deconstruction](https://www.discogs.com/release/11823715-Eels-The-Deconstruction) |
 | Label          | E Works Records |
 | Format         | 2x12\", Pin + CD, Album + Box, Dlx |
 | Catalog Number | EWORKS1150LPX |
+
+Deluxe box set contains: - 2 x 12" pink vinyl in printed sleeves - digipack cd - 28 page lyric booklet with exclusive photos - 12" artwork print - A4 copy of handwritten "Rusty Pipes" lyrics - E "tip & strip" pen - digital download code
 

@@ -1,14 +1,17 @@
 ---
 title: "Neu! - Neu! '86"
-album_artist: "Neu!"
-album_title: "Neu! '86"
+artist: "Neu!"
+album_name: "Neu! '86"
 date: 2021-06-08
 release_id: "2376449"
 slug: "neu-86-2376449"
+hideSummary: true
 cover:
     image: "neu-86-2376449.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Neu! '86 by Neu!"
+    caption: "Neu! '86 by Neu!"
+genres: ["Electronic"]
+styles: ["Krautrock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="vaxxWCdrftQ" title="Neu! - Neu 4 (Full Album) 1995" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Neu! - Neu! '86](https://www.discogs.com/release/2376449) |
+| Release Year   | 2010 |
+| Discogs Link   | [Neu! - Neu! '86](https://www.discogs.com/release/2376449-Neu-Neu-86) |
 | Label          | Grönland Records |
 | Format         | LP, Album, Neo |
 | Catalog Number | LPGRONIV |
+
+NEU! '86 was produced, recorded, mixed, played, composed, programmed etc. from Okt. '85 until April '86 [...] in Grundfunk-Studio Düsseldorf, Dingerland-Lilienthal Studio Düsseldorf, Michael Rother's Sterntaler Studio Forst.  Basic recordings for tracks A3, 4, 5 and B1, 2 engineered [...] in Grundfunk Studio, Düsseldorf, in October and November 1985.  NEU! '86 was reworked [...] with original master and multi-track tapes from July until December 2009.  Mastering [...] Master & Servant. Hamburg. January 2010.  To Klaus, with respect and gratitude for the inspiration he gave me and for his unique artistic contributions to NEU! (Michael Rother).  Polaroid and Grundfund Studio view, 1985. Portraits from Video Stills, 1985 / courtesy of la-duesseldorf.de  All titles P+C 2010 Dinger / Rother for Grönland Records  Made in EU
 

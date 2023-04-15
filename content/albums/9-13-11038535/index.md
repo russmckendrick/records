@@ -1,14 +1,17 @@
 ---
 title: "Iron Monkey (3) - 9-13"
-album_artist: "Iron Monkey (3)"
-album_title: "9-13"
+artist: "Iron Monkey (3)"
+album_name: "9-13"
 date: 2017-10-26
 release_id: "11038535"
 slug: "9-13-11038535"
+hideSummary: true
 cover:
     image: "9-13-11038535.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "9-13 by Iron Monkey (3)"
+    caption: "9-13 by Iron Monkey (3)"
+genres: ["Rock"]
+styles: ["Sludge Metal", "Doom Metal"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Iron Monkey - Doomsday Impulse Multiplier](https://www.youtube.com/watch?v=uGatMszYD2A)
 - [Iron Monkey - Moreland St. Hammervortex](https://www.youtube.com/watch?v=Q6jqGyAkHd4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Iron Monkey (3) - 9-13](https://www.discogs.com/release/11038535) |
+| Release Year   | 2017 |
+| Discogs Link   | [Iron Monkey (3) - 9-13](https://www.discogs.com/release/11038535-Iron-Monkey-9-13) |
 | Label          | Relapse Records |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | RR7379 |
+
+Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.  Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.  ℗&© 2017 Relapse Records, Inc. Made in EU.
 

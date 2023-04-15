@@ -1,14 +1,17 @@
 ---
 title: "Stiff Little Fingers - All The Best"
-album_artist: "Stiff Little Fingers"
-album_title: "All The Best"
+artist: "Stiff Little Fingers"
+album_name: "All The Best"
 date: 2017-03-23
 release_id: "864069"
 slug: "all-the-best-864069"
+hideSummary: true
 cover:
     image: "all-the-best-864069.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "All The Best by Stiff Little Fingers"
+    caption: "All The Best by Stiff Little Fingers"
+genres: ["Rock"]
+styles: ["Punk", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="on6DxBgfsDY" title="Suspect Device" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Stiff Little Fingers - All The Best](https://www.discogs.com/release/864069) |
+| Release Year   | 1983 |
+| Discogs Link   | [Stiff Little Fingers - All The Best](https://www.discogs.com/release/864069-Stiff-Little-Fingers-All-The-Best) |
 | Label          | Chrysalis |
 | Format         | 2xLP, Comp |
 | Catalog Number | CTY 1414 |
+
+Double album compilation of all their singles - 1978 to 1983, in chronological order.  Tracks A1, A2, A7, A8 state Rigid Digits as producer.  Tracks A1-A6 appear courtesy of [l266714].  Issued in a gatefold sleeve.  Inner bags printed by [l748262] (11/82).
 

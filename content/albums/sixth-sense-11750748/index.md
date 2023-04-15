@@ -1,14 +1,17 @@
 ---
 title: "Splashgirl - Sixth Sense"
-album_artist: "Splashgirl"
-album_title: "Sixth Sense"
+artist: "Splashgirl"
+album_name: "Sixth Sense"
 date: 2018-08-21
 release_id: "11750748"
 slug: "sixth-sense-11750748"
+hideSummary: true
 cover:
     image: "sixth-sense-11750748.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Sixth Sense by Splashgirl"
+    caption: "Sixth Sense by Splashgirl"
+genres: ["Jazz"]
+styles: ["Contemporary Jazz"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Taal Caldera
 14. Sedna
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Splashgirl - Sixth Sense](https://www.discogs.com/release/11750748) |
+| Release Year   | 2018 |
+| Discogs Link   | [Splashgirl - Sixth Sense](https://www.discogs.com/release/11750748-Splashgirl-Sixth-Sense) |
 | Label          | Hubro |
 | Format         | LP, Album + CD, Album |
 | Catalog Number | HUBROLP3587 |
+
+Recorded at Hljoðriti, Hafnarfjörður, Iceland, January 2015 and at Kennel Collective, Oslo, January 2017. Mixed at Amper Tone, Oslo, March 2017. Mastered at Tinnitus Mastering, Oslo, October 2017. (p) & (c) Grappa Musikkforlag AS 2018
 

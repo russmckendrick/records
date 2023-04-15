@@ -1,14 +1,17 @@
 ---
 title: "Saint Etienne - Good Humor / Los Angeles '99"
-album_artist: "Saint Etienne"
-album_title: "Good Humor / Los Angeles '99"
+artist: "Saint Etienne"
+album_name: "Good Humor / Los Angeles '99"
 date: 2023-02-13
 release_id: "26032912"
 slug: "good-humor-los-angeles-99-26032912"
+hideSummary: true
 cover:
     image: "good-humor-los-angeles-99-26032912.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Good Humor / Los Angeles '99 by Saint Etienne"
+    caption: "Good Humor / Los Angeles '99 by Saint Etienne"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Erica America](https://www.youtube.com/watch?v=mC-xwdk7awM)
 - [Dutch TV](https://www.youtube.com/watch?v=SSbaysAnMeI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Saint Etienne - Good Humor / Los Angeles '99](https://www.discogs.com/release/26032912) |
+| Release Year   | 2023 |
+| Discogs Link   | [Saint Etienne - Good Humor / Los Angeles '99](https://www.discogs.com/release/26032912-Saint-Etienne-Good-Humor-Los-Angeles-99) |
 | Label          | Heavenly, Foreign Office |
 | Format         | LP, Album, Ltd, RE, RP, Spl + CD, Promo |
 | Catalog Number | HVNLP71C , FO 021 |
+
+Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021)   LP : Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect. Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS] All tracks produced [...] at Tambourine Studios, Malmo Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP Includes digital download card for Good Humor.  CD : ℗ 2023 Saint Etienne Limited © 1999 Saint Etienne Limited Promotional - Not for resale
 

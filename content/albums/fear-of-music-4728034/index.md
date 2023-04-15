@@ -1,14 +1,17 @@
 ---
 title: "Talking Heads - Fear Of Music"
-album_artist: "Talking Heads"
-album_title: "Fear Of Music"
+artist: "Talking Heads"
+album_name: "Fear Of Music"
 date: 2017-11-03
 release_id: "4728034"
 slug: "fear-of-music-4728034"
+hideSummary: true
 cover:
     image: "fear-of-music-4728034.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Fear Of Music by Talking Heads"
+    caption: "Fear Of Music by Talking Heads"
+genres: ["Rock", "Pop"]
+styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Electric Guitar (2005 Remaster)](https://www.youtube.com/watch?v=GFmVwSRZcZE)
 - [Drugs (2005 Remaster)](https://www.youtube.com/watch?v=vlc0_GUdfIQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Talking Heads - Fear Of Music](https://www.discogs.com/release/4728034) |
+| Release Year   | 2013 |
+| Discogs Link   | [Talking Heads - Fear Of Music](https://www.discogs.com/release/4728034-Talking-Heads-Fear-Of-Music) |
 | Label          | Sire, Rhino Records (2), Rhino Records (2) |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | R1-6076, 8122-79655-4, 8122796554 |
+
+The birds on "Drugs" recorded at Lone Pine Koala Sanctuary, Brisbane, Australia.  All basic tracks recorded at Chris and Tina's Loft in Long Island City with The Record Plant Remote Truck on April 22 and May 6, 1979.  All songs ℗ 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP) except "I Zimbra" © 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)/E.G. Music Ltd (BMI).   Robert Fripp appears courtesy of E.G. Records Ltd.  Thermograph (Heat Sensitive Photo), courtesy Dr. Philip Strax. Concept: David with Jerry's help.  ℗ 1979 Sire Records Company. © 1979 Sire Records Company.  Made in EU. 
 

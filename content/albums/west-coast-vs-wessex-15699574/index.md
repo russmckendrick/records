@@ -1,14 +1,17 @@
 ---
 title: "NOFX Vs. Frank Turner - West Coast Vs. Wessex"
-album_artist: "NOFX Vs. Frank Turner"
-album_title: "West Coast Vs. Wessex"
+artist: "NOFX Vs. Frank Turner"
+album_name: "West Coast Vs. Wessex"
 date: 2020-08-07
 release_id: "15699574"
 slug: "west-coast-vs-wessex-15699574"
+hideSummary: true
 cover:
     image: "west-coast-vs-wessex-15699574.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "West Coast Vs. Wessex by NOFX Vs. Frank Turner"
+    caption: "West Coast Vs. Wessex by NOFX Vs. Frank Turner"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [NOFX - Worse Things Happen at Sea (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=XRJNeujU6ok)
 - [NOFX - Glory Hallelujah (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=pm_I2c_PHYU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [NOFX Vs. Frank Turner - West Coast Vs. Wessex](https://www.discogs.com/release/15699574) |
+| Release Year   | 2020 |
+| Discogs Link   | [NOFX Vs. Frank Turner - West Coast Vs. Wessex](https://www.discogs.com/release/15699574-NOFX-Vs-Frank-Turner-West-Coast-Vs-Wessex) |
 | Label          | Fat Wreck Chords, Xtra Mile Recordings |
 | Format         | LP, Album |
 | Catalog Number | FAT137-1 |
+
+Regular black vinyl version.  Publishers: A1 to A5: Pure Groove Music Ltd / Universal B1 to B3, B5: NOFX Music / BMI B4: Four Hour Hell / EMI / Virgin Music  Runouts are etched.
 

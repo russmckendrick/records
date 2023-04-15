@@ -1,14 +1,17 @@
 ---
 title: "Coldcut - What's That Noise?"
-album_artist: "Coldcut"
-album_title: "What's That Noise?"
+artist: "Coldcut"
+album_name: "What's That Noise?"
 date: 2018-02-09
 release_id: "11155777"
 slug: "what-s-that-noise-11155777"
+hideSummary: true
 cover:
     image: "what-s-that-noise-11155777.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "What's That Noise? by Coldcut"
+    caption: "What's That Noise? by Coldcut"
+genres: ["Electronic"]
+styles: ["House", "Breaks", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -71,13 +74,16 @@ hideSummary: true
 - [Studio Hot Plate Present - Coldcut - Doctorin' the house (Miami Beach mix)](https://www.youtube.com/watch?v=nclKim2JmTo)
 - [Coldcut feat Yazz and The Plastic People - Doctorin' The House (1988)](https://www.youtube.com/watch?v=r4uDSg1pdj4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Coldcut - What's That Noise?](https://www.discogs.com/release/11155777) |
+| Release Year   | 2017 |
+| Discogs Link   | [Coldcut - What's That Noise?](https://www.discogs.com/release/11155777-Coldcut-Whats-That-Noise) |
 | Label          | Sony Music, Legacy, BMG, Ahead Of Our Time, Big Life |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88985459671 |
+
+Includes download code
 

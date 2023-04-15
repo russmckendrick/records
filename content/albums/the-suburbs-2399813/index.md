@@ -1,14 +1,17 @@
 ---
 title: "Arcade Fire - The Suburbs"
-album_artist: "Arcade Fire"
-album_title: "The Suburbs"
+artist: "Arcade Fire"
+album_name: "The Suburbs"
 date: 2018-01-18
 release_id: "2399813"
 slug: "the-suburbs-2399813"
+hideSummary: true
 cover:
     image: "the-suburbs-2399813.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Suburbs by Arcade Fire"
+    caption: "The Suburbs by Arcade Fire"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)](https://www.youtube.com/watch?v=tGVFjGjeyQM)
 - [Arcade Fire - Half Light I (Official Lyric Video)](https://www.youtube.com/watch?v=qrwCeUqB8CU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Arcade Fire - The Suburbs](https://www.discogs.com/release/2399813) |
+| Release Year   | 2010 |
+| Discogs Link   | [Arcade Fire - The Suburbs](https://www.discogs.com/release/2399813-Arcade-Fire-The-Suburbs) |
 | Label          | City Slang |
 | Format         | 2xLP, Album |
 | Catalog Number | 2743427 |
+
+Printed notes: Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin;  and various bedrooms, living rooms and basements in Montréal. Mixed at: Studio Frisson, Montréal. Copyright Arcade Fire Music Inc. (Canada). All Titles Copyright Control.  A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER. EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.   Other notes: Album comes in a gatefold sleeve.  Inner sleeves with lyrics and credits. Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16. Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely. 
 

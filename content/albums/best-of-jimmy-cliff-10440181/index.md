@@ -1,14 +1,17 @@
 ---
 title: "Jimmy Cliff - Best Of Jimmy Cliff"
-album_artist: "Jimmy Cliff"
-album_title: "Best Of Jimmy Cliff"
+artist: "Jimmy Cliff"
+album_name: "Best Of Jimmy Cliff"
 date: 2017-08-18
 release_id: "10440181"
 slug: "best-of-jimmy-cliff-10440181"
+hideSummary: true
 cover:
     image: "best-of-jimmy-cliff-10440181.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Best Of Jimmy Cliff by Jimmy Cliff"
+    caption: "Best Of Jimmy Cliff by Jimmy Cliff"
+genres: ["Reggae"]
+styles: null
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Hello Sunshine
 12. The Harder They Come
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Jimmy Cliff - Best Of Jimmy Cliff](https://www.discogs.com/release/10440181) |
+| Release Year   | 2017 |
+| Discogs Link   | [Jimmy Cliff - Best Of Jimmy Cliff](https://www.discogs.com/release/10440181-Jimmy-Cliff-Best-Of-Jimmy-Cliff) |
 | Label          | Island Records, UMe, A&M Records |
 | Format         | LP, Comp |
 | Catalog Number | B0026395-01 |
+
+
 

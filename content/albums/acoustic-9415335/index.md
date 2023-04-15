@@ -1,14 +1,17 @@
 ---
 title: "Simple Minds - Acoustic"
-album_artist: "Simple Minds"
-album_title: "Acoustic"
+artist: "Simple Minds"
+album_name: "Acoustic"
 date: 2017-01-08
 release_id: "9415335"
 slug: "acoustic-9415335"
+hideSummary: true
 cover:
     image: "acoustic-9415335.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Acoustic by Simple Minds"
+    caption: "Acoustic by Simple Minds"
+genres: ["Rock"]
+styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Simple Minds - Promised You A Miracle Acoustic - (Official Audio)](https://www.youtube.com/watch?v=q_Ml9oAYN-4)
 - [Simple Minds Live At BBC Radio 1's Big Weekend 2018 Full Concert](https://www.youtube.com/watch?v=Zamyh5UGrWM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Simple Minds - Acoustic](https://www.discogs.com/release/9415335) |
+| Release Year   | 2016 |
+| Discogs Link   | [Simple Minds - Acoustic](https://www.discogs.com/release/9415335-Simple-Minds-Acoustic) |
 | Label          | Caroline International, Caroline International |
 | Format         | 2xLP, Album |
 | Catalog Number | SMAC02, 00602557157277 |
+
+From sticker: "180gram Double Heavyweihgt Vinyl - 12 Classics Tracks Reworked Acoustically Including Promised You A Miracle - Alive And Kicking - Don't You (Forget About Me) Plus 3 exclusive Bonus Tracks"  Includes voucher to redeem Wav files for all 15 tracks.  Made in the EU
 

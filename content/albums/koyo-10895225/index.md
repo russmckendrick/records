@@ -1,14 +1,17 @@
 ---
 title: "Koyo (2) - Koyo"
-album_artist: "Koyo (2)"
-album_title: "Koyo"
+artist: "Koyo (2)"
+album_name: "Koyo"
 date: 2017-09-23
 release_id: "10895225"
 slug: "koyo-10895225"
+hideSummary: true
 cover:
     image: "koyo-10895225.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Koyo by Koyo (2)"
+    caption: "Koyo by Koyo (2)"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Koyo (2) - Koyo](https://www.discogs.com/release/10895225) |
+| Release Year   | 2017 |
+| Discogs Link   | [Koyo (2) - Koyo](https://www.discogs.com/release/10895225-Koyo-Koyo) |
 | Label          | 88 Watt |
 | Format         | 2xLP, Album, Red |
 | Catalog Number | 88WLPR004X |
+
+Gatefold sleeve
 

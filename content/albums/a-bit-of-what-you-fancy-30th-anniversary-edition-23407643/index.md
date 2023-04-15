@@ -1,14 +1,17 @@
 ---
 title: "The Quireboys - A Bit Of What You Fancy 30th Anniversary Edition"
-album_artist: "The Quireboys"
-album_title: "A Bit Of What You Fancy 30th Anniversary Edition"
+artist: "The Quireboys"
+album_name: "A Bit Of What You Fancy 30th Anniversary Edition"
 date: 2022-07-10
 release_id: "23407643"
 slug: "a-bit-of-what-you-fancy-30th-anniversary-edition-23407643"
+hideSummary: true
 cover:
     image: "a-bit-of-what-you-fancy-30th-anniversary-edition-23407643.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "A Bit Of What You Fancy 30th Anniversary Edition by The Quireboys"
+    caption: "A Bit Of What You Fancy 30th Anniversary Edition by The Quireboys"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. There She Goes Again (3:27)
 12. Take Me Home (4:44)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Quireboys - A Bit Of What You Fancy 30th Anniversary Edition](https://www.discogs.com/release/23407643) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Quireboys - A Bit Of What You Fancy 30th Anniversary Edition](https://www.discogs.com/release/23407643-The-Quireboys-A-Bit-Of-What-You-Fancy-30th-Anniversary-Edition) |
 | Label          | Off Yer Rocka Recordings |
 | Format         | 2x10\", Ltd, Blu |
 | Catalog Number | OYR068 |
+
+Fully re-recorded version of their first album released for the 30th anniversary. Blue vinyl limited to 750 copies
 

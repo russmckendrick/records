@@ -1,14 +1,17 @@
 ---
 title: "A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service"
-album_artist: "A Tribe Called Quest"
-album_title: "We Got It From Here…Thank You 4 Your Service"
+artist: "A Tribe Called Quest"
+album_name: "We Got It From Here…Thank You 4 Your Service"
 date: 2017-01-13
 release_id: "9579770"
 slug: "we-got-it-from-herethank-you-4-your-service-9579770"
+hideSummary: true
 cover:
     image: "we-got-it-from-herethank-you-4-your-service-9579770.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "We Got It From Here…Thank You 4 Your Service by A Tribe Called Quest"
+    caption: "We Got It From Here…Thank You 4 Your Service by A Tribe Called Quest"
+genres: ["Hip Hop"]
+styles: ["Conscious"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="wMA1kP7gWS4" title="Enough!!" >}}
 - [The Donald](https://www.youtube.com/watch?v=ReLIvQNlkLQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service](https://www.discogs.com/release/9579770) |
+| Release Year   | 2017 |
+| Discogs Link   | [A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service](https://www.discogs.com/release/9579770-A-Tribe-Called-Quest-We-Got-It-From-HereThank-You-4-Your-Service) |
 | Label          | Epic, Sony Music |
 | Format         | 2xLP, Album |
 | Catalog Number | 88985377871 |
+
+B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA  Made in the EU. 
 

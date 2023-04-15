@@ -1,14 +1,17 @@
 ---
 title: "Bobbie Gentry - The Girl From Chickasaw County (Highlights From The Capitol Masters)"
-album_artist: "Bobbie Gentry"
-album_title: "The Girl From Chickasaw County (Highlights From The Capitol Masters)"
+artist: "Bobbie Gentry"
+album_name: "The Girl From Chickasaw County (Highlights From The Capitol Masters)"
 date: 2022-08-06
 release_id: "24114149"
 slug: "the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149"
+hideSummary: true
 cover:
     image: "the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149.jpg"
-tags: ["Rock", "Blues", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry"
+    caption: "The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry"
+genres: ["Rock", "Blues", "Pop", "Folk, World, & Country"]
+styles: ["Country Rock", "Country"]
 ---
 
 ## Tracklisting
@@ -92,13 +95,16 @@ hideSummary: true
 - [You And Me Together](https://www.youtube.com/watch?v=XpsAppX-j8M)
 - [The Girl From Cincinnati](https://www.youtube.com/watch?v=ynnH6kmOH_A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Bobbie Gentry - The Girl From Chickasaw County (Highlights From The Capitol Masters)](https://www.discogs.com/release/24114149) |
+| Release Year   | 2022 |
+| Discogs Link   | [Bobbie Gentry - The Girl From Chickasaw County (Highlights From The Capitol Masters)](https://www.discogs.com/release/24114149-Bobbie-Gentry-The-Girl-From-Chickasaw-County-Highlights-From-The-Capitol-Masters) |
 | Label          | UMC, UMC |
 | Format         | 2xLP, Comp, RM |
 | Catalog Number | 5395656, 00600753956564 |
+
+Gatefold double album with 4-page insert of notes titled "An Introduction To The Recordings", printed inner sleeves , hype sticker on front shrink-wrap and "Made in Germany" sticker on back shrink-wrap.  [From insert] Transfers by Iron Mountain Entertainment Services. Photographs from the collection of Andrew Batt, Capitol Records and the BBC  [From back cover] This compilation ℗ 2022 Universal Music Operations Limited, © 2022 Universal Music Operations Limited Made in the EU.  [From hype sticker] Highlights from the acclaimed Grammy nominated boxset. Includes the classic tracks "Ode To Billie Joe" and "Fancy", as well as demos, outtakes and deepcuts.  [Track details] A1, A2 <> Universal/MCA Music Limited; Originally released on "Ode To Billie Joe" 21/08/1967 A3 to A5, B2, B5, C4, D4 to D6 <> Universal/MCA Music Limited; Originally released on "The Girl From Chickasaw County" 21/09/2018 A6 to B1 <> Universal/MCA Music Limited; Originally released on "The Delta Sweete - Deluxe" 31/07/2020 B3, B4 <> Universal/MCA Music Limited; Remixed for this release B6 <> EMI United Partnership Ltd.; Remixed for this release B7 <> Blue Crest Music, Inc. Hill and Range Songs, Inc.; Originally released on "The Girl From Chickasaw County" 21/09/2018 B8 <> Strictly Confidential; Originally released on "The Girl From Chickasaw County" 21/09/2018 B9, C5 <> Universal Music Publ. International MGB Ltd. / BMG Music Publishing International Ltd.; Originally released on "The Girl From Chickasaw County" 21/09/2018 C1 <> Carlin Music Corp.; Originally released on "The Girl From Chickasaw County" 21/09/2018 C2 <> Warner/Chappell Music Publishing Limited / BMG Rights Management (UK) Ltd. (Hal David); Originally released on "The Girl From Chickasaw County" 21/09/2018 C3 <> Sony/ATB Music Publishing (UK) Limited; Originally released on "The Girl From Chickasaw County" 21/09/2018 C6 <> Universal/MCA Music Limited; Originally released on "Fancy" 06/04/1970 C7 <> Imagem Music; Originally released on "Fancy" 06/04/1970 C8 <> Originally released on "The Girl From Chickasaw County" 21/09/2018 D1 <> Warner/Chappell North America Limited; Originally released on "The Girl From Chickasaw County" 21/09/2018 D2, D3 <> Universal/MCA Music Limited; Originally released on "Patchwork" 26/04/1971 D7 <> EMI Songs Ltd.; Originally released on "The Girl From Cincinnati" 7" 08/1972  Runouts are etched
 

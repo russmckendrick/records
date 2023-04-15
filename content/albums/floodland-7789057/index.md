@@ -1,14 +1,17 @@
 ---
 title: "The Sisters Of Mercy - Floodland"
-album_artist: "The Sisters Of Mercy"
-album_title: "Floodland"
+artist: "The Sisters Of Mercy"
+album_name: "Floodland"
 date: 2015-12-01
 release_id: "7789057"
 slug: "floodland-7789057"
+hideSummary: true
 cover:
     image: "floodland-7789057.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Floodland by The Sisters Of Mercy"
+    caption: "Floodland by The Sisters Of Mercy"
+genres: ["Rock"]
+styles: ["Goth Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Emma (New Version for Digital)](https://www.youtube.com/watch?v=JPNF7W3q9fk)
 - [Long Train (1984) (New Version for Digital)](https://www.youtube.com/watch?v=K-pR4KvDnc8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Sisters Of Mercy - Floodland](https://www.discogs.com/release/7789057) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Sisters Of Mercy - Floodland](https://www.discogs.com/release/7789057-The-Sisters-Of-Mercy-Floodland) |
 | Label          | Warner Music Group, Merciful Release, Merciful Release, Merciful Release, Merciful Release, Merciful Release |
 | Format         | LP, Album, RE + 3x12\", EP, RE + Box |
 | Catalog Number | 0825646077038, MR441L, MR39T, MR43T, MR45T |
+
+LP has lyric sheet / poster included, emulating original release.  All three 12" EPs, as well as being housed in their own (heavier-than-the-original) card sleeves, have black poly-lined inner sleeves.  There are anomalies with all but the Side G & H runouts: The usual [l430654] vinyl runout scheme includes 'E' as the format identifier for stereo, 12", 33⅓ RPM, and 'M' for stereo, 12", 45 RPM. However, on this release, the format identifier for Sides A & B is 'M', despite the fact that they play at 33⅓ RPM, and that for Sides C, D, E & F is 'E', despite them playing at 45 RPM.
 

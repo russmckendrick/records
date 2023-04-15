@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - The Album Collection Vol. 2, 1987-1996"
-album_artist: "Bruce Springsteen"
-album_title: "The Album Collection Vol. 2, 1987-1996"
+artist: "Bruce Springsteen"
+album_name: "The Album Collection Vol. 2, 1987-1996"
 date: 2018-05-18
 release_id: "12016516"
 slug: "the-album-collection-vol-2-1987-1996-12016516"
+hideSummary: true
 cover:
     image: "the-album-collection-vol-2-1987-1996-12016516.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Album Collection Vol. 2, 1987-1996 by Bruce Springsteen"
+    caption: "The Album Collection Vol. 2, 1987-1996 by Bruce Springsteen"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -100,13 +103,16 @@ hideSummary: true
 - [The Album Collection: Chimes of Freedom](https://www.youtube.com/watch?v=IgNbj-T7sTE)
 - [The Album Collection: Blood Brothers](https://www.youtube.com/watch?v=j5rhJ6Zg80w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Bruce Springsteen - The Album Collection Vol. 2, 1987-1996](https://www.discogs.com/release/12016516) |
+| Release Year   | 2018 |
+| Discogs Link   | [Bruce Springsteen - The Album Collection Vol. 2, 1987-1996](https://www.discogs.com/release/12016516-Bruce-Springsteen-The-Album-Collection-Vol-2-1987-1996) |
 | Label          | Columbia |
 | Format         | 2xLP, Album, RE, RM + 2xLP, Album, RE, RM + LP, Al |
 | Catalog Number | 88985460181 |
+
+Certificate of authenticity with number inside the box. 60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996. The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD.  All other albums contained in the set are reissues.  
 

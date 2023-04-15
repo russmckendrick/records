@@ -1,14 +1,17 @@
 ---
 title: "Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 "
-album_artist: "Primal Scream"
-album_title: "Maximum Rock 'N' Roll The Singles Volume 2 "
+artist: "Primal Scream"
+album_name: "Maximum Rock 'N' Roll The Singles Volume 2 "
 date: 2019-06-16
 release_id: "13767591"
 slug: "maximum-rock-n-roll-the-singles-volume-2-13767591"
+hideSummary: true
 cover:
     image: "maximum-rock-n-roll-the-singles-volume-2-13767591.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Maximum Rock 'N' Roll The Singles Volume 2  by Primal Scream"
+    caption: "Maximum Rock 'N' Roll The Singles Volume 2  by Primal Scream"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Where The Light Gets In
 14. 100% Or Nothing
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 ](https://www.discogs.com/release/13767591) |
+| Release Year   | 2019 |
+| Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 ](https://www.discogs.com/release/13767591-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-2-) |
 | Label          | Sony Music |
 | Format         | LP, Gre + LP, Whi + Comp, Ltd, RM |
 | Catalog Number | 19075933811 |
+
+Limited 500 copies in gatefold sleeve with download code.  Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels).
 

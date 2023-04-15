@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - Who Cares A Lot? The Greatest Hits"
-album_artist: "Faith No More"
-album_title: "Who Cares A Lot? The Greatest Hits"
+artist: "Faith No More"
+album_name: "Who Cares A Lot? The Greatest Hits"
 date: 2021-03-29
 release_id: "17063952"
 slug: "who-cares-a-lot-the-greatest-hits-17063952"
+hideSummary: true
 cover:
     image: "who-cares-a-lot-the-greatest-hits-17063952.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Who Cares A Lot? The Greatest Hits by Faith No More"
+    caption: "Who Cares A Lot? The Greatest Hits by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Instrumental (2016 Remaster)](https://www.youtube.com/watch?v=w_DY87iXsdI)
 - [I Won't Forget You (2016 Remaster)](https://www.youtube.com/watch?v=mOtDoTPZ56c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Faith No More - Who Cares A Lot? The Greatest Hits](https://www.discogs.com/release/17063952) |
+| Release Year   | 2021 |
+| Discogs Link   | [Faith No More - Who Cares A Lot? The Greatest Hits](https://www.discogs.com/release/17063952-Faith-No-More-Who-Cares-A-Lot-The-Greatest-Hits) |
 | Label          | Slash, Slash |
 | Format         | 2xLP, Album, Comp, Ltd, RE, Gol |
 | Catalog Number | 190295233174, 0190295233174 |
+
+Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.  This compilation ℗ 1998 Slash Records / Warner Music UK Limited. © 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved.   Manufactured for & marketed by Warner Music UK Limited.  Made in Germany.
 

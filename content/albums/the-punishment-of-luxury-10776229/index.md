@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - The Punishment Of Luxury"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "The Punishment Of Luxury"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "The Punishment Of Luxury"
 date: 2017-09-01
 release_id: "10776229"
 slug: "the-punishment-of-luxury-10776229"
+hideSummary: true
 cover:
     image: "the-punishment-of-luxury-10776229.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "The Punishment Of Luxury by Orchestral Manoeuvres In The Dark"
+    caption: "The Punishment Of Luxury by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [OMD - La Mitrailleuse](https://www.youtube.com/watch?v=9PO_RkGju6M)
 - [Orchestral Manoeuvres in the Dark - Isotype](https://www.youtube.com/watch?v=gp_Du6uO9V4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - The Punishment Of Luxury](https://www.discogs.com/release/10776229) |
+| Release Year   | 2017 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - The Punishment Of Luxury](https://www.discogs.com/release/10776229-OMD-The-Punishment-Of-Luxury) |
 | Label          | 100% Records (2), White Noise (8) |
 | Format         | LP, Album |
 | Catalog Number | 100LP66 |
+
+Issued in a die-cut sleeve.
 

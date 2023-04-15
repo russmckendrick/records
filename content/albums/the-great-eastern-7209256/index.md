@@ -1,14 +1,17 @@
 ---
 title: "The Delgados - The Great Eastern"
-album_artist: "The Delgados"
-album_title: "The Great Eastern"
+artist: "The Delgados"
+album_name: "The Great Eastern"
 date: 2023-01-21
 release_id: "7209256"
 slug: "the-great-eastern-7209256"
+hideSummary: true
 cover:
     image: "the-great-eastern-7209256.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Great Eastern by The Delgados"
+    caption: "The Great Eastern by The Delgados"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Delgados - Witness](https://www.youtube.com/watch?v=k7zJqGZlKRI)
 - [The Delgados - Make Your Move (Twin Peaks Mix)](https://www.youtube.com/watch?v=nUk4DU_5mKM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Delgados - The Great Eastern](https://www.discogs.com/release/7209256) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Delgados - The Great Eastern](https://www.discogs.com/release/7209256-The-Delgados-The-Great-Eastern) |
 | Label          | Chemikal Underground Ltd. |
 | Format         | LP, RE |
 | Catalog Number | CHEM226 |
+
+The long-awaited reissue of The Delgados' Mercury-nominated The Great Eastern has finally arrived and comes to you in a singlefold sleeve with printed inner (lyrics incl.), on 180gsm vinyl and with a download code for 320kbps MP3s.  Available on vinyl for the first time in nearly fifteen years, it might have taken us a while but we got there eventually...  (ltd to 500 according to normanrecords.com)
 

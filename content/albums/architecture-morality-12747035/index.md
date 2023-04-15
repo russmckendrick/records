@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Architecture & Morality"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "Architecture & Morality"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "Architecture & Morality"
 date: 2018-11-03
 release_id: "12747035"
 slug: "architecture-morality-12747035"
+hideSummary: true
 cover:
     image: "architecture-morality-12747035.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Architecture & Morality by Orchestral Manoeuvres In The Dark"
+    caption: "Architecture & Morality by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Georgia (2003 Digital Remaster)](https://www.youtube.com/watch?v=aZOXVKu91-A)
 - [The Beginning And The End (2003 Digital Remaster)](https://www.youtube.com/watch?v=TCLZiooXbxA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - Architecture & Morality](https://www.discogs.com/release/12747035) |
+| Release Year   | 2018 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - Architecture & Morality](https://www.discogs.com/release/12747035-Orchestral-Manoeuvres-In-The-Dark-Architecture-Morality) |
 | Label          | Virgin EMI Records |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 0602557050820 |
+
+Half Speed Mastered at Abbey Road Studios Includes Digital Download Card  Pre-recorded at The Gramophone Suite (Liverpool, England).  Choral tapes on "Souvenir" courtesy of David Hughes. Title suggested by M. Ladly from a book by David Watkin. Produced and created for White Noise Ltd. and on behalf of Architettura Industria.  © 2018 Virgin Records  Ltd.
 

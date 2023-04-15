@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - Life"
-album_artist: "Inspiral Carpets"
-album_title: "Life"
+artist: "Inspiral Carpets"
+album_name: "Life"
 date: 2021-11-22
 release_id: "21039049"
 slug: "life-21039049"
+hideSummary: true
 cover:
     image: "life-21039049.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Life by Inspiral Carpets"
+    caption: "Life by Inspiral Carpets"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Inside My Head](https://www.youtube.com/watch?v=e1RiKH53Ko0)
 - [Sackville](https://www.youtube.com/watch?v=LY0CCIt5t1s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Inspiral Carpets - Life](https://www.discogs.com/release/21039049) |
+| Release Year   | 2021 |
+| Discogs Link   | [Inspiral Carpets - Life](https://www.discogs.com/release/21039049-Inspiral-Carpets-Life) |
 | Label          | Mute, BMG, Cow |
 | Format         | LP, Album, Ltd, RE, Gol |
 | Catalog Number | ldung8 |
+
+"for [craig](https://www.discogs.com/artist/397375-Craig-Gill)....."
 

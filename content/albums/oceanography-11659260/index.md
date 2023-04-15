@@ -1,14 +1,17 @@
 ---
 title: "Charlie Barnes - Oceanography"
-album_artist: "Charlie Barnes"
-album_title: "Oceanography"
+artist: "Charlie Barnes"
+album_name: "Oceanography"
 date: 2018-03-16
 release_id: "11659260"
 slug: "oceanography-11659260"
+hideSummary: true
 cover:
     image: "oceanography-11659260.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Oceanography by Charlie Barnes"
+    caption: "Oceanography by Charlie Barnes"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="J3GOusISHlo" title="Oceanography" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Charlie Barnes - Oceanography](https://www.discogs.com/release/11659260) |
+| Release Year   | 2018 |
+| Discogs Link   | [Charlie Barnes - Oceanography](https://www.discogs.com/release/11659260-Charlie-Barnes-Oceanography) |
 | Label          | Superball Music, Sony Music |
 | Format         | LP + CD + Album |
 | Catalog Number | SBMLP 045, 19075815841 |
+
+180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.  Copies purchased in Charlie Burns official store includes a signed postcard.  Recorded in fits and starts between October 2014 and October 2017.
 

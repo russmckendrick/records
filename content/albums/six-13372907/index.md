@@ -1,14 +1,17 @@
 ---
 title: "Mansun - Six"
-album_artist: "Mansun"
-album_title: "Six"
+artist: "Mansun"
+album_name: "Six"
 date: 2019-03-21
 release_id: "13372907"
 slug: "six-13372907"
+hideSummary: true
 cover:
     image: "six-13372907.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Six by Mansun"
+    caption: "Six by Mansun"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Mansun - Negative](https://www.youtube.com/watch?v=BnyHcDZHvko)
 - [Mansun - Shotgun](https://www.youtube.com/watch?v=UgK_1nkp6VE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Mansun - Six](https://www.discogs.com/release/13372907) |
+| Release Year   | 2019 |
+| Discogs Link   | [Mansun - Six](https://www.discogs.com/release/13372907-Mansun-Six) |
 | Label          | Kscope, Kscope |
 | Format         | 2xLP, Album, Ltd, RE, RM, Cle |
 | Catalog Number | KSCOPE1066, KSCOPE1011 |
+
+Indies exclusive edition.  KSCOPE1011 - generic catalogue number on the record sleeve. KSCOPE1066 - clear vinyl 'hype' sticker & barcode sticker catalogue number.  21st-anniversary edition.  Hype sticker: MANSUN SIX 2019 REMASTER LIMITED EDITION CLEAR 180g VINYL 2LP SET - 21ST ANNIVERSARY EDITION Mansun's audacious and infectious Top 10 album. Includes the singles 'Six', 'Being A Girl', 'Legacy' and 'Negative'. "A twisting maze of prog, glam and early-'80s guitar pop... No-one has done northern angst on LSD quite like this." NME kscope 1066 kscopemusic.com/mansun   Made in the EU
 

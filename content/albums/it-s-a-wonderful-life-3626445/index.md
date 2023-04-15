@@ -1,14 +1,17 @@
 ---
 title: "Sparklehorse - It's A Wonderful Life"
-album_artist: "Sparklehorse"
-album_title: "It's A Wonderful Life"
+artist: "Sparklehorse"
+album_name: "It's A Wonderful Life"
 date: 2019-04-26
 release_id: "3626445"
 slug: "it-s-a-wonderful-life-3626445"
+hideSummary: true
 cover:
     image: "it-s-a-wonderful-life-3626445.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "It's A Wonderful Life by Sparklehorse"
+    caption: "It's A Wonderful Life by Sparklehorse"
+genres: ["Rock"]
+styles: ["Lo-Fi", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Sparklehorse - Comfort Me (Official Video)](https://www.youtube.com/watch?v=7JviEK52rl8)
 - [Sparklehorse feat. Nina Persson - Gold Day (Official Video)](https://www.youtube.com/watch?v=OrFrcF6xd4I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Sparklehorse - It's A Wonderful Life](https://www.discogs.com/release/3626445) |
+| Release Year   | 2012 |
+| Discogs Link   | [Sparklehorse - It's A Wonderful Life](https://www.discogs.com/release/3626445-Sparklehorse-Its-A-Wonderful-Life) |
 | Label          | Plain Recordings |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | Plain176 |
+
+reissue comes with gatefold sleeve and download code. 
 

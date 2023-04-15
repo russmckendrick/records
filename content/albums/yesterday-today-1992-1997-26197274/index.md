@@ -1,14 +1,17 @@
 ---
 title: "Ocean Colour Scene - Yesterday Today 1992-1997"
-album_artist: "Ocean Colour Scene"
-album_title: "Yesterday Today 1992-1997"
+artist: "Ocean Colour Scene"
+album_name: "Yesterday Today 1992-1997"
 date: 2023-03-01
 release_id: "26197274"
 slug: "yesterday-today-1992-1997-26197274"
+hideSummary: true
 cover:
     image: "yesterday-today-1992-1997-26197274.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Yesterday Today 1992-1997 by Ocean Colour Scene"
+    caption: "Yesterday Today 1992-1997 by Ocean Colour Scene"
+genres: ["Rock", "Pop"]
+styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -53,16 +56,17 @@ hideSummary: true
 39. Half A Dream Away (04:21)
 40. It's A Beautiful Thing (06:30)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Ocean Colour Scene - Yesterday Today 1992-1997](https://www.discogs.com/release/26197274) |
+| Release Year   | 2023 |
+| Discogs Link   | [Ocean Colour Scene - Yesterday Today 1992-1997](https://www.discogs.com/release/26197274-Ocean-Colour-Scene-Yesterday-Today-1992-1997) |
 | Label          | Demon Records |
 | Format         | LP, Comp, RE, Blu + 2xLP, Album, RE, Ora + 2xLP, A |
 | Catalog Number | DEMRECBOX75 |
+
+ 
 

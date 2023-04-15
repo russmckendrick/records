@@ -1,14 +1,17 @@
 ---
 title: "Dropkick Murphys - Do Or Die"
-album_artist: "Dropkick Murphys"
-album_title: "Do Or Die"
+artist: "Dropkick Murphys"
+album_name: "Do Or Die"
 date: 2022-08-16
 release_id: "24170219"
 slug: "do-or-die-24170219"
+hideSummary: true
 cover:
     image: "do-or-die-24170219.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Do Or Die by Dropkick Murphys"
+    caption: "Do Or Die by Dropkick Murphys"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)" >}}
 - [Dropkick Murphys - Never Alone (Full Album Stream)](https://www.youtube.com/watch?v=H5BnIDiTakg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Dropkick Murphys - Do Or Die](https://www.discogs.com/release/24170219) |
+| Release Year   | 2022 |
+| Discogs Link   | [Dropkick Murphys - Do Or Die](https://www.discogs.com/release/24170219-Dropkick-Murphys-Do-Or-Die) |
 | Label          | Hellcat Records |
 | Format         | LP, Album, Ltd, RE, Cle |
 | Catalog Number | 0407-1 |
+
+Released in 2022 on clear vinyl.  Note: identical barcode and matrix/runout as [r24169526].
 

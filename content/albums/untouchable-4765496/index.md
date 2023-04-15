@@ -1,14 +1,17 @@
 ---
 title: "Anathema - Untouchable"
-album_artist: "Anathema"
-album_title: "Untouchable"
+artist: "Anathema"
+album_name: "Untouchable"
 date: 2016-12-13
 release_id: "4765496"
 slug: "untouchable-4765496"
+hideSummary: true
 cover:
     image: "untouchable-4765496.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Untouchable by Anathema"
+    caption: "Untouchable by Anathema"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Anathema - Universal (from the Universal Concert Film)](https://www.youtube.com/watch?v=6oc4HgczbY0)
 - [Anathema - Untouchable Part 1-2 (Universal Live) HD Legendado PT-BR](https://www.youtube.com/watch?v=-aom-fUjthU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Anathema - Untouchable](https://www.discogs.com/release/4765496) |
+| Release Year   | 2013 |
+| Discogs Link   | [Anathema - Untouchable](https://www.discogs.com/release/4765496-Anathema-Untouchable) |
 | Label          | Kscope, Kscope |
 | Format         | 2xLP, Album |
 | Catalog Number | KSCOPE843, kscope843 |
+
+Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.  Gatefold sleeve  Made in Germany.
 

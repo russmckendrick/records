@@ -1,14 +1,17 @@
 ---
 title: "Sweet Billy Pilgrim - Motorcade Amnesiacs"
-album_artist: "Sweet Billy Pilgrim"
-album_title: "Motorcade Amnesiacs"
+artist: "Sweet Billy Pilgrim"
+album_name: "Motorcade Amnesiacs"
 date: 2015-08-09
 release_id: "7049817"
 slug: "motorcade-amnesiacs-7049817"
+hideSummary: true
 cover:
     image: "motorcade-amnesiacs-7049817.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Motorcade Amnesiacs by Sweet Billy Pilgrim"
+    caption: "Motorcade Amnesiacs by Sweet Billy Pilgrim"
+genres: ["Electronic", "Rock"]
+styles: ["Art Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Longstreth](https://www.youtube.com/watch?v=ghZ93J3CBco)
 - [Sweet Billy Pilgrim - Coloma Blues (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=aVIHC0E1Vpw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Sweet Billy Pilgrim - Motorcade Amnesiacs](https://www.discogs.com/release/7049817) |
+| Release Year   | 2015 |
+| Discogs Link   | [Sweet Billy Pilgrim - Motorcade Amnesiacs](https://www.discogs.com/release/7049817-Sweet-Billy-Pilgrim-Motorcade-Amnesiacs) |
 | Label          | Kscope |
 | Format         | 2xLP, 180 |
 | Catalog Number | KSCOPE886 |
+
+Side D is etched. Comes with 4 page booklet with lyrics. Black poly-lined inner sleeves.
 

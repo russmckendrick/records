@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend Project - Sky Blue"
-album_artist: "Devin Townsend Project"
-album_title: "Sky Blue"
+artist: "Devin Townsend Project"
+album_name: "Sky Blue"
 date: 2016-05-03
 release_id: "7514380"
 slug: "sky-blue-7514380"
+hideSummary: true
 cover:
     image: "sky-blue-7514380.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sky Blue by Devin Townsend Project"
+    caption: "Sky Blue by Devin Townsend Project"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Devin Townsend Project - Warrior](https://www.youtube.com/watch?v=slr_xGSklqU)
 - [Devin Townsend and Anneke Van Giersbergen - Fallout (with lyrics)](https://www.youtube.com/watch?v=p4rOf7jRrtA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Devin Townsend Project - Sky Blue](https://www.discogs.com/release/7514380) |
+| Release Year   | 2015 |
+| Discogs Link   | [Devin Townsend Project - Sky Blue](https://www.discogs.com/release/7514380-Devin-Townsend-Project-Sky-Blue) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | IOMLP 423, 0507231 |
+
+180g vinyl in gatefold sleeve. Printed Inner Sleeve w/lyrics  www.insideoutmusic.com FACTOR Canada  © 2015 HevyDevy Records and ℗ 2014 HevyDevy Records.  Made in Germany - Century Media Records Ltd. /85-87 Bayham Street / Camden / London NW1 0AG / England  We Acknowledge the financial support of the Government of Canada through the Department of Canadian Heritage (Canada Music Fund) and of Canada's Private Radio Broadcaster's
 

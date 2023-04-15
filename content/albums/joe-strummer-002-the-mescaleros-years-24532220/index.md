@@ -1,14 +1,17 @@
 ---
 title: "Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years"
-album_artist: "Joe Strummer & The Mescaleros"
-album_title: "Joe Strummer 002: The Mescaleros Years"
+artist: "Joe Strummer & The Mescaleros"
+album_name: "Joe Strummer 002: The Mescaleros Years"
 date: 2022-09-26
 release_id: "24532220"
 slug: "joe-strummer-002-the-mescaleros-years-24532220"
+hideSummary: true
 cover:
     image: "joe-strummer-002-the-mescaleros-years-24532220.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Joe Strummer 002: The Mescaleros Years by Joe Strummer & The Mescaleros"
+    caption: "Joe Strummer 002: The Mescaleros Years by Joe Strummer & The Mescaleros"
+genres: ["Rock"]
+styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -81,13 +84,16 @@ hideSummary: true
 - [Joe Strummer - Fantastic (Official Audio)](https://www.youtube.com/watch?v=SmiQ8KDqG2o)
 - [Coma Girl (Outtake)](https://www.youtube.com/watch?v=BK_7ECtly5c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years](https://www.discogs.com/release/24532220) |
+| Release Year   | 2022 |
+| Discogs Link   | [Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years](https://www.discogs.com/release/24532220-Joe-Strummer-The-Mescaleros-Joe-Strummer-002-The-Mescaleros-Years) |
 | Label          | Dark Horse Records, BMG |
 | Format         | 2xLP, Album, RE + 2xLP, Album, RE + LP, Album, RE  |
 | Catalog Number | DH0009, 405053879182 |
+
+
 

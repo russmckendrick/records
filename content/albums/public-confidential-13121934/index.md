@@ -1,14 +1,17 @@
 ---
 title: "The Beat (6) Feat. Ranking Roger - Public Confidential"
-album_artist: "The Beat (6) Feat. Ranking Roger"
-album_title: "Public Confidential"
+artist: "The Beat (6) Feat. Ranking Roger"
+album_name: "Public Confidential"
 date: 2019-06-21
 release_id: "13121934"
 slug: "public-confidential-13121934"
+hideSummary: true
 cover:
     image: "public-confidential-13121934.jpg"
-tags: ["Reggae", "Pop"]
-hideSummary: true
+    alt: "Public Confidential by The Beat (6) Feat. Ranking Roger"
+    caption: "Public Confidential by The Beat (6) Feat. Ranking Roger"
+genres: ["Reggae", "Pop"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="kKWUHAGSHvM" title="Maniac - The Beat feat Ranking Roger" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Beat (6) Feat. Ranking Roger - Public Confidential](https://www.discogs.com/release/13121934) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Beat (6) Feat. Ranking Roger - Public Confidential](https://www.discogs.com/release/13121934-The-Beat-6-Feat-Ranking-Roger-Public-Confidential) |
 | Label          | DMF Records (3) |
 | Format         | LP, Album, Whi |
 | Catalog Number | DMF 129LP |
+
+Split Black/ White vinyl release.
 

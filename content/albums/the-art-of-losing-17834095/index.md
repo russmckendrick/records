@@ -1,14 +1,17 @@
 ---
 title: "The Anchoress - The Art Of Losing"
-album_artist: "The Anchoress"
-album_title: "The Art Of Losing"
+artist: "The Anchoress"
+album_name: "The Art Of Losing"
 date: 2021-03-14
 release_id: "17834095"
 slug: "the-art-of-losing-17834095"
+hideSummary: true
 cover:
     image: "the-art-of-losing-17834095.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Art Of Losing by The Anchoress"
+    caption: "The Art Of Losing by The Anchoress"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat. James Dean Bradfield" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Anchoress - The Art Of Losing](https://www.discogs.com/release/17834095) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Anchoress - The Art Of Losing](https://www.discogs.com/release/17834095-The-Anchoress-The-Art-Of-Losing) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd, Gol |
 | Catalog Number | KSCOPE1111 |
+
+Double Gold Vinyl Limited to 500 copies
 

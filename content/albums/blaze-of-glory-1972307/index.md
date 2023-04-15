@@ -1,14 +1,17 @@
 ---
 title: "Jon Bon Jovi - Blaze Of Glory"
-album_artist: "Jon Bon Jovi"
-album_title: "Blaze Of Glory"
+artist: "Jon Bon Jovi"
+album_name: "Blaze Of Glory"
 date: 2018-09-07
 release_id: "1972307"
 slug: "blaze-of-glory-1972307"
+hideSummary: true
 cover:
     image: "blaze-of-glory-1972307.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Blaze Of Glory by Jon Bon Jovi"
+    caption: "Blaze Of Glory by Jon Bon Jovi"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Dyin' Ain't Much Of A Livin'](https://www.youtube.com/watch?v=9kuGA621nr8)
 - [Guano City (From Young Guns II Soundtrack)](https://www.youtube.com/watch?v=P9gAd5Ax4OE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Jon Bon Jovi - Blaze Of Glory](https://www.discogs.com/release/1972307) |
+| Release Year   | 1990 |
+| Discogs Link   | [Jon Bon Jovi - Blaze Of Glory](https://www.discogs.com/release/1972307-Jon-Bon-Jovi-Blaze-Of-Glory) |
 | Label          | Vertigo |
 | Format         | LP, Album |
 | Catalog Number | 846 473-1 |
+
+Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California. 
 

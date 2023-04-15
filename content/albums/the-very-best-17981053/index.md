@@ -1,14 +1,17 @@
 ---
 title: "INXS - The Very Best"
-album_artist: "INXS"
-album_title: "The Very Best"
+artist: "INXS"
+album_name: "The Very Best"
 date: 2023-03-11
 release_id: "17981053"
 slug: "the-very-best-17981053"
+hideSummary: true
 cover:
     image: "the-very-best-17981053.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Very Best by INXS"
+    caption: "The Very Best by INXS"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. Bitter Tears
 20. Baby Don't Cry
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [INXS - The Very Best](https://www.discogs.com/release/17981053) |
+| Release Year   | 2017 |
+| Discogs Link   | [INXS - The Very Best](https://www.discogs.com/release/17981053-INXS-The-Very-Best) |
 | Label          | Universal Music Group, Petrol |
 | Format         | LP, Comp |
 | Catalog Number | 0602557887068 |
+
+Black Vinyls
 

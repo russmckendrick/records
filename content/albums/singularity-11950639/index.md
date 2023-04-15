@@ -1,14 +1,17 @@
 ---
 title: "Jon Hopkins - Singularity"
-album_artist: "Jon Hopkins"
-album_title: "Singularity"
+artist: "Jon Hopkins"
+album_name: "Singularity"
 date: 2020-03-14
 release_id: "11950639"
 slug: "singularity-11950639"
+hideSummary: true
 cover:
     image: "singularity-11950639.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Singularity by Jon Hopkins"
+    caption: "Singularity by Jon Hopkins"
+genres: ["Electronic"]
+styles: ["Tech House", "Electro", "Experimental"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Jon Hopkins - Luminous Beings (HQ audio)](https://www.youtube.com/watch?v=ogMGGaeecww)
 - [Recovery](https://www.youtube.com/watch?v=MaqlsAmlbzo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jon Hopkins - Singularity](https://www.discogs.com/release/11950639) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jon Hopkins - Singularity](https://www.discogs.com/release/11950639-Jon-Hopkins-Singularity) |
 | Label          | Domino |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | WIGLP352 |
+
+Standard black-vinyl version.  Written, produced and engineered at Café Music Studios, London Mixed at Café Music Studios, London Piano on Emerald Rush recorded at Shoreditch Treehouse, London London Voices recorded at Angel Studios, London
 

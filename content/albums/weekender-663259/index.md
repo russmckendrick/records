@@ -1,14 +1,17 @@
 ---
 title: "Flowered Up - Weekender"
-album_artist: "Flowered Up"
-album_title: "Weekender"
+artist: "Flowered Up"
+album_name: "Weekender"
 date: 2017-01-25
 release_id: "663259"
 slug: "weekender-663259"
+hideSummary: true
 cover:
     image: "weekender-663259.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Weekender by Flowered Up"
+    caption: "Weekender by Flowered Up"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [Flowered Up - Weekender](https://www.discogs.com/release/663259) |
+| Release Year   | 1992 |
+| Discogs Link   | [Flowered Up - Weekender](https://www.discogs.com/release/663259-Flowered-Up-Weekender) |
 | Label          | Heavenly, Columbia |
 | Format         | 12\", S/Sided |
 | Catalog Number | HVN 16 |
+
+Recorded at Westside Studios, London.  © 1992 Sony Music Entertainment (UK) Ltd. ℗ 1992 Sony Music Entertainment (UK) Ltd.
 

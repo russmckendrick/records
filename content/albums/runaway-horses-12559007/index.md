@@ -1,14 +1,17 @@
 ---
 title: "Belinda Carlisle - Runaway Horses"
-album_artist: "Belinda Carlisle"
-album_title: "Runaway Horses"
+artist: "Belinda Carlisle"
+album_name: "Runaway Horses"
 date: 2018-09-22
 release_id: "12559007"
 slug: "runaway-horses-12559007"
+hideSummary: true
 cover:
     image: "runaway-horses-12559007.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Runaway Horses by Belinda Carlisle"
+    caption: "Runaway Horses by Belinda Carlisle"
+genres: ["Rock"]
+styles: ["Soft Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Whatever It Takes](https://www.youtube.com/watch?v=7T3HLGHigwI)
 - [Shades Of Michaelangelo](https://www.youtube.com/watch?v=c8GV0CxraL4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Belinda Carlisle - Runaway Horses](https://www.discogs.com/release/12559007) |
+| Release Year   | 2018 |
+| Discogs Link   | [Belinda Carlisle - Runaway Horses](https://www.discogs.com/release/12559007-Belinda-Carlisle-Runaway-Horses) |
 | Label          | Demon Records |
 | Format         | LP, Album, Ltd, RE, Gre |
 | Catalog Number | DEMREC307 |
+
+Sticker: 'Pressed on 180gm heavyweight translucent green vinyl'. Printed inner sleeve. 
 

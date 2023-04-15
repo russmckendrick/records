@@ -1,14 +1,17 @@
 ---
 title: "Michael Kiwanuka - Kiwanuka"
-album_artist: "Michael Kiwanuka"
-album_title: "Kiwanuka"
+artist: "Michael Kiwanuka"
+album_name: "Kiwanuka"
 date: 2019-11-01
 release_id: "14335267"
 slug: "kiwanuka-14335267"
+hideSummary: true
 cover:
     image: "kiwanuka-14335267.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Kiwanuka by Michael Kiwanuka"
+    caption: "Kiwanuka by Michael Kiwanuka"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Solid Ground](https://www.youtube.com/watch?v=zO_wmEzfMRY)
 - [Light](https://www.youtube.com/watch?v=RCDsiBLZPnk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Michael Kiwanuka - Kiwanuka](https://www.discogs.com/release/14335267) |
+| Release Year   | 2019 |
+| Discogs Link   | [Michael Kiwanuka - Kiwanuka](https://www.discogs.com/release/14335267-Michael-Kiwanuka-Kiwanuka) |
 | Label          | Polydor |
 | Format         | 2xLP, Album, Ltd, Yel |
 | Catalog Number | 7795288 |
+
+Gatefold sleeve holds two full color printed cardboard inner sleeves.  Some copies include colour print signed by the artist.  On labels: Made in the Czech Republic
 

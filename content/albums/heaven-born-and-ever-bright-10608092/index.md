@@ -1,14 +1,17 @@
 ---
 title: "Cardiacs - Heaven Born And Ever Bright"
-album_artist: "Cardiacs"
-album_title: "Heaven Born And Ever Bright"
+artist: "Cardiacs"
+album_name: "Heaven Born And Ever Bright"
 date: 2018-08-14
 release_id: "10608092"
 slug: "heaven-born-and-ever-bright-10608092"
+hideSummary: true
 cover:
     image: "heaven-born-and-ever-bright-10608092.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Heaven Born And Ever Bright by Cardiacs"
+    caption: "Heaven Born And Ever Bright by Cardiacs"
+genres: ["Rock"]
+styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [CARDIACS - Core](https://www.youtube.com/watch?v=6pEbXdT0PWw)
 - [Cardiacs - Day is Gone](https://www.youtube.com/watch?v=iRctRAWNi2w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Cardiacs - Heaven Born And Ever Bright](https://www.discogs.com/release/10608092) |
+| Release Year   | 2017 |
+| Discogs Link   | [Cardiacs - Heaven Born And Ever Bright](https://www.discogs.com/release/10608092-Cardiacs-Heaven-Born-And-Ever-Bright) |
 | Label          | The Alphabet Business Concern |
 | Format         | LP, Album, RE, Gat |
 | Catalog Number | ALPH LP017 |
+
+2017 reissue on 180 gram vinyl in a gatefold sleeve. Sourced from the original master.
 

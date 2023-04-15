@@ -1,14 +1,17 @@
 ---
 title: "Dead Cross - Dead Cross"
-album_artist: "Dead Cross"
-album_title: "Dead Cross"
+artist: "Dead Cross"
+album_name: "Dead Cross"
 date: 2017-08-18
 release_id: "10642664"
 slug: "dead-cross-10642664"
+hideSummary: true
 cover:
     image: "dead-cross-10642664.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dead Cross by Dead Cross"
+    caption: "Dead Cross by Dead Cross"
+genres: ["Rock"]
+styles: ["Hardcore", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Gag Reflex](https://www.youtube.com/watch?v=ijoP18PK3BE)
 - [Dead Cross - Church of the Motherfuckers](https://www.youtube.com/watch?v=IxaFJQo7TzU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Dead Cross - Dead Cross](https://www.discogs.com/release/10642664) |
+| Release Year   | 2017 |
+| Discogs Link   | [Dead Cross - Dead Cross](https://www.discogs.com/release/10642664-Dead-Cross-Dead-Cross) |
 | Label          | Ipecac Recordings |
 | Format         | LP, Album, Ltd, Gol |
 | Catalog Number | IPC193LP |
+
+Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).  Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix. 
 

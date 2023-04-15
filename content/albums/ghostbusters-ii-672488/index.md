@@ -1,14 +1,17 @@
 ---
 title: "Various - Ghostbusters II"
-album_artist: "Various"
-album_title: "Ghostbusters II"
+artist: "Various"
+album_name: "Ghostbusters II"
 date: 2020-08-01
 release_id: "672488"
 slug: "ghostbusters-ii-672488"
+hideSummary: true
 cover:
     image: "ghostbusters-ii-672488.jpg"
-tags: ["Hip Hop", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Ghostbusters II by Various"
+    caption: "Ghostbusters II by Various"
+genres: ["Hip Hop", "Rock", "Stage & Screen"]
+styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Flip City](https://www.youtube.com/watch?v=pahcnB6FTLk)
 - [Higher And Higher](https://www.youtube.com/watch?v=4hVyALxFzJ4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Various - Ghostbusters II](https://www.discogs.com/release/672488) |
+| Release Year   | 1989 |
+| Discogs Link   | [Various - Ghostbusters II](https://www.discogs.com/release/672488-Various-Ghostbusters-II) |
 | Label          | MCA Records, MCA Records |
 | Format         | LP, Comp |
 | Catalog Number | 256 434-1, MCA-6306 |
+
+
 

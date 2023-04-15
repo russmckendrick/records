@@ -1,14 +1,17 @@
 ---
 title: "Living Colour - Vivid"
-album_artist: "Living Colour"
-album_title: "Vivid"
+artist: "Living Colour"
+album_name: "Vivid"
 date: 2020-02-25
 release_id: "14827118"
 slug: "vivid-14827118"
+hideSummary: true
 cover:
     image: "vivid-14827118.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vivid by Living Colour"
+    caption: "Vivid by Living Colour"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Funk Metal"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
 - [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/14827118) |
+| Release Year   | 2020 |
+| Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/14827118-Living-Colour-Vivid) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Pin |
 | Catalog Number | MOVLP596 |
+
+Music on Vinyl hypesticker: "Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"  180 gram audiophile vinyl"  Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment 
 

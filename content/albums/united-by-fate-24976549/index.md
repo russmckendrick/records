@@ -1,14 +1,17 @@
 ---
 title: "Rival Schools - United By Fate"
-album_artist: "Rival Schools"
-album_title: "United By Fate"
+artist: "Rival Schools"
+album_name: "United By Fate"
 date: 2022-12-05
 release_id: "24976549"
 slug: "united-by-fate-24976549"
+hideSummary: true
 cover:
     image: "united-by-fate-24976549.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "United By Fate by Rival Schools"
+    caption: "United By Fate by Rival Schools"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hardcore"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 {{< youtube id="DcRt7kkzcxM" title="Rival Schools - Used For Glue" >}}
 - [Rival Schools - Good Things](https://www.youtube.com/watch?v=cLjUI8t0v50)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Rival Schools - United By Fate](https://www.discogs.com/release/24976549) |
+| Release Year   | 2022 |
+| Discogs Link   | [Rival Schools - United By Fate](https://www.discogs.com/release/24976549-Rival-Schools-United-By-Fate) |
 | Label          | Run For Cover Records (2) |
 | Format         | LP, Album, RE, Blu |
 | Catalog Number | RFC:242 |
+
+Blue in White / 300 (Rough Trade Exclusive).
 

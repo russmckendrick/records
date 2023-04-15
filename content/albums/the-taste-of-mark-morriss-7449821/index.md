@@ -1,14 +1,17 @@
 ---
 title: "Mark Morriss - The Taste Of Mark Morriss"
-album_artist: "Mark Morriss"
-album_title: "The Taste Of Mark Morriss"
+artist: "Mark Morriss"
+album_name: "The Taste Of Mark Morriss"
 date: 2015-12-15
 release_id: "7449821"
 slug: "the-taste-of-mark-morriss-7449821"
+hideSummary: true
 cover:
     image: "the-taste-of-mark-morriss-7449821.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Taste Of Mark Morriss by Mark Morriss"
+    caption: "The Taste Of Mark Morriss by Mark Morriss"
+genres: ["Rock", "Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [You Are My Friend](https://www.youtube.com/watch?v=n3V6cL8M2ao)
 - [This Pullover](https://www.youtube.com/watch?v=yq-NOQHY1xI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Mark Morriss - The Taste Of Mark Morriss](https://www.discogs.com/release/7449821) |
+| Release Year   | 2015 |
+| Discogs Link   | [Mark Morriss - The Taste Of Mark Morriss](https://www.discogs.com/release/7449821-Mark-Morriss-The-Taste-Of-Mark-Morriss) |
 | Label          | Acid Jazz |
 | Format         | LP, Album |
 | Catalog Number | AJXLP375 |
+
+
 

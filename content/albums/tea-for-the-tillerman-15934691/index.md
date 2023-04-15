@@ -1,14 +1,17 @@
 ---
 title: "Yusuf Islam / Cat Stevens - Tea For The Tillerman²"
-album_artist: "Yusuf Islam / Cat Stevens"
-album_title: "Tea For The Tillerman²"
+artist: "Yusuf Islam / Cat Stevens"
+album_name: "Tea For The Tillerman²"
 date: 2020-09-19
 release_id: "15934691"
 slug: "tea-for-the-tillerman-15934691"
+hideSummary: true
 cover:
     image: "tea-for-the-tillerman-15934691.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Tea For The Tillerman² by Yusuf Islam / Cat Stevens"
+    caption: "Tea For The Tillerman² by Yusuf Islam / Cat Stevens"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Tea For The Tillerman](https://www.youtube.com/watch?v=ZC3tOgCd_ps)
 - [Yusuf / Cat Stevens - Father And Son](https://www.youtube.com/watch?v=B_H5XuIb5WM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Yusuf Islam / Cat Stevens - Tea For The Tillerman²](https://www.discogs.com/release/15934691) |
+| Release Year   | 2020 |
+| Discogs Link   | [Yusuf Islam / Cat Stevens - Tea For The Tillerman²](https://www.discogs.com/release/15934691-Yusuf-Cat-Stevens-Tea-For-The-Tillerman%C2%B2) |
 | Label          | Island Records, Cat-O-Log Records, UMC |
 | Format         | LP, Album |
 | Catalog Number | 0888695 |
+
+Re-recording of the 1970 album. with 4 sides insert with lyrics and credits  Tracks A1, B1, and B3 to B6 published by Cat Music, administered by BMG. Tracks A2 to A5, B2 published by Firecat Music, administered by BMG.  Recorded in JI Studios, Dubai, Studio La Fabrique, Saint-Remy de Provence, RMV Studio, Stockholm.  ℗ & © 2020 Cat-O-Log Records under exclusive license to UMC, A Universal Music Company. Made in Germany.
 

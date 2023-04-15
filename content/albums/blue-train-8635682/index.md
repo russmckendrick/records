@@ -1,14 +1,17 @@
 ---
 title: "John Coltrane - Blue Train "
-album_artist: "John Coltrane"
-album_title: "Blue Train "
+artist: "John Coltrane"
+album_name: "Blue Train "
 date: 2017-05-12
 release_id: "8635682"
 slug: "blue-train-8635682"
+hideSummary: true
 cover:
     image: "blue-train-8635682.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Blue Train  by John Coltrane"
+    caption: "Blue Train  by John Coltrane"
+genres: ["Jazz"]
+styles: null
 ---
 
 ## Tracklisting
@@ -21,13 +24,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="XF9ebuo4tP8" title="Blue Train (Mono Version)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Coltrane - Blue Train ](https://www.discogs.com/release/8635682) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Coltrane - Blue Train ](https://www.discogs.com/release/8635682-John-Coltrane-Blue-Train-) |
 | Label          | DOL |
 | Format         | LP, Album, RE, Blu |
 | Catalog Number | DOL709MB |
+
+
 

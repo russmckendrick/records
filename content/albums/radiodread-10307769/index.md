@@ -1,14 +1,17 @@
 ---
 title: "Easy Star All-Stars - Radiodread"
-album_artist: "Easy Star All-Stars"
-album_title: "Radiodread"
+artist: "Easy Star All-Stars"
+album_name: "Radiodread"
 date: 2017-05-27
 release_id: "10307769"
 slug: "radiodread-10307769"
+hideSummary: true
 cover:
     image: "radiodread-10307769.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Radiodread by Easy Star All-Stars"
+    caption: "Radiodread by Easy Star All-Stars"
+genres: ["Reggae"]
+styles: ["Reggae", "Dub"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Easy Star Allstars - Lucky](https://www.youtube.com/watch?v=SLXKbGI8G5s)
 - [Easy Star All Stars - The Tourist (featuring Israel Vibration)](https://www.youtube.com/watch?v=LdnsfrDXhiE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Easy Star All-Stars - Radiodread](https://www.discogs.com/release/10307769) |
+| Release Year   | 2016 |
+| Discogs Link   | [Easy Star All-Stars - Radiodread](https://www.discogs.com/release/10307769-Easy-Star-All-Stars-Radiodread) |
 | Label          | Easy Star Records |
 | Format         | 2xLP, Album, RP, Tra |
 | Catalog Number | ES-1055V |
+
+"A complete reggae version of [Radiohead's](http://www.discogs.com/artist/Radiohead) [OK Computer](http://www.discogs.com/release/83182)."  No samples from "[r83182]" (or anywhere else) were used in the recording of this album.  Recorded at Capture Sound (Brooklyn, NY), Mellow Stone Studios (Queens, NY), Estudio El Rocha (Sao Paulo, Brazil), Ultraband Studios (NYC), Obstacle Course Studios (Brooklyn, NY), Studio JMage (NYC), Circle House Studios (Miami, FL) & Electric Lady Studios (NYC).  Mixed at Estudio El Rocha (Sao Paulo, Brazil) except Side 2B tracks 1 & 2 Obstacle Course Studios (Brooklyn, NY) and  Side 2B tracks 3 & 4 Ariwa Studios (London, England)  Mastered for vinyl at VP Record Mastering (Queens, NY).  All songs published by Wanner Chappell Ltd. Lyrics to "Fitter Happier" adapted with permission by Radiohead.  © 2006 Easy Star Records. Manufactured and distributed by Easy Star Records. Made in the U.S.A. 
 

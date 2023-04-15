@@ -1,14 +1,17 @@
 ---
 title: "Slowdive - Pygmalion"
-album_artist: "Slowdive"
-album_title: "Pygmalion"
+artist: "Slowdive"
+album_name: "Pygmalion"
 date: 2020-08-14
 release_id: "15765429"
 slug: "pygmalion-15765429"
+hideSummary: true
 cover:
     image: "pygmalion-15765429.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Pygmalion by Slowdive"
+    caption: "Pygmalion by Slowdive"
+genres: ["Electronic", "Rock"]
+styles: ["Post Rock", "Ethereal", "Ambient"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Blue Skied An' Clear](https://www.youtube.com/watch?v=mrbFB_vTvHg)
 - [All Of Us](https://www.youtube.com/watch?v=kYeMBYsEWRo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Slowdive - Pygmalion](https://www.discogs.com/release/15765429) |
+| Release Year   | 2020 |
+| Discogs Link   | [Slowdive - Pygmalion](https://www.discogs.com/release/15765429-Slowdive-Pygmalion) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Num, RE, RP, Cle |
 | Catalog Number | MOVLP604 |
+
+25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.  Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.  Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU
 

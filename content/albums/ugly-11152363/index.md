@@ -1,14 +1,17 @@
 ---
 title: "Life Of Agony - Ugly"
-album_artist: "Life Of Agony"
-album_title: "Ugly"
+artist: "Life Of Agony"
+album_name: "Ugly"
 date: 2017-11-18
 release_id: "11152363"
 slug: "ugly-11152363"
+hideSummary: true
 cover:
     image: "ugly-11152363.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ugly by Life Of Agony"
+    caption: "Ugly by Life Of Agony"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Let's Pretend](https://www.youtube.com/watch?v=ddbThTyGJwQ)
 - [Lost at 22](https://www.youtube.com/watch?v=kjTXXVQltP0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Life Of Agony - Ugly](https://www.discogs.com/release/11152363) |
+| Release Year   | 2017 |
+| Discogs Link   | [Life Of Agony - Ugly](https://www.discogs.com/release/11152363-Life-Of-Agony-Ugly) |
 | Label          | Music On Vinyl, Roadrunner Records |
 | Format         | LP, Album, Ltd, Num, RE, Gol |
 | Catalog Number | MOVLP2003 |
+
+Limited edition of 1,500 individually numbered copies. Includes insert.  Made in the EU.
 

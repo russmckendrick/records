@@ -1,14 +1,17 @@
 ---
 title: "Rhiannon Giddens - Tomorrow Is My Turn"
-album_artist: "Rhiannon Giddens"
-album_title: "Tomorrow Is My Turn"
+artist: "Rhiannon Giddens"
+album_name: "Tomorrow Is My Turn"
 date: 2015-08-09
 release_id: "6703052"
 slug: "tomorrow-is-my-turn-6703052"
+hideSummary: true
 cover:
     image: "tomorrow-is-my-turn-6703052.jpg"
-tags: ["Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Tomorrow Is My Turn by Rhiannon Giddens"
+    caption: "Tomorrow Is My Turn by Rhiannon Giddens"
+genres: ["Blues", "Folk, World, & Country"]
+styles: ["Folk", "Delta Blues"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Rhiannon Giddens - Black Is the Color](https://www.youtube.com/watch?v=eMHpLH0GXwg)
 - [Rhiannon Giddens - Shake Sugaree](https://www.youtube.com/watch?v=FqwRro2G-qA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rhiannon Giddens - Tomorrow Is My Turn](https://www.discogs.com/release/6703052) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rhiannon Giddens - Tomorrow Is My Turn](https://www.discogs.com/release/6703052-Rhiannon-Giddens-Tomorrow-Is-My-Turn) |
 | Label          | Nonesuch |
 | Format         | LP, Album, 140 + CD, Album |
 | Catalog Number | 541708-1 |
+
+Includes inlay sheet with lyrics, notes and credits
 

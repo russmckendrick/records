@@ -1,14 +1,17 @@
 ---
 title: "Bomb The Bass - Into The Dragon"
-album_artist: "Bomb The Bass"
-album_title: "Into The Dragon"
+artist: "Bomb The Bass"
+album_name: "Into The Dragon"
 date: 2018-10-01
 release_id: "12489219"
 slug: "into-the-dragon-12489219"
+hideSummary: true
 cover:
     image: "into-the-dragon-12489219.jpg"
-tags: ["Electronic", "Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "Into The Dragon by Bomb The Bass"
+    caption: "Into The Dragon by Bomb The Bass"
+genres: ["Electronic", "Hip Hop", "Funk / Soul"]
+styles: ["Hip-House", "Acid House", "Freestyle"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [BOMB THE BASS featuring AURRA - Hey You!](https://www.youtube.com/watch?v=alQBkH08BDU)
 - [BOMB THE BASS - Beat Dat [Freestyle Scratch Mix].](https://www.youtube.com/watch?v=vbMj6sfuIK8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219) |
+| Release Year   | 2018 |
+| Discogs Link   | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219-Bomb-The-Bass-Into-The-Dragon) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Blu |
 | Catalog Number | MOVLP2172 |
+
+30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU.
 

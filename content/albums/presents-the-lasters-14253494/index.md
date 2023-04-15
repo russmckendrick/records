@@ -1,14 +1,17 @@
 ---
 title: "Fred Deakin - Presents The Lasters"
-album_artist: "Fred Deakin"
-album_title: "Presents The Lasters"
+artist: "Fred Deakin"
+album_name: "Presents The Lasters"
 date: 2019-10-12
 release_id: "14253494"
 slug: "presents-the-lasters-14253494"
+hideSummary: true
 cover:
     image: "presents-the-lasters-14253494.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Presents The Lasters by Fred Deakin"
+    caption: "Presents The Lasters by Fred Deakin"
+genres: ["Electronic"]
+styles: ["Downtempo"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Bringing It Back To You](https://www.youtube.com/watch?v=4yhZzBTaA8A)
 - [Get The Message Through](https://www.youtube.com/watch?v=KWjwONTzryk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Fred Deakin - Presents The Lasters](https://www.discogs.com/release/14253494) |
+| Release Year   | 2019 |
+| Discogs Link   | [Fred Deakin - Presents The Lasters](https://www.discogs.com/release/14253494-Fred-Deakin-Presents-The-Lasters) |
 | Label          | Impotent Fury |
 | Format         | 2xLP, Ltd, Num, Del |
 | Catalog Number | IFLSTRS001 |
+
+Kickstarter edition. 500 copies only available to those who backed the project. One blue vinyl, one gold vinyl with a double gatefold sleeve, pop up artwork and tip on jacket with printed inner sleeves. Fred Deakin signed and numbered hype sticker.  Kickstarter description "The triple gatefold double vinyl album featuring metallic and florescent spot colour inks, a pop-up fold and augmented reality visuals. Both discs are pressed on heavyweight coloured vinyl. The sleeve artwork itself is a series of six "stained glass window" images constructed from laser cut perspex mounted onto light boxes which show scenes from the album's story"
 

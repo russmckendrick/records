@@ -1,14 +1,17 @@
 ---
 title: "Cypress Hill - Elephants On Acid"
-album_artist: "Cypress Hill"
-album_title: "Elephants On Acid"
+artist: "Cypress Hill"
+album_name: "Elephants On Acid"
 date: 2018-10-17
 release_id: "12610214"
 slug: "elephants-on-acid-12610214"
+hideSummary: true
 cover:
     image: "elephants-on-acid-12610214.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Elephants On Acid by Cypress Hill"
+    caption: "Elephants On Acid by Cypress Hill"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -76,13 +79,16 @@ hideSummary: true
 - [Cypress Hill - Blood On My Hands Again (Official Video)](https://www.youtube.com/watch?v=P1AaYTKGknk)
 - [Cypress Hill - Stairway to Heaven (Audio)](https://www.youtube.com/watch?v=HWOGZJvU564)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Cypress Hill - Elephants On Acid](https://www.discogs.com/release/12610214) |
+| Release Year   | 2018 |
+| Discogs Link   | [Cypress Hill - Elephants On Acid](https://www.discogs.com/release/12610214-Cypress-Hill-Elephants-On-Acid) |
 | Label          | BMG |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | 538415541 |
+
+Manufactured in Poland Made in the E.U  Printed innersleeves  Comes in gatefold This version also contains the CD version - comes with a paper sleeve
 

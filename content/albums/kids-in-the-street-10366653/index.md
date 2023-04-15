@@ -1,14 +1,17 @@
 ---
 title: "Justin Townes Earle - Kids In The Street"
-album_artist: "Justin Townes Earle"
-album_title: "Kids In The Street"
+artist: "Justin Townes Earle"
+album_name: "Kids In The Street"
 date: 2019-05-25
 release_id: "10366653"
 slug: "kids-in-the-street-10366653"
+hideSummary: true
 cover:
     image: "kids-in-the-street-10366653.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Kids In The Street by Justin Townes Earle"
+    caption: "Kids In The Street by Justin Townes Earle"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Justin Townes Earle - Trouble Is [Audio Only]](https://www.youtube.com/watch?v=SmJ2E3IP_JA)
 - [Justin Townes Earle - Champagne Corolla [Lyric Video]](https://www.youtube.com/watch?v=_V5vLfmNPMw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Justin Townes Earle - Kids In The Street](https://www.discogs.com/release/10366653) |
+| Release Year   | 2017 |
+| Discogs Link   | [Justin Townes Earle - Kids In The Street](https://www.discogs.com/release/10366653-Justin-Townes-Earle-Kids-In-The-Street) |
 | Label          | New West Records |
 | Format         | LP, Album, 150 |
 | Catalog Number | NW5189 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Grandaddy - The Sophtware Slump .​.​.​.​. On A Wooden Piano"
-album_artist: "Grandaddy"
-album_title: "The Sophtware Slump .​.​.​.​. On A Wooden Piano"
+artist: "Grandaddy"
+album_name: "The Sophtware Slump .​.​.​.​. On A Wooden Piano"
 date: 2021-02-20
 release_id: "17475412"
 slug: "the-sophtware-slump-on-a-wooden-piano-17475412"
+hideSummary: true
 cover:
     image: "the-sophtware-slump-on-a-wooden-piano-17475412.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Sophtware Slump .​.​.​.​. On A Wooden Piano by Grandaddy"
+    caption: "The Sophtware Slump .​.​.​.​. On A Wooden Piano by Grandaddy"
+genres: ["Rock"]
+styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Grandaddy - Hewlett's Daughter (Piano Version)](https://www.youtube.com/watch?v=FcYUpTV5sdw)
 - [Grandaddy - Chartsengrafs (Piano Version)](https://www.youtube.com/watch?v=CQ-fP3QPqYQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Grandaddy - The Sophtware Slump .​.​.​.​. On A Wooden Piano](https://www.discogs.com/release/17475412) |
+| Release Year   | 2021 |
+| Discogs Link   | [Grandaddy - The Sophtware Slump .​.​.​.​. On A Wooden Piano](https://www.discogs.com/release/17475412-Grandaddy-The-Sophtware-Slump--On-A-Wooden-Piano) |
 | Label          | Dangerbird Records |
 | Format         | LP, Album, Ltd, Clo |
 | Catalog Number | DGB217-1 |
+
+Limited Edition. Independent Record Stores Exclusive.  On back cover : grandaddymusic.com • dangerbirdrecords.com  
 

@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) And The Maypoles - Matt Berry And The Maypoles Live"
-album_artist: "Matt Berry (3) And The Maypoles"
-album_title: "Matt Berry And The Maypoles Live"
+artist: "Matt Berry (3) And The Maypoles"
+album_name: "Matt Berry And The Maypoles Live"
 date: 2015-12-25
 release_id: "7773931"
 slug: "matt-berry-and-the-maypoles-live-7773931"
+hideSummary: true
 cover:
     image: "matt-berry-and-the-maypoles-live-7773931.jpg"
-tags: ["Rock", "Funk / Soul", "Stage & Screen"]
-hideSummary: true
+    alt: "Matt Berry And The Maypoles Live by Matt Berry (3) And The Maypoles"
+    caption: "Matt Berry And The Maypoles Live by Matt Berry (3) And The Maypoles"
+genres: ["Rock", "Funk / Soul", "Stage & Screen"]
+styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="mugYr-k8YGA" title="Matt Berry & The Maypoles,  Snuff Box, 13/02/2015" >}}
 - [Matt Berry & The Maypoles - So Low Live - Tunbridge Wells 2014](https://www.youtube.com/watch?v=Lx1aiQ-4IxM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Matt Berry (3) And The Maypoles - Matt Berry And The Maypoles Live](https://www.discogs.com/release/7773931) |
+| Release Year   | 2015 |
+| Discogs Link   | [Matt Berry (3) And The Maypoles - Matt Berry And The Maypoles Live](https://www.discogs.com/release/7773931-Matt-Berry-3-And-The-Maypoles-Matt-Berry-And-The-Maypoles-Live) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Dee |
 | Catalog Number | AJX397X |
+
+Pressed on 180G, deep translucent blue vinyl. Also contained is a download card.
 

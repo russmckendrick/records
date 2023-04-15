@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Temple Of Low Men"
-album_artist: "Crowded House"
-album_title: "Temple Of Low Men"
+artist: "Crowded House"
+album_name: "Temple Of Low Men"
 date: 2016-11-08
 release_id: "9322448"
 slug: "temple-of-low-men-9322448"
+hideSummary: true
 cover:
     image: "temple-of-low-men-9322448.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Temple Of Low Men by Crowded House"
+    caption: "Temple Of Low Men by Crowded House"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 - [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/9322448) |
+| Release Year   | 2016 |
+| Discogs Link   | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/9322448-Crowded-House-Temple-Of-Low-Men) |
 | Label          | Capitol Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 4788024 |
+
+Includes a voucher for MP3 download of the tracks included in the [deluxe edition](https://www.discogs.com/Crowded-House-Temple-Of-Low-Men/release/9318485) of this reissue. Made in the Chech Republic
 

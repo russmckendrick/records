@@ -1,14 +1,17 @@
 ---
 title: "Regina Spektor - Begin To Hope"
-album_artist: "Regina Spektor"
-album_title: "Begin To Hope"
+artist: "Regina Spektor"
+album_name: "Begin To Hope"
 date: 2016-05-10
 release_id: "8394522"
 slug: "begin-to-hope-8394522"
+hideSummary: true
 cover:
     image: "begin-to-hope-8394522.jpg"
-tags: ["Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Begin To Hope by Regina Spektor"
+    caption: "Begin To Hope by Regina Spektor"
+genres: ["Pop", "Folk, World, & Country"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Regina Spektor - Samson [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
 - [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522) |
+| Release Year   | 2016 |
+| Discogs Link   | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522-Regina-Spektor-Begin-To-Hope) |
 | Label          | Sire |
 | Format         | 2xLP, Album, RSD, Ltd, 10t |
 | Catalog Number | 553891-1 |
+
+10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies.
 

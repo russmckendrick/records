@@ -1,14 +1,17 @@
 ---
 title: "Super Furry Animals - Rings Around The World"
-album_artist: "Super Furry Animals"
-album_title: "Rings Around The World"
+artist: "Super Furry Animals"
+album_name: "Rings Around The World"
 date: 2021-09-03
 release_id: "20075032"
 slug: "rings-around-the-world-20075032"
+hideSummary: true
 cover:
     image: "rings-around-the-world-20075032.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Rings Around The World by Super Furry Animals"
+    caption: "Rings Around The World by Super Furry Animals"
+genres: ["Electronic", "Rock"]
+styles: ["IDM", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Super Furry Animals - (Drawing) Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
 - [Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Super Furry Animals - Rings Around The World](https://www.discogs.com/release/20075032) |
+| Release Year   | 2021 |
+| Discogs Link   | [Super Furry Animals - Rings Around The World](https://www.discogs.com/release/20075032-Super-Furry-Animals-Rings-Around-The-World) |
 | Label          | BMG |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | BMGCAT510DLP |
+
+20th Anniversary Re-Issue  ℗+© 2021 BMG Rights Management (UK) Ltd. Made in the Czech Republic. 
 

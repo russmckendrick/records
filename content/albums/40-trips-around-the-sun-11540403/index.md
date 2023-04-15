@@ -1,14 +1,17 @@
 ---
 title: "Toto - 40 Trips Around The Sun"
-album_artist: "Toto"
-album_title: "40 Trips Around The Sun"
+artist: "Toto"
+album_name: "40 Trips Around The Sun"
 date: 2018-03-01
 release_id: "11540403"
 slug: "40-trips-around-the-sun-11540403"
+hideSummary: true
 cover:
     image: "40-trips-around-the-sun-11540403.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "40 Trips Around The Sun by Toto"
+    caption: "40 Trips Around The Sun by Toto"
+genres: ["Rock", "Pop"]
+styles: ["Arena Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Toto - Stop Loving You](https://www.youtube.com/watch?v=bYr3OJOXk60)
 - [Toto - Pamela](https://www.youtube.com/watch?v=QCq9751mOFo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Toto - 40 Trips Around The Sun](https://www.discogs.com/release/11540403) |
+| Release Year   | 2018 |
+| Discogs Link   | [Toto - 40 Trips Around The Sun](https://www.discogs.com/release/11540403-Toto-40-Trips-Around-The-Sun) |
 | Label          | Columbia, Legacy |
 | Format         | 2xLP, Comp, RM |
 | Catalog Number | 19075808661 |
+
+Made in the EU. This compilation ℗&© 2018 Sony Music Entertainment   ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records  Stickers, gatefold, celebrating their 40th anniversary. Three new songs: " Alone ", " Spanish Sea " and " Struck By Lightning ".
 

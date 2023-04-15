@@ -1,14 +1,17 @@
 ---
 title: "Voïvod - The Outer Limits"
-album_artist: "Voïvod"
-album_title: "The Outer Limits"
+artist: "Voïvod"
+album_name: "The Outer Limits"
 date: 2021-07-16
 release_id: "19332691"
 slug: "the-outer-limits-19332691"
+hideSummary: true
 cover:
     image: "the-outer-limits-19332691.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Outer Limits by Voïvod"
+    caption: "The Outer Limits by Voïvod"
+genres: ["Rock"]
+styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Voivod - Time Warp](https://www.youtube.com/watch?v=N6My8xxx5xA)
 - [Le Pont Noir](https://www.youtube.com/watch?v=tbxwPnPA5yM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Voïvod - The Outer Limits](https://www.discogs.com/release/19332691) |
+| Release Year   | 2021 |
+| Discogs Link   | [Voïvod - The Outer Limits](https://www.discogs.com/release/19332691-Voivod-The-Outer-Limits) |
 | Label          | Real Gone Music |
 | Format         | LP, Album, Ltd, RE, RP, Red |
 | Catalog Number | RGM-1320 |
+
+Limited edition "Rocket Fire Red" with black smoke vinyl pressing.  CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286
 

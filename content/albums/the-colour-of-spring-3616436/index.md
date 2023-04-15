@@ -1,14 +1,17 @@
 ---
 title: "Talk Talk - The Colour Of Spring"
-album_artist: "Talk Talk"
-album_title: "The Colour Of Spring"
+artist: "Talk Talk"
+album_name: "The Colour Of Spring"
 date: 2016-10-11
 release_id: "3616436"
 slug: "the-colour-of-spring-3616436"
+hideSummary: true
 cover:
     image: "the-colour-of-spring-3616436.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Colour Of Spring by Talk Talk"
+    caption: "The Colour Of Spring by Talk Talk"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Chameleon Day (1997 Remaster)](https://www.youtube.com/watch?v=RQGAw43t20k)
 - [Time It's Time (1997 Remaster)](https://www.youtube.com/watch?v=vwM77SSxLp8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Talk Talk - The Colour Of Spring](https://www.discogs.com/release/3616436) |
+| Release Year   | 2012 |
+| Discogs Link   | [Talk Talk - The Colour Of Spring](https://www.discogs.com/release/3616436-Talk-Talk-The-Colour-Of-Spring) |
 | Label          | EMI |
 | Format         | LP, Album, RE, 180 + DVD-V, Album, RE, NTSC |
 | Catalog Number | EMCX 3506 |
+
+This reissue set includes: - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".  Made in the E.U.  A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels.
 

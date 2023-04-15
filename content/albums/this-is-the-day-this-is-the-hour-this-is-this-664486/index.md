@@ -1,14 +1,17 @@
 ---
 title: "Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!"
-album_artist: "Pop Will Eat Itself"
-album_title: "This Is The Day...This Is The Hour...This Is This!"
+artist: "Pop Will Eat Itself"
+album_name: "This Is The Day...This Is The Hour...This Is This!"
 date: 2016-01-11
 release_id: "664486"
 slug: "this-is-the-day-this-is-the-hour-this-is-this-664486"
+hideSummary: true
 cover:
     image: "this-is-the-day-this-is-the-hour-this-is-this-664486.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "This Is The Day...This Is The Hour...This Is This! by Pop Will Eat Itself"
+    caption: "This Is The Day...This Is The Hour...This Is This! by Pop Will Eat Itself"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Breakbeat", "Industrial"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Sixteen Different Flavours of Hell](https://www.youtube.com/watch?v=QkVB2mNJlTI)
 - [Pop Will Eat Itself (PWEI) - Def. Con. One - Live - Factory Theatre - 10 March 2018](https://www.youtube.com/watch?v=62_755iXN-0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!](https://www.discogs.com/release/664486) |
+| Release Year   | 1989 |
+| Discogs Link   | [Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!](https://www.discogs.com/release/664486-Pop-Will-Eat-Itself-This-Is-The-DayThis-Is-The-HourThis-Is-This) |
 | Label          | RCA, RCA |
 | Format         | LP, Album, Gat |
 | Catalog Number | PL 74141, PL74141 |
+
+On the release, [a578564] is credited as - The Buzzard from "Yeah God"  ℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd. Original Sound Recording Made By BMG Records (UK) Ltd.  Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europe durch BMG-Ariola 
 

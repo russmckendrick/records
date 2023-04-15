@@ -1,14 +1,17 @@
 ---
 title: "Lambchop - Nixon"
-album_artist: "Lambchop"
-album_title: "Nixon"
+artist: "Lambchop"
+album_name: "Nixon"
 date: 2017-12-28
 release_id: "5801395"
 slug: "nixon-5801395"
+hideSummary: true
 cover:
     image: "nixon-5801395.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nixon by Lambchop"
+    caption: "Nixon by Lambchop"
+genres: ["Rock"]
+styles: ["Folk Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [You Masculine You - Lambchop](https://www.youtube.com/watch?v=80eF7A7xlR8)
 - [Lambchop - Up with People (Zero 7 Remix)](https://www.youtube.com/watch?v=q3-fEWh7nZI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Lambchop - Nixon](https://www.discogs.com/release/5801395) |
+| Release Year   | 2014 |
+| Discogs Link   | [Lambchop - Nixon](https://www.discogs.com/release/5801395-Lambchop-Nixon) |
 | Label          | City Slang |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | SLANG50044LP |
+
+Comes with lyrics insert and download card for a one-off mp3 download of the album.  
 

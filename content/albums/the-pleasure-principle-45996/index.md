@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - The Pleasure Principle"
-album_artist: "Gary Numan"
-album_title: "The Pleasure Principle"
+artist: "Gary Numan"
+album_name: "The Pleasure Principle"
 date: 2016-01-13
 release_id: "45996"
 slug: "the-pleasure-principle-45996"
+hideSummary: true
 cover:
     image: "the-pleasure-principle-45996.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Pleasure Principle by Gary Numan"
+    caption: "The Pleasure Principle by Gary Numan"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop", "New Wave"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1979 |
-| Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/45996) |
+| Release Year   | 1979 |
+| Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/45996-Gary-Numan-The-Pleasure-Principle) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album |
 | Catalog Number | BEGA 10 |
+
+Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording. All songs © 1979  Distributed by WEA Records Ltd. A Warner Communications Company.  All titles:- Beggars Banquet / Andrew Heath Music Ltd.
 

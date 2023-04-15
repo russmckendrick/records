@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Spine Of God"
-album_artist: "Monster Magnet"
-album_title: "Spine Of God"
+artist: "Monster Magnet"
+album_name: "Spine Of God"
 date: 2017-09-06
 release_id: "10775588"
 slug: "spine-of-god-10775588"
+hideSummary: true
 cover:
     image: "spine-of-god-10775588.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Spine Of God by Monster Magnet"
+    caption: "Spine Of God by Monster Magnet"
+genres: ["Rock"]
+styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=Ltim-KfbZjk)
 - [Monster Magnet - Nod Scene](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Monster Magnet - Spine Of God](https://www.discogs.com/release/10775588) |
+| Release Year   | 2017 |
+| Discogs Link   | [Monster Magnet - Spine Of God](https://www.discogs.com/release/10775588-Monster-Magnet-Spine-Of-God) |
 | Label          | Napalm Records |
 | Format         | LP, Album, Ltd, RE, Gat |
 | Catalog Number | NPR 744 VINYL |
+
+Released on 180g vinyl in gatefold jacket. Made in Germany  © + ℗ 2017 Napalm Records Handels GmbH Strictly Limited Edition  There are also releases on [gold vinyl](https://www.discogs.com/release/10782664) and [yellow vinyl](https://www.discogs.com/release/10784591). 
 

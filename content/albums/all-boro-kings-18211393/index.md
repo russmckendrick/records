@@ -1,14 +1,17 @@
 ---
 title: "Dog Eat Dog - All Boro Kings"
-album_artist: "Dog Eat Dog"
-album_title: "All Boro Kings"
+artist: "Dog Eat Dog"
+album_name: "All Boro Kings"
 date: 2021-06-29
 release_id: "18211393"
 slug: "all-boro-kings-18211393"
+hideSummary: true
 cover:
     image: "all-boro-kings-18211393.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "All Boro Kings by Dog Eat Dog"
+    caption: "All Boro Kings by Dog Eat Dog"
+genres: ["Rock"]
+styles: ["Funk Metal", "Hardcore"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=HtQ2UnMdL6g)
 - [Dog Eat Dog - Who's The King?](https://www.youtube.com/watch?v=KA7gt2iTWBQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393) |
+| Release Year   | 2021 |
+| Discogs Link   | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393-Dog-Eat-Dog-All-Boro-Kings) |
 | Label          | Roadrunner Records, Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Gol |
 | Catalog Number | MOVLP2821 |
+
+Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover.
 

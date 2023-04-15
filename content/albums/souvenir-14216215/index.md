@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Souvenir"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "Souvenir"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "Souvenir"
 date: 2020-01-12
 release_id: "14216215"
 slug: "souvenir-14216215"
+hideSummary: true
 cover:
     image: "souvenir-14216215.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Souvenir by Orchestral Manoeuvres In The Dark"
+    caption: "Souvenir by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="RVftFadDCic" title="Souvenir (Remastered 2019)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - Souvenir](https://www.discogs.com/release/14216215) |
+| Release Year   | 2019 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - Souvenir](https://www.discogs.com/release/14216215-Orchestral-Manoeuvres-In-The-Dark-Souvenir) |
 | Label          | Virgin EMI Records, UMC, Virgin EMI Records, UMC |
 | Format         | 3xLP, Comp, 180 |
 | Catalog Number | 7743914, 00602577439148 |
+
+Tri-fold sleeve.  Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.  "A Virgin EMI Records Release" A Universal Music Company  Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.  Made in the EU.
 

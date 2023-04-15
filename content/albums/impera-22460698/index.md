@@ -1,14 +1,17 @@
 ---
 title: "Ghost (32) - Impera"
-album_artist: "Ghost (32)"
-album_title: "Impera"
+artist: "Ghost (32)"
+album_name: "Impera"
 date: 2022-03-15
 release_id: "22460698"
 slug: "impera-22460698"
+hideSummary: true
 cover:
     image: "impera-22460698.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Impera by Ghost (32)"
+    caption: "Impera by Ghost (32)"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Ghost - Bite Of Passage (Official Audio)](https://www.youtube.com/watch?v=C2pLkzpevao)
 - [Ghost - Respite On The Spitalfields (Official Audio)](https://www.youtube.com/watch?v=JA21qOo2mWs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Ghost (32) - Impera](https://www.discogs.com/release/22460698) |
+| Release Year   | 2022 |
+| Discogs Link   | [Ghost (32) - Impera](https://www.discogs.com/release/22460698-Ghost-Impera) |
 | Label          | Loma Vista, Spinefarm Records |
 | Format         | LP, Album, Ltd, Mag |
 | Catalog Number | LVR02521, 888072420700 |
+
+Issued in Dark Magenta Vinyl and 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.   Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations  
 

@@ -1,14 +1,17 @@
 ---
 title: "Flight Of The Conchords - I Told You I Was Freaky"
-album_artist: "Flight Of The Conchords"
-album_title: "I Told You I Was Freaky"
+artist: "Flight Of The Conchords"
+album_name: "I Told You I Was Freaky"
 date: 2018-04-06
 release_id: "11823874"
 slug: "i-told-you-i-was-freaky-11823874"
+hideSummary: true
 cover:
     image: "i-told-you-i-was-freaky-11823874.jpg"
-tags: ["Electronic", "Hip Hop", "Funk / Soul", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "I Told You I Was Freaky by Flight Of The Conchords"
+    caption: "I Told You I Was Freaky by Flight Of The Conchords"
+genres: ["Electronic", "Hip Hop", "Funk / Soul", "Pop", "Folk, World, & Country"]
+styles: ["Comedy"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Sugalumps](https://www.youtube.com/watch?v=4QnCfVkL-K4)
 - [Angels](https://www.youtube.com/watch?v=Pt_ujVh6o-0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Flight Of The Conchords - I Told You I Was Freaky](https://www.discogs.com/release/11823874) |
+| Release Year   | 2018 |
+| Discogs Link   | [Flight Of The Conchords - I Told You I Was Freaky](https://www.discogs.com/release/11823874-Flight-Of-The-Conchords-I-Told-You-I-Was-Freaky) |
 | Label          | Sub Pop |
 | Format         | LP, Album, Ltd, RE, Gre |
 | Catalog Number | SP 800 |
+
+
 

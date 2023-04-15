@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Dizrythmia"
-album_artist: "Split Enz"
-album_title: "Dizrythmia"
+artist: "Split Enz"
+album_name: "Dizrythmia"
 date: 2016-02-02
 release_id: "2995959"
 slug: "dizrythmia-2995959"
+hideSummary: true
 cover:
     image: "dizrythmia-2995959.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dizrythmia by Split Enz"
+    caption: "Dizrythmia by Split Enz"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Split Enz - Jamboree](https://www.youtube.com/watch?v=iR1Xjbalmj4)
 - [Crosswords (2020 Remaster)](https://www.youtube.com/watch?v=MIn6XPXuzks)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1977 |
-| Discogs Link   | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959) |
+| Release Year   | 1977 |
+| Discogs Link   | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959-Split-Enz-Dizrythmia) |
 | Label          | Chrysalis |
 | Format         | LP, Album |
 | Catalog Number | CHR 1145 |
+
+Released with an insert with lyrics.  Backcover caption: Chrysalis Records Limited 388/396 Oxford Street, London, W1. 
 

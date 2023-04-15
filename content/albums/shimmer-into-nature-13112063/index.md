@@ -1,14 +1,17 @@
 ---
 title: "Ed Wynne - Shimmer Into Nature"
-album_artist: "Ed Wynne"
-album_title: "Shimmer Into Nature"
+artist: "Ed Wynne"
+album_name: "Shimmer Into Nature"
 date: 2019-03-04
 release_id: "13112063"
 slug: "shimmer-into-nature-13112063"
+hideSummary: true
 cover:
     image: "shimmer-into-nature-13112063.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Shimmer Into Nature by Ed Wynne"
+    caption: "Shimmer Into Nature by Ed Wynne"
+genres: ["Electronic", "Rock"]
+styles: ["Space Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Shim](https://www.youtube.com/watch?v=2nfs4BFva6k)
 - [Wherble](https://www.youtube.com/watch?v=We4U6kxxP2E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Ed Wynne - Shimmer Into Nature](https://www.discogs.com/release/13112063) |
+| Release Year   | 2019 |
+| Discogs Link   | [Ed Wynne - Shimmer Into Nature](https://www.discogs.com/release/13112063-Ed-Wynne-Shimmer-Into-Nature) |
 | Label          | Kscope |
 | Format         | LP, Album |
 | Catalog Number | KSCOPE1004 |
+
+180gm Heavy Weight Vinyl  Gatefold sleeve
 

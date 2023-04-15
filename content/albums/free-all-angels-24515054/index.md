@@ -1,14 +1,17 @@
 ---
 title: "Ash - Free All Angels"
-album_artist: "Ash"
-album_title: "Free All Angels"
+artist: "Ash"
+album_name: "Free All Angels"
 date: 2022-09-16
 release_id: "24515054"
 slug: "free-all-angels-24515054"
+hideSummary: true
 cover:
     image: "free-all-angels-24515054.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Free All Angels by Ash"
+    caption: "Free All Angels by Ash"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. There's A Star (4:19)
 13. World Domination (2:17)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Ash - Free All Angels](https://www.discogs.com/release/24515054) |
+| Release Year   | 2022 |
+| Discogs Link   | [Ash - Free All Angels](https://www.discogs.com/release/24515054-Ash-Free-All-Angels) |
 | Label          | BMG |
 | Format         | LP, Album, RE, RM, Cle |
 | Catalog Number | BMGCAT710CLP |
+
+Housed in a replica gatefold sleeve of original [r=1126204] edition. Tracks are numbered sequentially on sleeve. Sticker reports  Pressed On Clear & Yellow Splatter Vinyl (Gatefold) *Each Copy Unique And Individual* 
 

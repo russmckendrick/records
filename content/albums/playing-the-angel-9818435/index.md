@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Playing The Angel"
-album_artist: "Depeche Mode"
-album_title: "Playing The Angel"
+artist: "Depeche Mode"
+album_name: "Playing The Angel"
 date: 2017-02-11
 release_id: "9818435"
 slug: "playing-the-angel-9818435"
+hideSummary: true
 cover:
     image: "playing-the-angel-9818435.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Playing The Angel by Depeche Mode"
+    caption: "Playing The Angel by Depeche Mode"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Lilian](https://www.youtube.com/watch?v=QYLQwkZ6b4Y)
 - [The Darkest Star](https://www.youtube.com/watch?v=Wq1m6Xlxsa8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Depeche Mode - Playing The Angel](https://www.discogs.com/release/9818435) |
+| Release Year   | 2017 |
+| Discogs Link   | [Depeche Mode - Playing The Angel](https://www.discogs.com/release/9818435-Depeche-Mode-Playing-The-Angel) |
 | Label          | Sony Music, Mute |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 88985336991 |
+
+℗ 2005 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2005, 2016 Venusnote Ltd. under exclusive  license to Sony Music Entertainment International  Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made  in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336991.  Released in a gatefold sleeve including 2 printed coloured inner sleeves showing photos, graphics, lyrics and credits.  The runout strings are etched.
 

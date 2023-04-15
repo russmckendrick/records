@@ -1,14 +1,17 @@
 ---
 title: "Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)"
-album_artist: "Paul Haslinger"
-album_title: "Halt And Catch Fire (Original Television Series Soundtrack)"
+artist: "Paul Haslinger"
+album_name: "Halt And Catch Fire (Original Television Series Soundtrack)"
 date: 2017-07-01
 release_id: "10438416"
 slug: "halt-and-catch-fire-original-television-series-soundtrack-10438416"
+hideSummary: true
 cover:
     image: "halt-and-catch-fire-original-television-series-soundtrack-10438416.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger"
+    caption: "Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Ambient", "Berlin-School", "Score"]
 ---
 
 ## Tracklisting
@@ -36,16 +39,17 @@ hideSummary: true
 22. It's Not Right (1:23)
 23. MacMillan Utility (1:51)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)](https://www.discogs.com/release/10438416) |
+| Release Year   | 2017 |
+| Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)](https://www.discogs.com/release/10438416-Paul-Haslinger-Halt-And-Catch-Fire-Original-Television-Series-Soundtrack) |
 | Label          | Fire Records, Lakeshore Records LLC., Fire Records, Lakeshore Records LLC. |
 | Format         | LP, Album, Dlx, Ltd, Whi |
 | Catalog Number | FROST001LP, FROST001LPX |
+
+Deluxe, limited “Mutiny” edition pressed on white vinyl, with a die-cut outer slipcover, gatefold main sleeve, and printed “floppy disk” inner sleeve. Printed, jewelcase-sized credit sheet also included.  Catalogue number appears as FROST001LP on main sleeve spine. Catalogue number appears as FROST001LPX on outer slipcover spine.  Text from sleeve:  © 2016 Lakeshore Records LLC ℗ 2016 Lakeshore Records, Fire Records. © 2017 Lakeshore Records, Fire Records. Under license from Lakeshore Records. A Fire Soundtracks release.
 

@@ -1,14 +1,17 @@
 ---
 title: "Kendrick Lamar - Untitled Unmastered."
-album_artist: "Kendrick Lamar"
-album_title: "Untitled Unmastered."
+artist: "Kendrick Lamar"
+album_name: "Untitled Unmastered."
 date: 2017-01-23
 release_id: "8566870"
 slug: "untitled-unmastered-8566870"
+hideSummary: true
 cover:
     image: "untitled-unmastered-8566870.jpg"
-tags: ["Hip Hop", "Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "Untitled Unmastered. by Kendrick Lamar"
+    caption: "Untitled Unmastered. by Kendrick Lamar"
+genres: ["Hip Hop", "Jazz", "Funk / Soul"]
+styles: ["Funk", "Conscious"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [untitled 07 | levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
 - [untitled 08 | 09.06.2014.](https://www.youtube.com/watch?v=JXikcHwPolM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Kendrick Lamar - Untitled Unmastered.](https://www.discogs.com/release/8566870) |
+| Release Year   | 2016 |
+| Discogs Link   | [Kendrick Lamar - Untitled Unmastered.](https://www.discogs.com/release/8566870-Kendrick-Lamar-Untitled-Unmastered) |
 | Label          | Top Dawg Entertainment, Aftermath Entertainment, Interscope Records |
 | Format         | LP, Album |
 | Catalog Number | 00602547866813 |
+
+[Back cover & labels] ℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc. Made in the EU.
 

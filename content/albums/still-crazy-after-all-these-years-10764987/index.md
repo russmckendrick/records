@@ -1,14 +1,17 @@
 ---
 title: "Paul Simon - Still Crazy After All These Years"
-album_artist: "Paul Simon"
-album_title: "Still Crazy After All These Years"
+artist: "Paul Simon"
+album_name: "Still Crazy After All These Years"
 date: 2021-05-31
 release_id: "10764987"
 slug: "still-crazy-after-all-these-years-10764987"
+hideSummary: true
 cover:
     image: "still-crazy-after-all-these-years-10764987.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Still Crazy After All These Years by Paul Simon"
+    caption: "Still Crazy After All These Years by Paul Simon"
+genres: ["Rock"]
+styles: ["Folk Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [You're Kind](https://www.youtube.com/watch?v=_raIl_a5vjw)
 - [Silent Eyes](https://www.youtube.com/watch?v=-_FzOHh0e_k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Paul Simon - Still Crazy After All These Years](https://www.discogs.com/release/10764987) |
+| Release Year   | 2017 |
+| Discogs Link   | [Paul Simon - Still Crazy After All These Years](https://www.discogs.com/release/10764987-Paul-Simon-Still-Crazy-After-All-These-Years) |
 | Label          | Legacy, Columbia, Sony Music |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88985422371 |
+
+Includes insert with credits & download code  Made in the EU
 

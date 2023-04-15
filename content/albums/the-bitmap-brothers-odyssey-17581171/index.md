@@ -1,14 +1,17 @@
 ---
 title: "Various - The Bitmap Brothers: Odyssey"
-album_artist: "Various"
-album_title: "The Bitmap Brothers: Odyssey"
+artist: "Various"
+album_name: "The Bitmap Brothers: Odyssey"
 date: 2021-03-22
 release_id: "17581171"
 slug: "the-bitmap-brothers-odyssey-17581171"
+hideSummary: true
 cover:
     image: "the-bitmap-brothers-odyssey-17581171.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "The Bitmap Brothers: Odyssey by Various"
+    caption: "The Bitmap Brothers: Odyssey by Various"
+genres: ["Stage & Screen"]
+styles: ["Video Game Music"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. The Chaos Engine 2, Future World
 14. Z (Demo), Volcanic
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Various - The Bitmap Brothers: Odyssey](https://www.discogs.com/release/17581171) |
+| Release Year   | 2021 |
+| Discogs Link   | [Various - The Bitmap Brothers: Odyssey](https://www.discogs.com/release/17581171-Various-The-Bitmap-Brothers-Odyssey) |
 | Label          | Read-Only-Memory Ltd. |
 | Format         | LP, Comp, Tra |
 | Catalog Number | ROM17 |
+
+Tracks A3, A6, and A7 adapted for the Commodore Amiga by Richard Joseph  A1 sourced from the Atari ST A2-B6 sourced from the Commodore Amiga B7 sourced from the Roland MT-32  stamped runout groove: 219014E2/B
 

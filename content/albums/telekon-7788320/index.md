@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - Telekon"
-album_artist: "Gary Numan"
-album_title: "Telekon"
+artist: "Gary Numan"
+album_name: "Telekon"
 date: 2016-12-15
 release_id: "7788320"
 slug: "telekon-7788320"
+hideSummary: true
 cover:
     image: "telekon-7788320.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Telekon by Gary Numan"
+    caption: "Telekon by Gary Numan"
+genres: ["Electronic"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Gary Numan - Telekon](https://www.discogs.com/release/7788320) |
+| Release Year   | 2015 |
+| Discogs Link   | [Gary Numan - Telekon](https://www.discogs.com/release/7788320-Gary-Numan-Telekon) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | BBQLP19 |
+
+'We Are Glass' and 'I Die:You Die' were issued as singles but not included on the original vinyl release of the album (they did appear on the original UK cassette release). 'A Game Called Echo' was recorded at Rock City as part of the early album sessions and first relesed in 1985 on a retrospective 12''. 'Down In The Park (Piano Version)' was the B side of 'I Die:You Die'. 'Photograph' (B side of 'This Wreckage' single) and 'Trois Gymnopédies' (B side of 'We Are Glass') were tracks from 'Freerange' demo sessions for 'The Pleasure Principle' album and recorded between 9-12 April 1979.
 

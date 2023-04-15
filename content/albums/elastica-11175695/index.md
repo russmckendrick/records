@@ -1,14 +1,17 @@
 ---
 title: "Elastica (2) - Elastica"
-album_artist: "Elastica (2)"
-album_title: "Elastica"
+artist: "Elastica (2)"
+album_name: "Elastica"
 date: 2017-11-22
 release_id: "11175695"
 slug: "elastica-11175695"
+hideSummary: true
 cover:
     image: "elastica-11175695.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Elastica by Elastica (2)"
+    caption: "Elastica by Elastica (2)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Stutter // Elastica](https://www.youtube.com/watch?v=Lex-7TJN5Qk)
 - [Car Song // Elastica](https://www.youtube.com/watch?v=9tX7QnheAPA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Elastica (2) - Elastica](https://www.discogs.com/release/11175695) |
+| Release Year   | 2017 |
+| Discogs Link   | [Elastica (2) - Elastica](https://www.discogs.com/release/11175695-Elastica-Elastica) |
 | Label          | Rough Trade |
 | Format         | LP, Album, RE + Flexi, 7\", S/Sided + Ltd |
 | Catalog Number | RTRADLP914 |
+
+Release comes with flexi-disc, and replica of Elasticatalogue.  "In The City" credits: Published by EMI Music Publishing Recorded 16 March 1994 for the BBC Radio One Steve Lamacq Evening Session released with arrangement with BBC Music. P 1994 BBC Music C 2017 Rough Trade Records
 

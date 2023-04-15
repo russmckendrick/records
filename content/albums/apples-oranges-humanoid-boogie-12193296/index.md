@@ -1,14 +1,17 @@
 ---
 title: "Andy Partridge - Apples & Oranges / Humanoid Boogie"
-album_artist: "Andy Partridge"
-album_title: "Apples & Oranges / Humanoid Boogie"
+artist: "Andy Partridge"
+album_name: "Apples & Oranges / Humanoid Boogie"
 date: 2018-06-28
 release_id: "12193296"
 slug: "apples-oranges-humanoid-boogie-12193296"
+hideSummary: true
 cover:
     image: "apples-oranges-humanoid-boogie-12193296.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Apples & Oranges / Humanoid Boogie by Andy Partridge"
+    caption: "Apples & Oranges / Humanoid Boogie by Andy Partridge"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -22,13 +25,16 @@ hideSummary: true
 - [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
 - [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Andy Partridge - Apples & Oranges / Humanoid Boogie](https://www.discogs.com/release/12193296) |
+| Release Year   | 2018 |
+| Discogs Link   | [Andy Partridge - Apples & Oranges / Humanoid Boogie](https://www.discogs.com/release/12193296-Andy-Partridge-Apples-Oranges-Humanoid-Boogie) |
 | Label          | Ape House |
 | Format         | 10\", EP, Mono |
 | Catalog Number | APEEP 901 |
+
+Released as a limited edition of 1,396 copies on 10" vinyl All initial limited edition copies come with a postcard signed by Andy Partridge Included download card for [r=13346086]
 

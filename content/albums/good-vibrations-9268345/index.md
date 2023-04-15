@@ -1,14 +1,17 @@
 ---
 title: "The Beach Boys - Good Vibrations"
-album_artist: "The Beach Boys"
-album_title: "Good Vibrations"
+artist: "The Beach Boys"
+album_name: "Good Vibrations"
 date: 2016-10-28
 release_id: "9268345"
 slug: "good-vibrations-9268345"
+hideSummary: true
 cover:
     image: "good-vibrations-9268345.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Good Vibrations by The Beach Boys"
+    caption: "Good Vibrations by The Beach Boys"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -22,13 +25,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Eab_beh07HU" title="The Beach Boys - Good Vibrations" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Beach Boys - Good Vibrations](https://www.discogs.com/release/9268345) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Beach Boys - Good Vibrations](https://www.discogs.com/release/9268345-The-Beach-Boys-Good-Vibrations) |
 | Label          | Capitol Records |
 | Format         | 12\", EP, Red |
 | Catalog Number | 00602557041781 |
+
+Universal International Music B.V.  Netherlands incl. Insert Sheet + MP3 Download Voucher  
 

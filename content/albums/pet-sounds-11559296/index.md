@@ -1,14 +1,17 @@
 ---
 title: "The Beach Boys - Pet Sounds"
-album_artist: "The Beach Boys"
-album_title: "Pet Sounds"
+artist: "The Beach Boys"
+album_name: "Pet Sounds"
 date: 2019-08-05
 release_id: "11559296"
 slug: "pet-sounds-11559296"
+hideSummary: true
 cover:
     image: "pet-sounds-11559296.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Pet Sounds by The Beach Boys"
+    caption: "Pet Sounds by The Beach Boys"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [T̲h̲e̲ B̲each B̲oys - P̲et̲ S̲ounds [Full Album] (1966)](https://www.youtube.com/watch?v=f9keMETFIbk)
 - [Pet Sounds (Stereo / Remastered)](https://www.youtube.com/watch?v=EeN_NytxKEc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/11559296) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/11559296-The-Beach-Boys-Pet-Sounds) |
 | Label          | Capitol Records, UMe, Capitol Records |
 | Format         | LP, Album, Ltd, RE, Yel |
 | Catalog Number | B0024729-01, ST 2458 |
+
+Limited repress of 2000 on 130g vinyl by The Sound of Vinyl.  Rear cover, bottom:  This stereo record should be played only with a stereo cartridge and needle to avoid damage.  Stereo mix produced and mixed by Mark Linett under the supervision of Brian Wilson. ℗ © 2016 Capitol records, LLC, 1750 N. Vine Street, Hollywood, CA 90028 - U.S.A.  Distributed by Universal Music Disctribution.  All rights reserved.   B0024729-01  UNIVERSALMUSICENTERPRISES.COM  THEBEACHBOYS.COM  Black Capitol Records label with rainbow ring.
 

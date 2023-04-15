@@ -1,14 +1,17 @@
 ---
 title: "Johnny Cash - The Legend Of Johnny Cash"
-album_artist: "Johnny Cash"
-album_title: "The Legend Of Johnny Cash"
+artist: "Johnny Cash"
+album_name: "The Legend Of Johnny Cash"
 date: 2015-08-09
 release_id: "6185046"
 slug: "the-legend-of-johnny-cash-6185046"
+hideSummary: true
 cover:
     image: "the-legend-of-johnny-cash-6185046.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Legend Of Johnny Cash by Johnny Cash"
+    caption: "The Legend Of Johnny Cash by Johnny Cash"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Acoustic", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -34,16 +37,17 @@ hideSummary: true
 20. One
 21. Hurt
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Johnny Cash - The Legend Of Johnny Cash](https://www.discogs.com/release/6185046) |
+| Release Year   | 2014 |
+| Discogs Link   | [Johnny Cash - The Legend Of Johnny Cash](https://www.discogs.com/release/6185046-Johnny-Cash-The-Legend-Of-Johnny-Cash) |
 | Label          | Island Records, American Recordings, Columbia, Legacy |
 | Format         | 2xLP, Comp, 180 |
 | Catalog Number | 00602537952168 |
+
+Includes voucher to download an MP3 version of the album. Gatefold cover.  ℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment. Made in the EU 
 

@@ -1,14 +1,17 @@
 ---
 title: "World Party - Private Revolution"
-album_artist: "World Party"
-album_title: "Private Revolution"
+artist: "World Party"
+album_name: "Private Revolution"
 date: 2019-11-08
 release_id: "12102024"
 slug: "private-revolution-12102024"
+hideSummary: true
 cover:
     image: "private-revolution-12102024.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Private Revolution by World Party"
+    caption: "Private Revolution by World Party"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/12102024) |
+| Release Year   | 1986 |
+| Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/12102024-World-Party-Private-Revolution) |
 | Label          | Chrysalis |
 | Format         | LP, Album, Car |
 | Catalog Number | BFV 41552 |
+
+[l442751] pressing denoted by "G1" etch in runouts. Issued with lyric inner sleeve.  -- Conflicting Publishing Information -- Labels state: Published by the Welk Music Group Ltd. (PRS). All rights in the U.S. managed by Bibo Music Publishers (ASCAP) c/o The Welk Music Group except A5 same as above and Island Music Inc. (BMI), and except B3 published by Warner Bros. Inc (ASCAP).  Cover states: All songs published by Welk Music except A5 (Wickham / Wallinger) Blue Mountain Music / Welk Music and B3 (Bob Dylan) Warner Brothers Music.  ℗ & © Ensign Records Ltd. 1986.  Made in U.S.A.
 

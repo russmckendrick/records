@@ -1,14 +1,17 @@
 ---
 title: "Doves - The Universal Want"
-album_artist: "Doves"
-album_title: "The Universal Want"
+artist: "Doves"
+album_name: "The Universal Want"
 date: 2020-09-15
 release_id: "15898397"
 slug: "the-universal-want-15898397"
+hideSummary: true
 cover:
     image: "the-universal-want-15898397.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Universal Want by Doves"
+    caption: "The Universal Want by Doves"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Doves - Cathedrals Of The Mind](https://www.youtube.com/watch?v=MBWsg9MtQuM)
 - [Doves - Broken Eyes](https://www.youtube.com/watch?v=pISDosb4Aes)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Doves - The Universal Want](https://www.discogs.com/release/15898397) |
+| Release Year   | 2020 |
+| Discogs Link   | [Doves - The Universal Want](https://www.discogs.com/release/15898397-Doves-The-Universal-Want) |
 | Label          | Virgin, Heavenly, Virgin, Heavenly |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | VY 3248, 00602507316419 |
+
+Includes download code. Some copies signed by the band in gold marker.  Made in the Czech Republic.
 

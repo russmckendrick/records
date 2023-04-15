@@ -1,14 +1,17 @@
 ---
 title: "Chvrches - Every Open Eye"
-album_artist: "Chvrches"
-album_title: "Every Open Eye"
+artist: "Chvrches"
+album_name: "Every Open Eye"
 date: 2017-01-05
 release_id: "7492694"
 slug: "every-open-eye-7492694"
+hideSummary: true
 cover:
     image: "every-open-eye-7492694.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Every Open Eye by Chvrches"
+    caption: "Every Open Eye by Chvrches"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [CHVRCHES - Leave A Trace (Lyric Video)](https://www.youtube.com/watch?v=nZRxFsMD4UM)
 - [Keep You on My Side (Reading 2016) CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Chvrches - Every Open Eye](https://www.discogs.com/release/7492694) |
+| Release Year   | 2015 |
+| Discogs Link   | [Chvrches - Every Open Eye](https://www.discogs.com/release/7492694-Chvrches-Every-Open-Eye) |
 | Label          | Virgin EMI Records, Goodbye Records (2) |
 | Format         | LP, Album, Whi |
 | Catalog Number | V 3139, 00602547476241 |
+
+Released in a gatefold sleeve with printed lyric inner sleeve. Contains coupon for download of digital album.  Pre-orders from Chvrches' webstore came with a signed postcard while stocks lasted.  Recorded at Alucard Studios, Glasgow, January - July 2015. Mastered at Gateway Mastering, Portland, Maine.  ℗ & © 2015 Chvrches, under exclusive licence to Virgin Records Ltd. Made in the EU.
 

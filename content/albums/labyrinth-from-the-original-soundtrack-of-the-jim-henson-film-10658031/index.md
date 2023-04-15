@@ -1,14 +1,17 @@
 ---
 title: "David Bowie, Trevor Jones - Labyrinth (From The Original Soundtrack Of The Jim Henson Film)"
-album_artist: "David Bowie, Trevor Jones"
-album_title: "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)"
+artist: "David Bowie, Trevor Jones"
+album_name: "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)"
 date: 2017-08-05
 release_id: "10658031"
 slug: "labyrinth-from-the-original-soundtrack-of-the-jim-henson-film-10658031"
+hideSummary: true
 cover:
     image: "labyrinth-from-the-original-soundtrack-of-the-jim-henson-film-10658031.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Labyrinth (From The Original Soundtrack Of The Jim Henson Film) by David Bowie, Trevor Jones"
+    caption: "Labyrinth (From The Original Soundtrack Of The Jim Henson Film) by David Bowie, Trevor Jones"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Home At Last (1:45)
 12. Underground (5:54)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [David Bowie, Trevor Jones - Labyrinth (From The Original Soundtrack Of The Jim Henson Film)](https://www.discogs.com/release/10658031) |
+| Release Year   | 2017 |
+| Discogs Link   | [David Bowie, Trevor Jones - Labyrinth (From The Original Soundtrack Of The Jim Henson Film)](https://www.discogs.com/release/10658031-David-Bowie-Trevor-Jones-Labyrinth-From-The-Original-Soundtrack-Of-The-Jim-Henson-Film) |
 | Label          | EMI America, Capitol Records, UMe |
 | Format         | LP, Album, Ltd, RE, RM, Gre |
 | Catalog Number | 00602557354843 |
+
+Limited to 1,500 copies worldwide in green. Nothing on exterior to denote this apart from barcode variant.  Made in Czech Republic.
 

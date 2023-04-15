@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - The Album Collection Vol. 1"
-album_artist: "Bruce Springsteen"
-album_title: "The Album Collection Vol. 1"
+artist: "Bruce Springsteen"
+album_name: "The Album Collection Vol. 1"
 date: 2016-01-19
 release_id: "6329457"
 slug: "the-album-collection-vol-1-6329457"
+hideSummary: true
 cover:
     image: "the-album-collection-vol-1-6329457.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Album Collection Vol. 1 by Bruce Springsteen"
+    caption: "The Album Collection Vol. 1 by Bruce Springsteen"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -102,13 +105,16 @@ hideSummary: true
 - [Bruce Springsteen - The Album Collection First Look VOL.1](https://www.youtube.com/watch?v=rY1YyXQ8CqU)
 - [Unboxing Bruce Springsteen The Album Collection Vol. 1](https://www.youtube.com/watch?v=6qp0QVjTnJU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Bruce Springsteen - The Album Collection Vol. 1](https://www.discogs.com/release/6329457) |
+| Release Year   | 2014 |
+| Discogs Link   | [Bruce Springsteen - The Album Collection Vol. 1](https://www.discogs.com/release/6329457-Bruce-Springsteen-The-Album-Collection-Vol-1) |
 | Label          | Columbia, Sony Music, Legacy |
 | Format         | LP, Album, RM + LP, Album, RM + LP, Album, RM + LP |
 | Catalog Number | 88875014151 |
+
+A box set comprising the first eleven years of Bruce Springsteen's career, all seven albums on eight discs (The River is a double album). All albums are remastered for vinyl for the first time ever, transferred from the original analogue masters using the Plangent Process playback system. Packed in a neat box with a leather-like finish. The box set also includes a 60-page book filled with rare photos, press clippings and other memorabilia. All albums are packed in replicas of original sleeves.  Greetings FromAsbury Park, N.J.: KC 31903 The Wild, The Innocent, And The E Street Shuffle: KC 32432 Born To Run: PC 33795 Darkness On The Edge Of Town: JC 35318 The River: PC2 36854 Nebraska: QC 38358 Born In The U.S.A.: QC 38653  Nebraska's tracklisting is wonky. The back cover of the album just lists all ten tracks. Labels (and the sheet on the box) say that A-side has six tracks and B-side has four. There are actually five tracks on both sides. I made the track listing based on the real amount of tracks on each side.
 

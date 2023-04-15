@@ -1,14 +1,17 @@
 ---
 title: "Yes - Going For The One"
-album_artist: "Yes"
-album_title: "Going For The One"
+artist: "Yes"
+album_name: "Going For The One"
 date: 2016-03-16
 release_id: "476246"
 slug: "going-for-the-one-476246"
+hideSummary: true
 cover:
     image: "going-for-the-one-476246.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Going For The One by Yes"
+    caption: "Going For The One by Yes"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -18,16 +21,17 @@ hideSummary: true
 4. Wonderous Stories (3:45)
 5. Awaken (15:38)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1977 |
-| Discogs Link   | [Yes - Going For The One](https://www.discogs.com/release/476246) |
+| Release Year   | 1977 |
+| Discogs Link   | [Yes - Going For The One](https://www.discogs.com/release/476246-Yes-Going-For-The-One) |
 | Label          | Atlantic |
 | Format         | LP, Album, Spe |
 | Catalog Number | SD 19106 |
+
+Similar to [this Specialty Records version](https://www.discogs.com/Yes-Going-For-The-One/release/7921043) by different lacquer cutting credits in runout.   Recorded at Mountain Studios, Montreux, Switzerland. Track B2 recorded at Eglise des Planches, Montreux, Switzerland. Church Organ recorded at St. Martin's Church, Vevey, Switzerland.   ℗ 1977 Atlantic Recording Company and Star/Right Co. All song published by Topographic Music ASCAP administered by WB Music Corp. Mfg. by Atlantic Recording Corp.  Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.  Runouts are etched, except for the SRC logo which is stamped.
 

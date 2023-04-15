@@ -1,14 +1,17 @@
 ---
 title: "Ben Folds Five - Ben Folds Five"
-album_artist: "Ben Folds Five"
-album_title: "Ben Folds Five"
+artist: "Ben Folds Five"
+album_name: "Ben Folds Five"
 date: 2020-02-25
 release_id: "14254468"
 slug: "ben-folds-five-14254468"
+hideSummary: true
 cover:
     image: "ben-folds-five-14254468.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ben Folds Five by Ben Folds Five"
+    caption: "Ben Folds Five by Ben Folds Five"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="zUOt5AhUqKE" title="Ben Folds Five FULL ALBUM" >}}
 - [Ben Folds Five - Underground](https://www.youtube.com/watch?v=jqADHn7SWlA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Ben Folds Five - Ben Folds Five](https://www.discogs.com/release/14254468) |
+| Release Year   | 2019 |
+| Discogs Link   | [Ben Folds Five - Ben Folds Five](https://www.discogs.com/release/14254468-Ben-Folds-Five-Ben-Folds-Five) |
 | Label          | Plain Recordings |
 | Format         | LP, Album, Ltd, RE, RM, Tur |
 | Catalog Number | plain169 |
+
+Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.  Recorded at Wave Castle, NC, 2/95.   
 

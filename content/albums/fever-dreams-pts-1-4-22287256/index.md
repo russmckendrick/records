@@ -1,14 +1,17 @@
 ---
 title: "Johnny Marr - Fever Dreams Pts 1-4"
-album_artist: "Johnny Marr"
-album_title: "Fever Dreams Pts 1-4"
+artist: "Johnny Marr"
+album_name: "Fever Dreams Pts 1-4"
 date: 2022-02-25
 release_id: "22287256"
 slug: "fever-dreams-pts-1-4-22287256"
+hideSummary: true
 cover:
     image: "fever-dreams-pts-1-4-22287256.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Fever Dreams Pts 1-4 by Johnny Marr"
+    caption: "Fever Dreams Pts 1-4 by Johnny Marr"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Johnny Marr – Complete C Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=cCG006B34UY)
 - [Johnny Marr – Complete D Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=z32vdSmuPSs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Johnny Marr - Fever Dreams Pts 1-4](https://www.discogs.com/release/22287256) |
+| Release Year   | 2022 |
+| Discogs Link   | [Johnny Marr - Fever Dreams Pts 1-4](https://www.discogs.com/release/22287256-Johnny-Marr-Fever-Dreams-Pts-1-4) |
 | Label          | BMG |
 | Format         | 2xLP, Album, Ltd, Tur |
 | Catalog Number | NVLP005T |
+
+Gatefold sleeve with inner sleeves with lyrics printed on them. Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"  Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.  Manufactured in Poland.  Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr.
 

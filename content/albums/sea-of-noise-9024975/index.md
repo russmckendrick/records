@@ -1,14 +1,17 @@
 ---
 title: "St. Paul & The Broken Bones - Sea Of Noise"
-album_artist: "St. Paul & The Broken Bones"
-album_title: "Sea Of Noise"
+artist: "St. Paul & The Broken Bones"
+album_name: "Sea Of Noise"
 date: 2016-10-06
 release_id: "9024975"
 slug: "sea-of-noise-9024975"
+hideSummary: true
 cover:
     image: "sea-of-noise-9024975.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Sea Of Noise by St. Paul & The Broken Bones"
+    caption: "Sea Of Noise by St. Paul & The Broken Bones"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [St  Paul & The Broken Bones - Sea of Noise - Trailer](https://www.youtube.com/watch?v=OkuXq-WOHJw)
 - [St. Paul & The Broken Bones - 'Sea of Noise' |Official Album Release Party|](https://www.youtube.com/watch?v=KgyogotaYys)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [St. Paul & The Broken Bones - Sea Of Noise](https://www.discogs.com/release/9024975) |
+| Release Year   | 2016 |
+| Discogs Link   | [St. Paul & The Broken Bones - Sea Of Noise](https://www.discogs.com/release/9024975-St-Paul-The-Broken-Bones-Sea-Of-Noise) |
 | Label          | RECORDS Label, LLC |
 | Format         | LP, Album |
 | Catalog Number | REC006 |
+
+Pre-order included option for signed copy
 

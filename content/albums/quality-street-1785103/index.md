@@ -1,14 +1,17 @@
 ---
 title: "World Of Twist - Quality Street"
-album_artist: "World Of Twist"
-album_title: "Quality Street"
+artist: "World Of Twist"
+album_name: "Quality Street"
 date: 2016-12-07
 release_id: "1785103"
 slug: "quality-street-1785103"
+hideSummary: true
 cover:
     image: "quality-street-1785103.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Quality Street by World Of Twist"
+    caption: "Quality Street by World Of Twist"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [World Of Twist - She's A Rainbow (The Rolling Stones Cover)](https://www.youtube.com/watch?v=VTjqaOblvHU)
 - [World of Twist - Loose My Way](https://www.youtube.com/watch?v=5uuowMS0j6w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [World Of Twist - Quality Street](https://www.discogs.com/release/1785103) |
+| Release Year   | 1991 |
+| Discogs Link   | [World Of Twist - Quality Street](https://www.discogs.com/release/1785103-World-Of-Twist-Quality-Street) |
 | Label          | Circa, Circa |
 | Format         | LP, Album, Gat |
 | Catalog Number | CIRCA 17, 212 242 |
+
+Thanks to Martin Hannett.
 

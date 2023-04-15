@@ -1,14 +1,17 @@
 ---
 title: "M83 - Hurry Up, We're Dreaming."
-album_artist: "M83"
-album_title: "Hurry Up, We're Dreaming."
+artist: "M83"
+album_name: "Hurry Up, We're Dreaming."
 date: 2022-04-24
 release_id: "22814186"
 slug: "hurry-up-we-re-dreaming-22814186"
+hideSummary: true
 cover:
     image: "hurry-up-we-re-dreaming-22814186.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Hurry Up, We're Dreaming. by M83"
+    caption: "Hurry Up, We're Dreaming. by M83"
+genres: ["Electronic", "Rock"]
+styles: ["Shoegaze", "Electro", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [M83 'Reunion' Official video](https://www.youtube.com/watch?v=DJQQrjVmQG0)
 - [M83 - My Tears Are Becoming A Sea (audio)](https://www.youtube.com/watch?v=uE8EhJ9gS28)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/22814186) |
+| Release Year   | 2022 |
+| Discogs Link   | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/22814186-M83-Hurry-Up-Were-Dreaming) |
 | Label          | Mute, Naïve |
 | Format         | 2xLP, Album, Ltd, RE, Ora |
 | Catalog Number | M7571 |
+
+10 year anniversary edition with alternate artwork.  724596951071 is the UPC of this release. The other is the generic UPC of the black pressing of the release.
 

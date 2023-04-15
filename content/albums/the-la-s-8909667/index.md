@@ -1,14 +1,17 @@
 ---
 title: "The La's - The La's"
-album_artist: "The La's"
-album_title: "The La's"
+artist: "The La's"
+album_name: "The La's"
 date: 2016-10-11
 release_id: "8909667"
 slug: "the-la-s-8909667"
+hideSummary: true
 cover:
     image: "the-la-s-8909667.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The La's by The La's"
+    caption: "The La's by The La's"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [The La's - Failure (audio only)](https://www.youtube.com/watch?v=ygTcGzk7u08)
 - [The La's - Looking Glass (audio only)](https://www.youtube.com/watch?v=wjo9CwDKRls)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The La's - The La's](https://www.discogs.com/release/8909667) |
+| Release Year   | 2016 |
+| Discogs Link   | [The La's - The La's](https://www.discogs.com/release/8909667-The-Las-The-Las) |
 | Label          | Go! Discs |
 | Format         | LP, Album, RE, RM, Blu |
 | Catalog Number | 478 974-6 |
+
+Contains Download Voucher
 

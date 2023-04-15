@@ -1,14 +1,17 @@
 ---
 title: "Johnny Cash - At Folsom Prison"
-album_artist: "Johnny Cash"
-album_title: "At Folsom Prison"
+artist: "Johnny Cash"
+album_name: "At Folsom Prison"
 date: 2016-11-30
 release_id: "7467817"
 slug: "at-folsom-prison-7467817"
+hideSummary: true
 cover:
     image: "at-folsom-prison-7467817.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "At Folsom Prison by Johnny Cash"
+    caption: "At Folsom Prison by Johnny Cash"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="GpZ-2HDJzFw" title="Johnny Cash - At Folsom Prison (1968) (Full album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Johnny Cash - At Folsom Prison](https://www.discogs.com/release/7467817) |
+| Release Year   | 2015 |
+| Discogs Link   | [Johnny Cash - At Folsom Prison](https://www.discogs.com/release/7467817-Johnny-Cash-At-Folsom-Prison) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | 88875111971 |
+
+Expanded Vinyl Edition Includes a download-voucher and a 16 page booklet.  Full, unedited and uncensored concert at Folsom Prison.  All tracks recorded live January 13, 1968 at Folsom Prison.  Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./ Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.
 

@@ -1,14 +1,17 @@
 ---
 title: "A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm"
-album_artist: "A Tribe Called Quest"
-album_title: "People's Instinctive Travels And The Paths Of Rhythm"
+artist: "A Tribe Called Quest"
+album_name: "People's Instinctive Travels And The Paths Of Rhythm"
 date: 2017-04-14
 release_id: "7926540"
 slug: "people-s-instinctive-travels-and-the-paths-of-rhythm-7926540"
+hideSummary: true
 cover:
     image: "people-s-instinctive-travels-and-the-paths-of-rhythm-7926540.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "People's Instinctive Travels And The Paths Of Rhythm by A Tribe Called Quest"
+    caption: "People's Instinctive Travels And The Paths Of Rhythm by A Tribe Called Quest"
+genres: ["Hip Hop"]
+styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Go Ahead In the Rain](https://www.youtube.com/watch?v=T1CnUKAxgF4)
 - [Description of a Fool](https://www.youtube.com/watch?v=DirRhRgwtes)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm](https://www.discogs.com/release/7926540) |
+| Release Year   | 2015 |
+| Discogs Link   | [A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm](https://www.discogs.com/release/7926540-A-Tribe-Called-Quest-Peoples-Instinctive-Travels-And-The-Paths-Of-Rhythm) |
 | Label          | Jive, Legacy, Sony Music |
 | Format         | 2xLP, Album, RE, RM, 25t |
 | Catalog Number | 88875172371 |
+
+25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.
 

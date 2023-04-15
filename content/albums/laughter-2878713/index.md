@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury And The Blockheads - Laughter"
-album_artist: "Ian Dury And The Blockheads"
-album_title: "Laughter"
+artist: "Ian Dury And The Blockheads"
+album_name: "Laughter"
 date: 2020-08-02
 release_id: "2878713"
 slug: "laughter-2878713"
+hideSummary: true
 cover:
     image: "laughter-2878713.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Laughter by Ian Dury And The Blockheads"
+    caption: "Laughter by Ian Dury And The Blockheads"
+genres: ["Rock", "Funk / Soul"]
+styles: ["New Wave", "Pop Rock", "Disco"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
 - [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/2878713) |
+| Release Year   | 1980 |
+| Discogs Link   | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/2878713-Ian-Dury-The-Blockheads-Laughter) |
 | Label          | Stiff Records |
 | Format         | LP, Album |
 | Catalog Number | SEEZ 30 NP |
+
+Issued with a printed inner sleeve.
 

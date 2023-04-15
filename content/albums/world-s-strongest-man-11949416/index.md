@@ -1,14 +1,17 @@
 ---
 title: "Gaz Coombes - World's Strongest Man"
-album_artist: "Gaz Coombes"
-album_title: "World's Strongest Man"
+artist: "Gaz Coombes"
+album_name: "World's Strongest Man"
 date: 2018-05-04
 release_id: "11949416"
 slug: "world-s-strongest-man-11949416"
+hideSummary: true
 cover:
     image: "world-s-strongest-man-11949416.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "World's Strongest Man by Gaz Coombes"
+    caption: "World's Strongest Man by Gaz Coombes"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
 - [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gaz Coombes - World's Strongest Man](https://www.discogs.com/release/11949416) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gaz Coombes - World's Strongest Man](https://www.discogs.com/release/11949416-Gaz-Coombes-Worlds-Strongest-Man) |
 | Label          | Hot Fruit Recordings |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | HF012LP1 |
+
+Gatefold Jacket Exclusive Pink Vinyl   Recorded at home and at Courtyard Studio, Oxford.
 

@@ -1,14 +1,17 @@
 ---
 title: "Modest Mouse - We Were Dead Before The Ship Even Sank"
-album_artist: "Modest Mouse"
-album_title: "We Were Dead Before The Ship Even Sank"
+artist: "Modest Mouse"
+album_name: "We Were Dead Before The Ship Even Sank"
 date: 2017-08-23
 release_id: "2075825"
 slug: "we-were-dead-before-the-ship-even-sank-2075825"
+hideSummary: true
 cover:
     image: "we-were-dead-before-the-ship-even-sank-2075825.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "We Were Dead Before The Ship Even Sank by Modest Mouse"
+    caption: "We Were Dead Before The Ship Even Sank by Modest Mouse"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Modest Mouse-Fly Trapped In A Jar](https://www.youtube.com/watch?v=i1FFOB3aP-M)
 - [Modest Mouse - We've Got Everything](https://www.youtube.com/watch?v=AceNg5WrF9I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2007 |
-| Discogs Link   | [Modest Mouse - We Were Dead Before The Ship Even Sank](https://www.discogs.com/release/2075825) |
+| Release Year   | 2007 |
+| Discogs Link   | [Modest Mouse - We Were Dead Before The Ship Even Sank](https://www.discogs.com/release/2075825-Modest-Mouse-We-Were-Dead-Before-The-Ship-Even-Sank) |
 | Label          | Epic |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | 82876 86139 1 |
+
+180 Gram Vinyl  Labels: © ℗ 2006 Sony BMG Music Entertainment Made in the EU Sleeve: © ℗ 2007 Sony BMG Music Entertainment  Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:  1 UNUM 2 DUO 3 TRIA 4 QUATTOR 
 

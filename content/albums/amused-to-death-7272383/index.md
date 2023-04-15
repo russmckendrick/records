@@ -1,14 +1,17 @@
 ---
 title: "Roger Waters - Amused To Death"
-album_artist: "Roger Waters"
-album_title: "Amused To Death"
+artist: "Roger Waters"
+album_name: "Amused To Death"
 date: 2015-08-09
 release_id: "7272383"
 slug: "amused-to-death-7272383"
+hideSummary: true
 cover:
     image: "amused-to-death-7272383.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Amused To Death by Roger Waters"
+    caption: "Amused To Death by Roger Waters"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [It's a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
 - [Roger Waters - Amused to Death (1992)](https://www.youtube.com/watch?v=lneXi5yCKsg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Roger Waters - Amused To Death](https://www.discogs.com/release/7272383) |
+| Release Year   | 2015 |
+| Discogs Link   | [Roger Waters - Amused To Death](https://www.discogs.com/release/7272383-Roger-Waters-Amused-To-Death) |
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | 2xLP, Album, Ltd, Num, Pic, RE, RM |
 | Catalog Number | 88875065801 |
+
+"The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.  
 

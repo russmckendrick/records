@@ -1,14 +1,17 @@
 ---
 title: "Fu Manchu - Gigantoid"
-album_artist: "Fu Manchu"
-album_title: "Gigantoid"
+artist: "Fu Manchu"
+album_name: "Gigantoid"
 date: 2017-02-15
 release_id: "6129307"
 slug: "gigantoid-6129307"
+hideSummary: true
 cover:
     image: "gigantoid-6129307.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Gigantoid by Fu Manchu"
+    caption: "Gigantoid by Fu Manchu"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Triplanetary](https://www.youtube.com/watch?v=RcruRnHbZ_o)
 - [Fu Manchu - The Last Question [Audio]](https://www.youtube.com/watch?v=aGX_AQOBolw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Fu Manchu - Gigantoid](https://www.discogs.com/release/6129307) |
+| Release Year   | 2014 |
+| Discogs Link   | [Fu Manchu - Gigantoid](https://www.discogs.com/release/6129307-Fu-Manchu-Gigantoid) |
 | Label          | At The Dojo Records |
 | Format         | LP, Album, RP, Blu |
 | Catalog Number | ATD008 |
+
+Second pressing of approximately 1000 copies. Issued with an single-sided, printed inner sheet. Pressing plant uncredited, identified by the matrix numbers.  [Back cover] ℗&© Fu Manchu under license to At The Dojo Records  [Inner sheet] Recorded, engineered and mixed […] at Susstudio in Simi Valley, CA march 2014 Additional recording […] at The Racket Room in Santa Ana, CA Mastered […] at Oasis Mastering, Burbank, CA  Published by: Fu Music (ASCAP)  The "Management" credit is printed as "Brian Frank for BFrank Management" on the release. The "USA Booking" credit is printed as "Merrick Jarmulowicz for Ground Control Touring" on the release. The "Outside The USA Booking" credit is printed as "Steve Zapp for ITB" on the release. The "Legal" credit is printed as "Joseph Lloyd Serling for Serling, Rooks & Ferrara" on the release.  [Labels]  ℗ & © Fu Manchu under license to At The Dojo Records
 

@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - ChangesOneBowie"
-album_artist: "David Bowie"
-album_title: "ChangesOneBowie"
+artist: "David Bowie"
+album_name: "ChangesOneBowie"
 date: 2016-05-20
 release_id: "8518115"
 slug: "changesonebowie-8518115"
+hideSummary: true
 cover:
     image: "changesonebowie-8518115.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "ChangesOneBowie by David Bowie"
+    caption: "ChangesOneBowie by David Bowie"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Glam", "Pop Rock", "Soul"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Fame (4:10)
 11. Golden Years (3:55)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [David Bowie - ChangesOneBowie](https://www.discogs.com/release/8518115) |
+| Release Year   | 2016 |
+| Discogs Link   | [David Bowie - ChangesOneBowie](https://www.discogs.com/release/8518115-David-Bowie-ChangesOneBowie) |
 | Label          | Parlophone, Parlophone |
 | Format         | LP, Comp, RE, Cle |
 | Catalog Number | COBLP 2016, 0190295994082 |
+
+Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve. Half of the copies are on clear vinyl (this release), half on [black vinyl](https://www.discogs.com/release/8527561). No mention of the vinyl colour on the sleeve or the sticker. 
 

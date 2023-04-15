@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)"
-album_artist: "Bruce Springsteen"
-album_title: "Only The Strong Survive (Covers Vol. 1)"
+artist: "Bruce Springsteen"
+album_name: "Only The Strong Survive (Covers Vol. 1)"
 date: 2022-11-14
 release_id: "25126471"
 slug: "only-the-strong-survive-covers-vol-1-25126471"
+hideSummary: true
 cover:
     image: "only-the-strong-survive-covers-vol-1-25126471.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen"
+    caption: "Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Bruce Springsteen - Don't Play That Song (Official Video)](https://www.youtube.com/watch?v=6bM3L296ZNw)
 - [Bruce Springsteen - Nightshift (Official Video)](https://www.youtube.com/watch?v=GsTKEQzLkmw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)](https://www.discogs.com/release/25126471) |
+| Release Year   | 2022 |
+| Discogs Link   | [Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)](https://www.discogs.com/release/25126471-Springsteen-Only-The-Strong-Survive-Covers-Vol-1) |
 | Label          | Columbia |
 | Format         | LP + LP, S/Sided, Etch + Album, Ltd, Ora |
 | Catalog Number | 19658753701 |
+
+Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.  © & ℗ 2022 Columbia Records Made in the EU  Comes with a sticker on the front cover: "INDIE RETAIL EXCLUSIVE THE NEW ALBUM FROM BRUCE SPRINGSTEEN LIMITED EDITION ORBIT ORANGE VINYL"
 

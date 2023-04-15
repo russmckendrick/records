@@ -1,14 +1,17 @@
 ---
 title: "Jethro Tull - Stand Up"
-album_artist: "Jethro Tull"
-album_title: "Stand Up"
+artist: "Jethro Tull"
+album_name: "Stand Up"
 date: 2018-01-26
 release_id: "9834706"
 slug: "stand-up-9834706"
+hideSummary: true
 cover:
     image: "stand-up-9834706.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Stand Up by Jethro Tull"
+    caption: "Stand Up by Jethro Tull"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Prog Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Reasons For Waiting-Jethro Tull](https://www.youtube.com/watch?v=iybAyDFrhhI)
 - [For A Thousand Mothers-Jethro Tull](https://www.youtube.com/watch?v=E7M2Vxh5Lh8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Jethro Tull - Stand Up](https://www.discogs.com/release/9834706) |
+| Release Year   | 2017 |
+| Discogs Link   | [Jethro Tull - Stand Up](https://www.discogs.com/release/9834706-Jethro-Tull-Stand-Up) |
 | Label          | Chrysalis |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | 0190295932855 |
+
+Housed in a gatefold jacket containing the LP in a white poly lined inner sleeve, a 24-page large format booklet and a download voucher for an MP3 version of the album. When the gatefold jacket is opened, a cut-out of the band pops up, similar to the old pop-up books.  [Sticker:] The Steven Wilson 2016 stereo remix on 180gm vinyl 0190295932855 [Vinyl Collector logo] Includes download code for MP3 version of the album www.facebook.com/vinylcollector  [Booklet p. 3:] Recorded on 8 track at Morgan Studios, London, 1969 except [A3 recorded at Olympic Sound Studio 1] Artwork [...] at Waldo's Design & Dream Emporium Photography by [...] and from the Chrysalis Archive.  [Rear sleeve:] ℗ & © 2016 Parlophone Records Ltd, a Warner Music Group Company. [...] Made in the E.U.  [Labels:] Published by BMG Chrysalis under licence from the Ian Anderson Group Of Companies. Made in EU.  Runouts etched. Symbols added during plating will appear mirrored, e.g. 1I+ and 2+ in runout variant 3.
 

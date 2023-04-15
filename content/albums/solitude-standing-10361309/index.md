@@ -1,14 +1,17 @@
 ---
 title: "Suzanne Vega - Solitude Standing"
-album_artist: "Suzanne Vega"
-album_title: "Solitude Standing"
+artist: "Suzanne Vega"
+album_name: "Solitude Standing"
 date: 2017-07-02
 release_id: "10361309"
 slug: "solitude-standing-10361309"
+hideSummary: true
 cover:
     image: "solitude-standing-10361309.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Solitude Standing by Suzanne Vega"
+    caption: "Solitude Standing by Suzanne Vega"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Wooden Horse (Casper Hauser's Song)](https://www.youtube.com/watch?v=nPBZDs5y2vg)
 - [Tom's Diner (Reprise)](https://www.youtube.com/watch?v=bnOQIfaNQso)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Suzanne Vega - Solitude Standing](https://www.discogs.com/release/10361309) |
+| Release Year   | 2017 |
+| Discogs Link   | [Suzanne Vega - Solitude Standing](https://www.discogs.com/release/10361309-Suzanne-Vega-Solitude-Standing) |
 | Label          | A&M Records |
 | Format         | LP, Album, RE |
 | Catalog Number | B0026079-01 |
+
+2017 reissue. Black vinyl. MASTERED BY CAPITOL stamped on Side A only.
 

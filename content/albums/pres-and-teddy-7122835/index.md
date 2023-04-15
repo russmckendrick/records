@@ -1,14 +1,17 @@
 ---
 title: "The Lester Young-Teddy Wilson Quartet - Pres And Teddy"
-album_artist: "The Lester Young-Teddy Wilson Quartet"
-album_title: "Pres And Teddy"
+artist: "The Lester Young-Teddy Wilson Quartet"
+album_name: "Pres And Teddy"
 date: 2017-02-19
 release_id: "7122835"
 slug: "pres-and-teddy-7122835"
+hideSummary: true
 cover:
     image: "pres-and-teddy-7122835.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Pres And Teddy by The Lester Young-Teddy Wilson Quartet"
+    caption: "Pres And Teddy by The Lester Young-Teddy Wilson Quartet"
+genres: ["Jazz"]
+styles: null
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Prisoner Of Love](https://www.youtube.com/watch?v=yJb-03xp2ZU)
 - [Lester Young - Our Love Is Here to Stay](https://www.youtube.com/watch?v=xWoGC0SFWzo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Lester Young-Teddy Wilson Quartet - Pres And Teddy](https://www.discogs.com/release/7122835) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Lester Young-Teddy Wilson Quartet - Pres And Teddy](https://www.discogs.com/release/7122835-The-Lester-Young-Teddy-Wilson-Quartet-Pres-And-Teddy) |
 | Label          | Verve Records, Universal Music Catalogue |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0600753520390 |
+
+℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc. Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it. Made in the EU
 

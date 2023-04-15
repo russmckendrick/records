@@ -1,14 +1,17 @@
 ---
 title: "Rush - Power Windows"
-album_artist: "Rush"
-album_title: "Power Windows"
+artist: "Rush"
+album_name: "Power Windows"
 date: 2017-02-19
 release_id: "7855875"
 slug: "power-windows-7855875"
+hideSummary: true
 cover:
     image: "power-windows-7855875.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Power Windows by Rush"
+    caption: "Power Windows by Rush"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -21,16 +24,17 @@ hideSummary: true
 7. Emotion Detector
 8. Mystic Rhythms
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Power Windows](https://www.discogs.com/release/7855875) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Power Windows](https://www.discogs.com/release/7855875-Rush-Power-Windows) |
 | Label          | Mercury, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547118288 |
+
+Including a voucher to download an MP4 version of the album.  
 

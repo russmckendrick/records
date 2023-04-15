@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Misplaced Childhood"
-album_artist: "Marillion"
-album_title: "Misplaced Childhood"
+artist: "Marillion"
+album_name: "Misplaced Childhood"
 date: 2017-07-21
 release_id: "10584862"
 slug: "misplaced-childhood-10584862"
+hideSummary: true
 cover:
     image: "misplaced-childhood-10584862.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Misplaced Childhood by Marillion"
+    caption: "Misplaced Childhood by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="VTAoZ1mF9j0" title="Marillion - Blind Curve I-V (Misplaced Childhood) (UK CD Reissue)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Marillion - Misplaced Childhood](https://www.discogs.com/release/10584862) |
+| Release Year   | 2017 |
+| Discogs Link   | [Marillion - Misplaced Childhood](https://www.discogs.com/release/10584862-Marillion-Misplaced-Childhood) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd |
 | Catalog Number | 0190295865511 |
+
+Limited Edition 4LP Deluxe Format includes - Original album remastered, Previously unreleased Live concert:'Live At Utrecht 1985', plus a 24 page booklet containing rare photos, memorabilia and an essay by Dave Everley.  12x12-Zoll-Box. Initial copies ordered from Marillion's and Fish's online store were autographed respectively.  All runouts are etched.   'Misplaced Childhood' (2017 Remaster): originally released June 16th 1985 EMI-EJ2403401,MRL2.  Ⓟ 2017 this compilation Parlophone Records Ltd. Ⓒ 2017 Parlophone Records Ltd.  This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2017 Parlophone Records Ltd. A Warner Music Group Company. 
 

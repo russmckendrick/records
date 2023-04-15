@@ -1,14 +1,17 @@
 ---
 title: "Anneke van Giersbergen with Residentie Orkest - Symphonized"
-album_artist: "Anneke van Giersbergen with Residentie Orkest"
-album_title: "Symphonized"
+artist: "Anneke van Giersbergen with Residentie Orkest"
+album_name: "Symphonized"
 date: 2018-11-17
 release_id: "12810189"
 slug: "symphonized-12810189"
+hideSummary: true
 cover:
     image: "symphonized-12810189.jpg"
-tags: ["Rock", "Classical"]
-hideSummary: true
+    alt: "Symphonized by Anneke van Giersbergen with Residentie Orkest"
+    caption: "Symphonized by Anneke van Giersbergen with Residentie Orkest"
+genres: ["Rock", "Classical"]
+styles: null
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Anneke van Giersbergen & het Residentie Orkest - Travel](https://www.youtube.com/watch?v=ipTnpgJcdYM)
 - [Amity (Symphonized live 2018)](https://www.youtube.com/watch?v=VSKHEUJYRus)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Anneke van Giersbergen with Residentie Orkest - Symphonized](https://www.discogs.com/release/12810189) |
+| Release Year   | 2018 |
+| Discogs Link   | [Anneke van Giersbergen with Residentie Orkest - Symphonized](https://www.discogs.com/release/12810189-Anneke-van-Giersbergen-with-Residentie-Orkest-The-Hague-Symphonized) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | IOMLP 520, 19075896041 |
+
+Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.  180 gr. vinyl in gatefold sleeve with insert.
 

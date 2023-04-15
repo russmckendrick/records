@@ -1,14 +1,17 @@
 ---
 title: "Sam & Dave - Soul Men"
-album_artist: "Sam & Dave"
-album_title: "Soul Men"
+artist: "Sam & Dave"
+album_name: "Soul Men"
 date: 2018-01-26
 release_id: "10527579"
 slug: "soul-men-10527579"
+hideSummary: true
 cover:
     image: "soul-men-10527579.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Soul Men by Sam & Dave"
+    caption: "Soul Men by Sam & Dave"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
 - [Sam And Dave  I'm With You](https://www.youtube.com/watch?v=gTxg0V_Jkuk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579) |
+| Release Year   | 2017 |
+| Discogs Link   | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |
 | Label          | Stax, Stax |
 | Format         | LP, Album, Mono, RE, 180 |
 | Catalog Number | 081227940577, 725 |
+
+Originally released on Stax in 1967 Manufactured in E.U. STAX 60 (60th Anniversary) Sticker 
 

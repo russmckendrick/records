@@ -1,14 +1,17 @@
 ---
 title: "Hollie Cook - Vessel of Love"
-album_artist: "Hollie Cook"
-album_title: "Vessel of Love"
+artist: "Hollie Cook"
+album_name: "Vessel of Love"
 date: 2018-02-08
 release_id: "11456303"
 slug: "vessel-of-love-11456303"
+hideSummary: true
 cover:
     image: "vessel-of-love-11456303.jpg"
-tags: ["Reggae", "Funk / Soul"]
-hideSummary: true
+    alt: "Vessel of Love by Hollie Cook"
+    caption: "Vessel of Love by Hollie Cook"
+genres: ["Reggae", "Funk / Soul"]
+styles: ["Reggae-Pop", "Soul", "Dub"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Together](https://www.youtube.com/watch?v=JOXjfBI_FWI)
 - [Far From Me](https://www.youtube.com/watch?v=z9RkK7APJ2U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Hollie Cook - Vessel of Love](https://www.discogs.com/release/11456303) |
+| Release Year   | 2018 |
+| Discogs Link   | [Hollie Cook - Vessel of Love](https://www.discogs.com/release/11456303-Hollie-Cook-Vessel-of-Love) |
 | Label          | Merge Records |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | MRG588 |
+
+Peak Vinyl: Limited-edition translucent pink vinyl in the same packaging as the standard LP. Includes album download.
 

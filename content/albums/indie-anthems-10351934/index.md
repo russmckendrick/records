@@ -1,14 +1,17 @@
 ---
 title: "Various - Indie Anthems"
-album_artist: "Various"
-album_title: "Indie Anthems"
+artist: "Various"
+album_name: "Indie Anthems"
 date: 2017-05-27
 release_id: "10351934"
 slug: "indie-anthems-10351934"
+hideSummary: true
 cover:
     image: "indie-anthems-10351934.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Indie Anthems by Various"
+    caption: "Indie Anthems by Various"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [TEENAGE FANCLUB - Sparky's dream](https://www.youtube.com/watch?v=9buNckusos0)
 - [Spiritualized - Come Together (Official Music Video)](https://www.youtube.com/watch?v=uWOdSeDzyy4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Indie Anthems](https://www.discogs.com/release/10351934) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Indie Anthems](https://www.discogs.com/release/10351934-Various-Indie-Anthems) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | DEMRECOMP004 |
+
+Demon Records presents Indie Anthems – 20 Alternative Classics across 2 LPs featuring essential tracks from The Stone Roses, Radiohead, Primal Scream, Kasabian & many more.  Presented in a slick gatefold sleeve with original artwork and 2 x 180g heavyweight vinyl, this is the definitive indie compilation packed with generation defining anthems. Indie Anthems is available exclusively on vinyl.  Altough it's not credited, "Fools Gold" included here is a shorter 7'' edit.
 

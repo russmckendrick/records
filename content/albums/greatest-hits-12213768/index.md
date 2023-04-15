@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Greatest Hits"
-album_artist: "Bruce Springsteen"
-album_title: "Greatest Hits"
+artist: "Bruce Springsteen"
+album_name: "Greatest Hits"
 date: 2022-05-31
 release_id: "12213768"
 slug: "greatest-hits-12213768"
+hideSummary: true
 cover:
     image: "greatest-hits-12213768.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hits by Bruce Springsteen"
+    caption: "Greatest Hits by Bruce Springsteen"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [This Hard Land](https://www.youtube.com/watch?v=fGcgH2sogYM)
 - [Bruce Springsteen - This Hard Land (Live)](https://www.youtube.com/watch?v=Ssg4_KMrS0o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Bruce Springsteen - Greatest Hits](https://www.discogs.com/release/12213768) |
+| Release Year   | 2018 |
+| Discogs Link   | [Bruce Springsteen - Greatest Hits](https://www.discogs.com/release/12213768-Bruce-Springsteen-Greatest-Hits) |
 | Label          | Columbia, Sony Music |
 | Format         | 2xLP, Comp, RE, RM, 180 |
 | Catalog Number | 19075820661 |
+
+Made in the EU. Issued in a gatefold sleeve with two printed inner sleeves and a download code.
 

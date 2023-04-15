@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - Remastered In Vinyl I"
-album_artist: "Kate Bush"
-album_title: "Remastered In Vinyl I"
+artist: "Kate Bush"
+album_name: "Remastered In Vinyl I"
 date: 2018-11-17
 release_id: "12811757"
 slug: "remastered-in-vinyl-i-12811757"
+hideSummary: true
 cover:
     image: "remastered-in-vinyl-i-12811757.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Remastered In Vinyl I by Kate Bush"
+    caption: "Remastered In Vinyl I by Kate Bush"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -64,13 +67,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kate Bush - Remastered In Vinyl I](https://www.discogs.com/release/12811757) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kate Bush - Remastered In Vinyl I](https://www.discogs.com/release/12811757-Kate-Bush-Remastered-In-Vinyl-I) |
 | Label          | Fish People, Parlophone |
 | Format         | LP, Album, M/Print, RE, RM + LP, Album, RE, RM, Ga |
 | Catalog Number | 0190295593964 |
+
+4 x remastered LP release in stickered card box.  'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'.
 

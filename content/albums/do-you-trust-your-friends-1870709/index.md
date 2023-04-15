@@ -1,14 +1,17 @@
 ---
 title: "Stars - Do You Trust Your Friends?"
-album_artist: "Stars"
-album_title: "Do You Trust Your Friends?"
+artist: "Stars"
+album_name: "Do You Trust Your Friends?"
 date: 2019-01-10
 release_id: "1870709"
 slug: "do-you-trust-your-friends-1870709"
+hideSummary: true
 cover:
     image: "do-you-trust-your-friends-1870709.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Do You Trust Your Friends? by Stars"
+    caption: "Do You Trust Your Friends? by Stars"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Your Ex-Lover Is Dead (Final Fantasy) - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
 - [Your Ex-Lover Is Dead by Stars (another version)](https://www.youtube.com/watch?v=x4cZyF2i5yw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2007 |
-| Discogs Link   | [Stars - Do You Trust Your Friends?](https://www.discogs.com/release/1870709) |
+| Release Year   | 2007 |
+| Discogs Link   | [Stars - Do You Trust Your Friends?](https://www.discogs.com/release/1870709-Stars-Do-You-Trust-Your-Friends) |
 | Label          | Arts & Crafts International |
 | Format         | 2xLP, Album, Gat |
 | Catalog Number | ACS-024 |
+
+"A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire".   © 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International.  Printed in Canada. 
 

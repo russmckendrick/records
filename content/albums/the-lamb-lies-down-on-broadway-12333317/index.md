@@ -1,14 +1,17 @@
 ---
 title: "Genesis - The Lamb Lies Down On Broadway"
-album_artist: "Genesis"
-album_title: "The Lamb Lies Down On Broadway"
+artist: "Genesis"
+album_name: "The Lamb Lies Down On Broadway"
 date: 2018-08-03
 release_id: "12333317"
 slug: "the-lamb-lies-down-on-broadway-12333317"
+hideSummary: true
 cover:
     image: "the-lamb-lies-down-on-broadway-12333317.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Lamb Lies Down On Broadway by Genesis"
+    caption: "The Lamb Lies Down On Broadway by Genesis"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Peter Gabriel...The Carpet Crawlers.](https://www.youtube.com/watch?v=44b_Xr0fNwQ)
 - [Genesis - The Lamb Lies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=hioAbdhfN_w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Genesis - The Lamb Lies Down On Broadway](https://www.discogs.com/release/12333317) |
+| Release Year   | 2018 |
+| Discogs Link   | [Genesis - The Lamb Lies Down On Broadway](https://www.discogs.com/release/12333317-Genesis-The-Lamb-Lies-Down-On-Broadway) |
 | Label          | Charisma, UMC |
 | Format         | 2xLP, Album, Mono, MP, RE, Gat |
 | Catalog Number | 602567489856 |
+
+Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.  Printed on center label of record one: "6478992 Record One" Printed on center label of record two: "6749005 Record One" Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.  ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Comes with download code.  Made in the Eu
 

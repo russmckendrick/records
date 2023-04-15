@@ -1,14 +1,17 @@
 ---
 title: "Beth Orton - Daybreaker"
-album_artist: "Beth Orton"
-album_title: "Daybreaker"
+artist: "Beth Orton"
+album_name: "Daybreaker"
 date: 2022-06-22
 release_id: "331745"
 slug: "daybreaker-331745"
+hideSummary: true
 cover:
     image: "daybreaker-331745.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Daybreaker by Beth Orton"
+    caption: "Daybreaker by Beth Orton"
+genres: ["Electronic", "Rock"]
+styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [This One's Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
 - [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2002 |
-| Discogs Link   | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745) |
+| Release Year   | 2002 |
+| Discogs Link   | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745-Beth-Orton-Daybreaker) |
 | Label          | Heavenly |
 | Format         | LP, Album |
 | Catalog Number | HVNLP 37 |
+
+All songs written by Beth Orton, except: Tracks 1 & 9 which were written by Beth and Ted Barnes Track 2 which was written by Beth and Johnny Marr Track 8 which was written for Beth by Ryan Adams Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read  All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10 
 

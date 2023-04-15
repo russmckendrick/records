@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - Glitter And Doom Live"
-album_artist: "Tom Waits"
-album_title: "Glitter And Doom Live"
+artist: "Tom Waits"
+album_name: "Glitter And Doom Live"
 date: 2018-01-22
 release_id: "11273241"
 slug: "glitter-and-doom-live-11273241"
+hideSummary: true
 cover:
     image: "glitter-and-doom-live-11273241.jpg"
-tags: ["Rock", "Non-Music"]
-hideSummary: true
+    alt: "Glitter And Doom Live by Tom Waits"
+    caption: "Glitter And Doom Live by Tom Waits"
+genres: ["Rock", "Non-Music"]
+styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [1.Tom Waits - Lucinda/Ain't Going Down To The Well (Atlanta)](https://www.youtube.com/watch?v=lN6TJ9Jm6K4)
 - [Make it Rain (Live) by Tom Waits](https://www.youtube.com/watch?v=tTolREI7UV4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tom Waits - Glitter And Doom Live](https://www.discogs.com/release/11273241) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tom Waits - Glitter And Doom Live](https://www.discogs.com/release/11273241-Tom-Waits-Glitter-And-Doom-Live) |
 | Label          | Anti-, Anti- |
 | Format         | 2xLP, RE, RM |
 | Catalog Number | 7053-3, 8714092705331 |
+
+Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve 
 

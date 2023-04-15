@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Mental Notes"
-album_artist: "Split Enz"
-album_title: "Mental Notes"
+artist: "Split Enz"
+album_name: "Mental Notes"
 date: 2018-09-29
 release_id: "1445113"
 slug: "mental-notes-1445113"
+hideSummary: true
 cover:
     image: "mental-notes-1445113.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mental Notes by Split Enz"
+    caption: "Mental Notes by Split Enz"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/1445113) |
+| Release Year   | 1976 |
+| Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/1445113-Split-Enz-Mental-Notes) |
 | Label          | Chrysalis, Chrysalis |
 | Format         | LP, Album, Gat |
 | Catalog Number | CHR 1131, CHR-1131 |
+
+Released in a gatefold cover.  On the label the cat.nr. appears as ''CHR-1131''. Recorded at Basing St. Studios, London April/May 1976.  This is a re-recorded version with a new producer, new versions of old tracks and some new tracks.  
 

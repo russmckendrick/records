@@ -1,14 +1,17 @@
 ---
 title: "Paul Simon - The Rhythm Of The Saints"
-album_artist: "Paul Simon"
-album_title: "The Rhythm Of The Saints"
+artist: "Paul Simon"
+album_name: "The Rhythm Of The Saints"
 date: 2019-04-26
 release_id: "12238356"
 slug: "the-rhythm-of-the-saints-12238356"
+hideSummary: true
 cover:
     image: "the-rhythm-of-the-saints-12238356.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Rhythm Of The Saints by Paul Simon"
+    caption: "The Rhythm Of The Saints by Paul Simon"
+genres: ["Rock"]
+styles: ["Folk Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Paul Simon - Proof](https://www.youtube.com/watch?v=Z5Oh-GDikis)
 - [Paul Simon - The Cool, Cool River](https://www.youtube.com/watch?v=evTk_-e5XE8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Paul Simon - The Rhythm Of The Saints](https://www.discogs.com/release/12238356) |
+| Release Year   | 1990 |
+| Discogs Link   | [Paul Simon - The Rhythm Of The Saints](https://www.discogs.com/release/12238356-Paul-Simon-The-Rhythm-Of-The-Saints) |
 | Label          | Warner Bros. Records, Warner Bros. Records |
 | Format         | LP, Album |
 | Catalog Number | 7599-26098-1, WX 340 |
+
+℗ 1990 Paul Simon  Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM Runout PR-P suggests Mastered at P.R. Records Limited.   Catalogue No., Artist and Title all visible top of front cover and spine 
 

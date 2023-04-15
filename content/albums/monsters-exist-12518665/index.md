@@ -1,14 +1,17 @@
 ---
 title: "Orbital - Monsters Exist"
-album_artist: "Orbital"
-album_title: "Monsters Exist"
+artist: "Orbital"
+album_name: "Monsters Exist"
 date: 2018-09-16
 release_id: "12518665"
 slug: "monsters-exist-12518665"
+hideSummary: true
 cover:
     image: "monsters-exist-12518665.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Monsters Exist by Orbital"
+    caption: "Monsters Exist by Orbital"
+genres: ["Electronic"]
+styles: ["Techno"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Orbital & Brian Cox - There Will Come a Time](https://www.youtube.com/watch?v=bBvE4YRtEEo)
 - [Orbital - The End Is Nigh](https://www.youtube.com/watch?v=xrzB8A6h6CA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Orbital - Monsters Exist](https://www.discogs.com/release/12518665) |
+| Release Year   | 2018 |
+| Discogs Link   | [Orbital - Monsters Exist](https://www.discogs.com/release/12518665-Orbital-Monsters-Exist) |
 | Label          | ACP Recordings |
 | Format         | 2xLP, Album |
 | Catalog Number | ACPV1806 |
+
+Includes colour insert and download card.  Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk  Tracks on release are numbered sequentially across sides.  Mixed for Pieces of 8 Music
 

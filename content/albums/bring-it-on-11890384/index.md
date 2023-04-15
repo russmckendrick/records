@@ -1,14 +1,17 @@
 ---
 title: "Gomez - Bring It On"
-album_artist: "Gomez"
-album_title: "Bring It On"
+artist: "Gomez"
+album_name: "Bring It On"
 date: 2018-04-20
 release_id: "11890384"
 slug: "bring-it-on-11890384"
+hideSummary: true
 cover:
     image: "bring-it-on-11890384.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Bring It On by Gomez"
+    caption: "Bring It On by Gomez"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Gomez - Tijuana Lady](https://www.youtube.com/watch?v=1ojprhey24c)
 - [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gomez - Bring It On](https://www.discogs.com/release/11890384) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gomez - Bring It On](https://www.discogs.com/release/11890384-Gomez-Bring-It-On) |
 | Label          | UMC, Virgin EMI Records |
 | Format         | LP, Bur + LP, Yel + Album, Ltd, RE, RM |
 | Catalog Number | 6711417, 6711413 |
+
+20th Anniversary reissue. Unipack envelope sleeve.   Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.  First catalogue number on spine, second on hype sticker.  
 

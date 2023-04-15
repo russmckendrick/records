@@ -1,14 +1,17 @@
 ---
 title: "Cypress Hill - Black Sunday"
-album_artist: "Cypress Hill"
-album_title: "Black Sunday"
+artist: "Cypress Hill"
+album_name: "Black Sunday"
 date: 2015-10-27
 release_id: "4491885"
 slug: "black-sunday-4491885"
+hideSummary: true
 cover:
     image: "black-sunday-4491885.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Black Sunday by Cypress Hill"
+    caption: "Black Sunday by Cypress Hill"
+genres: ["Hip Hop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Cypress Hill - Hits from the Bong (Audio)](https://www.youtube.com/watch?v=eMK4cfXj5c0)
 - [cψρƦε$$ HILL - Black Sunday FULLΛLBUM](https://www.youtube.com/watch?v=k4D5kp1d3nE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Cypress Hill - Black Sunday](https://www.discogs.com/release/4491885) |
+| Release Year   | 2013 |
+| Discogs Link   | [Cypress Hill - Black Sunday](https://www.discogs.com/release/4491885-Cypress-Hill-Black-Sunday) |
 | Label          | Ruffhouse Records, Columbia, Legacy |
 | Format         | 2xLP, Album, RSD, Num, RE, 180 |
 | Catalog Number | 88765493481 |
+
+Record Store Day 2013 20th Anniversary Edition with numbered, gatefold cover and printed b/w inner sleeves.  Produced, arranged and mixed for The Soul Assassins. "I Ain't Goin' Out Like That" produced for Beat Down Productions. Recorded at 38 Fresh and Image Recording, Hollywood, CA, USA, Soundtrack, Baby Monster, Green Street and Chung King Studios, New York City, USA, and Studio 4 Recording, Philadelphia, PA, USA. Mixed at Studio 4 Recording, Philadelphia, PA, USA.
 

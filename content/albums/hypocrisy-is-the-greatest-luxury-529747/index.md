@@ -1,14 +1,17 @@
 ---
 title: "The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury"
-album_artist: "The Disposable Heroes Of Hiphoprisy"
-album_title: "Hypocrisy Is The Greatest Luxury"
+artist: "The Disposable Heroes Of Hiphoprisy"
+album_name: "Hypocrisy Is The Greatest Luxury"
 date: 2018-08-17
 release_id: "529747"
 slug: "hypocrisy-is-the-greatest-luxury-529747"
+hideSummary: true
 cover:
     image: "hypocrisy-is-the-greatest-luxury-529747.jpg"
-tags: ["Electronic", "Hip Hop", "Jazz"]
-hideSummary: true
+    alt: "Hypocrisy Is The Greatest Luxury by The Disposable Heroes Of Hiphoprisy"
+    caption: "Hypocrisy Is The Greatest Luxury by The Disposable Heroes Of Hiphoprisy"
+genres: ["Electronic", "Hip Hop", "Jazz"]
+styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [Water Pistol Man](https://www.youtube.com/watch?v=571lGlM0dAE)
 - [The Disposable Heroes of Hiphoprisy - Satanic Reverses](https://www.youtube.com/watch?v=wS0f9Gh8gLQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury](https://www.discogs.com/release/529747) |
+| Release Year   | 1992 |
+| Discogs Link   | [The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury](https://www.discogs.com/release/529747-The-Disposable-Heroes-Of-Hiphoprisy-Hypocrisy-Is-The-Greatest-Luxury) |
 | Label          | 4th & Broadway, 4th & Broadway |
 | Format         | LP, Album + 12\", S/Sided + Ltd |
 | Catalog Number | BRLPX 584, 512 207-1 |
+
+Fourth & Broadway is a division of Island Records ℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.  The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.  Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"  The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1. This is reflected in the barcode which ends 2591
 

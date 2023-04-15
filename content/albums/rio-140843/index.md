@@ -1,14 +1,17 @@
 ---
 title: "Duran Duran - Rio"
-album_artist: "Duran Duran"
-album_title: "Rio"
+artist: "Duran Duran"
+album_name: "Rio"
 date: 2020-08-02
 release_id: "140843"
 slug: "rio-140843"
+hideSummary: true
 cover:
     image: "rio-140843.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Rio by Duran Duran"
+    caption: "Rio by Duran Duran"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Duran Duran - The Chauffeur (Official Music Video)](https://www.youtube.com/watch?v=1B__8N5d_LA)
 - [Duran Duran - Lonely In Your Nightmare Version 2 (Official Music Video)](https://www.youtube.com/watch?v=zU20mJJULyI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Duran Duran - Rio](https://www.discogs.com/release/140843) |
+| Release Year   | 1982 |
+| Discogs Link   | [Duran Duran - Rio](https://www.discogs.com/release/140843-Duran-Duran-Rio) |
 | Label          | EMI, EMI |
 | Format         | LP, Album |
 | Catalog Number | EMC 3411, 0C 062-64 782 |
+
+Original UK pressing in a textured outer sleeve with a glossy inner picture/lyrics sleeve  [Back cover] ℗ 1982 Original sound recording made by Tritec Music Limiited ... country of manufacture of record as stated on record labels SP 8205 GL  [Record labels]  All songs composed and arranged by Duran Duran... All songs published by Tritec/Peterman/Carlin  ℗ 1982 Original sound recordings made by Tritec Music Limited. ... Manufactured in the UK by EMI Records Ltd.  [Inner sleeve credits side] All songs written and arranged by Duran Duran ℗ 1982 Tritec Music Limiited © 1982 (except * © 1981) lyrics used....and published by Tritec Music/Carlin Music/Peterman Music Recorded Air, (London) Spring 1982.  Note:  * is printed on the lyrics side of the inner sleeve against "My Own Way") and that the credits on the inner sleeve give credit as "All songs written and arranged by" while the record labels give credit as "All songs composed and arranged by"  [Inner sleeve lyrics side] EMI Records EMC 3411(I) (top right of inner sleeve lyric side)
 

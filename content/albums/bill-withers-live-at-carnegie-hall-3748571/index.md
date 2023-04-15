@@ -1,14 +1,17 @@
 ---
 title: "Bill Withers - Bill Withers Live At Carnegie Hall"
-album_artist: "Bill Withers"
-album_title: "Bill Withers Live At Carnegie Hall"
+artist: "Bill Withers"
+album_name: "Bill Withers Live At Carnegie Hall"
 date: 2016-10-01
 release_id: "3748571"
 slug: "bill-withers-live-at-carnegie-hall-3748571"
+hideSummary: true
 cover:
     image: "bill-withers-live-at-carnegie-hall-3748571.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Bill Withers Live At Carnegie Hall by Bill Withers"
+    caption: "Bill Withers Live At Carnegie Hall by Bill Withers"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Funk"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Let Us Love (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=vOfSxkgX8XM)
 - [Medley: Harlem / Cold Baloney (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=S00jJdAYVoU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Bill Withers - Bill Withers Live At Carnegie Hall](https://www.discogs.com/release/3748571) |
+| Release Year   | 2012 |
+| Discogs Link   | [Bill Withers - Bill Withers Live At Carnegie Hall](https://www.discogs.com/release/3748571-Bill-Withers-Bill-Withers-Live-At-Carnegie-Hall) |
 | Label          | Music On Vinyl, Sussex |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | MOVLP432, SXBS 7025-2 |
+
+Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles). Published by Interior Music, Corp. (BMI)  Gatefold cover with printed company inner sleeves. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Corrosion Of Conformity - Wiseblood"
-album_artist: "Corrosion Of Conformity"
-album_title: "Wiseblood"
+artist: "Corrosion Of Conformity"
+album_name: "Wiseblood"
 date: 2020-08-07
 release_id: "15680001"
 slug: "wiseblood-15680001"
+hideSummary: true
 cover:
     image: "wiseblood-15680001.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wiseblood by Corrosion Of Conformity"
+    caption: "Wiseblood by Corrosion Of Conformity"
+genres: ["Rock"]
+styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="uqfPv93Zonw" title="Corrosion Of Conformity - Drowning In a Daydream" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Corrosion Of Conformity - Wiseblood](https://www.discogs.com/release/15680001) |
+| Release Year   | 2020 |
+| Discogs Link   | [Corrosion Of Conformity - Wiseblood](https://www.discogs.com/release/15680001-Corrosion-Of-Conformity-Wiseblood) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, Ltd, Num, RE, Blu |
 | Catalog Number | MOVLP753 |
+
+Originally released ℗ & © 1996 Sony Music Entertainment. This release ℗ & © 2013 Sony Music Entertainment. Comes with printed inner sleeves containing lyrics and credits. 1000 copies pressed. Track B2 "Drowning In A Daydream" mixed at [l276645].
 

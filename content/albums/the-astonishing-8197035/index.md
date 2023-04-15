@@ -1,14 +1,17 @@
 ---
 title: "Dream Theater - The Astonishing"
-album_artist: "Dream Theater"
-album_title: "The Astonishing"
+artist: "Dream Theater"
+album_name: "The Astonishing"
 date: 2016-03-21
 release_id: "8197035"
 slug: "the-astonishing-8197035"
+hideSummary: true
 cover:
     image: "the-astonishing-8197035.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Astonishing by Dream Theater"
+    caption: "The Astonishing by Dream Theater"
+genres: ["Rock"]
+styles: ["Prog Rock", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 {{< youtube id="fae4FQ4McSY" title="Dream Theater - The Gift Of Music [OFFICIAL VIDEO]" >}}
 - [Dream Theater - Astonishing (Audio)](https://www.youtube.com/watch?v=Mt618RnQ3RA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Dream Theater - The Astonishing](https://www.discogs.com/release/8197035) |
+| Release Year   | 2016 |
+| Discogs Link   | [Dream Theater - The Astonishing](https://www.discogs.com/release/8197035-Dream-Theater-The-Astonishing) |
 | Label          | Roadrunner Records, Roadrunner Records |
 | Format         | Box + 2xLP + 2xLP + Album, 180 |
 | Catalog Number | RR7493-1, 1686174931 |
+
+Story by John Petrucci  The Vinyl Box Set features a Custom 12”x12” hard slipcase that houses a 4LP set of 180-gram black vinyl housed in 2 gatefold jackets with inserts. A Double-sided 18”x24” map of The Great Northern Empire of the Americas. This bundle also includes a digital download of the album. The download code expires January 29, 2018. Made in the EU  Durations do not appear on this release. Timings via stopwatch.
 

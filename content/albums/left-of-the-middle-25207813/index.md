@@ -1,14 +1,17 @@
 ---
 title: "Natalie Imbruglia - Left Of The Middle"
-album_artist: "Natalie Imbruglia"
-album_title: "Left Of The Middle"
+artist: "Natalie Imbruglia"
+album_name: "Left Of The Middle"
 date: 2023-04-09
 release_id: "25207813"
 slug: "left-of-the-middle-25207813"
+hideSummary: true
 cover:
     image: "left-of-the-middle-25207813.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Left Of The Middle by Natalie Imbruglia"
+    caption: "Left Of The Middle by Natalie Imbruglia"
+genres: ["Rock", "Pop"]
+styles: ["Soft Rock", "Pop Rock", "Vocal"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Natalie Imbruglia don't you think](https://www.youtube.com/watch?v=JTqHnW29iVI)
 - [Impressed](https://www.youtube.com/watch?v=fs3f3xCU4O4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Natalie Imbruglia - Left Of The Middle](https://www.discogs.com/release/25207813) |
+| Release Year   | 2022 |
+| Discogs Link   | [Natalie Imbruglia - Left Of The Middle](https://www.discogs.com/release/25207813-Natalie-Imbruglia-Left-Of-The-Middle) |
 | Label          | RCA, Sony Music |
 | Format         | LP, Album, Ltd, Num, RE, Blu |
 | Catalog Number | 74321544411 |
+
+ Includes four page booklet 25th anniversary release 180g  A  [version](https://www.discogs.com/release/25225081-Natalie-Imbruglia-Left-Of-The-Middle) including a signed booklet and with a different barcode was exclusively available as a pre-order from the artist's online store.
 

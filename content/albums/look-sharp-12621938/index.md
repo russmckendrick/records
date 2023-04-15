@@ -1,14 +1,17 @@
 ---
 title: "Roxette - Look Sharp!"
-album_artist: "Roxette"
-album_title: "Look Sharp!"
+artist: "Roxette"
+album_name: "Look Sharp!"
 date: 2018-10-19
 release_id: "12621938"
 slug: "look-sharp-12621938"
+hideSummary: true
 cover:
     image: "look-sharp-12621938.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Look Sharp! by Roxette"
+    caption: "Look Sharp! by Roxette"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Roxette - Dressed For Success](https://www.youtube.com/watch?v=kkxj5xVLyj0)
 - [Roxette - Listen To Your Heart (Official Music Video)](https://www.youtube.com/watch?v=yCC_b5WHLX0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Roxette - Look Sharp!](https://www.discogs.com/release/12621938) |
+| Release Year   | 2018 |
+| Discogs Link   | [Roxette - Look Sharp!](https://www.discogs.com/release/12621938-Roxette-Look-Sharp) |
 | Label          | Parlophone |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 5054197026607 |
+
+2018 reissue limited edition red vinyl.
 

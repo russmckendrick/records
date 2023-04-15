@@ -1,14 +1,17 @@
 ---
 title: "Various - Silicon Valley (Music From The HBO Original Series)"
-album_artist: "Various"
-album_title: "Silicon Valley (Music From The HBO Original Series)"
+artist: "Various"
+album_name: "Silicon Valley (Music From The HBO Original Series)"
 date: 2017-09-23
 release_id: "10885801"
 slug: "silicon-valley-music-from-the-hbo-original-series-10885801"
+hideSummary: true
 cover:
     image: "silicon-valley-music-from-the-hbo-original-series-10885801.jpg"
-tags: ["Electronic", "Hip Hop", "Stage & Screen"]
-hideSummary: true
+    alt: "Silicon Valley (Music From The HBO Original Series) by Various"
+    caption: "Silicon Valley (Music From The HBO Original Series) by Various"
+genres: ["Electronic", "Hip Hop", "Stage & Screen"]
+styles: ["Hip Hop", "Trap", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
 - [Stretch Your Face - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Silicon Valley (Music From The HBO Original Series)](https://www.discogs.com/release/10885801) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Silicon Valley (Music From The HBO Original Series)](https://www.discogs.com/release/10885801-Various-Silicon-Valley-Music-From-The-HBO-Original-Series) |
 | Label          | HBO, Mass Appeal |
 | Format         | LP, Album, Comp, Red |
 | Catalog Number | MSAP 0043LP |
+
+Red Vinyl Pressing of Original Soundtrack  Poster insert and digital download card included.
 

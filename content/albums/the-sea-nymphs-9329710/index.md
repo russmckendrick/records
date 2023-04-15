@@ -1,14 +1,17 @@
 ---
 title: "The Sea Nymphs - The Sea Nymphs"
-album_artist: "The Sea Nymphs"
-album_title: "The Sea Nymphs"
+artist: "The Sea Nymphs"
+album_name: "The Sea Nymphs"
 date: 2016-11-09
 release_id: "9329710"
 slug: "the-sea-nymphs-9329710"
+hideSummary: true
 cover:
     image: "the-sea-nymphs-9329710.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Sea Nymphs by The Sea Nymphs"
+    caption: "The Sea Nymphs by The Sea Nymphs"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [The Sea Nymphs - Christ Alive](https://www.youtube.com/watch?v=95POAOWn2xM)
 - [Dog Eat Spine](https://www.youtube.com/watch?v=hKtX4t_MBAA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Sea Nymphs - The Sea Nymphs](https://www.discogs.com/release/9329710) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Sea Nymphs - The Sea Nymphs](https://www.discogs.com/release/9329710-The-Sea-Nymphs-The-Sea-Nymphs) |
 | Label          | The Alphabet Business Concern |
 | Format         | LP, Album, Ltd, Num, RE |
 | Catalog Number | ALPH LP021 |
+
+Limited to 200 numbered, stickered copies.  Includes download card.
 

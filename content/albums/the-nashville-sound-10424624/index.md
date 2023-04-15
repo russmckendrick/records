@@ -1,14 +1,17 @@
 ---
 title: "Jason Isbell And The 400 Unit - The Nashville Sound "
-album_artist: "Jason Isbell And The 400 Unit"
-album_title: "The Nashville Sound "
+artist: "Jason Isbell And The 400 Unit"
+album_name: "The Nashville Sound "
 date: 2017-06-16
 release_id: "10424624"
 slug: "the-nashville-sound-10424624"
+hideSummary: true
 cover:
     image: "the-nashville-sound-10424624.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "The Nashville Sound  by Jason Isbell And The 400 Unit"
+    caption: "The Nashville Sound  by Jason Isbell And The 400 Unit"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Jason Isbell and the 400 Unit - White Man's World](https://www.youtube.com/watch?v=nu4dupoC7EE)
 - [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Jason Isbell And The 400 Unit - The Nashville Sound ](https://www.discogs.com/release/10424624) |
+| Release Year   | 2017 |
+| Discogs Link   | [Jason Isbell And The 400 Unit - The Nashville Sound ](https://www.discogs.com/release/10424624-Jason-Isbell-And-The-400-Unit-The-Nashville-Sound-) |
 | Label          | Southeastern Records (2) |
 | Format         | LP, Album, Ltd, Gat |
 | Catalog Number | SER99881 |
+
+With limited edition songbook. Album download included. 400 Songbooks randomly signed by Jason and the band.  © & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.    Recorded in RCA's "Nashville Sound" Studio.  Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI).
 

@@ -1,14 +1,17 @@
 ---
 title: "John Moreland - High On Tulsa Heat"
-album_artist: "John Moreland"
-album_title: "High On Tulsa Heat"
+artist: "John Moreland"
+album_name: "High On Tulsa Heat"
 date: 2016-01-20
 release_id: "6906611"
 slug: "high-on-tulsa-heat-6906611"
+hideSummary: true
 cover:
     image: "high-on-tulsa-heat-6906611.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "High On Tulsa Heat by John Moreland"
+    caption: "High On Tulsa Heat by John Moreland"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [John Moreland Hang Me in the Tulsa County Stars Live at SXSW 2015 FULL VERSION](https://www.youtube.com/watch?v=7s-oZALFMZ8)
 - [John Moreland - Cherokee (Official Video)](https://www.youtube.com/watch?v=usWrJ8qy5lY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [John Moreland - High On Tulsa Heat](https://www.discogs.com/release/6906611) |
+| Release Year   | 2015 |
+| Discogs Link   | [John Moreland - High On Tulsa Heat](https://www.discogs.com/release/6906611-John-Moreland-High-On-Tulsa-Heat) |
 | Label          | Old Omens |
 | Format         | LP, 180 |
 | Catalog Number | OO01 |
+
+Recorded July - October 2014 in Bixby, OK & Norman, OK.  Cover Lettering By Vanessa Jean Speckman. The album came with a digital download and has a lyric sheet.  Back of lyric sheet says "This is a record about home. Whatever that is." All songs by John Moreland / FTWSNGS (BMI) Except "Hight On Tulsa Heat" by John Moreland & John Calvin Abney III/ FTWSNGS (BMI) & BULLETS IN THE CHAMBER FOLK (BMI)
 

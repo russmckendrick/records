@@ -1,14 +1,17 @@
 ---
 title: "VAST - Music For People"
-album_artist: "VAST"
-album_title: "Music For People"
+artist: "VAST"
+album_name: "Music For People"
 date: 2021-06-12
 release_id: "19112086"
 slug: "music-for-people-19112086"
+hideSummary: true
 cover:
     image: "music-for-people-19112086.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Music For People by VAST"
+    caption: "Music For People by VAST"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [My TV and You](https://www.youtube.com/watch?v=-hMxjuULKx8)
 - [Lady of Dreams](https://www.youtube.com/watch?v=TGMDCKkovBg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [VAST - Music For People](https://www.discogs.com/release/19112086) |
+| Release Year   | 2021 |
+| Discogs Link   | [VAST - Music For People](https://www.discogs.com/release/19112086-VAST-Music-For-People) |
 | Label          | Real Gone Music, Elektra |
 | Format         | LP, Album, RSD, Ltd, RE, Gre |
 | Catalog Number | RGM-1217 |
+
+Limited to 2000 Copies, Exclusive to Record Store Day 2021
 

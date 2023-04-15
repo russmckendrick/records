@@ -1,14 +1,17 @@
 ---
 title: "a-ha - East Of The Sun West Of The Moon "
-album_artist: "a-ha"
-album_title: "East Of The Sun West Of The Moon "
+artist: "a-ha"
+album_name: "East Of The Sun West Of The Moon "
 date: 2021-07-04
 release_id: "16037426"
 slug: "east-of-the-sun-west-of-the-moon-16037426"
+hideSummary: true
 cover:
     image: "east-of-the-sun-west-of-the-moon-16037426.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "East Of The Sun West Of The Moon  by a-ha"
+    caption: "East Of The Sun West Of The Moon  by a-ha"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -58,13 +61,16 @@ hideSummary: true
 - [East of the Sun (Live on NRK)](https://www.youtube.com/watch?v=UO5plzhd8c8)
 - [[Seemingly] Nonstop July (Live on NRK)](https://www.youtube.com/watch?v=A3enY5Fpt_o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [a-ha - East Of The Sun West Of The Moon ](https://www.discogs.com/release/16037426) |
+| Release Year   | 2020 |
+| Discogs Link   | [a-ha - East Of The Sun West Of The Moon ](https://www.discogs.com/release/16037426-a-ha-East-Of-The-Sun-West-Of-The-Moon-) |
 | Label          | Warner Records, Warner Records |
 | Format         | LP, Album, RE, Pur |
 | Catalog Number | RCV1 26314, 603497852253 |
+
+Made in the EU. 180 gram purple vinyl.
 

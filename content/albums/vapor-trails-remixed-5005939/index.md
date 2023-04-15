@@ -1,14 +1,17 @@
 ---
 title: "Rush - Vapor Trails Remixed"
-album_artist: "Rush"
-album_title: "Vapor Trails Remixed"
+artist: "Rush"
+album_name: "Vapor Trails Remixed"
 date: 2015-12-14
 release_id: "5005939"
 slug: "vapor-trails-remixed-5005939"
+hideSummary: true
 cover:
     image: "vapor-trails-remixed-5005939.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Vapor Trails Remixed by Rush"
+    caption: "Vapor Trails Remixed by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Freeze - Part IV Of "Fear" (6:22)
 13. Out Of The Cradle (5:04)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Rush - Vapor Trails Remixed](https://www.discogs.com/release/5005939) |
+| Release Year   | 2013 |
+| Discogs Link   | [Rush - Vapor Trails Remixed](https://www.discogs.com/release/5005939-Rush-Vapor-Trails-Remixed) |
 | Label          | Atlantic, Anthem (5) |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 8122796441 |
+
+Recorded at Reaction Studios, Toronto, January to November, 2001 © 2002 Core Music Publishing (SOCAN) ℗ & © 2013 Atlantic Recording Corporation & Anthem Entertainment.  Single sleeve with two-sided insert.  EU version of this release pressed at Optimal Media GmbH in Germany.  Matrix runouts include matrix numbers for RTI ([l66254]) which suggests that plating was done there.  Printed in E.U. (on labels and sleeve).  Runouts are etched except for "MASTERDISK" which is stamped.
 

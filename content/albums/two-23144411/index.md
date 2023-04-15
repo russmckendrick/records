@@ -1,14 +1,17 @@
 ---
 title: "Dubstar (2) - Two"
-album_artist: "Dubstar (2)"
-album_title: "Two"
+artist: "Dubstar (2)"
+album_name: "Two"
 date: 2022-05-08
 release_id: "23144411"
 slug: "two-23144411"
+hideSummary: true
 cover:
     image: "two-23144411.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Two by Dubstar (2)"
+    caption: "Two by Dubstar (2)"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Tectonic Plates (Extended)](https://www.youtube.com/watch?v=KPmx0XYwuPw)
 - [Tectonic Plates (Dressing Up Extended Mix)](https://www.youtube.com/watch?v=YOlNmpF2VE4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Dubstar (2) - Two](https://www.discogs.com/release/23144411) |
+| Release Year   | 2022 |
+| Discogs Link   | [Dubstar (2) - Two](https://www.discogs.com/release/23144411-Dubstar-Two) |
 | Label          | Northern Writes, Northern Writes |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | NW009VW, NW009V |
+
+Hype sticker: Limited edition white vinyl.  Initial copies from Rough Trade East, London came with a signed print. 
 

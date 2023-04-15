@@ -1,14 +1,17 @@
 ---
 title: "Chapterhouse - Blood Music"
-album_artist: "Chapterhouse"
-album_title: "Blood Music"
+artist: "Chapterhouse"
+album_name: "Blood Music"
 date: 2021-06-17
 release_id: "16103500"
 slug: "blood-music-16103500"
+hideSummary: true
 cover:
     image: "blood-music-16103500.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Blood Music by Chapterhouse"
+    caption: "Blood Music by Chapterhouse"
+genres: ["Rock"]
+styles: ["Indie Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)](https://www.youtube.com/watch?v=0bgXNI4Fc7E)
 - [Chapterhouse - Picnic](https://www.youtube.com/watch?v=uFcBEq2pfmU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Chapterhouse - Blood Music](https://www.discogs.com/release/16103500) |
+| Release Year   | 2020 |
+| Discogs Link   | [Chapterhouse - Blood Music](https://www.discogs.com/release/16103500-Chapterhouse-Blood-Music) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Ltd, Num, RE, Red |
 | Catalog Number | MOVLP2700 |
+
+Limited edition of 2000 numbered copies on transparent red vinyl. 180 gram audiophile vinyl
 

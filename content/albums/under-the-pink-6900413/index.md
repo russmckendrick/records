@@ -1,14 +1,17 @@
 ---
 title: "Tori Amos - Under The Pink"
-album_artist: "Tori Amos"
-album_title: "Under The Pink"
+artist: "Tori Amos"
+album_name: "Under The Pink"
 date: 2017-05-19
 release_id: "6900413"
 slug: "under-the-pink-6900413"
+hideSummary: true
 cover:
     image: "under-the-pink-6900413.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Under The Pink by Tori Amos"
+    caption: "Under The Pink by Tori Amos"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Tori Amos - Cornflake Girl (US Version) (Official Music Video)](https://www.youtube.com/watch?v=w_HA5Czhtx4)
 - [Tori Amos - Cornflake Girl (UK Version) (Official Music Video)](https://www.youtube.com/watch?v=mVSuSsoXABQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Tori Amos - Under The Pink](https://www.discogs.com/release/6900413) |
+| Release Year   | 2015 |
+| Discogs Link   | [Tori Amos - Under The Pink](https://www.discogs.com/release/6900413-Tori-Amos-Under-The-Pink) |
 | Label          | Atlantic |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 081227957841 |
+
+180 gram 2015 remastered reissue. Half speed master.
 

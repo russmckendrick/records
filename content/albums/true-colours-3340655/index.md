@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - True Colours"
-album_artist: "Split Enz"
-album_title: "True Colours"
+artist: "Split Enz"
+album_name: "True Colours"
 date: 2016-01-20
 release_id: "3340655"
 slug: "true-colours-3340655"
+hideSummary: true
 cover:
     image: "true-colours-3340655.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "True Colours by Split Enz"
+    caption: "True Colours by Split Enz"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
 - [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/3340655) |
+| Release Year   | 1980 |
+| Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/3340655-Split-Enz-True-Colours) |
 | Label          | A&M Records, A&M Records |
 | Format         | LP, Album, Etch, Blu |
 | Catalog Number | SP-4822, SP 4822 |
+
+Holographic etched vinyl. There also exists a Red cover, a Purple cover, and a Yellow cover.  Released with a printed inner photo-sleeve  Cat # on back cover & spine: SP-4822 Cat # on centre label: SP 4822  Printed on back cover: [Boomerang Productions logo] A Boomerang Production. Recorded at Armstrongs, Melbourne, Australia. [Champion Entertainment Organization Inc. logo] © 1980 A&M Records, Inc. ℗ 1979 Mushroom Records Pty. Ltd. Fabriqué et Distribué par/Manufactured and Distributed by A & M Records of Canada Limited  Printed on A-side label: [Boomerang Productions logo] A Boomerang Production All selections published by Enz Music ℗ 1979 Mushroom Records Pty. Ltd. Manufactured and Distributed by A&M Records, Inc. © 1980 A&M Records, Inc. 
 

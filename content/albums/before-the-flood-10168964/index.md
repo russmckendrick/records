@@ -1,14 +1,17 @@
 ---
 title: "Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai - Before The Flood"
-album_artist: "Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai"
-album_title: "Before The Flood"
+artist: "Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai"
+album_name: "Before The Flood"
 date: 2017-04-28
 release_id: "10168964"
 slug: "before-the-flood-10168964"
+hideSummary: true
 cover:
     image: "before-the-flood-10168964.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Before The Flood by Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai"
+    caption: "Before The Flood by Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Ambient", "Dark Ambient"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [After the Flood](https://www.youtube.com/watch?v=E9p8ytb0l6k)
 - [Trent Reznor & Atticus Ross & Gustavo Santaolalla - At Dusk](https://www.youtube.com/watch?v=jiJ451tMBUY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai - Before The Flood](https://www.discogs.com/release/10168964) |
+| Release Year   | 2017 |
+| Discogs Link   | [Trent Reznor & Atticus Ross, Gustavo Santaolalla, Mogwai - Before The Flood](https://www.discogs.com/release/10168964-Trent-Reznor-Atticus-Ross-Gustavo-Santaolalla-Mogwai-Before-The-Flood) |
 | Label          | Lakeshore Records, Invada Records |
 | Format         | 2xLP + LP, S/Sided + Album, 180 |
 | Catalog Number | LSINV178LP, NULL 04 |
+
+Released in a 3 panel gatefold sleeve.  Hype Sticker - A collaboration between Trent Reznor / Atticus Ross, Mogwai and Gustavo Santaolalla for Fisher Steven's acclaimed climate change documentary. 3xLP pressed on 180 gram vinyl. Includes the track "A Minute to Breathe".  Cover image taken from the Before The Flood key art, provided by National Geographic. Photography provided by NASA, from the images of Change collection.  Mastered at Baker Mastering. Vinyl mastering for Bernie Grundmann Mastering, L.A., CA.  Publishing and recording studio details - A2, B3, D1, D3 to E2: T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP) A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)  A1, A3, B5, C3, C4: G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP) T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP) A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)  B2, C1, D2: G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP)  B1, B4, C2, E3: Recorded and mixed at Castle of Doom Studios, Glasgow, Scotland. Mogwai ©2016 Tomorrow's Hits (ASCAP)
 

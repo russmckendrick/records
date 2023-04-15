@@ -1,14 +1,17 @@
 ---
 title: "NOFX - The Greatest Songs Ever Written... By Us"
-album_artist: "NOFX"
-album_title: "The Greatest Songs Ever Written... By Us"
+artist: "NOFX"
+album_name: "The Greatest Songs Ever Written... By Us"
 date: 2018-11-26
 release_id: "12707979"
 slug: "the-greatest-songs-ever-written-by-us-12707979"
+hideSummary: true
 cover:
     image: "the-greatest-songs-ever-written-by-us-12707979.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Greatest Songs Ever Written... By Us by NOFX"
+    caption: "The Greatest Songs Ever Written... By Us by NOFX"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [NOFX - Stickin in My Eye](https://www.youtube.com/watch?v=LGY-RDRu98U)
 - [NOFX - It's My Job to Keep Punk Rock Elite](https://www.youtube.com/watch?v=tMl26jQtvTM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [NOFX - The Greatest Songs Ever Written... By Us](https://www.discogs.com/release/12707979) |
+| Release Year   | 2018 |
+| Discogs Link   | [NOFX - The Greatest Songs Ever Written... By Us](https://www.discogs.com/release/12707979-NOFX-The-Greatest-Songs-Ever-Written-By-Us) |
 | Label          | Epitaph Europe |
 | Format         | 2xLP, Comp, Gre |
 | Catalog Number | 6727-1 |
+
+Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies.
 

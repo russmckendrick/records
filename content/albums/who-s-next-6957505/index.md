@@ -1,14 +1,17 @@
 ---
 title: "The Who - Who's Next"
-album_artist: "The Who"
-album_title: "Who's Next"
+artist: "The Who"
+album_name: "Who's Next"
 date: 2015-08-09
 release_id: "6957505"
 slug: "who-s-next-6957505"
+hideSummary: true
 cover:
     image: "who-s-next-6957505.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Who's Next by The Who"
+    caption: "Who's Next by The Who"
+genres: ["Rock"]
+styles: ["Hard Rock", "Mod"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="v2lSNMiaPeA" title="[Full Album] T̲he W̲ho - W̲ho's N̲ext" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Who - Who's Next](https://www.discogs.com/release/6957505) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Who - Who's Next](https://www.discogs.com/release/6957505-The-Who-Whos-Next) |
 | Label          | Polydor, Universal Music Catalogue, Track Record |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 3715614 |
+
+℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.  Made in the EU.
 

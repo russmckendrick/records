@@ -1,14 +1,17 @@
 ---
 title: "Big Star - #1 Record"
-album_artist: "Big Star"
-album_title: "#1 Record"
+artist: "Big Star"
+album_name: "#1 Record"
 date: 2020-03-07
 release_id: "14696642"
 slug: "1-record-14696642"
+hideSummary: true
 cover:
     image: "1-record-14696642.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "#1 Record by Big Star"
+    caption: "#1 Record by Big Star"
+genres: ["Rock"]
+styles: ["Power Pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Big Star, #1 Record, Side 2, Part 1](https://www.youtube.com/watch?v=fxxJr9Z3mz8)
 - [Big Star, #1 Record, Side 2, Part 2](https://www.youtube.com/watch?v=hcrJGnkimM4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Big Star - #1 Record](https://www.discogs.com/release/14696642) |
+| Release Year   | 2020 |
+| Discogs Link   | [Big Star - #1 Record](https://www.discogs.com/release/14696642-Big-Star-1-Record) |
 | Label          | Ardent Records (2), Craft Recordings |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | CR00211 |
+
+Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched.
 

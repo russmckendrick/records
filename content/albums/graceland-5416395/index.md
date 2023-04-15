@@ -1,14 +1,17 @@
 ---
 title: "Paul Simon - Graceland"
-album_artist: "Paul Simon"
-album_title: "Graceland"
+artist: "Paul Simon"
+album_name: "Graceland"
 date: 2016-01-13
 release_id: "5416395"
 slug: "graceland-5416395"
+hideSummary: true
 cover:
     image: "graceland-5416395.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Graceland by Paul Simon"
+    caption: "Graceland by Paul Simon"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Pop Rock", "African"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Paul Simon - Crazy Love (Demo - Official Audio)](https://www.youtube.com/watch?v=LfG5lOsE5fE)
 - [The Story of Graceland as Told by Paul Simon](https://www.youtube.com/watch?v=ZHaGhF_vhjk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Paul Simon - Graceland](https://www.discogs.com/release/5416395) |
+| Release Year   | 1986 |
+| Discogs Link   | [Paul Simon - Graceland](https://www.discogs.com/release/5416395-Paul-Simon-Graceland) |
 | Label          | Warner Bros. Records |
 | Format         | LP, Album, Emb |
 | Catalog Number | WX 52 |
+
+All Rights in the U.K. & Eire controlled by Pattern M. Ltd. Embossed horseman picture on front cover (very slightly raised).
 

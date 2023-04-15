@@ -1,14 +1,17 @@
 ---
 title: "Thank You Scientist - Terraformer"
-album_artist: "Thank You Scientist"
-album_title: "Terraformer"
+artist: "Thank You Scientist"
+album_name: "Terraformer"
 date: 2019-08-16
 release_id: "13732222"
 slug: "terraformer-13732222"
+hideSummary: true
 cover:
     image: "terraformer-13732222.jpg"
-tags: ["Jazz", "Rock"]
-hideSummary: true
+    alt: "Terraformer by Thank You Scientist"
+    caption: "Terraformer by Thank You Scientist"
+genres: ["Jazz", "Rock"]
+styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Everyday Ghosts](https://www.youtube.com/watch?v=G7Vznh_e5LE)
 - [Son of a Serpent](https://www.youtube.com/watch?v=4yv83xBR0Rw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Thank You Scientist - Terraformer](https://www.discogs.com/release/13732222) |
+| Release Year   | 2019 |
+| Discogs Link   | [Thank You Scientist - Terraformer](https://www.discogs.com/release/13732222-Thank-You-Scientist-Terraformer) |
 | Label          | Evil Ink Records |
 | Format         | 2xLP, Album, Ltd, Red |
 | Catalog Number | EI304 |
+
+First Pressing out of 1500 copies Comes in a gatefold sleeve with standard white inner sleeves.  20 pages Booklet. And Hype sticker on the sealed sleeve.  750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards.
 

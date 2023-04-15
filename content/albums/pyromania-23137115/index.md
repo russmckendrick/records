@@ -1,14 +1,17 @@
 ---
 title: "Def Leppard - Pyromania"
-album_artist: "Def Leppard"
-album_title: "Pyromania"
+artist: "Def Leppard"
+album_name: "Pyromania"
 date: 2022-05-09
 release_id: "23137115"
 slug: "pyromania-23137115"
+hideSummary: true
 cover:
     image: "pyromania-23137115.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pyromania by Def Leppard"
+    caption: "Pyromania by Def Leppard"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)
 - [Too Late For Love -- Def Leppard .HD +Перевод](https://www.youtube.com/watch?v=F_3qbVA692c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115) |
+| Release Year   | 2022 |
+| Discogs Link   | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115-Def-Leppard-Pyromania) |
 | Label          | Vertigo, UMC |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 5777362 |
+
+2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios.
 

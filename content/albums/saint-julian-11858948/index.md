@@ -1,14 +1,17 @@
 ---
 title: "Julian Cope - Saint Julian"
-album_artist: "Julian Cope"
-album_title: "Saint Julian"
+artist: "Julian Cope"
+album_name: "Saint Julian"
 date: 2018-04-14
 release_id: "11858948"
 slug: "saint-julian-11858948"
+hideSummary: true
 cover:
     image: "saint-julian-11858948.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Saint Julian by Julian Cope"
+    caption: "Saint Julian by Julian Cope"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
 - [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Julian Cope - Saint Julian](https://www.discogs.com/release/11858948) |
+| Release Year   | 2018 |
+| Discogs Link   | [Julian Cope - Saint Julian](https://www.discogs.com/release/11858948-Julian-Cope-Saint-Julian) |
 | Label          | Island Records |
 | Format         | LP, Album, RE |
 | Catalog Number | ILPS 9861 |
+
+
 

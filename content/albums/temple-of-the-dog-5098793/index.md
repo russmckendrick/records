@@ -1,14 +1,17 @@
 ---
 title: "Temple Of The Dog - Temple Of The Dog"
-album_artist: "Temple Of The Dog"
-album_title: "Temple Of The Dog"
+artist: "Temple Of The Dog"
+album_name: "Temple Of The Dog"
 date: 2015-10-02
 release_id: "5098793"
 slug: "temple-of-the-dog-5098793"
+hideSummary: true
 cover:
     image: "temple-of-the-dog-5098793.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Temple Of The Dog by Temple Of The Dog"
+    caption: "Temple Of The Dog by Temple Of The Dog"
+genres: ["Rock"]
+styles: ["Grunge", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="VUb450Alpps" title="Temple Of The Dog - Hunger Strike" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Temple Of The Dog - Temple Of The Dog](https://www.discogs.com/release/5098793) |
+| Release Year   | 2013 |
+| Discogs Link   | [Temple Of The Dog - Temple Of The Dog](https://www.discogs.com/release/5098793-Temple-Of-The-Dog-Temple-Of-The-Dog) |
 | Label          | Music On Vinyl, A&M Records |
 | Format         | LP + LP, S/Sided, Etch + Album, RE, 180 |
 | Catalog Number | MOVLP956 |
+
+A golden sticker is affixed to the resealable outer sleeve, reading:  "Music On Vinyl®. TEMPLE OF THE DOG. "TEMPLE OF THE DOG". The legendary album. Including an insert with lyrics and etched D-side. 180 gram audiophile vinyl. www.musiconvinyl.com. MOVLP956.".  Recorded weekends at London Bridge Studios, Seattle, WA Nov-Dec 1990. Mastered at A&M Mastering Studios.  Original release ℗ 1991 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Manufactured & distributed by Music On Vinyl B.V. for Universal Music B.V. Made in the EU. _____________________________________________________________  Track durations printed on side three are incorrect: they mimic those found on side two.
 

@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Script For A Jester's Tear"
-album_artist: "Marillion"
-album_title: "Script For A Jester's Tear"
+artist: "Marillion"
+album_name: "Script For A Jester's Tear"
 date: 2020-05-31
 release_id: "14981330"
 slug: "script-for-a-jester-s-tear-14981330"
+hideSummary: true
 cover:
     image: "script-for-a-jester-s-tear-14981330.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Script For A Jester's Tear by Marillion"
+    caption: "Script For A Jester's Tear by Marillion"
+genres: ["Rock"]
+styles: ["Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="SbxqsbUo7dQ" title="Marillion - He Knows You Know (Script For A Jester's Tear) (Italian CD Reissue)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Marillion - Script For A Jester's Tear](https://www.discogs.com/release/14981330) |
+| Release Year   | 2020 |
+| Discogs Link   | [Marillion - Script For A Jester's Tear](https://www.discogs.com/release/14981330-Marillion-Script-For-A-Jesters-Tear) |
 | Label          | Parlophone Records Ltd. |
 | Format         | Box, Ltd + 4xLP, Album, EP, Ltd |
 | Catalog Number | 0190295316686 |
+
+Limited Edition 4LP Box Set  Original 1983 Album Remixed Market Square Heroes EP Remixed (with the exception of 3-3: only remastered) Unreleased 1982 Live Show (on 2 LPs) 24 Page Booklet containing rare photos, new artwork and memorabilia Plus extended essay from Prog Magazine editor Jerry Ewing  Signed by Fish if preordered from Fish's website. Signed Script for a Jester's Tear print (Steve Rothery, Pete Trewavas, Mark Kelly, Mick Pointer) if pre-ordered from Marillion's website.  Track H2 is listed on the label as Script For A Jester's Tear but it's actually Market Square Heroes as listed On the back cover and on the inner sleeve.  ℗ 2020 this compilation Parlophone Records Ltd.  © 2020 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2020 Parlophone Records Ltd. A Warner Music Group Company. Made in the EU. 
 

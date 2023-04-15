@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Powertrip"
-album_artist: "Monster Magnet"
-album_title: "Powertrip"
+artist: "Monster Magnet"
+album_name: "Powertrip"
 date: 2016-07-10
 release_id: "8112587"
 slug: "powertrip-8112587"
+hideSummary: true
 cover:
     image: "powertrip-8112587.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Powertrip by Monster Magnet"
+    caption: "Powertrip by Monster Magnet"
+genres: ["Rock"]
+styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
 - [Monster Magnet – See You In Hell](https://www.youtube.com/watch?v=MRrEUZLWD9o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Monster Magnet - Powertrip](https://www.discogs.com/release/8112587) |
+| Release Year   | 2016 |
+| Discogs Link   | [Monster Magnet - Powertrip](https://www.discogs.com/release/8112587-Monster-Magnet-Powertrip) |
 | Label          | Spinefarm Records, Universal Music Group |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 00600753637661 |
+
+Black vinyl. Printed inner sleeves.  Hype sticker on the shrink-wrap: MONSTER MAGNET OFFICIAL RE-ISSUE 2LP SET RE-MASTERED FOR MAXIMUM POWERTRIPPIN! "Swing's like God's Own Dick!" Includes sleeve-notes & bonus studio + remixed material Includes Free Album Download Code 00600753637661  Recorded at North Vine Studios and NRG Recording Services. Mixed at The Armoury Studios, Vancouver, BC, Chapel Studios, Encino, CA, Larrabee West, Hollywood, CA, and A&M Recording Studios, Hollywood, CA. Mastered at Precision Sound Studios, Los Angeles, CA.  All songs published by Bull God Music Inc./Songs of PolyGram International, Inc. (BMI)  Original Sound Recording Made by A&M Records Ltd.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company. Made in the EU.
 

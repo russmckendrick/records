@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - Remixes"
-album_artist: "Kraftwerk"
-album_title: "Remixes"
+artist: "Kraftwerk"
+album_name: "Remixes"
 date: 2022-04-01
 release_id: "22627976"
 slug: "remixes-22627976"
+hideSummary: true
 cover:
     image: "remixes-22627976.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Remixes by Kraftwerk"
+    caption: "Remixes by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Kraftwerk Remixes   CD1](https://www.youtube.com/watch?v=pDeR-ZtfTpw)
 - [Kraftwerk Remixes - CD2 (Kling Klang Product 2022. - Ralf Hütter)](https://www.youtube.com/watch?v=4P_KvcjCgiw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Kraftwerk - Remixes](https://www.discogs.com/release/22627976) |
+| Release Year   | 2022 |
+| Discogs Link   | [Kraftwerk - Remixes](https://www.discogs.com/release/22627976-Kraftwerk-Remixes) |
 | Label          | Kling Klang, Parlophone |
 | Format         | 3xLP, Comp, 180 |
 | Catalog Number | 0190296504761 |
+
+Kling Klang Produkt Ralf Hütter 2022 This Compilation ℗ + © 2022 Ralf Hütter/Kraftwerk® under exclusive licence to Parlophone Records Limited. Made in Germany.  Issued in wide-spine sleeve with matte-finish inners.  1V, 1||, 1|Λ and 1|V in runouts are mirrored.  Track F1 was previously issued as Tour De France 2003 (Étape 2), whereas this is an edit. None of the remixer credits are included.  Some copies issued with "Made In Germany" sticker on rear album cover.
 

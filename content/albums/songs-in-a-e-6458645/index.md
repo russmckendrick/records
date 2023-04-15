@@ -1,14 +1,17 @@
 ---
 title: "Spiritualized - Songs In A&E"
-album_artist: "Spiritualized"
-album_title: "Songs In A&E"
+artist: "Spiritualized"
+album_name: "Songs In A&E"
 date: 2021-11-24
 release_id: "6458645"
 slug: "songs-in-a-e-6458645"
+hideSummary: true
 cover:
     image: "songs-in-a-e-6458645.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Songs In A&E by Spiritualized"
+    caption: "Songs In A&E by Spiritualized"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Space Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Soul On Fire](https://www.youtube.com/watch?v=-DHGimTS7lQ)
 - [Sweet Talk](https://www.youtube.com/watch?v=6pb_8WVXgFs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Spiritualized - Songs In A&E](https://www.discogs.com/release/6458645) |
+| Release Year   | 2014 |
+| Discogs Link   | [Spiritualized - Songs In A&E](https://www.discogs.com/release/6458645-Spiritualized-Songs-In-AE) |
 | Label          | Sanctuary Records |
 | Format         | 2xLP, Album, Ltd, RE, Whi |
 | Catalog Number | 1768732 |
+
+
 

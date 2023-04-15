@@ -1,14 +1,17 @@
 ---
 title: "Ghost (32) - Opvs Eponymovs"
-album_artist: "Ghost (32)"
-album_title: "Opvs Eponymovs"
+artist: "Ghost (32)"
+album_name: "Opvs Eponymovs"
 date: 2018-09-18
 release_id: "2649116"
 slug: "opvs-eponymovs-2649116"
+hideSummary: true
 cover:
     image: "opvs-eponymovs-2649116.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Opvs Eponymovs by Ghost (32)"
+    caption: "Opvs Eponymovs by Ghost (32)"
+genres: ["Rock"]
+styles: ["Doom Metal", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="qJy-hdKT5wM" title="Ghost Death Knell (OFFICIAL)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Ghost (32) - Opvs Eponymovs](https://www.discogs.com/release/2649116) |
+| Release Year   | 2010 |
+| Discogs Link   | [Ghost (32) - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-Opvs-Eponymovs) |
 | Label          | Rise Above Records |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | RISELP124 |
+
+Album is also known as "Opus Eponymous".   Recorded at Manfire Recordings. Additional recordings done at White Light Studio. Mixed and mastered at Orgone Mastering.  ℗ 2010 Rise Above. © 2010 Rise Above.  Limited to 300 on green with black splatter .  
 

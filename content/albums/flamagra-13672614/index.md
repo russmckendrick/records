@@ -1,14 +1,17 @@
 ---
 title: "Flying Lotus - Flamagra"
-album_artist: "Flying Lotus"
-album_title: "Flamagra"
+artist: "Flying Lotus"
+album_name: "Flamagra"
 date: 2019-05-25
 release_id: "13672614"
 slug: "flamagra-13672614"
+hideSummary: true
 cover:
     image: "flamagra-13672614.jpg"
-tags: ["Electronic", "Hip Hop", "Jazz"]
-hideSummary: true
+    alt: "Flamagra by Flying Lotus"
+    caption: "Flamagra by Flying Lotus"
+genres: ["Electronic", "Hip Hop", "Jazz"]
+styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 ---
 
 ## Tracklisting
@@ -89,13 +92,16 @@ hideSummary: true
 - [Thank U Malcolm](https://www.youtube.com/watch?v=lYPgHsI1mkw)
 - [Hot Oct.](https://www.youtube.com/watch?v=mRo8gxvhJCg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Flying Lotus - Flamagra](https://www.discogs.com/release/13672614) |
+| Release Year   | 2019 |
+| Discogs Link   | [Flying Lotus - Flamagra](https://www.discogs.com/release/13672614-Flying-Lotus-Flamagra) |
 | Label          | Warp Records |
 | Format         | 2xLP, Album, Ltd, Red |
 | Catalog Number | WARPLP291 |
+
+Rough Trade Shops exclusive edition pressed on red vinyl and issued in a gatefold sleeve with printed die-cut inner sleeves. All sleeves bear a glossy finish. Accompanied by an MP3 download card redeemable through the Bleep website. Limited to 1,000 copies.  "Black Balloons Reprise" contains a sample of "Ten Et Tiwa" by Alain Goraguer - © and ℗ Sugarmusic France S.a.r.l., courtesy of Creazioni Artistiche Musicali C.A.M. S.r.l.  Artwork collage contains elements of: Göran Nilsson, Hole Observatory - "Iris Nebula"; Harel Boren - "Chaotic Carina Nebula"; Chuck Ayoub - "Orion Nebula"; Rawastrodata - "The Horsehead Nebula"; Ken Crawford - "Cygnus Wall"; Dylan O'Donnell - "Carina The Keyhole Nebula"; NASA, ESA, and The Hubble Heritage Team - "NGC 3324 Hubble"; N. Smith (University of California, Berkeley) and NOAO/AURA/NSF - "Carina Nebula Detail"
 

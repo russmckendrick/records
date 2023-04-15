@@ -1,14 +1,17 @@
 ---
 title: "David Holmes - The Holy Pictures"
-album_artist: "David Holmes"
-album_title: "The Holy Pictures"
+artist: "David Holmes"
+album_name: "The Holy Pictures"
 date: 2019-07-28
 release_id: "13930358"
 slug: "the-holy-pictures-13930358"
+hideSummary: true
 cover:
     image: "the-holy-pictures-13930358.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Holy Pictures by David Holmes"
+    caption: "The Holy Pictures by David Holmes"
+genres: ["Electronic", "Rock"]
+styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Birth](https://www.youtube.com/watch?v=NBJbTv2bJvM)
 - [The Ballad Of Sarah And Jack](https://www.youtube.com/watch?v=DW_VfSnsUrg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [David Holmes - The Holy Pictures](https://www.discogs.com/release/13930358) |
+| Release Year   | 2019 |
+| Discogs Link   | [David Holmes - The Holy Pictures](https://www.discogs.com/release/13930358-David-Holmes-The-Holy-Pictures) |
 | Label          | 3 Loop Music |
 | Format         | LP, Album, RE |
 | Catalog Number | 3RANGE54LP |
+
+Tracks A1, A3, A4, B1, B2, B5: Recorded at Drama Recording, Belfast.  Tracks A2, A5, B3: Recorded at Drama Recording, Belfast and Echo Rec, Los Angeles. Track B4: Recorded at Echo Rec, Los Angeles.  Tracks A1, A2, A4, B1, B2, B5: Mixed at Mayfair Studios, London. Tracks A3, A5, B3: Mixed at Air Studios, London. Track B4: Mixed at Echo Rec, Los Angeles.  The recording credit on track B5 is missing. It says "Recorded By At Drama ...".  ℗ 2008 and © 2008, 2019 Mercury Records Limited. Made in the EU.  Publishers: Track A1: Universal Music Publishing Ltd. / Peacefrog Music Ltd. / Revega Publishing Company. Tracks A2, A5 to B4: Universal Music Publishing Ltd. Track A3: Universal Music Publishing Ltd. / Copyright Control. Track A4: Universal Music Publishing Ltd. / Peacefrog Music Ltd. Track B5: Universal Music Publishing Ltd. / Just Publishing.
 

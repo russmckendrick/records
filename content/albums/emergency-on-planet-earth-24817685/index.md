@@ -1,14 +1,17 @@
 ---
 title: "Jamiroquai - Emergency On Planet Earth"
-album_artist: "Jamiroquai"
-album_title: "Emergency On Planet Earth"
+artist: "Jamiroquai"
+album_name: "Emergency On Planet Earth"
 date: 2022-10-14
 release_id: "24817685"
 slug: "emergency-on-planet-earth-24817685"
+hideSummary: true
 cover:
     image: "emergency-on-planet-earth-24817685.jpg"
-tags: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Emergency On Planet Earth by Jamiroquai"
+    caption: "Emergency On Planet Earth by Jamiroquai"
+genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
+styles: ["Acid Jazz"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Jamiroquai - Revolution 1993 (Audio)](https://www.youtube.com/watch?v=bKzV1pLDNp4)
 - [Jamiroquai - Didgin' Out (Audio)](https://www.youtube.com/watch?v=pvyLdqbiHVg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jamiroquai - Emergency On Planet Earth](https://www.discogs.com/release/24817685) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jamiroquai - Emergency On Planet Earth](https://www.discogs.com/release/24817685-Jamiroquai-Emergency-On-Planet-Earth) |
 | Label          | Sony Music, Legacy |
 | Format         | 2xLP, Album, RE, S/Edition, Cle |
 | Catalog Number | 19658702311 |
+
+Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.  Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:06 is printed on the centre label on the record.  Made in the EU.
 

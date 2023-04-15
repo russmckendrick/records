@@ -1,14 +1,17 @@
 ---
 title: "Mazzy Star - Ghost Highway"
-album_artist: "Mazzy Star"
-album_title: "Ghost Highway"
+artist: "Mazzy Star"
+album_name: "Ghost Highway"
 date: 2023-03-20
 release_id: "16210745"
 slug: "ghost-highway-16210745"
+hideSummary: true
 cover:
     image: "ghost-highway-16210745.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ghost Highway by Mazzy Star"
+    caption: "Ghost Highway by Mazzy Star"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Give You My Lovin](https://www.youtube.com/watch?v=nnFnjUl94b8)
 - [Ghost Highway](https://www.youtube.com/watch?v=-61E8zxzTME)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Mazzy Star - Ghost Highway](https://www.discogs.com/release/16210745) |
+| Release Year   | 2020 |
+| Discogs Link   | [Mazzy Star - Ghost Highway](https://www.discogs.com/release/16210745-Mazzy-Star-Ghost-Highway) |
 | Label          | Easy Action |
 | Format         | 2xLP, RM, Pur |
 | Catalog Number | EARS152LP |
+
+A1-B4 Recorded at The Metro Chicago 12th November 1994 . C1 Recorded at Maison de la Radio, Studio 105 October 1993. C2-D3 Recorded at KROQ Los Angeles 10th December 1994. Comes in gatefold sleeve. The Winter of '94 and a year after the release of the sublime "So Tonight That I Might See", Mazzy Star find themselves still touring and promoting the album, some of the songs featured here are from that album such as Into Dust, Bells Ring the title track and the hit single Fade Into You. Whilst songs like Flowers in December would turn up on the next album released a whole two years later. Four of the selections are from the critically acclaimed first album She Hangs Brightly issued in 1990, including the Sylvia Gomez penned "Give You My Lovin' "and the obscure German band Slapp Happy cover of Blue Flower
 

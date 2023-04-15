@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - 8 Years Later "
-album_artist: "The Pineapple Thief"
-album_title: "8 Years Later "
+artist: "The Pineapple Thief"
+album_name: "8 Years Later "
 date: 2018-05-05
 release_id: "11895351"
 slug: "8-years-later-11895351"
+hideSummary: true
 cover:
     image: "8-years-later-11895351.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "8 Years Later  by The Pineapple Thief"
+    caption: "8 Years Later  by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Prog Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -20,16 +23,17 @@ hideSummary: true
 6. The Confined Escape
 7. Our Shelter
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Pineapple Thief - 8 Years Later ](https://www.discogs.com/release/11895351) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Pineapple Thief - 8 Years Later ](https://www.discogs.com/release/11895351-The-Pineapple-Thief-8-Years-Later-) |
 | Label          | Kscope |
 | Format         | LP, Album, Ltd, 180 |
 | Catalog Number | Kscope974 |
+
+Limited edition Record Store Day 2018 release. 
 

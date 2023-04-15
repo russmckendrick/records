@@ -1,14 +1,17 @@
 ---
 title: "Leon Bridges - Coming Home"
-album_artist: "Leon Bridges"
-album_title: "Coming Home"
+artist: "Leon Bridges"
+album_name: "Coming Home"
 date: 2015-08-09
 release_id: "7146187"
 slug: "coming-home-7146187"
+hideSummary: true
 cover:
     image: "coming-home-7146187.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Coming Home by Leon Bridges"
+    caption: "Coming Home by Leon Bridges"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Funk", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Here In My Arms](https://www.youtube.com/watch?v=qmoLKDAMKJM)
 - [Mississippi Kisses](https://www.youtube.com/watch?v=SV3d1U6gEK4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Leon Bridges - Coming Home](https://www.discogs.com/release/7146187) |
+| Release Year   | 2015 |
+| Discogs Link   | [Leon Bridges - Coming Home](https://www.discogs.com/release/7146187-Leon-Bridges-Coming-Home) |
 | Label          | Columbia |
 | Format         | LP, Album, 180 |
 | Catalog Number | 88875 08914 1 |
+
+180 gram vinyl with MP3 download.  All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP).
 

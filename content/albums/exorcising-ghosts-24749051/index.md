@@ -1,14 +1,17 @@
 ---
 title: "Japan - Exorcising Ghosts"
-album_artist: "Japan"
-album_title: "Exorcising Ghosts"
+artist: "Japan"
+album_name: "Exorcising Ghosts"
 date: 2022-10-21
 release_id: "24749051"
 slug: "exorcising-ghosts-24749051"
+hideSummary: true
 cover:
     image: "exorcising-ghosts-24749051.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Exorcising Ghosts by Japan"
+    caption: "Exorcising Ghosts by Japan"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop", "New Wave"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)
 - [The Art Of Parties](https://www.youtube.com/watch?v=KKXdKGYAnt4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Japan - Exorcising Ghosts](https://www.discogs.com/release/24749051) |
+| Release Year   | 2022 |
+| Discogs Link   | [Japan - Exorcising Ghosts](https://www.discogs.com/release/24749051-Japan-Exorcising-Ghosts) |
 | Label          | Virgin EMI Records, UMC |
 | Format         | 2xLP, Comp, RE, Hal |
 | Catalog Number | ARHSDLP009 |
+
+A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.  ℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd.   © 2022 Virgin Records Limited.  Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.  Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Iron Butterfly - In-A-Gadda-Da-Vida"
-album_artist: "Iron Butterfly"
-album_title: "In-A-Gadda-Da-Vida"
+artist: "Iron Butterfly"
+album_name: "In-A-Gadda-Da-Vida"
 date: 2017-01-30
 release_id: "9641670"
 slug: "in-a-gadda-da-vida-9641670"
+hideSummary: true
 cover:
     image: "in-a-gadda-da-vida-9641670.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In-A-Gadda-Da-Vida by Iron Butterfly"
+    caption: "In-A-Gadda-Da-Vida by Iron Butterfly"
+genres: ["Rock"]
+styles: ["Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Are You Happy](https://www.youtube.com/watch?v=XcSZTBuQyK4)
 - [In-A-Gadda-Da-Vida (2006 Remaster Full-Length)](https://www.youtube.com/watch?v=Tfpn3wHoNGA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Iron Butterfly - In-A-Gadda-Da-Vida](https://www.discogs.com/release/9641670) |
+| Release Year   | 2017 |
+| Discogs Link   | [Iron Butterfly - In-A-Gadda-Da-Vida](https://www.discogs.com/release/9641670-Iron-Butterfly-In-A-Gadda-Da-Vida) |
 | Label          | ATCO Records, ATCO Records |
 | Format         | LP, Album, Ltd, RE, Smo |
 | Catalog Number | 081227941918, R1 33250 |
+
+Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"  Ref. on the spine :  081227941918  Made in E.U. : on rear cover  (P) & (C) 2017, 1968 Atlantic Recording Corporation
 

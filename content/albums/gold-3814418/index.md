@@ -1,14 +1,17 @@
 ---
 title: "Ryan Adams - Gold"
-album_artist: "Ryan Adams"
-album_title: "Gold"
+artist: "Ryan Adams"
+album_name: "Gold"
 date: 2016-02-16
 release_id: "3814418"
 slug: "gold-3814418"
+hideSummary: true
 cover:
     image: "gold-3814418.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Gold by Ryan Adams"
+    caption: "Gold by Ryan Adams"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Sylvia Plath](https://www.youtube.com/watch?v=-xx6TFd9Xmw)
 - [Touch, Feel & Lose](https://www.youtube.com/watch?v=yUDIF-bmjV8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [Ryan Adams - Gold](https://www.discogs.com/release/3814418) |
+| Release Year   | 2008 |
+| Discogs Link   | [Ryan Adams - Gold](https://www.discogs.com/release/3814418-Ryan-Adams-Gold) |
 | Label          | Lost Highway |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 008817023519 |
+
+
 

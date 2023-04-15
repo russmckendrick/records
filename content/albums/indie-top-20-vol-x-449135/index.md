@@ -1,14 +1,17 @@
 ---
 title: "Various - Indie Top 20 Vol X"
-album_artist: "Various"
-album_title: "Indie Top 20 Vol X"
+artist: "Various"
+album_name: "Indie Top 20 Vol X"
 date: 2016-03-24
 release_id: "449135"
 slug: "indie-top-20-vol-x-449135"
+hideSummary: true
 cover:
     image: "indie-top-20-vol-x-449135.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Indie Top 20 Vol X by Various"
+    caption: "Indie Top 20 Vol X by Various"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [THE TELESCOPES   Precious little](https://www.youtube.com/watch?v=8iHM5E1TT0A)
 - [Rent - Carter USM (Pet Shop Boys Cover)](https://www.youtube.com/watch?v=1omqMqpyj4Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Various - Indie Top 20 Vol X](https://www.discogs.com/release/449135) |
+| Release Year   | 1990 |
+| Discogs Link   | [Various - Indie Top 20 Vol X](https://www.discogs.com/release/449135-Various-Indie-Top-20-Vol-X) |
 | Label          | Beechwood Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | TT010 |
+
+Comes in a gatefold sleeve.
 

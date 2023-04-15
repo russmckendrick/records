@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - History Never Repeats"
-album_artist: "Split Enz"
-album_title: "History Never Repeats"
+artist: "Split Enz"
+album_name: "History Never Repeats"
 date: 2018-10-03
 release_id: "6659991"
 slug: "history-never-repeats-6659991"
+hideSummary: true
 cover:
     image: "history-never-repeats-6659991.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "History Never Repeats by Split Enz"
+    caption: "History Never Repeats by Split Enz"
+genres: ["Rock", "Pop"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Split Enz: History Never Repeats - Corroboree (HD)](https://www.youtube.com/watch?v=_3T1xg_9MEE)
 - [Split Enz HISTORY NEVER REPEATS  Sydney '81](https://www.youtube.com/watch?v=p0MJ1q28qt0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Split Enz - History Never Repeats](https://www.discogs.com/release/6659991) |
+| Release Year   | 1981 |
+| Discogs Link   | [Split Enz - History Never Repeats](https://www.discogs.com/release/6659991-Split-Enz-History-Never-Repeats) |
 | Label          | A&M Records |
 | Format         | 7\", Single, Etch |
 | Catalog Number | AMS 8128 |
+
+A-side has a laser etched pattern on the vinyl.  B1 and B2 recorded live at the Hammersmith Odeon.  ℗ 1981 Mushroom Records Pty. Ltd.  A [similar version](http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169) exists with generic A&M labels. 
 

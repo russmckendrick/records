@@ -1,14 +1,17 @@
 ---
 title: "Gulp (2) - All Good Wishes"
-album_artist: "Gulp (2)"
-album_title: "All Good Wishes"
+artist: "Gulp (2)"
+album_name: "All Good Wishes"
 date: 2018-10-22
 release_id: "12359789"
 slug: "all-good-wishes-12359789"
+hideSummary: true
 cover:
     image: "all-good-wishes-12359789.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "All Good Wishes by Gulp (2)"
+    caption: "All Good Wishes by Gulp (2)"
+genres: ["Electronic", "Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Gulp - I Dream Of Your Song](https://www.youtube.com/watch?v=DpHY-R70mw4)
 - [Gulp - Silver Tides](https://www.youtube.com/watch?v=pGny1SQOXeE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gulp (2) - All Good Wishes](https://www.discogs.com/release/12359789) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gulp (2) - All Good Wishes](https://www.discogs.com/release/12359789-Gulp-All-Good-Wishes) |
 | Label          | E.L.K. Records |
 | Format         | LP, Album |
 | Catalog Number | ELKREC5LP |
+
+Non-Limited Edition Black Vinyl
 

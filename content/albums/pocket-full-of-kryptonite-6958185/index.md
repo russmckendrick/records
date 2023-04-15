@@ -1,14 +1,17 @@
 ---
 title: "Spin Doctors - Pocket Full of Kryptonite "
-album_artist: "Spin Doctors"
-album_title: "Pocket Full of Kryptonite "
+artist: "Spin Doctors"
+album_name: "Pocket Full of Kryptonite "
 date: 2017-02-24
 release_id: "6958185"
 slug: "pocket-full-of-kryptonite-6958185"
+hideSummary: true
 cover:
     image: "pocket-full-of-kryptonite-6958185.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pocket Full of Kryptonite  by Spin Doctors"
+    caption: "Pocket Full of Kryptonite  by Spin Doctors"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))](https://www.youtube.com/watch?v=YMh6cGih564)
 - [Little Miss Can't Be Wrong ((live 9-25-1990 bootleg, Continental Divide, New York, NY))](https://www.youtube.com/watch?v=gARswxK2D-E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Spin Doctors - Pocket Full of Kryptonite ](https://www.discogs.com/release/6958185) |
+| Release Year   | 2015 |
+| Discogs Link   | [Spin Doctors - Pocket Full of Kryptonite ](https://www.discogs.com/release/6958185-Spin-Doctors-Pocket-Full-of-Kryptonite-) |
 | Label          | Epic |
 | Format         | LP, Album, RP |
 | Catalog Number | 88875013561 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Quincy Jones - The Italian Job"
-album_artist: "Quincy Jones"
-album_title: "The Italian Job"
+artist: "Quincy Jones"
+album_name: "The Italian Job"
 date: 2017-04-02
 release_id: "6089363"
 slug: "the-italian-job-6089363"
+hideSummary: true
 cover:
     image: "the-italian-job-6089363.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "The Italian Job by Quincy Jones"
+    caption: "The Italian Job by Quincy Jones"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Italian Job (pt 2) ultimate soundtrack suite by Quincy Jones](https://www.youtube.com/watch?v=pnrNUXbEYC0)
 - [Quincy Jones & Matt Monro - The Italian Job - On Days Like These (1969)](https://www.youtube.com/watch?v=rnlPqjkkt6E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Quincy Jones - The Italian Job](https://www.discogs.com/release/6089363) |
+| Release Year   | 2014 |
+| Discogs Link   | [Quincy Jones - The Italian Job](https://www.discogs.com/release/6089363-Quincy-Jones-The-Italian-Job) |
 | Label          | Paramount Records |
 | Format         | LP, RE |
 | Catalog Number | SPFL 256 |
+
+2014 reissue in flipback sleeve.
 

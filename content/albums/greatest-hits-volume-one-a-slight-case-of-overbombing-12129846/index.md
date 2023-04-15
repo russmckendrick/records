@@ -1,14 +1,17 @@
 ---
 title: "The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing"
-album_artist: "The Sisters Of Mercy"
-album_title: "Greatest Hits Volume One - A Slight Case Of Overbombing"
+artist: "The Sisters Of Mercy"
+album_name: "Greatest Hits Volume One - A Slight Case Of Overbombing"
 date: 2018-06-21
 release_id: "12129846"
 slug: "greatest-hits-volume-one-a-slight-case-of-overbombing-12129846"
+hideSummary: true
 cover:
     image: "greatest-hits-volume-one-a-slight-case-of-overbombing-12129846.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Greatest Hits Volume One - A Slight Case Of Overbombing by The Sisters Of Mercy"
+    caption: "Greatest Hits Volume One - A Slight Case Of Overbombing by The Sisters Of Mercy"
+genres: ["Electronic", "Rock"]
+styles: ["Goth Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The Sisters Of Mercy  - Walk Away (HQ)](https://www.youtube.com/watch?v=dxucr5TSxDg)
 - [The Sisters of Mercy - Body & Soul (Original Video)](https://www.youtube.com/watch?v=VqHW7DxQq6k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing](https://www.discogs.com/release/12129846) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing](https://www.discogs.com/release/12129846-The-Sisters-Of-Mercy-Greatest-Hits-Volume-One-A-Slight-Case-Of-Overbombing) |
 | Label          | Merciful Release, Warner Music Group |
 | Format         | 2xLP, Comp, RE |
 | Catalog Number | 0190295695071 |
+
+Gatefold sleeve
 

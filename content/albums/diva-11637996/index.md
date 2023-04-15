@@ -1,14 +1,17 @@
 ---
 title: "Annie Lennox - Diva"
-album_artist: "Annie Lennox"
-album_title: "Diva"
+artist: "Annie Lennox"
+album_name: "Diva"
 date: 2018-03-10
 release_id: "11637996"
 slug: "diva-11637996"
+hideSummary: true
 cover:
     image: "diva-11637996.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Diva by Annie Lennox"
+    caption: "Diva by Annie Lennox"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop", "Ballad", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Annie Lennox - The Gift (Official Video)](https://www.youtube.com/watch?v=_8Lc1QP0nlI)
 - [Annie Lennox - Keep Young and Beautiful (Official Video)](https://www.youtube.com/watch?v=pfk8kLJMab0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Annie Lennox - Diva](https://www.discogs.com/release/11637996) |
+| Release Year   | 2018 |
+| Discogs Link   | [Annie Lennox - Diva](https://www.discogs.com/release/11637996-Annie-Lennox-Diva) |
 | Label          | RCA |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88985419511 |
+
+℗ 1992 & © 2017 SONY MUSIC ENTERTAINMENT UK LIMITED. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. MADE IN THE EU. LC12723 BIEM/GEMA  Made in the EU  When purchasing Diva and Medusa together from HMV stores in the UK, you received two free exclusive prints.  A & B runouts are etched.
 

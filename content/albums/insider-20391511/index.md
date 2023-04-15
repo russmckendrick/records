@@ -1,14 +1,17 @@
 ---
 title: "Amplifier (3) - Insider"
-album_artist: "Amplifier (3)"
-album_title: "Insider"
+artist: "Amplifier (3)"
+album_name: "Insider"
 date: 2021-09-29
 release_id: "20391511"
 slug: "insider-20391511"
+hideSummary: true
 cover:
     image: "insider-20391511.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Insider by Amplifier (3)"
+    caption: "Insider by Amplifier (3)"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="c3K6-ljo7UQ" title="Amplifier -- Insider" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Amplifier (3) - Insider](https://www.discogs.com/release/20391511) |
+| Release Year   | 2021 |
+| Discogs Link   | [Amplifier (3) - Insider](https://www.discogs.com/release/20391511-Amplifier-Insider) |
 | Label          | Rockosmos |
 | Format         | 2xLP, Album |
 | Catalog Number | ROK141 |
+
+Gatefold cover double-sided color inlay Bandcamp download-code  Made in CZ
 

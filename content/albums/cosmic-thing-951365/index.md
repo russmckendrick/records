@@ -1,14 +1,17 @@
 ---
 title: "The B-52's - Cosmic Thing"
-album_artist: "The B-52's"
-album_title: "Cosmic Thing"
+artist: "The B-52's"
+album_name: "Cosmic Thing"
 date: 2016-01-15
 release_id: "951365"
 slug: "cosmic-thing-951365"
+hideSummary: true
 cover:
     image: "cosmic-thing-951365.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cosmic Thing by The B-52's"
+    caption: "Cosmic Thing by The B-52's"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [The B-52's - Roam (Official Music Video)](https://www.youtube.com/watch?v=iNwC0sp-uA4)
 - [The B-52's - Channel Z (Official Music Video)](https://www.youtube.com/watch?v=pB4G9WBYMFo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [The B-52's - Cosmic Thing](https://www.discogs.com/release/951365) |
+| Release Year   | 1989 |
+| Discogs Link   | [The B-52's - Cosmic Thing](https://www.discogs.com/release/951365-The-B-52s-Cosmic-Thing) |
 | Label          | Reprise Records, Reprise Records |
 | Format         | LP, Album |
 | Catalog Number | 925 854-1, WX 283 |
+
+All Nile Rodgers cuts recorded digitally and mixed analog. All Don Was tracks recorded and mixed analog.  All songs published by Man Woman Together Now! BMI Administered by Irving Music except B1 published by Man Woman Together Now! Administered by Irving Music BMI (copyright control) All songs are copyright © 1989 ℗ 1989 Reprise Records for the U.S. & WEA International Inc. for the world outside of the U.S.  ℗ 1989 Reprise Records © 1989 Reprise Records Manufactured in Germany · Pressé en Allemagne TELDEC Record Service GmbH [logo] A Warner Communications Company  Polylined printed inner sleeve with lyrics, credits and band photography.  Runouts are stamped except for the last numbers and letters, which are etched.
 

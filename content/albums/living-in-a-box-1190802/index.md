@@ -1,14 +1,17 @@
 ---
 title: "Living In A Box - Living In A Box"
-album_artist: "Living In A Box"
-album_title: "Living In A Box"
+artist: "Living In A Box"
+album_name: "Living In A Box"
 date: 2018-09-07
 release_id: "1190802"
 slug: "living-in-a-box-1190802"
+hideSummary: true
 cover:
     image: "living-in-a-box-1190802.jpg"
-tags: ["Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Living In A Box by Living In A Box"
+    caption: "Living In A Box by Living In A Box"
+genres: ["Funk / Soul", "Pop"]
+styles: ["New Wave", "Synth-pop", "Soul"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Human Story](https://www.youtube.com/watch?v=nEzFYQzIZ7k)
 - [Can't Stop the Wheel](https://www.youtube.com/watch?v=M39wXTVTksQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Living In A Box - Living In A Box](https://www.discogs.com/release/1190802) |
+| Release Year   | 1987 |
+| Discogs Link   | [Living In A Box - Living In A Box](https://www.discogs.com/release/1190802-Living-In-A-Box-Living-In-A-Box) |
 | Label          | Chrysalis |
 | Format         | LP |
 | Catalog Number | CDL 1547 |
+
+
 

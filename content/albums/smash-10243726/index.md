@@ -1,14 +1,17 @@
 ---
 title: "The Offspring - Smash"
-album_artist: "The Offspring"
-album_title: "Smash"
+artist: "The Offspring"
+album_name: "Smash"
 date: 2017-10-28
 release_id: "10243726"
 slug: "smash-10243726"
+hideSummary: true
 cover:
     image: "smash-10243726.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Smash by The Offspring"
+    caption: "Smash by The Offspring"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Punk", "Hardcore"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Not the One](https://www.youtube.com/watch?v=9SSfTP0BB6s)
 - [Smash](https://www.youtube.com/watch?v=rlkcRLkyVsw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Offspring - Smash](https://www.discogs.com/release/10243726) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Offspring - Smash](https://www.discogs.com/release/10243726-Offspring-Smash) |
 | Label          | Epitaph |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 86868-1 |
+
+Tracks listed sequentially on labels and back cover.   Comes with a printed inner sleeve with song lyrics, Thanks and Credits. Sticker on front reads: "Digitally Remastered from the original master tape"  All Songs Written By The Offspring Additional recording at The Hook, North Hollywood All Rights Reserved. Used By Permission. Except Killboy Powerhead, published by Touch and Go Records.  1994,2008 Epitaph 2798 Sunset Blvd, Los Angeles, CA 90026
 

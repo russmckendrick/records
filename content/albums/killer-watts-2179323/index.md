@@ -1,14 +1,17 @@
 ---
 title: "Various - Killer Watts"
-album_artist: "Various"
-album_title: "Killer Watts"
+artist: "Various"
+album_name: "Killer Watts"
 date: 2020-08-02
 release_id: "2179323"
 slug: "killer-watts-2179323"
+hideSummary: true
 cover:
     image: "killer-watts-2179323.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Killer Watts by Various"
+    caption: "Killer Watts by Various"
+genres: ["Rock"]
+styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Journey-Line of Fire(Departure)](https://www.youtube.com/watch?v=cHxkJ9TTSdk)
 - [Boogie No More](https://www.youtube.com/watch?v=H36aL8u7eX0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Various - Killer Watts](https://www.discogs.com/release/2179323) |
+| Release Year   | 1980 |
+| Discogs Link   | [Various - Killer Watts](https://www.discogs.com/release/2179323-Various-Killer-Watts) |
 | Label          | Epic, Epic |
 | Format         | 2xLP, Album, Comp |
 | Catalog Number | KW 1, S KW 1 |
+
+© 1980 CBS Records.  
 

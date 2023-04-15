@@ -1,14 +1,17 @@
 ---
 title: "The Jesus And Mary Chain - 21 Singles 1984-1998"
-album_artist: "The Jesus And Mary Chain"
-album_title: "21 Singles 1984-1998"
+artist: "The Jesus And Mary Chain"
+album_name: "21 Singles 1984-1998"
 date: 2018-07-06
 release_id: "12212376"
 slug: "21-singles-1984-1998-12212376"
+hideSummary: true
 cover:
     image: "21-singles-1984-1998-12212376.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "21 Singles 1984-1998 by The Jesus And Mary Chain"
+    caption: "21 Singles 1984-1998 by The Jesus And Mary Chain"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
 - [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Jesus And Mary Chain - 21 Singles 1984-1998](https://www.discogs.com/release/12212376) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Jesus And Mary Chain - 21 Singles 1984-1998](https://www.discogs.com/release/12212376-The-Jesus-And-Mary-Chain-21-Singles-1984-1998) |
 | Label          | Warner Music Group |
 | Format         | 2xLP, Comp, RE, 180 |
 | Catalog Number | 0190295669249 |
+
+
 

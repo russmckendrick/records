@@ -1,14 +1,17 @@
 ---
 title: "Daryl Hall & John Oates - The Very Best Of"
-album_artist: "Daryl Hall & John Oates"
-album_title: "The Very Best Of"
+artist: "Daryl Hall & John Oates"
+album_name: "The Very Best Of"
 date: 2016-08-13
 release_id: "8863457"
 slug: "the-very-best-of-8863457"
+hideSummary: true
 cover:
     image: "the-very-best-of-8863457.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "The Very Best Of by Daryl Hall & John Oates"
+    caption: "The Very Best Of by Daryl Hall & John Oates"
+genres: ["Electronic", "Rock", "Funk / Soul"]
+styles: ["Pop Rock", "Soul", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Daryl Hall & John Oates - Family Man (Official Video)](https://www.youtube.com/watch?v=-oiqiYdWXiM)
 - [Daryl Hall & John Oates - Some Things Are Better Left Unsaid](https://www.youtube.com/watch?v=Emp0vkKczBI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Daryl Hall & John Oates - The Very Best Of](https://www.discogs.com/release/8863457) |
+| Release Year   | 2016 |
+| Discogs Link   | [Daryl Hall & John Oates - The Very Best Of](https://www.discogs.com/release/8863457-Daryl-Hall-John-Oates-The-Very-Best-Of) |
 | Label          | RCA, Sony Music, Legacy |
 | Format         | 2xLP, Comp, Ltd, RE, RM, Gra |
 | Catalog Number | 88985330971 |
+
+Legacy edition. First time on vinyl for this compilation. LP1 is pressed on gray vinyl, LP2 on blue vinyl.  Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment. The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.  This package consists of previously released material. 
 

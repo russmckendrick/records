@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - (Mankind) The Crafty Ape"
-album_artist: "Crippled Black Phoenix"
-album_title: "(Mankind) The Crafty Ape"
+artist: "Crippled Black Phoenix"
+album_name: "(Mankind) The Crafty Ape"
 date: 2016-01-17
 release_id: "3366120"
 slug: "mankind-the-crafty-ape-3366120"
+hideSummary: true
 cover:
     image: "mankind-the-crafty-ape-3366120.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "(Mankind) The Crafty Ape by Crippled Black Phoenix"
+    caption: "(Mankind) The Crafty Ape by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Post Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Crippled Black Phoenix - A Letter Concerning Dogheads](https://www.youtube.com/watch?v=MQfypm8ZDgo)
 - [Crippled Black Phoenix - Born In A Hurricane](https://www.youtube.com/watch?v=cihKxslHy2o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Crippled Black Phoenix - (Mankind) The Crafty Ape](https://www.discogs.com/release/3366120) |
+| Release Year   | 2012 |
+| Discogs Link   | [Crippled Black Phoenix - (Mankind) The Crafty Ape](https://www.discogs.com/release/3366120-Crippled-Black-Phoenix-Mankind-The-Crafty-Ape) |
 | Label          | Cool Green Recordings |
 | Format         | 2xLP, Album |
 | Catalog Number | CGR 7360 1 |
+
+Recorded and Assembled at Chapel Studio, Lincolnshire, UK during August '11 All rights reserved. ℗ & © 2011 Mascot Music Production And Publishing BV.  Gatefold sleeve, comes with color inner sleeves and a poster.
 

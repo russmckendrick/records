@@ -1,14 +1,17 @@
 ---
 title: "Neon Neon - Stainless Style"
-album_artist: "Neon Neon"
-album_title: "Stainless Style"
+artist: "Neon Neon"
+album_name: "Stainless Style"
 date: 2016-10-09
 release_id: "1287707"
 slug: "stainless-style-1287707"
+hideSummary: true
 cover:
     image: "stainless-style-1287707.jpg"
-tags: ["Electronic", "Hip Hop", "Rock", "Pop"]
-hideSummary: true
+    alt: "Stainless Style by Neon Neon"
+    caption: "Stainless Style by Neon Neon"
+genres: ["Electronic", "Hip Hop", "Rock", "Pop"]
+styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)
 - [Neon Neon - Michael Douglas](https://www.youtube.com/watch?v=OzRkNvC7yiI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [Neon Neon - Stainless Style](https://www.discogs.com/release/1287707) |
+| Release Year   | 2008 |
+| Discogs Link   | [Neon Neon - Stainless Style](https://www.discogs.com/release/1287707-Neon-Neon-Stainless-Style) |
 | Label          | Lex Records |
 | Format         | LP, Album |
 | Catalog Number | LEX067LP |
+
+With printed inner sleeve and lyrics insert
 

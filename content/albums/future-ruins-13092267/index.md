@@ -1,14 +1,17 @@
 ---
 title: "Swervedriver - Future Ruins"
-album_artist: "Swervedriver"
-album_title: "Future Ruins"
+artist: "Swervedriver"
+album_name: "Future Ruins"
 date: 2019-01-27
 release_id: "13092267"
 slug: "future-ruins-13092267"
+hideSummary: true
 cover:
     image: "future-ruins-13092267.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Future Ruins by Swervedriver"
+    caption: "Future Ruins by Swervedriver"
+genres: ["Rock"]
+styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Good Times Are so Hard to Follow](https://www.youtube.com/watch?v=Hb9ClOgmdj8)
 - [Radio-Silent](https://www.youtube.com/watch?v=Whom9yF9oxU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Swervedriver - Future Ruins](https://www.discogs.com/release/13092267) |
+| Release Year   | 2019 |
+| Discogs Link   | [Swervedriver - Future Ruins](https://www.discogs.com/release/13092267-Swervedriver-Future-Ruins) |
 | Label          | Rock Action Records |
 | Format         | LP, Album, Red |
 | Catalog Number | ROCKACT121LP |
+
+Indies exclusive heavyweight red vinyl. Includes MP3 Download Code. 
 

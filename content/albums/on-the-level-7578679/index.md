@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - On The Level"
-album_artist: "Status Quo"
-album_title: "On The Level"
+artist: "Status Quo"
+album_name: "On The Level"
 date: 2016-05-23
 release_id: "7578679"
 slug: "on-the-level-7578679"
+hideSummary: true
 cover:
     image: "on-the-level-7578679.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "On The Level by Status Quo"
+    caption: "On The Level by Status Quo"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Status Quo – Bye Bye Johnny](https://www.youtube.com/watch?v=10GD7OFcCQk)
 - [Status Quo 🇬🇧 - Down Down - Vinyl On The Level LP 🇫🇷 1974](https://www.youtube.com/watch?v=sppuP8Qoxxc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - On The Level](https://www.discogs.com/release/7578679) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - On The Level](https://www.discogs.com/release/7578679-Status-Quo-On-The-Level) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723765 |
+
+Gatefold sleeve
 

@@ -1,14 +1,17 @@
 ---
 title: "Frost* - Day And Age"
-album_artist: "Frost*"
-album_title: "Day And Age"
+artist: "Frost*"
+album_name: "Day And Age"
 date: 2021-05-22
 release_id: "18819115"
 slug: "day-and-age-18819115"
+hideSummary: true
 cover:
     image: "day-and-age-18819115.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Day And Age by Frost*"
+    caption: "Day And Age by Frost*"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="RmiAmW3sgHs" title="FROST* - Day And Age (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Frost* - Day And Age](https://www.discogs.com/release/18819115) |
+| Release Year   | 2021 |
+| Discogs Link   | [Frost* - Day And Age](https://www.discogs.com/release/18819115-Frost-Day-And-Age) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Gol + LP, S/Sided, Etch, Gol + Album + CD, Alb |
 | Catalog Number | IOMLP 576, 19439842991 |
+
+Limited edition of 200 copies. Burning Shed exclusive. Gatefold. Signed postcard included.
 

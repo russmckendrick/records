@@ -1,14 +1,17 @@
 ---
 title: "Roger Waters - Is This The Life We Really Want?"
-album_artist: "Roger Waters"
-album_title: "Is This The Life We Really Want?"
+artist: "Roger Waters"
+album_name: "Is This The Life We Really Want?"
 date: 2018-08-11
 release_id: "12213433"
 slug: "is-this-the-life-we-really-want-12213433"
+hideSummary: true
 cover:
     image: "is-this-the-life-we-really-want-12213433.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Is This The Life We Really Want? by Roger Waters"
+    caption: "Is This The Life We Really Want? by Roger Waters"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
 - [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/12213433) |
+| Release Year   | 2018 |
+| Discogs Link   | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/12213433-Roger-Waters-Is-This-The-Life-We-Really-Want) |
 | Label          | Columbia, Columbia, Sony Music |
 | Format         | 2xLP, Album, Ltd, Num, RE, Gre |
 | Catalog Number | C-192609, 19075865711 |
+
+Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover.
 

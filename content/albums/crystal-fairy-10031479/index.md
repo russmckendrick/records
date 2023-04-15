@@ -1,14 +1,17 @@
 ---
 title: "Crystal Fairy - Crystal Fairy"
-album_artist: "Crystal Fairy"
-album_title: "Crystal Fairy"
+artist: "Crystal Fairy"
+album_name: "Crystal Fairy"
 date: 2017-04-11
 release_id: "10031479"
 slug: "crystal-fairy-10031479"
+hideSummary: true
 cover:
     image: "crystal-fairy-10031479.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Crystal Fairy by Crystal Fairy"
+    caption: "Crystal Fairy by Crystal Fairy"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Sweet Self](https://www.youtube.com/watch?v=hB1gJ1l6txQ)
 - [Vampire X-Mas](https://www.youtube.com/watch?v=RHGc0MvkSIE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Crystal Fairy - Crystal Fairy](https://www.discogs.com/release/10031479) |
+| Release Year   | 2017 |
+| Discogs Link   | [Crystal Fairy - Crystal Fairy](https://www.discogs.com/release/10031479-Crystal-Fairy-Crystal-Fairy) |
 | Label          | Ipecac Recordings |
 | Format         | LP, Album, Ltd, Lav |
 | Catalog Number | IPC-180LP-LV / IPC-180 |
+
+Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi".
 

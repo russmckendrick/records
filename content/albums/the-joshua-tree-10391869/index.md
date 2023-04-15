@@ -1,14 +1,17 @@
 ---
 title: "U2 - The Joshua Tree"
-album_artist: "U2"
-album_title: "The Joshua Tree"
+artist: "U2"
+album_name: "The Joshua Tree"
 date: 2018-01-22
 release_id: "10391869"
 slug: "the-joshua-tree-10391869"
+hideSummary: true
 cover:
     image: "the-joshua-tree-10391869.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Joshua Tree by U2"
+    caption: "The Joshua Tree by U2"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -72,13 +75,16 @@ hideSummary: true
 - [U2 - With Or Without You (Official Music Video)](https://www.youtube.com/watch?v=ujNeHIo7oTE)
 - [U̲2 - The Joshua Tree (Full Album)](https://www.youtube.com/watch?v=YPmdjA8_YOk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [U2 - The Joshua Tree](https://www.discogs.com/release/10391869) |
+| Release Year   | 2017 |
+| Discogs Link   | [U2 - The Joshua Tree](https://www.discogs.com/release/10391869-U2-The-Joshua-Tree) |
 | Label          | Island Records, Interscope Records |
 | Format         | Box, Dlx, 30t + 2xLP, Album, RE, RM + 2xLP, Album  |
 | Catalog Number | 00602557482485 |
+
+The Joshua Tree 30th Anniversary Super Deluxe Edition  Cover features a textured embossed gold foiled Joshua Tree icon. Includes: • 7 pieces of original, live and unreleased recordings on 12" 180gsm vinyl including: • The Joshua Tree double album (Remastered edition of the original album.) • The Joshua Tree Live at Madison Square Garden 28th September 1987 (Features selected tracks from the concert with no overdubs or corrections.)  • The Joshua Tree Remixes, Outtakes & B-Sides • The Joshua Tree – Photographs by The Edge. An 84-page hardback book of personal never-before seen photography by The Edge, taken during the original Mojave Desert Joshua Tree shoot, 1986 • A folio of 8 rare 12” Anton Corbijn colour prints • 3.5hrs of audio content / 49 tracks (25x unreleased tracks: 17x live, 7x new mixes, 1x archive track) • Audio download code  LPs 1 & 2: The Joshua Tree LPs 3 & 4: The Joshua Tree Live at Madison Square Garden 28th September 1987  LPs 5, 6 & 7: The Joshua Tree Remixes, Outtakes & B-Sides  All tracks written by U2 and published by Universal Music Publishing B.V. except Blue Mountain Music Ltd. (UK), Mother Music (IRL).
 

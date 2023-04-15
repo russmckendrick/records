@@ -1,14 +1,17 @@
 ---
 title: "The Orb - Abolition Of The Royal Familia (Guillotine Mixes)"
-album_artist: "The Orb"
-album_title: "Abolition Of The Royal Familia (Guillotine Mixes)"
+artist: "The Orb"
+album_name: "Abolition Of The Royal Familia (Guillotine Mixes)"
 date: 2021-05-10
 release_id: "18203164"
 slug: "abolition-of-the-royal-familia-guillotine-mixes-18203164"
+hideSummary: true
 cover:
     image: "abolition-of-the-royal-familia-guillotine-mixes-18203164.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Abolition Of The Royal Familia (Guillotine Mixes) by The Orb"
+    caption: "Abolition Of The Royal Familia (Guillotine Mixes) by The Orb"
+genres: ["Electronic"]
+styles: ["Ambient", "House"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="RuVSXb_dTJk" title="Orb – Abolition Of The Royal Familia (Guillotine Mixes)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Orb - Abolition Of The Royal Familia (Guillotine Mixes)](https://www.discogs.com/release/18203164) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Orb - Abolition Of The Royal Familia (Guillotine Mixes)](https://www.discogs.com/release/18203164-Orb-Abolition-Of-The-Royal-Familia-Guillotine-Mixes) |
 | Label          | Cooking Vinyl |
 | Format         | 2xLP, Album |
 | Catalog Number | COOKLP784 |
+
+The release came sealed in a polythene shrink-wrap, with a circular hype sticker on the front. A download card was included.  Made In The EU
 

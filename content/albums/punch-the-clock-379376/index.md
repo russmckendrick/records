@@ -1,14 +1,17 @@
 ---
 title: "Elvis Costello & The Attractions - Punch The Clock"
-album_artist: "Elvis Costello & The Attractions"
-album_title: "Punch The Clock"
+artist: "Elvis Costello & The Attractions"
+album_name: "Punch The Clock"
 date: 2018-08-17
 release_id: "379376"
 slug: "punch-the-clock-379376"
+hideSummary: true
 cover:
     image: "punch-the-clock-379376.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Punch The Clock by Elvis Costello & The Attractions"
+    caption: "Punch The Clock by Elvis Costello & The Attractions"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [The World And His Wife](https://www.youtube.com/watch?v=c4wgrLmdVaI)
 - [Love Went Mad](https://www.youtube.com/watch?v=-U1Cn-wnpis)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Elvis Costello & The Attractions - Punch The Clock](https://www.discogs.com/release/379376) |
+| Release Year   | 1983 |
+| Discogs Link   | [Elvis Costello & The Attractions - Punch The Clock](https://www.discogs.com/release/379376-Elvis-Costello-And-The-Attractions-Punch-The-Clock) |
 | Label          | F-Beat |
 | Format         | LP, Album |
 | Catalog Number | XXLP 19 |
+
+Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.  Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)  [Publishers] Plangent Visions Music Ltd. except "Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.  [Rear sleeve]: ℗ & © 1983 F-Beat Records. Marketed and distributed by RCA Ltd. Record Division.  [Labels]: ℗ 1983 Riviera Global Records Productions Ltd.  © 1983 F-Beat Records Ltd.  Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all.
 

@@ -1,14 +1,17 @@
 ---
 title: "65daysofstatic - No Man's Sky: Music For An Infinite Universe"
-album_artist: "65daysofstatic"
-album_title: "No Man's Sky: Music For An Infinite Universe"
+artist: "65daysofstatic"
+album_name: "No Man's Sky: Music For An Infinite Universe"
 date: 2016-09-29
 release_id: "9122927"
 slug: "no-man-s-sky-music-for-an-infinite-universe-9122927"
+hideSummary: true
 cover:
     image: "no-man-s-sky-music-for-an-infinite-universe-9122927.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "No Man's Sky: Music For An Infinite Universe by 65daysofstatic"
+    caption: "No Man's Sky: Music For An Infinite Universe by 65daysofstatic"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="RhC5a_sXayA" title="No Mans Sky - Escape Velocity - LP 2015" >}}
 - [65daysofstatic - Monolith | No Man's Sky Soundtrack (Vinyl RIP)](https://www.youtube.com/watch?v=bK_SRAuem4Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [65daysofstatic - No Man's Sky: Music For An Infinite Universe](https://www.discogs.com/release/9122927) |
+| Release Year   | 2016 |
+| Discogs Link   | [65daysofstatic - No Man's Sky: Music For An Infinite Universe](https://www.discogs.com/release/9122927-65daysofstatic-No-Mans-Sky-Music-For-An-Infinite-Universe) |
 | Label          | Laced Records |
 | Format         | 4xLP, Album, Dlx + Box |
 | Catalog Number | LMLP004X |
+
+THE ULTIMATE COLLECTOR'S VINYL EDITION Deluxe X4 Vinyl Boxset Edition X4 180-gram Vinyl Discs Each disc will be packaged within a custom designed spined sleeve All 4 vinyls packaged within a deluxe custom designed thick cardboard boxset   Includes the full 10 track ‘No Man’s Sky: Music for an Infinite Universe’ and 6 soundscapes spread across 4 vinyl discs  Plus digital download of the 10 track album and 6 soundscapes in MP3 format
 

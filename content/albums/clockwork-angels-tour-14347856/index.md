@@ -1,14 +1,17 @@
 ---
 title: "Rush - Clockwork Angels Tour"
-album_artist: "Rush"
-album_title: "Clockwork Angels Tour"
+artist: "Rush"
+album_name: "Clockwork Angels Tour"
 date: 2020-07-11
 release_id: "14347856"
 slug: "clockwork-angels-tour-14347856"
+hideSummary: true
 cover:
     image: "clockwork-angels-tour-14347856.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Clockwork Angels Tour by Rush"
+    caption: "Clockwork Angels Tour by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -44,16 +47,17 @@ hideSummary: true
 30. The Pass
 31. Manhattan Project
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Rush - Clockwork Angels Tour](https://www.discogs.com/release/14347856) |
+| Release Year   | 2019 |
+| Discogs Link   | [Rush - Clockwork Angels Tour](https://www.discogs.com/release/14347856-Rush-Clockwork-Angels-Tour) |
 | Label          | Anthem (5), Roadrunner Records |
 | Format         | LP + LP + LP + LP + LP, S/Sided, Etch + Box, Album |
 | Catalog Number | R1 175982, 081227934347 |
+
+'Made in E.U. LC02982' printed on the side of box lid. Compared to the US edition of [r=14245830], where the Label Code is missing and 'Manufactured in E.U. Printed in U.S.A.' is printed in its place.   The label layout & RIM text is identical on both editions.   Boxset includes Download Coupon which expires December 31, 2022
 

@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - The Boy With The Arab Strap"
-album_artist: "Belle & Sebastian"
-album_title: "The Boy With The Arab Strap"
+artist: "Belle & Sebastian"
+album_name: "The Boy With The Arab Strap"
 date: 2021-06-12
 release_id: "19112392"
 slug: "the-boy-with-the-arab-strap-19112392"
+hideSummary: true
 cover:
     image: "the-boy-with-the-arab-strap-19112392.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Boy With The Arab Strap by Belle & Sebastian"
+    caption: "The Boy With The Arab Strap by Belle & Sebastian"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
 - [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/19112392) |
+| Release Year   | 2021 |
+| Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/19112392-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |
 | Label          | Jeepster Recordings, Jeepster Recordings |
 | Format         | LP, Album, RSD, Ltd, RE, Gre |
 | Catalog Number | JPRLP003RSD, JPRLP 003 |
+
+Record Store Day 2021 Exclusive Gatefold sleeve  (P) & (C) 1998 Jeepster Recordings Made in EU.  Distributed by Universal Music Operations Ltd.       The title of this record in no way refers to the cover star, by the way.  
 

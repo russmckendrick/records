@@ -1,14 +1,17 @@
 ---
 title: "Various - The Rick And Morty Soundtrack"
-album_artist: "Various"
-album_title: "The Rick And Morty Soundtrack"
+artist: "Various"
+album_name: "The Rick And Morty Soundtrack"
 date: 2018-11-04
 release_id: "12575433"
 slug: "the-rick-and-morty-soundtrack-12575433"
+hideSummary: true
 cover:
     image: "the-rick-and-morty-soundtrack-12575433.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "The Rick And Morty Soundtrack by Various"
+    caption: "The Rick And Morty Soundtrack by Various"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Terryfold - Choas Chaos ft. Justin Roiland (3D ANIMATED)](https://www.youtube.com/watch?v=sE5t5I_yDeQ)
 - [Mazzy Star - Look On Down From The Bridge](https://www.youtube.com/watch?v=IGrZ4WAYRKw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - The Rick And Morty Soundtrack](https://www.discogs.com/release/12575433) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - The Rick And Morty Soundtrack](https://www.discogs.com/release/12575433-Various-The-Rick-And-Morty-Soundtrack) |
 | Label          | Sub Pop, [adult swim] |
 | Format         | 2xLP, Comp |
 | Catalog Number | SP1265 |
+
+Black Vinyl Two single-pocket LP jackets housed together in a custom die-cut slipcase. Full color, printed inner sleeves with credits and thank yous. Includes digital download code.  Track list and title are stickers affixed to the shrink wrap.
 

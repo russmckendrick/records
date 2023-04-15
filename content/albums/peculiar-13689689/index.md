@@ -1,14 +1,17 @@
 ---
 title: "The Slackers - Peculiar"
-album_artist: "The Slackers"
-album_title: "Peculiar"
+artist: "The Slackers"
+album_name: "Peculiar"
 date: 2019-06-11
 release_id: "13689689"
 slug: "peculiar-13689689"
+hideSummary: true
 cover:
     image: "peculiar-13689689.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Peculiar by The Slackers"
+    caption: "Peculiar by The Slackers"
+genres: ["Reggae"]
+styles: ["Reggae", "Ska"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="_3IU39RVIV8" title="The Slackers - Peculiar (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Slackers - Peculiar](https://www.discogs.com/release/13689689) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Slackers - Peculiar](https://www.discogs.com/release/13689689-The-Slackers-Peculiar) |
 | Label          | Pirates Press Records |
 | Format         | LP, Album, RE, Blu + 7\" |
 | Catalog Number | PPR231-1 |
+
+Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".  Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios. Additional overdubs recorded in Los Angeles.
 

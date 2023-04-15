@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Springsteen On Broadway"
-album_artist: "Bruce Springsteen"
-album_title: "Springsteen On Broadway"
+artist: "Bruce Springsteen"
+album_name: "Springsteen On Broadway"
 date: 2019-01-25
 release_id: "13106936"
 slug: "springsteen-on-broadway-13106936"
+hideSummary: true
 cover:
     image: "springsteen-on-broadway-13106936.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Springsteen On Broadway by Bruce Springsteen"
+    caption: "Springsteen On Broadway by Bruce Springsteen"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="M1xDzgob1JI" title="Springsteen on Broadway | Official Trailer [HD] | Netflix" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Bruce Springsteen - Springsteen On Broadway](https://www.discogs.com/release/13106936) |
+| Release Year   | 2019 |
+| Discogs Link   | [Bruce Springsteen - Springsteen On Broadway](https://www.discogs.com/release/13106936-Bruce-Springsteen-Springsteen-On-Broadway) |
 | Label          | Columbia |
 | Format         | 4xLP, Album |
 | Catalog Number | 19075904371 |
+
+Single wide spine sleeve in transparent plastic O-card. Printed inner sleeves.  Recordings from the Springsteen On Broadway show at the Walter Kerr Theatre, New York, NY (which ran from October 12, 2017 to December 15, 2018). Includes free digital download.  Note on runouts: The first part of the runouts is hand-etched. The second part, starting with "MPO" is machine-etched.
 

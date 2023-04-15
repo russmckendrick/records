@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Obscured By Clouds"
-album_artist: "Pink Floyd"
-album_title: "Obscured By Clouds"
+artist: "Pink Floyd"
+album_name: "Obscured By Clouds"
 date: 2016-09-23
 release_id: "9063958"
 slug: "obscured-by-clouds-9063958"
+hideSummary: true
 cover:
     image: "obscured-by-clouds-9063958.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Obscured By Clouds by Pink Floyd"
+    caption: "Obscured By Clouds by Pink Floyd"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Stay (4:08)
 10. Absolutely Curtains (5:51)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - Obscured By Clouds](https://www.discogs.com/release/9063958) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - Obscured By Clouds](https://www.discogs.com/release/9063958-Pink-Floyd-Obscured-By-Clouds) |
 | Label          | Pink Floyd Records, Pink Floyd Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP7, 0190295996970 |
+
+Matrices in runouts are hand-etched, "16910 1A" and "16910 1B" are laser etched.  Comes with sleeve rounded corners. A pink "Obscured By Clouds - Music from La Vallée - Pink Floyd" sticker on face side and hype sticker on the shrink-wrap. This sticker is in French for the French market (see pic)  On sticker: The stereo remastered album on heavyweight 180 gram vinyl Remastered from the original analogue tapes. Original UK release date: June 1972 ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd. Made in the E.U. www.pinkfloyd.com On the French sticker, Mudmen is erroneously stated on side B  On back cover: ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd. Made and Printed in the E.U. Printed and made by Optimal  On labels: Publishing for the world excluding USA & Canada: Tracks A1 to A5, B3, B4 published by Pink Floyd Music Publishers Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij  B.V. (1) (2) Track A6, B1 published by Pink Floyd Music Publishers Ltd. (1) Track B2 published by Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij  B.V. (3) (1) administered by Imagem UK Ltd (2) administered by Warner/Chappell Music Publishing (3) administered by Warner/Chappell Music Publishing Limited   Publishing for USA & Canada: Tracks A1 to B4 published by TRO-Hampshire House Publishing Corp.  The US release can be found [here](https://www.discogs.com/release/9093697)  Track timings from needle drop (stopwatch method).
 

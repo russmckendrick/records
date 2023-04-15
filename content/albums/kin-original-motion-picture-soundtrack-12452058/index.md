@@ -1,14 +1,17 @@
 ---
 title: "Mogwai - Kin (Original Motion Picture Soundtrack)"
-album_artist: "Mogwai"
-album_title: "Kin (Original Motion Picture Soundtrack)"
+artist: "Mogwai"
+album_name: "Kin (Original Motion Picture Soundtrack)"
 date: 2018-09-03
 release_id: "12452058"
 slug: "kin-original-motion-picture-soundtrack-12452058"
+hideSummary: true
 cover:
     image: "kin-original-motion-picture-soundtrack-12452058.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Kin (Original Motion Picture Soundtrack) by Mogwai"
+    caption: "Kin (Original Motion Picture Soundtrack) by Mogwai"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 {{< youtube id="_5CHTscFyFo" title="Mogwai // Donuts (Official Audio)" >}}
 - [Mogwai - KIN [Full Album]](https://www.youtube.com/watch?v=J7d-9812sRg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Mogwai - Kin (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12452058) |
+| Release Year   | 2018 |
+| Discogs Link   | [Mogwai - Kin (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12452058-Mogwai-Kin-Original-Motion-Picture-Soundtrack) |
 | Label          | Rock Action Records, Rock Action Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | ROCKACT 115LPX , ROCKACT115LP |
+
+Comes on heavyweight vinyl and includes a digital music download.  Kin © Kin Pictures USA, LLC. Artwork & supplementary materials © 2018 Summit Entertainment, LLC. Score © 2018 A Lion Music (ASCAP). All recordings ℗ 2018 Summit Entertainment, LLC. This compilation ℗&© 2018 Summit Entertainment, LLC. Under exclusive license to Rock Action Records. Made in the EU.  The catalog number 'ROCKACT115LPX' only appears on the red sticker on the front of the shrink wrap. The catalog number 'ROCKACT115LP' appears on the spine and the rear of the sleeve.  Some copies purchased from Monorail Music in Glasgow came with a signed poster.
 

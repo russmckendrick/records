@@ -1,14 +1,17 @@
 ---
 title: "Primal Scream - Live At Levitation"
-album_artist: "Primal Scream"
-album_title: "Live At Levitation"
+artist: "Primal Scream"
+album_name: "Live At Levitation"
 date: 2022-07-31
 release_id: "21926146"
 slug: "live-at-levitation-21926146"
+hideSummary: true
 cover:
     image: "live-at-levitation-21926146.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At Levitation by Primal Scream"
+    caption: "Live At Levitation by Primal Scream"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Higher Than the Sun (Live)](https://www.youtube.com/watch?v=Fj5jpCGel_o)
 - [Shoot Speed/Kill Light (Live)](https://www.youtube.com/watch?v=6rftOLqzMvo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Primal Scream - Live At Levitation](https://www.discogs.com/release/21926146) |
+| Release Year   | 2021 |
+| Discogs Link   | [Primal Scream - Live At Levitation](https://www.discogs.com/release/21926146-Primal-Scream-Live-At-Levitation) |
 | Label          | The Reverberation Appreciation Society |
 | Format         | LP, Album, Ltd, Yel |
 | Catalog Number | RVRB-049 |
+
+Made in Canada.
 

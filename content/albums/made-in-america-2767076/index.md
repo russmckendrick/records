@@ -1,14 +1,17 @@
 ---
 title: "The Blues Brothers - Made In America"
-album_artist: "The Blues Brothers"
-album_title: "Made In America"
+artist: "The Blues Brothers"
+album_name: "Made In America"
 date: 2015-12-09
 release_id: "2767076"
 slug: "made-in-america-2767076"
+hideSummary: true
 cover:
     image: "made-in-america-2767076.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Made In America by The Blues Brothers"
+    caption: "Made In America by The Blues Brothers"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Do You Love Me: Mother Popcorn (You Got to Have a Mother for Me)](https://www.youtube.com/watch?v=0sjEj5wVW-0)
 - [Who's Making Love](https://www.youtube.com/watch?v=WZ7U8ahPerc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [The Blues Brothers - Made In America](https://www.discogs.com/release/2767076) |
+| Release Year   | 0 |
+| Discogs Link   | [The Blues Brothers - Made In America](https://www.discogs.com/release/2767076-Blues-Brothers-Made-In-America) |
 | Label          | Atlantic |
 | Format         | LP, Album, RE |
 | Catalog Number | ATL 50 768 |
+
+German reissue with 3 rows of copyright rim text in German, French and English. No barcode.  ℗ © 1980 Atlantic Recording Corporation Made in Germany by WEA Musik GmbH  Track B1 misspelt "Green Onion" on center label B.
 

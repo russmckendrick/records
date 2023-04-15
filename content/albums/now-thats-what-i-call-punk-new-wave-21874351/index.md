@@ -1,14 +1,17 @@
 ---
 title: "Various - Now That’s What I Call Punk & New Wave"
-album_artist: "Various"
-album_title: "Now That’s What I Call Punk & New Wave"
+artist: "Various"
+album_name: "Now That’s What I Call Punk & New Wave"
 date: 2022-01-25
 release_id: "21874351"
 slug: "now-thats-what-i-call-punk-new-wave-21874351"
+hideSummary: true
 cover:
     image: "now-thats-what-i-call-punk-new-wave-21874351.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Now That’s What I Call Punk & New Wave by Various"
+    caption: "Now That’s What I Call Punk & New Wave by Various"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Punk"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 - [The Undertones - Teenage Kicks (Official Video)](https://www.youtube.com/watch?v=PinCg7IGqHg)
 - [Buzzcocks - Ever Fallen In Love (With Someone You Shouldn’t’ve?) (TOTP, 1978)](https://www.youtube.com/watch?v=0Af7ayYIJ9w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Various - Now That’s What I Call Punk & New Wave](https://www.discogs.com/release/21874351) |
+| Release Year   | 2022 |
+| Discogs Link   | [Various - Now That’s What I Call Punk & New Wave](https://www.discogs.com/release/21874351-Various-Now-Thats-What-I-Call-Punk-New-Wave) |
 | Label          | Sony Music, EMI |
 | Format         | 2xLP, Comp, Pin |
 | Catalog Number | LPNNNOW122, 0194399460917 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Mansun - Closed For Business"
-album_artist: "Mansun"
-album_title: "Closed For Business"
+artist: "Mansun"
+album_name: "Closed For Business"
 date: 2021-06-18
 release_id: "19116019"
 slug: "closed-for-business-19116019"
+hideSummary: true
 cover:
     image: "closed-for-business-19116019.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Closed For Business by Mansun"
+    caption: "Closed For Business by Mansun"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="zAGa_yl5GwA" title="Mansun - Closed for business" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Mansun - Closed For Business](https://www.discogs.com/release/19116019) |
+| Release Year   | 2021 |
+| Discogs Link   | [Mansun - Closed For Business](https://www.discogs.com/release/19116019-Mansun-Closed-For-Business) |
 | Label          | Kscope, Kscope, Kscope |
 | Format         | 12\", EP, RSD, Ltd, Cle |
 | Catalog Number | KSCOPE1117, 802644811710, Kscope1117 |
+
+Record Store Day June 2021 release.  Issued with a card sleeve and a poly-lined inner sleeve and a Kscope insert. Wrapped in a plastic resealable bag with a white hype sticker.   The catalogue number is shown as KSCOPE1117 on the sleeve and side A label, as 802644811710 on the sleeve and as Kscope1117 on the side B label.  Track B3 recorded on the Manor Mobile.  Published by PolyGram Music except track A3 PolyGram / MCPS (Copyright Control).   ℗ 1997 the copyright in this sound recording is owned by Snapper Music Ltd. © 1997 Snapper Music Ltd. Kscope is a Snapper Music label.  Made in the EU.
 

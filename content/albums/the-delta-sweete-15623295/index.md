@@ -1,14 +1,17 @@
 ---
 title: "Bobbie Gentry - The Delta Sweete"
-album_artist: "Bobbie Gentry"
-album_title: "The Delta Sweete"
+artist: "Bobbie Gentry"
+album_name: "The Delta Sweete"
 date: 2020-08-01
 release_id: "15623295"
 slug: "the-delta-sweete-15623295"
+hideSummary: true
 cover:
     image: "the-delta-sweete-15623295.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "The Delta Sweete by Bobbie Gentry"
+    caption: "The Delta Sweete by Bobbie Gentry"
+genres: ["Folk, World, & Country"]
+styles: ["Folk Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -62,13 +65,16 @@ hideSummary: true
 - [Louisiana Man (Demo)](https://www.youtube.com/watch?v=-JWiyebdKi4)
 - [Mornin' Glory](https://www.youtube.com/watch?v=_CFkyuPoH44)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Bobbie Gentry - The Delta Sweete](https://www.discogs.com/release/15623295) |
+| Release Year   | 2020 |
+| Discogs Link   | [Bobbie Gentry - The Delta Sweete](https://www.discogs.com/release/15623295-Bobbie-Gentry-The-Delta-Sweete) |
 | Label          | Capitol Records, UMC, Capitol Records |
 | Format         | LP, Album, RE + LP + 180 |
 | Catalog Number | 00600753904770, 5390477 |
+
+Writing credits as given on inner sleeve  Gatefold sleeve with flipback design, includes two printed inner sleeves.  Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.  Includes Download Code  Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print.
 

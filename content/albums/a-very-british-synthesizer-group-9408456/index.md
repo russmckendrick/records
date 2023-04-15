@@ -1,14 +1,17 @@
 ---
 title: "The Human League - A Very British Synthesizer Group"
-album_artist: "The Human League"
-album_title: "A Very British Synthesizer Group"
+artist: "The Human League"
+album_name: "A Very British Synthesizer Group"
 date: 2017-02-11
 release_id: "9408456"
 slug: "a-very-british-synthesizer-group-9408456"
+hideSummary: true
 cover:
     image: "a-very-british-synthesizer-group-9408456.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "A Very British Synthesizer Group by The Human League"
+    caption: "A Very British Synthesizer Group by The Human League"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 - [[Keep Feeling] Fascination](https://www.youtube.com/watch?v=Y2ENOHNZCNQ)
 - [Love On The Run (Early Version)](https://www.youtube.com/watch?v=jFPAHPv9CyU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Human League - A Very British Synthesizer Group](https://www.discogs.com/release/9408456) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Human League - A Very British Synthesizer Group](https://www.discogs.com/release/9408456-The-Human-League-A-Very-British-Synthesizer-Group) |
 | Label          | Virgin |
 | Format         | 3xLP, Comp, 180 |
 | Catalog Number | 571 111-5 |
+
+Triple LP half-speed mastered box set.  Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).  First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan. 
 

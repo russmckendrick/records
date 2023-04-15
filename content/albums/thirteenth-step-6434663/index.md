@@ -1,14 +1,17 @@
 ---
 title: "A Perfect Circle - Thirteenth Step"
-album_artist: "A Perfect Circle"
-album_title: "Thirteenth Step"
+artist: "A Perfect Circle"
+album_name: "Thirteenth Step"
 date: 2018-02-07
 release_id: "6434663"
 slug: "thirteenth-step-6434663"
+hideSummary: true
 cover:
     image: "thirteenth-step-6434663.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Thirteenth Step by A Perfect Circle"
+    caption: "Thirteenth Step by A Perfect Circle"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [A Perfect Circle - Outsider (Director's Cut)](https://www.youtube.com/watch?v=KO3l733WRN0)
 - [07. The Outsider - A Perfect Circle](https://www.youtube.com/watch?v=nzyNWyZhUS0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [A Perfect Circle - Thirteenth Step](https://www.discogs.com/release/6434663) |
+| Release Year   | 2014 |
+| Discogs Link   | [A Perfect Circle - Thirteenth Step](https://www.discogs.com/release/6434663-A-Perfect-Circle-Thirteenth-Step) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | MOVLP1114 |
+
+Pressing plant uncredited, identified by matrix numbers   Sticker says: "Music On Vinyl Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Original release Ⓟ 2003 Virgin Records America, Inc.  This release Ⓟ & Ⓒ 2014 Universal Music B.V.
 

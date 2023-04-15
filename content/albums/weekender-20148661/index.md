@@ -1,14 +1,17 @@
 ---
 title: "Flowered Up - Weekender"
-album_artist: "Flowered Up"
-album_title: "Weekender"
+artist: "Flowered Up"
+album_name: "Weekender"
 date: 2021-09-09
 release_id: "20148661"
 slug: "weekender-20148661"
+hideSummary: true
 cover:
     image: "weekender-20148661.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Weekender by Flowered Up"
+    caption: "Weekender by Flowered Up"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Flowered Up - Weekender](https://www.discogs.com/release/20148661) |
+| Release Year   | 2021 |
+| Discogs Link   | [Flowered Up - Weekender](https://www.discogs.com/release/20148661-Flowered-Up-Weekender) |
 | Label          | Heavenly |
 | Format         | 12\", Ltd, RE, RP, Pin |
 | Catalog Number | HVN588 |
+
+Love Record Stores pink vinyl repress.  ℗ 1992 Sony Music Entertainment UK Limited. Licenced courtesy of Sony Music Entertainment UK Limited.  nb: catalogue number incorrect on the Side A runout. Stamped HNV588-A1 instead of HVN588-A1.
 

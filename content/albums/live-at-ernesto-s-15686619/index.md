@@ -1,14 +1,17 @@
 ---
 title: "The Slackers - Live At Ernesto's!"
-album_artist: "The Slackers"
-album_title: "Live At Ernesto's!"
+artist: "The Slackers"
+album_name: "Live At Ernesto's!"
 date: 2020-08-14
 release_id: "15686619"
 slug: "live-at-ernesto-s-15686619"
+hideSummary: true
 cover:
     image: "live-at-ernesto-s-15686619.jpg"
-tags: ["Rock", "Reggae"]
-hideSummary: true
+    alt: "Live At Ernesto's! by The Slackers"
+    caption: "Live At Ernesto's! by The Slackers"
+genres: ["Rock", "Reggae"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [The Slackers - Pedophilia (Live at Ernesto's)](https://www.youtube.com/watch?v=Jnn8sywBL9Y)
 - [The Slackers - Sooner Or Later](https://www.youtube.com/watch?v=cGHQ6cpmXEQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Slackers - Live At Ernesto's!](https://www.discogs.com/release/15686619) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Slackers - Live At Ernesto's!](https://www.discogs.com/release/15686619-The-Slackers-Live-At-Ernestos) |
 | Label          | Pirates Press Records, Hellcat Records |
 | Format         | 2xLP, Album, RE, Cle |
 | Catalog Number | PPR 268, 0426-2 |
+
+PRESSING INFO: 1000pcs. - 2x12" Black Vinyl 700pcs. - 2x12" Ultra Clear & White Galaxy Vinyl 300pcs. - 2x12" Ultra Clear w/ Glow In The Dark Splatter Vinyl [THIS]  © & ℗ 2000 Hellcat Records. Manufactured and distributed by Epitaph Europe.  Recorded on March 8th and 9th of 1999 in Sittard, The Netherlands. Mixed at Coyote Studios, Brookling, New York, USA. Mastered at West West Side Music, Tenafly, New Jersey, USA. 
 

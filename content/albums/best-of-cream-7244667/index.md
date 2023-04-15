@@ -1,14 +1,17 @@
 ---
 title: "Cream (2) - Best Of Cream"
-album_artist: "Cream (2)"
-album_title: "Best Of Cream"
+artist: "Cream (2)"
+album_name: "Best Of Cream"
 date: 2020-08-02
 release_id: "7244667"
 slug: "best-of-cream-7244667"
+hideSummary: true
 cover:
     image: "best-of-cream-7244667.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Best Of Cream by Cream (2)"
+    caption: "Best Of Cream by Cream (2)"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Strange Brew](https://www.youtube.com/watch?v=GLdz6zfJMDI)
 - [I Feel Free](https://www.youtube.com/watch?v=prnbF8Eagdg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1969 |
-| Discogs Link   | [Cream (2) - Best Of Cream](https://www.discogs.com/release/7244667) |
+| Release Year   | 1969 |
+| Discogs Link   | [Cream (2) - Best Of Cream](https://www.discogs.com/release/7244667-Cream-Best-Of-Cream) |
 | Label          | Polydor |
 | Format         | LP, Comp, Lam |
 | Catalog Number | 583 060 |
+
+Laminated sleeve with plain inner sleeve  Crossroads was recorded live at the Fillmore Auditorium in San Francisco  I Feel Free is a Robert Stigwood Organization (London) Production All other selections were produced by Felix Pappalardi By arrangement with Robert Stigwood  Publishers: A1, A4, A5, B3 to B5 by Dratleaf A2 by Dratleaf/Apple  A3 by Immediate B1 by Tee Pee B2 by Jewel  Manufactured by Polydor Records Ltd., London  Made in England  ℗ 1966 - B5 ℗ 1967 - A1, A5, B3, B4 ℗ 1968 - A3, A4, B1, B2 ℗ 1969 - A2  Runouts are stamped
 

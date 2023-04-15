@@ -1,14 +1,17 @@
 ---
 title: "Porcupine Tree - The Delerium Years 1991-1993"
-album_artist: "Porcupine Tree"
-album_title: "The Delerium Years 1991-1993"
+artist: "Porcupine Tree"
+album_name: "The Delerium Years 1991-1993"
 date: 2017-01-27
 release_id: "9719328"
 slug: "the-delerium-years-1991-1993-9719328"
+hideSummary: true
 cover:
     image: "the-delerium-years-1991-1993-9719328.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Delerium Years 1991-1993 by Porcupine Tree"
+    caption: "The Delerium Years 1991-1993 by Porcupine Tree"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -72,16 +75,17 @@ hideSummary: true
 58. Yellow Hedgerow Dreamscape (10:45)
 59. Music For The Head (1:22)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Porcupine Tree - The Delerium Years 1991-1993](https://www.discogs.com/release/9719328) |
+| Release Year   | 2017 |
+| Discogs Link   | [Porcupine Tree - The Delerium Years 1991-1993](https://www.discogs.com/release/9719328-Porcupine-Tree-The-Delerium-Years-1991-1993) |
 | Label          | Kscope |
 | Format         | Box, Comp, RM + 2xLP, Album + 2xLP, Album + 3xLP,  |
 | Catalog Number | KSCOPE893 |
+
+
 

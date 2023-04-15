@@ -1,14 +1,17 @@
 ---
 title: "Talking Heads - Speaking In Tongues"
-album_artist: "Talking Heads"
-album_title: "Speaking In Tongues"
+artist: "Talking Heads"
+album_name: "Speaking In Tongues"
 date: 2021-01-23
 release_id: "16799757"
 slug: "speaking-in-tongues-16799757"
+hideSummary: true
 cover:
     image: "speaking-in-tongues-16799757.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Speaking In Tongues by Talking Heads"
+    caption: "Speaking In Tongues by Talking Heads"
+genres: ["Rock"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
 - [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757) |
+| Release Year   | 2021 |
+| Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |
 | Label          | Rhino Records (2), Sire |
 | Format         | LP, Album, Ltd, RE, RP, Blu |
 | Catalog Number | RCV1-23883, 603497845330 |
+
+"Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies.
 

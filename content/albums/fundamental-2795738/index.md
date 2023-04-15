@@ -1,14 +1,17 @@
 ---
 title: "Mental As Anything - Fundamental"
-album_artist: "Mental As Anything"
-album_title: "Fundamental"
+artist: "Mental As Anything"
+album_name: "Fundamental"
 date: 2017-07-11
 release_id: "2795738"
 slug: "fundamental-2795738"
+hideSummary: true
 cover:
     image: "fundamental-2795738.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fundamental by Mental As Anything"
+    caption: "Fundamental by Mental As Anything"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [You're So Strong: Mental As Anything (Countdown 1985)](https://www.youtube.com/watch?v=tM_QVP9F2tw)
 - [Mental As Anything - Live It Up](https://www.youtube.com/watch?v=6idg4J9Nqf0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Mental As Anything - Fundamental](https://www.discogs.com/release/2795738) |
+| Release Year   | 1985 |
+| Discogs Link   | [Mental As Anything - Fundamental](https://www.discogs.com/release/2795738-Mental-As-Anything-Fundamental) |
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | EPC 26836 |
+
+
 

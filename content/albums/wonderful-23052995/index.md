@@ -1,14 +1,17 @@
 ---
 title: "Madness - Wonderful"
-album_artist: "Madness"
-album_title: "Wonderful"
+artist: "Madness"
+album_name: "Wonderful"
 date: 2022-09-04
 release_id: "23052995"
 slug: "wonderful-23052995"
+hideSummary: true
 cover:
     image: "wonderful-23052995.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Wonderful by Madness"
+    caption: "Wonderful by Madness"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Ska"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Madness - The Communicator (Wonderful Track 3)](https://www.youtube.com/watch?v=QsdlbJWipGc)
 - [Madness - Johnny The Horse (Wonderful Track 2)](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Madness - Wonderful](https://www.discogs.com/release/23052995) |
+| Release Year   | 2022 |
+| Discogs Link   | [Madness - Wonderful](https://www.discogs.com/release/23052995-Madness-Wonderful) |
 | Label          | Union Square Music, BMG |
 | Format         | LP, Album, RE |
 | Catalog Number | SALVOLP14 |
+
+Hype sticker reads:-  HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL Includes NEW LINER NOTES FROM LEE THOMPSON CHRIS FOREMAN MARK BEDFORD CATAHAL SMYTH & WOODY WOODGATE Featuring classic tracks Drip Fed Fred • Lovestruck Johnny The Horse SALVOLP14
 

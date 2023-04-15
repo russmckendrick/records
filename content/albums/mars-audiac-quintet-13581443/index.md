@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Mars Audiac Quintet"
-album_artist: "Stereolab"
-album_title: "Mars Audiac Quintet"
+artist: "Stereolab"
+album_name: "Mars Audiac Quintet"
 date: 2019-09-17
 release_id: "13581443"
 slug: "mars-audiac-quintet-13581443"
+hideSummary: true
 cover:
     image: "mars-audiac-quintet-13581443.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Mars Audiac Quintet by Stereolab"
+    caption: "Mars Audiac Quintet by Stereolab"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Experimental", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Outer Accelerator - (Original Mix)](https://www.youtube.com/watch?v=MKz7tZDfb4I)
 - [Stereolab - Anamorphose](https://www.youtube.com/watch?v=ksR2AnpgPo0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stereolab - Mars Audiac Quintet](https://www.discogs.com/release/13581443) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stereolab - Mars Audiac Quintet](https://www.discogs.com/release/13581443-Stereolab-Mars-Audiac-Quintet) |
 | Label          | Duophonic Ultra High Frequency Disks, Warp Records |
 | Format         | 2xLP, Album, RE, RM + LP |
 | Catalog Number | D-UHF-D05R |
+
+Black vinyl re-issue.  Expanded issue, includes a bonus disk of demos and alternate versions.  Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.  Comes with a 4-panel fold out poster with liner notes on the reverse.  A download code is also included.   40 copies were made with obi by Martin Pike and sold through Rough Trade UK. 20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC. 
 

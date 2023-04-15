@@ -1,14 +1,17 @@
 ---
 title: "Al Green - Greatest Hits"
-album_artist: "Al Green"
-album_title: "Greatest Hits"
+artist: "Al Green"
+album_name: "Greatest Hits"
 date: 2016-01-09
 release_id: "1624163"
 slug: "greatest-hits-1624163"
+hideSummary: true
 cover:
     image: "greatest-hits-1624163.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Greatest Hits by Al Green"
+    caption: "Greatest Hits by Al Green"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
 - [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/1624163) |
+| Release Year   | 1987 |
+| Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/1624163-Al-Green-Greatest-Hits) |
 | Label          | Hi Records, Hi Records |
 | Format         | LP, Comp, RE |
 | Catalog Number | HIUKLP 425, HI UK LP 425 |
+
+Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.  (P) 1972, 1973, 1975 Cream / Hi Records Inc. (C) 1987 Cream / Hi Records Inc. HI UK LP 425 = sleeve and spine cat# HIUKLP 425 = label cat# Runout matrices etched, except for TY1 that are stamped. 
 

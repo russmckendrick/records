@@ -1,14 +1,17 @@
 ---
 title: "Pet Shop Boys - Please"
-album_artist: "Pet Shop Boys"
-album_title: "Please"
+artist: "Pet Shop Boys"
+album_name: "Please"
 date: 2018-03-02
 release_id: "11643866"
 slug: "please-11643866"
+hideSummary: true
 cover:
     image: "please-11643866.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Please by Pet Shop Boys"
+    caption: "Please by Pet Shop Boys"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Pet Shop Boys - Suburbia (2003 Digital Remaster)](https://www.youtube.com/watch?v=oY7XObvKFx8)
 - [Pet Shop Boys - Love Comes Quickly](https://www.youtube.com/watch?v=QHaA1beOwrY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pet Shop Boys - Please](https://www.discogs.com/release/11643866) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pet Shop Boys - Please](https://www.discogs.com/release/11643866-Pet-Shop-Boys-Please) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 190295832759 |
+
+Engineered by David Jacob at Advision Studios, London. Andy Mackay courtesy of Virgin Records Ltd. Helena Springs courtesy of Arista Records Ltd. 2018 Remastering: Tim Young/Metropolis.  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Comes with printed inner sleeve and sticker on shrinkwrap: "pet shop boys please Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album 0190295832759" 
 

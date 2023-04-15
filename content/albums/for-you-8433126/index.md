@@ -1,14 +1,17 @@
 ---
 title: "Prince - For You"
-album_artist: "Prince"
-album_title: "For You"
+artist: "Prince"
+album_name: "For You"
 date: 2016-06-27
 release_id: "8433126"
 slug: "for-you-8433126"
+hideSummary: true
 cover:
     image: "for-you-8433126.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "For You by Prince"
+    caption: "For You by Prince"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [So Blue](https://www.youtube.com/watch?v=UeWse9WsnFA)
 - [I'm Yours](https://www.youtube.com/watch?v=lk5avOf5tqY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Prince - For You](https://www.discogs.com/release/8433126) |
+| Release Year   | 2016 |
+| Discogs Link   | [Prince - For You](https://www.discogs.com/release/8433126-Prince-For-You) |
 | Label          | Warner Bros. Records, NPG Records |
 | Format         | LP, Album, RE |
 | Catalog Number | 9362-49220-9 |
+
+Original 1978 vinyl mastering by Bernie Grundman at A&M (artwork) Reissue 2016 vinyl mastering by Kevin Gray at Cohearant Audio (matrix/runout)
 

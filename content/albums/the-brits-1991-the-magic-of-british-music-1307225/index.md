@@ -1,14 +1,17 @@
 ---
 title: "Various - The Brits 1991 (The Magic Of British Music) "
-album_artist: "Various"
-album_title: "The Brits 1991 (The Magic Of British Music) "
+artist: "Various"
+album_name: "The Brits 1991 (The Magic Of British Music) "
 date: 2019-01-05
 release_id: "1307225"
 slug: "the-brits-1991-the-magic-of-british-music-1307225"
+hideSummary: true
 cover:
     image: "the-brits-1991-the-magic-of-british-music-1307225.jpg"
-tags: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "The Brits 1991 (The Magic Of British Music)  by Various"
+    caption: "The Brits 1991 (The Magic Of British Music)  by Various"
+genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -42,16 +45,17 @@ hideSummary: true
 28. Live Together
 29. Life's What You Make It
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Various - The Brits 1991 (The Magic Of British Music) ](https://www.discogs.com/release/1307225) |
+| Release Year   | 1991 |
+| Discogs Link   | [Various - The Brits 1991 (The Magic Of British Music) ](https://www.discogs.com/release/1307225-Various-The-Brits-1991-The-Magic-Of-British-Music-) |
 | Label          | Telstar |
 | Format         | 2xLP, Comp |
 | Catalog Number | STAR 2481 |
+
+D3 misspelled "Closet mix" instead of "Closest mix" 
 

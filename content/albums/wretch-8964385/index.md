@@ -1,14 +1,17 @@
 ---
 title: "Kyuss - Wretch"
-album_artist: "Kyuss"
-album_title: "Wretch"
+artist: "Kyuss"
+album_name: "Wretch"
 date: 2016-09-14
 release_id: "8964385"
 slug: "wretch-8964385"
+hideSummary: true
 cover:
     image: "wretch-8964385.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wretch by Kyuss"
+    caption: "Wretch by Kyuss"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Big Bikes](https://www.youtube.com/watch?v=RwpWyGPk4k0)
 - [Stage III](https://www.youtube.com/watch?v=FD6iMtFyclU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Kyuss - Wretch](https://www.discogs.com/release/8964385) |
+| Release Year   | 2016 |
+| Discogs Link   | [Kyuss - Wretch](https://www.discogs.com/release/8964385-Kyuss-Wretch) |
 | Label          | Dali Records |
 | Format         | 2xLP, Album, RE, RP, Whi |
 | Catalog Number | 3704-61256-1 |
+
+Sticker on front sleeve stating "180g Coloured Vinyl".  Recorded and mixed at Headway Studios and Master Control. Mastered at K-Disk.  Originally released as a [ single LP](http://www.discogs.com/Kyuss-Wretch/release/2885461) on black vinyl in 1991 by Dali Records.  ℗ & © 1991 Dali Records, a division of Chamelion Music Group. Made in Germany  Pressing plant uncredited, identified by the matrix numbers.  
 

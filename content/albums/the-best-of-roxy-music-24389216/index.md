@@ -1,14 +1,17 @@
 ---
 title: "Roxy Music - The Best Of Roxy Music"
-album_artist: "Roxy Music"
-album_title: "The Best Of Roxy Music"
+artist: "Roxy Music"
+album_name: "The Best Of Roxy Music"
 date: 2022-09-04
 release_id: "24389216"
 slug: "the-best-of-roxy-music-24389216"
+hideSummary: true
 cover:
     image: "the-best-of-roxy-music-24389216.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Best Of Roxy Music by Roxy Music"
+    caption: "The Best Of Roxy Music by Roxy Music"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Roxy Music - Over You ᴴᴰ](https://www.youtube.com/watch?v=Lm84LZF66_w)
 - [Roxy Music - Oh yeah](https://www.youtube.com/watch?v=rpuiPhxsZLo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Roxy Music - The Best Of Roxy Music](https://www.discogs.com/release/24389216) |
+| Release Year   | 2022 |
+| Discogs Link   | [Roxy Music - The Best Of Roxy Music](https://www.discogs.com/release/24389216-Roxy-Music-The-Best-Of-Roxy-Music) |
 | Label          | Virgin, UMC |
 | Format         | 2xLP, Comp, RE, RM, Hal |
 | Catalog Number | RMLPB1, 0602445593422 |
+
+Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.  Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.  Made in the EU.
 

@@ -1,14 +1,17 @@
 ---
 title: "Whale - We Care"
-album_artist: "Whale"
-album_title: "We Care"
+artist: "Whale"
+album_name: "We Care"
 date: 2019-08-23
 release_id: "1415702"
 slug: "we-care-1415702"
+hideSummary: true
 cover:
     image: "we-care-1415702.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "We Care by Whale"
+    caption: "We Care by Whale"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Whale - I'm Cold.wmv](https://www.youtube.com/watch?v=P0CCPs5FFAc)
 - [Whale - We Care (1995)](https://www.youtube.com/watch?v=_qhaJRpOtSY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1995 |
-| Discogs Link   | [Whale - We Care](https://www.discogs.com/release/1415702) |
+| Release Year   | 1995 |
+| Discogs Link   | [Whale - We Care](https://www.discogs.com/release/1415702-Whale-We-Care) |
 | Label          | Virgin, Hut Recordings |
 | Format         | 2xLP, Album |
 | Catalog Number | 7243 8 40560 1 8, HUTLP 25 |
+
+ Foil cover with die-cut black inner sleeves.  Made in England (on labels) Printed in UK (sticker)  
 

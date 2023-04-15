@@ -1,14 +1,17 @@
 ---
 title: "The Frank And Walters - Trains, Boats And Planes"
-album_artist: "The Frank And Walters"
-album_title: "Trains, Boats And Planes"
+artist: "The Frank And Walters"
+album_name: "Trains, Boats And Planes"
 date: 2018-03-24
 release_id: "1208911"
 slug: "trains-boats-and-planes-1208911"
+hideSummary: true
 cover:
     image: "trains-boats-and-planes-1208911.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Trains, Boats And Planes by The Frank And Walters"
+    caption: "Trains, Boats And Planes by The Frank And Walters"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Time](https://www.youtube.com/watch?v=FlLw-_KNNRM)
 - [High Is Low](https://www.youtube.com/watch?v=CCoDbxjRgfg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [The Frank And Walters - Trains, Boats And Planes](https://www.discogs.com/release/1208911) |
+| Release Year   | 1992 |
+| Discogs Link   | [The Frank And Walters - Trains, Boats And Planes](https://www.discogs.com/release/1208911-The-Frank-And-Walters-Trains-Boats-And-Planes) |
 | Label          | Go! Discs |
 | Format         | LP |
 | Catalog Number | 828-369-1 |
+
+Comes in a gatefold cover with a printed inner sleeve.
 

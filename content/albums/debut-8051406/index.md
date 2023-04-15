@@ -1,14 +1,17 @@
 ---
 title: "Björk - Debut"
-album_artist: "Björk"
-album_title: "Debut"
+artist: "Björk"
+album_name: "Debut"
 date: 2016-11-24
 release_id: "8051406"
 slug: "debut-8051406"
+hideSummary: true
 cover:
     image: "debut-8051406.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Pop"]
-hideSummary: true
+    alt: "Debut by Björk"
+    caption: "Debut by Björk"
+genres: ["Electronic", "Jazz", "Rock", "Pop"]
+styles: ["House", "Synth-pop", "Experimental"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Bjork - Violently Happy](https://www.youtube.com/watch?v=38UrRpYsPjw)
 - [Björk, David Arnold - Play Dead](https://www.youtube.com/watch?v=vMdIxPnM5hA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Björk - Debut](https://www.discogs.com/release/8051406) |
+| Release Year   | 2016 |
+| Discogs Link   | [Björk - Debut](https://www.discogs.com/release/8051406-Bj%C3%B6rk-Debut) |
 | Label          | Polydor, Polydor |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 4751686, 0602547516862 |
+
+Reissue on black 180 gram vinyl, with black hype sticker. Includes card with download voucher. Appears identical to the 2015 edition, although this one features new artwork reproductions. Made in Germany.  4751686 is printed on the back cover above the barcode, 0602547516862 is printed on the bottom spine.
 

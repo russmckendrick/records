@@ -1,14 +1,17 @@
 ---
 title: "Various - Dazed and Confused (Music From Motion Picture)"
-album_artist: "Various"
-album_title: "Dazed and Confused (Music From Motion Picture)"
+artist: "Various"
+album_name: "Dazed and Confused (Music From Motion Picture)"
 date: 2021-10-09
 release_id: "19590373"
 slug: "dazed-and-confused-music-from-motion-picture-19590373"
+hideSummary: true
 cover:
     image: "dazed-and-confused-music-from-motion-picture-19590373.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Dazed and Confused (Music From Motion Picture) by Various"
+    caption: "Dazed and Confused (Music From Motion Picture) by Various"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Rock N' Roll All Night ( Good Quality ) - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
 - [Paranoid (2012 - Remaster)](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373) |
+| Release Year   | 2021 |
+| Discogs Link   | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |
 | Label          | The Medicine Label, The Medicine Label |
 | Format         | 2xLP, Comp, Ltd, RE, Gat |
 | Catalog Number | RCV1 24533, 603497843886 |
+
+Made in Czech Republic.
 

@@ -1,14 +1,17 @@
 ---
 title: "Paul Draper - Attack Of The Grey Lantern Live At The Ritz"
-album_artist: "Paul Draper"
-album_title: "Attack Of The Grey Lantern Live At The Ritz"
+artist: "Paul Draper"
+album_name: "Attack Of The Grey Lantern Live At The Ritz"
 date: 2018-11-23
 release_id: "12803625"
 slug: "attack-of-the-grey-lantern-live-at-the-ritz-12803625"
+hideSummary: true
 cover:
     image: "attack-of-the-grey-lantern-live-at-the-ritz-12803625.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Attack Of The Grey Lantern Live At The Ritz by Paul Draper"
+    caption: "Attack Of The Grey Lantern Live At The Ritz by Paul Draper"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Dark Mavis (8:44)
 12. An Open Letter To The Lyrical Trainspotter (4:33)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Paul Draper - Attack Of The Grey Lantern Live At The Ritz](https://www.discogs.com/release/12803625) |
+| Release Year   | 2018 |
+| Discogs Link   | [Paul Draper - Attack Of The Grey Lantern Live At The Ritz](https://www.discogs.com/release/12803625-Paul-Draper-Attack-Of-The-Grey-Lantern-Live-At-The-Ritz) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd |
 | Catalog Number | kscope1007 |
+
+Comes with download card allowing 1 download of album in MP3 format.  Signed copies sold on Pauls November 2018 Acoustic tour. 
 

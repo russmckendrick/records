@@ -1,14 +1,17 @@
 ---
 title: "Tubeway Army - Replicas"
-album_artist: "Tubeway Army"
-album_title: "Replicas"
+artist: "Tubeway Army"
+album_name: "Replicas"
 date: 2016-12-04
 release_id: "7622130"
 slug: "replicas-7622130"
+hideSummary: true
 cover:
     image: "replicas-7622130.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Replicas by Tubeway Army"
+    caption: "Replicas by Tubeway Army"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
 - [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Tubeway Army - Replicas](https://www.discogs.com/release/7622130) |
+| Release Year   | 2015 |
+| Discogs Link   | [Tubeway Army - Replicas](https://www.discogs.com/release/7622130-Tubeway-Army-Replicas) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | BBQLP 7 |
+
+Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.
 

@@ -1,14 +1,17 @@
 ---
 title: "Jenny Lewis - On The Line"
-album_artist: "Jenny Lewis"
-album_title: "On The Line"
+artist: "Jenny Lewis"
+album_name: "On The Line"
 date: 2019-03-23
 release_id: "13380922"
 slug: "on-the-line-13380922"
+hideSummary: true
 cover:
     image: "on-the-line-13380922.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "On The Line by Jenny Lewis"
+    caption: "On The Line by Jenny Lewis"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Jenny Lewis - On The Line (Official Audio)](https://www.youtube.com/watch?v=GmfvvKDOEwE)
 - [Jenny Lewis - Rabbit Hole (Official Audio)](https://www.youtube.com/watch?v=PSgvM6D6ssY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922) |
+| Release Year   | 2019 |
+| Discogs Link   | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922-Jenny-Lewis-On-The-Line) |
 | Label          | Warner Bros. Records |
 | Format         | LP, Album, Ltd, Blu |
 | Catalog Number | 585764-1 |
+
+Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany.
 

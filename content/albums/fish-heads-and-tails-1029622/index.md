@@ -1,14 +1,17 @@
 ---
 title: "Goodbye Mr. Mackenzie - Fish Heads And Tails"
-album_artist: "Goodbye Mr. Mackenzie"
-album_title: "Fish Heads And Tails"
+artist: "Goodbye Mr. Mackenzie"
+album_name: "Fish Heads And Tails"
 date: 2020-08-01
 release_id: "1029622"
 slug: "fish-heads-and-tails-1029622"
+hideSummary: true
 cover:
     image: "fish-heads-and-tails-1029622.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fish Heads And Tails by Goodbye Mr. Mackenzie"
+    caption: "Fish Heads And Tails by Goodbye Mr. Mackenzie"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Mystery Train
 10. Knockin' On Joe (Live)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Goodbye Mr. Mackenzie - Fish Heads And Tails](https://www.discogs.com/release/1029622) |
+| Release Year   | 1989 |
+| Discogs Link   | [Goodbye Mr. Mackenzie - Fish Heads And Tails](https://www.discogs.com/release/1029622-Goodbye-Mr-Mackenzie-Fish-Heads-And-Tails) |
 | Label          | Capitol Records UK, Capitol Records UK |
 | Format         | LP, Comp |
 | Catalog Number | CAPS 2001, 79 3357 1 |
+
+[Label]: All tracks published by Virgin Music (Publishers) Ltd. except A1 Carlin Music Corp / MCPS A2 Cubic Music / MCPS. B1 Bug Music / Warner Chappell Music ltd B4 Warner Chappell Music Ltd. B5 Dying Art Ltd. "Knockin' On Joe (Live)" recorded at the Town & Country Club, London on 20th June 1989 by Fleetwood Mobile.  [Label rim text]: Manufactured in England by EMI Records Limited.  [Rear sleeve]: ℗ The copyright in this compilation is owned by Capitol Records Inc. © 1989 EMI Records Ltd. Sleeve printed in England Manufactured in England SP8911CMCS
 

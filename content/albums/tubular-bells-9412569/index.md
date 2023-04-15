@@ -1,14 +1,17 @@
 ---
 title: "Mike Oldfield - Tubular Bells"
-album_artist: "Mike Oldfield"
-album_title: "Tubular Bells"
+artist: "Mike Oldfield"
+album_name: "Tubular Bells"
 date: 2016-12-01
 release_id: "9412569"
 slug: "tubular-bells-9412569"
+hideSummary: true
 cover:
     image: "tubular-bells-9412569.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tubular Bells by Mike Oldfield"
+    caption: "Tubular Bells by Mike Oldfield"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 - [Tubular Bells (Pt. I)](https://www.youtube.com/watch?v=BfWJqKIxyGc)
 - [Tubular Bells (Pt. II)](https://www.youtube.com/watch?v=oehz0YN18jo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Mike Oldfield - Tubular Bells](https://www.discogs.com/release/9412569) |
+| Release Year   | 2016 |
+| Discogs Link   | [Mike Oldfield - Tubular Bells](https://www.discogs.com/release/9412569-Mike-Oldfield-Tubular-Bells) |
 | Label          | Virgin, Universal Music Group International |
 | Format         | LP, Album, RE, 180 + LP, Album, RE, 180 + Dlx, RM, |
 | Catalog Number | 0600753695036 |
+
+2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios.  Housed in a gatefold cover and includes voucher to download MP3 version of the album and Japanese style obi. 
 

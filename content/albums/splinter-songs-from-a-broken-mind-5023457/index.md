@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - Splinter (Songs From A Broken Mind)"
-album_artist: "Gary Numan"
-album_title: "Splinter (Songs From A Broken Mind)"
+artist: "Gary Numan"
+album_name: "Splinter (Songs From A Broken Mind)"
 date: 2017-02-24
 release_id: "5023457"
 slug: "splinter-songs-from-a-broken-mind-5023457"
+hideSummary: true
 cover:
     image: "splinter-songs-from-a-broken-mind-5023457.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Splinter (Songs From A Broken Mind) by Gary Numan"
+    caption: "Splinter (Songs From A Broken Mind) by Gary Numan"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Darkwave"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Gary Numan - Love Hurt Bleed](https://www.youtube.com/watch?v=46kXvXV42Qk)
 - [Gary Numan - I Am Dust](https://www.youtube.com/watch?v=iMAz9jofm_4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Gary Numan - Splinter (Songs From A Broken Mind)](https://www.discogs.com/release/5023457) |
+| Release Year   | 2013 |
+| Discogs Link   | [Gary Numan - Splinter (Songs From A Broken Mind)](https://www.discogs.com/release/5023457-Gary-Numan-Splinter-Songs-From-A-Broken-Mind) |
 | Label          | Mortal Records |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | MORTALLP15 |
+
+Gatefold Sleeve  ℗© 2013 Machine Music USA, INC  Mastered At Alchemy Mastering, London.  Recorded In Waldon (East Sussex), Long Eaton (Nottinghamshire) And Los Angeles (California).  Photography By LaRoche Brothers (Woolhouse Studios)  
 

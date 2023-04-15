@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Cobras And Fire: The Mastermind Redux"
-album_artist: "Monster Magnet"
-album_title: "Cobras And Fire: The Mastermind Redux"
+artist: "Monster Magnet"
+album_name: "Cobras And Fire: The Mastermind Redux"
 date: 2015-11-30
 release_id: "7628637"
 slug: "cobras-and-fire-the-mastermind-redux-7628637"
+hideSummary: true
 cover:
     image: "cobras-and-fire-the-mastermind-redux-7628637.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cobras And Fire: The Mastermind Redux by Monster Magnet"
+    caption: "Cobras And Fire: The Mastermind Redux by Monster Magnet"
+genres: ["Rock"]
+styles: ["Hard Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The Titan](https://www.youtube.com/watch?v=g8XUUkXJqH4)
 - [Ball Of Confusion](https://www.youtube.com/watch?v=_ns1NlBWmGE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Monster Magnet - Cobras And Fire: The Mastermind Redux](https://www.discogs.com/release/7628637) |
+| Release Year   | 2015 |
+| Discogs Link   | [Monster Magnet - Cobras And Fire: The Mastermind Redux](https://www.discogs.com/release/7628637-Monster-Magnet-Cobras-And-Fire-The-Mastermind-Redux) |
 | Label          | Napalm Records |
 | Format         | 2xLP, Album, Ltd, Yel |
 | Catalog Number | NPR 629 LP |
+
+180 gram YELLOW VINYL edition with gatefold jacket.  Exclusively distributed in the USA by ADA.  Barcode for this limited edition is on a sticker which covers the original barcode printed on the sleeve (which is the barcode for the black vinyl version).  Featuring re-written and newly interpreted tracks of the [m=287598] album.
 

@@ -1,14 +1,17 @@
 ---
 title: "Jim Bob (2) - Who Do We Hate Today"
-album_artist: "Jim Bob (2)"
-album_title: "Who Do We Hate Today"
+artist: "Jim Bob (2)"
+album_name: "Who Do We Hate Today"
 date: 2021-08-23
 release_id: "19932178"
 slug: "who-do-we-hate-today-19932178"
+hideSummary: true
 cover:
     image: "who-do-we-hate-today-19932178.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Who Do We Hate Today by Jim Bob (2)"
+    caption: "Who Do We Hate Today by Jim Bob (2)"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
 - [Who Do We Hate Today?](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Jim Bob (2) - Who Do We Hate Today](https://www.discogs.com/release/19932178) |
+| Release Year   | 2021 |
+| Discogs Link   | [Jim Bob (2) - Who Do We Hate Today](https://www.discogs.com/release/19932178-Jim-Bob-Who-Do-We-Hate-Today) |
 | Label          | Cherry Red |
 | Format         | LP, Album, Ltd |
 | Catalog Number | BRED850 |
+
+Gatefold sleeve.  2022 Jim Bob Calendar included
 

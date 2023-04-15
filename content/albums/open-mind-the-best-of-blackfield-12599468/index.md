@@ -1,14 +1,17 @@
 ---
 title: "Blackfield - Open Mind (The Best Of Blackfield)"
-album_artist: "Blackfield"
-album_title: "Open Mind (The Best Of Blackfield)"
+artist: "Blackfield"
+album_name: "Open Mind (The Best Of Blackfield)"
 date: 2021-02-07
 release_id: "12599468"
 slug: "open-mind-the-best-of-blackfield-12599468"
+hideSummary: true
 cover:
     image: "open-mind-the-best-of-blackfield-12599468.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Open Mind (The Best Of Blackfield) by Blackfield"
+    caption: "Open Mind (The Best Of Blackfield) by Blackfield"
+genres: ["Rock"]
+styles: ["Krautrock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind (from Open Mind: The Best of Blackfield)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Blackfield - Open Mind (The Best Of Blackfield)](https://www.discogs.com/release/12599468) |
+| Release Year   | 2018 |
+| Discogs Link   | [Blackfield - Open Mind (The Best Of Blackfield)](https://www.discogs.com/release/12599468-Blackfield-Open-Mind-The-Best-Of-Blackfield) |
 | Label          | Kscope, Kscope |
 | Format         | LP, Yel + LP, S/Sided, Etch, Yel + Comp, Ltd |
 | Catalog Number | kscope 1016, KSCOPE980 |
+
+℗ & © 2018 Snapper Music Ltd.  The catalog number kscope 1016 only appears on the sticker on the bag the release comes in.
 

@@ -1,14 +1,17 @@
 ---
 title: "Pop Will Eat Itself - Now For A Feast!"
-album_artist: "Pop Will Eat Itself"
-album_title: "Now For A Feast!"
+artist: "Pop Will Eat Itself"
+album_name: "Now For A Feast!"
 date: 2018-02-15
 release_id: "958446"
 slug: "now-for-a-feast-958446"
+hideSummary: true
 cover:
     image: "now-for-a-feast-958446.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Now For A Feast! by Pop Will Eat Itself"
+    caption: "Now For A Feast! by Pop Will Eat Itself"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [PWEI Oh Grebo I Think I Love You](https://www.youtube.com/watch?v=VLOCQpsmutk)
 - [Pop Will Eat Itself - Sick Little Girl](https://www.youtube.com/watch?v=aqj67I5-dFg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Pop Will Eat Itself - Now For A Feast!](https://www.discogs.com/release/958446) |
+| Release Year   | 1988 |
+| Discogs Link   | [Pop Will Eat Itself - Now For A Feast!](https://www.discogs.com/release/958446-Pop-Will-Eat-Itself-Now-For-A-Feast) |
 | Label          | Chapter 22 |
 | Format         | LP, Comp |
 | Catalog Number | CHAP LP 33 |
+
+All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing ℗ Chapter 22 Records 1988 © Chapter 22 Records 1988 Made in England
 

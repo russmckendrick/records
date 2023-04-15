@@ -1,14 +1,17 @@
 ---
 title: "They Might Be Giants - Flood"
-album_artist: "They Might Be Giants"
-album_title: "Flood"
+artist: "They Might Be Giants"
+album_name: "Flood"
 date: 2020-02-17
 release_id: "14639400"
 slug: "flood-14639400"
+hideSummary: true
 cover:
     image: "flood-14639400.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flood by They Might Be Giants"
+    caption: "Flood by They Might Be Giants"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/14639400) |
+| Release Year   | 2020 |
+| Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/14639400-They-Might-Be-Giants-Flood) |
 | Label          | Idlewild Recordings, Elektra |
 | Format         | LP, Ltd, Pic, RE, 30t |
 | Catalog Number | IDLE154 |
+
+Picture disc contains 5 zoetrope animations on side B.
 

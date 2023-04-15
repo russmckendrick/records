@@ -1,14 +1,17 @@
 ---
 title: "Bon Jovi - Keep The Faith"
-album_artist: "Bon Jovi"
-album_title: "Keep The Faith"
+artist: "Bon Jovi"
+album_name: "Keep The Faith"
 date: 2018-06-13
 release_id: "9366429"
 slug: "keep-the-faith-9366429"
+hideSummary: true
 cover:
     image: "keep-the-faith-9366429.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Keep The Faith by Bon Jovi"
+    caption: "Keep The Faith by Bon Jovi"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Blame It On The Love Of Rock & Roll](https://www.youtube.com/watch?v=FOZyLCZ-n8Y)
 - [Little Bit Of Soul](https://www.youtube.com/watch?v=1aakOCSMWpM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Bon Jovi - Keep The Faith](https://www.discogs.com/release/9366429) |
+| Release Year   | 2016 |
+| Discogs Link   | [Bon Jovi - Keep The Faith](https://www.discogs.com/release/9366429-Bon-Jovi-Keep-The-Faith) |
 | Label          | Mercury, UMe |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | B0021970-01 |
+
+180 gram vinyl released in a gatefold sleeve.    
 

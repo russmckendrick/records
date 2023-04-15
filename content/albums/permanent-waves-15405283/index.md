@@ -1,14 +1,17 @@
 ---
 title: "Rush - Permanent Waves"
-album_artist: "Rush"
-album_title: "Permanent Waves"
+artist: "Rush"
+album_name: "Permanent Waves"
 date: 2020-06-01
 release_id: "15405283"
 slug: "permanent-waves-15405283"
+hideSummary: true
 cover:
     image: "permanent-waves-15405283.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Permanent Waves by Rush"
+    caption: "Permanent Waves by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. Jacob’s Ladder (Live In Missouri)
 20. Freewill (Live In London)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Rush - Permanent Waves](https://www.discogs.com/release/15405283) |
+| Release Year   | 2020 |
+| Discogs Link   | [Rush - Permanent Waves](https://www.discogs.com/release/15405283-Rush-Permanent-Waves) |
 | Label          | Mercury, Anthem (5) |
 | Format         | 3xLP, Album, RE, RM + Dlx |
 | Catalog Number | 00602508607257 |
+
+Slipcase packing containing: - Permanent Waves Album  - Single cover with printed insert - Permanent Waves World Tour 1980 - Gatefold cover - LP sized softcover booklet  Sticker on shrink wrap: 40th Anniversary Edition 3LPS - 180-Gram AudioPhile Vinyl Original Album + Permanent Waves World Tour 1980 12 Unreleased Live Performances Designed By Hugh Syme With Unreleased Illustrations And Photos
 

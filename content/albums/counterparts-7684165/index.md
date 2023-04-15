@@ -1,14 +1,17 @@
 ---
 title: "Rush - Counterparts"
-album_artist: "Rush"
-album_title: "Counterparts"
+artist: "Rush"
+album_name: "Counterparts"
 date: 2017-02-28
 release_id: "7684165"
 slug: "counterparts-7684165"
+hideSummary: true
 cover:
     image: "counterparts-7684165.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Counterparts by Rush"
+    caption: "Counterparts by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Cold Fire (4:27)
 11. Everyday Glory (5:10)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Counterparts](https://www.discogs.com/release/7684165) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Counterparts](https://www.discogs.com/release/7684165-Rush-Counterparts) |
 | Label          | Atlantic, Anthem (5) |
 | Format         | LP, 200 + LP, S/Sided, Etch, 200 + Album, RE, RM,  |
 | Catalog Number | R1 82528 |
+
+Includes High Quality Download Code Etched D Side 2 LP in a single sleeve jacket 
 

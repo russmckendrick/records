@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - The Heart Of Saturday Night"
-album_artist: "Tom Waits"
-album_title: "The Heart Of Saturday Night"
+artist: "Tom Waits"
+album_name: "The Heart Of Saturday Night"
 date: 2018-05-25
 release_id: "11978889"
 slug: "the-heart-of-saturday-night-11978889"
+hideSummary: true
 cover:
     image: "the-heart-of-saturday-night-11978889.jpg"
-tags: ["Jazz", "Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Heart Of Saturday Night by Tom Waits"
+    caption: "The Heart Of Saturday Night by Tom Waits"
+genres: ["Jazz", "Rock", "Folk, World, & Country"]
+styles: ["Blues Rock", "Folk"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="nqSnZv3JV0M" title="Tom Waits - The Heart of Saturday Night  (Full Album)" >}}
 - [Tom Waits - (Looking For) The Heart Of Saturday Night](https://www.youtube.com/watch?v=lbH6BUNsuts)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Tom Waits - The Heart Of Saturday Night](https://www.discogs.com/release/11978889) |
+| Release Year   | 2018 |
+| Discogs Link   | [Tom Waits - The Heart Of Saturday Night](https://www.discogs.com/release/11978889-Tom-Waits-The-Heart-Of-Saturday-Night) |
 | Label          | Anti- |
 | Format         | LP, Album, Ltd, RE, RM, Yel |
 | Catalog Number | 87566-1 |
+
+
 

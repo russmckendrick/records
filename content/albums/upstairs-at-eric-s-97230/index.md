@@ -1,14 +1,17 @@
 ---
 title: "Yazoo - Upstairs At Eric's"
-album_artist: "Yazoo"
-album_title: "Upstairs At Eric's"
+artist: "Yazoo"
+album_name: "Upstairs At Eric's"
 date: 2017-06-14
 release_id: "97230"
 slug: "upstairs-at-eric-s-97230"
+hideSummary: true
 cover:
     image: "upstairs-at-eric-s-97230.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Upstairs At Eric's by Yazoo"
+    caption: "Upstairs At Eric's by Yazoo"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Winter Kills](https://www.youtube.com/watch?v=77t2V9-UyHg)
 - [Bring Your Love Down (Didn't I)](https://www.youtube.com/watch?v=j0XfOld-AAc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Yazoo - Upstairs At Eric's](https://www.discogs.com/release/97230) |
+| Release Year   | 1982 |
+| Discogs Link   | [Yazoo - Upstairs At Eric's](https://www.discogs.com/release/97230-Yazoo-Upstairs-At-Erics) |
 | Label          | Mute |
 | Format         | LP, Album, Mus |
 | Catalog Number | STUMM 7 |
+
+Recorded at Blackwing 1 & 2 Studios, London Distributed by Rough Trade & Spartan ℗ Mute Records © Sonet Publishing  Comes with a printed inner sleeve with lyrics.  This version was cut at [l173687], with stamper/metalwork by [l380740]. The labels are a lighter shade of blue than other versions.  There are also two versions plated at [l304945]: one [with](https://www.discogs.com/release/9605338) "© [l266398]" printed on inner sleeve and one [without](https://www.discogs.com/release/8179227).
 

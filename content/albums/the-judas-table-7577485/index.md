@@ -1,14 +1,17 @@
 ---
 title: "Antimatter (3) - The Judas Table"
-album_artist: "Antimatter (3)"
-album_title: "The Judas Table"
+artist: "Antimatter (3)"
+album_name: "The Judas Table"
 date: 2016-01-18
 release_id: "7577485"
 slug: "the-judas-table-7577485"
+hideSummary: true
 cover:
     image: "the-judas-table-7577485.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Judas Table by Antimatter (3)"
+    caption: "The Judas Table by Antimatter (3)"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Antimatter - Integrity](https://www.youtube.com/watch?v=jtKFYIVqutc)
 - [Antimatter - The Judas Table](https://www.youtube.com/watch?v=yIhighJ9S8s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Antimatter (3) - The Judas Table](https://www.discogs.com/release/7577485) |
+| Release Year   | 2015 |
+| Discogs Link   | [Antimatter (3) - The Judas Table](https://www.discogs.com/release/7577485-Antimatter-The-Judas-Table) |
 | Label          | Prophecy Productions |
 | Format         | LP + LP, S/Sided + Album, Ltd |
 | Catalog Number | PRO 184LP |
+
+Gatefold 2LP (180g vinyl) incl. poster and PVC protection sleeve (500 copies available)
 

@@ -1,14 +1,17 @@
 ---
 title: "The Kinks - Greatest Hits"
-album_artist: "The Kinks"
-album_title: "Greatest Hits"
+artist: "The Kinks"
+album_name: "Greatest Hits"
 date: 2016-01-08
 release_id: "7746254"
 slug: "greatest-hits-7746254"
+hideSummary: true
 cover:
     image: "greatest-hits-7746254.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hits by The Kinks"
+    caption: "Greatest Hits by The Kinks"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [A Well Respected Man](https://www.youtube.com/watch?v=K2p0Ebm7rFk)
 - [The Kinks - Wonderboy (Official Audio)](https://www.youtube.com/watch?v=8aNbDn4mBcA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [The Kinks - Greatest Hits](https://www.discogs.com/release/7746254) |
+| Release Year   | 1985 |
+| Discogs Link   | [The Kinks - Greatest Hits](https://www.discogs.com/release/7746254-The-Kinks-Greatest-Hits) |
 | Label          | BR Music |
 | Format         | LP, Comp |
 | Catalog Number | BRLP 15 |
+
+On Label: This compilation P 1984 BR Music Licenced from PRT Ltd. On Back Cover: This compilation ℗ 1985 BR Music / Licenced from PRT Ltd. Made In Belgium  This version has light blue labels (not flat) This version has the SACEM logo in red
 

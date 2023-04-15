@@ -1,14 +1,17 @@
 ---
 title: "Curve - Cuckoo"
-album_artist: "Curve"
-album_title: "Cuckoo"
+artist: "Curve"
+album_name: "Cuckoo"
 date: 2017-12-23
 release_id: "10770803"
 slug: "cuckoo-10770803"
+hideSummary: true
 cover:
     image: "cuckoo-10770803.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Cuckoo by Curve"
+    caption: "Cuckoo by Curve"
+genres: ["Electronic", "Rock"]
+styles: ["Industrial", "Downtempo", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Curve - Sweetest Pie](https://www.youtube.com/watch?v=aa0AyjhTaCY)
 - [Curve - Cuckoo](https://www.youtube.com/watch?v=oFj97DVmhxU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Curve - Cuckoo](https://www.discogs.com/release/10770803) |
+| Release Year   | 2017 |
+| Discogs Link   | [Curve - Cuckoo](https://www.discogs.com/release/10770803-Curve-Cuckoo) |
 | Label          | 3 Loop Music |
 | Format         | LP, Album, RE |
 | Catalog Number | 3RANGE-53LP |
+
+Comes with download card from 3 Loop Music.  Some copies come with an art card signed by Toni and Dean.
 

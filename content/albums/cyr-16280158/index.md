@@ -1,14 +1,17 @@
 ---
 title: "The Smashing Pumpkins - Cyr"
-album_artist: "The Smashing Pumpkins"
-album_title: "Cyr"
+artist: "The Smashing Pumpkins"
+album_name: "Cyr"
 date: 2020-11-28
 release_id: "16280158"
 slug: "cyr-16280158"
+hideSummary: true
 cover:
     image: "cyr-16280158.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cyr by The Smashing Pumpkins"
+    caption: "Cyr by The Smashing Pumpkins"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. Tyger, Tyger (2:50)
 20. Minerva (3:33)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Smashing Pumpkins - Cyr](https://www.discogs.com/release/16280158) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Smashing Pumpkins - Cyr](https://www.discogs.com/release/16280158-The-Smashing-Pumpkins-Cyr) |
 | Label          | Sumerian Records, Martha's Music, Velvet Hammer Music And Management Group |
 | Format         | 2xLP, Album, Ltd, Pin |
 | Catalog Number | SUM1397, SUM1377 |
+
+Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book. Housed in a gatefold sleeve.  Limited to 1000 copies.  The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.  ©&℗ 2020 Martha's Music, LLC.
 

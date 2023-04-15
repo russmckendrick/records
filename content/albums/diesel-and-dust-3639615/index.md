@@ -1,14 +1,17 @@
 ---
 title: "Midnight Oil - Diesel And Dust"
-album_artist: "Midnight Oil"
-album_title: "Diesel And Dust"
+artist: "Midnight Oil"
+album_name: "Diesel And Dust"
 date: 2016-01-07
 release_id: "3639615"
 slug: "diesel-and-dust-3639615"
+hideSummary: true
 cover:
     image: "diesel-and-dust-3639615.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Diesel And Dust by Midnight Oil"
+    caption: "Diesel And Dust by Midnight Oil"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Sometimes (2007 Remastered)](https://www.youtube.com/watch?v=tki30k4_oPk)
 - [Midnight Oil - Beds Are Burning (Diesel And Dust), 1987 Vinyl video. UHD, 4K, 24bit/96kHz](https://www.youtube.com/watch?v=fxUxj_byZtc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615) |
+| Release Year   | 1987 |
+| Discogs Link   | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615-Midnight-Oil-Diesel-And-Dust) |
 | Label          | CBS, Sprint Music |
 | Format         | LP, Album, Red |
 | Catalog Number | 460005 1 |
+
+Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England.
 

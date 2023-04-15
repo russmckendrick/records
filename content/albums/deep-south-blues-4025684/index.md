@@ -1,14 +1,17 @@
 ---
 title: "The Mississippi Moons - Deep South Blues"
-album_artist: "The Mississippi Moons"
-album_title: "Deep South Blues"
+artist: "The Mississippi Moons"
+album_name: "Deep South Blues"
 date: 2020-08-02
 release_id: "4025684"
 slug: "deep-south-blues-4025684"
+hideSummary: true
 cover:
     image: "deep-south-blues-4025684.jpg"
-tags: ["Jazz", "Blues"]
-hideSummary: true
+    alt: "Deep South Blues by The Mississippi Moons"
+    caption: "Deep South Blues by The Mississippi Moons"
+genres: ["Jazz", "Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Down Home Rag
 10. Farewell Blues
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1964 |
-| Discogs Link   | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684) |
+| Release Year   | 1964 |
+| Discogs Link   | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684-The-Mississippi-Moons-Deep-South-Blues) |
 | Label          | Presto, Saga (5) |
 | Format         | LP |
 | Catalog Number | PRE 629 |
+
+Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10
 

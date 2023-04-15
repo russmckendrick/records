@@ -1,14 +1,17 @@
 ---
 title: "Bill Fisher - Mass Hypnosis And The Dark Triad"
-album_artist: "Bill Fisher"
-album_title: "Mass Hypnosis And The Dark Triad"
+artist: "Bill Fisher"
+album_name: "Mass Hypnosis And The Dark Triad"
 date: 2021-07-27
 release_id: "16863852"
 slug: "mass-hypnosis-and-the-dark-triad-16863852"
+hideSummary: true
 cover:
     image: "mass-hypnosis-and-the-dark-triad-16863852.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mass Hypnosis And The Dark Triad by Bill Fisher"
+    caption: "Mass Hypnosis And The Dark Triad by Bill Fisher"
+genres: ["Rock"]
+styles: ["Avantgarde", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Mirror of Tomorrow](https://www.youtube.com/watch?v=I-Au5S3LRrs)
 - [Bill Fisher - All Through The Night (Official Visualizer Video)](https://www.youtube.com/watch?v=QevyAUTftlo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Bill Fisher - Mass Hypnosis And The Dark Triad](https://www.discogs.com/release/16863852) |
+| Release Year   | 2020 |
+| Discogs Link   | [Bill Fisher - Mass Hypnosis And The Dark Triad](https://www.discogs.com/release/16863852-Bill-Fisher-Mass-Hypnosis-And-The-Dark-Triad) |
 | Label          | Septaphonic Records |
 | Format         | LP, Album, Ltd, Num, Inf |
 | Catalog Number | Septaphonic 4 |
+
+Super-Deluxe Blue & White Marble Effect Heavyweight 180g 12″ Vinyl Ultra Matte Reverse Board Textured Gatefold Sleeve Handnumbered Limited Edition Holographic Sticker Second Pressing
 

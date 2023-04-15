@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Whatever You Want"
-album_artist: "Status Quo"
-album_title: "Whatever You Want"
+artist: "Status Quo"
+album_name: "Whatever You Want"
 date: 2016-05-23
 release_id: "7581244"
 slug: "whatever-you-want-7581244"
+hideSummary: true
 cover:
     image: "whatever-you-want-7581244.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Whatever You Want by Status Quo"
+    caption: "Whatever You Want by Status Quo"
+genres: ["Rock"]
+styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Status Quo-Living On An Island HQ](https://www.youtube.com/watch?v=Evafe6G8SNg)
 - [Status Quo-Shady Lady](https://www.youtube.com/watch?v=NlcmQr0RoJg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Status Quo - Whatever You Want](https://www.discogs.com/release/7581244) |
+| Release Year   | 2015 |
+| Discogs Link   | [Status Quo - Whatever You Want](https://www.discogs.com/release/7581244-Status-Quo-Whatever-You-Want) |
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723772 |
+
+
 

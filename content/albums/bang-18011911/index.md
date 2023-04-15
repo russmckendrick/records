@@ -1,14 +1,17 @@
 ---
 title: "World Party - Bang!"
-album_artist: "World Party"
-album_title: "Bang!"
+artist: "World Party"
+album_name: "Bang!"
 date: 2021-03-26
 release_id: "18011911"
 slug: "bang-18011911"
+hideSummary: true
 cover:
     image: "bang-18011911.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bang! by World Party"
+    caption: "Bang! by World Party"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [World Party - All I Gave](https://www.youtube.com/watch?v=AEgz_PD2S9c)
 - [kuwait city](https://www.youtube.com/watch?v=ApDAgCEgnS8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [World Party - Bang!](https://www.discogs.com/release/18011911) |
+| Release Year   | 2021 |
+| Discogs Link   | [World Party - Bang!](https://www.discogs.com/release/18011911-World-Party-Bang) |
 | Label          | Seaview Records Ltd. |
 | Format         | LP, Album, M/Print, RE |
 | Catalog Number | seaview 3LP |
+
+With printed inner sleeve.  "Sooner or Later" erroneously listed as last song on A side on both jacket and label. "Give It All Away (Reprise)" is not included though it appears on both jacket and label.  Tracks for additional engineering credit by Joe Blaney are not specified on this release, but other versions (including [r8181374] and [r3184051]) identify this credit only for "Radio Days," "Sunshine" and "All I Gave".   Rear cover & labels: Manufactured in the USA
 

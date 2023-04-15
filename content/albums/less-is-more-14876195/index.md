@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Less Is More"
-album_artist: "Marillion"
-album_title: "Less Is More"
+artist: "Marillion"
+album_name: "Less Is More"
 date: 2021-07-20
 release_id: "14876195"
 slug: "less-is-more-14876195"
+hideSummary: true
 cover:
     image: "less-is-more-14876195.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Less Is More by Marillion"
+    caption: "Less Is More by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="JyW569S3Ps8" title="Marillion - Less Is More (2009)" >}}
 - [Interior Lulu](https://www.youtube.com/watch?v=nFuIVoX6kaA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Marillion - Less Is More](https://www.discogs.com/release/14876195) |
+| Release Year   | 2020 |
+| Discogs Link   | [Marillion - Less Is More](https://www.discogs.com/release/14876195-Marillion-Less-Is-More) |
 | Label          | Ear Music, Intact Records |
 | Format         | 2xLP, Album, Ltd, RE, Whi |
 | Catalog Number | 0214647EMU |
+
+Gatefold sleeve. - Limited Edition (1000 only) - Printed inner sleeves containing lyrics and credits  Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.  ℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH. MADE IN GERMANY  All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched. 
 

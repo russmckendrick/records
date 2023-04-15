@@ -1,14 +1,17 @@
 ---
 title: "Anneke Van Giersbergen - Drive"
-album_artist: "Anneke Van Giersbergen"
-album_title: "Drive"
+artist: "Anneke Van Giersbergen"
+album_name: "Drive"
 date: 2017-03-20
 release_id: "8685067"
 slug: "drive-8685067"
+hideSummary: true
 cover:
     image: "drive-8685067.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Drive by Anneke Van Giersbergen"
+    caption: "Drive by Anneke Van Giersbergen"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="TMSRPlQS4fY" title="Anneke van Giersbergen - We Live On" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Anneke Van Giersbergen - Drive](https://www.discogs.com/release/8685067) |
+| Release Year   | 2016 |
+| Discogs Link   | [Anneke Van Giersbergen - Drive](https://www.discogs.com/release/8685067-Anneke-Van-Giersbergen-Drive) |
 | Label          | Alone Records (2) |
 | Format         | LP, Album, Ltd |
 | Catalog Number | AR-058LP |
+
+For the first time on vinyl, under exclusive license from InsideOut Music.  Presented in gatefold jacket. Black vinyl limited to 300 copies.  
 

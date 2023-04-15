@@ -1,14 +1,17 @@
 ---
 title: "The Rolling Stones - Hot Rocks 1964-1971"
-album_artist: "The Rolling Stones"
-album_title: "Hot Rocks 1964-1971"
+artist: "The Rolling Stones"
+album_name: "Hot Rocks 1964-1971"
 date: 2022-01-06
 release_id: "19121767"
 slug: "hot-rocks-1964-1971-19121767"
+hideSummary: true
 cover:
     image: "hot-rocks-1964-1971-19121767.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hot Rocks 1964-1971 by The Rolling Stones"
+    caption: "Hot Rocks 1964-1971 by The Rolling Stones"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -34,16 +37,17 @@ hideSummary: true
 20. Brown Sugar (3:50)
 21. Wild Horses (5:41)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Rolling Stones - Hot Rocks 1964-1971](https://www.discogs.com/release/19121767) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Rolling Stones - Hot Rocks 1964-1971](https://www.discogs.com/release/19121767-The-Rolling-Stones-Hot-Rocks-1964-1971) |
 | Label          | London Records, ABKCO, ABKCO |
 | Format         | 2xLP, RSD, Comp, Ltd, RE, Yel |
 | Catalog Number | 2PS 606/7, 8777-1 |
+
+Record Store Day Pressing for Drop 2 on July 17th, but few copies slipped out in France and Mexico on Drop 1.  Limited to 7200 copies.  Includes two 8.5" x 11" lithographs printed on embossed archival paper  Labels: Made in the EU.  Sleeve: Made in Germany  with OBI  inner 1 with London Sunburst image  inner 2 with replica of  original London Records insert with Rolling Stones catalogue  Variant 4 runout: side B - "2" in "V2" is mirrored; side C - "1" in "+1" is mirrored.
 

@@ -1,14 +1,17 @@
 ---
 title: "Aerosmith - Pump"
-album_artist: "Aerosmith"
-album_title: "Pump"
+artist: "Aerosmith"
+album_name: "Pump"
 date: 2016-12-30
 release_id: "9474092"
 slug: "pump-9474092"
+hideSummary: true
 cover:
     image: "pump-9474092.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pump by Aerosmith"
+    caption: "Pump by Aerosmith"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Voodoo Medicine Man (4:39)
 10. What It Takes (6:26)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Aerosmith - Pump](https://www.discogs.com/release/9474092) |
+| Release Year   | 2016 |
+| Discogs Link   | [Aerosmith - Pump](https://www.discogs.com/release/9474092-Aerosmith-Pump) |
 | Label          | Geffen Records, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547954381 |
+
+Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Mastered at Artisan Sound Recorders, Los Angeles, CA  ℗ 1989 © 2016 Geffen Records. Made in the E.U. Universal International B.V. Gerrit Van Der Veenlaan  Issued with a printed inner sleeve. Includes a voucher to download MP3 version of the album.  There's also the [US release](https://www.discogs.com/release/9294317) issued a month earlier
 

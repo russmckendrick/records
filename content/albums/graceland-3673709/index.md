@@ -1,14 +1,17 @@
 ---
 title: "Paul Simon - Graceland"
-album_artist: "Paul Simon"
-album_title: "Graceland"
+artist: "Paul Simon"
+album_name: "Graceland"
 date: 2017-08-23
 release_id: "3673709"
 slug: "graceland-3673709"
+hideSummary: true
 cover:
     image: "graceland-3673709.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Graceland by Paul Simon"
+    caption: "Graceland by Paul Simon"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Paul Simon - Crazy Love (Demo - Official Audio)](https://www.youtube.com/watch?v=LfG5lOsE5fE)
 - [The Story of Graceland as Told by Paul Simon](https://www.youtube.com/watch?v=ZHaGhF_vhjk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Paul Simon - Graceland](https://www.discogs.com/release/3673709) |
+| Release Year   | 2012 |
+| Discogs Link   | [Paul Simon - Graceland](https://www.discogs.com/release/3673709-Paul-Simon-Graceland) |
 | Label          | Legacy, Sony Music |
 | Format         | LP, Album, RE |
 | Catalog Number | 88691914721 |
+
+Made in EU. Comes with mp3 download and poster. 
 

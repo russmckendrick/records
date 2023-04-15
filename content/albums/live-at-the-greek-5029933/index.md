@@ -1,14 +1,17 @@
 ---
 title: "Jimmy Page & The Black Crowes - Live At The Greek"
-album_artist: "Jimmy Page & The Black Crowes"
-album_title: "Live At The Greek"
+artist: "Jimmy Page & The Black Crowes"
+album_name: "Live At The Greek"
 date: 2017-10-07
 release_id: "5029933"
 slug: "live-at-the-greek-5029933"
+hideSummary: true
 cover:
     image: "live-at-the-greek-5029933.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At The Greek by Jimmy Page & The Black Crowes"
+    caption: "Live At The Greek by Jimmy Page & The Black Crowes"
+genres: ["Rock"]
+styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -66,13 +69,16 @@ hideSummary: true
 - [Nobody's Fault but Mine](https://www.youtube.com/watch?v=A0uK9d5GUF8)
 - [Shake Your Money Maker](https://www.youtube.com/watch?v=2MyDhlrf75o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Jimmy Page & The Black Crowes - Live At The Greek](https://www.discogs.com/release/5029933) |
+| Release Year   | 2013 |
+| Discogs Link   | [Jimmy Page & The Black Crowes - Live At The Greek](https://www.discogs.com/release/5029933-Jimmy-Page-The-Black-Crowes-Live-At-The-Greek) |
 | Label          | The Orchard |
 | Format         | 3xLP, Album, RE, Whi |
 | Catalog Number | TV-2140-1 |
+
+℗ & © 2000 The Orchard. © 1999 Classicberry Ltd. & © 1999 The Black Crowes Partnership. Manufactured & distributed by The Orchard.  Comes in a Tri-fold Sleeve with sticker attached to shrink-wrap. 180g vinyls.
 

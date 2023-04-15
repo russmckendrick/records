@@ -1,14 +1,17 @@
 ---
 title: "Dodgy - The A&M Albums"
-album_artist: "Dodgy"
-album_title: "The A&M Albums"
+artist: "Dodgy"
+album_name: "The A&M Albums"
 date: 2022-02-25
 release_id: "22286113"
 slug: "the-a-m-albums-22286113"
+hideSummary: true
 cover:
     image: "the-a-m-albums-22286113.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The A&M Albums by Dodgy"
+    caption: "The A&M Albums by Dodgy"
+genres: ["Rock", "Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -50,16 +53,17 @@ hideSummary: true
 36. Homegrown (5:52)
 37. Is It Me
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Dodgy - The A&M Albums](https://www.discogs.com/release/22286113) |
+| Release Year   | 2022 |
+| Discogs Link   | [Dodgy - The A&M Albums](https://www.discogs.com/release/22286113-Dodgy-The-AM-Albums) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE + LP, Album, RE + 2xLP, Album, RE +  |
 | Catalog Number | DEMRECBOX60 |
+
+
 

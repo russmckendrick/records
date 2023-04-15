@@ -1,14 +1,17 @@
 ---
 title: "The Temperance Movement - White Bear"
-album_artist: "The Temperance Movement"
-album_title: "White Bear"
+artist: "The Temperance Movement"
+album_name: "White Bear"
 date: 2016-01-17
 release_id: "7986178"
 slug: "white-bear-7986178"
+hideSummary: true
 cover:
     image: "white-bear-7986178.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "White Bear by The Temperance Movement"
+    caption: "White Bear by The Temperance Movement"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The Temperance Movement - The Sun and Moon Roll Around Too Soon (Official Audio)](https://www.youtube.com/watch?v=_8MZg6H6CCw)
 - [The Temperance Movement - I Hope I'm Not Losing My Mind (Official Audio)](https://www.youtube.com/watch?v=vLH6Uy_TlwI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Temperance Movement - White Bear](https://www.discogs.com/release/7986178) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Temperance Movement - White Bear](https://www.discogs.com/release/7986178-The-Temperance-Movement-White-Bear) |
 | Label          | Earache |
 | Format         | LP, Album, Whi |
 | Catalog Number | MOSH556LP |
+
+White version of the "White Bear" album. Two versions were available : - simple white vinyl - "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package. Both comes with A double sided 12 panel poster.  Manufactured in the EU.  Durations do not appear on this release. 
 

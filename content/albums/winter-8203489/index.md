@@ -1,14 +1,17 @@
 ---
 title: "Oceans Of Slumber - Winter"
-album_artist: "Oceans Of Slumber"
-album_title: "Winter"
+artist: "Oceans Of Slumber"
+album_name: "Winter"
 date: 2016-12-04
 release_id: "8203489"
 slug: "winter-8203489"
+hideSummary: true
 cover:
     image: "winter-8203489.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Winter by Oceans Of Slumber"
+    caption: "Winter by Oceans Of Slumber"
+genres: ["Rock"]
+styles: ["Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Oceans of Slumber - Memoriam (Blue Session)](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
 - [Oceans of Slumber - Memoriam](https://www.youtube.com/watch?v=VzIFon4hR2s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Oceans Of Slumber - Winter](https://www.discogs.com/release/8203489) |
+| Release Year   | 2016 |
+| Discogs Link   | [Oceans Of Slumber - Winter](https://www.discogs.com/release/8203489-Oceans-Of-Slumber-Winter) |
 | Label          | Century Media |
 | Format         | LP + LP, S/Sided, Etch + Album |
 | Catalog Number | 88875193851 |
+
+Gatefold 2LP (with etching on side D). Tracks durations indicated on back of gatefold.  © & ℗ 2016 Century Media Records Ltd. Manufactured in Germany.  Tracked during the winter months of 2013-2014 in Spring, TX at Origin Sound. Additional tracking at Big Door Studio in Clear Lake, TX.  Track A3 "Nights In White Satin" is a cover of [a266422].
 

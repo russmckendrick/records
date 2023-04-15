@@ -1,14 +1,17 @@
 ---
 title: "Manic Street Preachers - The Holy Bible 20"
-album_artist: "Manic Street Preachers"
-album_title: "The Holy Bible 20"
+artist: "Manic Street Preachers"
+album_name: "The Holy Bible 20"
 date: 2015-08-09
 release_id: "6380440"
 slug: "the-holy-bible-20-6380440"
+hideSummary: true
 cover:
     image: "the-holy-bible-20-6380440.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Holy Bible 20 by Manic Street Preachers"
+    caption: "The Holy Bible 20 by Manic Street Preachers"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -104,13 +107,16 @@ hideSummary: true
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 02 ifwhiteamericatoldthetruthforoneday](https://www.youtube.com/watch?v=IGI14Al5GS4)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 01 Yes](https://www.youtube.com/watch?v=2dMTuV9Y2tk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Manic Street Preachers - The Holy Bible 20](https://www.discogs.com/release/6380440) |
+| Release Year   | 2014 |
+| Discogs Link   | [Manic Street Preachers - The Holy Bible 20](https://www.discogs.com/release/6380440-Manic-Street-Preachers-The-Holy-Bible-20) |
 | Label          | Columbia |
 | Format         | Box, Album, Ltd + LP, Album, RM, 180 + CD, Album,  |
 | Catalog Number | 88875036002 |
+
+The first 1000 copies of The Holy Bible 20 box set bought from the Manics’ online store include a copy of the book signed by the band. The [first run](http://www.discogs.com/Manic-Street-Preachers-The-Holy-Bible-20/release/6396839) lists 4st 7lb as the last track on side A on the centre labels but is pressed at position B7 as here.  ℗ & © 1994 / 2014 Sony Music Entertainment. Made in the EU.
 

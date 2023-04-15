@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - Croweology"
-album_artist: "The Black Crowes"
-album_title: "Croweology"
+artist: "The Black Crowes"
+album_name: "Croweology"
 date: 2021-04-30
 release_id: "18329314"
 slug: "croweology-18329314"
+hideSummary: true
 cover:
     image: "croweology-18329314.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Croweology by The Black Crowes"
+    caption: "Croweology by The Black Crowes"
+genres: ["Rock"]
+styles: ["Blues Rock", "Southern Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Soul Singing](https://www.youtube.com/watch?v=olVG7oKsWEo)
 - [Ballad in Urgency](https://www.youtube.com/watch?v=sgfPKR5i9oc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Black Crowes - Croweology](https://www.discogs.com/release/18329314) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Black Crowes - Croweology](https://www.discogs.com/release/18329314-The-Black-Crowes-Croweology) |
 | Label          | Silver Arrow, Angelus Entertainment |
 | Format         | 3xLP, Album, Ltd, RE, 10t |
 | Catalog Number | SAR 03 LP |
+
+Hype Sticker: "10th Anniversary Edition Gold Vinyl" Gatefold pop-up sleeve. Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.  ℗ & © 2010 Silver Arrow Records, Inc.  Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release)
 

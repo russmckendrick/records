@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Wall - Immersion Box Set"
-album_artist: "Pink Floyd"
-album_title: "The Wall - Immersion Box Set"
+artist: "Pink Floyd"
+album_name: "The Wall - Immersion Box Set"
 date: 2015-08-09
 release_id: "3430390"
 slug: "the-wall-immersion-box-set-3430390"
+hideSummary: true
 cover:
     image: "the-wall-immersion-box-set-3430390.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Wall - Immersion Box Set by Pink Floyd"
+    caption: "The Wall - Immersion Box Set by Pink Floyd"
+genres: ["Rock"]
+styles: ["Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -151,16 +154,17 @@ hideSummary: true
 137. Behind The Wall - Documentary (50:27)
 138. Gerald Scarfe Interview (17:21)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Pink Floyd - The Wall - Immersion Box Set](https://www.discogs.com/release/3430390) |
+| Release Year   | 2012 |
+| Discogs Link   | [Pink Floyd - The Wall - Immersion Box Set](https://www.discogs.com/release/3430390-Pink-Floyd-The-Wall-Immersion-Box-Set) |
 | Label          | EMI |
 | Format         | 2xCD, Album, RE, RM + 2xCD, Album, RE, RM + 2xCD + |
 | Catalog Number | 5099902943923 |
+
+Box set also includes:  - a 44-page 27 cm x 27 cm booklet designed by Storm Thorgerson, including recording information, song lyrics, sleeve artwork, concert ticket and poster reprints and others - a 24-page 27 cm x 27 cm photo book(let) "The Wall - Pink Floyd Circa 1980-1", including photographs By Jill Furmanovsky and Hipgnosis, edited by Jill Furmanovsky - an 8-page credits booklet "Credits - The Wall" - 81 cm x 96 cm new Gerald Scarfe handwritten lyric poster - an exclusive 27 cm x 27 cm Gerald Scarfe Art Print "The Wall - 'The Wife'" - a black envelope "Immersion Collectors' Cards" 15 cm x 11 cm including 4 x "Immersion Collectors' Cards" 8 cm x 11 cm featuring art by Storm Thorgerson and excerpt from lyrics with a total of 57 different variations (The Collectors' Cards are a set of obscure Floyd images reminiscent of cigarette cards [but these are anti-cigarette]. They can be found in various Pink Floyd products) - a black envelope "Immersion Memorabilia" 18 cm x 10 cm including: • a replica of The Wall tour ticket from 14. February '81, Dortmund, Westfalenhalle 7,5 cm x 16,5 cm and • a replica of The Wall backstage pass, Nassau, Coliseum, February 26, 1980, 9 cm x 9 cm, - a black envelope "Immersion Mark Fisher Cards" 23 cm x 16 cm including 6 x replica drawings of The Wall live set - a collectible printed scarf of 100% viscose 78 cm x 24 cm - a black cloth sack 8 cm x 9 cm including 3 x collectable The Wall marbles 2,4 cm round - 9 x collectible coasters 10,2 cm round (unique to this box) featuring early design sketches and a German FSK insert 12 cm x 12 cm  All discs come in separate cardboard sleeves, 4 of these can be mounted in the box set  No exact durations given for all discs  On discs 1 to 4: Digital remaster ℗ 2011 ℗ 2012 The copyright in this compilation is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 2011 Pink Floyd Music Ltd. under exclusive licence to EMI Records Ltd.  On discs 5 to 7: ℗ 2012 The copyright in this compilation is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 2012 Pink Floyd Music Ltd. under exclusive licence to EMI Records Ltd.  Made in the EU. Printed in the EU.  Released on 24-02-12 in Europe.  Released on 27-02-12 in the U.K.
 

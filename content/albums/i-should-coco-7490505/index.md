@@ -1,14 +1,17 @@
 ---
 title: "Supergrass - I Should Coco"
-album_artist: "Supergrass"
-album_title: "I Should Coco"
+artist: "Supergrass"
+album_name: "I Should Coco"
 date: 2020-07-31
 release_id: "7490505"
 slug: "i-should-coco-7490505"
+hideSummary: true
 cover:
     image: "i-should-coco-7490505.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "I Should Coco by Supergrass"
+    caption: "I Should Coco by Supergrass"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
 - [Supergrass - Mansize Rooster (Official HD Video)](https://www.youtube.com/watch?v=dHlLcVHncDw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Supergrass - I Should Coco](https://www.discogs.com/release/7490505) |
+| Release Year   | 2015 |
+| Discogs Link   | [Supergrass - I Should Coco](https://www.discogs.com/release/7490505-Supergrass-I-Should-Coco) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, RM + 7\", Single + Ltd |
 | Catalog Number | 0825646130573 |
+
+20th anniversary edition. Album is dedicated to David Norland 1974-2014. Supergrass and I Should Coco are embossed.  Recorded at Sawmills Studio, Golant, Fowey, Cornwall. Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.  B side label of 7" is plain red. Embossed letters on front sleeve. Comes with a [l873810] download code.
 

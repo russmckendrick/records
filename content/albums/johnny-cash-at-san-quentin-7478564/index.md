@@ -1,14 +1,17 @@
 ---
 title: "Johnny Cash - Johnny Cash At San Quentin"
-album_artist: "Johnny Cash"
-album_title: "Johnny Cash At San Quentin"
+artist: "Johnny Cash"
+album_name: "Johnny Cash At San Quentin"
 date: 2016-11-24
 release_id: "7478564"
 slug: "johnny-cash-at-san-quentin-7478564"
+hideSummary: true
 cover:
     image: "johnny-cash-at-san-quentin-7478564.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Johnny Cash At San Quentin by Johnny Cash"
+    caption: "Johnny Cash At San Quentin by Johnny Cash"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Country", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="PSLsfwTbo4Q" title="Johnny Cash at San Quentin 1969 (full video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Johnny Cash - Johnny Cash At San Quentin](https://www.discogs.com/release/7478564) |
+| Release Year   | 2015 |
+| Discogs Link   | [Johnny Cash - Johnny Cash At San Quentin](https://www.discogs.com/release/7478564-Johnny-Cash-Johnny-Cash-At-San-Quentin) |
 | Label          | Columbia |
 | Format         | LP, Album, RE, RP, 180 |
 | Catalog Number | 88875111981 |
+
+Sticker on cover can vary with 2 versions: We are vinyl sticker or Legacy sticker.  The labels state that the record is mono. The audio is actually stereo.  Contains download card.
 

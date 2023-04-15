@@ -1,14 +1,17 @@
 ---
 title: "Anneke van Giersbergen & Agua De Annique - In Your Room"
-album_artist: "Anneke van Giersbergen & Agua De Annique"
-album_title: "In Your Room"
+artist: "Anneke van Giersbergen & Agua De Annique"
+album_name: "In Your Room"
 date: 2017-05-25
 release_id: "10280569"
 slug: "in-your-room-10280569"
+hideSummary: true
 cover:
     image: "in-your-room-10280569.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "In Your Room by Anneke van Giersbergen & Agua De Annique"
+    caption: "In Your Room by Anneke van Giersbergen & Agua De Annique"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Just Fine (3:27)
 12. Adore (3:57)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Anneke van Giersbergen & Agua De Annique - In Your Room](https://www.discogs.com/release/10280569) |
+| Release Year   | 2017 |
+| Discogs Link   | [Anneke van Giersbergen & Agua De Annique - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |
 | Label          | Music On Vinyl, Agua Recordings, Inside Out Music |
 | Format         | LP, Album, Ltd, Num, Whi |
 | Catalog Number | MOVLP1876 |
+
+Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver.
 

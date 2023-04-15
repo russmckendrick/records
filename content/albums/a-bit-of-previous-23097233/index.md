@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - A Bit Of Previous"
-album_artist: "Belle & Sebastian"
-album_title: "A Bit Of Previous"
+artist: "Belle & Sebastian"
+album_name: "A Bit Of Previous"
 date: 2022-05-08
 release_id: "23097233"
 slug: "a-bit-of-previous-23097233"
+hideSummary: true
 cover:
     image: "a-bit-of-previous-23097233.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "A Bit Of Previous by Belle & Sebastian"
+    caption: "A Bit Of Previous by Belle & Sebastian"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Sea of Sorrow](https://www.youtube.com/watch?v=J54Q0ZgDbGI)
 - [Working Boy in New York City](https://www.youtube.com/watch?v=pOOawVJjsEI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233) |
+| Release Year   | 2022 |
+| Discogs Link   | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |
 | Label          | Matador, Matador |
 | Format         | LP, Album, Gat + 7\" |
 | Catalog Number | OLE1845LPE, OLE1850S |
+
+Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet
 

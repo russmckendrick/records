@@ -1,14 +1,17 @@
 ---
 title: "Flight Of The Conchords - Flight Of The Conchords"
-album_artist: "Flight Of The Conchords"
-album_title: "Flight Of The Conchords"
+artist: "Flight Of The Conchords"
+album_name: "Flight Of The Conchords"
 date: 2018-03-31
 release_id: "11770971"
 slug: "flight-of-the-conchords-11770971"
+hideSummary: true
 cover:
     image: "flight-of-the-conchords-11770971.jpg"
-tags: ["Electronic", "Hip Hop", "Rock", "Pop", "Folk, World, & Country", "Stage & Screen"]
-hideSummary: true
+    alt: "Flight Of The Conchords by Flight Of The Conchords"
+    caption: "Flight Of The Conchords by Flight Of The Conchords"
+genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Folk, World, & Country", "Stage & Screen"]
+styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Flight of the Conchords Ep 6 Bowie's In Space](https://www.youtube.com/watch?v=f4zV4pJ8MwM)
 - [Boom](https://www.youtube.com/watch?v=hD82FYtIIr0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Flight Of The Conchords - Flight Of The Conchords](https://www.discogs.com/release/11770971) |
+| Release Year   | 2018 |
+| Discogs Link   | [Flight Of The Conchords - Flight Of The Conchords](https://www.discogs.com/release/11770971-Flight-Of-The-Conchords-Flight-Of-The-Conchords) |
 | Label          | Sub Pop |
 | Format         | LP, Album, RE, Yel |
 | Catalog Number | SP 715 |
+
+Credits Art Direction – Dusty Summers, Jeff Kleinsmith Design – Jeff Kleinsmith Drum Programming [Beat Programming] – Mickey Petralia Engineer – Matt Shane (2), Mickey Petralia Illustration – Tyler Stout Management [Music] – Martinovich & Sampson Mastered By – Greg Calbi, Ray Janos Mixed By – Mickey Petralia Performer – Bret McKenzie, Jemaine Clement Producer – Flight Of The Conchords, Mickey Petralia Written-By – Bret McKenzie, Jemaine Clement
 

@@ -1,14 +1,17 @@
 ---
 title: "The War On Drugs - A Deeper Understanding"
-album_artist: "The War On Drugs"
-album_title: "A Deeper Understanding"
+artist: "The War On Drugs"
+album_name: "A Deeper Understanding"
 date: 2017-08-25
 release_id: "10751302"
 slug: "a-deeper-understanding-10751302"
+hideSummary: true
 cover:
     image: "a-deeper-understanding-10751302.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "A Deeper Understanding by The War On Drugs"
+    caption: "A Deeper Understanding by The War On Drugs"
+genres: ["Rock", "Blues"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [The War On Drugs - Strangest Thing [Official Audio]](https://www.youtube.com/watch?v=bvmEYgFsgyg)
 - [The War On Drugs - Thinking Of A Place [Official Audio]](https://www.youtube.com/watch?v=TeaDE1magRk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The War On Drugs - A Deeper Understanding](https://www.discogs.com/release/10751302) |
+| Release Year   | 2017 |
+| Discogs Link   | [The War On Drugs - A Deeper Understanding](https://www.discogs.com/release/10751302-The-War-On-Drugs-A-Deeper-Understanding) |
 | Label          | Atlantic, Atlantic |
 | Format         | 2xLP, Album, Ltd, Cle |
 | Catalog Number | 7567-86606-2, 561934-1 |
+
+Sold exclusively at independent record stores. Gatefold sleeve. Printed inner sleeves, download code and lyrics insert included.  Called "Coke Bottle Clear" on the sticker, it looks more like frosted clear.  Catalogue numbers: 7567-86606-2 - On spine 561934-1 - On record labels  ℗ © 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the outside of the United States. Manufactured in the E.U.  Recorded 2015-2017 at Sonora Recorders, Boulevard Recording, East West, United Recorders, Shawn's Truckstop Studio, Electric Lady, Thump Recording  Additional Recording by Nicolas Vernhes at Rare Book Room, Daniel Schlett at Strange Weather, Nick Krill at Future Past and Kawari Sound, Jeff Zeigler at Uniform Recording, Gabe Wax at Vox Studios  All words And music [...] published by Sea Formation Music (ASCAP) except 'Holding On' [...] published by Sea Formation Music (ASCAP) and Son Of Saw Publishing (BMI)
 

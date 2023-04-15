@@ -1,14 +1,17 @@
 ---
 title: "Various - Stax Does The Beatles"
-album_artist: "Various"
-album_title: "Stax Does The Beatles"
+artist: "Various"
+album_name: "Stax Does The Beatles"
 date: 2019-04-13
 release_id: "13468733"
 slug: "stax-does-the-beatles-13468733"
+hideSummary: true
 cover:
     image: "stax-does-the-beatles-13468733.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "Stax Does The Beatles by Various"
+    caption: "Stax Does The Beatles by Various"
+genres: ["Rock", "Funk / Soul"]
+styles: null
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [With A Little Help From My Friends - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=PLqHKZ2rEJU)
 - [Got To Get You Into My Life - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=tjQvibc4T_k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Stax Does The Beatles](https://www.discogs.com/release/13468733) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Stax Does The Beatles](https://www.discogs.com/release/13468733-Various-Stax-Does-The-Beatles) |
 | Label          | Craft Recordings |
 | Format         | 2xLP, Album, RSD, Comp |
 | Catalog Number | CR00173 |
+
+Compilation featuring Beatles hits as recorded by various Stax artists, never before available on vinyl. 2 LP Standard black, gatefold sleeve. Approved for Black Friday 2018, but moved to RSD 2019. 2500 copies released.
 

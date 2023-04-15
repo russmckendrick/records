@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Temple Of Low Men"
-album_artist: "Crowded House"
-album_title: "Temple Of Low Men"
+artist: "Crowded House"
+album_name: "Temple Of Low Men"
 date: 2015-08-20
 release_id: "2580024"
 slug: "temple-of-low-men-2580024"
+hideSummary: true
 cover:
     image: "temple-of-low-men-2580024.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Temple Of Low Men by Crowded House"
+    caption: "Temple Of Low Men by Crowded House"
+genres: ["Rock"]
+styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 - [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/2580024) |
+| Release Year   | 1988 |
+| Discogs Link   | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/2580024-Crowded-House-Temple-Of-Low-Men) |
 | Label          | Capitol Records |
 | Format         | LP, Album |
 | Catalog Number | EST 2064 |
+
+© 1988 Capitol Records, Inc.  Made in UK Mixed for Fast Forward Productions, Ltd. All songs published by Roundhead Music - BMI ℗ 1988 Capitol Records, Inc.  Printed inner sleeve
 

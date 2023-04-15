@@ -1,14 +1,17 @@
 ---
 title: "Ian Dury And The Blockheads - Greatest Hits"
-album_artist: "Ian Dury And The Blockheads"
-album_title: "Greatest Hits"
+artist: "Ian Dury And The Blockheads"
+album_name: "Greatest Hits"
 date: 2020-05-26
 release_id: "12167804"
 slug: "greatest-hits-12167804"
+hideSummary: true
 cover:
     image: "greatest-hits-12167804.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Greatest Hits by Ian Dury And The Blockheads"
+    caption: "Greatest Hits by Ian Dury And The Blockheads"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
 - [Ian Dury - Wake up and make love with me](https://www.youtube.com/watch?v=c-VeOakGGPQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Ian Dury And The Blockheads - Greatest Hits](https://www.discogs.com/release/12167804) |
+| Release Year   | 2018 |
+| Discogs Link   | [Ian Dury And The Blockheads - Greatest Hits](https://www.discogs.com/release/12167804-Ian-Dury-And-The-Blockheads-Greatest-Hits) |
 | Label          | Demon Records |
 | Format         | LP, Comp, Yel |
 | Catalog Number | DEMREC280 |
+
+Released on translucent yellow heavyweight vinyl .  Sticker on the wrapper states: IAN DURY AND THE BLOCKHEADS GREATEST HITS INCLUDES THE HIT SONGS 'HIT ME WITH YOUR RYTHM STICK' 'REASON'S TO BE CHEERFUL (PART 3)' 'WHAT A WASTE' ON 180g COLOURED VINYL DEMREC280
 

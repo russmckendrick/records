@@ -1,14 +1,17 @@
 ---
 title: "Devin Townsend - Galactic Quarantine"
-album_artist: "Devin Townsend"
-album_title: "Galactic Quarantine"
+artist: "Devin Townsend"
+album_name: "Galactic Quarantine"
 date: 2021-08-09
 release_id: "19283533"
 slug: "galactic-quarantine-19283533"
+hideSummary: true
 cover:
     image: "galactic-quarantine-19283533.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Galactic Quarantine by Devin Townsend"
+    caption: "Galactic Quarantine by Devin Townsend"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 - [Hyperdrive! (Virtually Live 2020)](https://www.youtube.com/watch?v=V5tTPVfazIs)
 - [Devin Townsend - Hyperdrive - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=M1VJkXxwAj4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Devin Townsend - Galactic Quarantine](https://www.discogs.com/release/19283533) |
+| Release Year   | 2021 |
+| Discogs Link   | [Devin Townsend - Galactic Quarantine](https://www.discogs.com/release/19283533-Devin-Townsend-Galactic-Quarantine) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 588, 19439882261 |
+
+Standard version on black vinyl Gatefold sleeve  © 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261. Made in EU.  Recorded between July and September 2020 in various places around the world. Originally aired on September 5th 2020 on StageIt.com
 

@@ -1,14 +1,17 @@
 ---
 title: "Nina Simone - My Baby Just Cares For Me"
-album_artist: "Nina Simone"
-album_title: "My Baby Just Cares For Me"
+artist: "Nina Simone"
+album_name: "My Baby Just Cares For Me"
 date: 2016-09-19
 release_id: "3895928"
 slug: "my-baby-just-cares-for-me-3895928"
+hideSummary: true
 cover:
     image: "my-baby-just-cares-for-me-3895928.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "My Baby Just Cares For Me by Nina Simone"
+    caption: "My Baby Just Cares For Me by Nina Simone"
+genres: ["Jazz"]
+styles: ["Soul-Jazz"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. Children Go Where I Send You (2:55)
 20. Summertime (5:36)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Nina Simone - My Baby Just Cares For Me](https://www.discogs.com/release/3895928) |
+| Release Year   | 2012 |
+| Discogs Link   | [Nina Simone - My Baby Just Cares For Me](https://www.discogs.com/release/3895928-Nina-Simone-My-Baby-Just-Cares-For-Me) |
 | Label          | Not Now Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | NOT2LP156 |
+
+The compilation was recorded between 1957 and 1961.   "Special 2LP Gatefold Edition 20 Original Recordings From The Legendary Jazz & Blues Great On 180g Vinyl".  ℗ & © 2012 Not Now Music Limited  Made in the E.U.
 

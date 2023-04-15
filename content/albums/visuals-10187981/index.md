@@ -1,14 +1,17 @@
 ---
 title: "Mew - Visuals"
-album_artist: "Mew"
-album_title: "Visuals"
+artist: "Mew"
+album_name: "Visuals"
 date: 2017-04-28
 release_id: "10187981"
 slug: "visuals-10187981"
+hideSummary: true
 cover:
     image: "visuals-10187981.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Visuals by Mew"
+    caption: "Visuals by Mew"
+genres: ["Rock"]
+styles: ["Indie Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Mew - Twist Quest](https://www.youtube.com/watch?v=XHIEEvJMZBI)
 - [New Album 'Visuals'](https://www.youtube.com/watch?v=hSqJNfzTkMo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Mew - Visuals](https://www.discogs.com/release/10187981) |
+| Release Year   | 2017 |
+| Discogs Link   | [Mew - Visuals](https://www.discogs.com/release/10187981-Mew-Visuals) |
 | Label          | Play It Again Sam, [PIAS] |
 | Format         | LP, Album, Gat |
 | Catalog Number | PIASR940LP |
+
+There is no data of trackduration on this release
 

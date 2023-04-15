@@ -1,14 +1,17 @@
 ---
 title: "Belly - Star"
-album_artist: "Belly"
-album_title: "Star"
+artist: "Belly"
+album_name: "Star"
 date: 2016-07-18
 release_id: "8785855"
 slug: "star-8785855"
+hideSummary: true
 cover:
     image: "star-8785855.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Star by Belly"
+    caption: "Star by Belly"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [Belly - Sad Dress](https://www.youtube.com/watch?v=W6aG1mvs_GI)
 - [Belly - Stay](https://www.youtube.com/watch?v=K5EWwP3Ob9U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Belly - Star](https://www.discogs.com/release/8785855) |
+| Release Year   | 2016 |
+| Discogs Link   | [Belly - Star](https://www.discogs.com/release/8785855-Belly-Star) |
 | Label          | 4AD |
 | Format         | 2xLP, Album, RM, Whi + CD, Album + Ltd, RE |
 | Catalog Number | DAD 3002 |
+
+Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM." Each LP comes in a custom inner sleeve.  LP1: Blue marbling LP2: Pink/red marbling  Tracks numbered sequentially regardless of sides.  All songs [...] recorded at: Sound Emporium Studios, Nashville All songs [...] mixed at: Sixteenth Avenue Sound, Nashville except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool  P 2016 4AD Ltd, C 2016 4AD Ltd US- 134 Grand Street, New York, N.Y. 10013 UK- 17-19 Alma Road, London, SW18 1AA Manufactured in the E U  Labels: P & C 1993 4AD, manufactured in the E.U.  Track durations not listed on release.
 

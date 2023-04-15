@@ -1,14 +1,17 @@
 ---
 title: "A Formal Horse -  Here Comes A Man From The Council With A Flamethrower"
-album_artist: "A Formal Horse"
-album_title: " Here Comes A Man From The Council With A Flamethrower"
+artist: "A Formal Horse"
+album_name: " Here Comes A Man From The Council With A Flamethrower"
 date: 2020-02-27
 release_id: "14849783"
 slug: "here-comes-a-man-from-the-council-with-a-flamethrower-14849783"
+hideSummary: true
 cover:
     image: "here-comes-a-man-from-the-council-with-a-flamethrower-14849783.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: " Here Comes A Man From The Council With A Flamethrower by A Formal Horse"
+    caption: " Here Comes A Man From The Council With A Flamethrower by A Formal Horse"
+genres: ["Rock"]
+styles: ["Prog Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Bee](https://www.youtube.com/watch?v=vNAS4q54L0A)
 - [Here Comes a Man from the Council With a Flamethrower](https://www.youtube.com/watch?v=LdWKULgyC2I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [A Formal Horse -  Here Comes A Man From The Council With A Flamethrower](https://www.discogs.com/release/14849783) |
+| Release Year   | 2020 |
+| Discogs Link   | [A Formal Horse -  Here Comes A Man From The Council With A Flamethrower](https://www.discogs.com/release/14849783-A-Formal-Horse-Here-Comes-A-Man-From-The-Council-With-A-Flamethrower) |
 | Label          | Plane Groovy |
 | Format         | LP, Album, Ltd, 180 |
 | Catalog Number | PLG081 |
+
+Packaged in a single jacket with 2-page color insert and polylined LP sleeve.  Limited edition of 300 copies of which the first 60 were signed by the band.
 

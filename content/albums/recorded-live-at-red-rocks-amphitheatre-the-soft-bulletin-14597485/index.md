@@ -1,14 +1,17 @@
 ---
 title: "The Flaming Lips Featuring The Colorado Symphony Orchestra - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
-album_artist: "The Flaming Lips Featuring The Colorado Symphony Orchestra"
-album_title: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
+artist: "The Flaming Lips Featuring The Colorado Symphony Orchestra"
+album_name: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
 date: 2020-01-10
 release_id: "14597485"
 slug: "recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485"
+hideSummary: true
 cover:
     image: "recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips Featuring The Colorado Symphony Orchestra"
+    caption: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips Featuring The Colorado Symphony Orchestra"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Ty0mYiJVzR4" title="The Flaming Lips - Race for the Prize (feat. The Colorado Symphony & André de Ridder)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Flaming Lips Featuring The Colorado Symphony Orchestra - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin](https://www.discogs.com/release/14597485) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Flaming Lips Featuring The Colorado Symphony Orchestra - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin](https://www.discogs.com/release/14597485-The-Flaming-Lips-Featuring-The-Colorado-Symphony-Recorded-Live-At-Red-Rocks-Amphitheatre-The-Soft-Bu) |
 | Label          | Bella Union |
 | Format         | 2xLP, Album |
 | Catalog Number | BELLA882V |
+
+Recorded live at Red Rocks Amphitheatre May 26th, 2016  ©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias. Made in the EU.
 

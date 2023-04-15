@@ -1,14 +1,17 @@
 ---
 title: "The Wannadies - Be A Girl"
-album_artist: "The Wannadies"
-album_title: "Be A Girl"
+artist: "The Wannadies"
+album_name: "Be A Girl"
 date: 2019-04-09
 release_id: "13354225"
 slug: "be-a-girl-13354225"
+hideSummary: true
 cover:
     image: "be-a-girl-13354225.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Be A Girl by The Wannadies"
+    caption: "Be A Girl by The Wannadies"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [New World Record](https://www.youtube.com/watch?v=tj_cyhf1zWI)
 - [Dying For More](https://www.youtube.com/watch?v=Mc8PaR7YKdI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Wannadies - Be A Girl](https://www.discogs.com/release/13354225) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Wannadies - Be A Girl](https://www.discogs.com/release/13354225-The-Wannadies-Be-A-Girl) |
 | Label          | Music On Vinyl, Indolent Records |
 | Format         | LP, Album, Ltd, Num, RE, Yel |
 | Catalog Number | MOVLP2302 |
+
+Limited edition of 1,000 machine numbered copies. Made in the EU. Includes black and white insert.
 

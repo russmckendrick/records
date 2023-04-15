@@ -1,14 +1,17 @@
 ---
 title: "Tripping Daisy - I Am An Elastic Firecracker"
-album_artist: "Tripping Daisy"
-album_title: "I Am An Elastic Firecracker"
+artist: "Tripping Daisy"
+album_name: "I Am An Elastic Firecracker"
 date: 2022-02-11
 release_id: "22020817"
 slug: "i-am-an-elastic-firecracker-22020817"
+hideSummary: true
 cover:
     image: "i-am-an-elastic-firecracker-22020817.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "I Am An Elastic Firecracker by Tripping Daisy"
+    caption: "I Am An Elastic Firecracker by Tripping Daisy"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Trip Along](https://www.youtube.com/watch?v=Hd9AQ_a8uXY)
 - [Tripping Daisy - Prick](https://www.youtube.com/watch?v=iwBWEjPX0qk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Tripping Daisy - I Am An Elastic Firecracker](https://www.discogs.com/release/22020817) |
+| Release Year   | 2022 |
+| Discogs Link   | [Tripping Daisy - I Am An Elastic Firecracker](https://www.discogs.com/release/22020817-Tripping-Daisy-I-Am-An-Elastic-Firecracker) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE |
 | Catalog Number | MOVLP3008 |
+
+Original Release ℗ 1995 Island Records, Inc. This release ℗ & © 2022 Universal Music - a division of Universal International Music B.V. Manufactured & distributed by Music On Vinyl B.V. for Universal Music - a division of Universal International Music B.V. All rights reserved. Unauthorized copying, hiring, lending, public performance & broadcasting  prohibited. Made in the Netherlands. MOVLP3008
 

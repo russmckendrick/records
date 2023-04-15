@@ -1,14 +1,17 @@
 ---
 title: "De La Soul - 3 Feet High And Rising"
-album_artist: "De La Soul"
-album_title: "3 Feet High And Rising"
+artist: "De La Soul"
+album_name: "3 Feet High And Rising"
 date: 2023-04-03
 release_id: "26591132"
 slug: "3-feet-high-and-rising-26591132"
+hideSummary: true
 cover:
     image: "3-feet-high-and-rising-26591132.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "3 Feet High And Rising by De La Soul"
+    caption: "3 Feet High And Rising by De La Soul"
+genres: ["Hip Hop"]
+styles: ["Conscious", "Boom Bap"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/26591132) |
+| Release Year   | 2023 |
+| Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/26591132-De-La-Soul-3-Feet-High-And-Rising) |
 | Label          | AOI Records, Chrysalis |
 | Format         | 2xLP, Album, Ltd, RE, Gre |
 | Catalog Number | RMM-047-1 |
+
+Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.  Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.  Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"  ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.  "Made In Czech Republic" sticker on back cover shrink-wrap.  Runouts are stamped except "RMM - 045 - 1 #" which is etched.
 

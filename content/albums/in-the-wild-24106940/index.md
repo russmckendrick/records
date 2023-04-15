@@ -1,14 +1,17 @@
 ---
 title: "The Interrupters - In The Wild"
-album_artist: "The Interrupters"
-album_title: "In The Wild"
+artist: "The Interrupters"
+album_name: "In The Wild"
 date: 2022-09-07
 release_id: "24106940"
 slug: "in-the-wild-24106940"
+hideSummary: true
 cover:
     image: "in-the-wild-24106940.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In The Wild by The Interrupters"
+    caption: "In The Wild by The Interrupters"
+genres: ["Rock"]
+styles: ["Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Afterthought](https://www.youtube.com/watch?v=d7IN2vVQ-Go)
 - [Alien](https://www.youtube.com/watch?v=wijkVQ4ela8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Interrupters - In The Wild](https://www.discogs.com/release/24106940) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Interrupters - In The Wild](https://www.discogs.com/release/24106940-The-Interrupters-In-The-Wild) |
 | Label          | Hellcat Records |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | 0543-1 |
+
+White (EU/UK indie store exclusive)
 

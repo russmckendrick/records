@@ -1,14 +1,17 @@
 ---
 title: "Dusty Springfield - Stay Awhile"
-album_artist: "Dusty Springfield"
-album_title: "Stay Awhile"
+artist: "Dusty Springfield"
+album_name: "Stay Awhile"
 date: 2020-08-02
 release_id: "651808"
 slug: "stay-awhile-651808"
+hideSummary: true
 cover:
     image: "stay-awhile-651808.jpg"
-tags: ["Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "Stay Awhile by Dusty Springfield"
+    caption: "Stay Awhile by Dusty Springfield"
+genres: ["Jazz", "Funk / Soul"]
+styles: ["Soul-Jazz", "Soul"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Mockingbird](https://www.youtube.com/watch?v=0BEIGZf1IBI)
 - [Something Special](https://www.youtube.com/watch?v=rnZ1iU2-No8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1969 |
-| Discogs Link   | [Dusty Springfield - Stay Awhile](https://www.discogs.com/release/651808) |
+| Release Year   | 1969 |
+| Discogs Link   | [Dusty Springfield - Stay Awhile](https://www.discogs.com/release/651808-Dusty-Springfield-Stay-Awhile) |
 | Label          | Wing Records |
 | Format         | LP, Album, RE |
 | Catalog Number | WL.1211, WL 1211 |
+
+Release has a small Q + A with Dusty on the rear cover.  Month of release information from Record Collector Magazine Jan 1994 p.211 
 

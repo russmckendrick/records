@@ -1,14 +1,17 @@
 ---
 title: "Jamie Lidell - Building A Beginning"
-album_artist: "Jamie Lidell"
-album_title: "Building A Beginning"
+artist: "Jamie Lidell"
+album_name: "Building A Beginning"
 date: 2017-04-02
 release_id: "9310602"
 slug: "building-a-beginning-9310602"
+hideSummary: true
 cover:
     image: "building-a-beginning-9310602.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Building A Beginning by Jamie Lidell"
+    caption: "Building A Beginning by Jamie Lidell"
+genres: ["Funk / Soul"]
+styles: ["Neo Soul", "Funk"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 {{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning (Lyric Video)" >}}
 - [Jamie Lidell - I Live To Make You Smile (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Jamie Lidell - Building A Beginning](https://www.discogs.com/release/9310602) |
+| Release Year   | 2016 |
+| Discogs Link   | [Jamie Lidell - Building A Beginning](https://www.discogs.com/release/9310602-Jamie-Lidell-Building-A-Beginning) |
 | Label          | Jajulin |
 | Format         | LP, Red + LP, Yel + Album |
 | Catalog Number | JJL004 |
+
+Gatefold sleeve. Includes digital download. 
 

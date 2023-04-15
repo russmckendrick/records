@@ -1,14 +1,17 @@
 ---
 title: "Rancid - Life Won't Wait"
-album_artist: "Rancid"
-album_title: "Life Won't Wait"
+artist: "Rancid"
+album_name: "Life Won't Wait"
 date: 2018-08-25
 release_id: "5888309"
 slug: "life-won-t-wait-5888309"
+hideSummary: true
 cover:
     image: "life-won-t-wait-5888309.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Life Won't Wait by Rancid"
+    caption: "Life Won't Wait by Rancid"
+genres: ["Rock"]
+styles: ["Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Rancid - Hooligans [MUSIC VIDEO]](https://www.youtube.com/watch?v=dN1FYAisi94)
 - [Rancid - Life Won't Wait (Full Album Stream)](https://www.youtube.com/watch?v=vlj-jh_HN7s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309) |
+| Release Year   | 2014 |
+| Discogs Link   | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309-Rancid-Life-Wont-Wait) |
 | Label          | Epitaph |
 | Format         | 2xLP, Album, RE, Ora |
 | Catalog Number | 86497-1 |
+
+
 

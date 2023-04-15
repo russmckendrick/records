@@ -1,14 +1,17 @@
 ---
 title: "Various - The Harder They Come (Original Soundtrack Recording)"
-album_artist: "Various"
-album_title: "The Harder They Come (Original Soundtrack Recording)"
+artist: "Various"
+album_name: "The Harder They Come (Original Soundtrack Recording)"
 date: 2019-01-04
 release_id: "11949372"
 slug: "the-harder-they-come-original-soundtrack-recording-11949372"
+hideSummary: true
 cover:
     image: "the-harder-they-come-original-soundtrack-recording-11949372.jpg"
-tags: ["Reggae", "Stage & Screen"]
-hideSummary: true
+    alt: "The Harder They Come (Original Soundtrack Recording) by Various"
+    caption: "The Harder They Come (Original Soundtrack Recording) by Various"
+genres: ["Reggae", "Stage & Screen"]
+styles: ["Soundtrack", "Reggae"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Jimmy Cliff - Sitting In Limbo + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=9r1Dwa3bou0)
 - [The Melodians - It's My Delight + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=fvMp6elDcOQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372-Various-The-Harder-They-Come-Original-Soundtrack-Recording) |
 | Label          | Island Records, UMC |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | 00602567073949 |
+
+180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched.
 

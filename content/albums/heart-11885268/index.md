@@ -1,14 +1,17 @@
 ---
 title: "Stars - Heart"
-album_artist: "Stars"
-album_title: "Heart"
+artist: "Stars"
+album_name: "Heart"
 date: 2019-05-23
 release_id: "11885268"
 slug: "heart-11885268"
+hideSummary: true
 cover:
     image: "heart-11885268.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Heart by Stars"
+    caption: "Heart by Stars"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Stars - Elevator Love Letter - Highbury Garage London 2012](https://www.youtube.com/watch?v=ziJ11tuiMuI)
 - [Stars - Heart](https://www.youtube.com/watch?v=aucFYXskEok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Stars - Heart](https://www.discogs.com/release/11885268) |
+| Release Year   | 2018 |
+| Discogs Link   | [Stars - Heart](https://www.discogs.com/release/11885268-Stars-Heart) |
 | Label          | Last Gang Records |
 | Format         | LP, Album, Ltd, Blu |
 | Catalog Number | LGE-LP-1940 |
+
+Limited edition of 500 copies on 140 gram Translucent Light Blue vinyl.
 

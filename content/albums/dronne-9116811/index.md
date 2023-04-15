@@ -1,14 +1,17 @@
 ---
 title: "North Sea Radio Orchestra - Dronne"
-album_artist: "North Sea Radio Orchestra"
-album_title: "Dronne"
+artist: "North Sea Radio Orchestra"
+album_name: "Dronne"
 date: 2016-11-09
 release_id: "9116811"
 slug: "dronne-9116811"
+hideSummary: true
 cover:
     image: "dronne-9116811.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Dronne by North Sea Radio Orchestra"
+    caption: "Dronne by North Sea Radio Orchestra"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk", "Krautrock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
 - [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [North Sea Radio Orchestra - Dronne](https://www.discogs.com/release/9116811) |
+| Release Year   | 2016 |
+| Discogs Link   | [North Sea Radio Orchestra - Dronne](https://www.discogs.com/release/9116811-North-Sea-Radio-Orchestra-Dronne) |
 | Label          | The Household Mark |
 | Format         | LP, Album |
 | Catalog Number | THM004LP |
+
+Limited indies only 180g vinyl LP. Vinyl edition limited to 300 copies
 

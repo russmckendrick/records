@@ -1,14 +1,17 @@
 ---
 title: "The Clash - Combat Rock"
-album_artist: "The Clash"
-album_title: "Combat Rock"
+artist: "The Clash"
+album_name: "Combat Rock"
 date: 2016-11-18
 release_id: "4914174"
 slug: "combat-rock-4914174"
+hideSummary: true
 cover:
     image: "combat-rock-4914174.jpg"
-tags: ["Electronic", "Hip Hop", "Rock"]
-hideSummary: true
+    alt: "Combat Rock by The Clash"
+    caption: "Combat Rock by The Clash"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["Leftfield", "Alternative Rock", "Dub", "Punk"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Inoculated City (2:43)
 12. Death Is A Star (3:08)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [The Clash - Combat Rock](https://www.discogs.com/release/4914174) |
+| Release Year   | 2013 |
+| Discogs Link   | [The Clash - Combat Rock](https://www.discogs.com/release/4914174-The-Clash-Combat-Rock) |
 | Label          | Columbia |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88725446971 |
+
+Printed inner sleeves with lyrics. Includes 30x21cm photo of the band on thick card.
 

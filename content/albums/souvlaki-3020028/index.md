@@ -1,14 +1,17 @@
 ---
 title: "Slowdive - Souvlaki"
-album_artist: "Slowdive"
-album_title: "Souvlaki"
+artist: "Slowdive"
+album_name: "Souvlaki"
 date: 2018-12-27
 release_id: "3020028"
 slug: "souvlaki-3020028"
+hideSummary: true
 cover:
     image: "souvlaki-3020028.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Souvlaki by Slowdive"
+    caption: "Souvlaki by Slowdive"
+genres: ["Rock"]
+styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
 - [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Slowdive - Souvlaki](https://www.discogs.com/release/3020028) |
+| Release Year   | 2011 |
+| Discogs Link   | [Slowdive - Souvlaki](https://www.discogs.com/release/3020028-Slowdive-Souvlaki) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP202 |
+
+Recorded at: Protocol Studios, London A1, A3, A4, A5 & B5 Courtyard Studio, Sutton Courtenay A2, B1 & B3 The White House Studio, Western Super Mare B2 & B4  Published by EMI Music Publishing Ltd. except A4 by EMI Music Publishing Ltd./ Opal Music  Originally released 1993  180 gram audiophile pressing.  Pressed By information is not listed. Information derived from runouts.  Ed Buller incorrectly credited as 'Ed Butler' on insert.
 

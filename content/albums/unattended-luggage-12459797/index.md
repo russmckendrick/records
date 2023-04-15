@@ -1,14 +1,17 @@
 ---
 title: "Nick Mason - Unattended Luggage"
-album_artist: "Nick Mason"
-album_title: "Unattended Luggage"
+artist: "Nick Mason"
+album_name: "Unattended Luggage"
 date: 2021-09-25
 release_id: "12459797"
 slug: "unattended-luggage-12459797"
+hideSummary: true
 cover:
     image: "unattended-luggage-12459797.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Unattended Luggage by Nick Mason"
+    caption: "Unattended Luggage by Nick Mason"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -66,13 +69,16 @@ hideSummary: true
 - [Dry Junk](https://www.youtube.com/watch?v=eIMH9NXzOZc)
 - [Discovery and Recoil](https://www.youtube.com/watch?v=HxkMInxogP0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Nick Mason - Unattended Luggage](https://www.discogs.com/release/12459797) |
+| Release Year   | 2018 |
+| Discogs Link   | [Nick Mason - Unattended Luggage](https://www.discogs.com/release/12459797-Nick-Mason-Unattended-Luggage) |
 | Label          | Warner Music Group, Parlophone |
 | Format         | LP, Album, RM + LP, Album, RM + LP, Album, RM + Bo |
 | Catalog Number | 0190295660222 |
+
+New Compilation Remastered on 180g Heavyweight Vinyl, Fictitious Sports (1981), Profiles (1985), White of the Eye (1987). Made in EU.
 

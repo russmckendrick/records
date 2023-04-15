@@ -1,14 +1,17 @@
 ---
 title: "Counting Crows - August And Everything After"
-album_artist: "Counting Crows"
-album_title: "August And Everything After"
+artist: "Counting Crows"
+album_name: "August And Everything After"
 date: 2017-06-10
 release_id: "9982250"
 slug: "august-and-everything-after-9982250"
+hideSummary: true
 cover:
     image: "august-and-everything-after-9982250.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "August And Everything After by Counting Crows"
+    caption: "August And Everything After by Counting Crows"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Omaha](https://www.youtube.com/watch?v=O1RsswsO10M)
 - [Rain King](https://www.youtube.com/watch?v=FEL48-0xRAA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Counting Crows - August And Everything After](https://www.discogs.com/release/9982250) |
+| Release Year   | 2017 |
+| Discogs Link   | [Counting Crows - August And Everything After](https://www.discogs.com/release/9982250-Counting-Crows-August-And-Everything-After) |
 | Label          | DGC |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | B0025531-01 |
+
+- Re-issue - Gatefold - 180-Gram black double vinyl - 33 1/3 RPM
 

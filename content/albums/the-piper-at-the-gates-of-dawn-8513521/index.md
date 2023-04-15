@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - The Piper At The Gates Of Dawn"
-album_artist: "Pink Floyd"
-album_title: "The Piper At The Gates Of Dawn"
+artist: "Pink Floyd"
+album_name: "The Piper At The Gates Of Dawn"
 date: 2016-06-03
 release_id: "8513521"
 slug: "the-piper-at-the-gates-of-dawn-8513521"
+hideSummary: true
 cover:
     image: "the-piper-at-the-gates-of-dawn-8513521.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Piper At The Gates Of Dawn by Pink Floyd"
+    caption: "The Piper At The Gates Of Dawn by Pink Floyd"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. The Scarecrow
 11. Bike
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/8513521) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/8513521-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |
 | Label          | Pink Floyd Records, Columbia |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP1, 0825646493197 |
+
+The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: August 1967 Made in the E.U. www.pinkfloyd.com  Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve.
 

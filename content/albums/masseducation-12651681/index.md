@@ -1,14 +1,17 @@
 ---
 title: "St. Vincent - MassEducation"
-album_artist: "St. Vincent"
-album_title: "MassEducation"
+artist: "St. Vincent"
+album_name: "MassEducation"
 date: 2018-10-14
 release_id: "12651681"
 slug: "masseducation-12651681"
+hideSummary: true
 cover:
     image: "masseducation-12651681.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "MassEducation by St. Vincent"
+    caption: "MassEducation by St. Vincent"
+genres: ["Rock"]
+styles: ["Acoustic"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [St. Vincent - Smoking Section (piano version) (Audio)](https://www.youtube.com/watch?v=ehHmTw26dAc)
 - [St. Vincent - Fear The Future (piano version) (Audio)](https://www.youtube.com/watch?v=7KG0w6weC24)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [St. Vincent - MassEducation](https://www.discogs.com/release/12651681) |
+| Release Year   | 2018 |
+| Discogs Link   | [St. Vincent - MassEducation](https://www.discogs.com/release/12651681-St-Vincent-MassEducation) |
 | Label          | Loma Vista |
 | Format         | LP, Album |
 | Catalog Number | LVR00448 |
+
+Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert.  Transparent front cover hype sticker placed on the shrink wrap.  Title on front cover is golden foil embossed.  Made in the EU.
 

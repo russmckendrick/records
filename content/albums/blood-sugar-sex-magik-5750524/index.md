@@ -1,14 +1,17 @@
 ---
 title: "Red Hot Chili Peppers - Blood Sugar Sex Magik"
-album_artist: "Red Hot Chili Peppers"
-album_title: "Blood Sugar Sex Magik"
+artist: "Red Hot Chili Peppers"
+album_name: "Blood Sugar Sex Magik"
 date: 2016-05-18
 release_id: "5750524"
 slug: "blood-sugar-sex-magik-5750524"
+hideSummary: true
 cover:
     image: "blood-sugar-sex-magik-5750524.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Blood Sugar Sex Magik by Red Hot Chili Peppers"
+    caption: "Blood Sugar Sex Magik by Red Hot Chili Peppers"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="kziGsq8reTc" title="Red Hot Chili Peppers - Blood Sugar Sex Magik (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Red Hot Chili Peppers - Blood Sugar Sex Magik](https://www.discogs.com/release/5750524) |
+| Release Year   | 0 |
+| Discogs Link   | [Red Hot Chili Peppers - Blood Sugar Sex Magik](https://www.discogs.com/release/5750524-Red-Hot-Chili-Peppers-Blood-Sugar-Sex-Magik) |
 | Label          | Warner Bros. Records |
 | Format         | 2xLP, Album, RE, RP |
 | Catalog Number | 7599-26681-1 |
+
+Hype sticker on shrink wrap: "Contains Language That Some People May Find Offensive". Glossy single jacket with white paper inner sleeves. No printed inner sleeves, no lyrics sheet. 140g black vinyl.  ℗ © 1991 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by ⓦ Warner Music Manufacturing Europe.  [Note: Not a exclusive 2011 25th Anniversary Release, see [r3325063], [r3244590]]  Suck My Kiss is spelled Suck Me Kiss on label.  For a similar later release (after May 2019) with the new "Warner Records" label logo, see [r14651298].
 

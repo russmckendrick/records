@@ -1,14 +1,17 @@
 ---
 title: "John Cougar Mellencamp - Scarecrow"
-album_artist: "John Cougar Mellencamp"
-album_title: "Scarecrow"
+artist: "John Cougar Mellencamp"
+album_name: "Scarecrow"
 date: 2020-08-01
 release_id: "9803967"
 slug: "scarecrow-9803967"
+hideSummary: true
 cover:
     image: "scarecrow-9803967.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Scarecrow by John Cougar Mellencamp"
+    caption: "Scarecrow by John Cougar Mellencamp"
+genres: ["Rock"]
+styles: ["Southern Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Kind Of Fella I Am](https://www.youtube.com/watch?v=3wEflEbgp34)
 - [Small Town (Acoustic Version)](https://www.youtube.com/watch?v=sDDhDakHSNA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [John Cougar Mellencamp - Scarecrow](https://www.discogs.com/release/9803967) |
+| Release Year   | 1985 |
+| Discogs Link   | [John Cougar Mellencamp - Scarecrow](https://www.discogs.com/release/9803967-John-Cougar-Mellencamp-Scarecrow) |
 | Label          | Mercury, Riva (2) |
 | Format         | LP, Album |
 | Catalog Number | 824 865-1 |
+
+Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.  Very similar to [r1113007], which has in comparison to this release here no label code.  On back sleeve: ℗ 1985 John Mellencamp / © 1985 John Mellencamp Printed in the Netherlands  On inner sleeve: "This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"  On labels: ℗ 1985 John Mellencamp MADE IN HOLLAND  Runout information: The runouts are etched, except "MASTERDISK", which is stamped.
 

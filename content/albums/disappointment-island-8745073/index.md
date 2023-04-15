@@ -1,14 +1,17 @@
 ---
 title: "This Town Needs Guns - Disappointment Island"
-album_artist: "This Town Needs Guns"
-album_title: "Disappointment Island"
+artist: "This Town Needs Guns"
+album_name: "Disappointment Island"
 date: 2016-08-30
 release_id: "8745073"
 slug: "disappointment-island-8745073"
+hideSummary: true
 cover:
     image: "disappointment-island-8745073.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Disappointment Island by This Town Needs Guns"
+    caption: "Disappointment Island by This Town Needs Guns"
+genres: ["Rock"]
+styles: ["Emo", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island [Full LP] (2016)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [This Town Needs Guns - Disappointment Island](https://www.discogs.com/release/8745073) |
+| Release Year   | 2016 |
+| Discogs Link   | [This Town Needs Guns - Disappointment Island](https://www.discogs.com/release/8745073-TTNG-Disappointment-Island) |
 | Label          | Sargent House |
 | Format         | LP, Album |
 | Catalog Number | sh157 |
+
+
 

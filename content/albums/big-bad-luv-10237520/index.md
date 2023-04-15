@@ -1,14 +1,17 @@
 ---
 title: "John Moreland - Big Bad Luv"
-album_artist: "John Moreland"
-album_title: "Big Bad Luv"
+artist: "John Moreland"
+album_name: "Big Bad Luv"
 date: 2017-05-16
 release_id: "10237520"
 slug: "big-bad-luv-10237520"
+hideSummary: true
 cover:
     image: "big-bad-luv-10237520.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Big Bad Luv by John Moreland"
+    caption: "Big Bad Luv by John Moreland"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
 - [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [John Moreland - Big Bad Luv](https://www.discogs.com/release/10237520) |
+| Release Year   | 2017 |
+| Discogs Link   | [John Moreland - Big Bad Luv](https://www.discogs.com/release/10237520-John-Moreland-Big-Bad-Luv) |
 | Label          | 4AD |
 | Format         | LP, Album, Gat |
 | Catalog Number | 4AD0007LP |
+
+Includes download card.
 

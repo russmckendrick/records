@@ -1,14 +1,17 @@
 ---
 title: "The Cure - Torn Down: Mixed Up Extras 2018"
-album_artist: "The Cure"
-album_title: "Torn Down: Mixed Up Extras 2018"
+artist: "The Cure"
+album_name: "Torn Down: Mixed Up Extras 2018"
 date: 2018-04-21
 release_id: "11892527"
 slug: "torn-down-mixed-up-extras-2018-11892527"
+hideSummary: true
 cover:
     image: "torn-down-mixed-up-extras-2018-11892527.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Torn Down: Mixed Up Extras 2018 by The Cure"
+    caption: "Torn Down: Mixed Up Extras 2018 by The Cure"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "New Wave"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="LRapUk0HG48" title="The Cure: de Mixed Up à Torn Down - Mixed Up Extras 2018" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Cure - Torn Down: Mixed Up Extras 2018](https://www.discogs.com/release/11892527) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Cure - Torn Down: Mixed Up Extras 2018](https://www.discogs.com/release/11892527-The-Cure-Torn-Down-Mixed-Up-Extras-2018) |
 | Label          | Polydor, Polydor, Fiction Records, Fiction Records, UMC, UMC |
 | Format         | 2xLP, Album, RSD, Ltd, Pic |
 | Catalog Number | 0060256709992 (5), 670 999-2 |
+
+As on red front sticker: The Cure Torn Down: Mixed Up Extras 2018 2LP Picture Disc Record Store Day 2018 exclusive 16 new remixes by Robert Smith First time on vinyl 670 999-2  Released in gatefold die-cut sleeve. Contains a download voucher Durations as printed.  ℗&© 2018 fiction records ltd. the copyright in this sound recording is owned by fiction records and licensed to polydor ltd. (uk), a universal music company. universal international music b.v. all rights of the owner of the work produced reserved. made in the eu. this compilation ℗ 2018 fiction records ltd. © 2018 fiction records ltd.  published by fiction songs ltd. this compilation ℗ 2018 fiction records ltd.  all tracks (P) 2018 fiction records ltd. except side D tracks 3 & 4 (P) 2018 geffen records   all songs remixed by Robert Smith@home mastered at Metropolis assisted by Robert Smith@home  Limited to 7000 copies.  Track A1: original song on the album "[m=20319]" 1979 Track A2: original song on the album "[m=20278]" 1980 Track A3: original song on the album "[m=21131]" 1981 Track A4: original song on the album "[m=20238]" 1982 Track B1: original 1983 song on the compilation "[Join The Dots](https://www.discogs.com/The-Cure-Join-The-Dots-B-Sides-Rarities-19782001-The-Fiction-Years/master/2873)" 2004 Track B2: original song on the album "[m=21069]" 1984 Track B3: original song on the album "[m=22309]" 1985 Track B4: original song on the album "[m=22500]" 1987 Track C1: original song on the album "[m=31755]" 1989 Track C2: original song on the album "[m=31938]" 1990 Track C3: original song on the album "[m=32019]" 1992 Track C4: original song on the album "[m=32090]" 1996 Track D1: original song on the album "[m=32107]" 2000 Track D2: original song on the album "[m=32194]" 2001 Track D3: original song on the album "[m=32234]" 2004 Track D4: original song on the album "[m=32255]" 2008  "I began not my feeling torn, but in plenitude" Albert Camus  Runouts are stamped, except "timtom" and "half Ⓜ speed" which are etched.
 

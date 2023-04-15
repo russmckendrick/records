@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Witchazel"
-album_artist: "Matt Berry (3)"
-album_title: "Witchazel"
+artist: "Matt Berry (3)"
+album_name: "Witchazel"
 date: 2021-08-19
 release_id: "19905262"
 slug: "witchazel-19905262"
+hideSummary: true
 cover:
     image: "witchazel-19905262.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Witchazel by Matt Berry (3)"
+    caption: "Witchazel by Matt Berry (3)"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)
 - [Rain Came Down - Matt Berry](https://www.youtube.com/watch?v=QI4_DmjXpEM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/19905262) |
+| Release Year   | 2021 |
+| Discogs Link   | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/19905262-Matt-Berry-Witchazel) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, RE, Car |
 | Catalog Number | AJXLP251B |
+
+10th Anniversary Edition - Caramel colored vinyl  Made in EU.
 

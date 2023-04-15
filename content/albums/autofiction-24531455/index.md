@@ -1,14 +1,17 @@
 ---
 title: "Suede - Autofiction"
-album_artist: "Suede"
-album_title: "Autofiction"
+artist: "Suede"
+album_name: "Autofiction"
 date: 2022-09-25
 release_id: "24531455"
 slug: "autofiction-24531455"
+hideSummary: true
 cover:
     image: "autofiction-24531455.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Autofiction by Suede"
+    caption: "Autofiction by Suede"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Suede - Black Ice (Official Audio)](https://www.youtube.com/watch?v=HRLD56ZdmkY)
 - [Suede - Personality Disorder (Official Audio)](https://www.youtube.com/watch?v=b1819WD12IA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Suede - Autofiction](https://www.discogs.com/release/24531455) |
+| Release Year   | 2022 |
+| Discogs Link   | [Suede - Autofiction](https://www.discogs.com/release/24531455-Suede-Autofiction) |
 | Label          | BMG |
 | Format         | LP, Album, Gre |
 | Catalog Number | 538804791 |
+
+'Bricks and Mortar'* exclusive colour  *Independent and HMV retail and online shops  Gatefold sleeve  Manufactured In Czech Republic
 

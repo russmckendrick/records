@@ -1,14 +1,17 @@
 ---
 title: "Oceansize - Effloresce"
-album_artist: "Oceansize"
-album_title: "Effloresce"
+artist: "Oceansize"
+album_name: "Effloresce"
 date: 2016-12-01
 release_id: "1460913"
 slug: "effloresce-1460913"
+hideSummary: true
 cover:
     image: "effloresce-1460913.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Effloresce by Oceansize"
+    caption: "Effloresce by Oceansize"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}
 - [Oceansize - One Day All This Could Be Yours](https://www.youtube.com/watch?v=ZHCy8KlifXc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2003 |
-| Discogs Link   | [Oceansize - Effloresce](https://www.discogs.com/release/1460913) |
+| Release Year   | 2003 |
+| Discogs Link   | [Oceansize - Effloresce](https://www.discogs.com/release/1460913-Oceansize-Effloresce) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Album |
 | Catalog Number | BBQ 235 |
+
+Mastered at Abbey Road Studios.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill. 
 

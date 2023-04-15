@@ -1,14 +1,17 @@
 ---
 title: "Doves - Kingdom Of Rust"
-album_artist: "Doves"
-album_title: "Kingdom Of Rust"
+artist: "Doves"
+album_name: "Kingdom Of Rust"
 date: 2022-11-22
 release_id: "25227943"
 slug: "kingdom-of-rust-25227943"
+hideSummary: true
 cover:
     image: "kingdom-of-rust-25227943.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Kingdom Of Rust by Doves"
+    caption: "Kingdom Of Rust by Doves"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust [Kingdom of rust] Music video" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Doves - Kingdom Of Rust](https://www.discogs.com/release/25227943) |
+| Release Year   | 2022 |
+| Discogs Link   | [Doves - Kingdom Of Rust](https://www.discogs.com/release/25227943-Doves-Kingdom-Of-Rust) |
 | Label          | Heavenly Recordings |
 | Format         | 2xLP, Ltd, RE, Gol |
 | Catalog Number | 0888252 |
+
+Exclusive to the Doves official store, Sound Of Vinyl & Recordstore (Universal Music stores) on heavyweight double gold vinyl, hand numbered. Limited edition of 2000.
 

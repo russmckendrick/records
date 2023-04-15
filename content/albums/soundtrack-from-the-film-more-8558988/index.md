@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Soundtrack From The Film \"More\""
-album_artist: "Pink Floyd"
-album_title: "Soundtrack From The Film \"More\""
+artist: "Pink Floyd"
+album_name: "Soundtrack From The Film \"More\""
 date: 2016-06-03
 release_id: "8558988"
 slug: "soundtrack-from-the-film-more-8558988"
+hideSummary: true
 cover:
     image: "soundtrack-from-the-film-more-8558988.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Soundtrack From The Film \"More\" by Pink Floyd"
+    caption: "Soundtrack From The Film \"More\" by Pink Floyd"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 {{< youtube id="Y6qQkMX4OC0" title="Pink Floyd – Cirrus Minor (soundtrack to Barbet Schroeder’s film More)" >}}
 - [Green is the colour -Pink Floyd- (Music from the movie More)](https://www.youtube.com/watch?v=C2DttrVq2uc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - Soundtrack From The Film \"More\"](https://www.discogs.com/release/8558988) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - Soundtrack From The Film \"More\"](https://www.discogs.com/release/8558988-Pink-Floyd-Soundtrack-From-The-Film-More) |
 | Label          | Pink Floyd Records, Columbia |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PFRLP3, 0825646493173 |
+
+The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: July 1969 www.pinkfloyd.com  Hype sticker on shrink wrap. Printed image of the original flip back rear sleeve. Black paper and plastic poly-lined inner sleeve. Made and Printed by Optimal in the EU (on back cover). Made in the EU (on labels).  Runouts: - Runouts are etched - Variant 3: 'BG' is underlined, '2△' and '5T' are mirrored
 

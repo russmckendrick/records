@@ -1,14 +1,17 @@
 ---
 title: "Joe Cocker - Mad Dogs & Englishmen"
-album_artist: "Joe Cocker"
-album_title: "Mad Dogs & Englishmen"
+artist: "Joe Cocker"
+album_name: "Mad Dogs & Englishmen"
 date: 2017-04-27
 release_id: "3339945"
 slug: "mad-dogs-englishmen-3339945"
+hideSummary: true
 cover:
     image: "mad-dogs-englishmen-3339945.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mad Dogs & Englishmen by Joe Cocker"
+    caption: "Mad Dogs & Englishmen by Joe Cocker"
+genres: ["Rock"]
+styles: ["Blues Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Joe Cocker, Mad Dogs and Englishmen - Something (LIVE) HD](https://www.youtube.com/watch?v=kiT5J61f588)
 - [Joe Cocker - Mad Dogs & Englishmen - With A Little Help From My Friends](https://www.youtube.com/watch?v=n6splB7acXc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Joe Cocker - Mad Dogs & Englishmen](https://www.discogs.com/release/3339945) |
+| Release Year   | 2011 |
+| Discogs Link   | [Joe Cocker - Mad Dogs & Englishmen](https://www.discogs.com/release/3339945-Joe-Cocker-Mad-Dogs-Englishmen) |
 | Label          | Music On Vinyl, A&M Records |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | MOVLP355 |
+
+Comes in a gatefold sleeve  Recorded on March 27-18, 1970 at Fillmore East, New York  ℗ & © 2011 Universal Music B.V. A2 published by Gideon Music Inc. A4 published by Tangerine Music Inc. A5 published by Saunders Publications, Inc. A6 published by Stranger Music Inc. B1 published by Irving Music Inc. B2, C4 published by Skyhill Publishing Co., Inc./Delbon Publishing  B4 published by Baby Monica Music/Renleigh Music C1a published by Jay & Cee Music C1b published by East/Memphis Music Corp. C1c published by East Memphis Music-Time Music Corp. C3 published by M. Witmark & Sons D2 published by Maclen Music Inc. D3, D5 published by Skyhill Publishing Co., Inc. D4 published by Earl Barton Music Inc.  [a255183] appears with love from [l44717] [Don Preston](https://www.discogs.com/artist/791783-Don-Preston-2) courtesy of [l59656]   
 

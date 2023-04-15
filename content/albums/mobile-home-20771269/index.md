@@ -1,14 +1,17 @@
 ---
 title: "Longpigs - Mobile Home"
-album_artist: "Longpigs"
-album_title: "Mobile Home"
+artist: "Longpigs"
+album_name: "Mobile Home"
 date: 2021-10-29
 release_id: "20771269"
 slug: "mobile-home-20771269"
+hideSummary: true
 cover:
     image: "mobile-home-20771269.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mobile Home by Longpigs"
+    caption: "Mobile Home by Longpigs"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Longpigs - Gangsters](https://www.youtube.com/watch?v=OGtxL0mG8bg)
 - [Longpigs - In The Snow](https://www.youtube.com/watch?v=MZvNrbZYtac)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Longpigs - Mobile Home](https://www.discogs.com/release/20771269) |
+| Release Year   | 2021 |
+| Discogs Link   | [Longpigs - Mobile Home](https://www.discogs.com/release/20771269-Longpigs-Mobile-Home) |
 | Label          | Demon Records, Demon Records |
 | Format         | LP, Album, Ltd, RE, Cle |
 | Catalog Number | DEMREC950X, DEMREC950 |
+
+Clear vinyl. Limited to 1000 copies with print insert signed by Crispin Hunt  Hype sticker on the front of the signed print version is different to the standard, non-signed print version.   Hype sticker states: "Indies Exclusive Version Includes Print Signed By Crispin Hunt"  Rear sleeve includes a different barcode on a sticker stuck on the original shrink-wrap obscuring the sleeve printed barcode to distinguish it from the standard issue.  Hype sticker: DEMREC950X Sleeve/labels: DEMREC950
 

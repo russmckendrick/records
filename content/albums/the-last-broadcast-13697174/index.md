@@ -1,14 +1,17 @@
 ---
 title: "Doves - The Last Broadcast"
-album_artist: "Doves"
-album_title: "The Last Broadcast"
+artist: "Doves"
+album_name: "The Last Broadcast"
 date: 2019-06-03
 release_id: "13697174"
 slug: "the-last-broadcast-13697174"
+hideSummary: true
 cover:
     image: "the-last-broadcast-13697174.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Last Broadcast by Doves"
+    caption: "The Last Broadcast by Doves"
+genres: ["Electronic", "Rock"]
+styles: ["Britpop", "Downtempo", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [DOVES - The Last Broadcast - 12. The Sulphur Man](https://www.youtube.com/watch?v=uPo4lqI46F8)
 - [DOVES - The Last Broadcast - 11. Caught By The River](https://www.youtube.com/watch?v=7uU5kYy53WU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Doves - The Last Broadcast](https://www.discogs.com/release/13697174) |
+| Release Year   | 2019 |
+| Discogs Link   | [Doves - The Last Broadcast](https://www.discogs.com/release/13697174-Doves-The-Last-Broadcast) |
 | Label          | Heavenly |
 | Format         | 2xLP, Album, Ltd, Num, RE, Ora |
 | Catalog Number | 7748263 |
+
+2019 reissue, 180gr coloured vinyl, lyric sheet but no gatefold sleeve.  "M62 Song" is an adaptation of "Moonchild" by King Crimson.
 

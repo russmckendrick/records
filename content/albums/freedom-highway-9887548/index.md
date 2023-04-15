@@ -1,14 +1,17 @@
 ---
 title: "Rhiannon Giddens - Freedom Highway"
-album_artist: "Rhiannon Giddens"
-album_title: "Freedom Highway"
+artist: "Rhiannon Giddens"
+album_name: "Freedom Highway"
 date: 2017-02-25
 release_id: "9887548"
 slug: "freedom-highway-9887548"
+hideSummary: true
 cover:
     image: "freedom-highway-9887548.jpg"
-tags: ["Jazz", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Freedom Highway by Rhiannon Giddens"
+    caption: "Freedom Highway by Rhiannon Giddens"
+genres: ["Jazz", "Blues", "Folk, World, & Country"]
+styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Rhiannon Giddens - Better Get It Right the First Time (Official Audio)](https://www.youtube.com/watch?v=0VftPiNjaas)
 - [Rhiannon Giddens - Freedom Highway (feat. Bhi Bhiman) (Official Audio)](https://www.youtube.com/watch?v=5eFtU57vme4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Rhiannon Giddens - Freedom Highway](https://www.discogs.com/release/9887548) |
+| Release Year   | 2017 |
+| Discogs Link   | [Rhiannon Giddens - Freedom Highway](https://www.discogs.com/release/9887548-Rhiannon-Giddens-Freedom-Highway) |
 | Label          | Nonesuch |
 | Format         | LP, Album |
 | Catalog Number | 558805-1 |
+
+℗ & © 2017 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States. Slavery sale notice courtesy Hudson River Valley Heritage/Historic Huguenot Street.  Includes MP3 Download card. Copies purchased through Rhiannon Giddens' website came with a signed photo by Rhiannon Giddens, 9.5" x 10.5".
 

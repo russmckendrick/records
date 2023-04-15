@@ -1,14 +1,17 @@
 ---
 title: "The Mighty Mighty Bosstones - Devils Night Out"
-album_artist: "The Mighty Mighty Bosstones"
-album_title: "Devils Night Out"
+artist: "The Mighty Mighty Bosstones"
+album_name: "Devils Night Out"
 date: 2020-08-15
 release_id: "9713856"
 slug: "devils-night-out-9713856"
+hideSummary: true
 cover:
     image: "devils-night-out-9713856.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Devils Night Out by The Mighty Mighty Bosstones"
+    caption: "Devils Night Out by The Mighty Mighty Bosstones"
+genres: ["Rock"]
+styles: ["Ska", "Punk", "Hardcore"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="cTIEH0PVRGg" title="The Mighty Mighty Bosstones  - Devils Night Out Full Album" >}}
 - [The Mighty Mighty Bosstones - Devil's Night Out](https://www.youtube.com/watch?v=kyj-R97vj-U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Mighty Mighty Bosstones - Devils Night Out](https://www.discogs.com/release/9713856) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Mighty Mighty Bosstones - Devils Night Out](https://www.discogs.com/release/9713856-The-Mighty-Mighty-Bosstones-Devils-Night-Out) |
 | Label          | Taang! Records |
 | Format         | LP, Album, RE |
 | Catalog Number | TAANG! #44 |
+
+Engineered at the Fort Apache Boston  Issued with a lyric sheet
 

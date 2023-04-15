@@ -1,14 +1,17 @@
 ---
 title: "Charlie Barnes - More Stately Mansions"
-album_artist: "Charlie Barnes"
-album_title: "More Stately Mansions"
+artist: "Charlie Barnes"
+album_name: "More Stately Mansions"
 date: 2015-08-09
 release_id: "7073830"
 slug: "more-stately-mansions-7073830"
+hideSummary: true
 cover:
     image: "more-stately-mansions-7073830.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "More Stately Mansions by Charlie Barnes"
+    caption: "More Stately Mansions by Charlie Barnes"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Easy, Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
 - [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Charlie Barnes - More Stately Mansions](https://www.discogs.com/release/7073830) |
+| Release Year   | 2015 |
+| Discogs Link   | [Charlie Barnes - More Stately Mansions](https://www.discogs.com/release/7073830-Charlie-Barnes-More-Stately-Mansions) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album, 180 + CD, Album |
 | Catalog Number | SBMLP 035, 0507111 |
+
+including the entire album on CD
 

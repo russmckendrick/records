@@ -1,14 +1,17 @@
 ---
 title: "Whitesnake - 1987"
-album_artist: "Whitesnake"
-album_title: "1987"
+artist: "Whitesnake"
+album_name: "1987"
 date: 2017-10-08
 release_id: "10958648"
 slug: "1987-10958648"
+hideSummary: true
 cover:
     image: "1987-10958648.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "1987 by Whitesnake"
+    caption: "1987 by Whitesnake"
+genres: ["Rock"]
+styles: ["Classic Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [LP / Whitesnake – 1987 / 1987 / Repress from Bulgaria 1989](https://www.youtube.com/watch?v=G5tBlaw3qnk)
 - [Here I Go Again | Whitesnake [1987] | 1987 Geffen LP](https://www.youtube.com/watch?v=kXfU-IhHqfA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Whitesnake - 1987](https://www.discogs.com/release/10958648) |
+| Release Year   | 2017 |
+| Discogs Link   | [Whitesnake - 1987](https://www.discogs.com/release/10958648-Whitesnake-1987) |
 | Label          | Parlophone, Rhino Records (2) |
 | Format         | LP, Album, RM, 180 + LP + RE, 30t |
 | Catalog Number | 0190295785178, R1 563473 |
+
+
 

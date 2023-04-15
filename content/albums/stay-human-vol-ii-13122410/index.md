@@ -1,14 +1,17 @@
 ---
 title: "Michael Franti And Spearhead - Stay Human Vol. II"
-album_artist: "Michael Franti And Spearhead"
-album_title: "Stay Human Vol. II"
+artist: "Michael Franti And Spearhead"
+album_name: "Stay Human Vol. II"
 date: 2019-01-27
 release_id: "13122410"
 slug: "stay-human-vol-ii-13122410"
+hideSummary: true
 cover:
     image: "stay-human-vol-ii-13122410.jpg"
-tags: ["Rock", "Reggae", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Stay Human Vol. II by Michael Franti And Spearhead"
+    caption: "Stay Human Vol. II by Michael Franti And Spearhead"
+genres: ["Rock", "Reggae", "Funk / Soul", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Show Me Your Peace Sign
 14. Take Me Alive
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Michael Franti And Spearhead - Stay Human Vol. II](https://www.discogs.com/release/13122410) |
+| Release Year   | 2019 |
+| Discogs Link   | [Michael Franti And Spearhead - Stay Human Vol. II](https://www.discogs.com/release/13122410-Michael-Franti-Spearhead-Stay-Human-Vol-II) |
 | Label          | Thirty Tigers |
 | Format         | 2xLP, Album |
 | Catalog Number | 65916LP |
+
+Vinyl Release of Michael Franti & Spearhead's sequel to their 2001 "Stay Human" record.
 

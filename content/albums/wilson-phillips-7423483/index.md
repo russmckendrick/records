@@ -1,14 +1,17 @@
 ---
 title: "Wilson Phillips - Wilson Phillips"
-album_artist: "Wilson Phillips"
-album_title: "Wilson Phillips"
+artist: "Wilson Phillips"
+album_name: "Wilson Phillips"
 date: 2018-11-01
 release_id: "7423483"
 slug: "wilson-phillips-7423483"
+hideSummary: true
 cover:
     image: "wilson-phillips-7423483.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Wilson Phillips by Wilson Phillips"
+    caption: "Wilson Phillips by Wilson Phillips"
+genres: ["Rock", "Pop"]
+styles: ["Soft Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [THE DREAM IS STILL ALIVE | Wilson Phillips](https://www.youtube.com/watch?v=lg7WSzWAsVQ)
 - [Eyes Like Twins-Wilson Phillips](https://www.youtube.com/watch?v=AnSPKXfomKI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483) |
+| Release Year   | 1990 |
+| Discogs Link   | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483-Wilson-Phillips-Wilson-Phillips) |
 | Label          | SBK Records, SBK Records |
 | Format         | LP, Album |
 | Catalog Number | SBKLP 5, 79 3745 1 |
+
+Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854]
 

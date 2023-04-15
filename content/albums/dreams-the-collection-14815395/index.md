@@ -1,14 +1,17 @@
 ---
 title: "The Cranberries - Dreams: The Collection"
-album_artist: "The Cranberries"
-album_title: "Dreams: The Collection"
+artist: "The Cranberries"
+album_name: "Dreams: The Collection"
 date: 2020-03-09
 release_id: "14815395"
 slug: "dreams-the-collection-14815395"
+hideSummary: true
 cover:
     image: "dreams-the-collection-14815395.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dreams: The Collection by The Cranberries"
+    caption: "Dreams: The Collection by The Cranberries"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [The Cranberries - Ridiculous Thoughts (Official Music Video)](https://www.youtube.com/watch?v=7LM4Cb6wZUA)
 - [The Cranberries - Just My Imagination (Official Music Video)](https://www.youtube.com/watch?v=SHoHIL2ABVQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Cranberries - Dreams: The Collection](https://www.discogs.com/release/14815395) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Cranberries - Dreams: The Collection](https://www.discogs.com/release/14815395-The-Cranberries-Dreams-The-Collection) |
 | Label          | UMC |
 | Format         | LP, Comp, RE |
 | Catalog Number | 5389805 |
+
+Comes with a download card
 

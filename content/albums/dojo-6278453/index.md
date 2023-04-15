@@ -1,14 +1,17 @@
 ---
 title: "Jouis - Dojo"
-album_artist: "Jouis"
-album_title: "Dojo"
+artist: "Jouis"
+album_name: "Dojo"
 date: 2017-11-20
 release_id: "6278453"
 slug: "dojo-6278453"
+hideSummary: true
 cover:
     image: "dojo-6278453.jpg"
-tags: ["Jazz", "Rock"]
-hideSummary: true
+    alt: "Dojo by Jouis"
+    caption: "Dojo by Jouis"
+genres: ["Jazz", "Rock"]
+styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Universe Goggles](https://www.youtube.com/watch?v=ZVAL2CkJO5I)
 - [New Moon](https://www.youtube.com/watch?v=1W1eR2hEmPQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Jouis - Dojo](https://www.discogs.com/release/6278453) |
+| Release Year   | 2014 |
+| Discogs Link   | [Jouis - Dojo](https://www.discogs.com/release/6278453-Jouis-Dojo) |
 | Label          | Beetroot |
 | Format         | LP, Album |
 | Catalog Number | BR 001 |
+
+All music & lyrics written by Jouis
 

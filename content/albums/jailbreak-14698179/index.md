@@ -1,14 +1,17 @@
 ---
 title: "Thin Lizzy - Jailbreak"
-album_artist: "Thin Lizzy"
-album_title: "Jailbreak"
+artist: "Thin Lizzy"
+album_name: "Jailbreak"
 date: 2020-02-28
 release_id: "14698179"
 slug: "jailbreak-14698179"
+hideSummary: true
 cover:
     image: "jailbreak-14698179.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Jailbreak by Thin Lizzy"
+    caption: "Jailbreak by Thin Lizzy"
+genres: ["Rock"]
+styles: ["Hard Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Thin Lizzy - Cowboy Song 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=8RXZ6UaZTOA)
 - [Thin Lizzy - Running Back 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=CBcMcaoi75s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Thin Lizzy - Jailbreak](https://www.discogs.com/release/14698179) |
+| Release Year   | 2020 |
+| Discogs Link   | [Thin Lizzy - Jailbreak](https://www.discogs.com/release/14698179-Thin-Lizzy-Jailbreak) |
 | Label          | Vertigo, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0802631, 00602508026317 |
+
+2020 reissue.  180g vinyl.  Die cut sleeve. Download-code.  ℗ 2014 © 2014 Made in Germany.  
 

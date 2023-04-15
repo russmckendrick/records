@@ -1,14 +1,17 @@
 ---
 title: "Electric Light Orchestra - Out Of The Blue"
-album_artist: "Electric Light Orchestra"
-album_title: "Out Of The Blue"
+artist: "Electric Light Orchestra"
+album_name: "Out Of The Blue"
 date: 2018-01-17
 release_id: "11176316"
 slug: "out-of-the-blue-11176316"
+hideSummary: true
 cover:
     image: "out-of-the-blue-11176316.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Out Of The Blue by Electric Light Orchestra"
+    caption: "Out Of The Blue by Electric Light Orchestra"
+genres: ["Rock", "Pop"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Electric Light Orchestra - Turn To Stone (Audio)](https://www.youtube.com/watch?v=BDhJU_cNCZE)
 - [Electric Light Orchestra - The Quick And The Daft (Audio)](https://www.youtube.com/watch?v=r-Py1j_EMKg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Electric Light Orchestra - Out Of The Blue](https://www.discogs.com/release/11176316) |
+| Release Year   | 2017 |
+| Discogs Link   | [Electric Light Orchestra - Out Of The Blue](https://www.discogs.com/release/11176316-Electric-Light-Orchestra-Out-Of-The-Blue) |
 | Label          | Sony Music, Legacy, Epic |
 | Format         | 2xLP, Album, Ltd, Pic, RE |
 | Catalog Number | 88985456161 |
+
+40th Anniversary double LP Picture Disc with digital download. Made in the E.U. ℗ 1977 Epic Records © 1977, 2017 Epic Records 
 

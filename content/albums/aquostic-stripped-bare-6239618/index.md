@@ -1,14 +1,17 @@
 ---
 title: "Status Quo - Aquostic Stripped Bare"
-album_artist: "Status Quo"
-album_title: "Aquostic Stripped Bare"
+artist: "Status Quo"
+album_name: "Aquostic Stripped Bare"
 date: 2021-06-04
 release_id: "6239618"
 slug: "aquostic-stripped-bare-6239618"
+hideSummary: true
 cover:
     image: "aquostic-stripped-bare-6239618.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Aquostic Stripped Bare by Status Quo"
+    caption: "Aquostic Stripped Bare by Status Quo"
+genres: ["Rock"]
+styles: ["Acoustic"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Status Quo-Stripped Bare [full album]](https://www.youtube.com/watch?v=l9a1KiMzhUs)
 - [Status Quo – Rockin' All Over The World – Aquostic (Stripped Bare)](https://www.youtube.com/watch?v=boKgtL8biKY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Status Quo - Aquostic Stripped Bare](https://www.discogs.com/release/6239618) |
+| Release Year   | 2014 |
+| Discogs Link   | [Status Quo - Aquostic Stripped Bare](https://www.discogs.com/release/6239618-Status-Quo-Aquostic-Stripped-Bare) |
 | Label          | Ear Music |
 | Format         | 2xLP, Album |
 | Catalog Number | 0209848ERE |
+
+Gatefold sleeve. Black die cut paper inners. Contains a credit card sized download voucher, printed on one side only.  The purple circle on sleeve front is not a hype sticker but part of the print.
 

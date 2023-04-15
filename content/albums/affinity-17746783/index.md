@@ -1,14 +1,17 @@
 ---
 title: "Haken (2) - Affinity"
-album_artist: "Haken (2)"
-album_title: "Affinity"
+artist: "Haken (2)"
+album_name: "Affinity"
 date: 2021-03-08
 release_id: "17746783"
 slug: "affinity-17746783"
+hideSummary: true
 cover:
     image: "affinity-17746783.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Affinity by Haken (2)"
+    caption: "Affinity by Haken (2)"
+genres: ["Rock"]
+styles: ["Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Haken - Bound By Gravity (with pics)](https://www.youtube.com/watch?v=wU6c9kBWABg)
 - [HAKEN - 1985 LIVE (Affinity Album)](https://www.youtube.com/watch?v=LMQoJDWGBVs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Haken (2) - Affinity](https://www.discogs.com/release/17746783) |
+| Release Year   | 2021 |
+| Discogs Link   | [Haken (2) - Affinity](https://www.discogs.com/release/17746783-Haken-Affinity) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, Album, 180 + CD, Album + RE |
 | Catalog Number | IOMLP 579, 19439819561 |
+
+Gatefold sleeve. Black vinyl version.  LP tracks position given with 0s on back.
 

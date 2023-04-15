@@ -1,14 +1,17 @@
 ---
 title: "Can - The Singles"
-album_artist: "Can"
-album_title: "The Singles"
+artist: "Can"
+album_name: "The Singles"
 date: 2017-06-16
 release_id: "10434382"
 slug: "the-singles-10434382"
+hideSummary: true
 cover:
     image: "the-singles-10434382.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Singles by Can"
+    caption: "The Singles by Can"
+genres: ["Rock"]
+styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 ---
 
 ## Tracklisting
@@ -61,13 +64,16 @@ hideSummary: true
 - [Can - Can (Official Audio)](https://www.youtube.com/watch?v=P05K2T8kdaU)
 - [Can - Hoolah Hoolah (Edit) (Official Audio)](https://www.youtube.com/watch?v=EllzyiHzrRE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Can - The Singles](https://www.discogs.com/release/10434382) |
+| Release Year   | 2017 |
+| Discogs Link   | [Can - The Singles](https://www.discogs.com/release/10434382-Can-The-Singles) |
 | Label          | Spoon Records |
 | Format         | 3xLP, Comp |
 | Catalog Number | SPOON60 |
+
+Issued in tri-fold sleeve with download code.  Made in the EU.  This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited for the world outside Germany
 

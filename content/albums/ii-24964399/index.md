@@ -1,14 +1,17 @@
 ---
 title: "Dead Cross - II"
-album_artist: "Dead Cross"
-album_title: "II"
+artist: "Dead Cross"
+album_name: "II"
 date: 2022-11-04
 release_id: "24964399"
 slug: "ii-24964399"
+hideSummary: true
 cover:
     image: "ii-24964399.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "II by Dead Cross"
+    caption: "II by Dead Cross"
+genres: ["Rock"]
+styles: ["Hardcore", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Dead Cross Reign Of Error](https://www.youtube.com/watch?v=4oEZq_JHwBg)
 - [Imposter Syndrome](https://www.youtube.com/watch?v=eCBTd720Nng)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Dead Cross - II](https://www.discogs.com/release/24964399) |
+| Release Year   | 2022 |
+| Discogs Link   | [Dead Cross - II](https://www.discogs.com/release/24964399-Dead-Cross-II) |
 | Label          | Ipecac Recordings, Three One G (31G), Ipecac Recordings, Three One G (31G) |
 | Format         | LP, Album, Gla |
 | Catalog Number | IPC248LP, IPC248LP2 |
+
+Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem  First catalog number on the spine, second on the sticker on shrink wrap
 

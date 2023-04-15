@@ -1,14 +1,17 @@
 ---
 title: "Soundgarden - Badmotorfinger"
-album_artist: "Soundgarden"
-album_title: "Badmotorfinger"
+artist: "Soundgarden"
+album_name: "Badmotorfinger"
 date: 2017-06-10
 release_id: "3364487"
 slug: "badmotorfinger-3364487"
+hideSummary: true
 cover:
     image: "badmotorfinger-3364487.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Badmotorfinger by Soundgarden"
+    caption: "Badmotorfinger by Soundgarden"
+genres: ["Rock"]
+styles: ["Grunge"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Holy Water](https://www.youtube.com/watch?v=gFtFdUOIalk)
 - [Room A Thousand Years Wide](https://www.youtube.com/watch?v=p4nNvXvrWlE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487) |
+| Release Year   | 1992 |
+| Discogs Link   | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487-Soundgarden-Badmotorfinger) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | 395 374-1 |
+
+℗ 1991 A&M Records Inc., Los Angeles  Made in England  Some copies are issued with a hype sticker.
 

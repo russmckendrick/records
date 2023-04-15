@@ -1,14 +1,17 @@
 ---
 title: "Field Music - Flat White Moon"
-album_artist: "Field Music"
-album_title: "Flat White Moon"
+artist: "Field Music"
+album_name: "Flat White Moon"
 date: 2021-04-23
 release_id: "18420103"
 slug: "flat-white-moon-18420103"
+hideSummary: true
 cover:
     image: "flat-white-moon-18420103.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flat White Moon by Field Music"
+    caption: "Flat White Moon by Field Music"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Field Music - Not When You're In Love (Official Video)](https://www.youtube.com/watch?v=EhJQccb1GnU)
 - [Field Music - Flat White Moon](https://www.youtube.com/watch?v=DlP8QWJtV04)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Field Music - Flat White Moon](https://www.discogs.com/release/18420103) |
+| Release Year   | 2021 |
+| Discogs Link   | [Field Music - Flat White Moon](https://www.discogs.com/release/18420103-Field-Music-Flat-White-Moon) |
 | Label          | Memphis Industries |
 | Format         | LP, Album, Ltd, Tra |
 | Catalog Number | MI0657LP |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Todd Rundgren - Healing"
-album_artist: "Todd Rundgren"
-album_title: "Healing"
+artist: "Todd Rundgren"
+album_name: "Healing"
 date: 2022-03-06
 release_id: "1693004"
 slug: "healing-1693004"
+hideSummary: true
 cover:
     image: "healing-1693004.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Healing by Todd Rundgren"
+    caption: "Healing by Todd Rundgren"
+genres: ["Electronic", "Rock"]
+styles: ["Art Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. Healing Part II (7:52)
 9. Healing Part III (4:40)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Todd Rundgren - Healing](https://www.discogs.com/release/1693004) |
+| Release Year   | 1981 |
+| Discogs Link   | [Todd Rundgren - Healing](https://www.discogs.com/release/1693004-Todd-Rundgren-Healing) |
 | Label          | Bearsville, Avatar Record & Screenworks Ltd |
 | Format         | LP, Album |
 | Catalog Number | BHS 3522, AALP 3522 |
+
+
 

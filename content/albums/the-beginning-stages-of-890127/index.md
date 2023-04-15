@@ -1,14 +1,17 @@
 ---
 title: "The Polyphonic Spree - The Beginning Stages Of..."
-album_artist: "The Polyphonic Spree"
-album_title: "The Beginning Stages Of..."
+artist: "The Polyphonic Spree"
+album_name: "The Beginning Stages Of..."
 date: 2015-10-08
 release_id: "890127"
 slug: "the-beginning-stages-of-890127"
+hideSummary: true
 cover:
     image: "the-beginning-stages-of-890127.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Beginning Stages Of... by The Polyphonic Spree"
+    caption: "The Beginning Stages Of... by The Polyphonic Spree"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [the polyphonic spree - it's the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
 - [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2002 |
-| Discogs Link   | [The Polyphonic Spree - The Beginning Stages Of...](https://www.discogs.com/release/890127) |
+| Release Year   | 2002 |
+| Discogs Link   | [The Polyphonic Spree - The Beginning Stages Of...](https://www.discogs.com/release/890127-The-Polyphonic-Spree-The-Beginning-Stages-Of) |
 | Label          | 679 |
 | Format         | 2xLP, Album |
 | Catalog Number | 679L011TLP |
+
+Additional voices on this recording include the members of the band as well as friends. Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000). Gatefold sleeve with printed inner sleeves.
 

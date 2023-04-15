@@ -1,14 +1,17 @@
 ---
 title: "Eurythmics - Greatest Hits"
-album_artist: "Eurythmics"
-album_title: "Greatest Hits"
+artist: "Eurythmics"
+album_name: "Greatest Hits"
 date: 2017-01-20
 release_id: "9555739"
 slug: "greatest-hits-9555739"
+hideSummary: true
 cover:
     image: "greatest-hits-9555739.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Greatest Hits by Eurythmics"
+    caption: "Greatest Hits by Eurythmics"
+genres: ["Rock", "Pop"]
+styles: ["Synth-pop", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [The King and Queen of America](https://www.youtube.com/watch?v=MelbhSbRRE4)
 - [Angel](https://www.youtube.com/watch?v=OItVapYPjkY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Eurythmics - Greatest Hits](https://www.discogs.com/release/9555739) |
+| Release Year   | 2016 |
+| Discogs Link   | [Eurythmics - Greatest Hits](https://www.discogs.com/release/9555739-Eurythmics-Greatest-Hits) |
 | Label          | Legacy, Sony Music |
 | Format         | 2xLP, Comp, RE, 180 |
 | Catalog Number | 88985370421 |
+
+Sticker on plastic wrap: "Legacy Vinyl - 180 Gram Superior Audio Quality".  Made in the EU.
 

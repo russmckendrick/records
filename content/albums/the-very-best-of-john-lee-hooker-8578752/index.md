@@ -1,14 +1,17 @@
 ---
 title: "John Lee Hooker - The Very Best Of John Lee Hooker"
-album_artist: "John Lee Hooker"
-album_title: "The Very Best Of John Lee Hooker"
+artist: "John Lee Hooker"
+album_name: "The Very Best Of John Lee Hooker"
 date: 2021-12-23
 release_id: "8578752"
 slug: "the-very-best-of-john-lee-hooker-8578752"
+hideSummary: true
 cover:
     image: "the-very-best-of-john-lee-hooker-8578752.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "The Very Best Of John Lee Hooker by John Lee Hooker"
+    caption: "The Very Best Of John Lee Hooker by John Lee Hooker"
+genres: ["Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="W-DEJF5iZmU" title="GIANT SIZED John Lee Hooker Vinyl Matchup" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Lee Hooker - The Very Best Of John Lee Hooker](https://www.discogs.com/release/8578752) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Lee Hooker - The Very Best Of John Lee Hooker](https://www.discogs.com/release/8578752-John-Lee-Hooker-The-Very-Best-Of-John-Lee-Hooker) |
 | Label          | Not Now Music |
 | Format         | LP, Comp |
 | Catalog Number | CATLP126 |
+
+This Compilation ℗ & © 2016 Not Now Music Limited. Distributed By Not Now Music Limited. Made In The E.U. (on back cover).  Glossy jacket with white paper inner sleeve. Artwork similar to [r6536180] but with five different tracks.
 

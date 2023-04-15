@@ -1,14 +1,17 @@
 ---
 title: "Tool (2) - Undertow"
-album_artist: "Tool (2)"
-album_title: "Undertow"
+artist: "Tool (2)"
+album_name: "Undertow"
 date: 2017-06-04
 release_id: "8126263"
 slug: "undertow-8126263"
+hideSummary: true
 cover:
     image: "undertow-8126263.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Undertow by Tool (2)"
+    caption: "Undertow by Tool (2)"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [TOOL - Flood (Audio)](https://www.youtube.com/watch?v=DZNxJWIcwCc)
 - [TOOL - Disgustipated (Audio)](https://www.youtube.com/watch?v=CmJYZ1NIn1Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2006 |
-| Discogs Link   | [Tool (2) - Undertow](https://www.discogs.com/release/8126263) |
+| Release Year   | 2006 |
+| Discogs Link   | [Tool (2) - Undertow](https://www.discogs.com/release/8126263-Tool-Undertow) |
 | Label          | Volcano (2), Tool Dissectional |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | 61422-31052-1 |
+
+This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment. 
 

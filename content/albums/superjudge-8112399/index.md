@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - Superjudge"
-album_artist: "Monster Magnet"
-album_title: "Superjudge"
+artist: "Monster Magnet"
+album_name: "Superjudge"
 date: 2016-07-10
 release_id: "8112399"
 slug: "superjudge-8112399"
+hideSummary: true
 cover:
     image: "superjudge-8112399.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Superjudge by Monster Magnet"
+    caption: "Superjudge by Monster Magnet"
+genres: ["Rock"]
+styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Twin Earth](https://www.youtube.com/watch?v=uA655tDs5sQ)
 - [Monster Magnet - Superjudge (Full Album)](https://www.youtube.com/watch?v=4v6patyOnzk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Monster Magnet - Superjudge](https://www.discogs.com/release/8112399) |
+| Release Year   | 2016 |
+| Discogs Link   | [Monster Magnet - Superjudge](https://www.discogs.com/release/8112399-Monster-Magnet-Superjudge) |
 | Label          | Spinefarm Records, Universal Music Group |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 00600753642450 |
+
+ Black vinyl. Includes sleeve-notes & bonus tracks + cover material.   Comes with free album download code.  ℗ & © 2015 Spinefarm Records & Universal Music Group Company  Made in the EU.
 

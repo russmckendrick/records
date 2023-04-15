@@ -1,14 +1,17 @@
 ---
 title: "Dinosaur Jr. - Where You Been"
-album_artist: "Dinosaur Jr."
-album_title: "Where You Been"
+artist: "Dinosaur Jr."
+album_name: "Where You Been"
 date: 2017-06-04
 release_id: "5474712"
 slug: "where-you-been-5474712"
+hideSummary: true
 cover:
     image: "where-you-been-5474712.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Where You Been by Dinosaur Jr."
+    caption: "Where You Been by Dinosaur Jr."
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Dinosaur Jr - Start Choppin'](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
 - [Dinosaur Jr - Goin' Home](https://www.youtube.com/watch?v=30h3HWSarDA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Dinosaur Jr. - Where You Been](https://www.discogs.com/release/5474712) |
+| Release Year   | 2013 |
+| Discogs Link   | [Dinosaur Jr. - Where You Been](https://www.discogs.com/release/5474712-Dinosaur-Jr-Where-You-Been) |
 | Label          | Vinyl 180 |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | VIN180LP069 |
+
+Made in England.
 

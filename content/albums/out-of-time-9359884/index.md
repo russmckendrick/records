@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - Out Of Time"
-album_artist: "R.E.M."
-album_title: "Out Of Time"
+artist: "R.E.M."
+album_name: "Out Of Time"
 date: 2016-11-18
 release_id: "9359884"
 slug: "out-of-time-9359884"
+hideSummary: true
 cover:
     image: "out-of-time-9359884.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Out Of Time by R.E.M."
+    caption: "Out Of Time by R.E.M."
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
 - [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9359884) |
+| Release Year   | 2016 |
+| Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9359884-REM-Out-Of-Time) |
 | Label          | Concord Bicycle Music |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0888072004405 |
+
+25th Anniversary Edition: -Remastered From Original Analog Masters -180-Gram Vinyl -Includes Digital Download Card  Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.
 

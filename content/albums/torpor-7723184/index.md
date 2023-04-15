@@ -1,14 +1,17 @@
 ---
 title: "Baron (14) - Torpor"
-album_artist: "Baron (14)"
-album_title: "Torpor"
+artist: "Baron (14)"
+album_name: "Torpor"
 date: 2016-02-28
 release_id: "7723184"
 slug: "torpor-7723184"
+hideSummary: true
 cover:
     image: "torpor-7723184.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Torpor by Baron (14)"
+    caption: "Torpor by Baron (14)"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 {{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}
 - [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Baron (14) - Torpor](https://www.discogs.com/release/7723184) |
+| Release Year   | 2015 |
+| Discogs Link   | [Baron (14) - Torpor](https://www.discogs.com/release/7723184-Baron-Torpor) |
 | Label          | Svart Records |
 | Format         | LP, Album, Ltd |
 | Catalog Number | SVR338 |
+
+500 copies made. including booklet insert with visionary-sleeve note-narrative by [a3049875]
 

@@ -1,14 +1,17 @@
 ---
 title: "Rush - Moving Pictures"
-album_artist: "Rush"
-album_title: "Moving Pictures"
+artist: "Rush"
+album_name: "Moving Pictures"
 date: 2017-02-19
 release_id: "7258897"
 slug: "moving-pictures-7258897"
+hideSummary: true
 cover:
     image: "moving-pictures-7258897.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Moving Pictures by Rush"
+    caption: "Moving Pictures by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 {{< youtube id="iAIxUvd8gWo" title="Rush - Moving Pictures [Full Album] (HQ)" >}}
 - [R̲u̲sh   Moving Pictures  Full Album](https://www.youtube.com/watch?v=S-rqmOjc5PQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Moving Pictures](https://www.discogs.com/release/7258897) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Moving Pictures](https://www.discogs.com/release/7258897-Rush-Moving-Pictures) |
 | Label          | Mercury, Universal Music Group International, Anthem (5) |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 00602547118080 |
+
+Issued with an insert with lyrics, credits and pictures. Includes a voucher to download an MP3 version of the album.  Recorded and mixed at Le Studio, Morin Heights, Quebec, during October and November, of 1980 Remastered at Abbey Road Mastering Studios  DMM Mastering at Abbey Road Mastering Studios - January 2015  ℗ &  © 2015 Mercury Records. Made in the EU
 

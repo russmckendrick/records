@@ -1,14 +1,17 @@
 ---
 title: "John Grant - Queen Of Denmark"
-album_artist: "John Grant"
-album_title: "Queen Of Denmark"
+artist: "John Grant"
+album_name: "Queen Of Denmark"
 date: 2015-09-30
 release_id: "2262071"
 slug: "queen-of-denmark-2262071"
+hideSummary: true
 cover:
     image: "queen-of-denmark-2262071.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Queen Of Denmark by John Grant"
+    caption: "Queen Of Denmark by John Grant"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [John Grant - Queen Of Denmark](https://www.youtube.com/watch?v=b_oNylzsY7I)
 - [John Grant Queen of Denmark LIVE at The Cat's Cradle 4/3/10](https://www.youtube.com/watch?v=Yz0ggk0eITg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [John Grant - Queen Of Denmark](https://www.discogs.com/release/2262071) |
+| Release Year   | 2010 |
+| Discogs Link   | [John Grant - Queen Of Denmark](https://www.discogs.com/release/2262071-John-Grant-Queen-Of-Denmark) |
 | Label          | Bella Union |
 | Format         | 2xLP, Album |
 | Catalog Number | Bellav235 |
+
+Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)  ℗ & © Bella Union 2010 Made in the EU.
 

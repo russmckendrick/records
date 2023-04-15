@@ -1,14 +1,17 @@
 ---
 title: "Various Compiled By Amorphous Androgynous - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
-album_artist: "Various Compiled By Amorphous Androgynous"
-album_title: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
+artist: "Various Compiled By Amorphous Androgynous"
+album_name: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
 date: 2017-04-22
 release_id: "8632226"
 slug: "a-monstrous-psychedelic-bubble-exploding-in-your-mind-the-wizards-of-oz-8632226"
+hideSummary: true
 cover:
     image: "a-monstrous-psychedelic-bubble-exploding-in-your-mind-the-wizards-of-oz-8632226.jpg"
-tags: ["Electronic", "Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various Compiled By Amorphous Androgynous"
+    caption: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various Compiled By Amorphous Androgynous"
+genres: ["Electronic", "Rock", "Folk, World, & Country"]
+styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [A Monstrous Psychedelic Bubble - The Wizards Of Oz - psychvert 2](https://www.youtube.com/watch?v=xLN0gUVG9lA)
 - [A Monstrous Psychedelic Bubble (Exploding In Your Mind)...it's The Wizards Of Oz](https://www.youtube.com/watch?v=1_QkVmGHxfs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various Compiled By Amorphous Androgynous - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz](https://www.discogs.com/release/8632226) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various Compiled By Amorphous Androgynous - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz](https://www.discogs.com/release/8632226-Various-Compiled-By-The-Amorphous-Androgynous-A-Monstrous-Psychedelic-Bubble-Exploding-In-Your-Mind-) |
 | Label          | Festival Records, Monstrous Bubble Records |
 | Format         | 2xLP, Comp, RP, Gat |
 | Catalog Number | FEST601025LX |
+
+200 gram hazy clear vinyl, gatefold sleeve.
 

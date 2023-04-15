@@ -1,14 +1,17 @@
 ---
 title: "The Grateful Dead - The Grateful Dead"
-album_artist: "The Grateful Dead"
-album_title: "The Grateful Dead"
+artist: "The Grateful Dead"
+album_name: "The Grateful Dead"
 date: 2017-07-05
 release_id: "9647618"
 slug: "the-grateful-dead-9647618"
+hideSummary: true
 cover:
     image: "the-grateful-dead-9647618.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Grateful Dead by The Grateful Dead"
+    caption: "The Grateful Dead by The Grateful Dead"
+genres: ["Rock"]
+styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Morning Dew (2013 Remaster)](https://www.youtube.com/watch?v=xlfcN93NS2Q)
 - [New New Minglewood Blues (2013 Remaster)](https://www.youtube.com/watch?v=rR7Tsima2Ck)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Grateful Dead - The Grateful Dead](https://www.discogs.com/release/9647618) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Grateful Dead - The Grateful Dead](https://www.discogs.com/release/9647618-The-Grateful-Dead-The-Grateful-Dead) |
 | Label          | Rhino Records (2) |
 | Format         | LP, Album, Ltd, Pic, RE |
 | Catalog Number |  R1 557478 |
+
+Limited Edition Of 10,000 50th Anniversary Edition
 

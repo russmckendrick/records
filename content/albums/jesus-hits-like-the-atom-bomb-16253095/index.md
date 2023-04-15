@@ -1,14 +1,17 @@
 ---
 title: "Tripping Daisy - Jesus Hits Like The Atom Bomb"
-album_artist: "Tripping Daisy"
-album_title: "Jesus Hits Like The Atom Bomb"
+artist: "Tripping Daisy"
+album_name: "Jesus Hits Like The Atom Bomb"
 date: 2022-02-12
 release_id: "16253095"
 slug: "jesus-hits-like-the-atom-bomb-16253095"
+hideSummary: true
 cover:
     image: "jesus-hits-like-the-atom-bomb-16253095.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Jesus Hits Like The Atom Bomb by Tripping Daisy"
+    caption: "Jesus Hits Like The Atom Bomb by Tripping Daisy"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [8 Ladies](https://www.youtube.com/watch?v=uMr-AiNEijc)
 - [Tripping Daisy Waited A Light Year](https://www.youtube.com/watch?v=v1AXtIDkX7A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tripping Daisy - Jesus Hits Like The Atom Bomb](https://www.discogs.com/release/16253095) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tripping Daisy - Jesus Hits Like The Atom Bomb](https://www.discogs.com/release/16253095-Tripping-Daisy-Jesus-Hits-Like-The-Atom-Bomb) |
 | Label          | Good Records |
 | Format         | 2xLP, Album, Ltd, Num, Pep |
 | Catalog Number | GRR100 |
+
+Released on Vinyl in 2020 for the first time in the following quantities:  1-300 DELUXE CLEAR WITH SLIPMAT 301-500 IVORY WHITE 501-700 FACE MASK BLUE 701-900 PEPTO BISMOL PINK 901-1000 180-GRAM AUDIOPHILE BLACK  All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.  
 

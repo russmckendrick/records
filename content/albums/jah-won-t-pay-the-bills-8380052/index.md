@@ -1,14 +1,17 @@
 ---
 title: "Sublime (2) - Jah Won't Pay The Bills"
-album_artist: "Sublime (2)"
-album_title: "Jah Won't Pay The Bills"
+artist: "Sublime (2)"
+album_name: "Jah Won't Pay The Bills"
 date: 2016-05-11
 release_id: "8380052"
 slug: "jah-won-t-pay-the-bills-8380052"
+hideSummary: true
 cover:
     image: "jah-won-t-pay-the-bills-8380052.jpg"
-tags: ["Rock", "Reggae"]
-hideSummary: true
+    alt: "Jah Won't Pay The Bills by Sublime (2)"
+    caption: "Jah Won't Pay The Bills by Sublime (2)"
+genres: ["Rock", "Reggae"]
+styles: ["Reggae", "Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [SUBLIME - D.J.s - Jah Won't Pay The Bills cassette](https://www.youtube.com/watch?v=uPEBQypmZV8)
 - [Sublime - Jah Wont Pay The Bills - 07 - Slowride](https://www.youtube.com/watch?v=39JvLs7zLu4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Sublime (2) - Jah Won't Pay The Bills](https://www.discogs.com/release/8380052) |
+| Release Year   | 2016 |
+| Discogs Link   | [Sublime (2) - Jah Won't Pay The Bills](https://www.discogs.com/release/8380052-Sublime-Jah-Wont-Pay-The-Bills) |
 | Label          | Skunk Records (2) |
 | Format         | LP, RSD, Ltd, RE |
 | Catalog Number | B0024479-01 |
+
+25th Anniversary Record Store Day Exclusive.  420 [Green vinyl](https://www.discogs.com/Sublime-Jah-Wont-Pay-The-Bills/release/8397530) out of the lot were randomly distributed to indie shops. The remainder are on black vinyl (this).
 

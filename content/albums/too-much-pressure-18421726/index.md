@@ -1,14 +1,17 @@
 ---
 title: "The Selecter - Too Much Pressure"
-album_artist: "The Selecter"
-album_title: "Too Much Pressure"
+artist: "The Selecter"
+album_name: "Too Much Pressure"
 date: 2021-04-24
 release_id: "18421726"
 slug: "too-much-pressure-18421726"
+hideSummary: true
 cover:
     image: "too-much-pressure-18421726.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Too Much Pressure by The Selecter"
+    caption: "Too Much Pressure by The Selecter"
+genres: ["Reggae"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [The Selecter - Missing Words](https://www.youtube.com/watch?v=BKELD7Rth0g)
 - [Selecter - time hard](https://www.youtube.com/watch?v=dZbL7PVGjqg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Selecter - Too Much Pressure](https://www.discogs.com/release/18421726) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Selecter - Too Much Pressure](https://www.discogs.com/release/18421726-The-Selecter-Too-Much-Pressure) |
 | Label          | Two-Tone Records, Two-Tone Records |
 | Format         | LP, Album, Cle + 7\", Single, Cle + Ltd, RE, RM, 40 |
 | Catalog Number | CDL TTH5002, CDL TTC 5002 |
+
+Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80. 40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl 2021 Half-Speed Remaster by Alchemy At Air  "Anniversary" misspelt on OBI strip stating "40th Annivarsary" 'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image  ℗ & © 2021 Chrysalis Records Limited. Made in The UK.  Catalogue number on 'belly-band': CDL TTC 5002 Catalogue number on spine: CDL TTH5002
 

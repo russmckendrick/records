@@ -1,14 +1,17 @@
 ---
 title: "St. Vincent - Masseduction"
-album_artist: "St. Vincent"
-album_title: "Masseduction"
+artist: "St. Vincent"
+album_name: "Masseduction"
 date: 2017-10-13
 release_id: "10987228"
 slug: "masseduction-10987228"
+hideSummary: true
 cover:
     image: "masseduction-10987228.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Masseduction by St. Vincent"
+    caption: "Masseduction by St. Vincent"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [St. Vincent - Power Corrupts (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 - [St. Vincent - Los Ageless (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228) |
+| Release Year   | 2017 |
+| Discogs Link   | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |
 | Label          | Loma Vista, Loma Vista |
 | Format         | LP, Album, Dlx, Ltd, Pin |
 | Catalog Number | LVR00225, 00888072037120 |
+
+℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped.
 

@@ -1,14 +1,17 @@
 ---
 title: "Various - The Best Of The Johnny Cash TV Show: 1969-1971"
-album_artist: "Various"
-album_title: "The Best Of The Johnny Cash TV Show: 1969-1971"
+artist: "Various"
+album_name: "The Best Of The Johnny Cash TV Show: 1969-1971"
 date: 2016-04-27
 release_id: "8395514"
 slug: "the-best-of-the-johnny-cash-tv-show-1969-1971-8395514"
+hideSummary: true
 cover:
     image: "the-best-of-the-johnny-cash-tv-show-1969-1971-8395514.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "The Best Of The Johnny Cash TV Show: 1969-1971 by Various"
+    caption: "The Best Of The Johnny Cash TV Show: 1969-1971 by Various"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="X-CS-OT8Fco" title="Flesh and Blood" >}}
 - [Johnny Cash - I Walk the Line (The Best Of The Johnny Cash TV Show)](https://www.youtube.com/watch?v=J5126CibNsk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Various - The Best Of The Johnny Cash TV Show: 1969-1971](https://www.discogs.com/release/8395514) |
+| Release Year   | 2016 |
+| Discogs Link   | [Various - The Best Of The Johnny Cash TV Show: 1969-1971](https://www.discogs.com/release/8395514-Various-The-Best-Of-The-Johnny-Cash-TV-Show-1969-1971) |
 | Label          | Columbia, Legacy, Columbia |
 | Format         | LP, RSD, Comp |
 | Catalog Number | 88875195531, 88875195531S1 |
+
+Record Store Day Sticker on front:               'A' STUNNING MUSICAL       MOMENTS - Entertainment Weekly  TO CASH IT WAS ALL JUST GREAT AMERICAN MUSIC,    AND HE BROUGHT IT      ALL BACK HOME.        - Rolling Stone  Johnny with many special Guests!    (See back for guest details)  Available for the first time on VINYL!              88875195531S1  Limited to 5000 units.
 

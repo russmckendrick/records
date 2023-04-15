@@ -1,14 +1,17 @@
 ---
 title: "Pajama Club - Pajama Club"
-album_artist: "Pajama Club"
-album_title: "Pajama Club"
+artist: "Pajama Club"
+album_name: "Pajama Club"
 date: 2016-09-01
 release_id: "3165774"
 slug: "pajama-club-3165774"
+hideSummary: true
 cover:
     image: "pajama-club-3165774.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Pajama Club by Pajama Club"
+    caption: "Pajama Club by Pajama Club"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. The Game We Love To Play (3:42)
 11. Diamonds In Her Eyes (5:15)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Pajama Club - Pajama Club](https://www.discogs.com/release/3165774) |
+| Release Year   | 2011 |
+| Discogs Link   | [Pajama Club - Pajama Club](https://www.discogs.com/release/3165774-Pajama-Club-Pajama-Club) |
 | Label          | Lester Records |
 | Format         | LP, Album |
 | Catalog Number | LRPJCO11LP |
+
+180 Gram vinyl release. Includes download card for digital version of the album, redeemable until 19 Sep 2013. Available separate and as a bundle with the CD version. Limited number of 250 issues came with a 12x12 inch silk screened colour print signed by all band members.  Touch Typing on The Game We Love To Play - Jordan Stone.  All songs by Neil and Sharon Finn (Kobalt Music Publishing) except tracks 1, 6, 8 by Neil and Sharon Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music). Track 10 by Neil Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music)
 

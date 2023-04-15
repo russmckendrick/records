@@ -1,14 +1,17 @@
 ---
 title: "The Orb - No Sounds Are Out Of Bounds"
-album_artist: "The Orb"
-album_title: "No Sounds Are Out Of Bounds"
+artist: "The Orb"
+album_name: "No Sounds Are Out Of Bounds"
 date: 2018-06-23
 release_id: "12165872"
 slug: "no-sounds-are-out-of-bounds-12165872"
+hideSummary: true
 cover:
     image: "no-sounds-are-out-of-bounds-12165872.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "No Sounds Are Out Of Bounds by The Orb"
+    caption: "No Sounds Are Out Of Bounds by The Orb"
+genres: ["Electronic", "Pop"]
+styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Other Blue Worlds](https://www.youtube.com/watch?v=A4LUyCcqvaw)
 - [Soul Planet](https://www.youtube.com/watch?v=LIz9YQ4Ji8I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Orb - No Sounds Are Out Of Bounds](https://www.discogs.com/release/12165872) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Orb - No Sounds Are Out Of Bounds](https://www.discogs.com/release/12165872-The-Orb-No-Sounds-Are-Out-Of-Bounds) |
 | Label          | Cooking Vinyl, Cooking Vinyl |
 | Format         | 2xLP, Ltd, Blu |
 | Catalog Number | COOKLP711, COOKLP711B |
+
+Indie Exclusive  Limited to 500  Includes a download code.  A: 22:25 / B: 17:22 / C: 15:23 / D:15:09 Total Length: 70:09  
 

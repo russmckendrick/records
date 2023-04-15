@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - The Real Thing"
-album_artist: "Faith No More"
-album_title: "The Real Thing"
+artist: "Faith No More"
+album_name: "The Real Thing"
 date: 2020-11-04
 release_id: "16034532"
 slug: "the-real-thing-16034532"
+hideSummary: true
 cover:
     image: "the-real-thing-16034532.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Real Thing by Faith No More"
+    caption: "The Real Thing by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/16034532) |
+| Release Year   | 2020 |
+| Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/16034532-Faith-No-More-The-Real-Thing) |
 | Label          | Slash, Slash, Reprise Records |
 | Format         | LP, Album, Ltd, RE, RM, Yel |
 | Catalog Number | RCV1 25878, 603497846207 |
+
+2500 pressed.   A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads: Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.  Rear sleeve and face labels: Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU.   Inner Sleeve: © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company.   Face labels: 
 

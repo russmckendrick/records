@@ -1,14 +1,17 @@
 ---
 title: "Mercury Rev - All Is Dream"
-album_artist: "Mercury Rev"
-album_title: "All Is Dream"
+artist: "Mercury Rev"
+album_name: "All Is Dream"
 date: 2022-05-28
 release_id: "23294882"
 slug: "all-is-dream-23294882"
+hideSummary: true
 cover:
     image: "all-is-dream-23294882.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "All Is Dream by Mercury Rev"
+    caption: "All Is Dream by Mercury Rev"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
 - [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Mercury Rev - All Is Dream](https://www.discogs.com/release/23294882) |
+| Release Year   | 2022 |
+| Discogs Link   | [Mercury Rev - All Is Dream](https://www.discogs.com/release/23294882-Mercury-Rev-All-Is-Dream) |
 | Label          | Cherry Red |
 | Format         | 2xLP, Album, Ltd, RE, Yel |
 | Catalog Number | BREDD816 |
+
+Limited to 1000 copies Same version than the red and black marbled vinyl (2020) but in yellow and green 
 

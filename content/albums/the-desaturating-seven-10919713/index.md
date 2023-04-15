@@ -1,14 +1,17 @@
 ---
 title: "Primus - The Desaturating Seven"
-album_artist: "Primus"
-album_title: "The Desaturating Seven"
+artist: "Primus"
+album_name: "The Desaturating Seven"
 date: 2017-09-29
 release_id: "10919713"
 slug: "the-desaturating-seven-10919713"
+hideSummary: true
 cover:
     image: "the-desaturating-seven-10919713.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Desaturating Seven by Primus"
+    caption: "The Desaturating Seven by Primus"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Funk Metal"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Primus - The Valley - (The Desaturating Seven)](https://www.youtube.com/watch?v=43mrOTRtCAI)
 - [Primus - The Storm -  (The Desaturating Seven)](https://www.youtube.com/watch?v=dS3KEHam1kE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Primus - The Desaturating Seven](https://www.discogs.com/release/10919713) |
+| Release Year   | 2017 |
+| Discogs Link   | [Primus - The Desaturating Seven](https://www.discogs.com/release/10919713-Primus-The-Desaturating-Seven) |
 | Label          | ATO Records, Prawn Song |
 | Format         | LP, Album, Rai |
 | Catalog Number | ATO0404LP |
+
+Issued with a printed inner sleeve with credits and lyrics. Including download card.  Hype-sticker on shrink-wrap: "Includes Digital Download NEW 2017 RELEASE Rainbow Splattered Colored Vinyl"  "The Desaturating Seven" was inspired by Uli De Rico's "The Rainbow Goblins".  ℗ & © 2017 ATO Records www.primusville.com
 

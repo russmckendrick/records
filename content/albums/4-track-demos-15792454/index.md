@@ -1,14 +1,17 @@
 ---
 title: "PJ Harvey - 4-Track Demos"
-album_artist: "PJ Harvey"
-album_title: "4-Track Demos"
+artist: "PJ Harvey"
+album_name: "4-Track Demos"
 date: 2020-08-22
 release_id: "15792454"
 slug: "4-track-demos-15792454"
+hideSummary: true
 cover:
     image: "4-track-demos-15792454.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "4-Track Demos by PJ Harvey"
+    caption: "4-Track Demos by PJ Harvey"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [50ft Queenie (4-Track Demo Version)](https://www.youtube.com/watch?v=bt1g1FDOMh0)
 - [Reeling (4-Track Demo Version)](https://www.youtube.com/watch?v=qoxipCtMT14)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [PJ Harvey - 4-Track Demos](https://www.discogs.com/release/15792454) |
+| Release Year   | 2020 |
+| Discogs Link   | [PJ Harvey - 4-Track Demos](https://www.discogs.com/release/15792454-P-J-Harvey-4-Track-Demos) |
 | Label          | Island Records, Island Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0851113, 00602508511134 |
+
+Includes a custom inner sleeve and a download card. An unconfirmed but very small number of pre-orders came with a 12" x 12" glossy, thick card art print of the front cover signed by PJ Harvey.  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. BIEM/SDRM.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)
 

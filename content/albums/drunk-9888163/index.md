@@ -1,14 +1,17 @@
 ---
 title: "Thundercat - Drunk"
-album_artist: "Thundercat"
-album_title: "Drunk"
+artist: "Thundercat"
+album_name: "Drunk"
 date: 2017-03-10
 release_id: "9888163"
 slug: "drunk-9888163"
+hideSummary: true
 cover:
     image: "drunk-9888163.jpg"
-tags: ["Hip Hop", "Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "Drunk by Thundercat"
+    caption: "Drunk by Thundercat"
+genres: ["Hip Hop", "Jazz", "Funk / Soul"]
+styles: null
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Thundercat - 'Lava Lamp'](https://www.youtube.com/watch?v=KMPjX_3snfM)
 - [Thundercat - 'Jethro'](https://www.youtube.com/watch?v=_ukKdTBwxCA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Thundercat - Drunk](https://www.discogs.com/release/9888163) |
+| Release Year   | 2017 |
+| Discogs Link   | [Thundercat - Drunk](https://www.discogs.com/release/9888163-Thundercat-Drunk) |
 | Label          | Brainfeeder |
 | Format         | 4x10\", Red + Box, Album |
 | Catalog Number | BF064 |
+
+Manufactured in EU.  P & C Brainfeeder 2017  included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)  Runouts are etched.
 

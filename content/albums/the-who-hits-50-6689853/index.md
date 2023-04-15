@@ -1,14 +1,17 @@
 ---
 title: "The Who - The Who Hits 50!"
-album_artist: "The Who"
-album_title: "The Who Hits 50!"
+artist: "The Who"
+album_name: "The Who Hits 50!"
 date: 2015-09-27
 release_id: "6689853"
 slug: "the-who-hits-50-6689853"
+hideSummary: true
 cover:
     image: "the-who-hits-50-6689853.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Who Hits 50! by The Who"
+    caption: "The Who Hits 50! by The Who"
+genres: ["Rock", "Pop"]
+styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -34,16 +37,17 @@ hideSummary: true
 20. Real Good-Looking Boy (3:53)
 21. Be Lucky (3:18)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Who - The Who Hits 50!](https://www.discogs.com/release/6689853) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Who - The Who Hits 50!](https://www.discogs.com/release/6689853-The-Who-The-Who-Hits-50) |
 | Label          | Polydor, Universal Music Catalogue |
 | Format         | 2xLP, Comp, RM |
 | Catalog Number | 3794051 |
+
+This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051.  Catalog Number Disc 1: 3794052 Catalog Number Disc 1: 3794053  Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).  Differs from [r11234307]: runout information LP1.  Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched.
 

@@ -1,14 +1,17 @@
 ---
 title: "It Bites - The Big Lad In The Windmill"
-album_artist: "It Bites"
-album_title: "The Big Lad In The Windmill"
+artist: "It Bites"
+album_name: "The Big Lad In The Windmill"
 date: 2018-09-07
 release_id: "1593537"
 slug: "the-big-lad-in-the-windmill-1593537"
+hideSummary: true
 cover:
     image: "the-big-lad-in-the-windmill-1593537.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Big Lad In The Windmill by It Bites"
+    caption: "The Big Lad In The Windmill by It Bites"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [It Bites - Tokyo 10/10/1989 #2](https://www.youtube.com/watch?v=wRgxjj9HdIE)
 - [It Bites - I Got You Eating Out Of My Hand (Live Sheffield 1989 06 21)](https://www.youtube.com/watch?v=NfnJwIpo2pc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [It Bites - The Big Lad In The Windmill](https://www.discogs.com/release/1593537) |
+| Release Year   | 1986 |
+| Discogs Link   | [It Bites - The Big Lad In The Windmill](https://www.discogs.com/release/1593537-It-Bites-The-Big-Lad-In-The-Windmill) |
 | Label          | Virgin |
 | Format         | LP, Album |
 | Catalog Number | V2378 |
+
+With illustrated inner sleeve. Recorded at Rak Studios, England. Mixed at Oddysey Studios, England.  ℗ 1986 Virgin Records Ltd. © 1986 Virgin Records Ltd. Manufactured in the U.K. 
 

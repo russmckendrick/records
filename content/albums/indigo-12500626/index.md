@@ -1,14 +1,17 @@
 ---
 title: "Kandace Springs - Indigo"
-album_artist: "Kandace Springs"
-album_title: "Indigo"
+artist: "Kandace Springs"
+album_name: "Indigo"
 date: 2018-09-28
 release_id: "12500626"
 slug: "indigo-12500626"
+hideSummary: true
 cover:
     image: "indigo-12500626.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Indigo by Kandace Springs"
+    caption: "Indigo by Kandace Springs"
+genres: ["Jazz"]
+styles: null
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=XwwSU8O5X5M)
 - [Simple Things](https://www.youtube.com/watch?v=pL5jn3LRl6w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Kandace Springs - Indigo](https://www.discogs.com/release/12500626) |
+| Release Year   | 2018 |
+| Discogs Link   | [Kandace Springs - Indigo](https://www.discogs.com/release/12500626-Kandace-Springs-Indigo) |
 | Label          | Blue Note |
 | Format         | LP, Album |
 | Catalog Number | B002872101 |
+
+Single pocket sleeve with double-sided insert with photo and album credits.
 

@@ -1,14 +1,17 @@
 ---
 title: "Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble"
-album_artist: "Stevie Ray Vaughan & Double Trouble"
-album_title: "The Essential Stevie Ray Vaughan And Double Trouble"
+artist: "Stevie Ray Vaughan & Double Trouble"
+album_name: "The Essential Stevie Ray Vaughan And Double Trouble"
 date: 2021-08-17
 release_id: "9479922"
 slug: "the-essential-stevie-ray-vaughan-and-double-trouble-9479922"
+hideSummary: true
 cover:
     image: "the-essential-stevie-ray-vaughan-and-double-trouble-9479922.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan & Double Trouble"
+    caption: "The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan & Double Trouble"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock", "Texas Blues"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Rude Mood/Hide Away (Live)](https://www.youtube.com/watch?v=mBzud6-s5rg)
 - [S̲t̲evie R̲ay V̲a̲u̲ghan & D̲o̲uble T̲r̲ouble - The Essential (2002) (Full Album)](https://www.youtube.com/watch?v=1-Srg_2GlpU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble](https://www.discogs.com/release/9479922) |
+| Release Year   | 2016 |
+| Discogs Link   | [Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble](https://www.discogs.com/release/9479922-Stevie-Ray-Vaughan-And-Double-Trouble-The-Essential-Stevie-Ray-Vaughan-And-Double-Trouble) |
 | Label          | Epic, Legacy |
 | Format         | 2xLP, Comp |
 | Catalog Number | 88985357751 |
+
+
 

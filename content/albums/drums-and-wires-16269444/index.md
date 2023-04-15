@@ -1,14 +1,17 @@
 ---
 title: "XTC - Drums And Wires"
-album_artist: "XTC"
-album_title: "Drums And Wires"
+artist: "XTC"
+album_name: "Drums And Wires"
 date: 2020-11-28
 release_id: "16269444"
 slug: "drums-and-wires-16269444"
+hideSummary: true
 cover:
     image: "drums-and-wires-16269444.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Drums And Wires by XTC"
+    caption: "Drums And Wires by XTC"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Outside World (2001 Digital Remaster)](https://www.youtube.com/watch?v=kAKCgduec5o)
 - [XTC - Drums and Wires (Full Album) [HD] Reupload](https://www.youtube.com/watch?v=ph-cxsWVrMw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [XTC - Drums And Wires](https://www.discogs.com/release/16269444) |
+| Release Year   | 2020 |
+| Discogs Link   | [XTC - Drums And Wires](https://www.discogs.com/release/16269444-XTC-Drums-And-Wires) |
 | Label          | Ape House |
 | Format         | LP, Album, 200 + 7\", Single, Ltd + RE |
 | Catalog Number | APELP103 |
+
+Hype Sticker on Front of Shrink Wrap Reads:  XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge.  Pressed on 200G Super-Heavyweight Vinyl LIMITED EDITION BONUS 7" LIMELIGHT / CHAIN OF COMMAND  Includes bonus 7" replicating original U.K. release, [r=585255]   Tracks not numbered on rear of sleeve - tracks listed under side one and side two  
 

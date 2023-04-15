@@ -1,14 +1,17 @@
 ---
 title: "Kamasi Washington - The Epic"
-album_artist: "Kamasi Washington"
-album_title: "The Epic"
+artist: "Kamasi Washington"
+album_name: "The Epic"
 date: 2016-03-26
 release_id: "7383499"
 slug: "the-epic-7383499"
+hideSummary: true
 cover:
     image: "the-epic-7383499.jpg"
-tags: ["Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "The Epic by Kamasi Washington"
+    caption: "The Epic by Kamasi Washington"
+genres: ["Jazz", "Funk / Soul"]
+styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Kamasi Washington - 'Malcolm's Theme'](https://www.youtube.com/watch?v=h-ywrqeQPto)
 - [Kamasi Washington - 'The Message'](https://www.youtube.com/watch?v=gI1wK508370)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Kamasi Washington - The Epic](https://www.discogs.com/release/7383499) |
+| Release Year   | 2015 |
+| Discogs Link   | [Kamasi Washington - The Epic](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
 | Label          | Brainfeeder |
 | Format         | 3xLP, 180 + Box, Album |
 | Catalog Number | BF050 |
+
+- 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase. - Half speed cut by Matt Colton at Alchemy Mastering. - Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis - Download MP3 Code sticker on sleeve of Volume 1 - The Plan - Black sticker on shrink wrap (front) - White BC sticker on shrink wrap (rear)  On rear box: P & C Brainfeeder 2015 Made in the EU
 

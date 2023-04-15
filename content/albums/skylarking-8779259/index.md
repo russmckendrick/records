@@ -1,14 +1,17 @@
 ---
 title: "XTC - Skylarking"
-album_artist: "XTC"
-album_title: "Skylarking"
+artist: "XTC"
+album_name: "Skylarking"
 date: 2018-01-19
 release_id: "8779259"
 slug: "skylarking-8779259"
+hideSummary: true
 cover:
     image: "skylarking-8779259.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Skylarking by XTC"
+    caption: "Skylarking by XTC"
+genres: ["Rock"]
+styles: ["New Wave", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [XTC - Skylarking (Full Album) [HD]](https://www.youtube.com/watch?v=85J91FwPrTw)
 - [The meeting place](https://www.youtube.com/watch?v=fBxCxUFOBv0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [XTC - Skylarking](https://www.discogs.com/release/8779259) |
+| Release Year   | 2016 |
+| Discogs Link   | [XTC - Skylarking](https://www.discogs.com/release/8779259-XTC-Skylarking) |
 | Label          | Ape House |
 | Format         | 2xLP, Album, RE, RP + CD, Album, RE + Box, Dlx, RM |
 | Catalog Number | APELPD108 |
+
+"A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking.   Including:  * 2 x 45rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * Cut from corrected polarity master  * CD of corrected polarity master  * Both album sleeves - sleeve as released and original proposed design  * All contents packaged in a sturdy slipcase."  - Ape House Ltd. 
 

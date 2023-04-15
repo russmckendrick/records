@@ -1,14 +1,17 @@
 ---
 title: "Utopia (5) - Oops! Wrong Planet"
-album_artist: "Utopia (5)"
-album_title: "Oops! Wrong Planet"
+artist: "Utopia (5)"
+album_name: "Oops! Wrong Planet"
 date: 2022-03-06
 release_id: "1393361"
 slug: "oops-wrong-planet-1393361"
+hideSummary: true
 cover:
     image: "oops-wrong-planet-1393361.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Oops! Wrong Planet by Utopia (5)"
+    caption: "Oops! Wrong Planet by Utopia (5)"
+genres: ["Electronic", "Rock"]
+styles: ["Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Utopia- Trapped](https://www.youtube.com/watch?v=tOAdhIWpgk8)
 - [Utopia - Crazy Lady Blue](https://www.youtube.com/watch?v=QxeGZuwgPEU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1977 |
-| Discogs Link   | [Utopia (5) - Oops! Wrong Planet](https://www.discogs.com/release/1393361) |
+| Release Year   | 1977 |
+| Discogs Link   | [Utopia (5) - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-Oops-Wrong-Planet) |
 | Label          | Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K 55517 |
+
+Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970 
 

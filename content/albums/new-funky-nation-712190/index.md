@@ -1,14 +1,17 @@
 ---
 title: "Boo-Yaa T.R.I.B.E. - New Funky Nation"
-album_artist: "Boo-Yaa T.R.I.B.E."
-album_title: "New Funky Nation"
+artist: "Boo-Yaa T.R.I.B.E."
+album_name: "New Funky Nation"
 date: 2020-08-01
 release_id: "712190"
 slug: "new-funky-nation-712190"
+hideSummary: true
 cover:
     image: "new-funky-nation-712190.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "New Funky Nation by Boo-Yaa T.R.I.B.E."
+    caption: "New Funky Nation by Boo-Yaa T.R.I.B.E."
+genres: ["Hip Hop"]
+styles: ["Gangsta"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Boo-Yaa T.R.I.B.E. - Psyko Funk](https://www.youtube.com/watch?v=gqTvJ-kO1z8)
 - [Boo-Yaa TRIBE - R.A.I.D.](https://www.youtube.com/watch?v=EsPV6Qomxzo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Boo-Yaa T.R.I.B.E. - New Funky Nation](https://www.discogs.com/release/712190) |
+| Release Year   | 1990 |
+| Discogs Link   | [Boo-Yaa T.R.I.B.E. - New Funky Nation](https://www.discogs.com/release/712190-Boo-Yaa-TRIBE-New-Funky-Nation) |
 | Label          | 4th & Broadway, Island Records |
 | Format         | LP, Album |
 | Catalog Number | BRLP 544, 842 396-1 |
+
+WS2, WS3, WS5, ES4 produced for Dust Bros. Music. WS4, ES1, ES5 produced for Chicken Feed Productions.  Fish appears courtesy of CBS Records.  Recorded at Image Recording, Hollywood. Mixed at Image Recording & The Record Plant, Hollywood. ES2 recorded at Paramount Studios, Hollywood. WS6, ES2 mixed at Studio 4, Philadelphia. Mastered at Masterdisk, NYC, NY.  Publishing: Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.  Back cover: ℗ 1990 owned by Island Records Inc except ES2 ℗ 1989. Island Records Ltd are the exclusive licensees in the UK. © 1990 Island Records Inc.  WS label: ℗ 1990 owned by Island Records Inc. Island Records Ltd are the exclusive licensees for the U.K.  ES label: ℗ 1990 except ES1. 1989 owned by Island Records, Inc. Island Records Ltd are the exclusive licensees for the United Kingdom. Made in Gt Britain.
 

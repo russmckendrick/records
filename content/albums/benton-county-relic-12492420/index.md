@@ -1,14 +1,17 @@
 ---
 title: "Cedric Burnside - Benton County Relic"
-album_artist: "Cedric Burnside"
-album_title: "Benton County Relic"
+artist: "Cedric Burnside"
+album_name: "Benton County Relic"
 date: 2018-09-15
 release_id: "12492420"
 slug: "benton-county-relic-12492420"
+hideSummary: true
 cover:
     image: "benton-county-relic-12492420.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "Benton County Relic by Cedric Burnside"
+    caption: "Benton County Relic by Cedric Burnside"
+genres: ["Blues"]
+styles: ["Country Blues", "Hill Country Blues"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. I'm Hurtin
 12. Ain't Gonna Take No Mess
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Cedric Burnside - Benton County Relic](https://www.discogs.com/release/12492420) |
+| Release Year   | 2018 |
+| Discogs Link   | [Cedric Burnside - Benton County Relic](https://www.discogs.com/release/12492420-Cedric-Burnside-Benton-County-Relic) |
 | Label          | Single Lock Records |
 | Format         | LP, Album |
 | Catalog Number | SL024 |
+
+Signed versions were available as pre-order. "Ain't Gonna Take No Mess" recorded at Ardent Studios in Memphis, TN Includes printed inner sleeve. 
 

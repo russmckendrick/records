@@ -1,14 +1,17 @@
 ---
 title: "The Temperance Movement - The Temperance Movement"
-album_artist: "The Temperance Movement"
-album_title: "The Temperance Movement"
+artist: "The Temperance Movement"
+album_name: "The Temperance Movement"
 date: 2016-01-18
 release_id: "4953828"
 slug: "the-temperance-movement-4953828"
+hideSummary: true
 cover:
     image: "the-temperance-movement-4953828.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "The Temperance Movement by The Temperance Movement"
+    caption: "The Temperance Movement by The Temperance Movement"
+genres: ["Rock", "Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The Temperance Movement - Lovers and Fighters (Live from Portsmouth)](https://www.youtube.com/watch?v=TXnYc7Dnexg)
 - [The Temperance Movement - Only Friend (Live from Lincoln)](https://www.youtube.com/watch?v=nyexfGdS6BM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [The Temperance Movement - The Temperance Movement](https://www.discogs.com/release/4953828) |
+| Release Year   | 2013 |
+| Discogs Link   | [The Temperance Movement - The Temperance Movement](https://www.discogs.com/release/4953828-The-Temperance-Movement-The-Temperance-Movement) |
 | Label          | Earache |
 | Format         | 2xLP, Album |
 | Catalog Number | MOSH502LP |
+
+A double classic LP. If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks.
 

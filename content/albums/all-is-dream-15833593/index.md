@@ -1,14 +1,17 @@
 ---
 title: "Mercury Rev - All Is Dream"
-album_artist: "Mercury Rev"
-album_title: "All Is Dream"
+artist: "Mercury Rev"
+album_name: "All Is Dream"
 date: 2020-08-29
 release_id: "15833593"
 slug: "all-is-dream-15833593"
+hideSummary: true
 cover:
     image: "all-is-dream-15833593.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "All Is Dream by Mercury Rev"
+    caption: "All Is Dream by Mercury Rev"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -56,13 +59,16 @@ hideSummary: true
 - [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
 - [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Mercury Rev - All Is Dream](https://www.discogs.com/release/15833593) |
+| Release Year   | 2020 |
+| Discogs Link   | [Mercury Rev - All Is Dream](https://www.discogs.com/release/15833593-Mercury-Rev-All-Is-Dream) |
 | Label          | Cherry Red |
 | Format         | 2xLP, Album, Ltd, RE, Red |
 | Catalog Number | BREDD816 |
+
+
 

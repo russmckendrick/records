@@ -1,14 +1,17 @@
 ---
 title: "Baxter Dury - The Night Chancers"
-album_artist: "Baxter Dury"
-album_title: "The Night Chancers"
+artist: "Baxter Dury"
+album_name: "The Night Chancers"
 date: 2020-09-15
 release_id: "14946788"
 slug: "the-night-chancers-14946788"
+hideSummary: true
 cover:
     image: "the-night-chancers-14946788.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Night Chancers by Baxter Dury"
+    caption: "The Night Chancers by Baxter Dury"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Indie Pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Baxter Dury - Carla's Got A Boyfriend](https://www.youtube.com/watch?v=MPj7GifljM8)
 - [Daylight](https://www.youtube.com/watch?v=hH8W0cM_718)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Baxter Dury - The Night Chancers](https://www.discogs.com/release/14946788) |
+| Release Year   | 2020 |
+| Discogs Link   | [Baxter Dury - The Night Chancers](https://www.discogs.com/release/14946788-Baxter-Dury-The-Night-Chancers) |
 | Label          | [PIAS] Le Label, [pias] |
 | Format         | LP, Album, Ltd, Cry |
 | Catalog Number | PIASLL141LPC, none |
+
+Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.  ℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.  Recorded at Hoxa Strings recorded at The Church.
 

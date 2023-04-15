@@ -1,14 +1,17 @@
 ---
 title: "The Charlatans - Between 10th And 11th / Isolation 21.2.91"
-album_artist: "The Charlatans"
-album_title: "Between 10th And 11th / Isolation 21.2.91"
+artist: "The Charlatans"
+album_name: "Between 10th And 11th / Isolation 21.2.91"
 date: 2020-07-03
 release_id: "15553282"
 slug: "between-10th-and-11th-isolation-21-2-91-15553282"
+hideSummary: true
 cover:
     image: "between-10th-and-11th-isolation-21-2-91-15553282.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Between 10th And 11th / Isolation 21.2.91 by The Charlatans"
+    caption: "Between 10th And 11th / Isolation 21.2.91 by The Charlatans"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [[No One] Not Even The Rain](https://www.youtube.com/watch?v=AZezlm4_KOA)
 - [Weirdo](https://www.youtube.com/watch?v=m-yjro8dZjY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282-The-Charlatans-Between-10th-And-11th-Isolation-21291) |
 | Label          | Beggars Banquet, Situation Two |
 | Format         | LP, Album, RE, Cle + LP, RE, RM, Cle + Exp |
 | Catalog Number | BBQ2165LP |
+
+℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited  
 

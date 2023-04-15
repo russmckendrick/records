@@ -1,14 +1,17 @@
 ---
 title: "Oasis (2) - The Masterplan"
-album_artist: "Oasis (2)"
-album_title: "The Masterplan"
+artist: "Oasis (2)"
+album_name: "The Masterplan"
 date: 2017-04-22
 release_id: "1826939"
 slug: "the-masterplan-1826939"
+hideSummary: true
 cover:
     image: "the-masterplan-1826939.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Masterplan by Oasis (2)"
+    caption: "The Masterplan by Oasis (2)"
+genres: ["Rock"]
+styles: ["Britpop"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Headshrinker (4:38)
 14. The Masterplan (5:22)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1998 |
-| Discogs Link   | [Oasis (2) - The Masterplan](https://www.discogs.com/release/1826939) |
+| Release Year   | 1998 |
+| Discogs Link   | [Oasis (2) - The Masterplan](https://www.discogs.com/release/1826939-Oasis-The-Masterplan) |
 | Label          | Creation Records, Creation Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | CRELP 241, CRELP241 |
+
+Gatefold sleeve. Track durations not shown on release. Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'. ℗ & © 1998 Creation Records Ltd. 
 

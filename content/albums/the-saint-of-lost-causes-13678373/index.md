@@ -1,14 +1,17 @@
 ---
 title: "Justin Townes Earle - The Saint Of Lost Causes"
-album_artist: "Justin Townes Earle"
-album_title: "The Saint Of Lost Causes"
+artist: "Justin Townes Earle"
+album_name: "The Saint Of Lost Causes"
 date: 2019-05-26
 release_id: "13678373"
 slug: "the-saint-of-lost-causes-13678373"
+hideSummary: true
 cover:
     image: "the-saint-of-lost-causes-13678373.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "The Saint Of Lost Causes by Justin Townes Earle"
+    caption: "The Saint Of Lost Causes by Justin Townes Earle"
+genres: ["Folk, World, & Country"]
+styles: ["Folk", "Country"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Justin Townes Earle - Over Alameda [Audio Only]](https://www.youtube.com/watch?v=f4QjO3YUPOU)
 - [Justin Townes Earle - The Saint of Lost Causes](https://www.youtube.com/watch?v=cWwkW35vEIE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Justin Townes Earle - The Saint Of Lost Causes](https://www.discogs.com/release/13678373) |
+| Release Year   | 2019 |
+| Discogs Link   | [Justin Townes Earle - The Saint Of Lost Causes](https://www.discogs.com/release/13678373-Justin-Townes-Earle-The-Saint-Of-Lost-Causes) |
 | Label          | New West Records |
 | Format         | LP + LP, S/Sided, Etch + Album |
 | Catalog Number | NW5279 |
+
+Black vinyl edition. Side D has a etched picture.  Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker. 
 

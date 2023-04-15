@@ -1,14 +1,17 @@
 ---
 title: "Rosalie Cunningham - Rosalie Cunningham"
-album_artist: "Rosalie Cunningham"
-album_title: "Rosalie Cunningham"
+artist: "Rosalie Cunningham"
+album_name: "Rosalie Cunningham"
 date: 2019-09-03
 release_id: "13945205"
 slug: "rosalie-cunningham-13945205"
+hideSummary: true
 cover:
     image: "rosalie-cunningham-13945205.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rosalie Cunningham by Rosalie Cunningham"
+    caption: "Rosalie Cunningham by Rosalie Cunningham"
+genres: ["Rock"]
+styles: ["Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 {{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}
 - [Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205) |
+| Release Year   | 2019 |
+| Discogs Link   | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205-Rosalie-Cunningham-Rosalie-Cunningham) |
 | Label          | Esoteric Antenna |
 | Format         | LP, Album |
 | Catalog Number | EANTLP1075 |
+
+Standard black vinyl 200 copies was signed by the band Made in the EU
 

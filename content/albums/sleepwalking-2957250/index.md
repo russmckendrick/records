@@ -1,14 +1,17 @@
 ---
 title: "Kingmaker - Sleepwalking"
-album_artist: "Kingmaker"
-album_title: "Sleepwalking"
+artist: "Kingmaker"
+album_name: "Sleepwalking"
 date: 2016-07-26
 release_id: "2957250"
 slug: "sleepwalking-2957250"
+hideSummary: true
 cover:
     image: "sleepwalking-2957250.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sleepwalking by Kingmaker"
+    caption: "Sleepwalking by Kingmaker"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Help Yourself](https://www.youtube.com/watch?v=IWQ2TG2Bv3s)
 - [Your Place](https://www.youtube.com/watch?v=PX0AIQWfxgw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1993 |
-| Discogs Link   | [Kingmaker - Sleepwalking](https://www.discogs.com/release/2957250) |
+| Release Year   | 1993 |
+| Discogs Link   | [Kingmaker - Sleepwalking](https://www.discogs.com/release/2957250-Kingmaker-Sleepwalking) |
 | Label          | Chrysalis |
 | Format         | LP, Album |
 | Catalog Number | CHR 6014 |
+
+℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd. Release features Chrysalis and Scorch Records logos. 
 

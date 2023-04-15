@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - The Best Of R.E.M."
-album_artist: "R.E.M."
-album_title: "The Best Of R.E.M."
+artist: "R.E.M."
+album_name: "The Best Of R.E.M."
 date: 2018-11-29
 release_id: "605691"
 slug: "the-best-of-r-e-m-605691"
+hideSummary: true
 cover:
     image: "the-best-of-r-e-m-605691.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of R.E.M. by R.E.M."
+    caption: "The Best Of R.E.M. by R.E.M."
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [R.E.M. - Can't Get There From Here](https://www.youtube.com/watch?v=gD3cYh5Pp1I)
 - [R.E.M. - Perfect Circle](https://www.youtube.com/watch?v=4jkRr4-ldz0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [R.E.M. - The Best Of R.E.M.](https://www.discogs.com/release/605691) |
+| Release Year   | 1991 |
+| Discogs Link   | [R.E.M. - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |
 | Label          | I.R.S. Records |
 | Format         | LP, Comp |
 | Catalog Number | MIRH 1 |
+
+Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.  Track A1 titled "Carnival Of Sorts" on the back cover.  This compilation: ℗ 1991 International Record Syndicate, Inc. © 1991 International Record Syndicate, Inc.
 

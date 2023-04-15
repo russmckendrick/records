@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - Devil Hopping"
-album_artist: "Inspiral Carpets"
-album_title: "Devil Hopping"
+artist: "Inspiral Carpets"
+album_name: "Devil Hopping"
 date: 2017-09-01
 release_id: "2158022"
 slug: "devil-hopping-2158022"
+hideSummary: true
 cover:
     image: "devil-hopping-2158022.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Devil Hopping by Inspiral Carpets"
+    caption: "Devil Hopping by Inspiral Carpets"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
 - [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/2158022) |
+| Release Year   | 1994 |
+| Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/2158022-Inspiral-Carpets-Devil-Hopping) |
 | Label          | Mute, Cow |
 | Format         | LP, Album |
 | Catalog Number | DUNG 25 |
+
+Recorded and mixed at Parr Street Studios, Liverpool.  Inner sleeve with lyrics & credits.  Same release as [r638225] but with other barcode and without the bonus 10". 
 

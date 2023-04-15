@@ -1,14 +1,17 @@
 ---
 title: "New Order - Everythings Gone Green"
-album_artist: "New Order"
-album_title: "Everythings Gone Green"
+artist: "New Order"
+album_name: "Everythings Gone Green"
 date: 2019-03-15
 release_id: "13345407"
 slug: "everythings-gone-green-13345407"
+hideSummary: true
 cover:
     image: "everythings-gone-green-13345407.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Everythings Gone Green by New Order"
+    caption: "Everythings Gone Green by New Order"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Electro"]
 ---
 
 ## Tracklisting
@@ -19,13 +22,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [New Order - Everythings Gone Green](https://www.discogs.com/release/13345407) |
+| Release Year   | 2019 |
+| Discogs Link   | [New Order - Everythings Gone Green](https://www.discogs.com/release/13345407-New-Order-Everythings-Gone-Green) |
 | Label          | Factory Benelux |
 | Format         | 12\", RE, RM, 180 |
 | Catalog Number | FBN 8 |
+
+
 

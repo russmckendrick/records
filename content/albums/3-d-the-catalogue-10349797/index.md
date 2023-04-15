@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - 3-D (The Catalogue)"
-album_artist: "Kraftwerk"
-album_title: "3-D (The Catalogue)"
+artist: "Kraftwerk"
+album_name: "3-D (The Catalogue)"
 date: 2017-06-24
 release_id: "10349797"
 slug: "3-d-the-catalogue-10349797"
+hideSummary: true
 cover:
     image: "3-d-the-catalogue-10349797.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "3-D (The Catalogue) by Kraftwerk"
+    caption: "3-D (The Catalogue) by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Techno", "Electro", "Experimental"]
 ---
 
 ## Tracklisting
@@ -90,16 +93,17 @@ hideSummary: true
 76. La Forme (6:19)
 77. Regeneration (0:28)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Kraftwerk - 3-D (The Catalogue)](https://www.discogs.com/release/10349797) |
+| Release Year   | 2017 |
+| Discogs Link   | [Kraftwerk - 3-D (The Catalogue)](https://www.discogs.com/release/10349797-Kraftwerk-3-D-The-Catalogue) |
 | Label          | Parlophone, Kling Klang |
 | Format         | Box + LP, Album + LP, Album + LP, Album + LP, Albu |
 | Catalog Number | 0190295923518 |
+
+Sticker on release reads: 8 Album Vinyl Box-Set - New Recordings 2012-2016 Album 7 / Headphone Surround 3D + download card
 

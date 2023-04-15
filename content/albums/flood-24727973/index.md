@@ -1,14 +1,17 @@
 ---
 title: "Headswim - Flood"
-album_artist: "Headswim"
-album_title: "Flood"
+artist: "Headswim"
+album_name: "Flood"
 date: 2022-10-09
 release_id: "24727973"
 slug: "flood-24727973"
+hideSummary: true
 cover:
     image: "flood-24727973.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flood by Headswim"
+    caption: "Flood by Headswim"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 {{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}
 - [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Headswim - Flood](https://www.discogs.com/release/24727973) |
+| Release Year   | 2022 |
+| Discogs Link   | [Headswim - Flood](https://www.discogs.com/release/24727973-Headswim-Flood) |
 | Label          | Epic, Trapped Animal |
 | Format         | LP, Album, RE + LP, Yel |
 | Catalog Number | TAR055V |
+
+2022 reissue (black vinyl) with second vinyl (yellow) in gatefold sleeve with additional notes
 

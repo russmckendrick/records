@@ -1,14 +1,17 @@
 ---
 title: "Squeeze (2) - Singles - 45's And Under"
-album_artist: "Squeeze (2)"
-album_title: "Singles - 45's And Under"
+artist: "Squeeze (2)"
+album_name: "Singles - 45's And Under"
 date: 2015-09-11
 release_id: "1592619"
 slug: "singles-45-s-and-under-1592619"
+hideSummary: true
 cover:
     image: "singles-45-s-and-under-1592619.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Singles - 45's And Under by Squeeze (2)"
+    caption: "Singles - 45's And Under by Squeeze (2)"
+genres: ["Rock"]
+styles: ["New Wave", "Punk"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [If I Didn't Love You](https://www.youtube.com/watch?v=liLruG9gV40)
 - [Squeeze - Is That Love (1981)](https://www.youtube.com/watch?v=Uz0UeOUBnn8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Squeeze (2) - Singles - 45's And Under](https://www.discogs.com/release/1592619) |
+| Release Year   | 1982 |
+| Discogs Link   | [Squeeze (2) - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-Singles-45s-And-Under) |
 | Label          | A&M Records |
 | Format         | LP, Comp |
 | Catalog Number | AMLH 68552 |
+
+Made in England  Printed inner sleeve 
 

@@ -1,14 +1,17 @@
 ---
 title: "Cranes - Population Four"
-album_artist: "Cranes"
-album_title: "Population Four"
+artist: "Cranes"
+album_name: "Population Four"
 date: 2020-08-21
 release_id: "15796529"
 slug: "population-four-15796529"
+hideSummary: true
 cover:
     image: "population-four-15796529.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Population Four by Cranes"
+    caption: "Population Four by Cranes"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [CRANES - To Be](https://www.youtube.com/watch?v=I5rS3EeFkNc)
 - [Cranes - Wild Yellow Bloom (limited edition bonus track from Population Four, 1997)](https://www.youtube.com/watch?v=zJYEWeJabKg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Cranes - Population Four](https://www.discogs.com/release/15796529) |
+| Release Year   | 2020 |
+| Discogs Link   | [Cranes - Population Four](https://www.discogs.com/release/15796529-Cranes-Population-Four) |
 | Label          | Music On Vinyl, Dedicated |
 | Format         | LP, Album, Ltd, Num, RE, Blu |
 | Catalog Number | MOVLP2598 |
+
+Limited edition of 1500 numbered copies on blue & white swirled vinyl Available on vinyl for the first time Includes insert 180 gram audiophile vinyl [sticker on protective sleeve front]  Recorded at Stanbridge Farm, Sussex, May-June 1996. (except # 6 recorded at Piercing Sound, Burbank, CA 1995.) Mixed at First Protocol, [...]. Mastered at Tape to Tape [...]. © 1997, 2020 sony music entertainment. [insert]  originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment. manufactured & distributed by music on vinyl b.v. for sony music entertainment. made in the eu. [sleeve & labels]  Hype sticker on resealable protective sleeve front Stamp-numbering on rear sleeve 12" square insert & poly-lined inner sleeve
 

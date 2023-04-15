@@ -1,14 +1,17 @@
 ---
 title: "Fine Young Cannibals - The Raw & The Cooked"
-album_artist: "Fine Young Cannibals"
-album_title: "The Raw & The Cooked"
+artist: "Fine Young Cannibals"
+album_name: "The Raw & The Cooked"
 date: 2020-12-20
 release_id: "16531191"
 slug: "the-raw-the-cooked-16531191"
+hideSummary: true
 cover:
     image: "the-raw-the-cooked-16531191.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "The Raw & The Cooked by Fine Young Cannibals"
+    caption: "The Raw & The Cooked by Fine Young Cannibals"
+genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
+styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/16531191) |
+| Release Year   | 2020 |
+| Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/16531191-Fine-Young-Cannibals-The-Raw-The-Cooked) |
 | Label          | London Records |
 | Format         | LP, Album, RE, RM, Whi |
 | Catalog Number | LMS5521363 |
+
+Anniversary Edition Reissue on White Vinyl within Gatefold Sleeve. Includes download featuring rare & unreleased tracks. 32 tracks total in MP3 - 320 Kbits/s quality.  Initial copies from the artist's store came with a signed print
 

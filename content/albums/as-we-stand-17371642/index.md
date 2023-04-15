@@ -1,14 +1,17 @@
 ---
 title: "Tori Handsley - As We Stand"
-album_artist: "Tori Handsley"
-album_title: "As We Stand"
+artist: "Tori Handsley"
+album_name: "As We Stand"
 date: 2021-02-12
 release_id: "17371642"
 slug: "as-we-stand-17371642"
+hideSummary: true
 cover:
     image: "as-we-stand-17371642.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "As We Stand by Tori Handsley"
+    caption: "As We Stand by Tori Handsley"
+genres: ["Jazz"]
+styles: ["Contemporary Jazz"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Convolution - Tori Handsley](https://www.youtube.com/watch?v=OSTIPT7fsLw)
 - [Polar Retreat - Tori Handsley](https://www.youtube.com/watch?v=2yhkuCYFpIg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tori Handsley - As We Stand](https://www.discogs.com/release/17371642) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tori Handsley - As We Stand](https://www.discogs.com/release/17371642-Tori-Handsley-As-We-Stand) |
 | Label          | Cadillac Records |
 | Format         | 2x12\", Album, Gat |
 | Catalog Number | SGCLP019 |
+
+Gatefold double vinyl - strictly limited edition of 500  
 

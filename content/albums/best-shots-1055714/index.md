@@ -1,14 +1,17 @@
 ---
 title: "Pat Benatar - Best Shots"
-album_artist: "Pat Benatar"
-album_title: "Best Shots"
+artist: "Pat Benatar"
+album_name: "Best Shots"
 date: 2019-11-08
 release_id: "1055714"
 slug: "best-shots-1055714"
+hideSummary: true
 cover:
     image: "best-shots-1055714.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Best Shots by Pat Benatar"
+    caption: "Best Shots by Pat Benatar"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="0q2jL8hpT_0" title="Pat Benatar - Love is a battlefield 1984" >}}
 - [Pat Benatar- Hit Me With Your Best Shot](https://www.youtube.com/watch?v=x5kisPBwZOM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Pat Benatar - Best Shots](https://www.discogs.com/release/1055714) |
+| Release Year   | 1987 |
+| Discogs Link   | [Pat Benatar - Best Shots](https://www.discogs.com/release/1055714-Pat-Benatar-Best-Shots) |
 | Label          | Chrysalis |
 | Format         | LP, Comp |
 | Catalog Number | PATV1 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Cardiacs - Sing To God"
-album_artist: "Cardiacs"
-album_title: "Sing To God"
+artist: "Cardiacs"
+album_name: "Sing To God"
 date: 2016-03-03
 release_id: "5915357"
 slug: "sing-to-god-5915357"
+hideSummary: true
 cover:
     image: "sing-to-god-5915357.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sing To God by Cardiacs"
+    caption: "Sing To God by Cardiacs"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Cardiacs -  Nurses Whispering Verses (Sing to god version)](https://www.youtube.com/watch?v=tiVOEHIHuzU)
 - [Foundling](https://www.youtube.com/watch?v=t0qc3kVbACY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Cardiacs - Sing To God](https://www.discogs.com/release/5915357) |
+| Release Year   | 2014 |
+| Discogs Link   | [Cardiacs - Sing To God](https://www.discogs.com/release/5915357-Cardiacs-Sing-To-God) |
 | Label          | The Alphabet Business Concern |
 | Format         | 2xLP, Album, Ltd, Num, RE |
 | Catalog Number | ALPH DLP 022 |
+
+Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.  Limited to 200 numbered copies. Comes in a gatefold sleeve with picture inner sleeves and a download coupon. Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].  ℗&© Alphabet 1995
 

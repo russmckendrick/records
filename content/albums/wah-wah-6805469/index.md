@@ -1,14 +1,17 @@
 ---
 title: "James - Wah Wah"
-album_artist: "James"
-album_title: "Wah Wah"
+artist: "James"
+album_name: "Wah Wah"
 date: 2018-06-13
 release_id: "6805469"
 slug: "wah-wah-6805469"
+hideSummary: true
 cover:
     image: "wah-wah-6805469.jpg"
-tags: ["Electronic", "Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Wah Wah by James"
+    caption: "Wah Wah by James"
+genres: ["Electronic", "Rock", "Folk, World, & Country"]
+styles: ["Ambient", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,16 +39,17 @@ hideSummary: true
 22. Laughter
 23. Sayonara
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [James - Wah Wah](https://www.discogs.com/release/6805469) |
+| Release Year   | 2015 |
+| Discogs Link   | [James - Wah Wah](https://www.discogs.com/release/6805469-James-Wah-Wah) |
 | Label          | Fontana, Mercury, Universal UMC |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 0602547096432 |
+
+Including voucher to download MP3 version of the album.
 

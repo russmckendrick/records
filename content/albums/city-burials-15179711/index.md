@@ -1,14 +1,17 @@
 ---
 title: "Katatonia - City Burials"
-album_artist: "Katatonia"
-album_title: "City Burials"
+artist: "Katatonia"
+album_name: "City Burials"
 date: 2020-05-02
 release_id: "15179711"
 slug: "city-burials-15179711"
+hideSummary: true
 cover:
     image: "city-burials-15179711.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "City Burials by Katatonia"
+    caption: "City Burials by Katatonia"
+genres: ["Rock"]
+styles: ["Prog Rock", "Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Katatonia - The Winter of our Passing (from City Burials)](https://www.youtube.com/watch?v=mnWkTAB-ceg)
 - [Katatonia - Lacquer (from City Burials)](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Katatonia - City Burials](https://www.discogs.com/release/15179711) |
+| Release Year   | 2020 |
+| Discogs Link   | [Katatonia - City Burials](https://www.discogs.com/release/15179711-Katatonia-City-Burials) |
 | Label          | Peaceville |
 | Format         | LP, Cle + LP, S/Sided, Etch, Cle + Album |
 | Catalog Number | VILELP860 |
+
+Gatefold. Limited edition of 1500 copies. Closing Of The Sky is a bonus track for this release.
 

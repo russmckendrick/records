@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Some Great Reward"
-album_artist: "Depeche Mode"
-album_title: "Some Great Reward"
+artist: "Depeche Mode"
+album_name: "Some Great Reward"
 date: 2017-02-15
 release_id: "8953147"
 slug: "some-great-reward-8953147"
+hideSummary: true
 cover:
     image: "some-great-reward-8953147.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Some Great Reward by Depeche Mode"
+    caption: "Some Great Reward by Depeche Mode"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Depeche Mode - People Are People (Official Video)](https://www.youtube.com/watch?v=MzGnX-MbYE4)
 - [Lie to Me (2006 Remaster)](https://www.youtube.com/watch?v=xbuRtMUc6tM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Depeche Mode - Some Great Reward](https://www.discogs.com/release/8953147) |
+| Release Year   | 2016 |
+| Discogs Link   | [Depeche Mode - Some Great Reward](https://www.discogs.com/release/8953147-Depeche-Mode-Some-Great-Reward) |
 | Label          | Legacy, Sony Music, Mute, Legacy, Sony Music, Mute |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | STUMM19, 88985330011 |
+
+Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd. Recorded at Music Works, London and Hansa Mischraum, Berlin. Mixed at Hansa Mischraum, Berlin.  Remastered at Super Audio Mastering. Cut at The Exchange.  ℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH
 

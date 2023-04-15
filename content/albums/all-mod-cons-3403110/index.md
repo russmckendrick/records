@@ -1,14 +1,17 @@
 ---
 title: "The Jam - All Mod Cons"
-album_artist: "The Jam"
-album_title: "All Mod Cons"
+artist: "The Jam"
+album_name: "All Mod Cons"
 date: 2015-09-16
 release_id: "3403110"
 slug: "all-mod-cons-3403110"
+hideSummary: true
 cover:
     image: "all-mod-cons-3403110.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "All Mod Cons by The Jam"
+    caption: "All Mod Cons by The Jam"
+genres: ["Rock"]
+styles: ["New Wave", "Mod"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - ['A' Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)
 - [Down In The Tube Station At Midnight (Full Version)](https://www.youtube.com/watch?v=rKcc_I9NXvM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [The Jam - All Mod Cons](https://www.discogs.com/release/3403110) |
+| Release Year   | 1978 |
+| Discogs Link   | [The Jam - All Mod Cons](https://www.discogs.com/release/3403110-The-Jam-All-Mod-Cons) |
 | Label          | Polydor, Polydor |
 | Format         | LP, Album, Str |
 | Catalog Number | POLD 5008, 2442 155 |
+
+First edition with custom colour labels and picture inner sleeve with cat # front upper right (a similar edition of [r=398719] exists without cat # on the inner).  Runouts are stamped except "STRAWBERRY", which is etched.  Track A5 is not listed on the cover.  Recorded at RAK (Upper London) and Eden Studios. Thanks to Nick, Alan, Dave and Roadies and Southend Kids for conversation  POLYDOR DELUXE POLD 5008 (2442 155) A1 to B3, B5, B6 And Son Mus. Ltd. B4 Davray Mus. Ltd. (Carlin)  This sound recording was made by Polydor Ltd. First published in the United Kingdom in 1978. Record manufactured and distributed by Polydor Ltd. ℗ 1978 Polydor Ltd © 1978 Polydor Ltd
 

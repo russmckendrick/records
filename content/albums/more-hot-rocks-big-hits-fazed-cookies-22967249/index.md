@@ -1,14 +1,17 @@
 ---
 title: "The Rolling Stones - More Hot Rocks (Big Hits & Fazed Cookies)"
-album_artist: "The Rolling Stones"
-album_title: "More Hot Rocks (Big Hits & Fazed Cookies)"
+artist: "The Rolling Stones"
+album_name: "More Hot Rocks (Big Hits & Fazed Cookies)"
 date: 2022-05-17
 release_id: "22967249"
 slug: "more-hot-rocks-big-hits-fazed-cookies-22967249"
+hideSummary: true
 cover:
     image: "more-hot-rocks-big-hits-fazed-cookies-22967249.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "More Hot Rocks (Big Hits & Fazed Cookies) by The Rolling Stones"
+    caption: "More Hot Rocks (Big Hits & Fazed Cookies) by The Rolling Stones"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -38,16 +41,17 @@ hideSummary: true
 24. I Can't Be Satisfied (3:24)
 25. Long Long While (3:14)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Rolling Stones - More Hot Rocks (Big Hits & Fazed Cookies)](https://www.discogs.com/release/22967249) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Rolling Stones - More Hot Rocks (Big Hits & Fazed Cookies)](https://www.discogs.com/release/22967249-Rolling-Stones-More-Hot-Rocks-Big-Hits-Fazed-Cookies) |
 | Label          | ABKCO, London Records |
 | Format         | 2xLP, RSD, Comp, Ltd, RE, Glo |
 | Catalog Number | 2058-1 |
+
+OBI strip Exclusive Limited Edition 2 x 180 Gram Glow in the Dark Vinyl Litographs on Archivial Paper Original Gatefold Art  Limited to 7200 copies  Record Store Day 2022 Release  ℗ 2016-2020 © 1987 [l282302]  Runouts are stamped, except for "#2058-1" on sides A, B,C and "7120601-D-RE1SELECTION #2058-1 RECORD # 2PS - 62617" on side D which are all etched.
 

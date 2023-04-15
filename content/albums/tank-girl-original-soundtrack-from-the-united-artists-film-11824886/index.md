@@ -1,14 +1,17 @@
 ---
 title: "Various - Tank Girl - Original Soundtrack From The United Artists Film"
-album_artist: "Various"
-album_title: "Tank Girl - Original Soundtrack From The United Artists Film"
+artist: "Various"
+album_name: "Tank Girl - Original Soundtrack From The United Artists Film"
 date: 2018-04-10
 release_id: "11824886"
 slug: "tank-girl-original-soundtrack-from-the-united-artists-film-11824886"
+hideSummary: true
 cover:
     image: "tank-girl-original-soundtrack-from-the-united-artists-film-11824886.jpg"
-tags: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Tank Girl - Original Soundtrack From The United Artists Film by Various"
+    caption: "Tank Girl - Original Soundtrack From The United Artists Film by Various"
+genres: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
+styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
 - [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - Tank Girl - Original Soundtrack From The United Artists Film](https://www.discogs.com/release/11824886) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - Tank Girl - Original Soundtrack From The United Artists Film](https://www.discogs.com/release/11824886-Various-Tank-Girl-Original-Soundtrack-From-The-United-Artists-Film) |
 | Label          | Real Gone Music, Elektra |
 | Format         | LP, Comp, Ltd, Aqu |
 | Catalog Number | RGM 0679 |
+
+Limited Gatefold Album Version Aqua Blue Vinyl Limited To 1000 Copies
 

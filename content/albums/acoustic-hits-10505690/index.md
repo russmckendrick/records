@@ -1,14 +1,17 @@
 ---
 title: "The Cure - Acoustic Hits"
-album_artist: "The Cure"
-album_title: "Acoustic Hits"
+artist: "The Cure"
+album_name: "Acoustic Hits"
 date: 2017-06-30
 release_id: "10505690"
 slug: "acoustic-hits-10505690"
+hideSummary: true
 cover:
     image: "acoustic-hits-10505690.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Acoustic Hits by The Cure"
+    caption: "Acoustic Hits by The Cure"
+genres: ["Rock"]
+styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ---
 
 ## Tracklisting
@@ -31,16 +34,17 @@ hideSummary: true
 17. Cut Here
 18. Just Say Yes
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Cure - Acoustic Hits](https://www.discogs.com/release/10505690) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Cure - Acoustic Hits](https://www.discogs.com/release/10505690-The-Cure-Acoustic-Hits) |
 | Label          | Fiction Records, Polydor |
 | Format         | 2xLP, Album, RE, RP, 180 |
 | Catalog Number | 572 634-0 |
+
+Black vinyl repress of the [picture disc](https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635) (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940]
 

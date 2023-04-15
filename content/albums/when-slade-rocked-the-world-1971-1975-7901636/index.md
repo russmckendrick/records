@@ -1,14 +1,17 @@
 ---
 title: "Slade - When Slade Rocked The World 1971-1975"
-album_artist: "Slade"
-album_title: "When Slade Rocked The World 1971-1975"
+artist: "Slade"
+album_name: "When Slade Rocked The World 1971-1975"
 date: 2016-07-13
 release_id: "7901636"
 slug: "when-slade-rocked-the-world-1971-1975-7901636"
+hideSummary: true
 cover:
     image: "when-slade-rocked-the-world-1971-1975-7901636.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "When Slade Rocked The World 1971-1975 by Slade"
+    caption: "When Slade Rocked The World 1971-1975 by Slade"
+genres: ["Rock"]
+styles: ["Classic Rock", "Glam"]
 ---
 
 ## Tracklisting
@@ -117,16 +120,17 @@ hideSummary: true
 103. Heaven Knows
 104. Standin’ On The Corner
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Slade - When Slade Rocked The World 1971-1975](https://www.discogs.com/release/7901636) |
+| Release Year   | 2015 |
+| Discogs Link   | [Slade - When Slade Rocked The World 1971-1975](https://www.discogs.com/release/7901636-Slade-When-Slade-Rocked-The-World-1971-1975) |
 | Label          | Salvo |
 | Format         | Box, Comp, Ltd, Num + LP, Album, RE, RM, Bro + LP, |
 | Catalog Number | SALVOBX412 |
+
+This Box-Set includes: The remastered reissues of [m=33006], [m=33002], [m=155203] and [m=33037] housed in their original sleeves, pressed on 180 gram coloured vinyl. 4 x double sided picture sleeve singles covering the key hits released outside of those albums:  - Coz I Love You / Look Wot You Dun  - Take Me Bak ‘Ome / Cum On Feel The Noize - Skweeze Me Pleeze Me / Merry Xmas Everybody - The Bangin’ Man / Thanks For The Memory A reproduction of original flexidisc [r=1855017] 2 CD anthology of the audio on the 4 vinyl LPs 10’’ annual style hardback book featuring reviews, features and memorabilia from each of the key years along with an introduction by Mark Ellen Reproduction of George Tremlett’s excellent 1975 book The Slade Story including period interviews with all four band members and a chronology of tour and release dates up to the time of its publication.  nb: LP 4 (Slade In Flame) has the title on the record labels as "Original Soundtrack From The Film Flame".  	 
 

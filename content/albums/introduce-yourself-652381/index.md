@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - Introduce Yourself"
-album_artist: "Faith No More"
-album_title: "Introduce Yourself"
+artist: "Faith No More"
+album_name: "Introduce Yourself"
 date: 2015-08-09
 release_id: "652381"
 slug: "introduce-yourself-652381"
+hideSummary: true
 cover:
     image: "introduce-yourself-652381.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Introduce Yourself by Faith No More"
+    caption: "Introduce Yourself by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)
 - [Spirit](https://www.youtube.com/watch?v=oFPjpDmDq-U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Faith No More - Introduce Yourself](https://www.discogs.com/release/652381) |
+| Release Year   | 1987 |
+| Discogs Link   | [Faith No More - Introduce Yourself](https://www.discogs.com/release/652381-Faith-No-More-Introduce-Yourself) |
 | Label          | Slash, Slash |
 | Format         | LP, Album |
 | Catalog Number | 25559-1, 1-25559 |
+
+This version was pressed at Allied Record Company and is otherwise identical to the version [made at Specialty Records Corporation](http://www.discogs.com/release/4354696).  Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.  Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA.  Mixed at Studio D, Sausalito, CA.  © 1987 Slash Records ℗ 1987 Slash Records. Distributed by Warner Bros. Records, Inc. Made in USA.  Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area.
 

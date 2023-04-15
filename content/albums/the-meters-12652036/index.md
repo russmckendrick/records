@@ -1,14 +1,17 @@
 ---
 title: "The Meters - The Meters"
-album_artist: "The Meters"
-album_title: "The Meters"
+artist: "The Meters"
+album_name: "The Meters"
 date: 2023-02-20
 release_id: "12652036"
 slug: "the-meters-12652036"
+hideSummary: true
 cover:
     image: "the-meters-12652036.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Meters by The Meters"
+    caption: "The Meters by The Meters"
+genres: ["Funk / Soul"]
+styles: ["Bayou Funk"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [The Meters - Stormy](https://www.youtube.com/watch?v=i-ShsT4aKHU)
 - [Sing a Simple Song](https://www.youtube.com/watch?v=7VT9MTLEDWw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Meters - The Meters](https://www.discogs.com/release/12652036) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Meters - The Meters](https://www.discogs.com/release/12652036-The-Meters-The-Meters) |
 | Label          | Music On Vinyl, Josie |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP2195 |
+
+Tracks A1 to B4 published by Marsaint Music BMI.  B5 published by LowSal Music BMI. B6 published by Daly City Music BMI.   Josie Records/Nationally distributed by Jay-Gee Record Co., Inc.  A subsidiary of Jubilee Industries, Inc. 1790 Broadway, N.Y., N.Y. 10019   Originally released ℗ & © 1970 Josie Records.  Manufactured & distributed by Music On Vinyl B.V. 2018, under exclusive license from Warner Music Benelux B.V:, a Warner Music Group Company.   Comes with plastic protective LP outer sleeve with sticker "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com" and black paper anti-static inner sleeve. 
 

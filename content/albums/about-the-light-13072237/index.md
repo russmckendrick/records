@@ -1,14 +1,17 @@
 ---
 title: "Steve Mason (2) - About The Light"
-album_artist: "Steve Mason (2)"
-album_title: "About The Light"
+artist: "Steve Mason (2)"
+album_name: "About The Light"
 date: 2019-01-19
 release_id: "13072237"
 slug: "about-the-light-13072237"
+hideSummary: true
 cover:
     image: "about-the-light-13072237.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "About The Light by Steve Mason (2)"
+    caption: "About The Light by Steve Mason (2)"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Stars Around My Heart](https://www.youtube.com/watch?v=KLxAlOobhf4)
 - [Walking Away from Love](https://www.youtube.com/watch?v=9SfZEou56sU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Steve Mason (2) - About The Light](https://www.discogs.com/release/13072237) |
+| Release Year   | 2019 |
+| Discogs Link   | [Steve Mason (2) - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-About-The-Light) |
 | Label          | Double Six (2), Double Six (2) |
 | Format         | LP, Album, Ltd, Sil |
 | Catalog Number | DS121LP, DS121LPX |
+
+Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed.
 

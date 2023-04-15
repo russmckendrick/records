@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - Rule The World"
-album_artist: "Tears For Fears"
-album_title: "Rule The World"
+artist: "Tears For Fears"
+album_name: "Rule The World"
 date: 2017-12-02
 release_id: "11224816"
 slug: "rule-the-world-11224816"
+hideSummary: true
 cover:
     image: "rule-the-world-11224816.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Rule The World by Tears For Fears"
+    caption: "Rule The World by Tears For Fears"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 {{< youtube id="8RxlpQTgqO4" title="Tears For Fears - I Love You But I'm Lost" >}}
 - [Head Over Heels](https://www.youtube.com/watch?v=726IPv--fko)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tears For Fears - Rule The World](https://www.discogs.com/release/11224816) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tears For Fears - Rule The World](https://www.discogs.com/release/11224816-Tears-For-Fears-Rule-The-World) |
 | Label          | Virgin EMI Records, Virgin EMI Records |
 | Format         | 2xLP, Comp, Gat |
 | Catalog Number | V 3197, 00600753802885 |
+
+A Virgin EMI Records release; this compilation ℗ & © 2017 Mercury Records Ltd. Made in the E.U.  Tracks version: -Shout is 7" Edit -Change is Radio Edit -Pale Shelter is 2nd Version Single -Mothers Talk is U.S. Remix  Includes voucher for download of the digital album as WAV from redeem.thesoundofvinyl.com.  US release date: 1/12/2018
 

@@ -1,14 +1,17 @@
 ---
 title: "Badly Drawn Boy - Banana Skin Shoes"
-album_artist: "Badly Drawn Boy"
-album_title: "Banana Skin Shoes"
+artist: "Badly Drawn Boy"
+album_name: "Banana Skin Shoes"
 date: 2020-05-26
 release_id: "15351838"
 slug: "banana-skin-shoes-15351838"
+hideSummary: true
 cover:
     image: "banana-skin-shoes-15351838.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Banana Skin Shoes by Badly Drawn Boy"
+    caption: "Banana Skin Shoes by Badly Drawn Boy"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
 - [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838) |
+| Release Year   | 2020 |
+| Discogs Link   | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838-Badly-Drawn-Boy-Banana-Skin-Shoes) |
 | Label          | One Last Fruit |
 | Format         | 2xLP, Album, Ltd, Yel |
 | Catalog Number | OLF005LP |
+
+Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself.
 

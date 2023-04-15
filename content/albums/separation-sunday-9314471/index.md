@@ -1,14 +1,17 @@
 ---
 title: "The Hold Steady - Separation Sunday"
-album_artist: "The Hold Steady"
-album_title: "Separation Sunday"
+artist: "The Hold Steady"
+album_name: "Separation Sunday"
 date: 2017-04-17
 release_id: "9314471"
 slug: "separation-sunday-9314471"
+hideSummary: true
 cover:
     image: "separation-sunday-9314471.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Separation Sunday by The Hold Steady"
+    caption: "Separation Sunday by The Hold Steady"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Hornets! Hornets!](https://www.youtube.com/watch?v=zi9FCw5FK60)
 - [Multitude of Casualties](https://www.youtube.com/watch?v=Q9WQoOBrq_g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471-The-Hold-Steady-Separation-Sunday) |
 | Label          | Frenchkiss Records, Positive Jams |
 | Format         | LP, RE, RM, Whi |
 | Catalog Number | FKR087-1, none |
+
+Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records. 
 

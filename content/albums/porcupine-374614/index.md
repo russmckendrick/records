@@ -1,14 +1,17 @@
 ---
 title: "Echo & The Bunnymen - Porcupine"
-album_artist: "Echo & The Bunnymen"
-album_title: "Porcupine"
+artist: "Echo & The Bunnymen"
+album_name: "Porcupine"
 date: 2017-07-21
 release_id: "374614"
 slug: "porcupine-374614"
+hideSummary: true
 cover:
     image: "porcupine-374614.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Porcupine by Echo & The Bunnymen"
+    caption: "Porcupine by Echo & The Bunnymen"
+genres: ["Rock"]
+styles: ["New Wave", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
 - [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Echo & The Bunnymen - Porcupine](https://www.discogs.com/release/374614) |
+| Release Year   | 1983 |
+| Discogs Link   | [Echo & The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |
 | Label          | Korova, WEA |
 | Format         | LP, Album |
 | Catalog Number | KODE 6, 240027-1 |
+
+First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped.
 

@@ -1,14 +1,17 @@
 ---
 title: "Nine Inch Nails - Pretty Hate Machine"
-album_artist: "Nine Inch Nails"
-album_title: "Pretty Hate Machine"
+artist: "Nine Inch Nails"
+album_name: "Pretty Hate Machine"
 date: 2016-06-20
 release_id: "3004371"
 slug: "pretty-hate-machine-3004371"
+hideSummary: true
 cover:
     image: "pretty-hate-machine-3004371.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Pretty Hate Machine by Nine Inch Nails"
+    caption: "Pretty Hate Machine by Nine Inch Nails"
+genres: ["Electronic"]
+styles: ["Industrial", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [N̲ine I̲n̲ch N̲ails - Pretty Hate Machine (Full Album)](https://www.youtube.com/watch?v=9g5KTwlxt_Q)
 - [Sin (remastered) - Nine Inch Nails](https://www.youtube.com/watch?v=OJtro9VK4nQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Nine Inch Nails - Pretty Hate Machine](https://www.discogs.com/release/3004371) |
+| Release Year   | 2011 |
+| Discogs Link   | [Nine Inch Nails - Pretty Hate Machine](https://www.discogs.com/release/3004371-Nine-Inch-Nails-Pretty-Hate-Machine) |
 | Label          | UMe |
 | Format         | LP, Album, RE |
 | Catalog Number | B0015767-01 |
+
+Thank you: Bart Koster (The Right Track), Mike Shea, Michael S. Toorock, Roz Earls, Seb Shelton, Bryan Grant, Larry Bole, Alison Fryer, Michelle de Frasia, Gerry Gerrard, Martin Horne, Sioux Zimmerman, Paul Conelly, Ron Musarra, Steve Woolard, Mark Jowett and all at Nettwerk, Howie Klein, Preston Sullivan/Carlysle, Kevin Donoghue/Native, Frederic Walheer/Sub Rosa.  Kicking ass way beyond the call of duty. Ideas and sounds with all due respect. Clive Barker, Jane's Addiction, Prince, Public Enemy, This Mortal Coil, Success (Screaming Trees U.K.) Various Unknown Others.   ℗© 1989, 2011 AF Circle Fund, LLC, Under exclusive license to Universal Music Enterprises, A Division of UMG Recordings, Inc., 220 Colorado Ave., Santa Monica, CA 90404.  Distributed by Universal Music Distribution.  All rights reserved.  Release includes insert with lyrics.
 

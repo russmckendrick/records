@@ -1,14 +1,17 @@
 ---
 title: "Jonathan Wilson - Rare Birds"
-album_artist: "Jonathan Wilson"
-album_title: "Rare Birds"
+artist: "Jonathan Wilson"
+album_name: "Rare Birds"
 date: 2018-07-16
 release_id: "11632547"
 slug: "rare-birds-11632547"
+hideSummary: true
 cover:
     image: "rare-birds-11632547.jpg"
-tags: ["Electronic", "Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Rare Birds by Jonathan Wilson"
+    caption: "Rare Birds by Jonathan Wilson"
+genres: ["Electronic", "Rock", "Folk, World, & Country"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Jonathan Wilson - Miriam Montague [Official Audio]](https://www.youtube.com/watch?v=D18nBRG6hLw)
 - [Jonathan Wilson ~ Rare Birds LIVE @ The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Jonathan Wilson - Rare Birds](https://www.discogs.com/release/11632547) |
+| Release Year   | 2018 |
+| Discogs Link   | [Jonathan Wilson - Rare Birds](https://www.discogs.com/release/11632547-Jonathan-Wilson-Rare-Birds) |
 | Label          | Bella Union, Bella Union |
 | Format         | 2xLP, Album, Ltd, Gol |
 | Catalog Number | BELLA730VX, BELLA730V |
+
+Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.  First cat# on sticker, second on spine.  German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP. 
 

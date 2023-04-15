@@ -1,14 +1,17 @@
 ---
 title: "The Specials - Encore"
-album_artist: "The Specials"
-album_title: "Encore"
+artist: "The Specials"
+album_name: "Encore"
 date: 2019-02-01
 release_id: "13150462"
 slug: "encore-13150462"
+hideSummary: true
 cover:
     image: "encore-13150462.jpg"
-tags: ["Rock", "Reggae", "Funk / Soul"]
-hideSummary: true
+    alt: "Encore by The Specials"
+    caption: "Encore by The Specials"
+genres: ["Rock", "Reggae", "Funk / Soul"]
+styles: ["Ska", "New Wave"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Ghost Town (Live At Le Bataclan)](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
 - [All The Time In The World (Live At The Troxy)](https://www.youtube.com/watch?v=XLV6zYEDqGA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Specials - Encore](https://www.discogs.com/release/13150462) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Specials - Encore](https://www.discogs.com/release/13150462-The-Specials-Encore) |
 | Label          | Island Records, UMC |
 | Format         | LP, Album |
 | Catalog Number | 7721103, 00602577211034 |
+
+Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover
 

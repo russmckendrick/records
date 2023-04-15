@@ -1,14 +1,17 @@
 ---
 title: "Scott Walker - Boy Child - The Best Of 1967 - 1970"
-album_artist: "Scott Walker"
-album_title: "Boy Child - The Best Of 1967 - 1970"
+artist: "Scott Walker"
+album_name: "Boy Child - The Best Of 1967 - 1970"
 date: 2022-04-24
 release_id: "22965146"
 slug: "boy-child-the-best-of-1967-1970-22965146"
+hideSummary: true
 cover:
     image: "boy-child-the-best-of-1967-1970-22965146.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Boy Child - The Best Of 1967 - 1970 by Scott Walker"
+    caption: "Boy Child - The Best Of 1967 - 1970 by Scott Walker"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="14PSE0FJoUo" title="Scott Walker - Boy Child" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Scott Walker - Boy Child - The Best Of 1967 - 1970](https://www.discogs.com/release/22965146) |
+| Release Year   | 2022 |
+| Discogs Link   | [Scott Walker - Boy Child - The Best Of 1967 - 1970](https://www.discogs.com/release/22965146-Scott-Walker-Boy-Child-The-Best-Of-1967-1970) |
 | Label          | Fontana, UMC |
 | Format         | 2xLP, RSD, Comp, Ltd, RE, Whi |
 | Catalog Number | 389 083-9 |
+
+RSD 2022. Gatefold cover.
 

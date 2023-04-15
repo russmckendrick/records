@@ -1,14 +1,17 @@
 ---
 title: "Wire - 154"
-album_artist: "Wire"
-album_title: "154"
+artist: "Wire"
+album_name: "154"
 date: 2018-12-22
 release_id: "12173889"
 slug: "154-12173889"
+hideSummary: true
 cover:
     image: "154-12173889.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "154 by Wire"
+    caption: "154 by Wire"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Punk", "Experimental"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [WIRE let's panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
 - [Wire - Small Electric Piece](https://www.youtube.com/watch?v=bSEVrZ1DmlI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Wire - 154](https://www.discogs.com/release/12173889) |
+| Release Year   | 2018 |
+| Discogs Link   | [Wire - 154](https://www.discogs.com/release/12173889-Wire-154) |
 | Label          | Pinkflag |
 | Format         | LP, Album, RE |
 | Catalog Number | PF13LP |
+
+Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Printed inner sleeve with credits and lyrics.
 

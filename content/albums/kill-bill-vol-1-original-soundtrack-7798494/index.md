@@ -1,14 +1,17 @@
 ---
 title: "Various - Kill Bill Vol. 1 - Original Soundtrack"
-album_artist: "Various"
-album_title: "Kill Bill Vol. 1 - Original Soundtrack"
+artist: "Various"
+album_name: "Kill Bill Vol. 1 - Original Soundtrack"
 date: 2018-10-04
 release_id: "7798494"
 slug: "kill-bill-vol-1-original-soundtrack-7798494"
+hideSummary: true
 cover:
     image: "kill-bill-vol-1-original-soundtrack-7798494.jpg"
-tags: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
-hideSummary: true
+    alt: "Kill Bill Vol. 1 - Original Soundtrack by Various"
+    caption: "Kill Bill Vol. 1 - Original Soundtrack by Various"
+genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
+styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Kill Bill Vol. 1 [OST] #21 - Sword Swings](https://www.youtube.com/watch?v=n_N3rfaUyh8)
 - [Kill Bill Vol. 1 [OST] #22 - Axe Throws](https://www.youtube.com/watch?v=J9hVWeiwsfA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Various - Kill Bill Vol. 1 - Original Soundtrack](https://www.discogs.com/release/7798494) |
+| Release Year   | 2015 |
+| Discogs Link   | [Various - Kill Bill Vol. 1 - Original Soundtrack](https://www.discogs.com/release/7798494-Various-Kill-Bill-Vol-1-Original-Soundtrack) |
 | Label          | Maverick |
 | Format         | LP, Comp, RE, RP |
 | Catalog Number | 9362-48570-1 |
+
+Reissue/Repress of the 2003 original release [r441066].  If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge.  This 2015 release does not.  Apart from this, it looks identical.  Includes a two-sided sheet with lyrics and infos. 
 

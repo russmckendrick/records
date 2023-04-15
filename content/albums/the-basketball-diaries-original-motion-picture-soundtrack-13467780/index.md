@@ -1,14 +1,17 @@
 ---
 title: "Various - The Basketball Diaries (Original Motion Picture Soundtrack)"
-album_artist: "Various"
-album_title: "The Basketball Diaries (Original Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "The Basketball Diaries (Original Motion Picture Soundtrack)"
 date: 2019-04-24
 release_id: "13467780"
 slug: "the-basketball-diaries-original-motion-picture-soundtrack-13467780"
+hideSummary: true
 cover:
     image: "the-basketball-diaries-original-motion-picture-soundtrack-13467780.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "The Basketball Diaries (Original Motion Picture Soundtrack) by Various"
+    caption: "The Basketball Diaries (Original Motion Picture Soundtrack) by Various"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Flea - I've Been Down (River Phoenix Tribute)](https://www.youtube.com/watch?v=Ec2v9il6Qvs)
 - [Blind Dogs](https://www.youtube.com/watch?v=74oxX7LIssY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - The Basketball Diaries (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13467780) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - The Basketball Diaries (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13467780-Various-The-Basketball-Diaries-Original-Motion-Picture-Soundtrack) |
 | Label          | Real Gone Music, Island Records |
 | Format         | 2xLP, Comp, Ltd, RE, Ora |
 | Catalog Number | 0000879 |
+
+* Record Store Day 2019 Exclusive Release • Newly Created Gatefold Jacket • 2xLP Pressed on “Basketball Orange” Vinyl • First Vinyl Release of the Soundtrack • Record Store Day Exclusive • Limited to 2000 Copies!
 

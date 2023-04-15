@@ -1,14 +1,17 @@
 ---
 title: "Stevie Wonder - Innervisions"
-album_artist: "Stevie Wonder"
-album_title: "Innervisions"
+artist: "Stevie Wonder"
+album_name: "Innervisions"
 date: 2016-11-24
 release_id: "8093938"
 slug: "innervisions-8093938"
+hideSummary: true
 cover:
     image: "innervisions-8093938.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Innervisions by Stevie Wonder"
+    caption: "Innervisions by Stevie Wonder"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Don't You Worry 'Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
 - [He's Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Stevie Wonder - Innervisions](https://www.discogs.com/release/8093938) |
+| Release Year   | 0 |
+| Discogs Link   | [Stevie Wonder - Innervisions](https://www.discogs.com/release/8093938-Stevie-Wonder-Innervisions) |
 | Label          | Tamla Motown |
 | Format         | LP, Album, RE, RM, RP, 180 |
 | Catalog Number | 0050109032617 |
+
+Version without "www.gzvinyl.com" in runouts can be found here: [r14990914]  ℗ 1973 Motown Record Corporation © 1973 Motown Record Corporation, A Universal Music Company. Made in the EU.  Recorded at Record Plant, Los Angeles and Media Sound, Inc., New York  180 Gram Vinyl. Includes download code.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Beat (2) - I Just Can't Stop It"
-album_artist: "The Beat (2)"
-album_title: "I Just Can't Stop It"
+artist: "The Beat (2)"
+album_name: "I Just Can't Stop It"
 date: 2015-09-11
 release_id: "3723205"
 slug: "i-just-can-t-stop-it-3723205"
+hideSummary: true
 cover:
     image: "i-just-can-t-stop-it-3723205.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "I Just Can't Stop It by The Beat (2)"
+    caption: "I Just Can't Stop It by The Beat (2)"
+genres: ["Rock"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Twist & Crawl](https://www.youtube.com/watch?v=bgCPeW_ZglM)
 - [The English Beat - Two Swords - I Just Can't Stop It [1980]](https://www.youtube.com/watch?v=YRYwncfYzrQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [The Beat (2) - I Just Can't Stop It](https://www.discogs.com/release/3723205) |
+| Release Year   | 1980 |
+| Discogs Link   | [The Beat (2) - I Just Can't Stop It](https://www.discogs.com/release/3723205-The-English-Beat-I-Just-Cant-Stop-It) |
 | Label          | Sire |
 | Format         | LP, Album, Jac |
 | Catalog Number | SRK 6091 |
+
+Pressing variation of the original US release. "0" stamped & "JW" etched in runouts denotes a  [l314605]  Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.  Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.     
 

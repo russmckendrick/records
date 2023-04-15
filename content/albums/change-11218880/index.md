@@ -1,14 +1,17 @@
 ---
 title: "Cindy Wilson - Change"
-album_artist: "Cindy Wilson"
-album_title: "Change"
+artist: "Cindy Wilson"
+album_name: "Change"
 date: 2017-12-11
 release_id: "11218880"
 slug: "change-11218880"
+hideSummary: true
 cover:
     image: "change-11218880.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Change by Cindy Wilson"
+    caption: "Change by Cindy Wilson"
+genres: ["Electronic", "Pop"]
+styles: ["Deep Techno"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
 - [Cindy Wilson - Brother (from Change)](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Cindy Wilson - Change](https://www.discogs.com/release/11218880) |
+| Release Year   | 2017 |
+| Discogs Link   | [Cindy Wilson - Change](https://www.discogs.com/release/11218880-Cindy-Wilson-Change) |
 | Label          | Kill Rock Stars |
 | Format         | LP, Album |
 | Catalog Number | KRS642 |
+
+
 

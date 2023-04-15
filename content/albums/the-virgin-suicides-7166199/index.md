@@ -1,14 +1,17 @@
 ---
 title: "AIR - The Virgin Suicides"
-album_artist: "AIR"
-album_title: "The Virgin Suicides"
+artist: "AIR"
+album_name: "The Virgin Suicides"
 date: 2017-02-15
 release_id: "7166199"
 slug: "the-virgin-suicides-7166199"
+hideSummary: true
 cover:
     image: "the-virgin-suicides-7166199.jpg"
-tags: ["Electronic", "Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "The Virgin Suicides by AIR"
+    caption: "The Virgin Suicides by AIR"
+genres: ["Electronic", "Rock", "Stage & Screen"]
+styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 ---
 
 ## Tracklisting
@@ -84,13 +87,16 @@ hideSummary: true
 - [Air - Afternoon Sister (Official Audio)](https://www.youtube.com/watch?v=fMz77CUQKPw)
 - [The Virgin Suicides - Thème](https://www.youtube.com/watch?v=8-elWUT2Avg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [AIR - The Virgin Suicides](https://www.discogs.com/release/7166199) |
+| Release Year   | 2015 |
+| Discogs Link   | [AIR - The Virgin Suicides](https://www.discogs.com/release/7166199-AIR-The-Virgin-Suicides) |
 | Label          | Aircheology, Parlophone |
 | Format         | Box, Dlx, Ltd, 15t + LP, Album, RE, RM, Red + LP,  |
 | Catalog Number | 0825646152339 |
+
+15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.  This differs from [this version](http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513) as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English
 

@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - Three Snakes And One Charm"
-album_artist: "The Black Crowes"
-album_title: "Three Snakes And One Charm"
+artist: "The Black Crowes"
+album_name: "Three Snakes And One Charm"
 date: 2016-01-04
 release_id: "7836430"
 slug: "three-snakes-and-one-charm-7836430"
+hideSummary: true
 cover:
     image: "three-snakes-and-one-charm-7836430.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Three Snakes And One Charm by The Black Crowes"
+    caption: "Three Snakes And One Charm by The Black Crowes"
+genres: ["Rock"]
+styles: ["Southern Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [The Black Crowes – Good Friday](https://www.youtube.com/watch?v=zhErj13uccY)
 - [The Black Crowes – (Only) Halfway To Everywhere](https://www.youtube.com/watch?v=6qjTpiSUw18)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Black Crowes - Three Snakes And One Charm](https://www.discogs.com/release/7836430) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Black Crowes - Three Snakes And One Charm](https://www.discogs.com/release/7836430-The-Black-Crowes-Three-Snakes-And-One-Charm) |
 | Label          | American Recordings |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 00602537494262 |
+
+Widespine sleeve. Made in the EU. Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes)
 

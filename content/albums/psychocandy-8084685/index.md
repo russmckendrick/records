@@ -1,14 +1,17 @@
 ---
 title: "The Jesus And Mary Chain - Psychocandy"
-album_artist: "The Jesus And Mary Chain"
-album_title: "Psychocandy"
+artist: "The Jesus And Mary Chain"
+album_name: "Psychocandy"
 date: 2020-08-01
 release_id: "8084685"
 slug: "psychocandy-8084685"
+hideSummary: true
 cover:
     image: "psychocandy-8084685.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Psychocandy by The Jesus And Mary Chain"
+    caption: "Psychocandy by The Jesus And Mary Chain"
+genres: ["Rock"]
+styles: ["Noise"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Something's Wrong](https://www.youtube.com/watch?v=UxlwSRNw8LA)
 - [It's So Hard](https://www.youtube.com/watch?v=UmdXQpwAzVQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [The Jesus And Mary Chain - Psychocandy](https://www.discogs.com/release/8084685) |
+| Release Year   | 1985 |
+| Discogs Link   | [The Jesus And Mary Chain - Psychocandy](https://www.discogs.com/release/8084685-The-Jesus-And-Mary-Chain-Psychocandy) |
 | Label          | Blanco Y Negro, Blanco Y Negro |
 | Format         | LP, Album |
 | Catalog Number | BYN 7, 240790-1 |
+
+German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN Label differences: three layers of rim text and flag.  Includes insert.
 

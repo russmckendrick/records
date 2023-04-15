@@ -1,14 +1,17 @@
 ---
 title: "Screaming Trees - Sweet Oblivion"
-album_artist: "Screaming Trees"
-album_title: "Sweet Oblivion"
+artist: "Screaming Trees"
+album_name: "Sweet Oblivion"
 date: 2017-10-05
 release_id: "10844547"
 slug: "sweet-oblivion-10844547"
+hideSummary: true
 cover:
     image: "sweet-oblivion-10844547.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sweet Oblivion by Screaming Trees"
+    caption: "Sweet Oblivion by Screaming Trees"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
 - [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Screaming Trees - Sweet Oblivion](https://www.discogs.com/release/10844547) |
+| Release Year   | 2017 |
+| Discogs Link   | [Screaming Trees - Sweet Oblivion](https://www.discogs.com/release/10844547-Screaming-Trees-Sweet-Oblivion) |
 | Label          | Music On Vinyl, Epic |
 | Format         | LP, Album, Ltd, Num, RE, RP, Ora |
 | Catalog Number | MOVLP101, 88697745521 |
+
+"25th Anniversary Edition Limited Edition of 1.500 Copies on Flaming Vinyl Individually Numbered 180 gram audiophile vinyl"  A6 is a bonus track. Includes printed insert with credits.
 

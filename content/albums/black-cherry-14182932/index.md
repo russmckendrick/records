@@ -1,14 +1,17 @@
 ---
 title: "Goldfrapp - Black Cherry"
-album_artist: "Goldfrapp"
-album_title: "Black Cherry"
+artist: "Goldfrapp"
+album_name: "Black Cherry"
 date: 2021-04-01
 release_id: "14182932"
 slug: "black-cherry-14182932"
+hideSummary: true
 cover:
     image: "black-cherry-14182932.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Black Cherry by Goldfrapp"
+    caption: "Black Cherry by Goldfrapp"
+genres: ["Electronic"]
+styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
 - [Goldfrapp - Black Cherry (Lyric Video)](https://www.youtube.com/watch?v=vnN342N6NQw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Goldfrapp - Black Cherry](https://www.discogs.com/release/14182932) |
+| Release Year   | 2019 |
+| Discogs Link   | [Goldfrapp - Black Cherry](https://www.discogs.com/release/14182932-Goldfrapp-Black-Cherry) |
 | Label          | Mute, BMG |
 | Format         | LP, Album, Ltd, RE, S/Edition, Pur |
 | Catalog Number | Stumm196, 0724358319910 |
+
+Includes exclusive art print.  Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.  ℗ & © 2003 Mute Records Ltd., a BMG company. Manufactured in the EU.
 

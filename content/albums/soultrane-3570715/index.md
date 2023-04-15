@@ -1,14 +1,17 @@
 ---
 title: "John Coltrane - Soultrane"
-album_artist: "John Coltrane"
-album_title: "Soultrane"
+artist: "John Coltrane"
+album_name: "Soultrane"
 date: 2017-01-05
 release_id: "3570715"
 slug: "soultrane-3570715"
+hideSummary: true
 cover:
     image: "soultrane-3570715.jpg"
-tags: ["Jazz"]
-hideSummary: true
+    alt: "Soultrane by John Coltrane"
+    caption: "Soultrane by John Coltrane"
+genres: ["Jazz"]
+styles: null
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 - [I Want To Talk About You](https://www.youtube.com/watch?v=osUFSIugxx8)
 - [Theme For Ernie](https://www.youtube.com/watch?v=OGzrwu7uTCo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [John Coltrane - Soultrane](https://www.discogs.com/release/3570715) |
+| Release Year   | 2010 |
+| Discogs Link   | [John Coltrane - Soultrane](https://www.discogs.com/release/3570715-John-Coltrane-Soultrane) |
 | Label          | Jazz Wax Records, Jazz Wax Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | JWR 4536, JWR4536 |
+
+Includes bonus track (B4) Direct Metal Mastering. Panoramic Hifi Recording.  Runouts are stamped Cat# is JWR4536 on labels and JWR 4536 on spine  Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location)
 

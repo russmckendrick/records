@@ -1,14 +1,17 @@
 ---
 title: "Violent Femmes - Permanent Record: The Very Best Of Violent Femmes"
-album_artist: "Violent Femmes"
-album_title: "Permanent Record: The Very Best Of Violent Femmes"
+artist: "Violent Femmes"
+album_name: "Permanent Record: The Very Best Of Violent Femmes"
 date: 2018-12-17
 release_id: "12833932"
 slug: "permanent-record-the-very-best-of-violent-femmes-12833932"
+hideSummary: true
 cover:
     image: "permanent-record-the-very-best-of-violent-femmes-12833932.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Permanent Record: The Very Best Of Violent Femmes by Violent Femmes"
+    caption: "Permanent Record: The Very Best Of Violent Femmes by Violent Femmes"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,16 +33,17 @@ hideSummary: true
 16. Freak Magnet
 17. Good Feeling (Live At Rhino)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Violent Femmes - Permanent Record: The Very Best Of Violent Femmes](https://www.discogs.com/release/12833932) |
+| Release Year   | 2018 |
+| Discogs Link   | [Violent Femmes - Permanent Record: The Very Best Of Violent Femmes](https://www.discogs.com/release/12833932-Violent-Femmes-Permanent-Record-The-Very-Best-Of-Violent-Femmes) |
 | Label          | Craft Recordings |
 | Format         | 2xLP, RSD, Comp, RE, RM, Cok |
 | Catalog Number | CR00140 |
+
+ RSD Black Friday limited to 2500 copies, indie-retail exclusive. Gatefold sleeve. Printed inner sleeves.  Good Feeling (Live at Rhino) recorded live at Rhino, Los Angeles, CA, June 14, 2002.     ℗ & © 2005 Craft Recordings Made in U.S.A.
 

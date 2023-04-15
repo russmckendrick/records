@@ -1,14 +1,17 @@
 ---
 title: "Pixies - Indie Cindy"
-album_artist: "Pixies"
-album_title: "Indie Cindy"
+artist: "Pixies"
+album_name: "Indie Cindy"
 date: 2015-08-09
 release_id: "5610537"
 slug: "indie-cindy-5610537"
+hideSummary: true
 cover:
     image: "indie-cindy-5610537.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Indie Cindy by Pixies"
+    caption: "Indie Cindy by Pixies"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [PIXIES - Andro Queen (Official Video)](https://www.youtube.com/watch?v=10lyWR25_nQ)
 - [Jaime Bravo](https://www.youtube.com/watch?v=yC_txTwYLQQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Pixies - Indie Cindy](https://www.discogs.com/release/5610537) |
+| Release Year   | 2014 |
+| Discogs Link   | [Pixies - Indie Cindy](https://www.discogs.com/release/5610537-Pixies-Indie-Cindy) |
 | Label          | Pixies Music, Pixies Music |
 | Format         | 2x12\", Album, Ora + CD, Album + Ltd |
 | Catalog Number | PM006DLP, PM006DLPF |
+
+[url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.  Recorded at Rockfield Studios, Wales. Mixed for 140dB. Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.  ℗ & © Pixies Music 2013  Made in the EU  Catalog# on rear cover and spine: PM006DLP Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release.
 

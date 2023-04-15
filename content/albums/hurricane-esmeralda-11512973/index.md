@@ -1,14 +1,17 @@
 ---
 title: "Moonparticle - Hurricane Esmeralda"
-album_artist: "Moonparticle"
-album_title: "Hurricane Esmeralda"
+artist: "Moonparticle"
+album_name: "Hurricane Esmeralda"
 date: 2018-02-07
 release_id: "11512973"
 slug: "hurricane-esmeralda-11512973"
+hideSummary: true
 cover:
     image: "hurricane-esmeralda-11512973.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hurricane Esmeralda by Moonparticle"
+    caption: "Hurricane Esmeralda by Moonparticle"
+genres: ["Rock"]
+styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="ueh4etEh_Zg" title="MOONPARTICLE  - Michelangelo Don't Stop (2018)." >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Moonparticle - Hurricane Esmeralda](https://www.discogs.com/release/11512973) |
+| Release Year   | 2017 |
+| Discogs Link   | [Moonparticle - Hurricane Esmeralda](https://www.discogs.com/release/11512973-Moonparticle-Hurricane-Esmeralda) |
 | Label          | Plane Groovy |
 | Format         | LP, Album, Ltd |
 | Catalog Number | PLG063 |
+
+Limited edition of 300 copies.
 

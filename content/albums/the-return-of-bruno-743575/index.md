@@ -1,14 +1,17 @@
 ---
 title: "Bruce Willis - The Return Of Bruno"
-album_artist: "Bruce Willis"
-album_title: "The Return Of Bruno"
+artist: "Bruce Willis"
+album_name: "The Return Of Bruno"
 date: 2015-10-05
 release_id: "743575"
 slug: "the-return-of-bruno-743575"
+hideSummary: true
 cover:
     image: "the-return-of-bruno-743575.jpg"
-tags: ["Rock", "Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "The Return Of Bruno by Bruce Willis"
+    caption: "The Return Of Bruno by Bruce Willis"
+genres: ["Rock", "Funk / Soul", "Blues"]
+styles: ["Blues Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Bruce Willis Respecting Himself - VHS Files 02](https://www.youtube.com/watch?v=ni90iL81wTQ)
 - [Bruce Willis Respect Yourself (1987)](https://www.youtube.com/watch?v=a3vMKSA0OKc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Bruce Willis - The Return Of Bruno](https://www.discogs.com/release/743575) |
+| Release Year   | 1987 |
+| Discogs Link   | [Bruce Willis - The Return Of Bruno](https://www.discogs.com/release/743575-Bruce-Willis-The-Return-Of-Bruno) |
 | Label          | Motown, Motown |
 | Format         | LP, Album |
 | Catalog Number | ZL 72571, ZL72571 |
+
+Motown Record Corp, An Overboard Production. Inner sleeve with lyrics and photo. ℗ + © 1987 Motown Record Corporation Made from masters of Motown Record Corporation Label: "MANUFACTURED IN W. GERMANY" Sleeve: "Printed in Germany"  Runouts are stamped.
 

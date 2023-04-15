@@ -1,14 +1,17 @@
 ---
 title: "Prince - Dirty Mind"
-album_artist: "Prince"
-album_title: "Dirty Mind"
+artist: "Prince"
+album_name: "Dirty Mind"
 date: 2016-10-23
 release_id: "5030969"
 slug: "dirty-mind-5030969"
+hideSummary: true
 cover:
     image: "dirty-mind-5030969.jpg"
-tags: ["Electronic", "Funk / Soul"]
-hideSummary: true
+    alt: "Dirty Mind by Prince"
+    caption: "Dirty Mind by Prince"
+genres: ["Electronic", "Funk / Soul"]
+styles: ["Disco", "Soul", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Gotta Broken Heart Again](https://www.youtube.com/watch?v=7Xgx5WpMp98)
 - [When You Were Mine](https://www.youtube.com/watch?v=sXS2KdNzMDk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Prince - Dirty Mind](https://www.discogs.com/release/5030969) |
+| Release Year   | 2011 |
+| Discogs Link   | [Prince - Dirty Mind](https://www.discogs.com/release/5030969-Prince-Dirty-Mind) |
 | Label          | Warner Bros. Records, Rhino Records (2) |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122-79777-7 |
+
+Recorded somewhere in Uptown. Re-mixed at Hollywood Sound Recorders, Hollywood, Calif.  Mastered at Bernie Grundman Mastering from the Original Tapes  Mastered at A&M Records. Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  The runouts read the release was plated at RTI and pressed by Optimal. A similar [US version](https://www.discogs.com/Prince-Dirty-Mind/release/2908664) exists.
 

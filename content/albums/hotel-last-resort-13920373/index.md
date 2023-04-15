@@ -1,14 +1,17 @@
 ---
 title: "Violent Femmes - Hotel Last Resort"
-album_artist: "Violent Femmes"
-album_title: "Hotel Last Resort"
+artist: "Violent Femmes"
+album_name: "Hotel Last Resort"
 date: 2019-08-30
 release_id: "13920373"
 slug: "hotel-last-resort-13920373"
+hideSummary: true
 cover:
     image: "hotel-last-resort-13920373.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hotel Last Resort by Violent Femmes"
+    caption: "Hotel Last Resort by Violent Femmes"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 {{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort (Official Lyric Video)" >}}
 - [Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)](https://www.youtube.com/watch?v=P3XxSZNFpcQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Violent Femmes - Hotel Last Resort](https://www.discogs.com/release/13920373) |
+| Release Year   | 2019 |
+| Discogs Link   | [Violent Femmes - Hotel Last Resort](https://www.discogs.com/release/13920373-Violent-Femmes-Hotel-Last-Resort) |
 | Label          | Add It Up Productions, [pias] |
 | Format         | LP, Album |
 | Catalog Number | PIASR1100LP |
+
+Includes printed insert containing credits. Comes with a download card. Downloads by 45RPM - Powered by dropscards.  Runouts are etched.
 

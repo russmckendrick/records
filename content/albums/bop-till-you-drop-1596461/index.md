@@ -1,14 +1,17 @@
 ---
 title: "Ry Cooder - Bop Till You Drop"
-album_artist: "Ry Cooder"
-album_title: "Bop Till You Drop"
+artist: "Ry Cooder"
+album_name: "Bop Till You Drop"
 date: 2020-08-02
 release_id: "1596461"
 slug: "bop-till-you-drop-1596461"
+hideSummary: true
 cover:
     image: "bop-till-you-drop-1596461.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bop Till You Drop by Ry Cooder"
+    caption: "Bop Till You Drop by Ry Cooder"
+genres: ["Rock"]
+styles: ["Blues Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Don't Mess up a Good Thing](https://www.youtube.com/watch?v=zVss8tMwcpg)
 - [I Think Its Going to Work out Fine](https://www.youtube.com/watch?v=MVEMQ_SCc6w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1979 |
-| Discogs Link   | [Ry Cooder - Bop Till You Drop](https://www.discogs.com/release/1596461) |
+| Release Year   | 1979 |
+| Discogs Link   | [Ry Cooder - Bop Till You Drop](https://www.discogs.com/release/1596461-Ry-Cooder-Bop-Till-You-Drop) |
 | Label          | Warner Bros. Records, Warner Bros. Records, Warner Bros. Records |
 | Format         | LP, Album |
 | Catalog Number | K56691, K 56691, BSK 3358 |
+
+Cat.# K 56691 on rear cover and spine, K 56691 on the labels; additional US cat.# BSK 3358 on rear sleeve and on labels in parentheses.
 

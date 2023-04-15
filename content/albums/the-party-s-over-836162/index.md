@@ -1,14 +1,17 @@
 ---
 title: "Talk Talk - The Party's Over"
-album_artist: "Talk Talk"
-album_title: "The Party's Over"
+artist: "Talk Talk"
+album_name: "The Party's Over"
 date: 2016-10-14
 release_id: "836162"
 slug: "the-party-s-over-836162"
+hideSummary: true
 cover:
     image: "the-party-s-over-836162.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Party's Over by Talk Talk"
+    caption: "The Party's Over by Talk Talk"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
 - [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/836162) |
+| Release Year   | 1982 |
+| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/836162-Talk-Talk-The-Partys-Over) |
 | Label          | EMI, EMI |
 | Format         | LP, Album |
 | Catalog Number | EMC 3413, OC 062-07 646 |
+
+First issue, with textured outer sleeve. Includes a heavy paper printed inner sleeve with lyrics. Durations do not appear on release.  [Labels] ℗1982 Original sound recordings made by EMI Records Ltd. Island Music Ltd. Manufactured in the UK by EMI Records Limited.  [Insert] Vocals   Mark Hollis Drums   Lee Harris Bass   Paul Webb Keyboards   Simon Brenner Mixed By Mike Robinson  Cover Painting by James Marsh Design by Bill Smith  Lyrics reproduced by kind permission Island Music Publishing Ltd. © 1982  [Sleeve] EMC 3413 OC 062-07 646 Stereo Available on cassette ✽  ℗ 1982 Original sound recordings made by EMI Records Ltd.  EMI Records Ltd. Hayes - Middlesex - England. SP 8207 RS
 

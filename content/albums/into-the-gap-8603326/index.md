@@ -1,14 +1,17 @@
 ---
 title: "Thompson Twins - Into The Gap"
-album_artist: "Thompson Twins"
-album_title: "Into The Gap"
+artist: "Thompson Twins"
+album_name: "Into The Gap"
 date: 2017-01-08
 release_id: "8603326"
 slug: "into-the-gap-8603326"
+hideSummary: true
 cover:
     image: "into-the-gap-8603326.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Into The Gap by Thompson Twins"
+    caption: "Into The Gap by Thompson Twins"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Thompson Twins - Doctor! Doctor! (Video)](https://www.youtube.com/watch?v=APyl6Cnbfzw)
 - [Thompson Twins - You take me up  - TOTP  - 1984](https://www.youtube.com/watch?v=K7ssLvcmLQs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Thompson Twins - Into The Gap](https://www.discogs.com/release/8603326) |
+| Release Year   | 2016 |
+| Discogs Link   | [Thompson Twins - Into The Gap](https://www.discogs.com/release/8603326-Thompson-Twins-Into-The-Gap) |
 | Label          | Vinyl 180 |
 | Format         | LP, Album, RE, RM, Blu |
 | Catalog Number | VIN180LP103 |
+
+Recorded at Compass Point Studios, Nassau. Mixed at Rak Studios, London. Mastered at Sterling Sound, New York.  ℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management.  © 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.  Made in the EU.
 

@@ -1,14 +1,17 @@
 ---
 title: "Simple Minds - Once Upon A Time"
-album_artist: "Simple Minds"
-album_title: "Once Upon A Time"
+artist: "Simple Minds"
+album_name: "Once Upon A Time"
 date: 2016-03-06
 release_id: "7860558"
 slug: "once-upon-a-time-7860558"
+hideSummary: true
 cover:
     image: "once-upon-a-time-7860558.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Once Upon A Time by Simple Minds"
+    caption: "Once Upon A Time by Simple Minds"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Come A Long Way](https://www.youtube.com/watch?v=b0A9siJrokg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/7860558) |
+| Release Year   | 2015 |
+| Discogs Link   | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/7860558-Simple-Minds-Once-Upon-A-Time) |
 | Label          | Virgin |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 4722194 |
+
+180 Gram according to labels site: https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000  Made in EU.
 

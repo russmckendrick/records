@@ -1,14 +1,17 @@
 ---
 title: "The Specials - Protest Songs 1924-2012"
-album_artist: "The Specials"
-album_title: "Protest Songs 1924-2012"
+artist: "The Specials"
+album_name: "Protest Songs 1924-2012"
 date: 2021-10-06
 release_id: "20431642"
 slug: "protest-songs-1924-2012-20431642"
+hideSummary: true
 cover:
     image: "protest-songs-1924-2012-20431642.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Protest Songs 1924-2012 by The Specials"
+    caption: "Protest Songs 1924-2012 by The Specials"
+genres: ["Reggae"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Soldiers Who Want To Be Heroes](https://www.youtube.com/watch?v=ESFTCcVSq38)
 - [Get Up, Stand Up](https://www.youtube.com/watch?v=Y-PkqGC9eEg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Specials - Protest Songs 1924-2012](https://www.discogs.com/release/20431642) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Specials - Protest Songs 1924-2012](https://www.discogs.com/release/20431642-The-Specials-Protest-Songs-1924-2012) |
 | Label          | Island Records |
 | Format         | LP, Album, 180 |
 | Catalog Number | 3840701 |
+
+180 grams heavyweight black vinyl.  Includes 12 page booklet with lyrics, credits and download card.
 

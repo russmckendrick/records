@@ -1,14 +1,17 @@
 ---
 title: "Father John Misty - Pure Comedy"
-album_artist: "Father John Misty"
-album_title: "Pure Comedy"
+artist: "Father John Misty"
+album_name: "Pure Comedy"
 date: 2017-04-08
 release_id: "10089067"
 slug: "pure-comedy-10089067"
+hideSummary: true
 cover:
     image: "pure-comedy-10089067.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Pure Comedy by Father John Misty"
+    caption: "Pure Comedy by Father John Misty"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
 - [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Father John Misty - Pure Comedy](https://www.discogs.com/release/10089067) |
+| Release Year   | 2017 |
+| Discogs Link   | [Father John Misty - Pure Comedy](https://www.discogs.com/release/10089067-Father-John-Misty-Pure-Comedy) |
 | Label          | Bella Union |
 | Format         | 2xLP, Album, Dlx, Alu + 7\" + Ltd |
 | Catalog Number | BELLA628VX |
+
+Released in a die-cut customizable gatefold sleeve with 4 interactive “background” sleeves, with clear slipcase over. Includes a fold-out poster and an exclusive holographic tarot card by Ed Steed, and download code. Tracklisting, barcode and copyrights are printed on a large sticker affixed to the shrinkwrap. LP1 is aluminium, LP2 is copper.  Pre-orders and initial copies sold in stores came with this limited edition bonus 7".  Very special thanks to Gavin Bryars and Ed Steed.  Published by Cripple Creek Fairies (ASCAP) / Kobalt Music Publishing.  ℗ & © Bella Union & 2017 Under exclusive license to [PIAS]
 

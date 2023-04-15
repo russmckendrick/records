@@ -1,14 +1,17 @@
 ---
 title: "James - Gold Mother"
-album_artist: "James"
-album_title: "Gold Mother"
+artist: "James"
+album_name: "Gold Mother"
 date: 2017-12-16
 release_id: "11284851"
 slug: "gold-mother-11284851"
+hideSummary: true
 cover:
     image: "gold-mother-11284851.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Gold Mother by James"
+    caption: "Gold Mother by James"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [James: Hang On](https://www.youtube.com/watch?v=YCOD4BLwZU0)
 - [James: Government Walls](https://www.youtube.com/watch?v=p5s9O6qKLLs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [James - Gold Mother](https://www.discogs.com/release/11284851) |
+| Release Year   | 2017 |
+| Discogs Link   | [James - Gold Mother](https://www.discogs.com/release/11284851-James-Gold-Mother) |
 | Label          | Fontana |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 571 290-9 |
+
+
 

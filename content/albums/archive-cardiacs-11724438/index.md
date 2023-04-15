@@ -1,14 +1,17 @@
 ---
 title: "Cardiacs - Archive Cardiacs"
-album_artist: "Cardiacs"
-album_title: "Archive Cardiacs"
+artist: "Cardiacs"
+album_name: "Archive Cardiacs"
 date: 2018-03-18
 release_id: "11724438"
 slug: "archive-cardiacs-11724438"
+hideSummary: true
 cover:
     image: "archive-cardiacs-11724438.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Archive Cardiacs by Cardiacs"
+    caption: "Archive Cardiacs by Cardiacs"
+genres: ["Electronic", "Rock"]
+styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Icky Qualms](https://www.youtube.com/watch?v=E3XQqgfrfkc)
 - [Piffol One Time](https://www.youtube.com/watch?v=_L8Oa8xcr_o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Cardiacs - Archive Cardiacs](https://www.discogs.com/release/11724438) |
+| Release Year   | 2018 |
+| Discogs Link   | [Cardiacs - Archive Cardiacs](https://www.discogs.com/release/11724438-Cardiacs-Archive-Cardiacs) |
 | Label          | The Alphabet Business Concern |
 | Format         | LP, Album |
 | Catalog Number | ALPH LP 000 |
+
+A collection of recordings from the period 1977-79.  Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve.
 

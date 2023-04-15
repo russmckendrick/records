@@ -1,14 +1,17 @@
 ---
 title: "The James Hunter Six - Hold On!"
-album_artist: "The James Hunter Six"
-album_title: "Hold On!"
+artist: "The James Hunter Six"
+album_name: "Hold On!"
 date: 2016-02-08
 release_id: "8082430"
 slug: "hold-on-8082430"
+hideSummary: true
 cover:
     image: "hold-on-8082430.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Hold On! by The James Hunter Six"
+    caption: "Hold On! by The James Hunter Six"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [The James Hunter 6 'Sachelfoot' | Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
 - [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The James Hunter Six - Hold On!](https://www.discogs.com/release/8082430) |
+| Release Year   | 2016 |
+| Discogs Link   | [The James Hunter Six - Hold On!](https://www.discogs.com/release/8082430-The-James-Hunter-Six-Hold-On) |
 | Label          | Daptone Records, Daptone Records |
 | Format         | LP, Album, Mono |
 | Catalog Number | DAP-040, DAP - 040 |
+
+Mono (monaural) pressing. Includes download card. © 2016 DAPTONE RECORDS  Published by Stoketone Publishing, BMI.  Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.  Another Bosco Mann production.  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Sleeve notes: Sam Boncon, WHIT  Durations not listed on release.   Glossy cover with generic with inner sleeve  Hype sticker on shrink wrap
 

@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - Savage: Songs From A Broken World"
-album_artist: "Gary Numan"
-album_title: "Savage: Songs From A Broken World"
+artist: "Gary Numan"
+album_name: "Savage: Songs From A Broken World"
 date: 2017-09-15
 release_id: "10858288"
 slug: "savage-songs-from-a-broken-world-10858288"
+hideSummary: true
 cover:
     image: "savage-songs-from-a-broken-world-10858288.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Savage: Songs From A Broken World by Gary Numan"
+    caption: "Savage: Songs From A Broken World by Gary Numan"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Industrial"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Gary Numan - Broken (Official Audio)](https://www.youtube.com/watch?v=qzsvZpO1I_4)
 - [Gary Numan - If We Had Known (Official Audio)](https://www.youtube.com/watch?v=wwm34E2PTRs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Gary Numan - Savage: Songs From A Broken World](https://www.discogs.com/release/10858288) |
+| Release Year   | 2017 |
+| Discogs Link   | [Gary Numan - Savage: Songs From A Broken World](https://www.discogs.com/release/10858288-Gary-Numan-Savage-Songs-From-A-Broken-World) |
 | Label          | BMG |
 | Format         | 2xLP, Album |
 | Catalog Number | 538307451 |
+
+Gatefold Sleeve.  Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.  ℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited.
 

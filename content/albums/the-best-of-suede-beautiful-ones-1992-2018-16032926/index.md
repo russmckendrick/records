@@ -1,14 +1,17 @@
 ---
 title: "Suede - The Best Of Suede. Beautiful Ones. 1992-2018"
-album_artist: "Suede"
-album_title: "The Best Of Suede. Beautiful Ones. 1992-2018"
+artist: "Suede"
+album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
 date: 2021-01-03
 release_id: "16032926"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16032926"
+hideSummary: true
 cover:
     image: "the-best-of-suede-beautiful-ones-1992-2018-16032926.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
+    caption: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
+genres: ["Rock"]
+styles: ["Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -69,16 +72,17 @@ hideSummary: true
 55. All The Wild Places
 56. Flytipping
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16032926) |
+| Release Year   | 2020 |
+| Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16032926-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |
 | Label          | Demon Records |
 | Format         | Box, Comp + 6xLP, Whi |
 | Catalog Number | SUEDEBOX012 |
+
+Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl. Inner sleeves showcase fans memorabilia  750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk]
 

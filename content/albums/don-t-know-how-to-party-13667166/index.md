@@ -1,14 +1,17 @@
 ---
 title: "The Mighty Mighty Bosstones - Don't Know How To Party"
-album_artist: "The Mighty Mighty Bosstones"
-album_title: "Don't Know How To Party"
+artist: "The Mighty Mighty Bosstones"
+album_name: "Don't Know How To Party"
 date: 2019-06-04
 release_id: "13667166"
 slug: "don-t-know-how-to-party-13667166"
+hideSummary: true
 cover:
     image: "don-t-know-how-to-party-13667166.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Don't Know How To Party by The Mighty Mighty Bosstones"
+    caption: "Don't Know How To Party by The Mighty Mighty Bosstones"
+genres: ["Rock"]
+styles: ["Ska", "Punk"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [What Was Was Over](https://www.youtube.com/watch?v=BXDgiwf76yw)
 - [Seven Thirty Seven / Shoe Glue](https://www.youtube.com/watch?v=UbHQT73w8Mg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166-The-Mighty-Mighty-Bosstones-Dont-Know-How-To-Party) |
 | Label          | Music On Vinyl, Mercury, Universal Music |
 | Format         | LP, Album, RE |
 | Catalog Number | MOVLP2292 |
+
+180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU.
 

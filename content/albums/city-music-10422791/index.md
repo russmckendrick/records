@@ -1,14 +1,17 @@
 ---
 title: "Kevin Morby - City Music"
-album_artist: "Kevin Morby"
-album_title: "City Music"
+artist: "Kevin Morby"
+album_name: "City Music"
 date: 2017-06-17
 release_id: "10422791"
 slug: "city-music-10422791"
+hideSummary: true
 cover:
     image: "city-music-10422791.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "City Music by Kevin Morby"
+    caption: "City Music by Kevin Morby"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="7cKM3tfAsEo" title="Kevin Morby - City Music (Official Video)" >}}
 - [Kevin Morby - Come To Me Now (Official Lyric Video)](https://www.youtube.com/watch?v=QLL3AmFnhL8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Kevin Morby - City Music](https://www.discogs.com/release/10422791) |
+| Release Year   | 2017 |
+| Discogs Link   | [Kevin Morby - City Music](https://www.discogs.com/release/10422791-Kevin-Morby-City-Music) |
 | Label          | Dead Oceans |
 | Format         | LP, Album, Club, Whi |
 | Catalog Number | DOC131 |
+
+"Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."  Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.  All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.  ["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI). ["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).  ℗ & © 2017 Dead Oceans, Inc.  Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016.
 

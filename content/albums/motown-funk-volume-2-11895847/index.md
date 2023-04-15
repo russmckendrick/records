@@ -1,14 +1,17 @@
 ---
 title: "Various - Motown Funk Volume 2"
-album_artist: "Various"
-album_title: "Motown Funk Volume 2"
+artist: "Various"
+album_name: "Motown Funk Volume 2"
 date: 2018-04-21
 release_id: "11895847"
 slug: "motown-funk-volume-2-11895847"
+hideSummary: true
 cover:
     image: "motown-funk-volume-2-11895847.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Motown Funk Volume 2 by Various"
+    caption: "Motown Funk Volume 2 by Various"
+genres: ["Funk / Soul"]
+styles: ["Funk", "Soul"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Undisputed Truth-U.F.O's](https://www.youtube.com/watch?v=m_VoWIUnCbo)
 - [Dazz Band  Let It Whip](https://www.youtube.com/watch?v=lCemjTAw7i0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847-Various-Motown-Funk-Volume-2) |
 | Label          | UMC |
 | Format         | 2xLP, Comp, Yel |
 | Catalog Number | 5381363 |
+
+Released on Record Store Day 2018.
 

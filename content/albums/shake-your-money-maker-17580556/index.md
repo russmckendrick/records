@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - Shake Your Money Maker "
-album_artist: "The Black Crowes"
-album_title: "Shake Your Money Maker "
+artist: "The Black Crowes"
+album_name: "Shake Your Money Maker "
 date: 2021-03-05
 release_id: "17580556"
 slug: "shake-your-money-maker-17580556"
+hideSummary: true
 cover:
     image: "shake-your-money-maker-17580556.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Shake Your Money Maker  by The Black Crowes"
+    caption: "Shake Your Money Maker  by The Black Crowes"
+genres: ["Rock"]
+styles: ["Blues Rock", "Rock & Roll", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Black Crowes - Shake Your Money Maker ](https://www.discogs.com/release/17580556) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Black Crowes - Shake Your Money Maker ](https://www.discogs.com/release/17580556-The-Black-Crowes-Shake-Your-Money-Maker-) |
 | Label          | American Recordings, UMe |
 | Format         | LP + LP + 2xLP + Box, Album, Dlx, RM, 30t |
 | Catalog Number | 00602508802539 |
+
+Features the original studio album remastered by George Drakoulias, 3 previously unheard studio recordings, 2 unreleased demos from Mr. Crowe’s Garden, a 14 track full unreleased concert from Atlanta, GA, in 1990, reproductions of an early Mr. Crowe’s Garden show flyer, set list, tour laminate, patch, and a 20 page book with unseen photos from the band’s personal archives.  
 

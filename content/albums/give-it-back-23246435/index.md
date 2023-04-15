@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - Give It Back"
-album_artist: "The Pineapple Thief"
-album_title: "Give It Back"
+artist: "The Pineapple Thief"
+album_name: "Give It Back"
 date: 2022-05-16
 release_id: "23246435"
 slug: "give-it-back-23246435"
+hideSummary: true
 cover:
     image: "give-it-back-23246435.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Give It Back by The Pineapple Thief"
+    caption: "Give It Back by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Last Man Standing (Rewired)](https://www.youtube.com/watch?v=JlZI834YzYg)
 - [Little Man (Rewired)](https://www.youtube.com/watch?v=uj_DZgvgnyM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Pineapple Thief - Give It Back](https://www.discogs.com/release/23246435) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Pineapple Thief - Give It Back](https://www.discogs.com/release/23246435-The-Pineapple-Thief-Give-It-Back) |
 | Label          | Kscope |
 | Format         | LP, Album |
 | Catalog Number | KSCOPE1172 |
+
+The time stamp in the back cover of the record doesn't match the real time stamp. Song times were updated according the recording results.
 

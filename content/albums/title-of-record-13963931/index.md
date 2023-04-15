@@ -1,14 +1,17 @@
 ---
 title: "Filter (2) - Title Of Record"
-album_artist: "Filter (2)"
-album_title: "Title Of Record"
+artist: "Filter (2)"
+album_name: "Title Of Record"
 date: 2019-08-09
 release_id: "13963931"
 slug: "title-of-record-13963931"
+hideSummary: true
 cover:
     image: "title-of-record-13963931.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Title Of Record by Filter (2)"
+    caption: "Title Of Record by Filter (2)"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Filter - The Best Things (Official Video) HD](https://www.youtube.com/watch?v=Of1idt51DHc)
 - [Filter - Title Of Record (Full Album)](https://www.youtube.com/watch?v=nSbnSTL8anw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Filter (2) - Title Of Record](https://www.discogs.com/release/13963931) |
+| Release Year   | 2019 |
+| Discogs Link   | [Filter (2) - Title Of Record](https://www.discogs.com/release/13963931-Filter-Title-Of-Record) |
 | Label          | Craft Recordings, Craft Recordings |
 | Format         | 2xLP, Album, RE, 20t |
 | Catalog Number | CR00176, CR 00176 |
+
+Gatefold sleeve with  printed inner sleeves containing credits, photograph and liner notes.
 

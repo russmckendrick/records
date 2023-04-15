@@ -1,14 +1,17 @@
 ---
 title: "Anneke van Giersbergen - Everything Is Changing"
-album_artist: "Anneke van Giersbergen"
-album_title: "Everything Is Changing"
+artist: "Anneke van Giersbergen"
+album_name: "Everything Is Changing"
 date: 2017-05-27
 release_id: "8628494"
 slug: "everything-is-changing-8628494"
+hideSummary: true
 cover:
     image: "everything-is-changing-8628494.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Everything Is Changing by Anneke van Giersbergen"
+    caption: "Everything Is Changing by Anneke van Giersbergen"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [You Want To Be Free ~ Anneke Van Giersbergen ~ Everything Is Changing](https://www.youtube.com/watch?v=WgaJrXt12Ls)
 - [100 Miles Away From You ~ Anneke Van Giersbergen ~  Everything is Changing](https://www.youtube.com/watch?v=vVubeoyTQo4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Anneke van Giersbergen - Everything Is Changing](https://www.discogs.com/release/8628494) |
+| Release Year   | 2016 |
+| Discogs Link   | [Anneke van Giersbergen - Everything Is Changing](https://www.discogs.com/release/8628494-Anneke-van-Giersbergen-Everything-Is-Changing) |
 | Label          | Alone Records (2) |
 | Format         | LP, Album, Ltd, Pic, RE |
 | Catalog Number | AR-064LPPIC |
+
+For the first time on vinyl, presented in gatefold jacket and printed inner sleeve. Limited to 500 copies on picture disc. Under exclusive license from InsideOut Music
 

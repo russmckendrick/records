@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Doubt"
-album_artist: "Jesus Jones"
-album_title: "Doubt"
+artist: "Jesus Jones"
+album_name: "Doubt"
 date: 2022-11-13
 release_id: "25144474"
 slug: "doubt-25144474"
+hideSummary: true
 cover:
     image: "doubt-25144474.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Doubt by Jesus Jones"
+    caption: "Doubt by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Blissed](https://www.youtube.com/watch?v=YvRImAFep80)
 - [Jesus Jones - Right Here Right Now (Official Music Video)](https://www.youtube.com/watch?v=MznHdJReoeo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Doubt](https://www.discogs.com/release/25144474) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Doubt](https://www.discogs.com/release/25144474-Jesus-Jones-Doubt) |
 | Label          | Demon Records |
 | Format         | LP, Album, Tra |
 | Catalog Number | DEMREC953 |
+
+
 

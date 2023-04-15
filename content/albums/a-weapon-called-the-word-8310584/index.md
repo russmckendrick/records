@@ -1,14 +1,17 @@
 ---
 title: "The Levellers - A Weapon Called The Word"
-album_artist: "The Levellers"
-album_title: "A Weapon Called The Word"
+artist: "The Levellers"
+album_name: "A Weapon Called The Word"
 date: 2018-04-27
 release_id: "8310584"
 slug: "a-weapon-called-the-word-8310584"
+hideSummary: true
 cover:
     image: "a-weapon-called-the-word-8310584.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Weapon Called The Word by The Levellers"
+    caption: "A Weapon Called The Word by The Levellers"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [The Levellers - What You Know](https://www.youtube.com/watch?v=AiePzwMaXNg)
 - [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Levellers - A Weapon Called The Word](https://www.discogs.com/release/8310584) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Levellers - A Weapon Called The Word](https://www.discogs.com/release/8310584-The-Levellers-A-Weapon-Called-The-Word) |
 | Label          | On The Fiddle Recordings |
 | Format         | LP, Album, Ltd, RE, RM, Red |
 | Catalog Number | OTFLP008 |
+
+
 

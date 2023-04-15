@@ -1,14 +1,17 @@
 ---
 title: "Zero 7 - Simple Things"
-album_artist: "Zero 7"
-album_title: "Simple Things"
+artist: "Zero 7"
+album_name: "Simple Things"
 date: 2021-07-27
 release_id: "19608181"
 slug: "simple-things-19608181"
+hideSummary: true
 cover:
     image: "simple-things-19608181.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Simple Things by Zero 7"
+    caption: "Simple Things by Zero 7"
+genres: ["Electronic"]
+styles: ["Downtempo"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Zero 7 - Simple Things](https://www.discogs.com/release/19608181) |
+| Release Year   | 2021 |
+| Discogs Link   | [Zero 7 - Simple Things](https://www.discogs.com/release/19608181-Zero-7-Simple-Things) |
 | Label          | New State Music |
 | Format         | 2xLP, Album, Ltd, RE, RM, 180 |
 | Catalog Number | NEW9253LPC |
+
+Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies
 

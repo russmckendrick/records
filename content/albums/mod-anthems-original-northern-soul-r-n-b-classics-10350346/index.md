@@ -1,14 +1,17 @@
 ---
 title: "Various - Mod Anthems: Original Northern Soul & R'N'B Classics"
-album_artist: "Various"
-album_title: "Mod Anthems: Original Northern Soul & R'N'B Classics"
+artist: "Various"
+album_name: "Mod Anthems: Original Northern Soul & R'N'B Classics"
 date: 2017-05-27
 release_id: "10350346"
 slug: "mod-anthems-original-northern-soul-r-n-b-classics-10350346"
+hideSummary: true
 cover:
     image: "mod-anthems-original-northern-soul-r-n-b-classics-10350346.jpg"
-tags: ["Funk / Soul", "Blues", "Pop"]
-hideSummary: true
+    alt: "Mod Anthems: Original Northern Soul & R'N'B Classics by Various"
+    caption: "Mod Anthems: Original Northern Soul & R'N'B Classics by Various"
+genres: ["Funk / Soul", "Blues", "Pop"]
+styles: ["Mod", "Soul", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -69,13 +72,16 @@ hideSummary: true
 - [Ike And Tina Turner   Somebody Needs You](https://www.youtube.com/watch?v=Gi72iVtp568)
 - [Bettye Swann Kiss My Love Goodbye (1974)](https://www.youtube.com/watch?v=EBKhP4XEiXc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Various - Mod Anthems: Original Northern Soul & R'N'B Classics](https://www.discogs.com/release/10350346) |
+| Release Year   | 2017 |
+| Discogs Link   | [Various - Mod Anthems: Original Northern Soul & R'N'B Classics](https://www.discogs.com/release/10350346-Various-Mod-Anthems-Original-Northern-Soul-RNB-Classics) |
 | Label          | Rhino Records (2), Stateside |
 | Format         | 2xLP, Comp |
 | Catalog Number | 0190295831783 |
+
+Manufactured in the E.U. Mastered by Alchemy Design: Jaffa@The-Unknown.Co.Uk
 

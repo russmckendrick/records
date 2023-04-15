@@ -1,14 +1,17 @@
 ---
 title: "Japan - Tin Drum"
-album_artist: "Japan"
-album_title: "Tin Drum"
+artist: "Japan"
+album_name: "Tin Drum"
 date: 2018-08-29
 release_id: "12358307"
 slug: "tin-drum-12358307"
+hideSummary: true
 cover:
     image: "tin-drum-12358307.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Tin Drum by Japan"
+    caption: "Tin Drum by Japan"
+genres: ["Electronic", "Pop"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Life Without Buildings (Remaster 2003)](https://www.youtube.com/watch?v=RPk0-GMFqAI)
 - [Japan - Cantonese Boy](https://www.youtube.com/watch?v=JFTjxYBMOpw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Japan - Tin Drum](https://www.discogs.com/release/12358307) |
+| Release Year   | 2018 |
+| Discogs Link   | [Japan - Tin Drum](https://www.discogs.com/release/12358307-Japan-Tin-Drum) |
 | Label          | Virgin, UMC |
 | Format         | 2x12\", Album, Ltd, RE, Gat |
 | Catalog Number | 671 041-7 |
+
+℗ 1981 Virgin Records Ltd.  © 2018 Virgin Records Ltd. Made in the EU  Project Co-ordination For Universal at Hey Joe!  Mastered by Miles Showell at Abbey Road, each record was cut using a half-speed mastering technique; a specialist artisan process, which results in cuts that have a superior high frequency (treble) response and solid and stable stereo images. In short, this produces a very high-quality master, which in turn helps to create a very high-quality record.  Additionally, each album is being released as a double 45 RPM half-speed mastered edition, the ultimate high-quality reproduction as the faster the replay speed of the record, the higher the potential quality. The shorter side times also allow the level recorded to the master lacquer discs to be increased, thereby improving the signal to noise ratio.  Half Speed Mastering Certificate
 

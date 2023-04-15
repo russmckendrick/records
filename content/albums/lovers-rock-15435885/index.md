@@ -1,14 +1,17 @@
 ---
 title: "The Dears - Lovers Rock"
-album_artist: "The Dears"
-album_title: "Lovers Rock"
+artist: "The Dears"
+album_name: "Lovers Rock"
 date: 2022-09-18
 release_id: "15435885"
 slug: "lovers-rock-15435885"
+hideSummary: true
 cover:
     image: "lovers-rock-15435885.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Lovers Rock by The Dears"
+    caption: "Lovers Rock by The Dears"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [The Dears - Is This What You Really Want?](https://www.youtube.com/watch?v=fcWiNJybFUY)
 - [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Dears - Lovers Rock](https://www.discogs.com/release/15435885) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Dears - Lovers Rock](https://www.discogs.com/release/15435885-The-Dears-Lovers-Rock) |
 | Label          | Dangerbird Records, Not On Label (The Dears Self-released) |
 | Format         | LP, Album, Sil |
 | Catalog Number | DGB211-1, DE050017 |
+
+Includes download card.  Certain pre-orders included an autographed print.
 

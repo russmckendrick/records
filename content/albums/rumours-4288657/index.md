@@ -1,14 +1,17 @@
 ---
 title: "Fleetwood Mac - Rumours "
-album_artist: "Fleetwood Mac"
-album_title: "Rumours "
+artist: "Fleetwood Mac"
+album_name: "Rumours "
 date: 2015-09-30
 release_id: "4288657"
 slug: "rumours-4288657"
+hideSummary: true
 cover:
     image: "rumours-4288657.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Rumours  by Fleetwood Mac"
+    caption: "Rumours  by Fleetwood Mac"
+genres: ["Rock", "Pop"]
+styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -99,13 +102,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="SLlYUlS_Awo" title="Second Hand News (2004 Remaster)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Fleetwood Mac - Rumours ](https://www.discogs.com/release/4288657) |
+| Release Year   | 2013 |
+| Discogs Link   | [Fleetwood Mac - Rumours ](https://www.discogs.com/release/4288657-Fleetwood-Mac-Rumours-) |
 | Label          | Warner Bros. Records, Warner Music |
 | Format         | CD, Album, RE, RM + CD, RM + DVD-V, NTSC + CD, RM  |
 | Catalog Number | R2-533806 |
+
+Deluxe edition of 'Rumours', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Live, 1977, Disc 3: DVD - The Rosebud Film Documentary, Disc 4: CD - More from the Recording Sessions, Disc 5: CD - Recording Sessions, Roughs and Outtakes, Disc 6: 180g Vinyl LP - original album, remastered, Soft-back 12"x12" book, containing pictures and notes on Rumours, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  *Previously released as R2-73882  Disc 1: Recorded at Record Plant, Sausalito & Los Angeles, CA; Wally Heider Recording Studios, Los Angeles, CA; Criteria Studios, Miami, FL; Davlen Recording Studio, North Hollywood, CA * "Songbird" Recorded at Zellerbach Auditorium/U.C. Berkeley, Berkeley, CA (3/3/76) Mixed at Sound City, Van Nuys, California; Record Plant, Los Angeles, California  Disc 2:  Live tracks recorded during the 1977 "Rumours" Tour In Oklahoma City, OK; Tulsa, OK; Nashville, TN & Columbia, SC  Disc 3:  1977 documentary film created to promote the European leg of the "Rumours" tour.  Includes behind-the-scenes interviews, rehearsal footage and live performances.  This Reissue ℗ & © 2013 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
 

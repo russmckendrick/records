@@ -1,14 +1,17 @@
 ---
 title: "The Cranberries - Everybody Else Is Doing It, So Why Can't We?"
-album_artist: "The Cranberries"
-album_title: "Everybody Else Is Doing It, So Why Can't We?"
+artist: "The Cranberries"
+album_name: "Everybody Else Is Doing It, So Why Can't We?"
 date: 2018-10-19
 release_id: "12657197"
 slug: "everybody-else-is-doing-it-so-why-can-t-we-12657197"
+hideSummary: true
 cover:
     image: "everybody-else-is-doing-it-so-why-can-t-we-12657197.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Everybody Else Is Doing It, So Why Can't We? by The Cranberries"
+    caption: "Everybody Else Is Doing It, So Why Can't We? by The Cranberries"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="G6Kspj3OO0s" title="The Cranberries - Linger" >}}
 - [The Cranberries - Dreams](https://www.youtube.com/watch?v=Yam5uK6e-bQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Cranberries - Everybody Else Is Doing It, So Why Can't We?](https://www.discogs.com/release/12657197) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Cranberries - Everybody Else Is Doing It, So Why Can't We?](https://www.discogs.com/release/12657197-The-Cranberries-Everybody-Else-Is-Doing-It-So-Why-Cant-We) |
 | Label          | Island Records, UMC |
 | Format         | LP, Album, RE, RM, 25t |
 | Catalog Number | 6750577 |
+
+Sticker: The Cranberries Everybody Else Is Doing It, So Why Can't We 25th. Anniversary Edition. Remastered at Abbey Road Studios. UMC  Island (logo) 6750577  Download Code in the Variant 3 edition  Back cover has "Made in EU" unlike [r24120869]  Runouts are stamped except "Miles. Abbey Road 1/2 speed. Room 30." etched  Tracks duration are not on this release
 

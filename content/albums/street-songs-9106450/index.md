@@ -1,14 +1,17 @@
 ---
 title: "Rick James - Street Songs"
-album_artist: "Rick James"
-album_title: "Street Songs"
+artist: "Rick James"
+album_name: "Street Songs"
 date: 2019-04-09
 release_id: "9106450"
 slug: "street-songs-9106450"
+hideSummary: true
 cover:
     image: "street-songs-9106450.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Street Songs by Rick James"
+    caption: "Street Songs by Rick James"
+genres: ["Funk / Soul"]
+styles: ["Funk", "Disco"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Rick James - Super Freak](https://www.youtube.com/watch?v=QYHxGBH6o4M)
 - [Rick James - Give It To Me Baby (Official Video)](https://www.youtube.com/watch?v=1dNIQVYGXbM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Rick James - Street Songs](https://www.discogs.com/release/9106450) |
+| Release Year   | 2016 |
+| Discogs Link   | [Rick James - Street Songs](https://www.discogs.com/release/9106450-Rick-James-Street-Songs) |
 | Label          | Gordy |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | G 1002 |
+
+Includes voucher to download MP3 version of the album.  On back cover : ℗ 1981 Motown Records Company L.P. A Universal Music Company © 1981 Motown Records Company L.P. A Universal Music Company Made in the EU. LC 01846. 0600753160107  On inner sleeve : Steve Price, courtesy of A&M Records Michael Narada Walden, courtesy of Atlantic Recording Corp. Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records.
 

@@ -1,14 +1,17 @@
 ---
 title: "Steely Dan - Aja"
-album_artist: "Steely Dan"
-album_title: "Aja"
+artist: "Steely Dan"
+album_name: "Aja"
 date: 2019-11-16
 release_id: "2884821"
 slug: "aja-2884821"
+hideSummary: true
 cover:
     image: "aja-2884821.jpg"
-tags: ["Jazz", "Rock", "Pop"]
-hideSummary: true
+    alt: "Aja by Steely Dan"
+    caption: "Aja by Steely Dan"
+genres: ["Jazz", "Rock", "Pop"]
+styles: ["Pop Rock", "Fusion"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [I Got The News](https://www.youtube.com/watch?v=T6DSoyAjkus)
 - [Josie](https://www.youtube.com/watch?v=qwZ_u_UKb0Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [Steely Dan - Aja](https://www.discogs.com/release/2884821) |
+| Release Year   | 2008 |
+| Discogs Link   | [Steely Dan - Aja](https://www.discogs.com/release/2884821-Steely-Dan-Aja) |
 | Label          | ABC Records |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | 0076732168813 |
+
+Issued with a printed inner sleeve and housed in a gatefold jacket. Includes an MP3 download code card.  [Back To Black sticker on shrink wrap:] [Back To Black logo] [Universal Music Group International logo] Includes a voucher to download MP3 version of the album 180 Gram Heavyweight Vinyl www.backtoblackvinyl.com [B2B code]  [Gatefold inside:] Recorded at: Village Recorders, West L.A.; Producer's Workshop, Hollywood; Warner Bros. North Hollywood Recording Studios; ABC Recording Studios; Sound Labs, Hollywood; A&R Studios, N.Y.C.  [Rear sleeve:] ℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. Made in the EU.  [Inner sleeve:] Steve Gadd and Michael McDonald appear through courtesy of [Warner Bros. Records, Inc.](https://www.discogs.com/label/90718-Warner-Bros-Records-Inc) Chuck Rainey appears through courtesy of [l74446] Victor Feldman appears through courtesy of [l42541]. Lee Ritenour appears through courtesy of [l1213591]. Wayne Shorter appears through courtesy of [l269353] Tom Scott appears through courtesy of [Ode Records](https://www.discogs.com/label/36012-Ode-Records-2). All selections © 1977 ABC/Dunhill Music, Inc. (BMI). © 1977 ABC Records, Inc.  [Labels:] Published by ABC/Dunhill Music, Inc. (BMI) ℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. [...] Made in the EU.  Runout details: Everything is stamped except hand-etched 'GREG MOORE @ MASTERPIECE' on side B.
 

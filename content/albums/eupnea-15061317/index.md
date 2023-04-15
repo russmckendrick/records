@@ -1,14 +1,17 @@
 ---
 title: "Pure Reason Revolution - Eupnea"
-album_artist: "Pure Reason Revolution"
-album_title: "Eupnea"
+artist: "Pure Reason Revolution"
+album_name: "Eupnea"
 date: 2020-04-06
 release_id: "15061317"
 slug: "eupnea-15061317"
+hideSummary: true
 cover:
     image: "eupnea-15061317.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Eupnea by Pure Reason Revolution"
+    caption: "Eupnea by Pure Reason Revolution"
+genres: ["Electronic", "Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="nIfrCbRkBww" title="PURE REASON REVOLUTION - Ghosts & Typhoons (OFFICIAL VIDEO)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Pure Reason Revolution - Eupnea](https://www.discogs.com/release/15061317) |
+| Release Year   | 2020 |
+| Discogs Link   | [Pure Reason Revolution - Eupnea](https://www.discogs.com/release/15061317-Pure-Reason-Revolution-Eupnea) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Yel + LP, S/Sided, Etch, Yel + Album + CD, Alb |
 | Catalog Number | IOMLP 545, 19439725051 |
+
+Gatefold release and limited to 100 copies from the Burning Shed online store.  CD housed in a transparent sleeve. Included a 12" lyric sheet.  Made in the EU. 
 

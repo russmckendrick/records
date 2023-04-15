@@ -1,14 +1,17 @@
 ---
 title: "The Soundtrack Of Our Lives - Behind The Music"
-album_artist: "The Soundtrack Of Our Lives"
-album_title: "Behind The Music"
+artist: "The Soundtrack Of Our Lives"
+album_name: "Behind The Music"
 date: 2018-11-03
 release_id: "12650670"
 slug: "behind-the-music-12650670"
+hideSummary: true
 cover:
     image: "behind-the-music-12650670.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Behind The Music by The Soundtrack Of Our Lives"
+    caption: "Behind The Music by The Soundtrack Of Our Lives"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Soundtrack of Our Lives Into the Next Sun ('Behind the Music' LP)](https://www.youtube.com/watch?v=RrZQ8n3x8EY)
 - [MIND THE GAP The Soundtrack Of Our Lives](https://www.youtube.com/watch?v=ZTK5k6kyH7w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Soundtrack Of Our Lives - Behind The Music](https://www.discogs.com/release/12650670) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Soundtrack Of Our Lives - Behind The Music](https://www.discogs.com/release/12650670-The-Soundtrack-Of-Our-Lives-Behind-The-Music) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Album, Ltd, Num, RE, Gol |
 | Catalog Number | MOVLP2242 |
+
+180 gram audiophile vinyl Gatefold sleeve Including insert Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl
 

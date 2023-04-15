@@ -1,14 +1,17 @@
 ---
 title: "Veruca Salt - American Thighs"
-album_artist: "Veruca Salt"
-album_title: "American Thighs"
+artist: "Veruca Salt"
+album_name: "American Thighs"
 date: 2020-01-03
 release_id: "2258972"
 slug: "american-thighs-2258972"
+hideSummary: true
 cover:
     image: "american-thighs-2258972.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "American Thighs by Veruca Salt"
+    caption: "American Thighs by Veruca Salt"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [25](https://www.youtube.com/watch?v=ZdN5FiO8NPE)
 - [Sleeping Where I Want](https://www.youtube.com/watch?v=MMs86-JbM54)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [Veruca Salt - American Thighs](https://www.discogs.com/release/2258972) |
+| Release Year   | 1994 |
+| Discogs Link   | [Veruca Salt - American Thighs](https://www.discogs.com/release/2258972-Veruca-Salt-American-Thighs) |
 | Label          | Hi-Rise Recordings, Minty Fresh |
 | Format         | LP, Album |
 | Catalog Number | FLATLP 9 |
+
+Made in England.
 

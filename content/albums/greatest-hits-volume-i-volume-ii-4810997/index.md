@@ -1,14 +1,17 @@
 ---
 title: "Billy Joel - Greatest Hits Volume I & Volume II"
-album_artist: "Billy Joel"
-album_title: "Greatest Hits Volume I & Volume II"
+artist: "Billy Joel"
+album_name: "Greatest Hits Volume I & Volume II"
 date: 2016-10-14
 release_id: "4810997"
 slug: "greatest-hits-volume-i-volume-ii-4810997"
+hideSummary: true
 cover:
     image: "greatest-hits-volume-i-volume-ii-4810997.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Greatest Hits Volume I & Volume II by Billy Joel"
+    caption: "Greatest Hits Volume I & Volume II by Billy Joel"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 {{< youtube id="wltzv3no6bY" title="Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP" >}}
 - [She's Always a Woman - BILLY JOEL ~ from the album Greatest Hits / Volume I & II (1985)](https://www.youtube.com/watch?v=8mCmCvZ7dLA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Billy Joel - Greatest Hits Volume I & Volume II](https://www.discogs.com/release/4810997) |
+| Release Year   | 1985 |
+| Discogs Link   | [Billy Joel - Greatest Hits Volume I & Volume II](https://www.discogs.com/release/4810997-Billy-Joel-Greatest-Hits-Volume-I-Volume-II) |
 | Label          | CBS |
 | Format         | 2xLP, Comp, Gat |
 | Catalog Number | CBS 88666 |
+
+This album consists of previously released material except for the tracks D4 and D5  Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"  Gatefold sleeve 
 

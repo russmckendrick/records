@@ -1,14 +1,17 @@
 ---
 title: "Jethro Tull - Stormwatch"
-album_artist: "Jethro Tull"
-album_title: "Stormwatch"
+artist: "Jethro Tull"
+album_name: "Stormwatch"
 date: 2020-04-23
 release_id: "14968787"
 slug: "stormwatch-14968787"
+hideSummary: true
 cover:
     image: "stormwatch-14968787.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Stormwatch by Jethro Tull"
+    caption: "Stormwatch by Jethro Tull"
+genres: ["Rock"]
+styles: ["Folk Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Jethro Tull - Dark Ages - 1979](https://www.youtube.com/watch?v=NegXrA7uNa8)
 - [Jethro Tull - Dark Ages (Around the World Live)](https://www.youtube.com/watch?v=Oqv78xWQmgI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Jethro Tull - Stormwatch](https://www.discogs.com/release/14968787) |
+| Release Year   | 2020 |
+| Discogs Link   | [Jethro Tull - Stormwatch](https://www.discogs.com/release/14968787-Jethro-Tull-Stormwatch) |
 | Label          | Chrysalis |
 | Format         | LP, Album, Ltd, whi |
 | Catalog Number | 0190295300234 |
+
+The original 1979 album remixed to stereo by Steven Wilson, released on white vinyl - exclusive to Burning Shed - 500 copies. Standalone release of the main album, following on from the 2019 book-format reissue.  Also available as a black vinyl release.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Magpie Salute - The Magpie Salute"
-album_artist: "The Magpie Salute"
-album_title: "The Magpie Salute"
+artist: "The Magpie Salute"
+album_name: "The Magpie Salute"
 date: 2017-07-02
 release_id: "10430068"
 slug: "the-magpie-salute-10430068"
+hideSummary: true
 cover:
     image: "the-magpie-salute-10430068.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "The Magpie Salute by The Magpie Salute"
+    caption: "The Magpie Salute by The Magpie Salute"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [The Magpie Salute - Ain't No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
 - [The Magpie Salute - Wiser Time](https://www.youtube.com/watch?v=5tP_qkbDu5g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Magpie Salute - The Magpie Salute](https://www.discogs.com/release/10430068) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Magpie Salute - The Magpie Salute](https://www.discogs.com/release/10430068-The-Magpie-Salute-The-Magpie-Salute) |
 | Label          | Cargo Records |
 | Format         | 2xLP, Ltd, Gol |
 | Catalog Number | CARLP207 |
+
+Issued 2017 by Cargo Records Germany GmbH under license from Eagle Rock Entertainment Limited. Eagle Rock Entertainment is a Universal Music Group company. P 2017 Circle Sound LLC. under exclusive license to Woodstock Sessions LLC. Manufactured and distributed by Cargo Records Germany GmbH.
 

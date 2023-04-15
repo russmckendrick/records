@@ -1,14 +1,17 @@
 ---
 title: "Jean-Michel Jarre - Oxymore"
-album_artist: "Jean-Michel Jarre"
-album_title: "Oxymore"
+artist: "Jean-Michel Jarre"
+album_name: "Oxymore"
 date: 2022-10-21
 release_id: "24896663"
 slug: "oxymore-24896663"
+hideSummary: true
 cover:
     image: "oxymore-24896663.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Oxymore by Jean-Michel Jarre"
+    caption: "Oxymore by Jean-Michel Jarre"
+genres: ["Electronic"]
+styles: ["Techno"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Jean Michel Jarre - Oxymore CD Album 2022 Sony Music EU Unboxing](https://www.youtube.com/watch?v=nqiRXZq8-mo)
 - [Jean Michel Jarre - Oxymore 2xLP Album 2022 Sony Music Europe VINYL UNBOXING](https://www.youtube.com/watch?v=dgefMtRMuzM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jean-Michel Jarre - Oxymore](https://www.discogs.com/release/24896663) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jean-Michel Jarre - Oxymore](https://www.discogs.com/release/24896663-Jean-Michel-Jarre-Oxymore) |
 | Label          | Columbia |
 | Format         | 2x12\", Album, 180 |
 | Catalog Number | 19658746581 |
+
+Issued in a 6-panel trifold sleeve. Includes download link to binaural headphone version (in 24-Bit 48 kHz WAV) Originally comes with 2 stickers: Sticker 1: "Jean-Michel Jarre Oxymore Homage To Pierre Henry" Sticker 2 [french]: "An immersive music project + Accès à la version binaurale Double vinyle 180g, livret 32 pages _" Sticker 2 [english]: "An Immersive Music Project  + Access To Binaural Version!  2x180g Vinyl / 32 Page Booklet"  Homage To Pierre Henry [Back cover] ℗ & © 2022 Music Affair Entertainment Limited [Back cover] Made in the EU. [Back cover] Sounds of Pierre Henry courtesy of Pierre Henry Estate [Booklet] Dedicated to [a7209] and [a32181] [Booklet]
 

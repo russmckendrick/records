@@ -1,14 +1,17 @@
 ---
 title: "Doves - Lost Souls "
-album_artist: "Doves"
-album_title: "Lost Souls "
+artist: "Doves"
+album_name: "Lost Souls "
 date: 2019-06-03
 release_id: "13701462"
 slug: "lost-souls-13701462"
+hideSummary: true
 cover:
     image: "lost-souls-13701462.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lost Souls  by Doves"
+    caption: "Lost Souls  by Doves"
+genres: ["Rock"]
+styles: ["Space Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Doves - Lost Souls](https://www.youtube.com/watch?v=QCmvW7MLMA0)
 - [Doves - Here It Comes](https://www.youtube.com/watch?v=kthMTQs61ic)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Doves - Lost Souls ](https://www.discogs.com/release/13701462) |
+| Release Year   | 2019 |
+| Discogs Link   | [Doves - Lost Souls ](https://www.discogs.com/release/13701462-Doves-Lost-Souls-) |
 | Label          | Heavenly |
 | Format         | 2xLP, Album, Ltd, Num, RE, Gre |
 | Catalog Number | 7748262 |
+
+This album is for [Robert Leo Gretton](https://www.discogs.com/artist/236150-Rob-Gretton) ℗ 2000 [l26760] © 2019 [l26760] made in e.u.  Comes with a [l1052727] download coupon.
 

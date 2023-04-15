@@ -1,14 +1,17 @@
 ---
 title: "Paul Draper - Cult Leader Tactics"
-album_artist: "Paul Draper"
-album_title: "Cult Leader Tactics"
+artist: "Paul Draper"
+album_name: "Cult Leader Tactics"
 date: 2022-01-29
 release_id: "21939745"
 slug: "cult-leader-tactics-21939745"
+hideSummary: true
 cover:
     image: "cult-leader-tactics-21939745.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cult Leader Tactics by Paul Draper"
+    caption: "Cult Leader Tactics by Paul Draper"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Omega Man (4:08)
 11. Lyin Bout Who You Sleep With (5:01)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Paul Draper - Cult Leader Tactics](https://www.discogs.com/release/21939745) |
+| Release Year   | 2022 |
+| Discogs Link   | [Paul Draper - Cult Leader Tactics](https://www.discogs.com/release/21939745-Paul-Draper-Cult-Leader-Tactics) |
 | Label          | Kscope |
 | Format         | LP, Album, Ltd, Vio |
 | Catalog Number | KSCOPE 1160 |
+
+First 150 signed by Paul Draper  Gatefold sleeve Lyric / credits inner sleeve. Kscope insert  
 

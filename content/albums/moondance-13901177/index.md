@@ -1,14 +1,17 @@
 ---
 title: "Van Morrison - Moondance"
-album_artist: "Van Morrison"
-album_title: "Moondance"
+artist: "Van Morrison"
+album_name: "Moondance"
 date: 2019-08-03
 release_id: "13901177"
 slug: "moondance-13901177"
+hideSummary: true
 cover:
     image: "moondance-13901177.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Moondance by Van Morrison"
+    caption: "Moondance by Van Morrison"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Brand New Day (2013 Remaster)](https://www.youtube.com/watch?v=mFyHvTzCpUk)
 - [Caravan (2013 Remaster)](https://www.youtube.com/watch?v=t_YGC_vA0Og)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Van Morrison - Moondance](https://www.discogs.com/release/13901177) |
+| Release Year   | 2019 |
+| Discogs Link   | [Van Morrison - Moondance](https://www.discogs.com/release/13901177-Van-Morrison-Moondance) |
 | Label          | Warner Bros. Records |
 | Format         | LP, Album, Ltd, RE, RP, Ora |
 | Catalog Number | RCV1 1835 |
+
+Track A1 appears on sleeve as Stoned Me and on Label as And It Stoned Me - Previous versions show title as And It Stoned Me. Sleeve states Printed In USA. Label states Manufactured in EU. Sticker on shrink-wrap states Van  Morrison's Masterpiece, Limited Edition Orange Vinyl Featuring "Moondance," "Crazy Love" and "Into The Mystic" Second sticker states Summer of '69 Peace, Love and Music Rhino
 

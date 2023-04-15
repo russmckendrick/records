@@ -1,14 +1,17 @@
 ---
 title: "Rush - Moving Pictures"
-album_artist: "Rush"
-album_title: "Moving Pictures"
+artist: "Rush"
+album_name: "Moving Pictures"
 date: 2022-05-04
 release_id: "22876769"
 slug: "moving-pictures-22876769"
+hideSummary: true
 cover:
     image: "moving-pictures-22876769.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Moving Pictures by Rush"
+    caption: "Moving Pictures by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 {{< youtube id="iAIxUvd8gWo" title="Rush - Moving Pictures [Full Album] (HQ)" >}}
 - [R̲u̲sh   Moving Pictures  Full Album](https://www.youtube.com/watch?v=S-rqmOjc5PQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Rush - Moving Pictures](https://www.discogs.com/release/22876769) |
+| Release Year   | 2022 |
+| Discogs Link   | [Rush - Moving Pictures](https://www.discogs.com/release/22876769-Rush-Moving-Pictures) |
 | Label          | Anthem Entertainment, Mercury |
 | Format         | Dlx, 40t + LP, RE, RM + 4xLP |
 | Catalog Number | B0033537-01 |
+
+Live in YYZ 1981 tracks are previously unreleased. Recorded live Mar 24 & 25, 1981. Mixed at Blue Sound & Music Dec 2020-Feb 2021.  Slipcase containing: Moving Pictures Album in single cover with one sheet insert Live In YYZ 1981 - 2 LP in gatefold cover - sides 3 to 6 Live In YYZ 1981 - 2 LP in gatefold cover - sides 7 to 10 24 page LP sized booklet  Sticker on backside (on shrink wrap): MADE IN CZECH REPUBLIC  ℗ 2021 UMG Recordings, Inc. for the world excluding Canada and Japan, ℗ 2021 Anthem Entertainment LP for Canada and Japan, © 2021 Anthem Entertainment LP/UMG Recordings, Inc.  
 

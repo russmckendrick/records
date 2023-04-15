@@ -1,14 +1,17 @@
 ---
 title: "George Michael - Listen Without Prejudice Vol. 1"
-album_artist: "George Michael"
-album_title: "Listen Without Prejudice Vol. 1"
+artist: "George Michael"
+album_name: "Listen Without Prejudice Vol. 1"
 date: 2017-10-21
 release_id: "9939004"
 slug: "listen-without-prejudice-vol-1-9939004"
+hideSummary: true
 cover:
     image: "listen-without-prejudice-vol-1-9939004.jpg"
-tags: ["Electronic", "Blues", "Pop"]
-hideSummary: true
+    alt: "Listen Without Prejudice Vol. 1 by George Michael"
+    caption: "Listen Without Prejudice Vol. 1 by George Michael"
+genres: ["Electronic", "Blues", "Pop"]
+styles: ["Downtempo", "Synth-pop", "Vocal"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [George Michael - Everything She Wants](https://www.youtube.com/watch?v=3K9rDq9zUKQ)
 - [OLDER GEORGE MICHAEL MTV UNPLUGGED 1996](https://www.youtube.com/watch?v=cbz20B_3NIA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [George Michael - Listen Without Prejudice Vol. 1](https://www.discogs.com/release/9939004) |
+| Release Year   | 2017 |
+| Discogs Link   | [George Michael - Listen Without Prejudice Vol. 1](https://www.discogs.com/release/9939004-George-Michael-Listen-Without-Prejudice-Vol-1) |
 | Label          | Epic, Sony Music |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88875145271 |
+
+Hype Sticker Reads: George Michael Listen Without Prejudice Features Praying For Time Freedom '90 Waiting For That Day Cowboys And Angels  The release has been delayed from being officially released a number of times, with release dates given as follows: 11 November 2016 3 March 2017 (Following George Michael's sudden death on Christmas Day 2016) May 2017  20th October 2017 (current and actual official release date)  A number of copies are known to have been mistakenly available despite the cancelling of release dates.  Including MP3 download code.
 

@@ -1,14 +1,17 @@
 ---
 title: "Various - Metal Killers"
-album_artist: "Various"
-album_title: "Metal Killers"
+artist: "Various"
+album_name: "Metal Killers"
 date: 2017-07-11
 release_id: "1916752"
 slug: "metal-killers-1916752"
+hideSummary: true
 cover:
     image: "metal-killers-1916752.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Metal Killers by Various"
+    caption: "Metal Killers by Various"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Various - Metal Killers](https://www.discogs.com/release/1916752) |
+| Release Year   | 1984 |
+| Discogs Link   | [Various - Metal Killers](https://www.discogs.com/release/1916752-Various-Metal-Killers) |
 | Label          | Kastle Killers |
 | Format         | LP, Comp |
 | Catalog Number | KKLP 101 |
+
+Courtesy of Heavy Metal Records (Track B1) 
 

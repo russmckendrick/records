@@ -1,14 +1,17 @@
 ---
 title: "Glen Campbell - More Words"
-album_artist: "Glen Campbell"
-album_title: "More Words"
+artist: "Glen Campbell"
+album_name: "More Words"
 date: 2020-08-02
 release_id: "5672942"
 slug: "more-words-5672942"
+hideSummary: true
 cover:
     image: "more-words-5672942.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "More Words by Glen Campbell"
+    caption: "More Words by Glen Campbell"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
 - [Glen Campbell - Dreams Of The Everyday Housewife](https://www.youtube.com/watch?v=LonUQ5o-vLc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Glen Campbell - More Words](https://www.discogs.com/release/5672942) |
+| Release Year   | 1975 |
+| Discogs Link   | [Glen Campbell - More Words](https://www.discogs.com/release/5672942-Glen-Campbell-More-Words) |
 | Label          | Ember Records |
 | Format         | LP, Comp |
 | Catalog Number | NRH 1001 |
+
+Fold out front cover © 1975 ℗ 1968 track A1, A2, A4, B1, B3. B4 ℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7  Made in England 
 

@@ -1,14 +1,17 @@
 ---
 title: "Therapy? - Infernal Love"
-album_artist: "Therapy?"
-album_title: "Infernal Love"
+artist: "Therapy?"
+album_name: "Infernal Love"
 date: 2022-01-07
 release_id: "18393268"
 slug: "infernal-love-18393268"
+hideSummary: true
 cover:
     image: "infernal-love-18393268.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Infernal Love by Therapy?"
+    caption: "Infernal Love by Therapy?"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Therapy? – Loose](https://www.youtube.com/watch?v=55PXTJxbYhA)
 - [Therapy? – 30 Seconds](https://www.youtube.com/watch?v=cvg9lvnmAmY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Therapy? - Infernal Love](https://www.discogs.com/release/18393268) |
+| Release Year   | 2021 |
+| Discogs Link   | [Therapy? - Infernal Love](https://www.discogs.com/release/18393268-Therapy-Infernal-Love) |
 | Label          | Music On Vinyl, A&M Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | MOVLP2806 |
+
+Includes a 12" square matte insert with song lyrics and credits, printed on both sides. Disc held in a white paper die cut polylined inner. Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.  Made in The Netherlands.  This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc).
 

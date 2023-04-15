@@ -1,14 +1,17 @@
 ---
 title: "Agnes Obel - Aventine"
-album_artist: "Agnes Obel"
-album_title: "Aventine"
+artist: "Agnes Obel"
+album_name: "Aventine"
 date: 2017-01-03
 release_id: "4948198"
 slug: "aventine-4948198"
+hideSummary: true
 cover:
     image: "aventine-4948198.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Aventine by Agnes Obel"
+    caption: "Aventine by Agnes Obel"
+genres: ["Folk, World, & Country"]
+styles: ["Folk"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Agnes Obel - Fivefold](https://www.youtube.com/watch?v=nBqvRZQbFdA)
 - [Agnes Obel - Smoke And Mirrors](https://www.youtube.com/watch?v=QOGQx4khAG0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Agnes Obel - Aventine](https://www.discogs.com/release/4948198) |
+| Release Year   | 2013 |
+| Discogs Link   | [Agnes Obel - Aventine](https://www.discogs.com/release/4948198-Agnes-Obel-Aventine) |
 | Label          | Play It Again Sam |
 | Format         | LP, Album + CD, Album + CD + Box, Ltd |
 | Catalog Number | PIASR615BOX |
+
+Limited Edition Deluxe Box Set  180g Heavyweight Vinyl & CD Album plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print.
 

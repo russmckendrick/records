@@ -1,14 +1,17 @@
 ---
 title: "Prince - Originals"
-album_artist: "Prince"
-album_title: "Originals"
+artist: "Prince"
+album_name: "Originals"
 date: 2019-07-20
 release_id: "13737987"
 slug: "originals-13737987"
+hideSummary: true
 cover:
     image: "originals-13737987.jpg"
-tags: ["Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Originals by Prince"
+    caption: "Originals by Prince"
+genres: ["Funk / Soul", "Pop"]
+styles: ["Minneapolis Sound", "Funk"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Prince - Dear Michaelangelo (Official Audio)](https://www.youtube.com/watch?v=ZP9WDBtzIBQ)
 - [Prince - Wouldn’t You Love to Love Me? (Official Audio)](https://www.youtube.com/watch?v=D7U6pniM13s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Prince - Originals](https://www.discogs.com/release/13737987) |
+| Release Year   | 2019 |
+| Discogs Link   | [Prince - Originals](https://www.discogs.com/release/13737987-Prince-Originals) |
 | Label          | NPG Records, The Prince Estate, Warner Bros. Records |
 | Format         | 2xLP, Album, Pur + CD, Album + Dlx, Ltd |
 | Catalog Number | 603497851768, 0603497851782, R1 591459 |
+
+Red hype sticker on shrink: Limited-Edition Deluxe Set CD + 2 LP 180G Purple Vinyl 14 Previously unreleased recordings + "[m=1354092]" Includes 24-page booklet with handwritten lyrics, rare photos, and new essays by Susannah Melvoin, Nelson George & Peggy McCreary 603497851768 [Barcode]  6-panel gatefold cover, back: [The Prince Estate 'Love Symbol' logo] [NPG Records 'NPG' logo] Warner Bros. Records Inc., a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Printed in U.S.A. Manufactured in E.U. LC02982 · 603497851768 [Warner Bros. Records 'WB-shield' logo] PRINCE.COM  Spine: R1 591459 Prince Originals NPG Records/Warner Bros.  LP sized booklet: R1 591459 | 603497851768  CD: [the [same disc that was released one month before](https://www.discogs.com/Prince-Originals/release/13541996)] This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Manufactured in the E.U. GEMA/BIEM · PRINCE.COM · 0603497851782  Vinyl, labels: This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in the E.U.   Vinyl, matrix/runout: The [MPO logo]® and the subsequent numbers starting with "19" are laser etched, the rest is etched 
 

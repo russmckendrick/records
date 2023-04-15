@@ -1,14 +1,17 @@
 ---
 title: "Tom Waits - Alice"
-album_artist: "Tom Waits"
-album_title: "Alice"
+artist: "Tom Waits"
+album_name: "Alice"
 date: 2017-11-24
 release_id: "11189794"
 slug: "alice-11189794"
+hideSummary: true
 cover:
     image: "alice-11189794.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Alice by Tom Waits"
+    caption: "Alice by Tom Waits"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Tom Waits - Flowers Grave](https://www.youtube.com/watch?v=_x198_I0Nfc)
 - [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=9Bk9ao6cSFs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Tom Waits - Alice](https://www.discogs.com/release/11189794) |
+| Release Year   | 2017 |
+| Discogs Link   | [Tom Waits - Alice](https://www.discogs.com/release/11189794-Tom-Waits-Alice) |
 | Label          | Anti- |
 | Format         | LP, Album, RE + LP, S/Sided, Etch |
 | Catalog Number | 6632-3 |
+
+6632-3 CAT. NO. on spine & labels
 

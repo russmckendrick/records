@@ -1,14 +1,17 @@
 ---
 title: "Peter Gabriel - Scratch My Back"
-album_artist: "Peter Gabriel"
-album_title: "Scratch My Back"
+artist: "Peter Gabriel"
+album_name: "Scratch My Back"
 date: 2016-12-08
 release_id: "2290486"
 slug: "scratch-my-back-2290486"
+hideSummary: true
 cover:
     image: "scratch-my-back-2290486.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Scratch My Back by Peter Gabriel"
+    caption: "Scratch My Back by Peter Gabriel"
+genres: ["Rock", "Pop"]
+styles: ["Experimental", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Peter Gabriel - Heroes](https://www.youtube.com/watch?v=LsvuipGq2ns)
 - [Peter Gabriel covers Street Spirit (Fade Out)](https://www.youtube.com/watch?v=vhz6jqqOuw4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Peter Gabriel - Scratch My Back](https://www.discogs.com/release/2290486) |
+| Release Year   | 2010 |
+| Discogs Link   | [Peter Gabriel - Scratch My Back](https://www.discogs.com/release/2290486-Peter-Gabriel-Scratch-My-Back) |
 | Label          | Real World Records, Classic Records |
 | Format         | LP, Album, 200 |
 | Catalog Number | PGLP12, PG-12 |
+
+Issued on 200 gram vinyl in a deluxe gatefold jacket.  Classic Records reissue on 200 gram QUIEX SV-P.
 

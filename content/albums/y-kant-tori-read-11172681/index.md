@@ -1,14 +1,17 @@
 ---
 title: "Y Kant Tori Read - Y Kant Tori Read"
-album_artist: "Y Kant Tori Read"
-album_title: "Y Kant Tori Read"
+artist: "Y Kant Tori Read"
+album_name: "Y Kant Tori Read"
 date: 2017-12-07
 release_id: "11172681"
 slug: "y-kant-tori-read-11172681"
+hideSummary: true
 cover:
     image: "y-kant-tori-read-11172681.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Y Kant Tori Read by Y Kant Tori Read"
+    caption: "Y Kant Tori Read by Y Kant Tori Read"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Y Kant Tori Read - Floating City (Music Video)](https://www.youtube.com/watch?v=dk4kE7ZMMhU)
 - [Y Kant Tori Read - Cool On Your Island (Music Video)](https://www.youtube.com/watch?v=KSFpCrif26Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Y Kant Tori Read - Y Kant Tori Read](https://www.discogs.com/release/11172681) |
+| Release Year   | 2017 |
+| Discogs Link   | [Y Kant Tori Read - Y Kant Tori Read](https://www.discogs.com/release/11172681-Y-Kant-Tori-Read-Y-Kant-Tori-Read) |
 | Label          | Atlantic, Atlantic |
 | Format         | LP, Album, RSD, Ltd, RE, RM, Ora |
 | Catalog Number | 081227942410, R1 81845 |
+
+Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.  081227942410 on spine.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Coda Chamber Ensemble - Pink Floyd For Chamber Orchestra - Set The Controls"
-album_artist: "The Coda Chamber Ensemble"
-album_title: "Pink Floyd For Chamber Orchestra - Set The Controls"
+artist: "The Coda Chamber Ensemble"
+album_name: "Pink Floyd For Chamber Orchestra - Set The Controls"
 date: 2017-01-27
 release_id: "9668551"
 slug: "pink-floyd-for-chamber-orchestra-set-the-controls-9668551"
+hideSummary: true
 cover:
     image: "pink-floyd-for-chamber-orchestra-set-the-controls-9668551.jpg"
-tags: ["Classical"]
-hideSummary: true
+    alt: "Pink Floyd For Chamber Orchestra - Set The Controls by The Coda Chamber Ensemble"
+    caption: "Pink Floyd For Chamber Orchestra - Set The Controls by The Coda Chamber Ensemble"
+genres: ["Classical"]
+styles: null
 ---
 
 ## Tracklisting
@@ -17,16 +20,17 @@ hideSummary: true
 3. 3rd Movement - Division (15:11)
 4. 4th Movement - Reconstruction (11:24)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Coda Chamber Ensemble - Pink Floyd For Chamber Orchestra - Set The Controls](https://www.discogs.com/release/9668551) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Coda Chamber Ensemble - Pink Floyd For Chamber Orchestra - Set The Controls](https://www.discogs.com/release/9668551-The-Coda-Chamber-Ensemble-Pink-Floyd-For-Chamber-Orchestra-Set-The-Controls) |
 | Label          | Coda Publishing |
 | Format         | LP, Ltd, Unofficial, Gol |
 | Catalog Number | CPLVNYG224 |
+
+Limited to 500 copies.
 

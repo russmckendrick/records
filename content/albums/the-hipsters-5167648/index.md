@@ -1,14 +1,17 @@
 ---
 title: "Deacon Blue - The Hipsters"
-album_artist: "Deacon Blue"
-album_title: "The Hipsters"
+artist: "Deacon Blue"
+album_name: "The Hipsters"
 date: 2021-06-12
 release_id: "5167648"
 slug: "the-hipsters-5167648"
+hideSummary: true
 cover:
     image: "the-hipsters-5167648.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Hipsters by Deacon Blue"
+    caption: "The Hipsters by Deacon Blue"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. It Will End In Tears
 11. Is There No Way Back To You
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648) |
+| Release Year   | 2013 |
+| Discogs Link   | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648-Deacon-Blue-The-Hipsters) |
 | Label          | Demon Records |
 | Format         | LP, Album, Yel |
 | Catalog Number | DEACONLP001 |
+
+℗ & © 2012 Demon Music Group Ltd.  Includes code for free MP3 download of the album.
 

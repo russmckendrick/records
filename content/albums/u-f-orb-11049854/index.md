@@ -1,14 +1,17 @@
 ---
 title: "The Orb - U.F.Orb"
-album_artist: "The Orb"
-album_title: "U.F.Orb"
+artist: "The Orb"
+album_name: "U.F.Orb"
 date: 2020-04-25
 release_id: "11049854"
 slug: "u-f-orb-11049854"
+hideSummary: true
 cover:
     image: "u-f-orb-11049854.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "U.F.Orb by The Orb"
+    caption: "U.F.Orb by The Orb"
+genres: ["Electronic"]
+styles: ["Ambient", "Dub", "House"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Close Encounters](https://www.youtube.com/watch?v=J4-9ALbPQFo)
 - [Sticky End](https://www.youtube.com/watch?v=KwRA-_OBWYU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Orb - U.F.Orb](https://www.discogs.com/release/11049854) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Orb - U.F.Orb](https://www.discogs.com/release/11049854-The-Orb-UFOrb) |
 | Label          | Island Records, Island Records, UMC, UMC |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 00602557797831, 577 978-3 |
+
+℗ 1992 Island Records, a division of Universal Music Operations Limited © 1992 Island Records, a division of Universal Music Operations Limited Includes a download voucher.  Cat# on sticker: 577 978-3 Cat# on spine: 00602557797831  All tracks mixed at Matrix 4 Studio. A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music A2: Programmed at Butterfly. Published by Orb Music, Big Life Music B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music D: Programmed at Livingston. Published by Orb Music, Big Life Music D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music D: Published by Orb Music, Big Life Music
 

@@ -1,14 +1,17 @@
 ---
 title: "The Dears - Times Infinity Volume One"
-album_artist: "The Dears"
-album_title: "Times Infinity Volume One"
+artist: "The Dears"
+album_name: "Times Infinity Volume One"
 date: 2020-08-01
 release_id: "7543598"
 slug: "times-infinity-volume-one-7543598"
+hideSummary: true
 cover:
     image: "times-infinity-volume-one-7543598.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Times Infinity Volume One by The Dears"
+    caption: "Times Infinity Volume One by The Dears"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The Dears - You Can't Get Born Again (Official Audio)](https://www.youtube.com/watch?v=ClLQADLUZQc)
 - [Times Infinity 1](https://www.youtube.com/watch?v=hYs4_Lt1ff0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Dears - Times Infinity Volume One](https://www.discogs.com/release/7543598) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Dears - Times Infinity Volume One](https://www.discogs.com/release/7543598-The-Dears-Times-Infinity-Volume-One) |
 | Label          | Dangerbird Records, Not On Label (The Dears Self-released) |
 | Format         | LP, Album |
 | Catalog Number | DGB121-1, DE050003 |
+
+(c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026  Pressed By information is not listed. Information derived from runouts. 
 

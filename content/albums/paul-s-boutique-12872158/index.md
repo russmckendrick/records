@@ -1,14 +1,17 @@
 ---
 title: "Beastie Boys - Paul's Boutique"
-album_artist: "Beastie Boys"
-album_title: "Paul's Boutique"
+artist: "Beastie Boys"
+album_name: "Paul's Boutique"
 date: 2020-02-14
 release_id: "12872158"
 slug: "paul-s-boutique-12872158"
+hideSummary: true
 cover:
     image: "paul-s-boutique-12872158.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "Paul's Boutique by Beastie Boys"
+    caption: "Paul's Boutique by Beastie Boys"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Cut-up/DJ", "Hip Hop"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [B-Boy Bouillabaisse: Mike On The Mic](https://www.youtube.com/watch?v=tpSLyTwhjr8)
 - [B-Boy Bouillabaisse: A.W.O.L.](https://www.youtube.com/watch?v=oXvXcecHg_E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Beastie Boys - Paul's Boutique](https://www.discogs.com/release/12872158) |
+| Release Year   | 2018 |
+| Discogs Link   | [Beastie Boys - Paul's Boutique](https://www.discogs.com/release/12872158-Beastie-Boys-Pauls-Boutique) |
 | Label          | Capitol Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 00602577057847 |
+
+Remastered by Beastie Boys and Chris Athens at Sterling Sound, NYC
 

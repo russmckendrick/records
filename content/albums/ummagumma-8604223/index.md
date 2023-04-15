@@ -1,14 +1,17 @@
 ---
 title: "Pink Floyd - Ummagumma"
-album_artist: "Pink Floyd"
-album_title: "Ummagumma"
+artist: "Pink Floyd"
+album_name: "Ummagumma"
 date: 2016-06-03
 release_id: "8604223"
 slug: "ummagumma-8604223"
+hideSummary: true
 cover:
     image: "ummagumma-8604223.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ummagumma by Pink Floyd"
+    caption: "Ummagumma by Pink Floyd"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Pink Floyd - The Grand Vizier's Garden Party, Part II: Entertainment (Official Audio)](https://www.youtube.com/watch?v=WyFnoStywyM)
 - [The Grand Vizier's Garden Party (Exit) (2011 Remastered Version)](https://www.youtube.com/watch?v=-GEVsvVLCrE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pink Floyd - Ummagumma](https://www.discogs.com/release/8604223) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pink Floyd - Ummagumma](https://www.discogs.com/release/8604223-Pink-Floyd-Ummagumma) |
 | Label          | Pink Floyd Records, Pink Floyd Records |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | PFRLP4, 0825646493166 |
+
+The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1969 Made and printed in the E.U. www.pinkfloyd.com  Live album Recorded at Mothers Birmingham & Manchester College of Commerce, June 1969.  ℗ & © 2016 Pink Floyd Music Ltd.
 

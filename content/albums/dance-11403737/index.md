@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - Dance"
-album_artist: "Gary Numan"
-album_title: "Dance"
+artist: "Gary Numan"
+album_name: "Dance"
 date: 2018-01-19
 release_id: "11403737"
 slug: "dance-11403737"
+hideSummary: true
 cover:
     image: "dance-11403737.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Dance by Gary Numan"
+    caption: "Dance by Gary Numan"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [You Are, You Are](https://www.youtube.com/watch?v=SHeEfqbVLh0)
 - [Moral](https://www.youtube.com/watch?v=SilAUckYysk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gary Numan - Dance](https://www.discogs.com/release/11403737) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gary Numan - Dance](https://www.discogs.com/release/11403737-Gary-Numan-Dance) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Album, Ltd, RE, Pur |
 | Catalog Number | BBQLP 2146 |
+
+Keyboards used include Polymoog, Prophet 5, Roland JP4, CP30 and Odyssey.  Published by Numan Music USA LLC / Kobalt Music Publishing Ltd.  ℗ 1981 Beggars Banquet Records Ltd. © 2017 Beggars Banquet Records Ltd. 
 

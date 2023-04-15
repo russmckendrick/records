@@ -1,14 +1,17 @@
 ---
 title: "Heaven 17 - Penthouse And Pavement"
-album_artist: "Heaven 17"
-album_title: "Penthouse And Pavement"
+artist: "Heaven 17"
+album_name: "Penthouse And Pavement"
 date: 2018-06-13
 release_id: "9929529"
 slug: "penthouse-and-pavement-9929529"
+hideSummary: true
 cover:
     image: "penthouse-and-pavement-9929529.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Penthouse And Pavement by Heaven 17"
+    caption: "Penthouse And Pavement by Heaven 17"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)
 - [We're Going To Live For A Very Long Time (2006 Digital Remaster)](https://www.youtube.com/watch?v=77PYASbEsi8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Heaven 17 - Penthouse And Pavement](https://www.discogs.com/release/9929529) |
+| Release Year   | 2016 |
+| Discogs Link   | [Heaven 17 - Penthouse And Pavement](https://www.discogs.com/release/9929529-Heaven-17-Penthouse-And-Pavement) |
 | Label          | Virgin, Virgin |
 | Format         | LP, Album |
 | Catalog Number | 0602547941602, 4794160 |
+
+Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.  Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield.   B5 ends in a locked groove, hence no duration.  Includes 24Bit/44.1Khz WAV download coupon.   
 

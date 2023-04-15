@@ -1,14 +1,17 @@
 ---
 title: "Jane's Addiction - Sterling Spoon "
-album_artist: "Jane's Addiction"
-album_title: "Sterling Spoon "
+artist: "Jane's Addiction"
+album_name: "Sterling Spoon "
 date: 2016-12-27
 release_id: "9233585"
 slug: "sterling-spoon-9233585"
+hideSummary: true
 cover:
     image: "sterling-spoon-9233585.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sterling Spoon  by Jane's Addiction"
+    caption: "Sterling Spoon  by Jane's Addiction"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -76,13 +79,16 @@ hideSummary: true
 - [Been Caught Stealing (Studio Out-Take)](https://www.youtube.com/watch?v=lhWez4MO6DM)
 - [Slow Divers (Live)](https://www.youtube.com/watch?v=g89cx6BZ1bQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Jane's Addiction - Sterling Spoon ](https://www.discogs.com/release/9233585) |
+| Release Year   | 2016 |
+| Discogs Link   | [Jane's Addiction - Sterling Spoon ](https://www.discogs.com/release/9233585-Janes-Addiction-Sterling-Spoon-) |
 | Label          | Rhino Records (2) |
 | Format         | LP, Album, RE + 2xLP, Album, RE + LP, Album, RE +  |
 | Catalog Number | R1 556516 |
+
+Anniversary edition, limited to 5000 copies worldwide. Contains a [l873810] download coupon for a digital version of the release.  All albums are unsealed inside the outer packaging, with each disc is housed in a poly-lined white sleeve. "Nothing's Shocking" has an additional colour inner sleeve and "Ritual De Lo Habitual" has a colour insert.
 

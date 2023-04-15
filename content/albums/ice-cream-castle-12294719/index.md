@@ -1,14 +1,17 @@
 ---
 title: "The Time - Ice Cream Castle"
-album_artist: "The Time"
-album_title: "Ice Cream Castle"
+artist: "The Time"
+album_name: "Ice Cream Castle"
 date: 2018-07-28
 release_id: "12294719"
 slug: "ice-cream-castle-12294719"
+hideSummary: true
 cover:
     image: "ice-cream-castle-12294719.jpg"
-tags: ["Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Ice Cream Castle by The Time"
+    caption: "Ice Cream Castle by The Time"
+genres: ["Funk / Soul", "Pop"]
+styles: ["Funk", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [If the Kid Can't Make You Come](https://www.youtube.com/watch?v=sSYnYeqPbEg)
 - [The Bird](https://www.youtube.com/watch?v=hB0VT2OnFvM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719-The-Time-Ice-Cream-Castle) |
 | Label          | Warner Bros. Records, Warner Bros. Records |
 | Format         | LP, Album, Ltd, RE, Tri |
 | Catalog Number | RCV1-25109, 603497860715 |
+
+Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown.
 

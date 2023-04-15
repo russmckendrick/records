@@ -1,14 +1,17 @@
 ---
 title: "Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited"
-album_artist: "Mercury Rev"
-album_title: "Bobbie Gentry's The Delta Sweete Revisited"
+artist: "Mercury Rev"
+album_name: "Bobbie Gentry's The Delta Sweete Revisited"
 date: 2019-02-08
 release_id: "13179920"
 slug: "bobbie-gentry-s-the-delta-sweete-revisited-13179920"
+hideSummary: true
 cover:
     image: "bobbie-gentry-s-the-delta-sweete-revisited-13179920.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bobbie Gentry's The Delta Sweete Revisited by Mercury Rev"
+    caption: "Bobbie Gentry's The Delta Sweete Revisited by Mercury Rev"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Mercury Rev feat. Beth Orton - Courtyard (Official Audio)](https://www.youtube.com/watch?v=D94_Rm0jxQg)
 - [Mercury Rev feat. Lucinda Williams - Ode To Billie Joe  (Official Audio)](https://www.youtube.com/watch?v=poSjrHMcclo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited](https://www.discogs.com/release/13179920) |
+| Release Year   | 2019 |
+| Discogs Link   | [Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited](https://www.discogs.com/release/13179920-Mercury-Rev-Bobbie-Gentrys-The-Delta-Sweete-Revisited) |
 | Label          | Bella Union |
 | Format         | LP, Ltd, 180 |
 | Catalog Number | BELLA852V |
+
+Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe". On sticker: "Mercury Rev "This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke. Limited 180g Vinyl Includes Download" 
 

@@ -1,14 +1,17 @@
 ---
 title: "Curve - Doppelgänger"
-album_artist: "Curve"
-album_title: "Doppelgänger"
+artist: "Curve"
+album_name: "Doppelgänger"
 date: 2017-09-01
 release_id: "10770475"
 slug: "doppelgnger-10770475"
+hideSummary: true
 cover:
     image: "doppelgnger-10770475.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Doppelgänger by Curve"
+    caption: "Doppelgänger by Curve"
+genres: ["Rock"]
+styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
 - [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Curve - Doppelgänger](https://www.discogs.com/release/10770475) |
+| Release Year   | 2017 |
+| Discogs Link   | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelg%C3%A4nger) |
 | Label          | 3 Loop Music |
 | Format         | LP, Album, RE |
 | Catalog Number | 3RANGE-52LP |
+
+Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean.
 

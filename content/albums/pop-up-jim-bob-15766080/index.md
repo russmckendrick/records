@@ -1,14 +1,17 @@
 ---
 title: "Jim Bob (2) - Pop Up Jim Bob"
-album_artist: "Jim Bob (2)"
-album_title: "Pop Up Jim Bob"
+artist: "Jim Bob (2)"
+album_name: "Pop Up Jim Bob"
 date: 2020-08-15
 release_id: "15766080"
 slug: "pop-up-jim-bob-15766080"
+hideSummary: true
 cover:
     image: "pop-up-jim-bob-15766080.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Pop Up Jim Bob by Jim Bob (2)"
+    caption: "Pop Up Jim Bob by Jim Bob (2)"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
 - [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Jim Bob (2) - Pop Up Jim Bob](https://www.discogs.com/release/15766080) |
+| Release Year   | 2020 |
+| Discogs Link   | [Jim Bob (2) - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-Pop-Up-Jim-Bob) |
 | Label          | Cherry Red |
 | Format         | LP, Album, Ltd |
 | Catalog Number | BRED808 |
+
+Gatefold sleeve.  2021 Jim Bob Calendar included
 

@@ -1,14 +1,17 @@
 ---
 title: "Motörhead - Everything Louder Forever"
-album_artist: "Motörhead"
-album_title: "Everything Louder Forever"
+artist: "Motörhead"
+album_name: "Everything Louder Forever"
 date: 2022-05-05
 release_id: "20750134"
 slug: "everything-louder-forever-20750134"
+hideSummary: true
 cover:
     image: "everything-louder-forever-20750134.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Everything Louder Forever by Motörhead"
+    caption: "Everything Louder Forever by Motörhead"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -75,13 +78,16 @@ hideSummary: true
 - [Motörhead – The Chase Is Better Than The Catch (Official Video)](https://www.youtube.com/watch?v=PktB0bxo2oQ)
 - [Motörhead – Killed By Death (Official Video)](https://www.youtube.com/watch?v=LZ5fIKmn1ok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Motörhead - Everything Louder Forever](https://www.discogs.com/release/20750134) |
+| Release Year   | 2021 |
+| Discogs Link   | [Motörhead - Everything Louder Forever](https://www.discogs.com/release/20750134-Mot%C3%B6rhead-Everything-Louder-Forever) |
 | Label          | BMG, Murder One |
 | Format         | 4xLP, Comp |
 | Catalog Number | BMGCAT522QLP |
+
+4 LPs in a big three-folded cover in amplifier-style. 4 printed inner-sleeves with pictures and credits.  ℗ & © 2021 BMG Rights Management (UK) Limited Manufactured in France.  Nuclear Blast mailorder provide an exclusive DIN-A1 poster
 

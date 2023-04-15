@@ -1,14 +1,17 @@
 ---
 title: "Black Grape - It's Great When You're Straight...Yeah"
-album_artist: "Black Grape"
-album_title: "It's Great When You're Straight...Yeah"
+artist: "Black Grape"
+album_name: "It's Great When You're Straight...Yeah"
 date: 2016-11-09
 release_id: "9303682"
 slug: "it-s-great-when-you-re-straight-yeah-9303682"
+hideSummary: true
 cover:
     image: "it-s-great-when-you-re-straight-yeah-9303682.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "It's Great When You're Straight...Yeah by Black Grape"
+    caption: "It's Great When You're Straight...Yeah by Black Grape"
+genres: ["Electronic", "Rock", "Funk / Soul"]
+styles: ["Pop Rock", "Funk"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Black Grape - Kelly's Heroes (The Funeral Version)](https://www.youtube.com/watch?v=PSEkwEeRwKk)
 - [Black Grape, In The Name Of The Father, live on Later With Jools Holland](https://www.youtube.com/watch?v=kRwabWWv_D8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Black Grape - It's Great When You're Straight...Yeah](https://www.discogs.com/release/9303682) |
+| Release Year   | 2016 |
+| Discogs Link   | [Black Grape - It's Great When You're Straight...Yeah](https://www.discogs.com/release/9303682-Black-Grape-Its-Great-When-Youre-StraightYeah) |
 | Label          | Radioactive, Geffen Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 5373030 |
+
+Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London. A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069]. Contains a [l1052727] download coupon. Side B is labeled X on release.
 

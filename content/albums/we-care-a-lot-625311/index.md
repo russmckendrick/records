@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - We Care A Lot"
-album_artist: "Faith No More"
-album_title: "We Care A Lot"
+artist: "Faith No More"
+album_name: "We Care A Lot"
 date: 2015-08-09
 release_id: "625311"
 slug: "we-care-a-lot-625311"
+hideSummary: true
 cover:
     image: "we-care-a-lot-625311.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "We Care A Lot by Faith No More"
+    caption: "We Care A Lot by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [New Beginnings](https://www.youtube.com/watch?v=QuGYPgijH7Y)
 - [Faith No More - The Jungle Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311) |
+| Release Year   | 1985 |
+| Discogs Link   | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311-Faith-No-More-We-Care-A-Lot) |
 | Label          | Mordam Records |
 | Format         | LP, Album |
 | Catalog Number | MDR 1 |
+
+Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [the version](http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099) which had this distribution information printed directly onto the sleeve.  Recorded at: Prairie Sun Studios Cotati, CA Mastered at K Disc Mastering (Kdisc stamped into the runout area)  European license-pressing & distribution by: De Konkurrent ©&℗1985 Mordam Records  Includes an insert with additional artwork and lyrics.  K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout. 
 

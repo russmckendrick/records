@@ -1,14 +1,17 @@
 ---
 title: "Garbage - Garbage"
-album_artist: "Garbage"
-album_title: "Garbage"
+artist: "Garbage"
+album_name: "Garbage"
 date: 2021-08-20
 release_id: "19925866"
 slug: "garbage-19925866"
+hideSummary: true
 cover:
     image: "garbage-19925866.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Garbage by Garbage"
+    caption: "Garbage by Garbage"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -91,13 +94,16 @@ hideSummary: true
 - [Queer (Rabbit in the Moon - Hefty Bag Mix) (2015 - Remaster)](https://www.youtube.com/watch?v=dm1coTvjF6k)
 - [Stupid Girl (Todd Terry - Tee's Freeze Club) (2015 - Remaster)](https://www.youtube.com/watch?v=UqBo4-XDh-A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Garbage - Garbage](https://www.discogs.com/release/19925866) |
+| Release Year   | 2021 |
+| Discogs Link   | [Garbage - Garbage](https://www.discogs.com/release/19925866-Garbage-Garbage) |
 | Label          | BMG, Stun Volume |
 | Format         | 2xLP, RE, RM, Gat |
 | Catalog Number | BMGCAT514DLP |
+
+The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.
 

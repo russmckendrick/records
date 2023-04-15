@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - A Broken Frame"
-album_artist: "Depeche Mode"
-album_title: "A Broken Frame"
+artist: "Depeche Mode"
+album_name: "A Broken Frame"
 date: 2017-02-20
 release_id: "8970950"
 slug: "a-broken-frame-8970950"
+hideSummary: true
 cover:
     image: "a-broken-frame-8970950.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "A Broken Frame by Depeche Mode"
+    caption: "A Broken Frame by Depeche Mode"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Shouldn't Have Done That](https://www.youtube.com/watch?v=mZeK1bawOY8)
 - [The Sun and the Rainfall](https://www.youtube.com/watch?v=gHEK_mCyzbU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Depeche Mode - A Broken Frame](https://www.discogs.com/release/8970950) |
+| Release Year   | 2016 |
+| Discogs Link   | [Depeche Mode - A Broken Frame](https://www.discogs.com/release/8970950-Depeche-Mode-A-Broken-Frame) |
 | Label          | Mute, Sony Music, Legacy |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | STUMM9, 88985329931 |
+
+Made in the EU
 

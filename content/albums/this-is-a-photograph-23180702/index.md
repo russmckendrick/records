@@ -1,14 +1,17 @@
 ---
 title: "Kevin Morby - This Is A Photograph"
-album_artist: "Kevin Morby"
-album_title: "This Is A Photograph"
+artist: "Kevin Morby"
+album_name: "This Is A Photograph"
 date: 2022-05-17
 release_id: "23180702"
 slug: "this-is-a-photograph-23180702"
+hideSummary: true
 cover:
     image: "this-is-a-photograph-23180702.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "This Is A Photograph by Kevin Morby"
+    caption: "This Is A Photograph by Kevin Morby"
+genres: ["Rock", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Kevin Morby - Rock Bottom (Official Video)](https://www.youtube.com/watch?v=xRd4OjaDE4k)
 - [It's Over](https://www.youtube.com/watch?v=2LjQDJuu63w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Kevin Morby - This Is A Photograph](https://www.discogs.com/release/23180702) |
+| Release Year   | 2022 |
+| Discogs Link   | [Kevin Morby - This Is A Photograph](https://www.discogs.com/release/23180702-Kevin-Morby-This-Is-A-Photograph) |
 | Label          | Dead Oceans |
 | Format         | LP, Album, Ltd, Gol |
 | Catalog Number | DOC316 |
+
+Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code. Rear sticker: Made In Canada  A small amount of autographed copies were made available through Newbury Comics.  © & ℗ 2022 Dead Oceans, Inc.  Engineering [...] at Slow Fawn in Accord, NY Additional Recording [...] at Sam Phillips Recording in Memphis, TN Additional Engineering [...] in New York, NY Mixed and Mastered [...] at Isokon in Kingston, NY
 

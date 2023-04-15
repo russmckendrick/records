@@ -1,14 +1,17 @@
 ---
 title: "Oasis (2) - Be Here Now"
-album_artist: "Oasis (2)"
-album_title: "Be Here Now"
+artist: "Oasis (2)"
+album_name: "Be Here Now"
 date: 2022-08-21
 release_id: "24236507"
 slug: "be-here-now-24236507"
+hideSummary: true
 cover:
     image: "be-here-now-24236507.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Be Here Now by Oasis (2)"
+    caption: "Be Here Now by Oasis (2)"
+genres: ["Rock"]
+styles: ["Britpop", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="vn-X88PgIaU" title="Be Here Now" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Oasis (2) - Be Here Now](https://www.discogs.com/release/24236507) |
+| Release Year   | 2022 |
+| Discogs Link   | [Oasis (2) - Be Here Now](https://www.discogs.com/release/24236507-Oasis-Be-Here-Now) |
 | Label          | Big Brother |
 | Format         | 2xLP, Album, Ltd, RE, RM, Sil |
 | Catalog Number | RKIDLP85C |
+
+Gatefold sleeve on matte cardboard finish.
 

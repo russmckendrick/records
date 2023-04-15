@@ -1,14 +1,17 @@
 ---
 title: "Iron Maiden - Fear Of The Dark"
-album_artist: "Iron Maiden"
-album_title: "Fear Of The Dark"
+artist: "Iron Maiden"
+album_name: "Fear Of The Dark"
 date: 2017-06-10
 release_id: "10315981"
 slug: "fear-of-the-dark-10315981"
+hideSummary: true
 cover:
     image: "fear-of-the-dark-10315981.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fear Of The Dark by Iron Maiden"
+    caption: "Fear Of The Dark by Iron Maiden"
+genres: ["Rock"]
+styles: ["Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Weekend Warrior
 12. Fear Of The Dark
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Iron Maiden - Fear Of The Dark](https://www.discogs.com/release/10315981) |
+| Release Year   | 2017 |
+| Discogs Link   | [Iron Maiden - Fear Of The Dark](https://www.discogs.com/release/10315981-Iron-Maiden-Fear-Of-The-Dark) |
 | Label          | Parlophone |
 | Format         | 2xLP, Album, RE, RM, Gat |
 | Catalog Number | 0190295852344 |
+
+180 Gram Black Vinyl Original Album Art And High Res Audio Remasters  The remasters are the 2015 digital remasters  Recorded and Mixed at Barnyard Studios, Essex, England  Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.  This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Discs are in black inner sleeves.
 

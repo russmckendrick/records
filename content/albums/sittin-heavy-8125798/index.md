@@ -1,14 +1,17 @@
 ---
 title: "Monster Truck (2) - Sittin' Heavy"
-album_artist: "Monster Truck (2)"
-album_title: "Sittin' Heavy"
+artist: "Monster Truck (2)"
+album_name: "Sittin' Heavy"
 date: 2016-09-01
 release_id: "8125798"
 slug: "sittin-heavy-8125798"
+hideSummary: true
 cover:
     image: "sittin-heavy-8125798.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sittin' Heavy by Monster Truck (2)"
+    caption: "Sittin' Heavy by Monster Truck (2)"
+genres: ["Rock"]
+styles: ["Blues Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Monster Truck - She's A Witch (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=jFY4GpASXzY)
 - [Monster Truck - Things Get Better (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=ycfrP0b-YQc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Monster Truck (2) - Sittin' Heavy](https://www.discogs.com/release/8125798) |
+| Release Year   | 2016 |
+| Discogs Link   | [Monster Truck (2) - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-Sittin-Heavy) |
 | Label          | Mascot Records (2) |
 | Format         | LP, Red + LP, S/Sided, Etch, Red + Album |
 | Catalog Number | M74851 |
+
+Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics.
 

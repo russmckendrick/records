@@ -1,14 +1,17 @@
 ---
 title: "Glen Campbell - Arkansas"
-album_artist: "Glen Campbell"
-album_title: "Arkansas"
+artist: "Glen Campbell"
+album_name: "Arkansas"
 date: 2020-08-02
 release_id: "4438611"
 slug: "arkansas-4438611"
+hideSummary: true
 cover:
     image: "arkansas-4438611.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Arkansas by Glen Campbell"
+    caption: "Arkansas by Glen Campbell"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="eccolhz6Jnc" title="Glen Campbell - Arkansas" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Glen Campbell - Arkansas](https://www.discogs.com/release/4438611) |
+| Release Year   | 1975 |
+| Discogs Link   | [Glen Campbell - Arkansas](https://www.discogs.com/release/4438611-Glen-Campbell-Arkansas) |
 | Label          | Capitol Records |
 | Format         | LP, Comp |
 | Catalog Number | VMP 1001 |
+
+Stereo 7510 T. M. Garrod & Lofthouse Ltd
 

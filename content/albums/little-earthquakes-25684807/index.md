@@ -1,14 +1,17 @@
 ---
 title: "Tori Amos - Little Earthquakes"
-album_artist: "Tori Amos"
-album_title: "Little Earthquakes"
+artist: "Tori Amos"
+album_name: "Little Earthquakes"
 date: 2023-01-07
 release_id: "25684807"
 slug: "little-earthquakes-25684807"
+hideSummary: true
 cover:
     image: "little-earthquakes-25684807.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Little Earthquakes by Tori Amos"
+    caption: "Little Earthquakes by Tori Amos"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Acoustic"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Tori Amos - Winter (Official Music Video)](https://www.youtube.com/watch?v=_PDlGUdDF8Y)
 - [Tori Amos - Crucify [Music Video]](https://www.youtube.com/watch?v=q8ljHOSqc4A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/25684807) |
+| Release Year   | 2023 |
+| Discogs Link   | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/25684807-Tori-Amos-Little-Earthquakes) |
 | Label          | Atlantic, Atlantic, Atlantic, Atlantic |
 | Format         | 2xLP, Album, RE, RM, S/Edition, Gre |
 | Catalog Number | R1 82358, RCV1 82358, 603497839049, 081227884253 |
+
+Double Vinyl  Barnes & Noble Exclusive Cola-Bottle Clear Vinyl Debut solo album.   Release produced by Tori Amos Audio Supervision Mark Hawley Remastered in 2022 by Jon Astley for Close to the Edge Half-Speed master cut at Abbey Road Studio, London by Miles Showell  1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker.
 

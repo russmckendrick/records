@@ -1,14 +1,17 @@
 ---
 title: "Church Of The Cosmic Skull - Is Satan Real?"
-album_artist: "Church Of The Cosmic Skull"
-album_title: "Is Satan Real?"
+artist: "Church Of The Cosmic Skull"
+album_name: "Is Satan Real?"
 date: 2018-02-23
 release_id: "10504683"
 slug: "is-satan-real-10504683"
+hideSummary: true
 cover:
     image: "is-satan-real-10504683.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Is Satan Real? by Church Of The Cosmic Skull"
+    caption: "Is Satan Real? by Church Of The Cosmic Skull"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Church of the Cosmic Skull - Watch it Grow (Official Audio)](https://www.youtube.com/watch?v=S_87QEtsXYA)
 - [Church of the Cosmic Skull - Evil in your Eye (Official Audio)](https://www.youtube.com/watch?v=f5_w2ovow84)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Church Of The Cosmic Skull - Is Satan Real?](https://www.discogs.com/release/10504683) |
+| Release Year   | 2017 |
+| Discogs Link   | [Church Of The Cosmic Skull - Is Satan Real?](https://www.discogs.com/release/10504683-Church-Of-The-Cosmic-Skull-Is-Satan-Real) |
 | Label          | Bilocation Records |
 | Format         | LP, Album, RP, Cle |
 | Catalog Number | BILOCATION 44 |
+
+Second pressing with different cover artwork. Limited to 500 copies on 180gr. CLEAR VINYL. 
 

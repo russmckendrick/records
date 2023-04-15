@@ -1,14 +1,17 @@
 ---
 title: "Jellyfish (2) - Bellybutton"
-album_artist: "Jellyfish (2)"
-album_title: "Bellybutton"
+artist: "Jellyfish (2)"
+album_name: "Bellybutton"
 date: 2016-02-11
 release_id: "1839629"
 slug: "bellybutton-1839629"
+hideSummary: true
 cover:
     image: "bellybutton-1839629.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bellybutton by Jellyfish (2)"
+    caption: "Bellybutton by Jellyfish (2)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Power Pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Baby's Coming Back](https://www.youtube.com/watch?v=VCk8jfgVAac)
 - [Calling Sarah](https://www.youtube.com/watch?v=NkY_5GttIqs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Jellyfish (2) - Bellybutton](https://www.discogs.com/release/1839629) |
+| Release Year   | 1991 |
+| Discogs Link   | [Jellyfish (2) - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-Bellybutton) |
 | Label          | Charisma, Charisma |
 | Format         | LP, Album |
 | Catalog Number | CUSLP3, 211 085 |
+
+This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].  In gloss finish sleeve with b/w printed inner bag.  Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release.
 

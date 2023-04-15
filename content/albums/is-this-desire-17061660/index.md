@@ -1,14 +1,17 @@
 ---
 title: "PJ Harvey - Is This Desire?"
-album_artist: "PJ Harvey"
-album_title: "Is This Desire?"
+artist: "PJ Harvey"
+album_name: "Is This Desire?"
 date: 2021-01-29
 release_id: "17061660"
 slug: "is-this-desire-17061660"
+hideSummary: true
 cover:
     image: "is-this-desire-17061660.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Is This Desire? by PJ Harvey"
+    caption: "Is This Desire? by PJ Harvey"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [The River](https://www.youtube.com/watch?v=6g1nCs_9HCk)
 - [Catherine](https://www.youtube.com/watch?v=PbAKMz-Lv7E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [PJ Harvey - Is This Desire?](https://www.discogs.com/release/17061660) |
+| Release Year   | 2021 |
+| Discogs Link   | [PJ Harvey - Is This Desire?](https://www.discogs.com/release/17061660-P-J-Harvey-Is-This-Desire) |
 | Label          | Island Records, Island Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0898528, 00602508985287 |
+
+Some copies include a hype sticker and download card.  Hype sticker with catalog # 0898528:  Re-issue of the original 1998 album Is This Desire?, featuring the singles A Perfect Day Elise and The Wind  Pressed on 180gsm vinyl  Includes download card  Includes a printed inner sleeve with lyrics, credits and artwork.  An Island Records Release. ℗1998 Universal Music Operations Ltd. ©1998 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Recorded at Small World Studios, Yeovil and Whitfield Street Studios, London, April '97 - April '98 Mixed at Whitfield Street  Vinyl cutting [...] at Loud  Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP) except track A3 Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP) / Warner-Tamerlane Publishing Corp (BMI) 'The Wind' contains portions of 'Planet Of The Apes' (J. Goldsmith) Warner-Tamerlane Publishing Corp (BMI)  First catalog # (0898528) on jacket spine, back, side B label, inner sleeve. Second catalog # (00602508985287) on jacket back, side B label.  Runouts are etched, Optimal plating symbols are mirrored.  Track durations not printed on release.
 

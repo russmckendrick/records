@@ -1,14 +1,17 @@
 ---
 title: "Ned's Atomic Dustbin - Happy"
-album_artist: "Ned's Atomic Dustbin"
-album_title: "Happy"
+artist: "Ned's Atomic Dustbin"
+album_name: "Happy"
 date: 2018-02-15
 release_id: "822771"
 slug: "happy-822771"
+hideSummary: true
 cover:
     image: "happy-822771.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Happy by Ned's Atomic Dustbin"
+    caption: "Happy by Ned's Atomic Dustbin"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Neds Atomic Dustbin Happy Stourbridge 2007](https://www.youtube.com/watch?v=GcrHOAooRIA)
 - [Ned's Atomic Dustbin - Talk Me Down](https://www.youtube.com/watch?v=MTvKNmdK97E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Ned's Atomic Dustbin - Happy](https://www.discogs.com/release/822771) |
+| Release Year   | 1991 |
+| Discogs Link   | [Ned's Atomic Dustbin - Happy](https://www.discogs.com/release/822771-Neds-Atomic-Dustbin-Happy) |
 | Label          | Sony Soho Square |
 | Format         | 12\", Single |
 | Catalog Number | 656680 6 |
+
+
 

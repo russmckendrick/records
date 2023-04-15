@@ -1,14 +1,17 @@
 ---
 title: "Nick Cave & The Bad Seeds - Ghosteen"
-album_artist: "Nick Cave & The Bad Seeds"
-album_title: "Ghosteen"
+artist: "Nick Cave & The Bad Seeds"
+album_name: "Ghosteen"
 date: 2019-12-25
 release_id: "14345514"
 slug: "ghosteen-14345514"
+hideSummary: true
 cover:
     image: "ghosteen-14345514.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Ghosteen by Nick Cave & The Bad Seeds"
+    caption: "Ghosteen by Nick Cave & The Bad Seeds"
+genres: ["Electronic"]
+styles: ["Ambient"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Nick Cave and The Bad Seeds - Fireflies (Lyric Video)](https://www.youtube.com/watch?v=PDm1w067hdU)
 - [Nick Cave and The Bad Seeds - Hollywood (Lyric Video)](https://www.youtube.com/watch?v=MfDx09Ko8G4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Nick Cave & The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514) |
+| Release Year   | 2019 |
+| Discogs Link   | [Nick Cave & The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |
 | Label          | Ghosteen Ltd, Ghosteen Ltd |
 | Format         | 2xLP, Album |
 | Catalog Number | BS016LP, 5056167114796 |
+
+Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed at Conway, Los Angeles  Published by Kobalt Music Group Ltd  This record is dedicated to [a259149]  ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU    [Album download](https://www.discogs.com/release/14570498) code included. Packaged in a gatefold sleeve with poly-lined inner sleeves printed with lyrics.  The BS016LP catalog number follows the [l501701] label format.
 

@@ -1,14 +1,17 @@
 ---
 title: "...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories"
-album_artist: "...And You Will Know Us By The Trail Of Dead"
-album_title: "X: The Godless Void And Other Stories"
+artist: "...And You Will Know Us By The Trail Of Dead"
+album_name: "X: The Godless Void And Other Stories"
 date: 2020-01-22
 release_id: "14672615"
 slug: "x-the-godless-void-and-other-stories-14672615"
+hideSummary: true
 cover:
     image: "x-the-godless-void-and-other-stories-14672615.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "X: The Godless Void And Other Stories by ...And You Will Know Us By The Trail Of Dead"
+    caption: "X: The Godless Void And Other Stories by ...And You Will Know Us By The Trail Of Dead"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [All Who Wander](https://www.youtube.com/watch?v=Ct8qSO_0PVo)
 - [Blade of Wind](https://www.youtube.com/watch?v=jzy07GNDUO0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories](https://www.discogs.com/release/14672615) |
+| Release Year   | 2020 |
+| Discogs Link   | [...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories](https://www.discogs.com/release/14672615-And-You-Will-Know-Us-By-The-Trail-Of-Dead-X-The-Godless-Void-And-Other-Stories) |
 | Label          | Inside Out Music, Sony Music, Richter Scale |
 | Format         | LP, Album, Cle + CD, Album + Ltd |
 | Catalog Number | IOMLP 533, 19075966841 |
+
+Limited clear vinyl edition. Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics. 180g vinyl. Made in the EU.
 

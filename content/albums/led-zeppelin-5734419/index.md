@@ -1,14 +1,17 @@
 ---
 title: "Led Zeppelin - Led Zeppelin"
-album_artist: "Led Zeppelin"
-album_title: "Led Zeppelin"
+artist: "Led Zeppelin"
+album_name: "Led Zeppelin"
 date: 2017-02-26
 release_id: "5734419"
 slug: "led-zeppelin-5734419"
+hideSummary: true
 cover:
     image: "led-zeppelin-5734419.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Led Zeppelin by Led Zeppelin"
+    caption: "Led Zeppelin by Led Zeppelin"
+genres: ["Rock"]
+styles: ["Blues Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="KqF3J8DpEb4" title="Led Zeppelin - Communication Breakdown (Live at Royal Albert Hall 1970)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Led Zeppelin - Led Zeppelin](https://www.discogs.com/release/5734419) |
+| Release Year   | 2014 |
+| Discogs Link   | [Led Zeppelin - Led Zeppelin](https://www.discogs.com/release/5734419-Led-Zeppelin-Led-Zeppelin) |
 | Label          | Atlantic, Atlantic |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 8122796641, 8122-79664-1 |
+
+Front cover has sticker with barcode and following text:  The Classic 1969 Debut Album on 180g Vinyl Includes Good Times Bad Times & Dazed And Confused Remastered by Jimmy Page   Back cover: © 1969 Atlantic Recording Corporation, a Warner Music Group Company. Manufactured & Marketed by Warner Music Group. Made in the EU.  Labels: © 1969 Atlantic Recording Corporation. ℗ 2013 Atlantic Recording Corporation. Manufactured in Germany.  All selections administered by WB Music Corp. (ASCAP) except as indicated: A2 by Songs Of Polygram International Inc. (BMI) / WB Music Corp. ASCAP A3 by Arc Music / Hoochie Coochie Music BMI B4 by Hoochie Coochie Music BMI
 

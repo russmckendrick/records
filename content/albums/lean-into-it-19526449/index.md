@@ -1,14 +1,17 @@
 ---
 title: "Mr. Big - Lean Into It"
-album_artist: "Mr. Big"
-album_title: "Lean Into It"
+artist: "Mr. Big"
+album_name: "Lean Into It"
 date: 2021-07-22
 release_id: "19526449"
 slug: "lean-into-it-19526449"
+hideSummary: true
 cover:
     image: "lean-into-it-19526449.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lean Into It by Mr. Big"
+    caption: "Lean Into It by Mr. Big"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)](https://www.youtube.com/watch?v=46BCpSJKIjw)
 - [Mr. Big - Just Take My Heart (MV)](https://www.youtube.com/watch?v=AyYoc5JGY7c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Mr. Big - Lean Into It](https://www.discogs.com/release/19526449) |
+| Release Year   | 2021 |
+| Discogs Link   | [Mr. Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |
 | Label          | Evoxs |
 | Format         | LP, Album, Ltd, Num, RE, Whi |
 | Catalog Number | EVLP036 |
+
+Delayed RSD 2021 reissue.  Released as an import in Australia on RSD 2021 drop 2, July 17th. Official source: [Australia RSD release lists for drop 2](https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/) May have been released in other regions (unconfirmed official sources)
 

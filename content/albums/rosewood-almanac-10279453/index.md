@@ -1,14 +1,17 @@
 ---
 title: "Will Stratton - Rosewood Almanac"
-album_artist: "Will Stratton"
-album_title: "Rosewood Almanac"
+artist: "Will Stratton"
+album_name: "Rosewood Almanac"
 date: 2017-05-16
 release_id: "10279453"
 slug: "rosewood-almanac-10279453"
+hideSummary: true
 cover:
     image: "rosewood-almanac-10279453.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Rosewood Almanac by Will Stratton"
+    caption: "Rosewood Almanac by Will Stratton"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}
 - [Will Stratton - Light blue](https://www.youtube.com/watch?v=FbgqMEmDroE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Will Stratton - Rosewood Almanac](https://www.discogs.com/release/10279453) |
+| Release Year   | 2017 |
+| Discogs Link   | [Will Stratton - Rosewood Almanac](https://www.discogs.com/release/10279453-Will-Stratton-Rosewood-Almanac) |
 | Label          | Bella Union |
 | Format         | LP, Album |
 | Catalog Number | BELLA616V |
+
+Includes download card and printed inner sleeve with lyrics and credits.
 

@@ -1,14 +1,17 @@
 ---
 title: "WPC - Cotillions"
-album_artist: "WPC"
-album_title: "Cotillions"
+artist: "WPC"
+album_name: "Cotillions"
 date: 2020-02-14
 release_id: "14734860"
 slug: "cotillions-14734860"
+hideSummary: true
 cover:
     image: "cotillions-14734860.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Cotillions by WPC"
+    caption: "Cotillions by WPC"
+genres: ["Folk, World, & Country"]
+styles: ["Bluegrass"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="lHKIJoDB0zQ" title="Cotillions" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [WPC - Cotillions](https://www.discogs.com/release/14734860) |
+| Release Year   | 2020 |
+| Discogs Link   | [WPC - Cotillions](https://www.discogs.com/release/14734860-William-Patrick-Corgan-Cotillions) |
 | Label          | Martha's Music |
 | Format         | 2xLP, Album, Smo |
 | Catalog Number | MM001WPC |
+
+
 

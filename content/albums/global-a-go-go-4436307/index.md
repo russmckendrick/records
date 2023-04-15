@@ -1,14 +1,17 @@
 ---
 title: "Joe Strummer & The Mescaleros - Global A Go-Go"
-album_artist: "Joe Strummer & The Mescaleros"
-album_title: "Global A Go-Go"
+artist: "Joe Strummer & The Mescaleros"
+album_name: "Global A Go-Go"
 date: 2017-12-23
 release_id: "4436307"
 slug: "global-a-go-go-4436307"
+hideSummary: true
 cover:
     image: "global-a-go-go-4436307.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Global A Go-Go by Joe Strummer & The Mescaleros"
+    caption: "Global A Go-Go by Joe Strummer & The Mescaleros"
+genres: ["Rock", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Joe Strummer & The Mescaleros ‎– Global A Go-Go](https://www.youtube.com/watch?v=EJktmPyX4L8)
 - [Joe Strummer & The Mescaleros ‎– Johnny Appleseed](https://www.youtube.com/watch?v=xU2WdDnLhTM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307) |
+| Release Year   | 2012 |
+| Discogs Link   | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |
 | Label          | Hellcat Records |
 | Format         | 2xLP, Album, RE + CD, Album, RM |
 | Catalog Number | 80440-1 |
+
+
 

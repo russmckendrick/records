@@ -1,14 +1,17 @@
 ---
 title: "Dhani Harrison - In///Parallel"
-album_artist: "Dhani Harrison"
-album_title: "In///Parallel"
+artist: "Dhani Harrison"
+album_name: "In///Parallel"
 date: 2017-12-09
 release_id: "11027074"
 slug: "in-parallel-11027074"
+hideSummary: true
 cover:
     image: "in-parallel-11027074.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "In///Parallel by Dhani Harrison"
+    caption: "In///Parallel by Dhani Harrison"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}
 - [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Dhani Harrison - In///Parallel](https://www.discogs.com/release/11027074) |
+| Release Year   | 2017 |
+| Discogs Link   | [Dhani Harrison - In///Parallel](https://www.discogs.com/release/11027074-Dhani-Harrison-InParallel) |
 | Label          | BMG, HOT Records Ltd. |
 | Format         | 2xLP, Album, Ltd, 180 |
 | Catalog Number | 538317510 |
+
+Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.
 

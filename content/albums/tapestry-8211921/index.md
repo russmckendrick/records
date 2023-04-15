@@ -1,14 +1,17 @@
 ---
 title: "Carole King - Tapestry"
-album_artist: "Carole King"
-album_title: "Tapestry"
+artist: "Carole King"
+album_name: "Tapestry"
 date: 2017-03-08
 release_id: "8211921"
 slug: "tapestry-8211921"
+hideSummary: true
 cover:
     image: "tapestry-8211921.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Tapestry by Carole King"
+    caption: "Tapestry by Carole King"
+genres: ["Rock", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Tapestry](https://www.youtube.com/watch?v=JM07lUytXA0)
 - [Carole King - (You Make Me Feel Like) A Natural Woman (Official Audio)](https://www.youtube.com/watch?v=KQXY8zwQgmc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Carole King - Tapestry](https://www.discogs.com/release/8211921) |
+| Release Year   | 2016 |
+| Discogs Link   | [Carole King - Tapestry](https://www.discogs.com/release/8211921-Carole-King-Tapestry) |
 | Label          | Ode Records (2), Epic, Legacy, Sony Music |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88875170161 |
+
+Gatefold sleeve. Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM
 

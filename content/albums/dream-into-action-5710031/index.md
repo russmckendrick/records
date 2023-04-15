@@ -1,14 +1,17 @@
 ---
 title: "Howard Jones - Dream Into Action"
-album_artist: "Howard Jones"
-album_title: "Dream Into Action"
+artist: "Howard Jones"
+album_name: "Dream Into Action"
 date: 2018-11-29
 release_id: "5710031"
 slug: "dream-into-action-5710031"
+hideSummary: true
 cover:
     image: "dream-into-action-5710031.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Dream Into Action by Howard Jones"
+    caption: "Dream Into Action by Howard Jones"
+genres: ["Electronic", "Pop"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Hunger for the Flesh [2018 Remaster]](https://www.youtube.com/watch?v=SMdZKJD_atc)
 - [Howard Jones - Things Can Only Get Better (Remastered Video) (1985)](https://www.youtube.com/watch?v=woWvClE6yHE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Howard Jones - Dream Into Action](https://www.discogs.com/release/5710031) |
+| Release Year   | 1985 |
+| Discogs Link   | [Howard Jones - Dream Into Action](https://www.discogs.com/release/5710031-Howard-Jones-Dream-Into-Action) |
 | Label          | WEA, WEA |
 | Format         | LP, Album |
 | Catalog Number | WX 15, 240 632-1 |
+
+Inner sleeve: lyrics, credits, artwork Some copies may have a sticker about contents on the sleeve front (see images).  LP was reissued in 1986, [r=1844744], with the single version of "No One Is To Blame" replacing the original album version. Catalogue numbers for both versions are identical.  ℗ & © 1985 WEA Records Ltd Manufactured in Germany by Record Service GmbH, Alsdorf.  UK only issue with no rights society credits on the labels.  
 

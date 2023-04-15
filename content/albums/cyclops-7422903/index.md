@@ -1,14 +1,17 @@
 ---
 title: "King Crimson - Cyclops"
-album_artist: "King Crimson"
-album_title: "Cyclops"
+artist: "King Crimson"
+album_name: "Cyclops"
 date: 2015-09-15
 release_id: "7422903"
 slug: "cyclops-7422903"
+hideSummary: true
 cover:
     image: "cyclops-7422903.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cyclops by King Crimson"
+    caption: "Cyclops by King Crimson"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -16,16 +19,17 @@ hideSummary: true
 2. Light Of Day
 3. Hellhounds Of Krim
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [King Crimson - Cyclops](https://www.discogs.com/release/7422903) |
+| Release Year   | 2015 |
+| Discogs Link   | [King Crimson - Cyclops](https://www.discogs.com/release/7422903-King-Crimson-Cyclops) |
 | Label          | Panegyric, Discipline Global Mobile |
 | Format         | 12\", EP, Ltd, Pic |
 | Catalog Number | DGMP121 |
+
+Track A: recorded live at the Warfield Theatre, San Francisco, October 4th, 2014. Track B1: recorded live at the Moore Theatre, Seattle, October 6th, 2014. Track B2: recorded live at the Orpheum Theatre, Los Angeles, September 30th, 2014.
 

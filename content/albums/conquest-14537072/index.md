@@ -1,14 +1,17 @@
 ---
 title: "Mix Master Mike - Conquest"
-album_artist: "Mix Master Mike"
-album_title: "Conquest"
+artist: "Mix Master Mike"
+album_name: "Conquest"
 date: 2019-12-30
 release_id: "14537072"
 slug: "conquest-14537072"
+hideSummary: true
 cover:
     image: "conquest-14537072.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Conquest by Mix Master Mike"
+    caption: "Conquest by Mix Master Mike"
+genres: ["Hip Hop"]
+styles: ["Cut-up/DJ", "Turntablism"]
 ---
 
 ## Tracklisting
@@ -58,13 +61,16 @@ hideSummary: true
 {{< youtube id="uxVfxVVk6yM" title="DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)" >}}
 - [Mix Master Mike - Mixmasterpiece: Muzik's Worst Nightmare (1996) - Side A](https://www.youtube.com/watch?v=PtH9zgYXpP4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Mix Master Mike - Conquest](https://www.discogs.com/release/14537072) |
+| Release Year   | 2019 |
+| Discogs Link   | [Mix Master Mike - Conquest](https://www.discogs.com/release/14537072-Mix-Master-Mike-Conquest) |
 | Label          | Copeland Entertainment, Fifteen3rd, Rough Trade |
 | Format         | LP, Red + CD, Promo |
 | Catalog Number | MMMCONQUEST1 |
+
+Limited to 1,000 copies worldwide.  Rough Trade album of the month December 2019.  Includes a full length bonus mix CD, mixing the whole album into one continuous mix (which also features an unreleased jam featuring MCA) packaged in it's own card sleeve.  Timings not listed.
 

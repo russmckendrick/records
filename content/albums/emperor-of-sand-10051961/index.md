@@ -1,14 +1,17 @@
 ---
 title: "Mastodon - Emperor Of Sand"
-album_artist: "Mastodon"
-album_title: "Emperor Of Sand"
+artist: "Mastodon"
+album_name: "Emperor Of Sand"
 date: 2017-04-02
 release_id: "10051961"
 slug: "emperor-of-sand-10051961"
+hideSummary: true
 cover:
     image: "emperor-of-sand-10051961.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Emperor Of Sand by Mastodon"
+    caption: "Emperor Of Sand by Mastodon"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Sludge Metal"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Mastodon - Andromeda [Official Audio]](https://www.youtube.com/watch?v=8Ry7FStwey4)
 - [Mastodon - Show Yourself [Official Music Video]](https://www.youtube.com/watch?v=gUGda7GdZPQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Mastodon - Emperor Of Sand](https://www.discogs.com/release/10051961) |
+| Release Year   | 2017 |
+| Discogs Link   | [Mastodon - Emperor Of Sand](https://www.discogs.com/release/10051961-Mastodon-Emperor-Of-Sand) |
 | Label          | Reprise Records, Reprise Records, Reprise Records |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | 9362-49140-5, 558742-1, 1-558742 |
+
+180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.  1st catalog number on spine. 2nd catalog number on side A & C labels. 3rd catalog number on runout grooves.  All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.  Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA. Mixed at Henson Recording Studios, Hollywood, CA. Mastered at Casa de Amor, Atlanta, GA.  Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.  Printed on back cover: © ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.  Printed on side A & C labels: © ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1
 

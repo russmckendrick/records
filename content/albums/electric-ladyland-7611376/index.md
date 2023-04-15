@@ -1,14 +1,17 @@
 ---
 title: "The Jimi Hendrix Experience - Electric Ladyland"
-album_artist: "The Jimi Hendrix Experience"
-album_title: "Electric Ladyland"
+artist: "The Jimi Hendrix Experience"
+album_name: "Electric Ladyland"
 date: 2016-04-23
 release_id: "7611376"
 slug: "electric-ladyland-7611376"
+hideSummary: true
 cover:
     image: "electric-ladyland-7611376.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Electric Ladyland by The Jimi Hendrix Experience"
+    caption: "Electric Ladyland by The Jimi Hendrix Experience"
+genres: ["Rock", "Blues"]
+styles: ["Electric Blues", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)](https://www.youtube.com/watch?v=TLV4_xaYynY)
 - [Jimi Hendrix 'Voodoo Child' (Slight Return)](https://www.youtube.com/watch?v=IZBlqcbpmxY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Jimi Hendrix Experience - Electric Ladyland](https://www.discogs.com/release/7611376) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Jimi Hendrix Experience - Electric Ladyland](https://www.discogs.com/release/7611376-The-Jimi-Hendrix-Experience-Electric-Ladyland) |
 | Label          | Experience Hendrix, Legacy, Sony Music |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 88875134511 |
+
+Issued in a gatefold sleeve including an 8-page LP-sized booklet with liner notes and pictures  All compositions written and arranged by Jimi Hendrix and published by Experience Hendrix L.L.C. with the exceptions of B1 by Noel Redding, Joint Music, D3 by Bob Dylan, Dwarf Music, and B3 by Earl King/EMI Unart Catalog Inc.  Recorded at the Record Plant, New York Remastered at Sterling Sound, N.Y.  ℗ 2010 Experience Hendrix L.L.C. © 2010, 2015 Experience Hendrix L.L.C. Made in the EU  Track D4 is listed on back cover, inner spread and labels as "Voodoo Child (Slight Return)"  Reissue of the 2010 [Music on Vinyl](https://www.discogs.com/release/2416823-The-Jimi-Hendrix-Experience-Electric-Ladyland) release, with exactly the same runout numbers.
 

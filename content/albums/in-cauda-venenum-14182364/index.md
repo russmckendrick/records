@@ -1,14 +1,17 @@
 ---
 title: "Opeth - In Cauda Venenum"
-album_artist: "Opeth"
-album_title: "In Cauda Venenum"
+artist: "Opeth"
+album_name: "In Cauda Venenum"
 date: 2019-09-28
 release_id: "14182364"
 slug: "in-cauda-venenum-14182364"
+hideSummary: true
 cover:
     image: "in-cauda-venenum-14182364.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In Cauda Venenum by Opeth"
+    caption: "In Cauda Venenum by Opeth"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [OPETH - Dignity (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=GF5FXYmBrc4)
 - [OPETH - Svekets Prins (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Opeth - In Cauda Venenum](https://www.discogs.com/release/14182364) |
+| Release Year   | 2019 |
+| Discogs Link   | [Opeth - In Cauda Venenum](https://www.discogs.com/release/14182364-Opeth-In-Cauda-Venenum) |
 | Label          | Nuclear Blast, Moderbolaget Records, Nuclear Blast, Moderbolaget Records |
 | Format         | 2xLP, Album, Pic |
 | Catalog Number | NB 4557-3, 27361 45573 |
+
+
 

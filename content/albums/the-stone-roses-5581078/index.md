@@ -1,14 +1,17 @@
 ---
 title: "The Stone Roses - The Stone Roses"
-album_artist: "The Stone Roses"
-album_title: "The Stone Roses"
+artist: "The Stone Roses"
+album_name: "The Stone Roses"
 date: 2015-08-09
 release_id: "5581078"
 slug: "the-stone-roses-5581078"
+hideSummary: true
 cover:
     image: "the-stone-roses-5581078.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Stone Roses by The Stone Roses"
+    caption: "The Stone Roses by The Stone Roses"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [The Stone Roses - This Is the One (Audio)](https://www.youtube.com/watch?v=DbyrOBVDtR4)
 - [The Stone Roses - I Am the Resurrection (Audio)](https://www.youtube.com/watch?v=vY9g-PgSiGA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/5581078) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/5581078-The-Stone-Roses-The-Stone-Roses) |
 | Label          | Silvertone Records |
 | Format         | LP, Album, RE, RP |
 | Catalog Number | 88843041991 |
+
+This reissue has raised gold lettering the same as the UK first pressing.   ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited. Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited. Made in the EU.
 

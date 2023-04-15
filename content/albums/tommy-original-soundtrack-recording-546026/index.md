@@ -1,14 +1,17 @@
 ---
 title: "Various - Tommy (Original Soundtrack Recording)"
-album_artist: "Various"
-album_title: "Tommy (Original Soundtrack Recording)"
+artist: "Various"
+album_name: "Tommy (Original Soundtrack Recording)"
 date: 2016-12-08
 release_id: "546026"
 slug: "tommy-original-soundtrack-recording-546026"
+hideSummary: true
 cover:
     image: "tommy-original-soundtrack-recording-546026.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Tommy (Original Soundtrack Recording) by Various"
+    caption: "Tommy (Original Soundtrack Recording) by Various"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 {{< youtube id="vruNMUjZwAA" title="TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)" >}}
 - [TOMMY THE MOVIE 1975 Original soundtrack recording Part 2 of 2 (Vinyl record)](https://www.youtube.com/watch?v=cVO5P3yOYa8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Various - Tommy (Original Soundtrack Recording)](https://www.discogs.com/release/546026) |
+| Release Year   | 1975 |
+| Discogs Link   | [Various - Tommy (Original Soundtrack Recording)](https://www.discogs.com/release/546026-Various-Tommy-Original-Soundtrack-Recording) |
 | Label          | Polydor |
 | Format         | 2xLP, Album |
 | Catalog Number | 2657 014 |
+
+Note: A similar UK release with an A & B-side label variant, [is here.](http://www.discogs.com/release/7679401)
 

@@ -1,14 +1,17 @@
 ---
 title: "The Future Sound Of London - Accelerator"
-album_artist: "The Future Sound Of London"
-album_title: "Accelerator"
+artist: "The Future Sound Of London"
+album_name: "Accelerator"
 date: 2021-06-12
 release_id: "19105981"
 slug: "accelerator-19105981"
+hideSummary: true
 cover:
     image: "accelerator-19105981.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Accelerator by The Future Sound Of London"
+    caption: "Accelerator by The Future Sound Of London"
+genres: ["Electronic"]
+styles: ["Techno"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [CENTRAL INDUSTRIAL - FSOL](https://www.youtube.com/watch?v=cOYJ7-HaZSQ)
 - [The Future Sound Of London - Calcium - Jumpin' & Pumpin' 1992](https://www.youtube.com/watch?v=-Mo8N_03mq4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Future Sound Of London - Accelerator](https://www.discogs.com/release/19105981) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Future Sound Of London - Accelerator](https://www.discogs.com/release/19105981-The-Future-Sound-Of-London-Accelerator) |
 | Label          | Jumpin' & Pumpin' |
 | Format         | 2x12\", Album, RSD, Ltd, Num, RE |
 | Catalog Number | DLPRSDTOT2 |
+
+30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Violent Femmes - Violent Femmes"
-album_artist: "Violent Femmes"
-album_title: "Violent Femmes"
+artist: "Violent Femmes"
+album_name: "Violent Femmes"
 date: 2018-06-10
 release_id: "12101265"
 slug: "violent-femmes-12101265"
+hideSummary: true
 cover:
     image: "violent-femmes-12101265.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Violent Femmes by Violent Femmes"
+    caption: "Violent Femmes by Violent Femmes"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [To The Kill](https://www.youtube.com/watch?v=x-CVV0sOJvM)
 - [Gone Daddy Gone](https://www.youtube.com/watch?v=RQsY_XzLcT4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Violent Femmes - Violent Femmes](https://www.discogs.com/release/12101265) |
+| Release Year   | 2018 |
+| Discogs Link   | [Violent Femmes - Violent Femmes](https://www.discogs.com/release/12101265-Violent-Femmes-Violent-Femmes) |
 | Label          | Craft Recordings |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | CR00108 |
+
+180-Gram 35th Anniversary Reissue  Mastered at Capitol Mastering  Recorded at Castle Recording Company,  Lake Geneva, Wisconsin, July 1982.   Thanks to Robert Munger, Bryan King, 4TA and The Bone.  Special thanks to our friends who are no longer with us, James and Christina.  Originally released as [r=426356] (Jan 1982).  Track B4 has an altered title to previous releases. 
 

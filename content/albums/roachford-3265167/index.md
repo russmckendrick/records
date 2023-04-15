@@ -1,14 +1,17 @@
 ---
 title: "Roachford - Roachford"
-album_artist: "Roachford"
-album_title: "Roachford"
+artist: "Roachford"
+album_name: "Roachford"
 date: 2015-12-04
 release_id: "3265167"
 slug: "roachford-3265167"
+hideSummary: true
 cover:
     image: "roachford-3265167.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Roachford by Roachford"
+    caption: "Roachford by Roachford"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Find Me Another Love (The 'Psycho Bump Beat ' Mix)](https://www.youtube.com/watch?v=RbGljByCxq0)
 - [Roachford - Cuddly Toy](https://www.youtube.com/watch?v=sbscx0S3jcY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Roachford - Roachford](https://www.discogs.com/release/3265167) |
+| Release Year   | 1988 |
+| Discogs Link   | [Roachford - Roachford](https://www.discogs.com/release/3265167-Roachford-Roachford) |
 | Label          | CBS |
 | Format         | LP, Album |
 | Catalog Number | 460630 1 |
+
+℗ 1988 CBS Records (labels, inside sleeve) © 1988 CBS Records (back cover)  Textured sleeve with printed inner sleeve.
 

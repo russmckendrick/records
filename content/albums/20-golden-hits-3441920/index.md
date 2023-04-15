@@ -1,14 +1,17 @@
 ---
 title: "Willie Nelson - 20 Golden Hits"
-album_artist: "Willie Nelson"
-album_title: "20 Golden Hits"
+artist: "Willie Nelson"
+album_name: "20 Golden Hits"
 date: 2015-12-17
 release_id: "3441920"
 slug: "20-golden-hits-3441920"
+hideSummary: true
 cover:
     image: "20-golden-hits-3441920.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "20 Golden Hits by Willie Nelson"
+    caption: "20 Golden Hits by Willie Nelson"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -33,16 +36,17 @@ hideSummary: true
 19. I Just Don't Understand (2:48)
 20. Pages (1:57)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Willie Nelson - 20 Golden Hits](https://www.discogs.com/release/3441920) |
+| Release Year   | 0 |
+| Discogs Link   | [Willie Nelson - 20 Golden Hits](https://www.discogs.com/release/3441920-Willie-Nelson-20-Golden-Hits) |
 | Label          | Masters |
 | Format         | LP, Comp |
 | Catalog Number | MA 11121183 |
+
+
 

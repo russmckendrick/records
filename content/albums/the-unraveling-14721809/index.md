@@ -1,14 +1,17 @@
 ---
 title: "Drive-By Truckers - The Unraveling"
-album_artist: "Drive-By Truckers"
-album_title: "The Unraveling"
+artist: "Drive-By Truckers"
+album_name: "The Unraveling"
 date: 2020-01-31
 release_id: "14721809"
 slug: "the-unraveling-14721809"
+hideSummary: true
 cover:
     image: "the-unraveling-14721809.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Unraveling by Drive-By Truckers"
+    caption: "The Unraveling by Drive-By Truckers"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Southern Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Drive-By Truckers - The Unraveling](https://www.discogs.com/release/14721809) |
+| Release Year   | 2020 |
+| Discogs Link   | [Drive-By Truckers - The Unraveling](https://www.discogs.com/release/14721809-Drive-By-Truckers-The-Unraveling) |
 | Label          | ATO Records, ATO Records |
 | Format         | LP, Album |
 | Catalog Number | ATO0518LP, 0882388515 |
+
+Black Vinyl Version.   ℗ & © 2020 ATO Records, LLC  16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information 
 

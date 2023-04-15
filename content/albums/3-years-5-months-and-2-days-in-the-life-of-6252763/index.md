@@ -1,14 +1,17 @@
 ---
 title: "Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of..."
-album_artist: "Arrested Development"
-album_title: "3 Years, 5 Months And 2 Days In The Life Of..."
+artist: "Arrested Development"
+album_name: "3 Years, 5 Months And 2 Days In The Life Of..."
 date: 2017-04-09
 release_id: "6252763"
 slug: "3-years-5-months-and-2-days-in-the-life-of-6252763"
+hideSummary: true
 cover:
     image: "3-years-5-months-and-2-days-in-the-life-of-6252763.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development"
+    caption: "3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development"
+genres: ["Hip Hop"]
+styles: ["Conscious"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)
 - [Washed Away](https://www.youtube.com/watch?v=lBzxAXAvbu8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of...](https://www.discogs.com/release/6252763) |
+| Release Year   | 2014 |
+| Discogs Link   | [Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of...](https://www.discogs.com/release/6252763-Arrested-Development-3-Years-5-Months-And-2-Days-In-The-Life-Of) |
 | Label          | Cooltempo, Music On Vinyl, Universal Music |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP890 |
+
+180 gram audiophile vinyl Insert 
 

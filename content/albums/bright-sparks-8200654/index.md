@@ -1,14 +1,17 @@
 ---
 title: "I Monster - Bright Sparks"
-album_artist: "I Monster"
-album_title: "Bright Sparks"
+artist: "I Monster"
+album_name: "Bright Sparks"
 date: 2016-03-14
 release_id: "8200654"
 slug: "bright-sparks-8200654"
+hideSummary: true
 cover:
     image: "bright-sparks-8200654.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Bright Sparks by I Monster"
+    caption: "Bright Sparks by I Monster"
+genres: ["Electronic"]
+styles: ["Experimental"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="ARVEE_aIgBQ" title="I Monster - The Fantastic Tale of Dr. Moog and the Birth of the Shimmering Beast" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [I Monster - Bright Sparks](https://www.discogs.com/release/8200654) |
+| Release Year   | 2016 |
+| Discogs Link   | [I Monster - Bright Sparks](https://www.discogs.com/release/8200654-I-Monster-Bright-Sparks) |
 | Label          | Twins Of Evil |
 | Format         | LP, Album, Gat |
 | Catalog Number | BIGTOELP2 |
+
+
 

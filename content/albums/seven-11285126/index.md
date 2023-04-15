@@ -1,14 +1,17 @@
 ---
 title: "James - Seven"
-album_artist: "James"
-album_title: "Seven"
+artist: "James"
+album_name: "Seven"
 date: 2017-12-16
 release_id: "11285126"
 slug: "seven-11285126"
+hideSummary: true
 cover:
     image: "seven-11285126.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Seven by James"
+    caption: "Seven by James"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [James Protect me Live](https://www.youtube.com/watch?v=cu9-Paql8Ag)
 - [James   Born of Frustration   Seven    The Live Concert](https://www.youtube.com/watch?v=649SUNPN-do)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [James - Seven](https://www.discogs.com/release/11285126) |
+| Release Year   | 2017 |
+| Discogs Link   | [James - Seven](https://www.discogs.com/release/11285126-James-Seven) |
 | Label          | Fontana |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | 5712912 |
+
+
 

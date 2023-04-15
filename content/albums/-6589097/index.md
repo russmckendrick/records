@@ -1,14 +1,17 @@
 ---
 title: "Sigur Rós - ( )"
-album_artist: "Sigur Rós"
-album_title: "( )"
+artist: "Sigur Rós"
+album_name: "( )"
 date: 2016-11-30
 release_id: "6589097"
 slug: "-6589097"
+hideSummary: true
 cover:
     image: "-6589097.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "( ) by Sigur Rós"
+    caption: "( ) by Sigur Rós"
+genres: ["Electronic", "Rock"]
+styles: ["Abstract", "Post Rock", "Ambient"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Untitled #7 (Dauðalagið)](https://www.youtube.com/watch?v=yY4uo9yC7v8)
 - [Untitled #8 (Popplagið)](https://www.youtube.com/watch?v=kwNF5tDQVGk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Sigur Rós - ( )](https://www.discogs.com/release/6589097) |
+| Release Year   | 2015 |
+| Discogs Link   | [Sigur Rós - ( )](https://www.discogs.com/release/6589097-Sigur-R%C3%B3s--) |
 | Label          | XL Recordings, XL Recordings |
 | Format         | 2xLP, Album, RE, 180 + CD |
 | Catalog Number | XLLP611, XLCD611 |
+
+℗ and © 2002 Sigur Rós under exclusive license to XL Recordings Ltd.  Album has been referred to by members of Sigur Ros as "Svigaplatan", which translates to "The Bracket Album". Below are are the titles the band has for the otherwise officially untitled songs themselves:   Untitled 1 - Vaka (the name of Orri's daughter)  Untitled 2 - Fyrsta (the first song)  Untitled 3 - Samskeyti (attachment)  Untitled 4 - Njósnavélin (the spy machine)  Untitled 5 - Álafoss (the location of the band's studio)  Untitled 6 - E-bow [georg uses an e-bow on his bass in this song]  Untitled 7 - Dauðalagið (the death song)  Untitled 8 - Popplagið (the pop song)  Sticker on front:  "Pressed on audiophile quality 180 gram vinyl. Contains CD." Vinyl pressed at Optimal Media GmbH per runout. CD manufactured at Arvato per matrix. 
 

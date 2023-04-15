@@ -1,14 +1,17 @@
 ---
 title: "Rush - Caress Of Steel"
-album_artist: "Rush"
-album_title: "Caress Of Steel"
+artist: "Rush"
+album_name: "Caress Of Steel"
 date: 2017-03-02
 release_id: "6660176"
 slug: "caress-of-steel-6660176"
+hideSummary: true
 cover:
     image: "caress-of-steel-6660176.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Caress Of Steel by Rush"
+    caption: "Caress Of Steel by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -18,16 +21,17 @@ hideSummary: true
 4. The Necromancer
 5. The Fountain Of Lamneth
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Caress Of Steel](https://www.discogs.com/release/6660176) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Caress Of Steel](https://www.discogs.com/release/6660176-Rush-Caress-Of-Steel) |
 | Label          | Mercury, Anthem (5) |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | 4711570 |
+
+Issued in a gatefold cover with lyrics on inner spread. Includes a voucher for mp3 downloads. 180 gram heavyweight vinyl  Dedicated to the memory of Mr. Rod Serling  Recorded and mixed at Toronto Sound Studios, Toronto, Canada DMM Mastering at Abbey Road Mastering Studios - October 2014 All lyrics © 1975 ole Core Music Publishing (SOCAN/SESAC) administered by ole.  ℗ © 2015 Mercury Records Made in the EU
 

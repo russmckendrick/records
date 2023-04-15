@@ -1,14 +1,17 @@
 ---
 title: "Weezer - Weezer"
-album_artist: "Weezer"
-album_title: "Weezer"
+artist: "Weezer"
+album_name: "Weezer"
 date: 2018-02-21
 release_id: "9296301"
 slug: "weezer-9296301"
+hideSummary: true
 cover:
     image: "weezer-9296301.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Weezer by Weezer"
+    caption: "Weezer by Weezer"
+genres: ["Rock"]
+styles: ["Power Pop", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Weezer - Say It Ain't So (Version 3)](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
 - [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Weezer - Weezer](https://www.discogs.com/release/9296301) |
+| Release Year   | 2016 |
+| Discogs Link   | [Weezer - Weezer](https://www.discogs.com/release/9296301-Weezer-Weezer) |
 | Label          | Geffen Records |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 00602547945396 |
+
+180 gram heavyweight vinyl. Includes download voucher. Includes fold out black and white poster/inlay.  Poster/Inlay: © 2004 Geffen Records.  Back cover: Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993 Remastered at Sterling Sound, NYC ℗ 2004 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.
 

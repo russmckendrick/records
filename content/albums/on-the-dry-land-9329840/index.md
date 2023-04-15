@@ -1,14 +1,17 @@
 ---
 title: "The Sea Nymphs - On The Dry Land"
-album_artist: "The Sea Nymphs"
-album_title: "On The Dry Land"
+artist: "The Sea Nymphs"
+album_name: "On The Dry Land"
 date: 2016-11-09
 release_id: "9329840"
 slug: "on-the-dry-land-9329840"
+hideSummary: true
 cover:
     image: "on-the-dry-land-9329840.jpg"
-tags: ["Rock", "Classical", "Folk, World, & Country"]
-hideSummary: true
+    alt: "On The Dry Land by The Sea Nymphs"
+    caption: "On The Dry Land by The Sea Nymphs"
+genres: ["Rock", "Classical", "Folk, World, & Country"]
+styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Sea Nymphs - On The Dry Land](https://www.discogs.com/release/9329840) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Sea Nymphs - On The Dry Land](https://www.discogs.com/release/9329840-The-Sea-Nymphs-On-The-Dry-Land) |
 | Label          | The Alphabet Business Concern |
 | Format         | LP, Album, Ltd, Num, RE |
 | Catalog Number | ALPH LP 032 |
+
+Limited to 200 numbered, stickered copies.  Includes download card.
 

@@ -1,14 +1,17 @@
 ---
 title: "Alanis Morissette - Jagged Little Pill"
-album_artist: "Alanis Morissette"
-album_title: "Jagged Little Pill"
+artist: "Alanis Morissette"
+album_name: "Jagged Little Pill"
 date: 2017-04-17
 release_id: "4064194"
 slug: "jagged-little-pill-4064194"
+hideSummary: true
 cover:
     image: "jagged-little-pill-4064194.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Jagged Little Pill by Alanis Morissette"
+    caption: "Jagged Little Pill by Alanis Morissette"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Wake Up (2015 Remaster)](https://www.youtube.com/watch?v=JX6FbIkfyro)
 - [You Oughta Know (Jimmy the Saint Blend) / Your House (A Capella) (2015 Remaster)](https://www.youtube.com/watch?v=SIVIzG86_jE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Alanis Morissette - Jagged Little Pill](https://www.discogs.com/release/4064194) |
+| Release Year   | 2012 |
+| Discogs Link   | [Alanis Morissette - Jagged Little Pill](https://www.discogs.com/release/4064194-Alanis-Morissette-Jagged-Little-Pill) |
 | Label          | Maverick, Reprise Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122797168 |
+
+Hype sticker: "180-Gram Vinyl Cut From the Original Analog Master"  Black & white printed inner sleeve with lyrics and credits.  This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference.
 

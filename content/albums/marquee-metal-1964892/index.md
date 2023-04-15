@@ -1,14 +1,17 @@
 ---
 title: "Various - Marquee Metal"
-album_artist: "Various"
-album_title: "Marquee Metal"
+artist: "Various"
+album_name: "Marquee Metal"
 date: 2015-10-14
 release_id: "1964892"
 slug: "marquee-metal-1964892"
+hideSummary: true
 cover:
     image: "marquee-metal-1964892.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Marquee Metal by Various"
+    caption: "Marquee Metal by Various"
+genres: ["Rock", "Pop"]
+styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -32,16 +35,17 @@ hideSummary: true
 18. Free 'N' Easy
 19. Ace Of Spades
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Various - Marquee Metal](https://www.discogs.com/release/1964892) |
+| Release Year   | 1991 |
+| Discogs Link   | [Various - Marquee Metal](https://www.discogs.com/release/1964892-Various-Marquee-Metal) |
 | Label          | PolyGram TV |
 | Format         | LP, Comp |
 | Catalog Number | 845 417-1 |
+
+Compilation of popular Rock/Metal cuts.  Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!! 
 

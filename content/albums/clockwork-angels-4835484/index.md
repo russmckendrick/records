@@ -1,14 +1,17 @@
 ---
 title: "Rush - Clockwork Angels"
-album_artist: "Rush"
-album_title: "Clockwork Angels"
+artist: "Rush"
+album_name: "Clockwork Angels"
 date: 2017-02-26
 release_id: "4835484"
 slug: "clockwork-angels-4835484"
+hideSummary: true
 cover:
     image: "clockwork-angels-4835484.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Clockwork Angels by Rush"
+    caption: "Clockwork Angels by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Wish Them Well (5:25)
 12. The Garden (6:59)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Rush - Clockwork Angels](https://www.discogs.com/release/4835484) |
+| Release Year   | 2013 |
+| Discogs Link   | [Rush - Clockwork Angels](https://www.discogs.com/release/4835484-Rush-Clockwork-Angels) |
 | Label          | Roadrunner Records, Anthem (5) |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | RRCAR 7656-1 |
+
+Gatefold sleeve. Printed inner sleeves with lyrics.  "Caravan" and "BU2B" recorded at Blackbird Studios, Nashville TN, April 2010 All other songs recorded at Revolution Recording, Toronto ON, October-December 2011 Mixed at Henson Studios, Los Angeles CA, January-March 2012 Strings recorded at Ocean Way Studios, Los Angeles CA, January 18, 2012 "BU2B" new intro recorded on Lerxst Mobile, West Hollywood CA  All songs published by Core Music Publishing (SESAC) for the U.S.A. and Core Music Publishing (SOCAN) for the World excluding the U.S.A.  Licensed to Cargo Records For Vinyl Distribution. © & ℗ 2012 T.Y.S., Inc. for the world excluding Canada. Made in Germany (as stated on back cover and labels)  Also released on [red vinyl](http://www.discogs.com/release/4514510)
 

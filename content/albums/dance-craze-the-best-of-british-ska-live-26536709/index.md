@@ -1,14 +1,17 @@
 ---
 title: "Various - Dance Craze - The Best of British Ska...LIVE!"
-album_artist: "Various"
-album_title: "Dance Craze - The Best of British Ska...LIVE!"
+artist: "Various"
+album_name: "Dance Craze - The Best of British Ska...LIVE!"
 date: 2023-04-03
 release_id: "26536709"
 slug: "dance-craze-the-best-of-british-ska-live-26536709"
+hideSummary: true
 cover:
     image: "dance-craze-the-best-of-british-ska-live-26536709.jpg"
-tags: ["Reggae", "Stage & Screen"]
-hideSummary: true
+    alt: "Dance Craze - The Best of British Ska...LIVE! by Various"
+    caption: "Dance Craze - The Best of British Ska...LIVE! by Various"
+genres: ["Reggae", "Stage & Screen"]
+styles: ["Ska", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -66,13 +69,16 @@ hideSummary: true
 - [Dance Craze - Documentary 1981 (Part 2)](https://www.youtube.com/watch?v=62k2AKhy-ms)
 - [Dance Craze - Documentary 1981 (Part 7)](https://www.youtube.com/watch?v=tKhGB6Ih5oc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Various - Dance Craze - The Best of British Ska...LIVE!](https://www.discogs.com/release/26536709) |
+| Release Year   | 2023 |
+| Discogs Link   | [Various - Dance Craze - The Best of British Ska...LIVE!](https://www.discogs.com/release/26536709-Various-Dance-Craze-The-Best-of-British-SkaLIVE) |
 | Label          | Two-Tone Records, Chrysalis Soundtrack, Two-Tone Records, Chrysalis Soundtrack |
 | Format         | 2xLP + LP, RE + Box, Dlx + Album, Comp |
 | Catalog Number | CHR TTF 5004, CHR TTH 5004/2 |
+
+The Film Soundtrack double LP is in a gatefold sleeve. The Original 1981 Soundtrack Album is in its own sleeve. Also included is double sided 24 x 36 inch poster. All housed in a slipcase.  Catalogue no. CHR TTF 5004 appears on the slipcase, the gatefold sleeve of the Film Soundtrack and the labels of all 6 sides of the LPs.   Catalogue no. CHR TTH 5004/2 appears on the sleeve of the Original 1981 Soundtrack Album.  (p) is credited to Chrysalis Records Limited on labels of all 3 LPs and sleeve to Original 1981 Soundtrack Album.   (p) is credited to Chrysalis Recorded Limited on slipcase and gatefold sleeve of Film Soundtrack.  (c) is credited to Chrysalis Records Limited on labels of all 3 LPs  (c) is credited to Chysalis Recorded Limited on slipcase, sleeves of both Film Soundtrack and Original 1981 Soundtrack Album.  All tracks were recorded live:  A1 Rotter's Club, Liverpool 14/10/1980 A2 St George's Hall, Bradford 27/04/1980 A3 Electric Ballroom, London 27/03/1980 A4 Electric Ballroom, London 27/03/1980 A5 The Pavilion, Hemel Hempstead 22/03/1980 A6 Emerald City, New Jersey 08/10/1980 A7 Emerald City, New Jersey 08/10/1980 B1 Rotter's Club, Liverpool 14/10/1980 B2 The Mayfair, Sunderland 30/04/1980 B3 St George's Hall, Bradford 27/04/1980 B4 The Pavilion, Hemel Hempstead 22/03/1980 B5 The Pavilion, Hemel Hempstead 22/03/1980 B6 The Friars, Aylesbury 03/05/1980  C1 St George's Hall, Bradford 27/04/1980 C2 Rotter's Club, Liverpool 14/10/1980 C3 The Guildhall, Plymouth 28/02/1980 C4 Electric Ballroom, London 27/03/1980 C5 Emerald City, New Jersey 08/10/1980 C6 Rotter's Club, Liverpool 14/10/1980 C7 The Friars, Aylesbury 03/05/1980 D1 St George's Hall, Bradford 27/04/1980 D2 Emerald City, New Jersey 08/10/1980 D3 Electric Ballroom, London 27/03/1980 D4 The Pavilion, Hemel Hempstead 22/03/1980 D5 Emerald City, New Jersey 08/10/1980 D6 The Mayfair, Sunderland 30/04/1980 D7 De Montfort Hall, Leicester 23/10/1980  E1 Rotter's Club, Liverpool 14/10/1980 E2 Emerald City, New Jersey 08/10/1980 E3 Hope & Anchor, London 08/11/1980 E4 St George's Hall, Bradford 27/04/1980 E5 Hope & Anchor, London 13/11/1980 E6 Electric Ballroom, London 27/03/1980 (Stated on sleeve as 27/05/1980) E7 Emerald City, New Jersey 08/10/1980 E8 The Mayfair, Sunderland 30/04/1980 F1 Emerald City, New Jersey 08/10/1980 F2 Rotter's Club, Liverpool 14/10/1980 F3 Hope & Anchor, London 13/11/1980 F4 Hope & Anchor, London 08/11/1980 F5 St George's Hall, Bradford 27/04/1980 F6 Hope & Anchor, London 13/11/1980 F7 Rotter's Club, Liverpool 14/10/1980  10 tracks on the original soundtrack album (Disc 3) are from the same concerts as Discs 1 and 2 but transferred from different masters.  5 tracks are from different concerts:  The Selecter - Three Minute Hero, Missing Words and Too Much Pressure Bad Manners - Lip Up Fatty and Inner London Violence
 

@@ -1,14 +1,17 @@
 ---
 title: "Buffalo Tom - Let Me Come Over (25th Anniversary Edition)"
-album_artist: "Buffalo Tom"
-album_title: "Let Me Come Over (25th Anniversary Edition)"
+artist: "Buffalo Tom"
+album_name: "Let Me Come Over (25th Anniversary Edition)"
 date: 2017-05-20
 release_id: "10315982"
 slug: "let-me-come-over-25th-anniversary-edition-10315982"
+hideSummary: true
 cover:
     image: "let-me-come-over-25th-anniversary-edition-10315982.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Let Me Come Over (25th Anniversary Edition) by Buffalo Tom"
+    caption: "Let Me Come Over (25th Anniversary Edition) by Buffalo Tom"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Buffalo Tom - Larry](https://www.youtube.com/watch?v=OJ09IPoF3os)
 - [Buffalo Tom - Crutch (Album Version)](https://www.youtube.com/watch?v=xbvrADHK9BM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Buffalo Tom - Let Me Come Over (25th Anniversary Edition)](https://www.discogs.com/release/10315982) |
+| Release Year   | 2017 |
+| Discogs Link   | [Buffalo Tom - Let Me Come Over (25th Anniversary Edition)](https://www.discogs.com/release/10315982-Buffalo-Tom-Let-Me-Come-Over-25th-Anniversary-Edition) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album, RE + LP + Gat |
 | Catalog Number | BBQLP 2145 |
+
+Let Me Come Over: Mixed at Soundtracks. Additional mixing at Carriage House. Recorded at Dreamland and Fort Apache.  Includes bonus LP "Live From London ULU 1992" Mixed at Q Division Studios. Special thanks to Ed Valauskas.  Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).  Includes a coupon to download the album and the full live show as [320 kbps MP3s](https://www.discogs.com/release/13211362).
 

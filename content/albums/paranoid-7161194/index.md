@@ -1,14 +1,17 @@
 ---
 title: "Black Sabbath - Paranoid"
-album_artist: "Black Sabbath"
-album_title: "Paranoid"
+artist: "Black Sabbath"
+album_name: "Paranoid"
 date: 2015-09-30
 release_id: "7161194"
 slug: "paranoid-7161194"
+hideSummary: true
 cover:
     image: "paranoid-7161194.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Paranoid by Black Sabbath"
+    caption: "Paranoid by Black Sabbath"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Hand of Doom (2012 - Remaster)](https://www.youtube.com/watch?v=o6HmfTdwYZg)
 - [Rat Salad (2012 - Remaster)](https://www.youtube.com/watch?v=RLlU-5GqLvo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Black Sabbath - Paranoid](https://www.discogs.com/release/7161194) |
+| Release Year   | 2015 |
+| Discogs Link   | [Black Sabbath - Paranoid](https://www.discogs.com/release/7161194-Black-Sabbath-Paranoid) |
 | Label          | Sanctuary, BMG, Vertigo |
 | Format         | LP, Album, RE + CD, Album, RE |
 | Catalog Number | BMGRM054LP |
+
+Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve. Sticker on shrink-wrap reads: Includes CD of Album  Vertigo swirl on top left of front cover. Vertigo swirl on side A disc label.  Recorded at Regent Sound and Island Studios Management/Jim Simpson, Big Bear, Birmingham  ℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS] © 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS] Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group. Made in EU  
 

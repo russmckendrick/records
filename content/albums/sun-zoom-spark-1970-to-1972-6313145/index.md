@@ -1,14 +1,17 @@
 ---
 title: "Captain Beefheart - Sun Zoom Spark: 1970 To 1972"
-album_artist: "Captain Beefheart"
-album_title: "Sun Zoom Spark: 1970 To 1972"
+artist: "Captain Beefheart"
+album_name: "Sun Zoom Spark: 1970 To 1972"
 date: 2018-01-26
 release_id: "6313145"
 slug: "sun-zoom-spark-1970-to-1972-6313145"
+hideSummary: true
 cover:
     image: "sun-zoom-spark-1970-to-1972-6313145.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Sun Zoom Spark: 1970 To 1972 by Captain Beefheart"
+    caption: "Sun Zoom Spark: 1970 To 1972 by Captain Beefheart"
+genres: ["Rock"]
+styles: ["Blues Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -72,13 +75,16 @@ hideSummary: true
 {{< youtube id="xySrfIPz4Hc" title="Captain Beefheart - The Witch Doctor Life (Instrumental Take)" >}}
 - [Captain Beefheart - Pompadour Swamp / Suction Prints](https://www.youtube.com/watch?v=ss0Vcb_4K6A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Captain Beefheart - Sun Zoom Spark: 1970 To 1972](https://www.discogs.com/release/6313145) |
+| Release Year   | 2014 |
+| Discogs Link   | [Captain Beefheart - Sun Zoom Spark: 1970 To 1972](https://www.discogs.com/release/6313145-Captain-Beefheart-Sun-Zoom-Spark-1970-To-1972) |
 | Label          | Rhino Records (2), Warner Music, Reprise Records |
 | Format         | LP, Album, RE, 180 + LP, Album, RE, 180 + LP, Albu |
 | Catalog Number | R1 541728 |
+
+Sticker On The Plastic Wrap: "Limited Edition, 180g 4-LP Box Set Features The Studio Albums 'Lick My Decals Off, Baby', 'The Spotlight Kid', 'Clear Spot' Cut From The Original Analog Masters Plus An LP Of Previously Unreleased Outtakes & Rarities, Liner Notes By Rip Rense & Artwork By Don Van Vliet"  Here Are Some More Details: LP 1: Lick My Decals Off, Baby (Captain Beefheart & The Magic Band), Comes With Black Inner Sleeve, Orange Label, Reprise Records R1 6420 / 8122786846 LP 2: The Spotlight Kid (Captain Beefheart), Comes With White Inner Sleeve & Lyric Sheet, Orange Label, Reprise Records R1-2050 / 0348781110 LP 3: Clear Spot (Captain Beefheart & The Magic Band), Comes With White Inner Sleeve & Cover Sheet, Housed In A Plastic Cover (no regular cover), Backside Of Cover Sheet Has Tracklist And Credits Written On It, Orange Label, Reprise Records R1-2115 / 8122786845 LP 4: Out-Takes "Art Is Rearranging And Grouping Mistakes" (Captain Beefheart), Comes With Black Inner Sleeve, Black Label, White Letters, R1 541728 / 8122795862
 

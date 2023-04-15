@@ -1,14 +1,17 @@
 ---
 title: "Carter The Unstoppable Sex Machine - 101 Damnations"
-album_artist: "Carter The Unstoppable Sex Machine"
-album_title: "101 Damnations"
+artist: "Carter The Unstoppable Sex Machine"
+album_name: "101 Damnations"
 date: 2016-01-15
 release_id: "928285"
 slug: "101-damnations-928285"
+hideSummary: true
 cover:
     image: "101-damnations-928285.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "101 Damnations by Carter The Unstoppable Sex Machine"
+    caption: "101 Damnations by Carter The Unstoppable Sex Machine"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Good Grief Charlie Brown](https://www.youtube.com/watch?v=bMbmGmsqYYM)
 - [RSPCE](https://www.youtube.com/watch?v=MBtJre8xxjA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Carter The Unstoppable Sex Machine - 101 Damnations](https://www.discogs.com/release/928285) |
+| Release Year   | 1990 |
+| Discogs Link   | [Carter The Unstoppable Sex Machine - 101 Damnations](https://www.discogs.com/release/928285-Carter-The-Unstoppable-Sex-Machine-101-Damnations) |
 | Label          | Big Cat, Big Cat |
 | Format         | LP, Album |
 | Catalog Number | ABB 101, ABB101 |
+
+Includes printed inner sleeve with lyrics.  Recorded at Important Notice Studios, Mitcham, South London.  Cat# ABB 101 appears on the back cover, spine and insert. Cat# ABB101 appears on the labels.  Published By Cat X Mouse Music 1990.  ©Big Cat U.K. Records Ltd 1990.
 

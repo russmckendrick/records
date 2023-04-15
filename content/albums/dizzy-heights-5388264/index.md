@@ -1,14 +1,17 @@
 ---
 title: "Neil Finn - Dizzy Heights"
-album_artist: "Neil Finn"
-album_title: "Dizzy Heights"
+artist: "Neil Finn"
+album_name: "Dizzy Heights"
 date: 2015-10-04
 release_id: "5388264"
 slug: "dizzy-heights-5388264"
+hideSummary: true
 cover:
     image: "dizzy-heights-5388264.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dizzy Heights by Neil Finn"
+    caption: "Dizzy Heights by Neil Finn"
+genres: ["Rock"]
+styles: ["Pop Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="ks_-25Fgh5U" title="Neil Finn - Divebomber" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Neil Finn - Dizzy Heights](https://www.discogs.com/release/5388264) |
+| Release Year   | 2014 |
+| Discogs Link   | [Neil Finn - Dizzy Heights](https://www.discogs.com/release/5388264-Neil-Finn-Dizzy-Heights) |
 | Label          | Lester Records |
 | Format         | LP |
 | Catalog Number | LRNF0011LP |
+
+
 

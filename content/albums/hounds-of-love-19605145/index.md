@@ -1,14 +1,17 @@
 ---
 title: "Kate Bush - Hounds Of Love"
-album_artist: "Kate Bush"
-album_title: "Hounds Of Love"
+artist: "Kate Bush"
+album_name: "Hounds Of Love"
 date: 2021-07-26
 release_id: "19605145"
 slug: "hounds-of-love-19605145"
+hideSummary: true
 cover:
     image: "hounds-of-love-19605145.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Hounds Of Love by Kate Bush"
+    caption: "Hounds Of Love by Kate Bush"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Art Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Kate Bush - Hounds of Love - Official Music Video](https://www.youtube.com/watch?v=VerK4zwMRQw)
 - [Kate Bush - Cloudbusting - Official Music Video](https://www.youtube.com/watch?v=pllRW9wETzw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Kate Bush - Hounds Of Love](https://www.discogs.com/release/19605145) |
+| Release Year   | 2021 |
+| Discogs Link   | [Kate Bush - Hounds Of Love](https://www.discogs.com/release/19605145-Kate-Bush-Hounds-Of-Love) |
 | Label          | Fish People, Fish People |
 | Format         | LP, Album, Ltd, RE, RM, RP, Col |
 | Catalog Number | 0190296729041, 0190295593865 |
+
+No. 4 in HMV's exclusive run of classic albums on coloured vinyl to celebrate their 100th anniversary. Released in a matte full picture sleeve with exclusive obi, lyrics inner sleeve (also matte).  Each album is unique in that they are pressed with recycled vinyl of various colours. 1500 copies pressed. Applied to the shrink-wrap may be one or more merchant retailing stickers. Additionally, there is a white circular hype sticker which has the text in the same font as the sleeve.  The new barcode and catalogue number are printed on the silver card Obi strip.  Made in the E.U. Labels: ℗ 1985 except The Big Sky 1986. © 1985 Noble & Brite Ltd. Sleeve: ℗ & © 2018 Noble & Brite Ltd.
 

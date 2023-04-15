@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - Dead Letter Office"
-album_artist: "R.E.M."
-album_title: "Dead Letter Office"
+artist: "R.E.M."
+album_name: "Dead Letter Office"
 date: 2021-06-29
 release_id: "8899363"
 slug: "dead-letter-office-8899363"
+hideSummary: true
 cover:
     image: "dead-letter-office-8899363.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dead Letter Office by R.E.M."
+    caption: "Dead Letter Office by R.E.M."
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Bandwagon](https://www.youtube.com/watch?v=rwiduu42GP4)
 - [Crazy](https://www.youtube.com/watch?v=Go9t68mQOl0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [R.E.M. - Dead Letter Office](https://www.discogs.com/release/8899363) |
+| Release Year   | 2016 |
+| Discogs Link   | [R.E.M. - Dead Letter Office](https://www.discogs.com/release/8899363-REM-Dead-Letter-Office) |
 | Label          | I.R.S. Records, Universal Music Group International |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | 00602547899835 |
+
+Includes voucher to download MP3 version of the album.   ℗ 1987 © 2016 International Record Syndicate, Inc., a division of UMG Recordings, Inc. Made in the EU.
 

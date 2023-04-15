@@ -1,14 +1,17 @@
 ---
 title: "Jason Isbell And The 400 Unit - Reunions"
-album_artist: "Jason Isbell And The 400 Unit"
-album_title: "Reunions"
+artist: "Jason Isbell And The 400 Unit"
+album_name: "Reunions"
 date: 2020-05-20
 release_id: "15259036"
 slug: "reunions-15259036"
+hideSummary: true
 cover:
     image: "reunions-15259036.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Reunions by Jason Isbell And The 400 Unit"
+    caption: "Reunions by Jason Isbell And The 400 Unit"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Jason Isbell and the 400 Unit - River](https://www.youtube.com/watch?v=p5bathZEbNU)
 - [Jason Isbell and the 400 Unit - Running with Our Eyes Closed](https://www.youtube.com/watch?v=FAQ6ZYJLzfQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Jason Isbell And The 400 Unit - Reunions](https://www.discogs.com/release/15259036) |
+| Release Year   | 2020 |
+| Discogs Link   | [Jason Isbell And The 400 Unit - Reunions](https://www.discogs.com/release/15259036-Jason-Isbell-And-The-400-Unit-Reunions) |
 | Label          | Southeastern Records (2) |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | SER99921 |
+
+Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.  In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included. 
 

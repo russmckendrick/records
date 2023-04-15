@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Zeroes And Ones - The Best Of"
-album_artist: "Jesus Jones"
-album_title: "Zeroes And Ones - The Best Of"
+artist: "Jesus Jones"
+album_name: "Zeroes And Ones - The Best Of"
 date: 2022-10-29
 release_id: "24975325"
 slug: "zeroes-and-ones-the-best-of-24975325"
+hideSummary: true
 cover:
     image: "zeroes-and-ones-the-best-of-24975325.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Zeroes And Ones - The Best Of by Jesus Jones"
+    caption: "Zeroes And Ones - The Best Of by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ---
 
 ## Tracklisting
@@ -40,16 +43,17 @@ hideSummary: true
 26. Welcome Back Victoria
 27. Run On Empty
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Zeroes And Ones - The Best Of](https://www.discogs.com/release/24975325) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Zeroes And Ones - The Best Of](https://www.discogs.com/release/24975325-Jesus-Jones-Zeroes-And-Ones-The-Best-Of) |
 | Label          | Demon Records |
 | Format         | 2xLP, Comp, Gol |
 | Catalog Number | DEMREC 958 |
+
+2LP set featuring all the hits and more, with track-by-track annotation by the band's keyboard player Iain Baker Pressed on 140g Gold Vinyl
 

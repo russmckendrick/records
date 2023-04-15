@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan / Tubeway Army - Premier Hits"
-album_artist: "Gary Numan / Tubeway Army"
-album_title: "Premier Hits"
+artist: "Gary Numan / Tubeway Army"
+album_name: "Premier Hits"
 date: 2015-08-15
 release_id: "7341798"
 slug: "premier-hits-7341798"
+hideSummary: true
 cover:
     image: "premier-hits-7341798.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Premier Hits by Gary Numan / Tubeway Army"
+    caption: "Premier Hits by Gary Numan / Tubeway Army"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Gary Numan - We Are Glass](https://www.youtube.com/watch?v=HVHnIiWpNig)
 - [We are Glass](https://www.youtube.com/watch?v=Hh5ftP9-IAw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Gary Numan / Tubeway Army - Premier Hits](https://www.discogs.com/release/7341798) |
+| Release Year   | 2015 |
+| Discogs Link   | [Gary Numan / Tubeway Army - Premier Hits](https://www.discogs.com/release/7341798-Gary-Numan-Tubeway-Army-Premier-Hits) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Comp, RE |
 | Catalog Number | BBQLP 2007 |
+
+
 

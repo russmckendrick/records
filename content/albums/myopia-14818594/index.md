@@ -1,14 +1,17 @@
 ---
 title: "Agnes Obel - Myopia"
-album_artist: "Agnes Obel"
-album_title: "Myopia"
+artist: "Agnes Obel"
+album_name: "Myopia"
 date: 2020-02-21
 release_id: "14818594"
 slug: "myopia-14818594"
+hideSummary: true
 cover:
     image: "myopia-14818594.jpg"
-tags: ["Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Myopia by Agnes Obel"
+    caption: "Myopia by Agnes Obel"
+genres: ["Pop", "Folk, World, & Country"]
+styles: ["Vocal", "Ballad"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Parliament Of Owls](https://www.youtube.com/watch?v=NpwdJMOPbIs)
 - [Won't You Call Me](https://www.youtube.com/watch?v=qNn_o_itlcs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Agnes Obel - Myopia](https://www.discogs.com/release/14818594) |
+| Release Year   | 2020 |
+| Discogs Link   | [Agnes Obel - Myopia](https://www.discogs.com/release/14818594-Agnes-Obel-Myopia) |
 | Label          | Blue Note, Deutsche Grammophon, Blue Note, Deutsche Grammophon |
 | Format         | LP, Album, Ltd, M/Print, Blu |
 | Catalog Number | 483 7178, 00289 483 7178 |
+
+Indie-store release on 180 gram in gatefold jacket.  ℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH A Universal Music Company. Made in the EU.  Lacquer Cut By taken from runout.  Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper.  
 

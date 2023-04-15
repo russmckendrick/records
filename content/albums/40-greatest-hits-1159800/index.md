@@ -1,14 +1,17 @@
 ---
 title: "Elvis Presley - 40 Greatest Hits"
-album_artist: "Elvis Presley"
-album_title: "40 Greatest Hits"
+artist: "Elvis Presley"
+album_name: "40 Greatest Hits"
 date: 2016-01-08
 release_id: "1159800"
 slug: "40-greatest-hits-1159800"
+hideSummary: true
 cover:
     image: "40-greatest-hits-1159800.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "40 Greatest Hits by Elvis Presley"
+    caption: "40 Greatest Hits by Elvis Presley"
+genres: ["Rock", "Pop"]
+styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ---
 
 ## Tracklisting
@@ -53,16 +56,17 @@ hideSummary: true
 39. There Goes My Everything
 40. Don't Cry Daddy
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Elvis Presley - 40 Greatest Hits](https://www.discogs.com/release/1159800) |
+| Release Year   | 1975 |
+| Discogs Link   | [Elvis Presley - 40 Greatest Hits](https://www.discogs.com/release/1159800-Elvis-Presley-40-Greatest-Hits) |
 | Label          | Arcade, Arcade |
 | Format         | 2xLP, Comp, Gat |
 | Catalog Number | ADEP 12, ADE P 12 |
+
+Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA 
 

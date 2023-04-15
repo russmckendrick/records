@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)"
-album_artist: "Steven Wilson"
-album_title: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)"
+artist: "Steven Wilson"
+album_name: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)"
 date: 2023-02-15
 release_id: "26064292"
 slug: "intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26064292"
+hideSummary: true
 cover:
     image: "intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26064292.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson"
+    caption: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson"
+genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, World, & Country"]
+styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
 
 ## Tracklisting
@@ -78,13 +81,16 @@ hideSummary: true
 - [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)](https://www.discogs.com/release/26064292) |
+| Release Year   | 2023 |
+| Discogs Link   | [Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)](https://www.discogs.com/release/26064292-Steven-Wilson-Intrigue-Steven-Wilson-Presents-Progressive-Sounds-In-UK-Alternative-Music-1979-89) |
 | Label          | Demon Records |
 | Format         | Box, Comp, Ltd + 7xLP, Comp, 140 |
 | Catalog Number | DEMRECBOX78X |
+
+UK limited edition box set 7 x 140g vinyl compilation.  An exclusive signed edition includes a limited edition print (1,000 copies worldwide) signed by Steven Wilson.  58 tracks exploring the creativity, experimentation, and progressive spirit of alternative British music from 1979 to 1989  Includes a 40-page booklet with extensive liner notes by James Nice and an introduction from Steven Wilson.  This compilation ℗ & © 2023 Demon Music Group.   Marketed by Demon Records, a division of Demon Music Group Limited, London W12 7FA.   The Demon Music Group is a BBC Studios company.   Made in the EU.   DEMRECBOX78X www.demonmusicgroup.co.uk  Three other versions exist: *  [url=/release/26078881]DEMRECBOX78 / 5014797908376 - (7 x 140g Black Vinyl)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]  [ERRATUM]: F3:  [m=829865], printed as They All Run After The Carving Knife
 

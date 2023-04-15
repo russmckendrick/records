@@ -1,14 +1,17 @@
 ---
 title: "Blackfield - For The Music"
-album_artist: "Blackfield"
-album_title: "For The Music"
+artist: "Blackfield"
+album_name: "For The Music"
 date: 2021-02-08
 release_id: "16348308"
 slug: "for-the-music-16348308"
+hideSummary: true
 cover:
     image: "for-the-music-16348308.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "For The Music by Blackfield"
+    caption: "For The Music by Blackfield"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
 - [Blackfield - Summer's Gone (Official 4K Video)](https://www.youtube.com/watch?v=iPpsVVBUPHo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Blackfield - For The Music](https://www.discogs.com/release/16348308) |
+| Release Year   | 2020 |
+| Discogs Link   | [Blackfield - For The Music](https://www.discogs.com/release/16348308-Blackfield-For-The-Music) |
 | Label          | Warner Music Central Europe |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | 0190295-1397-8-0 |
+
+Comes with download code.
 

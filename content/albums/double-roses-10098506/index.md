@@ -1,14 +1,17 @@
 ---
 title: "Karen Elson - Double Roses"
-album_artist: "Karen Elson"
-album_title: "Double Roses"
+artist: "Karen Elson"
+album_name: "Double Roses"
 date: 2017-04-23
 release_id: "10098506"
 slug: "double-roses-10098506"
+hideSummary: true
 cover:
     image: "double-roses-10098506.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Double Roses by Karen Elson"
+    caption: "Double Roses by Karen Elson"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="uEKiKp-2bW4" title="Karen Elson - Double Roses [FULL ALBUM]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Karen Elson - Double Roses](https://www.discogs.com/release/10098506) |
+| Release Year   | 2017 |
+| Discogs Link   | [Karen Elson - Double Roses](https://www.discogs.com/release/10098506-Karen-Elson-Double-Roses) |
 | Label          | 1965 Records |
 | Format         | LP, Album |
 | Catalog Number | 9223701 |
+
+
 

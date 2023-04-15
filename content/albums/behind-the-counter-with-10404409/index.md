@@ -1,14 +1,17 @@
 ---
 title: "Max Richter, Various - Behind The Counter With"
-album_artist: "Max Richter, Various"
-album_title: "Behind The Counter With"
+artist: "Max Richter, Various"
+album_name: "Behind The Counter With"
 date: 2017-06-19
 release_id: "10404409"
 slug: "behind-the-counter-with-10404409"
+hideSummary: true
 cover:
     image: "behind-the-counter-with-10404409.jpg"
-tags: ["Electronic", "Rock", "Classical"]
-hideSummary: true
+    alt: "Behind The Counter With by Max Richter, Various"
+    caption: "Behind The Counter With by Max Richter, Various"
+genres: ["Electronic", "Rock", "Classical"]
+styles: ["Contemporary", "Ambient", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -68,13 +71,16 @@ hideSummary: true
 - [Golijov: Tenebrae - 2.](https://www.youtube.com/watch?v=kZhro4uKyg8)
 - [Wasserklavier](https://www.youtube.com/watch?v=yIfIUyj6eDc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Max Richter, Various - Behind The Counter With](https://www.discogs.com/release/10404409) |
+| Release Year   | 2017 |
+| Discogs Link   | [Max Richter, Various - Behind The Counter With](https://www.discogs.com/release/10404409-Max-Richter-Various-Behind-The-Counter-With) |
 | Label          | Rough Trade |
 | Format         | 3xLP, Comp, Tra + 7\", Bla + CD, Comp, Promo |
 | Catalog Number | rtbtc1lpx |
+
+This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor". The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version. There is a download code for 2 mixes [total time 120:22] The LP has 27 tracks The "Download Mix" has 33 tracks  3 panel sleeve.  
 

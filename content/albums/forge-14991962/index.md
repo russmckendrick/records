@@ -1,14 +1,17 @@
 ---
 title: "Fassine - Forge"
-album_artist: "Fassine"
-album_title: "Forge"
+artist: "Fassine"
+album_name: "Forge"
 date: 2020-04-09
 release_id: "14991962"
 slug: "forge-14991962"
+hideSummary: true
 cover:
     image: "forge-14991962.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Forge by Fassine"
+    caption: "Forge by Fassine"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Everyone Is Guilty To Me](https://www.youtube.com/watch?v=9fMOGTcoc1w)
 - [Migraine](https://www.youtube.com/watch?v=MU_QGJUgGtM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Fassine - Forge](https://www.discogs.com/release/14991962) |
+| Release Year   | 2020 |
+| Discogs Link   | [Fassine - Forge](https://www.discogs.com/release/14991962-Fassine-Forge) |
 | Label          | Trapped Animal, Trapped Animal |
 | Format         | LP, Ltd, Blu |
 | Catalog Number | TAR018VX, TAR018 |
+
+Includes a download coupon. Catalogue number TAR018VX is on a barcode sticker on the shrink.
 

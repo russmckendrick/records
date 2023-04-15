@@ -1,14 +1,17 @@
 ---
 title: "Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
-album_artist: "Doctor Who"
-album_title: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
+artist: "Doctor Who"
+album_name: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
 date: 2017-04-23
 release_id: "10173664"
 slug: "doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664"
+hideSummary: true
 cover:
     image: "doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664.jpg"
-tags: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
-hideSummary: true
+    alt: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who"
+    caption: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who"
+genres: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
+styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
 
 ## Tracklisting
@@ -47,16 +50,17 @@ hideSummary: true
 33. Dalek Gun (3 Blasts) - Genesis Of The Daleks
 34. Dragon Ray-Gun - The Talons Of Weng Chi'Ang
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19](https://www.discogs.com/release/10173664) |
+| Release Year   | 2017 |
+| Discogs Link   | [Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19](https://www.discogs.com/release/10173664-Doctor-Who-Doctor-Who-And-The-Pescatons-Doctor-Who-Sound-Effects-No19) |
 | Label          | Demon Records |
 | Format         | LP, RE, 180 + LP, Mono, RE, 180 + RSD, S/Edition |
 | Catalog Number | DEMREC202 |
+
+Released for Record Store Day 2017.  Voices recorded at Argo Studios, London. Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.  This recording released by arrangement with B.B.C. Records.  ℗ & © 2017 Demon Music Group.  Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO.
 

@@ -1,14 +1,17 @@
 ---
 title: "Ed Wynne And Gregoor Van Der Loo - Tumbling Through The Floativerse"
-album_artist: "Ed Wynne And Gregoor Van Der Loo"
-album_title: "Tumbling Through The Floativerse"
+artist: "Ed Wynne And Gregoor Van Der Loo"
+album_name: "Tumbling Through The Floativerse"
 date: 2022-08-08
 release_id: "23922800"
 slug: "tumbling-through-the-floativerse-23922800"
+hideSummary: true
 cover:
     image: "tumbling-through-the-floativerse-23922800.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Tumbling Through The Floativerse by Ed Wynne And Gregoor Van Der Loo"
+    caption: "Tumbling Through The Floativerse by Ed Wynne And Gregoor Van Der Loo"
+genres: ["Electronic", "Rock"]
+styles: ["Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Infinity Curtains](https://www.youtube.com/watch?v=8hm4FG_UmEI)
 - [Starseeds](https://www.youtube.com/watch?v=4A560y7IJ3s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Ed Wynne And Gregoor Van Der Loo - Tumbling Through The Floativerse](https://www.discogs.com/release/23922800) |
+| Release Year   | 2022 |
+| Discogs Link   | [Ed Wynne And Gregoor Van Der Loo - Tumbling Through The Floativerse](https://www.discogs.com/release/23922800-Ed-Wynne-And-Gre-Vanderloo-Tumbling-Through-The-Floativerse) |
 | Label          | Kscope, Kscope |
 | Format         | LP, Album |
 | Catalog Number | KSCOPE 1176, KSCOPE1176 |
+
+All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms). Layout by Ed with a little help from Arnold Pesch@Peschdesign. Mastered by Adam Goodlet at re:Creation Studios.  Hype sticker: "New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"  Black vinyl. Some copies come with a Kscope promo leaflet.
 

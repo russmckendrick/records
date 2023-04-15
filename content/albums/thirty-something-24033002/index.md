@@ -1,14 +1,17 @@
 ---
 title: "Orbital - Thirty-Something"
-album_artist: "Orbital"
-album_title: "Thirty-Something"
+artist: "Orbital"
+album_name: "Thirty-Something"
 date: 2022-08-01
 release_id: "24033002"
 slug: "thirty-something-24033002"
+hideSummary: true
 cover:
     image: "thirty-something-24033002.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Thirty-Something by Orbital"
+    caption: "Thirty-Something by Orbital"
+genres: ["Electronic"]
+styles: ["Techno", "House", "Breakbeat", "Trance"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Belfast (David Holmes Remix)](https://www.youtube.com/watch?v=H_avqDJCJ54)
 - [Orbital - Belfast (ANNA Ambient Remix) Visualiser](https://www.youtube.com/watch?v=oYDGnjjLMzU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Orbital - Thirty-Something](https://www.discogs.com/release/24033002) |
+| Release Year   | 2022 |
+| Discogs Link   | [Orbital - Thirty-Something](https://www.discogs.com/release/24033002-Orbital-Thirty-Something) |
 | Label          | Orbital Recordings Ltd., London Records |
 | Format         | 4x12\", Album, 180 + Box |
 | Catalog Number | LMS5521698 |
+
+Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat. 
 

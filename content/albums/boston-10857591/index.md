@@ -1,14 +1,17 @@
 ---
 title: "Boston - Boston"
-album_artist: "Boston"
-album_title: "Boston"
+artist: "Boston"
+album_name: "Boston"
 date: 2018-11-17
 release_id: "10857591"
 slug: "boston-10857591"
+hideSummary: true
 cover:
     image: "boston-10857591.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Boston by Boston"
+    caption: "Boston by Boston"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Boston - 1976 (Analog Album Remaster)](https://www.youtube.com/watch?v=_V4LtZuF--Q)
 - [Boston - Smokin' (Official Audio)](https://www.youtube.com/watch?v=bDI-AdnIK08)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Boston - Boston](https://www.discogs.com/release/10857591) |
+| Release Year   | 2017 |
+| Discogs Link   | [Boston - Boston](https://www.discogs.com/release/10857591-Boston-Boston) |
 | Label          | Epic, Sony Music, Legacy, We Are Vinyl |
 | Format         | LP, Album, RP, 180 |
 | Catalog Number | 88985438101 |
+
+℗ 1976 and © 1976, 2017 Epic Records. Made in the EU.
 

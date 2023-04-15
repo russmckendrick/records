@@ -1,14 +1,17 @@
 ---
 title: "David Gilmour - On An Island"
-album_artist: "David Gilmour"
-album_title: "On An Island"
+artist: "David Gilmour"
+album_name: "On An Island"
 date: 2015-10-12
 release_id: "707721"
 slug: "on-an-island-707721"
+hideSummary: true
 cover:
     image: "on-an-island-707721.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "On An Island by David Gilmour"
+    caption: "On An Island by David Gilmour"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [David Gilmour - Smile (Remember That Night)](https://www.youtube.com/watch?v=F1owAiSYfPo)
 - [David Gilmour -Remember That Night, Live At The Royal Albert Hall - Full DVD](https://www.youtube.com/watch?v=vFNpNmIAp_M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2006 |
-| Discogs Link   | [David Gilmour - On An Island](https://www.discogs.com/release/707721) |
+| Release Year   | 2006 |
+| Discogs Link   | [David Gilmour - On An Island](https://www.discogs.com/release/707721-David-Gilmour-On-An-Island) |
 | Label          | EMI |
 | Format         | LP, Album, Gat |
 | Catalog Number | 0946 3 55695 1 3 |
+
+Made in the EU.  It comes in heavy gatefold cover with poster 
 

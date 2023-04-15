@@ -1,14 +1,17 @@
 ---
 title: "New Order - Ceremony"
-album_artist: "New Order"
-album_title: "Ceremony"
+artist: "New Order"
+album_name: "Ceremony"
 date: 2019-03-11
 release_id: "13303448"
 slug: "ceremony-13303448"
+hideSummary: true
 cover:
     image: "ceremony-13303448.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ceremony by New Order"
+    caption: "Ceremony by New Order"
+genres: ["Rock"]
+styles: ["Post-Punk"]
 ---
 
 ## Tracklisting
@@ -16,15 +19,19 @@ hideSummary: true
 2. In A Lonely Place (6:12)
 
 ## Videos
+{{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}
+- [Ceremony](https://www.youtube.com/watch?v=kkASIx9Xk6s)
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [New Order - Ceremony](https://www.discogs.com/release/13303448) |
+| Release Year   | 2019 |
+| Discogs Link   | [New Order - Ceremony](https://www.discogs.com/release/13303448-New-Order-Ceremony) |
 | Label          | Factory, Factory |
 | Format         | 12\", Single, RE, RM, 180 |
 | Catalog Number | FAC. 33, FAC 33/12 |
+
+The alternative, re-recorded version of ‘Ceremony’ (i.e Version 2) featuring Gillian Gilbert  (originally released later in 1981) and features the later alternative ‘cream’ sleeve rather than the original green and copper. Remastered audio on heavyweight vinyl.  ℗ Original 1981, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Although this repress is supposed to reproduce the original 12", the artwork is far from accurate. The centre box is just white (rather than pale grey/cream) The blue stripe is considerably wider and the black square is much nearer the edge of the sleeve.  They also omitted the red "League" diamond from the bottom corner of the back cover  Confirmed from copy in hand that this edition contains the original mix of In A Lonely Place (ie digital thunderclap at 3:20 and again at 5:15 and then none between 5:30 and 6:15)
 

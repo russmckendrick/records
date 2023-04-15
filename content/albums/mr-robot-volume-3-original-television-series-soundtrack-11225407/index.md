@@ -1,14 +1,17 @@
 ---
 title: "Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
-album_artist: "Mac Quayle"
-album_title: "Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
+artist: "Mac Quayle"
+album_name: "Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
 date: 2017-12-02
 release_id: "11225407"
 slug: "mr-robot-volume-3-original-television-series-soundtrack-11225407"
+hideSummary: true
 cover:
     image: "mr-robot-volume-3-original-television-series-soundtrack-11225407.jpg"
-tags: ["Electronic", "Stage & Screen"]
-hideSummary: true
+    alt: "Mr. Robot: Volume 3 (Original Television Series Soundtrack) by Mac Quayle"
+    caption: "Mr. Robot: Volume 3 (Original Television Series Soundtrack) by Mac Quayle"
+genres: ["Electronic", "Stage & Screen"]
+styles: ["Soundtrack", "Score"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [2.3_5-pun1shm3nt.ape](https://www.youtube.com/watch?v=Alul7aWuqaY)
 - [2.4_1-heartworm.3gp](https://www.youtube.com/watch?v=CdCVt2maF8g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)](https://www.discogs.com/release/11225407) |
+| Release Year   | 2017 |
+| Discogs Link   | [Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)](https://www.discogs.com/release/11225407-Mac-Quayle-Mr-Robot-Volume-3-Original-Television-Series-Soundtrack) |
 | Label          | Invada, Invada |
 | Format         | 2xLP, Album, Cle |
 | Catalog Number | LSINV189LP, LSINV189LPcol |
+
+Sticker on release reads: "2 x Crystal clear with red & white splatter effect vinyl.  Deluxe gatefold sleeve includes full colour insert  + 11"× 22" fold-out poster."  Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing.
 

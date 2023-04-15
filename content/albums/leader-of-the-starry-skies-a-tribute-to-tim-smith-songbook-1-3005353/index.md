@@ -1,14 +1,17 @@
 ---
 title: "Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
-album_artist: "Various"
-album_title: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
+artist: "Various"
+album_name: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
 date: 2016-05-31
 release_id: "3005353"
 slug: "leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353"
+hideSummary: true
 cover:
     image: "leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various"
+    caption: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various"
+genres: ["Electronic", "Rock"]
+styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Big Ship](https://www.youtube.com/watch?v=fMxcqGFwntk)
 - [Savour](https://www.youtube.com/watch?v=PNAxcZ2LJuE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1](https://www.discogs.com/release/3005353) |
+| Release Year   | 2011 |
+| Discogs Link   | [Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1](https://www.discogs.com/release/3005353-Various--Leader-Of-The-Starry-Skies--A-Tribute-To-Tim-Smith-Songbook-1) |
 | Label          | Believers Roast |
 | Format         | 2xLP |
 | Catalog Number | BRR3LP |
+
+
 

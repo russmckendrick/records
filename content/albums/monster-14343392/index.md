@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - Monster"
-album_artist: "R.E.M."
-album_title: "Monster"
+artist: "R.E.M."
+album_name: "Monster"
 date: 2019-11-01
 release_id: "14343392"
 slug: "monster-14343392"
+hideSummary: true
 cover:
     image: "monster-14343392.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Monster by R.E.M."
+    caption: "Monster by R.E.M."
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [R.E.M. - Crush with Eyeliner (Monster, Remastered)](https://www.youtube.com/watch?v=S9RbfBrpilw)
 - [R.E.M. - What's The Frequency, Kenneth? (Official Music Video)](https://www.youtube.com/watch?v=jWkMhCLkVOg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [R.E.M. - Monster](https://www.discogs.com/release/14343392) |
+| Release Year   | 2019 |
+| Discogs Link   | [R.E.M. - Monster](https://www.discogs.com/release/14343392-REM-Monster) |
 | Label          | Craft Recordings, Craft Recordings |
 | Format         | 2xLP, Album, RE, RM, 25t |
 | Catalog Number | CR00239, 00888072111493 |
+
+
 

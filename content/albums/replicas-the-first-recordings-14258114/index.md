@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan // Tubeway Army - Replicas (The First Recordings)"
-album_artist: "Gary Numan // Tubeway Army"
-album_title: "Replicas (The First Recordings)"
+artist: "Gary Numan // Tubeway Army"
+album_name: "Replicas (The First Recordings)"
 date: 2019-10-12
 release_id: "14258114"
 slug: "replicas-the-first-recordings-14258114"
+hideSummary: true
 cover:
     image: "replicas-the-first-recordings-14258114.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Replicas (The First Recordings) by Gary Numan // Tubeway Army"
+    caption: "Replicas (The First Recordings) by Gary Numan // Tubeway Army"
+genres: ["Electronic"]
+styles: ["New Wave"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [Down in the Park (BBC Peel Sessions)](https://www.youtube.com/watch?v=Wdl5--cSVe8)
 - [I Nearly Married a Human (BBC Peel Sessions)](https://www.youtube.com/watch?v=NTMKk8GrN4M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Gary Numan // Tubeway Army - Replicas (The First Recordings)](https://www.discogs.com/release/14258114) |
+| Release Year   | 2019 |
+| Discogs Link   | [Gary Numan // Tubeway Army - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan--Tubeway-Army-Replicas-The-First-Recordings) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Album, Comp, Sag |
 | Catalog Number | BBQ2159LP |
+
+40th Anniversary Edition  Signed copies available at gigs two weeks prior to official release   ℗ & © 2019 Beggars Banquet, The Arkive  Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London. Side Four Recorded at BBC Maida Vale Studios London.
 

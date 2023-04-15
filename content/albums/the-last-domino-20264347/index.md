@@ -1,14 +1,17 @@
 ---
 title: "Genesis - The Last Domino?"
-album_artist: "Genesis"
-album_title: "The Last Domino?"
+artist: "Genesis"
+album_name: "The Last Domino?"
 date: 2021-09-17
 release_id: "20264347"
 slug: "the-last-domino-20264347"
+hideSummary: true
 cover:
     image: "the-last-domino-20264347.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Last Domino? by Genesis"
+    caption: "The Last Domino? by Genesis"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Genesis - The Last Domino - The Hits (2021)](https://www.youtube.com/watch?v=7ghJJ70x0Lo)
 - [Genesis - Documentary - The Last Domino? (2021)](https://www.youtube.com/watch?v=JPSpxCnVgTM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Genesis - The Last Domino?](https://www.discogs.com/release/20264347) |
+| Release Year   | 2021 |
+| Discogs Link   | [Genesis - The Last Domino?](https://www.discogs.com/release/20264347-Genesis-The-Last-Domino) |
 | Label          | Virgin, UMC |
 | Format         | 4xLP, Comp, Ltd, 180 |
 | Catalog Number | 3542867, 00602435428673 |
+
+This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd. Made in Germany. Universal International Music B.V.  Double Gatefold book format Comes with a download code. 
 

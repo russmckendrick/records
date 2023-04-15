@@ -1,14 +1,17 @@
 ---
 title: "Black Country, New Road - For The First Time"
-album_artist: "Black Country, New Road"
-album_title: "For The First Time"
+artist: "Black Country, New Road"
+album_name: "For The First Time"
 date: 2021-02-05
 release_id: "17151706"
 slug: "for-the-first-time-17151706"
+hideSummary: true
 cover:
     image: "for-the-first-time-17151706.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "For The First Time by Black Country, New Road"
+    caption: "For The First Time by Black Country, New Road"
+genres: ["Rock"]
+styles: ["Experimental", "Post-Punk", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Black Country, New Road - 'Track X' (Official Video)](https://www.youtube.com/watch?v=u3H8O8RJp3M)
 - [Black Country New Road - 'Opus' (Official Lyric Video)](https://www.youtube.com/watch?v=jkppJiPZJaw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Black Country, New Road - For The First Time](https://www.discogs.com/release/17151706) |
+| Release Year   | 2021 |
+| Discogs Link   | [Black Country, New Road - For The First Time](https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time) |
 | Label          | Ninja Tune |
 | Format         | LP, Album |
 | Catalog Number | ZEN269 |
+
+140 gram single LP w/ white paper inner sleeve and 12 inch lyric booklet. Also comes with download code stickered on inner sleeve.
 

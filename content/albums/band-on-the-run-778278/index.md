@@ -1,14 +1,17 @@
 ---
 title: "Wings (2) - Band On The Run"
-album_artist: "Wings (2)"
-album_title: "Band On The Run"
+artist: "Wings (2)"
+album_name: "Band On The Run"
 date: 2016-04-08
 release_id: "778278"
 slug: "band-on-the-run-778278"
+hideSummary: true
 cover:
     image: "band-on-the-run-778278.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Band On The Run by Wings (2)"
+    caption: "Band On The Run by Wings (2)"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Picasso’s Last Words (Drink to Me)](https://www.youtube.com/watch?v=9NobdV5Kxw8)
 - [Nineteen Hundred And Eighty Five (Remastered 2010)](https://www.youtube.com/watch?v=M9L0Y9VbZG0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1973 |
-| Discogs Link   | [Wings (2) - Band On The Run](https://www.discogs.com/release/778278) |
+| Release Year   | 1973 |
+| Discogs Link   | [Wings (2) - Band On The Run](https://www.discogs.com/release/778278-Paul-McCartney-And-Wings-Band-On-The-Run) |
 | Label          | Apple Records, Apple Records |
 | Format         | LP, Album |
 | Catalog Number | PAS 10007, OC 064 ◦ 05503 |
+
+Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.  Also available on cassette and cartridge. ℗ 1973 EMI Records Ltd.  An Apple Record.  This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.
 

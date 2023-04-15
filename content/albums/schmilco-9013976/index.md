@@ -1,14 +1,17 @@
 ---
 title: "Wilco - Schmilco"
-album_artist: "Wilco"
-album_title: "Schmilco"
+artist: "Wilco"
+album_name: "Schmilco"
 date: 2016-09-13
 release_id: "9013976"
 slug: "schmilco-9013976"
+hideSummary: true
 cover:
     image: "schmilco-9013976.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Schmilco by Wilco"
+    caption: "Schmilco by Wilco"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="h2wt9TvkSZE" title="SCHMILCO - Wilco [2016] - Full Album" >}}
 - [If I Ever Was a Child - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Wilco - Schmilco](https://www.discogs.com/release/9013976) |
+| Release Year   | 2016 |
+| Discogs Link   | [Wilco - Schmilco](https://www.discogs.com/release/9013976-Wilco-Schmilco) |
 | Label          | dBpm Records, Anti- |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | 7259-1 |
+
+Released in gatefold sleeve with download card.
 

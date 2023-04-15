@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - Heathen"
-album_artist: "David Bowie"
-album_title: "Heathen"
+artist: "David Bowie"
+album_name: "Heathen"
 date: 2015-10-28
 release_id: "3285687"
 slug: "heathen-3285687"
+hideSummary: true
 cover:
     image: "heathen-3285687.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Heathen by David Bowie"
+    caption: "Heathen by David Bowie"
+genres: ["Rock"]
+styles: ["Art Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Cactus](https://www.youtube.com/watch?v=qFCDKYCevYs)
 - [I Would Be Your Slave](https://www.youtube.com/watch?v=DPPRPopWe9s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [David Bowie - Heathen](https://www.discogs.com/release/3285687) |
+| Release Year   | 2011 |
+| Discogs Link   | [David Bowie - Heathen](https://www.discogs.com/release/3285687-David-Bowie-Heathen) |
 | Label          | Music On Vinyl, ISO Records, Columbia |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP470 |
+
+Comes in plain white poly-lined paper inner sleeve. Includes printed insert.  From 16 track analog tape converted on 24bit.  Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing www.musiconvinyl.com  Runouts are etched, except side A '5082221000 1A1' stamped. 
 

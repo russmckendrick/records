@@ -1,14 +1,17 @@
 ---
 title: "Regal Worm - Pig Views"
-album_artist: "Regal Worm"
-album_title: "Pig Views"
+artist: "Regal Worm"
+album_name: "Pig Views"
 date: 2018-07-30
 release_id: "12281965"
 slug: "pig-views-12281965"
+hideSummary: true
 cover:
     image: "pig-views-12281965.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pig Views by Regal Worm"
+    caption: "Pig Views by Regal Worm"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="zFJmtIe8ubo" title="Regal Worm - Pig Views (2018) (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Regal Worm - Pig Views](https://www.discogs.com/release/12281965) |
+| Release Year   | 2018 |
+| Discogs Link   | [Regal Worm - Pig Views](https://www.discogs.com/release/12281965-Regal-Worm-Pig-Views) |
 | Label          | Uranium Club, Quatermass Records |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | UCV92002 |
+
+Packaged in a single jacket with color insert, sticker and download card.   D1 and D2 are bonus tracks exclusive to this release.
 

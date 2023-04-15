@@ -1,14 +1,17 @@
 ---
 title: "Deltron 3030 - Deltron 3030"
-album_artist: "Deltron 3030"
-album_title: "Deltron 3030"
+artist: "Deltron 3030"
+album_name: "Deltron 3030"
 date: 2017-03-18
 release_id: "2700033"
 slug: "deltron-3030-2700033"
+hideSummary: true
 cover:
     image: "deltron-3030-2700033.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "Deltron 3030 by Deltron 3030"
+    caption: "Deltron 3030 by Deltron 3030"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Leftfield", "Experimental", "Conscious"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Deltron 3030 - 3030](https://www.youtube.com/watch?v=Q7_jbluF0qo)
 - [Deltron 3030 - Virus (Instrumental)](https://www.youtube.com/watch?v=wOwNoXGXdus)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Deltron 3030 - Deltron 3030](https://www.discogs.com/release/2700033) |
+| Release Year   | 2011 |
+| Discogs Link   | [Deltron 3030 - Deltron 3030](https://www.discogs.com/release/2700033-Deltron-3030-Deltron-3030) |
 | Label          | Deltron Partners |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | DEL 75033 |
+
+
 

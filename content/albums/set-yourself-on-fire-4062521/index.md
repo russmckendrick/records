@@ -1,14 +1,17 @@
 ---
 title: "Stars - Set Yourself On Fire"
-album_artist: "Stars"
-album_title: "Set Yourself On Fire"
+artist: "Stars"
+album_name: "Set Yourself On Fire"
 date: 2016-01-18
 release_id: "4062521"
 slug: "set-yourself-on-fire-4062521"
+hideSummary: true
 cover:
     image: "set-yourself-on-fire-4062521.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Set Yourself On Fire by Stars"
+    caption: "Set Yourself On Fire by Stars"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)
 - [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Stars - Set Yourself On Fire](https://www.discogs.com/release/4062521) |
+| Release Year   | 2012 |
+| Discogs Link   | [Stars - Set Yourself On Fire](https://www.discogs.com/release/4062521-Stars-Set-Yourself-On-Fire) |
 | Label          | Arts & Crafts International |
 | Format         | LP, Album, RP, 180 |
 | Catalog Number | A&C009 |
+
+180g repress. Include a Digital Download Card.
 

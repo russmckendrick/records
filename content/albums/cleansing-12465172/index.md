@@ -1,14 +1,17 @@
 ---
 title: "Prong - Cleansing"
-album_artist: "Prong"
-album_title: "Cleansing"
+artist: "Prong"
+album_name: "Cleansing"
 date: 2018-10-12
 release_id: "12465172"
 slug: "cleansing-12465172"
+hideSummary: true
 cover:
     image: "cleansing-12465172.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Cleansing by Prong"
+    caption: "Cleansing by Prong"
+genres: ["Rock"]
+styles: ["Groove Metal", "Industrial Metal"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Prong - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=SLya_k_lQL0)
 - [PRONG - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=v49Hve4GvOo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Prong - Cleansing](https://www.discogs.com/release/12465172) |
+| Release Year   | 2018 |
+| Discogs Link   | [Prong - Cleansing](https://www.discogs.com/release/12465172-Prong-Cleansing) |
 | Label          | The Century Family Inc., RED MUSIC (4), Epic, Legacy |
 | Format         | LP, Album, Ltd, RE |
 | Catalog Number | 19075828161 |
+
+Sequentially numbered tracks
 

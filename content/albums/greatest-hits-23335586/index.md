@@ -1,14 +1,17 @@
 ---
 title: "Whitesnake - Greatest Hits"
-album_artist: "Whitesnake"
-album_title: "Greatest Hits"
+artist: "Whitesnake"
+album_name: "Greatest Hits"
 date: 2022-06-04
 release_id: "23335586"
 slug: "greatest-hits-23335586"
+hideSummary: true
 cover:
     image: "greatest-hits-23335586.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hits by Whitesnake"
+    caption: "Greatest Hits by Whitesnake"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Whitesnake - Love Ain't No Stranger](https://www.youtube.com/watch?v=unHzLEA6gvI)
 - [Whitesnake - Is This Love](https://www.youtube.com/watch?v=Lx15RANQiKM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586) |
+| Release Year   | 2022 |
+| Discogs Link   | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586-Whitesnake-Greatest-Hits) |
 | Label          | Warner Music Group |
 | Format         | 2xLP, Album, Comp, Ltd |
 | Catalog Number | 0190296457791 |
+
+
 

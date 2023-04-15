@@ -1,14 +1,17 @@
 ---
 title: "LCD Soundsystem - This Is Happening"
-album_artist: "LCD Soundsystem"
-album_title: "This Is Happening"
+artist: "LCD Soundsystem"
+album_name: "This Is Happening"
 date: 2017-06-04
 release_id: "2395827"
 slug: "this-is-happening-2395827"
+hideSummary: true
 cover:
     image: "this-is-happening-2395827.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "This Is Happening by LCD Soundsystem"
+    caption: "This Is Happening by LCD Soundsystem"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Somebody's Calling Me](https://www.youtube.com/watch?v=-jDlmw8V-zE)
 - [Home](https://www.youtube.com/watch?v=ETDCbQUYiAQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [LCD Soundsystem - This Is Happening](https://www.discogs.com/release/2395827) |
+| Release Year   | 2010 |
+| Discogs Link   | [LCD Soundsystem - This Is Happening](https://www.discogs.com/release/2395827-LCD-Soundsystem-This-Is-Happening) |
 | Label          | DFA, Virgin Music |
 | Format         | 2xLP, Album |
 | Catalog Number | DFA 2250-2 |
+
+Issued in a matte gatefold sleeve with full-color printed inner sleeves with artwork and a full-color 11.5"×11.5" printed insert with lyrics, credits and artwork.  ℗ 2010 DFA LLC under exclusive license to Virgin Records © 2010 EMI Records Ltd. under exclusive license to Virgin Records Printed in U.S.A. Made in the USA  ℗ + © 2010 DFA Records  Produced for The DFA in 2009/2010 Recorded @ the Manshun and DFA Mixed @ DFA and the Hillside Manor  Tracks A1, B1, B2, C2, D2 mixed @ DFA. Tracks A2, B3, C1, D1 mixed @ Hillside.  Publishing: Guy with Head and Arms Music, 2009/2010  Label logos: DFA on back cover, spine, labels. Virgin Music on back cover.
 

@@ -1,14 +1,17 @@
 ---
 title: "The Stylistics - You Are Beautiful"
-album_artist: "The Stylistics"
-album_title: "You Are Beautiful"
+artist: "The Stylistics"
+album_name: "You Are Beautiful"
 date: 2020-08-02
 release_id: "2400372"
 slug: "you-are-beautiful-2400372"
+hideSummary: true
 cover:
     image: "you-are-beautiful-2400372.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "You Are Beautiful by The Stylistics"
+    caption: "You Are Beautiful by The Stylistics"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Stylistics -You Are Beautiful/ A3 That Don't Shake Me 3:15/Avco 1975](https://www.youtube.com/watch?v=za04lLFqchw)
 - [The Stylistics       You Are Beautiful](https://www.youtube.com/watch?v=yYuWLInzYCA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [The Stylistics - You Are Beautiful](https://www.discogs.com/release/2400372) |
+| Release Year   | 1975 |
+| Discogs Link   | [The Stylistics - You Are Beautiful](https://www.discogs.com/release/2400372-The-Stylistics-You-Are-Beautiful) |
 | Label          | Avco |
 | Format         | LP, Album |
 | Catalog Number | 9109 006 |
+
+
 

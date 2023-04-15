@@ -1,14 +1,17 @@
 ---
 title: "Senseless Things - The First Of Too Many"
-album_artist: "Senseless Things"
-album_title: "The First Of Too Many"
+artist: "Senseless Things"
+album_name: "The First Of Too Many"
 date: 2019-03-24
 release_id: "4677659"
 slug: "the-first-of-too-many-4677659"
+hideSummary: true
 cover:
     image: "the-first-of-too-many-4677659.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The First Of Too Many by Senseless Things"
+    caption: "The First Of Too Many by Senseless Things"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
 - [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659) |
+| Release Year   | 1991 |
+| Discogs Link   | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659-Senseless-Things-The-First-Of-Too-Many) |
 | Label          | Epic, Epic |
 | Format         | LP, Album, Ltd, Pur |
 | Catalog Number | 469157 1, 01-469157-20 |
+
+Recorded at the Greenhouse Studios, London - March/April 1991. Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991. Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991. Track B2 mixed at Gooseberry Studis, Brixton - July 1991. 
 

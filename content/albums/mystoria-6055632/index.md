@@ -1,14 +1,17 @@
 ---
 title: "Amplifier (3) - Mystoria"
-album_artist: "Amplifier (3)"
-album_title: "Mystoria"
+artist: "Amplifier (3)"
+album_name: "Mystoria"
 date: 2015-08-10
 release_id: "6055632"
 slug: "mystoria-6055632"
+hideSummary: true
 cover:
     image: "mystoria-6055632.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mystoria by Amplifier (3)"
+    caption: "Mystoria by Amplifier (3)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Amplifier - Black Rainbow](https://www.youtube.com/watch?v=z3JBcuP1FfQ)
 - [AMPLIFIER - Open Up (LYRIC VIDEO)](https://www.youtube.com/watch?v=VDdWkXa4yWE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Amplifier (3) - Mystoria](https://www.discogs.com/release/6055632) |
+| Release Year   | 2014 |
+| Discogs Link   | [Amplifier (3) - Mystoria](https://www.discogs.com/release/6055632-Amplifier-Mystoria) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album + CD, Album |
 | Catalog Number | SBMLP 032, 0506831 |
+
+180 gram black vinyl in gatefold cover with printed innersleeves Comes with cd version of the album
 

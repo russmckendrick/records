@@ -1,14 +1,17 @@
 ---
 title: "Audioweb - Fireworks City"
-album_artist: "Audioweb"
-album_title: "Fireworks City"
+artist: "Audioweb"
+album_name: "Fireworks City"
 date: 2022-09-18
 release_id: "19344019"
 slug: "fireworks-city-19344019"
+hideSummary: true
 cover:
     image: "fireworks-city-19344019.jpg"
-tags: ["Electronic", "Rock", "Reggae"]
-hideSummary: true
+    alt: "Fireworks City by Audioweb"
+    caption: "Fireworks City by Audioweb"
+genres: ["Electronic", "Rock", "Reggae"]
+styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Out of My Mind - Audioweb](https://www.youtube.com/watch?v=6eEhJyDRS9Y)
 - [Get out of Here - Audioweb](https://www.youtube.com/watch?v=3IuYviB0GV8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Audioweb - Fireworks City](https://www.discogs.com/release/19344019) |
+| Release Year   | 2021 |
+| Discogs Link   | [Audioweb - Fireworks City](https://www.discogs.com/release/19344019-Audioweb-Fireworks-City) |
 | Label          | Demon Records |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | DEMREC918 |
+
+"On vinyl for the first time"
 

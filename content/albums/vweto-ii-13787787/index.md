@@ -1,14 +1,17 @@
 ---
 title: "Georgia Anne Muldrow - Vweto II"
-album_artist: "Georgia Anne Muldrow"
-album_title: "Vweto II"
+artist: "Georgia Anne Muldrow"
+album_name: "Vweto II"
 date: 2020-04-10
 release_id: "13787787"
 slug: "vweto-ii-13787787"
+hideSummary: true
 cover:
     image: "vweto-ii-13787787.jpg"
-tags: ["Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "Vweto II by Georgia Anne Muldrow"
+    caption: "Vweto II by Georgia Anne Muldrow"
+genres: ["Hip Hop", "Funk / Soul"]
+styles: ["Instrumental", "Funk"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [Wu Punk](https://www.youtube.com/watch?v=j33VtKOYTLU)
 - [Mary Lou's Motherboard](https://www.youtube.com/watch?v=qaxYIPhdqp0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Georgia Anne Muldrow - Vweto II](https://www.discogs.com/release/13787787) |
+| Release Year   | 2019 |
+| Discogs Link   | [Georgia Anne Muldrow - Vweto II](https://www.discogs.com/release/13787787-Georgia-Anne-Muldrow-Vweto-II) |
 | Label          | Mello Music Group |
 | Format         | LP, Album, Bla |
 | Catalog Number | MMG-000132-1 |
+
+
 

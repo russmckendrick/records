@@ -1,14 +1,17 @@
 ---
 title: "Rush - Signals"
-album_artist: "Rush"
-album_title: "Signals"
+artist: "Rush"
+album_name: "Signals"
 date: 2017-02-22
 release_id: "7396893"
 slug: "signals-7396893"
+hideSummary: true
 cover:
     image: "signals-7396893.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Signals by Rush"
+    caption: "Signals by Rush"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -21,16 +24,17 @@ hideSummary: true
 7. Losing It
 8. Countdown
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Rush - Signals](https://www.discogs.com/release/7396893) |
+| Release Year   | 2015 |
+| Discogs Link   | [Rush - Signals](https://www.discogs.com/release/7396893-Rush-Signals) |
 | Label          | Anthem (5), Mercury, Universal Music Group |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 00602547118264 |
+
+Black label on Shrink Wrap  Back To Black  Includes a voucher to download an MP3 of the album  180g Heavyweight Vinyl    www.backtoblackvinyl.com  Rear Cover   Anthem Mercury UMG DMM
 

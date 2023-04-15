@@ -1,14 +1,17 @@
 ---
 title: "Joe Satriani - Surfing With The Alien"
-album_artist: "Joe Satriani"
-album_title: "Surfing With The Alien"
+artist: "Joe Satriani"
+album_name: "Surfing With The Alien"
 date: 2019-12-05
 release_id: "14479209"
 slug: "surfing-with-the-alien-14479209"
+hideSummary: true
 cover:
     image: "surfing-with-the-alien-14479209.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Surfing With The Alien by Joe Satriani"
+    caption: "Surfing With The Alien by Joe Satriani"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [Joe Satriani - Midnight](https://www.youtube.com/watch?v=GpXr31S56CU)
 - [Joe Satriani - Echo](https://www.youtube.com/watch?v=cMj8n5NKSeM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209) |
+| Release Year   | 2019 |
+| Discogs Link   | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209-Joe-Satriani-Surfing-With-The-Alien) |
 | Label          | Epic, Legacy |
 | Format         | LP, Album, Red + LP, Album, Mixed, Yel + Ltd, RE,  |
 | Catalog Number | 19075978611 |
+
+Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses.   Includes digital download card.   Made in the EU.
 

@@ -1,14 +1,17 @@
 ---
 title: "Pure Reason Revolution - Above Cirrus"
-album_artist: "Pure Reason Revolution"
-album_title: "Above Cirrus"
+artist: "Pure Reason Revolution"
+album_name: "Above Cirrus"
 date: 2022-05-10
 release_id: "23119040"
 slug: "above-cirrus-23119040"
+hideSummary: true
 cover:
     image: "above-cirrus-23119040.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Above Cirrus by Pure Reason Revolution"
+    caption: "Above Cirrus by Pure Reason Revolution"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Scream Sideways](https://www.youtube.com/watch?v=DMZuXRR4Mzw)
 - [Lucid](https://www.youtube.com/watch?v=usmXukkRXRI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Pure Reason Revolution - Above Cirrus](https://www.discogs.com/release/23119040) |
+| Release Year   | 2022 |
+| Discogs Link   | [Pure Reason Revolution - Above Cirrus](https://www.discogs.com/release/23119040-Pure-Reason-Revolution-Above-Cirrus) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Album, Gre + CD, Album + Ltd |
 | Catalog Number | IOM628, 19439989401 |
+
+Inside Out store exclusive release. Limited to 300 copies worldwide. Gatefold release. CD housed in a transparent sleeve and lyric sheet included. Some copies including a signed postcard.  LPs tracks positions given sequentially reardless of sides on back.  Track times taken from mediaplayer on PC.  Hype sticker: Gatefold 180g LP + CD Pure Reason Revolution return with seven songs of cinematic, psych-prog wonder.
 

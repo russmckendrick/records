@@ -1,14 +1,17 @@
 ---
 title: "Tool (2) - Lateralus"
-album_artist: "Tool (2)"
-album_title: "Lateralus"
+artist: "Tool (2)"
+album_name: "Lateralus"
 date: 2017-07-02
 release_id: "10315855"
 slug: "lateralus-10315855"
+hideSummary: true
 cover:
     image: "lateralus-10315855.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Lateralus by Tool (2)"
+    caption: "Lateralus by Tool (2)"
+genres: ["Rock"]
+styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [TOOL - Triad (Audio)](https://www.youtube.com/watch?v=JAzLQ5aeAOw)
 - [TOOL - Faaip De Oiad (Audio)](https://www.youtube.com/watch?v=7RmLkY1387A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Tool (2) - Lateralus](https://www.discogs.com/release/10315855) |
+| Release Year   | 2011 |
+| Discogs Link   | [Tool (2) - Lateralus](https://www.discogs.com/release/10315855-Tool-Lateralus) |
 | Label          | Zomba |
 | Format         | 2xLP, Album, Ltd, Pic, RE |
 | Catalog Number | 0614223116013 |
+
+"2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers
 

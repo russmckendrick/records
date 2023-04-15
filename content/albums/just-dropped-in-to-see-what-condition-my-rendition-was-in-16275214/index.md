@@ -1,14 +1,17 @@
 ---
 title: "Sharon Jones & The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)"
-album_artist: "Sharon Jones & The Dap-Kings"
-album_title: "Just Dropped In (To See What Condition My Rendition Was In)"
+artist: "Sharon Jones & The Dap-Kings"
+album_name: "Just Dropped In (To See What Condition My Rendition Was In)"
 date: 2020-12-01
 release_id: "16275214"
 slug: "just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214"
+hideSummary: true
 cover:
     image: "just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings"
+    caption: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Sharon Jones & the Dap-Kings Giving Up](https://www.youtube.com/watch?v=3onr9hAVXKA)
 - [Sharon Jones & the Dap-Kings It Hurts To Be Alone](https://www.youtube.com/watch?v=oLwo_CwbFew)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Sharon Jones & The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)](https://www.discogs.com/release/16275214) |
+| Release Year   | 2020 |
+| Discogs Link   | [Sharon Jones & The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)](https://www.discogs.com/release/16275214-Sharon-Jones-The-Dap-Kings-Just-Dropped-In-To-See-What-Condition-My-Rendition-Was-In) |
 | Label          | Daptone Records |
 | Format         | LP, Album, RSD, Ltd, Blu |
 | Catalog Number | DAP-066 |
+
+Record Store Day Black Friday "RSD First" release, 4,000 copies. Pressed on blue vinyl with black splatter.  Hype sticker affixed to shrink, with barcode: Limited blue vinyl with black splatter! These forays into other artists' compositions lay bare Miss Sharon Jones' incomparable vocal ability, and the Dap-Kings' gift for arrangement and unmatched studio prowess. A testament to their reigning title as The Baddest Band in the Land. "Sharon Jones is the 21st century's Godmother of Soul" - NPR Includes MP3 download card  Title on jacket back, labels: Just Dropped In (To See What Condition My Rendition Was In) Title on jacket front: "Just Dropped In To See What Condition My RENDITION Was In!" Title on jacket spine: Just Dropped In ...  Labels include "Support Your Local Record Store" text.  Recorded at Daptone House of Soul Studios, Brooklyn, NY, in sessions between 2000 and 2016.
 

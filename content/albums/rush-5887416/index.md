@@ -1,14 +1,17 @@
 ---
 title: "Rush - Rush"
-album_artist: "Rush"
-album_title: "Rush"
+artist: "Rush"
+album_name: "Rush"
 date: 2017-03-07
 release_id: "5887416"
 slug: "rush-5887416"
+hideSummary: true
 cover:
     image: "rush-5887416.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rush by Rush"
+    caption: "Rush by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -24,13 +27,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="YeAnzAaN0ZU" title="R̲u̲sh - R̲u̲sh (Full Album) 1974" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Rush - Rush](https://www.discogs.com/release/5887416) |
+| Release Year   | 2014 |
+| Discogs Link   | [Rush - Rush](https://www.discogs.com/release/5887416-Rush-Rush) |
 | Label          | Moon Records (18), Mercury, UMe, Universal Music Group International, Anthem (5) |
 | Format         | LP, Album, Ltd, RE, RM, 200 + Box |
 | Catalog Number | MN 100, B0020138-01 |
+
+ReDISCovered - Limited edition 200g 40th anniversary reissue of 1974 Moon Records album - Jacket art features all original 1974 details - Exclusive poster, band photo prints and Rush family tree - Digital download card - 320 kbps - Vinyl ripped AAC MP4s - Direct Metal Mastering DMM  Published by Core Music, CAPAC Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios Tracks A3 and B1 to B4 recorded at Eastern Sound Remixed at Toronto Sound  DMM Mastering at Abbey Road Studios - December 2013  Moon Records is a subsidiary of SRO Productions Ltd.  ℗ © 2014 The Island Def Jam Music Group  On center labels: ℗ 1974 S.R.O. Productions All selections - MAPL  [Similar release](https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122) is the USA / Canada release [Similar release](https://www.discogs.com/release/15631764-Rush-Rush) is a European release without the Universal Logo on the back of the box and no Download Code Sheet.
 

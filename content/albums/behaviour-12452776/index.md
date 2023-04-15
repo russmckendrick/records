@@ -1,14 +1,17 @@
 ---
 title: "Pet Shop Boys - Behaviour."
-album_artist: "Pet Shop Boys"
-album_title: "Behaviour."
+artist: "Pet Shop Boys"
+album_name: "Behaviour."
 date: 2020-05-01
 release_id: "12452776"
 slug: "behaviour-12452776"
+hideSummary: true
 cover:
     image: "behaviour-12452776.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Behaviour. by Pet Shop Boys"
+    caption: "Behaviour. by Pet Shop Boys"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Pet Shop Boys: Behaviour Interview - 1990.](https://www.youtube.com/watch?v=F6tMI5qTYzM)
 - [Pet Shop Boys - Jealousy](https://www.youtube.com/watch?v=chq885RKXAI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pet Shop Boys - Behaviour.](https://www.discogs.com/release/12452776) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pet Shop Boys - Behaviour.](https://www.discogs.com/release/12452776-Pet-Shop-Boys-Behaviour) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0190295821746 |
+
+[Sticker on shrinkwrap:] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  [From inner sleeve:] Recorded at Red Deer, München, and Sarm West, London. Orchestra and strings recorded at Abbey Road.  Tracks listed sequentially on back cover and labels. Optimal credit extrapolated from runout data.
 

@@ -1,14 +1,17 @@
 ---
 title: "Reef - Glow"
-album_artist: "Reef"
-album_title: "Glow"
+artist: "Reef"
+album_name: "Glow"
 date: 2022-11-28
 release_id: "25308085"
 slug: "glow-25308085"
+hideSummary: true
 cover:
     image: "glow-25308085.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Glow by Reef"
+    caption: "Glow by Reef"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Yer Old](https://www.youtube.com/watch?v=Eugzm7Q7Tvs)
 - [Lullaby](https://www.youtube.com/watch?v=dSS4uoDEVBM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Reef - Glow](https://www.discogs.com/release/25308085) |
+| Release Year   | 2022 |
+| Discogs Link   | [Reef - Glow](https://www.discogs.com/release/25308085-Reef-Glow) |
 | Label          | Hassle Hindsight |
 | Format         | LP, Album, Ltd, Num, RE, Glo |
 | Catalog Number | HOFFSIDE009 |
+
+25th anniversary re-press, including brand new liner notes. Glow-in-the-dark vinyl, non-gatefold matt finish sleeve, supplied in transparent bag with hype sticker. Limited to 500 copies, hand numbered on rear of sleeve.
 

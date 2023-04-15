@@ -1,14 +1,17 @@
 ---
 title: "Peter Cook & Dudley Moore Present Derek & Clive - (Live)"
-album_artist: "Peter Cook & Dudley Moore Present Derek & Clive"
-album_title: "(Live)"
+artist: "Peter Cook & Dudley Moore Present Derek & Clive"
+album_name: "(Live)"
 date: 2015-12-30
 release_id: "561172"
 slug: "live-561172"
+hideSummary: true
 cover:
     image: "live-561172.jpg"
-tags: ["Non-Music"]
-hideSummary: true
+    alt: "(Live) by Peter Cook & Dudley Moore Present Derek & Clive"
+    caption: "(Live) by Peter Cook & Dudley Moore Present Derek & Clive"
+genres: ["Non-Music"]
+styles: ["Comedy", "Spoken Word"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Derek and Clive - Live - Bo Duddley](https://www.youtube.com/watch?v=Vj3U1DQurew)
 - [Derek and Clive Live: Worst Job I Ever Had (Peter Cook & Dudley Moore) 1/13](https://www.youtube.com/watch?v=_a_UKKvUcoE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Peter Cook & Dudley Moore Present Derek & Clive - (Live)](https://www.discogs.com/release/561172) |
+| Release Year   | 1976 |
+| Discogs Link   | [Peter Cook & Dudley Moore Present Derek & Clive - (Live)](https://www.discogs.com/release/561172-Peter-Cook-Dudley-Moore-Present-Derek-And-Clive-Live) |
 | Label          | Island Records |
 | Format         | LP, Album |
 | Catalog Number | ILPS 9434 |
+
+
 

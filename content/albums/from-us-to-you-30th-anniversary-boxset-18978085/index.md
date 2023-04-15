@@ -1,14 +1,17 @@
 ---
 title: "EMF - From Us To You, 30th Anniversary Boxset"
-album_artist: "EMF"
-album_title: "From Us To You, 30th Anniversary Boxset"
+artist: "EMF"
+album_name: "From Us To You, 30th Anniversary Boxset"
 date: 2021-06-03
 release_id: "18978085"
 slug: "from-us-to-you-30th-anniversary-boxset-18978085"
+hideSummary: true
 cover:
     image: "from-us-to-you-30th-anniversary-boxset-18978085.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "From Us To You, 30th Anniversary Boxset by EMF"
+    caption: "From Us To You, 30th Anniversary Boxset by EMF"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -75,16 +78,17 @@ hideSummary: true
 61. When You're Mine
 62. Big Drop
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [EMF - From Us To You, 30th Anniversary Boxset](https://www.discogs.com/release/18978085) |
+| Release Year   | 2021 |
+| Discogs Link   | [EMF - From Us To You, 30th Anniversary Boxset](https://www.discogs.com/release/18978085-EMF-From-Us-To-You-30th-Anniversary-Boxset) |
 | Label          | Believe |
 | Format         | Box, Comp + LP, Album, RE, RM, Blu + LP, Album, RE |
 | Catalog Number | EMF001BLV |
+
+℗ Believe 2020. © Believe 2020.  The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324].
 

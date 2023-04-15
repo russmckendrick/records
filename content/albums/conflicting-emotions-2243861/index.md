@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - Conflicting Emotions"
-album_artist: "Split Enz"
-album_title: "Conflicting Emotions"
+artist: "Split Enz"
+album_name: "Conflicting Emotions"
 date: 2018-10-03
 release_id: "2243861"
 slug: "conflicting-emotions-2243861"
+hideSummary: true
 cover:
     image: "conflicting-emotions-2243861.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Conflicting Emotions by Split Enz"
+    caption: "Conflicting Emotions by Split Enz"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Audiosurf - Split enz - Bon voyage](https://www.youtube.com/watch?v=e7FqT3T1_q4)
 - [Audiosurf - Split enz - Our day](https://www.youtube.com/watch?v=0D8WfeT9f0o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861) |
+| Release Year   | 1984 |
+| Discogs Link   | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861-Split-Enz-Conflicting-Emotions) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | AMLX 64963 |
+
+Includes inner sleeve with lyrics and credits.  Some copies came with hype sticker  "featuring  TIM FINN  64963"  Made in Holland.  Similar to [r=13033729] but with both stampers from EDP
 

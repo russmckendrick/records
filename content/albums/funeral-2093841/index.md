@@ -1,14 +1,17 @@
 ---
 title: "Arcade Fire - Funeral"
-album_artist: "Arcade Fire"
-album_title: "Funeral"
+artist: "Arcade Fire"
+album_name: "Funeral"
 date: 2016-02-14
 release_id: "2093841"
 slug: "funeral-2093841"
+hideSummary: true
 cover:
     image: "funeral-2093841.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Funeral by Arcade Fire"
+    caption: "Funeral by Arcade Fire"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Arcade Fire - Rebellion (Lies) (Official Remastered Video)](https://www.youtube.com/watch?v=8vN2vqaEBhM)
 - [Arcade Fire - In the Backseat (Official Audio)](https://www.youtube.com/watch?v=i2jsArz5IQg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Arcade Fire - Funeral](https://www.discogs.com/release/2093841) |
+| Release Year   | 2009 |
+| Discogs Link   | [Arcade Fire - Funeral](https://www.discogs.com/release/2093841-Arcade-Fire-Funeral) |
 | Label          | Merge Records |
 | Format         | LP, Album, RP, 180 |
 | Catalog Number | MRG255 |
+
+Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: Track A2: "Neighborhood #2 (Laïka)" on back cover tracklist and insert liner notes, but "Neighborhood #2 (Laika)" on record label tracklist. Track A3: "Une année sans lumiere" on back cover and label, but "Une année sans lumière" on insert. Track B3: "Haiti" on back cover and label, "Haïti" on insert.  Lacquer cutting credits identified in runout stampings.
 

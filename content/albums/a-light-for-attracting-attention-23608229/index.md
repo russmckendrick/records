@@ -1,14 +1,17 @@
 ---
 title: "The Smile (5) - A Light For Attracting Attention"
-album_artist: "The Smile (5)"
-album_title: "A Light For Attracting Attention"
+artist: "The Smile (5)"
+album_name: "A Light For Attracting Attention"
 date: 2022-06-18
 release_id: "23608229"
 slug: "a-light-for-attracting-attention-23608229"
+hideSummary: true
 cover:
     image: "a-light-for-attracting-attention-23608229.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "A Light For Attracting Attention by The Smile (5)"
+    caption: "A Light For Attracting Attention by The Smile (5)"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Smile - We Don't Know What Tomorrow Brings](https://www.youtube.com/watch?v=3oEkWwX9iX4)
 - [The Smile - Skrting On The Surface](https://www.youtube.com/watch?v=_nmutqhuWFE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Smile (5) - A Light For Attracting Attention](https://www.discogs.com/release/23608229) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Smile (5) - A Light For Attracting Attention](https://www.discogs.com/release/23608229-The-Smile-A-Light-For-Attracting-Attention) |
 | Label          | XL Recordings |
 | Format         | 2xLP, Album, Ltd, Yel |
 | Catalog Number | XL1196LPE |
+
+Optimal pressing.  Copies purchased direct from XL Recordings online store came with a “THE SMILE” postcard. Packaged in a gatefold cover with a satin feel coating finish and spot-gloss text to the front. Includes matte finish printed inner sleeves. Undersized picture labels. Yellow hype sticker and barcode sticker are both applied to the shrink-wrap.  Tracks are numbered sequentially across sides in the inner gatefold.  Front sticker: Debut album from new group The Smile Comprising Radiohead's Thom Yorke and Jonny Greenwood, and Sons Of Kemet's Tom Skinner Limited edition yellow vinyl  Recorded at Wack Formula London Mastered [...] at Gateway Mastering, Portland, Maine Strings [...] recorded at Air Edel Studio  Woodblock lettering from a collection held by The Bodleian Library, Oxford Digital fonts by Andrew Leman at HPLHS.org  ℗2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. ©2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. Published by Warner Chappell Music, Kobalt Music and Copyright Control.
 

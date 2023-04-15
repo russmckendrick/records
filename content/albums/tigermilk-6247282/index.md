@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - Tigermilk"
-album_artist: "Belle & Sebastian"
-album_title: "Tigermilk"
+artist: "Belle & Sebastian"
+album_name: "Tigermilk"
 date: 2017-04-25
 release_id: "6247282"
 slug: "tigermilk-6247282"
+hideSummary: true
 cover:
     image: "tigermilk-6247282.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tigermilk by Belle & Sebastian"
+    caption: "Tigermilk by Belle & Sebastian"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Belle & Sebastian :: Electronic Renaissance](https://www.youtube.com/watch?v=GKTDiWslOPo)
 - [Belle and Sebastian - I Don't Love Anyone](https://www.youtube.com/watch?v=yYw3AoLG3Fo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Belle & Sebastian - Tigermilk](https://www.discogs.com/release/6247282) |
+| Release Year   | 2014 |
+| Discogs Link   | [Belle & Sebastian - Tigermilk](https://www.discogs.com/release/6247282-Belle-And-Sebastian-Tigermilk) |
 | Label          | Jeepster Recordings |
 | Format         | LP, Album, RE |
 | Catalog Number | JPRLP007 |
+
+Includes free download of entire album. Includes PVC protective outer sleeve. Lyrics on back cover.
 

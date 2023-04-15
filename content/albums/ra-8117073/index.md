@@ -1,14 +1,17 @@
 ---
 title: "Utopia (5) - Ra"
-album_artist: "Utopia (5)"
-album_title: "Ra"
+artist: "Utopia (5)"
+album_name: "Ra"
 date: 2022-03-06
 release_id: "8117073"
 slug: "ra-8117073"
+hideSummary: true
 cover:
     image: "ra-8117073.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ra by Utopia (5)"
+    caption: "Ra by Utopia (5)"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Hiroshima](https://www.youtube.com/watch?v=9SmkTjw_2Yg)
 - [TODD RUNDGREN - UTOPIA - RA - DELUXE EDITION](https://www.youtube.com/watch?v=0Gdrh3qu8SQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1977 |
-| Discogs Link   | [Utopia (5) - Ra](https://www.discogs.com/release/8117073) |
+| Release Year   | 1977 |
+| Discogs Link   | [Utopia (5) - Ra](https://www.discogs.com/release/8117073-Utopia-Ra) |
 | Label          | Bearsville, Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K 55514 , BR 6965 |
+
+Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn 
 

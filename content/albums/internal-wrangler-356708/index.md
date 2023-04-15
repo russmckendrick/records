@@ -1,14 +1,17 @@
 ---
 title: "Clinic - Internal Wrangler"
-album_artist: "Clinic"
-album_title: "Internal Wrangler"
+artist: "Clinic"
+album_name: "Internal Wrangler"
 date: 2017-06-16
 release_id: "356708"
 slug: "internal-wrangler-356708"
+hideSummary: true
 cover:
     image: "internal-wrangler-356708.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Internal Wrangler by Clinic"
+    caption: "Internal Wrangler by Clinic"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Goodnight Georgie](https://www.youtube.com/watch?v=ZlaNHDKGsYU)
 - [T.K. - Clinic](https://www.youtube.com/watch?v=Uo-u_BKDKCA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2000 |
-| Discogs Link   | [Clinic - Internal Wrangler](https://www.discogs.com/release/356708) |
+| Release Year   | 2000 |
+| Discogs Link   | [Clinic - Internal Wrangler](https://www.discogs.com/release/356708-Clinic-Internal-Wrangler) |
 | Label          | Domino, Domino |
 | Format         | LP, Album |
 | Catalog Number | WIGLP78, DOMUS01 |
+
+Printed inner sleeve. Made in the UK.  This edition featuring Domino UK division catalogue number WIGLP78 on artwork and labels also distributed in the US. Copies distributed in the US come with an additional sticker printed with: [barcode] DOMUS01 • Clinic • Internal Wrangler Distributed by Revolver USA • www.mindheaven.com
 

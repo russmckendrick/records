@@ -1,14 +1,17 @@
 ---
 title: "The Beta Band - The Three E.P.'s"
-album_artist: "The Beta Band"
-album_title: "The Three E.P.'s"
+artist: "The Beta Band"
+album_name: "The Three E.P.'s"
 date: 2018-10-12
 release_id: "12647330"
 slug: "the-three-e-p-s-12647330"
+hideSummary: true
 cover:
     image: "the-three-e-p-s-12647330.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Three E.P.'s by The Beta Band"
+    caption: "The Three E.P.'s by The Beta Band"
+genres: ["Electronic", "Rock"]
+styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [She's the One (Remaster)](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
 - [The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)](https://www.youtube.com/watch?v=uaz3BW_FeZE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Beta Band - The Three E.P.'s](https://www.discogs.com/release/12647330) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Beta Band - The Three E.P.'s](https://www.discogs.com/release/12647330-The-Beta-Band-The-Three-EPs) |
 | Label          | Because Music, Because Music, Because Music |
 | Format         | LP, Ora + LP, Yel + CD + Comp, Ltd, RE, RM |
 | Catalog Number | BE5543747, BEC5543616, BEC5543615 |
+
+First cat. no on barcode stuck on rear of sleeve (to distinguish from [standard black vinyl version](https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429)), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).  Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD  B3 not listed on label  Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website 
 

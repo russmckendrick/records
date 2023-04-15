@@ -1,14 +1,17 @@
 ---
 title: "Ray Charles - The Atlantic Years - In Mono"
-album_artist: "Ray Charles"
-album_title: "The Atlantic Years - In Mono"
+artist: "Ray Charles"
+album_name: "The Atlantic Years - In Mono"
 date: 2016-09-24
 release_id: "9092544"
 slug: "the-atlantic-years-in-mono-9092544"
+hideSummary: true
 cover:
     image: "the-atlantic-years-in-mono-9092544.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Atlantic Years - In Mono by Ray Charles"
+    caption: "The Atlantic Years - In Mono by Ray Charles"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -108,13 +111,16 @@ hideSummary: true
 - [Drown in My Own Tears (2016 Mono Remaster)](https://www.youtube.com/watch?v=xSXaXj9pLoY)
 - [Tell Me How Do You Feel (2016 Mono Remaster)](https://www.youtube.com/watch?v=1t6ieA4W-h4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544) |
+| Release Year   | 2016 |
+| Discogs Link   | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544-Ray-Charles-The-Atlantic-Years-In-Mono) |
 | Label          | Rhino Records (2), Atlantic |
 | Format         | 7xLP, Comp, Mono, RE, RM + Box |
 | Catalog Number | 008122794568 |
+
+
 

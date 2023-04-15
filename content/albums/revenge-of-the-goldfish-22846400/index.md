@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - Revenge Of The Goldfish ™"
-album_artist: "Inspiral Carpets"
-album_title: "Revenge Of The Goldfish ™"
+artist: "Inspiral Carpets"
+album_name: "Revenge Of The Goldfish ™"
 date: 2022-04-15
 release_id: "22846400"
 slug: "revenge-of-the-goldfish-22846400"
+hideSummary: true
 cover:
     image: "revenge-of-the-goldfish-22846400.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Revenge Of The Goldfish ™ by Inspiral Carpets"
+    caption: "Revenge Of The Goldfish ™ by Inspiral Carpets"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Rain Song](https://www.youtube.com/watch?v=WTQg9B90ytM)
 - [Irresistible Force](https://www.youtube.com/watch?v=wi5gO_h08Bg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Inspiral Carpets - Revenge Of The Goldfish ™](https://www.discogs.com/release/22846400) |
+| Release Year   | 2022 |
+| Discogs Link   | [Inspiral Carpets - Revenge Of The Goldfish ™](https://www.discogs.com/release/22846400-Inspiral-Carpets-Revenge-Of-The-Goldfish-) |
 | Label          | Mute, BMG, Cow |
 | Format         | LP, Album, Ltd, RE, Ora |
 | Catalog Number | ldung19 |
+
+Hype sticker on sleeve. Inner sleeve with lyrics reports "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."
 

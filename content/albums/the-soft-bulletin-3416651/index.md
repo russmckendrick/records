@@ -1,14 +1,17 @@
 ---
 title: "The Flaming Lips - The Soft Bulletin"
-album_artist: "The Flaming Lips"
-album_title: "The Soft Bulletin"
+artist: "The Flaming Lips"
+album_name: "The Soft Bulletin"
 date: 2016-10-10
 release_id: "3416651"
 slug: "the-soft-bulletin-3416651"
+hideSummary: true
 cover:
     image: "the-soft-bulletin-3416651.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Soft Bulletin by The Flaming Lips"
+    caption: "The Soft Bulletin by The Flaming Lips"
+genres: ["Rock", "Pop"]
+styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Feeling Yourself Disintegrate (2017 Remaster)](https://www.youtube.com/watch?v=XvvGYEjloOg)
 - [The Spark That Bled (2017 Remaster)](https://www.youtube.com/watch?v=ORdpLD9Meao)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [The Flaming Lips - The Soft Bulletin](https://www.discogs.com/release/3416651) |
+| Release Year   | 2011 |
+| Discogs Link   | [The Flaming Lips - The Soft Bulletin](https://www.discogs.com/release/3416651-The-Flaming-Lips-The-Soft-Bulletin) |
 | Label          | Warner Bros. Records |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | 530199-1 |
+
+Manufactured in Germany.  The Soft Bulletin was recorded in Cassadaga, New York April 1997-February 1999  2011 Vinyl remastered by Chris Bellman at Bernie Grundman Mastering, Hollywood, CA  [r5234762] has a different Cat # on the labels than this release.
 

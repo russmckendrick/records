@@ -1,14 +1,17 @@
 ---
 title: "Hefner (2) - The Fidelity Wars"
-album_artist: "Hefner (2)"
-album_title: "The Fidelity Wars"
+artist: "Hefner (2)"
+album_name: "The Fidelity Wars"
 date: 2019-11-22
 release_id: "14430353"
 slug: "the-fidelity-wars-14430353"
+hideSummary: true
 cover:
     image: "the-fidelity-wars-14430353.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Fidelity Wars by Hefner (2)"
+    caption: "The Fidelity Wars by Hefner (2)"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="KgTg_cjk0Fc" title="Hefner - I Took Her Love For Granted (Official Video)" >}}
 - [Hefner - The Fidelity Wars](https://www.youtube.com/watch?v=kfKKwDRNbXE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Hefner (2) - The Fidelity Wars](https://www.discogs.com/release/14430353) |
+| Release Year   | 2019 |
+| Discogs Link   | [Hefner (2) - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-The-Fidelity-Wars) |
 | Label          | Where It's At Is Where You Are |
 | Format         | LP, Album, RE |
 | Catalog Number | wialp081 |
+
+Black vinyl 2019 reissue.  Comes with a download code.
 

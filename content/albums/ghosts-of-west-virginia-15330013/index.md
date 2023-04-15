@@ -1,14 +1,17 @@
 ---
 title: "Steve Earle & The Dukes - Ghosts Of West Virginia"
-album_artist: "Steve Earle & The Dukes"
-album_title: "Ghosts Of West Virginia"
+artist: "Steve Earle & The Dukes"
+album_name: "Ghosts Of West Virginia"
 date: 2020-05-28
 release_id: "15330013"
 slug: "ghosts-of-west-virginia-15330013"
+hideSummary: true
 cover:
     image: "ghosts-of-west-virginia-15330013.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Ghosts Of West Virginia by Steve Earle & The Dukes"
+    caption: "Ghosts Of West Virginia by Steve Earle & The Dukes"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Steve Earle & The Dukes - It's About Blood [Audio Only]](https://www.youtube.com/watch?v=iKWPjr0NPQo)
 - [Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A](https://www.youtube.com/watch?v=L5QqgJ3u11k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Steve Earle & The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013) |
+| Release Year   | 2020 |
+| Discogs Link   | [Steve Earle & The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013-Steve-Earle-The-Dukes-Ghosts-Of-West-Virginia) |
 | Label          | New West Records |
 | Format         | LP, Album, Mono, Ltd, Blu |
 | Catalog Number | NW5397 |
+
+Indie "blue and gold" limited edition pressing.  Includes 4-page printed insert containing photographs, lyrics and credits.  Some copies included a turntable slip mat containing the album cover artwork. 
 

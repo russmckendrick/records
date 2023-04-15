@@ -1,14 +1,17 @@
 ---
 title: "De La Soul - And The Anonymous Nobody"
-album_artist: "De La Soul"
-album_title: "And The Anonymous Nobody"
+artist: "De La Soul"
+album_name: "And The Anonymous Nobody"
 date: 2016-09-30
 release_id: "8969133"
 slug: "and-the-anonymous-nobody-8969133"
+hideSummary: true
 cover:
     image: "and-the-anonymous-nobody-8969133.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "And The Anonymous Nobody by De La Soul"
+    caption: "And The Anonymous Nobody by De La Soul"
+genres: ["Hip Hop"]
+styles: ["Conscious"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [De La Soul - Drawn ft. Little Dragon](https://www.youtube.com/watch?v=lGpw84iVgmM)
 - [De La Soul Pain feat. Snoop Dogg (Official Video)](https://www.youtube.com/watch?v=nLDIs0GHP2k)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [De La Soul - And The Anonymous Nobody](https://www.discogs.com/release/8969133) |
+| Release Year   | 2016 |
+| Discogs Link   | [De La Soul - And The Anonymous Nobody](https://www.discogs.com/release/8969133-De-La-Soul-And-The-Anonymous-Nobody) |
 | Label          | AOI Records |
 | Format         | 2xLP, Album, Ltd, Cle |
 | Catalog Number | AOI001VLK |
+
+*Kickstarter campaign edition  *Includes Kickstarter only bonus track "Unfold" which is not included on retail versions. *Unsigned (some LP covers were signed as a different Kickstarter reward level) *Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level) *Comes with drop card for digital download of album (MP3)
 

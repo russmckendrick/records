@@ -1,14 +1,17 @@
 ---
 title: "Gram Parsons - Grievous Angel"
-album_artist: "Gram Parsons"
-album_title: "Grievous Angel"
+artist: "Gram Parsons"
+album_name: "Grievous Angel"
 date: 2015-08-10
 release_id: "5886670"
 slug: "grievous-angel-5886670"
+hideSummary: true
 cover:
     image: "grievous-angel-5886670.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Grievous Angel by Gram Parsons"
+    caption: "Grievous Angel by Gram Parsons"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Country Rock", "Country"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Love Hurts (Remastered Version)](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
 - [Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)](https://www.youtube.com/watch?v=kZ1X1lBTn2g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Gram Parsons - Grievous Angel](https://www.discogs.com/release/5886670) |
+| Release Year   | 2014 |
+| Discogs Link   | [Gram Parsons - Grievous Angel](https://www.discogs.com/release/5886670-Gram-Parsons-Grievous-Angel) |
 | Label          | Reprise Records, Rhino Records (2), Rhino Records (2) |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | R1-2171, 8122795955 |
+
+℗ & © 1974 Warner Bros. Records Inc  Manufactured in the EU. 
 

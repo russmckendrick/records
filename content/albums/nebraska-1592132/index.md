@@ -1,14 +1,17 @@
 ---
 title: "Bruce Springsteen - Nebraska"
-album_artist: "Bruce Springsteen"
-album_title: "Nebraska"
+artist: "Bruce Springsteen"
+album_name: "Nebraska"
 date: 2015-09-21
 release_id: "1592132"
 slug: "nebraska-1592132"
+hideSummary: true
 cover:
     image: "nebraska-1592132.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Nebraska by Bruce Springsteen"
+    caption: "Nebraska by Bruce Springsteen"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [My Father's House](https://www.youtube.com/watch?v=r0NKGaPSSBQ)
 - [Reason to Believe](https://www.youtube.com/watch?v=H49obsV6oZ0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Bruce Springsteen - Nebraska](https://www.discogs.com/release/1592132) |
+| Release Year   | 1982 |
+| Discogs Link   | [Bruce Springsteen - Nebraska](https://www.discogs.com/release/1592132-Bruce-Springsteen-Nebraska) |
 | Label          | CBS, CBS |
 | Format         | LP, Album |
 | Catalog Number | CBS 25100, 25100 |
+
+Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder. Mastered at Atlantic Studios by Dennis King. Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).  Inner Sleeve has lyrics printed on it.  Made in England.
 

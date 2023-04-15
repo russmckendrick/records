@@ -1,14 +1,17 @@
 ---
 title: "Tears For Fears - The Tipping Point"
-album_artist: "Tears For Fears"
-album_title: "The Tipping Point"
+artist: "Tears For Fears"
+album_name: "The Tipping Point"
 date: 2022-02-24
 release_id: "22266628"
 slug: "the-tipping-point-22266628"
+hideSummary: true
 cover:
     image: "the-tipping-point-22266628.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Tipping Point by Tears For Fears"
+    caption: "The Tipping Point by Tears For Fears"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Tears For Fears - End of Night (Official Audio)](https://www.youtube.com/watch?v=AixmRjSWNZ4)
 - [Tears For Fears - Stay (Official Audio)](https://www.youtube.com/watch?v=O78aZm3cMm8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Tears For Fears - The Tipping Point](https://www.discogs.com/release/22266628) |
+| Release Year   | 2022 |
+| Discogs Link   | [Tears For Fears - The Tipping Point](https://www.discogs.com/release/22266628-Tears-For-Fears-The-Tipping-Point) |
 | Label          | Concord Records, Concord Records |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | CRE01856, CRE01919 |
+
+US & Canada Indie Exclusive  ℗ & © 2022 TFFUK, LLC  Gatefold sleeve and includes a limited edition lithograph. 888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC.
 

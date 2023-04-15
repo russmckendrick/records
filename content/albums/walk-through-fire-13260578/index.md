@@ -1,14 +1,17 @@
 ---
 title: "Yola (4) - Walk Through Fire"
-album_artist: "Yola (4)"
-album_title: "Walk Through Fire"
+artist: "Yola (4)"
+album_name: "Walk Through Fire"
 date: 2019-03-27
 release_id: "13260578"
 slug: "walk-through-fire-13260578"
+hideSummary: true
 cover:
     image: "walk-through-fire-13260578.jpg"
-tags: ["Funk / Soul", "Blues", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Walk Through Fire by Yola (4)"
+    caption: "Walk Through Fire by Yola (4)"
+genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
+styles: ["Soul", "Country"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Yola - Keep Me Here [Official Audio]](https://www.youtube.com/watch?v=Z6cB44foHQA)
 - [Yola - Love Is Light [Official Audio]](https://www.youtube.com/watch?v=n_X2tL_DaQw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Yola (4) - Walk Through Fire](https://www.discogs.com/release/13260578) |
+| Release Year   | 2019 |
+| Discogs Link   | [Yola (4) - Walk Through Fire](https://www.discogs.com/release/13260578-Yola-Walk-Through-Fire) |
 | Label          | Easy Eye Sound |
 | Format         | LP, Album |
 | Catalog Number | EES-008 |
+
+Manufactured in the E.U.
 

@@ -1,14 +1,17 @@
 ---
 title: "King Crimson - Three Of A Perfect Pair"
-album_artist: "King Crimson"
-album_title: "Three Of A Perfect Pair"
+artist: "King Crimson"
+album_name: "Three Of A Perfect Pair"
 date: 2023-02-03
 release_id: "24973192"
 slug: "three-of-a-perfect-pair-24973192"
+hideSummary: true
 cover:
     image: "three-of-a-perfect-pair-24973192.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Three Of A Perfect Pair by King Crimson"
+    caption: "Three Of A Perfect Pair by King Crimson"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Model Man | King Crimson | Three Of A Perfect Pair | 1984 EG/Warner Bros LP](https://www.youtube.com/watch?v=I7gOHs4dTuQ)
 - [King Crimson - Three Of A Perfect Pair (Vinyl) Part 2 (HQ)](https://www.youtube.com/watch?v=RGJuIXvtuGg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [King Crimson - Three Of A Perfect Pair](https://www.discogs.com/release/24973192) |
+| Release Year   | 2022 |
+| Discogs Link   | [King Crimson - Three Of A Perfect Pair](https://www.discogs.com/release/24973192-King-Crimson-Three-Of-A-Perfect-Pair) |
 | Label          | Discipline Global Mobile, Panegyric, Inner Knot |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | KCLLP10 |
+
+Sticker on wrap reads as follows: KCLLP10 200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by [...] and [...].  All songs © Universal Music MGB Ltd  Back: ℗ & © 2019 Robert Fripp  Labels: Made in England. ℗ & © 2019 Robert Fripp.  Contents include a lyric sheet and a record sleeve adorned with other King Crimson releases available for sale. All runouts etched
 

@@ -1,14 +1,17 @@
 ---
 title: "Oasis (2) - Definitely Maybe"
-album_artist: "Oasis (2)"
-album_title: "Definitely Maybe"
+artist: "Oasis (2)"
+album_name: "Definitely Maybe"
 date: 2019-08-30
 release_id: "14057872"
 slug: "definitely-maybe-14057872"
+hideSummary: true
 cover:
     image: "definitely-maybe-14057872.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Definitely Maybe by Oasis (2)"
+    caption: "Definitely Maybe by Oasis (2)"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="xYJWZ1K6hPI" title="O̲a̲sis - D̲e̲finitely M̲a̲ybe (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Oasis (2) - Definitely Maybe](https://www.discogs.com/release/14057872) |
+| Release Year   | 2019 |
+| Discogs Link   | [Oasis (2) - Definitely Maybe](https://www.discogs.com/release/14057872-Oasis-Definitely-Maybe) |
 | Label          | Big Brother |
 | Format         | 2xLP, Album, Ltd, RE, RM, Sil |
 | Catalog Number | RKIDLP70C |
+
+Limited 25th Anniversary Edition on heavyweight silver vinyl. Gatefold sleeve.
 

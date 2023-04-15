@@ -1,14 +1,17 @@
 ---
 title: "Ramones - Ramones"
-album_artist: "Ramones"
-album_title: "Ramones"
+artist: "Ramones"
+album_name: "Ramones"
 date: 2016-10-17
 release_id: "9022105"
 slug: "ramones-9022105"
+hideSummary: true
 cover:
     image: "ramones-9022105.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ramones by Ramones"
+    caption: "Ramones by Ramones"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -114,13 +117,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="LLzDw_1Y97I" title="Ramones - Ramones (álbum completo)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Ramones - Ramones](https://www.discogs.com/release/9022105) |
+| Release Year   | 2016 |
+| Discogs Link   | [Ramones - Ramones](https://www.discogs.com/release/9022105-Ramones-Ramones) |
 | Label          | Rhino Records (2), Sire, Ramones Productions Inc. |
 | Format         | CD, Album, Mono, RE, RM + CD + CD + LP, Album, Mon |
 | Catalog Number | 081227945176 |
+
+40th annivesary box set packaged in a 12" x 12" hardcover book on a limited edition of 19.760 individually numbered copies.  Disc one contains stereo (tracks 1-14) and 40th anniversary mono mix (tracks 15-28) Disc two contains Single Mixes, Outtakes and Demos. Disc three (tracks 1-16) contains [r=1165275]'s bonus material. Disc three tracks 17-32 are from a previously unreleased second set from The Roxy, LA, on 08/12/1976. Vinyl contains the original album 40th anniversary mono mix.  Pressing plants uncredited, identified by matrix run outs.  This reissue ℗ & © 2016 Rhino Entertainment Company
 

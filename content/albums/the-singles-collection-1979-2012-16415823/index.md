@@ -1,14 +1,17 @@
 ---
 title: "Killing Joke - The Singles Collection 1979-2012"
-album_artist: "Killing Joke"
-album_title: "The Singles Collection 1979-2012"
+artist: "Killing Joke"
+album_name: "The Singles Collection 1979-2012"
 date: 2021-06-07
 release_id: "16415823"
 slug: "the-singles-collection-1979-2012-16415823"
+hideSummary: true
 cover:
     image: "the-singles-collection-1979-2012-16415823.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Singles Collection 1979-2012 by Killing Joke"
+    caption: "The Singles Collection 1979-2012 by Killing Joke"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alternative Rock", "Dub"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Me Or You (2007 Digital Remaster)](https://www.youtube.com/watch?v=FZqxbyIRul4)
 - [Let's All Go (To The Fire Dances)](https://www.youtube.com/watch?v=rmPAT575-Ng)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Killing Joke - The Singles Collection 1979-2012](https://www.discogs.com/release/16415823) |
+| Release Year   | 2020 |
+| Discogs Link   | [Killing Joke - The Singles Collection 1979-2012](https://www.discogs.com/release/16415823-Killing-Joke-The-Singles-Collection-1979-2012) |
 | Label          | Spinefarm Records |
 | Format         | LP, Red + LP, Yel + LP, Bla + LP, Cle + Comp, RE |
 | Catalog Number | SPINE875352 |
+
+Gatefold sleeve with a 12x12" insert with credits. Singles Collection 1979-2012. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Kyuss - ...And The Circus Leaves Town"
-album_artist: "Kyuss"
-album_title: "...And The Circus Leaves Town"
+artist: "Kyuss"
+album_name: "...And The Circus Leaves Town"
 date: 2016-09-14
 release_id: "8901477"
 slug: "and-the-circus-leaves-town-8901477"
+hideSummary: true
 cover:
     image: "and-the-circus-leaves-town-8901477.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "...And The Circus Leaves Town by Kyuss"
+    caption: "...And The Circus Leaves Town by Kyuss"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Catamaran](https://www.youtube.com/watch?v=kdkeorF6Fiw)
 - [Jumbo Blimp Jumbo](https://www.youtube.com/watch?v=wC5UKU7xh_4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Kyuss - ...And The Circus Leaves Town](https://www.discogs.com/release/8901477) |
+| Release Year   | 2016 |
+| Discogs Link   | [Kyuss - ...And The Circus Leaves Town](https://www.discogs.com/release/8901477-Kyuss-And-The-Circus-Leaves-Town) |
 | Label          | Elektra |
 | Format         | LP, Album, RP, Blu |
 | Catalog Number | 7559-61811-1 |
+
+Recorded 3/1/95 - 3/20/95. "Catamaran" previously recorded by Yawning Man.  This repress is largely identical to the 1999 German Repress. There's a "180g COLOURED VINYL" sticker on shrinkwrap. This version is solid blue, whereas the 1999 version ([r=1768971]) is clear blue. ---------------------------------------------------------------------------------------------------- The two tracks appearing after "Spaceship Landing" on other versions (M'deea & Day One) are not included here. 
 

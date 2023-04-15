@@ -1,14 +1,17 @@
 ---
 title: "Spiritualized - Ladies And Gentlemen We Are Floating In Space"
-album_artist: "Spiritualized"
-album_title: "Ladies And Gentlemen We Are Floating In Space"
+artist: "Spiritualized"
+album_name: "Ladies And Gentlemen We Are Floating In Space"
 date: 2021-09-11
 release_id: "20161612"
 slug: "ladies-and-gentlemen-we-are-floating-in-space-20161612"
+hideSummary: true
 cover:
     image: "ladies-and-gentlemen-we-are-floating-in-space-20161612.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ladies And Gentlemen We Are Floating In Space by Spiritualized"
+    caption: "Ladies And Gentlemen We Are Floating In Space by Spiritualized"
+genres: ["Rock"]
+styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/20161612) |
+| Release Year   | 2021 |
+| Discogs Link   | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/20161612-Spiritualized-Ladies-And-Gentlemen-We-Are-Floating-In-Space) |
 | Label          | Fat Possum Records |
 | Format         | 2xLP, Album, RE, RM, RP, S/Edition, Blu |
 | Catalog Number | FP1753-4 |
+
+Packaged in a gatefold, tip-on sleeve.  ℗ & © 1997 Sony Music Entertainment UK. Under exclusive license to Fat Possum Records, LLC. P.O. Box 1923, Oxford, MS 38655. USA. The tablets are made by [MFD Limited](https://www.discogs.com/artist/1014517-Farrow-Design) for the licence/authorisation holder Fat Possum Records.  Recorded and mixed at Moles Studio - Bath, The Church, Rooster and The Strongroom Studios - London, House of Blues - Memphis, The Hit Factory - New York and A&M - Los Angeles.  
 

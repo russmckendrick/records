@@ -1,14 +1,17 @@
 ---
 title: "Peter Gabriel - Peter Gabriel II"
-album_artist: "Peter Gabriel"
-album_title: "Peter Gabriel II"
+artist: "Peter Gabriel"
+album_name: "Peter Gabriel II"
 date: 2016-12-11
 release_id: "9477792"
 slug: "peter-gabriel-ii-9477792"
+hideSummary: true
 cover:
     image: "peter-gabriel-ii-9477792.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Peter Gabriel II by Peter Gabriel"
+    caption: "Peter Gabriel II by Peter Gabriel"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Peter Gabriel - Here Comes The Flood / White Shadow (Rockpalast 1978)](https://www.youtube.com/watch?v=JKNBdjJiN9c)
 - [Peter Gabriel 1978 Rockpalast, Germany](https://www.youtube.com/watch?v=m1rh4QBgV0w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Peter Gabriel - Peter Gabriel II](https://www.discogs.com/release/9477792) |
+| Release Year   | 2016 |
+| Discogs Link   | [Peter Gabriel - Peter Gabriel II](https://www.discogs.com/release/9477792-Peter-Gabriel-Peter-Gabriel-II) |
 | Label          | Real World Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PGLPR2 |
+
+Half-Speed Remaster + Hi-Res Download Code
 

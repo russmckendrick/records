@@ -1,14 +1,17 @@
 ---
 title: "Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler"
-album_artist: "Citizen Bravo, Raymond MacDonald And Friends"
-album_title: "Return To Y'Hup The World Of Ivor Cutler"
+artist: "Citizen Bravo, Raymond MacDonald And Friends"
+album_name: "Return To Y'Hup The World Of Ivor Cutler"
 date: 2020-01-25
 release_id: "14702777"
 slug: "return-to-y-hup-the-world-of-ivor-cutler-14702777"
+hideSummary: true
 cover:
     image: "return-to-y-hup-the-world-of-ivor-cutler-14702777.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
+    caption: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 {{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}
 - [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler](https://www.discogs.com/release/14702777) |
+| Release Year   | 2020 |
+| Discogs Link   | [Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler](https://www.discogs.com/release/14702777-Citizen-Bravo-Raymond-MacDonald-And-Friends-Return-To-YHup-The-World-Of-Ivor-Cutler) |
 | Label          | Chemikal Underground Records, Creative Scotland, Alba | Chruthachail |
 | Format         | LP, Album, Ltd, Blu |
 | Catalog Number | CHEM255, none |
+
+
 

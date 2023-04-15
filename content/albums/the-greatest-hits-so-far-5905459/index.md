@@ -1,14 +1,17 @@
 ---
 title: "Public Image Limited - The Greatest Hits, So Far"
-album_artist: "Public Image Limited"
-album_title: "The Greatest Hits, So Far"
+artist: "Public Image Limited"
+album_name: "The Greatest Hits, So Far"
 date: 2016-04-25
 release_id: "5905459"
 slug: "the-greatest-hits-so-far-5905459"
+hideSummary: true
 cover:
     image: "the-greatest-hits-so-far-5905459.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Greatest Hits, So Far by Public Image Limited"
+    caption: "The Greatest Hits, So Far by Public Image Limited"
+genres: ["Electronic", "Rock"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [The Body by PIL](https://www.youtube.com/watch?v=56RICywExfw)
 - [PIL - Public Image](https://www.youtube.com/watch?v=ylOCIP54PIQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Public Image Limited - The Greatest Hits, So Far](https://www.discogs.com/release/5905459) |
+| Release Year   | 2014 |
+| Discogs Link   | [Public Image Limited - The Greatest Hits, So Far](https://www.discogs.com/release/5905459-Public-Image-Ltd-The-Greatest-Hits-So-Far) |
 | Label          | Virgin |
 | Format         | 2xLP, Comp, RE, 180 |
 | Catalog Number | 535109-2 |
+
+Includes a voucher to download MP3 version of the album.
 

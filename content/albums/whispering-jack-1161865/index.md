@@ -1,14 +1,17 @@
 ---
 title: "John Farnham - Whispering Jack"
-album_artist: "John Farnham"
-album_title: "Whispering Jack"
+artist: "John Farnham"
+album_name: "Whispering Jack"
 date: 2015-09-11
 release_id: "1161865"
 slug: "whispering-jack-1161865"
+hideSummary: true
 cover:
     image: "whispering-jack-1161865.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Whispering Jack by John Farnham"
+    caption: "Whispering Jack by John Farnham"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [[HQ] Coldplay- You're The Voice (with John Farnham) Sound Relief Concert [HQ]](https://www.youtube.com/watch?v=19JN50bLKjY)
 - [You're The Voice ~ John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [John Farnham - Whispering Jack](https://www.discogs.com/release/1161865) |
+| Release Year   | 1986 |
+| Discogs Link   | [John Farnham - Whispering Jack](https://www.discogs.com/release/1161865-John-Farnham-Whispering-Jack) |
 | Label          | RCA, Wheatley Records |
 | Format         | LP, Album |
 | Catalog Number | PL71224 |
+
+This release has a different layout on the center label as the [r=1152744] already in the database.  Printed in Germany  Ⓟ 1986 Wheatley Records, Pty. Ltd.  Comes with inner sleeve with lyrics
 

@@ -1,14 +1,17 @@
 ---
 title: "Tom Tom Club - Tom Tom Club"
-album_artist: "Tom Tom Club"
-album_title: "Tom Tom Club"
+artist: "Tom Tom Club"
+album_name: "Tom Tom Club"
 date: 2020-08-28
 release_id: "15787593"
 slug: "tom-tom-club-15787593"
+hideSummary: true
 cover:
     image: "tom-tom-club-15787593.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Tom Tom Club by Tom Tom Club"
+    caption: "Tom Tom Club by Tom Tom Club"
+genres: ["Electronic"]
+styles: ["Dub", "Synth-pop", "Disco"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Tom Tom Theme](https://www.youtube.com/watch?v=eJKdZhH9CwY)
 - [Tom Tom Club-L'Elephant](https://www.youtube.com/watch?v=Da9MkEDcm68)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tom Tom Club - Tom Tom Club](https://www.discogs.com/release/15787593) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tom Tom Club - Tom Tom Club](https://www.discogs.com/release/15787593-Tom-Tom-Club-Tom-Tom-Club) |
 | Label          | Sire, Real Gone Music |
 | Format         | LP, Album, Ltd, RE, Yel |
 | Catalog Number | RGM-1070 |
+
+Recorded and mixed [...] at Compass Point Studios, New Providence, Bahamas. Mastered at Sterling Sound, New York.  All songs [...] © 1981  ℗ & © 1981 & 2016 Warner Records Inc. Produced under license from Warner Records Inc.  Manufactured by Rhino Entertainment Company, a Warner Music Gorup Company. Made in the U.S.A.
 

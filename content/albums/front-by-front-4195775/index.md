@@ -1,14 +1,17 @@
 ---
 title: "Front 242 - Front By Front"
-album_artist: "Front 242"
-album_title: "Front By Front"
+artist: "Front 242"
+album_name: "Front By Front"
 date: 2021-07-29
 release_id: "4195775"
 slug: "front-by-front-4195775"
+hideSummary: true
 cover:
     image: "front-by-front-4195775.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Front By Front by Front 242"
+    caption: "Front By Front by Front 242"
+genres: ["Electronic"]
+styles: ["EBM"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Work 01](https://www.youtube.com/watch?v=2_Y5C2k0H7w)
 - [Terminal State](https://www.youtube.com/watch?v=UijjMj91ODg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Front 242 - Front By Front](https://www.discogs.com/release/4195775) |
+| Release Year   | 2012 |
+| Discogs Link   | [Front 242 - Front By Front](https://www.discogs.com/release/4195775-Front-242-Front-By-Front) |
 | Label          | Red Rhino Europe |
 | Format         | LP, Album, RE |
 | Catalog Number | RRE LP 7 |
+
+140 gram vinyl. 
 

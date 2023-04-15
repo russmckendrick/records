@@ -1,14 +1,17 @@
 ---
 title: "Extreme (2) - Extreme II: Pornograffitti"
-album_artist: "Extreme (2)"
-album_title: "Extreme II: Pornograffitti"
+artist: "Extreme (2)"
+album_name: "Extreme II: Pornograffitti"
 date: 2016-02-29
 release_id: "4582716"
 slug: "extreme-ii-pornograffitti-4582716"
+hideSummary: true
 cover:
     image: "extreme-ii-pornograffitti-4582716.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Extreme II: Pornograffitti by Extreme (2)"
+    caption: "Extreme II: Pornograffitti by Extreme (2)"
+genres: ["Rock"]
+styles: ["Funk Metal", "Hard Rock", "Arena Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Extreme - Get The Funk Out](https://www.youtube.com/watch?v=IqP76XWHQI0)
 - [Extreme - Decadence Dance](https://www.youtube.com/watch?v=OoKJpcROgJk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1990 |
-| Discogs Link   | [Extreme (2) - Extreme II: Pornograffitti](https://www.discogs.com/release/4582716) |
+| Release Year   | 1990 |
+| Discogs Link   | [Extreme (2) - Extreme II: Pornograffitti](https://www.discogs.com/release/4582716-Extreme-Extreme-II-Pornograffitti) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | 395 313-1 |
+
+
 

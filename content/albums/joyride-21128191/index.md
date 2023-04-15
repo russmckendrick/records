@@ -1,14 +1,17 @@
 ---
 title: "Roxette - Joyride"
-album_artist: "Roxette"
-album_title: "Joyride"
+artist: "Roxette"
+album_name: "Joyride"
 date: 2021-11-26
 release_id: "21128191"
 slug: "joyride-21128191"
+hideSummary: true
 cover:
     image: "joyride-21128191.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Joyride by Roxette"
+    caption: "Joyride by Roxette"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Love Spins (T & A demo 3 Jan, 1990)](https://www.youtube.com/watch?v=0hxI5DPO1hQ)
 - [Seduce Me (T & A Demo Aug 22, 1990)](https://www.youtube.com/watch?v=k7jjyd5Ej-E)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Roxette - Joyride](https://www.discogs.com/release/21128191) |
+| Release Year   | 2021 |
+| Discogs Link   | [Roxette - Joyride](https://www.discogs.com/release/21128191-Roxette-Joyride) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, Tra |
 | Catalog Number | 5054197107177 |
+
+Back cover: Made in Germany  Glossy gatefold cover 
 

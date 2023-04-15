@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Crowded House"
-album_artist: "Crowded House"
-album_title: "Crowded House"
+artist: "Crowded House"
+album_name: "Crowded House"
 date: 2015-08-26
 release_id: "2035236"
 slug: "crowded-house-2035236"
+hideSummary: true
 cover:
     image: "crowded-house-2035236.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Crowded House by Crowded House"
+    caption: "Crowded House by Crowded House"
+genres: ["Rock"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Crowded House, World Where You Live](https://www.youtube.com/watch?v=gv33K1x7FVg)
 - [Crowded House - Something So Strong (Official Video)](https://www.youtube.com/watch?v=WyBKzBtaKWM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1986 |
-| Discogs Link   | [Crowded House - Crowded House](https://www.discogs.com/release/2035236) |
+| Release Year   | 1986 |
+| Discogs Link   | [Crowded House - Crowded House](https://www.discogs.com/release/2035236-Crowded-House-Crowded-House) |
 | Label          | Capitol Records, Capitol Records |
 | Format         | LP, Album |
 | Catalog Number | EST 2016, 24 0555 1 |
+
+''Hayes, Middlesex, England'' in tiny print on the backcover. Inner sleeve with lyrics. 
 

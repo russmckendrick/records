@@ -1,14 +1,17 @@
 ---
 title: "Patti Smith - Horses"
-album_artist: "Patti Smith"
-album_title: "Horses"
+artist: "Patti Smith"
+album_name: "Horses"
 date: 2020-01-08
 release_id: "14504020"
 slug: "horses-14504020"
+hideSummary: true
 cover:
     image: "horses-14504020.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Horses by Patti Smith"
+    caption: "Horses by Patti Smith"
+genres: ["Rock"]
+styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Land: Horses / Land of a Thousand Dances / La Mer (de)](https://www.youtube.com/watch?v=cSk6jfln84A)
 - [Patti Smith - Horses   Full Album](https://www.youtube.com/watch?v=yoRFG1oef2I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Patti Smith - Horses](https://www.discogs.com/release/14504020) |
+| Release Year   | 2019 |
+| Discogs Link   | [Patti Smith - Horses](https://www.discogs.com/release/14504020-Patti-Smith-Horses) |
 | Label          | Arista |
 | Format         | LP, Album, Ltd, RE, Cle |
 | Catalog Number | 19075995581 |
+
+Clear Vinyl Rough Trade Exclusive Limited to 1000 copies 2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip
 

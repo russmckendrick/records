@@ -1,14 +1,17 @@
 ---
 title: "Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 2)"
-album_artist: "Pearl Jam"
-album_title: "Rearviewmirror (Greatest Hits 1991-2003: Volume 2)"
+artist: "Pearl Jam"
+album_name: "Rearviewmirror (Greatest Hits 1991-2003: Volume 2)"
 date: 2022-03-19
 release_id: "22421110"
 slug: "rearviewmirror-greatest-hits-1991-2003-volume-2-22421110"
+hideSummary: true
 cover:
     image: "rearviewmirror-greatest-hits-1991-2003-volume-2-22421110.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rearviewmirror (Greatest Hits 1991-2003: Volume 2) by Pearl Jam"
+    caption: "Rearviewmirror (Greatest Hits 1991-2003: Volume 2) by Pearl Jam"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Grunge"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Once (2004 Remix)](https://www.youtube.com/watch?v=PEEsRBkipnc)
 - [Pearl Jam - Greatest Hits - The Down Side - HD Audio](https://www.youtube.com/watch?v=AyuTmo_XHzw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 2)](https://www.discogs.com/release/22421110) |
+| Release Year   | 2022 |
+| Discogs Link   | [Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 2)](https://www.discogs.com/release/22421110-Pearl-Jam-Rearviewmirror-Greatest-Hits-1991-2003-Volume-2) |
 | Label          | Epic, Legacy, Sony Music |
 | Format         | 2xLP, Comp, RE, Gat |
 | Catalog Number | 19439895061 |
+
+℗ 2003 Pearl Jam / This compilation (2004) Epic Records & © 2004, 2022 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. PO Box 510, 33311 Gütersloh, Germany. (...) Made in the EU. LC00199 / 19439895061  This submission contains [r=378611]'s last four sides. Please refer to [r=22421005] which includes the first four sides. Gatefold jacket with two full printed inner sleeves with credits and photos. Grey sticker on the shrink wrap on front cover: "Pearl Jam rearviewmirror greatest hits 1991-2003: Volume 2". Barcode is on a separate sticker on the shrink wrap only, on back cover. Made in the EU (on back cover and labels).
 

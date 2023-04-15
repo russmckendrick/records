@@ -1,14 +1,17 @@
 ---
 title: "Aphex Twin - Richard D. James Album"
-album_artist: "Aphex Twin"
-album_title: "Richard D. James Album"
+artist: "Aphex Twin"
+album_name: "Richard D. James Album"
 date: 2015-08-09
 release_id: "3979643"
 slug: "richard-d-james-album-3979643"
+hideSummary: true
 cover:
     image: "richard-d-james-album-3979643.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Richard D. James Album by Aphex Twin"
+    caption: "Richard D. James Album by Aphex Twin"
+genres: ["Electronic"]
+styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Girl/Boy Song
 10. Logan-Rock Witch
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Aphex Twin - Richard D. James Album](https://www.discogs.com/release/3979643) |
+| Release Year   | 2012 |
+| Discogs Link   | [Aphex Twin - Richard D. James Album](https://www.discogs.com/release/3979643-Aphex-Twin-Richard-D-James-Album) |
 | Label          | Warp Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | WARP LP 43 |
+
+Official Warp repress Heavyweight 180g vinyl Includes download code  ℗ Warp 1996 © Warp 1996 (Richard D. James)  Written-By, Producer, Sleeve, Design are credited to "Me".  Made in England.  Top opening on cover.
 

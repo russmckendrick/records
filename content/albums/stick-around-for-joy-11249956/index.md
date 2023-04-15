@@ -1,14 +1,17 @@
 ---
 title: "The Sugarcubes - Stick Around For Joy"
-album_artist: "The Sugarcubes"
-album_title: "Stick Around For Joy"
+artist: "The Sugarcubes"
+album_name: "Stick Around For Joy"
 date: 2021-08-05
 release_id: "11249956"
 slug: "stick-around-for-joy-11249956"
+hideSummary: true
 cover:
     image: "stick-around-for-joy-11249956.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Stick Around For Joy by The Sugarcubes"
+    caption: "Stick Around For Joy by The Sugarcubes"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Vitamin](https://www.youtube.com/watch?v=o5SEHe_PrGI)
 - [Chihuahua](https://www.youtube.com/watch?v=09yDXvCRYmQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Sugarcubes - Stick Around For Joy](https://www.discogs.com/release/11249956) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Sugarcubes - Stick Around For Joy](https://www.discogs.com/release/11249956-The-Sugarcubes-Stick-Around-For-Joy) |
 | Label          | One Little Indian |
 | Format         | LP, Album, RE |
 | Catalog Number | tplp30dmm |
+
+180g vinyl.  Tracks on side two printed as 6 to 10 on the rear sleeve but 1 to 5 on the label.  Made in the E.U.
 

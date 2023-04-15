@@ -1,14 +1,17 @@
 ---
 title: "Propellerheads - Decksandrumsandrockandroll"
-album_artist: "Propellerheads"
-album_title: "Decksandrumsandrockandroll"
+artist: "Propellerheads"
+album_name: "Decksandrumsandrockandroll"
 date: 2018-06-15
 release_id: "12126145"
 slug: "decksandrumsandrockandroll-12126145"
+hideSummary: true
 cover:
     image: "decksandrumsandrockandroll-12126145.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Decksandrumsandrockandroll by Propellerheads"
+    caption: "Decksandrumsandrockandroll by Propellerheads"
+genres: ["Electronic"]
+styles: ["Breakbeat", "Big Beat"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [David Arnold and Propellerheads - On Her Majesty's Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
 - [Propellerheads feat: Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Propellerheads - Decksandrumsandrockandroll](https://www.discogs.com/release/12126145) |
+| Release Year   | 2018 |
+| Discogs Link   | [Propellerheads - Decksandrumsandrockandroll](https://www.discogs.com/release/12126145-Propellerheads-Decksandrumsandrockandroll) |
 | Label          | Wall Of Sound, [pias] |
 | Format         | 2xLP, Album, RE, 20t |
 | Catalog Number | WALL LPN015, 949.G953.012 |
+
+Gatefold.  New copies copies come shrink wrapped with on sticker on the front, stating: "20th anniversary Propellerheads Decksanddrumsandrockandroll Includes: History Repeating (Feat. Miss Shirley Bassey) Spybreak! / Dive..." This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set.
 

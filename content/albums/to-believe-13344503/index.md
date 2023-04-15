@@ -1,14 +1,17 @@
 ---
 title: "The Cinematic Orchestra - To Believe"
-album_artist: "The Cinematic Orchestra"
-album_title: "To Believe"
+artist: "The Cinematic Orchestra"
+album_name: "To Believe"
 date: 2019-03-17
 release_id: "13344503"
 slug: "to-believe-13344503"
+hideSummary: true
 cover:
     image: "to-believe-13344503.jpg"
-tags: ["Electronic", "Jazz"]
-hideSummary: true
+    alt: "To Believe by The Cinematic Orchestra"
+    caption: "To Believe by The Cinematic Orchestra"
+genres: ["Electronic", "Jazz"]
+styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [The Cinematic Orchestra - A Promise (feat. Heidi Vogel)](https://www.youtube.com/watch?v=K0ks9CBYDiM)
 - [The Cinematic Orchestra - The Workers of Art](https://www.youtube.com/watch?v=t_CWeHxRuO4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Cinematic Orchestra - To Believe](https://www.discogs.com/release/13344503) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Cinematic Orchestra - To Believe](https://www.discogs.com/release/13344503-Cinematic-Orchestra-To-Believe) |
 | Label          | Ninja Tune |
 | Format         | LP, Whi + LP, Cle + Album, Dlx |
 | Catalog Number | ZEN226X |
+
+Includes download code.  Pre-orders from Bleep.com came with double-sided poster/print and sticker.
 

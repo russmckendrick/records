@@ -1,14 +1,17 @@
 ---
 title: "Various - Soft Metal - It Ain't Heavy . . . "
-album_artist: "Various"
-album_title: "Soft Metal - It Ain't Heavy . . . "
+artist: "Various"
+album_name: "Soft Metal - It Ain't Heavy . . . "
 date: 2019-03-24
 release_id: "1205378"
 slug: "soft-metal-it-ain-t-heavy-1205378"
+hideSummary: true
 cover:
     image: "soft-metal-it-ain-t-heavy-1205378.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Soft Metal - It Ain't Heavy . . .  by Various"
+    caption: "Soft Metal - It Ain't Heavy . . .  by Various"
+genres: ["Rock"]
+styles: ["Soft Rock"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Survivor - Burning Heart](https://www.youtube.com/watch?v=Kc71KZG87X4)
 - [John Parr - St Elmo's Fire  (Man In Motion)](https://www.youtube.com/watch?v=EOvMpND2OZY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Various - Soft Metal - It Ain't Heavy . . . ](https://www.discogs.com/release/1205378) |
+| Release Year   | 1988 |
+| Discogs Link   | [Various - Soft Metal - It Ain't Heavy . . . ](https://www.discogs.com/release/1205378-Various-Soft-Metal-It-Aint-Heavy--) |
 | Label          | Stylus Music |
 | Format         | LP, Comp |
 | Catalog Number | SMR 862 |
+
+Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix Track A9 - Europe - The Final Countdown is the Album Version Track B1 - Starship - We Built This City is the Album Version Track B6 - Krokus - Screaming In The Night is a Live Version.  Durations do not appear on this release. Timings via stopwatch.
 

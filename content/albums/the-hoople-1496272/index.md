@@ -1,14 +1,17 @@
 ---
 title: "Mott The Hoople - The Hoople"
-album_artist: "Mott The Hoople"
-album_title: "The Hoople"
+artist: "Mott The Hoople"
+album_name: "The Hoople"
 date: 2017-05-27
 release_id: "1496272"
 slug: "the-hoople-1496272"
+hideSummary: true
 cover:
     image: "the-hoople-1496272.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Hoople by Mott The Hoople"
+    caption: "The Hoople by Mott The Hoople"
+genres: ["Rock"]
+styles: ["Glam", "Hard Rock", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [25   Mott The Hoople    Born Late '58 1974 with lyrics](https://www.youtube.com/watch?v=niJAHJ69_Lc)
 - [Mott the Hoople - The Golden Age of Rock and Roll (alternate guitar solo)](https://www.youtube.com/watch?v=gK754ALb4eU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1974 |
-| Discogs Link   | [Mott The Hoople - The Hoople](https://www.discogs.com/release/1496272) |
+| Release Year   | 1974 |
+| Discogs Link   | [Mott The Hoople - The Hoople](https://www.discogs.com/release/1496272-Mott-The-Hoople-The-Hoople) |
 | Label          | CBS, CBS |
 | Format         | LP, Album |
 | Catalog Number | S 69062, 69062 |
+
+Light blue lyrics sheet included.  Some copies were issued with a round golden sticker reading: INCLUDING: ROLL AWAY THE STONE and GOLDEN AGE OF ROCK 'N' ROLL  [a=Ariel Bender] appears by courtesy of [l=Island Records Ltd.]  Recorded at Advision Studios, London W.1. January 1974. Re-mixed and dubbed at AIR (London) Studios 2 and 3 February 1974. B5 recorded at AIR (London) Studios No. 2 by Alan "Madswitcher" Harris, May/June 1973  Equipment by Ritchie, Phil, and Eddie. Model: Kari-Ann.  [a=Lynsey De Paul] appeared courtesy of [MAM Records](http://www.discogs.com/label/3342020) and the Triumph Motor Co. Ltd. [Barry](http://www.discogs.com/artist/340639), [Sue and Sunny](http://www.discogs.com/artist/452258) appeared with [Howie](http://www.discogs.com/artist/285528), Johnny and Alec [a412016] appeared to be in [Bad Company](http://www.discogs.com/artist/261941)  A1 to B4 published by April Music / H & H Music. B5 Published by Island Music Shorepak by Shorewood Packaging Co. Ltd. England ℗ 1974 CBS Inc. B5 ℗ 1973. Made in England.  Runouts are stamped.
 

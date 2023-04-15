@@ -1,14 +1,17 @@
 ---
 title: "The Beatles - Let It Be"
-album_artist: "The Beatles"
-album_title: "Let It Be"
+artist: "The Beatles"
+album_name: "Let It Be"
 date: 2021-10-22
 release_id: "20583457"
 slug: "let-it-be-20583457"
+hideSummary: true
 cover:
     image: "let-it-be-20583457.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Let It Be by The Beatles"
+    caption: "Let It Be by The Beatles"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -78,13 +81,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Xw8XzYYBp1Y" title="The Beatles - Let It Be [Full Album] (1970)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Beatles - Let It Be](https://www.discogs.com/release/20583457) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Beatles - Let It Be](https://www.discogs.com/release/20583457-The-Beatles-Let-It-Be) |
 | Label          | Apple Records, Universal Music Group International |
 | Format         | Box, Dlx + LP, Album, RE + 2xLP, Comp, Mono + LP,  |
 | Catalog Number | 0602507138899 |
+
+The Super Deluxe Vinyl Special Edition slipcase box set houses 4 LPs, a 12"/45rpm EP, and a 108-page hardbound book in slipcase.  Comes with a black sticker on shrink: "The Beatles. Let it be. 5 LP edition. New mixes by Giles Martin and Sam OKell. Let it be + 2 LPs of outtakes, jams, rehearsals and studio chat plus 'Get back' album (1969 mix by Glyn Johns) + Let it be EP. 180gm heavyweight vinyl half-speed mastered at Abbey Road. 100-page hardback book with in-depth essays, track-by-track recording information and foreword by Paul McCartney". + additional release icons/barcode/notes.  Made in Germany.  Runouts are hand-etched. In runouts, all Optimal plating symbol may be mirrored (“⊥” vs “T”) and/or inverted ("△1 vs ”△↾”). To enable searchability, these special Unicode characters have been replaced in the runout field by standard letters. See [Common runout groove etchings V8](https://www.discogs.com/group/thread/809508), guidance (8)(a)(b)(c).
 

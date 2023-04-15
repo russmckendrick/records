@@ -1,14 +1,17 @@
 ---
 title: "Sammy Davis Jr. - K-Tel Present The Sounds Of Sammy Davis Jr."
-album_artist: "Sammy Davis Jr."
-album_title: "K-Tel Present The Sounds Of Sammy Davis Jr."
+artist: "Sammy Davis Jr."
+album_name: "K-Tel Present The Sounds Of Sammy Davis Jr."
 date: 2020-08-02
 release_id: "3725281"
 slug: "k-tel-present-the-sounds-of-sammy-davis-jr-3725281"
+hideSummary: true
 cover:
     image: "k-tel-present-the-sounds-of-sammy-davis-jr-3725281.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "K-Tel Present The Sounds Of Sammy Davis Jr. by Sammy Davis Jr."
+    caption: "K-Tel Present The Sounds Of Sammy Davis Jr. by Sammy Davis Jr."
+genres: ["Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Sammy Davis Jr. Spinning Wheel](https://www.youtube.com/watch?v=DidwR29BJX0)
 - [Sammy Davis Jr. sings Spinning Wheel](https://www.youtube.com/watch?v=MWRxgyiHk1Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Sammy Davis Jr. - K-Tel Present The Sounds Of Sammy Davis Jr.](https://www.discogs.com/release/3725281) |
+| Release Year   | 0 |
+| Discogs Link   | [Sammy Davis Jr. - K-Tel Present The Sounds Of Sammy Davis Jr.](https://www.discogs.com/release/3725281-Sammy-Davis-Jr-K-Tel-Present-The-Sounds-Of-Sammy-Davis-Jr) |
 | Label          | K-Tel |
 | Format         | LP, Comp |
 | Catalog Number | NE 704 |
+
+Text on label: All Rights of The Manufacturer and of The Owner of The Recorded Work Reserved. Unauthorised Public Performance Broadcasting and Copying of this Record Prohibited  Limited Collectors Edition.  
 

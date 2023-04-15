@@ -1,14 +1,17 @@
 ---
 title: "Haken (2) - Virus"
-album_artist: "Haken (2)"
-album_title: "Virus"
+artist: "Haken (2)"
+album_name: "Virus"
 date: 2021-01-17
 release_id: "15637222"
 slug: "virus-15637222"
+hideSummary: true
 cover:
     image: "virus-15637222.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Virus by Haken (2)"
+    caption: "Virus by Haken (2)"
+genres: ["Rock"]
+styles: ["Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Messiah Complex V: Ectobius Rex](https://www.youtube.com/watch?v=YkzpCm9QRnE)
 - [Only Stars](https://www.youtube.com/watch?v=BP55LZwJgRI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Haken (2) - Virus](https://www.discogs.com/release/15637222) |
+| Release Year   | 2020 |
+| Discogs Link   | [Haken (2) - Virus](https://www.discogs.com/release/15637222-Haken-Virus) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | IOMLP 549, 19439744731 |
+
+Version with black vinyl  Runouts: '1 ❘' is mirrored in all runouts.
 

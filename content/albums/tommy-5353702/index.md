@@ -1,14 +1,17 @@
 ---
 title: "The Who - Tommy"
-album_artist: "The Who"
-album_title: "Tommy"
+artist: "The Who"
+album_name: "Tommy"
 date: 2015-08-09
 release_id: "5353702"
 slug: "tommy-5353702"
+hideSummary: true
 cover:
     image: "tommy-5353702.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Tommy by The Who"
+    caption: "Tommy by The Who"
+genres: ["Rock", "Pop"]
+styles: ["Classic Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -140,13 +143,16 @@ hideSummary: true
 {{< youtube id="txA_FXWX7Po" title="The̲ W̲ho -Tommy (1969) 1990 MFSL Remaster (Full Album)" >}}
 - [Overture](https://www.youtube.com/watch?v=MPUDqqINVXE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [The Who - Tommy](https://www.discogs.com/release/5353702) |
+| Release Year   | 2013 |
+| Discogs Link   | [The Who - Tommy](https://www.discogs.com/release/5353702-The-Who-Tommy) |
 | Label          | Polydor, Track Record |
 | Format         | Box, Ltd, Sup + CD, Album, RE, RM + CD + Blu-ray,  |
 | Catalog Number | 3747396 |
+
+On disc four all tracks are from the Capitol Theatre, Ottawa, Ontario, Canada, 15 October 1969, except for "I'm Free", "Tommy's Holiday Camp", "We're Not Gonna Take It" and "See Me, Feel Me" which are from Swansea City Football Club, 12 June 1976.
 

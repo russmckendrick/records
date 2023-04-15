@@ -1,14 +1,17 @@
 ---
 title: "Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
-album_artist: "Daft Punk"
-album_title: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
+artist: "Daft Punk"
+album_name: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
 date: 2016-03-29
 release_id: "7347762"
 slug: "tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762"
+hideSummary: true
 cover:
     image: "tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762.jpg"
-tags: ["Electronic", "Classical", "Stage & Screen"]
-hideSummary: true
+    alt: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack) by Daft Punk"
+    caption: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack) by Daft Punk"
+genres: ["Electronic", "Classical", "Stage & Screen"]
+styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Tron- Legacy vinyl edition motion picture soundtrack, music by Daft Punk](https://www.youtube.com/watch?v=OlRx8PUycXA)
 - [T.R.O.N : L.E.G.A.CY (2010) - Soundtrack (Full Vinyl Rip)](https://www.youtube.com/watch?v=GUpdmSVyJe0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)](https://www.discogs.com/release/7347762) |
+| Release Year   | 2015 |
+| Discogs Link   | [Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)](https://www.discogs.com/release/7347762-Daft-Punk-TRON-Legacy-Vinyl-Edition-Motion-Picture-Soundtrack) |
 | Label          | Walt Disney Records |
 | Format         | 2xLP, Album, RE, RP |
 | Catalog Number | D001356101 |
+
+180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark. Unlike the [original limited release](http://www.discogs.com/release/2814077), no download code is included on the insert. Sticker: "Features two tracks previously unreleased on any physical format" ("[Sea Of Simulation](http://www.discogs.com/release/2585356)" and "[Sunrise Prelude](http://www.discogs.com/release/4241399)") Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.  Back and insert: This compilation ℗ 2011 Walt Disney Records Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD.
 

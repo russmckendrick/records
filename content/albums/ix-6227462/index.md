@@ -1,14 +1,17 @@
 ---
 title: "...And You Will Know Us By The Trail Of Dead - IX"
-album_artist: "...And You Will Know Us By The Trail Of Dead"
-album_title: "IX"
+artist: "...And You Will Know Us By The Trail Of Dead"
+album_name: "IX"
 date: 2017-12-02
 release_id: "6227462"
 slug: "ix-6227462"
+hideSummary: true
 cover:
     image: "ix-6227462.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "IX by ...And You Will Know Us By The Trail Of Dead"
+    caption: "IX by ...And You Will Know Us By The Trail Of Dead"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Post-Hardcore"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [A Million Random Digits](https://www.youtube.com/watch?v=X6GQGvhhwVY)
 - [Sound Of The Silk](https://www.youtube.com/watch?v=K4keIc5Vj-s)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [...And You Will Know Us By The Trail Of Dead - IX](https://www.discogs.com/release/6227462) |
+| Release Year   | 2014 |
+| Discogs Link   | [...And You Will Know Us By The Trail Of Dead - IX](https://www.discogs.com/release/6227462-And-You-Will-Know-Us-By-The-Trail-Of-Dead-IX) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album, Blu + CD, Album + Ltd |
 | Catalog Number | SBMLP 033, 0506911 |
+
+180g blue vinyl + CD. Gatefold.
 

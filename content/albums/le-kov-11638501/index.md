@@ -1,14 +1,17 @@
 ---
 title: "Gwenno - Le Kov"
-album_artist: "Gwenno"
-album_title: "Le Kov"
+artist: "Gwenno"
+album_name: "Le Kov"
 date: 2018-10-22
 release_id: "11638501"
 slug: "le-kov-11638501"
+hideSummary: true
 cover:
     image: "le-kov-11638501.jpg"
-tags: ["Electronic", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Le Kov by Gwenno"
+    caption: "Le Kov by Gwenno"
+genres: ["Electronic", "Pop", "Folk, World, & Country"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Hunros](https://www.youtube.com/watch?v=ksG8PnMCVF8)
 - [Koweth Ker](https://www.youtube.com/watch?v=v07qP27bZXI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gwenno - Le Kov](https://www.discogs.com/release/11638501) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gwenno - Le Kov](https://www.discogs.com/release/11638501-Gwenno-Le-Kov) |
 | Label          | Heavenly |
 | Format         | LP, Album, Blu |
 | Catalog Number | HVNLP145C |
+
+Light blue coloured vinyl. Includes download code.  Lyrics and credits printed in both Cornish and English.  Mixed and additional programming ... for Solar Management Ltd  Copies pre-ordered directly from [l889] coming signed by the artist. 
 

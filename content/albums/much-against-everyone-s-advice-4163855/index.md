@@ -1,14 +1,17 @@
 ---
 title: "Soulwax - Much Against Everyone's Advice"
-album_artist: "Soulwax"
-album_title: "Much Against Everyone's Advice"
+artist: "Soulwax"
+album_name: "Much Against Everyone's Advice"
 date: 2016-04-23
 release_id: "4163855"
 slug: "much-against-everyone-s-advice-4163855"
+hideSummary: true
 cover:
     image: "much-against-everyone-s-advice-4163855.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Much Against Everyone's Advice by Soulwax"
+    caption: "Much Against Everyone's Advice by Soulwax"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
 - [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855) |
+| Release Year   | 2012 |
+| Discogs Link   | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855-Soulwax-Much-Against-Everyones-Advice) |
 | Label          | [PIAS] Recordings, [PIAS] Recordings |
 | Format         | LP, Album, RE |
 | Catalog Number | PIASB 010 LP, 941.0010.10 |
+
+Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings
 

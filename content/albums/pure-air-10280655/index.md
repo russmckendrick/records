@@ -1,14 +1,17 @@
 ---
 title: "Anneke van Giersbergen With Agua De Annique - Pure Air"
-album_artist: "Anneke van Giersbergen With Agua De Annique"
-album_title: "Pure Air"
+artist: "Anneke van Giersbergen With Agua De Annique"
+album_name: "Pure Air"
 date: 2017-05-25
 release_id: "10280655"
 slug: "pure-air-10280655"
+hideSummary: true
 cover:
     image: "pure-air-10280655.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pure Air by Anneke van Giersbergen With Agua De Annique"
+    caption: "Pure Air by Anneke van Giersbergen With Agua De Annique"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Witnesses (1:51)
 13. The Power Of Love (4:44)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Anneke van Giersbergen With Agua De Annique - Pure Air](https://www.discogs.com/release/10280655) |
+| Release Year   | 2017 |
+| Discogs Link   | [Anneke van Giersbergen With Agua De Annique - Pure Air](https://www.discogs.com/release/10280655-Anneke-van-Giersbergen-With-Agua-De-Annique-Pure-Air) |
 | Label          | Music On Vinyl, Agua Recordings, Inside Out Music |
 | Format         | LP, Album, Ltd, Num, Red |
 | Catalog Number | MOVLP1875 |
+
+Limited to 1,000 copies worldwide Number stamped on rear sleeve in gold.
 

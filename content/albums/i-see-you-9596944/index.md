@@ -1,14 +1,17 @@
 ---
 title: "The XX - I See You"
-album_artist: "The XX"
-album_title: "I See You"
+artist: "The XX"
+album_name: "I See You"
 date: 2017-01-19
 release_id: "9596944"
 slug: "i-see-you-9596944"
+hideSummary: true
 cover:
     image: "i-see-you-9596944.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "I See You by The XX"
+    caption: "I See You by The XX"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The xx - I Dare You (Official Music Video)](https://www.youtube.com/watch?v=qqflFMhkqHM)
 - [The xx - Naive (Official Audio)](https://www.youtube.com/watch?v=yZBaaPz6jQs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The XX - I See You](https://www.discogs.com/release/9596944) |
+| Release Year   | 2017 |
+| Discogs Link   | [The XX - I See You](https://www.discogs.com/release/9596944-The-XX-I-See-You) |
 | Label          | Young Turks |
 | Format         | LP, Album, Ltd, Cle + CD, Album |
 | Catalog Number | YTLP161V |
+
+Limited to 6000 copies.  Recorded between March 2014 + August 2016. "Say Something Loving" contains a sample of the recording 'Do You Feel It' as performed by Alessi. Used courtesy of A&M Records. Under license from Universal Music Enterprises. Used by permission. All rights reserved. This composition contains elements from 'Do You Feel It' by Bobby & Billy Alessi. Published by Alessi Music / The Royalty Network Inc & Bucks Music Group Limited. Also contains homage to 'The Sweetest Taboo' (Sade Adu / Martin Ditchum) published by Angel Music Ltd. / Sony / ATV Music Publishing. "Lips" contains a sample from 'Just (After Song Of Songs)' performed by Trio Mediaeval, Garth Knox, Agnès Vestermann And Sylvain Lemêtre. Recording Louth Contemporary Music, www.Louthcms.Org. Music and text - David Lang. Publisher: Red Poppy, Ltd. "On Hold" contains a sample from 'I Can't Go For That (No Can Do)' as recorded by Daryl Hall & John Oates. Used courtesy of Sony Music Entertainment. Written by S. Allen, D. Hall, J. Oates © 1981. Published by Geomantic Music (BMI) / Hot Cha Music Co. (BMI) Admin By BMG Rights Management (UK) Ltd. / Unichappell Music Inc. Admin By Warner / Chappell North America Ltd.  Stella Mozgawa appears courtesy of Rough Trade Records.  Track durations for CD have been timed using iTunes.
 

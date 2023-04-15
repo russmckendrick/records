@@ -1,14 +1,17 @@
 ---
 title: "Ride - Going Blank Again"
-album_artist: "Ride"
-album_title: "Going Blank Again"
+artist: "Ride"
+album_name: "Going Blank Again"
 date: 2022-11-04
 release_id: "25002466"
 slug: "going-blank-again-25002466"
+hideSummary: true
 cover:
     image: "going-blank-again-25002466.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Going Blank Again by Ride"
+    caption: "Going Blank Again by Ride"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Ride - Time Machine](https://www.youtube.com/watch?v=5zdq_L4K64w)
 - [Ride - OX4](https://www.youtube.com/watch?v=57I0Lt0yalA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Ride - Going Blank Again](https://www.discogs.com/release/25002466) |
+| Release Year   | 2022 |
+| Discogs Link   | [Ride - Going Blank Again](https://www.discogs.com/release/25002466-Ride-Going-Blank-Again) |
 | Label          | Wichita, Wichita |
 | Format         | 2xLP, Album, RE, Ora |
 | Catalog Number | webb573lp, WEBB573LP |
+
+'Original audio reworked and refined' Double transparent orange vinyl, standard weight Gatefold sleeve, gloss machine varnish Full album download with four bonus tracks in flac or mp3.  webb573lp on sleeve WEBB573LP on hype sticker  Runouts on all sides have an 8 crossed out between 5 and 7 :     WEBB5 ̷8̷73LP
 

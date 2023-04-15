@@ -1,14 +1,17 @@
 ---
 title: "Joe Strummer - Assembly"
-album_artist: "Joe Strummer"
-album_title: "Assembly"
+artist: "Joe Strummer"
+album_name: "Assembly"
 date: 2021-03-30
 release_id: "17989276"
 slug: "assembly-17989276"
+hideSummary: true
 cover:
     image: "assembly-17989276.jpg"
-tags: ["Rock", "Latin", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Assembly by Joe Strummer"
+    caption: "Assembly by Joe Strummer"
+genres: ["Rock", "Latin", "Folk, World, & Country"]
+styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Love Kills](https://www.youtube.com/watch?v=LYlTYh71dp0)
 - [Sleepwalk](https://www.youtube.com/watch?v=bthFVrGAviE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Joe Strummer - Assembly](https://www.discogs.com/release/17989276) |
+| Release Year   | 2021 |
+| Discogs Link   | [Joe Strummer - Assembly](https://www.discogs.com/release/17989276-Joe-Strummer-Assembly) |
 | Label          | Dark Horse Records |
 | Format         | 2xLP, Comp, Ltd, RM, Red |
 | Catalog Number | DH0002 |
+
+Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.  Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).  Tracks are sequentially listed on release.
 

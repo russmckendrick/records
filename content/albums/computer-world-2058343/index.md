@@ -1,14 +1,17 @@
 ---
 title: "Kraftwerk - Computer World"
-album_artist: "Kraftwerk"
-album_title: "Computer World"
+artist: "Kraftwerk"
+album_name: "Computer World"
 date: 2016-02-21
 release_id: "2058343"
 slug: "computer-world-2058343"
+hideSummary: true
 cover:
     image: "computer-world-2058343.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Computer World by Kraftwerk"
+    caption: "Computer World by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Home Computer (2009 Remaster)](https://www.youtube.com/watch?v=Ad-8gOMM9yk)
 - [It's More Fun to Compute (2009 Remaster)](https://www.youtube.com/watch?v=d9tH2XXhiZ4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Kraftwerk - Computer World](https://www.discogs.com/release/2058343) |
+| Release Year   | 2009 |
+| Discogs Link   | [Kraftwerk - Computer World](https://www.discogs.com/release/2058343-Kraftwerk-Computer-World) |
 | Label          | Kling Klang, Mute |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 50999 9 6602317, STUMM 307 |
+
+Packaging:  Comes with a 30x30 cm 16 page booklet, and a picture inner sleeve. "Kling Klang Digital Master" is printed on the sleeve's spine.  Special note:  The left and right channels for all tracks have been swapped for this remastered reissue.
 

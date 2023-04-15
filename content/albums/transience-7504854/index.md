@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - Transience"
-album_artist: "Steven Wilson"
-album_title: "Transience"
+artist: "Steven Wilson"
+album_name: "Transience"
 date: 2015-09-25
 release_id: "7504854"
 slug: "transience-7504854"
+hideSummary: true
 cover:
     image: "transience-7504854.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Transience by Steven Wilson"
+    caption: "Transience by Steven Wilson"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Thank You](https://www.youtube.com/watch?v=IQQOvl1WM2A)
 - [Psychosins Psychoanalysis: Steven Wilson - Transience](https://www.youtube.com/watch?v=62ddEbw4Hao)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Steven Wilson - Transience](https://www.discogs.com/release/7504854) |
+| Release Year   | 2015 |
+| Discogs Link   | [Steven Wilson - Transience](https://www.discogs.com/release/7504854-Steven-Wilson-Transience) |
 | Label          | Kscope |
 | Format         | LP, 180 + LP, S/Sided, Etch, 180 + Comp, Ltd |
 | Catalog Number | KSCOPE904 |
+
+"Harmony Korine", "Significant Other" and "Insurgentes" taken from "Insurgentes" (2008) "Postcard", "Deform to Form a Star" and "Index" taken drom "Grace For Drowning" (2011) "The Pin Drop" and "Drive Home" taken from "The Raven That Refused to Sing" (2013) "Transience", "Happy Returns" and "Hand Cannot Erase" taken from "Hand. Cannot. Erase." (2015) "Thank You" taken from "Cover Version" compilation (originally recorded and released as a single in 2003) "Lazarus" backing track recorded on tour in March 2015, final studio overdubs and mix July 2015  Side D features an etching of the original handwritten lyric sketches for "Happy Returns".  [From hype sticker:] 2LP 180g Vinyl in Gatefold with Etching Songs recorded between 2003-2015: an introduction to the more accessible side of the four time Grammy nominee Steven Wilson. Includes 3 exclusive edits, plus a 2015 re-recording of "Lazarus". kscope 904 kscopemusic.com/sw  [2nd sticker:] Digital Download Code Inside  180g Heavyweight Vinyl  Limited edition of 2000 copies. Digital download: [r=9295476]  Release date for central Europe:  2015-10-02  ℗ 2015 Steven Wilson © 2015 Steven Wilson. Made in Germany  Design [...] for Aleph
 

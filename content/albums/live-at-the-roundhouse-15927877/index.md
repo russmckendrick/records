@@ -1,14 +1,17 @@
 ---
 title: "Nick Mason's Saucerful Of Secrets - Live At The Roundhouse"
-album_artist: "Nick Mason's Saucerful Of Secrets"
-album_title: "Live At The Roundhouse"
+artist: "Nick Mason's Saucerful Of Secrets"
+album_name: "Live At The Roundhouse"
 date: 2020-09-18
 release_id: "15927877"
 slug: "live-at-the-roundhouse-15927877"
+hideSummary: true
 cover:
     image: "live-at-the-roundhouse-15927877.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Live At The Roundhouse by Nick Mason's Saucerful Of Secrets"
+    caption: "Live At The Roundhouse by Nick Mason's Saucerful Of Secrets"
+genres: ["Rock"]
+styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Nick Mason's Saucerful Of Secrets - See Emily Play (Live At The Roundhouse)](https://www.youtube.com/watch?v=E9AFBZrJfpU)
 - [Nick Mason's Saucerful of Secrets - Live at the Roundhouse. 2020. Progressive Rock. Full Album](https://www.youtube.com/watch?v=cno2EVHGJlk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Nick Mason's Saucerful Of Secrets - Live At The Roundhouse](https://www.discogs.com/release/15927877) |
+| Release Year   | 2020 |
+| Discogs Link   | [Nick Mason's Saucerful Of Secrets - Live At The Roundhouse](https://www.discogs.com/release/15927877-Nick-Masons-Saucerful-Of-Secrets-Live-At-The-Roundhouse) |
 | Label          | Legacy |
 | Format         | 2xLP, Album, Die |
 | Catalog Number | 19075982711 |
+
+Sticker: Nick Mason's Saucerful Of Secrets Perform Over Two Hours Of Early Pink Floyd Filmed Live At The Roundhouse In London 2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun  This Product Contains : --Die Cut Slipcase & Printed Inner Bags -- MP3 Download Card  Sleeve gatefold Made in the EU. 
 

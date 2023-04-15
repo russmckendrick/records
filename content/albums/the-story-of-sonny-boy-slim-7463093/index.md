@@ -1,14 +1,17 @@
 ---
 title: "Gary Clark Jr. - The Story Of Sonny Boy Slim"
-album_artist: "Gary Clark Jr."
-album_title: "The Story Of Sonny Boy Slim"
+artist: "Gary Clark Jr."
+album_name: "The Story Of Sonny Boy Slim"
 date: 2015-09-22
 release_id: "7463093"
 slug: "the-story-of-sonny-boy-slim-7463093"
+hideSummary: true
 cover:
     image: "the-story-of-sonny-boy-slim-7463093.jpg"
-tags: ["Rock", "Funk / Soul", "Blues"]
-hideSummary: true
+    alt: "The Story Of Sonny Boy Slim by Gary Clark Jr."
+    caption: "The Story Of Sonny Boy Slim by Gary Clark Jr."
+genres: ["Rock", "Funk / Soul", "Blues"]
+styles: ["Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Gary Clark Jr. - Grinder (Official Music Video)](https://www.youtube.com/watch?v=5ffEpbvAcG4)
 - [Gary Clark Jr. - Cold Blooded](https://www.youtube.com/watch?v=QFajvN0IFyo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093) |
+| Release Year   | 2015 |
+| Discogs Link   | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |
 | Label          | Warner Bros. Records, Hotwire Unlimited |
 | Format         | LP, Album + LP, S/Sided, Album, Etch |
 | Catalog Number | 550131-1 |
+
+© 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits.
 

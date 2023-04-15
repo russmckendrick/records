@@ -1,14 +1,17 @@
 ---
 title: "Beth Orton - Trailer Park"
-album_artist: "Beth Orton"
-album_title: "Trailer Park"
+artist: "Beth Orton"
+album_name: "Trailer Park"
 date: 2018-05-03
 release_id: "2391456"
 slug: "trailer-park-2391456"
+hideSummary: true
 cover:
     image: "trailer-park-2391456.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Trailer Park by Beth Orton"
+    caption: "Trailer Park by Beth Orton"
+genres: ["Electronic", "Rock"]
+styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456) |
+| Release Year   | 2010 |
+| Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456-Beth-Orton-Trailer-Park) |
 | Label          | Plain Recordings |
 | Format         | LP, Album, RE |
 | Catalog Number | plain149 |
+
+Ⓟ 1996 Deconstruction Ltd. © 2010 Runt LLC  180 gram vinyl  Custom inner sleeve 
 

@@ -1,14 +1,17 @@
 ---
 title: "Iron And Wine - Around The Well"
-album_artist: "Iron And Wine"
-album_title: "Around The Well"
+artist: "Iron And Wine"
+album_name: "Around The Well"
 date: 2021-08-13
 release_id: "1786285"
 slug: "around-the-well-1786285"
+hideSummary: true
 cover:
     image: "around-the-well-1786285.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Around The Well by Iron And Wine"
+    caption: "Around The Well by Iron And Wine"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Acoustic", "Indie Rock", "Folk"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Around The Well [Iron & Wine, 2009]](https://www.youtube.com/watch?v=FKjMFeB56TU)
 - [Peng! 33](https://www.youtube.com/watch?v=7uEQpxm5ODo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Iron And Wine - Around The Well](https://www.discogs.com/release/1786285) |
+| Release Year   | 2009 |
+| Discogs Link   | [Iron And Wine - Around The Well](https://www.discogs.com/release/1786285-Iron-And-Wine-Around-The-Well) |
 | Label          | Sub Pop |
 | Format         | 2xLP, Comp + 12\", S/Sided, Etch |
 | Catalog Number | SP 808 |
+
+Includes an MP3 download coupon for the entire album + insert with lyrics. 'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.  All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]  F-side is an etched album/artist artwork.  © ℗ 2009 Sub Pop Records
 

@@ -1,14 +1,17 @@
 ---
 title: "Charlie Barnes - Last Nights Glitter"
-album_artist: "Charlie Barnes"
-album_title: "Last Nights Glitter"
+artist: "Charlie Barnes"
+album_name: "Last Nights Glitter"
 date: 2020-08-30
 release_id: "15832271"
 slug: "last-nights-glitter-15832271"
+hideSummary: true
 cover:
     image: "last-nights-glitter-15832271.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Last Nights Glitter by Charlie Barnes"
+    caption: "Last Nights Glitter by Charlie Barnes"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Former Glories/Bruising (Reprise) (4:26)
 10. Last Night's Glitter (6:31)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Charlie Barnes - Last Nights Glitter](https://www.discogs.com/release/15832271) |
+| Release Year   | 2020 |
+| Discogs Link   | [Charlie Barnes - Last Nights Glitter](https://www.discogs.com/release/15832271-Charlie-Barnes-Last-Nights-Glitter) |
 | Label          | Not On Label |
 | Format         | LP |
 | Catalog Number | none |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Rush - Time Machine 2011: Live In Cleveland"
-album_artist: "Rush"
-album_title: "Time Machine 2011: Live In Cleveland"
+artist: "Rush"
+album_name: "Time Machine 2011: Live In Cleveland"
 date: 2020-06-15
 release_id: "13726336"
 slug: "time-machine-2011-live-in-cleveland-13726336"
+hideSummary: true
 cover:
     image: "time-machine-2011-live-in-cleveland-13726336.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Time Machine 2011: Live In Cleveland by Rush"
+    caption: "Time Machine 2011: Live In Cleveland by Rush"
+genres: ["Rock"]
+styles: ["Prog Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -39,16 +42,17 @@ hideSummary: true
 25. La Villa Strangiato
 26. Working Man
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Rush - Time Machine 2011: Live In Cleveland](https://www.discogs.com/release/13726336) |
+| Release Year   | 2019 |
+| Discogs Link   | [Rush - Time Machine 2011: Live In Cleveland](https://www.discogs.com/release/13726336-Rush-Time-Machine-2011-Live-In-Cleveland) |
 | Label          | Anthem (5), Roadrunner Records |
 | Format         | 4xLP, Album, RE, 180 |
 | Catalog Number | R1 176655, 081227934316 |
+
+Issued Under License To Roadrunner Records From ole Media Management L.P.  Printed in Canada - printed on back cover Manufactured in E.U. - printed on label RIM text  Download card included. Expires December 31, 2021
 

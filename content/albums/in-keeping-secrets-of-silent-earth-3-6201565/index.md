@@ -1,14 +1,17 @@
 ---
 title: "Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3"
-album_artist: "Coheed And Cambria"
-album_title: "In Keeping Secrets Of Silent Earth: 3"
+artist: "Coheed And Cambria"
+album_name: "In Keeping Secrets Of Silent Earth: 3"
 date: 2017-07-16
 release_id: "6201565"
 slug: "in-keeping-secrets-of-silent-earth-3-6201565"
+hideSummary: true
 cover:
     image: "in-keeping-secrets-of-silent-earth-3-6201565.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "In Keeping Secrets Of Silent Earth: 3 by Coheed And Cambria"
+    caption: "In Keeping Secrets Of Silent Earth: 3 by Coheed And Cambria"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 {{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}
 - [Coheed and Cambria - A Favor House Atlantic (Official Video)](https://www.youtube.com/watch?v=pRWjLLpwnOM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3](https://www.discogs.com/release/6201565) |
+| Release Year   | 2014 |
+| Discogs Link   | [Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3](https://www.discogs.com/release/6201565-Coheed-And-Cambria-In-Keeping-Secrets-Of-Silent-Earth-3) |
 | Label          | Columbia, Equal Vision Records, Legacy, Sony Music |
 | Format         | 2xLP, Ltd, RE, RM, 180 |
 | Catalog Number | 88843099221, none |
+
+Black EU pressing  Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"
 

@@ -1,14 +1,17 @@
 ---
 title: "Sigur Rós - Takk..."
-album_artist: "Sigur Rós"
-album_title: "Takk..."
+artist: "Sigur Rós"
+album_name: "Takk..."
 date: 2016-12-04
 release_id: "7665804"
 slug: "takk-7665804"
+hideSummary: true
 cover:
     image: "takk-7665804.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Takk... by Sigur Rós"
+    caption: "Takk... by Sigur Rós"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Svo hljótt](https://www.youtube.com/watch?v=FUri60guH2w)
 - [Heysátan](https://www.youtube.com/watch?v=zEGX8WEodDU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Sigur Rós - Takk...](https://www.discogs.com/release/7665804) |
+| Release Year   | 2015 |
+| Discogs Link   | [Sigur Rós - Takk...](https://www.discogs.com/release/7665804-Sigur-R%C3%B3s-Takk) |
 | Label          | Krúnk |
 | Format         | 2xLP, 180 + 10\", S/Sided, Etch + Album, Dlx, Ltd,  |
 | Catalog Number | KRUNK9LP |
+
+2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".  Sticker on front reads: Sigur Rós "Takk…" Deluxe 180g Vinyl 2 x LP & Etched 10"  Sides are actually numbered 1A, 1B, 2A, 2B, 3A.
 

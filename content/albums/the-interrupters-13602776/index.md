@@ -1,14 +1,17 @@
 ---
 title: "The Interrupters - The Interrupters"
-album_artist: "The Interrupters"
-album_title: "The Interrupters"
+artist: "The Interrupters"
+album_name: "The Interrupters"
 date: 2022-10-04
 release_id: "13602776"
 slug: "the-interrupters-13602776"
+hideSummary: true
 cover:
     image: "the-interrupters-13602776.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Interrupters by The Interrupters"
+    caption: "The Interrupters by The Interrupters"
+genres: ["Rock"]
+styles: ["Punk", "Ska"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [The Interrupters - The Interrupters (Full Album)](https://www.youtube.com/watch?v=qEVTRsNuLNM)
 - [The Interrupters - Take Back The Power](https://www.youtube.com/watch?v=q7Ol-YDS4Jc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Interrupters - The Interrupters](https://www.discogs.com/release/13602776) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Interrupters - The Interrupters](https://www.discogs.com/release/13602776-The-Interrupters-The-Interrupters) |
 | Label          | Hellcat Records |
 | Format         | LP, Album, RP |
 | Catalog Number | 0530-1 |
+
+Track A7 & B6 are bonus tracks. Printed innersleeve with lyrics
 

@@ -1,14 +1,17 @@
 ---
 title: "Prince - 1999"
-album_artist: "Prince"
-album_title: "1999"
+artist: "Prince"
+album_name: "1999"
 date: 2019-12-05
 release_id: "14462421"
 slug: "1999-14462421"
+hideSummary: true
 cover:
     image: "1999-14462421.jpg"
-tags: ["Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "1999 by Prince"
+    caption: "1999 by Prince"
+genres: ["Funk / Soul", "Pop"]
+styles: ["Minneapolis Sound", "Funk"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [All the Critics Love U in New York](https://www.youtube.com/watch?v=6Rtjb1SMGVE)
 - [International Lover](https://www.youtube.com/watch?v=40sGh8zBD4U)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Prince - 1999](https://www.discogs.com/release/14462421) |
+| Release Year   | 2019 |
+| Discogs Link   | [Prince - 1999](https://www.discogs.com/release/14462421-Prince-1999) |
 | Label          | Warner Records, NPG Records, The Prince Estate |
 | Format         | 2xLP, Album, Ltd, RE, RM, Pur |
 | Catalog Number | RR1 23720, 603497849987 |
+
+Red sticker on shrink: The iconic album remastered for the very first time Limited edition, 180g 2LP set pressed on Prince purple vinyl Includes download code RR1 23720  Vinyl housed in die-cut black paper, polylined inner sleeves, and come with two replica inner sleeves containing pictures, credits and lyrics.  Album title stylized as **1999** on labels.  Cover, back Made in the E.U. PRINCE.COM |603497849987  Labels: RR1 23720 Made in the E.U. GEMA/BIEM • 603497849987  ℗ & © 2019, 1982 NPG Records, Inc. Under exclusive license to Warner Records Inc. Made in the E.U. 
 

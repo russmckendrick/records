@@ -1,14 +1,17 @@
 ---
 title: "The Sweet - Greatest Hitz 1969-1978"
-album_artist: "The Sweet"
-album_title: "Greatest Hitz 1969-1978"
+artist: "The Sweet"
+album_name: "Greatest Hitz 1969-1978"
 date: 2022-10-12
 release_id: "24773633"
 slug: "greatest-hitz-1969-1978-24773633"
+hideSummary: true
 cover:
     image: "greatest-hitz-1969-1978-24773633.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hitz 1969-1978 by The Sweet"
+    caption: "Greatest Hitz 1969-1978 by The Sweet"
+genres: ["Rock"]
+styles: ["Glam"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Sweet - Fox On The Run - Promo Clip (OFFICIAL)](https://www.youtube.com/watch?v=qBdFA6sI6-8)
 - [Sweet - GREATEST HITZ! The Best of Sweet 1969-1978 Announcement](https://www.youtube.com/watch?v=i4i1THuc6-4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Sweet - Greatest Hitz 1969-1978](https://www.discogs.com/release/24773633) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Sweet - Greatest Hitz 1969-1978](https://www.discogs.com/release/24773633-Sweet-Greatest-Hitz-1969-1978) |
 | Label          | BMG |
 | Format         | LP, Comp, Tra + LP, Tra |
 | Catalog Number | BMGCAT587DLP |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "The The - Soul Mining"
-album_artist: "The The"
-album_title: "Soul Mining"
+artist: "The The"
+album_name: "Soul Mining"
 date: 2022-10-14
 release_id: "24818426"
 slug: "soul-mining-24818426"
+hideSummary: true
 cover:
     image: "soul-mining-24818426.jpg"
-tags: ["Rock", "Blues", "Pop"]
-hideSummary: true
+    alt: "Soul Mining by The The"
+    caption: "Soul Mining by The The"
+genres: ["Rock", "Blues", "Pop"]
+styles: ["New Wave", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [The The - This Is The Day (Remastered)](https://www.youtube.com/watch?v=XKukFy18nes)
 - [The The - The Twilight Hour](https://www.youtube.com/watch?v=oApuE2uJsas)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The The - Soul Mining](https://www.discogs.com/release/24818426) |
+| Release Year   | 2022 |
+| Discogs Link   | [The The - Soul Mining](https://www.discogs.com/release/24818426-The-The-Soul-Mining) |
 | Label          | Some Bizzare, Epic |
 | Format         | LP, Album, RE |
 | Catalog Number | 19658720241 |
+
+Made in the EU.  Reissued on vinyl for National Album Day. Used the 30th Anniversary boxset remaster. 
 

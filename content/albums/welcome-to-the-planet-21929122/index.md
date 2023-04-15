@@ -1,14 +1,17 @@
 ---
 title: "Big Big Train - Welcome To The Planet "
-album_artist: "Big Big Train"
-album_title: "Welcome To The Planet "
+artist: "Big Big Train"
+album_name: "Welcome To The Planet "
 date: 2022-01-29
 release_id: "21929122"
 slug: "welcome-to-the-planet-21929122"
+hideSummary: true
 cover:
     image: "welcome-to-the-planet-21929122.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Welcome To The Planet  by Big Big Train"
+    caption: "Welcome To The Planet  by Big Big Train"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 {{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}
 - [B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)](https://www.youtube.com/watch?v=xuBVD39b4cw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Big Big Train - Welcome To The Planet ](https://www.discogs.com/release/21929122) |
+| Release Year   | 2022 |
+| Discogs Link   | [Big Big Train - Welcome To The Planet ](https://www.discogs.com/release/21929122-Big-Big-Train-Welcome-To-The-Planet-) |
 | Label          | Plane Groovy |
 | Format         | LP, Album, Ltd, S/Edition, 180 |
 | Catalog Number | PLG105 |
+
+Packaged in a single jacket with 2-page color lyric insert, black LP sleeve and hype sticker affixed to the shrink wrap on the front.
 

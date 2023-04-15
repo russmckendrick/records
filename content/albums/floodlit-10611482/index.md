@@ -1,14 +1,17 @@
 ---
 title: "Pijn - Floodlit"
-album_artist: "Pijn"
-album_title: "Floodlit"
+artist: "Pijn"
+album_name: "Floodlit"
 date: 2019-01-11
 release_id: "10611482"
 slug: "floodlit-10611482"
+hideSummary: true
 cover:
     image: "floodlit-10611482.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Floodlit by Pijn"
+    caption: "Floodlit by Pijn"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -21,13 +24,16 @@ hideSummary: true
 {{< youtube id="F417DTW7O6o" title="Pijn - Dumbstruck & Floodlit Live" >}}
 - [Pijn - Floodlit (Full EP)](https://www.youtube.com/watch?v=GNzTHF8HsKY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Pijn - Floodlit](https://www.discogs.com/release/10611482) |
+| Release Year   | 2017 |
+| Discogs Link   | [Pijn - Floodlit](https://www.discogs.com/release/10611482-Pijn-Floodlit) |
 | Label          | Holy Roar Records |
 | Format         | LP, EP, Ltd, RP, Cre |
 | Catalog Number | HRR166 |
+
+Repress, Edition of 250.  Durations taken from digital files. 
 

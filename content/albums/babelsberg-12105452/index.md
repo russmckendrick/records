@@ -1,14 +1,17 @@
 ---
 title: "Gruff Rhys - Babelsberg"
-album_artist: "Gruff Rhys"
-album_title: "Babelsberg"
+artist: "Gruff Rhys"
+album_name: "Babelsberg"
 date: 2018-06-08
 release_id: "12105452"
 slug: "babelsberg-12105452"
+hideSummary: true
 cover:
     image: "babelsberg-12105452.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Babelsberg by Gruff Rhys"
+    caption: "Babelsberg by Gruff Rhys"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Gruff Rhys - Frontier Man (Official Video)](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
 - [Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video](https://www.youtube.com/watch?v=UXbdEig4apo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Gruff Rhys - Babelsberg](https://www.discogs.com/release/12105452) |
+| Release Year   | 2018 |
+| Discogs Link   | [Gruff Rhys - Babelsberg](https://www.discogs.com/release/12105452-Gruff-Rhys-Babelsberg) |
 | Label          | Rough Trade |
 | Format         | LP, Album |
 | Catalog Number | RT0010LP |
+
+Gatefold Jacket with Obi Strip Includes download card for 320k MP3s.
 

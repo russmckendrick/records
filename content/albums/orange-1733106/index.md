@@ -1,14 +1,17 @@
 ---
 title: "The Jon Spencer Blues Explosion - Orange"
-album_artist: "The Jon Spencer Blues Explosion"
-album_title: "Orange"
+artist: "The Jon Spencer Blues Explosion"
+album_name: "Orange"
 date: 2017-07-06
 release_id: "1733106"
 slug: "orange-1733106"
+hideSummary: true
 cover:
     image: "orange-1733106.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Orange by The Jon Spencer Blues Explosion"
+    caption: "Orange by The Jon Spencer Blues Explosion"
+genres: ["Rock"]
+styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Jon Spencer Blues Explosion - Flavor](https://www.youtube.com/watch?v=30agmBTJivQ)
 - [The Jon Spencer Blues Explosion - Greyhound](https://www.youtube.com/watch?v=292BRuSe47o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1994 |
-| Discogs Link   | [The Jon Spencer Blues Explosion - Orange](https://www.discogs.com/release/1733106) |
+| Release Year   | 1994 |
+| Discogs Link   | [The Jon Spencer Blues Explosion - Orange](https://www.discogs.com/release/1733106-The-Jon-Spencer-Blues-Explosion-Orange) |
 | Label          | Matador |
 | Format         | LP, Album |
 | Catalog Number | ole 105-1 |
+
+This is the black vinyl version of this LP with a metallic silver cover, some of which have a barcode sticker attached. Glossy inner sleeve has a full color picture of the band on one side and "orange" written on the other side.  Recorded and mixed at Waterworks, NYC, 1993-94. All songs c 1994 Spencer / Explosion c p 1994 Matador Records Inc Made in the USA by WEA Mfg Inner sleeve: Printed in Canada
 

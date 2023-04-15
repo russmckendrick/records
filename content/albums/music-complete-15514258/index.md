@@ -1,14 +1,17 @@
 ---
 title: "New Order - Music Complete"
-album_artist: "New Order"
-album_title: "Music Complete"
+artist: "New Order"
+album_name: "Music Complete"
 date: 2020-06-24
 release_id: "15514258"
 slug: "music-complete-15514258"
+hideSummary: true
 cover:
     image: "music-complete-15514258.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Music Complete by New Order"
+    caption: "Music Complete by New Order"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [New Order - Music Complete](https://www.discogs.com/release/15514258) |
+| Release Year   | 2020 |
+| Discogs Link   | [New Order - Music Complete](https://www.discogs.com/release/15514258-New-Order-Music-Complete) |
 | Label          | Mute, Mute |
 | Format         | 2xLP, Album, Ltd, RE, RP, Ora |
 | Catalog Number | RSTUMM390, STUMM390 |
+
+Music Complete: New Order  Limited Edition Double Orange Vinyl With 12 Page Booklet  Includes Digital Copy #loverecordstores  Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores Includes insert and download code.
 

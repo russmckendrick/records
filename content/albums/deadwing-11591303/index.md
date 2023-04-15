@@ -1,14 +1,17 @@
 ---
 title: "Porcupine Tree - Deadwing"
-album_artist: "Porcupine Tree"
-album_title: "Deadwing"
+artist: "Porcupine Tree"
+album_name: "Deadwing"
 date: 2018-02-23
 release_id: "11591303"
 slug: "deadwing-11591303"
+hideSummary: true
 cover:
     image: "deadwing-11591303.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Deadwing by Porcupine Tree"
+    caption: "Deadwing by Porcupine Tree"
+genres: ["Rock"]
+styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The Start of Something Beautiful](https://www.youtube.com/watch?v=x_O8HZpkaH0)
 - [Glass Arm Shattering](https://www.youtube.com/watch?v=HwgLkvHM6js)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Porcupine Tree - Deadwing](https://www.discogs.com/release/11591303) |
+| Release Year   | 2018 |
+| Discogs Link   | [Porcupine Tree - Deadwing](https://www.discogs.com/release/11591303-Porcupine-Tree-Deadwing) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd, RE, RM, Cle |
 | Catalog Number | KSCOPE982 |
+
+Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone. Some elements retained from demos recorded 2003-04.  Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion  Remastered  by SW November 2017  Gatefold cover with printed inner sleeves. 
 

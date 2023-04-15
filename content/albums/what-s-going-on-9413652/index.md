@@ -1,14 +1,17 @@
 ---
 title: "Marvin Gaye - What's Going On"
-album_artist: "Marvin Gaye"
-album_title: "What's Going On"
+artist: "Marvin Gaye"
+album_name: "What's Going On"
 date: 2016-11-26
 release_id: "9413652"
 slug: "what-s-going-on-9413652"
+hideSummary: true
 cover:
     image: "what-s-going-on-9413652.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "What's Going On by Marvin Gaye"
+    caption: "What's Going On by Marvin Gaye"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -56,16 +59,17 @@ hideSummary: true
 42. The Foundation
 43. What's Going On - Rhythm 'N' Strings Mix (3:50)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Marvin Gaye - What's Going On](https://www.discogs.com/release/9413652) |
+| Release Year   | 2016 |
+| Discogs Link   | [Marvin Gaye - What's Going On](https://www.discogs.com/release/9413652-Marvin-Gaye-Whats-Going-On) |
 | Label          | Tamla, Universal Music Group International |
 | Format         | LP, Album, RE, RM + LP, Album, RE, RM + 2xLP, Mono |
 | Catalog Number | 0600753703069 |
+
+Four LPs with inner picture sleeves housed in a soft card slipcase. Includes voucher to download MP3 version of the album and comes with a Japanese style obi. Half speed mastered.
 

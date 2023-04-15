@@ -1,14 +1,17 @@
 ---
 title: "Leon Bridges - Gold-Diggers Sound"
-album_artist: "Leon Bridges"
-album_title: "Gold-Diggers Sound"
+artist: "Leon Bridges"
+album_name: "Gold-Diggers Sound"
 date: 2021-07-23
 release_id: "19585627"
 slug: "gold-diggers-sound-19585627"
+hideSummary: true
 cover:
     image: "gold-diggers-sound-19585627.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Gold-Diggers Sound by Leon Bridges"
+    caption: "Gold-Diggers Sound by Leon Bridges"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Contemporary R&B"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Leon Bridges - Sweeter (Official Video) ft. Terrace Martin](https://www.youtube.com/watch?v=35AWgksymtA)
 - [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627) |
+| Release Year   | 2021 |
+| Discogs Link   | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627-Leon-Bridges-Gold-Diggers-Sound) |
 | Label          | Columbia, Columbia |
 | Format         | LP, Album |
 | Catalog Number | 19439886991, 19439886991 S1 |
+
+Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1. 
 

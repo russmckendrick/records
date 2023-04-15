@@ -1,14 +1,17 @@
 ---
 title: "Faith No More - The Real Thing"
-album_artist: "Faith No More"
-album_title: "The Real Thing"
+artist: "Faith No More"
+album_name: "The Real Thing"
 date: 2015-08-09
 release_id: "383371"
 slug: "the-real-thing-383371"
+hideSummary: true
 cover:
     image: "the-real-thing-383371.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Real Thing by Faith No More"
+    caption: "The Real Thing by Faith No More"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/383371) |
+| Release Year   | 1989 |
+| Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/383371-Faith-No-More-The-Real-Thing) |
 | Label          | London American Recordings, Slash, London Records |
 | Format         | LP, Album |
 | Catalog Number | 828 154-1 |
+
+Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.  This version is very similar to the UK version. The [UK version](http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217) does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.  Includes a printed inner sleeve with graphics, photographs and credits.  Recorded December 1988 at Studio D, Sausalito, CA. Mixed January 1989 at Blue Canyon, Studio City, CA. Mastered at K-Disc, Los Angeles, CA.  Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.  ℗ 1989 Slash Records © 1989 Slash Records 
 

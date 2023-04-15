@@ -1,14 +1,17 @@
 ---
 title: "Suede - Coming Up"
-album_artist: "Suede"
-album_title: "Coming Up"
+artist: "Suede"
+album_name: "Coming Up"
 date: 2016-07-18
 release_id: "5410320"
 slug: "coming-up-5410320"
+hideSummary: true
 cover:
     image: "coming-up-5410320.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Coming Up by Suede"
+    caption: "Coming Up by Suede"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Glam", "Britpop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Suede - Saturday Night](https://www.youtube.com/watch?v=wEWn0aVcuSM)
 - [Suede - Filmstar](https://www.youtube.com/watch?v=PX6L65xgOzY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Suede - Coming Up](https://www.discogs.com/release/5410320) |
+| Release Year   | 2014 |
+| Discogs Link   | [Suede - Coming Up](https://www.discogs.com/release/5410320-Suede-Coming-Up) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE |
 | Catalog Number | INSATIABLE 3 |
+
+180 gram vinyl. Demon Records Ltd release. Some copies have a MP3 download card. Pressing plant uncredited, identified by the matrix numbers.
 

@@ -1,14 +1,17 @@
 ---
 title: "M83 - Hurry Up, We're Dreaming."
-album_artist: "M83"
-album_title: "Hurry Up, We're Dreaming."
+artist: "M83"
+album_name: "Hurry Up, We're Dreaming."
 date: 2021-04-11
 release_id: "3187666"
 slug: "hurry-up-we-re-dreaming-3187666"
+hideSummary: true
 cover:
     image: "hurry-up-we-re-dreaming-3187666.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Hurry Up, We're Dreaming. by M83"
+    caption: "Hurry Up, We're Dreaming. by M83"
+genres: ["Electronic", "Rock"]
+styles: ["Shoegaze", "Electro", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [M83 'Reunion' Official video](https://www.youtube.com/watch?v=DJQQrjVmQG0)
 - [M83 - My Tears Are Becoming A Sea (audio)](https://www.youtube.com/watch?v=uE8EhJ9gS28)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/3187666) |
+| Release Year   | 2011 |
+| Discogs Link   | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/3187666-M83-Hurry-Up-Were-Dreaming) |
 | Label          | Naïve |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | NV824361 |
+
+P&C 2011 M83 Recording Inc., exclusively licensed to naïve.  180 g vinyl edition. Includes a coupon with a code for a free download of the album. December 2020 update: This version bought on Amazon UK does not contain a code for a free download.  Early copies sold by Rough Trade came with a bonus cd, "Midnight City Remix EP" featuring four remixes.  The song "[r=3587066]" is listed in the playlist as a separate section (on inner sleeve included, with full credits, in a section called "Interlude" between sides B and C) but it's not included physically in the release.  All songs published by Delabel Editions/Justin's Polite Music except 'Intro', 'Midnight City' and 'Reunion' published by Delabel Editions/Justin's Polite Music/Morgan Grace Music and 'Splendor' Published by Delabel Editions/Justin's Polite Music/Copyright Control. M83 Management: for DEF Limited.  Made in France P&C 2011 M83 Recording Inc. exclusively licensed to naïve. 
 

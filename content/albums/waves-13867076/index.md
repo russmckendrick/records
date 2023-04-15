@@ -1,14 +1,17 @@
 ---
 title: "AVA (28) - Waves"
-album_artist: "AVA (28)"
-album_title: "Waves"
+artist: "AVA (28)"
+album_name: "Waves"
 date: 2019-07-20
 release_id: "13867076"
 slug: "waves-13867076"
+hideSummary: true
 cover:
     image: "waves-13867076.jpg"
-tags: ["Pop", "Classical"]
-hideSummary: true
+    alt: "Waves by AVA (28)"
+    caption: "Waves by AVA (28)"
+genres: ["Pop", "Classical"]
+styles: ["Indie Pop", "Neo-Classical"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="CiBM_R_2GYc" title="AVA - Waves [Neo-Classical, Ambient, Electronic]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [AVA (28) - Waves](https://www.discogs.com/release/13867076) |
+| Release Year   | 2019 |
+| Discogs Link   | [AVA (28) - Waves](https://www.discogs.com/release/13867076-AVA-Waves) |
 | Label          | One Little Indian Records |
 | Format         | LP, Album |
 | Catalog Number | TPLP1493 |
+
+Some copies were autographed on back cover by Anna Phoebe and Aisling Browuer. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Elmore James - Dust My Broom"
-album_artist: "Elmore James"
-album_title: "Dust My Broom"
+artist: "Elmore James"
+album_name: "Dust My Broom"
 date: 2015-12-17
 release_id: "3329700"
 slug: "dust-my-broom-3329700"
+hideSummary: true
 cover:
     image: "dust-my-broom-3329700.jpg"
-tags: ["Blues"]
-hideSummary: true
+    alt: "Dust My Broom by Elmore James"
+    caption: "Dust My Broom by Elmore James"
+genres: ["Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [It Hurts Me Too](https://www.youtube.com/watch?v=iBZRgnATKSQ)
 - [Mean Mistreatin Mama](https://www.youtube.com/watch?v=K1DejYST9kk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Elmore James - Dust My Broom](https://www.discogs.com/release/3329700) |
+| Release Year   | 1984 |
+| Discogs Link   | [Elmore James - Dust My Broom](https://www.discogs.com/release/3329700-Elmore-James-Dust-My-Broom) |
 | Label          | Topline Records |
 | Format         | LP, Comp |
 | Catalog Number | TOP 120 |
+
+Licensed from Charly Records International APS ℗ 1984 Charly Holdings Inc. © 1984 Topline Records Ltd.
 

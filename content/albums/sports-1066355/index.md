@@ -1,14 +1,17 @@
 ---
 title: "Huey Lewis & The News - Sports"
-album_artist: "Huey Lewis & The News"
-album_title: "Sports"
+artist: "Huey Lewis & The News"
+album_name: "Sports"
 date: 2015-10-05
 release_id: "1066355"
 slug: "sports-1066355"
+hideSummary: true
 cover:
     image: "sports-1066355.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Sports by Huey Lewis & The News"
+    caption: "Sports by Huey Lewis & The News"
+genres: ["Rock", "Pop"]
+styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [You Crack Me Up](https://www.youtube.com/watch?v=-Z6WHizfg8U)
 - [Honky Tonk Blues](https://www.youtube.com/watch?v=ko-w5e4-mbw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [Huey Lewis & The News - Sports](https://www.discogs.com/release/1066355) |
+| Release Year   | 1983 |
+| Discogs Link   | [Huey Lewis & The News - Sports](https://www.discogs.com/release/1066355-Huey-Lewis-And-The-News-Sports) |
 | Label          | Chrysalis |
 | Format         | LP, Album |
 | Catalog Number | CHR 1412 |
+
+Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.  A2 credits Chinnichap/RAK Music. Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd.
 

@@ -1,14 +1,17 @@
 ---
 title: "Thunder (3) - The Greatest Hits"
-album_artist: "Thunder (3)"
-album_title: "The Greatest Hits"
+artist: "Thunder (3)"
+album_name: "The Greatest Hits"
 date: 2019-12-24
 release_id: "14199596"
 slug: "the-greatest-hits-14199596"
+hideSummary: true
 cover:
     image: "the-greatest-hits-14199596.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Greatest Hits by Thunder (3)"
+    caption: "The Greatest Hits by Thunder (3)"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 {{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}
 - [Thunder - Everybody Wants Her (Official Video)](https://www.youtube.com/watch?v=rrISpBSWN30)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Thunder (3) - The Greatest Hits](https://www.discogs.com/release/14199596) |
+| Release Year   | 2019 |
+| Discogs Link   | [Thunder (3) - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |
 | Label          | BMG |
 | Format         | 3xLP, Comp, Ltd |
 | Catalog Number | BMGCAT386TLP |
+
+ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music.
 

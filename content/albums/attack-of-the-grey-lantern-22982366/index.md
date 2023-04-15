@@ -1,14 +1,17 @@
 ---
 title: "Mansun - Attack Of The Grey Lantern "
-album_artist: "Mansun"
-album_title: "Attack Of The Grey Lantern "
+artist: "Mansun"
+album_name: "Attack Of The Grey Lantern "
 date: 2022-04-24
 release_id: "22982366"
 slug: "attack-of-the-grey-lantern-22982366"
+hideSummary: true
 cover:
     image: "attack-of-the-grey-lantern-22982366.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Attack Of The Grey Lantern  by Mansun"
+    caption: "Attack Of The Grey Lantern  by Mansun"
+genres: ["Rock"]
+styles: ["Britpop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
 - [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Mansun - Attack Of The Grey Lantern ](https://www.discogs.com/release/22982366) |
+| Release Year   | 2022 |
+| Discogs Link   | [Mansun - Attack Of The Grey Lantern ](https://www.discogs.com/release/22982366-Mansun-Attack-Of-The-Grey-Lantern-) |
 | Label          | Kscope |
 | Format         | LP, Ltd, Pic |
 | Catalog Number | KSCOPE1142 |
+
+RSD2022 Release
 

@@ -1,14 +1,17 @@
 ---
 title: "John Parr - John Parr"
-album_artist: "John Parr"
-album_title: "John Parr"
+artist: "John Parr"
+album_name: "John Parr"
 date: 2016-01-07
 release_id: "1152756"
 slug: "john-parr-1152756"
+hideSummary: true
 cover:
     image: "john-parr-1152756.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "John Parr by John Parr"
+    caption: "John Parr by John Parr"
+genres: ["Rock"]
+styles: ["Hard Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [John Parr - Don't leave your mark on me [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=rqJDv_8gqHE)
 - [John Parr - St. Elmo's fire (Man in motion) [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Mwu-aSW8NLQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [John Parr - John Parr](https://www.discogs.com/release/1152756) |
+| Release Year   | 1985 |
+| Discogs Link   | [John Parr - John Parr](https://www.discogs.com/release/1152756-John-Parr-John-Parr) |
 | Label          | London Records, London Records |
 | Format         | LP, Album |
 | Catalog Number | LONLP 12, 824 491-1 |
+
+(p) 1984 Phonogram International B.V., Baarn/The Netherlands. (c) 1984 Atlantic Recording Corporation U.S.A. B1 (p) 1985 Columbia Pictues Industries Inc.  Similar release exists with a different barcode - see [r8535738]. 
 

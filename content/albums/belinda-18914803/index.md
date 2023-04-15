@@ -1,14 +1,17 @@
 ---
 title: "Belinda Carlisle - Belinda"
-album_artist: "Belinda Carlisle"
-album_title: "Belinda"
+artist: "Belinda Carlisle"
+album_name: "Belinda"
 date: 2022-01-09
 release_id: "18914803"
 slug: "belinda-18914803"
+hideSummary: true
 cover:
     image: "belinda-18914803.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Belinda by Belinda Carlisle"
+    caption: "Belinda by Belinda Carlisle"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Belinda Carlisle - Head Over Heels (Live at the Roxy '86)](https://www.youtube.com/watch?v=jchMy3mUBao)
 - [Belinda Carlisle - I Feel The Magic (Live at the Roxy '86)](https://www.youtube.com/watch?v=resczd51Q30)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Belinda Carlisle - Belinda](https://www.discogs.com/release/18914803) |
+| Release Year   | 2021 |
+| Discogs Link   | [Belinda Carlisle - Belinda](https://www.discogs.com/release/18914803-Belinda-Carlisle-Belinda) |
 | Label          | Demon Records, Demon Records |
 | Format         | Dlx, Ltd, 35t + LP, Album, Pin + LP, Pin |
 | Catalog Number | DEMREC900X, DEMREC900 |
+
+Sticker on shrinkwrap states:  "Belinda DELUXE 2LP 35TH ANNIVERSARY EDITION From 1986, Belinda's debut solo album Features the hit singles "Mad About You" and "I Feel The Magic" Bonus LP includes mixes of  "Band Of Gold recorded with Freda Payne plus five live recordings Includes the lyrics and annotation Pressed on 180 gram pink vinyl First time on vinyl since 1986 DEMREC900X"    ℗ & © 2021 Capitol Records LLC Manufactured in the EU  
 

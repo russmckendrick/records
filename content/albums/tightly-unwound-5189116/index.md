@@ -1,14 +1,17 @@
 ---
 title: "The Pineapple Thief - Tightly Unwound"
-album_artist: "The Pineapple Thief"
-album_title: "Tightly Unwound"
+artist: "The Pineapple Thief"
+album_name: "Tightly Unwound"
 date: 2016-02-21
 release_id: "5189116"
 slug: "tightly-unwound-5189116"
+hideSummary: true
 cover:
     image: "tightly-unwound-5189116.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tightly Unwound by The Pineapple Thief"
+    caption: "Tightly Unwound by The Pineapple Thief"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Tightly Wound](https://www.youtube.com/watch?v=qlfgcaXRZ7U)
 - [The Pineapple Thief - Too Much to Lose (from Tightly Unwound)](https://www.youtube.com/watch?v=MdaxryzsjjA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [The Pineapple Thief - Tightly Unwound](https://www.discogs.com/release/5189116) |
+| Release Year   | 2013 |
+| Discogs Link   | [The Pineapple Thief - Tightly Unwound](https://www.discogs.com/release/5189116-The-Pineapple-Thief-Tightly-Unwound) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ora |
 | Catalog Number | KSCOPE852 |
+
+A double vinyl edition of the first ever album released on Kscope.   Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package.   Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl. Remastered and Remixed Made in Germany 
 

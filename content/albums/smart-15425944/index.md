@@ -1,14 +1,17 @@
 ---
 title: "Sleeper (2) - Smart"
-album_artist: "Sleeper (2)"
-album_title: "Smart"
+artist: "Sleeper (2)"
+album_name: "Smart"
 date: 2020-06-08
 release_id: "15425944"
 slug: "smart-15425944"
+hideSummary: true
 cover:
     image: "smart-15425944.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Smart by Sleeper (2)"
+    caption: "Smart by Sleeper (2)"
+genres: ["Rock"]
+styles: ["Britpop"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [Sleeper - Alice In Vain](https://www.youtube.com/watch?v=WG8qcxSDl_w)
 - [Sleeper - 08 Vegas (Album Version)](https://www.youtube.com/watch?v=FUwHro_1sY4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Sleeper (2) - Smart](https://www.discogs.com/release/15425944) |
+| Release Year   | 2020 |
+| Discogs Link   | [Sleeper (2) - Smart](https://www.discogs.com/release/15425944-Sleeper-Smart) |
 | Label          | Gorsky Records |
 | Format         | LP, Album, RE + LP, Comp + Ltd, Cle |
 | Catalog Number | SLEEP25LPC |
+
+25th Anniversary Edition. Includes 14 page colour booklet Made in the EU 
 

@@ -1,14 +1,17 @@
 ---
 title: "Turin Brakes - The Optimist LP"
-album_artist: "Turin Brakes"
-album_title: "The Optimist LP"
+artist: "Turin Brakes"
+album_name: "The Optimist LP"
 date: 2021-07-14
 release_id: "19480285"
 slug: "the-optimist-lp-19480285"
+hideSummary: true
 cover:
     image: "the-optimist-lp-19480285.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Optimist LP by Turin Brakes"
+    caption: "The Optimist LP by Turin Brakes"
+genres: ["Rock"]
+styles: ["Folk Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Turin Brakes-Feeling Oblivion with lyrics](https://www.youtube.com/watch?v=bDYibOjyQrk)
 - [Emergency 72](https://www.youtube.com/watch?v=_Qr9S7LT39Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Turin Brakes - The Optimist LP](https://www.discogs.com/release/19480285) |
+| Release Year   | 2021 |
+| Discogs Link   | [Turin Brakes - The Optimist LP](https://www.discogs.com/release/19480285-Turin-Brakes-The-Optimist-LP) |
 | Label          | Two Piers Records, Two Piers Records |
 | Format         | 2xLP, Album, Ltd, RE, Amb |
 | Catalog Number | BN1LPX, BN1LP |
+
+Back in print with refreshed artwork and bonus demos. 20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"  On sleeve: BN1LP On hype sticker: BN1LPX
 

@@ -1,14 +1,17 @@
 ---
 title: "Split Enz - See Ya 'Round"
-album_artist: "Split Enz"
-album_title: "See Ya 'Round"
+artist: "Split Enz"
+album_name: "See Ya 'Round"
 date: 2018-10-03
 release_id: "2199532"
 slug: "see-ya-round-2199532"
+hideSummary: true
 cover:
     image: "see-ya-round-2199532.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "See Ya 'Round by Split Enz"
+    caption: "See Ya 'Round by Split Enz"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Split Enz Years Go By Live '84](https://www.youtube.com/watch?v=QfCWjNrzxg4)
 - [Split Enz Kia Kaha: 1984](https://www.youtube.com/watch?v=BUmC6bYu6Yk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Split Enz - See Ya 'Round](https://www.discogs.com/release/2199532) |
+| Release Year   | 1984 |
+| Discogs Link   | [Split Enz - See Ya 'Round](https://www.discogs.com/release/2199532-Split-Enz-See-Ya-Round) |
 | Label          | Mushroom, Enz Records |
 | Format         | LP, Album |
 | Catalog Number | RML 52050 |
+
+Recorded at A.A.V. Studios, Melbourne.  ℗ 1984 Mushroom Records Pty. Ltd. Australia. Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization. Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z. Distributed by Festival Records Retail Marketing © 1984 Mushroom Records Pty. Ltd. Australia  NZ pressing
 

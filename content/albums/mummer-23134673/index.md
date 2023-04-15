@@ -1,14 +1,17 @@
 ---
 title: "XTC - Mummer"
-album_artist: "XTC"
-album_title: "Mummer"
+artist: "XTC"
+album_name: "Mummer"
 date: 2022-05-06
 release_id: "23134673"
 slug: "mummer-23134673"
+hideSummary: true
 cover:
     image: "mummer-23134673.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Mummer by XTC"
+    caption: "Mummer by XTC"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [XTC - Funk Pop A Roll](https://www.youtube.com/watch?v=JnvO6lrZSxo)
 - [XTC - Beating of Hearts](https://www.youtube.com/watch?v=-dXQBVvBtO8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [XTC - Mummer](https://www.discogs.com/release/23134673) |
+| Release Year   | 2022 |
+| Discogs Link   | [XTC - Mummer](https://www.discogs.com/release/23134673-XTC-Mummer) |
 | Label          | Ape House |
 | Format         | LP, Album, RE, 200 |
 | Catalog Number | APELP106 |
+
+The album has been mastered with input from Andy Partridge.  Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'    
 

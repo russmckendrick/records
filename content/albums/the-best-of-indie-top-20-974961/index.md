@@ -1,14 +1,17 @@
 ---
 title: "Various - The Best Of Indie Top 20"
-album_artist: "Various"
-album_title: "The Best Of Indie Top 20"
+artist: "Various"
+album_name: "The Best Of Indie Top 20"
 date: 2019-04-26
 release_id: "974961"
 slug: "the-best-of-indie-top-20-974961"
+hideSummary: true
 cover:
     image: "the-best-of-indie-top-20-974961.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Best Of Indie Top 20 by Various"
+    caption: "The Best Of Indie Top 20 by Various"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
 - [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Various - The Best Of Indie Top 20](https://www.discogs.com/release/974961) |
+| Release Year   | 1991 |
+| Discogs Link   | [Various - The Best Of Indie Top 20](https://www.discogs.com/release/974961-Various-The-Best-Of-Indie-Top-20) |
 | Label          | Beechwood Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | BOTT 001 |
+
+
 

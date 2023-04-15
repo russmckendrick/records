@@ -1,14 +1,17 @@
 ---
 title: "The James Hunter Six - Nick Of Time"
-album_artist: "The James Hunter Six"
-album_title: "Nick Of Time"
+artist: "The James Hunter Six"
+album_name: "Nick Of Time"
 date: 2020-03-13
 release_id: "14888270"
 slug: "nick-of-time-14888270"
+hideSummary: true
 cover:
     image: "nick-of-time-14888270.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Nick Of Time by The James Hunter Six"
+    caption: "Nick Of Time by The James Hunter Six"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Paradise for One](https://www.youtube.com/watch?v=gFIm8_lPJpw)
 - [He's Your Could've Been](https://www.youtube.com/watch?v=BWIl0SWwCbs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The James Hunter Six - Nick Of Time](https://www.discogs.com/release/14888270) |
+| Release Year   | 2020 |
+| Discogs Link   | [The James Hunter Six - Nick Of Time](https://www.discogs.com/release/14888270-The-James-Hunter-Six-Nick-Of-Time) |
 | Label          | Daptone Records |
 | Format         | LP, Album, Mono |
 | Catalog Number | DAP-061 |
+
+In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  ℗ 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card
 

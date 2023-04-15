@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - 1972"
-album_artist: "The Black Crowes"
-album_title: "1972"
+artist: "The Black Crowes"
+album_name: "1972"
 date: 2022-11-04
 release_id: "23147510"
 slug: "1972-23147510"
+hideSummary: true
 cover:
     image: "1972-23147510.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "1972 by The Black Crowes"
+    caption: "1972 by The Black Crowes"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Black Crowes - Papa Was A Rolling Stone](https://www.youtube.com/watch?v=frN4RjtwV0Y)
 - [Black Crowes - Moonage Daydream](https://www.youtube.com/watch?v=lKu1T6ccwFI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Black Crowes - 1972](https://www.discogs.com/release/23147510) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Black Crowes - 1972](https://www.discogs.com/release/23147510-The-Black-Crowes-1972) |
 | Label          | Silver Arrow |
 | Format         | LP |
 | Catalog Number | SAR26LP |
+
+Recorded at Sunset Sound, Hollywood, California  Inner sleeve contains credits and photograph  ℗&© 2022 Silver Arrow Records  Made in the Czech Republic  U.K. release date: 22nd October 2022  The runout strings are stamped
 

@@ -1,14 +1,17 @@
 ---
 title: "Tim Bowness - Late Night Laments"
-album_artist: "Tim Bowness"
-album_title: "Late Night Laments"
+artist: "Tim Bowness"
+album_name: "Late Night Laments"
 date: 2020-08-31
 release_id: "15842720"
 slug: "late-night-laments-15842720"
+hideSummary: true
 cover:
     image: "late-night-laments-15842720.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Late Night Laments by Tim Bowness"
+    caption: "Late Night Laments by Tim Bowness"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Ambient"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
 - [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tim Bowness - Late Night Laments](https://www.discogs.com/release/15842720) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tim Bowness - Late Night Laments](https://www.discogs.com/release/15842720-Tim-Bowness-Late-Night-Laments) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Album, Blu + CD, Album + Ltd |
 | Catalog Number | IOMLP 558, 19439783221 |
+
+Comes with signed art print and is limited to 600 copies.
 

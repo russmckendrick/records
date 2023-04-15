@@ -1,14 +1,17 @@
 ---
 title: "U2 - U218 Singles"
-album_artist: "U2"
-album_title: "U218 Singles"
+artist: "U2"
+album_name: "U218 Singles"
 date: 2017-01-13
 release_id: "1268163"
 slug: "u218-singles-1268163"
+hideSummary: true
 cover:
     image: "u218-singles-1268163.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "U218 Singles by U2"
+    caption: "U218 Singles by U2"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -31,16 +34,17 @@ hideSummary: true
 17. The Saints Are Coming (3:21)
 18. Window In The Skies (4:08)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2006 |
-| Discogs Link   | [U2 - U218 Singles](https://www.discogs.com/release/1268163) |
+| Release Year   | 2006 |
+| Discogs Link   | [U2 - U218 Singles](https://www.discogs.com/release/1268163-U2-U218-Singles) |
 | Label          | Island Records, Mercury Music Group |
 | Format         | 2xLP, Comp |
 | Catalog Number | U218 - 0602517135505 |
+
+Comes with a 16-page album-size booklet, containing information about singles including lyrics, credits, recording data, release dates and chart positions.  Matte gatefold sleeve. Printed inner sleeves.  Audio Post Production at Partial Productions Inc. Mastered at Bernie Grundman Mastering, Hollywood.  Green Day appear courtesy of Reprise Records.  All titles published by Universal Music Publishing B.V. except Blue Mountain Music Ltd (UK), Mother Music (Irl.), except "The Saints Are Coming" published by EMI Virgin Music Ltd.  This compilation ℗ 2006 Universal Island Records Limited under exclusive licence to Mercury Records Limited in the UK. © 2006 Universal Island Records Limited under exclusive licence to  Mercury Records Limited in the UK. A Universal Music Company. Made in the EU. 
 

@@ -1,14 +1,17 @@
 ---
 title: "Various - Country Music A Film By Ken Burns The Soundtrack"
-album_artist: "Various"
-album_title: "Country Music A Film By Ken Burns The Soundtrack"
+artist: "Various"
+album_name: "Country Music A Film By Ken Burns The Soundtrack"
 date: 2019-09-13
 release_id: "14124491"
 slug: "country-music-a-film-by-ken-burns-the-soundtrack-14124491"
+hideSummary: true
 cover:
     image: "country-music-a-film-by-ken-burns-the-soundtrack-14124491.jpg"
-tags: ["Rock", "Folk, World, & Country", "Stage & Screen"]
-hideSummary: true
+    alt: "Country Music A Film By Ken Burns The Soundtrack by Various"
+    caption: "Country Music A Film By Ken Burns The Soundtrack by Various"
+genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
+styles: ["Soundtrack", "Country", "Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 {{< youtube id="XnFcRAuFFyI" title="Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time" >}}
 - [Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s](https://www.youtube.com/watch?v=_o_FqMZ8OKA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Country Music A Film By Ken Burns The Soundtrack](https://www.discogs.com/release/14124491) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Country Music A Film By Ken Burns The Soundtrack](https://www.discogs.com/release/14124491-Various-Country-Music-A-Film-By-Ken-Burns-The-Soundtrack) |
 | Label          | Legacy |
 | Format         | 2xLP, Comp |
 | Catalog Number | 19075960431 |
+
+Superb soundtrack to accompany the documentary being aired on BBC4 in November, chronicling the history of Country music
 

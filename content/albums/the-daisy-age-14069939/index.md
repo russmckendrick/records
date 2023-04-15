@@ -1,14 +1,17 @@
 ---
 title: "Various - The Daisy Age"
-album_artist: "Various"
-album_title: "The Daisy Age"
+artist: "Various"
+album_name: "The Daisy Age"
 date: 2019-08-31
 release_id: "14069939"
 slug: "the-daisy-age-14069939"
+hideSummary: true
 cover:
     image: "the-daisy-age-14069939.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "The Daisy Age by Various"
+    caption: "The Daisy Age by Various"
+genres: ["Hip Hop"]
+styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [Da Bush Babees - We Run Things (It's Like Dat)](https://www.youtube.com/watch?v=K9kNi55evZg)
 - [Shaquille O'Neal - What's Up Doc? (Can We Rock) ft. Fu-Schnickens](https://www.youtube.com/watch?v=1f9IgOjZjn4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - The Daisy Age](https://www.discogs.com/release/14069939) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - The Daisy Age](https://www.discogs.com/release/14069939-Various-The-Daisy-Age) |
 | Label          | Ace |
 | Format         | 2xLP, Comp, Ltd, Yel |
 | Catalog Number | XXQLP2062C |
+
+Limited to 1,000 copies.
 

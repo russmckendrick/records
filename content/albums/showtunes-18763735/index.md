@@ -1,14 +1,17 @@
 ---
 title: "Lambchop - Showtunes"
-album_artist: "Lambchop"
-album_title: "Showtunes"
+artist: "Lambchop"
+album_name: "Showtunes"
 date: 2021-05-25
 release_id: "18763735"
 slug: "showtunes-18763735"
+hideSummary: true
 cover:
     image: "showtunes-18763735.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Showtunes by Lambchop"
+    caption: "Showtunes by Lambchop"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Impossible Meatballs](https://www.youtube.com/watch?v=5dPL5qsoHXA)
 - [Lambchop - The Last Benedict (Official Video)](https://www.youtube.com/watch?v=GQIFEjqnqCQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Lambchop - Showtunes](https://www.discogs.com/release/18763735) |
+| Release Year   | 2021 |
+| Discogs Link   | [Lambchop - Showtunes](https://www.discogs.com/release/18763735-Lambchop-Showtunes) |
 | Label          | City Slang |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | SLANG50362LP |
+
+℗ & © 2021 City Slang. Produced and mixed at Battle Tapes, Nashville TN 2019-2020 Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken. Songs published by Pathetic Hindsight Music admin by Schubert Music  Issued with download code card. ONLINE SHOP EXCLUSIVE from the label, City Slang: Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)  
 

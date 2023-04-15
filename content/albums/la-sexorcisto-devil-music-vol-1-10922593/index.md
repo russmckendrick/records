@@ -1,14 +1,17 @@
 ---
 title: "White Zombie - La Sexorcisto: Devil Music Vol. 1"
-album_artist: "White Zombie"
-album_title: "La Sexorcisto: Devil Music Vol. 1"
+artist: "White Zombie"
+album_name: "La Sexorcisto: Devil Music Vol. 1"
 date: 2017-10-13
 release_id: "10922593"
 slug: "la-sexorcisto-devil-music-vol-1-10922593"
+hideSummary: true
 cover:
     image: "la-sexorcisto-devil-music-vol-1-10922593.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "La Sexorcisto: Devil Music Vol. 1 by White Zombie"
+    caption: "La Sexorcisto: Devil Music Vol. 1 by White Zombie"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Groove Metal"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Starface](https://www.youtube.com/watch?v=mGHQ6_-jK_A)
 - [Warp Asylum](https://www.youtube.com/watch?v=8Ni6q-qHn04)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [White Zombie - La Sexorcisto: Devil Music Vol. 1](https://www.discogs.com/release/10922593) |
+| Release Year   | 2017 |
+| Discogs Link   | [White Zombie - La Sexorcisto: Devil Music Vol. 1](https://www.discogs.com/release/10922593-White-Zombie-La-Sexorcisto-Devil-Music-Vol-1) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Pur |
 | Catalog Number | MOVLP534 |
+
+Limited to 2000 machine-numbered copies.
 

@@ -1,14 +1,17 @@
 ---
 title: "Jean-Michel Jarre - Oxygene Trilogy"
-album_artist: "Jean-Michel Jarre"
-album_title: "Oxygene Trilogy"
+artist: "Jean-Michel Jarre"
+album_name: "Oxygene Trilogy"
 date: 2017-07-17
 release_id: "9520607"
 slug: "oxygene-trilogy-9520607"
+hideSummary: true
 cover:
     image: "oxygene-trilogy-9520607.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Oxygene Trilogy by Jean-Michel Jarre"
+    caption: "Oxygene Trilogy by Jean-Michel Jarre"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Jean-Michel Jarre - Oxygene 3 (Album 2016)](https://www.youtube.com/watch?v=ts6vS98ijSM)
 - [Jean Michel Jarre - Oxygene 7-13](https://www.youtube.com/watch?v=EdinGo6GAPo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Jean-Michel Jarre - Oxygene Trilogy](https://www.discogs.com/release/9520607) |
+| Release Year   | 2016 |
+| Discogs Link   | [Jean-Michel Jarre - Oxygene Trilogy](https://www.discogs.com/release/9520607-Jean-Michel-Jarre-Oxygene-Trilogy) |
 | Label          | Sony Music, Columbia |
 | Format         | Box, Comp, Dlx, Ltd, 40t + CD, Album, RE + CD, Alb |
 | Catalog Number | 88985361872 |
+
+Limited edition including a 12"x12" lithograph signed by Jean-Michel Jarre – available for a limited period of time exclusively on his web shop.  Made in the EU. Includes coffee table book. Track times not listed for any media.  Those for the CDs taken from a CD player.
 

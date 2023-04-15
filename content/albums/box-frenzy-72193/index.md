@@ -1,14 +1,17 @@
 ---
 title: "Pop Will Eat Itself - Box Frenzy"
-album_artist: "Pop Will Eat Itself"
-album_title: "Box Frenzy"
+artist: "Pop Will Eat Itself"
+album_name: "Box Frenzy"
 date: 2018-02-15
 release_id: "72193"
 slug: "box-frenzy-72193"
+hideSummary: true
 cover:
     image: "box-frenzy-72193.jpg"
-tags: ["Electronic", "Hip Hop", "Rock"]
-hideSummary: true
+    alt: "Box Frenzy by Pop Will Eat Itself"
+    caption: "Box Frenzy by Pop Will Eat Itself"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["House", "Hip Hop", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Pop Will Eat Itself ~ Razorblade Kisses](https://www.youtube.com/watch?v=78hI6JDfJVw)
 - [Pop Will Eat Itself ~ Evelyn](https://www.youtube.com/watch?v=8rw9hgPMkEY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Pop Will Eat Itself - Box Frenzy](https://www.discogs.com/release/72193) |
+| Release Year   | 1987 |
+| Discogs Link   | [Pop Will Eat Itself - Box Frenzy](https://www.discogs.com/release/72193-Pop-Will-Eat-Itself-Box-Frenzy) |
 | Label          | Chapter 22 |
 | Format         | LP, Album |
 | Catalog Number | CHAP LP 18 |
+
+Produced at Fon Studios, Sheffield.  Includes printed inner sleeve with lyrics and credits on one side. The other side features an adaptation of an advert (taken from a comic) titled 'The Insult That Made A Man Out Of 'Mac''. A-side identified as Front Side, B-side as Back Side (sleeve and labels).  ℗ 1987 Chapter 22 Records © 1987 Chapter 22 Records  Made in England  Mastered at The Townhouse. Pressed at MPO Averton.  Distributed in the UK by Nine Mile/Cartel 
 

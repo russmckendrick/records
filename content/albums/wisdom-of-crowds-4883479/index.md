@@ -1,14 +1,17 @@
 ---
 title: "Bruce Soord With Jonas Renkse - Wisdom Of Crowds - Wisdom Of Crowds"
-album_artist: "Bruce Soord With Jonas Renkse - Wisdom Of Crowds"
-album_title: "Wisdom Of Crowds"
+artist: "Bruce Soord With Jonas Renkse - Wisdom Of Crowds"
+album_name: "Wisdom Of Crowds"
 date: 2016-12-13
 release_id: "4883479"
 slug: "wisdom-of-crowds-4883479"
+hideSummary: true
 cover:
     image: "wisdom-of-crowds-4883479.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Wisdom Of Crowds by Bruce Soord With Jonas Renkse - Wisdom Of Crowds"
+    caption: "Wisdom Of Crowds by Bruce Soord With Jonas Renkse - Wisdom Of Crowds"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 - [Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)](https://www.youtube.com/watch?v=P66D8U7xxh8)
 - [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Bruce Soord With Jonas Renkse - Wisdom Of Crowds - Wisdom Of Crowds](https://www.discogs.com/release/4883479) |
+| Release Year   | 2013 |
+| Discogs Link   | [Bruce Soord With Jonas Renkse - Wisdom Of Crowds - Wisdom Of Crowds](https://www.discogs.com/release/4883479-Bruce-Soord-With-Jonas-Renkse-Wisdom-Of-Crowds-Wisdom-Of-Crowds) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, Ltd,  Re |
 | Catalog Number | KSCOPE844 |
+
+Mastered at 360 Mastering, London.  ℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.  Made in Germany.  Limited edition red vinyl in special mirrored foil gatefold covers.
 

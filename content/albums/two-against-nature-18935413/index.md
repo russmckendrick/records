@@ -1,14 +1,17 @@
 ---
 title: "Steely Dan - Two Against Nature"
-album_artist: "Steely Dan"
-album_title: "Two Against Nature"
+artist: "Steely Dan"
+album_name: "Two Against Nature"
 date: 2021-06-12
 release_id: "18935413"
 slug: "two-against-nature-18935413"
+hideSummary: true
 cover:
     image: "two-against-nature-18935413.jpg"
-tags: ["Jazz", "Rock", "Pop"]
-hideSummary: true
+    alt: "Two Against Nature by Steely Dan"
+    caption: "Two Against Nature by Steely Dan"
+genres: ["Jazz", "Rock", "Pop"]
+styles: ["Pop Rock", "Fusion"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Negative Girl](https://www.youtube.com/watch?v=N01RFpaez84)
 - [West of Hollywood](https://www.youtube.com/watch?v=7ES0OdVB8Yo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Steely Dan - Two Against Nature](https://www.discogs.com/release/18935413) |
+| Release Year   | 2021 |
+| Discogs Link   | [Steely Dan - Two Against Nature](https://www.discogs.com/release/18935413-Steely-Dan-Two-Against-Nature) |
 | Label          | Giant Records, Giant Records |
 | Format         | Album, RSD, Ltd, RE, 180 + LP + LP, S/Sided, Etch |
 | Catalog Number | R1 24719, 603497849093 |
+
+Record Store Day 2021 exclusive release, part of the June 12th drops. Limited to 5,000 copies in the United States, 10,000 worldwide.  Album contains insert with lyrics and credits. LPs in generic black poly-lined inner sleeves.  The credits for track C2 Negative Girl are incorrectly listed on release (duplicated from track A3 Two Against Nature); correct track C2 credits are entered in tracklist.  Hype sticker affixed to shrink, with both catalog numbers: 4X Grammy® Award Winner including Album Of The Year First Time On Vinyl 2 LPs • 180-Gram  Sticker affixed directly to jacket: Made in Germany  ℗ & © 2000 Giant Records, a Warner Music Group Company. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company. Made in Germany.  Runouts are etched, mastering stamped.
 

@@ -1,14 +1,17 @@
 ---
 title: "Depeche Mode - Sounds Of The Universe"
-album_artist: "Depeche Mode"
-album_title: "Sounds Of The Universe"
+artist: "Depeche Mode"
+album_name: "Sounds Of The Universe"
 date: 2017-02-23
 release_id: "9815681"
 slug: "sounds-of-the-universe-9815681"
+hideSummary: true
 cover:
     image: "sounds-of-the-universe-9815681.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Sounds Of The Universe by Depeche Mode"
+    caption: "Sounds Of The Universe by Depeche Mode"
+genres: ["Electronic", "Rock"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -72,13 +75,16 @@ hideSummary: true
 - [In Chains (Demo Version)](https://www.youtube.com/watch?v=efPGe72kPqM)
 - [Depeche Mode - Sounds Of The Universe Box Set Trailer](https://www.youtube.com/watch?v=VuJ2ibqDw2I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Depeche Mode - Sounds Of The Universe](https://www.discogs.com/release/9815681) |
+| Release Year   | 2017 |
+| Discogs Link   | [Depeche Mode - Sounds Of The Universe](https://www.discogs.com/release/9815681-Depeche-Mode-Sounds-Of-The-Universe) |
 | Label          | Sony Music, Mute |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | 88985337031 |
+
+℗ 2009 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2009, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh , Germany.  / LC 05834 88985337031  Gatefold sleeve. 180 gram.
 

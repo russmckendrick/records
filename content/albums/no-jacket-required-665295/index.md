@@ -1,14 +1,17 @@
 ---
 title: "Phil Collins - No Jacket Required"
-album_artist: "Phil Collins"
-album_title: "No Jacket Required"
+artist: "Phil Collins"
+album_name: "No Jacket Required"
 date: 2016-01-11
 release_id: "665295"
 slug: "no-jacket-required-665295"
+hideSummary: true
 cover:
     image: "no-jacket-required-665295.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "No Jacket Required by Phil Collins"
+    caption: "No Jacket Required by Phil Collins"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Take Me Home (2016 Remastered)](https://www.youtube.com/watch?v=YO1l2itfSs4)
 - [Phil Collins - Sussudio (Remastered Video) (1985)](https://www.youtube.com/watch?v=icv0qn8qYPg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Phil Collins - No Jacket Required](https://www.discogs.com/release/665295) |
+| Release Year   | 1985 |
+| Discogs Link   | [Phil Collins - No Jacket Required](https://www.discogs.com/release/665295-Phil-Collins-No-Jacket-Required) |
 | Label          | Virgin |
 | Format         | LP, Album, Bla |
 | Catalog Number | V 2345 |
+
+Recorded at the Townhouse, London and Old Croft, Surrey except strings, recorded at Air Studios, engineered by John Jacobs Mixed at the Townhouse Digitally  Manufactured in the U.K  ℗ & © 1985 Virgin Records Ltd. - Different to: [r=3727910] - has black labels, cut at [l=The Town House]. [r=6165566] - has black labels with white print. [r=4673198] - has orange labels with black print. [r=6601740] - has a barcode.  
 

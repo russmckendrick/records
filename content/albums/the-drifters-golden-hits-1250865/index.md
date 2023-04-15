@@ -1,14 +1,17 @@
 ---
 title: "The Drifters - The Drifters' Golden Hits"
-album_artist: "The Drifters"
-album_title: "The Drifters' Golden Hits"
+artist: "The Drifters"
+album_name: "The Drifters' Golden Hits"
 date: 2020-08-02
 release_id: "1250865"
 slug: "the-drifters-golden-hits-1250865"
+hideSummary: true
 cover:
     image: "the-drifters-golden-hits-1250865.jpg"
-tags: ["Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "The Drifters' Golden Hits by The Drifters"
+    caption: "The Drifters' Golden Hits by The Drifters"
+genres: ["Rock", "Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The Drifters - I've Got Sand In My Shoes - Stereo LP - HQ](https://www.youtube.com/watch?v=dWoC8puTaoM)
 - [The Drifters - On Broadway - Stereo LP - HQ](https://www.youtube.com/watch?v=KUMvG0yNPtY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [The Drifters - The Drifters' Golden Hits](https://www.discogs.com/release/1250865) |
+| Release Year   | 0 |
+| Discogs Link   | [The Drifters - The Drifters' Golden Hits](https://www.discogs.com/release/1250865-The-Drifters-The-Drifters-Golden-Hits) |
 | Label          | Atlantic |
 | Format         | LP, Comp, RE |
 | Catalog Number | K 40018 |
+
+An Atlantic Record, distributed by WEA Records Ltd.
 

@@ -1,14 +1,17 @@
 ---
 title: "Led Zeppelin - Presence"
-album_artist: "Led Zeppelin"
-album_title: "Presence"
+artist: "Led Zeppelin"
+album_name: "Presence"
 date: 2017-02-26
 release_id: "7303488"
 slug: "presence-7303488"
+hideSummary: true
 cover:
     image: "presence-7303488.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Presence by Led Zeppelin"
+    caption: "Presence by Led Zeppelin"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Led Zeppelin - Presence {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=tVADdyDFLXY)
 - [Achilles Last Stand (Remaster)](https://www.youtube.com/watch?v=1t4KLOm7pO0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Led Zeppelin - Presence](https://www.discogs.com/release/7303488) |
+| Release Year   | 2015 |
+| Discogs Link   | [Led Zeppelin - Presence](https://www.discogs.com/release/7303488-Led-Zeppelin-Presence) |
 | Label          | Swan Song |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 8122796579 |
+
+Housed in a gatefold jacket and issued in a white poly lined inner sleeve. The jacket has the following embossed details: LED ZEPPELIN PRESENCE at the top right corner on the front, and the Swan Song angel at the bottom left corner on the rear. Includes a large format insert which is identical on both sides.  Runouts are etched. Runout side A, variant 2: string '2X' is inverted Runout side B, variant 2: string '41T' is inverted Runout side A, variant 3: string '21V' is inverted Runout side B, variant 3: string 'V9' is inverted  [Sticker on shrink wrap:] The classic 1976 album on 180G vinyl Includes Achilles Last Stand & Nobody's Fault But Mine Remastered & Produced by Jimmy Page  [Rear sleeve:] Swan Song Inc. ℗ & © 1976 Atlantic Recording Corporation, a Warner Music Group Company. [...] Printed in the EU. "The Object" © 1976 Swan Song Inc.  [Insert:] Recorded and mixed at Musicland Studios Munich West Germany
 

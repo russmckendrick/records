@@ -1,14 +1,17 @@
 ---
 title: "Peter Gabriel - Up"
-album_artist: "Peter Gabriel"
-album_title: "Up"
+artist: "Peter Gabriel"
+album_name: "Up"
 date: 2016-12-08
 release_id: "9473463"
 slug: "up-9473463"
+hideSummary: true
 cover:
     image: "up-9473463.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Up by Peter Gabriel"
+    caption: "Up by Peter Gabriel"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Peter Gabriel ~ Darkness](https://www.youtube.com/watch?v=G6jS-Y6yF8w)
 - [Peter Gabriel Growing up](https://www.youtube.com/watch?v=Ts78Gg6RRHc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Peter Gabriel - Up](https://www.discogs.com/release/9473463) |
+| Release Year   | 2016 |
+| Discogs Link   | [Peter Gabriel - Up](https://www.discogs.com/release/9473463-Peter-Gabriel-Up) |
 | Label          | Real World Records, Caroline International |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | PGLPR11, 884108004579 |
+
+33 ⅓ Half-Speed Remaster. Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.  On labels and sleeve back: ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.   In booklet: ℗ © 2016 Peter Gabriel Ltd.  Manufactured in the EU.  Runouts: "PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped.
 

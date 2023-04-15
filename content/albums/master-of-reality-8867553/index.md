@@ -1,14 +1,17 @@
 ---
 title: "Black Sabbath - Master Of Reality"
-album_artist: "Black Sabbath"
-album_title: "Master Of Reality"
+artist: "Black Sabbath"
+album_name: "Master Of Reality"
 date: 2016-08-11
 release_id: "8867553"
 slug: "master-of-reality-8867553"
+hideSummary: true
 cover:
     image: "master-of-reality-8867553.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Master Of Reality by Black Sabbath"
+    caption: "Master Of Reality by Black Sabbath"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Solitude (2009 - Remaster)](https://www.youtube.com/watch?v=lejk2BmBbvk)
 - [Into the Void (2009 - Remaster)](https://www.youtube.com/watch?v=-R5XnrZn47Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Black Sabbath - Master Of Reality](https://www.discogs.com/release/8867553) |
+| Release Year   | 2016 |
+| Discogs Link   | [Black Sabbath - Master Of Reality](https://www.discogs.com/release/8867553-Black-Sabbath-Master-Of-Reality) |
 | Label          | Rhino Records (2), Warner Bros. Records |
 | Format         | LP, Album, Ltd, RE, RM, Gre |
 | Catalog Number | RR1 2562, 2562 |
+
+Original Master of Reality album released on Warner Bros. Records (BS 2562) July 1971  2016 Release co-ordination for Warner Music Global Catalogue:  Hugh Gilmour Thanks to:  Colin Newman, Tim Fraser-Harding, & Steve Hammonds Reissue Design:  Gilmour Design  Special thanks to:  Tony Iommi, Geezer Butler, Ozzy Osbourne, & Bill Ward  Lyrics printed on back cover of album Warner logo, "Stereo" and "2562" printed on front cover in upper left corner Also includes extra black inner sleeve with bio of band and album on both sides  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS GREEN VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "INTO THE VOID" & "CHILDREN OF THE GRAVE" RRI 2562 
 

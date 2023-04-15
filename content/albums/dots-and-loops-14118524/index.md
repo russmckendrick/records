@@ -1,14 +1,17 @@
 ---
 title: "Stereolab - Dots And Loops"
-album_artist: "Stereolab"
-album_title: "Dots And Loops"
+artist: "Stereolab"
+album_name: "Dots And Loops"
 date: 2019-09-15
 release_id: "14118524"
 slug: "dots-and-loops-14118524"
+hideSummary: true
 cover:
     image: "dots-and-loops-14118524.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Dots And Loops by Stereolab"
+    caption: "Dots And Loops by Stereolab"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Post Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Ticker-tape of the Unconscious](https://www.youtube.com/watch?v=Bxq21YMljFA)
 - [Contronatura](https://www.youtube.com/watch?v=y7aKp3rAH9A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Stereolab - Dots And Loops](https://www.discogs.com/release/14118524) |
+| Release Year   | 2019 |
+| Discogs Link   | [Stereolab - Dots And Loops](https://www.discogs.com/release/14118524-Stereolab-Dots-And-Loops) |
 | Label          | Warp Records, Duophonic Ultra High Frequency Disks |
 | Format         | 2xLP, Album, RE, RM + LP + Ltd, Num, Cle |
 | Catalog Number | none, D-UHF-D17RC |
+
+Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997.  Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk. Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.  Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion.   Remastered album plus a bonus disc of demos and alternate versions  Fold out poster and DL card  Numbered on hype sticker  The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [Obi strip version](https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544)       
 

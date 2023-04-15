@@ -1,14 +1,17 @@
 ---
 title: "Echo & The Bunnymen - Ocean Rain"
-album_artist: "Echo & The Bunnymen"
-album_title: "Ocean Rain"
+artist: "Echo & The Bunnymen"
+album_name: "Ocean Rain"
 date: 2017-03-08
 release_id: "5803593"
 slug: "ocean-rain-5803593"
+hideSummary: true
 cover:
     image: "ocean-rain-5803593.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Ocean Rain by Echo & The Bunnymen"
+    caption: "Ocean Rain by Echo & The Bunnymen"
+genres: ["Rock"]
+styles: ["New Wave", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Ocean Rain](https://www.youtube.com/watch?v=p_AsT8Ney4A)
 - [ECHO & THE BUNNYMEN - Killing Moon - Lyrics for Fun Scenes and Full Moon](https://www.youtube.com/watch?v=prd9RX-fW2g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593) |
+| Release Year   | 2014 |
+| Discogs Link   | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |
 | Label          | Korova, Vinyl 180 |
 | Format         | LP, Album, RE |
 | Catalog Number | VIN180LP075 |
+
+2014 Repressing in Black Vinyl
 

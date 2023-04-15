@@ -1,14 +1,17 @@
 ---
 title: "Jean-Michel Jarre - Electronica 1: The Time Machine"
-album_artist: "Jean-Michel Jarre"
-album_title: "Electronica 1: The Time Machine"
+artist: "Jean-Michel Jarre"
+album_name: "Electronica 1: The Time Machine"
 date: 2018-01-29
 release_id: "7593742"
 slug: "electronica-1-the-time-machine-7593742"
+hideSummary: true
 cover:
     image: "electronica-1-the-time-machine-7593742.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Electronica 1: The Time Machine by Jean-Michel Jarre"
+    caption: "Electronica 1: The Time Machine by Jean-Michel Jarre"
+genres: ["Electronic"]
+styles: ["Synth-pop", "Electro", "Trance"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Jean-Michel Jarre, Pete Townshend - Travelator, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=4xZQ5hX0xyk)
 - [Jean-Michel Jarre, M83 - Glory](https://www.youtube.com/watch?v=NF7OoJZPLJc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Jean-Michel Jarre - Electronica 1: The Time Machine](https://www.discogs.com/release/7593742) |
+| Release Year   | 2015 |
+| Discogs Link   | [Jean-Michel Jarre - Electronica 1: The Time Machine](https://www.discogs.com/release/7593742-Jean-Michel-Jarre-Electronica-1-The-Time-Machine) |
 | Label          | Aero Productions, Columbia, Sony Music |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | 88843018981 |
+
+℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Gatefold sleeve with printed innersleeves. First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.  Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".
 

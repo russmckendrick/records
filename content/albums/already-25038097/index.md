@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Already"
-album_artist: "Jesus Jones"
-album_title: "Already"
+artist: "Jesus Jones"
+album_name: "Already"
 date: 2022-11-03
 release_id: "25038097"
 slug: "already-25038097"
+hideSummary: true
 cover:
     image: "already-25038097.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Already by Jesus Jones"
+    caption: "Already by Jesus Jones"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Look Out Tomorrow](https://www.youtube.com/watch?v=k4b9uKmNln8)
 - [Addiction Obsession And Me](https://www.youtube.com/watch?v=SHnseuIdK60)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Already](https://www.discogs.com/release/25038097) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Already](https://www.discogs.com/release/25038097-Jesus-Jones-Already) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Cle |
 | Catalog Number | DEMREC955 |
+
+
 

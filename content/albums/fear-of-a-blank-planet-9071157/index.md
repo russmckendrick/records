@@ -1,14 +1,17 @@
 ---
 title: "Porcupine Tree - Fear Of A Blank Planet"
-album_artist: "Porcupine Tree"
-album_title: "Fear Of A Blank Planet"
+artist: "Porcupine Tree"
+album_name: "Fear Of A Blank Planet"
 date: 2017-05-12
 release_id: "9071157"
 slug: "fear-of-a-blank-planet-9071157"
+hideSummary: true
 cover:
     image: "fear-of-a-blank-planet-9071157.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fear Of A Blank Planet by Porcupine Tree"
+    caption: "Fear Of A Blank Planet by Porcupine Tree"
+genres: ["Rock"]
+styles: ["Indie Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -22,13 +25,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="jKM5dampSOQ" title="Porcupine Tree - Fear of a Blank Planet (2007) Full Album" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Porcupine Tree - Fear Of A Blank Planet](https://www.discogs.com/release/9071157) |
+| Release Year   | 2016 |
+| Discogs Link   | [Porcupine Tree - Fear Of A Blank Planet](https://www.discogs.com/release/9071157-Porcupine-Tree-Fear-Of-A-Blank-Planet) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, RE, Blu |
 | Catalog Number | KSCOPE867 |
+
+Published by Hands Off It's Mine Publishing, adminstered by Universal Music Publishing Group  Written in London and Tel Aviv between Jan-July 2006 Recorded between Oct-Dec 2006 Recorded at No Man's Land, Bourne Place, New Rising, The Artillery, Nightspace, Mark Angelo, Red Room Recorders, DGM. String arrangements recorded at Angel Studio.  Issued under license from Porcupine Tree Ltd. under exclusive license to Kscope. ℗ 2007 Porcupine Tree Ltd. under exclusive license to Kscope. © 2016 Porcupine Tree Ltd. under exclusive license to Kscope. Made in Germany  180 gram audiophile translucent blue vinyl gatefold with plain black inner sleeves 2016 Re-release of the 2012 Steven Wilson remastered edition
 

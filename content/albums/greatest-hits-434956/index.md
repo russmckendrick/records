@@ -1,14 +1,17 @@
 ---
 title: "Steely Dan - Greatest Hits"
-album_artist: "Steely Dan"
-album_title: "Greatest Hits"
+artist: "Steely Dan"
+album_name: "Greatest Hits"
 date: 2015-09-11
 release_id: "434956"
 slug: "greatest-hits-434956"
+hideSummary: true
 cover:
     image: "greatest-hits-434956.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Greatest Hits by Steely Dan"
+    caption: "Greatest Hits by Steely Dan"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Doctor Wu](https://www.youtube.com/watch?v=ImtdntJQfSs)
 - [Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1978 |
-| Discogs Link   | [Steely Dan - Greatest Hits](https://www.discogs.com/release/434956) |
+| Release Year   | 1978 |
+| Discogs Link   | [Steely Dan - Greatest Hits](https://www.discogs.com/release/434956-Steely-Dan-Greatest-Hits) |
 | Label          | ABC Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | ABCD 616 |
+
+
 

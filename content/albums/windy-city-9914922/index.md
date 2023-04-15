@@ -1,14 +1,17 @@
 ---
 title: "Alison Krauss - Windy City"
-album_artist: "Alison Krauss"
-album_title: "Windy City"
+artist: "Alison Krauss"
+album_name: "Windy City"
 date: 2017-03-04
 release_id: "9914922"
 slug: "windy-city-9914922"
+hideSummary: true
 cover:
     image: "windy-city-9914922.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Windy City by Alison Krauss"
+    caption: "Windy City by Alison Krauss"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 - [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Alison Krauss - Windy City](https://www.discogs.com/release/9914922) |
+| Release Year   | 2017 |
+| Discogs Link   | [Alison Krauss - Windy City](https://www.discogs.com/release/9914922-Alison-Krauss-Windy-City) |
 | Label          | Capitol Records |
 | Format         | LP, Album, 180 |
 | Catalog Number | 00602557037500 |
+
+Gatefold.  Includes free album download card
 

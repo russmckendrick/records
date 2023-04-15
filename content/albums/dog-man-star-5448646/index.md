@@ -1,14 +1,17 @@
 ---
 title: "Suede - Dog Man Star"
-album_artist: "Suede"
-album_title: "Dog Man Star"
+artist: "Suede"
+album_name: "Dog Man Star"
 date: 2016-10-01
 release_id: "5448646"
 slug: "dog-man-star-5448646"
+hideSummary: true
 cover:
     image: "dog-man-star-5448646.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Dog Man Star by Suede"
+    caption: "Dog Man Star by Suede"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
 - [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Suede - Dog Man Star](https://www.discogs.com/release/5448646) |
+| Release Year   | 2014 |
+| Discogs Link   | [Suede - Dog Man Star](https://www.discogs.com/release/5448646-Suede-Dog-Man-Star) |
 | Label          | Demon Records |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | INSATIABLE 2 |
+
+Mastered in Portland, Maine.  Though reissued in 2014, copyright notice states '(c) 2013'.
 

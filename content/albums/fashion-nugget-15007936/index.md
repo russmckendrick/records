@@ -1,14 +1,17 @@
 ---
 title: "Cake - Fashion Nugget"
-album_artist: "Cake"
-album_title: "Fashion Nugget"
+artist: "Cake"
+album_name: "Fashion Nugget"
 date: 2020-06-24
 release_id: "15007936"
 slug: "fashion-nugget-15007936"
+hideSummary: true
 cover:
     image: "fashion-nugget-15007936.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fashion Nugget by Cake"
+    caption: "Fashion Nugget by Cake"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Cake-Italian Leather Sofa from Fashion Nugget](https://www.youtube.com/watch?v=DuVSvSbnaUg)
 - [Cake-Sad Songs and Waltzes from Fashion Nugget](https://www.youtube.com/watch?v=UK-DcAcQ-7Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Cake - Fashion Nugget](https://www.discogs.com/release/15007936) |
+| Release Year   | 2020 |
+| Discogs Link   | [Cake - Fashion Nugget](https://www.discogs.com/release/15007936-Cake-Fashion-Nugget) |
 | Label          | Not On Label (Cake) |
 | Format         | LP, Album, Ltd, Unofficial, Yel |
 | Catalog Number | 28671 |
+
+Sticker on outer sleeve: COLOURED VINYL . LIMITED EDITION .  CAKE 2314 J STREET #117 SACRAMENTO, CA  95816
 

@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - The Future Bites"
-album_artist: "Steven Wilson"
-album_title: "The Future Bites"
+artist: "Steven Wilson"
+album_name: "The Future Bites"
 date: 2021-03-24
 release_id: "17988457"
 slug: "the-future-bites-17988457"
+hideSummary: true
 cover:
     image: "the-future-bites-17988457.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Future Bites by Steven Wilson"
+    caption: "The Future Bites by Steven Wilson"
+genres: ["Rock", "Pop"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17988457) |
+| Release Year   | 2021 |
+| Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17988457-Steven-Wilson-The-Future-Bites) |
 | Label          | Caroline International |
 | Format         | LP, Album, RP, Cle |
 | Catalog Number | CAROL021LPTUK |
+
+Replacement for the UK tour edition of the future bites.
 

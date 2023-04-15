@@ -1,14 +1,17 @@
 ---
 title: "The Style Council - Our Favourite Shop"
-album_artist: "The Style Council"
-album_title: "Our Favourite Shop"
+artist: "The Style Council"
+album_name: "Our Favourite Shop"
 date: 2020-01-08
 release_id: "10734892"
 slug: "our-favourite-shop-10734892"
+hideSummary: true
 cover:
     image: "our-favourite-shop-10734892.jpg"
-tags: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Our Favourite Shop by The Style Council"
+    caption: "Our Favourite Shop by The Style Council"
+genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
+styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Style Council - The Lodgers](https://www.youtube.com/watch?v=Dpg0jlhNV8Y)
 - [A Stones Throw Away](https://www.youtube.com/watch?v=45DsZpjL4tM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Style Council - Our Favourite Shop](https://www.discogs.com/release/10734892) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Style Council - Our Favourite Shop](https://www.discogs.com/release/10734892-The-Style-Council-Our-Favourite-Shop) |
 | Label          | Polydor, Polydor, UMC |
 | Format         | LP, Album, Ltd, RE, Lil |
 | Catalog Number | TSCLP 2, 5734112 |
+
+Reissue on lilac-coloured vinyl
 

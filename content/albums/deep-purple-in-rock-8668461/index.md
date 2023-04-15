@@ -1,14 +1,17 @@
 ---
 title: "Deep Purple - Deep Purple In Rock"
-album_artist: "Deep Purple"
-album_title: "Deep Purple In Rock"
+artist: "Deep Purple"
+album_name: "Deep Purple In Rock"
 date: 2016-06-21
 release_id: "8668461"
 slug: "deep-purple-in-rock-8668461"
+hideSummary: true
 cover:
     image: "deep-purple-in-rock-8668461.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Deep Purple In Rock by Deep Purple"
+    caption: "Deep Purple In Rock by Deep Purple"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -20,16 +23,17 @@ hideSummary: true
 6. Living Wreck
 7. Hard Lovin' Man
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Deep Purple - Deep Purple In Rock](https://www.discogs.com/release/8668461) |
+| Release Year   | 2016 |
+| Discogs Link   | [Deep Purple - Deep Purple In Rock](https://www.discogs.com/release/8668461-Deep-Purple-Deep-Purple-In-Rock) |
 | Label          | Harvest, Parlophone |
 | Format         | LP, Album, Ltd, RE, RM, Mar |
 | Catalog Number | SHVL 777, 0825646035083 |
+
+180gr HMV exclusive limited edition on white with smokey grey and black vinyl (Marbled) Nb: Vinyl colour based on the 'rock' painting on the sleeve. Limited edition of 1000 copies. Gatefold sleeve.  Two stickers on cover shrink wrapping: Circular white sticker:  LIMITED EDITION MARBLED VINYL Rectangular black sticker: Deep Purple's First Studio Album with the Mark II line-up includes 'Speed King' & 'Child In Time' 180gm Vinyl 0825646035083 VINYL COLLECTOR [logo] INCLUDES DOWNLOAD CODE FOR  MP3 VERSION OF THE ALBUM WWW.THISISVINYLCOLLECTOR.COM  Made in the EU / Printed in the EU
 

@@ -1,14 +1,17 @@
 ---
 title: "Ultravox - The Collection"
-album_artist: "Ultravox"
-album_title: "The Collection"
+artist: "Ultravox"
+album_name: "The Collection"
 date: 2019-11-08
 release_id: "97080"
 slug: "the-collection-97080"
+hideSummary: true
 cover:
     image: "the-collection-97080.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "The Collection by Ultravox"
+    caption: "The Collection by Ultravox"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Ultravox - Vienna (Album And 12 Version) Music Video](https://www.youtube.com/watch?v=jnA4VYNj2Mw)
 - [Ultravox - Reap The Wild Wind Music Video](https://www.youtube.com/watch?v=JB_Ae_U1w2M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Ultravox - The Collection](https://www.discogs.com/release/97080) |
+| Release Year   | 1984 |
+| Discogs Link   | [Ultravox - The Collection](https://www.discogs.com/release/97080-Ultravox-The-Collection) |
 | Label          | Chrysalis |
 | Format         | LP, Comp |
 | Catalog Number | UTV1 |
+
+Some copies include a printed inner sleeve that is same as the background on the outer sleeve.  Timings do not appear on the sleeve/label - Timings via stopwatch.
 

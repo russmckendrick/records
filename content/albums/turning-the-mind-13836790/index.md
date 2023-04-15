@@ -1,14 +1,17 @@
 ---
 title: "Maps - Turning The Mind"
-album_artist: "Maps"
-album_title: "Turning The Mind"
+artist: "Maps"
+album_name: "Turning The Mind"
 date: 2019-09-01
 release_id: "13836790"
 slug: "turning-the-mind-13836790"
+hideSummary: true
 cover:
     image: "turning-the-mind-13836790.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Turning The Mind by Maps"
+    caption: "Turning The Mind by Maps"
+genres: ["Electronic"]
+styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Maps - From Here's to Bliss (Bonus Track)](https://www.youtube.com/watch?v=2c6q2F-zEM0)
 - [From Here's to Bliss](https://www.youtube.com/watch?v=EK7rKGkYesM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Maps - Turning The Mind](https://www.discogs.com/release/13836790) |
+| Release Year   | 2019 |
+| Discogs Link   | [Maps - Turning The Mind](https://www.discogs.com/release/13836790-Maps-Turning-The-Mind) |
 | Label          | Mute |
 | Format         | LP + LP, Etch + Album, Ltd, RE, RP, Ora |
 | Catalog Number | STUMM298 |
+
+Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.  Circular silver hype sticker on the cellophane reads:  First time on vinyl  Mute 4.0 Orange vinyl Limited edition of 500  Double album D side etching + Digital copy _  ℗ 2019 Mute Records Limited © 2009 Mute Records Limited Printed in the EU.
 

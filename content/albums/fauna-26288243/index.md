@@ -1,14 +1,17 @@
 ---
 title: "Haken (2) - Fauna"
-album_artist: "Haken (2)"
-album_title: "Fauna"
+artist: "Haken (2)"
+album_name: "Fauna"
 date: 2023-03-20
 release_id: "26288243"
 slug: "fauna-26288243"
+hideSummary: true
 cover:
     image: "fauna-26288243.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Fauna by Haken (2)"
+    caption: "Fauna by Haken (2)"
+genres: ["Rock"]
+styles: ["Progressive Metal"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Elephants Never Forget (Instrumental)](https://www.youtube.com/watch?v=ql3BHkTGk0w)
 - [Eyes Of Ebony (Instrumental)](https://www.youtube.com/watch?v=MqDJh-D6mkg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Haken (2) - Fauna](https://www.discogs.com/release/26288243) |
+| Release Year   | 2023 |
+| Discogs Link   | [Haken (2) - Fauna](https://www.discogs.com/release/26288243-Haken-Fauna) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, Ltd, Mag |
 | Catalog Number | IOM667, 19658762371 |
+
+Gatefold with LP-booklet. Limited to 500 copies worldwide.
 

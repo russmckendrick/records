@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Witchazel"
-album_artist: "Matt Berry (3)"
-album_title: "Witchazel"
+artist: "Matt Berry (3)"
+album_name: "Witchazel"
 date: 2016-01-20
 release_id: "2797660"
 slug: "witchazel-2797660"
+hideSummary: true
 cover:
     image: "witchazel-2797660.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Witchazel by Matt Berry (3)"
+    caption: "Witchazel by Matt Berry (3)"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)
 - [Rain Came Down - Matt Berry](https://www.youtube.com/watch?v=QI4_DmjXpEM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/2797660) |
+| Release Year   | 2011 |
+| Discogs Link   | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/2797660-Matt-Berry-Witchazel) |
 | Label          | Acid Jazz |
 | Format         | LP, Album |
 | Catalog Number | AJXLP251 |
+
+Recorded between 2009 and 2010 on Jacobs Island, Shad Thames, London.  Some copies printed on reverse board with matte varnish, others printed on regular board with matte varnish
 

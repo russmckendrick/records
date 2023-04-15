@@ -1,14 +1,17 @@
 ---
 title: "Various - The Awards 1992"
-album_artist: "Various"
-album_title: "The Awards 1992"
+artist: "Various"
+album_name: "The Awards 1992"
 date: 2019-01-05
 release_id: "2697679"
 slug: "the-awards-1992-2697679"
+hideSummary: true
 cover:
     image: "the-awards-1992-2697679.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Awards 1992 by Various"
+    caption: "The Awards 1992 by Various"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -45,16 +48,17 @@ hideSummary: true
 31. Caribbean Blue
 32. Inspector Morse (Main Theme)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1992 |
-| Discogs Link   | [Various - The Awards 1992](https://www.discogs.com/release/2697679) |
+| Release Year   | 1992 |
+| Discogs Link   | [Various - The Awards 1992](https://www.discogs.com/release/2697679-Various-The-Awards-1992) |
 | Label          | Polygram TV |
 | Format         | 2xLP, Comp |
 | Catalog Number | 515 207-1 |
+
+The Brits 1992 sponsored by Britannia Music Club. 32 classic tracks by the cream of the 1992 Brit Award nominees. Gatefold cover with pictures and synopsis of each track/artist.
 

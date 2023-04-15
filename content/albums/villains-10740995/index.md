@@ -1,14 +1,17 @@
 ---
 title: "Queens Of The Stone Age - Villains"
-album_artist: "Queens Of The Stone Age"
-album_title: "Villains"
+artist: "Queens Of The Stone Age"
+album_name: "Villains"
 date: 2017-08-25
 release_id: "10740995"
 slug: "villains-10740995"
+hideSummary: true
 cover:
     image: "villains-10740995.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Villains by Queens Of The Stone Age"
+    caption: "Villains by Queens Of The Stone Age"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Queens of the Stone Age - Hideaway (Audio)](https://www.youtube.com/watch?v=2dcbcic06vw)
 - [Queens of the Stone Age - Villains of Circumstance (Audio)](https://www.youtube.com/watch?v=fsqhJcGbaEI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Queens Of The Stone Age - Villains](https://www.discogs.com/release/10740995) |
+| Release Year   | 2017 |
+| Discogs Link   | [Queens Of The Stone Age - Villains](https://www.discogs.com/release/10740995-Queens-Of-The-Stone-Age-Villains) |
 | Label          | Matador |
 | Format         | LP + LP, S/Sided, Etch + Album, Ltd, Ind |
 | Catalog Number | OLE-1125-8 |
+
+Limited press of 7,000 units worldwide - exclusively released to Indie Record stores  This is the US pressing.  For the E.U. edition pressed by [l313190] see [r10756198]   Hype sticker text: Limited Special Cover Art By Boneface Includes Free Download Of The Entire Album On MP3 And FLAC  Packaged in a gatefold cover with printed inner sleeve and lyric insert.  OLE-1125-8 P&C 2017 Queens Of The Stone Age Under License To Matador Records  Track numbering is sequential on the release.  Engineered [...] at United Recording Studios, Los Angeles, CA Mixed [...] at Pink Duck Studios, Burbank, CA Mastered by [...] of Lurssen Mastering, Burbank, CA  Board Stiff Music, all rights administered by Songs Of Kobalt Music (BMI) Magic Bullet Music (ASCAP) Sleeping Disorder Music (BMI) Dr. Shoes (BMI)  Pressing plant and lacquer cut by credit derived from matrix info.
 

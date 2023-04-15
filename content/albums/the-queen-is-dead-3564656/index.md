@@ -1,14 +1,17 @@
 ---
 title: "The Smiths - The Queen Is Dead"
-album_artist: "The Smiths"
-album_title: "The Queen Is Dead"
+artist: "The Smiths"
+album_name: "The Queen Is Dead"
 date: 2015-08-09
 release_id: "3564656"
 slug: "the-queen-is-dead-3564656"
+hideSummary: true
 cover:
     image: "the-queen-is-dead-3564656.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "The Queen Is Dead by The Smiths"
+    caption: "The Queen Is Dead by The Smiths"
+genres: ["Rock", "Pop"]
+styles: ["Jangle Pop", "Post-Punk", "Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. There Is A Light That Never Goes Out (4:02)
 10. Some Girls Are Bigger Than Others (3:14)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [The Smiths - The Queen Is Dead](https://www.discogs.com/release/3564656) |
+| Release Year   | 2012 |
+| Discogs Link   | [The Smiths - The Queen Is Dead](https://www.discogs.com/release/3564656-The-Smiths-The-Queen-Is-Dead) |
 | Label          | Warner Music UK Ltd. |
 | Format         | LP, Album, RE, Gat |
 | Catalog Number | 2564665887 |
+
+Pink sticker, gatefold sleeve and original inner sleeve.  [Gatefold inside] Warner Bros UK Ltd.  [Inner sleeve] recorded in England, Winter 1985 Cicely Courtneidge recording courtesy of Thorn EMI Elstree Studios Ltd Cover star Alain Delon photos © 1965 Metro-Goldwyn-Mayer Inc "take me back to dear old Blighty"  [Labels] ℗ & © 1986 Warner Music UK Ltd. Made in the E.U.
 

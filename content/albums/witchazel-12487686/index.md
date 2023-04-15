@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - Witchazel"
-album_artist: "Matt Berry (3)"
-album_title: "Witchazel"
+artist: "Matt Berry (3)"
+album_name: "Witchazel"
 date: 2018-09-21
 release_id: "12487686"
 slug: "witchazel-12487686"
+hideSummary: true
 cover:
     image: "witchazel-12487686.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Witchazel by Matt Berry (3)"
+    caption: "Witchazel by Matt Berry (3)"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)
 - [Rain Came Down - Matt Berry](https://www.youtube.com/watch?v=QI4_DmjXpEM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/12487686) |
+| Release Year   | 2018 |
+| Discogs Link   | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/12487686-Matt-Berry-Witchazel) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Ltd, RE, Yel |
 | Catalog Number | AJXLP251X |
+
+Limited Yellow Vinyl.
 

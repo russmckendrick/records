@@ -1,14 +1,17 @@
 ---
 title: "Wire - Pink Flag"
-album_artist: "Wire"
-album_title: "Pink Flag"
+artist: "Wire"
+album_name: "Pink Flag"
 date: 2018-12-27
 release_id: "12172756"
 slug: "pink-flag-12172756"
+hideSummary: true
 cover:
     image: "pink-flag-12172756.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pink Flag by Wire"
+    caption: "Pink Flag by Wire"
+genres: ["Rock"]
+styles: ["Punk", "New Wave"]
 ---
 
 ## Tracklisting
@@ -57,13 +60,16 @@ hideSummary: true
 - [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)
 - [1 2 X U (2006 Remastered Version)](https://www.youtube.com/watch?v=jOjCSLMZPok)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Wire - Pink Flag](https://www.discogs.com/release/12172756) |
+| Release Year   | 2018 |
+| Discogs Link   | [Wire - Pink Flag](https://www.discogs.com/release/12172756-Wire-Pink-Flag) |
 | Label          | Pinkflag |
 | Format         | LP, Album, RE |
 | Catalog Number | PF11LP |
+
+Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag  
 

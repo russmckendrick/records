@@ -1,14 +1,17 @@
 ---
 title: "Queen - The Platinum Collection"
-album_artist: "Queen"
-album_title: "The Platinum Collection"
+artist: "Queen"
+album_name: "The Platinum Collection"
 date: 2022-06-17
 release_id: "23601854"
 slug: "the-platinum-collection-23601854"
+hideSummary: true
 cover:
     image: "the-platinum-collection-23601854.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Platinum Collection by Queen"
+    caption: "The Platinum Collection by Queen"
+genres: ["Rock"]
+styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -64,16 +67,17 @@ hideSummary: true
 50. These Are The Days Of Our Lives (4:15)
 51. Thank God It's Christmas (4:19)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Queen - The Platinum Collection](https://www.discogs.com/release/23601854) |
+| Release Year   | 2022 |
+| Discogs Link   | [Queen - The Platinum Collection](https://www.discogs.com/release/23601854-Queen-The-Platinum-Collection) |
 | Label          | EMI |
 | Format         | LP, Comp, RE, RM, 180 + LP, Comp, RE, RM, 180 + LP |
 | Catalog Number | 0602435877518 |
+
+Sticker on shrinkwrap states: "QUEEN THE PLATINUM  COLLECTION  51 HITS ON VINYL  FOR THE FIRST TIME 6x 180g Coloured LPs 24 page 12" photo book 00602435877518"  Made in the EU  Runout etched, "1=X", "1=I", "3=+", "1T", "V1", 1-", "S1=", "1+", "1I" are mirrored  A limited number of orders from queenonline.com included a hand-numbered (n/2,000) 12" x 12" art card. Print shipped in a white cardboard envelope with 2 stickers: -barcode 2566016375153 (QUPCPRINT) on the back -"QUPCPRINT QUEEN PLATINUM COLLECTION PRINT"  on the front  
 

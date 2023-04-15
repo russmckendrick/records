@@ -1,14 +1,17 @@
 ---
 title: "Tunng - Tunng Presents... Dead Club"
-album_artist: "Tunng"
-album_title: "Tunng Presents... Dead Club"
+artist: "Tunng"
+album_name: "Tunng Presents... Dead Club"
 date: 2020-11-18
 release_id: "16173154"
 slug: "tunng-presents-dead-club-16173154"
+hideSummary: true
 cover:
     image: "tunng-presents-dead-club-16173154.jpg"
-tags: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Tunng Presents... Dead Club by Tunng"
+    caption: "Tunng Presents... Dead Club by Tunng"
+genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Tunng - Eating the Dead](https://www.youtube.com/watch?v=xvaz_moDEs4)
 - [The Last Day](https://www.youtube.com/watch?v=zijFWrWFYKo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Tunng - Tunng Presents... Dead Club](https://www.discogs.com/release/16173154) |
+| Release Year   | 2020 |
+| Discogs Link   | [Tunng - Tunng Presents... Dead Club](https://www.discogs.com/release/16173154-Tunng-Tunng-Presents-Dead-Club) |
 | Label          | Full Time Hobby |
 | Format         | LP, Album, Ltd, Mag |
 | Catalog Number | FTH390LPB |
+
+- Supported using public funding by Arts Council England  DEAD CLUB is dedicated to anyone who is grieving Limited edition of 300.   Hype Sticker reads -   "tunng  Tunng Presents ... Dead Club  A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter.   Tunng Store Exclusive  2x Magenta LP. limited to 300 Includes download code. FTH390LPB" 
 

@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - The Pleasure Principle"
-album_artist: "Gary Numan"
-album_title: "The Pleasure Principle"
+artist: "Gary Numan"
+album_name: "The Pleasure Principle"
 date: 2016-12-08
 release_id: "7654481"
 slug: "the-pleasure-principle-7654481"
+hideSummary: true
 cover:
     image: "the-pleasure-principle-7654481.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "The Pleasure Principle by Gary Numan"
+    caption: "The Pleasure Principle by Gary Numan"
+genres: ["Electronic"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481) |
+| Release Year   | 2015 |
+| Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481-Gary-Numan-The-Pleasure-Principle) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album, RE |
 | Catalog Number | BBQLP 10 |
+
+Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London
 

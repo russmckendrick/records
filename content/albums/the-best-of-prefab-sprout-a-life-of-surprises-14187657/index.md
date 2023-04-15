@@ -1,14 +1,17 @@
 ---
 title: "Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises"
-album_artist: "Prefab Sprout"
-album_title: "The Best Of Prefab Sprout: A Life Of Surprises"
+artist: "Prefab Sprout"
+album_name: "The Best Of Prefab Sprout: A Life Of Surprises"
 date: 2019-09-27
 release_id: "14187657"
 slug: "the-best-of-prefab-sprout-a-life-of-surprises-14187657"
+hideSummary: true
 cover:
     image: "the-best-of-prefab-sprout-a-life-of-surprises-14187657.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout"
+    caption: "The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [Prefab Sprout Wild Horses](https://www.youtube.com/watch?v=Zv_jxrAMThI)
 - [Prefab Sprout - The Sound Of Crying](https://www.youtube.com/watch?v=6we_GK0ZWa8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises](https://www.discogs.com/release/14187657) |
+| Release Year   | 2019 |
+| Discogs Link   | [Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises](https://www.discogs.com/release/14187657-Prefab-Sprout-The-Best-Of-Prefab-Sprout-A-Life-Of-Surprises) |
 | Label          | Kitchenware Records, Columbia |
 | Format         | 2xLP, Comp, RE, RM, 180 |
 | Catalog Number | 19075944651 |
+
+Gatefold sleeve. Made in the EU.  Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers.
 

@@ -1,14 +1,17 @@
 ---
 title: "John Mayall With Eric Clapton - Blues Breakers"
-album_artist: "John Mayall With Eric Clapton"
-album_title: "Blues Breakers"
+artist: "John Mayall With Eric Clapton"
+album_name: "Blues Breakers"
 date: 2021-05-21
 release_id: "8987135"
 slug: "blues-breakers-8987135"
+hideSummary: true
 cover:
     image: "blues-breakers-8987135.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Blues Breakers by John Mayall With Eric Clapton"
+    caption: "Blues Breakers by John Mayall With Eric Clapton"
+genres: ["Rock", "Blues"]
+styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Steppin' Out (2:28)
 12. It Ain't Right (2:41)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Mayall With Eric Clapton - Blues Breakers](https://www.discogs.com/release/8987135) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Mayall With Eric Clapton - Blues Breakers](https://www.discogs.com/release/8987135-John-Mayall-With-Eric-Clapton-Blues-Breakers) |
 | Label          | Decca |
 | Format         | LP, Album, Mono, RE, RP, 180 |
 | Catalog Number | 0042280008611 |
+
+Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere  ℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company  Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966. 180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series The MP3 downloads include both the mono and stereo mixes. 
 

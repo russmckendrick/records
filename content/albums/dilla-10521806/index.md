@@ -1,14 +1,17 @@
 ---
 title: "Abstract Orchestra - Dilla"
-album_artist: "Abstract Orchestra"
-album_title: "Dilla"
+artist: "Abstract Orchestra"
+album_name: "Dilla"
 date: 2017-10-13
 release_id: "10521806"
 slug: "dilla-10521806"
+hideSummary: true
 cover:
     image: "dilla-10521806.jpg"
-tags: ["Hip Hop", "Jazz"]
-hideSummary: true
+    alt: "Dilla by Abstract Orchestra"
+    caption: "Dilla by Abstract Orchestra"
+genres: ["Hip Hop", "Jazz"]
+styles: null
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="1UTyo3IMhfg" title="Abstract Orchestra - Dilla [Full Album]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Abstract Orchestra - Dilla](https://www.discogs.com/release/10521806) |
+| Release Year   | 2017 |
+| Discogs Link   | [Abstract Orchestra - Dilla](https://www.discogs.com/release/10521806-Abstract-Orchestra-Dilla) |
 | Label          | ATA Records (3) |
 | Format         | LP, Album |
 | Catalog Number | ATA006 |
+
+
 

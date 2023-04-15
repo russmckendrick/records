@@ -1,14 +1,17 @@
 ---
 title: "John Williams (4) - Star Wars: The Force Awakens (Original Motion Picture Soundtrack)"
-album_artist: "John Williams (4)"
-album_title: "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)"
+artist: "John Williams (4)"
+album_name: "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)"
 date: 2016-06-22
 release_id: "8657358"
 slug: "star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358"
+hideSummary: true
 cover:
     image: "star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "Star Wars: The Force Awakens (Original Motion Picture Soundtrack) by John Williams (4)"
+    caption: "Star Wars: The Force Awakens (Original Motion Picture Soundtrack) by John Williams (4)"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack", "Score"]
 ---
 
 ## Tracklisting
@@ -48,13 +51,16 @@ hideSummary: true
 - [The Abduction](https://www.youtube.com/watch?v=qregcd04S8w)
 - [The Starkiller](https://www.youtube.com/watch?v=pdEv2Bw42u0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Williams (4) - Star Wars: The Force Awakens (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8657358) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Williams (4) - Star Wars: The Force Awakens (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8657358-John-Williams-Star-Wars-The-Force-Awakens-Original-Motion-Picture-Soundtrack) |
 | Label          | Walt Disney Records, Lucasfilm Ltd. |
 | Format         | 2xLP, Album, Etch |
 | Catalog Number | D002364401 |
+
+℗ 2015 © 2016 & ™ Lucasfilm Ltd. Burbank, CA 91521.  Holograms hand-etched by Tristan Duke of Infinity Light Science.  Disc 1 side B (Millennium Falcon) Disc 2 side D (TIE Fighter).  Packaged in an embossed gatefold sleeve, featuring a 'hologramatic' effect on 'Star Wars' and the stars. Includes a 16-page booklet.  Sticker on shrinkwrap: "Includes a one-of-a-kind 3D holographic experience featuring the Millennium Falcon on disc 1 & TIE Fighter on disc 2 DMM Direct Metal Mastering 180 gram vinyl D002364401 ST01"
 

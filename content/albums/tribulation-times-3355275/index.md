@@ -1,14 +1,17 @@
 ---
 title: "Dennis Brown - Tribulation Times"
-album_artist: "Dennis Brown"
-album_title: "Tribulation Times"
+artist: "Dennis Brown"
+album_name: "Tribulation Times"
 date: 2020-01-06
 release_id: "3355275"
 slug: "tribulation-times-3355275"
+hideSummary: true
 cover:
     image: "tribulation-times-3355275.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Tribulation Times by Dennis Brown"
+    caption: "Tribulation Times by Dennis Brown"
+genres: ["Reggae"]
+styles: null
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times (Reggae Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Dennis Brown - Tribulation Times](https://www.discogs.com/release/3355275) |
+| Release Year   | 2011 |
+| Discogs Link   | [Dennis Brown - Tribulation Times](https://www.discogs.com/release/3355275-Dennis-Brown-Tribulation-Times) |
 | Label          | Kingston Sounds |
 | Format         | LP, Comp |
 | Catalog Number | KSLP025 |
+
+Track B7 Listed on jacket as 'We Will Be Free', but listed on label as 'We Will Be Fre'.
 

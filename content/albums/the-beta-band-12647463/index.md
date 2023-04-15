@@ -1,14 +1,17 @@
 ---
 title: "The Beta Band - The Beta Band"
-album_artist: "The Beta Band"
-album_title: "The Beta Band"
+artist: "The Beta Band"
+album_name: "The Beta Band"
 date: 2018-11-09
 release_id: "12647463"
 slug: "the-beta-band-12647463"
+hideSummary: true
 cover:
     image: "the-beta-band-12647463.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "The Beta Band by The Beta Band"
+    caption: "The Beta Band by The Beta Band"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="shIRuXRPKBA" title="The Beta Band - The Beta Band (Full Album)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Beta Band - The Beta Band](https://www.discogs.com/release/12647463) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Beta Band - The Beta Band](https://www.discogs.com/release/12647463-The-Beta-Band-The-Beta-Band) |
 | Label          | Because Music, Because Music, Because Music, Because Music |
 | Format         | 2xLP, Album, RE + LP, Album + 2xCD, Album |
 | Catalog Number | BEC5543698, BEC1149, BEC1148, BEC5543699 |
+
+Anniversary Edition Includes unreleased album 'The Hut / Happiness & Colour' + CDs 
 

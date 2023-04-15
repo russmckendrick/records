@@ -1,14 +1,17 @@
 ---
 title: "Handsome Boy Modeling School - So... How's Your Girl?"
-album_artist: "Handsome Boy Modeling School"
-album_title: "So... How's Your Girl?"
+artist: "Handsome Boy Modeling School"
+album_name: "So... How's Your Girl?"
 date: 2022-04-24
 release_id: "22981736"
 slug: "so-how-s-your-girl-22981736"
+hideSummary: true
 cover:
     image: "so-how-s-your-girl-22981736.jpg"
-tags: ["Electronic", "Hip Hop", "Rock"]
-hideSummary: true
+    alt: "So... How's Your Girl? by Handsome Boy Modeling School"
+    caption: "So... How's Your Girl? by Handsome Boy Modeling School"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Handsome Boy Modeling School - Megaton B Boy 2000](https://www.youtube.com/watch?v=3eYvNUcPy50)
 - [Handsome Boy Modeling School - Father Speaks](https://www.youtube.com/watch?v=1FzcDfY_kLg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Handsome Boy Modeling School - So... How's Your Girl?](https://www.discogs.com/release/22981736) |
+| Release Year   | 2022 |
+| Discogs Link   | [Handsome Boy Modeling School - So... How's Your Girl?](https://www.discogs.com/release/22981736-Handsome-Boy-Modeling-School-So-Hows-Your-Girl) |
 | Label          | Tommy Boy |
 | Format         | 2xLP, Album, RSD, RE |
 | Catalog Number | TB-1258-1 |
+
+Record Store Day "RSD First" release, part of the April 23rd drop.  Tracks numbered sequentially on release.  Made In Canada
 

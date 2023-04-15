@@ -1,14 +1,17 @@
 ---
 title: "Belle & Sebastian - If You're Feeling Sinister"
-album_artist: "Belle & Sebastian"
-album_title: "If You're Feeling Sinister"
+artist: "Belle & Sebastian"
+album_name: "If You're Feeling Sinister"
 date: 2017-04-25
 release_id: "6242307"
 slug: "if-you-re-feeling-sinister-6242307"
+hideSummary: true
 cover:
     image: "if-you-re-feeling-sinister-6242307.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "If You're Feeling Sinister by Belle & Sebastian"
+    caption: "If You're Feeling Sinister by Belle & Sebastian"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Belle & Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/6242307) |
+| Release Year   | 2014 |
+| Discogs Link   | [Belle & Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/6242307-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |
 | Label          | Jeepster Recordings |
 | Format         | LP, Album, RE |
 | Catalog Number | JPRLP001 |
+
+Gatefold sleeve  Reissue with an alternative code etched into the matrix. Made in EU. Includes free download of entire album. Includes a PVC protective outer sleeve. Includes obi.
 

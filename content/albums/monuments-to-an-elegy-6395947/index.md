@@ -1,14 +1,17 @@
 ---
 title: "The Smashing Pumpkins - Monuments To An Elegy"
-album_artist: "The Smashing Pumpkins"
-album_title: "Monuments To An Elegy"
+artist: "The Smashing Pumpkins"
+album_name: "Monuments To An Elegy"
 date: 2015-08-09
 release_id: "6395947"
 slug: "monuments-to-an-elegy-6395947"
+hideSummary: true
 cover:
     image: "monuments-to-an-elegy-6395947.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Monuments To An Elegy by The Smashing Pumpkins"
+    caption: "Monuments To An Elegy by The Smashing Pumpkins"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -22,16 +25,17 @@ hideSummary: true
 8. Dorian (3:45)
 9. Anti-Hero (3:20)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [The Smashing Pumpkins - Monuments To An Elegy](https://www.discogs.com/release/6395947) |
+| Release Year   | 2014 |
+| Discogs Link   | [The Smashing Pumpkins - Monuments To An Elegy](https://www.discogs.com/release/6395947-The-Smashing-Pumpkins-Monuments-To-An-Elegy) |
 | Label          | BMG, Martha's Music |
 | Format         | LP, Album, Gat |
 | Catalog Number | 81012276-1 |
+
+Released in gatefold sleeve with download code. 180 gram vinyl.
 

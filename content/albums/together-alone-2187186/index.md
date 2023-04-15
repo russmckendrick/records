@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - Together Alone"
-album_artist: "Crowded House"
-album_title: "Together Alone"
+artist: "Crowded House"
+album_name: "Together Alone"
 date: 2015-09-10
 release_id: "2187186"
 slug: "together-alone-2187186"
+hideSummary: true
 cover:
     image: "together-alone-2187186.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Together Alone by Crowded House"
+    caption: "Together Alone by Crowded House"
+genres: ["Rock"]
+styles: ["Soft Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Crowded House - Nails In My Feet](https://www.youtube.com/watch?v=dqxobKeH4Zs)
 - [Crowded House - Fingers of Love](https://www.youtube.com/watch?v=iLFpWo3i6VY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1993 |
-| Discogs Link   | [Crowded House - Together Alone](https://www.discogs.com/release/2187186) |
+| Release Year   | 1993 |
+| Discogs Link   | [Crowded House - Together Alone](https://www.discogs.com/release/2187186-Crowded-House-Together-Alone) |
 | Label          | Capitol Records, Capitol Records |
 | Format         | LP, Album |
 | Catalog Number | ESTU 2215, 7243 8 27048 1 2 |
+
+Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London  Printed in U.K.  Published by Roundhead Music (BMI), except: A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI) B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP 
 

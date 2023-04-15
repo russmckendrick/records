@@ -1,14 +1,17 @@
 ---
 title: "Maggie Bell - Queen Of The Night"
-album_artist: "Maggie Bell"
-album_title: "Queen Of The Night"
+artist: "Maggie Bell"
+album_name: "Queen Of The Night"
 date: 2015-10-02
 release_id: "2386688"
 slug: "queen-of-the-night-2386688"
+hideSummary: true
 cover:
     image: "queen-of-the-night-2386688.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Queen Of The Night by Maggie Bell"
+    caption: "Queen Of The Night by Maggie Bell"
+genres: ["Rock", "Pop"]
+styles: ["Blues Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Maggie Bell - A Woman Left Lonely](https://www.youtube.com/watch?v=q8Em1G6Fl1U)
 - [As the Years Go Passing By- Maggie Bell (HQ)](https://www.youtube.com/watch?v=vDidE0uVpjA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1974 |
-| Discogs Link   | [Maggie Bell - Queen Of The Night](https://www.discogs.com/release/2386688) |
+| Release Year   | 1974 |
+| Discogs Link   | [Maggie Bell - Queen Of The Night](https://www.discogs.com/release/2386688-Maggie-Bell-Queen-Of-The-Night) |
 | Label          | Polydor |
 | Format         | LP, Album |
 | Catalog Number | 2383 239 |
+
+On the sleeve: 2383 239 SUPER (Polydor logo) Marketed by Polydor Limited Also available on Musicassette 3170 125 and 8 Track Cartridge 3820 080 A (Colourme Gone logo) Product Sleeve printed and made in England by MacNeill Press., London, SE1   On the labels: Polydor Stereo 2383239 Made in England ℗ 1974 Polydor Int. Track A1 has been misspelt as "Cado Queen"
 

@@ -1,14 +1,17 @@
 ---
 title: "Björk - Utopia"
-album_artist: "Björk"
-album_title: "Utopia"
+artist: "Björk"
+album_name: "Utopia"
 date: 2018-01-06
 release_id: "11154874"
 slug: "utopia-11154874"
+hideSummary: true
 cover:
     image: "utopia-11154874.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Utopia by Björk"
+    caption: "Utopia by Björk"
+genres: ["Electronic", "Pop"]
+styles: ["Experimental", "Vocal", "Ambient"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Saint](https://www.youtube.com/watch?v=QUrRyQPFayk)
 - [Future Forever](https://www.youtube.com/watch?v=NOISUWq603c)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Björk - Utopia](https://www.discogs.com/release/11154874) |
+| Release Year   | 2017 |
+| Discogs Link   | [Björk - Utopia](https://www.discogs.com/release/11154874-Bj%C3%B6rk-Utopia) |
 | Label          | One Little Indian |
 | Format         | 2xLP, Album, Ltd, Pea |
 | Catalog Number | tplp1381ltd |
+
+Rough Trade Exclusive Limited Edition in double peach coloured vinyl. Limited to 5000 copies. Glossy gatefold sleeve with print on the inside and lyrics inner sleeves. _______________  from the sleeve and inner sleeves:  Published by Kobalt Music Publishing Ltd., except A1, A3, C4, D2, D5: published by Kobalt Music Publishing Ltd./EMI April Music Inc (ASCAP); D4: Kobalt Music Publishing Ltd./Copyright Control (APRA)  Original recording on D4: [https://www.discogs.com/Various-Gravikords-Whirlies-Pyrophones-Experimental-Musical-Instruments/release/626936]'Kindred Spirits, Music For Harmonic Whirlies'[/url] composed, performed and recorded by Sarah Hopkins © 1996 Sarah Hopkins APRA  Original recording on C3: ['Mo-mo'](https://www.discogs.com/composition/5d704410-2096-4829-8486-76210ec7b3be-Mo-Mo) track recorded in the village of Damaindeh-Bau, Finisterre Range, Papua New Guinea, taken from the album ['Sacred Flute Music From New Guinea: Madang/Windim Mabu'](https://www.discogs.com/release/8302925) by Ragnar Johnson & Jessica Mayer © 2016 soma024, courtesy of [l243287]/[l61632]  Various bird song samples used by kind permission of Jean C. Roché from his recordings ['Oiseau du (Birds of) Venezuala'](https://www.discogs.com/Jean-C-Roch%C3%A9-Oiseaux-Du-Birds-Of-V%C3%A9n%C3%A9zu%C3%A9la/master/1179475)  Various Icelandic field recordings by Chris Watson  Thanks to [a391] and [a214033] for their help with sourcing and clearing samples  Thanks to [a2365659] @ [l1012]  p/c 2017 One Little Indian Ltd / Wellhart Ltd The copyright in this sound recordings is owned by One Little Indian Records All rights reserved
 

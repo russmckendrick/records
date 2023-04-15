@@ -1,14 +1,17 @@
 ---
 title: "Mike & The Mechanics - Mike + The Mechanics"
-album_artist: "Mike & The Mechanics"
-album_title: "Mike + The Mechanics"
+artist: "Mike & The Mechanics"
+album_name: "Mike + The Mechanics"
 date: 2016-01-20
 release_id: "1134097"
 slug: "mike-the-mechanics-1134097"
+hideSummary: true
 cover:
     image: "mike-the-mechanics-1134097.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Mike + The Mechanics by Mike & The Mechanics"
+    caption: "Mike + The Mechanics by Mike & The Mechanics"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Mike + The Mechanics - Taken In (Official Video)](https://www.youtube.com/watch?v=8toBVYDKukU)
 - [Mike + The Mechanics - Mike + The Mechanics (Full Album 1985)](https://www.youtube.com/watch?v=dOtfmYM_GOs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Mike & The Mechanics - Mike + The Mechanics](https://www.discogs.com/release/1134097) |
+| Release Year   | 1985 |
+| Discogs Link   | [Mike & The Mechanics - Mike + The Mechanics](https://www.discogs.com/release/1134097-Mike-The-Mechanics-Mike-The-Mechanics) |
 | Label          | WEA |
 | Format         | LP, Album |
 | Catalog Number | 252 496-1 |
+
+Recorded at Air Studios Montserrat, Air London and The Farm.  ⓟ&© 1985 WEA International Inc.
 

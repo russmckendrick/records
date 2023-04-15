@@ -1,14 +1,17 @@
 ---
 title: "Steven Wilson - 4½"
-album_artist: "Steven Wilson"
-album_title: "4½"
+artist: "Steven Wilson"
+album_name: "4½"
 date: 2016-01-22
 release_id: "8005929"
 slug: "4-8005929"
+hideSummary: true
 cover:
     image: "4-8005929.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "4½ by Steven Wilson"
+    caption: "4½ by Steven Wilson"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [Steven Wilson - Happiness III](https://www.youtube.com/watch?v=HsMDnAdHT1I)
 - [Steven Wilson   Don't Hate Me 4 ½ 2016](https://www.youtube.com/watch?v=gn8qvgUeSmQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Steven Wilson - 4½](https://www.discogs.com/release/8005929) |
+| Release Year   | 2016 |
+| Discogs Link   | [Steven Wilson - 4½](https://www.discogs.com/release/8005929-Steven-Wilson-4%C2%BD) |
 | Label          | Kscope |
 | Format         | LP, MiniAlbum |
 | Catalog Number | KSCOPE917 |
+
+Front cover is die-cut, showing parts of the printed inner sleeve. 180g heavyweight vinyl Includes mp3 & FLAC download codes, and a 4-page Kscope merchandise insert.  Some copies were sold with an art print of the album cover, exclusive to German web shop JPC.de  "My Book of Regrets" partly written in late 2013, finished June 2015. Main backing track taken from a concert in Montreal on 28th June 2015, additional recording at No Man's Land. "Year of the Plague" written and recorded during sessions for [m=526509], 2012-13. Additional recording and mix October 2015. "Happiness III" written in 2003. Recorded during sessions for [m=802691] at Air Studio London, September 2014. "Sunday Rain Sets In" recorded during [m=802691] sessions, 2014. Drums recorded at East West, Los Angeles. Piano recorded at Spin Studios, New York. "Vermillioncore" partly written in late 2013, finished June 2015. Recorded in October 2015. Drums recorded at Outhouse Studio. "Don't Hate Me" originally written in 1998 and recorded by [a5105] on the album [m=63503]. Main backing track for this version taken from a concert in Europe September 2015, additional recording at No Man's Land.  ℗ 2016 Steven Wilson  © 2016 Steven Wilson  Made in Germany
 

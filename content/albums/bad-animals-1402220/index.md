@@ -1,14 +1,17 @@
 ---
 title: "Heart - Bad Animals"
-album_artist: "Heart"
-album_title: "Bad Animals"
+artist: "Heart"
+album_name: "Bad Animals"
 date: 2015-10-14
 release_id: "1402220"
 slug: "bad-animals-1402220"
+hideSummary: true
 cover:
     image: "bad-animals-1402220.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bad Animals by Heart"
+    caption: "Bad Animals by Heart"
+genres: ["Rock"]
+styles: ["AOR", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Heart - Who Will You Run To?](https://www.youtube.com/watch?v=fM44F-M78Vs)
 - [Heart - Alone](https://www.youtube.com/watch?v=1Cw1ng75KP0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Heart - Bad Animals](https://www.discogs.com/release/1402220) |
+| Release Year   | 1987 |
+| Discogs Link   | [Heart - Bad Animals](https://www.discogs.com/release/1402220-Heart-Bad-Animals) |
 | Label          | Capitol Records, Capitol Records |
 | Format         | LP, Album |
 | Catalog Number | ESTU 2032, 24 0766 1 |
+
+Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom.
 

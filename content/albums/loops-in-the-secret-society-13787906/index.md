@@ -1,14 +1,17 @@
 ---
 title: "Jane Weaver - Loops In The Secret Society"
-album_artist: "Jane Weaver"
-album_title: "Loops In The Secret Society"
+artist: "Jane Weaver"
+album_name: "Loops In The Secret Society"
 date: 2019-06-21
 release_id: "13787906"
 slug: "loops-in-the-secret-society-13787906"
+hideSummary: true
 cover:
     image: "loops-in-the-secret-society-13787906.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Loops In The Secret Society by Jane Weaver"
+    caption: "Loops In The Secret Society by Jane Weaver"
+genres: ["Electronic", "Pop"]
+styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ---
 
 ## Tracklisting
@@ -49,13 +52,16 @@ hideSummary: true
 - [Majic Milk (Loops Variation)](https://www.youtube.com/watch?v=pFhCwUdCf6g)
 - [Jane Weaver new album . Loops In The Secret Society / 2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Jane Weaver - Loops In The Secret Society](https://www.discogs.com/release/13787906) |
+| Release Year   | 2019 |
+| Discogs Link   | [Jane Weaver - Loops In The Secret Society](https://www.discogs.com/release/13787906-Jane-Weaver-Loops-In-The-Secret-Society) |
 | Label          | Fire Records |
 | Format         | 2xLP, Album, Dlx |
 | Catalog Number | FIRELP538 |
+
+Deluxe Double Gatefold Vinyl Plus High Quality Download
 

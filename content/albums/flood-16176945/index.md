@@ -1,14 +1,17 @@
 ---
 title: "They Might Be Giants - Flood"
-album_artist: "They Might Be Giants"
-album_title: "Flood"
+artist: "They Might Be Giants"
+album_name: "Flood"
 date: 2020-11-13
 release_id: "16176945"
 slug: "flood-16176945"
+hideSummary: true
 cover:
     image: "flood-16176945.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flood by They Might Be Giants"
+    caption: "Flood by They Might Be Giants"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -54,13 +57,16 @@ hideSummary: true
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/16176945) |
+| Release Year   | 2020 |
+| Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/16176945-They-Might-Be-Giants-Flood) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, Tur |
 | Catalog Number | MOVLP1239 |
+
+Hype sticker: Limited numbered edition of 2,500 copies on icy mint coloured vinyl 180 gram audiophile vinyl  Gatefold sleeve. Poly-lined die-cut white paper inner sleeve.  Made in the EU.
 

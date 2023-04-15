@@ -1,14 +1,17 @@
 ---
 title: "Hooverphonic - The Best Of Hooverphonic"
-album_artist: "Hooverphonic"
-album_title: "The Best Of Hooverphonic"
+artist: "Hooverphonic"
+album_name: "The Best Of Hooverphonic"
 date: 2021-06-29
 release_id: "18295270"
 slug: "the-best-of-hooverphonic-18295270"
+hideSummary: true
 cover:
     image: "the-best-of-hooverphonic-18295270.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "The Best Of Hooverphonic by Hooverphonic"
+    caption: "The Best Of Hooverphonic by Hooverphonic"
+genres: ["Electronic", "Pop"]
+styles: ["Europop", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Hooverphonic - 2 Wicky (Official Video)](https://www.youtube.com/watch?v=dppcuKJrqbE)
 - [Hooverphonic - You (Still Video)](https://www.youtube.com/watch?v=wplXFoN_RQg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Hooverphonic - The Best Of Hooverphonic](https://www.discogs.com/release/18295270) |
+| Release Year   | 2021 |
+| Discogs Link   | [Hooverphonic - The Best Of Hooverphonic](https://www.discogs.com/release/18295270-Hooverphonic-The-Best-Of-Hooverphonic) |
 | Label          | Music On Vinyl, Columbia, Sony Music |
 | Format         | 3xLP, Comp, RE |
 | Catalog Number | MOVLP2638 |
+
+180gr audiophile vinyl 
 

@@ -1,14 +1,17 @@
 ---
 title: "ZZ Top - Eliminator"
-album_artist: "ZZ Top"
-album_title: "Eliminator"
+artist: "ZZ Top"
+album_name: "Eliminator"
 date: 2020-08-01
 release_id: "15620215"
 slug: "eliminator-15620215"
+hideSummary: true
 cover:
     image: "eliminator-15620215.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Eliminator by ZZ Top"
+    caption: "Eliminator by ZZ Top"
+genres: ["Rock", "Blues"]
+styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -51,13 +54,16 @@ hideSummary: true
 - [Bad Girl (2008 Remaster)](https://www.youtube.com/watch?v=xQ9mozbgHDE)
 - [ZZ Top – TV Dinners](https://www.youtube.com/watch?v=8Hw8awUO4rs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1983 |
-| Discogs Link   | [ZZ Top - Eliminator](https://www.discogs.com/release/15620215) |
+| Release Year   | 1983 |
+| Discogs Link   | [ZZ Top - Eliminator](https://www.discogs.com/release/15620215-ZZ-Top-Eliminator) |
 | Label          | Warner Bros. Records |
 | Format         | LP, Album |
 | Catalog Number | 92-3774-1 |
+
+©  ℗ 1983 Warner Bros. Records Inc.  Bob Ludwig Credited on packaging as "Engineer".   
 

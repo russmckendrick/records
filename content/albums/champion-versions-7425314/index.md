@@ -1,14 +1,17 @@
 ---
 title: "The Beta Band - Champion Versions"
-album_artist: "The Beta Band"
-album_title: "Champion Versions"
+artist: "The Beta Band"
+album_name: "Champion Versions"
 date: 2016-02-29
 release_id: "7425314"
 slug: "champion-versions-7425314"
+hideSummary: true
 cover:
     image: "champion-versions-7425314.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Champion Versions by The Beta Band"
+    caption: "Champion Versions by The Beta Band"
+genres: ["Electronic", "Rock"]
+styles: ["Folk Rock", "Trip Hop", "Experimental"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 - [The Beta Band - 02 I know](https://www.youtube.com/watch?v=1Hg_R8ZRDmo)
 - [The Beta Band - 04 Dogs got a bone](https://www.youtube.com/watch?v=NuuZ-1Nb-fI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Beta Band - Champion Versions](https://www.discogs.com/release/7425314) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Beta Band - Champion Versions](https://www.discogs.com/release/7425314-The-Beta-Band-Champion-Versions) |
 | Label          | Regal |
 | Format         | 12\", EP, RP, 180 |
 | Catalog Number | REGS 16 |
+
+180 gram pressing, includes MP3 download voucher.  Printed on spine: The Pigeons  ℗1997 Parlophone Records Ltd. ©2013 Parlophone Records Ltd. Made in EU.
 

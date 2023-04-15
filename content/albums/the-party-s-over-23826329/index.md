@@ -1,14 +1,17 @@
 ---
 title: "Talk Talk - The Party's Over"
-album_artist: "Talk Talk"
-album_title: "The Party's Over"
+artist: "Talk Talk"
+album_name: "The Party's Over"
 date: 2022-07-15
 release_id: "23826329"
 slug: "the-party-s-over-23826329"
+hideSummary: true
 cover:
     image: "the-party-s-over-23826329.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Party's Over by Talk Talk"
+    caption: "The Party's Over by Talk Talk"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
 - [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/23826329) |
+| Release Year   | 2022 |
+| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/23826329-Talk-Talk-The-Partys-Over) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, Whi |
 | Catalog Number | 0190296419638 |
+
+Textured outer sleeve. On spine: Talk Talk - The Party's Over - 0190295792626 On back cover : 0190295792626 Stereo ℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Stickered barcode 0 190296 419638 on the printed barcode without number on right low 
 

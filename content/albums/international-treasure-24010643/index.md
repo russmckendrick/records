@@ -1,14 +1,17 @@
 ---
 title: "The Utopia Strong - International Treasure"
-album_artist: "The Utopia Strong"
-album_title: "International Treasure"
+artist: "The Utopia Strong"
+album_name: "International Treasure"
 date: 2022-08-01
 release_id: "24010643"
 slug: "international-treasure-24010643"
+hideSummary: true
 cover:
     image: "international-treasure-24010643.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "International Treasure by The Utopia Strong"
+    caption: "International Treasure by The Utopia Strong"
+genres: ["Electronic", "Rock"]
+styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [The Utopia Strong – Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
 - [The Utopia Strong – Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Utopia Strong - International Treasure](https://www.discogs.com/release/24010643) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Utopia Strong - International Treasure](https://www.discogs.com/release/24010643-The-Utopia-Strong-International-Treasure) |
 | Label          | Rocket Recordings |
 | Format         | LP, Album, Ltd, Yel |
 | Catalog Number | LAUNCH265S |
+
+Indies Only Citrine Yellow Vinyl limited to 700 copies
 

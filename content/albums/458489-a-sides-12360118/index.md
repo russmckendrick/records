@@ -1,14 +1,17 @@
 ---
 title: "The Fall - 458489 A Sides"
-album_artist: "The Fall"
-album_title: "458489 A Sides"
+artist: "The Fall"
+album_name: "458489 A Sides"
 date: 2018-08-11
 release_id: "12360118"
 slug: "458489-a-sides-12360118"
+hideSummary: true
 cover:
     image: "458489-a-sides-12360118.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "458489 A Sides by The Fall"
+    caption: "458489 A Sides by The Fall"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="KPr2ENnp_GI" title="The Fall Hey! Luciani" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [The Fall - 458489 A Sides](https://www.discogs.com/release/12360118) |
+| Release Year   | 2018 |
+| Discogs Link   | [The Fall - 458489 A Sides](https://www.discogs.com/release/12360118-The-Fall-458489-A-Sides) |
 | Label          | Beggars Banquet |
 | Format         | LP, Comp, RE, Whi |
 | Catalog Number | BBQLP 111 |
+
+From sticker: First Ever US Pressing White Vinyl Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"  
 

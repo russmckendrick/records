@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Liquidizer"
-album_artist: "Jesus Jones"
-album_title: "Liquidizer"
+artist: "Jesus Jones"
+album_name: "Liquidizer"
 date: 2022-11-03
 release_id: "25037398"
 slug: "liquidizer-25037398"
+hideSummary: true
 cover:
     image: "liquidizer-25037398.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Liquidizer by Jesus Jones"
+    caption: "Liquidizer by Jesus Jones"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [One For The Money](https://www.youtube.com/watch?v=JUIO1Q8a2tA)
 - [Someone To Blame](https://www.youtube.com/watch?v=njmTNKyqBSA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Liquidizer](https://www.discogs.com/release/25037398) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Liquidizer](https://www.discogs.com/release/25037398-Jesus-Jones-Liquidizer) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Tra |
 | Catalog Number | DEMREC952 |
+
+  
 

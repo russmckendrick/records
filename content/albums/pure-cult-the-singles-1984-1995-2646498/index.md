@@ -1,14 +1,17 @@
 ---
 title: "The Cult - Pure Cult The Singles 1984 - 1995"
-album_artist: "The Cult"
-album_title: "Pure Cult The Singles 1984 - 1995"
+artist: "The Cult"
+album_name: "Pure Cult The Singles 1984 - 1995"
 date: 2017-02-02
 release_id: "2646498"
 slug: "pure-cult-the-singles-1984-1995-2646498"
+hideSummary: true
 cover:
     image: "pure-cult-the-singles-1984-1995-2646498.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Pure Cult The Singles 1984 - 1995 by The Cult"
+    caption: "Pure Cult The Singles 1984 - 1995 by The Cult"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Wild Hearted Son (edit)](https://www.youtube.com/watch?v=RW_E6GdDW5o)
 - [Sweet Soul Sister (Edit)](https://www.youtube.com/watch?v=hcxZ8tytOgA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [The Cult - Pure Cult The Singles 1984 - 1995](https://www.discogs.com/release/2646498) |
+| Release Year   | 2011 |
+| Discogs Link   | [The Cult - Pure Cult The Singles 1984 - 1995](https://www.discogs.com/release/2646498-The-Cult-Pure-Cult-The-Singles-1984-1995) |
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Comp, RE, RM, Gat |
 | Catalog Number | BBQLP 2026 |
+
+© 2010 Beggars Banquet
 

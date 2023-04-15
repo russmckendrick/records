@@ -1,14 +1,17 @@
 ---
 title: "Joe Walsh - You Can't Argue With A Sick Mind"
-album_artist: "Joe Walsh"
-album_title: "You Can't Argue With A Sick Mind"
+artist: "Joe Walsh"
+album_name: "You Can't Argue With A Sick Mind"
 date: 2020-08-02
 release_id: "4953542"
 slug: "you-can-t-argue-with-a-sick-mind-4953542"
+hideSummary: true
 cover:
     image: "you-can-t-argue-with-a-sick-mind-4953542.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "You Can't Argue With A Sick Mind by Joe Walsh"
+    caption: "You Can't Argue With A Sick Mind by Joe Walsh"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Meadows (Live)](https://www.youtube.com/watch?v=D6a4RY76V0g)
 - [Turn To Stone](https://www.youtube.com/watch?v=piWs3y443-A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 0 |
-| Discogs Link   | [Joe Walsh - You Can't Argue With A Sick Mind](https://www.discogs.com/release/4953542) |
+| Release Year   | 0 |
+| Discogs Link   | [Joe Walsh - You Can't Argue With A Sick Mind](https://www.discogs.com/release/4953542-Joe-Walsh-You-Cant-Argue-With-A-Sick-Mind) |
 | Label          | MCA Records |
 | Format         | LP, Album, RE |
 | Catalog Number | MCL-1613 |
+
+Originally released 1976
 

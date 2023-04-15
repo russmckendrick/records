@@ -1,14 +1,17 @@
 ---
 title: "The Time - The Time"
-album_artist: "The Time"
-album_title: "The Time"
+artist: "The Time"
+album_name: "The Time"
 date: 2021-07-16
 release_id: "19505374"
 slug: "the-time-19505374"
+hideSummary: true
 cover:
     image: "the-time-19505374.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Time by The Time"
+    caption: "The Time by The Time"
+genres: ["Funk / Soul"]
+styles: ["Minneapolis Sound", "Funk"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Oh, Baby](https://www.youtube.com/watch?v=5oiBHTCsAZI)
 - [The Stick](https://www.youtube.com/watch?v=8MKBkG55xi4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Time - The Time](https://www.discogs.com/release/19505374) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Time - The Time](https://www.discogs.com/release/19505374-The-Time-The-Time) |
 | Label          | Warner Records, Rhino Records (2) |
 | Format         | Comp, Ltd + LP, Album, RE, RM, Red + LP, Comp, RM, |
 | Catalog Number | 603497843954, RCV1 654316 |
+
+Hype sticker: The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides Limited edition red and white vinyl  Optional: Copies sold in Italy have a holographic SIAE sticker from 'Warner music'  Cover: This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.  LP1: Red vinyl in plain white poly-lined inner-sleeve LP2: White vinyl in plain black poly-lined inner-sleeve
 

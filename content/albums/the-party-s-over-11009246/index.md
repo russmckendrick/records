@@ -1,14 +1,17 @@
 ---
 title: "Talk Talk - The Party's Over"
-album_artist: "Talk Talk"
-album_title: "The Party's Over"
+artist: "Talk Talk"
+album_name: "The Party's Over"
 date: 2017-11-04
 release_id: "11009246"
 slug: "the-party-s-over-11009246"
+hideSummary: true
 cover:
     image: "the-party-s-over-11009246.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "The Party's Over by Talk Talk"
+    caption: "The Party's Over by Talk Talk"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
 - [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/11009246) |
+| Release Year   | 2017 |
+| Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/11009246-Talk-Talk-The-Partys-Over) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE |
 | Catalog Number | 0190295792626 |
+
+Textured outer sleeve.   
 

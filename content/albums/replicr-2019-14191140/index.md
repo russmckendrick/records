@@ -1,14 +1,17 @@
 ---
 title: "65daysofstatic - replicr, 2019"
-album_artist: "65daysofstatic"
-album_title: "replicr, 2019"
+artist: "65daysofstatic"
+album_name: "replicr, 2019"
 date: 2019-09-28
 release_id: "14191140"
 slug: "replicr-2019-14191140"
+hideSummary: true
 cover:
     image: "replicr-2019-14191140.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "replicr, 2019 by 65daysofstatic"
+    caption: "replicr, 2019 by 65daysofstatic"
+genres: ["Electronic", "Rock"]
+styles: ["Noise", "Experimental", "Ambient"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [65daysofstatic | Trackerplatz (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=l73eDjbpPzA)
 - [65daysofstatic | Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [65daysofstatic - replicr, 2019](https://www.discogs.com/release/14191140) |
+| Release Year   | 2019 |
+| Discogs Link   | [65daysofstatic - replicr, 2019](https://www.discogs.com/release/14191140-65daysofstatic-replicr-2019) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album + CD, Album |
 | Catalog Number | SBMLP 046, 19075972601 |
+
+
 

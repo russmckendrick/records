@@ -1,14 +1,17 @@
 ---
 title: "Ride - Weather Diaries"
-album_artist: "Ride"
-album_title: "Weather Diaries"
+artist: "Ride"
+album_name: "Weather Diaries"
 date: 2017-06-16
 release_id: "10435669"
 slug: "weather-diaries-10435669"
+hideSummary: true
 cover:
     image: "weather-diaries-10435669.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Weather Diaries by Ride"
+    caption: "Weather Diaries by Ride"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="A5xwjWbBbzo" title="Ride - Home Is A Feeling (OFFICIAL AUDIO)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Ride - Weather Diaries](https://www.discogs.com/release/10435669) |
+| Release Year   | 2017 |
+| Discogs Link   | [Ride - Weather Diaries](https://www.discogs.com/release/10435669-Ride-Weather-Diaries) |
 | Label          | Wichita |
 | Format         | 2xLP, Album, Ltd, Cle |
 | Catalog Number | WEBB510LP |
+
+Limited Edition Double Clear Vinyl with Embossed Gatefold Sleeve exclusive to independent record stores only.   Download card included. A few signed copies sold in selected record stores.  Pressing plant uncredited, derived from matrix info.
 

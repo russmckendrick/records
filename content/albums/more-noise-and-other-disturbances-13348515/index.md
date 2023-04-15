@@ -1,14 +1,17 @@
 ---
 title: "The Mighty Mighty BossToneS - More Noise And Other Disturbances"
-album_artist: "The Mighty Mighty BossToneS"
-album_title: "More Noise And Other Disturbances"
+artist: "The Mighty Mighty BossToneS"
+album_name: "More Noise And Other Disturbances"
 date: 2020-08-14
 release_id: "13348515"
 slug: "more-noise-and-other-disturbances-13348515"
+hideSummary: true
 cover:
     image: "more-noise-and-other-disturbances-13348515.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "More Noise And Other Disturbances by The Mighty Mighty BossToneS"
+    caption: "More Noise And Other Disturbances by The Mighty Mighty BossToneS"
+genres: ["Rock"]
+styles: ["Ska", "Punk"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Awfully Quiet](https://www.youtube.com/watch?v=fB33d-Htc6k)
 - [Dr. D](https://www.youtube.com/watch?v=gyDDt7YnKEI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The Mighty Mighty BossToneS - More Noise And Other Disturbances](https://www.discogs.com/release/13348515) |
+| Release Year   | 2019 |
+| Discogs Link   | [The Mighty Mighty BossToneS - More Noise And Other Disturbances](https://www.discogs.com/release/13348515-The-Mighty-Mighty-BossToneS-More-Noise-And-Other-Disturbances) |
 | Label          | Taang! Records |
 | Format         | LP, Album, RE, RP, Red |
 | Catalog Number | TAANG! 60 |
+
+
 

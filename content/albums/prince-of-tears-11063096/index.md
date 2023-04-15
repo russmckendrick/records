@@ -1,14 +1,17 @@
 ---
 title: "Baxter Dury - Prince Of Tears"
-album_artist: "Baxter Dury"
-album_title: "Prince Of Tears"
+artist: "Baxter Dury"
+album_name: "Prince Of Tears"
 date: 2017-10-28
 release_id: "11063096"
 slug: "prince-of-tears-11063096"
+hideSummary: true
 cover:
     image: "prince-of-tears-11063096.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Prince Of Tears by Baxter Dury"
+    caption: "Prince Of Tears by Baxter Dury"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Baxter Dury - Wanna](https://www.youtube.com/watch?v=Lp57mSug63c)
 - [Baxter Dury - Prince Of Tears](https://www.youtube.com/watch?v=zPpaKK4XK74)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Baxter Dury - Prince Of Tears](https://www.discogs.com/release/11063096) |
+| Release Year   | 2017 |
+| Discogs Link   | [Baxter Dury - Prince Of Tears](https://www.discogs.com/release/11063096-Baxter-Dury-Prince-Of-Tears) |
 | Label          | [PIAS] Le Label, Heavenly |
 | Format         | LP, Album |
 | Catalog Number | PIASL101LP, 962.A191.010 |
+
+
 

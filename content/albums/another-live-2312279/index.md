@@ -1,14 +1,17 @@
 ---
 title: "Utopia (5) - Another Live"
-album_artist: "Utopia (5)"
-album_title: "Another Live"
+artist: "Utopia (5)"
+album_name: "Another Live"
 date: 2022-03-06
 release_id: "2312279"
 slug: "another-live-2312279"
+hideSummary: true
 cover:
     image: "another-live-2312279.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Another Live by Utopia (5)"
+    caption: "Another Live by Utopia (5)"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 - [Todd Rundgren's Utopia -  Do Ya](https://www.youtube.com/watch?v=KvhMTCIvpfQ)
 - [Todd Rundgren's Utopia - The Wheel - from  Another Live - vinyl LP](https://www.youtube.com/watch?v=VVLtB2m5bfw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1975 |
-| Discogs Link   | [Utopia (5) - Another Live](https://www.discogs.com/release/2312279) |
+| Release Year   | 1975 |
+| Discogs Link   | [Utopia (5) - Another Live](https://www.discogs.com/release/2312279-Todd-Rundgrens-Utopia-Another-Live) |
 | Label          | Bearsville, Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K 55508, BR 6961 |
+
+Unique Artwork. Includes insert with lyrics and credits.  Recorded live: August 1975.  Very similar to [r20758009], but with different label text / publishers.
 

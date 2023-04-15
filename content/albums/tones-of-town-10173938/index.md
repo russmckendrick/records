@@ -1,14 +1,17 @@
 ---
 title: "Field Music - Tones Of Town"
-album_artist: "Field Music"
-album_title: "Tones Of Town"
+artist: "Field Music"
+album_name: "Tones Of Town"
 date: 2017-05-20
 release_id: "10173938"
 slug: "tones-of-town-10173938"
+hideSummary: true
 cover:
     image: "tones-of-town-10173938.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tones Of Town by Field Music"
+    caption: "Tones Of Town by Field Music"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="DBqx9Tpmj-U" title="Field Music - In Context" >}}
 - [Field Music - Tones of Town](https://www.youtube.com/watch?v=nYzlSJKboio)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Field Music - Tones Of Town](https://www.discogs.com/release/10173938) |
+| Release Year   | 2017 |
+| Discogs Link   | [Field Music - Tones Of Town](https://www.discogs.com/release/10173938-Field-Music-Tones-Of-Town) |
 | Label          | Memphis Industries |
 | Format         | LP, Album, Ltd, RE, Yel |
 | Catalog Number | MI074LPX |
+
+Released for Record Store Day 2017.  Back on LP for the first time since its original pressing in 2007, on limited edition of 650 on  180g yellow vinyl.  Includes download code.  Recorded at Eight Music Studio / Sunderland. Mastered at Alchemy.  Published by Chrysalis Music. ℗ + © Memphis Industries Ltd 2006.
 

@@ -1,14 +1,17 @@
 ---
 title: "Voice Of The Beehive - Let It Bee"
-album_artist: "Voice Of The Beehive"
-album_title: "Let It Bee"
+artist: "Voice Of The Beehive"
+album_name: "Let It Bee"
 date: 2020-07-08
 release_id: "14144170"
 slug: "let-it-bee-14144170"
+hideSummary: true
 cover:
     image: "let-it-bee-14144170.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Let It Bee by Voice Of The Beehive"
+    caption: "Let It Bee by Voice Of The Beehive"
+genres: ["Rock"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Voice Of The Beehive - Sorrow Floats](https://www.youtube.com/watch?v=H3nWNxFoz-w)
 - [Voice Of The Beehive - What You Have Is Enough](https://www.youtube.com/watch?v=Kd7ae8oqkd4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/14144170) |
+| Release Year   | 1988 |
+| Discogs Link   | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/14144170-Voice-Of-The-Beehive-Let-It-Bee) |
 | Label          | London Records |
 | Format         | LP, Album |
 | Catalog Number | LONLP 57 |
+
+
 

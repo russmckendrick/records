@@ -1,14 +1,17 @@
 ---
 title: "Massive Attack V Mad Professor - No Protection"
-album_artist: "Massive Attack V Mad Professor"
-album_title: "No Protection"
+artist: "Massive Attack V Mad Professor"
+album_name: "No Protection"
 date: 2017-04-29
 release_id: "9442827"
 slug: "no-protection-9442827"
+hideSummary: true
 cover:
     image: "no-protection-9442827.jpg"
-tags: ["Electronic", "Reggae"]
-hideSummary: true
+    alt: "No Protection by Massive Attack V Mad Professor"
+    caption: "No Protection by Massive Attack V Mad Professor"
+genres: ["Electronic", "Reggae"]
+styles: ["Downtempo", "Dub", "Trip Hop"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [I Spy (Spying Glass)](https://www.youtube.com/watch?v=PLvFCRzL79Y)
 - [Backward Sucking (Heat Miser)](https://www.youtube.com/watch?v=xxRnd7kkIJ4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Massive Attack V Mad Professor - No Protection](https://www.discogs.com/release/9442827) |
+| Release Year   | 2016 |
+| Discogs Link   | [Massive Attack V Mad Professor - No Protection](https://www.discogs.com/release/9442827-Massive-Attack-V-Mad-Professor-No-Protection) |
 | Label          | Virgin, Virgin |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 5700963, 00602557009637 |
+
+A Mad Professor dub version of Massive Attack's [ "Protection"](http://www.discogs.com/Massive-Attack-Protection/master/32634) album.   ℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Track duration not mentioned on record/sleeve.  Includes a download card for the album on l[ossless digital WAV/PCM files](https://www.discogs.com/release/9665728). 
 

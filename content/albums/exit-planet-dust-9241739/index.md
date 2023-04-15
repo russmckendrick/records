@@ -1,14 +1,17 @@
 ---
 title: "The Chemical Brothers - Exit Planet Dust"
-album_artist: "The Chemical Brothers"
-album_title: "Exit Planet Dust"
+artist: "The Chemical Brothers"
+album_name: "Exit Planet Dust"
 date: 2018-06-13
 release_id: "9241739"
 slug: "exit-planet-dust-9241739"
+hideSummary: true
 cover:
     image: "exit-planet-dust-9241739.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Exit Planet Dust by The Chemical Brothers"
+    caption: "Exit Planet Dust by The Chemical Brothers"
+genres: ["Electronic"]
+styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Playground For A Wedgeless Firm](https://www.youtube.com/watch?v=vaYgOV1urpQ)
 - [Alive Alone](https://www.youtube.com/watch?v=q9rrZzrgA2I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Chemical Brothers - Exit Planet Dust](https://www.discogs.com/release/9241739) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Chemical Brothers - Exit Planet Dust](https://www.discogs.com/release/9241739-The-Chemical-Brothers-Exit-Planet-Dust) |
 | Label          | Freestyle Dust, Junior Boy's Own, Virgin |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | XDUSTLP1, 7243 8 40540 1 4 |
+
+Color printed glossy inner sleeves. Printed in UK.  On the back of the sleeve: Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands  
 

@@ -1,14 +1,17 @@
 ---
 title: "Spiritualized - Let It Come Down"
-album_artist: "Spiritualized"
-album_title: "Let It Come Down"
+artist: "Spiritualized"
+album_name: "Let It Come Down"
 date: 2021-10-28
 release_id: "20556940"
 slug: "let-it-come-down-20556940"
+hideSummary: true
 cover:
     image: "let-it-come-down-20556940.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Let It Come Down by Spiritualized"
+    caption: "Let It Come Down by Spiritualized"
+genres: ["Electronic", "Rock"]
+styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [On Fire](https://www.youtube.com/watch?v=IYhI-KHoCb0)
 - [The Twelve Steps](https://www.youtube.com/watch?v=dRNyQ3I7ous)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Spiritualized - Let It Come Down](https://www.discogs.com/release/20556940) |
+| Release Year   | 2021 |
+| Discogs Link   | [Spiritualized - Let It Come Down](https://www.discogs.com/release/20556940-Spiritualized-Let-It-Come-Down) |
 | Label          | Fat Possum Records |
 | Format         | 2xLP, Album, RE, S/Edition, Ivo |
 | Catalog Number | FP1754-3 |
+
+Label for Side C erroneously lists Won't Get To Heaven (The State I'm In) as the fourth track, but it is actually the first track for Side D.
 

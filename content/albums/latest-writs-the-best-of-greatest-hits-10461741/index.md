@@ -1,14 +1,17 @@
 ---
 title: "The Pretty Things - Latest Writs The Best Of... Greatest Hits"
-album_artist: "The Pretty Things"
-album_title: "Latest Writs The Best Of... Greatest Hits"
+artist: "The Pretty Things"
+album_name: "Latest Writs The Best Of... Greatest Hits"
 date: 2018-12-22
 release_id: "10461741"
 slug: "latest-writs-the-best-of-greatest-hits-10461741"
+hideSummary: true
 cover:
     image: "latest-writs-the-best-of-greatest-hits-10461741.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Latest Writs The Best Of... Greatest Hits by The Pretty Things"
+    caption: "Latest Writs The Best Of... Greatest Hits by The Pretty Things"
+genres: ["Rock"]
+styles: ["Classic Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Tripping (3:26)
 13. Cries From The Midnight Circus (6:29)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741-Pretty-Things-Latest-Writs-The-Best-Of-Greatest-Hits) |
 | Label          | Madfish |
 | Format         | LP, Comp, Ltd, Tur |
 | Catalog Number | SMALP 1085 |
+
+℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.   
 

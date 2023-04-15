@@ -1,14 +1,17 @@
 ---
 title: "Frank Turner - Songbook"
-album_artist: "Frank Turner"
-album_title: "Songbook"
+artist: "Frank Turner"
+album_name: "Songbook"
 date: 2017-12-27
 release_id: "11275632"
 slug: "songbook-11275632"
+hideSummary: true
 cover:
     image: "songbook-11275632.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Songbook by Frank Turner"
+    caption: "Songbook by Frank Turner"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -42,16 +45,17 @@ hideSummary: true
 28. Long Live The Queen (3:42)
 29. The Ballad Of Me And My Friends (3:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Frank Turner - Songbook](https://www.discogs.com/release/11275632) |
+| Release Year   | 2017 |
+| Discogs Link   | [Frank Turner - Songbook](https://www.discogs.com/release/11275632-Frank-Turner-Songbook) |
 | Label          | Xtra Mile Recordings, Polydor |
 | Format         | 3xLP, Comp |
 | Catalog Number | 6700056 |
+
+ 
 

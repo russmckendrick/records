@@ -1,14 +1,17 @@
 ---
 title: "The Rolling Stones - The Rolling Stones In Mono"
-album_artist: "The Rolling Stones"
-album_title: "The Rolling Stones In Mono"
+artist: "The Rolling Stones"
+album_name: "The Rolling Stones In Mono"
 date: 2017-01-13
 release_id: "9147559"
 slug: "the-rolling-stones-in-mono-9147559"
+hideSummary: true
 cover:
     image: "the-rolling-stones-in-mono-9147559.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Rolling Stones In Mono by The Rolling Stones"
+    caption: "The Rolling Stones In Mono by The Rolling Stones"
+genres: ["Rock"]
+styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -214,16 +217,17 @@ hideSummary: true
 200. Honky Tonk Women
 201. You Can't Always Get What You Want (Single Version)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Rolling Stones - The Rolling Stones In Mono](https://www.discogs.com/release/9147559) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Rolling Stones - The Rolling Stones In Mono](https://www.discogs.com/release/9147559-The-Rolling-Stones-The-Rolling-Stones-In-Mono) |
 | Label          | ABKCO |
 | Format         | Box, Comp, Ltd, Num + LP, Album, Mono, RE, RM + LP |
 | Catalog Number | 018771834519 |
+
+Made in The Czech Republic (on box and covers). Made in the EU (on record labels). 10,000 numbered copies.  Includes download code for 160 kbit/s MP3 files of all tracks.  'Stray Cats' is a double LP exclusive to this box set containing all non-lp tracks released in the 1960s.  Includes a 48 page booklet with photos and an essay by David Fricke.  All runouts are laser etched.
 

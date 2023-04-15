@@ -1,14 +1,17 @@
 ---
 title: "Charles Bradley Featuring Menahan Street Band - Black Velvet"
-album_artist: "Charles Bradley Featuring Menahan Street Band"
-album_title: "Black Velvet"
+artist: "Charles Bradley Featuring Menahan Street Band"
+album_name: "Black Velvet"
 date: 2018-11-09
 release_id: "12768110"
 slug: "black-velvet-12768110"
+hideSummary: true
 cover:
     image: "black-velvet-12768110.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Black Velvet by Charles Bradley Featuring Menahan Street Band"
+    caption: "Black Velvet by Charles Bradley Featuring Menahan Street Band"
+genres: ["Funk / Soul"]
+styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Charles Bradley - Fly Little Girl (Official Audio)](https://www.youtube.com/watch?v=TkhAaPCApYE)
 - [Charles Bradley - Victim of Love [Electric Version] (Official Audio)](https://www.youtube.com/watch?v=EAjDOIGXBxE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Charles Bradley Featuring Menahan Street Band - Black Velvet](https://www.discogs.com/release/12768110) |
+| Release Year   | 2018 |
+| Discogs Link   | [Charles Bradley Featuring Menahan Street Band - Black Velvet](https://www.discogs.com/release/12768110-Charles-Bradley-Featuring-The-Menahan-Street-Band-Black-Velvet) |
 | Label          | Dunham |
 | Format         | LP, Album, Ltd, Pur |
 | Catalog Number | DUN 1007 |
+
+Daptone authorized dealer exclusive limited color vinyl. Includes MP3 download Card. Barcode only present on front sticker.
 

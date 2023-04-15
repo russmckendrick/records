@@ -1,14 +1,17 @@
 ---
 title: "New Order - Get Ready"
-album_artist: "New Order"
-album_title: "Get Ready"
+artist: "New Order"
+album_name: "Get Ready"
 date: 2015-10-04
 release_id: "7515768"
 slug: "get-ready-7515768"
+hideSummary: true
 cover:
     image: "get-ready-7515768.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Get Ready by New Order"
+    caption: "Get Ready by New Order"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 {{< youtube id="KVMyXDsadLQ" title="New Order - Crystal (Official Music Video)" >}}
 - [New Order  - 60 Miles An Hour (Official Music Video)](https://www.youtube.com/watch?v=yNF-MJv7bzo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [New Order - Get Ready](https://www.discogs.com/release/7515768) |
+| Release Year   | 2015 |
+| Discogs Link   | [New Order - Get Ready](https://www.discogs.com/release/7515768-New-Order-Get-Ready) |
 | Label          | Rhino Records (2) |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0825646071043 |
+
+On back cover: Produced [...] for 140db except 07 [...], mixed [...] for 140db except 01, 07 and 09 [...], 07 additional production and mix [...] for 140db, mixed at Pulse Studio Ireland [...]. Studio assistants: Marco Migliari at Real World, Tom Hannen at Sarm Hook End and Bruno Ellingham at Rockfield.  In memory of [a236150].   Credited as "with thanks to Coco", the cover model is German actress [a547235].   Printed inner sleeve Incl. download coupon for mp3 version of this album  ℗ & © 2015 Warner Records 90 Ltd.    Tracks are numbered sequentially on release.  The [US version](https://www.discogs.com/New-Order-Get-Ready/release/7628447) came without Vinyl Collector sticker and download coupon.
 

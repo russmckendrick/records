@@ -1,14 +1,17 @@
 ---
 title: "Marillion - Holidays In Eden (Deluxe Edition)"
-album_artist: "Marillion"
-album_title: "Holidays In Eden (Deluxe Edition)"
+artist: "Marillion"
+album_name: "Holidays In Eden (Deluxe Edition)"
 date: 2022-09-20
 release_id: "24521231"
 slug: "holidays-in-eden-deluxe-edition-24521231"
+hideSummary: true
 cover:
     image: "holidays-in-eden-deluxe-edition-24521231.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Holidays In Eden (Deluxe Edition) by Marillion"
+    caption: "Holidays In Eden (Deluxe Edition) by Marillion"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Marillion - Eric (Holidays in Eden Disc 2).wmv](https://www.youtube.com/watch?v=id4Ao00Njbk)
 - [Holidays in Eden (1998 Remaster)](https://www.youtube.com/watch?v=9eUBLgCnEEA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Marillion - Holidays In Eden (Deluxe Edition)](https://www.discogs.com/release/24521231) |
+| Release Year   | 2022 |
+| Discogs Link   | [Marillion - Holidays In Eden (Deluxe Edition)](https://www.discogs.com/release/24521231-Marillion-Holidays-In-Eden-Deluxe-Edition) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, Rem + 3xLP, Album + Box, Comp, Dlx, |
 | Catalog Number | 0190296609190 |
+
+When preordered on the band's website the release includes an A4 artwork print which is signed by the band.  4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.  ℗ 2022 this compilation Parlophone Records Ltd.  © 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2022 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany
 

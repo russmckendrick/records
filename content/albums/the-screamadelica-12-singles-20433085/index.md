@@ -1,14 +1,17 @@
 ---
 title: "Primal Scream - The Screamadelica 12\" Singles"
-album_artist: "Primal Scream"
-album_title: "The Screamadelica 12\" Singles"
+artist: "Primal Scream"
+album_name: "The Screamadelica 12\" Singles"
 date: 2021-11-07
 release_id: "20433085"
 slug: "the-screamadelica-12-singles-20433085"
+hideSummary: true
 cover:
     image: "the-screamadelica-12-singles-20433085.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul"]
-hideSummary: true
+    alt: "The Screamadelica 12\" Singles by Primal Scream"
+    caption: "The Screamadelica 12\" Singles by Primal Scream"
+genres: ["Electronic", "Rock", "Funk / Soul"]
+styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -70,13 +73,16 @@ hideSummary: true
 - [Primal Scream - Shine Like Stars (Andrew Weatherall Remix - Official Visualiser)](https://www.youtube.com/watch?v=eo61_ibHeaQ)
 - [Shine Like Stars (Instrumental)](https://www.youtube.com/watch?v=3DvlsOxq21w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Primal Scream - The Screamadelica 12\" Singles](https://www.discogs.com/release/20433085) |
+| Release Year   | 2021 |
+| Discogs Link   | [Primal Scream - The Screamadelica 12\" Singles](https://www.discogs.com/release/20433085-Primal-Scream-The-Screamadelica-12-Singles) |
 | Label          | Sony Music |
 | Format         | 12\", EP, RE, 180 + 12\", EP, RE, 180 + 12\", Single, |
 | Catalog Number | 19439904541 |
+
+Includes download code and 3 Paul Carnell art prints.  A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets.  Some others are packaged upside down and the back cover is attached to the front side of the box.
 

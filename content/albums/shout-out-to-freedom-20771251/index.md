@@ -1,14 +1,17 @@
 ---
 title: "Nightmares On Wax - Shout Out! To Freedom..."
-album_artist: "Nightmares On Wax"
-album_title: "Shout Out! To Freedom..."
+artist: "Nightmares On Wax"
+album_name: "Shout Out! To Freedom..."
 date: 2021-10-30
 release_id: "20771251"
 slug: "shout-out-to-freedom-20771251"
+hideSummary: true
 cover:
     image: "shout-out-to-freedom-20771251.jpg"
-tags: ["Electronic", "Hip Hop"]
-hideSummary: true
+    alt: "Shout Out! To Freedom... by Nightmares On Wax"
+    caption: "Shout Out! To Freedom... by Nightmares On Wax"
+genres: ["Electronic", "Hip Hop"]
+styles: ["Downtempo", "Trip Hop"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Trillion](https://www.youtube.com/watch?v=-LFcxMIatJM)
 - [Up To Us](https://www.youtube.com/watch?v=xh80UIthNws)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Nightmares On Wax - Shout Out! To Freedom...](https://www.discogs.com/release/20771251) |
+| Release Year   | 2021 |
+| Discogs Link   | [Nightmares On Wax - Shout Out! To Freedom...](https://www.discogs.com/release/20771251-Nightmares-On-Wax-Shout-Out-To-Freedom) |
 | Label          | Warp Records |
 | Format         | 2xLP, Album, Blu |
 | Catalog Number | WARPLP321B |
+
+Made in EU  A4. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK], bass and keys recorded at ATA studios, Leeds. C2. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK] D2. Mara TK recorded and engineered at College of Creative Arts, Massey University, Wellington [NZ]  Management assistant by Eram Butt at ENDLESSLOVESHOW  250 copies ordered from the official N.O.W. store (Bleep.com) included an exclusive print (see the final picture in the images here). This print was advertised/sold as being autographed by George Evelyn, however an email was sent the day before album's release (11/28/2021) stating that the print was not able to be signed.
 

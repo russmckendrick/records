@@ -1,14 +1,17 @@
 ---
 title: "Church Of The Cosmic Skull - Science Fiction"
-album_artist: "Church Of The Cosmic Skull"
-album_title: "Science Fiction"
+artist: "Church Of The Cosmic Skull"
+album_name: "Science Fiction"
 date: 2018-07-21
 release_id: "12281880"
 slug: "science-fiction-12281880"
+hideSummary: true
 cover:
     image: "science-fiction-12281880.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Science Fiction by Church Of The Cosmic Skull"
+    caption: "Science Fiction by Church Of The Cosmic Skull"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)](https://www.youtube.com/watch?v=Al1ammaaqqs)
 - [Church of the Cosmic Skull - Science Fiction](https://www.youtube.com/watch?v=hdXffwZGg1Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Church Of The Cosmic Skull - Science Fiction](https://www.discogs.com/release/12281880) |
+| Release Year   | 2018 |
+| Discogs Link   | [Church Of The Cosmic Skull - Science Fiction](https://www.discogs.com/release/12281880-Church-Of-The-Cosmic-Skull-Science-Fiction) |
 | Label          | Kozmik Artifactz |
 | Format         | LP, Album, Ltd, Cle |
 | Catalog Number | ARTIFACT 45 |
+
+Comes in gatefold sleeve Limited to 300 copies, Clear/white blob, Mother's Milk Edition
 

@@ -1,14 +1,17 @@
 ---
 title: "Paul Simon - The Ultimate Collection"
-album_artist: "Paul Simon"
-album_title: "The Ultimate Collection"
+artist: "Paul Simon"
+album_name: "The Ultimate Collection"
 date: 2015-08-09
 release_id: "6978849"
 slug: "the-ultimate-collection-6978849"
+hideSummary: true
 cover:
     image: "the-ultimate-collection-6978849.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Ultimate Collection by Paul Simon"
+    caption: "The Ultimate Collection by Paul Simon"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="gpRU0Cp2gxA" title="Paul Simon - The Ultimate Collection | Trailer" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Paul Simon - The Ultimate Collection](https://www.discogs.com/release/6978849) |
+| Release Year   | 2015 |
+| Discogs Link   | [Paul Simon - The Ultimate Collection](https://www.discogs.com/release/6978849-Paul-Simon-The-Ultimate-Collection) |
 | Label          | Sony Music |
 | Format         | 2xLP, Comp, 180 |
 | Catalog Number | 88875085521 |
+
+℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved. Distributed by Sony Music Entertainment. Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. Made in the EU.  Gatefold cover. Includes an eight page lyric booklet.
 

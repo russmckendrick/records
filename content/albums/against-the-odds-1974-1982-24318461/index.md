@@ -1,14 +1,17 @@
 ---
 title: "Blondie - Against The Odds 1974-1982"
-album_artist: "Blondie"
-album_title: "Against The Odds 1974-1982"
+artist: "Blondie"
+album_name: "Against The Odds 1974-1982"
 date: 2022-12-04
 release_id: "24318461"
 slug: "against-the-odds-1974-1982-24318461"
+hideSummary: true
 cover:
     image: "against-the-odds-1974-1982-24318461.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Against The Odds 1974-1982 by Blondie"
+    caption: "Against The Odds 1974-1982 by Blondie"
+genres: ["Rock", "Pop"]
+styles: ["Power Pop", "Punk", "New Wave"]
 ---
 
 ## Tracklisting
@@ -181,13 +184,16 @@ hideSummary: true
 - [Call Me (Chris Stein Mix)](https://www.youtube.com/watch?v=CKShGxho-oA)
 - [Detroit 442 (Take 2)](https://www.youtube.com/watch?v=ugtslWVQ-g8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Blondie - Against The Odds 1974-1982](https://www.discogs.com/release/24318461) |
+| Release Year   | 2022 |
+| Discogs Link   | [Blondie - Against The Odds 1974-1982](https://www.discogs.com/release/24318461-Blondie-Against-The-Odds-1974-1982) |
 | Label          | UMC, Numero Group, Chrysalis |
 | Format         | Box, Comp, Dlx, Ltd, Sup + LP, Album, RE, RM + LP, |
 | Catalog Number | 00602508760693, 070 |
+
+Includes the first 6 studio albums plus 4 LPs, a 10" and a 7" with unreleased and rare material, a 144 page hardcover book and a 120 page photographic discography book.  Comes in a carton box which can be unfolded as a standup (Debbie Harry with Andy Warhol shirt)
 

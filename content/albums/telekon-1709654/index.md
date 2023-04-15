@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - Telekon"
-album_artist: "Gary Numan"
-album_title: "Telekon"
+artist: "Gary Numan"
+album_name: "Telekon"
 date: 2015-12-30
 release_id: "1709654"
 slug: "telekon-1709654"
+hideSummary: true
 cover:
     image: "telekon-1709654.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Telekon by Gary Numan"
+    caption: "Telekon by Gary Numan"
+genres: ["Electronic"]
+styles: ["New Wave", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Gary Numan - Telekon](https://www.discogs.com/release/1709654) |
+| Release Year   | 1980 |
+| Discogs Link   | [Gary Numan - Telekon](https://www.discogs.com/release/1709654-Gary-Numan-Telekon) |
 | Label          | Beggars Banquet, Beggars Banquet |
 | Format         | LP, Album, WEA + 7\", Single, Ltd |
 | Catalog Number | BEGA 19, K 58189 |
+
+Some early pressings have a glossy inner sleeve with 9 inch cut-out and rounded corners.  Later pressings have a square inner sleeve in matt finish with no cut-out.  Both versions included an A4 sized official merchandise insert.  A version exists of [r47028] here without the free single.  (P) 1980 Beggars Banquet
 

@@ -1,14 +1,17 @@
 ---
 title: "Sarah Blasko - Eternal Return"
-album_artist: "Sarah Blasko"
-album_title: "Eternal Return"
+artist: "Sarah Blasko"
+album_name: "Eternal Return"
 date: 2016-08-23
 release_id: "7904854"
 slug: "eternal-return-7904854"
+hideSummary: true
 cover:
     image: "eternal-return-7904854.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Eternal Return by Sarah Blasko"
+    caption: "Eternal Return by Sarah Blasko"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Sarah Blasko - I'd Be Lost (live on triple j)](https://www.youtube.com/watch?v=IX88hAbW_2w)
 - [#796 Sarah Blasko - I'd Be Lost](https://www.youtube.com/watch?v=RKofArVQ0y0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Sarah Blasko - Eternal Return](https://www.discogs.com/release/7904854) |
+| Release Year   | 2015 |
+| Discogs Link   | [Sarah Blasko - Eternal Return](https://www.discogs.com/release/7904854-Sarah-Blasko-Eternal-Return) |
 | Label          | Universal Music, EMI |
 | Format         | LP, Album |
 | Catalog Number | 4755574 |
+
+Single sleeve with printed inner sleeve containing lyrics and album credits. Includes a download code.  ℗ & © 2015 Sarah Blasko, under exclusive licence to Universal Music Australia Pty Ltd. Manufactured and distributed by Universal Music Australia Pty Ltd  All songs written by Sarah Blasko (Sony/ATV Music Publishing) with Ben Fletcher (Control), David Hunt (Control), Nick Wales (Control), Laurence Pike (Control), Burke Reid (Control).  Produced & engineered at The Grove Studios.
 

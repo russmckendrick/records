@@ -1,14 +1,17 @@
 ---
 title: "Wilco - Ode To Joy"
-album_artist: "Wilco"
-album_title: "Ode To Joy"
+artist: "Wilco"
+album_name: "Ode To Joy"
 date: 2019-10-05
 release_id: "14212648"
 slug: "ode-to-joy-14212648"
+hideSummary: true
 cover:
     image: "ode-to-joy-14212648.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Ode To Joy by Wilco"
+    caption: "Ode To Joy by Wilco"
+genres: ["Rock", "Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="P2Gbbd6pVMg" title="Wilco Everyone Hides (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Wilco - Ode To Joy](https://www.discogs.com/release/14212648) |
+| Release Year   | 2019 |
+| Discogs Link   | [Wilco - Ode To Joy](https://www.discogs.com/release/14212648-Wilco-Ode-To-Joy) |
 | Label          | dBpm Records |
 | Format         | LP, Album, Ltd, Pin |
 | Catalog Number | DBPM-010-20-LP |
+
+Includes a printed insert. Tracks are continuously numbered across sides.  ℗ © 2019 dBpm Records.  Recorded at The Loft - Chicago  All songs [...] published by Words Ampersand Music (BMI). Administered worldwide by BMG Rights Management.
 

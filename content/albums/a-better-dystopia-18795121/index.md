@@ -1,14 +1,17 @@
 ---
 title: "Monster Magnet - A Better Dystopia"
-album_artist: "Monster Magnet"
-album_title: "A Better Dystopia"
+artist: "Monster Magnet"
+album_name: "A Better Dystopia"
 date: 2021-05-25
 release_id: "18795121"
 slug: "a-better-dystopia-18795121"
+hideSummary: true
 cover:
     image: "a-better-dystopia-18795121.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Better Dystopia by Monster Magnet"
+    caption: "A Better Dystopia by Monster Magnet"
+genres: ["Rock"]
+styles: ["Stoner Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Learning to Die](https://www.youtube.com/watch?v=bEZZdpQjJnA)
 - [Welcome to the Void (Bonus Track)](https://www.youtube.com/watch?v=GzAXSIiGy-w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Monster Magnet - A Better Dystopia](https://www.discogs.com/release/18795121) |
+| Release Year   | 2021 |
+| Discogs Link   | [Monster Magnet - A Better Dystopia](https://www.discogs.com/release/18795121-Monster-Magnet-A-Better-Dystopia) |
 | Label          | Napalm Records |
 | Format         | LP + LP, S/Sided, Etch + Album, Ltd |
 | Catalog Number | NPR916VINYL |
+
+Double black vinyl in gatefold sleeve. Etching on side D.  Produced and mixed summer / fall 2020.  Strictly limited edition.  Made in Germany.
 

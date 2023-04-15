@@ -1,14 +1,17 @@
 ---
 title: "Anathema - Distant Satellites"
-album_artist: "Anathema"
-album_title: "Distant Satellites"
+artist: "Anathema"
+album_name: "Distant Satellites"
 date: 2015-09-21
 release_id: "5766148"
 slug: "distant-satellites-5766148"
+hideSummary: true
 cover:
     image: "distant-satellites-5766148.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Distant Satellites by Anathema"
+    caption: "Distant Satellites by Anathema"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Anathema - The Making of the 'Distant Satellites' (clip) (from the Special Edition documentary)](https://www.youtube.com/watch?v=MsgFPDZKU3M)
 - [The Lost Song, Part 2 - Anathema](https://www.youtube.com/watch?v=2zgkx9FEWow)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Anathema - Distant Satellites](https://www.discogs.com/release/5766148) |
+| Release Year   | 2014 |
+| Discogs Link   | [Anathema - Distant Satellites](https://www.discogs.com/release/5766148-Anathema-Distant-Satellites) |
 | Label          | Kscope |
 | Format         | 2xLP, Album |
 | Catalog Number | KSCOPE866 |
+
+Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet. 
 

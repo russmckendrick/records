@@ -1,14 +1,17 @@
 ---
 title: "Cobalt Chapel - Orange Synthetic"
-album_artist: "Cobalt Chapel"
-album_title: "Orange Synthetic"
+artist: "Cobalt Chapel"
+album_name: "Orange Synthetic"
 date: 2021-02-28
 release_id: "17164159"
 slug: "orange-synthetic-17164159"
+hideSummary: true
 cover:
     image: "orange-synthetic-17164159.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Orange Synthetic by Cobalt Chapel"
+    caption: "Orange Synthetic by Cobalt Chapel"
+genres: ["Electronic", "Rock"]
+styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
 - [It's The End, The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Cobalt Chapel - Orange Synthetic](https://www.discogs.com/release/17164159) |
+| Release Year   | 2021 |
+| Discogs Link   | [Cobalt Chapel - Orange Synthetic](https://www.discogs.com/release/17164159-Cobalt-Chapel-Orange-Synthetic) |
 | Label          | Klove |
 | Format         | LP, Album, Ltd, Ora |
 | Catalog Number | KLOVE 2VA |
+
+Some copies signed by artists. Includes insert.
 

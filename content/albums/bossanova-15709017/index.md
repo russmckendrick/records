@@ -1,14 +1,17 @@
 ---
 title: "Pixies - Bossanova"
-album_artist: "Pixies"
-album_title: "Bossanova"
+artist: "Pixies"
+album_name: "Bossanova"
 date: 2020-08-07
 release_id: "15709017"
 slug: "bossanova-15709017"
+hideSummary: true
 cover:
     image: "bossanova-15709017.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bossanova by Pixies"
+    caption: "Bossanova by Pixies"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Ana](https://www.youtube.com/watch?v=jYJG9g47J4Y)
 - [Rock Music](https://www.youtube.com/watch?v=vDVpJIidloc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Pixies - Bossanova](https://www.discogs.com/release/15709017) |
+| Release Year   | 2020 |
+| Discogs Link   | [Pixies - Bossanova](https://www.discogs.com/release/15709017-Pixies-Bossanova) |
 | Label          | 4AD, 4AD |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 4AD 0265 LPX, 4AD0265LPX |
+
+30th Anniversary Limited Red Vinyl Edition includes Original Booklet.  The booklet previously only available in the UK release.
 

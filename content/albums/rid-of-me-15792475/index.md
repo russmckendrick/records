@@ -1,14 +1,17 @@
 ---
 title: "PJ Harvey - Rid Of Me"
-album_artist: "PJ Harvey"
-album_title: "Rid Of Me"
+artist: "PJ Harvey"
+album_name: "Rid Of Me"
 date: 2020-08-25
 release_id: "15792475"
 slug: "rid-of-me-15792475"
+hideSummary: true
 cover:
     image: "rid-of-me-15792475.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Rid Of Me by PJ Harvey"
+    caption: "Rid Of Me by PJ Harvey"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [Snake](https://www.youtube.com/watch?v=aAIntnlrvfE)
 - [Ecstasy](https://www.youtube.com/watch?v=m0O2GvTa3Vk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [PJ Harvey - Rid Of Me](https://www.discogs.com/release/15792475) |
+| Release Year   | 2020 |
+| Discogs Link   | [PJ Harvey - Rid Of Me](https://www.discogs.com/release/15792475-P-J-Harvey-Rid-Of-Me) |
 | Label          | Island Records, Island Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0851112, 00602508511127 |
+
+Hype sticker, catalog number 0851112, affixed to shrinkwrap on some copies: Re-issue of the original 1993 album Rid Of Me, featuring the singles 50ft Queenie and Man-Size Pressed on 180gsm vinyl Includes download card  Issued on blue Island labels with yellow logo. Issued with a printed inner sleeve.  First catalog # (0851112) on jacket spine, labels, inner sleeve. Second catalog # (00602508511127) on jacket back, label rimtext.  Track A4 on label: "Rub 'Till It Bleeds" Track B2 on label: "50 Ft Queenie"  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd.  A Universal Music Company. Universal International Music. B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.  Made in Germany  Vinyl cutting [...] at Chicago Mastering Service.  Tracks A1 to A6, B2 to B8 published by Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP). Track B1 published by Special Rider Music.  Some copies include download card, in 16bit / 44.1KHz WAV format.
 

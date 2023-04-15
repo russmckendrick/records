@@ -1,14 +1,17 @@
 ---
 title: "Skunk Anansie - Paranoid & Sunburnt"
-album_artist: "Skunk Anansie"
-album_title: "Paranoid & Sunburnt"
+artist: "Skunk Anansie"
+album_name: "Paranoid & Sunburnt"
 date: 2018-08-29
 release_id: "3270870"
 slug: "paranoid-sunburnt-3270870"
+hideSummary: true
 cover:
     image: "paranoid-sunburnt-3270870.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Paranoid & Sunburnt by Skunk Anansie"
+    caption: "Paranoid & Sunburnt by Skunk Anansie"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Funk Metal"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Skunk Anansie - Weak](https://www.youtube.com/watch?v=nPglNjxVHiM)
 - [Skunk Anansie ‎– I Can Dream](https://www.youtube.com/watch?v=6bD4IanUhYs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2008 |
-| Discogs Link   | [Skunk Anansie - Paranoid & Sunburnt](https://www.discogs.com/release/3270870) |
+| Release Year   | 2008 |
+| Discogs Link   | [Skunk Anansie - Paranoid & Sunburnt](https://www.discogs.com/release/3270870-Skunk-Anansie-Paranoid-Sunburnt) |
 | Label          | One Little Indian |
 | Format         | 2xLP, Ltd, Num, RE, RM, 200 |
 | Catalog Number | TPLP55DMM |
+
+Huge round sticker on front that states the following: One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available. All original artwork used, may not represent new side splits.
 

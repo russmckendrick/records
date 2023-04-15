@@ -1,14 +1,17 @@
 ---
 title: "Soul Asylum (2) - Grave Dancers Union"
-album_artist: "Soul Asylum (2)"
-album_title: "Grave Dancers Union"
+artist: "Soul Asylum (2)"
+album_name: "Grave Dancers Union"
 date: 2017-01-30
 release_id: "7068256"
 slug: "grave-dancers-union-7068256"
+hideSummary: true
 cover:
     image: "grave-dancers-union-7068256.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Grave Dancers Union by Soul Asylum (2)"
+    caption: "Grave Dancers Union by Soul Asylum (2)"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [99%](https://www.youtube.com/watch?v=OrGtWLrMTxQ)
 - [The Sun Maid](https://www.youtube.com/watch?v=x025XOmFg5A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Soul Asylum (2) - Grave Dancers Union](https://www.discogs.com/release/7068256) |
+| Release Year   | 2015 |
+| Discogs Link   | [Soul Asylum (2) - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-Grave-Dancers-Union) |
 | Label          | Columbia, Music On Vinyl |
 | Format         | LP, Album, RE |
 | Catalog Number | MOVLP1368 |
+
+180 gram audiophile vinyl, including insert
 

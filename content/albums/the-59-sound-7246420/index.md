@@ -1,14 +1,17 @@
 ---
 title: "The Gaslight Anthem - The '59 Sound"
-album_artist: "The Gaslight Anthem"
-album_title: "The '59 Sound"
+artist: "The Gaslight Anthem"
+album_name: "The '59 Sound"
 date: 2015-08-09
 release_id: "7246420"
 slug: "the-59-sound-7246420"
+hideSummary: true
 cover:
     image: "the-59-sound-7246420.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The '59 Sound by The Gaslight Anthem"
+    caption: "The '59 Sound by The Gaslight Anthem"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Punk"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Here's Lookin At You, Kid](https://www.youtube.com/watch?v=ISIgklSoPbE)
 - [The Backseat](https://www.youtube.com/watch?v=yEWdR50C8dM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Gaslight Anthem - The '59 Sound](https://www.discogs.com/release/7246420) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Gaslight Anthem - The '59 Sound](https://www.discogs.com/release/7246420-The-Gaslight-Anthem-The-59-Sound) |
 | Label          | SideOneDummy Records, SideOneDummy Records |
 | Format         | LP, Ltd, RE, Blu |
 | Catalog Number | SD1358-1, SD1358-2 |
+
+© & ℗ SideOneDummy Records. Made in USA. Catalog # SD1358-1 appears on spine, Catalog # SD-1358-2 appears on front cover  Gatefold Sleeve / Tracks listed sequentially as they do appear on the backside of the record's jacket  Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".  In memory of Zach Finch, John Soyack an Travis Connor.
 

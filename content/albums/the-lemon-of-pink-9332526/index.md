@@ -1,14 +1,17 @@
 ---
 title: "The Books - The Lemon Of Pink"
-album_artist: "The Books"
-album_title: "The Lemon Of Pink"
+artist: "The Books"
+album_name: "The Lemon Of Pink"
 date: 2016-11-17
 release_id: "9332526"
 slug: "the-lemon-of-pink-9332526"
+hideSummary: true
 cover:
     image: "the-lemon-of-pink-9332526.jpg"
-tags: ["Electronic", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Lemon Of Pink by The Books"
+    caption: "The Lemon Of Pink by The Books"
+genres: ["Electronic", "Folk, World, & Country"]
+styles: ["Abstract", "Leftfield", "Experimental"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [The Books - A True Story of a Story of True Love - The Lemon of Pink](https://www.youtube.com/watch?v=Ku-g3LiBxmg)
 - [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Books - The Lemon Of Pink](https://www.discogs.com/release/9332526) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Books - The Lemon Of Pink](https://www.discogs.com/release/9332526-The-Books-The-Lemon-Of-Pink) |
 | Label          | Temporary Residence Limited |
 | Format         | LP, Album, Club, Ltd, RE, RM, Yel |
 | Catalog Number | TRR181-VMP |
+
+'Vinyl Me, Please' record club exclusive. Record of the month for November 2016:  Lemon-colored vinyl with hot pink splatter. Full-color gatefold, die-cut jacket featuring all new album art with metallic inks and foil stamping. 16-page full-color, full-sized booklet featuring all new artwork, extensive liner notes written by nick zammuto, including track-by-track commentary. Full album digital download card.
 

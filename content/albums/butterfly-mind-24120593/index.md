@@ -1,14 +1,17 @@
 ---
 title: "Tim Bowness - Butterfly Mind"
-album_artist: "Tim Bowness"
-album_title: "Butterfly Mind"
+artist: "Tim Bowness"
+album_name: "Butterfly Mind"
 date: 2022-08-07
 release_id: "24120593"
 slug: "butterfly-mind-24120593"
+hideSummary: true
 cover:
     image: "butterfly-mind-24120593.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Butterfly Mind by Tim Bowness"
+    caption: "Butterfly Mind by Tim Bowness"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 {{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)" >}}
 - [TIM BOWNESS - Glitter Fades (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=3cwUBwOOloE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Tim Bowness - Butterfly Mind](https://www.discogs.com/release/24120593) |
+| Release Year   | 2022 |
+| Discogs Link   | [Tim Bowness - Butterfly Mind](https://www.discogs.com/release/24120593-Tim-Bowness-Butterfly-Mind) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Album, Gre + CD, Album + Ltd, Num |
 | Catalog Number | IOM633, 19439973791 |
+
+Limited to 600 copies. Hand numbered on back of vinyl sleeve. This version exclusive to burningshed.com Pre-Orders from Burning Shed came with a signed postcard and fridge magnet.  Presented in a Die-cut sleeve. Track durations CD taken from dBpoweramp. The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol.
 

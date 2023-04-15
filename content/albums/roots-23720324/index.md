@@ -1,14 +1,17 @@
 ---
 title: "Children of the Sün - Roots"
-album_artist: "Children of the Sün"
-album_title: "Roots"
+artist: "Children of the Sün"
+album_name: "Roots"
 date: 2022-06-28
 release_id: "23720324"
 slug: "roots-23720324"
+hideSummary: true
 cover:
     image: "roots-23720324.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Roots by Children of the Sün"
+    caption: "Roots by Children of the Sün"
+genres: ["Rock"]
+styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Children of the Sün - Roots](https://www.discogs.com/release/23720324) |
+| Release Year   | 2022 |
+| Discogs Link   | [Children of the Sün - Roots](https://www.discogs.com/release/23720324-Children-of-the-S%C3%BCn-Roots) |
 | Label          | The Sign Records |
 | Format         | LP, Album, Ltd, Pur |
 | Catalog Number | CRC020 |
+
+Edition of 500 copies on Purple Transparent vinyl.  Comes with: - a generic black inner sleeve - insert with band photo, lyrics and some credits - plastic protective outer sleeve with applied hype sticker  Matrix numbers are etched. 
 

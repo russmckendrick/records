@@ -1,14 +1,17 @@
 ---
 title: "Fatboy Slim - Better Living Through Chemistry (20th Anniversary Edition) "
-album_artist: "Fatboy Slim"
-album_title: "Better Living Through Chemistry (20th Anniversary Edition) "
+artist: "Fatboy Slim"
+album_name: "Better Living Through Chemistry (20th Anniversary Edition) "
 date: 2017-01-15
 release_id: "9081379"
 slug: "better-living-through-chemistry-20th-anniversary-edition-9081379"
+hideSummary: true
 cover:
     image: "better-living-through-chemistry-20th-anniversary-edition-9081379.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Better Living Through Chemistry (20th Anniversary Edition)  by Fatboy Slim"
+    caption: "Better Living Through Chemistry (20th Anniversary Edition)  by Fatboy Slim"
+genres: ["Electronic"]
+styles: ["Big Beat", "Breakbeat", "Breaks"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [FatBoySlim- Santa Cruz](https://www.youtube.com/watch?v=dLLgO58_lBA)
 - [FatBoySlim-The Sound Of Milwaukee](https://www.youtube.com/watch?v=OP24XZtlPQ4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Fatboy Slim - Better Living Through Chemistry (20th Anniversary Edition) ](https://www.discogs.com/release/9081379) |
+| Release Year   | 2016 |
+| Discogs Link   | [Fatboy Slim - Better Living Through Chemistry (20th Anniversary Edition) ](https://www.discogs.com/release/9081379-Fatboy-Slim-Better-Living-Through-Chemistry-20th-Anniversary-Edition-) |
 | Label          | Skint |
 | Format         | 2xLP, Album, RE, Yel |
 | Catalog Number | BRASSIC2LPS |
+
+20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.  "Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968." "Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints"
 

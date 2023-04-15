@@ -1,14 +1,17 @@
 ---
 title: "T'Pau - Bridge Of Spies"
-album_artist: "T'Pau"
-album_title: "Bridge Of Spies"
+artist: "T'Pau"
+album_name: "Bridge Of Spies"
 date: 2016-01-07
 release_id: "423522"
 slug: "bridge-of-spies-423522"
+hideSummary: true
 cover:
     image: "bridge-of-spies-423522.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bridge Of Spies by T'Pau"
+    caption: "Bridge Of Spies by T'Pau"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [T'pau Bridge Of Spies](https://www.youtube.com/watch?v=bruw9QIq6rQ)
 - [T'Pau 10 Bridge Of Spies](https://www.youtube.com/watch?v=6bv9-W0E_Pc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522) |
+| Release Year   | 1987 |
+| Discogs Link   | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |
 | Label          | Siren (3) |
 | Format         | LP, Album |
 | Catalog Number | SRN LP8 |
+
+This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve. 
 

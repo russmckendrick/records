@@ -1,14 +1,17 @@
 ---
 title: "Pop Will Eat Itself - X Y & Zee"
-album_artist: "Pop Will Eat Itself"
-album_title: "X Y & Zee"
+artist: "Pop Will Eat Itself"
+album_name: "X Y & Zee"
 date: 2018-02-15
 release_id: "432985"
 slug: "x-y-zee-432985"
+hideSummary: true
 cover:
     image: "x-y-zee-432985.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "X Y & Zee by Pop Will Eat Itself"
+    caption: "X Y & Zee by Pop Will Eat Itself"
+genres: ["Electronic", "Rock"]
+styles: ["Breakbeat", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -23,13 +26,16 @@ hideSummary: true
 - [X, Y & Zee (Electric Sunshine Style)](https://www.youtube.com/watch?v=VHnt11bZdAY)
 - [Pop Will Eat Itself ‎- X Y & Zee](https://www.youtube.com/watch?v=EDuBS2U1kjg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Pop Will Eat Itself - X Y & Zee](https://www.discogs.com/release/432985) |
+| Release Year   | 1991 |
+| Discogs Link   | [Pop Will Eat Itself - X Y & Zee](https://www.discogs.com/release/432985-Pop-Will-Eat-Itself-X-Y-Zee) |
 | Label          | RCA |
 | Format         | 12\", Yel |
 | Catalog Number | PT 44244 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "Prince - Sign \"O\" The Times"
-album_artist: "Prince"
-album_title: "Sign \"O\" The Times"
+artist: "Prince"
+album_name: "Sign \"O\" The Times"
 date: 2016-10-21
 release_id: "9154987"
 slug: "sign-o-the-times-9154987"
+hideSummary: true
 cover:
     image: "sign-o-the-times-9154987.jpg"
-tags: ["Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Sign \"O\" The Times by Prince"
+    caption: "Sign \"O\" The Times by Prince"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [It's Gonna Be A Beautiful Night (2020 Remaster)](https://www.youtube.com/watch?v=hGKh0TVJ2Bs)
 - [Adore (2020 Remaster)](https://www.youtube.com/watch?v=v8fLjiar1c8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Prince - Sign \"O\" The Times](https://www.discogs.com/release/9154987) |
+| Release Year   | 2016 |
+| Discogs Link   | [Prince - Sign \"O\" The Times](https://www.discogs.com/release/9154987-Prince-Sign-O-The-Times) |
 | Label          | Paisley Park |
 | Format         | 2xLP, Album, RE, 140 |
 | Catalog Number | 7599-25577-1 |
+
+Heart-shaped hype sticker: Manufactured in the E.U.  Labels: Manufactured in the Netherlands.  The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.  Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.
 

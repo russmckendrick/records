@@ -1,14 +1,17 @@
 ---
 title: "Captain Beefheart - The Spotlight Kid"
-album_artist: "Captain Beefheart"
-album_title: "The Spotlight Kid"
+artist: "Captain Beefheart"
+album_name: "The Spotlight Kid"
 date: 2016-09-05
 release_id: "8548954"
 slug: "the-spotlight-kid-8548954"
+hideSummary: true
 cover:
     image: "the-spotlight-kid-8548954.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Spotlight Kid by Captain Beefheart"
+    caption: "The Spotlight Kid by Captain Beefheart"
+genres: ["Rock"]
+styles: ["Blues Rock", "Avantgarde"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Captain Beefheart - Click Clack](https://www.youtube.com/watch?v=uNyOr4h2ZLw)
 - [Captain Beefheart - I'm Gonna Booglarize You Baby](https://www.youtube.com/watch?v=xiJVac8bCH8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Captain Beefheart - The Spotlight Kid](https://www.discogs.com/release/8548954) |
+| Release Year   | 2016 |
+| Discogs Link   | [Captain Beefheart - The Spotlight Kid](https://www.discogs.com/release/8548954-Captain-Beefheart-The-Spotlight-Kid) |
 | Label          | Reprise Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 0349791110 |
+
+Hype sticker includes barcode and Don Van Vliet quote: "The stars are matter We're matter But it doesn't matter."  Includes a single-sided insert with lyrics and a download code for MP3 version of the album.  Says "Made in EU." on the labels. Says "Manufactured in EU." on the back cover.
 

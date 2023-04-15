@@ -1,14 +1,17 @@
 ---
 title: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals"
-album_artist: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
-album_title: "Viscerals"
+artist: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
+album_name: "Viscerals"
 date: 2020-04-09
 release_id: "15030578"
 slug: "viscerals-15030578"
+hideSummary: true
 cover:
     image: "viscerals-15030578.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Viscerals by Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
+    caption: "Viscerals by Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
+genres: ["Rock"]
+styles: ["Heavy Metal", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
 - [Hell's Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals](https://www.discogs.com/release/15030578) |
+| Release Year   | 2020 |
+| Discogs Link   | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals](https://www.discogs.com/release/15030578-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Viscerals) |
 | Label          | Rocket Recordings, Rocket Recordings |
 | Format         | LP, Album, Ltd, Blo |
 | Catalog Number | LAUNCH184, LAUNCH184S |
+
+Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive) Comes with printed inner sleeves and Bandcamp download code.
 

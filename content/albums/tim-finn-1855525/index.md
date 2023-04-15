@@ -1,14 +1,17 @@
 ---
 title: "Tim Finn - Tim Finn"
-album_artist: "Tim Finn"
-album_title: "Tim Finn"
+artist: "Tim Finn"
+album_name: "Tim Finn"
 date: 2015-09-04
 release_id: "1855525"
 slug: "tim-finn-1855525"
+hideSummary: true
 cover:
     image: "tim-finn-1855525.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tim Finn by Tim Finn"
+    caption: "Tim Finn by Tim Finn"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 - [Tim Finn - How'm I Gonna Sleep (1989)](https://www.youtube.com/watch?v=ukUHtVVqQ8k)
 - [TIM FINN & HERBS- Parihaka](https://www.youtube.com/watch?v=hLm0MFEIBLc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Tim Finn - Tim Finn](https://www.discogs.com/release/1855525) |
+| Release Year   | 1989 |
+| Discogs Link   | [Tim Finn - Tim Finn](https://www.discogs.com/release/1855525-Tim-Finn-Tim-Finn) |
 | Label          | Capitol Records |
 | Format         | LP, Album, All |
 | Catalog Number | C1-48735 |
+
+[l211933] pressing as denoted by SPAR and B-##### in deadwax runouts.  (P) (C) 1989 Capitol Records, Inc.  Includes printed inner sleeve with lyrics.  Recorded at Sunset Sound Factory.
 

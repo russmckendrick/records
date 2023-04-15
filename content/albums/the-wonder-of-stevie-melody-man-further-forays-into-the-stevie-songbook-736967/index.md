@@ -1,14 +1,17 @@
 ---
 title: "DJ Spinna & Bobbito - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
-album_artist: "DJ Spinna & Bobbito"
-album_title: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
+artist: "DJ Spinna & Bobbito"
+album_name: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
 date: 2016-08-09
 release_id: "736967"
 slug: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967"
+hideSummary: true
 cover:
     image: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna & Bobbito"
+    caption: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna & Bobbito"
+genres: ["Funk / Soul"]
+styles: ["Soul", "Funk", "Disco"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
 - [Jermaine Jackson - Let's Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2004 |
-| Discogs Link   | [DJ Spinna & Bobbito - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)](https://www.discogs.com/release/736967) |
+| Release Year   | 2004 |
+| Discogs Link   | [DJ Spinna & Bobbito - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)](https://www.discogs.com/release/736967-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Melody-Man-Further-Forays-Into-The-Stevie-Songbook) |
 | Label          | Harmless |
 | Format         | 2xLP, Comp |
 | Catalog Number | HURTLP055 |
+
+
 

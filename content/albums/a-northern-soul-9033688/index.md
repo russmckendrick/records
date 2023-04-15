@@ -1,14 +1,17 @@
 ---
 title: "The Verve - A Northern Soul"
-album_artist: "The Verve"
-album_title: "A Northern Soul"
+artist: "The Verve"
+album_name: "A Northern Soul"
 date: 2016-10-15
 release_id: "9033688"
 slug: "a-northern-soul-9033688"
+hideSummary: true
 cover:
     image: "a-northern-soul-9033688.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "A Northern Soul by The Verve"
+    caption: "A Northern Soul by The Verve"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [The Verve - Stormy Clouds (1995) HD w/lyrics](https://www.youtube.com/watch?v=ISt2zpysAmk)
 - [The Verve: A Northern Soul: Reprise](https://www.youtube.com/watch?v=Cv99r9pOSIs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Verve - A Northern Soul](https://www.discogs.com/release/9033688) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Verve - A Northern Soul](https://www.discogs.com/release/9033688-The-Verve-A-Northern-Soul) |
 | Label          | Virgin EMI Records, Universal UMC |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | 4786539 |
+
+Originally released 1995 as [HUTLP27](https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054). Includes printed innersleeves.  Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media.
 

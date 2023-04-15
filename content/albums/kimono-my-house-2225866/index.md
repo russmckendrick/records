@@ -1,14 +1,17 @@
 ---
 title: "Sparks - Kimono My House"
-album_artist: "Sparks"
-album_title: "Kimono My House"
+artist: "Sparks"
+album_name: "Kimono My House"
 date: 2016-11-16
 release_id: "2225866"
 slug: "kimono-my-house-2225866"
+hideSummary: true
 cover:
     image: "kimono-my-house-2225866.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Kimono My House by Sparks"
+    caption: "Kimono My House by Sparks"
+genres: ["Rock"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [In My Family](https://www.youtube.com/watch?v=UymqKMn9tlo)
 - [Equator](https://www.youtube.com/watch?v=VC9GI5RvRDs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1974 |
-| Discogs Link   | [Sparks - Kimono My House](https://www.discogs.com/release/2225866) |
+| Release Year   | 1974 |
+| Discogs Link   | [Sparks - Kimono My House](https://www.discogs.com/release/2225866-Sparks-Kimono-My-House) |
 | Label          | Island Records |
 | Format         | LP, Album |
 | Catalog Number | ILPS 9272 |
+
+Original issue with Island "Palm tree with pink rim" labels, in a fully-laminated sleeve without text on the front, and including a photo/lyric inner sleeve.  Printed in England by Robor Limited.  ℗ 1974 Island Records Ltd  This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record.
 

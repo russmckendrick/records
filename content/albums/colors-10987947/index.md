@@ -1,14 +1,17 @@
 ---
 title: "Beck - Colors"
-album_artist: "Beck"
-album_title: "Colors"
+artist: "Beck"
+album_name: "Colors"
 date: 2017-12-24
 release_id: "10987947"
 slug: "colors-10987947"
+hideSummary: true
 cover:
     image: "colors-10987947.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Colors by Beck"
+    caption: "Colors by Beck"
+genres: ["Electronic", "Rock"]
+styles: ["Dance-pop", "New Wave"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Square One (2:55)
 10. Fix Me (3:13)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Beck - Colors](https://www.discogs.com/release/10987947) |
+| Release Year   | 2017 |
+| Discogs Link   | [Beck - Colors](https://www.discogs.com/release/10987947-Beck-Colors) |
 | Label          | Fonograf Records, Capitol Records |
 | Format         | LP, Album, Red |
 | Catalog Number | 00602557176803 |
+
+Inc Download card 12" x 12" Folded Lyric Insert
 

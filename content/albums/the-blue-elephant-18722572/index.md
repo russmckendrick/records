@@ -1,14 +1,17 @@
 ---
 title: "Matt Berry (3) - The Blue Elephant"
-album_artist: "Matt Berry (3)"
-album_title: "The Blue Elephant"
+artist: "Matt Berry (3)"
+album_name: "The Blue Elephant"
 date: 2021-05-14
 release_id: "18722572"
 slug: "the-blue-elephant-18722572"
+hideSummary: true
 cover:
     image: "the-blue-elephant-18722572.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "The Blue Elephant by Matt Berry (3)"
+    caption: "The Blue Elephant by Matt Berry (3)"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Psychedelic Rock", "Folk Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
 - [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Matt Berry (3) - The Blue Elephant](https://www.discogs.com/release/18722572) |
+| Release Year   | 2021 |
+| Discogs Link   | [Matt Berry (3) - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-The-Blue-Elephant) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Ltd, Mus |
 | Catalog Number | AJXLP578M |
+
+'Mustard' colour vinyl. Recorded by Matt Berry at Peach Studios between May & October 2020      
 

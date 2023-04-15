@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - The Resurrectionists"
-album_artist: "Crippled Black Phoenix"
-album_title: "The Resurrectionists"
+artist: "Crippled Black Phoenix"
+album_name: "The Resurrectionists"
 date: 2019-05-01
 release_id: "13562698"
 slug: "the-resurrectionists-13562698"
+hideSummary: true
 cover:
     image: "the-resurrectionists-13562698.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Resurrectionists by Crippled Black Phoenix"
+    caption: "The Resurrectionists by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Post Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Burnt Reynolds - Crippled Black Phoenix](https://www.youtube.com/watch?v=NEdlia-p8xc)
 - [Crippled black phoenix - Song for the loved](https://www.youtube.com/watch?v=6tmPo9F5wgw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Crippled Black Phoenix - The Resurrectionists](https://www.discogs.com/release/13562698) |
+| Release Year   | 2019 |
+| Discogs Link   | [Crippled Black Phoenix - The Resurrectionists](https://www.discogs.com/release/13562698-Crippled-Black-Phoenix-The-Resurrectionists) |
 | Label          | Kscope, Kscope |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | KSCOPE916, 802644891613 |
+
+Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil). No durations listed on release.  On labels: ℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix  On sleeve back: ℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd. The copyright in this sound recording is owned by Snapper Music Ltd. Kscope is a Snapper Music label. 
 

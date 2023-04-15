@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - Banefyre"
-album_artist: "Crippled Black Phoenix"
-album_title: "Banefyre"
+artist: "Crippled Black Phoenix"
+album_name: "Banefyre"
 date: 2022-09-04
 release_id: "24411629"
 slug: "banefyre-24411629"
+hideSummary: true
 cover:
     image: "banefyre-24411629.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Banefyre by Crippled Black Phoenix"
+    caption: "Banefyre by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [CRIPPLED BLACK PHOENIX - Blackout77 (official video) 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
 - [CRIPPLED BLACK PHOENIX - Bonefire (official audio) 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Crippled Black Phoenix - Banefyre](https://www.discogs.com/release/24411629) |
+| Release Year   | 2022 |
+| Discogs Link   | [Crippled Black Phoenix - Banefyre](https://www.discogs.com/release/24411629-Crippled-Black-Phoenix-Banefyre) |
 | Label          | Season Of Mist |
 | Format         | 3xLP, Album, Ltd, 140 |
 | Catalog Number | SOM 646LP |
+
+Released with a matte triple gatefold sleeve and three printed inner sleeves.  Indicators from hype sticker on foil: Special vinyl mastering, 24/48 for more than 90 minutes of music [Hi-Res Audio logo] First pressing on black triple vinyl (1,500 copies worldwide)  Indicators on rear: ℗ & © 2022 Season Of Mist  Indicators on inner gatefold: Recorded at Chapel Studio, Lincolnshire, November 2020ad & April 2021ad. Additional vocal sessions recorded at: Kapsylen Studio, Stockholm Monolith Studio Churchstreet Studio, Bergen  ------------------------------------------------- Misspelled words on the inner sleeve of second vinyl: For track C1 'Rose of Jericho' credits for synthesizer is misspelled as 'Syths'. For track D2 'Down The Rabbit Hole' credits for [a=Justin Greaves] are misspelled as 'Jusitn'. 
 

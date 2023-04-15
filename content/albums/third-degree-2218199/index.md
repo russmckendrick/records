@@ -1,14 +1,17 @@
 ---
 title: "Nine Below Zero - Third Degree"
-album_artist: "Nine Below Zero"
-album_title: "Third Degree"
+artist: "Nine Below Zero"
+album_name: "Third Degree"
 date: 2021-09-03
 release_id: "2218199"
 slug: "third-degree-2218199"
+hideSummary: true
 cover:
     image: "third-degree-2218199.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Third Degree by Nine Below Zero"
+    caption: "Third Degree by Nine Below Zero"
+genres: ["Rock"]
+styles: ["Rhythm & Blues", "Pub Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="ExM1vP-rhH4" title="Nine Below Zero - Eleven Plus Eleven" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1982 |
-| Discogs Link   | [Nine Below Zero - Third Degree](https://www.discogs.com/release/2218199) |
+| Release Year   | 1982 |
+| Discogs Link   | [Nine Below Zero - Third Degree](https://www.discogs.com/release/2218199-Nine-Below-Zero-Third-Degree) |
 | Label          | A&M Records |
 | Format         | LP, Album |
 | Catalog Number | AMLH 68537 |
+
+Official UK release  Month of release from Record Collector Magazine Oct 1994 p.127 
 

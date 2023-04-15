@@ -1,14 +1,17 @@
 ---
 title: "Peter Gabriel - Peter Gabriel"
-album_artist: "Peter Gabriel"
-album_title: "Peter Gabriel"
+artist: "Peter Gabriel"
+album_name: "Peter Gabriel"
 date: 2016-12-08
 release_id: "9473649"
 slug: "peter-gabriel-9473649"
+hideSummary: true
 cover:
     image: "peter-gabriel-9473649.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Peter Gabriel by Peter Gabriel"
+    caption: "Peter Gabriel by Peter Gabriel"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Biko](https://www.youtube.com/watch?v=jsVieeccpQs)
 - [Peter Gabriel - Games Without Frontiers](https://www.youtube.com/watch?v=3xZmlUV8muY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473649) |
+| Release Year   | 2016 |
+| Discogs Link   | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473649-Peter-Gabriel-Peter-Gabriel) |
 | Label          | Real World Records, Real World Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | PGLPR3, 884108004173 |
+
+Half-Speed Remaster + Hi-Res Download Code  Pressing plant identified by runout.
 

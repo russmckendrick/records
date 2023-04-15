@@ -1,14 +1,17 @@
 ---
 title: "Tacoma Narrows Bridge Disaster - The World Inside"
-album_artist: "Tacoma Narrows Bridge Disaster"
-album_title: "The World Inside"
+artist: "Tacoma Narrows Bridge Disaster"
+album_name: "The World Inside"
 date: 2021-10-18
 release_id: "20584321"
 slug: "the-world-inside-20584321"
+hideSummary: true
 cover:
     image: "the-world-inside-20584321.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The World Inside by Tacoma Narrows Bridge Disaster"
+    caption: "The World Inside by Tacoma Narrows Bridge Disaster"
+genres: ["Rock"]
+styles: ["Post Rock"]
 ---
 
 ## Tracklisting
@@ -18,16 +21,17 @@ hideSummary: true
 4. Postsynaptic (10:41)
 5. Apocryphal (10:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Tacoma Narrows Bridge Disaster - The World Inside](https://www.discogs.com/release/20584321) |
+| Release Year   | 2021 |
+| Discogs Link   | [Tacoma Narrows Bridge Disaster - The World Inside](https://www.discogs.com/release/20584321-Tacoma-Narrows-Bridge-Disaster-The-World-Inside) |
 | Label          | Not On Label (Tacoma Narrows Bridge Disaster Self-released) |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | none |
+
+Includes Download-Code
 

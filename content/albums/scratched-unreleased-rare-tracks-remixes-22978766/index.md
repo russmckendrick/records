@@ -1,14 +1,17 @@
 ---
 title: "Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)"
-album_artist: "Jesus Jones"
-album_title: "Scratched (Unreleased Rare Tracks & Remixes)"
+artist: "Jesus Jones"
+album_name: "Scratched (Unreleased Rare Tracks & Remixes)"
 date: 2022-04-24
 release_id: "22978766"
 slug: "scratched-unreleased-rare-tracks-remixes-22978766"
+hideSummary: true
 cover:
     image: "scratched-unreleased-rare-tracks-remixes-22978766.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones"
+    caption: "Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Jesus Jones - Zeroes & Ones [The Prodigy Versus Jesus Jones Mix]](https://www.youtube.com/watch?v=24_9eyOoslg)
 - [Jesus Jones - International Bright Young Thing (Phil Harding 12 Mix)](https://www.youtube.com/watch?v=FkCI_DO4l1o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)](https://www.discogs.com/release/22978766) |
+| Release Year   | 2022 |
+| Discogs Link   | [Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)](https://www.discogs.com/release/22978766-Jesus-Jones-Scratched-Unreleased-Rare-Tracks-Remixes) |
 | Label          | Demon Records, RT Industries |
 | Format         | 2xLP, RSD, Comp, Ltd, RE, Blu |
 | Catalog Number | DEMREC985 |
+
+180g   Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.  Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)".   ℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings. 
 

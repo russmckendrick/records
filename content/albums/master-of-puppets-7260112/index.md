@@ -1,14 +1,17 @@
 ---
 title: "Metallica - Master Of Puppets"
-album_artist: "Metallica"
-album_title: "Master Of Puppets"
+artist: "Metallica"
+album_name: "Master Of Puppets"
 date: 2016-10-25
 release_id: "7260112"
 slug: "master-of-puppets-7260112"
+hideSummary: true
 cover:
     image: "master-of-puppets-7260112.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Master Of Puppets by Metallica"
+    caption: "Master Of Puppets by Metallica"
+genres: ["Rock"]
+styles: ["Thrash", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Master of Puppets REMASTERED (official album reissue 2017/2018!) Will it sound BETTER as promised?](https://www.youtube.com/watch?v=k7pXAv3cL9A)
 - [Metallica - Master of Puppets Remastered HQ](https://www.youtube.com/watch?v=QAOBbPnI5-g)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Metallica - Master Of Puppets](https://www.discogs.com/release/7260112) |
+| Release Year   | 2015 |
+| Discogs Link   | [Metallica - Master Of Puppets](https://www.discogs.com/release/7260112-Metallica-Master-Of-Puppets) |
 | Label          | Blackened, Blackened |
 | Format         | LP, Album, RE |
 | Catalog Number | BLCKND005-1, 00602547242952 |
+
+[On back cover:] ℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.  [On printed inner sheet:] All songs published by Creeping Death Music (ASCAP).
 

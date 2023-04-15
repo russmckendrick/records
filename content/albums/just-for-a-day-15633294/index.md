@@ -1,14 +1,17 @@
 ---
 title: "Slowdive - Just For A Day"
-album_artist: "Slowdive"
-album_title: "Just For A Day"
+artist: "Slowdive"
+album_name: "Just For A Day"
 date: 2020-07-17
 release_id: "15633294"
 slug: "just-for-a-day-15633294"
+hideSummary: true
 cover:
     image: "just-for-a-day-15633294.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Just For A Day by Slowdive"
+    caption: "Just For A Day by Slowdive"
+genres: ["Rock"]
+styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [The Sadman](https://www.youtube.com/watch?v=8-faqEkqRuM)
 - [Primal](https://www.youtube.com/watch?v=xuiE4AMe6QM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Slowdive - Just For A Day](https://www.discogs.com/release/15633294) |
+| Release Year   | 2020 |
+| Discogs Link   | [Slowdive - Just For A Day](https://www.discogs.com/release/15633294-Slowdive-Just-For-A-Day) |
 | Label          | Music On Vinyl |
 | Format         | LP, Album, Ltd, Num, RE, RP, Ora |
 | Catalog Number | MOVLP354 |
+
+180 gram audiophile vinyl Including insert Sleeve with special alubrush finish Limited edition of 4000 individually numbered copies on flaming coloured vinyl
 

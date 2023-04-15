@@ -1,14 +1,17 @@
 ---
 title: "Ned's Atomic Dustbin - God Fodder"
-album_artist: "Ned's Atomic Dustbin"
-album_title: "God Fodder"
+artist: "Ned's Atomic Dustbin"
+album_name: "God Fodder"
 date: 2016-01-11
 release_id: "781893"
 slug: "god-fodder-781893"
+hideSummary: true
 cover:
     image: "god-fodder-781893.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "God Fodder by Ned's Atomic Dustbin"
+    caption: "God Fodder by Ned's Atomic Dustbin"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock", "Punk"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [Ned's Atomic Dustbin-You](https://www.youtube.com/watch?v=xyOYwnTekOc)
 - [Ned's Atomic Dustbin-What Gives My Son?](https://www.youtube.com/watch?v=6ahrAlCt0L4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1991 |
-| Discogs Link   | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/781893) |
+| Release Year   | 1991 |
+| Discogs Link   | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/781893-Neds-Atomic-Dustbin-God-Fodder) |
 | Label          | Furtive (2), Furtive (2) |
 | Format         | LP, Album |
 | Catalog Number | 468112 1, 468112-1 |
+
+Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Comes with inner bag with lyrics, pictures and information.  Cat# 468112 1 appears on the spine, top left of the photo side of the insert and both labels. Cat# 468112-1 appears top right of back cover. 01-468112-20 appears bottom right of back cover. 01-468112.20 appears bottom right on the lyric side of the insert.  ℗1991 Sony Music Entertainment (UK) Ltd. ©1991 Sony Music Entertainment (UK) Ltd.
 

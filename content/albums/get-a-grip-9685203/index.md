@@ -1,14 +1,17 @@
 ---
 title: "Aerosmith - Get A Grip"
-album_artist: "Aerosmith"
-album_title: "Get A Grip"
+artist: "Aerosmith"
+album_name: "Get A Grip"
 date: 2018-01-09
 release_id: "9685203"
 slug: "get-a-grip-9685203"
+hideSummary: true
 cover:
     image: "get-a-grip-9685203.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Get A Grip by Aerosmith"
+    caption: "Get A Grip by Aerosmith"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -27,16 +30,17 @@ hideSummary: true
 13. Amazing (5:56)
 14. Boogie Man (2:15)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Aerosmith - Get A Grip](https://www.discogs.com/release/9685203) |
+| Release Year   | 2017 |
+| Discogs Link   | [Aerosmith - Get A Grip](https://www.discogs.com/release/9685203-Aerosmith-Get-A-Grip) |
 | Label          | Geffen Records |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 00602547954398 |
+
+Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA. Mixed at Can-Am Studios, Tarzana, CA. Mastered at Masterdisk, NYC.  Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits.   ℗ 1993 © 2016 Geffen Records  Sticker, includes a voucher to download MP3 version of the album.
 

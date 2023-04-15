@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - Hours..."
-album_artist: "David Bowie"
-album_title: "Hours..."
+artist: "David Bowie"
+album_name: "Hours..."
 date: 2016-01-22
 release_id: "7102156"
 slug: "hours-7102156"
+hideSummary: true
 cover:
     image: "hours-7102156.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Hours... by David Bowie"
+    caption: "Hours... by David Bowie"
+genres: ["Electronic", "Rock"]
+styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -23,16 +26,17 @@ hideSummary: true
 9. Brilliant Adventure (1:52)
 10. The Dreamers (5:13)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [David Bowie - Hours...](https://www.discogs.com/release/7102156) |
+| Release Year   | 2015 |
+| Discogs Link   | [David Bowie - Hours...](https://www.discogs.com/release/7102156-David-Bowie-Hours) |
 | Label          | ISO Records, Columbia, Music On Vinyl |
 | Format         | LP, Album, RE |
 | Catalog Number | MOVLP1400 |
+
+Originally Released ℗ & © 1999 ISO Records. This Release ℗ & © 2015 Sony Music Entertainment under license from ISO Records. Made in the EU.  180 gram vinyl 20-page booklet Standard black vinyl.
 

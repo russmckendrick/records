@@ -17,8 +17,14 @@ menu:
       url: search/
       weight: 10
     - name: Genres
-      url: tags/
+      url: genres/
       weight: 5
+    - name: Styles
+      url: styles/
+      weight: 5
+    - name: Artists
+      url: artist/
+      weight: 1
 
 params:
   defaultTheme: dark
@@ -44,3 +50,8 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+taxonomies:
+  artist: artist
+  genres: genres
+  styles: styles

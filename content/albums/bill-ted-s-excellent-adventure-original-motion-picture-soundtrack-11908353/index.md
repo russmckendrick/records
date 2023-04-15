@@ -1,14 +1,17 @@
 ---
 title: "Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
-album_artist: "Various"
-album_title: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
+artist: "Various"
+album_name: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
 date: 2018-11-30
 release_id: "11908353"
 slug: "bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353"
+hideSummary: true
 cover:
     image: "bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353.jpg"
-tags: ["Rock", "Stage & Screen"]
-hideSummary: true
+    alt: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack by Various"
+    caption: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack by Various"
+genres: ["Rock", "Stage & Screen"]
+styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Glen Burtnik - Not So Far Away [HQ]](https://www.youtube.com/watch?v=gFxlwnV8YsI)
 - [Shark Island - Dangerous](https://www.youtube.com/watch?v=5uAjZzeB-hI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack](https://www.discogs.com/release/11908353) |
+| Release Year   | 2018 |
+| Discogs Link   | [Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack](https://www.discogs.com/release/11908353-Various-Bill-Teds-Excellent-Adventure-Original-Motion-Picture-Soundtrack) |
 | Label          | A&M Records, Rusted Wave |
 | Format         | LP, Album, Ltd |
 | Catalog Number | B0026799-01, RW-005 |
+
+Standard black vinyl version.  No OBI strip.  Co-Release with Rusted Wave & Mondo LP housed in a silver board jacket Includes printed inner sleeve & insert Initial pressing of 500 LPs on black vinyl
 

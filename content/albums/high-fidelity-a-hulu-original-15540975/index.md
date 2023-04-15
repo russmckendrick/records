@@ -1,14 +1,17 @@
 ---
 title: "Various - High Fidelity (A Hulu Original)"
-album_artist: "Various"
-album_title: "High Fidelity (A Hulu Original)"
+artist: "Various"
+album_name: "High Fidelity (A Hulu Original)"
 date: 2020-07-27
 release_id: "15540975"
 slug: "high-fidelity-a-hulu-original-15540975"
+hideSummary: true
 cover:
     image: "high-fidelity-a-hulu-original-15540975.jpg"
-tags: ["Stage & Screen"]
-hideSummary: true
+    alt: "High Fidelity (A Hulu Original) by Various"
+    caption: "High Fidelity (A Hulu Original) by Various"
+genres: ["Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Silk Rhodes - Pains](https://www.youtube.com/watch?v=SoxbvE1Doog)
 - [I Believe (When I Fall in Love It Will Be Forever)](https://www.youtube.com/watch?v=JO_b807HaLM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Various - High Fidelity (A Hulu Original)](https://www.discogs.com/release/15540975) |
+| Release Year   | 2020 |
+| Discogs Link   | [Various - High Fidelity (A Hulu Original)](https://www.discogs.com/release/15540975-Various-High-Fidelity-A-Hulu-Original) |
 | Label          | Hollywood Records, Mondo Tees LLC |
 | Format         | LP, Comp, 180 |
 | Catalog Number | MOND-163 |
+
+ 180 gram black vinyl
 

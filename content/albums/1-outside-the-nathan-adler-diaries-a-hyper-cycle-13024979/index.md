@@ -1,14 +1,17 @@
 ---
 title: "David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
-album_artist: "David Bowie"
-album_title: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
+artist: "David Bowie"
+album_name: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
 date: 2019-01-06
 release_id: "13024979"
 slug: "1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979"
+hideSummary: true
 cover:
     image: "1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle) by David Bowie"
+    caption: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle) by David Bowie"
+genres: ["Electronic", "Rock"]
+styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -32,16 +35,17 @@ hideSummary: true
 18. Segue - Nathan Adler (Version #2) (0:28)
 19. Strangers When We Meet (5:07)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)](https://www.discogs.com/release/13024979) |
+| Release Year   | 2019 |
+| Discogs Link   | [David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)](https://www.discogs.com/release/13024979-David-Bowie-1-Outside-The-Nathan-Adler-Diaries-A-Hyper-Cycle) |
 | Label          | Friday Music, ISO Records, Columbia, Sony Music |
 | Format         | 2xLP, Album, Ltd, RE, RM, Whi |
 | Catalog Number | FRM-40711, 88875045311 |
+
+ Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover  Identical to 2015 Reissue, [r7810564], but on different colored vinyl.
 

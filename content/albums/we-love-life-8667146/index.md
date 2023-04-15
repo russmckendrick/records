@@ -1,14 +1,17 @@
 ---
 title: "Pulp - We Love Life"
-album_artist: "Pulp"
-album_title: "We Love Life"
+artist: "Pulp"
+album_name: "We Love Life"
 date: 2016-10-25
 release_id: "8667146"
 slug: "we-love-life-8667146"
+hideSummary: true
 cover:
     image: "we-love-life-8667146.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "We Love Life by Pulp"
+    caption: "We Love Life by Pulp"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Forever In My Dreams](https://www.youtube.com/watch?v=BGhljQ-vRuM)
 - [Pulp - I Love Life](https://www.youtube.com/watch?v=NsqCrGFZzJk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Pulp - We Love Life](https://www.discogs.com/release/8667146) |
+| Release Year   | 2016 |
+| Discogs Link   | [Pulp - We Love Life](https://www.discogs.com/release/8667146-Pulp-We-Love-Life) |
 | Label          | Island Records, Island Records |
 | Format         | LP, Album, RE |
 | Catalog Number | 4785290, 00602547852908 |
+
+An initial run of copies of this release were exclusively sold in [l11249] and Fopp stores (HMV copies have an "HMV exclusive" sticker placed on shrink).   Recorded and mixed at Metropolis, London. Strings recorded at Air Studios. Choir recorded at Angel Studios.  Track A4 samples "Tell Her You Love Her" written by Stanley Myers & Hal Shaper, published by Screen Gems-EMI Music Ltd. Taken from the film "Otley".  Track A5 samples "Willow's Song" composed by Paul Giovanni, from the British Lion film "The Wicker Man".  Track B2: Virtual birdsong generated at the Institute of Sound & Vibration Research, University of Southampton under the supervision of Professor Phil Nelson.  ℗ 2001 Universal-Island Records Ltd.  © 2016 Universal-Island Records Ltd.  Made in the EU.
 

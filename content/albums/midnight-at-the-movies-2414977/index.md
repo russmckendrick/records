@@ -1,14 +1,17 @@
 ---
 title: "Justin Townes Earle - Midnight At The Movies"
-album_artist: "Justin Townes Earle"
-album_title: "Midnight At The Movies"
+artist: "Justin Townes Earle"
+album_name: "Midnight At The Movies"
 date: 2015-12-30
 release_id: "2414977"
 slug: "midnight-at-the-movies-2414977"
+hideSummary: true
 cover:
     image: "midnight-at-the-movies-2414977.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Midnight At The Movies by Justin Townes Earle"
+    caption: "Midnight At The Movies by Justin Townes Earle"
+genres: ["Folk, World, & Country"]
+styles: ["Country"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. Walk Out
 12. Here We Go Again
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Justin Townes Earle - Midnight At The Movies](https://www.discogs.com/release/2414977) |
+| Release Year   | 2009 |
+| Discogs Link   | [Justin Townes Earle - Midnight At The Movies](https://www.discogs.com/release/2414977-Justin-Townes-Earle-Midnight-At-The-Movies) |
 | Label          | Bloodshot Records |
 | Format         | LP, Album, Ltd |
 | Catalog Number | BS 160 LP |
+
+"Limited Edition of 2000" Released with mp3 download
 

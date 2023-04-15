@@ -1,14 +1,17 @@
 ---
 title: "King Crimson - USA"
-album_artist: "King Crimson"
-album_title: "USA"
+artist: "King Crimson"
+album_name: "USA"
 date: 2015-09-15
 release_id: "7465720"
 slug: "usa-7465720"
+hideSummary: true
 cover:
     image: "usa-7465720.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "USA by King Crimson"
+    caption: "USA by King Crimson"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -19,16 +22,17 @@ hideSummary: true
 5. Easy Money (6:32)
 6. 21st Century Schizoid Man (7:32)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [King Crimson - USA](https://www.discogs.com/release/7465720) |
+| Release Year   | 2015 |
+| Discogs Link   | [King Crimson - USA](https://www.discogs.com/release/7465720-King-Crimson-USA) |
 | Label          | Discipline Global Mobile, Panegyric, Inner Knot |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | KCLP12 |
+
+Newly cut from masters approved by Robert Fripp  Recorded live by the Record Plant, N.Y.C. June 1974  Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974. 
 

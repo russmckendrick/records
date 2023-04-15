@@ -1,14 +1,17 @@
 ---
 title: "Moby - Play: The B Sides"
-album_artist: "Moby"
-album_title: "Play: The B Sides"
+artist: "Moby"
+album_name: "Play: The B Sides"
 date: 2018-02-06
 release_id: "11524019"
 slug: "play-the-b-sides-11524019"
+hideSummary: true
 cover:
     image: "play-the-b-sides-11524019.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Play: The B Sides by Moby"
+    caption: "Play: The B Sides by Moby"
+genres: ["Electronic"]
+styles: ["Breakbeat", "Downtempo", "Leftfield"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="jkCM0mVKQic" title="Moby ▶ Play–The B Sides…(2000) Full Album" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Moby - Play: The B Sides](https://www.discogs.com/release/11524019) |
+| Release Year   | 2018 |
+| Discogs Link   | [Moby - Play: The B Sides](https://www.discogs.com/release/11524019-Moby-Play-The-B-Sides) |
 | Label          | Little Idiot |
 | Format         | 2xLP, Comp, Ltd, RE, Red |
 | Catalog Number | IDIOT062LP2 |
+
+Limited to 1000 copies.  Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music   Track durations not listed on the release.
 

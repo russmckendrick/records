@@ -1,14 +1,17 @@
 ---
 title: "Madness - The Dangermen Sessions (Volume One)"
-album_artist: "Madness"
-album_title: "The Dangermen Sessions (Volume One)"
+artist: "Madness"
+album_name: "The Dangermen Sessions (Volume One)"
 date: 2022-09-17
 release_id: "24543611"
 slug: "the-dangermen-sessions-volume-one-24543611"
+hideSummary: true
 cover:
     image: "the-dangermen-sessions-volume-one-24543611.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "The Dangermen Sessions (Volume One) by Madness"
+    caption: "The Dangermen Sessions (Volume One) by Madness"
+genres: ["Reggae"]
+styles: ["Ska"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Madness - The Dangermen Sessions Volume One (Full Album)](https://www.youtube.com/watch?v=GGZ9W7_HCE4)
 - [Madness - Shame And Scandal](https://www.youtube.com/watch?v=jPHOPTwjVwY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Madness - The Dangermen Sessions (Volume One)](https://www.discogs.com/release/24543611) |
+| Release Year   | 2022 |
+| Discogs Link   | [Madness - The Dangermen Sessions (Volume One)](https://www.discogs.com/release/24543611-Madness-The-Dangermen-Sessions-Volume-One) |
 | Label          | Union Square Music, Union Square Music |
 | Format         | LP, Album, RE |
 | Catalog Number | SALVOLP15, 4050538618839 |
+
+Made in Poland  Heavyweight 180 Gram Black Vinyl In card sleeve with inner and insert  ℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd. This release © 2022 Union Square Music Ltd.
 

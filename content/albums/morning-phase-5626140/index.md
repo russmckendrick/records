@@ -1,14 +1,17 @@
 ---
 title: "Beck - Morning Phase"
-album_artist: "Beck"
-album_title: "Morning Phase"
+artist: "Beck"
+album_name: "Morning Phase"
 date: 2017-08-11
 release_id: "5626140"
 slug: "morning-phase-5626140"
+hideSummary: true
 cover:
     image: "morning-phase-5626140.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Morning Phase by Beck"
+    caption: "Morning Phase by Beck"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -26,16 +29,17 @@ hideSummary: true
 12. Country Down (4:00)
 13. Waking Light (5:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Beck - Morning Phase](https://www.discogs.com/release/5626140) |
+| Release Year   | 2014 |
+| Discogs Link   | [Beck - Morning Phase](https://www.discogs.com/release/5626140-Beck-Morning-Phase) |
 | Label          | Capitol Records, Capitol Records |
 | Format         | LP, Album, 180 |
 | Catalog Number | 0602537649747, B001983901 |
+
+180 gram  Includes: Printed insert with lyrics and credits Download card for entire album in MP3 format (later copies don't have it)  Recorded at Ocean Way Recording (Hollywood, CA and Nashville, TN), Blackbird Studio (Nashville, TN), Gang Recording Studio (Paris, France), Rak Studios (London, UK), Capitol Studios (Hollywood, CA), Sunset Sound (Hollywood, CA), and The Library (Los Angeles, CA) Mixed at Electric Lady Studios, New York  ℗© 2014 Fonograf Records under exclusive license to Capitol Records Manufactured in Germany by Furnace MFG / The Pallas Group for Capitol Records Made in EU  Runouts are etched except for the stamped '-31098- P.USA'.
 

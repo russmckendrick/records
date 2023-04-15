@@ -1,14 +1,17 @@
 ---
 title: "Roger Waters - The Wall (Live In Berlin)"
-album_artist: "Roger Waters"
-album_title: "The Wall (Live In Berlin)"
+artist: "Roger Waters"
+album_name: "The Wall (Live In Berlin)"
 date: 2020-09-29
 release_id: "15928391"
 slug: "the-wall-live-in-berlin-15928391"
+hideSummary: true
 cover:
     image: "the-wall-live-in-berlin-15928391.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Wall (Live In Berlin) by Roger Waters"
+    caption: "The Wall (Live In Berlin) by Roger Waters"
+genres: ["Rock"]
+styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -41,16 +44,17 @@ hideSummary: true
 27. Encore
 28. The Tide Is Turning
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Roger Waters - The Wall (Live In Berlin)](https://www.discogs.com/release/15928391) |
+| Release Year   | 2020 |
+| Discogs Link   | [Roger Waters - The Wall (Live In Berlin)](https://www.discogs.com/release/15928391-Roger-Waters-The-Wall-Live-In-Berlin) |
 | Label          | UMC, Mercury |
 | Format         | 2xLP, Album, RSD, Ltd, RE, Cle |
 | Catalog Number | 0602508538506 |
+
+Record Store Day - RSD Drops Sep 26th 2020 Quantity: 8.000 copies Gatefold cover with records housed in printed inner sleeves. Includes a download card.  Global, worldwide release.  Some copies do not have a hype sticker. Some copies did not include a download card.  Title on the spine: The Wall - Live In Berlin 1990  Back cover: Roger Waters : The Wall Saturday 21st July 1990  Made in the EU.  Label rim text: Made In The EU.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△".
 

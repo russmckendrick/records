@@ -1,14 +1,17 @@
 ---
 title: "Thundercat - The Golden Age Of Apocalypse"
-album_artist: "Thundercat"
-album_title: "The Golden Age Of Apocalypse"
+artist: "Thundercat"
+album_name: "The Golden Age Of Apocalypse"
 date: 2019-01-04
 release_id: "3079712"
 slug: "the-golden-age-of-apocalypse-3079712"
+hideSummary: true
 cover:
     image: "the-golden-age-of-apocalypse-3079712.jpg"
-tags: ["Electronic", "Jazz", "Funk / Soul"]
-hideSummary: true
+    alt: "The Golden Age Of Apocalypse by Thundercat"
+    caption: "The Golden Age Of Apocalypse by Thundercat"
+genres: ["Electronic", "Jazz", "Funk / Soul"]
+styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
 - [Thundercat- Is It Love?](https://www.youtube.com/watch?v=ijiP-FSjDxU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Thundercat - The Golden Age Of Apocalypse](https://www.discogs.com/release/3079712) |
+| Release Year   | 2011 |
+| Discogs Link   | [Thundercat - The Golden Age Of Apocalypse](https://www.discogs.com/release/3079712-Thundercat-The-Golden-Age-Of-Apocalypse) |
 | Label          | Brainfeeder |
 | Format         | LP, Album |
 | Catalog Number | BF023 |
+
+Includes MP3 download code via Ninja Tune A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)  Comes with printed inner sleeve.
 

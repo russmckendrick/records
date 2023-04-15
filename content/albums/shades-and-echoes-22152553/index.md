@@ -1,14 +1,17 @@
 ---
 title: "Forenzics (2) - Shades And Echoes"
-album_artist: "Forenzics (2)"
-album_title: "Shades And Echoes"
+artist: "Forenzics (2)"
+album_name: "Shades And Echoes"
 date: 2022-02-26
 release_id: "22152553"
 slug: "shades-and-echoes-22152553"
+hideSummary: true
 cover:
     image: "shades-and-echoes-22152553.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Shades And Echoes by Forenzics (2)"
+    caption: "Shades And Echoes by Forenzics (2)"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Unlikely Friend (feat. Washington)](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
 - [Strange Stars](https://www.youtube.com/watch?v=H5YTiBEsoYc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Forenzics (2) - Shades And Echoes](https://www.discogs.com/release/22152553) |
+| Release Year   | 2022 |
+| Discogs Link   | [Forenzics (2) - Shades And Echoes](https://www.discogs.com/release/22152553-Forenzics-Shades-And-Echoes) |
 | Label          | Warner Music New Zealand |
 | Format         | LP, Album |
 | Catalog Number | CAT 5419711037 |
+
+"Changes Are" contains a shade of "Spellbound" ([m=81206] 1975) "Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976) "Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978) "Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975) "Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)
 

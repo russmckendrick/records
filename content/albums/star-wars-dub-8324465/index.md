@@ -1,14 +1,17 @@
 ---
 title: "Phil Pratt - Star Wars Dub"
-album_artist: "Phil Pratt"
-album_title: "Star Wars Dub"
+artist: "Phil Pratt"
+album_name: "Star Wars Dub"
 date: 2017-01-03
 release_id: "8324465"
 slug: "star-wars-dub-8324465"
+hideSummary: true
 cover:
     image: "star-wars-dub-8324465.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Star Wars Dub by Phil Pratt"
+    caption: "Star Wars Dub by Phil Pratt"
+genres: ["Reggae"]
+styles: ["Dub"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="Fzekkfr8BvU" title="Lipi Brown's Selections - Star Wars Dub" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Phil Pratt - Star Wars Dub](https://www.discogs.com/release/8324465) |
+| Release Year   | 2016 |
+| Discogs Link   | [Phil Pratt - Star Wars Dub](https://www.discogs.com/release/8324465-Phill-Pratt-Star-Wars-Dub) |
 | Label          | Burning Sounds |
 | Format         | LP, Ltd, RE, 180 |
 | Catalog Number | BSRLP988 |
+
+
 

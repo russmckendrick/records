@@ -1,14 +1,17 @@
 ---
 title: "The Coral - Coral Island"
-album_artist: "The Coral"
-album_title: "Coral Island"
+artist: "The Coral"
+album_name: "Coral Island"
 date: 2021-05-05
 release_id: "18531073"
 slug: "coral-island-18531073"
+hideSummary: true
 cover:
     image: "coral-island-18531073.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Coral Island by The Coral"
+    caption: "Coral Island by The Coral"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -42,13 +45,16 @@ hideSummary: true
 - [Autumn Has Come](https://www.youtube.com/watch?v=Ei1lTXge2AI)
 - [My Best Friend](https://www.youtube.com/watch?v=js0V828SPQE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Coral - Coral Island](https://www.discogs.com/release/18531073) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Coral - Coral Island](https://www.discogs.com/release/18531073-The-Coral-Coral-Island) |
 | Label          | Modern Sky UK, Run on Records |
 | Format         | 2xLP, Album, Ltd, Lim |
 | Catalog Number | RO-001-LP |
+
+Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.  Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour: • Indie Record Store; marketed as 'exclusive colour'. • recordstore.co.uk; sold with limited edition print signed by all five band members. • Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members.
 

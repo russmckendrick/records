@@ -1,14 +1,17 @@
 ---
 title: "Amorphous Androgynous - We Persuade Ourselves We Are Immortal Remixes"
-album_artist: "Amorphous Androgynous"
-album_title: "We Persuade Ourselves We Are Immortal Remixes"
+artist: "Amorphous Androgynous"
+album_name: "We Persuade Ourselves We Are Immortal Remixes"
 date: 2021-02-26
 release_id: "17490379"
 slug: "we-persuade-ourselves-we-are-immortal-remixes-17490379"
+hideSummary: true
 cover:
     image: "we-persuade-ourselves-we-are-immortal-remixes-17490379.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "We Persuade Ourselves We Are Immortal Remixes by Amorphous Androgynous"
+    caption: "We Persuade Ourselves We Are Immortal Remixes by Amorphous Androgynous"
+genres: ["Electronic", "Rock"]
+styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="DRSO40Cs9ok" title="the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Amorphous Androgynous - We Persuade Ourselves We Are Immortal Remixes](https://www.discogs.com/release/17490379) |
+| Release Year   | 2021 |
+| Discogs Link   | [Amorphous Androgynous - We Persuade Ourselves We Are Immortal Remixes](https://www.discogs.com/release/17490379-The-Amorphous-Androgynous-We-Persuade-Ourselves-We-Are-Immortal-Remixes) |
 | Label          | fsoldigital.com |
 | Format         | LP, Album, RP, 180 |
 | Catalog Number | LPTOT78 |
+
+Second pressing, 180g vinyl not numbered. Cat.# LPTOT78 (back cover, above the barcode).
 

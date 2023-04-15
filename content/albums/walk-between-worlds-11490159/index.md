@@ -1,14 +1,17 @@
 ---
 title: "Simple Minds - Walk Between Worlds"
-album_artist: "Simple Minds"
-album_title: "Walk Between Worlds"
+artist: "Simple Minds"
+album_name: "Walk Between Worlds"
 date: 2018-02-03
 release_id: "11490159"
 slug: "walk-between-worlds-11490159"
+hideSummary: true
 cover:
     image: "walk-between-worlds-11490159.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Walk Between Worlds by Simple Minds"
+    caption: "Walk Between Worlds by Simple Minds"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -27,13 +30,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="xD4jZQqTa4A" title="Simple Minds - Simple Minds - Magic (Official Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Simple Minds - Walk Between Worlds](https://www.discogs.com/release/11490159) |
+| Release Year   | 2018 |
+| Discogs Link   | [Simple Minds - Walk Between Worlds](https://www.discogs.com/release/11490159-Simpleminds-Walk-Between-Worlds) |
 | Label          | BMG, BMG |
 | Format         | LP + LP, S/Sided, Etch + Album, Dlx, Fuc |
 | Catalog Number | 538349730, 4050538349733 |
+
+Made in the EU. Gatefold sleeve.  Sticker: DELUXE EDITION Double Album Etched Fuschia (Fuchsia) Vinyl Includes 3 x bonus tracks + Free download 538349730  Artist name on cover is in caps, and the letter N is mirrored.  Catalog number on back cover and on the hype sticker on the protective plastic is 538349730. Catalog number on spine is 4050538349733, which also coincides with the barcode. 
 

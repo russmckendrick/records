@@ -1,14 +1,17 @@
 ---
 title: "The Smiths - Hatful Of Hollow"
-album_artist: "The Smiths"
-album_title: "Hatful Of Hollow"
+artist: "The Smiths"
+album_name: "Hatful Of Hollow"
 date: 2016-10-03
 release_id: "4418602"
 slug: "hatful-of-hollow-4418602"
+hideSummary: true
 cover:
     image: "hatful-of-hollow-4418602.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hatful Of Hollow by The Smiths"
+    caption: "Hatful Of Hollow by The Smiths"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="hnpILIIo9ek" title="The Smiths - How Soon Is Now? (Official Music Video)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [The Smiths - Hatful Of Hollow](https://www.discogs.com/release/4418602) |
+| Release Year   | 2011 |
+| Discogs Link   | [The Smiths - Hatful Of Hollow](https://www.discogs.com/release/4418602-The-Smiths-Hatful-Of-Hollow) |
 | Label          | SIRE |
 | Format         | LP, Comp, 180 |
 | Catalog Number | R1 45205 |
+
+180 Gram Gatefold LP 1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles 
 

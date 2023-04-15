@@ -1,14 +1,17 @@
 ---
 title: "Simple Minds - The Vinyl Collection 79-84 "
-album_artist: "Simple Minds"
-album_title: "The Vinyl Collection 79-84 "
+artist: "Simple Minds"
+album_name: "The Vinyl Collection 79-84 "
 date: 2016-01-31
 release_id: "7709507"
 slug: "the-vinyl-collection-79-84-7709507"
+hideSummary: true
 cover:
     image: "the-vinyl-collection-79-84-7709507.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "The Vinyl Collection 79-84  by Simple Minds"
+    caption: "The Vinyl Collection 79-84  by Simple Minds"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -86,16 +89,17 @@ hideSummary: true
 72. The Kick Inside Of Me
 73. Shake Off The Ghosts
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Simple Minds - The Vinyl Collection 79-84 ](https://www.discogs.com/release/7709507) |
+| Release Year   | 2015 |
+| Discogs Link   | [Simple Minds - The Vinyl Collection 79-84 ](https://www.discogs.com/release/7709507-Simple-Minds-The-Vinyl-Collection-79-84-) |
 | Label          | Universal Music |
 | Format         | Box, Comp, Dlx, RM, 180 + LP, Album, RE + LP, Albu |
 | Catalog Number | 4733760 |
+
+
 

@@ -1,14 +1,17 @@
 ---
 title: "The Damned - Damned Damned Damned"
-album_artist: "The Damned"
-album_title: "Damned Damned Damned"
+artist: "The Damned"
+album_name: "Damned Damned Damned"
 date: 2022-10-14
 release_id: "24589202"
 slug: "damned-damned-damned-24589202"
+hideSummary: true
 cover:
     image: "damned-damned-damned-24589202.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Damned Damned Damned by The Damned"
+    caption: "Damned Damned Damned by The Damned"
+genres: ["Rock"]
+styles: ["Punk"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [I Feel Alright (2017 - Remaster)](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
 - [Neat Neat Neat (2017 - Remaster)](https://www.youtube.com/watch?v=gXKDtkCzSCw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202-The-Damned-Damned-Damned-Damned) |
 | Label          | BMG |
 | Format         | LP, Album, Ltd, RE, RM, Yel |
 | Catalog Number | BMGCAT705CLP |
+
+Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  © & ℗ 1977 Still Records Ltd Published by Rock Music Co except: A1, B1 published by Rock Music Co/Street Music Co B6 published by B. Feldman & Co  Manufactured in Norway. Runouts are etched.
 

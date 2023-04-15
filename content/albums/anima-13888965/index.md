@@ -1,14 +1,17 @@
 ---
 title: "Thom Yorke - Anima"
-album_artist: "Thom Yorke"
-album_title: "Anima"
+artist: "Thom Yorke"
+album_name: "Anima"
 date: 2019-07-20
 release_id: "13888965"
 slug: "anima-13888965"
+hideSummary: true
 cover:
     image: "anima-13888965.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Anima by Thom Yorke"
+    caption: "Anima by Thom Yorke"
+genres: ["Electronic"]
+styles: ["Ambient", "Experimental", "IDM"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Runwayaway](https://www.youtube.com/watch?v=yLwGHh63qM0)
 - [Thom Yorke – Ladies & Gentlemen, Thank You For Coming](https://www.youtube.com/watch?v=9ZXHj9kZk2Q)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Thom Yorke - Anima](https://www.discogs.com/release/13888965) |
+| Release Year   | 2019 |
+| Discogs Link   | [Thom Yorke - Anima](https://www.discogs.com/release/13888965-Thom-Yorke-Anima) |
 | Label          | XL Recordings |
 | Format         | 2x12\", Album, Ltd, Ora |
 | Catalog Number | XL987LPE |
+
+Includes download code for tracks A1 to D2.  Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion. 
 

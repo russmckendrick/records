@@ -1,14 +1,17 @@
 ---
 title: "Crippled Black Phoenix - White Light Generator"
-album_artist: "Crippled Black Phoenix"
-album_title: "White Light Generator"
+artist: "Crippled Black Phoenix"
+album_name: "White Light Generator"
 date: 2016-01-17
 release_id: "5498786"
 slug: "white-light-generator-5498786"
+hideSummary: true
 cover:
     image: "white-light-generator-5498786.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "White Light Generator by Crippled Black Phoenix"
+    caption: "White Light Generator by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Prog Rock", "Post Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Black Light Generator - Crippled Black Phoenix](https://www.youtube.com/watch?v=EMGgl5FHqkM)
 - [Crippled Black Phoenix - NO! A4=432Hz](https://www.youtube.com/watch?v=GsrUksHvrEo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Crippled Black Phoenix - White Light Generator](https://www.discogs.com/release/5498786) |
+| Release Year   | 2014 |
+| Discogs Link   | [Crippled Black Phoenix - White Light Generator](https://www.discogs.com/release/5498786-Crippled-Black-Phoenix-White-Light-Generator) |
 | Label          | Cool Green Recordings |
 | Format         | LP + LP, Whi + 7\" + Album |
 | Catalog Number | CGR 7430 1 |
+
+Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.  ℗ © Mascot Music Production and Publishing B.V. All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU.
 

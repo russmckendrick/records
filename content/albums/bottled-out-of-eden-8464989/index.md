@@ -1,14 +1,17 @@
 ---
 title: "Knifeworld - Bottled Out Of Eden"
-album_artist: "Knifeworld"
-album_title: "Bottled Out Of Eden"
+artist: "Knifeworld"
+album_name: "Bottled Out Of Eden"
 date: 2016-05-05
 release_id: "8464989"
 slug: "bottled-out-of-eden-8464989"
+hideSummary: true
 cover:
     image: "bottled-out-of-eden-8464989.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Bottled Out Of Eden by Knifeworld"
+    caption: "Bottled Out Of Eden by Knifeworld"
+genres: ["Rock", "Pop"]
+styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 {{< youtube id="T_9wjlangXE" title="KnifeWorld - Bottled Out Of Eden [Full Album]" >}}
 - [KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=WzXVxOT8an0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Knifeworld - Bottled Out Of Eden](https://www.discogs.com/release/8464989) |
+| Release Year   | 2016 |
+| Discogs Link   | [Knifeworld - Bottled Out Of Eden](https://www.discogs.com/release/8464989-Knifeworld-Bottled-Out-Of-Eden) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | IOMLP 447, 88985306401 |
+
+Black vinyl in gatefold with CD.  Recorded at [l292088]. Additional recording at [l999278].  With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.  Layout and artwork at [l877277]. Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].  Published by [l196068].  Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.  knifeworld.co.uk
 

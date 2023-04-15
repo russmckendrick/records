@@ -1,14 +1,17 @@
 ---
 title: "Spiritualized - And Nothing Hurt"
-album_artist: "Spiritualized"
-album_title: "And Nothing Hurt"
+artist: "Spiritualized"
+album_name: "And Nothing Hurt"
 date: 2018-09-07
 release_id: "12483339"
 slug: "and-nothing-hurt-12483339"
+hideSummary: true
 cover:
     image: "and-nothing-hurt-12483339.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "And Nothing Hurt by Spiritualized"
+    caption: "And Nothing Hurt by Spiritualized"
+genres: ["Rock"]
+styles: ["Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="ydrvW4Sw4QA" title="Spiritualized - And Nothing Hurt Full (Album Stream)" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Spiritualized - And Nothing Hurt](https://www.discogs.com/release/12483339) |
+| Release Year   | 2018 |
+| Discogs Link   | [Spiritualized - And Nothing Hurt](https://www.discogs.com/release/12483339-Spiritualized-And-Nothing-Hurt) |
 | Label          | Bella Union |
 | Format         | LP, Album, Whi |
 | Catalog Number | BELLAVI800HZ |
+
+White Vinyl release exclusive to independent record stores
 

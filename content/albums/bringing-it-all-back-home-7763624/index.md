@@ -1,14 +1,17 @@
 ---
 title: "Bob Dylan - Bringing It All Back Home"
-album_artist: "Bob Dylan"
-album_title: "Bringing It All Back Home"
+artist: "Bob Dylan"
+album_name: "Bringing It All Back Home"
 date: 2016-12-08
 release_id: "7763624"
 slug: "bringing-it-all-back-home-7763624"
+hideSummary: true
 cover:
     image: "bringing-it-all-back-home-7763624.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Bringing It All Back Home by Bob Dylan"
+    caption: "Bringing It All Back Home by Bob Dylan"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Folk Rock", "Folk"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. It's Alright, Ma (I'm Only Bleeding) (7:30)
 11. It's All Over Now, Baby Blue (4:13)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Bob Dylan - Bringing It All Back Home](https://www.discogs.com/release/7763624) |
+| Release Year   | 2015 |
+| Discogs Link   | [Bob Dylan - Bringing It All Back Home](https://www.discogs.com/release/7763624-Bob-Dylan-Bringing-It-All-Back-Home) |
 | Label          | Columbia, Legacy, Sony Music, Legacy Vinyl |
 | Format         | LP, Album, Mono, RE, 180 |
 | Catalog Number | CL 2328, 88875146231 |
+
+Re-issue with Legacy Vinyl 180 Gram sticker on the front.  Originally released 1965. © 1965, 2015 Columbia Records. Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  © 1965 by Bob Dylan.
 

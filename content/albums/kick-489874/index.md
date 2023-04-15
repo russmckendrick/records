@@ -1,14 +1,17 @@
 ---
 title: "INXS - Kick"
-album_artist: "INXS"
-album_title: "Kick"
+artist: "INXS"
+album_name: "Kick"
 date: 2015-09-10
 release_id: "489874"
 slug: "kick-489874"
+hideSummary: true
 cover:
     image: "kick-489874.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Kick by INXS"
+    caption: "Kick by INXS"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -45,13 +48,16 @@ hideSummary: true
 - [INXS – New Sensation](https://www.youtube.com/watch?v=IqWUU7qmVd8)
 - [INXS - Never Tear Us Apart (Soul Version)](https://www.youtube.com/watch?v=MxFrA-eq074)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [INXS - Kick](https://www.discogs.com/release/489874) |
+| Release Year   | 1987 |
+| Discogs Link   | [INXS - Kick](https://www.discogs.com/release/489874-INXS-Kick) |
 | Label          | Mercury, Mercury |
 | Format         | LP, Album, Gat |
 | Catalog Number | MERH 114, 832 721-1 |
+
+Gatefold sleeve. Includes a picture Inner sleeve with printed lyrics.  Track durations stated on the centre labels.  A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]  As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam)
 

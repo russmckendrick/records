@@ -1,14 +1,17 @@
 ---
 title: "Peter Gabriel - Us"
-album_artist: "Peter Gabriel"
-album_title: "Us"
+artist: "Peter Gabriel"
+album_name: "Us"
 date: 2016-12-08
 release_id: "9471068"
 slug: "us-9471068"
+hideSummary: true
 cover:
     image: "us-9471068.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Us by Peter Gabriel"
+    caption: "Us by Peter Gabriel"
+genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
+styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [Peter Gabriel - Kiss That Frog](https://www.youtube.com/watch?v=S4Ah2dxTcWw)
 - [Peter Gabriel ~ Only Us](https://www.youtube.com/watch?v=vD0jCYW8i4Y)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Peter Gabriel - Us](https://www.discogs.com/release/9471068) |
+| Release Year   | 2016 |
+| Discogs Link   | [Peter Gabriel - Us](https://www.discogs.com/release/9471068-Peter-Gabriel-Us) |
 | Label          | Real World Records, Caroline International |
 | Format         | 2xLP, Album, RE, RM |
 | Catalog Number | PGLPR7 |
+
+180 Gram Vinyl, Half Speed Remaster. Includes Hi-Res Download Code.  ℗ & © 2016 Peter Gabriel Ltd  England  In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped.  
 

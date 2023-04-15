@@ -1,14 +1,17 @@
 ---
 title: "John Grant - Grey Tickles, Black Pressure"
-album_artist: "John Grant"
-album_title: "Grey Tickles, Black Pressure"
+artist: "John Grant"
+album_name: "Grey Tickles, Black Pressure"
 date: 2015-10-09
 release_id: "7574111"
 slug: "grey-tickles-black-pressure-7574111"
+hideSummary: true
 cover:
     image: "grey-tickles-black-pressure-7574111.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Grey Tickles, Black Pressure by John Grant"
+    caption: "Grey Tickles, Black Pressure by John Grant"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Indie Rock", "Experimental"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [John Grant - Voodoo Doll (Official Music Video)](https://www.youtube.com/watch?v=rOIZbYaVWSg)
 - [John Grant - Grey Tickles, Black Pressure (Full Album)](https://www.youtube.com/watch?v=5yOYx2qsIUg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [John Grant - Grey Tickles, Black Pressure](https://www.discogs.com/release/7574111) |
+| Release Year   | 2015 |
+| Discogs Link   | [John Grant - Grey Tickles, Black Pressure](https://www.discogs.com/release/7574111-John-Grant-Grey-Tickles-Black-Pressure) |
 | Label          | Bella Union, Bella Union, Bella Union |
 | Format         | LP, Album, Lav + LP, Album, Ora + CD, Album + CD,  |
 | Catalog Number | BELLA505V, BELLA505VRT, BELLA514CD |
+
+Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.  Limited to 500 copies. Rough Trade European exclusive.
 

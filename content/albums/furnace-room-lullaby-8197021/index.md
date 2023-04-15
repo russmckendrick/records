@@ -1,14 +1,17 @@
 ---
 title: "Neko Case & Her Boyfriends - Furnace Room Lullaby"
-album_artist: "Neko Case & Her Boyfriends"
-album_title: "Furnace Room Lullaby"
+artist: "Neko Case & Her Boyfriends"
+album_name: "Furnace Room Lullaby"
 date: 2022-03-19
 release_id: "8197021"
 slug: "furnace-room-lullaby-8197021"
+hideSummary: true
 cover:
     image: "furnace-room-lullaby-8197021.jpg"
-tags: ["Rock", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Furnace Room Lullaby by Neko Case & Her Boyfriends"
+    caption: "Furnace Room Lullaby by Neko Case & Her Boyfriends"
+genres: ["Rock", "Folk, World, & Country"]
+styles: ["Alternative Rock", "Country"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
 - [Neko Case - Furnace Room Lullaby [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Neko Case & Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021) |
+| Release Year   | 2016 |
+| Discogs Link   | [Neko Case & Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |
 | Label          | Anti-, Lady Pilot, Anti- |
 | Format         | LP, Album, Ltd, RE, Cle |
 | Catalog Number | #86915-1, 99976-1, 86915-1CRM (Clear/Red) |
+
+Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.  
 

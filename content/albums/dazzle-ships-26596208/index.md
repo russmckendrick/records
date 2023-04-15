@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Dazzle Ships"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "Dazzle Ships"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "Dazzle Ships"
 date: 2023-04-03
 release_id: "26596208"
 slug: "dazzle-ships-26596208"
+hideSummary: true
 cover:
     image: "dazzle-ships-26596208.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Dazzle Ships by Orchestral Manoeuvres In The Dark"
+    caption: "Dazzle Ships by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop", "Experimental"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Telegraph](https://www.youtube.com/watch?v=keNcC2qn_LA)
 - [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2023 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/26596208) |
+| Release Year   | 2023 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/26596208-OMD-Dazzle-Ships) |
 | Label          | Virgin |
 | Format         | LP, Album, RE, RP, Sil + LP, Blu + Ltd, 40t |
 | Catalog Number | 0602448814920 |
+
+An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited. Made in the EU.
 

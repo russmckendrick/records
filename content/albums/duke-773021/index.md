@@ -1,14 +1,17 @@
 ---
 title: "Genesis - Duke"
-album_artist: "Genesis"
-album_title: "Duke"
+artist: "Genesis"
+album_name: "Duke"
 date: 2016-01-13
 release_id: "773021"
 slug: "duke-773021"
+hideSummary: true
 cover:
     image: "duke-773021.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Duke by Genesis"
+    caption: "Duke by Genesis"
+genres: ["Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Genesis - Duchess](https://www.youtube.com/watch?v=J3fLoF-Jus0)
 - [Genesis - Turn It On Again (Official Music Video)](https://www.youtube.com/watch?v=8OIkw9kJ0u4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [Genesis - Duke](https://www.discogs.com/release/773021) |
+| Release Year   | 1980 |
+| Discogs Link   | [Genesis - Duke](https://www.discogs.com/release/773021-Genesis-Duke) |
 | Label          | Charisma |
 | Format         | LP, Album, Gat |
 | Catalog Number | CBR 101 |
+
+Sleeve: Engineered by David Hentschel of Dukeslodge Enterprises Ltd. Recorded at Polar Studios Sweden Mixed at Maison Rouge London Mastered at Trident All songs: Hit & Run Music Ltd.  "Albert" also appears in L'Alphabet D'Albert by Lionel Koechlin (Éditions Jannink) ®  Illustrations: © 1979 Editions Jannink, 3 Rue St George, Paris 75009 and © 1980 Lionel Koechlin. Marketed by Charisma Records Ltd. Manufactured and distributed by Phonogram Ltd. © 1980 Charisma Records Ltd.  Labels: Original sound recording made by Charisma Records Ltd. ℗ 1980 Charisma Records Ltd. Hit and Run Music Publishing Ltd. Marketed and distributed by Phonogram Ltd _ Gatefold sleeve. Initial copies with 'Special Price - Limited Period' sticker (see images). Track durations are not printed on the release.
 

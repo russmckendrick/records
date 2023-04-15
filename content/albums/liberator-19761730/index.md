@@ -1,14 +1,17 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Liberator"
-album_artist: "Orchestral Manoeuvres In The Dark"
-album_title: "Liberator"
+artist: "Orchestral Manoeuvres In The Dark"
+album_name: "Liberator"
 date: 2022-07-31
 release_id: "19761730"
 slug: "liberator-19761730"
+hideSummary: true
 cover:
     image: "liberator-19761730.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Liberator by Orchestral Manoeuvres In The Dark"
+    caption: "Liberator by Orchestral Manoeuvres In The Dark"
+genres: ["Electronic"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Dollar Girl](https://www.youtube.com/watch?v=KT-1fnFOzuM)
 - [Christine](https://www.youtube.com/watch?v=oh4JiRbgpMY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730) |
+| Release Year   | 2021 |
+| Discogs Link   | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730-OMD-Liberator) |
 | Label          | EMI, UMC |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | 0602435422497, 3542249 |
+
+An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files).
 

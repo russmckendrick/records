@@ -1,14 +1,17 @@
 ---
 title: "Heart - Heart"
-album_artist: "Heart"
-album_title: "Heart"
+artist: "Heart"
+album_name: "Heart"
 date: 2017-07-11
 release_id: "1662137"
 slug: "heart-1662137"
+hideSummary: true
 cover:
     image: "heart-1662137.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Heart by Heart"
+    caption: "Heart by Heart"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -30,13 +33,16 @@ hideSummary: true
 - [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
 - [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1981 |
-| Discogs Link   | [Heart - Heart](https://www.discogs.com/release/1662137) |
+| Release Year   | 1981 |
+| Discogs Link   | [Heart - Heart](https://www.discogs.com/release/1662137-Heart-Heart) |
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | EPC 84829 |
+
+All Live Recordings
 

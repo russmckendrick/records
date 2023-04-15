@@ -1,14 +1,17 @@
 ---
 title: "The Stone Roses - The Stone Roses"
-album_artist: "The Stone Roses"
-album_title: "The Stone Roses"
+artist: "The Stone Roses"
+album_name: "The Stone Roses"
 date: 2021-07-27
 release_id: "19606036"
 slug: "the-stone-roses-19606036"
+hideSummary: true
 cover:
     image: "the-stone-roses-19606036.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Stone Roses by The Stone Roses"
+    caption: "The Stone Roses by The Stone Roses"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [The Stone Roses - This Is the One (Audio)](https://www.youtube.com/watch?v=DbyrOBVDtR4)
 - [The Stone Roses - I Am the Resurrection (Audio)](https://www.youtube.com/watch?v=vY9g-PgSiGA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/19606036) |
+| Release Year   | 2021 |
+| Discogs Link   | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/19606036-The-Stone-Roses-The-Stone-Roses) |
 | Label          | Silvertone Records, Silvertone Records, Sony Music |
 | Format         | LP, Album, Ltd, RE, Yel |
 | Catalog Number | 19439894221, 88843041991 |
+
+HMV exclusive with obi strip. Limited to 2000 copies.  ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited  A4 is credited as as Another Schroeder/Garage Flower Production
 

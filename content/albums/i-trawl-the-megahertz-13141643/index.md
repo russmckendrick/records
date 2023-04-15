@@ -1,14 +1,17 @@
 ---
 title: "Prefab Sprout - I Trawl The Megahertz"
-album_artist: "Prefab Sprout"
-album_title: "I Trawl The Megahertz"
+artist: "Prefab Sprout"
+album_name: "I Trawl The Megahertz"
 date: 2019-02-01
 release_id: "13141643"
 slug: "i-trawl-the-megahertz-13141643"
+hideSummary: true
 cover:
     image: "i-trawl-the-megahertz-13141643.jpg"
-tags: ["Electronic", "Pop", "Classical"]
-hideSummary: true
+    alt: "I Trawl The Megahertz by Prefab Sprout"
+    caption: "I Trawl The Megahertz by Prefab Sprout"
+genres: ["Electronic", "Pop", "Classical"]
+styles: ["Modern Classical", "Experimental"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [Paddy McAloon - Esprit De Corps](https://www.youtube.com/watch?v=TkRpbSVZQpM)
 - [I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Prefab Sprout - I Trawl The Megahertz](https://www.discogs.com/release/13141643) |
+| Release Year   | 2019 |
+| Discogs Link   | [Prefab Sprout - I Trawl The Megahertz](https://www.discogs.com/release/13141643-Prefab-Sprout-I-Trawl-The-Megahertz) |
 | Label          | Sony Music |
 | Format         | LP, S/Sided, Etch, Whi + LP, Whi + Album, Ltd, RE, |
 | Catalog Number | 88985411061 |
+
+℗ & © 2019 Paddy McAloon under exclusive license to Sony Music Entertainment UK Limited. Made in the EU. Design studio credited as Hoof.net.au  Limited edition of 1000 copies pressed on 180g white vinyl, available exclusively from Rough Trade. Includes download code. Sticker with barcode for this edition blocking barcode printed on back cover. Gatefold jacket, printed inner sleeves, with lyrics and credits on A/B inner sleeve. Release title listed as I Trawl The Megahertz Remastered on spine and labels. Tracks listed sequentially from 01. to 09. on back cover.  Hype sticker on front cover: "2LP Remastered from the original tapes, overseen by Paddy McAloon Side B fully etched 180 gram heavy weight vinyl + download code 88985411061"  Originally issued in 2003 as [m53413], this reissue credited to Prefab Sprout.  From around 4th February 2019 Rough Trade's website reported that "The LPX2+ is currently off sale due to a manufacturing fault. Updates will follow".  In March 2019 a new press was released for sale and sent out as replacement for the faulty copies. The repress can be found here:  [r=13351529].
 

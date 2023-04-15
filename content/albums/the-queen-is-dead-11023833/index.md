@@ -1,14 +1,17 @@
 ---
 title: "The Smiths - The Queen Is Dead"
-album_artist: "The Smiths"
-album_title: "The Queen Is Dead"
+artist: "The Smiths"
+album_name: "The Queen Is Dead"
 date: 2018-01-20
 release_id: "11023833"
 slug: "the-queen-is-dead-11023833"
+hideSummary: true
 cover:
     image: "the-queen-is-dead-11023833.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Queen Is Dead by The Smiths"
+    caption: "The Queen Is Dead by The Smiths"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -52,16 +55,17 @@ hideSummary: true
 38. The Queen Is Dead (5:08)
 39. I Know It's Over (7:39)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Smiths - The Queen Is Dead](https://www.discogs.com/release/11023833) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Smiths - The Queen Is Dead](https://www.discogs.com/release/11023833-The-Smiths-The-Queen-Is-Dead) |
 | Label          | Warner Bros. Records, Warner Bros. Records |
 | Format         | Box, Dlx + LP, Album, RM + 2xLP, Comp + 2xLP, Albu |
 | Catalog Number | 0190295785628, QIDLP 2017 |
+
+Round silver hype sticker on shrink: '5 LP BOX SET featuring the 2017 Master of the seminal album, additional recordings and an unreleased live album, all heavyweight vinyl 0190295785628'. All three issued with gatefold sleeve and printed inner sleeves. Made in the EU.
 

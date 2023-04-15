@@ -1,14 +1,17 @@
 ---
 title: "Eels - Earth To Dora (She Belongs With The Gentle Souls)"
-album_artist: "Eels"
-album_title: "Earth To Dora (She Belongs With The Gentle Souls)"
+artist: "Eels"
+album_name: "Earth To Dora (She Belongs With The Gentle Souls)"
 date: 2020-11-01
 release_id: "16136698"
 slug: "earth-to-dora-she-belongs-with-the-gentle-souls-16136698"
+hideSummary: true
 cover:
     image: "earth-to-dora-she-belongs-with-the-gentle-souls-16136698.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Earth To Dora (She Belongs With The Gentle Souls) by Eels"
+    caption: "Earth To Dora (She Belongs With The Gentle Souls) by Eels"
+genres: ["Rock", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 - [EELS - Baby Let’s Make It Real - official lyric video](https://www.youtube.com/watch?v=VXuBaaxH_7U)
 - [EELS - Are We Alright Again - official video](https://www.youtube.com/watch?v=ERdHNn1tggA)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Eels - Earth To Dora (She Belongs With The Gentle Souls)](https://www.discogs.com/release/16136698) |
+| Release Year   | 2020 |
+| Discogs Link   | [Eels - Earth To Dora (She Belongs With The Gentle Souls)](https://www.discogs.com/release/16136698-Eels-Earth-To-Dora-She-Belongs-With-The-Gentle-Souls) |
 | Label          | E Works Records |
 | Format         | LP, Album |
 | Catalog Number | EWORKS116LP |
+
+Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.
 

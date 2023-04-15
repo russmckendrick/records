@@ -1,14 +1,17 @@
 ---
 title: "Fleetwood Mac - Tango In The Night"
-album_artist: "Fleetwood Mac"
-album_title: "Tango In The Night"
+artist: "Fleetwood Mac"
+album_name: "Tango In The Night"
 date: 2017-04-02
 release_id: "10063396"
 slug: "tango-in-the-night-10063396"
+hideSummary: true
 cover:
     image: "tango-in-the-night-10063396.jpg"
-tags: ["Electronic", "Rock", "Pop"]
-hideSummary: true
+    alt: "Tango In The Night by Fleetwood Mac"
+    caption: "Tango In The Night by Fleetwood Mac"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -98,13 +101,16 @@ hideSummary: true
 - [Fleetwood Mac - Little Lies (Official Music Video)](https://www.youtube.com/watch?v=uCGD9dT12C0)
 - [Fleetwood Mac - Everywhere (Official Music Video)](https://www.youtube.com/watch?v=YF1R0hc5Q2I)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/10063396) |
+| Release Year   | 2017 |
+| Discogs Link   | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/10063396-Fleetwood-Mac-Tango-In-The-Night) |
 | Label          | Warner Bros. Records |
 | Format         | CD, Album, RE, RM + CD, RM + CD, Comp, RM + DVD-V, |
 | Catalog Number | R2 554813 |
+
+Deluxe edition of 'Tango In The Night', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Demo's, Alternates and B-Sides, Disc 3: CD - The 12'' mixes, Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album, Disc 5: 180g Vinyl LP - original album, remastered. Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  The Everywhere video on the DVD is the version that doesn't feature the band superimposed.  Sticker on front with format description + cat. no. R2 554813
 

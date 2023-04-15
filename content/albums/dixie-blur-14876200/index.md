@@ -1,14 +1,17 @@
 ---
 title: "Jonathan Wilson - Dixie Blur"
-album_artist: "Jonathan Wilson"
-album_title: "Dixie Blur"
+artist: "Jonathan Wilson"
+album_name: "Dixie Blur"
 date: 2020-03-07
 release_id: "14876200"
 slug: "dixie-blur-14876200"
+hideSummary: true
 cover:
     image: "dixie-blur-14876200.jpg"
-tags: ["Folk, World, & Country"]
-hideSummary: true
+    alt: "Dixie Blur by Jonathan Wilson"
+    caption: "Dixie Blur by Jonathan Wilson"
+genres: ["Folk, World, & Country"]
+styles: null
 ---
 
 ## Tracklisting
@@ -44,13 +47,16 @@ hideSummary: true
 - [Jonathan Wilson - Riding the Blinds [Official Audio]](https://www.youtube.com/watch?v=so1jiIyE57w)
 - [Jonathan Wilson - Golden Apples [Official Audio]](https://www.youtube.com/watch?v=iouvagefzjc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Jonathan Wilson - Dixie Blur](https://www.discogs.com/release/14876200) |
+| Release Year   | 2020 |
+| Discogs Link   | [Jonathan Wilson - Dixie Blur](https://www.discogs.com/release/14876200-Jonathan-Wilson-Dixie-Blur) |
 | Label          | Bella Union, BMG |
 | Format         | 2xLP, Album, Min |
 | Catalog Number | BELLA995VX, 538597140 |
+
+Mint green vinyl pressing.
 

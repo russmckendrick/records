@@ -1,14 +1,17 @@
 ---
 title: "Stars - There Is No Love In Fluorescent Light"
-album_artist: "Stars"
-album_title: "There Is No Love In Fluorescent Light"
+artist: "Stars"
+album_name: "There Is No Love In Fluorescent Light"
 date: 2017-11-07
 release_id: "10994086"
 slug: "there-is-no-love-in-fluorescent-light-10994086"
+hideSummary: true
 cover:
     image: "there-is-no-love-in-fluorescent-light-10994086.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "There Is No Love In Fluorescent Light by Stars"
+    caption: "There Is No Love In Fluorescent Light by Stars"
+genres: ["Rock", "Pop"]
+styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Fluorescent Light](https://www.youtube.com/watch?v=UItCDy8ARYA)
 - [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Stars - There Is No Love In Fluorescent Light](https://www.discogs.com/release/10994086) |
+| Release Year   | 2017 |
+| Discogs Link   | [Stars - There Is No Love In Fluorescent Light](https://www.discogs.com/release/10994086-Stars-There-Is-No-Love-In-Fluorescent-Light) |
 | Label          | Last Gang Records |
 | Format         | 2xLP, Album, Ltd, Bon |
 | Catalog Number | Q101943 |
+
+Limited to 500 copies. Pressed on 140g bone vinyl, double gatefold. Includes Digital Download.
 

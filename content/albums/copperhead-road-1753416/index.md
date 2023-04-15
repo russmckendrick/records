@@ -1,14 +1,17 @@
 ---
 title: "Steve Earle - Copperhead Road"
-album_artist: "Steve Earle"
-album_title: "Copperhead Road"
+artist: "Steve Earle"
+album_name: "Copperhead Road"
 date: 2016-02-29
 release_id: "1753416"
 slug: "copperhead-road-1753416"
+hideSummary: true
 cover:
     image: "copperhead-road-1753416.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Copperhead Road by Steve Earle"
+    caption: "Copperhead Road by Steve Earle"
+genres: ["Rock"]
+styles: ["Folk Rock", "Country Rock"]
 ---
 
 ## Tracklisting
@@ -31,13 +34,16 @@ hideSummary: true
 - [Steve Earle & The Pogues  - Johnny Come Lately](https://www.youtube.com/watch?v=oLJ9u4hfz3M)
 - [Steve Earle - Copperhead Road](https://www.youtube.com/watch?v=uhMO9azmKNU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1988 |
-| Discogs Link   | [Steve Earle - Copperhead Road](https://www.discogs.com/release/1753416) |
+| Release Year   | 1988 |
+| Discogs Link   | [Steve Earle - Copperhead Road](https://www.discogs.com/release/1753416-Steve-Earle-Copperhead-Road) |
 | Label          | MCA Records |
 | Format         | LP, Album |
 | Catalog Number | MCF 3426 |
+
+℗ & © 1988 UNI Records, Inc. Original sound recordings made by UNI Records, Inc. MCA Records Ltd. are the exclusive licensees for the U.K. Made in England All tracks Pub. BMG Music Pub. Ltd except B4 Chappell Music Ltd.
 

@@ -1,14 +1,17 @@
 ---
 title: "Nick Drake - Bryter Layter"
-album_artist: "Nick Drake"
-album_title: "Bryter Layter"
+artist: "Nick Drake"
+album_name: "Bryter Layter"
 date: 2015-08-09
 release_id: "4635606"
 slug: "bryter-layter-4635606"
+hideSummary: true
 cover:
     image: "bryter-layter-4635606.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Bryter Layter by Nick Drake"
+    caption: "Bryter Layter by Nick Drake"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -35,13 +38,16 @@ hideSummary: true
 - [Northern Sky](https://www.youtube.com/watch?v=BBBkFWXiL9Q)
 - [Sunday](https://www.youtube.com/watch?v=MkCZABD6Z68)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Nick Drake - Bryter Layter](https://www.discogs.com/release/4635606) |
+| Release Year   | 2013 |
+| Discogs Link   | [Nick Drake - Bryter Layter](https://www.discogs.com/release/4635606-Nick-Drake-Bryter-Layter) |
 | Label          | Island Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0602537347551 |
+
+℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company. Made in the EU.  Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format: -24 bit / 96 kHz FLAC -24 bit / 96 kHz 320 Kbps MP3 -"Dubbed From Disc" 320 Kbps MP3  Adam Nunn's credit does not appear on release. Universal Music Group International appears on sticker and coupon only.  Cut from a tape-copy of original masters.
 

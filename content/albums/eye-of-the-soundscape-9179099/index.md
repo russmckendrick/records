@@ -1,14 +1,17 @@
 ---
 title: "Riverside - Eye Of The Soundscape"
-album_artist: "Riverside"
-album_title: "Eye Of The Soundscape"
+artist: "Riverside"
+album_name: "Eye Of The Soundscape"
 date: 2016-10-24
 release_id: "9179099"
 slug: "eye-of-the-soundscape-9179099"
+hideSummary: true
 cover:
     image: "eye-of-the-soundscape-9179099.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Eye Of The Soundscape by Riverside"
+    caption: "Eye Of The Soundscape by Riverside"
+genres: ["Rock"]
+styles: ["Ambient", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -47,13 +50,16 @@ hideSummary: true
 - [Riverside - Rainbow Trip](https://www.youtube.com/watch?v=McNam4CH7VE)
 - [Riverside -  Rainbow Trip (2016)](https://www.youtube.com/watch?v=K1tM7opVaLk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Riverside - Eye Of The Soundscape](https://www.discogs.com/release/9179099) |
+| Release Year   | 2016 |
+| Discogs Link   | [Riverside - Eye Of The Soundscape](https://www.discogs.com/release/9179099-Riverside-Eye-Of-The-Soundscape) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, 180 + LP, S/Sided, Etch, 180 + 2xCD, Album,  |
 | Catalog Number | IOMLP 465, 88985365321 |
+
+Black vinyl in a gatefold sleeve with printed inner sleeves with artwork, credits, and liner notes. Includes the full album on 2 CDs in 1 clear plastic sleeve with 2 separate bags.  [Sticker on shrink:] Complementary Instrumental And Ambient Electronic Release By Poland's Progressive Rock Institution Riverside. "Eye Of The Soundscape" compiles all the Special experimental Riverside tracks previously used as Bonus material for the "Shrine Of New Generation Slaves" and "Love, Fear and the Time Machine" albums, alongside rare cuts as well as 4 new songs. 13 highly atmospheric compositions in a playing time of +100 minutes. 3x LP on 180gr. vinyl with etching on side F. and with album on 2 CDs as bonus.   Recorded, mixed and mastered at Serakos Studio, Warszawa, Poland [...] (2007-2016)  © 2016 InsideOut Music • ℗ 2016Century Media Records Ltd., under exclusive license from InsideOut Music Made in the EU.    Tracks durations as given on release.
 

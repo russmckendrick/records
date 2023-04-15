@@ -1,14 +1,17 @@
 ---
 title: "Jive Bunny And The Mastermixers - Swing The Mood"
-album_artist: "Jive Bunny And The Mastermixers"
-album_title: "Swing The Mood"
+artist: "Jive Bunny And The Mastermixers"
+album_name: "Swing The Mood"
 date: 2017-05-16
 release_id: "576722"
 slug: "swing-the-mood-576722"
+hideSummary: true
 cover:
     image: "swing-the-mood-576722.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Swing The Mood by Jive Bunny And The Mastermixers"
+    caption: "Swing The Mood by Jive Bunny And The Mastermixers"
+genres: ["Rock"]
+styles: ["Rock & Roll"]
 ---
 
 ## Tracklisting
@@ -26,13 +29,16 @@ hideSummary: true
 - [Jive Bunny and the Mastermixers - Swing the Mood](https://www.youtube.com/watch?v=BCAlJnZFiWk)
 - [Jive Bunny & The Mastermixers | Swing The Mood  | Original Video](https://www.youtube.com/watch?v=hTA6I6hn-z4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1989 |
-| Discogs Link   | [Jive Bunny And The Mastermixers - Swing The Mood](https://www.discogs.com/release/576722) |
+| Release Year   | 1989 |
+| Discogs Link   | [Jive Bunny And The Mastermixers - Swing The Mood](https://www.discogs.com/release/576722-Jive-Bunny-And-The-Mastermixers-Swing-The-Mood) |
 | Label          | Music Factory, Music Factory |
 | Format         | 12\", Single, Son |
 | Catalog Number | MFDT 001, MFDT001 |
+
+Tracks licensed from: Barnaby Records Inc. Bulldog Records, Kilo Music Ltd. Modern Records.  ℗&© Music Factory 1989  Distributed in the U.K. by B.M.G.  The Musical Clef symbol is embossed on side B with just the one following dot.  Same Cat#, CBS Clinton Pressing, runouts MFDT 001, with no embossed B Side label, with the text GLENN MILLER MEDLEY (THE J.B. EDIT) 3.55 a smaller font and no red outer circle in both labels here: [r12269776]
 

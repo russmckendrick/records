@@ -1,14 +1,17 @@
 ---
 title: "The Mute Gods - Tardigrades Will Inherit The Earth"
-album_artist: "The Mute Gods"
-album_title: "Tardigrades Will Inherit The Earth"
+artist: "The Mute Gods"
+album_name: "Tardigrades Will Inherit The Earth"
 date: 2017-03-26
 release_id: "9875365"
 slug: "tardigrades-will-inherit-the-earth-9875365"
+hideSummary: true
 cover:
     image: "tardigrades-will-inherit-the-earth-9875365.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Tardigrades Will Inherit The Earth by The Mute Gods"
+    caption: "Tardigrades Will Inherit The Earth by The Mute Gods"
+genres: ["Rock"]
+styles: ["Prog Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [THE MUTE GODS - We Can't Carry On (Lyric Video)](https://www.youtube.com/watch?v=SyjNard5ers)
 - [The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)](https://www.youtube.com/watch?v=mp_bqHtKBAM)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [The Mute Gods - Tardigrades Will Inherit The Earth](https://www.discogs.com/release/9875365) |
+| Release Year   | 2017 |
+| Discogs Link   | [The Mute Gods - Tardigrades Will Inherit The Earth](https://www.discogs.com/release/9875365-The-Mute-Gods-Tardigrades-Will-Inherit-The-Earth) |
 | Label          | Inside Out Music, Inside Out Music |
 | Format         | 2xLP, Album, 180 + CD, Album |
 | Catalog Number | IOMLP 474, 88985405511 |
+
+Sleeve Gatefold Mirror Man: Michael Grassi Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).  Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43  InsideOut Music provided signed postcard from Nick Beggs with purchase of LP
 

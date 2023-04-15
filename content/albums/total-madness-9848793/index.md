@@ -1,14 +1,17 @@
 ---
 title: "Madness - Total Madness"
-album_artist: "Madness"
-album_title: "Total Madness"
+artist: "Madness"
+album_name: "Total Madness"
 date: 2017-02-22
 release_id: "9848793"
 slug: "total-madness-9848793"
+hideSummary: true
 cover:
     image: "total-madness-9848793.jpg"
-tags: ["Rock", "Reggae", "Pop"]
-hideSummary: true
+    alt: "Total Madness by Madness"
+    caption: "Total Madness by Madness"
+genres: ["Rock", "Reggae", "Pop"]
+styles: ["Ska", "Reggae-Pop"]
 ---
 
 ## Tracklisting
@@ -36,16 +39,17 @@ hideSummary: true
 22. Madness
 23. Night Boat To Cairo
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Madness - Total Madness](https://www.discogs.com/release/9848793) |
+| Release Year   | 2017 |
+| Discogs Link   | [Madness - Total Madness](https://www.discogs.com/release/9848793-Madness-Total-Madness) |
 | Label          | Music On Vinyl |
 | Format         | 2xLP, Comp, Ltd, Num, RE, RP, Red |
 | Catalog Number | MOVLP629 |
+
+Limited edition of 2.000 numbered copies on red vinyl Gatefold Sleeve. Repressed from [r=4071815] master.  MOV 00[XXXX] [silver print on back sleeve]  This compilation ℗ and © 2012 Union Square Music Ltd. Made in the EU.  All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.  Hype stickers on cellophane bag:  "Britain's Favourite Band! Featuring Our House One Step Beyond Baggy Trousers It Must Be Love House Of Fun MOVLP629"  "Music On Vinyl Madness 'Total Madness' All Their Greatest Hits Limited Edition of 2000 Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com MOVLP629" 
 

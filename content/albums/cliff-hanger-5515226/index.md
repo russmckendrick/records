@@ -1,14 +1,17 @@
 ---
 title: "Jimmy Cliff - Cliff Hanger"
-album_artist: "Jimmy Cliff"
-album_title: "Cliff Hanger"
+artist: "Jimmy Cliff"
+album_name: "Cliff Hanger"
 date: 2017-05-27
 release_id: "5515226"
 slug: "cliff-hanger-5515226"
+hideSummary: true
 cover:
     image: "cliff-hanger-5515226.jpg"
-tags: ["Reggae"]
-hideSummary: true
+    alt: "Cliff Hanger by Jimmy Cliff"
+    caption: "Cliff Hanger by Jimmy Cliff"
+genres: ["Reggae"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Jimmy Cliff, Sunrise (Reggae)](https://www.youtube.com/watch?v=r4qskFuW8_c)
 - [jimmy Cliff - American Sweet (Showbizzquizz 1985)](https://www.youtube.com/watch?v=BTiz15PZiI8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Jimmy Cliff - Cliff Hanger](https://www.discogs.com/release/5515226) |
+| Release Year   | 1985 |
+| Discogs Link   | [Jimmy Cliff - Cliff Hanger](https://www.discogs.com/release/5515226-Jimmy-Cliff-Cliff-Hanger) |
 | Label          | CBS |
 | Format         | LP, Album |
 | Catalog Number | CBS 26528 |
+
+
 

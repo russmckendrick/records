@@ -1,14 +1,17 @@
 ---
 title: "The Stone Roses - Second Coming"
-album_artist: "The Stone Roses"
-album_title: "Second Coming"
+artist: "The Stone Roses"
+album_name: "Second Coming"
 date: 2016-03-23
 release_id: "3852822"
 slug: "second-coming-3852822"
+hideSummary: true
 cover:
     image: "second-coming-3852822.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Second Coming by The Stone Roses"
+    caption: "Second Coming by The Stone Roses"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
 - [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [The Stone Roses - Second Coming](https://www.discogs.com/release/3852822) |
+| Release Year   | 2012 |
+| Discogs Link   | [The Stone Roses - Second Coming](https://www.discogs.com/release/3852822-The-Stone-Roses-Second-Coming) |
 | Label          | Geffen Records |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 0600753385166 |
+
+Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.  ℗ 1994 Geffen Records, Inc. © 1994 Geffen Records, Inc. Made in the EU.  Durations not on release. Runouts are stamped. 
 

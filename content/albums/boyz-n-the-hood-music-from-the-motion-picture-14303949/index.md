@@ -1,14 +1,17 @@
 ---
 title: "Various - Boyz N The Hood (Music From The Motion Picture)"
-album_artist: "Various"
-album_title: "Boyz N The Hood (Music From The Motion Picture)"
+artist: "Various"
+album_name: "Boyz N The Hood (Music From The Motion Picture)"
 date: 2020-07-14
 release_id: "14303949"
 slug: "boyz-n-the-hood-music-from-the-motion-picture-14303949"
+hideSummary: true
 cover:
     image: "boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg"
-tags: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
-hideSummary: true
+    alt: "Boyz N The Hood (Music From The Motion Picture) by Various"
+    caption: "Boyz N The Hood (Music From The Motion Picture) by Various"
+genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
+styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Tevin Campbell     Just Ask Me To (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=doRNgKeIGFA)
 - [Too Short    It's Your Life (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=yO90oQDOBeE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949) |
+| Release Year   | 2019 |
+| Discogs Link   | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949-Various-Boyz-N-The-Hood-Music-From-The-Motion-Picture) |
 | Label          | Universal, Qwest Records |
 | Format         | 2xLP, Comp, Ltd, RE, Blu |
 | Catalog Number | B0030621-01 |
+
+
 

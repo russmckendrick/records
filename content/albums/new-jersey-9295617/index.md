@@ -1,14 +1,17 @@
 ---
 title: "Bon Jovi - New Jersey"
-album_artist: "Bon Jovi"
-album_title: "New Jersey"
+artist: "Bon Jovi"
+album_name: "New Jersey"
 date: 2018-06-13
 release_id: "9295617"
 slug: "new-jersey-9295617"
+hideSummary: true
 cover:
     image: "new-jersey-9295617.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "New Jersey by Bon Jovi"
+    caption: "New Jersey by Bon Jovi"
+genres: ["Rock"]
+styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -50,13 +53,16 @@ hideSummary: true
 - [B.o.n * J.o.v.i - New Jersey (Deluxe Edition) CD-1 (2014)](https://www.youtube.com/watch?v=uvhq2mRORFw)
 - [B.o.n * J.o.v.i - New Jersey (Deluxe Edition) CD-2 (2014)](https://www.youtube.com/watch?v=1I5JoU4rt9A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Bon Jovi - New Jersey](https://www.discogs.com/release/9295617) |
+| Release Year   | 2016 |
+| Discogs Link   | [Bon Jovi - New Jersey](https://www.discogs.com/release/9295617-Bon-Jovi-New-Jersey) |
 | Label          | Mercury |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | B0021969-01 |
+
+Gatefold sleeve.
 

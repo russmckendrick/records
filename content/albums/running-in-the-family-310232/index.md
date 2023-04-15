@@ -1,14 +1,17 @@
 ---
 title: "Level 42 - Running In The Family"
-album_artist: "Level 42"
-album_title: "Running In The Family"
+artist: "Level 42"
+album_name: "Running In The Family"
 date: 2016-01-07
 release_id: "310232"
 slug: "running-in-the-family-310232"
+hideSummary: true
 cover:
     image: "running-in-the-family-310232.jpg"
-tags: ["Funk / Soul", "Pop"]
-hideSummary: true
+    alt: "Running In The Family by Level 42"
+    caption: "Running In The Family by Level 42"
+genres: ["Funk / Soul", "Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Fashion Fever](https://www.youtube.com/watch?v=LUZrKO81MXc)
 - [Level 42 - Children Say - Re-Edit](https://www.youtube.com/watch?v=hViZC7ZrIpQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1987 |
-| Discogs Link   | [Level 42 - Running In The Family](https://www.discogs.com/release/310232) |
+| Release Year   | 1987 |
+| Discogs Link   | [Level 42 - Running In The Family](https://www.discogs.com/release/310232-Level-42-Running-In-The-Family) |
 | Label          | Polydor |
 | Format         | LP, Album |
 | Catalog Number | POLH 42 |
+
+Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.  There is [another UK version](http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841) which was mastered at Musitech & was not pressed at PRS Ltd.  Some with stickered front sleeve
 

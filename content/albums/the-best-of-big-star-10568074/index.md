@@ -1,14 +1,17 @@
 ---
 title: "Big Star - The Best Of Big Star"
-album_artist: "Big Star"
-album_title: "The Best Of Big Star"
+artist: "Big Star"
+album_name: "The Best Of Big Star"
 date: 2017-07-14
 release_id: "10568074"
 slug: "the-best-of-big-star-10568074"
+hideSummary: true
 cover:
     image: "the-best-of-big-star-10568074.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Best Of Big Star by Big Star"
+    caption: "The Best Of Big Star by Big Star"
+genres: ["Rock"]
+styles: ["Power Pop", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -29,16 +32,17 @@ hideSummary: true
 15. Back Of A Car (2:46)
 16. Thank You Friends (3:07)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2017 |
-| Discogs Link   | [Big Star - The Best Of Big Star](https://www.discogs.com/release/10568074) |
+| Release Year   | 2017 |
+| Discogs Link   | [Big Star - The Best Of Big Star](https://www.discogs.com/release/10568074-Big-Star-The-Best-Of-Big-Star) |
 | Label          | Stax |
 | Format         | 2xLP, Comp |
 | Catalog Number | 0888072022133 |
+
+Jacket incorrectly lists as Andy Hummel as the writer of "O, My Soul", which was in fact written by Alex Chilton.
 

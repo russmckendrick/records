@@ -1,14 +1,17 @@
 ---
 title: "Paul Simon - Stranger To Stranger"
-album_artist: "Paul Simon"
-album_title: "Stranger To Stranger"
+artist: "Paul Simon"
+album_name: "Stranger To Stranger"
 date: 2016-06-03
 release_id: "8604097"
 slug: "stranger-to-stranger-8604097"
+hideSummary: true
 cover:
     image: "stranger-to-stranger-8604097.jpg"
-tags: ["Rock", "Pop", "Folk, World, & Country"]
-hideSummary: true
+    alt: "Stranger To Stranger by Paul Simon"
+    caption: "Stranger To Stranger by Paul Simon"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [New York Is My Home](https://www.youtube.com/watch?v=yRyAD701fwE)
 - [Duncan (Live From A Prairie Home Companion)](https://www.youtube.com/watch?v=WwSf2vkV5vs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Paul Simon - Stranger To Stranger](https://www.discogs.com/release/8604097) |
+| Release Year   | 2016 |
+| Discogs Link   | [Paul Simon - Stranger To Stranger](https://www.discogs.com/release/8604097-Paul-Simon-Stranger-To-Stranger) |
 | Label          | Concord Records |
 | Format         | LP, Album |
 | Catalog Number | 0888072397811 |
+
+Harry Partch instruments courtesy of Montclair State University and Dean Drummond Printed inner sleeve and insert.
 

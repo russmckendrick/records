@@ -1,14 +1,17 @@
 ---
 title: "Creedence Clearwater Revival - Green River"
-album_artist: "Creedence Clearwater Revival"
-album_title: "Green River"
+artist: "Creedence Clearwater Revival"
+album_name: "Green River"
 date: 2015-09-15
 release_id: "1582177"
 slug: "green-river-1582177"
+hideSummary: true
 cover:
     image: "green-river-1582177.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Green River by Creedence Clearwater Revival"
+    caption: "Green River by Creedence Clearwater Revival"
+genres: ["Rock"]
+styles: ["Southern Rock", "Classic Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [Sinister Purpose](https://www.youtube.com/watch?v=fs2bbXhPCcE)
 - [The Night Time Is The Right Time](https://www.youtube.com/watch?v=AW1KKYaqrnk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1984 |
-| Discogs Link   | [Creedence Clearwater Revival - Green River](https://www.discogs.com/release/1582177) |
+| Release Year   | 1984 |
+| Discogs Link   | [Creedence Clearwater Revival - Green River](https://www.discogs.com/release/1582177-Creedence-Clearwater-Revival-Green-River) |
 | Label          | Fantasy |
 | Format         | LP, Album, RE |
 | Catalog Number | FASLP 5004 |
+
+Sleeve - NOT LICENSED FOR SALE IN THE USA AND CANADA Label - RCA Ltd. are the exclusive licensees for the UK  Made in Germany · Fabriqué en Allemagne Printed in W Germany · Imprimé en Allemagne
 

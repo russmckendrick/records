@@ -1,14 +1,17 @@
 ---
 title: "Fantastic Negrito - The Last Days Of Oakland"
-album_artist: "Fantastic Negrito"
-album_title: "The Last Days Of Oakland"
+artist: "Fantastic Negrito"
+album_name: "The Last Days Of Oakland"
 date: 2018-03-19
 release_id: "9225434"
 slug: "the-last-days-of-oakland-9225434"
+hideSummary: true
 cover:
     image: "the-last-days-of-oakland-9225434.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "The Last Days Of Oakland by Fantastic Negrito"
+    caption: "The Last Days Of Oakland by Fantastic Negrito"
+genres: ["Rock", "Blues"]
+styles: null
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [Fantastic Negrito - Nothing Without You (Official Audio)](https://www.youtube.com/watch?v=e-W98ao9e-I)
 - [Fantastic Negrito - About a Bird (Official Audio)](https://www.youtube.com/watch?v=m6UH2--6rWc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434) |
+| Release Year   | 2016 |
+| Discogs Link   | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434-Fantastic-Negrito-The-Last-Days-Of-Oakland) |
 | Label          | Blackball Universe Records |
 | Format         | LP, Album |
 | Catalog Number | none |
+
+Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France
 

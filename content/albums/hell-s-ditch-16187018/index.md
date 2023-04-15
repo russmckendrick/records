@@ -1,14 +1,17 @@
 ---
 title: "The Pogues - Hell's Ditch"
-album_artist: "The Pogues"
-album_title: "Hell's Ditch"
+artist: "The Pogues"
+album_name: "Hell's Ditch"
 date: 2021-02-09
 release_id: "16187018"
 slug: "hell-s-ditch-16187018"
+hideSummary: true
 cover:
     image: "hell-s-ditch-16187018.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Hell's Ditch by The Pogues"
+    caption: "Hell's Ditch by The Pogues"
+genres: ["Rock"]
+styles: ["Folk Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [The Pogues - Hell's Ditch](https://www.discogs.com/release/16187018) |
+| Release Year   | 2020 |
+| Discogs Link   | [The Pogues - Hell's Ditch](https://www.discogs.com/release/16187018-The-Pogues-Hells-Ditch) |
 | Label          | Pogue Mahone Records |
 | Format         | LP, Album, Ltd, RE, Ora |
 | Catalog Number | 825646255856 |
+
+Limited to 5000 copies. Printed card inner sleeve.  ℗ & © 1990 Warner Music UK Ltd. Made in the EU.  Presented as exclusive on both the European Dig! as well as the US Rhino sites. Copies purchased through the US Rhino site might have an added barcode on the protective plastic.
 

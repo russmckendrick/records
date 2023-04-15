@@ -1,14 +1,17 @@
 ---
 title: "The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)"
-album_artist: "The Blues Brothers"
-album_title: "The Blues Brothers (Original Soundtrack Recording)"
+artist: "The Blues Brothers"
+album_name: "The Blues Brothers (Original Soundtrack Recording)"
 date: 2015-09-04
 release_id: "4625231"
 slug: "the-blues-brothers-original-soundtrack-recording-4625231"
+hideSummary: true
 cover:
     image: "the-blues-brothers-original-soundtrack-recording-4625231.jpg"
-tags: ["Rock", "Funk / Soul", "Stage & Screen"]
-hideSummary: true
+    alt: "The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers"
+    caption: "The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers"
+genres: ["Rock", "Funk / Soul", "Stage & Screen"]
+styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [The Blues Brothers - Sweet Home Chicago (Official Audio)](https://www.youtube.com/watch?v=euJ22UqLD5Y)
 - [The Blues Brothers - Jailhouse Rock (Official Audio)](https://www.youtube.com/watch?v=TosN2G1mmTs)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1980 |
-| Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/4625231) |
+| Release Year   | 1980 |
+| Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/4625231-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |
 | Label          | Atlantic |
 | Format         | LP, Album |
 | Catalog Number | K 50715 |
+
+A Phantom/Black Rhino Production.  Original recording: Universal Recording, Chicago. Additional recording: Record Plant, Los Angeles Record Plant, New York City Soundmixers, New York City  Mixed at Record Plant, NYC Mastered at The Master Cutting Room.  ℗©1980 Atlantic Recording Corporation. Printed and made in England  
 

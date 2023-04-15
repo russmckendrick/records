@@ -1,14 +1,17 @@
 ---
 title: "Aerosmith - Permanent Vacation"
-album_artist: "Aerosmith"
-album_title: "Permanent Vacation"
+artist: "Aerosmith"
+album_name: "Permanent Vacation"
 date: 2019-05-21
 release_id: "13639079"
 slug: "permanent-vacation-13639079"
+hideSummary: true
 cover:
     image: "permanent-vacation-13639079.jpg"
-tags: ["Rock", "Blues"]
-hideSummary: true
+    alt: "Permanent Vacation by Aerosmith"
+    caption: "Permanent Vacation by Aerosmith"
+genres: ["Rock", "Blues"]
+styles: ["Hard Rock", "Glam"]
 ---
 
 ## Tracklisting
@@ -25,16 +28,17 @@ hideSummary: true
 11. I'm Down (2:20)
 12. The Movie (4:00)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Aerosmith - Permanent Vacation](https://www.discogs.com/release/13639079) |
+| Release Year   | 2019 |
+| Discogs Link   | [Aerosmith - Permanent Vacation](https://www.discogs.com/release/13639079-Aerosmith-Permanent-Vacation) |
 | Label          | Geffen Records |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 00602547954374 |
+
+Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Originally mastered at Sterling Sound  ℗ 1987 © 2016 Geffen Records Universal International Music B.V. Gerrit Van Der Veenlaan Made in EU  Issued with a printed inner sleeve. 
 

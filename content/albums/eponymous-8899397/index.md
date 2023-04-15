@@ -1,14 +1,17 @@
 ---
 title: "R.E.M. - Eponymous"
-album_artist: "R.E.M."
-album_title: "Eponymous"
+artist: "R.E.M."
+album_name: "Eponymous"
 date: 2017-04-02
 release_id: "8899397"
 slug: "eponymous-8899397"
+hideSummary: true
 cover:
     image: "eponymous-8899397.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Eponymous by R.E.M."
+    caption: "Eponymous by R.E.M."
+genres: ["Rock"]
+styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [Finest Worksong](https://www.youtube.com/watch?v=M48pQDUKYVE)
 - [It's The End Of The World As We Know It (And I Feel Fine)](https://www.youtube.com/watch?v=8OyBtMPqpNY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [R.E.M. - Eponymous](https://www.discogs.com/release/8899397) |
+| Release Year   | 2016 |
+| Discogs Link   | [R.E.M. - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |
 | Label          | I.R.S. Records, Universal Music Group International |
 | Format         | LP, Comp, RE, 180 |
 | Catalog Number | 00602547899828 |
+
+Includes voucher to download MP3 version of the album.  
 

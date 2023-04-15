@@ -1,14 +1,17 @@
 ---
 title: "Peter Frampton - Frampton Comes Alive!"
-album_artist: "Peter Frampton"
-album_title: "Frampton Comes Alive!"
+artist: "Peter Frampton"
+album_name: "Frampton Comes Alive!"
 date: 2019-01-05
 release_id: "7084077"
 slug: "frampton-comes-alive-7084077"
+hideSummary: true
 cover:
     image: "frampton-comes-alive-7084077.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Frampton Comes Alive! by Peter Frampton"
+    caption: "Frampton Comes Alive! by Peter Frampton"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Pop Rock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Something's Happening (Live In The United States/1976)](https://www.youtube.com/watch?v=pc5Rz-Mpu4o)
 - [Lines On My Face (Live In The United States/1976)](https://www.youtube.com/watch?v=_FnhDVaeG6M)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1976 |
-| Discogs Link   | [Peter Frampton - Frampton Comes Alive!](https://www.discogs.com/release/7084077) |
+| Release Year   | 1976 |
+| Discogs Link   | [Peter Frampton - Frampton Comes Alive!](https://www.discogs.com/release/7084077-Peter-Frampton-Frampton-Comes-Alive) |
 | Label          | A&M Records |
 | Format         | 2xLP, Album |
 | Catalog Number | AMLM 63703 |
+
+℗ 1976 A&M Records Inc. Differs From: [r456090]: Different label layout, different rear cover [r5870498]: Different label layout, printed by Robor Ltd. [r6361031]: Different label layout Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University of New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York. Remixed at Electric Lady Studios, New York. Mastered at the Mastering Lab, Los Angeles. Auto-coupled release.  Released in gatefold sleeve. 
 

@@ -1,14 +1,17 @@
 ---
 title: "The Black Crowes - The Southern Harmony And Musical Companion"
-album_artist: "The Black Crowes"
-album_title: "The Southern Harmony And Musical Companion"
+artist: "The Black Crowes"
+album_name: "The Southern Harmony And Musical Companion"
 date: 2015-12-19
 release_id: "7867280"
 slug: "the-southern-harmony-and-musical-companion-7867280"
+hideSummary: true
 cover:
     image: "the-southern-harmony-and-musical-companion-7867280.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Southern Harmony And Musical Companion by The Black Crowes"
+    caption: "The Southern Harmony And Musical Companion by The Black Crowes"
+genres: ["Rock"]
+styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
 
 ## Tracklisting
@@ -29,13 +32,16 @@ hideSummary: true
 - [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
 - [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [The Black Crowes - The Southern Harmony And Musical Companion](https://www.discogs.com/release/7867280) |
+| Release Year   | 2015 |
+| Discogs Link   | [The Black Crowes - The Southern Harmony And Musical Companion](https://www.discogs.com/release/7867280-The-Black-Crowes-The-Southern-Harmony-And-Musical-Companion) |
 | Label          | American Recordings |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 00602537494255 |
+
+Includes a voucher to download MP3 version of the album  Recorded in recording studios in the United States. ℗ © 1992   Back To Black www.backtoblackvinyl.com
 

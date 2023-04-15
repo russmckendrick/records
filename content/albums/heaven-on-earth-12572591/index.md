@@ -1,14 +1,17 @@
 ---
 title: "Belinda Carlisle - Heaven On Earth"
-album_artist: "Belinda Carlisle"
-album_title: "Heaven On Earth"
+artist: "Belinda Carlisle"
+album_name: "Heaven On Earth"
 date: 2018-09-26
 release_id: "12572591"
 slug: "heaven-on-earth-12572591"
+hideSummary: true
 cover:
     image: "heaven-on-earth-12572591.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Heaven On Earth by Belinda Carlisle"
+    caption: "Heaven On Earth by Belinda Carlisle"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "Ballad"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Love Never Dies](https://www.youtube.com/watch?v=ivOXrlFOeEs)
 - [Heaven is a Place on Earth (Acoustic)](https://www.youtube.com/watch?v=-Gbnyvq66Hk)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591) |
+| Release Year   | 2018 |
+| Discogs Link   | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591-Belinda-Carlisle-Heaven-On-Earth) |
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Blu |
 | Catalog Number | DEMREC306 |
+
+Pressed on 180gm heavyweight translucent blue vinyl.  Manufactured in the EU.
 

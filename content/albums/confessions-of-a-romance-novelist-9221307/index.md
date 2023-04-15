@@ -1,14 +1,17 @@
 ---
 title: "The Anchoress - Confessions Of A Romance Novelist"
-album_artist: "The Anchoress"
-album_title: "Confessions Of A Romance Novelist"
+artist: "The Anchoress"
+album_name: "Confessions Of A Romance Novelist"
 date: 2016-10-20
 release_id: "9221307"
 slug: "confessions-of-a-romance-novelist-9221307"
+hideSummary: true
 cover:
     image: "confessions-of-a-romance-novelist-9221307.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Confessions Of A Romance Novelist by The Anchoress"
+    caption: "Confessions Of A Romance Novelist by The Anchoress"
+genres: ["Rock"]
+styles: ["Indie Rock", "Art Rock"]
 ---
 
 ## Tracklisting
@@ -34,13 +37,16 @@ hideSummary: true
 - [The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=Z2FXZeJED2w)
 - [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Anchoress - Confessions Of A Romance Novelist](https://www.discogs.com/release/9221307) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Anchoress - Confessions Of A Romance Novelist](https://www.discogs.com/release/9221307-The-Anchoress-Confessions-Of-A-Romance-Novelist) |
 | Label          | Kscope |
 | Format         | 2xLP, Album |
 | Catalog Number | KSCOPE920 |
+
+Sticker in front says: 2LP Gatefold 180g VINYL with Download Code "A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER "Kate Bush's Hounds of Love ... updated for the 21st century." PROG "Karen Carpenter singing John Grant." UNCUT "Fascinating" SUNDAY TIMES **** MOJO includes 4 new bonus acoustic tracks. kscope920 kscopemusic.com/theanchoress 
 

@@ -1,14 +1,17 @@
 ---
 title: "John Williams (4), The London Symphony Orchestra - Star Wars"
-album_artist: "John Williams (4), The London Symphony Orchestra"
-album_title: "Star Wars"
+artist: "John Williams (4), The London Symphony Orchestra"
+album_name: "Star Wars"
 date: 2016-06-20
 release_id: "8574533"
 slug: "star-wars-8574533"
+hideSummary: true
 cover:
     image: "star-wars-8574533.jpg"
-tags: ["Classical", "Stage & Screen"]
-hideSummary: true
+    alt: "Star Wars by John Williams (4), The London Symphony Orchestra"
+    caption: "Star Wars by John Williams (4), The London Symphony Orchestra"
+genres: ["Classical", "Stage & Screen"]
+styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
 
 ## Tracklisting
@@ -52,13 +55,16 @@ hideSummary: true
 - [Princess Leia's Theme](https://www.youtube.com/watch?v=eyHOUMWw5_M)
 - [The Desert and the Robot Auction](https://www.youtube.com/watch?v=vC_mMRgesA8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [John Williams (4), The London Symphony Orchestra - Star Wars](https://www.discogs.com/release/8574533) |
+| Release Year   | 2016 |
+| Discogs Link   | [John Williams (4), The London Symphony Orchestra - Star Wars](https://www.discogs.com/release/8574533-John-Williams-4London-Symphony-Orchestra-Star-Wars) |
 | Label          | 20th Century Records, 20th Century Records, Sony Classical |
 | Format         | 2xLP, Album, Ltd, RE, Gol |
 | Catalog Number | FMW 37/8, 2T-541, 88985316621 |
+
+First and third cat# from sleeve, second from label. Issued with insert with liner notes and list of London Symphony performers.  Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.  Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.  [On labels:] ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd. Published by Fox Fanfare Music, Inc. (BMI)  Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977. Remixed at The Burbank Studios, Burbank, California
 

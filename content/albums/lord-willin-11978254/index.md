@@ -1,14 +1,17 @@
 ---
 title: "Clipse - Lord Willin'"
-album_artist: "Clipse"
-album_title: "Lord Willin'"
+artist: "Clipse"
+album_name: "Lord Willin'"
 date: 2018-05-12
 release_id: "11978254"
 slug: "lord-willin-11978254"
+hideSummary: true
 cover:
     image: "lord-willin-11978254.jpg"
-tags: ["Hip Hop"]
-hideSummary: true
+    alt: "Lord Willin' by Clipse"
+    caption: "Lord Willin' by Clipse"
+genres: ["Hip Hop"]
+styles: ["Gangsta"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Grindin' (Remix - Main)](https://www.youtube.com/watch?v=aHbIBud9aJw)
 - [Grindin' (Selector Remix - Main)](https://www.youtube.com/watch?v=QoahpkBbiNQ)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Clipse - Lord Willin'](https://www.discogs.com/release/11978254) |
+| Release Year   | 2018 |
+| Discogs Link   | [Clipse - Lord Willin'](https://www.discogs.com/release/11978254-Clipse-Lord-Willin) |
 | Label          | Star Trak Entertainment, Star Trak Entertainment, Sony Music Commercial Music Group |
 | Format         | 2xLP, Album, Club, RE, Gre |
 | Catalog Number | VMP-E065, 19075810841 |
+
+Comes with an obi strip.  Each LP housed in custom inner sleeves. Includes an art print.  Sticker: Sourced From the Original Masters 2LP Emerald Vinyl Heavyweight Gatefold Tip-On Jacket  Track durations taken from LP labels. They differ slightly from the ones listed on the rear cover.  Mastered [...] at Sterling Sound, NYC  © 2002, 2018 Arista Records LLC / ℗ 2002 Arista Records LLC / Manufactured for Vinyl Me, Please by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601  On inner sleeve: ℗ 2001 Arista Records, Inc.  A1, A2, A3, A4, B1, B2, B4, C1, C4 Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)  B3 Published by FamLay Publishing/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)  C2 Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./D. Brasco Music (ASCAP)/Desert Storm Music (BMI)  C3 Published by EMI-April Music, Inc. o/b/o itself & So So Def Music/GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP) Recorded [...] at Patchwerk Recording Studios, Atlanta, GA Mixed [...] at SouthSide Studios, Atlanta, GA ℗ 2001 A Joint Venture between Sony Music Entertainment Inc. & So So Def Recordings Inc.  D1 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Jaewon's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc./Paniro's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc. (ASCAP)  D2 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)/Off Da Yelzabulb/Money Mack/Money Mack (BMI)  D3 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Dutty Rock Music (ASCAP)/One Man Music/Bless Publishing Designee  All Songs Recorded at MasterSound & Windmark Studios, Virginia Beach, VA • Except "Grindin'," Recorded at Star Trak Studios, Virginia Beach, VA & "Cot Damn," Recorded at Silent Sound Studios, Atlanta, GA (& where noted) • All Songs Engineered [...] at MasterSound & Windmark Studios, Virginia Beach, VA • All Songs Mixed by Phil Tan at Silent Sound Studios, Atlanta GA (Except where noted)
 

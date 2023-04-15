@@ -1,14 +1,17 @@
 ---
 title: "Pet Shop Boys - Actually"
-album_artist: "Pet Shop Boys"
-album_title: "Actually"
+artist: "Pet Shop Boys"
+album_name: "Actually"
 date: 2018-03-03
 release_id: "11648940"
 slug: "actually-11648940"
+hideSummary: true
 cover:
     image: "actually-11648940.jpg"
-tags: ["Electronic", "Pop"]
-hideSummary: true
+    alt: "Actually by Pet Shop Boys"
+    caption: "Actually by Pet Shop Boys"
+genres: ["Electronic", "Pop"]
+styles: ["Synth-pop"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Pet Shop Boys - Actually](https://www.youtube.com/watch?v=KV3ENOL1NUQ)
 - [Pet Shop Boys - 'Actually' TV advert](https://www.youtube.com/watch?v=XX8B_RFbaeU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2018 |
-| Discogs Link   | [Pet Shop Boys - Actually](https://www.discogs.com/release/11648940) |
+| Release Year   | 2018 |
+| Discogs Link   | [Pet Shop Boys - Actually](https://www.discogs.com/release/11648940-Pet-Shop-Boys-Actually) |
 | Label          | Parlophone |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 0190295832612 |
+
+℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Recorded in London at Sarm West and Advision Studios. Designed by Mark Farrow at ③ and Pet Shop Boys.  Comes with printed inner sleeve and white rectangular sticker on shrinkwrap: "Pet Shop Boys, actually. Pressed onto 180g heavyweight vinyl featuring brand new 2018 remaster of the original album 0190295832612"
 

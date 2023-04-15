@@ -1,14 +1,17 @@
 ---
 title: "Inspiral Carpets - The Singles"
-album_artist: "Inspiral Carpets"
-album_title: "The Singles"
+artist: "Inspiral Carpets"
+album_name: "The Singles"
 date: 2018-11-29
 release_id: "798318"
 slug: "the-singles-798318"
+hideSummary: true
 cover:
     image: "the-singles-798318.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Singles by Inspiral Carpets"
+    caption: "The Singles by Inspiral Carpets"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -55,13 +58,16 @@ hideSummary: true
 - [Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)](https://www.youtube.com/watch?v=DPTpBoYVD8Q)
 - [Inspiral Carpets - Uniform (Official HD Video)](https://www.youtube.com/watch?v=Q_kitiQh_So)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1995 |
-| Discogs Link   | [Inspiral Carpets - The Singles](https://www.discogs.com/release/798318) |
+| Release Year   | 1995 |
+| Discogs Link   | [Inspiral Carpets - The Singles](https://www.discogs.com/release/798318-Inspiral-Carpets-The-Singles) |
 | Label          | Mute, Mute |
 | Format         | 2xLP, Comp, Ltd + 7\" |
 | Catalog Number | MOOTEL 3, LMOOTEL 3 |
+
+Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.  Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".  Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"". 
 

@@ -1,14 +1,17 @@
 ---
 title: "The Avalanches - Since I Left You"
-album_artist: "The Avalanches"
-album_title: "Since I Left You"
+artist: "The Avalanches"
+album_name: "Since I Left You"
 date: 2021-05-30
 release_id: "6077288"
 slug: "since-i-left-you-6077288"
+hideSummary: true
 cover:
     image: "since-i-left-you-6077288.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "Since I Left You by The Avalanches"
+    caption: "Since I Left You by The Avalanches"
+genres: ["Electronic"]
+styles: ["Leftfield", "Abstract"]
 ---
 
 ## Tracklisting
@@ -59,13 +62,16 @@ hideSummary: true
 - [The Avalanches — Extra Kings](https://www.youtube.com/watch?v=_6TWkDeAIxI)
 - [The Avalanches - Since I Left You (Prince Paul Remix)](https://www.youtube.com/watch?v=vSqcYv0QgGw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2012 |
-| Discogs Link   | [The Avalanches - Since I Left You](https://www.discogs.com/release/6077288) |
+| Release Year   | 2012 |
+| Discogs Link   | [The Avalanches - Since I Left You](https://www.discogs.com/release/6077288-The-Avalanches-Since-I-Left-You) |
 | Label          | XL Recordings |
 | Format         | 2xLP, RE, Gat |
 | Catalog Number | XLLP 138 |
+
+This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.  -The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings" -The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode -The gatefold contains an extensive sample list on the right-hand panel -Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label -The gatefold spine is blue -The inner sleeves are black -The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels  Sample notes: -Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist"    FOOTNOTE The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing): "Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein. "Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture" "Radio" does not contain the "Johnny!" dialogue at the beginning "Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning
 

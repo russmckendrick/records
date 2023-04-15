@@ -1,14 +1,17 @@
 ---
 title: "British Theatre - Mastery"
-album_artist: "British Theatre"
-album_title: "Mastery"
+artist: "British Theatre"
+album_name: "Mastery"
 date: 2016-06-27
 release_id: "8693685"
 slug: "mastery-8693685"
+hideSummary: true
 cover:
     image: "mastery-8693685.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "Mastery by British Theatre"
+    caption: "Mastery by British Theatre"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Ambient", "Experimental"]
 ---
 
 ## Tracklisting
@@ -24,16 +27,17 @@ hideSummary: true
 10. Favour The Brave
 11. Mastery
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [British Theatre - Mastery](https://www.discogs.com/release/8693685) |
+| Release Year   | 2016 |
+| Discogs Link   | [British Theatre - Mastery](https://www.discogs.com/release/8693685-British-Theatre-Mastery) |
 | Label          | Not On Label (British Theatre Self-released) |
 | Format         | 2xLP, Album, Ltd, Cle |
 | Catalog Number | none |
+
+Signed copies were available via a Pledgemusic campaign. Comes in a gatefold sleeve with printed inners. Contains no barcode or catalogue number.
 

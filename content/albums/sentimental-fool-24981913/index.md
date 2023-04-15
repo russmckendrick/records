@@ -1,14 +1,17 @@
 ---
 title: "Lee Fields - Sentimental Fool"
-album_artist: "Lee Fields"
-album_title: "Sentimental Fool"
+artist: "Lee Fields"
+album_name: "Sentimental Fool"
 date: 2022-11-04
 release_id: "24981913"
 slug: "sentimental-fool-24981913"
+hideSummary: true
 cover:
     image: "sentimental-fool-24981913.jpg"
-tags: ["Funk / Soul"]
-hideSummary: true
+    alt: "Sentimental Fool by Lee Fields"
+    caption: "Sentimental Fool by Lee Fields"
+genres: ["Funk / Soul"]
+styles: ["Soul"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [Your Face Before My Eyes](https://www.youtube.com/watch?v=DZYMWEZQuQk)
 - [Just Give Me Your Time](https://www.youtube.com/watch?v=_N4R4cdVFa4)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [Lee Fields - Sentimental Fool](https://www.discogs.com/release/24981913) |
+| Release Year   | 2022 |
+| Discogs Link   | [Lee Fields - Sentimental Fool](https://www.discogs.com/release/24981913-Lee-Fields-Sentimental-Fool) |
 | Label          | Daptone Recording Co. |
 | Format         | LP, Album, Mono, Ora |
 | Catalog Number | DAP-075 |
+
+"Made in Czech Republic" sticker on back cover  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.
 

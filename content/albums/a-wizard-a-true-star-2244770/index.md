@@ -1,14 +1,17 @@
 ---
 title: "Todd Rundgren - A Wizard, A True Star"
-album_artist: "Todd Rundgren"
-album_title: "A Wizard, A True Star"
+artist: "Todd Rundgren"
+album_name: "A Wizard, A True Star"
 date: 2022-03-06
 release_id: "2244770"
 slug: "a-wizard-a-true-star-2244770"
+hideSummary: true
 cover:
     image: "a-wizard-a-true-star-2244770.jpg"
-tags: ["Electronic", "Rock"]
-hideSummary: true
+    alt: "A Wizard, A True Star by Todd Rundgren"
+    caption: "A Wizard, A True Star by Todd Rundgren"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -36,16 +39,17 @@ hideSummary: true
 22. Is It My Name? (3:50)
 23. Just One Victory (4:50)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1973 |
-| Discogs Link   | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/2244770) |
+| Release Year   | 1973 |
+| Discogs Link   | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/2244770-Todd-Rundgren-A-Wizard-A-True-Star) |
 | Label          | Bearsville, Bearsville |
 | Format         | LP, Album, Gat |
 | Catalog Number | BEA 45513, BR 2133 |
+
+(P) 1973 Seperate lyric sheet, credits and a photo collage  
 

@@ -1,14 +1,17 @@
 ---
 title: "The Smashing Pumpkins - The Aeroplane Flies High"
-album_artist: "The Smashing Pumpkins"
-album_title: "The Aeroplane Flies High"
+artist: "The Smashing Pumpkins"
+album_name: "The Aeroplane Flies High"
 date: 2016-04-17
 release_id: "4760393"
 slug: "the-aeroplane-flies-high-4760393"
+hideSummary: true
 cover:
     image: "the-aeroplane-flies-high-4760393.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Aeroplane Flies High by The Smashing Pumpkins"
+    caption: "The Aeroplane Flies High by The Smashing Pumpkins"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -51,16 +54,17 @@ hideSummary: true
 37. The Bells (2:17)
 38. My Blue Heaven (3:20)
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [The Smashing Pumpkins - The Aeroplane Flies High](https://www.discogs.com/release/4760393) |
+| Release Year   | 2013 |
+| Discogs Link   | [The Smashing Pumpkins - The Aeroplane Flies High](https://www.discogs.com/release/4760393-The-Smashing-Pumpkins-The-Aeroplane-Flies-High) |
 | Label          | Virgin, UMe |
 | Format         | Box, Comp + 5x12\", Maxi, RE, RM |
 | Catalog Number | B0018550-01 |
+
+"the end of what we had to offer, everything that followed the pieces of one without the other." - billy corgan  A1, I1 - Recorded at Pumpkinland and Chicago Recording Company. A2 - Mixed at The Chicago Recording Company. A3, A4, B2, B3 - Recorded at Soundworks Studios, Chicago.  Additional Recording on B3 at Farmer Brown's Studio. B1 - Recorded at Bugg Studios, Chicago. C1, I1 - Mixed at The Village Recorder. C2 to D3, - Mixed at Soundworks Recording Studios. C1 to D3 - Recorded at Pumpkinland, Chicago Recording Company and Soundworks Recording Studios. G1, H4 - Recorded at CRC. G2 to H1, H3 - Recorded at Sadland. H2 - Recorded at Soundworks. I2 to J1 - Recorded at Charing Cross Studios, Sydney, and Soundworks Recording Studios, Chicago. J2 - Recorded at Bugg Studios, Chicago and The Place, NYC. J3 - Recorded at Soundworks Recording Studios, Chicago. I2 to J3 - Mixed at Chung King, NYC.  "The Pastichio Medley is from a variety of sources recorded during completion of Mellon Collie And The Infinite Sadness.  The LP version has been faded out earlier than the original version in order to fit the vinyl format."
 

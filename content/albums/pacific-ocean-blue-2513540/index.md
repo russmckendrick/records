@@ -1,14 +1,17 @@
 ---
 title: "Dennis Wilson (2) - Pacific Ocean Blue"
-album_artist: "Dennis Wilson (2)"
-album_title: "Pacific Ocean Blue"
+artist: "Dennis Wilson (2)"
+album_name: "Pacific Ocean Blue"
 date: 2016-11-21
 release_id: "2513540"
 slug: "pacific-ocean-blue-2513540"
+hideSummary: true
 cover:
     image: "pacific-ocean-blue-2513540.jpg"
-tags: ["Rock", "Pop"]
-hideSummary: true
+    alt: "Pacific Ocean Blue by Dennis Wilson (2)"
+    caption: "Pacific Ocean Blue by Dennis Wilson (2)"
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock"]
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Dreamer](https://www.youtube.com/watch?v=GPr5ZZdFdFk)
 - [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2010 |
-| Discogs Link   | [Dennis Wilson (2) - Pacific Ocean Blue](https://www.discogs.com/release/2513540) |
+| Release Year   | 2010 |
+| Discogs Link   | [Dennis Wilson (2) - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-Pacific-Ocean-Blue) |
 | Label          | Music On Vinyl, Caribou Records |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | MOVLP096, 88697731691 |
+
+
 

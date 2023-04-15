@@ -1,14 +1,17 @@
 ---
 title: "XTC As The Dukes Of Stratosphear - 25 O'Clock"
-album_artist: "XTC As The Dukes Of Stratosphear"
-album_title: "25 O'Clock"
+artist: "XTC As The Dukes Of Stratosphear"
+album_name: "25 O'Clock"
 date: 2019-10-30
 release_id: "14326864"
 slug: "25-o-clock-14326864"
+hideSummary: true
 cover:
     image: "25-o-clock-14326864.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "25 O'Clock by XTC As The Dukes Of Stratosphear"
+    caption: "25 O'Clock by XTC As The Dukes Of Stratosphear"
+genres: ["Rock"]
+styles: ["Garage Rock", "Psychedelic Rock"]
 ---
 
 ## Tracklisting
@@ -25,13 +28,16 @@ hideSummary: true
 - [The Dukes Of Stratosphear, The 25 O'Clock 1985 (vinyl record)](https://www.youtube.com/watch?v=P1zLrEH0evI)
 - [The Dukes of Stratosphear - 25 O'Clock](https://www.youtube.com/watch?v=xGF7o_I4mAw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [XTC As The Dukes Of Stratosphear - 25 O'Clock](https://www.discogs.com/release/14326864) |
+| Release Year   | 2019 |
+| Discogs Link   | [XTC As The Dukes Of Stratosphear - 25 O'Clock](https://www.discogs.com/release/14326864-XTC-As-The-Dukes-Of-Stratosphear-25-OClock) |
 | Label          | Ape House |
 | Format         | 12\", MiniAlbum, RE, RP, Gat |
 | Catalog Number | APELP023 |
+
+2019 reissue.  No track times on this issue. Made in England  Back cover: "All songs by Andy Partridge as SIR JOHN JOHNS except B1 by Colin Moulding as THE RED CURTAIN"  Liner notes: Captured gently at Chapel Lane Studios, Hereford  Mastering credit to [a147827] per liner notes.  Issued with a coloured printed polylined innersleeve with bevelled corners, showing XTC back catalogue on one and some more APE releases on the other side.
 

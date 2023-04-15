@@ -1,14 +1,17 @@
 ---
 title: "Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
-album_artist: "Various"
-album_title: "The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
+artist: "Various"
+album_name: "The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
 date: 2021-06-07
 release_id: "15423059"
 slug: "the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059"
+hideSummary: true
 cover:
     image: "the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059.jpg"
-tags: ["Electronic", "Rock", "Funk / Soul", "Blues", "Pop"]
-hideSummary: true
+    alt: "The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie by Various"
+    caption: "The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie by Various"
+genres: ["Electronic", "Rock", "Funk / Soul", "Blues", "Pop"]
+styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanson", "Blues Rock"]
 ---
 
 ## Tracklisting
@@ -74,13 +77,16 @@ hideSummary: true
 - [Ian Hunter - Mick Ronson - All the way from Memphis](https://www.youtube.com/watch?v=MO2g1_UJmTE)
 - [CHIC Feat. Nile Rodgers: Good Times Live *YouTube Exclusive* - The Jonathan Ross Show](https://www.youtube.com/watch?v=eSfMKvuRVPE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie](https://www.discogs.com/release/15423059) |
+| Release Year   | 2020 |
+| Discogs Link   | [Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie](https://www.discogs.com/release/15423059-Various-The-Many-Faces-Of-David-Bowie-A-Journey-Through-The-Inner-World-Of-David-Bowie) |
 | Label          | Music Brokers |
 | Format         | LP, Comp, Red + LP, Comp, Blu + Ltd, RE, Gat |
 | Catalog Number | VYN048 |
+
+Hype sticker reads: Double LP Gatefold 180 GR Color Vinyl Limited Edition  Manufactured in France (p) 2020 Music Brokers  Runout VYN 048 A/B/C/D etched other stamped
 

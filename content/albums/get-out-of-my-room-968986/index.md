@@ -1,14 +1,17 @@
 ---
 title: "Cheech & Chong - Get Out Of My Room"
-album_artist: "Cheech & Chong"
-album_title: "Get Out Of My Room"
+artist: "Cheech & Chong"
+album_name: "Get Out Of My Room"
 date: 2020-08-02
 release_id: "968986"
 slug: "get-out-of-my-room-968986"
+hideSummary: true
 cover:
     image: "get-out-of-my-room-968986.jpg"
-tags: ["Rock", "Non-Music"]
-hideSummary: true
+    alt: "Get Out Of My Room by Cheech & Chong"
+    caption: "Get Out Of My Room by Cheech & Chong"
+genres: ["Rock", "Non-Music"]
+styles: ["Acoustic", "Comedy"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [Cheech & Chong Get Out of My Room - Trailer](https://www.youtube.com/watch?v=JMn2W9co5Tc)
 - [Cheech & Chong - Get Out Of My Room Trailer (deutsch)](https://www.youtube.com/watch?v=aiF6WcpCzvY)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 1985 |
-| Discogs Link   | [Cheech & Chong - Get Out Of My Room](https://www.discogs.com/release/968986) |
+| Release Year   | 1985 |
+| Discogs Link   | [Cheech & Chong - Get Out Of My Room](https://www.discogs.com/release/968986-Cheech-Chong-Get-Out-Of-My-Room) |
 | Label          | MCA Records, MCA Records |
 | Format         | LP, Album |
 | Catalog Number | MCA 5640, MCA-5640 |
+
+Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu. Mixed At Ocean Way. Mastered At Bernie Grundman Mastering. 
 

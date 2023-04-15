@@ -1,14 +1,17 @@
 ---
 title: "Fawlty Towers - Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)"
-album_artist: "Fawlty Towers"
-album_title: "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)"
+artist: "Fawlty Towers"
+album_name: "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)"
 date: 2021-05-31
 release_id: "18955195"
 slug: "fawlty-towers-for-the-record-12-full-cast-tv-soundtracks-narrated-by-andrew-sachs-18955195"
+hideSummary: true
 cover:
     image: "fawlty-towers-for-the-record-12-full-cast-tv-soundtracks-narrated-by-andrew-sachs-18955195.jpg"
-tags: ["Non-Music", "Stage & Screen"]
-hideSummary: true
+    alt: "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs) by Fawlty Towers"
+    caption: "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs) by Fawlty Towers"
+genres: ["Non-Music", "Stage & Screen"]
+styles: ["Comedy", "Radioplay", "Soundtrack"]
 ---
 
 ## Tracklisting
@@ -31,16 +34,17 @@ hideSummary: true
 17. The Psychiatrist
 18. The Anniversary
 
-## Videos
 
 
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [Fawlty Towers - Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)](https://www.discogs.com/release/18955195) |
+| Release Year   | 2021 |
+| Discogs Link   | [Fawlty Towers - Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)](https://www.discogs.com/release/18955195-Fawlty-Towers-Fawlty-Towers-For-The-Record-12-Full-Cast-TV-Soundtracks-Narrated-By-Andrew-Sachs) |
 | Label          | Demon Records, BBC, BBC Records |
 | Format         | 6xLP, Comp, 140 + Box, Ltd |
 | Catalog Number | DEMRECBOX54 |
+
+Contains the 4 original BBC Records LPs, plus two which are previously unissued. The original cover art is reproduced as the inner sleeve of each disc, with BBC Records branding. Also contains a large format, 4 page booklet describing the history of Fawlty Towers and its audio releases, plus a 12" signed photograph of John Cleese.  1500 copies pressed.  This set was officially deleted in August 2021.   Two piece, lift off lid box. Lilac hype sticker applied to shrink-wrap. Reproduction BBC labels.
 

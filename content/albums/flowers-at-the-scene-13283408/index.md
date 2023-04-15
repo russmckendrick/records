@@ -1,14 +1,17 @@
 ---
 title: "Tim Bowness - Flowers At The Scene"
-album_artist: "Tim Bowness"
-album_title: "Flowers At The Scene"
+artist: "Tim Bowness"
+album_name: "Flowers At The Scene"
 date: 2019-02-28
 release_id: "13283408"
 slug: "flowers-at-the-scene-13283408"
+hideSummary: true
 cover:
     image: "flowers-at-the-scene-13283408.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Flowers At The Scene by Tim Bowness"
+    caption: "Flowers At The Scene by Tim Bowness"
+genres: ["Rock"]
+styles: ["Art Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -41,13 +44,16 @@ hideSummary: true
 - [TIM BOWNESS - It's The World (Lyric Video)](https://www.youtube.com/watch?v=ohSYbX4qHzc)
 - [TIM BOWNESS talks “Flowers At The Scene” - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408) |
+| Release Year   | 2019 |
+| Discogs Link   | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408-Tim-Bowness-Flowers-At-The-Scene) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | LP, Album, Red + CD, Album + Ltd, Num |
 | Catalog Number | IOMLP 524, 19075928461 |
+
+Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card.
 

@@ -1,14 +1,17 @@
 ---
 title: "It Bites - The Tall Ships"
-album_artist: "It Bites"
-album_title: "The Tall Ships"
+artist: "It Bites"
+album_name: "The Tall Ships"
 date: 2021-05-10
 release_id: "18661786"
 slug: "the-tall-ships-18661786"
+hideSummary: true
 cover:
     image: "the-tall-ships-18661786.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Tall Ships by It Bites"
+    caption: "The Tall Ships by It Bites"
+genres: ["Rock"]
+styles: ["Symphonic Rock"]
 ---
 
 ## Tracklisting
@@ -43,13 +46,16 @@ hideSummary: true
 - [IT BITES - This Is England](https://www.youtube.com/watch?v=VUO-YxeTw-M)
 - [IT BITES-FAHRENHEIT](https://www.youtube.com/watch?v=ngChnyQjAJw)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2021 |
-| Discogs Link   | [It Bites - The Tall Ships](https://www.discogs.com/release/18661786) |
+| Release Year   | 2021 |
+| Discogs Link   | [It Bites - The Tall Ships](https://www.discogs.com/release/18661786-It-Bites-The-Tall-Ships) |
 | Label          | Inside Out Music |
 | Format         | 2xLP, Album, RE, RM + CD, Album, RM |
 | Catalog Number | IOMLP 584 |
+
+Gatefold 2LP + CD + LP-Booklet. The fourth studio album from It Bites available on vinyl for the very first time. Newly remastered and featuring expanded liner notes on the making of the album. Black vinyl.  *The CD features two bonus tracks. 
 

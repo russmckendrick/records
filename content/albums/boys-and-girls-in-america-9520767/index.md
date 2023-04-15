@@ -1,14 +1,17 @@
 ---
 title: "The Hold Steady - Boys and Girls in America"
-album_artist: "The Hold Steady"
-album_title: "Boys and Girls in America"
+artist: "The Hold Steady"
+album_name: "Boys and Girls in America"
 date: 2017-04-17
 release_id: "9520767"
 slug: "boys-and-girls-in-america-9520767"
+hideSummary: true
 cover:
     image: "boys-and-girls-in-america-9520767.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Boys and Girls in America by The Hold Steady"
+    caption: "Boys and Girls in America by The Hold Steady"
+genres: ["Rock"]
+styles: null
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 ## Videos
 {{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - Stuck Between Stations [Official Video]" >}}
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2016 |
-| Discogs Link   | [The Hold Steady - Boys and Girls in America](https://www.discogs.com/release/9520767) |
+| Release Year   | 2016 |
+| Discogs Link   | [The Hold Steady - Boys and Girls in America](https://www.discogs.com/release/9520767-The-Hold-Steady-Boys-and-Girls-in-America) |
 | Label          | Vagrant Records |
 | Format         | 2xLP, Dlx, Gat |
 | Catalog Number | 538247700 |
+
+Front Sticker:  Deluxe Edition 2xLP featuring 4 b-sides and 6 demos  Back Cover: 2006, 2016 BMG Rights Management (US) LLC D/B/A Vagrant Records.  All Rights Reserved. Unauthorized reproduction is a violation of applicable laws. Made in France.  4050538247701  
 

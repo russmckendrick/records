@@ -1,14 +1,17 @@
 ---
 title: "Pure Reason Revolution - The Dark Third"
-album_artist: "Pure Reason Revolution"
-album_title: "The Dark Third"
+artist: "Pure Reason Revolution"
+album_name: "The Dark Third"
 date: 2016-02-19
 release_id: "3050616"
 slug: "the-dark-third-3050616"
+hideSummary: true
 cover:
     image: "the-dark-third-3050616.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "The Dark Third by Pure Reason Revolution"
+    caption: "The Dark Third by Pure Reason Revolution"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
 ## Tracklisting
@@ -46,13 +49,16 @@ hideSummary: true
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2011 |
-| Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616) |
+| Release Year   | 2011 |
+| Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616-Pure-Reason-Revolution-The-Dark-Third) |
 | Label          | Primal Vinyl Records |
 | Format         | 2xLP, Album |
 | Catalog Number | PVR0005LP |
+
+Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence. © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records Distributed by Plastic Head Music Distribution Ltd Recorded at Fairhazel, Eden, The Gables & RAK Studios.  Mixed at RAK Studios. 
 

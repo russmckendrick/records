@@ -1,14 +1,17 @@
 ---
 title: "Beastie Boys - Check Your Head"
-album_artist: "Beastie Boys"
-album_title: "Check Your Head"
+artist: "Beastie Boys"
+album_name: "Check Your Head"
 date: 2016-09-05
 release_id: "1729629"
 slug: "check-your-head-1729629"
+hideSummary: true
 cover:
     image: "check-your-head-1729629.jpg"
-tags: ["Hip Hop", "Jazz", "Rock"]
-hideSummary: true
+    alt: "Check Your Head by Beastie Boys"
+    caption: "Check Your Head by Beastie Boys"
+genres: ["Hip Hop", "Jazz", "Rock"]
+styles: ["Cut-up/DJ", "Fusion"]
 ---
 
 ## Tracklisting
@@ -40,13 +43,16 @@ hideSummary: true
 - [Beastie Boys - Something's Got To Give (Official Music Video)](https://www.youtube.com/watch?v=teQqelBTw7g)
 - [Beastie Boys - Jimmy James (Official Music Video)](https://www.youtube.com/watch?v=vw5i7TPkYfI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2009 |
-| Discogs Link   | [Beastie Boys - Check Your Head](https://www.discogs.com/release/1729629) |
+| Release Year   | 2009 |
+| Discogs Link   | [Beastie Boys - Check Your Head](https://www.discogs.com/release/1729629-Beastie-Boys-Check-Your-Head) |
 | Label          | Grand Royal, Capitol Records |
 | Format         | 2xLP, Album, RE, RM, 180 |
 | Catalog Number | C1-94225 |
+
+Recorded and mixed at G-Son Studios, Atwater Village, CA Sequenced at PCP Labs Remastered at Sterling Sound, NYC  ℗ and © 1992 Capitol Records, LLC and Beastie Boys  Printed in the EU.  Made in the EU.  This album goes out to David Scilken 
 

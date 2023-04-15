@@ -1,14 +1,17 @@
 ---
 title: "Public Service Broadcasting - Inform - Educate - Entertain"
-album_artist: "Public Service Broadcasting"
-album_title: "Inform - Educate - Entertain"
+artist: "Public Service Broadcasting"
+album_name: "Inform - Educate - Entertain"
 date: 2015-10-12
 release_id: "4557013"
 slug: "inform-educate-entertain-4557013"
+hideSummary: true
 cover:
     image: "inform-educate-entertain-4557013.jpg"
-tags: ["Electronic", "Rock", "Non-Music"]
-hideSummary: true
+    alt: "Inform - Educate - Entertain by Public Service Broadcasting"
+    caption: "Inform - Educate - Entertain by Public Service Broadcasting"
+genres: ["Electronic", "Rock", "Non-Music"]
+styles: ["Krautrock"]
 ---
 
 ## Tracklisting
@@ -33,13 +36,16 @@ hideSummary: true
 - [PUBLIC SERVICE BROADCASTING - LIT UP](https://www.youtube.com/watch?v=dsP95AfBtkk)
 - [PUBLIC SERVICE BROADCASTING - EVEREST](https://www.youtube.com/watch?v=vhgfzEm3CWU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Public Service Broadcasting - Inform - Educate - Entertain](https://www.discogs.com/release/4557013) |
+| Release Year   | 2013 |
+| Discogs Link   | [Public Service Broadcasting - Inform - Educate - Entertain](https://www.discogs.com/release/4557013-Public-Service-Broadcasting-Inform-Educate-Entertain) |
 | Label          | Test Card Recordings |
 | Format         | LP, Album |
 | Catalog Number | TCRVA01 |
+
+Packaging: Gatefold Sleeve with full colour inner.  Printed notes: Free digital download included... coupon inside. ℗ & © Test Card Recordings, 2013. Under exclusive licence from Jacamar Ltd. Certain elements © BFI National Archive / COI and STUDIOCANAL Films Ltd. Mastered... at Safe And Sound Recordings  Spitfire contains samples from 'The First of The Few' (1942); Late Night Final contains samples from 'What A Life!' (1948) The above films are © BFI National Archive / COI and used with kind permission  Night Mail contains samples from the eponymous film, © Royal Mail Group 1936, used with kind permission of the BFI and the British Postal Museum & Archive  Everest contains samples from 'The Conquest of Everest' (1953), © STUDIOCANAL Film Ltd. Used with kind permission  Other tracks on the album contain samples from various public domain sources, with the majority coming from the fantastic Prelinger Archives. Many thanks to Rick Prelinger for curating and maintaining this fantastic resource. Used under the Creative Commons Public Domain Licence  
 

@@ -1,14 +1,17 @@
 ---
 title: "The National - I Am Easy To Find"
-album_artist: "The National"
-album_title: "I Am Easy To Find"
+artist: "The National"
+album_name: "I Am Easy To Find"
 date: 2019-05-17
 release_id: "13632090"
 slug: "i-am-easy-to-find-13632090"
+hideSummary: true
 cover:
     image: "i-am-easy-to-find-13632090.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "I Am Easy To Find by The National"
+    caption: "I Am Easy To Find by The National"
+genres: ["Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 ## Tracklisting
@@ -36,13 +39,16 @@ hideSummary: true
 - [The National - 'Light Years'](https://www.youtube.com/watch?v=5FQtSn_vak0)
 - [The National - 'Hairpin Turns'](https://www.youtube.com/watch?v=W_aN81SBI3A)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [The National - I Am Easy To Find](https://www.discogs.com/release/13632090) |
+| Release Year   | 2019 |
+| Discogs Link   | [The National - I Am Easy To Find](https://www.discogs.com/release/13632090-The-National-I-Am-Easy-To-Find) |
 | Label          | 4AD |
 | Format         | LP, Red + LP, Yel + LP, S/Sided, Etch, Gre + Album |
 | Catalog Number | 4AD0154LPX |
+
+Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors. 5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format. Etching on the 6th side.  Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.  Includes digital download card for tracks A1 to D4.
 

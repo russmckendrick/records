@@ -1,14 +1,17 @@
 ---
 title: "Machine Head (3) - Burn My Eyes"
-album_artist: "Machine Head (3)"
-album_title: "Burn My Eyes"
+artist: "Machine Head (3)"
+album_name: "Burn My Eyes"
 date: 2016-09-19
 release_id: "6125349"
 slug: "burn-my-eyes-6125349"
+hideSummary: true
 cover:
     image: "burn-my-eyes-6125349.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Burn My Eyes by Machine Head (3)"
+    caption: "Burn My Eyes by Machine Head (3)"
+genres: ["Rock"]
+styles: ["Thrash", "Heavy Metal"]
 ---
 
 ## Tracklisting
@@ -39,13 +42,16 @@ hideSummary: true
 - [Real Eyes, Realize, Real Lies](https://www.youtube.com/watch?v=rNBfBSStzD4)
 - [Block](https://www.youtube.com/watch?v=j7W-ZnrHTFU)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2014 |
-| Discogs Link   | [Machine Head (3) - Burn My Eyes](https://www.discogs.com/release/6125349) |
+| Release Year   | 2014 |
+| Discogs Link   | [Machine Head (3) - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-Burn-My-Eyes) |
 | Label          | Metal Blade Records |
 | Format         | LP, Album, RE, Gol |
 | Catalog Number | 3984-15313-1 |
+
+Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc.
 

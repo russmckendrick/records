@@ -1,14 +1,17 @@
 ---
 title: "The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)"
-album_artist: "The Divine Comedy"
-album_title: "Charmed Life (The Best Of The Divine Comedy)"
+artist: "The Divine Comedy"
+album_name: "Charmed Life (The Best Of The Divine Comedy)"
 date: 2022-02-04
 release_id: "22022677"
 slug: "charmed-life-the-best-of-the-divine-comedy-22022677"
+hideSummary: true
 cover:
     image: "charmed-life-the-best-of-the-divine-comedy-22022677.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy"
+    caption: "Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy"
+genres: ["Pop"]
+styles: ["Indie Pop"]
 ---
 
 ## Tracklisting
@@ -53,13 +56,16 @@ hideSummary: true
 - [Those Pesky Kids](https://www.youtube.com/watch?v=u8sIYcN7ii4)
 - [Butterfly](https://www.youtube.com/watch?v=M4g_gPU5VNg)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2022 |
-| Discogs Link   | [The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)](https://www.discogs.com/release/22022677) |
+| Release Year   | 2022 |
+| Discogs Link   | [The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)](https://www.discogs.com/release/22022677-The-Divine-Comedy-Charmed-Life-The-Best-Of-The-Divine-Comedy) |
 | Label          | Divine Comedy Records Limited |
 | Format         | LP, Gol + LP, Sil + Comp, Ltd |
 | Catalog Number | DCRL118LPX |
+
+Signed "Charmed Life" lyric sheets were available with a CD and coloured vinyl bundle from the official artist store.
 

@@ -1,14 +1,17 @@
 ---
 title: "Gary Numan - I, Assassin"
-album_artist: "Gary Numan"
-album_title: "I, Assassin"
+artist: "Gary Numan"
+album_name: "I, Assassin"
 date: 2019-03-02
 release_id: "13281584"
 slug: "i-assassin-13281584"
+hideSummary: true
 cover:
     image: "i-assassin-13281584.jpg"
-tags: ["Electronic"]
-hideSummary: true
+    alt: "I, Assassin by Gary Numan"
+    caption: "I, Assassin by Gary Numan"
+genres: ["Electronic"]
+styles: ["Electro", "Synth-pop"]
 ---
 
 ## Tracklisting
@@ -37,13 +40,16 @@ hideSummary: true
 - [The 1930's Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)
 - [We Take Mystery (To Bed)](https://www.youtube.com/watch?v=sM7odiEO1k8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Gary Numan - I, Assassin](https://www.discogs.com/release/13281584) |
+| Release Year   | 2019 |
+| Discogs Link   | [Gary Numan - I, Assassin](https://www.discogs.com/release/13281584-Gary-Numan-I-Assassin) |
 | Label          | Beggars Banquet |
 | Format         | LP, Album, RE, RM, Gre |
 | Catalog Number | BBQLP 40 |
+
+Pressed on Dark Green Vinyl. Released through the Beggars Banquet "The Arkive" project Restored from the original analogue tapes.
 

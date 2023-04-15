@@ -1,14 +1,17 @@
 ---
 title: "Clutch (3) - Earth Rocker"
-album_artist: "Clutch (3)"
-album_title: "Earth Rocker"
+artist: "Clutch (3)"
+album_name: "Earth Rocker"
 date: 2015-08-09
 release_id: "4382663"
 slug: "earth-rocker-4382663"
+hideSummary: true
 cover:
     image: "earth-rocker-4382663.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "Earth Rocker by Clutch (3)"
+    caption: "Earth Rocker by Clutch (3)"
+genres: ["Rock"]
+styles: ["Hard Rock"]
 ---
 
 ## Tracklisting
@@ -28,13 +31,16 @@ hideSummary: true
 {{< youtube id="AhGqABVdguo" title="Clutch - Earth Rocker  (Album Stream)" >}}
 - [Clutch - Earth Rocker Full Album](https://www.youtube.com/watch?v=YrfZdv4PEXI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2013 |
-| Discogs Link   | [Clutch (3) - Earth Rocker](https://www.discogs.com/release/4382663) |
+| Release Year   | 2013 |
+| Discogs Link   | [Clutch (3) - Earth Rocker](https://www.discogs.com/release/4382663-Clutch-Earth-Rocker) |
 | Label          | Weathermaker Music |
 | Format         | LP, Album, Gat |
 | Catalog Number | WM028 |
+
+Gatefold sleeve.  Recorded and mixed at The Machine Shop, Belleville, NJ. MachineShopProductions.com Mastered at Taloowa Mastering, Yonkers, New York.  Additional information at: earthrocker.com / pro-rock.com / fb: facebook.com.clutchband / twitter:@clutchofficial  Merchandise: www.clutchmerch.com  Design & artwork: Nick Lakiotes / Twitter:@micklak  Artist management: At Isschar Entertainment, NYC / issacherentertainment.com Legal representation: At Lommen-Abdo / Iommen.com  Weathermaker Music Management: www.weathermakermusic.com  Publishing: Jack Flanagan / Sea Gator Music (ASCAP) / ascap.com Worldwide administrator: Jon Grant / BMG Chrysalis / bmgchrysalis.com  All songs published by Sea Gator Music (ASCAP). All rights administered by BMG Rights Management (US) LLC.  Vinyl mastering credits obtained from information in the vinyl runout.
 

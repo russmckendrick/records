@@ -1,14 +1,17 @@
 ---
 title: "Ride - OX4_ The Best Of Ride"
-album_artist: "Ride"
-album_title: "OX4_ The Best Of Ride"
+artist: "Ride"
+album_name: "OX4_ The Best Of Ride"
 date: 2015-08-09
 release_id: "6901033"
 slug: "ox4_-the-best-of-ride-6901033"
+hideSummary: true
 cover:
     image: "ox4_-the-best-of-ride-6901033.jpg"
-tags: ["Rock"]
-hideSummary: true
+    alt: "OX4_ The Best Of Ride by Ride"
+    caption: "OX4_ The Best Of Ride by Ride"
+genres: ["Rock"]
+styles: ["Indie Rock"]
 ---
 
 ## Tracklisting
@@ -32,13 +35,16 @@ hideSummary: true
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}
 - [Ride - Like A Daydream](https://www.youtube.com/watch?v=8zzo25t_eC8)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2015 |
-| Discogs Link   | [Ride - OX4_ The Best Of Ride](https://www.discogs.com/release/6901033) |
+| Release Year   | 2015 |
+| Discogs Link   | [Ride - OX4_ The Best Of Ride](https://www.discogs.com/release/6901033-Ride-OX4_-The-Best-Of-Ride) |
 | Label          | Sire |
 | Format         | 2xLP, RSD, Comp, RE, Red |
 | Catalog Number | 081227955137 |
+
+Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.  Pressing plant uncredited, identified by the three concentric rings near the spindle hole.
 

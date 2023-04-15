@@ -1,14 +1,17 @@
 ---
 title: "Neneh Cherry - Raw Like Sushi"
-album_artist: "Neneh Cherry"
-album_title: "Raw Like Sushi"
+artist: "Neneh Cherry"
+album_name: "Raw Like Sushi"
 date: 2020-01-31
 release_id: "14721225"
 slug: "raw-like-sushi-14721225"
+hideSummary: true
 cover:
     image: "raw-like-sushi-14721225.jpg"
-tags: ["Electronic", "Hip Hop", "Funk / Soul"]
-hideSummary: true
+    alt: "Raw Like Sushi by Neneh Cherry"
+    caption: "Raw Like Sushi by Neneh Cherry"
+genres: ["Electronic", "Hip Hop", "Funk / Soul"]
+styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contemporary R&B", "New Jack Swing"]
 ---
 
 ## Tracklisting
@@ -60,13 +63,16 @@ hideSummary: true
 - [Buffalo Stance (Kevin Saunderson's Techno Stance Remix I)](https://www.youtube.com/watch?v=9bYybYxvoSo)
 - [Buffalo Stance (Arthur Baker's 1/2 Way 2 House Mix)](https://www.youtube.com/watch?v=rfUac28PaeI)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2020 |
-| Discogs Link   | [Neneh Cherry - Raw Like Sushi](https://www.discogs.com/release/14721225) |
+| Release Year   | 2020 |
+| Discogs Link   | [Neneh Cherry - Raw Like Sushi](https://www.discogs.com/release/14721225-Neneh-Cherry-Raw-Like-Sushi) |
 | Label          | Virgin, Virgin |
 | Format         | LP, Album, RE, RM, 30t |
 | Catalog Number | 0813320 , 006025 0813320 6 |
+
+30th Anniversary Remastered Edition. Includes download code.
 

@@ -1,14 +1,17 @@
 ---
 title: "Crowded House - The Very Very Best Of Crowded House"
-album_artist: "Crowded House"
-album_title: "The Very Very Best Of Crowded House"
+artist: "Crowded House"
+album_name: "The Very Very Best Of Crowded House"
 date: 2019-07-15
 release_id: "13869670"
 slug: "the-very-very-best-of-crowded-house-13869670"
+hideSummary: true
 cover:
     image: "the-very-very-best-of-crowded-house-13869670.jpg"
-tags: ["Pop"]
-hideSummary: true
+    alt: "The Very Very Best Of Crowded House by Crowded House"
+    caption: "The Very Very Best Of Crowded House by Crowded House"
+genres: ["Pop"]
+styles: null
 ---
 
 ## Tracklisting
@@ -38,13 +41,16 @@ hideSummary: true
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 
+
 ## Notes
 
 | Notes          |             |
 | ---------------| ----------- |
-| Release Date   | 2019 |
-| Discogs Link   | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13869670) |
+| Release Year   | 2019 |
+| Discogs Link   | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13869670-Crowded-House-The-Very-Very-Best-Of-Crowded-House) |
 | Label          | Universal Music |
 | Format         | 2xLP, Comp, RE |
 | Catalog Number | 00602557847581 |
+
+180 gram Black vinyl.  Comes with a hype sticker and a voucher with a download code
 
