@@ -1,0 +1,117 @@
+---
+title: "Eels - The Complete Dreamworks Albums"
+album_artist: "Eels"
+album_title: "The Complete Dreamworks Albums"
+date: 2016-01-19
+release_id: "7660802"
+slug: "the-complete-dreamworks-albums-7660802"
+cover:
+    image: "the-complete-dreamworks-albums-7660802.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Beautiful Freak
+2. Novocaine For The Soul
+3. Susan's House
+4. Rags To Rags
+5. Beautiful Freak
+6. Not Ready Yet
+7. My Beloved Monster
+8. Flower
+9. Guest List
+10. Mental
+11. Spunky
+12. Your Lucky Day In Hell
+13. Manchild
+14. Electro-Shock Blues
+15. Elizabeth On The Bathroom Floor (2:10)
+16. Going To Your Funeral Part I (2:37)
+17. Cancer For The Cure (4:45)
+18. My Descent Into Madness (3:54)
+19. 3 Speed (2:45)
+20. Hospital Food (3:23)
+21. Electro-Shock Blues (2:29)
+22. Efils' God (3:19)
+23. Going To Your Funeral Part II (1:30)
+24. Last Stop: This Town (3:27)
+25. Baby Genius (2:03)
+26. Climbing To The Moon (3:38)
+27. Ant Farm (2:11)
+28. Dead Of Winter (2:59)
+29. The Medication Is Wearing Off (3:51)
+30. P.S. You Rock My World (3:08)
+31. Daisies Of The Galaxy
+32. Grace Kelly Blues
+33. Packing Blankets
+34. The Sound Of Fear
+35. I Like Birds
+36. Daisies Of The Galaxy
+37. Flyswatter
+38. It's A Motherfucker
+39. Estate Sale
+40. Tiger In My Tank
+41. A Daisy Through Concrete
+42. Jeannie's Diary
+43. Wooden Nickels
+44. Something Is Sacred
+45. Selective Memory
+46. Untitled
+47. Souljacker
+48. Dog Faced Boy (3:17)
+49. That's Not Really Funny (3:19)
+50. Fresh Feeling (3:37)
+51. Woman Driving, Man Sleeping (3:30)
+52. Souljacker Part I (3:15)
+53. Friendly Ghost (3:22)
+54. Teenage Witch (4:44)
+55. Bus Stop Boxer (3:42)
+56. Jungle Telegraph (3:39)
+57. World Of Shit (3:29)
+58. Souljacker Part II (1:58)
+59. What Is This Note? (2:28)
+60. Shootenanny!
+61. All In A Day's Work
+62. Saturday Morning
+63. The Good Old Days
+64. Love Of The Loveless
+65. Dirty Girl
+66. Agony
+67. Rock Hard Times
+68. Restraining Order Blues
+69. Lone Wolf
+70. Wrong About Bobby
+71. Numbered Days
+72. Fashion Awards
+73. Somebody Loves You
+74. Electro-Shock Blues Show
+75. Cancer For The Cure
+76. Fingertips Part III
+77. Going To Your Funeral Part I
+78. Efil's God
+79. Souljacker Part I
+80. My Beloved Monster
+81. Novocaine For The Soul
+82. Not Ready Yet
+83. Last Stop: This Town
+84. Everything's Gonna Be Cool This Christmas
+85. Flower
+86. Dead Of Winter
+87. Electro-Shock Blues
+88. The Medication Is Wearing Off
+89. Climbing To The Moon
+
+## Videos
+
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2015 |
+| Discogs Link   | [Eels - The Complete Dreamworks Albums](https://www.discogs.com/release/7660802) |
+| Label          | Universal Music Group, Universal Music Group, Universal Music Group, Universal Music Group, UMe, Geffen Records, Geffen Records, Geffen Records, Geffen Records, DreamWorks Records, E Works Records |
+| Format         | LP, Album, RE + 2xLP, Album, RE + LP, Album, RE +  |
+| Catalog Number | 602547306623, 602547306616, 602547306630, 60254730 |
+

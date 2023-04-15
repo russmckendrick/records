@@ -1,0 +1,49 @@
+---
+title: "The Prodigy - The Fat Of The Land"
+album_artist: "The Prodigy"
+album_title: "The Fat Of The Land"
+date: 2021-07-27
+release_id: "19605292"
+slug: "the-fat-of-the-land-19605292"
+cover:
+    image: "the-fat-of-the-land-19605292.jpg"
+tags: ["Electronic"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Smack My Bitch Up
+2. Breathe
+3. Diesel Power
+4. Funky Shit
+5. Serial Thrilla
+6. Mindfields
+7. Narayan
+8. Firestarter
+9. Climbatize
+10. Fuel My Fire
+
+## Videos
+{{< youtube id="wmin5WkOuPw" title="The Prodigy - Firestarter (Official Video)" >}}
+- [The Prodigy - Breathe (Official Video)](https://www.youtube.com/watch?v=6_PAHbqq-o4)
+- [Smack My Bitch Up](https://www.youtube.com/watch?v=gB5aXPgZ61s)
+- [The Prodigy - Breathe (Official Video)](https://www.youtube.com/watch?v=rmHDhAohJlQ)
+- [Diesel Power](https://www.youtube.com/watch?v=GLSr0BAlndM)
+- [Funky Shit](https://www.youtube.com/watch?v=TyCKqRvCN8E)
+- [Serial Thrilla](https://www.youtube.com/watch?v=qffVd9KmGZo)
+- [Mindfields](https://www.youtube.com/watch?v=mbcVm8iepQE)
+- [Narayan](https://www.youtube.com/watch?v=AzC1Ap1Gf0U)
+- [Firestarter](https://www.youtube.com/watch?v=Hb9hvRSEel8)
+- [Climbatize](https://www.youtube.com/watch?v=YW2nvdDpoyA)
+- [Fuel My Fire](https://www.youtube.com/watch?v=YjypgWMj_gI)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2021 |
+| Discogs Link   | [The Prodigy - The Fat Of The Land](https://www.discogs.com/release/19605292) |
+| Label          | XL Recordings, XL Recordings |
+| Format         | 2xLP, Album, Ltd, RE, RP, Ora |
+| Catalog Number | XL121LPE2, XLLP 121 |
+

@@ -1,0 +1,52 @@
+---
+title: "INXS - Live Baby Live Wembley Stadium"
+album_artist: "INXS"
+album_title: "Live Baby Live Wembley Stadium"
+date: 2020-01-02
+release_id: "14406405"
+slug: "live-baby-live-wembley-stadium-14406405"
+cover:
+    image: "live-baby-live-wembley-stadium-14406405.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Guns In The Sky
+2. New Sensation
+3. I Send A Message
+4. The Stairs
+5. Know The Difference
+6. Disappear
+7. By My Side
+8. Hear That Sound
+9. Original Sin
+10. Lately
+11. The Loved One
+12. Wild Life
+13. Mystify
+14. Bitter Tears
+15. Suicide Blond
+16. What You Need
+17. Kick
+18. Need You Tonight
+19. Mediate
+20. Never Tears Us Apart
+21. Who Pays The Price
+22. Devil Inside
+
+## Videos
+{{< youtube id="KygvdzH0gj4" title="INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live" >}}
+- [INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=WhKHZ-PcmzU)
+- [INXS Mystify  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=FmtshAX5oDk)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [INXS - Live Baby Live Wembley Stadium](https://www.discogs.com/release/14406405) |
+| Label          | Universal Music, Petrol (2) |
+| Format         | 3xLP, Album, Dlx |
+| Catalog Number | 0602508245091 |
+

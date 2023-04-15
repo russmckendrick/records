@@ -1,0 +1,54 @@
+---
+title: "The Selecter - Too Much Pressure"
+album_artist: "The Selecter"
+album_title: "Too Much Pressure"
+date: 2021-04-24
+release_id: "18421726"
+slug: "too-much-pressure-18421726"
+cover:
+    image: "too-much-pressure-18421726.jpg"
+tags: ["Reggae"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Three Minute Hero (3:00)
+2. Everyday (3:10)
+3. They Make Me Mad (2:47)
+4. Missing Words (3:22)
+5. Danger (2:38)
+6. Street Feeling (3:11)
+7. My Collie (Not A Dog) (2:45)
+8. Too Much Pressure (3:48)
+9. Murder (2:39)
+10. Out On The Streets (3:28)
+11. Carry Go Bring Come (3:02)
+12. Black And Blue (3:17)
+13. James Bond (2:16)
+14. On My Radio
+15. Too Much Pressure
+
+## Videos
+{{< youtube id="QHnX_wEW1K0" title="The Selecter - Too Much Pressure" >}}
+- [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
+- [THE SELECTER - EVERYDAY](https://www.youtube.com/watch?v=OIpTEqK0W9E)
+- [THE SELECTER - DANGER](https://www.youtube.com/watch?v=ckvX_gqcrxs)
+- [Selecter - danger](https://www.youtube.com/watch?v=BjUeBGkum6A)
+- [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)
+- [The Selecter - Out On The Streets](https://www.youtube.com/watch?v=JOecLj8Uw3s)
+- [the selecter too much pressure](https://www.youtube.com/watch?v=I0A8vBmfzWU)
+- [The Selecter - James Bond](https://www.youtube.com/watch?v=vfbx_oFeXww)
+- [The Selecter - On My Radio](https://www.youtube.com/watch?v=EXKEa2N5-mo)
+- [The Selecter - Missing Words](https://www.youtube.com/watch?v=BKELD7Rth0g)
+- [Selecter - time hard](https://www.youtube.com/watch?v=dZbL7PVGjqg)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2021 |
+| Discogs Link   | [The Selecter - Too Much Pressure](https://www.discogs.com/release/18421726) |
+| Label          | Two-Tone Records, Two-Tone Records |
+| Format         | LP, Album, Cle + 7\", Single, Cle + Ltd, RE, RM, 40 |
+| Catalog Number | CDL TTH5002, CDL TTC 5002 |
+

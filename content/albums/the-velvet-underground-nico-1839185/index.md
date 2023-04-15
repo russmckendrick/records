@@ -1,0 +1,69 @@
+---
+title: "The Velvet Underground & Nico (3) - The Velvet Underground & Nico"
+album_artist: "The Velvet Underground & Nico (3)"
+album_title: "The Velvet Underground & Nico"
+date: 2016-01-10
+release_id: "1839185"
+slug: "the-velvet-underground-nico-1839185"
+cover:
+    image: "the-velvet-underground-nico-1839185.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Sunday Morning (2:53)
+2. I'm Waiting For My Man (4:37)
+3. Femme Fatale (2:35)
+4. Venus In Furs (5:07)
+5. Run Run Run (4:18)
+6. All Tomorrow's Parties (5:55)
+7. I'll Be Your Mirror (2:01)
+8. Heroin (7:10)
+9. There She Goes Again (2:39)
+10. The Black Angel's Death Song (3:10)
+11. European Son (7:47)
+12. Chelsea Girls (7:24)
+
+## Videos
+{{< youtube id="Xhbyj8pqUao" title="The Velvet Underground, Nico - Sunday Morning" >}}
+- [I'm Waiting For The Man](https://www.youtube.com/watch?v=99og_g7rXnA)
+- [Femme Fatale](https://www.youtube.com/watch?v=ggHPtzVSEeE)
+- [Venus In Furs](https://www.youtube.com/watch?v=KR7Lv8XZtkk)
+- [Run Run Run](https://www.youtube.com/watch?v=wIdf3PwKmEI)
+- [All Tomorrow's Parties](https://www.youtube.com/watch?v=nfAK-IAlcsY)
+- [Heroin](https://www.youtube.com/watch?v=foptT2bsKww)
+- [There She Goes Again](https://www.youtube.com/watch?v=QbW39jwtewE)
+- [I'll Be Your Mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)
+- [The Black Angel's Death Song](https://www.youtube.com/watch?v=5S78t8I8Z5I)
+- [European Son](https://www.youtube.com/watch?v=JNZeMMDEZfo)
+- [Sunday Morning](https://www.youtube.com/watch?v=kSC_IoD-Bxw)
+- [Venus In Furs](https://www.youtube.com/watch?v=1qQ0MG9OPzA)
+- [Run Run Run](https://www.youtube.com/watch?v=EwHIs7IafD0)
+- [I'll Be Your Mirror](https://www.youtube.com/watch?v=l9_aVPwDNzc)
+- [Heroin](https://www.youtube.com/watch?v=yN-EZW0Plsg)
+- [All Tomorrow's Parties](https://www.youtube.com/watch?v=AkDJcUCyjCU)
+- [There She Goes Again](https://www.youtube.com/watch?v=obs9f-Ikj3o)
+- [I'm Waiting For The Man](https://www.youtube.com/watch?v=YbigVkiAe0s)
+- [The Black Angel's Death Song](https://www.youtube.com/watch?v=M0lya8HfDs0)
+- [Femme Fatale](https://www.youtube.com/watch?v=HGttSQsBpXQ)
+- [European Son](https://www.youtube.com/watch?v=Ae0no6_VkKk)
+- [European Son (Alternative Version)](https://www.youtube.com/watch?v=Vwy18WaZuD4)
+- [Sunday Morning (Mono)](https://www.youtube.com/watch?v=zZmCDDeD-ks)
+- [Heroin (Mono)](https://www.youtube.com/watch?v=_ntTHVebJOk)
+- [European Son (Mono)](https://www.youtube.com/watch?v=MKVyb9TFxJw)
+- [These Days](https://www.youtube.com/watch?v=jhr2MlQd7i0)
+- [Melody Laughter (Live At Valleydale Ballroom, Columbus, Ohio / 1966)](https://www.youtube.com/watch?v=cAbYn5Vpmow)
+- [Miss Joanie Lee (The Factory Rehearsal)](https://www.youtube.com/watch?v=B95uGs1z6x0)
+- [European Son (Alternate Version)](https://www.youtube.com/watch?v=Uq78HdfsRPs)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2008 |
+| Discogs Link   | [The Velvet Underground & Nico (3) - The Velvet Underground & Nico](https://www.discogs.com/release/1839185) |
+| Label          | Vinyl Lovers |
+| Format         | LP, Album, RE, Pee |
+| Catalog Number | 900051 |
+

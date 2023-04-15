@@ -1,0 +1,43 @@
+---
+title: "Kenji Kawai - Ghost In The Shell (Original Soundtrack)"
+album_artist: "Kenji Kawai"
+album_title: "Ghost In The Shell (Original Soundtrack)"
+date: 2017-07-14
+release_id: "10522236"
+slug: "ghost-in-the-shell-original-soundtrack-10522236"
+cover:
+    image: "ghost-in-the-shell-original-soundtrack-10522236.jpg"
+tags: ["Electronic", "Stage & Screen"]
+hideSummary: true
+---
+
+## Tracklisting
+1. M01 謡I - Making Of Cyborg
+2. M02 Ghosthack (本編未使用)
+3. EXM Puppetmaster
+4. M04 Virtual Crime
+5. M05 謠 II - Ghost City
+6. M06 Access
+7. M07 Nightstalker
+8. M08 Floating Museum
+9. M09 Ghostdive
+10. M10 謠 III - Reincarnation
+11. Bonus 7"
+12. 挿入歌 毎天見一見! (See You Everyday) 
+
+## Videos
+{{< youtube id="ceBW3RbrL0E" title="Ghost In The Shell (1995) OST" >}}
+- [M01 Chant I - Making of Cyborg - Kenji Kawai (Ghost in the Shell Soundtrack)](https://www.youtube.com/watch?v=iTPNaUsjksM)
+- [Ghost in the Shell OST - Floating Museum](https://www.youtube.com/watch?v=S9579XgUUds)
+- [Kenji Kawai – 謡II - Ghost City [1995] HQ HD](https://www.youtube.com/watch?v=T1lFE39E1Tc)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2017 |
+| Discogs Link   | [Kenji Kawai - Ghost In The Shell (Original Soundtrack)](https://www.discogs.com/release/10522236) |
+| Label          | We Release Whatever The Fuck We Want Records |
+| Format         | LP + 7\", S/Sided + Album, Ltd, M/Print, RE |
+| Catalog Number | WRWTFWW017LTD |
+

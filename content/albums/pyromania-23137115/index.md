@@ -1,0 +1,44 @@
+---
+title: "Def Leppard - Pyromania"
+album_artist: "Def Leppard"
+album_title: "Pyromania"
+date: 2022-05-09
+release_id: "23137115"
+slug: "pyromania-23137115"
+cover:
+    image: "pyromania-23137115.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Rock! Rock! (Till You Drop) (3:53)
+2. Photograph (4:12)
+3. Stagefright  (3:46)
+4. Too Late For Love (4:30)
+5. Die Hard The Hunter (6:17)
+6. Foolin’ (4:32)
+7. Rock Of Ages (4:09)
+8. Comin’ Under Fire (4:20)
+9. Action! Not Words (3:52)
+10. Billy’s Got A Gun (5:27)
+
+## Videos
+{{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}
+- [DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)](https://www.youtube.com/watch?v=q3sbi86cIRI)
+- [Def Leppard - Foolin'](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
+- [Def Leppard - Rock Of Ages (Official Music Video) (HD/1080p)](https://www.youtube.com/watch?v=4xHy3ngYfWo)
+- [Def Leppard - Too late For Love (Official Video)](https://www.youtube.com/watch?v=JylbxFYc83k)
+- [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)
+- [Too Late For Love -- Def Leppard .HD +Перевод](https://www.youtube.com/watch?v=F_3qbVA692c)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2022 |
+| Discogs Link   | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115) |
+| Label          | Vertigo, UMC |
+| Format         | LP, Album, RE, RM |
+| Catalog Number | 5777362 |
+

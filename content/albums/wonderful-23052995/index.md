@@ -1,0 +1,51 @@
+---
+title: "Madness - Wonderful"
+album_artist: "Madness"
+album_title: "Wonderful"
+date: 2022-09-04
+release_id: "23052995"
+slug: "wonderful-23052995"
+cover:
+    image: "wonderful-23052995.jpg"
+tags: ["Rock", "Pop"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Lovestruck
+2. Johnny The Horse
+3. The Communicator
+4. 4am
+5. The Wizard
+6. Drip Fed Fred
+7. Going To The Top
+8. Elysium
+9. Saturday Night, Sunday Morning
+10. If I Didn't Care
+11. No Money
+
+## Videos
+{{< youtube id="FiThjLcB1Qk" title="Madness - Lovestruck" >}}
+- [Madness - Elysium (Wonderful Track 8)](https://www.youtube.com/watch?v=XhPPZwcPC9M)
+- [Madness - No Money (Wonderful Track 11)](https://www.youtube.com/watch?v=JyJSWO-eSVI)
+- [Madness - 4am (Wonderful Track 4)](https://www.youtube.com/watch?v=Hh__Ni2a8gE)
+- [MADNESS - MEGAMIX - MEDLEY - (WONDERFUL ALBUM)](https://www.youtube.com/watch?v=I5FW6G83VHE)
+- [Madness - Lovestruck (Wonderful Track 1)](https://www.youtube.com/watch?v=aoDwMuRW3uA)
+- [Madness -  If I Didn't Care (Wonderful Track 10)](https://www.youtube.com/watch?v=ISoTiosarYs)
+- [Madness - The Wizard (Wonderful Track 5)](https://www.youtube.com/watch?v=UbqMw5gqbwU)
+- [Madness - Drip Fed Fred (Wonderful Track 6)](https://www.youtube.com/watch?v=_urgVEy5iIc)
+- [Madness - Drip Fed Fred](https://www.youtube.com/watch?v=7JqaGflZIL0)
+- [Madness - Going To The Top (Wonderful Track 7)](https://www.youtube.com/watch?v=dUICCsFgUPg)
+- [Madness - The Communicator (Wonderful Track 3)](https://www.youtube.com/watch?v=QsdlbJWipGc)
+- [Madness - Johnny The Horse (Wonderful Track 2)](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2022 |
+| Discogs Link   | [Madness - Wonderful](https://www.discogs.com/release/23052995) |
+| Label          | Union Square Music, BMG |
+| Format         | LP, Album, RE |
+| Catalog Number | SALVOLP14 |
+

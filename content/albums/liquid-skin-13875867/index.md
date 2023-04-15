@@ -1,0 +1,49 @@
+---
+title: "Gomez - Liquid Skin"
+album_artist: "Gomez"
+album_title: "Liquid Skin"
+date: 2019-07-15
+release_id: "13875867"
+slug: "liquid-skin-13875867"
+cover:
+    image: "liquid-skin-13875867.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Hangover (3:27)
+2. Revolutionary Kind (4:31)
+3. Bring It On (4:10)
+4. Blue Moon Rising (4:48)
+5. Las Vegas Dealer (3:54)
+6. We Haven't Turned Around (6:29)
+7. Fill My Cup (4:38)
+8. Rhythm & Blues Alibi (5:03)
+9. Rosalita (4:04)
+10. California (7:23)
+11. Devil Will Ride (6:56)
+
+## Videos
+{{< youtube id="XPebxxCiZQk" title="Hangover (Remastered 2019)" >}}
+- [Revolutionary Kind](https://www.youtube.com/watch?v=V2nECCy8uEI)
+- [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
+- [Blue Moon Rising](https://www.youtube.com/watch?v=9jHCwCbRGJg)
+- [Las Vegas Dealer](https://www.youtube.com/watch?v=peX1chFJTpM)
+- [Gomez - We Haven't Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
+- [Fill My Cup](https://www.youtube.com/watch?v=VjnYPEfvyj4)
+- [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)
+- [Rosalita](https://www.youtube.com/watch?v=Ag-_dO-za3k)
+- [Gomez - California](https://www.youtube.com/watch?v=6Ago5SAGV3E)
+- [Devil Will Ride](https://www.youtube.com/watch?v=5TYdDX1Fqlc)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2019 |
+| Discogs Link   | [Gomez - Liquid Skin](https://www.discogs.com/release/13875867) |
+| Label          | UMC, Virgin EMI Records |
+| Format         | 2xLP, Album, Ltd, RE, RM, Tra |
+| Catalog Number | 00602577534225, 7753422 |
+
