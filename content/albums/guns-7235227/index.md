@@ -1,0 +1,51 @@
+---
+title: "Cardiacs - Guns"
+album_artist: "Cardiacs"
+album_title: "Guns"
+date: 2016-12-13
+release_id: "7235227"
+slug: "guns-7235227"
+cover:
+    image: "guns-7235227.jpg"
+tags: ["Rock"]
+hideSummary: true
+---
+
+## Tracklisting
+1. Spell With A Shell (3:17)
+2. There's Good Cud (2:17)
+3. Wind And Rains Is Cold (3:21)
+4. Cry Wet Smile Dry (3:28)
+5. Jitterbug (Junior Is A) (7:31)
+6. Sleep All Eyes Open (2:59)
+7. Come Back Clammy Lammy (4:07)
+8. Clean That Evil Mud Out Your Soul (2:25)
+9. Ain't He Messy Though (2:03)
+10. Signs (4:26)
+11. Song Of A Dead Pest (2:37)
+12. Will Bleed Amen (7:31)
+
+## Videos
+{{< youtube id="I1-978oeynU" title="Spell with a Shell" >}}
+- [There's Good Cud](https://www.youtube.com/watch?v=07E2LaJZCiA)
+- [Wind And Rains Is Cold](https://www.youtube.com/watch?v=oW93gitP87k)
+- [Cry Wet Smile Dry](https://www.youtube.com/watch?v=cyertOcNnnA)
+- [Jitterbug (Junior Is A)](https://www.youtube.com/watch?v=y-GJXJOUJjE)
+- [Sleep All Eyes Open](https://www.youtube.com/watch?v=Ps5xGDgcg7k)
+- [Come Back Clammy Lammy](https://www.youtube.com/watch?v=9GeWmRjcaD4)
+- [Clean That Evil Mud Out Your Soul](https://www.youtube.com/watch?v=B9qszLOyb1s)
+- [Ain't He Messy Though](https://www.youtube.com/watch?v=62uYh6Bf_lE)
+- [Signs](https://www.youtube.com/watch?v=cNMNnSdjaMU)
+- [Song Of A Dead Pest](https://www.youtube.com/watch?v=87xA35MmnOs)
+- [Will Bleed Amen](https://www.youtube.com/watch?v=flgj1pkYSXw)
+
+## Notes
+
+| Notes          |             |
+| ---------------| ----------- |
+| Release Date   | 2015 |
+| Discogs Link   | [Cardiacs - Guns](https://www.discogs.com/release/7235227) |
+| Label          | The Alphabet Business Concern |
+| Format         | LP, Album, Ltd, Num |
+| Catalog Number | ALPH LP027 |
+
