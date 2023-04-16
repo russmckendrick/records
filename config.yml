@@ -1,8 +1,8 @@
 baseURL: https://www.mckendrick.rocks/
-languageCode: en-us
+languageCode: "en-us"
 title: "My Record Collection"
 theme: "PaperMod"
-paginate: 10
+paginate: 15
 enableRobotsTXT: true
 minify:
   disableXML: true
