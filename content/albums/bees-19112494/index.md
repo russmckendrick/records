@@ -33,6 +33,7 @@ styles: ["Indie Rock"]
 17. John Dark
 18. Judas Mon Coeur (French Version)
 19. Thief
+
 ## Spotify
 {{< spotify type="album" id="30IZSyzpuSTALOaucdggvS" width="100%" height="500" >}}
 
