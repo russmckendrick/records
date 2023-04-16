@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. I Wouldn't Want To Say
 2. Apples From A Tree
@@ -30,6 +29,8 @@ styles: ["Alternative Rock"]
 13. Burying Ground
 14. At Zero Below
 15. Eden Lost And Found
+## Spotify
+{{< spotify type="album" id="5MscroQK1QhbVhUJs1gNXf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="b4EL3wo1K84" title="Mark Lanegan - 'Bleed All Over'" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock"]
 - [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
 - [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | HVNLP178C, HVNLP178 |
 
 Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download  Download code sticker on inner sleeve  On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS]. Made in the EU.
-

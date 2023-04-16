@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Classical"]
 styles: ["Alternative Rock", "Modern", "Downtempo"]
 ---
-
 ## Tracklisting
 1. R.I.D.E.
 2. Future Love
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 10. End Game
 11. Shadows Behind The Sun
 12. In This Room
+## Spotify
+{{< spotify type="album" id="6hXYP3ljDTYrudMF9hyuLb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="v1sOUkKI0Sc" title="R.I.D.E. (Reimagined by Pêtr Aleksänder)" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 - [Future Love (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=MVIcN2-x3LM)
 - [Jump Jet (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=t8HP_4MFkwU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 | Catalog Number | WEBB584LP, none |
 
 With one-sided card stock insert. Download code on sticker attached to inner sleeve.  On hype sticker:  Limited edition clear vinyl With full album download 'Wichita recordings would like to thank you for buying vinyl'
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
-
 ## Tracklisting
 1. The Race For Space
 2. Sputnik
@@ -49,6 +48,8 @@ styles: ["Ambient"]
 32. Tomorrow
 33. Gagarin
 34. Everest
+## Spotify
+{{< spotify type="album" id="4vwN2hlVoC5mF1NmL09reL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2_J-_m9-Zqc" title="Everest - Public Service Broadcasting Live At Brixton" >}}
@@ -63,9 +64,7 @@ styles: ["Ambient"]
 - [Tomorrow (Live)](https://www.youtube.com/watch?v=qYcWJqWH4RA)
 - [London Can Take It (Live)](https://www.youtube.com/watch?v=67a1aWx3Ksg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -75,4 +74,3 @@ styles: ["Ambient"]
 | Catalog Number | TCRVAL04X |
 
 Released in a gatefold sleeve with printed inner sleeves. A download voucher of the album is included. Audio and video content recorded by Living Indie at O2 Brixton Academy, London on 29 November 2015. DVD contains bonus features and band commentary track and comes in a matte picture cardboard sleeve.
-

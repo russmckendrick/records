@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Cutter (3:50)
 2. Back Of Love (3:12)
@@ -25,6 +24,8 @@ styles: ["New Wave", "Indie Rock"]
 8. Higher Hell (5:00)
 9. Gods Will Be Gods (4:10)
 10. In Bluer Skies (5:55)
+## Spotify
+{{< spotify type="album" id="4brJ6hWYqPj1sccgk390dC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nMplIrSlg8E" title="Echo And The Bunnymen - The Cutter HD" >}}
@@ -38,9 +39,7 @@ styles: ["New Wave", "Indie Rock"]
 - [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
 - [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1983 |
@@ -50,4 +49,3 @@ styles: ["New Wave", "Indie Rock"]
 | Catalog Number | KODE 6, 240027-1 |
 
 First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped.
-

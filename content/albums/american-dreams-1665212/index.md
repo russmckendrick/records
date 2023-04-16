@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Song For America (5:42)
 2. The Joker (4:26)
@@ -43,14 +42,14 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 26. Freebird (4:10)
 27. Feels So Right (3:35)
 28. Here Comes That Feeling (3:30)
+## Spotify
+{{< spotify type="album" id="1WqrASGjFxsN4g7lttZ7T1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble (1981) (Music Video) 720p" >}}
 - [Air Supply - Even The Nights Are Better](https://www.youtube.com/watch?v=BRx58DgOxeg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -60,4 +59,3 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 | Catalog Number | SLTD 12 |
 
 This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.  Artwork differs from [r=6672471]  Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Walk On: Monk Morph Chamber Music (2:34)
 2. One More Red Nightmare (6:07)
@@ -22,11 +21,11 @@ styles: ["Prog Rock"]
 5. The Letters (4:57)
 6. Sailor's Tale (6:51)
 7. Starless (12:15)
-
+## Spotify
+{{< spotify type="album" id="20SQYKjSaO8NENPoxDSrkG" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -36,4 +35,3 @@ styles: ["Prog Rock"]
 | Catalog Number | DGMLV1 |
 
 Gatefold Sleeve. 200 Gram Super Heavyweight Vinyl. The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1. ℗ & © 2015 Robert Fripp on behalf of King Crimson Made in England.
-

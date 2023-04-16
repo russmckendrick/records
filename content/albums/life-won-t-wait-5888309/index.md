@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
-
 ## Tracklisting
 1. Intro (0:48)
 2. Bloodclot (2:45)
@@ -37,6 +36,8 @@ styles: ["Punk", "Ska"]
 20. Something In The World Today (2:33)
 21. Corazon De Oro (3:58)
 22. Coppers (5:01)
+## Spotify
+{{< spotify type="album" id="410JU10vru3pFk7f7vA94E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oJqFEk67eLE" title="Rancid - Who Would've Thought [MUSIC VIDEO]" >}}
@@ -44,9 +45,7 @@ styles: ["Punk", "Ska"]
 - [Rancid - Hooligans [MUSIC VIDEO]](https://www.youtube.com/watch?v=dN1FYAisi94)
 - [Rancid - Life Won't Wait (Full Album Stream)](https://www.youtube.com/watch?v=vlj-jh_HN7s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -54,6 +53,5 @@ styles: ["Punk", "Ska"]
 | Label          | Epitaph |
 | Format         | 2xLP, Album, RE, Ora |
 | Catalog Number | 86497-1 |
-
 
 

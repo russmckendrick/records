@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Power Of Equality (4:00)
 2. If You Have To Ask (4:11)
@@ -32,13 +31,13 @@ styles: ["Alternative Rock"]
 15. My Lovely Man (4:45)
 16. Sir Psycho Sexy (8:24)
 17. They're Red Hot (1:44)
+## Spotify
+{{< spotify type="album" id="30Perjew8HyGkdSmqguYyg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kziGsq8reTc" title="Red Hot Chili Peppers - Blood Sugar Sex Magik (Full Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 7599-26681-1 |
 
 Hype sticker on shrink wrap: "Contains Language That Some People May Find Offensive". Glossy single jacket with white paper inner sleeves. No printed inner sleeves, no lyrics sheet. 140g black vinyl.  ℗ © 1991 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by ⓦ Warner Music Manufacturing Europe.  [Note: Not a exclusive 2011 25th Anniversary Release, see [r3325063], [r3244590]]  Suck My Kiss is spelled Suck Me Kiss on label.  For a similar later release (after May 2019) with the new "Warner Records" label logo, see [r14651298].
-

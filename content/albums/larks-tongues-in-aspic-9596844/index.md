@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Larks' Tongues In Aspic, Part One (13:36)
 2. Book Of Saturday (2:59)
@@ -21,6 +20,8 @@ styles: ["Prog Rock"]
 4. Easy Money (7:51)
 5. The Talking Drum (7:28)
 6. Larks' Tongues In Aspic, Part Two (7:10)
+## Spotify
+{{< spotify type="album" id="4VKzYj7REUxkP1VXTdvSoV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CVb2tnFN5AA" title="King Crimson - Larks' Tongues In Aspic Part I (OFFICIAL)" >}}
@@ -29,9 +30,7 @@ styles: ["Prog Rock"]
 - [King Crimson - Larks' Tongues In Aspic - Part IV](https://www.youtube.com/watch?v=Pqi5J8dF7uE)
 - [Genesis - Larks' Tongues In Aspic (Full Album) 1970](https://www.youtube.com/watch?v=xDpUrLTm9cw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -41,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KCLP 5, KCLP5 |
 
 This pressing does NOT include a color postcard with download code, and also differs in the text on the sticker on the shrink wrap: KCLP5 • The original stereo mix of the 1973 classic • Newly cut from masters approved by Robert Fripp (NO line with wording about inclusion of download code) • 200-gram super-heavyweight vinyl  Barcode on sticker only. Includes a branded inner sleeve and a single-sided printed insert.  All songs published by EMI Music Publishing Ltd./UMG Music Ltd.  Recorded at Command Studios, London - Jan & Feb 1973.  Lyrics © 1973 Richard W. Palmer-James.  ℗ & © 2013 Robert Fripp.  A King Crimson Production Made in England.
-

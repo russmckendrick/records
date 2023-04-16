@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "New Wave"]
 ---
-
 ## Tracklisting
 1. Airlane (3:18)
 2. Metal (3:33)
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "New Wave"]
 8. Conversation (7:38)
 9. Cars (3:53)
 10. Engineers (4:00)
+## Spotify
+{{< spotify type="album" id="5xFlkqLDx3wbgqtvrez1n0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KJmujhpDslY" title="GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album" >}}
@@ -39,9 +40,7 @@ styles: ["Synth-pop", "New Wave"]
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1979 |
@@ -51,4 +50,3 @@ styles: ["Synth-pop", "New Wave"]
 | Catalog Number | BEGA 10 |
 
 Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording. All songs © 1979  Distributed by WEA Records Ltd. A Warner Communications Company.  All titles:- Beggars Banquet / Andrew Heath Music Ltd.
-

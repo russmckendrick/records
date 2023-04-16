@@ -13,21 +13,20 @@ cover:
 genres: ["Electronic"]
 styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 ---
-
 ## Tracklisting
 1. T69 Collapse (5:21)
 2. 1st 44 (6:01)
 3. MT1 t29r2 (6:00)
 4. Abundance10edit [2 R8's, FZ20m & A 909] (6:18)
+## Spotify
+{{< spotify type="album" id="3SbGxJVC8fHv41RFKCGIl3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SqayDnQ2wmw" title="Aphex Twin - T69 Collapse" >}}
 - [1st 44 - Aphex Twin](https://www.youtube.com/watch?v=dedIrECaUAc)
 - [Aphex Twin- MT1 t29r2 (Collapse EP)](https://www.youtube.com/watch?v=0MtrLA_jmow)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -37,4 +36,3 @@ styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 | Catalog Number | WAP423 |
 
 Regular version. Includes a download card for the EP plus bonus track 'Pthex'.   Side A label features a smaller Aphex Twin logo compared to side B.  Made in EU.   Orders through Bleep include two additional Collapse EP artwork related stickers.  XIV, 1T & 1⊥ in runouts is mirroed.
-

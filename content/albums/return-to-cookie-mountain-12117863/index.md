@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. I Was A Lover (4:21)
 2. Hours (3:55)
@@ -26,6 +25,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 9. Blues From Down Here (5:17)
 10. Tonight (6:52)
 11. Wash The Day (8:07)
+## Spotify
+{{< spotify type="album" id="7xn8nwwutlJFMb7Zf9NEHi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="j1-xRk6llh4" title="TV On The Radio - Wolf Like Me (Official Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Untitled](https://www.youtube.com/watch?v=_ZyRRWO_teA)
 - [Let The Devil In](https://www.youtube.com/watch?v=vb9DxtmsYHM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +47,3 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Catalog Number | B0028301-01 |
 
 Vinyl Me Please Essentials, June 2018 Includes an obi strip and an art print. Tracks are continuously numbered across sides on the release.  Sticker: VMP Exclusive Vinyl Edition - Half-Speed Remastered at Alchemy UK - 2LP, 45RPM Multi-Color Vinyl - Heavyweight Gatefold, Tip On Jacket - 24pg Full Color Lyric Booklet  A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.            
-

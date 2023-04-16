@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
-
 ## Tracklisting
 1. Love's In Need Of Love Today (7:05)
 2. Have A Talk With God (2:42)
@@ -37,14 +36,14 @@ styles: ["Soul", "Disco"]
 20. Ebony Eyes (4:10)
 21. All Day Sucker (5:06)
 22. Easy Goin' Evening (My Mama's Call) (3:58)
+## Spotify
+{{< spotify type="album" id="6YUCc2RiXcEKS9ibuZxjt0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}
 - [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -54,4 +53,3 @@ styles: ["Soul", "Disco"]
 | Catalog Number | 0600753164228 |
 
 Includes 24-page lyric booklet. Unlike many earlier issues this version in not auto-coupled.
-

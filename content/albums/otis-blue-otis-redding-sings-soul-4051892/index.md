@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Ole Man Trouble (2:35)
 2. Respect (2:03)
@@ -31,9 +30,7 @@ styles: ["Soul"]
 {{< youtube id="PtW03zWhXRw" title="My Girl" >}}
 - [Wonderful World](https://www.youtube.com/watch?v=6LLPLIeGrOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -43,4 +40,3 @@ styles: ["Soul"]
 | Catalog Number | 8122797160 |
 
 Sticker on front "...On Special Edition Blue Vinyl 180-Gram. Cut from the original analog master tapes packaging replicated to the finest detail pressed with more care than ever"  Manufactured in EU/Made in the EU  A1, A2 published by East-Time-Walco A3, B1, B3 published by Kags A4 published by Progressive A5 published by East-Time-Curtom B2 published by Jobete B4 published by Modern B5 published by Immediate B6 published by East
-

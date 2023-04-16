@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Woman I Know (7:51)
 2. You Just Know (4:39)
@@ -27,6 +26,8 @@ styles: ["Indie Rock", "Britpop"]
 10. Stay (5:16)
 11. In Vain (4:56)
 12. I'm Tired (4:54)
+## Spotify
+{{< spotify type="album" id="2ek8848KJ7XKzeICUDvdQ7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xM54pVZkEMU" title="Bernard Butler - People Move On (1998) Full album" >}}
@@ -40,9 +41,7 @@ styles: ["Indie Rock", "Britpop"]
 - [Bernard Butler - Woman I know](https://www.youtube.com/watch?v=kOICJ_-yXe0)
 - [YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.](https://www.youtube.com/watch?v=yeQUVyYiJKU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,4 +51,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | DEMREC943 |
 
 This version has re-recorded vocals and new guitar overdubs recorded in 2021.   Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X).
-

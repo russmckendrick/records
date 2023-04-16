@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. For The Music
 2. After All
@@ -24,6 +23,8 @@ styles: null
 7. White Nights
 8. Summer's Gone
 9. It's So Hard
+## Spotify
+{{< spotify type="album" id="4yTLxREZV5Fjl4SY37tr2l" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1N8wIhCxMns" title="Blackfield - For The Music (Official Music Video)" >}}
@@ -33,9 +34,7 @@ styles: null
 - [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
 - [Blackfield - Summer's Gone (Official 4K Video)](https://www.youtube.com/watch?v=iPpsVVBUPHo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -45,4 +44,3 @@ styles: null
 | Catalog Number | 0190295-1397-8-0 |
 
 Comes with download code.
-

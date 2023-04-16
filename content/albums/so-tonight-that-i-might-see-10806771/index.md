@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Fade Into You (4:55)
 2. Bells Ring (4:32)
@@ -25,6 +24,8 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 8. Wasted (5:31)
 9. Into Dust (5:36)
 10. So Tonight That I Might See (7:19)
+## Spotify
+{{< spotify type="album" id="5K18gTgac0q6Jma5HkV1vA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="avv2IIdDnnk" title="Fade Into You" >}}
@@ -39,9 +40,7 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 - [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +50,3 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 | Catalog Number | 00602557537574 |
 
 A Capitol Records release; ℗ 2016 © 2017 Capitol Records, LLC. All rights reserved. Unauthorised copying, reproducing, hiring, lending, public performance and broadcasting prohibited. Made in the EU. LC 06406. 006062557537574. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands.  MP3 download coupon included.
-

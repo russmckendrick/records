@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Horn Intro (0:10)
 2. The World At Large (4:32)
@@ -32,6 +31,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 15. One Chance (3:02)
 16. The Good Times Are Killing Me (4:16)
 17. I've Got It All (Most) (3:06)
+## Spotify
+{{< spotify type="album" id="0TGTGuc2vXv6ZECoAf52N0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uHnfpd7gUjE" title="Horn Intro" >}}
@@ -50,9 +51,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [One Chance](https://www.youtube.com/watch?v=jsiirnDtio8)
 - [The Good Times Are Killing Me](https://www.youtube.com/watch?v=oITcKJpM9UQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -62,4 +61,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | E2 87125 |
 
 180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."  Includes printed inner-sleeves containing lyrics, credits and artwork.  EPIC E2-87125-1 © 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment  Pressing and lacquer cutting credits are identified in runout etchings.
-

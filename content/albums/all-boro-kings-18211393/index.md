@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal", "Hardcore"]
 ---
-
 ## Tracklisting
 1. If These Are Good Times (3:06)
 2. Think (3:05)
@@ -25,6 +24,8 @@ styles: ["Funk Metal", "Hardcore"]
 8. In The Doghouse (5:43)
 9. Funnel King (2:41)
 10. What Comes Around (3:22)
+## Spotify
+{{< spotify type="album" id="09PxIIpRMqn6aMINUM5ty0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="a_TedVjcybg" title="Dog Eat Dog - Funnel King" >}}
@@ -40,9 +41,7 @@ styles: ["Funk Metal", "Hardcore"]
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=HtQ2UnMdL6g)
 - [Dog Eat Dog - Who's The King?](https://www.youtube.com/watch?v=KA7gt2iTWBQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +51,3 @@ styles: ["Funk Metal", "Hardcore"]
 | Catalog Number | MOVLP2821 |
 
 Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover.
-

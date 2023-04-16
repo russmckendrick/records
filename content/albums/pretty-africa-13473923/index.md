@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
-
 ## Tracklisting
 1. Pretty Africa (3:15)
 2. Treat Me Cruel (2:06)
@@ -33,9 +32,7 @@ styles: ["Ska", "Rocksteady"]
 - [the Aces - LOVE IS THE KEY](https://www.youtube.com/watch?v=JnFa5-xxsl8)
 - [Barry Howard & Carl Hall - Was a sunny day (the Aces)](https://www.youtube.com/watch?v=dbe1vssKGKM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -45,4 +42,3 @@ styles: ["Ska", "Rocksteady"]
 | Catalog Number | TBL 1037 |
 
 Album recorded in the summer of 1973 in London's Chalk Farm Studio; not released at the time and only discovered in the Trojan Vaults in 2018.  Sticker: "Long lost album released for the first time!" Record Store Day 2019. Ltd edition of 500  Packaged with a printed inner sleeve with lyrics and archive pictures.  Vinyl is described on RSD website as pale yellow (Trojan website just says 'coloured vinyl'), but colouring is more pale orange.  Timings not listed  Pressing plant and Lacquer cut at & by uncredited, identified by the matrix numbers.
-

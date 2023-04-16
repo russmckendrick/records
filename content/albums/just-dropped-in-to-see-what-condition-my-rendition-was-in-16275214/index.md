@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Signed, Sealed, Delivered I'm Yours
 2. Little By Little
@@ -27,6 +26,8 @@ styles: ["Soul"]
 10. In The Bush
 11. It Hurts To Be Alone
 12. Trespasser
+## Spotify
+{{< spotify type="album" id="58SiteqzhNYvUIpDaSpxA0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lWaKjzh0pFI" title="Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)" >}}
@@ -42,9 +43,7 @@ styles: ["Soul"]
 - [Sharon Jones & the Dap-Kings Giving Up](https://www.youtube.com/watch?v=3onr9hAVXKA)
 - [Sharon Jones & the Dap-Kings It Hurts To Be Alone](https://www.youtube.com/watch?v=oLwo_CwbFew)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -54,4 +53,3 @@ styles: ["Soul"]
 | Catalog Number | DAP-066 |
 
 Record Store Day Black Friday "RSD First" release, 4,000 copies. Pressed on blue vinyl with black splatter.  Hype sticker affixed to shrink, with barcode: Limited blue vinyl with black splatter! These forays into other artists' compositions lay bare Miss Sharon Jones' incomparable vocal ability, and the Dap-Kings' gift for arrangement and unmatched studio prowess. A testament to their reigning title as The Baddest Band in the Land. "Sharon Jones is the 21st century's Godmother of Soul" - NPR Includes MP3 download card  Title on jacket back, labels: Just Dropped In (To See What Condition My Rendition Was In) Title on jacket front: "Just Dropped In To See What Condition My RENDITION Was In!" Title on jacket spine: Just Dropped In ...  Labels include "Support Your Local Record Store" text.  Recorded at Daptone House of Soul Studios, Brooklyn, NY, in sessions between 2000 and 2016.
-

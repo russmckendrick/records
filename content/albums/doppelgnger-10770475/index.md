@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Already Yours
 2. Horror Head
@@ -43,9 +42,7 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 - [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
 - [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -55,4 +52,3 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 | Catalog Number | 3RANGE-52LP |
 
 Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean.
-

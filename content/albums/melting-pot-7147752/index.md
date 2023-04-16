@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Only One I Know
 2. Then
@@ -32,6 +31,8 @@ styles: ["Indie Rock"]
 15. Just When You're Thinkin' Things Over
 16. One To Another
 17. North Country Boy
+## Spotify
+{{< spotify type="album" id="6nHvtNjvdDLiUIUkJ7td27" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0RJwW77Lsj8" title="The Charlatans - The Only One I Know" >}}
@@ -48,9 +49,7 @@ styles: ["Indie Rock"]
 - [Then](https://www.youtube.com/watch?v=x-eOMMuwTC4)
 - [Just When You’re Thinkin’ Things Over](https://www.youtube.com/watch?v=nJeHGRetnNw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -60,4 +59,3 @@ styles: ["Indie Rock"]
 | Catalog Number | BBQLP 198 |
 
 HMV UK exclusive limited to 500 copies.
-

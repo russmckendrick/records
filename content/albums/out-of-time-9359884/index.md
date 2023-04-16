@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Time Side
 2. Radio Song (4:12)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock"]
 11. Texarkana (3:36)
 12. Country Feedback (4:07)
 13. Me In Honey (4:06)
+## Spotify
+{{< spotify type="album" id="6yEuIwTQpciH1qtj7mP5GK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZlgOnooY7FA" title="Radio Song" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock"]
 - [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
 - [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 0888072004405 |
 
 25th Anniversary Edition: -Remastered From Original Analog Masters -180-Gram Vinyl -Includes Digital Download Card  Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues"]
 styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 ---
-
 ## Tracklisting
 1. If You All Get To Heaven
 2. If You Let Me Stay
@@ -45,9 +44,7 @@ styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 - [Sananda Maitreya - As Yet Untitled (Remastered - Official Audio)](https://www.youtube.com/watch?v=KaorrPeR3_A)
 - [Sananda Maitreya - Who's Loving You (Remastered - Official Audio)](https://www.youtube.com/watch?v=yy28FjJxICA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -57,4 +54,3 @@ styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 | Catalog Number | CBS 450911 1 |
 
 Labels: Made in Holland  Back cover: ℗ 1987 CBS Records © 1987 CBS Records Printed in Holland Distribution CBS Records/CBS Disques S.A. In the UK apply for public performance licences to PPL, 14/22 Ganton Street, London W1.  Inner sleeve: Original sound recording made by CBS Records ℗ 1987 CBS Records All tracks (Young Terence Music/Virgin Music (Pub) Ltd) except "Wishing Well" (Young Terence Music/Virgin Music (Pub) Ltd/Chrysalis Music) and "Who's Loving You" (Ardmore & Beechwood Ltd/EMI)  Other infos: Issued with printed inner sleeve with lyrics, credits and photo.  The Bojangles are the musicians named on track A4, who also feature on A5 and, without Pete Glenister, on B2 and B5. The Trent Tones are Frank Collins and Ebo Ross, the backing vocalists on B2 & B5. The 'Shout It Out' Reply Vocal Choral Ensemble are the members of A5's Chorus. The sleeve credits read: "Plus A Really Hard Brass Section" in addition to those listed for track A5.  Smokey Robinson is credited for writing track B5 on the label, however as William Robinson on the inner sleeve. 
-

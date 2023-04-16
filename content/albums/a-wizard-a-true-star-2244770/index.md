@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. International Feel (2:53)
 2. Never Never Land (1:25)
@@ -38,11 +37,11 @@ styles: ["Pop Rock", "Prog Rock"]
 21. I Don't Want To Tie You Down (1:56)
 22. Is It My Name? (3:50)
 23. Just One Victory (4:50)
-
+## Spotify
+{{< spotify type="album" id="1RSC0dy1oOIS3RO8tomZOV" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1973 |
@@ -52,4 +51,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | BEA 45513, BR 2133 |
 
 (P) 1973 Seperate lyric sheet, credits and a photo collage  
-

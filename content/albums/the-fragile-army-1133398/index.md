@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Section 21 (Together We're Heavy)
 2. Section 22 (Running Away)
@@ -27,11 +26,11 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 10. Section 30 (Watch Us Explode (Justify))
 11. Section 31 (Ocerblow Your Nest)
 12. Section 32 (The Championship)
-
+## Spotify
+{{< spotify type="album" id="5Etv8zkyNEjwxpp1kgyjiV" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -41,4 +40,3 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 | Catalog Number | INSREC05V |
 
 This is advertised as a "2 LP 180 gram vinyl", however the actual weight of the records are significantly lower.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Classical", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. After (2:14)
 2. Eating A Heart Out (2:50)
@@ -34,9 +33,7 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ## Videos
 {{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -46,4 +43,3 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | ALPH LP 032 |
 
 Limited to 200 numbered, stickered copies.  Includes download card.
-

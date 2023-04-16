@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Mesmerise
 2. Precious One
@@ -29,9 +28,7 @@ styles: ["Shoegaze", "Indie Rock"]
 - [Chapterhouse - Mesmerise (Remix)](https://www.youtube.com/watch?v=USVFDiAYveM)
 - [Chapterhouse - Precious One (remix)](https://www.youtube.com/watch?v=DwwaIT5K6mI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -41,4 +38,3 @@ styles: ["Shoegaze", "Indie Rock"]
 | Catalog Number | HOUSE 001T, HOUSE 001 T |
 
 Made in England.  ℗ & © 1991 Dedicated.  All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios.
-

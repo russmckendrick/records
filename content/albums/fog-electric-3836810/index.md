@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Soft Coda (4:20)
 2. Chirality (4:04)
@@ -24,6 +23,8 @@ styles: ["Prog Rock"]
 7. Expert With Altimeter (5:16)
 8. The Receiver (5:57)
 9. Downhill (3:54)
+## Spotify
+{{< spotify type="album" id="2ZXdc8BrDhOWt0cSEjmqhn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="M43P_8UkA5A" title="North Atlantic Oscillation - Soft Coda" >}}
@@ -31,9 +32,7 @@ styles: ["Prog Rock"]
 - [North Atlantic Oscillation - Chirality (from Fog Electric)](https://www.youtube.com/watch?v=jMPe7pdj6Kw)
 - [North Atlantic Oscillation - The Receiver](https://www.youtube.com/watch?v=lddEcLhINGA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -43,4 +42,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE828 |
 
 First 500 preorders received a 7" with this LP. Last track "Theory Of Tides" is not included on the LP version. Includes download code. 
-

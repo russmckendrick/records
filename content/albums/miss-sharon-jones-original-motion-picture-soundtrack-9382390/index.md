@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Stage & Screen"]
 styles: ["Funk", "Soul", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Tell Me
 2. Retreat!
@@ -34,13 +33,13 @@ styles: ["Funk", "Soul", "Soundtrack"]
 17. Genuine Pts. 1 & 2
 18. I'm Still Here
 19. His Eye Is On The Sparrow
+## Spotify
+{{< spotify type="album" id="02w7jANDyKcnfHbidYKGr8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XQOYAjd8icg" title="Sharon Jones & the Dap-Kings I'm Still Here" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Funk", "Soul", "Soundtrack"]
 | Catalog Number | DAP-043 |
 
 Gatefold sleeve. Includes MP3 download code.  Includes a performance of "His Eye On The Sparrow" as heard in the film sung by Sharon Jones in her local church in Augusta, GA.
-

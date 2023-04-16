@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Time Of Ye Life
 2. Born For Nothing
@@ -25,13 +24,13 @@ styles: ["Post Rock", "Prog Rock"]
 8. A Lack Of Common Sense
 9. Trust No One
 10. I Am Free, Today I Perished
+## Spotify
+{{< spotify type="album" id="3pJX3b0AAzg2r4vEZfqr17" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="I9DpYZlzc78" title="Time of Ye Life / Born for Nothing / Paranoid Arm of Narcoleptic Empire (Remastered)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -41,4 +40,3 @@ styles: ["Post Rock", "Prog Rock"]
 | Catalog Number | KSCOPE1031, 802644803111 |
 
 Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil). No durations listed on release.  On labels: ℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix  On sleeve back: ℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd. The copyright in this sound recording is owned by Snapper Music Ltd. Kscope is a Snapper Music label. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Cumulus Pt.1
 2. Convex
@@ -28,21 +27,20 @@ styles: ["Soul"]
 11. Concave
 12. CaveFlora Pt.1
 13. Bruised Fruit
+## Spotify
+{{< spotify type="album" id="4EN9bVE0g7gUvQlNdPrUhL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mHEPoG11EtE" title="St. Paul & The Broken Bones - Apollo" >}}
 - [St. Paul & The Broken Bones - NASA (Audio)](https://www.youtube.com/watch?v=k5EtjM9uNPU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [St. Paul & The Broken Bones - Young Sick Camellia](https://www.discogs.com/release/12491197-St-Paul-The-Broken-Bones-Young-Sick-Camellia) |
-| Label          | Records (11), Sony Music |
+| Label          | Records, Sony Music |
 | Format         | LP, Album |
 | Catalog Number | 19075878101 |
 
 Standard cover, vinyl being housed in a printed innersleeve.  On labels and back cover: ℗ & © 2018 Records, LLC / Red Music Distributed by Sony Music Entertainment Made in the EU  Runouts are etched, except MPO(R) inclusive numbers are stamped.
-

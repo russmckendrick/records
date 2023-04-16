@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Beds Are Burning (4:14)
 2. Put Down That Weapon (4:38)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Bullroarer (4:59)
 9. Sell My Soul (3:35)
 10. Sometimes (3:53)
+## Spotify
+{{< spotify type="album" id="243XzHQegX82bPnUVQ0SPV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="R6eJwfgATZ8" title="Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock"]
 - [Sometimes (2007 Remastered)](https://www.youtube.com/watch?v=tki30k4_oPk)
 - [Midnight Oil - Beds Are Burning (Diesel And Dust), 1987 Vinyl video. UHD, 4K, 24bit/96kHz](https://www.youtube.com/watch?v=fxUxj_byZtc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 460005 1 |
 
 Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England.
-

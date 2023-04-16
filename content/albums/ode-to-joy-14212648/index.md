@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Bright Leaves
 2. Before Us
@@ -26,13 +25,13 @@ styles: null
 9. Love Is Everywhere (Beware)
 10. Hold Me Anyway
 11. An Empty Corner
+## Spotify
+{{< spotify type="album" id="0RR7qfOCOOHXbPAO1P3G5b" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="P2Gbbd6pVMg" title="Wilco Everyone Hides (Official Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: null
 | Catalog Number | DBPM-010-20-LP |
 
 Includes a printed insert. Tracks are continuously numbered across sides.  ℗ © 2019 dBpm Records.  Recorded at The Loft - Chicago  All songs [...] published by Words Ampersand Music (BMI). Administered worldwide by BMG Rights Management.
-

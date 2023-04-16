@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Reggae"]
 styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ---
-
 ## Tracklisting
 1. Policeman Skank... (The Story Of My Life) (4:33)
 2. Test The Theory (3:44)
@@ -26,6 +25,8 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 9. Control (4:20)
 10. Out Of My Mind (3:27)
 11. Get Out Of Here (3:42)
+## Spotify
+{{< spotify type="album" id="44a62Pr8xc894HkcyvBK31" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5fXzgRQ5eX4" title="Policeman Skank - Audioweb" >}}
@@ -40,9 +41,7 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 - [Out of My Mind - Audioweb](https://www.youtube.com/watch?v=6eEhJyDRS9Y)
 - [Get out of Here - Audioweb](https://www.youtube.com/watch?v=3IuYviB0GV8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +51,3 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 | Catalog Number | DEMREC918 |
 
 "On vinyl for the first time"
-

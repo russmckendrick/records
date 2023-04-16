@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Happenings Ten Years Time Ago (3:12)
 2. Good Vibrations (3:44)
@@ -27,13 +26,13 @@ styles: ["Pop Rock"]
 10. Cliché (4:00)
 11. The Verb To Love (7:25)
 12. Boogies (Hamburger Hell) (5:00)
+## Spotify
+{{< spotify type="album" id="0F3cyWdv3ANruF1ICS22q3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_d3JyvmT0Xg" title="T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -43,4 +42,3 @@ styles: ["Pop Rock"]
 | Catalog Number | K55510 |
 
 Textured sleeve with embossed letters on front cover. Plain cardboard inner sleeve with BR 6963 printed on. ℗ & © 1976 on back cover  B4 is misspelled 'Cliches' on label.
-

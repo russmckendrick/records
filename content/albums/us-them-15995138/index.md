@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Speak To Me
@@ -38,6 +37,8 @@ styles: ["Classic Rock", "Prog Rock"]
 21. Eclipse
 22. The Last Refugee (Reprise)
 23. Déjà Vu (Reprise)
+## Spotify
+{{< spotify type="album" id="6t2iNN1eyys71UV7eW9i7O" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PtTzX_XsjYs" title="Roger Waters - Welcome To The Machine (Us + Them)" >}}
@@ -47,9 +48,7 @@ styles: ["Classic Rock", "Prog Rock"]
 - [Roger Waters - Us & Them (Live in Amsterdam, June, 2018)](https://www.youtube.com/watch?v=O7w765-TbjY)
 - [Roger Waters - Money (Live in Amsterdam, June, 2018)](https://www.youtube.com/watch?v=LnRXVt1UFrQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -59,4 +58,3 @@ styles: ["Classic Rock", "Prog Rock"]
 | Catalog Number | 19439707691 |
 
 Sleeve Trifolded + 8-page booklet. Made in the E.U.  Sticker: US+THEM  A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE Over two hours of live music including TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE TRIPLE LP SET Audio companion to the acclaimed film Includes digital download
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Animate (6:05)
 2. Stick It Out (4:30)
@@ -26,18 +25,17 @@ styles: ["Hard Rock", "Prog Rock"]
 9. Leave That Thing Alone (4:06)
 10. Cold Fire (4:27)
 11. Everyday Glory (5:10)
-
+## Spotify
+{{< spotify type="album" id="6JNHWbFco4bnRP5ybKGriN" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Rush - Counterparts](https://www.discogs.com/release/7684165-Rush-Counterparts) |
-| Label          | Atlantic, Anthem (5) |
+| Label          | Atlantic, Anthem |
 | Format         | LP, 200 + LP, S/Sided, Etch, 200 + Album, RE, RM,  |
 | Catalog Number | R1 82528 |
 
 Includes High Quality Download Code Etched D Side 2 LP in a single sleeve jacket 
-

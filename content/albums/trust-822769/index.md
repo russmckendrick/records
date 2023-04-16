@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Trust
 2. Faceless
@@ -24,16 +23,13 @@ styles: ["Indie Rock"]
 - [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=ieYfUDWKJjs)
 - [Ned's Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [Ned's Atomic Dustbin - Trust](https://www.discogs.com/release/822769-Neds-Atomic-Dustbin-Trust) |
-| Label          | Sony Soho Square, Furtive (2) |
+| Label          | Sony Soho Square, Furtive |
 | Format         | 12\" |
 | Catalog Number | 657462 6 |
 
 Released with printed inner sleeve.  Recorded at Rockfield Studios, Gwent, in early July 1991.  Original sound recording made by Sony Music Entertainment (UK) Ltd. ℗ © Sony Music Entertainment (UK) Ltd. Distribution Sony Music. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Sign "O" The Times (5:02)
 2. Play In The Sunshine (5:05)
@@ -53,9 +52,7 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 - [It's Gonna Be A Beautiful Night (2020 Remaster)](https://www.youtube.com/watch?v=hGKh0TVJ2Bs)
 - [Adore (2020 Remaster)](https://www.youtube.com/watch?v=v8fLjiar1c8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -65,4 +62,3 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 | Catalog Number | 7599-25577-1 |
 
 Heart-shaped hype sticker: Manufactured in the E.U.  Labels: Manufactured in the Netherlands.  The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.  Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.
-

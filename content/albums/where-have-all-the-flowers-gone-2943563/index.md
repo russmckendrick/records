@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
-
 ## Tracklisting
 1. Colorado Trail; Spanish Is The Loving Tongue; From Here On Up; Texas Girls; Swarthmore Girls; We Pity Our Bosses Five; The Scabs Crawl In
 2. Open The Door Softly; Road To Althay; Why Do Scotsmen?; Hold Up Your Petticoat; Oh, There's Two On My Back
@@ -25,11 +24,11 @@ styles: ["Folk"]
 8. To Everyone In All The World
 9. We Are Moving On To Victory
 10. Don't You Weep After Me
-
+## Spotify
+{{< spotify type="album" id="2ue75Cel9sD94D5MI7W592" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -39,4 +38,3 @@ styles: ["Folk"]
 | Catalog Number | 2870 380, 2870-380 |
 
 Made in Austria
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Gone (5:08)
 2. A Conspiracy (4:44)
@@ -26,6 +25,8 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 9. Wiser Time (5:31)
 10. Downtown Money Waster (3:39)
 11. Descending (5:40)
+## Spotify
+{{< spotify type="album" id="2CRxy0mStMW5Ld1cXsVpgU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zvGXRCQSd44" title="The Black Crowes - A Conspiracy" >}}
@@ -41,9 +42,7 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 - [The Black Crowes – Downtown Money Waster](https://www.youtube.com/watch?v=R2pO0AUy82U)
 - [The Black Crowes – Ballad In Urgency](https://www.youtube.com/watch?v=kiI-30MkIZg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 | Catalog Number | 00602537494231 |
 
 © ℗ 1994 American Recordings, LLC.  Made in the EU. Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.  Comes with plain white inner sleeves and a double printed lyric sheet.  Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record. Contains added coupon with [MP3 download](https://www.discogs.com/release/9476948) code.  Back To Black Sticker on front.
-

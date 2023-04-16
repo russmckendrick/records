@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Lay Your Hands On Me
 2. Bad Medicine
@@ -27,6 +26,8 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 10. I'll Be There For You
 11. 99 In The Shade
 12. Love For Sale
+## Spotify
+{{< spotify type="album" id="3mcKOl0KNe65BqiBa40WxR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tLrodL0dezQ" title="LP / Bon Jovi – New Jersey / 1988" >}}
@@ -53,9 +54,7 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 - [B.o.n * J.o.v.i - New Jersey (Deluxe Edition) CD-1 (2014)](https://www.youtube.com/watch?v=uvhq2mRORFw)
 - [B.o.n * J.o.v.i - New Jersey (Deluxe Edition) CD-2 (2014)](https://www.youtube.com/watch?v=1I5JoU4rt9A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -65,4 +64,3 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 | Catalog Number | B0021969-01 |
 
 Gatefold sleeve.
-

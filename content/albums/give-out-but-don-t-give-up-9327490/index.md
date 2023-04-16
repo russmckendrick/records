@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Jailbird (3:46)
 2. Rocks (3:37)
@@ -27,13 +26,13 @@ styles: ["Pop Rock"]
 10. Give Out But Don't Give Up (6:16)
 11. I'll Be There For You (6:34)
 12. Everybody Needs Somebody (5:22)
+## Spotify
+{{< spotify type="album" id="51wKnaqc8kVTPeR99dpXg8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Z3ZCZjhjguA" title="Primal Scream - Rocks (Official Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -43,4 +42,3 @@ styles: ["Pop Rock"]
 | Catalog Number | if33 |
 
 Includes print of sleeve cover on glossy paper.  Printed inner sleeves  House in a gatefold sleeve.
-

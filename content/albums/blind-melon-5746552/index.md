@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Soak The Sin (4:02)
 2. Tones Of Home (4:27)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock"]
 11. Seed To A Tree (3:30)
 12. Drive (4:41)
 13. Time (6:01)
+## Spotify
+{{< spotify type="album" id="55jET4vDioHHd7ztX7OX3h" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3qVPNONdF58" title="Blind Melon - No Rain" >}}
@@ -46,9 +47,7 @@ styles: ["Alternative Rock"]
 - [Drive](https://www.youtube.com/watch?v=kgwqrCqEm2U)
 - [Time](https://www.youtube.com/watch?v=8AO4n6W_cTA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -58,4 +57,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | MOVLP1100 |
 
 - 180 gram audiophile vinyl - Insert with printed lyrics.  © 1992 Heavy Melon Music ASCAP 
-

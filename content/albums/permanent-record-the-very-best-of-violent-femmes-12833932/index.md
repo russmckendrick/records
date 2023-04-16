@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Gimme The Car
 2. Blister In The Sun
@@ -32,11 +31,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 15. Country Death Song (Live, 1998)
 16. Freak Magnet
 17. Good Feeling (Live At Rhino)
-
+## Spotify
+{{< spotify type="album" id="69BYin03rGTRdyDChYBxfr" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | CR00140 |
 
  RSD Black Friday limited to 2500 copies, indie-retail exclusive. Gatefold sleeve. Printed inner sleeves.  Good Feeling (Live at Rhino) recorded live at Rhino, Los Angeles, CA, June 14, 2002.     ℗ & © 2005 Craft Recordings Made in U.S.A.
-

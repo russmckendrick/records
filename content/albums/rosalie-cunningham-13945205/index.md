@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Ride On My Bike
 2. Fuck Love
@@ -23,14 +22,14 @@ styles: ["Psychedelic Rock"]
 6. Riddles And Games
 7. Butterflies 
 8. A Yarn From The Wheel
+## Spotify
+{{< spotify type="album" id="7g9nava0UGMviUscrU4gOf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}
 - [Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +39,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | EANTLP1075 |
 
 Standard black vinyl 200 copies was signed by the band Made in the EU
-

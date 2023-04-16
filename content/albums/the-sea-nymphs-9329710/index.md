@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Spirit Spout (2:20)
 2. Shaping The River (2:07)
@@ -45,9 +44,7 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [The Sea Nymphs - Christ Alive](https://www.youtube.com/watch?v=95POAOWn2xM)
 - [Dog Eat Spine](https://www.youtube.com/watch?v=hKtX4t_MBAA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -57,4 +54,3 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | ALPH LP021 |
 
 Limited to 200 numbered, stickered copies.  Includes download card.
-

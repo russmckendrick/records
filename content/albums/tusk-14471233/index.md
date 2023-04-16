@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Over & Over (4:35)
 2. The Ledge (2:02)
@@ -35,6 +34,8 @@ styles: ["Classic Rock"]
 18. Walk A Thin Line (3:44)
 19. Tusk (3:36)
 20. Never Forget (3:40)
+## Spotify
+{{< spotify type="album" id="1d075yQcykHjerQ2BN0ABn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Bcm9yaemtr8" title="Brown Eyes (2015 Remaster)" >}}
@@ -43,9 +44,7 @@ styles: ["Classic Rock"]
 - [Think About Me (2015 Remaster)](https://www.youtube.com/watch?v=E_lpsYstCTQ)
 - [Fleetwood Mac - Tusk (Official Music Video)](https://www.youtube.com/watch?v=ATMR5ettHz8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -55,4 +54,3 @@ styles: ["Classic Rock"]
 | Catalog Number | RCV1 3350, 603497850525 |
 
 Reissue on silver coloured vinyl. Photo on front sleeve is embossed. Single pocket outer jacket with a pair of numbered inner sleeves for each disc. ℗ & © 1979 Warner Records Inc. Made in the E.U.  Some tracks recorded by Lindsey Buckingham at home. Mastered at Capitol Records.  Digital mix-down equipment furnished by Soundstream Inc.  The U.S.C. Trojan Marching Band appears on the song "Tusk" Recorded live at Dodger Stadium.  This album is dedicated to Wing Commander Fleetwood and to Morris Buckingham
-

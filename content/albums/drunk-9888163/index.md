@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Jazz", "Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. Rabbot Ho (0:38)
 2. Captain Stupido (1:41)
@@ -38,6 +37,8 @@ styles: null
 21. Drunk (1:42)
 22. The Turn Down (2:29)
 23. DUI (2:18)
+## Spotify
+{{< spotify type="album" id="7vHBQDqwzB7uDvoE5bncMM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SZzjw2UfUEk" title="Thundercat - 'Tokyo' (Official Video)" >}}
@@ -52,9 +53,7 @@ styles: null
 - [Thundercat - 'Lava Lamp'](https://www.youtube.com/watch?v=KMPjX_3snfM)
 - [Thundercat - 'Jethro'](https://www.youtube.com/watch?v=_ukKdTBwxCA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -64,4 +63,3 @@ styles: null
 | Catalog Number | BF064 |
 
 Manufactured in EU.  P & C Brainfeeder 2017  included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)  Runouts are etched.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Acoustic", "MPB", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Rebel Rebel (2:46)
 2. Life On Mars? (3:29)
@@ -29,6 +28,8 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 12. When I Live My Dream (2:55)
 13. Quicksand (4:35)
 14. Team Zissou
+## Spotify
+{{< spotify type="album" id="2tAFOhqz3DxxVI2s5YNsrD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="l-Sx_NgkpTs" title="Life On Mars?" >}}
@@ -38,16 +39,13 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 - [seu jorge ziggy stardust](https://www.youtube.com/watch?v=9KWVtcAxKYA)
 - [Seu Jorge - O Astronauta de Mármore (Starman)](https://www.youtube.com/watch?v=ykghg4E9nzw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Seu Jorge - The Life Aquatic Studio Sessions](https://www.discogs.com/release/6242963-Seu-Jorge-The-Life-Aquatic-Studio-Sessions) |
-| Label          | Hollywood Records (5) |
+| Label          | Hollywood Records |
 | Format         | 2xLP, Album, Ltd, RE, Unofficial, Cle |
 | Catalog Number | SEUJORGE001 |
 
 Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies! All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005 Printed on labels: "Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263]
-

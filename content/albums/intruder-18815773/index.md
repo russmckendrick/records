@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Industrial"]
 ---
-
 ## Tracklisting
 1. Betrayed
 2. The Gift
@@ -28,6 +27,8 @@ styles: ["Industrial"]
 11. The End Of Dragons
 12. When You Fall 
 13. The End Of Dragons (Alt) 
+## Spotify
+{{< spotify type="album" id="19yUEGYFCaXyuiI9wPZ0fL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-RxebQuFgJY" title="Gary Numan - Intruder (Official Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Industrial"]
 - [Gary Numan - I Am Screaming (Official Audio)](https://www.youtube.com/watch?v=tvO_BpzlV8E)
 - [Gary Numan -  Betrayed (Official Audio)](https://www.youtube.com/watch?v=Vh8ITj24rKk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -55,4 +54,3 @@ styles: ["Industrial"]
 | Catalog Number | 538658721 |
 
 Gatefold sleeve.
-

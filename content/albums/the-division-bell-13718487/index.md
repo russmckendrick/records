@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Arena Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Cluster One (5:58)
 2. What Do You Want From Me (4:21)
@@ -26,11 +25,11 @@ styles: ["Arena Rock", "Prog Rock"]
 9. Keep Talking (6:11)
 10. Lost For Words (5:14)
 11. High Hopes (8:31)
-
+## Spotify
+{{< spotify type="album" id="5F0IQXuHfTV7SBvZVnXERl" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +39,3 @@ styles: ["Arena Rock", "Prog Rock"]
 | Catalog Number | 0190295477394, PFRLP31 |
 
 25th Anniversary Blue Heavyweight Vinyl  Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes With a Special Appearance by Stephen Hawking in "Keep Talkin"   Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection. All rights reserved. Made in the E.U.  [Runouts] All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped 
-

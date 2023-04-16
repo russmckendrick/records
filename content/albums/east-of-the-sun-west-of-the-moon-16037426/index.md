@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Crying In The Rain (4:24)
 2. Early Morning (2:58)
@@ -26,6 +25,8 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 9. The Way We Talk (1:31)
 10. Rolling Thunder (5:43)
 11. (Seemingly) Nonstop July (2:55)
+## Spotify
+{{< spotify type="album" id="21F9tlwzdMLinAy1DIrtqw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="h-WPexVEujg" title="a-ha - Crying in the Rain (Official Video)" >}}
@@ -61,9 +62,7 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 - [East of the Sun (Live on NRK)](https://www.youtube.com/watch?v=UO5plzhd8c8)
 - [[Seemingly] Nonstop July (Live on NRK)](https://www.youtube.com/watch?v=A3enY5Fpt_o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -73,4 +72,3 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 | Catalog Number | RCV1 26314, 603497852253 |
 
 Made in the EU. 180 gram purple vinyl.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. I Zimbra (3:06)
 2. Mind (4:12)
@@ -26,6 +25,8 @@ styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 9. Animals (3:29)
 10. Electric Guitar (2:59)
 11. Drugs (5:13)
+## Spotify
+{{< spotify type="album" id="5dVZpNJraoqCo3BssinMoo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qKFn66dzdz0" title="I Zimbra (2005 Remaster)" >}}
@@ -40,16 +41,13 @@ styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 - [Electric Guitar (2005 Remaster)](https://www.youtube.com/watch?v=GFmVwSRZcZE)
 - [Drugs (2005 Remaster)](https://www.youtube.com/watch?v=vlc0_GUdfIQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Talking Heads - Fear Of Music](https://www.discogs.com/release/4728034-Talking-Heads-Fear-Of-Music) |
-| Label          | Sire, Rhino Records (2), Rhino Records (2) |
+| Label          | Sire, Rhino Records, Rhino Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | R1-6076, 8122-79655-4, 8122796554 |
 
 The birds on "Drugs" recorded at Lone Pine Koala Sanctuary, Brisbane, Australia.  All basic tracks recorded at Chris and Tina's Loft in Long Island City with The Record Plant Remote Truck on April 22 and May 6, 1979.  All songs ℗ 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP) except "I Zimbra" © 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)/E.G. Music Ltd (BMI).   Robert Fripp appears courtesy of E.G. Records Ltd.  Thermograph (Heat Sensitive Photo), courtesy Dr. Philip Strax. Concept: David with Jerry's help.  ℗ 1979 Sire Records Company. © 1979 Sire Records Company.  Made in EU. 
-

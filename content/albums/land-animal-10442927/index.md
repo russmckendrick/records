@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ---
-
 ## Tracklisting
 1. Terror Bird
 2. Hole
@@ -38,6 +37,8 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 21. Bonus Tracks
 22. Way Too Long (Sylvia Massy Treatment) (5:20)
 23. Land Animal (Ben Levin Remix) (4:40)
+## Spotify
+{{< spotify type="album" id="7K5KSdrusSD2O70NyAFhJk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="se6f2_rAfh4" title="Insides In" >}}
@@ -48,9 +49,7 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 - [These Hands](https://www.youtube.com/watch?v=vI6qzBpuGtQ)
 - [Belly Side Up](https://www.youtube.com/watch?v=3nEXBoos3Cg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -60,4 +59,3 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 | Catalog Number | IOMLP 479, 88985421021 |
 
 White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve. Limited edition of 300 copies.  Bonus tracks listed on front sticker
-

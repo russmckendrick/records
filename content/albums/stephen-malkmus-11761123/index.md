@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Black Book
 2. Phantasies
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Vague Space
 11. Jenny & The Ess-Dog
 12. Deado
+## Spotify
+{{< spotify type="album" id="6uf2oHrKdAQuJ7sqjA8mEM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GgPuX759XBw" title="Stephen Malkmus - Jenny And The Ess-Dog (Official Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Stephen Malkmus & The Jicks - Vague Space](https://www.youtube.com/watch?v=TU0aOABWHSY)
 - [Stephen Malkmus - The hook](https://www.youtube.com/watch?v=T3THIz5VJL4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | WIGLP90 |
 
 Includes a download card and a custom inner sleeve.  Recorded and Mixed May-August 2000 in Portland, Oregon at Jackpot!, Supernatural, and FutureRhythm (San Jose, CA -- a huge mistake) Master EQ: [...] at Sterling  Songs ©2001 Double Six/Universal Island Music ℗&©2001 Domino Recording Co Ltd Made in the EU
-

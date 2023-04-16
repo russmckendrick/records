@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: null
 ---
-
 ## Tracklisting
 1. Ghostbusters
 2. Cleanin' Up The Town
@@ -39,9 +38,7 @@ styles: null
 - [Magic](https://www.youtube.com/watch?v=hK2EUIYiWXU)
 - [Ghostbusters 1984 - Complete motion picture score - Elmer Bernstein](https://www.youtube.com/watch?v=4o6KaJ36660)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -49,6 +46,5 @@ styles: null
 | Label          | Arista |
 | Format         | LP, Album |
 | Catalog Number | 206 559 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Charmed Life
 2. National Express
@@ -39,6 +38,8 @@ styles: ["Indie Pop"]
 22. Sunrise
 23. To The Rescue
 24. Tonight We Fly
+## Spotify
+{{< spotify type="album" id="4rMFRPWXp7OwUSrrxkmL3g" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}
@@ -56,9 +57,7 @@ styles: ["Indie Pop"]
 - [Those Pesky Kids](https://www.youtube.com/watch?v=u8sIYcN7ii4)
 - [Butterfly](https://www.youtube.com/watch?v=M4g_gPU5VNg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -68,4 +67,3 @@ styles: ["Indie Pop"]
 | Catalog Number | DCRL118LPX |
 
 Signed "Charmed Life" lyric sheets were available with a CD and coloured vinyl bundle from the official artist store.
-

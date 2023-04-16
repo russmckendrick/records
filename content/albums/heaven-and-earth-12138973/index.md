@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 ---
-
 ## Tracklisting
 1. Earth
 2. Fists Of Fury (9:42)
@@ -39,6 +38,8 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 22. My Family (6:34)
 23. Agents Of Multiverse (5:22)
 24. Ooh Child (8:53)
+## Spotify
+{{< spotify type="album" id="6f3h8jHeXY6I6qduBrK3eK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YFe5a66BuCw" title="Fists of Fury" >}}
@@ -66,9 +67,7 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 - [My Family](https://www.youtube.com/watch?v=nEo9KrnRG0M)
 - [Ooh Child](https://www.youtube.com/watch?v=X33VVqENupc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -78,4 +77,3 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 | Catalog Number | YT176LP |
 
 The tracks of each part ('Earth, Heaven' and 'The Choice') are numbered sequentially on both inner sleeves and labels. The runouts are etched, apart from "MASTERDISK", which is stamped; and the plating marks such as "1=", "1+", "1⊥", are mirrored.  'The Choice' disc is hidden in the middle of the packaging, under a corrugated seam. The seam must be cut open to access the hidden disc.  On labels: YT176LP: ℗2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. ©2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. All rights reserved. Made in EU  Recording Studios: Electro-Vox Recording; Henson Recording Studio; Stagg Street Studio  Track A1: © 2018 Molique Music (BMI) Tracks A2, B4 to G5, H7 to I1, J3, J4: © 2018 Kamasi Music (ASCAP) Track B3: © 2018 Hubtones Music Co (BMI) Tracks D7, G5: Lyrics by Patrice Quinn (ASCAP) Track G6: © 2018 Ryan Porter Progressive Music Publishing Company (ASCAP) Track I2: © 2018 Screen Gems - EMI Music Inc. (BMI) Track J4: © 2018 Drum Hedz 713 Music (SESAC) Track J5: © 2018 Kama Sutra Music Inc. / Stan Vincent Music (BMI)  All rights on behalf of Kamasi Music administered by Words & Music, a division of Big Deal Music Group; on behalf of Molique Music administered by BMG Platinum Songs US; on behalf of Kama Sutra Music Inc., Stan Vincent Music administered by EMI Unart Catalog Inc.  ℗ 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings © 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings
-

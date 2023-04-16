@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. The Alphabet Business Concern (Home Of Fadeless Splendour) (3:59)
 2. She Is Hiding Behind The Shed (4:19)
@@ -39,9 +38,7 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 - [CARDIACS - Core](https://www.youtube.com/watch?v=6pEbXdT0PWw)
 - [Cardiacs - Day is Gone](https://www.youtube.com/watch?v=iRctRAWNi2w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +48,3 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 | Catalog Number | ALPH LP017 |
 
 2017 reissue on 180 gram vinyl in a gatefold sleeve. Sourced from the original master.
-

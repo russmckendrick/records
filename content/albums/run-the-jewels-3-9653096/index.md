@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Conscious"]
 ---
-
 ## Tracklisting
 1. Down
 2. Talk To Me
@@ -30,6 +29,8 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 13. Thursday In The Danger Room
 14. A Report To The Shareholders
 15. Kill Your Masters
+## Spotify
+{{< spotify type="album" id="2vY03PfKPFUUM1FA2lgmC2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QaPrQa3oMy0" title="Run The Jewels - Legend Has It | From The RTJ3 Album" >}}
@@ -51,9 +52,7 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 - [Run The Jewels - Down feat. Joi (Lyric Video From RTJ3)](https://www.youtube.com/watch?v=4ApKKfyZuVY)
 - [Run The Jewels - Don't Get Captured (Official Music Video From RTJ3)](https://www.youtube.com/watch?v=6k7kk1lUnis)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -63,4 +62,3 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 | Catalog Number | RTJ003LP |
 
 Comes in a gatefold sleeve. Pressed on opaque marbled gold vinyl. Includes lyric sheet, poster and stickers. There is a [similar issue](https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-3/release/10950921) that also includes a gold pendant and has a barcode sticker on the shrink wrap which covers the barcode printed on the back cover.  ℗ & © 2016 Run The Jewels, Inc.  Twitter: runjewels Instagram: runthejewels Website: www.runthejewels.com  All songs recorded at RTJ Studios except for track A1, with additional recording at Pulse Studios, Los Angeles; tracks B8 and D13, with additional recording at Sound Factory, Los Angeles; and track D14b, at Cosmic Zoo, Los Angeles with additional at UTTRB Studios, Los Angeles  All songs mastered at Sterling Sound, New York, NY  All songs published by Definitive Jux Music / Pulse Music Co, Aniyah's Music / Royalty Network, Money Makes Me Dance and Eussicise Entertainment Track B5 additionally published by YonaBona / Warp Publishing Tracks B8 and C9 additionally published by Songs of Roc Nation Music / Warner-Tamerlane Publishing Track D14b additionally published by Zack World War Publishing  Label management: Amit Nerurkar / face-less Andrew Friedman / [Monotone](https://www.discogs.com/label/1068511-Monotone-Inc) Zena White (UK & EU) / [l507946]  Publicity: Kathryn Frazier / [Biz 3](https://www.discogs.com/artist/5098825-Biz3) (US) Ben Harris (UK & EU)  Tracks are listed sequentially, as they are on the release. Надежда Толоконникова credited as "Nadya Tolokonnikova Of Pussy Riot". Pressing plant and lacquer cut credits identified through runouts.
-

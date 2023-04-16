@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Burn The Witch (3:40)
 2. Daydreaming (6:24)
@@ -26,11 +25,11 @@ styles: ["Art Rock", "Indie Rock"]
 9. Present Tense (5:06)
 10. Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief (5:03)
 11. True Love Waits (4:43)
-
+## Spotify
+{{< spotify type="album" id="2ix8vWvvSp2Yo7rKMiWpkg" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -40,4 +39,3 @@ styles: ["Art Rock", "Indie Rock"]
 | Catalog Number | XLLP790 |
 
 Gatefold sleeve. Cover sleeve inside print: Interior of jacket is entirely designed and printed with artwork.  ℗ 2016 LLLP, LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP, LLP under exclusive license to XL Recordings Ltd.  In memory of Vic Godrich 1936-2015  Comes with a voucher for a digital download of the album.  All Runouts are etched.
-

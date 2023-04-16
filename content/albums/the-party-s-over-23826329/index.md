@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Talk Talk
 2. It's So Serious
@@ -24,6 +23,8 @@ styles: ["New Wave", "Synth-pop"]
 7. Mirror Man
 8. Another Word
 9. Candy
+## Spotify
+{{< spotify type="album" id="3TWyZakhbJnds6Qx2uXIiC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}
@@ -39,9 +40,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
 - [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | 0190296419638 |
 
 Textured outer sleeve. On spine: Talk Talk - The Party's Over - 0190295792626 On back cover : 0190295792626 Stereo ℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Stickered barcode 0 190296 419638 on the printed barcode without number on right low 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
-
 ## Tracklisting
 1. Cult Of Personality (4:53)
 2. I Want To Know (4:23)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Funk Metal"]
 9. Glamour Boys (3:40)
 10. What's Your Favorite Color? (Theme Song) (1:38)
 11. Which Way To America? (3:40)
+## Spotify
+{{< spotify type="album" id="532IlegHv3OfVGgyCFGBTs" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
 - [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Catalog Number | MOVLP596 |
 
 Music on Vinyl hypesticker: "Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"  180 gram audiophile vinyl"  Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment 
-

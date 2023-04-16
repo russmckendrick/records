@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Coming Home
 2. Better Man
@@ -25,6 +24,8 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 8. Pull Away
 9. Twistin' & Groovin'
 10. River
+## Spotify
+{{< spotify type="album" id="21KIagsx1ZvYcv0sVkEAWv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MTrKkqE9p1o" title="Leon Bridges - Coming Home (Official Music Video)" >}}
@@ -42,9 +43,7 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 - [Here In My Arms](https://www.youtube.com/watch?v=qmoLKDAMKJM)
 - [Mississippi Kisses](https://www.youtube.com/watch?v=SV3d1U6gEK4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -54,4 +53,3 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 | Catalog Number | 88875 08914 1 |
 
 180 gram vinyl with MP3 download.  All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP).
-

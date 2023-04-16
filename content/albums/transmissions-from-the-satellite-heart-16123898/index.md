@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Turn It On (4:39)
 2. Pilot Can At The Queer Of God (4:17)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. Plastic Jesus (2:19)
 10. When Yer Twenty Two (3:34)
 11. Slow-Nerve-Action (5:56)
+## Spotify
+{{< spotify type="album" id="0rr668ZzoNDQa1yxhSpBAw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cvfxKbpoxRE" title="The Flaming Lips - She Don't Use Jelly [Official Music Video]" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock"]
 - [Moth in the Incubator](https://www.youtube.com/watch?v=Jw7c-h5TZ7s)
 - [When Yer Twenty-Two](https://www.youtube.com/watch?v=PkDqpwXHe3I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 093624952206 |
 
 Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.  Made in Germany.  All runouts etched except for "P. USA -22310-" which is stamped.
-

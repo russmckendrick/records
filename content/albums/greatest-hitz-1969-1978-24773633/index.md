@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Glam"]
 ---
-
 ## Tracklisting
 1. The Ballroom Blitz
 2. Blockbuster
@@ -46,9 +45,7 @@ styles: ["Glam"]
 - [Sweet - Fox On The Run - Promo Clip (OFFICIAL)](https://www.youtube.com/watch?v=qBdFA6sI6-8)
 - [Sweet - GREATEST HITZ! The Best of Sweet 1969-1978 Announcement](https://www.youtube.com/watch?v=i4i1THuc6-4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -56,6 +53,5 @@ styles: ["Glam"]
 | Label          | BMG |
 | Format         | LP, Comp, Tra + LP, Tra |
 | Catalog Number | BMGCAT587DLP |
-
 
 

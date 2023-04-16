@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Thing That Should Be (3:34)
 2. Rejoice! (10:17)
@@ -24,6 +23,8 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 7. The Unspeakable Stands Revealed (11:49)
 8. Through Restless Seas I Come (6:58)
 9. Insert Yr Own Prophecy (9:36)
+## Spotify
+{{< spotify type="album" id="6OxD7eZDTkqDzjffcoNjNd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wCO89IRZGTg" title="GONG - Rejoice! (LIVE in Bonn 2017)" >}}
@@ -36,9 +37,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 - [Gong - Rejoice! (Phoenix FM session at Studio 6 Music)](https://www.youtube.com/watch?v=z0JA74pIk58)
 - [Prog Review 497 - Rejoice! I'm Dead! - Gong](https://www.youtube.com/watch?v=Ce1_JgQeEwc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -48,4 +47,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | SMALP1049 |
 
 Gatefold, incl. download card  Contains 4 page booklet of lyrics and credits  ℗ 2016 Gong under licence to Snapper Music. © 2016 Gong. Made in the UK. Madfish is a Snapper Music label  Recorded at Brixton Hill Studios and beyond, Spring 2016 'Model Village' includes a sample of 'Floating Anarchy Manifesto' by Daevid Allen, courtesy of D.A.F.T., recorded at The Banana Moon Observatory Studios, Australia
-

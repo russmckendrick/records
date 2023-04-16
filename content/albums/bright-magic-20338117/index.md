@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Der Sumpf (Sinfonie Der Großstadt) 
 2. Im Licht
@@ -26,6 +25,8 @@ styles: ["Indie Rock", "Post Rock"]
 9. Lichtspiel II: Schwarz Weiss Grau
 10. Lichtspiel III: Symphonie Diagonale
 11. Ich Und Die Stadt
+## Spotify
+{{< spotify type="album" id="5MpSEsDO02dg1McQDcDjAE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="meB6tZRqeWw" title="Der Sumpf (Sinfonie der Großstadt)" >}}
@@ -40,9 +41,7 @@ styles: ["Indie Rock", "Post Rock"]
 - [Public Service Broadcasting - Lichtspiel III: Symphonie Diagonale](https://www.youtube.com/watch?v=hbLGFrWid-w)
 - [Ich und die Stadt](https://www.youtube.com/watch?v=GQ2tZjtfOgc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +51,3 @@ styles: ["Indie Rock", "Post Rock"]
 | Catalog Number | PIASR1230LPX |
 
 Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX  Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print  ℗ & © 2021 Test Card Recordings Released under exclusive license to Play It Again Sam.  Made in The EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. Lullaby Of The Leaves
 2. Bourbon Street Parade
@@ -27,16 +26,13 @@ styles: null
 10. Farewell Blues
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1964 |
 | Discogs Link   | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684-The-Mississippi-Moons-Deep-South-Blues) |
-| Label          | Presto, Saga (5) |
+| Label          | Presto, Saga |
 | Format         | LP |
 | Catalog Number | PRE 629 |
 
 Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10
-

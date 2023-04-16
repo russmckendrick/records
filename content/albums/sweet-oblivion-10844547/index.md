@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Shadow Of The Season (4:34)
 2. Nearly Lost You (4:07)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Grunge"]
 9. Troubled Times (5:20)
 10. No One Knows (5:13)
 11. Julie Paradise (5:05)
+## Spotify
+{{< spotify type="album" id="3SOcm48I0DOX1KEHF2IEVY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PE5f561Y1x4" title="Screaming Trees - Nearly Lost You" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
 - [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Grunge"]
 | Catalog Number | MOVLP101, 88697745521 |
 
 "25th Anniversary Edition Limited Edition of 1.500 Copies on Flaming Vinyl Individually Numbered 180 gram audiophile vinyl"  A6 is a bonus track. Includes printed insert with credits.
-

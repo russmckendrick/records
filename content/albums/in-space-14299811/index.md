@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
-
 ## Tracklisting
 1. Dony
 2. Lady Sweet
@@ -33,9 +32,7 @@ styles: ["Power Pop"]
 - [Big Star - February's Quiet](https://www.youtube.com/watch?v=Q5aFB_6re3M)
 - [BIG STAR - Hung Up With Summer](https://www.youtube.com/watch?v=UJAjnBNJ7jk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -45,4 +42,3 @@ styles: ["Power Pop"]
 | Catalog Number | OVLP-338 |
 
 Pressed on Translucent Blue Vinyl. Includes Liner Notes From the Band & Other Contributors. 
-

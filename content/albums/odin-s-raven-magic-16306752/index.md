@@ -13,7 +13,6 @@ cover:
 genres: ["Classical"]
 styles: ["Contemporary"]
 ---
-
 ## Tracklisting
 1. Prologus
 2. Alföður Orkar
@@ -23,6 +22,8 @@ styles: ["Contemporary"]
 6. Hvert Stefnir
 7. Spár Eða Spakmál
 8. Dagrenning
+## Spotify
+{{< spotify type="album" id="1Eaq9sameAA3etJDxMEJJ6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Jbht20ZvEz4" title="Prologus (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)" >}}
@@ -32,9 +33,7 @@ styles: ["Contemporary"]
 - [Spár eða spakmál (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=_b0JRt7KM_g)
 - [Dagrenning (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)](https://www.youtube.com/watch?v=G4O_X-U5nBQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -44,4 +43,3 @@ styles: ["Contemporary"]
 | Catalog Number | KRUNK41LP |
 
 Standard double gatefold black-vinyl edition. Some issues with round black sticker on front of shrink wrap. Sticker with barcode, label logo & reference on back of shrink wrap.  See images section.
-

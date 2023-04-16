@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Trash City (5:08)
 2. I Want Your Love (3:29)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Hanging Out With Halo Jones (4:35)
 9. Andy Warhol's Dead (3:48)
 10. Sex Kick (5:42)
+## Spotify
+{{< spotify type="album" id="5QAE6zeYz3Z7O83UdPOJcX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="l3u3lc3II-I" title="Transvision Vamp - I Want Your Love (1988)" >}}
@@ -46,9 +47,7 @@ styles: ["Pop Rock"]
 - [Andy Warhol's Dead (Andy Kershaw BBC Session)](https://www.youtube.com/watch?v=0Qx1WzFazCI)
 - [Revolution Baby](https://www.youtube.com/watch?v=xsv5dhQALAs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -58,4 +57,3 @@ styles: ["Pop Rock"]
 | Catalog Number | MCF 3421 |
 
 Recorded and mixed at Garden, Eastcote and Swanyard. Comes with lyrics inner. 
-

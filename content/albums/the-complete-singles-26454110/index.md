@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Keep The Circle Around
 2. Butterfly
@@ -39,6 +38,8 @@ styles: ["Indie Rock"]
 22. Fix Your Smile
 23. Spitfire
 24. Let You Down (Edit)
+## Spotify
+{{< spotify type="album" id="7KZbV3dtz2xDyaN7DojXRS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cmqzakGa6Dc" title="Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)" >}}
@@ -67,9 +68,7 @@ styles: ["Indie Rock"]
 - [Spitfire (2023 Remaster)](https://www.youtube.com/watch?v=xgrVxrWhCdw)
 - [Let You Down (Edit) (2023 Remaster)](https://www.youtube.com/watch?v=6m33S82yYAM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -79,4 +78,3 @@ styles: ["Indie Rock"]
 | Catalog Number | dung36lpx, 4050538867718 |
 
 "Midnight Licorice" colour double vinyl [ie: black!]  Manufactured in Poland
-

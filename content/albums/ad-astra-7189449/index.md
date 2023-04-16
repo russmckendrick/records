@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. LP
 2. Left Brain Ambassadors
@@ -43,6 +42,8 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 26. Mantra
 27. CD - Bonus Track
 28. Let The Magic Talk
+## Spotify
+{{< spotify type="album" id="6wVVudQgnSWB6Gpe4YBKXU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Uf9UVqaBQI8" title="Spiritual beggars - Angel of betrayal" >}}
@@ -50,9 +51,7 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 - [Spiritual Beggars - Left Brain Ambassadors](https://www.youtube.com/watch?v=wzhWmLEHEBY)
 - [Spiritual Beggars - Ad Astra - It's Over](https://www.youtube.com/watch?v=pyWN8u7Ikp0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -62,4 +61,3 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 | Catalog Number | 88875088291 |
 
 180 gram purple vinyl  Printed inner sleeve with credits and liner notes by Michael Amott  Comes with an additional CD in a cardboard sleeve.
-

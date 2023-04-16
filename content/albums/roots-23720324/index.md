@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Reflection
 2. Leaves
@@ -28,6 +27,8 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 11. Thunder
 12. Reaching For Sun
 13. Epilogue
+## Spotify
+{{< spotify type="album" id="3LIDGjqIJ1E9YwabMjuu13" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots (full Album 2022)" >}}
@@ -42,9 +43,7 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 - [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +53,3 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 | Catalog Number | CRC020 |
 
 Edition of 500 copies on Purple Transparent vinyl.  Comes with: - a generic black inner sleeve - insert with band photo, lyrics and some credits - plastic protective outer sleeve with applied hype sticker  Matrix numbers are etched. 
-

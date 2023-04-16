@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Gold
 2. Hit
@@ -25,6 +24,8 @@ styles: ["Indie Rock"]
 8. Hetero Scum
 9. Vitamin
 10. Chihuahua
+## Spotify
+{{< spotify type="album" id="2BfZKxeivrNbeXrqPNpsP7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GMLOzVaiF0M" title="Gold" >}}
@@ -38,9 +39,7 @@ styles: ["Indie Rock"]
 - [Vitamin](https://www.youtube.com/watch?v=o5SEHe_PrGI)
 - [Chihuahua](https://www.youtube.com/watch?v=09yDXvCRYmQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: ["Indie Rock"]
 | Catalog Number | tplp30dmm |
 
 180g vinyl.  Tracks on side two printed as 6 to 10 on the rear sleeve but 1 to 5 on the label.  Made in the E.U.
-

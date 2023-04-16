@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 ---
-
 ## Tracklisting
 1. Can't Afford (6:54)
 2. Looking From A Hilltop (Megamix) (8:09)
@@ -32,9 +31,7 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 {{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter [Stephen Morris Remix]" >}}
 - [Motherland](https://www.youtube.com/watch?v=oS9IUVolNwg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +41,3 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 | Catalog Number | FBN 60 |
 
 A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016. ℗ + © 2017 Factory Benelux. Printed & manufactured in Belgium.
-

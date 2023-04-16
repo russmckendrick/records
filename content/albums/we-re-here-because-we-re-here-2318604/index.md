@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Thin Air (6:00)
 2. Summernight Horizon (4:13)
@@ -34,9 +33,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [Anathema - Angels Walk Among Us (Lyrics)](https://www.youtube.com/watch?v=BRMNJNzscwQ)
 - [Anathema - Presence](https://www.youtube.com/watch?v=T8fWHvP8oqg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -46,4 +43,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | kscope812 |
 
 Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall. String arrangements recorded at Angel Studios, London. All photographs taken at significant locations in Liverpool.  Limited edition of 2.000 numbered copies on 180g black vinyl. Made in Germany Gatefold sleeve Two printed inner sleeves 
-

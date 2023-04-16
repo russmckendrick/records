@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Force Ten (4:28)
 2. Time Stand Still (5:07)
@@ -25,18 +24,17 @@ styles: ["Pop Rock", "Prog Rock"]
 8. Turn The Page (4:53)
 9. Tai Shan (4:14)
 10. High Water (5:32)
-
+## Spotify
+{{< spotify type="album" id="3OSQvwW2BElGZfjhsHJEru" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Rush - Hold Your Fire](https://www.discogs.com/release/7897222-Rush-Hold-Your-Fire) |
-| Label          | Mercury, Anthem (5), Universal Music Group International |
+| Label          | Mercury, Anthem, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547118295 |
 
 Lyrics sheet inserted with lyrics, credits on one side and photo/art (man juggling with fire) on other. Plastic-lined paper inner sleeve. Including a voucher to download an MP3 Vinyl rip of the album. Voucher also includes credits for reissue and DMM info. Direct Metal Mastering (DMM) technology used. Pressed on 180 g vinyl. 
-

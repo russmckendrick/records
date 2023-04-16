@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Breakbeat"]
 ---
-
 ## Tracklisting
 1. Music For The Mature B-Boy (Album Megamix)
 2. Music For The Mature B-Boy (Album Megamix)
@@ -21,9 +20,7 @@ styles: ["Breakbeat"]
 ## Videos
 {{< youtube id="_DoiY8Xckyg" title="DJ Format - Music For The Mature B Boy - Album Sampler Mix" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2003 |
@@ -33,4 +30,3 @@ styles: ["Breakbeat"]
 | Catalog Number | GEN 005 T |
 
 DJ Format's 'Music For The Mature B-Boy' album condensed into a megamix by Psycho Pab.  Plays same both sides. Limited to 300 copies. 
-

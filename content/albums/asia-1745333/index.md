@@ -1,6 +1,6 @@
 ---
-title: "Asia (2) - Asia"
-artist: "Asia (2)"
+title: "Asia - Asia"
+artist: "Asia"
 album_name: "Asia"
 date: 2018-10-24
 release_id: "1745333"
@@ -8,12 +8,11 @@ slug: "asia-1745333"
 hideSummary: true
 cover:
     image: "asia-1745333.jpg"
-    alt: "Asia by Asia (2)"
-    caption: "Asia by Asia (2)"
+    alt: "Asia by Asia"
+    caption: "Asia by Asia"
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Heat Of The Moment (3:50)
 2. Only Time Will Tell (4:44)
@@ -24,20 +23,19 @@ styles: ["Pop Rock", "Prog Rock"]
 7. Without You (5:04)
 8. Cutting It Fine (5:35)
 9. Here Comes The Feeling (5:42)
+## Spotify
+{{< spotify type="album" id="5TkfP3cqWgeBvCugPeiGNl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lCALGlGuVUA" title="Asia - Heat Of The Moment (Official Music Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
-| Discogs Link   | [Asia (2) - Asia](https://www.discogs.com/release/1745333-Asia-Asia) |
+| Discogs Link   | [Asia - Asia](https://www.discogs.com/release/1745333-Asia-Asia) |
 | Label          | Geffen Records |
 | Format         | LP, Album |
 | Catalog Number | GEF 85577 |
 
 Included insert printed with the cat no.  'Home Taping Is Killing Music' logo on rear sleeve.  'Made in England' on labels.
-

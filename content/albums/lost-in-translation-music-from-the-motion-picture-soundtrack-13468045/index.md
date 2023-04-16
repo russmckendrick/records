@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Intro / Tokyo (0:34)
 2. City Girl (3:48)
@@ -36,9 +35,7 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 - [Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)](https://www.youtube.com/watch?v=DP16_k3CWyg)
 - [Lost in Translation - Soundtrack - Full Album (2003)](https://www.youtube.com/watch?v=WETG07MZ8Mk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,4 +45,3 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 | Catalog Number | 603497854400 |
 
 Record Store Day 2019 exclusive pressed on translucent violet vinyl. Limited Edition of 8000 copies. Made in E.U.  Mastered At [l264302] is credited in liner notes. It refers to the original release from 2003 ([l264302] changed its name in 2010). Mastered At [l265641] is stamped in runout and refers to mastering for vinyl for this release.
-

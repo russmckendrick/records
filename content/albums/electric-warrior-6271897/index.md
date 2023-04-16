@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Glam"]
 ---
-
 ## Tracklisting
 1. Mambo Sun (3:39)
 2. Cosmic Dancer (4:28)
@@ -26,6 +25,8 @@ styles: ["Glam"]
 9. The Motivator (3:57)
 10. Life's A Gas (2:25)
 11. Rip Off (3:42)
+## Spotify
+{{< spotify type="album" id="6k1iylSzWOs7SgavxlJ8kt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FyzWDl0nz00" title="T. Rex - Bang a Gong (Get It On) (Official Audio)" >}}
@@ -36,9 +37,7 @@ styles: ["Glam"]
 - [Hot Love](https://www.youtube.com/watch?v=kKoaHw8gy88)
 - [The Motivator (2003 Remaster)](https://www.youtube.com/watch?v=j8HPwDIEinM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -48,4 +47,3 @@ styles: ["Glam"]
 | Catalog Number | 535 407-6 |
 
 Plus download code.
-

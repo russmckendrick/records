@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Cut-up/DJ", "Hip Hop"]
 ---
-
 ## Tracklisting
 1. To All The Girls (1:29)
 2. Shake Your Rump (3:19)
@@ -30,6 +29,8 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 13. Shadrach (4:07)
 14. Ask For Janice (0:11)
 15. B-Boy Bouillabaisse (12:34)
+## Spotify
+{{< spotify type="album" id="1kmyirVya5fRxdjsPFDM05" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="x2TP7tNQPwk" title="To All The Girls" >}}
@@ -56,9 +57,7 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 - [B-Boy Bouillabaisse: Mike On The Mic](https://www.youtube.com/watch?v=tpSLyTwhjr8)
 - [B-Boy Bouillabaisse: A.W.O.L.](https://www.youtube.com/watch?v=oXvXcecHg_E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -68,4 +67,3 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 | Catalog Number | 00602577057847 |
 
 Remastered by Beastie Boys and Chris Athens at Sterling Sound, NYC
-

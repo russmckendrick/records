@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Glam"]
 ---
-
 ## Tracklisting
 1. Sparks Documentary Film Fanfare
 2. This Town Ain’t Big Enough For Both Of Us
@@ -59,9 +58,7 @@ styles: ["Glam"]
 42. Amateur Hour
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -71,4 +68,3 @@ styles: ["Glam"]
 | Catalog Number | WW143 |
 
 Track A2: From 'Plagiarism' Track B8: From 'Kimono My House'  8 page booklet & liner notes. 11x17 Poster  Tracks are listed sequentially on rear sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Don't Look Back In Anger (4:47)
 2. The Bartender And The Thief (2:55)
@@ -45,18 +44,17 @@ styles: ["Indie Rock"]
 28. Good Enough (3:57)
 29. Lucky You (4:20)
 30. Why Does It Always Rain On Me? (4:23)
-
+## Spotify
+{{< spotify type="album" id="6zT1CYxdMjosZQwBGGpEoD" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Various - Loaded](https://www.discogs.com/release/15400556-Various-Loaded) |
-| Label          | Spectrum Music (2) |
+| Label          | Spectrum Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | 00600753910719 |
-
 
 

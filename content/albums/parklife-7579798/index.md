@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Girls & Boys
 2. Tracy Jacks
@@ -31,11 +30,11 @@ styles: ["Indie Rock", "Britpop"]
 14. Jubilee
 15. This Is A Low
 16. Lot 105
-
+## Spotify
+{{< spotify type="album" id="0DBkFC6739trhCoVreZyds" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | FOODLPX10, 5099962484213 |
 
 Gatefold sleeve. Limited to 3000 copies on 180 gram yellow vinyl.  Same release, on black vinyl is here, [r8640693].
-

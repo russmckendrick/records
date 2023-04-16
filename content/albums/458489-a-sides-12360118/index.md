@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Oh! Brother (4:01)
 2. C.R.E.E.P. (2:54)
@@ -36,9 +35,7 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ## Videos
 {{< youtube id="KPr2ENnp_GI" title="The Fall Hey! Luciani" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +45,3 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 | Catalog Number | BBQLP 111 |
 
 From sticker: First Ever US Pressing White Vinyl Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"  
-

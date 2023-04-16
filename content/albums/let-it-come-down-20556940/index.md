@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. On Fire
 2. Do It All Over Again
@@ -26,6 +25,8 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 9. Anything More
 10. Won't Get To Heaven (The State I'm In)
 11. Lord Can You Hear Me
+## Spotify
+{{< spotify type="album" id="4P3KaftJ2WwL89iKIEkWai" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="s2v0PZOpRqg" title="Spiritualized - Do It All Over Again (Official Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 - [On Fire](https://www.youtube.com/watch?v=IYhI-KHoCb0)
 - [The Twelve Steps](https://www.youtube.com/watch?v=dRNyQ3I7ous)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 | Catalog Number | FP1754-3 |
 
 Label for Side C erroneously lists Won't Get To Heaven (The State I'm In) as the fourth track, but it is actually the first track for Side D.
-

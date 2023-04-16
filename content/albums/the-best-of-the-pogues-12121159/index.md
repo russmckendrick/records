@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Fairytale Of New York
 2. Sally MacLennane
@@ -29,6 +28,8 @@ styles: ["Folk", "Folk Rock"]
 12. Thousands Are Sailing
 13. The Broad Majestic Shannon
 14. The Body Of An American
+## Spotify
+{{< spotify type="album" id="3wRRu2P6cndiyru88yCXnL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fvV5mryQF1I" title="the pogues-sally maclennane [best quality]" >}}
@@ -38,9 +39,7 @@ styles: ["Folk", "Folk Rock"]
 - [pogues - dirty old town](https://www.youtube.com/watch?v=kVUZuVZWHkk)
 - [The Pogues - Shane MacGowan - Body of an American](https://www.youtube.com/watch?v=BgYml2eokLA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Folk", "Folk Rock"]
 | Catalog Number | 0190295672560 |
 
 This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.
-

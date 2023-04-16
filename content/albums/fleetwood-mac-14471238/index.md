@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Monday Morning (2:48)
 2. Warm Ways (3:50)
@@ -26,13 +25,13 @@ styles: ["Pop Rock"]
 9. World Turning (4:25)
 10. Sugar Daddy (4:09)
 11. I'm So Afraid (4:15)
+## Spotify
+{{< spotify type="album" id="5VIQ3VaAoRKOEpJ0fewdvo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pSMmTDddV3w" title="Fleetwood Mac   First Album with Stevie Nicks" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: ["Pop Rock"]
 | Catalog Number | RCV1 2281, 603497850501 |
 
 Reissue on white vinyl. ℗ & © 1975 Warner Records Inc. Made in the E.U.  The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].    .
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Homophobic Asshole
 2. Body Bag
@@ -24,9 +23,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Senseless Things - Homophobic Asshole](https://www.youtube.com/watch?v=cbSvdWaARRM)
 - [Senseless Things - Body Bag](https://www.youtube.com/watch?v=tsHv3fLuxIU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -34,6 +31,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Label          | Epic |
 | Format         | 12\", Single |
 | Catalog Number | 658833 6 |
-
 
 

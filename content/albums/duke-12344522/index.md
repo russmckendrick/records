@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Behind The Lines
 2. Duchess
@@ -27,6 +26,8 @@ styles: ["Pop Rock", "Prog Rock"]
 10. Please Don't Ask
 11. Duke's Travels
 12. Duke's End
+## Spotify
+{{< spotify type="album" id="7ryVZ5ca6GM3FAkmlrymgv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cwk0x6U_0fU" title="Genesis - Behind the Lines" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock", "Prog Rock"]
 - [Genesis - Duchess](https://www.youtube.com/watch?v=J3fLoF-Jus0)
 - [Genesis - Turn It On Again (Official Music Video)](https://www.youtube.com/watch?v=8OIkw9kJ0u4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | 6748978 |
 
 Gatefold sleeve. Comes with a download card.
-

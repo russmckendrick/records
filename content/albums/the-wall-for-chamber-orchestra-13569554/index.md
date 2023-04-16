@@ -13,7 +13,6 @@ cover:
 genres: ["Classical"]
 styles: null
 ---
-
 ## Tracklisting
 1. In The Flesh
 2. Another Brick In The Wall Pt.III
@@ -32,9 +31,7 @@ styles: null
 15. Outside The Wall
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -44,4 +41,3 @@ styles: null
 | Catalog Number | CLRVNY004 |
 
 Produced, Mastered and Manufactured in the Czech Republic
-

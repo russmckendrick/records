@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Post Side
 2. Crazy
@@ -32,6 +31,8 @@ styles: ["Alternative Rock"]
 15. Femme Fatale
 16. Walters Theme
 17. King Of The Road
+## Spotify
+{{< spotify type="album" id="0lxAgLR0aeBfYXF4lXKW9F" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="21lVxLQwk8Q" title="R.E.M. - Femme Fatale" >}}
@@ -45,9 +46,7 @@ styles: ["Alternative Rock"]
 - [Bandwagon](https://www.youtube.com/watch?v=rwiduu42GP4)
 - [Crazy](https://www.youtube.com/watch?v=Go9t68mQOl0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -57,4 +56,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 00602547899835 |
 
 Includes voucher to download MP3 version of the album.   ℗ 1987 © 2016 International Record Syndicate, Inc., a division of UMG Recordings, Inc. Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Heaven Ain't Goin' Nowhere (1:39)
 2. Union, God And Country (2:23)
@@ -25,15 +24,15 @@ styles: ["Country"]
 8. Black Lung (3:20)
 9. Fastest Man Alive (2:51)
 10. The Mine (2:48)
+## Spotify
+{{< spotify type="album" id="6wQa5jlPJRxZnQjpZLlsMD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="d5tOkJK8DUk" title="Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]" >}}
 - [Steve Earle & The Dukes - It's About Blood [Audio Only]](https://www.youtube.com/watch?v=iKWPjr0NPQo)
 - [Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A](https://www.youtube.com/watch?v=L5QqgJ3u11k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -43,4 +42,3 @@ styles: ["Country"]
 | Catalog Number | NW5397 |
 
 Indie "blue and gold" limited edition pressing.  Includes 4-page printed insert containing photographs, lyrics and credits.  Some copies included a turntable slip mat containing the album cover artwork. 
-

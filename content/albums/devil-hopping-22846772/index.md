@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. I Want You (3:09)
 2. Party In The Sky (3:51)
@@ -27,6 +26,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 10. Half Way There (3:50)
 11. Cobra (2:13)
 12. I Don't Want To Go Blind (4:02)
+## Spotify
+{{< spotify type="album" id="7vhsZvvArRpU9cXxjfiC06" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
 - [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Catalog Number | ldung25 |
 
 Hype sticker on sleeve. Inner sleeve with lyrics.  "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."   
-

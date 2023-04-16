@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Alone Again Or (3:15)
 2. A House Is Not A Motel (3:25)
@@ -26,6 +25,8 @@ styles: ["Folk Rock", "Psychedelic Rock"]
 9. The Good Humor Man He Sees Everything Like This (3:00)
 10. Bummer In The Summer (2:20)
 11. You Set The Scene (6:49)
+## Spotify
+{{< spotify type="album" id="2amHBpP8C0EUy6yBNy6nN6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cPbNpIG8x_s" title="Alone Again Or (2015 Remaster)" >}}
@@ -34,16 +35,13 @@ styles: ["Folk Rock", "Psychedelic Rock"]
 - [A House Is Not a Motel (2015 Remaster)](https://www.youtube.com/watch?v=H3xzHYz6L5w)
 - [You Set the Scene (2015 Remaster)](https://www.youtube.com/watch?v=-N9kGKFIAQk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Love - Forever Changes](https://www.discogs.com/release/7597206-Love-Forever-Changes) |
-| Label          | Elektra, Rhino Records (2) |
+| Label          | Elektra, Rhino Records |
 | Format         | LP, Album, Ltd, RE, Whi |
 | Catalog Number | 8122797115 |
 
 Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.  Judging from the matrix nos, it looks as though plating was done at RTI and EU version pressed by Optimal.  Technically, this is a repress of [r4073447]  Ltd ed. of only 2000
-

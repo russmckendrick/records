@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Too Numb
 2. Collapsing Hopes
@@ -24,14 +23,14 @@ styles: ["Prog Rock"]
 7. Just Another Bad Day
 8. Capture Or Reveal
 9. Till The Sunrise Comes
+## Spotify
+{{< spotify type="album" id="5D1dbyrjgEoh1HUOmJtwTW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tkgIDo3z91U" title="ORk 2017 Soul of an Octopus" >}}
 - [O.R.k. -  Too Numb](https://www.youtube.com/watch?v=sOunZMWmtc8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -39,6 +38,5 @@ styles: ["Prog Rock"]
 | Label          | RareNoise Records |
 | Format         | LP, Album |
 | Catalog Number | RNR075LP |
-
 
 

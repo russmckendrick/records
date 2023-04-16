@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Progressive Metal", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Castaway
 2. Genesis
@@ -35,6 +34,8 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 18. Borderlands (11:03)
 19. Requiem (2:47)
 20. Singularity
+## Spotify
+{{< spotify type="album" id="7MPJRyMFbWbgezRP2Pj4TZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AdHJurX0yVA" title="DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)" >}}
@@ -52,9 +53,7 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 - [Evermore](https://www.youtube.com/watch?v=V2-cKI34bpU)
 - [Borderlands](https://www.youtube.com/watch?v=J52C4Z7uya0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -64,4 +63,3 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 | Catalog Number | IOMLP 526, 19075924001 |
 
 [Booklet] All songs published by HevyDevy Records Inc, administered by Kobalt Music Services Ltd., except ’Curious Gods’; Published by HevyDevy Records Inc, administered by Kobalt Music Services Ltd. / Vague Pagoda Music BMI / Copyright Control.  Mastered for S.P.E.C.T.R.E. Mastering  [Additional death metal vocals] Recorded at The Grid in Montreal, Canada  Drums and Bass recorded at Monnow Valley Studios, Wales UK Guitars and vocals recorded at The Armoury Studios, Vancouver BC Additional recordings at Recroom, The Farm and Devlab, Vancouver BC  Choir: recorded at The Armoury.  Vinyl mastering: at Black Belt Mastering  [Rear sleeve] © 2019 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic ℗ HevyDevy Records. Issued under license to Century Media Records Ltd., under exclusive license to InsideOutMusic Distributed by Sony Music Entertainment · Made in the EU · Sony Music Entertainment International Services GmbH - PO Box 510 - 33311 Gütersloh - Germany  [Labels] © 2019 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2019 HevyDevy Records. Issued under license to Century Media Records Ltd., under exclusive license to InsideOutMusic · Made in the EU  Gatefold  Error in credit section, backing vocals by Anneke van Giersbergen for track "King" is listed, however this track was only released on the limited edition. On the track "Borderlands", Jessica Vaira is credited as both "Jessica" and "Jess Vaira"
-

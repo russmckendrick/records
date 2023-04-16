@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Fantasy (1:58)
 2. Don't You Believe In Magic? (4:06)
@@ -25,14 +24,14 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 8. The Great Black Hole (2:59)
 9. Sorcery & Sabotage (3:03)
 10. Living In A Bubble (3:47)
+## Spotify
+{{< spotify type="album" id="7zmXVi04UQH3Ku0slUVeBO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vaMH-ha3Lbc" title="Everybody's Going to Die" >}}
 - [Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)](https://www.youtube.com/watch?v=KcFy-lYmncE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 | Catalog Number | Septaphonic 1 |
 
 Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.  Comes with signed poster and certificate of authentication on name of customer Serial number: 5 070000 12808
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
-
 ## Tracklisting
 1. Our Only Weapon (3:02)
 2. Last Dead Mouse (3:38)
@@ -42,9 +41,7 @@ styles: ["Ska", "Punk"]
 - [What Was Was Over](https://www.youtube.com/watch?v=BXDgiwf76yw)
 - [Seven Thirty Seven / Shoe Glue](https://www.youtube.com/watch?v=UbHQT73w8Mg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +51,3 @@ styles: ["Ska", "Punk"]
 | Catalog Number | MOVLP2292 |
 
 180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU.
-

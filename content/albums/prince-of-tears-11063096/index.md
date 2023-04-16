@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Miami
 2. Porcelain
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 8. August
 9. Wanna
 10. Prince Of Tears
+## Spotify
+{{< spotify type="album" id="2t7r6hUtlrqQfX0Z5zHzF8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HyILwv1KBT4" title="Baxter Dury - Miami" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 - [Baxter Dury - Wanna](https://www.youtube.com/watch?v=Lp57mSug63c)
 - [Baxter Dury - Prince Of Tears](https://www.youtube.com/watch?v=zPpaKK4XK74)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,6 +47,5 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 | Label          | [PIAS] Le Label, Heavenly |
 | Format         | LP, Album |
 | Catalog Number | PIASL101LP, 962.A191.010 |
-
 
 

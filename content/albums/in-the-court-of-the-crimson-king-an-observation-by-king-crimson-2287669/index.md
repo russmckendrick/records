@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. 21st Century Schizoid Man (Including "Mirrors") (6:52)
 2. I Talk To The Wind (5:40)
@@ -22,9 +21,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 5. The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets") (8:48)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1969 |
@@ -34,4 +31,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | ILPS 9111, ILPS-9111 |
 
 Pink "i" label. Released in a gatefold cover.  [r12249899] is similar edition but has no printer credit on the cover.  A product of Island Records Ltd. Produced for E.G. Productions, 'David & John'. Recorded at Wessex Sound Studios, London.  Printed and made by E. J. Day, London. Variant 1 (A▽2 B//2) came in polylined inner bag with blue text ‘U.K. Patent No. 1,072,844 & Foreign Patents Pending’.  The tracklisting is taken from the cover. On the label tracks A1, A3, B1 and B2 are divided into separate subtracks which on the cover appear as part of the "normal" track titles.
-

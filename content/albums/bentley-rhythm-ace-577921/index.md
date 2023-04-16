@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Big Beat"]
 ---
-
 ## Tracklisting
 1. Let There  Be Flute
 2. Midlander (There Can Only Be One...)
@@ -26,6 +25,8 @@ styles: ["Big Beat"]
 9. Who Put The Bom In The Bom Bom Diddleye Bom
 10. Spacehopper
 11. Return Of The Hardcore Jumble Carbootechnodisco Roadshow
+## Spotify
+{{< spotify type="album" id="0CHWkAtfKsMNHbI6fQEnP5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3IWl77o3l50" title="Bentley Rhythym Ace - Bentley's Gonna Sort You Out" >}}
@@ -39,9 +40,7 @@ styles: ["Big Beat"]
 - [Spacehopper 1997 Bentley Rhythm Ace](https://www.youtube.com/watch?v=mpXVR7P4TyE)
 - [BENTLEY  RHYTHM  ACE - Return Of The Hardcore Jumble Carbootechnodisco Roadshow](https://www.youtube.com/watch?v=HfGDkeneGTo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1997 |
@@ -49,6 +48,5 @@ styles: ["Big Beat"]
 | Label          | EMI |
 | Format         | 2xLP, Album |
 | Catalog Number | 7243 8 21049 1 9 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Make A Change (3:28)
 2. Smile (3:48)
@@ -23,6 +22,8 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 6. Is It Any Wonder? (4:36)
 7. Now I'm Gone  (5:39)
 8. Tuck 'N' Roll (2:56)
+## Spotify
+{{< spotify type="album" id="3idaZ1PVAh5zF50jEipyEq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1MplHc9WbCM" title="Durand Jones And The Indications..Is It Any Wonder." >}}
@@ -34,9 +35,7 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 - [Durand Jones & The Indications - Smile - 8/28/2017 - Paste Studios, New York, NY](https://www.youtube.com/watch?v=tnaq5ObKVSs)
 - [Can't Keep My Cool](https://www.youtube.com/watch?v=NgzG4XYcgcU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,6 +43,5 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 | Label          | Dead Oceans, Colemine Records |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | DOC157 |
-
 
 

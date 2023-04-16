@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Sunday (4:45)
 2. Cactus (2:54)
@@ -27,6 +26,8 @@ styles: ["Art Rock", "Alternative Rock"]
 10. Everyone Says 'Hi' (3:59)
 11. A Better Future (4:11)
 12. Heathen (The Rays) (4:16)
+## Spotify
+{{< spotify type="album" id="34Uxe13FFYnUa5rvPYuYFK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6V_Sqv0qolw" title="Heathen (The Rays)" >}}
@@ -34,9 +35,7 @@ styles: ["Art Rock", "Alternative Rock"]
 - [Cactus](https://www.youtube.com/watch?v=qFCDKYCevYs)
 - [I Would Be Your Slave](https://www.youtube.com/watch?v=DPPRPopWe9s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -46,4 +45,3 @@ styles: ["Art Rock", "Alternative Rock"]
 | Catalog Number | MOVLP470 |
 
 Comes in plain white poly-lined paper inner sleeve. Includes printed insert.  From 16 track analog tape converted on 24bit.  Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing www.musiconvinyl.com  Runouts are etched, except side A '5082221000 1A1' stamped. 
-

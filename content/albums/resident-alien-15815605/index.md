@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Punk"]
 ---
-
 ## Tracklisting
 1. In The Meantime (4:58)
 2. Spacehog (2:14)
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 12. Zeroes (6:38)
 13. To Be A Millionaire...Was It Likely? (13:10)
 14. Untitled (8:10)
+## Spotify
+{{< spotify type="album" id="6vOmA5zWeFeKvuRBxaO59A" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PCsGRCf8T9Y" title="Spacehog - In the Meantime (Official Music Video)" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 - [Only a Few](https://www.youtube.com/watch?v=uf7XG1irP0M)
 - [The Last Dictator](https://www.youtube.com/watch?v=t99_bSas4DI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 | Catalog Number | 61834-2, RGM-1014 |
 
 Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.  Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.  
-

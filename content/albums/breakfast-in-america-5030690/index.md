@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Gone Hollywood (5:20)
 2. The Logical Song (4:11)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Just Another Nervous Wreck (4:25)
 9. Casual Conversations (2:58)
 10. Child Of Vision (7:31)
+## Spotify
+{{< spotify type="album" id="1zcm3UvHNHpseYOUfd0pna" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gD1EkIbIUUc" title="Supertramp - Breakfast In America (Official Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Pop Rock"]
 - [Supertramp - The Logical Song (Official Video)](https://www.youtube.com/watch?v=k4tdefi0Znc)
 - [Supertramp - Goodbye Stranger (Official Video)](https://www.youtube.com/watch?v=VoMwGjwhl5A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 00600753454589 |
 
 On cover sticker: ℗ & © 2013 A&M Records On picture disc: ℗ & © 2013 A&M Record  Made in the EU
-

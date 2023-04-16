@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Sing This All Together
 2. Citadel
@@ -25,11 +24,11 @@ styles: ["Psychedelic Rock", "Classic Rock"]
 8. Gomper
 9. 2000 Light Years From Home
 10. On With The Show
-
+## Spotify
+{{< spotify type="album" id="2SE7fs002NlNc3cw3SQLRC" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2003 |
@@ -39,4 +38,3 @@ styles: ["Psychedelic Rock", "Classic Rock"]
 | Catalog Number | 882 329-1 |
 
 Some copies comes with sticker of the The Rolling Stones DSD Remastered Series on front cover (applied on the shrink-wrap) Laminated sleeve. Generic anti-static poly-lined dust inner sleeve. DSD Direct Stream Digital, Direct SBM Super Bit Mapping Direct  [On labels] DSD, & SBM Direct are Trademarks of Sony & Philips ©2003 ℗1967 ABKCO Records. Manufactured by ABKCO Records a division of ABKCO Music & Records, Inc Made in EU 882 329-1  [On back] ©2003 ABKCO Records. [...] Printed in EU. DSD, & SBM Direct are Trademarks of Sony & Philips.  Some copies distributed with barcode sticker (text): 0 18771 90021 4  Runouts are hand-etched except of the stamped -7642-.
-

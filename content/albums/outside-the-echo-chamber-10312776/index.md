@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Reggae"]
 styles: ["Reggae", "Dub", "Dancehall"]
 ---
-
 ## Tracklisting
 1. Everyday Another Sanction
 2. Everyday Another Sanction (Dub)
@@ -47,9 +46,7 @@ styles: ["Reggae", "Dub", "Dancehall"]
 - [Coldcut x On-U Sound - 'Everyday Another Sanction feat. Chezidek (Dub)'](https://www.youtube.com/watch?v=BhmrN758ZZQ)
 - [Coldcut x On-U Sound - 'Make Up Your Mind feat. Elan'](https://www.youtube.com/watch?v=76aNehvVO8w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -59,4 +56,3 @@ styles: ["Reggae", "Dub", "Dancehall"]
 | Catalog Number | AHEDBOX015 |
 
 Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.  Includes download code.  Signed copies were available from Recordstore.co.uk
-

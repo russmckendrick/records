@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
-
 ## Tracklisting
 1. Keep Your Hands To Yourself (3:26)
 2. Railroad Steel (4:12)
@@ -25,6 +24,8 @@ styles: ["Southern Rock"]
 8. Over And Over (3:37)
 9. Nights Of Mystery (4:44)
 10. Every Picture Tells A Story (5:22)
+## Spotify
+{{< spotify type="album" id="0obHqsEpkaCWGWGjxcdXel" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WonOudGMSdc" title="Georgia Satellites - Keep Your Hands To Yourself (Official Music Video) [HQ Audio]" >}}
@@ -32,9 +33,7 @@ styles: ["Southern Rock"]
 - [GEORGIA SATELLITES - Keep Your Hands To Yourself](https://www.youtube.com/watch?v=PdpAop7gp0w)
 - [Georgia Satellites - Battleship Chains](https://www.youtube.com/watch?v=HQr7RxYec-0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -44,4 +43,3 @@ styles: ["Southern Rock"]
 | Catalog Number | 960 496-1, EKT 38 |
 
 Gray labels with different label logo.  Runouts: 'R / S Alsdorf 960496-1-A' and 'R / S Alsdorf 960496-1-B' are stamped, the rest is etched.
-

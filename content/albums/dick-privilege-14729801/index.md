@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Dick Privilege (3:14)
 2. Rat Catch (2:35)
@@ -21,9 +20,7 @@ styles: null
 ## Videos
 {{< youtube id="ZE4JTf7qOWk" title="VENNART - Dick Privilege" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -31,6 +28,5 @@ styles: null
 | Label          | Not On Label (Vennart Self-released) |
 | Format         | 7\", Single, Gam |
 | Catalog Number | none |
-
 
 

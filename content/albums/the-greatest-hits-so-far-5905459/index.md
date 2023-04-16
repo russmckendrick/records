@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Public Image
 2. Death Disco
@@ -51,9 +50,7 @@ styles: ["New Wave", "Synth-pop"]
 - [The Body by PIL](https://www.youtube.com/watch?v=56RICywExfw)
 - [PIL - Public Image](https://www.youtube.com/watch?v=ylOCIP54PIQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -63,4 +60,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | 535109-2 |
 
 Includes a voucher to download MP3 version of the album.
-

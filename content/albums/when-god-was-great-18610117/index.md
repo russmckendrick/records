@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae"]
 styles: ["Punk", "Ska"]
 ---
-
 ## Tracklisting
 1. Decide
 2. M O V E
@@ -30,15 +29,15 @@ styles: ["Punk", "Ska"]
 13. It Went Well
 14. I Don't Want To Be You
 15. The Final Parade
+## Spotify
+{{< spotify type="album" id="2GMkzDNISHUME6JBeT46D3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING" >}}
 - [The Mighty Mighty BossToneS - THE FINAL PARADE (Lyric Video)](https://www.youtube.com/watch?v=WcwNZLgVE1g)
 - [The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING](https://www.youtube.com/watch?v=USUEiyKJJjs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Punk", "Ska"]
 | Catalog Number | 0539-1 |
 
 Issued in a Gatefoldcover including printed inner sleeves. 
-

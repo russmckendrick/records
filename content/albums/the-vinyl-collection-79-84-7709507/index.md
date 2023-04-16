@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Life In A Day
 2. Someone
@@ -90,9 +89,7 @@ styles: null
 73. Shake Off The Ghosts
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -100,6 +97,5 @@ styles: null
 | Label          | Universal Music |
 | Format         | Box, Comp, Dlx, RM, 180 + LP, Album, RE + LP, Albu |
 | Catalog Number | 4733760 |
-
 
 

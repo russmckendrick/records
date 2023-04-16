@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Upside Down
 2. Never Understand
@@ -42,9 +41,7 @@ styles: ["Indie Rock"]
 - [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
 - [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -52,6 +49,5 @@ styles: ["Indie Rock"]
 | Label          | Warner Music Group |
 | Format         | 2xLP, Comp, RE, 180 |
 | Catalog Number | 0190295669249 |
-
 
 

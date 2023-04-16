@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Crestfallen (3:08)
 2. Sleep In Sanity (3:35)
@@ -24,13 +23,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Alone (7:17)
 8. We The Gods (3:05)
 9. Sunset Of Age (7:42)
+## Spotify
+{{< spotify type="album" id="2NeXgLGntWT35hwrQRpNRB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kKO9G--YlyU" title="Anathema - Kingdom (from Falling Deeper)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -40,4 +39,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | KSCOPE820 |
 
 Limited vinyl edition pressed on 180gm vinyl with printed inner sleeves.   Crestfallen is dedicated with eternal love to Helen Cavanagh. Kingdom is dedicated with love and gratitude to Stan White & Libby White. Dette albumet er dedikert med evig kjærlighet og lys til ungdommene på Utøya. Sammen skaper vi lys i mørket.  This album is dedicated with eternal love and light to the young people at Utøya. Together we create light in the darkness.   Made in the E.U.  ℗2011 Anathema ©2011 Anathema 
-

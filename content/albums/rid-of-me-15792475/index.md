@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Rid Of Me (4:28)
 2. Missed (4:25)
@@ -29,6 +28,8 @@ styles: ["Indie Rock"]
 12. Me-Jane (2:42)
 13. Snake (1:35)
 14. Ecstasy (4:27)
+## Spotify
+{{< spotify type="album" id="2fDJpBJhtloxzUENHlU9JB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8PlaNe3mXl8" title="Rid Of Me" >}}
@@ -46,9 +47,7 @@ styles: ["Indie Rock"]
 - [Snake](https://www.youtube.com/watch?v=aAIntnlrvfE)
 - [Ecstasy](https://www.youtube.com/watch?v=m0O2GvTa3Vk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -58,4 +57,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 0851112, 00602508511127 |
 
 Hype sticker, catalog number 0851112, affixed to shrinkwrap on some copies: Re-issue of the original 1993 album Rid Of Me, featuring the singles 50ft Queenie and Man-Size Pressed on 180gsm vinyl Includes download card  Issued on blue Island labels with yellow logo. Issued with a printed inner sleeve.  First catalog # (0851112) on jacket spine, labels, inner sleeve. Second catalog # (00602508511127) on jacket back, label rimtext.  Track A4 on label: "Rub 'Till It Bleeds" Track B2 on label: "50 Ft Queenie"  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd.  A Universal Music Company. Universal International Music. B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.  Made in Germany  Vinyl cutting [...] at Chicago Mastering Service.  Tracks A1 to A6, B2 to B8 published by Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP). Track B1 published by Special Rider Music.  Some copies include download card, in 16bit / 44.1KHz WAV format.
-

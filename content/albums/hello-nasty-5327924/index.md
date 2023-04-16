@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
-
 ## Tracklisting
 1. Super Disco Breakin'
 2. The Move
@@ -37,15 +36,15 @@ styles: ["Instrumental", "Funk"]
 20. Dedication
 21. Dr. Lee, PhD
 22. Instant Death
+## Spotify
+{{< spotify type="album" id="6eGYLONkDMja0MNtZWnRRB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qORYO0atB6g" title="Beastie Boys - Intergalactic" >}}
 - [Beastie Boys - Body Movin'](https://www.youtube.com/watch?v=uvRBUw_Ls2o)
 - [Beastie Boys - Three MC's And One DJ](https://www.youtube.com/watch?v=XflfiylNNXY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -55,4 +54,3 @@ styles: ["Instrumental", "Funk"]
 | Catalog Number | 509996 94239 18 |
 
 Gatefold packaging sleeve design, pressed on 180 gram vinyl.
-

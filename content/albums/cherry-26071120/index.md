@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Clipped
 2. Die Like A Dog
@@ -27,9 +26,7 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 - [Curve - Galaxy](https://www.youtube.com/watch?v=CVpabyzgM-Q)
 - [Curve - Die like a dog](https://www.youtube.com/watch?v=Qf1sy002-lc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -39,4 +36,3 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 | Catalog Number | MOV12032 |
 
 Part of a Curve reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track durations not listed on the release.
-

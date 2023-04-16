@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. In The Morning (4:10)
 2. I'll See You Around (4:39)
@@ -25,14 +24,14 @@ styles: ["Psychedelic Rock"]
 8. Off To Work (2:37)
 9. Time & Death (1:43)
 10. Evil In Your Eye (5:56)
+## Spotify
+{{< spotify type="album" id="6t4AvdMaZVObrBe9rFnG2n" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3SAs3xtNG4g" title="Bill Fisher - In the Morning (Official Visualiser Video)" >}}
 - [Bill Fisher - Hallucinations of a Higher Truth (Full Album 2021)](https://www.youtube.com/watch?v=pAANiKCOzgw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -42,4 +41,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | Septaphonic 5 |
 
 Super Deluxe Crimson Nebula Edition. Limited Edition of 500. Gatefold sleeve with black poly-lined inner sleeve. All songs written by Bill Fisher except ‘Caroline’ written by Rossi/Young. All songs performed and produced by Bill Fisher. Recorded at The Rainbow Lodge, Nottingham, England. Mastered by Lira Wish at Film-Maker Studios. Art and design by Zorad. ©℗ 2021 Bill Fisher
-

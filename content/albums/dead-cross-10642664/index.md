@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Seizure And Desist
 2. Idiopathic
@@ -25,6 +24,8 @@ styles: ["Hardcore", "Heavy Metal"]
 8. The Future Has Been Cancelled
 9. Gag Reflex
 10. Church Of The Motherfuckers
+## Spotify
+{{< spotify type="album" id="0pgakkzw4eUOMPfwBXxj7E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}
@@ -38,9 +39,7 @@ styles: ["Hardcore", "Heavy Metal"]
 - [Gag Reflex](https://www.youtube.com/watch?v=ijoP18PK3BE)
 - [Dead Cross - Church of the Motherfuckers](https://www.youtube.com/watch?v=IxaFJQo7TzU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: ["Hardcore", "Heavy Metal"]
 | Catalog Number | IPC193LP |
 
 Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).  Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix. 
-

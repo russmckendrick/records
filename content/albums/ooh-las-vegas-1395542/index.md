@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Disneyworld (2:49)
 2. Ronnie Spector (3:29)
@@ -38,6 +37,8 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 21. Christine (2:26)
 22. Take Me To This Place (2:26)
 23. Don't Let The Teardrops Start (3:01)
+## Spotify
+{{< spotify type="album" id="1PojyXhUkx4U6t9RwAdPGy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YuMRvCvBJm0" title="Deacon Blue - Disneyworld" >}}
@@ -50,9 +51,7 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 - [Disneyworld](https://www.youtube.com/watch?v=hXIRGY5OP3I)
 - [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -62,4 +61,3 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 | Catalog Number | 467242 1 |
 
 Very similar to [r=1867062] but with a different set of codes and layout in the upper right back cover - above and below the barcode. [r=1867062] also has BIEM/STEMRA and "Made in Holland" on the B & D labels and is a [l371454] pressing
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ---
-
 ## Tracklisting
 1. Someone Somewhere In Summertime (4:34)
 2. Colours Fly And Catherine Wheel (3:49)
@@ -24,6 +23,8 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 7. Glittering Prize (4:33)
 8. Hunter And The Hunted (5:54)
 9. King Is White And In The Crowd (6:59)
+## Spotify
+{{< spotify type="album" id="6dn2O3un8SV0QZ421jDdEj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_CFWf39ATug" title="Simple Minds - New Gold Dream (81-82-83-84)" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 - [King Is White And In The Crowd](https://www.youtube.com/watch?v=TQ3pnLfGBF0)
 - [In Every Heaven (Full Version)](https://www.youtube.com/watch?v=Nt7e4vOKgNE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -51,4 +50,3 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 | Catalog Number | 204 965, 204 965-320 |
 
 Made in: Summer '82. Distributed by the Ariola Group of Companies. Printed in Western Germany by Mohndruck Graphische Betriebe GmbH, Gütersloh.  Sleeve: at Assorted iMaGes.  P & C: 1982 Virgin Records Ltd.  Printed inner sleeve with lyrics. All lyrics reproduced by kind permission of EMI Music Publishers Ltd. (P: 1982)  Labels: ℗ & © 1982 Virgin Records Ltd.
-

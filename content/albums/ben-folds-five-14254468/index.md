@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Jackson Cannery (3:24)
 2. Philosophy (4:36)
@@ -27,14 +26,14 @@ styles: ["Indie Rock"]
 10. Video (4:07)
 11. The Last Polka (4:34)
 12. Boxing (4:43)
+## Spotify
+{{< spotify type="album" id="2zNa1aZ0VaGfuiNqDbrQET" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zUOt5AhUqKE" title="Ben Folds Five FULL ALBUM" >}}
 - [Ben Folds Five - Underground](https://www.youtube.com/watch?v=jqADHn7SWlA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -44,4 +43,3 @@ styles: ["Indie Rock"]
 | Catalog Number | plain169 |
 
 Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.  Recorded at Wave Castle, NC, 2/95.   
-

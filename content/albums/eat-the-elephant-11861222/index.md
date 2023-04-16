@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Eat The Elephant
 2. Disillusioned
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 11. Hourglass
 12. Feathers
 13. Get The Lead Out
+## Spotify
+{{< spotify type="album" id="3Jr1RhAyndBxtyi8rJs3Op" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mdcdxpn0JHY" title="A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [A Perfect Circle - The Doomed [Official Video]](https://www.youtube.com/watch?v=SDvfbvuJtS8)
 - [A Perfect Circle - By And Down The River [Audio]](https://www.youtube.com/watch?v=IL2N7d4WXzw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | 538374370, 4050538374377 |
 
 Limited edition independent retail exclusive version of the LP on white 180 gram vinyl with alternate cover.   Tracks C3 / D1, DLB, is listed on hype sticker and labels as track 9 on both sides C and D .  It does play on both sides, but on side D, it is more of an intro / segue into "Hourglass".  Side D has a locked groove which repeats the last few seconds of “Get The Lead Out”.
-

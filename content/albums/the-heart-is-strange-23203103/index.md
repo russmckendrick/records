@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Night (6:00)
 2. Chasing Utopia (5:24)
@@ -23,6 +22,8 @@ styles: ["Synth-pop"]
 6. No Ordinary Girl (4:43)
 7. The Wolves Are Returning (5:01)
 8. Ribbons Of Steel (9:42)
+## Spotify
+{{< spotify type="album" id="1fSFgmvRFtrsezbIlp5zSw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7LbjI2bJrhE" title="The Night" >}}
@@ -34,9 +35,7 @@ styles: ["Synth-pop"]
 - [The Wolves Are Returning](https://www.youtube.com/watch?v=_906dqMbLLs)
 - [Ribbons Of Steel](https://www.youtube.com/watch?v=G1K3hBQ6330)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -44,6 +43,5 @@ styles: ["Synth-pop"]
 | Label          | ZTT |
 | Format         | LP, Album |
 | Catalog Number | ZTTnovis1 |
-
 
 

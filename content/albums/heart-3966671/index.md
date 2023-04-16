@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. If Looks Could Kill (3:41)
 2. What About Love (3:39)
@@ -25,6 +24,8 @@ styles: ["Power Pop", "Pop Rock"]
 8. Nothin' At All (4:12)
 9. What He Don't Know (3:40)
 10. Shell Shock (3:42)
+## Spotify
+{{< spotify type="album" id="6TLTd0P2CUI0Q29AQ1LyFi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SR_mWAbNiYM" title="CD / Heart – Heart / 1985" >}}
@@ -44,9 +45,7 @@ styles: ["Power Pop", "Pop Rock"]
 - [Heart - These Dreams](https://www.youtube.com/watch?v=41P8UxneDJE)
 - [Heart - If Looks Could Kill (Live 1990)](https://www.youtube.com/watch?v=iR0fIUu0rWU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -56,4 +55,3 @@ styles: ["Power Pop", "Pop Rock"]
 | Catalog Number | 43 600 6 |
 
 'Club Edition'  'These Dreams' is dedicated to Sharon Hess.  ℗ 1985 Capitol Records, Inc. © 1985 Capitol Records, Inc. Made in EEC. Printed in Holland ______________  Released with printed inner sleeve (taken from the regular edition with catalog number 24 0372 1).
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Mod"]
 ---
-
 ## Tracklisting
 1. Out In The Street
 2. I Don't Mind
@@ -27,11 +26,11 @@ styles: ["Mod"]
 10. I'm A Man
 11. A Legal Matter
 12. The Ox
-
+## Spotify
+{{< spotify type="album" id="6Oc6Ok1Oawu8lRkjmD4mXy" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -41,4 +40,3 @@ styles: ["Mod"]
 | Catalog Number | 3715603 |
 
 Standalone repress of the 2012 cut originally used for [r=4043005] box.  Released on 180g vinyl (not mentioned on the release).   Cut at Metropolis (M logo in runouts).    Copies with ABBEY ROAD in runouts belong to [r=23421197].  Runouts are stamped except for the M logo and Miles name which are etched.  [On back cover:]  ℗ 1965 Polydor Ltd. (UK). © 1965 Polydor Ltd. (UK). A Universal Music Company. [...] Made in the EU.  [On labels:] [...] Long Playing Microgroove Record Made in England. Brunswick Ltd. London.
-

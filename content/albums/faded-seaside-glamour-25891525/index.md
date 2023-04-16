@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 ---
-
 ## Tracklisting
 1. Wanderlust
 2. Nearer Than Heaven
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 10. Satellites Lost
 11. One Night Away
 12. On
+## Spotify
+{{< spotify type="album" id="5PJzOx3aaOjoAlMkV1kVEG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7mDZPbOmnTc" title="Delays - On" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 - [One Night Away](https://www.youtube.com/watch?v=rBJkHbvGd3k)
 - [On](https://www.youtube.com/watch?v=L2ylsxrjlLg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 | Catalog Number | RTRAD114LPX, RTRAD114LP |
 
 Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.  Catalogue number on slipcase is RTRAD114LPX Catalogue number on sleeve is RTRAD114LP ℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd. © 2022 Rough Trade Records Ltd.  Runouts are hand etched, 1I (looks like VI) is mirrored.
-

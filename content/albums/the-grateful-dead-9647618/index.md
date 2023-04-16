@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. The Golden Road (To Unlimited Devotion)
 2. Beat It On Down The Line
@@ -24,6 +23,8 @@ styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 7. Morning Dew
 8. New, New Minglewood Blues
 9. Viola Lee Blues
+## Spotify
+{{< spotify type="album" id="3edtzsZ1ykjQmc43fprRtJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7jIVt-0L_3Y" title="The Golden Road (2013 Remaster)" >}}
@@ -36,16 +37,13 @@ styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 - [Morning Dew (2013 Remaster)](https://www.youtube.com/watch?v=xlfcN93NS2Q)
 - [New New Minglewood Blues (2013 Remaster)](https://www.youtube.com/watch?v=rR7Tsima2Ck)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Grateful Dead - The Grateful Dead](https://www.discogs.com/release/9647618-The-Grateful-Dead-The-Grateful-Dead) |
-| Label          | Rhino Records (2) |
+| Label          | Rhino Records |
 | Format         | LP, Album, Ltd, Pic, RE |
 | Catalog Number |  R1 557478 |
 
 Limited Edition Of 10,000 50th Anniversary Edition
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 ---
-
 ## Tracklisting
 1. Hymn
 2. Feeling So Real
@@ -28,11 +27,11 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 11. Everything Is Wrong
 12. God Moving Over The Face Of The Waters
 13. When It's Cold I'd Like To Die
-
+## Spotify
+{{< spotify type="album" id="31qneFkDfKhjVNH0kqdhQ1" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -42,4 +41,3 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 | Catalog Number | STUMM 130 |
 
 If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.
-

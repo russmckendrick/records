@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
-
 ## Tracklisting
 1. Curious Electric
 2. Each And Everyday
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "Ambient"]
 8. One More Time
 9. Thunder
 10. A Play Within A Play
+## Spotify
+{{< spotify type="album" id="1BxJGQez8eRFmWQqHor7H3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Q-INz9nR1vg" title="Jon and Vangelis - Short Stories: I Hear You Now" >}}
@@ -40,9 +41,7 @@ styles: ["Synth-pop", "Ambient"]
 - [Jon and Vangelis - Bird Song](https://www.youtube.com/watch?v=RpJp1Wxmyfs)
 - [Jon and Vangelis - The Road](https://www.youtube.com/watch?v=AWLySXyfpv4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -52,4 +51,3 @@ styles: ["Synth-pop", "Ambient"]
 | Catalog Number | POLD 5030, 2442 169 |
 
 Recorded at London, England, 1979.  A Spheric Production.  All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979 ℗ 1979  © 1979  Includes printed inner sleeve with lyrics  Cassette POLDC 5030  Runout is stamped
-

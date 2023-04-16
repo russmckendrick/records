@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Never Know (5:23)
 2. #WarOnFalse (3:57)
@@ -25,14 +24,14 @@ styles: ["Alternative Rock"]
 8. The Light Under The Door (6:44)
 9. All About Waiting (5:03)
 10. Admiral Of Upside Down (5:28)
+## Spotify
+{{< spotify type="album" id="5hCY4mjnpM6AVa32C9DQDe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}
 - [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 538317510 |
 
 Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Johnny Appleseed (4:05)
 2. Cool'n'Out (4:17)
@@ -50,9 +49,7 @@ styles: null
 - [Joe Strummer & The Mescaleros ‎– Global A Go-Go](https://www.youtube.com/watch?v=EJktmPyX4L8)
 - [Joe Strummer & The Mescaleros ‎– Johnny Appleseed](https://www.youtube.com/watch?v=xU2WdDnLhTM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -60,6 +57,5 @@ styles: null
 | Label          | Hellcat Records |
 | Format         | 2xLP, Album, RE + CD, Album, RM |
 | Catalog Number | 80440-1 |
-
 
 

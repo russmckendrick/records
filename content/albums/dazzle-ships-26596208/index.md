@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Experimental"]
 ---
-
 ## Tracklisting
 1. Radio Prague (1:18)
 2. Genetic Engineering (3:42)
@@ -34,15 +33,15 @@ styles: ["Synth-pop", "Experimental"]
 17. Untitled Instrumental 82 (3:22)
 18. In Heaven Above (4-NEU Demo) (2:51)
 19. Telegraph (Live 1984) (3:50)
+## Spotify
+{{< spotify type="album" id="0cfgErKiWFnCFuJ51UMfJJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wy3IxefErus" title="Dazzle Ships (Parts II, III And VII)" >}}
 - [Telegraph](https://www.youtube.com/watch?v=keNcC2qn_LA)
 - [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -52,4 +51,3 @@ styles: ["Synth-pop", "Experimental"]
 | Catalog Number | 0602448814920 |
 
 An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited. Made in the EU.
-

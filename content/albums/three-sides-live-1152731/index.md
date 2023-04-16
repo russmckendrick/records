@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Turn It On Again
 2. Dodo
@@ -28,6 +27,8 @@ styles: ["Pop Rock", "Prog Rock"]
 11. One For The Vine
 12. Fountain Of Salmacis
 13. It / Watcher Of The Skies
+## Spotify
+{{< spotify type="album" id="5hvmL4yhRrws8Tpn9NoZpt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kAH3dLmqk5I" title="Genesis - Turn It On Again (Three Sides Live)" >}}
@@ -50,9 +51,7 @@ styles: ["Pop Rock", "Prog Rock"]
 - [Open Door - Genesis - Three Sides Live](https://www.youtube.com/watch?v=1B2TzXOa05M)
 - [Paperlate - Genesis - Three Sides Live](https://www.youtube.com/watch?v=lrz3pm2axPo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -62,4 +61,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | GE 2002 |
 
 Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.  ⓟ & © 1982 Charisma Records Ltd.  This version has no mention of "Virgin" on it. Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage" 
-

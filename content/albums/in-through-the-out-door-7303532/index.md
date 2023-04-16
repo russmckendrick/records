@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. In The Evening (6:48)
 2. South Bound Saurez (4:11)
@@ -22,14 +21,14 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 5. Carouselambra (10:28)
 6. All My Love (5:51)
 7. I'm Gonna Crawl (5:28)
+## Spotify
+{{< spotify type="album" id="1W5CtQ7Ng0kP3lXyz7PIT2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cdERUjC0rYw" title="Led Zeppelin - All Of My Love" >}}
 - [In the Evening (1990 Remaster)](https://www.youtube.com/watch?v=bJSJavz1AOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -39,4 +38,3 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 | Catalog Number | 8122796574 |
 
 Like the original version this LP is released in an outer sleeve which has been made to look like a plain brown paper bag with stamped details. Each cover shows an alternate angle of a man in a bar. The scenario was photographed from 6 different viewpoints within the bar and then 6 different sleeve variations were created (with the letters A–F at the top of the spine denoting each variation). The large format insert features a 'magic' ink in different colours which appear on the design when gently wetting.   Runouts are etched. Runout side B, variant 1: string '214' is inverted Runout side A, variant 3: string '1=' is inverted Runout side B, variant 3: string '2T' is inverted  [Sticker on shrink wrap:] The classic album on 180g vinyl Includes In The Evening & Fool In The Rain Remastered & produced by Jimmy Page  [Insert:] Recorded and mixed at Polar Music Studios · Stockholm  [Paper bag rear:] Swan Song Inc. ℗ & © 1975 Atlantic Recording Corporation, a Warner Music Group Company. [...] Printed in the EU.  [Labels:] ℗ & © 1979 Atlantic Recording Corporation. Manufactured in Germany.
-

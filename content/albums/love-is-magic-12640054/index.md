@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Metamorphosis
 2. Love Is Magic
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 8. Is He Strange
 9. The Common Snipe
 10. Touch And Go
+## Spotify
+{{< spotify type="album" id="0wtOX04qOsDIfH53NWJl54" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-qtTidRF2V0" title="John Grant - Love Is Magic (OFFICIAL VIDEO)" >}}
@@ -34,9 +35,7 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 - [John Grant - Love Is Magic (Album Trailer)](https://www.youtube.com/watch?v=mNFt_ECyFb8)
 - [John Grant - He's Got His Mother's Hips (Official Audio)](https://www.youtube.com/watch?v=KrogQsF1Qes)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 | Catalog Number | BELLA825V |
 
 Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.  Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.  C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.  Label Code and catalog number on spine.  Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.  ℗ & © 2018 Bella Union
-

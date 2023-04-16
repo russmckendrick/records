@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Losing You
 2. It's Goodbye And So Long To You
@@ -25,15 +24,15 @@ styles: null
 8. All Alone Am I
 9. Poison Love
 10. You Don't Know Me
+## Spotify
+{{< spotify type="album" id="0ZV0ADSGaNPIt9Avv3H0GG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LNtKPzHxKG8" title="Alison Krauss - Windy City" >}}
 - [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 - [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -43,4 +42,3 @@ styles: null
 | Catalog Number | 00602557037500 |
 
 Gatefold.  Includes free album download card
-

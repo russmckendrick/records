@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Make Some Noise
 2. Worked Out
@@ -31,9 +30,7 @@ styles: ["Prog Rock"]
 {{< youtube id="X4A4rFLUS84" title="Big Big Train - Leopards" >}}
 - [Big Big Train - The Permanent Way](https://www.youtube.com/watch?v=2gbwMI8RW6Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -43,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 0700613252192, PLG017 |
 
 Big Big Train's classic English Electric Part Two remastered for wider dynamic range and repressed in a final limited edition of 500 copies on double 180g transparent orange vinyl. Including one sided credit sheet. Gatefold sleeve    Combines all the tracks from the English Electric Part Two CD and the Make Some Noise EP.
-

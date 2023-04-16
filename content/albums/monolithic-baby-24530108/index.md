@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
-
 ## Tracklisting
 1. Slut Machine
 2. Supercruel
@@ -27,6 +26,8 @@ styles: ["Stoner Rock"]
 10. Too Bad
 11. Ultimate Everything
 12. CNN War Theme
+## Spotify
+{{< spotify type="album" id="5kqOX4CZI3cx6UooSlav4E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BrztzfOW7z4" title="Monster Magnet ‎– Slut Machine" >}}
@@ -46,9 +47,7 @@ styles: ["Stoner Rock"]
 - [Monster Magnet - Monolithic Baby! Interview](https://www.youtube.com/watch?v=lVkVq-2jdUU)
 - [Monster Magnet - Monolithic (HQ Live, London Astoria, England)](https://www.youtube.com/watch?v=DEgAHuAHQJ0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -58,4 +57,3 @@ styles: ["Stoner Rock"]
 | Catalog Number | NPR1066VINYL |
 
 Black vinyl edition.  Tracks C1, D3 mixed at Paramount Studios, CA.  Tim Cronin, eye of agamotto and the sum of all fears.  Magnet welcomes aboard Bob Pantella on drums.  Dedicated to the memory of Gerald F Wyndorf 1918-2003 "Love you Pop! See you on the other side!'  (45 RPM not mentioned anywhere on the cover/inlay/record.)
-

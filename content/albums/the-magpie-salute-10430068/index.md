@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Omission
 2. Comin' Home
@@ -25,6 +24,8 @@ styles: ["Blues Rock", "Classic Rock"]
 8. Fearless
 9. Glad And Sorry
 10. Time Will Tell
+## Spotify
+{{< spotify type="album" id="4wIMZUtT4EGh13GP78xgNj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wdCAGlj_jR0" title="The Magpie Salute - Comin' Home" >}}
@@ -33,9 +34,7 @@ styles: ["Blues Rock", "Classic Rock"]
 - [The Magpie Salute - Ain't No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
 - [The Magpie Salute - Wiser Time](https://www.youtube.com/watch?v=5tP_qkbDu5g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Blues Rock", "Classic Rock"]
 | Catalog Number | CARLP207 |
 
 Issued 2017 by Cargo Records Germany GmbH under license from Eagle Rock Entertainment Limited. Eagle Rock Entertainment is a Universal Music Group company. P 2017 Circle Sound LLC. under exclusive license to Woodstock Sessions LLC. Manufactured and distributed by Cargo Records Germany GmbH.
-

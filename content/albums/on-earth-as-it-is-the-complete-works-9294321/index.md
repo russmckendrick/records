@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Thru Fade Away
 2. Mindshaker Meltdown
@@ -36,15 +35,15 @@ styles: ["Alternative Rock"]
 19. Gentle Groove
 20. Mr. Danny Boy
 21. Crown of Thorns
+## Spotify
+{{< spotify type="album" id="3jYtS7SxY6Ams2qFinZx1Z" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="p9n9gW1wCks" title="Mother Love Bone - Stargazer" >}}
 - [Mother Love Bone - Chloe Dancer / Crown of Thorns](https://www.youtube.com/watch?v=lH0gnwtSEGI)
 - [Man Of Golden Words](https://www.youtube.com/watch?v=EM0wPIjmYbs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | B0025317-01 |
 
 Set Includes:   Shine EP - remastered vinyl   Apple LP - remastered vinyl   24 page booklet - lyrics, credits, and rare photos. 12" x 12" Envelope containing photo prints, 24 page zine, fold out poster, stencil and more!   Vinyl set is packaged in a slipcase replicating a Mother Love Bone wall mural painted by Jeff Ament  A limited number of sets received also an "Happy Holidays greeting card" signed by each member of Mother Love Bone. "These cards were uncovered from the Mother Love Bone / Love Co. deep archives."
-

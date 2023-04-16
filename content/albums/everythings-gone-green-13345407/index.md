@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Electro"]
 ---
-
 ## Tracklisting
 1. Everythings Gone Green (5:31)
 2. Cries And Whispers (3:26)
@@ -22,9 +21,7 @@ styles: ["New Wave", "Electro"]
 ## Videos
 {{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -32,6 +29,5 @@ styles: ["New Wave", "Electro"]
 | Label          | Factory Benelux |
 | Format         | 12\", RE, RM, 180 |
 | Catalog Number | FBN 8 |
-
 
 

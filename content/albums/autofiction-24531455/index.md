@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. She Still Leads Me On (4:08)
 2. Personality Disorder (4:00)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. It's Always The Quiet Ones (4:12)
 10. What Am I Without You? (6:17)
 11. Turn Off Your Brain And Yell (5:54)
+## Spotify
+{{< spotify type="album" id="6yLKyq7x7ZCpL7p99smtsO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vFzylluzzws" title="🔴Suede – Complete A Side [ Autofiction Special Edition, Grey LP ]🔴" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Suede - Black Ice (Official Audio)](https://www.youtube.com/watch?v=HRLD56ZdmkY)
 - [Suede - Personality Disorder (Official Audio)](https://www.youtube.com/watch?v=b1819WD12IA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 538804791 |
 
 'Bricks and Mortar'* exclusive colour  *Independent and HMV retail and online shops  Gatefold sleeve  Manufactured In Czech Republic
-

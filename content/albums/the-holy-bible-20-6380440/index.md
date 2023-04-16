@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Holy Bible
 2. Yes
@@ -93,6 +92,8 @@ styles: ["Alternative Rock"]
 76. Faster
 77. PCP
 78. This Is Yesterday
+## Spotify
+{{< spotify type="album" id="7FiPNXyrCGGWFqO4btxPEe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4ZNGdD0Hxss" title="Yes (Remastered)" >}}
@@ -107,9 +108,7 @@ styles: ["Alternative Rock"]
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 02 ifwhiteamericatoldthetruthforoneday](https://www.youtube.com/watch?v=IGI14Al5GS4)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 01 Yes](https://www.youtube.com/watch?v=2dMTuV9Y2tk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -119,4 +118,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 88875036002 |
 
 The first 1000 copies of The Holy Bible 20 box set bought from the Manics’ online store include a copy of the book signed by the band. The [first run](http://www.discogs.com/Manic-Street-Preachers-The-Holy-Bible-20/release/6396839) lists 4st 7lb as the last track on side A on the centre labels but is pressed at position B7 as here.  ℗ & © 1994 / 2014 Sony Music Entertainment. Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Package (7:40)
 2. Weak And Powerless (3:15)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 10. Pet (4:34)
 11. Lullaby (2:01)
 12. Gravity (5:08)
+## Spotify
+{{< spotify type="album" id="49K6hYDEr5M3GxIBBxlPf9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="m2Yhn6-jJPE" title="The Package" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [A Perfect Circle - Outsider (Director's Cut)](https://www.youtube.com/watch?v=KO3l733WRN0)
 - [07. The Outsider - A Perfect Circle](https://www.youtube.com/watch?v=nzyNWyZhUS0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | MOVLP1114 |
 
 Pressing plant uncredited, identified by matrix numbers   Sticker says: "Music On Vinyl Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Original release Ⓟ 2003 Virgin Records America, Inc.  This release Ⓟ & Ⓒ 2014 Universal Music B.V.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Bring It On Down (Liquidized Mix) (10:39)
 2. Cut & Dried (3:44)
@@ -33,6 +32,8 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 16. Right Here Right Now (Instrumental)
 17. Right Here Right Now (CJM Mix)
 18. Zeroes And Ones (The Prodigy Versus Jesus Jones Mix)
+## Spotify
+{{< spotify type="album" id="5nEsrcazvAhWAjijlzvKKU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xBrqzeyZtgc" title="Jesus Jones - Starting From Scratch" >}}
@@ -56,9 +57,7 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 - [Jesus Jones - Zeroes & Ones [The Prodigy Versus Jesus Jones Mix]](https://www.youtube.com/watch?v=24_9eyOoslg)
 - [Jesus Jones - International Bright Young Thing (Phil Harding 12 Mix)](https://www.youtube.com/watch?v=FkCI_DO4l1o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -68,4 +67,3 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 | Catalog Number | DEMREC985 |
 
 180g   Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.  Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)".   ℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings. 
-

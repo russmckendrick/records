@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Boy From Michigan
 2. County Fair
@@ -27,6 +26,8 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 10. Your Portfolio
 11. The Only Baby
 12. Billy
+## Spotify
+{{< spotify type="album" id="5NQjznG8qdcW1Hhz7VxESD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ecBpAwovikg" title="John Grant - Boy from Michigan (Official Video)" >}}
@@ -35,9 +36,7 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 - [John Grant - Billy (Official Video)](https://www.youtube.com/watch?v=6eHAg7TuYjw)
 - [John Grant - The Only Baby (Official Lyric Video)](https://www.youtube.com/watch?v=Lit7cPfkUYo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +46,3 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 | Catalog Number | BELLA1220V, PTKF3010-1 |
 
 Deluxe velvet O-card with gatefold sleeve, 140g vinyl. Includes 2 art prints (one signed), 36 page staple bound photo booklet and 4 page lyric booklet. MP3 download card included.  Signed edition available direct from the Bella Union Store.  Recorded at Moon Zero Two Studio, Hljodriti Studio and Green House Studio all in Reykjavik. Mixed at Sea Horse Sound Studios, LA, USA.  ℗ & © 2021 Bella Union Under license to [PIAS]
-

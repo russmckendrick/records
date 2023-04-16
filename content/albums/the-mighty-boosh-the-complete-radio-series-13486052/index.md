@@ -13,7 +13,6 @@ cover:
 genres: ["Non-Music"]
 styles: ["Comedy", "Radioplay"]
 ---
-
 ## Tracklisting
 1. Stolen
 2. Jungle
@@ -30,9 +29,7 @@ styles: ["Comedy", "Radioplay"]
 - [The Mighty Boosh - Radio Show EP 5 - Tundra](https://www.youtube.com/watch?v=ezF1qRBg1u8)
 - [The Mighty Boosh - Radio Show EP 1 - Taken](https://www.youtube.com/watch?v=3OZN1zyS7gY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +39,3 @@ styles: ["Comedy", "Radioplay"]
 | Catalog Number | DEMRECBOX33 |
 
 Exclusively for Record Store Day 2019 Demon Records goes on a journey through time and space to the world of the Mighty Boosh.  This is the classic BBC Radio 4 comedy which launched the careers of writers and leads Noel Fielding and Julian Barratt. This is the first time the series appears on vinyl and presents the surreal world of the Zooniverse on 3 pieces of spectacular Boosh coloured 180g vinyl.  Housed in a gatefold sleeve with brand new artwork by Noel Fielding, Dave Brown and featuring sleeve notes by Julian Barrett.    Limited to 1500 copies
-

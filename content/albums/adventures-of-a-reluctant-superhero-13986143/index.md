@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Endtro
 2. Guard The Fort 
@@ -29,6 +28,8 @@ styles: null
 12. Stay Tuned
 13. Heartbroken
 14. Skillz
+## Spotify
+{{< spotify type="album" id="6arS2YInQ8Rd0hrH6tJGpO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Zzs5wXa3-Jk" title="Stay Tuned - Chali 2na and Krafty Kuts" >}}
@@ -49,9 +50,7 @@ styles: null
 - [Hands High](https://www.youtube.com/watch?v=c9JFNWYp9Lo)
 - [Distance](https://www.youtube.com/watch?v=qi0unYZA5Fg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,4 +60,3 @@ styles: null
 | Catalog Number | MANP 001LP |
 
 Includes printed sleeve/liner, 8-page comic & digital download.
-

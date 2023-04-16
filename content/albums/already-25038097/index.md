@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Next Big Thing (4:01)
 2. Run On Empty (3:13)
@@ -27,6 +26,8 @@ styles: ["Synth-pop"]
 10. For A Moment (3:31)
 11. Addiction, Obsession & Me (4:19)
 12. February (6:43)
+## Spotify
+{{< spotify type="album" id="2wmJuC0TkLgWMCGSJ56yvU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ud3KQDAWVlM" title="The Next Big Thing" >}}
@@ -43,9 +44,7 @@ styles: ["Synth-pop"]
 - [Look Out Tomorrow](https://www.youtube.com/watch?v=k4b9uKmNln8)
 - [Addiction Obsession And Me](https://www.youtube.com/watch?v=SHnseuIdK60)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -53,6 +52,5 @@ styles: ["Synth-pop"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Cle |
 | Catalog Number | DEMREC955 |
-
 
 

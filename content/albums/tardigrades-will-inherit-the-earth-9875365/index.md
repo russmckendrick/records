@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Saltatio Mortis (1:57)
 2. Animal Army (5:00)
@@ -40,15 +39,15 @@ styles: ["Prog Rock"]
 23. Hallelujah (5:50)
 24. The Andromeda Strain (2:56)
 25. Stranger Than Fiction (9:21)
+## Spotify
+{{< spotify type="album" id="1IzlWLCqcCMHKjk6kZf3Bz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AlmmvkV5olE" title="THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)" >}}
 - [THE MUTE GODS - We Can't Carry On (Lyric Video)](https://www.youtube.com/watch?v=SyjNard5ers)
 - [The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)](https://www.youtube.com/watch?v=mp_bqHtKBAM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -58,4 +57,3 @@ styles: ["Prog Rock"]
 | Catalog Number | IOMLP 474, 88985405511 |
 
 Sleeve Gatefold Mirror Man: Michael Grassi Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).  Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43  InsideOut Music provided signed postcard from Nick Beggs with purchase of LP
-

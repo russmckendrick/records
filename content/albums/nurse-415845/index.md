@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Nausea (3:56)
 2. Teethgrinder (3:26)
@@ -25,6 +24,8 @@ styles: ["Indie Rock"]
 8. Zipless (2:53)
 9. Deep Sleep (5:14)
 10. Hypermania (2:48)
+## Spotify
+{{< spotify type="album" id="0hCWVATXp9l0GyyTUD7OLn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="a9BmmGM9bSY" title="Therapy? - Nausea" >}}
@@ -40,9 +41,7 @@ styles: ["Indie Rock"]
 - [Therapy?  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)
 - [Therapy - Hypermania](https://www.youtube.com/watch?v=Yj0AGitctVg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -52,4 +51,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 540 044-1 |
 
 The records has a printed inner and outer sleeve.  Rear sleeve: Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.  ℗ 1992 A&M Records Ltd, London.  Side B face label: The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Pull Me Under (8:11)
 2. Another Day (4:22)
@@ -23,14 +22,14 @@ styles: ["Prog Rock", "Progressive Metal"]
 6. Under A Glass Moon (7:02)
 7. Wait For Sleep (2:31)
 8. Learning To Live (11:30)
+## Spotify
+{{< spotify type="album" id="2QgGoL5VSQhPHudTObS7zK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}
 - [Dream Theater - Another Day [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=LYtiDCXLAcQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -40,4 +39,3 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Catalog Number | MOVLP780 |
 
 180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics  Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991 Additional recording at The Hit Factory, NYC.  Originally released ℗ & © 1992 ATCO Records This release ℗ & © 2013 Warner Music Made in the EU
-

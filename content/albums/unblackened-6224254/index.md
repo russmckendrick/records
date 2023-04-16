@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Losin' Your Mind (5:47)
 2. The Blessed Hellride (4:23)
@@ -38,6 +37,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 21. Song For You (5:08)
 22. Won't Find It Here (Unplugged) (6:55)
 23. Yesterday, Today, Tomorrow (4:45)
+## Spotify
+{{< spotify type="album" id="7jcmfcpTGkbvPHt3CExdG2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PH8An0MFF2A" title="Sold My Soul - Black Label Society (Unblackened)" >}}
@@ -49,9 +50,7 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
 - [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -61,4 +60,3 @@ styles: ["Hard Rock", "Heavy Metal"]
 | Catalog Number | VV3LP011 |
 
 Vinyl Vault is proud to present Unblackened, the new live album from Zack Wylde’s legendary heavy rock outfit Black Label Society recorded in 2013 at Los Angeles’ Club Nokia. BLS present their songs in a way never heard before, with greater use of acoustic instrumentation and a stripped down approach that will leave you floored by the subtlety and intricacies of their songwriting. Despite this the band retain their intensity and lose none of their power with stinging, searing solos that fans know and love featuring throughout on classics such as ‘Stillborn, ‘The Blessed Hellride’ and ‘Throwin’ It All Away’.  This 3LP set also features six additional tracks not found on the DVD concert release including two acoustic versions of “Queen Of Sorrow” and “Won’t Find It Here,” and covers of Leon Russel’s “Song For You” and “Aint No Sunshine” by Bill Withers. 
-

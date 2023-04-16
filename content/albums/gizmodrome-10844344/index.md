@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Zombies In The Mall (4:00)
 2. Stay Ready (4:02)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Spin This (6:10)
 11. I Know Too Much (3:47)
 12. Stark Naked (4:04)
+## Spotify
+{{< spotify type="album" id="0jwNBwTZLL5opYhcGwh5pD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock"]
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
 - [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 0212264EMU |
 
 Gatefold sleeve, printed inner.  Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)". Made in Germany.
-

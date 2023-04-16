@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. A New Decade
 2. This Is Music
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. Life's An Ocean
 11. Stormy Clouds
 12. (Reprise)
+## Spotify
+{{< spotify type="album" id="4V8NUW8yUln846aiOZ8ANR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PgsPAsno4OU" title="The Verve - This Is Music" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 - [The Verve - Stormy Clouds (1995) HD w/lyrics](https://www.youtube.com/watch?v=ISt2zpysAmk)
 - [The Verve: A Northern Soul: Reprise](https://www.youtube.com/watch?v=Cv99r9pOSIs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 | Catalog Number | 4786539 |
 
 Originally released 1995 as [HUTLP27](https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054). Includes printed innersleeves.  Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media.
-

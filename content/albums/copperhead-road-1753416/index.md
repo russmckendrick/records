@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Copperhead Road (4:28)
 2. Snake Oil (3:29)
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Country Rock"]
 8. Waiting On You (5:07)
 9. Once You Love (4:42)
 10. Nothing But A Child (4:27)
+## Spotify
+{{< spotify type="album" id="6IjDVtuYfRW1KjqQy2UzPJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bbEIS1q6GZ0" title="Steve Earle - Back To The Wall" >}}
@@ -34,9 +35,7 @@ styles: ["Folk Rock", "Country Rock"]
 - [Steve Earle & The Pogues  - Johnny Come Lately](https://www.youtube.com/watch?v=oLJ9u4hfz3M)
 - [Steve Earle - Copperhead Road](https://www.youtube.com/watch?v=uhMO9azmKNU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -46,4 +45,3 @@ styles: ["Folk Rock", "Country Rock"]
 | Catalog Number | MCF 3426 |
 
 ℗ & © 1988 UNI Records, Inc. Original sound recordings made by UNI Records, Inc. MCA Records Ltd. are the exclusive licensees for the U.K. Made in England All tracks Pub. BMG Music Pub. Ltd except B4 Chappell Music Ltd.
-

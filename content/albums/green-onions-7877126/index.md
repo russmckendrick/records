@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul", "Funk"]
 ---
-
 ## Tracklisting
 1. Green Onions
 2. Rinky-Dink
@@ -27,6 +26,8 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 10. I Can't Sit Down
 11. A Woman, A Lover, A Friend
 12. Comin' Home Baby
+## Spotify
+{{< spotify type="album" id="2aGFVLz0oQPa3uxCfq9lcU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0oox9bJaGJ8" title="Booker T. & The MG's - Green Onions (Official Audio)" >}}
@@ -42,9 +43,7 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 - [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
 - [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,6 +51,5 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 | Label          | DOL |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | DOL1517H |
-
 
 

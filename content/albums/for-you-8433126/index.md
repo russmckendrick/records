@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Side One
 2. For You (1:06)
@@ -26,6 +25,8 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 9. My Love Is Forever (4:09)
 10. So Blue (4:26)
 11. I'm Yours (5:01)
+## Spotify
+{{< spotify type="album" id="0IofYnPCppEIKAJmc517JS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2-hcFcWYM08" title="For You" >}}
@@ -38,9 +39,7 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 - [So Blue](https://www.youtube.com/watch?v=UeWse9WsnFA)
 - [I'm Yours](https://www.youtube.com/watch?v=lk5avOf5tqY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 | Catalog Number | 9362-49220-9 |
 
 Original 1978 vinyl mastering by Bernie Grundman at A&M (artwork) Reissue 2016 vinyl mastering by Kevin Gray at Cohearant Audio (matrix/runout)
-

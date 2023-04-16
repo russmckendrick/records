@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
-
 ## Tracklisting
 1. I Have Seen (5:06)
 2. Polaris (4:48)
@@ -26,6 +25,8 @@ styles: ["Downtempo"]
 9. Out Of Town (4:47)
 10. This World (5:36)
 11. Likufanele (6:24)
+## Spotify
+{{< spotify type="album" id="1VRBB9iu84o3g16CczH9iH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}
@@ -33,9 +34,7 @@ styles: ["Downtempo"]
 - [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +44,3 @@ styles: ["Downtempo"]
 | Catalog Number | NEW9253LPC |
 
 Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies
-

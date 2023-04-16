@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Use Your Loaf
 2. Surplus And Scarcity
@@ -33,9 +32,7 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 - [The Nightingales - Gales Doc](https://www.youtube.com/watch?v=jDeAxCQIcGM)
 - [King Rocker Trailer](https://www.youtube.com/watch?v=VukUbf6DPyY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +42,3 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 | Catalog Number | KROCK001LP |
 
 Comes in a plain black paper inner sleeve Sleeve notes by Stewart Lee Contains A3 theatrical poster for film and curry menu from Abdul’s in Birmingham Also contains download card
-

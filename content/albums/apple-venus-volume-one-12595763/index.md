@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. River Of Orchids (5:53)
 2. I’d Like That (3:50)
@@ -36,9 +35,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [XTC - Apple Venus Demos - I'm Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
 - [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,6 +43,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Label          | Ape House |
 | Format         | LP, Album, RE, 200 |
 | Catalog Number | APELP118 |
-
 
 

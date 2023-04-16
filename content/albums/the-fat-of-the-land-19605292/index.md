@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Breaks"]
 ---
-
 ## Tracklisting
 1. Smack My Bitch Up
 2. Breathe
@@ -25,6 +24,8 @@ styles: ["Breakbeat", "Breaks"]
 8. Firestarter
 9. Climbatize
 10. Fuel My Fire
+## Spotify
+{{< spotify type="album" id="2qivROlvQ8BcUKTaCA7dL2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wmin5WkOuPw" title="The Prodigy - Firestarter (Official Video)" >}}
@@ -40,9 +41,7 @@ styles: ["Breakbeat", "Breaks"]
 - [Climbatize](https://www.youtube.com/watch?v=YW2nvdDpoyA)
 - [Fuel My Fire](https://www.youtube.com/watch?v=YjypgWMj_gI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +51,3 @@ styles: ["Breakbeat", "Breaks"]
 | Catalog Number | XL121LPE2, XLLP 121 |
 
 Limited edition of 1000 copies.  ℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997.
-

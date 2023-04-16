@@ -13,7 +13,6 @@ cover:
 genres: ["Classical"]
 styles: ["Contemporary"]
 ---
-
 ## Tracklisting
 1. CHRYSALIS
 2. SEAHORSE
@@ -25,13 +24,13 @@ styles: ["Contemporary"]
 8. FOREST WHISPERS
 9. SAIL WAVE
 10. AWAKENING
+## Spotify
+{{< spotify type="album" id="6mUYoTNQMMvo99Jj97DTeG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qiymWhnJO50" title="AVAWAVES - AWAKENING (Official video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -39,6 +38,5 @@ styles: ["Contemporary"]
 | Label          | One Little Independent Records |
 | Format         | LP, Album |
 | Catalog Number | TPLP1597 |
-
 
 

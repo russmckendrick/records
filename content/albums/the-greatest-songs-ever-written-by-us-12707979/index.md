@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Dinosaurs Will Die (2:51)
 2. Linoleum (2:06)
@@ -42,6 +41,8 @@ styles: ["Punk"]
 25. Franco Un-American (2:27)
 26. Kill All The White Man (2:49)
 27. Wore Out The Soles Of My Party Boots (2:05)
+## Spotify
+{{< spotify type="album" id="3ibgs75uFxEL3JNmBGXY7E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4Ik09xFT6mk" title="NOFX - Don't Call Me White" >}}
@@ -57,9 +58,7 @@ styles: ["Punk"]
 - [NOFX - Stickin in My Eye](https://www.youtube.com/watch?v=LGY-RDRu98U)
 - [NOFX - It's My Job to Keep Punk Rock Elite](https://www.youtube.com/watch?v=tMl26jQtvTM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -69,4 +68,3 @@ styles: ["Punk"]
 | Catalog Number | 6727-1 |
 
 Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies.
-

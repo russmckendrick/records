@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Side One
 2. Here Comes The Future (4:44)
@@ -37,6 +36,8 @@ styles: ["Alternative Rock"]
 20. Little Bit Of Perfection  (5:26)
 21. 'Til I Got You (3:42)
 22. Always On My Mind (8:34)
+## Spotify
+{{< spotify type="album" id="62LAXcFArJMqe9UFSaGnJc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4Bc56d0jtdk" title="World Party - What Does It Mean Now?" >}}
@@ -49,9 +50,7 @@ styles: ["Alternative Rock"]
 - [See the Light](https://www.youtube.com/watch?v=9oWxP5Pk8Wc)
 - [World Party - Always On My Mind](https://www.youtube.com/watch?v=rN1GCf3MwoE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -61,4 +60,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | Seaview 5LP  |
 
 180 gram vinyl reissue. This 2 LP version is first time on vinyl.  This release combines the tracks from the original 2000 UK CD release and the 2006 US CD release and adds "I Want to Be Free," "Words" and "Photograph."  Spine erroneously reads "Private Revolution."  Lyrics for "Who Are You?" are actually those of "What Does It Mean Now?"  Rear cover & labels: Manufactured in the USA.
-

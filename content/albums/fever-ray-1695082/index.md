@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Electro", "Ambient", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. If I Had A Heart
 2. When I Grow Up
@@ -25,6 +24,8 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 8. I'm Not Done
 9. Keep The Streets Empty For Me
 10. Coconut
+## Spotify
+{{< spotify type="album" id="019nA7vSKz0dD5yRKYRpbM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EBAzlNJonO8" title="Fever Ray 'If I Had A Heart'" >}}
@@ -40,9 +41,7 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 - [Fever Ray 'Keep The Streets Empty For Me'](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
 - [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -52,4 +51,3 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 | Catalog Number | RABIDT039 |
 
 Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
-
 ## Tracklisting
 1. Anything Was Better
 2. As We Live
@@ -29,6 +28,8 @@ styles: ["Punk", "Ska"]
 12. Love Never Dies
 13. Afterthought
 14. Alien
+## Spotify
+{{< spotify type="album" id="3kY1OhkaStCboWLSBTIfvg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KWvN78Z8YU8" title="The Interrupters - Anything Was Better (Lyric Video)" >}}
@@ -47,9 +48,7 @@ styles: ["Punk", "Ska"]
 - [Afterthought](https://www.youtube.com/watch?v=d7IN2vVQ-Go)
 - [Alien](https://www.youtube.com/watch?v=wijkVQ4ela8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -59,4 +58,3 @@ styles: ["Punk", "Ska"]
 | Catalog Number | 0543-1 |
 
 White (EU/UK indie store exclusive)
-

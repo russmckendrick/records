@@ -1,6 +1,6 @@
 ---
-title: "Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume One"
-artist: "Kyle Dixon (2) & Michael Stein (9)"
+title: "Kyle Dixon & Michael Stein - Stranger Things (A Netflix Original Series) Original Music • Volume One"
+artist: "Kyle Dixon & Michael Stein"
 album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume One"
 date: 2016-11-14
 release_id: "9353409"
@@ -8,12 +8,11 @@ slug: "stranger-things-a-netflix-original-series-original-music-volume-one-93534
 hideSummary: true
 cover:
     image: "stranger-things-a-netflix-original-series-original-music-volume-one-9353409.jpg"
-    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon (2) & Michael Stein (9)"
-    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon (2) & Michael Stein (9)"
+    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon & Michael Stein"
+    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon & Michael Stein"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
-
 ## Tracklisting
 1. Stranger Things
 2. Kids
@@ -69,16 +68,13 @@ styles: ["Soundtrack", "Score"]
 - [What Else Is There to Do?](https://www.youtube.com/watch?v=rzoQ6O-1FbM)
 - [You Can Talk to Me](https://www.youtube.com/watch?v=rdNF1ekZF3E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume One](https://www.discogs.com/release/9353409-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-One) |
+| Discogs Link   | [Kyle Dixon & Michael Stein - Stranger Things (A Netflix Original Series) Original Music • Volume One](https://www.discogs.com/release/9353409-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-One) |
 | Label          | Invada, Netflix, Lakeshore Records |
 | Format         | 2xLP, Album, Ltd, Blu |
 | Catalog Number | INV176LP |
 
 Mastered at Audiosiege Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits.
-

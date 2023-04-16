@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Something So Strong
 2. Weather With You
@@ -34,6 +33,8 @@ styles: null
 17. Not The Girl You Think You Are
 18. Nails In My Feet
 19. Pour Le Monde
+## Spotify
+{{< spotify type="album" id="3XLP6DCTfz8eQkORPdfvvy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Video)" >}}
@@ -41,9 +42,7 @@ styles: null
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -53,4 +52,3 @@ styles: null
 | Catalog Number | 5784759 |
 
 [Sticker on front cover]: "Limited Edition Orange Vinyl" 180 gram vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. The Man In Me (3:08)
 2. Her Eyes Are A Blue Million Miles (2:54)
@@ -42,16 +41,13 @@ styles: ["Soundtrack"]
 - [Stamping Ground (Instrumental)](https://www.youtube.com/watch?v=FZHc_HEncwc)
 - [Townes Van Zandt - Dead Flowers (Official Audio)](https://www.youtube.com/watch?v=8ApA2W8f2vg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Various - The Big Lebowski  (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13075622-Various-The-Big-Lebowski-Original-Motion-Picture-Soundtrack) |
-| Label          | Mondo (3), Universal Music Special Markets, Mercury |
+| Label          | Mondo, Universal Music Special Markets, Mercury |
 | Format         | LP, Album, Comp, RE, 180 |
 | Catalog Number | MOND-149 |
 
 Black vinyl version. Gatefold sleeve and obi strip.
-

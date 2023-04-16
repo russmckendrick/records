@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Dare
 2. The Things That Dreams Are Made Of (4:14)
@@ -70,9 +69,7 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ## Videos
 {{< youtube id="NUFi1m0oVfQ" title="The HumanLeague - Dare! - 1981 /LP Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -82,4 +79,3 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 | Catalog Number | 358694, 00602435869407 |
 
 Coloured vinyl box set of the Human League MK II. Comprises  Dare - Turquoise vinyl Fascination - Lime Green vinyl Hysteria - Yellow vinyl Crash - Red vinyl Romantic? - Crystal Clear vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Sunshine Rock (3:09)
 2. What Do You Want Me To Do (2:31)
@@ -27,15 +26,15 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 10. Camp Sunshine (3:04)
 11. Send Me A Postcard  (2:35)
 12. Western Sunset (3:20)
+## Spotify
+{{< spotify type="album" id="3Ppeh02131RsLjih5e4Yjj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZHQUyZnS7qo" title="Bob Mould Sunshine Rock" >}}
 - [Bob Mould - Lost Faith (Official Music Video)](https://www.youtube.com/watch?v=k5F-aj171QM)
 - [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -43,6 +42,5 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 | Label          | Merge Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | MRG650 |
-
 
 

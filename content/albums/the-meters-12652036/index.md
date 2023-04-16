@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Bayou Funk"]
 ---
-
 ## Tracklisting
 1. Cissy Strut (3:00)
 2. Here Comes The Meter Man (2:49)
@@ -27,6 +26,8 @@ styles: ["Bayou Funk"]
 10. Ann (2:40)
 11. Stormy (3:32)
 12. Simple Song (2:56)
+## Spotify
+{{< spotify type="album" id="1Nt14TE6bKZGzJrROip36y" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bzjGeyW0MpE" title="The Meters- Cardova" >}}
@@ -46,9 +47,7 @@ styles: ["Bayou Funk"]
 - [The Meters - Stormy](https://www.youtube.com/watch?v=i-ShsT4aKHU)
 - [Sing a Simple Song](https://www.youtube.com/watch?v=7VT9MTLEDWw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -58,4 +57,3 @@ styles: ["Bayou Funk"]
 | Catalog Number | MOVLP2195 |
 
 Tracks A1 to B4 published by Marsaint Music BMI.  B5 published by LowSal Music BMI. B6 published by Daly City Music BMI.   Josie Records/Nationally distributed by Jay-Gee Record Co., Inc.  A subsidiary of Jubilee Industries, Inc. 1790 Broadway, N.Y., N.Y. 10019   Originally released ℗ & © 1970 Josie Records.  Manufactured & distributed by Music On Vinyl B.V. 2018, under exclusive license from Warner Music Benelux B.V:, a Warner Music Group Company.   Comes with plastic protective LP outer sleeve with sticker "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com" and black paper anti-static inner sleeve. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. There Goes My Baby (2:11)
 2. (If You Cry) True Love, True Love (2:17)
@@ -27,6 +26,8 @@ styles: ["Rhythm & Blues", "Soul"]
 10. Under The Boardwalk (2:40)
 11. I've Got Sand In My Shoes (2:48)
 12. Saturday Night At The Movies (2:26)
+## Spotify
+{{< spotify type="album" id="4PfgUTGoURqbID40xeSIRP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yIkjFhoW2ns" title="The Drifters - Saturday Night At The Movies" >}}
@@ -40,9 +41,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [The Drifters - I've Got Sand In My Shoes - Stereo LP - HQ](https://www.youtube.com/watch?v=dWoC8puTaoM)
 - [The Drifters - On Broadway - Stereo LP - HQ](https://www.youtube.com/watch?v=KUMvG0yNPtY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -52,4 +51,3 @@ styles: ["Rhythm & Blues", "Soul"]
 | Catalog Number | K 40018 |
 
 An Atlantic Record, distributed by WEA Records Ltd.
-

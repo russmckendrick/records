@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. 5 A.M.
 2. Rattle That Lock
@@ -25,6 +24,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 8. The Girl In The Yellow Dress
 9. Today
 10. And Then...
+## Spotify
+{{< spotify type="album" id="1gquhHnaFnshQuJGnHRpF9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lIoflO7R480" title="David Gilmour - 5 A.M. (Official Audio)" >}}
@@ -39,9 +40,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 - [David Gilmour - And Then... (Official Audio)](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
 - [David Gilmour, Rattle That Lock (Albun completo)](https://www.youtube.com/watch?v=HMJl3gq2Ows)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -51,4 +50,3 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Catalog Number | 88875123291 |
 
 Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions. [Download card of CD version (mp3)](http://www.discogs.com/release/9200296). Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release.
-

@@ -13,9 +13,10 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Weekender (12:53)
+## Spotify
+{{< spotify type="album" id="0eGHvvZlC3ORwvDcTwyrJg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Gn2GYzJjR2I" title="Flowered Up - Weekender (12 version)" >}}
@@ -34,9 +35,7 @@ styles: ["Indie Rock"]
 - [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | HVN 16 |
 
 Recorded at Westside Studios, London.  © 1992 Sony Music Entertainment (UK) Ltd. ℗ 1992 Sony Music Entertainment (UK) Ltd.
-

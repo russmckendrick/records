@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 ---
-
 ## Tracklisting
 1. Push It Along (7:42)
 2. Luck Of Lucien (4:32)
@@ -33,6 +32,8 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 16. Footprints (Remix) (5:08)
 17. Bonita Applebum (Pharrell Williams Remix) (3:53)
 18. Can I Kick It? (J. Cole Remix) (2:49)
+## Spotify
+{{< spotify type="album" id="3kV0i1qqudjf0PGawJ4jck" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="T6a8N2CjNRU" title="Push It Along" >}}
@@ -50,9 +51,7 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 - [Go Ahead In the Rain](https://www.youtube.com/watch?v=T1CnUKAxgF4)
 - [Description of a Fool](https://www.youtube.com/watch?v=DirRhRgwtes)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -62,4 +61,3 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 | Catalog Number | 88875172371 |
 
 25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.
-

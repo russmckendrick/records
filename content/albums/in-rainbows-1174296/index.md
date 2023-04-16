@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. 15 Step (3:57)
 2. Bodysnatchers (4:02)
@@ -25,11 +24,11 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 8. House Of Cards (5:28)
 9. Jigsaw Falling Into Place (4:09)
 10. Videotape (4:40)
-
+## Spotify
+{{< spotify type="album" id="5vkqYmiPBYLaalcmjujWxK" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -39,4 +38,3 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 | Catalog Number | XLLP 324 |
 
 Track durations and BPM are not present on the record. BPM: A1: 95 | A2: 162-174 | A3: 130-133 | A4: 151-155 | A5: 87-89 B1: 95 | B2: 103-106 | B3: 112 | B4: 157-169 | B5: 78  Matte cover. Heavy cardstock printed inner sleeve with lyrics and credit notes. Inside cover and inner sleeve are black lined in colour  ℗ 2007 Xurbia Xendless Limited exdlusively lisensed to XL Recordings © 2007 Xurbia Xendless Limited exclusively licensed to XL Recordings Made in Europe / Published by Warner Chappell Music Publishing Ltd  Dedicated to: Jesse, Salovador, Agnes Mair, Omri, Asa + Oona In memory of Allegra 'Lola' Katan + Thea Selway   How to differ this "EU 2007 original" release from the almost identical "EU 2016 repress" [r8605874] (see also newly added images nr 7-10):  - Outer sleeve thickness   EU 2007 original have 5-6 mm thickness   EU 2016 repress have 4 mm thickness  - Corner cut inside outer sleeve:   EU 2007 original have straight cut   EU 2016 repress have angled cut  - Inner sleeve thickness:   EU 2007 original have thicker cardboard paper   EU 2016 repress have thinner paper  - Label sticker surface:   EU 2007 original have matte grey label stickers   EU 2016 repress have semi-glossy darker grey stickers
-

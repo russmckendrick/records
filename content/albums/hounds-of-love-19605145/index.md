@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Hounds Of Love
 2. Running Up That Hill (A Deal With God)
@@ -29,6 +28,8 @@ styles: ["Art Rock", "Pop Rock"]
 12. Jig Of Life
 13. Hello Earth
 14. The Morning Fog
+## Spotify
+{{< spotify type="album" id="5G5UwqPsxDKpxJLX4xsyuh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wp43OdtAAkM" title="Kate Bush - Running Up That Hill - Official Music Video" >}}
@@ -36,9 +37,7 @@ styles: ["Art Rock", "Pop Rock"]
 - [Kate Bush - Hounds of Love - Official Music Video](https://www.youtube.com/watch?v=VerK4zwMRQw)
 - [Kate Bush - Cloudbusting - Official Music Video](https://www.youtube.com/watch?v=pllRW9wETzw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Art Rock", "Pop Rock"]
 | Catalog Number | 0190296729041, 0190295593865 |
 
 No. 4 in HMV's exclusive run of classic albums on coloured vinyl to celebrate their 100th anniversary. Released in a matte full picture sleeve with exclusive obi, lyrics inner sleeve (also matte).  Each album is unique in that they are pressed with recycled vinyl of various colours. 1500 copies pressed. Applied to the shrink-wrap may be one or more merchant retailing stickers. Additionally, there is a white circular hype sticker which has the text in the same font as the sleeve.  The new barcode and catalogue number are printed on the silver card Obi strip.  Made in the E.U. Labels: ℗ 1985 except The Big Sky 1986. © 1985 Noble & Brite Ltd. Sleeve: ℗ & © 2018 Noble & Brite Ltd.
-

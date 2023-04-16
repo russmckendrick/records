@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Groove Metal"]
 ---
-
 ## Tracklisting
 1. Welcome To Planet Motherfucker / Psychoholic Slag (6:21)
 2. Knuckle Duster (Radio 1-A) (0:24)
@@ -29,6 +28,8 @@ styles: ["Heavy Metal", "Groove Metal"]
 12. Grindhouse (A Go-Go) (4:04)
 13. Starface (5:02)
 14. Warp Asylum (6:42)
+## Spotify
+{{< spotify type="album" id="6Cvv0qNSdZNf9o0j8EohoD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="H8gHMU-pDbU" title="White Zombie - Welcome To Planet M.F." >}}
@@ -48,9 +49,7 @@ styles: ["Heavy Metal", "Groove Metal"]
 - [Starface](https://www.youtube.com/watch?v=mGHQ6_-jK_A)
 - [Warp Asylum](https://www.youtube.com/watch?v=8Ni6q-qHn04)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -60,4 +59,3 @@ styles: ["Heavy Metal", "Groove Metal"]
 | Catalog Number | MOVLP534 |
 
 Limited to 2000 machine-numbered copies.
-

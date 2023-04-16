@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz"]
 styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 ---
-
 ## Tracklisting
 1. To Believe
 2. A Caged Bird / Imitations Of Life
@@ -22,6 +21,8 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 5. The Workers of Art
 6. Zero One / This Fantasy
 7. A Promise
+## Spotify
+{{< spotify type="album" id="7Jm76j0kKzyy2GLExHlVQO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="e7q4sgupsZc" title="The Cinematic Orchestra - 'To Believe feat. Moses Sumney'" >}}
@@ -34,9 +35,7 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 - [The Cinematic Orchestra - A Promise (feat. Heidi Vogel)](https://www.youtube.com/watch?v=K0ks9CBYDiM)
 - [The Cinematic Orchestra - The Workers of Art](https://www.youtube.com/watch?v=t_CWeHxRuO4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +45,3 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 | Catalog Number | ZEN226X |
 
 Includes download code.  Pre-orders from Bleep.com came with double-sided poster/print and sticker.
-

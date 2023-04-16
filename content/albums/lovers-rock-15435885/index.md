@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Heart Of An Animal
 2. I Know What You're Thinking And It's Awful
@@ -25,15 +24,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Play Dead
 9. Too Many Wrongs
 10. We'll Go Into Hiding
+## Spotify
+{{< spotify type="album" id="0CGpYxkiGUmxhIUv0bU4yK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare!" >}}
 - [The Dears - Is This What You Really Want?](https://www.youtube.com/watch?v=fcWiNJybFUY)
 - [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -43,4 +42,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | DGB211-1, DE050017 |
 
 Includes download card.  Certain pre-orders included an autographed print.
-

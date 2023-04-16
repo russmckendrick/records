@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Jazz", "Rock"]
 styles: ["Cut-up/DJ", "Fusion"]
 ---
-
 ## Tracklisting
 1. Jimmy James (3:14)
 2. Funky Boss (1:35)
@@ -35,6 +34,8 @@ styles: ["Cut-up/DJ", "Fusion"]
 18. Professor Booty (4:13)
 19. In 3's (2:23)
 20. Namasté (4:01)
+## Spotify
+{{< spotify type="album" id="7CSP7J60QKIBCqOV64qILq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ru3gH27Fn6E" title="Beastie Boys - So What'Cha Want" >}}
@@ -43,9 +44,7 @@ styles: ["Cut-up/DJ", "Fusion"]
 - [Beastie Boys - Something's Got To Give (Official Music Video)](https://www.youtube.com/watch?v=teQqelBTw7g)
 - [Beastie Boys - Jimmy James (Official Music Video)](https://www.youtube.com/watch?v=vw5i7TPkYfI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -55,4 +54,3 @@ styles: ["Cut-up/DJ", "Fusion"]
 | Catalog Number | C1-94225 |
 
 Recorded and mixed at G-Son Studios, Atwater Village, CA Sequenced at PCP Labs Remastered at Sterling Sound, NYC  ℗ and © 1992 Capitol Records, LLC and Beastie Boys  Printed in the EU.  Made in the EU.  This album goes out to David Scilken 
-

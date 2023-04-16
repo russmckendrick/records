@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Glorious
 2. Doe
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Only In 3's
 11. Lime House
 12. Metal Man
+## Spotify
+{{< spotify type="album" id="0xx56m5AMEIMZlSjdJwxf5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="OSwgWt0UNgE" title="Glorious" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock"]
 - [Lime House](https://www.youtube.com/watch?v=fjsELVfqFFw)
 - [Metal Man](https://www.youtube.com/watch?v=9S-V1LxNccI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | CAD 0006 |
 
 Includes a printed inner sleeve. Track positions are sequentially listed as 1 to 12 across sides.  Recorded at Palladium Studios, Edinburgh, Scotland. Thanks to Carl Haarer, Mickey Bones, David Narcizo and Gary Smith, Paul Kolderie, Joe Harvard at Ford Apache.  Made in the EU  Josephine Wiggs courtesy of [l2051].  EMI Music Publishing Ltd. except A3 Sony / ATV Music Publishing (UK) Ltd.  ℗ & © 1990 4AD Ltd.
-

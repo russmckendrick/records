@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Good Humor
 2. Woodcabin
@@ -52,9 +51,7 @@ styles: ["Indie Pop"]
 - [Erica America](https://www.youtube.com/watch?v=mC-xwdk7awM)
 - [Dutch TV](https://www.youtube.com/watch?v=SSbaysAnMeI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -64,4 +61,3 @@ styles: ["Indie Pop"]
 | Catalog Number | HVNLP71C , FO 021 |
 
 Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021)   LP : Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect. Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS] All tracks produced [...] at Tambourine Studios, Malmo Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP Includes digital download card for Good Humor.  CD : ℗ 2023 Saint Etienne Limited © 1999 Saint Etienne Limited Promotional - Not for resale
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Can't Fight The Feeling
 2. Luv Jones
@@ -38,9 +37,7 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 - [Charles Bradley - Fly Little Girl (Official Audio)](https://www.youtube.com/watch?v=TkhAaPCApYE)
 - [Charles Bradley - Victim of Love [Electric Version] (Official Audio)](https://www.youtube.com/watch?v=EAjDOIGXBxE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +47,3 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 | Catalog Number | DUN 1007 |
 
 Daptone authorized dealer exclusive limited color vinyl. Includes MP3 download Card. Barcode only present on front sticker.
-

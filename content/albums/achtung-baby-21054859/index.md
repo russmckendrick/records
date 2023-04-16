@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Zoo Station 
 2. Even Better Than The Real Thing
@@ -27,11 +26,11 @@ styles: ["Pop Rock"]
 10. Ultra Violet (Light My Way)
 11. Acrobat
 12. Love Is Blindness
-
+## Spotify
+{{< spotify type="album" id="0ta5VdkJcpdVnNrn7g4cZe" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -41,4 +40,3 @@ styles: ["Pop Rock"]
 | Catalog Number | U28AB30, 00602438686353 |
 
 Package includes:  • Slipcase with an individually numbered sticker on the reverse • Both LPs housed in a wide-spine sleeve with a 8 page booklet including lyrics & credits • A limited edition bespoke 60cm x 60cm folded poster  Released in a slip cover that features one of four different “mystery covers”. This release contains the “Carnalville” photo of the band cover. The outer UPC is different for each mystery cover.  4 different mystery covers (inside of slipcase) exist which can be identified by the barcode:  6 0243868634 6 Nude Adam [r21053176] 6 0243868635 3 Carnival (this release) 6 0243868636 0 Bono and Nassim [R21055915] 6 0243868638 4 Band in red [r21065644]  The 2-, XIV, and 1IΔ etchings in the runouts are mirrored.
-

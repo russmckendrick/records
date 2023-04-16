@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. The Noisy Days Are Over
 2. Disappointed
@@ -29,6 +28,8 @@ styles: null
 12. That's Close Enough For Now
 13. Same Name
 14. Stay Awake
+## Spotify
+{{< spotify type="album" id="5JghTUKewWau2OSb3UVkuK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7FGPDau_QwA" title="FIELD MUSIC - The Noisy Days Are Over" >}}
@@ -44,9 +45,7 @@ styles: null
 - [Field Music - Same Name](https://www.youtube.com/watch?v=8YCLtsTJ5N8)
 - [Field Music - Stay Awake](https://www.youtube.com/watch?v=j5LfWbN8ZdA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -56,4 +55,3 @@ styles: null
 | Catalog Number | MI0387LP |
 
 This LP comes with a download code.
-

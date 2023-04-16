@@ -13,7 +13,6 @@ cover:
 genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
-
 ## Tracklisting
 1. Coughing Contest (2:37)
 2. Cancer (0:29)
@@ -54,9 +53,7 @@ styles: ["Comedy", "Spoken Word"]
 - [Mother](https://www.youtube.com/watch?v=4pPdFSBVVQI)
 - [Parking Offence](https://www.youtube.com/watch?v=OhtoR2CYk1E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1977 |
@@ -66,4 +63,3 @@ styles: ["Comedy", "Spoken Word"]
 | Catalog Number | V 2094 |
 
 ℗ 1977 Virgin Records Ltd © 1977 Aspera A.G. Side One: Ay, Bee, See, You, En, Tee. Side Two: Ef, You2, See2, Kay, Aye, En2, Gee.
-

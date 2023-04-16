@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Making Plans For Nigel 
 2. Helicopter
@@ -30,6 +29,8 @@ styles: ["New Wave", "Pop Rock"]
 13. Limited Edition Bonus 7"
 14. Chain Of Command 
 15. Limelight
+## Spotify
+{{< spotify type="album" id="4S6y2iTYbGONSlNJHYyrVl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9NPMAZDUmHs" title="XTC - Chain of Command / Limelight (1979) full 7” Single" >}}
@@ -45,9 +46,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Outside World (2001 Digital Remaster)](https://www.youtube.com/watch?v=kAKCgduec5o)
 - [XTC - Drums and Wires (Full Album) [HD] Reupload](https://www.youtube.com/watch?v=ph-cxsWVrMw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -57,4 +56,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | APELP103 |
 
 Hype Sticker on Front of Shrink Wrap Reads:  XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge.  Pressed on 200G Super-Heavyweight Vinyl LIMITED EDITION BONUS 7" LIMELIGHT / CHAIN OF COMMAND  Includes bonus 7" replicating original U.K. release, [r=585255]   Tracks not numbered on rear of sleeve - tracks listed under side one and side two  
-

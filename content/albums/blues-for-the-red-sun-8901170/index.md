@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Thumb (4:43)
 2. Green Machine (3:38)
@@ -29,6 +28,8 @@ styles: ["Stoner Rock", "Hard Rock"]
 12. Allen's Wrench (2:42)
 13. Mondo Generator (6:15)
 14. Yeah (0:03)
+## Spotify
+{{< spotify type="album" id="7wXj8GxTkGAUU99DXR7n2f" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CtFuXV5FEvI" title="Kyuss - Thong Song (Official Video)" >}}
@@ -43,16 +44,13 @@ styles: ["Stoner Rock", "Hard Rock"]
 - [Mondo Generator](https://www.youtube.com/watch?v=lWDJ6R1nTnI)
 - [Yeah](https://www.youtube.com/watch?v=t_lpSSTIbpM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Kyuss - Blues For The Red Sun](https://www.discogs.com/release/8901170-Kyuss-Blues-For-The-Red-Sun) |
-| Label          | Dali Records, Chameleon Records (2) |
+| Label          | Dali Records, Chameleon Records |
 | Format         | LP, Album, RP, Dar |
 | Catalog Number | 3705-61340-1 |
 
 Repress on dark red marbled vinyl.  ℗&©1992 Dali Records. Exclusively distributed by Elektra Entertainment, a division of Warner Communications, INC. in the United States and WEA International for the world excluding the United States, Australia and New Zealand. All rights reserved. Dali Records, 1740 Broadway, New York, Ny 10019
-

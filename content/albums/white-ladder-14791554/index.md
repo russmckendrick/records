@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Please Forgive Me
 2. Babylon
@@ -25,6 +24,8 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 8. This Year's Love
 9. Sail Away
 10. Say Hello, Wave Goodbye
+## Spotify
+{{< spotify type="album" id="27h98zEMf4R8Q25uOkumGe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mV3d6jKFvQA" title="David Gray - White Ladder (live)" >}}
@@ -33,9 +34,7 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 - [David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)
 - [David Gray - Say Hello Wave Goodbye 2/24/12 Las Vegas, NV](https://www.youtube.com/watch?v=BXbeT2ta77Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -45,4 +44,3 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 | Catalog Number | IHTLP1910 |
 
 To celebrate the 20th Anniversary of White Ladder. Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411]. All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.  Track C8 engineered and recorded at Air Studios.  ℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.  Tracks appear sequentially on release.
-

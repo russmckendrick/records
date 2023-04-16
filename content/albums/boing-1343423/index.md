@@ -1,6 +1,6 @@
 ---
-title: "Airhead (3) - Boing!!"
-artist: "Airhead (3)"
+title: "Airhead - Boing!!"
+artist: "Airhead"
 album_name: "Boing!!"
 date: 2016-02-29
 release_id: "1343423"
@@ -8,12 +8,11 @@ slug: "boing-1343423"
 hideSummary: true
 cover:
     image: "boing-1343423.jpg"
-    alt: "Boing!! by Airhead (3)"
-    caption: "Boing!! by Airhead (3)"
+    alt: "Boing!! by Airhead"
+    caption: "Boing!! by Airhead"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Scrap Happy
 2. I Might Fall
@@ -33,16 +32,13 @@ styles: ["Indie Rock"]
 - [Airhead - Counting Sheep [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=frNsD1ktDlk)
 - [Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=2xpANQbpbkw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
-| Discogs Link   | [Airhead (3) - Boing!!](https://www.discogs.com/release/1343423-Airhead-Boing) |
+| Discogs Link   | [Airhead - Boing!!](https://www.discogs.com/release/1343423-Airhead-Boing) |
 | Label          | Korova, Korova |
 | Format         | LP, Album |
 | Catalog Number | 9031 76273 1, KODE 17 |
 
 Made in Germany
-

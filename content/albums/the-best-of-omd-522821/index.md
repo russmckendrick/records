@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave", "Dance-pop"]
 ---
-
 ## Tracklisting
 1. Electricity
 2. Messages
@@ -29,6 +28,8 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 12. If You Leave
 13. Forever Live And Die
 14. Dreaming
+## Spotify
+{{< spotify type="album" id="4nkiw1CUhCOS1ueYjvOxUQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BAnOXcp6h8Y" title="Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)" >}}
@@ -47,9 +48,7 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 - [Joan Of Arc (Maid Of Orleans)](https://www.youtube.com/watch?v=8M_tBfHido0)
 - [Dreaming](https://www.youtube.com/watch?v=EWg1y65OqHE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -59,4 +58,3 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 | Catalog Number | OMD 1 |
 
 Released in a gatefold sleeve with photos of the group members, plus images of the sleeves used for the release of the singles.
-

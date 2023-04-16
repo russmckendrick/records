@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Watcher Of The Skies
 2. Time Table
@@ -21,6 +20,8 @@ styles: ["Prog Rock"]
 4. Can-Utility And The Coastliners
 5. Horizons'
 6. Supper's Ready
+## Spotify
+{{< spotify type="album" id="3y67YB3vSbaopIg1VoAO1n" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="szJq1lwnkNw" title="Genesis - Supper's Ready [Full Song]" >}}
@@ -28,9 +29,7 @@ styles: ["Prog Rock"]
 - [Genesis - Supper's Ready (Live 1972)](https://www.youtube.com/watch?v=K04HYw25zdY)
 - [Genesis - Watcher Of The Skies - Midnight Special - 20/12/1973](https://www.youtube.com/watch?v=bETFh4eRdM8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +39,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 00602567489795 |
 
 Comes with download code  ℗ 1972 Charisma Records Ltd Quartet Music Ltd and Carlin Music Corp  ℗ & © 2018 Made in the E.U.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Binary 
 2. Donkey Kong
@@ -31,9 +30,7 @@ styles: null
 - [VENNART - Spider Bones (Official Audio)](https://www.youtube.com/watch?v=JKgOGi636c0)
 - [Vennart 'Donkey Kong' (Official Audio)](https://www.youtube.com/watch?v=OOef0N1mbKU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -41,6 +38,5 @@ styles: null
 | Label          | Medium Format |
 | Format         | 2xLP, Album |
 | Catalog Number | MF010V |
-
 
 

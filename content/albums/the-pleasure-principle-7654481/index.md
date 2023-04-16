@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Airlane
 2. Metal
@@ -25,6 +24,8 @@ styles: ["New Wave", "Synth-pop"]
 8. Conversation
 9. Cars
 10. Engineers
+## Spotify
+{{< spotify type="album" id="5xFlkqLDx3wbgqtvrez1n0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KJmujhpDslY" title="GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album" >}}
@@ -39,9 +40,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Cars (Remastered 2009)](https://www.youtube.com/watch?v=LrjM8Fi7J58)
 - [Engineers (Remastered 2009)](https://www.youtube.com/watch?v=qW2DML0OCOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -51,4 +50,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | BBQLP 10 |
 
 Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London
-

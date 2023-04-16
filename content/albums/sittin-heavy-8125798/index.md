@@ -1,6 +1,6 @@
 ---
-title: "Monster Truck (2) - Sittin' Heavy"
-artist: "Monster Truck (2)"
+title: "Monster Truck - Sittin' Heavy"
+artist: "Monster Truck"
 album_name: "Sittin' Heavy"
 date: 2016-09-01
 release_id: "8125798"
@@ -8,12 +8,11 @@ slug: "sittin-heavy-8125798"
 hideSummary: true
 cover:
     image: "sittin-heavy-8125798.jpg"
-    alt: "Sittin' Heavy by Monster Truck (2)"
-    caption: "Sittin' Heavy by Monster Truck (2)"
+    alt: "Sittin' Heavy by Monster Truck"
+    caption: "Sittin' Heavy by Monster Truck"
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Why Are You Not Rocking? (2:23)
 2. Don't Tell Me How To Live (4:24)
@@ -27,6 +26,8 @@ styles: ["Blues Rock", "Hard Rock"]
 10. Midnight (Bonus) (3:32)
 11. New Soul (4:13)
 12. Enjoy The Time (5:35)
+## Spotify
+{{< spotify type="album" id="1xPJIBohk5DtRCXwdmAZAd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EKv4MNo03zY" title="Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016" >}}
@@ -37,16 +38,13 @@ styles: ["Blues Rock", "Hard Rock"]
 - [Monster Truck - She's A Witch (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=jFY4GpASXzY)
 - [Monster Truck - Things Get Better (Sittin' Heavy) 2016](https://www.youtube.com/watch?v=ycfrP0b-YQc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Monster Truck (2) - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-Sittin-Heavy) |
-| Label          | Mascot Records (2) |
+| Discogs Link   | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-Sittin-Heavy) |
+| Label          | Mascot Records |
 | Format         | LP, Red + LP, S/Sided, Etch, Red + Album |
 | Catalog Number | M74851 |
 
 Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics.
-

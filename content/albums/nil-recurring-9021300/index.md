@@ -13,17 +13,16 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Nil Recurring (6:15)
 2. Normal (7:08)
 3. Cheating the Polygraph (7:10)
 4. What Happens Now? (8:24)
-
+## Spotify
+{{< spotify type="album" id="4q8idMGcUuilaleuHhaRvB" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -33,4 +32,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE936, Kscope936 |
 
 Pressed By information is not listed. Information is derived from runouts.   [Liner Notes - Back Cover] Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group ℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree Made in Germany  [Liner Notes - Inner Sleves] Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006  Normal and What Happens Now? recorded July 2007  
-

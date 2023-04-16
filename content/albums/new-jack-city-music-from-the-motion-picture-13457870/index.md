@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Pop Rap", "RnB/Swing"]
 ---
-
 ## Tracklisting
 1. New Jack Hustler (Nino’s Theme)
 2. I’m Dreamin’
@@ -26,6 +25,8 @@ styles: ["Pop Rap", "RnB/Swing"]
 9. Lyrics 2 The Rhythm
 10. Get It Together (Black Is a Force)
 11. In The Dust
+## Spotify
+{{< spotify type="album" id="3N1GCkG6Z5Rs4Qy1iwnIEB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0e5z8givs6Y" title="F.S. Effect - Get It Together (Black Is A Force)" >}}
@@ -40,9 +41,7 @@ styles: ["Pop Rap", "RnB/Swing"]
 - [Essence - Lyrics 2 The Rhythm](https://www.youtube.com/watch?v=oDIfvCvNLuw)
 - [Keith Sweat - (There You Go) Tellin' Me No Again](https://www.youtube.com/watch?v=fEVN_yPyXXg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Pop Rap", "RnB/Swing"]
 | Catalog Number | 0573953 |
 
 RSD Exclusive 2019/Ltd. to 1500
-

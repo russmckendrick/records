@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Unself
 2. Self
@@ -24,6 +23,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Personal Shopper
 8. Follower
 9. Count Of Unease
+## Spotify
+{{< spotify type="album" id="0tHQTsZepeMpMqgtBdaFRx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}
@@ -41,9 +42,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | CAROL021LPTUK |
 
 Replacement for the UK tour edition of the future bites.
-

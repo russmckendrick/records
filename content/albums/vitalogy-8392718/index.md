@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Division One
 2. Last Exit
@@ -33,6 +32,8 @@ styles: ["Grunge", "Rock & Roll"]
 16. Division Four
 17. Immortality
 18. Hey Foxymophandlemama, That's Me
+## Spotify
+{{< spotify type="album" id="5pd9B3KQWKshHw4lnsSLNy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pw4VEW3StIw" title="Immortality (Remastered)" >}}
@@ -40,9 +41,7 @@ styles: ["Grunge", "Rock & Roll"]
 - [Last Exit (Remastered)](https://www.youtube.com/watch?v=YQRyhKmkUUE)
 - [Better Man](https://www.youtube.com/watch?v=27ztFtLKvuQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,4 +51,3 @@ styles: ["Grunge", "Rock & Roll"]
 | Catalog Number | 88697843111 |
 
 Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits. Track D2 titled "Stupid Mop" on label.   Recorded in Seattle, Atlanta & New Orleans 1994.   ℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh  Made in the EU
-

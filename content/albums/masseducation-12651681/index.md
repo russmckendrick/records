@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic"]
 ---
-
 ## Tracklisting
 1. Slow Disco (2:30)
 2. Savior (4:18)
@@ -27,6 +26,8 @@ styles: ["Acoustic"]
 10. Happy Birthday, Johnny (3:24)
 11. Pills (4:59)
 12. Hang On Me (2:55)
+## Spotify
+{{< spotify type="album" id="3XwQPcRrrSNxETjuD5ka5r" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xRHoqSIQnPg" title="New York (piano Version)" >}}
@@ -43,9 +44,7 @@ styles: ["Acoustic"]
 - [St. Vincent - Smoking Section (piano version) (Audio)](https://www.youtube.com/watch?v=ehHmTw26dAc)
 - [St. Vincent - Fear The Future (piano version) (Audio)](https://www.youtube.com/watch?v=7KG0w6weC24)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -55,4 +54,3 @@ styles: ["Acoustic"]
 | Catalog Number | LVR00448 |
 
 Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert.  Transparent front cover hype sticker placed on the shrink wrap.  Title on front cover is golden foil embossed.  Made in the EU.
-

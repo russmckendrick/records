@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Only Shallow
 2. Loomer
@@ -26,6 +25,8 @@ styles: ["Shoegaze", "Alternative Rock"]
 9. Blown A Wish
 10. What You Want
 11. Soon
+## Spotify
+{{< spotify type="album" id="3GH4IiI6jQAIvnHVdb5FB6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ASg275COMjg" title="loomer" >}}
@@ -38,9 +39,7 @@ styles: ["Shoegaze", "Alternative Rock"]
 - [Sometimes](https://www.youtube.com/watch?v=fH0NQzXlzyQ)
 - [my bloody valentine – soon (official video)](https://www.youtube.com/watch?v=gU7tX5YJghc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: ["Shoegaze", "Alternative Rock"]
 | Catalog Number | REWIGLP159X |
 
 Deluxe edition on heavyweight vinyl. Comes in a gatefold tip-on jacket and board-mounted sleeve. Fully analog cut. Includes a printed poly-lined inner sleeve and a download card with choices of MP3 and 16-bit or 24-bit WAV. Repress of the 2018 analog remaster [r=11439719].  Made in the EU  Unopened, this version appears identical to [r=21223558]. They can however be distinguished by weight: this one weighs 475g, the other 585g.  The runouts are hand-etched.
-

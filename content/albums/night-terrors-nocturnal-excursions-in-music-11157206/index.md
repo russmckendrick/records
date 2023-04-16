@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry (3) - Night Terrors (Nocturnal Excursions In Music)"
-artist: "Matt Berry (3)"
+title: "Matt Berry - Night Terrors (Nocturnal Excursions In Music)"
+artist: "Matt Berry"
 album_name: "Night Terrors (Nocturnal Excursions In Music)"
 date: 2017-11-17
 release_id: "11157206"
@@ -8,12 +8,11 @@ slug: "night-terrors-nocturnal-excursions-in-music-11157206"
 hideSummary: true
 cover:
     image: "night-terrors-nocturnal-excursions-in-music-11157206.jpg"
-    alt: "Night Terrors (Nocturnal Excursions In Music) by Matt Berry (3)"
-    caption: "Night Terrors (Nocturnal Excursions In Music) by Matt Berry (3)"
+    alt: "Night Terrors (Nocturnal Excursions In Music) by Matt Berry"
+    caption: "Night Terrors (Nocturnal Excursions In Music) by Matt Berry"
 genres: ["Jazz", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Night Terrors (Saint Etienne Remix) (4:15)
 2. Middle Of The East (3:39)
@@ -34,16 +33,13 @@ styles: null
 - [MATT BERRY-Hey little girl](https://www.youtube.com/watch?v=0W8Dl9qczsw)
 - [Matt Berry - Night Terrors (Clark Remix)](https://www.youtube.com/watch?v=KVwpDYbf7Eo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Matt Berry (3) - Night Terrors (Nocturnal Excursions In Music)](https://www.discogs.com/release/11157206-Matt-Berry-Night-Terrors-Nocturnal-Excursions-In-Music) |
+| Discogs Link   | [Matt Berry - Night Terrors (Nocturnal Excursions In Music)](https://www.discogs.com/release/11157206-Matt-Berry-Night-Terrors-Nocturnal-Excursions-In-Music) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Ltd, Num |
 | Catalog Number | AJXLP415 |
 
 Pre-orders from label website were signed.
-

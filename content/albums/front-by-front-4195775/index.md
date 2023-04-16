@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["EBM"]
 ---
-
 ## Tracklisting
 1. Until Death (Us Do Part) (4:31)
 2. Circling Overland (4:43)
@@ -24,6 +23,8 @@ styles: ["EBM"]
 7. Headhunter V 3.0 (4:45)
 8. Work 01 (3:27)
 9. Terminal State (4:09)
+## Spotify
+{{< spotify type="album" id="3bJDzdsqXwjo9EXupegwIR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="m1cRGVaJF7Y" title="Front 242 - Headhunter (Official Video)" >}}
@@ -37,9 +38,7 @@ styles: ["EBM"]
 - [Work 01](https://www.youtube.com/watch?v=2_Y5C2k0H7w)
 - [Terminal State](https://www.youtube.com/watch?v=UijjMj91ODg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -49,4 +48,3 @@ styles: ["EBM"]
 | Catalog Number | RRE LP 7 |
 
 140 gram vinyl. 
-

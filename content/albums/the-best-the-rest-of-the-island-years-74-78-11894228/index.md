@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
-
 ## Tracklisting
 1. This Town Ain't Big Enough (3:04)
 2. Hasta Mañana Monsieur (3:49)
@@ -43,9 +42,7 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 ## Videos
 {{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -55,4 +52,3 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 | Catalog Number | 6702244 |
 
 Limited edition Record Store Day 2018 release in gatefold sleeve. Remastered from the original tapes  Includes download code card.
-

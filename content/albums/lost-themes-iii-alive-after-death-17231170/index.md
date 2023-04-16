@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "Synthwave"]
 ---
-
 ## Tracklisting
 1. Alive After Death
 2. Weeping Ghost
@@ -25,6 +24,8 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 8. Turning The Bones
 9. The Dead Walk
 10. Carpathian Darkness
+## Spotify
+{{< spotify type="album" id="2GYD5j8wa4kEhlmN5GGiUT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A8NHR31TA9E" title="John Carpenter - Alive After Death (Official Music Video)" >}}
@@ -41,9 +42,7 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 - [John Carpenter - Lost Themes III: Alive After Death](https://www.youtube.com/watch?v=jJn_0YA-R2U)
 - [Lost Theme 3 Alive After Death John Carpenter - Il paradiso della musica 16](https://www.youtube.com/watch?v=JpxXF_UFs60)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -53,4 +52,3 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 | Catalog Number | SBR-265 |
 
 Includes a digital download card and a 24" x 36" fold-out poster.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Mountain Heart (6:06)
 2. Black Slug (5:04)
@@ -22,6 +21,8 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 5. Is Satan Real? (4:19)
 6. Watch It Grow (4:01)
 7. Evil In Your Eye (11:14)
+## Spotify
+{{< spotify type="album" id="0xl75tNEomvveGaCJbOjDY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WkqEmrRxGIg" title="Church of the Cosmic Skull - Mountain Heart (Official Audio)" >}}
@@ -32,9 +33,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 - [Church of the Cosmic Skull - Watch it Grow (Official Audio)](https://www.youtube.com/watch?v=S_87QEtsXYA)
 - [Church of the Cosmic Skull - Evil in your Eye (Official Audio)](https://www.youtube.com/watch?v=f5_w2ovow84)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 | Catalog Number | BILOCATION 44 |
 
 Second pressing with different cover artwork. Limited to 500 copies on 180gr. CLEAR VINYL. 
-

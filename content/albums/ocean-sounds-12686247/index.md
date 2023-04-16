@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Neo-Classical"]
 ---
-
 ## Tracklisting
 1. Inside
 2. Scotland
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Neo-Classical"]
 10. Libretto Horror
 11. Chalk & Coal
 12. K.O.S.
+## Spotify
+{{< spotify type="album" id="33itCfl3s0GHYF4Y9urXwm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TmNR7BfO2KE" title="iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock", "Neo-Classical"]
 - [Iamthemorning - Chalk & Coal (from Ocean Sounds)](https://www.youtube.com/watch?v=rMecuWBzhMk)
 - [K. O. S. (Ocean Sounds Sessions)](https://www.youtube.com/watch?v=b8qZUZf_mMo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock", "Neo-Classical"]
 | Catalog Number | KSCOPE984 |
 
 - Sticker - printed inner sleeve  Ⓟ 2018 Kscope Ⓒ 2018 Kscope Made in Germany  Barcode is scan only (no text).
-

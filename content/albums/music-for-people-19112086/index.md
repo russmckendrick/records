@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Last One Alive
 2. Free
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. We Will Meet Again
 11. My TV And You
 12. Lady Of Dreams
+## Spotify
+{{< spotify type="album" id="4LHUokQU5HQEfHVA6H5h8u" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9m02l9C6ris" title="The Last One Alive" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock"]
 - [My TV and You](https://www.youtube.com/watch?v=-hMxjuULKx8)
 - [Lady of Dreams](https://www.youtube.com/watch?v=TGMDCKkovBg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | RGM-1217 |
 
 Limited to 2000 Copies, Exclusive to Record Store Day 2021
-

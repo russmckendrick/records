@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Science Fiction
 2. Go By The River
@@ -25,15 +24,15 @@ styles: null
 8. Paper Aeroplane
 9. Silver Moon
 10. The Devil Again
+## Spotify
+{{< spotify type="album" id="2bSfkNsLv7hXnDaXfi98SA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="b5WJDSmv1iE" title="Science Fiction" >}}
 - [Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)](https://www.youtube.com/watch?v=Al1ammaaqqs)
 - [Church of the Cosmic Skull - Science Fiction](https://www.youtube.com/watch?v=hdXffwZGg1Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: null
 | Catalog Number | ARTIFACT 45 |
 
 Comes in gatefold sleeve Limited to 300 copies, Clear/white blob, Mother's Milk Edition
-

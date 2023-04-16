@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Accelerated Evolution
 2. Depth Charge (6:04)
@@ -84,9 +83,7 @@ styles: ["Prog Rock", "Progressive Metal"]
 ## Videos
 {{< youtube id="u6Mf0yHHoE8" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part III (Unboxing)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -96,4 +93,3 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Catalog Number | IOMLP 511, 19075868211 |
 
 Information from distributors: BLACK VINYL EDITION. “Eras - Vinyl Collection Part III” is the third of a total of four Devin Townsend vinyl box sets. The box contains the albums; 'Accelerated Evolution' (Gatefold 2LP) 'Epicloud' (Gatefold 2LP) 'Transcendence' (Gatefold 2LP) 'Sky Blue' (Gatefold 2LP) 'Live At Royal Albert Hall' (Gatefold 2LP) All on 180 gram vinyl plus LP booklet with liner notes and comments by Devin Townsend, wrapped up in a sturdy 2-piece box set. The initial vinyl versions of all studio albums included in the box are long sold out and highly sought-after items, “Live At The Royal Albert Hall” is the second part of the “Ziltoid Live At The Royal Albert Hall” live album and has so far never been released on vinyl before.  "Accelerated Evolution" Gatefold 2LP + etching Mastered for vinyl by Patrick W. Engel at Temple of Disharmony ℗ 2003 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic © 2018 HevyDevy Music Records. Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic  "Epicloud" Gatefold 2LP ℗ 2012 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic © 2018 HevyDevy Music Records. Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic  "Transcendence" Gatefold 2LP + etching ℗ 2016 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic © 2018 HevyDevy Music Records. Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic  "Sky Blue" Gatefold 2LP Mastered for vinyl by Patrick W. Engel at Temple of Disharmony ℗ 2014 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic © 2018 HevyDevy Music Records. Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic  "Live At The Royal Albert Hall" Gatefold 2LP Mastered for vinyl by Patrick W. Engel at Temple of Disharmony ℗ 2016 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic © 2018 HevyDevy Music Records. Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic
-

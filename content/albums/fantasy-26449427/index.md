@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Water Deep
 2. Oceans Niagara
@@ -28,6 +27,8 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 11. Kool Nuit
 12. Sunny Boy Part 2
 13. Dismemberment Bureau
+## Spotify
+{{< spotify type="album" id="7B6lEObl7aYkMjX8M89IRQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ryFV9dORPPw" title="M83 - 'Oceans Niagara' (Official Music Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 - [M83 - 'Us And The Rest' (Official Audio)](https://www.youtube.com/watch?v=SBX5LsazDho)
 - [M83 - 'Earth To Sea' (Official Audio)](https://www.youtube.com/watch?v=kyaO0zgBxa8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -55,4 +54,3 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 | Catalog Number | OS1 LP, 486 373-3 |
 
 tracks listed 1-13 on sleeve
-

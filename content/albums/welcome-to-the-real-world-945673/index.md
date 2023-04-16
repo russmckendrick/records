@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Black / White (4:18)
 2. Uniform Of Youth (4:25)
@@ -25,15 +24,15 @@ styles: ["Pop Rock"]
 8. Broken Wings (5:45)
 9. Tangent Tears (3:19)
 10. Welcome To The Real World (4:18)
+## Spotify
+{{< spotify type="album" id="682sQ449vmcJXS2AGIMrsl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9NDjt4FzFWY" title="Mr. Mister - Kyrie (Official Video)" >}}
 - [Mr. Mister - Broken Wings (Official Video)](https://www.youtube.com/watch?v=nKhN1t_7PEY)
 - [Mr. Mister - Is It Love](https://www.youtube.com/watch?v=nWxxRlVNM30)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -43,4 +42,3 @@ styles: ["Pop Rock"]
 | Catalog Number | PL89647 |
 
 Tracklisting as on center labels, different as printed on the backside of the sleeve. Includes a printed inner sleeve containing lyrics  [Inner sleeve] Recorded October 1984 thru April 1985  Songs © 1985 Warner-Tamerlane Publishing Corp./Entente Music (BMI); all rights administered by Warner-Tamerlane Publishing Corp. Stemwa Famo Music (BMI)  © 1985, RCA Records. Printed in W. Germany. Imprimé en Allemagne.  [Label side A] 1. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Label side B] 1: Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Labels] Recorded: Calif. All timings are approximate  Marketed By RCA Records From Master Recordings Of RCA Records Made in Germany. Fabriqué en Allemagne  [Sleeve] Belgique/Belgie: Distributed by RCA S.A. Deutschland: Vertrieb durch RCA Schallplatten GmbH France: Distribué par RCA S.A. · Italia: Distributed by RCA S.p.A. Nederland: Distributed by RCA B.V. · U.K.: Distributed by RCA Ltd.  © 1985 RCA Records. Printed in W. Germany. Imprimé en Allemagne. 5/85/S
-

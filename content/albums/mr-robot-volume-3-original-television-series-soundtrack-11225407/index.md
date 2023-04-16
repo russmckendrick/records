@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
-
 ## Tracklisting
 1. 2.0_1-s4ve-the-w0rld.act (2:28)
 2. 2.0_2-FuxSocy.sln (2:32)
@@ -63,9 +62,7 @@ styles: ["Soundtrack", "Score"]
 - [2.3_5-pun1shm3nt.ape](https://www.youtube.com/watch?v=Alul7aWuqaY)
 - [2.4_1-heartworm.3gp](https://www.youtube.com/watch?v=CdCVt2maF8g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -75,4 +72,3 @@ styles: ["Soundtrack", "Score"]
 | Catalog Number | LSINV189LP, LSINV189LPcol |
 
 Sticker on release reads: "2 x Crystal clear with red & white splatter effect vinyl.  Deluxe gatefold sleeve includes full colour insert  + 11"× 22" fold-out poster."  Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing.
-

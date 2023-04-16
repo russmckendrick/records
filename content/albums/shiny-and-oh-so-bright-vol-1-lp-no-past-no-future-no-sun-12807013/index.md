@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Knights Of Malta
 2. Silvery Sometimes (Ghosts)
@@ -28,9 +27,7 @@ styles: ["Alternative Rock"]
 11. Knights Of Malta
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +37,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | NPR807DB |
 
 Deluxe Box Set limited to 2000 copies incl. 180g violet vinyl in Gatefold Cover + Downloadcode + 3 x 7" EP Single in violet vinyl. Side B of each 7" single is etched.
-

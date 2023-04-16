@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock"]
 ---
-
 ## Tracklisting
 1. Candle Book And Bell (3:54)
 2. Ffwd To The Freeze Frame (4:50)
@@ -26,6 +25,8 @@ styles: ["Art Rock"]
 9. We Just Did What Happened And Nobody Came (5:22)
 10. Longstreth (5:59)
 11. Coloma Blues (5:14)
+## Spotify
+{{< spotify type="album" id="6JeQiEhzj98RHLMyzbPtrf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lRlpH34urEI" title="Candle Book and Bell" >}}
@@ -40,9 +41,7 @@ styles: ["Art Rock"]
 - [Longstreth](https://www.youtube.com/watch?v=ghZ93J3CBco)
 - [Sweet Billy Pilgrim - Coloma Blues (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=aVIHC0E1Vpw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,4 +51,3 @@ styles: ["Art Rock"]
 | Catalog Number | KSCOPE886 |
 
 Side D is etched. Comes with 4 page booklet with lyrics. Black poly-lined inner sleeves.
-

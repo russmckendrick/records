@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
-
 ## Tracklisting
 1. Love My Way
 2. Pretty In Pink
@@ -28,9 +27,7 @@ styles: ["Alternative Rock", "New Wave"]
 11. Don't Believe
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -40,4 +37,3 @@ styles: ["Alternative Rock", "New Wave"]
 | Catalog Number | DEMREC906 |
 
 Pressed on indies exclusive 180g heavyweight vinyl, housed in a printed inner sleeve with new liner notes by Classic Pop and Long Live Vinyl editor Ian Peel.
-

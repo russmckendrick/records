@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Rock & Roll", "Ballad", "Theme"]
 ---
-
 ## Tracklisting
 1. Happy Days Theme
 2. Bony Moronie
@@ -60,9 +59,7 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 - [The Skyliners - Since I Don't Have You](https://www.youtube.com/watch?v=ngZh6ZSRoYg)
 - [Ya Ya](https://www.youtube.com/watch?v=NcwD7kh28M0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -72,4 +69,3 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 | Catalog Number | WW5037, WW 5037 |
 
 The last track on Side One is an "impressionist" track containing the expressions Aaaaay, Cool, Nerd, Sit on it! Listen and learn to use Fonzie's favorite phrases perfectly!  Cat. no WW5037 on sleeve, WW 5037 on labels.  Novelty cover: back is die cut to open up like a picture frame stand.  Front cover photo credit - TRI-ADS/Sid Brawer © 1976 Paramount Pictures © 1976 Tri-Ads
-

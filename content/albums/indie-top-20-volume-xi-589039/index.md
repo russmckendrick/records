@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", "Shoegaze", "EBM", "Industrial"]
 ---
-
 ## Tracklisting
 1. Anytime Anyplace Anywhere (4:10)
 2. Pray (3:56)
@@ -40,9 +39,7 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 {{< youtube id="NZ_LDyvoxUY" title="The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991" >}}
 - [The Shamen - Oxygen Restriction](https://www.youtube.com/watch?v=JxUuFgsFaMc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -52,4 +49,3 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 | Catalog Number | TT011 |
 
 C5 is listed as "Oxygen Restriction" but it is actually "Oxygen Reprise V2.0".
-

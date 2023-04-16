@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Ambient"]
 ---
-
 ## Tracklisting
 1. Ég Anda
 2. Ekki Múkk
@@ -23,14 +22,14 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 6. Varðeldur
 7. Valtari
 8. Fjögur Píanó
+## Spotify
+{{< spotify type="album" id="0ZHkshyLAi9f8DXdj3Z5ph" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Gf1h2PMPCAo" title="Sigur Rós - Varúð [Official Music Video]" >}}
 - [Sigur Rós - Valtari [Full Album Stream]](https://www.youtube.com/watch?v=jQi77xni1p8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -40,4 +39,3 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 | Catalog Number | KRUNK61LP |
 
 Limited standard black vinyl edition. Side B runout is a locked groove.  Barcode sticker on shrink, lower right corner.  ℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk.  © 2021 Krúnk. Published by Universal Music Publishing.
-

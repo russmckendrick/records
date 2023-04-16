@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Joyride
 2. Hotblooded
@@ -27,6 +26,8 @@ styles: ["Pop Rock"]
 10. Physical Fascination
 11. Things Will Never Be The Same
 12. Perfect Day
+## Spotify
+{{< spotify type="album" id="5SwZnq5e3u7DkkNnSNHp5R" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xCorJG9mubk" title="Roxette - Joyride (Official Video)" >}}
@@ -49,9 +50,7 @@ styles: ["Pop Rock"]
 - [Love Spins (T & A demo 3 Jan, 1990)](https://www.youtube.com/watch?v=0hxI5DPO1hQ)
 - [Seduce Me (T & A Demo Aug 22, 1990)](https://www.youtube.com/watch?v=k7jjyd5Ej-E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -61,4 +60,3 @@ styles: ["Pop Rock"]
 | Catalog Number | EMD 1019 |
 
 Inner sleeve with lyrics Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is) 
-

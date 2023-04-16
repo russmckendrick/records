@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Still Of The Night (6:50)
 2. Here I Go Again (4:32)
@@ -31,6 +30,8 @@ styles: ["Hard Rock"]
 14. You're Gonna Break My Heart Again (4:16)
 15. Crying In The Rain (5:47)
 16. Forevermore (7:05)
+## Spotify
+{{< spotify type="album" id="2BN4rnRFqSrJFm8Ugjzvrd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}
@@ -39,9 +40,7 @@ styles: ["Hard Rock"]
 - [Whitesnake - Love Ain't No Stranger](https://www.youtube.com/watch?v=unHzLEA6gvI)
 - [Whitesnake - Is This Love](https://www.youtube.com/watch?v=Lx15RANQiKM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -49,6 +48,5 @@ styles: ["Hard Rock"]
 | Label          | Warner Music Group |
 | Format         | 2xLP, Album, Comp, Ltd |
 | Catalog Number | 0190296457791 |
-
 
 

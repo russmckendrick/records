@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Avantgarde", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. All Through The Night (3:21)
 2. Mirror Of Tomorrow (2:46)
@@ -23,6 +22,8 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 6. Days Of Old (3:04)
 7. Message From The Sky (2:37)
 8. Mass Hypnosis (4:21)
+## Spotify
+{{< spotify type="album" id="6f6lWss0TZzzs16MTo5vHG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador (Official Music Video)" >}}
@@ -34,9 +35,7 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 - [Mirror of Tomorrow](https://www.youtube.com/watch?v=I-Au5S3LRrs)
 - [Bill Fisher - All Through The Night (Official Visualizer Video)](https://www.youtube.com/watch?v=QevyAUTftlo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -46,4 +45,3 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 | Catalog Number | Septaphonic 4 |
 
 Super-Deluxe Blue & White Marble Effect Heavyweight 180g 12″ Vinyl Ultra Matte Reverse Board Textured Gatefold Sleeve Handnumbered Limited Edition Holographic Sticker Second Pressing
-

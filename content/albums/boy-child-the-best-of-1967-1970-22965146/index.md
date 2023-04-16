@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Montague Terrace (In Blue)
 2. Such A Small Love
@@ -43,9 +42,7 @@ styles: ["Pop Rock"]
 ## Videos
 {{< youtube id="14PSE0FJoUo" title="Scott Walker - Boy Child" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -55,4 +52,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 389 083-9 |
 
 RSD 2022. Gatefold cover.
-

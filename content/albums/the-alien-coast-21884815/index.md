@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. 3000AD Mass
 2. Bermejo And The Devil
@@ -26,14 +25,14 @@ styles: null
 9. Tin Man Love
 10. Popcorn Ceiling
 11. Love Letter From A Red Roof Inn
+## Spotify
+{{< spotify type="album" id="6u9qHGvcKkavFaWp4Hwifl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TUhQkIYB8KA" title="St. Paul & The Broken Bones - The Alien Coast Album Listening Party" >}}
 - [St. Paul & The Broken Bones - Minotaur (Official Audio)](https://www.youtube.com/watch?v=bd96ZE48h5M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -43,4 +42,3 @@ styles: null
 | Catalog Number | ATO0590 |
 
 Ghost vinyl with foil cover limited to 2,000 copies.   First 300 pre-orders receive a signed postcard  Vinyl pressed in Czech Republic   
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Field Day Jitters (4:09)
 2. Waited A Light Year (6:00)
@@ -30,6 +29,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. About The Movies (5:06)
 14. Tiny Men (3:25)
 15. Indian Poker Parts 2 & 3 (3:07)
+## Spotify
+{{< spotify type="album" id="2AnRkDUoUfBhAN5SNhvgIO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BEf20qe-qGs" title="Waited A Light Year" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [8 Ladies](https://www.youtube.com/watch?v=uMr-AiNEijc)
 - [Tripping Daisy Waited A Light Year](https://www.youtube.com/watch?v=v1AXtIDkX7A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | GRR100 |
 
 Released on Vinyl in 2020 for the first time in the following quantities:  1-300 DELUXE CLEAR WITH SLIPMAT 301-500 IVORY WHITE 501-700 FACE MASK BLUE 701-900 PEPTO BISMOL PINK 901-1000 180-GRAM AUDIOPHILE BLACK  All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.  
-

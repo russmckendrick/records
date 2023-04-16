@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: null
 ---
-
 ## Tracklisting
 1. What Happens Now? (7:32)
 2. Sound Of Muzak / So Called Friend (5:56)
@@ -23,14 +22,14 @@ styles: null
 6. Hatesong / Halo (8:17)
 7. Cheating The Polygraph / Mother & Child Divided (5:29)
 8. Futile (6:04)
+## Spotify
+{{< spotify type="album" id="4Y0OSDJZEqyoQoDltpeOv2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZwaqOBXpEDs" title="Gavin Harrison Cheating The Polygraph/Mother & Child Divided" >}}
 - [Gavin Harrison - Hatesong / Halo (from Cheating the Polygraph)](https://www.youtube.com/watch?v=s9PCreC7Lfk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -40,4 +39,3 @@ styles: null
 | Catalog Number | KSCOPE876 |
 
 The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).  180g heavyweight vinyl, gatefold cover.  All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison.
-

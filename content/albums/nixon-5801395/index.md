@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. The Old Gold Shoe (6:20)
 2. Grumpus (4:19)
@@ -25,15 +24,15 @@ styles: ["Folk Rock", "Country Rock"]
 8. The Book I Haven't Read (5:44)
 9. The Petrified Florist (4:52)
 10. The Butcher Boy (2:51)
+## Spotify
+{{< spotify type="album" id="1qen4Tff5s4spszMi3Hd8d" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZVk5KalTrwU" title="Grumpus - Lambchop" >}}
 - [You Masculine You - Lambchop](https://www.youtube.com/watch?v=80eF7A7xlR8)
 - [Lambchop - Up with People (Zero 7 Remix)](https://www.youtube.com/watch?v=q3-fEWh7nZI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -43,4 +42,3 @@ styles: ["Folk Rock", "Country Rock"]
 | Catalog Number | SLANG50044LP |
 
 Comes with lyrics insert and download card for a one-off mp3 download of the album.  
-

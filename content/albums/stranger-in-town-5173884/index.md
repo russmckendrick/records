@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Hollywood Nights (5:00)
 2. Still The Same (3:21)
@@ -24,6 +23,8 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 7. We've Got Tonite (4:39)
 8. Brave Strangers (6:21)
 9. The Famous Final Scene (5:08)
+## Spotify
+{{< spotify type="album" id="1vhib5WLHRVdOpRjiTHk15" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UhuVwVpr3WY" title="Hollywood Nights" >}}
@@ -36,9 +37,7 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 - [Brave Strangers](https://www.youtube.com/watch?v=l6vYnLQFtc0)
 - [The Famous Final Scene](https://www.youtube.com/watch?v=9_Cqohz0188)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -48,4 +47,3 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 | Catalog Number | EAST 11698, 0C 062-85 333 |
 
 On the back of the sleeve with this release, under the catalogue numbers, is printed "Available on Cassette"  Printer code in lower right corner dates this reissue to 1982 (plain inner sleeve also dated 1982).  Lilac Capitol label.
-

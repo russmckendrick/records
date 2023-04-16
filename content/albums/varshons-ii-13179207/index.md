@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Can't Forget
 2. Settled Down Like Rain
@@ -34,9 +33,7 @@ styles: ["Indie Rock"]
 - [Old Man Blank](https://www.youtube.com/watch?v=h8EFKNJg0zo)
 - [Unfamiliar](https://www.youtube.com/watch?v=6-KM4GPXCOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +43,3 @@ styles: ["Indie Rock"]
 | Catalog Number | FIRELP532 |
 
 Indie Store Only Green Vinyl Comes with Banana Scented Scratch & Sniff Sleeve
-

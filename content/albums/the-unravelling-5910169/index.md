@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. I Can Teach You How To Lose A Fight
 2. The Orphanage
@@ -31,13 +30,13 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 14. Destroy The World We Love (6:05)
 15. This Empty Room Once Was Alive (3:50)
 16. I'm Hiding Behind My Eyes (9:15)
+## Spotify
+{{< spotify type="album" id="4sD5ykdDoniE85pwTz0Hz6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8PX5KKQqN-c" title="Knifeworld- Don't Land On Me" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Catalog Number | IOMLP 402, 0506851 |
 
 From removable sticker on front: 180g vinyl edition incl. the entire album on CD  Includes a printed inner card sleeve with photos of the band members, lyrics, and credits.  © 2014 InsideOut Music ℗ 2014 Century Media Records Ltd. Made in Germany  Drums recorded at One Cat Piano on [A1, 1] recorded at Securisound  Piano on [A3, 3 & B4, 8] recorded at Westminster Kingsway College Mixed and mastered at Studio Midi Pyrenees Layout and artwork at 57design.co.uk
-

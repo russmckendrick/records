@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. When We Were Young
 2. Deja Vu
@@ -27,6 +26,8 @@ styles: ["Prog Rock"]
 10. Wait For Her
 11. Oceans Apart
 12. Part Of Me Died
+## Spotify
+{{< spotify type="album" id="2XhQwji1ixgjca0XzkiTek" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_XdLNqWYgGI" title="Roger Waters - The Last Refugee" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock"]
 - [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
 - [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock"]
 | Catalog Number | C-192609, 19075865711 |
 
 Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover.
-

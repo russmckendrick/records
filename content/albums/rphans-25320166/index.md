@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Theme (From Crocodile Dundee)
 2. Astral Womb
@@ -21,11 +20,11 @@ styles: null
 4. Mannequin
 5. Don't Wear The Crown
 6. Orphans
-
+## Spotify
+{{< spotify type="album" id="6L4JJlahXj3TrcvZXBmauY" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -35,4 +34,3 @@ styles: null
 | Catalog Number | ROK251 |
 
 180g vinyl. Includes a printed inner sleeve with lyrics.  Funded via Bandcamp's vinyl pressing service.
-

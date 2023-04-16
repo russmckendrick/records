@@ -13,18 +13,17 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ---
-
 ## Tracklisting
 1. With Arms And Legs Moving / The Tell Tales (19:56)
 2. They Glow In Light / Like Coloured Glass (23:26)
+## Spotify
+{{< spotify type="album" id="3g7HHsKJxubekldsxGe0Py" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MsnqxGAGXb4" title="With Arms and Legs Moving, The Tell Tales" >}}
 - [They Glow in Light, Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -34,4 +33,3 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 | Catalog Number | KRUNK32LP |
 
 Released on Record Store Day 2019.  "Spined sleeve printed with special inks."  "Music from throughout Sigur Rós's career, twisted, bent, broken and finally added to in the band's Reykjavik studio, to create a new perspective for a dance piece of the same title initiated and created by Taiwanese choreographer Cheng Tsung-Lung."
-

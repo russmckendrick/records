@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Sigur Rós (9:46)
 2. Dögun (5:50)
@@ -39,13 +38,13 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 22. Mistur (2:12)
 23. Syndir Guðs (Opinberun Frelsarans) (13:51)
 24. Rukrym (2:51)
+## Spotify
+{{< spotify type="album" id="5FOHr9NAcLlF1ChHMulOMv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von [Full Album Stream]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -55,4 +54,3 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 | Catalog Number | XLLP609 |
 
 Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.  Violet PVC outer sleeve & printed inner sleeves. Track D2 ends in a locked groove.
-

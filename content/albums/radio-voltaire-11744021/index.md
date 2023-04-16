@@ -1,6 +1,6 @@
 ---
-title: "Kino (2) - Radio Voltaire"
-artist: "Kino (2)"
+title: "Kino - Radio Voltaire"
+artist: "Kino"
 album_name: "Radio Voltaire"
 date: 2018-03-24
 release_id: "11744021"
@@ -8,12 +8,11 @@ slug: "radio-voltaire-11744021"
 hideSummary: true
 cover:
     image: "radio-voltaire-11744021.jpg"
-    alt: "Radio Voltaire by Kino (2)"
-    caption: "Radio Voltaire by Kino (2)"
+    alt: "Radio Voltaire by Kino"
+    caption: "Radio Voltaire by Kino"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Radio Voltaire (7:03)
 2. The Dead Club (4:09)
@@ -37,6 +36,8 @@ styles: ["Prog Rock"]
 20. Grey Shapes On Concrete Fields (4:39)
 21. Keep The Faith (5:32)
 22. The Silent Fighter Pilot (4:42)
+## Spotify
+{{< spotify type="album" id="4Mnz7gyNTMFq6qcoXjTswk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}
@@ -50,16 +51,13 @@ styles: ["Prog Rock"]
 - [I Won't Break So Easily Any More](https://www.youtube.com/watch?v=0fFdioSs9ic)
 - [Warmth of the Sun](https://www.youtube.com/watch?v=N6rIZtd6izQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
-| Discogs Link   | [Kino (2) - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |
+| Discogs Link   | [Kino - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | IOMLP 501, 19075820301 |
 
 Gatefold sleeve
-

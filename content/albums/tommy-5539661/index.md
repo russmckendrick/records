@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Overture (3:50)
 2. It's A Boy (2:07)
@@ -39,14 +38,14 @@ styles: ["Classic Rock"]
 22. Welcome (4:32)
 23. Tommy's Holiday Camp (0:57)
 24. We're Not Gonna Take It (7:06)
+## Spotify
+{{< spotify type="album" id="5cT7ee1sy2oEbFalP4asS4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="txA_FXWX7Po" title="The̲ W̲ho -Tommy (1969) 1990 MFSL Remaster (Full Album)" >}}
 - [Overture](https://www.youtube.com/watch?v=MPUDqqINVXE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -56,4 +55,3 @@ styles: ["Classic Rock"]
 | Catalog Number | B0019527-01, 3715749 |
 
 Includes 12 page booklet containing lyrics and artwork.  Runouts are etched.
-

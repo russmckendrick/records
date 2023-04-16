@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. A Perfect Miracle
 2. I'm Your Man
@@ -24,13 +23,13 @@ styles: ["Psychedelic Rock"]
 7. The Morning After
 8. The Prize
 9. Sail on Through
+## Spotify
+{{< spotify type="album" id="3ToLAAL4scA1rjgdLmbftg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ydrvW4Sw4QA" title="Spiritualized - And Nothing Hurt Full (Album Stream)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +39,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | BELLAVI800HZ |
 
 White Vinyl release exclusive to independent record stores
-

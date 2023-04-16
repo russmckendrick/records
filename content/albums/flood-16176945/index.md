@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Theme From Flood (0:29)
 2. Birdhouse In Your Soul (3:15)
@@ -34,6 +33,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 17. Sapphire Bullets Of Pure Love (1:32)
 18. They Might Be Giants (2:39)
 19. Road Movie To Berlin (2:24)
+## Spotify
+{{< spotify type="album" id="7FwAtuhhWivxvK4aPgyyUD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}
@@ -57,9 +58,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -69,4 +68,3 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Catalog Number | MOVLP1239 |
 
 Hype sticker: Limited numbered edition of 2,500 copies on icy mint coloured vinyl 180 gram audiophile vinyl  Gatefold sleeve. Poly-lined die-cut white paper inner sleeve.  Made in the EU.
-

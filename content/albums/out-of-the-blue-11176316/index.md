@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Turn To Stone
 2. It's Over
@@ -29,6 +28,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 12. The Whale
 13. Birmingham Blues
 14. Wild West Hero
+## Spotify
+{{< spotify type="album" id="3usnShwygMXVZB4IV5dwnU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2f9CoaIH9FE" title="E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977" >}}
@@ -41,9 +42,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Electric Light Orchestra - Turn To Stone (Audio)](https://www.youtube.com/watch?v=BDhJU_cNCZE)
 - [Electric Light Orchestra - The Quick And The Daft (Audio)](https://www.youtube.com/watch?v=r-Py1j_EMKg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -53,4 +52,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | 88985456161 |
 
 40th Anniversary double LP Picture Disc with digital download. Made in the E.U. ℗ 1977 Epic Records © 1977, 2017 Epic Records 
-

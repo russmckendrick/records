@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Traitor (3:08)
 2. Motorcrash (2:22)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Sick For Toys (3:12)
 10. F***ing In Rhythm & Sorrow (3:11)
 11. Take Some Petrol Darling (1:27)
+## Spotify
+{{< spotify type="album" id="0UQGKhImc5hgh2SxYAA3Jp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xAb5-GDu3uE" title="Traitor" >}}
@@ -40,9 +41,7 @@ styles: ["Indie Rock"]
 - [F***ing In Rhythm And Sorrow](https://www.youtube.com/watch?v=Zida7dnffkM)
 - [Take Some Petrol Darling](https://www.youtube.com/watch?v=zmSH84SYbcI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,4 +51,3 @@ styles: ["Indie Rock"]
 | Catalog Number | tplp5, TPLP5 - Pink |
 
 Limited edition of 500 copies.  Comes with a Rough Trade Essential Edition obi and a barcode sticker on the plastic seal on the back.  The labels still show the track numbers of the original release (side A as 1-5 and side B as 6-10), with track B6 not mentioned on release, as with all previous releases.  From back sleeve: warmest thanks to frikki por his input. welcome to melax. recorded at: studio syrland, reykjavik. berry st. studios, london. orinocco studios, london.  Made in England.
-

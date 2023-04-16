@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Big Star (4:05)
 2. I See (3:50)
@@ -25,14 +24,14 @@ styles: ["Alternative Rock"]
 8. Mellie's Comin' Over (2:11)
 9. Come Around (4:11)
 10. Step Back (2:33)
+## Spotify
+{{< spotify type="album" id="6zhu5JppyczTRXGzHA2qr8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here & Now (Official Music Video)" >}}
 - [Big Star](https://www.youtube.com/watch?v=V9lzLf5sOJk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | DRR-101 |
 
 Limited to 1000 copies  Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com Booking: Larry Webman: lwebmn@paradigmagency.com  Reissues dedicated to Steve Baker RIP
-

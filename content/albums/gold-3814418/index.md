@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. New York, New York (3:47)
 2. Firecracker (2:48)
@@ -36,6 +35,8 @@ styles: ["Alternative Rock"]
 19. Sweet Black Magic (2:34)
 20. The Bar Is A Beautiful Place (5:50)
 21. Cannonball Days (3:22)
+## Spotify
+{{< spotify type="album" id="1tYlx93ShW1M8TiAVDJSKc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hmHgY_J63Ik" title="Ryan Adams - New York, New York" >}}
@@ -56,9 +57,7 @@ styles: ["Alternative Rock"]
 - [Sylvia Plath](https://www.youtube.com/watch?v=-xx6TFd9Xmw)
 - [Touch, Feel & Lose](https://www.youtube.com/watch?v=yUDIF-bmjV8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -66,6 +65,5 @@ styles: ["Alternative Rock"]
 | Label          | Lost Highway |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 008817023519 |
-
 
 

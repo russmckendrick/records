@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Ten Little Girls
 2. I Speak Your Every Word
@@ -27,9 +26,7 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 - [Curve - I speak your every word](https://www.youtube.com/watch?v=OTUS6N9OWYY)
 - [Curve - No escape from heaven](https://www.youtube.com/watch?v=925lc-W7MGk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -39,4 +36,3 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 | Catalog Number | MOV12030 |
 
 Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track timings not stated on release.
-

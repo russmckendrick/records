@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Alice
 2. Everything You Can Think
@@ -30,15 +29,15 @@ styles: ["Alternative Rock", "Experimental"]
 13. Fish & Bird
 14. Barcarolle
 15. Fawn
+## Spotify
+{{< spotify type="album" id="3zeDrhkNv8872fC7CsOCpI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="aEj-mrwwaxo" title="Alice - Tom Waits" >}}
 - [Tom Waits - Flowers Grave](https://www.youtube.com/watch?v=_x198_I0Nfc)
 - [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=9Bk9ao6cSFs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Experimental"]
 | Catalog Number | 6632-3 |
 
 6632-3 CAT. NO. on spine & labels
-

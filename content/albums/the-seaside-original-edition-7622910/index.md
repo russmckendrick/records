@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock"]
 ---
-
 ## Tracklisting
 1. Jibber And Twitch
 2. Gena Lolla Brigida
@@ -39,16 +38,13 @@ styles: ["Art Rock"]
 - [Cardiacs - A Little Man and His House Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=LSbRmyVMRhU)
 - [Cardiacs - To Go Off and Things Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=4vM9-0Fhea4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Cardiacs - The Seaside (Original Edition)](https://www.discogs.com/release/7622910-Cardiacs-The-Seaside-Original-Edition) |
-| Label          | Alphabet (3) |
+| Label          | Alphabet |
 | Format         | 2xLP, Album, RM |
 | Catalog Number | ALPH LP 001 |
 
 2015 remastered "Original Edition"  Remastered from the original tapes with all 13 original tracks restored and committed to heavy double vinyl. Lovingly recreated artwork with unseen photography in gatefold format. Download voucher includes three alternate version of 'Gena Lolla Brigida', 'Hope Day' and 'Jibber and Twitch' from the 1995 reissue.   Originally released in 1984 as [ALPH 001](http://www.discogs.com/Cardiacs-The-Seaside/release/4391932) Record at Crow Studios, Surbition, Surrey, England. Transferred from the original analogue tapes at FX Copyroom. Remastered at Golden Digital No 1 Studio, Prague, July 2015.   © 1984 The Alphabet Business Concern. 
-

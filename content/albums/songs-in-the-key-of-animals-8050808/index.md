@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Peacockin' Party (2:40)
 2. Girls Love Shoes (2:52)
@@ -27,13 +26,13 @@ styles: ["Indie Pop"]
 10. Longshot (3:51)
 11. Song For Nancy (5:50)
 12. ? Take You Home (3:37)
+## Spotify
+{{< spotify type="album" id="4d0NAOjtU92WVcPVfIPz4q" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rmHcDfvHP-A" title="Benji Hughes - Peacockin' Party (Official Music Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -43,4 +42,3 @@ styles: ["Indie Pop"]
 | Catalog Number | MRG551 |
 
 LP includes a coupon for a full download.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Jazz-Funk"]
 ---
-
 ## Tracklisting
 1. Memphis Soul Stew (7:30)
 2. A Whiter Shade Of Pale (5:15)
@@ -24,6 +23,8 @@ styles: ["Jazz-Funk"]
 7. Mr. Bojangles (4:23)
 8. Signed Sealed Delivered, I'm Yours (2:30)
 9. Soul Serenade (5:30)
+## Spotify
+{{< spotify type="album" id="0Tg5AKLEbLNnDjyZh5e913" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QISOupYqTi4" title="Memphis Soul Stew (Live at Fillmore West, 3/7/1971)" >}}
@@ -36,9 +37,7 @@ styles: ["Jazz-Funk"]
 - [Signed, Sealed, Delivered (I'm Yours) (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=4kbU4KldDAA)
 - [Soul Serenade (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=oQlq6BqIP-o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -48,4 +47,3 @@ styles: ["Jazz-Funk"]
 | Catalog Number | MOVLP1143 |
 
 Originally released ℗  & © 1971 ATCO records This release ℗ © 2104 Warner Music. Comes into a lined black paper with round central holes. Made in the EU.
-

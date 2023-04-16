@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Hang On (5:05)
 2. The Cabbage (2:56)
@@ -30,13 +29,13 @@ styles: ["Indie Rock"]
 13. Gene Clark (6:37)
 14. Country Song (3:58)
 15. Eyes Wide Open (1:59)
+## Spotify
+{{< spotify type="album" id="5Ocxy8ZhqDlnZ6tRVn7pYH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UeuvjxmaEkk" title="Teenage Fanclub - Hang On" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 19075837061 |
 
 Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire. Mixed at Revolution Studios. Mastered at the Hit Factory. Remastered at Abbey Road Studio Joe MacAlinden appears courtesy of [l944]/[l144867]. John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [Temple Records](https://www.discogs.com/label/120387-Temple-Records-2). An initial run of copies preordered from official webstore was signed by band members'.  Includes a colour inner sleeve printed with credits and photographs. Includes mp3 download card. Limited edition 7" included with initial pressing. Track times are not printed on the release itself, 7" excepted.
-

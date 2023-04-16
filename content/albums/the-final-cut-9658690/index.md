@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Post War Dream
 2. Your Possible Pasts
@@ -28,11 +27,11 @@ styles: ["Prog Rock"]
 11. The Final Cut
 12. Not Now John
 13. Two Suns In The Sunset
-
+## Spotify
+{{< spotify type="album" id="1yMenUMOx7BpfTDuVQs99y" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +41,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PFRLP12, 0190295996956 |
 
 The French release is all the same with a sticker written in that language instead of English.  Subtitled as 'A Requiem For The Post War Dream By Roger Waters'. Original UK release date: March 1983.  Made in the E.U.  On back cover: Special thanks to Neal Wharton  During the original release, 'When The Tigers Broke Free ' did not appear on this album.  Tracktimes do not appear anywhere on this release.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Lo-Fi"]
 ---
-
 ## Tracklisting
 1. Beautiful Freak
 2. Novocaine For The Soul
@@ -106,9 +105,7 @@ styles: ["Indie Rock", "Lo-Fi"]
 89. Climbing To The Moon
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -118,4 +115,3 @@ styles: ["Indie Rock", "Lo-Fi"]
 | Catalog Number | 602547306623, 602547306616, 602547306630, 60254730 |
 
 "Daisies Of The Galaxy" and "Souljacker" have consecutively listed track positions. Track H15 is not listed on the release.  M1-O3 Recorded somewhere in England, December 1998 P1. Gronigen, Holland, Sept. 30 1998 P2. Stockholm, Sweden, Oct. 5 1998 P3 & P4. Paris, France, Sept. 21 1998 P5. Indianapolis, Indiana, U.S.A., Oct. 29 1998  First 100 copies came with 6 art prints.
-

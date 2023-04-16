@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Rhythm Of The Heat
 2. San Jacinto
@@ -23,6 +22,8 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 6. Lay Your Hands On Me
 7. Wallflower
 8. Kiss Of Life
+## Spotify
+{{< spotify type="album" id="4jd6oC0It60c1J3GpXCv6M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="49mdn20QsbM" title="Peter Gabriel - Spiel Ohne Grenzen" >}}
@@ -41,9 +42,7 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 - [Handauflegen](https://www.youtube.com/watch?v=-DvTrVx02oU)
 - [Peter Gabriel - Nicht die Erde hat dich verschluckt](https://www.youtube.com/watch?v=5ynBCrpfd4o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 | Catalog Number | PGLPR4, 884108004180 |
 
 ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.  Half-Speed Remaster + Hi-Res Download Code.  Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Metal", "Grunge"]
 ---
-
 ## Tracklisting
 1. We Die Young (2:32)
 2. It Ain't Like That (4:38)
@@ -25,9 +24,7 @@ styles: ["Alternative Metal", "Grunge"]
 - [Alice in Chains - Killing Yourself - We Die Young EP](https://www.youtube.com/watch?v=MtrLJrMZwMo)
 - [Killing Yourself - Alice in Chains](https://www.youtube.com/watch?v=6e8l4TPdVCI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -37,4 +34,3 @@ styles: ["Alternative Metal", "Grunge"]
 | Catalog Number | 19439784651 |
 
 Record Store Day 2022 exclusive release, edition of 14350 copies worldwide. This is the version for RSD outside the US, that can be distinguished from the US version by the presence of Sony Music logo. No MPO pressing info on side C.  Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
-
 ## Tracklisting
 1. Peaches
 2. Golden Brown
@@ -35,6 +34,8 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 18. Don't Bring Harry
 19. La Folie
 20. 96 Tears
+## Spotify
+{{< spotify type="album" id="3HExg0VnCPiFFF6M3VYpQr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ckbONnCzZlU" title="[Get A] Grip (On Yourself) (Grip '89 Remix)" >}}
@@ -50,9 +51,7 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 - [The Stranglers - Always The Sun (Video)](https://www.youtube.com/watch?v=8dEySTzQ6oc)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -62,4 +61,3 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 | Catalog Number | 0190295187149 |
 
 Sticker on front: the very best of the stranglers - 2 LP set on vinyl for the first time Limited 1,500 copies  Event: RSD 2020 Black friday Release type: RSD First Release
-

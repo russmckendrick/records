@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Classical"]
 styles: ["Downtempo", "Modern Classical"]
 ---
-
 ## Tracklisting
 1. DeLarge (5:22)
 2. Clay (2:30)
@@ -36,9 +35,7 @@ styles: ["Downtempo", "Modern Classical"]
 {{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}
 - [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +45,3 @@ styles: ["Downtempo", "Modern Classical"]
 | Catalog Number | COOP006LP |
 
 ℗ 2015, © 2015 San Quentin. The copyright in this sound recording is owned by San Quentin, and is exclusively licensed to [PIAS]. Made in the E.U.  Track B2 / CD-6 'Hal' is a re-recorded version of [Closer](https://www.discogs.com/The-Soulsavers-Closer-EP/master/121758).
-

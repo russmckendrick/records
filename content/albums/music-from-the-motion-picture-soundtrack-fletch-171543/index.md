@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Synth-pop", "Disco"]
 ---
-
 ## Tracklisting
 1. Bit By Bit (Theme From "Fletch") (3:38)
 2. Fletch, Get Outta Town (4:11)
@@ -38,9 +37,7 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 - [Exotic Skates](https://www.youtube.com/watch?v=aIlWY_tk53s)
 - [Running For Love (Instrumental)](https://www.youtube.com/watch?v=HC2-slEyuVk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -50,4 +47,3 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 | Catalog Number | 252 332-1, MCA-6142 |
 
 Manufactured in Germany by Record Service GmbH, Alsdorf.  ℗ 1985 MCA Records, Inc., except * [tracks A4 + B2] ℗ 1984 MCA Records, Inc.  There is a Warner "Big W" logo embossed on the bottom right of the back cover.
-

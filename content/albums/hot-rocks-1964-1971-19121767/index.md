@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Time Is On My Side (2:50)
 2. Heart Of Stone (2:49)
@@ -36,11 +35,11 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 19. You Can't Always Get What You Want (7:28)
 20. Brown Sugar (3:50)
 21. Wild Horses (5:41)
-
+## Spotify
+{{< spotify type="album" id="0aqZJlugIkTUWW1sa4BANp" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 | Catalog Number | 2PS 606/7, 8777-1 |
 
 Record Store Day Pressing for Drop 2 on July 17th, but few copies slipped out in France and Mexico on Drop 1.  Limited to 7200 copies.  Includes two 8.5" x 11" lithographs printed on embossed archival paper  Labels: Made in the EU.  Sleeve: Made in Germany  with OBI  inner 1 with London Sunburst image  inner 2 with replica of  original London Records insert with Rolling Stones catalogue  Variant 4 runout: side B - "2" in "V2" is mirrored; side C - "1" in "+1" is mirrored.
-

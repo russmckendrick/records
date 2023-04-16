@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Texas Blues"]
 ---
-
 ## Tracklisting
 1. Love Struck Baby
 2. Pride And Joy
@@ -32,6 +31,8 @@ styles: ["Blues Rock", "Texas Blues"]
 15. Tightrope
 16. Long Way From Home (The Vaughan Brothers)
 17. Life By The Drop
+## Spotify
+{{< spotify type="album" id="4dShhtGUjPunYS95jHOm3r" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="y1Xh-UepaUs" title="Pride and Joy" >}}
@@ -42,9 +43,7 @@ styles: ["Blues Rock", "Texas Blues"]
 - [Rude Mood/Hide Away (Live)](https://www.youtube.com/watch?v=mBzud6-s5rg)
 - [S̲t̲evie R̲ay V̲a̲u̲ghan & D̲o̲uble T̲r̲ouble - The Essential (2002) (Full Album)](https://www.youtube.com/watch?v=1-Srg_2GlpU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,6 +51,5 @@ styles: ["Blues Rock", "Texas Blues"]
 | Label          | Epic, Legacy |
 | Format         | 2xLP, Comp |
 | Catalog Number | 88985357751 |
-
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Dubstar (2) - One"
-artist: "Dubstar (2)"
+title: "Dubstar - One"
+artist: "Dubstar"
 album_name: "One"
 date: 2018-10-13
 release_id: "12652179"
@@ -8,12 +8,11 @@ slug: "one-12652179"
 hideSummary: true
 cover:
     image: "one-12652179.jpg"
-    alt: "One by Dubstar (2)"
-    caption: "One by Dubstar (2)"
+    alt: "One by Dubstar"
+    caption: "One by Dubstar"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Love Comes Late (4:48)
 2. Love Gathers (4:28)
@@ -25,22 +24,21 @@ styles: ["Indie Rock"]
 8. Locked Inside (5:52)
 9. Why Don't You Kiss Me (3:12)
 10. Mantra (6:32)
+## Spotify
+{{< spotify type="album" id="2FolW5OxGj746FZ4LaKYqF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="W3c4_v-wPw8" title="Dubstar - Love Comes Late (Official Music Video)" >}}
 - [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
 - [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
-| Discogs Link   | [Dubstar (2) - One](https://www.discogs.com/release/12652179-Dubstar-One) |
+| Discogs Link   | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-One) |
 | Label          | Northern Writes |
 | Format         | LP, Album, Ltd, Num, Red |
 | Catalog Number | none |
 
 Limited to 500 copies.  Comes with Mp3 download code card.
-

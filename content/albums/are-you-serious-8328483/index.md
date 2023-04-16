@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Capsized (3:40)
 2. Roma Fade (4:03)
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Bellevue (2:03)
 12. Shoulder Mountain (4:02)
 13. Pulaski (3:32)
+## Spotify
+{{< spotify type="album" id="6TqAnRWjGY3ztfajmS0HSG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]" >}}
@@ -37,9 +38,7 @@ styles: ["Indie Rock"]
 - [Andrew Bird - Valleys of the Young](https://www.youtube.com/watch?v=IeuCE-iazeA)
 - [Andrew Bird - ROMA FADE  (Are You Serious 2016)](https://www.youtube.com/watch?v=wRoj8WzBsJo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Indie Rock"]
 | Catalog Number | LVR-39052-01 |
 
 Deluxe edition. Includes bonus red colored 7" single, insert with lyrics and download card.
-

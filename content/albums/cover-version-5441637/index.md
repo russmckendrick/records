@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Folk", "Ambient", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Thank You (4:39)
 2. The Day Before You Came (5:06)
@@ -27,6 +26,8 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 10. The Unquiet Grave (6:57)
 11. Well You're Wrong (3:35)
 12. An End To End (5:12)
+## Spotify
+{{< spotify type="album" id="5OVe5YgKI66pTHidNkvwTE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest (The Cure cover)" >}}
@@ -40,9 +41,7 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 - [Steven Wilson - An End To An End/Cover Version VI](https://www.youtube.com/watch?v=_eVMIDd8NqE)
 - [Steven Wilson- Four Trees Down](https://www.youtube.com/watch?v=3mR8xXy8GFs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -52,4 +51,3 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 | Catalog Number | KSCOPE858 |
 
 Gatefold sleeve and printed innersleeves. Tracks listed sequentially on rear cover.
-

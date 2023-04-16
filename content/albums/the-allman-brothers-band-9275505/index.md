@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
-
 ## Tracklisting
 1. 1969 Original Stereo Mix
 2. Don't Want You No More (2:25)
@@ -31,6 +30,8 @@ styles: ["Blues Rock", "Southern Rock"]
 14. Every Hungry Woman (4:17)
 15. Dreams (7:17)
 16. Whipping Post (5:20)
+## Spotify
+{{< spotify type="album" id="0R71uuGE9YcLkywh2h9gUv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KxZ_ZbiCHpc" title="Black Hearted Woman" >}}
@@ -43,9 +44,7 @@ styles: ["Blues Rock", "Southern Rock"]
 - [Every Hungry Woman](https://www.youtube.com/watch?v=5XK2DDoAWTc)
 - [Don't Want You No More/It's Not My Cross To Bear The Allman Brothers Duane Allman](https://www.youtube.com/watch?v=ZkBdtjq_26s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -55,4 +54,3 @@ styles: ["Blues Rock", "Southern Rock"]
 | Catalog Number | 00602547813190 |
 
 2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.  180-Gram Audiophile vinyl, newly remastered from original analog tapes. DMM Direct Metal Mastering for Optimal Sound  Made in Holland
-

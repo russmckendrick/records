@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Sacrifice
 2. Nothing Compares 2 U
@@ -46,9 +45,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 29. Life's What You Make It
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -58,4 +55,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | STAR 2481 |
 
 D3 misspelled "Closet mix" instead of "Closest mix" 
-

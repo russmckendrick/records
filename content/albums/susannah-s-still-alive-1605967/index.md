@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Susannah's Still Alive
 2. Blind In Safety And Leafy In Love
@@ -22,9 +21,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 {{< youtube id="8YMs5QwHmMc" title="Cardiacs - Suzannah's Still Alive" >}}
 - [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -34,4 +31,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | ALPH 009 |
 
 Track A Darbe Music/Carlin Music Ltd Track B Copyright Control  © 1988 ℗ The Alphabet Business Concern 1988
-

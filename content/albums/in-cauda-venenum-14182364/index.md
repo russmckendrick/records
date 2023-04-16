@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Garden Of Earthly Delights
 2. Dignity
@@ -25,6 +24,8 @@ styles: ["Progressive Metal", "Prog Rock"]
 8. The Garroter
 9. Continuum
 10. All Things Will Pass
+## Spotify
+{{< spotify type="album" id="0NAN3xcePJlVbTY1YaXCqK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum (Full Album)" >}}
@@ -32,9 +33,7 @@ styles: ["Progressive Metal", "Prog Rock"]
 - [OPETH - Dignity (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=GF5FXYmBrc4)
 - [OPETH - Svekets Prins (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,6 +41,5 @@ styles: ["Progressive Metal", "Prog Rock"]
 | Label          | Nuclear Blast, Moderbolaget Records, Nuclear Blast, Moderbolaget Records |
 | Format         | 2xLP, Album, Pic |
 | Catalog Number | NB 4557-3, 27361 45573 |
-
 
 

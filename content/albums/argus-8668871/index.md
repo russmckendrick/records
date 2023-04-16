@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Time Was (9:39)
 2. Sometime World (6:49)
@@ -22,6 +21,8 @@ styles: ["Hard Rock", "Classic Rock"]
 5. Leaf And Stream (3:51)
 6. Warrior  (11:58)
 7. Throw Down The Sword
+## Spotify
+{{< spotify type="album" id="7xEluvnbmFtRB5g66CJ2ND" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iIbHRX8hO64" title="Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]" >}}
@@ -34,9 +35,7 @@ styles: ["Hard Rock", "Classic Rock"]
 - [Wishbone Ash - Warrior](https://www.youtube.com/watch?v=U5X_Dd_6Czk)
 - [Wishbone Ash - Leaf and Stream](https://www.youtube.com/watch?v=ZB6fCuxGvAw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -46,4 +45,3 @@ styles: ["Hard Rock", "Classic Rock"]
 | Catalog Number | MCA 410 099, 410099 |
 
 Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919 BA-213 on rear sleeve (P) 1978 réédition Printed in France Imp Glory 92602 Asnières Made in France  cat# is given as MCA 410 009 on cover and 410009 on center labels
-

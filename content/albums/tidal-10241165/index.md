@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Sleep To Dream (4:08)
 2. Sullen Girl (3:54)
@@ -25,6 +24,8 @@ styles: ["Soft Rock", "Pop Rock"]
 8. The Child Is Gone (4:14)
 9. Pale September (5:50)
 10. Carrion (5:43)
+## Spotify
+{{< spotify type="album" id="5gVBXH8MT6zfdRkjp7qT18" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uiuk0z8dzXo" title="Fiona Apple - The First Taste" >}}
@@ -33,9 +34,7 @@ styles: ["Soft Rock", "Pop Rock"]
 - [Fiona Apple - Sleep to Dream (Official Video)](https://www.youtube.com/watch?v=L9Wnh0V4HMM)
 - [Fiona Apple - Never Is a Promise (Official Video)](https://www.youtube.com/watch?v=c5XptSCCciU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Soft Rock", "Pop Rock"]
 | Catalog Number | 88985420001 |
 
 Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet. www.vinylmeplease.com/products/fiona-full  © 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles Mixed at Brooklyn Recording Studio, Los Angeles [...] Production Coordinator: Valerie Pack for Harvest Moon Productions  All songs [...] © 1996 FHW Publishing (ASCAP)
-

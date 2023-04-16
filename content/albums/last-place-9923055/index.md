@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Way We Won't
 2. Brush With The Wild
@@ -26,6 +25,8 @@ styles: null
 9. Jed The 4th
 10. A Lost Machine
 11. Songbird Son
+## Spotify
+{{< spotify type="album" id="6Izx34SwzUfQbBzIvcNRkf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QUEiXOxFfec" title="Grandaddy - Way We Won't" >}}
@@ -41,9 +42,7 @@ styles: null
 - [Grandaddy - A Lost Machine](https://www.youtube.com/watch?v=0Z_ldxXaHIc)
 - [Grandaddy - Songbird Son](https://www.youtube.com/watch?v=AKZzOBsBoLc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -53,4 +52,3 @@ styles: null
 | Catalog Number | 88985 39875 1 |
 
 2000 copies available exclusively through Rough Trade.
-

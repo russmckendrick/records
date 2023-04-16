@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Black Mirror (4:13)
 2. Keep The Car Running (3:29)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. Windowsill (4:16)
 10. No Cars Go (5:43)
 11. My Body Is A Cage (4:47)
+## Spotify
+{{< spotify type="album" id="4GT6uZod4p5RiDMOVHOMme" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eHe4cDG2ErM" title="Arcade Fire - Neon Bible (Official Audio)" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Arcade Fire - Intervention](https://www.youtube.com/watch?v=ZO7ZWfvCjBE)
 - [Arcade Fire - Black Wave, Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 1724447 |
 
 LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.  Side three has a locked groove in the run out repeatedly playing the same, short piece of music.  Recorded and mixed during 2006 at "the church" in Quebec. Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.  The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc 
-

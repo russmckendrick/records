@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Sex & Drugs & Rock & Roll
 2. Wake Up And Make Love
@@ -34,9 +33,7 @@ styles: ["Punk"]
 - [Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
 - [Ian Dury - Wake up and make love with me](https://www.youtube.com/watch?v=c-VeOakGGPQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +43,3 @@ styles: ["Punk"]
 | Catalog Number | DEMREC280 |
 
 Released on translucent yellow heavyweight vinyl .  Sticker on the wrapper states: IAN DURY AND THE BLOCKHEADS GREATEST HITS INCLUDES THE HIT SONGS 'HIT ME WITH YOUR RYTHM STICK' 'REASON'S TO BE CHEERFUL (PART 3)' 'WHAT A WASTE' ON 180g COLOURED VINYL DEMREC280
-

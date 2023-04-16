@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Baby Universal (3:18)
 2. One Shot (5:11)
@@ -36,9 +35,7 @@ styles: ["Alternative Rock"]
 - [Tin Machine - Baby Universal (music video version)](https://www.youtube.com/watch?v=E7q3FDDmqmA)
 - [Tin Machine - One Shot](https://www.youtube.com/watch?v=esu90pt3aTo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,4 +45,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | MOVLP2715 |
 
 Originally released ℗ © 1991 Tin Machine.  Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover. Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.  Track B7 is unlisted.  Includes insert.  Special spot varnished sleeve.  Hype sticker front cover in gold.
-

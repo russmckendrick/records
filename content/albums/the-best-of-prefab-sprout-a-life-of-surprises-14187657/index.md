@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. The King Of Rock 'N' Roll (4:25)
 2. When Love Breaks Down (4:09)
@@ -31,6 +30,8 @@ styles: ["Pop Rock", "Synth-pop"]
 14. Wild Horses (3:41)
 15. Hey Manhattan! (4:46)
 16. All The World Loves Lovers (3:51)
+## Spotify
+{{< spotify type="album" id="0W1lMfOHYxHxWKHlwPdQnq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FKZY_r0hKqg" title="Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)" >}}
@@ -48,9 +49,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Prefab Sprout Wild Horses](https://www.youtube.com/watch?v=Zv_jxrAMThI)
 - [Prefab Sprout - The Sound Of Crying](https://www.youtube.com/watch?v=6we_GK0ZWa8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -60,4 +59,3 @@ styles: ["Pop Rock", "Synth-pop"]
 | Catalog Number | 19075944651 |
 
 Gatefold sleeve. Made in the EU.  Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers.
-

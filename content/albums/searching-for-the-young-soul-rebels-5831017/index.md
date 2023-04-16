@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Soul"]
 ---
-
 ## Tracklisting
 1. Burn It Down
 2. Tell Me When My Light Turns Green
@@ -26,6 +25,8 @@ styles: ["New Wave", "Soul"]
 9. Keep It
 10. Love Part One
 11. There, There, My Dear
+## Spotify
+{{< spotify type="album" id="5iawHcgRuKL5HMRbigdvWC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IV6WFnLUl10" title="Burn It Down (2000 Remaster)" >}}
@@ -40,9 +41,7 @@ styles: ["New Wave", "Soul"]
 - [Love, Pt. 1 (Poem) (2000 Remaster)](https://www.youtube.com/watch?v=bAB5okWV9s4)
 - [There There My Dear (2000 Remaster)](https://www.youtube.com/watch?v=OQHFTLIbRLU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -52,4 +51,3 @@ styles: ["New Wave", "Soul"]
 | Catalog Number | PCSX 7213, 2564629701 |
 
 Comes with lyrics inner sleeve.
-

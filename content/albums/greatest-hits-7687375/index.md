@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Tired Of Being Alone  (2:43)
 2. Call Me (Come Back Home) (3:04)
@@ -25,6 +24,8 @@ styles: ["Soul"]
 8. You Ought To Be With Me (3:20)
 9. Look What You Done For Me (3:06)
 10. Let's Get Married  (3:23)
+## Spotify
+{{< spotify type="album" id="6W0V8B0fJItvOwC8v114rZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}
@@ -39,9 +40,7 @@ styles: ["Soul"]
 - [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
 - [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -51,4 +50,3 @@ styles: ["Soul"]
 | Catalog Number | FPH1135-1 |
 
 Comes with a download code, redeemable via Memphis Vinyl's website.
-

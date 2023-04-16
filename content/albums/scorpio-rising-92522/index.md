@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield"]
 ---
-
 ## Tracklisting
 1. Leather
 2. Girls
@@ -37,9 +36,7 @@ styles: ["Alternative Rock", "Leftfield"]
 - [Death in Vegas - 23 Lies (Hope Sandoval)](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 - [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2002 |
@@ -49,4 +46,3 @@ styles: ["Alternative Rock", "Leftfield"]
 | Catalog Number | HARD5312, 74321954591 |
 
 Gatefold picture sleeve.  Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.  ℗&© 2002 BMG UK & Ireland Ltd.  All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd.   Made in the EU.
-

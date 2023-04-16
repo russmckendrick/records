@@ -13,20 +13,19 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Electro", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Feeling My Heart Run Slow
 2. No Ideas
 3. The Silence Is Deafening
 4. F.M.H.R.S. (The Twilight Sad Mix)
+## Spotify
+{{< spotify type="album" id="7mKi3cd7dfW7Y1VR4MeZWG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="T4R-y4AHIis" title="Paul Draper - EP ONE (Full EP stream)" >}}
 - [Paul Draper - Feeling My Heart Run Slow (from EP ONE)](https://www.youtube.com/watch?v=IVpYEYd1LU0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -36,4 +35,3 @@ styles: ["Electro", "Indie Rock"]
 | Catalog Number | KSCOPE927 |
 
 With download card.
-

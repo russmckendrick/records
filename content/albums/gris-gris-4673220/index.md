@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 ---
-
 ## Tracklisting
 1. Gris-Gris Gumbo Ya Ya (5:34)
 2. Danse Kalinda Ba Doom (3:44)
@@ -32,16 +31,13 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 - [Jump Sturdy](https://www.youtube.com/watch?v=KBPGqC27zqc)
 - [I Walk on Guilded Splinters](https://www.youtube.com/watch?v=lekQoT485aA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Dr. John, The Night Tripper - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |
-| Label          | ATCO Records, Rhino Records (2) |
+| Label          | ATCO Records, Rhino Records |
 | Format         | LP, Album, RE |
 | Catalog Number | SD 33-234, 8122797161 |
 
 Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".  On back cover and labels: ℗© 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured In EU. LC02982  Liner notes uncredited.  On runouts: All is etched Last code (after MK) is mirrored  
-

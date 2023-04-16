@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Rock", "Goth Rock"]
 ---
-
 ## Tracklisting
 1. Who Wants To Be The Disco King? (2:49)
 2. Vanishing Point (5:15)
@@ -50,9 +49,7 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 - [All About Eve - December](https://www.youtube.com/watch?v=mZ15nDrekTU)
 - [Tower Of Strength (Bombay Edit)](https://www.youtube.com/watch?v=owjzPHBabI4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -62,4 +59,3 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 | Catalog Number | STAR 2378 |
 
 This album compiled in association with 4.A.D., Mute, Factory, WEA, EMI, BMG & Polygram  Distributed in the UK by BMG Records Ltd. Distributed in Eire by WEA Records (IRL) Ltd.  Also available on cassette >> [STAC 2378](http://www.discogs.com/Various-Product-2378/release/749901) and CD >> [TCD 2378](http://www.discogs.com/Various-Product-2378/release/722967). - This version pressed by Damont. [r=11770103] is pressed by [l=MPO].
-

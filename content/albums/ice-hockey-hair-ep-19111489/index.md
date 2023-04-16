@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Smokin' (5:05)
 2. Mu-tron (3:14)
@@ -26,9 +25,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [Super Furry Animals - Smokin'](https://www.youtube.com/watch?v=kSThnmNv9f4)
 - [Smokin'](https://www.youtube.com/watch?v=A8MIKyYh600)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -38,4 +35,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | BMGCAT491EP, CAT491EP |
 
 RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock    
-

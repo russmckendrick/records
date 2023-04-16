@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Ladies And Gentlemen We Are Floating In Space
 2. Come Together
@@ -27,6 +26,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 10. No God Only Religion
 11. Cool Waves
 12. Cop Shoot Cop…
+## Spotify
+{{< spotify type="album" id="56YzQ0dhmRMDryZsrjdHun" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together (Official Music Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 - [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 | Catalog Number | FP1753-4 |
 
 Packaged in a gatefold, tip-on sleeve.  ℗ & © 1997 Sony Music Entertainment UK. Under exclusive license to Fat Possum Records, LLC. P.O. Box 1923, Oxford, MS 38655. USA. The tablets are made by [MFD Limited](https://www.discogs.com/artist/1014517-Farrow-Design) for the licence/authorisation holder Fat Possum Records.  Recorded and mixed at Moles Studio - Bath, The Church, Rooster and The Strongroom Studios - London, House of Blues - Memphis, The Hit Factory - New York and A&M - Los Angeles.  
-

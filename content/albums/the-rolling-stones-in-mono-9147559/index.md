@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. The Rolling Stones
 2. Route 66
@@ -216,11 +215,11 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 199. Street Fighting Man (Single Version)
 200. Honky Tonk Women
 201. You Can't Always Get What You Want (Single Version)
-
+## Spotify
+{{< spotify type="album" id="5nKpMsduwp5xqCKq2IbSKv" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -230,4 +229,3 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 | Catalog Number | 018771834519 |
 
 Made in The Czech Republic (on box and covers). Made in the EU (on record labels). 10,000 numbered copies.  Includes download code for 160 kbit/s MP3 files of all tracks.  'Stray Cats' is a double LP exclusive to this box set containing all non-lp tracks released in the 1960s.  Includes a 48 page booklet with photos and an essay by David Fricke.  All runouts are laser etched.
-

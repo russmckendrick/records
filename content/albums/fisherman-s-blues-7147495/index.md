@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic"]
 ---
-
 ## Tracklisting
 1. Fisherman's Blues
 2. We Will Not Be Lovers
@@ -26,6 +25,8 @@ styles: ["Acoustic"]
 9. When Ye Go Away
 10. Dunford’s Fancy
 11. The Stolen Child
+## Spotify
+{{< spotify type="album" id="0lIGBQj12ehBETiO01zUZx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="a4UQJwd3awQ" title="The Waterboys - Fisherman's Blues (High Quality)" >}}
@@ -41,9 +42,7 @@ styles: ["Acoustic"]
 - [The Waterboys - The Stolen Child (High Quality)](https://www.youtube.com/watch?v=hqAyfueYtT0)
 - [The Waterboys - This Land Is Your Land (High Quality)](https://www.youtube.com/watch?v=6hOoz2TsXoY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Acoustic"]
 | Catalog Number | CHEN 5 |
 
 www.mikescottwaterboys.com  Made in the E.U.  Track B5 not listed on rear sleeve. Listed on label and printed inner sleeve.  Track B6 contains a coda of “This Land Is Your Land” that is not credited on sleeve, but is partially acknowledged on the label and inner sleeve. 
-

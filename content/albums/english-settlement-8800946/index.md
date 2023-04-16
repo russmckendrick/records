@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Runaways (4:51)
 2. Ball And Chain (4:28)
@@ -45,6 +44,8 @@ styles: ["New Wave", "Pop Rock"]
 28. Down In The Cockpit (5:35)
 29. English Roundabout (3:50)
 30. Snowman (4:26)
+## Spotify
+{{< spotify type="album" id="2fDm6GpssR8S6uQnDE4MKM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FPWEiqHVFGI" title="Melt The Guns (2001 Remaster)" >}}
@@ -62,9 +63,7 @@ styles: ["New Wave", "Pop Rock"]
 - [No Thugs In Our House (2001 Remaster)](https://www.youtube.com/watch?v=PnRzV4ehSxY)
 - [XTC - Knuckle Down](https://www.youtube.com/watch?v=g9zZ0hefFok)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -74,4 +73,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | APELPD105 |
 
 A deluxe version of XTC's 1982 classic, English Settlement.   Including:   * 2 x 33rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * 2016 cut from original half-inch master sources  * CD mastered from the same original master sources  * All contents packaged in a sturdy slipcase   While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition. 
-

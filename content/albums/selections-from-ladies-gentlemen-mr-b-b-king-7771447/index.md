@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. How Blue Can You Get?
 2. I Wonder Why
@@ -36,9 +35,7 @@ styles: null
 ## Videos
 {{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +45,3 @@ styles: null
 | Catalog Number | 0600753629734 |
 
 Includes voucher to download MP3 version of the album. Gatefold cover. Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3)
-

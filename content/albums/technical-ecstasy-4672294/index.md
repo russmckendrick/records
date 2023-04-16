@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Back Street Kids (3:46)
 2. You Won't Change Me (6:34)
@@ -23,6 +22,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 6. Rock 'N' Roll Doctor (3:25)
 7. It's Alright (3:58)
 8. Dirty Women (7:15)
+## Spotify
+{{< spotify type="album" id="7dpMnSxwpr2DSLrdywIYot" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fIbSaZEQHhE" title="Back Street Kids (2021 - Remaster)" >}}
@@ -34,9 +35,7 @@ styles: ["Heavy Metal", "Hard Rock"]
 - [She's Gone (2021 - Remaster)](https://www.youtube.com/watch?v=rpt3XO_Z9mI)
 - [Dirty Women (2021 - Remaster)](https://www.youtube.com/watch?v=j5LN6rpvdGY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -46,4 +45,3 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Catalog Number | 7231 400 |
 
 Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada  "It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct.
-

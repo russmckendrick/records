@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Acoustic", "Folk"]
 ---
-
 ## Tracklisting
 1. Zowie
 2. Processional
@@ -32,9 +31,7 @@ styles: ["Acoustic", "Folk"]
 - [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
 - [PILLBOX - Official Trailer (2017)](https://www.youtube.com/watch?v=ULv4EwpJlb8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +41,3 @@ styles: ["Acoustic", "Folk"]
 | Catalog Number | 538321031 |
 
 Issued in gatefold sleeve.  Indie exclusive, limited to 1,000 copies worldwide.  Mixed at Rainbow Studio, Oslo, Norway except B5 mixed at Shangri La Studios, Malibu, CA  Includes download card.  On back cover : Made in USA.
-

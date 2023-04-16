@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Last Of My Kind (4:22)
 2. Cumberland Gap (3:24)
@@ -25,22 +24,21 @@ styles: ["Country"]
 8. Chaos And Clothes (3:35)
 9. Hope The High Road (3:03)
 10. Something To Love (3:39)
+## Spotify
+{{< spotify type="album" id="0gYLr4tpPpRrPg2WIS64jw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tZaeKwgS7wg" title="Jason Isbell and the 400 Unit - Cumberland Gap" >}}
 - [Jason Isbell and the 400 Unit - White Man's World](https://www.youtube.com/watch?v=nu4dupoC7EE)
 - [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Jason Isbell And The 400 Unit - The Nashville Sound ](https://www.discogs.com/release/10424624-Jason-Isbell-And-The-400-Unit-The-Nashville-Sound-) |
-| Label          | Southeastern Records (2) |
+| Label          | Southeastern Records |
 | Format         | LP, Album, Ltd, Gat |
 | Catalog Number | SER99881 |
 
 With limited edition songbook. Album download included. 400 Songbooks randomly signed by Jason and the band.  © & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.    Recorded in RCA's "Nashville Sound" Studio.  Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI).
-

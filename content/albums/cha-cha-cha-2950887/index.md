@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Latin"]
 styles: ["Cha-Cha"]
 ---
-
 ## Tracklisting
 1. Torrid Cha Cha
 2. Chat Cha Cha
@@ -25,6 +24,8 @@ styles: ["Cha-Cha"]
 8. Pass Cha Cha
 9. Vacation Cha Cha
 10. Piccadilly Cha Cha
+## Spotify
+{{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LL6NYx_5s0o" title="Chat Cha Cha" >}}
@@ -48,9 +49,7 @@ styles: ["Cha-Cha"]
 - [Carmen & Fernando del Valle - Torrid Cha Cha](https://www.youtube.com/watch?v=QYMMx2I3nHs)
 - [Carmen & Fernando del Valle - Piccadilly Cha Cha](https://www.youtube.com/watch?v=7Ttn9aOGmR0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1964 |
@@ -60,4 +59,3 @@ styles: ["Cha-Cha"]
 | Catalog Number | ALL734 |
 
 Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964 
-

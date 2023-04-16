@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Apples & Oranges (Stereo)
 2. Apples & Oranges (Mono)
@@ -25,9 +24,7 @@ styles: ["Alternative Rock"]
 - [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
 - [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -37,4 +34,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | APEEP 901 |
 
 Released as a limited edition of 1,396 copies on 10" vinyl All initial limited edition copies come with a postcard signed by Andy Partridge Included download card for [r=13346086]
-

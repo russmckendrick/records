@@ -13,18 +13,17 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Machinations (8:09)
 2. The World Inside (09:08)
 3. Presynaptic (4:15)
 4. Postsynaptic (10:41)
 5. Apocryphal (10:00)
-
+## Spotify
+{{< spotify type="album" id="6epuWIeu4Wq8XeYMHo1r8a" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -34,4 +33,3 @@ styles: ["Post Rock"]
 | Catalog Number | none |
 
 Includes Download-Code
-

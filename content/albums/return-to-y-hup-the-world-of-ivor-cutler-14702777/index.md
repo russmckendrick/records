@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Here's A Health For Simon
 2. Latitude And Longitude
@@ -46,9 +45,7 @@ styles: null
 {{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}
 - [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -56,6 +53,5 @@ styles: null
 | Label          | Chemikal Underground Records, Creative Scotland, Alba | Chruthachail |
 | Format         | LP, Album, Ltd, Blu |
 | Catalog Number | CHEM255, none |
-
 
 

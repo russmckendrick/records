@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. More Stately Mansions
 2. Sing To God
@@ -25,6 +24,8 @@ styles: null
 8. Dresden
 9. Hammers
 10. Film
+## Spotify
+{{< spotify type="album" id="3YzyuSeAVc9T5576ouKw46" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="w4fZO6j6I2s" title="CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)" >}}
@@ -39,9 +40,7 @@ styles: null
 - [Easy, Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
 - [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -51,4 +50,3 @@ styles: null
 | Catalog Number | SBMLP 035, 0507111 |
 
 including the entire album on CD
-

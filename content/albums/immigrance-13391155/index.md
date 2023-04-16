@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Fusion"]
 ---
-
 ## Tracklisting
 1. Chonks (8:32)
 2. Bigly Strictness (7:37)
@@ -23,6 +22,8 @@ styles: ["Fusion"]
 6. While We're Young (2:42)
 7. Bad Kids To The Back (5:45)
 8. Even Us (7:43)
+## Spotify
+{{< spotify type="album" id="6a1HtLhd3zNccXRNUZ23ge" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tmeJsETS-Yk" title="Chonks" >}}
@@ -36,16 +37,13 @@ styles: ["Fusion"]
 - [Are You In: Immigrance Album Review (Snarky Puppy)](https://www.youtube.com/watch?v=7j1l2DHuRtg)
 - [Snarky Puppy, LIVE FULL SET, Avondale Brewing, Birmingham, 9-21-19](https://www.youtube.com/watch?v=lTNibgY1OSY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Snarky Puppy - Immigrance](https://www.discogs.com/release/13391155-Snarky-Puppy-Immigrance) |
-| Label          | GroundUP Music (2) |
+| Label          | GroundUP Music |
 | Format         | LP + LP, S/Sided, Etch + Album |
 | Catalog Number | GUM0319V |
 
 Distributed in a gatefold sleeve. Includes an mp3 download card.  Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York Additional recording by Camilo Salazar at Morley College in London, England Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York Mastered by Dave McNair in Winston-Salem, North Carolina  Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC) Track A3: © Big Boy Big Girl (ASCAP) Track B1: © Ceebull Music (SESAC) Track B3: © Mazarito Music (SESAC) Track C1: © J Stant Music (SESAC)  ℗ & © 2019 GroundUp Music LLC
-

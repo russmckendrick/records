@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "New Wave"]
 ---
-
 ## Tracklisting
 1. Reuters
 2. Field Day For The Sundays
@@ -36,6 +35,8 @@ styles: ["Punk", "New Wave"]
 19. Champs
 20. Feeling Called Love
 21. 1 2 X U
+## Spotify
+{{< spotify type="album" id="4WXqZZ28geJSPtqLcCF56L" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JFm-U8WIrNg" title="Reuters (2006 Remastered Version)" >}}
@@ -60,9 +61,7 @@ styles: ["Punk", "New Wave"]
 - [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)
 - [1 2 X U (2006 Remastered Version)](https://www.youtube.com/watch?v=jOjCSLMZPok)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -72,4 +71,3 @@ styles: ["Punk", "New Wave"]
 | Catalog Number | PF11LP |
 
 Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag  
-

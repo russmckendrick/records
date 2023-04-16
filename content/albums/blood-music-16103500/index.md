@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Don't Look Now (5:06)
 2. There's Still Life (5:01)
@@ -27,6 +26,8 @@ styles: ["Indie Rock", "Shoegaze"]
 10. Confusion Trip (5:23)
 11. Love Forever (5:58)
 12. Picnic (15:18)
+## Spotify
+{{< spotify type="album" id="10seD0Z3Nw3kGeARJh50Y3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Kpj6vyxS4kw" title="Global Communication ~ Pentamerous Metamorphosis (Full Album)" >}}
@@ -46,9 +47,7 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)](https://www.youtube.com/watch?v=0bgXNI4Fc7E)
 - [Chapterhouse - Picnic](https://www.youtube.com/watch?v=uFcBEq2pfmU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -58,4 +57,3 @@ styles: ["Indie Rock", "Shoegaze"]
 | Catalog Number | MOVLP2700 |
 
 Limited edition of 2000 numbered copies on transparent red vinyl. 180 gram audiophile vinyl
-

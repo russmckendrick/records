@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
-
 ## Tracklisting
 1. Still Of The Night
 2. Bad Boys
@@ -45,9 +44,7 @@ styles: ["Hard Rock", "Arena Rock"]
 - [LP / Whitesnake – 1987 / 1987 / Repress from Bulgaria 1989](https://www.youtube.com/watch?v=G5tBlaw3qnk)
 - [Here I Go Again | Whitesnake [1987] | 1987 Geffen LP](https://www.youtube.com/watch?v=kXfU-IhHqfA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -57,4 +54,3 @@ styles: ["Hard Rock", "Arena Rock"]
 | Catalog Number | EMCX 3528 |
 
 Includes printed inner sleeve, some copies came with a hype sticker.  This release includes the USA Remix of "Here I Go Again". Produced only by Keith Olsen. All other tracks by Mike Stone. IMPORTANT NOTE: This USA Remix version of "Here I Go Again" feature the following players (uncredited in the sleeve at that time): Dann Huff: Guitars, Mark Andes: Bass, Denny Carmassi: Drums, Alan Pasqua: Keyboards. (Neither Adrian Vandenberg nor Bill Cuomo are featured in this song as written on the original credits.  Sleeve: Produced for Mike Stone Enterprises and Pogologo Productions on behalf of Whitesnake Overseas Productions Ltd.  Sleeve printed in England Manufactured in England ℗ 1987 Original sound recordings made by Whitesnake Overseas Ltd, under license to EMI Records Ltd.  © 1987 Whitesnake Overseas Ltd, under license to EMI Records Ltd.   Inner: Originally Mastered at Artisan Sound Recorders.  Direct Metal Mastering at Precision Laquer. ℗ 1987 Original sound recordings made by Whitesnake Productions Overseas Ltd. © 1987 Whitesnake Productions Overseas Ltd.   Labels: Publishing info - A1 to A4, B2 to B5: Whitesnake Music (Overseas) Ltd. / Whitesnake Music Ltd. / Warner Bros. Music Ltd. A5: Warner Bros. Music Ltd. B1: C C Songs / Warner Bros. Music Ltd.   ℗ 1987 Original sound recordings made by Whitesnake Productions Overseas Ltd., under exclusive licence to EMI Records Ltd. Manufactured in the UK by EMI Records Limited. John Kalodner is simply credited as John Kalodner (no specific role)  
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Fight Fire
 2. Black Mourning
@@ -25,15 +24,15 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 8. Blitzkrieg
 9. Open Insurrection
 10. Armistice
+## Spotify
+{{< spotify type="album" id="1FlOmKtLz0PImGZA1GqVFv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="l8MK78-aPLs" title="Pure Reason Revolution - Valour - Hammer and Anvil - 2010" >}}
 - [Pure Reason Revolution - Black Mourning - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=fg2C_9Bj_sQ)
 - [Pure Reason Revolution - Fight Fire - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=-oOWaZRn8WM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -43,4 +42,3 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 | Catalog Number | MOVLP3078 |
 
 Limited Edition of 1000 copies on yellow coloured vinyl Available on vinyl for the first time Includes band logo etch on D-side 180 gram audiophile vinyl  Made in the EU.
-

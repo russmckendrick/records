@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Glam"]
 ---
-
 ## Tracklisting
 1. David Bowie A.K.A. Space Oddity
 2. Space Oddity
@@ -161,11 +160,11 @@ styles: ["Glam"]
 144. Amsterdam (3:27)
 145. Holy Holy (Spiders Version) (2:18)
 146. Velvet Goldmine (3:10)
-
+## Spotify
+{{< spotify type="album" id="6m9cpSfRCYltkhxl23wq0j" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -175,4 +174,3 @@ styles: ["Glam"]
 | Catalog Number | 0825646284092, DBXL 1 |
 
 Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [Pinups Radio Show](https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599) by adding it to shopping basket for free while preordering boxset.  Track A2b is not listed on the release.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Dissolution (The Clouds Disperse) (6:11)
 2. O-I (4:09)
@@ -22,13 +21,13 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 5. Ayurvedic (10:58)
 6. Kick Muck (3:56)
 7. Agog In The Ether (3:57)
+## Spotify
+{{< spotify type="album" id="1avIphrxjyuSHUNaoICDJI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Lcy-s1uxXDw" title="Ayurvedism" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -38,4 +37,3 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 | Catalog Number | KSCOPE1059 |
 
 Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020
-

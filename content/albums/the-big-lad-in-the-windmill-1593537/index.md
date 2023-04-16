@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. I Got You Eating Out Of My Hand (5:37)
 2. All In Red (3:31)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Calling All The Heroes (5:33)
 9. You'll Never Go To Heaven (7:12)
 10. The Big Lad In The Windmill (0:48)
+## Spotify
+{{< spotify type="album" id="5bChKgwSrbKrq1OKGDJgxw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3hIWY-ir0s8" title="Calling All The Heroes - It Bites" >}}
@@ -34,9 +35,7 @@ styles: ["Pop Rock"]
 - [It Bites - Tokyo 10/10/1989 #2](https://www.youtube.com/watch?v=wRgxjj9HdIE)
 - [It Bites - I Got You Eating Out Of My Hand (Live Sheffield 1989 06 21)](https://www.youtube.com/watch?v=NfnJwIpo2pc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -46,4 +45,3 @@ styles: ["Pop Rock"]
 | Catalog Number | V2378 |
 
 With illustrated inner sleeve. Recorded at Rak Studios, England. Mixed at Oddysey Studios, England.  ℗ 1986 Virgin Records Ltd. © 1986 Virgin Records Ltd. Manufactured in the U.K. 
-

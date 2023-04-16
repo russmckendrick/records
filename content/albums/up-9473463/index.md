@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Darkness
 2. Growing Up
@@ -25,6 +24,8 @@ styles: null
 8. More Than This
 9. Signal To Noise
 10. The Drop
+## Spotify
+{{< spotify type="album" id="4F0XQZmn3DRkA7DBm793zw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="r1JPO91IpV4" title="Darkness" >}}
@@ -41,9 +42,7 @@ styles: null
 - [Peter Gabriel ~ Darkness](https://www.youtube.com/watch?v=G6jS-Y6yF8w)
 - [Peter Gabriel Growing up](https://www.youtube.com/watch?v=Ts78Gg6RRHc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: null
 | Catalog Number | PGLPR11, 884108004579 |
 
 33 ⅓ Half-Speed Remaster. Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.  On labels and sleeve back: ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.   In booklet: ℗ © 2016 Peter Gabriel Ltd.  Manufactured in the EU.  Runouts: "PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped.
-

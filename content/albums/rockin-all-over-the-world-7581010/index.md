@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Hard Time (5:04)
 2. Can't Give You More (4:00)
@@ -27,6 +26,8 @@ styles: ["Classic Rock", "Rock & Roll"]
 10. For You (3:03)
 11. Dirty Water (3:42)
 12. Hold You Back (4:15)
+## Spotify
+{{< spotify type="album" id="4UyEneWCIKATQf3keQnG7O" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QwoU_6ZDu1g" title="status quo baby boy rock greñas" >}}
@@ -36,9 +37,7 @@ styles: ["Classic Rock", "Rock & Roll"]
 - [status quo can't give you more (rockin' all over the world).wmv](https://www.youtube.com/watch?v=VjqP7UHepBw)
 - [status quo let's ride (rockin' all over the world).wmv](https://www.youtube.com/watch?v=WNniyPlYFOo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +47,3 @@ styles: ["Classic Rock", "Rock & Roll"]
 | Catalog Number | 4723767 |
 
 Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1977 Mercury Records Limited/Universal Music Catalogue ℗ 1977 Mercury Records Limited
-

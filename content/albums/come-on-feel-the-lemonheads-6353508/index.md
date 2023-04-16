@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Great Big No (2:51)
 2. Into Your Arms (2:44)
@@ -30,6 +29,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. Favorite T (2:53)
 14. You Can Take It With You (2:05)
 15. The Jello Fund (15:32)
+## Spotify
+{{< spotify type="album" id="1mA5CUUztAKf53GDuypfAT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="66dq0FIQO8c" title="The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [The Lemonheads - Big gay heart](https://www.youtube.com/watch?v=wnxTjW8MBlc)
 - [The Lemonheads - Into Your Arms](https://www.youtube.com/watch?v=ZhlJCQH7-SQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,6 +46,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP1240 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Cadence To Arms
 2. Do Or Die
@@ -31,14 +30,14 @@ styles: ["Punk"]
 14. Noble
 15. Boys On The Docks (Murphy's Pub Version) 
 16. Skinhead On The MBTA
+## Spotify
+{{< spotify type="album" id="5EKDBIKZ37Idq0QiXG2qzk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)" >}}
 - [Dropkick Murphys - Never Alone (Full Album Stream)](https://www.youtube.com/watch?v=H5BnIDiTakg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +47,3 @@ styles: ["Punk"]
 | Catalog Number | 0407-1 |
 
 Released in 2022 on clear vinyl.  Note: identical barcode and matrix/runout as [r24169526].
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. You Can Call Me Al
 2. Graceland
@@ -38,9 +37,7 @@ styles: ["Folk Rock", "Pop Rock"]
 ## Videos
 {{< youtube id="gpRU0Cp2gxA" title="Paul Simon - The Ultimate Collection | Trailer" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -50,4 +47,3 @@ styles: ["Folk Rock", "Pop Rock"]
 | Catalog Number | 88875085521 |
 
 ℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved. Distributed by Sony Music Entertainment. Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. Made in the EU.  Gatefold cover. Includes an eight page lyric booklet.
-

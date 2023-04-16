@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Oh My God
 2. Ghosts
@@ -46,9 +45,7 @@ styles: ["Symphonic Rock"]
 - [IT BITES - This Is England](https://www.youtube.com/watch?v=VUO-YxeTw-M)
 - [IT BITES-FAHRENHEIT](https://www.youtube.com/watch?v=ngChnyQjAJw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -58,4 +55,3 @@ styles: ["Symphonic Rock"]
 | Catalog Number | IOMLP 584 |
 
 Gatefold 2LP + CD + LP-Booklet. The fourth studio album from It Bites available on vinyl for the very first time. Newly remastered and featuring expanded liner notes on the making of the album. Black vinyl.  *The CD features two bonus tracks. 
-

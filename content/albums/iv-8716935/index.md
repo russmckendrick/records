@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: null
 ---
-
 ## Tracklisting
 1. And That, Too.
 2. Speaking Gently 
@@ -26,6 +25,8 @@ styles: null
 9. Structure No. 3
 10. In Your Eyes
 11. Cashmere
+## Spotify
+{{< spotify type="album" id="5wAGlQICfKYQfaBppnUbmP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}
@@ -36,9 +37,7 @@ styles: null
 - [BADBADNOTGOOD -  Hyssop of Love (featuring Mick Jenkins)](https://www.youtube.com/watch?v=t4cI5zNfNb0)
 - [BADBADNOTGOOD Lavender (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -48,4 +47,3 @@ styles: null
 | Catalog Number | IL 2034 |
 
 Gatefold cover. Blue front cover, yellow back cover, inside image is of the band with coconut tree in background. 
-

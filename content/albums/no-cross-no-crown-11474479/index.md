@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Novus Deus
 2. The Luddite
@@ -30,6 +29,8 @@ styles: ["Stoner Rock", "Heavy Metal"]
 13. No Cross No Crown
 14. A Quest To Believe (A Call To The Void)
 15. Son And Daughter
+## Spotify
+{{< spotify type="album" id="2NWnN5Kw3L8wa1KkwjeRNo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ljxyItzRZm4" title="CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)" >}}
@@ -37,9 +38,7 @@ styles: ["Stoner Rock", "Heavy Metal"]
 - [CORROSION OF CONFORMITY - The Luddite (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=TusKotRru_c)
 - [Corrosion Of Conformity — Little Man](https://www.youtube.com/watch?v=B0ubqmddD4s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -47,6 +46,5 @@ styles: ["Stoner Rock", "Heavy Metal"]
 | Label          | Nuclear Blast Entertainment, Nuclear Blast Entertainment |
 | Format         | 2xLP, Album |
 | Catalog Number | NE 4243-1, 27361 42431 |
-
 
 

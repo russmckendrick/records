@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["P.Funk"]
 ---
-
 ## Tracklisting
 1. World Wide Funk
 2. Bass-Rigged-System
@@ -30,6 +29,8 @@ styles: ["P.Funk"]
 13. Worth My While
 14. Come Back Bootsy
 15. Illusions
+## Spotify
+{{< spotify type="album" id="0ndTmbdsSz7Bbuw6up7Pk6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xgqPq3MKbcI" title="Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017" >}}
@@ -42,16 +43,13 @@ styles: ["P.Funk"]
 - [A Salute To Bernie (feat. Dr. G. & Bernie Worrell)](https://www.youtube.com/watch?v=2UVNZ4oRlTA)
 - [Pusherman (feat. Dru Down, BlvckSeeds & Mr. Talkbox)](https://www.youtube.com/watch?v=VxExDMN6C4w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Bootsy Collins - World Wide Funk](https://www.discogs.com/release/11046939-Bootsy-Collins-World-Wide-Funk) |
-| Label          | Mascot Records (2), Mascot Records (2) |
+| Label          | Mascot Records, Mascot Records |
 | Format         | 2xLP, Album, Ltd, Spl |
 | Catalog Number | M 75141, M75141 |
 
 Hype sticker on shrink: 140 gram splatter 2-LP Download card included  Gatefold cover, spine: [Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141  Gatefold cover, back: [Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo] Ⓟ © 2017 Mascot Music Productions and Publishing B.V.  Includes 12-pages LP size comic book  Spoken Intro by Iggy Pop
-

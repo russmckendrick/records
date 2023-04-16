@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. This Town Ain't Big Enough For Both Of Us
 2. Amateur Hour
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Complaints
 9. In My Family
 10. Equator
+## Spotify
+{{< spotify type="album" id="7KOmuu3cbJQEQYGt3XmLmY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BI9gOtRMogY" title="This Town Ain't Big Enough For Both Of Us" >}}
@@ -38,9 +39,7 @@ styles: ["Pop Rock"]
 - [In My Family](https://www.youtube.com/watch?v=UymqKMn9tlo)
 - [Equator](https://www.youtube.com/watch?v=VC9GI5RvRDs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1974 |
@@ -50,4 +49,3 @@ styles: ["Pop Rock"]
 | Catalog Number | ILPS 9272 |
 
 Original issue with Island "Palm tree with pink rim" labels, in a fully-laminated sleeve without text on the front, and including a photo/lyric inner sleeve.  Printed in England by Robor Limited.  ℗ 1974 Island Records Ltd  This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record.
-

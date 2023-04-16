@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
-
 ## Tracklisting
 1. I Have Seen (5:06)
 2. Polaris (4:48)
@@ -26,6 +25,8 @@ styles: ["Downtempo"]
 9. Out Of Town (4:47)
 10. This World (5:36)
 11. Likufanele (6:24)
+## Spotify
+{{< spotify type="album" id="1VRBB9iu84o3g16CczH9iH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}
@@ -33,9 +34,7 @@ styles: ["Downtempo"]
 - [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Downtempo"]
 | Catalog Number | 0825646132751 |
 
 ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd. A Warner Music Group Company. Made in the EU.  Produced and Fleximixed at Shabang Studios.  Sticker on front. 180gm vinyl Includes download code for mp3 version of the album.
-

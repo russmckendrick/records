@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Don't Change
 2. You Put My Love Out The Door
@@ -25,11 +24,11 @@ styles: ["Art Rock", "Symphonic Rock"]
 8. Let 'Em In
 9. Never My Love
 10. The Spirit Of Radio
-
+## Spotify
+{{< spotify type="album" id="4BQnECnkOqhz1qrrReiT9e" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -39,4 +38,3 @@ styles: ["Art Rock", "Symphonic Rock"]
 | Catalog Number | GRR104LP |
 
 Limited to 1000 copies  Recorded by David Wilson at The Triplex Dallas, TX March 2020 *except Mixed by Justin Cortelyou
-

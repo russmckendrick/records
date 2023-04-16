@@ -1,6 +1,6 @@
 ---
-title: "Sleeper (2) - The It Girl"
-artist: "Sleeper (2)"
+title: "Sleeper - The It Girl"
+artist: "Sleeper"
 album_name: "The It Girl"
 date: 2022-11-14
 release_id: "25128730"
@@ -8,12 +8,11 @@ slug: "the-it-girl-25128730"
 hideSummary: true
 cover:
     image: "the-it-girl-25128730.jpg"
-    alt: "The It Girl by Sleeper (2)"
-    caption: "The It Girl by Sleeper (2)"
+    alt: "The It Girl by Sleeper"
+    caption: "The It Girl by Sleeper"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Lie Detector 
 2. Sale of the Century
@@ -41,20 +40,19 @@ styles: ["Indie Rock", "Britpop"]
 24. Nice Guy Eddie (Louise Home Demo) (2:51)
 25. Dress Like Your Mother (Louise Home Demo) (2:48)
 26. Good Luck Mr Gorsky (Louise Home Demo) (3:45)
+## Spotify
+{{< spotify type="album" id="1GZ048oNeb3cMvWnUmG70l" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GDqcXMQxMG0" title="Shrinkwrapped - Sleeper - The It Girl" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Sleeper (2) - The It Girl](https://www.discogs.com/release/25128730-Sleeper-The-It-Girl) |
+| Discogs Link   | [Sleeper - The It Girl](https://www.discogs.com/release/25128730-Sleeper-The-It-Girl) |
 | Label          | Gorsky Records, Gorsky Records |
 | Format         | LP, Album, Ltd, RE, Red + CD, Comp |
 | Catalog Number | SLEEP29LP, SLEEP 29CDL |
 
 Package includes 12 track "The It Girl B Sides & Demos" CD (not available separately) and a double-sided 12"x12" print slipped inside the sleeve.  Pre-orders via band’s store included an additional one-sided signed print  The CD tracks are listed in the incorrect order on the sleeve. The correct order (confirmed by the CD text titles) is as above. The order on the sleeve is: 1. Paint Me 2. Pokerface 3. Package Holiday 4. Spies 5. She's A Sweetheart 6. Room At The Top 7. Sale Of The Century 8. Nice Guy Eddie 9. Good Luck Mr Gorsky 10. Dress Like Your Mother 11. Lamp Light On 12. Mr Blue  Timings taken from the CD. 
-

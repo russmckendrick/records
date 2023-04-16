@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Speak To Me
 2. Breathe (In The Air)
@@ -25,11 +24,11 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 8. Any Colour You Like
 9. Brain Damage
 10. Eclipse
-
+## Spotify
+{{< spotify type="album" id="6SDPwUC74HcxwB84kPs4pM" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -39,4 +38,3 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 | Catalog Number | PFR50LP2, 0190296203664 |
 
 A5, B1 and B3 are marked as '(Edit)' following the song title on both the labels and inner gatefold tracklist.   Includes two posters. Black polylined inner bag.  Made and Printed in The Netherlands. © 2023 Pink Floyd Music Ltd. ℗ 2023 Pink Floyd Music Ltd, marketed and distributed by Parlophone Records Ltd.  Runouts are stamped, while: in variant 1 both "STU" and "B" on A-side are etched; in variant 2 both "STU" and last "C" on A-side and "B" on B-side are etched; in variant 5 and 6, "STU" is etched. There are no additional letters.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk"]
 ---
-
 ## Tracklisting
 1. Subterranean Homesick Blues (2:17)
 2. She Belongs To Me (2:48)
@@ -26,11 +25,11 @@ styles: ["Folk Rock", "Folk"]
 9. Gates Of Eden (5:42)
 10. It's Alright, Ma (I'm Only Bleeding) (7:30)
 11. It's All Over Now, Baby Blue (4:13)
-
+## Spotify
+{{< spotify type="album" id="1lPoRKSgZHQAYXxzBsOQ7v" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -40,4 +39,3 @@ styles: ["Folk Rock", "Folk"]
 | Catalog Number | CL 2328, 88875146231 |
 
 Re-issue with Legacy Vinyl 180 Gram sticker on the front.  Originally released 1965. © 1965, 2015 Columbia Records. Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  © 1965 by Bob Dylan.
-

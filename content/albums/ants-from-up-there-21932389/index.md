@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Folk Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Chaos Space Marine
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Experimental"]
 8. The Place Where He Inserted The Blade
 9. Snow Globes
 10. Basketball Shoes
+## Spotify
+{{< spotify type="album" id="21xp7NdU1ajmO1CX0w2Egd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hg2FriyudSw" title="Black Country, New Road - 'Intro' (Official Audio)" >}}
@@ -38,9 +39,7 @@ styles: ["Folk Rock", "Experimental"]
 - [Black Country, New Road - 'Snow Globes' (Official Audio)](https://www.youtube.com/watch?v=hTVwQ1Gjqas)
 - [Black Country, New Road - 'Basketball Shoes' (Official Audio)](https://www.youtube.com/watch?v=uOnjuIb1TWY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -50,4 +49,3 @@ styles: ["Folk Rock", "Experimental"]
 | Catalog Number | ZEN278X |
 
 Inverted artwork. Packaged in a gatefold sleeve.  Includes a lyric booklet and a download code.  Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.  Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.  ℗ & © Ninja Tune 2022 Made in EU  Recorded at Chale Abbey Studios. Mixed at Fish Factory and Chale Abbey Studios. Mastered [...] at Abbey Road.
-

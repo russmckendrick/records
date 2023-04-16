@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Sussudio (4:23)
 2. Only You Know And I Know (4:20)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Doesn't Anybody Stay Together Anymore (4:18)
 9. Inside Out (5:14)
 10. Take Me Home (5:51)
+## Spotify
+{{< spotify type="album" id="1rVhockt4RAiZFaK3M3zPB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xiB5Mx79IbE" title="Only You Know And I Know (2016 Remastered)" >}}
@@ -40,9 +41,7 @@ styles: ["Pop Rock"]
 - [Take Me Home (2016 Remastered)](https://www.youtube.com/watch?v=YO1l2itfSs4)
 - [Phil Collins - Sussudio (Remastered Video) (1985)](https://www.youtube.com/watch?v=icv0qn8qYPg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -52,4 +51,3 @@ styles: ["Pop Rock"]
 | Catalog Number | V 2345 |
 
 Recorded at the Townhouse, London and Old Croft, Surrey except strings, recorded at Air Studios, engineered by John Jacobs Mixed at the Townhouse Digitally  Manufactured in the U.K  ℗ & © 1985 Virgin Records Ltd. - Different to: [r=3727910] - has black labels, cut at [l=The Town House]. [r=6165566] - has black labels with white print. [r=4673198] - has orange labels with black print. [r=6601740] - has a barcode.  
-

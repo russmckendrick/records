@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ---
-
 ## Tracklisting
 1. My Baby Left Me
 2. Heartbreak Hotel
@@ -55,11 +54,11 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 38. Suspicious Minds
 39. There Goes My Everything
 40. Don't Cry Daddy
-
+## Spotify
+{{< spotify type="album" id="7v5nA9SIdX1XEJqStVUS4F" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -69,4 +68,3 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 | Catalog Number | ADEP 12, ADE P 12 |
 
 Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA 
-

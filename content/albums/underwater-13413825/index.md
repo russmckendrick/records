@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Math Rock"]
 ---
-
 ## Tracklisting
 1. Shower
 2. Underwater
@@ -28,20 +27,19 @@ styles: ["Math Rock"]
 11. Speechless
 12. Moonset
 13. Midway [Rgry Remix]
+## Spotify
+{{< spotify type="album" id="7e7NwDlztKAdnioBTzF2iq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oAwNf9Zy2UU" title="Elephant Gym - Underwater - Full Album - 2018" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Elephant Gym - Underwater](https://www.discogs.com/release/13413825-Elephant-Gym-Underwater) |
-| Label          | Topshelf Records (2) |
+| Label          | Topshelf Records |
 | Format         | LP, Ltd, Dar |
 | Catalog Number | Eg-0017/TSR-201 |
 
 Record housed in a single jacket with paper inner sleeve.  Limited to 350 copies. Includes a foldout lyric sheet insert.
-

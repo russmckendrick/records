@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Chelsea Girl
 2. Indian Rope
@@ -44,9 +43,7 @@ styles: ["Alternative Rock"]
 27. Strachan
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -56,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | DEMREC406 |
 
 Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019" 27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl,  INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai  DEMREC406  Made in the EU
-

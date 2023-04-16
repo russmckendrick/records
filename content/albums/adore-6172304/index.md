@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. To Sheila (4:40)
 2. Ava Adore (4:20)
@@ -31,11 +30,11 @@ styles: ["Alternative Rock"]
 14. For Martha (8:17)
 15. Blank Page (4:51)
 16. 17 (0:17)
-
+## Spotify
+{{< spotify type="album" id="7ysKTnHt4ve0MvIWm3vPdz" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 6 02537 89926 5 |
 
 Comes with 2 types of innersleeve; 1 type is blanck, 2nd type is printed innersleeves (both are different, one with lyrics and one with  credits)
-

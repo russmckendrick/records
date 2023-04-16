@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Crane Wife 3 (4:18)
 2. The Island: Come And See - The Landlord's Daughter - You'll Not Feel The Drowning (12:26)
@@ -25,13 +24,13 @@ styles: ["Folk Rock", "Indie Rock"]
 8. Summersong (3:31)
 9. The Crane Wife 1 & 2 (11:19)
 10. Sons & Daughters (5:13)
+## Spotify
+{{< spotify type="album" id="4qvFBtRrwbSgoH3nyVlTCp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IbsHwuyfnnw" title="The Decemberists - O Valencia" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2006 |
@@ -41,4 +40,3 @@ styles: ["Folk Rock", "Indie Rock"]
 | Catalog Number | C1 0946 3 53984 1 0 |
 
 Recorded at Kung Fu Bakery in Portland, Oregon between April and June, 2006. Mixed at BJB. Mastered at SAE Mastering in Phoenix, AZ.  ℗© 2006 Capitol Records, Inc.  Variation: Gatefold sleeve with different catalogue, matrix numbers and colour of labels
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Hit Me With Your Best Shot (2:50)
 2. Love Is A Battlefield (4:03)
@@ -27,14 +26,14 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 10. Treat Me Right (3:24)
 11. If You Think You Know How To Love Me (3:45)
 12. You Better Run (3:04)
+## Spotify
+{{< spotify type="album" id="0SX1wvbCBLKGPfCmH3O14B" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0q2jL8hpT_0" title="Pat Benatar - Love is a battlefield 1984" >}}
 - [Pat Benatar- Hit Me With Your Best Shot](https://www.youtube.com/watch?v=x5kisPBwZOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -42,6 +41,5 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 | Label          | Chrysalis |
 | Format         | LP, Comp |
 | Catalog Number | PATV1 |
-
 
 

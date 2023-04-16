@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Teethgrinder
 2. Screamager
@@ -31,16 +30,13 @@ styles: ["Alternative Rock"]
 ## Videos
 {{< youtube id="h7-XdZj3a_A" title="Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Therapy? - Greatest Hits (The Abbey Road Session)](https://www.discogs.com/release/14911724-Therapy-Greatest-Hits-The-Abbey-Road-Session) |
-| Label          | Marshall Records (10) |
+| Label          | Marshall Records |
 | Format         | LP, Album |
 | Catalog Number | R920.011 |
 
 Autographed copies were available to pre-order from the band's webstore (these copies didn't come shrink-wrapped, but in a resealable polypropylene cover).  Catalog# and barcode differ from those on the coloured vinyl edition.
-

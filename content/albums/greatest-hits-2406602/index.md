@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Down By The River (9:13)
 2. Cowgirl In The Sand (10:05)
@@ -35,9 +34,7 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 18. Sugar Mountain (5:30)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2004 |
@@ -47,4 +44,3 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 | Catalog Number | 521636-1 |
 
 Cat# on the spine (521636-1) differs from cat# on the labels (512636-1).   Cut from compiled 30ips analog master tapes prepared by John Nowland at Neil Young's Redwood Ranch Studios and mastered at Bernie Grundman Mastering.  The Reprise reissue is pressed on 180 gram vinyl. Includes fold-out insert.  The included bonus 7" is on standard black vinyl with Side 1 (Stereo) and Side 2 (Mono).  A1 to B1 - From the album Everybody Know This Is Nowhere, Reprise Records RS 6349. B2 - From the album Déjà Vu, Atlantic Records SD-7200. B3 to B5 - From the album After The Gold Rush, Reprise Records RS 6383. C1 - From the Atlantic Records single 45-2740. C2 to C4 - From the album Harvest, Reprise Records MS 2032. C5 - From the album American Stars 'N Bars, Reprise Records MSK 2261. D1 - From the album Comes A Time, Reprise Records MSK 2266. D2- From the album Rust Never Sleeps, Reprise Records HS 2295. D3 - From the album Freedom, Reprise Records 25899. D4 - From the album Harvest Moon, Reprise Records 45057. E - From the Reprise Album RS 6317 - "Neil Young". F - Recorded "Live" at the Canterbury House.  A1 to C2, E to F - Published by Broken Arrow Music Corp. (ASCAP). C3, D3 to D4 - Published by Broken Fiddle Music (ASCAP). C4 to D1 - Published by Silver Fiddle Music (ASCAP). D2 - Published by Broken Arrow Music Corp./Broken Fiddle Music (ASCAP).  Runouts etched except pressing code '-1972x-' stamped.
-

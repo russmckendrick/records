@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Country Blues", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. I Contain Multitudes (4:36)
 2. False Prophet (6:00)
@@ -25,11 +24,11 @@ styles: ["Country Blues", "Folk Rock"]
 8. Crossing The Rubicon (7:22)
 9. Key West (Philosopher Pirate) (9:34)
 10. Murder Most Foul (16:54)
-
+## Spotify
+{{< spotify type="album" id="1Qht64MPvWTWa0aMsqxegB" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -39,4 +38,3 @@ styles: ["Country Blues", "Folk Rock"]
 | Catalog Number | 19439780991, C-250652 |
 
 Gatefold jacket with printed inner sleeves. Includes a download code card.  Hype sticker (all caps): 'Bob Dylan The new album Limited edition olive vinyl Exclusive Includes digital download 19439780991 S1'  © & ℗ 2020 Columbia Records, a division of Sony Music Entertainment Made in the EU.  Runouts:  'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched. Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'.
-

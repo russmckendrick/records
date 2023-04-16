@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
-
 ## Tracklisting
 1. The Space Program (5:40)
 2. We The People.... (2:52)
@@ -31,14 +30,14 @@ styles: ["Conscious"]
 14. Conrad Tokyo (3:31)
 15. Ego (3:17)
 16. The Donald (5:22)
+## Spotify
+{{< spotify type="album" id="3WvQpufOsPzkZvcSuynCf3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wMA1kP7gWS4" title="Enough!!" >}}
 - [The Donald](https://www.youtube.com/watch?v=ReLIvQNlkLQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Conscious"]
 | Catalog Number | 88985377871 |
 
 B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA  Made in the EU. 
-

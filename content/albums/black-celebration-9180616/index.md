@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Darkwave"]
 ---
-
 ## Tracklisting
 1. Black Celebration (4:55)
 2. Fly On The Windscreen - Final (5:18)
@@ -26,6 +25,8 @@ styles: ["Synth-pop", "Darkwave"]
 9. World Full Of Nothing (2:50)
 10. Dressed In Black (2:32)
 11. New Dress (3:42)
+## Spotify
+{{< spotify type="album" id="0JSOfVzxVTpyvxzXggc8rG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="a_7uWRuJfzE" title="Depeche Mode - Stripped (Alternate Cut) (Official Video)" >}}
@@ -53,9 +54,7 @@ styles: ["Synth-pop", "Darkwave"]
 - [Black Day](https://www.youtube.com/watch?v=_6pERrNJvrU)
 - [Christmas Island](https://www.youtube.com/watch?v=eOj88ftXG_Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -65,4 +64,3 @@ styles: ["Synth-pop", "Darkwave"]
 | Catalog Number | STUMM26, 88985336741 |
 
 180 Gram Superior Audio Quality  ℗ 1986 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.  © 1986, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Made in the EU. Sony Music Entertainment International Services GmbH.  Very similar release: [Black Celebration](https://www.discogs.com/release/13132856) Differences: Legacy Logo right of Sony on label + Legacy Sticker on cover (this), Mute Logo left of STUMM26 on label (other)
-

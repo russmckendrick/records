@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. All That
 2. I'm Toast
@@ -29,6 +28,8 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 12. The Existential Threat
 13. Nothing Travels Faster Than The Speed Of Light
 14. Please Don't Fuck Up My World
+## Spotify
+{{< spotify type="album" id="43DZQacT84CN8EYfKcmeSL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="aJpfdcurYoQ" title="Sparks - I'm Toast (Unofficial Video)" >}}
@@ -40,9 +41,7 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 - [Pacific Standard Time](https://www.youtube.com/watch?v=zf6y7p2iauE)
 - [Sparks - The Existential Threat (+ bonus How To Make A Music Video by Cyriak)](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -52,4 +51,3 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 | Catalog Number | 538603240 |
 
 Includes exclusive poster.  Gatefold sleeve
-

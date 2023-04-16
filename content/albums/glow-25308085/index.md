@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Place Your Hands
 2. I Would Have Left You
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Robot Riff
 11. Yer Old
 12. Lullaby
+## Spotify
+{{< spotify type="album" id="1lFjDLdcOpor9FL9Q04oVj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cJ-kDEXcR3c" title="Place Your Hands" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock"]
 - [Yer Old](https://www.youtube.com/watch?v=Eugzm7Q7Tvs)
 - [Lullaby](https://www.youtube.com/watch?v=dSS4uoDEVBM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | HOFFSIDE009 |
 
 25th anniversary re-press, including brand new liner notes. Glow-in-the-dark vinyl, non-gatefold matt finish sleeve, supplied in transparent bag with hype sticker. Limited to 500 copies, hand numbered on rear of sleeve.
-

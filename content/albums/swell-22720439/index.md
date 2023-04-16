@@ -13,20 +13,19 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Space Rock"]
 ---
-
 ## Tracklisting
 1. Swell (20:42)
 2. Jacques Cousteau (11:13)
 3. Seagull (9:26)
+## Spotify
+{{< spotify type="album" id="3dELdGiOlU9Tv3MYYuayEx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cRsXd_cxPv0" title="Swell" >}}
 - [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
 - [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -36,4 +35,3 @@ styles: ["Prog Rock", "Space Rock"]
 | Catalog Number | ROK151 |
 
 Limited 180 FX Vinyl. Track timings not listed.
-

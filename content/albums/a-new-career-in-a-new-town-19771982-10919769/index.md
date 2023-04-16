@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Avantgarde", "Art Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Low
 2. Speed Of Life
@@ -135,9 +134,7 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 118. Bertolt Brecht’s Baal
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -147,4 +144,3 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 | Catalog Number | DBXL 3 |
 
 Deluxe box set includes 84-page hardback book.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ---
-
 ## Tracklisting
 1. Sweet Freedom (4:04)
 2. (I'll Be Your) Angel (3:48)
@@ -41,9 +40,7 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 - [Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&B Pop](https://www.youtube.com/watch?v=dJe1iUuAW4M)
 - [Michael McDonald - Sweet Freedom (1986)](https://www.youtube.com/watch?v=O8-JPyVRkiE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -53,4 +50,3 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 | Catalog Number | 241 049-1, WX 67 |
 
 Manufactured in Germany has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it  Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144]
-

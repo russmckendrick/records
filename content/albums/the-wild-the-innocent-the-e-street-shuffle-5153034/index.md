@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. The E Street Shuffle (4:26)
 2. 4th Of July, Asbury Park (Sandy) (5:35)
@@ -22,6 +21,8 @@ styles: ["Pop Rock"]
 5. Incident On 57th Street (7:45)
 6. Rosalita (Come Out Tonight) (7:02)
 7. New York City Serenade (9:56)
+## Spotify
+{{< spotify type="album" id="1rmhti8uHw21LnaWMQy608" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LWLMaZ7H3B0" title="The E Street Shuffle" >}}
@@ -32,9 +33,7 @@ styles: ["Pop Rock"]
 - [Rosalita (Come Out Tonight)](https://www.youtube.com/watch?v=JuVKhS13eKY)
 - [New York City Serenade](https://www.youtube.com/watch?v=fEQENfRoBgw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock"]
 | Catalog Number | S 65780 |
 
 Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).  Wide title, first line in record title on label is 70 mm long.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Believe (Nobody Knows)
 2. Compound Fracture
@@ -35,6 +34,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 18. Big Decisions
 19. Tropics (Erase Traces)
 20. Only Memories Remain
+## Spotify
+{{< spotify type="album" id="4B5fQBMzkCRXoQ2qpxaQhh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy (The Waterfall) (Visualizer)" >}}
@@ -43,9 +44,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [My Morning Jacket - Believe (Nobody Knows) (Visualizer)](https://www.youtube.com/watch?v=_K7RsttseGI)
 - [My Morning Jacket - Like A River](https://www.youtube.com/watch?v=IZHNZaWIPis)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -55,4 +54,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | ATO0276LP |
 
 Gatefold jacket. Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.  ℗&© 2015 ATO Records, LLC under exclusive license to [PIAS]
-

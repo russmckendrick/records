@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. Hey Rose
 2. About Her. Again
@@ -27,6 +26,8 @@ styles: null
 10. O Clever One
 11. Neve Give Up
 12. After All (I Must Be Wrong)
+## Spotify
+{{< spotify type="album" id="3rioHzbE7RDGbgxzg9uFNd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xLo0a_mKmx4" title="Son Little - suffer" >}}
@@ -35,9 +36,7 @@ styles: null
 - [Son Little - about her. again.](https://www.youtube.com/watch?v=RKyR-kOMLNY)
 - [Son Little - neve give up](https://www.youtube.com/watch?v=jaZcnBog0Zs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -47,4 +46,3 @@ styles: null
 | Catalog Number | 27678-3 |
 
 180 Gram
-

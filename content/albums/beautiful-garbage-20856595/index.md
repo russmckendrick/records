@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Experimental"]
 ---
-
 ## Tracklisting
 1. Shut Your Mouth
 2. Androgyny
@@ -28,6 +27,8 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 11. Nobody Loves You
 12. Untouchable
 13. So Like A Rose
+## Spotify
+{{< spotify type="album" id="0NVuRvkKyJU72UAADRQ1nq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HzFNvzEPwcY" title="Garbage: Beautiful Garbage (2001) (Full Album)" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 - [Garbage - Androgyny (Official Video)](https://www.youtube.com/watch?v=hVs6Fekh0RY)
 - [Garbage - Shut Your Mouth](https://www.youtube.com/watch?v=ptr5CpFM2uI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 | Catalog Number | BMGCAT528DCLP |
 
 Made in Poland  20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."  Tracks are numbered sequentially on release.  ℗ & © 2021
-

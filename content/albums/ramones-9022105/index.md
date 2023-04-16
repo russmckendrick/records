@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Original Album
 2. Blitzkrieg Bop (2:14)
@@ -113,20 +112,19 @@ styles: ["Punk"]
 96. Let's Dance (1:52)
 97. I Don't Wanna Walk Around With You (1:42)
 98. Today Your Love, Tomorrow The World (2:11)
+## Spotify
+{{< spotify type="album" id="5uYDAwW0SZgcfOFkxrST64" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LLzDw_1Y97I" title="Ramones - Ramones (álbum completo)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Ramones - Ramones](https://www.discogs.com/release/9022105-Ramones-Ramones) |
-| Label          | Rhino Records (2), Sire, Ramones Productions Inc. |
+| Label          | Rhino Records, Sire, Ramones Productions Inc. |
 | Format         | CD, Album, Mono, RE, RM + CD + CD + LP, Album, Mon |
 | Catalog Number | 081227945176 |
 
 40th annivesary box set packaged in a 12" x 12" hardcover book on a limited edition of 19.760 individually numbered copies.  Disc one contains stereo (tracks 1-14) and 40th anniversary mono mix (tracks 15-28) Disc two contains Single Mixes, Outtakes and Demos. Disc three (tracks 1-16) contains [r=1165275]'s bonus material. Disc three tracks 17-32 are from a previously unreleased second set from The Roxy, LA, on 08/12/1976. Vinyl contains the original album 40th anniversary mono mix.  Pressing plants uncredited, identified by matrix run outs.  This reissue ℗ & © 2016 Rhino Entertainment Company
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Backwater (4:21)
 2. Just Take Me (3:39)
@@ -23,6 +22,8 @@ styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 6. Fine Fine Fine (2:30)
 7. Lonely Man (5:00)
 8. Slow Train (7:55)
+## Spotify
+{{< spotify type="album" id="6GjmCt1jb9IiOTw106Xa4W" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eM8z8BOl_L0" title="Status Quo - Lonely Man - HQ" >}}
@@ -44,9 +45,7 @@ styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 - [Status Quo - Backwater and Just Take Me 1974 Hard Rock](https://www.youtube.com/watch?v=AhKBCIYzX8c)
 - [Backwater/Just Take Me Status Quo Apollo Theatre Glasgow](https://www.youtube.com/watch?v=7Mlh5wtJgMc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -56,4 +55,3 @@ styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 | Catalog Number | 4723764 |
 
 Comes as 180 gram Vinyl with a poster and a 4-page inlay  © 1974 Mercury Records Limited/Universal Music Catalogue ℗ 1974 Mercury Records Limited  
-

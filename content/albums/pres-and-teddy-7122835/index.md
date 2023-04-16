@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: null
 ---
-
 ## Tracklisting
 1. All Of Me
 2. Prisoner Of Love
@@ -32,9 +31,7 @@ styles: null
 - [Prisoner Of Love](https://www.youtube.com/watch?v=yJb-03xp2ZU)
 - [Lester Young - Our Love Is Here to Stay](https://www.youtube.com/watch?v=xWoGC0SFWzo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -44,4 +41,3 @@ styles: null
 | Catalog Number | 0600753520390 |
 
 ℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc. Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it. Made in the EU
-

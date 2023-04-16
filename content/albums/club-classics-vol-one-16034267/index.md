@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Jazz", "Funk / Soul", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Keep On Movin' (6:02)
 2. Fairplay  (3:58)
@@ -25,6 +24,8 @@ styles: null
 8. Happiness Dub (5:34)
 9. Back To Life (Acapella) (3:48)
 10. Jazzie's Groove (2:42)
+## Spotify
+{{< spotify type="album" id="5VxTLm2IZsDQn3r9eX1qfa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rAGZnmVOpJQ" title="Soul II Soul ‎– Club Classics Vol.  One (1989)" >}}
@@ -36,9 +37,7 @@ styles: null
 - [Soul II Soul - Jazzie's Groove](https://www.youtube.com/watch?v=_FtrDBpl0WI)
 - [Happiness (Dub)](https://www.youtube.com/watch?v=X_W2zyhwzMg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,4 +47,3 @@ styles: null
 | Catalog Number | 3507526, 00602435075266 |
 
 National Album Day 2020 Release Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.  Catalogue number on sticker is: 3507526 Catalogue number on sleeve & labels is: 00602435075266  ℗ 1989 10 Records Ltd. © 2020 10 Records Ltd. Manufactured in the EU. Made in Germany.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Synth-pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Love Is A Stranger (3:40)
 2. Sweet Dreams (Are Made Of This) (4:50)
@@ -33,6 +32,8 @@ styles: ["Synth-pop", "Pop Rock"]
 16. Would I Lie To You? (4:22)
 17. Missionary Man (3:45)
 18. I Need A Man (4:21)
+## Spotify
+{{< spotify type="album" id="1moeActSxQQhEdAVIClRBm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Z5rFDibmeQk" title="Eurythmics - When Tomorrow Comes [Lyrics]" >}}
@@ -51,9 +52,7 @@ styles: ["Synth-pop", "Pop Rock"]
 - [The King and Queen of America](https://www.youtube.com/watch?v=MelbhSbRRE4)
 - [Angel](https://www.youtube.com/watch?v=OItVapYPjkY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -63,4 +62,3 @@ styles: ["Synth-pop", "Pop Rock"]
 | Catalog Number | 88985370421 |
 
 Sticker on plastic wrap: "Legacy Vinyl - 180 Gram Superior Audio Quality".  Made in the EU.
-

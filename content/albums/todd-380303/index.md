@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. How About A Little Fanfare? (0:57)
 2. I Think You Know (3:48)
@@ -32,11 +31,11 @@ styles: ["Pop Rock", "Synth-pop"]
 15. In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space) (5:48)
 16. Don't You Ever Learn? (6:01)
 17. Sons Of 1984 (4:37)
-
+## Spotify
+{{< spotify type="album" id="5vsHuXiqwQZYT6AD5NKYsd" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1974 |
@@ -46,4 +45,3 @@ styles: ["Pop Rock", "Synth-pop"]
 | Catalog Number | 2 BR 6952, 2BR 6952 |
 
 First pressings came with a fold-out black and white poster with lyrics, credits, and names of buyers returning postcards enclosed in [m93839]. Original 1973 double LP album. The runouts are etched; STERLING is stamped. Cat# 2 BR 6952 on the cover and spine. Cat# 2BR 6952 on the labels. Tracks A1 to A5, B1 to D3: [l360084]/[l276311] Track A6: [l264963] Recorded at Secret Sound Studio. Sons of 1984: Recorded at Wollman Rink, Central Park by Bearsville Sound Remote Recording.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Across The Great Divide (2:52)
 2. Rag Mama Rag (3:02)
@@ -27,11 +26,11 @@ styles: null
 10. Jawbone (4:17)
 11. The Unfaithful Servant (4:15)
 12. King Harvest (Has Surely Come) (3:35)
-
+## Spotify
+{{< spotify type="album" id="56vFkneGivqQcoNQq362iZ" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -39,6 +38,5 @@ styles: null
 | Label          | Capitol Records, Universal Music Group International |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 00602547206701 |
-
 
 

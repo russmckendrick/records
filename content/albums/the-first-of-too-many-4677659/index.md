@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Everybody's Gone
 2. Best Friend
@@ -36,9 +35,7 @@ styles: ["Indie Rock"]
 - [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
 - [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -48,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 469157 1, 01-469157-20 |
 
 Recorded at the Greenhouse Studios, London - March/April 1991. Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991. Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991. Track B2 mixed at Gooseberry Studis, Brixton - July 1991. 
-

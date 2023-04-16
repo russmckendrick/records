@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
-
 ## Tracklisting
 1. Reverend Black Grape (5:21)
 2. In The Name Of The Father (4:21)
@@ -25,6 +24,8 @@ styles: ["Pop Rock", "Funk"]
 8. Submarine (3:50)
 9. Shake Your Money (4:13)
 10. Little Bob (5:33)
+## Spotify
+{{< spotify type="album" id="3A0BH6NwwS00OMn59A6rnE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2_zaLwdbQYU" title="Black Grape - In the Name of the Father" >}}
@@ -41,9 +42,7 @@ styles: ["Pop Rock", "Funk"]
 - [Black Grape - Kelly's Heroes (The Funeral Version)](https://www.youtube.com/watch?v=PSEkwEeRwKk)
 - [Black Grape, In The Name Of The Father, live on Later With Jools Holland](https://www.youtube.com/watch?v=kRwabWWv_D8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: ["Pop Rock", "Funk"]
 | Catalog Number | 5373030 |
 
 Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London. A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069]. Contains a [l1052727] download coupon. Side B is labeled X on release.
-

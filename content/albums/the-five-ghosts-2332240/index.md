@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Dead Hearts (3:29)
 2. Wasted Daylight (3:43)
@@ -27,15 +26,15 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 10. How Much More (2:56)
 11. Winter Bones (3:00)
 12. Asleep (2:43)
+## Spotify
+{{< spotify type="album" id="3SCJmoy3Z45p84IfuaM9YQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TERbyLZDCqU" title="Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album" >}}
 - [STARS - Fixed [Official Music Video]](https://www.youtube.com/watch?v=17jdZdVmEuk)
 - [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 | Catalog Number | 003 Box Set |
 
 Concept/design/assembly by The Cardboardbox Project in Montréal, QC.  Vinyl commissioned by Vagrant Records and pressed by Gotta Groove Records in Cleveland, OH.  Handcrafted wooden box set includes:  * 6 coloured 7" vinyl of all tracks on The Five Ghosts plus one bonus track, "Asleep" * 13 photo inserts (7" x 7") of album artwork and lyrics * 1 plastic download card for digital delivery of The Five Ghosts & The Séance E.P.  All digital tracks are High Quality MP3 files @ 320kbps  Box sets began shipping on July 13, 2010 from Montréal.
-

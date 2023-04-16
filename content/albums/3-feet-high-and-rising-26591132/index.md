@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap"]
 ---
-
 ## Tracklisting
 1. Intro (1:41)
 2. The Magic Number (3:16)
@@ -38,6 +37,8 @@ styles: ["Conscious", "Boom Bap"]
 21. This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) (3:11)
 22. I Can Do Anything (Delacratic) (0:41)
 23. D.A.I.S.Y. Age (4:46)
+## Spotify
+{{< spotify type="album" id="34LxHI9x14qXUOS8AWRrYD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}
@@ -64,9 +65,7 @@ styles: ["Conscious", "Boom Bap"]
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -76,4 +75,3 @@ styles: ["Conscious", "Boom Bap"]
 | Catalog Number | RMM-047-1 |
 
 Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.  Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.  Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"  ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.  "Made In Czech Republic" sticker on back cover shrink-wrap.  Runouts are stamped except "RMM - 045 - 1 #" which is etched.
-

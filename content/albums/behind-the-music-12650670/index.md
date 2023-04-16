@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Infra Riot (4:45)
 2. Sister Surround (3:35)
@@ -35,6 +34,8 @@ styles: ["Indie Rock"]
 18. Slow Drift Away (2:52)
 19. Hang Ten (4:37)
 20. We'll Get By (2:00)
+## Spotify
+{{< spotify type="album" id="3NoWJU6iEUKX4WlPsisjFh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hdW3yRTeBzM" title="Soundtrack of Our Lives - Independent Luxury" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock"]
 - [Soundtrack of Our Lives Into the Next Sun ('Behind the Music' LP)](https://www.youtube.com/watch?v=RrZQ8n3x8EY)
 - [MIND THE GAP The Soundtrack Of Our Lives](https://www.youtube.com/watch?v=ZTK5k6kyH7w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock"]
 | Catalog Number | MOVLP2242 |
 
 180 gram audiophile vinyl Gatefold sleeve Including insert Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl
-

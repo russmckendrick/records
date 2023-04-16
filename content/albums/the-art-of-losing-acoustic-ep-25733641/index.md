@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Show Your Face ( Piano Version ) (3:12)
 2. Let It Hurt ( String Quartet Version ) (3:37)
@@ -23,9 +22,7 @@ styles: ["Acoustic", "Alternative Rock"]
 6. Let It Hurt ( French Version ) ( Bonus Track ) (3:35)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -35,4 +32,3 @@ styles: ["Acoustic", "Alternative Rock"]
 | Catalog Number | KSCOPE1124 |
 
 Limited edition of 500, each copy ordered from bandcamp is personally hand-signed by Catherine. 
-

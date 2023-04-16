@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Industrial Metal"]
 ---
-
 ## Tracklisting
 1. Pinion (1:03)
 2. Wish (3:46)
@@ -23,6 +22,8 @@ styles: ["Industrial", "Industrial Metal"]
 6. Gave Up (4:08)
 7. Physical (5:29)
 8. Suck (5:07)
+## Spotify
+{{< spotify type="album" id="4jyWDa1yM9ul7zgUdR80hw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XfW0ke4bwI4" title="Nine Inch Nails - Pinion" >}}
@@ -30,9 +31,7 @@ styles: ["Industrial", "Industrial Metal"]
 - [Nine Inch Nails: Help Me I Am In Hell (1992)](https://www.youtube.com/watch?v=CBOhQamGGuI)
 - [Nine Inch Nails: Gave Up (1992)](https://www.youtube.com/watch?v=yVpw1SwJRBI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +41,3 @@ styles: ["Industrial", "Industrial Metal"]
 | Catalog Number | B0025684-01 |
 
 2017 Definitive Edition. Comes with digital download code. The 12" contains a spiral etching of random lyrics from the songs on the record.  Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).  12" Jacket has a matte "n" on the front and the inside is white. 7" Paper inner sleeve.  From the hype sticker:  The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about.   Halo five Original release date: September 22, 1992
-

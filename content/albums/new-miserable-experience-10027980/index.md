@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Lost Horizon (3:20)
 2. Hey Jealousy (3:56)
@@ -27,15 +26,15 @@ styles: ["Alternative Rock"]
 10. 29 (4:18)
 11. Pieces Of The Night (4:33)
 12. Cheatin' (3:25)
+## Spotify
+{{< spotify type="album" id="484pzryEPqn6KSMLtP2c4f" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kOpj02X_MTU" title="Gin Blossoms - Found Out About You (New Miserable Experience CD) Subtitulada Español / Inglés" >}}
 - [Gin Blossoms - Hey Jealousy (Official Video)](https://www.youtube.com/watch?v=ah5gAkna3jI)
 - [Lost Horizons](https://www.youtube.com/watch?v=Z10lH4fJEGY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | B-0026126-01 |
 
 From insert: Produced by John Hampton & Gin Blossoms  Engineered & Mixed by John Hampton  Recorded February - March 1992 @ Ardent Studios - Memphis, TN except "Mrs. Rita" and "Allison Road" - Produced by Gin Blossoms. Engineered by Andy Barrett  Recorded May - July 1991 @ AB Recorders - Phoenix, AZ  Mixed July 1991 by John Hampton @ Ardent Studios - Memphis, TN
-

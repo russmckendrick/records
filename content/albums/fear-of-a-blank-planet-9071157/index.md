@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Fear Of A Blank Planet (7:28)
 2. My Ashes (5:09)
@@ -21,13 +20,13 @@ styles: ["Indie Rock", "Prog Rock"]
 4. Sentimental (5:26)
 5. Way Out Of Here (7:38)
 6. Sleep Together (7:26)
+## Spotify
+{{< spotify type="album" id="59J51uy6r6QcYe7cX0Fzz6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jKM5dampSOQ" title="Porcupine Tree - Fear of a Blank Planet (2007) Full Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -37,4 +36,3 @@ styles: ["Indie Rock", "Prog Rock"]
 | Catalog Number | KSCOPE867 |
 
 Published by Hands Off It's Mine Publishing, adminstered by Universal Music Publishing Group  Written in London and Tel Aviv between Jan-July 2006 Recorded between Oct-Dec 2006 Recorded at No Man's Land, Bourne Place, New Rising, The Artillery, Nightspace, Mark Angelo, Red Room Recorders, DGM. String arrangements recorded at Angel Studio.  Issued under license from Porcupine Tree Ltd. under exclusive license to Kscope. ℗ 2007 Porcupine Tree Ltd. under exclusive license to Kscope. © 2016 Porcupine Tree Ltd. under exclusive license to Kscope. Made in Germany  180 gram audiophile translucent blue vinyl gatefold with plain black inner sleeves 2016 Re-release of the 2012 Steven Wilson remastered edition
-

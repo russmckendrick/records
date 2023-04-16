@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
-
 ## Tracklisting
 1. Svefn-g-englar
 2. Starálfur
@@ -34,6 +33,8 @@ styles: ["Post Rock", "Ambient"]
 17. Olsen Olsen
 18. Ágætis Byrjun
 19. Avalon
+## Spotify
+{{< spotify type="album" id="1DMMv1Kmoli3Y9fVEZDUVC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Lu3wQ-HaAcM" title="SIGUR ROS - Olsen Olsen - No Lyrics for Iceland band" >}}
@@ -48,9 +49,7 @@ styles: ["Post Rock", "Ambient"]
 - [Ágætis byrjun](https://www.youtube.com/watch?v=MHTRGBdH-s4)
 - [Avalon](https://www.youtube.com/watch?v=vwf4Z941jAA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -60,4 +59,3 @@ styles: ["Post Rock", "Ambient"]
 | Catalog Number | XLLP610, XLCD610 |
 
 ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.  Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD."  Sigur Ros clear sticker logo is pasted on outer shrink wrap.  
-

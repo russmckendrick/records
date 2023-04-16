@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Watchers (Movement 1)  (2:58)
 2. Flying Totems (Movement 2)  (3:54)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. The Opening (Movement 8) (4:16)
 9. Don’t Look Back (Movement 9)  (3:36)
 10. Equinoxe Infinity (Movement 10)  (7:35)
+## Spotify
+{{< spotify type="album" id="4wc5RqHgN4VmoW0iulFneI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Z6mtx7vMdqQ" title="Jean-Michel Jarre - Flying Totems (Franci98my Remix)" >}}
@@ -44,9 +45,7 @@ styles: ["Synth-pop"]
 - [Jean Michel Jarre - Equinoxe Infinity [Full Album] [HQ]](https://www.youtube.com/watch?v=LL1RawtMmb8)
 - [Jean Michel Jarre - The Watchers (Movement I)](https://www.youtube.com/watch?v=d_RsdauwljE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -56,4 +55,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 19075876451 |
 
 Pre-mastered with the new FiDef algorithm.  Made in the EU
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. War Pigs
 2. Paranoid
@@ -31,6 +30,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 14. Hand Of Doom
 15. Rat Salad
 16. Fairies Wear Boots
+## Spotify
+{{< spotify type="album" id="6r7LZXAVueS5DqdrvXJJK7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lLb6UUw2ZVQ" title="War Pigs / Luke's Wall (2012 - Remaster)" >}}
@@ -42,9 +43,7 @@ styles: ["Heavy Metal", "Hard Rock"]
 - [Hand of Doom (2012 - Remaster)](https://www.youtube.com/watch?v=o6HmfTdwYZg)
 - [Rat Salad (2012 - Remaster)](https://www.youtube.com/watch?v=RLlU-5GqLvo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -54,4 +53,3 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Catalog Number | BMGRM054LP |
 
 Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve. Sticker on shrink-wrap reads: Includes CD of Album  Vertigo swirl on top left of front cover. Vertigo swirl on side A disc label.  Recorded at Regent Sound and Island Studios Management/Jim Simpson, Big Bear, Birmingham  ℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS] © 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS] Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group. Made in EU  
-

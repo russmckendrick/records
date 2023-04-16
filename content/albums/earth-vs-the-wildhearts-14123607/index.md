@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Greetings From Shitsville
 2. TV Tan
@@ -32,9 +31,7 @@ styles: ["Hard Rock"]
 - [News of the World](https://www.youtube.com/watch?v=L191KWeauHQ)
 - [The Wildhearts - Loveshit](https://www.youtube.com/watch?v=nW_eNEuYNUI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -44,4 +41,3 @@ styles: ["Hard Rock"]
 | Catalog Number | 0190295451950 |
 
 Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.  Mastered at Sterling Sounds, NYC.  ℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company.
-

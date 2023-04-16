@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. How To Replace It
 2. Must Have Been New
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Why Think It Over (Cadillac)
 11. Love Breaks Down
 12. Le Blues Polaire
+## Spotify
+{{< spotify type="album" id="0VwdLX4EvZMcaFwd7fWtil" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SUCUO5k0MLg" title="dEUS - Must Have Been New (Official Visualizer)" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [How To Replace It](https://www.youtube.com/watch?v=wzcg5SMJraM)
 - [dEUS - 1989 (Official Visualizer)](https://www.youtube.com/watch?v=Gx206aFD6Wg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | PIASB820LP, PIASB820LPC |
 
 [Info:] Issued in a gatefold sleeve with printed inner sleeves.  A1: Intro - In honour of "Aujourd'hui c'est toi" Heartbeat - Francis Lai.  [On barcode sticker:] PIASB820LPC  [On cover back:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [On labels, side B and D:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [Matrixes / Runouts:] Sides A to D: etched PIASB820LP-LPC, rest stamped Side C and D: etched -> 1V 
-

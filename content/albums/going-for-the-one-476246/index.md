@@ -13,18 +13,17 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Going For The One (5:30)
 2. Turn Of The Century (7:58)
 3. Parallels (5:52)
 4. Wonderous Stories (3:45)
 5. Awaken (15:38)
-
+## Spotify
+{{< spotify type="album" id="2U4JHXMiBxsKH4dnYEQg2g" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1977 |
@@ -34,4 +33,3 @@ styles: ["Prog Rock"]
 | Catalog Number | SD 19106 |
 
 Similar to [this Specialty Records version](https://www.discogs.com/Yes-Going-For-The-One/release/7921043) by different lacquer cutting credits in runout.   Recorded at Mountain Studios, Montreux, Switzerland. Track B2 recorded at Eglise des Planches, Montreux, Switzerland. Church Organ recorded at St. Martin's Church, Vevey, Switzerland.   ℗ 1977 Atlantic Recording Company and Star/Right Co. All song published by Topographic Music ASCAP administered by WB Music Corp. Mfg. by Atlantic Recording Corp.  Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.  Runouts are etched, except for the SRC logo which is stamped.
-

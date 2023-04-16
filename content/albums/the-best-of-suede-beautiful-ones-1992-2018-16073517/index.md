@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. The Drowners
 2. Metal Mickey
@@ -36,11 +35,11 @@ styles: ["Indie Rock", "Britpop"]
 19. Outsiders
 20. The Invisibles
 21. Life Is Golden
-
+## Spotify
+{{< spotify type="album" id="7mAvhljwzf6MGLPz64rSMb" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,6 +47,5 @@ styles: ["Indie Rock", "Britpop"]
 | Label          | Demon Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | INSATIABLE10 |
-
 
 

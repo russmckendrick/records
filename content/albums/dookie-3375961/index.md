@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Punk", "Punk"]
 ---
-
 ## Tracklisting
 1. Burnout (2:07)
 2. Having A Blast (2:45)
@@ -31,11 +30,11 @@ styles: ["Pop Punk", "Punk"]
 14. F.O.D. (2:49)
 15. (silence) (1:20)
 16. All By Myself (1:38)
-
+## Spotify
+{{< spotify type="album" id="4uG8q3GPuWHQlRbswMIRS6" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -45,4 +44,3 @@ styles: ["Pop Punk", "Punk"]
 | Catalog Number | 9362-49869-5, 1-468284 (K1) |
 
 Includes printed insert.  Track B2 titled "Sassafras" on label. Tracks B7.2 and B7.3 are unlisted.  Green sticker on front: The 1994 breakthrough album. For the first time on vinyl in over a decade. BECAUSE SOUND MATTERS 1-468284 (K1)  Inlay: 1994 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP except "Welcome To Paradise" © 1991 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP. Lyrics Reprinted by Permission. © 2008, 1994 Reprise Records.  Back cover: Reprise Records, a Warner Music Group Company. © ℗ 2008, 1994 Reprise Records for the U.S. and WEA International Inc. for the world outside of the U.S. Made in the E.U.  Labels: WB Music Corp./Green Daze Music admin. by WB Music Corp. (ASCAP) © ℗ 2008, 1994 Reprise Records Made in the E.U.
-

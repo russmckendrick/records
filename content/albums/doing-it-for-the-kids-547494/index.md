@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Cut Me Deep (3:28)
 2. Ballad Of The Band (2:53)
@@ -49,9 +48,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)
 - [Heidi Berry - Northshore Train](https://www.youtube.com/watch?v=VWh8Bi8d4h0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -61,4 +58,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | CRELP 037 |
 
 Sticker on front: "CRELP 037 'Doing It For The Kids' A 15 track compilation LP for the price of a 7" single. From Creation"  Top right corner of front sleeve has "CRELP 037 An L.P. for the price of a 7" single" printed in dark blue/grey.    This compilation ℗ and © 1988 Creation Records.  A1, A2, A4, A6, B2, B6, B8 published by Complete Music A3, A5, B1, B3 to B5, B7 unpublished A7 published by Rough Trade Music Ltd.  "This is a label of love.." - Alan McGee. August, '88.  An Alan McGee/Richard Green Extravaganza.  A Creation Records Product.  Manufactured and Distributed by the Cartel.  Made in England.    Distributed in Germany by Rough Trade Distribution (sticker on back cover) 
-

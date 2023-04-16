@@ -1,6 +1,6 @@
 ---
-title: "Ghost (32) - Impera"
-artist: "Ghost (32)"
+title: "Ghost - Impera"
+artist: "Ghost"
 album_name: "Impera"
 date: 2022-03-15
 release_id: "22460698"
@@ -8,12 +8,11 @@ slug: "impera-22460698"
 hideSummary: true
 cover:
     image: "impera-22460698.jpg"
-    alt: "Impera by Ghost (32)"
-    caption: "Impera by Ghost (32)"
+    alt: "Impera by Ghost"
+    caption: "Impera by Ghost"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 ---
-
 ## Tracklisting
 1. Imperium (1:40)
 2. Kaisarion (5:02)
@@ -27,6 +26,8 @@ styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 10. Griftwood (5:16)
 11. Bite Of Passage  (0:31)
 12. Respite On The Spitalfields (6:42)
+## Spotify
+{{< spotify type="album" id="3fn4HfVz5dhmE0PG24rh6h" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="DD2m_iqD7dI" title="Ghost - Call Me Little Sunshine (Official Music Video)" >}}
@@ -42,16 +43,13 @@ styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 - [Ghost - Bite Of Passage (Official Audio)](https://www.youtube.com/watch?v=C2pLkzpevao)
 - [Ghost - Respite On The Spitalfields (Official Audio)](https://www.youtube.com/watch?v=JA21qOo2mWs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Ghost (32) - Impera](https://www.discogs.com/release/22460698-Ghost-Impera) |
+| Discogs Link   | [Ghost - Impera](https://www.discogs.com/release/22460698-Ghost-Impera) |
 | Label          | Loma Vista, Spinefarm Records |
 | Format         | LP, Album, Ltd, Mag |
 | Catalog Number | LVR02521, 888072420700 |
 
 Issued in Dark Magenta Vinyl and 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.   Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations  
-

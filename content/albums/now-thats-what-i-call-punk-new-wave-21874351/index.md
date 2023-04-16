@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk"]
 ---
-
 ## Tracklisting
 1. London Calling
 2. Teenage Kicks
@@ -62,9 +61,7 @@ styles: ["New Wave", "Punk"]
 - [The Undertones - Teenage Kicks (Official Video)](https://www.youtube.com/watch?v=PinCg7IGqHg)
 - [Buzzcocks - Ever Fallen In Love (With Someone You Shouldn’t’ve?) (TOTP, 1978)](https://www.youtube.com/watch?v=0Af7ayYIJ9w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -72,6 +69,5 @@ styles: ["New Wave", "Punk"]
 | Label          | Sony Music, EMI |
 | Format         | 2xLP, Comp, Pin |
 | Catalog Number | LPNNNOW122, 0194399460917 |
-
 
 

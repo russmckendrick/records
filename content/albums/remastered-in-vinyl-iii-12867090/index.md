@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Aerial
 2. "A Sea Of Honey"
@@ -40,9 +39,7 @@ styles: ["Alternative Rock", "Art Rock"]
 23. Among Angels
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,6 +47,5 @@ styles: ["Alternative Rock", "Art Rock"]
 | Label          | Fish People |
 | Format         | 2xLP, Album, RE, RM + 2xLP, Album, RE, RM + 2xLP,  |
 | Catalog Number | 0190295593933 |
-
 
 

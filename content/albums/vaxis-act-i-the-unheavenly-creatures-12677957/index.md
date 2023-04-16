@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Prologue (2:07)
 2. The Dark Sentencer (7:44)
@@ -34,9 +33,7 @@ styles: ["Prog Rock"]
 ## Videos
 {{< youtube id="SX6Dz0JRifU" title="Coheed and Cambria: Old Flames [OFFICIAL VIDEO]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +43,3 @@ styles: ["Prog Rock"]
 | Catalog Number | RR7429-1, 1686-174291  |
 
 Tri-Fold Jacket Includes Digital Download 1686-174291 & RR-7429-1 Printed On Hype Sticker. Side VI withing etching Made in the EU
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
-
 ## Tracklisting
 1. Use Me (8:30)
 2. Friend Of Mine (4:26)
@@ -29,6 +28,8 @@ styles: ["Soul", "Funk"]
 12. Hope She'll Be Happier (4:23)
 13. Let Us Love (5:21)
 14. Harlem/Cold Baloney (13:07)
+## Spotify
+{{< spotify type="album" id="0Stnb66v5cibvR22sFdLYx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fSqtPjpKb6k" title="Use Me (Live at Carnegie Hall, New York, NY - October 1972)" >}}
@@ -46,9 +47,7 @@ styles: ["Soul", "Funk"]
 - [Let Us Love (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=vOfSxkgX8XM)
 - [Medley: Harlem / Cold Baloney (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=S00jJdAYVoU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -58,4 +57,3 @@ styles: ["Soul", "Funk"]
 | Catalog Number | MOVLP432, SXBS 7025-2 |
 
 Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles). Published by Interior Music, Corp. (BMI)  Gatefold cover with printed company inner sleeves. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Ogden's Nut Gone Flake
 2. Ogden's Nut Gone Flake
@@ -29,6 +28,8 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 12. The Journey
 13. Mad John
 14. Happydaystoytown
+## Spotify
+{{< spotify type="album" id="2pM93DS0vpM3wt6ooVx5LS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TwB3bug2p-I" title="The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 - [The Small Faces - Lazy Sunday Afternoon](https://www.youtube.com/watch?v=zXeRB-3nDR8)
 - [The Journey](https://www.youtube.com/watch?v=ffOy_wQO9LE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 | Catalog Number | 101L, IMLP 012 |
 
 This is the 2015 Record Store Day release.  Circular insert + Circular booklet housed in a barcode stickered flapped PVC sleeve with a black card backing insert.  Many of these LPs arrived at shops with split damaged PVC sleeves.
-

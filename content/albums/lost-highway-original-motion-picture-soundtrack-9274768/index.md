@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporary Jazz", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. I'm Deranged (Edit) (2:38)
 2. Videodrones; Questions (0:44)
@@ -64,9 +63,7 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 - [Driver Down](https://www.youtube.com/watch?v=PxBGukgq2cM)
 - [Lost Highway Soundtrack 23. I’m Deranged (Reprise)](https://www.youtube.com/watch?v=yrb9QKVEMvM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -76,4 +73,3 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 | Catalog Number | MOVATM101 |
 
 Limited to 2000 copies. Title lettering on the sleeve is embossed. A printed inner sheet with info is also included.  Track 14 contains excerpts from: "Spooky", written by H.Middlesbrooke, M.Shapiro, B.Buie and J.R.Cobb (performed by [The Classics IV](http://www.discogs.com/artist/Classics+IV,+The)); "Blue Lines", written by R.Del Naja, G.Marshall, A.Vowles and A.Thaws (performed by [Massive Attack](http://www.discogs.com/artist/Massive+Attack)); "Le Temps Des Souvenirs", written by J.J.Datin, M.Vidalin and C.Blackwell (performed by [Françoise Hardy](http://www.discogs.com/artist/Fran%C3%A7oise+Hardy)).  1, 23. © 1995 Tintoretto Music Administered by RZO Music, Inc. (BMI) and Ulapa Music, Inc. 3. © 1996 Leaving Hope Music/TVT Music (ASCAP), D. Lohner 4, 5, 7, 11, 16, 17, 21. © 1996 Avalon Music/Bobkind Music (ASCAP) 6. © 1996 Chrysalis Songs/Cinderful Music (BMI) Recorded at Soundworks (Chicago). Mixed at Chung King (New York) 8, 10, 19. © 1996 Mute Song/Bobkind Music (ASCAP) 9. © 1960 Unichappell Music, Inc (BMI) 12. © 1996 Dinger & Ollie Music/Beat Up Your Mom Music (BMI) 13. © 1963 Duchess Music Corporation 15. © 1956 Copyright renewed 1984 Unart Music Corporation 18, 20. ©  Edition Rammstein administered in The BMG UFA Musikverlage administered in The US by BMG Songs, Inc. (ASCAP) 22. © 1996 Leaving Hope Music/TVT Music (ASCAP)   Made in the EU. 
-

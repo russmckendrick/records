@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Still Snowing In Sapporo
 2. Orwellian
@@ -26,15 +25,15 @@ styles: ["Alternative Rock"]
 9. Blank Diary Entry
 10. Happy Bored Alone
 11. Afterending
+## Spotify
+{{< spotify type="album" id="7LJ0QxVfTERPw88EwJDCRY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Lg2HrqFsz14" title="Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer" >}}
 - [Manic Street Preachers - The Secret He Had Missed (Official Video) ft. Julia Cumming](https://www.youtube.com/watch?v=4Q3sDyp3mbo)
 - [Manic Street Preachers - Orwellian (Official Video)](https://www.youtube.com/watch?v=bzSYaCeWvFM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 19439895431, 19439895471 |
 
 Amazon exclusive coloured vinyl edition.  Made in the EU.  
-

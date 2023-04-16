@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
-
 ## Tracklisting
 1. Prologue (At The Century's End)
 2. Alone
@@ -34,6 +33,8 @@ styles: ["Downtempo"]
 17. Just Our Best
 18. Time To Go
 19. Into The Darkness
+## Spotify
+{{< spotify type="album" id="1pL9wHzQnZh4Rs6oHDjlKa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="OE4YLy-4SgI" title="FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly" >}}
@@ -44,9 +45,7 @@ styles: ["Downtempo"]
 - [Bringing It Back To You](https://www.youtube.com/watch?v=4yhZzBTaA8A)
 - [Get The Message Through](https://www.youtube.com/watch?v=KWjwONTzryk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -56,4 +55,3 @@ styles: ["Downtempo"]
 | Catalog Number | IFLSTRS001 |
 
 Kickstarter edition. 500 copies only available to those who backed the project. One blue vinyl, one gold vinyl with a double gatefold sleeve, pop up artwork and tip on jacket with printed inner sleeves. Fred Deakin signed and numbered hype sticker.  Kickstarter description "The triple gatefold double vinyl album featuring metallic and florescent spot colour inks, a pop-up fold and augmented reality visuals. Both discs are pressed on heavyweight coloured vinyl. The sleeve artwork itself is a series of six "stained glass window" images constructed from laser cut perspex mounted onto light boxes which show scenes from the album's story"
-

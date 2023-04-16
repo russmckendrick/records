@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Hangover (3:27)
 2. Revolutionary Kind (4:31)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Rosalita (4:04)
 10. California (7:23)
 11. Devil Will Ride (6:56)
+## Spotify
+{{< spotify type="album" id="4ebT2pQ0KklYdH1XBvzk51" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XPebxxCiZQk" title="Hangover (Remastered 2019)" >}}
@@ -40,9 +41,7 @@ styles: ["Indie Rock"]
 - [Gomez - California](https://www.youtube.com/watch?v=6Ago5SAGV3E)
 - [Devil Will Ride](https://www.youtube.com/watch?v=5TYdDX1Fqlc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 00602577534225, 7753422 |
 
 20th Anniversary release including free download
-

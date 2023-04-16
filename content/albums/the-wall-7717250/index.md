@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. In The Flesh?
 2. The Thin Ice
@@ -44,6 +43,8 @@ styles: ["Prog Rock"]
 27. Stop
 28. The Trial
 29. Outside The Wall
+## Spotify
+{{< spotify type="album" id="2x0jjg2Pw98wHDixqzCeqy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qTNCXPY7e5Y" title="ROGER WATERS - The Happiest Days of Our Lives/Another Brick in The Wall part 2-ASSAGO 4 aprile 2011" >}}
@@ -55,9 +56,7 @@ styles: ["Prog Rock"]
 - [Roger Waters - Mother / Goodbye Blue Sky (The Wall Tour 2010)](https://www.youtube.com/watch?v=w_Wcl7getFI)
 - [Roger Waters - The Wall (Full Theatrical Trailer)](https://www.youtube.com/watch?v=jZgJqX8Dxzg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -67,4 +66,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 88875155411 |
 
 The Soundtrack From A Film By Roger Waters And Sean Evans 3LP in tri-fold jacket on 180-gram audiophile vinyl Includes 16-page book with color photos Made in the EU.  Live Recording Athens: Le Voyageur
-

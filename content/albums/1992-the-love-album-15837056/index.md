@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. 1993
 2. Is Wrestling Fixed?
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "Indie Rock"]
 8. While You Were Out
 9. Skywest And Crooked
 10. The Impossible Dream
+## Spotify
+{{< spotify type="album" id="11KRUBEB5YIfrGJuNmonn1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="37j36VPkm-w" title="Carter USM - is wrestling fixed?" >}}
@@ -35,9 +36,7 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Carter U.S.M. - The Only Living Boy In New Cross (Official Video)](https://www.youtube.com/watch?v=imcSt2HyzEo)
 - [Carter U.S.M. - The Impossible Dream](https://www.youtube.com/watch?v=-Mp6F0u-cw0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -47,4 +46,3 @@ styles: ["Synth-pop", "Indie Rock"]
 | Catalog Number | CHRP 1946 |
 
  RSD UK August 2020 release limited to 750 copies.  Track B4 - words from 'The Man From La Mancha', © Dale Wasserman.  Track B5 - published by Carlin Music Corp.
-

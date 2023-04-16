@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 ---
-
 ## Tracklisting
 1. Inbetweenies (5:16)
 2. Quiet (3:33)
@@ -42,9 +41,7 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 - [Hit Me with Your Rhythm Stick](https://www.youtube.com/watch?v=RUnQnIrJ3XE)
 - [There Ain't Half Been Some Clever Bastards](https://www.youtube.com/watch?v=Q63UoIPZFe0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -54,4 +51,3 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 | Catalog Number | DEMREC02 |
 
 Includes download code and photo sheet
-

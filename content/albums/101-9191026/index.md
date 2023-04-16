@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Pimpf (0:53)
 2. Behind The Wheel (5:41)
@@ -32,6 +31,8 @@ styles: ["Synth-pop"]
 15. Master And Servant (4:24)
 16. Just Can't Get Enough (4:01)
 17. Everything Counts (6:07)
+## Spotify
+{{< spotify type="album" id="5BeufSLtuFnIP808stSFjg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8GcB4dzQGAA" title="Depeche Mode - Shake The Disease (Live from 101 HD)" >}}
@@ -67,9 +68,7 @@ styles: ["Synth-pop"]
 - [Depeche Mode - Everything Counts 101 Full 4K -](https://www.youtube.com/watch?v=8_O-oClZAfI)
 - [Depeche Mode 101 1989. 4K Restored - Black Celebration](https://www.youtube.com/watch?v=cFrxUqiZRG4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -79,4 +78,3 @@ styles: ["Synth-pop"]
 | Catalog Number | Stumm101, 88985337711 |
 
 Recorded Live at the Pasadena Rose Bowl, June 18th 1988 (P) 1989 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd. (C) 1989, 2016 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd. All trademarks and logos are protected. Made in the EU. Sony Music Entertainment International Service GmbH, PO Box 510, 33311 Gütersloh, Germany. sonymusic.com depechemode.com Includes a 16-page booklet of photos.  The runout strings are stamped 
-

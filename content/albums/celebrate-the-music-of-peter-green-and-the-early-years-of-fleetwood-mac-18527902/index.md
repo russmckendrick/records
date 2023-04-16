@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Rolling Man
 2. Homework
@@ -38,13 +37,13 @@ styles: ["Classic Rock", "Blues Rock"]
 21. The Green Manalishi (With The Two Prong Crown)
 22. Albatross
 23. Shake Your Money Maker
+## Spotify
+{{< spotify type="album" id="0my24L5pit3nfpj6ccdlZA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="clf-JWLd8_Y" title="Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +53,3 @@ styles: ["Classic Rock", "Blues Rock"]
 | Catalog Number | BMGCAT454QLP |
 
 Widespine gatefold  
-

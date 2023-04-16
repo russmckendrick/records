@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Move Mountains (3:19)
 2. Never Enough (2:41)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 10. What Would You Know? (3:55)
 11. One For The Money (2:56)
 12. Someone To Blame (4:06)
+## Spotify
+{{< spotify type="album" id="40KUzz9XDYb0hUQSAV1fkq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QSASBEasFXI" title="Move Mountains (Ben Chapman 7'' Mix)" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 - [One For The Money](https://www.youtube.com/watch?v=JUIO1Q8a2tA)
 - [Someone To Blame](https://www.youtube.com/watch?v=njmTNKyqBSA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 | Catalog Number | FOODLP 3, 79 3238 1 |
 
 Recorded in London in June 1989. Front photography at P.T.W.  This is the first Jesus Jones Album and is a diary of the band conception to...This! "Liquidizer" was made under the influence of: Turntable Orchestra, The Byrds, Napalm Death, The Shamen, Neneh Cherry, Star Trek, Public Enemy, Mel and Kim, Sonic Youth, Bomb The Bass, Rapeman, Todd Terry, Cookie Crew, Prince, Allen Konigsberg, S'Express, World Domination, Enterprise, Sonny Boy, Williamson, Jimi Hendrix, The Jungle Brothers, Them Mysterious Bulgarian Voices, Head Of David, For A Few Dollars More, A Guy Called Gerald, Malcolm Young, Leigh "Scratch" Fenlon, Dinosaur Jnr, Sweet T, Joe Smooth, Black Sabbath, De La Soul, Faith No More, Erik B + Rakim, Apocalypse Now, The The, Big Black, The Evil Dead and the news and views of 1988 / 1989.  BPMs:  A1: 120 / A2: "quite fast" / A3: 125 / A4: 110 / A5: 110 / A6: "quite slow" B1: 125 / B2: 125 / B3: 120 / B4: 120 / B5: 118  Comes with an inner sleeve with lots of thank you's. Label: ℗ 1989 The copyright in this sound recording is owned by EMI Records Ltd. Inner sleeve: © 1989 Food Records Ltd. Rear sleeve: ℗ 1989 the copyright in this sound recording is owned by Food Records Limited under exclusive licence to EMI Records Limited. Sleeve printed in England. Manufactured in England.
-

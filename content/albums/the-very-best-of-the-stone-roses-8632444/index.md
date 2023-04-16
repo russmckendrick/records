@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. I Wanna Be Adored (4:52)
 2. She Bangs The Drums (3:42)
@@ -30,6 +29,8 @@ styles: ["Indie Rock"]
 13. One Love (3:35)
 14. This Is The One (4:58)
 15. I Am The Resurrection (8:12)
+## Spotify
+{{< spotify type="album" id="1RB1lMsMcQQmcqUyP23T5f" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0uNLw3pXlVM" title="The Stone Roses - Ten Storey Love Song" >}}
@@ -45,9 +46,7 @@ styles: ["Indie Rock"]
 - [The Stone Roses - Complete C Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
 - [The Stone Roses - Complete D Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=KmY_D5ixBIg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -57,4 +56,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 88725406221 |
 
 Remastered from the original master tapes by John Davis @ Metropolis Studios. Remastering was overseen by John Leckie. Both vinyl housed in picture sleeves. A 12x12" insert with liner notes, lyrics and credits is also included.  2012 is stated beside ℗&© on side two and side four labels respectively. 2016 is stated on insert.
-

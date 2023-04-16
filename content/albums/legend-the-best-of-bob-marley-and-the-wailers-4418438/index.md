@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Reggae", "Roots Reggae"]
 ---
-
 ## Tracklisting
 1. Is This Love (3:52)
 2. No Woman No Cry (4:02)
@@ -29,13 +28,27 @@ styles: ["Reggae", "Roots Reggae"]
 12. Satisfy My Soul (3:49)
 13. Exodus (4:16)
 14. Jamming (3:17)
+## Spotify
+{{< spotify type="album" id="4jKeipwuUTjlx9USNYdhZn" width="100%" height="500" >}}
 
 ## Videos
-{{< youtube id="hUzeGvg0pOg" title="Legend  Bob Marley Cd completo Hd  Remastered" >}}
-
+{{< youtube id="FIsuGbF3g0g" title="Bob Marley & The Wailers - Is This Love" >}}
+- [Legend  Bob Marley Cd completo Hd  Remastered](https://www.youtube.com/watch?v=hUzeGvg0pOg)
+- [Bob Marley & The Wailers - No Woman No Cry](https://www.youtube.com/watch?v=uH-Ysg8xVwY)
+- [Bob Marley & The Wailers - Could You Be Loved](https://www.youtube.com/watch?v=pNc36Kbm7F0)
+- [Bob Marley & The Wailers - Three Little Birds](https://www.youtube.com/watch?v=mvzXk_iivZE)
+- [Bob Marley & The Wailers - Buffalo Soldier](https://www.youtube.com/watch?v=OqWAWtbMSis)
+- [Bob Marley & The Wailers - Get Up Stand Up](https://www.youtube.com/watch?v=BElFYqtEUv0)
+- [Bob Marley & The Wailers - Stir It Up](https://www.youtube.com/watch?v=w8Mpnav5Vx4)
+- [Bob Marley & The Wailers - One Love / People Get Ready](https://www.youtube.com/watch?v=t3uiLFuotuo)
+- [Bob Marley & The Wailers - I Shot The Sheriff](https://www.youtube.com/watch?v=J7cbLDQv-p8)
+- [Bob Marley & The Wailers - Waiting In Vain](https://www.youtube.com/watch?v=NVOOGWTbXmg)
+- [Bob Marley & The Wailers - Redemption Song](https://www.youtube.com/watch?v=Bbevgb3-MTs)
+- [Bob Marley & The Wailers - Satisfy My Soul](https://www.youtube.com/watch?v=yi3nNiEI8ZI)
+- [Bob Marley & The Wailers - Exodus](https://www.youtube.com/watch?v=QR4cb7tz2Eo)
+- [Bob Marley & The Wailers - Jamming](https://www.youtube.com/watch?v=E31D3IPkSz0)
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +58,3 @@ styles: ["Reggae", "Roots Reggae"]
 | Catalog Number | 0600753030523 |
 
 BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple
-

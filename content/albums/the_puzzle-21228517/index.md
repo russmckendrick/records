@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Abstract"]
 ---
-
 ## Tracklisting
 1. Chromatic Ridge
 2. Life Is But A Dream
@@ -37,9 +36,7 @@ styles: ["Abstract"]
 20. Monuments Of Glitch
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,4 +46,3 @@ styles: ["Abstract"]
 | Catalog Number | HDR 0001007 |
 
 Limited edition exclusive to devintownsendshop.com  ℗ 2021 HevyDevy Records © 2021 HevyDevy Records All songs published by [l1618032], administered by Kobalt Music Services Ltd.,  except "The Yugas," administered by Kobalt Music Services Ltd. / [l1617984] (BMI); "Maybe Over The Void," "FrogFlowers" and "Mother" administered by Kobalt Music Services Ltd. and [l48207].  Recorded all over the place, Earth, 2020-2021.  Issued with a 8-page 12" booklet in a UV gloss finish on the front cover.  Run-out information: [HDR 0001007 - (A, B, C, D)] is etched, the rest is stamped. 
-

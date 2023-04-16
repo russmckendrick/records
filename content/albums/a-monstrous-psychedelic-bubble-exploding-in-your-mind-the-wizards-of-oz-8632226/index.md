@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract"]
 ---
-
 ## Tracklisting
 1. It Is Not Meant To Be
 2. Gods of Norse
@@ -43,9 +42,7 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 - [A Monstrous Psychedelic Bubble - The Wizards Of Oz - psychvert 2](https://www.youtube.com/watch?v=xLN0gUVG9lA)
 - [A Monstrous Psychedelic Bubble (Exploding In Your Mind)...it's The Wizards Of Oz](https://www.youtube.com/watch?v=1_QkVmGHxfs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -55,4 +52,3 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 | Catalog Number | FEST601025LX |
 
 200 gram hazy clear vinyl, gatefold sleeve.
-

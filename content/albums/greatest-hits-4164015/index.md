@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Wild World (3:19)
 2. Oh Very Young (2:35)
@@ -27,6 +26,8 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 10. Sitting (3:11)
 11. Morning Has Broken (3:17)
 12. Another Saturday Night (2:28)
+## Spotify
+{{< spotify type="album" id="5BDqJzTLIb2J85U8DA9g29" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Jta56wBl7SM" title="CAT STEVENS - Wild World 1971" >}}
@@ -57,9 +58,7 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 - [C.a.t S.t.e.v.e.n.s Greatest Hits, Full Album - Rock Music Playlist 2022](https://www.youtube.com/watch?v=vmZbyEgDhas)
 - [CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975](https://www.youtube.com/watch?v=YbN9NT7-SkI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -69,4 +68,3 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 | Catalog Number | ILPS 9310 |
 
 The following versions with this cat# and similar design are known to exist:  Regular text in bottom line on sleeve back: [r1389126] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo light coloured [r12244856] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo deep orange [r6813042] - filled Island logo on A label only, tiger pointing to the left [r5376517] - filled Island logo on B label only, tiger pointing to the left [r465317] - filled Island logo on both labels, tiger pointing to the left [r8127853] - empty Island logo on labels, tiger pointing to the right  Bold text in bottom line on sleeve back: [r4164015] - empty Island logo on labels, tiger pointing to the left (this one) [r409889] - filled Island logo with rim on labels, tiger pointing to the left, cat# on back in white
-

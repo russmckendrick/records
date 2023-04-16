@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 ---
-
 ## Tracklisting
 1. Aukamacic
 2. Icky Qualms
@@ -35,9 +34,7 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 - [Icky Qualms](https://www.youtube.com/watch?v=E3XQqgfrfkc)
 - [Piffol One Time](https://www.youtube.com/watch?v=_L8Oa8xcr_o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -47,4 +44,3 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 | Catalog Number | ALPH LP 000 |
 
 A collection of recordings from the period 1977-79.  Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve.
-

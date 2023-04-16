@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Chelsea Girl
 2. Drive Blind
@@ -36,9 +35,7 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 {{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}
 - [Ride - Sennen](https://www.youtube.com/watch?v=_4FjWtH83Ho)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +45,3 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | Catalog Number | WEBB574LP |
 
 'Original audio reworked and refined' Double white vinyl, standard weight Gatefold sleeve, reverse board Download included Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Bat Out Of Hell (9:48)
 2. You Took The Words Right Out Of My Mouth (Hot Summer Night) (5:04)
@@ -22,6 +21,8 @@ styles: ["Pop Rock"]
 5. Two Out Of Three Ain't Bad (5:23)
 6. Paradise By The Dashboard Light (8:28)
 7. For Crying Out Loud (8:45)
+## Spotify
+{{< spotify type="album" id="6mvI80w5r78niBmwtu7RF9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}
@@ -35,9 +36,7 @@ styles: ["Pop Rock"]
 - [Great Boleros of Fire (Live Intro)](https://www.youtube.com/watch?v=6YBGsJtXtys)
 - [Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)](https://www.youtube.com/watch?v=hkgXS5sotAM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +46,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 88985375141 |
 
 Some copies have a sticker.   Dedicated to Wesley and Wilma Aday and Louis Steinman.  Edgar Winter appears courtesy of Blue Sky Records.  Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records.  Album Conceived by Jim Steinman and Meat Loaf.   Made in the EU. 
-

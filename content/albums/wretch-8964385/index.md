@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Beginning Of What's About To Happen (1:30)
 2. Hwy 74 (3:10)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 10. I'm Not (4:30)
 11. Big Bikes (5:04)
 12. Stage III (4:05)
+## Spotify
+{{< spotify type="album" id="1Mozf4qsfZx8WIsPyUmwO6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qDnoe3IP1Pk" title="[Beginning of What's About to Happen] Hwy 74" >}}
@@ -41,9 +42,7 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 - [Big Bikes](https://www.youtube.com/watch?v=RwpWyGPk4k0)
 - [Stage III](https://www.youtube.com/watch?v=FD6iMtFyclU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 | Catalog Number | 3704-61256-1 |
 
 Sticker on front sleeve stating "180g Coloured Vinyl".  Recorded and mixed at Headway Studios and Master Control. Mastered at K-Disk.  Originally released as a [ single LP](http://www.discogs.com/Kyuss-Wretch/release/2885461) on black vinyl in 1991 by Dali Records.  ℗ & © 1991 Dali Records, a division of Chamelion Music Group. Made in Germany  Pressing plant uncredited, identified by the matrix numbers.  
-

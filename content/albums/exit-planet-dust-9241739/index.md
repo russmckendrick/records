@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 ---
-
 ## Tracklisting
 1. Leave Home
 2. In Dust We Trust
@@ -26,6 +25,8 @@ styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 9. Chico's Groove
 10. One Too Many Mornings
 11. Alive Alone
+## Spotify
+{{< spotify type="album" id="1Bmuyq89rXZJNK1w8pauEg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4QKi8DorEpM" title="Leave Home" >}}
@@ -40,9 +41,7 @@ styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 - [Playground For A Wedgeless Firm](https://www.youtube.com/watch?v=vaYgOV1urpQ)
 - [Alive Alone](https://www.youtube.com/watch?v=q9rrZzrgA2I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,4 +51,3 @@ styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 | Catalog Number | XDUSTLP1, 7243 8 40540 1 4 |
 
 Color printed glossy inner sleeves. Printed in UK.  On the back of the sleeve: Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands  
-

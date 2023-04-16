@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. You Had Your Soul With You
 2. Quiet Light
@@ -32,6 +31,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 15. Underwater
 16. Light Years
 17. I Am Easy To Find (Original Film Score)
+## Spotify
+{{< spotify type="album" id="5M5LPGsAR9mxbBa22GOp5h" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ifElv18k2O8" title="I Am Easy To Find - A Film by Mike Mills / An Album by The National" >}}
@@ -39,9 +40,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [The National - 'Light Years'](https://www.youtube.com/watch?v=5FQtSn_vak0)
 - [The National - 'Hairpin Turns'](https://www.youtube.com/watch?v=W_aN81SBI3A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -51,4 +50,3 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Catalog Number | 4AD0154LPX |
 
 Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors. 5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format. Etching on the 6th side.  Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.  Includes digital download card for tracks A1 to D4.
-

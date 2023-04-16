@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The American (4:30)
 2. Promised You A Miracle (4:35)
@@ -31,6 +30,8 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 14. Stand By Love (4:11)
 15. Speed Your Love To Me (4:03)
 16. Light Travels (4:40)
+## Spotify
+{{< spotify type="album" id="2KFyDzBQYxY0X3sLoxYnl1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4JTtJwL7sCI" title="Simple Minds - Don't You [Forget About Me] Acoustic - (Official Audio)" >}}
@@ -47,9 +48,7 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 - [Simple Minds - Promised You A Miracle Acoustic - (Official Audio)](https://www.youtube.com/watch?v=q_Ml9oAYN-4)
 - [Simple Minds Live At BBC Radio 1's Big Weekend 2018 Full Concert](https://www.youtube.com/watch?v=Zamyh5UGrWM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -59,4 +58,3 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 | Catalog Number | SMAC02, 00602557157277 |
 
 From sticker: "180gram Double Heavyweihgt Vinyl - 12 Classics Tracks Reworked Acoustically Including Promised You A Miracle - Alive And Kicking - Don't You (Forget About Me) Plus 3 exclusive Bonus Tracks"  Includes voucher to redeem Wav files for all 15 tracks.  Made in the EU
-

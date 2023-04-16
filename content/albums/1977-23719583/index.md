@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Lose Control
 2. Goldfinger
@@ -27,11 +26,11 @@ styles: ["Pop Rock", "Indie Rock"]
 10. Angel Interceptor
 11. Lost In You
 12. Darkside Lightside
-
+## Spotify
+{{< spotify type="album" id="6WPJ2wQLi4SskpTkmofkr9" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -41,4 +40,3 @@ styles: ["Pop Rock", "Indie Rock"]
 | Catalog Number | BMGCAT711CLP |
 
 Gatefold sleeve Sticker reports "Black & White splatter vinyl - Each copy unique and individual"  Track numbering listed sequentially on both sleeve and side labels.   4050538785463 catalog number printed on side labels  Manufactured in Czech Republic.
-

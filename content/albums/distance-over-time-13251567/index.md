@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Untethered Angel (6:12)
 2. Paralyzed (4:14)
@@ -35,14 +34,14 @@ styles: ["Heavy Metal", "Progressive Metal"]
 18. Out Of Reach (4:05)
 19. Pale Blue Dot (8:26)
 20. Viper King (4:01)
+## Spotify
+{{< spotify type="album" id="1sRDi0MSGOy91fHhcpXIu4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zB19NXfsxdQ" title="Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album" >}}
 - [DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=gylxuO6dKOw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Heavy Metal", "Progressive Metal"]
 | Catalog Number | IOMLP 523, 19075920621 |
 
 This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch. It comes with hype-sticker on external sleeve.  Durations do not appear on this release.  CD mastered at Baker Mastering LP mastered at Fine Tune Mastering
-

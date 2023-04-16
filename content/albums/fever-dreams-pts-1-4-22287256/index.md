@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Part 1
 2. Spirit Power & Soul
@@ -35,6 +34,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 18. Ghoster
 19. The Whirl
 20. Human
+## Spotify
+{{< spotify type="album" id="0ajgwYZ4Zp9wq3Zy12El05" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-8NMZguzcx0" title="Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]" >}}
@@ -45,9 +46,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Johnny Marr – Complete C Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=cCG006B34UY)
 - [Johnny Marr – Complete D Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]](https://www.youtube.com/watch?v=z32vdSmuPSs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -57,4 +56,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | NVLP005T |
 
 Gatefold sleeve with inner sleeves with lyrics printed on them. Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"  Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.  Manufactured in Poland.  Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr.
-

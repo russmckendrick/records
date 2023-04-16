@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Bitter Sweet Symphony
 2. Sonnet
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Britpop"]
 11. This Time
 12. Velvet Morning
 13. Come On
+## Spotify
+{{< spotify type="album" id="52AeC4gwbxDfFlLHgK1ByD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AWUD05jzL5o" title="T̲he V̲e̲rve - Urban Hymns (Full Album)" >}}
@@ -90,9 +91,7 @@ styles: ["Alternative Rock", "Britpop"]
 - [Weeping Willow (Live From The 9:30 Club)](https://www.youtube.com/watch?v=dboEqXd8tBM)
 - [Stormy Clouds / (Reprise)](https://www.youtube.com/watch?v=0YofkBCMEkY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -102,4 +101,3 @@ styles: ["Alternative Rock", "Britpop"]
 | Catalog Number | 4787014, 00602547870148 |
 
 ℗ 2016 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Originally released 1997 as HUTLP45. Includes printed innersleeves.  All tracks published by Kobalt Music Publishing Limited, except track 1 published by Abkco Music Inc.  At least five different vinyl releases exist; this one replicates the version with [the band pictured on each side label and RIM text](https://www.discogs.com/The-Verve-Urban-Hymns/release/8139920)  Other versions available are: - with [the band pictured on each side label without RIM text](https://www.discogs.com/The-Verve-Urban-Hymns/release/4274293) - with [black side labels](https://www.discogs.com/The-Verve-Urban-Hymns/release/445878) - the [mailing sleeve](https://www.discogs.com/The-Verve-Urban-Hymns/release/3416731) edition (limited to 5000 copies) - the [2008 US reissue](https://www.discogs.com/The-Verve-Urban-Hymns/release/1548478) by [L=Capitol Records]   Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media.
-

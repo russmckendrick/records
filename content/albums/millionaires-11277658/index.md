@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Crash (3:58)
 2. Just Like Fred Astaire (3:44)
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Dumb Jam (2:38)
 11. Someone's Got It In For Me (4:08)
 12. Vervaceous (5:41)
+## Spotify
+{{< spotify type="album" id="2Gu94ERrbBtZQ8bX1AXai0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Y5qyNF-MLaQ" title="James - Just Like Fred Astaire" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [James - Hello (live)](https://www.youtube.com/watch?v=hhOHnCqpmCg)
 - [JAMES - STRANGERS - legendado](https://www.youtube.com/watch?v=XYlcPuru_wU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 5712914, 571 291-4 |
 
 Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.  The hype sticker reads:  James Millionaires Never before on Vinyl 'Millionaires' over 2 x 180G Heavyweight Vinyl LPs Includes the single '[m=3524]'  [a42895] appears courtesy of Atlantic Recording Corporation.  Outer sleeve: ℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company. Made in the E.U.  Inner sleeve: ℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company.
-

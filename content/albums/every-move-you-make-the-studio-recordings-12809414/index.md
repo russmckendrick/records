@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Outlandos d'Amour (1978)
 2. Next To You (2:51)
@@ -88,9 +87,7 @@ styles: null
 71. Once Upon A Daydream (1983)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -100,4 +97,3 @@ styles: null
 | Catalog Number | 676 325-0 |
 
 From the hype sticker: "Limited edition 6-disc vinyl box set featuring all five studio albums.  Includes exclusive bonus 12-track LP - "Flexible Strategies" featuring non-album b-sides.  Remastered at Abbey Road Studios using "half-speed´"mastering process.  Pressed on heavyweight, 180gm vinyl. Each LP wrapped by an Abbey Road banderole, Box wrapped by an OBI. Original printed inner sleeves, except for "Reggatta de Blanc" and "Outlandos d'Amour" with white protective sleeves . 24-page photo-book including rare photos (inside, credits on rear) from the band's own archives.  Features 14 top-20 singles, including five number ones!"  Includes a voucher to download a WAV version of all the albums (all files have a sample rate of 96 kHz with a bit depth of 24 except the last two albums which use a sample rate of 44,1 kHz).  Made in Germany.
-

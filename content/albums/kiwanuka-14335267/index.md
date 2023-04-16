@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
-
 ## Tracklisting
 1. You Ain't the Problem (4:09)
 2. Rolling (2:51)
@@ -28,6 +27,8 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 11. Interlude (Loving The People) (2:42)
 12. Solid Ground (3:53)
 13. Light (5:48)
+## Spotify
+{{< spotify type="album" id="1yIqauTni1V7l7djYAKSsZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="APBqmPQcRK8" title="Michael Kiwanuka  - You Ain't The Problem" >}}
@@ -46,9 +47,7 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 - [Solid Ground](https://www.youtube.com/watch?v=zO_wmEzfMRY)
 - [Light](https://www.youtube.com/watch?v=RCDsiBLZPnk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -58,4 +57,3 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 | Catalog Number | 7795288 |
 
 Gatefold sleeve holds two full color printed cardboard inner sleeves.  Some copies include colour print signed by the artist.  On labels: Made in the Czech Republic
-

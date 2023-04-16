@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "Ambient", "Electro"]
 ---
-
 ## Tracklisting
 1. Side :/
 2. Halcyon On And On (9:31)
@@ -41,9 +40,7 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 - [Grand Central Station - Guy Pratt (featuring David Gilmour)](https://www.youtube.com/watch?v=moca2B0O0RM)
 - [Hackers Soundtrack - Richest Junkie Still Alive (Sank Remix)](https://www.youtube.com/watch?v=EYkuVytnZWw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -53,4 +50,3 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 | Catalog Number | VSD00206 |
 
 Record Store Day exclusive release, part of the September 26th, 2020 drop.   Limited to 2500 copies in a gatefold jacket.  Made in the EU.
-

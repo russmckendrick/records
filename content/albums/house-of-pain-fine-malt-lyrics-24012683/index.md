@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ---
-
 ## Tracklisting
 1. Salutations (1:11)
 2. Jump Around (3:37)
@@ -37,6 +36,8 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 20. Shamrocks And Shenanigans (Butch Vig Remix) (3:57)
 21. Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) (4:05)
 22. Jump Around (Instumental) (3:38)
+## Spotify
+{{< spotify type="album" id="1GYvmeraQXDxxSC9T3RDvM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XhzpxjuwZy0" title="House of Pain - Jump Around (Official Music Video)" >}}
@@ -48,9 +49,7 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 - [House Of Pain - One For the Road](https://www.youtube.com/watch?v=3wSKzP4xhDc)
 - [House Of Pain - Top O' The Morning To Ya](https://www.youtube.com/watch?v=Fu7a9lADJ0g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -60,4 +59,3 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 | Catalog Number | TB-5184-1 |
 
 Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl. Numbered edition of 6500. Comes with a jump rope.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. Day Tripper (Alternate Take)
 2. Help!
@@ -30,6 +29,8 @@ styles: null
 13. Lady Madonna
 14. My Sweet Lord
 15. Hey Jude
+## Spotify
+{{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uKYcbGMHPAM" title="STAX DOES THE BEATLES(a few tracks)" >}}
@@ -49,9 +50,7 @@ styles: null
 - [With A Little Help From My Friends - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=PLqHKZ2rEJU)
 - [Got To Get You Into My Life - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=tjQvibc4T_k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,4 +60,3 @@ styles: null
 | Catalog Number | CR00173 |
 
 Compilation featuring Beatles hits as recorded by various Stax artists, never before available on vinyl. 2 LP Standard black, gatefold sleeve. Approved for Black Friday 2018, but moved to RSD 2019. 2500 copies released.
-

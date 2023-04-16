@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Steven Wilson Remixes
 2. Giant
@@ -27,15 +26,15 @@ styles: ["Prog Rock"]
 10. Three Friends	
 11. Freedom's Child	
 12. Nothing At All (Steven Wilson 7" Edit)
+## Spotify
+{{< spotify type="album" id="5IY7BFou323iAAWQ0UQEh5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SQPp69MVAaw" title="Gentle Giant - Giant (Official Lyric Video)" >}}
 - [Three Friends (Steven Wilson Mix)](https://www.youtube.com/watch?v=TBWPlsVcd18)
 - [Schooldays (Steven Wilson Mix)](https://www.youtube.com/watch?v=e9JzxQyYdWg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Prog Rock"]
 | Catalog Number | ALUGGV058 |
 
 This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954].   Made in EU
-

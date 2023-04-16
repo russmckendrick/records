@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Hard Act To Follow (3:17)
 2. One Step Ahead (2:52)
@@ -26,6 +25,8 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 9. Ships (3:01)
 10. Ghost Girl (4:26)
 11. Albert Of India (4:05)
+## Spotify
+{{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pF72BXV2quw" title="Split Enz - Iris" >}}
@@ -36,9 +37,7 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 - [Split Enz - Albert Of India [Demo] - from Corroboree / Waiata](https://www.youtube.com/watch?v=ckT36u5xEZY)
 - [Split Enz - Ghost Girl](https://www.youtube.com/watch?v=8EJKYfnxlbs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -48,4 +47,3 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 | Catalog Number | AMLH 64848 |
 
 Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England.
-

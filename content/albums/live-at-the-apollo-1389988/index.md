@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul"]
 ---
-
 ## Tracklisting
 1. Side 1
 2. Apollo Medley
@@ -28,9 +27,7 @@ styles: ["Pop Rock", "Soul"]
 ## Videos
 {{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -40,4 +37,3 @@ styles: ["Pop Rock", "Soul"]
 | Catalog Number | PL87035 |
 
 ℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label  
-

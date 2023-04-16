@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Mission Drive (4:08)
 2. Play (2:47)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 11. Here Comes Everyone (3:53)
 12. Caught In My Shadow (3:48)
 13. 38 Line Poem (5:26)
+## Spotify
+{{< spotify type="album" id="0sc97tRZV9gOJPacbs7ArY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 - [Wonderstuff: Size of a cow](https://www.youtube.com/watch?v=t1egoyuCrwM)
 - [THE WONDER STUFF - Mission Drive : Live(1991)](https://www.youtube.com/watch?v=V4NW5S1UTPQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 | Catalog Number | 847252-1 |
 
 Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	 Comes with printed inner sleeve. Release date taken from 'Polydor News' press release.
-

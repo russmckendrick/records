@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Wheels Of Confusion
 2. Tomorrow's Dream
@@ -38,16 +37,13 @@ styles: ["Heavy Metal"]
 - [St. Vitus Dance (2021 - Remaster)](https://www.youtube.com/watch?v=OAGoDcYZ44s)
 - [Under the Sun / Every Day Comes and Goes (2021 - Remaster)](https://www.youtube.com/watch?v=uR1Ub3SoUqc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Black Sabbath - Black Sabbath Vol 4](https://www.discogs.com/release/8867510-Black-Sabbath-Black-Sabbath-Vol-4) |
-| Label          | Rhino Records (2), Warner Bros. Records |
+| Label          | Rhino Records, Warner Bros. Records |
 | Format         | LP, Album, Ltd, RE, RM, Ora |
 | Catalog Number | RR1 2602, 2602 |
 
 Comes with printed inner sleeve replicating the original 4 page photo booklet inside the gatefold sleeve. The record itself is supplied in a separate white polylined inner sleeve.  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS ORANGE VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "TOMORROW'S DREAM" & "SNOWBLIND" RRI 2602
-

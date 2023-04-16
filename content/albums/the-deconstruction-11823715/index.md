@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Deconstruction
 2. Bone Dry
@@ -45,6 +44,8 @@ styles: ["Indie Rock"]
 28. Archie Goodnight
 29. The Unanswerable
 30. In Our Cathedral
+## Spotify
+{{< spotify type="album" id="3nhc68aAns0r8qoBZr2ley" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track (AUDIO)" >}}
@@ -55,9 +56,7 @@ styles: ["Indie Rock"]
 - [EELS - Be Hurt (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=Tju1_bwzLFw)
 - [EELS - Coming Back (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=jfrEpjWyCYc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -67,4 +66,3 @@ styles: ["Indie Rock"]
 | Catalog Number | EWORKS1150LPX |
 
 Deluxe box set contains: - 2 x 12" pink vinyl in printed sleeves - digipack cd - 28 page lyric booklet with exclusive photos - 12" artwork print - A4 copy of handwritten "Rusty Pipes" lyrics - E "tip & strip" pen - digital download code
-

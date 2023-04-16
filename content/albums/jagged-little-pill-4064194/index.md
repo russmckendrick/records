@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. All I Really Want (4:42)
 2. You Oughta Know (4:07)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Ironic (3:47)
 11. Not The Doctor (3:44)
 12. Wake Up (4:54)
+## Spotify
+{{< spotify type="album" id="5Ap3F8CxjjsQKZGASDcHNA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NPcyTyilmYY" title="Alanis Morissette - You Oughta Know (Official 4K Music Video)" >}}
@@ -45,9 +46,7 @@ styles: ["Alternative Rock"]
 - [Wake Up (2015 Remaster)](https://www.youtube.com/watch?v=JX6FbIkfyro)
 - [You Oughta Know (Jimmy the Saint Blend) / Your House (A Capella) (2015 Remaster)](https://www.youtube.com/watch?v=SIVIzG86_jE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -57,4 +56,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 8122797168 |
 
 Hype sticker: "180-Gram Vinyl Cut From the Original Analog Master"  Black & white printed inner sleeve with lyrics and credits.  This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference.
-

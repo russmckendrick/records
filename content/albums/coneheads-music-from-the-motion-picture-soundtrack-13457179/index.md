@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Magic Carpet Ride
 2. Tainted Love
@@ -26,6 +25,8 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 9. Little Renee
 10. Chale Jao
 11. Conehead Love
+## Spotify
+{{< spotify type="album" id="1SWZCAejTTpS4tG3uRPqo9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RWgSXpWcaZg" title="Michael Monroe feat. Slash - Magic Carpet Ride" >}}
@@ -38,9 +39,7 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 - [CoRe - Track 4 - Jumble](https://www.youtube.com/watch?v=wdUqNciCrvE)
 - [Conehead Love Music Video](https://www.youtube.com/watch?v=NMkaOtvRvVo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,4 +49,3 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 | Catalog Number | 45345-1 |
 
 RSD Exclusive 2019/Ltd. to 1500  'Printed in Canada' on rear sleeve. Similar release with 'Manufactured in the E.U.' is here, [r=14540630].
-

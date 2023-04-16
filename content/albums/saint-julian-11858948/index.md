@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Trampolene (3:35)
 2. Shot Down (3:59)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 8. Pulsar (2:46)
 9. Screaming Secrets (3:27)
 10. A Crack In The Clouds (7:59)
+## Spotify
+{{< spotify type="album" id="6btRCMNdmGVykuuabl07E6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nSiA4Hm7gPc" title="Trampolene" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
 - [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,6 +45,5 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Label          | Island Records |
 | Format         | LP, Album, RE |
 | Catalog Number | ILPS 9861 |
-
 
 

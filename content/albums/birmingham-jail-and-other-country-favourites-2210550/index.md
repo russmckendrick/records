@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Birmingham Jail
 2. Wabash Waltz
@@ -29,9 +28,7 @@ styles: ["Country"]
 ## Videos
 {{< youtube id="kqufglg5A4s" title="Slim Whitman - - -  Birmingham Jail  - --  { Best Video }" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -41,4 +38,3 @@ styles: ["Country"]
 | Catalog Number | CDM 1018 |
 
 Made in England
-

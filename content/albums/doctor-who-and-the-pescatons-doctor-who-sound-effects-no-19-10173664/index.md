@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
 styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
-
 ## Tracklisting
 1. Doctor Who And The Pescatons
 2. Doctor Who And The Pescatons (Side One) (22:22)
@@ -51,9 +50,7 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 34. Dragon Ray-Gun - The Talons Of Weng Chi'Ang
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -63,4 +60,3 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 | Catalog Number | DEMREC202 |
 
 Released for Record Store Day 2017.  Voices recorded at Argo Studios, London. Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.  This recording released by arrangement with B.B.C. Records.  ℗ & © 2017 Demon Music Group.  Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO.
-

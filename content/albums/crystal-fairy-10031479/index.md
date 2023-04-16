@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Chiseler
 2. Drugs On The Bus
@@ -26,6 +25,8 @@ styles: null
 9. Posesión
 10. Sweet Self
 11. Vampire X-Mass
+## Spotify
+{{< spotify type="album" id="5IShQJXhZCvqviakBf1ViX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_VYnkOJrjUY" title="Chiseler" >}}
@@ -40,9 +41,7 @@ styles: null
 - [Sweet Self](https://www.youtube.com/watch?v=hB1gJ1l6txQ)
 - [Vampire X-Mas](https://www.youtube.com/watch?v=RHGc0MvkSIE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -52,4 +51,3 @@ styles: null
 | Catalog Number | IPC-180LP-LV / IPC-180 |
 
 Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi".
-

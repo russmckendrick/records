@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. Planet Claire (4:35)
 2. 52 Girls (3:34)
@@ -24,15 +23,15 @@ styles: ["New Wave"]
 7. Hero Worship (4:07)
 8. 6060-842 (2:48)
 9. Downtown (2:57)
+## Spotify
+{{< spotify type="album" id="3eXETk1esvZPRluDCWH3GN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="n4QSYx4wVQg" title="The B-52's - Rock Lobster (Official Music Video)" >}}
 - [The B-52's - Planet Claire (1979)](https://www.youtube.com/watch?v=gdMRTmuOeqA)
 - [The B-52's - The B-52's (1979) - Full Album](https://www.youtube.com/watch?v=bZNdaL75118)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -42,4 +41,3 @@ styles: ["New Wave"]
 | Catalog Number | MOVLP1420 |
 
 Black vinyl. Insert with lyric included.
-

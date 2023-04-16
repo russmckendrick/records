@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Taxonomy of Illusions (6:35)
 2. First Light Of Dawn (6:55)
@@ -22,13 +21,13 @@ styles: ["Post Rock"]
 5. Reawake (4:57)
 6. Immortal Elements (6:15)
 7. Autonomous (6:12)
+## Spotify
+{{< spotify type="album" id="1tQlk2v7Igg4goC0gUwHA7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="b_D76NQA4wU" title="Nordic Giants - Amplify Human Vibration [Full Album]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -38,4 +37,3 @@ styles: ["Post Rock"]
 | Catalog Number | KSCOPE968 |
 
 The soundtrack for the Nordic Giants’ 2017 documentary film, Amplify Human Vibration.   Known for its breath-taking apocalyptic music and extravagant live performances, Nordic Giants place one foot outside of the shadows for on Amplify Human Vibration. In a world undergoing turbulent changes and with the mainstream media concentrating on the negative side of these shifts, the Nordic Giants’ remarkable documentary and soundtrack brings light to the positive changes people are making, and explores the kindness and drive of humanity.   The band has stated: "For those that have seen the live show before fear not, this is not a light affair, but a thought provoking exploration into the human spirit." The filming for the documentary incorporates 2017 summer festival performances from the band, including ArcTanGent &  Green Man.   LP pressed on 180g vinyl.   “The perfect union between ambient post-rock and film.” - Time Out
-

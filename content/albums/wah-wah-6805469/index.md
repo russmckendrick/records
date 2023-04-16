@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Ambient", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Hammer Strings
 2. Pressure's On
@@ -38,11 +37,11 @@ styles: ["Ambient", "Indie Rock"]
 21. Tomorrow
 22. Laughter
 23. Sayonara
-
+## Spotify
+{{< spotify type="album" id="7HysVSPF74Vvjmk30AhtXu" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,4 +51,3 @@ styles: ["Ambient", "Indie Rock"]
 | Catalog Number | 0602547096432 |
 
 Including voucher to download MP3 version of the album.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Real Man
 2. Love Of The Common Man
@@ -45,9 +44,7 @@ styles: ["Power Pop", "Pop Rock"]
 {{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}
 - [Todd Rundgren - Back to the Bars (1978) FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=YlA1ZjLinMM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -57,4 +54,3 @@ styles: ["Power Pop", "Pop Rock"]
 | Catalog Number | K 65511, K65511, 2BRX 6986 |
 
 Recorded live at The Bottom Line in New York, The Roxy in Los Angeles and the Agora in Cleveland  Manufactured in the UK.  Gatefold sleeve. Comes with picture inner sleeve.  Has the cat. # as K65511 on the back and spine of the outer sleeve and on the inner sleeves. 
-

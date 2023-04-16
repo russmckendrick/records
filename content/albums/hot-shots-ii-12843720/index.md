@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Squares
 2. Al Sharp
@@ -25,15 +24,15 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 8. Alleged
 9. Life
 10. Eclipse
+## Spotify
+{{< spotify type="album" id="5ElnMKBlg21XKlqAynLH9x" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="06KiM57Pvu0" title="The Beta Band - Eclipse" >}}
 - [Broke](https://www.youtube.com/watch?v=kB81YHKYDdI)
 - [The Beta Band - Hot Shots II  (Full album)](https://www.youtube.com/watch?v=O7rjG--0oqU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 | Catalog Number | BEC5543810 |
 
 Limited edition of 1000 copies.  Recorded and mixed for SRM.  Printed in EU.  With full-colour printed inner sleeves. 
-

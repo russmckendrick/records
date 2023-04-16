@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Breakbeat", "Industrial"]
 ---
-
 ## Tracklisting
 1. PWEI Is A Four Letter Word (1:12)
 2. Preaching To The Perverted (4:16)
@@ -52,9 +51,7 @@ styles: ["Breakbeat", "Industrial"]
 - [Sixteen Different Flavours of Hell](https://www.youtube.com/watch?v=QkVB2mNJlTI)
 - [Pop Will Eat Itself (PWEI) - Def. Con. One - Live - Factory Theatre - 10 March 2018](https://www.youtube.com/watch?v=62_755iXN-0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -64,4 +61,3 @@ styles: ["Breakbeat", "Industrial"]
 | Catalog Number | PL 74141, PL74141 |
 
 On the release, [a578564] is credited as - The Buzzard from "Yeah God"  ℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd. Original Sound Recording Made By BMG Records (UK) Ltd.  Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europe durch BMG-Ariola 
-

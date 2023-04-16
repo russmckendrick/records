@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Good Times
 2. Lost In The Shadows (The Lost Boys)
@@ -25,6 +24,8 @@ styles: ["Soundtrack"]
 8. I Still Believe
 9. Beauty Has Her Way
 10. To The Shock Of Miss Louise
+## Spotify
+{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="raI38f_xMZE" title="The Lost Boys (Original Soundtrack)" >}}
@@ -47,9 +48,7 @@ styles: ["Soundtrack"]
 - [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -59,4 +58,3 @@ styles: ["Soundtrack"]
 | Catalog Number | 603497860630, RCV1 81767 |
 
 Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition" 
-

@@ -1,6 +1,6 @@
 ---
-title: "Whiteout (2) - Young Tribe Rule"
-artist: "Whiteout (2)"
+title: "Whiteout - Young Tribe Rule"
+artist: "Whiteout"
 album_name: "Young Tribe Rule"
 date: 2022-08-06
 release_id: "24087902"
@@ -8,12 +8,11 @@ slug: "young-tribe-rule-24087902"
 hideSummary: true
 cover:
     image: "young-tribe-rule-24087902.jpg"
-    alt: "Young Tribe Rule by Whiteout (2)"
-    caption: "Young Tribe Rule by Whiteout (2)"
+    alt: "Young Tribe Rule by Whiteout"
+    caption: "Young Tribe Rule by Whiteout"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Get Me Through (Outta Here) (3:42)
 2. Sleep Talking (3:17)
@@ -26,16 +25,13 @@ styles: ["Indie Rock", "Alternative Rock"]
 9. The Days Of The Week (2:43)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Whiteout (2) - Young Tribe Rule](https://www.discogs.com/release/24087902-Whiteout-Young-Tribe-Rule) |
+| Discogs Link   | [Whiteout - Young Tribe Rule](https://www.discogs.com/release/24087902-Whiteout-Young-Tribe-Rule) |
 | Label          | Demon Records |
 | Format         | LP, MiniAlbum |
 | Catalog Number | DEMREC1054 |
 
 Japanese exclusive mini album featuring B-sides and rarities, issued on vinyl for the first time. 140g vinyl. With printed inner lyric sheet.
-

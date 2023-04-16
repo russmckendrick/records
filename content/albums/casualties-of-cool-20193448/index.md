@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Country", "Folk", "Abstract"]
 ---
-
 ## Tracklisting
 1. Daddy (5:11)
 2. Mountaintop (5:33)
@@ -51,9 +50,7 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 - [Casualties of Cool 'Flight' - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
 - [01 daddy](https://www.youtube.com/watch?v=vNQDWKzjDqY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -63,4 +60,3 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 | Catalog Number | IOMLP 493, 19439883971 |
 
 © 2014 HevyDevy Records - Issued under license from HevyDevy Records to InsideOutMusic © 2021 HevyDevy Records - Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic - LC 01414 - IOMLP 493 DIstributed by Sony Music Entertainment All trademarks and logos are protected Made in the EU - Sony Music Entertainment International Services GmBH - PO Box 510 - 33311 Gütersloh, Germany 19439883971  Gatefold sleeve Booklet
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Let It Roll
 2. Hypergeek
@@ -34,9 +33,7 @@ styles: ["Prog Rock", "Heavy Metal"]
 - [The Devin Townsend Band ‎– Let It Roll](https://www.youtube.com/watch?v=FNGSwh80bZ4)
 - [The Devin Townsend Band – Vampira](https://www.youtube.com/watch?v=IJ3iWDtYgAE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -46,4 +43,3 @@ styles: ["Prog Rock", "Heavy Metal"]
 | Catalog Number | BOBV246LP |
 
 Drums recorded at the Armoury. Bass recorded at Hipposonic. Grand piano and tuba recorded at 'Dave and Mike's Mom's House Studio'. Deborah's vocals recorded at Tyz studios Heather's vocals recorded at 'Rusty Trombone Studios'. Mixed at The Devlab, then Hipposonic A Studios. Mastered at GreenJacket. Photos taken at The Bloedel Conservatory, Vancouver.  Manufactured and Distributed by Plastic Head. Under license from Century Media. ℗ Century Media 2006. © Back On Black 2010.  "℗&©" doesn't appear on the release itself but is corrected here.  Limited to 1000 Copies. 
-

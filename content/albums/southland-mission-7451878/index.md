@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Ain't It Sweet
 2. 1922
@@ -24,6 +23,8 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 7. Time to Wake Up
 8. Anybody Else
 9. Gone
+## Spotify
+{{< spotify type="album" id="2RbQWhfCtfJWuIe758hy60" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="k_4TyQ1s_Lc" title="Phil Cook - Southland Mission (Documentary)" >}}
@@ -32,9 +33,7 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 - [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
 - [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -44,4 +43,3 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 | Catalog Number | none |
 
 Recorded at Echo Mountain Recording, March to October 2014.  Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).  B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.  Contains download code
-

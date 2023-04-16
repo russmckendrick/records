@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Art Rock", "Funk"]
 ---
-
 ## Tracklisting
 1. New Feeling (3:10)
 2. A Clean Break (4:57)
@@ -32,6 +31,8 @@ styles: ["New Wave", "Art Rock", "Funk"]
 15. The Great Curve (6:58)
 16. Crosseyed And Painless (7:05)
 17. Take Me To The River (6:43)
+## Spotify
+{{< spotify type="album" id="2WTDHjiVNCHY3ju9kmGNOY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2KM5XNGJDqg" title="New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)" >}}
@@ -54,9 +55,7 @@ styles: ["New Wave", "Art Rock", "Funk"]
 - [Cities (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=wF9gUzSNUlw)
 - [Animals (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=F53a0uGFAv8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -66,4 +65,3 @@ styles: ["New Wave", "Art Rock", "Funk"]
 | Catalog Number | RCV5 3590, 603497845347 |
 
 Rhino 2021 "Start Your Ear Off Right" release.  Limited edition of 4,500 copies.  On outer sleeve - ℗© 1982 Sire Records Company On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc. On labels -  ℗ & © 1982 Sire Records Company  Made in Germany on labels / Made in Germany sticker on shrinkwrap
-

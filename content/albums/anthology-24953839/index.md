@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Only Happy When It Rains
 2. Queer
@@ -39,9 +38,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Videos
 {{< youtube id="NFY2NdX80qU" title="Garbage - Witness To Your Love (Official Music Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +48,3 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Catalog Number | BMGCAT585CLP |
 
 Garbage Anthology 1995-2022 Advertised as Transparent Yellow Vinyl Some copies ordered direct from the artist webstore came with an exclusive set of four postcards.  Hype sticker on shrink-wrap: Garbage Anthology 1995 - 2022 Includes rare track "Witness To Your Love" Released on transparent coloured vinyl  Marketed as "Limited Edition"  This compilation ℗ & © 2022 Garbage Unlimited, LCC D/B/A/ Stunvolume under exclusive license to Infectious Music, a division of BMG Rights Management (UK) Limited.  This package contains previously unreleased material. Manufactured in Poland.
-

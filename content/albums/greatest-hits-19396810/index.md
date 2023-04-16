@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. The Boys Are Back In Town
 2. Jailbreak
@@ -39,9 +38,7 @@ styles: ["Classic Rock"]
 22. Wild One
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -51,4 +48,3 @@ styles: ["Classic Rock"]
 | Catalog Number | 3559306 |
 
 Embossed gatefold sleeve.
-

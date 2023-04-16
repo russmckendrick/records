@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Dance Yrself Clean
 2. Drunk Girls
@@ -24,6 +23,8 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 7. Pow Pow
 8. Somebody's Calling Me
 9. Home
+## Spotify
+{{< spotify type="album" id="4hnqM0JK4CM1phwfq1Ldyz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1xT6cdfP_cM" title="LCD Soundsystem - Drunk Girls" >}}
@@ -37,9 +38,7 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 - [Somebody's Calling Me](https://www.youtube.com/watch?v=-jDlmw8V-zE)
 - [Home](https://www.youtube.com/watch?v=ETDCbQUYiAQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -49,4 +48,3 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 | Catalog Number | DFA 2250-2 |
 
 Issued in a matte gatefold sleeve with full-color printed inner sleeves with artwork and a full-color 11.5"×11.5" printed insert with lyrics, credits and artwork.  ℗ 2010 DFA LLC under exclusive license to Virgin Records © 2010 EMI Records Ltd. under exclusive license to Virgin Records Printed in U.S.A. Made in the USA  ℗ + © 2010 DFA Records  Produced for The DFA in 2009/2010 Recorded @ the Manshun and DFA Mixed @ DFA and the Hillside Manor  Tracks A1, B1, B2, C2, D2 mixed @ DFA. Tracks A2, B3, C1, D1 mixed @ Hillside.  Publishing: Guy with Head and Arms Music, 2009/2010  Label logos: DFA on back cover, spine, labels. Virgin Music on back cover.
-

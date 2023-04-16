@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post-Hardcore"]
 ---
-
 ## Tracklisting
 1. The Charm Offensive
 2. Heaven Alive
@@ -25,13 +24,13 @@ styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post
 8. Mine Host
 9. You Can't Keep A Bad Man Down
 10. Ornament / The Last Wrongs
+## Spotify
+{{< spotify type="album" id="3ZveR9515NaBOT7w4hMre6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1sc9tN_DVX0" title="Oceansize - New Pin" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -41,4 +40,3 @@ styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post
 | Catalog Number | BBQ 244 LP2 |
 
 Tracks listed sequentially on jacket.  Some copies feature "Mine Host" as D1 rather than C2.  ℗ 2005 Beggars Banquet Records Ltd © 2005 Beggars Banquet Records Ltd 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Hangout At The Gallows
 2. Mr. Tillman
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Folk Rock"]
 8. God's Favorite Customer
 9. The Songwriter
 10. We're Only People (And There's Not Much Anyone Can Do About That)
+## Spotify
+{{< spotify type="album" id="7f4DUvIlSluy7YRnZsLEkd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sNG4g354P3w" title="Father John Misty - God's Favorite Customer [Official Music Video]" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [Father John Misty - Mr. Tillman [Official Music Video]](https://www.youtube.com/watch?v=j5B5IGqyy2s)
 - [Father John Misty - Mr. Tillman [Official Audio]](https://www.youtube.com/watch?v=n38R1JTEAPo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Catalog Number | BELLA770RT, BELLA770V |
 
 Rough Trade Exclusive: Neon Orange. Limited to 1000 copies.   Test pressing labels with track numbering on sequential to 1 through 10.  Sticker with download information stuck on inner sleeve.  BELLA770RT on barcode sticker. BELLA770V on spine
-

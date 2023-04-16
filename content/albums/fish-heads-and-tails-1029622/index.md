@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Amsterdam
 2. Somewhere In China
@@ -27,9 +26,7 @@ styles: ["Alternative Rock"]
 10. Knockin' On Joe (Live)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -39,4 +36,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | CAPS 2001, 79 3357 1 |
 
 [Label]: All tracks published by Virgin Music (Publishers) Ltd. except A1 Carlin Music Corp / MCPS A2 Cubic Music / MCPS. B1 Bug Music / Warner Chappell Music ltd B4 Warner Chappell Music Ltd. B5 Dying Art Ltd. "Knockin' On Joe (Live)" recorded at the Town & Country Club, London on 20th June 1989 by Fleetwood Mobile.  [Label rim text]: Manufactured in England by EMI Records Limited.  [Rear sleeve]: ℗ The copyright in this compilation is owned by Capitol Records Inc. © 1989 EMI Records Ltd. Sleeve printed in England Manufactured in England SP8911CMCS
-

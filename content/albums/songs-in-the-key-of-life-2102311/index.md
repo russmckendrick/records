@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
-
 ## Tracklisting
 1. Love's In Need Of Love Today (7:05)
 2. Have A Talk With God (2:42)
@@ -37,14 +36,14 @@ styles: ["Soul", "Disco"]
 20. Ebony Eyes (4:10)
 21. All Day Sucker (5:06)
 22. Easy Goin' Evening (My Mama's Call) (3:58)
+## Spotify
+{{< spotify type="album" id="6YUCc2RiXcEKS9ibuZxjt0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}
 - [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -54,4 +53,3 @@ styles: ["Soul", "Disco"]
 | Catalog Number | T13-340C2, T13-00340 |
 
 Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott   Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.  Gatefold sleeve has cat. number T13-340C2, labels have T13-00340. 
-

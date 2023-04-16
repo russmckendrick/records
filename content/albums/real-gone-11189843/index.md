@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 ---
-
 ## Tracklisting
 1. Top Of The Hill
 2. Hoist That Rag
@@ -31,6 +30,8 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 14. Make It Rain
 15. Day After Tomorrow
 16. Untitled
+## Spotify
+{{< spotify type="album" id="6F17MbloTeRoXs7JI3lTHy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sLck-fxs6NI" title="Tom Waits - Top Of The Hill" >}}
@@ -55,9 +56,7 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 - [Tom Waits - Shake It](https://www.youtube.com/watch?v=lWL9mZ91Dvo)
 - [Tom Waits - How's It Gonna End](https://www.youtube.com/watch?v=bVaQN240G80)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -67,4 +66,3 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 | Catalog Number | 7548-1 |
 
 Track D5 (known as "Chick A Boom") is not named or referenced on outer or inner sleeves, nor labels. 
-

@@ -13,12 +13,13 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Forever Reoccurring (20:37)
 2. If Never I'm And Ever You (2:07)
 3. My Sawtooth Wake (13:14)
 4. The Elemental (6:43)
+## Spotify
+{{< spotify type="album" id="7226guTxXx7gkwbUgh7Zjz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gyjBBUZ5cwE" title="Forever Reoccurring" >}}
@@ -26,9 +27,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 - [The Elemental](https://www.youtube.com/watch?v=7jjCO45jw88)
 - [If Never I'm and Ever You](https://www.youtube.com/watch?v=B3jBKRKQSXQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -38,4 +37,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | KSCOPE1039 |
 
 Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.  Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.   Square pink hype sticker with white writing. All copies come with KSCOPE advertising card 10"x10"
-

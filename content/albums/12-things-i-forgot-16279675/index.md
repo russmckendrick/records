@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. 12 Things I Forgot (4:43)
 2. Move Like A Fever (6:15)
@@ -24,9 +23,7 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 - [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
 - [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -36,4 +33,3 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 | Catalog Number | CAROL021S2LP, 00602507425340 |
 
 180g vinyl.
-

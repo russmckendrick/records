@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. Matter Of Time
 2. Sail On!
@@ -26,6 +25,8 @@ styles: null
 9. When I Saw Your Face
 10. Girl! (You Got To Forgive Him)
 11. Call On God
+## Spotify
+{{< spotify type="album" id="6dQ4PANge8QXfOywlHNd2J" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_Z9LA1u5KCI" title="Sharon Jones & the Dap Kings - Matter of Time" >}}
@@ -40,9 +41,7 @@ styles: null
 - [Sharon Jones & The Dap-Kings - Girl! (You Got To Forgive Him) (Official Audio)](https://www.youtube.com/watch?v=KjCWFCN87Yw)
 - [Sharon Jones & the Dap Kings - Call On God](https://www.youtube.com/watch?v=A6PdxJOoPzQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -52,4 +51,3 @@ styles: null
 | Catalog Number | DAP-050 |
 
 Red vinyl variant only available in independent record shops.  Includes mp3 download card.
-

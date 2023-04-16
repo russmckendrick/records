@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Rejoice
 2. Fallout
@@ -51,9 +50,7 @@ styles: null
 - [Devin Townsend Project - Warrior](https://www.youtube.com/watch?v=slr_xGSklqU)
 - [Devin Townsend and Anneke Van Giersbergen - Fallout (with lyrics)](https://www.youtube.com/watch?v=p4rOf7jRrtA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -63,4 +60,3 @@ styles: null
 | Catalog Number | IOMLP 423, 0507231 |
 
 180g vinyl in gatefold sleeve. Printed Inner Sleeve w/lyrics  www.insideoutmusic.com FACTOR Canada  © 2015 HevyDevy Records and ℗ 2014 HevyDevy Records.  Made in Germany - Century Media Records Ltd. /85-87 Bayham Street / Camden / London NW1 0AG / England  We Acknowledge the financial support of the Government of Canada through the Department of Canadian Heritage (Canada Music Fund) and of Canada's Private Radio Broadcaster's
-

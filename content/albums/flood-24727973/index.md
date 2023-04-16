@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Gone To Pot
 2. Soup
@@ -42,9 +41,7 @@ styles: ["Alternative Rock"]
 {{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}
 - [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +51,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | TAR055V |
 
 2022 reissue (black vinyl) with second vinyl (yellow) in gatefold sleeve with additional notes
-

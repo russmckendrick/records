@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Dying To Meet You (6:15)
 2. Never Satisfied (4:50)
@@ -23,15 +22,15 @@ styles: ["Heavy Metal"]
 6. Island Of Domination (4:26)
 7. The Ripper (2:50)
 8. Deceiver (2:43)
+## Spotify
+{{< spotify type="album" id="3OzDHSE776USP1UGN698Xw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="957N7EAtpY4" title="Judas Priest - Rocka Rolla (BBC Performance)" >}}
 - [Judas Priest - The Ripper (Video)](https://www.youtube.com/watch?v=lriWlHZAy8A)
 - [Judas Priest - Victim Of Changes](https://www.youtube.com/watch?v=EKSU1W0ZUmQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -41,4 +40,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | GULP 1026 |
 
 Track listing and lengths on back of sleeve are incorrect. Track listing and lengths on labels are correct except for "Rocka Rolla" (stated as 4:00 but actually 3:05).
-

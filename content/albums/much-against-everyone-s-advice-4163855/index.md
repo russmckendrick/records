@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Conversation Intercom
 2. Saturday
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. More Than This
 10. Scream
 11. Funny
+## Spotify
+{{< spotify type="album" id="1Zisq1gECqPQtxvny6AUXP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock"]
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
 - [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | PIASB 010 LP, 941.0010.10 |
 
 Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings
-

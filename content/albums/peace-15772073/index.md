@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Food Roof Family (3:40)
 2. Generation Fear (2:36)
@@ -33,9 +32,7 @@ styles: ["Folk Rock"]
 {{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}
 - [Levellers - Peace (Full Album) 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -45,4 +42,3 @@ styles: ["Folk Rock"]
 | Catalog Number | OTFLP031S |
 
 Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7” (SIGNED)  Bonus 7” A – Food Roof Family (Live in the Studio) B – Our New Day (Live in the Studio)
-

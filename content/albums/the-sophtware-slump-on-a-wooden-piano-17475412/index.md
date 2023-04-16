@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. He's Simple He's Dumb He's The Pilot
 2. Hewlett's Daughter
@@ -38,9 +37,7 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 - [Grandaddy - Hewlett's Daughter (Piano Version)](https://www.youtube.com/watch?v=FcYUpTV5sdw)
 - [Grandaddy - Chartsengrafs (Piano Version)](https://www.youtube.com/watch?v=CQ-fP3QPqYQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +47,3 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 | Catalog Number | DGB217-1 |
 
 Limited Edition. Independent Record Stores Exclusive.  On back cover : grandaddymusic.com • dangerbirdrecords.com  
-

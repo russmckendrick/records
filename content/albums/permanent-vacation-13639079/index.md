@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Hard Rock", "Glam"]
 ---
-
 ## Tracklisting
 1. Heart's Done Time (4:42)
 2. Magic Touch (4:40)
@@ -27,11 +26,11 @@ styles: ["Hard Rock", "Glam"]
 10. Permanent Vacation (4:52)
 11. I'm Down (2:20)
 12. The Movie (4:00)
-
+## Spotify
+{{< spotify type="album" id="3XYqOJI1YlX40kJTdzFEzp" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -41,4 +40,3 @@ styles: ["Hard Rock", "Glam"]
 | Catalog Number | 00602547954374 |
 
 Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Originally mastered at Sterling Sound  ℗ 1987 © 2016 Geffen Records Universal International Music B.V. Gerrit Van Der Veenlaan Made in EU  Issued with a printed inner sleeve. 
-

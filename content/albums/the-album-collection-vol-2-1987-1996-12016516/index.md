@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Tunnel Of Love
 2. Ain't Got You
@@ -103,9 +102,7 @@ styles: null
 - [The Album Collection: Chimes of Freedom](https://www.youtube.com/watch?v=IgNbj-T7sTE)
 - [The Album Collection: Blood Brothers](https://www.youtube.com/watch?v=j5rhJ6Zg80w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -115,4 +112,3 @@ styles: null
 | Catalog Number | 88985460181 |
 
 Certificate of authenticity with number inside the box. 60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996. The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD.  All other albums contained in the set are reissues.  
-

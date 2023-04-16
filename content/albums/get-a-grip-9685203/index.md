@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Intro (0:23)
 2. Eat The Rich (4:10)
@@ -29,11 +28,11 @@ styles: ["Hard Rock"]
 12. Line Up (4:02)
 13. Amazing (5:56)
 14. Boogie Man (2:15)
-
+## Spotify
+{{< spotify type="album" id="180jTzor4W2MQ9HW5h5Fh4" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -43,4 +42,3 @@ styles: ["Hard Rock"]
 | Catalog Number | 00602547954398 |
 
 Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA. Mixed at Can-Am Studios, Tarzana, CA. Mastered at Masterdisk, NYC.  Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits.   ℗ 1993 © 2016 Geffen Records  Sticker, includes a voucher to download MP3 version of the album.
-

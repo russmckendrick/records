@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Arnold Layne
 2. Interstellar Overdrive
@@ -26,11 +25,11 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 9. The Nile Song
 10. Biding My Time
 11. Bike
-
+## Spotify
+{{< spotify type="album" id="361QTNnQcBcNJ38gn8ZWQw" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +39,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | PFRLP18, 0190295996918 |
 
 Sticker: The remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: May 1971 Made in the E.U. www.pinkfloyd.com  Back Sleeve: ℗ 2018 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2018 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. This label copy is the subject  of copyright protection. All rights reserved. 
-

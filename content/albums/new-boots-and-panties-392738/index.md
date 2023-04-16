@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Wake Up And Make Love With Me (4:30)
 2. Sweet Gene Vincent (3:30)
@@ -25,6 +24,8 @@ styles: ["Punk", "Pop Rock"]
 8. Blockheads (4:00)
 9. Plaistow Patricia (4:00)
 10. Blackmail Man (2:00)
+## Spotify
+{{< spotify type="album" id="4GR2L1xSn9yWXLbPCxVKxb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}
@@ -40,9 +41,7 @@ styles: ["Punk", "Pop Rock"]
 - [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1977 |
@@ -52,4 +51,3 @@ styles: ["Punk", "Pop Rock"]
 | Catalog Number | SEEZ 4 |
 
 This record was not produced and recorded at The Workhouse in the Old Kent Road!! P and C 1977 Stiff Records Ltd.  Printed inner sleeve with diagonal cut corners.  
-

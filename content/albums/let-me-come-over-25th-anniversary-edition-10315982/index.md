@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Let Me Come Over
 2. Staples
@@ -39,6 +38,8 @@ styles: ["Alternative Rock"]
 22. Sally Brown
 23. Enemy
 24. Birdbrain
+## Spotify
+{{< spotify type="album" id="4Hk3soDAxOmpHJsi15xEeI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GZAiJhZgmdo" title="Stymied" >}}
@@ -50,9 +51,7 @@ styles: ["Alternative Rock"]
 - [Buffalo Tom - Larry](https://www.youtube.com/watch?v=OJ09IPoF3os)
 - [Buffalo Tom - Crutch (Album Version)](https://www.youtube.com/watch?v=xbvrADHK9BM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -62,4 +61,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | BBQLP 2145 |
 
 Let Me Come Over: Mixed at Soundtracks. Additional mixing at Carriage House. Recorded at Dreamland and Fort Apache.  Includes bonus LP "Live From London ULU 1992" Mixed at Q Division Studios. Special thanks to Ed Valauskas.  Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).  Includes a coupon to download the album and the full live show as [320 kbps MP3s](https://www.discogs.com/release/13211362).
-

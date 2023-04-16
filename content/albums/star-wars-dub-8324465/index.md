@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Dub"]
 ---
-
 ## Tracklisting
 1. African Communication
 2. Which Clapp
@@ -24,13 +23,13 @@ styles: ["Dub"]
 7. Con-Man
 8. Concertman
 9. Roffa Yet
+## Spotify
+{{< spotify type="album" id="27SJL8vrGvpLE2SOnsTyVn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Fzekkfr8BvU" title="Lipi Brown's Selections - Star Wars Dub" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -38,6 +37,5 @@ styles: ["Dub"]
 | Label          | Burning Sounds |
 | Format         | LP, Ltd, RE, 180 |
 | Catalog Number | BSRLP988 |
-
 
 

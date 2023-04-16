@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Mad About You
 2. I Need A Disguise
@@ -37,6 +36,8 @@ styles: ["Pop Rock"]
 20. Mad About You
 21. Since You're Gone
 22. Head Over Heels
+## Spotify
+{{< spotify type="album" id="6LEZyia6Ny2PUdMD2FWhF3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XmdtJWmR9zQ" title="Belinda Carlisle - Mad About You (Official Video)" >}}
@@ -53,9 +54,7 @@ styles: ["Pop Rock"]
 - [Belinda Carlisle - Head Over Heels (Live at the Roxy '86)](https://www.youtube.com/watch?v=jchMy3mUBao)
 - [Belinda Carlisle - I Feel The Magic (Live at the Roxy '86)](https://www.youtube.com/watch?v=resczd51Q30)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -65,4 +64,3 @@ styles: ["Pop Rock"]
 | Catalog Number | DEMREC900X, DEMREC900 |
 
 Sticker on shrinkwrap states:  "Belinda DELUXE 2LP 35TH ANNIVERSARY EDITION From 1986, Belinda's debut solo album Features the hit singles "Mad About You" and "I Feel The Magic" Bonus LP includes mixes of  "Band Of Gold recorded with Freda Payne plus five live recordings Includes the lyrics and annotation Pressed on 180 gram pink vinyl First time on vinyl since 1986 DEMREC900X"    ℗ & © 2021 Capitol Records LLC Manufactured in the EU  
-

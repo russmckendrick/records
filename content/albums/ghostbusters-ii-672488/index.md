@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. On Our Own (4:53)
 2. Supernatural (4:35)
@@ -25,6 +24,8 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 8. Love Is A Cannibal (3:53)
 9. Flip City (5:12)
 10. Higher And Higher (4:08)
+## Spotify
+{{< spotify type="album" id="7hb7PW4pEcddvEPyU8WORa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own (Ghostbusters II Soundtrack)" >}}
@@ -40,9 +41,7 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 - [Flip City](https://www.youtube.com/watch?v=pahcnB6FTLk)
 - [Higher And Higher](https://www.youtube.com/watch?v=4hVyALxFzJ4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -50,6 +49,5 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 | Label          | MCA Records, MCA Records |
 | Format         | LP, Comp |
 | Catalog Number | 256 434-1, MCA-6306 |
-
 
 

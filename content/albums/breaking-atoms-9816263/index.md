@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
-
 ## Tracklisting
 1. Snake Eyes (3:30)
 2. Just Hangin' Out (4:10)
@@ -28,13 +27,13 @@ styles: ["Conscious"]
 11. Watch Roger Do His Thing (4:22)
 12. Peace Is Not The Word To Play (Remix)
 13. How My Man Went Down In The Game
+## Spotify
+{{< spotify type="album" id="0YBKh4pphYo7UW6f4b6uxy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GZeWW2qRCJU" title="(Classic)🥇Main Source -- Breaking Atoms (1991) Queens NYC complete album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Conscious"]
 | Catalog Number | VMP-006 |
 
 Back cover has a typo at the bottom, music is misspelled "Muisc"  Published by Frozen Soap Songs (ASCAP) & Kahari Music (BMI). Mastered at Hit Factory, DMS.  Gatefold jacket. Color-in-color LP. With bonus 7", booklet, VMP excerts.
-

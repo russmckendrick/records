@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Suede
 2. So Young (3:38)
@@ -104,9 +103,7 @@ styles: ["Alternative Rock", "Britpop"]
 87. The Fur And The Feathers (4:40)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -116,4 +113,3 @@ styles: ["Alternative Rock", "Britpop"]
 | Catalog Number | SUEDEBOX009X |
 
 Numbered and Limited (1000 copies) LP boxset including the 7 studio albums, on heavyweight coloured vinyl exclusive to Amazon.  There was an error made with the use of the incorrect masters for Night Thoughts within the box set and replacement discs using the correct mastering were issued by Demon. Replacement issue for blue vinyl edition listed here: [r13083066] 
-

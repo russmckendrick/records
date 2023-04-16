@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The State I Am In (4:57)
 2. Expectations (3:34)
@@ -25,15 +24,15 @@ styles: ["Indie Rock"]
 8. My Wandering Days Are Over (5:25)
 9. I Don't Love Anyone (3:56)
 10. Mary Jo (3:29)
+## Spotify
+{{< spotify type="album" id="3MSxGvwpiKePFsygmWT3G9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="soMbZ7eLKlM" title="The State That I Am In - Belle & Sebastian" >}}
 - [Belle & Sebastian :: Electronic Renaissance](https://www.youtube.com/watch?v=GKTDiWslOPo)
 - [Belle and Sebastian - I Don't Love Anyone](https://www.youtube.com/watch?v=yYw3AoLG3Fo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock"]
 | Catalog Number | JPRLP007CLR, JPRLP007 |
 
 Limited reissue (700 copies) on “baby blue” vinyl, for Love Record Stores. Appears to be subtly marbled when held up to the light. Release date was supposed to 20th June but was delayed to the 26th June.  For Lawerence Bradby Made by Electric Honey Records (P) 1996 Jeepster Recordings Ltd. (C) 1999 Jeepster Recordings Ltd. Distributed by Universal Music Operations Ltd. Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"]
 ---
-
 ## Tracklisting
 1. Can U Dig It? (Twelve) (4:25)
 2. Poison To The Mind (2:45)
@@ -26,9 +25,7 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 - [Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12 House Mix] 1989](https://www.youtube.com/watch?v=D8VTrcfE758)
 - [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -38,4 +35,3 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 | Catalog Number | PT 42620 |
 
 (P)+(C) BMG Records UK Ltd.  On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"  Printed in England
-

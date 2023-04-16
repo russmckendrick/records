@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Our Prism
 2. New Kind Of Evil
@@ -29,15 +28,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 12. Scream Sideways (10:09)
 13. Dead Butterfly (7:09)
 14. Lucid (6:49)
+## Spotify
+{{< spotify type="album" id="18QmmOwcTZugATzOCDCmv8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lJJ2vUfY5ps" title="Our Prism" >}}
 - [Scream Sideways](https://www.youtube.com/watch?v=DMZuXRR4Mzw)
 - [Lucid](https://www.youtube.com/watch?v=usmXukkRXRI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | IOM628, 19439989401 |
 
 Inside Out store exclusive release. Limited to 300 copies worldwide. Gatefold release. CD housed in a transparent sleeve and lyric sheet included. Some copies including a signed postcard.  LPs tracks positions given sequentially reardless of sides on back.  Track times taken from mediaplayer on PC.  Hype sticker: Gatefold 180g LP + CD Pure Reason Revolution return with seven songs of cinematic, psych-prog wonder.
-

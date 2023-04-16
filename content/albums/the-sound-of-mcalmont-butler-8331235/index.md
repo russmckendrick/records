@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Yes
 2. What's The Excuse This Time?
@@ -26,6 +25,8 @@ styles: ["Indie Pop", "Indie Rock"]
 9. Tonight
 10. You'll Lose A Good Thing
 11. You Do
+## Spotify
+{{< spotify type="album" id="0gquqV1L3QZjZJ0ExzxtMo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="POIIGYt5RlE" title="McAlmont & Butler - Yes [Full Version]" >}}
@@ -41,9 +42,7 @@ styles: ["Indie Pop", "Indie Rock"]
 - [You'll Lose A Good Thing](https://www.youtube.com/watch?v=fSKCLfeYbQM)
 - [How About You?](https://www.youtube.com/watch?v=eAX2DJU08wM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,6 +50,5 @@ styles: ["Indie Pop", "Indie Rock"]
 | Label          | Edsel Records |
 | Format         | LP, Album, RE, RM, Gol |
 | Catalog Number | DEMREC114 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Your Ex-Lover Is Dead (4:16)
 2. Set Yourself On Fire (5:39)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Celebration Guns (3:05)
 12. Soft Revolution (3:17)
 13. Calendar Girl (4:08)
+## Spotify
+{{< spotify type="album" id="6CYTAXBPYJ43irABGOJmIw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JKg17Gc8WCI" title="Stars - Ageless Beauty" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)
 - [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | A&C009 |
 
 180g repress. Include a Digital Download Card.
-

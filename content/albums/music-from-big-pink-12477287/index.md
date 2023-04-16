@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Tears Of Rage (5:24)
 2. To Kingdom Come (3:22)
@@ -26,6 +25,8 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 9. Lonesome Suzie (4:09)
 10. This Wheel's On Fire (3:26)
 11. I Shall Be Released (3:19)
+## Spotify
+{{< spotify type="album" id="0ky5kdvfPxSmSpj03hpSAE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="E9S5Wwa63a0" title="Tears Of Rage (Remixed 2018)" >}}
@@ -40,9 +41,7 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 - [This Wheel's On Fire (Remixed 2018)](https://www.youtube.com/watch?v=m24C3ncdhA4)
 - [I Shall Be Released (Remixed 2018)](https://www.youtube.com/watch?v=bpiXfumGf9k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,6 +49,5 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 | Label          | Capitol Records, UMe |
 | Format         | 2xLP, Album, RM |
 | Catalog Number | 0602567480600 |
-
 
 

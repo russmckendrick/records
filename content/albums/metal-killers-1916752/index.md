@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Sabbath Bloody Sabbath
 2. Destroyer
@@ -27,13 +26,13 @@ styles: ["Heavy Metal", "Hard Rock"]
 10. Stoking Up The Fires Of Hell
 11. Under The Blade
 12. Lepers Queue
+## Spotify
+{{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -43,4 +42,3 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Catalog Number | KKLP 101 |
 
 Courtesy of Heavy Metal Records (Track B1) 
-

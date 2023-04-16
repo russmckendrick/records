@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. On The Sunday Of Life
 2. Music For The Head (2:40)
@@ -76,9 +75,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 59. Music For The Head (1:22)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -86,6 +83,5 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Label          | Kscope |
 | Format         | Box, Comp, RM + 2xLP, Album + 2xLP, Album + 3xLP,  |
 | Catalog Number | KSCOPE893 |
-
 
 

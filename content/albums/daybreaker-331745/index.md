@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Paris Train (5:46)
 2. Concrete Sky (4:34)
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 8. This One's Gonna Bruise (4:44)
 9. Ted's Waltz (5:41)
 10. Thinking About Tomorrow (6:40)
+## Spotify
+{{< spotify type="album" id="2dxeLDM2q7hDslXKSJDFEy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6myjARKjFLs" title="Paris Train" >}}
@@ -41,9 +42,7 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 - [This One's Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
 - [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2002 |
@@ -53,4 +52,3 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 | Catalog Number | HVNLP 37 |
 
 All songs written by Beth Orton, except: Tracks 1 & 9 which were written by Beth and Ted Barnes Track 2 which was written by Beth and Johnny Marr Track 8 which was written for Beth by Ryan Adams Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read  All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10 
-

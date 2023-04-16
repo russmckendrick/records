@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Disco"]
 ---
-
 ## Tracklisting
 1. (You're My) Inspiration (5:22)
 2. Friends (3:15)
@@ -33,9 +32,7 @@ styles: ["Leftfield", "Disco"]
 - [Your My Inspiration Ian Dury](https://www.youtube.com/watch?v=Vw-88GgxY4Y)
 - [Ian Dury - The Man With No Face](https://www.youtube.com/watch?v=4PtZAmpzD1w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -43,6 +40,5 @@ styles: ["Leftfield", "Disco"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE |
 | Catalog Number | DEMREC59 |
-
 
 

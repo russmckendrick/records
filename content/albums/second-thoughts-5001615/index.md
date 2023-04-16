@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Late Last Night (3:59)
 2. Walking Down A Road (5:15)
@@ -35,9 +34,7 @@ styles: ["Pop Rock", "Prog Rock"]
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -47,4 +44,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | L 35981, L-35,981 |
 
 Labels: Made in Australia by Festival Records Pty Ltd.  Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia
-

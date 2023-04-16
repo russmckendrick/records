@@ -13,13 +13,14 @@ cover:
 genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Black Man In A White World (Live From The Royal Albert Hall)
 2. One More Night (Live From The London Palladium)
 3. Tell Me A Tale (Live From The Birmingham Symphony Hall)
 4. Father's Child (Live From The Royal Albert Hall)
 5. Love And Hate (Live From The Royal Albert Hall)
+## Spotify
+{{< spotify type="album" id="5FGcx8wMUcJ8BV5P2qVRso" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tzGH7q9NCeU" title="Black Man In A White World (Live)" >}}
@@ -30,9 +31,7 @@ styles: ["Soul", "Rhythm & Blues"]
 - [Michael Kiwanuka - Out Loud!](https://www.youtube.com/watch?v=mZ_q4N1HvWM)
 - [Michael Kiwanuka - Cold Little Heart (Live Session Video)](https://www.youtube.com/watch?v=FngDSOuCNAA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,4 +41,3 @@ styles: ["Soul", "Rhythm & Blues"]
 | Catalog Number | 6730886 |
 
 RSD Exclusive Release limited to 3500 copies.  Comes with a download card for the album & bonus track "Cold Little Heart - Live From Royal Albert Hall, London 2017".  ℗ © 2018 Polydor Limited  Made in the Czech Republic. [back sleeve, labels]  Publisher BMG Chrysalis Music as BMG Chrysalis 
-

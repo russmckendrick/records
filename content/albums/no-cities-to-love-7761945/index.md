@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 ---
-
 ## Tracklisting
 1. Price Tag
 2. Fangless
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 8. Bury Our Friends
 9. Hey Darling
 10. Fade
+## Spotify
+{{< spotify type="album" id="7HDcY3h70X3zLjceUO874A" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Cj2k3QsHmyM" title="Sleater-Kinney - No Cities To Love" >}}
@@ -33,9 +34,7 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 - [Sleater-Kinney - Fangless](https://www.youtube.com/watch?v=kV5ezv1yg0c)
 - [Sleater-Kinney - No Cities to Love](https://www.youtube.com/watch?v=_jiX-Svw7KQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 | Catalog Number | SP1100 |
 
 Black vinyl edition, comes in a triple gatefold cover.   Includes a four page sheet with lyrics and credits and a coupon with free download code.  Exclusive Barnes & Noble edition with art print signed by the band.   All songs written by Sleater Kinney. Code Word Nemesis (ASCAP)  ©℗ 2015 Sub Pop Records.  Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies" 
-

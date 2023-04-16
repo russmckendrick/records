@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Monster
 2. What's The Frequency, Kenneth?
@@ -41,6 +40,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 24. Let Me In (Remix)
 25. Circus Envy (Remix)
 26. You (Remix)
+## Spotify
+{{< spotify type="album" id="2Q6XCez8NWMKNKYMsm54DK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sKXooD1Z14k" title="REM - Monster HD (Full Album)" >}}
@@ -48,9 +49,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [R.E.M. - Crush with Eyeliner (Monster, Remastered)](https://www.youtube.com/watch?v=S9RbfBrpilw)
 - [R.E.M. - What's The Frequency, Kenneth? (Official Music Video)](https://www.youtube.com/watch?v=jWkMhCLkVOg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -58,6 +57,5 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Label          | Craft Recordings, Craft Recordings |
 | Format         | 2xLP, Album, RE, RM, 25t |
 | Catalog Number | CR00239, 00888072111493 |
-
 
 

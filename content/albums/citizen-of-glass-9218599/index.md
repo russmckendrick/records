@@ -13,7 +13,6 @@ cover:
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
-
 ## Tracklisting
 1. Stretch Your Eyes
 2. Familiar
@@ -25,6 +24,8 @@ styles: ["Vocal", "Ballad"]
 8. Golden Green
 9. Grasshopper
 10. Mary
+## Spotify
+{{< spotify type="album" id="78BjMfLH8YUXM6hbodHKmA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes (Official Audio)" >}}
@@ -38,9 +39,7 @@ styles: ["Vocal", "Ballad"]
 - [Agnes Obel - Grasshopper (Official Audio)](https://www.youtube.com/watch?v=TMPRryoSny0)
 - [Agnes Obel - Mary (Official Audio)](https://www.youtube.com/watch?v=CoBT59xRElU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Vocal", "Ballad"]
 | Catalog Number | PIASR905LP |
 
 Debossed gatefold sleeve with full lyrics and credits printed on inside. Includes download code for MP3 and/or FLAC digital copy of the album.  Dedicated to Ole.  (P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam. All runouts etched. 
-

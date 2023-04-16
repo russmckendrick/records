@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Denver Haircut
 2. Epaulets
@@ -25,14 +24,14 @@ styles: null
 8. Star 18
 9. The Stove & The Toaster
 10. Confusion In The Marketplace
+## Spotify
+{{< spotify type="album" id="16XUMEdixzqRXVVPZsB3ak" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HA3CF9rusvE" title="The Hold Steady - Denver Haircut" >}}
 - [The Hold Steady - You Did Good Kid](https://www.youtube.com/watch?v=P-aRAhigP1I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: null
 | Catalog Number | FKR103-1, FKR1031A |
 
 Opaque brown vinyl - indie exclusive, limited to 1,000 copies.  ©&℗ 2019 Frenchkiss Records  All songs © 2019 Muy Interestane Music (ASCAP) Key Hits (ASCAP) Eggshell Armor Music (ASCAP) Sounds Like Selvidge (BMI) Guilty Parties/Sounds of Sabco (ASCAP) (Administered for the world by Words & Music/Big Deal Music, LLC)
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
-
 ## Tracklisting
 1. Under A Mountain
 2. Good Friday
@@ -29,6 +28,8 @@ styles: ["Southern Rock"]
 12. Evil Eye
 13. Just Say You're Sorry
 14. Pimper's Paradise
+## Spotify
+{{< spotify type="album" id="5KEqZXp6Aw2LF6J5bjelbf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="y9r_uE9YOSM" title="The Black Crowes - Blackberry" >}}
@@ -45,9 +46,7 @@ styles: ["Southern Rock"]
 - [The Black Crowes – Good Friday](https://www.youtube.com/watch?v=zhErj13uccY)
 - [The Black Crowes – (Only) Halfway To Everywhere](https://www.youtube.com/watch?v=6qjTpiSUw18)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -57,4 +56,3 @@ styles: ["Southern Rock"]
 | Catalog Number | 00602537494262 |
 
 Widespine sleeve. Made in the EU. Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes)
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Overkill
 2. We Are Motörhead
@@ -57,6 +56,8 @@ styles: ["Heavy Metal"]
 40. 1916
 41. Choking On Your Screams
 42. Motörhead 
+## Spotify
+{{< spotify type="album" id="1TqvkPmfgnOWninXz3vKXT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3mbvWn1EY6g" title="Motörhead – Ace Of Spades (Official Video)" >}}
@@ -78,9 +79,7 @@ styles: ["Heavy Metal"]
 - [Motörhead – The Chase Is Better Than The Catch (Official Video)](https://www.youtube.com/watch?v=PktB0bxo2oQ)
 - [Motörhead – Killed By Death (Official Video)](https://www.youtube.com/watch?v=LZ5fIKmn1ok)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -90,4 +89,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | BMGCAT522QLP |
 
 4 LPs in a big three-folded cover in amplifier-style. 4 printed inner-sleeves with pictures and credits.  ℗ & © 2021 BMG Rights Management (UK) Limited Manufactured in France.  Nuclear Blast mailorder provide an exclusive DIN-A1 poster
-

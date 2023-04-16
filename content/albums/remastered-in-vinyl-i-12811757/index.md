@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Kick Inside
 2. Moving
@@ -67,9 +66,7 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ## Videos
 {{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -79,4 +76,3 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | 0190295593964 |
 
 4 x remastered LP release in stickered card box.  'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'.
-

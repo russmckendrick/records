@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
-
 ## Tracklisting
 1. Genesis (1:40)
 2. Royalty Capes (3:47)
@@ -33,6 +32,8 @@ styles: ["Conscious"]
 16. Unfold (6:00)
 17. Here In After (5:35)
 18. Exodus (3:15)
+## Spotify
+{{< spotify type="album" id="73USNxSgFncLAsOAWfIA4J" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7vDVDo9w20w" title="De La Soul - Pain ft. Snoop Dogg (Official Audio)" >}}
@@ -57,9 +58,7 @@ styles: ["Conscious"]
 - [De La Soul - Drawn ft. Little Dragon](https://www.youtube.com/watch?v=lGpw84iVgmM)
 - [De La Soul Pain feat. Snoop Dogg (Official Video)](https://www.youtube.com/watch?v=nLDIs0GHP2k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -69,4 +68,3 @@ styles: ["Conscious"]
 | Catalog Number | AOI001VLK |
 
 *Kickstarter campaign edition  *Includes Kickstarter only bonus track "Unfold" which is not included on retail versions. *Unsigned (some LP covers were signed as a different Kickstarter reward level) *Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level) *Comes with drop card for digital download of album (MP3)
-

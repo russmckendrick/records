@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Acoustic"]
 ---
-
 ## Tracklisting
 1. The Lost Song - Part 2 (6:39)
 2. Untouchable - Part 1 (6:29)
@@ -30,13 +29,13 @@ styles: ["Prog Rock", "Acoustic"]
 13. Internal Landscapes (7:03)
 14. A Natural Disaster (8:45)
 15. Fragile Dreams (7:32)
+## Spotify
+{{< spotify type="album" id="5MtqVNvbhQB2RlhiuFnuVN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming (2015)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -44,6 +43,5 @@ styles: ["Prog Rock", "Acoustic"]
 | Label          | Kscope |
 | Format         | 3xLP, Gat |
 | Catalog Number | KSCOPE884 |
-
 
 

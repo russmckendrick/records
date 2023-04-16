@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Next To Silence
 2. In The Trees
@@ -23,6 +22,8 @@ styles: ["Post Rock", "Experimental"]
 6. The Tree Of Life
 7. Mysterium
 8. The New Earth
+## Spotify
+{{< spotify type="album" id="1zngAcNNliJMx91HWEJf2G" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CsUmGZ7bK6E" title="The Tree of Life" >}}
@@ -34,9 +35,7 @@ styles: ["Post Rock", "Experimental"]
 - [Wave Upon Wave](https://www.youtube.com/watch?v=RumGniGdO4g)
 - [Held By Trees // Mysterium](https://www.youtube.com/watch?v=zr5KAsCU4L0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -46,4 +45,3 @@ styles: ["Post Rock", "Experimental"]
 | Catalog Number | TJMLP01 |
 
 The colour of the record may vary as it is 'eco vinyl'.  © ℗ Tweed Jacket Music Ltd 2022  The tracks are numbered 1 to 8 on the release.
-

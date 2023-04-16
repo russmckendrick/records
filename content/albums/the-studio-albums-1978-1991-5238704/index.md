@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Dire Straits
 2. Down To The Waterline
@@ -74,9 +73,7 @@ styles: ["Classic Rock"]
 57. How Long
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -86,4 +83,3 @@ styles: ["Classic Rock"]
 | Catalog Number | 0602537529193v, 0602537529193 |
 
 Sticker on front with text: -dIRE sTRAITS THE STUDIO ALBUMS 1978-1991 -The six groundbreaking studio albums. -180 gm audiophile quality vinyl. -Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig. -Lacquers cut by Chris Bellman and Bernie Grundman. -Includes download card. -www.Backtoblackvinyl.com  All LP's comes with printed inner sleeves. Dire Straits uses [r=2699975] (2009 Analogue Remaster) lacquers Communiqué uses [r=2803323] (2009 Analogue Remaster) lacquers Making Movies uses [r=3758767] (2010 Analogue Remaster) lacquers Love Over Gold uses [r=2421149] (2010 Analogue Remaster) lacquers Brothers In Arms & On Every Street are previously unreleased remasters. Lacquers for Side A of LP6 was damaged during transfer to pressing plant and thus was not cut by Chris Bellman as in [r=5139357] (Pallas version) of box-set.
-

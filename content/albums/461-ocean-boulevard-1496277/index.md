@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Motherless Children
 2. Give Me Strength
@@ -25,11 +24,11 @@ styles: ["Blues Rock", "Pop Rock"]
 8. Let It Grow
 9. Steady Rollin' Man
 10. Mainline Florida
-
+## Spotify
+{{< spotify type="album" id="73cxqemPE6sVoCkwRuPU6E" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1983 |
@@ -39,4 +38,3 @@ styles: ["Blues Rock", "Pop Rock"]
 | Catalog Number | SPELP 24, 2479 118 |
 
 Non-gatefold sleeve.  — Back cover: Recorded at Criteria Recording Studios, Miami, Florida. Yvonne Elliman courtesy of Purple Records. Al Jackson courtesy of Stax Records. Produced […] by arrangement with the Robert Stigwood Organization ℗ 1974 RSO Records © 1983 Polydor Ltd. (London)  — Labels: Made in England Marketed by Polydor Ltd Original Sound Recording made by RSO Records Ltd. ℗ 1974 RSO Records Ltd.
-

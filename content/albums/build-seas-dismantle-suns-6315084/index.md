@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Violent Lights
 2. Drumfire
@@ -23,6 +22,8 @@ styles: ["Post Rock"]
 6. Mechanical Minds
 7. Strangest Tides
 8. Dark Clouds Mean War
+## Spotify
+{{< spotify type="album" id="1RPcqksKTdpMPLlJv2QJqa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TxeBiUnKOEM" title="Nordic Giants ± Mechanical Minds ± Dismantle Suns EP" >}}
@@ -32,9 +33,7 @@ styles: ["Post Rock"]
 - [Nordic Giants - Live at the Cabaret Voltaire, Edinburgh October 7, 2013 FULL SHOW HD](https://www.youtube.com/watch?v=VBkcCv9pzsA)
 - [Nordic Giants @ London Lexington 2013 - Dark Clouds Mean War](https://www.youtube.com/watch?v=fCqAjnaluNg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -44,4 +43,3 @@ styles: ["Post Rock"]
 | Catalog Number | KSCOPE869 |
 
 Made in Germany  The 2013 Self Released EPs on 180g Clear Vinyl  www.nordicgiants.co.uk
-

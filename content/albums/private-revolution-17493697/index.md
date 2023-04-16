@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Private Revolution (4:01)
 2. Making Love (To The World) (2:30)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. All I Really Want To Do (4:43)
 10. World Party (4:36)
 11. It's All Mine (5:33)
+## Spotify
+{{< spotify type="album" id="6NbdjT5mdw0oTZDiEZOgey" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZHh0V7UjVXI" title="World Party - Ship of Fools" >}}
@@ -43,9 +44,7 @@ styles: ["Alternative Rock"]
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -53,6 +52,5 @@ styles: ["Alternative Rock"]
 | Label          | Seaview |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 1LP |
-
 
 

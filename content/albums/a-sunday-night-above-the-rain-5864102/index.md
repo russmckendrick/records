@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Gaza
 2. Waiting To Happen
@@ -28,6 +27,8 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 11. The King Of Sunset Town
 12. The Sky Above The Rain
 13. Garden Party
+## Spotify
+{{< spotify type="album" id="6ir2CmieJAjY36ZzWveT0K" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="l-v3onZ6TVE" title="Marillion - Power - A Sunday Night Above The Rain (2014)" >}}
@@ -37,9 +38,7 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 - [Marillion - Sounds That Can't Be Made (Live in Holland 2013)](https://www.youtube.com/watch?v=2SUB-iReAB4)
 - [Marillion - Montreal (Live in Holland 2013)](https://www.youtube.com/watch?v=567P9ZD2iuc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -49,4 +48,3 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 | Catalog Number | 0209657ERE |
 
 Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.  ℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.  Made in Germany.  comes in a gatefold cover
-

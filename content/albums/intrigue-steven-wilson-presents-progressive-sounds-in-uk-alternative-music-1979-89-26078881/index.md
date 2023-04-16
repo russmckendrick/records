@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
-
 ## Tracklisting
 1. I Should Have Known Better
 2. A Better Home In The Phantom Zone
@@ -81,9 +80,7 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 - [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -93,4 +90,3 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 | Catalog Number | DEMRECBOX78 |
 
 UK box set edition 7 x 140g vinyl compilation.  Three other versions exist: *  [url=/release/26064292]DEMRECBOX78X / 5014797908383 - (7 x 140g Signed Edition)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]  [ERRATUM]: F3:  [m=829865], printed as They All Run After The Carving Knife
-

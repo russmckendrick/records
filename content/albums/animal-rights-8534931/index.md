@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Now I Let Go
 2. Come On Baby
@@ -27,11 +26,11 @@ styles: ["Punk", "Alternative Rock"]
 10. Face It
 11. Living
 12. Love Song For My Mum
-
+## Spotify
+{{< spotify type="album" id="7GUBzGdOxLRGtEtSK6sYCG" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +40,3 @@ styles: ["Punk", "Alternative Rock"]
 | Catalog Number | STUMM 150 |
 
 If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.
-

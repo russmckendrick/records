@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock", "Gospel"]
 ---
-
 ## Tracklisting
 1. La Ribera
 2. In The Morning
@@ -48,9 +47,7 @@ styles: ["Alternative Rock", "Gospel"]
 - [Soulsavers -  The Longest Day](https://www.youtube.com/watch?v=kO9js-Pym2Q)
 - [Soulsavers - In the Morning](https://www.youtube.com/watch?v=cUmVS6DkQbI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -60,4 +57,3 @@ styles: ["Alternative Rock", "Gospel"]
 | Catalog Number | VVR797363 |
 
 Recorded 2010/11/12 in Los Angeles, New York, London, Berlin, Sydney & Stoke-on-Trent.  Recorded at Sunset Sound / Selma Sound / 11AD - Los Angeles, The Mouse House / Casa G / Mute hq / Strongrooms - UK Schlaf Klänge Studios - Berlin, Studios 301 - Sydney Dave Gahan vocals recorded at Madpan studios N.Y.C. & Blanco Studio N.Y.C.  Published by EMI Music Publishing Ltd Licensed by JJSR Productions Inc / Mute Songs  ℗&© 2012 V2 Records.  Duration times are not printed on cover or labels.  Initial pre-orders from recordstore.co.uk included an 'exclusive album artwork print'  CD packaged in clear generic PVC sleeve.  The album title printed on labels has a typo – "Sea" instead of "See". 
-

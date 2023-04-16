@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
-
 ## Tracklisting
 1. What We Was (Intro) (1:55)
 2. You Can't Kill Me (9:02)
@@ -24,6 +23,8 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 7. Forever Reoccurring (22:40)
 8. My Sawtooth Wake (12:43)
 9. Insert Yr Own Prophecy (10:32)
+## Spotify
+{{< spotify type="album" id="67NH57XjUXzXmAxqZlEHNS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yeqqcbU6Pj0" title="What We Was (intro)" >}}
@@ -36,9 +37,7 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 - [GONG - My Sawtooth Wake (LIVE - from Pulsing Signals)](https://www.youtube.com/watch?v=9aIIvnpf0UQ)
 - [Insert Yr Own Prophecy (Live)](https://www.youtube.com/watch?v=BJOKcB1hiOw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +47,3 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 | Catalog Number | Kscope1143 |
 
 Comes with foldout sleeve and cardboard inner sleeves  Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi [Hype sticker:] "Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"  (C) 2022 Gong (P) 2022 Gongband.com 
-

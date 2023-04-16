@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. You And Me Song
 2. Might Be Stars
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Do It All The Time
 10. Dreamy Wednesdays
 11. Kid
+## Spotify
+{{< spotify type="album" id="7bx60z6sWg9fz9Ve2AruOI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LBXwXV5JOI4" title="Sweet Nymphet" >}}
@@ -37,9 +38,7 @@ styles: ["Indie Rock"]
 - [New World Record](https://www.youtube.com/watch?v=tj_cyhf1zWI)
 - [Dying For More](https://www.youtube.com/watch?v=Mc8PaR7YKdI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -49,4 +48,3 @@ styles: ["Indie Rock"]
 | Catalog Number | MOVLP2302 |
 
 Limited edition of 1,000 machine numbered copies. Made in the EU. Includes black and white insert.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Glam", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Cherry Pie (3:20)
 2. Uncle Tom's Cabin (4:01)
@@ -27,6 +26,8 @@ styles: ["Glam", "Hard Rock"]
 10. Mr. Rainmaker (3:29)
 11. Train, Train (2:49)
 12. Ode To Tipper Gore (0:54)
+## Spotify
+{{< spotify type="album" id="5TMMmKdys49eu6QSPC9sdB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="OjyZKfdwlng" title="Warrant - Cherry Pie" >}}
@@ -47,9 +48,7 @@ styles: ["Glam", "Hard Rock"]
 - [Warrant – Blind Faith](https://www.youtube.com/watch?v=QGB_J4OEk6c)
 - [Warrant – Sure Feels Good To Me](https://www.youtube.com/watch?v=KCL2ZWA_yE0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -59,4 +58,3 @@ styles: ["Glam", "Hard Rock"]
 | Catalog Number | MOVLP3112 |
 
 Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112
-

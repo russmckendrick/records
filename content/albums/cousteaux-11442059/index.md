@@ -1,6 +1,6 @@
 ---
-title: "Cousteau (2) - CousteauX"
-artist: "Cousteau (2)"
+title: "Cousteau - CousteauX"
+artist: "Cousteau"
 album_name: "CousteauX"
 date: 2018-01-31
 release_id: "11442059"
@@ -8,12 +8,11 @@ slug: "cousteaux-11442059"
 hideSummary: true
 cover:
     image: "cousteaux-11442059.jpg"
-    alt: "CousteauX by Cousteau (2)"
-    caption: "CousteauX by Cousteau (2)"
+    alt: "CousteauX by Cousteau"
+    caption: "CousteauX by Cousteau"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Memory Is A Weapon (3:55)
 2. This Might Be Love (3:51)
@@ -25,20 +24,19 @@ styles: ["Pop Rock"]
 8. Shelter (3:48)
 9. Seasons Of You (3:01)
 10. F**king In Joy And Sorrow (5:15)
+## Spotify
+{{< spotify type="album" id="18tMbbIJmcVQDzOk4NSiJP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="G7MOMU0K5c4" title="CousteauX - The Innermost Light" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Cousteau (2) - CousteauX](https://www.discogs.com/release/11442059-CousteauX-CousteauX) |
+| Discogs Link   | [Cousteau - CousteauX](https://www.discogs.com/release/11442059-CousteauX-CousteauX) |
 | Label          | Silent X Records |
 | Format         | LP, Album |
 | Catalog Number | SNTX002LP |
 
 Studios, What Studios? UK & Australia Design & Artwork - Gower Preston - oicdesign.net Photography - John Halfhide Cover Image - Snyder & Cole - Courtesy of Chicago Tribune Published by Blue Mountain Music  Signed copies offered as a pre-order through PledgeMusic
-

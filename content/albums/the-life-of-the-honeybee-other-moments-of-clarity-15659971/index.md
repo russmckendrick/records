@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Life of the Honeybee & Other Moments Of Clarity
 2. One Small Soul
@@ -26,16 +25,13 @@ styles: ["Prog Rock"]
 {{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}
 - [Abel Ganz : Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Abel Ganz - The Life Of The Honeybee & Other Moments Of Clarity](https://www.discogs.com/release/15659971-Abel-Ganz-The-Life-Of-The-Honeybee-Other-Moments-Of-Clarity) |
-| Label          | Abel Records (3) |
+| Label          | Abel Records |
 | Format         | LP, Album, Ora |
 | Catalog Number | ARAG001LP |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Again And Again (3:38)
 2. I'm Giving Up My Worryin' (3:03)
@@ -31,9 +30,7 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 - [status quo i'm giving up my worryin' (if you can't stand the heat).wmv](https://www.youtube.com/watch?v=Re8--gXXF1s)
 - [status quo someone show me home (if you can't stand the heat).wmv](https://www.youtube.com/watch?v=bTEldoUi84E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -43,4 +40,3 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 | Catalog Number | 4723771 |
 
 Die-cut gatefold sleeve Comes with a poster and an insert.  © 1978 Mercury Records Limited/Universal Music Catalogue ℗ 1978 Mercury Records Limited   
-

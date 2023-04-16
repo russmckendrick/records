@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Always Together With You
 2. Best Thing You Never Had (The D Song)
@@ -22,6 +21,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 5. The Mainline Song
 6. The A Song (Laid In Your Arms)
 7. I'm Coming Home Again
+## Spotify
+{{< spotify type="album" id="7sKThLp2JeJqysSXC5ckhI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You (Official Music Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 - [Spiritualized - The Mainline Song (Official Video)](https://www.youtube.com/watch?v=hze3Su59kFE)
 - [Spiritualized - Crazy (Official Music Video)](https://www.youtube.com/watch?v=3vCcjlcJ8JM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -44,4 +43,3 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 | Catalog Number | BELLA1270V |
 
 Includes printed inner sleeve and download card. Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER
-

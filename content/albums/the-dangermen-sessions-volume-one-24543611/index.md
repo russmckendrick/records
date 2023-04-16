@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. This Is Where (0:30)
 2. Girl Why Don't You? (3:05)
@@ -45,9 +44,7 @@ styles: ["Ska"]
 - [Madness - The Dangermen Sessions Volume One (Full Album)](https://www.youtube.com/watch?v=GGZ9W7_HCE4)
 - [Madness - Shame And Scandal](https://www.youtube.com/watch?v=jPHOPTwjVwY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -57,4 +54,3 @@ styles: ["Ska"]
 | Catalog Number | SALVOLP15, 4050538618839 |
 
 Made in Poland  Heavyweight 180 Gram Black Vinyl In card sleeve with inner and insert  ℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd. This release © 2022 Union Square Music Ltd.
-

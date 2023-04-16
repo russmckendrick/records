@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Mod"]
 ---
-
 ## Tracklisting
 1. In The City
 2. Away From The Numbers
@@ -49,6 +48,8 @@ styles: ["Mod"]
 32. Get Yourself Together (Live)
 33. The Great Depression (Live)
 34. But I'm Different Now (Live)
+## Spotify
+{{< spotify type="album" id="4vmnGKvkPNCOX48q22c7UL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GPktB0NHwDY" title="The Jam - All Around The World" >}}
@@ -86,9 +87,7 @@ styles: ["Mod"]
 - [The Jam - (Compact SNAP!) Full Album](https://www.youtube.com/watch?v=9FoSomJHHU4)
 - [The Jam SNAP! Full Album](https://www.youtube.com/watch?v=f2TzoccDCDI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -98,4 +97,3 @@ styles: ["Mod"]
 | Catalog Number | SNAP 1, 775 270-2 |
 
 Gatefold cover.
-

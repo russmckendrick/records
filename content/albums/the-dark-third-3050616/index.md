@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Aeropause
 2. Goshen's Remains
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 12. Borgens Vor
 13. The Exact Colour
 14. The Twyncyn / Trembling Willows
+## Spotify
+{{< spotify type="album" id="4ijk02bZgFVyexq2bYzpL1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}
@@ -49,9 +50,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -61,4 +60,3 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 | Catalog Number | PVR0005LP |
 
 Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence. © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records Distributed by Plastic Head Music Distribution Ltd Recorded at Fairhazel, Eden, The Gables & RAK Studios.  Mixed at RAK Studios. 
-

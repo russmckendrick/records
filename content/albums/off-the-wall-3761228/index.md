@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Disco", "Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. Don't Stop 'Til You Get Enough (6:02)
 2. Rock With You (3:38)
@@ -25,6 +24,8 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 8. I Can't Help It (4:27)
 9. It's The Falling In Love (3:46)
 10. Burn This Disco Out (3:38)
+## Spotify
+{{< spotify type="album" id="2ZytN2cY4Zjrr9ukb2rqTP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yURRmWtbTbo" title="Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 - [It's the Falling in Love](https://www.youtube.com/watch?v=G1fll9DHS1w)
 - [Burn This Disco Out](https://www.youtube.com/watch?v=3w75_OUcRXs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -50,4 +49,3 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 | Catalog Number | EPC 450086 1, 450086 1 |
 
  © 1979 CBS, Inc. / ℗ 1979 CBS Inc. Distribution: CBS Records / CBS Disques S.A. Shorepak by Shorewood Packaging Co. Ltd., England  This release has a slighty different cover to the other reissue.  Some releases came with insert containing all lyrics and credits.
-

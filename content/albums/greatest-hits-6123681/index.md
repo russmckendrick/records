@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Rhiannon (4:12)
 2. Don't Stop (3:12)
@@ -28,13 +27,13 @@ styles: ["Pop Rock", "Classic Rock"]
 11. Sara (6:26)
 12. Tusk (3:36)
 13. No Questions Asked (4:41)
+## Spotify
+{{< spotify type="album" id="0LfM3PGkXE6KvJEE1HkOnz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ohy8E4TJaZE" title="Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock", "Classic Rock"]
 | Catalog Number | 8122795935 |
 
 Sticker on shrink-wrap reads: "8X Platinum Collection 13 Tracks Of Classic Fleetwood Mac  -Including-   Go Your Own Way  Don't Stop • Gypsy  Rhiannon • Dreams Little Lies 8122795935"  Comes with a printed inner sleeve, containing liner note, credits and photos.  Published By: Tracks A1, A6, B2, B4 & B6: Welsh Witch Music BMI. Tracks A2, A4, A5, A7, B1, B3: Fleetwood Mac Music BMI. Tracks A3, A5: Now Sounds Music BMI.  © 1988 Warner Bros. Records for the U.S. and WEA International Inc. for the world outside the U.S. ℗ 1975, 1977, 1979, 1982, 1987, 1988 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.   [Back Cover]: Manufactured in the EU.  [Inner Sleeve]: Made in U.S.A.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Neat Neat Neat
 2. Fan Club
@@ -27,6 +26,8 @@ styles: ["Punk"]
 10. 1 Of The 2
 11. So Messed Up
 12. I Feel Alright
+## Spotify
+{{< spotify type="album" id="5tW8vnOGZKVe6pZD5YZa1E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kQTJ5jqGSpc" title="I Fall (2017 - Remaster)" >}}
@@ -46,9 +47,7 @@ styles: ["Punk"]
 - [I Feel Alright (2017 - Remaster)](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
 - [Neat Neat Neat (2017 - Remaster)](https://www.youtube.com/watch?v=gXKDtkCzSCw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -58,4 +57,3 @@ styles: ["Punk"]
 | Catalog Number | BMGCAT705CLP |
 
 Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  © & ℗ 1977 Still Records Ltd Published by Rock Music Co except: A1, B1 published by Rock Music Co/Street Music Co B6 published by B. Feldman & Co  Manufactured in Norway. Runouts are etched.
-

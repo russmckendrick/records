@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Out On The Weekend (4:32)
 2. Harvest (3:09)
@@ -29,9 +28,7 @@ styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 ## Videos
 {{< youtube id="If6OYimXFTc" title="Neil Young - Harvest (Official Audio)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -41,4 +38,3 @@ styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 | Catalog Number | 9362-49786-5 |
 
 Sticker the sleeve:  A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)  On the back: Neil Young Archives, Official Release Series, Disc 04  Comes in a textured, gatefold sleeve and with gatefold lyric sheet.  Matrices in runouts are etched, "-18662-" are stamped.
-

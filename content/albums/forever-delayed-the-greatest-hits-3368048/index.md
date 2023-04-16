@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. A Design For Life
 2. Motorcycle Emptiness
@@ -37,9 +36,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 20. Motown Junk
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -49,4 +46,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | MOVLP221 |
 
 180-gram pressing with two full-colour printed inner sleeves and original artwork.
-

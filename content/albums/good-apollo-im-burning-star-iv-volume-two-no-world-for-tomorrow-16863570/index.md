@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ---
-
 ## Tracklisting
 1. The Reaping
 2. No World For Tomorrow
@@ -40,9 +39,7 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 - [The Hound (of Blood and Rank)](https://www.youtube.com/watch?v=Q62g4b0A8Qs)
 - [Gravemakers & Gunslingers](https://www.youtube.com/watch?v=Fx8yc4u8Qgc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +49,3 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 | Catalog Number | MOVLP2793 |
 
 180 gram audiophile vinyl Gatefold sleeve Etched artwork on d-side 2 printed innersleeves with lyrics and artwork by Ken Kelly Made in The EU. 
-

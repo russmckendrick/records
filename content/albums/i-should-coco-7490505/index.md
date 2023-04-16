@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. I'd Like To Know (4:02)
 2. Caught By The Fuzz (2:16)
@@ -30,15 +29,15 @@ styles: ["Alternative Rock", "Britpop"]
 13. Time To Go (1:56)
 14. Stone Free (3:10)
 15. Odd (5:05)
+## Spotify
+{{< spotify type="album" id="3YfIjaJEWqiSbKPguS9Bxd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GNIMuvbiZcc" title="Supergrass - Caught By The Fuzz (Official HD Video - US Version)" >}}
 - [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
 - [Supergrass - Mansize Rooster (Official HD Video)](https://www.youtube.com/watch?v=dHlLcVHncDw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Britpop"]
 | Catalog Number | 0825646130573 |
 
 20th anniversary edition. Album is dedicated to David Norland 1974-2014. Supergrass and I Should Coco are embossed.  Recorded at Sawmills Studio, Golant, Fowey, Cornwall. Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.  B side label of 7" is plain red. Embossed letters on front sleeve. Comes with a [l873810] download code.
-

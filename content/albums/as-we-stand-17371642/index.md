@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Contemporary Jazz"]
 ---
-
 ## Tracklisting
 1. Rivers Of Mind (4:14)
 2. Convolution (5:00)
@@ -25,6 +24,8 @@ styles: ["Contemporary Jazz"]
 8. As We Stand (5:19)
 9. Kestrel (6:50)
 10. What's In A Tune (6:07)
+## Spotify
+{{< spotify type="album" id="5imbMBaEeWCWiQJtNgo2vg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="m1xqC2ohGxc" title="As We Stand" >}}
@@ -39,9 +40,7 @@ styles: ["Contemporary Jazz"]
 - [Convolution - Tori Handsley](https://www.youtube.com/watch?v=OSTIPT7fsLw)
 - [Polar Retreat - Tori Handsley](https://www.youtube.com/watch?v=2yhkuCYFpIg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -51,4 +50,3 @@ styles: ["Contemporary Jazz"]
 | Catalog Number | SGCLP019 |
 
 Gatefold double vinyl - strictly limited edition of 500  
-

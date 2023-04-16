@@ -13,17 +13,16 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Shine
 2. B.O.A.T.S
 3. The Seed
 4. Through A Lens Darkly
-
+## Spotify
+{{< spotify type="album" id="0hZZ417pOuUFd45IHNlk2t" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -33,4 +32,3 @@ styles: ["Post Rock"]
 | Catalog Number | none |
 
 Originally released on CD in 2010.
-

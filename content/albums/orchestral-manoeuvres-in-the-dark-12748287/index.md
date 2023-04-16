@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Bunker Soldiers (2:51)
 2. Almost (3:40)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. Red Frame / White Light (3:11)
 9. Dancing (2:59)
 10. Pretending To See The Future (3:48)
+## Spotify
+{{< spotify type="album" id="5AN8aqTrcuMZO7rpD9U2yF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IRqfQcHI6EQ" title="Bunker Soldiers (Remastered 2003)" >}}
@@ -44,9 +45,7 @@ styles: ["Synth-pop"]
 - [Electricity (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=n2-RNug1XoI)
 - [Almost (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=e9LDb3bgq3c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -56,4 +55,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 602557050806 |
 
 Half speed mastered at Abbey Road Studios. Includes digital download card.
-

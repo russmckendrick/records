@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. I Got You (3:29)
 2. Hard Act To Follow (3:18)
@@ -32,9 +31,7 @@ styles: ["New Wave"]
 - [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -44,4 +41,3 @@ styles: ["New Wave"]
 | Catalog Number | SP-3289 |
 
 "B" on labels and "EMW" in runouts denotes an [l285745] pressing.
-

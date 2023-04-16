@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. She Drives Me Crazy
 2. Good Thing
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 8. Don't Let It Get You Down
 9. As Hard As It Is
 10. Ever Fallen In Love
+## Spotify
+{{< spotify type="album" id="6CoeDRu0SmpFtLZMcRTO2F" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}
@@ -46,9 +47,7 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -58,4 +57,3 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 | Catalog Number | 828 069. 1 |
 
 © 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited. A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd. A2, A5 & B4 ℗ 1987 Touchstone Pictures B5 ℗ 1987 FFRR Records Ltd.  Publishers: A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd. A2, A5 & B4 - Campbell Connelly Issued in a single sleeve and with a printed inner sleeve.  All runout data is stamped.
-

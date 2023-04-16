@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae", "Pop"]
 styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 ---
-
 ## Tracklisting
 1. Next To You (2:51)
 2. So Lonely (4:48)
@@ -25,11 +24,11 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 8. Born In The 50's (3:42)
 9. Be My Girl - Sally (3:24)
 10. Masoko Tanga (5:41)
-
+## Spotify
+{{< spotify type="album" id="1H9g6j4Wwj6wh6p8YHVtkf" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -39,4 +38,3 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 | Catalog Number | 0082839475310 |
 
 Re-release from the [l138199] [l197898] series.   Includes voucher to download MP3 version of the album.  Made in the EU.  Spine reads "OUTLANDOS D'ARMOUR".   Original sound recording made by A & M Records Ltd. ℗ 1978 A & M Records Ltd. © 1978 A & M Records Ltd.  A1 to A4, B1 to B3 and B5 published by Virgin Music (Publishers) Ltd. A5 published by Virgin Music (Publishers)/Island Music Limited B5 (Be My Girl) published by Virgin Music (Publishers) Ltd./ B5 (Sally) published by Rondor Music (London) Ltd.
-

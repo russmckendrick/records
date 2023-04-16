@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Dead Of Night
 2. Winds Change
@@ -27,6 +26,8 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 10. Take You Back (The Iron Hoof Cattle Call)
 11. Hope To Die
 12. Nothing Fades Like The Light
+## Spotify
+{{< spotify type="album" id="3950FHVErcINW3tjRgjebQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" >}}
@@ -40,9 +41,7 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 - [Queen of the Rodeo](https://www.youtube.com/watch?v=zrLZ4fzUP5k)
 - [Kansas (Remembers Me Now)](https://www.youtube.com/watch?v=Jbml8g3iaDQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -50,6 +49,5 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 | Label          | Sub Pop, Sub Pop |
 | Format         | LP, Album, Ltd, RP, Ora |
 | Catalog Number | SP1293, SP1361 |
-
 
 

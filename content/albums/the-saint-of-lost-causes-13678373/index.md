@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk", "Country"]
 ---
-
 ## Tracklisting
 1. The Saint Of Lost Causes
 2. Ain't Got No Money
@@ -27,6 +26,8 @@ styles: ["Folk", "Country"]
 10. Say Baby
 11. Ahi Esta Mi Nina
 12. Talking To Myself
+## Spotify
+{{< spotify type="album" id="2u56gjSmnJzoZOcUO84Lrw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="F9pXYG1ZITk" title="Justin Townes Earle - The Saint Of Lost Causes [Audio Only]" >}}
@@ -34,9 +35,7 @@ styles: ["Folk", "Country"]
 - [Justin Townes Earle - Over Alameda [Audio Only]](https://www.youtube.com/watch?v=f4QjO3YUPOU)
 - [Justin Townes Earle - The Saint of Lost Causes](https://www.youtube.com/watch?v=cWwkW35vEIE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +45,3 @@ styles: ["Folk", "Country"]
 | Catalog Number | NW5279 |
 
 Black vinyl edition. Side D has a etched picture.  Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker. 
-

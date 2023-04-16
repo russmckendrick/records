@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Incident (Part 1)
 2. Occam's Razor
@@ -40,11 +39,11 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 23. Even Less
 24. Dislocated Day
 25. Arriving Somewhere But Not Here
-
+## Spotify
+{{< spotify type="album" id="5ewjQytadDq2Ox2mEih9Bv" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +53,3 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | TRANSM132LBX, Transmission 13.2 |
 
 4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane  Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010   ℗ 2012 Porcupine Tree © 2012 Porcupine Tree Made in the EU
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Terminal Earth (1:55)
 2. Ancient Ascendant (5:47)
@@ -37,13 +36,13 @@ styles: ["Prog Rock"]
 20. How Bright Is The Sun? (6:03)
 21. Inside This Machine (3:28)
 22. An Ending (2:39)
+## Spotify
+{{< spotify type="album" id="4Yi2unJLbR3BsKKFXg68pN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -53,4 +52,3 @@ styles: ["Prog Rock"]
 | Catalog Number | IOMLP 528, 19075938861 |
 
 Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker affixed to the front of the shrink wrap. CD is packaged inside in a clear envelope-style PVC sleeve.
-

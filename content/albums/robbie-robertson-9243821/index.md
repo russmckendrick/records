@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Fallen Angel (5:54)
 2. Showdown At Big Sky (4:48)
@@ -24,6 +23,8 @@ styles: ["Pop Rock"]
 7. Hell's Half Acre (4:21)
 8. Sonny Got Caught In The Moonlight (3:52)
 9. Testimony (4:50)
+## Spotify
+{{< spotify type="album" id="7uQeo4W4xhKTUtN8Tmo31J" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HdtAfUtOEWA" title="Robbie Robertson   Fallen Angel" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock"]
 - [Sonny Got Caught In The Moonlight](https://www.youtube.com/watch?v=Dk3UzUXBMdc)
 - [Testimony](https://www.youtube.com/watch?v=FqUFRUQ8uZI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 924160-1, WX 133 |
 
 Similar to [r=1113594] but with different publishers on label  made in germany  Promotional sticker in top right corner to front cover "Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky"
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Holes (5:55)
 2. Tonite It Shows (3:40)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 9. The Funny Bird (5:51)
 10. Pick Up If You're There (3:05)
 11. Delta Sun Bottleneck Stomp (6:17)
+## Spotify
+{{< spotify type="album" id="3Ysnj9d06V965eaFAZuo3V" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="B7EyfGpV094" title="Holes" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 - [Pick Up If You're There](https://www.youtube.com/watch?v=FLCfMxO60N8)
 - [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,6 +49,5 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 | Label          | Excelsior Melodies |
 | Format         | LP, Album, RE, RM |
 | Catalog Number | EXM-309 |
-
 
 

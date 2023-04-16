@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. What It's Like To Be Hated
 2. GSOH
@@ -29,9 +28,7 @@ styles: null
 12. Railings
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -41,4 +38,3 @@ styles: null
 | Catalog Number | KSCOPE1049 |
 
 Record Store Day August 2020 released as part of the [r13372828] box set. Compiled most (but not all) of the B-sides from the Six-era EPs  A1 originally released on [r1701888] A2 originally released on [r54866] A3 and A7 originally released on [r669712] A4 and B1 originally released on [r1701881] A5 and B3 originally released on [r669709] A6 and B2 originally released on [r1701884] B4 originally released on [r1701879] B5 originally released on [r1063776]
-

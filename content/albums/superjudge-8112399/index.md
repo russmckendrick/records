@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Cyclops Revolution
 2. Twin Earth
@@ -33,6 +32,8 @@ styles: ["Space Rock", "Psychedelic Rock"]
 16. Twin Earth (Live)
 17. Nod Scene (Live)
 18. Evil (Live)
+## Spotify
+{{< spotify type="album" id="2uddKwvNYZT28E6ml2ZlOt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YNY0IgDOfqo" title="Monster Magnet - Cage Around The Sun (w/ lyrics)" >}}
@@ -41,9 +42,7 @@ styles: ["Space Rock", "Psychedelic Rock"]
 - [Twin Earth](https://www.youtube.com/watch?v=uA655tDs5sQ)
 - [Monster Magnet - Superjudge (Full Album)](https://www.youtube.com/watch?v=4v6patyOnzk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: ["Space Rock", "Psychedelic Rock"]
 | Catalog Number | 00600753642450 |
 
  Black vinyl. Includes sleeve-notes & bonus tracks + cover material.   Comes with free album download code.  ℗ & © 2015 Spinefarm Records & Universal Music Group Company  Made in the EU.
-

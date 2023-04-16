@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. In The Flesh? (3:16)
 2. The Thin Ice (2:27)
@@ -41,11 +40,11 @@ styles: ["Prog Rock", "Classic Rock"]
 24. Stop (0:30)
 25. The Trial (5:13)
 26. Outside The Wall (1:41)
-
+## Spotify
+{{< spotify type="album" id="5Dbax7G8SWrP9xyzkOvy2F" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -55,4 +54,3 @@ styles: ["Prog Rock", "Classic Rock"]
 | Catalog Number | PFRLP11, 5099902988313 |
 
 The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1979 Made in the E.U. www.pinkfloyd.com  Cat#s: 'PFRLP11-1' on LP1 inner sleeve 'PFRLP11-2' on LP2 inner sleeve  Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap. Printed inner sleeves in original UK-Style.  ℗ & © 2016 Pink Floyd Music Ltd.   Runtimes measured by digitalizing the vinyl and having timed each track on computer.  Runouts: '16736 #A / #B / #C / #D' is stamped, remainder is etched.
-

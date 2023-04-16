@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. When We Were Young
 2. Déjà Vu
@@ -27,6 +26,8 @@ styles: ["Prog Rock"]
 10. Wait For Her
 11. Oceans Apart
 12. Part Of Me Died
+## Spotify
+{{< spotify type="album" id="2XhQwji1ixgjca0XzkiTek" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_XdLNqWYgGI" title="Roger Waters - The Last Refugee" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock"]
 - [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
 - [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 88985 43649 1, 88985436491, C-192609 |
 
 Comes in a gatefold cover, inner sleeves with lyrics. Download code included.  Parental Advisory Explicit Content Strong Language  Back cover: © 2017 Jule Pond Productions LLC / ℗ 2017 The copyright in this sound recording is owned by Jule Pond Productions LLC, under exclusive license to Columbia Records,  a Division of Sony Music Entertainment. / Distributed by Columbia Records, a Division of Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / “Columbia” and [Columbia logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada. / All Rights Reserved. / Made in the EU. / LC00162  Gatefold interior: The lyrics for 'Wait For Her' were written by Roger Waters and inspired by an English translation by an unknown author of Lesson from the Kama Sutra (Wait For Her) by Mahmoud Darwish  Runouts are etched
-

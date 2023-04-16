@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Mellon Collie And The Infinite Sadness (2:51)
 2. Tonight, Tonight (4:13)
@@ -43,11 +42,11 @@ styles: ["Alternative Rock"]
 26. Lily (My One And Only) (3:30)
 27. By Starlight (4:47)
 28. Farewell And Goodnight (4:21)
-
+## Spotify
+{{< spotify type="album" id="55RhFRyQFihIyGf61MgcfV" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -57,4 +56,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 5099997855316 |
 
 Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.  All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.  ℗ 2012, Virgin Records America, Inc. © 2012, Virgin Records America, Inc.   All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.
-

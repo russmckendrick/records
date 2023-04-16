@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Every Single Day
 2. Staying Out For The Summer (Summer '95)
@@ -32,13 +31,13 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 15. Grassman
 16. Ain't No Longer Asking
 17. The Elephant
+## Spotify
+{{< spotify type="album" id="4YPpC6s1gbCDKI2Ikwl43s" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WTkeHkdIuB0" title="Dodgy Ace A's + Killer B's" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +47,3 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 | Catalog Number | DEMREC907X |
 
 First ever vinyl issue. Previously only available on CD.  Title on hype sticker: Ace A's + Killer B's The Best Of  Standard sleeve with printed inner sleeves. Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'  Manufactured in E.U.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Part One: In The Beginning
 2. Astral Weeks (7:00)
@@ -25,6 +24,8 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 8. Madame George (9:25)
 9. Ballerina (7:00)
 10. Slim Slow Slider (3:20)
+## Spotify
+{{< spotify type="album" id="4pG3bKkbmReDt5QTDn3JDz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tDRORRRv5SQ" title="Episode 204: Van Morrison - Astral Weeks" >}}
@@ -37,9 +38,7 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 - [Ballerina (2015 Remaster)](https://www.youtube.com/watch?v=B4GCR_moiMc)
 - [Slim Slow Slider (2015 Remaster)](https://www.youtube.com/watch?v=xaRa98bvIfc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 | Catalog Number | 081227937850 |
 
 Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Dopes To Infinity
 2. Negasonic Teenage Warhead
@@ -30,6 +29,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 13. Forbidden Planet (Bonus Track)
 14. Eclipse This (B-Side)
 15. I'm Five Years Ahead Of My Time (B-Side)
+## Spotify
+{{< spotify type="album" id="6vmAaaRJHTD6z47hItmOux" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JWldvOmqhRk" title="Dopes To Infinity" >}}
@@ -50,9 +51,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 - [Monster Magnet - Forbidden Planet 2](https://www.youtube.com/watch?v=krSiJW4AZbE)
 - [Monster Magnet - Negasonic Teenage Warhead](https://www.youtube.com/watch?v=Qv2CADhNYMg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -62,4 +61,3 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 | Catalog Number | 00600753642337 |
 
 Black vinyl. Includes sleeve-notes & bonus material.  Comes with free album download code.  ℗ & © 2015 Spinefarm Records & Universal Music Group Company  Made in the EU.
-

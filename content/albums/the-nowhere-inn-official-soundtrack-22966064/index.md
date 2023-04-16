@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. The Nowhere Inn (4:29)
 2. Carrie Voicemail (0:33)
@@ -55,9 +54,7 @@ styles: ["Alternative Rock", "Soundtrack"]
 - [St. Vincent - Carrie Voicemail (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=_XAmfHrevVM)
 - [St. Vincent - Texas Choir (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=YRkP9KK8vP4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -67,4 +64,3 @@ styles: ["Alternative Rock", "Soundtrack"]
 | Catalog Number | LVRO2343 |
 
 Record Store Day 2022 Exclusive Release Limited to 4000 copies
-

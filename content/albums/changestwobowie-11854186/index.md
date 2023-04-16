@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 ---
-
 ## Tracklisting
 1. Aladdin Sane (1913-1938-197?) 
 2. Oh! You Pretty Things
@@ -25,11 +24,11 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 8. Wild Is The Wind
 9. John I'm Only Dancing (Again) 1975
 10. D.J.
-
+## Spotify
+{{< spotify type="album" id="7xPIMxW4eWRTehFphCiDbH" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -39,4 +38,3 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 | Catalog Number | 0190295740542, CTBLP2018 |
 
 180 gram vinyl edition was available randomly on its initial limited run in black and blue vinyl before reverting solely to black vinyl.
-

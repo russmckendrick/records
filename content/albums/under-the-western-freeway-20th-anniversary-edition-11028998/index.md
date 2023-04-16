@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Under The Western Freeway
 2. Nonphenomenal Lineage  (3:11)
@@ -44,9 +43,7 @@ styles: ["Lo-Fi", "Indie Rock"]
 - [Grandaddy - Why took your advice + Lawn and so on](https://www.youtube.com/watch?v=8nAokLLLvr0)
 - [Best Of 90's - 1Album/1Song - Grandaddy Under The Western Freeway/AM180](https://www.youtube.com/watch?v=rUKM-1x0mVg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +53,3 @@ styles: ["Lo-Fi", "Indie Rock"]
 | Catalog Number | FVRLP012 |
 
 Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet. Disc 2 mastered at Wave Parade Studio.  The first 250 orders got a special bundle [r=11060713].  Tracklisting ascends numerically regardless of disc side.  Pressing credit identified in runout stampings.
-

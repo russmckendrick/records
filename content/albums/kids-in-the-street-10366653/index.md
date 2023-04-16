@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Champagne Corolla
 2. Maybe A Moment
@@ -27,6 +26,8 @@ styles: null
 10. If I Was The Devil
 11. Trouble Is
 12. There Go A Fool
+## Spotify
+{{< spotify type="album" id="10bNKmk6ZxM6HRB5mwh4SU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mDx4GtD3XJU" title="Justin Townes Earle - Kids In The Street [Audio Only]" >}}
@@ -38,9 +39,7 @@ styles: null
 - [Justin Townes Earle - Trouble Is [Audio Only]](https://www.youtube.com/watch?v=SmJ2E3IP_JA)
 - [Justin Townes Earle - Champagne Corolla [Lyric Video]](https://www.youtube.com/watch?v=_V5vLfmNPMw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,6 +47,5 @@ styles: null
 | Label          | New West Records |
 | Format         | LP, Album, 150 |
 | Catalog Number | NW5189 |
-
 
 

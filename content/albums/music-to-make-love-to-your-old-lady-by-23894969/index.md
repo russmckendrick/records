@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Pop"]
 styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
-
 ## Tracklisting
 1. Ladies Love Chest Rockwell (1:18)
 2. Pit Stop (Take Me Home) (3:56)
@@ -60,9 +59,7 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
 - [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -72,4 +69,3 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 | Catalog Number | BULK020LP |
 
 "Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb  The cover is a remake of [m4375].   ℗ © 2022 Bulk Recordings
-

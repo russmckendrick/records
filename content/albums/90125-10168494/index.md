@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Owner Of A Lonely Heart (4:27)
 2. Hold On (5:15)
@@ -24,11 +23,11 @@ styles: ["Pop Rock"]
 7. Our Song (4:16)
 8. City Of Love (4:48)
 9. Hearts (7:34)
-
+## Spotify
+{{< spotify type="album" id="6nNlTIiFd3J06W0rJiiwlz" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -38,4 +37,3 @@ styles: ["Pop Rock"]
 | Catalog Number | R1 90125 |
 
 Record Store Day 2017 Release  Sticker on front:  "LIMITED EDITION OF 5000 For the first time ever as a picture disc  featuring the hit "Owner Of a Lonely Heart"  Taken from the 2014 HD Remasters"
-

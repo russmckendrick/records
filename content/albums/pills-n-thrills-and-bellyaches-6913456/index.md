@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Kinky Afro
 2. God's Cop
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Step On
 9. Holiday
 10. Harmony
+## Spotify
+{{< spotify type="album" id="2Qo9lJydzuAmcBUjGOvrMQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mFBQ0PH5rM4" title="Happy Mondays - Step On (Official Music Video)" >}}
@@ -32,16 +33,13 @@ styles: ["Alternative Rock"]
 - [Happy Mondays - Kinky Afro (Official Video)](https://www.youtube.com/watch?v=O8maBsuhHr4)
 - [Happy Mondays - Loose Fit (Official Music Video)](https://www.youtube.com/watch?v=xfF4k6TxFno)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Happy Mondays - Pills 'N' Thrills And Bellyaches](https://www.discogs.com/release/6913456-Happy-Mondays-Pills-N-Thrills-And-Bellyaches) |
-| Label          | Rhino Records (2) |
+| Label          | Rhino Records |
 | Format         | LP, Album, RSD, Ltd, RE, Yel |
 | Catalog Number | R1 60986 |
 
 25th Anniversary edition, released on Record Store Day 2015. Mastered from the original tapes on limited edition 180 gram yellow vinyl.  Published by London Music Ltd. except B3 published by Tapestry Music Ltd. © 1970
-

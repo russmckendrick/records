@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 ---
-
 ## Tracklisting
 1. Feel Good Hit Of The Summer (2:43)
 2. The Lost Art Of Keeping A Secret (3:36)
@@ -34,9 +33,7 @@ styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 - [Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)](https://www.youtube.com/watch?v=0l0nzPpvbFs)
 - [Queens Of The Stone Age - Monsters In The Parasol (Official Music Video)](https://www.youtube.com/watch?v=hnLwHOVXkWE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -46,4 +43,3 @@ styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 | Catalog Number | 490 864-1 |
 
 A reissue of the [original UK and European LP](http://www.discogs.com/Queens-Of-The-Stone-Age-X/release/487593). Considered by many to be hugely inferior to the original version both aurally and physically with blurred artwork and printing. Unlike the original version this release has the title information printed on the cover (not a sticker), doesn't have the message "Don't make me beg, just fuck me" on the back cover and doesn't include any printed inner sleeve or insert, only a simple paper record sleeve. The sound and print quality of this version is so low that some have felt it is a counterfeit.  This edition was made some time after 2008.  "Ode To Clarissa" is the bonus track.  ℗ 2000 Interscope Records. © 2000 Interscope Records. The copyright in this sound recording is owned by Interscope Records an licenced exclusively to Polydor Ltd (UK), a Universal Music Company.  Made in the E.U.
-

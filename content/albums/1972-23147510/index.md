@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 ---
-
 ## Tracklisting
 1. Rocks Off
 2. The Slider
@@ -21,6 +20,8 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 4. Easy To Slip
 5. Moonage Daydream
 6. Papa Was A Rollin’ Stone
+## Spotify
+{{< spotify type="album" id="1j5bnk2x6LNbB0kbWY4GFq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XMIyT4PsnSk" title="The Black Crowes - '1972' Studio Session [Amazon Original]" >}}
@@ -31,9 +32,7 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 - [Black Crowes - Papa Was A Rolling Stone](https://www.youtube.com/watch?v=frN4RjtwV0Y)
 - [Black Crowes - Moonage Daydream](https://www.youtube.com/watch?v=lKu1T6ccwFI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -43,4 +42,3 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 | Catalog Number | SAR26LP |
 
 Recorded at Sunset Sound, Hollywood, California  Inner sleeve contains credits and photograph  ℗&© 2022 Silver Arrow Records  Made in the Czech Republic  U.K. release date: 22nd October 2022  The runout strings are stamped
-

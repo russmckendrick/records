@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
-
 ## Tracklisting
 1. Jack Shit George (4:23)
 2. The Passing Show (4:24)
@@ -36,9 +35,7 @@ styles: ["Pop Rock", "Funk"]
 - [Heavy Living](https://www.youtube.com/watch?v=3wdt9eExM4M)
 - [Ian Dury & The Blockheads - Jack Shit George](https://www.youtube.com/watch?v=BVhbpOYccjg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +45,3 @@ styles: ["Pop Rock", "Funk"]
 | Catalog Number | DEMREC62 |
 
 Durations from playlist editor. ... & The vest is yet to come Manufactured under licence from Templemill Music Ltd
-

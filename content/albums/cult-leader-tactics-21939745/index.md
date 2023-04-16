@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Cult Leader Tactics (4:08)
 2. Internationalle (3:24)
@@ -26,11 +25,11 @@ styles: ["Alternative Rock"]
 9. Talkin Behind My Back (2:59)
 10. Omega Man (4:08)
 11. Lyin Bout Who You Sleep With (5:01)
-
+## Spotify
+{{< spotify type="album" id="0uDGeRNJfliZQ2cUphDDjS" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -40,4 +39,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | KSCOPE 1160 |
 
 First 150 signed by Paul Draper  Gatefold sleeve Lyric / credits inner sleeve. Kscope insert  
-

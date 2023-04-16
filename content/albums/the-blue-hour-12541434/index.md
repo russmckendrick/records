@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. As One
 2. Wastelands
@@ -29,14 +28,14 @@ styles: ["Indie Rock"]
 12. All The Wild Places
 13. The Invisibles
 14. Flytipping
+## Spotify
+{{< spotify type="album" id="0Nv08xNFTsUHdfvf5HR0lp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Gqzvcj0-kF4" title="SUEDE - THE INVISIBLES" >}}
 - [Suede - Wastelands (Official Video)](https://www.youtube.com/watch?v=qks__ZNvhiw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | WEA 503, 0190295625788 |
 
 Gatefold sleeve with printed inner sleeves. The inner side of the gatefold sleeve contains lyrics and credits for tracks A1 to B1. The other lyrics and track credits are on the inner sleeves. The general credits (production, recording, companies etc.) are on the back side of the gatefold sleeve.  No credits on this release for track D1 ("Dead Bird"), which is a short recording of Brett Anderson and his little son talking to each other in the garden combined with an orchestral score. The credits above are taken from the box set [r12544860].  The City Of Prague Philharmonic Orchestra was recorded at Smecky Studios, Prague. All credits regarding the recording of The City Of Prague Philharmonic Orchestra on tracks A1 to A3, B4, C1, D1 to D3 are taken from the box set [r12544860].
-

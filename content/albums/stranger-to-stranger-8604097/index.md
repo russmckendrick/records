@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. The Werewolf (3:25)
 2. Wristband (3:17)
@@ -26,6 +25,8 @@ styles: ["Folk Rock"]
 9. The Riverbank (4:09)
 10. Cool Papa Bell (4:02)
 11. Insomniac’s Lullaby (4:33)
+## Spotify
+{{< spotify type="album" id="1ujZpTYHOc5XS0JIBKjUaI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="S9UwRLfYUlo" title="Paul Simon - The Werewolf (Static Image Video)" >}}
@@ -44,9 +45,7 @@ styles: ["Folk Rock"]
 - [New York Is My Home](https://www.youtube.com/watch?v=yRyAD701fwE)
 - [Duncan (Live From A Prairie Home Companion)](https://www.youtube.com/watch?v=WwSf2vkV5vs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -56,4 +55,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 0888072397811 |
 
 Harry Partch instruments courtesy of Montclair State University and Dean Drummond Printed inner sleeve and insert.
-

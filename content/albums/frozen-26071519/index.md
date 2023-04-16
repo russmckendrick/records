@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Coast Is Clear
 2. The Colour Hurts
@@ -28,9 +27,7 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 - [Curve - Coast is clear](https://www.youtube.com/watch?v=lqtxTl4m6l4)
 - [Curve - Frozen](https://www.youtube.com/watch?v=vAANdjxEKlU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -40,4 +37,3 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 | Catalog Number | MOV12031 |
 
 Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.
-

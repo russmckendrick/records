@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. In The Arms Of Mrs. Mark Of Cain
 2. Graveyard Hill
@@ -27,15 +26,15 @@ styles: ["Indie Rock"]
 10. Bird Of Prey
 11. Daniel Boone
 12. Death Horizon
+## Spotify
+{{< spotify type="album" id="1ZqL2lIhcGoYkPnehz6KnF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="DzMff4KMf88" title="PIXIES - Catfish Kate (Official Video)" >}}
 - [PIXIES – Daniel Boone (Official Audio)](https://www.youtube.com/watch?v=ybT82QanNsE)
 - [PIXIES - On Graveyard Hill (Official Video)](https://www.youtube.com/watch?v=E2o-65chdoc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -45,4 +44,3 @@ styles: ["Indie Rock"]
 | Catalog Number | INFECT526LPC |
 
 Indies Edition in gatefold sleeve with lyric inner sleeve plus download code.   Tracks numbered sequentially regardless of sides.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
-
 ## Tracklisting
 1. All The Birds
 2. All I Need
@@ -38,9 +37,7 @@ styles: ["Folk"]
 - [Magic Ride](https://www.youtube.com/watch?v=TAPADzBL3jk)
 - [Circle Song](https://www.youtube.com/watch?v=ueees67-u68)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -48,6 +45,5 @@ styles: ["Folk"]
 | Label          | Nude Records |
 | Format         | LP, Album |
 | Catalog Number | NUDE 23 LP |
-
 
 

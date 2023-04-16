@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. 125 West 3rd Street (3:05)
 2. I'll Manage Somehow (2:35)
@@ -29,6 +28,8 @@ styles: ["Indie Rock", "Britpop"]
 12. Stardust (Reprise) (1:12)
 13. Bones and Red Meat
 14. We Love You
+## Spotify
+{{< spotify type="album" id="2SYYVAjUEVuXxMSKWquRhi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NO4_BjbLCqY" title="MENSWEAR-BEING BRAVE" >}}
@@ -37,9 +38,7 @@ styles: ["Indie Rock", "Britpop"]
 - [Menswear - Daydreamer (Official Music Video)](https://www.youtube.com/watch?v=oRwlD6qyMF0)
 - [Menswear - Stardust (Official Video)](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -49,4 +48,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | DEMREC 654 |
 
 Record Store Day 2020 DROP#3 release.
-

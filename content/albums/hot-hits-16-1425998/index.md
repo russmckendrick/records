@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ---
-
 ## Tracklisting
 1. Blockbuster
 2. You're So Vain
@@ -29,9 +28,7 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 12. Wishing Well
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1973 |
@@ -41,4 +38,3 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 | Catalog Number | MFP 50056 |
 
 Album consists of various unaccredited session artists recreating the hits of the day.  ℗ 1973  BWD Productions  A BWD Production  Made in England.     
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ---
-
 ## Tracklisting
 1. Herd Killing
 2. Dead Cities
@@ -28,6 +27,8 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 11. Yage
 12. Vit Drowning / Through Your Gills I Breathe
 13. First Death In The Family
+## Spotify
+{{< spotify type="album" id="2xHvAxrgMfKrYIicQVT9ay" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1lTseaEvDSQ" title="Future Sound Of London - Dead Cities (Official Video)" >}}
@@ -55,9 +56,7 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 - [The Future Sound Of London  ISDN](https://www.youtube.com/watch?v=wvCILJjTlnI)
 - [FSOL - Dead Cities Full Album 1996](https://www.youtube.com/watch?v=WrfYrxvnvzI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -67,4 +66,3 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 | Catalog Number | 3537463, 0602435374635 |
 
 Comes with a [free digital download](https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008) code redeemable at [l1052727].  Gatefold cover.  Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print.
-

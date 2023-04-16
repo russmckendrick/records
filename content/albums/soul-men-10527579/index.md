@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Soul Man (2:36)
 2. May I Baby (2:38)
@@ -26,6 +25,8 @@ styles: ["Soul"]
 9. The Good Runs The Bad Way (2:15)
 10. Rich Kind Of Poverty (2:13)
 11. I've Seen What Loneliness Can Do (2:58)
+## Spotify
+{{< spotify type="album" id="1DThdjKvkvxYaqlDUnQGzK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Sh_ujzyu78o" title="Let It Be Me" >}}
@@ -36,9 +37,7 @@ styles: ["Soul"]
 - [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
 - [Sam And Dave  I'm With You](https://www.youtube.com/watch?v=gTxg0V_Jkuk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Soul"]
 | Catalog Number | 081227940577, 725 |
 
 Originally released on Stax in 1967 Manufactured in E.U. STAX 60 (60th Anniversary) Sticker 
-

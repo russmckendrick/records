@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "House", "Big Beat"]
 ---
-
 ## Tracklisting
 1. Come With Us
 2. It Began In Afrika
@@ -25,6 +24,8 @@ styles: ["Breakbeat", "House", "Big Beat"]
 8. Denmark
 9. Pioneer Skies
 10. The Test
+## Spotify
+{{< spotify type="album" id="56nVadPbdCs1yGB0AtXSGp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0S43IwBF0uM" title="The Chemical Brothers - Star Guitar (Official Music Video)" >}}
@@ -35,9 +36,7 @@ styles: ["Breakbeat", "House", "Big Beat"]
 - [The Chemical Brothers - Denmark](https://www.youtube.com/watch?v=HlH3yazN7Ow)
 - [Chemical Brothers - Pioneer Skies](https://www.youtube.com/watch?v=8iDzLlDOUio)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2002 |
@@ -47,4 +46,3 @@ styles: ["Breakbeat", "House", "Big Beat"]
 | Catalog Number | ASW 11682, 7243 8 11682 1 9 |
 
 Gatefold sleeve  Come With Us contains a sample from the recording 'The Evidence' licensed courtesy of G. Chemouny and J. Claudel. It Began In Afrika contains a sample from 'Drumbeat' performed by Jim Ingram. Star Guitar contains a sample from 'Fly To Venus' (Electronic System, licensed courtesy by Dan Lacksman) Hoops features samples from The Association recording 'Round Again'. Elastic Eye contains elements sampled from 'Tic Tac Nocturne' (Estardy). Pioneer Skies contains elements sampled from 'Yellow Train' (Camison/Bacheler). The Test contains part of the improvisation performed by C. Niemen in the recording 'Pielgrzym'. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Deadwing (9:46)
 2. Shallow (4:16)
@@ -26,6 +25,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Glass Arm Shattering (6:13)
 10. So Called Friend  (4:48)
 11. Half-Light (6:20)
+## Spotify
+{{< spotify type="album" id="2oQE67Gnc1GoMqoumvjPwN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gZDE8UGVQyU" title="Deadwing" >}}
@@ -39,9 +40,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [The Start of Something Beautiful](https://www.youtube.com/watch?v=x_O8HZpkaH0)
 - [Glass Arm Shattering](https://www.youtube.com/watch?v=HwgLkvHM6js)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -51,4 +50,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | KSCOPE982 |
 
 Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone. Some elements retained from demos recorded 2003-04.  Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion  Remastered  by SW November 2017  Gatefold cover with printed inner sleeves. 
-

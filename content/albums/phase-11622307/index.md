@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Jazz-Funk"]
 ---
-
 ## Tracklisting
 1. The Magnificent Moon (8:52)
 2. Zwango Zop (4:49)
@@ -21,6 +20,8 @@ styles: ["Jazz-Funk"]
 4. Phase (6:19)
 5. Two Horizons (6:04)
 6. The Gloves Don't Bite (6:47)
+## Spotify
+{{< spotify type="album" id="2YuHj1L5CPyZaFYrBfgbu6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LCXU2OQW-Nc" title="Mildlife - The Magnificent Moon [Audio] (1 of 6)" >}}
@@ -30,9 +31,7 @@ styles: ["Jazz-Funk"]
 - [Mildlife - Two Horizons [Audio] (5 of 6)](https://www.youtube.com/watch?v=8N4PrhKe-NE)
 - [Mildlife - The Gloves Don't Bite [Audio] (6 of 6)](https://www.youtube.com/watch?v=VtnpOpHdfiw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,4 +41,3 @@ styles: ["Jazz-Funk"]
 | Catalog Number | RESEARCH02 |
 
 First pressing, edition of 1000. First 400 orders include one of four Mildlife trading cards.  This pressing has been re-cut on October 1, 2018.  Research Records 2018
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Brave Captain (12:37)
 2. On The Racing Line (5:12)
@@ -23,15 +22,15 @@ styles: ["Prog Rock"]
 6. The Ivy Gate (7:27)
 7. As The Crow Flies (6:44)
 8. A Mead Hall In Winter (15:20)
+## Spotify
+{{< spotify type="album" id="3YBGYpPgEcC8Tszi9ufIYS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Aaf1XDtWVNk" title="Grimspound" >}}
 - [Brave Captain](https://www.youtube.com/watch?v=m8M6KG1e-jU)
 - [A Mead Hall in Winter](https://www.youtube.com/watch?v=52lrA-D7aKA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -41,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PLG050 |
 
 Limited edition Opaque Vinyl version which also came with a signed postcard
-

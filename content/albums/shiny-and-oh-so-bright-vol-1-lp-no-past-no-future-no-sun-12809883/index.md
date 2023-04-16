@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Knights Of Malta
 2. Silvery Sometimes (Ghosts)
@@ -25,9 +24,7 @@ styles: ["Alternative Rock"]
 8. Seek And You Shall Destroy
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -37,4 +34,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | NPR807VINYL |
 
 Gatefold sleeve Includes booklet 16 pages & download card.
-

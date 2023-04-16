@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash", "Nu Metal"]
 ---
-
 ## Tracklisting
 1. Roots Bloody Roots
 2. Attitude
@@ -43,6 +42,8 @@ styles: ["Thrash", "Nu Metal"]
 26. Untitled (Demo)
 27. R.D.P. (Demo)
 28. Dusted (Demo)
+## Spotify
+{{< spotify type="album" id="5JjnPCfpp6redrkKpXZAs8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0TanJ9jf-p4" title="Sepultura - Attitude [OFFICIAL VIDEO]" >}}
@@ -50,9 +51,7 @@ styles: ["Thrash", "Nu Metal"]
 - [Sepultura - Roots Bloody Roots [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=F_6IjeprfEs)
 - [Sepultura - Ratamahatta [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=NiwqRSCWw2g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -62,4 +61,3 @@ styles: ["Thrash", "Nu Metal"]
 | Catalog Number | R562035 |
 
 Newly remastered on 180G Vinyl. Bonus LP with rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with plain white lined inner sleeves.  LP1; C1,C2: Roots. (2017 remaster) C3-D8: Bonus tracks 
-

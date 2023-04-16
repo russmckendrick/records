@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Insight
 2. Astral Architecture
@@ -27,15 +26,15 @@ styles: ["Prog Rock"]
 10. Penrose Stairs
 11. Storyteller 
 12. The Best Of Days
+## Spotify
+{{< spotify type="album" id="76u6r3rbepB6621MXHm0mo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Yi1uHl8uy6E" title="Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)" >}}
 - [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
 - [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -45,4 +44,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE973 |
 
 Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.  Ⓟ 2018 Kscope Ⓒ 2018 Kscope  Made in the EU.
-

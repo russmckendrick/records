@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Mary The Gypsy (3:07)
 2. High Water (5:45)
@@ -27,14 +26,14 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 10. You Found Me (4:53)
 11. Can You See (3:10)
 12. Open Up (3:49)
+## Spotify
+{{< spotify type="album" id="3z8FbevRLs0onM4zOPGi9D" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="C9FkRy4xsa0" title="The Magpie Salute ~ High Water" >}}
 - [The Magpie Salute - High Water](https://www.youtube.com/watch?v=Z4h20Rr3a9s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +43,3 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 | Catalog Number | PRD7558 1 |
 
 Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster.   Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. What You're Proposing (4:15)
 2. Run To Mummy (3:08)
@@ -39,9 +38,7 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 - [Status Quo ‎– What You're Proposing](https://www.youtube.com/watch?v=ZSSLFV7JQxU)
 - [Status Quo ‎– Don't Drive My Car](https://www.youtube.com/watch?v=YRx923Rmvgc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -49,6 +46,5 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723773 |
-
 
 

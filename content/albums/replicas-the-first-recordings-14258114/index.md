@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. You Are In My Vision (Early Version)
 2. The Machmen (Early Version)
@@ -58,9 +57,7 @@ styles: ["New Wave"]
 - [Down in the Park (BBC Peel Sessions)](https://www.youtube.com/watch?v=Wdl5--cSVe8)
 - [I Nearly Married a Human (BBC Peel Sessions)](https://www.youtube.com/watch?v=NTMKk8GrN4M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -70,4 +67,3 @@ styles: ["New Wave"]
 | Catalog Number | BBQ2159LP |
 
 40th Anniversary Edition  Signed copies available at gigs two weeks prior to official release   ℗ & © 2019 Beggars Banquet, The Arkive  Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London. Side Four Recorded at BBC Maida Vale Studios London.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. The New Stone Age
 2. She's Leaving
@@ -24,6 +23,8 @@ styles: ["Synth-pop"]
 7. Architecture & Morality
 8. Georgia
 9. The Beginning And The End
+## Spotify
+{{< spotify type="album" id="6bR98XzGnklTORDvZ7Oc2i" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XDIYOiQUi2s" title="Orchestral Manoeuvres In The Dark - Souvenir" >}}
@@ -38,9 +39,7 @@ styles: ["Synth-pop"]
 - [Georgia (2003 Digital Remaster)](https://www.youtube.com/watch?v=aZOXVKu91-A)
 - [The Beginning And The End (2003 Digital Remaster)](https://www.youtube.com/watch?v=TCLZiooXbxA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0602557050820 |
 
 Half Speed Mastered at Abbey Road Studios Includes Digital Download Card  Pre-recorded at The Gramophone Suite (Liverpool, England).  Choral tapes on "Souvenir" courtesy of David Hughes. Title suggested by M. Ladly from a book by David Watkin. Produced and created for White Noise Ltd. and on behalf of Architettura Industria.  © 2018 Virgin Records  Ltd.
-

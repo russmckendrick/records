@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Done Bleeding
 2. Younger
@@ -29,6 +28,8 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 12. Sicilian Crest
 13. Sentries In The Ambush
 14. Divided Sky Lane
+## Spotify
+{{< spotify type="album" id="5y9OP5VLb8oA1uBj31rxoO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="987MTbOl0mc" title="The Mountain Goats Younger" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 - [The Mountain Goats Sicilian Crest (Official Audio)](https://www.youtube.com/watch?v=yHDsTbMcm_k)
 - [The Mountain Goats ★ Done Bleeding [HQ]](https://www.youtube.com/watch?v=5q5autRy7RU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,4 +47,3 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 | Catalog Number | MRG679A |
 
  Peak Vinyl version version on green vinyl. Housed in a gatefold jacket with full lyrics. Includes an exclusive black vinyl 7" featuring two non-album tracks, a full download of the album and bonus tracks and a poster.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Experimental", "Ambient"]
 ---
-
 ## Tracklisting
 1. First Rendez-vous (2:54)
 2. Second Rendez-vous (10:55)
@@ -21,6 +20,8 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 4. Fourth Rendez-vous (3:57)
 5. Fifth Rendez-vous (7:41)
 6. Last Rendez-vous: "Ron's Piece" (6:04)
+## Spotify
+{{< spotify type="album" id="3YrKqMhEdhdvS3BrmKurFr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qcf3eGVPlZE" title="Jean Michel Jarre - Rendez Vous" >}}
@@ -32,9 +33,7 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 - [Last Rendez Vous (Remastered)](https://www.youtube.com/watch?v=kJDzaG1AJco)
 - [Jean Michel Jarre - Rendez-vous](https://www.youtube.com/watch?v=URaWRK7vqDE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -44,4 +43,3 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 | Catalog Number | POLH 27, 829 125-1 |
 
 Ron McNair's part played by Pierre Gossez. The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.  The label carries the catalogue number POLH 27 as well as (829 125-1).  Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.
-

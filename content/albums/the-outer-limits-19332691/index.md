@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Fix My Heart (4:56)
 2. Moonbeam Rider (4:10)
@@ -24,6 +23,8 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 7. Jack Luminous (17:28)
 8. Wrong-Way Street (3:50)
 9. We Are Not Alone (4:26)
+## Spotify
+{{< spotify type="album" id="0EevA0t8Qcxh4TFLtBQPyo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mDDnItbRNQM" title="(1993) VOIVOD - The Lost Machine __video__" >}}
@@ -44,9 +45,7 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 - [Voivod - Time Warp](https://www.youtube.com/watch?v=N6My8xxx5xA)
 - [Le Pont Noir](https://www.youtube.com/watch?v=tbxwPnPA5yM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -56,4 +55,3 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 | Catalog Number | RGM-1320 |
 
 Limited edition "Rocket Fire Red" with black smoke vinyl pressing.  CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286
-

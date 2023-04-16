@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock", "African"]
 ---
-
 ## Tracklisting
 1. The Boy In The Bubble (3:59)
 2. Graceland (4:48)
@@ -26,6 +25,8 @@ styles: ["Pop Rock", "African"]
 9. Crazy Love Vol II (4:17)
 10. That Was Your Mother (2:51)
 11. All Around The World Or The Myth Of Fingerprints (3:15)
+## Spotify
+{{< spotify type="album" id="6WgGWYw6XXQyLTsWt7tXky" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al (Official Video)" >}}
@@ -48,9 +49,7 @@ styles: ["Pop Rock", "African"]
 - [Paul Simon - Crazy Love (Demo - Official Audio)](https://www.youtube.com/watch?v=LfG5lOsE5fE)
 - [The Story of Graceland as Told by Paul Simon](https://www.youtube.com/watch?v=ZHaGhF_vhjk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -60,4 +59,3 @@ styles: ["Pop Rock", "African"]
 | Catalog Number | WX 52 |
 
 All Rights in the U.K. & Eire controlled by Pattern M. Ltd. Embossed horseman picture on front cover (very slightly raised).
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Kingdom Come
 2. Is It Like Today?
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. Rescue Me
 10. Sunshine
 11. All I Gave
+## Spotify
+{{< spotify type="album" id="534yKA6eUgPJwhRRY6dLXe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YHxPgl8YFmk" title="World Party - Let the Kindom Come" >}}
@@ -41,9 +42,7 @@ styles: ["Alternative Rock"]
 - [World Party - All I Gave](https://www.youtube.com/watch?v=AEgz_PD2S9c)
 - [kuwait city](https://www.youtube.com/watch?v=ApDAgCEgnS8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | seaview 3LP |
 
 With printed inner sleeve.  "Sooner or Later" erroneously listed as last song on A side on both jacket and label. "Give It All Away (Reprise)" is not included though it appears on both jacket and label.  Tracks for additional engineering credit by Joe Blaney are not specified on this release, but other versions (including [r8181374] and [r3184051]) identify this credit only for "Radio Days," "Sunshine" and "All I Gave".   Rear cover & labels: Manufactured in the USA
-

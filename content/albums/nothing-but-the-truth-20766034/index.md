@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Versions Of The Truth
 2. In Exile
@@ -32,6 +31,8 @@ styles: ["Prog Rock"]
 15. Threatening War
 16. The Swell
 17. The Final Thing On My Mind 
+## Spotify
+{{< spotify type="album" id="1BrLpPMTVcKxKp25pc4HBA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wN2UoQLf-so" title="Versions of the Truth (Nothing But The Truth)" >}}
@@ -53,9 +54,7 @@ styles: ["Prog Rock"]
 - [The Final Thing on My Mind (Nothing But The Truth)](https://www.youtube.com/watch?v=fODhYXZCRmo)
 - [Drum Cam Split Screen - Our Mire by The Pineapple Thief (From 'Nothing But The Truth')](https://www.youtube.com/watch?v=Ylxs0xVvSDo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -65,4 +64,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE1136 |
 
 Gavin Harrison - Drums Steve Kitch - Keyboards Bruce Soord - Guitars and vocals Jon Sykes - Bass guitar and backing vocals George Marios - Guitars and backing vocals - Mixed by - Bruce Soord and Gavin Harrison Mastered by - Steve Kitch at Steve Kitch mastering Artwork by - Michael Schoenholtz Design and layout by - Beech Photographer - Greg Holland Publisher - Universal/MCA Music Ltd Squatter Madras Music and Bruce Soord
-

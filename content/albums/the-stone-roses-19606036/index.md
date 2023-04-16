@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Other Side
 2. I Wanna Be Adored
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Shoot You Down
 12. This Is The One
 13. I Am The Resurrection
+## Spotify
+{{< spotify type="album" id="0um9FI6BLBldL5POP4D4Cw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Indie Rock"]
 - [The Stone Roses - This Is the One (Audio)](https://www.youtube.com/watch?v=DbyrOBVDtR4)
 - [The Stone Roses - I Am the Resurrection (Audio)](https://www.youtube.com/watch?v=vY9g-PgSiGA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -55,4 +54,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 19439894221, 88843041991 |
 
 HMV exclusive with obi strip. Limited to 2000 copies.  ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited  A4 is credited as as Another Schroeder/Garage Flower Production
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Heaven And Hell (5:06)
 2. I Can't Explain (2:26)
@@ -48,11 +47,11 @@ styles: ["Blues Rock", "Hard Rock"]
 31. Shakin' All Over (4:34)
 32. My Generation (15:24)
 33. Magic Bus (7:54)
-
+## Spotify
+{{< spotify type="album" id="6W3aTLI4B5UsPpWMvhT2W4" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -62,4 +61,3 @@ styles: ["Blues Rock", "Hard Rock"]
 | Catalog Number | 0600753698075 |
 
 Back To Black half-speed mastering reissue of the full show.  Triple gatefold sleeve that comes with :  - a download card  - a "Mastered at Abbey Road Studios" black OBI - a half-speed mastering certificate - 3 printed inner sleeves  No label edge credits on sides 2, 4 & 6. Sides 1, 3 & 5 have credits.  ℗ 2016 Polydor Ltd. (UK) © 2016 Polydor Ltd. (UK)  Runout details: Everything is laser etched except hand etched "MILES. ABBEY ROAD ½ SPEED.".
-

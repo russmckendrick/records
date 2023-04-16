@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Hank
 2. Coming Home (Pt.2)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Better Than That
 11. Mask
 12. What's It All About
+## Spotify
+{{< spotify type="album" id="7naQYNSUpzEPPXoqUBv6HU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="v_Vf8dNikAk" title="James – ‘HANK’ (Official Audio)" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock"]
 - [James - Extraordinary Times - Wembley Arena, London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
 - [James – The making of  ‘Living In Extraordinary Times’](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | INFECT438ELP1 |
 
 Indie Stores Exclusive Magenta Coloured Vinyl Gatefold Jacket 180 Gram Vinyl Includes Download Code 
-

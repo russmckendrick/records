@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. The Lamb Lies Down On Broadway
 2. Fly On A Windshield
@@ -38,6 +37,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 21. Riding The Scree
 22. In The Rapids
 23. It
+## Spotify
+{{< spotify type="album" id="49BxISwAbZZfmlhqD6Vh88" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2yUN6CsuVPw" title="Genesis - The Carpet Crawlers" >}}
@@ -51,9 +52,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Peter Gabriel...The Carpet Crawlers.](https://www.youtube.com/watch?v=44b_Xr0fNwQ)
 - [Genesis - The Lamb Lies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=hioAbdhfN_w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -63,4 +62,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | 602567489856 |
 
 Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.  Printed on center label of record one: "6478992 Record One" Printed on center label of record two: "6749005 Record One" Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.  ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Comes with download code.  Made in the Eu
-

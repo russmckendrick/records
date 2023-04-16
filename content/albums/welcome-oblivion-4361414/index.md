@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Electro"]
 ---
-
 ## Tracklisting
 1. The Wake-Up (1:43)
 2. Keep It Together  (4:27)
@@ -45,6 +44,8 @@ styles: ["Industrial", "Electro"]
 28. We Fade Away (6:41)
 29. The Loop Closes  (4:50)
 30. Hallowed Ground (7:17)
+## Spotify
+{{< spotify type="album" id="7GbRsK5uQvjenixMQzz0mA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jQM-laUav_g" title="How to Destroy Angels - Welcome Oblivion (Full Album)" >}}
@@ -56,9 +57,7 @@ styles: ["Industrial", "Electro"]
 - [How To Destroy Angels - The loop closes](https://www.youtube.com/watch?v=gY2VADkYanQ)
 - [Strings and Attractors - How To Destroy Angels](https://www.youtube.com/watch?v=2JLxrq0KLVY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -68,4 +67,3 @@ styles: ["Industrial", "Electro"]
 | Catalog Number | 88765475461 |
 
 Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.  Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)  ℗ 2013 & © 2012, 2013 HDTA, LLC
-

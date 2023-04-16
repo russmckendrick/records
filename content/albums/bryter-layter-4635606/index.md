@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Introduction (1:33)
 2. Hazey Jane II (3:41)
@@ -25,6 +24,8 @@ styles: ["Folk Rock"]
 8. Poor Boy (6:30)
 9. Northern Sky (3:42)
 10. Sunday (3:39)
+## Spotify
+{{< spotify type="album" id="04FfqGvZJ9oUBGRVrq2FE5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jciIE7lh4hw" title="Introduction" >}}
@@ -38,9 +39,7 @@ styles: ["Folk Rock"]
 - [Northern Sky](https://www.youtube.com/watch?v=BBBkFWXiL9Q)
 - [Sunday](https://www.youtube.com/watch?v=MkCZABD6Z68)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -50,4 +49,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 0602537347551 |
 
 ℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company. Made in the EU.  Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format: -24 bit / 96 kHz FLAC -24 bit / 96 kHz 320 Kbps MP3 -"Dubbed From Disc" 320 Kbps MP3  Adam Nunn's credit does not appear on release. Universal Music Group International appears on sticker and coupon only.  Cut from a tape-copy of original masters.
-

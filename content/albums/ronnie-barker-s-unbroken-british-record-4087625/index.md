@@ -13,7 +13,6 @@ cover:
 genres: ["Non-Music", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ---
-
 ## Tracklisting
 1. The Irish Medley:
 2. Plain Speaking
@@ -27,9 +26,7 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 10. The Welsh Medley:
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -39,4 +36,3 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 | Catalog Number | NE 1029 |
 
 Produced & Co-ordinated by John Schroeder. A Smug Production.
-

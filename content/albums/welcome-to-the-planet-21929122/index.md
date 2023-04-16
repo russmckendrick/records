@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Made From Sunshine  (4:05)
 2. The Connection Plan  (3:56)
@@ -24,14 +23,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. Bats In The Belfry  (4:54)
 8. Oak And Stone  (7:13)
 9. Welcome To The Planet  (6:40)
+## Spotify
+{{< spotify type="album" id="4GbXSOXXIWzoqbsI3u7rRu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}
 - [B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)](https://www.youtube.com/watch?v=xuBVD39b4cw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -41,4 +40,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | PLG105 |
 
 Packaged in a single jacket with 2-page color lyric insert, black LP sleeve and hype sticker affixed to the shrink wrap on the front.
-

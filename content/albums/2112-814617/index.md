@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. 2112
 2. A Passage To Bangkok (3:30)
@@ -21,13 +20,13 @@ styles: ["Hard Rock", "Prog Rock"]
 4. Lessons (3:48)
 5. Tears (3:29)
 6. Something For Nothing (3:56)
+## Spotify
+{{< spotify type="album" id="5g5aKkI0ExfU4kDvADP6JK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AZm1_jtY1SQ" title="Rush - 2112 [HD FULL SONG]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -37,4 +36,3 @@ styles: ["Hard Rock", "Prog Rock"]
 | Catalog Number | 9100 039 |
 
 ℗ 1976 Phonogram Inc.  Runouts are stamped except for the 'PR' on side A which is etched.
-

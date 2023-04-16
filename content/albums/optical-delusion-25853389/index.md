@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
-
 ## Tracklisting
 1. Ringa Ringa (The Old Pandemic Folk Song)
 2. Day One
@@ -25,6 +24,8 @@ styles: ["Techno"]
 8. Requiem For The Pre-Apocalypse
 9. What A Surprise
 10. Moon Princess
+## Spotify
+{{< spotify type="album" id="2jQbFspnSh7erex6RDKQGJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QXJZxv9M0PM" title="Orbital - Optical Delusion (2023)" >}}
@@ -39,9 +40,7 @@ styles: ["Techno"]
 - [What a Surprise](https://www.youtube.com/watch?v=Lq8PEoEq8Y8)
 - [Moon Princess](https://www.youtube.com/watch?v=74BoaOdnEqA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -49,6 +48,5 @@ styles: ["Techno"]
 | Label          | London Records, Orbital Recordings |
 | Format         | 2xLP, Album, Ltd, Whi |
 | Catalog Number | LMS5521861 |
-
 
 

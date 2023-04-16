@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Universal
 2. Walking On The Milky Way
@@ -27,6 +26,8 @@ styles: ["Synth-pop"]
 10. If You're Still In Love With Me
 11. New Head
 12. Victory Waltz
+## Spotify
+{{< spotify type="album" id="0wIzd1i5eg9UuOMyjpfS6T" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LdF4ejCuzTk" title="OMD Universal Vinyl LP Walking in the Milky Way" >}}
@@ -34,9 +35,7 @@ styles: ["Synth-pop"]
 - [Walking On The Milky Way](https://www.youtube.com/watch?v=GeXNQqlyMfw)
 - [Very Close To Far Away](https://www.youtube.com/watch?v=GozYmddBK80)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -46,4 +45,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0602435422589, 3542258 |
 
 An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files).
-

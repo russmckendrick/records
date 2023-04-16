@@ -1,6 +1,6 @@
 ---
-title: "Atoms For Peace (2) - Amok"
-artist: "Atoms For Peace (2)"
+title: "Atoms For Peace - Amok"
+artist: "Atoms For Peace"
 album_name: "Amok"
 date: 2018-01-06
 release_id: "4312273"
@@ -8,12 +8,11 @@ slug: "amok-4312273"
 hideSummary: true
 cover:
     image: "amok-4312273.jpg"
-    alt: "Amok by Atoms For Peace (2)"
-    caption: "Amok by Atoms For Peace (2)"
+    alt: "Amok by Atoms For Peace"
+    caption: "Amok by Atoms For Peace"
 genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 ---
-
 ## Tracklisting
 1. Before Your Very Eyes...
 2. Default
@@ -33,6 +32,8 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 16. Judge Jury And Executioner (3:28)
 17. Reverse Running (5:06)
 18. Amok (5:24)
+## Spotify
+{{< spotify type="album" id="77Ie9frENeQwYUGHrrS0pk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1GQF9y2dKv8" title="Atoms For Peace - Before Your Very Eyes" >}}
@@ -54,16 +55,13 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 - [Atoms for Peace - Time Was Dropped](https://www.youtube.com/watch?v=v4tprVlFZDY)
 - [Atoms For Peace  - Judge Jury and Executioner](https://www.youtube.com/watch?v=LmNXMAQhp-I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
-| Discogs Link   | [Atoms For Peace (2) - Amok](https://www.discogs.com/release/4312273-Atoms-For-Peace-Amok) |
+| Discogs Link   | [Atoms For Peace - Amok](https://www.discogs.com/release/4312273-Atoms-For-Peace-Amok) |
 | Label          | XL Recordings, XL Recordings |
 | Format         | 2xLP, Album + CD, Album |
 | Catalog Number | XLLP583, XLLP 583 |
 
 Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way. Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.  P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd. Track durations not given on release.
-

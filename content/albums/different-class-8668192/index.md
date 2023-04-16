@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
-
 ## Tracklisting
 1. Mis-Shapes
 2. Pencil Skirt
@@ -27,6 +26,8 @@ styles: ["Britpop"]
 10. Underwear
 11. Monday Morning
 12. Bar Italia
+## Spotify
+{{< spotify type="album" id="3ly9T2L4pqTZijFgQssd3x" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yuTMWgOduFM" title="Pulp - Common People" >}}
@@ -39,9 +40,7 @@ styles: ["Britpop"]
 - [F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E.](https://www.youtube.com/watch?v=osDBZGu7QuE)
 - [Underwear](https://www.youtube.com/watch?v=-IArKcMSwxM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,4 +50,3 @@ styles: ["Britpop"]
 | Catalog Number | 4785288, 00602547852885 |
 
 Includes a custom inner sleeve. There is a print error on the inner sleeve which lists track 6 as LIVE BED SHOW DOYLE.  This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.  ℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU.
-

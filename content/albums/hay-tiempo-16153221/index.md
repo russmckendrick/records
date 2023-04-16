@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Country Rock", "Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Every Sounds A Melody (3:02)
 2. Wait For The Sun (3:22)
@@ -25,11 +24,11 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 8. Inside The Dream (3:12)
 9. Holding Tight (2:24)
 10. Tomorrow (3:59)
-
+## Spotify
+{{< spotify type="album" id="4wanbjhmr7hmCDpB5xuNNa" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -39,4 +38,3 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 | Catalog Number | DEMREC729 |
 
 In die cut sleeve, with die cut inner  From hype sticker: ¡Hay Tiempo! Britpop's Lost Album on vinyl for the very first time. 10 tracks pressed on 180g clear Vinyl 
-

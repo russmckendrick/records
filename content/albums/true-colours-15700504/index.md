@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Shark Attack
 2. I Got You
@@ -26,6 +25,8 @@ styles: ["Pop Rock"]
 9. Poor Boy
 10. How Can I Resist Her
 11. The Choral Sea
+## Spotify
+{{< spotify type="album" id="5UjwQ3co1TWY9458ojqjAj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}
@@ -37,9 +38,7 @@ styles: ["Pop Rock"]
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
 - [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -49,4 +48,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 5419707418 |
 
 40th Anniversary, special issue of the LP pressed in four colors of vinyl (green, blue, yellow, orange) and housed in one of four various covers. The covers were released in the original first four sleeve color combinations (yellow/blue, red/green, purple/yellow, blue/orange).
-

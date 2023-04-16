@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Disco"]
 ---
-
 ## Tracklisting
 1. Sueperman's Big Sister
 2. Pardon
@@ -45,9 +44,7 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 - [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
 - [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -57,4 +54,3 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 | Catalog Number | SEEZ 30 NP |
 
 Issued with a printed inner sleeve.
-

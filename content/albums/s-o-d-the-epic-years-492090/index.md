@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Goth Rock"]
 ---
-
 ## Tracklisting
 1. The Wheel
 2. Rainmaker
@@ -29,9 +28,7 @@ styles: ["Pop Rock", "Goth Rock"]
 ## Videos
 {{< youtube id="p-6rxCRTsK0" title="Spear Of Destiny-The Wheel.wmv" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -41,4 +38,3 @@ styles: ["Pop Rock", "Goth Rock"]
 | Catalog Number | 450872 1 |
 
 Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.  Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover.
-

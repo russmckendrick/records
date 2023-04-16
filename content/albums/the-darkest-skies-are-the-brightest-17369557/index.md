@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Agape
 2. Hurricane
@@ -37,15 +36,15 @@ styles: null
 20. Losing You
 21. Survive
 22. Love You Like I Love You
+## Spotify
+{{< spotify type="album" id="6MEBn5n2uktdaned7Zc91o" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WMuysO4TpWw" title="ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)" >}}
 - [ANNEKE VAN GIERSBERGEN - Hurricane (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=T8PA4w1iSug)
 - [ANNEKE VAN GIERSBERGEN - I Saw A Car (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=fCfoKtDs0XE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -55,4 +54,3 @@ styles: null
 | Catalog Number | IOMLP 577, 19439836481 |
 
 Comes as 180 gram black vinyl in a gatefold sleeve. Contains a two page printed lyrics sheet and the album on a CD. Front cover is signed when sold through Anneke van Giersbergen's online merchstore.     Made in the EU.
-

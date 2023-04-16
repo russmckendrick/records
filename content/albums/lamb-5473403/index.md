@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 ---
-
 ## Tracklisting
 1. Lusty
 2. God Bless
@@ -28,6 +27,8 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 11. Cotton Wool (Fila Brazillia Mix)
 12. Trans Fatty Acid (Kruder & Dorfmeister Remix)
 13. Gorecki (Global Communication Mix)
+## Spotify
+{{< spotify type="album" id="7FEBQOq6SXl4CsqR6wTTGy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EuWq_Gx0vjc" title="Lamb ‎– Lamb (Album, 1996)" >}}
@@ -45,9 +46,7 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 - [Lamb - Feela part 1](https://www.youtube.com/watch?v=glR2hFrq4ks)
 - [Lamb - Cotton Wool (Fila Brazillia mix)](https://www.youtube.com/watch?v=OcJNGptYif8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -57,4 +56,3 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 | Catalog Number | MOVLP854 |
 
 Standard Black Vinyl release.  180 gram audiophile vinyl. Insert with exclusive liner notes written by Lou Rhodes. Includes 3 bonus tracks.
-

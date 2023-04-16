@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Walk Away (3:15)
 2. Meadows (7:05)
@@ -21,6 +20,8 @@ styles: ["Classic Rock"]
 4. Time Out (4:20)
 5. Help Me Through The Night (3:42)
 6. Turn To Stone (8:47)
+## Spotify
+{{< spotify type="album" id="0MFwAFXyJzCiKihXmX9RpW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ip82v3MAYyA" title="Joe Walsh and Friends (1975)" >}}
@@ -41,9 +42,7 @@ styles: ["Classic Rock"]
 - [Meadows (Live)](https://www.youtube.com/watch?v=D6a4RY76V0g)
 - [Turn To Stone](https://www.youtube.com/watch?v=piWs3y443-A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -53,4 +52,3 @@ styles: ["Classic Rock"]
 | Catalog Number | MCL-1613 |
 
 Originally released 1976
-

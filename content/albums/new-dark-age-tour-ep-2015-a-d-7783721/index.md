@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Spider Island (5:15)
 2. New Dark Age (14:10)
@@ -25,9 +24,7 @@ styles: ["Post Rock"]
 - [CRIPPLED BLACK PHOENIX, Audio, Glasgow, November 2015, 'NEW DARK AGE'](https://www.youtube.com/watch?v=MBoSOT9m5Lw)
 - [Crippled Black Phoenix - Spider Island (Official Premiere)](https://www.youtube.com/watch?v=hfKAOVViEZU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -37,4 +34,3 @@ styles: ["Post Rock"]
 | Catalog Number | SOM 375LP, SOM 375LPCT |
 
 Sticker:  "Ltd to 500 copies worldwide With etched design on side B!"  "© & ℗ 2015 Season of Mist"  "This tour EP was recorded in 30 hours at Chapel Studio, Lincolnshire. With parts done at Cavesounds Studio, Stenungsund, Sweden & Wacka Playground (Also in Sweden)."  "[...] Mastered by Karl Daniel Lidén at Tri-Lamb Studio, Stockholm."  "Thanks to the following partisans for making this release possible -  Mattew Dunn, Fran, Tom and Andy at Chapel Studio, Karl Daniel Lidén, Sergio da Silva, Roger Johannessen, Richie Chappell, Michael Berberian, Todd Greene."  "(Additional "Bonus" Track Info) [Echoes](http://www.discogs.com/Crippled-Black-Phoenix-Se-Delan-OhEch-oes/master/884112) was previously recorded with Se Delan and released on [l40772] (In very limited numbers) Originally written and recorded by Pink Floyd."  The first catalog number is taken from the spine and from the labels, the second catalog number is taken from the sticker on the wrap.
-

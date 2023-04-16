@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Rise
 2. The Tracers
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Spiral Cities
 11. My Eternal 
 12. A Different Gun
+## Spotify
+{{< spotify type="album" id="14um9vHDZsoNRn28ymg9DQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vT_IlY0A4_0" title="Johnny Marr - Hi Hello - Official Music Video [HD]" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Johnny Marr - Walk Into The Sea - Official Music Video [HD]](https://www.youtube.com/watch?v=upGAJlhGWt4)
 - [Johnny Marr - Call The Comet - Official Album Trailer [HD]](https://www.youtube.com/watch?v=vWIdEwZvfp0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | NVLPH004 |
 
 Gatefold sleeve including digital download card. Vinyl held in a separate slim black sleeve in the right-hand compartment. The gatefold sleeve - once opened - features album artwork, credits and lyrics.  Shrink wrapped copies feature a black circular "JOHNNY MARR" sticker in upper right corner and a white barcode sticker on back cover to hide the barcode from the regular version [r12143164].  ℗ & © 2018 New Voodoo. All Rights reserved. The copyright in this sound recording is owned by Warner Music UK. Made in The EU. 
-

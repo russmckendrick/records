@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ---
-
 ## Tracklisting
 1. Savour (5:29)
 2. Big Ship (5:36)
@@ -46,9 +45,7 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 - [Big Ship](https://www.youtube.com/watch?v=fMxcqGFwntk)
 - [Savour](https://www.youtube.com/watch?v=PNAxcZ2LJuE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -56,6 +53,5 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 | Label          | Believers Roast |
 | Format         | 2xLP |
 | Catalog Number | BRR3LP |
-
 
 

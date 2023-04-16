@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Open Up Your Eyes (12:24)
 2. Mask Machine (6:06)
@@ -24,14 +23,14 @@ styles: ["Prog Rock"]
 7. One Love Forever (7:17)
 8. Peaceful Harbor (7:01)
 9. Cosmic Symphony (11:46)
+## Spotify
+{{< spotify type="album" id="3AK4qpcQtgygEHLRvRWn5q" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vXj2VF9eLYg" title="Flying Colors - Open Up Your Eyes" >}}
 - [Flying Colors - Cosmic Symphony](https://www.youtube.com/watch?v=mUYEWrsRSU4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -41,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | MTR 7443 1 |
 
 Includes a download card. Each pre-order will include a free bonus DVD, [r6141400] with behind the scenes footage, interviews and more, a poster and we will send you MP3s of 2 bonus songs that are not available on the album.   Made in the EU
-

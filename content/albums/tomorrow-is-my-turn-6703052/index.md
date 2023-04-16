@@ -13,7 +13,6 @@ cover:
 genres: ["Blues", "Folk, World, & Country"]
 styles: ["Folk", "Delta Blues"]
 ---
-
 ## Tracklisting
 1. Last Kind Words (4:14)
 2. Don't Let It Trouble Your Mind (3:40)
@@ -37,6 +36,8 @@ styles: ["Folk", "Delta Blues"]
 20. Shake Sugaree (4:24)
 21. O Love Is Teasin' (4:33)
 22. Angel City (3:53)
+## Spotify
+{{< spotify type="album" id="2dHKdmxoivYnUBg01aPGDg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uQJ0ylPcUuo" title="Rhiannon Giddens - Don't Let It Trouble Your Mind" >}}
@@ -51,9 +52,7 @@ styles: ["Folk", "Delta Blues"]
 - [Rhiannon Giddens - Black Is the Color](https://www.youtube.com/watch?v=eMHpLH0GXwg)
 - [Rhiannon Giddens - Shake Sugaree](https://www.youtube.com/watch?v=FqwRro2G-qA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -63,4 +62,3 @@ styles: ["Folk", "Delta Blues"]
 | Catalog Number | 541708-1 |
 
 Includes inlay sheet with lyrics, notes and credits
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ---
-
 ## Tracklisting
 1. Seeker Of The Serpent's Eye  (2:11)
 2. Starling (2:15)
@@ -30,6 +29,8 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 13. Burning Church (1:37)
 14. Memories (2:34)
 15. Children Of The New Dawn (5:31)
+## Spotify
+{{< spotify type="album" id="60f6ypxsKLEemkp4216Ood" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PKZEBhRX-TU" title="Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track" >}}
@@ -51,9 +52,7 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 - [Mandy 2018 Soundtrack | 08. Red | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=SSjKG4tUYIA)
 - [Mandy 2018 Soundtrack | 06. Death and Ashes | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=oFJ5AKF0WKw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -63,4 +62,3 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 | Catalog Number | LKSINV203LP |
 
 Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC.
-

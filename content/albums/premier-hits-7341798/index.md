@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Cars 
 2. I Die: You Die (3:43)
@@ -50,9 +49,7 @@ styles: ["Synth-pop"]
 - [Gary Numan - We Are Glass](https://www.youtube.com/watch?v=HVHnIiWpNig)
 - [We are Glass](https://www.youtube.com/watch?v=Hh5ftP9-IAw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -60,6 +57,5 @@ styles: ["Synth-pop"]
 | Label          | Beggars Banquet |
 | Format         | 2xLP, Comp, RE |
 | Catalog Number | BBQLP 2007 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Catholic Boy (3:05)
 2. Devil's Toe (0:57)
@@ -42,9 +41,7 @@ styles: ["Soundtrack", "Alternative Rock"]
 - [Flea - I've Been Down (River Phoenix Tribute)](https://www.youtube.com/watch?v=Ec2v9il6Qvs)
 - [Blind Dogs](https://www.youtube.com/watch?v=74oxX7LIssY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +51,3 @@ styles: ["Soundtrack", "Alternative Rock"]
 | Catalog Number | 0000879 |
 
 * Record Store Day 2019 Exclusive Release • Newly Created Gatefold Jacket • 2xLP Pressed on “Basketball Orange” Vinyl • First Vinyl Release of the Soundtrack • Record Store Day Exclusive • Limited to 2000 Copies!
-

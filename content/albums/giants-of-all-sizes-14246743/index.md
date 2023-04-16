@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Dexter & Sinister
 2. Seven Veils
@@ -24,6 +23,8 @@ styles: ["Indie Rock"]
 7. My Trouble
 8. On Deronda Road
 9. Weightless
+## Spotify
+{{< spotify type="album" id="4EqYFNisfHX1IPA0IoaKI2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-CR628yT7aE" title="elbow - Dexter & Sinister (Official)" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Rock"]
 - [elbow - Weightless (Lyrics)](https://www.youtube.com/watch?v=5vW5HpyPKME)
 - [elbow - The Delayed 3.15 (Lyrics)](https://www.youtube.com/watch?v=c7yOQloSClU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,4 +47,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 7764402, 00602577644023 |
 
 Heavyweight Black Vinyl + Download Card  A Polydor Records Release. ℗ & © 2019 Polydor Limited. All rights reserved. Made In Germany. BIEM/SDRM. LC 00309 7764402. 00602577644023.  elbow.co.uk Worldwide management: TRC Management Ltd mail@trcmanagement.com
-

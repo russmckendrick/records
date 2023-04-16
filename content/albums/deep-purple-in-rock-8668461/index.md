@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Speed King
 2. Bloodsucker
@@ -22,11 +21,11 @@ styles: ["Hard Rock"]
 5. Into The Fire
 6. Living Wreck
 7. Hard Lovin' Man
-
+## Spotify
+{{< spotify type="album" id="3llL1qaL2RvtyQAthAuRFS" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -36,4 +35,3 @@ styles: ["Hard Rock"]
 | Catalog Number | SHVL 777, 0825646035083 |
 
 180gr HMV exclusive limited edition on white with smokey grey and black vinyl (Marbled) Nb: Vinyl colour based on the 'rock' painting on the sleeve. Limited edition of 1000 copies. Gatefold sleeve.  Two stickers on cover shrink wrapping: Circular white sticker:  LIMITED EDITION MARBLED VINYL Rectangular black sticker: Deep Purple's First Studio Album with the Mark II line-up includes 'Speed King' & 'Child In Time' 180gm Vinyl 0825646035083 VINYL COLLECTOR [logo] INCLUDES DOWNLOAD CODE FOR  MP3 VERSION OF THE ALBUM WWW.THISISVINYLCOLLECTOR.COM  Made in the EU / Printed in the EU
-

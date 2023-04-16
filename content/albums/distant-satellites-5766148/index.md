@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Lost Song Part 1 (5:53)
 2. The Lost Song Part 2 (5:47)
@@ -25,6 +24,8 @@ styles: ["Prog Rock"]
 8. Firelight (2:44)
 9. Distant Satellites (8:18)
 10. Take Shelter (6:18)
+## Spotify
+{{< spotify type="album" id="4fs94SISHR2Ycv5dvzMqYy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)" >}}
@@ -34,9 +35,7 @@ styles: ["Prog Rock"]
 - [Anathema - The Making of the 'Distant Satellites' (clip) (from the Special Edition documentary)](https://www.youtube.com/watch?v=MsgFPDZKU3M)
 - [The Lost Song, Part 2 - Anathema](https://www.youtube.com/watch?v=2zgkx9FEWow)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -46,4 +45,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE866 |
 
 Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Punk", "New Wave"]
 ---
-
 ## Tracklisting
 1. Blondie
 2. X Offender
@@ -150,6 +149,8 @@ styles: ["Power Pop", "Punk", "New Wave"]
 133. War Child (Chris Stein Mix)
 134. Call Me (Chris Stein Mix)
 135. Heart Of Glass (Chris Stein Mix)
+## Spotify
+{{< spotify type="album" id="0xgjNfcoYavtty8592ehW9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bzVt7eerM28" title="Once I Had A Love (Betrock Demo)" >}}
@@ -184,9 +185,7 @@ styles: ["Power Pop", "Punk", "New Wave"]
 - [Call Me (Chris Stein Mix)](https://www.youtube.com/watch?v=CKShGxho-oA)
 - [Detroit 442 (Take 2)](https://www.youtube.com/watch?v=ugtslWVQ-g8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -196,4 +195,3 @@ styles: ["Power Pop", "Punk", "New Wave"]
 | Catalog Number | 00602508760693, 070 |
 
 Includes the first 6 studio albums plus 4 LPs, a 10" and a 7" with unreleased and rare material, a 144 page hardcover book and a 120 page photographic discography book.  Comes in a carton box which can be unfolded as a standup (Debbie Harry with Andy Warhol shirt)
-

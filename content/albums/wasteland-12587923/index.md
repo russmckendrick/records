@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. The Day After (1:48)
 2. Acid Rain (6:03)
@@ -33,6 +32,8 @@ styles: ["Prog Rock", "Progressive Metal"]
 16. River Down Below (5:41)
 17. Wasteland (8:25)
 18. The Night Before (3:59)
+## Spotify
+{{< spotify type="album" id="2x2TYXmboFBDvZnSPK15B2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament (OFFICIAL VIDEO)" >}}
@@ -41,9 +42,7 @@ styles: ["Prog Rock", "Progressive Metal"]
 - [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
 - [RIVERSIDE - Vale Of Tears (Album Track)](https://www.youtube.com/watch?v=001IMO53JwY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -53,4 +52,3 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Catalog Number | IOMLP 514, 19075871861 |
 
 Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap.  180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive.  IOMLP 514 on back, 19075871861 on back and lateral side.  
-

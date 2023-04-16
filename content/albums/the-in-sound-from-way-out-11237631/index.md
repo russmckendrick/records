@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
-
 ## Tracklisting
 1. Devant
 2. Ricky's Theme
@@ -29,6 +28,8 @@ styles: ["Instrumental"]
 12. Transitions
 13. Sabrosa
 14. Drinkin' Wine
+## Spotify
+{{< spotify type="album" id="0nA01XOVBUoi1zDVVYKz4i" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="k_UfHToc50E" title="Beastie Boys - 2 Sabrosa" >}}
@@ -41,9 +42,7 @@ styles: ["Instrumental"]
 - [beastie boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=7pONzCsX_kM)
 - [beastie boys - Transitions - The In Sound From Way Out!](https://www.youtube.com/watch?v=P_u-N4E-JkU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -53,4 +52,3 @@ styles: ["Instrumental"]
 | Catalog Number | 602557727920 |
 
 A Capitol Records release; (P) 1996 (C) 2017 Capitol Records, LLC. [...] Made in the EU. [...] Netherlands.  (at the bottom right of the back cover)
-

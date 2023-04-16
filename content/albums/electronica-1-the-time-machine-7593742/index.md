@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Electro", "Trance"]
 ---
-
 ## Tracklisting
 1. The Time Machine (3:54)
 2. Glory (4:12)
@@ -31,6 +30,8 @@ styles: ["Synth-pop", "Electro", "Trance"]
 14. Watching You (4:09)
 15. A Question Of Blood (2:58)
 16. The Train & The River (7:13)
+## Spotify
+{{< spotify type="album" id="2TeBcXsF6f0A6v0oxACUX5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pRwYx8w1clk" title="Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)" >}}
@@ -47,9 +48,7 @@ styles: ["Synth-pop", "Electro", "Trance"]
 - [Jean-Michel Jarre, Pete Townshend - Travelator, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=4xZQ5hX0xyk)
 - [Jean-Michel Jarre, M83 - Glory](https://www.youtube.com/watch?v=NF7OoJZPLJc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -59,4 +58,3 @@ styles: ["Synth-pop", "Electro", "Trance"]
 | Catalog Number | 88843018981 |
 
 ℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Gatefold sleeve with printed innersleeves. First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.  Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".
-

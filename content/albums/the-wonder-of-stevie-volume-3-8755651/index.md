@@ -13,7 +13,6 @@ cover:
 genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Gospel", "Disco"]
 ---
-
 ## Tracklisting
 1. Buttercup
 2. Have A Talk With God
@@ -52,9 +51,7 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 - [Go Home](https://www.youtube.com/watch?v=cVc-1zwqtbk)
 - [Don't You Worry About a Thing](https://www.youtube.com/watch?v=PpBBIwJTRU0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -62,6 +59,5 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 | Label          | BBE, !K7 Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | BBE358CLP |
-
 
 

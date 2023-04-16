@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 ---
-
 ## Tracklisting
 1. Heroes
 2. Post Requisite
@@ -42,6 +41,8 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 25. Land Of Honey
 26. Thank U Malcolm
 27. Hot Oct.
+## Spotify
+{{< spotify type="album" id="6tC2ERExm7n7JEDkHOEFs5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2XY0EHSXyk0" title="Flying Lotus - Post Requisite" >}}
@@ -92,9 +93,7 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 - [Thank U Malcolm](https://www.youtube.com/watch?v=lYPgHsI1mkw)
 - [Hot Oct.](https://www.youtube.com/watch?v=mRo8gxvhJCg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -104,4 +103,3 @@ styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 | Catalog Number | WARPLP291 |
 
 Rough Trade Shops exclusive edition pressed on red vinyl and issued in a gatefold sleeve with printed die-cut inner sleeves. All sleeves bear a glossy finish. Accompanied by an MP3 download card redeemable through the Bleep website. Limited to 1,000 copies.  "Black Balloons Reprise" contains a sample of "Ten Et Tiwa" by Alain Goraguer - © and ℗ Sugarmusic France S.a.r.l., courtesy of Creazioni Artistiche Musicali C.A.M. S.r.l.  Artwork collage contains elements of: Göran Nilsson, Hole Observatory - "Iris Nebula"; Harel Boren - "Chaotic Carina Nebula"; Chuck Ayoub - "Orion Nebula"; Rawastrodata - "The Horsehead Nebula"; Ken Crawford - "Cygnus Wall"; Dylan O'Donnell - "Carina The Keyhole Nebula"; NASA, ESA, and The Hubble Heritage Team - "NGC 3324 Hubble"; N. Smith (University of California, Berkeley) and NOAO/AURA/NSF - "Carina Nebula Detail"
-

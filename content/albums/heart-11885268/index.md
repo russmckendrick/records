@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. What The Snowman Learned About Love (5:15)
 2. Elevator Love Letter (4:03)
@@ -26,6 +25,8 @@ styles: ["Pop Rock", "Synth-pop"]
 9. Look Up (4:18)
 10. Life Effect (3:14)
 11. Don't Be Afraid To Sing (4:24)
+## Spotify
+{{< spotify type="album" id="7iehh77UNP03AllcLAB69M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xU7KGcrD_gc" title="Stars - Elevator Love Letter" >}}
@@ -33,9 +34,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Stars - Elevator Love Letter - Highbury Garage London 2012](https://www.youtube.com/watch?v=ziJ11tuiMuI)
 - [Stars - Heart](https://www.youtube.com/watch?v=aucFYXskEok)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -45,4 +44,3 @@ styles: ["Pop Rock", "Synth-pop"]
 | Catalog Number | LGE-LP-1940 |
 
 Limited edition of 500 copies on 140 gram Translucent Light Blue vinyl.
-

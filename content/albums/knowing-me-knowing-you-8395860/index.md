@@ -13,15 +13,12 @@ cover:
 genres: ["Non-Music"]
 styles: ["Comedy"]
 ---
-
 ## Tracklisting
 1. Knowing Me Knowing You, Broadcast BBC Radio 4, 8 December 1992
 2. Knowing Me Knowing You, Broadcast BBC Radio 4, 5 January 1993
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -31,4 +28,3 @@ styles: ["Comedy"]
 | Catalog Number | DEMREC138 |
 
 RSD April 2016 release.
-

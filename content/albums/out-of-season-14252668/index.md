@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Downtempo", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Mysteries
 2. Tom The Model
@@ -42,9 +41,7 @@ styles: ["Downtempo", "Folk Rock"]
 - [Beth Gibbons & Rustin Man-Funny Time Of Year (Live 11-11-2002)](https://www.youtube.com/watch?v=yUVh44DKWGU)
 - [Beth Gibbons & Rustin Man-Candy Says (Live 3-21-2003)](https://www.youtube.com/watch?v=JxJfIY0-ExE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +51,3 @@ styles: ["Downtempo", "Folk Rock"]
 | Catalog Number | 0602567891543, 678 915-4 |
 
 Heavyweight vinyl. Printed inner sleeve with pictures, lyrics and extensive credits.  Some copies include: Includes download card. Hype sticker on shrink wrap.  Catalogue numbers: 0602567891543 is listed on the record spine, rear sleeve, inner sleeve, and the labels. 678 915-4 is listed on the hype sticker.  Mastered [...] at The Townwnhouse  Beth Gibbons is published by Chrysalis Music, Paul Webb Copyright Control.  An Island Records release; ℗ 2019 Universal Music Operations Limited © 2019 Universal Music Operations Limited. Universal International Music B.V. Gerriti Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in EU.  Mysteries: Recorded at The Barn, Devon & Sanctuary Westside. Tom The Model: Recorded at Sanctuary Westside & Konk Studios. Show: Recorded at Sanctuary Westside & Konk Studios. Romance: Recorded at Sanctuary Westside & Konk Studios. Sand River: Recorded at Sanctuary Westside & Konk Studios. Spider Monkey: Recorded at The Barn, Devon & Sanctuary Westside. Resolve: Mix recorded at Sanctuary Westside. Drake: Recorded at Sanctuary Westside & Konk Studios. Funny Time Of Year: Recorded at Sanctuary Westside. Rustin Man: Mix recorded at Sanctuary Westside.
-

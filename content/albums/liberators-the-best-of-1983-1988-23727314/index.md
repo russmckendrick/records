@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
-
 ## Tracklisting
 1. The Wheel (3:10)
 2. Rainmaker (2:56)
@@ -29,9 +28,7 @@ styles: ["Alternative Rock", "New Wave"]
 12. Radio Radio (3:10)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -39,6 +36,5 @@ styles: ["Alternative Rock", "New Wave"]
 | Label          | Demon Records |
 | Format         | LP, Comp, Red |
 | Catalog Number | DEMREC1015 5014797907355 |
-
 
 

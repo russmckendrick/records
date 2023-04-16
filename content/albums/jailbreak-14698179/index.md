@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Jailbreak
 2. Angel From The Coast
@@ -24,6 +23,8 @@ styles: ["Hard Rock", "Classic Rock"]
 7. Fight Or Fall
 8. Cowboy Song
 9. Emerald
+## Spotify
+{{< spotify type="album" id="6Cf545T4jkaiyvMnTRPOB2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yFMVvSAeVO4" title="Jailbreak" >}}
@@ -33,9 +34,7 @@ styles: ["Hard Rock", "Classic Rock"]
 - [Thin Lizzy - Cowboy Song 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=8RXZ6UaZTOA)
 - [Thin Lizzy - Running Back 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=CBcMcaoi75s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -45,4 +44,3 @@ styles: ["Hard Rock", "Classic Rock"]
 | Catalog Number | 0802631, 00602508026317 |
 
 2020 reissue.  180g vinyl.  Die cut sleeve. Download-code.  ℗ 2014 © 2014 Made in Germany.  
-

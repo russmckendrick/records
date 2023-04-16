@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Blues", "Non-Music", "Pop", "Classical", "Folk, World, & Country"]
 styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Otis
 2. Rebel Waltz
@@ -37,9 +36,7 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 ## Videos
 {{< youtube id="V5Lreb5U87U" title="The Durutti Column - Otis" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +46,3 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 | Catalog Number | OGEN62LP, OGEN62LPC |
 
 Signed copies were available from recordstore.co.uk  Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Experimental", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Super Falling Star
 2. Orgiastic
@@ -26,6 +25,8 @@ styles: ["Experimental", "Indie Rock"]
 9. Enivrez-Vous
 10. Stomach Worm
 11. Surrealchemist
+## Spotify
+{{< spotify type="album" id="2YCKr94Hh3qjNoFfJO2pJb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UMqB3817qNU" title="Super Falling Star (2018 Remaster)" >}}
@@ -40,9 +41,7 @@ styles: ["Experimental", "Indie Rock"]
 - [Stomach Worm (2018 Remaster)](https://www.youtube.com/watch?v=5t-c9d8QAQg)
 - [Surrealchemist (2018 Remaster)](https://www.youtube.com/watch?v=5DlNE-LOEt4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -52,4 +51,3 @@ styles: ["Experimental", "Indie Rock"]
 | Catalog Number | PURE11LPX |
 
 Recorded - London April 1992 Re-mastered [...] @ Calyx, Berlin Published by Complete Music / Domino Publ. Co. Ltd Original sound recording made by Too Pure, London  ℗ & © 1992 Too Pure  Includes a double-sided insert with lyrics and liner notes discussing the album.
-

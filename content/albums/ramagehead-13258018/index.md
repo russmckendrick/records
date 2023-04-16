@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Kneel To Nothing
 2. Signals Erased
@@ -24,6 +23,8 @@ styles: ["Art Rock", "Prog Rock"]
 7. Down The Road
 8. Strangled Words
 9. Some Other Rainbow Part 2
+## Spotify
+{{< spotify type="album" id="7FgVn9zvqXBLorqffo9573" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rMfs1ph1ZGU" title="O.R.k. - Kneel To Nothing (from Ramagehead)" >}}
@@ -35,9 +36,7 @@ styles: ["Art Rock", "Prog Rock"]
 - [Some Other Rainbow (Pt. One)](https://www.youtube.com/watch?v=hNfrQUazSCE)
 - [Some Other Rainbow (Pt. Two)](https://www.youtube.com/watch?v=H47wv7OF0Qw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -47,4 +46,3 @@ styles: ["Art Rock", "Prog Rock"]
 | Catalog Number | KSCOPE1014 |
 
 Made in Germany.  Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.  Tracks numbered 1-9 on the back cover and labels.
-

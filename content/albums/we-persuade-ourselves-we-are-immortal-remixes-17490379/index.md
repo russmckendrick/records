@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. The Lutine Bell
 2. Günter & His Evil Soul Sacrifice Orchestra Play Black Mass A Gogo
@@ -33,9 +32,7 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ## Videos
 {{< youtube id="DRSO40Cs9ok" title="the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +42,3 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 | Catalog Number | LPTOT78 |
 
 Second pressing, 180g vinyl not numbered. Cat.# LPTOT78 (back cover, above the barcode).
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Love In Store (3:14)
 2. Can't Go Back (2:42)
@@ -27,6 +26,8 @@ styles: ["Pop Rock"]
 10. Oh Diane (2:33)
 11. Eyes Of The World (3:44)
 12. Wish You Were Here (4:45)
+## Spotify
+{{< spotify type="album" id="1dZNgJ3Gh3wp6ohzk29JUG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zq4YrbDoWRQ" title="Fleetwood Mac - 1982 - Mirage" >}}
@@ -37,9 +38,7 @@ styles: ["Pop Rock"]
 - [Wish You Were Here (2016 Remaster)](https://www.youtube.com/watch?v=sU1ioGkL4pU)
 - [Empire State (2016 Remaster)](https://www.youtube.com/watch?v=pnD4RTk0ciQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -49,4 +48,3 @@ styles: ["Pop Rock"]
 | Catalog Number | RCV1 23607, 60349785055 |
 
 Limited Edition Violet Coloured Vinyl. 
-

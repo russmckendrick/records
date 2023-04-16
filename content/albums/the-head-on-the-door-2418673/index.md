@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. In Between Days
 2. Kyoto Song
@@ -25,11 +24,11 @@ styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 8. A Night Like This
 9. Screw
 10. Sinking
-
+## Spotify
+{{< spotify type="album" id="4Uq47onfCEj5en94jpHovk" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -39,4 +38,3 @@ styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 | Catalog Number | 0042282723116 |
 
 180 gram vinyl remastered "Back to black" 60th vinyl anniversary series Includes a voucher to download MP3 version of the album Made in EU  Inner sleeve with printed lyrics Originally released in 1985 
-

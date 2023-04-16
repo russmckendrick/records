@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Going Backwards (5:41)
 2. Where's The Revolution (4:57)
@@ -27,6 +26,8 @@ styles: ["Synth-pop"]
 10. Poorman (4:25)
 11. No More (This Is The Last Time) (3:12)
 12. Fail (5:06)
+## Spotify
+{{< spotify type="album" id="4WkYJeMlLaNN1x5klAgeJu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jsCR05oKROA" title="Depeche Mode - Where's the Revolution (Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Synth-pop"]
 - [Poorman](https://www.youtube.com/watch?v=ctqhElIpWfc)
 - [You Move](https://www.youtube.com/watch?v=ohezg2Uq2Mw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 88985 41165 1 |
 
 Gatefold sleeve. Includes digital download card for 320 kbps MP3 versions of the tracks, see [r=10092754].  Publishers:þ Tracks A1 to A4, C2, C4 © 2015 Sony/ATV Music Corp. and Grabbing Hands Music Ltd. All rights on behalf of itself and Grabbing Hands Music Ltd. admin. by Sony/ATV Music Corp. (BMI). B1 © 2016 Sony/ATV Music Corp., Grabbing Hands Music Ltd. and JJSR Productions Inc. All rights on behalf of itself, Grabbing Hands Music Ltd. and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI). B2, B4 © 2015 Sony/ATV Music Corp., JJSR Productions Inc. and Reservoir/Reverb Music Ltd. All rights on behalf of itself and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI). B3, C1 © 2016 Sony/ATV Music Corp. and Grabbing Hands Music Ltd. All rights on behalf of itself and Grabbing Hands Music Ltd. admin. by Sony/ATV Music Corp. (BMI). C3 © 2015 Sony/ATV Music Corp. and JJSR Productions Inc. All rights on behalf of itself and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI) / Chocolate Robot (ASCAP). All rights on behalf of Chocolate Robot admin. by Kobalt Music Services America Inc. (KMSA).  © & ℗ 2017 Veunusnote Ltd., under exclusive license to Columbia Records, a division of Sony Music Entertainment. Made in the EU. 
-

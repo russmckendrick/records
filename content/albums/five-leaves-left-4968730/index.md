@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Time Has Told Me (3:56)
 2. River Man (4:28)
@@ -25,6 +24,8 @@ styles: ["Folk Rock"]
 8. Man In A Shed (3:49)
 9. Fruit Tree (4:42)
 10. Saturday Sun (4:00)
+## Spotify
+{{< spotify type="album" id="7IpcJbVxLLEfW0KXB7ndE2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XpR_OdvyRNI" title="The Thoughts Of Mary Jane" >}}
@@ -38,9 +39,7 @@ styles: ["Folk Rock"]
 - [Fruit Tree](https://www.youtube.com/watch?v=lBBeyHk8Gmw)
 - [Saturday Sun](https://www.youtube.com/watch?v=QwaqO3i_eQA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -50,4 +49,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 0602537347568, ILPS 9105 |
 
 Packaged in a gatefold sleeve. Includes a custom inner sleeve. Some copies include a digital download.  Remastered from a 24-bit digital file made from the original tape by the album's original engineer, John Wood at Abbey Road Studios.  All Songs [...] © 1969 Warlock Music Ltd.  Printed & Made by Ernest J. Day & Co. Ltd.
-

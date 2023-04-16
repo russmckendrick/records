@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Stand Above Me (3:33)
 2. Everyday (3:57)
@@ -27,6 +26,8 @@ styles: ["Synth-pop"]
 10. Best Years Of Our Lives (4:35)
 11. Christine (5:04)
 12. Only Tears (4:14)
+## Spotify
+{{< spotify type="album" id="0xAbHDjFGLyK4vz9ZYTop7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Vc-d3FGoxDI" title="Dream Of Me (Based On Love's Theme)" >}}
@@ -41,9 +42,7 @@ styles: ["Synth-pop"]
 - [Dollar Girl](https://www.youtube.com/watch?v=KT-1fnFOzuM)
 - [Christine](https://www.youtube.com/watch?v=oh4JiRbgpMY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -53,4 +52,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0602435422497, 3542249 |
 
 An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files).
-

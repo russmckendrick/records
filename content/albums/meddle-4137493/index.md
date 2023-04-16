@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. One Of These Days (5:50)
 2. A Pillow Of Winds (5:10)
@@ -21,11 +20,11 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 4. San Tropez (3:42)
 5. Seamus (2:09)
 6. Echoes (23:31)
-
+## Spotify
+{{< spotify type="album" id="468ZwCchVtzEbt9BHmXopb" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1971 |
@@ -35,4 +34,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | SHVL 795, IE 064 o 04917 |
 
 Green Harvest labels Fully textured sleeve, gatefold  Center labels:  The Gramophone Co, Ltd  Boxed EMI (above Harvest logo) Williamson Music Ltd. Chappell  World Copyrights Ltd.  Made in Gt. Britain  ℗ 1971   Sleeve: Recorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971. ℗ 1971  E.M.I Records (The Gramophone Company Ltd)  Hayes - Middlesex - England   Harvest - Trade mark of The Gramophone Co. Ltd. - A Company of The [EMI](https://www.discogs.com/label/293204) Group Made and printed in Great Britain  7110 TPS Printed and made by Garrod & Lofthouse Limited. Patent No. 1224339
-

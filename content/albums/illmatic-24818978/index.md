@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 ---
-
 ## Tracklisting
 1. 40 Side North
 2. The Genesis (1:45)
@@ -27,6 +26,8 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 10. One Time 4 Your Mind (3:18)
 11. Represent (4:13)
 12. It Ain't Hard To Tell (3:22)
+## Spotify
+{{< spotify type="album" id="3kEtdS2pH6hKcMU9Wioob1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hI8A14Qcv68" title="Nas - N.Y. State of Mind (Official Audio)" >}}
@@ -57,9 +58,7 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 - [Nas - Illmatic ALBUM REVIEW](https://www.youtube.com/watch?v=DjVrJ1kSmRA)
 - [Illmatic: The Greatest Rap Album Ever](https://www.youtube.com/watch?v=2rKJ-ayJXIM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -69,4 +68,3 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 | Catalog Number | 19658723181 |
 
 National Album Day 2022
-

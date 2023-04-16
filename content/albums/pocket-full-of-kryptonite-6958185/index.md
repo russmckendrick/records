@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Jimmy Olsen's Blues (4:35)
 2. What Time Is It? (4:49)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. How Could You Want Him (When You Know You Could Have Me?) (4:58)
 10. Shinbone Alley
 11. Hard To Exist
+## Spotify
+{{< spotify type="album" id="3jx5C8Z66FwdjNkqsSDBQh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsen's Blues (New Version)" >}}
@@ -56,9 +57,7 @@ styles: ["Indie Rock"]
 - [Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))](https://www.youtube.com/watch?v=YMh6cGih564)
 - [Little Miss Can't Be Wrong ((live 9-25-1990 bootleg, Continental Divide, New York, NY))](https://www.youtube.com/watch?v=gARswxK2D-E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -66,6 +65,5 @@ styles: ["Indie Rock"]
 | Label          | Epic |
 | Format         | LP, Album, RP |
 | Catalog Number | 88875013561 |
-
 
 

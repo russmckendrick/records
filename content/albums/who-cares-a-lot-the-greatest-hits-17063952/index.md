@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
-
 ## Tracklisting
 1. We Care A Lot (Original Version)
 2. Introduce Yourself
@@ -52,9 +51,7 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 - [Instrumental (2016 Remaster)](https://www.youtube.com/watch?v=w_DY87iXsdI)
 - [I Won't Forget You (2016 Remaster)](https://www.youtube.com/watch?v=mOtDoTPZ56c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -64,4 +61,3 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 | Catalog Number | 190295233174, 0190295233174 |
 
 Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.  This compilation ℗ 1998 Slash Records / Warner Music UK Limited. © 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved.   Manufactured for & marketed by Warner Music UK Limited.  Made in Germany.
-

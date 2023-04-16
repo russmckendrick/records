@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. The Sunnyside Of The Street
 2. Sayonara
@@ -28,6 +27,8 @@ styles: ["Folk Rock"]
 11. 5 Green Queens And Jean
 12. Maidrín Rua
 13. Six To Go
+## Spotify
+{{< spotify type="album" id="6vWXyEHqnvo4C5xniFTmR8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jBAgkmy2vrg" title="The Pogues - Hell's Ditch" >}}
@@ -46,9 +47,7 @@ styles: ["Folk Rock"]
 - [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -58,4 +57,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 825646255856 |
 
 Limited to 5000 copies. Printed card inner sleeve.  ℗ & © 1990 Warner Music UK Ltd. Made in the EU.  Presented as exclusive on both the European Dig! as well as the US Rhino sites. Copies purchased through the US Rhino site might have an added barcode on the protective plastic.
-

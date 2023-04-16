@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Hardcore"]
 ---
-
 ## Tracklisting
 1. The Doomsday Book (03:32)
 2. Jaded Apostles (04:04)
@@ -37,6 +36,8 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 20. Lost In The Grand Scheme (07:26)
 21. Like Summer Tempests Came His Tears (03:42)
 22. Sound Of The Silk (05:18)
+## Spotify
+{{< spotify type="album" id="27QcRAR2ESoVje74G3SFyk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MJC8rfQ_wGA" title="…And You Will Know Us By The Trail Of Dead – IX" >}}
@@ -50,9 +51,7 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 - [A Million Random Digits](https://www.youtube.com/watch?v=X6GQGvhhwVY)
 - [Sound Of The Silk](https://www.youtube.com/watch?v=K4keIc5Vj-s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -62,4 +61,3 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 | Catalog Number | SBMLP 033, 0506911 |
 
 180g blue vinyl + CD. Gatefold.
-

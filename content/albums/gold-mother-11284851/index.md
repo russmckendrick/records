@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Come Home (Flood Mix)
 2. Lose Control
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Come Home (Original Version)
 12. Crescendo
 13. Hang On
+## Spotify
+{{< spotify type="album" id="7qQEoMXpeyJ2GJkkdDsVdr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Lm0IBdp6Y1A" title="James - How Was It For You?" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [James: Hang On](https://www.youtube.com/watch?v=YCOD4BLwZU0)
 - [James: Government Walls](https://www.youtube.com/watch?v=p5s9O6qKLLs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,6 +44,5 @@ styles: ["Indie Rock"]
 | Label          | Fontana |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 571 290-9 |
-
 
 

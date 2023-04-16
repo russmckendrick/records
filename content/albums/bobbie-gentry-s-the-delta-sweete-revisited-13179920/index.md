@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Okolona River Bottom Band (4:37)
 2. Big Boss Man (3:25)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Refractions (2:28)
 11. Courtyard (3:31)
 12. Ode To Billie Joe (5:37)
+## Spotify
+{{< spotify type="album" id="4nH3gRDD3nqTkBEZCDMGZh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eTOI4qhp3o0" title="Mercury Rev x Norah Jones - Okolona River Bottom Band" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock"]
 - [Mercury Rev feat. Beth Orton - Courtyard (Official Audio)](https://www.youtube.com/watch?v=D94_Rm0jxQg)
 - [Mercury Rev feat. Lucinda Williams - Ode To Billie Joe  (Official Audio)](https://www.youtube.com/watch?v=poSjrHMcclo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | BELLA852V |
 
 Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe". On sticker: "Mercury Rev "This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke. Limited 180g Vinyl Includes Download" 
-

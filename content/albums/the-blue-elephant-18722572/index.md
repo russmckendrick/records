@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry (3) - The Blue Elephant"
-artist: "Matt Berry (3)"
+title: "Matt Berry - The Blue Elephant"
+artist: "Matt Berry"
 album_name: "The Blue Elephant"
 date: 2021-05-14
 release_id: "18722572"
@@ -8,12 +8,11 @@ slug: "the-blue-elephant-18722572"
 hideSummary: true
 cover:
     image: "the-blue-elephant-18722572.jpg"
-    alt: "The Blue Elephant by Matt Berry (3)"
-    caption: "The Blue Elephant by Matt Berry (3)"
+    alt: "The Blue Elephant by Matt Berry"
+    caption: "The Blue Elephant by Matt Berry"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Aboard
 2. Summer Sun
@@ -30,6 +29,8 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 13. Story Told
 14. Forget Me
 15. Now Disappear (Again)
+## Spotify
+{{< spotify type="album" id="2NUVfgqQZxrHwGI8v6ZFlq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="t7yQj7-IFgo" title="The Blue Elephant" >}}
@@ -37,16 +38,13 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 - [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
 - [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
-| Discogs Link   | [Matt Berry (3) - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-The-Blue-Elephant) |
+| Discogs Link   | [Matt Berry - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-The-Blue-Elephant) |
 | Label          | Acid Jazz |
 | Format         | LP, Album, Ltd, Mus |
 | Catalog Number | AJXLP578M |
 
 'Mustard' colour vinyl. Recorded by Matt Berry at Peach Studios between May & October 2020      
-

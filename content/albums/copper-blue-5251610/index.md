@@ -1,6 +1,6 @@
 ---
-title: "Sugar (5) - Copper Blue"
-artist: "Sugar (5)"
+title: "Sugar - Copper Blue"
+artist: "Sugar"
 album_name: "Copper Blue"
 date: 2015-12-28
 release_id: "5251610"
@@ -8,12 +8,11 @@ slug: "copper-blue-5251610"
 hideSummary: true
 cover:
     image: "copper-blue-5251610.jpg"
-    alt: "Copper Blue by Sugar (5)"
-    caption: "Copper Blue by Sugar (5)"
+    alt: "Copper Blue by Sugar"
+    caption: "Copper Blue by Sugar"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Act We Act (5:27)
 2. A Good Idea (3:47)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Fortune Teller (4:27)
 9. Slick (4:59)
 10. Man On The Moon (4:32)
+## Spotify
+{{< spotify type="album" id="4CWgGsxF6Xgiv2W1WwZSsI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BfGioWWLZ8E" title="Copper Blue Sugar (Full Version / Album Complet 1992) HQ" >}}
@@ -33,16 +34,13 @@ styles: ["Alternative Rock"]
 - [SUGAR - If I Can't Change Your Mind](https://www.youtube.com/watch?v=aHnFIaLp_ys)
 - [SUGAR - Helpless](https://www.youtube.com/watch?v=oUf1sObmhr8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
-| Discogs Link   | [Sugar (5) - Copper Blue](https://www.discogs.com/release/5251610-Sugar-Copper-Blue) |
+| Discogs Link   | [Sugar - Copper Blue](https://www.discogs.com/release/5251610-Sugar-Copper-Blue) |
 | Label          | Edsel Records |
 | Format         | LP, Album, RM |
 | Catalog Number | EDLP1001 |
 
 140g Audiophile Reissue All recordings have been remastered for vinyl from the original tapes by FU:EL engineer Jim Wilson.  Original sound recordings made by Granary Music, under exclusive license to the Demon Music Group Ltd. ℗ 1992 Granary Music.This reissue ℗ & © 2012 Demon Music Group Ltd. Issues under license from Granary Music. Marketed by Edsel, a division of the Demon Music Group Ltd, London, W1W 7TL. The Demon Music Group is a BBC Worldwide company. Manufactured in the EU 
-

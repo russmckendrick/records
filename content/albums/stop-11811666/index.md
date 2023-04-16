@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Walking Back To Me (3:40)
 2. Your Love Is All (4:09)
@@ -27,6 +26,8 @@ styles: null
 10. I'll Be In Love (5:16)
 11. Merry Go Round (3:07)
 12. Sometimes You Just Don't Know (3:05)
+## Spotify
+{{< spotify type="album" id="1Co1PfkD3RSirfxw6h2KfJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hTOBlrWzT0o" title="Walking Back To Me" >}}
@@ -43,9 +44,7 @@ styles: null
 - [Merry Go Round](https://www.youtube.com/watch?v=Vj9OdQpY_4M)
 - [Sometimes You Just Don't Know](https://www.youtube.com/watch?v=r-zwq1Xqab4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -55,4 +54,3 @@ styles: null
 | Catalog Number | Ama 5195 |
 
 Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163 6 page insert with lyrics, not 4 page. Etched runout starts JA, not AJ. Song timings different. 
-

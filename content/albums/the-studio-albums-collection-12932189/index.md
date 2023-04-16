@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
-
 ## Tracklisting
 1. Creedence Clearwater Revival
 2. I Put A Spell On You (4:25)
@@ -89,9 +88,7 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 72. Sweet Hitch-Hiker (2:59)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -101,4 +98,3 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 | Catalog Number | CR00131, 0888072049376 |
 
 Text on the back cover of the box set:  The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands
-

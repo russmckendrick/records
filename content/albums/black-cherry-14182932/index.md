@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Crystalline Green
 2. Train
@@ -25,6 +24,8 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 8. Strict Machine
 9. Forever
 10. Slippage
+## Spotify
+{{< spotify type="album" id="65BnZsIXnhBeBReAHAaF6V" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YeawPUpTHJA" title="Goldfrapp - Strict Machine (Official HD Video)" >}}
@@ -33,9 +34,7 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 - [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
 - [Goldfrapp - Black Cherry (Lyric Video)](https://www.youtube.com/watch?v=vnN342N6NQw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -45,4 +44,3 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 | Catalog Number | Stumm196, 0724358319910 |
 
 Includes exclusive art print.  Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.  ℗ & © 2003 Mute Records Ltd., a BMG company. Manufactured in the EU.
-

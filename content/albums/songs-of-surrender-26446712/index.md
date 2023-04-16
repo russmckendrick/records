@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
-
 ## Tracklisting
 1. One (3:36)
 2. Where The Streets Have No Name (4:17)
@@ -31,6 +30,8 @@ styles: ["Alternative Rock", "Acoustic"]
 14. Sunday Bloody Sunday (4:13)
 15. I Will Follow (3:40)
 16. "40" (3:03)
+## Spotify
+{{< spotify type="album" id="3fqPfbVHsvdpovpJXOJlvU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zi8wxpzTvY4" title="U2 - Walk On Ukraine - #StandUpForUkraine" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Acoustic"]
 - [With Or Without You (Songs Of Surrender)](https://www.youtube.com/watch?v=B6dvvpKZYh8)
 - [All I Want Is You (Songs Of Surrender)](https://www.youtube.com/watch?v=7XJjMxLTrHw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Acoustic"]
 | Catalog Number | 5503448 |
 
 16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany".
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. On Days Like These (3:39)
 2. Something's Cookin' (2:30)
@@ -26,6 +25,8 @@ styles: ["Soundtrack"]
 9. Smell That Gold (1:30)
 10. Greensleeves And All That Jazz (2:05)
 11. Getta Bloomin' Move On! - The Italian Job (Vocal) (4:00)
+## Spotify
+{{< spotify type="album" id="3D6klQFLS1FBo29LzHlkZc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6AW-PaaHS1c" title="Quincy Jones - On Days Like These (The Italian Job)" >}}
@@ -35,9 +36,7 @@ styles: ["Soundtrack"]
 - [The Italian Job (pt 2) ultimate soundtrack suite by Quincy Jones](https://www.youtube.com/watch?v=pnrNUXbEYC0)
 - [Quincy Jones & Matt Monro - The Italian Job - On Days Like These (1969)](https://www.youtube.com/watch?v=rnlPqjkkt6E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Soundtrack"]
 | Catalog Number | SPFL 256 |
 
 2014 reissue in flipback sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. The Frank Sonata (3:53)
 2. Blue Skies (3:57)
@@ -34,9 +33,7 @@ styles: ["Indie Rock", "Britpop"]
 - [Longpigs - Gangsters](https://www.youtube.com/watch?v=OGtxL0mG8bg)
 - [Longpigs - In The Snow](https://www.youtube.com/watch?v=MZvNrbZYtac)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -46,4 +43,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | DEMREC950X, DEMREC950 |
 
 Clear vinyl. Limited to 1000 copies with print insert signed by Crispin Hunt  Hype sticker on the front of the signed print version is different to the standard, non-signed print version.   Hype sticker states: "Indies Exclusive Version Includes Print Signed By Crispin Hunt"  Rear sleeve includes a different barcode on a sticker stuck on the original shrink-wrap obscuring the sleeve printed barcode to distinguish it from the standard issue.  Hype sticker: DEMREC950X Sleeve/labels: DEMREC950
-

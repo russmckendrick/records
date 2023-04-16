@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
-
 ## Tracklisting
 1. Almost Trendy (3:11)
 2. Bass Attack Bap (3:33)
@@ -31,6 +30,8 @@ styles: ["Instrumental", "Funk"]
 14. When The Fonk Radiates (4:40)
 15. Wu Punk (3:56)
 16. Yoyo Ma Fonk (3:09)
+## Spotify
+{{< spotify type="album" id="48skIVXWkrTaBLrPckuB6p" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oJabLChQ8Bs" title="Brokenfolks" >}}
@@ -51,9 +52,7 @@ styles: ["Instrumental", "Funk"]
 - [Wu Punk](https://www.youtube.com/watch?v=j33VtKOYTLU)
 - [Mary Lou's Motherboard](https://www.youtube.com/watch?v=qaxYIPhdqp0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,6 +60,5 @@ styles: ["Instrumental", "Funk"]
 | Label          | Mello Music Group |
 | Format         | LP, Album, Bla |
 | Catalog Number | MMG-000132-1 |
-
 
 

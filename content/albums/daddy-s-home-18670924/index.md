@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Blues"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Pay Your Way In Pain (3:03)
 2. Down And Out Downtown (3:42)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. My Baby Wants A Baby (3:20)
 10. ...At The Holiday Party (4:17)
 11. Candy Darling (1:55)
+## Spotify
+{{< spotify type="album" id="654KFpNOZ26Hj9luu7aKeM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZUTu65AXrJw" title="St. Vincent - Pay Your Way In Pain (Official Video)" >}}
@@ -33,9 +34,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [St. Vincent - Down (Official Video)](https://www.youtube.com/watch?v=VQ9iAlm-sJ8)
 - [St. Vincent - The Melting Of The Sun (Official Video)](https://www.youtube.com/watch?v=6oji2hmpzvM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | LVR01797 |
 
 Indie Exclusive. Includes Poster  Made in the EU.
-

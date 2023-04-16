@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. I'm In Love
 2. Thin Air
@@ -27,14 +26,14 @@ styles: ["Indie Pop"]
 10. It's A Sign
 11. With You
 12. Connected To Life
+## Spotify
+{{< spotify type="album" id="3b6Fw0JpYUyXgRrKSVHJ7J" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}
 - [Teenage Fanclub - Thin Air](https://www.youtube.com/watch?v=wjAl8jqdMjg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -44,4 +43,3 @@ styles: ["Indie Pop"]
 | Catalog Number | PEMA009LP |
 
 Includes download code coupon and a printed inner sleeve.  ℗ & © 2016 PeMa  Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. I Don't Care (1:54)
 2. Ain't Glad I'm Leaving  (2:52)
@@ -26,6 +25,8 @@ styles: null
 9. The Saint Of Lost Causes  (5:01)
 10. Harlem River Blues  (3:10)
 11. Last Words  (4:21)
+## Spotify
+{{< spotify type="album" id="02DqMqXTuEauf2EQsHZtmB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wrNWrG385hg" title="Steve Earle & The Dukes - Dublin Blues [Audio Only]" >}}
@@ -39,9 +40,7 @@ styles: null
 - [Steve Earle & The Dukes - Far Away In Another Town [Audio Only]](https://www.youtube.com/watch?v=yqcFxkhM_i0)
 - [Steve Earle & The Dukes - They Killed John Henry [Audio Only]](https://www.youtube.com/watch?v=1TGssyFJAuk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -51,4 +50,3 @@ styles: null
 | Catalog Number | NW5492 |
 
 Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve.
-

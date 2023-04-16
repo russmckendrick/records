@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Prologue - Deep Sleep (2:12)
 2. Awakenings (5:10)
@@ -37,6 +36,8 @@ styles: ["Prog Rock"]
 20. The Big Dream (8:02)
 21. Hello World, Goodbye (3:52)
 22. Epilogue - Sea Beams (2:48)
+## Spotify
+{{< spotify type="album" id="5o6I4nyMWG7lzVr8r9lGFj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xz4KqSTClIA" title="The Big Dream" >}}
@@ -44,9 +45,7 @@ styles: ["Prog Rock"]
 - [LONELY ROBOT - The Big Dream (Q&A Pt.3)](https://www.youtube.com/watch?v=1IZTy0l1CRw)
 - [LONELY ROBOT - The Big Dream (Q&A Pt.1)](https://www.youtube.com/watch?v=cKm3C80_AO8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +55,3 @@ styles: ["Prog Rock"]
 | Catalog Number | IOMLP 476, 88985369491 |
 
 Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front of the shrink wrap. CD comes packaged inside in a clear envelope-style PVC sleeve.
-

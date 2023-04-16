@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. World Freakshow
 2. Carry Me
@@ -41,9 +40,7 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [The Levellers - What You Know](https://www.youtube.com/watch?v=AiePzwMaXNg)
 - [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,6 +48,5 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Label          | On The Fiddle Recordings |
 | Format         | LP, Album, Ltd, RE, RM, Red |
 | Catalog Number | OTFLP008 |
-
 
 

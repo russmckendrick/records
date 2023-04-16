@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. The Coming Of The Martians
 2. The Eve Of The War
@@ -31,15 +30,15 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 14. Dead London (Part 2)
 15. Epilogue (Part 1)
 16. Epilogue (Part 2) (NASA)
+## Spotify
+{{< spotify type="album" id="7ligZljXfUtcKPCotWul5g" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Wayne's Musical Version - Full Musical" >}}
 - [Jeff Wayne - The Eve of the War (Official Audio) ft. Richard Burton, Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
 - [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -49,4 +48,3 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 | Catalog Number | 88985449431 |
 
 Includes full colour 16-page booklet. ℗ 2005 & © 2017 Made in the EU
-

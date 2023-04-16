@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Celebration Day
 2. Custard Pie
@@ -69,9 +68,7 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 - [Nobody's Fault but Mine](https://www.youtube.com/watch?v=A0uK9d5GUF8)
 - [Shake Your Money Maker](https://www.youtube.com/watch?v=2MyDhlrf75o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -81,4 +78,3 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 | Catalog Number | TV-2140-1 |
 
 ℗ & © 2000 The Orchard. © 1999 Classicberry Ltd. & © 1999 The Black Crowes Partnership. Manufactured & distributed by The Orchard.  Comes in a Tri-fold Sleeve with sticker attached to shrink-wrap. 180g vinyls.
-

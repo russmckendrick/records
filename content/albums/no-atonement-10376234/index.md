@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
-
 ## Tracklisting
 1. Fight Song
 2. Bastion
@@ -35,6 +34,8 @@ styles: ["Industrial"]
 18. Break Our Hearts Down (4:47)
 19. Fever (3:44)
 20. Up To The Neck (6:02)
+## Spotify
+{{< spotify type="album" id="0LeKv8prulvYZf3n1lzuqu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0lyWF-I7pZA" title="Fight Song" >}}
@@ -48,9 +49,7 @@ styles: ["Industrial"]
 - [Fever](https://www.youtube.com/watch?v=Z6hnJrBKOKw)
 - [Break Our Hearts Down](https://www.youtube.com/watch?v=xHItLkOiP3g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -60,4 +59,3 @@ styles: ["Industrial"]
 | Catalog Number | SBMLP 044, 88985426881 |
 
 Limited to 1000 copies.
-

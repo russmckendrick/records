@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Non-Music"]
 styles: ["Acoustic", "Comedy"]
 ---
-
 ## Tracklisting
 1. Born In East L.A. (4:51)
 2. Dorm Radio I (2:40)
@@ -29,6 +28,8 @@ styles: ["Acoustic", "Comedy"]
 12. Juan Coyote (1:19)
 13. Radio News (3:34)
 14. Get Out Of My Room (4:04)
+## Spotify
+{{< spotify type="album" id="6uUpFFTnVIHJGYJAWsv5qt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_TK2pzRRfQ8" title="Cheech and Chong - Love is Strange" >}}
@@ -36,9 +37,7 @@ styles: ["Acoustic", "Comedy"]
 - [Cheech & Chong Get Out of My Room - Trailer](https://www.youtube.com/watch?v=JMn2W9co5Tc)
 - [Cheech & Chong - Get Out Of My Room Trailer (deutsch)](https://www.youtube.com/watch?v=aiF6WcpCzvY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -48,4 +47,3 @@ styles: ["Acoustic", "Comedy"]
 | Catalog Number | MCA 5640, MCA-5640 |
 
 Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu. Mixed At Ocean Way. Mastered At Bernie Grundman Mastering. 
-

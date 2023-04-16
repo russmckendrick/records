@@ -1,6 +1,6 @@
 ---
-title: "Andy Bell (2) - Flicker"
-artist: "Andy Bell (2)"
+title: "Andy Bell - Flicker"
+artist: "Andy Bell"
 album_name: "Flicker"
 date: 2022-02-05
 release_id: "22022197"
@@ -8,12 +8,11 @@ slug: "flicker-22022197"
 hideSummary: true
 cover:
     image: "flicker-22022197.jpg"
-    alt: "Flicker by Andy Bell (2)"
-    caption: "Flicker by Andy Bell (2)"
+    alt: "Flicker by Andy Bell"
+    caption: "Flicker by Andy Bell"
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. The Sky Without You
 2. It Gets Easier
@@ -33,6 +32,8 @@ styles: null
 16. When The Lights Go Down
 17. This Is Our Year
 18. Holiday In The Sun
+## Spotify
+{{< spotify type="album" id="4IRBroDG8m9MAzGObiUdV9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ttvHX1pClw4" title="Andy Bell Something Like Love" >}}
@@ -53,16 +54,13 @@ styles: null
 - [The Looking Glass](https://www.youtube.com/watch?v=gYXa3rSDsao)
 - [When The Lights Go Down](https://www.youtube.com/watch?v=OrzpZ6GNZ0s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Andy Bell (2) - Flicker](https://www.discogs.com/release/22022197-Andy-Bell-Flicker) |
+| Discogs Link   | [Andy Bell - Flicker](https://www.discogs.com/release/22022197-Andy-Bell-Flicker) |
 | Label          | Sonic Cathedral Recordings |
 | Format         | 2xLP, Album, Ltd, Tra |
 | Catalog Number | SCR200LP |
 
 Limited edition of 300 copies.  Available only from the Sonic Cathedral shop on Bandcamp. Includes download code.
-

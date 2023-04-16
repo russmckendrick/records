@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave"]
 ---
-
 ## Tracklisting
 1. Methods Of Dance
 2. Swing
@@ -31,6 +30,8 @@ styles: ["Synth-pop", "New Wave"]
 14. Life Without Buildings
 15. Talking Drum
 16. The Art Of Parties
+## Spotify
+{{< spotify type="album" id="0ezKQuRSkTDJSgwJ6iL4Jq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WJGzrTfVwVk" title="Quiet Life" >}}
@@ -49,9 +50,7 @@ styles: ["Synth-pop", "New Wave"]
 - [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)
 - [The Art Of Parties](https://www.youtube.com/watch?v=KKXdKGYAnt4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -61,4 +60,3 @@ styles: ["Synth-pop", "New Wave"]
 | Catalog Number | ARHSDLP009 |
 
 A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.  ℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd.   © 2022 Virgin Records Limited.  Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.  Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip. 
-

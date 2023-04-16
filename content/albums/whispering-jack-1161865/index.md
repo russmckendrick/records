@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Pressure Down (3:45)
 2. You're The Voice (4:58)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Trouble (3:25)
 9. A Touch Of Paradise (4:45)
 10. Let Me Out (4:20)
+## Spotify
+{{< spotify type="album" id="4cBfyeNYbJAmOq0sl3Hijd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Emutat3_IP0" title="John Farnham - Pressure Down" >}}
@@ -42,9 +43,7 @@ styles: ["Pop Rock"]
 - [[HQ] Coldplay- You're The Voice (with John Farnham) Sound Relief Concert [HQ]](https://www.youtube.com/watch?v=19JN50bLKjY)
 - [You're The Voice ~ John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -54,4 +53,3 @@ styles: ["Pop Rock"]
 | Catalog Number | PL71224 |
 
 This release has a different layout on the center label as the [r=1152744] already in the database.  Printed in Germany  Ⓟ 1986 Wheatley Records, Pty. Ltd.  Comes with inner sleeve with lyrics
-

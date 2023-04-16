@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Act I
 2. Lily
@@ -52,9 +51,7 @@ styles: ["Art Rock", "Pop Rock"]
 ## Videos
 {{< youtube id="t24pRXsTveE" title="'Wake Up' - Kate Bush - Before The Dawn - Live Album Ad" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -64,4 +61,3 @@ styles: ["Art Rock", "Pop Rock"]
 | Catalog Number | 0190295920166, CRE00303 |
 
 4 LP box set including a 12" square, 24-page glossy booklet of liner notes, photographs and credits. Individual LP sleeves have spines with text. When laid out left to right, these sleeves configure to form one picture.  Discs held in die cut inner sleeves, which are printed with a colour design. The sturdy outer box is within shrink-wrap. Applied to the shrink-wrap is a hype sticker.  In loving memory of Ian Newton.  ℗ 2016 The copyright in this sound recording is owned by Noble & Brite Ltd. © 2016 Noble & Brite Ltd. This label copy information is the subject of copyright protection. © 2016 Noble & Brite Ltd. Made in the E.U.  This version appears to have been sold and distributed in the United States under barcode 888072016583, which was done by placing a sticker over the original barcode. In turn, the United States version's hype sticker contains a Concord Records catalog number CRE00303. Copies purchased under that barcode in the United States do not appear to be a separate release, but simply contain different stickers on the outside of the shrink wrap. 
-

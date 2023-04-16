@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Deep Techno"]
 ---
-
 ## Tracklisting
 1. People Are Asking
 2. Stand Back Time
@@ -25,6 +24,8 @@ styles: ["Deep Techno"]
 8. On The Inside
 9. Brother
 10. Memory
+## Spotify
+{{< spotify type="album" id="4qxJOPKqiYrmBgKxO0KJLO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qRYxvzS5BS4" title="Cindy Wilson - Mystic (from Change)" >}}
@@ -32,9 +33,7 @@ styles: ["Deep Techno"]
 - [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
 - [Cindy Wilson - Brother (from Change)](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,6 +41,5 @@ styles: ["Deep Techno"]
 | Label          | Kill Rock Stars |
 | Format         | LP, Album |
 | Catalog Number | KRS642 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
-
 ## Tracklisting
 1. Easy Lover (5:03)
 2. Two Hearts (3:24)
@@ -48,14 +47,14 @@ styles: ["Pop Rock", "Ballad"]
 31. Look Through My Eyes (4:00)
 32. Another Day In Paradise (5:23)
 33. Take Me Home (5:53)
+## Spotify
+{{< spotify type="album" id="7yZHLfxqiGPbSQLrVJljah" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}
 - [Phil Collins - In The Air Tonight (Official Music Video)](https://www.youtube.com/watch?v=YkADj0TPrJA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -65,4 +64,3 @@ styles: ["Pop Rock", "Ballad"]
 | Catalog Number | 081227945909 |
 
 Includes 20 page high gloss book with photos and song info.  For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'  Half speed mastering and pressing plant uncredited, identified by runout.
-

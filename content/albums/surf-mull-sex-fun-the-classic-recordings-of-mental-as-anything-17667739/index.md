@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ---
-
 ## Tracklisting
 1. The Nips Are Getting Bigger
 2. Egypt
@@ -49,9 +48,7 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 - [Mental As Anything - Rock and Roll Music](https://www.youtube.com/watch?v=ZYW5PHqBwgM)
 - [Mental As Anything - The World Seems Difficult (1989)](https://www.youtube.com/watch?v=j5aFABRQPQQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -61,4 +58,3 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 | Catalog Number | DEMREC655 |
 
 This double LP compilation is presented in a gatefold sleeve, with original artwork produced by the band. Pressed on 2x 140g and available on coloured vinyl for the first time (red and white).
-

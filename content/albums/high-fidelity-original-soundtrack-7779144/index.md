@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. You're Gonna Miss Me (2:28)
 2. Everybody's Gonna Be Happy (2:18)
@@ -30,6 +29,8 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 13. Inside Game (3:42)
 14. Who Loves The Sun (2:46)
 15. I Believe (When I Fall In Love It Will Be Forever) (4:51)
+## Spotify
+{{< spotify type="album" id="0zXA2xmkw5x4iN4Cb3j13P" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J0ML8LfyNR8" title="Jack Black - Lets get it on" >}}
@@ -45,9 +46,7 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 - [High Fidelity Original Soundtracks - Who Loves The Sun](https://www.youtube.com/watch?v=u9eXAJhXrhg)
 - [High Fidelity Original Soundtracks - Always See Your Face](https://www.youtube.com/watch?v=0vMsKQ2ti50)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -57,4 +56,3 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 | Catalog Number | D002176001 |
 
 "Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015  Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.   
-

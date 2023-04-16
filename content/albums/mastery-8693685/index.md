@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Ambient", "Experimental"]
 ---
-
 ## Tracklisting
 1. Blue Horror
 2. The Cull 
@@ -28,9 +27,7 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 11. Mastery
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -40,4 +37,3 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 | Catalog Number | none |
 
 Signed copies were available via a Pledgemusic campaign. Comes in a gatefold sleeve with printed inners. Contains no barcode or catalogue number.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Introduction (Greensleeves) (1:48)
 2. Wild Is The Wind (6:54)
@@ -37,11 +36,11 @@ styles: ["Art Rock", "Pop Rock"]
 20. "Heroes" (5:57)
 21. Let's Dance (7:06)
 22. I'm Afraid Of Americans (5:43)
-
+## Spotify
+{{< spotify type="album" id="6frjpRu2P0fdF9xSS9stjY" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -51,4 +50,3 @@ styles: ["Art Rock", "Pop Rock"]
 | Catalog Number | 0190295570453 |
 
 Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000. Made in the EU. Triple gatefold sleeve, with colour booklet. Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [repress with corrected back sleeve](http://www.discogs.com/release/13345593).  Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted. 
-

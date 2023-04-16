@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Would?
 2. Breath
@@ -46,6 +45,8 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 29. Lost In Emily's Woods
 30. Ferry Boat #3
 31. Score Piece #4
+## Spotify
+{{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}
@@ -65,9 +66,7 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 - [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
 - [Smashing Pumpkins Drown](https://www.youtube.com/watch?v=N66Ki1iMMjY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -77,4 +76,3 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 | Catalog Number | 88985315511 |
 
 Gatefold sleeve. Includes mp3 download card. CD issued in cardboard sleeve.  Made in the EU. (on labels and back sleeve)  Sony Music logo on back of gatefold sleeve.  Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)"
-

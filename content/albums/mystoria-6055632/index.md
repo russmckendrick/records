@@ -1,6 +1,6 @@
 ---
-title: "Amplifier (3) - Mystoria"
-artist: "Amplifier (3)"
+title: "Amplifier - Mystoria"
+artist: "Amplifier"
 album_name: "Mystoria"
 date: 2015-08-10
 release_id: "6055632"
@@ -8,12 +8,11 @@ slug: "mystoria-6055632"
 hideSummary: true
 cover:
     image: "mystoria-6055632.jpg"
-    alt: "Mystoria by Amplifier (3)"
-    caption: "Mystoria by Amplifier (3)"
+    alt: "Mystoria by Amplifier"
+    caption: "Mystoria by Amplifier"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Magic Carpet
 2. Black Rainbow
@@ -35,6 +34,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 18. The Meaning Of If
 19. Crystal Mountain
 20. Crystal Anthem
+## Spotify
+{{< spotify type="album" id="1Hx2qrugFJCwT2hCPOylBx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)" >}}
@@ -43,16 +44,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [Amplifier - Black Rainbow](https://www.youtube.com/watch?v=z3JBcuP1FfQ)
 - [AMPLIFIER - Open Up (LYRIC VIDEO)](https://www.youtube.com/watch?v=VDdWkXa4yWE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
-| Discogs Link   | [Amplifier (3) - Mystoria](https://www.discogs.com/release/6055632-Amplifier-Mystoria) |
+| Discogs Link   | [Amplifier - Mystoria](https://www.discogs.com/release/6055632-Amplifier-Mystoria) |
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album + CD, Album |
 | Catalog Number | SBMLP 032, 0506831 |
 
 180 gram black vinyl in gatefold cover with printed innersleeves Comes with cd version of the album
-

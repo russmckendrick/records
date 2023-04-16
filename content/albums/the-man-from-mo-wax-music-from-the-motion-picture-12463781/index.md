@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ---
-
 ## Tracklisting
 1. Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit)
 2. Doin' Damage In My Native Language (Shadow’s Legitimate Remix)
@@ -55,9 +54,7 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 - [Ian Brown & U.N.K.L.E - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
 - [DJ Shadow - What Does Your Soul Look Like (Part 1 - Blue Sky Revisit)](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -67,4 +64,3 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 | Catalog Number | 6727901 |
 
 Gatefold sleeve.  Including download code and director's notes.
-

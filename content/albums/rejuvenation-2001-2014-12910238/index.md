@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Neon Lights
 2. Gloria
@@ -81,9 +80,7 @@ styles: ["Indie Pop"]
 {{< youtube id="Zifea1R_33Y" title="Simple Minds - Rejuvenation 2001-2014 7CD + DVD Trailer" >}}
 - [Simple Minds - Stars Will Lead The Way (Official Video)](https://www.youtube.com/watch?v=wSjWmveiHf8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -93,4 +90,3 @@ styles: ["Indie Pop"]
 | Catalog Number | DEMRECBOX30 |
 
 6 LP Coloured Vinyl Box Set.  Includes “Neon Lights”, “Cry”, Black and White 050505”, “Graffiti Soul”  and “Big Music” [2 LP]  “Neon Lights”, “Cry”, Black and White 050505” make their first appearances on vinyl in this box set, with specially-created outer and inner sleeves, and include some exclusive bonus tracks from the CD releases.   All the albums are pressed on different coloured 180 gram vinyl, and the rigid slipcase features a brand new note by Jim.
-

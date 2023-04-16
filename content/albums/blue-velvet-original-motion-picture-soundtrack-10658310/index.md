@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ---
-
 ## Tracklisting
 1. Main Title (1:27)
 2. Night Streets / Sandy And Jeffrey (3:42)
@@ -31,6 +30,8 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 14. In Dreams (2:48)
 15. Love Letters (2:36)
 16. Mysteries Of Love (4:22)
+## Spotify
+{{< spotify type="album" id="7dFwoDgO6X2veAYg6rzBI9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HNXjgKA6mn8" title="Blue Velvet: Main Title Theme (From Blue Velvet)" >}}
@@ -40,9 +41,7 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 - [Angelo Badalementi - Mysteries Of Love (instrumental)](https://www.youtube.com/watch?v=4F9GsEg7v64)
 - [Mysteries of Love (From David Lynch's Blue Velvet - OST by Angelo Badalamenti)](https://www.youtube.com/watch?v=ry5vs331sMY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -52,4 +51,3 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 | Catalog Number | FROST003LP |
 
 De Laurentiis Music-ASCAP except: - B1.a: Vogue Music c/o The Welk Music Group (BMI) ℗ 1951 Vogue Music Corp. - B4: W & K Publishing Corp. & Islip Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp. - B5: Acuff Rose & Opryland Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp. - B6: Famous Music Corp. (ASCAP). Courtesy of Dominion Entertainment, Inc. ℗ 1986 Dominion Entertainment, Inc.  Manufactured by Varèse Sarabande Records, Inc. at KM Records. ℗ © 1986 Dino De Laurentiis Corporation.
-

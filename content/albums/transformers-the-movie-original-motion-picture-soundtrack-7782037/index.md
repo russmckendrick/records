@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. The Touch
 2. Instruments Of Destruction
@@ -29,16 +28,13 @@ styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"
 ## Videos
 {{< youtube id="3rlREG4ad4Q" title="Transformers The Movie (1986) Soundtrack - Unicron's Reckoning (Epic Suite) (Soundtrack Mix)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Various - Transformers: The Movie (Original Motion Picture Soundtrack)](https://www.discogs.com/release/7782037-Various-Transformers-The-Movie-Original-Motion-Picture-Soundtrack) |
-| Label          | Volcano (2), Legacy |
+| Label          | Volcano, Legacy |
 | Format         | LP, S/Sided, Etch, Ltd, Red + LP, S/Sided, Etch, L |
 | Catalog Number | 88875144321 |
 
 30th Anniversary "Black Friday" Exclusive. 2 Color/Etched LPs in "Transforming" cover. 5000 pressed.  LP 1: Autobot Logo Etched, Translucent Red Vinyl.  LP 2: Decepticon Logo Etched, Translucent Purple/Red Marbled Vinyl. 
-

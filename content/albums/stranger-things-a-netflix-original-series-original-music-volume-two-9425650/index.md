@@ -1,6 +1,6 @@
 ---
-title: "Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume Two"
-artist: "Kyle Dixon (2) & Michael Stein (9)"
+title: "Kyle Dixon & Michael Stein - Stranger Things (A Netflix Original Series) Original Music • Volume Two"
+artist: "Kyle Dixon & Michael Stein"
 album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume Two"
 date: 2016-12-01
 release_id: "9425650"
@@ -8,12 +8,11 @@ slug: "stranger-things-a-netflix-original-series-original-music-volume-two-94256
 hideSummary: true
 cover:
     image: "stranger-things-a-netflix-original-series-original-music-volume-two-9425650.jpg"
-    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon (2) & Michael Stein (9)"
-    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon (2) & Michael Stein (9)"
+    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon & Michael Stein"
+    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon & Michael Stein"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
-
 ## Tracklisting
 1. Hopper Sneaks In
 2. I Know What I Saw
@@ -58,16 +57,13 @@ styles: ["Soundtrack", "Score"]
 ## Videos
 {{< youtube id="itC9WixTGNE" title="Kyle Dixon & Michael Stein - Stranger Things Vol. 2" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Kyle Dixon (2) & Michael Stein (9) - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |
+| Discogs Link   | [Kyle Dixon & Michael Stein - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |
 | Label          | Invada, Netflix, Lakeshore Records |
 | Format         | 2xLP, Album, Cle |
 | Catalog Number | INV177LP |
 
 Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits.
-

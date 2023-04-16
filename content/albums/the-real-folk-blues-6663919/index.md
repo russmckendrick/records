@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
-
 ## Tracklisting
 1. Killing Floor (2:50)
 2. Louise (2:45)
@@ -27,6 +26,8 @@ styles: ["Chicago Blues"]
 10. Built For Comfort (2:39)
 11. Ooh Baby, Hold Me (2:41)
 12. Tell Me What I've Done (2:50)
+## Spotify
+{{< spotify type="album" id="02H7GlBPL5ur7WBXHna8W0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pm-v_7K66rw" title="Howlin' Wolf - Tell Me What I've Done [HD]" >}}
@@ -40,9 +41,7 @@ styles: ["Chicago Blues"]
 - [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
 - [Howlin' Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,4 +51,3 @@ styles: ["Chicago Blues"]
 | Catalog Number | DOL1502H |
 
 180g HQ Virgin Vinyl. Manufactured in Europe. The runouts are etched.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Missing Link
 2. Crystal
@@ -41,9 +40,7 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 - [Curve - Sweetest Pie](https://www.youtube.com/watch?v=aa0AyjhTaCY)
 - [Curve - Cuckoo](https://www.youtube.com/watch?v=oFj97DVmhxU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -53,4 +50,3 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 | Catalog Number | 3RANGE-53LP |
 
 Comes with download card from 3 Loop Music.  Some copies come with an art card signed by Toni and Dean.
-

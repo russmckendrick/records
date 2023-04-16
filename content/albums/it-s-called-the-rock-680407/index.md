@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
-
 ## Tracklisting
 1. It's Called The Rock
 2. Patiently
@@ -22,9 +21,7 @@ styles: ["Soul", "Disco"]
 {{< youtube id="2tUr7Ca3aww" title="Edwin Starr - It's Called The Rock ( Disco 1979 )" >}}
 - [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1979 |
@@ -32,6 +29,5 @@ styles: ["Soul", "Disco"]
 | Label          | 20th Century Fox Records, 20th Century Fox Records |
 | Format         | 12\", Single |
 | Catalog Number | TCD 2420, T-591 |
-
 
 

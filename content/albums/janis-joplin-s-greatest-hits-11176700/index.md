@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Piece Of My Heart (4:19)
 2. Summertime (4:01)
@@ -25,6 +24,8 @@ styles: ["Blues Rock"]
 8. Bye, Bye Baby (2:36)
 9. Move Over (3:40)
 10. Ball And Chain (8:01)
+## Spotify
+{{< spotify type="album" id="4qHWXbp5TbUWqH35c6m8kN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A24JZkgvNv4" title="Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)" >}}
@@ -36,9 +37,7 @@ styles: ["Blues Rock"]
 - [Janis Joplin - Get It While You Can (Official Lyric Video)](https://www.youtube.com/watch?v=mtj9w2gYzV4)
 - [Move Over](https://www.youtube.com/watch?v=W4zumh4m7Kg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Blues Rock"]
 | Catalog Number | 88985479731 |
 
 THE CLASSIC GREATEST HITS SERIES FIRST TIME AVAILABLE ON VINYL IN 27 YEARS PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL  For Record Store Day's Black Friday 2017  Inc MP3 download
-

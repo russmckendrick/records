@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Green River (2:31)
 2. Commotion (2:37)
@@ -24,6 +23,8 @@ styles: ["Southern Rock", "Classic Rock"]
 7. Cross-Tie Walker (3:17)
 8. Sinister Purpose (3:19)
 9. The Night Time Is The Right Time (3:07)
+## Spotify
+{{< spotify type="album" id="0i9mOB6mPGqwVvtJEXiwPG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="w0VI1zByJ3s" title="Green River" >}}
@@ -37,9 +38,7 @@ styles: ["Southern Rock", "Classic Rock"]
 - [Sinister Purpose](https://www.youtube.com/watch?v=fs2bbXhPCcE)
 - [The Night Time Is The Right Time](https://www.youtube.com/watch?v=AW1KKYaqrnk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -49,4 +48,3 @@ styles: ["Southern Rock", "Classic Rock"]
 | Catalog Number | FASLP 5004 |
 
 Sleeve - NOT LICENSED FOR SALE IN THE USA AND CANADA Label - RCA Ltd. are the exclusive licensees for the UK  Made in Germany · Fabriqué en Allemagne Printed in W Germany · Imprimé en Allemagne
-

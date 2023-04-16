@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Techno", "Trip Hop", "Vocal"]
 ---
-
 ## Tracklisting
 1. Dead Things
 2. Wednesday’s Child
@@ -43,6 +42,8 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 26. To Be Free (Tore Johansson Radio Edit)
 27. To Be Free (Future Shock To Be Free Vocal Club Mix)
 28. Unemployed In Summertime (Dreemhouse Unemployed Club Mix)
+## Spotify
+{{< spotify type="album" id="04NFuSzNhIjdwzS5LbQigM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MBj5ZFPWxqE" title="Emiliana Torrini - Weird Friendless Kid" >}}
@@ -53,9 +54,7 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -65,4 +64,3 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 | Catalog Number | TPLP1081 |
 
 Issued in a slip case with 2 separate outer sleeves. Hype sticker on shrink wrap.  This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records.  The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited. CAT NO. TPLP1081 (LC 03275) 5 016958 134662. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
-
 ## Tracklisting
 1. Go Away
 2. Ignorance Is Bliss
@@ -28,13 +27,13 @@ styles: ["Funk Metal"]
 11. This Little Pig
 12. Hemp
 13. Wall
+## Spotify
+{{< spotify type="album" id="7DFb9QZJG2Dxu1HaCHjRsq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EMprpu0et9M" title="Living Colour - Bi" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -44,4 +43,3 @@ styles: ["Funk Metal"]
 | Catalog Number | MOVLP1346 |
 
 Limited to 1000 copies.  Originally released (P) & (C) 1993 Sony Music Entertainment. This release (P) & (C) 2015 Sony Music Entertainment.   Made in EU.
-

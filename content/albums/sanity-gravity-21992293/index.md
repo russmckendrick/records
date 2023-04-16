@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Jazz-Rock"]
 ---
-
 ## Tracklisting
 1. Aim
 2. On A Wave Of Positivity
@@ -24,13 +23,13 @@ styles: ["Jazz-Rock"]
 7. Dearest Blood
 8. Big News For A Small Day
 9. Iron Horse (Bonus Track)
+## Spotify
+{{< spotify type="album" id="6vNd4ca4gboaDtCkdh4LzI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="suOkrGLngns" title="Gavin Harrison - Aim" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -40,4 +39,3 @@ styles: ["Jazz-Rock"]
 | Catalog Number | KSCOPE1133 |
 
 -25th anniversary LP reissue of Gavin Harrison's debut album.  -Remastered with an exclusive bonus track and new original artwork. 
-

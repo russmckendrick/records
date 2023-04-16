@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Love Me Do (2:20)
 2. From Me To You (1:56)
@@ -42,11 +41,11 @@ styles: ["Pop Rock"]
 25. Come Together (4:19)
 26. Let It Be (3:50)
 27. The Long And Winding Road (3:35)
-
+## Spotify
+{{< spotify type="album" id="7vEJAtP3KgKSpOHVgwm3Eh" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -56,4 +55,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 0602547567901 |
 
 New 2015 stereo mixes. Comes with 1 large poster with 126 PS cover images, 4 individual artsy portraits of John, Paul, George & Ringo, and the original PS covers pictured on the inner sleeves.  Made in Germany.
-

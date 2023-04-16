@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Front Toward Enemy
 2. I’m Already Gone
@@ -32,6 +31,8 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 15. Borderlines
 16. Assault On East Falls
 17. Pale Sun
+## Spotify
+{{< spotify type="album" id="6BK62pLb3I24L5zr2zaYoI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KcWFiTJ23Vo" title="BARONESS - Throw Me An Anchor [AUDIO]" >}}
@@ -39,9 +40,7 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 - [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
 - [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -51,4 +50,3 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 | Catalog Number | ABXN006-1 |
 
 Independent Record Stores Release Includes download code, lyric booklet, and printed inner sleeves.  Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA. Strings recorded at Bird Cloud Recording in Edwardsville, IL. Mastered at Sterling Sound in Edgewater, NJ.  All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).  © & ℗ 2019 Abraxan Hymns, LLC.
-

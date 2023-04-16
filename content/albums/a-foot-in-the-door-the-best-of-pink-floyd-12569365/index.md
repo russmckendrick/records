@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Hey You
 2. See Emily Play
@@ -31,11 +30,11 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 14. Shine On You Crazy Diamond Parts 1-5 (Edit)
 15. Brain Damage
 16. Eclipse
-
+## Spotify
+{{< spotify type="album" id="53eu9AgHyg3eQNUiePWRHD" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -45,4 +44,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | PFRLP21, 5099902896625 |
 
 The album package comes in a gatefold outer sleeve, with two separate printed inner bags, and is pressed on heavyweight 180 gram vinyl.    Made in the EU.  ℗ 2016 The copyright in this compilation is owned by Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. © 2016 Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. Tracks 1-10 13-16 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd. Tracks 11 & 12 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. marketed and distributed by Sony Music Entertainment/25 Madison Avenue, New York, NY 10010
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. My Name Is Jonas (3:24)
 2. No One Else (3:04)
@@ -25,15 +24,15 @@ styles: ["Power Pop", "Alternative Rock"]
 8. In The Garage (3:55)
 9. Holiday (3:24)
 10. Only In Dreams (7:59)
+## Spotify
+{{< spotify type="album" id="1xpGyKyV26uPstk1Elgp9Q" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly (Official Music Video)" >}}
 - [Weezer - Say It Ain't So (Version 3)](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
 - [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -43,4 +42,3 @@ styles: ["Power Pop", "Alternative Rock"]
 | Catalog Number | 00602547945396 |
 
 180 gram heavyweight vinyl. Includes download voucher. Includes fold out black and white poster/inlay.  Poster/Inlay: © 2004 Geffen Records.  Back cover: Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993 Remastered at Sterling Sound, NYC ℗ 2004 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.
-

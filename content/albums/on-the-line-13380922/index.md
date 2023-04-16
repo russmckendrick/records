@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Heads Gonna Roll (5:13)
 2. Wasted Youth (4:13)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Taffy (4:27)
 10. On The Line (3:48)
 11. Rabbit Hole (2:46)
+## Spotify
+{{< spotify type="album" id="2AHG3vkC3H7zqHbYdgCCcy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll (Official Audio)" >}}
@@ -40,9 +41,7 @@ styles: ["Indie Rock"]
 - [Jenny Lewis - On The Line (Official Audio)](https://www.youtube.com/watch?v=GmfvvKDOEwE)
 - [Jenny Lewis - Rabbit Hole (Official Audio)](https://www.youtube.com/watch?v=PSgvM6D6ssY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 585764-1 |
 
 Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany.
-

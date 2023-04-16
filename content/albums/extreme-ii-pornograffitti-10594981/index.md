@@ -1,6 +1,6 @@
 ---
-title: "Extreme (2) - Extreme II : Pornograffitti"
-artist: "Extreme (2)"
+title: "Extreme - Extreme II : Pornograffitti"
+artist: "Extreme"
 album_name: "Extreme II : Pornograffitti"
 date: 2017-08-06
 release_id: "10594981"
@@ -8,12 +8,11 @@ slug: "extreme-ii-pornograffitti-10594981"
 hideSummary: true
 cover:
     image: "extreme-ii-pornograffitti-10594981.jpg"
-    alt: "Extreme II : Pornograffitti by Extreme (2)"
-    caption: "Extreme II : Pornograffitti by Extreme (2)"
+    alt: "Extreme II : Pornograffitti by Extreme"
+    caption: "Extreme II : Pornograffitti by Extreme"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 ---
-
 ## Tracklisting
 1. Decadence Dance
 2. Li'l Jack Horny
@@ -34,16 +33,13 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 - [Extreme - Get The Funk Out](https://www.youtube.com/watch?v=IqP76XWHQI0)
 - [Extreme - Decadence Dance](https://www.youtube.com/watch?v=OoKJpcROgJk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Extreme (2) - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-Extreme-II-Pornograffitti) |
+| Discogs Link   | [Extreme - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-Extreme-II-Pornograffitti) |
 | Label          | Music On Vinyl, A&M Records |
 | Format         | LP, Album, Ltd, Num, Ora |
 | Catalog Number | MOVLP793 |
 
 180 gram audiophile vinyl pressing on orange vinyl. Limited to 1,500 copies. Individually numbered sleeve.  Recorded and mixed at Scream Studios, Studio City, CA Additional recording at Courtlen Studios, Hanson, MA Mastered at Sterling Sound, NYC  Original release ℗ 1990 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Made in the EU  Repress of the [original Music on Vinyl reissue](https://www.discogs.com/release/4902118) from 2013
-

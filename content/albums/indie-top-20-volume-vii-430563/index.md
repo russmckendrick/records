@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Monkey Gone To Heaven (2:59)
 2. Made Of Stone (4:14)
@@ -37,9 +36,7 @@ styles: ["Indie Rock"]
 20. Deanna (3:43)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -49,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | TT07 |
 
 ℗ + © Beechwood Music Made in England 1989
-

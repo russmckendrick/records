@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. 92° (Boilerhouse 'The Birth, The Death' Mix)
 2. The Incredible PWEI Vs Dirty Harry
@@ -26,9 +25,7 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 - [P.W.E.I - 92f (the 3rd degree)](https://www.youtube.com/watch?v=a8E9haQXTQw)
 - [The Incredible PWEI Vs. Dirty Harry by Pop Will Eat Itself](https://www.youtube.com/watch?v=A2xYHBeM-5M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -38,4 +35,3 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 | Catalog Number | PT44556 |
 
 Contains exclusive PWEI stencil.  Originally Production by Flood courtesy of 140 dB  A, B2: BMG Music Publishing Ltd Produced for The Boilerhouse  B1: Warner Chappell Music Ltd Produced for PWEI Product Inc  92° Adapted from Pop Will Eat Itself's [m=4027] (A PWEI Prescription) Free The Designers Republic: "We're Alright Now" World-Wide Representation by Craig Jennings for Chapter 22 Management. ℗ 1990 B1 ℗ 1991 The Copyright in this Sound Recording is owend by BMG Records (UK) Ltd. © 1991 BMG Records (UK) Ltd Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europa durch BMG-Ariola Printed in England      
-

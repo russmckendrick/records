@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: null
 ---
-
 ## Tracklisting
 1. TESD Anthem
 2. Greetings All
@@ -30,9 +29,7 @@ styles: null
 13. Check Out The Hook
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -42,4 +39,3 @@ styles: null
 | Catalog Number | none |
 
 Reissue, available in white vinyl only, at tellemstevedave.com
-

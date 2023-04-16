@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Wake Up And Make Love With Me (4:21)
 2. Sweet Gene Vincent (3:32)
@@ -25,6 +24,8 @@ styles: ["Punk"]
 8. Blockheads (3:30)
 9. Plaistow Patricia (4:12)
 10. Blackmail Man (2:14)
+## Spotify
+{{< spotify type="album" id="4GR2L1xSn9yWXLbPCxVKxb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}
@@ -40,9 +41,7 @@ styles: ["Punk"]
 - [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,4 +51,3 @@ styles: ["Punk"]
 | Catalog Number | DEMREC56 |
 
 Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.  This record was not produced and recorded at The Workhouse in the Old Kent Road!!  Manufactured in the EU. 
-

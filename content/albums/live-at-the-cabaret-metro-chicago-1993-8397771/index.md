@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Rocket
 2. Quiet
@@ -28,9 +27,7 @@ styles: ["Alternative Rock"]
 11. Mayonaise
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -40,4 +37,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | DOR2073H |
 
 Live At The Cabaret Metro, Chicago, August 14, 1993.
-

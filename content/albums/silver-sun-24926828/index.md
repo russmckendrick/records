@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Test
 2. Golden Skin
@@ -30,15 +29,15 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 13. Bad Haircut
 14. Nobody
 15. Animals Feets
+## Spotify
+{{< spotify type="album" id="6CcsJU06RJfoaMjRcxsKOP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun (1997) FULL ALBUM" >}}
 - [Silver Sun - Dumb](https://www.youtube.com/watch?v=Y4PJp8nuW34)
 - [Silver sun- I'll see you around.wmv](https://www.youtube.com/watch?v=-nLWLxHYYyw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -46,6 +45,5 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE, 140 |
 | Catalog Number | DEMREC919 |
-
 
 

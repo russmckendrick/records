@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Young Lust (4:19)
 2. F.I.N.E. (4:10)
@@ -25,11 +24,11 @@ styles: null
 8. Don't Get Mad, Get Even (4:50)
 9. Voodoo Medicine Man (4:39)
 10. What It Takes (6:26)
-
+## Spotify
+{{< spotify type="album" id="2WXQrFpRtf1FVSS70D5TVT" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -39,4 +38,3 @@ styles: null
 | Catalog Number | 00602547954381 |
 
 Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Mastered at Artisan Sound Recorders, Los Angeles, CA  ℗ 1989 © 2016 Geffen Records. Made in the E.U. Universal International B.V. Gerrit Van Der Veenlaan  Issued with a printed inner sleeve. Includes a voucher to download MP3 version of the album.  There's also the [US release](https://www.discogs.com/release/9294317) issued a month earlier
-

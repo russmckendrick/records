@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 ---
-
 ## Tracklisting
 1. Stolen Car
 2. Sweetest Decline
@@ -27,6 +26,8 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 10. Devil Song
 11. Feel To Believe
 12. Central Reservation (The Then Again Version)
+## Spotify
+{{< spotify type="album" id="6j7rYlihEMA63TyKLUH4nC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Asbh1Arz5FM" title="Precious Maybe  Beth Orton" >}}
@@ -39,9 +40,7 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 - [Beth Orton - So Much More](https://www.youtube.com/watch?v=6h5OkCHsFuI)
 - [Beth Orton - Stolen Car](https://www.youtube.com/watch?v=uJ35dnfYKrQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 | Catalog Number | 19439 95678 1  |
 
 Released for Record Store Day 2022 on Pillar Box Red Vinyl  
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Regular John
 2. Avon
@@ -26,6 +25,8 @@ styles: ["Stoner Rock", "Hard Rock"]
 9. You Can't Quit Me Baby
 10. Give The Mule What He Wants
 11. I Was A Teenage Hand Model
+## Spotify
+{{< spotify type="album" id="0PSTqZ8cInMb1Wr68Uqdwp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wjNbxJttwP8" title="Queens of the Stone Age - Regular John (Official Audio)" >}}
@@ -40,9 +41,7 @@ styles: ["Stoner Rock", "Hard Rock"]
 - [Queens of the Stone Age - I Was a Teenage Hand Model (Official Audio)](https://www.youtube.com/watch?v=ncthAfGmK-A)
 - [Queens of the Stone Age - How to Handle a Rope (A Lesson in the Lariat) (Official Audio)](https://www.youtube.com/watch?v=lDKlE65PZp0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,4 +51,3 @@ styles: ["Stoner Rock", "Hard Rock"]
 | Catalog Number | OLE1768LP, OLE1768LPE |
 
 Gatefold sleeve with [a1178021] art and original vinyl sequence. Featuring obi-strip designed by [a3311508]. Record comes with a plain black inner sleeve.  ℗ 1998 Queens of the Stone Age under exclusive license to Matador Records ℗ 2021 Queens of the Stone Age under exclusive license to Matador Records  Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.  Some orders from the Matador webstore came with a [a1178021] poster.  Tracks listed sequentially on release.  Cutting engineer and pressing plant derived from matrix.  
-

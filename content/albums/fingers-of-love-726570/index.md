@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Fingers Of Love (Live) (5:08)
 2. Love U Till The Day I Die (Live) (4:31)
@@ -23,9 +22,7 @@ styles: ["Pop Rock"]
 ## Videos
 {{< youtube id="iLFpWo3i6VY" title="Crowded House - Fingers of Love" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
@@ -35,4 +32,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 10CL 715 |
 
 comes in a limited edition gatefold sleeve. Tracks A1 & B1  Recorded  live at The Boathouse, Norfolk VA, 11/4/94. Tracks A2 & B2 Recorded  live at Arlington Theater, Santa Barbara. 
-

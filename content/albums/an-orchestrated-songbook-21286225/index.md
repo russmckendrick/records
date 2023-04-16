@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Andromeda
 2. English Rose
@@ -33,6 +32,8 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 16. Rockets
 17. You Do Something To Me
 18. White Horses
+## Spotify
+{{< spotify type="album" id="7nIgN7HYfrsz7Q5TcPwQfm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iMyCsnfjfys" title="English Rose" >}}
@@ -54,9 +55,7 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 - [Wild Wood](https://www.youtube.com/watch?v=JQHvHhZmSBE)
 - [Andromeda](https://www.youtube.com/watch?v=RgMEYMXacmc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -66,4 +65,3 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 | Catalog Number | 3845942, 00602438459421 |
 
 All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021. Made in the EU 
-

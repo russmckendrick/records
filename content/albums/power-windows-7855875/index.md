@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Big Money
 2. Grand Designs
@@ -23,11 +22,11 @@ styles: ["Pop Rock", "Prog Rock"]
 6. Middletown Dreams
 7. Emotion Detector
 8. Mystic Rhythms
-
+## Spotify
+{{< spotify type="album" id="4g5nPCL3oFaJB0402Kedm8" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -37,4 +36,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | 00602547118288 |
 
 Including a voucher to download an MP4 version of the album.  
-

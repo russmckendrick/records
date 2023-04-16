@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. I'm Gonna Be (500 Miles) (3:34)
 2. Cap In Hand (3:20)
@@ -27,6 +26,8 @@ styles: ["Folk Rock"]
 10. It's Saturday Night (3:22)
 11. Teardrops (2:30)
 12. Oh Jean (5:54)
+## Spotify
+{{< spotify type="album" id="5sK78apv4yOoXjxRL4kOdJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZmELS03_4So" title="The Proclaimers-Sunshine On Leith" >}}
@@ -37,9 +38,7 @@ styles: ["Folk Rock"]
 - [The Proclaimers - Sunshine On Leith](https://www.youtube.com/watch?v=0NzPmtQTuVI)
 - [The proclaimers - 500 miles (With lyrics)](https://www.youtube.com/watch?v=TyyNlxiMDB8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 0190295784416 |
 
 ℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.    Printed In us 
-

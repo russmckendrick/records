@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Junior's Wailing (5:16)
 2. Backwater 
@@ -30,6 +29,8 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 13. Rain (4:48)
 14. Don't Waste My Time (4:08)
 15. Roadhouse Blues (14:12)
+## Spotify
+{{< spotify type="album" id="37fTC5eDweVZHPo01f0EUd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SzP2VFieJMo" title="Status Quo-Forty Five Hundred Times LIVE 1977" >}}
@@ -41,9 +42,7 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 - [Status Quo - Roadhouse Blues (Live at the Apollo Glasgow 1976)](https://www.youtube.com/watch?v=I_1XYhm750Y)
 - [Status Quo - Rain](https://www.youtube.com/watch?v=Z_mHSGlyRa0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 | Catalog Number | 4723768 |
 
 Gatefold sleeve
-

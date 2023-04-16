@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Glam"]
 ---
-
 ## Tracklisting
 1. Too Fast For Love (1981)
 2. Live Wire 
@@ -73,9 +72,7 @@ styles: ["Hard Rock", "Glam"]
 56. Time For Change
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -85,4 +82,3 @@ styles: ["Hard Rock", "Glam"]
 | Catalog Number | 5388 16322 |
 
 Limited Edition 5LP box Set - 7500 pieces.  Too Fast For Love – White / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Shout At The Devil – Yellow / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Theatre Of Pain – Hot Pink Magenta / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Girls, Girls, Girls – Cyan Blue / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Dr. Feelgood – Coke Bottle Green / Oxblood Splatter Vinyl (no indication for "Remastered")  Each album comes with printed inner sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Nerve Attack
 2. Paranoid Core
@@ -26,14 +25,14 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 9. Messiah's Lament
 10. Next Mass Extinction
 11. Oh Yeah
+## Spotify
+{{< spotify type="album" id="5VfPuzaqpBlazZKCz1ai2w" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AtnzoY2RVoA" title="Mudhoney - Paranoid Core" >}}
 - [Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=UNwo0dWvWt4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 | Catalog Number | SP1225 |
 
 Loser Edition, sold through independent stores only. Die-cut foldout sleeve with die-cut printed inner & download card.
-

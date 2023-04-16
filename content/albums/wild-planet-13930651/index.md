@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. Party Out Of Bounds (3:21)
 2. Dirty Back Road (3:21)
@@ -24,14 +23,14 @@ styles: ["New Wave"]
 7. Quiche Lorraine (3:58)
 8. Strobe Light (3:59)
 9. 53 Miles West Of Venus (4:53)
+## Spotify
+{{< spotify type="album" id="1K4t7Jv7DuolDWnFLxKxkd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BxHyliIspkA" title="The B-52's - Private Idaho (Official Audio)" >}}
 - [53 Miles West of Venus](https://www.youtube.com/watch?v=mvXbB67rSHc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -41,4 +40,3 @@ styles: ["New Wave"]
 | Catalog Number | 538798 0 |
 
 180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.  Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980
-

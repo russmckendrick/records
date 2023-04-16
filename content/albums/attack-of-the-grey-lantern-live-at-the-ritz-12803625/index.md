@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. The Chad Who Loved Me (5:07)
 2. Mansun’s Only Love Song (5:53)
@@ -27,11 +26,11 @@ styles: null
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:44)
 12. An Open Letter To The Lyrical Trainspotter (4:33)
-
+## Spotify
+{{< spotify type="album" id="5vq49BfLlCDxHlgqMSvuyl" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -41,4 +40,3 @@ styles: null
 | Catalog Number | kscope1007 |
 
 Comes with download card allowing 1 download of album in MP3 format.  Signed copies sold on Pauls November 2018 Acoustic tour. 
-

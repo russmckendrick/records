@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Castellorizon
 2. On An Island
@@ -25,6 +24,8 @@ styles: ["Prog Rock", "Art Rock"]
 8. Smile
 9. Pocketful Of Stones
 10. Where We Start
+## Spotify
+{{< spotify type="album" id="3hhRkf54AIQsdKLMWTxVLg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kEa__0wtIRo" title="David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)" >}}
@@ -32,9 +33,7 @@ styles: ["Prog Rock", "Art Rock"]
 - [David Gilmour - Smile (Remember That Night)](https://www.youtube.com/watch?v=F1owAiSYfPo)
 - [David Gilmour -Remember That Night, Live At The Royal Albert Hall - Full DVD](https://www.youtube.com/watch?v=vFNpNmIAp_M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2006 |
@@ -44,4 +43,3 @@ styles: ["Prog Rock", "Art Rock"]
 | Catalog Number | 0946 3 55695 1 3 |
 
 Made in the EU.  It comes in heavy gatefold cover with poster 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Nebraska (4:27)
 2. Atlantic City (3:54)
@@ -25,6 +24,8 @@ styles: ["Folk Rock"]
 8. Open All Night (2:53)
 9. My Father's House (5:03)
 10. Reason To Believe (4:09)
+## Spotify
+{{< spotify type="album" id="6yskFQZNlLYhkchAxELHi6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hCpL_ImsiDo" title="Nebraska" >}}
@@ -38,9 +39,7 @@ styles: ["Folk Rock"]
 - [My Father's House](https://www.youtube.com/watch?v=r0NKGaPSSBQ)
 - [Reason to Believe](https://www.youtube.com/watch?v=H49obsV6oZ0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -50,4 +49,3 @@ styles: ["Folk Rock"]
 | Catalog Number | CBS 25100, 25100 |
 
 Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder. Mastered at Atlantic Studios by Dennis King. Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).  Inner Sleeve has lyrics printed on it.  Made in England.
-

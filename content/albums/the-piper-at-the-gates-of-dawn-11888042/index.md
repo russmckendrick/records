@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Astronomy Dominé (4:09)
 2. Lucifer Sam (3:09)
@@ -26,11 +25,11 @@ styles: ["Psychedelic Rock"]
 9. Chapter 24 (3:51)
 10. The Scarecrow (2:11)
 11. Bike (3:23)
-
+## Spotify
+{{< spotify type="album" id="2Se4ZylF9NkFGD92yv1aZC" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +39,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | PFRLP26, 0190295690199 |
 
 RSD 2018 release, limited edition package with poster. Quantity: 15.000 copies worldwide.  Original UK release date: August 1967. © 2018 Pink Floyd Music Ltd.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Folk"]
 ---
-
 ## Tracklisting
 1. Harlem River Blues
 2. One More Night In Brooklyn
@@ -26,15 +25,15 @@ styles: ["Country", "Folk"]
 9. Ain't Waitin'
 10. Rogers Park
 11. Harlem River Blues Reprise
+## Spotify
+{{< spotify type="album" id="0hihWmULfM5FNgrS7NOXjN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vf9lvU8_JUo" title="Justin Townes Earle - Harlem River Blues - album version" >}}
 - [Justin Townes Earle - Ain't Waitin' (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
 - [Justin Townes Earle - Wanderin' - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -44,4 +43,3 @@ styles: ["Country", "Folk"]
 | Catalog Number | BS 178 LP |
 
 © ℗ 2010 Bloodshot Ltd. All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except "Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug  [a929782] appears courtesy of [l166451] [a732399] appears courtesy of [l126609]   
-

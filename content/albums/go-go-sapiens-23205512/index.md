@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop"]
 ---
-
 ## Tracklisting
 1. Started It
 2. Sister Sandinista
@@ -28,9 +27,7 @@ styles: ["Dance-pop"]
 11. Sparks And Flashes
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -40,4 +37,3 @@ styles: ["Dance-pop"]
 | Catalog Number | EMF04 |
 
 Catalogue number found on spine and inner sleeve  
-

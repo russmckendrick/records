@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Electro"]
 ---
-
 ## Tracklisting
 1. States Of Mind (5:10)
 2. The Key (5:22)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 11. Eject (5:19)
 12. No Comply (2:37)
 13. Worth (3:04)
+## Spotify
+{{< spotify type="album" id="303SfM4fCrqwqnsSCQG8bV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}
@@ -49,9 +50,7 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
@@ -61,4 +60,3 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 | Catalog Number | topp lp008s, topp lp 008 |
 
 Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold Sleeve with lyrics on inside. Some with merchandise insert. 
-

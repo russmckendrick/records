@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Idiot Country (5:03)
 2. Reality (5:39)
@@ -26,11 +25,11 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 9. Try All You Want (5:37)
 10. Some Distant Memory (4:09)
 11. Feel Every Beat (5:09)
-
+## Spotify
+{{< spotify type="album" id="1vGrQ0is3Avh0bZSI7T6L1" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -40,4 +39,3 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 | Catalog Number | Fact 290, 0190295381868 |
 
 The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994.  
-

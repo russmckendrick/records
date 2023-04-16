@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Country"]
 ---
-
 ## Tracklisting
 1. Set Out Running
 2. Guided By Wire
@@ -40,9 +39,7 @@ styles: ["Alternative Rock", "Country"]
 - [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
 - [Neko Case - Furnace Room Lullaby [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,4 +49,3 @@ styles: ["Alternative Rock", "Country"]
 | Catalog Number | #86915-1, 99976-1, 86915-1CRM (Clear/Red) |
 
 Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.  
-

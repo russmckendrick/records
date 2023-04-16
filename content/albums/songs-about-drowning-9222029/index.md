@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Forget My Name
 2. Woolf Music
@@ -24,14 +23,14 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 7. By The Stars
 8. Drawn
 9. The Lake
+## Spotify
+{{< spotify type="album" id="2YcWjWu763rakXDwvgtCJn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="20G3LlU4z1A" title="Thought Forms - Woolf Music" >}}
 - [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +40,3 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 | Catalog Number | INV167LP |
 
 Purple coloured vinyl in matte gatefold sleeve with glossy insert and download card. The first 100 copies ordered from the Invada website came with a 12"x12" lithograph art print signed and numbered by all members of the band.
-

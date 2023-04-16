@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Medication (8:15)
 2. The Slide Song (3:52)
@@ -29,6 +28,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 12. Pure Phase (6:30)
 13. Spread Your Wings (6:17)
 14. Feel Like Goin' Home (5:38)
+## Spotify
+{{< spotify type="album" id="1J5p5XuDMtA49FRmp7UK1a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LQxrzqu4PYU" title="Spiritualized - Medication" >}}
@@ -37,9 +38,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [Let It Flow](https://www.youtube.com/watch?v=Zvi7wzeU__w)
 - [Electric Mainline](https://www.youtube.com/watch?v=uoz2dQZiT04)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,4 +48,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | FP1752-3 |
 
 Pure Phase is the second installment in Fat Possum's four-part "[l2182069]".  THIS: Special limited edition reissue pressed on 180 gram glow-in-the-dark vinyl (faintly greenish milky clear) and housed in a glossy gatefold sleeve with heavyweight custom inner sleeves. Issued factory sealed with hype sticker. A limited number of glow-in-the-dark copies purchased from online retailer [l1300462] also include a hand-numbered print.   Reissue also available in a [standard black vinyl](https://www.discogs.com/release/19095670) edition.  On the reissue artwork: Front cover features a new photograph, by John Ross, of the "original luminous album packaging" (1995 glow-in-the-dark CD case) designed by J.Spaceman, Blue Source and Carol Kemp. Gatefold interior and inner sleeves feature scans of photographs, by Kevin Westenberg, that were printed in 1995 and have since decayed (artist miscredited as "Kevin Westerberg" on release).  Runouts are stamped, except for the hand-etched "BAZZA ALCHEMY" lacquer cutting signature on side A, and the second appearance of the Fat Possum catalog number in each runout (hand-etched "FP1752-1 X1"). All stamped text is inverted relative to the hand-etched text.  Shrinkwrap sticker: Made in Czech Republic.
-

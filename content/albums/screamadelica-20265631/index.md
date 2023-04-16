@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 ---
-
 ## Tracklisting
 1. Movin' On Up
 2. Slip Inside This House
@@ -26,6 +25,8 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 9. I'm Comin' Down
 10. Higher Than The Sun (A Dub Symphony In Two Parts)
 11. Shine Like Stars
+## Spotify
+{{< spotify type="album" id="4TECsw2dFHZ1ULrT7OA3OL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SnkjvECEQr4" title="Primal Scream - Movin' on Up (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 - [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
 - [Primal Scream - Shine Like Stars (Official Audio)](https://www.youtube.com/watch?v=SKPRmuraUEE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 | Catalog Number | 19439906211 |
 
 Double vinyl Picture disc
-

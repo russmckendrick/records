@@ -13,10 +13,11 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Weatherall's Weekender (Audrey Is A Little Bit Partial Mix) (15:22)
 2. Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) (17:00)
+## Spotify
+{{< spotify type="album" id="2UrdIc2jaOO8WO5fnUraMV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Gn2GYzJjR2I" title="Flowered Up - Weekender (12 version)" >}}
@@ -35,9 +36,7 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 - [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +46,3 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 | Catalog Number | HVN589 |
 
 Love Record Stores yellow vinyl repress.  Issued in a die-cut Heavenly house sleeve with an updated design using the Flowered Up logo instead of the Heavenly bird logo, housed inside an outer polythene sleeve. A barcode sticker is affixed to the outer polythene sleeve.   ℗ 1992 Sony Music Entertainment UK Limited. Licensed courtesy of Sony Music Entertainment UK Limited. Made in the EU
-

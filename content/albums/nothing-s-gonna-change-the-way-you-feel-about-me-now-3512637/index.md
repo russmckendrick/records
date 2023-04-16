@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Country", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Am I That Lonely Tonight
 2. Look The Other Way
@@ -25,13 +24,13 @@ styles: ["Folk", "Country", "Country Rock"]
 8. Memphis In The Rain
 9. Unfortunately Anna
 10. Movin' On
+## Spotify
+{{< spotify type="album" id="2dsF4fSm5hRcYGkdPEFo8S" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oQXVxJdPfl8" title="Nothing's Gonna Change The Way You Feel About Me Now" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -41,4 +40,3 @@ styles: ["Folk", "Country", "Country Rock"]
 | Catalog Number | BS 193 LP, BS 193V |
 
 LP includes code for mp3 [download card](http://www.discogs.com/Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now/release/4569325) for the album + bonus track.  The catalog number found on spine and vinyl labels is "BS 193 LP". The catalog number found on Bloodshot website is "BS 193V". 
-

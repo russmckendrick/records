@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
-
 ## Tracklisting
 1. Drink The Wine (Album Version)
 2. Gonna Find A True Love (Single Version)
@@ -49,9 +48,7 @@ styles: ["Funk", "Soul"]
 - [Undisputed Truth-U.F.O's](https://www.youtube.com/watch?v=m_VoWIUnCbo)
 - [Dazz Band  Let It Whip](https://www.youtube.com/watch?v=lCemjTAw7i0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -61,4 +58,3 @@ styles: ["Funk", "Soul"]
 | Catalog Number | 5381363 |
 
 Released on Record Store Day 2018.
-

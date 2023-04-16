@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1.  Water Under The Bridge (3:44)
 2. I Need Another (3:49)
@@ -54,9 +53,7 @@ styles: ["Indie Pop"]
 37. Is It Me
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -64,6 +61,5 @@ styles: ["Indie Pop"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE + LP, Album, RE + 2xLP, Album, RE +  |
 | Catalog Number | DEMRECBOX60 |
-
 
 

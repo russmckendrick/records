@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Electricity
 2. Red Frame/White Light
@@ -55,13 +54,13 @@ styles: ["Synth-pop"]
 38. The Punishment Of Luxury
 39. What Have We Done
 40. Don't Go
+## Spotify
+{{< spotify type="album" id="5CVouzgQnK0xK3M3YC8ncs" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RVftFadDCic" title="Souvenir (Remastered 2019)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -71,4 +70,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 7743914, 00602577439148 |
 
 Tri-fold sleeve.  Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.  "A Virgin EMI Records Release" A Universal Music Company  Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.  Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Come To Me Now (4:50)
 2. Crybaby (3:58)
@@ -26,14 +25,14 @@ styles: ["Folk Rock"]
 9. Night Time (6:07)
 10. Pearly Gates (3:50)
 11. Downtown's Lights (4:23)
+## Spotify
+{{< spotify type="album" id="5wrVAAdcCRz1MaL5J7LIyk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7cKM3tfAsEo" title="Kevin Morby - City Music (Official Video)" >}}
 - [Kevin Morby - Come To Me Now (Official Lyric Video)](https://www.youtube.com/watch?v=QLL3AmFnhL8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -43,4 +42,3 @@ styles: ["Folk Rock"]
 | Catalog Number | DOC131 |
 
 "Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."  Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.  All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.  ["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI). ["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).  ℗ & © 2017 Dead Oceans, Inc.  Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016.
-

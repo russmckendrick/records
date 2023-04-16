@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. From Out Of Nowhere (3:19)
 2. Epic (4:51)
@@ -24,6 +23,8 @@ styles: ["Alternative Rock"]
 7. Underwater Love (3:50)
 8. The Morning After (3:40)
 9. Woodpecker From Mars (5:38)
+## Spotify
+{{< spotify type="album" id="6LEP3L94jnkqjOxYJWPRP0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}
@@ -46,9 +47,7 @@ styles: ["Alternative Rock"]
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -58,4 +57,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 828 154-1 |
 
 Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.  This version is very similar to the UK version. The [UK version](http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217) does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.  Includes a printed inner sleeve with graphics, photographs and credits.  Recorded December 1988 at Studio D, Sausalito, CA. Mixed January 1989 at Blue Canyon, Studio City, CA. Mastered at K-Disc, Los Angeles, CA.  Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.  ℗ 1989 Slash Records © 1989 Slash Records 
-

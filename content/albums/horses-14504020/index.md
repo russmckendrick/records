@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 ---
-
 ## Tracklisting
 1. Gloria
 2. Redondo Beach
@@ -23,6 +22,8 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 6. Break It Up
 7. Land
 8. Elegie
+## Spotify
+{{< spotify type="album" id="7xg7u99lilTCPbaRfnYuy6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SVR_eY_1R40" title="Patti Smith ‎Horses Full Album" >}}
@@ -30,9 +31,7 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 - [Land: Horses / Land of a Thousand Dances / La Mer (de)](https://www.youtube.com/watch?v=cSk6jfln84A)
 - [Patti Smith - Horses   Full Album](https://www.youtube.com/watch?v=yoRFG1oef2I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 | Catalog Number | 19075995581 |
 
 Clear Vinyl Rough Trade Exclusive Limited to 1000 copies 2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip
-

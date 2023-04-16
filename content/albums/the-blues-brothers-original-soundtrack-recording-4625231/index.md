@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. She Caught The Katy (4:10)
 2. Peter Gunn Theme (3:46)
@@ -41,9 +40,7 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 - [The Blues Brothers - Sweet Home Chicago (Official Audio)](https://www.youtube.com/watch?v=euJ22UqLD5Y)
 - [The Blues Brothers - Jailhouse Rock (Official Audio)](https://www.youtube.com/watch?v=TosN2G1mmTs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -53,4 +50,3 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 | Catalog Number | K 50715 |
 
 A Phantom/Black Rhino Production.  Original recording: Universal Recording, Chicago. Additional recording: Record Plant, Los Angeles Record Plant, New York City Soundmixers, New York City  Mixed at Record Plant, NYC Mastered at The Master Cutting Room.  ℗©1980 Atlantic Recording Corporation. Printed and made in England  
-

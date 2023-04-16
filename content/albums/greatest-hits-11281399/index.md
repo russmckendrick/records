@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Psychedelic Rock", "Soul", "Funk"]
 ---
-
 ## Tracklisting
 1. I Want To Take You Higher (5:22)
 2. Everybody Is A Star (3:00)
@@ -27,6 +26,8 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 10. M'Lady (2:44)
 11. Sing A Simple Song (4:47)
 12. Thank You (Falettinme Be Mice Elf Agin) (3:55)
+## Spotify
+{{< spotify type="album" id="0UM9SydcBtsklCTFgGLvcT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Bg0tFRea0wA" title="Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)" >}}
@@ -37,9 +38,7 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 - [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)
 - [M'Lady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 | Catalog Number | 88985432351 |
 
  
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Stars Of Track And Field (4:48)
 2. Seeing Other People (3:48)
@@ -25,6 +24,8 @@ styles: ["Indie Rock"]
 8. Mayfly (3:42)
 9. The Boy Done Wrong Again (4:17)
 10. Judy And The Dream Of Horses (3:40)
+## Spotify
+{{< spotify type="album" id="0cR6FGQSOUDEwwapI7yfQZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}
@@ -32,9 +33,7 @@ styles: ["Indie Rock"]
 - [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -44,4 +43,3 @@ styles: ["Indie Rock"]
 | Catalog Number | JPRLP001 |
 
 Gatefold sleeve  Reissue with an alternative code etched into the matrix. Made in EU. Includes free download of entire album. Includes a PVC protective outer sleeve. Includes obi.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae"]
 styles: ["Nu Metal", "Ragga"]
 ---
-
 ## Tracklisting
 1. Roots Rock Riot (3:02)
 2. Trouble (3:49)
@@ -30,6 +29,8 @@ styles: ["Nu Metal", "Ragga"]
 13. 7 Inch Bonus Tracks:
 14. It's A Crime (3:17)
 15. Struggle (3:37)
+## Spotify
+{{< spotify type="album" id="0JoumWrvgAhrqQafhkoSBO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dsaHEp1VfXE" title="Skindred - Killing me [Roots Rock Riot Album]" >}}
@@ -37,9 +38,7 @@ styles: ["Nu Metal", "Ragga"]
 - [Rude Boy for Life](https://www.youtube.com/watch?v=u1borxceXS0)
 - [Roots Rock Riot](https://www.youtube.com/watch?v=fWQuZIzdXPU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,4 +48,3 @@ styles: ["Nu Metal", "Ragga"]
 | Catalog Number | HOFFSIDE004LP |
 
 MADE IN POLAND
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop", "Ballad"]
 ---
-
 ## Tracklisting
 1. F - Pray Frankie Pray
 2. Well... (0:57)
@@ -36,6 +35,8 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 19. The Only Star In Heaven (4:18)
 20. The Power Of Love (5:24)
 21. Bang... (1:14)
+## Spotify
+{{< spotify type="album" id="0FU4Eo42Oyg1We3eRrOf4m" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Yem_iEHiyJ0" title="Frankie Goes To Hollywood - Relax (Official Video)" >}}
@@ -57,9 +58,7 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 - [The Power Of Love](https://www.youtube.com/watch?v=3-APuH5b46M)
 - [Bang](https://www.youtube.com/watch?v=49rN_5MNO98)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -69,4 +68,3 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 | Catalog Number | ZTT IQ1 |
 
 Gatefold sleeve with printed inner sleeves (round corners).  Some copies came with a sticker with European cat# 302 419-977 on upper right corner of back cover (UK version imported to mainland Europe?)  From sleeve notes: IQ number one becomes no.four in Zang Tuum Tumb's fishy Action Series. "Ain't that peculiar."  Record two's inner sleeve includes a mail order form for FGTH accessories, such as the "Sophisticated Virginia Woolf vest for the luxury of life" and the "Jean Genet boxer shorts", modelled by Paul Rutherford of the group Frankie Goes To Hollywood and Claudia Bruecken [sic] of the group Propaganda ...  "[4 symbols] x (frankie symbol) = BANG! (the spunk plus the bomb plus the pump plus the torture instrument times frankie equalling the bang is an exclusive piece of ZTT exploitation.)" © ZTT 1984  A1, A2, A4, B1, B3, C4, C5, D1, D2, D3, D4, D5: Perfect Songs Ltd A3, C1: Dick James Music Ltd B2: Jobete Music (UK) Ltd C2: Zomba Music Ltd C3: Carlin Music Corp  Side A banded as one continuous piece.  Spelling inconsistencies (intentional or otherwise) appear on release: • title listed as Welcome To The Pleasuredome on front, spine and inner sleeve / The Pleasure Dome on labels; • track C1 listed as 'ferry (Go)' on inner sleeve / 'fury' on label. • track D1 listed as 'Krisco Kisses' on inner sleeve / 'Ḱrisco Ḱisses' on label.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Home
 2. Endless Arcade
@@ -27,15 +26,15 @@ styles: ["Indie Rock"]
 10. The Future
 11. Living With You
 12. Silent Song
+## Spotify
+{{< spotify type="album" id="6BBYKRGhb3pBbxwM18B6oY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home (single edit)" >}}
 - [Teenage Fanclub - Everything Is Falling Apart (Official Video)](https://www.youtube.com/watch?v=AffiHHlAbWQ)
 - [Teenage Fanclub - In Our Dreams](https://www.youtube.com/watch?v=DRh4Gm2clwk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +44,3 @@ styles: ["Indie Rock"]
 | Catalog Number | PEMA14LPC |
 
 Recorded at Clouds Hill Recordings in Hamburg and at Raymond's place in Glasgow. Additional overdubs recorded at Rockfield Studios near Monmouth. Mixed in Glasgow. Some of Euros' backing vocals recorded in Cardiff. Mastered at Iterative Mastering.  Limited Edition Translucent Green vinyl LP in die-cut sleeve pressed in a total number of 1000 copies.  Some copies with a signed print.  PEMA14LPC on sticker. PEMA14LP on labels and spine.
-

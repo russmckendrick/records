@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Stars Align
 2. Shiny One
@@ -32,9 +31,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Belly - Shiny One](https://www.youtube.com/watch?v=prF1CdzjTZ4)
 - [Belly Stars Align (Official Audio)](https://www.youtube.com/watch?v=rgxHiKv25EM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +41,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 83774-031-I |
 
 Includes download card for MP3 version.  Printed inner sleeve with lyrics.  Tracks numbered sequentially regardless of sides.
-

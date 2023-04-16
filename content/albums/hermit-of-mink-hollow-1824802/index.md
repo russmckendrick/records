@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 ---
-
 ## Tracklisting
 1. The Easy Side
 2. All The Children Sing (3:09)
@@ -29,11 +28,11 @@ styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 12. Lucky Guy (2:04)
 13. Out Of Control (3:55)
 14. Fade Away (3:01)
-
+## Spotify
+{{< spotify type="album" id="0X73YCfQ3IeOq7AnrePPzG" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -43,4 +42,3 @@ styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 | Catalog Number | K 55521 |
 
 Includes a printed inner sleeve with lyrics.  On label: Ⓟ&Ⓒ 1978  Made in UK
-

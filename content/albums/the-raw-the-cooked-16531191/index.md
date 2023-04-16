@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. She Drives Me Crazy
 2. Good Thing
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 8. Don't Let It Get You Down
 9. As Hard As It Is
 10. Ever Fallen In Love
+## Spotify
+{{< spotify type="album" id="6CoeDRu0SmpFtLZMcRTO2F" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}
@@ -46,9 +47,7 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -58,4 +57,3 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 | Catalog Number | LMS5521363 |
 
 Anniversary Edition Reissue on White Vinyl within Gatefold Sleeve. Includes download featuring rare & unreleased tracks. 32 tracks total in MP3 - 320 Kbits/s quality.  Initial copies from the artist's store came with a signed print
-

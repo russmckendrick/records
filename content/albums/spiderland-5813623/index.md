@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Math Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Spiderland
 2. Breadcrumb Trail
@@ -24,6 +23,8 @@ styles: ["Alternative Rock", "Math Rock", "Post Rock"]
 7. Good Morning, Captain
 8. -
 9. Breadcrumb Trail
+## Spotify
+{{< spotify type="album" id="2NnkLRaeX33d1Mn8ZLgTo8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gBfoQjJ7guk" title="Breadcrumb Trail" >}}
@@ -33,9 +34,7 @@ styles: ["Alternative Rock", "Math Rock", "Post Rock"]
 - [For Dinner…](https://www.youtube.com/watch?v=oKINKblbx2s)
 - [Good Morning, Captain](https://www.youtube.com/watch?v=CuqEpjcBfaU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Math Rock", "Post Rock"]
 | Catalog Number | TG364lp |
 
 Comes in a heavy weight “tip-on” gatefold LP jacket with a glued-in, large format 12 page booklet of photos and a foreword by Will Oldham.  Includes a MP3 download coupon for the remastered album itself, as well as 14 bonus outtakes and demos as originally featured in the [r5584658] Box Set.   © 1991-2014 slint music (bmi) © ℗ 1991-2014 touch and go records  Melody Maker reprint © IPC+ Syndication  "Spiderland" recorded Aug-Oct. '90.  
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Beta Band
 2. The Beta Band Rap
@@ -43,13 +42,13 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 26. CD2
 27. Happiness And Colour
 28. The Hut
+## Spotify
+{{< spotify type="album" id="6w7XFtdCQf871KU40Ot1Ra" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="shIRuXRPKBA" title="The Beta Band - The Beta Band (Full Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -59,4 +58,3 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 | Catalog Number | BEC5543698, BEC1149, BEC1148, BEC5543699 |
 
 Anniversary Edition Includes unreleased album 'The Hut / Happiness & Colour' + CDs 
-

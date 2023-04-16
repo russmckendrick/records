@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Fight Test (4:14)
 2. One More Robot / Sympathy 3000-21 (4:59)
@@ -26,6 +25,8 @@ styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 9. Do You Realize?? (3:32)
 10. All We Have Is Now (3:53)
 11. Approaching Pavanis Mons By Balloon (Utopia Planitia) (3:09)
+## Spotify
+{{< spotify type="album" id="49LA20VMk65fQyEaIzYdvf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lPXWt2ESxVY" title="The Flaming Lips - Do You Realize?? [Official Music Video]" >}}
@@ -33,9 +34,7 @@ styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 - [The Flaming Lips - Fight Test [Official Music Video]](https://www.youtube.com/watch?v=fye1XtXQn9s)
 - [The Flaming Lips - Phoebe Battles The Pink Robots [Official Music Video]](https://www.youtube.com/watch?v=HEaKdBSNS3k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2002 |
@@ -45,4 +44,3 @@ styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 | Catalog Number | 9362-48141-1 |
 
 Comes in a gatefold sleeve.  Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.  © ℗ 2002 Warner Bros. Records Inc. ©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.  Some copies come affixed with a Cargo Distribution sticker.  Made in Germany.
-

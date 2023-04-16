@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Let There Be More Light (5:37)
 2. Remember A Day (4:33)
@@ -22,11 +21,11 @@ styles: ["Space Rock", "Psychedelic Rock"]
 5. A Saucerful Of Secrets (11:57)
 6. See-Saw (4:37)
 7. Jugband Blues (3:00)
-
+## Spotify
+{{< spotify type="album" id="2vnJKtGjZXRUg0mYPZ3HGH" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -36,4 +35,3 @@ styles: ["Space Rock", "Psychedelic Rock"]
 | Catalog Number | PFRLP29, 0190295506889 |
 
 Reproduction of original sleeve. Limited edition of 6500 copies.  Made and Printed in the EU for Record Store Day 2019.  Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. 24 Hour Party People
 2. Stepping Stone
@@ -48,9 +47,7 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 - [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
 - [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -58,6 +55,5 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 | Label          | Beechwood Music |
 | Format         | 2xLP, Comp |
 | Catalog Number | BOTT 001 |
-
 
 

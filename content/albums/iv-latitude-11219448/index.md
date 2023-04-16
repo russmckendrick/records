@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Modern Goddess (4:31)
 2. In The Game (5:27)
@@ -34,9 +33,7 @@ styles: ["Prog Rock"]
 - [Lesoir Latitude (GAOM054)](https://www.youtube.com/watch?v=L8vaclL7Ojc)
 - [In Their Eyes](https://www.youtube.com/watch?v=H6JRkSNYD80)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +43,3 @@ styles: ["Prog Rock"]
 | Catalog Number | GAOM 054LP |
 
 Ordered Directly by the Band to get a Signed edition. Includes a download card.
-

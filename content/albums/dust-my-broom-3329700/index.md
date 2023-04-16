@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. Coming Home (2:34)
 2. Dust My Broom (2:26)
@@ -27,6 +26,8 @@ styles: null
 10. Rolling And Tumbling (2:30)
 11. Standing At The Crossroads (2:15)
 12. The Sky Is Crying (3:10)
+## Spotify
+{{< spotify type="album" id="2EtFRWTnIw4nLsMI3KZcQq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="F8GwPuKL0e0" title="Elmore James - Dust my broom" >}}
@@ -37,9 +38,7 @@ styles: null
 - [It Hurts Me Too](https://www.youtube.com/watch?v=iBZRgnATKSQ)
 - [Mean Mistreatin Mama](https://www.youtube.com/watch?v=K1DejYST9kk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -49,4 +48,3 @@ styles: null
 | Catalog Number | TOP 120 |
 
 Licensed from Charly Records International APS ℗ 1984 Charly Holdings Inc. © 1984 Topline Records Ltd.
-

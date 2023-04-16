@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Pretty Good Year (3:25)
 2. God (3:58)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Cloud On My Tongue (4:44)
 11. Space Dog (5:10)
 12. Yes, Anastasia (9:33)
+## Spotify
+{{< spotify type="album" id="6VNuZLF98tsRYgqlIXAVCD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cN3rzi7dZVQ" title="Tori Amos - God (Official Music Video)" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock"]
 - [Tori Amos - Cornflake Girl (US Version) (Official Music Video)](https://www.youtube.com/watch?v=w_HA5Czhtx4)
 - [Tori Amos - Cornflake Girl (UK Version) (Official Music Video)](https://www.youtube.com/watch?v=mVSuSsoXABQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 081227957841 |
 
 180 gram 2015 remastered reissue. Half speed master.
-

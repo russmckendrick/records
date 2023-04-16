@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
-
 ## Tracklisting
 1. Return Of The Grievous Angel (4:19)
 2. Hearts On Fire (3:50)
@@ -24,6 +23,8 @@ styles: ["Country Rock", "Country"]
 7. Love Hurts (3:40)
 8. Las Vegas (3:29)
 9. In My Hour Of Darkness (3:42)
+## Spotify
+{{< spotify type="album" id="6UQujMGmR5MbFsML9amCuN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="h_Iz0iVvhEc" title="Return of the Grievous Angel (Remastered Version)" >}}
@@ -32,16 +33,13 @@ styles: ["Country Rock", "Country"]
 - [Love Hurts (Remastered Version)](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
 - [Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)](https://www.youtube.com/watch?v=kZ1X1lBTn2g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Gram Parsons - Grievous Angel](https://www.discogs.com/release/5886670-Gram-Parsons-Grievous-Angel) |
-| Label          | Reprise Records, Rhino Records (2), Rhino Records (2) |
+| Label          | Reprise Records, Rhino Records, Rhino Records |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | R1-2171, 8122795955 |
 
 ℗ & © 1974 Warner Bros. Records Inc  Manufactured in the EU. 
-

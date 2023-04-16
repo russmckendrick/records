@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. I Still Do (3:16)
 2. Dreams (4:32)
@@ -27,14 +26,14 @@ styles: ["Alternative Rock"]
 10. I Will Always (2:42)
 11. How (2:51)
 12. Put Me Down (3:32)
+## Spotify
+{{< spotify type="album" id="0AP5O47kJWlaKVnnybKvQI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="G6Kspj3OO0s" title="The Cranberries - Linger" >}}
 - [The Cranberries - Dreams](https://www.youtube.com/watch?v=Yam5uK6e-bQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 6750577 |
 
 Sticker: The Cranberries Everybody Else Is Doing It, So Why Can't We 25th. Anniversary Edition. Remastered at Abbey Road Studios. UMC  Island (logo) 6750577  Download Code in the Variant 3 edition  Back cover has "Made in EU" unlike [r24120869]  Runouts are stamped except "Miles. Abbey Road 1/2 speed. Room 30." etched  Tracks duration are not on this release
-

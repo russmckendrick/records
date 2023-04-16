@@ -1,6 +1,6 @@
 ---
-title: "Amplifier (3) - Amplifier"
-artist: "Amplifier (3)"
+title: "Amplifier - Amplifier"
+artist: "Amplifier"
 album_name: "Amplifier"
 date: 2022-04-15
 release_id: "22878905"
@@ -8,12 +8,11 @@ slug: "amplifier-22878905"
 hideSummary: true
 cover:
     image: "amplifier-22878905.jpg"
-    alt: "Amplifier by Amplifier (3)"
-    caption: "Amplifier by Amplifier (3)"
+    alt: "Amplifier by Amplifier"
+    caption: "Amplifier by Amplifier"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
-
 ## Tracklisting
 1. Motorhead (6:15)
 2. Airborne (8:29)
@@ -26,20 +25,19 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 9. One Great Summer (5:57)
 10. UFOs (7:27)
 11. Glory Electricity (7:36)
+## Spotify
+{{< spotify type="album" id="0JY58EBGX4SB0ZB76J7zM0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Amplifier (3) - Amplifier](https://www.discogs.com/release/22878905-Amplifier-Amplifier) |
+| Discogs Link   | [Amplifier - Amplifier](https://www.discogs.com/release/22878905-Amplifier-Amplifier) |
 | Label          | Rockosmos |
 | Format         | LP, Bla + LP, Red + Album, Ltd, RE, RM |
 | Catalog Number | none |
-
 
 

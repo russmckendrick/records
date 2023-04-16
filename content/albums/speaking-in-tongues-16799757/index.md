@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. Burning Down The House (4:00)
 2. Making Flippy Floppy (4:36)
@@ -24,6 +23,8 @@ styles: ["New Wave"]
 7. Moon Rocks (5:04)
 8. Pull Up The Roots (5:08)
 9. This Must Be The Place (Naive Melody) (4:56)
+## Spotify
+{{< spotify type="album" id="4sLCQxMRfn3gAHrBNZtbTH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}
@@ -36,16 +37,13 @@ styles: ["New Wave"]
 - [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
 - [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |
-| Label          | Rhino Records (2), Sire |
+| Label          | Rhino Records, Sire |
 | Format         | LP, Album, Ltd, RE, RP, Blu |
 | Catalog Number | RCV1-23883, 603497845330 |
 
 "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies.
-

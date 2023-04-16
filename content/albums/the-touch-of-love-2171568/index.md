@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. The Look Of Love
 2. Best Thing That Ever Happened To Me
@@ -33,9 +32,7 @@ styles: ["Soul"]
 16. Try To Remember / The Way We Were
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -45,4 +42,3 @@ styles: ["Soul"]
 | Catalog Number | NE 1090 |
 
 Produced in association with PYE and Buddah Records.  This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts.
-

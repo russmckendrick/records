@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Dub", "Ambient House"]
 ---
-
 ## Tracklisting
 1. Orbits Record One
 2. Earth Orbits
@@ -31,6 +30,8 @@ styles: ["Ambient", "Dub", "Ambient House"]
 14. Ultraworlds
 15. Star 6 & 7 8 9 (8:10)
 16. A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld: Live Mix MK 10 (18:48)
+## Spotify
+{{< spotify type="album" id="3IQGG1m7Pa6DAopVyxGmlL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KNfjpmvbQG0" title="Little Fluffy Clouds" >}}
@@ -44,9 +45,7 @@ styles: ["Ambient", "Dub", "Ambient House"]
 - [Star 6 & 7 8 9](https://www.youtube.com/watch?v=-w21fIWxaFE)
 - [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix Mark 10)](https://www.youtube.com/watch?v=MlsY8MQ2CWE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +55,3 @@ styles: ["Ambient", "Dub", "Ambient House"]
 | Catalog Number | 0602557753264, 577 532-6 |
 
 ℗ 1991 Islands Records, a division of Universal Music Operations Limited © 1991 Islands Records, a division of Universal Music Operations Limited Made in the E.U. Includes a download voucher.  Cat# on sticker: 577 5326 Cat# on spine: 060255753264  A1: Recorded at Do Not Erase, London. Programmed at the Coach house, London.  A2: Recorded at Do Not Erase, London. Respect to Jasper.  The inner sleeve shows incorrect credits, these are corrected in the discogs credits. A3: Recorded at Marcus Studios, London.  B1: Recorded at Marcus Studios, London. Programmed 25 miles above the earth. B2: Recorded at Berwick Street Studio, London. Programmed in Barcelona, Spain.  C1, C2: Recorded at Berwick Street Studio, London. Programmed in Soho, London.  C3: Recorded at Berwick Street Studio, London. Programmed in Lab Studio, Berlin.  D1: Recorded at Berwick Street Studio, London. Programmed in Brixton, Southside.  D2: Recorded live at Trancentral, London. Programmed in inner space.
-

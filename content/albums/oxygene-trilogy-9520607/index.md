@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Oxygene Trilogy
 2. Oxygene (Part 1) (7:39)
@@ -57,15 +56,15 @@ styles: ["Synth-pop"]
 40. Oxygene (Part 18)
 41. Oxygene (Part 19)
 42. Oxygene (Part 20)
+## Spotify
+{{< spotify type="album" id="469JDZgyHrDdZT25FeLKgT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nz1cEO01LLc" title="Jean Michel Jarre - Oxygene" >}}
 - [Jean-Michel Jarre - Oxygene 3 (Album 2016)](https://www.youtube.com/watch?v=ts6vS98ijSM)
 - [Jean Michel Jarre - Oxygene 7-13](https://www.youtube.com/watch?v=EdinGo6GAPo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -75,4 +74,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 88985361872 |
 
 Limited edition including a 12"x12" lithograph signed by Jean-Michel Jarre – available for a limited period of time exclusively on his web shop.  Made in the EU. Includes coffee table book. Track times not listed for any media.  Those for the CDs taken from a CD player.
-

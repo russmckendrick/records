@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Gospel", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Ladies And Gentlemen We Are Floating In Space
 2. Come Together
@@ -27,6 +26,8 @@ styles: ["Gospel", "Psychedelic Rock"]
 10. No God Only Religion
 11. Cool Waves
 12. Cop Shoot Cop...
+## Spotify
+{{< spotify type="album" id="56YzQ0dhmRMDryZsrjdHun" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together (Official Music Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Gospel", "Psychedelic Rock"]
 - [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -48,4 +47,3 @@ styles: ["Gospel", "Psychedelic Rock"]
 | Catalog Number | Plain150, P766613 |
 
 Includes "Patient Product Information" credit sheet.  Date of preparation March 1997.  © 2010 Sony Music Entertainment ℗ 1997 Dedicated  The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland.
-

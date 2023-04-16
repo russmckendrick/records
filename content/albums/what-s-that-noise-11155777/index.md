@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["House", "Breaks", "Downtempo"]
 ---
-
 ## Tracklisting
 1. People Hold On (3:58)
 2. Fat (Party And Bullshit) (4:17)
@@ -74,9 +73,7 @@ styles: ["House", "Breaks", "Downtempo"]
 - [Studio Hot Plate Present - Coldcut - Doctorin' the house (Miami Beach mix)](https://www.youtube.com/watch?v=nclKim2JmTo)
 - [Coldcut feat Yazz and The Plastic People - Doctorin' The House (1988)](https://www.youtube.com/watch?v=r4uDSg1pdj4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -86,4 +83,3 @@ styles: ["House", "Breaks", "Downtempo"]
 | Catalog Number | 88985459671 |
 
 Includes download code
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
-
 ## Tracklisting
 1. Into The Dunes (4:50)
 2. No Unholy Mountain (2:45)
@@ -24,15 +23,15 @@ styles: ["Avantgarde"]
 7. In February (4:21)
 8. Growing (3:11)
 9. The Ascent (5:08)
+## Spotify
+{{< spotify type="album" id="20CL8A5VfMDbEinS8BrGfr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rkJCNRJWIzU" title="Noveller - No Unholy Mountain" >}}
 - [Noveller - 'Rubicon'](https://www.youtube.com/watch?v=hPDN9DH-now)
 - [Noveller - 'Pulse Point'](https://www.youtube.com/watch?v=C2k1ItFICXY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -40,6 +39,5 @@ styles: ["Avantgarde"]
 | Label          | Fire Records |
 | Format         | LP, Album, Min |
 | Catalog Number | FIRELP398 |
-
 
 

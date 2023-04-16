@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Schubert Dip, 1991
 2. Children
@@ -79,9 +78,7 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 62. Big Drop
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -91,4 +88,3 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 | Catalog Number | EMF001BLV |
 
 ℗ Believe 2020. © Believe 2020.  The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324].
-

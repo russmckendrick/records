@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
-
 ## Tracklisting
 1. Take Back The Power
 2. White Noise
@@ -28,15 +27,15 @@ styles: ["Punk", "Ska"]
 11. Last Call
 12. Haven't Seen The Last Of Me
 13. Jenny Drinks
+## Spotify
+{{< spotify type="album" id="6AoWkAFBSNlX63z1fJVNIL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gg8HvYqMo7M" title="The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**" >}}
 - [The Interrupters - The Interrupters (Full Album)](https://www.youtube.com/watch?v=qEVTRsNuLNM)
 - [The Interrupters - Take Back The Power](https://www.youtube.com/watch?v=q7Ol-YDS4Jc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -46,4 +45,3 @@ styles: ["Punk", "Ska"]
 | Catalog Number | 0530-1 |
 
 Track A7 & B6 are bonus tracks. Printed innersleeve with lyrics
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Power Pop"]
 ---
-
 ## Tracklisting
 1. You've Got My Number (Why Don't You Use It!) (2:37)
 2. Male Model (1:53)
@@ -49,9 +48,7 @@ styles: ["Punk", "Power Pop"]
 ## Videos
 {{< youtube id="u-mnSIbGTk0" title="Teenage Kicks" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -61,4 +58,3 @@ styles: ["Punk", "Power Pop"]
 | Catalog Number | SALVO426DLP |
 
 Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.  50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website.
-

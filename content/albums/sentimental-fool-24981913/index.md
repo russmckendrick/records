@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Forever (3:15)
 2. I Should Have Let You Be (3:00)
@@ -27,6 +26,8 @@ styles: ["Soul"]
 10. Ordinary Lives (3:16)
 11. Your Face Before My Eyes (1:58)
 12. Extraordinary Man (3:14)
+## Spotify
+{{< spotify type="album" id="4YZsaY91O8d2BIVLPgfdUi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BRXpKc873PQ" title="Lee Fields - Forever (Official Audio)" >}}
@@ -39,9 +40,7 @@ styles: ["Soul"]
 - [Your Face Before My Eyes](https://www.youtube.com/watch?v=DZYMWEZQuQk)
 - [Just Give Me Your Time](https://www.youtube.com/watch?v=_N4R4cdVFa4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["Soul"]
 | Catalog Number | DAP-075 |
 
 "Made in Czech Republic" sticker on back cover  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.
-

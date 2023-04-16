@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Rick And Morty Theme
 2. Jerry's Rick
@@ -55,9 +54,7 @@ styles: ["Soundtrack"]
 - [Terryfold - Choas Chaos ft. Justin Roiland (3D ANIMATED)](https://www.youtube.com/watch?v=sE5t5I_yDeQ)
 - [Mazzy Star - Look On Down From The Bridge](https://www.youtube.com/watch?v=IGrZ4WAYRKw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -67,4 +64,3 @@ styles: ["Soundtrack"]
 | Catalog Number | SP1265 |
 
 Black Vinyl Two single-pocket LP jackets housed together in a custom die-cut slipcase. Full color, printed inner sleeves with credits and thank yous. Includes digital download code.  Track list and title are stickers affixed to the shrink wrap.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Leave In Silence
 2. My Secret Garden
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. A Photograph Of You
 9. Shouldn't Have Done That
 10. The Sun & The Rainfall
+## Spotify
+{{< spotify type="album" id="4QTkJvr6vfj3MuOqnSpMfE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ucIv-sMta7I" title="Depeche Mode - Leave In Silence (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Synth-pop"]
 - [Shouldn't Have Done That](https://www.youtube.com/watch?v=mZeK1bawOY8)
 - [The Sun and the Rainfall](https://www.youtube.com/watch?v=gHEK_mCyzbU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Synth-pop"]
 | Catalog Number | STUMM9, 88985329931 |
 
 Made in the EU
-

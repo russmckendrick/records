@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Something Is...! (3:42)
 2. Baby You're My Light (2:56)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. Cry A Tear For The Man In The Moon (3:26)
 10. Long Black Train (4:13)
 11. The Light At The End Of The Tunnel (Was A Train Coming The Other Way) (4:54)
+## Spotify
+{{< spotify type="album" id="135bIoJic8lP0osAK8mcYm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Msf2bU9MJmU" title="Something Is" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock"]
 - [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)
 - [The Light At the End of the Tunnel (Was a Train Coming the Other Way)](https://www.youtube.com/watch?v=jIYdJeRYNSo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | SETLP088 |
 
 Some signed copies were available on the 2016 tour.  ℗ & © Setanta Records Ltd, Made In UK
-

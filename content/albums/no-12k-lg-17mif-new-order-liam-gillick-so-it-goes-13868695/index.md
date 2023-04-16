@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Times Change
 2. Who's Joe
@@ -35,11 +34,11 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 18. Elegia
 19. Heart And Soul
 20. Behind Closed Doors
-
+## Spotify
+{{< spotify type="album" id="3tVxsOv2aTeaF3zsuWsd3e" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 | Catalog Number | STUMM450 |
 
 Limited Edition Triple Coloured Vinyl LP1 – Transparent Red / LP2 Transparent Light Green / LP3 Transparent Blue 24 Page Deluxe Booklet . Packed in a hardback slip case with spot gloss varnish Containing exclusive imagery and text relating to the legendary event plus high definition digital download of all 18 tracks.
-

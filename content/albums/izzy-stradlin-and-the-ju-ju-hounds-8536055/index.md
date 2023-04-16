@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Somebody Knockin' (03:27)
 2. Pressure Drop (02:42)
@@ -25,6 +24,8 @@ styles: ["Hard Rock"]
 8. Cuttin' The Rug (05:01)
 9. Take A Look At The Guy (04:43)
 10. Come On Now Inside (03:58)
+## Spotify
+{{< spotify type="album" id="0C5dXQc43DCHdGqTU857Wt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop" >}}
@@ -35,9 +36,7 @@ styles: ["Hard Rock"]
 - [Izzy Stradlin And The Ju Ju Hounds ‎– Somebody Knockin'](https://www.youtube.com/watch?v=Th39YEYA-uY)
 - [Izzy Stradlin And The Ju Ju Hounds    Come On Now Inside](https://www.youtube.com/watch?v=ggljxdB_MBs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -47,4 +46,3 @@ styles: ["Hard Rock"]
 | Catalog Number | MOVLP1386 |
 
 180g black vinyl 
-

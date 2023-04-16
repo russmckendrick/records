@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
-
 ## Tracklisting
 1. Nothing Brings Me Down
 2. Sunnyroad
@@ -27,6 +26,8 @@ styles: ["Folk Rock", "Acoustic"]
 10. Fisherman's Woman
 11. Thinking Out Loud
 12. Serenade
+## Spotify
+{{< spotify type="album" id="5fPGV2BBurhFEE2d5AAWaq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RRVlUGztsNM" title="Emiliana Torrini - Nothing Brings Me Down" >}}
@@ -51,9 +52,7 @@ styles: ["Folk Rock", "Acoustic"]
 - [Emiliana Torrini - Serenade](https://www.youtube.com/watch?v=hoLBtOOuM34)
 - [Emiliana Torrini-Serenade lyrics](https://www.youtube.com/watch?v=giMPPilet8Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -63,4 +62,3 @@ styles: ["Folk Rock", "Acoustic"]
 | Catalog Number | RTRADLP185 |
 
 Issued in a gatefold sleeve with barcode sticker on shrink wrap.
-

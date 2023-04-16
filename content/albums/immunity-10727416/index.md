@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 ---
-
 ## Tracklisting
 1. We Disappear 
 2. Open Eye Signal 
@@ -23,6 +22,8 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 6. Form By Firelight
 7. Sun Harmonics
 8. Immunity
+## Spotify
+{{< spotify type="album" id="1rxWlYQcH945S3jpIMYR35" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PYUF74K93IY" title="Jon Hopkins - We Disappear [Immunity]" >}}
@@ -41,9 +42,7 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 - [Jon Hopkins - Abandon Window 154/Bpm - Vinyl](https://www.youtube.com/watch?v=Gmhyr8konJk)
 - [Jon Hopkins - Sun Harmonics 124/Bpm - Vinyl](https://www.youtube.com/watch?v=SeiTV2iiUDQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 | Catalog Number | WIGLP298 |
 
 • 180-gram heavyweight virgin vinyl • Gatefold sleeve • Includes glossy insert with printed artwork/details/credits • Includes a card for MP3 album download
-

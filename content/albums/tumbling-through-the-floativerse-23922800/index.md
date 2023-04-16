@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Oilyvoice
 2. Seen The Sun
@@ -30,9 +29,7 @@ styles: ["Psychedelic Rock"]
 - [Infinity Curtains](https://www.youtube.com/watch?v=8hm4FG_UmEI)
 - [Starseeds](https://www.youtube.com/watch?v=4A560y7IJ3s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -42,4 +39,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | KSCOPE 1176, KSCOPE1176 |
 
 All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms). Layout by Ed with a little help from Arnold Pesch@Peschdesign. Mastered by Adam Goodlet at re:Creation Studios.  Hype sticker: "New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"  Black vinyl. Some copies come with a Kscope promo leaflet.
-

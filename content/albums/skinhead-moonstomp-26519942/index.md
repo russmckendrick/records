@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
-
 ## Tracklisting
 1. Skinhead Moonstomp
 2. Phoenix Reggae
@@ -27,6 +26,8 @@ styles: ["Ska", "Rocksteady"]
 10. Stay With Him
 11. Fung Shu
 12. You're Mine
+## Spotify
+{{< spotify type="album" id="502yjlT5pnBRCv5l9QFF4s" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ub74H6vGXo4" title="The Pyramids - Must Catch a Train (11.06.2022)" >}}
@@ -61,9 +62,7 @@ styles: ["Ska", "Rocksteady"]
 - [Symarip - Must Catch a Train](https://www.youtube.com/watch?v=EWJU--K-Y6U)
 - [Symarip - You're Mine](https://www.youtube.com/watch?v=tVNUcX80ANM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -73,4 +72,3 @@ styles: ["Ska", "Rocksteady"]
 | Catalog Number | MOVLP2529 |
 
 1000 copies only.
-

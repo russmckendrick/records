@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. In Chains
 2. Hole To Feed
@@ -29,6 +28,8 @@ styles: ["Synth-pop"]
 12. Jezebel
 13. Corrupt
 14. Untitled
+## Spotify
+{{< spotify type="album" id="2Bo9dmgi22zpLiswxilkoZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fhnrrLxQEVQ" title="Depeche Mode - Wrong (Official Video)" >}}
@@ -75,9 +76,7 @@ styles: ["Synth-pop"]
 - [In Chains (Demo Version)](https://www.youtube.com/watch?v=efPGe72kPqM)
 - [Depeche Mode - Sounds Of The Universe Box Set Trailer](https://www.youtube.com/watch?v=VuJ2ibqDw2I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -87,4 +86,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 88985337031 |
 
 ℗ 2009 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2009, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh , Germany.  / LC 05834 88985337031  Gatefold sleeve. 180 gram.
-

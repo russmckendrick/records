@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. About You (2:40)
 2. Sparky's Dream (3:15)
@@ -30,6 +29,8 @@ styles: ["Indie Rock"]
 13. Hardcore / Ballad (1:48)
 14. Every Step Is A Way Through (2:51)
 15. Some People Try To Fuck With You (2:32)
+## Spotify
+{{< spotify type="album" id="2RsAmyJvP12dxBkBQoKP8L" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UK_CuMJJLwg" title="Teenage Fanclub - Sparky's Dream" >}}
@@ -38,9 +39,7 @@ styles: ["Indie Rock"]
 - [I'll Make It Clear](https://www.youtube.com/watch?v=mrk3OCT9UaQ)
 - [Neil Jung](https://www.youtube.com/watch?v=sifx0wF9gzA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 19075837051 |
 
 Limited 180gm vinyl LP + 7" single. Packaged in a reproduction of the original vinyl artwork. Remastered from the original tapes at Abbey Road Studios, London under the guidance of the band. The initial run of copies preordered from the official webstore was signed by band members.
-

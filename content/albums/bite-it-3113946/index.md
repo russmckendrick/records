@@ -1,6 +1,6 @@
 ---
-title: "Whiteout (2) - Bite It"
-artist: "Whiteout (2)"
+title: "Whiteout - Bite It"
+artist: "Whiteout"
 album_name: "Bite It"
 date: 2021-02-10
 release_id: "3113946"
@@ -8,12 +8,11 @@ slug: "bite-it-3113946"
 hideSummary: true
 cover:
     image: "bite-it-3113946.jpg"
-    alt: "Bite It by Whiteout (2)"
-    caption: "Bite It by Whiteout (2)"
+    alt: "Bite It by Whiteout"
+    caption: "Bite It by Whiteout"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Thirty Eight (4:04)
 2. No Time (3:53)
@@ -32,16 +31,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 {{< youtube id="KsoyNoEl2gw" title="Whiteout - No Time" >}}
 - [Whiteout - Thirty Eight](https://www.youtube.com/watch?v=MuqcObxf5Ho)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1995 |
-| Discogs Link   | [Whiteout (2) - Bite It](https://www.discogs.com/release/3113946-Whiteout-Bite-It) |
+| Discogs Link   | [Whiteout - Bite It](https://www.discogs.com/release/3113946-Whiteout-Bite-It) |
 | Label          | Silvertone Records |
 | Format         | 2xLP, Ltd |
 | Catalog Number | OREZLP536 |
-
 
 

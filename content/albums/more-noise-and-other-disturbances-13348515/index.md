@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
-
 ## Tracklisting
 1. Awfully Quiet (3:08)
 2. Where'd You Go (3:26)
@@ -26,15 +25,15 @@ styles: ["Ska", "Punk"]
 9. He's Back (3:12)
 10. Bad In Plaid (2:04)
 11. They Came To Boston (3:31)
+## Spotify
+{{< spotify type="album" id="28xDdUxyWOjPzZKbcQMJlO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3r57EGlQQl8" title="The Mighty Mighty Bosstones   More Noise and Other Disturbances" >}}
 - [Awfully Quiet](https://www.youtube.com/watch?v=fB33d-Htc6k)
 - [Dr. D](https://www.youtube.com/watch?v=gyDDt7YnKEI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,6 +41,5 @@ styles: ["Ska", "Punk"]
 | Label          | Taang! Records |
 | Format         | LP, Album, RE, RP, Red |
 | Catalog Number | TAANG! 60 |
-
 
 

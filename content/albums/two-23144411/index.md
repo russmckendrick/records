@@ -1,6 +1,6 @@
 ---
-title: "Dubstar (2) - Two"
-artist: "Dubstar (2)"
+title: "Dubstar - Two"
+artist: "Dubstar"
 album_name: "Two"
 date: 2022-05-08
 release_id: "23144411"
@@ -8,12 +8,11 @@ slug: "two-23144411"
 hideSummary: true
 cover:
     image: "two-23144411.jpg"
-    alt: "Two by Dubstar (2)"
-    caption: "Two by Dubstar (2)"
+    alt: "Two by Dubstar"
+    caption: "Two by Dubstar"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Token (4:27)
 2. I Can See You Outside (4:20)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. Social Proof (3:26)
 9. Kissing To Be Unkind (4:38)
 10. Perfect Circle (4:12)
+## Spotify
+{{< spotify type="album" id="2Wv3hPA9qYT7yC9AFY6iWe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IaHHRY9gpcs" title="Dubstar  - Token (Widescreen Mix) Official Artist Video" >}}
@@ -41,16 +42,13 @@ styles: ["Synth-pop"]
 - [Tectonic Plates (Extended)](https://www.youtube.com/watch?v=KPmx0XYwuPw)
 - [Tectonic Plates (Dressing Up Extended Mix)](https://www.youtube.com/watch?v=YOlNmpF2VE4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Dubstar (2) - Two](https://www.discogs.com/release/23144411-Dubstar-Two) |
+| Discogs Link   | [Dubstar - Two](https://www.discogs.com/release/23144411-Dubstar-Two) |
 | Label          | Northern Writes, Northern Writes |
 | Format         | LP, Album, Ltd, Whi |
 | Catalog Number | NW009VW, NW009V |
 
 Hype sticker: Limited edition white vinyl.  Initial copies from Rough Trade East, London came with a signed print. 
-

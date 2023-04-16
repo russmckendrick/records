@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Krautrock", "Acoustic"]
 ---
-
 ## Tracklisting
 1. Arcade
 2. Vishnu Schist 
@@ -24,6 +23,8 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 7. Alsace Lorraine
 8. Dinosaurus Rex Part 1
 9. Dinosaurus Rex Part 2 
+## Spotify
+{{< spotify type="album" id="7bZSRcpfVBVOMZDSRcSh13" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5AC9eYK9xq0" title="Vishnu Schist" >}}
@@ -33,9 +34,7 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 - [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
 - [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +44,3 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 | Catalog Number | THM004LP |
 
 Limited indies only 180g vinyl LP. Vinyl edition limited to 300 copies
-

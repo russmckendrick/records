@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
-
 ## Tracklisting
 1. Handsworth Revolution
 2. Bad Man
@@ -23,6 +22,8 @@ styles: ["Roots Reggae"]
 6. Ku Klux Klan
 7. Prediction
 8. Macka Splaff
+## Spotify
+{{< spotify type="album" id="2AmHSmroi01mQ9yDUqyhuv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A3LFvaAD2-Y" title="Steel Pulse - Handsworth Revolution - 01 - Handsworth Revolution" >}}
@@ -35,9 +36,7 @@ styles: ["Roots Reggae"]
 - [Steel Pulse - Handsworth Revolution - 08 - Macka Splaff.](https://www.youtube.com/watch?v=BLi3P8MRg8E)
 - [Steel Pulse ‎– Ku Klux Klan](https://www.youtube.com/watch?v=4UjkeIiXTr8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Roots Reggae"]
 | Catalog Number | 535 158-2 |
 
 "Back To Black" series.  180 gram heavyweight vinyl.  Includes a voucher to download MP3 version of the album.
-

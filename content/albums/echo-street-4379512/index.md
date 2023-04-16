@@ -1,6 +1,6 @@
 ---
-title: "Amplifier (3) - Echo Street"
-artist: "Amplifier (3)"
+title: "Amplifier - Echo Street"
+artist: "Amplifier"
 album_name: "Echo Street"
 date: 2015-08-09
 release_id: "4379512"
@@ -8,12 +8,11 @@ slug: "echo-street-4379512"
 hideSummary: true
 cover:
     image: "echo-street-4379512.jpg"
-    alt: "Echo Street by Amplifier (3)"
-    caption: "Echo Street by Amplifier (3)"
+    alt: "Echo Street by Amplifier"
+    caption: "Echo Street by Amplifier"
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Matmos
 2. The Wheel
@@ -23,20 +22,19 @@ styles: ["Prog Rock", "Alternative Rock"]
 6. Between Today And Yesterday
 7. Echo Street
 8. Mary Rose
+## Spotify
+{{< spotify type="album" id="6LOPpC9CFLLOaPG7P2X5NB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mOzRzoE-F5Y" title="Amplifier (Echo Street) - Where the river goes" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
-| Discogs Link   | [Amplifier (3) - Echo Street](https://www.discogs.com/release/4379512-Amplifier-Echo-Street) |
+| Discogs Link   | [Amplifier - Echo Street](https://www.discogs.com/release/4379512-Amplifier-Echo-Street) |
 | Label          | Kscope |
 | Format         | 2xLP, Album, 180 |
 | Catalog Number | KSCOPE837 |
 
 Comes in gatefold sleeve with full color inner sleeves.   Copies preordered from the Ampcorp Industries web store come signed by all four band members.  Copies ordered from Burning Shed include a download card.  ℗ & © 2013 Ampcorp Industries Kscope is a Snapper Music label www.kscopemusic.com www.amplifierband.com www.ampcorp-industries.com  Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835  (which is the cat# for "Steven Wilson - The Raven That Refused To Sing").
-

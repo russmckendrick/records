@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 ---
-
 ## Tracklisting
 1. All Your Love (3:35)
 2. Hideaway (3:14)
@@ -29,9 +28,7 @@ styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 12. It Ain't Right (2:41)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +38,3 @@ styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 | Catalog Number | 0042280008611 |
 
 Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere  ℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company  Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966. 180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series The MP3 downloads include both the mono and stereo mixes. 
-

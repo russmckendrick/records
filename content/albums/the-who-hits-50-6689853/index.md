@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Zoot Suit (2:01)
 2. I Can't Explain (2:05)
@@ -36,11 +35,11 @@ styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 19. Who Are You (5:11)
 20. Real Good-Looking Boy (3:53)
 21. Be Lucky (3:18)
-
+## Spotify
+{{< spotify type="album" id="0FVnJBGOQD3Kx2x87Er2Az" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -50,4 +49,3 @@ styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 | Catalog Number | 3794051 |
 
 This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051.  Catalog Number Disc 1: 3794052 Catalog Number Disc 1: 3794053  Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).  Differs from [r11234307]: runout information LP1.  Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched.
-

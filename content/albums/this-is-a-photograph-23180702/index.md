@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. This Is A Photograph
 2. A Random Act Of Kindness
@@ -25,6 +24,8 @@ styles: null
 8. Stop Before I Cry
 9. It's Over
 10. Goodbye To Good Times
+## Spotify
+{{< spotify type="album" id="6NMzokKOYpPO9VXDjmc5y6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hmxrnAouciM" title="Kevin Morby - This is a Photograph (Official Video)" >}}
@@ -32,9 +33,7 @@ styles: null
 - [Kevin Morby - Rock Bottom (Official Video)](https://www.youtube.com/watch?v=xRd4OjaDE4k)
 - [It's Over](https://www.youtube.com/watch?v=2LjQDJuu63w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -44,4 +43,3 @@ styles: null
 | Catalog Number | DOC316 |
 
 Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code. Rear sticker: Made In Canada  A small amount of autographed copies were made available through Newbury Comics.  © & ℗ 2022 Dead Oceans, Inc.  Engineering [...] at Slow Fawn in Accord, NY Additional Recording [...] at Sam Phillips Recording in Memphis, TN Additional Engineering [...] in New York, NY Mixed and Mastered [...] at Isokon in Kingston, NY
-

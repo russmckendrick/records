@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. I Can Change Your Mind
 2. Who's Fooling Who
@@ -28,6 +27,8 @@ styles: ["Soul"]
 11. How 'Bout Now
 12. Paradise For One
 13. He's Your Could've Been
+## Spotify
+{{< spotify type="album" id="5IzJaKPhjnIw2pPFpSvVY9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="h-7hfMvA6Lc" title="I Can Change Your Mind" >}}
@@ -44,9 +45,7 @@ styles: ["Soul"]
 - [Paradise for One](https://www.youtube.com/watch?v=gFIm8_lPJpw)
 - [He's Your Could've Been](https://www.youtube.com/watch?v=BWIl0SWwCbs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -56,4 +55,3 @@ styles: ["Soul"]
 | Catalog Number | DAP-061 |
 
 In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  ℗ 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card
-

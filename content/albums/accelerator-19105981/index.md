@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
-
 ## Tracklisting
 1. Expander (5:38)
 2. Stolen Documents (5:10)
@@ -25,6 +24,8 @@ styles: ["Techno"]
 8. 1 in 8 (4:56)
 9. Pulse State (7:14)
 10. Central Industrial (4:19)
+## Spotify
+{{< spotify type="album" id="5QJgGoswsej4o1KwXpfYCZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yKTZVb9dNj0" title="The Future Sound Of London - Pulse State - Jumpin' & Pumpin' 1992" >}}
@@ -45,9 +46,7 @@ styles: ["Techno"]
 - [CENTRAL INDUSTRIAL - FSOL](https://www.youtube.com/watch?v=cOYJ7-HaZSQ)
 - [The Future Sound Of London - Calcium - Jumpin' & Pumpin' 1992](https://www.youtube.com/watch?v=-Mo8N_03mq4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -57,4 +56,3 @@ styles: ["Techno"]
 | Catalog Number | DLPRSDTOT2 |
 
 30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1. 
-

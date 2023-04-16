@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. ZERO (5:42)
 2. All The Colours Of You (5:26)
@@ -26,13 +25,13 @@ styles: ["Indie Pop"]
 9. Miss America (3:01)
 10. Isabella (4:23)
 11. XYST (4:23)
+## Spotify
+{{< spotify type="album" id="5ygHCOppc7ipeiWCB8cj9M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-fQk-hEMYMc" title="James - All The Colours Of You (Official Lyric Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -42,4 +41,3 @@ styles: ["Indie Pop"]
 | Catalog Number | NBLM001LPX |
 
 Deluxe Split Colour Double Vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Embers of Fire
 2. Beautiful Losers
@@ -28,6 +27,8 @@ styles: ["Prog Rock"]
 11. Ladders of Supremacy
 12. Rise, Naianasha (Cut the Cord)
 13. Window of the Waking Mind
+## Spotify
+{{< spotify type="album" id="5YRtvIMApwxnUTcWUBcaON" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9NBaKRUrr_M" title="Coheed and Cambria - The Embers of Fire (Official Audio)" >}}
@@ -46,9 +47,7 @@ styles: ["Prog Rock"]
 - [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
 - [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -58,4 +57,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 075678640780 |
 
 Indie Store Exclusive (Transparent Electric Blue Vinyl)
-

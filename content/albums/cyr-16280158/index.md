@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Colour Of Love (4:24)
 2. Confessions Of A Dopamine Addict (3:14)
@@ -35,11 +34,11 @@ styles: ["Alternative Rock"]
 18. Schaudenfreud (3:02)
 19. Tyger, Tyger (2:50)
 20. Minerva (3:33)
-
+## Spotify
+{{< spotify type="album" id="67mhcyDjMHNBXsH77mQsVV" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | SUM1397, SUM1377 |
 
 Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book. Housed in a gatefold sleeve.  Limited to 1000 copies.  The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.  ©&℗ 2020 Martha's Music, LLC.
-

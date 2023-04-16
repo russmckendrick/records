@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ---
-
 ## Tracklisting
 1. Non Stop (8:32)
 2. Robotronik (Kling Klang Mix) (4:54)
@@ -34,15 +33,15 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 17. Tour De France (Etape 2) (4:57)
 18. Aéro Dynamik (Intelligent Design Mix By Hot Chip) (8:34)
 19. La Forme (King Of The Mountains Mix By Hot Chip) (6:33)
+## Spotify
+{{< spotify type="album" id="5FvNOnZtP0dQKZbDQ1uhGy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O8DHr4R_H1o" title="Radioactivity (William Orbit Hardcore Remix - Kling Klang Edit)" >}}
 - [Kraftwerk Remixes   CD1](https://www.youtube.com/watch?v=pDeR-ZtfTpw)
 - [Kraftwerk Remixes - CD2 (Kling Klang Product 2022. - Ralf Hütter)](https://www.youtube.com/watch?v=4P_KvcjCgiw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,4 +51,3 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 | Catalog Number | 0190296504761 |
 
 Kling Klang Produkt Ralf Hütter 2022 This Compilation ℗ + © 2022 Ralf Hütter/Kraftwerk® under exclusive licence to Parlophone Records Limited. Made in Germany.  Issued in wide-spine sleeve with matte-finish inners.  1V, 1||, 1|Λ and 1|V in runouts are mirrored.  Track F1 was previously issued as Tour De France 2003 (Étape 2), whereas this is an edit. None of the remixer credits are included.  Some copies issued with "Made In Germany" sticker on rear album cover.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Lansing
 2. Bone Rage
@@ -41,6 +40,8 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 24. Garbage Shark (5:38)
 25. Golden Hour (5:51)
 26. It Happens (5:05)
+## Spotify
+{{< spotify type="album" id="2kJqRDKcVQ0bxG4sjXREsv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KT0e1ZwJtU8" title="Lansing" >}}
@@ -57,9 +58,7 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 - [Golden Hour](https://www.youtube.com/watch?v=fodUyqaqeNQ)
 - [It Happens](https://www.youtube.com/watch?v=mS_a6H1liwQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -69,4 +68,3 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 | Catalog Number | IOMLP 535, 19075980581 |
 
 Packaged in a gatefold jacket with black polylined LP sleeve and hype sticker affixed to shrink wrap on the front. CD is packaged inside in an envelope-style PVC sleeve.
-

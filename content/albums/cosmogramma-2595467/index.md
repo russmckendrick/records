@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"]
 ---
-
 ## Tracklisting
 1. Clock Catcher (1:12)
 2. Pickled! (2:13)
@@ -32,6 +31,8 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 15. Drips//Auntie's Harp (2:10)
 16. Table Tennis (3:01)
 17. Galaxy In Janaki (2:27)
+## Spotify
+{{< spotify type="album" id="26yWpyWgFK6xuxi1UsLUFW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0ScYz9sNaQk" title="Flying Lotus - Zodiac Shit" >}}
@@ -41,9 +42,7 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 - [Flying Lotus- Cosmogramma ALBUM REVIEW](https://www.youtube.com/watch?v=KCuamde9Atc)
 - [Satelllliiiiiteee](https://www.youtube.com/watch?v=PC69RbHDiCg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -53,4 +52,3 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 | Catalog Number | WARPCD195 |
 
 Released in jewel case.  Published by Just Isn't Music.  (P)(C) 2010 Warp Records Limited  Made in EU. 
-

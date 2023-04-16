@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. How The West Was Won And Where It Got Us (4:30)
 2. The Wake-up Bomb (5:07)
@@ -29,6 +28,8 @@ styles: ["Alternative Rock"]
 12. So Fast, So Numb (4:11)
 13. Low Desert (3:30)
 14. Electrolite (4:05)
+## Spotify
+{{< spotify type="album" id="3pPyHBRk2RvmNn4Cg1Asv6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-R2hvKDFLHE" title="R.E.M. - Bittersweet Me (Official Music Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock"]
 - [R.E.M. - E-Bow The Letter (Official Music Video) feat. Patti Smith](https://www.youtube.com/watch?v=5cnIQHJ169s)
 - [R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)](https://www.youtube.com/watch?v=9BC07l2_zKU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 888072245457, CR00438 |
 
 25th Anniversary Edition.  ℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.  Made in the EU.  Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer.
-

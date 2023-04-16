@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Disco"]
 ---
-
 ## Tracklisting
 1. Mr. Blue Sky (5:02)
 2. Evil Woman (4:11)
@@ -41,9 +40,7 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 - [ELO- Showdown](https://www.youtube.com/watch?v=8hqmmVXcXzU)
 - [Electric Light Orchestra - All Over The World (1980)](https://www.youtube.com/watch?v=36XYt4mpRxI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +50,3 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 | Catalog Number | 88985312351 |
 
 © 2005, 2016 Epic Records, a division of Sony Music Entertainment. This compilation ℗ 2005 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment.  Tracks A1, A4, B1, C3: ℗ 1977 Epic Records, a division of Sony Music Entertainment  Tracks A2, D3: ℗ 1975 Epic Records, a division of Sony Music Entertainment  Tracks A3, A5, B2, B3: ℗ 1979 Epic Records, a division of Sony Music Entertainment  Track B4: ℗ 1981 Epic Records, a division of Sony Music Entertainment  Tracks B5, C1, D2: ℗ 1976 Epic Records, a division of Sony Music Entertainment  Track C2: US & Canada: ℗ 1980 UMG Recordings, Inc. Courtesy of Universal Music Enterprises, a division of UMG Recordings, Inc.;  Rest of World: ℗ 1980 Sony Music Entertainment  Track C5: ℗ 1973 Epic Records, a division of Sony Music Entertainment  Track C4: US & Canada: ℗ 1973 Epic Records, a division of Sony Music Entertainment Rest of World: ℗ 1973 Parlophone Records Ltd., A Warner Music Group Company  Track D1: ℗ 2000 Epic Records, a division of Sony Music Entertainment  Track D4: ℗ 2001 Daft As A Brush, Inc. Courtesy of Daft As A Brush, Inc  Track D5: ℗ 1983 Epic Records, a division of Sony Music Entertainment  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. "Epic", "Legacy" and L Reg. U.S. Pat. & Tm. Off. Marca Registrada. All rights reserved.  This package consists of previous released material. / Made in the EU. / BIEM/GEMA / LC02361 / 88985312351  www.legacyrecordings.com
-

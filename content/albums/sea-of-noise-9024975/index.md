@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. Crumbling Light Posts Pt. 1 (1:31)
 2. Flow With It (You Got Me Feeling Like) (3:17)
@@ -28,6 +27,8 @@ styles: ["Rhythm & Blues", "Soul"]
 11. Tears In The Diamond (3:46)
 12. Is It Me (2:13)
 13. Crumbling Light Posts Pt. 3 (0:56)
+## Spotify
+{{< spotify type="album" id="2fRc3TJSXKXGFdnmcm17p2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_XqQsKxiKT0" title="St Paul & The Broken Bones  -  Sanctify" >}}
@@ -36,9 +37,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [St  Paul & The Broken Bones - Sea of Noise - Trailer](https://www.youtube.com/watch?v=OkuXq-WOHJw)
 - [St. Paul & The Broken Bones - 'Sea of Noise' |Official Album Release Party|](https://www.youtube.com/watch?v=KgyogotaYys)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -48,4 +47,3 @@ styles: ["Rhythm & Blues", "Soul"]
 | Catalog Number | REC006 |
 
 Pre-order included option for signed copy
-

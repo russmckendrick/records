@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Zeroes And Ones (3:24)
 2. The Devil You Know (4:31)
@@ -27,6 +26,8 @@ styles: ["Synth-pop", "Indie Rock"]
 10. Tongue Tied (3:16)
 11. Spiral (4:30)
 12. Idiot Stare (5:10)
+## Spotify
+{{< spotify type="album" id="4DkVX8rMCQOTg9743dJwnT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2s_UjdsMoPk" title="Zeroes And Ones - Jesus Jones" >}}
@@ -42,9 +43,7 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
 - [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,6 +51,5 @@ styles: ["Synth-pop", "Indie Rock"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Tra |
 | Catalog Number | DEMREC954 |
-
 
 

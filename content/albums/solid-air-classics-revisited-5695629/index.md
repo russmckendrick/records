@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Head & Heart
 2. Over The Hill
@@ -27,9 +26,7 @@ styles: ["Folk Rock"]
 10. Man In The Station
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -39,4 +36,3 @@ styles: ["Folk Rock"]
 | Catalog Number | SMALP1028 |
 
 Solid Air: Classics Revisited is drawn from John Martyn's 1993 studio re-recordings of several of his back catalogue treasures (on which Martyn was joined by the likes of David Gilmour, Eric Clapton and Phil Collins).   Featuring 10 of Martyn's most essential songs, this Madfish re-release is now available on 180g vinyl.   Made in Germany
-

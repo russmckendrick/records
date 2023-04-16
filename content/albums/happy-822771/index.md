@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Happy (3:24)
 2. Twenty Three Hour Toothache (3:07)
@@ -34,9 +33,7 @@ styles: ["Indie Rock"]
 - [Neds Atomic Dustbin Happy Stourbridge 2007](https://www.youtube.com/watch?v=GcrHOAooRIA)
 - [Ned's Atomic Dustbin - Talk Me Down](https://www.youtube.com/watch?v=MTvKNmdK97E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -44,6 +41,5 @@ styles: ["Indie Rock"]
 | Label          | Sony Soho Square |
 | Format         | 12\", Single |
 | Catalog Number | 656680 6 |
-
 
 

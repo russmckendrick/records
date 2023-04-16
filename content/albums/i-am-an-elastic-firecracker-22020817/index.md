@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Rocketpop (4:04)
 2. Bang (4:03)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Noose (4:50)
 11. Prick (9:20)
 12. High (3:51)
+## Spotify
+{{< spotify type="album" id="4H0sGJvU49fFtUH86CJyu5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eYI99xuI9CM" title="Tripping Daisy - I Got A Girl" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Trip Along](https://www.youtube.com/watch?v=Hd9AQ_a8uXY)
 - [Tripping Daisy - Prick](https://www.youtube.com/watch?v=iwBWEjPX0qk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | MOVLP3008 |
 
 Original Release ℗ 1995 Island Records, Inc. This release ℗ & © 2022 Universal Music - a division of Universal International Music B.V. Manufactured & distributed by Music On Vinyl B.V. for Universal Music - a division of Universal International Music B.V. All rights reserved. Unauthorized copying, hiring, lending, public performance & broadcasting  prohibited. Made in the Netherlands. MOVLP3008
-

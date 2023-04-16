@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
-
 ## Tracklisting
 1. 1.5_1-Askingthe1mpossible.M4p
 2. 1.5_2-Hackthepolice.Mp3
@@ -43,9 +42,7 @@ styles: ["Soundtrack", "Score"]
 {{< youtube id="lVll1epJBHU" title="Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)" >}}
 - [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -55,4 +52,3 @@ styles: ["Soundtrack", "Score"]
 | Catalog Number | INV161LP |
 
 Music Executive: Alicen Schneider Studio Executives: Stacy Fung, Steve Dolcemaschio  Gatefold sleeve. Release comes with: Double Sided Printed Insert fsociety stencil art on cardstock Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.1, included a 12x12 print.
-

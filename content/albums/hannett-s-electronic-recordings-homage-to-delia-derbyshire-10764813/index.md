@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Experimental", "Synthwave"]
 ---
-
 ## Tracklisting
 1. Martin On Synths, Keyboards Etc - Track A (3:41)
 2. Homage To Delia Derbyshire, Pt. 2 (2:38)
@@ -33,15 +32,15 @@ styles: ["Experimental", "Synthwave"]
 16. Martin On Synths, Metronome Etc (4:04)
 17. Homage To Delia Derbyshire, Pt. 17 (2:07)
 18. Homage To Delia Derbyshire, Pt. 18 (2:12)
+## Spotify
+{{< spotify type="album" id="5wziifmaJa8t0DDipB9o9Z" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KqF8gvUx4kA" title="Homage To Delia Derbyshire, Pt. 11" >}}
 - [Martin Plays Bass](https://www.youtube.com/watch?v=hsskkL7C7PA)
 - [Martin On Synths, Keyboards ETC (Track A)](https://www.youtube.com/watch?v=hqqqSykCHRo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +50,3 @@ styles: ["Experimental", "Synthwave"]
 | Catalog Number | OZITDAN LP 9991 |
 
 Limited edition of 300 copies on 180g Orange Vinyl
-

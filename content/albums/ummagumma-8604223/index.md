@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Live Album
 2. Astronomy Domine
@@ -26,6 +25,8 @@ styles: ["Psychedelic Rock", "Experimental"]
 9. Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
 10. The Narrow Way
 11. The Grand Vizier's Garden Party
+## Spotify
+{{< spotify type="album" id="3IPhWIXHOAhS2npnq6FiCG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZSAJlzn8Gf8" title="Pink Floyd - Astronomy Domine (Live)" >}}
@@ -45,9 +46,7 @@ styles: ["Psychedelic Rock", "Experimental"]
 - [Pink Floyd - The Grand Vizier's Garden Party, Part II: Entertainment (Official Audio)](https://www.youtube.com/watch?v=WyFnoStywyM)
 - [The Grand Vizier's Garden Party (Exit) (2011 Remastered Version)](https://www.youtube.com/watch?v=-GEVsvVLCrE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -57,4 +56,3 @@ styles: ["Psychedelic Rock", "Experimental"]
 | Catalog Number | PFRLP4, 0825646493166 |
 
 The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1969 Made and printed in the E.U. www.pinkfloyd.com  Live album Recorded at Mothers Birmingham & Manchester College of Commerce, June 1969.  ℗ & © 2016 Pink Floyd Music Ltd.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Hitch Hikin'
 2. The Wayfarer
@@ -28,6 +27,8 @@ styles: ["Pop Rock"]
 11. There Goes My Miracle
 12. Hello Sunshine
 13. Moonlight Motel
+## Spotify
+{{< spotify type="album" id="6BhqPpIgY83rqoZ2L78Lte" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tbDKBcPsmoQ" title="Bruce Springsteen - There Goes My Miracle (Lyric Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Pop Rock"]
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
 - [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -55,4 +54,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 19075937511 |
 
 © & ℗ 2019 Bruce Springsteen  Gatefold sleeve. Includes printed inner sleeves and Free Digital Download.  Some copies sold in Spain were repackaged to include a promotional slipmat.  Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched. 
-

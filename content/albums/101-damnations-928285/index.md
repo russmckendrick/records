@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Road To Domestos
 2. Everytime A Churchbell Rings
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Midnight On The Murder Mile
 10. A Perfect Day To Drop The Bomb
 11. G.I. Blues
+## Spotify
+{{< spotify type="album" id="3jJ36Wp8yuMlMlEy832Eeq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XtDOmAh0QvM" title="Carter USM - Murder on the Midnight Mile" >}}
@@ -49,9 +50,7 @@ styles: ["Indie Rock"]
 - [Good Grief Charlie Brown](https://www.youtube.com/watch?v=bMbmGmsqYYM)
 - [RSPCE](https://www.youtube.com/watch?v=MBtJre8xxjA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -61,4 +60,3 @@ styles: ["Indie Rock"]
 | Catalog Number | ABB 101, ABB101 |
 
 Includes printed inner sleeve with lyrics.  Recorded at Important Notice Studios, Mitcham, South London.  Cat# ABB 101 appears on the back cover, spine and insert. Cat# ABB101 appears on the labels.  Published By Cat X Mouse Music 1990.  ©Big Cat U.K. Records Ltd 1990.
-

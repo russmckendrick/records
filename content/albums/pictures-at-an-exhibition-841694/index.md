@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Promenade
 2. The Gnome
@@ -27,11 +26,11 @@ styles: ["Prog Rock"]
 10. The Hut Of Baba Yaga
 11. The Great Gates Of Kiev
 12. Nutrocker
-
+## Spotify
+{{< spotify type="album" id="1tEBKb1KSGaO5Ct2iDfKOE" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1973 |
@@ -41,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | K 33501 |
 
 Recorded Live, Newcastle City Hall, March 26, 1971. Original release date 1971. 
-

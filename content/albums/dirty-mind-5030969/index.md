@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Soul", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Dirty Mind (4:11)
 2. When You Were Mine (3:44)
@@ -23,6 +22,8 @@ styles: ["Disco", "Soul", "Synth-pop"]
 6. Head (4:40)
 7. Sister (1:33)
 8. Partyup (4:24)
+## Spotify
+{{< spotify type="album" id="4JsSbaggaprB1AfDylXnxO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4mXPQIrY5rE" title="Dirty Mind" >}}
@@ -38,16 +39,13 @@ styles: ["Disco", "Soul", "Synth-pop"]
 - [Gotta Broken Heart Again](https://www.youtube.com/watch?v=7Xgx5WpMp98)
 - [When You Were Mine](https://www.youtube.com/watch?v=sXS2KdNzMDk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
 | Discogs Link   | [Prince - Dirty Mind](https://www.discogs.com/release/5030969-Prince-Dirty-Mind) |
-| Label          | Warner Bros. Records, Rhino Records (2) |
+| Label          | Warner Bros. Records, Rhino Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122-79777-7 |
 
 Recorded somewhere in Uptown. Re-mixed at Hollywood Sound Recorders, Hollywood, Calif.  Mastered at Bernie Grundman Mastering from the Original Tapes  Mastered at A&M Records. Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  The runouts read the release was plated at RTI and pressed by Optimal. A similar [US version](https://www.discogs.com/Prince-Dirty-Mind/release/2908664) exists.
-

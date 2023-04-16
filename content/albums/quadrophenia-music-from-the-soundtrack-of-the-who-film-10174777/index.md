@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues", "Mod"]
 ---
-
 ## Tracklisting
 1. I Am The Sea
 2. The Real Me
@@ -53,9 +52,7 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 - [The Ronettes - Be My Baby - live [HQ]](https://www.youtube.com/watch?v=jrVbawRPO7I)
 - [The Crystals - Da Doo Ron Ron - new stereo remix versions](https://www.youtube.com/watch?v=v-qqi7-Q19k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -65,4 +62,3 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 | Catalog Number | 5732868 |
 
 RSD 2017 Re-issue on 180 gram "Parka Green" coloured vinyl.  Comes in gatefold sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Bat Out Of Hell (9:48)
 2. You Took The Words Right Out Of My Mouth (Hot Summer Night) (5:04)
@@ -25,6 +24,8 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 8. Let Me Sleep On It
 9. Praying For The End Of Time
 10. For Crying Out Loud (8:45)
+## Spotify
+{{< spotify type="album" id="6mvI80w5r78niBmwtu7RF9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}
@@ -38,9 +39,7 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 - [Great Boleros of Fire (Live Intro)](https://www.youtube.com/watch?v=6YBGsJtXtys)
 - [Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)](https://www.youtube.com/watch?v=hkgXS5sotAM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1977 |
@@ -50,4 +49,3 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 | Catalog Number | EPC 82419 |
 
 Track B2 is seperated into three parts. Credit for arranging reads: "Arranged by Jim Steinman with Todd Rundgren".  Recorded at Bearsville Sound, Bearsville, N.Y., Utopia Sound, Lake Hill, N.Y., The Hit Factory, New York City, N.Y., House Of Music, West Orange, N.J. Mastered at The Cutting Room.  Dedicated to Wesley and Wilma Aday and Louis Steinman.  ⓟ 1977 CBS Inc / © 1977 CBS Inc. Issue with an insert containing lyrics.  Shorepack by Shorewood Packaging Co. Ltd. England  Recorded at: Bearsville Sound, Bearsville, N.Y. Utopia Sound, Lake Hill, N.Y. The Hit Factory, New York City, N.Y. House Of Music, West Orange, N.J.  [r=21945979] is almost the same as this release but does NOT include an inner sleeve with printed credits + lyrics, and also has "EPC 82419" on the labels [r=10022013] is almost the same as this release but has "S EPC 82419" not "EPC 82419" cat # printed on the labels
-

@@ -1,6 +1,6 @@
 ---
-title: "Utopia (5) - Oops! Wrong Planet"
-artist: "Utopia (5)"
+title: "Utopia - Oops! Wrong Planet"
+artist: "Utopia"
 album_name: "Oops! Wrong Planet"
 date: 2022-03-06
 release_id: "1393361"
@@ -8,12 +8,11 @@ slug: "oops-wrong-planet-1393361"
 hideSummary: true
 cover:
     image: "oops-wrong-planet-1393361.jpg"
-    alt: "Oops! Wrong Planet by Utopia (5)"
-    caption: "Oops! Wrong Planet by Utopia (5)"
+    alt: "Oops! Wrong Planet by Utopia"
+    caption: "Oops! Wrong Planet by Utopia"
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Trapped (3:06)
 2. Windows (4:17)
@@ -27,6 +26,8 @@ styles: ["Art Rock", "Prog Rock"]
 10. My Angel (3:40)
 11. Rape Of The Young (3:11)
 12. Love Is The Answer (4:10)
+## Spotify
+{{< spotify type="album" id="2R05jarIYeN8NjVJstLySV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Wyiu68va3mA" title="Utopia - Abandon City" >}}
@@ -37,16 +38,13 @@ styles: ["Art Rock", "Prog Rock"]
 - [Utopia- Trapped](https://www.youtube.com/watch?v=tOAdhIWpgk8)
 - [Utopia - Crazy Lady Blue](https://www.youtube.com/watch?v=QxeGZuwgPEU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1977 |
-| Discogs Link   | [Utopia (5) - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-Oops-Wrong-Planet) |
+| Discogs Link   | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-Oops-Wrong-Planet) |
 | Label          | Bearsville |
 | Format         | LP, Album |
 | Catalog Number | K 55517 |
 
 Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970 
-

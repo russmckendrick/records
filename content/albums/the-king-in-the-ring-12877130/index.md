@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Rock & Roll", "Ballad"]
 ---
-
 ## Tracklisting
 1. That’s All Right (4:08)
 2. Heartbreak Hotel (2:55)
@@ -48,9 +47,7 @@ styles: ["Rock & Roll", "Ballad"]
 31. Memories  (3:13)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -60,4 +57,3 @@ styles: ["Rock & Roll", "Ballad"]
 | Catalog Number | 19075896631 |
 
 Black Vinyl . Gatefold sleeve.  Recorded at NBC Studios Burbank, June 27, 1968  6PM & 8PM shows.  Made in the US.  Track information: Tracks A6,B7,D3,D5,D6  originally released 1968 Tracks C5,D1,D2 originally released 1974 Tracks B6, C7 originally released 1976 Track A5 originally released 1981 Track C4 originally released 1983 Tracks B2,B4 originally released 1997 Tracks A1to A4, A7,B1,B3,B5,B8, C1 to C3, C6, C8,D4,D7,D8 originally released 1998 All tracks originally recorded 1968
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Nothingness And No Regrets
 2. The Wake Of Your Life
@@ -26,6 +25,8 @@ styles: ["Indie Rock", "Prog Rock"]
 9. 85 Videos
 10. Zanzibar
 11. Carry Me To Safety
+## Spotify
+{{< spotify type="album" id="63sDkky1tDgS9oF2gSh2ry" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6w8SpxnhKuI" title="Mew - Carry Me To Safety (Official Audio)" >}}
@@ -33,9 +34,7 @@ styles: ["Indie Rock", "Prog Rock"]
 - [Mew - Twist Quest](https://www.youtube.com/watch?v=XHIEEvJMZBI)
 - [New Album 'Visuals'](https://www.youtube.com/watch?v=hSqJNfzTkMo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Indie Rock", "Prog Rock"]
 | Catalog Number | PIASR940LP |
 
 There is no data of trackduration on this release
-

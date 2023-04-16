@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
-
 ## Tracklisting
 1. Part 1
 2. Spinning Song (4:43)
@@ -28,6 +27,8 @@ styles: ["Ambient"]
 11. Ghosteen (12:10)
 12. Fireflies (3:23)
 13. Hollywood (14:12)
+## Spotify
+{{< spotify type="album" id="5TkXgoeyGznBNOjrw17eA7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ha5VGMaG4E4" title="Nick Cave and The Bad Seeds - Spinning Song (Lyric Video)" >}}
@@ -42,9 +43,7 @@ styles: ["Ambient"]
 - [Nick Cave and The Bad Seeds - Fireflies (Lyric Video)](https://www.youtube.com/watch?v=PDm1w067hdU)
 - [Nick Cave and The Bad Seeds - Hollywood (Lyric Video)](https://www.youtube.com/watch?v=MfDx09Ko8G4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +53,3 @@ styles: ["Ambient"]
 | Catalog Number | BS016LP, 5056167114796 |
 
 Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed at Conway, Los Angeles  Published by Kobalt Music Group Ltd  This record is dedicated to [a259149]  ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU    [Album download](https://www.discogs.com/release/14570498) code included. Packaged in a gatefold sleeve with poly-lined inner sleeves printed with lyrics.  The BS016LP catalog number follows the [l501701] label format.
-

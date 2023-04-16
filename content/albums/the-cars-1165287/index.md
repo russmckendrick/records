@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Good Times Roll (3:44)
 2. My Best Friend's Girl (3:44)
@@ -24,6 +23,8 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 7. Bye Bye Love (4:14)
 8. Moving In Stereo (5:15)
 9. All Mixed Up (4:14)
+## Spotify
+{{< spotify type="album" id="4tJPWT4r4FSKwy784Qs1Fq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ki6xHnDAwHw" title="Good Times Roll" >}}
@@ -36,9 +37,7 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 - [Moving in Stereo](https://www.youtube.com/watch?v=y5oPZFDci80)
 - [All Mixed Up](https://www.youtube.com/watch?v=VFXsdQb35Io)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -48,4 +47,3 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 | Catalog Number | K 52088 |
 
 ℗ 1978 Elektra Records © 1978 An Elektra/Asylum Recording  All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978 Made in UK A1 to B2, B4: Lido Music B3: Lido Music / Oversnare Music  This version labels say SIDE 1 and SIDE 2 Version with SIDE ONE and SIDE TWO on labels is here [r14061338]
-

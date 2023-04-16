@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. The Joshua Tree Remastered
 2. Where The Streets Have No Name (5:37)
@@ -67,6 +66,8 @@ styles: ["Classic Rock"]
 50. Silver And Gold (4:37)
 51. Sweetest Thing (3:04)
 52. Race Against Time (4:03)
+## Spotify
+{{< spotify type="album" id="5y6wlw1LnqFnQFruMeiwGU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GzZWSrr5wFI" title="U2 - Where The Streets Have No Name (Official Music Video)" >}}
@@ -75,9 +76,7 @@ styles: ["Classic Rock"]
 - [U2 - With Or Without You (Official Music Video)](https://www.youtube.com/watch?v=ujNeHIo7oTE)
 - [U̲2 - The Joshua Tree (Full Album)](https://www.youtube.com/watch?v=YPmdjA8_YOk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -87,4 +86,3 @@ styles: ["Classic Rock"]
 | Catalog Number | 00602557482485 |
 
 The Joshua Tree 30th Anniversary Super Deluxe Edition  Cover features a textured embossed gold foiled Joshua Tree icon. Includes: • 7 pieces of original, live and unreleased recordings on 12" 180gsm vinyl including: • The Joshua Tree double album (Remastered edition of the original album.) • The Joshua Tree Live at Madison Square Garden 28th September 1987 (Features selected tracks from the concert with no overdubs or corrections.)  • The Joshua Tree Remixes, Outtakes & B-Sides • The Joshua Tree – Photographs by The Edge. An 84-page hardback book of personal never-before seen photography by The Edge, taken during the original Mojave Desert Joshua Tree shoot, 1986 • A folio of 8 rare 12” Anton Corbijn colour prints • 3.5hrs of audio content / 49 tracks (25x unreleased tracks: 17x live, 7x new mixes, 1x archive track) • Audio download code  LPs 1 & 2: The Joshua Tree LPs 3 & 4: The Joshua Tree Live at Madison Square Garden 28th September 1987  LPs 5, 6 & 7: The Joshua Tree Remixes, Outtakes & B-Sides  All tracks written by U2 and published by Universal Music Publishing B.V. except Blue Mountain Music Ltd. (UK), Mother Music (IRL).
-

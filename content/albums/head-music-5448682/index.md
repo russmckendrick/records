@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Electricity (4:39)
 2. Savoir Faire (4:37)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Britpop"]
 11. Indian Strings (4:21)
 12. He's Gone (5:35)
 13. Crack In The Union Jack (1:56)
+## Spotify
+{{< spotify type="album" id="03SdAKm8cdH2jeKKyTiYvc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ygHrqRx7Abg" title="Suede - Electricity (Official Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Britpop"]
 - [Suede - Can't Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
 - [Suede - Head Music (Full Album)](https://www.youtube.com/watch?v=ysFDcqnE7D4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Britpop"]
 | Catalog Number | INSATIABLE 4 |
 
 Mastered at The Townhouse. Pressed at Damont Audio Limited. Designed at Commercial Art. Supplied with download card for the full album.  Though reissued in 2014, copyright notice states '(c) 2013'. 
-

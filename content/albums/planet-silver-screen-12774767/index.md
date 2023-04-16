@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Cut (02:12)
 2. Planet Silver Screen (03:50)
@@ -24,15 +23,15 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 7. Cyborg Pt.2: The City (04:11)
 8. Duplex (03:46)
 9. Video Maniacs (08:14)
+## Spotify
+{{< spotify type="album" id="2ZOtKQ6rAGvjDJ8ShRFsdU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nfONQAflRBw" title="FOUR STROKE BARON - PLANET SILVER SCREEN (OFFICIAL VIDEO)" >}}
 - [FOUR STROKE BARON - PLANET SILVER SCREEN (DRUM PLAYTHROUGH)](https://www.youtube.com/watch?v=PUdwFiEdJXg)
 - [Planet Silver Screen](https://www.youtube.com/watch?v=cvGShUhUvZw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,4 +41,3 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 | Catalog Number | PROS103361 |
 
 1st Pressing. 300 copies pressed worldwide in limited edition purple vinyl Includes lyric insert printed both sides with second side as reverse/mirror image.  Four Stroke Baron are: Kirk Witt - Guitars, Vocals Proudly uses ESP Guitars, D'Addario, Line-6 , Port City, TC Helicon, TC Electronic, and Telefunken  Matt Vallarino - Drums Proudly uses Meinl Cymbals, DW Drums, Vic Firth, and Evans.  Keegan Ferrari - Bass Proudly uses Warwick, D'Addario, Darkglass Electronics, Black Market Custom, Rockboard, TC Electronic, TC Helicon, and Shure
-

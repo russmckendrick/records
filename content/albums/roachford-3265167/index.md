@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ---
-
 ## Tracklisting
 1. Give It Up (3:40)
 2. Family Man (3:46)
@@ -25,6 +24,8 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 8. Lying Again (3:32)
 9. Since (3:22)
 10. Nobody But You (4:24)
+## Spotify
+{{< spotify type="album" id="6dF7fcowcdm0UhWUEDMfIH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gZvpVYm2kxI" title="Roachford Cuddly Toy Original Video" >}}
@@ -33,9 +34,7 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 - [Find Me Another Love (The 'Psycho Bump Beat ' Mix)](https://www.youtube.com/watch?v=RbGljByCxq0)
 - [Roachford - Cuddly Toy](https://www.youtube.com/watch?v=sbscx0S3jcY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -45,4 +44,3 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 | Catalog Number | 460630 1 |
 
 ℗ 1988 CBS Records (labels, inside sleeve) © 1988 CBS Records (back cover)  Textured sleeve with printed inner sleeve.
-

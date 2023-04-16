@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Riding With The King (4:23)
 2. Ten Long Years (4:41)
@@ -45,9 +44,7 @@ styles: ["Blues Rock"]
 - [Worried Life Blues](https://www.youtube.com/watch?v=eJmyKIQktPk)
 - [Key to the Highway](https://www.youtube.com/watch?v=zDCXXSasyoo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -57,4 +54,3 @@ styles: ["Blues Rock"]
 | Catalog Number | 093624893417, 093624895206 |
 
 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.  “Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.  Made in the Netherlands
-

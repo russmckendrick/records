@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. I Fought In A War
 2. The Model
@@ -26,14 +25,14 @@ styles: ["Indie Rock"]
 9. Women's Realm
 10. Family Tree
 11. There's Too Much Love
+## Spotify
+{{< spotify type="album" id="4fzo0zlnGOAiuB6ybFPlvz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6d9sHXnT3ks" title="Belle and Sebastian - The Wrong Girl" >}}
 - [Belle and Sebastian - I Fought in a War](https://www.youtube.com/watch?v=3MhMODbr-p4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock"]
 | Catalog Number | OLE 429-8 |
 
 Includes mp3 download coupon.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Leave A Light On (4:34)
 2. Runaway Horses (4:42)
@@ -25,6 +24,8 @@ styles: ["Soft Rock", "Pop Rock"]
 8. Valentine (5:03)
 9. Whatever It Takes (4:49)
 10. Shades Of Michelangelo (5:46)
+## Spotify
+{{< spotify type="album" id="14HEt8p61frBrOqht0yex7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J7DOyqNtmgM" title="Leave A Light On" >}}
@@ -40,9 +41,7 @@ styles: ["Soft Rock", "Pop Rock"]
 - [Whatever It Takes](https://www.youtube.com/watch?v=7T3HLGHigwI)
 - [Shades Of Michaelangelo](https://www.youtube.com/watch?v=c8GV0CxraL4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -52,4 +51,3 @@ styles: ["Soft Rock", "Pop Rock"]
 | Catalog Number | DEMREC307 |
 
 Sticker: 'Pressed on 180gm heavyweight translucent green vinyl'. Printed inner sleeve. 
-

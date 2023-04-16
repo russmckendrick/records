@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Introducing "The Best Years"
 2. The Mad, Mad Moonlight
@@ -30,6 +29,8 @@ styles: ["Classic Rock"]
 13. Mr Raffles (Man,It Was Mean) [Single Version]
 14. The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75)
 15. Sebastian (Live At Hammersmith Odeon 14/4/75)
+## Spotify
+{{< spotify type="album" id="4D1oAjj0nxeAlsAJWAJn8g" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="G00gx11mKf4" title="Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975" >}}
@@ -60,9 +61,7 @@ styles: ["Classic Rock"]
 - [Make Me Smile (Come up and See Me) (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=iIXGkgkst7s)
 - [Tumbling Down (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=zWHMjqV1SJQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -72,4 +71,3 @@ styles: ["Classic Rock"]
 | Catalog Number | CRVX1383, 5060516095506 |
 
 ℗ 2020 ... in this compilation is owned by Chrysalis Records Limited © 2020 Chrysalis Records Limited Made in the UK  Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'  Credits on the inner sleeve say "2020 Reissue" although released in 2021  The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"  2020 Reissue Mastering / Lacquers: Alchemy Mastering "The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068]   Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.  Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974]
-

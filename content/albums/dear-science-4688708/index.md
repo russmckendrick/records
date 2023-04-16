@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Halfway Home (5:32)
 2. Crying (4:11)
@@ -26,6 +25,8 @@ styles: ["Leftfield", "Indie Rock"]
 9. Shout Me Out (4:16)
 10. DLZ (3:49)
 11. Lover's Day (5:54)
+## Spotify
+{{< spotify type="album" id="3bWZ33ZCvHQD3nJnPjpfk7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CBEht-RY8oc" title="Halfway Home" >}}
@@ -37,9 +38,7 @@ styles: ["Leftfield", "Indie Rock"]
 - [TV On The Radio - Golden Age](https://www.youtube.com/watch?v=2wTHxUl9WdQ)
 - [Family Tree](https://www.youtube.com/watch?v=1oKgKT8yONs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -49,4 +48,3 @@ styles: ["Leftfield", "Indie Rock"]
 | Catalog Number | CAD2821 |
 
 "TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink. Gatefold sleeve.  ℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.  Recorded at Stay Gold Studio, Brooklyn, NY 2008. Mixed at Chalice Studios, Los Angeles, CA.  Track durations not listed on the release.
-

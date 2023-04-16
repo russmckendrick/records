@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Everlasting
 2. If You Tolerate This Your Children Will Be Next
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Black Dog On My Shoulder
 12. Prologue To History
 13. S.Y.M.M.
+## Spotify
+{{< spotify type="album" id="7CCkQQvhSAUjuzLQAV8S5a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vQGB-nXalLE" title="Manic Street Preachers ‎– If You Tolerate This Your Children Will Be Next" >}}
@@ -41,9 +42,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Ready For Drowning](https://www.youtube.com/watch?v=KDJvmgc-lPk)
 - [Manic Street Preachers - If You Tolerate This Your Children Will Be Next (Live)](https://www.youtube.com/watch?v=ubhMc_odHcU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 19075895241 |
 
 20th Anniversary Collectors’ Edition  Gatefold sleeve Printed inner sleeves Double180 gram vinyl Includes mp3 download card and a poster.  Made in the EU. 
-

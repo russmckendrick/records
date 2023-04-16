@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. The Original Album - Half-Speed Mastered Edition - 50th Anniversary
 2. I Looked Away (3:06)
@@ -46,6 +45,8 @@ styles: null
 29. High (From April / May 1971 Sessions For The Dominos' Second Album) (3:15)
 30. Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) (3:45)
 31. Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) (6:05)
+## Spotify
+{{< spotify type="album" id="5iIWnMgvSM8uEBwXKsPcXM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PMlmoLvRBNQ" title="Derek and the Dominos - I Looked Away" >}}
@@ -63,9 +64,7 @@ styles: null
 - [Layla (40th Anniversary Version / 2010 Remastered)](https://www.youtube.com/watch?v=XVGTGW0cCw8)
 - [Derek and the Dominos - Thorn Tree in the Garden](https://www.youtube.com/watch?v=DrofkmicrRM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -75,4 +74,3 @@ styles: null
 | Catalog Number | 0602507274900, 0727490 |
 
 This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company. Made in the Czech Republic.  Hype Sticker (Guitar Shape) on Front of The Box Set reads: 50th Anniversary Half-Speed Mastered Vinyl Edition. Includes: - The Original Album In Half-Speed Mastered Format - Bonus Material Cut As Normal 180 Gram Vinyl - First Time On Vinyl For Some  Of These Rarities  F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set).
-

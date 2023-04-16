@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", "Thrash"]
 ---
-
 ## Tracklisting
 1. I Love You Mary Jane (3:49)
 2. Judgment Night (4:35)
@@ -40,16 +39,13 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 - [Come and Die](https://www.youtube.com/watch?v=xpZAcrZqcFU)
 - [Real Thing](https://www.youtube.com/watch?v=7s0hQF2sUt0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Various - Judgment Night (Music From The Motion Picture)](https://www.discogs.com/release/2602982-Various-Judgment-Night-Music-From-The-Motion-Picture) |
-| Label          | Music On Vinyl, Immortal Records (3), Epic Soundtrax, Epic |
+| Label          | Music On Vinyl, Immortal Records, Epic Soundtrax, Epic |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP232 |
 
 A sticker affixed to the polythene outer sleeve reads:  "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Track B5 is listed as a bonus track.  Mastered at Masterdisk, New York.  Motion picture photography & artwork title © 1993 Largo Entertainment. Originally released ℗ & © 1993 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.
-

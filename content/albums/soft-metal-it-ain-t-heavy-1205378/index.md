@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
-
 ## Tracklisting
 1. Alone (3:35)
 2. Kayleigh (3:32)
@@ -54,9 +53,7 @@ styles: ["Soft Rock"]
 - [Survivor - Burning Heart](https://www.youtube.com/watch?v=Kc71KZG87X4)
 - [John Parr - St Elmo's Fire  (Man In Motion)](https://www.youtube.com/watch?v=EOvMpND2OZY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -66,4 +63,3 @@ styles: ["Soft Rock"]
 | Catalog Number | SMR 862 |
 
 Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix Track A9 - Europe - The Final Countdown is the Album Version Track B1 - Starship - We Built This City is the Album Version Track B6 - Krokus - Screaming In The Night is a Live Version.  Durations do not appear on this release. Timings via stopwatch.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ---
-
 ## Tracklisting
 1. Mosaic
 2. Cameron's Motorcycle Diaries
@@ -46,9 +45,7 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 - [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
 - [I Have an Idea](https://www.youtube.com/watch?v=uRrGFikI8iU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -58,4 +55,3 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 | Catalog Number | FROST007LPX |
 
 Record Store Day 2019 exclusive release  Gate-fold sleeve inside a die-cut comet outer sleeve
-

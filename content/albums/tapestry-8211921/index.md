@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. I Feel the Earth Move
 2. So Far Away
@@ -29,6 +28,8 @@ styles: null
 12. Tapestry
 13. (You Make Me Feel Like) A Natural Woman
 14. Smackwater Jack (Previously Unreleased Live Version)
+## Spotify
+{{< spotify type="album" id="12n11cgnpjXKLeqrnIERoS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6913KnbMpHM" title="Carole King - I Feel the Earth Move (Official Audio)" >}}
@@ -44,16 +45,13 @@ styles: null
 - [Tapestry](https://www.youtube.com/watch?v=JM07lUytXA0)
 - [Carole King - (You Make Me Feel Like) A Natural Woman (Official Audio)](https://www.youtube.com/watch?v=KQXY8zwQgmc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Carole King - Tapestry](https://www.discogs.com/release/8211921-Carole-King-Tapestry) |
-| Label          | Ode Records (2), Epic, Legacy, Sony Music |
+| Label          | Ode Records, Epic, Legacy, Sony Music |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 88875170161 |
 
 Gatefold sleeve. Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM
-

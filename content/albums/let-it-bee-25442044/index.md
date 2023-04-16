@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Beat Of Love (4:03)
 2. Sorrow Floats (4:15)
@@ -26,6 +25,8 @@ styles: ["Pop Rock", "Indie Rock"]
 9. I Say Nothing (3:25)
 10. There's A Barbarian In The Back Of My Car (2:35)
 11. Just A City (4:15)
+## Spotify
+{{< spotify type="album" id="303IyFuPx8pzAuAjazvdHK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KuGz-ZpqTWg" title="Beat of Love - Voice of the Beehive" >}}
@@ -43,9 +44,7 @@ styles: ["Pop Rock", "Indie Rock"]
 - [Voice Of The Beehive - Sorrow Floats](https://www.youtube.com/watch?v=H3nWNxFoz-w)
 - [Voice Of The Beehive - What You Have Is Enough](https://www.youtube.com/watch?v=Kd7ae8oqkd4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -55,4 +54,3 @@ styles: ["Pop Rock", "Indie Rock"]
 | Catalog Number | LMS5521766, 5060555217662 |
 
 Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.  Copies ordered from the artist's online store (via Townsend Music) come with a signed print.  Manufactured in France.
-

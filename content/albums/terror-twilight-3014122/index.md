@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Spit On A Stranger (3:04)
 2. Folk Jam (3:34)
@@ -26,14 +25,14 @@ styles: ["Indie Rock"]
 9. Speak, See, Remember (4:20)
 10. The Hexx (5:39)
 11. ...And Carrot Rope (3:52)
+## Spotify
+{{< spotify type="album" id="6LvzAzZDazPb9hKNjj1JRN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger (Official Video)" >}}
 - [Pavement - Major Leagues (Official Video)](https://www.youtube.com/watch?v=qWmXoHLF0LE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock"]
 | Catalog Number | WIGLP 66 |
 
 Sticker says :180gm heavyweight vinyl comes with mp3s!  Comes with printed inner sleeve and free download code. 
-

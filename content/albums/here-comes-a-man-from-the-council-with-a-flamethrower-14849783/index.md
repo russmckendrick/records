@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Magazine Zooey Deschanel (2:08)
 2. Bird (2:35)
@@ -31,6 +30,8 @@ styles: ["Prog Rock", "Alternative Rock"]
 14. Unison 3 (3:58)
 15. Boarded Doors Reprise (0:48)
 16. Anyway (3:25)
+## Spotify
+{{< spotify type="album" id="0laB3CZ60ALn8lVAx1Hwxi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ftjAexbR2p8" title="Magazine Zooey Deschanel" >}}
@@ -41,9 +42,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [Bee](https://www.youtube.com/watch?v=vNAS4q54L0A)
 - [Here Comes a Man from the Council With a Flamethrower](https://www.youtube.com/watch?v=LdWKULgyC2I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -53,4 +52,3 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Catalog Number | PLG081 |
 
 Packaged in a single jacket with 2-page color insert and polylined LP sleeve.  Limited edition of 300 copies of which the first 60 were signed by the band.
-

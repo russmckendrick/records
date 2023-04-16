@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Summer
 2. New Paths To Helicon Part 1
@@ -57,9 +56,7 @@ styles: ["Post Rock"]
 - [Earth Division](https://www.youtube.com/watch?v=CAoLNBPU9mo)
 - [Teenage Exorcists](https://www.youtube.com/watch?v=i2hbDzSCPO0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -69,4 +66,3 @@ styles: ["Post Rock"]
 | Catalog Number | ROCKACT100LP |
 
 Sticker on box:  "Central Belters: A Mogwai Retrospective  Heavyweight 6xLP set including album tracks, singles and rarities 1995 - 2015  Includes digital download coupon"  "This compilation P & C 2015 Rock Action Records"  Disc One:  Published by Chrysalis Music  Tracks 1 & 2 taken from the album "[Ten Rapid](http://www.discogs.com/Mogwai-Ten-Rapid-Collected-Recordings-1996-1997/master/17956)"  P&C 1997 Rock Action Records  Tracks 3 & 4 taken from the album "[m=6404]" P&C 1999 Chemikal Underground Ltd.  Tracks 5 & 6 taken from the album "[m=6427]" P&C 2003 Play It Again Sam [PIAS]  Disc Two:  Published by Chrysalis Music  Track 1 taken from the " [m=205749]" EP P&C 2001 Chemikal Underground Ltd.  Tracks 2 & 3 taken from the album "[m=18092]" P&C 2001 Southpaw Recordings  Track 4 taken from the album "[m=18165]" P&C 1997 Chemikal Underground Ltd.  Disc Three:  Published by Chrysalis Music  Tracks 1, 2, 3 & 4 taken from the album "[m=18032]" P&C 2006 Play It Again Sam [PIAS]  Tracks 5, 6 & 7 taken from the album "[m=69192]" P&C 2008 Wall Of Sound Ltd.  Disc Four:  Track 1 published by Chrysalis Music Tracks 2 to 7 published by Kobalt Music Publishing/Tomorrow Hits Publishing  Tracks 1, 2 & 3 taken from the album " [m=309320]" P&C 2011 Rock Action Records  Track 4 taken from the "[m=525093]" OST P&C 2013 Rock Action Records  Tracks 5 & 6 taken from the album " [m=643358]" P&C 2014 Rock Action Records  Track 7 taken from the "[m=764273]" EP P&C 2014 Rock Action Records  Disc Five:  Tracks 1, 2, 3 & 4 published by Chrysalis Music Track 5 published by Kobalt Music Publishing/Tomorrow Hits Publishing  Track 1 taken from the "[r=5930644]" reissue P&C 2014 Chemikal Underground Ltd.  Track 2 taken from the "[Zidane: A 21 st Century Portrait](http://www.discogs.com/Mogwai-Zidane/master/18045)" OST  P&C 2006 Wall Of Sound Ltd.  Track 3 taken from the "[m=205749]" EP P&C 2001 Chemikal Underground Ltd.  Track 4 taken from the "[m=69179]" single P&C 2008 Wall of Sound Ltd.  Track 5 taken from The "[Rano Pano](http://www.discogs.com)" single P&C 2011 Rock Action Records   Disc Six:  Tracks 1, 2 & 3 published by Kobalt Music Publishing/ Tomorrow Hits Publishing Tracks 4 & 5 published by Chrysalis Music  Track 1 taken from the "[Tell Everybody That I Love Them](http://www.discogs.com/Mogwai-Rave-Tapes-Bonus-7/release/5343006)" single  P&C 2014 Rock Action Records  Track 2 appears on the "[r=5776764]" Compilation P&C 2012 Rock Action Records  Track 3 taken from the "[m=525093]" OST P&C 2013 Rock Action Records  Track 4 appears on [2001 US Tour EP](http://www.discogs.com/Mogwai-Bardo-Pond-Mogwai-Bardo-Pond/release/898566)  P&C 2001 Play It Again Sam [PIAS]  Track 5 taken from the " [m=18006]" one sided single P&C 2001 Play It Again Sam [PIAS]  "We would like to thank everyone who submitted setlists, tickets, posters, flyers and many other items to us that we've been able to use throughout this booklet."  *Vinyl and CD versions of Central Belters purchased from Monorail Music (Glasgow) came with a postcard set with 5 hand numbered Ordnance Survey postcards from various points in Scotland's central belt, each signed by a member of Mogwai, documenting each of their origins. Postcard set packaged in stamped brown envelope and limited to 100.
-

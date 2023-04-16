@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Little Things
 2. Just To Say I Love You
@@ -29,11 +28,11 @@ styles: null
 12. When The Sun Begins To Shine
 13. Show Me Your Peace Sign
 14. Take Me Alive
-
+## Spotify
+{{< spotify type="album" id="4nGq2g2GpoSJniROsGJoKH" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -43,4 +42,3 @@ styles: null
 | Catalog Number | 65916LP |
 
 Vinyl Release of Michael Franti & Spearhead's sequel to their 2001 "Stay Human" record.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Tech House", "Electro", "Experimental"]
 ---
-
 ## Tracklisting
 1. Singularity
 2. Emerald Rush
@@ -24,6 +23,8 @@ styles: ["Tech House", "Electro", "Experimental"]
 7. Echo Dissolve
 8. Luminous Beings
 9. Recovery
+## Spotify
+{{< spotify type="album" id="1nvzBC1M3dlCMIxfUCBhlO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Tech House", "Electro", "Experimental"]
 - [Jon Hopkins - Luminous Beings (HQ audio)](https://www.youtube.com/watch?v=ogMGGaeecww)
 - [Recovery](https://www.youtube.com/watch?v=MaqlsAmlbzo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Tech House", "Electro", "Experimental"]
 | Catalog Number | WIGLP352 |
 
 Standard black-vinyl version.  Written, produced and engineered at Café Music Studios, London Mixed at Café Music Studios, London Piano on Emerald Rush recorded at Shoreditch Treehouse, London London Voices recorded at Angel Studios, London
-

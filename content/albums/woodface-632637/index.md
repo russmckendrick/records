@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Chocolate Cake (4:02)
 2. It's Only Natural (3:32)
@@ -29,6 +28,8 @@ styles: ["Pop Rock"]
 12. Italian Plastic (3:39)
 13. She Goes On (3:15)
 14. How Will You Go (4:45)
+## Spotify
+{{< spotify type="album" id="1QSoW668F9DVj8Rk9azF7h" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="e4Huvbcjo7A" title="Crowded House — Chocolate cake (subtitulada)." >}}
@@ -46,9 +47,7 @@ styles: ["Pop Rock"]
 - [She Goes On](https://www.youtube.com/watch?v=Kar6Q_Yr65c)
 - [crowded house - how will you go](https://www.youtube.com/watch?v=8IoT0Zj3bU8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2000 |
@@ -56,6 +55,5 @@ styles: ["Pop Rock"]
 | Label          | Simply Vinyl |
 | Format         | LP, RE, 180 |
 | Catalog Number | SVLP 240 |
-
 
 

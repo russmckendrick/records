@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
-
 ## Tracklisting
 1. The Chad Who Loved Me (5:02)
 2. Mansun's Only Love Song (5:55)
@@ -26,6 +25,8 @@ styles: ["Britpop"]
 9. Naked Twister (4:40)
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:39)
+## Spotify
+{{< spotify type="album" id="7v04VQBNE3VmBxf7vbnpnL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}
@@ -36,9 +37,7 @@ styles: ["Britpop"]
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
 - [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +47,3 @@ styles: ["Britpop"]
 | Catalog Number | KSCOPE1142 |
 
 RSD2022 Release
-

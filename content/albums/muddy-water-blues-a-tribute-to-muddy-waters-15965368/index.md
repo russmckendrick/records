@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Muddy Water Blues (Acoustic Version) (4:50)
 2. Louisiana Blues (4:02)
@@ -39,9 +38,7 @@ styles: ["Blues Rock"]
 - [Paul Rodgers/Gary Moore - She Moves Me (A tribute to Muddy Waters)](https://www.youtube.com/watch?v=_XfTUR_vaQ0)
 - [Paul Rodgers & Jeff Beck - I Just Want to Make Love to You](https://www.youtube.com/watch?v=yhPnsWZRF0k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -51,4 +48,3 @@ styles: ["Blues Rock"]
 | Catalog Number | MOVLP2716 |
 
 Released in a gatefold cover  [On back cover]: Originally released ℗ & © 1993 Victor Entertainment, Japan  Made in the EU  [Sticker on front]: Music On Vinyl Paul Rodgers 'Muddy Water Blues' A Tribute to Muddy Waters Limited Edition of 2000 Orange Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com   MOVLP2716  The runout strings are etched
-

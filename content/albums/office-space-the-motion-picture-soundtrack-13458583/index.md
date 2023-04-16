@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Latin", "Stage & Screen"]
 styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
-
 ## Tracklisting
 1. Shove This Jay-Oh-Bee
 2. Get Dis Money
@@ -46,9 +45,7 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 - [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
 - [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -58,4 +55,3 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 | Catalog Number | B0029333-01 |
 
 Stapler red, Record Store Day release limited to 2,500. 
-

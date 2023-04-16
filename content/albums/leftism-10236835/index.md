@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo", "Progressive House"]
 ---
-
 ## Tracklisting
 1. Release The Pressure (7:39)
 2. Afro-Left (7:32)
@@ -27,6 +26,8 @@ styles: ["Leftfield", "Downtempo", "Progressive House"]
 10. Half Past Dub (3:38)
 11. Open Up (8:44)
 12. 21st Century Poem (4:39)
+## Spotify
+{{< spotify type="album" id="6Hh2XrY2Yuse8omAzSabdp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WCoAndSOF7I" title="Song of Life (Remastered)" >}}
@@ -44,9 +45,7 @@ styles: ["Leftfield", "Downtempo", "Progressive House"]
 - [Open Up (Remastered)](https://www.youtube.com/watch?v=uq3IAHVDCGM)
 - [21st Century Poem (Remastered)](https://www.youtube.com/watch?v=Ysve0XA8QjU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +55,3 @@ styles: ["Leftfield", "Downtempo", "Progressive House"]
 | Catalog Number | 88985388501, HANDLPT |
 
 Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"  First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back. 
-

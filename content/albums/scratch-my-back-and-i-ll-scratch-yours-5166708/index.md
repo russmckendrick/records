@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Classical"]
 styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Scratch My Back
 2. Heroes (4:00)
@@ -43,9 +42,7 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 26. Biko (4:10)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -55,4 +52,3 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 | Catalog Number | MOVLP952 |
 
 180 gram audiophile vinyl released in gatefold sleeve with printed inner sleeves. Includes a download card. Two hype stickers, a red one and a gold-coloured one.  Similar European editions: [r=24975454]: no download card and only one, bigger gold-coloured hype sticker. [r=18039343]: no download card and two hype stickers, a red one and a black one.  Scratch My Back: ℗ 2010 Peter Gabriel Ltd under exclusive license to Virgin Records Ltd. And I'll Scratch Yours: This Compilation ℗ 2013 Peter Gabriel Ltd. © 2013 Peter Gabriel Ltd.  B8, C1, C4, D8, D11, D12: ℗ 2010 Peter Gabriel Ltd C3, C5 to D7, D9, D10: ℗ 2013 Peter Gabriel Ltd C2: ℗ 2010 Jagjaguwar  Printed in the EU. Made in the EU.  Pressed By information is not listed. Information derived from runouts.  Durations do not appear on this release.  Tracks are listed sequentially on the release (from A1 to B12 and from C1 to D12).  Runouts are hand-etched.  Elbow appear courtesy of Fiction Records. Randy Newman appears courtesy of Nonesuch Records Feist appear courtesy of Polydor Records France Taylor Kirk appears courtesy of Arts and Crafts Productions
-

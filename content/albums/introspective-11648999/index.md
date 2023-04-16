@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["House", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Left To My Own Devices (8:16)
 2. I Want A Dog (6:15)
@@ -21,6 +20,8 @@ styles: ["House", "Synth-pop"]
 4. I'm Not Scared (7:23)
 5. Always On My Mind / In My House (9:05)
 6. It's Alright (9:24)
+## Spotify
+{{< spotify type="album" id="4d0V4C5pHQA5G5PjP1FuNH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ik2YF05iX2w" title="Pet Shop Boys - Domino Dancing (Official Video) [HD REMASTERED]" >}}
@@ -36,9 +37,7 @@ styles: ["House", "Synth-pop"]
 - [𝐏𝐞𝐭 𝐒𝐡𝐨𝐩 𝐁𝐨𝐲𝐬 - 𝐈𝐧𝐭𝐫𝐨𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞 (𝐖𝐡𝐨𝐥𝐞 𝐀𝐥𝐛𝐮𝐦 𝐇𝐐) - 𝟏𝟗𝟖𝟖](https://www.youtube.com/watch?v=gxnEX4pXhlM)
 - [Pet Shop Boys - Introspective Interview from early 1988](https://www.youtube.com/watch?v=cn_RowUPpVg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +47,3 @@ styles: ["House", "Synth-pop"]
 | Catalog Number | 0190295831950 |
 
 [White sticker on shrinkwrap] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover] Domino Dancing produced for Pantera Productions. The Voice In Fashion courtesy of [l2922].  I'm Not Scared. Newsreel soundtrack (Paris, 1968) supplied by Independent Television News  "Introspective" is a digital recording, digitally mixed and mastered  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Issued with printed inner sleeve.
-

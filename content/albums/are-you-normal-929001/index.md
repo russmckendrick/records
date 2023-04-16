@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Suave And Suffocated
 2. Walking Through Syrup
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Fracture
 12. Spring
 13. Intact
+## Spotify
+{{< spotify type="album" id="2grx6MZQYbH1Z6TLQXbRPg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yCWYygUCwOk" title="Ned's Atomic Dustbin-Legoland" >}}
@@ -46,9 +47,7 @@ styles: ["Indie Rock"]
 - [Ned's Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
 - [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -58,4 +57,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 472633 1 |
 
 printed inner sleeve with lyrics/credits
-

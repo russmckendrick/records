@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Funk"]
 ---
-
 ## Tracklisting
 1. Burning Down The House (4:00)
 2. Making Flippy Floppy (4:36)
@@ -24,6 +23,8 @@ styles: ["New Wave", "Pop Rock", "Funk"]
 7. Moon Rocks (5:04)
 8. Pull Up The Roots (5:08)
 9. This Must Be The Place (Naive Melody) (4:56)
+## Spotify
+{{< spotify type="album" id="4sLCQxMRfn3gAHrBNZtbTH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}
@@ -36,16 +37,13 @@ styles: ["New Wave", "Pop Rock", "Funk"]
 - [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
 - [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/4564584-Talking-Heads-Speaking-In-Tongues) |
-| Label          | Sire, Rhino Records (2) |
+| Label          | Sire, Rhino Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122796665 |
 
 Comes with a printed inner sleeve, containing lyrics.  Basic tracks recorded at Blank Tapes, NY. Final overdubbing and mixing at Compass Point Studios and Sigma Sound, NY. © 1983 Bleu Disque Music Co./ Index Music, Inc. ASCAP  ℗ 1983 Sire Records Company. © 1983 Sire Records Company & Talking Heads Tours Inc.  On inner sleeve: Made in U.S.A. On labels: Made in EU. On back cover: Manufactured In The E.U.
-

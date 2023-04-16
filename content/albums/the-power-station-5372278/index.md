@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Some Like It Hot
 2. Murderess
@@ -23,6 +22,8 @@ styles: ["Pop Rock"]
 6. Go To Zero
 7. Harvest For The World
 8. Still In Your Heart
+## Spotify
+{{< spotify type="album" id="4IpUyI6R1fyDtJF3cmJS4E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Hw1t7OCESUw" title="The Power Station - Some Like It Hot" >}}
@@ -30,9 +31,7 @@ styles: ["Pop Rock"]
 - [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
 - [The Power Station - Get It On (Bang A Gong)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -42,4 +41,3 @@ styles: ["Pop Rock"]
 | Catalog Number | FA 3206 |
 
 Budget re-issue.
-

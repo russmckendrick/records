@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Late Last Night
 2. Walking Down A Road
@@ -25,6 +24,8 @@ styles: ["Prog Rock", "Art Rock"]
 8. Matinee Idyll
 9. The Woman Who Loves You
 10. Mental Notes
+## Spotify
+{{< spotify type="album" id="40kD3JoZgiQL0ZwH9OZ2Bg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}
@@ -36,9 +37,7 @@ styles: ["Prog Rock", "Art Rock"]
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,4 +47,3 @@ styles: ["Prog Rock", "Art Rock"]
 | Catalog Number | DEMREC540 |
 
 Gatefold Runouts are stamped
-

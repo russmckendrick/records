@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. I Remember Now
 2. Anarchy-X
@@ -30,6 +29,8 @@ styles: ["Heavy Metal", "Progressive Metal"]
 13. Waiting For 22
 14. My Empty Room
 15. Eyes Of A Stranger
+## Spotify
+{{< spotify type="album" id="4eEQ3aNA8mptFIfbFdX79p" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A4duZjxusGM" title="Queensryche - Eyes Of A Stranger (Official Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Heavy Metal", "Progressive Metal"]
 - [Queensryche - I Don't Believe In Love](https://www.youtube.com/watch?v=2c3g6tTYoxM)
 - [Queensryche - Operation: Mindcrime](https://www.youtube.com/watch?v=vAI2QOBMlTA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,4 +48,3 @@ styles: ["Heavy Metal", "Progressive Metal"]
 | Catalog Number | 7714039 |
 
 Made in Germany on label. On inner sleeve: ℗ 2003 Capitol Records, LLC. On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC  No reissue credits. All technical credits refer to the original release.
-

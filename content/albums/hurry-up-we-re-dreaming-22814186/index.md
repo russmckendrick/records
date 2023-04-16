@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Electro", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Midnight City
@@ -37,6 +36,8 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 20. Echoes Of Mine
 21. Klaus I Love You
 22. Outro
+## Spotify
+{{< spotify type="album" id="6R0ynY7RF20ofs9GJR5TXR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Eyjj8BgsBGU" title="M83 - Outro" >}}
@@ -46,9 +47,7 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 - [M83 'Reunion' Official video](https://www.youtube.com/watch?v=DJQQrjVmQG0)
 - [M83 - My Tears Are Becoming A Sea (audio)](https://www.youtube.com/watch?v=uE8EhJ9gS28)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -58,4 +57,3 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 | Catalog Number | M7571 |
 
 10 year anniversary edition with alternate artwork.  724596951071 is the UPC of this release. The other is the generic UPC of the black pressing of the release.
-

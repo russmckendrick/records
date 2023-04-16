@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Pill Shovel
 2. Medicine
@@ -25,6 +24,8 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 8. Sin's A Good Man's Brother
 9. Ozium
 10. Ozium (Demo)
+## Spotify
+{{< spotify type="album" id="5p41F9RwcmPhg7KImkOhyH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God (Full Album)" >}}
@@ -33,9 +34,7 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 - [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=Ltim-KfbZjk)
 - [Monster Magnet - Nod Scene](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 | Catalog Number | NPR 744 VINYL |
 
 Released on 180g vinyl in gatefold jacket. Made in Germany  © + ℗ 2017 Napalm Records Handels GmbH Strictly Limited Edition  There are also releases on [gold vinyl](https://www.discogs.com/release/10782664) and [yellow vinyl](https://www.discogs.com/release/10784591). 
-

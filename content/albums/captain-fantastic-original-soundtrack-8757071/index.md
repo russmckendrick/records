@@ -13,7 +13,6 @@ cover:
 genres: ["Classical", "Stage & Screen"]
 styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ---
-
 ## Tracklisting
 1. A New Beginning (1:26)
 2. Church (3:13)
@@ -48,9 +47,7 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 - [Funeral Pyre - Alex Somers - Captain Fantastic Soundtrack (Official Video)](https://www.youtube.com/watch?v=bXks1AP8fG8)
 - [Memories](https://www.youtube.com/watch?v=T82gOSwFCPs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -60,4 +57,3 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 | Catalog Number | INV164LP |
 
 Limited to 1,150 copies Pressed on heavyweight colored vinyl Housed in a handmade bespoke gatefold sleeve with rounded edges Includes digital download card Transparent Duck Egg Blue
-

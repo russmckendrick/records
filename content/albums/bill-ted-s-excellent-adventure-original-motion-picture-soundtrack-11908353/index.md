@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ---
-
 ## Tracklisting
 1. Play With Me (3:31)
 2. The Boys And Girls Are Doing It (3:22)
@@ -37,9 +36,7 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 - [Glen Burtnik - Not So Far Away [HQ]](https://www.youtube.com/watch?v=gFxlwnV8YsI)
 - [Shark Island - Dangerous](https://www.youtube.com/watch?v=5uAjZzeB-hI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -49,4 +46,3 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 | Catalog Number | B0026799-01, RW-005 |
 
 Standard black vinyl version.  No OBI strip.  Co-Release with Rusted Wave & Mondo LP housed in a silver board jacket Includes printed inner sleeve & insert Initial pressing of 500 LPs on black vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Intro - Will Singing The Clash (Dialogue)
 2. Every Breath You Take
@@ -71,9 +70,7 @@ styles: null
 - [Peter Gabriel - Heroes](https://www.youtube.com/watch?v=LsvuipGq2ns)
 - [Elegia (2015 Remaster)](https://www.youtube.com/watch?v=omzJvwYO440)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -83,4 +80,3 @@ styles: null
 | Catalog Number | 88985480901 |
 
 Comes in a gatefold sleeve.  Dialogue taken from the Netflix Original Series "Stranger Things". Courtesy Of Netflix.  The runouts are etched.
-

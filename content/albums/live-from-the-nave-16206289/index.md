@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ---
-
 ## Tracklisting
 1. Momo (3:14)
 2. Push / Pull (4:49)
@@ -22,9 +21,7 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 5. Shame (5:28)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -34,4 +31,3 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 | Catalog Number | SCR192 |
 
 Housed in a single sleeve jacket. Limited to 400 copies.
-

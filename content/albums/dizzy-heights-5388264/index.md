@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Impressions
 2. Dizzy Heights
@@ -26,13 +25,13 @@ styles: ["Pop Rock", "Alternative Rock"]
 9. Strangest Friends
 10. In My Blood
 11. Lights Of New York
+## Spotify
+{{< spotify type="album" id="3cwQSyZTWTp1Air5e6jcV9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ks_-25Fgh5U" title="Neil Finn - Divebomber" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -40,6 +39,5 @@ styles: ["Pop Rock", "Alternative Rock"]
 | Label          | Lester Records |
 | Format         | LP |
 | Catalog Number | LRNF0011LP |
-
 
 

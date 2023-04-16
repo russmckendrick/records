@@ -13,10 +13,11 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Weekender (12:54)
 2. Weekender (Original Film Soundtrack) (18:16)
+## Spotify
+{{< spotify type="album" id="0eGHvvZlC3ORwvDcTwyrJg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Gn2GYzJjR2I" title="Flowered Up - Weekender (12 version)" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | HVN588 |
 
 Love Record Stores pink vinyl repress.  ℗ 1992 Sony Music Entertainment UK Limited. Licenced courtesy of Sony Music Entertainment UK Limited.  nb: catalogue number incorrect on the Side A runout. Stamped HNV588-A1 instead of HVN588-A1.
-

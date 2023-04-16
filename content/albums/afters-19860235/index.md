@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Slow Down
 2. Difficult Song
@@ -24,6 +23,8 @@ styles: ["Indie Rock"]
 7. End Of Loneliness
 8. You Too
 9. I Didn't
+## Spotify
+{{< spotify type="album" id="3zsPhudoRtO6NiywBeWUeV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="e5HTe6s51_c" title="I Didn't" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [Hangar Lane Gyratory System; 4.44am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
 - [Difficult Song](https://www.youtube.com/watch?v=SUl84NqIqJM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,6 +44,5 @@ styles: ["Indie Rock"]
 | Label          | Kscope |
 | Format         | LP, Album |
 | Catalog Number | KSCOPE1120 |
-
 
 

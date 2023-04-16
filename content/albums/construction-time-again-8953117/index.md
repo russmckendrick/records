@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Love, In Itself
 2. More Than A Party
@@ -24,14 +23,14 @@ styles: ["Synth-pop"]
 7. The Landscape Is Changing
 8. Told You So
 9. And Then...
+## Spotify
+{{< spotify type="album" id="6oFsq13ql71yK5Gaar7eIy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1t-gK-9EIq4" title="Depeche Mode - Everything Counts (Official Video)" >}}
 - [Depeche Mode - Love, In Itself (Official Video)](https://www.youtube.com/watch?v=1pi_egc6qkY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +40,3 @@ styles: ["Synth-pop"]
 | Catalog Number | STUMM13, 88985330001 |
 
 Sticker on shrink wrap reads: "Legacy Vinyl 180 Gram Superior Audio Quality"  Published by EMI Music Publishing Ltd, assigned Grabbing Hands Music Ltd. Except "Two Minute Warning" and "The Landscape Is Changing", published by BMG Music Publishing Ltd.  Recorded at The Garden, London. Mixed at Hansa Mischraum, Berlin.  ℗ 1983 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1983, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH 
-

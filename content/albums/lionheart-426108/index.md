@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Ballad"]
 ---
-
 ## Tracklisting
 1. Symphony In Blue (3:34)
 2. In Search Of Peter Pan (3:46)
@@ -25,6 +24,8 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 8. Kashka From Baghdad (3:55)
 9. Coffee Homeground (3:38)
 10. Hammer Horror (4:37)
+## Spotify
+{{< spotify type="album" id="02b8Jb4tkLxVtPWh0QfQKB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZsUQIMGIVrM" title="Kashka from Baghdad" >}}
@@ -32,9 +33,7 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 - [Kate Bush - Wow - Official Music Video](https://www.youtube.com/watch?v=ZyuxXWxKSTg)
 - [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -44,4 +43,3 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 | Catalog Number | EMA 787, OC-064-06 859 |
 
 Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.  "Kate Bush - Lionheart" text on front cover and rear cover are embossed. Gatefold sleeve with lyrics inside. Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side. 'HOPE YOU LIKE IT' etched in runouts, the rest stamped. Recorded at Superbear Studios. All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978. David Paton and Ian Bairnson courtesy of Arista Records. (P) 1978 EMI Records Ltd. Available on tape.  Made in Gt. Britain.  Durations do not appear on this release.  [r=10148817] is a later repress with different record labels [r=5536970] has "Made in Ireland" on the labels, otherwise identical
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Eden On The Air
 2. Eat It Up Worms Hero
@@ -51,9 +50,7 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [Cardiacs -  Nurses Whispering Verses (Sing to god version)](https://www.youtube.com/watch?v=tiVOEHIHuzU)
 - [Foundling](https://www.youtube.com/watch?v=t0qc3kVbACY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -63,4 +60,3 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | ALPH DLP 022 |
 
 Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.  Limited to 200 numbered copies. Comes in a gatefold sleeve with picture inner sleeves and a download coupon. Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].  ℗&© Alphabet 1995
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. The Snake (3:30)
 2. Sugar Dumpling (2:18)
@@ -51,6 +50,8 @@ styles: ["Soul", "Rhythm & Blues"]
 34. Chills & Fever (2:29)
 35. If You Don't Come (You Better Call) (2:01)
 36. Show And Tell (3:27)
+## Spotify
+{{< spotify type="album" id="6tT9kikyZYdYwfV08PhLVE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yBCnH7gY7sQ" title="Major Lance -  Delilah  (1963)" >}}
@@ -59,9 +60,7 @@ styles: ["Soul", "Rhythm & Blues"]
 - [Sam Cooke. Sugar dumpling](https://www.youtube.com/watch?v=tIQL17pjAXo)
 - [The Tams - Disillusioned](https://www.youtube.com/watch?v=Q_5-inO-IBY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -71,4 +70,3 @@ styles: ["Soul", "Rhythm & Blues"]
 | Catalog Number | NOT2LP226 |
 
 2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.  An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order.
-

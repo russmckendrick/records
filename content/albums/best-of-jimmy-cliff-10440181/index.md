@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: null
 ---
-
 ## Tracklisting
 1. You Can Get It If You Really Want
 2. Wild World
@@ -27,11 +26,11 @@ styles: null
 10. Hard Road To Travel
 11. Hello Sunshine
 12. The Harder They Come
-
+## Spotify
+{{< spotify type="album" id="0g0F1l0hQ1nZTelBbmlmB5" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -39,6 +38,5 @@ styles: null
 | Label          | Island Records, UMe, A&M Records |
 | Format         | LP, Comp |
 | Catalog Number | B0026395-01 |
-
 
 

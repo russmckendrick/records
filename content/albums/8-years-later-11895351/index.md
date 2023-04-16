@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Strung Out 
 2. Dawn Again
@@ -22,11 +21,11 @@ styles: ["Prog Rock", "Alternative Rock"]
 5. Hallucinations And Delusions
 6. The Confined Escape
 7. Our Shelter
-
+## Spotify
+{{< spotify type="album" id="1bPaM4vbjgWkyKgsooeSiH" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -36,4 +35,3 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Catalog Number | Kscope974 |
 
 Limited edition Record Store Day 2018 release. 
-

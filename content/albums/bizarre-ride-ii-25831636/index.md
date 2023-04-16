@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Turntablism", "Jazzy Hip-Hop"]
 ---
-
 ## Tracklisting
 1. 4 Better Or 4 Worse (Interlude) (0:36)
 2. Oh Shit (4:29)
@@ -31,6 +30,8 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 14. Quinton's On The Way (Skit) (2:09)
 15. Pack The Pipe (5:03)
 16. Return Of The B-Boy (3:33)
+## Spotify
+{{< spotify type="album" id="48kU5gP41TqZEw32Cwhsna" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VDieujZyzzM" title="4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde" >}}
@@ -49,9 +50,7 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 - [Quinton's On The Way (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
 - [Return of the B-Boy by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4NR4b1bbls4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -59,6 +58,5 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 | Label          | Craft Recordings |
 | Format         | 2xLP, Album, RSD, RE, Cle |
 | Catalog Number | CR00018 |
-
 
 

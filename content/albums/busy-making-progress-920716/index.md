@@ -1,6 +1,6 @@
 ---
-title: "Progress (11) - Busy Making Progress"
-artist: "Progress (11)"
+title: "Progress - Busy Making Progress"
+artist: "Progress"
 album_name: "Busy Making Progress"
 date: 2019-01-19
 release_id: "920716"
@@ -8,12 +8,11 @@ slug: "busy-making-progress-920716"
 hideSummary: true
 cover:
     image: "busy-making-progress-920716.jpg"
-    alt: "Busy Making Progress by Progress (11)"
-    caption: "Busy Making Progress by Progress (11)"
+    alt: "Busy Making Progress by Progress"
+    caption: "Busy Making Progress by Progress"
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Vision (3:05)
 2. There Is A Light (4:10)
@@ -30,16 +29,13 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 {{< youtube id="WJbw8dobg0c" title="Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014" >}}
 - [Michael Cassidy / There is a Light / Beyond Illusion](https://www.youtube.com/watch?v=adkHXwoaIgM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
-| Discogs Link   | [Progress (11) - Busy Making Progress](https://www.discogs.com/release/920716-Progress-Busy-Making-Progress) |
+| Discogs Link   | [Progress - Busy Making Progress](https://www.discogs.com/release/920716-Progress-Busy-Making-Progress) |
 | Label          | Sudarshan Disc |
 | Format         | LP, Album |
 | Catalog Number | BBT 111 |
 
 This is a special benefit album. All the artists who contributed to its production did so without remuneration.  Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.  On labels: ℗ © 1978, Sudarshan Disc On sleeve: © Golden Lotus Productions 1978
-

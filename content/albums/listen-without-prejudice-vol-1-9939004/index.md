@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Blues", "Pop"]
 styles: ["Downtempo", "Synth-pop", "Vocal"]
 ---
-
 ## Tracklisting
 1. Praying For Time (4:41)
 2. Freedom 90 (6:30)
@@ -37,9 +36,7 @@ styles: ["Downtempo", "Synth-pop", "Vocal"]
 - [George Michael - Everything She Wants](https://www.youtube.com/watch?v=3K9rDq9zUKQ)
 - [OLDER GEORGE MICHAEL MTV UNPLUGGED 1996](https://www.youtube.com/watch?v=cbz20B_3NIA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +46,3 @@ styles: ["Downtempo", "Synth-pop", "Vocal"]
 | Catalog Number | 88875145271 |
 
 Hype Sticker Reads: George Michael Listen Without Prejudice Features Praying For Time Freedom '90 Waiting For That Day Cowboys And Angels  The release has been delayed from being officially released a number of times, with release dates given as follows: 11 November 2016 3 March 2017 (Following George Michael's sudden death on Christmas Day 2016) May 2017  20th October 2017 (current and actual official release date)  A number of copies are known to have been mistakenly available despite the cancelling of release dates.  Including MP3 download code.
-

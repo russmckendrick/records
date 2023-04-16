@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 ---
-
 ## Tracklisting
 1. Wouldn't It Be Nice
 2. You Still Believe In Me
@@ -28,6 +27,8 @@ styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 11. I Just Wasn't Made For These Times
 12. Pet Sounds
 13. Caroline No
+## Spotify
+{{< spotify type="album" id="6GphKx2QAPRoVGWE9D7ou8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Mh_yhTyae08" title="The B̲each B̲oys - P̲et S̲ounds (Full Album) 1966" >}}
@@ -35,9 +36,7 @@ styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 - [T̲h̲e̲ B̲each B̲oys - P̲et̲ S̲ounds [Full Album] (1966)](https://www.youtube.com/watch?v=f9keMETFIbk)
 - [Pet Sounds (Stereo / Remastered)](https://www.youtube.com/watch?v=EeN_NytxKEc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1966 |
@@ -47,4 +46,3 @@ styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 | Catalog Number | ST 2458 |
 
 1st UK stereo press. Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock  Garrod & Lofthouse: Patents Pending ''flipback'' sleeve.  "Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo   Compared to this edition, the late 60's reissue [r12655444]  has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.   Also released in mono (# T 2458). 
-

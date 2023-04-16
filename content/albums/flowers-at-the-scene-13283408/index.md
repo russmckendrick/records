@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. I Go Deeper (4:15)
 2. The Train That Pulled Away (4:04)
@@ -37,6 +36,8 @@ styles: ["Art Rock", "Prog Rock"]
 20. The War On Me (3:47)
 21. Killing To Survive (3:59)
 22. What Lies Here (4:00)
+## Spotify
+{{< spotify type="album" id="2N01aGrVGZjf1q2PxuYTV0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper (Lyric Video)" >}}
@@ -44,9 +45,7 @@ styles: ["Art Rock", "Prog Rock"]
 - [TIM BOWNESS - It's The World (Lyric Video)](https://www.youtube.com/watch?v=ohSYbX4qHzc)
 - [TIM BOWNESS talks “Flowers At The Scene” - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -56,4 +55,3 @@ styles: ["Art Rock", "Prog Rock"]
 | Catalog Number | IOMLP 524, 19075928461 |
 
 Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card.
-

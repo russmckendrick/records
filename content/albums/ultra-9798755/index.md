@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Blues"]
 styles: ["Alternative Rock", "Downtempo", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Barrel Of A Gun
 2. The Love Thieves
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Downtempo", "Synth-pop"]
 9. Freestate
 10. The Bottom Line
 11. Insight
+## Spotify
+{{< spotify type="album" id="76IekQtcx365yrHC6kfqAl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="syClMP8TQ0o" title="Freestate" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock", "Downtempo", "Synth-pop"]
 - [Depeche Mode - It's No Good (Official Video)](https://www.youtube.com/watch?v=_-QPvffO1gs)
 - [Depeche Mode - Useless (Official Video)](https://www.youtube.com/watch?v=U2Kyu4XURaE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Downtempo", "Synth-pop"]
 | Catalog Number | 88985336911, STUMM148 |
 
 © 1997 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. ℗ 1997, 2016 Venusnote Ltd. under exclusive license to  Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336911. 
-

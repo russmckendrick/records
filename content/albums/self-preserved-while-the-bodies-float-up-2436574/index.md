@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Part Cardiac (4:10)
 2. Superimposer (4:14)
@@ -42,9 +41,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
 - [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -54,4 +51,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | SBMLP 014, 0504421 |
 
 Black and limited white vinyl edition exists under the same catalogue #.
-

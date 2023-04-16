@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Crazy Train
 2. Mr. Crowley
@@ -32,6 +31,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 15. I Don't Wanna Stop
 16. Let Me Hear You Scream
 17. Paranoid (Live)
+## Spotify
+{{< spotify type="album" id="5k1h73bDwVffYMNx4yj22s" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LCCiwPEdEpg" title="OZZY OSBOURNE - Dreamer" >}}
@@ -40,9 +41,7 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
 - [Paranoid (Live at The Roundhouse, London, England - 2010)](https://www.youtube.com/watch?v=uUsqxqRCuig)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -52,4 +51,3 @@ styles: ["Hard Rock", "Heavy Metal"]
 | Catalog Number | 88875015611 |
 
 17 Remastered classic hits on double 180gr vinyl. Made in EU.
-

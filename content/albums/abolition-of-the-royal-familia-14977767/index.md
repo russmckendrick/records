@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
-
 ## Tracklisting
 1. Daze (Missing & Messed Up Mix) (2:53)
 2. House Of Narcotics (Opium Wars Mix) (6:10)
@@ -27,6 +26,8 @@ styles: ["Ambient", "House"]
 10. The Queen Of Hearts (Princess Of Clubs Mix) (5:10)
 11. The Weekend It Rained Forever (Oseberg Buddha Mix (The Ravens Have Left The Tower)) (12:37)
 12. Slave Till U Die, No Matter What U Buy (L'anse Aux Meadows Mix) (7:26)
+## Spotify
+{{< spotify type="album" id="1euwyciwux1oVmj4r1Rf3X" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_uUhsZHmwtE" title="The Orb - Daze (Missing & Messed Up Mix) Official Video" >}}
@@ -52,9 +53,7 @@ styles: ["Ambient", "House"]
 - [Shape Shifting Part 2 in Dub (Pitter Patter in Batter See Version Excursion)](https://www.youtube.com/watch?v=2Dd7UuTs8-I)
 - [Say Cheese in Dub (Smile You're on Cctv)](https://www.youtube.com/watch?v=Y9KMOPEg3c8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -64,4 +63,3 @@ styles: ["Ambient", "House"]
 | Catalog Number | COOKLP757XX, COOKLP757 |
 
 Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.  On spine: COOKLP757 On sticker on back jacket: COOKLP757XX
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Rich Woman (4:04)
 2. Killing The Blues (4:16)
@@ -43,9 +42,7 @@ styles: ["Blues Rock"]
 - [Let Your Loss Be Your Lesson](https://www.youtube.com/watch?v=j1ztTFbyHmA)
 - [Robert Plant & Alison Krauss - Your Long Journey](https://www.youtube.com/watch?v=eG_rArV84iY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -55,4 +52,3 @@ styles: ["Blues Rock"]
 | Catalog Number | 11661-9075-1 |
 
 1st vinyl edition ℗ & © 2007 Rounder Records Corp.  Published By: A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI) A2: Graph Music (ASCAP) A3: © Eden Bridge Music (ASCAP) administered by Bug Music  A4: © 1969 Irving Music, Inc. (BMI) B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI) B2: © 1969 Irving Music, Inc. (BMI) B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs. C1: Jalma Music (ASCAP) C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI) C3: © 1960 Universal-Cedarwood Publ. (BMI) D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug D2: © 2000 Trice Publishing Co. (BMI) D3: Hillgreen Music (BMI)  Both vinyls are housed in 140 gage square plastic polythene bags
-

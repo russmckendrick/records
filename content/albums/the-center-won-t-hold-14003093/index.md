@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Center Won't Hold
 2. Hurry On Home
@@ -28,15 +27,15 @@ styles: ["Indie Rock"]
 11. Broken
 12. Hurry On Home
 13. The Dog/The Body
+## Spotify
+{{< spotify type="album" id="6ArjrXMlLegKiAPOp34K58" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_xfPoLEJpgY" title="Sleater-Kinney - The Center Won't Hold (Official Lyric Video)" >}}
 - [Sleater-Kinney - Can I Go On (Official Video)](https://www.youtube.com/watch?v=pB08AUiTP3w)
 - [Sleater-Kinney - The Future Is Here (Official Lyric Video)](https://www.youtube.com/watch?v=MP_2p79Ems4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 7790840, 7790839 |
 
 Heavyweight black vinyl in gatefold sleeve with black die-cut printed inner bag, bonus 7" and collectible artpack.   Catalogue number on LP sleeve is 7790840 Catalogue number of 7" single is 7790839 Administered by BMG Rights Management (US) LLC.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Noise", "Experimental", "Ambient"]
 ---
-
 ## Tracklisting
 1. pretext (2:15)
 2. stillstellung (3:37)
@@ -43,6 +42,8 @@ styles: ["Noise", "Experimental", "Ambient"]
 26. z03 (4:08)
 27. u| || | th | r| d (2:01)
 28. trackerplatz (3:41)
+## Spotify
+{{< spotify type="album" id="00chiEAshbWdhrPg6Y8po1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9LQckltGMJ4" title="65daysofstatic | replicr, 2019. new album coming 27.0.9.19" >}}
@@ -50,9 +51,7 @@ styles: ["Noise", "Experimental", "Ambient"]
 - [65daysofstatic | Trackerplatz (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=l73eDjbpPzA)
 - [65daysofstatic | Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -60,6 +59,5 @@ styles: ["Noise", "Experimental", "Ambient"]
 | Label          | Superball Music, Superball Music |
 | Format         | LP, Album + CD, Album |
 | Catalog Number | SBMLP 046, 19075972601 |
-
 
 

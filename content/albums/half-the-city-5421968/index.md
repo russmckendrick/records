@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. I'm Torn Up (3:37)
 2. Don't Mean A Thing (3:06)
@@ -27,13 +26,13 @@ styles: ["Rhythm & Blues", "Soul"]
 10. Let It Be So (3:19)
 11. Dixie Rothko (3:32)
 12. It's Midnight (2:31)
+## Spotify
+{{< spotify type="album" id="6BN0KczNzSrfmKoQzd6lMS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5GdkM1r5jhs" title="St. Paul and the Broken Bones - Half the City" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -43,4 +42,3 @@ styles: ["Rhythm & Blues", "Soul"]
 | Catalog Number | SL 003 |
 
 Includes printed inner sleeve and download coupon for entire album in MP3 format.  Recorded at The Nutthouse except "Sugar Dyed" was recorded at Ol' Elegante Studios. Additional overdubs recorded at Up and In Studio. Mixed at FAME Studio A  © and ℗ 2014 Single Lock Records
-

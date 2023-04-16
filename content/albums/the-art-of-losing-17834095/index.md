@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Moon Rise (Prelude)
 2. Let It Hurt
@@ -29,13 +28,13 @@ styles: null
 12. My Confessor
 13. With The Boys
 14. Moon (An End)
+## Spotify
+{{< spotify type="album" id="4eUBwmpVt57DKniIa2lzSt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat. James Dean Bradfield" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +44,3 @@ styles: null
 | Catalog Number | KSCOPE1111 |
 
 Double Gold Vinyl Limited to 500 copies
-

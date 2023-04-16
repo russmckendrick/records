@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. I Am The Morning (4:18)
 2. Catalyst (6:40)
@@ -27,14 +26,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Women Who Love Men Who Love Drugs (8:30)
 11. Saturday Morning Breakfast Show (9:04)
 12. Long Forgotten (8:57)
+## Spotify
+{{< spotify type="album" id="6yY6v4JnwTQGo5w9IZqTRu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}
 - [Oceansize - One Day All This Could Be Yours](https://www.youtube.com/watch?v=ZHCy8KlifXc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2003 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | BBQ 235 |
 
 Mastered at Abbey Road Studios.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill. 
-

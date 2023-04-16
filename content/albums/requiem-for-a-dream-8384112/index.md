@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ---
-
 ## Tracklisting
 1. Summer
 2. Summer Overture (2:36)
@@ -58,9 +57,7 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ## Videos
 {{< youtube id="B9S1nojrxCg" title="R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -70,4 +67,3 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 | Catalog Number | 553787-1 |
 
 Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000). Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.  Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.  Originally mastered at SoundByte Productions, Inc., New York City.  Limited edition of 5000 copies. Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).  Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store.
-

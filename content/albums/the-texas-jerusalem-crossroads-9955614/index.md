@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. The Texas-Jerusalem Crossroads: Texas
 2. Just As Was Told
@@ -39,6 +38,8 @@ styles: ["Psychedelic Rock"]
 22. With The World Behind (3:01)
 23. Arise And Shine (7:45)
 24. Liftin' On Up (7:15)
+## Spotify
+{{< spotify type="album" id="062SIuYHTCmS3gAsOupCdA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sthmEkUjACM" title="Lift To Experience - When We Shall Touch (Official Audio)" >}}
@@ -54,9 +55,7 @@ styles: ["Psychedelic Rock"]
 - [Lift To Experience - Into The Storm (Official Audio)](https://www.youtube.com/watch?v=jJ_gE0SrG94)
 - [Lift To Experience - Down Came The Angels (Official Audio)](https://www.youtube.com/watch?v=5_grjHE5wq8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -66,4 +65,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | BXSTUMM398 |
 
 Includes [r9758521] in a gatefold sleeve with printed inner sleeves.  LP1 is blue translucent vinyl, LP2 is red translucent vinyl. Track D3 is an untitled track, not listed on the sleeve or label (also known as "The Hidden Song"). Additional Fiddlin' Around [...] Centro-Matic, Denton, TX Engineered & Recorded [...] 70Hrtz, Argyle, TX (1999) Mixed at [...] Echo Lab, Argyle, TX (2016) Additional Engineering [...] Studio Mute, London, UK Vinyl Cut [...] at Take Out Vinyl, Memphis, TN ℗ & © 2017 Lift To Experience under exclusive license to Mute Artists Ltd. Made in the EU.  [The Peel Session] Recorded: 15th April 2001 First transmisson: 15th April 2001 Recorded for the John Peel Show on BBC Radio 1 Produced [...] at Maida Vale 4 Mastered [...] at EAB Studios in London, UK Vinyl Cut [...] at Take Out Vinyl, Memphis, TN ℗ BBC 2017 © 2017 Mute Artists Ltd Licensed by BBC Worldwide Made in Texas  [EP] Recorded and mastered [...] at 70Hrtz in Argyle, Texas Vinyl Cut [...] at Take Out Vinyl, Memphis, TN All tracks recorded live, except vocals and tambourine 9/24/97.  ℗ 2017 Random-Precision Records © 2017 Mute Artists Ltd  Includes 24-page 12" photo/lyric booklet & download voucher for complete box (with both new and original Bella Union mixes of The Texas-Jerusalem Crossroads).
-

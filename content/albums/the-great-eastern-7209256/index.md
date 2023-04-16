@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Past That Suits You Best (6:21)
 2. Accused Of Stealing (5:42)
@@ -25,6 +24,8 @@ styles: ["Indie Rock"]
 8. Witness (4:04)
 9. Knowing When To Run (3:26)
 10. Make Your Move (3:12)
+## Spotify
+{{< spotify type="album" id="4DYckMlw07KpD2vWURQoF8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HJpvtbPqDu8" title="The Delgados - The Past That Suits You Best" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [The Delgados - Witness](https://www.youtube.com/watch?v=k7zJqGZlKRI)
 - [The Delgados - Make Your Move (Twin Peaks Mix)](https://www.youtube.com/watch?v=nUk4DU_5mKM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | CHEM226 |
 
 The long-awaited reissue of The Delgados' Mercury-nominated The Great Eastern has finally arrived and comes to you in a singlefold sleeve with printed inner (lyrics incl.), on 180gsm vinyl and with a download code for 320kbps MP3s.  Available on vinyl for the first time in nearly fifteen years, it might have taken us a while but we got there eventually...  (ltd to 500 according to normanrecords.com)
-

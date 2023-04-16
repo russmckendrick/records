@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. You're So Strong (3:25)
 2. Big Wheel (4:41)
@@ -26,6 +25,8 @@ styles: ["New Wave", "Pop Rock"]
 9. I Just Wanna Be Happy (3:28)
 10. Splashing (3:12)
 11. Bus Ride (2:55)
+## Spotify
+{{< spotify type="album" id="3zD8yWMybwybi9M4T1KXLf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eD01-p3oVI0" title="Mental As Anything - Live It Up (1985)" >}}
@@ -40,9 +41,7 @@ styles: ["New Wave", "Pop Rock"]
 - [You're So Strong: Mental As Anything (Countdown 1985)](https://www.youtube.com/watch?v=tM_QVP9F2tw)
 - [Mental As Anything - Live It Up](https://www.youtube.com/watch?v=6idg4J9Nqf0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -50,6 +49,5 @@ styles: ["New Wave", "Pop Rock"]
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | EPC 26836 |
-
 
 

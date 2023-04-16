@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Prologue - 1945 (3:00)
 2. Captain Walker / It's A Boy (2:37)
@@ -51,9 +50,7 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 {{< youtube id="vruNMUjZwAA" title="TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)" >}}
 - [TOMMY THE MOVIE 1975 Original soundtrack recording Part 2 of 2 (Vinyl record)](https://www.youtube.com/watch?v=cVO5P3yOYa8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -63,4 +60,3 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 | Catalog Number | 2657 014 |
 
 Note: A similar UK release with an A & B-side label variant, [is here.](http://www.discogs.com/release/7679401)
-

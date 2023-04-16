@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Love Song (2:22)
 2. Machine Gun Etiquette (1:48)
@@ -27,6 +26,8 @@ styles: ["Punk"]
 10. Liar (2:39)
 11. Smash It Up (Part 1) (1:56)
 12. Smash It Up (Part 2) (2:50)
+## Spotify
+{{< spotify type="album" id="1lvAASyHZrOQ04lowYjWEC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6gqxFAqCRYQ" title="Machine Gun Etiquette" >}}
@@ -39,9 +40,7 @@ styles: ["Punk"]
 - [Looking at You](https://www.youtube.com/watch?v=14PKjhC9Fnk)
 - [Smash It Up (Pts. 1 & 2)](https://www.youtube.com/watch?v=z0VdIX2YM9c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,4 +50,3 @@ styles: ["Punk"]
 | Catalog Number | WIKD 333 |
 
 Comes with an illustrated printed inner sleeve. 
-

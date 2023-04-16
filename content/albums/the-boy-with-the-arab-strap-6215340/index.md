@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. It Could Have Been A Brilliant Career (2:23)
 2. Sleep The Clock Around (4:58)
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Chickfactor (3:32)
 11. Simple Things (1:46)
 12. The Rollercoaster Ride (6:40)
+## Spotify
+{{< spotify type="album" id="4AChnLbiWqxiotXz8kv6D7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock"]
 - [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
 - [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock"]
 | Catalog Number | JPRLP 003 |
 
 Includes download of entire album. Includes a PVC outer sleeve.  ℗ & © 1998 Jeepster Recordings Ltd. Made in the E.U. Distributed by Universal Music Operations Ltd.  Lyrics printed on the inside (left half) of the gatefold sleeve.   
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: ["Country Blues", "Hill Country Blues"]
 ---
-
 ## Tracklisting
 1. We Made It
 2. Get Your Groove On
@@ -27,11 +26,11 @@ styles: ["Country Blues", "Hill Country Blues"]
 10. Call On Me
 11. I'm Hurtin
 12. Ain't Gonna Take No Mess
-
+## Spotify
+{{< spotify type="album" id="6N2kgU28H4AZWrsnw8IVeu" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -41,4 +40,3 @@ styles: ["Country Blues", "Hill Country Blues"]
 | Catalog Number | SL024 |
 
 Signed versions were available as pre-order. "Ain't Gonna Take No Mess" recorded at Ardent Studios in Memphis, TN Includes printed inner sleeve. 
-

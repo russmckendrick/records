@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Silent Earthling
 2. Strebek
@@ -33,13 +32,13 @@ styles: ["Post Rock"]
 16. Hemisphere
 17. Rainbow Road
 18. Elsewhere
+## Spotify
+{{< spotify type="album" id="0KIUMm3Br5jHyMd4O6KyDW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8QlQw4QU_0E" title="Three Trapped Tigers - Silent Earthling (Full Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Post Rock"]
 | Catalog Number | SMBLP 039, 88875198091 |
 
 Additional Recording by Ash Gardner  Side D is etched with the TTT logo
-

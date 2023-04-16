@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. When The Sun Goes Down
 12. From The Ritz To The Rubble
 13. A Certain Romance
+## Spotify
+{{< spotify type="album" id="0ndGMh4twJNzPpr5XtHTR2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pK7egZaT3hs" title="Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)" >}}
@@ -44,9 +45,7 @@ styles: ["Indie Rock"]
 - [From The Ritz To The Rubble](https://www.youtube.com/watch?v=H8bNHRVwzyA)
 - [A Certain Romance](https://www.youtube.com/watch?v=zMupng6KQeE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -56,4 +55,3 @@ styles: ["Indie Rock"]
 | Catalog Number | WIGLP162VMP |
 
 Sticker: VMP Exclusive Vinyl Edition 1LP 180g Multi-color "Smoke" vinyl 16pg Full-color Lyric & Photo Booklet  Includes a obi strip with a cocktail recipe, and an art print.  ℗ 2006 © 2018 Domino Recording Co. Ltd. PO Box 47029 London, SW18 1WD 20 Jay Street, Suite 626, Brooklyn NY 11201  Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield. 'Mardy Bum' recorded at Telstar Studios, Munich Mixed [...] at Olympic Studios, London [...]
-

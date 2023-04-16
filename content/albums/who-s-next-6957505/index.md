@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Mod"]
 ---
-
 ## Tracklisting
 1. Baba O' Riley (4:58)
 2. Bargain (5:33)
@@ -24,13 +23,13 @@ styles: ["Hard Rock", "Mod"]
 7. Going Mobile (3:42)
 8. Behind Blue Eyes (3:41)
 9. Won't Get Fooled Again (8:31)
+## Spotify
+{{< spotify type="album" id="5MqyhhHbT13zsloD3uHhlQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="v2lSNMiaPeA" title="[Full Album] T̲he W̲ho - W̲ho's N̲ext" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -40,4 +39,3 @@ styles: ["Hard Rock", "Mod"]
 | Catalog Number | 3715614 |
 
 ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.  Made in the EU.
-

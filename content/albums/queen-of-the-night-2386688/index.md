@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Caddo Queen (3:35)
 2. A Woman Left Lonely (3:54)
@@ -26,6 +25,8 @@ styles: ["Blues Rock"]
 9. We Had It All (2:55)
 10. The Other Side (2:59)
 11. Trade Winds (5:11)
+## Spotify
+{{< spotify type="album" id="7zAViKhzlLc837pE1NquIS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night (1974) [ Complete LP]" >}}
@@ -35,9 +36,7 @@ styles: ["Blues Rock"]
 - [Maggie Bell - A Woman Left Lonely](https://www.youtube.com/watch?v=q8Em1G6Fl1U)
 - [As the Years Go Passing By- Maggie Bell (HQ)](https://www.youtube.com/watch?v=vDidE0uVpjA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1974 |
@@ -47,4 +46,3 @@ styles: ["Blues Rock"]
 | Catalog Number | 2383 239 |
 
 On the sleeve: 2383 239 SUPER (Polydor logo) Marketed by Polydor Limited Also available on Musicassette 3170 125 and 8 Track Cartridge 3820 080 A (Colourme Gone logo) Product Sleeve printed and made in England by MacNeill Press., London, SE1   On the labels: Polydor Stereo 2383239 Made in England ℗ 1974 Polydor Int. Track A1 has been misspelt as "Cado Queen"
-

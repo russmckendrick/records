@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Glam", "Pop Rock", "Soul"]
 ---
-
 ## Tracklisting
 1. Space Oddity (5:10)
 2. John, I'm Only Dancing (2:43)
@@ -26,11 +25,11 @@ styles: ["Glam", "Pop Rock", "Soul"]
 9. Young Americans (5:07)
 10. Fame (4:10)
 11. Golden Years (3:55)
-
+## Spotify
+{{< spotify type="album" id="3aGkjugjzDWaETRbbRafoF" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -40,4 +39,3 @@ styles: ["Glam", "Pop Rock", "Soul"]
 | Catalog Number | COBLP 2016, 0190295994082 |
 
 Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve. Half of the copies are on clear vinyl (this release), half on [black vinyl](https://www.discogs.com/release/8527561). No mention of the vinyl colour on the sleeve or the sticker. 
-

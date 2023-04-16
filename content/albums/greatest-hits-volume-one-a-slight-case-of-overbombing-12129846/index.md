@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Goth Rock"]
 ---
-
 ## Tracklisting
 1. Under The Gun (5:41)
 2. Temple Of Love (1992) (8:03)
@@ -39,9 +38,7 @@ styles: ["Goth Rock"]
 - [The Sisters Of Mercy  - Walk Away (HQ)](https://www.youtube.com/watch?v=dxucr5TSxDg)
 - [The Sisters of Mercy - Body & Soul (Original Video)](https://www.youtube.com/watch?v=VqHW7DxQq6k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -51,4 +48,3 @@ styles: ["Goth Rock"]
 | Catalog Number | 0190295695071 |
 
 Gatefold sleeve
-

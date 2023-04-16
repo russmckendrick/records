@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Intro (1:55)
 2. Oceanography (4:43)
@@ -39,13 +38,13 @@ styles: ["Indie Rock"]
 22. Maria
 23. All I Have
 24. The Weather
+## Spotify
+{{< spotify type="album" id="1IX6b0UZFJv4xlWSIGkcVG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J3GOusISHlo" title="Oceanography" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -55,4 +54,3 @@ styles: ["Indie Rock"]
 | Catalog Number | SBMLP 045, 19075815841 |
 
 180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.  Copies purchased in Charlie Burns official store includes a signed postcard.  Recorded in fits and starts between October 2014 and October 2017.
-

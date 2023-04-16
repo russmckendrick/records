@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["House", "Synth-pop", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Hello
 2. Your Love Takes Me Higher
@@ -25,6 +24,8 @@ styles: ["House", "Synth-pop", "Downtempo"]
 8. Wake Up Soon
 9. Up, Up And Away
 10. Found
+## Spotify
+{{< spotify type="album" id="3cGR7Z78GMRPXetD6cFGjG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Y-uevW8RdiM" title="Hello (Remastered)" >}}
@@ -43,9 +44,7 @@ styles: ["House", "Synth-pop", "Downtempo"]
 - [Time After Time (Demo)](https://www.youtube.com/watch?v=DeIjVkuB4eM)
 - [Jennifer Smiles](https://www.youtube.com/watch?v=R_hKl9z_IdQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -55,4 +54,3 @@ styles: ["House", "Synth-pop", "Downtempo"]
 | Catalog Number | NEW9239LP |
 
 Signed copies were available via Recordstore.co.uk  ‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release.
-

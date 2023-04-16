@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 ---
-
 ## Tracklisting
 1. Finn
 2. Only Talking Sense
@@ -39,13 +38,13 @@ styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 22. In Love With It All (Demo)
 23. How Will You Go (Demo)
 24. Weather With You (End Piece)
+## Spotify
+{{< spotify type="album" id="1hd9IzmLyGV1BTzEx5P7VJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7Kl-Y5ISIvM" title="Finn Brothers - Only Talking Sense" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -55,4 +54,3 @@ styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 | Catalog Number | NEMYLP006 |
 
 Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95.  This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd.  Initial quantity from artist website included a cover print signed by Neil and Tim Finn.  Track D6 is unlisted. Title for track taken from [r18754873].
-

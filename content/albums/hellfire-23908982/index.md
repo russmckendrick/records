@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Hellfire
 2. Hellfire
@@ -28,6 +27,8 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 11. 27 Questions
 12. Flexi-disc
 13. Chondromalacia Patella (Live at Electrical Audio)
+## Spotify
+{{< spotify type="album" id="68z6MWYYNmvTcru1QMcYId" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Efmq_uXt1Rk" title="black midi - Welcome To Hell" >}}
@@ -37,9 +38,7 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 - [black midi - Sugar/Tzu](https://www.youtube.com/watch?v=8D3TrpQ_nFo)
 - [The Race Is About To Begin](https://www.youtube.com/watch?v=k2nNWpK5SQA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -49,4 +48,3 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 | Catalog Number | RT0321LPE, RT0346SE |
 
 Pressed on transparent red vinyl. Many copies came pressed on opaque red vinyl.  Bundled with an orange flexi-disc [r=23998898] exclusive to Black Midi's Webstore and Bandcamp page. Housed in a gatefold sleeve and includes an extra hype sticker inside. Side A ends with a locked groove. Track B1 'Half Time' is only mentioned in the lyrics and credits section on the sleeve.
-

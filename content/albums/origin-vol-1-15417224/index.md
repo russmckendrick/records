@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Believe I've Found
 2. Transcendental Suicide
@@ -38,9 +37,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 {{< youtube id="CtjtlcJk2IM" title="The Soundtrack of Our Lives - Bigtime" >}}
 - [The Soundtrack of Our Lives - Transcendental Suicide](https://www.youtube.com/watch?v=oga9lQJKDJE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -50,4 +47,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | MOVLP2646 |
 
 Limited Edition of 1500 Gold Coloured Copies Individually Numbered Includes Insert Contains 5 Bonus Tracks 180 gram audiophile vinyl  Gatefold cover
-

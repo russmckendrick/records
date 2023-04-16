@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. In The Aeroplane Over The Sea
 2. The King Of Carrot Flowers Pt. One
@@ -80,9 +79,7 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 63. Oh Comely
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -92,4 +89,3 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 | Catalog Number | MRG776 |
 
 On Avery Island sides A to C play at 45rpm, side D at 33rpm  --  Hype sticker on back of boxset reads:  ✵ NMH Vinyl Box Set Includes ✵  In The Aeroplane Over The Sea, LP With deluxe gatefold jacket.  On Avery Island, 2xLP Expanded to include the full-length version of "Pree-Sisters Swallowing a Donkey's Eye," with deluxe gatefold jacket.  Live at Jittery Joe's, 12-inch picture disc Recorded in Athens, 1997, with new artwork.  Ferris Wheel On Fire EP, 10-inch Eight acoustic recordings unavailable elsewhere.  Everything Is, 10-inch Featuring the four songs from the original EP plus two additional songs.  "Little Birds," 7-inch One previously unreleased version of "Little Birds," recorded live in Prospect Park, Brooklyn, and one demo recording.  "Where You'll Find Me Now" / "You've Passed," 7-inch Two 4-track recordings of these songs, in some ways superior to the On Avery Island versions.  "Holland" / "Engine," 7-inch With an exclusive recording of "Engine" and new artwork.  24" x 24" poster, featuring box cover art. 24" x 24" poster, featuring flying gramophone art.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Just For Love
 2. '69 Corvette
@@ -29,6 +28,8 @@ styles: null
 12. El Camino Real
 13. Golden Apples
 14. Korean Tea
+## Spotify
+{{< spotify type="album" id="2J7ySwyyvdBeP8EcNYrgZv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EGyg7pvkhOw" title="Jonathan Wilson - 69 Corvette [Official Music Video]" >}}
@@ -47,9 +48,7 @@ styles: null
 - [Jonathan Wilson - Riding the Blinds [Official Audio]](https://www.youtube.com/watch?v=so1jiIyE57w)
 - [Jonathan Wilson - Golden Apples [Official Audio]](https://www.youtube.com/watch?v=iouvagefzjc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -59,4 +58,3 @@ styles: null
 | Catalog Number | BELLA995VX, 538597140 |
 
 Mint green vinyl pressing.
-

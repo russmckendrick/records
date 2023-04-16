@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Palmistry
 2. Pretenders
@@ -27,14 +26,14 @@ styles: ["Indie Rock"]
 10. If I Never See London Again
 11. I Need The Light
 12. Snowy Owl
+## Spotify
+{{< spotify type="album" id="62FBD0LfoeSsvII9n3YeMo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="l94kK-S8wvc" title="Stars - Patterns (Official Music Video)" >}}
 - [Stars - That Girl (Official Video)](https://www.youtube.com/watch?v=2MI3CHUrCFo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -42,6 +41,5 @@ styles: ["Indie Rock"]
 | Label          | Last Gang Records |
 | Format         | LP, Album, Ltd, Gol |
 | Catalog Number | LGE-LP-49041 |
-
 
 

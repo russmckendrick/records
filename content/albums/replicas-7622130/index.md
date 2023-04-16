@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Me! I Disconnect From You (3:22)
 2. Are 'Friends' Electric? (5:24)
@@ -25,6 +24,8 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 8. It Must Have Been Years (4:01)
 9. When The Machines Rock (3:14)
 10. I Nearly Married A Human (6:31)
+## Spotify
+{{< spotify type="album" id="14chsctrt7Rx38fQUbfqFz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}
@@ -38,9 +39,7 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 - [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
 - [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -50,4 +49,3 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 | Catalog Number | BBQLP 7 |
 
 Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.
-

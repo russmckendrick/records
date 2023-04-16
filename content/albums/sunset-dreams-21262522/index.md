@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Indie Pop"]
 ---
-
 ## Tracklisting
 1. Sunset Dreams (4:27)
 2. Solarised (Extended Mix) (8:16)
@@ -21,11 +20,11 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 4. The Revolution Of Super Visions (See Thru Hands Remix) (3:27)
 5. Solarised (W. H. Lung Remix) (7:34)
 6. Don't Tell Me I'm Wrong (3:35)
-
+## Spotify
+{{< spotify type="album" id="6SSE8rmfK2n5D10pJYBaYX" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -35,4 +34,3 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 | Catalog Number | FIRE643W |
 
 Limited to 450 copies Includes download code
-

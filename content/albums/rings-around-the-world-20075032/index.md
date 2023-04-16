@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Alternate Route To Vulcan Street
 2. Sidewalk Serfer Girl
@@ -28,6 +27,8 @@ styles: ["IDM", "Indie Rock"]
 11. Presidential Suite
 12. Run! Christian, Run!
 13. Fragile Happiness
+## Spotify
+{{< spotify type="album" id="6g6WBTqT5gE4fAcwRljpjc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dmCZ4f8NhOk" title="Super Furry Animals - Juxtapozed with U (Video)" >}}
@@ -35,9 +36,7 @@ styles: ["IDM", "Indie Rock"]
 - [Super Furry Animals - (Drawing) Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
 - [Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +46,3 @@ styles: ["IDM", "Indie Rock"]
 | Catalog Number | BMGCAT510DLP |
 
 20th Anniversary Re-Issue  ℗+© 2021 BMG Rights Management (UK) Ltd. Made in the Czech Republic. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Austerity
 2. Colossal Shade
@@ -25,6 +24,8 @@ styles: ["Progressive Metal"]
 8. Sclera
 9. Atrium
 10. No Beacon To Illuminate Our Fall
+## Spotify
+{{< spotify type="album" id="4EcfbzCtbJDk2wMwhT4D1h" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_ILWPwc4KaY" title="KATATONIA - Birds (Official Video) | Napalm Records" >}}
@@ -33,9 +34,7 @@ styles: ["Progressive Metal"]
 - [KATATONIA - Austerity (Official Video) | Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
 - [KATATONIA - Opaline (Official Video) | Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -43,6 +42,5 @@ styles: ["Progressive Metal"]
 | Label          | Napalm Records |
 | Format         | 2x12\", Album |
 | Catalog Number | NPR1208VINYL |
-
 
 

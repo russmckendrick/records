@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ---
-
 ## Tracklisting
 1. The Black Country Chainstore Massacreee
 2. Monogamy
@@ -29,15 +28,15 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 12. Candydiosis
 13. The Devil Inside
 14. Orgone Accumulator
+## Spotify
+{{< spotify type="album" id="0d8vBDCsUiArvT3zKfzFs5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iOD-G6_1OGM" title="Pop Will Eat Itself - Orgone Accumulator" >}}
 - [PWEI Oh Grebo I Think I Love You](https://www.youtube.com/watch?v=VLOCQpsmutk)
 - [Pop Will Eat Itself - Sick Little Girl](https://www.youtube.com/watch?v=aqj67I5-dFg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 | Catalog Number | CHAP LP 33 |
 
 All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing ℗ Chapter 22 Records 1988 © Chapter 22 Records 1988 Made in England
-

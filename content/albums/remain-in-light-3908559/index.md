@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 ---
-
 ## Tracklisting
 1. Born Under Punches (The Heat Goes On)
 2. Crosseyed And Painless
@@ -23,6 +22,8 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 6. Seen And Not Seen
 7. Listening Wind
 8. The Overload
+## Spotify
+{{< spotify type="album" id="3AQgdwMNCiN7awXch5fAaG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="w6T_X7MXg40" title="Born Under Punches (The Heat Goes On) (2005 Remaster)" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 - [Listening Wind (2005 Remaster)](https://www.youtube.com/watch?v=RjWej8fOdR8)
 - [The Overload (2005 Remaster)](https://www.youtube.com/watch?v=fNpc8jv7Awk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 | Catalog Number | SIR K 56 867, SRK. 6095, WB 56 867 |
 
 ℗ 1980 Sire Records Company. Distributed by WEA Records Ltd. Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf. Label: Made in Germany by WEA Musik GMBH  Cat# on labels: SRK. 6095 Cat# on sleeve: SIR K 56 867 Cat# on inner sleeve: WB 56 867 UK: SRK 6095  Printed polylined inner sleeve.  The back cover and labels have different tracklistings, of which the label shows the correct order.
-

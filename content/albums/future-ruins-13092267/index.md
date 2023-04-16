@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Mary Winter (5:04)
 2. The Lonely Crowd Fades In The Air (4:13)
@@ -25,6 +24,8 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 8. Golden Remedy (5:43)
 9. Good Times Are So Hard To Follow (3:09)
 10. Radio-Silent (7:04)
+## Spotify
+{{< spotify type="album" id="5ZB0HluxFLOseWnQNh0aWB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yohv_1_dJrM" title="Mary Winter" >}}
@@ -38,9 +39,7 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 - [Good Times Are so Hard to Follow](https://www.youtube.com/watch?v=Hb9ClOgmdj8)
 - [Radio-Silent](https://www.youtube.com/watch?v=Whom9yF9oxU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,4 +49,3 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 | Catalog Number | ROCKACT121LP |
 
 Indies exclusive heavyweight red vinyl. Includes MP3 Download Code. 
-

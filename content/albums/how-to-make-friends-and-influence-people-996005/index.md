@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Alice What's The Matter? (2:43)
 2. Oblivion (3:03)
@@ -28,6 +27,8 @@ styles: ["Pop Rock", "Indie Rock"]
 11. What The Doctor Ordered (2:17)
 12. Some People Say (3:03)
 13. What Makes You Tick (4:12)
+## Spotify
+{{< spotify type="album" id="0EOluXU5iamm44jNL1H0vn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VOOcJobuZTc" title="Terrorvision - Alice, What's the matter?" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock", "Indie Rock"]
 - [Pretend Best Friend](https://www.youtube.com/watch?v=oZ4LW_BkO_M)
 - [What Makes You Tick](https://www.youtube.com/watch?v=Ooxedc1BiPM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
@@ -51,4 +50,3 @@ styles: ["Pop Rock", "Indie Rock"]
 | Catalog Number | 7243 8 29406 1 6, VEGAS LPX 2 |
 
 Comes with lyric printed inner sleeve.
-

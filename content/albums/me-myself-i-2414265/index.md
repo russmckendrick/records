@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Me Myself I (3:16)
 2. Ma-Me-O-Beach (3:00)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Feeling In My Heart (For You) (3:36)
 9. Simon (3:40)
 10. I Need You (2:44)
+## Spotify
+{{< spotify type="album" id="0bbqWBKFr1kdqxjoAAIBcR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="K-tf2qFtNFU" title="Ma Me O Beach" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock"]
 - [I Need You](https://www.youtube.com/watch?v=9zsuwzoxfDU)
 - [joan armatrading - turn out the light](https://www.youtube.com/watch?v=UL99gk3ELvc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -51,4 +50,3 @@ styles: ["Pop Rock"]
 | Catalog Number | AMLH 64809 |
 
 Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side.  Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE" 
-

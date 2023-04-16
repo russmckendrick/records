@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Section 11 (A Long Day Continues / We Sound Amazed) (8:32)
 2. Section 12 (Hold Me Now) (4:30)
@@ -25,6 +24,8 @@ styles: ["Art Rock", "Psychedelic Rock"]
 8. Section 18 (Everything Starts At The Seam) (1:54)
 9. Section 19 (When The Fool Becomes A King) (10:38)
 10. Section 20 (Together We're Heavy) (6:30)
+## Spotify
+{{< spotify type="album" id="0x7azbWn5H39TTsmwEl48G" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zpAOozUt-K8" title="The Polyphonic Spree - Section 20 (Together We're Heavy)" >}}
@@ -34,9 +35,7 @@ styles: ["Art Rock", "Psychedelic Rock"]
 - [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=3KCv7U2KA8c)
 - [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=_nxjf6AYecc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2004 |
@@ -46,4 +45,3 @@ styles: ["Art Rock", "Psychedelic Rock"]
 | Catalog Number | 2061-62423-1, none |
 
 Cover has Disneyland Records logo on back, but no catalog number.  Release comes with 2-page booklet of liner notes and lyrics.
-

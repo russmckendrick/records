@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. A Chef's Kiss (3:45)
 2. Drop C (3:22)
@@ -23,6 +22,8 @@ styles: null
 6. Blue Leo (3:04)
 7. Impossible Meatballs (3:10)
 8. The Last Benedict (4:03)
+## Spotify
+{{< spotify type="album" id="1foLe9tskn6FplJl4qA44d" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chef's Kiss (Official Lyric Video)" >}}
@@ -34,9 +35,7 @@ styles: null
 - [Impossible Meatballs](https://www.youtube.com/watch?v=5dPL5qsoHXA)
 - [Lambchop - The Last Benedict (Official Video)](https://www.youtube.com/watch?v=GQIFEjqnqCQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -46,4 +45,3 @@ styles: null
 | Catalog Number | SLANG50362LP |
 
 ℗ & © 2021 City Slang. Produced and mixed at Battle Tapes, Nashville TN 2019-2020 Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken. Songs published by Pathetic Hindsight Music admin by Schubert Music  Issued with download code card. ONLINE SHOP EXCLUSIVE from the label, City Slang: Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)  
-

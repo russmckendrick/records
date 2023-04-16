@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Krautrock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Tone Burst (5:33)
 2. Our Trinitone Blast (3:46)
@@ -38,6 +37,8 @@ styles: ["Krautrock", "Indie Rock"]
 21. Lock Groove Lullaby - Demo
 22. Jenny Ondioline - Demo
 23. Pause - Demo
+## Spotify
+{{< spotify type="album" id="0XwFmkEzDFl5KrVG5z0lE6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zsIBzVSZeIQ" title="Stereolab - Jenny Ondioline (Official Video)" >}}
@@ -53,9 +54,7 @@ styles: ["Krautrock", "Indie Rock"]
 - [Crest](https://www.youtube.com/watch?v=uMEcoUD2X5Q)
 - [Lock-Groove Lullaby](https://www.youtube.com/watch?v=XxUrm-IzBVU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -65,4 +64,3 @@ styles: ["Krautrock", "Indie Rock"]
 | Catalog Number | D-UHF-D02R |
 
 Comes with fold-out poster & DL card. Track D3 ends in a locked groove. Gatefold sleeve. Tracks are continuously numbered across sides on the labels.  40 copies were made with a 3 - 4" piece of mastertape by Martin Pike and sold through Rough Trade UK. 18 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.  Recorded at Blackwing Studios, London, May '93. Remastered [...] at Calyx, Berlin.  Front cover reproduced by kind permission of Haymarket Publishing Group.  Sampling credits: Pack Yr Romantic Mind. Embodies portions of "Strangers In The Night", written by Burt Kæmptfert, Charles Singleton, and Eddie Snyder, and published by Champion Music Corp. (BMI) / Screen - Gems (BMI) / GEMA. Used courtesy of Vanguard Records, a Welk Group Company. I'm Going Out Of My Way. "One Note Samba" Embodies portions of "One Note Samba", written by A. Jobim, J. Hendricks and N. Mendoca, and published by Duchess Music Corp. (BMI). Used courtesy of Vanguard Records, a Welk Group Company. Jenny Ondioline. "Channel Recognition Phasing & Balance" used courtesy of Haymarket Publishing Ltd. "Lock Groove Lullaby" This song embodies portions of "The Savers", written by Jean Marcel LeRoy and Gershon Kingsley, and published by Valentine Music Corp. (ASCAP). Used courtesy of Vanguard Records, a Welk Group Company.  On labels: ℗ 2019 Duophonic Ultra High Frequency Disks © 2019 Warp Records
-

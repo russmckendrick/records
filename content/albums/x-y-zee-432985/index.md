@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Breakbeat", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. X Y & Zee (The Intergalactic Mix)
 2. X Y & Zee (The Electric Sunshine Mix)
@@ -26,9 +25,7 @@ styles: ["Breakbeat", "Indie Rock"]
 - [X, Y & Zee (Electric Sunshine Style)](https://www.youtube.com/watch?v=VHnt11bZdAY)
 - [Pop Will Eat Itself ‎- X Y & Zee](https://www.youtube.com/watch?v=EDuBS2U1kjg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -36,6 +33,5 @@ styles: ["Breakbeat", "Indie Rock"]
 | Label          | RCA |
 | Format         | 12\", Yel |
 | Catalog Number | PT 44244 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Dancing With The Moonlit Knight (8:04)
 2. I Know What I Like (In Your Wardrobe) (4:10)
@@ -23,14 +22,14 @@ styles: ["Prog Rock"]
 6. After The Ordeal (4:15)
 7. The Cinema Show (10:41)
 8. Aisle Of Plenty (1:58)
+## Spotify
+{{< spotify type="album" id="1rZGSWC3pMmejDwYG0ZXma" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fmf6dbX-8rg" title="Genesis - Selling England By The Pound (Full Album, Non-Remastered)" >}}
 - [Genesis - Dancing With The Moonlight Knight (Official Audio)](https://www.youtube.com/watch?v=4oPA8JUttCw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +39,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 00602567490456 |
 
 Album includes printed insert with all lyrics and download code. ℗ 1973 Notebest Ltd  ℗ & © 2018 Made in the E.U.
-

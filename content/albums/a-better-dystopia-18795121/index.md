@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
-
 ## Tracklisting
 1. The Diamond Mine
 2. Born To Go
@@ -28,6 +27,8 @@ styles: ["Stoner Rock"]
 11. Motorcycle (Straight To Hell)
 12. Learning To Die
 13. Welcome To The Void
+## Spotify
+{{< spotify type="album" id="22OOJq1ayQi2zgVhqkoD3k" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="B5cw4KMugBc" title="The Diamond Mine" >}}
@@ -46,9 +47,7 @@ styles: ["Stoner Rock"]
 - [Learning to Die](https://www.youtube.com/watch?v=bEZZdpQjJnA)
 - [Welcome to the Void (Bonus Track)](https://www.youtube.com/watch?v=GzAXSIiGy-w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -58,4 +57,3 @@ styles: ["Stoner Rock"]
 | Catalog Number | NPR916VINYL |
 
 Double black vinyl in gatefold sleeve. Etching on side D.  Produced and mixed summer / fall 2020.  Strictly limited edition.  Made in Germany.
-

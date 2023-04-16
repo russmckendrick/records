@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. She Digs That Hole
 2. Watch Me Fade
@@ -25,6 +24,8 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 8. Ball Of Confusion
 9. Time Machine (Instrumental)
 10. I Live Behind The Paradise Machine: Evil Joe Barresi's Magnet Mash Vol.1
+## Spotify
+{{< spotify type="album" id="6rwFQ2irEjdv0EEJJneuOP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}
@@ -38,9 +39,7 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 - [The Titan](https://www.youtube.com/watch?v=g8XUUkXJqH4)
 - [Ball Of Confusion](https://www.youtube.com/watch?v=_ns1NlBWmGE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -50,4 +49,3 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 | Catalog Number | NPR 629 LP |
 
 180 gram YELLOW VINYL edition with gatefold jacket.  Exclusively distributed in the USA by ADA.  Barcode for this limited edition is on a sticker which covers the original barcode printed on the sleeve (which is the barcode for the black vinyl version).  Featuring re-written and newly interpreted tracks of the [m=287598] album.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Section 33 (You Don't Know Me)
 2. Section 34 (Popular By Design)
@@ -26,6 +25,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 9. Section 41 (Raise Your Head)
 10. Section 42 (What Would You Do?)
 11. Section 43 (Battlefield)
+## Spotify
+{{< spotify type="album" id="0wtkCnT2cljWyX8na4u0nh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hGiEL_BGToo" title="The Polyphonic Spree : You Don't Know Me (OFFICIAL)" >}}
@@ -36,9 +37,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [The Polyphonic Spree : Raise Your Head (OFFICIAL)](https://www.youtube.com/watch?v=_7gNjOkszeQ)
 - [The Polyphonic Spree : Let Them Be (OFFICIAL)](https://www.youtube.com/watch?v=YCZUpxMLC2w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -48,4 +47,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | GRR 27, KR-78V |
 
 "As part of the Kickstarter "label", what you hold in your hand is a direct reflection of your specific contribution to our musical dance. When this is played on your turntable, CD player or computer, the same applies. Forever know that, what you have done, is now doing exactly what we all wanted. Thank You!" - Tim
-

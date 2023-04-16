@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Quasar (4:55)
 2. Panopticon (3:52)
@@ -28,11 +27,11 @@ styles: ["Alternative Rock"]
 11. Glissandra (4:06)
 12. Inkless (3:08)
 13. Wildflower (4:42)
-
+## Spotify
+{{< spotify type="album" id="4JSNpsxNnuVDKMyNd2CrZt" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | MM 002 |
 
 Gatefold packaging, with lyrics printed inside the sleeve. 180 grams pressing.  Nicole Fiorentino's name is misspelled "Florentino" in the credits.  Sticker: "Oceania  First studio album from The Smashing Pumpkins in 5 years On Tour Fall 2012" 
-

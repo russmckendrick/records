@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Original Album 2013 Remaster
 2. Overture (5:20)
@@ -138,14 +137,14 @@ styles: ["Classic Rock", "Pop Rock"]
 121. Tommy's Holiday Camp (0:48)
 122. We're Not Gonna Take It (3:38)
 123. See Me, Feel Me/Listening To You (7:51)
+## Spotify
+{{< spotify type="album" id="5cT7ee1sy2oEbFalP4asS4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="txA_FXWX7Po" title="The̲ W̲ho -Tommy (1969) 1990 MFSL Remaster (Full Album)" >}}
 - [Overture](https://www.youtube.com/watch?v=MPUDqqINVXE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -155,4 +154,3 @@ styles: ["Classic Rock", "Pop Rock"]
 | Catalog Number | 3747396 |
 
 On disc four all tracks are from the Capitol Theatre, Ottawa, Ontario, Canada, 15 October 1969, except for "I'm Free", "Tommy's Holiday Camp", "We're Not Gonna Take It" and "See Me, Feel Me" which are from Swansea City Football Club, 12 June 1976.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Arkansas
 2. I Will Never Pass This Way Again
@@ -25,13 +24,13 @@ styles: ["Country"]
 8. It's Over
 9. You've Still Got A Place In My Heart
 10. You'll Never Walk Alone
+## Spotify
+{{< spotify type="album" id="6XNBGKXvI8vJkq8tKoOslp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eccolhz6Jnc" title="Glen Campbell - Arkansas" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -41,4 +40,3 @@ styles: ["Country"]
 | Catalog Number | VMP 1001 |
 
 Stereo 7510 T. M. Garrod & Lofthouse Ltd
-

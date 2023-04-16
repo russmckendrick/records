@@ -13,19 +13,18 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Friends Make The Worst Enemies (5:06)
 2. Some Things Are Better Left Unsaid (2:38)
 3. Don't You Wait, It Might Never Come (3:52)
 4. Friends Make The Worst Enemies (Acoustic) (4:58)
+## Spotify
+{{< spotify type="album" id="4O2aVp5EO45Y3cZV1hADpD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO (Full EP stream)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -35,4 +34,3 @@ styles: ["Indie Rock"]
 | Catalog Number | KSCOPE935 |
 
 Limited edition, numbered clear vinyl. Includes download card.  Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo]. 'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting' LOUDER THAN WAR 
-

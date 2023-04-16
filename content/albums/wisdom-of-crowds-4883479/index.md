@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Pleasure (6:10)
 2. Wisdom Of Crowds (5:02)
@@ -30,9 +29,7 @@ styles: ["Prog Rock"]
 - [Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)](https://www.youtube.com/watch?v=P66D8U7xxh8)
 - [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -42,4 +39,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE844 |
 
 Mastered at 360 Mastering, London.  ℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.  Made in Germany.  Limited edition red vinyl in special mirrored foil gatefold covers.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Opening Titles Including Underground (3:16)
 2. Into The Labyrinth (2:10)
@@ -27,11 +26,11 @@ styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
 10. Thirteen O'Clock (3:06)
 11. Home At Last (1:45)
 12. Underground (5:54)
-
+## Spotify
+{{< spotify type="album" id="6cvdkUIC4IdBypl9L5Ae74" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -41,4 +40,3 @@ styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
 | Catalog Number | 00602557354843 |
 
 Limited to 1,500 copies worldwide in green. Nothing on exterior to denote this apart from barcode variant.  Made in Czech Republic.
-

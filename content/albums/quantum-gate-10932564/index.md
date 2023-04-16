@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Berlin-School"]
 ---
-
 ## Tracklisting
 1. Sensing Elements
 2. Roll The Seven Twice
@@ -24,6 +23,8 @@ styles: ["Ambient", "Berlin-School"]
 7. Non-Locality Destination
 8. Genesis Of Precious Thoughts
 9. Granular Blankets
+## Spotify
+{{< spotify type="album" id="6h0wIWFJY2SyjL10ojsajL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="18-UfWJDQWI" title="Tangerine Dream - Sensing Elements" >}}
@@ -32,9 +33,7 @@ styles: ["Ambient", "Berlin-School"]
 - [Tangerine Dream - Quantum Key](https://www.youtube.com/watch?v=L4zPGoE_guw)
 - [Tangerine Dream - It is Time to Leave When Everyone is Dancing (from Quantum Gate)](https://www.youtube.com/watch?v=xW7CRMXo7kA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Ambient", "Berlin-School"]
 | Catalog Number | KSCOPE967 |
 
 Double LP edition on 180g heavyweight vinyl in gatefold packaging.
-

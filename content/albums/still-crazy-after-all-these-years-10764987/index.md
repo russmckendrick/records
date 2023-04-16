@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Still Crazy After All These Years (3:25)
 2. My Little Town (3:52)
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Pop Rock"]
 8. Have A Good Time (3:25)
 9. You're Kind (3:23)
 10. Silent Eyes (3:57)
+## Spotify
+{{< spotify type="album" id="4A366gjTrYQwmRtkTezF2W" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Q5Eoax6I-O4" title="Paul Simon - Still Crazy After All These Years (Official Audio)" >}}
@@ -37,9 +38,7 @@ styles: ["Folk Rock", "Pop Rock"]
 - [You're Kind](https://www.youtube.com/watch?v=_raIl_a5vjw)
 - [Silent Eyes](https://www.youtube.com/watch?v=-_FzOHh0e_k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Folk Rock", "Pop Rock"]
 | Catalog Number | 88985422371 |
 
 Includes insert with credits & download code  Made in the EU
-

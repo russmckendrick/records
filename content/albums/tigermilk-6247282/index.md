@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The State I Am In (4:57)
 2. Expectations (3:34)
@@ -25,15 +24,15 @@ styles: ["Indie Rock"]
 8. My Wandering Days Are Over (5:25)
 9. I Don't Love Anyone (3:56)
 10. Mary Jo (3:29)
+## Spotify
+{{< spotify type="album" id="3MSxGvwpiKePFsygmWT3G9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="soMbZ7eLKlM" title="The State That I Am In - Belle & Sebastian" >}}
 - [Belle & Sebastian :: Electronic Renaissance](https://www.youtube.com/watch?v=GKTDiWslOPo)
 - [Belle and Sebastian - I Don't Love Anyone](https://www.youtube.com/watch?v=yYw3AoLG3Fo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock"]
 | Catalog Number | JPRLP007 |
 
 Includes free download of entire album. Includes PVC protective outer sleeve. Lyrics on back cover.
-

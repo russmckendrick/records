@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Reena (3:47)
 2. Incinerate (4:55)
@@ -27,15 +26,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. The Neutral (4:09)
 11. Pink Steam (6:57)
 12. Or (3:31)
+## Spotify
+{{< spotify type="album" id="706OL6kpsbf73LRdXD1dCB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rP3ovD8ZSS4" title="Sonic Youth - Incinerate (Official Video)" >}}
 - [Sonic Youth - Jams Runs Free](https://www.youtube.com/watch?v=vU93I5UU8-c)
 - [Sonic Youth - Sleepin' around](https://www.youtube.com/watch?v=MIsq3sEQ4Hs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 00602547491831 |
 
 Includes a voucher to download MP3 version of the album. Made in the EU.   
-

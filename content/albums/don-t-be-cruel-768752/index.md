@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["RnB/Swing"]
 ---
-
 ## Tracklisting
 1. Cruel Prelude (0:39)
 2. Don't Be Cruel (6:52)
@@ -49,9 +48,7 @@ styles: ["RnB/Swing"]
 - [Bobby Brown - Don't Be Cruel [Club MTV] *1989*](https://www.youtube.com/watch?v=kqmaLrpWk6Y)
 - [Don't Be Cruel Bobby Brown live in Japan 1991](https://www.youtube.com/watch?v=hmrWJHVt1q8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -61,4 +58,3 @@ styles: ["RnB/Swing"]
 | Catalog Number | MCF 3425, MCF 3245 |
 
 Misprint version with MCF 3245 on back cover.
-

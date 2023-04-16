@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Prelude - Island Of Peace
 2. Meet Me In The Air
@@ -27,6 +26,8 @@ styles: null
 10. Ghosts
 11. We Know What It Means
 12. Hold Her Close
+## Spotify
+{{< spotify type="album" id="1hnO1NxHoafof3Zu0Zni9z" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="r8fphdbMffI" title="Prelude - Island Of Peace" >}}
@@ -42,9 +43,7 @@ styles: null
 - [Neil & Liam Finn -  Hold Her Close](https://www.youtube.com/watch?v=Qq-MAHDilxk)
 - [Neil & Liam Finn - Lightsleeper](https://www.youtube.com/watch?v=IQRnK9JZLuE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +53,3 @@ styles: null
 | Catalog Number | LRNFLF0017LP |
 
 Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]
-

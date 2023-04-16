@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Acoustic"]
 ---
-
 ## Tracklisting
 1. (Argument With David Rawlings Concerning Morrissey)
 2. To Be Young (Is To Be Sad, Is To Be High)
@@ -30,6 +29,8 @@ styles: ["Acoustic"]
 13. Don't Ask For The Water
 14. In My Time Of Need
 15. Sweet Lil Gal (23rd/1st)
+## Spotify
+{{< spotify type="album" id="7hmZCaBzp6mVrelxW6Ckrn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-Z0o7zWtu_0" title="[Argument with David Rawlings Concerning Morrisey]" >}}
@@ -48,9 +49,7 @@ styles: ["Acoustic"]
 - [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)
 - [Sweet Lil' gal (23rd/1st)](https://www.youtube.com/watch?v=DuL3Zx0hEFs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -60,4 +59,3 @@ styles: ["Acoustic"]
 | Catalog Number | PAX-AM 052, 00600753583609 |
 
 Includes a voucher to download 96/24 WAV version of the album.  MADE IN GERMANY sticker on shrink wrap on back cover.  PAX-AM 052 located in lower right corner of back cover. 00600753583609 located on spine, and labels.
-

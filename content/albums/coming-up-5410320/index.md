@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Britpop"]
 ---
-
 ## Tracklisting
 1. Trash (4:06)
 2. Filmstar (3:25)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 8. Picnic By The Motorway (4:45)
 9. The Chemistry Between Us (7:04)
 10. Saturday Night (4:32)
+## Spotify
+{{< spotify type="album" id="3YBbEumtx9naxbCQWoeu41" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="aGah_flIerg" title="[Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 - [Suede - Saturday Night](https://www.youtube.com/watch?v=wEWn0aVcuSM)
 - [Suede - Filmstar](https://www.youtube.com/watch?v=PX6L65xgOzY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 | Catalog Number | INSATIABLE 3 |
 
 180 gram vinyl. Demon Records Ltd release. Some copies have a MP3 download card. Pressing plant uncredited, identified by the matrix numbers.
-

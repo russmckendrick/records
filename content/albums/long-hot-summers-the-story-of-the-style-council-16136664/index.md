@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Headstart For Happiness
 2. Long Hot Summer
@@ -52,9 +51,7 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 {{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}
 - [My Ever Changing Moods (Extended Version)](https://www.youtube.com/watch?v=vAjf6-lhdOY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -64,4 +61,3 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 | Catalog Number | 089 411-9 |
 
 Tracks C5 and F5 marked as previously unreleased.
-

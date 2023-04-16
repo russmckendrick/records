@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Opening Announcements From Hugh Cherry (1:01)
 2. Blue Suede Shoes (3:31)
@@ -40,13 +39,13 @@ styles: ["Country"]
 23. Green, Green Grass Of Home (3:19)
 24. Greystone Chapel (2:49)
 25. Closing Announcements (1:46)
+## Spotify
+{{< spotify type="album" id="4TJIdlY9hGSSTO1kUs1neh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GpZ-2HDJzFw" title="Johnny Cash - At Folsom Prison (1968) (Full album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -56,4 +55,3 @@ styles: ["Country"]
 | Catalog Number | 88875111971 |
 
 Expanded Vinyl Edition Includes a download-voucher and a 16 page booklet.  Full, unedited and uncensored concert at Folsom Prison.  All tracks recorded live January 13, 1968 at Folsom Prison.  Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./ Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.
-

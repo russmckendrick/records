@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Beating Of Hearts (3:58)
 2. Wonderland (4:47)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. In Loving Memory Of A Name (3:15)
 9. Me And The Wind (4:17)
 10. Funk Pop A Roll (3:03)
+## Spotify
+{{< spotify type="album" id="7jArveDNywiBbEqax0f2vn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GTLVRD8S-3s" title="XTC   In Loving Memory of a Name" >}}
@@ -34,9 +35,7 @@ styles: ["Pop Rock"]
 - [XTC - Funk Pop A Roll](https://www.youtube.com/watch?v=JnvO6lrZSxo)
 - [XTC - Beating of Hearts](https://www.youtube.com/watch?v=-dXQBVvBtO8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -46,4 +45,3 @@ styles: ["Pop Rock"]
 | Catalog Number | APELP106 |
 
 The album has been mastered with input from Andy Partridge.  Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'    
-

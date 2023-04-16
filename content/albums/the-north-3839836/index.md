@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Theory Of Relativity (4:26)
 2. Backlines (2:11)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Progress (3:50)
 11. The 400 (3:28)
 12. Walls (4:16)
+## Spotify
+{{< spotify type="album" id="1u5p3kDuSpbtaBKGcWa6iX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ta1xEMypk2Q" title="Stars - The Theory of Relativity" >}}
@@ -43,9 +44,7 @@ styles: ["Alternative Rock"]
 - [Through The Mines](https://www.youtube.com/watch?v=EAF52eYLem4)
 - [Stars- The North](https://www.youtube.com/watch?v=4e4JECimr0k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -55,4 +54,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 88088218161, ATO0165, 004 LP |
 
 Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album.   Gatefold sleeve.  Manufactured and distributed in the United States by RED Distribution, LLC.
-

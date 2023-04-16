@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 ---
-
 ## Tracklisting
 1. Ode To Divorce (3:43)
 2. Poor Little Rich Boy (2:25)
@@ -30,6 +29,8 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 13. Us (Video Edit) (4:00)
 14. Scarecrow & Fungus (2:29)
 15. December (2:08)
+## Spotify
+{{< spotify type="album" id="0HeAK5QnrTRrksc2WuTYgy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fczPlmz-Vug" title="Regina Spektor - Us [OFFICIAL Video]" >}}
@@ -39,9 +40,7 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 - [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)
 - [Regina Spektor - Sailor Song](https://www.youtube.com/watch?v=Uro9hjHSsiw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,4 +50,3 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 | Catalog Number | 9362-49267-9, 549811-1, PRO-S-553971 |
 
 ℗ 2004, 2005 Sire Records for the US  and WEA International Inc. © 2005 Sire Records for the US  and WEA International Inc. Manufactured in E.U. Comes with double-printed lyric sheet.  LP: © 2005 Sire Records ℗ 2004, 2005 Sire Records. Manufactured in The Netherlands. 7": © ℗ 2016 Sire Records. Manufactured in The Netherlands. Has a large ("dinked") center hole  A Record Store Day 2016 release. Limited to 3,000 copies. 
-

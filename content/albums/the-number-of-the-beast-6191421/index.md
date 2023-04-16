@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Invaders (3:20)
 2. Children Of The Damned (4:34)
@@ -23,11 +22,11 @@ styles: ["Heavy Metal"]
 6. Run To The Hills (3:50)
 7. Gangland (3:46)
 8. Hallowed Be Thy Name (7:08)
-
+## Spotify
+{{< spotify type="album" id="33d72N71hl9bXwT4zAcqUy" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -37,4 +36,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | 2564625240 |
 
 Printed in EU.  Glossy cover and printed inner sleeve with photos, lyrics & credits.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. In Exile
 2. No Man's Land
@@ -23,6 +22,8 @@ styles: ["Prog Rock"]
 6. Fend For Yourself
 7. The Final Thing On My Mind
 8. Where We Stood
+## Spotify
+{{< spotify type="album" id="7jjzqewWL5T2lj8hU2Z4bG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8LTh10MHMOo" title="The Pineapple Thief - In Exile (from Your Wilderness)" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock"]
 - [The Pineapple Thief - The Final Thing On My Mind](https://www.youtube.com/watch?v=Xnx_qgvH8xk)
 - [The Pineapple Thief - Where We Stood](https://www.youtube.com/watch?v=M8C3w2GvJSk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE921 |
 
 Made in Germany Download code and inner laminated booklet included.
-

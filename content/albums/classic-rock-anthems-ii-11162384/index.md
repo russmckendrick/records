@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Africa
 2. Burning Heart
@@ -37,9 +36,7 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 20. American Woman
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +46,3 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 | Catalog Number |  DEMRECOMP006 |
 
 Vinyl exclusive.  2017 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company
-

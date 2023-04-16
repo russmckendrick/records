@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro House"]
 ---
-
 ## Tracklisting
 1. Side Clarence
 2. You're So Cool (3:40)
@@ -29,6 +28,8 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 12. Outshined (5:12)
 13. Amid The Chaos Of Day (4:54)
 14. Two Hearts (3:33)
+## Spotify
+{{< spotify type="album" id="5RyWJx6ASGDuaEwVe0aWvG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lFUkaB_NU5o" title="You're So Cool" >}}
@@ -49,9 +50,7 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 - [Amid The Chaos Of The Day](https://www.youtube.com/watch?v=eFZm0oOi2Oc)
 - [Two Hearts](https://www.youtube.com/watch?v=gQ4bRyK3JEo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -61,4 +60,3 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 | Catalog Number | RGM-0759 |
 
 25th Anniversary Edition. Pressed on clear with white splatter vinyl. Limited Edition of 1700.
-

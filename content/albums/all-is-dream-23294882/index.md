@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Dark Is Rising
 2. Tides Of The Moon
@@ -41,6 +40,8 @@ styles: ["Alternative Rock"]
 24. Mr. Moonlight Will Come
 25. Cool Waves
 26. Hercules (Demo)
+## Spotify
+{{< spotify type="album" id="4N13GH5Ofi55VvG5yc3vFl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="esRQQ0hV-ls" title="Mercury Rev - Tides of the Moon" >}}
@@ -59,9 +60,7 @@ styles: ["Alternative Rock"]
 - [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
 - [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -71,4 +70,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | BREDD816 |
 
 Limited to 1000 copies Same version than the red and black marbled vinyl (2020) but in yellow and green 
-

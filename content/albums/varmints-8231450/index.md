@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
-
 ## Tracklisting
 1. Nautilus (5:30)
 2. Taken (4:50)
@@ -26,6 +25,8 @@ styles: ["Modern Classical"]
 9. Last Rose (3:31)
 10. Shill (2:47)
 11. Blackfriars (2:58)
+## Spotify
+{{< spotify type="album" id="1qVKTHX3HLFIi9PkTldCus" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Vajhs2wBeCU" title="Anna Meredith -  Nautilus (Official Video)" >}}
@@ -34,9 +35,7 @@ styles: ["Modern Classical"]
 - [Anna Meredith - R-Type](https://www.youtube.com/watch?v=A4F2_cWk8cY)
 - [Honeyed Words](https://www.youtube.com/watch?v=S_MO6fL6D7M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -44,6 +43,5 @@ styles: ["Modern Classical"]
 | Label          | Moshi Moshi Records |
 | Format         | LP, Album |
 | Catalog Number | MOSHILP67 |
-
 
 

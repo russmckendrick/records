@@ -13,20 +13,19 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Dumbstruck & Floodlit (8:23)
 2. Hazel (2:29)
 3. Cassandra (1:37)
 4. Lacquer (7:25)
+## Spotify
+{{< spotify type="album" id="5z7mZOQyjl8i20QtuUS83K" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="F417DTW7O6o" title="Pijn - Dumbstruck & Floodlit Live" >}}
 - [Pijn - Floodlit (Full EP)](https://www.youtube.com/watch?v=GNzTHF8HsKY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -36,4 +35,3 @@ styles: ["Post Rock"]
 | Catalog Number | HRR166 |
 
 Repress, Edition of 250.  Durations taken from digital files. 
-

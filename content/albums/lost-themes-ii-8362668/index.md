@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Dark Ambient", "Synthwave", "Electro"]
 ---
-
 ## Tracklisting
 1. Distant Dream
 2. White Pulse
@@ -26,6 +25,8 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 9. Bela Lugosi
 10. Last Sunrise
 11. Utopian Facade
+## Spotify
+{{< spotify type="album" id="5LgbAAdBK2hWlrQdWplfGK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sAfVnzSVrBY" title="John Carpenter Lost themes II - Distant Dream" >}}
@@ -41,9 +42,7 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 - [John Carpenter Lost Themes II - Utopian Facade](https://www.youtube.com/watch?v=UlNikrTNVV0)
 - [John Carpenter Lost Themes II - Real Xeno](https://www.youtube.com/watch?v=olfs-L9GSQI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -53,4 +52,3 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 | Catalog Number | SBR-150 |
 
 Release in die-cut jacket with printed inner sleeve.  Includes download card.
-

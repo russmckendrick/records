@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Still Hungry
 2. We're Back
@@ -34,9 +33,7 @@ styles: null
 - [DJ Format & Abdominal - Dirt (Official Video)](https://www.youtube.com/watch?v=LrEta1txJY4)
 - [DJ Format & Abdominal - We're Back](https://www.youtube.com/watch?v=yPJlNs-8ERk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,6 +41,5 @@ styles: null
 | Label          | AAF |
 | Format         | LP, Album |
 | Catalog Number | AAF003LP |
-
 
 

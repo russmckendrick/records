@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Hornets! Hornets! (4:48)
 2. Cattle And The Creeping Things  (3:47)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Chicago Seemed Tired Last Night (3:20)
 10. Crucifixion Cruise (1:51)
 11. How A Resurrection Really Feels (5:32)
+## Spotify
+{{< spotify type="album" id="2o9xoahiznyfXC13U5dex7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PFiiq2sFD7E" title="The Hold Steady - How a Resurrection Really Feels" >}}
@@ -39,9 +40,7 @@ styles: ["Indie Rock"]
 - [Hornets! Hornets!](https://www.youtube.com/watch?v=zi9FCw5FK60)
 - [Multitude of Casualties](https://www.youtube.com/watch?v=Q9WQoOBrq_g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,4 +50,3 @@ styles: ["Indie Rock"]
 | Catalog Number | FKR087-1, none |
 
 Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records. 
-

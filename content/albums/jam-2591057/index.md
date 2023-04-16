@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Jam
 2. The Way That I Live
@@ -40,9 +39,7 @@ styles: ["Soft Rock", "Hard Rock"]
 ## Videos
 {{< youtube id="AyqjkGLewpY" title="Little Angels – Womankind" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1993 |
@@ -52,4 +49,3 @@ styles: ["Soft Rock", "Hard Rock"]
 | Catalog Number | 517 676-1, Jam LP1 |
 
 Includes Live Jam 10" recorded at Newport Centre, Gwent  With hype sticker on sleeve and printed inner sleeve.  'Tired Of Waiting For You' originally performed by [a94078] 'Won't Get Fooled Again' originally performed by [a196766]  ℗ 1992 Polydor Ltd. (UK) ℗ 1993 Polydor Ltd. (UK) © 1993 Polydor Ltd. (UK)
-

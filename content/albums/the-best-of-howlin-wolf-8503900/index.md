@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
-
 ## Tracklisting
 1. Smokestack Lightnin' (3:06)
 2. Spoonful (2:45)
@@ -31,11 +30,11 @@ styles: ["Chicago Blues"]
 14. I've Been Abused (2:16)
 15. The Natchez Burnin' (2:12)
 16. Goin' Down Slow (4:00)
-
+## Spotify
+{{< spotify type="album" id="0MSREewx6CgUBtSonNOkJT" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Chicago Blues"]
 | Catalog Number | CATLP105 |
 
 Made in The E.U.
-

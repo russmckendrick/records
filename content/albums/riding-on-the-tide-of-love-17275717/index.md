@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Riding On The Tide Of Love
 2. She Loved The Snow
@@ -23,6 +22,8 @@ styles: ["Pop Rock"]
 6. Send A Note Out 
 7. Not Gonna Be That Girl
 8. It's Still Early 
+## Spotify
+{{< spotify type="album" id="7nscf05Tq67HnOzN3BDptC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock"]
 - [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
 - [Deacon Blue - City of Love (At Home Sessions)](https://www.youtube.com/watch?v=eyEUQOIwxuY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,6 +48,5 @@ styles: ["Pop Rock"]
 | Label          | Ear Music |
 | Format         | LP, MiniAlbum |
 | Catalog Number | 0215401EMU |
-
 
 

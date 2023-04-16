@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Pavement Side
 2. (We Don't Need This) Fascist Groove Thang (4:17)
@@ -26,6 +25,8 @@ styles: ["Synth-pop"]
 9. The Height Of The Fighting (3:00)
 10. Song With No Name (3:33)
 11. We're Going To Live For A Very Long Time
+## Spotify
+{{< spotify type="album" id="662vZghUEjQCywafYimHtK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Q49BjlSOCGE" title="[We Don't Need This] Fascist Groove Thang" >}}
@@ -38,9 +39,7 @@ styles: ["Synth-pop"]
 - [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)
 - [We're Going To Live For A Very Long Time (2006 Digital Remaster)](https://www.youtube.com/watch?v=77PYASbEsi8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0602547941602, 4794160 |
 
 Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.  Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield.   B5 ends in a locked groove, hence no duration.  Includes 24Bit/44.1Khz WAV download coupon.   
-

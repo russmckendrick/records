@@ -1,6 +1,6 @@
 ---
-title: "Jim Bob (2) - Who Do We Hate Today"
-artist: "Jim Bob (2)"
+title: "Jim Bob - Who Do We Hate Today"
+artist: "Jim Bob"
 album_name: "Who Do We Hate Today"
 date: 2021-08-23
 release_id: "19932178"
@@ -8,12 +8,11 @@ slug: "who-do-we-hate-today-19932178"
 hideSummary: true
 cover:
     image: "who-do-we-hate-today-19932178.jpg"
-    alt: "Who Do We Hate Today by Jim Bob (2)"
-    caption: "Who Do We Hate Today by Jim Bob (2)"
+    alt: "Who Do We Hate Today by Jim Bob"
+    caption: "Who Do We Hate Today by Jim Bob"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Jim's Bed of Unease (Intro)
 2. The Earth Bleeds Out
@@ -28,6 +27,8 @@ styles: ["Alternative Rock"]
 11. Evan Knows The Sirens
 12. The Loneliest Elephant In The World
 13. Who Do We Hate Today?
+## Spotify
+{{< spotify type="album" id="2IOjjGgFrbeDACa6mZQv3X" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="DnkIJYBaDOg" title="Jim's Bed Of Unease (Intro)" >}}
@@ -44,16 +45,13 @@ styles: ["Alternative Rock"]
 - [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
 - [Who Do We Hate Today?](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
-| Discogs Link   | [Jim Bob (2) - Who Do We Hate Today](https://www.discogs.com/release/19932178-Jim-Bob-Who-Do-We-Hate-Today) |
+| Discogs Link   | [Jim Bob - Who Do We Hate Today](https://www.discogs.com/release/19932178-Jim-Bob-Who-Do-We-Hate-Today) |
 | Label          | Cherry Red |
 | Format         | LP, Album, Ltd |
 | Catalog Number | BRED850 |
 
 Gatefold sleeve.  2022 Jim Bob Calendar included
-

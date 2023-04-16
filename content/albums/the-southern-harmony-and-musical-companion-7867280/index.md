@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Sting Me (4:40)
 2. Remedy (5:23)
@@ -25,6 +24,8 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 8. No Speak No Slave (4:02)
 9. My Morning Song (6:15)
 10. Time Will Tell (4:08)
+## Spotify
+{{< spotify type="album" id="4hVgzAM4i3dPdhZQki9cKk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="OaH9wIQDUwE" title="The Black Crowes - Sting Me" >}}
@@ -32,9 +33,7 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 - [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
 - [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -44,4 +43,3 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 | Catalog Number | 00602537494255 |
 
 Includes a voucher to download MP3 version of the album  Recorded in recording studios in the United States. ℗ © 1992   Back To Black www.backtoblackvinyl.com
-

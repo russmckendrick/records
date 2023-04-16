@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Heart And Soul (4:15)
 2. I Will Be With You (4:06)
@@ -41,16 +40,13 @@ styles: ["Pop Rock"]
 - [T'pau Bridge Of Spies](https://www.youtube.com/watch?v=bruw9QIq6rQ)
 - [T'Pau 10 Bridge Of Spies](https://www.youtube.com/watch?v=6bv9-W0E_Pc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |
-| Label          | Siren (3) |
+| Label          | Siren |
 | Format         | LP, Album |
 | Catalog Number | SRN LP8 |
 
 This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve. 
-

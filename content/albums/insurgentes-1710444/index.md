@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Harmony Korine (5:08)
 2. Abandoner (4:48)
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 12. Puncture Wound (4:18)
 13. Collecting Space (5:10)
 14. Insurgentes (Mexico) (4:45)
+## Spotify
+{{< spotify type="album" id="3psPvfJX0dMn05RK7fqcIL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BClzBQmZZBc" title="Steven Wilson Harmony Korine HD" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 - [Steven Wilson About Cover Art](https://www.youtube.com/watch?v=R8mECpZDCQU)
 - [Steven Wilson on music today, taken from the Insurgentes film](https://www.youtube.com/watch?v=61HUlcvDIC4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 | Catalog Number | KSCOPE808 |
 
 The debut solo album from Steven Wilson on double heavyweight (180g) vinyl in a gatefold sleeve. Features 4 bonus tracks not available on the CD/DVD edition. Limited to 2000 copies.  An international recording written and performed in various locations between Dec 07 - Aug 08, except track D3 written in 2003. Steinway piano on track C4 recorded at St Bartholemew's Church in Brighton. Additional guitar recording at Red Room Recorders, Tampa, Florida. Michiyo Yagi recorded at Sound Pot, Tokyo. London Session Orchestra recorded at Angel Studio, London. Stereo mastering at Masterdisk, New York City. Track D4 written and recorded during the night of 28th February in Ex Templo de Santa Teresa La Antigua, Mexico City. Design for Aleph.  Steven Wilson uses Paul Reed Smith guitars, Babicz acoustic guitars, Bad Cat amplifiers, Line6 effects, Spector basses, Ernie Ball strings.  Track C2 is misspelled "Twliight Coda" on the sleeve.  The copyright in this recording is owned by Steven Wilson under exclusive license to Kscope. ℗ 2009 Steven Wilson. © 2009 Steven Wilson.
-

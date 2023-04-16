@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Day And Age  (11:49)
 2. Terrestrial  (5:13)
@@ -31,13 +30,13 @@ styles: ["Pop Rock", "Prog Rock"]
 14. Skywards (4:13)
 15. Kill The Orchestra (9:27)
 16. Repeat To Fade (6:14)
+## Spotify
+{{< spotify type="album" id="4iNsIkR18NMo2chPsyfVnv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RmiAmW3sgHs" title="FROST* - Day And Age (Official Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +46,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | IOMLP 576, 19439842991 |
 
 Limited edition of 200 copies. Burning Shed exclusive. Gatefold. Signed postcard included.
-

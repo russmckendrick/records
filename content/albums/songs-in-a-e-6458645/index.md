@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock"]
 ---
-
 ## Tracklisting
 1. Harmony 1 (Mellotron)
 2. Sweet Talk
@@ -33,15 +32,15 @@ styles: ["Alternative Rock", "Space Rock"]
 16. Borrowed Your Gun
 17. Harmony 6 (Glockenspiel)
 18. Goodnight Goodnight
+## Spotify
+{{< spotify type="album" id="2sVtK7SzMhN1NRrTB42Vqo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ncD2YXmCUeI" title="Baby I'm Just a Fool" >}}
 - [Soul On Fire](https://www.youtube.com/watch?v=-DHGimTS7lQ)
 - [Sweet Talk](https://www.youtube.com/watch?v=6pb_8WVXgFs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -49,6 +48,5 @@ styles: ["Alternative Rock", "Space Rock"]
 | Label          | Sanctuary Records |
 | Format         | 2xLP, Album, Ltd, RE, Whi |
 | Catalog Number | 1768732 |
-
 
 

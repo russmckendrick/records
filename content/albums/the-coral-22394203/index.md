@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Spanish Main
 2. I Remember When
@@ -41,6 +40,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 24. Another Turn In The Lock
 25. She's The Girl For Me
 26. Tumble Graves
+## Spotify
+{{< spotify type="album" id="6Fhnezpt7TKojq1ufkZ5qA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="n-MoD4xtFaM" title="Spanish Main" >}}
@@ -55,9 +56,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [The Coral - Bad Man | UTV](https://www.youtube.com/watch?v=xkazy8eC35A)
 - [Calendars and Clocks](https://www.youtube.com/watch?v=cd1YoKHuyCE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -67,4 +66,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | RO-002-LP |
 
 20th Anniversary Edition. Sticker on sleeve. Included printed colour inner sleeves and artwork booklet with original album lyrics. Pressed on  opaque white double heavyweight vinyl. Some copies were sold with a signed print.  Remastered from the original mixes. This reissue includes two, unreleased, never-before-heard-tracks, She’s The Girl For Me and Tumble Graves, produced by Ian Broudie, but shelved after the 2001 album sessions.  The rarities appear on a complete singles B-sides collection and the band’s pre-album EP The Oldest Path.  ℗ 2022 Deltasonic Records © 2022 Run On Records/ Modern Sky  www.thecoral.co.uk
-

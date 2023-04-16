@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Good Times (3:49)
 2. Lost In The Shadows (Lost Boys) (6:35)
@@ -25,6 +24,8 @@ styles: ["Soundtrack", "Pop Rock"]
 8. I Still Believe (3:42)
 9. Beauty Has Her Way (3:56)
 10. To The Shock Of Miss Louise (1:21)
+## Spotify
+{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="raI38f_xMZE" title="The Lost Boys (Original Soundtrack)" >}}
@@ -47,9 +48,7 @@ styles: ["Soundtrack", "Pop Rock"]
 - [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -59,4 +58,3 @@ styles: ["Soundtrack", "Pop Rock"]
 | Catalog Number | 781 767-1 |
 
 Labels: ℗ + © 1987 Atlantic Recording Corporation for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by WEA Musik GmbH.  Sleeve: This compilation ℗ 1987 Atlantic Recording Cooperation for the United States and WEA International Inc. for the world outside the United States. © 1987 Warner Bros. Inc. Mastered at Atlantic Studios, NYC. Manufactured in Germany by Record Services GmbH, Alsdorf.  This Issue: no publishing notes on labels Another european issue: with publishing notes on labels [r18850189]
-

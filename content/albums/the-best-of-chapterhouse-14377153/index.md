@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. We Are The Beautiful
 2. Falling Down
@@ -34,9 +33,7 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Videos
 {{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +43,3 @@ styles: ["Indie Rock", "Shoegaze"]
 | Catalog Number | MOVLP2568 |
 
 Limited edition of 1500 copies
-

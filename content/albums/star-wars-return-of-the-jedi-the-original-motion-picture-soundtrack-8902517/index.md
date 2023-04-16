@@ -1,6 +1,6 @@
 ---
-title: "John Williams (4) - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
-artist: "John Williams (4)"
+title: "John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
+artist: "John Williams"
 album_name: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
 date: 2016-08-17
 release_id: "8902517"
@@ -8,12 +8,11 @@ slug: "star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-89025
 hideSummary: true
 cover:
     image: "star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517.jpg"
-    alt: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams (4)"
-    caption: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams (4)"
+    alt: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams"
+    caption: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams"
 genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Main Title (The Story Continues) (5:09)
 2. Into The Trap (2:36)
@@ -42,16 +41,13 @@ styles: ["Soundtrack"]
 - [The Return of the Jedi](https://www.youtube.com/watch?v=MtB6kOMh5_k)
 - [Ewok Celebration and Finale](https://www.youtube.com/watch?v=QEq-KYcj7Rs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [John Williams (4) - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |
+| Discogs Link   | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |
 | Label          | RSO, Sony Classical |
 | Format         | LP, Gol |
 | Catalog Number | 28MW 0031 |
 
 Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.  Gatefold sleeve.      
-

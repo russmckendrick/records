@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. 2017 Remaster
 2. Still Of The Night
@@ -56,16 +55,13 @@ styles: ["Classic Rock", "Hard Rock"]
 - [LP / Whitesnake – 1987 / 1987 / Repress from Bulgaria 1989](https://www.youtube.com/watch?v=G5tBlaw3qnk)
 - [Here I Go Again | Whitesnake [1987] | 1987 Geffen LP](https://www.youtube.com/watch?v=kXfU-IhHqfA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Whitesnake - 1987](https://www.discogs.com/release/10958648-Whitesnake-1987) |
-| Label          | Parlophone, Rhino Records (2) |
+| Label          | Parlophone, Rhino Records |
 | Format         | LP, Album, RM, 180 + LP + RE, 30t |
 | Catalog Number | 0190295785178, R1 563473 |
-
 
 

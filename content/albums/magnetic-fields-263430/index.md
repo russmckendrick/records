@@ -13,13 +13,14 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
-
 ## Tracklisting
 1. Magnetic Fields Part 1
 2. Magnetic Fields Part 2
 3. Magnetic Fields Part 3
 4. Magnetic Fields Part 4
 5. Magnetic Fields Part 5 (The Last Rumba)
+## Spotify
+{{< spotify type="album" id="7G4AN82pnj8i93f03cnm8D" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kf3mk4jDC4M" title="Jean-Michel Jarre - Les Chants Magnétiques [Magnetic Fields] (1981)" >}}
@@ -59,9 +60,7 @@ styles: ["Ambient"]
 - [Jean Michel Jarre - Magnetic Fields I (Part 1) HD](https://www.youtube.com/watch?v=E7ZN0UBH2bI)
 - [Jean Michel Jarre - Magnetic Fields 2](https://www.youtube.com/watch?v=aibQMYOiofs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -71,4 +70,3 @@ styles: ["Ambient"]
 | Catalog Number | POLS 1033, 2311 075 |
 
 Released with inner picture sleeve  Cover: ℗ 1981 Disques Dreyfus © 1981 Disques Dreyfus Record printed and made in England by James Upton & Sons Ltd.  Inner sleeve: Gravure/Cutting : Dyam Music Thanks to [M. Geiss](http://www.discogs.com/artist/230353), MCI, [l=Music Land], RSF, [Fairlight](http://www.discogs.com/label/145912), [Oberheim](http://www.discogs.com/label/319372) & [MDB](http://www.discogs.com/artist/288563)  Labels: Made in England Original sound recording made by [l=Disques Dreyfus] ℗ 1981 Disques Dreyfus  Artist is credited as Jarre on front cover, but as Jean Michel Jarre on the spine and centre labels
-

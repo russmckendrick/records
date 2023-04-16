@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Veldt (5:23)
 2. Cranefly  (4:35)
@@ -22,6 +21,8 @@ styles: ["Prog Rock"]
 5. Deckchair For Your Ghost  (5:42)
 6. Make Me Young, etc.  (10:46)
 7. Tempe Terra (5:19)
+## Spotify
+{{< spotify type="album" id="6rp9TGETse9Tzc2Vzr5Io7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yABAVfQMC-E" title="Make Me Young Etc" >}}
@@ -32,9 +33,7 @@ styles: ["Prog Rock"]
 - [Figstorm](https://www.youtube.com/watch?v=bez5Jd96Xa4)
 - [Tempe Terra](https://www.youtube.com/watch?v=rtEqRFXhTBM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,6 +41,5 @@ styles: ["Prog Rock"]
 | Label          | Rockosmos |
 | Format         | LP, Album |
 | Catalog Number | n.a. |
-
 
 

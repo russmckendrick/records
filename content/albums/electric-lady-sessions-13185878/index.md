@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Electro", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Seconds (5:09)
 2. American Dream (6:04)
@@ -27,6 +26,8 @@ styles: ["Electro", "Post-Punk"]
 10. Emotional Haircut (5:16)
 11. Oh Baby (6:06)
 12. (We Don't Need This) Fascist Groove Thang (4:01)
+## Spotify
+{{< spotify type="album" id="6iVbNJBKV53qgNPKPpcBLt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nkj83iwRmNk" title="LCD Soundsystem - Seconds (electric lady sessions - official audio)" >}}
@@ -42,9 +43,7 @@ styles: ["Electro", "Post-Punk"]
 - [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
 - [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +53,3 @@ styles: ["Electro", "Post-Punk"]
 | Catalog Number | C-216887, 19075892161 |
 
 New recordings of songs from the band's catalog (plus three covers), recorded January 19, 20 & 21, 2018 at Electric Lady Studios, NYC.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ---
-
 ## Tracklisting
 1. I'm Not Driving Anymore (Instrumental) (4:08)
 2. Speed Me Towards Death (Instrumental) (4:28)
@@ -41,9 +40,7 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 {{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}
 - [FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)](https://www.youtube.com/watch?v=mdIEqCWV9U8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -51,6 +48,5 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 | Label          | Label Rob |
 | Format         | 3xLP, Comp |
 | Catalog Number | none |
-
 
 

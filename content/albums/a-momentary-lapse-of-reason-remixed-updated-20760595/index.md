@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Signs Of Life (4:24)
 2. Learning To Fly (4:52)
@@ -28,9 +27,7 @@ styles: ["Art Rock", "Prog Rock"]
 11. Sorrow (8:47)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -40,4 +37,3 @@ styles: ["Art Rock", "Prog Rock"]
 | Catalog Number | PFRLP37, 0190295079208 |
 
 Gatefold sleeve + 24-page booklet. Made in Germany.  Sticker: Pink Floyd A Momentary Lapse Of Reason Remixed & Updated 2-LP Vinyl Remixed in 2019 from the original master tapes Heavyweight 180 gram pressing 24-page booklet  Half-speed master Cut at 45 rpm for enhanced audio quality PFRLP37 01902979208
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Novum Organum (2:25)
 2. Alive (4:34)
@@ -24,13 +23,13 @@ styles: ["Prog Rock"]
 7. Ariel (14:28)
 8. Voyager (14:20)
 9. Homesong (4:50)
+## Spotify
+{{< spotify type="album" id="18PbCZGHCGHGOpJoxlsfj4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nZRsmxpS7iI" title="Big Big Train - Theodora in Green and Gold" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +39,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PLG074 |
 
 Limited edition vinyl release that includes a 24-page booklet with full color graphics, lyrics, credits, and band explanations for the inspiration and/or story behind each song. Some copies ordered through Burning Shed were sent a BBT concert flyer for upcoming performances and a Burning Shed postcard. 
-

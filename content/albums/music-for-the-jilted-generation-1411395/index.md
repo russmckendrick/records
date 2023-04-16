@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Hardcore"]
 ---
-
 ## Tracklisting
 1. Intro (0:45)
 2. Break & Enter (8:24)
@@ -26,6 +25,8 @@ styles: ["Breakbeat", "Hardcore"]
 9. No Good (Start The Dance) (6:18)
 10. One Love (Edit) (3:53)
 11. The Narcotic Suite
+## Spotify
+{{< spotify type="album" id="05yevdRXvaX6KGRaZehaDW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0PEkoVCdMRc" title="Intro" >}}
@@ -42,9 +43,7 @@ styles: ["Breakbeat", "Hardcore"]
 - [Skylined](https://www.youtube.com/watch?v=7JOyvi-BlTQ)
 - [Claustrophobic Sting](https://www.youtube.com/watch?v=otvGhjzsA5s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -54,4 +53,3 @@ styles: ["Breakbeat", "Hardcore"]
 | Catalog Number | XLLP 114 |
 
 2008 repress not in gatefold sleeve. On the center labels the "THE" part of the bands logo is damaged (doesn't occur on all copies).  Includes 2 identical printed inner sleeves.  The tracks are sequentially listed as 1 to 13 (both on the sleeve and on the labels).  All tracks written at Earthbound Studios.  Tracks A1, A2, A3, B6, C8, D11, D12 and D13 produced and mixed at Earthbound Studios.  Tracks A4, B5, B7, C9 and C10 produced and mixed at The Strongroom.  Samples from: Track A2 sample taken from 'Casanova' by [a9076] courtesy of [l313822] Track C9 'No Good For Me' by [a29231] sampled under license from [l66802], a division of [l277294]  All tracks published by EMI/Virgin Music Publishing Ltd. except track C9 published by EMI/Virgin Publishing Ltd. / All Boys Music Ltd.  ℗ & © 1994 XL-Recordings
-

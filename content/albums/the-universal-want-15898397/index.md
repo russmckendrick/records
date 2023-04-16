@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Carousels (4:50)
 2. I Will Not Hide (4:15)
@@ -25,6 +24,8 @@ styles: ["Indie Rock", "Britpop"]
 8. Mother Silverlake (5:13)
 9. Universal Want (5:21)
 10. Forest House (3:41)
+## Spotify
+{{< spotify type="album" id="6Te4QI3zfiqePHm4tViGzq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9a239ZI3iYI" title="Doves - Carousels" >}}
@@ -32,9 +33,7 @@ styles: ["Indie Rock", "Britpop"]
 - [Doves - Cathedrals Of The Mind](https://www.youtube.com/watch?v=MBWsg9MtQuM)
 - [Doves - Broken Eyes](https://www.youtube.com/watch?v=pISDosb4Aes)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -44,4 +43,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | VY 3248, 00602507316419 |
 
 Includes download code. Some copies signed by the band in gold marker.  Made in the Czech Republic.
-

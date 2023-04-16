@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Easy Listening"]
 ---
-
 ## Tracklisting
 1. Evergreen
 2. Don't Give Up On Us Baby
@@ -40,9 +39,7 @@ styles: ["Easy Listening"]
 {{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}
 - [Mr. Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -50,6 +47,5 @@ styles: ["Easy Listening"]
 | Label          | Warwick Records, Warwick Records |
 | Format         | LP, Album, Ltd, Gre |
 | Catalog Number | PW 5045, PW5045 |
-
 
 

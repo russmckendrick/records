@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Sleepflower
 2. From Despair To Where
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Nostalgic Pushead
 9. Symphony Of Tourette
 10. Gold Against The Soul
+## Spotify
+{{< spotify type="album" id="6x9KvCYdH5GEMC3C0OuVBq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock"]
 - [Symphony of Tourette (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=3Pgui4hr9SA)
 - [Gold Against The Soul - Trailer](https://www.youtube.com/watch?v=8qaD-U7fS24)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 19439733611 |
 
 2020 remastered reissue on 180gm vinyl.  Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.  Includes a [l=we are vinyl] download code for album plus b sides.  Made in the EU.
-

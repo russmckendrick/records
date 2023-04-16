@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Message (2:24)
 2. Stranger (3:28)
@@ -27,11 +26,11 @@ styles: ["Alternative Rock", "Synth-pop"]
 10. To Get There (4:28)
 11. Nowhere Slow (4:01)
 12. In The Face Of All Of This (3:36)
-
+## Spotify
+{{< spotify type="album" id="6yx6riHFtzis0LdLYcjAlZ" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -39,6 +38,5 @@ styles: ["Alternative Rock", "Synth-pop"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Whi |
 | Catalog Number | DEMREC956 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
-
 ## Tracklisting
 1. 4th Chamber
 2. Iron Man
@@ -28,6 +27,8 @@ styles: ["Funk", "Soul"]
 11. Wu-Tang Clan Aint Nuthing Ta F' Wit
 12. All I Need
 13. The End (Eat My Vocals)
+## Spotify
+{{< spotify type="album" id="70OhGmsHTYRhPNmDmMMcwT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber (Full Album Stream)" >}}
@@ -38,9 +39,7 @@ styles: ["Funk", "Soul"]
 - [El Michels Affair -  Return To The 37th Chamber -  07 Shadow Boxing](https://www.youtube.com/watch?v=lvktFx3k4Ts)
 - [El Michels Affair - Wu-Tang Clan Aint Nuthing Ta F Wit](https://www.youtube.com/watch?v=LNATIh11nPE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: ["Funk", "Soul"]
 | Catalog Number | BC017-LP B |
 
 2nd of 4 different covers of this release.  Included a digital download code of the album.
-

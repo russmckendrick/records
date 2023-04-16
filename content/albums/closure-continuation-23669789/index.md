@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Harridan (8:09)
 2. Of The New Day (4:43)
@@ -24,6 +23,8 @@ styles: ["Prog Rock"]
 7. Walk The Plank (4:26)
 8. Population Three (6:51)
 9. Chimera's Wreck (9:40)
+## Spotify
+{{< spotify type="album" id="7meXKEI99ccqzh9AtmeeAR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AW5v4Ohxk5k" title="Porcupine Tree - Harridan (Official Lyric Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Prog Rock"]
 - [Porcupine Tree - Never Have (Official Audio)](https://www.youtube.com/watch?v=LYaur8_mUg4)
 - [Porcupine Tree - Love in the Past Tense (Official Audio)](https://www.youtube.com/watch?v=My9hnoHEgaU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -49,4 +48,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 19439956921 |
 
 The three 180 gram clear 12-inch vinyl records are each housed in separate sleeves, with the whole package contained in a box. The hype sticker reads: "Porcupine Tree Closure / Continuation. Deluxe Edition 3LP Clear Vinyl. Cat #. 19439956921".  This nine song vinyl deluxe edition includes two extra tracks (D1 & E2), compared to the standard seven track CD and double vinyl editions of '[m=2683640]'.  An unknown but very small number of pre-orders from the official PT store came with an exclusive artprint signed by Steven Wilson, Richard Barbieri and Gavin Harrison.  ℗ & © 2022 Sony Music Entertainment UK Ltd under exclusive licence from Porcupine 3 Ltd. Distributed by Sony Music Entertainment. Closure / Continuation Produced & performed by Porcupine Tree. Made in EU. BIEM / GEMA (LC) 13989.  Runouts are etched
-

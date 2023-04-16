@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
-
 ## Tracklisting
 1. Man's Final Frontier (2:38)
 2. Mama's Always On Stage (3:25)
@@ -30,6 +29,8 @@ styles: ["Conscious"]
 13. Dawn Of The Dreads (5:17)
 14. Tennessee (4:32)
 15. Washed Away (6:22)
+## Spotify
+{{< spotify type="album" id="4QrhfVaznhrAPlM5xCKBPh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QlKWz_FcVoo" title="People Everyday - Arrested Development" >}}
@@ -49,9 +50,7 @@ styles: ["Conscious"]
 - [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)
 - [Washed Away](https://www.youtube.com/watch?v=lBzxAXAvbu8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -61,4 +60,3 @@ styles: ["Conscious"]
 | Catalog Number | MOVLP890 |
 
 180 gram audiophile vinyl Insert 
-

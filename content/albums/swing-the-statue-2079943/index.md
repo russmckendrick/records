@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Why Look At The Moon (2:30)
 2. Boogieman (3:50)
@@ -34,9 +33,7 @@ styles: ["Folk Rock", "Country Rock"]
 - [Victoria Williams - Boogieman](https://www.youtube.com/watch?v=BtW8SV-9JLs)
 - [Victoria Williams - Wobbling](https://www.youtube.com/watch?v=GL8x-eNgPA4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -46,4 +43,3 @@ styles: ["Folk Rock", "Country Rock"]
 | Catalog Number | Rough US 50 |
 
 Issued with illustrated inner sleeve that includes credits and release information.
-

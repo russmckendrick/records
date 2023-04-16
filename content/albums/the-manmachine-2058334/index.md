@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Robots (6:13)
 2. Spacelab (5:57)
@@ -21,6 +20,8 @@ styles: ["Electro", "Synth-pop"]
 4. The Model (3:41)
 5. Neon Lights (8:53)
 6. The Man•Machine (5:32)
+## Spotify
+{{< spotify type="album" id="3eyz60xEK5dGEeZF1JJSi9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="68d8GRgiec4" title="The Robots (2009 Remaster)" >}}
@@ -31,9 +32,7 @@ styles: ["Electro", "Synth-pop"]
 - [The Man Machine (2009 Remaster)](https://www.youtube.com/watch?v=zHIsGqJaXXw)
 - [Kraftwerk - The Man • Machine (1978)](https://www.youtube.com/watch?v=nuJharcdxsk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -43,4 +42,3 @@ styles: ["Electro", "Synth-pop"]
 | Catalog Number | 50999 9 66022 1 8, STUMM 306 |
 
 Comes with full-size (12") 16 page colour booklet. Picture inner sleeve. 
-

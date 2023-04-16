@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. Look Closer (Can't You See The Signs?)
 2. Hot Shot
@@ -26,6 +25,8 @@ styles: null
 9. Dear Mr. Teddy
 10. In The Night
 11. Blah Blah Blah Blah Blah Blah Blah 
+## Spotify
+{{< spotify type="album" id="5TJvbSps6D0gy3DHqeb8FP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fM7i9bbWrw4" title="Saun & Starr Look Closer (feat. The Dap-Kings)" >}}
@@ -41,9 +42,7 @@ styles: null
 - [Saun & Starr Sunshine (You're Blowin' My Cool)](https://www.youtube.com/watch?v=3q_UZaTg_G4)
 - [Saun & Starr Your Face Before My Eyes](https://www.youtube.com/watch?v=2WH9NQ_ctp0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: null
 | Catalog Number | DAP-035 |
 
 includes coupon with code for mp3 download
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. The Original Album (Released 06.26.90)
 2. Dirty Boots (5:29)
@@ -50,6 +49,8 @@ styles: ["Alternative Rock", "Experimental"]
 33. Can Song (3:17)
 34. Isaac (2:36)
 35. Goo Interview Flexi (6:03)
+## Spotify
+{{< spotify type="album" id="5iYYQwB0oH9FVyVlaOXZdr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7XdYnh729IQ" title="Sonic Youth - Dirty Boots (Official Music Video)" >}}
@@ -64,9 +65,7 @@ styles: ["Alternative Rock", "Experimental"]
 - [Sonic Youth - Scooter And Jinx](https://www.youtube.com/watch?v=W69cTdiDSwQ)
 - [Sonic Youth - Titanium Expose](https://www.youtube.com/watch?v=1lWwdpBeZd0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2005 |
@@ -76,4 +75,3 @@ styles: ["Alternative Rock", "Experimental"]
 | Catalog Number | GOO-07 |
 
 "That's All I Know (Right Now)" originally recorded by Neon Boys. "I Know There's an Answer" originally recorded by The Beach Boys. A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990. D2, H3 recorded at Wharton Tier's Studio, 1990. D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990. D4 recorded at Sorcerer Sound, NYC, 1990 D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989. E1 to H1 recorded at Waterworks, NYC, Nov 1989.  Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.  16-page printed color booklet, photographic inner sleeves.
-

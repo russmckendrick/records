@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Frontier Man 
 2. The Club 
@@ -25,15 +24,15 @@ styles: ["Alternative Rock"]
 8. Same Old Song 
 9. Architecture Of Amnesia  
 10. Selfies In The Sunset
+## Spotify
+{{< spotify type="album" id="5QOzSPc4y8ScDP4ZS7XyuD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart (Official Audio)" >}}
 - [Gruff Rhys - Frontier Man (Official Video)](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
 - [Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video](https://www.youtube.com/watch?v=UXbdEig4apo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | RT0010LP |
 
 Gatefold Jacket with Obi Strip Includes download card for 320k MP3s.
-

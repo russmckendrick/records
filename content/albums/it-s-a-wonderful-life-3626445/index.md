@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. It's A Wonderful Life
 2. Gold Day
@@ -27,15 +26,15 @@ styles: ["Lo-Fi", "Indie Rock"]
 10. Little Fat Baby
 11. Devil's New
 12. Comfort Me
+## Spotify
+{{< spotify type="album" id="6iP3HGmoRXFUrKiml2QVkz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AGZsQf6WjHI" title="Sparklehorse - It's a wonderful life" >}}
 - [Sparklehorse - Comfort Me (Official Video)](https://www.youtube.com/watch?v=7JviEK52rl8)
 - [Sparklehorse feat. Nina Persson - Gold Day (Official Video)](https://www.youtube.com/watch?v=OrFrcF6xd4I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -45,4 +44,3 @@ styles: ["Lo-Fi", "Indie Rock"]
 | Catalog Number | Plain176 |
 
 reissue comes with gatefold sleeve and download code. 
-

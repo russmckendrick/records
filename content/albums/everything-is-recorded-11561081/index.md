@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Trip Hop", "Beatdown"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Close But Not Quite
@@ -39,6 +38,8 @@ styles: ["Trip Hop", "Beatdown"]
 22. Purify (Interlude) (1:35)
 23. Be My Friend (4:20)
 24. Everything Is Recorded (5:08)
+## Spotify
+{{< spotify type="album" id="3WeILTWWyrY13Ye6vu1pG1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="V4xBBRuy87E" title="Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett" >}}
@@ -49,9 +50,7 @@ styles: ["Trip Hop", "Beatdown"]
 - [Everything Is Recorded - Bloodshot Red Eyes feat. Infinite & Green Gartside](https://www.youtube.com/watch?v=2PLLVNT9FjU)
 - [Everything Is Recorded - Mountains Of Gold (ft. Sampha, Ibeyi, Wiki & Kamasi Washington)](https://www.youtube.com/watch?v=PWCh1qlNth4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -61,4 +60,3 @@ styles: ["Trip Hop", "Beatdown"]
 | Catalog Number | XL883LPE |
 
 Limited edition yellow vinyl issue. Includes cd in a clear slip case, 2x A4 art prints and an A4 facsimile of an XL Recordings dj reaction report.
-

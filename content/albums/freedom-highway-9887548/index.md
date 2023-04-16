@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Blues", "Folk, World, & Country"]
 styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 ---
-
 ## Tracklisting
 1. At The Purchaser's Option (4:16)
 2. The Angels Laid Him Away (2:31)
@@ -27,6 +26,8 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 10. Baby Boy (4:29)
 11. Following The North Star (1:56)
 12. Freedom Highway (4:47)
+## Spotify
+{{< spotify type="album" id="1CVuPxNHwY5ORJ8MhjD0UB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6vy9xTS0QxM" title="Rhiannon Giddens - At The Purchaser's Option" >}}
@@ -42,9 +43,7 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 - [Rhiannon Giddens - Better Get It Right the First Time (Official Audio)](https://www.youtube.com/watch?v=0VftPiNjaas)
 - [Rhiannon Giddens - Freedom Highway (feat. Bhi Bhiman) (Official Audio)](https://www.youtube.com/watch?v=5eFtU57vme4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -54,4 +53,3 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 | Catalog Number | 558805-1 |
 
 ℗ & © 2017 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States. Slavery sale notice courtesy Hudson River Valley Heritage/Historic Huguenot Street.  Includes MP3 Download card. Copies purchased through Rhiannon Giddens' website came with a signed photo by Rhiannon Giddens, 9.5" x 10.5".
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
-
 ## Tracklisting
 1. Perfect Angel
 2. It's A Shame
@@ -32,9 +31,7 @@ styles: ["Soul", "Funk", "Disco"]
 - [DJ Spinna Presents the Wonder of Stevie Vol. 3 (Continuous DJ Mix)](https://www.youtube.com/watch?v=cjwgXDdbWxI)
 - [Jermaine Jackson - Let's Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2004 |
@@ -42,6 +39,5 @@ styles: ["Soul", "Funk", "Disco"]
 | Label          | Harmless |
 | Format         | 2xLP, Comp |
 | Catalog Number | HURTLP055 |
-
 
 

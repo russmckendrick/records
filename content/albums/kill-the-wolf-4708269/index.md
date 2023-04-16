@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry (3) - Kill The Wolf"
-artist: "Matt Berry (3)"
+title: "Matt Berry - Kill The Wolf"
+artist: "Matt Berry"
 album_name: "Kill The Wolf"
 date: 2016-03-07
 release_id: "4708269"
@@ -8,12 +8,11 @@ slug: "kill-the-wolf-4708269"
 hideSummary: true
 cover:
     image: "kill-the-wolf-4708269.jpg"
-    alt: "Kill The Wolf by Matt Berry (3)"
-    caption: "Kill The Wolf by Matt Berry (3)"
+    alt: "Kill The Wolf by Matt Berry"
+    caption: "Kill The Wolf by Matt Berry"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Gather Up
 2. Devil Inside Me
@@ -27,6 +26,8 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 10. Bonfire
 11. Village Dance
 12. Farewell Summer Sun
+## Spotify
+{{< spotify type="album" id="4aRNSWZdTwE1PnigN3r6Zs" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}
@@ -44,16 +45,13 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 - [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
-| Discogs Link   | [Matt Berry (3) - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-Kill-The-Wolf) |
+| Discogs Link   | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-Kill-The-Wolf) |
 | Label          | Acid Jazz |
 | Format         | LP, Album |
 | Catalog Number | AJXLP334 |
-
 
 

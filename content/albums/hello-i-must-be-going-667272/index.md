@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. I Don't Care Anymore (5:00)
 2. I Cannot Believe It's True (5:14)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Don't Let Him Steal Your Heart Away (4:33)
 9. The West Side (4:59)
 10. Why Can't It Wait 'til Morning (3:01)
+## Spotify
+{{< spotify type="album" id="6sn6eWmPciSiHj0ltTBl7M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PtW6JFluNwY" title="Phil Collins      Hello, I Must Be Going" >}}
@@ -35,9 +36,7 @@ styles: ["Pop Rock"]
 - [Phil Collins - Don't Let Him Steal Your Heart Away (Official Music Video)](https://www.youtube.com/watch?v=b2W-lxDq4-Y)
 - [Phil Collins ♫ I Cannot Believe It's True Ⓞ Hello, I Must Be Going!【1982】](https://www.youtube.com/watch?v=KCL9x14jfJk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -47,4 +46,3 @@ styles: ["Pop Rock"]
 | Catalog Number | V2252, V 2252 |
 
 Released in a gatefold sleeve, with printed inner sleeve showing credits. ℗ & © 1982 Virgin Records Ltd  Recorded at Old Croft on 1" 8 track, overdubbed at 'The Farm' and 'Townhouse' May - June 82 Strings recorded at CBS  All titles published Phil Collins Ltd / Hit & Run Music (Publishing) Ltd., except A5 1965 Jobete Music Ltd. (U.K.)  Die-cut on Insert is small and round, opposite to straight and longer one on 2nd UK pressing.
-

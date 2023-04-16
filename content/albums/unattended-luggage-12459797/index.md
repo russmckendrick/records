@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Fictitious Sports
 2. Can't Get My Motor To Start (3:39)
@@ -69,9 +68,7 @@ styles: null
 - [Dry Junk](https://www.youtube.com/watch?v=eIMH9NXzOZc)
 - [Discovery and Recoil](https://www.youtube.com/watch?v=HxkMInxogP0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -81,4 +78,3 @@ styles: null
 | Catalog Number | 0190295660222 |
 
 New Compilation Remastered on 180g Heavyweight Vinyl, Fictitious Sports (1981), Profiles (1985), White of the Eye (1987). Made in EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
-
 ## Tracklisting
 1. West Side 1
 2. Six Bad Brothers (5:04)
@@ -28,6 +27,8 @@ styles: ["Gangsta"]
 11. Psyko Funk (4:12)
 12. Riot Pump (5:12)
 13. Pickin' Up Metal (4:58)
+## Spotify
+{{< spotify type="album" id="0wwXoYRG1vO7IsZO9qlHkD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9AATTZxO2PQ" title="Six Bad Brothas" >}}
@@ -44,9 +45,7 @@ styles: ["Gangsta"]
 - [Boo-Yaa T.R.I.B.E. - Psyko Funk](https://www.youtube.com/watch?v=gqTvJ-kO1z8)
 - [Boo-Yaa TRIBE - R.A.I.D.](https://www.youtube.com/watch?v=EsPV6Qomxzo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -56,4 +55,3 @@ styles: ["Gangsta"]
 | Catalog Number | BRLP 544, 842 396-1 |
 
 WS2, WS3, WS5, ES4 produced for Dust Bros. Music. WS4, ES1, ES5 produced for Chicken Feed Productions.  Fish appears courtesy of CBS Records.  Recorded at Image Recording, Hollywood. Mixed at Image Recording & The Record Plant, Hollywood. ES2 recorded at Paramount Studios, Hollywood. WS6, ES2 mixed at Studio 4, Philadelphia. Mastered at Masterdisk, NYC, NY.  Publishing: Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.  Back cover: ℗ 1990 owned by Island Records Inc except ES2 ℗ 1989. Island Records Ltd are the exclusive licensees in the UK. © 1990 Island Records Inc.  WS label: ℗ 1990 owned by Island Records Inc. Island Records Ltd are the exclusive licensees for the U.K.  ES label: ℗ 1990 except ES1. 1989 owned by Island Records, Inc. Island Records Ltd are the exclusive licensees for the United Kingdom. Made in Gt Britain.
-

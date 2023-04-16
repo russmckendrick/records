@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. The Ring In Return (2:07)
 2. In Keeping Secrets Of Silent Earth: 3 (8:12)
@@ -27,14 +26,14 @@ styles: ["Prog Rock", "Art Rock"]
 10. A Favor House Atlantic (3:54)
 11. The Light & The Glass (9:39)
 12. 2113 (9:46)
+## Spotify
+{{< spotify type="album" id="2oWXmi9uLRKn60yRmY22MB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}
 - [Coheed and Cambria - A Favor House Atlantic (Official Video)](https://www.youtube.com/watch?v=pRWjLLpwnOM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -44,4 +43,3 @@ styles: ["Prog Rock", "Art Rock"]
 | Catalog Number | 88843099221, none |
 
 Black EU pressing  Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"
-

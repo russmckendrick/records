@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Section 1 (Have A Day/Celebratory)
 2. Section 2 (It's The Sun)
@@ -25,15 +24,15 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 8. Section 8 (Soldier Girl)
 9. Section 9 (Light & Day / Reach For The Sun)
 10. Section 10 (A Long Day)
+## Spotify
+{{< spotify type="album" id="1fEqefj12ceIrhJ7DlmjQN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4uzddaCSwpE" title="THE POLYPHONIC SPREE soldier girl" >}}
 - [the polyphonic spree - it's the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
 - [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2002 |
@@ -43,4 +42,3 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 | Catalog Number | 679L011TLP |
 
 Additional voices on this recording include the members of the band as well as friends. Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000). Gatefold sleeve with printed inner sleeves.
-

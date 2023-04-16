@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. In The Street (Single Mix) (2:59)
 2. Don't Lie To Me (Single Version) (2:49)
@@ -31,11 +30,11 @@ styles: ["Power Pop", "Pop Rock"]
 14. Nightime (2:53)
 15. Back Of A Car (2:46)
 16. Thank You Friends (3:07)
-
+## Spotify
+{{< spotify type="album" id="3SGdIwwZKLmqJQotKyooPW" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Power Pop", "Pop Rock"]
 | Catalog Number | 0888072022133 |
 
 Jacket incorrectly lists as Andy Hummel as the writer of "O, My Soul", which was in fact written by Alex Chilton.
-

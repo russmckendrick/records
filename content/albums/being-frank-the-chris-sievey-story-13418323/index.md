@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Punk", "Comedy"]
 ---
-
 ## Tracklisting
 1. Cello Man (3:02)
 2. Gogglebubbleland (2:22)
@@ -40,9 +39,7 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 ## Videos
 {{< youtube id="_wHcHaPkYnw" title="BEING FRANK: THE CHRIS SIEVEY STORY - OFFICIAL UK TRAILER [HD] - IN CINEMAS & ON DIGITAL MARCH 29" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +49,3 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 | Catalog Number | 7A020 |
 
 This is a limited edition of only 500 copies.
-

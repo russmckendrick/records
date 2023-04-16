@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Up The Bracket (2:40)
 2. Time For Heroes (2:39)
@@ -28,13 +27,13 @@ styles: ["Indie Rock"]
 11. Death On The Stairs (3:44)
 12. I Get Along (2:51)
 13. What Became Of The Likely Lads (3:21)
+## Spotify
+{{< spotify type="album" id="4gq5rvmYsXX99ZBzlGcnnq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CqM11bt9QvI" title="The Libertines - Can't Stand Me Now (Official Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -42,6 +41,5 @@ styles: ["Indie Rock"]
 | Label          | Rough Trade |
 | Format         | LP, Comp, Ltd, Red |
 | Catalog Number | RTRADLP421 |
-
 
 

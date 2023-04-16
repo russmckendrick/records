@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Magical
 2. Naughty Naughty
@@ -25,6 +24,8 @@ styles: ["Hard Rock", "Pop Rock"]
 8. Heartbreaker
 9. Somebody Stole My Thunder
 10. Don't Leave Your Mark On Me
+## Spotify
+{{< spotify type="album" id="1bUjfNXBRrs8xXeetRbBwg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="syhrz_AMLQU" title="John Parr - Naughty Naughty (Official Music Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Hard Rock", "Pop Rock"]
 - [John Parr - Don't leave your mark on me [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=rqJDv_8gqHE)
 - [John Parr - St. Elmo's fire (Man in motion) [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Mwu-aSW8NLQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -55,4 +54,3 @@ styles: ["Hard Rock", "Pop Rock"]
 | Catalog Number | LONLP 12, 824 491-1 |
 
 (p) 1984 Phonogram International B.V., Baarn/The Netherlands. (c) 1984 Atlantic Recording Corporation U.S.A. B1 (p) 1985 Columbia Pictues Industries Inc.  Similar release exists with a different barcode - see [r8535738]. 
-

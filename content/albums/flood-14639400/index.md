@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Theme From Flood
 2. Birdhouse In Your Soul
@@ -34,6 +33,8 @@ styles: ["Alternative Rock"]
 17. Sapphire Bullets Of Pure Love
 18. They Might Be Giants
 19. Road Movie To Berlin
+## Spotify
+{{< spotify type="album" id="7FwAtuhhWivxvK4aPgyyUD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}
@@ -57,9 +58,7 @@ styles: ["Alternative Rock"]
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -69,4 +68,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | IDLE154 |
 
 Picture disc contains 5 zoetrope animations on side B.
-

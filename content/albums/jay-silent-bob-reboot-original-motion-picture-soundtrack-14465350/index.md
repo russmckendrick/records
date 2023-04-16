@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Non-Music", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Pop Rap"]
 ---
-
 ## Tracklisting
 1. "Reboot?" (0:02)
 2. Goodbye Horses (6:26)
@@ -41,6 +40,8 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 24. Drinkin' Blunts (2:30)
 25. "Hung Out …" (0:19)
 26. Stay With Me (4:29)
+## Spotify
+{{< spotify type="album" id="5i9znXMK0Ni5hrHCdSDZY9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="C_qWlPCEnGM" title="PM Dawn - I'd Die Without You" >}}
@@ -51,9 +52,7 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 - [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
 - [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -63,4 +62,3 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 | Catalog Number | EOM-LP-46214 |
 
 The track duration is not mentioned in the output. Made in U.S.A. including: a movie poster with credits  Hype Sticker:  "RECORD STORE DAY 1ST TIME ON VINYL! 180G WEED GREEN  COLORED EDITION INCLUDES CHRONICON DOWNLOAD CARD"
-

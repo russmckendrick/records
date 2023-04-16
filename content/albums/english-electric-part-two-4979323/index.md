@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Make Some Noise
 2. Worked Out
@@ -31,9 +30,7 @@ styles: ["Prog Rock"]
 {{< youtube id="X4A4rFLUS84" title="Big Big Train - Leopards" >}}
 - [Big Big Train - The Permanent Way](https://www.youtube.com/watch?v=2gbwMI8RW6Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -43,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PLG017 |
 
 Website: www.bigbigtrain.com  Join our forum at: www.facebook.com/groups/bigbigtrain  Double heavyweight vinyl in a gatefold cover, limited to 500 numbered copies. Running order different from CD release, also includes 4 songs from the "Make Some Noise" EP.
-

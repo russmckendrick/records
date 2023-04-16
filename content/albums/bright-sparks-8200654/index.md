@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Experimental"]
 ---
-
 ## Tracklisting
 1. The Fantastic Tale Of Dr. Moog And The Birth Of The Shimmering Beast (5:19)
 2. The Uncertain Contents Of The Buchla Box (6:01)
@@ -23,13 +22,13 @@ styles: ["Experimental"]
 6. London, 1969 - The Wizards Of Putney Deny Accusations Of Unholy Enchantment At The Electronic Music Studios (EMS) (5:13)
 7. Electronic Dream Plant (EDP) - The Dirt In The Ointment (3:50)
 8. The Further Adventures Of K. Freeman And His Incredible Machine Of A Thousand Strings (5:08)
+## Spotify
+{{< spotify type="album" id="4Qc61U4kVXOUIjylYIGwRg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ARVEE_aIgBQ" title="I Monster - The Fantastic Tale of Dr. Moog and the Birth of the Shimmering Beast" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -37,6 +36,5 @@ styles: ["Experimental"]
 | Label          | Twins Of Evil |
 | Format         | LP, Album, Gat |
 | Catalog Number | BIGTOELP2 |
-
 
 

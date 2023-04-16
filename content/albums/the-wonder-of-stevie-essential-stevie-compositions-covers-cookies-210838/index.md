@@ -13,7 +13,6 @@ cover:
 genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
-
 ## Tracklisting
 1. Pastime Paradise (8:31)
 2. Love Having You Around (6:52)
@@ -39,9 +38,7 @@ styles: ["Soul", "Funk", "Disco"]
 - [First Choice - Love Having You Around](https://www.youtube.com/watch?v=so9_Vb5yY4k)
 - [Ramsey Lewis - Spring High](https://www.youtube.com/watch?v=6rAFUTaCa3k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2003 |
@@ -49,6 +46,5 @@ styles: ["Soul", "Funk", "Disco"]
 | Label          | Harmless |
 | Format         | 2x12\", Comp |
 | Catalog Number | HURTLP051 |
-
 
 

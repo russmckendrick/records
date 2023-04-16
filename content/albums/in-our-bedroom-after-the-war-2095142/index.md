@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Beginning After The End
 2. The Night Starts Here
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Life 2: The Unhappy Ending
 12. Today Will Be Better, I Swear!
 13. In Our Bedroom After The War
+## Spotify
+{{< spotify type="album" id="4I9BDOOxpLw2ClFDRhTJaN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="T5BX4e5Srw0" title="Stars - Are We Here Now DVD Trailer" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Rock"]
 - [Stars - Take Me To The Riot](https://www.youtube.com/watch?v=QzSUIxYQI2E)
 - [In Our Bedroom After The War](https://www.youtube.com/watch?v=c5qx_ZMY7tU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -48,4 +47,3 @@ styles: ["Indie Rock"]
 | Catalog Number | SLANG1048681 |
 
 Recorded for FLAM at Warehouse Studios, Vancouver. Mixed at Phase One, Toronto. Mastered at The Lodge. Additional recording engineering at Breakglass, Studio Plateau and 939 Studios, Montréal. Additional engineering on "The Night Starts Here" at Phase One, Toronto.  Gatefold with printed inner sleeves. Whale sample on "Today Will Be Better, I Swear!" from Chester E Beecham's 1973 Arctic field recordings.   Direct Metal Mastering.
-

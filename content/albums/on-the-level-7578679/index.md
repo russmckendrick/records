@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Little Lady (3:05)
 2. Most Of The Time (3:21)
@@ -49,9 +48,7 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 - [Status Quo – Bye Bye Johnny](https://www.youtube.com/watch?v=10GD7OFcCQk)
 - [Status Quo 🇬🇧 - Down Down - Vinyl On The Level LP 🇫🇷 1974](https://www.youtube.com/watch?v=sppuP8Qoxxc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -61,4 +58,3 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 | Catalog Number | 4723765 |
 
 Gatefold sleeve
-

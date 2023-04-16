@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Karmadrome (3:52)
 2. Eat Me Drink Me Love Me Kill Me (3:13)
@@ -25,9 +24,7 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Pop Will Eat Itself- Karmadrome](https://www.youtube.com/watch?v=8t2Qf8ZAG2M)
 - [pop will eat itself ~ eat me drink me love me kill me](https://www.youtube.com/watch?v=QVhbm6RPcLM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -37,4 +34,3 @@ styles: ["Synth-pop", "Indie Rock"]
 | Catalog Number | PB45467 |
 
 The labels state 33⅓, but the record plays at 45 RPM.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Something To Miss (3:53)
 2. 16.18.21 (3:05)
@@ -23,9 +22,7 @@ styles: ["Indie Rock"]
 ## Videos
 {{< youtube id="NzWfqBz8ksY" title="Senseless Things - Something To Miss" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1995 |
@@ -33,6 +30,5 @@ styles: ["Indie Rock"]
 | Label          | Epic |
 | Format         | 12\", Single |
 | Catalog Number | 661116 6 |
-
 
 

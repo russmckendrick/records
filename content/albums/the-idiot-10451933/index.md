@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Sister Midnight (4:23)
 2. Nightclubbing (4:18)
@@ -23,6 +22,8 @@ styles: null
 6. Dum Dum Boys (7:12)
 7. Tiny Girls (3:03)
 8. Mass Production (8:28)
+## Spotify
+{{< spotify type="album" id="78UazygH85UAB0qXqQpzg6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LAiQZGDmVXg" title="Sister Midnight" >}}
@@ -34,9 +35,7 @@ styles: null
 - [Tiny Girls](https://www.youtube.com/watch?v=80BN9xWkRsQ)
 - [Mass Production](https://www.youtube.com/watch?v=CmmlxVlUz7Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +45,3 @@ styles: null
 | Catalog Number | 00600753772461 |
 
 Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Made in the E.U.
-

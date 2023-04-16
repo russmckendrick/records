@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Rock And Roll, Hoochie Koo
 2. Slow Ride
@@ -46,9 +45,7 @@ styles: ["Classic Rock"]
 - [Rock N' Roll All Night ( Good Quality ) - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
 - [Paranoid (2012 - Remaster)](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -58,4 +55,3 @@ styles: ["Classic Rock"]
 | Catalog Number | RCV1 24533, 603497843886 |
 
 Made in Czech Republic.
-

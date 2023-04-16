@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
 styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Bang Bang (My Baby Shot Me Down)
 2. That Certain Female
@@ -56,9 +55,7 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 - [Kill Bill Vol. 1 [OST] #21 - Sword Swings](https://www.youtube.com/watch?v=n_N3rfaUyh8)
 - [Kill Bill Vol. 1 [OST] #22 - Axe Throws](https://www.youtube.com/watch?v=J9hVWeiwsfA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -68,4 +65,3 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 | Catalog Number | 9362-48570-1 |
 
 Reissue/Repress of the 2003 original release [r441066].  If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge.  This 2015 release does not.  Apart from this, it looks identical.  Includes a two-sided sheet with lyrics and infos. 
-

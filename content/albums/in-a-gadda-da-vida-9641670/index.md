@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Most Anything You Want (3:41)
 2. Flowers And Beads (3:05)
@@ -21,6 +20,8 @@ styles: ["Psychedelic Rock"]
 4. Termination (2:50)
 5. Are You Happy (4:28)
 6. In-A-Gadda-Da-Vida (17:05)
+## Spotify
+{{< spotify type="album" id="4L1Qw49gKwFuQwQovBxsKI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5QZdITJX6I0" title="Most Anything You Want" >}}
@@ -34,9 +35,7 @@ styles: ["Psychedelic Rock"]
 - [Are You Happy](https://www.youtube.com/watch?v=XcSZTBuQyK4)
 - [In-A-Gadda-Da-Vida (2006 Remaster Full-Length)](https://www.youtube.com/watch?v=Tfpn3wHoNGA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +45,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | 081227941918, R1 33250 |
 
 Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"  Ref. on the spine :  081227941918  Made in E.U. : on rear cover  (P) & (C) 2017, 1968 Atlantic Recording Corporation
-

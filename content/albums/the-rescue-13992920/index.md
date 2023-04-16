@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Day One
 2. Day Two
@@ -23,13 +22,13 @@ styles: ["Post Rock"]
 6. Day Six
 7. Day Seven
 8. Day Eight
+## Spotify
+{{< spotify type="album" id="39qSQJf7igdiZNYJ9assNL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1mqBMmhgsjM" title="Explosions in the Sky - The Rescue (Full Album) [HD]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -39,4 +38,3 @@ styles: ["Post Rock"]
 | Catalog Number | TRR326 |
 
 Limited Edition Colored Vinyl: Opaque Dusty Orange (Edition of 4.000) Vinyl format Includes MP3 Download Coupon inside package.
-

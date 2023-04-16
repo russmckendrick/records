@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Don't Poke The Bear (6:49)
 2. Grey House (4:43)
@@ -26,14 +25,14 @@ styles: ["Indie Rock", "Prog Rock"]
 9. Can't Get Fairer Than That (3:13)
 10. Feel Like I Wanna Stay (2:45)
 11. The Inner Wheel (5:24)
+## Spotify
+{{< spotify type="album" id="40a9WFqmbXlIzwZNL7RRJW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="22WfZ8vM-r0" title="Paul Draper - Don't Poke The Bear" >}}
 - [Paul Draper - Jealousy Is A Powerful Emotion](https://www.youtube.com/watch?v=fGbqK0wPVwk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock", "Prog Rock"]
 | Catalog Number | KSCOPE913C |
 
 Limited edition clear vinyl release of 'Spooky Action'
-

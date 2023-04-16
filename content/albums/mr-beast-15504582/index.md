@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Auto Rock
 2. Glasgow Mega-Snake
@@ -25,15 +24,15 @@ styles: ["Art Rock", "Post Rock"]
 8. Folk Death 95
 9. I Chose Horses
 10. We're No Here
+## Spotify
+{{< spotify type="album" id="12lwDzvs23w1e8EKa5zQoC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5uyznyJQFI0" title="Mogwai Auto Rock @ Les Nuits De Fourvière 2014" >}}
 - [Mogwai - Travel Is Dangerous (Official Video - 2006)](https://www.youtube.com/watch?v=BqXv_7j3Ryc)
 - [Mogwai - Friend of the Night](https://www.youtube.com/watch?v=yC_3alnTE9g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -43,4 +42,3 @@ styles: ["Art Rock", "Post Rock"]
 | Catalog Number | PIASX062DLP |
 
 Special release for Love Record Store Day 2020. Limited to 700 copies.
-

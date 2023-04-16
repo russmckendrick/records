@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. I'm Sorry
 2. Don't Go
@@ -26,6 +25,8 @@ styles: ["Blues Rock"]
 9. Love Don't Work This Way
 10. Ballad Of Katie
 11. Feet On The Ground
+## Spotify
+{{< spotify type="album" id="3CmvEkZvuwobL2plDscowF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ym1bePL88ro" title="Hothouse Flowers ‎– Don't Go" >}}
@@ -34,9 +35,7 @@ styles: ["Blues Rock"]
 - [Hothouse Flowers The Older We Get](https://www.youtube.com/watch?v=h3oWuIEAGaQ)
 - [Hothouse Flowers - Don't Go (Official Video)](https://www.youtube.com/watch?v=HDEY1UeIsr4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -46,4 +45,3 @@ styles: ["Blues Rock"]
 | Catalog Number | LON LP 58, LONLP 58, 8281011, 828 101-1 |
 
 Dedicated to Eamon and Terri with love. Issued with a custom inner sleeve containing lyrics, credits and images.
-

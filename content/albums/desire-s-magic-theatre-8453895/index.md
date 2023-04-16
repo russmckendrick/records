@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Desire's Magic Theatre
 2. Electric Landlady
@@ -25,14 +24,14 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 8. Mr. Howard
 9. I Know
 10. The Bitter Suite
+## Spotify
+{{< spotify type="album" id="2fZ5Aphgy3IhGGsT66ZEYu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QygP9o9aO4s" title="Desire's Magic Theatre" >}}
 - [Purson - Desire’s Magic Theatre Full album](https://www.youtube.com/watch?v=JK6R94X01dI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -42,4 +41,3 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Catalog Number | 0602547711557 |
 
 Album has a sticker on shrinkwrap. Gatefold cover.
-

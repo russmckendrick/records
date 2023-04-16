@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. Boom Boom (2:31)
 2. Crawlin' King Snake (2:39)
@@ -35,9 +34,7 @@ styles: null
 ## Videos
 {{< youtube id="W-DEJF5iZmU" title="GIANT SIZED John Lee Hooker Vinyl Matchup" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +44,3 @@ styles: null
 | Catalog Number | CATLP126 |
 
 This Compilation ℗ & © 2016 Not Now Music Limited. Distributed By Not Now Music Limited. Made In The E.U. (on back cover).  Glossy jacket with white paper inner sleeve. Artwork similar to [r6536180] but with five different tracks.
-

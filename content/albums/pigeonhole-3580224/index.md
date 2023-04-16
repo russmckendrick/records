@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Dub", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Get Better
 2. Fishes Eyes
@@ -24,6 +23,8 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 7. Amplifier
 8. Reprise
 9. Partial
+## Spotify
+{{< spotify type="album" id="0MwGMuxZvOVTHFEMUoEexu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mjhFtxhdN00" title="Get Better" >}}
@@ -47,9 +48,7 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 - [New Fast Automatic Daffodils   I found Myself In another Room .video](https://www.youtube.com/watch?v=s2QHsYY6t2M)
 - [New Fast Automatic Daffodils - Big (1990)](https://www.youtube.com/watch?v=fQUhCHJk6Nk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -59,4 +58,3 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 | Catalog Number | BIAS 185 |
 
 Regular release without 7" bonus single  Released in conjunction with Playtime Recorded at Studio House August / September 1990  Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".  A1 to A3, B2 to B5 published by Copyright Control A4 published by Playtime Songs/Sands Enterprises Ltd. B1 published by Playtime Songs/Copyright Control 
-

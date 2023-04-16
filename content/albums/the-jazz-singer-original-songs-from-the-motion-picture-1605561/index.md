@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ---
-
 ## Tracklisting
 1. America
 2. Adon Olom
@@ -29,6 +28,8 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 12. Jerusalem
 13. Kol Nidre
 14. America (Reprise)
+## Spotify
+{{< spotify type="album" id="3NDwrDoBKwmBQYz4emr9P7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SvseQ90FMHk" title="America (From The Jazz Singer Soundtrack)" >}}
@@ -46,9 +47,7 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 - [Kol Nidre (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=H4QAReDEgVw)
 - [America (Reprise / From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=4ZoU4FtiyTs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -58,4 +57,3 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 | Catalog Number | EA-ST 12120, EAST 12120, 0C 062-86 266  |
 
 The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the label.  Gloss sleeve embossed
-

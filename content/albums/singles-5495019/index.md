@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Seasons (Waiting On You) (3:46)
 2. Spirit (4:21)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. Like The Moon (4:40)
 9. Fall From Grace (4:15)
 10. A Dream Of You & Me (3:59)
+## Spotify
+{{< spotify type="album" id="26bhmgVpg5E5HyU4K1BYMc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons (Waiting On You) (Official Video)" >}}
@@ -34,9 +35,7 @@ styles: ["Synth-pop"]
 - [Doves](https://www.youtube.com/watch?v=In4JkFZy7jI)
 - [Future Islands - Spirit](https://www.youtube.com/watch?v=PeuCCJ9qQ-k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -46,4 +45,3 @@ styles: ["Synth-pop"]
 | Catalog Number | CAD 3402 |
 
 Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.  ℗ & © 2014 4AD All songs © 2014 Ideas for Housecrafts (ASCAP).  Recorded August 2013 at Dreamland Recording Studios in Hurley, NY. Additional tracking and mixing at DNA Studios in New York, NY.  Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.  Runouts are etched except "STERLING" which is stamped.
-

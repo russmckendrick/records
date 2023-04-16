@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Let The Circus Burn
 2. Mindless Ones '68
@@ -27,6 +26,8 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 10. The Duke (Full On Drums 'n Wah)
 11. Last Patrol (Live)
 12. Three Kingfishers (Live)
+## Spotify
+{{< spotify type="album" id="7MmecIjzXOyvZ2ISSlcggj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2RCwgz4FiSA" title="MONSTER MAGNET - The Duke (Official Video) | Napalm Records" >}}
@@ -44,9 +45,7 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 - [Stay Tuned (Even Sadder)](https://www.youtube.com/watch?v=3yvfjPGVOIo)
 - [Hallelujah (Fuzz And Swamp)](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -56,4 +55,3 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 | Catalog Number | NPR 563 LP |
 
 Limited Edition. Gatefold 2-LP on black 180 g vinyl. It's not a new  album, it's a re-imagining of [Last Patrol](http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229), with two new songs, six overworked songs and two live songs.  New vocal, guitar, bass and keyboard tracks recorded March 2014. Mixed at JHOC Studios  © + ℗ 2014 Napalm Records Handels GmbH Made in Germany 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Abstract", "Leftfield", "Experimental"]
 ---
-
 ## Tracklisting
 1. The Lemon Of Pink (4:40)
 2. The Lemon Of Pink II (1:35)
@@ -28,6 +27,8 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 11. A True Story Of A Story Of True Love (4:25)
 12. That Right Ain't Shit (2:48)
 13. P.S. (0:56)
+## Spotify
+{{< spotify type="album" id="6zwjQ6buUEcF3E9IGTJXtP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IiXpi5u5Vu8" title="The Books - The Lemon of Pink (full album)" >}}
@@ -37,9 +38,7 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 - [The Books - A True Story of a Story of True Love - The Lemon of Pink](https://www.youtube.com/watch?v=Ku-g3LiBxmg)
 - [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 | Catalog Number | TRR181-VMP |
 
 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016:  Lemon-colored vinyl with hot pink splatter. Full-color gatefold, die-cut jacket featuring all new album art with metallic inks and foil stamping. 16-page full-color, full-sized booklet featuring all new artwork, extensive liner notes written by nick zammuto, including track-by-track commentary. Full album digital download card.
-

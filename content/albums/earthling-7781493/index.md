@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Drum n Bass", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Little Wonder
 2. Looking For Satellites
@@ -24,11 +23,11 @@ styles: ["Drum n Bass", "Pop Rock"]
 7. The Last Thing You Should Do
 8. I'm Afraid Of Americans
 9. Law (Earthlings On Fire)
-
+## Spotify
+{{< spotify type="album" id="4yRoLvuzNxFDdodNNrZAEM" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -38,4 +37,3 @@ styles: ["Drum n Bass", "Pop Rock"]
 | Catalog Number | FRM-42627 |
 
 Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.  Recorded at Looking Glass Studios Mixed at Right Track Originally mastered at Gateway Mastering Studios Inc. Portland, Maine (Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA  © 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment ℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment  Title is written as "EART HL I NG" on the cover.  Premium Vinyl Pressing HQ-180 RTI   ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine 
-

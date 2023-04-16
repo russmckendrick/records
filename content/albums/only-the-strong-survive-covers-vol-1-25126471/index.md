@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Only The Strong Survive
 2. Soul Days
@@ -48,9 +47,7 @@ styles: null
 - [Bruce Springsteen - Don't Play That Song (Official Video)](https://www.youtube.com/watch?v=6bM3L296ZNw)
 - [Bruce Springsteen - Nightshift (Official Video)](https://www.youtube.com/watch?v=GsTKEQzLkmw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -60,4 +57,3 @@ styles: null
 | Catalog Number | 19658753701 |
 
 Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.  © & ℗ 2022 Columbia Records Made in the EU  Comes with a sticker on the front cover: "INDIE RETAIL EXCLUSIVE THE NEW ALBUM FROM BRUCE SPRINGSTEEN LIMITED EDITION ORBIT ORANGE VINYL"
-

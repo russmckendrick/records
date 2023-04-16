@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Unself
 2. Self
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Follower
 9. Count Of Unease
 10. Hey Sleeper (3:14)
+## Spotify
+{{< spotify type="album" id="0tHQTsZepeMpMqgtBdaFRx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock"]
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | CAROL021LPTUK |
 
 This UK Tour Edition could be pre-ordered through Universal UK.  This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]   The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"  The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release.
-

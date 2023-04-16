@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Heard About You Last Night (5:22)
 2. Simon Ferocious (4:47)
@@ -48,6 +47,8 @@ styles: ["Post Rock"]
 31. Blues Hour (6:18)
 32. No Medicine For Regret (5:41)
 33. The Lord Is Out Of Control (4:23)
+## Spotify
+{{< spotify type="album" id="27SFWD5ME13mJJWjgP71e4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sZ5nEuG-CRc" title="Mogwai - 'Remurdered'" >}}
@@ -57,9 +58,7 @@ styles: ["Post Rock"]
 - [Mogwai - Die 1 Dislike! (Rave Tapes Bonus Track)](https://www.youtube.com/watch?v=E9rAbjCT8l0)
 - [Mogwai - Bad Magician 3 (Rave Tapes Bonus Track)](https://www.youtube.com/watch?v=1tbKO43N46o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -69,4 +68,3 @@ styles: ["Post Rock"]
 | Catalog Number | ROCKACT80 |
 
 All photographs taken during the 'Rave Tapes' sessions in Glasgow August - October 2013  The credits for Reverend Lee Cohen only appears on the inner sleeves of the CD and vinyl and while it does not appear on the cassette, it is still pertinent across the whole release.  The box set contains: - Heavy pressed die cut LP - Exclusive heavy pressed 12" coloured vinyl (pink) - Single sided heavy pressed etched 7" - CD version of album - limited cassette version of album - 40 page 300mm x 300mm hardback photograph book - 3 x exclusive high quality 12"x12" art prints featuring artwork of album cover, 12" & 7" printed on XXXgsm art card - Printed download card for [high quality download](http://www.discogs.com/Mogwai-Rave-Tapes/release/5315891) of all tracks contained in box  Limited edition of 4000
-

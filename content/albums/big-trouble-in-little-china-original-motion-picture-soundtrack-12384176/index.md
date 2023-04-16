@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ---
-
 ## Tracklisting
 1. Prologue (2:15)
 2. Pork Chop Express (Main Title) (4:01)
@@ -48,16 +47,13 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 - [Big Trouble In Little China Soundtrack - The Final Escape](https://www.youtube.com/watch?v=2-_ERyOeDSw)
 - [John Carpenter's Coup de Villes Music Video](https://www.youtube.com/watch?v=D03E9kUTTtQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [John Carpenter In Association With Alan Howarth - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |
-| Label          | Mondo (3) |
+| Label          | Mondo |
 | Format         | 2xLP, Album, RE, RM, Red |
 | Catalog Number | MOND-124 |
-
 
 

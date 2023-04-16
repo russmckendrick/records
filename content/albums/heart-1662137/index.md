@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Tell It Like It Is
 2. Barracuda
@@ -25,6 +24,8 @@ styles: null
 8. I'm Down/Long Tall Sally
 9. Unchained Melody
 10. Rock And Roll
+## Spotify
+{{< spotify type="album" id="6TLTd0P2CUI0Q29AQ1LyFi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="p6v6wWmEYvY" title="Barracuda" >}}
@@ -33,9 +34,7 @@ styles: null
 - [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
 - [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -45,4 +44,3 @@ styles: null
 | Catalog Number | EPC 84829 |
 
 All Live Recordings
-

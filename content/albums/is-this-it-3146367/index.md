@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Is This It (2:35)
 2. The Modern Age (3:32)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. New York City Cops (3:36)
 10. Trying Your Luck (3:27)
 11. Take It Or Leave It (3:16)
+## Spotify
+{{< spotify type="album" id="2k8KgmDp9oHrmu0MIj4XDE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TOypSnKFHrE" title="The Strokes - Last Nite (Official Music Video)" >}}
@@ -34,9 +35,7 @@ styles: ["Indie Rock"]
 - [The Strokes - Hard To Explain (Official Music Video)](https://www.youtube.com/watch?v=BXkm6h6uq0k)
 - [The Strokes - The Modern Age (Official Music Video)](https://www.youtube.com/watch?v=RzO7IGWGxu8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | RTRADELP030 |
 
 Mastered at Sterling Sound.
-

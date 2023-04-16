@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Good Times Bad Times (2:46)
 2. Communication Breakdown (2:28)
@@ -39,11 +38,11 @@ styles: ["Hard Rock", "Classic Rock"]
 22. Achilles Last Stand (10:22)
 23. In The Evening (6:49)
 24. All Of My Love (5:53)
-
+## Spotify
+{{< spotify type="album" id="4wExFfncaUIqSgoxnqa3Eh" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Hard Rock", "Classic Rock"]
 | Catalog Number | R1 344700 |
 
 This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company   © 2007 Mythgem, Ltd.  4-LP Set  Sticker on box front states :   - The Very Best of Led Zepplin - Remastering Supervised by Jimmy Page - Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs - On Four 180-Gram LPS - Plus 20-Page Booklet 
-

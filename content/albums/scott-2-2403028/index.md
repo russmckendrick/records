@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Vocal", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Jackie
 2. Best Of Both Worlds
@@ -27,6 +26,8 @@ styles: ["Vocal", "Pop Rock"]
 10. Windows Of The World
 11. The Bridge
 12. Come Next Spring
+## Spotify
+{{< spotify type="album" id="4bGsY4hGvqBf9XrAzA1gZ2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xXpbbVTq9cw" title="Scott Walker - A1 - Jackie [Mono LP / Vinyl Rip]" >}}
@@ -42,9 +43,7 @@ styles: ["Vocal", "Pop Rock"]
 - [Scott Walker - B5 - The Bridge [Mono LP / Vinyl Rip]](https://www.youtube.com/watch?v=SjDeQBtk9XM)
 - [Scott Walker - B6 - Come Next Spring [Mono LP / Vinyl Rip]](https://www.youtube.com/watch?v=cyZcPm8u5Ck)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1968 |
@@ -54,4 +53,3 @@ styles: ["Vocal", "Pop Rock"]
 | Catalog Number | SBL7840, SBL.7840, 844 210 BY |
 
 Included 11" by 11" artist portrait insert.  SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.  A1. ℗ 1967 A2 to B6. ℗ 1968  A1, A5, B3. Carlin/BIEM A2. Lords Music A3. Robbins Music A4, A6, B1, B5. Miracle Songs B2. Blossom Music B4. Blue Seas/Jac B6. Frank Music
-

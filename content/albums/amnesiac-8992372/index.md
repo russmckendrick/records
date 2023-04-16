@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Packt Like Sardines In A Crushd Tin Box
 2. Pyramid Song
@@ -26,11 +25,11 @@ styles: ["Alternative Rock", "Experimental"]
 9. Hunting Bears
 10. Like Spinning Plates
 11. Life In A Glasshouse
-
+## Spotify
+{{< spotify type="album" id="1HrMmB5useeZ0F5lHrMvl0" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -40,4 +39,3 @@ styles: ["Alternative Rock", "Experimental"]
 | Catalog Number | XLLP783 |
 
 From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.  Including voucher with download code
-

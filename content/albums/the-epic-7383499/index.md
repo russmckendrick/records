@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 ---
-
 ## Tracklisting
 1. Volume 1 - The Plan
 2. Change Of The Guard (12:16)
@@ -35,6 +34,8 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 18. Malcolm's Theme (08:41)
 19. Clair De Lune (11:08)
 20. The Message (11:09)
+## Spotify
+{{< spotify type="album" id="2j2q2ySuVk43eHB8wI5XQj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NtQRBzSN9Vw" title="Kamasi Washington - 'Change of the Guard'" >}}
@@ -55,9 +56,7 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 - [Kamasi Washington - 'Malcolm's Theme'](https://www.youtube.com/watch?v=h-ywrqeQPto)
 - [Kamasi Washington - 'The Message'](https://www.youtube.com/watch?v=gI1wK508370)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -67,4 +66,3 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 | Catalog Number | BF050 |
 
 - 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase. - Half speed cut by Matt Colton at Alchemy Mastering. - Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis - Download MP3 Code sticker on sleeve of Volume 1 - The Plan - Black sticker on shrink wrap (front) - White BC sticker on shrink wrap (rear)  On rear box: P & C Brainfeeder 2015 Made in the EU
-

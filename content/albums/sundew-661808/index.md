@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Eternity (3:21)
 2. Fade (3:58)
@@ -37,9 +36,7 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Paris Angels - Chaos (Stupid Stupid)](https://www.youtube.com/watch?v=5nP9We7LcxA)
 - [Paris Angels - Purest Values (Audio)](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -49,4 +46,3 @@ styles: ["Synth-pop", "Indie Rock"]
 | Catalog Number | V 2667, 211 915 |
 
 Laminated cover Inner sleeve with photo and credits  [Label] Manufactured by the UK
-

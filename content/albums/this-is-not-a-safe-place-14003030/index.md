@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. R.I.D.E.
 2. Future Love
@@ -27,14 +26,14 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 10. End Game
 11. Shadows Behind The Sun
 12. In This Room
+## Spotify
+{{< spotify type="album" id="6hXYP3ljDTYrudMF9hyuLb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun (2019)" >}}
 - [Future Love (Official video)](https://www.youtube.com/watch?v=3cN0vWnVaHU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 | Catalog Number | WEBB570LPC, 5055036215701 |
 
 Gatefold sleeve. Embossed lettering on cover. Die cut poly lined inner sleeves and single sided square insert of lyrics and credits. Includes full Album download in mp3 and FLAC.  Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London. Mixed at Assault & Battery, London. Mastered at Metropolis Mastering, London.  [Publicity]: James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.  ℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd. Released under exclusive license to [PIAS] outside of North America.  
-

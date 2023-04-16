@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 ---
-
 ## Tracklisting
 1. Maggot Brain (10:18)
 2. Can You Get To That (2:49)
@@ -22,15 +21,15 @@ styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 5. Super Stupid (3:56)
 6. Back In Our Minds (2:37)
 7. Wars Of Armageddon (9:42)
+## Spotify
+{{< spotify type="album" id="3ywVzrwMQ3Kq43N9zBdBQm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JOKn33-q4Ao" title="Funkadelic - Maggot Brain [HQ]" >}}
 - [Funkadelic - Maggot Brain (full album)](https://www.youtube.com/watch?v=21sP7orRS3c)
 - [Funkadelic - Can You Get To That (HQ)](https://www.youtube.com/watch?v=8rrOdcnFbAY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -40,4 +39,3 @@ styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 | Catalog Number | SEW 002 |
 
 Reissue of the original [Westbound release](http://www.discogs.com/release/773587) from 1971.  Also available on CD (CDSEW 002)  [Rear Cover Notes] Taken from Process Number Five on Fear The Process-Church of the Final Judgement.  ® 1971 Nine Records Inc © 1971 Nine Records Inc Direct Metal Mastered from digital tapes Made in West Germany  All titles Bridgeport Music Inc. ℗ 1971 Nine Records Inc.  Runouts are stamped. 
-

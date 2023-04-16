@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Avantgarde"]
 ---
-
 ## Tracklisting
 1. I'm Gonna Booglarize You Baby (4:34)
 2. White Jam (2:57)
@@ -25,6 +24,8 @@ styles: ["Blues Rock", "Avantgarde"]
 8. Grow Fins (3:31)
 9. There Ain't No Santa Claus On The Evenin' Stage (3:13)
 10. Glider (4:37)
+## Spotify
+{{< spotify type="album" id="2yBGak7HYVxKmVwZBVcxbX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3i0wU9HsCE0" title="Captain Beefheart - Alice In Blunderland" >}}
@@ -33,9 +34,7 @@ styles: ["Blues Rock", "Avantgarde"]
 - [Captain Beefheart - Click Clack](https://www.youtube.com/watch?v=uNyOr4h2ZLw)
 - [Captain Beefheart - I'm Gonna Booglarize You Baby](https://www.youtube.com/watch?v=xiJVac8bCH8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +44,3 @@ styles: ["Blues Rock", "Avantgarde"]
 | Catalog Number | 0349791110 |
 
 Hype sticker includes barcode and Don Van Vliet quote: "The stars are matter We're matter But it doesn't matter."  Includes a single-sided insert with lyrics and a download code for MP3 version of the album.  Says "Made in EU." on the labels. Says "Manufactured in EU." on the back cover.
-

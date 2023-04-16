@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Normal American Kids
 2. If I Ever Was A Child
@@ -27,14 +26,14 @@ styles: ["Alternative Rock"]
 10. Shrug And Destroy
 11. We Aren't The World (Safety Girl)
 12. Just Say Goodbye
+## Spotify
+{{< spotify type="album" id="1Wjheru5k9DMQduRIasAyL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="h2wt9TvkSZE" title="SCHMILCO - Wilco [2016] - Full Album" >}}
 - [If I Ever Was a Child - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 7259-1 |
 
 Released in gatefold sleeve with download card.
-

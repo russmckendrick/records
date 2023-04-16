@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Truck (4:06)
 2. 1991 (4:23)
@@ -24,11 +23,11 @@ styles: null
 7. Verbose (6:07)
 8. 48K (2:38)
 9. Parts 7 & 8 (6:47)
-
+## Spotify
+{{< spotify type="album" id="5aa5POsnuQ2EmEXkrnzDVN" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -38,4 +37,3 @@ styles: null
 | Catalog Number | BEM058 |
 
 The track list on the back cover does not indicate sides. Parts 7 & 8 are listed as individual tracks but they are actually one track. Times and the title for the index track are taken from the Bandcamp listing.   'The Euphoric' on 12" vinyl LP in a gatefold sleeve, plus a limited edition bonus CD featuring unreleased live tracks and demos, and an print of the album artwork.  The bonus CD and print are both signed and numbered, and in limited editions of 500. 
-

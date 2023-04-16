@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Radios In Motion
 2. X Wires
@@ -27,6 +26,8 @@ styles: ["New Wave", "Post-Punk"]
 10. New Town Animal
 11. Spinning Top
 12. Neon Shuffle
+## Spotify
+{{< spotify type="album" id="65Al3RSB7zeQeYcinysMxJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="px-E3Fw253o" title="XTC white music" >}}
@@ -52,9 +53,7 @@ styles: ["New Wave", "Post-Punk"]
 - [Into The Atom Age (2001 Remaster)](https://www.youtube.com/watch?v=3G7leRPG9-0)
 - [XTC - Radios In Motion](https://www.youtube.com/watch?v=20iFxRUoOVA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -64,4 +63,3 @@ styles: ["New Wave", "Post-Punk"]
 | Catalog Number | APELP101 |
 
 Newly cut from approved by Andy Partridge.
-

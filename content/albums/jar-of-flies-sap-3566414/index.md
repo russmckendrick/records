@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge"]
 ---
-
 ## Tracklisting
 1. Jar Of Flies
 2. Rotten Apple
@@ -44,9 +43,7 @@ styles: ["Grunge"]
 - [Swing On This](https://www.youtube.com/watch?v=Uj3R2ASEMDE)
 - [Love Song](https://www.youtube.com/watch?v=lmTKN09DPPQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -56,4 +53,3 @@ styles: ["Grunge"]
 | Catalog Number | MOVLP086, 88697685411 |
 
 "Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993. Mixed at Scream Studio, 17-22 September 1993.  "Sap" recorded at London Bridge Studios, Seattle, WA..  Released in gatefold sleeve with printed inner sleeves containing lyrics and credits. Tribal sun logo lasered on side D. Track C5 is not listed on the release, title taken from the label's website.  All runouts are etched.
-

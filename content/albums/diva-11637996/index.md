@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Ballad", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Why (4:53)
 2. Walking On Broken Glass (4:12)
@@ -25,6 +24,8 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 8. Primitive (4:16)
 9. Stay By Me (6:26)
 10. The Gift (4:52)
+## Spotify
+{{< spotify type="album" id="33ImEB9taJ3Tie4APfTL7B" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HG7I4oniOyA" title="Annie Lennox - Why (Official Music Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 - [Annie Lennox - The Gift (Official Video)](https://www.youtube.com/watch?v=_8Lc1QP0nlI)
 - [Annie Lennox - Keep Young and Beautiful (Official Video)](https://www.youtube.com/watch?v=pfk8kLJMab0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -51,4 +50,3 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 | Catalog Number | 88985419511 |
 
 ℗ 1992 & © 2017 SONY MUSIC ENTERTAINMENT UK LIMITED. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. MADE IN THE EU. LC12723 BIEM/GEMA  Made in the EU  When purchasing Diva and Medusa together from HMV stores in the UK, you received two free exclusive prints.  A & B runouts are etched.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk"]
 ---
-
 ## Tracklisting
 1. Margaret Sands
 2. Everybody Needs You
@@ -27,6 +26,8 @@ styles: ["Folk"]
 10. Lightning Rod
 11. When It Grows Darkest
 12. Zozobra
+## Spotify
+{{< spotify type="album" id="6zxxQJ1GyzHqosrD6HsqwG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout [Full Album Stream]" >}}
@@ -34,9 +35,7 @@ styles: ["Folk"]
 - [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
 - [Laura Veirs - Seven Falls (Live on KEXP)](https://www.youtube.com/watch?v=46Z89pu4Lu0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Folk"]
 | Catalog Number | BELLA744V |
 
 First pressing on Gold coloured vinyl.  100 copies bought from the Bella Union store came with a signed postcard.  © 2018 Freak Off The Leash Music (BMI), Adm. by BMG  Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017 
-

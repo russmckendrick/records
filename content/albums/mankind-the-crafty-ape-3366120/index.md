@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Chapter I (A Thread)
 2. Nothing (We Are)
@@ -33,6 +32,8 @@ styles: ["Post Rock", "Prog Rock"]
 16. Operation Mincemeat
 17. We'll Never Get Out Of This World Alive
 18. Faced With Complete Failure, Utter Defiance Is The Only Response
+## Spotify
+{{< spotify type="album" id="1IyNGhDF2FtTiLzQj9FNjT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SLiR_MT6toQ" title="Crippled Black Phoenix - The Heart Of Every Country (album version)" >}}
@@ -42,9 +43,7 @@ styles: ["Post Rock", "Prog Rock"]
 - [Crippled Black Phoenix - A Letter Concerning Dogheads](https://www.youtube.com/watch?v=MQfypm8ZDgo)
 - [Crippled Black Phoenix - Born In A Hurricane](https://www.youtube.com/watch?v=cihKxslHy2o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -54,4 +53,3 @@ styles: ["Post Rock", "Prog Rock"]
 | Catalog Number | CGR 7360 1 |
 
 Recorded and Assembled at Chapel Studio, Lincolnshire, UK during August '11 All rights reserved. ℗ & © 2011 Mascot Music Production And Publishing BV.  Gatefold sleeve, comes with color inner sleeves and a poster.
-

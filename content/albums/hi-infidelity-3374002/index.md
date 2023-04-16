@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Don't Let Him Go (3:44)
 2. Keep On Loving You (3:19)
@@ -25,13 +24,13 @@ styles: ["Pop Rock", "Classic Rock"]
 8. Shakin' It Loose (2:24)
 9. Someone Tonight (2:39)
 10. I Wish You Were There (4:26)
+## Spotify
+{{< spotify type="album" id="0X4ZNTZw7SYgrp5rlBQC3N" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wJzNZ1c5C9c" title="REO Speedwagon - Keep on Loving You (Video Version)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -41,4 +40,3 @@ styles: ["Pop Rock", "Classic Rock"]
 | Catalog Number | LP-1511-E, 25.3P 258 |
 
 ℗© 1980 CBS Inc.  Manufactured in the Philippines by Blackgold Records Corporation under licensese by CBS / Sony In. (Tokyo, Japan)
-

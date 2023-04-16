@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. ...And The Gods Made Love
 2. Have You Ever Been (To Electric Ladyland)
@@ -40,9 +39,7 @@ styles: ["Electric Blues", "Psychedelic Rock"]
 - [The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)](https://www.youtube.com/watch?v=TLV4_xaYynY)
 - [Jimi Hendrix 'Voodoo Child' (Slight Return)](https://www.youtube.com/watch?v=IZBlqcbpmxY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,4 +49,3 @@ styles: ["Electric Blues", "Psychedelic Rock"]
 | Catalog Number | 88875134511 |
 
 Issued in a gatefold sleeve including an 8-page LP-sized booklet with liner notes and pictures  All compositions written and arranged by Jimi Hendrix and published by Experience Hendrix L.L.C. with the exceptions of B1 by Noel Redding, Joint Music, D3 by Bob Dylan, Dwarf Music, and B3 by Earl King/EMI Unart Catalog Inc.  Recorded at the Record Plant, New York Remastered at Sterling Sound, N.Y.  ℗ 2010 Experience Hendrix L.L.C. © 2010, 2015 Experience Hendrix L.L.C. Made in the EU  Track D4 is listed on back cover, inner spread and labels as "Voodoo Child (Slight Return)"  Reissue of the 2010 [Music on Vinyl](https://www.discogs.com/release/2416823-The-Jimi-Hendrix-Experience-Electric-Ladyland) release, with exactly the same runout numbers.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Part 1 - Welcome To Coral Island
 2. Lover Undiscovered
@@ -39,15 +38,15 @@ styles: ["Indie Rock"]
 22. Land Of The Lost
 23. The Calico Girl
 24. The Last Entertainer
+## Spotify
+{{< spotify type="album" id="2u2Wjx9i1Pg6WxTd9VVlhL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0f_0F_RR21U" title="Change Your Mind" >}}
 - [Autumn Has Come](https://www.youtube.com/watch?v=Ei1lTXge2AI)
 - [My Best Friend](https://www.youtube.com/watch?v=js0V828SPQE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -57,4 +56,3 @@ styles: ["Indie Rock"]
 | Catalog Number | RO-001-LP |
 
 Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.  Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour: • Indie Record Store; marketed as 'exclusive colour'. • recordstore.co.uk; sold with limited edition print signed by all five band members. • Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members.
-

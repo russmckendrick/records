@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Joe
 2. Find Out Why
@@ -36,6 +35,8 @@ styles: ["Indie Rock"]
 19. Uniform
 20. Weakness (Live) (4:39)
 21. Caravan (Live) (3:36)
+## Spotify
+{{< spotify type="album" id="7KZbV3dtz2xDyaN7DojXRS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cT-uBrN6IVs" title="Joe" >}}
@@ -58,9 +59,7 @@ styles: ["Indie Rock"]
 - [Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)](https://www.youtube.com/watch?v=DPTpBoYVD8Q)
 - [Inspiral Carpets - Uniform (Official HD Video)](https://www.youtube.com/watch?v=Q_kitiQh_So)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1995 |
@@ -70,4 +69,3 @@ styles: ["Indie Rock"]
 | Catalog Number | MOOTEL 3, LMOOTEL 3 |
 
 Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.  Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".  Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"". 
-

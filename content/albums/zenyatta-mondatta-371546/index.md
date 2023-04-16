@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. Don't Stand So Close To Me (4:03)
 2. Driven To Tears (3:21)
@@ -26,13 +25,13 @@ styles: ["New Wave"]
 9. Man In A Suitcase (2:15)
 10. Shadows In The Rain (5:09)
 11. The Other Way Of Stopping (3:21)
+## Spotify
+{{< spotify type="album" id="23enz9nXJhH1BR1Rm5CzDJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FR2TAdDiOCo" title="The Police - Shadows In The Rain" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -42,4 +41,3 @@ styles: ["New Wave"]
 | Catalog Number | AMLH 64831 |
 
 ℗ 1980 A&M Records Ltd. © 1980 A&M Records Ltd. Original sound recording made by A&M Records Ltd  Recorded at Wisseloord Studios, Hilversum, Netherlands.  Issued with an illustrated picture inner sleeve.  A1 to A5, B1, B3, B4: Virgin Music (Publishers) Ltd A6, B2, B5: Roxanne Music Overseas Ltd  Runouts are etched, except for STRAWBERRY
-

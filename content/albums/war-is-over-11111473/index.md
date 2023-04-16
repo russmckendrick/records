@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. War Is Over
 2. To The End Of The World
@@ -27,15 +26,15 @@ styles: ["Prog Rock"]
 10. Beyond The Storm
 11. I'll Make It Up To You (Bonus Track)
 12. New Terrain (Bonus Track)
+## Spotify
+{{< spotify type="album" id="7EqrrMcMnLF5LZy4tReToj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}
 - [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
 - [Von Hertzen Brothers War Is Over](https://www.youtube.com/watch?v=uEa2_NhW6HU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Prog Rock"]
 | Catalog Number | MTR75371 |
 
 Includes download code.
-

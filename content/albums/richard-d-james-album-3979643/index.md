@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ---
-
 ## Tracklisting
 1. 4
 2. Cornish Acid
@@ -25,11 +24,11 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 8. Yellow Calx
 9. Girl/Boy Song
 10. Logan-Rock Witch
-
+## Spotify
+{{< spotify type="album" id="43s2fKRQsOSB6rSrxtAXKK" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -39,4 +38,3 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 | Catalog Number | WARP LP 43 |
 
 Official Warp repress Heavyweight 180g vinyl Includes download code  ℗ Warp 1996 © Warp 1996 (Richard D. James)  Written-By, Producer, Sleeve, Design are credited to "Me".  Made in England.  Top opening on cover.
-

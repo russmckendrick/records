@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Come See Me (2:42)
 2. Don't Bring Me Down (2:12)
@@ -30,9 +29,7 @@ styles: ["Classic Rock"]
 13. Cries From The Midnight Circus (6:29)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +39,3 @@ styles: ["Classic Rock"]
 | Catalog Number | SMALP 1085 |
 
 ℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.   
-

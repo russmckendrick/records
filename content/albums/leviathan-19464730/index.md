@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Ambient", "Drone", "Deep Techno"]
 ---
-
 ## Tracklisting
 1. Empire
 2. Milkwood
@@ -36,9 +35,7 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 - [The Grid / Fripp - Zhora](https://www.youtube.com/watch?v=9ClPw6JWGPM)
 - [The Grid / Fripp - Sympatico](https://www.youtube.com/watch?v=MinRXsxINRg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +45,3 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 | Catalog Number | DGMLPX102 |
 
 Gatefold sleeve    
-

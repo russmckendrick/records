@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Not Naming Any Names (2:05)
 2. Try As I Might (4:26)
@@ -24,13 +23,13 @@ styles: ["Prog Rock", "Art Rock"]
 7. Pillar of Salt (1:25)
 8. White Mist (11:05)
 9. Shed A Light (5:20)
+## Spotify
+{{< spotify type="album" id="5mKAoSFsmgLBjBZofrqkd3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J2G89BomTYk" title="The Pineapple Thief- Dissolution- Full Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -40,4 +39,3 @@ styles: ["Prog Rock", "Art Rock"]
 | Catalog Number | KSCOPE997 |
 
 The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag. Ace guitarist David Torn guests on the song White Mist.
-

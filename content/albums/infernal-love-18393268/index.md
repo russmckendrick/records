@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Epilepsy
 2. Stories
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. Loose
 10. Diane
 11. 30 Seconds
+## Spotify
+{{< spotify type="album" id="31KNGmbreLRbNfmEXRnXTl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="aBRfZvi_sqQ" title="Therapy? -  Stories" >}}
@@ -47,9 +48,7 @@ styles: ["Alternative Rock"]
 - [Therapy? – Loose](https://www.youtube.com/watch?v=55PXTJxbYhA)
 - [Therapy? – 30 Seconds](https://www.youtube.com/watch?v=cvg9lvnmAmY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -59,4 +58,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | MOVLP2806 |
 
 Includes a 12" square matte insert with song lyrics and credits, printed on both sides. Disc held in a white paper die cut polylined inner. Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.  Made in The Netherlands.  This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc).
-

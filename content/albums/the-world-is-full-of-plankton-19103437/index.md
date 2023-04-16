@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. The World Is Full Of Plankton (7:58)
 2. All Is Harvest (6:39)
@@ -24,9 +23,7 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 - [Amorphous Androgynous - All is harvest](https://www.youtube.com/watch?v=33pWNJ38kXk)
 - [Amorphous Androgynous - The Emptiness of Nothingness (HD)](https://www.youtube.com/watch?v=VEJbDIwTKNM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -36,4 +33,3 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 | Catalog Number | 10RSDAA1 |
 
 RSD 2021 release. Limited to 1000 machine-numbered copies worldwide.  Taken from the album [Alice In Ultraland](https://www.discogs.com/The-Future-Sound-Of-London-Present-The-Amorphous-Androgynous-Alice-In-Ultraland/master/23561)
-

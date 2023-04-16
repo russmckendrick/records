@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Score", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Main Title
 2. Overture
@@ -36,9 +35,7 @@ styles: ["Score", "Soundtrack"]
 - [Francis Monkman - Fury [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=6fXdwg1vEtk)
 - [Francis Monkman - Taken [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=EVULl0aDKfw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -48,4 +45,3 @@ styles: ["Score", "Soundtrack"]
 | Catalog Number | SILLP1489 |
 
 180 gram Black vinyl 2016 First pressing of 500
-

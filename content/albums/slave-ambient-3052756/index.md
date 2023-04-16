@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Best Night
 2. Brothers
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Baby Missiles
 11. Original Slave
 12. Black Water Falls
+## Spotify
+{{< spotify type="album" id="2KjyXCzIAZzJ6j70qPKvEj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rMToQg0vSds" title="The War On Drugs - Baby Missiles  (Official Video)" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [Best Night - The War On Drugs (HQ)](https://www.youtube.com/watch?v=nvOQRlIRxO8)
 - [The War On Drugs - Brothers (Official Video)](https://www.youtube.com/watch?v=TW8Hi_s2K34)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | SC190 |
 
 Includes a download card for a free high-quality digital version. Each record is in a printed inner sleeve.  ©&℗ 2011 Secretly Canadian  Recorded 2008-2011 at Uniform Studio (Philly), Echo Mountain (Asheville, NC), AG's joint in Philly.  All words and music by Adam Granduciel/Seaformation Music (ASCAP) except Brothers (Granduciel/Hartley/Zanghi/Bennett), Come To The City (Granduciel/Hartley), It's Your Destiny (Granduciel/Bennett)  Photography: Cover - Zaragoza, Spain, Drugs Tour, July 2009 Inside - Livingston, MT. Violators Tour, October 2009
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Experimental"]
 ---
-
 ## Tracklisting
 1. Geigerzähler (1:07)
 2. Radioaktivität (6:42)
@@ -32,9 +31,7 @@ styles: ["Experimental"]
 {{< youtube id="QeSPB_WjBn0" title="Kraftwerk - Radioaktivität (Full Album)" >}}
 - [Kraftwerk -  Radio-Activity. Album Completo](https://www.youtube.com/watch?v=wPvR8JiLl5o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -44,4 +41,3 @@ styles: ["Experimental"]
 | Catalog Number | 50999 6 99587 1 7 |
 
 Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider  ℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.  Printed In EU   Include a huge booklet in LP-size
-

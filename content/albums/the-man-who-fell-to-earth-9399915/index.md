@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Poker Dice
 2. Jazz II
@@ -59,6 +58,8 @@ styles: ["Soundtrack"]
 42. Silent Night (1:40)
 43. Love Is Coming Back (2:29)
 44. The Man Who Fell To Earth (2:42)
+## Spotify
+{{< spotify type="album" id="2lMP8pgOPDyU3t9j1aUjv7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wd9vU1KaQiY" title="The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9" >}}
@@ -77,9 +78,7 @@ styles: ["Soundtrack"]
 - [Mandala (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=js0AhQ9dyec)
 - [One Way (From The Man Who Fell To Earth Original Motion Picture)](https://www.youtube.com/watch?v=SHcRIQcIPOg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -89,4 +88,3 @@ styles: ["Soundtrack"]
 | Catalog Number | 479 921-7 |
 
 Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.  Made in Germany.  ℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd.
-

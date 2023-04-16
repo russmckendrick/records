@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Glam"]
 ---
-
 ## Tracklisting
 1. LP 1: Slayed? (Brown Vinyl)
 2. How D’You Ride
@@ -121,9 +120,7 @@ styles: ["Classic Rock", "Glam"]
 104. Standin’ On The Corner
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -133,4 +130,3 @@ styles: ["Classic Rock", "Glam"]
 | Catalog Number | SALVOBX412 |
 
 This Box-Set includes: The remastered reissues of [m=33006], [m=33002], [m=155203] and [m=33037] housed in their original sleeves, pressed on 180 gram coloured vinyl. 4 x double sided picture sleeve singles covering the key hits released outside of those albums:  - Coz I Love You / Look Wot You Dun  - Take Me Bak ‘Ome / Cum On Feel The Noize - Skweeze Me Pleeze Me / Merry Xmas Everybody - The Bangin’ Man / Thanks For The Memory A reproduction of original flexidisc [r=1855017] 2 CD anthology of the audio on the 4 vinyl LPs 10’’ annual style hardback book featuring reviews, features and memorabilia from each of the key years along with an introduction by Mark Ellen Reproduction of George Tremlett’s excellent 1975 book The Slade Story including period interviews with all four band members and a chronology of tour and release dates up to the time of its publication.  nb: LP 4 (Slade In Flame) has the title on the record labels as "Original Soundtrack From The Film Flame".  	 
-

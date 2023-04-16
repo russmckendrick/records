@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. 5 A.M.  (3:13)
 2. Rattle That Lock (5:21)
@@ -36,6 +35,8 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 19. Run Like Hell (7:23)
 20. Time / Breathe (In The Air) (Reprise)  (6:45)
 21. Comfortably Numb (9:58)
+## Spotify
+{{< spotify type="album" id="4cwlWUSFUUFPFYKYLbPIQL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ABPQdXertbs" title="David Gilmour - One of These Days (Live At Pompeii)" >}}
@@ -54,9 +55,7 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 - [David Gilmour - In Any Tongue (Live At Pompeii)](https://www.youtube.com/watch?v=iOACn7v-_VI)
 - [David Gilmour - On An Island (Live At Pompeii)](https://www.youtube.com/watch?v=r49ehE3bU94)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -66,4 +65,3 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | 88985464971 |
 
 Sticker - 88985464971 S1  David Gilmour The Voice & Guitar of Pink Floyd  Sticker - 88985464971 S2  4 LP Set 180 Gram Heavyweight Vinyl 2 Gatefold Jackets Polyliner inner bags 24-page photo booklet Heavyweight Slipcase  Made in the EU
-

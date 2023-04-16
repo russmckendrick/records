@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Holidays In The Sun (3:22)
 2. Bodies (2:41)
@@ -27,11 +26,11 @@ styles: ["Punk"]
 10. Pretty Vacant (3:18)
 11. New York (3:07)
 12. EMI (3:10)
-
+## Spotify
+{{< spotify type="album" id="5fxYu3rqjCNTSPKN8mtEl2" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -41,4 +40,3 @@ styles: ["Punk"]
 | Catalog Number | SexPisLP77, 00602537795635 |
 
 Part of the 'Back To Black' series of releases of classic albums. Some copies have a square sticker on the shrinkwrap.  Unknown quantity of copies on heavyweight 180g black vinyl.  Track B3 not presented on Cover artwork Track B6 presented as 'EMI Unlimited Edition' on cover artwork  Includes voucher to download an mp3 copy of LP.  ℗ & © 2014 Made in the EU.  Similar release without 'www.gzvinyl.com' is here, [r=13043632]
-

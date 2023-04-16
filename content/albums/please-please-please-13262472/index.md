@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. Please, Please, Please
 2. Chonnie-On-Chon
@@ -54,9 +53,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [James Brown - Let's Make It (1959)](https://www.youtube.com/watch?v=yMSbsx7hdhQ)
 - [Love Or A Game](https://www.youtube.com/watch?v=3zseC9DxrKk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -64,6 +61,5 @@ styles: ["Rhythm & Blues", "Soul"]
 | Label          | WaxTime In Color |
 | Format         | LP, Album, Ltd, RE, Red |
 | Catalog Number | 950662 |
-
 
 

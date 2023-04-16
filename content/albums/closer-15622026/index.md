@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
-
 ## Tracklisting
 1. Atrocity Exhibition
 2. Isolation
@@ -24,6 +23,8 @@ styles: ["Post-Punk", "New Wave"]
 7. Twenty Four Hours
 8. The Eternal
 9. Decades
+## Spotify
+{{< spotify type="album" id="1HnxC8MLDciii5LebJ09Ko" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KZoIeaT85-A" title="Atrocity Exhibition (2007 Remaster)" >}}
@@ -36,9 +37,7 @@ styles: ["Post-Punk", "New Wave"]
 - [The Eternal (2007 Remaster)](https://www.youtube.com/watch?v=3YkutkTQOqc)
 - [Decades (2007 Remaster)](https://www.youtube.com/watch?v=5-SZraSMiEc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,4 +47,3 @@ styles: ["Post-Punk", "New Wave"]
 | Catalog Number | FACT∙XXV, FACT. 25, FACT·XXV·MMXX |
 
 40th anniversary edition.  Includes a plastic lined inner sleeve as well as a printed inner sleeve.  ℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd.
-

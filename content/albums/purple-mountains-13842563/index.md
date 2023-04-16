@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk"]
 ---
-
 ## Tracklisting
 1. That's Just The Way That I Feel
 2. All My Happiness Is Gone
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Folk"]
 8. Nights That Won't Happen
 9. Storyline Fever
 10. Maybe I'm The Only One For Me
+## Spotify
+{{< spotify type="album" id="6YM4MpYgz6BhIeqQkxp3u4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6CtxkCmcsiw" title="That’s Just the Way That I Feel" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Folk"]
 - [Storyline Fever](https://www.youtube.com/watch?v=YEpq9RFBaew)
 - [Maybe I’m the Only One For Me](https://www.youtube.com/watch?v=A2y5msfAClU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Folk"]
 | Catalog Number | DC680 |
 
 Packaged in a tip-on sleeve. Includes a printed inner sleeve.  © & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647  Engineered [...] at Jamdek in Chicago and Thump in Brooklyn Mixed [...] at Electrical Audio in Chicago
-

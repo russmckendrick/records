@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
-
 ## Tracklisting
 1. Dragonaut
 2. The Druid
@@ -24,6 +23,8 @@ styles: ["Stoner Rock"]
 7. Inside The Sun
 8. From Beyond
 9. Nain's Baptism
+## Spotify
+{{< spotify type="album" id="6L7ENQZtfSKVAq1CIRZSxs" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qMIS2BaDilY" title="Sleep - Dragonaut [Official Video]" >}}
@@ -38,9 +39,7 @@ styles: ["Stoner Rock"]
 - [Sleep - From Beyond (Official Audio)](https://www.youtube.com/watch?v=yLBF-b54sfA)
 - [Sleep - Nains Baptism (Official Audio)](https://www.youtube.com/watch?v=qv1DwJmAemo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Stoner Rock"]
 | Catalog Number | MOSH079FDR |
 
 New edition on black vinyl with different matrix. Same layout as the [2015](https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007) press.  Comes with printed inner sleeve.  There is also [mispress](http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920) version on black vinyl, the copies were not issued for general sale.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Land Of Sunshine
 2. Caffeine
@@ -39,6 +38,8 @@ styles: ["Alternative Rock"]
 22. Be Aggressive (Live 1992)
 23. Kindergarten (Live 1992)
 24. We Care A Lot (Live 1992)
+## Spotify
+{{< spotify type="album" id="4cg5GrTMewtbntkO84uE2k" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MoE6SeSm268" title="Faith No More - Easy" >}}
@@ -59,16 +60,13 @@ styles: ["Alternative Rock"]
 - [Midnight Cowboy (Theme From)](https://www.youtube.com/watch?v=OwAlFtRY3FQ)
 - [Midlife Crisis by Faith No More](https://www.youtube.com/watch?v=FoQIuDEHVng)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Faith No More - Angel Dust](https://www.discogs.com/release/7410902-Faith-No-More-Angel-Dust) |
-| Label          | Slash, Rhino Records (2) |
+| Label          | Slash, Rhino Records |
 | Format         | 2xLP, Album, Dlx, RE, RM, 180 |
 | Catalog Number | 0825646094608 |
 
 Issued in a gatefold sleeve with sticker, download voucher and "Parental Advisory" sticker  Sticker over shrinkwrap: "Double 180GM Vinyl Bonus LP Features Rare Tracks & Live Versions New Liner Notes Includes 'Easy,' 'Midlife Crisis' & 'Everything's Ruined' 0825646094608 Includes Download Code for MP3 Version of the Album www.ThisIsVinylCollector.com"  This release is identical to the [US one](http://www.discogs.com/release/7520951), with whom shares both barcode and [l=MPO] run-outs; the substantial difference is the presence of the download coupon, which is exclusive to EU marketed releases.   Recorded at Coast Recorders, San Francisco and Brilliant Studios, San Francisco Mixed at Scream Studios, Studio City, CA.  All songs written by Faith No More and published by Rondor Music (London) Ltd., Big Thrilling Music, Vomit God Music, Boosey & Hawkes Music Publisher, S.D.R.M., Jobete Music Co. Inc. ASCAP,  Libren Music, admin. by EMI April Music Inc. ASCAP except; Midnight Cowboy (John Barry) EMI United Partnership Ltd.  Easy (Lionel Richie) Brockman Music, ASCAP, Jobete Music (Jello Biafra) Decay Music BMI.   This reissue ℗ 2015 Slash Records, a Warner Music Group Company. © 2015 Slash Records, A Warner Music Group Company. All Rights Reserved.  The copyright in this sound recording and artwork is owned by Slash Records.   2015 Reissue Credits Remastered at Abbey Road Studios, London Release coordination and product management for Warner Music Global Catalogue Packaging: www.GilmourDesign.co.uk
-

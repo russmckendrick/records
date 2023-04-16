@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Vocal", "Ballad", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Seventh Seal
 2. On Your Own Again
@@ -25,6 +24,8 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 8. Duchess
 9. Get Behind Me
 10. Rhymes Of Goodbye
+## Spotify
+{{< spotify type="album" id="7uU2qrFZQSdQacicLXMnaJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jI1-_LqC8Ok" title="Rhymes Of Goodbye" >}}
@@ -33,9 +34,7 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 - [Scott Walker - The Seventh Seal](https://www.youtube.com/watch?v=jMUk1R_fKEA)
 - [Scott Walker The Old Man`s Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -45,4 +44,3 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 | Catalog Number | 3728852, 00602537288526 |
 
 Includes download code. Remastered 2013 from original analogue tapes.
-

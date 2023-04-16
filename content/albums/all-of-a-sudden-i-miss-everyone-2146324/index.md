@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
-
 ## Tracklisting
 1. The Birth And Death Of The Day
 2. Welcome, Ghosts
@@ -21,6 +20,8 @@ styles: ["Post Rock", "Ambient"]
 4. What Do You Go Home To?
 5. Catastrophe And The Cure
 6. So Long, Lonesome
+## Spotify
+{{< spotify type="album" id="2BkhGv48TtChjKBwkC67eo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Fz-mWblMPpw" title="The Birth And Death Of The Day" >}}
@@ -38,9 +39,7 @@ styles: ["Post Rock", "Ambient"]
 - [Explosions in the Sky | All Of A Sudden I Miss EveryOne | It's Natural To Be Afraid](https://www.youtube.com/watch?v=NcFCUeYBcjs)
 - [Explosions in the Sky - The Birth and Death of the Day](https://www.youtube.com/watch?v=TnTCwg7-UKg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -50,4 +49,3 @@ styles: ["Post Rock", "Ambient"]
 | Catalog Number | trr 99 |
 
 Recorded in Minnesota, August 2006.  Side D is an etched picture similar to the cover artwork. Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker.  Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical. 
-

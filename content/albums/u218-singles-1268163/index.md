@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Beautiful Day (4:05)
 2. I Still Haven't Found What I'm Looking For (4:38)
@@ -33,11 +32,11 @@ styles: ["Pop Rock"]
 16. Sometimes You Can't Make It On Your Own (5:05)
 17. The Saints Are Coming (3:21)
 18. Window In The Skies (4:08)
-
+## Spotify
+{{< spotify type="album" id="0pYUq4UiXNgq8mO23rlHVU" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2006 |
@@ -47,4 +46,3 @@ styles: ["Pop Rock"]
 | Catalog Number | U218 - 0602517135505 |
 
 Comes with a 16-page album-size booklet, containing information about singles including lyrics, credits, recording data, release dates and chart positions.  Matte gatefold sleeve. Printed inner sleeves.  Audio Post Production at Partial Productions Inc. Mastered at Bernie Grundman Mastering, Hollywood.  Green Day appear courtesy of Reprise Records.  All titles published by Universal Music Publishing B.V. except Blue Mountain Music Ltd (UK), Mother Music (Irl.), except "The Saints Are Coming" published by EMI Virgin Music Ltd.  This compilation ℗ 2006 Universal Island Records Limited under exclusive licence to Mercury Records Limited in the UK. © 2006 Universal Island Records Limited under exclusive licence to  Mercury Records Limited in the UK. A Universal Music Company. Made in the EU. 
-

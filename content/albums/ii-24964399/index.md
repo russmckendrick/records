@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Love Without Love
 2. Animal Espionage
@@ -24,6 +23,8 @@ styles: ["Hardcore", "Heavy Metal"]
 7. Christian Missile Crisis
 8. Reign Of Error
 9. Imposter Syndrome
+## Spotify
+{{< spotify type="album" id="3HDd5hQcSSlyzhixp7B4wY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GCPpZpRdjmw" title="Love Without Love" >}}
@@ -36,9 +37,7 @@ styles: ["Hardcore", "Heavy Metal"]
 - [Dead Cross Reign Of Error](https://www.youtube.com/watch?v=4oEZq_JHwBg)
 - [Imposter Syndrome](https://www.youtube.com/watch?v=eCBTd720Nng)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -48,4 +47,3 @@ styles: ["Hardcore", "Heavy Metal"]
 | Catalog Number | IPC248LP, IPC248LP2 |
 
 Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem  First catalog number on the spine, second on the sticker on shrink wrap
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. I Will Follow
 2. Twilight
@@ -27,11 +26,11 @@ styles: ["New Wave", "Pop Rock"]
 10. The Electric Co.
 11. Shadows And Tall Trees
 12. Untitled
-
+## Spotify
+{{< spotify type="album" id="4YCjEFs1aDmcilTMbqMwjY" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -41,4 +40,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | 0749627 |
 
 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   Made In Germany.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Opening Crescendo
 2. All Who Wander
@@ -39,6 +38,8 @@ styles: ["Alternative Rock"]
 22. Gravity
 23. Blade Of Wind
 24. Through The Sunlit Door
+## Spotify
+{{< spotify type="album" id="5zxyWttq2GTLed8bJfbofV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bbXNaERHIfA" title="...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)" >}}
@@ -49,9 +50,7 @@ styles: ["Alternative Rock"]
 - [All Who Wander](https://www.youtube.com/watch?v=Ct8qSO_0PVo)
 - [Blade of Wind](https://www.youtube.com/watch?v=jzy07GNDUO0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -61,4 +60,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | IOMLP 533, 19075966841 |
 
 Limited clear vinyl edition. Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics. 180g vinyl. Made in the EU.
-

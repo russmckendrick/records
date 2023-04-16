@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Emerald Tablet
 2. Konta Chorus
@@ -29,9 +28,7 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 {{< youtube id="gG02P9j406I" title="The Utopia Strong - Brainsurgeons 3 (Track Video)" >}}
 - [The Utopia Strong - Konta Chorus](https://www.youtube.com/watch?v=-1osxHixrFc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -41,4 +38,3 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 | Catalog Number | LAUNCH172 |
 
 Ltd edition, "indies only" Fireball Orange Vinyl.  Comes with printed inner sleeve and protective outer sleeve.
-

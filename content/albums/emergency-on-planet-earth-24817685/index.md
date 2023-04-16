@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Acid Jazz"]
 ---
-
 ## Tracklisting
 1. When You Gonna Learn (3:47)
 2. Too Young To Die (6:04)
@@ -25,6 +24,8 @@ styles: ["Acid Jazz"]
 8. Blow Your Mind (8:32)
 9. Revolution 1993 (10:16)
 10. Didgin' Out (2:36)
+## Spotify
+{{< spotify type="album" id="0SeTonJJPjy57LqiCDmeEM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eo7iwlMFPrM" title="Jamiroquai - When You Gonna Learn? (Official Music Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Acid Jazz"]
 - [Jamiroquai - Revolution 1993 (Audio)](https://www.youtube.com/watch?v=bKzV1pLDNp4)
 - [Jamiroquai - Didgin' Out (Audio)](https://www.youtube.com/watch?v=pvyLdqbiHVg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -50,4 +49,3 @@ styles: ["Acid Jazz"]
 | Catalog Number | 19658702311 |
 
 Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.  Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:06 is printed on the centre label on the record.  Made in the EU.
-

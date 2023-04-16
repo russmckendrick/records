@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1.  To The Bin My Friend, Tonight We Vacate Earth
 2. Here We, Here We, Here We Go Forever
@@ -42,15 +41,15 @@ styles: null
 25. Pat Stains
 26. Supposedly, We Were Nightmares
 27. It's What I Want To Do, Mum.
+## Spotify
+{{< spotify type="album" id="4LjNbxlMmWNn5Yky9bfxRm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="55wY7XrGFzY" title="Mogwai // Dry Fantasy (Official Video)" >}}
 - [Mogwai - Ritchie Sacramento (Official Video)](https://www.youtube.com/watch?v=VWjzlJEmmxM)
 - [Mogwai - Pat Stains (Official Audio)](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -60,4 +59,3 @@ styles: null
 | Catalog Number | ROCKACT140, ROCKACT140LP, ROCKACT140CD |
 
 This Deluxe Vinyl Boxset includes:  2 x Transparent Red Vinyl | Gatefold Cover  1 x Black Vinyl Demos EP 12 page photograph book CD version of album Album digital download code  Limited to 1000 copies 
-

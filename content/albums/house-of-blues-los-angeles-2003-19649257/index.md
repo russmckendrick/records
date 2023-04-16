@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Blackest Eyes (5:29)
 2. Shesmovedon (5:24)
@@ -29,9 +28,7 @@ styles: ["Prog Rock"]
 12. Wedding Nails (6:42)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -41,4 +38,3 @@ styles: ["Prog Rock"]
 | Catalog Number | Transmission 14.2 |
 
 According to Steven Wilson on Instagram, this release is limited to 4,000 copies.  Tracks listed sequentially on sleeve.   [Liner notes] Recorded live at the House of Blues, Los Angeles on 30th July 2003. Restored and remixed from the 24 track ADAT tapes in 2020.  (...) ℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.   
-

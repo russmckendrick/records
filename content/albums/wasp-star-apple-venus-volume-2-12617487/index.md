@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Playground
 2. Stupidly Happy
@@ -42,9 +41,7 @@ styles: null
 - [XTC  -  Church Of Women](https://www.youtube.com/watch?v=cgiueeCJOLY)
 - [XTC -The Wheel and the Maypole-](https://www.youtube.com/watch?v=vRIP77kLhxI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +51,3 @@ styles: null
 | Catalog Number | APELP119 |
 
 lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits 
-

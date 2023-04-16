@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. History Never Repeats (3:00)
 2. Shark Attack (3:00)
@@ -38,9 +37,7 @@ styles: ["New Wave"]
 - [Split Enz: History Never Repeats - Corroboree (HD)](https://www.youtube.com/watch?v=_3T1xg_9MEE)
 - [Split Enz HISTORY NEVER REPEATS  Sydney '81](https://www.youtube.com/watch?v=p0MJ1q28qt0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -50,4 +47,3 @@ styles: ["New Wave"]
 | Catalog Number | AMS 8128 |
 
 A-side has a laser etched pattern on the vinyl.  B1 and B2 recorded live at the Hammersmith Odeon.  ℗ 1981 Mushroom Records Pty. Ltd.  A [similar version](http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169) exists with generic A&M labels. 
-

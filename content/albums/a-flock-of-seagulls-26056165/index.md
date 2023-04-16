@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Modern Love Is Automatic (3:49)
 2. Messages (2:51)
@@ -26,6 +25,8 @@ styles: ["New Wave", "Synth-pop"]
 9. D.N.A. (2:30)
 10. Tokyo (2:48)
 11. Man Made (5:38)
+## Spotify
+{{< spotify type="album" id="1hwPP3qgnV7PQrMSy6qFw8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gOK3rqVgN2I" title="A Flock Of Seagulls - Space Age Love Song (Official Music Video)" >}}
@@ -37,9 +38,7 @@ styles: ["New Wave", "Synth-pop"]
 - [A Flock Of Seagulls - Messages](https://www.youtube.com/watch?v=ZgB1fd07rfs)
 - [A Flock Of Seagulls - You Can Run](https://www.youtube.com/watch?v=T1K5fMKlCeI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -49,4 +48,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | BMGCAT588CLP |
 
 Manufactured in Ireland. Hype sticker on shrink wrap. 
-

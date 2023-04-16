@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Borderlands
 2. Evermore
@@ -55,9 +54,7 @@ styles: ["Progressive Metal", "Prog Rock"]
 - [Disco Inferno (live in London 2019)](https://www.youtube.com/watch?v=7BnKtXVoAFo)
 - [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -67,4 +64,3 @@ styles: ["Progressive Metal", "Prog Rock"]
 | Catalog Number | IOMLP 563, 19439779481 |
 
 Recorded on December 12th, 2019 at the Roundhouse, Camden, London, United Kingdom.  Issued with a postcard, a coaster and a sticker.  Slipcase sleeve with a gatefold sleeve for the first two LPs and a standard sleeve for the third one. CDs housed in a protective plastic sleeve.
-

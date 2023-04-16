@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Weeds
 2. Weeds II (The Origin Of The Species)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Bad Cover Version
 10. Roadkill
 11. Sunrise
+## Spotify
+{{< spotify type="album" id="07Ho17MqU3WH5BCOcHXufz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kpdcSgqIsVc" title="Weeds" >}}
@@ -56,9 +57,7 @@ styles: ["Indie Rock"]
 - [Forever In My Dreams](https://www.youtube.com/watch?v=BGhljQ-vRuM)
 - [Pulp - I Love Life](https://www.youtube.com/watch?v=NsqCrGFZzJk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -68,4 +67,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 4785290, 00602547852908 |
 
 An initial run of copies of this release were exclusively sold in [l11249] and Fopp stores (HMV copies have an "HMV exclusive" sticker placed on shrink).   Recorded and mixed at Metropolis, London. Strings recorded at Air Studios. Choir recorded at Angel Studios.  Track A4 samples "Tell Her You Love Her" written by Stanley Myers & Hal Shaper, published by Screen Gems-EMI Music Ltd. Taken from the film "Otley".  Track A5 samples "Willow's Song" composed by Paul Giovanni, from the British Lion film "The Wicker Man".  Track B2: Virtual birdsong generated at the Institute of Sound & Vibration Research, University of Southampton under the supervision of Professor Phil Nelson.  ℗ 2001 Universal-Island Records Ltd.  © 2016 Universal-Island Records Ltd.  Made in the EU.
-

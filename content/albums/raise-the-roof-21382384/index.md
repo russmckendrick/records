@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Quattro (World Drifts In) (4:35)
 2. The Price Of Love (4:50)
@@ -44,9 +43,7 @@ styles: ["Blues Rock", "Folk Rock"]
 - [My Heart Would Know](https://www.youtube.com/watch?v=i_pp4c0kT8s)
 - [You Can’t Rule Me](https://www.youtube.com/watch?v=ZepyzyhyGdg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -56,4 +53,3 @@ styles: ["Blues Rock", "Folk Rock"]
 | Catalog Number | 0190296548857 |
 
 Amazon Europe limited release.  Comes in a gatefold sleeve with alternate red artwork.  Issued with plain black inner sleeves (discobags), both with the catalog number.  ℗ & © 2021 Hokker, Inc and Trolcharm Limited. Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada  Made in The Netherlands.  T Bone Burnett appears courtesy of Verse Forecast Bill Frisell  appears courtesy of Blue Note Records Lucinda Williams  appears courtesy of Highway 20 Records  Runouts: 34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched.
-

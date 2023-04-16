@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Saturday Sun (3:26)
 2. Archer's Arrows (4:05)
@@ -25,13 +24,13 @@ styles: ["Pop Rock"]
 8. Inside Out (3:19)
 9. Even If (4:03)
 10. Elephants (4:31)
+## Spotify
+{{< spotify type="album" id="55Mg8Cq8cttF64MzqN6T5N" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YcKh-VeFxX0" title="Crowded House - Twice If You're Lucky" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -41,4 +40,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 00602527415185 |
 
 Recorded at Roundhead Studios, Auckland May-Aug 09 Mixed at PLYRZ Studios, LA Mastered @ Gateway Mastering & DVD Portland. Additional recording @ Exchequer Studios, Dublin. Additional recording & mixing @ PLYRZ Studios Aug 25-Sept 25 2009.  Preorder from Neil Finn site were signed by Neil, Nick, Mark and Matt on cover 
-

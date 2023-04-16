@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Here Comes The Nice (2:57)
 2. Talk To You (2:07)
@@ -32,6 +31,8 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 15. Donkey Rides, A Penny A Glass (2:50)
 16. Afterglow Of Your Love (Single Version) (3:24)
 17. Wham Bam Thank You Mam (3:18)
+## Spotify
+{{< spotify type="album" id="0cO2uSBkGgniN35oeuaUCM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="C76bFMCA9ss" title="I Feel Much Better (2012 Remaster)" >}}
@@ -43,9 +44,7 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 - [The Universal (2013 Remaster)](https://www.youtube.com/watch?v=abAt2vXSeHI)
 - [The Journey (2013 Remaster)](https://www.youtube.com/watch?v=Q1yKurfmu60)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -55,4 +54,3 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 | Catalog Number | CHARLY L 126 |
 
 'Small Faces Greatest Hits - The Immediate Years 1967 - 1969' vinyl edition was cut by Matt Colton on a Neumann VMS 80 mastering lathe modified by Crispin Murray, with nothing else in the signal path between the source material and the lacquer. The cutting session on 6 November 2013 was conducted under the supervision of Kenney Jones & Small Faces reissue series producer Rob Caiger.  2014 Black Vinyl Issue
-

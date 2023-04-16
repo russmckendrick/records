@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Darkwave"]
 ---
-
 ## Tracklisting
 1. I Am Dust
 2. Here In The Black
@@ -27,6 +26,8 @@ styles: ["New Wave", "Darkwave"]
 10. We're The Unforgiven
 11. Who Are You
 12. My Last Day
+## Spotify
+{{< spotify type="album" id="5VYauwYxotVdCXDrcK9KdQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HCxk8FCu4xE" title="Here in the Black" >}}
@@ -39,9 +40,7 @@ styles: ["New Wave", "Darkwave"]
 - [Gary Numan - Love Hurt Bleed](https://www.youtube.com/watch?v=46kXvXV42Qk)
 - [Gary Numan - I Am Dust](https://www.youtube.com/watch?v=iMAz9jofm_4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -51,4 +50,3 @@ styles: ["New Wave", "Darkwave"]
 | Catalog Number | MORTALLP15 |
 
 Gatefold Sleeve  ℗© 2013 Machine Music USA, INC  Mastered At Alchemy Mastering, London.  Recorded In Waldon (East Sussex), Long Eaton (Nottinghamshire) And Los Angeles (California).  Photography By LaRoche Brothers (Woolhouse Studios)  
-

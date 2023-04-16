@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", "Hard Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. The Chipmunk Song (Christmas Don't Be Late)
 2. The Oogum Boogum Song
@@ -80,6 +79,8 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 63. Bron-Yr-Aur
 64. "What Do You Love About Music?"
 65. Tangerine
+## Spotify
+{{< spotify type="album" id="3oNY3UpmcQQ4TAicUcKkdf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jg66kgAfqlY" title="Simon & Garfunkel - America (Almost Famous)" >}}
@@ -92,9 +93,7 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 - [I've Seen all Good People(studio)](https://www.youtube.com/watch?v=uJM7TdshUbw)
 - [Yes - Roundabout (Original 1971)](https://www.youtube.com/watch?v=QOrrNM4md8c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -104,4 +103,3 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 | Catalog Number | B0033289-01 |
 
 Album sleeves are the same as the colored version, with the same catalog number showing. Nothing visible to denote it is the regular version other than the barcode.  Boxed set contains: 6 LPs in three gatefold jackets, inner sleeves are white with plastic lining 20" x 24" Stillwater poster William's high school notebook / binder, hard bound with cloth cover.  Two reproduction Ticketron concert tickets - Cleveland Music Hall (-Stillwater- plus special guests) and San Diego Sports Arena (-Black Sabbath- with Sillwater) 12 Page Rolling Stone newsprint 40 Page booklet bound within binder: Unreleased photos and stories, memories and dedications from Cameron Crowe, cast members, Nancy Wilson and crew   Lacquer cutting credit and company derived from runout JJ GOLDEN. Runouts are a mix of etched and stamped, first half of string is etched, remainder of string starting with GOLDEN is stamped. 
-

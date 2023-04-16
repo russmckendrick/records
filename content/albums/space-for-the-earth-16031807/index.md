@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Stripey Clouds (6:37)
 2. Blooperdome (5:34)
@@ -22,11 +21,11 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 5. Climbing Plants (7:05)
 6. Space For The Earth (7:36)
 7. Harmonic Steps (6:35)
-
+## Spotify
+{{< spotify type="album" id="2Jtm2jkinaMRN8HIMWMj7D" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -36,4 +35,3 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Catalog Number | KSCOPE1078 |
 
 Recorded & Produced at Blue Bubble Studio, Fife, UK in 2019–2020. Comes with printed inner sleeve. Some copies come with ''Kscope'' marketing leaflet.  Sticker says: „Ozric Tentacles Space for the Earth 180g HEAVYWEIGT VINYL The new studio album featuring guest appearances from former members Joie Hinton, Nick van Gelder, Champignon and Paul Hankin. „This is space music for people from Earth to enjoy“ ED WYNNE ⓚscope 1078  kscopemusic.com“   ℗ 2020 Kscope © 2020 Kscope Made in the EU.  All runouts etched
-

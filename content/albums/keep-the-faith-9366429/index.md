@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. I Believe (5:48)
 2. Keep The Faith (5:45)
@@ -27,6 +26,8 @@ styles: ["Hard Rock"]
 10. I Want You (5:35)
 11. Blame It On The Love Of Rock & Roll (4:23)
 12. Little Bit Of Soul (5:47)
+## Spotify
+{{< spotify type="album" id="2FbviTPUjgJJUxsGM1sGDq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eZQyVUTcpM4" title="Bon Jovi - Keep The Faith" >}}
@@ -47,9 +48,7 @@ styles: ["Hard Rock"]
 - [Blame It On The Love Of Rock & Roll](https://www.youtube.com/watch?v=FOZyLCZ-n8Y)
 - [Little Bit Of Soul](https://www.youtube.com/watch?v=1aakOCSMWpM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -59,4 +58,3 @@ styles: ["Hard Rock"]
 | Catalog Number | B0021970-01 |
 
 180 gram vinyl released in a gatefold sleeve.    
-

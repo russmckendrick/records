@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash"]
 ---
-
 ## Tracklisting
 1. Chaos A.D. (2017 Remaster)
 2. Refuse/Resist (3:19)
@@ -43,15 +42,15 @@ styles: ["Thrash"]
 26. Clenched Fist (live) (3:38)
 27. Biotech Is Godzilla (live) (2:08)
 28. Territory (live) (4:48)
+## Spotify
+{{< spotify type="album" id="5r4qa5AIQUVypFRXQzjaiu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6ODNxy3YOPU" title="Sepultura - Refuse/Resist [OFFICIAL VIDEO]" >}}
 - [Sepultura - Territory [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=Q_WHGV5bejk)
 - [Sepultura - Slave New World [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0K4J90s1A2M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -61,4 +60,3 @@ styles: ["Thrash"]
 | Catalog Number | 081227934248 |
 
 Newly remastered on 180gr vinyls. The second and bonus LP contains rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.  LP2 - Side D: Live In Minneapolis (1994)
-

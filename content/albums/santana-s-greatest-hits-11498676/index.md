@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Evil Ways (3:00)
 2. Jingo (2:44)
@@ -25,6 +24,8 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 8. Everything's Coming Our Way (3:16)
 9. Se A Cabo (2:51)
 10. Everybody's Everything (3:31)
+## Spotify
+{{< spotify type="album" id="1YrdGK2y2Edq2R5gFja2ai" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="P_vJBz2_LtE" title="Hope You're Feeling Better ~ Santana" >}}
@@ -45,9 +46,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 - [Santana - Smooth (Stereo) ft. Rob Thomas](https://www.youtube.com/watch?v=6Whgn_iE5uc)
 - [Evil Ways](https://www.youtube.com/watch?v=lR4ZjMVHCuM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -55,6 +54,5 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 | Label          | Columbia |
 | Format         | LP, Comp, RE |
 | Catalog Number | 88985446151 |
-
 
 

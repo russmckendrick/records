@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. More Than A Feeling (4:44)
 2. Peace Of Mind (4:55)
@@ -23,6 +22,8 @@ styles: ["Hard Rock"]
 6. Hitch A Ride (3:18)
 7. Something About You (4:19)
 8. Let Me Take You Home Tonight (4:12)
+## Spotify
+{{< spotify type="album" id="2QLp07RO6anZHmtcKTEvSC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4zDR5jmCXOg" title="Boston - Boston (1976) [Full Album]" >}}
@@ -46,9 +47,7 @@ styles: ["Hard Rock"]
 - [Boston - 1976 (Analog Album Remaster)](https://www.youtube.com/watch?v=_V4LtZuF--Q)
 - [Boston - Smokin' (Official Audio)](https://www.youtube.com/watch?v=bDI-AdnIK08)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -58,4 +57,3 @@ styles: ["Hard Rock"]
 | Catalog Number | 88985438101 |
 
 ℗ 1976 and © 1976, 2017 Epic Records. Made in the EU.
-

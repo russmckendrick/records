@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
-
 ## Tracklisting
 1. Volume One
 2. Israelites
@@ -78,11 +77,11 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 61. Dollar In The Teeth
 62. Moon Hop
 63. Reggae Merengue
-
+## Spotify
+{{< spotify type="album" id="5tA2nuPhQz0AVIzQtayJKi" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -92,4 +91,3 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 | Catalog Number | TROJANLP001X |
 
 Sticker on cover.  Made in the EU
-

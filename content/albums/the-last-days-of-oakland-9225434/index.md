@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. Intro - The Last Days Of Oakland (0:35)
 2. Working Poor (4:01)
@@ -28,6 +27,8 @@ styles: null
 11. The Worst (3:52)
 12. Rant Rushmore (5:01)
 13. Nothing Without You (4:15)
+## Spotify
+{{< spotify type="album" id="5XgUtV3205kTcgoSLNf8ix" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4fDJlWxhyvw" title="Fantastic Negrito - The Worst (Official Audio)" >}}
@@ -40,9 +41,7 @@ styles: null
 - [Fantastic Negrito - Nothing Without You (Official Audio)](https://www.youtube.com/watch?v=e-W98ao9e-I)
 - [Fantastic Negrito - About a Bird (Official Audio)](https://www.youtube.com/watch?v=m6UH2--6rWc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,4 +51,3 @@ styles: null
 | Catalog Number | none |
 
 Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France
-

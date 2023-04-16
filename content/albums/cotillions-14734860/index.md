@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Bluegrass"]
 ---
-
 ## Tracklisting
 1. To Scatter One's Own
 2. Hard Times
@@ -36,9 +35,7 @@ styles: ["Bluegrass"]
 ## Videos
 {{< youtube id="lHKIJoDB0zQ" title="Cotillions" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -46,6 +43,5 @@ styles: ["Bluegrass"]
 | Label          | Martha's Music |
 | Format         | 2xLP, Album, Smo |
 | Catalog Number | MM001WPC |
-
 
 

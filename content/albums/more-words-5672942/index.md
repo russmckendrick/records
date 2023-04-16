@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. It's Over
 2. Catch The Wind
@@ -35,9 +34,7 @@ styles: null
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
 - [Glen Campbell - Dreams Of The Everyday Housewife](https://www.youtube.com/watch?v=LonUQ5o-vLc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -47,4 +44,3 @@ styles: null
 | Catalog Number | NRH 1001 |
 
 Fold out front cover © 1975 ℗ 1968 track A1, A2, A4, B1, B3. B4 ℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7  Made in England 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Bring On The Dancing Horses
 2. Lips Like Sugar
@@ -30,6 +29,8 @@ styles: null
 13. The Cutter
 14. How Far?
 15. The Killing Moon
+## Spotify
+{{< spotify type="album" id="194coQAsvAJhxlc8wdxewI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nQ1UH7k1G4k" title="Bring on the Dancing Horses (Transformed) (Official Audio)" >}}
@@ -47,9 +48,7 @@ styles: null
 - [Echo & The Bunnymen - Nothing Lasts Forever (Transformed) (Official Audio)](https://www.youtube.com/watch?v=i6z4k-6JIsc)
 - [Stars Are Stars (Transformed)](https://www.youtube.com/watch?v=ZoHJ7JaTCu0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -59,4 +58,3 @@ styles: null
 | Catalog Number | 538355220 |
 
 Gatefold Sleeve. Includes Download Code.
-

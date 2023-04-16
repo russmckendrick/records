@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
-
 ## Tracklisting
 1. 1999 (6:22)
 2. Little Red Corvette (4:58)
@@ -26,6 +25,8 @@ styles: ["Minneapolis Sound", "Funk"]
 9. Lady Cab Driver (8:25)
 10. All The Critics Love U In New York (5:55)
 11. International Lover (6:35)
+## Spotify
+{{< spotify type="album" id="34MHuXONazzgSxI0cThpAg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rblt2EtFfC4" title="Prince - 1999 (Official Music Video)" >}}
@@ -40,9 +41,7 @@ styles: ["Minneapolis Sound", "Funk"]
 - [All the Critics Love U in New York](https://www.youtube.com/watch?v=6Rtjb1SMGVE)
 - [International Lover](https://www.youtube.com/watch?v=40sGh8zBD4U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -52,4 +51,3 @@ styles: ["Minneapolis Sound", "Funk"]
 | Catalog Number | 8122-79777-5 |
 
 Cover: Mastered [...] at A&M Records Manufactured in the E.U.  Labels: Made in the E.U.  Similar editions: 1999 (Manufactured in the E.U.) [this release] [r=3139530] (Printed in U.S.A.)
-

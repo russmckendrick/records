@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. One Way
 2. The Game
@@ -91,9 +90,7 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [Levellers - The Game](https://www.youtube.com/watch?v=5rxC6_S1a1A)
 - [Levellers - The Road (with lyrics)](https://www.youtube.com/watch?v=HN4oQeKMTig)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -101,6 +98,5 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Label          | On The Fiddle Recordings |
 | Format         | Box, Album, Ltd + 2x12\", Album, S/Edition, Blu + 2 |
 | Catalog Number | OTFLP023XX |
-
 
 

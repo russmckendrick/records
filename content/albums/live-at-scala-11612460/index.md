@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. The Silence Is Deafening
 2. Don't You Wait, It Might Never Come
@@ -27,15 +26,15 @@ styles: null
 10. I Can Only Disappoint U
 11. Wide Open Space
 12. Don't Poke The Bear
+## Spotify
+{{< spotify type="album" id="5xMqq2oMQvfSgrhF1HBhrC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WSOGVuFEBEY" title="Paul Draper - I Can Only Disappoint U - Live At Scala" >}}
 - [Paul Draper - Friends Make The Worst Enemies - Live At Scala](https://www.youtube.com/watch?v=QvMGJJu7h-k)
 - [Paul Draper - Wide Open Space (live at Scala - multicam)](https://www.youtube.com/watch?v=uIJpdmeGMek)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -45,4 +44,3 @@ styles: null
 | Catalog Number | KSCOPE975 |
 
 2 LP Retail Version
-

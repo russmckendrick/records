@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Wide Open Space
 2. Rebel Without A Quilt
@@ -22,6 +21,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 5. The Gods Of Not Very Much
 6. Moronica (Acoustic Version)
 7. Lemonade Secret Drinker (Acoustic Version)
+## Spotify
+{{< spotify type="album" id="3OGZXSC31ykWEN3A3j7dvW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VEMiMRS1ixo" title="Mansun - Wide Open Space (Perfecto Mix) ·1998·" >}}
@@ -32,9 +33,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Mansun - Wide Open Space (John 00 Fleming Mix) 1998](https://www.youtube.com/watch?v=b-EE3VnETeU)
 - [Mansun - Wide Open Space (Forthright Dub)](https://www.youtube.com/watch?v=P91Os-2UVR8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | Kscope989 |
 
 Record Store Day 2018 release.  First time on 12" vinyl. Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]).
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Krautrock"]
 ---
-
 ## Tracklisting
 1. Pinch
 2. Sing Swan Song
@@ -22,6 +21,8 @@ styles: ["Krautrock"]
 5. Soup
 6. I'm So Green
 7. Spoon
+## Spotify
+{{< spotify type="album" id="3Qa2CdymyGvXkqoqIZykmT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Hls8WnUfHbY" title="Pinch - Can (1972)" >}}
@@ -33,9 +34,7 @@ styles: ["Krautrock"]
 - [Can, Ege Bamyasi, LP 1972 Spoon](https://www.youtube.com/watch?v=IDa3uDvzPo0)
 - [One More Night - Can (1972)](https://www.youtube.com/watch?v=2s4ABAOK-o8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -45,4 +44,3 @@ styles: ["Krautrock"]
 | Catalog Number | XLSPOON8_UK, XSPOON8 |
 
 Limited Edition Green Vinyl. Includes Download Code.
-

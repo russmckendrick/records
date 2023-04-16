@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Non-Music"]
 styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 ---
-
 ## Tracklisting
 1. Lucinda / Ain' Goin' Down To The Wel No Mo' (5:37)
 2. Singapore (5:00)
@@ -32,6 +31,8 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 15. Make It Rain (3:58)
 16. Story (2:02)
 17. Lucky Day (3:47)
+## Spotify
+{{< spotify type="album" id="3IpexZ309jiPcLdFkz3S6F" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="h8207Ah_yso" title="Tom Waits - Tom Tales" >}}
@@ -39,9 +40,7 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 - [1.Tom Waits - Lucinda/Ain't Going Down To The Well (Atlanta)](https://www.youtube.com/watch?v=lN6TJ9Jm6K4)
 - [Make it Rain (Live) by Tom Waits](https://www.youtube.com/watch?v=tTolREI7UV4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +50,3 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 | Catalog Number | 7053-3, 8714092705331 |
 
 Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve 
-

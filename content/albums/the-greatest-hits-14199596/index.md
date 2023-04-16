@@ -1,6 +1,6 @@
 ---
-title: "Thunder (3) - The Greatest Hits"
-artist: "Thunder (3)"
+title: "Thunder - The Greatest Hits"
+artist: "Thunder"
 album_name: "The Greatest Hits"
 date: 2019-12-24
 release_id: "14199596"
@@ -8,12 +8,11 @@ slug: "the-greatest-hits-14199596"
 hideSummary: true
 cover:
     image: "the-greatest-hits-14199596.jpg"
-    alt: "The Greatest Hits by Thunder (3)"
-    caption: "The Greatest Hits by Thunder (3)"
+    alt: "The Greatest Hits by Thunder"
+    caption: "The Greatest Hits by Thunder"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Dirty Love (5:22)
 2. Love Walked In (6:22)
@@ -43,21 +42,20 @@ styles: ["Hard Rock"]
 26. Future Train (2019 Version) (6:08)
 27. Low Life In High Places (2019 Version) (5:45)
 28. Your Time Is Gonna Come (4:26)
+## Spotify
+{{< spotify type="album" id="1MryaOV5bOLLZPIqMGnfwR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}
 - [Thunder - Everybody Wants Her (Official Video)](https://www.youtube.com/watch?v=rrISpBSWN30)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Thunder (3) - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |
+| Discogs Link   | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |
 | Label          | BMG |
 | Format         | 3xLP, Comp, Ltd |
 | Catalog Number | BMGCAT386TLP |
 
 ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music.
-

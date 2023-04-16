@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Radio Waves (4:58)
 2. Who Needs Information (5:45)
@@ -23,6 +22,8 @@ styles: ["Alternative Rock", "Classic Rock"]
 6. Home (6:37)
 7. Four Minutes (4:40)
 8. The Tide Is Turning (After Live Aid) (5:44)
+## Spotify
+{{< spotify type="album" id="7ID0EuIjKxSNFw6dqOWDmo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TSbKF4vBd4o" title="The Powers That Be | Roger Waters | Radio KAOS | 1987 Columbia LP" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock", "Classic Rock"]
 - [Roger Waters - Who Needs Information](https://www.youtube.com/watch?v=IXIyFM60uPg)
 - [Roger Waters   Radio K A O S   Video EP   FULL](https://www.youtube.com/watch?v=7gKTd3CN4ok)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Classic Rock"]
 | Catalog Number | 074 24 0783 1 |
 
 Disco destinado a promoción prohibida su venta. ℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987  © 1987 Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.  Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)  Made in Spain.
-

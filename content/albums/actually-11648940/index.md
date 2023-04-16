@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. One More Chance (5:28)
 2. What Have I Done To Deserve This? (4:21)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. I Want To Wake Up (5:08)
 9. Heart (3:57)
 10. King's Cross (5:09)
+## Spotify
+{{< spotify type="album" id="7ae4SfR2B1wEXX5EwS2Cg7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dRHetRTOD1Q" title="Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]" >}}
@@ -41,9 +42,7 @@ styles: ["Synth-pop"]
 - [Pet Shop Boys - Actually](https://www.youtube.com/watch?v=KV3ENOL1NUQ)
 - [Pet Shop Boys - 'Actually' TV advert](https://www.youtube.com/watch?v=XX8B_RFbaeU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -53,4 +52,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0190295832612 |
 
 ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Recorded in London at Sarm West and Advision Studios. Designed by Mark Farrow at ③ and Pet Shop Boys.  Comes with printed inner sleeve and white rectangular sticker on shrinkwrap: "Pet Shop Boys, actually. Pressed onto 180g heavyweight vinyl featuring brand new 2018 remaster of the original album 0190295832612"
-

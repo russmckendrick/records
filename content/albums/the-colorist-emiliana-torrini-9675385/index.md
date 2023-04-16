@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Caterpillar (4:42)
 2. Blood Red (5:20)
@@ -37,6 +36,8 @@ styles: ["Folk Rock"]
 20. Thinking Out Loud (4:14)
 21. Gun (6:34)
 22. Bleeder (5:21)
+## Spotify
+{{< spotify type="album" id="308EQ717rquoukYqREg2uC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-8R2-s5pMI0" title="The Colorist & Emiliana Torrini - Speed Of Dark" >}}
@@ -45,9 +46,7 @@ styles: ["Folk Rock"]
 - [Today Has Been OK](https://www.youtube.com/watch?v=GfmLjtSbpQc)
 - [Serenade](https://www.youtube.com/watch?v=VAv_vqYPRBA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -57,4 +56,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 883870081610, RTRADLP816, RTRADCD816 |
 
 Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect. A printed inner sleeve is also included.  Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched 
-

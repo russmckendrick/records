@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 ---
-
 ## Tracklisting
 1. Fraction Too Much Friction (4:14)
 2. Made My Day (3:23)
@@ -25,6 +24,8 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 8. I Only Want To Know (4:02)
 9. Growing Pains (3:01)
 10. Through The Years (3:48)
+## Spotify
+{{< spotify type="album" id="1kvvgAbvJMTuYeYmEd7Xsy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oyVGUQguaic" title="Tim Finn - Through The Years (1983)" >}}
@@ -32,9 +33,7 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 - [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
 - [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1983 |
@@ -44,4 +43,3 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 | Catalog Number | RML 53104 |
 
 Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION. 
-

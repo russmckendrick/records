@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Rock", "Experimental"]
 ---
-
 ## Tracklisting
 1. Intro (1:37)
 2. Grey Tickles, Black Pressure (5:30)
@@ -49,6 +48,8 @@ styles: ["Indie Rock", "Experimental"]
 32. Drug (3:53)
 33. Geraldine (6:23)
 34. No More Tangles (6:18)
+## Spotify
+{{< spotify type="album" id="5NIK2GM7XYSX5a6OUC5B0S" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-0QsMQZf1q4" title="John Grant - Grey Tickles, Black Pressure (Album Trailer)" >}}
@@ -58,9 +59,7 @@ styles: ["Indie Rock", "Experimental"]
 - [John Grant - Voodoo Doll (Official Music Video)](https://www.youtube.com/watch?v=rOIZbYaVWSg)
 - [John Grant - Grey Tickles, Black Pressure (Full Album)](https://www.youtube.com/watch?v=5yOYx2qsIUg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -70,4 +69,3 @@ styles: ["Indie Rock", "Experimental"]
 | Catalog Number | BELLA505V, BELLA505VRT, BELLA514CD |
 
 Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.  Limited to 500 copies. Rough Trade European exclusive.
-

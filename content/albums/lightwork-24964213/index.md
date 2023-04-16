@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Lightwork
 2. Moonpeople
@@ -80,6 +79,8 @@ styles: ["Progressive Metal", "Prog Rock"]
 63. Heavy Burden (Commentary Track)
 64. Vacation (Commentary Track)
 65. Children Of God (Commentary Track)
+## Spotify
+{{< spotify type="album" id="6qjb8ZypDxCCIZUKYwjYlL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8t_QBTKrTXU" title="Equinox" >}}
@@ -89,9 +90,7 @@ styles: ["Progressive Metal", "Prog Rock"]
 - [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
 - [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -99,6 +98,5 @@ styles: ["Progressive Metal", "Prog Rock"]
 | Label          | Inside Out Music, Sony Music, HevyDevy Records |
 | Format         | Box, Dlx, Ltd + 2xLP, Album, Ora + LP, Album, Ora  |
 | Catalog Number | IOM624, 19658724451 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Love Will Work It Out
 2. Witchoo
@@ -25,6 +24,8 @@ styles: ["Soul"]
 8. Sexy Thang
 9. Sea Of Love
 10. I Can See
+## Spotify
+{{< spotify type="album" id="3nZHH9trTO9xrV1XrW18cW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Soul"]
 - [Durand Jones & The Indications - Private Space (Full Album) 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
 - [Sexy Thang](https://www.youtube.com/watch?v=hs2RSEg9fyE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -49,4 +48,3 @@ styles: ["Soul"]
 | Catalog Number | DOC227LP-C1, DOC227 |
 
 Hype sticker : "Limited Edition Red Nebula Vinyl Includes digital download"
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Let Them All Talk (3:05)
 2. Everyday I Write The Book (3:54)
@@ -28,6 +27,8 @@ styles: ["New Wave", "Pop Rock"]
 11. King Of Thieves (3:45)
 12. Pills And Soap (3:42)
 13. The World And His Wife (3:25)
+## Spotify
+{{< spotify type="album" id="0jo7K3IkLusU2dbYLvQIOs" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7hoQMyATFqk" title="Elvis Costello And The Attractions - Shipbuilding" >}}
@@ -46,9 +47,7 @@ styles: ["New Wave", "Pop Rock"]
 - [The World And His Wife](https://www.youtube.com/watch?v=c4wgrLmdVaI)
 - [Love Went Mad](https://www.youtube.com/watch?v=-U1Cn-wnpis)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1983 |
@@ -58,4 +57,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | XXLP 19 |
 
 Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.  Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)  [Publishers] Plangent Visions Music Ltd. except "Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.  [Rear sleeve]: ℗ & © 1983 F-Beat Records. Marketed and distributed by RCA Ltd. Record Division.  [Labels]: ℗ 1983 Riviera Global Records Productions Ltd.  © 1983 F-Beat Records Ltd.  Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all.
-

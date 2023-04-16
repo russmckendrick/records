@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Ambient", "Post Rock"]
 ---
-
 ## Tracklisting
 1. The Unanswered Question
 2. BWV 659 Arr. Busoni Nun Komm Den Heiden Heiland
@@ -71,9 +70,7 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 - [Golijov: Tenebrae - 2.](https://www.youtube.com/watch?v=kZhro4uKyg8)
 - [Wasserklavier](https://www.youtube.com/watch?v=yIfIUyj6eDc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -83,4 +80,3 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 | Catalog Number | rtbtc1lpx |
 
 This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor". The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version. There is a download code for 2 mixes [total time 120:22] The LP has 27 tracks The "Download Mix" has 33 tracks  3 panel sleeve.  
-

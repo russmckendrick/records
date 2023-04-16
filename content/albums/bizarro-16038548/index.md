@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Brassneck
 2. Crushed
@@ -25,6 +24,8 @@ styles: ["Indie Rock"]
 8. Bewitched
 9. Take Me!
 10. Be Honest
+## Spotify
+{{< spotify type="album" id="3tp8pJWiuLPiwxZ1URt1OP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BTHl_JYqWpE" title="What Have I Said Now?" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [Be Honest](https://www.youtube.com/watch?v=HfNduoq-Gz8)
 - [No](https://www.youtube.com/watch?v=Rww6zqqTh7A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 19439793371 |
 
 One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green. Outer sleeve is a paler shade and has a different font, notably to the artist name. Band official website states that David Gedge was not consulted whilst this reissue was being put together. Download voucher included.  On both runouts, the geometric plating marks are mirrored.
-

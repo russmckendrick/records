@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
-
 ## Tracklisting
 1. Knowledge (1:40)
 2. Sound System (2:14)
@@ -40,9 +39,7 @@ styles: ["Ska", "Punk"]
 - [Bankshot (2007 Remaster)](https://www.youtube.com/watch?v=v3arEYZxrzI)
 - [Room Without a Window (2007 Remaster)](https://www.youtube.com/watch?v=8gW1ha3UsmI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -52,4 +49,3 @@ styles: ["Ska", "Punk"]
 | Catalog Number | 86893-1 |
 
 Recorded at Sound And Vision in San Francisco. Mixed at Dancing Dog in E-Ville. Mastered by John Golden at K-Disc, Hollywood.  Insert contains band info, lyrics, photos & artwork.
-

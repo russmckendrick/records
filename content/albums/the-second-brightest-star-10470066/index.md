@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. The Second Brightest Star
 2. Haymaking
@@ -26,6 +25,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Brooklands Sequence
 10. London Plane Sequence
 11. The Gentlemen's Reprise
+## Spotify
+{{< spotify type="album" id="0vrHQhDASQKq7sr4wGaj73" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1FeatR8ZXy8" title="Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Terra Australis Incognita](https://www.youtube.com/watch?v=T4gWzO7aRpA)
 - [Big Big Train - London Plane Sequence](https://www.youtube.com/watch?v=z3SS27wGjq0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | PLG056 |
 
 Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements.
-

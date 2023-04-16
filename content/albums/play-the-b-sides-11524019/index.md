@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Downtempo", "Leftfield"]
 ---
-
 ## Tracklisting
 1. Flower (3:26)
 2. Sunday (5:03)
@@ -30,9 +29,7 @@ styles: ["Breakbeat", "Downtempo", "Leftfield"]
 ## Videos
 {{< youtube id="jkCM0mVKQic" title="Moby ▶ Play–The B Sides…(2000) Full Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,4 +39,3 @@ styles: ["Breakbeat", "Downtempo", "Leftfield"]
 | Catalog Number | IDIOT062LP2 |
 
 Limited to 1000 copies.  Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music   Track durations not listed on the release.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Let England Shake
 2. The Last Living Rose
@@ -27,15 +26,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Hanging In The Wire
 11. Written On The Forehead
 12. The Colour Of The Earth
+## Spotify
+{{< spotify type="album" id="2f8Rfpdol5jrJe3OL4YH6k" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fOV9e5eufMU" title="PJ Harvey - Let England Shake" >}}
 - [PJ Harvey - The Glorious Land](https://www.youtube.com/watch?v=YBtOWXNPQ_w)
 - [PJ Harvey - On Battleship Hill](https://www.youtube.com/watch?v=VO63vb1S7Cw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 2758997 |
 
 Made in Dorset, April - May 2010. Mixed at Assault & Battery.  Published by Hot Head Music Ltd./EMI Music Publishing Ltd. except: Track A1 Xylophone Melody adapted from the song 'Istanbul (Not Constantinople)'. Track A3 contains elements from 'The Bed's Too Big Without You' by The Police; also includes a sample of 'Regimental March' bugle call. Track A4 contains elements from 'Summertime Blues'. Track B1 contains a sample of 'Kassem Miro'. Track B5 contains a sample of 'Blood & Fire'. Tracks A5 & B6 inspired by the writings of L.A. Carlyon & the words of Vic Nicholson in 'Voices Of Gallipoli' by Maurice Shadbolt. Tracks A3 & B2 are inspired in part by extracts from 'Russian Folk Lyrics', edited and translated by Roberta Reeder, with an Introductory Essay by V. Ja. Propp.  ℗2010 Universal Island Records Ltd. ©2010 Universal Island Records Ltd. A Universal Music Company.  Made in the EU  Pressing plant and cutting facility/engineer derived from matrix.  Runouts are machine-etched, only "JONZ LOUDº¯" is hand-etched.
-

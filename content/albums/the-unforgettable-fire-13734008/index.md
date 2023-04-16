@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. A Sort Of Homecoming
 2. Pride (In The Name Of Love)
@@ -25,11 +24,11 @@ styles: ["Alternative Rock", "Art Rock"]
 8. Indian Summer Sky
 9. Elvis Presley And America
 10. MLK
-
+## Spotify
+{{< spotify type="album" id="3FFosIE1A9HGRrinKTcBQ3" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -39,4 +38,3 @@ styles: ["Alternative Rock", "Art Rock"]
 | Catalog Number | 1792416 |
 
 35th Anniversary Colour stated as "wine" on release. Includes 16 page booklet with lyrics  Exclusive retailers in multiple territories:  UK - HMV Australia - JB HiFi Canada - Sunrise Records France - FNAC US - [l1052727]
-

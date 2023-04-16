@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Get Back (3:13)
 2. All Hail Me (3:05)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Victrola (2:18)
 11. Twinstar (3:16)
 12. 25 (7:56)
+## Spotify
+{{< spotify type="album" id="5Mjt2iha5C99JBqTjJijg9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0uyWZEkfXrg" title="Get Back" >}}
@@ -43,9 +44,7 @@ styles: ["Alternative Rock"]
 - [25](https://www.youtube.com/watch?v=ZdN5FiO8NPE)
 - [Sleeping Where I Want](https://www.youtube.com/watch?v=MMs86-JbM54)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
@@ -55,4 +54,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | FLATLP 9 |
 
 Made in England.
-

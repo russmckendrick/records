@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Song For Whoever (6:10)
 2. Have You Ever Been Away? (5:40)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Oh Blackpool (3:06)
 9. Love Is ... (7:00)
 10. I Love You (But You're Boring) (4:30)
+## Spotify
+{{< spotify type="album" id="0YcVvB5MOlk3QLH5wcNpn4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J-q_gAM1BXQ" title="The Beautiful South - Song For Whoever" >}}
@@ -41,9 +42,7 @@ styles: ["Pop Rock"]
 - [Love Is...](https://www.youtube.com/watch?v=nzHU2pCUA0c)
 - [The Beautiful South - I Love You (But You're Boring)](https://www.youtube.com/watch?v=LhXRAHepS7Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -53,4 +52,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 5743901 |
 
 Comes with a download card. Matte sleeve. Picture/lyric inner sleeve. Package came shrink-wrapped.  Though labeled as ‚2017 Edition‘ it was released in January 2018.  Made in the EU Universal International Music B.V.
-

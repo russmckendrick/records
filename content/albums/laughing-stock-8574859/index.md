@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Myrrhman
 2. Ascension Day
@@ -21,13 +20,13 @@ styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 4. Taphead
 5. New Grass
 6. Runeii
+## Spotify
+{{< spotify type="album" id="3NEa40lY9rNpSIALSIKn79" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YzHf__Lc418" title="LaughingStock (1991) *Vinyl Rip*" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -37,4 +36,3 @@ styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 | Catalog Number | 00600753655191 |
 
 Released with a black and white printed card inner with lyrics. "Includes a voucher to download MP3 version of the album. 180 gram heavyweight vinyl"  Recorded at Wessex Studios London Sept 1990 - April 1991  ℗ 1991 Polydor Ltd (UK) © 2015 Polydor Ltd (UK) Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.  Sticker on shrink : "Made in Netherlands"
-

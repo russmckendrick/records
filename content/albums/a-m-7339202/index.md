@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Country Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. I Must Be High (2:59)
 2. Casino Queen (2:45)
@@ -28,6 +27,8 @@ styles: ["Country Rock", "Indie Rock"]
 11. Dash 7 (3:29)
 12. Blue Eyed Soul (4:05)
 13. Too Far Apart (3:44)
+## Spotify
+{{< spotify type="album" id="12aTus909nMpNQd3sSyX9S" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Fw730Mvz8o8" title="Wilco - I Must Be High (Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Country Rock", "Indie Rock"]
 - [Should've Been in Love](https://www.youtube.com/watch?v=_pZcXzviD3U)
 - [Passenger Side](https://www.youtube.com/watch?v=wZtGlbrFMyc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -49,4 +48,3 @@ styles: ["Country Rock", "Indie Rock"]
 | Catalog Number | 518084-1, 547896-1 |
 
 20th anniversary edition issued with gatefold cover; full-colour, one-sided 12"x12" art print; and 4-page, full-size, black & white lyrics/credits/photos insert.  Recorded at Easley Recording, Memphis, TN Mixed by Richard Dodd at Masterphonics and Emerald Studios, Nashville, TN Mixed by Brian Paulson at Battery Studios, Nashville Radio courtesy of Robert G. Tweedy  Thanks to Tony Margherita, Bob Andrews, Bob & Jo Tweedy, Sue Miller, $ Bill and Helen Johnston, Stephanie Dominguez, Don & Sue Coomer, Ruth Nichols, Avery Stirratt, Jennifer Allen, Richard Dodd, Paul Heck at Red Hot, Doug Schoemer, Fork's Drum Closet in Nashville, Gravity Strings in St. Louis, Doug and Davis at Easley Recording, Michael Praytor, Daniel Herbst, Jenni George, Frank Riley, Josh Grier, Joe McEwen, Molly Reve-Morrison, Deb Bernardini, Bill Bentley and Peter Standish. Very special thanks to Jay Bennett.  Nonesuch Records, a Warner Music Group company.  ℗ 2009 & © 2015 Nonesuch Records for the United States and WEA International Inc. for the world outside of the United States.  Durations are not printed on the packaging.
-

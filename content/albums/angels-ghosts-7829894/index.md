@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. Shine
 2. You Owe Me
@@ -29,9 +28,7 @@ styles: null
 {{< youtube id="MP38Z1QfkYw" title="Dave Gahan, Soulsavers - Shine (Official Video)" >}}
 - [Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)](https://www.youtube.com/watch?v=2k11RlYp51I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -41,4 +38,3 @@ styles: null
 | Catalog Number | 88875136551 |
 
 Includes digital download code, valid until 10/24/16. Printed inner sleeve with lyrics.  © & ℗ 2015 Venusnote Ltd. under exclusive license to Columbia Records, a Division of Sony Music Entertainment / COLUMBIA is the exclusive trademark of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH.  Made in the EU.  All songs © 2015 EMI Blackwood Music Inc. o/b/o JJSR Productions Inc. (BMI) / Mute Song (BMI).  Mixed at The Strongroom. Mastered at Abbey Road. All lead vocals recorded at Blanco Studio (New York, NY). Recorded at Sunset Sound - Electric Lady - Real World - Famous Times - The Mouse House - Blanco - Black Lodge - Casa G - Talk Back
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Pigs On The Wing 1 (1:25)
 2. Dogs (17:06)
@@ -61,13 +60,13 @@ styles: ["Prog Rock"]
 44. Pigs (Three Different Ones) (11:26)
 45. Sheep (10:18)
 46. Pigs On The Wing 2 (1:34)
+## Spotify
+{{< spotify type="album" id="0Unhg884FzoZhVWyrMvtAG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="D4KQae9oMWs" title="Pink Floyd - Animals (Full Album) 1977" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -77,4 +76,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PFR28D, 0190295599577 |
 
 Original UK release date: January 1977.  Box set with 32-page book. Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front  Blu-Ray Audio Mixes: 2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA  DVD Audio Mixes: 2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM) 2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps. 1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)  Made in The Netherlands on back of box. CD made in Germany Blu-ray and DVD made in Japan
-

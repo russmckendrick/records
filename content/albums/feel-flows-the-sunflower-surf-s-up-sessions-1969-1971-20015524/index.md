@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Sunflower - Original Album
 2. Slip On Through (2:19)
@@ -55,16 +54,13 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 38. 'Til I Die (A Capella) (2:11)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)](https://www.discogs.com/release/20015524-The-Beach-Boys-Feel-Flows-The-Sunflower-Surfs-Up-Sessions-1969-1971) |
-| Label          | Capitol Records, Brother Records (3), Universal Music Group |
+| Label          | Capitol Records, Brother Records, Universal Music Group |
 | Format         | Comp + LP, Album, Comp, RE + LP, Album, Comp, RE |
 | Catalog Number | 00602508802102 |
 
 Made in the EU.  Gatefold sleeve including 4-page booklet 
-

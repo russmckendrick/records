@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Sound Ranging
 2. Silence / After The Fact
@@ -34,6 +33,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 17. Only In A Man's World
 18. Money Is A Memory
 19. An Independent State
+## Spotify
+{{< spotify type="album" id="4SUJnf00X2rb0QilvO6f9w" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-2tpEGNFuvU" title="A Change of Heir" >}}
@@ -48,9 +49,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
 - [Nikon, Pt. 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -60,4 +59,3 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Catalog Number | MI0569LPX |
 
 Limited Edition Translucent Red 180g Vinyl. Gatefold Sleeve. Includes Download Coupon.  
-

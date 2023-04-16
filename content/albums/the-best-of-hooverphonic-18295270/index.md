@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Europop", "Downtempo"]
 ---
-
 ## Tracklisting
 1. You
 2. Badaboum
@@ -48,15 +47,15 @@ styles: ["Europop", "Downtempo"]
 31. You Hurt Me
 32. Dirty Lenses
 33. Expedition Impossible
+## Spotify
+{{< spotify type="album" id="0InAk7mftm3eHWY3sLZoBX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_QbnmV90tko" title="Hooverphonic - Sometimes" >}}
 - [Hooverphonic - 2 Wicky (Official Video)](https://www.youtube.com/watch?v=dppcuKJrqbE)
 - [Hooverphonic - You (Still Video)](https://www.youtube.com/watch?v=wplXFoN_RQg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -66,4 +65,3 @@ styles: ["Europop", "Downtempo"]
 | Catalog Number | MOVLP2638 |
 
 180gr audiophile vinyl 
-

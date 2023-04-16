@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
-
 ## Tracklisting
 1. Warsaw
 2. Leaders Of Men
@@ -34,6 +33,8 @@ styles: ["Post-Punk", "New Wave"]
 17. As You Said
 18. These Days
 19. Love Will Tear Us Apart (Pennine Version)
+## Spotify
+{{< spotify type="album" id="2KPhpTUihx9KRWRwBtpTeJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gtSFtvXgeRk" title="Warsaw (2010 Remaster)" >}}
@@ -54,9 +55,7 @@ styles: ["Post-Punk", "New Wave"]
 - [Komakino (2010 Remaster)](https://www.youtube.com/watch?v=4DbnkkyhPnI)
 - [These Days (2010 Remaster)](https://www.youtube.com/watch?v=6g_b0xr9rZs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -66,4 +65,3 @@ styles: ["Post-Punk", "New Wave"]
 | Catalog Number | Fact250R |
 
 Back cover: "A Factory Record ℗ & © 2015 Warner Records 90 Limited" ([r11569139] has "A Factory Record. This Reissue ℗ & © 2015 Warner Records 90 Limited. All Rights Reserved. R1 183937")
-

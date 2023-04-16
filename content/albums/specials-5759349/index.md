@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. A Message To You Rudy
 2. Do The Dog
@@ -29,6 +28,8 @@ styles: ["Ska"]
 12. Too Much Too Young
 13. Little Bitch
 14. You're Wondering Now
+## Spotify
+{{< spotify type="album" id="2OHPxPTasGkolt8lFDxCpE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0eWzrqHYmZs" title="The Specials   FULL ALBUM" >}}
@@ -42,9 +43,7 @@ styles: ["Ska"]
 - [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
 - [The Specials - Stupid Marriage](https://www.youtube.com/watch?v=YM7oBFi0oN8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -54,4 +53,3 @@ styles: ["Ska"]
 | Catalog Number | CDL TTX 5001, 825646336050 |
 
 Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Nine Acre Court (3:45)
 2. Feeling Holy (5:16)
@@ -28,6 +27,8 @@ styles: ["Britpop", "Indie Rock"]
 11. No Fiction (3:39)
 12. See It Through (4:07)
 13. Thank You (3:35)
+## Spotify
+{{< spotify type="album" id="3w929DsUH49KkQ8FNLo2wE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ogFE4t2eyqw" title="THE CHARLATANS - Bullet comes" >}}
@@ -38,9 +39,7 @@ styles: ["Britpop", "Indie Rock"]
 - [The Charlatans - Feeling Holy](https://www.youtube.com/watch?v=-mSwij3eShM)
 - [The Charlatans - Nine Acre Court](https://www.youtube.com/watch?v=uT5DUezAaRw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: ["Britpop", "Indie Rock"]
 | Catalog Number | BBL 174 LP2 |
 
 Gatefold sleeve.    nb: Secondary barcode sticker not on most copies.  For mispressing featuring Gary Numan see "[r=20732044]".
-

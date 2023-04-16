@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Out To Get You (4:27)
 2. Sometimes (Lester Piggott) (5:08)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Laid (2:36)
 12. Lullaby (3:48)
 13. Skindiving (5:42)
+## Spotify
+{{< spotify type="album" id="5pALyxshOPc8LLKggzNvQe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rZ_ePY2CjRw" title="James - Out to get you" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [James - Laid (Version 2)](https://www.youtube.com/watch?v=g_qZ5B-yioU)
 - [James - Laid (Version 3) [Official Video]](https://www.youtube.com/watch?v=0trh9Y598fM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 0602547096401 |
 
 Sleeves with lyrics, photos, credits, art etc Contains voucher for MP3 download 180 Gram Heavyweight Vinyl Made in the EU
-

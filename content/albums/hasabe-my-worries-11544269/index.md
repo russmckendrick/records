@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Folk, World, & Country"]
 styles: ["African"]
 ---
-
 ## Tracklisting
 1. Hasabe (My Worries) (3:56)
 2. Gedawo (The Hero) (4:00)
@@ -43,9 +42,7 @@ styles: ["African"]
 - [Yesew Neger (Amazed by Humanity)](https://www.youtube.com/watch?v=7mPX4v98cRw)
 - [Ambasel (Ambasel)](https://www.youtube.com/watch?v=u3zVeqlYkgI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -55,4 +52,3 @@ styles: ["African"]
 | Catalog Number | NA 5164 |
 
 Sticker: Ayalew Mesfin and the Black Lion Band Unheard Ethio-Groove From Addis Ababa First Time Issued On LP Extensive Booklet Details The Rise Of Modern Ethiopian Music and Ayalew Mesfin's Story Never Before Published Photos  Includes artwork and cocktail inserts.  (P)(C) 2018 Now-Again Records.  Remastered [...] at Elysian Masters, Los Angeles. Licensed courtesy Ayalew Mesfin. Special thanks to Helen Asfaw Dubale and Danny Mekonnen.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Tell Me (2:47)
 2. Not Fade Away (1:48)
@@ -40,11 +39,11 @@ styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 23. Bye Bye Johnnie (2:08)
 24. I Can't Be Satisfied (3:24)
 25. Long Long While (3:14)
-
+## Spotify
+{{< spotify type="album" id="58P2QxVBxqTLc3GIgoWTbz" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +53,3 @@ styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 | Catalog Number | 2058-1 |
 
 OBI strip Exclusive Limited Edition 2 x 180 Gram Glow in the Dark Vinyl Litographs on Archivial Paper Original Gatefold Art  Limited to 7200 copies  Record Store Day 2022 Release  ℗ 2016-2020 © 1987 [l282302]  Runouts are stamped, except for "#2058-1" on sides A, B,C and "7120601-D-RE1SELECTION #2058-1 RECORD # 2PS - 62617" on side D which are all etched.
-

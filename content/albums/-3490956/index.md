@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Industrial"]
 ---
-
 ## Tracklisting
 1. N.W.O. (5:29)
 2. Just One Fix (5:11)
@@ -30,16 +29,13 @@ styles: ["Industrial"]
 - [Ministry - Just One Fix (Official Music Video)](https://www.youtube.com/watch?v=XYYGKCanqfA)
 - [New World Order by Ministry](https://www.youtube.com/watch?v=HWelpY0O0jc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
 | Discogs Link   | [Ministry - ΚΕΦΑΛΗΞΘ](https://www.discogs.com/release/3490956-Ministry-%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%97%CE%9E%CE%98) |
-| Label          | Sire, Rhino Records (2) |
+| Label          | Sire, Rhino Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | 8122-79760-1 |
 
 © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. ℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. Manufactured in the EU Made in the E.U.  Issued with a printed inner sleeve with credits.  Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference.
-

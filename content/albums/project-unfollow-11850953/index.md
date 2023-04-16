@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Poison Ivy
 2. Backseat
@@ -26,9 +25,7 @@ styles: null
 - [OTG ft. Little Simz - the Book](https://www.youtube.com/watch?v=-nGDiJtC6fo)
 - [Tilla - Know Yourself](https://www.youtube.com/watch?v=rtdcxbxaLyI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -38,4 +35,3 @@ styles: null
 | Catalog Number | VMP-033 |
 
 For the BMW X2 "Project Unfollow" Campaign. Gatefold cover, includes an insert. Originally limited to 7000 but an unknown amount of extras beyond 7000 were pressed
-

@@ -13,17 +13,16 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Atmosphere
 2. She's Lost Control
+## Spotify
+{{< spotify type="album" id="5bXAysvuhQbyWllgYuahwt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4e5uU1YNQlQ" title="JOY DIVISION - Atmosphere (Factory / 1980) FULL 12" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -33,4 +32,3 @@ styles: ["New Wave", "Post-Punk"]
 | Catalog Number | FACUS2, FACUS 2/UK |
 
 For unknown reasons, and unlike the other three 2020 remasters, design-wise this reproduces neither the first ever ([August 1980, US](https://www.discogs.com/de/Joy-Division-Shes-Lost-Control-Atmosphere/release/387754)), nor the first European ([October 1980 ,UK](https://www.discogs.com/de/Joy-Division-Atmosphere/release/29007)) but the third, ([November 1980, UK](https://www.discogs.com/de/Joy-Division-Atmosphere/release/1763122)) pressing
-

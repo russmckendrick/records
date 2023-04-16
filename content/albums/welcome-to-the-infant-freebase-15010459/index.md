@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Mantra Slider
 2. Firmament Vacation (A Soundtrack Of Our Lives)
@@ -41,9 +40,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [The Soundtrack Of Our Lives - Instant Repeater '99](https://www.youtube.com/watch?v=_iBLe6o4a8U)
 - [The Soundtrack of Our Lives - Bendover Babies](https://www.youtube.com/watch?v=cSP1cwPLy7M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -53,4 +50,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | MOVLP2645 |
 
 Music On Vinyl THE SOUNDTRACK OF OUR LIVES ”Welcome to The Infant Freebase” Limited Edition of 1500 Gold Coloured Copies” Individually numbered Includes Insert 180 gram audiophile vinyl  Gatefold sleeve.
-

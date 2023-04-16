@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Sallisaw Blue
 2. Old Wounds
@@ -26,6 +25,8 @@ styles: ["Folk Rock"]
 9. Slow Down Easy
 10. It Don't Suit Me (Like Before)
 11. Latchkey Kid
+## Spotify
+{{< spotify type="album" id="4mPaLhuZ8kBeUab4oTAXyE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bfkXnZ65jS8" title="John Moreland - Sallisaw Blue (Official Audio)" >}}
@@ -40,9 +41,7 @@ styles: ["Folk Rock"]
 - [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
 - [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -52,4 +51,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 4AD0007LP |
 
 Includes download card.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Elvis Impersonator: Blackpool Pier (3:28)
 2. A Design For Life (4:17)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. Interiors (Song For Willem De Kooning) (4:18)
 11. Further Away (3:39)
 12. No Surface All Feeling (4:31)
+## Spotify
+{{< spotify type="album" id="3jvKfPU4A2j7tVOFkhcEi2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KBYUqYPy0tU" title="Manic Street Preachers - Everything Must Go" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 - [Manic Street Preachers - A Design For Life](https://www.youtube.com/watch?v=zSIs1YmBQaY)
 - [Manic Street Preachers - Australia](https://www.youtube.com/watch?v=FAb6KGxm58U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 | Catalog Number | 88985317831 |
 
 Initial copies were exclusive to HMV. Heavyweight vinyl. The whole release run was limited to 1000 copies.  Cut by Chris Blair - Abbey Road, London. All songs recorded Autumn 95 - Winter 96.  All tracks mixed at Chateau De La Rouge Motte except  A2, B7, B11 mixed at Abbey Road, London, B9 Battery Studios, London  and B12 Swanyard Recording Studios, London. All tracks recorded at Chateau De La Rouge Motte, France except  B12 recorded at The Big Noise Recorders, Cardiff and House In The Woods  and B7 recorded at Real World Studios, Wiltshire.  Love to Philip and Richey. Thanks to Martin and Rob.  ℗ & © 2016 Sony Music Entertainment UK Limited.
-

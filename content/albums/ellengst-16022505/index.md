@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. House Of Fools
 2. Lost
@@ -23,13 +22,13 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 6. (-)
 7. The Invisible Past
 8. She's In Parties
+## Spotify
+{{< spotify type="album" id="1cJS5A69PL7RmfkrVn106W" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NSHkQICpeng" title="Crippled Black Phoenix - Ellengæst (Full Album) 2020" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -39,4 +38,3 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 | Catalog Number | SOM 574LP, SOM574LPCD |
 
 Plastic Head Distribution excl. edition on purple double vinyl strictly limited to 300 copies worldwide
-

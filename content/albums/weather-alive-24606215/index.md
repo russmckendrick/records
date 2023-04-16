@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ethereal"]
 ---
-
 ## Tracklisting
 1. Weather Alive
 2. Friday Night
@@ -23,6 +22,8 @@ styles: ["Ethereal"]
 6. Lonely
 7. Arms Around A Memory
 8. Unwritten
+## Spotify
+{{< spotify type="album" id="4LukTKZB3A6mp2jaed8x64" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JkSBgl8278E" title="Beth Orton - Weather Alive (Official Music Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Ethereal"]
 - [Beth Orton - Haunted Satellite (Official Audio)](https://www.youtube.com/watch?v=MKcqTKkVWl4)
 - [Beth Orton - Unwritten (Official Audio)](https://www.youtube.com/watch?v=tF0JFAgP0NI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -44,4 +43,3 @@ styles: ["Ethereal"]
 | Catalog Number | PTKF3023-3 |
 
 hype sticker with Catalog No. PTKF3023-3 Inner sleeve printed with Lyrics Made in Germany a limited number of copies were available with a signed print
-

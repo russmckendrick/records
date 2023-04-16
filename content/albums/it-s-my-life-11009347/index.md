@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Dum Dum Girl
 2. Such A Shame
@@ -24,6 +23,8 @@ styles: ["Synth-pop"]
 7. Call In The Night Boy
 8. Does Caroline Know?
 9. It's You
+## Spotify
+{{< spotify type="album" id="152Hw6E0tNz3EQNq9c1CDf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cFH5JgyZK1I" title="Talk Talk - It's My Life ( Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Synth-pop"]
 - [Does Caroline Know? (1997 Remaster)](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
 - [It's You (1997 Remaster)](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0190295792619 |
 
 Inner sleeve in glossy paper.  Published by: Universal/Island Music Ltd. except: A1/A4: Universal/Island Music Ltd./Imagem London Ltd. B2: Universal/Island Music Ltd./DWB Music Ltd.
-

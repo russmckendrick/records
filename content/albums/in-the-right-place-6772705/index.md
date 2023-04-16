@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Bayou Funk", "Soul", "Funk"]
 ---
-
 ## Tracklisting
 1. Right Place Wrong Time (2:50)
 2. Same Old Same Old (2:39)
@@ -26,6 +25,8 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 9. Shoo Fly Marches On (3:15)
 10. I Been Hoodood (3:12)
 11. Cold Cold Cold (2:37)
+## Spotify
+{{< spotify type="album" id="1b1ljTXAkcugOLAHkIi7Eq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xdyNV9VhzF4" title="D̰r̰.̰J̰o̰h̰n̰-In The ̰R̰ḭg̰h̰t̰ Place Full Album 1973" >}}
@@ -42,9 +43,7 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 - [I Been Hoodood](https://www.youtube.com/watch?v=8abnes8TpW8)
 - [Cold Cold Cold (Single)](https://www.youtube.com/watch?v=lO8RbsTX8Sg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -54,4 +53,3 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 | Catalog Number | 0349791111 |
 
 Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine, like the original 1973 cover.
-

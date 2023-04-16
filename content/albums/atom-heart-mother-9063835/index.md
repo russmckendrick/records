@@ -13,18 +13,17 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Atom Heart Mother
 2. If
 3. Summer '68
 4. Fat Old Sun
 5. Alan's Psychedelic Breakfast
-
+## Spotify
+{{< spotify type="album" id="2cUpAOlQjV5uSjkWj5bEQY" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -34,4 +33,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | PFRLP5, 0190295997083 |
 
 The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1970 Made in the E.U. www.pinkfloyd.com  The US release can be found [here](http://www.discogs.com/release/9093776)  Issued in gatefold sleeve with generic non-printed inner sleeve. Hype sticker contains extended information about production (see images). Matrix/Runout variant 3 version has also glossy inner pages like the outside, whereas matrix/runout variant 1 has the more matte inner pages.
-

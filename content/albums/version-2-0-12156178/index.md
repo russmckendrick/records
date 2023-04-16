@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Temptation Waits
 2. I Think I'm Paranoid
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Sleep Together
 11. Wicked Ways
 12. You Look So Fine
+## Spotify
+{{< spotify type="album" id="3poVlFX7lPm5Q7XKsOGEwk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TQ2Y6VNTQCo" title="Temptation Waits - Garbage" >}}
@@ -47,9 +48,7 @@ styles: ["Alternative Rock"]
 - [Garbage - 05. Special](https://www.youtube.com/watch?v=ZpA92rthzAo)
 - [Garbage - When I Grow Up](https://www.youtube.com/watch?v=Je-CPZRwbh8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -59,4 +58,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | STNVOL030V |
 
 Download card gives access to MP3 (320kbps) files.  ℗ © 2018 Garbage Unlimited, LLC D/B/A Stunvolume Made in the EU   "Push It" contains an interpolation of "Don't Worry Baby" written by Brian Wilson and Roger Christian. Published by Irving Music, Inc. (BMI) and Careers-BMG Music Publishing, Inc (BMI) [US] and Irving Music, Inc (BMI) [worldwide excluding US]. Also contains an interpolation of "Push It" written by Herbie Azor. Published by WB Music Corp (ASCAP).  Includes samples from the AMG Sample CD's Underfire Vols 1 & 2 by Terminalhead. Garbage gratefully acknowledges the contribution of portions of the following sample CD's, to the making of this record, whose samples or loops, if utilized or incorporated herein, appear under license from the respective owners of the sound samples: X-Static Goldmine 2 from E-Lab AB, Tekno / Industrial from East / West, and Pitbull Jungle Loops from Universal Sons.  This album was recorded on a 48-track Digidesign Pro Tools system run on an Apple 9500 / 200 Power Mac and two 24 track Studer A-827 2" analog tape machines.  20th anniversary design by Ryan Corey at Smog Design.  Runouts are entirely etched, with the exception of ᴍᴀsᴛᴇʀᴅɪsᴋ, which is stamped. Side D's '2Λ' is mirrored (See 'Notes on vinyl records' on [l313190] page). The final '1' of Side D's 'BI14021-01' is heavily etched over a lighter '2'.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
-
 ## Tracklisting
 1. Hurts So Good (3:35)
 2. Jack & Diane (4:16)
@@ -24,6 +23,8 @@ styles: ["Southern Rock"]
 7. China Girl (3:32)
 8. Close Enough (3:37)
 9. Weakest Moments (4:07)
+## Spotify
+{{< spotify type="album" id="4gouGcdQn9OvjX42xnWrF0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="g_9rnnkRX0g" title="Hurts So Good" >}}
@@ -37,16 +38,13 @@ styles: ["Southern Rock"]
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)
 - [American Fool (Bonus Track)](https://www.youtube.com/watch?v=-IIXpzlaMlw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [John Cougar Mellencamp - American Fool](https://www.discogs.com/release/8668868-John-Cougar-American-Fool) |
-| Label          | Riva (2) |
+| Label          | Riva |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | RVL 7501 |
-
 
 

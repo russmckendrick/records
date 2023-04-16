@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Leon Takes Us Outside (1:24)
 2. Outside (4:04)
@@ -34,11 +33,11 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 17. Thru' These Architects Eyes (4:20)
 18. Segue - Nathan Adler (Version #2) (0:28)
 19. Strangers When We Meet (5:07)
-
+## Spotify
+{{< spotify type="album" id="0pUursvGUAgcDiEqYlnZ0q" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,4 +47,3 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 | Catalog Number | FRM-40711, 88875045311 |
 
  Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover  Identical to 2015 Reissue, [r7810564], but on different colored vinyl.
-

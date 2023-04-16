@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Tell Me Why (2:57)
 2. After The Gold Rush (3:46)
@@ -28,9 +27,7 @@ styles: ["Folk Rock", "Country Rock"]
 11. Cripple Creek Ferry (1:34)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -40,4 +37,3 @@ styles: ["Folk Rock", "Country Rock"]
 | Catalog Number | 517936-1, 1-517936 (K1) |
 
 Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.  Originally released in 1970.  ©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  ©℗2009 Reprise Records, a Warner Music Group Company Manufactured in Germany
-

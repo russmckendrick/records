@@ -13,19 +13,18 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Modern Classical", "Prog Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Tubular Bells (Part One) (25:00)
 2. Tubular Bells (Part Two) (23:50)
+## Spotify
+{{< spotify type="album" id="0a3YQpBnRzJzNktOjb6Dum" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KXatvzWAzLU" title="Mike Oldfield 'Tubular Bells' Live at the BBC 1973 (HQ remastered)" >}}
 - [Tubular Bells (Pt. I)](https://www.youtube.com/watch?v=BfWJqKIxyGc)
 - [Tubular Bells (Pt. II)](https://www.youtube.com/watch?v=oehz0YN18jo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -35,4 +34,3 @@ styles: ["Folk Rock", "Modern Classical", "Prog Rock", "Classic Rock"]
 | Catalog Number | V2001 |
 
 4th UK pressing, 1975 with beige/faun/tan labels. Some copies came with a black polythene lined inner bag with the Virgin Records logo.
-

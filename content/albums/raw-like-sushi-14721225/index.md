@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contemporary R&B", "New Jack Swing"]
 ---
-
 ## Tracklisting
 1. Buffalo Stance
 2. Manchild
@@ -25,6 +24,8 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 8. Phoney Ladies
 9. Outré Risqué Locomotive
 10. So Here I Come
+## Spotify
+{{< spotify type="album" id="2AyJzvREOnlnYhaBzF1Kxp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JWsRz3TJDEY" title="Neneh Cherry - Buffalo Stance (Official Music Video)" >}}
@@ -63,9 +64,7 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 - [Buffalo Stance (Kevin Saunderson's Techno Stance Remix I)](https://www.youtube.com/watch?v=9bYybYxvoSo)
 - [Buffalo Stance (Arthur Baker's 1/2 Way 2 House Mix)](https://www.youtube.com/watch?v=rfUac28PaeI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -75,4 +74,3 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 | Catalog Number | 0813320 , 006025 0813320 6 |
 
 30th Anniversary Remastered Edition. Includes download code.
-

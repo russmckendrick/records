@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Love Is Alright Tonite (3:28)
 2. Jessie's Girl (3:14)
@@ -25,6 +24,8 @@ styles: null
 8. Daddy's Pearl (2:37)
 9. Red Hot & Blue Love (2:57)
 10. Inside Silvia (4:43)
+## Spotify
+{{< spotify type="album" id="4KKFWTePKtgb6mOwFDqxYa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yWEzf-mska4" title="Rick Springfield - Love Is Alright Tonite" >}}
@@ -34,9 +35,7 @@ styles: null
 - [Rick Springfield - I've Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)
 - [Rick Springfield, Everybody's Girl](https://www.youtube.com/watch?v=YV_O-_LAQj8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +45,3 @@ styles: null
 | Catalog Number | MOVLP1655 |
 
 180 gram audiophile vinyl Includes insert Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl
-

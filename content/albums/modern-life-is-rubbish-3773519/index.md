@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. For Tomorrow (4:18)
 2. Advert (3:43)
@@ -31,11 +30,11 @@ styles: ["Britpop", "Indie Rock"]
 14. Turn It Up (3:21)
 15. Resigned (5:13)
 16. Commercial Break (0:56)
-
+## Spotify
+{{< spotify type="album" id="2gu1tAkUSoe5zTJNM0qU3g" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -45,4 +44,3 @@ styles: ["Britpop", "Indie Rock"]
 | Catalog Number | FOODLPX9, 5099962483919 |
 
 Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3  Each LP comes in a printed inner sleeve. Tracks are numbered sequentially on release. Sticker on shrinkwrap
-

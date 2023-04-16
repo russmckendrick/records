@@ -13,16 +13,13 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. 21st Century Schizoid Man
 2. Light Of Day
 3. Hellhounds Of Krim
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -32,4 +29,3 @@ styles: ["Prog Rock"]
 | Catalog Number | DGMP121 |
 
 Track A: recorded live at the Warfield Theatre, San Francisco, October 4th, 2014. Track B1: recorded live at the Moore Theatre, Seattle, October 6th, 2014. Track B2: recorded live at the Orpheum Theatre, Los Angeles, September 30th, 2014.
-

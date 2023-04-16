@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Folk", "Indie Pop"]
 ---
-
 ## Tracklisting
 1. The Stars Of Track And Field
 2. Seeing Other People
@@ -25,6 +24,8 @@ styles: ["Acoustic", "Folk", "Indie Pop"]
 8. Mayfly
 9. The Boy Done Wrong Again
 10. Judy And The Dream Of Horses
+## Spotify
+{{< spotify type="album" id="0cR6FGQSOUDEwwapI7yfQZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}
@@ -32,9 +33,7 @@ styles: ["Acoustic", "Folk", "Indie Pop"]
 - [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -44,4 +43,3 @@ styles: ["Acoustic", "Folk", "Indie Pop"]
 | Catalog Number | JPRLP001RED |
 
 (P) & (C) 1996 Jeepster Recordings Ltd. Made in the EU.  Some copies bought from the B&S official store came signed by Sarah, Stuart, Stevie, Richard and Chris.
-

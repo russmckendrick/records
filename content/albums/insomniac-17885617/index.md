@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Punk"]
 ---
-
 ## Tracklisting
 1. Armatage Shanks
 2. Brat
@@ -38,11 +37,11 @@ styles: ["Pop Punk"]
 21. Jaded
 22. Walking Contradiction
 23. 86
-
+## Spotify
+{{< spotify type="album" id="7d3nOmFvL51roNElAdpi9d" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +51,3 @@ styles: ["Pop Punk"]
 | Catalog Number | 093624884576 |
 
 This release has center labels which indicate "Made in Czech Republic." For the release with center labels which indicate "Made in Canada," use [r21660517].  Packaged in rainbow foil cover Side C is a live recording from Prague in 1996. Etching of album cover on side D.  Reprise Records, A Warner Music Group Company.  777 S. Santa Fe Ave. Los Angeles, CA 90021; 1633 Broadway, New York, NY 10019-6708. © 2021 Reprise Records. ℗ 2016, 2020 Reprise Records. Made in Czech Republic.  Runouts are etched and stamped.
-

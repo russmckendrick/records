@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Soundtrack", "Ambient"]
 ---
-
 ## Tracklisting
 1. Vortex
 2. Obsidian 
@@ -24,13 +23,13 @@ styles: ["Soundtrack", "Ambient"]
 7. Wraith
 8. Purgatory
 9. Night
+## Spotify
+{{< spotify type="album" id="0RvpicJFMbX7pNWFG6MCe9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EDqLQ7PgvY8" title="John Carpenter's -  Lost Themes (Full Vinyl Rip)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -40,4 +39,3 @@ styles: ["Soundtrack", "Ambient"]
 | Catalog Number | SBR123 |
 
 © 2014 Sacred Bones Records ℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music  "Obsidian Green" vinyl pressing  Limited to 500 copies worldwide  Comes in a gatefold sleeve with liner notes insert and download code.  NO catalog number on the cover
-

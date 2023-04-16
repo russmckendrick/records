@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Rich And Strange (3:39)
 2. Easy (2:45)
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Soul Food (2:55)
 11. Once Again (5:07)
 12. No Smoking (3:29)
+## Spotify
+{{< spotify type="album" id="4CmyWfydUoXUlfpw0d0vkB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="D7ikmVbr8J8" title="CUD - Rich and Strange (1992)" >}}
@@ -34,9 +35,7 @@ styles: ["Indie Rock"]
 - [CUD - Beyond Hair](https://www.youtube.com/watch?v=FYJUxY4Pa7Q)
 - [Cud - Spanish Love Song](https://www.youtube.com/watch?v=hC2vQwuvr5o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 395 390-1 |
 
 A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".  Issued in a 'flipback' outer sleeve and a printed inner sleeve.  Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92. Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.  ℗ 1992 A&M Records Ltd. London © 1992 A&M Records Ltd. London  Made in England.
-

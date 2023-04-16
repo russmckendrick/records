@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. I Feel Possessed
 2. Kill Eye
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Sister Madly
 9. In The Lowlands
 10. Better Be Home Soon
+## Spotify
+{{< spotify type="album" id="7t38G4SGphJox2lCAAZo2m" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FhhB4ztWFbQ" title="Crowded House - I Feel Possessed" >}}
@@ -38,9 +39,7 @@ styles: ["Pop Rock"]
 - [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 - [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 4788024 |
 
 Includes a voucher for MP3 download of the tracks included in the [deluxe edition](https://www.discogs.com/Crowded-House-Temple-Of-Low-Men/release/9318485) of this reissue. Made in the Chech Republic
-

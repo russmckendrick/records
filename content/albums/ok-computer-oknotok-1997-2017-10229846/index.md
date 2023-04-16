@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. ip
 2. Airbag
@@ -44,11 +43,11 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 27. Pearly*
 28. Palo Alto
 29. How I Made My Millions
-
+## Spotify
+{{< spotify type="album" id="0tzfI6NFJqcJkWb23R3lRZ" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -58,4 +57,3 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 | Catalog Number | XLLP868X, XLLP868 |
 
 Originally advertised as being "Limited to 7,000 copies". Unconfirmed 10,000 copies pressed due to pre-order demand. Indie record stores exclusive.  Triple-sleeve gatefold jacket with colour printed inner sleeves. Three 180 gram blue coloured 12" vinyl records containing the original twelve track album,  three unreleased tracks and eight B-sides, all newly remastered from the original analogue tapes.  Includes a download code card (for MP3 or WAV formats).  Different barcodes on the cover and shrink.  XLLP868  appears on the back of the gatefold. XLLP868X appears on a sticker on the shrink wrap on the back of the gatefold.  ℗ 1997-2017 The copyright in this sound recording is owned by XL Recordings Limited. © 1997-2017 XL Recordings Limited.  Printed in E.U. Made in the E.U.
-

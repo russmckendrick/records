@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ---
-
 ## Tracklisting
 1. You, Appearing
 2. Kim & Jessie
@@ -26,6 +25,8 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 9. Too Late
 10. Dark Moves Of Love
 11. Midnight Souls Still Remain
+## Spotify
+{{< spotify type="album" id="4HshNHpHWtmaw8sDrOXNuE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sWsUNbdc5IM" title="M83 'We Own The Sky' Official video" >}}
@@ -37,9 +38,7 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 - [M83 - Too Late (audio)](https://www.youtube.com/watch?v=JEEOuF1zfNQ)
 - [M83 - Graveyard Girl](https://www.youtube.com/watch?v=gY8iy8S0S4w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -49,4 +48,3 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 | Catalog Number | NV833361 |
 
 ℗ 2008 M83 Recording Inc. © 2015 M83 Recording Inc. Made in France.  Ken Thomas is represented by Air Management Ewan Pearson is represented by Howie Martinez and Ian Clifford Artwork Design by Louise Downer at Blue Ink Creative  Tracks are listed sequentially as they show on the backside of the record's jacket and center labels.
-

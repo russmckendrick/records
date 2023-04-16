@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Heartlow
 2. The Revolution Of Super Visions
@@ -25,6 +24,8 @@ styles: null
 8. All The Things You Do
 9. Pyramid Schemes
 10. Solarised
+## Spotify
+{{< spotify type="album" id="5akulaga7LWVPkHIqCHEgD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: null
 - [Pyramid Schemes](https://www.youtube.com/watch?v=AWVt8c4ju40)
 - [Solarised](https://www.youtube.com/watch?v=IOMq26ygSAQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: null
 | Catalog Number | FIRELP544 |
 
 Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown).
-

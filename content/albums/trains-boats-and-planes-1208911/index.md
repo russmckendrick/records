@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. This Is Not A Song (3:31)
 2. Walter's Trip (2:57)
@@ -26,6 +25,8 @@ styles: null
 9. Bake Us A Song (3:42)
 10. Time (3:24)
 11. High Is Low (2:43)
+## Spotify
+{{< spotify type="album" id="4NKM2cooUqnyICpeslOehd" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4gKKL_jw5WI" title="This Is Not A Song" >}}
@@ -40,9 +41,7 @@ styles: null
 - [Time](https://www.youtube.com/watch?v=FlLw-_KNNRM)
 - [High Is Low](https://www.youtube.com/watch?v=CCoDbxjRgfg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -52,4 +51,3 @@ styles: null
 | Catalog Number | 828-369-1 |
 
 Comes in a gatefold cover with a printed inner sleeve.
-

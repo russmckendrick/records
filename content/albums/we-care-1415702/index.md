@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 ---
-
 ## Tracklisting
 1. Kickin' (3:47)
 2. That's Where It's At (4:15)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 11. Young Dumb N' Full Of Cum (5:14)
 12. I'm Cold (8:25)
 13. Born To Raise Hell (1:13)
+## Spotify
+{{< spotify type="album" id="3TgmBpNScivl2SxxEJkR4W" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2up7su7CeMU" title="Whale - Hobo Humpin Slobo Babe" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 - [Whale - I'm Cold.wmv](https://www.youtube.com/watch?v=P0CCPs5FFAc)
 - [Whale - We Care (1995)](https://www.youtube.com/watch?v=_qhaJRpOtSY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1995 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 | Catalog Number | 7243 8 40560 1 8, HUTLP 25 |
 
  Foil cover with die-cut black inner sleeves.  Made in England (on labels) Printed in UK (sticker)  
-

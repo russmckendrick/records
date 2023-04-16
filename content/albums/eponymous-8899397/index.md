@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Early
 2. Radio Free Europe (Original Hib-Tone Single) (3:47)
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 12. The One I Love (3:17)
 13. Finest Worksong (Mutual Drum Horn Mix) (3:49)
 14. It's The End Of The World As We Know It (And I Feel Fine) (4:07)
+## Spotify
+{{< spotify type="album" id="28P1bPGxr7aJ0Vx3qCm2jH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="okCDUzPeFIE" title="Radio Free Europe" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [Finest Worksong](https://www.youtube.com/watch?v=M48pQDUKYVE)
 - [It's The End Of The World As We Know It (And I Feel Fine)](https://www.youtube.com/watch?v=8OyBtMPqpNY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Catalog Number | 00602547899828 |
 
 Includes voucher to download MP3 version of the album.  
-

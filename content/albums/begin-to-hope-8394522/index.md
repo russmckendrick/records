@@ -13,7 +13,6 @@ cover:
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Fidelity (3:47)
 2. Better (3:22)
@@ -37,6 +36,8 @@ styles: ["Indie Pop"]
 20. Bartender (3:12)
 21. Baby Jesus (2:43)
 22. Better (Radio Recut) (3:12)
+## Spotify
+{{< spotify type="album" id="0ssMZRCnobXKQXjQ2R5A5a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tHAhnJbGy9M" title="Regina Spektor - On The Radio [Official Music Video]" >}}
@@ -46,9 +47,7 @@ styles: ["Indie Pop"]
 - [Regina Spektor - Samson [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
 - [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -58,4 +57,3 @@ styles: ["Indie Pop"]
 | Catalog Number | 553891-1 |
 
 10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies.
-

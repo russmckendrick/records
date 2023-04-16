@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. I'm Free (4:00)
 2. Mother Universe (3:42)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Kiss The Gun (2:30)
 10. Love You To Death (2:40)
 11. Beauty Freak (3:05)
+## Spotify
+{{< spotify type="album" id="6Q5U6UHrFKiz7Ovg97pMlQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-4wDQoLFF9U" title="Backwards Dog (Remastered)" >}}
@@ -41,9 +42,7 @@ styles: ["Indie Rock"]
 - [Crotch Deep Trash (Remastered)](https://www.youtube.com/watch?v=pa3gLC2UiJI)
 - [Soup Dragons - I'm Free](https://www.youtube.com/watch?v=ZVGf3ePIO04)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -53,4 +52,3 @@ styles: ["Indie Rock"]
 | Catalog Number | SOUP LP2R, 842985-1 |
 
 Reissue added "I'm Free" in place of "From Heaven And Back" & "Man".  "From sweeteness comes forth strength"  All tracks published by Big Life Music / Soup Music except A1 published by Westminster Music Ltd. All titles ℗ & © 1990 Big Life Records except A1 ℗ & © 1989 Big Life Records. Made in England.
-

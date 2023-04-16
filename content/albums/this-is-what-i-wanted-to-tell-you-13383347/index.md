@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 ---
-
 ## Tracklisting
 1. The New Isn't So You Anymore (5:19)
 2. Crosswords, Or What This Says About You (6:47)
@@ -23,14 +22,14 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 6. The December-ish You (6:20)
 7. This Is What I Wanted To Tell You (6:45)
 8. Flower (2:38)
+## Spotify
+{{< spotify type="album" id="5qAJbMh6zmjSgZy7BW34Ja" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="u8NxdNERUGc" title="Lambchop - Everything For You (Official Video)" >}}
 - [Lambchop - 'Crosswords, or What This Says About You' (Official Video)](https://www.youtube.com/watch?v=xPERKl54QBY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +39,3 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 | Catalog Number | SLANG50197LP |
 
 Limited 180g White Vinyl. Comes in a die cut sleeve. Includes a fold out insert with lyrics and credits. An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner.
-

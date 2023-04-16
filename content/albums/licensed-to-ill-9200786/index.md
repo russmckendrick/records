@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Rhymin & Stealin (4:08)
 2. The New Style (4:35)
@@ -28,6 +27,8 @@ styles: null
 11. Brass Monkey (2:38)
 12. Slow And Low (3:37)
 13. Time To Get Ill (3:37)
+## Spotify
+{{< spotify type="album" id="11oR0ZuqB3ucZwb5TGbZxb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eBShN8qT4lk" title="Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)" >}}
@@ -36,16 +37,13 @@ styles: null
 - [Beastie Boys - Time To Get Ill](https://www.youtube.com/watch?v=yFTG1_5VKcU)
 - [Beastie Boys - She's Crafty (Official Music Video)](https://www.youtube.com/watch?v=erD0nCFA75g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Beastie Boys - Licensed To Ill](https://www.discogs.com/release/9200786-Beastie-Boys-Licensed-To-Ill) |
 | Label          | Def Jam Recordings |
 | Format         | LP, Album, RE, 180 |
-| Catalog Number | 06025 478 207-5 (4) |
+| Catalog Number | 06025 478 207-5 |
 
 30th anniversary reissue  Made in the EU.  No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.  Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped.
-

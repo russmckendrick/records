@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Healer (3:40)
 2. Pulse (3:07)
@@ -24,11 +23,11 @@ styles: ["Art Rock", "Synth-pop"]
 7. Healing Part I (7:28)
 8. Healing Part II (7:52)
 9. Healing Part III (4:40)
-
+## Spotify
+{{< spotify type="album" id="28Y7qITdIQ1c6B0m8RNNkJ" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -36,6 +35,5 @@ styles: ["Art Rock", "Synth-pop"]
 | Label          | Bearsville, Avatar Record & Screenworks Ltd |
 | Format         | LP, Album |
 | Catalog Number | BHS 3522, AALP 3522 |
-
 
 

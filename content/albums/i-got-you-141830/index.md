@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. I Got You (3:24)
 2. Double Happy (3:15)
@@ -25,9 +24,7 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 - [Split Enz - Double Happy (1980)](https://www.youtube.com/watch?v=nsGblAyjmZM)
 - [Split Enz - I Got You](https://www.youtube.com/watch?v=xv6oOxn1axw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -37,4 +34,3 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 | Catalog Number | AMS 7546 |
 
 From the forthcoming A & M album [m=81214] AMLH 64822 A Boomerang production  Published by Modern Publishing Ltd./ATV Music Ltd. ℗ 1979 Mushroom Records Pty. Ltd.
-

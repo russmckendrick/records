@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Lust For Life
 2. Sixteen
@@ -24,6 +23,8 @@ styles: null
 7. Turn Blue
 8. Neighborhood Threat
 9. Fall In Love With Me
+## Spotify
+{{< spotify type="album" id="2jnV6ytZOmt71iEC5xHEYz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XPax7gTmgXA" title="Lust For Life" >}}
@@ -38,9 +39,7 @@ styles: null
 - [Iggy Pop - Lust For Life](https://www.youtube.com/watch?v=jQvUBf5l7Vw)
 - [Iggy Pop - The Passenger (Official Video)](https://www.youtube.com/watch?v=-fWw7FE9tTo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: null
 | Catalog Number | 00600753772454 |
 
 Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Album notes credit Vocals to "The Band". Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".  Made in the EU.
-

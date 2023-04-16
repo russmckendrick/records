@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Krautrock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Blackfield (4:06)
 2. Family Man (3:37)
@@ -30,13 +29,13 @@ styles: ["Krautrock", "Alternative Rock"]
 13. Faking (3:33)
 14. Dissolving With The Night (4:08)
 15. End Of The World (5:14)
+## Spotify
+{{< spotify type="album" id="55j4GzT3zf2HxUiVRqn3Nz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind (from Open Mind: The Best of Blackfield)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Krautrock", "Alternative Rock"]
 | Catalog Number | kscope 1016, KSCOPE980 |
 
 ℗ & © 2018 Snapper Music Ltd.  The catalog number kscope 1016 only appears on the sticker on the bag the release comes in.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Vocal"]
 ---
-
 ## Tracklisting
 1. Torn (4:04)
 2. One More Addiction (3:30)
@@ -27,6 +26,8 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 10. Wishing I Was There (3:52)
 11. City (4:33)
 12. Left Of The Middle (3:46)
+## Spotify
+{{< spotify type="album" id="38alWeQVP9UUAGJvLptys9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xSZBIs0gs0E" title="Natalie Imbruglia - Torn (Official Video) [HD Remastered]" >}}
@@ -53,9 +54,7 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 - [Natalie Imbruglia don't you think](https://www.youtube.com/watch?v=JTqHnW29iVI)
 - [Impressed](https://www.youtube.com/watch?v=fs3f3xCU4O4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -65,4 +64,3 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 | Catalog Number | 74321544411 |
 
  Includes four page booklet 25th anniversary release 180g  A  [version](https://www.discogs.com/release/25225081-Natalie-Imbruglia-Left-Of-The-Middle) including a signed booklet and with a different barcode was exclusively available as a pre-order from the artist's online store.
-

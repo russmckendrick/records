@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. All Roads Lead To You
 2. Forbidden Fruit
@@ -28,9 +27,7 @@ styles: ["Heavy Metal"]
 11. Some Kind Of Alien
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
@@ -40,4 +37,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | ESS LP 213 |
 
 'Classic Little Angels' Collectors Item 5000 Limited Edition  Runout is etched "Pressed by" is denoted in the runout
-

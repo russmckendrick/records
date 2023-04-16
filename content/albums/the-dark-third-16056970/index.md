@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Aeropause
 2. Goshen's Remains
@@ -48,6 +47,8 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 31. The Exact Colour (04:05)
 32. The Twyncyn / Trembling Willows (07:16)
 33. Golden Clothes (07:31)
+## Spotify
+{{< spotify type="album" id="4ijk02bZgFVyexq2bYzpL1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}
@@ -68,9 +69,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -80,4 +79,3 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 | Catalog Number | 19439793441 |
 
 Gatefold, strictly limited to 200 copies.
-

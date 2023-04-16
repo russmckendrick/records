@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
-
 ## Tracklisting
 1. Jealous Again
 2. Share The Ride
@@ -35,6 +34,8 @@ styles: ["Blues Rock", "Southern Rock"]
 18. Sister Luck
 19. She
 20. Bad Luck Blue Eyes Goodbye
+## Spotify
+{{< spotify type="album" id="6V5oOvWQrsiRM9gKEKTjOo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bS5MwHiLqOQ" title="Wiser Time" >}}
@@ -48,9 +49,7 @@ styles: ["Blues Rock", "Southern Rock"]
 - [Soul Singing](https://www.youtube.com/watch?v=olVG7oKsWEo)
 - [Ballad in Urgency](https://www.youtube.com/watch?v=sgfPKR5i9oc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -60,4 +59,3 @@ styles: ["Blues Rock", "Southern Rock"]
 | Catalog Number | SAR 03 LP |
 
 Hype Sticker: "10th Anniversary Edition Gold Vinyl" Gatefold pop-up sleeve. Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.  ℗ & © 2010 Silver Arrow Records, Inc.  Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release)
-

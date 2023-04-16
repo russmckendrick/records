@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Reggae", "Dub"]
 ---
-
 ## Tracklisting
 1. Airbag (5:00)
 2. Paranoid Android (6:27)
@@ -31,6 +30,8 @@ styles: ["Reggae", "Dub"]
 14. Exit Music (For A Dub) (4:38)
 15. Dub Is What You Get (Mad Professor/Joe Ariwa Mix) (4:34)
 16. Lucky Dub A (Mad Professor/Joe Ariwa Mix) (4:59)
+## Spotify
+{{< spotify type="album" id="775nfRVFPVu7WSsIju6ipJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wKIvYmlOS_o" title="Easy Star All Stars - Radiodread (Album Full)" >}}
@@ -48,9 +49,7 @@ styles: ["Reggae", "Dub"]
 - [Easy Star Allstars - Lucky](https://www.youtube.com/watch?v=SLXKbGI8G5s)
 - [Easy Star All Stars - The Tourist (featuring Israel Vibration)](https://www.youtube.com/watch?v=LdnsfrDXhiE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -60,4 +59,3 @@ styles: ["Reggae", "Dub"]
 | Catalog Number | ES-1055V |
 
 "A complete reggae version of [Radiohead's](http://www.discogs.com/artist/Radiohead) [OK Computer](http://www.discogs.com/release/83182)."  No samples from "[r83182]" (or anywhere else) were used in the recording of this album.  Recorded at Capture Sound (Brooklyn, NY), Mellow Stone Studios (Queens, NY), Estudio El Rocha (Sao Paulo, Brazil), Ultraband Studios (NYC), Obstacle Course Studios (Brooklyn, NY), Studio JMage (NYC), Circle House Studios (Miami, FL) & Electric Lady Studios (NYC).  Mixed at Estudio El Rocha (Sao Paulo, Brazil) except Side 2B tracks 1 & 2 Obstacle Course Studios (Brooklyn, NY) and  Side 2B tracks 3 & 4 Ariwa Studios (London, England)  Mastered for vinyl at VP Record Mastering (Queens, NY).  All songs published by Wanner Chappell Ltd. Lyrics to "Fitter Happier" adapted with permission by Radiohead.  © 2006 Easy Star Records. Manufactured and distributed by Easy Star Records. Made in the U.S.A. 
-

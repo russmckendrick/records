@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Seagull
 2. Kaleidoscope
@@ -23,6 +22,8 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 6. Decay
 7. Paralysed
 8. Vapour Trail
+## Spotify
+{{< spotify type="album" id="4fW7CblaSvdhPWmcCFgZbQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="APqGzOD0fUk" title="Ride - Taste (Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 - [Ride - Here And Now](https://www.youtube.com/watch?v=cqtN38_lK-Y)
 - [Ride - Nowhere](https://www.youtube.com/watch?v=NxGAC5inulE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | Catalog Number | webb572lp, WEBB572LP |
 
 'Original audio reworked and refined' Transparent Curacao blue coloured standard weight vinyl LP.  Gatefold sleeve, reverse board with embossed artwork. Download included.  Includes a double sided 12" x 12" artwork & photos insert.  webb573lp on sleeve WEBB573LP on hype sticker
-

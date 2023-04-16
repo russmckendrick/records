@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Cars (Demo Version 2)
 2. Films (Demo Version)
@@ -36,6 +35,8 @@ styles: ["New Wave", "Synth-pop"]
 19. Cars (BBC Peel Session)
 20. Films (BBC Peel Session)
 21. Conversation (BBC Peel Session)
+## Spotify
+{{< spotify type="album" id="5h5AK7SRFErq9V6h9T36Pz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="K83As_YKLac" title="Cars (Demo Version 2)" >}}
@@ -60,9 +61,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Films (BBC Peel Sessions)](https://www.youtube.com/watch?v=m4T0s5OhxiQ)
 - [Conversation (BBC Peel Sessions)](https://www.youtube.com/watch?v=NOE_Q0IEO0Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -72,4 +71,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | BBQ2158LP |
 
 40th Anniversary Edition.  Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks.   Orange vinyl. Cut out sleeve.   ℗ & © 2019 Beggars Banquet, The Arkive.  Side One / Two / Three Recorded at Freerange Recording Studios London. Side Four Recorded at BBC Maida Vale Studios London.  
-

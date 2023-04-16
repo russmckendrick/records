@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Boing Boom Tschak (2:58)
 2. Techno Pop (7:42)
@@ -22,13 +21,13 @@ styles: ["Electro", "Synth-pop"]
 5. House Phone (4:56)
 6. Sex Object (6:51)
 7. Electric Cafe (4:17)
+## Spotify
+{{< spotify type="album" id="2UmOMd1STQEn8wtMGAyA6f" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6U6mNAXtCOk" title="Kraftwerk - Electric Café 1986" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -38,4 +37,3 @@ styles: ["Electro", "Synth-pop"]
 | Catalog Number | 50999 9 66050 1 1, STUMM 308 |
 
 Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".  Released with 16 page 12"x12" booklet and illustrated inner sleeve.  Sleeve: Printed in Germany Labels: Made in the EU
-

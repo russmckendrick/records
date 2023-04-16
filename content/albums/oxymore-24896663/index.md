@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
-
 ## Tracklisting
 1. Agora (1:34)
 2. Oxymore (4:46)
@@ -26,6 +25,8 @@ styles: ["Techno"]
 9. Crystal Garden (4:09)
 10. Brutalism (4:41)
 11. Epica (5:25)
+## Spotify
+{{< spotify type="album" id="4xUil17gSLUP4ktGAcL6Nq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Jb-u4KeW7Zw" title="AGORA" >}}
@@ -51,9 +52,7 @@ styles: ["Techno"]
 - [Jean Michel Jarre - Oxymore CD Album 2022 Sony Music EU Unboxing](https://www.youtube.com/watch?v=nqiRXZq8-mo)
 - [Jean Michel Jarre - Oxymore 2xLP Album 2022 Sony Music Europe VINYL UNBOXING](https://www.youtube.com/watch?v=dgefMtRMuzM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -63,4 +62,3 @@ styles: ["Techno"]
 | Catalog Number | 19658746581 |
 
 Issued in a 6-panel trifold sleeve. Includes download link to binaural headphone version (in 24-Bit 48 kHz WAV) Originally comes with 2 stickers: Sticker 1: "Jean-Michel Jarre Oxymore Homage To Pierre Henry" Sticker 2 [french]: "An immersive music project + Accès à la version binaurale Double vinyle 180g, livret 32 pages _" Sticker 2 [english]: "An Immersive Music Project  + Access To Binaural Version!  2x180g Vinyl / 32 Page Booklet"  Homage To Pierre Henry [Back cover] ℗ & © 2022 Music Affair Entertainment Limited [Back cover] Made in the EU. [Back cover] Sounds of Pierre Henry courtesy of Pierre Henry Estate [Booklet] Dedicated to [a7209] and [a32181] [Booklet]
-

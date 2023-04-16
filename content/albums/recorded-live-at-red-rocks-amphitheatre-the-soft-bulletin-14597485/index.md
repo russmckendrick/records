@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Race For The Prize
 2. A Spoonful Weighs A Ton
@@ -31,9 +30,7 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ## Videos
 {{< youtube id="Ty0mYiJVzR4" title="The Flaming Lips - Race for the Prize (feat. The Colorado Symphony & André de Ridder)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -43,4 +40,3 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 | Catalog Number | BELLA882V |
 
 Recorded live at Red Rocks Amphitheatre May 26th, 2016  ©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias. Made in the EU.
-

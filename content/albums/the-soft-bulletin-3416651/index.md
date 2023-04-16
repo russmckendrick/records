@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Race For The Prize (4:09)
 2. A Spoonful Weighs A Ton (3:32)
@@ -28,6 +27,8 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 11. Slow Motion (3:53)
 12. Feeling Yourself Disintegrate (5:17)
 13. Sleeping On The Roof (3:09)
+## Spotify
+{{< spotify type="album" id="1mJFgPeuLhU1PzLNBURdJC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bs56ygZplQA" title="The Flaming Lips - Race For The Prize [Official Music Video]" >}}
@@ -39,9 +40,7 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 - [Feeling Yourself Disintegrate (2017 Remaster)](https://www.youtube.com/watch?v=XvvGYEjloOg)
 - [The Spark That Bled (2017 Remaster)](https://www.youtube.com/watch?v=ORdpLD9Meao)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -51,4 +50,3 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 | Catalog Number | 530199-1 |
 
 Manufactured in Germany.  The Soft Bulletin was recorded in Cassadaga, New York April 1997-February 1999  2011 Vinyl remastered by Chris Bellman at Bernie Grundman Mastering, Hollywood, CA  [r5234762] has a different Cat # on the labels than this release.
-

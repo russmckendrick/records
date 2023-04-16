@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Pride (In The Name Of Love) (3:46)
 2. Solid Rock (3:34)
@@ -49,9 +48,7 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 32. Space Oddity (3:44)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -61,4 +58,3 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 | Catalog Number | MQTV 1, 840 010-1 |
 
 Issued in gatefold sleeve.  Also available on: Cassette (MQTVC 1) CD (840 010-2)  The company name used on this release "PolyGram Records Inc. (New York)" refers to [l129352].
-

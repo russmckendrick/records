@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Smells Like Teen Spirit (5:00)
 2. In Bloom (4:13)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Grunge"]
 10. Stay Away (3:30)
 11. On A Plain (3:12)
 12. Something In The Way (3:43)
+## Spotify
+{{< spotify type="album" id="2guirTSEqLizK7j9i1MTTZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="L1lTdnFQZw4" title="Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)" >}}
@@ -48,9 +49,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Even In His Youth (B-Side)](https://www.youtube.com/watch?v=plBMcpRRrVw)
 - [Nirvana - Aneurysm](https://www.youtube.com/watch?v=y7TPnH5emFg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -60,4 +59,3 @@ styles: ["Alternative Rock", "Grunge"]
 | Catalog Number | 0720642442517 |
 
 Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU.
-

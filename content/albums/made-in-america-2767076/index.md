@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Soul Finger / Funky Broadway (2:05)
 2. Who's Making Love (3:34)
@@ -25,6 +24,8 @@ styles: ["Blues Rock", "Rhythm & Blues"]
 8. I Ain't Got You (2:45)
 9. From The Bottom (3:25)
 10. Going Back To Miami (4:01)
+## Spotify
+{{< spotify type="album" id="195FcFytL0rgbdCHOltD7a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JXIt_mj-IdE" title="The Blues Brothers   Made In America Full Album" >}}
@@ -39,9 +40,7 @@ styles: ["Blues Rock", "Rhythm & Blues"]
 - [Do You Love Me: Mother Popcorn (You Got to Have a Mother for Me)](https://www.youtube.com/watch?v=0sjEj5wVW-0)
 - [Who's Making Love](https://www.youtube.com/watch?v=WZ7U8ahPerc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -51,4 +50,3 @@ styles: ["Blues Rock", "Rhythm & Blues"]
 | Catalog Number | ATL 50 768 |
 
 German reissue with 3 rows of copyright rim text in German, French and English. No barcode.  ℗ © 1980 Atlantic Recording Corporation Made in Germany by WEA Musik GmbH  Track B1 misspelt "Green Onion" on center label B.
-

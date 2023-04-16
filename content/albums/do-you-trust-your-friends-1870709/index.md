@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Your Ex-Lover Is Dead (Final Fantasy)
 2. Set Yourself On Fire (Montag)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 11. Celebration Guns (Camouflage Nights With Kevin Drew)
 12. Soft Revolution (The Stills)
 13. Calendar Girl (Young Galaxy)
+## Spotify
+{{< spotify type="album" id="6YjZy9c9RBiouy4SK2kYqY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion (Stars Cover)" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 - [Your Ex-Lover Is Dead (Final Fantasy) - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
 - [Your Ex-Lover Is Dead by Stars (another version)](https://www.youtube.com/watch?v=x4cZyF2i5yw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 | Catalog Number | ACS-024 |
 
 "A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire".   © 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International.  Printed in Canada. 
-

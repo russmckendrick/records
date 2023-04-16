@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Jazz", "Funk / Soul"]
 styles: ["Funk", "Conscious"]
 ---
-
 ## Tracklisting
 1. Untitled 01 | 08.19.2014.
 2. Untitled 02 | 06.23.2014.
@@ -23,6 +22,8 @@ styles: ["Funk", "Conscious"]
 6. Untitled 06 | 06.30.2014.
 7. Untitled 07 | 2014 - 2016
 8. Untitled 08 | 09.06.2014.
+## Spotify
+{{< spotify type="album" id="0kL3TYRsSXnu0iJvFO3rud" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oIoZgIOgu3o" title="untitled 01 | 08.19.2014." >}}
@@ -34,9 +35,7 @@ styles: ["Funk", "Conscious"]
 - [untitled 07 | levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
 - [untitled 08 | 09.06.2014.](https://www.youtube.com/watch?v=JXikcHwPolM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -46,4 +45,3 @@ styles: ["Funk", "Conscious"]
 | Catalog Number | 00602547866813 |
 
 [Back cover & labels] ℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc. Made in the EU.
-

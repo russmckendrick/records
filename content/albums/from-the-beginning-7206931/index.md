@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Mod", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Runaway
 2. My Mind's Eye
@@ -29,6 +28,8 @@ styles: ["Mod", "Psychedelic Rock"]
 12. Sha La La La Lee
 13. You Really Got A Hold On Me
 14. What'cha Gonna Do About It
+## Spotify
+{{< spotify type="album" id="2v3ETGXR7oTvsZZiIp9JKp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="K4Gay7gZmRA" title="Small Faces ~ Baby Don't You Do It (Vinyl)" >}}
@@ -42,9 +43,7 @@ styles: ["Mod", "Psychedelic Rock"]
 - [[Tell Me] Have You Ever Seen Me](https://www.youtube.com/watch?v=e6KphiUD0-8)
 - [Small Faces-Whatcha Gonna Do About It](https://www.youtube.com/watch?v=Cec2HBgCkqk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -54,4 +53,3 @@ styles: ["Mod", "Psychedelic Rock"]
 | Catalog Number | 471 537-3, 0602547153739 |
 
 Includes a voucher to download an MP3 version of the album. 180 gram heavyweight vinyl.  © 1967, The Decca Record Company Limited, London. ℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd. Made in the EU.
-

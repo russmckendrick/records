@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Stage & Screen"]
 styles: ["Hip Hop", "Trap", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Stretch Your Face
 2. Systematic
@@ -30,6 +29,8 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 13. Problem Child
 14. Blown
 15. Walking On Sunshine
+## Spotify
+{{< spotify type="album" id="3ZoWd2dvTef0tPQ7S3V5c0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AohtHrfgiBo" title="Wu-Tang Clan - Don't Stop (Explicit) 2017" >}}
@@ -44,9 +45,7 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 - [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
 - [Stretch Your Face - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +55,3 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 | Catalog Number | MSAP 0043LP |
 
 Red Vinyl Pressing of Original Soundtrack  Poster insert and digital download card included.
-

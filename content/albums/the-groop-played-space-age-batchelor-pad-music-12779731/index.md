@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Krautrock", "Space Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Easy Listening
 2. Avant Garde M.O.R. (4:09)
@@ -36,9 +35,7 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 - [U.H.F. - M.F.P.](https://www.youtube.com/watch?v=bOndzPF8O8g)
 - [We're Not Adult Orientated (Neu Wave Live)](https://www.youtube.com/watch?v=pa3WPWxZ7GM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +45,3 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 | Catalog Number | PURE 19LP |
 
 This re-issue comes with an insert with notes about each song.   GZ-pressed release without the 'X' appended on the cat number on the back and the spine, no remastering credit listed on the back.
-

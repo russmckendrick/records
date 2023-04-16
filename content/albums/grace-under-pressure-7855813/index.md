@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Distant Early Warning
 2. Afterimage
@@ -23,18 +22,17 @@ styles: ["Prog Rock", "Hard Rock"]
 6. Kid Gloves
 7. Red Lenses
 8. Between The Wheels
-
+## Spotify
+{{< spotify type="album" id="20RfdO7fta9qlXEWTFSWuT" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Rush - Grace Under Pressure](https://www.discogs.com/release/7855813-Rush-Grace-Under-Pressure) |
-| Label          | Anthem (5), Mercury, Universal Music Group International |
+| Label          | Anthem, Mercury, Universal Music Group International |
 | Format         | LP, Album, RE, RM, 180 |
 | Catalog Number | 00602547118271 |
 
 Including a voucher to download an MP3 version of the album  Comes with 10x10 glossy lyric & credits insert  DMM (Direct Metal Mastering)  Made in the EU
-

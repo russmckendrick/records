@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Invisible Touch
 2. Tonight, Tonight, Tonight
@@ -23,6 +22,8 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 6. Domino
 7. Throwing It All Away
 8. The Brazilian
+## Spotify
+{{< spotify type="album" id="632b0oXuFpstA4DO2cUKdG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TlBIa8z_Mts" title="Genesis - Land Of Confusion (Official Music Video)" >}}
@@ -34,9 +35,7 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 - [Genesis - Tonight, Tonight, Tonight (Official Music Video)](https://www.youtube.com/watch?v=gvsaWu_dBqE)
 - [Genesis -  Tonight, Tonight, Tonight (Official Audio)](https://www.youtube.com/watch?v=bvsz_9pp3no)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -46,4 +45,3 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 | Catalog Number | GEN LP2 |
 
 Written, recorded and mixed at The Farm, Surrey, 85/86. Mastered at Masterdisc N.Y.C. Sleeve produced at Assorted Images. Track B2 'Domino' consists of two parts.  All tracks published by Anthony Banks Ltd / Philip Collins Ltd / Michael Rutherford Ltd / Hit and Run Music Publishing Ltd Virgin Records. (P) 1986 Charisma Records Ltd. (C) 1986 Charisma Records Ltd.  Manufactured in the UK. Glossy printed inner sleeve. Not embossed or textured. Single cat. no. followed by side indicator on label.  This version is almost identical to [r=10216464] but this has Masterdisk stamped in the matrices.  Runouts are Etched, except "MASTERDISK" Stamped.  Direct Metal Mastering.
-

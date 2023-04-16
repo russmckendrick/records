@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. A Bit Of Previous LP
 2. Young And Stupid
@@ -31,6 +30,8 @@ styles: ["Indie Pop"]
 14. A Bit Of Previous 7"
 15. A Bit Of Previous
 16. Sometimes
+## Spotify
+{{< spotify type="album" id="2VWqqmcIjjzdzayaawToIU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - Young and Stupid (Official Lyric Video)" >}}
@@ -48,9 +49,7 @@ styles: ["Indie Pop"]
 - [Sea of Sorrow](https://www.youtube.com/watch?v=J54Q0ZgDbGI)
 - [Working Boy in New York City](https://www.youtube.com/watch?v=pOOawVJjsEI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -60,4 +59,3 @@ styles: ["Indie Pop"]
 | Catalog Number | OLE1845LPE, OLE1850S |
 
 Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet
-

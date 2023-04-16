@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Dancing With Tears In My Eyes (4:09)
 2. Hymn (The Power And The Glory) (4:24)
@@ -29,6 +28,8 @@ styles: ["Synth-pop"]
 12. One Small Day (4:28)
 13. Love's Great Adventure (3:02)
 14. Lament (4:16)
+## Spotify
+{{< spotify type="album" id="3gMzGxXgstsEZEfjdsIwnM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZUguvYE9FuE" title="Ultravox - The Collection (Video, 1984)" >}}
@@ -44,9 +45,7 @@ styles: ["Synth-pop"]
 - [Ultravox - Vienna (Album And 12 Version) Music Video](https://www.youtube.com/watch?v=jnA4VYNj2Mw)
 - [Ultravox - Reap The Wild Wind Music Video](https://www.youtube.com/watch?v=JB_Ae_U1w2M)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -56,4 +55,3 @@ styles: ["Synth-pop"]
 | Catalog Number | UTV1 |
 
 Some copies include a printed inner sleeve that is same as the background on the outer sleeve.  Timings do not appear on the sleeve/label - Timings via stopwatch.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Rock! Rock! (Till You Drop) (3:53)
 2. Photograph (4:12)
@@ -25,6 +24,8 @@ styles: null
 8. Comin’ Under Fire (4:20)
 9. Action! Not Words (3:52)
 10. Billy’s Got A Gun (5:27)
+## Spotify
+{{< spotify type="album" id="5ab6RIlAGwbVAacV1JIr2d" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}
@@ -35,9 +36,7 @@ styles: null
 - [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)
 - [Too Late For Love -- Def Leppard .HD +Перевод](https://www.youtube.com/watch?v=F_3qbVA692c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -47,4 +46,3 @@ styles: null
 | Catalog Number | 5777362 |
 
 2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios.
-

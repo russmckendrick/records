@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Non-Music"]
 styles: ["Krautrock"]
 ---
-
 ## Tracklisting
 1. Inform-Educate-Entertain
 2. Spitfire
@@ -26,6 +25,8 @@ styles: ["Krautrock"]
 9. Lit Up
 10. Everest
 11. Late Night Final
+## Spotify
+{{< spotify type="album" id="1aSU7tVnGuKquY8yKCw1jm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5u8r7hbmLFc" title="Public Service Broadcasting - Inform/Educate/Entertain" >}}
@@ -36,9 +37,7 @@ styles: ["Krautrock"]
 - [PUBLIC SERVICE BROADCASTING - LIT UP](https://www.youtube.com/watch?v=dsP95AfBtkk)
 - [PUBLIC SERVICE BROADCASTING - EVEREST](https://www.youtube.com/watch?v=vhgfzEm3CWU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -48,4 +47,3 @@ styles: ["Krautrock"]
 | Catalog Number | TCRVA01 |
 
 Packaging: Gatefold Sleeve with full colour inner.  Printed notes: Free digital download included... coupon inside. ℗ & © Test Card Recordings, 2013. Under exclusive licence from Jacamar Ltd. Certain elements © BFI National Archive / COI and STUDIOCANAL Films Ltd. Mastered... at Safe And Sound Recordings  Spitfire contains samples from 'The First of The Few' (1942); Late Night Final contains samples from 'What A Life!' (1948) The above films are © BFI National Archive / COI and used with kind permission  Night Mail contains samples from the eponymous film, © Royal Mail Group 1936, used with kind permission of the BFI and the British Postal Museum & Archive  Everest contains samples from 'The Conquest of Everest' (1953), © STUDIOCANAL Film Ltd. Used with kind permission  Other tracks on the album contain samples from various public domain sources, with the majority coming from the fantastic Prelinger Archives. Many thanks to Rick Prelinger for curating and maintaining this fantastic resource. Used under the Creative Commons Public Domain Licence  
-

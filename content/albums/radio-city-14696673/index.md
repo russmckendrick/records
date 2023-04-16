@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
-
 ## Tracklisting
 1. O, My Soul (5:35)
 2. Life Is White (3:18)
@@ -27,6 +26,8 @@ styles: ["Power Pop"]
 10. September Gurls (2:46)
 11. Morpha Too (1:28)
 12. I'm In Love With A Girl (1:45)
+## Spotify
+{{< spotify type="album" id="3mtVgumHx6y9I2UvW4lUd5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="D8gCbjEdm8E" title="Big Star - O, My Soul from Radio City" >}}
@@ -41,16 +42,13 @@ styles: ["Power Pop"]
 - [Big Star - September Gurls from Radio City](https://www.youtube.com/watch?v=7kbYVZ8eR-o)
 - [Big Star - I'm In Love With A Girl from Radio City](https://www.youtube.com/watch?v=I0bWB56Tjok)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Big Star - Radio City](https://www.discogs.com/release/14696673-Big-Star-Radio-City) |
-| Label          | Ardent Records (2), Craft Recordings |
+| Label          | Ardent Records, Craft Recordings |
 | Format         | LP, Album, Mono, RE, 180 |
 | Catalog Number | ADS-1501, CR00212 |
 
 Red, black, and white hype sticker from Craft Recordings All-analog mastering Tip-on Sleeve A1 is mono.  All other tracks are stereo  From back cover: Photographs by Bill Eggleston/Cenotaph January 1974 ℗ 2019 & © 1973 Craft Recordings Made in U.S.A.  On label: All tracks published by Koala/Birdees (ASCAP)  Runout details: Variant 1 -- Both sides are etched. Variant 2 -- Stamped vs etched state not specified Variant 3 -- Both sides are etched. On side A '10#' has been scratched out
-

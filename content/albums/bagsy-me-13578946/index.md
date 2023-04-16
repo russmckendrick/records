@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Because (2:17)
 2. Friends (2:53)
@@ -32,9 +31,7 @@ styles: ["Indie Rock"]
 {{< youtube id="nU6Aqp9oUL0" title="The Wannadies - Combat Honey" >}}
 - [The Wannadies - That's All](https://www.youtube.com/watch?v=gOtFWWc_nFw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -44,4 +41,3 @@ styles: ["Indie Rock"]
 | Catalog Number | MOVLP2303 |
 
 Limited edition of 1,000 machine numbered copies.  180 gram audiophile turquoise vinyl. Includes 4 page booklet. Made in the EU.
-

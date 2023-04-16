@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Roll Over Lay Down (5:41)
 2. Claudie (4:00)
@@ -23,6 +22,8 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 6. Softer Ride (4:00)
 7. And It's Better Now (3:20)
 8. Forty-Five Hundred Times (9:50)
+## Spotify
+{{< spotify type="album" id="0LDQzaZoYOLpeMpsSa4m9t" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wZSdBoJGxsU" title="Status Quo - Roll Over Lay Down - HQ" >}}
@@ -31,9 +32,7 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 - [Status Quo - Claudie - HQ](https://www.youtube.com/watch?v=lQx7oYg445A)
 - [Status Quo - Caroline](https://www.youtube.com/watch?v=KAM6eeEKrxQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -41,6 +40,5 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723763 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Blues"]
 styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ---
-
 ## Tracklisting
 1. We Persuade Ourselves We Are Immortal (12:22)
 2. Hymortality (3:53)
@@ -27,9 +26,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 - [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -39,4 +36,3 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 | Catalog Number | LP TOT 79 |
 
 There is a second pressing, [r=18310498], which was available on pre-order through Bandcamp, released on 17th of February 2021. It is identical to this first batch except for the more greenish sleeve artwork whereas this first edition is more blueish.
-

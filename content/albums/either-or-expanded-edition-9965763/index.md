@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Speed Trials
 2. Alameda
@@ -53,9 +52,7 @@ styles: ["Indie Rock"]
 - [Elliott Smith - 2:45 AM (from Either/Or)](https://www.youtube.com/watch?v=FGKoJVXG98g)
 - [Elliott Smith - Say Yes (from Either/Or)](https://www.youtube.com/watch?v=8bxmk09lCzk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -65,4 +62,3 @@ styles: ["Indie Rock"]
 | Catalog Number | KRS620 |
 
 Black vinyl version.
-

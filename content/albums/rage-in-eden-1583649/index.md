@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Voice (5:53)
 2. We Stand Alone (5:30)
@@ -24,13 +23,13 @@ styles: ["New Wave", "Synth-pop"]
 7. Accent On Youth (4:40)
 8. The Ascent (2:00)
 9. Your Name (Has Slipped My Mind Again) (4:38)
+## Spotify
+{{< spotify type="album" id="5ueP8JeD2SeNSYzX7ybnPc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GnrDUCRB80A" title="ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -40,4 +39,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | CDL 1338 |
 
 This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.  "℗ © 1981 CHRYSALIS RECORDS LTD"  Durations not listed on this release. Timings via stopwatch.
-

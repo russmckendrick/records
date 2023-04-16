@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Cecilia Ann
 2. Rock Music
@@ -29,6 +28,8 @@ styles: ["Alternative Rock"]
 12. Hang Wire
 13. Stormy Weather
 14. Havalina
+## Spotify
+{{< spotify type="album" id="0BK1LxNNcaNUtAqTBQAOR8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nc0Mv4Iyxvc" title="Pixies - Velouria (Official Video)" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock"]
 - [Ana](https://www.youtube.com/watch?v=jYJG9g47J4Y)
 - [Rock Music](https://www.youtube.com/watch?v=vDVpJIidloc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 4AD 0265 LPX, 4AD0265LPX |
 
 30th Anniversary Limited Red Vinyl Edition includes Original Booklet.  The booklet previously only available in the UK release.
-

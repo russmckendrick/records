@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Seven Rays Of Colour (4:08)
 2. Pleading With The Cosmic Mother (3:29)
@@ -23,13 +22,13 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 6. Now's The Time (4:33)
 7. Last Words Of A Dying God (3:22)
 8. We Lost It Somewhere (5:22)
+## Spotify
+{{< spotify type="album" id="591Uoo7zsUUfecxVO8EE2V" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tmt-O6of2o4" title="Church of the Cosmic Skull - There Is No Time (Full Album 2022)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -39,4 +38,3 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 | Catalog Number | Septaphonic 6 |
 
 Side A ends in a lock-groove that repeats "nothing nothing nothing".  Vertical gatefold LP-style sleeve signed by all members with inner lyric sleeve. Limited to 500 copies. Comes with a certificate of authenticity authenticated by a band member when purchased directly from the band.
-

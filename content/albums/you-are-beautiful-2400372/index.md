@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. Funky Weekend (3:27)
 2. Jenny (3:46)
@@ -25,6 +24,8 @@ styles: ["Rhythm & Blues", "Soul"]
 8. To Save My Rock 'n' Roll Soul (3:01)
 9. If You Are There (3:21)
 10. We Just Can't Help It (3:31)
+## Spotify
+{{< spotify type="album" id="1uWlVlw1urB8jD15nj9Uyi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Jx70sfKwyZk" title="Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)" >}}
@@ -32,9 +33,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Stylistics -You Are Beautiful/ A3 That Don't Shake Me 3:15/Avco 1975](https://www.youtube.com/watch?v=za04lLFqchw)
 - [The Stylistics       You Are Beautiful](https://www.youtube.com/watch?v=yYuWLInzYCA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -42,6 +41,5 @@ styles: ["Rhythm & Blues", "Soul"]
 | Label          | Avco |
 | Format         | LP, Album |
 | Catalog Number | 9109 006 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. A New Day Yesterday (4:11)
 2. Jeffrey Goes To Leicester Square (2:13)
@@ -25,6 +24,8 @@ styles: ["Prog Rock", "Folk Rock"]
 8. We Used To Know (4:04)
 9. Reasons For Waiting (4:07)
 10. For A Thousand Mothers (4:19)
+## Spotify
+{{< spotify type="album" id="7kHvpj74cgrJuJ2K6E0mUm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wjjXkLExp5I" title="Jethro Tull, Stand Up, Acoustic sounds reissue, compared, reviewed." >}}
@@ -39,9 +40,7 @@ styles: ["Prog Rock", "Folk Rock"]
 - [Reasons For Waiting-Jethro Tull](https://www.youtube.com/watch?v=iybAyDFrhhI)
 - [For A Thousand Mothers-Jethro Tull](https://www.youtube.com/watch?v=E7M2Vxh5Lh8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +50,3 @@ styles: ["Prog Rock", "Folk Rock"]
 | Catalog Number | 0190295932855 |
 
 Housed in a gatefold jacket containing the LP in a white poly lined inner sleeve, a 24-page large format booklet and a download voucher for an MP3 version of the album. When the gatefold jacket is opened, a cut-out of the band pops up, similar to the old pop-up books.  [Sticker:] The Steven Wilson 2016 stereo remix on 180gm vinyl 0190295932855 [Vinyl Collector logo] Includes download code for MP3 version of the album www.facebook.com/vinylcollector  [Booklet p. 3:] Recorded on 8 track at Morgan Studios, London, 1969 except [A3 recorded at Olympic Sound Studio 1] Artwork [...] at Waldo's Design & Dream Emporium Photography by [...] and from the Chrysalis Archive.  [Rear sleeve:] ℗ & © 2016 Parlophone Records Ltd, a Warner Music Group Company. [...] Made in the E.U.  [Labels:] Published by BMG Chrysalis under licence from the Ian Anderson Group Of Companies. Made in EU.  Runouts etched. Symbols added during plating will appear mirrored, e.g. 1I+ and 2+ in runout variant 3.
-

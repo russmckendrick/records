@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. William, It Was Really Nothing (2:09)
 2. What Difference Does It Make? (3:42)
@@ -31,13 +30,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 14. Back To The Old House (3:02)
 15. Reel Around The Fountain (5:51)
 16. Please Please Please Let Me Get What I Want (1:50)
+## Spotify
+{{< spotify type="album" id="1j57Q5ntVi7crpibb0h4sv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hnpILIIo9ek" title="The Smiths - How Soon Is Now? (Official Music Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | R1 45205 |
 
 180 Gram Gatefold LP 1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles 
-

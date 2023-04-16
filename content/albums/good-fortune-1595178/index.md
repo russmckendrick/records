@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Experimental"]
 ---
-
 ## Tracklisting
 1. Monday Through Sunday (4:24)
 2. Brights Lights (2:39)
@@ -30,6 +29,8 @@ styles: ["Abstract", "Experimental"]
 13. Close Your Eyes (2:05)
 14. NYC (3:37)
 15. Trust Me (0:28)
+## Spotify
+{{< spotify type="album" id="5snZVQkv2jSiSLc1wWIK8u" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="g6CBFUJaMyY" title="Airborn Audio(M. Sayyid & High Priest) - This Year" >}}
@@ -53,9 +54,7 @@ styles: ["Abstract", "Experimental"]
 - [Airborn Audio | House Of Mirrors (Edit) 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
 - [Airborn Audio - This Year (Unofficial Music Video)](https://www.youtube.com/watch?v=wkUzklrqM4o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2004 |
@@ -65,4 +64,3 @@ styles: ["Abstract", "Experimental"]
 | Catalog Number | ZEN 95 |
 
 Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios. Printed in Canada.  Comes with an 12" photography (photocopy). 
-

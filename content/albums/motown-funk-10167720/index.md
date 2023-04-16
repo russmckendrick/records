@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
-
 ## Tracklisting
 1. Strung Out
 2. Easily Persuaded
@@ -37,6 +36,8 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 20. Girl You Need A Change Of Mind
 21. Our Lives Are Shaped By What We Love
 22. Sun Country
+## Spotify
+{{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="e1aQDKgjm3g" title="Barbara McNair - The Hunter Gets Captured By The Game" >}}
@@ -45,9 +46,7 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 - [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
 - [The Temptations - Psychedelic Shack (Extended Version)](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -57,4 +56,3 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 | Catalog Number | 537 552-0, 00600753755204 |
 
 Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company.
-

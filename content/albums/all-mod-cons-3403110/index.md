@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Mod"]
 ---
-
 ## Tracklisting
 1. All Mod Cons
 2. To Be Someone (Didn't We Have A Nice Time)
@@ -27,6 +26,8 @@ styles: ["New Wave", "Mod"]
 10. The Place I Love
 11. 'A' Bomb In Wardour Street
 12. Down In The Tube Station At Midnight
+## Spotify
+{{< spotify type="album" id="1zB3OwsKut94AnGBazJUlZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4A6GeBiHp1A" title="Billy Hunt" >}}
@@ -42,9 +43,7 @@ styles: ["New Wave", "Mod"]
 - ['A' Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)
 - [Down In The Tube Station At Midnight (Full Version)](https://www.youtube.com/watch?v=rKcc_I9NXvM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -54,4 +53,3 @@ styles: ["New Wave", "Mod"]
 | Catalog Number | POLD 5008, 2442 155 |
 
 First edition with custom colour labels and picture inner sleeve with cat # front upper right (a similar edition of [r=398719] exists without cat # on the inner).  Runouts are stamped except "STRAWBERRY", which is etched.  Track A5 is not listed on the cover.  Recorded at RAK (Upper London) and Eden Studios. Thanks to Nick, Alan, Dave and Roadies and Southend Kids for conversation  POLYDOR DELUXE POLD 5008 (2442 155) A1 to B3, B5, B6 And Son Mus. Ltd. B4 Davray Mus. Ltd. (Carlin)  This sound recording was made by Polydor Ltd. First published in the United Kingdom in 1978. Record manufactured and distributed by Polydor Ltd. ℗ 1978 Polydor Ltd © 1978 Polydor Ltd
-

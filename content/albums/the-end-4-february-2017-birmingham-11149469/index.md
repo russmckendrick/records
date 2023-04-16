@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Black Sabbath
 2. Fairies Wear Boots
@@ -34,9 +33,7 @@ styles: ["Heavy Metal"]
 17. Paranoid
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +43,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | EAGLP679, 5034504167926 |
 
 Gatefold  From the final hometown concert in Birmingham on 04th February 2017.  An Eagle Rock Films production for Eagle Rock Entertainment Ltd. ℗ & © BS Productions Limited 2017 under exclusive licence to Eagle Rock Entertainment Ltd. All rights reserved. An Eagle Vision release. Eagle vision is a division of Eagle Rock Entertainment, a Universal Music Group company. Made in the EU.  First cat.number on spine, second cat.number on front sticker Yellow Sticker: "3 x 180gm VINYL THE FINAL SHOW FROM  THE GREATEST METAL  BAND OF ALL TIME 5034504167926" 
-

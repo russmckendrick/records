@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. We Will Rock You
 2. Wishing Well
@@ -36,9 +35,7 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 19. Ace Of Spades
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -48,4 +45,3 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 | Catalog Number | 845 417-1 |
 
 Compilation of popular Rock/Metal cuts.  Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!! 
-

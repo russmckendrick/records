@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Acid House", "Indie Rock", "House"]
 ---
-
 ## Tracklisting
 1. Spartacus
 2. Hearts & Minds (4:24)
@@ -33,6 +32,8 @@ styles: ["Acid House", "Indie Rock", "House"]
 16. Hearts & Minds (Terry Farley Mix)
 17. Very Emotional (Terry Farley Mix)
 18. Groovy Train (Terry Farley Mix)
+## Spotify
+{{< spotify type="album" id="0nDhAjCRFVSV1zDviuZqID" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Fg-0TMFS-BI" title="Hearts and Minds" >}}
@@ -49,9 +50,7 @@ styles: ["Acid House", "Indie Rock", "House"]
 - [The Farm - Don't Let Me Down (1991) From the US Spartacus CD](https://www.youtube.com/watch?v=Pe5ZON_sTpg)
 - [the farm -higher and higher](https://www.youtube.com/watch?v=SuKzKRdEWCg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -61,4 +60,3 @@ styles: ["Acid House", "Indie Rock", "House"]
 | Catalog Number | MILK LP1 |
 
 "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy"  The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.  All songs published by  Virgin Music (Publishers) Ltd. Design Miles & Carl © 91. Distributed by Pinnacle. Made in England. ℗ 1991 Produce Records © 1991 Produce Records   Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3). Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.  LP with printed inner sleeve. Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover.   No tracklist is present on bonus EP and tracklist is taken from existing discogs entry of the full retail copy. 
-

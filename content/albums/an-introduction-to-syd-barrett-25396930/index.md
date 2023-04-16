@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Arnold Layne (2:54)
 2. See Emily Play (2:53)
@@ -33,15 +32,15 @@ styles: ["Acoustic", "Psychedelic Rock"]
 16. Gigolo Aunt (5:43)
 17. Effervescing Elephant (1:51)
 18. Bob Dylan Blues (3:08)
+## Spotify
+{{< spotify type="album" id="6DX4SASj4jxDSTPq9vz3RL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dOZ9RvvwXpo" title="An Introduction to Syd Barrett" >}}
 - [Apples and Oranges(Stereo version)](https://www.youtube.com/watch?v=8YAdhzx8gjQ)
 - [Pink Floyd - Arnold Layne (Official Music Video)](https://www.youtube.com/watch?v=H3DGpINHX5Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["Acoustic", "Psychedelic Rock"]
 | Catalog Number | SBM001LP, 0190295037383a |
 
 Gatefold cover. Hype sticker on shrinkwrap. Colour inners with printed lyrics.
-

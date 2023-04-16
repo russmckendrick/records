@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Mojo Pin (5:42)
 2. Grace (5:22)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Folk Rock"]
 8. Corpus Christi Carol (2:56)
 9. Eternal Life (4:52)
 10. Dream Brother (5:26)
+## Spotify
+{{< spotify type="album" id="7yQtjAjhtNi76KRu05XWFS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ywEByqEVQRk" title="Mojo Pin" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [Dream Brother](https://www.youtube.com/watch?v=EaUL-_VZXcg)
 - [Forget Her](https://www.youtube.com/watch?v=yZhHtSJwjq0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Catalog Number | 88843094771 |
 
 (C)1994, 2014 Sony Music Entertainment Inc. (P)1994, 2014 Sony Music Entertainment Inc. Manufactured by Columbia Records.  2014 180 gram Vinyl Reissue with CD included. 
-

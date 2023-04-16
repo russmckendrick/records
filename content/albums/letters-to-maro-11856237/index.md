@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Dear Maro (6:22)
 2. Underground (5:02)
@@ -26,6 +25,8 @@ styles: ["Prog Rock"]
 9. Sleep Paralysis (6:03)
 10. Who's Master? (9:16)
 11. Ghosts When It Rains (3:05)
+## Spotify
+{{< spotify type="album" id="1k1WqMOznPVowvwrzTSw94" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IIJlPaNFWCA" title="Who's Master?" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock"]
 - [Sleep Paralysis](https://www.youtube.com/watch?v=nHwBffb2F5A)
 - [Nine](https://www.youtube.com/watch?v=cW0xqaJJYQ4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock"]
 | Catalog Number | GAOM 056LP |
 
 Packaged in a gatefold jacket with lyrics printed inside, black LP sleeves, download coupon and hype sticker affixed to the shrink wrap on the front.
-

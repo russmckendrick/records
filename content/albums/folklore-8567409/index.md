@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Folklore (7:30)
 2. Along The Ridgeway (6:06)
@@ -26,6 +25,8 @@ styles: ["Prog Rock"]
 9. Winkie (8:26)
 10. Brooklands (12:39)
 11. Telling The Bees (6:02)
+## Spotify
+{{< spotify type="album" id="3j1MgNFNI90XdSTEGDN4pa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FaaOPtE1i_s" title="big big train - lost rivers of London" >}}
@@ -33,9 +34,7 @@ styles: ["Prog Rock"]
 - [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-{2016}](https://www.youtube.com/watch?v=O9l-ROlHqg0)
 - [Folklore by Big Big Train](https://www.youtube.com/watch?v=0D9YF3e4Gac)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +44,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PLG044 |
 
 Gatefold edition with two additional tracks to CD, Mudlark and Rivers of London, which both appear on the Wassail EP (2015). A limited number of copies sold through Burning Shed were autographed by the band on the inner booklet.
-

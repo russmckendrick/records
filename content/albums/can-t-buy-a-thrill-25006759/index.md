@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Do It Again (5:56)
 2. Dirty Work (3:08)
@@ -38,9 +37,7 @@ styles: ["Pop Rock"]
 - [Change Of The Guard](https://www.youtube.com/watch?v=roLIYw8Ov_I)
 - [Turn That Heartbeat Over Again](https://www.youtube.com/watch?v=DSfiPrhpeF8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -50,4 +47,3 @@ styles: ["Pop Rock"]
 | Catalog Number | B0035111-01 |
 
 50th Anniversary Edition Runouts: Var 1 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 1 Side B: 249034E2 1378024 (stamped) B0035111-01B B 6/30/22 (etched) Var 2 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 2 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 (etched) Var 3 Side A: 249034E1 1375812 (stamped) B0035111-01A A 6/29/22 AA (etched) Var 3 Side B: 249034E2 1325460 (stamped) B0035111-01B B 6/30/22 AA (etched)  Pressed By Precision and Mastered By Bernie Grundman credits are not shown on this release, but were sourced from the Acoustic Sounds website. 
-

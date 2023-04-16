@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Breather (4:19)
 2. Pearl (4:56)
@@ -24,6 +23,8 @@ styles: ["Indie Rock", "Shoegaze"]
 7. Guilt (4:12)
 8. If You Want Me (2:40)
 9. Something More (3:31)
+## Spotify
+{{< spotify type="album" id="5Sc59oKieHPFvruoxBgmSp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nlr4f0kjlMo" title="If You Want Me" >}}
@@ -38,9 +39,7 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Satin Safe](https://www.youtube.com/watch?v=z0SiT_RG-qg)
 - [Treasure](https://www.youtube.com/watch?v=6H2Pq0ZLllc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -50,4 +49,3 @@ styles: ["Indie Rock", "Shoegaze"]
 | Catalog Number | MOVLP2567 |
 
 Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl Includes Insert 180 gram audiophile vinyl
-

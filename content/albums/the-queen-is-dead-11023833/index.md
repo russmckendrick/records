@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. 2017 Remastered Album
 2. The Queen Is Dead  (6:24)
@@ -54,11 +53,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 37. That Joke Isn't Funny Anymore (4:51)
 38. The Queen Is Dead (5:08)
 39. I Know It's Over (7:39)
-
+## Spotify
+{{< spotify type="album" id="5Y0p2XCgRRIjna91aQE8q7" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -68,4 +67,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 0190295785628, QIDLP 2017 |
 
 Round silver hype sticker on shrink: '5 LP BOX SET featuring the 2017 Master of the seminal album, additional recordings and an unreleased live album, all heavyweight vinyl 0190295785628'. All three issued with gatefold sleeve and printed inner sleeves. Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Neo Soul", "Funk"]
 ---
-
 ## Tracklisting
 1. Building A Beginning
 2. Julian
@@ -29,14 +28,14 @@ styles: ["Neo Soul", "Funk"]
 12. I Stay Inside
 13. Precious Years
 14. Don't Let Me Let You Go
+## Spotify
+{{< spotify type="album" id="5rISZufkzaN126NIxgvn1T" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning (Lyric Video)" >}}
 - [Jamie Lidell - I Live To Make You Smile (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -46,4 +45,3 @@ styles: ["Neo Soul", "Funk"]
 | Catalog Number | JJL004 |
 
 Gatefold sleeve. Includes digital download. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. Three Minute Hero (3:00)
 2. Everyday (3:10)
@@ -30,6 +29,8 @@ styles: ["Ska"]
 13. James Bond (2:16)
 14. On My Radio
 15. Too Much Pressure
+## Spotify
+{{< spotify type="album" id="5wnNTpK8zZCzbEblOvKmUV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QHnX_wEW1K0" title="The Selecter - Too Much Pressure" >}}
@@ -45,9 +46,7 @@ styles: ["Ska"]
 - [The Selecter - Missing Words](https://www.youtube.com/watch?v=BKELD7Rth0g)
 - [Selecter - time hard](https://www.youtube.com/watch?v=dZbL7PVGjqg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -57,4 +56,3 @@ styles: ["Ska"]
 | Catalog Number | CDL TTH5002, CDL TTC 5002 |
 
 Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80. 40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl 2021 Half-Speed Remaster by Alchemy At Air  "Anniversary" misspelt on OBI strip stating "40th Annivarsary" 'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image  ℗ & © 2021 Chrysalis Records Limited. Made in The UK.  Catalogue number on 'belly-band': CDL TTC 5002 Catalogue number on spine: CDL TTH5002
-

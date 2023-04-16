@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Burning Heart
 2. Heart's On Fire
@@ -39,9 +38,7 @@ styles: ["Soundtrack"]
 - [Training Montage (From Rocky IV Soundtrack)](https://www.youtube.com/watch?v=WU9NFr-81tA)
 - [Training Montage (Rocky IV Score Mix)](https://www.youtube.com/watch?v=DYo1yFZMlvM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,4 +48,3 @@ styles: ["Soundtrack"]
 | Catalog Number | MOVATM062 |
 
 Limited to 1000 individually-numbered copies.  PVC protective sleeve included 180 Gram Audiophile Vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
-
 ## Tracklisting
 1. Push It Out
 2. It's Over
@@ -25,9 +24,7 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 - [The Beta Band-Push It Out](https://www.youtube.com/watch?v=HluhRrB0bPA)
 - [The Beta Band - Needles in My Eyes](https://www.youtube.com/watch?v=byJRrkigdEM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -37,4 +34,3 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 | Catalog Number | REGS 20, 50999 9 34804 1 3 |
 
 Record Store Day 2013 limited edition reissue.  ℗ 1998 © 2013  Made in EU.
-

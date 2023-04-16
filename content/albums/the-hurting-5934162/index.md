@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Hurting (4:16)
 2. Mad World (3:35)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. Change (4:13)
 9. The Prisoner (2:55)
 10. Start Of The Breakdown (4:57)
+## Spotify
+{{< spotify type="album" id="3sIFpEctox1XOs3FEkqrgr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mL-CnhbNvYU" title="The Hurting" >}}
@@ -38,9 +39,7 @@ styles: ["Synth-pop"]
 - [The Prisoner](https://www.youtube.com/watch?v=iU59GwY25fU)
 - [Start Of The Breakdown](https://www.youtube.com/watch?v=n6sUE66Xv5o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -50,4 +49,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 378 944-0, 0602537894406 |
 
 Issued with a printed inner sleeve, containing credits and lyrics. Including digital download code.   Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd. All lyrics Copyright Control.  "Pale Shelter" on this release, is the second single version.  Track durations are not printed on the release.  Runouts are machine stamped.  ℗ & © 1983 Mercury Records Ltd.  Made in the EU.
-

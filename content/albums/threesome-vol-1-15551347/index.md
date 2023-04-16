@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Fadoodle
 2. Bluebird's Blues
@@ -23,6 +22,8 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 6. Bluebird's Blues (Bonus Instrumental Version)
 7. There Is A Magic Number (Bonus Instrumental Version)
 8. Lighthouse Spaceship (Bonus Instrumental Version)
+## Spotify
+{{< spotify type="album" id="6kOgdCOle8lLNybjAAkaRg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]" >}}
@@ -30,9 +31,7 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 - [There Is a Magic Number](https://www.youtube.com/watch?v=idfAFwmsmDg)
 - [The Lickerish Quartet - Lighthouse Spaceship Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 | Catalog Number | none |
 
 "Bonus Instrumental Version" per each Side B track title, printed on the reverse of the EP cover - "Instrumental Version" printed on the label on Side B.  According to album release website, "The color of vinyl you receive will be randomly chosen".  B-side instrumental versions unique to the vinyl edition. No catalog number, no text on spine. Includes printed inner sleeve.
-

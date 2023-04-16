@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Color Before The Sun
 2. Island
@@ -37,13 +36,13 @@ styles: ["Alternative Rock"]
 20. You Got Spirit, Kid (4:11)
 21. The Audience (6:11)
 22. Peace To The Mountain (6:34)
+## Spotify
+{{< spotify type="album" id="6ewn6Mp7uBHuncFbdEvlGe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun (Full Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 551277-1 |
 
 Standard release on black vinyl. Includes album on CD in a paper sleeve. Parental Advisory sticker on outer shrink wrap
-

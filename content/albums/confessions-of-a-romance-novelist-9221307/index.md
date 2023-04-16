@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Long Year (3:52)
 2. What Goes Around (4:17)
@@ -31,15 +30,15 @@ styles: ["Indie Rock", "Art Rock"]
 14. Bury Me ( Acoustic Version ) (3:46)
 15. Long Year (Acoustic Version) (3:33)
 16. Popular (Acoustic Version) (2:23)
+## Spotify
+{{< spotify type="album" id="0YyehrYQpXofc6dBAzxYPh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6ul6hypmC30" title="Confessions of a Romance Novelist" >}}
 - [The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=Z2FXZeJED2w)
 - [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Indie Rock", "Art Rock"]
 | Catalog Number | KSCOPE920 |
 
 Sticker in front says: 2LP Gatefold 180g VINYL with Download Code "A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER "Kate Bush's Hounds of Love ... updated for the 21st century." PROG "Karen Carpenter singing John Grant." UNCUT "Fascinating" SUNDAY TIMES **** MOJO includes 4 new bonus acoustic tracks. kscope920 kscopemusic.com/theanchoress 
-

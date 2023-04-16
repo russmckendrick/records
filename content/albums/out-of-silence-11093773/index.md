@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Love Is Emotional
 2. More Than One Of You
@@ -25,6 +24,8 @@ styles: null
 8. The Law Is Always On Your Side
 9. Terrorise Me
 10. I Know Different
+## Spotify
+{{< spotify type="album" id="1NLL8ibiwZmZEX7UCdO9Ls" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="umEBtfZnZnA" title="Neil Finn - Love Is Emotional" >}}
@@ -44,9 +45,7 @@ styles: null
 - [The Infinity Sessions: Week Three](https://www.youtube.com/watch?v=aw7M6X0zgaw)
 - [The Infinity Sessions: Week Four](https://www.youtube.com/watch?v=LDSDBG68zHI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +55,3 @@ styles: null
 | Catalog Number | LRNF0016LP |
 
 ℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd  All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control  Printed on side A/B labels: Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.  Initial online pre-orders included a 7” x 5” photo signed by Neil Finn.
-

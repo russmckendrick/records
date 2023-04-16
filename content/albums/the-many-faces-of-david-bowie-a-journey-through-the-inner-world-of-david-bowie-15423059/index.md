@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanson", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. The Many Faces of David Bowie
 2. You've Been Around
@@ -77,9 +76,7 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 - [Ian Hunter - Mick Ronson - All the way from Memphis](https://www.youtube.com/watch?v=MO2g1_UJmTE)
 - [CHIC Feat. Nile Rodgers: Good Times Live *YouTube Exclusive* - The Jonathan Ross Show](https://www.youtube.com/watch?v=eSfMKvuRVPE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -89,4 +86,3 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 | Catalog Number | VYN048 |
 
 Hype sticker reads: Double LP Gatefold 180 GR Color Vinyl Limited Edition  Manufactured in France (p) 2020 Music Brokers  Runout VYN 048 A/B/C/D etched other stamped
-

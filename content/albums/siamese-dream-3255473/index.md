@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Cherub Rock
 2. Quiet
@@ -28,11 +27,11 @@ styles: ["Alternative Rock"]
 11. Silverfuck
 12. Sweet Sweet
 13. Luna
-
+## Spotify
+{{< spotify type="album" id="0bQglEvsHphrS19FGODEGo" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 50999 67928 9 10 |
 
 Hype sticker reads; " Smashing Pumpkins Siamese Dream One Of The Most Influential Albums Of The 90's Remastered And Reissued For The First Time On 180 Gram Vinyl ! Includes: Today, Disarm and Cherub Rock -  5099967928910 "  Ⓟ&Ⓒ 2011 Virgin Records America, Inc. Manufactured by Virgin Records America, Inc. 150 Fifth Avenue, New York, NY 10011. Gatefold sleeve. Features liner notes and track commentary from Billy Corgan. Also included are never before seen collages, photos, and postcards! All content was personally curated by founding member Billy Corgan.  Due to the Metallic Effect of the outer printed sleeve:Track listings, barcode and other info are printed on a additional single sided sheet. No printed text/barcode appears on actual rear sleeve.  High quality printed inner sleeves include lyrics.
-

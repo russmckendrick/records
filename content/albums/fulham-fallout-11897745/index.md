@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Ain't Got A Clue
 2. I Don't Need To Tell Her
@@ -29,6 +28,8 @@ styles: ["Punk"]
 12. Gerald
 13. I'm On Heat
 14. Be My Prisoner
+## Spotify
+{{< spotify type="album" id="0k6cw6YE0G3jxCGXXTCFyh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YQPuZfv1PdI" title="I Don't Need to Tell Her" >}}
@@ -52,9 +53,7 @@ styles: ["Punk"]
 - [I Love the Dark (Demo)](https://www.youtube.com/watch?v=raIG1_yTzq4)
 - [Freak Show (LP Demo)](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -64,4 +63,3 @@ styles: ["Punk"]
 | Catalog Number | BBQLP2 |
 
 RSD 2018
-

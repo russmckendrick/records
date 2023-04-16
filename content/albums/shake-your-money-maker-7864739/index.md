@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Twice As Hard (4:09)
 2. Jealous Again (4:35)
@@ -25,6 +24,8 @@ styles: ["Rock & Roll", "Hard Rock"]
 8. She Talks To Angels (5:30)
 9. Struttin' Blues (4:10)
 10. Stare It Cold (5:15)
+## Spotify
+{{< spotify type="album" id="2NRRQLuW6j3EsoWpIl2MR3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XLg7aoGAkkk" title="The Black Crowes - Twice As Hard" >}}
@@ -36,9 +37,7 @@ styles: ["Rock & Roll", "Hard Rock"]
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +47,3 @@ styles: ["Rock & Roll", "Hard Rock"]
 | Catalog Number | B0018989-01 |
 
 2015 Reissue released by American Recordings
-

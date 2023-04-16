@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Paris (1972)
 2. The Musical Box
@@ -48,9 +47,7 @@ styles: ["Prog Rock", "Pop Rock"]
 31. Driving The Last Spike
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -60,4 +57,3 @@ styles: ["Prog Rock", "Pop Rock"]
 | Catalog Number | 00602435686370 |
 
 Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)  Trifold sleeve. Made in the EU.  Photography By Knebwoth, BBC & Getty Images.
-

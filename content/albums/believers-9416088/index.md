@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Believers (3:35)
 2. This Is A Love Song (4:00)
@@ -27,14 +26,14 @@ styles: ["Pop Rock"]
 10. Delivery Man (4:22)
 11. Come Awake (3:28)
 12. B Boy (1:40)
+## Spotify
+{{< spotify type="album" id="4sajI0lpmdshVCoE4FrzcC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UVUsVqdKzmI" title="Deacon Blue  - Believers - 03 - I Will and I Won't" >}}
 - [Deacon Blue The Believers Official Music Video](https://www.youtube.com/watch?v=d9JmILWh5i8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 0211435EMU |
 
 Hype sticker on shrink reads:  "DEACON BLUE  Their brilliant new album.  Featuring 'The Believers' and 'This is a Love Song'.  THIS IS CLASSIC DEACON BLUE" .  Durations do not appear on this release.  Made in Germany.
-

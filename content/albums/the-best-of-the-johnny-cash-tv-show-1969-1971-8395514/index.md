@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. I Walk The Line (The Johnny Cash Show Open) (2:53)
 2. Flesh And Blood (3:02)
@@ -36,9 +35,7 @@ styles: ["Country"]
 {{< youtube id="X-CS-OT8Fco" title="Flesh and Blood" >}}
 - [Johnny Cash - I Walk the Line (The Best Of The Johnny Cash TV Show)](https://www.youtube.com/watch?v=J5126CibNsk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -48,4 +45,3 @@ styles: ["Country"]
 | Catalog Number | 88875195531, 88875195531S1 |
 
 Record Store Day Sticker on front:               'A' STUNNING MUSICAL       MOMENTS - Entertainment Weekly  TO CASH IT WAS ALL JUST GREAT AMERICAN MUSIC,    AND HE BROUGHT IT      ALL BACK HOME.        - Rolling Stone  Johnny with many special Guests!    (See back for guest details)  Available for the first time on VINYL!              88875195531S1  Limited to 5000 units.
-

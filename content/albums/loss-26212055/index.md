@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Public Service Announcer
 2. Watching Xanadu
@@ -27,6 +26,8 @@ styles: ["Acoustic", "Indie Rock"]
 10. Mull Historical Society
 11. Paper Houses
 12. Loss
+## Spotify
+{{< spotify type="album" id="2Te1zS8vz9EfRYieUmyCOT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="X7FCbmZm-1c" title="Loss" >}}
@@ -34,9 +35,7 @@ styles: ["Acoustic", "Indie Rock"]
 - [Watching Xanadu](https://www.youtube.com/watch?v=mvccQGUpXYM)
 - [This Is Not Who We Were](https://www.youtube.com/watch?v=ZB7W0Ii6Uzo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -44,6 +43,5 @@ styles: ["Acoustic", "Indie Rock"]
 | Label          | Demon Records |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | DEMREC 1028 |
-
 
 

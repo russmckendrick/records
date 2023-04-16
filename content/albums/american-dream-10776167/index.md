@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield"]
 ---
-
 ## Tracklisting
 1. Oh Baby
 2. Other Voices
@@ -25,6 +24,8 @@ styles: ["Leftfield"]
 8. American Dream 
 9. Emotional Haircut
 10. Black Screen
+## Spotify
+{{< spotify type="album" id="4AF1M7bGCFL3LHCtXUUXw5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PPa7wrRW2zE" title="oh baby" >}}
@@ -42,9 +43,7 @@ styles: ["Leftfield"]
 - [emotional haircut](https://www.youtube.com/watch?v=N2olnx1bTW0)
 - [black screen](https://www.youtube.com/watch?v=hYmvBLNhif4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -54,4 +53,3 @@ styles: ["Leftfield"]
 | Catalog Number | 88985456111 |
 
 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos.  © & ℗ 2017 Excelsior Equity Management of NY, LLC
-

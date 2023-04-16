@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk"]
 ---
-
 ## Tracklisting
 1. New Coat Of Paint (3:20)
 2. San Diego Serenade (3:25)
@@ -26,14 +25,14 @@ styles: ["Blues Rock", "Folk"]
 9. Depot, Depot (3:42)
 10. Drunk On The Moon (5:05)
 11. The Ghosts Of Saturday Night (After Hours At Napoleone's Pizza House) (3:17)
+## Spotify
+{{< spotify type="album" id="2fnWxy7UoIazBiewjgchvm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nqSnZv3JV0M" title="Tom Waits - The Heart of Saturday Night  (Full Album)" >}}
 - [Tom Waits - (Looking For) The Heart Of Saturday Night](https://www.youtube.com/watch?v=lbH6BUNsuts)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -41,6 +40,5 @@ styles: ["Blues Rock", "Folk"]
 | Label          | Anti- |
 | Format         | LP, Album, Ltd, RE, RM, Yel |
 | Catalog Number | 87566-1 |
-
 
 

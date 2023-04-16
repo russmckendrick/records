@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Electro"]
 ---
-
 ## Tracklisting
 1. Al Naafiyish (The Soul)
 2. Release Yourself
@@ -47,9 +46,7 @@ styles: ["Electro"]
 - [X-Ray Vision ‎- Video Control (Vocal)](https://www.youtube.com/watch?v=blwFnZGLg4w)
 - [The Sunburst Band - Atlantic Forest](https://www.youtube.com/watch?v=6946h5a9gtk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -59,4 +56,3 @@ styles: ["Electro"]
 | Catalog Number | ZEDDLP040 |
 
 Gatefold sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Come Talk To Me (7:06)
 2. Love To Be Loved (5:17)
@@ -25,6 +24,8 @@ styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 8. Fourteen Black Paintings (4:38)
 9. Kiss That Frog (5:20)
 10. Secret World (7:03)
+## Spotify
+{{< spotify type="album" id="0k14wOOVVQAMD23Vej4BOF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A5TeaiZL8Ak" title="Bashi-Bazouk" >}}
@@ -35,9 +36,7 @@ styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 - [Peter Gabriel - Kiss That Frog](https://www.youtube.com/watch?v=S4Ah2dxTcWw)
 - [Peter Gabriel ~ Only Us](https://www.youtube.com/watch?v=vD0jCYW8i4Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +46,3 @@ styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 | Catalog Number | PGLPR7 |
 
 180 Gram Vinyl, Half Speed Remaster. Includes Hi-Res Download Code.  ℗ & © 2016 Peter Gabriel Ltd  England  In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped.  
-

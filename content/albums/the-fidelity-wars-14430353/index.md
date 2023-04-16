@@ -1,6 +1,6 @@
 ---
-title: "Hefner (2) - The Fidelity Wars"
-artist: "Hefner (2)"
+title: "Hefner - The Fidelity Wars"
+artist: "Hefner"
 album_name: "The Fidelity Wars"
 date: 2019-11-22
 release_id: "14430353"
@@ -8,12 +8,11 @@ slug: "the-fidelity-wars-14430353"
 hideSummary: true
 cover:
     image: "the-fidelity-wars-14430353.jpg"
-    alt: "The Fidelity Wars by Hefner (2)"
-    caption: "The Fidelity Wars by Hefner (2)"
+    alt: "The Fidelity Wars by Hefner"
+    caption: "The Fidelity Wars by Hefner"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Hymn For The Cigarettes
 2. May God Protect Your Home
@@ -26,21 +25,20 @@ styles: ["Indie Rock"]
 9. Fat Kelly's Teeth
 10. Don't Flake Out On Me
 11. I Love Only You
+## Spotify
+{{< spotify type="album" id="3NlMRuHpYlA7SgsrjntH8m" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KgTg_cjk0Fc" title="Hefner - I Took Her Love For Granted (Official Video)" >}}
 - [Hefner - The Fidelity Wars](https://www.youtube.com/watch?v=kfKKwDRNbXE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Hefner (2) - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-The-Fidelity-Wars) |
+| Discogs Link   | [Hefner - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-The-Fidelity-Wars) |
 | Label          | Where It's At Is Where You Are |
 | Format         | LP, Album, RE |
 | Catalog Number | wialp081 |
 
 Black vinyl 2019 reissue.  Comes with a download code.
-

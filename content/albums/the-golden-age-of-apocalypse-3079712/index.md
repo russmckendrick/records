@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 ---
-
 ## Tracklisting
 1. HooooooO (0:23)
 2. Daylight (2:57)
@@ -28,6 +27,8 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 11. Walkin' (2:07)
 12. Mystery Machine (The Golden Age Of Apocalypse) (2:05)
 13. Return To The Journey (2:04)
+## Spotify
+{{< spotify type="album" id="6pCLvgEb0INbO0WaN2Byyw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-9DagL4amrY" title="Mystery Machine (The Golden Age of Apocalypse)" >}}
@@ -45,9 +46,7 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
 - [Thundercat- Is It Love?](https://www.youtube.com/watch?v=ijiP-FSjDxU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -57,4 +56,3 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 | Catalog Number | BF023 |
 
 Includes MP3 download code via Ninja Tune A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)  Comes with printed inner sleeve.
-

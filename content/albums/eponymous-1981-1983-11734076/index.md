@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Unsafe Building [Electric] (4:22)
 2. Up For Murder [Acoustic] (2:24)
@@ -38,14 +37,14 @@ styles: ["Alternative Rock"]
 21. Sixty Eight Guns [Single Version] (3:09)
 22. Thoughts Of A Young Man [Part One] (2:51)
 23. Sixty Eight Guns [Part Two] (3:24)
+## Spotify
+{{< spotify type="album" id="26V0RphKza9QE7KNAaPB51" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Xe9MsP1VddQ" title="The Alarm - Lie Of The Land" >}}
 - [The Stand (Extended Version)](https://www.youtube.com/watch?v=AycgV7hkhV4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -55,4 +54,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 21C093 |
 
 Tracks A1 & A2 recorded 4th September 1981 at Pluto Studios, Manchester, England. Tracks A3 to A5 recorded 3rd June 1982 at EMI Studios, London, England. Tracks B1 & B2 recorded July or August 1982 at IRS Basment Studios, London, England. Tracks B3 to B5 recorded 7th September 1982 at Matrix Studios, London, England. Tracks B6 & D1 recorded 3rd February 1983 at Ramport Studios, London, England. Tracks C1 to C4 recorded 30th January 1983 at The Marquee Club, Wardour Street, London. Tracks C5 to C7 recorded 28th September 1983 at My Fathers Place, Long Island, New York. Tracks D2 & D4 recorded 29th April 1983 at Redan Studios, Westbourne Grove, London. Tracks D3 & D5 recorded 18th July 1983 at Good Earth Studios, Soho, London, England.  Double album reissue from Welsh new wave band with 23 tracks includes live & alternate versions. The release contains album tracks, singles & b-sides plus rarities from the groups seminal debut EP. Remastered from the original master tapes under the supervision of singer Mike Peters with extensive sleeve notes featuring contributions from original members. Package includes original art & unseen photos.  The running order on the back cover is not consistent with the playing order on the disc. Lie Of The Land plays at 2-4 and Across The Border plays at 2-5.  Durations do not appear on this release.  Made In Wales.
-

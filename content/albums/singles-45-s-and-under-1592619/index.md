@@ -1,6 +1,6 @@
 ---
-title: "Squeeze (2) - Singles - 45's And Under"
-artist: "Squeeze (2)"
+title: "Squeeze - Singles - 45's And Under"
+artist: "Squeeze"
 album_name: "Singles - 45's And Under"
 date: 2015-09-11
 release_id: "1592619"
@@ -8,12 +8,11 @@ slug: "singles-45-s-and-under-1592619"
 hideSummary: true
 cover:
     image: "singles-45-s-and-under-1592619.jpg"
-    alt: "Singles - 45's And Under by Squeeze (2)"
-    caption: "Singles - 45's And Under by Squeeze (2)"
+    alt: "Singles - 45's And Under by Squeeze"
+    caption: "Singles - 45's And Under by Squeeze"
 genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
-
 ## Tracklisting
 1. Take Me I'm Yours (2:48)
 2. Goodbye Girl (3:05)
@@ -27,6 +26,8 @@ styles: ["New Wave", "Punk"]
 10. Labelled With Love (4:33)
 11. Black Coffee In Bed (6:11)
 12. Annie Get Your Gun (3:22)
+## Spotify
+{{< spotify type="album" id="7JmXmiJaPzqHqpbx2oHi5q" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vB5glE-Oo94" title="Pulling Mussels (From The Shell)" >}}
@@ -39,16 +40,13 @@ styles: ["New Wave", "Punk"]
 - [If I Didn't Love You](https://www.youtube.com/watch?v=liLruG9gV40)
 - [Squeeze - Is That Love (1981)](https://www.youtube.com/watch?v=Uz0UeOUBnn8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
-| Discogs Link   | [Squeeze (2) - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-Singles-45s-And-Under) |
+| Discogs Link   | [Squeeze - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-Singles-45s-And-Under) |
 | Label          | A&M Records |
 | Format         | LP, Comp |
 | Catalog Number | AMLH 68552 |
 
 Made in England  Printed inner sleeve 
-

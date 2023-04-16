@@ -13,7 +13,6 @@ cover:
 genres: ["Latin"]
 styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 ---
-
 ## Tracklisting
 1. Chan Chan (4:18)
 2. De Camino A La Vereda (5:03)
@@ -67,6 +66,8 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 50. Descarga Rubén
 51. Candela (Alternate Take)
 52. Orgullecida (Alternate Trio Take)
+## Spotify
+{{< spotify type="album" id="6DPdEaZ0KDBCCgXyy4q8bi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="o5cELP06Mik" title="Buena Vista Social Club - Chan Chan (Official Audio)" >}}
@@ -85,9 +86,7 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 - [Buena Vista Social Club - Buena Vista Social Club (Official Audio)](https://www.youtube.com/watch?v=8TdC59g-u1U)
 - [Buena Vista Social Club - La Bayamesa (Official Audio)](https://www.youtube.com/watch?v=alB2Q2m64es)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -97,4 +96,3 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 | Catalog Number | WCV050BOX |
 
 From hype sticker: 25th Anniversary Edition 2CD + 2LP Bookpack Includes: The original album remastered by [...] on CD & 2LP CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2). 40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club 2x 12x12" Art Prints  Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks.   Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.  A World Circuit Production  ℗ & © 2021 World Circuit Limited, a BMG company.  Made in Czech Republic.   BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS
-

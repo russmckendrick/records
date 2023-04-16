@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Black Side
 2. Sweeter Than You
@@ -33,6 +32,8 @@ styles: ["Prog Rock", "Post Rock"]
 16. 7" Vinyl
 17. Now You`re Gone
 18. Self Seeking Man
+## Spotify
+{{< spotify type="album" id="5mPReMFpBcYy8LINld3yhF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="63_zUUoqRoQ" title="Crippled Black Phoenix - White Light Generator - Album Teaser" >}}
@@ -41,9 +42,7 @@ styles: ["Prog Rock", "Post Rock"]
 - [Black Light Generator - Crippled Black Phoenix](https://www.youtube.com/watch?v=EMGgl5FHqkM)
 - [Crippled Black Phoenix - NO! A4=432Hz](https://www.youtube.com/watch?v=GsrUksHvrEo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -53,4 +52,3 @@ styles: ["Prog Rock", "Post Rock"]
 | Catalog Number | CGR 7430 1 |
 
 Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.  ℗ © Mascot Music Production and Publishing B.V. All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU.
-

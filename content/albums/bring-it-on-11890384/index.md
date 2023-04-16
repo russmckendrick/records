@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Get Miles (5:15)
 2. Whippin' Piccadilly (3:12)
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Bubble Gum Years (3:20)
 11. Rie's Wagon (9:07)
 12. The Comeback (0:44)
+## Spotify
+{{< spotify type="album" id="3TfA5qAwyI3iy3YbRc28qL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eMtfb1j5sw0" title="Gomez - Get Miles Vinyl Rip from Bring It On (1998)" >}}
@@ -34,9 +35,7 @@ styles: ["Indie Rock"]
 - [Gomez - Tijuana Lady](https://www.youtube.com/watch?v=1ojprhey24c)
 - [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 6711417, 6711413 |
 
 20th Anniversary reissue. Unipack envelope sleeve.   Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.  First catalogue number on spine, second on hype sticker.  
-

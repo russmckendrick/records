@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Here I Am In London Town
 2. The Hipsters
@@ -26,11 +25,11 @@ styles: ["Pop Rock"]
 9. Laura From Memory
 10. It Will End In Tears
 11. Is There No Way Back To You
-
+## Spotify
+{{< spotify type="album" id="7v0p90m2p3kAX5EkZbS5aQ" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -40,4 +39,3 @@ styles: ["Pop Rock"]
 | Catalog Number | DEACONLP001 |
 
 ℗ & © 2012 Demon Music Group Ltd.  Includes code for free MP3 download of the album.
-

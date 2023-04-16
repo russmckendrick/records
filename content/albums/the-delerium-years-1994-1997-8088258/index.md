@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Sky Moves Sideways
 2. The Sky Moves Sideways - Phase 1 (18:40)
@@ -59,9 +58,7 @@ styles: ["Prog Rock"]
 42. Fuse The Sky (4:36)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -71,4 +68,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE894 |
 
 Pressed on 180g heavyweight vinyl, remastered by Steven Wilson over the last three years. Packaged in a deluxe box with 40 page book containing extensive liner notes and a detailed band history by US journalist, Stephen Humphries. Disc 8, Side O is pressed as a concentric cut.
-

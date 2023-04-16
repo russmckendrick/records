@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro"]
 ---
-
 ## Tracklisting
 1. Daft Punk Is Playing At My House
 2. Too Much Love
@@ -24,6 +23,8 @@ styles: ["Alternative Rock", "Electro"]
 7. Thrills
 8. Disco Infiltrator
 9. Great Release
+## Spotify
+{{< spotify type="album" id="6aSk2vxoY3xtz7cXKuY9EL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock", "Electro"]
 - [Yeah](https://www.youtube.com/watch?v=ERdGCgI-Uj4)
 - [Yeah (Pretentious Mix)](https://www.youtube.com/watch?v=vTDDSrhXdBY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock", "Electro"]
 | Catalog Number | dfaplg 2138lp, 0190295905262 |
 
 Gatefold sleeve  ℗ 2005 © 2017  Printed in the EU  Reissue with different back cover.
-

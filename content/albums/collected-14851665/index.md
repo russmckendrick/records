@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Matthew & Son (2:43)
 2. I Love My Dog (2:18)
@@ -43,9 +42,7 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 26. Midday (Avoid City After Dark) (4:23)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -55,4 +52,3 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 | Catalog Number | MOVLP1961 |
 
 Limited edition of 2.000 individually numbered copies on purple 180 gram audiophile vinyl. Released in a gatefold sleeve.  Made in the EU.
-

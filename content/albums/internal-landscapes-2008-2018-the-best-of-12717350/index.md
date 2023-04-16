@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Anathema (6:41)
 2. Untouchable (Part 1) (6:14)
@@ -39,9 +38,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [Anathema - Thin Air (from the Universal concert film)](https://www.youtube.com/watch?v=fjOis-QWPdI)
 - [Anathema - Anathema (lyric video) (from Distant Satellites)](https://www.youtube.com/watch?v=a-80LdBCDXc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -51,4 +48,3 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Catalog Number | KSCOPE1009 |
 
 The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping. 2LP gatefold 180 gram heavyweight red vinyl.
-

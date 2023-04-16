@@ -1,6 +1,6 @@
 ---
-title: "Survive (4) - RR7349"
-artist: "Survive (4)"
+title: "Survive - RR7349"
+artist: "Survive"
 album_name: "RR7349"
 date: 2016-09-26
 release_id: "9108160"
@@ -8,12 +8,11 @@ slug: "rr7349-9108160"
 hideSummary: true
 cover:
     image: "rr7349-9108160.jpg"
-    alt: "RR7349 by Survive (4)"
-    caption: "RR7349 by Survive (4)"
+    alt: "RR7349 by Survive"
+    caption: "RR7349 by Survive"
 genres: ["Electronic"]
 styles: ["Minimal", "Experimental", "Synthwave"]
 ---
-
 ## Tracklisting
 1. A.H.B (4:25)
 2. Other (3:43)
@@ -37,16 +36,13 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 - [S U R V I V E - RR7349 - 8 - Copter](https://www.youtube.com/watch?v=70X6Um4jx_A)
 - [S U R V I V E - RR7349 - 9 - Cutthroat](https://www.youtube.com/watch?v=-I-JQtMmZr4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Survive (4) - RR7349](https://www.discogs.com/release/9108160-S-U-R-V-I-V-E-RR7349) |
+| Discogs Link   | [Survive - RR7349](https://www.discogs.com/release/9108160-S-U-R-V-I-V-E-RR7349) |
 | Label          | Relapse Records |
 | Format         | LP, Album |
 | Catalog Number | RR7349 |
 
 Made in EU  Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp).
-

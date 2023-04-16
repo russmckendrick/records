@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Thursday's Child (5:22)
 2. Something In The Air (5:46)
@@ -25,11 +24,11 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 8. New Angels Of Promise (4:37)
 9. Brilliant Adventure (1:52)
 10. The Dreamers (5:13)
-
+## Spotify
+{{< spotify type="album" id="79EPGP6VA65fDFs4fgFpel" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -39,4 +38,3 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 | Catalog Number | MOVLP1400 |
 
 Originally Released ℗ & © 1999 ISO Records. This Release ℗ & © 2015 Sony Music Entertainment under license from ISO Records. Made in the EU.  180 gram vinyl 20-page booklet Standard black vinyl.
-

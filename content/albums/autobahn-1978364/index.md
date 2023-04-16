@@ -13,13 +13,14 @@ cover:
 genres: ["Electronic"]
 styles: ["Krautrock", "Electro", "Experimental"]
 ---
-
 ## Tracklisting
 1. Autobahn (22:47)
 2. Kometenmelodie 1 (6:42)
 3. Kometenmelodie 2 (5:31)
 4. Mitternacht (3:45)
 5. Morgenspaziergang (4:02)
+## Spotify
+{{< spotify type="album" id="0DzC0tyowMi2O9QfkDRvfJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="niD7k_NNhE8" title="Kometenmelodie 1 (2009 Remaster)" >}}
@@ -28,9 +29,7 @@ styles: ["Krautrock", "Electro", "Experimental"]
 - [Morgenspaziergang (2009 Remaster)](https://www.youtube.com/watch?v=KnuHOtTw8QI)
 - [Kraftwerk Autobahn full](https://www.youtube.com/watch?v=x-G28iyPtz0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -40,4 +39,3 @@ styles: ["Krautrock", "Electro", "Experimental"]
 | Catalog Number | 50999 6 99586 1 8 |
 
 Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974 [on booklet]  Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801] Printed in Germany [on rear cover]  Made in the EU [on labels]  Printed inner sleeve and 12" square 12-page booklet inserted.
-

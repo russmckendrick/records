@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. One For Sorrow (3:26)
 2. Once Upon A Lie (3:32)
@@ -23,16 +22,13 @@ styles: ["Indie Rock"]
 ## Videos
 {{< youtube id="AP0MpWelbx8" title="One For Sorrow - The Anchoress" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [The Anchoress - One For Sorrow EP](https://www.discogs.com/release/6347922-The-Anchoress-One-For-Sorrow-EP) |
-| Label          | Hiraeth (2) |
+| Label          | Hiraeth |
 | Format         | 12\", EP |
 | Catalog Number | HIR002 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Ring Of Fire
 2. I Walk The Line
@@ -38,9 +37,7 @@ styles: ["Acoustic", "Country Rock"]
 21. Hurt
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -50,4 +47,3 @@ styles: ["Acoustic", "Country Rock"]
 | Catalog Number | 00602537952168 |
 
 Includes voucher to download an MP3 version of the album. Gatefold cover.  ℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment. Made in the EU 
-

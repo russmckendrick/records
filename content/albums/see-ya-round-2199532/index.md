@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Breakin' My Back (3:53)
 2. I Walk Away (3:48)
@@ -33,9 +32,7 @@ styles: ["Pop Rock"]
 - [Split Enz Years Go By Live '84](https://www.youtube.com/watch?v=QfCWjNrzxg4)
 - [Split Enz Kia Kaha: 1984](https://www.youtube.com/watch?v=BUmC6bYu6Yk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -45,4 +42,3 @@ styles: ["Pop Rock"]
 | Catalog Number | RML 52050 |
 
 Recorded at A.A.V. Studios, Melbourne.  ℗ 1984 Mushroom Records Pty. Ltd. Australia. Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization. Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z. Distributed by Festival Records Retail Marketing © 1984 Mushroom Records Pty. Ltd. Australia  NZ pressing
-

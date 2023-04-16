@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Safe From Harm (5:16)
 2. One Love (4:48)
@@ -24,6 +23,8 @@ styles: ["Trip Hop", "Downtempo"]
 7. Daydreaming (4:14)
 8. Lately (4:26)
 9. Hymn Of The Big Wheel (6:36)
+## Spotify
+{{< spotify type="album" id="5mAPk4qeNqVLtNydaWbWlf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PKtTmZnVhhI" title="Massive Attack - Safe From Harm" >}}
@@ -37,9 +38,7 @@ styles: ["Trip Hop", "Downtempo"]
 - [Daydreaming (2012 Mix/Master)](https://www.youtube.com/watch?v=rT18lMwmt1U)
 - [Lately (2012 Mix/Master)](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Trip Hop", "Downtempo"]
 | Catalog Number | 5700960 |
 
 Reissue. Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU  
-

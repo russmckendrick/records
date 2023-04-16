@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Guns In The Sky
 2. New Sensation
@@ -43,16 +42,13 @@ styles: ["Alternative Rock"]
 - [INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=WhKHZ-PcmzU)
 - [INXS Mystify  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=FmtshAX5oDk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [INXS - Live Baby Live Wembley Stadium](https://www.discogs.com/release/14406405-INXS-Live-Baby-Live-Wembley-Stadium) |
-| Label          | Universal Music, Petrol (2) |
+| Label          | Universal Music, Petrol |
 | Format         | 3xLP, Album, Dlx |
 | Catalog Number | 0602508245091 |
 
 Unlike the original [m69821], which took its audio from various shows from that tour, this new release is the soundtrack to this one performance at Wembley, with the audio newly remixed by Giles Martin & Sam Okell at Abbey Road Studios.  This reissue removes the 'Shining Star' studio track and restores the lost 'Lately' track to complete the show.      Includes a 12 page book of images and notes and a download card
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ---
-
 ## Tracklisting
 1. Eating The Dead
 2. Death Is The New Sex 
@@ -27,15 +26,15 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 10. Scared To Death 
 11. Fatally Human
 12. Woman
+## Spotify
+{{< spotify type="album" id="5jpgLuaFmwPsYw8n9pOcKc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="voFaQHAgdhw" title="tunng - A Million Colours [Official Video]" >}}
 - [Tunng - Eating the Dead](https://www.youtube.com/watch?v=xvaz_moDEs4)
 - [The Last Day](https://www.youtube.com/watch?v=zijFWrWFYKo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -45,4 +44,3 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 | Catalog Number | FTH390LPB |
 
 - Supported using public funding by Arts Council England  DEAD CLUB is dedicated to anyone who is grieving Limited edition of 300.   Hype Sticker reads -   "tunng  Tunng Presents ... Dead Club  A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter.   Tunng Store Exclusive  2x Magenta LP. limited to 300 Includes download code. FTH390LPB" 
-

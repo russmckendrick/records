@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "New Wave", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Temptation
 2. Hurt
@@ -21,9 +20,7 @@ styles: ["Indie Rock", "New Wave", "Post-Punk"]
 ## Videos
 {{< youtube id="xxDv_RTdLQo" title="New Order - Temptation (Official Music Video) [HD Upgrade]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -33,4 +30,3 @@ styles: ["Indie Rock", "New Wave", "Post-Punk"]
 | Catalog Number | fac 63 |
 
 ℗ Original 1982, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Embossed sleeve, printed inner sleeve.
-

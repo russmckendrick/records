@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Gentle 
 2. Endless Sea (Gentle Version) (5:59)
@@ -39,6 +38,8 @@ styles: ["Folk", "Prog Rock"]
 22. Brightest Light (Storm Version) (4:54)
 23. New Horizons (Storm Version) (5:25)
 24. Epilogue: The Final Entry (Storm Version) (2:03)
+## Spotify
+{{< spotify type="album" id="1Nr0P6L4yRDdBSJfvFwrWf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nY0Y1AwOyw0" title="THE GENTLE STORM - Shores Of India (OFFICIAL VIDEO)" >}}
@@ -47,9 +48,7 @@ styles: ["Folk", "Prog Rock"]
 - [THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=2q2Wx5H6wkg)
 - [THE GENTLE STORM - Endless Sea (LYRIC VIDEO) (Gentle Version)](https://www.youtube.com/watch?v=ml-v1bgMJDQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -59,4 +58,3 @@ styles: ["Folk", "Prog Rock"]
 | Catalog Number | MOVLP3074 |
 
 180 gram audiophile vinyl includes 12-page booklet with lyrics and background story Limited edition of 1000 numbered copies
-

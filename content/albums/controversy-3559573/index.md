@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Funk / Soul"]
 styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 ---
-
 ## Tracklisting
 1. Controversy (7:14)
 2. Sexuality (4:20)
@@ -23,6 +22,8 @@ styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 6. Let's Work (3:57)
 7. Annie Christian (4:21)
 8. Jack U Off (3:12)
+## Spotify
+{{< spotify type="album" id="27fOQ2nbqOv460RSUFW7E4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TzWM8pjAp44" title="Controversy" >}}
@@ -32,16 +33,13 @@ styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 - [Private Joy](https://www.youtube.com/watch?v=TX94-R9rsoQ)
 - [Annie Christian](https://www.youtube.com/watch?v=rcqb9EvqXS8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
 | Discogs Link   | [Prince - Controversy](https://www.discogs.com/release/3559573-Prince-Controversy) |
-| Label          | Warner Bros. Records, Rhino Records (2) |
+| Label          | Warner Bros. Records, Rhino Records |
 | Format         | LP, Album, Ltd, RE, RM |
 | Catalog Number | 8122-79777-6, 8122797776 |
 
 ℗&© 1981 Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  Like most Rhino reissues - Rhino pressed both an EU version and a US version [[r3139564]]. This is the EU pressing.  Record Technology Incorporated and Optimal Media Production were identified from runout/matrix.  • Limited 180 grams audiophile with large fold-out poster of Prince in shower photo. • Mastered at Bernie Grundman Mastering from the Original Tapes
-

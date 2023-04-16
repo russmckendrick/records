@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. I'd Have You Anytime
 2. My Sweet Lord
@@ -39,6 +38,8 @@ styles: ["Pop Rock"]
 22. Plug Me In
 23. I Remember Jeep
 24. Thanks For The Pepperoni
+## Spotify
+{{< spotify type="album" id="4RzYS74QxvpqTDVwKbhuSg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QWV4pFV5nX4" title="George Harrison - All Things Must Pass (2020 Mix / Audio)" >}}
@@ -64,9 +65,7 @@ styles: ["Pop Rock"]
 - [I Remember Jeep (Remastered 2014)](https://www.youtube.com/watch?v=PFY6SBhFZHc)
 - [Thanks For The Pepperoni (Remastered 2014)](https://www.youtube.com/watch?v=rDDA0tSxzVU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -76,4 +75,3 @@ styles: ["Pop Rock"]
 | Catalog Number | STCH 639, 0602557090406 |
 
 Cover sticker: Remastered for vinyl from the original analogue stereo master tapes. Album replicates design and construction of the original release. 180g Heavyweight vinyl.  ℗ 2014 The copyright in this sound recording is owned by G.H. Estate Limited under exclusive license to Calderstone Productions Limited (a division of Universal Music Group). © 2017 G.H. Estate Limited.  Sticker on rear shrinkwrap: Made in Germany. On LP labels: Mfd. in E.U.  Includes a 6-panel fold-out poster. Each LP comes in a printed inner sleeve.  For the songs written by George Harrison: All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc.  For the songs written by Bob Dylan: All lyrics copyright 1970 by Big Sky Music.  Apple Jam (Recorded during sides 1, 2, 3 & 4.) 'It's Johnny's Birthday' based on 'Congratulations' by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd. Other tracks: Copyright 1970 for the world by Harrisongs Music, Ltd., England. All rights for the United States and Canada controlled by Harrisongs Music, Inc.
-

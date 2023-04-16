@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
-
 ## Tracklisting
 1. Pretty Vacant
 2. God Save The Queen
@@ -35,11 +34,11 @@ styles: ["Punk"]
 18. Did You No Wrong
 19. Substitute
 20. My Way
-
+## Spotify
+{{< spotify type="album" id="1J1nqgEuiVKGqRbdBwaZLK" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -47,6 +46,5 @@ styles: ["Punk"]
 | Label          | UMC |
 | Format         | 2xLP, Comp, Gre |
 | Catalog Number | 455 953-5 |
-
 
 

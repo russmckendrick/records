@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
-
 ## Tracklisting
 1. American Pie (8:27)
 2. Till Tomorrow (2:11)
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Acoustic"]
 8. Sister Fatima (2:31)
 9. The Grave (3:08)
 10. Babylon (1:40)
+## Spotify
+{{< spotify type="album" id="10jsW2NYd9blCrDITMh2zS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iX_TFkut1PM" title="American Pie" >}}
@@ -38,9 +39,7 @@ styles: ["Folk Rock", "Acoustic"]
 - [The Grave](https://www.youtube.com/watch?v=p05aJNfWib8)
 - [Babylon](https://www.youtube.com/watch?v=4bnhhbV34nI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1971 |
@@ -50,4 +49,3 @@ styles: ["Folk Rock", "Acoustic"]
 | Catalog Number | UAS 29285 |
 
 Made in the UK Dedicated to Buddy Holly  Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55 Some initial copies comes with a small white/red sticker 
-

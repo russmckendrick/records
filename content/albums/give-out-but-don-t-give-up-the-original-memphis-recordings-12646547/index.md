@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Jailbird (3:51)
 2. Rocks (3:48)
@@ -24,6 +23,8 @@ styles: ["Pop Rock"]
 7. Free (6:51)
 8. Jesus (6:38)
 9. Cry Myself Blind (4:49)
+## Spotify
+{{< spotify type="album" id="5UwPMUtxGKZRcULMAkpxQm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tMpY-vjLjTM" title="Primal Scream - Big Jet Plane (The Original Memphis Recordings) [Official Video]" >}}
@@ -31,9 +32,7 @@ styles: ["Pop Rock"]
 - [Primal Scream on 'Give Out But Don't Give Up: The Original Memphis Recordings'](https://www.youtube.com/watch?v=yGnhHhfwcIQ)
 - [Primal Scream -  Free The Original Memphis Recordings](https://www.youtube.com/watch?v=gLXP1QxsJAk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 19075815741 |
 
 Gatefold sleeve includes booklet and download code for full 2-CD (24 track) edition plus an additional track: Big Jet Plane (Sitar Version) 4:47.  Made in the EU.  33 R.P.M was incorrectly ticked on the first 1000 units pressed. All subsequent unit pressings are correctly ticked 45 R.P.M.
-

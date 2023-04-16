@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Rio (5:39)
 2. My Own Way (4:51)
@@ -24,6 +23,8 @@ styles: ["New Wave", "Synth-pop"]
 7. Last Chance On The Stairway (4:18)
 8. Save A Prayer (5:33)
 9. The Chauffeur (5:12)
+## Spotify
+{{< spotify type="album" id="02tfQwJSOLP77oCd9U8bqm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oJL-lCzEXgI" title="Duran Duran - Hungry like the Wolf (Official Music Video)" >}}
@@ -35,9 +36,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Duran Duran - The Chauffeur (Official Music Video)](https://www.youtube.com/watch?v=1B__8N5d_LA)
 - [Duran Duran - Lonely In Your Nightmare Version 2 (Official Music Video)](https://www.youtube.com/watch?v=zU20mJJULyI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -47,4 +46,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | EMC 3411, 0C 062-64 782 |
 
 Original UK pressing in a textured outer sleeve with a glossy inner picture/lyrics sleeve  [Back cover] ℗ 1982 Original sound recording made by Tritec Music Limiited ... country of manufacture of record as stated on record labels SP 8205 GL  [Record labels]  All songs composed and arranged by Duran Duran... All songs published by Tritec/Peterman/Carlin  ℗ 1982 Original sound recordings made by Tritec Music Limited. ... Manufactured in the UK by EMI Records Ltd.  [Inner sleeve credits side] All songs written and arranged by Duran Duran ℗ 1982 Tritec Music Limiited © 1982 (except * © 1981) lyrics used....and published by Tritec Music/Carlin Music/Peterman Music Recorded Air, (London) Spring 1982.  Note:  * is printed on the lyrics side of the inner sleeve against "My Own Way") and that the credits on the inner sleeve give credit as "All songs written and arranged by" while the record labels give credit as "All songs composed and arranged by"  [Inner sleeve lyrics side] EMI Records EMC 3411(I) (top right of inner sleeve lyric side)
-

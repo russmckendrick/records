@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 ---
-
 ## Tracklisting
 1. Some Things Cannot Be Changed (2:58)
 2. That Day By The Pier (3:58)
@@ -30,6 +29,8 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 13. Accept (4:13)
 14. Deceive (1:07)
 15. Together, Forever Again (3:52)
+## Spotify
+{{< spotify type="album" id="5e5WJwdXlbWIDbQuoSd4uJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tWDMTkxppso" title="The Last Day Of June" >}}
@@ -38,9 +39,7 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 - [Steven Wilson - The Last Day Of June (Last Day Of June Soundtrack)](https://www.youtube.com/watch?v=OcO9SyxCP-4)
 - [Time For A New Start](https://www.youtube.com/watch?v=5wq5dVCJpJA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 | Catalog Number | MOVATM335 |
 
 Original game soundtrack by Steven Wilson. Limited edition of 4000 numbered copies on Translucent Blue Vinyl  Based on music originally released between 2004-2016. Includes exclusive mixes and edits. Includes insert. 180 gram audiophile vinyl.  Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’.  Barcode sticker on back.   ℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd. Made in the EU.
-

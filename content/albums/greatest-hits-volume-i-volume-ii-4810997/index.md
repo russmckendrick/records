@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Piano Man (5:36)
 2. Say Goodbye To Hollywood (3:53)
@@ -36,14 +35,14 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 19. The Longest Time (3:35)
 20. You're Only Human (Second Wind) (4:47)
 21. The Night Is Still Young (5:27)
+## Spotify
+{{< spotify type="album" id="7hSjhZyFoR5DHEL8wcWFD5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wltzv3no6bY" title="Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP" >}}
 - [She's Always a Woman - BILLY JOEL ~ from the album Greatest Hits / Volume I & II (1985)](https://www.youtube.com/watch?v=8mCmCvZ7dLA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -53,4 +52,3 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 | Catalog Number | CBS 88666 |
 
 This album consists of previously released material except for the tracks D4 and D5  Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"  Gatefold sleeve 
-

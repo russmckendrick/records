@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 ---
-
 ## Tracklisting
 1. King Of The Rotten
 2. Long Whip / Big America
@@ -28,13 +27,13 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 11. Wishbone (Some Tomorrow)
 12. Fuel
 13. Bottom Feeder (El Que Come Abajo) (Instrumental)
+## Spotify
+{{< spotify type="album" id="2KSTxX4gIPwRIqJD9QdtFp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uqfPv93Zonw" title="Corrosion Of Conformity - Drowning In a Daydream" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -44,4 +43,3 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 | Catalog Number | MOVLP753 |
 
 Originally released ℗ & © 1996 Sony Music Entertainment. This release ℗ & © 2013 Sony Music Entertainment. Comes with printed inner sleeves containing lyrics and credits. 1000 copies pressed. Track B2 "Drowning In A Daydream" mixed at [l276645].
-

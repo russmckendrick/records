@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Penthouse And Pavement
 2. (We Don’t Need This) Fascist Groove Thang
@@ -70,9 +69,7 @@ styles: ["Synth-pop"]
 ## Videos
 {{< youtube id="m-fY639gW08" title="Play To Win (Remastered)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -82,4 +79,3 @@ styles: ["Synth-pop"]
 | Catalog Number | DEMRECBOX31 |
 
   
-

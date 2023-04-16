@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Accelerator
 2. Miss Lucifer
@@ -31,9 +30,7 @@ styles: ["Indie Rock"]
 14. 100% Or Nothing
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -43,4 +40,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 19075933811 |
 
 Limited 500 copies in gatefold sleeve with download code.  Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels).
-

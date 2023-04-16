@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Firesuite
 2. Here It Comes 
@@ -27,6 +26,8 @@ styles: ["Space Rock", "Indie Rock"]
 10. The Cedar Room
 11. Reprise
 12. A House 
+## Spotify
+{{< spotify type="album" id="33nyNThvBKPzS4NGdnWACf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}
@@ -41,9 +42,7 @@ styles: ["Space Rock", "Indie Rock"]
 - [Doves - Lost Souls](https://www.youtube.com/watch?v=QCmvW7MLMA0)
 - [Doves - Here It Comes](https://www.youtube.com/watch?v=kthMTQs61ic)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -53,4 +52,3 @@ styles: ["Space Rock", "Indie Rock"]
 | Catalog Number | 7748262 |
 
 This album is for [Robert Leo Gretton](https://www.discogs.com/artist/236150-Rob-Gretton) ℗ 2000 [l26760] © 2019 [l26760] made in e.u.  Comes with a [l1052727] download coupon.
-

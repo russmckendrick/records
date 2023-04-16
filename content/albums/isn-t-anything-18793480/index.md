@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Soft As Snow (But Warm Inside)
 2. Lose My Breath
@@ -53,9 +52,7 @@ styles: ["Shoegaze", "Indie Rock"]
 - [I Can See It (But I Can’t Feel It)](https://www.youtube.com/watch?v=EG159C9shuA)
 - [I Can See It (But I Can't Feel It)](https://www.youtube.com/watch?v=ZD7PK9ZRBAo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -65,4 +62,3 @@ styles: ["Shoegaze", "Indie Rock"]
 | Catalog Number | REWIGLP158X  |
 
 Fully analog cut. Released in a deluxe gatefold tip-on and board-mounted sleeve. Includes a printed polylined inner sleeve and MP3 and WAV download card.   ℗ & © 2021 mbv records under exclusive license to domino recording co. ltd.
-

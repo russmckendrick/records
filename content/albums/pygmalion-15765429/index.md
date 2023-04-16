@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ethereal", "Ambient"]
 ---
-
 ## Tracklisting
 1. Rutti (10:05)
 2. Crazy For You (6:01)
@@ -24,6 +23,8 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 7. Visions Of La (1:48)
 8. Blue Skied An' Clear (6:54)
 9. All Of Us (4:07)
+## Spotify
+{{< spotify type="album" id="7n7VUw9XFam4zMT7zn99tq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="X3UmjDqF0lc" title="Rutti" >}}
@@ -36,9 +37,7 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 - [Blue Skied An' Clear](https://www.youtube.com/watch?v=mrbFB_vTvHg)
 - [All Of Us](https://www.youtube.com/watch?v=kYeMBYsEWRo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,4 +47,3 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 | Catalog Number | MOVLP604 |
 
 25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.  Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.  Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU
-

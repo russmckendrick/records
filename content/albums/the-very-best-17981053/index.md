@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Need You Tonight 
 2. Mystify
@@ -35,11 +34,11 @@ styles: ["Alternative Rock", "Pop Rock"]
 18. Just Keep Walking
 19. Bitter Tears
 20. Baby Don't Cry
-
+## Spotify
+{{< spotify type="album" id="2l9enpmtIGp7jZTlKxR1qa" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Catalog Number | 0602557887068 |
 
 Black Vinyls
-

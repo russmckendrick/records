@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Original Album
 2. Rockin Stroll (1:41)
@@ -46,6 +45,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 29. Rudderless
 30. Ceiling Fan In My Spoon
 31. Confetti
+## Spotify
+{{< spotify type="album" id="4Q8DyYRZ8qbDoTUDJBgE3A" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NofWFKSMiM4" title="Lemonheads - Rudderless (Album version)" >}}
@@ -56,9 +57,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [The Lemonheads - Alison's Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
 - [Rockin Stroll (Remastered)](https://www.youtube.com/watch?v=jet27-LRviQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -68,4 +67,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | FIRELP624 |
 
 Limited to 1000 copies.   Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download.
-

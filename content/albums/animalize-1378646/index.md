@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. I've Had Enough (Into The Fire)
 2. Heaven's On Fire
@@ -24,11 +23,11 @@ styles: ["Hard Rock"]
 7. Thrills In The Night
 8. While The City Sleeps
 9. Murder In High Heels
-
+## Spotify
+{{< spotify type="album" id="5UxqSH1Ez2fcNVLqvLjsgB" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1984 |
@@ -38,4 +37,3 @@ styles: ["Hard Rock"]
 | Catalog Number | VERL 18, 822 415-1 |
 
 VERL 18 appears on spine, back cover, inner sleeve and labels 822 415-1 appears on labels 822 495-1 appears on back cover 
-

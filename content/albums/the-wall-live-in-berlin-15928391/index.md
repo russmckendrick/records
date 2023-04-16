@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Part One
 2. In The Flesh?
@@ -43,11 +42,11 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 26. The Trial
 27. Encore
 28. The Tide Is Turning
-
+## Spotify
+{{< spotify type="album" id="2x0jjg2Pw98wHDixqzCeqy" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -57,4 +56,3 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 | Catalog Number | 0602508538506 |
 
 Record Store Day - RSD Drops Sep 26th 2020 Quantity: 8.000 copies Gatefold cover with records housed in printed inner sleeves. Includes a download card.  Global, worldwide release.  Some copies do not have a hype sticker. Some copies did not include a download card.  Title on the spine: The Wall - Live In Berlin 1990  Back cover: Roger Waters : The Wall Saturday 21st July 1990  Made in the EU.  Label rim text: Made In The EU.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△".
-

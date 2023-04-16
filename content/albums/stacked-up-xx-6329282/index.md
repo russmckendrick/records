@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. States Of Mind (5:10)
 2. The Key (5:22)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 11. Eject (5:19)
 12. No Comply (2:37)
 13. Worth (3:04)
+## Spotify
+{{< spotify type="album" id="303SfM4fCrqwqnsSCQG8bV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}
@@ -49,9 +50,7 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -61,4 +60,3 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 | Catalog Number | SBR 208LP |
 
 Stacked Up XX Limited Edition Double Vinyl Album includes a remastered version of the original record with new artwork and a digital download copy of all Stacked Up XX CD tracks.   Includes insert with pictures. Some signed copies were available from Senser website.  The Bacon Empire Publishing Ltd 2014. All Songs Published by London Music 
-

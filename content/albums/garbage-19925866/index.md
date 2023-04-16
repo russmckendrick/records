@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Supervixen
 2. Queer
@@ -27,6 +26,8 @@ styles: null
 10. My Lover's Box
 11. Fix Me Now
 12. Milk
+## Spotify
+{{< spotify type="album" id="1Vze7jtjAVQOdIIQ8oO2X7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qZsVcoWRIkY" title="Garbage - Vow" >}}
@@ -94,9 +95,7 @@ styles: null
 - [Queer (Rabbit in the Moon - Hefty Bag Mix) (2015 - Remaster)](https://www.youtube.com/watch?v=dm1coTvjF6k)
 - [Stupid Girl (Todd Terry - Tee's Freeze Club) (2015 - Remaster)](https://www.youtube.com/watch?v=UqBo4-XDh-A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -106,4 +105,3 @@ styles: null
 | Catalog Number | BMGCAT514DLP |
 
 The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.
-

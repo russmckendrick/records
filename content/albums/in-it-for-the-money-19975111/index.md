@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. In It For The Money
 2. Richard III
@@ -29,6 +28,8 @@ styles: ["Britpop", "Indie Rock"]
 12. Sometimes I Make You Sad
 13. The Animal
 14. BRA Sun Hits The Sky mix
+## Spotify
+{{< spotify type="album" id="67qnhGyaN6Z0PYJMEePzjW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="UnXrrOxzZCE" title="Supergrass - Richard III (Official HD Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Britpop", "Indie Rock"]
 - [Supergrass - Sun Hits The Sky (Official HD Video)](https://www.youtube.com/watch?v=OJ8TYNpJdLg)
 - [Supergrass - It's Not Me (Early Version) (Official Video)](https://www.youtube.com/watch?v=u80_jUEaWII)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -51,4 +50,3 @@ styles: ["Britpop", "Indie Rock"]
 | Catalog Number | BMGCAT506CLP, 4050538672909, 4050538685411 |
 
 Remastered From Original Analogue Tapes Limited Edition 140g Turquoise Vinyl  Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal' Textured Sleeve Manufactured in Poland  There are three catalog numbers on this release: BMGCAT506CLP appears on the outer sleeve 4050538672909 appears on the LP 4050538685411 appears on the 12" single
-

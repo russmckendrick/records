@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Olympian
 2. Haunted By You
@@ -90,9 +89,7 @@ styles: ["Indie Rock", "Britpop"]
 73. Somewhere In The World
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -102,4 +99,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | DEMRECBOX49X, DEMREC735, DEMREC761, DEMREC736, DEM |
 
 Limited to 1,000 units  Includes an exclusive 12 x 12 print signed by the band  Includes a booklet with written notes by each member and a piece by journalist Keith Cameron  Track F6, "Untitled," is the song For The Dead (Demo Version), the same song that is listed by name in the 2014 Deluxe Edition CD reissue [r5433760]. 
-

@@ -13,11 +13,12 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Love Will Tear Us Apart
 2. These Days
 3. Love Will Tear Us Apart
+## Spotify
+{{< spotify type="album" id="0u0CJa9zwFbGSU8JWQYS5G" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zuuObGsB0No" title="Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]" >}}
@@ -26,9 +27,7 @@ styles: ["New Wave", "Post-Punk"]
 - [Joy Division - Love Will Tear Us Apart '95 (Radio Version) Lyrics](https://www.youtube.com/watch?v=yLVcOrdzkRc)
 - [Joy Division - Love will tear us apart (Arthur Baker Remix)](https://www.youtube.com/watch?v=uiqoCWvmQY8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -38,4 +37,3 @@ styles: ["New Wave", "Post-Punk"]
 | Catalog Number | FAC·XXIII·XII |
 
 ℗ 1980, 2020 Warner Music UK Ltd. © 2020 Warner Music UK Ltd.
-

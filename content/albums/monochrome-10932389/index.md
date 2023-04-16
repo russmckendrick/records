@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The Exorcist (6:43)
 2. This Music (4:50)
@@ -32,9 +31,7 @@ styles: ["Prog Rock"]
 - [Daniel Cavanagh - Oceans Of Time (Monochrome)](https://www.youtube.com/watch?v=xxsaFocAETQ)
 - [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +41,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE945 |
 
 Anneke van Giersbergen appears courtesy of InsideOut Music. Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope  Many thanks to my beloved anathema family.  Dedicated to Ariel & Ester    ℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh. Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd. Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. 1 1978 - 79
 2. Digital (2:51)
@@ -94,6 +93,8 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 77. Moves Like You (Remix) (6:30)
 78. Tasty Fish (3:48)
 79. Sunshine And Love (Lionrock Remix) (7:17)
+## Spotify
+{{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9qgFGqJz9yc" title="Joy Division - Digital" >}}
@@ -118,9 +119,7 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
 - [Various ‎– Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -130,4 +129,3 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 | Catalog Number | 0190295663841 |
 
 Housed in a cardboard box with 40 page booklet. Cat. # printed on all labels.  Track A5: The version used here is the 12" version FACUS 2 released August 1980. Track A6: On the single Finney and Perrin are credited as writers. Track B3: Duration on the 12" 10:11, here is fading out.   Track F1: On the 12" Royal Family And The Poor (The Poor) are also credited as producers.  [a=John Davis (4)] cut is directly credited on booklet and his signature (JD) is etched on side A
-

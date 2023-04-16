@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ---
-
 ## Tracklisting
 1. How To Survive In South Central (3:40)
 2. Just Ask Me To (4:08)
@@ -40,9 +39,7 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 - [Tevin Campbell     Just Ask Me To (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=doRNgKeIGFA)
 - [Too Short    It's Your Life (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=yO90oQDOBeE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,6 +47,5 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 | Label          | Universal, Qwest Records |
 | Format         | 2xLP, Comp, Ltd, RE, Blu |
 | Catalog Number | B0030621-01 |
-
 
 

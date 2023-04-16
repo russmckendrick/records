@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock"]
 ---
-
 ## Tracklisting
 1. Life On Mars?
 2. Rebel Rebel (Truncated)
@@ -28,11 +27,11 @@ styles: ["Art Rock"]
 11. I Can't Read
 12. Always Crashing In The Same Car
 13. If I'm Dreaming My Life
-
+## Spotify
+{{< spotify type="album" id="1pOR2tIMQZ30GNCVz4TkFp" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: ["Art Rock"]
 | Catalog Number | DBVH1 9919, 0190295474096 |
 
 Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.  Recorded at Manhattan Center, New York, NY 23rd August, 1999.  ℗ 2009 © 2019  Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"  
-

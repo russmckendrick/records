@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Prologue: A Faint Applause
 2. The Somnambulist
@@ -26,6 +25,8 @@ styles: ["Prog Rock"]
 9. Psychopomp
 10. The Amateur Arsonist’s Handbook
 11. Epilogue: …And the Clever Depart
+## Spotify
+{{< spotify type="album" id="5tzquhU7KasVwjCbZDXQ24" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="df6lSXzv9lI" title="Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]" >}}
@@ -40,9 +41,7 @@ styles: ["Prog Rock"]
 - [Thank You Scientist ¨Caverns¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=DN6sJ0WYwlw)
 - [Thank You Scientist ¨Rube Goldberg Variations¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=f54m5AUEuzc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Prog Rock"]
 | Catalog Number | EI209V |
 
 Gatefold cover. Limited edition of 1000 pressed on clear vinyl mixed with blue smoke. Second pressing.
-

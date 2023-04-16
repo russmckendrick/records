@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Harmonium (5:30)
 2. Balance (3:58)
@@ -35,15 +34,15 @@ styles: ["Alternative Rock"]
 18. Flying (5:57)
 19. Electricity (3:52)
 20. Violence (10:55)
+## Spotify
+{{< spotify type="album" id="2u9kFU66dEBxvvw23QPujf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JB1djmYr0aA" title="ANATHEMA - A Natural Disaster" >}}
 - [Anathema - A Natural Disaster (Audio)](https://www.youtube.com/watch?v=_lMiIsQqLaE)
 - [Anathema - A Natural Disaster | FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 88875058531 |
 
 Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.
-

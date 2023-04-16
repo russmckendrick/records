@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Astronomy Dominé
 2. Lucifer Sam
@@ -26,11 +25,11 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 9. Chapter 24
 10. The Scarecrow
 11. Bike
-
+## Spotify
+{{< spotify type="album" id="2Se4ZylF9NkFGD92yv1aZC" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -40,4 +39,3 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Catalog Number | PFRLP1, 0825646493197 |
 
 The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: August 1967 Made in the E.U. www.pinkfloyd.com  Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 ---
-
 ## Tracklisting
 1. Rid Of Me (3:42)
 2. Legs (3:47)
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 12. M-Bike (2:43)
 13. Yuri-G (3:53)
 14. Goodnight (4:17)
+## Spotify
+{{< spotify type="album" id="1K9Lun3S3LDl6FAWkdRFVN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZrRkrD8edhE" title="Rid Of Me (4-Track Demo Version)" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 - [50ft Queenie (4-Track Demo Version)](https://www.youtube.com/watch?v=bt1g1FDOMh0)
 - [Reeling (4-Track Demo Version)](https://www.youtube.com/watch?v=qoxipCtMT14)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 | Catalog Number | 0851113, 00602508511134 |
 
 Includes a custom inner sleeve and a download card. An unconfirmed but very small number of pre-orders came with a 12" x 12" glossy, thick card art print of the front cover signed by PJ Harvey.  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. BIEM/SDRM.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)
-

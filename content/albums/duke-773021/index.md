@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Behind The Lines (5:31)
 2. Duchess (6:40)
@@ -27,6 +26,8 @@ styles: ["Pop Rock", "Prog Rock"]
 10. Please Don't Ask (4:00)
 11. Duke's Travels (8:41)
 12. Duke's End (2:04)
+## Spotify
+{{< spotify type="album" id="7ryVZ5ca6GM3FAkmlrymgv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cwk0x6U_0fU" title="Genesis - Behind the Lines" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock", "Prog Rock"]
 - [Genesis - Duchess](https://www.youtube.com/watch?v=J3fLoF-Jus0)
 - [Genesis - Turn It On Again (Official Music Video)](https://www.youtube.com/watch?v=8OIkw9kJ0u4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | CBR 101 |
 
 Sleeve: Engineered by David Hentschel of Dukeslodge Enterprises Ltd. Recorded at Polar Studios Sweden Mixed at Maison Rouge London Mastered at Trident All songs: Hit & Run Music Ltd.  "Albert" also appears in L'Alphabet D'Albert by Lionel Koechlin (Éditions Jannink) ®  Illustrations: © 1979 Editions Jannink, 3 Rue St George, Paris 75009 and © 1980 Lionel Koechlin. Marketed by Charisma Records Ltd. Manufactured and distributed by Phonogram Ltd. © 1980 Charisma Records Ltd.  Labels: Original sound recording made by Charisma Records Ltd. ℗ 1980 Charisma Records Ltd. Hit and Run Music Publishing Ltd. Marketed and distributed by Phonogram Ltd _ Gatefold sleeve. Initial copies with 'Special Price - Limited Period' sticker (see images). Track durations are not printed on the release.
-

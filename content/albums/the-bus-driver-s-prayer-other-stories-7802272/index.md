@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. That's Enough Of That (4:49)
 2. Bill Haley's Last Words (2:43)
@@ -29,13 +28,13 @@ styles: ["Power Pop", "Pop Rock"]
 12. No Such Thing As Love (3:36)
 13. Two Old Dogs Without A Name (4:43)
 14. The Bus Driver's Prayer (0:58)
+## Spotify
+{{< spotify type="album" id="45luz2YNTnks45NmZsNprn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="v7kjbh8xtyo" title="Ian Dury:-'Bus Driver's Prayer'" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Power Pop", "Pop Rock"]
 | Catalog Number | DEMREC61 |
 
 Manufactured in the EU  180-Gram Heavyweight Vinyl job
-

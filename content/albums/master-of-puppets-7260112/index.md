@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Battery (5:10)
 2. Master Of Puppets (8:38)
@@ -23,6 +22,8 @@ styles: ["Thrash", "Heavy Metal"]
 6. Leper Messiah (5:38)
 7. Orion (Instrumental) (8:12)
 8. Damage, Inc (5:08)
+## Spotify
+{{< spotify type="album" id="7CGhx630DIjdJqaBDVKc5j" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="E0ozmU9cJDg" title="Master of Puppets (Remastered)" >}}
@@ -33,9 +34,7 @@ styles: ["Thrash", "Heavy Metal"]
 - [Master of Puppets REMASTERED (official album reissue 2017/2018!) Will it sound BETTER as promised?](https://www.youtube.com/watch?v=k7pXAv3cL9A)
 - [Metallica - Master of Puppets Remastered HQ](https://www.youtube.com/watch?v=QAOBbPnI5-g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Thrash", "Heavy Metal"]
 | Catalog Number | BLCKND005-1, 00602547242952 |
 
 [On back cover:] ℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.  [On printed inner sheet:] All songs published by Creeping Death Music (ASCAP).
-

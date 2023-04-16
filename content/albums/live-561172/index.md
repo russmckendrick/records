@@ -13,7 +13,6 @@ cover:
 genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
-
 ## Tracklisting
 1. The Worst Job I Ever Had
 2. This Bloke Came Up To Me
@@ -35,9 +34,7 @@ styles: ["Comedy", "Spoken Word"]
 - [Derek and Clive - Live - Bo Duddley](https://www.youtube.com/watch?v=Vj3U1DQurew)
 - [Derek and Clive Live: Worst Job I Ever Had (Peter Cook & Dudley Moore) 1/13](https://www.youtube.com/watch?v=_a_UKKvUcoE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -45,6 +42,5 @@ styles: ["Comedy", "Spoken Word"]
 | Label          | Island Records |
 | Format         | LP, Album |
 | Catalog Number | ILPS 9434 |
-
 
 

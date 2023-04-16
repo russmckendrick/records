@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
-
 ## Tracklisting
 1. The Valley
 2. The Seven
@@ -22,6 +21,8 @@ styles: ["Alternative Rock", "Funk Metal"]
 5. The Dream
 6. The Storm
 7. The Ends?
+## Spotify
+{{< spotify type="album" id="4PktyFM7wcRMw4KWvU8d9I" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zH0ciOB9Fgw" title="Primus - The Rainbow Goblins Chapter 7 (The Ends?)" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [Primus - The Valley - (The Desaturating Seven)](https://www.youtube.com/watch?v=43mrOTRtCAI)
 - [Primus - The Storm -  (The Desaturating Seven)](https://www.youtube.com/watch?v=dS3KEHam1kE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Catalog Number | ATO0404LP |
 
 Issued with a printed inner sleeve with credits and lyrics. Including download card.  Hype-sticker on shrink-wrap: "Includes Digital Download NEW 2017 RELEASE Rainbow Splattered Colored Vinyl"  "The Desaturating Seven" was inspired by Uli De Rico's "The Rainbow Goblins".  ℗ & © 2017 ATO Records www.primusville.com
-

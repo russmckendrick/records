@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Where Do The Children Play?
 2. Hard Headed Woman 
@@ -26,6 +25,8 @@ styles: ["Pop Rock", "Folk Rock"]
 9. On The Road To Find Out
 10. Father And Son
 11. Tea For The Tillerman
+## Spotify
+{{< spotify type="album" id="44VxbAytHpVi3Rq8hRhild" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nBCJhNiKhFE" title="Yusuf / Cat Stevens - Where Do The Children Play?" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock", "Folk Rock"]
 - [Tea For The Tillerman](https://www.youtube.com/watch?v=ZC3tOgCd_ps)
 - [Yusuf / Cat Stevens - Father And Son](https://www.youtube.com/watch?v=B_H5XuIb5WM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -51,4 +50,3 @@ styles: ["Pop Rock", "Folk Rock"]
 | Catalog Number | 0888695 |
 
 Re-recording of the 1970 album. with 4 sides insert with lyrics and credits  Tracks A1, B1, and B3 to B6 published by Cat Music, administered by BMG. Tracks A2 to A5, B2 published by Firecat Music, administered by BMG.  Recorded in JI Studios, Dubai, Studio La Fabrique, Saint-Remy de Provence, RMV Studio, Stockholm.  ℗ & © 2020 Cat-O-Log Records under exclusive license to UMC, A Universal Music Company. Made in Germany.
-

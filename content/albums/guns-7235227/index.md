@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Spell With A Shell (3:17)
 2. There's Good Cud (2:17)
@@ -42,9 +41,7 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 - [Song Of A Dead Pest](https://www.youtube.com/watch?v=87xA35MmnOs)
 - [Will Bleed Amen](https://www.youtube.com/watch?v=flgj1pkYSXw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -54,4 +51,3 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | ALPH LP027 |
 
  "The first 200 pressings will have a special sticker to make them even more special." (They are numbered) Pressings without the shrink wrap sticker are found here: [r=12334086]  Comes in a gatefold sleeve with a picture inner sleeve and a download coupon.   Recorded and mixed at Apollo 8 London England.  Made in England.  ©&℗ Alphabet 1999
-

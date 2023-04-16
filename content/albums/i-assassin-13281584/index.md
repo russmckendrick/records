@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. White Boys And Heroes
 2. War Songs
@@ -23,6 +22,8 @@ styles: ["Electro", "Synth-pop"]
 6. I, Assassin
 7. The 1930's Rust
 8. We Take Mystery To Bed
+## Spotify
+{{< spotify type="album" id="1AbColVwAzX9BY56BPC0Rl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_R-8V9Ody8s" title="White Boys and Heroes" >}}
@@ -40,9 +41,7 @@ styles: ["Electro", "Synth-pop"]
 - [The 1930's Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)
 - [We Take Mystery (To Bed)](https://www.youtube.com/watch?v=sM7odiEO1k8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Electro", "Synth-pop"]
 | Catalog Number | BBQLP 40 |
 
 Pressed on Dark Green Vinyl. Released through the Beggars Banquet "The Arkive" project Restored from the original analogue tapes.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ---
-
 ## Tracklisting
 1. Coma Girl
 2. Johnny Appleseed
@@ -31,6 +30,8 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 14. Yalla Yalla
 15. Redemption Song
 16. Junco Partner (Acoustic)
+## Spotify
+{{< spotify type="album" id="5fmJ1t5AyvBrCGOLBXiaVh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="V1hsbEUfif8" title="Joe Strummer - Junco Partner (Acoustic) [Official Video]" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 - [Love Kills](https://www.youtube.com/watch?v=LYlTYh71dp0)
 - [Sleepwalk](https://www.youtube.com/watch?v=bthFVrGAviE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 | Catalog Number | DH0002 |
 
 Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.  Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).  Tracks are sequentially listed on release.
-

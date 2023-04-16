@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
-
 ## Tracklisting
 1. Gaslighting Abbie (5:54)
 2. What A Shame About Me (5:15)
@@ -24,6 +23,8 @@ styles: ["Pop Rock", "Fusion"]
 7. Cousin Dupree (5:28)
 8. Negative Girl (5:35)
 9. West Of Hollywood (8:21)
+## Spotify
+{{< spotify type="album" id="2MJc2N3eFVT0ZabBN4zc32" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tZemaEpPJ80" title="Gaslighting Abbie" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock", "Fusion"]
 - [Negative Girl](https://www.youtube.com/watch?v=N01RFpaez84)
 - [West of Hollywood](https://www.youtube.com/watch?v=7ES0OdVB8Yo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock", "Fusion"]
 | Catalog Number | R1 24719, 603497849093 |
 
 Record Store Day 2021 exclusive release, part of the June 12th drops. Limited to 5,000 copies in the United States, 10,000 worldwide.  Album contains insert with lyrics and credits. LPs in generic black poly-lined inner sleeves.  The credits for track C2 Negative Girl are incorrectly listed on release (duplicated from track A3 Two Against Nature); correct track C2 credits are entered in tracklist.  Hype sticker affixed to shrink, with both catalog numbers: 4X Grammy® Award Winner including Album Of The Year First Time On Vinyl 2 LPs • 180-Gram  Sticker affixed directly to jacket: Made in Germany  ℗ & © 2000 Giant Records, a Warner Music Group Company. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company. Made in Germany.  Runouts are etched, mastering stamped.
-

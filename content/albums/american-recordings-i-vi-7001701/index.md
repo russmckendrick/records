@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. American Recordings
 2. Delia's Gone (2:17)
@@ -101,9 +100,7 @@ styles: null
 84. Aloha Oe (3:00)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -113,4 +110,3 @@ styles: null
 | Catalog Number | 060254721702 |
 
 7 LP Box Set Contains Audiophile 180g Vinyl Reissues Of All Six Of Cash's American Recordings Albums  Repackaging these 2014 'Back To Black' re-issues in one box set: [r=5516812] (1994) [r=5516845] (1996) [r=5516860] (2000) [r=5516887] (2002) [r=5516900] (2006) [r=5516904] (2010) The only difference: there's one coupon for mp3 downloads in the box set instead of a coupon with each separate album.
-

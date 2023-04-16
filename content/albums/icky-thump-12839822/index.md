@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Side Uno
 2. Icky Thump (4:14)
@@ -32,15 +31,15 @@ styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 15. A Martyr For My Love For You (4:19)
 16. Catch Hell Blues (4:18)
 17. Effect And Cause (3:00)
+## Spotify
+{{< spotify type="album" id="2DSNJ8bdoYfC6Uydg8ilBC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1OjTspCqvk8" title="The White Stripes - Icky Thump (Official Music Video)" >}}
 - [The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)](https://www.youtube.com/watch?v=8xsF9fHdAfo)
 - [The White Stripes - Conquest (Official Music Video)](https://www.youtube.com/watch?v=0L7FuA8Rry8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 | Catalog Number | TMR-500 |
 
 Black Friday release by third man records.  Direct-to-board double pocket gatefold LP jacket. 180 gram weight vinyl with 4-page insert.  The new TMR version has a printed inner sleeve with a black and white image. Audio sourced from the original master tapes. 100% all-analog mastering by NRP with even more superior sound than previous pressings.  © & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC.
-

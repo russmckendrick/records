@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Introducing The Band (2:38)
 2. We Are The Pigs (4:19)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Britpop"]
 10. Black Or Blue (3:48)
 11. The Asphalt World (9:25)
 12. Still Life (5:23)
+## Spotify
+{{< spotify type="album" id="2EqmYUomXLsQ1ookAbbtjw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="m2n3qKD6C8k" title="Still Life (Remastered)" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock", "Britpop"]
 - [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
 - [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock", "Britpop"]
 | Catalog Number | INSATIABLE 2 |
 
 Mastered in Portland, Maine.  Though reissued in 2014, copyright notice states '(c) 2013'.
-

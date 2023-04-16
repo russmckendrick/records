@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Ambient"]
 ---
-
 ## Tracklisting
 1. The Race For Space
 2. Sputnik
@@ -24,6 +23,8 @@ styles: ["Ambient"]
 7. Valentina
 8. Go!
 9. Tomorrow
+## Spotify
+{{< spotify type="album" id="65KwtzkJXw7oT819NFWmEP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Bnmq4WR83Mw" title="PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]" >}}
@@ -31,9 +32,7 @@ styles: ["Ambient"]
 - [PUBLIC SERVICE BROADCASTING - E.V.A.](https://www.youtube.com/watch?v=PFSq4Q8WDs0)
 - [🔴Public Service Broadcasting – Complete B Side [ The Race For Space LP ]🔴](https://www.youtube.com/watch?v=8LbCWtjZ8AI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -43,4 +42,3 @@ styles: ["Ambient"]
 | Catalog Number | TCRVA02X |
 
 Special edition clear vinyl featuring American and Russian reversible gatefold, printed inner-sleeve and full-sized, 8 page booklet. Download card included. Outer shrink-wrap stickered with track names. Band name and album title only printed onto sleeve.  'This record has been mastered quieter than most modern albums to preserve its dynamics. PSB do not like the loudness wars. Listening to it may therefore require judicious use of the volume knob. Thanks!'
-

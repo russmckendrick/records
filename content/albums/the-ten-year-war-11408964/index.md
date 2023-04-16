@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Black Sabbath
 2. Black Sabbath
@@ -172,9 +171,7 @@ styles: ["Hard Rock"]
 155. Swinging The Chain
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -184,4 +181,3 @@ styles: ["Hard Rock"]
 | Catalog Number | BMGCATBOX73 |
 
 ℗ 2009 Black Sabbath/Gimcastle Limited © 2017 Black Sabbath/Gimcastle Limited under exclusive licence to Sanctuary Records Group, a BMG company.  The Limited Edition Deluxe Box Set Includes:  • 8 x Vinyl LPs reproduced in their original sleeves [some incl. Poster], re-mastered by Andy Pearce from the original tapes and pressed on 180 gram splatter-coloured vinyl, each LP with unique and individual colouring • 2 x rare 7” singles, reproduced in their original sleeves: *Japanese *version of Evil Woman (Don’t Play Your Games With Me) / Black Sabbath. *Chilean *version of Paranoid/The Wizard (only 100 copies of the original radio promo were pressed) • Crucifix shaped Black Sabbath USB stick, [with chain] which can be worn round the neck and contains MQA high definition audio of the first eight Black Sabbath albums [containing all 8 Albums in individual folders stored in FLAC Format, 48KHz - plus PDFs] • The Ten Year War brochure, reproduced from the original publication • Hardback book, featuring accolades from the cream of rock royalty, coupled with official and candid photography of the band during their 1970s tours, recording sessions and photo-shoots • Tenth Anniversary World Tour 1978 Official Programme • Reprinted tour poster from the 1972 Seattle Centre Arena show • Single-sided Release-Leaflet  Box set cover art has been created by street artist Shepard Fairey  The versions: * Deluxe box-set (3500 copies) * Deluxe box-set (additional 3000 copies) <----THIS ONE * Deluxe box-set with art-print (1000 copies) * Deluxe box-set with signed art-print (50 copies) * Golden deluxe boxset with art-print (50 copies)  Limited originally to 3500 copies. Extended to 6500 copies; sticker on back shows "XXXX/6500" on newer boxes [Note: Each LP, 7" comes with its own barcode]
-

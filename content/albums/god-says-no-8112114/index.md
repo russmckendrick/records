@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Melt
 2. Heads Explode
@@ -32,6 +31,8 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 15. Leapin' Lizards (B-Side)
 16. Into The Void
 17. Black Celebration
+## Spotify
+{{< spotify type="album" id="6UTPtKWSrjSYls6za3poKj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}
@@ -43,9 +44,7 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 - [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)
 - [Monster Magnet - I Want More](https://www.youtube.com/watch?v=Yji5Keb5Nko)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -55,4 +54,3 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 | Catalog Number | 00600753637845 |
 
 Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.  Original sound recording made by A & M Records Ltd. Tracks C4 and D1 to D4 are bonus tracks.  Recorded at The Warehouse, Vancouver, B.C. Canada Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company  Made in the EU.
-

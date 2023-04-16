@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Billy Get Your Guns (4:48)
 2. Miracle (5:08)
@@ -26,6 +25,8 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 9. Bang A Drum (4:36)
 10. Dyin' Ain't Much Of A Livin' (4:39)
 11. Guano City (1:00)
+## Spotify
+{{< spotify type="album" id="5QsPmoN7UK8tL5NRtSuC2Y" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From Young Guns II Soundtrack)" >}}
@@ -45,9 +46,7 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 - [Dyin' Ain't Much Of A Livin'](https://www.youtube.com/watch?v=9kuGA621nr8)
 - [Guano City (From Young Guns II Soundtrack)](https://www.youtube.com/watch?v=P9gAd5Ax4OE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -57,4 +56,3 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 | Catalog Number | 846 473-1 |
 
 Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Heart Set To Divide
 2. Behind The Blood
@@ -27,6 +26,8 @@ styles: ["Prog Rock", "Progressive Metal"]
 10. Neon Epitaph
 11. Untrodden
 12. Closing Of The Sky
+## Spotify
+{{< spotify type="album" id="1DX36PVNNEo2o9RAZN6OYJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="P2H4tCc9E3U" title="Katatonia - The Winter of our Passing OFFICIAL VIDEO" >}}
@@ -34,9 +35,7 @@ styles: ["Prog Rock", "Progressive Metal"]
 - [Katatonia - The Winter of our Passing (from City Burials)](https://www.youtube.com/watch?v=mnWkTAB-ceg)
 - [Katatonia - Lacquer (from City Burials)](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -46,4 +45,3 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Catalog Number | VILELP860 |
 
 Gatefold. Limited edition of 1500 copies. Closing Of The Sky is a bonus track for this release.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Ladykillers
 2. Single Girl
@@ -33,6 +32,8 @@ styles: ["Indie Rock", "Shoegaze"]
 16. Sweetness And Light
 17. Thoughtforms
 18. Etheriel
+## Spotify
+{{< spotify type="album" id="4Y5zRmNwW2yG6c7ESCNmbf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="OlvhrJZ3YqQ" title="Lush - Ciao!" >}}
@@ -44,9 +45,7 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Lush - Light From a Dead Star](https://www.youtube.com/watch?v=8wRfyysbb_w)
 - [Love At First Sight](https://www.youtube.com/watch?v=Xb3-Gl_BkCY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -56,4 +55,3 @@ styles: ["Indie Rock", "Shoegaze"]
 | Catalog Number | CAD 2K22 |
 
 Released on Record Store Day Black Friday 2015. Comes in a gatefold sleeve.  Dedicated to the memory of [Christopher Acland](https://www.discogs.com/artist/259782-Chris-Acland).  A1 to A3 taken from the album ['Lovelife'](http://www.discogs.com/Lush-Lovelife/master/19763). ℗ 1996 4AD Ltd.  A4: single remix, original version on album ['Lovelife'](http://www.discogs.com/Lush-Lovelife/master/19763). ℗ 1996 4AD Ltd.  A5, B2 to C1: taken from the album ['Split'](http://www.discogs.com/Lush-Split/master/19721). ℗ 1994 4AD Ltd.  B1: taken from the single ['Hypocrite'](http://www.discogs.com/Lush-Hypocrite/master/6363). ℗ 1994 4AD Ltd.  C2 to D1: taken from the single album ['Spooky'](http://www.discogs.com/Lush-Spooky/master/6277). ℗ 1992 4AD Ltd.  D2: taken from the single ['Mad Love'](http://www.discogs.com/Lush-Mad-Love/master/19700). ℗ 1990 4AD Ltd.  D3: taken from the single ['Sweetness And Light'](http://www.discogs.com/Lush-Sweetness-And-Light/master/6298). ℗ 1990 4AD Ltd.  D4, D5: taken from the mini album ['Scar'](http://www.discogs.com/Lush-Scar/master/6226). ℗ 1989 4AD Ltd.  This compilation ℗ 2000 4AD Ltd. © 2015 4AD Ltd.
-

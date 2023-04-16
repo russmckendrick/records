@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Something To Do (3:45)
 2. Lie To Me (5:04)
@@ -24,6 +23,8 @@ styles: ["Synth-pop"]
 7. Master And Servant (4:13)
 8. If You Want (4:40)
 9. Blasphemous Rumours (6:21)
+## Spotify
+{{< spotify type="album" id="7DbpWj9i5uZ1UggeGRo1LZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="o3EAzf5fDpY" title="Depeche Mode - Blasphemous Rumours (Official Video)" >}}
@@ -31,9 +32,7 @@ styles: ["Synth-pop"]
 - [Depeche Mode - People Are People (Official Video)](https://www.youtube.com/watch?v=MzGnX-MbYE4)
 - [Lie to Me (2006 Remaster)](https://www.youtube.com/watch?v=xbuRtMUc6tM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -43,4 +42,3 @@ styles: ["Synth-pop"]
 | Catalog Number | STUMM19, 88985330011 |
 
 Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd. Recorded at Music Works, London and Hansa Mischraum, Berlin. Mixed at Hansa Mischraum, Berlin.  Remastered at Super Audio Mastering. Cut at The Exchange.  ℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH
-

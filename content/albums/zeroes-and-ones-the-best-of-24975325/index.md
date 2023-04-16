@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ---
-
 ## Tracklisting
 1. Right Here, Right Now
 2. The Devil You Know
@@ -44,9 +43,7 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 27. Run On Empty
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -56,4 +53,3 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 | Catalog Number | DEMREC 958 |
 
 2LP set featuring all the hits and more, with track-by-track annotation by the band's keyboard player Iain Baker Pressed on 140g Gold Vinyl
-

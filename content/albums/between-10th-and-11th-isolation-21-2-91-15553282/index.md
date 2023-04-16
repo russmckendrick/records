@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Between 10th And 11th
 2. I Don't Want To See The Sights
@@ -48,9 +47,7 @@ styles: ["Indie Rock"]
 - [[No One] Not Even The Rain](https://www.youtube.com/watch?v=AZezlm4_KOA)
 - [Weirdo](https://www.youtube.com/watch?v=m-yjro8dZjY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -60,4 +57,3 @@ styles: ["Indie Rock"]
 | Catalog Number | BBQ2165LP |
 
 ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited  
-

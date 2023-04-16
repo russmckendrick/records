@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Bullet With Butterfly Wings
 2. Bullet With Butterfly Wings (4:16)
@@ -55,9 +54,7 @@ styles: ["Alternative Rock"]
 38. My Blue Heaven (3:20)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -67,4 +64,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | B0018550-01 |
 
 "the end of what we had to offer, everything that followed the pieces of one without the other." - billy corgan  A1, I1 - Recorded at Pumpkinland and Chicago Recording Company. A2 - Mixed at The Chicago Recording Company. A3, A4, B2, B3 - Recorded at Soundworks Studios, Chicago.  Additional Recording on B3 at Farmer Brown's Studio. B1 - Recorded at Bugg Studios, Chicago. C1, I1 - Mixed at The Village Recorder. C2 to D3, - Mixed at Soundworks Recording Studios. C1 to D3 - Recorded at Pumpkinland, Chicago Recording Company and Soundworks Recording Studios. G1, H4 - Recorded at CRC. G2 to H1, H3 - Recorded at Sadland. H2 - Recorded at Soundworks. I2 to J1 - Recorded at Charing Cross Studios, Sydney, and Soundworks Recording Studios, Chicago. J2 - Recorded at Bugg Studios, Chicago and The Place, NYC. J3 - Recorded at Soundworks Recording Studios, Chicago. I2 to J3 - Mixed at Chung King, NYC.  "The Pastichio Medley is from a variety of sources recorded during completion of Mellon Collie And The Infinite Sadness.  The LP version has been faded out earlier than the original version in order to fit the vinyl format."
-

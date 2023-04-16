@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Pure Comedy
 2. Total Entertainment Forever
@@ -30,15 +29,15 @@ styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 13. In Twenty Years Or So
 14. Real Love Baby
 15. Rejected Generic Pop Song March '15 #3
+## Spotify
+{{< spotify type="album" id="6nyf9D2M4je5BdNXwycoIe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wKrSYgirAhc" title="Father John Misty - Pure Comedy [Official Music Video]" >}}
 - [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
 - [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 | Catalog Number | BELLA628VX |
 
 Released in a die-cut customizable gatefold sleeve with 4 interactive “background” sleeves, with clear slipcase over. Includes a fold-out poster and an exclusive holographic tarot card by Ed Steed, and download code. Tracklisting, barcode and copyrights are printed on a large sticker affixed to the shrinkwrap. LP1 is aluminium, LP2 is copper.  Pre-orders and initial copies sold in stores came with this limited edition bonus 7".  Very special thanks to Gavin Bryars and Ed Steed.  Published by Cripple Creek Fairies (ASCAP) / Kobalt Music Publishing.  ℗ & © Bella Union & 2017 Under exclusive license to [PIAS]
-

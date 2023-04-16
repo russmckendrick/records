@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
-
 ## Tracklisting
 1. 4-Way Diablo
 2. Wall Of Fire
@@ -28,6 +27,8 @@ styles: ["Stoner Rock"]
 11. A Thousand Stars
 12. Slap In The Face
 13. Little Bag Of Gloom
+## Spotify
+{{< spotify type="album" id="720kpRumHTQsh2leZ3GL1g" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Adf7bQ8W6Ck" title="Monster Magnet - Slap In The Face - 4-Way Diablo.wmv" >}}
@@ -42,9 +43,7 @@ styles: ["Stoner Rock"]
 - [Monster Magnet - Little Bag of Gloom (2007) +Lyrics](https://www.youtube.com/watch?v=IqxdqQku6wE)
 - [Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=3psuTo6UY_8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +53,3 @@ styles: ["Stoner Rock"]
 | Catalog Number | NPR1067VINYL |
 
 Black vinyl edition. Gatefold cover.  © + ℗ 2022
-

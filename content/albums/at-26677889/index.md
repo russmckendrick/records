@@ -1,6 +1,6 @@
 ---
-title: "Andy White (4) & Tim Finn - AT"
-artist: "Andy White (4) & Tim Finn"
+title: "Andy White & Tim Finn - AT"
+artist: "Andy White & Tim Finn"
 album_name: "AT"
 date: 2023-04-07
 release_id: "26677889"
@@ -8,12 +8,11 @@ slug: "at-26677889"
 hideSummary: true
 cover:
     image: "at-26677889.jpg"
-    alt: "AT by Andy White (4) & Tim Finn"
-    caption: "AT by Andy White (4) & Tim Finn"
+    alt: "AT by Andy White & Tim Finn"
+    caption: "AT by Andy White & Tim Finn"
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. I
 2. The Sea Holds The Memory
@@ -27,18 +26,17 @@ styles: null
 10. It's Family
 11. The Happiness Index
 12. Rock 'N' Roll Star
-
+## Spotify
+{{< spotify type="album" id="3iRt9ADGDMMjhdScbemAKb" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
-| Discogs Link   | [Andy White (4) & Tim Finn - AT](https://www.discogs.com/release/26677889-Andy-White-4-Tim-Finn-AT) |
+| Discogs Link   | [Andy White & Tim Finn - AT](https://www.discogs.com/release/26677889-Andy-White-4-Tim-Finn-AT) |
 | Label          | Floating World |
 | Format         | LP, Album, Pur |
 | Catalog Number | FWLP052 |
 
 Recorded in Melbourne and Auckland Mixed in Oxfordshire  ℗ 2023 Andy White & Tim Finn © 2023 Floating World Ltd.
-

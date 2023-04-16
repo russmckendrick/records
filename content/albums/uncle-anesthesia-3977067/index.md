@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Beyond This Horizon (4:13)
 2. Bed Of Roses (3:02)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock"]
 11. Disappearing (3:12)
 12. Ocean Of Confusion (3:05)
 13. Closer (5:48)
+## Spotify
+{{< spotify type="album" id="5VZbPQYwhGgFNpJKdRgxHy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_LtDCEE8fro" title="Story Of Her Fate" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock"]
 - [Time For Light](https://www.youtube.com/watch?v=VCg4E1I0YkM)
 - [Ocean Of Confusion](https://www.youtube.com/watch?v=BxXTRl7QIRU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -49,6 +48,5 @@ styles: ["Alternative Rock"]
 | Label          | Music On Vinyl |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | MOVLP587 |
-
 
 

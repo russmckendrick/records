@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Folk", "House"]
 ---
-
 ## Tracklisting
 1. Shangri-La
 2. Brasil
@@ -28,9 +27,7 @@ styles: ["Indie Rock", "Folk", "House"]
 ## Videos
 {{< youtube id="xefWbfWUbrQ" title="EOB - Brasil" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -40,4 +37,3 @@ styles: ["Indie Rock", "Folk", "House"]
 | Catalog Number | 00602508363429 |
 
 Indie Record Store Exclusive 180g Orange Vinyl, gatefold sleeve, includes 6 lithographs.
-

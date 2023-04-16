@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Movin' On Up (3:51)
 2. Stone My Soul (3:02)
@@ -27,9 +26,7 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 - [Primal Scream - Carry Me Home (Dixie-Narco EP)](https://www.youtube.com/watch?v=pQ4x1YB88_s)
 - [Primal Scream - Screamadelica (Dixie Narco EP)](https://www.youtube.com/watch?v=T-ZC_EeqtWE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -39,4 +36,3 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 | Catalog Number | 19439844431 |
 
 Record Store Day 2021, Drop 1 release Limited edition of 2.000 copies  The second of two hype stickers on the front reads: "record store day exclusive 180g red vinyl 4-track EP first time on vinyl since the original 1992 release  19439844431"  Contrary to the hype sticker, however, the vinyl is standard black, not red.  ℗ 2011 © 2021 Creation Records.  Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. The Strangest Times (5:08)
 2. All The Love We Can Give (8:07)
@@ -24,6 +23,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. Common Ground (4:57)
 8. Atlantic Cable (15:05)
 9. Endnotes (6:55)
+## Spotify
+{{< spotify type="album" id="7hoFLrTBtEyDQq19jwA8iq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wIQnhCcI4gA" title="Common Ground by Big Big Train" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Dandelion Clock](https://www.youtube.com/watch?v=xvsqQSxag5c)
 - [BIG BIG TRAIN - The Strangest Times (2021) [Progressive Rock / Art Rock]](https://www.youtube.com/watch?v=swdU6qMjldE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | PLG096 |
 
 Packaged in a gatefold jacket with 2-page color printed insert and polylined LP sleeves.
-

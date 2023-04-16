@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. TC And Honeybear
 2. Marz
@@ -27,15 +26,15 @@ styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 10. Caramel
 11. Leopard & Lamb
 12. Queen Of Denmark
+## Spotify
+{{< spotify type="album" id="3QCl0MnIQOD8oLMaI2yKgN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mzWQSabtWLs" title="John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD" >}}
 - [John Grant - Queen Of Denmark](https://www.youtube.com/watch?v=b_oNylzsY7I)
 - [John Grant Queen of Denmark LIVE at The Cat's Cradle 4/3/10](https://www.youtube.com/watch?v=Yz0ggk0eITg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -45,4 +44,3 @@ styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 | Catalog Number | Bellav235 |
 
 Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)  ℗ & © Bella Union 2010 Made in the EU.
-

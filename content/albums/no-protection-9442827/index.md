@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Reggae"]
 styles: ["Downtempo", "Dub", "Trip Hop"]
 ---
-
 ## Tracklisting
 1. Radiation Ruling The Nation (Protection) (8:35)
 2. Bumper Ball Dub (Karmacoma) (5:59)
@@ -33,9 +32,7 @@ styles: ["Downtempo", "Dub", "Trip Hop"]
 - [I Spy (Spying Glass)](https://www.youtube.com/watch?v=PLvFCRzL79Y)
 - [Backward Sucking (Heat Miser)](https://www.youtube.com/watch?v=xxRnd7kkIJ4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +42,3 @@ styles: ["Downtempo", "Dub", "Trip Hop"]
 | Catalog Number | 5700963, 00602557009637 |
 
 A Mad Professor dub version of Massive Attack's [ "Protection"](http://www.discogs.com/Massive-Attack-Protection/master/32634) album.   ℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Track duration not mentioned on record/sleeve.  Includes a download card for the album on l[ossless digital WAV/PCM files](https://www.discogs.com/release/9665728). 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Experimental", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Heroes (4:10)
 2. The Boy In The Bubble (4:28)
@@ -27,15 +26,15 @@ styles: ["Experimental", "Symphonic Rock"]
 10. Après Moi (5:13)
 11. Philadelphia (3:46)
 12. Street Spirit (Fade Out) (5:06)
+## Spotify
+{{< spotify type="album" id="6UvXlXqOAFv49ePZ22kEyn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9bBKM2NljZg" title="Peter Gabriel - The power of the heart.wmv" >}}
 - [Peter Gabriel - Heroes](https://www.youtube.com/watch?v=LsvuipGq2ns)
 - [Peter Gabriel covers Street Spirit (Fade Out)](https://www.youtube.com/watch?v=vhz6jqqOuw4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -45,4 +44,3 @@ styles: ["Experimental", "Symphonic Rock"]
 | Catalog Number | PGLP12, PG-12 |
 
 Issued on 200 gram vinyl in a deluxe gatefold jacket.  Classic Records reissue on 200 gram QUIEX SV-P.
-

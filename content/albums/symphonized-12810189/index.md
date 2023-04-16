@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Classical"]
 styles: null
 ---
-
 ## Tracklisting
 1. Feel Alive
 2. Amity
@@ -45,9 +44,7 @@ styles: null
 - [Anneke van Giersbergen & het Residentie Orkest - Travel](https://www.youtube.com/watch?v=ipTnpgJcdYM)
 - [Amity (Symphonized live 2018)](https://www.youtube.com/watch?v=VSKHEUJYRus)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -57,4 +54,3 @@ styles: null
 | Catalog Number | IOMLP 520, 19075896041 |
 
 Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.  180 gr. vinyl in gatefold sleeve with insert.
-

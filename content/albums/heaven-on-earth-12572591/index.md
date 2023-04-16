@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
-
 ## Tracklisting
 1. Heaven Is A Place On Earth (4:06)
 2. Circle In The Sand (4:26)
@@ -25,6 +24,8 @@ styles: ["Pop Rock", "Ballad"]
 8. Fool For Love (3:56)
 9. Nobody Owns Me (3:12)
 10. Love Never Dies... (5:15)
+## Spotify
+{{< spotify type="album" id="34SBayfOPJb9ztyCTvS3no" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth (Official Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Pop Rock", "Ballad"]
 - [Love Never Dies](https://www.youtube.com/watch?v=ivOXrlFOeEs)
 - [Heaven is a Place on Earth (Acoustic)](https://www.youtube.com/watch?v=-Gbnyvq66Hk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -55,4 +54,3 @@ styles: ["Pop Rock", "Ballad"]
 | Catalog Number | DEMREC306 |
 
 Pressed on 180gm heavyweight translucent blue vinyl.  Manufactured in the EU.
-

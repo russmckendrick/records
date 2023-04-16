@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
-
 ## Tracklisting
 1. Troublemaker (8:32)
 2. We Forgotten Who We Are (10:46)
@@ -21,6 +20,8 @@ styles: ["Avantgarde"]
 4. Bastogne Blues (11:59)
 5. Of A Lifetime (6:44)
 6. Burning Bridges (2:30)
+## Spotify
+{{< spotify type="album" id="2cMxPNQgkmrDqCVCeZnKPA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lb3iIeh0Ruw" title="Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)" >}}
@@ -30,9 +31,7 @@ styles: ["Avantgarde"]
 - [Crippled Black Phoenix - Troublemaker (HQ)](https://www.youtube.com/watch?v=tHCxKy2xWHs)
 - [Crippled Black Phoenix - 05 Of A Lifetime (HQ)](https://www.youtube.com/watch?v=BE8p_5EDjg0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -42,4 +41,3 @@ styles: ["Avantgarde"]
 | Catalog Number | KSCOPE897 |
 
 Release in gatefold jacket. Etched on side D.  The band refers to this release as an EP, whereas the label and a lot of reviews call it an album.  Made in Germany.
-

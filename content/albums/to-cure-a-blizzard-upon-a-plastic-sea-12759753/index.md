@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. To Cure A Blizzard Upon A Plastic Sea - MF010V
 2. Binary 
@@ -57,9 +56,7 @@ styles: null
 - [VENNART - Spider Bones (Official Audio)](https://www.youtube.com/watch?v=JKgOGi636c0)
 - [Vennart 'Donkey Kong' (Official Audio)](https://www.youtube.com/watch?v=OOef0N1mbKU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -69,4 +66,3 @@ styles: null
 | Catalog Number | MF010, MF011 |
 
 Deluxe limited edition boxset featuring the following items, many of which are exclusive: - the album “To Cure A Blizzard Upon A Plastic Sea” on double 12" coloured vinyl. - the Copeland EP on 12” coloured vinyl, with 5 non-album tracks including 'Terrors' (exclusive). - a gatefold casebound jacket sleeve which will house the following additional items: - an A6 sample of Mike's lyrics, handwritten by Mike on handmade rag cotton paper (approx 11cm x 15cm) - the album on CD - the EP on CD (exclusive) - the brand new DVD 'CGI Metals', containing live performances of 6 new album tracks. Directed by Ryan Pearce. - 10” x 10” artwork print mounted inside the jacket sleeve signed by Mike. (exclusive)  The first 100 copies of the boxset came with a unique miniature Polaroid-style picture, taken by Mike, featuring imagery relating to the recording or subject matter of the album.  They will be numbered and signed by Mike.  All of the above items are held inside a rigid slipcase and entirely covered in beautiful artwork designed by Jon-Lee Martin.  Some boxsets came with a replacement-CD. By some mistake the Copeland-CD in the box had the album on it.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
-
 ## Tracklisting
 1. She Cries Your Name
 2. Tangent
@@ -26,6 +25,8 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 9. Someone's Daughter
 10. I Wish I Never Saw The Sunshine
 11. Galaxy Of Emptiness
+## Spotify
+{{< spotify type="album" id="5WpjO5MZRlFohnZ1EeIcsy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 | Catalog Number | 19439956801 |
 
 On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ######
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. 12" Mixes
 2. Running Up That Hill (A Deal With God)
@@ -57,9 +56,7 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ## Videos
 {{< youtube id="lC_U-Nu0hrw" title="Kate Bush / 2018 Remasters unboxing part 2" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -69,4 +66,3 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 | Catalog Number | 0190295593926 |
 
 Made in the E.U. 180G
-

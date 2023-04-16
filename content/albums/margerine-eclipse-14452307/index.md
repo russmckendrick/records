@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Vonal Declosion
 2. Need To Be
@@ -35,6 +34,8 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 18. Banana Monster Ne Répond Plus
 19. University Microfilms International
 20. Rose, My Rocket-Brain! (Rose, Le Cerveau Electronique de Ma Fusée!)
+## Spotify
+{{< spotify type="album" id="3QHf3tMG5tGSEpXVO6brTV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="DLPtDxWTXLk" title="Stereolab - Cosmic Country Noir" >}}
@@ -44,9 +45,7 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 - [Stereolab - Feel and Triple](https://www.youtube.com/watch?v=_aXEUwbf1S4)
 - [Stereolab - Margerine Melodie](https://www.youtube.com/watch?v=YlMqK1vzvBc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,6 +53,5 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 | Label          | Warp Records, Duophonic Ultra High Frequency Disks |
 | Format         | 2xLP, Album, RE + LP + Ltd, Num, RM, Cle |
 | Catalog Number | D-UHF-D29R |
-
 
 

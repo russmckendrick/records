@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Friend Or Foe? (7:29)
 2. Landmine Blast (4:50)
@@ -24,6 +23,8 @@ styles: ["Prog Rock", "Alternative Rock"]
 7. Self-Aware (8:43)
 8. Age Of Anger (11:56)
 9. Together Again (6:29)
+## Spotify
+{{< spotify type="album" id="06jE9Kq7KU3cfms3gUoICf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-BCXXbuQHxs" title="Friend or Foe?" >}}
@@ -38,9 +39,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [RIVERSIDE - “Friend or Foe? (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=EWQQFjyHtro)
 - [RIVERSIDE - “Self-Aware (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=Weuo4hgVHyY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -50,4 +49,3 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Catalog Number | IOM658, 19658753201 |
 
 Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC. Some copies came with signed art card.  ℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic Made in the EU
-

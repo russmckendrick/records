@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Workbook
 2. Sunspots
@@ -97,9 +96,7 @@ styles: null
 80. Turning Of The Tide
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -109,4 +106,3 @@ styles: null
 | Catalog Number | DEMRECBOX48X, DEMRECBOX48 |
 
 ℗ and © 2020 Demon Music Group.  Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced.
-

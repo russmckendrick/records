@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. True Faith (4:33)
 2. I'm Not In Love (4:27)
@@ -22,6 +21,8 @@ styles: null
 5. Sunshine After The Rain (3:46)
 6. Well I Wonder (4:50)
 7. Steal Me Easy (4:04)
+## Spotify
+{{< spotify type="album" id="7qUdFFdSea6C4Y5S3laQOz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5DwsT7QCf3M" title="True Faith" >}}
@@ -32,9 +33,7 @@ styles: null
 - [Well I Wonder](https://www.youtube.com/watch?v=P_R5Y3-2utE)
 - [Steal Me Easy](https://www.youtube.com/watch?v=tBDmZT2_3dY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -44,4 +43,3 @@ styles: null
 | Catalog Number | ADASSA003 |
 
 Glossy black inner sleeve with track list, times, writers credits on each side Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021
-

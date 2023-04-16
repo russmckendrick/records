@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Original LP Release (May 21 1971)
 2. What's Going On (3:51)
@@ -58,11 +57,11 @@ styles: ["Soul"]
 41. Head Title (AKA Distant Lover) (4:07)
 42. The Foundation
 43. What's Going On - Rhythm 'N' Strings Mix (3:50)
-
+## Spotify
+{{< spotify type="album" id="2v6ANhWhZBUKkg6pJJBs3B" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -72,4 +71,3 @@ styles: ["Soul"]
 | Catalog Number | 0600753703069 |
 
 Four LPs with inner picture sleeves housed in a soft card slipcase. Includes voucher to download MP3 version of the album and comes with a Japanese style obi. Half speed mastered.
-

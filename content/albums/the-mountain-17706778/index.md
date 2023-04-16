@@ -1,6 +1,6 @@
 ---
-title: "Haken (2) - The Mountain"
-artist: "Haken (2)"
+title: "Haken - The Mountain"
+artist: "Haken"
 album_name: "The Mountain"
 date: 2021-03-06
 release_id: "17706778"
@@ -8,12 +8,11 @@ slug: "the-mountain-17706778"
 hideSummary: true
 cover:
     image: "the-mountain-17706778.jpg"
-    alt: "The Mountain by Haken (2)"
-    caption: "The Mountain by Haken (2)"
+    alt: "The Mountain by Haken"
+    caption: "The Mountain by Haken"
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. The Path
 2. Atlas Stone
@@ -37,6 +36,8 @@ styles: ["Prog Rock", "Progressive Metal"]
 20. Somebody (9:01)
 21. The Path Unbeaten (2:12)
 22. Nobody (4:53)
+## Spotify
+{{< spotify type="album" id="3RBULTZJ97bvVzZLpxcB0j" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RvzL2FoF5W8" title="The Path" >}}
@@ -51,16 +52,13 @@ styles: ["Prog Rock", "Progressive Metal"]
 - [The Path Unbeaten](https://www.youtube.com/watch?v=N8naO6HASm0)
 - [Nobody](https://www.youtube.com/watch?v=bVmucEX4DZQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
-| Discogs Link   | [Haken (2) - The Mountain](https://www.discogs.com/release/17706778-Haken-The-Mountain) |
+| Discogs Link   | [Haken - The Mountain](https://www.discogs.com/release/17706778-Haken-The-Mountain) |
 | Label          | Inside Out Music, Sony Music |
 | Format         | 2xLP, Album, 180 + CD, Album + RE |
 | Catalog Number | IOMLP 578, 19439819551 |
 
 LP tracks position given with 0s and regardless of sides on back.  Tracks D10, D11, CD-10 and CD-11 are bonus tracks.  Packaged in a gatefold jacket with 4-page color insert, black polylined LP sleeves and hype sticker affixed to the shrink wrap on the front. CD is packaged inside in an envelope-style polypropylene sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Seasons
 2. I Regret
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Heavy Metal"]
 10. Damned If I Do
 11. Fears
 12. Don't You (Forget About Me)
+## Spotify
+{{< spotify type="album" id="0DfwAJXDy8TzMgRuPNsjkc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xNU60NaUad0" title="Life Of Agony - Other Side Of The River" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Heavy Metal"]
 - [Let's Pretend](https://www.youtube.com/watch?v=ddbThTyGJwQ)
 - [Lost at 22](https://www.youtube.com/watch?v=kjTXXVQltP0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Heavy Metal"]
 | Catalog Number | MOVLP2003 |
 
 Limited edition of 1,500 individually numbered copies. Includes insert.  Made in the EU.
-

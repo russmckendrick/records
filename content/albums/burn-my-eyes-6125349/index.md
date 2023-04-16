@@ -1,6 +1,6 @@
 ---
-title: "Machine Head (3) - Burn My Eyes"
-artist: "Machine Head (3)"
+title: "Machine Head - Burn My Eyes"
+artist: "Machine Head"
 album_name: "Burn My Eyes"
 date: 2016-09-19
 release_id: "6125349"
@@ -8,12 +8,11 @@ slug: "burn-my-eyes-6125349"
 hideSummary: true
 cover:
     image: "burn-my-eyes-6125349.jpg"
-    alt: "Burn My Eyes by Machine Head (3)"
-    caption: "Burn My Eyes by Machine Head (3)"
+    alt: "Burn My Eyes by Machine Head"
+    caption: "Burn My Eyes by Machine Head"
 genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Davidian
 2. Old
@@ -26,6 +25,8 @@ styles: ["Thrash", "Heavy Metal"]
 9. I'm Your God Now
 10. Real Eyes, Realize, Real Lies
 11. Block
+## Spotify
+{{< spotify type="album" id="4S4WHsBRNEIha796lnU8NJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}
@@ -42,16 +43,13 @@ styles: ["Thrash", "Heavy Metal"]
 - [Real Eyes, Realize, Real Lies](https://www.youtube.com/watch?v=rNBfBSStzD4)
 - [Block](https://www.youtube.com/watch?v=j7W-ZnrHTFU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
-| Discogs Link   | [Machine Head (3) - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-Burn-My-Eyes) |
+| Discogs Link   | [Machine Head - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-Burn-My-Eyes) |
 | Label          | Metal Blade Records |
 | Format         | LP, Album, RE, Gol |
 | Catalog Number | 3984-15313-1 |
 
 Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc.
-

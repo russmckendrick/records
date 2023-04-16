@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. El Dorado
 2. Living In F E A R
@@ -29,9 +28,7 @@ styles: ["Prog Rock", "Art Rock"]
 - [Marillion - Living In F E A R](https://www.youtube.com/watch?v=ggPB8O-OJNg)
 - [Marillion - F E A R (Album trailer)](https://www.youtube.com/watch?v=Ax6-2bXKPwE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +38,3 @@ styles: ["Prog Rock", "Art Rock"]
 | Catalog Number | 0211265EMU |
 
 Comes in a gatefold cover, including colour printed inner sleeves, containing lyrics.  Recorded at The Racket Club, Bucks and Real World, Box.  ℗&© 2016 Intact Records under exclusive license to Edel Germany GmbH. Made in Germany
-

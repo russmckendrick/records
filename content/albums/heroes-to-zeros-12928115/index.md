@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Dub", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Assessment
 2. Space
@@ -27,6 +26,8 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 10. Liquid Bird
 11. Simple
 12. Pure For
+## Spotify
+{{< spotify type="album" id="2VdMOAL684solHzw1XqBnI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XQceoURGvIQ" title="The Beta Band - 'Out-Side'" >}}
@@ -42,9 +43,7 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 - [The Beta Band: Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
 - [The Beta Band - Troubles+lyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -52,6 +51,5 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 | Label          | Because Music |
 | Format         | LP, Album, RE |
 | Catalog Number | BEC5543703 |
-
 
 

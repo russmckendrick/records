@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Circuitry Of The Wolf
 2. Chinaberry Tree
@@ -39,14 +38,14 @@ styles: null
 22. Wherefore Are You Not There?
 23. Apocalypso (Waltz Version)
 24. Why Are You Looking Grave? (Mogwai Remix)
+## Spotify
+{{< spotify type="album" id="1APfuoXoBLFK6PRolJdrEk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zqt8-FJsdQU" title="Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)" >}}
 - [Mew - An envoy to the open fields](https://www.youtube.com/watch?v=PT9Du2wmcqk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -56,4 +55,3 @@ styles: null
 | Catalog Number | MOVLP2561 |
 
 15th anniversary expanded edition of 2500 copies  Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn  RSD 2020 drop 2 release
-

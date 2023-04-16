@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Trafalgar Square (6:23)
 2. Me (4:49)
@@ -28,6 +27,8 @@ styles: ["Pop Rock"]
 11. Hard To Get Over (6:32)
 12. Hi-Ho The Righteous (6:06)
 13. Mulholland Queen (5:21)
+## Spotify
+{{< spotify type="album" id="4Y4gi87OKQsbWFpCVg91YH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="KgD0B0puL_k" title="Jonathan Wilson - Over the Midnight [Official Music Video]" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock"]
 - [Jonathan Wilson - Miriam Montague [Official Audio]](https://www.youtube.com/watch?v=D18nBRG6hLw)
 - [Jonathan Wilson ~ Rare Birds LIVE @ The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock"]
 | Catalog Number | BELLA730VX, BELLA730V |
 
 Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.  First cat# on sticker, second on spine.  German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP. 
-

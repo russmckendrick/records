@@ -13,7 +13,6 @@ cover:
 genres: ["Non-Music", "Stage & Screen"]
 styles: ["Soundtrack", "Comedy", "Dialogue"]
 ---
-
 ## Tracklisting
 1. Finkelstien Shit Kid (0:14)
 2. Up In Smoke (2:24)
@@ -65,16 +64,13 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 - [WAR - Low Rider (Official Video) [Remastered in 4K]](https://www.youtube.com/watch?v=BsrqKE1iqqo)
 - [Cheech & Chong Up in Smoke -Best Scenes-](https://www.youtube.com/watch?v=DzWz3En07og)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Cheech & Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition)](https://www.discogs.com/release/11926046-Cheech-y-Chong-Up-In-Smoke-40th-Anniversary-Deluxe-Collectors-Edition) |
-| Label          | Rhino Records (2), Rhino Records (2), Warner Brothers Inc. |
+| Label          | Rhino Records, Rhino Records, Warner Brothers Inc. |
 | Format         | LP, Album + 7\", Single, Mono, Pic + CD, Album + Bl |
 | Catalog Number | R1 566654, R2 566654, R1 3249 |
 
 Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #.  Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.  Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].  Side C is Stereo, Side D is Mono.
-

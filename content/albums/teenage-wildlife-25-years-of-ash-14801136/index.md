@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. A Life Less Ordinary
 2. Arcadia
@@ -37,11 +36,11 @@ styles: ["Alternative Rock", "Britpop"]
 20. Jesus Says
 21. Orpheus
 22. Jack Names The Planets
-
+## Spotify
+{{< spotify type="album" id="4Rxm9U0KKKcc3qxFhHPM9N" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Britpop"]
 | Catalog Number | BMGCAT425DLP |
 
 2LP set  Manufactured in the E.U.  Initial copies available via recordstore.co.uk were signed by the band.
-

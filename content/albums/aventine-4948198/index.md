@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
-
 ## Tracklisting
 1. Chord Left (2:29)
 2. Fuel To Fire (5:29)
@@ -40,6 +39,8 @@ styles: ["Folk"]
 23. The Curse (Instrumental Version)
 24. Aventine (Instrumental Version)
 25. Fuel To Fire (Instrumental Version)
+## Spotify
+{{< spotify type="album" id="011ifQyKbsMAWCUFDZiMaa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bbU31JLtlug" title="Agnes Obel - Chord Left" >}}
@@ -56,9 +57,7 @@ styles: ["Folk"]
 - [Agnes Obel - Fivefold](https://www.youtube.com/watch?v=nBqvRZQbFdA)
 - [Agnes Obel - Smoke And Mirrors](https://www.youtube.com/watch?v=QOGQx4khAG0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -68,4 +67,3 @@ styles: ["Folk"]
 | Catalog Number | PIASR615BOX |
 
 Limited Edition Deluxe Box Set  180g Heavyweight Vinyl & CD Album plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 ---
-
 ## Tracklisting
 1. Go!
 2. Interior Lulu
@@ -27,14 +26,14 @@ styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 10. The Memory Of Water
 11. This Is The 21st Century
 12. Cannibal Surf Babe
+## Spotify
+{{< spotify type="album" id="11dZR2BFhQpMnsUKtc6wwu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JyW569S3Ps8" title="Marillion - Less Is More (2009)" >}}
 - [Interior Lulu](https://www.youtube.com/watch?v=nFuIVoX6kaA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -44,4 +43,3 @@ styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 | Catalog Number | 0214647EMU |
 
 Gatefold sleeve. - Limited Edition (1000 only) - Printed inner sleeves containing lyrics and credits  Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.  ℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH. MADE IN GERMANY  All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched. 
-

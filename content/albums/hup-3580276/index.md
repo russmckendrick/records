@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. 30 Years In The Bathroom
 2. Radio Ass Kiss
@@ -27,15 +26,15 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 10. Unfaithful
 11. Them, Big Oak Trees
 12. Room 410
+## Spotify
+{{< spotify type="album" id="1MkOF5F1r0HEjPi1WxEuj8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}
 - [The Wonder Stuff - Unfaithful](https://www.youtube.com/watch?v=onDvSeWeJsc)
 - [The Wonder Stuff 30 Years In The Bathroom.wmv](https://www.youtube.com/watch?v=fS2AA27i0Ag)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 | Catalog Number | 841187-1 |
 
 'HUP' printed on front cover with 'The Wonder Stuff' sticker attached.  Released with a printed lyric and credit inner sleeve.  Engineered at The Greenhouse, North London.  [Labels]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. Polygram Music 1989. [Sleeve]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989.
-

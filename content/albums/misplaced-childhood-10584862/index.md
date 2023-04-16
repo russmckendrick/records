@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. 'Misplaced Childhood' 2017 Remaster
 2. Pseudo Silk Kimono
@@ -47,13 +46,13 @@ styles: ["Prog Rock", "Symphonic Rock"]
 30. Fugazi
 31. Garden Party
 32. Market Square Heroes
+## Spotify
+{{< spotify type="album" id="3ExyKxlUkqD41I8tQumMDF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VTAoZ1mF9j0" title="Marillion - Blind Curve I-V (Misplaced Childhood) (UK CD Reissue)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -63,4 +62,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | 0190295865511 |
 
 Limited Edition 4LP Deluxe Format includes - Original album remastered, Previously unreleased Live concert:'Live At Utrecht 1985', plus a 24 page booklet containing rare photos, memorabilia and an essay by Dave Everley.  12x12-Zoll-Box. Initial copies ordered from Marillion's and Fish's online store were autographed respectively.  All runouts are etched.   'Misplaced Childhood' (2017 Remaster): originally released June 16th 1985 EMI-EJ2403401,MRL2.  Ⓟ 2017 this compilation Parlophone Records Ltd. Ⓒ 2017 Parlophone Records Ltd.  This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2017 Parlophone Records Ltd. A Warner Music Group Company. 
-

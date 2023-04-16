@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Punk"]
 ---
-
 ## Tracklisting
 1. Fresh Start
 2. Bad Reputation
@@ -28,14 +27,14 @@ styles: ["Classic Rock", "Punk"]
 11. Fetish
 12. Feminazi
 13. Androgynous
+## Spotify
+{{< spotify type="album" id="1gB28ytYFQElaXngAfeYep" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZR6mM_zfxwE" title="Happy Hippie Presents: Androgynous (Performed by Miley Cyrus, Joan Jett & Laura Jane Gr..." >}}
 - [Joan Jett and Nirvana - Smells Like Teen Spirit [HD]](https://www.youtube.com/watch?v=ezcncUVJOlU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,6 +42,5 @@ styles: ["Classic Rock", "Punk"]
 | Label          | Legacy, Sony Music |
 | Format         | LP, Comp, Num, Yel |
 | Catalog Number | 19075895461 |
-
 
 

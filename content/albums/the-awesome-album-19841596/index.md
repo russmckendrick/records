@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: null
 ---
-
 ## Tracklisting
 1. 5,000 Candles in the Wind (Bye, Bye Lil Sebastian)
 2. The Pit
@@ -30,11 +29,11 @@ styles: null
 13. I Only Have Eyes For You
 14. Pickled Ginger
 15. Cold Water
-
+## Spotify
+{{< spotify type="album" id="4zfCIXQnKxcdJWIzfwHyOo" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -44,4 +43,3 @@ styles: null
 | Catalog Number | x |
 
 Mouse Rat, formerly known as Scarecrow Boat, Everything Rhymes With Orange, Fleetwood Mac Sexpants, Threeskin, Just The Tip, Tackleshaft, or Teddy Bear Suicide, is fronted by Parks and Recreation shoe shine employee Andy Dwyer.  They have released a prolific string of hits including 5000 Candles In The Wind (Bye Bye Li'l Sebastian), Catch Your Dream (featuring Duke Silver), Two Birds Holding Hands, and The Pit.  "Catch Your Dream" red, white, and blue vinyl variant exclusive to the Dualtone Store.
-

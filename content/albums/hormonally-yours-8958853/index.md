@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Goodbye Cruel World
 2. I Don't Care
@@ -27,6 +26,8 @@ styles: null
 10. Catwoman
 11. Let Me Entertain You
 12. Hello (Turn Your Radio On)
+## Spotify
+{{< spotify type="album" id="4aU1LKKiTUbCk4Qr2tWqVa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YCYaALgW80c" title="Shakespears Sister - Stay (Official Video)" >}}
@@ -37,9 +38,7 @@ styles: null
 - [Shakespears Sister 'I Don't Care'](https://www.youtube.com/watch?v=-odnJZIyc2g)
 - [Shakespears Sister - Goodbye Cruel World](https://www.youtube.com/watch?v=C575XA836cY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -49,4 +48,3 @@ styles: null
 | Catalog Number | 828 266-1, 828266.1 |
 
 Track A3 is erroneously listed as "My 16th Birthday" on the label.  Cat# 828 266-1 appears on jacket, 828266.1 on labels.  Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6.
-

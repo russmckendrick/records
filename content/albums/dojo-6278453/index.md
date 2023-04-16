@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. All That Is And Is One
 2. L∞p
@@ -24,6 +23,8 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 7. Misty Maker Stomp
 8. Rain
 9. Universe Goggles
+## Spotify
+{{< spotify type="album" id="5iiAPWKhtg9WcJq7PFuW7N" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zsoss5XuRLM" title="Jouis ► Universe Goggles [HQ Audio] Dojo 2014" >}}
@@ -35,9 +36,7 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 - [Universe Goggles](https://www.youtube.com/watch?v=ZVAL2CkJO5I)
 - [New Moon](https://www.youtube.com/watch?v=1W1eR2hEmPQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 | Catalog Number | BR 001 |
 
 All music & lyrics written by Jouis
-

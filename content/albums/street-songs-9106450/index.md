@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Disco"]
 ---
-
 ## Tracklisting
 1. Give It To Me Baby (4:07)
 2. Ghetto Life (4:20)
@@ -23,6 +22,8 @@ styles: ["Funk", "Disco"]
 6. Fire And Desire (7:19)
 7. Call Me Up (3:54)
 8. Below The Funk (Pass The J) (2:36)
+## Spotify
+{{< spotify type="album" id="2DBFUBBqJQvfXpodPi2WP5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CGbql05Pc5U" title="Rick James - Give It To Me Baby" >}}
@@ -46,9 +47,7 @@ styles: ["Funk", "Disco"]
 - [Rick James - Super Freak](https://www.youtube.com/watch?v=QYHxGBH6o4M)
 - [Rick James - Give It To Me Baby (Official Video)](https://www.youtube.com/watch?v=1dNIQVYGXbM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -58,4 +57,3 @@ styles: ["Funk", "Disco"]
 | Catalog Number | G 1002 |
 
 Includes voucher to download MP3 version of the album.  On back cover : ℗ 1981 Motown Records Company L.P. A Universal Music Company © 1981 Motown Records Company L.P. A Universal Music Company Made in the EU. LC 01846. 0600753160107  On inner sleeve : Steve Price, courtesy of A&M Records Michael Narada Walden, courtesy of Atlantic Recording Corp. Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records.
-

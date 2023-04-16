@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno", "House", "Breakbeat", "Trance"]
 ---
-
 ## Tracklisting
 1. Smiley (7:08)
 2. Satan (30-Something Years Later Mix) (7:10)
@@ -60,9 +59,7 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 - [Belfast (David Holmes Remix)](https://www.youtube.com/watch?v=H_avqDJCJ54)
 - [Orbital - Belfast (ANNA Ambient Remix) Visualiser](https://www.youtube.com/watch?v=oYDGnjjLMzU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -72,4 +69,3 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 | Catalog Number | LMS5521698 |
 
 Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat. 
-

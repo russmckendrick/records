@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
-
 ## Tracklisting
 1. Black Cow (5:07)
 2. Aja (7:56)
@@ -22,6 +21,8 @@ styles: ["Pop Rock", "Fusion"]
 5. Home At Last (5:31)
 6. I Got The News (5:03)
 7. Josie (4:30)
+## Spotify
+{{< spotify type="album" id="5Zxv8bCtxjz11jjypNdkEa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XRj0Ohg-y1A" title="Black Cow" >}}
@@ -32,9 +33,7 @@ styles: ["Pop Rock", "Fusion"]
 - [I Got The News](https://www.youtube.com/watch?v=T6DSoyAjkus)
 - [Josie](https://www.youtube.com/watch?v=qwZ_u_UKb0Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock", "Fusion"]
 | Catalog Number | 0076732168813 |
 
 Issued with a printed inner sleeve and housed in a gatefold jacket. Includes an MP3 download code card.  [Back To Black sticker on shrink wrap:] [Back To Black logo] [Universal Music Group International logo] Includes a voucher to download MP3 version of the album 180 Gram Heavyweight Vinyl www.backtoblackvinyl.com [B2B code]  [Gatefold inside:] Recorded at: Village Recorders, West L.A.; Producer's Workshop, Hollywood; Warner Bros. North Hollywood Recording Studios; ABC Recording Studios; Sound Labs, Hollywood; A&R Studios, N.Y.C.  [Rear sleeve:] ℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. Made in the EU.  [Inner sleeve:] Steve Gadd and Michael McDonald appear through courtesy of [Warner Bros. Records, Inc.](https://www.discogs.com/label/90718-Warner-Bros-Records-Inc) Chuck Rainey appears through courtesy of [l74446] Victor Feldman appears through courtesy of [l42541]. Lee Ritenour appears through courtesy of [l1213591]. Wayne Shorter appears through courtesy of [l269353] Tom Scott appears through courtesy of [Ode Records](https://www.discogs.com/label/36012-Ode-Records-2). All selections © 1977 ABC/Dunhill Music, Inc. (BMI). © 1977 ABC Records, Inc.  [Labels:] Published by ABC/Dunhill Music, Inc. (BMI) ℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. [...] Made in the EU.  Runout details: Everything is stamped except hand-etched 'GREG MOORE @ MASTERPIECE' on side B.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. INXS
 2. On A Bus
@@ -137,9 +136,7 @@ styles: null
 120. Shine
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -149,4 +146,3 @@ styles: null
 | Catalog Number | 0602537778867 |
 
 Includes download voucher.  "Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels).
-

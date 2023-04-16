@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Act I
 2. Incantation For The Different
@@ -29,15 +28,15 @@ styles: ["Prog Rock"]
 12. The Pilgrim
 13. I'm Ok, Just Not Alright
 14. The Scene Is A False Prophet
+## Spotify
+{{< spotify type="album" id="2qUu76qcYJEtd5F85BBi2E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="07XHKXhfah0" title="CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us (official video) 2022" >}}
 - [CRIPPLED BLACK PHOENIX - Blackout77 (official video) 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
 - [CRIPPLED BLACK PHOENIX - Bonefire (official audio) 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -47,4 +46,3 @@ styles: ["Prog Rock"]
 | Catalog Number | SOM 646LP |
 
 Released with a matte triple gatefold sleeve and three printed inner sleeves.  Indicators from hype sticker on foil: Special vinyl mastering, 24/48 for more than 90 minutes of music [Hi-Res Audio logo] First pressing on black triple vinyl (1,500 copies worldwide)  Indicators on rear: ℗ & © 2022 Season Of Mist  Indicators on inner gatefold: Recorded at Chapel Studio, Lincolnshire, November 2020ad & April 2021ad. Additional vocal sessions recorded at: Kapsylen Studio, Stockholm Monolith Studio Churchstreet Studio, Bergen  ------------------------------------------------- Misspelled words on the inner sleeve of second vinyl: For track C1 'Rose of Jericho' credits for synthesizer is misspelled as 'Syths'. For track D2 'Down The Rabbit Hole' credits for [a=Justin Greaves] are misspelled as 'Jusitn'. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Philosophy Of Mind (7:41)
 2. Anamorphia (5:56)
@@ -23,11 +22,11 @@ styles: ["Post Rock"]
 6. Spheres (6:01)
 7. Spires Of Ascendency (4:27)
 8. Infinity (7:32)
-
+## Spotify
+{{< spotify type="album" id="1ncW9ytqUn06IQb6SHFPqH" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -35,6 +34,5 @@ styles: ["Post Rock"]
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Format         | LP, Album, Sky |
 | Catalog Number | none |
-
 
 

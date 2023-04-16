@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Privilege
 2. Fluorescent Light
@@ -27,6 +26,8 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 10. The Maze
 11. California, I Love That Name
 12. Wanderers
+## Spotify
+{{< spotify type="album" id="33vbGD5V5sEDbyzXJnYPtg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Q1-jaX3K4Ik" title="Privilege" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 - [Fluorescent Light](https://www.youtube.com/watch?v=UItCDy8ARYA)
 - [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 | Catalog Number | Q101943 |
 
 Limited to 500 copies. Pressed on 140g bone vinyl, double gatefold. Includes Digital Download.
-

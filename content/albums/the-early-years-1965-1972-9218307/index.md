@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. 1965-67 Cambridge St/ation
 2. Lucy Leave (2:57)
@@ -448,9 +447,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 431. Absolutely Curtains (5:52)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -460,4 +457,3 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Catalog Number | 0190295950255, PFREYB1 |
 
 Made in the EU. CONTINU/ATION is exclusive to the box set, as are the larger memorabilia items, which are reproduced in actual size for the box. The package contain more than 100 photographs of Pink Floyd; the majority of which are previously unseen, as well as more than 40 items of memorabilia in special wallets.  In addition, Pink Floyd's first five UK singles have been included in the box, on 7" vinyl with replica sleeves: PFREYS1 - Arnold Layne, PFREYS2 - See Emily Play, PFREYS3 - Apples And Oranges, PFREYS4 - It Would Be So Nice, PFREYS5 - Point me at the Sky. It is noted that BR5 has a copy of the the whole 'Meddle' Album in 5.1 and a new stereo mix. This is not accessable through the menu as an Easter egg, but can be accessed using Blu ray editing software. As this is not officially available, I have not noted the contents on the disc.  In France, letter included in the box : Dear fan, the CD 1972 Obfusc/ation PFREY6 present in your boxset "The Early Years" presents an error of production: the recording STEREO 2016 MIX of PINK FLOYD "Live At Pompeii" was reproduced instead of the announced recording Obscured By Clouds 2016 Remix.  You will find attached a CD 1972 Obfusc/ation PFREY6 of replacement corresponding to the original tracklisting. Thank you for understanding  Post release Pink Floyd Records/Warner Music issued corrected Blu Ray discs for "1972: Obfusc/ation" & "1967-1972 Continu/ation" to those who filed online for replacements. Parlophone cited errors in the discs playability. Replacements were mailed sealed in slimline CD single jewel cases:  “Following reported problems from fans, a small batch of faulty Blu-ray discs from the Early Years 1965-1972 box set have been identified: the 1972 ‘Obfusc/ation’ Blu-ray and bonus package ‘Continu/ation’ Blu-ray 1.  A disc replacement service has now been set up via fulfilment house Docdata. Purchasers with a non-playing copy of PFREY6BD or PREFY7BD1 should contact them at customerserviceteam@warnermusic.com and they will arrange a replacement disc.  We apologize for the inconvenience and stress that this may have caused to box purchasers, although we have ascertained that this unavoidable damage could not have been predicted.”  The printed duration of tracks DVD4-11 and BR4-11 "Alan’s Psychedelic Breakfast" (quad mix)  is 13:01. However on DVD and BD the actual track durations are only 11:58 / 11:59. The last minute of the tracks has been cut out for some reason.
-

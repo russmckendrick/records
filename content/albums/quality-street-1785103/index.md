@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Lose My Way
 2. Sons Of The Stage
@@ -38,9 +37,7 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 - [World Of Twist - She's A Rainbow (The Rolling Stones Cover)](https://www.youtube.com/watch?v=VTjqaOblvHU)
 - [World of Twist - Loose My Way](https://www.youtube.com/watch?v=5uuowMS0j6w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -50,4 +47,3 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 | Catalog Number | CIRCA 17, 212 242 |
 
 Thanks to Martin Hannett.
-

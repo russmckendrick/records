@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Electro"]
 ---
-
 ## Tracklisting
 1. This Side
 2. Bassline (5:24)
@@ -24,6 +23,8 @@ styles: ["Electro"]
 7. Ladies (6:54)
 8. Get Stupid "Fresh" Part I (3:48)
 9. Fresh Is The Word (3:48)
+## Spotify
+{{< spotify type="album" id="10kEW14CpfmiAkXnE5Ic3K" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}
@@ -42,9 +43,7 @@ styles: ["Electro"]
 - [Mantronix - Fresh Is The Word](https://www.youtube.com/watch?v=M2xKzGy93E8)
 - [Fresh Is The Word](https://www.youtube.com/watch?v=K0TMOqwF1mo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,6 +51,5 @@ styles: ["Electro"]
 | Label          | Demon Music Group, Sleeping Bag Records |
 | Format         | LP, Album, RE, 180 |
 | Catalog Number | DEMREC 364 |
-
 
 

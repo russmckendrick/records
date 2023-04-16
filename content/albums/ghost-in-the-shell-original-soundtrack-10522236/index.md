@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ---
-
 ## Tracklisting
 1. M01 謡I - Making Of Cyborg
 2. M02 Ghosthack (本編未使用)
@@ -34,9 +33,7 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 - [Ghost in the Shell OST - Floating Museum](https://www.youtube.com/watch?v=S9579XgUUds)
 - [Kenji Kawai – 謡II - Ghost City [1995] HQ HD](https://www.youtube.com/watch?v=T1lFE39E1Tc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +43,3 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 | Catalog Number | WRWTFWW017LTD |
 
 Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing. Version with correct printed obi strip: [r10806721].  Hype sticker reads: "First official release on vinyl."  Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet.
-

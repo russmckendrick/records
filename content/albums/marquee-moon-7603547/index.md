@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
-
 ## Tracklisting
 1. See No Evil (3:56)
 2. Venus (3:48)
@@ -23,6 +22,8 @@ styles: ["New Wave", "Punk"]
 6. Guiding Light (5:36)
 7. Prove It (5:04)
 8. Torn Curtain (7:00)
+## Spotify
+{{< spotify type="album" id="630o1rKTDsLeIPreOY1jqP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="puIM6LkKLpI" title="See No Evil" >}}
@@ -34,9 +35,7 @@ styles: ["New Wave", "Punk"]
 - [Prove It](https://www.youtube.com/watch?v=-kS2t2YTBFs)
 - [Torn Curtain](https://www.youtube.com/watch?v=UVAooI5jLaQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -46,4 +45,3 @@ styles: ["New Wave", "Punk"]
 | Catalog Number | 8122797158 |
 
 Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.   Ltd Edition of 3000 copies
-

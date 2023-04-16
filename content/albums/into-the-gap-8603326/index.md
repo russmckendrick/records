@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Doctor! Doctor!
 2. You Take Me Up
@@ -24,6 +23,8 @@ styles: ["Synth-pop"]
 7. Hold Me Now
 8. Storm On The Sea
 9. Who Can Stop The Rain
+## Spotify
+{{< spotify type="album" id="6tcBa4XORQYZBuFCILU3tX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="BPLpz3sVB_k" title="Thompson Twins - You Take Me Up" >}}
@@ -35,9 +36,7 @@ styles: ["Synth-pop"]
 - [Thompson Twins - Doctor! Doctor! (Video)](https://www.youtube.com/watch?v=APyl6Cnbfzw)
 - [Thompson Twins - You take me up  - TOTP  - 1984](https://www.youtube.com/watch?v=K7ssLvcmLQs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +46,3 @@ styles: ["Synth-pop"]
 | Catalog Number | VIN180LP103 |
 
 Recorded at Compass Point Studios, Nassau. Mixed at Rak Studios, London. Mastered at Sterling Sound, New York.  ℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management.  © 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.  Made in the EU.
-

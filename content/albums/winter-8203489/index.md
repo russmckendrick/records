@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Winter (7:57)
 2. Devout (5:07)
@@ -28,6 +27,8 @@ styles: ["Progressive Metal"]
 11. How Tall The Trees (1:33)
 12. ... This Road (7:43)
 13. Grace (3:20)
+## Spotify
+{{< spotify type="album" id="50O9zBtbDovF8Z8Z4xnHEO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QxzqnetYSbk" title="OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)" >}}
@@ -49,9 +50,7 @@ styles: ["Progressive Metal"]
 - [Oceans of Slumber - Memoriam (Blue Session)](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
 - [Oceans of Slumber - Memoriam](https://www.youtube.com/watch?v=VzIFon4hR2s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -61,4 +60,3 @@ styles: ["Progressive Metal"]
 | Catalog Number | 88875193851 |
 
 Gatefold 2LP (with etching on side D). Tracks durations indicated on back of gatefold.  © & ℗ 2016 Century Media Records Ltd. Manufactured in Germany.  Tracked during the winter months of 2013-2014 in Spring, TX at Origin Sound. Additional tracking at Big Door Studio in Clear Lake, TX.  Track A3 "Nights In White Satin" is a cover of [a266422].
-

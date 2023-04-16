@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Afrobeat", "Fusion"]
 ---
-
 ## Tracklisting
 1. Field Negus (3:03)
 2. Pick Up Your Burning Cross (3:44)
@@ -26,6 +25,8 @@ styles: ["Afrobeat", "Fusion"]
 9. Envision Yourself Levitating (8:23)
 10. Throughout The Madness, Stay Strong (5:53)
 11. Black (2:42)
+## Spotify
+{{< spotify type="album" id="6AfA0FZhzRTpjDDYHkCd5B" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ELXDbxKjx48" title="Field Negus" >}}
@@ -40,9 +41,7 @@ styles: ["Afrobeat", "Fusion"]
 - [Throughout The Madness, Stay Strong](https://www.youtube.com/watch?v=fH4baTgOALo)
 - [Black](https://www.youtube.com/watch?v=d6CADUV0QB0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -52,4 +51,3 @@ styles: ["Afrobeat", "Fusion"]
 | Catalog Number | 00602435621661 |
 
 Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts.
-

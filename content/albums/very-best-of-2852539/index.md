@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Last Of The Famous International Playboys
 2. You're Gonna Need Someone On Your Side
@@ -33,6 +32,8 @@ styles: ["Alternative Rock"]
 16. Everyday Is Like Sunday
 17. Interlude
 18. Moonriver
+## Spotify
+{{< spotify type="album" id="5oAGSydt5MOvgRCnh1os9t" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CW6xl0oYWjc" title="Morrissey - Boxers - Vinyl" >}}
@@ -46,9 +47,7 @@ styles: ["Alternative Rock"]
 - [🔴 Morrissey ‎– Complete C Side [ Very Best Of LP 10th Anniversary ]](https://www.youtube.com/watch?v=Xcu1Bs1PxSA)
 - [Morrissey - Tomorrow](https://www.youtube.com/watch?v=vDdQcfz6pbo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -58,4 +57,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | SMLP71, 50999-096896-1-9 |
 
 Digitally Remastered | File Under Popular  This version of Interlude is previously unreleased.  Very similar to the 2016 reissue ([r=10082664]) in which the copyrights are not owned by EMI Records Ltd. but by Parlophone Records Ltd.  Songwriter credits are listed on inner-sleeves with tracks 1 to 19, whereas the producers are listed with side and track number for each side. Credit is given for "Gatefold Photographer" but this 2 LP-set comes in a single pocket wide-spine sleeve with inner sleeves. The inner sleeves configure to make one image.  Runouts: 'BB30418-01 A/B/C/D1 MK' stamped, remainder etched  Some copies included a hype sticker: "180 Gram * Limited Edition Classic LP * High-Definition Premium Virgin Vinyl Pressing for Super Fidelity * The Nicest Thing You Can Do For Your Stylus And Your Ears The Ultimate Record: The Way Music Was Meant To Be Heard And Great Enough For An Audiophile"
-

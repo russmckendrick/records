@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Chelsea Girl
 2. Drive Blind
@@ -30,14 +29,14 @@ styles: ["Indie Rock"]
 13. How Does It Feel To Feel?
 14. I Don't Know Where It Comes From
 15. Black Nite Crash
+## Spotify
+{{< spotify type="album" id="43qzoPgTc1B2V7qJ6nPTjT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}
 - [Ride - Like A Daydream](https://www.youtube.com/watch?v=8zzo25t_eC8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 081227955137 |
 
 Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.  Pressing plant uncredited, identified by the three concentric rings near the spindle hole.
-

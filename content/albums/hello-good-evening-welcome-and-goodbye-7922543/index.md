@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Rubbish (4:59)
 2. Do Re Me, So Far So Good (2:57)
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. The Only Living Boy In New Cross (4:35)
 11. Sheriff Fatman (4:36)
 12. Rent (3:58)
+## Spotify
+{{< spotify type="album" id="0V5f26pCXvxLghZ66UM2h8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CQwq74RfkZw" title="The Music that Nobody Likes (Live)" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Rock"]
 - [Rubbish (Live)](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
 - [CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -46,6 +45,5 @@ styles: ["Indie Rock"]
 | Label          | 3 Loop Music |
 | Format         | LP, Album, Red |
 | Catalog Number | 3RANGE-50LP |
-
 
 

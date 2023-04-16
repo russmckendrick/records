@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Generations
 2. Saviour
@@ -42,9 +41,7 @@ styles: ["Indie Rock"]
 - [Rain Song](https://www.youtube.com/watch?v=WTQg9B90ytM)
 - [Irresistible Force](https://www.youtube.com/watch?v=wi5gO_h08Bg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +51,3 @@ styles: ["Indie Rock"]
 | Catalog Number | ldung19 |
 
 Hype sticker on sleeve. Inner sleeve with lyrics reports "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."
-

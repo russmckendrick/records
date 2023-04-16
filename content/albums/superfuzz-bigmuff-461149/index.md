@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Here
 2. Touch Me I'm Sick
@@ -23,6 +22,8 @@ styles: ["Alternative Rock", "Grunge"]
 6. No One Has
 7. If I Think
 8. In 'N' Out Of Grace
+## Spotify
+{{< spotify type="album" id="318b6Is2MnqkuL079NnPko" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Pf_yzsgnOnI" title="Need" >}}
@@ -32,9 +33,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [If I Think](https://www.youtube.com/watch?v=TDnCLWgCdk0)
 - [In 'n' Out of Grace](https://www.youtube.com/watch?v=LYKAXJC1Lkk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Grunge"]
 | Catalog Number | GR 0034 |
 
 Recorded at Reciprocal.  Manufactured under license from Sub Pop Records, USA.  Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".  The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype. 
-

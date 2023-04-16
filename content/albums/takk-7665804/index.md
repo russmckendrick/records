@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Takk...
 2. Glósóli
@@ -26,6 +25,8 @@ styles: ["Post Rock"]
 9. Svo Hljótt
 10. Heysátan
 11. Mílanó
+## Spotify
+{{< spotify type="album" id="12tw1A9HmwE3MHvPfHhdoP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli [Official Music Video]" >}}
@@ -41,9 +42,7 @@ styles: ["Post Rock"]
 - [Svo hljótt](https://www.youtube.com/watch?v=FUri60guH2w)
 - [Heysátan](https://www.youtube.com/watch?v=zEGX8WEodDU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +52,3 @@ styles: ["Post Rock"]
 | Catalog Number | KRUNK9LP |
 
 2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".  Sticker on front reads: Sigur Rós "Takk…" Deluxe 180g Vinyl 2 x LP & Etched 10"  Sides are actually numbered 1A, 1B, 2A, 2B, 3A.
-

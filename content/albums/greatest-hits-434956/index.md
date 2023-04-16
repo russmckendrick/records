@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Do It Again (5:50)
 2. Reeling In The Years (4:35)
@@ -42,9 +41,7 @@ styles: ["Classic Rock"]
 - [Doctor Wu](https://www.youtube.com/watch?v=ImtdntJQfSs)
 - [Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -52,6 +49,5 @@ styles: ["Classic Rock"]
 | Label          | ABC Records |
 | Format         | 2xLP, Comp |
 | Catalog Number | ABCD 616 |
-
 
 

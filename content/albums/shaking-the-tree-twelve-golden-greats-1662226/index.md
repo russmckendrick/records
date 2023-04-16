@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Solsbury Hill
 2. I Don't Remember
@@ -29,9 +28,7 @@ styles: ["Art Rock", "Pop Rock"]
 12. Biko
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -41,4 +38,3 @@ styles: ["Art Rock", "Pop Rock"]
 | Catalog Number | PGTV 6, 211-178 |
 
 Stickered cover to aid identification.
-

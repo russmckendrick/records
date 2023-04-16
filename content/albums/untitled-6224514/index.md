@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Black Dog (4:55)
 2. Rock And Roll (3:40)
@@ -27,9 +26,7 @@ styles: ["Hard Rock", "Blues Rock"]
 ## Videos
 {{< youtube id="NRUTJAO7uLE" title="Led Zeppelin - When The Levee Breaks (HQ Sound)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -39,4 +36,3 @@ styles: ["Hard Rock", "Blues Rock"]
 | Catalog Number | 8122-79657-7, 8122796577 |
 
 Release doesn't feature an explicit title, as with the original issues. It is, however, referred to as "Led Zeppelin IV" in online retailers and such.  180gr vinyl in gatefold sleeve with insert.  Printed on front cover sticker: "LED ZEPPELIN'S CLASSIC 4th ALBUM ON 180g VINYL Includes Stairway To Heaven, Black Dog & Rock And Roll Remastered & Produced by Jimmy Page [barcode image 0 81227 96577 8] 8122796577"  Cat# on labels 8122-79657-7 Cat# on sticker on front cover : 8122769577  Manufactured in Germany. (on label) Made in the EU (inside the sleeve)
-

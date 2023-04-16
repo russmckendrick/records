@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. I Got You (3:24)
 2. Shark Attack (2:52)
@@ -26,6 +25,8 @@ styles: ["New Wave", "Pop Rock"]
 9. Poor Boy (3:19)
 10. How Can I Resist Her (3:26)
 11. The Choral Sea (4:29)
+## Spotify
+{{< spotify type="album" id="5UjwQ3co1TWY9458ojqjAj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}
@@ -37,9 +38,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
 - [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -49,4 +48,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | AMLH 68422 |
 
 Released with a special inner sleeve. Silver hype sticker on sleeve "Limited Edition Laser-Etched Disc AMLH 64822"  Holographic etched vinyl.  Recorded at Armstrongs, Melbourne, Australia. A Boomerang production. © 1980 A&M Records Ltd. ℗ 1979 Mushroom Records Pty. Ltd. Australia. 
-

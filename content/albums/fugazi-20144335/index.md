@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Record 1 - Fugazi (2021 Remix)
 2. Assassing (7:01)
@@ -40,13 +39,13 @@ styles: ["Prog Rock"]
 23. Fortgotten Sons (11:03)
 24. Garden Party (6:35)
 25. Market Square Heroes (10:46)
+## Spotify
+{{< spotify type="album" id="1qU6HQ914NtTvXmsLoGbAz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Qp8P1qxEdmE" title="Marillion - She Chameleon (Fugazi) (European CD Reissue)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -56,4 +55,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 0190295016463 |
 
 Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website. Signed by Fish when pre-ordered at Fish webshop  Ⓟ 2021 this compilation Parlophone Records Ltd.  Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany 
-

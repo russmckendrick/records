@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Orion From The Street
 2. Do Me A Favour
@@ -27,15 +26,15 @@ styles: ["Indie Rock"]
 10. Invisible Days
 11. The Curtained Room
 12. You Get Better
+## Spotify
+{{< spotify type="album" id="3kmU9xUYWy6FtCkrsFrNOx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YfdqxwgyFgY" title="Field Music - Flat White Moon (Full Album) 2021" >}}
 - [Field Music - Not When You're In Love (Official Video)](https://www.youtube.com/watch?v=EhJQccb1GnU)
 - [Field Music - Flat White Moon](https://www.youtube.com/watch?v=DlP8QWJtV04)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -43,6 +42,5 @@ styles: ["Indie Rock"]
 | Label          | Memphis Industries |
 | Format         | LP, Album, Ltd, Tra |
 | Catalog Number | MI0657LP |
-
 
 

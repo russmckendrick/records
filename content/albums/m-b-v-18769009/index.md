@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze"]
 ---
-
 ## Tracklisting
 1. She Found Now
 2. Only Tomorrow
@@ -24,6 +23,8 @@ styles: ["Shoegaze"]
 7. In Another Way
 8. Nothing Is
 9. Wonder 2
+## Spotify
+{{< spotify type="album" id="2SlSnUYW5bgtdWXVymv18a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rBKjhgHGVZs" title="she found now - m b v  - my bloody valentine" >}}
@@ -36,9 +37,7 @@ styles: ["Shoegaze"]
 - [nothing is - m b v - my bloody valentine](https://www.youtube.com/watch?v=HHlVpADx_jk)
 - [wonder 2 - m b v - my bloody valentine](https://www.youtube.com/watch?v=pWyRfqfEC2s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Shoegaze"]
 | Catalog Number | REWIGLP160X |
 
 Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve. Includes a set of 5 card art prints and download card.  [Sticker on shrink / front] "Fully Analog Cut includes download codes 24-bit . 16-bit . mp3 Made in the EU"  
-

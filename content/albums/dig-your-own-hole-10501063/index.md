@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
-
 ## Tracklisting
 1. Block Rockin' Beats
 2. Dig Your Own Hole
@@ -26,6 +25,8 @@ styles: ["Breakbeat", "Big Beat"]
 9. Lost In The K-Hole
 10. Where Do I Begin
 11. The Private Psychedelic Reel
+## Spotify
+{{< spotify type="album" id="0FjHy5dCyVROqDUl6f2VTK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0kMfTYPzSnI" title="Block Rockin' Beats" >}}
@@ -39,9 +40,7 @@ styles: ["Breakbeat", "Big Beat"]
 - [Where Do I Begin](https://www.youtube.com/watch?v=_91HbYkguwk)
 - [The Private Psychedelic Reel](https://www.youtube.com/watch?v=aqGzrjL3kys)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +50,3 @@ styles: ["Breakbeat", "Big Beat"]
 | Catalog Number | 5761964, 00602557619645 |
 
 20th Anniversary Silver vinyl edition. Gatefold cover. Printed in the UK.  ℗ 1997 Virgin Records Limited. © 1997 Virgin Records Limited.  Includes a download code for the album in 16 bit WAV format, [r=11516477].  The colour is rather gray than the stated silver.
-

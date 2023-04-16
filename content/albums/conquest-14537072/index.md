@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Cut-up/DJ", "Turntablism"]
 ---
-
 ## Tracklisting
 1. Conquest
 2. Emag Revo (1:35)
@@ -61,9 +60,7 @@ styles: ["Cut-up/DJ", "Turntablism"]
 {{< youtube id="uxVfxVVk6yM" title="DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)" >}}
 - [Mix Master Mike - Mixmasterpiece: Muzik's Worst Nightmare (1996) - Side A](https://www.youtube.com/watch?v=PtH9zgYXpP4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -73,4 +70,3 @@ styles: ["Cut-up/DJ", "Turntablism"]
 | Catalog Number | MMMCONQUEST1 |
 
 Limited to 1,000 copies worldwide.  Rough Trade album of the month December 2019.  Includes a full length bonus mix CD, mixing the whole album into one continuous mix (which also features an unreleased jam featuring MCA) packaged in it's own card sleeve.  Timings not listed.
-

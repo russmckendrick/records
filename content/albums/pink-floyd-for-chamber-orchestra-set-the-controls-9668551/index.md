@@ -13,7 +13,6 @@ cover:
 genres: ["Classical"]
 styles: null
 ---
-
 ## Tracklisting
 1. 1st Movement - Invention (13:21)
 2. 2nd Movement - Harmony (13:54)
@@ -21,9 +20,7 @@ styles: null
 4. 4th Movement - Reconstruction (11:24)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -33,4 +30,3 @@ styles: null
 | Catalog Number | CPLVNYG224 |
 
 Limited to 500 copies.
-

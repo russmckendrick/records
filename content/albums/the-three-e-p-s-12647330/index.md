@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Champion Versions
 2. Dry The Rain
@@ -43,6 +42,8 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 26. It's Over
 27. Dr. Baker
 28. Needles In My Eyes
+## Spotify
+{{< spotify type="album" id="6w7XFtdCQf871KU40Ot1Ra" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6XKvbROUmNk" title="Dry The Rain (Remaster)" >}}
@@ -55,9 +56,7 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 - [She's the One (Remaster)](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
 - [The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)](https://www.youtube.com/watch?v=uaz3BW_FeZE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -67,4 +66,3 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 | Catalog Number | BE5543747, BEC5543616, BEC5543615 |
 
 First cat. no on barcode stuck on rear of sleeve (to distinguish from [standard black vinyl version](https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429)), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).  Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD  B3 not listed on label  Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website 
-

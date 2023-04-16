@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Mausoleum Of My Former Self (4:53)
 2. Can’t Carry On (3:46)
@@ -24,6 +23,8 @@ styles: ["Indie Pop"]
 7. The Keep (4:23)
 8. Everlasting Joy (5:11)
 9. Distant Snowy Peaks (5:36)
+## Spotify
+{{< spotify type="album" id="0t5GazJOs8tEpPRSlg5odm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="nr3HnNMS1Cw" title="Gruff Rhys - Loan Your Loneliness (Official Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Pop"]
 - [Everlasting Joy](https://www.youtube.com/watch?v=OztJcWT6krI)
 - [Distant Snowy Peaks](https://www.youtube.com/watch?v=aKUrrXx6HQg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Indie Pop"]
 | Catalog Number | RT0127LP2 |
 
 Comes in a mountain die-cut envelope-style sleeve with belly band.  Initial copies from Rough Trade came with a poster and signed postcard.  Dark green vinyl.  Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.  Track durations are not mentioned on the release.
-

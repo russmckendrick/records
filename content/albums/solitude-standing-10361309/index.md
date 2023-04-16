@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Tom's Diner (2:08)
 2. Luka (3:51)
@@ -26,6 +25,8 @@ styles: ["Pop Rock"]
 9. Gypsy (4:01)
 10. Wooden Horse (Caspar Hauser's Song) (5:09)
 11. Tom's Diner (Reprise) (2:39)
+## Spotify
+{{< spotify type="album" id="5w4IN5bPXAQD5iAVPNqvMg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="L9x-DENKIts" title="Tom's Diner" >}}
@@ -41,9 +42,7 @@ styles: ["Pop Rock"]
 - [Wooden Horse (Casper Hauser's Song)](https://www.youtube.com/watch?v=nPBZDs5y2vg)
 - [Tom's Diner (Reprise)](https://www.youtube.com/watch?v=bnOQIfaNQso)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -53,4 +52,3 @@ styles: ["Pop Rock"]
 | Catalog Number | B0026079-01 |
 
 2017 reissue. Black vinyl. MASTERED BY CAPITOL stamped on Side A only.
-

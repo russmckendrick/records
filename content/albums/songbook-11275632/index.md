@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Four Simple Words (4:57)
 2. I Still Believe (3:46)
@@ -44,11 +43,11 @@ styles: ["Folk Rock"]
 27. Broken Piano (5:33)
 28. Long Live The Queen (3:42)
 29. The Ballad Of Me And My Friends (3:00)
-
+## Spotify
+{{< spotify type="album" id="59XmOOWGNhybRV8B0PsFlH" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -58,4 +57,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 6700056 |
 
  
-

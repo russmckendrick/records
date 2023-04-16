@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Emo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Coconut Crab
 2. A Chase Of Sorts
@@ -29,9 +28,7 @@ styles: ["Emo", "Indie Rock"]
 ## Videos
 {{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island [Full LP] (2016)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -39,6 +36,5 @@ styles: ["Emo", "Indie Rock"]
 | Label          | Sargent House |
 | Format         | LP, Album |
 | Catalog Number | sh157 |
-
 
 

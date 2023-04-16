@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Carry On (4:25)
 2. Teach Your Children (2:53)
@@ -77,6 +76,8 @@ styles: ["Folk Rock", "Country Rock"]
 60. Our House (Early Version) (2:55)
 61. 4 + 20 (Alternate Take 2) (2:08)
 62. Know You Got To Run (6:42)
+## Spotify
+{{< spotify type="album" id="5bHkK1X4WEOzNvRhehvOcb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GIxb2gm3HeE" title="Déjà Vu (2021 Remaster)" >}}
@@ -105,16 +106,13 @@ styles: ["Folk Rock", "Country Rock"]
 - [Triad (Demo) (2021 Remaster)](https://www.youtube.com/watch?v=weuAjAmZD60)
 - [Teach Your Children (2021 Remaster)](https://www.youtube.com/watch?v=ZT6mclMGtVA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Crosby, Stills, Nash & Young - Déjà Vu](https://www.discogs.com/release/18715600-Crosby-Stills-Nash-Young-D%C3%A9j%C3%A0-Vu) |
-| Label          | Atlantic, Rhino Records (2) |
+| Label          | Atlantic, Rhino Records |
 | Format         | LP, Album, RE, RM + CD, Album, RE, RM + 3xCD + Box |
 | Catalog Number | 603497848027, R2 625238 |
 
 Hype sticker: "The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."  Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein"  on backcover: Made In Germany
-

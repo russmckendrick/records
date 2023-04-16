@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle Pop", "Latin", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Kajagoogoo (Instrumental)
 2. Don't You (Forget About Me)
@@ -92,9 +91,7 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 ## Videos
 {{< youtube id="nRp5WuZgvDM" title="Life Moves Pretty Fast - The John Hughes Mixtapes Trailer" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -104,4 +101,3 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 | Catalog Number | DEMRECBOX71 |
 
 Manufactured in the EU  6-LP, 140gm, translucent red vinyl box set  73 tracks featured in the following John Hughes films: National Lampoon's Vacation Sixteen Candles The Breakfast Club Weird Science Pretty In Pink Ferris Bueller's Day Off Some Kind of Wonderful Planes, Trains & Automobiles She's Having A Baby The Great Outdoors Uncle Buck  Includes 24-pg booklet with extensive liner notes and other commentary. 
-

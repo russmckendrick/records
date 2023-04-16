@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Wretched Soul (5:27)
 2. Dead In The Water (4:44)
@@ -25,6 +24,8 @@ styles: ["Prog Rock"]
 8. Someone Pull Me Out (4:00)
 9. Last Man Standing (3:13)
 10. Little Man (3:42)
+## Spotify
+{{< spotify type="album" id="3u0IGTWxu7msPN0uA3AoaJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tlceIFqEOIQ" title="Wretched Soul (Rewired)" >}}
@@ -40,9 +41,7 @@ styles: ["Prog Rock"]
 - [Last Man Standing (Rewired)](https://www.youtube.com/watch?v=JlZI834YzYg)
 - [Little Man (Rewired)](https://www.youtube.com/watch?v=uj_DZgvgnyM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,4 +51,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE1172 |
 
 The time stamp in the back cover of the record doesn't match the real time stamp. Song times were updated according the recording results.
-

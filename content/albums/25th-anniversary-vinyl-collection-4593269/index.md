@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Yo! Bum Rush The Show (1987)
 2. You're Gonna Get Yours
@@ -119,16 +118,13 @@ styles: null
 - [Public Enemy 25th Anniversary Box Set out May 6th 2013](https://www.youtube.com/watch?v=qIMs1YfI9XU)
 - [Public Enemy-Fear Of A Black Planet Album Review](https://www.youtube.com/watch?v=9rqg7OrJlG8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269-Public-Enemy-25th-Anniversary-Vinyl-Collection-) |
 | Label          | Def Jam Recordings |
 | Format         | LP + LP + LP + 2xLP + 2xLP + 2xLP + Box, Comp, Ltd |
-| Catalog Number | 06007 534 087-8 (0) |
-
+| Catalog Number | 06007 534 087-8 |
 
 

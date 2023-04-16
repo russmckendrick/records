@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
-
 ## Tracklisting
 1. Track Fast	
 2. Ghost Of A Chance
@@ -32,6 +31,8 @@ styles: ["Punk", "Ska"]
 15. I Kept A Promise
 16. Cold Cold Blood
 17. This Is Not The End
+## Spotify
+{{< spotify type="album" id="0IJ8KmhJausnsCjUvgM5vY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pYnKxE1ezUc" title="Where I'm Going - Rancid" >}}
@@ -40,9 +41,7 @@ styles: ["Punk", "Ska"]
 - [An Intimate Close Up of a Street Punk Trouble Maker - Rancid](https://www.youtube.com/watch?v=hKeH-vtQIdo)
 - [Telegraph Avenue - Rancid](https://www.youtube.com/watch?v=2hcr2RdhWJ0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -52,4 +51,3 @@ styles: ["Punk", "Ska"]
 | Catalog Number | 7465-1 |
 
 It contains a double sided insert.
-

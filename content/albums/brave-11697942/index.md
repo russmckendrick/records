@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Brave (2018 Steven Wilson Remix)
 2. Bridge
@@ -55,6 +54,8 @@ styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 38. Waiting To Happen
 39. Hooks In You
 40. The Space...
+## Spotify
+{{< spotify type="album" id="1gREZOde7X9shG1p2WmsvU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ycNDhICNwf0" title="Brave (2018 Steven Wilson Remix)" >}}
@@ -65,9 +66,7 @@ styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 - [Marillion london 1994](https://www.youtube.com/watch?v=pSQ711hFFGU)
 - [Goodbye to All That: Wave / Mad / The Opium Den / The Slide / Standing in the Swing (2018...](https://www.youtube.com/watch?v=ZnI9s1TSB6k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -77,4 +76,3 @@ styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 | Catalog Number | 0190295722951 |
 
 This is the vinyl version of a brand new (2018) Stereo Remaster of Marillion's 1994 album Brave. Comes with a 12" booklet (24 pages) with lyrics, new artwork and new sleeve notes by Philip Wilding.  From Marillion website -  ''It is available to pre-order now and we will be hand signing a special A4 sized print for anyone who orders from us before midnight on February 16th''.   Disc one and two of the set features a brand new remix of the album by Steven Wilson .  Discs three, four and five contain Marillion’s April 29, 1994 concert at La Cigale in Paris.  Newly remixed by Michael Hunter, the music includes a performance of Brave in its entirety, which first appeared in 1996 on the band’s double live album, Made Again.   Those recordings have been expanded with nine unreleased tracks, including live renditions of fan favourites like “No One Can,” “Easter,” “Waiting To Happen” and “Hooks In You.”  ℗ 2018 this compilation Parlophone Records Ltd. © 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2018 Parlophone Records Ltd. A Warner Music Group Company.
-

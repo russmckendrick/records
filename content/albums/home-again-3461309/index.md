@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Modern Electric Blues", "Soul", "Folk"]
 ---
-
 ## Tracklisting
 1. Tell Me A Tale (4:09)
 2. I'm Getting Ready (2:21)
@@ -25,6 +24,8 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 8. I Won't Lie (4:01)
 9. Any Day Will Do Fine (3:37)
 10. Worry Walks Beside Me (4:57)
+## Spotify
+{{< spotify type="album" id="79VDAdjzMMGoftIbw5feYN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TpoVVdL3lDA" title="Michael Kiwanuka - Tell Me A Tale (Live At Hackney Round Chapel)" >}}
@@ -37,16 +38,13 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 - [Michael Kiwanuka - I Won't Lie](https://www.youtube.com/watch?v=0t2KhjyKEus)
 - [Michael Kiwanuka feat. Dan Auerbach - Lasan](https://www.youtube.com/watch?v=GQUo8lLxVmI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Michael Kiwanuka - Home Again](https://www.discogs.com/release/3461309-Michael-Kiwanuka-Home-Again) |
-| Label          | Polydor, Communion Records (2) |
+| Label          | Polydor, Communion Records |
 | Format         | LP, Album |
 | Catalog Number | 2797133 |
 
 ℗ & © Polydor Ltd. The Copyright in this sound recording is owned by Polydor Ltd. A Universal Music Company  Mastered at Electric Mastering - London Except A5 Mastered at 24-96 Mastering Published by Warner Chappell Art Direction at Big Active  Runouts are laser-etched, except "Guy's - ELECTRIC", which is hand-etched.
-

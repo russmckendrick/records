@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. When You Are Young
 2. Outsiders
@@ -36,9 +35,7 @@ styles: ["Indie Rock"]
 - [Suede - Night Thoughts (Album Sampler)](https://www.youtube.com/watch?v=d5conz2AbJk)
 - [Suede  - Pale Snow](https://www.youtube.com/watch?v=ir9RgLZuIfY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,4 +45,3 @@ styles: ["Indie Rock"]
 | Catalog Number | SUEDEAMZREP1, DEMREC367 |
 
 Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition.   Blue vinyl Amazon exclusive version. 1,000 only.  Sent in plain white sleeves with no album cover or inserts (unless requested).   ℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd. © Demon Music Group Ltd Made in the EU.
-

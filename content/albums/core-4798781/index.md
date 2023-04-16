@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Dead & Bloated (5:09)
 2. Sex Type Thing (3:37)
@@ -27,6 +26,8 @@ styles: ["Grunge", "Alternative Rock"]
 10. Wet My Bed (1:36)
 11. Crackerman (3:12)
 12. Where The River Goes (8:27)
+## Spotify
+{{< spotify type="album" id="5kxuokOacguIqDJRh1ZXRC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8hhu-OyHqZM" title="Stone Temple Pilots - Sex Type Thing (Official Music Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Grunge", "Alternative Rock"]
 - [No Memory (2017 Remaster)](https://www.youtube.com/watch?v=HfxaR9S-BXU)
 - [Piece of Pie (2017 Remaster)](https://www.youtube.com/watch?v=vTWgyYkVWXE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -50,4 +49,3 @@ styles: ["Grunge", "Alternative Rock"]
 | Catalog Number | MOVLP833 |
 
 Standard black 2xLP vinyl release, 180 gram audiophile vinyl with etched D-Side.  Recorded at Rumbo Recorders in Los Angeles, CA Mixed at Can Am Studion (sic) in Los Angeles, CA Mastered at Future Disc Systems  Originally released ℗ & © 1992 Warner Music. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music. Made in the EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Momo
 2. Push/Pull
@@ -25,6 +24,8 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 8. If....
 9. Is That What You Wanted To Hear?
 10. Forget The Credits
+## Spotify
+{{< spotify type="album" id="3Pu648nWwshjvkl96rKxPS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eQWIrE9xGes" title="bdrmm - Bedroom (Full Album)" >}}
@@ -32,9 +33,7 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 - [bdrmm - A Reason To Celebrate (Official Audio)](https://www.youtube.com/watch?v=_PMHvJwelug)
 - [bdrmm - Happy (Official Audio)](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -44,4 +43,3 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 | Catalog Number | SCR160LP |
 
 Limited Red Vinyl
-

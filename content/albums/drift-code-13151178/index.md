@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Vanishing Heart
 2. Judgement Train
@@ -24,15 +23,15 @@ styles: ["Folk", "Psychedelic Rock"]
 7. Light The Light
 8. Martian Garden
 9. All Summer
+## Spotify
+{{< spotify type="album" id="7E97tVDTSx7tRk8v3XGRvS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RyrGv1d8gFk" title="Rustin Man - Vanishing Heart (Official Video)" >}}
 - [Rustin Man - The World's in Town (Official Audio)](https://www.youtube.com/watch?v=TAGq1470T7I)
 - [Rustin Man - Judgement Train (Official Video)](https://www.youtube.com/watch?v=IgBs42v3l0k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: ["Folk", "Psychedelic Rock"]
 | Catalog Number | WIGLP414, WIGLP414XM |
 
 [Hype sticker on front]: "Deluxe mart edition 180 gram heavyweight vinyl Includes exclusive signed photographic print plus download code. WIGLP414XM 887828041459"  This version which includes the signed print was available only direct from Domino.  Recorded at Barnlight Studios, North West essex. Mastered at Electric Mastering, London. Cover photograph  - Archives Kunkels Organ Foundation. Booklet photograph still taken from the short film directed by Edwin Burdis.  All songs published by Domino Publishing Co. Ltd except "Our Tomorrows" and " Light The Light" Domino Publishing Co. Ltd. / Copyright Control.  Made in the EU ℗&© 2019 Domino Recording Co. Ltd.
-

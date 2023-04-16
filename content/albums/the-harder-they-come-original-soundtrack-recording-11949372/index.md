@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae", "Stage & Screen"]
 styles: ["Soundtrack", "Reggae"]
 ---
-
 ## Tracklisting
 1. You Can Get It If You Really Want
 2. Draw Your Brakes
@@ -49,9 +48,7 @@ styles: ["Soundtrack", "Reggae"]
 - [Jimmy Cliff - Sitting In Limbo + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=9r1Dwa3bou0)
 - [The Melodians - It's My Delight + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=fvMp6elDcOQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -61,4 +58,3 @@ styles: ["Soundtrack", "Reggae"]
 | Catalog Number | 00602567073949 |
 
 180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched.
-

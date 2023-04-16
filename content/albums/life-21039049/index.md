@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Real Thing
 2. Song For A Family
@@ -42,9 +41,7 @@ styles: ["Indie Pop"]
 - [Inside My Head](https://www.youtube.com/watch?v=e1RiKH53Ko0)
 - [Sackville](https://www.youtube.com/watch?v=LY0CCIt5t1s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +51,3 @@ styles: ["Indie Pop"]
 | Catalog Number | ldung8 |
 
 "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)....."
-

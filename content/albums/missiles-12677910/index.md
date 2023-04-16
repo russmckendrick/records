@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Part I
 2. Disclaimer (6:44)
@@ -28,13 +27,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Meltdown In A Major (5:09)
 12. Part III
 13. Saviour (11:20)
+## Spotify
+{{< spotify type="album" id="22sAE4K4007kSsI6Lm6We2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dcxOp26H2OM" title="The Dears - Missiles" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | DGB033, DE050014 |
 
 ℗ © 2018 Dangerbird Records LLC  Tenth Anniversary First Edition on Vinyl LP 
-

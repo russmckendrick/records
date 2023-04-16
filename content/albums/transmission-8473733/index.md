@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Darkwave", "EBM", "Techno"]
 ---
-
 ## Tracklisting
 1. Metal Box
 2. Consequences of Love
@@ -25,6 +24,8 @@ styles: ["Darkwave", "EBM", "Techno"]
 8. You Disco I Freak
 9. Strom
 10. Transwave
+## Spotify
+{{< spotify type="album" id="0PhdBZuLPXXwuF2mbuefld" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="B-nlvSKFLs8" title="DEATH IN VEGAS  -   YOU DISCO I FREAK" >}}
@@ -35,9 +36,7 @@ styles: ["Darkwave", "EBM", "Techno"]
 - [Death in Vegas - Transwave](https://www.youtube.com/watch?v=g-4vdO6FuX4)
 - [DEATH IN VEGAS 'TRANSMISSION'](https://www.youtube.com/watch?v=pY8W241L9x0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +46,3 @@ styles: ["Darkwave", "EBM", "Techno"]
 | Catalog Number | DRONE 007LP |
 
 Tri-fold gatefold sleeve.  Includes digital download code.  
-

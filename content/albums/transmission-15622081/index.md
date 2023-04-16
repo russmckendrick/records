@@ -13,17 +13,16 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Transmission
 2. Novelty
+## Spotify
+{{< spotify type="album" id="51BKPr5L8cGZGk9bl9Jf5L" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HfIT468m8Nk" title="JOY DIVISION - Transmission (Factory / 1979) FULL 7" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -33,4 +32,3 @@ styles: ["New Wave", "Post-Punk"]
 | Catalog Number | FAC13.12, FAC 13 X 12 |
 
 Embossed sleeve.  On front: FACTORY RECORDS—DEC.80—JD—FAC.13—A  On spine: JOY DIVISION TRANSMISSION  Ⓟ1979, 2020 Warner Music UK Ltd.  ©2020 Warner Music UK Ltd.  On rear: FACTORY RECORDS—DEC.80—JD—FAC.13—B  On black inner sleeve (both sides): White [l264765] logo on bottom
-

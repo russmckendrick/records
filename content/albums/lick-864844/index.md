@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Mallo Cup
 2. Glad I Don't Know
@@ -26,6 +25,8 @@ styles: ["Punk", "Indie Rock"]
 9. I Am A Rabbit
 10. Sad Girl
 11. Ever
+## Spotify
+{{< spotify type="album" id="0YynOffgq2WqjglN3JsE45" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Oyr-I8wU9kA" title="The Lemonheads   Lick Full Album" >}}
@@ -42,9 +43,7 @@ styles: ["Punk", "Indie Rock"]
 - [Glad I Dont Know](https://www.youtube.com/watch?v=ux4Uo9uCrPU)
 - [I Am a Rabbit- The Lemonheads](https://www.youtube.com/watch?v=t6rQgNS01x4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -54,4 +53,3 @@ styles: ["Punk", "Indie Rock"]
 | Catalog Number | SERV 007 |
 
 © 1988 Ray Burr Music, Inc. Issued under license ℗ 1989 World Service.  Sad Girl (1/87) Ever (8/86)   Made in England   Distribution: UK - Rough Trade/Cartel                   BENELUX - Rough Trade B.V.                    W. Germany - Rough Trade G.M.B.H. 
-

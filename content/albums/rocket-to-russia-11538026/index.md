@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Power Pop", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Cretin Hop (1:55)
 2. Rockaway Beach (2:06)
@@ -29,11 +28,11 @@ styles: ["Punk", "Power Pop", "Rock & Roll"]
 12. Ramona (2:35)
 13. Surfin' Bird (2:37)
 14. Why Is It Always This Way? (2:32)
-
+## Spotify
+{{< spotify type="album" id="7Jb0VtDTacuQdXM3pYyrbv" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Punk", "Power Pop", "Rock & Roll"]
 | Catalog Number | RR1 6042, 081227932701 |
 
 Hype sticker on shrink wrap has NO barcode/NO catalog number RR1 6042. Another version exists with different hype sticker (WITH barcode & RR1 6042 on sticker) found here: [r=11534113]   Superior 2017 Remastered Audio.  [Labels] All selections published by Taco Tunes, Warner Chappell-ASCAP Track B2: Bobby Freeman Music/Clockus Music Co.-BMI Track B6: Atlantic Music Corp./Beechwood Music Corp.-BMI Made in E.U.  [Inner sleeve] Copyright © 1977 Taco Tunes/Bleu Disque Music Co., Inc. (ASCAP) Copyright © 1977 Sire Records, Inc.  [Back cover] Recorded at Media Sound, New York Mixed at the Power Station, New York ℗ & © 2018, 1977 Sire Records Company. Manufactured in E.U.
-

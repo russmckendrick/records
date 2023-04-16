@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Shout (6:31)
 2. The Working Hour (6:31)
@@ -23,6 +22,8 @@ styles: ["Pop Rock"]
 6. Broken (2:38)
 7. Head Over Heels (5:02)
 8. Listen (6:49)
+## Spotify
+{{< spotify type="album" id="3myPwaMYjdwhtq0nFgeG6W" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pP6C_RX-Ghw" title="Tears For Fears - Everybody Wants To Rule The World (1 Hour)" >}}
@@ -35,9 +36,7 @@ styles: ["Pop Rock"]
 - [Broken](https://www.youtube.com/watch?v=Vsva4qGh8l8)
 - [Listen](https://www.youtube.com/watch?v=JPCn04KwUgQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 3794995 |
 
 Includes voucher to download MP3 version of the album.  ℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited. Made in EU.   All runouts are hand etched. Plating symbols are mirrored. 
-

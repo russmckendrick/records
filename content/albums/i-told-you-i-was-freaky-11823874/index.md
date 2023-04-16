@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Comedy"]
 ---
-
 ## Tracklisting
 1. Hurt Feelings (2:38)
 2. Sugalumps (2:12)
@@ -28,6 +27,8 @@ styles: ["Comedy"]
 11. Friends (2:04)
 12. Carol Brown (3:27)
 13. Angels (2:36)
+## Spotify
+{{< spotify type="album" id="0a89maD3IKWIyWdOljmkQb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="86wcD9XmJ_k" title="Flight of the Conchords- Pencils In The Wind Album Verison" >}}
@@ -47,9 +48,7 @@ styles: ["Comedy"]
 - [Sugalumps](https://www.youtube.com/watch?v=4QnCfVkL-K4)
 - [Angels](https://www.youtube.com/watch?v=Pt_ujVh6o-0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -57,6 +56,5 @@ styles: ["Comedy"]
 | Label          | Sub Pop |
 | Format         | LP, Album, Ltd, RE, Gre |
 | Catalog Number | SP 800 |
-
 
 

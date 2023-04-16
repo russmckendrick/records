@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Oh No (4:21)
 2. Master Swarm (6:36)
@@ -29,6 +28,8 @@ styles: ["Indie Rock"]
 12. The Privateers (3:24)
 13. Souverian (7:18)
 14. On Ho! (1:08)
+## Spotify
+{{< spotify type="album" id="6mBVlPWGqKYGGTVsSxPWPW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kSOKpw9Y2GY" title="Oh No" >}}
@@ -39,9 +40,7 @@ styles: ["Indie Rock"]
 - [Natural Disaster](https://www.youtube.com/watch?v=dOiQDGPIMtU)
 - [Tenuousness](https://www.youtube.com/watch?v=0nSbR0hG6nc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -51,4 +50,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 1124-1 |
 
 Lightweight paper disc sleeves have artwork on one side and track list and lyrics on the other.
-

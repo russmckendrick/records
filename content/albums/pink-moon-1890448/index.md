@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Folk", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Pink Moon
 2. Place To Be
@@ -26,6 +25,8 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 9. Free Ride
 10. Harvest Breed
 11. From The Morning
+## Spotify
+{{< spotify type="album" id="5mwOo1zikswhmfHvtqVSXg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZgHdUeMHTwc" title="Pink Moon" >}}
@@ -40,9 +41,7 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 - [Harvest Breed](https://www.youtube.com/watch?v=7d87RHPn8kI)
 - [From The Morning](https://www.youtube.com/watch?v=xPe5ZQx0OpQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -52,4 +51,3 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 | Catalog Number | 006025 17456976 |
 
 Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl. Issued with hype sticker on shrink wrap and download code.  Engineer: John Wood, Sound Techniques
-

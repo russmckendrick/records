@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Alternative Rock", "Ballad"]
 ---
-
 ## Tracklisting
 1. Reindeer King
 2. Wings
@@ -28,14 +27,14 @@ styles: ["Acoustic", "Alternative Rock", "Ballad"]
 11. Bats
 12. Benjamin
 13. Mary's Eyes
+## Spotify
+{{< spotify type="album" id="79ZYYTpqesBlTe4hrWiO8b" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ub0yooZAGOA" title="Tori Amos - Reindeer King (Audio)" >}}
 - [Tori Amos - Cloud Riders (Audio)](https://www.youtube.com/watch?v=DmVvSjVFh28)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Acoustic", "Alternative Rock", "Ballad"]
 | Catalog Number | 00028948155880 |
 
 2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.  This European-made release is the sole version on vinyl, released and available in all major territories.
-

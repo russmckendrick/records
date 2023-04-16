@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae", "Funk / Soul"]
 styles: ["Ska", "New Wave"]
 ---
-
 ## Tracklisting
 1. Black Skin Blue Eyed Boys
 2. B.L.M.
@@ -25,6 +24,8 @@ styles: ["Ska", "New Wave"]
 8. Embarrassed By You
 9. The Life And Times (Of A Man Called Depression)
 10. We Sell Hope
+## Spotify
+{{< spotify type="album" id="2K7Z8kR4tsXDIkS0jWLkwZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3y0-Z3w3xq0" title="Stereotype (Live At Le Bataclan)" >}}
@@ -48,9 +49,7 @@ styles: ["Ska", "New Wave"]
 - [Ghost Town (Live At Le Bataclan)](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
 - [All The Time In The World (Live At The Troxy)](https://www.youtube.com/watch?v=XLV6zYEDqGA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -60,4 +59,3 @@ styles: ["Ska", "New Wave"]
 | Catalog Number | 7721103, 00602577211034 |
 
 Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover
-

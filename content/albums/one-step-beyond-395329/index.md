@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. One Step Beyond... (2:17)
 2. My Girl (2:44)
@@ -30,6 +29,8 @@ styles: ["Ska"]
 13. Mummy's Boy (2:24)
 14. Madness (2:37)
 15. Chipmunks Are Go! (0:52)
+## Spotify
+{{< spotify type="album" id="5Jst9QoWbNmjQFUyGIkMnA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SOJSM46nWwo" title="Madness - One Step Beyond (Official 4k Video)" >}}
@@ -51,9 +52,7 @@ styles: ["Ska"]
 - [Madness ‎– My Girl](https://www.youtube.com/watch?v=tpp4chKLJTc)
 - [Madness ‎– Night Boat To Cairo](https://www.youtube.com/watch?v=aU2nnpZu0S0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1979 |
@@ -63,4 +62,3 @@ styles: ["Ska"]
 | Catalog Number | SEEZ 17 |
 
 Similar UK versions (SEEZ 17): [r=395329] (this) - "Bed & Breakfast" on labels and sleeve; "Copyright Control" publisher; [r=10744663] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Copyright Control" publisher; [r=6915969] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Nutty Sounds / Warner" publisher;  A Clanger / Alan Winstanley Production. Recorded at Eden & T.W. Studios. Mixed at Rushent's Mansion (The Lucky Bleeder).  ℗ 1979  All tracks published by Copyright Control except B1 by Melodisc Records Ltd. and B6 by Warner Bros Music Ltd.  Both sleeve and label list B2 as Bed & Breakfast instead of Bed & Breakfast Man as seen on later issues. The track B7 'Madness' is intentionally not credited on either the sleeve or label.  Runouts are etched except for the CBS mark which is stamped SEEZ 17 A1 is etched SEEZ 16, the six is struck by a line and followed by a 7 (variants 2 & 7)
-

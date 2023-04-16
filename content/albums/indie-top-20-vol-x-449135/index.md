@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Groovy Train (Terry Farley Mix)
 2. Make It Mine
@@ -58,9 +57,7 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 - [THE TELESCOPES   Precious little](https://www.youtube.com/watch?v=8iHM5E1TT0A)
 - [Rent - Carter USM (Pet Shop Boys Cover)](https://www.youtube.com/watch?v=1omqMqpyj4Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -70,4 +67,3 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 | Catalog Number | TT010 |
 
 Comes in a gatefold sleeve.
-

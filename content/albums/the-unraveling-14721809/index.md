@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Southern Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. Rosemary With A Bible And A Gun (3:20)
 2. Armageddon's Back In Town (3:49)
@@ -24,13 +23,13 @@ styles: ["Southern Rock", "Country Rock"]
 7. Babies In Cages (5:32)
 8. Grievance Merchants (4:08)
 9. Awaiting Resurrection (8:35)
+## Spotify
+{{< spotify type="album" id="1DQ6Hm6J2aIZ1SvGii3bzj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -40,4 +39,3 @@ styles: ["Southern Rock", "Country Rock"]
 | Catalog Number | ATO0518LP, 0882388515 |
 
 Black Vinyl Version.   ℗ & © 2020 ATO Records, LLC  16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
-
 ## Tracklisting
 1. Freddie's Dead
 2. Ma And Pa
@@ -27,6 +26,8 @@ styles: ["Ska", "Punk"]
 10. Slow Movin' (Howard Beach Party)
 11. Ghetto Soundwave
 12. Change
+## Spotify
+{{< spotify type="album" id="3fFLTUfssjzN4vipRRfGxZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HC0buvIyOkE" title="Fishbone - Ghetto Soundwave" >}}
@@ -39,9 +40,7 @@ styles: ["Ska", "Punk"]
 - [Fishbone - Freddie's Dead (Video)](https://www.youtube.com/watch?v=zFrz7sBWbyw)
 - [Bonin in the boneyard by Fishbone](https://www.youtube.com/watch?v=78ZVbw74OhU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -51,4 +50,3 @@ styles: ["Ska", "Punk"]
 | Catalog Number | MOVLP606 |
 
 1000 copies pressed on 180 gram vinyl.
-

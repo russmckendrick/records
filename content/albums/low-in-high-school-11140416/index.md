@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. My Love, I’d Do Anything For You (4:43)
 2. I Wish You Lonely (2:58)
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. When You Open Your Legs (3:17)
 11. Who Will Protect Us From The Police? (4:05)
 12. Israel (5:55)
+## Spotify
+{{< spotify type="album" id="6NqxNgmWYbWW8xkASo13UZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8Z13FURjttI" title="Morrissey - My Love, I'd Do Anything for You (Official Audio)" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock"]
 - [Morrissey - Who Will Protect Us from the Police? (Official Audio)](https://www.youtube.com/watch?v=cvDRtyoqHNw)
 - [Morrissey - Israel (Official Audio)](https://www.youtube.com/watch?v=uCKjotJEWjo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 538337938, 538337931, 538337891 |
 
 Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green. Green printed inner sleeve of card which is centre hole die cut on one side only. Includes a credit card sized download voucher, printed on both sides. Package came in hype stickered shrink-wrap.  Runouts are etched.
-

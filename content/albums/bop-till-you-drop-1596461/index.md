@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Little Sister (3:49)
 2. Go Home, Girl (5:10)
@@ -24,6 +23,8 @@ styles: ["Blues Rock", "Rock & Roll"]
 7. Trouble You Can't Fool Me (4:55)
 8. Don't You Mess Up A Good Thing (4:08)
 9. I Can't Win (4:16)
+## Spotify
+{{< spotify type="album" id="6GQLj4tvPqK3jjqTt1Lt5L" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="d4lmMBHlAS4" title="Down in Hollywood" >}}
@@ -40,9 +41,7 @@ styles: ["Blues Rock", "Rock & Roll"]
 - [Don't Mess up a Good Thing](https://www.youtube.com/watch?v=zVss8tMwcpg)
 - [I Think Its Going to Work out Fine](https://www.youtube.com/watch?v=MVEMQ_SCc6w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1979 |
@@ -52,4 +51,3 @@ styles: ["Blues Rock", "Rock & Roll"]
 | Catalog Number | K56691, K 56691, BSK 3358 |
 
 Cat.# K 56691 on rear cover and spine, K 56691 on the labels; additional US cat.# BSK 3358 on rear sleeve and on labels in parentheses.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Crop Circle
 2. Powertrip
@@ -31,6 +30,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 14. Big God (B-Side)
 15. The Game (B-Side)
 16. Space Lord (Intergalactic 7 Remix)
+## Spotify
+{{< spotify type="album" id="6oLlvooHUXzfZdxk5q0XN9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jE7Zv6d-HUA" title="Monster Magnet - Powertrip" >}}
@@ -49,9 +50,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 - [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
 - [Monster Magnet – See You In Hell](https://www.youtube.com/watch?v=MRrEUZLWD9o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -61,4 +60,3 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 | Catalog Number | 00600753637661 |
 
 Black vinyl. Printed inner sleeves.  Hype sticker on the shrink-wrap: MONSTER MAGNET OFFICIAL RE-ISSUE 2LP SET RE-MASTERED FOR MAXIMUM POWERTRIPPIN! "Swing's like God's Own Dick!" Includes sleeve-notes & bonus studio + remixed material Includes Free Album Download Code 00600753637661  Recorded at North Vine Studios and NRG Recording Services. Mixed at The Armoury Studios, Vancouver, BC, Chapel Studios, Encino, CA, Larrabee West, Hollywood, CA, and A&M Recording Studios, Hollywood, CA. Mastered at Precision Sound Studios, Los Angeles, CA.  All songs published by Bull God Music Inc./Songs of PolyGram International, Inc. (BMI)  Original Sound Recording Made by A&M Records Ltd.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company. Made in the EU.
-

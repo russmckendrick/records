@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Christopher Tracy's Parade (2:11)
@@ -29,6 +28,8 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 12. Kiss (3:38)
 13. Anotherloverholenyohead (3:58)
 14. Sometimes It Snows In April (6:50)
+## Spotify
+{{< spotify type="album" id="54DjkEN3wdCQgfCTZ9WjdB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="H9tEvfIsDyo" title="Prince - Kiss (Official Music Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 - [Do U Lie?](https://www.youtube.com/watch?v=FRaxAVVuqLs)
 - [Christopher Tracy's Parade](https://www.youtube.com/watch?v=U2QWdZ7m_3o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -51,4 +50,3 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 | Catalog Number | 1-25395 |
 
 Hype sticker: Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"  Dust sleeve with photo collage and detailed credits.  Labels: Music from the motion picture [m=268031]   
-

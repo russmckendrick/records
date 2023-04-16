@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Britpop"]
 ---
-
 ## Tracklisting
 1. Joyriders
 2. Lipgloss
@@ -25,6 +24,8 @@ styles: ["Britpop"]
 8. Pink Glove
 9. Someone Like The Moon
 10. David's Last Summer
+## Spotify
+{{< spotify type="album" id="2HyDLO6tHAOx2QiQr9RLCf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="38by00DGid0" title="Pulp - Babies (Official Video)" >}}
@@ -40,9 +41,7 @@ styles: ["Britpop"]
 - [Pulp - David's Last Summer](https://www.youtube.com/watch?v=1ir1Ib3Tbdw)
 - [Pulp - Someone Like The Moon](https://www.youtube.com/watch?v=3bzX8OG2nZc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,4 +51,3 @@ styles: ["Britpop"]
 | Catalog Number | 4785292 |
 
 An initial run of copies of this release were exclusively sold on [l11249] stores (those copies have an "HMV exclusive" sticker placed on shrink).   Released with lyrics / credits printed on a glossy liner.  ℗ 1994 except track 2 ℗ 1993 & track 5 ℗ 1992 Island Records Ltd. © 2016 Universal-Island Records Ltd 
-

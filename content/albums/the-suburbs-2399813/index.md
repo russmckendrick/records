@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Suburbs
 2. Ready To Start
@@ -31,6 +30,8 @@ styles: ["Indie Rock"]
 14. Sprawl II (Mountains Beyond Mountains)
 15. Suburban War
 16. The Suburbs (Continued)
+## Spotify
+{{< spotify type="album" id="0gkUcpkyW2SXN49Yktkf6F" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NuSbELCNloc" title="Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)" >}}
@@ -50,9 +51,7 @@ styles: ["Indie Rock"]
 - [Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)](https://www.youtube.com/watch?v=tGVFjGjeyQM)
 - [Arcade Fire - Half Light I (Official Lyric Video)](https://www.youtube.com/watch?v=qrwCeUqB8CU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -62,4 +61,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 2743427 |
 
 Printed notes: Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin;  and various bedrooms, living rooms and basements in Montréal. Mixed at: Studio Frisson, Montréal. Copyright Arcade Fire Music Inc. (Canada). All Titles Copyright Control.  A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER. EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.   Other notes: Album comes in a gatefold sleeve.  Inner sleeves with lyrics and credits. Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16. Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely. 
-

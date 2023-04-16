@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 ---
-
 ## Tracklisting
 1. Satanic Reverses (4:45)
 2. Famous And Dandy (Like Amos 'N' Andy) (6:35)
@@ -29,6 +28,8 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 12. California Über Alles (4:13)
 13. Water Pistol Man (5:54)
 14. Rock The Vote (Exercise Your Right)
+## Spotify
+{{< spotify type="album" id="1FJ9XKn6aTTigSG5GTQaXZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XgtIGQkZyrU" title="THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)" >}}
@@ -59,9 +60,7 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 - [Water Pistol Man](https://www.youtube.com/watch?v=571lGlM0dAE)
 - [The Disposable Heroes of Hiphoprisy - Satanic Reverses](https://www.youtube.com/watch?v=wS0f9Gh8gLQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
@@ -71,4 +70,3 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 | Catalog Number | BRLPX 584, 512 207-1 |
 
 Fourth & Broadway is a division of Island Records ℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.  The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.  Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"  The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1. This is reflected in the barcode which ends 2591
-

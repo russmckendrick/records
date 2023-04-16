@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Is There A Better Way
 2. Mad About The Boy
@@ -31,9 +30,7 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 - [Status Quo - Blue For You - HQ](https://www.youtube.com/watch?v=mmMh_6myHmw)
 - [Status Quo - Mystery Song](https://www.youtube.com/watch?v=-nDAMYKKZao)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -43,4 +40,3 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 | Catalog Number | 4723766 |
 
 Gatefold sleeve.  Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1976 Mercury Records Limited/Universal Music Catalogue ℗ 1976 Mercury Records Limited
-

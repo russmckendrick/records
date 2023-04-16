@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. The Charm Offensive (7:19)
 2. Heaven Alive (6:21)
@@ -25,13 +24,13 @@ styles: ["Alternative Rock", "Post Rock", "Indie Rock"]
 8. Mine Host (4:10)
 9. You Can't Keep A Bad Man Down (7:36)
 10. Ornament / The Last Wrongs (9:23)
+## Spotify
+{{< spotify type="album" id="3ZveR9515NaBOT7w4hMre6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1sc9tN_DVX0" title="Oceansize - New Pin" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2005 |
@@ -41,4 +40,3 @@ styles: ["Alternative Rock", "Post Rock", "Indie Rock"]
 | Catalog Number | BBQ 244 |
 
 Recorded at Monnow Valley Studio, Monmouth and at The Works Studio, Stockport. Mixed at Sarm West Studio, London. Mastered at Abbey Road, London. 
-

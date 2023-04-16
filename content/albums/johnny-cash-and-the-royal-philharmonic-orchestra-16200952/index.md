@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Man In Black
 2. Galway Bay
@@ -27,11 +26,11 @@ styles: null
 10. The Gambler
 11. Ring Of Fire
 12. Highwayman
-
+## Spotify
+{{< spotify type="album" id="5dkglmRYnnvIxZSR5hJcNT" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -39,6 +38,5 @@ styles: null
 | Label          | Columbia, Legacy, Sony Music |
 | Format         | LP, Album |
 | Catalog Number | 19075996061 |
-
 
 

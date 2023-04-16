@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. Respectable Street
 2. Generals And Majors
@@ -26,6 +25,8 @@ styles: ["New Wave"]
 9. Burning With Optimism's Flames
 10. Sgt. Rock (Is Going To Help Me)
 11. Travels In Nihilon
+## Spotify
+{{< spotify type="album" id="6sLuXZdrb1cmsAnfrmgbrU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uCuZ11IW1CY" title="XTC - Generals and Majors - Black Sea [1980]" >}}
@@ -38,9 +39,7 @@ styles: ["New Wave"]
 - [XTC - Sgt. Rock-Multi-Coloured Wap Shop BBC1 Television 1981](https://www.youtube.com/watch?v=OjQwLBYHcx0)
 - [XTC - Towers Of London](https://www.youtube.com/watch?v=nYui2Z-12WI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,6 +47,5 @@ styles: ["New Wave"]
 | Label          | Ape House |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | APELP104 |
-
 
 

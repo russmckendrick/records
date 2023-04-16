@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Be Your Husband
 2. Lover, You Should've Come Over
@@ -49,6 +48,8 @@ styles: ["Folk Rock", "Art Rock"]
 32. Sweet Thing
 33. Monologue - Good Night Bill
 34. Hallelujah
+## Spotify
+{{< spotify type="album" id="58NsNICf7hyif5WruzsLWc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GQm1cX8uWxE" title="Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)" >}}
@@ -56,9 +57,7 @@ styles: ["Folk Rock", "Art Rock"]
 - [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
 - [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -68,4 +67,3 @@ styles: ["Folk Rock", "Art Rock"]
 | Catalog Number | 88985494801 |
 
 Fabric box containing 4 single glossy jackets with black paper inner sleeves. Eight page full color booklet of photos and liner notes.  Hype sticker says: "Record Store Day  First Time on Vinyl 34 Songs recorded live during Jeff Buckley's café days in the summer of 1993 Individually numbered 4LP set limited edition deluxe packaging 88985494801S1"  Made in the EU.
-

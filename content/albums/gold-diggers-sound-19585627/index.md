@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
-
 ## Tracklisting
 1. Born Again
 2. Motorbike
@@ -26,6 +25,8 @@ styles: ["Soul", "Contemporary R&B"]
 9. Sweeter
 10. Don't Worry
 11. Blue Mesas
+## Spotify
+{{< spotify type="album" id="6pKaUDUnQiZgWLPZJqwkzn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Y9OMJ0HvPbk" title="Leon Bridges - Motorbike (Official Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Soul", "Contemporary R&B"]
 - [Leon Bridges - Sweeter (Official Video) ft. Terrace Martin](https://www.youtube.com/watch?v=35AWgksymtA)
 - [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -51,4 +50,3 @@ styles: ["Soul", "Contemporary R&B"]
 | Catalog Number | 19439886991, 19439886991 S1 |
 
 Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1. 
-

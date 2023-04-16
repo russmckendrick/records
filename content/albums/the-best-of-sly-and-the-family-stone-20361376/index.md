@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Psychedelic", "Disco"]
 ---
-
 ## Tracklisting
 1. Dance To The Music (3:00)
 2. I Want To Take You Higher (5:22)
@@ -45,9 +44,7 @@ styles: ["Funk", "Psychedelic", "Disco"]
 - [Sly And The Family Stone - Que Sera Sera (w/ Mishal Moore and The Firth Sisters)](https://www.youtube.com/watch?v=hlc5f-cJEVM)
 - [Sly & The Family Stone - Family Affair (Official Audio)](https://www.youtube.com/watch?v=xag5RKD0VHk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -57,4 +54,3 @@ styles: ["Funk", "Psychedelic", "Disco"]
 | Catalog Number | MOVLP125 |
 
 Limited Edition of 2000 Copies (numbered)
-

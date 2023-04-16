@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
-
 ## Tracklisting
 1. 1.0_1-Hellofriend.Wav
 2. 1.0_2-Oneincontrol.Aiff
@@ -51,9 +50,7 @@ styles: ["Soundtrack", "Score"]
 - [MR ROBOT   Soundtrack OST   Depth Of Field Mix](https://www.youtube.com/watch?v=YC1n6NGANw0)
 - [MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream](https://www.youtube.com/watch?v=L5v7UmvvM0Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -63,4 +60,3 @@ styles: ["Soundtrack", "Score"]
 | Catalog Number | INV160LP |
 
 Gatefold sleeve, printed with false pricing sticker from the "Mr Robot" store for $7.99 and code "683  898".  Release comes with: Double Sided Printed Insert 11" x 22" Poster Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.2, included an additional extremely limited 12"x12" lithograph art print.
-

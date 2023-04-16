@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Trident Of Fire (3:07)
 2. Persephone Sleeps (3:32)
@@ -31,9 +30,7 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 - [The Utopia Strong – Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
 - [The Utopia Strong – Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -43,4 +40,3 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 | Catalog Number | LAUNCH265S |
 
 Indies Only Citrine Yellow Vinyl limited to 700 copies
-

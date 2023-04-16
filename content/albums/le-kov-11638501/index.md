@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Hi A Skoellyas Liv A Dhagrow
 2. Tir Ha Mor
@@ -25,6 +24,8 @@ styles: ["Indie Pop"]
 8. Aremorika
 9. Hunros
 10. Koweth Ker
+## Spotify
+{{< spotify type="album" id="3iVFjOB6CU7WBxMssF5RlN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JzYa659k29g" title="Hi a Skoellyas Liv a Dhagrow" >}}
@@ -38,9 +39,7 @@ styles: ["Indie Pop"]
 - [Hunros](https://www.youtube.com/watch?v=ksG8PnMCVF8)
 - [Koweth Ker](https://www.youtube.com/watch?v=v07qP27bZXI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Indie Pop"]
 | Catalog Number | HVNLP145C |
 
 Light blue coloured vinyl. Includes download code.  Lyrics and credits printed in both Cornish and English.  Mixed and additional programming ... for Solar Management Ltd  Copies pre-ordered directly from [l889] coming signed by the artist. 
-

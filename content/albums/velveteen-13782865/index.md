@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Baby I Don't Care
 2. The Only One
@@ -26,6 +25,8 @@ styles: ["Rock & Roll"]
 9. Pay The Ghosts
 10. Bad Valentine
 11. Velveteen
+## Spotify
+{{< spotify type="album" id="4Sik3ZYRJ7Yb4Q5DMlql8D" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="q-ccY2xHhY8" title="Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989" >}}
@@ -37,9 +38,7 @@ styles: ["Rock & Roll"]
 - [Transvision Vamp - Landslide of Love (1989)](https://www.youtube.com/watch?v=H1TBj_bYog8)
 - [Transvision Vamp - Born to Be Sold (1989)](https://www.youtube.com/watch?v=wyBphauZeJo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -47,6 +46,5 @@ styles: ["Rock & Roll"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE, Red |
 | Catalog Number | DEMREC325 |
-
 
 

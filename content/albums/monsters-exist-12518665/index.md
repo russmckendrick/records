@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
-
 ## Tracklisting
 1. Monsters Exist
 2. Hoo Hoo Ha Ha
@@ -24,6 +23,8 @@ styles: ["Techno"]
 7. Vision OnE
 8. The End Is Nigh
 9. There Will Come A Time
+## Spotify
+{{< spotify type="album" id="0IAAy7IDTqdCpydFNKpulW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GEmw73HGyAA" title="Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)" >}}
@@ -42,9 +43,7 @@ styles: ["Techno"]
 - [Orbital & Brian Cox - There Will Come a Time](https://www.youtube.com/watch?v=bBvE4YRtEEo)
 - [Orbital - The End Is Nigh](https://www.youtube.com/watch?v=xrzB8A6h6CA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +53,3 @@ styles: ["Techno"]
 | Catalog Number | ACPV1806 |
 
 Includes colour insert and download card.  Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk  Tracks on release are numbered sequentially across sides.  Mixed for Pieces of 8 Music
-

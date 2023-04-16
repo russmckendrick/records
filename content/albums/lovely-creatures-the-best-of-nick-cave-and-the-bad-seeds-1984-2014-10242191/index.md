@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ---
-
 ## Tracklisting
 1. Loverman (Single Version) (4:57)
 2. Tupelo (Single Version) (5:12)
@@ -44,9 +43,7 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 - [Lovely Creatures: The Best of Nick Cave & The Bad Seeds 1984-2014](https://www.youtube.com/watch?v=wtaEKCOdvus)
 - [Nick Cave & The Bad Seeds - Loverman](https://www.youtube.com/watch?v=P51IVqf28Hs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -56,4 +53,3 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 | Catalog Number | LPSEEDS15 |
 
 Released in a tri-fold sleeve.  Hype sticker on shrink:  3 LP Set  180g  Heavyweight Vinyl  [Another version](https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250) of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve. 
-

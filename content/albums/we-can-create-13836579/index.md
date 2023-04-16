@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. So Low, So High
 2. You Don't Know Her Name
@@ -26,6 +25,8 @@ styles: ["Downtempo", "Shoegaze"]
 9. Lost My Soul
 10. Don't Fear
 11. When You Leave
+## Spotify
+{{< spotify type="album" id="1FCXtoqBqujb32C6ea37v0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bHSQsbSAuHQ" title="Make Yourself Exist" >}}
@@ -38,9 +39,7 @@ styles: ["Downtempo", "Shoegaze"]
 - [Maps - To The Sky](https://www.youtube.com/watch?v=9dHiOJ_JNJM)
 - [In Chemistry (Edit)](https://www.youtube.com/watch?v=TCTStfBoQyk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,4 +49,3 @@ styles: ["Downtempo", "Shoegaze"]
 | Catalog Number | lstumm281 |
 
 Limited to 1000 copies.  Classified as both a reissue and repress on the Mute Bank website.  General release date listed as August 23rd, 2019, however copies were sold earlier at Maps gigs in June & July 2019.  Circular hype sticker on the cellophane reads: 1st time on 12" vinyl limited edition seventies style green glass coloured vinyl double album d side etching + digital copy  (p)2019 (c)2007 mute records limited printed in the eu
-

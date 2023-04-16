@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Industrial", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Head Like A Hole (4:59)
 2. Terrible Lie (4:38)
@@ -25,6 +24,8 @@ styles: ["Industrial", "Synth-pop"]
 8. That's What I Get (4:30)
 9. The Only Time (4:47)
 10. Ringfinger (5:45)
+## Spotify
+{{< spotify type="album" id="3umFHeEpc4yLXtrRcv9gLN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ghIRu6UvQPc" title="Head Like A Hole" >}}
@@ -41,9 +42,7 @@ styles: ["Industrial", "Synth-pop"]
 - [N̲ine I̲n̲ch N̲ails - Pretty Hate Machine (Full Album)](https://www.youtube.com/watch?v=9g5KTwlxt_Q)
 - [Sin (remastered) - Nine Inch Nails](https://www.youtube.com/watch?v=OJtro9VK4nQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -53,4 +52,3 @@ styles: ["Industrial", "Synth-pop"]
 | Catalog Number | B0015767-01 |
 
 Thank you: Bart Koster (The Right Track), Mike Shea, Michael S. Toorock, Roz Earls, Seb Shelton, Bryan Grant, Larry Bole, Alison Fryer, Michelle de Frasia, Gerry Gerrard, Martin Horne, Sioux Zimmerman, Paul Conelly, Ron Musarra, Steve Woolard, Mark Jowett and all at Nettwerk, Howie Klein, Preston Sullivan/Carlysle, Kevin Donoghue/Native, Frederic Walheer/Sub Rosa.  Kicking ass way beyond the call of duty. Ideas and sounds with all due respect. Clive Barker, Jane's Addiction, Prince, Public Enemy, This Mortal Coil, Success (Screaming Trees U.K.) Various Unknown Others.   ℗© 1989, 2011 AF Circle Fund, LLC, Under exclusive license to Universal Music Enterprises, A Division of UMG Recordings, Inc., 220 Colorado Ave., Santa Monica, CA 90404.  Distributed by Universal Music Distribution.  All rights reserved.  Release includes insert with lyrics.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. She Sells Sanctuary (4:12)
 2. Fire Woman (5:07)
@@ -56,9 +55,7 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 - [Wild Hearted Son (edit)](https://www.youtube.com/watch?v=RW_E6GdDW5o)
 - [Sweet Soul Sister (Edit)](https://www.youtube.com/watch?v=hcxZ8tytOgA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -68,4 +65,3 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 | Catalog Number | BBQLP 2026 |
 
 © 2010 Beggars Banquet
-

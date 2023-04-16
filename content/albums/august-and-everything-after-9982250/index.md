@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Round Here (5:31)
 2. Omaha (3:39)
@@ -26,6 +25,8 @@ styles: ["Alternative Rock"]
 9. Ghost Train (4:02)
 10. Raining In Baltimore (4:41)
 11. A Murder Of One (5:43)
+## Spotify
+{{< spotify type="album" id="4nKfZbCALT9H9LfedtDwnZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="d8LSBdUKo0c" title="Anna Begins" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock"]
 - [Omaha](https://www.youtube.com/watch?v=O1RsswsO10M)
 - [Rain King](https://www.youtube.com/watch?v=FEL48-0xRAA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | B0025531-01 |
 
 - Re-issue - Gatefold - 180-Gram black double vinyl - 33 1/3 RPM
-

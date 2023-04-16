@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Big Beat", "Breakbeat", "Breaks"]
 ---
-
 ## Tracklisting
 1. Song For Lindy (4:49)
 2. 10th & Crenshaw (4:18)
@@ -40,9 +39,7 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 - [FatBoySlim- Santa Cruz](https://www.youtube.com/watch?v=dLLgO58_lBA)
 - [FatBoySlim-The Sound Of Milwaukee](https://www.youtube.com/watch?v=OP24XZtlPQ4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -52,4 +49,3 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 | Catalog Number | BRASSIC2LPS |
 
 20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.  "Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968." "Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints"
-

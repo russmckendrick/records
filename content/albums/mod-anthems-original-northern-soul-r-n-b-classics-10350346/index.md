@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Mod", "Soul", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Green Onions
 2. In The Midnight Hour
@@ -72,16 +71,13 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 - [Ike And Tina Turner   Somebody Needs You](https://www.youtube.com/watch?v=Gi72iVtp568)
 - [Bettye Swann Kiss My Love Goodbye (1974)](https://www.youtube.com/watch?v=EBKhP4XEiXc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Mod Anthems: Original Northern Soul & R'N'B Classics](https://www.discogs.com/release/10350346-Various-Mod-Anthems-Original-Northern-Soul-RNB-Classics) |
-| Label          | Rhino Records (2), Stateside |
+| Label          | Rhino Records, Stateside |
 | Format         | 2xLP, Comp |
 | Catalog Number | 0190295831783 |
 
 Manufactured in the E.U. Mastered by Alchemy Design: Jaffa@The-Unknown.Co.Uk
-

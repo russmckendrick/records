@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Ballad Of Peter Pumpkinhead (5:00)
 2. My Bird Performs (3:51)
@@ -32,6 +31,8 @@ styles: ["Pop Rock"]
 15. The Ugly Underneath (3:54)
 16. Bungalow (2:49)
 17. Books Are Burning (4:51)
+## Spotify
+{{< spotify type="album" id="6WK4H6AhFAt4RhuTzLFJws" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zyp3NMeiV_Q" title="XTC - The Disappointed" >}}
@@ -47,9 +48,7 @@ styles: ["Pop Rock"]
 - [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
 - [The Ballad of Peter Pumpkinhead /  XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -59,4 +58,3 @@ styles: ["Pop Rock"]
 | Catalog Number | APELPX110 |
 
 Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991. Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991. This edition remastered at Loud Mastering.  Published by BMG  Front cover image from John Speed's Map of Surrey 1611.  ℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd. Made in the EU.
-

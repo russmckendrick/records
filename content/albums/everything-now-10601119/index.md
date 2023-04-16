@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Everything_Now (Continued) (0:46)
 2. Everything Now (5:03)
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Put Your Money On Me (5:53)
 12. We Don't Deserve Love (6:29)
 13. Everything Now (Continued) (2:22)
+## Spotify
+{{< spotify type="album" id="1DNojVW079FU9YnAMk3Cgr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xzwicesJQ7E" title="Arcade Fire - Creature Comfort (Official Video)" >}}
@@ -35,9 +36,7 @@ styles: ["Indie Rock"]
 - [Arcade Fire - Signs of Life (Official Video)](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
 - [Arcade Fire - Electric Blue (Official Video)](https://www.youtube.com/watch?v=UymXRxJPOQo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +46,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 88985447861 |
 
 Referred to as the 'Night Version.'  Gatefold sleeve that comes in a clear plastic slipcase. Includes a printed insert and a printed inner sleeve.  ℗&© 2017 Arcade Fire Music  "Everything Now" contains elements from "The Coffee Cola Song" written by [a181285].  Recorded at Boombox Studios, New Orleans; Sonovox Studios, Montréal; Gang Recording Studio, Paris Mixed at Parlor Studios & Boombox Studios, New Orleans; Toast, London Mastered at Sterling Sound, NYC  [Artwork] shot in Death Valley  Published by EMI Music Publishing Limited
-

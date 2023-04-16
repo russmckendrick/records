@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Whatever Happened To Pong? (1:34)
 2. Thalassocracy (1:33)
@@ -37,6 +36,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 20. Pure Denizen Of The Citizens Band (2:20)
 21. Bad, Wicked World (1:57)
 22. Pie In The Sky (2:13)
+## Spotify
+{{< spotify type="album" id="2VVAqbG2AFeXNiyDjjARaM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ytQhL0-3FtM" title="Frank Black - Headache" >}}
@@ -46,9 +47,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Big Red](https://www.youtube.com/watch?v=lX2n3XiSNm8)
 - [The Vanishing Spies](https://www.youtube.com/watch?v=GjxV0lX5nmQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -58,4 +57,3 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Catalog Number | DAD 4009 LPE |
 
 A Record Store Day 2019 Exclusive release. Edition of 4500 according to recordstoreday.com (unclear whether or not this is for the EU and US versions combined). Includes two printed inner sleeves with identical text – one with white letters on a black background, and the other with black letters on a white background. The two records are housed in a single pocket jacket. Tracks are continuously numbered across sides.  [Inner sleeves:] Recorded at American, Calabasas, California / Mixed at Can-Am, Los Angeles, California / Additional recording at Castle Oaks, Calabasas, California; The Clubhouse, Burbank, California; The Chapel, Los Angeles, California; and Can-Am, Los Angeles, California / Mastered at Tower Mastering, Los Angeles, California  [Label sides A & C:] P & C 4.A.D. 1994 [...] All songs published by Spime songs BMI  [Label sides B & D:] Made in the EU
-

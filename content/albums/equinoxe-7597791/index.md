@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Experimental", "Ambient", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Equinoxe Part 1 (2:23)
 2. Equinoxe Part 2 (5:02)
@@ -23,6 +22,8 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 6. Equinoxe Part 6 (2:47)
 7. Equinoxe Part 7 (7:48)
 8. Equinoxe Part 8 (5:07)
+## Spotify
+{{< spotify type="album" id="41Dl68Kik63nV6zvn07NgY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RAhgz9aLukk" title="Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ]" >}}
@@ -35,9 +36,7 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 - [Equinoxe, Pt. 6](https://www.youtube.com/watch?v=eeAfE-s2Ow8)
 - [Equinoxe, Pt. 8](https://www.youtube.com/watch?v=W4Te8E3AHQU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -47,4 +46,3 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 | Catalog Number | 88843024691 |
 
 Cover & labels: ℗ 1978 Disques Dreyfus-BMG © 2015 Disques Dreyfus-BMG  Made in the EU.  Cover: Recorded on MCI-STUDIO EQUIPMENT New mastering from the original analog tapes 2014 Special thanks to [a=Michel Geiss] 
-

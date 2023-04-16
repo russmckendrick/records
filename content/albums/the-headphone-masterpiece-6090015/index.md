@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 ---
-
 ## Tracklisting
 1. Magic In A Mortal Minute (0:38)
 2. With Me In Mind (3:51)
@@ -51,6 +50,8 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 34. If We Don't Disagree (3:23)
 35. Look Good In Leather (3:55)
 36. 6 Seconds (4:28)
+## Spotify
+{{< spotify type="album" id="4DO0EipTAYZYaUDSoEVK98" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tD4VoPlC91A" title="Cody Chesnutt - Eric Burdon" >}}
@@ -64,9 +65,7 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 - [Cody ChesnuTT - The Most Beautiful Shame](https://www.youtube.com/watch?v=sq09nzSbA9s)
 - [Cody ChesnuTT - Look Good In Leather Lyrics](https://www.youtube.com/watch?v=PeF0U6SssgY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -76,4 +75,3 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 | Catalog Number | TPLP345DMM |
 
 third pressing - Limited Edition numbered on the front side  
-

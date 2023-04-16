@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Nothing At Best (4:08)
 2. Wake Up The Dead (4:23)
@@ -24,13 +23,13 @@ styles: ["Alternative Rock"]
 7. Someone Here Is Missing (3:52)
 8. 3000 Days (6:09)
 9. So We Row (8:16)
+## Spotify
+{{< spotify type="album" id="1lODBFaX8Bu46GxK0TpGjj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LXR1pQ-HuvI" title="The Pineapple Thief - Someone Here is Missing" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +39,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | KSCOPE1028 |
 
  Recorded in Yeovil (UK) between November 2008 and December 2009 by Bruce Soord. Mixed by Steve Kitch and Mark Bowyer @ Soord Studios, Yeovil. Remastered in 2018 by Steve Kitch. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Gospel", "Folk"]
 ---
-
 ## Tracklisting
 1. Long Lonely Road
 2. Love You Once Made
@@ -27,6 +26,8 @@ styles: ["Gospel", "Folk"]
 10. Slip Slide On By
 11. Two Hearts
 12. Got Soul
+## Spotify
+{{< spotify type="album" id="4TVWSt83FpSfocgA3omB0k" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cShj4BimPXc" title="Valerie June - Shakedown" >}}
@@ -36,9 +37,7 @@ styles: ["Gospel", "Folk"]
 - [Valerie June - Got Soul (Radio Edit)](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
 - [Valerie June - Two Hearts](https://www.youtube.com/watch?v=HFFi4v2wq_8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Gospel", "Folk"]
 | Catalog Number | CRE00209 |
 
 Norah Jones appears courtesy of [l=Blue Note Records].  Includes a download code on a card.
-

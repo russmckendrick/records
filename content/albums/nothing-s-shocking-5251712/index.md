@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Up The Beach (3:00)
 2. Ocean Size (4:22)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Idiots Rule (3:00)
 9. Jane Says (4:52)
 10. Thank You Boys (1:00)
+## Spotify
+{{< spotify type="album" id="4DVBJPJyizvHfJQt5pYaCa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Alternative Rock"]
 - [Jane's Addiction - Ocean Size (Official Music Video)](https://www.youtube.com/watch?v=lVIev94s7Mo)
 - [Jane's Addiction - Jane Says (Official Music Video)](https://www.youtube.com/watch?v=i7Q_8q3XXrQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 8122798884 |
 
 Engineered [...] at Eldorado Studios in Los Angeles Mixed [...] at Post Logic Studios in Hollywood Mastered by Steve Hall at Future Disc All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI ℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S. Made in E.U.  Includes a printed inner sleeve
-

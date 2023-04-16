@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Hip-House", "Acid House", "Freestyle"]
 ---
-
 ## Tracklisting
 1. Dis Side
 2. Beat Dis (U.S. 7" Mix) (3:24)
@@ -42,9 +41,7 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 - [BOMB THE BASS featuring AURRA - Hey You!](https://www.youtube.com/watch?v=alQBkH08BDU)
 - [BOMB THE BASS - Beat Dat [Freestyle Scratch Mix].](https://www.youtube.com/watch?v=vbMj6sfuIK8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +51,3 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 | Catalog Number | MOVLP2172 |
 
 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU.
-

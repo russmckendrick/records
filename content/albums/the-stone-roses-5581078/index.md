@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. I Wanna Be Adored (4:49)
 2. She Bangs The Drums (3:52)
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Shoot You Down (4:13)
 10. This Is The One (4:57)
 11. I Am The Resurrection (8:10)
+## Spotify
+{{< spotify type="album" id="0um9FI6BLBldL5POP4D4Cw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" >}}
@@ -41,9 +42,7 @@ styles: ["Indie Rock"]
 - [The Stone Roses - This Is the One (Audio)](https://www.youtube.com/watch?v=DbyrOBVDtR4)
 - [The Stone Roses - I Am the Resurrection (Audio)](https://www.youtube.com/watch?v=vY9g-PgSiGA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -53,4 +52,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 88843041991 |
 
 This reissue has raised gold lettering the same as the UK first pressing.   ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited. Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited. Made in the EU.
-

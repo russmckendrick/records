@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Whatever You Want (4:03)
 2. Shady Lady (3:00)
@@ -38,9 +37,7 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 - [Status Quo-Living On An Island HQ](https://www.youtube.com/watch?v=Evafe6G8SNg)
 - [Status Quo-Shady Lady](https://www.youtube.com/watch?v=NlcmQr0RoJg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,6 +45,5 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 | Label          | Vertigo |
 | Format         | LP, Album, RE |
 | Catalog Number | 4723772 |
-
 
 

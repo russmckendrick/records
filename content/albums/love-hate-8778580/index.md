@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
-
 ## Tracklisting
 1. Cold Little Heart
 2. Black Man In A White World
@@ -25,6 +24,8 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 8. Rule The World
 9. Father’s Child
 10. The Final Frame
+## Spotify
+{{< spotify type="album" id="0qxsfpy2VU0i4eDR9RTaAU" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FGG5K1XLgkA" title="Michael Kiwanuka - Cold Little Heart (Full Version)" >}}
@@ -38,9 +39,7 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 - [Father's Child](https://www.youtube.com/watch?v=NUl_rGOEy7U)
 - [The Final Frame](https://www.youtube.com/watch?v=qV-PDqMLL3U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 | Catalog Number | 4783458 |
 
 Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode Gatefold. Includes a card to download [r=9073982]  On back cover and label: 2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited. Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands  Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters).
-

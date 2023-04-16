@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ---
-
 ## Tracklisting
 1. Velvet Kevorkian
 2. All Hail The New Flesh
@@ -45,6 +44,8 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 28. Spirits Will Collide (4:35)
 29. Kingdom (5:05)
 30. Detox (6:20)
+## Spotify
+{{< spotify type="album" id="0HIX5tm0EFBK7x91GCaIbM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4rOhiHLPT9Q" title="DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)" >}}
@@ -62,9 +63,7 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 - [Hyperdrive! (Virtually Live 2020)](https://www.youtube.com/watch?v=V5tTPVfazIs)
 - [Devin Townsend - Hyperdrive - Empath Live Vol 2 2020](https://www.youtube.com/watch?v=M1VJkXxwAj4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -74,4 +73,3 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 | Catalog Number | IOMLP 588, 19439882261 |
 
 Standard version on black vinyl Gatefold sleeve  © 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261. Made in EU.  Recorded between July and September 2020 in various places around the world. Originally aired on September 5th 2020 on StageIt.com
-

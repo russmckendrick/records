@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Silhouette
 2. Super Sleuth
@@ -27,9 +26,7 @@ styles: null
 ## Videos
 {{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -39,4 +36,3 @@ styles: null
 | Catalog Number | none |
 
 Limited to 300 copies. The sleeve features spot varnish artwork and the release comes with 8 Tarot cards. The cards have lyrics and credits on them and come in a white envelope that has a hand written excerpt from the lyrics on the front. No credits appear on the sleeve.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Up All Night (6:24)
 2. Pain (5:31)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. In Chains (7:21)
 9. Clean Living (6:28)
 10. You Don't Have To Go (6:43)
+## Spotify
+{{< spotify type="album" id="4TkmrrpjlPoCPpGyDN3rkF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J9LgHNf2Qy0" title="The War on Drugs - Pain [Official Video]" >}}
@@ -32,9 +33,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [The War On Drugs - Strangest Thing [Official Audio]](https://www.youtube.com/watch?v=bvmEYgFsgyg)
 - [The War On Drugs - Thinking Of A Place [Official Audio]](https://www.youtube.com/watch?v=TeaDE1magRk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 7567-86606-2, 561934-1 |
 
 Sold exclusively at independent record stores. Gatefold sleeve. Printed inner sleeves, download code and lyrics insert included.  Called "Coke Bottle Clear" on the sticker, it looks more like frosted clear.  Catalogue numbers: 7567-86606-2 - On spine 561934-1 - On record labels  ℗ © 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the outside of the United States. Manufactured in the E.U.  Recorded 2015-2017 at Sonora Recorders, Boulevard Recording, East West, United Recorders, Shawn's Truckstop Studio, Electric Lady, Thump Recording  Additional Recording by Nicolas Vernhes at Rare Book Room, Daniel Schlett at Strange Weather, Nick Krill at Future Past and Kawari Sound, Jeff Zeigler at Uniform Recording, Gabe Wax at Vox Studios  All words And music [...] published by Sea Formation Music (ASCAP) except 'Holding On' [...] published by Sea Formation Music (ASCAP) and Son Of Saw Publishing (BMI)
-

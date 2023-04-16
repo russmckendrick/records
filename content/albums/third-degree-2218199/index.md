@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rhythm & Blues", "Pub Rock"]
 ---
-
 ## Tracklisting
 1. Eleven Plus Eleven (2:18)
 2. Wipe Away Your Kiss (2:50)
@@ -30,9 +29,7 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 ## Videos
 {{< youtube id="ExM1vP-rhH4" title="Nine Below Zero - Eleven Plus Eleven" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -42,4 +39,3 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 | Catalog Number | AMLH 68537 |
 
 Official UK release  Month of release from Record Collector Magazine Oct 1994 p.127 
-

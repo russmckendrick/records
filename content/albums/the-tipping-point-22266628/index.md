@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. No Small Thing (4:42)
 2. The Tipping Point (4:13)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Master Plan (4:37)
 9. End Of Night (3:23)
 10. Stay (4:36)
+## Spotify
+{{< spotify type="album" id="6xKxlHD3mWkKoMtl3ZVyLt" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iemvnxDjrBY" title="Tears For Fears - No Small Thing (Official Music Video)" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock"]
 - [Tears For Fears - End of Night (Official Audio)](https://www.youtube.com/watch?v=AixmRjSWNZ4)
 - [Tears For Fears - Stay (Official Audio)](https://www.youtube.com/watch?v=O78aZm3cMm8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -51,4 +50,3 @@ styles: ["Pop Rock"]
 | Catalog Number | CRE01856, CRE01919 |
 
 US & Canada Indie Exclusive  ℗ & © 2022 TFFUK, LLC  Gatefold sleeve and includes a limited edition lithograph. 888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC.
-

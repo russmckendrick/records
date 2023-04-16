@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. The Wolf Is Loose (3:34)
 2. Crystal Skull (3:27)
@@ -27,6 +26,8 @@ styles: ["Prog Rock", "Heavy Metal"]
 10. This Mortal Soil (5:00)
 11. Siberian Divide (5:32)
 12. Pendulous Skin (5:04)
+## Spotify
+{{< spotify type="album" id="1n8QZFcwx5aQ2LIIlj0iYe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VQo9bwQ2rQc" title="Mastodon Colony Of Birchmen (Official Video)" >}}
@@ -44,9 +45,7 @@ styles: ["Prog Rock", "Heavy Metal"]
 - [Pendulous Skin](https://www.youtube.com/watch?v=F-S4Q0MwpBY)
 - [Mastodon-Hidden Track (Pendulous Skin)](https://www.youtube.com/watch?v=E6_gkmlbkBs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -56,4 +55,3 @@ styles: ["Prog Rock", "Heavy Metal"]
 | Catalog Number | 9362-49293-8, 44634-1 |
 
 Reprise Records, A Warner Music Group Company. 3300 Warner Blvd., Burbank,  CA 91505-4694; 75 Rockefeller Plaza, New York, NY 10019-6908 © 2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. ℗ 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.  Printed in the E.U. Manufactured in the Netherlands.  Tracks are listed sequentially on the release.  Sticker reads : The Grammy nominated album featuring: Colony Of Birchmen, Crystal Skull and Sleeping Giant.  Vinyl housed in a plane white innersleeve, comes with a 12" printed lyric sheet.  1st cat # = Spine, rear cover, inner 2nd cat # = labels  • Run-out information: 1-44364-A and 1-44364-B are etched 86117 1A and 86117 1B are stamped 
-

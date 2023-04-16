@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Song Of Joy (6:47)
 2. Henry Lee (5:15)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Art Rock"]
 8. Crow Jane (4:14)
 9. O' Malley's Bar (14:28)
 10. Death Is Not The End (4:26)
+## Spotify
+{{< spotify type="album" id="0SJIg249cRWdGWEcqXsYyW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hhxSf_l2QVc" title="Song of Joy (2011 - Remaster)" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Art Rock"]
 - [O'Malley's Bar (2011 - Remaster)](https://www.youtube.com/watch?v=awV25UXXYxQ)
 - [Death Is Not the End (2011 - Remaster)](https://www.youtube.com/watch?v=Nf5Y94tw30E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Art Rock"]
 | Catalog Number | LPSEEDS9 |
 
 Sides A to C contain music, side D is blank. Track numbers are listed sequentially regardless of side.  From front sticker on shrink wrap: Includes download code  Contains download card for [FLAC](http://www.discogs.com/release/8065277) or [MP3](http://www.discogs.com/release/8065337) files.  Issued with plain white paper inner sleeves.  Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis.  "Where The Wild Roses Grow" was mixed at Sarm West, London. Mastered at Whitfield Street  ℗ 2011 Mute Records Ltd, a BMG Company © 2014 Mute Records Ltd, a BMG Company
-

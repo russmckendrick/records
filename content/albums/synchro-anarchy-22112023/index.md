@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash", "Progressive Metal"]
 ---
-
 ## Tracklisting
 1. Paranormalium (5:35)
 2. Synchro Anarchy (4:25)
@@ -24,6 +23,8 @@ styles: ["Thrash", "Progressive Metal"]
 7. The World Today (4:10)
 8. Quest For Nothing (5:38)
 9. Memory Failure (5:33)
+## Spotify
+{{< spotify type="album" id="2JZN65DjGzT65ondXiQDHI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hX08XkWW7HU" title="VOIVOD - Synchro Anarchy (2022) Full album Cd (Completo)" >}}
@@ -31,9 +32,7 @@ styles: ["Thrash", "Progressive Metal"]
 - [VOIVOD - Planet Eaters (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=lvHjNcjMqvU)
 - [VOIVOD - Sleeves Off (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-4hDSNieOnA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -43,4 +42,3 @@ styles: ["Thrash", "Progressive Metal"]
 | Catalog Number | 19439967881 |
 
 Regular black vinyl version, includes A2 poster. 1 I mirrored in runouts  Made in the EU.
-

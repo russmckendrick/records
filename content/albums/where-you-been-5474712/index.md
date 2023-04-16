@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Out There (5:53)
 2. Start Choppin (5:38)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Hide (4:11)
 9. Goin Home (4:15)
 10. I Ain't Sayin (2:29)
+## Spotify
+{{< spotify type="album" id="5mJss6O9hjbeESfqoBX1xM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}
@@ -32,9 +33,7 @@ styles: ["Alternative Rock"]
 - [Dinosaur Jr - Start Choppin'](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
 - [Dinosaur Jr - Goin' Home](https://www.youtube.com/watch?v=30h3HWSarDA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | VIN180LP069 |
 
 Made in England.
-

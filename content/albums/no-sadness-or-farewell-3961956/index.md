@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. How We Rock (12:24)
 2. Hold On (So Goodbye To All Of That) (6:53)
@@ -21,6 +20,8 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 4. Jonestown Martin (6:29)
 5. Long Live Independence (5:22)
 6. Maniac Beast (3:24)
+## Spotify
+{{< spotify type="album" id="5xvQlmZwXisRdrhccmEfLq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="E5oVTs7WTKA" title="Crippled Black Phoenix - Hold On (Goodbye To All Of That)" >}}
@@ -28,9 +29,7 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 - [Crippled Black Phoenix - What Have We Got to Lose?](https://www.youtube.com/watch?v=TEioeVpQQQw)
 - [Crippled Black Phoenix-Jonestown Martin](https://www.youtube.com/watch?v=cM-EGF5Pl8Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -40,4 +39,3 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 | Catalog Number | CGR 7397 1 |
 
 ℗ + © Production and Publishing Mascot Music B.V. All rights reserved.  B1's title on the label is "One Armed Robber".
-

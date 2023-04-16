@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Move Mountains (3:18)
 2. All The Answers (3:59)
@@ -24,9 +23,7 @@ styles: null
 {{< youtube id="ZiXm7kHLvt8" title="Jesus Jones - All The Answers" >}}
 - [Jesus Jones - Move Mountains 2019](https://www.youtube.com/watch?v=0lnKLH1lNfk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -36,4 +33,3 @@ styles: null
 | Catalog Number | ATOMO183 |
 
 1st 7" is pressed on a Silver/Grey vinyl (mispress variant) only available through the Speedowax Records (Constantrotation) Web Store. Vinyl comes in clear plastic sleeves inside a white card outer sleeve, folded, printed with artwork & credits.  Thanks to: Richard, Anthony, Cubase, LH507, LH9349 on back of outer sleeve.
-

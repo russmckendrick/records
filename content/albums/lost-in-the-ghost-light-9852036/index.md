@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Worlds Of Yesterday (5:41)
 2. Moonshot Manchild (8:58)
@@ -31,14 +30,14 @@ styles: ["Prog Rock"]
 14. Lost In The Ghost Light (1:40)
 15. You Wanted To Be Seen (5:32)
 16. Distant Summers (4:06)
+## Spotify
+{{< spotify type="album" id="4G4eepBf68OTJ1JnssD2Oi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}
 - [Tim Bowness - Kill the Pain That's Killing You](https://www.youtube.com/watch?v=6rCXh6FAsZ0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Prog Rock"]
 | Catalog Number | IOMLP 473, 88985405441 |
 
 Gold vinyl + CD in gatefold. Limited to 400 copies. Burning Shed mailorder exclusive including postcard signed by Tim Bowness.  Tracks durations as indicated on release back.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Acoustic", "Grunge"]
 ---
-
 ## Tracklisting
 1. About A Girl (3:37)
 2. Come As You Are (4:14)
@@ -29,13 +28,13 @@ styles: ["Acoustic", "Grunge"]
 12. Lake Of Fire (2:55)
 13. All Apologies (4:23)
 14. Where Did You Sleep Last Night (5:07)
+## Spotify
+{{< spotify type="album" id="1To7kv722A8SpZF789MZy7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="S7wAMvmTjJY" title="Выпуск №70. Nirvana ‎– MTV Unplugged In New York(Vinyl, LP, Album, Reissue, Repress, 180 Gram)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -45,4 +44,3 @@ styles: ["Acoustic", "Grunge"]
 | Catalog Number | 0720642472712 |
 
 Recorded for MTV's "Unplugged" at Sony Studios, New York, NY on November 18, 1993.  All Songs Published by EMI-Virgin Songs, Inc./The End Of Music BMI except "Jesus Doesn't Want Me For A Sunbeam" Published by EMI-Blackwood Music Inc. on behalf of EMI Music Publishing Ltd./Complete Music Ltd. Administered by Incomplete Music Inc. BMI, "The Man Who Sold The World" Published by Tintoretto Music/Screen Gems-EMI/Chrysalis Songs BMI, "Oh Me", "Plateau" and "Lake Of Fire" Published by Meat Puppets Music BMI and "Where Did You Sleep Last Night" Published by Folkways Music Publishers, Inc. BMI Curt Kirkwood and Cris Kirkwood appear Courtesy of London Records.  ℗ 1994 Geffen Records, Inc. an MCA Company © 1994 Geffen Records, Inc. an MCA Company. Made in the EU.   2008 repress on 180g vinyl. Part of the "Back To Black" Vinyl Reissue Series by Universal Records for the 60th Vinyl Anniversary.  Includes a voucher to download MP3 version of the album & Back to Black sticker on the outside  The runouts are stamped.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Britpop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Talking To Clary
 2. Bluetonic
@@ -26,6 +25,8 @@ styles: ["Britpop", "Indie Rock"]
 9. Vampire
 10. A Parting Gesture
 11. Time & Again
+## Spotify
+{{< spotify type="album" id="3hSEHy0TkvR97XPCBl4F9p" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="B-3UpL6MkZ0" title="The Bluetones - Slight Return" >}}
@@ -35,9 +36,7 @@ styles: ["Britpop", "Indie Rock"]
 - [Bluetones - Cut Some Rug - Full Video Song](https://www.youtube.com/watch?v=i80ClZCwVcg)
 - [Cut Some Rug - The Bluetones](https://www.youtube.com/watch?v=Cv3be8ScIdQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +46,3 @@ styles: ["Britpop", "Indie Rock"]
 | Catalog Number | 3RANGE-51LP, none |
 
 Includes download card
-

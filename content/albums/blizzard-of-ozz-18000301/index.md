@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. I Don't Know (5:14)
 2. Crazy Train (4:50)
@@ -24,6 +23,8 @@ styles: ["Heavy Metal"]
 7. No Bone Movies (3:53)
 8. Revelation (Mother Earth) (6:10)
 9. Steal Away (The Night) (3:27)
+## Spotify
+{{< spotify type="album" id="4qUMByJ3Pk94BFnCmGaUPS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="o0RE230PlX4" title="Mr. Crowley" >}}
@@ -36,9 +37,7 @@ styles: ["Heavy Metal"]
 - [Revelation (Mother Earth)](https://www.youtube.com/watch?v=meCb_LfzRhE)
 - [Steal Away (The Night)](https://www.youtube.com/watch?v=lBWuLyIqUGQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -48,4 +47,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | 19439812511 |
 
 Made in the EU.  Includes printed inner sleeve containing lyrics, publishing information, and words/music by information. 
-

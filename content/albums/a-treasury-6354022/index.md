@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
-
 ## Tracklisting
 1. Introduction
 2. Hazey Jane II
@@ -30,14 +29,14 @@ styles: ["Folk Rock"]
 13. Black Eyed Dog
 14. Way To Blue
 15. From The Morning
+## Spotify
+{{< spotify type="album" id="1D5FYlYISuZXWBeVut4879" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PabxhKTkE0U" title="Nick Drake - Black Eyed Dog" >}}
 - [Nick Drake: River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -47,4 +46,3 @@ styles: ["Folk Rock"]
 | Catalog Number | 4700056/00602547000569 |
 
 Includes inner sleeve with lyrics and some words from Peter Paphides Labels: ℗ © 2004 Universal Island Records Ltd. Made in the EU
-

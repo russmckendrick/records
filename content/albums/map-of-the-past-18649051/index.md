@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Man In The Photograph
 2. Wallflower
@@ -47,9 +46,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Man in the Photograph - It Bites](https://www.youtube.com/watch?v=gguU7-MhugA)
 - [It Bites - Meadow and the Stream](https://www.youtube.com/watch?v=wYlohpuSZ9A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -59,4 +56,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | IOMLP 585, 19439854401 |
 
 Gatefold, black vinyl version..  Hype sticker: "Gatefold 2LP + CD + LP-Booklet The fifth studio album from  IT BITES available on vinyl once again. Newly remastered and  featuring expanded liner notes  on the making of the album."  ℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.  Tracks CD-12 and CD-13 are bonus tracks.
-

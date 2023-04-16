@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Mean To Me
 2. World Where You Live
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Can't Carry On
 9. Tombstone
 10. That's What I Call Love
+## Spotify
+{{< spotify type="album" id="1dJpgn1rqvvr4yyNYLEYBG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Music Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Pop Rock"]
 - [Crowded House, World Where You Live](https://www.youtube.com/watch?v=gv33K1x7FVg)
 - [Crowded House - Something So Strong (Official Video)](https://www.youtube.com/watch?v=WyBKzBtaKWM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 4788026 |
 
 Includes a voucher for MP3 download of the tracks included in the [deluxe edition](https://www.discogs.com/Crowded-House-Crowded-House/release/9318453) of this reissue.   Pressed By information is not listed. Information is derived from runouts. 
-

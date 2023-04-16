@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Badlands (4:01)
 2. Adam Raised A Cain (4:32)
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Pop Rock"]
 8. Streets Of Fire (4:03)
 9. Prove It All Night (3:57)
 10. Darkness On The Edge Of Town (4:28)
+## Spotify
+{{< spotify type="album" id="4KT6G8fj8EEIfsyr75hbgc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SDlSCeQXbPo" title="Badlands" >}}
@@ -40,9 +41,7 @@ styles: ["Folk Rock", "Pop Rock"]
 - [Prove It All Night](https://www.youtube.com/watch?v=UzjkWdRqWFo)
 - [Darkness on the Edge of Town](https://www.youtube.com/watch?v=0LpdEyGhNxM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -52,4 +51,3 @@ styles: ["Folk Rock", "Pop Rock"]
 | Catalog Number | CBS 86061, S CBS 86061 |
 
 'Made in England'  With picture inner sleeve and lyric insert. 
-

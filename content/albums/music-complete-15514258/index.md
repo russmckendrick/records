@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
-
 ## Tracklisting
 1. Restless (5:26)
 2. Singularity (5:37)
@@ -26,13 +25,13 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 9. Unlearn This Hatred (4:18)
 10. The Game (5:06)
 11. Superheated (5:03)
+## Spotify
+{{< spotify type="album" id="0v0BEEfVsTnVAzd8Q7GZNl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 | Catalog Number | RSTUMM390, STUMM390 |
 
 Music Complete: New Order  Limited Edition Double Orange Vinyl With 12 Page Booklet  Includes Digital Copy #loverecordstores  Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores Includes insert and download code.
-

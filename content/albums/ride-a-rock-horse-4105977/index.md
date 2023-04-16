@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Get Your Love
 2. Hearts Right
@@ -42,9 +41,7 @@ styles: ["Classic Rock"]
 - [Roger Daltrey:-'Proud'](https://www.youtube.com/watch?v=axxYY9nyCBw)
 - [Roger Daltrey:-'Come And Get Your Love'](https://www.youtube.com/watch?v=e8BtsTLvvSM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -54,4 +51,3 @@ styles: ["Classic Rock"]
 | Catalog Number | ACB 199 |
 
 Fully laminated sleeve printed by James Upton Ltd Made in England
-

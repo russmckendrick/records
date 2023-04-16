@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Open
 2. High
@@ -27,6 +26,8 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 10. Cut
 11. To Wish Impossible Things
 12. End
+## Spotify
+{{< spotify type="album" id="3x1CmNdXWU0DzpTZXFFRZu" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="w9xXCK28wDU" title="The Cure - High (Official Music Video)" >}}
@@ -34,9 +35,7 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 - [The Cure - Friday I'm In Love](https://www.youtube.com/watch?v=mGgMZpGYiy8)
 - [Open (Remastered 2022)](https://www.youtube.com/watch?v=1Lgb_AR060k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -46,4 +45,3 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 | Catalog Number | fixh20, 357 931-4, 0060243579314(6) |
 
 ℗ & © 1992 Fiction Records Ltd., a division of Universal Music Operations Ltd.  Double LP set in wide spine single sleeve and printed inners. Some UK copies came with a limited edition hand numbered poster (limited to 1500) from indie record stores.   Black hype sticker on front of sleeve reads:   "Cure Wish 30th anniversary edition 2lp 180gram vinyl remastered by robert smith features the singles "[m=32005]", "[m=32009]" and "[m=31994]" 357 931-4"  White sticker with "Made in Germany" printed in black on back sleeve. 
-

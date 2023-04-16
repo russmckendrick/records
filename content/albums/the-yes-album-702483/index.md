@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Yours Is No Disgrace (9:36)
 2. The Clap (3:07)
@@ -21,11 +20,11 @@ styles: ["Art Rock", "Prog Rock"]
 4. I've Seen All Good People (6:47)
 5. A Venture (3:13)
 6. Perpetual Change (8:50)
-
+## Spotify
+{{< spotify type="album" id="4nQe6IzubN7cE7EWzrIvu4" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -35,4 +34,3 @@ styles: ["Art Rock", "Prog Rock"]
 | Catalog Number | ATL 40 106, MLP 15 403 |
 
 First cat. number on labels, the spine, and the cover. Second cat. number on the back cover.  Recorded at Advision Studios, London, Autumn 1970. Track A2 recorded live, Lyceum London ℗ 1971 Atlantic Records 
-

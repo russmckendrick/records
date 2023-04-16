@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Three Bulleits (3:14)
 2. Get Yourself Free (3:37)
@@ -25,6 +24,8 @@ styles: ["Blues Rock"]
 8. Magnify (3:59)
 9. The Sun And Moon Roll Around Too Soon (2:48)
 10. I Hope I’m Not Losing My Mind (3:57)
+## Spotify
+{{< spotify type="album" id="3P1GcnqfInTkdYYC2cK0vJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Cv2qj9Vm7uo" title="The Temperance Movement - Three Bulleits (Official Audio)" >}}
@@ -38,9 +39,7 @@ styles: ["Blues Rock"]
 - [The Temperance Movement - The Sun and Moon Roll Around Too Soon (Official Audio)](https://www.youtube.com/watch?v=_8MZg6H6CCw)
 - [The Temperance Movement - I Hope I'm Not Losing My Mind (Official Audio)](https://www.youtube.com/watch?v=vLH6Uy_TlwI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Blues Rock"]
 | Catalog Number | MOSH556LP |
 
 White version of the "White Bear" album. Two versions were available : - simple white vinyl - "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package. Both comes with A double sided 12 panel poster.  Manufactured in the EU.  Durations do not appear on this release. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Dance-pop", "New Wave"]
 ---
-
 ## Tracklisting
 1. Colors (4:21)
 2. Seventh Heaven (5:00)
@@ -25,11 +24,11 @@ styles: ["Dance-pop", "New Wave"]
 8. Up All Night (3:10)
 9. Square One (2:55)
 10. Fix Me (3:13)
-
+## Spotify
+{{< spotify type="album" id="6BOQkxcHspMoRWEwEexf4l" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -39,4 +38,3 @@ styles: ["Dance-pop", "New Wave"]
 | Catalog Number | 00602557176803 |
 
 Inc Download card 12" x 12" Folded Lyric Insert
-

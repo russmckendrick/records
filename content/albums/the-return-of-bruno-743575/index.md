@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Comin' Right Up (3:25)
 2. Respect Yourself (3:51)
@@ -25,6 +24,8 @@ styles: ["Blues Rock", "Pop Rock"]
 8. Fun Time (3:35)
 9. Lose Myself (3:55)
 10. Flirting With Disaster (4:27)
+## Spotify
+{{< spotify type="album" id="56jScJ8N9n8B4ZNu52KeHk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Z2uComF6LuY" title="Jackpot (Bruno's Bop)" >}}
@@ -37,9 +38,7 @@ styles: ["Blues Rock", "Pop Rock"]
 - [Bruce Willis Respecting Himself - VHS Files 02](https://www.youtube.com/watch?v=ni90iL81wTQ)
 - [Bruce Willis Respect Yourself (1987)](https://www.youtube.com/watch?v=a3vMKSA0OKc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -49,4 +48,3 @@ styles: ["Blues Rock", "Pop Rock"]
 | Catalog Number | ZL 72571, ZL72571 |
 
 Motown Record Corp, An Overboard Production. Inner sleeve with lyrics and photo. ℗ + © 1987 Motown Record Corporation Made from masters of Motown Record Corporation Label: "MANUFACTURED IN W. GERMANY" Sleeve: "Printed in Germany"  Runouts are stamped.
-

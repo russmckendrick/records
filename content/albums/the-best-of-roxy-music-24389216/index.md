@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ---
-
 ## Tracklisting
 1. Avalon (4:16)
 2. More Than This (4:17)
@@ -33,6 +32,8 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 16. Pyjamarama (2:51)
 17. Virginia Plain (2:56)
 18. Re-Make / Re-Model (4:52)
+## Spotify
+{{< spotify type="album" id="6yui99cp2Q3dosoHtiPJk7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kOnde5c7OG8" title="Roxy Music - More Than This" >}}
@@ -40,9 +41,7 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 - [Roxy Music - Over You ᴴᴰ](https://www.youtube.com/watch?v=Lm84LZF66_w)
 - [Roxy Music - Oh yeah](https://www.youtube.com/watch?v=rpuiPhxsZLo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -52,4 +51,3 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 | Catalog Number | RMLPB1, 0602445593422 |
 
 Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.  Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.  Made in the EU.
-

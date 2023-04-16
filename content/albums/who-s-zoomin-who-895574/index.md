@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Synth-pop", "Soul"]
 ---
-
 ## Tracklisting
 1. Freeway Of Love (6:00)
 2. Another Night (4:30)
@@ -24,6 +23,8 @@ styles: ["Disco", "Synth-pop", "Soul"]
 7. Ain't Nobody Ever Loved You (4:53)
 8. Push (4:36)
 9. Integrity (4:25)
+## Spotify
+{{< spotify type="album" id="7x58T4Q8rIR7rY9mPen1li" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ip_pjb5_fgA" title="Aretha Franklin - Freeway Of Love (Video)" >}}
@@ -41,9 +42,7 @@ styles: ["Disco", "Synth-pop", "Soul"]
 - [Integrity](https://www.youtube.com/watch?v=wOse0WM-6c4)
 - [Ain't Nobody Ever Loved You](https://www.youtube.com/watch?v=hoea1s3PY_8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -53,4 +52,3 @@ styles: ["Disco", "Synth-pop", "Soul"]
 | Catalog Number | 207 202, 207 202-620 |
 
 B1: Duet with The Eurythmics B4: Duet with Peter Wolf  Came with printed inner sleeve. (P) & (C) 1985 Arista Records  [On labels]: Orig. Sound Rec. made by Arista Rec. Inc. ℗ © 1985 Arista Records Inc.  [On runout groove]:  Mastering/processing method: Direct Mastering [DM].  Some copies were released with a sticker.
-

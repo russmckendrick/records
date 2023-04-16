@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Cirrus Minor
 2. The Nile Song
@@ -33,9 +32,7 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 {{< youtube id="Y6qQkMX4OC0" title="Pink Floyd – Cirrus Minor (soundtrack to Barbet Schroeder’s film More)" >}}
 - [Green is the colour -Pink Floyd- (Music from the movie More)](https://www.youtube.com/watch?v=C2DttrVq2uc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +42,3 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 | Catalog Number | PFRLP3, 0825646493173 |
 
 The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: July 1969 www.pinkfloyd.com  Hype sticker on shrink wrap. Printed image of the original flip back rear sleeve. Black paper and plastic poly-lined inner sleeve. Made and Printed by Optimal in the EU (on back cover). Made in the EU (on labels).  Runouts: - Runouts are etched - Variant 3: 'BG' is underlined, '2△' and '5T' are mirrored
-

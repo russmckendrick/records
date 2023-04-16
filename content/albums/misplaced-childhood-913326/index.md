@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Pseudo Silk Kimono (2:14)
 2. Kayleigh (3:55)
@@ -25,13 +24,13 @@ styles: ["Pop Rock", "Prog Rock"]
 8. Blind Curve (9:27)
 9. Childhoods End? (4:32)
 10. White Feather (2:20)
+## Spotify
+{{< spotify type="album" id="3ExyKxlUkqD41I8tQumMDF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VTAoZ1mF9j0" title="Marillion - Blind Curve I-V (Misplaced Childhood) (UK CD Reissue)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -41,4 +40,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | EJ 2403401, MRL 2 |
 
 Recorded at Hansa Tonstudios, Berlin between March and May 1985.  This album is dedicated to John Mylett.  Gatefold Cover. Durations do not appear on this release.  Timings via stopwatch.
-

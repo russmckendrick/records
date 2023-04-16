@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. G
 2. Welcome To The Jungle (4:31)
@@ -29,13 +28,13 @@ styles: ["Hard Rock", "Heavy Metal"]
 12. You're Crazy (3:15)
 13. Anything Goes (3:25)
 14. Rocket Queen (6:13)
+## Spotify
+{{< spotify type="album" id="28yHV3Gdg30AiB8h8em1eW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_0fJo8niR5M" title="Guns N Roses  Appetite for Destruction 1987  Full Album" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -45,4 +44,3 @@ styles: ["Hard Rock", "Heavy Metal"]
 | Catalog Number | 00720642414811 |
 
 Made in the EU. Universal International Music BVGerrit van der veenlaan4, 3743 DN, Baarn, Netherlands.  Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it.  A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040]
-

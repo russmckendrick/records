@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Ocean Machine
 2. Seventh Wave
@@ -83,9 +82,7 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 ## Videos
 {{< youtube id="q_r6a-qmYkY" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -95,4 +92,3 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 | Catalog Number | IOMLP 510, 19075867871 |
 
 Orange 180g vinyl variant limited to 100 copies, sold exclusively on insideoutshop.de. Includes the albums “Ocean Machine”, “Infinity”, “Physicist”, “Terria” and “Synchestra”. All albums come in gatefold sleeves on 180 g vinyl, specifically remastered for vinyl. Includes a 36 page booklet with photos, credits, lyrics & new liner notes for each album by Devin Townsend. Side D of Synchestra is Etched
-

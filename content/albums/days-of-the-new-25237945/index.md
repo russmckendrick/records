@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Acoustic"]
 ---
-
 ## Tracklisting
 1. Shelf In The Room (4:44)
 2. Touch, Peel And Stand (4:58)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Grunge", "Acoustic"]
 10. Where I Stand (5:39)
 11. How Do You Know You? (5:34)
 12. Cling (15:28)
+## Spotify
+{{< spotify type="album" id="3JtPH618I1PMOrafvH8Xo8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Cw6bgdJlth0" title="Days Of The New - Shelf In The Room (Official Video)" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Grunge", "Acoustic"]
 - [Days Of The New – Touch, Peel And Stand](https://www.youtube.com/watch?v=iM7nzyhDDQY)
 - [D̲a̲ys of t̲he N̲e̲w D̲a̲ys of t̲he N̲e̲w Full Album.](https://www.youtube.com/watch?v=-AaPIgLqhFQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Grunge", "Acoustic"]
 | Catalog Number | MOVLP3244 |
 
 Includes insert with lyrics. Available on vinyl for the first time. Original release ℗ 1997 Outpost Recordings. This release ℗ & © 2023 Universal Music.
-

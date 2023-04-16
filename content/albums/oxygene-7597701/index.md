@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
-
 ## Tracklisting
 1. Oxygene Part 1 (7:39)
 2. Oxygene Part 2 (7:46)
@@ -21,6 +20,8 @@ styles: ["Synth-pop", "Ambient"]
 4. Oxygene Part 4 (4:06)
 5. Oxygene Part 5 (10:15)
 6. Oxygene Part 6 (6:36)
+## Spotify
+{{< spotify type="album" id="3e7TxckusgnC1AYnAqbl2z" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="71DOHvfFDBY" title="Jean-Michel Jarre - Oxygene, Pt. 1 (Official Music Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Synth-pop", "Ambient"]
 - [Oxygene, Pt. 6](https://www.youtube.com/watch?v=rUJ-KPCKWDs)
 - [J.-M. Jarre - Oxygene (extended)](https://www.youtube.com/watch?v=ttpPIRnEFVE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -44,4 +43,3 @@ styles: ["Synth-pop", "Ambient"]
 | Catalog Number | 88843024681 |
 
 Cover info: ℗ 1976 Disques Dreyfus - BMG © 2015 Disques Dreyfus - BMG  Made in the EU Special thanks to [a=Michel Geiss] New mastering from the original analog tapes 2014 Cover artwork Editions Marquet  Comes with white plain die-cut inner.  In December 2016, signed (golden) copies were available only in the Jean-Michel Jarre official online store.  Some copies come with the 'Original Masters By Sony Music' sticker
-

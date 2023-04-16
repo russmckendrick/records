@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Legacy (Extended Version) (6:29)
 2. Can't Afford To Die (2:49)
@@ -28,9 +27,7 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 {{< youtube id="vYUOCMYtzns" title="mansun - legacy" >}}
 - [Mansun - Wide Open Space (Perfecto Remix)](https://www.youtube.com/watch?v=4NLzA4o8UAI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +37,3 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 | Catalog Number | 1032 |
 
 Record Store Day UK 2019 Release; in stickered OBI wrap sleeve similar to the original 7" single package.  Features all the tracks originally released on the 1998 UK Legacy Single CD1 & CD2
-

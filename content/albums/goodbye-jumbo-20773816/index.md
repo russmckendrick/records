@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Is It Too Late? (4:24)
 2. Way Down Now (3:49)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. Love Street (4:21)
 11. Sweet Soul Dream (4:39)
 12. Thank You World (3:47)
+## Spotify
+{{< spotify type="album" id="0NHOAAAuzEglpm88igZi1a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7IZlfTeOcYg" title="Is It Too Late?" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock"]
 - [Sweet Soul Dream](https://www.youtube.com/watch?v=NJcop92PPT0)
 - [Thank You World](https://www.youtube.com/watch?v=6o8tGRwGGp0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | seaview 2LP |
 
 Recorded At Seaview Studios,  The Old Rectory, Bedfordshire, England And Seaview Studios, London, England  Printed Inner Sleeve Digitally edited, mastered and remastered by Tim Young
-

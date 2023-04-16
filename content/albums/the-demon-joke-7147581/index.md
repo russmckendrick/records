@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Two Five Five (3:15)
 2. Doubt (4:13)
@@ -41,9 +40,7 @@ styles: null
 - [VENNART - Don't Forget The Joker (Lyric Video)](https://www.youtube.com/watch?v=VDdpyypbaKo)
 - [VENNART - Retaliate (Lyric Video)](https://www.youtube.com/watch?v=JyEjLh_VdRY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +50,3 @@ styles: null
 | Catalog Number | SBMLP 037, 0507191 |
 
 Comes with a gatefold sleeve & 12x12" lyric and credit sheet.  "This record is dedicated to the memory of John Vennart, Marjorie Moorhouse and Rik Mayall."
-

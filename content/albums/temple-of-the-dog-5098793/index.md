@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Say Hello 2 Heaven (6:22)
 2. Reach Down (11:11)
@@ -25,13 +24,13 @@ styles: ["Grunge", "Alternative Rock"]
 8. Your Saviour (4:02)
 9. Four Walled World (6:53)
 10. All Night Thing (3:52)
+## Spotify
+{{< spotify type="album" id="63HdXCn0Xz1pRZc2GzMw7k" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VUb450Alpps" title="Temple Of The Dog - Hunger Strike" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -41,4 +40,3 @@ styles: ["Grunge", "Alternative Rock"]
 | Catalog Number | MOVLP956 |
 
 A golden sticker is affixed to the resealable outer sleeve, reading:  "Music On Vinyl®. TEMPLE OF THE DOG. "TEMPLE OF THE DOG". The legendary album. Including an insert with lyrics and etched D-side. 180 gram audiophile vinyl. www.musiconvinyl.com. MOVLP956.".  Recorded weekends at London Bridge Studios, Seattle, WA Nov-Dec 1990. Mastered at A&M Mastering Studios.  Original release ℗ 1991 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Manufactured & distributed by Music On Vinyl B.V. for Universal Music B.V. Made in the EU. _____________________________________________________________  Track durations printed on side three are incorrect: they mimic those found on side two.
-

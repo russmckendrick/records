@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno", "Electro", "Experimental"]
 ---
-
 ## Tracklisting
 1. 1 Autobahn
 2. Autobahn (14:27)
@@ -92,11 +91,11 @@ styles: ["Techno", "Electro", "Experimental"]
 75. Vitamin (5:54)
 76. La Forme (6:19)
 77. Regeneration (0:28)
-
+## Spotify
+{{< spotify type="album" id="6nnO5r6I1JtSZ8eTwwIiIF" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -106,4 +105,3 @@ styles: ["Techno", "Electro", "Experimental"]
 | Catalog Number | 0190295923518 |
 
 Sticker on release reads: 8 Album Vinyl Box-Set - New Recordings 2012-2016 Album 7 / Headphone Surround 3D + download card
-

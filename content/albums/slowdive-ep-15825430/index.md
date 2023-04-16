@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Slowdive
 2. Avalyn I
@@ -24,9 +23,7 @@ styles: ["Indie Rock"]
 - [Slowdive - Slowdive (1991)](https://www.youtube.com/watch?v=JzVwpibI8uY)
 - [Slowdive - Avalyn 1 & 2](https://www.youtube.com/watch?v=5uUoaq_X8oc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -36,4 +33,3 @@ styles: ["Indie Rock"]
 | Catalog Number | MOV12009 |
 
 Exclusively available through Record Store Day 2020 180g audiophile vinyl Jacket with special deluxe alubrush finish  Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl 
-

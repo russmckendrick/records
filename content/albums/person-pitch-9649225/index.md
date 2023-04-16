@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Comfy In Nautica (4:04)
 2. Take Pills (5:23)
@@ -22,6 +21,8 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 5. I'm Not (3:49)
 6. Search For Delicious (4:53)
 7. Ponytail (2:05)
+## Spotify
+{{< spotify type="album" id="64TDaAbxgO0TmKZrIavdLg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7xqOz_YqDxM" title="Comfy In Nautica" >}}
@@ -32,9 +33,7 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 - [Search For Delicious](https://www.youtube.com/watch?v=Hiz0C5hQsxU)
 - [Ponytail](https://www.youtube.com/watch?v=EgDqnQLX6hk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 | Catalog Number | MAH08 |
 
 'Vinyl Me, Please' record club exclusive. Record of the month for January 2017: 10-year Anniversary Reissue 2xLP, White + Blue Vinyl Half Speed Remastered, 45 RPM Gatefold direct-to-board style jacket 12" x 12" Original Art Print by Mi Ju  https://www.vinylmeplease.com/products/panda-bear-person-pitch-full
-

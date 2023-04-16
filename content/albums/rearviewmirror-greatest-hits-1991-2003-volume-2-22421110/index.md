@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Black (2004 Mix)
 2. Breath
@@ -38,9 +37,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Once (2004 Remix)](https://www.youtube.com/watch?v=PEEsRBkipnc)
 - [Pearl Jam - Greatest Hits - The Down Side - HD Audio](https://www.youtube.com/watch?v=AyuTmo_XHzw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -50,4 +47,3 @@ styles: ["Alternative Rock", "Grunge"]
 | Catalog Number | 19439895061 |
 
 ℗ 2003 Pearl Jam / This compilation (2004) Epic Records & © 2004, 2022 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. PO Box 510, 33311 Gütersloh, Germany. (...) Made in the EU. LC00199 / 19439895061  This submission contains [r=378611]'s last four sides. Please refer to [r=22421005] which includes the first four sides. Gatefold jacket with two full printed inner sleeves with credits and photos. Grey sticker on the shrink wrap on front cover: "Pearl Jam rearviewmirror greatest hits 1991-2003: Volume 2". Barcode is on a separate sticker on the shrink wrap only, on back cover. Made in the EU (on back cover and labels).
-

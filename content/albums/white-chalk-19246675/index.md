@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Ethereal"]
 ---
-
 ## Tracklisting
 1. The Devil
 2. Dear Darkness
@@ -26,6 +25,8 @@ styles: ["Indie Rock", "Ethereal"]
 9. The Piano
 10. Before Departure
 11. The Mountain
+## Spotify
+{{< spotify type="album" id="4IeJySFMS6reB6BeYzMp5j" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4x-5kt0TOjo" title="PJ Harvey - The Piano" >}}
@@ -41,9 +42,7 @@ styles: ["Indie Rock", "Ethereal"]
 - [Before Departure](https://www.youtube.com/watch?v=-FGLoISqG70)
 - [The Mountain](https://www.youtube.com/watch?v=WOQXPlhn6PI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -53,4 +52,3 @@ styles: ["Indie Rock", "Ethereal"]
 | Catalog Number | 0725347 |
 
 Includes a printed inner sleeve.  Hype sticker: Reissue of the original 2007 album White Chalk featuring the singles When Under Ether, The Piano and The Devil Pressed on 180GSM Vinyl Includes Download Card  Some copies sold without hype sticker and download card.  An Island Records Release ℗2007 Universal Music Operations Ltd. ©2007 Universal Music Operations Ltd. The copyright in this sound recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Hot Head Music (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP)
-

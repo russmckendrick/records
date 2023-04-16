@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
-
 ## Tracklisting
 1. Daze (David Harrow Remix) (BLM Remix23)
 2. Queen Of Hearts (Moody Boys Remix) (Duck Or Drown)
@@ -26,13 +25,13 @@ styles: ["Ambient", "House"]
 9. Pervitin (Violeta Vicci Remix) (The Saw Torture)
 10. AAA (Violeta Vicci Remix) (Hung, Drawn And Quartered)
 11. Shape Shifting Pt. 1 (Youth Bring In The Clown Remix)
+## Spotify
+{{< spotify type="album" id="750aWEljQEs90DHcS7DDsc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="RuVSXb_dTJk" title="Orb – Abolition Of The Royal Familia (Guillotine Mixes)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -42,4 +41,3 @@ styles: ["Ambient", "House"]
 | Catalog Number | COOKLP784 |
 
 The release came sealed in a polythene shrink-wrap, with a circular hype sticker on the front. A download card was included.  Made In The EU
-

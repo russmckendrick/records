@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae", "Pop"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. Walking In The Sunshine (3:26)
 2. Dansetta (3:53)
@@ -27,22 +26,21 @@ styles: ["Ska"]
 10. Only Funkin' (3:32)
 11. End Of The World (2:57)
 12. Gherkin (4:36)
+## Spotify
+{{< spotify type="album" id="7hj9olHsogggH66RRuLxwc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="sirHoeJ5Td8" title="Bad Manners - Can-Can (TOTP)" >}}
 - [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
 - [Bad Manners - can can](https://www.youtube.com/watch?v=CJSwSBbdiCM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
 | Discogs Link   | [Bad Manners - Gosh It's...](https://www.discogs.com/release/2025569-Bad-Manners-Gosh-Its) |
-| Label          | Magnet (2) |
+| Label          | Magnet |
 | Format         | LP, Album |
 | Catalog Number | MAGL 5043 |
 
 Track A3 is based on the classical operetta by [r13333558].  Issued in a textured single sleeve and with a printed lyric inner sleeve.  Some copies include a poster of the band.
-

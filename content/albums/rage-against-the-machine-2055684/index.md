@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
-
 ## Tracklisting
 1. Bombtrack (4:04)
 2. Killing In The Name (5:13)
@@ -25,6 +24,8 @@ styles: ["Funk Metal"]
 8. Fistful Of Steel (5:31)
 9. Township Rebellion (5:24)
 10. Freedom (6:06)
+## Spotify
+{{< spotify type="album" id="4Io5vWtmV1rFj4yirKb4y4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vWJBemWqV48" title="Rage Against the Machine - Bombtrack (Official Music Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Funk Metal"]
 - [Township Rebellion](https://www.youtube.com/watch?v=Q04d4O8etHI)
 - [Rage Against The Machine - Freedom (Official Music Video)](https://www.youtube.com/watch?v=H_vQt_v8Jmw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -50,4 +49,3 @@ styles: ["Funk Metal"]
 | Catalog Number | MOVLP043, 472224 1 |
 
 Released with a blank inner sleeve with no lyrics. Pressed from the same masters as the original [1992 European release](http://www.discogs.com/release/396798). RL etched in the run-out side A.  Cat# on spine: MOVLP043 Cat#s on back cover: 472224 1 & MOVLP043  Cat# on labels: MOVLP043  [Sticker] Music On Vinyl Classic Album 180 gram audiophile vinyl pressing  [Back cover] Originally released ℗ & © 1992 Sony Music Entertainment […] This release 2009: manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment Made in the EU  [Labels] All tracks published by Retribution Music (BMI) except track 5 published by Sony/ATV Music Publishing Ltd.  Original Sound Recording Made By Sony Music Entertainment Inc. The Copyright In This Sound Recording Is Owned By Sony Music Entertainment Inc.
-

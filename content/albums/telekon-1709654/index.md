@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. This Wreckage
 2. The Aircrash Bureau
@@ -28,6 +27,8 @@ styles: ["New Wave", "Synth-pop"]
 11. Bonus Single
 12. Remember I Was Vapour (Live)
 13. On Broadway (Live)
+## Spotify
+{{< spotify type="album" id="2McSfMOhsYBkGNA47IjtnG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SN4qKiwUtRI" title="Gary Numan 'This Wreckage' TOTP (1980)" >}}
@@ -41,9 +42,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -53,4 +52,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | BEGA 19, K 58189 |
 
 Some early pressings have a glossy inner sleeve with 9 inch cut-out and rounded corners.  Later pressings have a square inner sleeve in matt finish with no cut-out.  Both versions included an A4 sized official merchandise insert.  A version exists of [r47028] here without the free single.  (P) 1980 Beggars Banquet
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Reggae"]
 styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 ---
-
 ## Tracklisting
 1. Cool Mountaineer
 2. Justice Keepers
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 10. Thank Jah
 11. Big Fun
 12. How I Love Thee
+## Spotify
+{{< spotify type="album" id="4qeyjV02AhO0BMH61DFcQT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love (Full album 1995)" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 - [Justice Keepers](https://www.youtube.com/watch?v=isp3qJH_jlI)
 - [Long Time](https://www.youtube.com/watch?v=jUVw_nD5Hws)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 | Catalog Number | MOVLP2531 |
 
 180-gram audiophile vinyl Insert Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl
-

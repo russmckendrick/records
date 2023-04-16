@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Go
 2. Animal
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Grunge"]
 10. Elderly Woman Behind The Counter In A Small Town
 11. Leash
 12. Indifference
+## Spotify
+{{< spotify type="album" id="3BSOiAas8BpJOii3kCPyjV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gBt8DnKC1_Y" title="Go (Remastered)" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Pearl Jam - Elderly Woman Behind the Counter in a Small Town (Official Audio)](https://www.youtube.com/watch?v=4YFYNUu_sqE)
 - [Rats (Remastered)](https://www.youtube.com/watch?v=NW_YwJNcZyY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Grunge"]
 | Catalog Number | 88697843131 |
 
 Issued in a gatefold sleeve, includes an insert with lyrics & credits.  
-

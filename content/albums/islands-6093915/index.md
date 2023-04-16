@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Formentera Lady (9:55)
 2. Sailor's Tale (7:20)
@@ -21,11 +20,11 @@ styles: ["Prog Rock"]
 4. Ladies Of The Road (5:29)
 5. Prelude: Song Of The Gulls (4:14)
 6. Islands (9:14)
-
+## Spotify
+{{< spotify type="album" id="5SHta5TtyI85Vb9pUBMYuG" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -35,4 +34,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KCLP4 |
 
 Sticker: • The original stereo mix of the 1971 classic • Newly cut from masters approved by Robert Fripp • 200-gram super-heavyweight vinyl  Includes a 4-page insert. Some copies include an exclusive code for 320kbps MP3 downloads of an original 1971 vinyl transfer. The duration of track A3 differs between the booklet and the A-side label. (Booklet: 4:23; Label: 4:25)  Recorded at Command Studios, Piccadilly, London.  Outer cover illustration 'Trifid Nebula in Sagittarius' by courtesy of The Institute of Technology and Carnegie Institution of Washington  Made in England. Ⓟ & Ⓒ 2014 Robert Fripp.
-

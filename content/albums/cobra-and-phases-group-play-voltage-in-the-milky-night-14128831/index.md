@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Experimental", "Indie Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Fuses
 2. People Do It All The Time
@@ -47,6 +46,8 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 30. Strobo Acceleration (Demo)
 31. Caleidoscopic Gaze (Demo)
 32. Galaxidion (Demo)
+## Spotify
+{{< spotify type="album" id="0n95ZoggN6kIlKXm9i82lG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FBR6bFZbh6A" title="Stereolab - The Free Design (Official Video)" >}}
@@ -59,9 +60,7 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 - [Caleidoscopic Gaze](https://www.youtube.com/watch?v=jTS6Mu2guiI)
 - [The Spiracles](https://www.youtube.com/watch?v=lbW9w7Oo6vs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -71,4 +70,3 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 | Catalog Number | D-UHF-D23RC |
 
 Limited edition numbered clear vinyl edition (2500 copies)  With scratch card to win an exclusive Stereolab record at end of the year. Remastered from original tapes. Bonus disk of unreleased demos, outtakes and alternate mixes. Co-released by band’s own label Duophonic UHF Disks and Warp Records. Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane. Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet. 
-

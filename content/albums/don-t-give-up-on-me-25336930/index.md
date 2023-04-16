@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Don't Give Up On Me
 2. Fast Train
@@ -31,9 +30,7 @@ styles: ["Soul"]
 ## Videos
 {{< youtube id="FR73etxqFx4" title="Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -43,4 +40,3 @@ styles: ["Soul"]
 | Catalog Number | 0358-3 |
 
 2022 Limited edition of 2000 copies on transparent vinyl
-

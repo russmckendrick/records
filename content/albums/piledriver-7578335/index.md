@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Don't Waste My Time (4:19)
 2. Oh Baby (4:35)
@@ -32,9 +31,7 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 - [status quo unspoken words (piledriver).wmv](https://www.youtube.com/watch?v=qdS6iXsvT1o)
 - [Status Quo - Roadhouse Blues - HQ](https://www.youtube.com/watch?v=y2Hi0boj1OM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -44,4 +41,3 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 | Catalog Number | 4723762 |
 
 Gatefold sleeve 
-

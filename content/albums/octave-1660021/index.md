@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Steppin' In A Slide Zone (5:28)
 2. Under Moonshine (5:00)
@@ -25,6 +24,8 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 8. Survival (4:09)
 9. One Step Into The Light (4:28)
 10. The Day We Meet Again (6:18)
+## Spotify
+{{< spotify type="album" id="58Lnkf8TmX0GyxK45vfN1K" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="WBedAweB96Y" title="THE MOODY BLUES Octave 10 The day we meet again" >}}
@@ -41,9 +42,7 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 - [Moody Blues - The Day We Meet Again](https://www.youtube.com/watch?v=Zs2Hwp8pmoQ)
 - [THE MOODY BLUES Octave 03 had to fall in love](https://www.youtube.com/watch?v=jxN_LCVHtdk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -53,4 +52,3 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 | Catalog Number | TXS 129 |
 
 Gatefold sleeve.  Track lengths only printed on sleeve 
-

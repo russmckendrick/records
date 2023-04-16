@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 ---
-
 ## Tracklisting
 1. Juanita : Kiteless : To Dream Of Love (16:36)
 2. Banstyle / Sappys Curry (15:22)
@@ -23,6 +22,8 @@ styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 6. Air Towel (7:37)
 7. Blueski (2:55)
 8. Stagger (7:37)
+## Spotify
+{{< spotify type="album" id="6bowhByaAMoqWnRQGnffo9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="0oYoRg6Ws9U" title="Underworld - Juanita/Kiteless/To Dream of Love" >}}
@@ -36,9 +37,7 @@ styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 - [Underworld - Born Slippy .NUXX](https://www.youtube.com/watch?v=mQwg2JJFm6A)
 - [Underworld - Rez](https://www.youtube.com/watch?v=KUglZzrsQDA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +47,3 @@ styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 | Catalog Number | uwr00054 |
 
 ℗ + © 2015 Smith Hyde Productions, under exclusive license to Universal Music Operations, Ltd.   Rick Smith & Karl Hyde are published by Mute Song Ltd. for the world excluding the USA, Canada and Mexico and by Music Of Big Deal (BMI) for USA, Canada and Mexico; Darren Emerson is published by Mute Song Ltd for the world excluding USA & Canada and Kobalt for USA & Canada.   Made in the EU.  Remastered at Abbey Road Studios by Miles Showell cut at half speed. 180 gram vinyl.  Includes printed inner sleeves.  Steven Hall for Junior Boys Own
-

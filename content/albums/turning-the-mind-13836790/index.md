@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 ---
-
 ## Tracklisting
 1. Turning The Mind
 2. I Dream Of Crystal
@@ -27,6 +26,8 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 10. Chemeleon
 11. Die Happy, Die Smiling
 12. Without You
+## Spotify
+{{< spotify type="album" id="7mo9S3gkLJEEDz3thU5Hiv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="bHIv9QBY_GQ" title="Maps - Turning the Mind (Song)" >}}
@@ -35,9 +36,7 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 - [Maps - From Here's to Bliss (Bonus Track)](https://www.youtube.com/watch?v=2c6q2F-zEM0)
 - [From Here's to Bliss](https://www.youtube.com/watch?v=EK7rKGkYesM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -47,4 +46,3 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 | Catalog Number | STUMM298 |
 
 Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.  Circular silver hype sticker on the cellophane reads:  First time on vinyl  Mute 4.0 Orange vinyl Limited edition of 500  Double album D side etching + Digital copy _  ℗ 2019 Mute Records Limited © 2009 Mute Records Limited Printed in the EU.
-

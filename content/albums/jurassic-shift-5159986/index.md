@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Space Rock", "Prog Rock", "Ambient"]
 ---
-
 ## Tracklisting
 1. Sun Hair (5:43)
 2. Stretchy (6:51)
@@ -25,6 +24,8 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 8. Half Light In Thillai (5:35)
 9. Sun Hair (System 7 Stargate Mix) (8:32)
 10. Pteranodon (Hallucinogen Mix) (8:52)
+## Spotify
+{{< spotify type="album" id="1sBTE8pk2bYgcqI3C0xBnw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FDixlKkQR2w" title="Sunhair (2020 Ed Wynne Remaster)" >}}
@@ -47,9 +48,7 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 - [Ozric Tentacles - Train Oasis](https://www.youtube.com/watch?v=wgjEguBHbv4)
 - [Ozric Tentacles - Feng Shui (Live)](https://www.youtube.com/watch?v=M9CjobOAPoQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -59,4 +58,3 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 | Catalog Number | SMALP955 |
 
 Recorded in 1992-1993 at The Mill, Somerset.  ℗1993 Snapper Music ©2013 Snapper Music  
-

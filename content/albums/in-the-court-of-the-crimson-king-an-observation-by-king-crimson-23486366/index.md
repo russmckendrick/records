@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. 	21st Century Schizoid Man (Including "Mirrors")
 2. 	I Talk To The Wind
@@ -22,9 +21,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 5. The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets")
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -34,4 +31,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | KCLP1 |
 
 Rough Trade Essential Edition, limited to 1000 copies on 180gr clear vinyl. Gatefold sleeve, with OBI.  ℗ & © 2010 Robert Fripp. Made in England
-

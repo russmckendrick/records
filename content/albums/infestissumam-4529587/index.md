@@ -1,6 +1,6 @@
 ---
-title: "Ghost (32) - Infestissumam"
-artist: "Ghost (32)"
+title: "Ghost - Infestissumam"
+artist: "Ghost"
 album_name: "Infestissumam"
 date: 2018-09-21
 release_id: "4529587"
@@ -8,12 +8,11 @@ slug: "infestissumam-4529587"
 hideSummary: true
 cover:
     image: "infestissumam-4529587.jpg"
-    alt: "Infestissumam by Ghost (32)"
-    caption: "Infestissumam by Ghost (32)"
+    alt: "Infestissumam by Ghost"
+    caption: "Infestissumam by Ghost"
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Infestissumam (1:42)
 2. Per Aspera Ad Inferi (4:09)
@@ -25,6 +24,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 8. Idolatrine (4:23)
 9. Depth Of Satan's Eyes (5:25)
 10. Monstrance Clock (5:53)
+## Spotify
+{{< spotify type="album" id="2HlryLawoMpHGIcuDJDfQr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dPhvb87xweI" title="Ghost   Infestissumam   Full Album" >}}
@@ -43,16 +44,13 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [La Mantra Mori](https://www.youtube.com/watch?v=6FN6k8XtRpw)
 - [I'm A Marionette](https://www.youtube.com/watch?v=Gvj7f8-UZ9g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
-| Discogs Link   | [Ghost (32) - Infestissumam](https://www.discogs.com/release/4529587-Ghost-BC-Infestissumam) |
+| Discogs Link   | [Ghost - Infestissumam](https://www.discogs.com/release/4529587-Ghost-BC-Infestissumam) |
 | Label          | Loma Vista, Republic Records, Rise Above Records |
 | Format         | LP, Album, Red |
 | Catalog Number | 602537343737 |
 
 Gatefold cover. Made in EU.
-

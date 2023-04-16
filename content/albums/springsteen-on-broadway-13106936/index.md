@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Growin' Up (Intro) (2:05)
 2. Growin' Up (Song) (12:00)
@@ -45,13 +44,13 @@ styles: ["Soundtrack"]
 28. Land Of Hope And Dreams (Song) (3:58)
 29. Born To Run (Intro) (7:36)
 30. Born To Run (Song) (5:10)
+## Spotify
+{{< spotify type="album" id="42eusslaYHJvhxttuMbwj9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="M1xDzgob1JI" title="Springsteen on Broadway | Official Trailer [HD] | Netflix" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,4 +60,3 @@ styles: ["Soundtrack"]
 | Catalog Number | 19075904371 |
 
 Single wide spine sleeve in transparent plastic O-card. Printed inner sleeves.  Recordings from the Springsteen On Broadway show at the Walter Kerr Theatre, New York, NY (which ran from October 12, 2017 to December 15, 2018). Includes free digital download.  Note on runouts: The first part of the runouts is hand-etched. The second part, starting with "MPO" is machine-etched.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Welcome To The Working Week
 2. Miracle Man
@@ -28,6 +27,8 @@ styles: ["New Wave", "Pop Rock"]
 11. Pay It Back
 12. I'm Not Angry
 13. Waiting For The End Of The World
+## Spotify
+{{< spotify type="album" id="1aucGNKimhgARC7iO2xLt2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FJTIIfhk2k4" title="Welcome To The Working Week" >}}
@@ -43,9 +44,7 @@ styles: ["New Wave", "Pop Rock"]
 - [I'm Not Angry](https://www.youtube.com/watch?v=AyGXSW-9x8I)
 - [Waiting For The End Of The World](https://www.youtube.com/watch?v=pgIR3GU_5sw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -55,4 +54,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | 0602547331144 |
 
 Includes a voucher to download MP3 version of the album. Made in the Czech Republic.  
-

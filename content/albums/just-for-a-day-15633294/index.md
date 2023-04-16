@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
-
 ## Tracklisting
 1. Spanish Air (6:06)
 2. Celia's Dream (4:12)
@@ -24,6 +23,8 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 7. Brighter (3:51)
 8. The Sadman (4:47)
 9. Primal (5:29)
+## Spotify
+{{< spotify type="album" id="7761KE2C9rH1QO9WAE1Ysb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="twfEU6MPzDw" title="Spanish Air" >}}
@@ -36,9 +37,7 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 - [The Sadman](https://www.youtube.com/watch?v=8-faqEkqRuM)
 - [Primal](https://www.youtube.com/watch?v=xuiE4AMe6QM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -48,4 +47,3 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 | Catalog Number | MOVLP354 |
 
 180 gram audiophile vinyl Including insert Sleeve with special alubrush finish Limited edition of 4000 individually numbered copies on flaming coloured vinyl
-

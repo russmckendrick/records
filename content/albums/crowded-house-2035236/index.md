@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. World Where You Live (3:04)
 2. Now We're Getting Somewhere (4:05)
@@ -25,6 +24,8 @@ styles: ["Pop Rock", "Synth-pop"]
 8. I Walk Away (3:05)
 9. Tombstone (3:30)
 10. That's What I Call Love (3:37)
+## Spotify
+{{< spotify type="album" id="1dJpgn1rqvvr4yyNYLEYBG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Music Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Crowded House, World Where You Live](https://www.youtube.com/watch?v=gv33K1x7FVg)
 - [Crowded House - Something So Strong (Official Video)](https://www.youtube.com/watch?v=WyBKzBtaKWM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -44,4 +43,3 @@ styles: ["Pop Rock", "Synth-pop"]
 | Catalog Number | EST 2016, 24 0555 1 |
 
 ''Hayes, Middlesex, England'' in tiny print on the backcover. Inner sleeve with lyrics. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
-
 ## Tracklisting
 1. Got To Be There
 2. In The Dark
@@ -27,6 +26,8 @@ styles: ["Roots Reggae"]
 10. Revolution
 11. 54-36
 12. Sailing On
+## Spotify
+{{< spotify type="album" id="6FuHnw9KkeYH6TSJaNOlto" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ArBiLhVX4Ro" title="Toots And Maytals - Revolution, Dragon Records-1974" >}}
@@ -43,9 +44,7 @@ styles: ["Roots Reggae"]
 - [54-46 Was My Number](https://www.youtube.com/watch?v=wNxNwvjzGM0)
 - [Sailing On](https://www.youtube.com/watch?v=itnsYaWbtQg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -55,4 +54,3 @@ styles: ["Roots Reggae"]
 | Catalog Number | MOVLP2325 |
 
     
-

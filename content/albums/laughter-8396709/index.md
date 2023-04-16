@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Disco"]
 ---
-
 ## Tracklisting
 1. Sueperman's Big Sister
 2. Pardon
@@ -45,9 +44,7 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 - [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
 - [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -57,4 +54,3 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 | Catalog Number | DEMREC57 |
 
 Contains printed inner which shows Ian Horne and Wilco Johnson.  Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING". -------------------- Some other examples have the WARNING! sticker adhered to the left side of the front, and a small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'. ------------------ 
-

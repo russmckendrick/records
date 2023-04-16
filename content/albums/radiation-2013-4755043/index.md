@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Costa Del Slough
 2. Under The Sun
@@ -24,6 +23,8 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 7. Born To Run
 8. Cathedral Wall
 9. A Few Words For The Dead
+## Spotify
+{{< spotify type="album" id="5GzKYZDoiVimgFXDOdLwZh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="So4O7NVCPZ4" title="Costa del Slough - Marillion" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 - [A Few Words For The Dead - Marillion](https://www.youtube.com/watch?v=bGN1uOOHRFw)
 - [Marillion - These Chains](https://www.youtube.com/watch?v=DjLuzfsRuXE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 | Catalog Number | SMALP996 |
 
 This record features the 2013 remaster/remix by Michael Hunter, on translucent blue heavyweight vinyl. Comes in a gatefold sleeve.  Written and Recorded at The Racket Club, Buckinghamshire, between November '97 and June '98. Mixed at The Forge, Oswestry.  Published by Hornall Brothers Publishing.  Side D features an etching by cover artist, Carl Glover.  ℗ 2013 Intact Recordings under exclusive licence to Snapper Music Plc. © 2013 Intact Recordings. Madfish is a Snapper Music Label.  [Back cover reads]: Made in Poland  [Labels reads]: Made in Germany.  Red sticker reads: Marillion Radiation 2013 Deluxe Gatefold 2LP Edition on blue vinyl with etching  Newly remixed and remastered by Michael Hunter with new artwork  Madfish www.madfishmusic.com/marillion“ SMALP996 
-

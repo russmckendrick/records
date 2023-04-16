@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Midnight At The Movies
 2. What I Mean To You
@@ -27,11 +26,11 @@ styles: ["Country"]
 10. Someday I'll Be Forgiven For This
 11. Walk Out
 12. Here We Go Again
-
+## Spotify
+{{< spotify type="album" id="4Myi5x11ZZlHhWDH6XYEWx" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -41,4 +40,3 @@ styles: ["Country"]
 | Catalog Number | BS 160 LP |
 
 "Limited Edition of 2000" Released with mp3 download
-

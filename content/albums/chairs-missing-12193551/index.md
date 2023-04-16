@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
-
 ## Tracklisting
 1. Practice Makes Perfect (4:06)
 2. French Film Blurred (2:35)
@@ -30,6 +29,8 @@ styles: ["New Wave", "Post-Punk"]
 13. From The Nursery (3:00)
 14. Used To (2:21)
 15. Too Late (4:16)
+## Spotify
+{{< spotify type="album" id="7tWxaE1as1wy12Yd1De41r" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect (2006 Remastered Version)" >}}
@@ -48,9 +49,7 @@ styles: ["New Wave", "Post-Punk"]
 - [Used To (2006 Remastered Version)](https://www.youtube.com/watch?v=kFv1fNud0cY)
 - [Too Late (2006 Remastered Version)](https://www.youtube.com/watch?v=ZiKagKI-_OI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -60,4 +59,3 @@ styles: ["New Wave", "Post-Punk"]
 | Catalog Number | PF12LP |
 
 Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Not available on cassette  Printed inner sleeve with lyrics.  Labels read "Side One" on both sides, track listing is correct for each side however.
-

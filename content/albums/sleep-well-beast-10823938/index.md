@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Nobody Else Will Be There
 2. Day I Die
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Carin at the Liquor Store
 11. Dark Side of the Gym
 12. Sleep Well Beast
+## Spotify
+{{< spotify type="album" id="2lsM7Py65EOtlq8BgwkXCS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="2O6duDDkhis" title="The National - 'The System Only Dreams in Total Darkness'" >}}
@@ -38,9 +39,7 @@ styles: ["Indie Rock"]
 - [The National - 'I'll Still Destroy You'](https://www.youtube.com/watch?v=gPp-3QSXf1g)
 - [The National - 'Dark Side of the Gym'](https://www.youtube.com/watch?v=4ICyy1V6n4c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -50,4 +49,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 4AD0020LP |
 
 Pressed on 2x12" standard weight white vinyl. Gatefold sleeve. Includes a 24" x 24" folded poster and 2 inner sleeves.  Includes code for digital download.   Barcode sticker: 4AD0020LP MADE IN EU  ℗ & © 2017 4AD  Produced [...] at Long Pond, Hudson Valley, NY.  "Walk It Back" includes an excerpt from the article entitled "Faith, Certainty and the Presidency of George W. Bush" by Ron Suskind, first published in the New York Times Magazine.  All rights administered by BMG Rights Management (US) LLC (except for Ron Suskind, published by Music of Virtual (BMI) administered outside North America by Touch Tones Music Ltd.).  Recorded [...] at Long Pond. Paris orchestral sessions recorded [...] at Studio Saint Germain. Los Angeles vocal sessions recorded [...] at Illegoland. Additional sessions recorded at Future Past, Hudson, NY, Funkhaus, Berlin, and Michelberger Hotel, Berlin.  Mastered [...] at Sterling Sound, New York, NY.
-

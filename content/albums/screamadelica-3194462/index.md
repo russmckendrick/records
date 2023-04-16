@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["House", "Dub", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Movin' On Up (3:40)
 2. Slip Inside This House (5:16)
@@ -26,6 +25,8 @@ styles: ["House", "Dub", "Downtempo"]
 9. I'm Comin' Down (6:01)
 10. Higher Than The Sun (A Dub Symphony In Two Parts) (7:38)
 11. Shine Like Stars (3:47)
+## Spotify
+{{< spotify type="album" id="4TECsw2dFHZ1ULrT7OA3OL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SnkjvECEQr4" title="Primal Scream - Movin' on Up (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["House", "Dub", "Downtempo"]
 - [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
 - [Primal Scream - Shine Like Stars (Official Audio)](https://www.youtube.com/watch?v=SKPRmuraUEE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -50,4 +49,3 @@ styles: ["House", "Dub", "Downtempo"]
 | Catalog Number | 88697811061, MOVLP280 |
 
 Re-mastered For The 20th Anniversary. Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews. 180 gram Audiophile Vinyl (Black). With a gold sticker on transparent outer shrink wrap. Matte gatefold sleeve. Generic anti-static die-cut poly-lined dust inner sleeves without corners.  Remastered at Metropolis. 
-

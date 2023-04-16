@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Rock Art And The X-Ray Style
 2. Tony Adams (6:33)
@@ -84,9 +83,7 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 - [Joe Strummer - Fantastic (Official Audio)](https://www.youtube.com/watch?v=SmiQ8KDqG2o)
 - [Coma Girl (Outtake)](https://www.youtube.com/watch?v=BK_7ECtly5c)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -94,6 +91,5 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 | Label          | Dark Horse Records, BMG |
 | Format         | 2xLP, Album, RE + 2xLP, Album, RE + LP, Album, RE  |
 | Catalog Number | DH0009, 405053879182 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Dream Pop"]
 ---
-
 ## Tracklisting
 1. Wedding Bell
 2. You Came To Me
@@ -26,6 +25,8 @@ styles: ["Indie Rock", "Dream Pop"]
 9. Astronaut
 10. D.A.R.L.I.N.G.
 11. Home Again
+## Spotify
+{{< spotify type="album" id="6Unw8A3kdy8ZPj6MmlbA7E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eWO4CuAKjyw" title="Beach House  All the Years" >}}
@@ -34,9 +35,7 @@ styles: ["Indie Rock", "Dream Pop"]
 - [Beach House - You Came To Me](https://www.youtube.com/watch?v=8UqwNLdb45k)
 - [Beach House Gila](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Indie Rock", "Dream Pop"]
 | Catalog Number | VMP-027 |
 
 10th anniversary reissue.  Lyric poster is hand-written by Victoria Legrand.  Runouts: Etched. Characters after [Side letter]-1 are stamped For example - Side B - etched, 'VMP027-B1' stamped, '168079M2/A'
-

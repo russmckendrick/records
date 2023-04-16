@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Metronomic Underground
 2. Cybele's Reverie
@@ -44,6 +43,8 @@ styles: ["Indie Rock", "Post Rock"]
 27. Brigitte (Demo)
 28. Motoroller Scalatron (Demo)
 29. Anonymous Collective (Demo)
+## Spotify
+{{< spotify type="album" id="2AJqzRQltkneduxKsqmgYJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PGREbC-Q2Do" title="Stereolab – The Noise of Carpet (Official Video)" >}}
@@ -53,9 +54,7 @@ styles: ["Indie Rock", "Post Rock"]
 - [Metronomic Underground](https://www.youtube.com/watch?v=pxknMTAoC8U)
 - [Tomorrow Is Already Here](https://www.youtube.com/watch?v=MxXxT-o4SPY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -65,4 +64,3 @@ styles: ["Indie Rock", "Post Rock"]
 | Catalog Number | D-UHF-D11R |
 
 Expanded Edition, housed in PVC outer sleeve. Limited to 2500 copies, numbered on hype sticker.  Contains poster, download card, and lottery scratch ticket.
-

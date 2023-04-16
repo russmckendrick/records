@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Alone (Newly Recorded)
 2. Spanish Sea (Newly Recorded)
@@ -32,6 +31,8 @@ styles: ["Arena Rock", "Classic Rock"]
 15. Georgy Porgy
 16. Rosanna
 17. Africa
+## Spotify
+{{< spotify type="album" id="5ChYBNgy8o2ps5716s1GH2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3CA6X0Zx3lg" title="Toto - I'll Supply the Love" >}}
@@ -45,9 +46,7 @@ styles: ["Arena Rock", "Classic Rock"]
 - [Toto - Stop Loving You](https://www.youtube.com/watch?v=bYr3OJOXk60)
 - [Toto - Pamela](https://www.youtube.com/watch?v=QCq9751mOFo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -57,4 +56,3 @@ styles: ["Arena Rock", "Classic Rock"]
 | Catalog Number | 19075808661 |
 
 Made in the EU. This compilation ℗&© 2018 Sony Music Entertainment   ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records  Stickers, gatefold, celebrating their 40th anniversary. Three new songs: " Alone ", " Spanish Sea " and " Struck By Lightning ".
-

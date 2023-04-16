@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Field Recording"]
 ---
-
 ## Tracklisting
 1. Amazônia (Part 1) (7:42)
 2. Amazônia (Part 2) (9:59)
@@ -24,6 +23,8 @@ styles: ["Ambient", "Field Recording"]
 7. Amazônia (Part 7) (4:18)
 8. Amazônia (Part 8) (3:19)
 9. Amazônia (Part 9) (6:23)
+## Spotify
+{{< spotify type="album" id="2mRfJ0KfCZGw2aumg53EUi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A1EmGAAmy34" title="Amazônia, Pt. 1" >}}
@@ -45,9 +46,7 @@ styles: ["Ambient", "Field Recording"]
 - [Amazônia, Pt. 8 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=46mIEklhxew)
 - [Amazônia, Pt. 9 (Binaural Audio - Headphones only)](https://www.youtube.com/watch?v=n6YxuR1_eqI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -57,4 +56,3 @@ styles: ["Ambient", "Field Recording"]
 | Catalog Number | 19439845051 |
 
 180gr + wav 5.1 and wav Binaural download code  Sleeve gatefold  Made in the EU. 
-

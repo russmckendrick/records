@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Reducer
 2. Rubbernecker
@@ -23,6 +22,8 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 6. Crazy In Blood
 7. Halloween Bolson
 8. Hell's Teeth
+## Spotify
+{{< spotify type="album" id="15CVkItclaGrn0xLr16Qw0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dsn9leb4ZSc" title="Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer" >}}
@@ -33,9 +34,7 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 - [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
 - [Hell's Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -45,4 +44,3 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 | Catalog Number | LAUNCH184, LAUNCH184S |
 
 Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive) Comes with printed inner sleeves and Bandcamp download code.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
-
 ## Tracklisting
 1. Apples
 2. Love It All
@@ -27,13 +26,13 @@ styles: ["New Wave"]
 10. The Right People
 11. All Those Who Say Okay
 12. Riding The Outskirts Of Fantasy
+## Spotify
+{{< spotify type="album" id="65ALSCYwMfXbyxoavLMlxw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="w_lfMGaFfEM" title="Ian Dury - Bit of Kit [HQ Audio]" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -41,6 +40,5 @@ styles: ["New Wave"]
 | Label          | Demon Records |
 | Format         | LP, Album, RE |
 | Catalog Number | DEMREC60 |
-
 
 

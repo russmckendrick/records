@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Experimental", "Post-Punk", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Instrumental
 2. Athens, France
@@ -21,6 +20,8 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 4. Sunglasses
 5. Track X
 6. Opus
+## Spotify
+{{< spotify type="album" id="2PfgptDcfJTFtoZIS3AukX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="95k_xxZvMIc" title="Black Country New Road - 'Instrumental' (Official Visualizer)" >}}
@@ -30,9 +31,7 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 - [Black Country, New Road - 'Track X' (Official Video)](https://www.youtube.com/watch?v=u3H8O8RJp3M)
 - [Black Country New Road - 'Opus' (Official Lyric Video)](https://www.youtube.com/watch?v=jkppJiPZJaw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -42,4 +41,3 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 | Catalog Number | ZEN269 |
 
 140 gram single LP w/ white paper inner sleeve and 12 inch lyric booklet. Also comes with download code stickered on inner sleeve.
-

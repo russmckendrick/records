@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Blower's Daughter (4:33)
 2. Beautiful One (5:55)
@@ -30,9 +29,7 @@ styles: ["Pop Rock"]
 13. The Power Of Love (4:44)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +39,3 @@ styles: ["Pop Rock"]
 | Catalog Number | MOVLP1875 |
 
 Limited to 1,000 copies worldwide Number stamped on rear sleeve in gold.
-

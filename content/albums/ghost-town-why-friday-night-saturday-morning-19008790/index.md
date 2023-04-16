@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
-
 ## Tracklisting
 1. Ghost Town
 2. Why?
@@ -94,9 +93,7 @@ styles: ["Ska", "Rocksteady"]
 - [Friday Night, Saturday Morning (2021 Remaster)](https://www.youtube.com/watch?v=QHKsa3DuQWU)
 - [Friday Night, Saturday Morning (Live)](https://www.youtube.com/watch?v=zt-wV3snjaU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -106,4 +103,3 @@ styles: ["Ska", "Rocksteady"]
 | Catalog Number | CHS TTH 17, 5060516096770 |
 
 40th Anniversary Edition Double 'A' Side Single Half-Speed Mastered at Abbey Road Studios
-

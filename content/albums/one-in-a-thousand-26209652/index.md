@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Pop"]
 ---
-
 ## Tracklisting
 1. Not The Quiet Type
 2. One Of These Days
@@ -25,11 +24,11 @@ styles: ["Alternative Rock", "Indie Pop"]
 8. Super Connected
 9. Let It Snow
 10. One In A Thousand
-
+## Spotify
+{{< spotify type="album" id="4XKvqhpEPobqCV9Q4zfbSp" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -39,4 +38,3 @@ styles: ["Alternative Rock", "Indie Pop"]
 | Catalog Number | none |
 
 Limited to 400 copies
-

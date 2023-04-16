@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. 1 Unum
 2. March Into The Sea (3:30)
@@ -33,6 +32,8 @@ styles: ["Indie Rock"]
 16. Spitting Venom (8:27)
 17. People As Places As People (3:42)
 18. Invisible (3:59)
+## Spotify
+{{< spotify type="album" id="2lXBCL76UL5PCPbfAqKBkz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O4XskfT6vNY" title="Modest Mouse - Missed the Boat (Contest Video)" >}}
@@ -45,9 +46,7 @@ styles: ["Indie Rock"]
 - [Modest Mouse-Fly Trapped In A Jar](https://www.youtube.com/watch?v=i1FFOB3aP-M)
 - [Modest Mouse - We've Got Everything](https://www.youtube.com/watch?v=AceNg5WrF9I)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
@@ -57,4 +56,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 82876 86139 1 |
 
 180 Gram Vinyl  Labels: © ℗ 2006 Sony BMG Music Entertainment Made in the EU Sleeve: © ℗ 2007 Sony BMG Music Entertainment  Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:  1 UNUM 2 DUO 3 TRIA 4 QUATTOR 
-

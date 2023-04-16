@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Move Mountains (3:20)
 2. Never Enough (2:41)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 10. What Would You Know? (3:55)
 11. One For The Money (2:56)
 12. Someone To Blame (4:07)
+## Spotify
+{{< spotify type="album" id="40KUzz9XDYb0hUQSAV1fkq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="QSASBEasFXI" title="Move Mountains (Ben Chapman 7'' Mix)" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 - [One For The Money](https://www.youtube.com/watch?v=JUIO1Q8a2tA)
 - [Someone To Blame](https://www.youtube.com/watch?v=njmTNKyqBSA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 | Catalog Number | DEMREC952 |
 
   
-

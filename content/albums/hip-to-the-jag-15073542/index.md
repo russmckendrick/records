@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Chart The Way
 2. Silent The Rotor
@@ -25,14 +24,14 @@ styles: ["Psychedelic Rock"]
 8. My Cold Rebirth
 9. Where The Eyeless Walk
 10. Slow Movements
+## Spotify
+{{< spotify type="album" id="0rnxP99MwQY1rr6Y4phq1Y" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="u_YbgWDWtbY" title="Kavus Torabi - Cemetery Of Light" >}}
 - [Radio to Their World](https://www.youtube.com/watch?v=6GTexztI2gw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Psychedelic Rock"]
 | Catalog Number | BR23, BR23v |
 
 BR23   - on spine BR23v - on back  Limited edition of 500 - Black vinyl edition of Kavus' life enhancing debut solo album  180gsm vinyl housed in a 300gsm natural brown card finished in matt varnish and a printed inner sleeve on uncoated art paper.  Orders via bandcamp came with a signed A5 print of the album cover Pre-orders through the Burning Shed are signed on the front cover in the lower left.  Hip To The Jag, Kavus Torabi's debut solo album, is a blissfully skewed swan dive into the swirling cosmic kaleidoscope of the poet's soul. From spectral, intricate and fragile compositions to psychedelic, joyous and open drone-scapes, it is brave, beautiful and beguiling throughout.
-

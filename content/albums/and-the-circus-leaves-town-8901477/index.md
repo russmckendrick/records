@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
-
 ## Tracklisting
 1. Hurricane (2:41)
 2. One Inch Man (3:29)
@@ -26,6 +25,8 @@ styles: ["Stoner Rock"]
 9. Size Queen (3:46)
 10. Catamaran (2:59)
 11. Spaceship Landing (11:15)
+## Spotify
+{{< spotify type="album" id="6O5lhr0v3ci9fMEIK5g5a9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CAXGu81Rk1g" title="Kyuss - One Inch Man" >}}
@@ -35,9 +36,7 @@ styles: ["Stoner Rock"]
 - [Catamaran](https://www.youtube.com/watch?v=kdkeorF6Fiw)
 - [Jumbo Blimp Jumbo](https://www.youtube.com/watch?v=wC5UKU7xh_4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -47,4 +46,3 @@ styles: ["Stoner Rock"]
 | Catalog Number | 7559-61811-1 |
 
 Recorded 3/1/95 - 3/20/95. "Catamaran" previously recorded by Yawning Man.  This repress is largely identical to the 1999 German Repress. There's a "180g COLOURED VINYL" sticker on shrinkwrap. This version is solid blue, whereas the 1999 version ([r=1768971]) is clear blue. ---------------------------------------------------------------------------------------------------- The two tracks appearing after "Spaceship Landing" on other versions (M'deea & Day One) are not included here. 
-

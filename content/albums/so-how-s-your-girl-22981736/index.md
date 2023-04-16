@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ---
-
 ## Tracklisting
 1. Rock N' Roll (Could Never Hip Hop Like This) (4:21)
 2. Magnetizing (6:10)
@@ -31,6 +30,8 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 14. The Runway Song (4:48)
 15. Megaton B-Boy 2000 (4:57)
 16. Father Speaks (1:27)
+## Spotify
+{{< spotify type="album" id="11xrdpHkh2KUuxPGEfQZKG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1w_HupwkGbE" title="Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]" >}}
@@ -50,9 +51,7 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 - [Handsome Boy Modeling School - Megaton B Boy 2000](https://www.youtube.com/watch?v=3eYvNUcPy50)
 - [Handsome Boy Modeling School - Father Speaks](https://www.youtube.com/watch?v=1FzcDfY_kLg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -62,4 +61,3 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 | Catalog Number | TB-1258-1 |
 
 Record Store Day "RSD First" release, part of the April 23rd drop.  Tracks numbered sequentially on release.  Made In Canada
-

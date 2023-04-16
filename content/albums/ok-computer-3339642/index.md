@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. eeny
 2. Airbag (4:44)
@@ -31,11 +30,11 @@ styles: ["Alternative Rock"]
 14. mo
 15. Lucky (4:19)
 16. The Tourist (5:24)
-
+## Spotify
+{{< spotify type="album" id="6dVIqQ8qmQ5GBnJ9shOYGE" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 7243 8 55229 1 8, NODATA 02 |
 
 Audio fixing and dubbing done at Mayfair, Abbey Road, Air Lyndhurst, Courtyard and The Curch. Mastered at Abbey Road.  Matrix# on labels "7243 8 55229 1 8" Manufactured and distributed by EMI  Disc I : (eeny/meeny) - 7243 8 55229 1 8                                    (7243 8 57331 1 6)  Disc II : (miney/moo) - 7243 8 55229 1 8                                    (7243 8 57331 1 5)  Manufactured and distributed by EMI Made and Printed in the U.K. lc 0299 NODATA 02  Comes in a gatefold sleeve with printed inner sleeves.  The labels of this release differ from the original release ([r=4950798] & [r=216593]). Specifically, this release features: "A Warner Music Group Company", whereas the others have "EMI Records Ltd.". Please see the provided image.  Pressed by Record Industry using original DMM parts by EMI Records.
-

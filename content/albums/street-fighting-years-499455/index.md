@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Street Fighting Years (6:18)
 2. Soul Crying Out (6:06)
@@ -25,6 +24,8 @@ styles: ["Pop Rock"]
 8. Mandela Day (5:36)
 9. Belfast Child (6:38)
 10. Biko (7:30)
+## Spotify
+{{< spotify type="album" id="5mBLEMXwzctnXP2ZhPMNvX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7vhhTvcLoRw" title="Simple Minds - Belfast Child" >}}
@@ -40,9 +41,7 @@ styles: ["Pop Rock"]
 - [Simple Minds - Let It All Come Down](https://www.youtube.com/watch?v=UDf-WhTnvj4)
 - [Simple Minds - Mandela Day](https://www.youtube.com/watch?v=xfk13uUuD8Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -52,4 +51,3 @@ styles: ["Pop Rock"]
 | Catalog Number | MINDS1, 209 785-630 |
 
 [a11879] appears courtesy of [l27031] / [l38030].  All digitally recorded and mixed analogue i.e. "DAD"   "Street Fighting Years" song written in memory of Victor Jara.  Made In Scotland March '88 - March '89. Studio Drums provided by Tama. Source of graphic: The Beauty of Fractals.  Published by Virgin Music (Publishers) Ltd. except B2 published by Copyright Control/Virgin Music (Publishers) Ltd. and B5 published by Peter Gabriel Ltd.  ℗&© 1989 Virgin Records Ltd.  Manufactured in the UK. *Matrix / Runout (Runout Side A): MINDS1-A1̶2̶U̶ MINDS 1 A-2U-1-2 D MASTERDISK MINDS1-A1̶2̶U̶ & MASTERDISK are etched and the cross out with stamped "X"   Durations do not appear on this release. Timings via stopwatch.
-

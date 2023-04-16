@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
-
 ## Tracklisting
 1. From The Night
 2. This Is The Last Time
@@ -26,14 +25,14 @@ styles: ["Indie Rock", "Indie Pop"]
 9. The Stranger
 10. Look Away
 11. No One Is Lost
+## Spotify
+{{< spotify type="album" id="1DO8C1pmMT1llrTbm0Se83" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost (Official Video)" >}}
 - [Stars - From The Night (Official Video)](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock", "Indie Pop"]
 | Catalog Number | ATO0251 |
 
 Pre-Order edition. The first 300 LP pre-orders (including bundles) from the official Stars web store include a band signed album flat! Gatefold sleeve. Includes insert with lyrics and a download code.
-

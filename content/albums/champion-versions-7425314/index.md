@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Trip Hop", "Experimental"]
 ---
-
 ## Tracklisting
 1. Dry The Rain (6:05)
 2. I Know (4:00)
@@ -26,9 +25,7 @@ styles: ["Folk Rock", "Trip Hop", "Experimental"]
 - [The Beta Band - 02 I know](https://www.youtube.com/watch?v=1Hg_R8ZRDmo)
 - [The Beta Band - 04 Dogs got a bone](https://www.youtube.com/watch?v=NuuZ-1Nb-fI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -38,4 +35,3 @@ styles: ["Folk Rock", "Trip Hop", "Experimental"]
 | Catalog Number | REGS 16 |
 
 180 gram pressing, includes MP3 download voucher.  Printed on spine: The Pigeons  ℗1997 Parlophone Records Ltd. ©2013 Parlophone Records Ltd. Made in EU.
-

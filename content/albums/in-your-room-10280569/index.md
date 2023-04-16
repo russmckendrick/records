@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Pearly (3:32)
 2. Hey Okay! (2:34)
@@ -29,9 +28,7 @@ styles: ["Pop Rock"]
 12. Adore (3:57)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -41,4 +38,3 @@ styles: ["Pop Rock"]
 | Catalog Number | MOVLP1876 |
 
 Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver.
-

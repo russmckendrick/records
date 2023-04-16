@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Dead Imperial Bastard (4:59)
 2. Deviant Burials (6:45)
@@ -25,6 +24,8 @@ styles: ["Post Rock", "Prog Rock"]
 8. Scared And Alone (8:58)
 9. Winning A Losing Battle (9:14)
 10. We Are The Darkeners (7:53)
+## Spotify
+{{< spotify type="album" id="1spBZkNLoM62OmrajrTld9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O5ka3u6su3M" title="Crippled Black Phoenix - Bronze (Full Album)" >}}
@@ -44,9 +45,7 @@ styles: ["Post Rock", "Prog Rock"]
 - [Crippled Black Phoenix - A future Shock](https://www.youtube.com/watch?v=qohb-MbsuLU)
 - [Crippled Black Phoenix - Winning A Losing Battle](https://www.youtube.com/watch?v=jhWfxcOGQnk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -56,4 +55,3 @@ styles: ["Post Rock", "Prog Rock"]
 | Catalog Number | SOM 399LP, SOM 399LPD1 |
 
 Limited edition of 200 copies worldwide.  Released in gatefold sleeve with printed insert.  First cat.# on spine, second cat.# on sticker.  On label print: A=B B=R C=O D=N
-

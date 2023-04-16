@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Lannoy Point (5:57)
 2. Charm Assault (4:12)
@@ -26,13 +25,13 @@ styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 9. Integration Tape (2:26)
 10. Impermanence (4:23)
 11. White Sands (6:08)
+## Spotify
+{{< spotify type="album" id="1Gl0WP7ql5E1XfmDultlVC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="A5xwjWbBbzo" title="Ride - Home Is A Feeling (OFFICIAL AUDIO)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +41,3 @@ styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 | Catalog Number | WEBB510LP |
 
 Limited Edition Double Clear Vinyl with Embossed Gatefold Sleeve exclusive to independent record stores only.   Download card included. A few signed copies sold in selected record stores.  Pressing plant uncredited, derived from matrix info.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Anything For Boo	
 2. Are We Alright Again	
@@ -35,9 +34,7 @@ styles: null
 - [EELS - Baby Let’s Make It Real - official lyric video](https://www.youtube.com/watch?v=VXuBaaxH_7U)
 - [EELS - Are We Alright Again - official video](https://www.youtube.com/watch?v=ERdHNn1tggA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -47,4 +44,3 @@ styles: null
 | Catalog Number | EWORKS116LP |
 
 Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.
-

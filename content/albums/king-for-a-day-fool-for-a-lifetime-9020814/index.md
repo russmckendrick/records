@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Get Out		 (2:16)
 2. Ricochet (4:28)
@@ -38,6 +37,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 21. Hippie Jam Song (4:57)
 22. Evidence (Versione Italiana) (3:56)
 23. I Wanna F**k Myself (2:53)
+## Spotify
+{{< spotify type="album" id="198GsVgwHgoas39b8TcPYp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="tq-9kk8k4gk" title="Faith No More - King For A Day" >}}
@@ -59,16 +60,13 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [The Last to Know](https://www.youtube.com/watch?v=KER-6L5jq40)
 - [Just a Man](https://www.youtube.com/watch?v=h5MFFc0xdwg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Faith No More - King For A Day Fool For A Lifetime](https://www.discogs.com/release/9020814-Faith-No-More-King-For-A-Day-Fool-For-A-Lifetime) |
-| Label          | Slash, Rhino Records (2) |
+| Label          | Slash, Rhino Records |
 | Format         | 2xLP, Album, RE, Gat |
 | Catalog Number | 0190295973292 |
 
 A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker.
-

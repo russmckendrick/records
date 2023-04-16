@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Obvious Child
 2. Can't Run But
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Pop Rock"]
 8. The Cool, Cool River
 9. Spirit Voices
 10. The Rhythm Of The Saints
+## Spotify
+{{< spotify type="album" id="08tZq3FDsspdU6ycn8Jl2o" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9HKNAhAxMAk" title="Paul Simon - Obvious Child (Official Video)" >}}
@@ -32,9 +33,7 @@ styles: ["Folk Rock", "Pop Rock"]
 - [Paul Simon - Proof](https://www.youtube.com/watch?v=Z5Oh-GDikis)
 - [Paul Simon - The Cool, Cool River](https://www.youtube.com/watch?v=evTk_-e5XE8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -44,4 +43,3 @@ styles: ["Folk Rock", "Pop Rock"]
 | Catalog Number | 7599-26098-1, WX 340 |
 
 ℗ 1990 Paul Simon  Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM Runout PR-P suggests Mastered at P.R. Records Limited.   Catalogue No., Artist and Title all visible top of front cover and spine 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. White Rhino Tea
 2. Sploosh!
@@ -21,6 +20,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 4. Strangeitude
 5. Bizarre Bazaar
 6. Space Between Your Ears
+## Spotify
+{{< spotify type="album" id="1O8LiHN6IizBkjNv1kqnKg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NwhHFbeMILQ" title="White Rhino Tea (2020 Ed Wynne Remaster)" >}}
@@ -30,9 +31,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 - [Bizarre Bazaar (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=20zYKVTYMHo)
 - [Space Between Your Ears (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=kDtVjThwXGc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 | Catalog Number | KSCOPE1067 |
 
 Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020
-

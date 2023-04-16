@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Magic
 2. Summer
@@ -26,13 +25,13 @@ styles: ["Pop Rock"]
 9.  Silent Kiss
 10. Angel Underneath My Skin
 11. Dirty Old Town (Live)
+## Spotify
+{{< spotify type="album" id="53wMq7klbk3UY7SOkrrmb6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xD4jZQqTa4A" title="Simple Minds - Simple Minds - Magic (Official Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,4 +41,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 538349730, 4050538349733 |
 
 Made in the EU. Gatefold sleeve.  Sticker: DELUXE EDITION Double Album Etched Fuschia (Fuchsia) Vinyl Includes 3 x bonus tracks + Free download 538349730  Artist name on cover is in caps, and the letter N is mirrored.  Catalog number on back cover and on the hype sticker on the protective plastic is 538349730. Catalog number on spine is 4050538349733, which also coincides with the barcode. 
-

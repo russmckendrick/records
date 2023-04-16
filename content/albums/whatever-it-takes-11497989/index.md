@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. I Don't Wanna Be Without You
 2. Whatever It Takes
@@ -25,6 +24,8 @@ styles: ["Rhythm & Blues"]
 8. Don't Let Pride Take You For A Ride
 9. How Long
 10. It Was Gonna Be You
+## Spotify
+{{< spotify type="album" id="0p7i3HXoqpDcd0bEM4ASZD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Y7Kc_zDU2RI" title="I Don't Wanna Be Without You" >}}
@@ -38,9 +39,7 @@ styles: ["Rhythm & Blues"]
 - [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
 - [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Rhythm & Blues"]
 | Catalog Number | DAP-051 |
 
 Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  All songs Stoketone Pub., BMI. A Bosco Mann Production © 2017, Daptone Records. Sleeve notes -Sam Boncon, WHIT  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Limited edition translucent gold vinyl. Includes MP 3 download card.
-

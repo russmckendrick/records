@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Woman In Chains
 2. Badman's Song
@@ -23,6 +22,8 @@ styles: ["Pop Rock"]
 6. Swords And Knives
 7. Year Of The Knife
 8. Famous Last Words
+## Spotify
+{{< spotify type="album" id="4oel5wcfKxpWxJuC4VbtuO" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="O5-c79LQ3aM" title="Tears For Fears - Woman In Chains" >}}
@@ -76,9 +77,7 @@ styles: ["Pop Rock"]
 - [Bad Man's Song (Medley / Reprise / Townhouse Live Jam Sessions)](https://www.youtube.com/watch?v=qOPoyzJRuV0)
 - [Standing On The Corner Of The Third World (Townhouse Live Jam Sessions)](https://www.youtube.com/watch?v=46GBfif2iFA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -88,4 +87,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 4770716 |
 
  
-

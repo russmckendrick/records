@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Z2
 2. From Sleep Awake
@@ -41,9 +40,7 @@ styles: null
 ## Videos
 {{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -53,4 +50,3 @@ styles: null
 | Catalog Number | IOMLP 424, 0507241 |
 
 180g vinyl in a gatefold sleeve.
-

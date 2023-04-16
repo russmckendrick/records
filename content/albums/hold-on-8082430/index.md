@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. If That Don't Tell You
 2. This Is Where We Came In
@@ -25,6 +24,8 @@ styles: ["Rhythm & Blues"]
 8. Stranded
 9. Satchel Foot
 10. In The Dark
+## Spotify
+{{< spotify type="album" id="5YOXf6E9pyg56OGJK8rO5Q" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 'If That Don't Tell You' | Live Studio Session" >}}
@@ -38,9 +39,7 @@ styles: ["Rhythm & Blues"]
 - [The James Hunter 6 'Sachelfoot' | Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
 - [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -50,4 +49,3 @@ styles: ["Rhythm & Blues"]
 | Catalog Number | DAP-040, DAP - 040 |
 
 Mono (monaural) pressing. Includes download card. © 2016 DAPTONE RECORDS  Published by Stoketone Publishing, BMI.  Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.  Another Bosco Mann production.  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Sleeve notes: Sam Boncon, WHIT  Durations not listed on release.   Glossy cover with generic with inner sleeve  Hype sticker on shrink wrap
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Introduction: Das Rheingold - Vorspiel
 2. Singularity
@@ -34,11 +33,11 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 17. Atmosphere
 18. Love Will Tear Us Apart
 19. Blue Monday
-
+## Spotify
+{{< spotify type="album" id="3mZDjow2ZIxfWewSXum1d8" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 | Catalog Number | LHN018LP |
 
 Released in a three panel gatefold sleeve with printed inner sleeves, triple clear heavy vinyl (180g).  According to the release website, recorded at the band's second gig at Brixton Academy in November 2015 (17/11/2015). NOMC15 is captured by live show recording experts Live Here Now.  The original 2017 pressing was exclusively sold by [l327325] where fans could "pledge" an amount to make the album happen. A limited repress of 450 copies was issued August 2020 to support the New Order crew and sold through the [l64260] online shop. There are no discernable differences between the two pressings.  ℗ & © 2017 New Order Limited under exclusive license to Live Here Now Limited.
-

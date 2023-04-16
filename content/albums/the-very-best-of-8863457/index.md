@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Sara Smile (3:07)
 2. Rich Girl (2:23)
@@ -33,6 +32,8 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 16. Out Of Touch (Single Version) (3:55)
 17. Method Of Modern Love (5:27)
 18. Some Things Are Better Left Unsaid (5:23)
+## Spotify
+{{< spotify type="album" id="4tUyNf5dGXwY4TaMaxwhqF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JsntlJZ9h1U" title="Daryl Hall & John Oates - Private Eyes (Official Music Video)" >}}
@@ -51,9 +52,7 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 - [Daryl Hall & John Oates - Family Man (Official Video)](https://www.youtube.com/watch?v=-oiqiYdWXiM)
 - [Daryl Hall & John Oates - Some Things Are Better Left Unsaid](https://www.youtube.com/watch?v=Emp0vkKczBI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -63,4 +62,3 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 | Catalog Number | 88985330971 |
 
 Legacy edition. First time on vinyl for this compilation. LP1 is pressed on gray vinyl, LP2 on blue vinyl.  Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment. The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.  This package consists of previously released material. 
-

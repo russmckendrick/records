@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Abstract", "Post Rock", "Ambient"]
 ---
-
 ## Tracklisting
 1. Spirit Of Eden
 2. The Rainbow
@@ -31,6 +30,8 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 14. Wealth
 15. -
 16. John Cope
+## Spotify
+{{< spotify type="album" id="4YXo7p7aubyVIbNLoVlBp9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="fKtp3SOQE6I" title="I Believe in You [Official video] - Talk Talk (HD/HQ)" >}}
@@ -41,9 +42,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 - [I Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=3EBTk5brQVY)
 - [Wealth (1997 Remaster)](https://www.youtube.com/watch?v=9-UKgrd2E6Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -53,4 +52,3 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 | Catalog Number | PCSDX 105, 5099932778717 |
 
 This reissue set includes:  - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "John Cope", originally released in 1988 as B-side of "I Believe In You".  ℗ 1988 The copyright of this compilation is owned by EMI Records Ltd. © 2012 EMI Records Ltd. This label copy information is the subject of copyright protection. All rights reserved. © 2012 EMI Records Ltd. Printed in the EU. 5099932778717  Credits and Mark Hollis' handwritten lyrics are printed on the inner sleeve. A1 to A3 is a continuous track.  Audio only DVD: DVD 9 / region 0 / NTSC / aspect ratio: 16:9. 96khz/24bit LPCM stereo. Exempt from classification duration: 45.44.   Although the audio on this DVD has been transferred from the original analogue stereo masters at 96khz/24bit, the audio used to create the final mix was bounced down from 2" reel-to-reel 24-track tapes, to a Mitsubishi ProDigi 32-track digital recorder which only recorded at a sampling rate of 44.1khz.  This means there is no content above 22khz on the original digital recordings and therefore all mixes / copies that followed would also be lacking in content above 22khz.   ℗ 2012 the copyright in this compilation is owned by EMI Records Ltd. © 2012 EMI Records Ltd. This label copy information is the subject of copyright protection. all rights reserved. © 2012 EMI Records Ltd. Printed in the EU.   DVD comes in a card sleeve. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 ---
-
 ## Tracklisting
 1. The Virgin Suicides (Original Motion Picture Score)
 2. Playground Love (3:32)
@@ -72,6 +71,8 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 55. Dead Bodies (Live L.A Jan 2000)	 (2:21)
 56. Cemetary Party (Live L.A Jan 2000) (3:21)
 57. Suicide Underground (Live L.A Jan 2000) (7:01)
+## Spotify
+{{< spotify type="album" id="2E1q8eohZZ1BUQ7Bq5WUIY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NAgX1jO3No0" title="AIR - Playground Love (Official Video)" >}}
@@ -87,9 +88,7 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 - [Air - Afternoon Sister (Official Audio)](https://www.youtube.com/watch?v=fMz77CUQKPw)
 - [The Virgin Suicides - Thème](https://www.youtube.com/watch?v=8-elWUT2Avg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -99,4 +98,3 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 | Catalog Number | 0825646152339 |
 
 15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.  This differs from [this version](http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513) as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English
-

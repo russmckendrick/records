@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
-
 ## Tracklisting
 1. Juliet Naked (3:22)
 2. Give A Little Time (3:23)
@@ -26,6 +25,8 @@ styles: ["Indie Rock", "Indie Pop"]
 9. Do You Follow? (4:19)
 10. When The Cynics Stare Back From The Wall (4:21)
 11. Late Developers (4:20)
+## Spotify
+{{< spotify type="album" id="7LJdM0B6bp0H78AN7cwqHp" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked (Official Audio)" >}}
@@ -41,9 +42,7 @@ styles: ["Indie Rock", "Indie Pop"]
 - [Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
 - [Belle and Sebastian- Late Developers (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -53,4 +52,3 @@ styles: ["Indie Rock", "Indie Pop"]
 | Catalog Number | OLE1896LPE, OLE1896LP |
 
 Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >.
-

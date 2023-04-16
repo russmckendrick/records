@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Word Girl (4:22)
 2. Small Talk (3:36)
@@ -24,6 +23,8 @@ styles: ["Synth-pop"]
 7. Lover To Fall (4:11)
 8. Wood Beez (Pray Like Aretha Franklin) (4:46)
 9. Hypnotize (3:32)
+## Spotify
+{{< spotify type="album" id="0nBH3ITWaQDYT2wAWRdg3K" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cyWB9WPLT1s" title="Scritti Politti - The Word Girl" >}}
@@ -39,9 +40,7 @@ styles: ["Synth-pop"]
 - [Don't Work That Hard](https://www.youtube.com/watch?v=AbQjcVpfqOA)
 - [Scritti Politti  -  Absolute](https://www.youtube.com/watch?v=ycMaueZ3eas)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -51,4 +50,3 @@ styles: ["Synth-pop"]
 | Catalog Number | V 2350 |
 
 Initial copies of this release on vinyl had the title Cupid & Psyche 85 embossed in gold print. The catalogue number V 2350 is the same.  ℗ 1985 Virgin Records Ltd. © 1985 Jouissance Ltd.  Manufactured in the U.K.
-

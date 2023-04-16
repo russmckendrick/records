@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Africa
 2. Everybody Wants To Rule The World
@@ -25,21 +24,20 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 8. No Scrubs
 9. Billie Jean
 10. Stand By Me
+## Spotify
+{{< spotify type="album" id="1xpGyKyV26uPstk1Elgp9Q" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mk5Dwg5zm2U" title="Weezer - Africa (starring Weird Al Yankovic)" >}}
 - [Weezer - Take On Me (Official Video)](https://www.youtube.com/watch?v=f7RwDnZI7Tw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Weezer - Weezer](https://www.discogs.com/release/13486233-Weezer-Weezer) |
-| Label          | Crush Music (2), Atlantic |
+| Label          | Crush Music, Atlantic |
 | Format         | LP, Album, Ltd, Tea |
 | Catalog Number | 7567-86533-1 |
 
 The sixth self-titled album by Weezer, commonly known as 'The Teal Album'. This album contains ten cover versions.  Released for Record Store Day 2019 - Saturday 13th April.  Manufactured in the E.U.  
-

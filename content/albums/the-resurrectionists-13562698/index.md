@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Burnt Reynolds
 2. Rise Up And Fight
@@ -26,6 +25,8 @@ styles: ["Post Rock", "Prog Rock"]
 9. 444
 10. Littlestep
 11. Human Nature Dictates The Downfall Of Humans
+## Spotify
+{{< spotify type="album" id="01f5YMYwN78H6duUNw1r3k" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rwPIbMiYUMQ" title="200 Tons of Bad Luck (Remastered)" >}}
@@ -34,9 +35,7 @@ styles: ["Post Rock", "Prog Rock"]
 - [Burnt Reynolds - Crippled Black Phoenix](https://www.youtube.com/watch?v=NEdlia-p8xc)
 - [Crippled black phoenix - Song for the loved](https://www.youtube.com/watch?v=6tmPo9F5wgw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +45,3 @@ styles: ["Post Rock", "Prog Rock"]
 | Catalog Number | KSCOPE916, 802644891613 |
 
 Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil). No durations listed on release.  On labels: ℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix  On sleeve back: ℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd. The copyright in this sound recording is owned by Snapper Music Ltd. Kscope is a Snapper Music label. 
-

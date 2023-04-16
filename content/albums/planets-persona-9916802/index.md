@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ---
-
 ## Tracklisting
 1. Solar Sea (7:30)
 2. New Found Land (7:18)
@@ -28,9 +27,7 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 - [Richard Barbieri - New Found Land (from Planets & Persona)](https://www.youtube.com/watch?v=YEUZtutCahE)
 - [Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)](https://www.youtube.com/watch?v=MQiZVQc06KM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -40,4 +37,3 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 | Catalog Number | KSCOPE942 |
 
 Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.  www.kscopemusic.com/artists/richard-barbieri/ www.facebook.com/richardbarbieriofficial  Kscope is a Snapper Music label. Made in Germany.  
-

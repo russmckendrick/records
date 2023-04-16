@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Commemorative ___ T-Shirt (8:37)
 2. Unfamiliar (6:32)
@@ -44,9 +43,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [The Frame](https://www.youtube.com/watch?v=QThNbmBK0l4)
 - [Oceansize - The frame (With lyrics)](https://www.youtube.com/watch?v=1rjJ_qxiRzM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -56,4 +53,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | SBMLP 001 |
 
 Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.  Transparent red vinyl limited to 100 copies. 
-

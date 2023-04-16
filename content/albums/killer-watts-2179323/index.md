@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. The World Anthem (3:00)
 2. Rock 'N' Roll Hall Of Fame (4:06)
@@ -42,9 +41,7 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 - [Journey-Line of Fire(Departure)](https://www.youtube.com/watch?v=cHxkJ9TTSdk)
 - [Boogie No More](https://www.youtube.com/watch?v=H36aL8u7eX0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -54,4 +51,3 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 | Catalog Number | KW 1, S KW 1 |
 
 © 1980 CBS Records.  
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ---
-
 ## Tracklisting
 1. 2049
 2. Sapper's Tree
@@ -47,9 +46,7 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 - [Can't Help Falling in Love | Blade Runner 2049 Soundtrack](https://www.youtube.com/watch?v=gjIiKmpBV1Q)
 - [Lauren Daigle - Almost Human](https://www.youtube.com/watch?v=HcBpKOiGuz8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -59,4 +56,3 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 | Catalog Number | 19075803641 |
 
 The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").  Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).  Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.  Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.  The catalogue number printed on the spine is 19075803641. The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.  Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany. Made in the EU.
-

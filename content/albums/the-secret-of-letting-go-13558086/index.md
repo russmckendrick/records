@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo"]
 ---
-
 ## Tracklisting
 1. Phosphorous
 2. Moonshine
@@ -26,6 +25,8 @@ styles: ["Leftfield", "Downtempo"]
 9. Illumina
 10. The Silence In Between
 11. One Hand Clapping
+## Spotify
+{{< spotify type="album" id="0ky3W5jkdbGeNQOqm7hCAX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VBnCyT4a-_s" title="Phosphorous" >}}
@@ -40,9 +41,7 @@ styles: ["Leftfield", "Downtempo"]
 - [The Silence in Between](https://www.youtube.com/watch?v=X-W26gZDkxE)
 - [One Hand Clapping](https://www.youtube.com/watch?v=Oz0i-3_1-xk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -52,4 +51,3 @@ styles: ["Leftfield", "Downtempo"]
 | Catalog Number | COOKLP728 |
 
 Ltd edition sticker on front cover 180g heavyweight vinyl in gatefold sleeve Label has cat number as COOKCD728 on both sides
-

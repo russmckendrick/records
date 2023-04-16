@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. The Drowners
 2. Metal Mickey
@@ -71,11 +70,11 @@ styles: ["Indie Rock", "Britpop"]
 54. As One
 55. All The Wild Places
 56. Flytipping
-
+## Spotify
+{{< spotify type="album" id="7mAvhljwzf6MGLPz64rSMb" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -85,4 +84,3 @@ styles: ["Indie Rock", "Britpop"]
 | Catalog Number | SUEDEBOX012 |
 
 Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl. Inner sleeves showcase fans memorabilia  750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk]
-

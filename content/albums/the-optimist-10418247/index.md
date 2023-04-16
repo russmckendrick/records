@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. 32.63N 117.14W
 2. Leaving It Behind
@@ -26,15 +25,15 @@ styles: ["Prog Rock", "Alternative Rock"]
 9. Close Your Eyes
 10. Wildfires
 11. Back To The Start
+## Spotify
+{{< spotify type="album" id="2MXZ5iBdwsSzzlZszRZoTY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}
 - [Anathema - The Optimist (FULL ALBUM)](https://www.youtube.com/watch?v=AYmbDjGnpQ8)
 - [Anathema - The Optimist 2017 (Full Album)](https://www.youtube.com/watch?v=YY5muI-CdQ4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Catalog Number | Kscope944, KSCOPE944B - SILVER |
 
 Made in Germany. The label catalog number KSCOPE944B - SILVER can be found on the sticker, also the barcode.  2LP Gatefold 180 gram heavyweight vinyl + MP3 download included. Limited to 300 copies
-

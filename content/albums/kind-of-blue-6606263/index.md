@@ -13,18 +13,17 @@ cover:
 genres: ["Jazz"]
 styles: ["Modal"]
 ---
-
 ## Tracklisting
 1. So What
 2. Freddie Freeloader
 3. Blue In Green
 4. Flamenco Sketches
 5. All Blues
-
+## Spotify
+{{< spotify type="album" id="4sb0eMpDn3upAFfyi4q2rw" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -34,4 +33,3 @@ styles: ["Modal"]
 | Catalog Number | DOL725H |
 
 Despite the labels, track B1 is actually 'All Blues' and B2 is 'Flamenco Sketches'.
-

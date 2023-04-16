@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. A Song For Our Fathers
 2. Snow And Lights
@@ -22,13 +21,13 @@ styles: ["Post Rock"]
 5. Glittering Blackness
 6. Time Stops
 7. Remember Me As A Time Of Day
+## Spotify
+{{< spotify type="album" id="4AB19qiiH6r1eiIlH6cpFC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gl1xv2cspJI" title="Explosions In The Sky - How Strange, Innocence ( Full Album )" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -38,4 +37,3 @@ styles: ["Post Rock"]
 | Catalog Number | TRR085 |
 
 © 2000 Explosions In The Sky ℗ 2019 Temporary Residence Ltd.  Gatefold sleeve version, the tri-fold is [here](http://www.discogs.com/release/13995414).  Limited edition (4.000) with light & dark blue mix vinyl. Includes MP3 download coupon inside package.
-

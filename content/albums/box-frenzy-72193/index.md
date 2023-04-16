@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Hip Hop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Grebo Guru (3:56)
 2. Beaver Patrol (3:08)
@@ -27,6 +26,8 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 10. Love Missile F1-11 (4:10)
 11. Hit The Hi-Tech Groove (5:10)
 12. Razorblade Kisses (1:49)
+## Spotify
+{{< spotify type="album" id="40vZMpfiWyl2MGWP70a9SZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="hWhwXhpiMMU" title="Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)" >}}
@@ -36,9 +37,7 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 - [Pop Will Eat Itself ~ Razorblade Kisses](https://www.youtube.com/watch?v=78hI6JDfJVw)
 - [Pop Will Eat Itself ~ Evelyn](https://www.youtube.com/watch?v=8rw9hgPMkEY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -48,4 +47,3 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 | Catalog Number | CHAP LP 18 |
 
 Produced at Fon Studios, Sheffield.  Includes printed inner sleeve with lyrics and credits on one side. The other side features an adaptation of an advert (taken from a comic) titled 'The Insult That Made A Man Out Of 'Mac''. A-side identified as Front Side, B-side as Back Side (sleeve and labels).  ℗ 1987 Chapter 22 Records © 1987 Chapter 22 Records  Made in England  Mastered at The Townhouse. Pressed at MPO Averton.  Distributed in the UK by Nine Mile/Cartel 
-

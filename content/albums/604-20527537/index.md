@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Mu-Tron (2:58)
 2. Discotraxx (3:50)
@@ -31,6 +30,8 @@ styles: ["Electro", "Synth-pop"]
 14. Ladybird (4:38)
 15. Jet Age (3:10)
 16. Skools Out... (4:06)
+## Spotify
+{{< spotify type="album" id="0Rg5gPR4pbwQrnfmTO9yxK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl [Official Music Video]" >}}
@@ -53,9 +54,7 @@ styles: ["Electro", "Synth-pop"]
 - [Jet Age](https://www.youtube.com/watch?v=XTOSuN6i5to)
 - [Skools Out…](https://www.youtube.com/watch?v=EGIOehtTR0g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -65,4 +64,3 @@ styles: ["Electro", "Synth-pop"]
 | Catalog Number | 30912 1 |
 
 20th Anniversary Edition limited to 1000 copies.  140g 
-

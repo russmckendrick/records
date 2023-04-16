@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Ten
 2. Once
@@ -39,6 +38,8 @@ styles: ["Alternative Rock", "Grunge"]
 22. Garden
 23. Deep
 24. Release
+## Spotify
+{{< spotify type="album" id="5B4PYA7wNN4WdEXdIJu58a" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qM0zINtulhM" title="Pearl Jam - Alive (Official Video)" >}}
@@ -46,9 +47,7 @@ styles: ["Alternative Rock", "Grunge"]
 - [Pearl Jam - Oceans (Official Video)](https://www.youtube.com/watch?v=4WOk7UNAvOw)
 - [Pearl Jam - Jeremy (Official 4K Video)](https://www.youtube.com/watch?v=JNZezhUkOSk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -58,4 +57,3 @@ styles: ["Alternative Rock", "Grunge"]
 | Catalog Number | 88697413021 |
 
 This version had the lacquer cut at Nashville Record Productions Inc, cut by Wes Garland "WG/NRP" and pressed by [l=United Record Pressing] as differentiated by matrix/runout.  Comes with LP-sized round cardboard inlet printed on both sides (see pics)   Front sleeve hype sticker attached to shrinkwrap reads;- pearl jam - ten Vinyl Edition 180-Gram Audiophile Pressing.  LP1 - Ten: The groundbreaking debut album. Newly Remastered for vinyl - featuring "Alive". LP2 - Ten Redux: Brand New Remixes by Brendan O'Brien!  88697413021-S1  Rear sleeve has track listings & barcode printed on a laminated sticker attached to shrinkwrap. All songs ©1991 Write Treatage Music/Innocent Bystander/Jumpin' Cat Music/Scribing C-Ment Songs/3 Kick Heads (ASCAP). © 1991, 2009 Sony Music Entertainment.  "Ten" -  Mixed for Worlds End (America) Inc. Recorded at London Bridge Studios, Seattle - March/April 1991. Mixed at Ridge Farm Studios, Dorking, England - June 1991. Remastered 2008 at Gateway Mastering, Portland, ME.  "Ten Redux" - Remixed at Southern Tracks, Atlanta, GA. Mastered at Gateway Mastering , Portland, ME.       
-

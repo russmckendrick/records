@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. What Goes Boom
 2. Greens And Blues
@@ -39,6 +38,8 @@ styles: ["Indie Rock"]
 22. Andro Queen (3:23)
 23. Snakes (3:45)
 24. Jaime Bravo (4:24)
+## Spotify
+{{< spotify type="album" id="5TuDqbxRPsSaZDXzQhETkP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Njf8Pp6oyMU" title="PIXIES - Indie Cindy" >}}
@@ -57,9 +58,7 @@ styles: ["Indie Rock"]
 - [PIXIES - Andro Queen (Official Video)](https://www.youtube.com/watch?v=10lyWR25_nQ)
 - [Jaime Bravo](https://www.youtube.com/watch?v=yC_txTwYLQQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
@@ -69,4 +68,3 @@ styles: ["Indie Rock"]
 | Catalog Number | PM006DLP, PM006DLPF |
 
 [url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.  Recorded at Rockfield Studios, Wales. Mixed for 140dB. Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.  ℗ & © Pixies Music 2013  Made in the EU  Catalog# on rear cover and spine: PM006DLP Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release.
-

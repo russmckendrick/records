@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Velocity Girl
 2. Gentle Tuesday
@@ -36,9 +35,7 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 ## Videos
 {{< youtube id="R7HNtyxrlu8" title="Bobby Gillespie on Primal Scream's ‘Maximum Rock N Roll’ – The Blues Kitchen Presents..." >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -48,4 +45,3 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 | Catalog Number | 88985486441 |
 
 Limited 500 copies in a gatefold sleeve.
-

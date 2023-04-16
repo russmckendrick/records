@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
-
 ## Tracklisting
 1. High / Aflame
 2. The Germ Inside
@@ -37,14 +36,14 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 20. A Dream About A Dream (5:43)
 21. Secret Words (3:12)
 22. Feel The Sorcery (3:50)
+## Spotify
+{{< spotify type="album" id="5y7jTbe2INzkBFMqeGVIH6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="T_9wjlangXE" title="KnifeWorld - Bottled Out Of Eden [Full Album]" >}}
 - [KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=WzXVxOT8an0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -54,4 +53,3 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 | Catalog Number | IOMLP 447, 88985306401 |
 
 Black vinyl in gatefold with CD.  Recorded at [l292088]. Additional recording at [l999278].  With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.  Layout and artwork at [l877277]. Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].  Published by [l196068].  Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.  knifeworld.co.uk
-

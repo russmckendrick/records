@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Drum n Bass", "Jungle"]
 ---
-
 ## Tracklisting
 1. Inner City Life
 2. Pressure
@@ -55,9 +54,7 @@ styles: ["Drum n Bass", "Jungle"]
 - [Goldie: Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
 - [Goldie: You & Me](https://www.youtube.com/watch?v=kZAeF4Fy9us)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -67,4 +64,3 @@ styles: ["Drum n Bass", "Jungle"]
 | Catalog Number | LMS551367 |
 
 Released in tri-fold sleeve.
-

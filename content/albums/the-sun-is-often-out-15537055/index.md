@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Lost Myself
 2. She Said
@@ -26,6 +25,8 @@ styles: ["Indie Rock"]
 9. Dozen Wicked Words
 10. Elvis
 11. Over Our Bodies
+## Spotify
+{{< spotify type="album" id="1QQKv2Y9uONbj8Dw6GUMB6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6Pg32F19KfI" title="Longpigs - On and On" >}}
@@ -47,9 +48,7 @@ styles: ["Indie Rock"]
 - [All Hype](https://www.youtube.com/watch?v=N6p9vVxTBpM)
 - [The Longpigs - On And On (US Version)](https://www.youtube.com/watch?v=1P-oRJ-5M0A)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -59,4 +58,3 @@ styles: ["Indie Rock"]
 | Catalog Number | DEMREC707X, DEMREC707 |
 
 Amazon.co.uk exclusive version with alternate barcode (on sticker) and unique blue 'hype' sticker. The sleeve is also hand signed by lead singer Crispin Hunt. Limited to 500 copies.  Exclusive catalogue number only features on the 'hype' sticker. Record and inner sleeve is identical to the standard blue vinyl reissue. Sleeve is the same except for an unique barcode sticker and being signed by Crispin Hunt.  Blue hype sticker reads: THE SUN iS OfTEN oUT The 1996 debut album by LONGPIGS Reissued on vinyl for the first time Includes the singles 'On ANd ON', 'SHE SAiD' & 'LOST MySELf' Pressed on heavyweight 180g blue vinyl Amazon exclusive Version Signed by CRiSPiN HUNT DEMREC707X [DEMON RECORDS (logo)]  A "DOO-WOP" record-design by ABRAHAMS PANTS & Orla Quirke  Manufactured in the EU  Press details: "Demon Records is proud to present the first ever vinyl reissue of this cult classic, pressed on 180g heavyweight Blue vinyl. This Amazon Exclusive version is signed by vocalist Crispin hunt and is strictly limited to 500 copies"
-

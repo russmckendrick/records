@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Show Don't Tell (5:01)
 2. Chain Lightning (4:33)
@@ -26,18 +25,17 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Red Tide (4:29)
 10. Hand Over Fist (4:11)
 11. Available Light (5:03)
-
+## Spotify
+{{< spotify type="album" id="2DhyqYUQtUBdeT1YOe9o3R" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Rush - Presto](https://www.discogs.com/release/7634991-Rush-Presto) |
-| Label          | Atlantic, Anthem (5) |
+| Label          | Atlantic, Anthem |
 | Format         | LP, Album, RE, RM, 200 |
 | Catalog Number | R1-83736 |
 
 Issued with a printed inner sleeve with lyrics and credits. 200 gram reissue. Includes high-res 24bit/48kHz digital download card.  Recorded June-August 1989. Mixed September 1989. Preproduction work at Chalet Studio.  "Side I is much longer than Side II, therefore is not as loud. So turn it up!"  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  On labels: ℗ 1989 Atlantic Recording Corporation © 1989 Atlantic Recording Corporation and Anthem Entertainment
-

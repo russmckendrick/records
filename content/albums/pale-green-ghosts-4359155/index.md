@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Synth-pop", "Folk Rock"]
 ---
-
 ## Tracklisting
 1. Pale Green Ghosts (6:04)
 2. Black Belt (4:19)
@@ -37,6 +36,8 @@ styles: ["Synth-pop", "Folk Rock"]
 20. Ernest Borgnine (4:54)
 21. I Hate This Town (4:04)
 22. Glacier (7:36)
+## Spotify
+{{< spotify type="album" id="7JzIz5uW3p6IUPOtAzOIyw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ux1fglC0aT0" title="John Grant - Pale Green Ghosts" >}}
@@ -51,9 +52,7 @@ styles: ["Synth-pop", "Folk Rock"]
 - [John Grant - It Doesn't Matter To Him Ft. Sinead O'Connor [Pale Green Ghosts]](https://www.youtube.com/watch?v=JvM3D4XE9qM)
 - [John Grant - It Doesn't Matter To Him (Strongroom)](https://www.youtube.com/watch?v=ZF6b2rz6Iy4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -63,4 +62,3 @@ styles: ["Synth-pop", "Folk Rock"]
 | Catalog Number | BELLAV377 |
 
 Gatefold cover with 180g mint green vinyl, printed inner sleeves.  Recorded and mixed at Oroom Reykjavík.  Additional recording at Orgelsmiðjan Studio and Syrland Studio, Reykjavik; Elmwood Studio, Dallas; and Strongroom, London. Mastered at 3345 Mastering.  Pale Green Ghosts contains a string arrangement based on the second movement of Sergei Rachmaninoff's Prelude in C# Minor.  No track durations mentioned on this release.  ℗ & © 2013 Bella Union. Made in the EU.
-

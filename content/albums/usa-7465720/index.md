@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Larks' Tongues In Aspic Part II (6:45)
 2. Lament (4:05)
@@ -21,11 +20,11 @@ styles: ["Prog Rock"]
 4. Asbury Park (6:50)
 5. Easy Money (6:32)
 6. 21st Century Schizoid Man (7:32)
-
+## Spotify
+{{< spotify type="album" id="4kNnXWAPlVekku543YWIEb" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -35,4 +34,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KCLP12 |
 
 Newly cut from masters approved by Robert Fripp  Recorded live by the Record Plant, N.Y.C. June 1974  Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974. 
-

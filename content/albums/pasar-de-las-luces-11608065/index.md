@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze"]
 ---
-
 ## Tracklisting
 1. El Parque Parecía No Tener Fin
 2. Ojos En El Carro
@@ -28,14 +27,14 @@ styles: ["Shoegaze"]
 11. Club De Chicas
 12. Para Gali
 13. Párpados Morados
+## Spotify
+{{< spotify type="album" id="0YOlpbeUweZWajP4nUcFAm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="E6ENOMFlTGQ" title="Mint Field - Ojos En El Carro (Official Video)" >}}
 - [Mint Field - Quiero Otoño De Nuevo (Official Video)](https://www.youtube.com/watch?v=-E4HZt8u5QI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -45,4 +44,3 @@ styles: ["Shoegaze"]
 | Catalog Number | IL2054 |
 
 Produced by Mint Field and Christopher Koltay. Recorded and mixed by Cristopher Koltay at High Bias Recordings, Detroit, Michigan. Master by Heba Kadry at Timeless Mastering, Brooklyn, New York. Cover by Emilio Villalba. Design by Julie  Deschodt. Photo by María Esmeralda Molina.  Including downloadcode on a plastic card
-

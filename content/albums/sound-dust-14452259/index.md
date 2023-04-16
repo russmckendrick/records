@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 ---
-
 ## Tracklisting
 1. Black Ants In Sound Dust (1:57)
 2. Space Moth (7:35)
@@ -35,6 +34,8 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 18. Hallucinex Pt 2 Demo (0:51)
 19. Long Live Love Demo (2:18)
 20. Les Bon Bons Des Raisons Demo (3:23)
+## Spotify
+{{< spotify type="album" id="0Zk8BUwSBUkkeZsif2TsBa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TweTfd5AVfU" title="Black Ants In Sound-dust" >}}
@@ -58,9 +59,7 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 - [Gus The Mynah Bird](https://www.youtube.com/watch?v=xHX5PCuq8zs)
 - [Nothing To Do With Me](https://www.youtube.com/watch?v=D0-FTcR-9YI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -70,4 +69,3 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 | Catalog Number | D-UHF-D27RC, D-UHF-D27R |
 
 Ⓟ 2001 Duophonic Ultra High Frequency Disks © 2019 Warp Records  Cat#: D-UHF-D27RC stickered on PVC front and back D-UHF-D27R printed on cover
-

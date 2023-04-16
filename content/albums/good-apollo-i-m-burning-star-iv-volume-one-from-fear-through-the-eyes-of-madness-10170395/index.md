@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Keeping The Blade
 2. Always & Never
@@ -36,9 +35,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 {{< youtube id="n0H3RlaQVrM" title="Coheed and Cambria - Welcome Home (Official Video)" >}}
 - [Coheed and Cambria - The Suffering (Video)](https://www.youtube.com/watch?v=XnABRPS37hk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +45,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | 88843045891 |
 
 Record Store Day 2017 release of 2500 copies. Hype sticker states: Iconic third album now on vinyl for the first time Two LP set remastered from the original sources Limited edition splatter vinyl Includes digital download  150-gram LPs housed in printed inner sleeves with art and lyrics. Includes digital download code.  Release was originally promoted as being pressed on splattered color vinyl; the final product came to be pressed with a swirl/merge color scheme.
-

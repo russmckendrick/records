@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Arena Rock", "Prog Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Tom Sawyer
 2. Distant Early Warning
@@ -46,18 +45,17 @@ styles: ["Arena Rock", "Prog Rock", "Hard Rock"]
 29. Working Man
 30. Between Sun & Moon
 31. Vital Signs
-
+## Spotify
+{{< spotify type="album" id="1iG0R0t4IK55xjpjuizNda" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Rush - Rush In Rio](https://www.discogs.com/release/13087653-Rush-Rush-In-Rio) |
-| Label          | Atlantic, Anthem (5), Ole |
+| Label          | Atlantic, Anthem, Ole |
 | Format         | 4xLP, Album, 180 |
 | Catalog Number | R1 83672, 081227934330 |
 
 ℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.  Packaged in a four-panel gatefold.  Sticker on shrink foil:  "Rush in Rio  180g  Never-Before-Released on Vinyl 4LP + Download Card"
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: null
 ---
-
 ## Tracklisting
 1. Smile Like An Angel
 2. Poor Side Of Town
@@ -33,9 +32,7 @@ styles: null
 ## Videos
 {{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times (Reggae Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -45,4 +42,3 @@ styles: null
 | Catalog Number | KSLP025 |
 
 Track B7 Listed on jacket as 'We Will Be Free', but listed on label as 'We Will Be Fre'.
-

@@ -1,6 +1,6 @@
 ---
-title: "Ghost (32) - Prequelle"
-artist: "Ghost (32)"
+title: "Ghost - Prequelle"
+artist: "Ghost"
 album_name: "Prequelle"
 date: 2018-06-15
 release_id: "12074710"
@@ -8,12 +8,11 @@ slug: "prequelle-12074710"
 hideSummary: true
 cover:
     image: "prequelle-12074710.jpg"
-    alt: "Prequelle by Ghost (32)"
-    caption: "Prequelle by Ghost (32)"
+    alt: "Prequelle by Ghost"
+    caption: "Prequelle by Ghost"
 genres: ["Rock"]
 styles: ["Gothic Metal"]
 ---
-
 ## Tracklisting
 1. Ashes (1:21)
 2. Rats (4:21)
@@ -25,6 +24,8 @@ styles: ["Gothic Metal"]
 8. Witch Image (3:30)
 9. Helvetesfönster (5:55)
 10. Life Eternal (3:27)
+## Spotify
+{{< spotify type="album" id="1KMfjy6MmPorahRjxhTnxm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="C_ijc7A5oAc" title="Ghost - Rats (Official Music Video)" >}}
@@ -39,16 +40,13 @@ styles: ["Gothic Metal"]
 - [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)
 - [Life Eternal](https://www.youtube.com/watch?v=LU6ZN_CJICo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
-| Discogs Link   | [Ghost (32) - Prequelle](https://www.discogs.com/release/12074710-Ghost-Prequelle) |
+| Discogs Link   | [Ghost - Prequelle](https://www.discogs.com/release/12074710-Ghost-Prequelle) |
 | Label          | Loma Vista, Spinefarm Records |
 | Format         | LP, Album, Ltd, Red |
 | Catalog Number | LVR00392, 0888072054851 |
 
 Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings
-

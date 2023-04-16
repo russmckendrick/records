@@ -13,7 +13,6 @@ cover:
 genres: ["Non-Music", "Stage & Screen"]
 styles: ["Comedy", "Radioplay", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Fawlty Towers
 2. Communications Problems
@@ -35,9 +34,7 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 18. The Anniversary
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -47,4 +44,3 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 | Catalog Number | DEMRECBOX54 |
 
 Contains the 4 original BBC Records LPs, plus two which are previously unissued. The original cover art is reproduced as the inner sleeve of each disc, with BBC Records branding. Also contains a large format, 4 page booklet describing the history of Fawlty Towers and its audio releases, plus a 12" signed photograph of John Cleese.  1500 copies pressed.  This set was officially deleted in August 2021.   Two piece, lift off lid box. Lilac hype sticker applied to shrink-wrap. Reproduction BBC labels.
-

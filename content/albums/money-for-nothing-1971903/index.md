@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "AOR"]
 ---
-
 ## Tracklisting
 1. Sultans Of Swing
 2. Down To The Waterline
@@ -26,11 +25,11 @@ styles: ["Pop Rock", "AOR"]
 9. Money For Nothing
 10. Tunnel Of Love
 11. Brothers In Arms
-
+## Spotify
+{{< spotify type="album" id="4qtMQSCoDtgCbqAcEZr6Mx" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1988 |
@@ -40,4 +39,3 @@ styles: ["Pop Rock", "AOR"]
 | Catalog Number | VERH 64, 836 419-1 |
 
 Money For Nothing has Sting as Co-writer on single, not credited on this release. Tunnel Of Love extract from The Carousel Waltz (Rodgers / Hammerstein).  Issued with a lyric inner sleeve.
-

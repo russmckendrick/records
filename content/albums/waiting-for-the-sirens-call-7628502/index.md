@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Who's Joe? (5:43)
 2. Hey Now What You Doing (5:13)
@@ -26,15 +25,15 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 9. Guilt Is A Useless Emotion (5:37)
 10. Turn (4:33)
 11. Working Overtime (3:26)
+## Spotify
+{{< spotify type="album" id="1bzjjvsRKcbfaQc8XHJtvl" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="AhsYhd9m2Dc" title="New Order - Jetstream  [OFFICIAL MUSIC VIDEO]" >}}
 - [New Order - Krafty (Official Music Video)](https://www.youtube.com/watch?v=UPQXqUrAnSI)
 - [New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=3oOB9ektig4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -42,6 +41,5 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 | Label          | Warner Bros. Records |
 | Format         | 2xLP, Album, RM, Gat |
 | Catalog Number | 0825646071968 |
-
 
 

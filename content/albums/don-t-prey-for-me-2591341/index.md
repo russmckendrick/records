@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Do You Wanna Riot
 2. Kick Hard
@@ -33,9 +32,7 @@ styles: ["Hard Rock"]
 - [Little Angels - Don´t pray for me](https://www.youtube.com/watch?v=H5Mx2UZ2UaA)
 - [Little Angels - Don't prey for me.](https://www.youtube.com/watch?v=Az-ayGM81Yo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -45,4 +42,3 @@ styles: ["Hard Rock"]
 | Catalog Number | 843 469-1 |
 
 With hype sticker on sleeve. Includes black and white printed inner sleeve.  ℗ 1989 Polydor Ltd. (UK) ℗ 1990 Polydor Ltd. (UK) © 1990 Polydor Ltd. (UK)
-

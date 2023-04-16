@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
-
 ## Tracklisting
 1. The Delta Sweete: Remixed
 2. Okolona River Bottom Band
@@ -39,6 +38,8 @@ styles: ["Folk Rock", "Country Rock"]
 22. Jessye' Lisabeth (Demo)
 23. Refractions (Demo)
 24. Louisiana Man (Demo)
+## Spotify
+{{< spotify type="album" id="1SiGaqffPGAqWYzdoNCHJn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pgt3aOY5Mqo" title="Okolona River Bottom Band (Remastered 2020)" >}}
@@ -65,9 +66,7 @@ styles: ["Folk Rock", "Country Rock"]
 - [Louisiana Man (Demo)](https://www.youtube.com/watch?v=-JWiyebdKi4)
 - [Mornin' Glory](https://www.youtube.com/watch?v=_CFkyuPoH44)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -77,4 +76,3 @@ styles: ["Folk Rock", "Country Rock"]
 | Catalog Number | 00600753904770, 5390477 |
 
 Writing credits as given on inner sleeve  Gatefold sleeve with flipback design, includes two printed inner sleeves.  Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.  Includes Download Code  Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print.
-

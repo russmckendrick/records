@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Elephant Talk
 2. Frame By Frame
@@ -23,11 +22,11 @@ styles: ["Prog Rock"]
 6. The Sheltering Sky
 7. Discipline
 8. Matte Kudasai (Alt. Mix)
-
+## Spotify
+{{< spotify type="album" id="7KxUQCCvE0edGiqBS6ywEd" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -37,4 +36,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KCLP8 |
 
 Sticker, embossed "Inner Knot" logo on front cover. Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label). Includes a branded inner sleeve.  Sticker: • The 1981 King Crimson classic • Newly cut from masters approved by Robert Fripp • Includes bonus track (Matte Kudasai alt. mix) • 200-gram super-heavyweight vinyl  Back: ℗ & © 2018 Robert Fripp  Labels: Made in England. ℗ & © 2018 Robert Fripp.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Hey Joe (3:25)
 2. Stone Free (3:34)
@@ -64,9 +63,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 - [Third Stone From The Sun](https://www.youtube.com/watch?v=yNBRnkAbhys)
 - [Jimi Hendrix -  Gloria 1968 (audio)](https://www.youtube.com/watch?v=E1D-E-K_DDY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1983 |
@@ -76,4 +73,3 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 | Catalog Number | PODV 6, 2625 047 |
 
 Issued in gatefold sleeve. 
-

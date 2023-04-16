@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
-
 ## Tracklisting
 1. Fortunately  (4:30)
 2. New Days (5:24)
@@ -23,11 +22,11 @@ styles: ["Power Pop"]
 6. New Days (Instrumental Mix) (5:24)
 7. You All Alone (Instrumental Mix) (4:14)
 8. In The Meantime (Instrumental Mix) (4:00)
-
+## Spotify
+{{< spotify type="album" id="1HJ1KKCq4B6808D1IcewLC" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -35,6 +34,5 @@ styles: ["Power Pop"]
 | Label          | Lojinx |
 | Format         | 12\", EP |
 | Catalog Number | LJX129V12 |
-
 
 

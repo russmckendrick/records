@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
-
 ## Tracklisting
 1. A Roller Skating Jam Named "Saturdays" (4:01)
 2. Bonita Applebum (3:36)
@@ -57,9 +56,7 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 - [Da Bush Babees - We Run Things (It's Like Dat)](https://www.youtube.com/watch?v=K9kNi55evZg)
 - [Shaquille O'Neal - What's Up Doc? (Can We Rock) ft. Fu-Schnickens](https://www.youtube.com/watch?v=1f9IgOjZjn4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -69,4 +66,3 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 | Catalog Number | XXQLP2062C |
 
 Limited to 1,000 copies.
-

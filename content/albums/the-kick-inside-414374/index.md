@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Moving (3:00)
 2. The Saxophone Song (3:48)
@@ -28,6 +27,8 @@ styles: ["Art Rock", "Pop Rock"]
 11. Them Heavy People (3:02)
 12. Room For The Life (4:01)
 13. The Kick Inside (3:32)
+## Spotify
+{{< spotify type="album" id="0ld04FI3tfuxefSbNwCJSc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-1pMMIe4hb4" title="Kate Bush - Wuthering Heights - Official Music Video - Version 1" >}}
@@ -46,9 +47,7 @@ styles: ["Art Rock", "Pop Rock"]
 - [Room for the Life (2018 Remaster)](https://www.youtube.com/watch?v=M60QcBKxFPY)
 - [The Kick Inside (2018 Remaster)](https://www.youtube.com/watch?v=_Lay3XINaLg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -58,4 +57,3 @@ styles: ["Art Rock", "Pop Rock"]
 | Catalog Number | EMC 3223, 0C 062 06 603 |
 
 Fully laminated sleeve Tan labels with red EMI logo Durations do not appear on the release. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in runouts, the rest stamped.  Recorded at Air London Studios: July/August 1977 Recorded at Air London Studios: June 1975 [Gilmour executive produced songs] All songs published by EMI/Kate Bush ©1978  On labels: ℗ 1978 EMI Records Ltd. Made in Gt. Britain
-

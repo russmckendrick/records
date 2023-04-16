@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Purple Haze (2:50)
 2. Fire (2:43)
@@ -34,9 +33,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 - [The Jimi Hendrix Experience - Purple Haze (Music Video)](https://www.youtube.com/watch?v=fjwWjx7Cw8I)
 - [The Jimi Hendrix Experience - Hey Joe (Official Audio)](https://www.youtube.com/watch?v=rXwMrBb2x1Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -46,4 +43,3 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 | Catalog Number | 88985303081 |
 
 Remastered reissue features alternate original cover artwork   Inner sleeve plain white Includes a recreation of the poster included in the original LP release with Jimi, Mitch, and Noel dressed as cowboys from the Warner Brothers’ film studios in early 1969.  Record Store Day 2016 release, exclusively available from independent record stores.  Some have a sticker on shrink wrap that reads: "The Authorized Hendrix Family Edition. Remastered from the original 2-track master tapes. The classic original album & poster. Alternate original cover artwork. All analogue mastering by Bernie Grundman. Pressed on audiophile vinyl."  Made in the E.U.  Also marketed in Canada
-

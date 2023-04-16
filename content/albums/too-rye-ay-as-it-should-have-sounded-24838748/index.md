@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Celtic Soul Brothers
 2. Let's Make This Precious
@@ -53,9 +52,7 @@ styles: ["Pop Rock"]
 - [Until I Believe In My Soul (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=VvrDUFcrxIs)
 - [Come On Eileen (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fVaQeoWzwRU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -63,6 +60,5 @@ styles: ["Pop Rock"]
 | Label          | Mercury |
 | Format         | LP, Album, RE, RM, Gre |
 | Catalog Number | 388 570-2 |
-
 
 

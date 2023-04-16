@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Soundtrack", "Country", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Can The Circle Be Unbroken
 2. Blue Yodel No. 8 (Mule Skinner Blues)
@@ -44,14 +43,14 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 27. Where've You Been
 28. Go Rest High On That Mountain
 29. I Still Miss Someone
+## Spotify
+{{< spotify type="album" id="3ZAFnRYQRAiBplISQFj7nC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XnFcRAuFFyI" title="Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time" >}}
 - [Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s](https://www.youtube.com/watch?v=_o_FqMZ8OKA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,4 +60,3 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 | Catalog Number | 19075960431 |
 
 Superb soundtrack to accompany the documentary being aired on BBC4 in November, chronicling the history of Country music
-

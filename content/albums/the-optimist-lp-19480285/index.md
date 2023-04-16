@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Feeling Oblivion (3:43)
 2. Underdog (Save Me) (3:34)
@@ -39,6 +38,8 @@ styles: ["Folk Rock", "Pop Rock"]
 22. The Road (Demo)
 23. Mind Over Money (Demo)
 24. The Optimist (Demo)
+## Spotify
+{{< spotify type="album" id="49OTnZwTrJYLD23gcI3B3N" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zqoteSksoDQ" title="The Optimist" >}}
@@ -55,9 +56,7 @@ styles: ["Folk Rock", "Pop Rock"]
 - [Turin Brakes-Feeling Oblivion with lyrics](https://www.youtube.com/watch?v=bDYibOjyQrk)
 - [Emergency 72](https://www.youtube.com/watch?v=_Qr9S7LT39Y)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -67,4 +66,3 @@ styles: ["Folk Rock", "Pop Rock"]
 | Catalog Number | BN1LPX, BN1LP |
 
 Back in print with refreshed artwork and bonus demos. 20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"  On sleeve: BN1LP On hype sticker: BN1LPX
-

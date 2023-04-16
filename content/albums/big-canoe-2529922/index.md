@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Spiritual Hunger
 2. Don't Bury My Heart
@@ -25,15 +24,15 @@ styles: ["New Wave", "Pop Rock"]
 8. Hyacinth
 9. Big Canoe
 10. Are We One Or Are We Two
+## Spotify
+{{< spotify type="album" id="0XaudJ8R95idCykqptWyEF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="V7140SlRUQE" title="TIM FINN - No Thunder, No Fire, No Rain (1986)" >}}
 - [Tim Finn - Spiritual Hunger (1986)](https://www.youtube.com/watch?v=GGVNSZowmT8)
 - [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1986 |
@@ -43,4 +42,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | V2369 |
 
 This version differs from [another similar release](http://www.discogs.com/release/1877272) in that it lacks "Manufactured in the U.K." anywhere on the release.  Printed inner sleeve with lyrics and credits No country of release displayed on packaging or labels.  Outer sleeve: ℗ 1986 VIRGIN RECORDS © 1986 VIRGIN RECORDS  Inner sleeve: Recorded and Mixed at Townhouse Studios 2 & 3  Labels: ℗ 1986 Virgin Records Ltd. VIRGIN IS A TRADE MARK OF VIRGIN HOLDINGS LTD. 
-

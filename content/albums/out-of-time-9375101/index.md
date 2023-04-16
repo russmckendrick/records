@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Time Side
 2. Radio Song (4:12)
@@ -48,6 +47,8 @@ styles: ["Alternative Rock"]
 31. Low (Demo) (4:54)
 32. 40 Sec. (40 Second Song Demo) (1:22)
 33. Fretless 1 (Demo) (4:52)
+## Spotify
+{{< spotify type="album" id="6yEuIwTQpciH1qtj7mP5GK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZlgOnooY7FA" title="Radio Song" >}}
@@ -62,9 +63,7 @@ styles: ["Alternative Rock"]
 - [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
 - [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -74,4 +73,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 0888072010246 |
 
 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands.
-

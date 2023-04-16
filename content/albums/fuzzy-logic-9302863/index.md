@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. God! Show Me Magic (1:50)
 2. Fuzzy Birds (2:27)
@@ -27,15 +26,15 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 10. Hangin' With Howard Marks (4:20)
 11. Long Gone (5:20)
 12. For Now And Ever (3:32)
+## Spotify
+{{< spotify type="album" id="6VhJwuvzhKQSa4dyIt4Cpz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="d1siktyfFxY" title="Super Furry Animals - God! Show Me Magic (Video)" >}}
 - [Super Furry Animals - If You Don't Want Me To Destroy You](https://www.youtube.com/watch?v=TT03pCDn6DA)
 - [Super Furry Animals - Something 4 the Weekend (Video)](https://www.youtube.com/watch?v=D1QyO4TkWts)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +44,3 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Catalog Number | BMGCATLP77 |
 
 Recorded and mixed at Rockfield Studios, Wales, Earth.  2016 reissue of original 1996 release.  2016 new remaster from the original tapes.  *************************************************************************************************************************************************************  The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched
-

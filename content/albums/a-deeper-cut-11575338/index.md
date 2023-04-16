@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
-
 ## Tracklisting
 1. Caught In The Middle
 2. Built-In Forgetter
@@ -27,6 +26,8 @@ styles: ["Blues Rock"]
 10. Children
 11. There's Still Time
 12. The Wonders We've Seen
+## Spotify
+{{< spotify type="album" id="081mWFWjZU1Dyl2RspScxV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="VMTDrY4lTDo" title="The Temperance Movement - Caught in the Middle (Official Video)" >}}
@@ -42,9 +43,7 @@ styles: ["Blues Rock"]
 - [The Temperance Movement - Built-In Forgetter](https://www.youtube.com/watch?v=VORUDEzu89M)
 - [The Temperance Movement - A Deeper Cut](https://www.youtube.com/watch?v=_seBHGQCqgU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +53,3 @@ styles: ["Blues Rock"]
 | Catalog Number | MOSH606LP |
 
 Came with glossy 4 pages booklet with lyrics and credits. Limited to 1000 copies for the indie stores. Label code only on lower right on back cover.
-

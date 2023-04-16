@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Feet Don't Fail Me
 2. The Way You Used To Do
@@ -24,6 +23,8 @@ styles: ["Alternative Rock"]
 7. Hideaway
 8. The Evil Has Landed
 9. Villains Of Circumstance
+## Spotify
+{{< spotify type="album" id="7vuIN24G18PAUAvjnICyA6" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Exa0CzlCb3Y" title="Queens of the Stone Age - The Evil Has Landed (Audio)" >}}
@@ -37,9 +38,7 @@ styles: ["Alternative Rock"]
 - [Queens of the Stone Age - Hideaway (Audio)](https://www.youtube.com/watch?v=2dcbcic06vw)
 - [Queens of the Stone Age - Villains of Circumstance (Audio)](https://www.youtube.com/watch?v=fsqhJcGbaEI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | OLE-1125-8 |
 
 Limited press of 7,000 units worldwide - exclusively released to Indie Record stores  This is the US pressing.  For the E.U. edition pressed by [l313190] see [r10756198]   Hype sticker text: Limited Special Cover Art By Boneface Includes Free Download Of The Entire Album On MP3 And FLAC  Packaged in a gatefold cover with printed inner sleeve and lyric insert.  OLE-1125-8 P&C 2017 Queens Of The Stone Age Under License To Matador Records  Track numbering is sequential on the release.  Engineered [...] at United Recording Studios, Los Angeles, CA Mixed [...] at Pink Duck Studios, Burbank, CA Mastered by [...] of Lurssen Mastering, Burbank, CA  Board Stiff Music, all rights administered by Songs Of Kobalt Music (BMI) Magic Bullet Music (ASCAP) Sleeping Disorder Music (BMI) Dr. Shoes (BMI)  Pressing plant and lacquer cut by credit derived from matrix info.
-

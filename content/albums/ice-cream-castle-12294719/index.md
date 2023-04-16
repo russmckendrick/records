@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Funk", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Ice Cream Castles (7:33)
 2. My Drawers (4:04)
@@ -21,6 +20,8 @@ styles: ["Funk", "Rhythm & Blues"]
 4. Jungle Love (3:29)
 5. If The Kid Can't Make You Come (7:33)
 6. The Bird (7:10)
+## Spotify
+{{< spotify type="album" id="6U9fEF6ZUIDM8M03JNB9I4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FI2pPT_GqPs" title="Ice Cream Castles" >}}
@@ -30,9 +31,7 @@ styles: ["Funk", "Rhythm & Blues"]
 - [If the Kid Can't Make You Come](https://www.youtube.com/watch?v=sSYnYeqPbEg)
 - [The Bird](https://www.youtube.com/watch?v=hB0VT2OnFvM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -42,4 +41,3 @@ styles: ["Funk", "Rhythm & Blues"]
 | Catalog Number | RCV1-25109, 603497860715 |
 
 Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown.
-

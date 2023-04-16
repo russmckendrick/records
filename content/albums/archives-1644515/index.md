@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Rush
 2. Finding My Way (5:03)
@@ -41,9 +40,7 @@ styles: ["Hard Rock", "Prog Rock"]
 24. The Fountain Of Lamneth
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -53,4 +50,3 @@ styles: ["Hard Rock", "Prog Rock"]
 | Catalog Number | 6641 799 |
 
 Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve. 
-

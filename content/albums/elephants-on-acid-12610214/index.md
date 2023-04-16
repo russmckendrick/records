@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Tusko
 2. Band Of Gypsies
@@ -57,6 +56,8 @@ styles: null
 40. Muggs Is Dead
 41. Blood On My Hands Again
 42. Stairway To Heaven
+## Spotify
+{{< spotify type="album" id="2CnvBTLTov5YDGM2axRKcQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="etAPOcsHgOk" title="Cypress Hill - Tusko (Intro) (Audio)" >}}
@@ -79,9 +80,7 @@ styles: null
 - [Cypress Hill - Blood On My Hands Again (Official Video)](https://www.youtube.com/watch?v=P1AaYTKGknk)
 - [Cypress Hill - Stairway to Heaven (Audio)](https://www.youtube.com/watch?v=HWOGZJvU564)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -91,4 +90,3 @@ styles: null
 | Catalog Number | 538415541 |
 
 Manufactured in Poland Made in the E.U  Printed innersleeves  Comes in gatefold This version also contains the CD version - comes with a paper sleeve
-

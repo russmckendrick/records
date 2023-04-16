@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Press Play (4:22)
 2. Pop's Love Suicide (3:40)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 10. Ride The Cliché (3:15)
 11. Daisy (2:13)
 12. Seven Caged Tigers (4:17)
+## Spotify
+{{< spotify type="album" id="2JJEIN6LvQJQTJDfnYdDAe" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="G0gAxuvo5rc" title="Stone Temple Pilots - Big Bang Baby (Official Music Video)" >}}
@@ -41,9 +42,7 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [Ride the Cliché](https://www.youtube.com/watch?v=RzYu50mxrjo)
 - [And so I Know](https://www.youtube.com/watch?v=kATVimQsJG8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -53,4 +52,3 @@ styles: ["Alternative Rock", "Hard Rock"]
 | Catalog Number | MOVLP935 |
 
 180 gram audiophile vinyl. Includes a printed insert.                   First track is extended on this release. Originally 1.22, this version is 4.22.  Originally released ℗ & © 1996 Atlantic Records. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music.  Recorded at Westerly Ranch, Santa Ynez, CA Mixed at Southern Tracks, Atlanta, GA B9 Mixed at Bad Animals, Seattle, WA B10, B12 Vocals recorded at Hollywood Sound, Los Angeles, CA  All songs ©1996 EMI Virgin Music, Inc./Floated Music, ASCAP  Art Direction & Design: Stone Temple Pilots and John Heiden for S.M.O.G. Los Angeles, CA  Made in the EU. BIEM/STEMRA  Pressed By information is not listed. Information derived from runouts. 
-

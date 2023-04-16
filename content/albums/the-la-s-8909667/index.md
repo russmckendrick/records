@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Son Of A Gun
 2. I Can't Sleep
@@ -27,6 +26,8 @@ styles: ["Indie Rock"]
 10. Freedom Song
 11. Failure
 12. Looking Glass
+## Spotify
+{{< spotify type="album" id="5ml8UPImaD5c3x3YwQTaeS" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Np4mAy-HlmQ" title="The La's - Son of a Gun (audio only)" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock"]
 - [The La's - Failure (audio only)](https://www.youtube.com/watch?v=ygTcGzk7u08)
 - [The La's - Looking Glass (audio only)](https://www.youtube.com/watch?v=wjo9CwDKRls)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 478 974-6 |
 
 Contains Download Voucher
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Once Upon A Time
 2. All The Things She Said
@@ -23,6 +22,8 @@ styles: ["Pop Rock", "Synth-pop"]
 6. I Wish You Were Here
 7. Sanctify Yourself
 8. Come A Long Way
+## Spotify
+{{< spotify type="album" id="4YimfceN1R0nOS9CefIFhm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9_-m8yFTn9w" title="Once Upon A Time" >}}
@@ -34,9 +35,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Come A Long Way](https://www.youtube.com/watch?v=b0A9siJrokg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -46,4 +45,3 @@ styles: ["Pop Rock", "Synth-pop"]
 | Catalog Number | VP 2364 |
 
 Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics. Recorded at Townhouse Studios, London. 
-

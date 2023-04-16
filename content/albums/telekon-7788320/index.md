@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. This Wreckage
 2. The Aircrash Bureau
@@ -33,6 +32,8 @@ styles: ["New Wave", "Synth-pop"]
 16. Photograph
 17. Remind Me To Smile (USA Mix)
 18. I Die: You Die (Alternate Mix)
+## Spotify
+{{< spotify type="album" id="2McSfMOhsYBkGNA47IjtnG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="SN4qKiwUtRI" title="Gary Numan 'This Wreckage' TOTP (1980)" >}}
@@ -46,9 +47,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -58,4 +57,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | BBQLP19 |
 
 'We Are Glass' and 'I Die:You Die' were issued as singles but not included on the original vinyl release of the album (they did appear on the original UK cassette release). 'A Game Called Echo' was recorded at Rock City as part of the early album sessions and first relesed in 1985 on a retrospective 12''. 'Down In The Park (Piano Version)' was the B side of 'I Die:You Die'. 'Photograph' (B side of 'This Wreckage' single) and 'Trois Gymnopédies' (B side of 'We Are Glass') were tracks from 'Freerange' demo sessions for 'The Pleasure Principle' album and recorded between 9-12 April 1979.
-

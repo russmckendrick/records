@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. My Umbrella (4:32)
 2. One Through Four (2:57)
@@ -25,11 +24,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Brown-Eyed Pickle Boy (4:50)
 9. Miles And Miles Of Pain (5:41)
 10. Triangle (5:52)
-
+## Spotify
+{{< spotify type="album" id="6PeDtOK5p4YYZdgB3hYyIO" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -39,4 +38,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | MOVLP3369 |
 
 MOV Hype Sticker: Available On Vinyl For The First Time Includes Insert 180 Gram Audiophile Vinyl
-

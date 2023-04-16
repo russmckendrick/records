@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Comedy"]
 ---
-
 ## Tracklisting
 1. My Wife Died In 1970
 2. Modern Man
@@ -42,6 +41,8 @@ styles: ["Synth-pop", "Comedy"]
 25. Excerpt From A Radio Non-Broadcast
 26. The History Of Rock N Roll
 27. John Goes To London
+## Spotify
+{{< spotify type="album" id="2ZWXUHSTqcGvdQjTGFCYkC" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1o2Rb7OTvZw" title="John Shuttleworth - My Wife Died in 1970 with lyrics" >}}
@@ -52,9 +53,7 @@ styles: ["Synth-pop", "Comedy"]
 - [John Shuttleworth  Shopkeepers in the North](https://www.youtube.com/watch?v=PI7o-FJM8f4)
 - [Pigeons in Flight - John Shuttleworth](https://www.youtube.com/watch?v=GXp455mQ4xE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -64,4 +63,3 @@ styles: ["Synth-pop", "Comedy"]
 | Catalog Number | FRP2LP001 |
 
 "Includes songs from BBC TV's 500 Bus Stops"  "All songs written, performed and produced by Graham Fellows except 'The Christmas Orphan' written by G. Fellows and P. Ovcar"  Licensed From Chic Ken Productions Contains 7 bonus tracks not featured on the CD version 
-

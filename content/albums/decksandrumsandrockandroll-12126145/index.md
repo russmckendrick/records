@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
-
 ## Tracklisting
 1. Take California
 2. Echo And Bounce
@@ -28,6 +27,8 @@ styles: ["Breakbeat", "Big Beat"]
 11. Bigger?
 12. Cominagetcha
 13. Spybreak!
+## Spotify
+{{< spotify type="album" id="5xbDEJ9xCamw1OSOjaTdzV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Dd8WjeK8riE" title="Propellerheads --- Take California" >}}
@@ -36,9 +37,7 @@ styles: ["Breakbeat", "Big Beat"]
 - [David Arnold and Propellerheads - On Her Majesty's Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
 - [Propellerheads feat: Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +47,3 @@ styles: ["Breakbeat", "Big Beat"]
 | Catalog Number | WALL LPN015, 949.G953.012 |
 
 Gatefold.  New copies copies come shrink wrapped with on sticker on the front, stating: "20th anniversary Propellerheads Decksanddrumsandrockandroll Includes: History Repeating (Feat. Miss Shirley Bassey) Spybreak! / Dive..." This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Dub", "House"]
 ---
-
 ## Tracklisting
 1. O.O.B.E (12:51)
 2. U.F. Orb (6:08)
@@ -22,6 +21,8 @@ styles: ["Ambient", "Dub", "House"]
 5. Close Encounters (10:27)
 6. Majestic (11:06)
 7. Sticky End (0:49)
+## Spotify
+{{< spotify type="album" id="2Kn0WVtKYv7bcE3EYk3wRA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="MzNp1n37Gm4" title="U.F.Orb" >}}
@@ -32,9 +33,7 @@ styles: ["Ambient", "Dub", "House"]
 - [Close Encounters](https://www.youtube.com/watch?v=J4-9ALbPQFo)
 - [Sticky End](https://www.youtube.com/watch?v=KwRA-_OBWYU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Ambient", "Dub", "House"]
 | Catalog Number | 00602557797831, 577 978-3 |
 
 ℗ 1992 Island Records, a division of Universal Music Operations Limited © 1992 Island Records, a division of Universal Music Operations Limited Includes a download voucher.  Cat# on sticker: 577 978-3 Cat# on spine: 00602557797831  All tracks mixed at Matrix 4 Studio. A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music A2: Programmed at Butterfly. Published by Orb Music, Big Life Music B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music D: Programmed at Livingston. Published by Orb Music, Big Life Music D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music D: Published by Orb Music, Big Life Music
-

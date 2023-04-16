@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Fake Empire (3:25)
 2. Mistaken For Strangers (3:29)
@@ -29,14 +28,14 @@ styles: ["Acoustic", "Indie Rock"]
 12. Gospel (4:28)
 13. The System Only Dreams In Total Darkness
 14. Guilty Party
+## Spotify
+{{< spotify type="album" id="2pwNkShhY1uip80rLMHUgX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="E9ck_FhoDUc" title="The National - Mistaken For Strangers" >}}
 - [The National- Apartment Story](https://www.youtube.com/watch?v=S97xQKZDV_4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +45,3 @@ styles: ["Acoustic", "Indie Rock"]
 | Catalog Number | BBQLP 252 |
 
 10th Anniversary Reissue.  Sticker says : "The National Boxer Special Edition Gray Vinyl Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."
-

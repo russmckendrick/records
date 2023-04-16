@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. The Great Ray Charles
 2. The Ray (3:56)
@@ -111,16 +110,13 @@ styles: ["Rhythm & Blues"]
 - [Drown in My Own Tears (2016 Mono Remaster)](https://www.youtube.com/watch?v=xSXaXj9pLoY)
 - [Tell Me How Do You Feel (2016 Mono Remaster)](https://www.youtube.com/watch?v=1t6ieA4W-h4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544-Ray-Charles-The-Atlantic-Years-In-Mono) |
-| Label          | Rhino Records (2), Atlantic |
+| Label          | Rhino Records, Atlantic |
 | Format         | 7xLP, Comp, Mono, RE, RM + Box |
 | Catalog Number | 008122794568 |
-
 
 

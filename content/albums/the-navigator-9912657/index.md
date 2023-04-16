@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Act One
 2. Entrance
@@ -29,6 +28,8 @@ styles: ["Indie Rock"]
 12. Settle
 13. Pa'Lante
 14. Finale
+## Spotify
+{{< spotify type="album" id="31poENBRik5Velm7Z2gPSw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Z0T3sCrDSls" title="Entrance" >}}
@@ -37,9 +38,7 @@ styles: ["Indie Rock"]
 - [Hurray For the Riff Raff: “Rican Beach” (Official Music Video)](https://www.youtube.com/watch?v=TqfxkKR7y98)
 - [Hurray For The Riff Raff - Pa'lante (Official Video)](https://www.youtube.com/watch?v=LilVDjLaZSE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -49,4 +48,3 @@ styles: ["Indie Rock"]
 | Catalog Number | ATO0366 |
 
 Includes a credit booklet in the format of a Broadway Playbill, 11x14 two-sided poster, a printed inner sleeve and download card. Some preorders came with an autographed CD size insert.  ℗ & © 2017 Hurray For The Riff Raff under exclusive license to ATO Records, LLC.  The album was recorded at Panoramic House, West marin, CA and Electric Lady Studios, NYC, 2016 Sounds from Mexico City, Peurto Rico & Loisaida recorded by Alynda Segarra, sounds from NYC subway recorded by Joshua Shoemaker, 2015-16.  "Pa'Lante" Written by Alynda Segarra and Pedro Peitri "Puerto Rican Obituary" by Pedro Pietri; from "El Pueblo Se Levanta," audio documentary footage courtesy of third World Newsreel  "Finale" written by Alynda Segarra and Yvarume Tapia Mariposa Gang Publishing (BMI)/ Sin Cojones Music (BMI)
-

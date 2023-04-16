@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Left Side
 2. The Big Picture (4:19)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock"]
 10. On The Boundary (4:38)
 11. You Go To My Head (3:55)
 12. Etienne Trilogy (6:45)
+## Spotify
+{{< spotify type="album" id="5pnAHJIW4UWmdlFnjyN0IT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="iHdzlbgeQqo" title="Y Kant Tori Read - The Big Picture" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock"]
 - [Y Kant Tori Read - Floating City (Music Video)](https://www.youtube.com/watch?v=dk4kE7ZMMhU)
 - [Y Kant Tori Read - Cool On Your Island (Music Video)](https://www.youtube.com/watch?v=KSFpCrif26Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 081227942410, R1 81845 |
 
 Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.  081227942410 on spine.
-

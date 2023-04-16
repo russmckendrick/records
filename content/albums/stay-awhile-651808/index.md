@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Soul-Jazz", "Soul"]
 ---
-
 ## Tracklisting
 1. I Only Want To Be With You
 2. Stay Awhile
@@ -25,6 +24,8 @@ styles: ["Soul-Jazz", "Soul"]
 8. You Don't Own Me
 9. Something Special
 10. Every Day I Have To Cry
+## Spotify
+{{< spotify type="album" id="2coXvs2zYk60U9Dd2hm6St" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pGB3WljqzmE" title="Stay Awhile" >}}
@@ -38,9 +39,7 @@ styles: ["Soul-Jazz", "Soul"]
 - [Mockingbird](https://www.youtube.com/watch?v=0BEIGZf1IBI)
 - [Something Special](https://www.youtube.com/watch?v=rnZ1iU2-No8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1969 |
@@ -50,4 +49,3 @@ styles: ["Soul-Jazz", "Soul"]
 | Catalog Number | WL.1211, WL 1211 |
 
 Release has a small Q + A with Dusty on the rear cover.  Month of release information from Record Collector Magazine Jan 1994 p.211 
-

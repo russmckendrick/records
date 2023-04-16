@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Jazz"]
 styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 ---
-
 ## Tracklisting
 1. Rabbot Ho (Chopnotslop Remix)
 2. Drink Dat (Chopnotslop Remix)
@@ -47,9 +46,7 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 - [Thundercat - Jethro (Screwed & Chopped by DJ Slopped Up)](https://www.youtube.com/watch?v=KXznSsiNMoM)
 - [Thundercat - Show You The Way (Chopped And Screwed) DeathScrewed](https://www.youtube.com/watch?v=WxE2kUx588E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -59,4 +56,3 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ"]
 | Catalog Number | BF067 |
 
 Chopped Not Slopped by DJ Candlestick & OG Ron C for The Chopstars  Download code sticker affixed to inner sleeve of record 1.
-

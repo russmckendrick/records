@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Kiss This Thing Goodbye
 2. Opposite View
@@ -25,14 +24,14 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 8. Empty
 9. Hatful Of Rain
 10. Nothing Ever Happens
+## Spotify
+{{< spotify type="album" id="1zkXIfTbqbhK0TYxhVl60V" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Ify_f6XoqMU" title="Del Amitri - Kiss This Thing Goodbye" >}}
 - [Del Amitri - Nothing ever happens (James Whale show)](https://www.youtube.com/watch?v=ModyRm-6uNo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
@@ -42,4 +41,3 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 | Catalog Number | AMA 9006 |
 
 ℗ 1989 A&M Records Ltd Reproduction prohibited © 1989 A&M Records Ltd, all rights reserved First pressing of album circa 1989. Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse).
-

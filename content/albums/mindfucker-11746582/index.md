@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Rocket Freak
 2. Soul
@@ -27,6 +26,8 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 10. When The Hammer Comes Down
 11. You Can't Be Trusted [bonus track]
 12. Utopia [bonus track]
+## Spotify
+{{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection (Official Video) | Napalm Records" >}}
@@ -34,9 +35,7 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 - [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
 - [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -46,4 +45,3 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 | Catalog Number | NPR 757 VINYL |
 
 Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies.
-

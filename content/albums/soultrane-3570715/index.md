@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: null
 ---
-
 ## Tracklisting
 1. Good Bait (12:03)
 2. I Want To Talk About You (10:51)
@@ -21,6 +20,8 @@ styles: null
 4. Theme For Ernie (4:54)
 5. Russian Lullaby (5:33)
 6. Soft Lights And Sweet Music (4:44)
+## Spotify
+{{< spotify type="album" id="7pU5qUNqbOMToIyqzF0Nmg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8RfThojoh40" title="Russian Lullaby (Rudy Van Gelder Remaster)" >}}
@@ -29,9 +30,7 @@ styles: null
 - [I Want To Talk About You](https://www.youtube.com/watch?v=osUFSIugxx8)
 - [Theme For Ernie](https://www.youtube.com/watch?v=OGzrwu7uTCo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -41,4 +40,3 @@ styles: null
 | Catalog Number | JWR 4536, JWR4536 |
 
 Includes bonus track (B4) Direct Metal Mastering. Panoramic Hifi Recording.  Runouts are stamped Cat# is JWR4536 on labels and JWR 4536 on spine  Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location)
-

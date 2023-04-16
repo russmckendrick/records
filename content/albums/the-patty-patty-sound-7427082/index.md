@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
-
 ## Tracklisting
 1. Inner Meets Me
 2. The House Song
@@ -26,9 +25,7 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 - [The Beta Band - The House Song](https://www.youtube.com/watch?v=PihMXJ2lKCs)
 - [The Beta Band - 07 Monolith](https://www.youtube.com/watch?v=xeUVbfPIPhU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -38,4 +35,3 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 | Catalog Number | REGS 18, 0825646092017 |
 
 180gm pressing. MP3 download voucher. Spine reads "Supreme Food And Wine"  ℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd. © 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18.
-

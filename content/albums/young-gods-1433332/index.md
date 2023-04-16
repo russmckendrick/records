@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Back Door Man (6:00)
 2. Boneyard (5:05)
@@ -32,9 +31,7 @@ styles: ["Heavy Metal"]
 ## Videos
 {{< youtube id="dysWRyP3Ung" title="Little Angels - Young Gods" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
@@ -44,4 +41,3 @@ styles: ["Heavy Metal"]
 | Catalog Number | 847 846-1 |
 
 Etching on matrixes also on Netherlands version r5579832
-

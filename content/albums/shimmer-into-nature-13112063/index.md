@@ -13,13 +13,14 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Space Rock"]
 ---
-
 ## Tracklisting
 1. Glass Staircase  (7:55)
 2. Travel Dust (9:15)
 3. Oddplonk (8:00)
 4. Shim (7:44)
 5. Wherble (10:20)
+## Spotify
+{{< spotify type="album" id="12XSaLVFFKy9bZwS4hzOKA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9v0FLIFgrMA" title="Glass Staircase" >}}
@@ -28,9 +29,7 @@ styles: ["Space Rock"]
 - [Shim](https://www.youtube.com/watch?v=2nfs4BFva6k)
 - [Wherble](https://www.youtube.com/watch?v=We4U6kxxP2E)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -40,4 +39,3 @@ styles: ["Space Rock"]
 | Catalog Number | KSCOPE1004 |
 
 180gm Heavy Weight Vinyl  Gatefold sleeve
-

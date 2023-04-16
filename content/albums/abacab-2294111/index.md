@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Abacab
 2. No Reply At All
@@ -25,6 +24,8 @@ styles: ["Pop Rock", "Prog Rock"]
 8. Man On The Corner
 9. Like It Or Not
 10. Another Record
+## Spotify
+{{< spotify type="album" id="6KSLVAuJx6hWsYEk005uZj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FccQ68mKkIo" title="Genesis   Dodo Lurker vinyl" >}}
@@ -35,9 +36,7 @@ styles: ["Pop Rock", "Prog Rock"]
 - [Genesis - Abacab (Official Music Video)](https://www.youtube.com/watch?v=suCNZe3Gwkw)
 - [Genesis - Abacab 1981 Live Video](https://www.youtube.com/watch?v=EOK1Y4GJnMc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -47,4 +46,3 @@ styles: ["Pop Rock", "Prog Rock"]
 | Catalog Number | CBR 102 |
 
 Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release  Contains a special, picture inner sleeve  This version has a cyan, orange, red and green embossed cover  A version with a blue/grey cover is [r667424] 
-

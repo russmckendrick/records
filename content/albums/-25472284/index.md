@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Post Rock", "Ambient"]
 ---
-
 ## Tracklisting
 1. Untitled #1 (6:35)
 2. Untitled #2  (7:33)
@@ -23,6 +22,8 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 6. Untitled #6  (8:48)
 7. Untitled #7 (13:00)
 8. Untitled #8 (11:52)
+## Spotify
+{{< spotify type="album" id="3FR8CV7OSyZDnxneavnh8t" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="b8ByoWG1iGo" title="Untitled #1 (Vaka)" >}}
@@ -34,9 +35,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 - [Untitled #7 (Dauðalagið)](https://www.youtube.com/watch?v=yY4uo9yC7v8)
 - [Untitled #8 (Popplagið)](https://www.youtube.com/watch?v=kwNF5tDQVGk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -46,4 +45,3 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 | Catalog Number | KRUNK79CLP |
 
 Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.  ℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk. © 2022 Krunk
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Born In A Storm (1:35)
 2. Raintown (3:48)
@@ -26,6 +25,8 @@ styles: ["Synth-pop"]
 9. The Very Thing (3:32)
 10. Love's Great Fears (3:40)
 11. Town To Be Blamed (5:20)
+## Spotify
+{{< spotify type="album" id="1ACWApd6Nkv6ygVOkKQoFq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xahuOCodtL0" title="Born in a Storm" >}}
@@ -51,9 +52,7 @@ styles: ["Synth-pop"]
 - [Riches](https://www.youtube.com/watch?v=zJ48Sppm9Co)
 - [Kings Of The Western World](https://www.youtube.com/watch?v=1lZbCUtUdAo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -63,4 +62,3 @@ styles: ["Synth-pop"]
 | Catalog Number | CBS 450549 1 |
 
 ℗ © 1987 CBS Records
-

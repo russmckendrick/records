@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Egg Shaped Fred (3:54)
 2. Ski Jump Nose (3:42)
@@ -23,9 +22,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Videos
 {{< youtube id="xX29wha0bKw" title="Mansun -  Egg Shaped Fred (official PV)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -35,4 +32,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | KSCOPE971 |
 
 12" Kscope Re-Release
-

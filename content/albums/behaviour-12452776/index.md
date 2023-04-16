@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Being Boring (6:48)
 2. This Must Be The Place I Waited Years To Leave (5:30)
@@ -25,6 +24,8 @@ styles: ["Synth-pop"]
 8. Nervously (4:07)
 9. The End Of The World (4:41)
 10. Jealousy (4:47)
+## Spotify
+{{< spotify type="album" id="52coGwksoCtU0ZfSjgGRET" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jFAA6Z_YIEM" title="Pet Shop Boys - So Hard" >}}
@@ -37,9 +38,7 @@ styles: ["Synth-pop"]
 - [Pet Shop Boys: Behaviour Interview - 1990.](https://www.youtube.com/watch?v=F6tMI5qTYzM)
 - [Pet Shop Boys - Jealousy](https://www.youtube.com/watch?v=chq885RKXAI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -49,4 +48,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0190295821746 |
 
 [Sticker on shrinkwrap:] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  [From inner sleeve:] Recorded at Red Deer, München, and Sarm West, London. Orchestra and strings recorded at Abbey Road.  Tracks listed sequentially on back cover and labels. Optimal credit extrapolated from runout data.
-

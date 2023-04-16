@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Hoedown
 2. Lucky Man
@@ -24,14 +23,14 @@ styles: ["Classic Rock", "Symphonic Rock"]
 7. Still....You Turn Me On
 8. Tiger In A Spotlight
 9. Trilogy
+## Spotify
+{{< spotify type="album" id="3uYhG442MU4ca3ZsovlGVh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="89g1P_J40JA" title="Emerson, Lake & Palmer - Lucky Man" >}}
 - [Emerson, Lake & Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -41,4 +40,3 @@ styles: ["Classic Rock", "Symphonic Rock"]
 | Catalog Number | K 50 757, 50 757, SD 19283 |
 
 Japanese sleeve text, lower right: リチヤド エバンス - 'Richard Evans'.  Printed inner sleeve. No Atlantic logo on front of sleeve. Cat. Nos. + STEREO (50 757 & SD 19 283) back top right. 50 757 on back, spine and inner sleeve.  K 50 757 on label. No barcode.   
-

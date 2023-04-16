@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. Strictly Reserved For You (3:43)
 2. You Put The Flame On It (3:49)
@@ -40,9 +39,7 @@ styles: ["Soul", "Rhythm & Blues"]
 - [Charles Bradley - Hurricane](https://www.youtube.com/watch?v=z-zTw7TWWws)
 - [Through the Storm](https://www.youtube.com/watch?v=o_HtSBU73bs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -52,4 +49,3 @@ styles: ["Soul", "Rhythm & Blues"]
 | Catalog Number | DUN-1004, DUN 1004, DAP-031, DAP 031 |
 
 Includes coupon for MP3 download.  CAT# on sleeve spine : DUN-1004 / DAP-031 CAT# on sleeve (back) : DUN 1004 / DAP 031 Barcode on the plastic shrink wrap only.
-

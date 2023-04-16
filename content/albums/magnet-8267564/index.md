@@ -13,18 +13,17 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Magnet In Your Face (1:41)
 2. Palm Trees (4:00)
 3. Flint (4:24)
 4. Part 6 (The 8th Circuit) (3:59)
 5. Chief (Rehearsal Recording) (5:05)
-
+## Spotify
+{{< spotify type="album" id="1BSX3UWbygVND55iI6czun" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -34,4 +33,3 @@ styles: ["Post Rock"]
 | Catalog Number | CDIGG001 |
 
 Limited Edition of 500 Screen printed B side  Tracks 1, 2, 3. & 4 recorded at Farheath Studios & Ant Farm Studios Tracks 5 recorded at the New Empowering Church
-

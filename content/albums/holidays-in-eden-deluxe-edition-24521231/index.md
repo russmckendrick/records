@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Holidays In Eden (2022 Re-Mix)
 2. Splintering Heart
@@ -63,9 +62,7 @@ styles: ["Prog Rock"]
 - [Marillion - Eric (Holidays in Eden Disc 2).wmv](https://www.youtube.com/watch?v=id4Ao00Njbk)
 - [Holidays in Eden (1998 Remaster)](https://www.youtube.com/watch?v=9eUBLgCnEEA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -75,4 +72,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 0190296609190 |
 
 When preordered on the band's website the release includes an A4 artwork print which is signed by the band.  4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.  ℗ 2022 this compilation Parlophone Records Ltd.  © 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2022 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Downtempo", "Experimental"]
 ---
-
 ## Tracklisting
 1. Bloom
 2. Morning Mr Magpie
@@ -23,11 +22,11 @@ styles: ["Abstract", "Downtempo", "Experimental"]
 6. Codex
 7. Give Up The Ghost
 8. Separator
-
+## Spotify
+{{< spotify type="album" id="3P17levwUPzmFfLYdAK3A7" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -37,4 +36,3 @@ styles: ["Abstract", "Downtempo", "Experimental"]
 | Catalog Number | TICK001LP |
 
 Mastered at Gateway Mastering & DVD ℗ & © 2011 Ticker Tape Ltd. Published by Ticker Tape Ltd. Made in the EU  PEFC (Programme for the Endorsement of Forest Certification Schemes) logo on sleeve  Includes a voucher for an MP3 download of the album and a printed inner sleeve.  Download link now redirects to a different page and codes are no longer accepted for download.
-

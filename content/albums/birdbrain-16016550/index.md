@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Birdbrain (3:13)
 2. Skeleton Key (4:35)
@@ -25,14 +24,14 @@ styles: ["Alternative Rock"]
 8. Baby (3:32)
 9. Directive (4:01)
 10. Bleeding Heart (3:11)
+## Spotify
+{{< spotify type="album" id="21gaWPN6WDilBEwM8tZOOx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eEIb5Xrf81g" title="Buffalo Tom - Birdbrain" >}}
 - [Buffalo Tom - Crawl](https://www.youtube.com/watch?v=MNd9RYJMt6k)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | BBQ2179LP |
 
 Published by Scrawny Music Licensed from Megadisc Records, Belgium ℗ 1990 Megadisc Records © 2020 Beggars Banquet Records Ltd.  30th anniversary pressing.  Hype Sticker 'Limited Edition featuring mint green colored vinyl"
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Vocal"]
 ---
-
 ## Tracklisting
 1. If I Didn't Care
 2. Bless You For Being An Angel
@@ -58,9 +57,7 @@ styles: ["Vocal"]
 - [The Ink Spots - It's A Sin To Tell A Lie](https://www.youtube.com/watch?v=kK4JTwcCp_0)
 - [The Ink Spots - Someones Rocking My Dreamboat](https://www.youtube.com/watch?v=SR1_sY0_yAo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1981 |
@@ -70,4 +67,3 @@ styles: ["Vocal"]
 | Catalog Number | MFP 50529 |
 
 On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([MCF 2573](https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463)) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd.
-

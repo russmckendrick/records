@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. The First Rebreather (8:31)
 2. Uncle Jack (3:50)
@@ -25,14 +24,14 @@ styles: ["Prog Rock"]
 8. Hedgerow (8:55)
 9. Seen Better Days (The Brass Band's Final Piece) (4:48)
 10. East Coast Racer (Live At King's Place, London August 2015) (17:30)
+## Spotify
+{{< spotify type="album" id="2tFDYqrHzWM7AB4S70x5qL" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="czgRIvcnTeE" title="Big Big Train - English Electric Part 1 (2012) Full" >}}
 - [Big Big Train - Judas Unrepentant](https://www.youtube.com/watch?v=s4JeLGchO7s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -42,4 +41,3 @@ styles: ["Prog Rock"]
 | Catalog Number | 7426822210565, PLG078 |
 
 2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live). Including one sided credit sheet.  Gatefold sleeve
-

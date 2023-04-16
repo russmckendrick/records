@@ -13,20 +13,19 @@ cover:
 genres: ["Jazz"]
 styles: null
 ---
-
 ## Tracklisting
 1. Blue Train
 2. Moment's Notice
 3. Locomotion
 4. I'm Old Fashioned
 5. Lazy Bird
+## Spotify
+{{< spotify type="album" id="4vIJFprkZ7vyN6nhcBgQmG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XF9ebuo4tP8" title="Blue Train (Mono Version)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -34,6 +33,5 @@ styles: null
 | Label          | DOL |
 | Format         | LP, Album, RE, Blu |
 | Catalog Number | DOL709MB |
-
 
 

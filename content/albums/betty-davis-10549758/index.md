@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk"]
 ---
-
 ## Tracklisting
 1. If I'm In Luck I Might Get Picked Up
 2. Walkin Up The Road
@@ -23,6 +22,8 @@ styles: ["Funk"]
 6. Steppin In Her I. Miller Shoes
 7. Game Is My Middle Name
 8. In The Meantime
+## Spotify
+{{< spotify type="album" id="6fNx8ioP99WoRiLidrqrmz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="W8b4hPEN05I" title="If I'm In Luck I Might Get Picked Up" >}}
@@ -34,9 +35,7 @@ styles: ["Funk"]
 - [Game Is My Middle Name](https://www.youtube.com/watch?v=SN3OU5g55F0)
 - [In the Meantime](https://www.youtube.com/watch?v=OBGR2ZbZIds)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -46,4 +45,3 @@ styles: ["Funk"]
 | Catalog Number | LITA 026, JSS-5 |
 
 Sticker: - VMP exclusive reissue - Gatefold, foil-stamped jacket - Remastered from original tapes - 180g silver & blue vinyl  - Liner notes booklet + coloring sheet  Originally released as Just Sunshine Records JSS-5, 1973  Sides referred as Side 1 and Side 2 on the sleeve.  © 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP). Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC. 1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC.
-

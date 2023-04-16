@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Blister In The Sun (2:23)
 2. Kiss Off (2:53)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. To The Kill (3:59)
 9. Gone Daddy Gone/I Just Want To Make Love To You (3:03)
 10. Good Feeling (3:49)
+## Spotify
+{{< spotify type="album" id="0Ojio25IPzIrw1rUmgrhrG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oHMJE0rcb8M" title="Violent Femmes - Gone Daddy Gone" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [To The Kill](https://www.youtube.com/watch?v=x-CVV0sOJvM)
 - [Gone Daddy Gone](https://www.youtube.com/watch?v=RQsY_XzLcT4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | CR00108 |
 
 180-Gram 35th Anniversary Reissue  Mastered at Capitol Mastering  Recorded at Castle Recording Company,  Lake Geneva, Wisconsin, July 1982.   Thanks to Robert Munger, Bryan King, 4TA and The Bone.  Special thanks to our friends who are no longer with us, James and Christina.  Originally released as [r=426356] (Jan 1982).  Track B4 has an altered title to previous releases. 
-

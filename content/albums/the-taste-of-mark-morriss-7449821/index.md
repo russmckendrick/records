@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. This Pullover
 2. Rock And Roll Woman
@@ -27,15 +26,15 @@ styles: ["Indie Pop"]
 10. Don't Let Go
 11. Love Comes Quickly
 12. Good Advices
+## Spotify
+{{< spotify type="album" id="7cpe14MkhUj8KSVnhRAjfg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6RGWoXzmp7k" title="Souvenir" >}}
 - [You Are My Friend](https://www.youtube.com/watch?v=n3V6cL8M2ao)
 - [This Pullover](https://www.youtube.com/watch?v=yq-NOQHY1xI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -43,6 +42,5 @@ styles: ["Indie Pop"]
 | Label          | Acid Jazz |
 | Format         | LP, Album |
 | Catalog Number | AJXLP375 |
-
 
 

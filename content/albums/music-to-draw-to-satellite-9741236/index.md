@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
-
 ## Tracklisting
 1. The Observable Universe
 2. Adrift
@@ -39,9 +38,7 @@ styles: ["Ambient"]
 - [Kid Koala - The Observable Universe (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
 - [Kid Koala Adrift featuring Emilíana Torrini (Official Audio)](https://www.youtube.com/watch?v=QXLK91GLnjg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -51,4 +48,3 @@ styles: ["Ambient"]
 | Catalog Number | A&C 129 |
 
 Includes 16p booklet  in CD booklet size (same as used for CD) and Digital Download Card (for MP3 download only)
-

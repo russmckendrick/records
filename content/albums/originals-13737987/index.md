@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
-
 ## Tracklisting
 1. Sex Shooter (3:06)
 2. Jungle Love (3:04)
@@ -45,6 +44,8 @@ styles: ["Minneapolis Sound", "Funk"]
 28. Dear Michaelangelo
 29. Wouldn’t You Love To Love Me?
 30. Nothing Compares 2 U
+## Spotify
+{{< spotify type="album" id="1X1So5oX4TCFGdK6BN9UXs" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cpGA0azFdCs" title="Prince - Nothing Compares 2 U (Official Music Video)" >}}
@@ -63,9 +64,7 @@ styles: ["Minneapolis Sound", "Funk"]
 - [Prince - Dear Michaelangelo (Official Audio)](https://www.youtube.com/watch?v=ZP9WDBtzIBQ)
 - [Prince - Wouldn’t You Love to Love Me? (Official Audio)](https://www.youtube.com/watch?v=D7U6pniM13s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -75,4 +74,3 @@ styles: ["Minneapolis Sound", "Funk"]
 | Catalog Number | 603497851768, 0603497851782, R1 591459 |
 
 Red hype sticker on shrink: Limited-Edition Deluxe Set CD + 2 LP 180G Purple Vinyl 14 Previously unreleased recordings + "[m=1354092]" Includes 24-page booklet with handwritten lyrics, rare photos, and new essays by Susannah Melvoin, Nelson George & Peggy McCreary 603497851768 [Barcode]  6-panel gatefold cover, back: [The Prince Estate 'Love Symbol' logo] [NPG Records 'NPG' logo] Warner Bros. Records Inc., a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Printed in U.S.A. Manufactured in E.U. LC02982 · 603497851768 [Warner Bros. Records 'WB-shield' logo] PRINCE.COM  Spine: R1 591459 Prince Originals NPG Records/Warner Bros.  LP sized booklet: R1 591459 | 603497851768  CD: [the [same disc that was released one month before](https://www.discogs.com/Prince-Originals/release/13541996)] This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Manufactured in the E.U. GEMA/BIEM · PRINCE.COM · 0603497851782  Vinyl, labels: This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in the E.U.   Vinyl, matrix/runout: The [MPO logo]® and the subsequent numbers starting with "19" are laser etched, the rest is etched 
-

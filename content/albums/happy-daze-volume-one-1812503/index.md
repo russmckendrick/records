@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Loaded
 2. Real, Real, Real
@@ -32,9 +31,7 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 15. I'm Free
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -44,4 +41,3 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 | Catalog Number | ILPTV 1, 848 026-1 |
 
 ℗ 1990 Island Records Ltd. © 1990 Island Records Ltd. 
-

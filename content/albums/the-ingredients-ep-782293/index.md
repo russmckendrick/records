@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Aim
 2. Plug Me In
@@ -24,9 +23,7 @@ styles: ["Indie Rock"]
 {{< youtube id="GFxVMfBfQDY" title="Ned's Atomic Dustbin - Grey Cell Green" >}}
 - [Ned's Atomic Dustbin - Terminally Groovy Lyrics](https://www.youtube.com/watch?v=pSgNYq7N2X0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -36,4 +33,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 12 CHAP 47 |
 
 Double B-sided release. Recorded at The Fridge in Stourbridge, 1990  Distribution: Nine Mile/Cartel 
-

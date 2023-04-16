@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Spinning My Wheels
 2. Still Thinkin'
@@ -25,14 +24,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Wasted
 9. Welcome Home
 10. The First Time
+## Spotify
+{{< spotify type="album" id="4B5fQBMzkCRXoQ2qpxaQhh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy (The Waterfall) (Visualizer)" >}}
 - [My Morning Jacket - Spinning My Wheels (Official Visualizer)](https://www.youtube.com/watch?v=7VJqwdv-upU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | ATO0530LP |
 
 Standard clear version  Brittany Howard appears courtesy of ATO Records 
-

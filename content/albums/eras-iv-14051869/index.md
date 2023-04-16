@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ---
-
 ## Tracklisting
 1. Ziltoid The Omniscient
 2. ZTO (01:17)
@@ -82,9 +81,7 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 65. Little Pig (07:30)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -94,4 +91,3 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 | Catalog Number | IOMLP 512, 19075868221 |
 
 Includes the albums Ziltoid The Omniscient (gatefold 2LP + etching on side 4), Z² - Dark Matters (gatefold 2LP), Ziltoid Live At The Royal Albert Hall (gatefold 2LP + etching on side 4) and The Retinal Circus (gatefold 3LP).   All four albums come on 180g vinyl and have been (re-)mastered for vinyl to guarantee the best possible sound and listening experience. The LPs come in a sturdy box, which also includes an extensive LP-booklet with complete lyrics, liner notes and comments from Devin Townsend.   Limited to 2000 copies worldwide. Ziltoid Live At The Royal Albert Hall and The Retinal Circus appear on vinyl for the first time.  Standard black vinyl version
-

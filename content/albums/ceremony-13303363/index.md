@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
-
 ## Tracklisting
 1. Ceremony (4:34)
 2. In A Lonely Place (6:12)
@@ -22,9 +21,7 @@ styles: ["Post-Punk"]
 {{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}
 - [Ceremony](https://www.youtube.com/watch?v=kkASIx9Xk6s)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -34,4 +31,3 @@ styles: ["Post-Punk"]
 | Catalog Number | FAC. 33, FAC 33/12 |
 
 Recorded at Eastern Artists Recordings in East Orange, New Jersey, originally released in March 1981 (the 7” having been released in January) includes the original version of ‘Ceremony’ (i.e. version 1), remastered audio on heavyweight vinyl.  ℗ Original 1981, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Confirmed from copy in hand that this edition contains the original mix of In A Lonely Place (ie digital thunderclap at 3:20 and again at 5:15 and then none between 5:30 and 6:15)
-

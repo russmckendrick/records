@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
-
 ## Tracklisting
 1. Time's Up (3:06)
 2. History Lesson (0:54)
@@ -30,6 +29,8 @@ styles: ["Funk Metal"]
 13. Tag Team Partners (0:52)
 14. Solace Of You (3:38)
 15. This Is The Life (6:24)
+## Spotify
+{{< spotify type="album" id="2rNAZnGy5aH1enh3NRn6IA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="vIUke0CCvDs" title="Living Colour - Solace of You" >}}
@@ -43,9 +44,7 @@ styles: ["Funk Metal"]
 - [Under Cover of Darkness](https://www.youtube.com/watch?v=fueAMsAUUbk)
 - [Tag Team Partners](https://www.youtube.com/watch?v=o3DlvVupc_U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -53,6 +52,5 @@ styles: ["Funk Metal"]
 | Label          | Epic |
 | Format         | LP, Album |
 | Catalog Number | 466920 1 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 ---
-
 ## Tracklisting
 1. Soul Desert
 2. She Brings The Rain
@@ -38,6 +37,8 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 21. Return
 22. Can Can
 23. Hoolah Hoolah (Edit)
+## Spotify
+{{< spotify type="album" id="1z1DhW2ZtPLHZJEkpCSvG4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TECyopdL4fI" title="Can - Soul Desert (Official Audio)" >}}
@@ -64,9 +65,7 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 - [Can - Can (Official Audio)](https://www.youtube.com/watch?v=P05K2T8kdaU)
 - [Can - Hoolah Hoolah (Edit) (Official Audio)](https://www.youtube.com/watch?v=EllzyiHzrRE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -76,4 +75,3 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 | Catalog Number | SPOON60 |
 
 Issued in tri-fold sleeve with download code.  Made in the EU.  This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited for the world outside Germany
-

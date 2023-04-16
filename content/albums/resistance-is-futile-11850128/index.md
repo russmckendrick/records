@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. People Give In
 2. International Blue
@@ -39,15 +38,15 @@ styles: ["Alternative Rock"]
 22. Broken Algorithms
 23. A Song For The Sadness
 24. The Left Behind
+## Spotify
+{{< spotify type="album" id="3YIxCobTpZ7Hh7sNAHBw1M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="JU5bn2LiOfA" title="Manic Street Preachers - Hold Me Like a Heaven (Official Video)" >}}
 - [Manic Street Preachers - Distant Colours (Official Video)](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
 - [Manic Street Preachers - International Blue (Official Video)](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -57,4 +56,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 19075809911 |
 
 Includes the album on CD.  Made In The E.U. 
-

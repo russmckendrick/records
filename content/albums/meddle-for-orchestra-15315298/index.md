@@ -13,7 +13,6 @@ cover:
 genres: ["Classical"]
 styles: null
 ---
-
 ## Tracklisting
 1. Echoes
 2. One Of These Days
@@ -22,9 +21,7 @@ styles: null
 5. Fearless
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -32,6 +29,5 @@ styles: null
 | Label          | Coda Records Ltd |
 | Format         | LP, Album, Ltd, Unofficial, Blu |
 | Catalog Number | CRLVNY026 |
-
 
 

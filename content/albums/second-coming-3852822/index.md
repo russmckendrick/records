@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Breaking Into Heaven (11:21)
 2. Driving South (5:09)
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Tears (6:50)
 11. How Do You Sleep (4:59)
 12. Love Spreads (5:46)
+## Spotify
+{{< spotify type="album" id="3DE7aixVSE6DZ6ALYIztT0" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7nu5YLoaxHc" title="Breaking Into Heaven" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
 - [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 0600753385166 |
 
 Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.  ℗ 1994 Geffen Records, Inc. © 1994 Geffen Records, Inc. Made in the EU.  Durations not on release. Runouts are stamped. 
-

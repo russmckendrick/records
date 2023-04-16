@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
-
 ## Tracklisting
 1. Any Old Arms Won't Do (2:47)
 2. Slow Down Old World (1:51)
@@ -37,9 +36,7 @@ styles: ["Country"]
 20. Pages (1:57)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -47,6 +44,5 @@ styles: ["Country"]
 | Label          | Masters |
 | Format         | LP, Comp |
 | Catalog Number | MA 11121183 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Video Game Music"]
 ---
-
 ## Tracklisting
 1. Xenon, Theme
 2. Speedball, Theme
@@ -31,9 +30,7 @@ styles: ["Video Game Music"]
 14. Z (Demo), Volcanic
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -43,4 +40,3 @@ styles: ["Video Game Music"]
 | Catalog Number | ROM17 |
 
 Tracks A3, A6, and A7 adapted for the Commodore Amiga by Richard Joseph  A1 sourced from the Atari ST A2-B6 sourced from the Commodore Amiga B7 sourced from the Roland MT-32  stamped runout groove: 219014E2/B
-

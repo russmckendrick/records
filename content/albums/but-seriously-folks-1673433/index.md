@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ---
-
 ## Tracklisting
 1. Over And Over (4:52)
 2. Second Hand Store (3:36)
@@ -23,6 +22,8 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 6. Inner Tube (1:25)
 7. Theme From Boat Weirdos (4:44)
 8. Life's Been Good (8:04)
+## Spotify
+{{< spotify type="album" id="5yqBTSoJqE9EfApl2Pptva" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dYuFFJ5Ness" title="Joe Walsh - Over and Over" >}}
@@ -34,9 +35,7 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 - [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
 - [Joe Walsh - Life's Been Good](https://www.youtube.com/watch?v=BXWvKDSwvls)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
@@ -46,4 +45,3 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 | Catalog Number | K 53081 |
 
 Mastered at Sterling Sound, N.Y.C. Recorded at Bayshore Recording Studios, Coconut Grove, Florida. Gatefold sleeve and printed inner sleeve ℗ 1978 Asylum Records © 1978 an Elektra/Asylum recording.
-

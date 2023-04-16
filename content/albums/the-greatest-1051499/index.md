@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. My Star (Album Version) (5:23)
 2. Corpses In Their Mouths (Album Version) (4:11)
@@ -32,6 +31,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 15. Lovebug (The Greatest Version) (3:12)
 16. All Ablaze (The Album Version) (4:07)
 17. Return Of The Fisherman (The Album Version) (4:19)
+## Spotify
+{{< spotify type="album" id="1sZSQvn5aTuxMP4JVa4qpG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8f8wAXDZ9D0" title="Ian Brown - F.E.A.R." >}}
@@ -41,9 +42,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Ian Brown - Billie Jean](https://www.youtube.com/watch?v=LC2lidZxymA)
 - [Ian Brown - Thriller (Michael Jackson cover)](https://www.youtube.com/watch?v=L5vwuhnM1QQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2005 |
@@ -53,4 +52,3 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Catalog Number | 987 289-0, 987 298-0 |
 
 Made in the EU.
-

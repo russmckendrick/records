@@ -1,6 +1,6 @@
 ---
-title: "Belief (9) - Belief"
-artist: "Belief (9)"
+title: "Belief - Belief"
+artist: "Belief"
 album_name: "Belief"
 date: 2022-08-04
 release_id: "24040121"
@@ -8,12 +8,11 @@ slug: "belief-24040121"
 hideSummary: true
 cover:
     image: "belief-24040121.jpg"
-    alt: "Belief by Belief (9)"
-    caption: "Belief by Belief (9)"
+    alt: "Belief by Belief"
+    caption: "Belief by Belief"
 genres: ["Electronic"]
 styles: ["House"]
 ---
-
 ## Tracklisting
 1. I Want to Be (4:05)
 2. Anx (3:07)
@@ -26,20 +25,19 @@ styles: ["House"]
 9. Jung (4:45)
 10. Art of Love (2:45)
 11. Charch (2:07)
+## Spotify
+{{< spotify type="album" id="6S4nE2yDStuUYkJgMjOo4E" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xAphjKTK1sk" title="BELIEF - DREAMS (OFFICIAL VIDEO)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Belief (9) - Belief](https://www.discogs.com/release/24040121-Belief-Belief) |
+| Discogs Link   | [Belief - Belief](https://www.discogs.com/release/24040121-Belief-Belief) |
 | Label          | Lex Records |
 | Format         | LP |
 | Catalog Number | LEX163LP |
-
 
 

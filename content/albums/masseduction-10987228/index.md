@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Hang On Me (2:48)
 2. Pills (4:40)
@@ -28,6 +27,8 @@ styles: ["Indie Rock"]
 11. Dancing With A Ghost (0:46)
 12. Slow Disco (2:44)
 13. Smoking Section (3:37)
+## Spotify
+{{< spotify type="album" id="4RoOGpdrgfiIUyv0kLaC4e" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="F9WjhPy02gU" title="St. Vincent - Hang On Me (Official Audio)" >}}
@@ -36,9 +37,7 @@ styles: ["Indie Rock"]
 - [St. Vincent - Power Corrupts (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 - [St. Vincent - Los Ageless (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Indie Rock"]
 | Catalog Number | LVR00225, 00888072037120 |
 
 ℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped.
-

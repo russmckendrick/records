@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. One Little Victory (5:09)
 2. Ceiling Unlimited (5:28)
@@ -30,16 +29,13 @@ styles: ["Prog Rock", "Hard Rock"]
 13. Out Of The Cradle (5:04)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Rush - Vapor Trails Remixed](https://www.discogs.com/release/5005939-Rush-Vapor-Trails-Remixed) |
-| Label          | Atlantic, Anthem (5) |
+| Label          | Atlantic, Anthem |
 | Format         | 2xLP, Album, RE, 180 |
 | Catalog Number | 8122796441 |
 
 Recorded at Reaction Studios, Toronto, January to November, 2001 © 2002 Core Music Publishing (SOCAN) ℗ & © 2013 Atlantic Recording Corporation & Anthem Entertainment.  Single sleeve with two-sided insert.  EU version of this release pressed at Optimal Media GmbH in Germany.  Matrix runouts include matrix numbers for RTI ([l66254]) which suggests that plating was done there.  Printed in E.U. (on labels and sleeve).  Runouts are etched except for "MASTERDISK" which is stamped.
-

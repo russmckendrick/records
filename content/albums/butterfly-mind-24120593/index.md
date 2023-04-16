@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Say Your Goodbyes Part 1 (2:22)
 2. Always The Stranger (2:50)
@@ -37,14 +36,14 @@ styles: ["Alternative Rock"]
 20. About The Light That Hits The Forest Floor (3:48)
 21. Dark Nevada Dream (8:20)
 22. Say Your Goodbyes Part 2 (1:59)
+## Spotify
+{{< spotify type="album" id="4IgrJTZ2ra9Ip7ZlRM6H7l" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)" >}}
 - [TIM BOWNESS - Glitter Fades (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=3cwUBwOOloE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | IOM633, 19439973791 |
 
 Limited to 600 copies. Hand numbered on back of vinyl sleeve. This version exclusive to burningshed.com Pre-Orders from Burning Shed came with a signed postcard and fridge magnet.  Presented in a Die-cut sleeve. Track durations CD taken from dBpoweramp. The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol.
-

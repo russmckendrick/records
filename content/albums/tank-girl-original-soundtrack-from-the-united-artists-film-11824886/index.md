@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
-
 ## Tracklisting
 1. Ripper Sole (1:42)
 2. Army Of Me (3:56)
@@ -42,9 +41,7 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 - [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
 - [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +51,3 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 | Catalog Number | RGM 0679 |
 
 Limited Gatefold Album Version Aqua Blue Vinyl Limited To 1000 Copies
-

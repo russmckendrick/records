@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: ["Country Blues"]
 ---
-
 ## Tracklisting
 1. Frankie
 2. Louis Collins
@@ -28,13 +27,13 @@ styles: ["Country Blues"]
 11. Blue Harvest Blues
 12. Spike Driver Blues
 13. Got The Blues (Can't Be Satisfied)
+## Spotify
+{{< spotify type="album" id="5QrttrAFJuldYaHVPPrv0L" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="u8EraarVcKI" title="Avalon blues - The complete 1928 okeh recordings (full album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -44,4 +43,3 @@ styles: ["Country Blues"]
 | Catalog Number | SBLUELP010 |
 
 A1, A3 Recorded Memphis, Tenn. 14 Feb 1928 A2, A4, A6, B1 Recorded New York City 21 Dec 1928 A5, B2 to B7 Recorded New York City 28 Dec 1928
-

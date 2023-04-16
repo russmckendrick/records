@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "IDM"]
 ---
-
 ## Tracklisting
 1. Traffic
 2. Last I Heard (...He Was Circling The Drain)
@@ -25,6 +24,8 @@ styles: ["Ambient", "Experimental", "IDM"]
 8. Impossible Knots
 9. Runwayaway
 10. (Ladies & Gentlemen, Thank You For Coming)
+## Spotify
+{{< spotify type="album" id="5DDPFOJVHhc93OlqirbAtm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="I03xFqbxUp8" title="Thom Yorke - Last I Heard (…He Was Circling The Drain)" >}}
@@ -38,9 +39,7 @@ styles: ["Ambient", "Experimental", "IDM"]
 - [Runwayaway](https://www.youtube.com/watch?v=yLwGHh63qM0)
 - [Thom Yorke – Ladies & Gentlemen, Thank You For Coming](https://www.youtube.com/watch?v=9ZXHj9kZk2Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -50,4 +49,3 @@ styles: ["Ambient", "Experimental", "IDM"]
 | Catalog Number | XL987LPE |
 
 Includes download code for tracks A1 to D2.  Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion. 
-

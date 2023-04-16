@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ---
-
 ## Tracklisting
 1. Boys Don't Cry
 2. A Forest
@@ -35,9 +34,7 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 18. Just Say Yes
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -47,4 +44,3 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 | Catalog Number | 572 634-0 |
 
 Black vinyl repress of the [picture disc](https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635) (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940]
-

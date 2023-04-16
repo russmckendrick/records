@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
-
 ## Tracklisting
 1. Faster Disco (4:17)
 2. Anne's Song (4:47)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 8. The Crab Song (5:52)
 9. Blood (3:39)
 10. Spirit (2:50)
+## Spotify
+{{< spotify type="album" id="0kBy2KA6BuCWveFo88VmMX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="x-AhE32UPw8" title="Faster Disco" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 - [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)
 - [Spirit](https://www.youtube.com/watch?v=oFPjpDmDq-U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 | Catalog Number | 25559-1, 1-25559 |
 
 This version was pressed at Allied Record Company and is otherwise identical to the version [made at Specialty Records Corporation](http://www.discogs.com/release/4354696).  Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.  Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA.  Mixed at Studio D, Sausalito, CA.  © 1987 Slash Records ℗ 1987 Slash Records. Distributed by Warner Bros. Records, Inc. Made in USA.  Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area.
-

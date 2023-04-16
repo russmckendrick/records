@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Son Of Sam
 2. Somebody That I Used To Know
@@ -33,6 +32,8 @@ styles: ["Acoustic", "Indie Rock"]
 16. I Better Be Quiet Now
 17. Can't Make A Sound
 18. Bye
+## Spotify
+{{< spotify type="album" id="7DC0pE943VR5tAKIvQXHts" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="afeAUndotas" title="Elliott Smith - Son Of Sam" >}}
@@ -43,9 +44,7 @@ styles: ["Acoustic", "Indie Rock"]
 - [Can't Make A Sound](https://www.youtube.com/watch?v=QXR3kB0V5Cw)
 - [Stupidity Tries](https://www.youtube.com/watch?v=sTRCJHDVL00)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -55,4 +54,3 @@ styles: ["Acoustic", "Indie Rock"]
 | Catalog Number | BL48 |
 
 Bong Load Records 25th anniversary reissue.  Foil stamp numbered out of 2,016. Coke Bottle Swirl vinyl. Includes 11" X 11" insert and sticker. No barcode. Record housed in a black Bong Load round bottom inner sleeve.  The Roost and The Gondola Man are not numbered on the sleeve.  Recorded and mixed [...] at Abbey Road, Capitol, Sunset Sound, and Sonora Studios.  Assistant engineers: at Sunset Sound: Geoff Walcha, Monique Mizrahi at Sonora: Richard Baron at Capitol: Dann Thompson, Steve Genewick, Charlie Paakkari, Jimmy Hoyson at Abbey Road: Paul Hicks
-

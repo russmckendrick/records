@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Citizens
 2. Welcome Home
@@ -31,9 +30,7 @@ styles: null
 ## Videos
 {{< youtube id="jv-Tymtpj3o" title="The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -43,4 +40,3 @@ styles: null
 | Catalog Number | MOVATM059 |
 
 Limited Edition of 750 Copies Individually numbered Red vinyl Includes 4 page booklet 180 gram audiophile vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["AOR", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Who Will You Run To (4:06)
 2. Alone (3:38)
@@ -25,6 +24,8 @@ styles: ["AOR", "Hard Rock"]
 8. Strangers Of The Heart (3:39)
 9. Easy Target (3:56)
 10. RSVP (3:37)
+## Spotify
+{{< spotify type="album" id="56dfEbntfVTMCxjrjggL1e" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="T68DuwluaOE" title="You Ain't So Tough" >}}
@@ -34,9 +35,7 @@ styles: ["AOR", "Hard Rock"]
 - [Heart - Who Will You Run To?](https://www.youtube.com/watch?v=fM44F-M78Vs)
 - [Heart - Alone](https://www.youtube.com/watch?v=1Cw1ng75KP0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -46,4 +45,3 @@ styles: ["AOR", "Hard Rock"]
 | Catalog Number | ESTU 2032, 24 0766 1 |
 
 Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom.
-

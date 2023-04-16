@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Banana Skin Shoes
 2. Is This A Dream?
@@ -29,6 +28,8 @@ styles: ["Indie Rock"]
 12. Never Change
 13. Appletree Boulevard
 14. I'll Do My Best
+## Spotify
+{{< spotify type="album" id="53WtJIxsyBRKKMohHtBVA5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9DoVsGK87NM" title="Badly Drawn Boy - Banana Skin Shoes (Official Music Video)" >}}
@@ -43,9 +44,7 @@ styles: ["Indie Rock"]
 - [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
 - [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -55,4 +54,3 @@ styles: ["Indie Rock"]
 | Catalog Number | OLF005LP |
 
 Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself.
-

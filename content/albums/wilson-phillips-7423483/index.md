@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock"]
 ---
-
 ## Tracklisting
 1. Hold On (4:27)
 2. Release Me (4:56)
@@ -25,6 +24,8 @@ styles: ["Soft Rock"]
 8. Ooh You're Gold (4:13)
 9. Eyes Like Twins (5:00)
 10. The Dream Is Still Alive (4:11)
+## Spotify
+{{< spotify type="album" id="1Xi55xFMaymXdSWshmxhw2" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dSKZy2Knk94" title="wilson phillips - release me with lyrics" >}}
@@ -46,9 +47,7 @@ styles: ["Soft Rock"]
 - [THE DREAM IS STILL ALIVE | Wilson Phillips](https://www.youtube.com/watch?v=lg7WSzWAsVQ)
 - [Eyes Like Twins-Wilson Phillips](https://www.youtube.com/watch?v=AnSPKXfomKI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -58,4 +57,3 @@ styles: ["Soft Rock"]
 | Catalog Number | SBKLP 5, 79 3745 1 |
 
 Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854]
-

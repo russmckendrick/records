@@ -13,19 +13,18 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Indie Pop", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. The Architect
 2. The Architect - Andy Votel's Brutaliszt 250KG Readymix
 3. Code
 4. Element
+## Spotify
+{{< spotify type="album" id="4D4SMnloftnMAod4TuIXvz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="keXHh0lr2y8" title="Jane Weaver - The Architect" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -35,4 +34,3 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 | Catalog Number | FIRE485EP |
 
 Includes a postcard with a download code.
-

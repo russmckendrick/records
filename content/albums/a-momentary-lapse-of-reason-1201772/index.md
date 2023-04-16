@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["AOR", "Alternative Rock", "Art Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. Signs Of Life (4:17)
 2. Learning To Fly (4:52)
@@ -26,11 +25,11 @@ styles: ["AOR", "Alternative Rock", "Art Rock", "Prog Rock"]
 9. Terminal Frost (6:15)
 10. A New Machine (Part 2) (0:39)
 11. Sorrow (8:40)
-
+## Spotify
+{{< spotify type="album" id="4xODvcpjOOgu4oKWL0sCte" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -40,4 +39,3 @@ styles: ["AOR", "Alternative Rock", "Art Rock", "Prog Rock"]
 | Catalog Number | EMD 1003 |
 
 Matt gatefold cover with printed inner sleeve.  Sleeve: Studios, Astoria, Hampton Britannia Row Studios, London A&M Studios, Los Angeles Can Am Studios, Los Angeles Village Recorder, Los Angeles Mayfair, London Audio International, London.  Spherical Sound recorded at Le Mobile, Los Angeles.   Also thanks to Winston Johnson at Cama, Gary Barlogh at Producers Workshop, Air London. This album was recorded digitally, with the exception of the acoustic drums and bass guitar, which were recorded analogue. Dolby SR noise reduction was used for mixing, mastered direct to metal.  EMI Records Ltd Hayes Middlesex England. Sleeve printed in England. Manufactured in England. RB8709HP  ℗ 1987 Original sound recording made by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 1987 Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.  Inner sleeve: A1:  © D. J. Gilmour A. Moore, 1986 A2:  © D. J. Gilmour, 1986 A3, B4, B5:  © D. J. Gilmour, 1986 A4:  © D. J. Gilmour A. Moore, 1986/7 B1a, B1b, B2, B3:  © D. J. Gilmour, 1987  Durations do not appear on this release. Timings via stopwatch.    
-

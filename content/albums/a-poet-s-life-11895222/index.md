@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. Wake Up
 2. Hold On
@@ -25,6 +24,8 @@ styles: ["Ska"]
 8. Lady Demeter
 9. Among The Dead
 10. Cold Blooded
+## Spotify
+{{< spotify type="album" id="2KapAjnwtdsvFWtMwgiWBI" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5YuCERKiRIo" title="Tim Armstrong - Wake Up" >}}
@@ -38,9 +39,7 @@ styles: ["Ska"]
 - [Tim Armstrong - Among The Dead](https://www.youtube.com/watch?v=-HDdFRGkOJU)
 - [Tim Armstrong - Cold Blooded](https://www.youtube.com/watch?v=yDCTI84is3o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -50,4 +49,3 @@ styles: ["Ska"]
 | Catalog Number | 0491-1 |
 
 Gatefold cover. White vinyl.   The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made.
-

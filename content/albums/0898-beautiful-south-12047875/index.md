@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. Old Red Eyes Is Back (3:35)
 2. We Are Each Other (3:39)
@@ -27,6 +26,8 @@ styles: ["Pop Rock"]
 10. Bell-Bottomed Tear (4:35)
 11. You Play Glockenspiel, I'll Play Drums (5:06)
 12. When I'm 84 (4:32)
+## Spotify
+{{< spotify type="album" id="1I1mX0fymdB9SWCGAhLETr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ggJYJ9frSl0" title="The Beautiful South - Old Red Eyes Is Back" >}}
@@ -36,9 +37,7 @@ styles: ["Pop Rock"]
 - [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
 - [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -48,4 +47,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 5743902 |
 
 "2018 Edition".  Issued in a matte sleeve. Picture/ lyric top opening inner sleeve of thin card. Includes a "The Sound Of Vinyl" download voucher. Package came shrink-wrapped.  Runouts are etched.
-

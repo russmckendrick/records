@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Leave Them All Behind
 2. Twisterella
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 8. Making Judy Smile
 9. Time Machine
 10. OX4
+## Spotify
+{{< spotify type="album" id="5l70cCHX1QzN680J68rblF" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 - [Ride - Time Machine](https://www.youtube.com/watch?v=5zdq_L4K64w)
 - [Ride - OX4](https://www.youtube.com/watch?v=57I0Lt0yalA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | Catalog Number | webb573lp, WEBB573LP |
 
 'Original audio reworked and refined' Double transparent orange vinyl, standard weight Gatefold sleeve, gloss machine varnish Full album download with four bonus tracks in flac or mp3.  webb573lp on sleeve WEBB573LP on hype sticker  Runouts on all sides have an 8 crossed out between 5 and 7 :     WEBB5 ̷8̷73LP
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. On The Air
 2. D.I.Y.
@@ -46,9 +45,7 @@ styles: ["Prog Rock"]
 - [Peter Gabriel - Here Comes The Flood / White Shadow (Rockpalast 1978)](https://www.youtube.com/watch?v=JKNBdjJiN9c)
 - [Peter Gabriel 1978 Rockpalast, Germany](https://www.youtube.com/watch?v=m1rh4QBgV0w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -58,4 +55,3 @@ styles: ["Prog Rock"]
 | Catalog Number | PGLPR2 |
 
 Half-Speed Remaster + Hi-Res Download Code
-

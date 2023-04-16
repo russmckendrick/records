@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Knives (1:56)
 2. Screamager (2:36)
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 12. Femtex (3:14)
 13. Unrequited (3:03)
 14. Brainsaw (3:58)
+## Spotify
+{{< spotify type="album" id="6ub0GyzfrkFZahy42i7pfR" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-zZ44S3ZIJM" title="Therapy? - Screamager" >}}
@@ -52,9 +53,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Therapy? - Screamager](https://www.youtube.com/watch?v=oDVsIvvFtcs)
 - [Therapy? - Nowhere](https://www.youtube.com/watch?v=5Bcpj-q0Snc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
@@ -64,4 +63,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | 540 196-1 |
 
 Also available on [black vinyl](http://www.discogs.com/Therapy-Troublegum/release/1632751).
-

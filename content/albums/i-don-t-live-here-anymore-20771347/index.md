@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Living Proof (4:54)
 2. Harmonia's Dream (6:26)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock"]
 8. Wasted (4:10)
 9. Rings Around My Father's Eyes (4:18)
 10. Occasional Rain (4:54)
+## Spotify
+{{< spotify type="album" id="69jQsPvJzMvcb2fGqI2qaB" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GTpJ-DHpnw8" title="The War On Drugs - I Don't Wanna Wait [Official Audio]" >}}
@@ -32,9 +33,7 @@ styles: ["Alternative Rock"]
 - [The War On Drugs - I Don't Live Here Anymore (feat. Lucius) [Official Music Video]](https://www.youtube.com/watch?v=MVh6XTwWhMY)
 - [The War On Drugs - Living Proof [Official Video]](https://www.youtube.com/watch?v=B3OEofsCur8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | SEL 1-659043 - 075678643477, 075678641299 |
 
 ℗ & © 2021 Atlantic Recording Corporation.  Manufactured in France.  Double LP, black vinyl Catalog Number 075678641299 on spine Catalog Numbers SEL 1-659043 - 075678643477 on label
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Evening Star (4:52)
 2. Master James Of St. George (6:11)
@@ -25,6 +24,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 8. The Underfall Yard (2020 Studio Version) (22:50)
 9. Songs From The Shoreline (18:57)
 10. Brew And Burgh (4:31)
+## Spotify
+{{< spotify type="album" id="0RldmYaAF6Q9YeQ0cxFJ06" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mA2-i3C3P_U" title="Evening Star" >}}
@@ -34,9 +35,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Winchester Diver](https://www.youtube.com/watch?v=UR6HH2lMs44)
 - [The Underfall Yard](https://www.youtube.com/watch?v=bsg9IbViAdI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -46,4 +45,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | PLG091 |
 
 The 2009 album has been completely remixed and recorded with additional tracks E1 and F2. Tracks E2 and F1.1 are re-recorded versions of the originals.   Recording details: Aubitt Studios, Southampton, England except for E1, E2, F1.1, F2 recorded by Rob Aubrey at Real World Studios. The vocals for F1.1 were recorded at The Playpen.  Packaged in a trifold jacket with polylined LP sleeves.
-

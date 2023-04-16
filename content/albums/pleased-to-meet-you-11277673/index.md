@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Space (4:49)
 2. Falling Down (3:37)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 11. Fine (3:41)
 12. Getting Away With It (All Messed Up) (4:25)
 13. Alaskan Pipeline (4:28)
+## Spotify
+{{< spotify type="album" id="4sd1JAggakMUuXLpFN6LIx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Io2Cl1u5gmU" title="James - Getting Away With It (All Messed Up)" >}}
@@ -36,9 +37,7 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 - [James - Falling Down (Later with Jools Holland 2001)](https://www.youtube.com/watch?v=4qnc93RdAqQ)
 - [James - Falling Down (Live VH1 Will Wanted 2001) [RARE!!]](https://www.youtube.com/watch?v=wAtjCVcc3pk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 | Catalog Number | 5712915 |
 
 2017 EU 
-

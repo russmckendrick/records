@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. Slash N' Burn (3:53)
 2. Nat West-Barclays-Midlands-Lloyds (4:30)
@@ -34,6 +33,8 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 17. Methadone Pretty (3:50)
 18. Condemned To Rock 'N' Roll (6:03)
 19. Theme From M*A*S*H (Suicide Is Painless) (3:42)
+## Spotify
+{{< spotify type="album" id="5XV63qDoIC1z2Tb0EIMVua" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FgKXBJ2LZKo" title="Manic Street Preachers - You Love Us (Clean Version)" >}}
@@ -44,9 +45,7 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 - [Manic Street Preachers - Slash 'N' Burn (Video)](https://www.youtube.com/watch?v=b8a1WEjLqUw)
 - [Manic Street Preachers - Love's Sweet Exile](https://www.youtube.com/watch?v=hQS1czT0Egg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -56,4 +55,3 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 | Catalog Number | 88725471251 |
 
 20th Anniversary Legacy Edition   Comes with a 16 page 29x29 cm booklet.  Made in the EU.   * This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)".
-

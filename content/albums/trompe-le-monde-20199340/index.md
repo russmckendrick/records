@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Trompe Le Monde
 2. Planet Of Sound
@@ -30,6 +29,8 @@ styles: ["Alternative Rock"]
 13. Lovely Day
 14. Motorway To Roswell
 15. The Navajo Know
+## Spotify
+{{< spotify type="album" id="1xtaONLuwdb5STNnLGNVGi" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="y0ugnZfHHCE" title="Pixies - Alec Eiffel" >}}
@@ -42,9 +43,7 @@ styles: ["Alternative Rock"]
 - [Head On](https://www.youtube.com/watch?v=oliTZ5hQcjI)
 - [Subbacultcha](https://www.youtube.com/watch?v=SWYsAbbx0rQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +53,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | CAD 1014 LP, CAD 1014 |
 
 30th Anniversary Edition Has "Made in Czech Republic" printed on the shrink wrap on the rear cover.  Includes a printed inner sleeve.  Recorded at Master Control, Burbank Pacifique, Burbank Studio Des Dames, Paris Blackwing, London Mixed at Master Rock, London  Published by Rice And Beans Music except "Head On" by Warner Chappell Music Ltd.  ℗&© 1991 4.A.D.
-

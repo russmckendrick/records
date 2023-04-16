@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Enola Gay (3:25)
 2. 2nd Thought (4:03)
@@ -24,6 +23,8 @@ styles: ["Synth-pop"]
 7. The More I See You (4:00)
 8. Promise (4:38)
 9. Stanlow (6:16)
+## Spotify
+{{< spotify type="album" id="3bouQtY9H1DP39yxqHuFf8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="n4mqwJ569_M" title="Enola Gay (Remastered)" >}}
@@ -42,9 +43,7 @@ styles: ["Synth-pop"]
 - [Once When I Was Six (Live From The Factory, UK / 1978 / 2003 Digital Remaster)](https://www.youtube.com/watch?v=I-1FY6lff64)
 - [Electricity (DinDisc 1980 Version / 2003 Digital Remaster)](https://www.youtube.com/watch?v=toRBdwhlMTY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -54,4 +53,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 0602557050837 |
 
 Issued in right-opening cardboard sleeve with spine including digital download card (WAV files). May have sticker on shrink-wrap. Half speed mastered at Abbey Road Studios.  All tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite.  All tracks published by BMG VM Music Ltd. except track B2 published by Warner Chappell Music International Ltd.  A Virgin EMI Records Release ℗ 1980 Virgin Records Ltd. © 2018 Virgin Records Ltd. Made in the EU.
-

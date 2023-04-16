@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Tired Of Being Alone (2:50)
 2. Call Me (Come Back Home) (3:03)
@@ -25,6 +24,8 @@ styles: ["Soul"]
 8. You Ought To Be With Me (3:15)
 9. Look What You Done For Me (3:04)
 10. Let's Get Married (4:20)
+## Spotify
+{{< spotify type="album" id="6W0V8B0fJItvOwC8v114rZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}
@@ -39,9 +40,7 @@ styles: ["Soul"]
 - [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
 - [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1987 |
@@ -51,4 +50,3 @@ styles: ["Soul"]
 | Catalog Number | HIUKLP 425, HI UK LP 425 |
 
 Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.  (P) 1972, 1973, 1975 Cream / Hi Records Inc. (C) 1987 Cream / Hi Records Inc. HI UK LP 425 = sleeve and spine cat# HIUKLP 425 = label cat# Runout matrices etched, except for TY1 that are stamped. 
-

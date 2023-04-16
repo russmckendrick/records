@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Time And Tide
 2. Dirty Creature (4:00)
@@ -43,6 +42,8 @@ styles: ["New Wave", "Pop Rock"]
 26. She Got Body (2:55)
 27. Mind Over Matter (2:52)
 28. Livin' It Up (1:15)
+## Spotify
+{{< spotify type="album" id="5wMlZOCdi80meEY3mCbc8S" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Nv1IjVbPbHs" title="Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY" >}}
@@ -60,9 +61,7 @@ styles: ["New Wave", "Pop Rock"]
 - [Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer](https://www.youtube.com/watch?v=kgXuTj13JO0)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever](https://www.youtube.com/watch?v=VQqjT4YUyNQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1982 |
@@ -72,4 +71,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | AMLH 64894, AMLH 64894/F |
 
 Label States "Made in England". Released with a lyrics inner sleeve and a bonus album: ''Frenzy'' (AMLH 64894/F). The latter is housed in a flimsy version of the original cover as seen on this submission: [r975918] The back cover of that states: ''This album comes free with ''Time & Tide''. There are no credits on that cover. Tracks from ''Frenzy'' recorded in 1978 and 1979. Some copies advertize ''Frenzy with a sticker on the front cover of ''Time And Tide''. 
-

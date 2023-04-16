@@ -13,7 +13,6 @@ cover:
 genres: ["Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. Candy Man
 2. Spinning Wheel
@@ -42,9 +41,7 @@ styles: null
 - [Sammy Davis Jr. Spinning Wheel](https://www.youtube.com/watch?v=DidwR29BJX0)
 - [Sammy Davis Jr. sings Spinning Wheel](https://www.youtube.com/watch?v=MWRxgyiHk1Q)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -54,4 +51,3 @@ styles: null
 | Catalog Number | NE 704 |
 
 Text on label: All Rights of The Manufacturer and of The Owner of The Recorded Work Reserved. Unauthorised Public Performance Broadcasting and Copying of this Record Prohibited  Limited Collectors Edition.  
-

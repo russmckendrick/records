@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Neighborhood #1 (Tunnels) (4:48)
 2. Neighborhood #2 (Laïka) (3:32)
@@ -25,6 +24,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Haiti (4:07)
 9. Rebellion (Lies) (5:10)
 10. In The Backseat (6:20)
+## Spotify
+{{< spotify type="album" id="6ZB8qaR9JNuS0Q0bG1nbcH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="TwisvB3PVpU" title="Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Arcade Fire - Rebellion (Lies) (Official Remastered Video)](https://www.youtube.com/watch?v=8vN2vqaEBhM)
 - [Arcade Fire - In the Backseat (Official Audio)](https://www.youtube.com/watch?v=i2jsArz5IQg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
@@ -50,4 +49,3 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Catalog Number | MRG255 |
 
 Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: Track A2: "Neighborhood #2 (Laïka)" on back cover tracklist and insert liner notes, but "Neighborhood #2 (Laika)" on record label tracklist. Track A3: "Une année sans lumiere" on back cover and label, but "Une année sans lumière" on insert. Track B3: "Haiti" on back cover and label, "Haïti" on insert.  Lacquer cutting credits identified in runout stampings.
-

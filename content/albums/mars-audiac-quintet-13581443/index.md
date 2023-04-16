@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Mars Audiac Quintet 
 2. Three-Dee Melodie
@@ -44,6 +43,8 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 27. Three Longers Later - Demo
 28. Transona Five - Demo
 29. Transporté Sans Bouger - Demo
+## Spotify
+{{< spotify type="album" id="3p7TBwwN0OGa9UxpcbdeY4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ZikC5SMHkPQ" title="Des Etoiles Electroniques" >}}
@@ -56,9 +57,7 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 - [Outer Accelerator - (Original Mix)](https://www.youtube.com/watch?v=MKz7tZDfb4I)
 - [Stereolab - Anamorphose](https://www.youtube.com/watch?v=ksR2AnpgPo0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -68,4 +67,3 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 | Catalog Number | D-UHF-D05R |
 
 Black vinyl re-issue.  Expanded issue, includes a bonus disk of demos and alternate versions.  Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.  Comes with a 4-panel fold out poster with liner notes on the reverse.  A download code is also included.   40 copies were made with obi by Martin Pike and sold through Rough Trade UK. 20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC. 
-

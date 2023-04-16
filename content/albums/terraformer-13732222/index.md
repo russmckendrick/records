@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
-
 ## Tracklisting
 1. Wrinkle
 2. FXMLDR
@@ -28,6 +27,8 @@ styles: ["Prog Rock", "Jazz-Rock"]
 11. Anchor
 12. New Moon
 13. Terraformer
+## Spotify
+{{< spotify type="album" id="4944tGwKGP3Rsv0xQs1CfP" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="OKKWQEpS8hI" title="Thank You Scientist - Terraformer (Official Music Video)" >}}
@@ -37,9 +38,7 @@ styles: ["Prog Rock", "Jazz-Rock"]
 - [Everyday Ghosts](https://www.youtube.com/watch?v=G7Vznh_e5LE)
 - [Son of a Serpent](https://www.youtube.com/watch?v=4yv83xBR0Rw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -49,4 +48,3 @@ styles: ["Prog Rock", "Jazz-Rock"]
 | Catalog Number | EI304 |
 
 First Pressing out of 1500 copies Comes in a gatefold sleeve with standard white inner sleeves.  20 pages Booklet. And Hype sticker on the sealed sleeve.  750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. My Debt To You
 2. Shoot First
@@ -24,15 +23,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Different World
 8. And So Say All Of You
 9. Too Much To Lose
+## Spotify
+{{< spotify type="album" id="3sAKvHqXtXEkPZ917MP7a3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First (from Tightly Unwound)" >}}
 - [Tightly Wound](https://www.youtube.com/watch?v=qlfgcaXRZ7U)
 - [The Pineapple Thief - Too Much to Lose (from Tightly Unwound)](https://www.youtube.com/watch?v=MdaxryzsjjA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Catalog Number | KSCOPE852 |
 
 A double vinyl edition of the first ever album released on Kscope.   Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package.   Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl. Remastered and Remixed Made in Germany 
-

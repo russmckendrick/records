@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. New Attitude (4:36)
 2. Don't Get Stopped In Beverly Hills (4:20)
@@ -50,9 +49,7 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 - [Beverly Hills Cop (OST) - Shoot Out (Original Version)](https://www.youtube.com/watch?v=cI3BVNKUdpk)
 - [Beverly Hills Cop (OST) - Good Guys on Grounds](https://www.youtube.com/watch?v=3ywO3YmrGxg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -62,4 +59,3 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 | Catalog Number | B0023070-01 |
 
 On back cover:  Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.  © 1984 Paramount Pictures Corporation ℗ 1984 © 2015 Geffen Records  Contains additional songs that were not in the film  Copyright © MCMLXXXIV By Paramount Pictures Corporation.   On labels:  ℗ 1984 © 2015 Geffen Records  Geffen [logo] UMe [logo] - A Universal Music Company  
-

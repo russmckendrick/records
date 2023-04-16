@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Little Fishes (6:06)
 2. Blood And Rockets (6:30)
@@ -24,6 +23,8 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 7. Toady Man's Hour (3:13)
 8. Cricket Chronicles Revisited (6:23)
 9. Like Fleas (3:32)
+## Spotify
+{{< spotify type="album" id="3KiA7e7NDRMKecw7YGVkZK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="XcOHiGonWwU" title="The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo..." >}}
@@ -31,9 +32,7 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 - [The Claypool Lennon Delirium - Amethyst Realm (Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
 - [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -41,6 +40,5 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 | Label          | Prawn Song, Chimera Music |
 | Format         | 2xLP, Album, Pin |
 | Catalog Number | ATO 0445LP |
-
 
 

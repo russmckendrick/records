@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
-
 ## Tracklisting
 1. Being Boiled (Fast Version) (3:50)
 2. The Dignity Of Labour (Part 3) (3:51)
@@ -45,6 +44,8 @@ styles: ["Synth-pop"]
 28. Night People (Radio Edit) (3:02)
 29. Never Let Me Go (4:56)
 30. Sky (Radio Edit) (3:12)
+## Spotify
+{{< spotify type="album" id="3XJ0aTzPJetIieldeVADht" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="neuLu1MMl5M" title="The Human League - Being Boiled (Fast Version)" >}}
@@ -62,9 +63,7 @@ styles: ["Synth-pop"]
 - [[Keep Feeling] Fascination](https://www.youtube.com/watch?v=Y2ENOHNZCNQ)
 - [Love On The Run (Early Version)](https://www.youtube.com/watch?v=jFPAHPv9CyU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -74,4 +73,3 @@ styles: ["Synth-pop"]
 | Catalog Number | 571 111-5 |
 
 Triple LP half-speed mastered box set.  Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).  First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan. 
-

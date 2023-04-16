@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
-
 ## Tracklisting
 1. Fifteen Years
 2. Outside Inside
@@ -21,9 +20,7 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 4. Said And Done
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -31,6 +28,5 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 | Label          | On The Fiddle Recordings |
 | Format         | 12\", EP |
 | Catalog Number | OTFS023X |
-
 
 

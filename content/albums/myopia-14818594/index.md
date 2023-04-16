@@ -13,7 +13,6 @@ cover:
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
-
 ## Tracklisting
 1. Camera's Rolling
 2. Broken Sleep
@@ -25,6 +24,8 @@ styles: ["Vocal", "Ballad"]
 8. Parliament Of Owls
 9. Promise Keeper
 10. Won't You Call Me
+## Spotify
+{{< spotify type="album" id="1XFhwj2xUtypgyEqAmTrQV" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="C2fpFeNZwAg" title="Agnes Obel - Camera's Rolling (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Vocal", "Ballad"]
 - [Parliament Of Owls](https://www.youtube.com/watch?v=NpwdJMOPbIs)
 - [Won't You Call Me](https://www.youtube.com/watch?v=qNn_o_itlcs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -50,4 +49,3 @@ styles: ["Vocal", "Ballad"]
 | Catalog Number | 483 7178, 00289 483 7178 |
 
 Indie-store release on 180 gram in gatefold jacket.  ℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH A Universal Music Company. Made in the EU.  Lacquer Cut By taken from runout.  Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper.  
-

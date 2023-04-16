@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Drone"]
 ---
-
 ## Tracklisting
 1. Deep Shelter (5:33)
 2. Rituals (5:11)
@@ -24,6 +23,8 @@ styles: ["Ambient", "Drone"]
 7. Corridors (2:55)
 8. The Unveiling (4:11)
 9. Emergence (3:22)
+## Spotify
+{{< spotify type="album" id="2x1qstmdJlt3YRPlSfY2Z1" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zGk4imfGKi4" title="A Pink Sunset For No One" >}}
@@ -32,9 +33,7 @@ styles: ["Ambient", "Drone"]
 - [Rituals](https://www.youtube.com/watch?v=9ngNK_OwK-k)
 - [Lone Victory Tonight](https://www.youtube.com/watch?v=rOysMVKzmRE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -44,4 +43,3 @@ styles: ["Ambient", "Drone"]
 | Catalog Number | FIRELP401 |
 
 Noveller is Sarah Lipstate.  Recorded in Brooklyn, NY and Lafayette, LA November 2015-April 2016.  Dedicated to Gene Lipstate.   Includes download code.
-

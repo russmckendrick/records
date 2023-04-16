@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
-
 ## Tracklisting
 1. In Company (4:27)
 2. The Sequel (3:49)
@@ -25,6 +24,8 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 8. Pretty Mire, Be My Friend (4:04)
 9. E.B. (2:15)
 10. Orange Synthetic (6:21)
+## Spotify
+{{< spotify type="album" id="4wzOcamZNvEGQkJptxZQcx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}
@@ -33,9 +34,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 - [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
 - [It's The End, The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -45,4 +44,3 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 | Catalog Number | KLOVE 2VA |
 
 Some copies signed by artists. Includes insert.
-

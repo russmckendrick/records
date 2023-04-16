@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
-
 ## Tracklisting
 1. Intro (2:16)
 2. Young Boy (4:25)
@@ -31,6 +30,8 @@ styles: ["Gangsta"]
 14. Bonus Tracks
 15. Grindin' (Remix) (4:17)
 16. Grindin' (Selector Remix) (3:47)
+## Spotify
+{{< spotify type="album" id="1Q83nQO2QG81TVa10hW7LX" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="dajcaoe0RC8" title="Intro" >}}
@@ -49,9 +50,7 @@ styles: ["Gangsta"]
 - [Grindin' (Remix - Main)](https://www.youtube.com/watch?v=aHbIBud9aJw)
 - [Grindin' (Selector Remix - Main)](https://www.youtube.com/watch?v=QoahpkBbiNQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -61,4 +60,3 @@ styles: ["Gangsta"]
 | Catalog Number | VMP-E065, 19075810841 |
 
 Comes with an obi strip.  Each LP housed in custom inner sleeves. Includes an art print.  Sticker: Sourced From the Original Masters 2LP Emerald Vinyl Heavyweight Gatefold Tip-On Jacket  Track durations taken from LP labels. They differ slightly from the ones listed on the rear cover.  Mastered [...] at Sterling Sound, NYC  © 2002, 2018 Arista Records LLC / ℗ 2002 Arista Records LLC / Manufactured for Vinyl Me, Please by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601  On inner sleeve: ℗ 2001 Arista Records, Inc.  A1, A2, A3, A4, B1, B2, B4, C1, C4 Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)  B3 Published by FamLay Publishing/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)  C2 Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./D. Brasco Music (ASCAP)/Desert Storm Music (BMI)  C3 Published by EMI-April Music, Inc. o/b/o itself & So So Def Music/GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP) Recorded [...] at Patchwerk Recording Studios, Atlanta, GA Mixed [...] at SouthSide Studios, Atlanta, GA ℗ 2001 A Joint Venture between Sony Music Entertainment Inc. & So So Def Recordings Inc.  D1 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Jaewon's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc./Paniro's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc. (ASCAP)  D2 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)/Off Da Yelzabulb/Money Mack/Money Mack (BMI)  D3 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Dutty Rock Music (ASCAP)/One Man Music/Bless Publishing Designee  All Songs Recorded at MasterSound & Windmark Studios, Virginia Beach, VA • Except "Grindin'," Recorded at Star Trak Studios, Virginia Beach, VA & "Cot Damn," Recorded at Silent Sound Studios, Atlanta, GA (& where noted) • All Songs Engineered [...] at MasterSound & Windmark Studios, Virginia Beach, VA • All Songs Mixed by Phil Tan at Silent Sound Studios, Atlanta GA (Except where noted)
-

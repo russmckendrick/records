@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. The Boy In The Bubble (3:59)
 2. Graceland (4:51)
@@ -26,6 +25,8 @@ styles: ["Pop Rock"]
 9. Crazy Love, Vol. II (4:19)
 10. That Was Your Mother (2:52)
 11. All Around The World Or The Myth Of Fingerprints (3:16)
+## Spotify
+{{< spotify type="album" id="6WgGWYw6XXQyLTsWt7tXky" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al (Official Video)" >}}
@@ -48,9 +49,7 @@ styles: ["Pop Rock"]
 - [Paul Simon - Crazy Love (Demo - Official Audio)](https://www.youtube.com/watch?v=LfG5lOsE5fE)
 - [The Story of Graceland as Told by Paul Simon](https://www.youtube.com/watch?v=ZHaGhF_vhjk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -60,4 +59,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 88691914721 |
 
 Made in EU. Comes with mp3 download and poster. 
-

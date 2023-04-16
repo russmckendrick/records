@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. White Street (1:19)
 2. Chimes (4:31)
@@ -25,13 +24,13 @@ styles: null
 8. Soon The Monsoon (3:02)
 9. Summer Lawns (4:57)
 10. Always Is Now (6:28)
+## Spotify
+{{< spotify type="album" id="0Ctt9npqW0LHlzoTyNszTy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="mK12aoSMjvc" title="Broken DC - Summer Lawns" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +40,3 @@ styles: null
 | Catalog Number | GOD025 |
 
 Limited edition of 300
-

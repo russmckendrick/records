@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
-
 ## Tracklisting
 1. Get Innocuous! (7:11)
 2. Time To Get Away (4:11)
@@ -24,6 +23,8 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 7. Watch The Tapes (3:55)
 8. Sound Of Silver (7:07)
 9. New York, I Love You But You're Bringing Me Down (5:35)
+## Spotify
+{{< spotify type="album" id="1R8kkopLT4IAxzMMkjic6X" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 - [Sound of Silver](https://www.youtube.com/watch?v=_kmTQj8x0N8)
 - [New York, I Love You but You're Bringing Me Down](https://www.youtube.com/watch?v=c5kM3iwYVi0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
@@ -50,4 +49,3 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 | Catalog Number | dfaemi 2164lp |
 
 2012 Reissue. 180g vinyl. Printed in UK  Packaging:  Gatefold cover double album. Includes a large poster. Printed inner sleeves with pictures and lyrics. Metalic silver embossed writing on the front cover. Electrospective sticker on the shrink wrap.
-

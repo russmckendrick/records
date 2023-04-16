@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: null
 ---
-
 ## Tracklisting
 1. M'Lady (7:46)
 2. Sing A Simple Song (5:14)
@@ -24,11 +23,11 @@ styles: null
 7.  I Want To Take You Higher (6:43)
 8. Love City (6:04)
 9. Stand! (3:20)
-
+## Spotify
+{{< spotify type="album" id="0iNGQ0jChQG1tuigTqv7jJ" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -38,4 +37,3 @@ styles: null
 | Catalog Number | 19075921541 |
 
 Single wide spine sleeve includes an insert and a download-card  Side D etched with Sly & The Family Stone logo  Label rim text: "© 2009, 2019 Epic Records, a division of Sony Music Entertainment / Compilation ℗ Epic Records, a division of Sony Music Entertainment / EPIC is the exclusive trademark of Sony Music Entertainment / All trademarks and logos are protected. / All Rights Reserved. / Made in the EU. / BIEM/GEMA / LC00199  Runouts are hand-etched up to the MPO logo, which together with the subsequent numbers is laser etched.
-

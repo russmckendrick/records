@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
-
 ## Tracklisting
 1. Welcome
 2. Love Flows Over Us In Prismatic Waves
@@ -23,6 +22,8 @@ styles: ["Ambient"]
 6. Arriving
 7. Sit Around The Fire
 8. Singing Bowl (Ascension)
+## Spotify
+{{< spotify type="album" id="2zY5p176SfmupXceLKT6bH" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="YhRybYyrNaI" title="Welcome" >}}
@@ -35,9 +36,7 @@ styles: ["Ambient"]
 - [Arriving](https://www.youtube.com/watch?v=R676FQ7Zi40)
 - [Jon Hopkins ft  Ram Dass - Sit Around The Fire](https://www.youtube.com/watch?v=ect4lgWRZbQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -47,4 +46,3 @@ styles: ["Ambient"]
 | Catalog Number | WIGLP458X, WIGLP458 |
 
 WIGLP458X on hype sticker, WIGLP458 on spine.  Hype sticker: LIMITED EDITION DOUBLE CLEAR VINYL includes BONUS TRACK: SINGING BOWL (ASCENSION) plus DOWNLOAD CODE 8 87828 04583 9 WIGLP458X  ℗+© 2021/2022 Domino Recording Co. Ltd. Made in the EU.  Published by Domino Publishing Co. Ltd. except: A1, C1, C2 published by Domino Publishing Co. Ltd. / Just Publishing; C3 published by Domino Publishing Co. Ltd. / Love Serve Remember Foundation BMI, administered by Modern Works Publishing and Lost Tricks Music BMI, administered by Modern Works Publishing.  'Sit Around The First' contains an excerpt from "Unitarian Church – Rowe, MA – 5/25/1975 – Full Lecture" by Ram Dass © 1975 and 2021 Love Serve Remember Foundation
-

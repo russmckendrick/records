@@ -1,6 +1,6 @@
 ---
-title: "ALT (6) - Altitude "
-artist: "ALT (6)"
+title: "ALT - Altitude "
+artist: "ALT"
 album_name: "Altitude "
 date: 2022-06-06
 release_id: "23202755"
@@ -8,12 +8,11 @@ slug: "altitude-23202755"
 hideSummary: true
 cover:
     image: "altitude-23202755.jpg"
-    alt: "Altitude  by ALT (6)"
-    caption: "Altitude  by ALT (6)"
+    alt: "Altitude  by ALT"
+    caption: "Altitude  by ALT"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Acoustic", "Soft Rock"]
 ---
-
 ## Tracklisting
 1. Side One 
 2. We're All Men
@@ -37,21 +36,20 @@ styles: ["Acoustic", "Soft Rock"]
 20. Girlfriend Guru ( alt version)
 21. Mandala (alt version)
 22. The Glad Eyed Maid 
+## Spotify
+{{< spotify type="album" id="0eaaWSQXwB4meNGm6GR9lr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-vjGteVwIM8" title="Alt - Favourite Girl" >}}
 - [alt - what you've done](https://www.youtube.com/watch?v=o-x_kPtLdiA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [ALT (6) - Altitude ](https://www.discogs.com/release/23202755-ALT-Altitude-) |
+| Discogs Link   | [ALT - Altitude ](https://www.discogs.com/release/23202755-ALT-Altitude-) |
 | Label          | Needle Mythology |
 | Format         | 2xLP, Album, Dlx, RE, RM |
 | Catalog Number | NEMYLP010 |
-
 
 

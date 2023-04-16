@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Love's Death Bed
 2. No Reason
@@ -29,6 +28,8 @@ styles: null
 12. Higher
 13. Test Dummy
 14. Sweet Nothing
+## Spotify
+{{< spotify type="album" id="1clekgjwj7TdXgYjQjm1BJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="8hnaMoHzx7o" title="Sunny War - Higher (feat. David Rawlings) [Official Audio]" >}}
@@ -42,9 +43,7 @@ styles: null
 - [Whole](https://www.youtube.com/watch?v=O1TQYzmzRTQ)
 - [Sunny War - No Reason [Official Audio]](https://www.youtube.com/watch?v=jsNlM1wKynQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -54,4 +53,3 @@ styles: null
 | Catalog Number | NW5702 |
 
 150g vinyl. This version is signed by the artist & exclusive to New West Records' mailorder store.
-

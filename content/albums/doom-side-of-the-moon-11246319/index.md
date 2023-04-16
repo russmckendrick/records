@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Speak To Me
 2. Breathe (In The Air)
@@ -25,6 +24,8 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 8. Any Colour You Like
 9. Brain Damage
 10. Eclipse
+## Spotify
+{{< spotify type="album" id="2oJwcaAzLz9LWPGhMEMSYq" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="a8HYM6bGtps" title="DOOM SIDE OF THE MOON - ECLIPSE" >}}
@@ -36,9 +37,7 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 - [DOOM SIDE OF THE MOON - GREAT GIG IN THE SKY](https://www.youtube.com/watch?v=N_4L3hv4Fp8)
 - [DOOM SIDE OF THE MOON - MONEY](https://www.youtube.com/watch?v=iEG6SdZ7hXQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -48,4 +47,3 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 | Catalog Number | MTR75411, MTR 75411 |
 
 Track numbering on the label is sequential 1 through to 10.  Custom packaging includes a die-cut front panel. Includes digital download.  Made in the EU.  First cat # is on the spine, second cat # is on inner sleeve.
-

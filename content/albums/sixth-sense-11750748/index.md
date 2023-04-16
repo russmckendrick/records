@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: ["Contemporary Jazz"]
 ---
-
 ## Tracklisting
 1. Carrier (6:17)
 2. Broken (7:20)
@@ -29,11 +28,11 @@ styles: ["Contemporary Jazz"]
 12. Half Self
 13. Taal Caldera
 14. Sedna
-
+## Spotify
+{{< spotify type="album" id="0upNZrUJOsxd09PO1f6X1L" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Contemporary Jazz"]
 | Catalog Number | HUBROLP3587 |
 
 Recorded at Hljoðriti, Hafnarfjörður, Iceland, January 2015 and at Kennel Collective, Oslo, January 2017. Mixed at Amper Tone, Oslo, March 2017. Mastered at Tinnitus Mastering, Oslo, October 2017. (p) & (c) Grappa Musikkforlag AS 2018
-

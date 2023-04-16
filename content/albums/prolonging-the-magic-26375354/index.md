@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Satan Is My Motor (3:12)
 2. Mexico (3:26)
@@ -28,6 +27,8 @@ styles: ["Alternative Rock"]
 11. Let Me Go (3:29)
 12. Cool Blue Reason (3:27)
 13. Where Would I Be? (3:52)
+## Spotify
+{{< spotify type="album" id="1vbpW28Od2ATmVyAZ0QZ3j" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="FRZzUh9hcTo" title="Cake - Never There" >}}
@@ -35,9 +36,7 @@ styles: ["Alternative Rock"]
 - [You Turn The Screws](https://www.youtube.com/watch?v=zejIhEP2IMc)
 - [Mexico](https://www.youtube.com/watch?v=fNmUIKbwCLo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -47,4 +46,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 19658714061, 19658714061S1 |
 
 Cake Webstore Exclusive Tracks listed sequentially.  No Catalog number on spine, jacket, or inner sleeve. Catalog number on label is 19658714061 and number on hype sticker is 19658714061S1.  [Weight not mentioned, denoted as on Cake Website]
-

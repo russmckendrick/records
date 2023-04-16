@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Rock & Roll"]
 ---
-
 ## Tracklisting
 1. Wanted Man
 2. Wreck Of The Old 97
@@ -29,9 +28,7 @@ styles: ["Country", "Rock & Roll"]
 ## Videos
 {{< youtube id="PSLsfwTbo4Q" title="Johnny Cash at San Quentin 1969 (full video)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -41,4 +38,3 @@ styles: ["Country", "Rock & Roll"]
 | Catalog Number | 88875111981 |
 
 Sticker on cover can vary with 2 versions: We are vinyl sticker or Legacy sticker.  The labels state that the record is mono. The audio is actually stereo.  Contains download card.
-

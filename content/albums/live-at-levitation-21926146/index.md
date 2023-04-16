@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Jailbird
 2. Accelerator
@@ -24,6 +23,8 @@ styles: ["Alternative Rock"]
 7. Country Girl
 8. Loaded
 9. Movin' On Up
+## Spotify
+{{< spotify type="album" id="34IVYcEf2J3LAuuwLofY9r" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qMBwxCnbLU4" title="Primal Scream - Accelerator (Live at LEVITATION)" >}}
@@ -34,9 +35,7 @@ styles: ["Alternative Rock"]
 - [Higher Than the Sun (Live)](https://www.youtube.com/watch?v=Fj5jpCGel_o)
 - [Shoot Speed/Kill Light (Live)](https://www.youtube.com/watch?v=6rftOLqzMvo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -46,4 +45,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | RVRB-049 |
 
 Made in Canada.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
-
 ## Tracklisting
 1. Rain On The Scarecrow (3:45)
 2. Grandma's Theme (0:55)
@@ -26,6 +25,8 @@ styles: ["Southern Rock"]
 9. Rumbleseat (3:00)
 10. You've Got To Stand For Something' (4:33)
 11. R.O.C.K. In The U.S.A. (A Salute To 60's Rock) (2:55)
+## Spotify
+{{< spotify type="album" id="1BYEhfr8qQGNhbqPAbfnxk" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1jlOJ7X3O60" title="Rain On The Scarecrow ~ John Cougar Mellencamp 1985 Scarecrow ~ MERCURY LP" >}}
@@ -44,16 +45,13 @@ styles: ["Southern Rock"]
 - [The Kind Of Fella I Am](https://www.youtube.com/watch?v=3wEflEbgp34)
 - [Small Town (Acoustic Version)](https://www.youtube.com/watch?v=sDDhDakHSNA)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
 | Discogs Link   | [John Cougar Mellencamp - Scarecrow](https://www.discogs.com/release/9803967-John-Cougar-Mellencamp-Scarecrow) |
-| Label          | Mercury, Riva (2) |
+| Label          | Mercury, Riva |
 | Format         | LP, Album |
 | Catalog Number | 824 865-1 |
 
 Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.  Very similar to [r1113007], which has in comparison to this release here no label code.  On back sleeve: ℗ 1985 John Mellencamp / © 1985 John Mellencamp Printed in the Netherlands  On inner sleeve: "This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"  On labels: ℗ 1985 John Mellencamp MADE IN HOLLAND  Runout information: The runouts are etched, except "MASTERDISK", which is stamped.
-

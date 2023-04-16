@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. Homebreakers
 2. All Gone Away
@@ -29,6 +28,8 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 12. With Everything To Lose
 13. Our Favourite Shop
 14. Walls Come Tumbling Down
+## Spotify
+{{< spotify type="album" id="75nT99YVabgYL2UcyKrPHa" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="eweq1pnVOF0" title="The Style Council - Come To Milton Keynes" >}}
@@ -46,9 +47,7 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 - [Style Council - The Lodgers](https://www.youtube.com/watch?v=Dpg0jlhNV8Y)
 - [A Stones Throw Away](https://www.youtube.com/watch?v=45DsZpjL4tM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -58,4 +57,3 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 | Catalog Number | TSCLP 2, 5734112 |
 
 Reissue on lilac-coloured vinyl
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: null
 ---
-
 ## Tracklisting
 1. Hitting With Music (4:15)
 2. American Sweet (3:41)
@@ -25,6 +24,8 @@ styles: null
 8. Dead And Awake (3:37)
 9. Now And Forever (4:56)
 10. Nuclear War (4:12)
+## Spotify
+{{< spotify type="album" id="4jDYIT8hRGwGxDmTd6c9tN" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rDqRo2ecJ0o" title="Reggae Street" >}}
@@ -41,9 +42,7 @@ styles: null
 - [Jimmy Cliff, Sunrise (Reggae)](https://www.youtube.com/watch?v=r4qskFuW8_c)
 - [jimmy Cliff - American Sweet (Showbizzquizz 1985)](https://www.youtube.com/watch?v=BTiz15PZiI8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -51,6 +50,5 @@ styles: null
 | Label          | CBS |
 | Format         | LP, Album |
 | Catalog Number | CBS 26528 |
-
 
 

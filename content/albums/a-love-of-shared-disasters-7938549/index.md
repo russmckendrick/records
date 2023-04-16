@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
-
 ## Tracklisting
 1. Lament Of The Nithered Mercenary
 2. Really, How 'd It Get This Way?
@@ -27,6 +26,8 @@ styles: ["Post Rock"]
 10. My Enemies I Fear Not, But Protect Me From My Friends
 11. I'm Almost Home
 12. Sharks & Storms / Blizzard Of Horned Cats
+## Spotify
+{{< spotify type="album" id="0c5JVKlpvfvbzDotImQD4V" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6Z-TufsJmDg" title="Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats" >}}
@@ -38,9 +39,7 @@ styles: ["Post Rock"]
 - [Crippled Black Phoenix - The Whistler](https://www.youtube.com/watch?v=WY9F0NoOXhg)
 - [Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends](https://www.youtube.com/watch?v=VZQ-QgI9Y88)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -50,4 +49,3 @@ styles: ["Post Rock"]
 | Catalog Number | KSCOPE901 |
 
 Sticker on a shrinkwrap: "Crippled Black Phoenix A Love of Shared Disasters GATEFOLD 2LP on 180g VINYL 2006 debut album from the musical collective led by Justin Greaves (Electric Wizard, Iron Monkey, Se Delan) & Dominic Aitchison (Mogwai) with alternative cover artwork. kscope901 kscopemusic.com/cbp"  2 x 180g black vinyl in gatefold cover. Made in Germany.
-

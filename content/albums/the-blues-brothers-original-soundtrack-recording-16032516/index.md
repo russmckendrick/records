@@ -13,7 +13,6 @@ cover:
 genres: ["Blues", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. She Caught The Katy (4:10)
 2. Peter Gunn Theme (3:46)
@@ -41,9 +40,7 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 - [The Blues Brothers - Sweet Home Chicago (Official Audio)](https://www.youtube.com/watch?v=euJ22UqLD5Y)
 - [The Blues Brothers - Jailhouse Rock (Official Audio)](https://www.youtube.com/watch?v=TosN2G1mmTs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -53,4 +50,3 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 | Catalog Number | 0603497845552, 603497845552, RCV1 16017 |
 
 There are two versions of the info / hype sticker that may appear on the shrink-wrap.  Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers: - "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe) - "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)  In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]  ℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands. RCV1 16017 / 603497845552
-

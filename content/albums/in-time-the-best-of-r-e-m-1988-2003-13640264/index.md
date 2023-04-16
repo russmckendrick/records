@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Man On The Moon
 2. The Great Beyond
@@ -33,6 +32,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 16. Everybody Hurts
 17. At My Most Beautiful
 18. Nightswimming
+## Spotify
+{{< spotify type="album" id="3UvVHQ31PhSMtI2GIS91Lz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LR4eneB2h4I" title="REM - Pop Song 89 (acoustic - B-side)" >}}
@@ -56,9 +57,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [R.E.M. - At My Most Beautiful (Official Music Video)](https://www.youtube.com/watch?v=UIXs66BPooY)
 - [R.E.M. - Nightswimming (Official Music Video) [British Version]](https://www.youtube.com/watch?v=ahJ6Kh8klM4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -68,4 +67,3 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Catalog Number | 00888072095274 |
 
 180g  Gatefold sleeve.  Made in the EU.  Exclusive retailers in Germany: Media Markt & Saturn Exclusive retailers in UK: HMV & Fopp Exclusive retailer in Italy La Feltrinelli Exclusive retailer in Australia: JB Hi-Fi
-

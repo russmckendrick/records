@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
 ---
-
 ## Tracklisting
 1. Oczy Mlody
 2. How??
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
 9. The Castle
 10. Almost Home (Blisko Domu)
 11. We A Famly
+## Spotify
+{{< spotify type="album" id="1hnkDGUipQikSFdjRoBOFK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="unLnJvzf-So" title="The Flaming Lips - How?? (Official Music Video)" >}}
@@ -33,9 +34,7 @@ styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
 - [The Flaming Lips - The Castle (Official Music Video)](https://www.youtube.com/watch?v=WK_ggTw4lhA)
 - [The Flaming Lips - Space Oddity [Official Music Video]](https://www.youtube.com/watch?v=ERxTaENbRdY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
 | Catalog Number | BELLA584V |
 
 ℗ & © 2017 Bella Union under exclusive license to [PIAS]. © 2016 Lovely Sorts Of Death Music (BMI).  Recorded June 2012 - June 2016 at Pink Floor Studios in Oklahoma City, Oklahoma Tarbox Road Studios in Cassadaga, New York  [A=Miley Cyrus] appears courtesy of [L=RCA Records] [A=Reggie Watts] appears courtesy of [L=Secretly Canadian]  Lyrics and credits on inner sleeve. Includes download coupon.  Runouts are etched.
-

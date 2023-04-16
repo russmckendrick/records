@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Lord Grenville (5:00)
 2. On The Border (3:22)
@@ -24,6 +23,8 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 7. Broadway Hotel (3:55)
 8. One Stage Before (4:39)
 9. Year Of The Cat (6:40)
+## Spotify
+{{< spotify type="album" id="2JxEUrs4GzHQdkV6qQayz5" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wgq6iz6-N_M" title="Al Stewart - On The Border (1976 UK Vinyl)" >}}
@@ -31,9 +32,7 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 - [Broadway Hotel (2001 Remaster)](https://www.youtube.com/watch?v=2zpShd0A7Nk)
 - [Midas Shadow (2001 Remaster)](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -43,4 +42,3 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 | Catalog Number | RS 1082 |
 
   Note: An alternate version with flat labels and mastered by [a336941], is here - [r8747181]   
-

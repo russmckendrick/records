@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Jean Walks In Fresh Fields (1:48)
 2. Grey Skies (4:17)
@@ -60,9 +59,7 @@ styles: ["New Wave", "Synth-pop"]
 - [Oppenheimer Analysis - Behind The Shades](https://www.youtube.com/watch?v=YGc5oF4tn9E)
 - [Trevor Bastow - feather bed](https://www.youtube.com/watch?v=obMWwz1M5NE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -72,4 +69,3 @@ styles: ["New Wave", "Synth-pop"]
 | Catalog Number | XXQLP2068W |
 
 The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd  This compilation P & C 2020 Ace Records Ltd  White Vinyl version exclusive to Rough Trade in the UK.   Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"  
-

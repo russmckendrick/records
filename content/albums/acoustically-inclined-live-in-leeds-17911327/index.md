@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Let It Roll
@@ -37,6 +36,8 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 20. Coast
 21. Solar Winds
 22. Thing Beyond Things
+## Spotify
+{{< spotify type="album" id="32SpE85d6HbJRQPKQ6I5U4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="H45yG8FzpkQ" title="DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)" >}}
@@ -45,9 +46,7 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 - [Funeral (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=mZ_xXGLwu0c)
 - [Ih-Ah! (Acoustic - Live in Leeds 2019)](https://www.youtube.com/watch?v=XtR4tnbHc-o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -57,4 +56,3 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 | Catalog Number | IOMLP 586, 19439857571 |
 
 Black vinyl edition.  Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingom.
-

@@ -1,6 +1,6 @@
 ---
-title: "Dennis Wilson (2) - Pacific Ocean Blue"
-artist: "Dennis Wilson (2)"
+title: "Dennis Wilson - Pacific Ocean Blue"
+artist: "Dennis Wilson"
 album_name: "Pacific Ocean Blue"
 date: 2016-11-21
 release_id: "2513540"
@@ -8,12 +8,11 @@ slug: "pacific-ocean-blue-2513540"
 hideSummary: true
 cover:
     image: "pacific-ocean-blue-2513540.jpg"
-    alt: "Pacific Ocean Blue by Dennis Wilson (2)"
-    caption: "Pacific Ocean Blue by Dennis Wilson (2)"
+    alt: "Pacific Ocean Blue by Dennis Wilson"
+    caption: "Pacific Ocean Blue by Dennis Wilson"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. River Song (3:44)
 2. What's Wrong (2:22)
@@ -27,6 +26,8 @@ styles: ["Pop Rock"]
 10. Farewell My Friend (2:24)
 11. Rainbows (2:51)
 12. End Of The Show (2:56)
+## Spotify
+{{< spotify type="album" id="08CyNpU6VJMtGmR7DYjNmQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1Q-oVAhZ3GQ" title="Only with You" >}}
@@ -41,16 +42,13 @@ styles: ["Pop Rock"]
 - [Dreamer](https://www.youtube.com/watch?v=GPr5ZZdFdFk)
 - [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
-| Discogs Link   | [Dennis Wilson (2) - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-Pacific-Ocean-Blue) |
+| Discogs Link   | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-Pacific-Ocean-Blue) |
 | Label          | Music On Vinyl, Caribou Records |
 | Format         | LP, Album, RE, RM, Gat |
 | Catalog Number | MOVLP096, 88697731691 |
-
 
 

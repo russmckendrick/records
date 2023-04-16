@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. I Love Myself (3:07)
 2. Yeah (3:08)
@@ -34,9 +33,7 @@ styles: ["Alternative Rock"]
 {{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies (Album Yeah)" >}}
 - [The Wannadies - Idiot Boy](https://www.youtube.com/watch?v=TN3pSDdISnQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -46,4 +43,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | MOVLP2304 |
 
 Limited to 1000 copies on numbered pink vinyl
-

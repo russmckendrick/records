@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz"]
 styles: null
 ---
-
 ## Tracklisting
 1. Don't Need The Real Thing (3:26)
 2. Breakdown   (3:19)
@@ -28,6 +27,8 @@ styles: null
 11. Love Sucks (3:55)
 12. The First Time Ever I Saw Your Face (5:40)
 13. Simple Things  (3:42)
+## Spotify
+{{< spotify type="album" id="3KJDc381jm06rWww5E45or" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="EaQwTZmJywg" title="Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]" >}}
@@ -51,9 +52,7 @@ styles: null
 - [The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=XwwSU8O5X5M)
 - [Simple Things](https://www.youtube.com/watch?v=pL5jn3LRl6w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -63,4 +62,3 @@ styles: null
 | Catalog Number | B002872101 |
 
 Single pocket sleeve with double-sided insert with photo and album credits.
-

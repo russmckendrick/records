@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
-
 ## Tracklisting
 1. To Cut A Long Story Short
 2. The Freeze
@@ -38,9 +37,7 @@ styles: ["Pop Rock"]
 ## Videos
 {{< youtube id="2vBQJv5cudk" title="Spandau Ballet - The Boxer" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -50,4 +47,3 @@ styles: ["Pop Rock"]
 | Catalog Number | 0190295200046 |
 
 Released to celebrate the 40th Anniversary of the group.
-

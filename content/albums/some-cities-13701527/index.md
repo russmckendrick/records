@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Some Cities
 2. Black And White Town
@@ -26,6 +25,8 @@ styles: ["Downtempo", "Indie Rock"]
 9. Shadows Of Salford
 10. Sky Starts Falling
 11. Ambition
+## Spotify
+{{< spotify type="album" id="1b8wM8rrNJzdxHykdygy9V" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LR3rHOXQeeM" title="Shadows Of Salford" >}}
@@ -43,9 +44,7 @@ styles: ["Downtempo", "Indie Rock"]
 - [Doves - Walk in Fire](https://www.youtube.com/watch?v=NzXuCj-DXv4)
 - [Doves - Black & White Town (From Some Cities - 2005)](https://www.youtube.com/watch?v=Nio3f2yN8u8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -55,4 +54,3 @@ styles: ["Downtempo", "Indie Rock"]
 | Catalog Number | 7748265 |
 
 All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.  B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.  ℗ 2004 [l26760] © 2019 [l26760]  Non-gatefold (single) sleeve with insert. Comes with a [l1052727] download coupon.
-

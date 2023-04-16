@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alternative Rock", "Dub"]
 ---
-
 ## Tracklisting
 1. Nervous System
 2. Wardance
@@ -54,9 +53,7 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 - [Me Or You (2007 Digital Remaster)](https://www.youtube.com/watch?v=FZqxbyIRul4)
 - [Let's All Go (To The Fire Dances)](https://www.youtube.com/watch?v=rmPAT575-Ng)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -66,4 +63,3 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 | Catalog Number | SPINE875352 |
 
 Gatefold sleeve with a 12x12" insert with credits. Singles Collection 1979-2012. 
-

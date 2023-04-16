@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
-
 ## Tracklisting
 1. Right Next Door To Hell (2:58)
 2. Dust N' Bones (4:55)
@@ -31,14 +30,14 @@ styles: ["Hard Rock"]
 14. Bad Apples (4:25)
 15. Dead Horse (4:17)
 16. Coma (10:08)
+## Spotify
+{{< spotify type="album" id="0CxPbTRARqKUYighiEY9Sz" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="4Ev_vhKfeLs" title="Use Your Illusion I - Guns N' Roses (Full Album)" >}}
 - [CD / Guns N'Roses - Use Your Illusion I / 1991](https://www.youtube.com/watch?v=gVuBuO84MMw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -48,4 +47,3 @@ styles: ["Hard Rock"]
 | Catalog Number | 0720642441510 |
 
 Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered 
-

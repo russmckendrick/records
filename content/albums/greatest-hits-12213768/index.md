@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Born To Run
 2. Thunder Road
@@ -33,6 +32,8 @@ styles: null
 16. Murder Incorporated
 17. Blood Brothers
 18. This Hard Land
+## Spotify
+{{< spotify type="album" id="211iJYKUbpqrykRsPG27CG" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run (Official Video)" >}}
@@ -55,9 +56,7 @@ styles: null
 - [This Hard Land](https://www.youtube.com/watch?v=fGcgH2sogYM)
 - [Bruce Springsteen - This Hard Land (Live)](https://www.youtube.com/watch?v=Ssg4_KMrS0o)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -67,4 +66,3 @@ styles: null
 | Catalog Number | 19075820661 |
 
 Made in the EU. Issued in a gatefold sleeve with two printed inner sleeves and a download code.
-

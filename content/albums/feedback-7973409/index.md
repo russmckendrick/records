@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
-
 ## Tracklisting
 1. Summertime Blues (3:52)
 2. Heart Full Of Soul (2:52)
@@ -23,18 +22,17 @@ styles: ["Classic Rock"]
 6. Seven And Seven Is (2:53)
 7. Shapes Of Things (3:16)
 8. Crossroads (3:27)
-
+## Spotify
+{{< spotify type="album" id="0mT6ezOOTIUucAF9csghFE" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Rush - Feedback](https://www.discogs.com/release/7973409-Rush-Feedback) |
-| Label          | Atlantic, Anthem (5) |
+| Label          | Atlantic, Anthem |
 | Format         | 12\", EP, RE, RM, 200 |
 | Catalog Number | R1 83728 |
 
 30th anniversary album with Rush playing cover versions of songs from the 1966/1967 time, when they began to make music as thirteen and fourteen year old beginners. Comes in a gatefold sleeve without additional inserts.  Misprint on back: Produced by by David Leonard...
-

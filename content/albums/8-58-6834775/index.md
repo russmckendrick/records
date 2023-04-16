@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic"]
 styles: ["Downtempo", "Electro"]
 ---
-
 ## Tracklisting
 1. 8:58 (6:05)
 2. Please (6:35)
@@ -36,9 +35,7 @@ styles: ["Downtempo", "Electro"]
 - [8:58 - Villain (ft Ed Harcourt)](https://www.youtube.com/watch?v=H5qj8WryvFM)
 - [8:58 - The Past Now (ft Lisa Knapp)](https://www.youtube.com/watch?v=zyJQrPeRUZU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -48,4 +45,3 @@ styles: ["Downtempo", "Electro"]
 | Catalog Number | ACPV1503 |
 
 Gatefold sleeve.  Copies signed by Paul Hartnoll were available from Recordstore.co.uk.  Track A2 is an extended version of “Please (Remember 1992?) (Paul Hartnoll Remix)”, originally 5:45 long, commercially released on [7”](http://www.discogs.com/Paul-Hartnoll-feat-Robert-Smith-Please/release/3592544) & [12”](http://www.discogs.com/Paul-Hartnoll-Feat-Robert-Smith-Please-The-Remixes/release/964545) in 2007, and credited to “Paul Hartnoll Feat. Robert Smith”.
-

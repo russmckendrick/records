@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 ---
-
 ## Tracklisting
 1. One Of These Days
 2. A Pillow Of Winds
@@ -21,11 +20,11 @@ styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 4. San Tropez
 5. Seamus
 6. Echoes
-
+## Spotify
+{{< spotify type="album" id="468ZwCchVtzEbt9BHmXopb" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -35,4 +34,3 @@ styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 | Catalog Number | PFRLP6, 0190295997076 |
 
 ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.  Hype sticker: The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1971 Made and printed in the E.U. www.pinkfloyd.com  Fully textured sleeve. "Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II). Track durations are not given on this release.  The US release can be found [here](http://www.discogs.com/release/9092521)  Runouts are etched: "16909 1A" and "16909 1B" are stamped.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: null
 ---
-
 ## Tracklisting
 1. Nervous Mary (2:29)
 2. Wait In The Car (2:03)
@@ -26,6 +25,8 @@ styles: null
 9. Dawn: Making An Effort (3:50)
 10. Skinhead #2 (2:46)
 11. Blues At The Acropolis (2:56)
+## Spotify
+{{< spotify type="album" id="6SeeXO8uekKSzMrxyNJP3N" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oVk4xRdD5MA" title="The Breeders - Spacewoman (Official Video)" >}}
@@ -33,9 +34,7 @@ styles: null
 - [The Breeders  - Nervous Mary (Official Audio)](https://www.youtube.com/watch?v=quqU4onSjh8)
 - [The Breeders - Wait in the Car (Official Video)](https://www.youtube.com/watch?v=5i76b0OrdIQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -45,4 +44,3 @@ styles: null
 | Catalog Number | 4AD0035LPE |
 
 Indie stores only  Alternative cover art. Includes a [download card](https://www.discogs.com/The-Breeders-All-Nerve/release/11701498) and a custom inner sleeve.  Sequential track numbering over the A and B sides.  ℗ & © 4AD Ltd 2018  Tracks 1, 2, 5, 6 & 7 Recorded by Mike Montgomery at Candyland, Kentucky Additional recordings by Greg Norman at Electrical Audio, Chicago  Track 3 Recorded by Steve Albini at Electrical Audio, Chicago Additional recordings by Greg Norman at Electrical Audio, Chicago  Track 8 Recorded by Mike Montgomery at Candyland, Kentucky and by Steve Albini at Electrical Audio, Chicago  Track 9 Recorded By Tom Rastikis at Fernwood Studios, Dayton Additional recordings by Greg Norman at Electrical Audio, Chicago  Track 10 Recorded by Steve Albini at Electrical Audio, Chicago and by Mike Montgomery at Candyland, Kentucky Additional recordings by Greg Norman at Electrical Audio, Chicago  Tracks 4 & 11 Recorded by Mike Montgomery at Candyland, Kentucky  Mixed [...] at Vacation Island Recording, Brooklyn Except: Track 8 Mixed [...] at Electrical Audio, Chicago  Mastered [...] at Sterling Sound, NYC Vinyl mastered [...] at Chicago Mastering Service, Chicago  Manufactured by Pallas GmbH, Diepholz, Germany  Publishers/Rights Societies: Kim Deal - Sony / ATV Music Publishing Ltd Richard Presley - BMI Josephine Wiggs - Naked Mole Rat Music Morgan Nagler - Goldmeyn Music (BMI) administered by Rough Trade Songs (BMI) John Weinzierl & Falk Ulrich Rogner - Metric Musikverlag / EMI Partnership Musikverlag
-

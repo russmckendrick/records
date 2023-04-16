@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1. The Healing (4:49)
 2. Grinder (3:22)
@@ -28,6 +27,8 @@ styles: ["Rhythm & Blues"]
 11. Stay (3:45)
 12. Shake (3:18)
 13. Down To Ride (7:52)
+## Spotify
+{{< spotify type="album" id="5gRwx5vpeXUA75GmuqwByn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr. - Wings" >}}
@@ -37,9 +38,7 @@ styles: ["Rhythm & Blues"]
 - [Gary Clark Jr. - Grinder (Official Music Video)](https://www.youtube.com/watch?v=5ffEpbvAcG4)
 - [Gary Clark Jr. - Cold Blooded](https://www.youtube.com/watch?v=QFajvN0IFyo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -49,4 +48,3 @@ styles: ["Rhythm & Blues"]
 | Catalog Number | 550131-1 |
 
 © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits.
-

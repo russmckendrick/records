@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 ---
-
 ## Tracklisting
 1. Vol 1 - Deform To Form A Star
 2. Grace For Drowning (2:00)
@@ -29,6 +28,8 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 12. Index (4:45)
 13. Track One (4:15)
 14. Like Dust I Have Cleared From My Eye (8:00)
+## Spotify
+{{< spotify type="album" id="44uwH9ASkm1MStvYdDdTDn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="GYydWVIgYlA" title="Grace For Drowning + Sectarian - Steven Wilson" >}}
@@ -43,9 +44,7 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 - [Like Dust I Have Cleared from My Eye](https://www.youtube.com/watch?v=oavmSFLaDAI)
 - [Steven Wilson - Grace For Drowning](https://www.youtube.com/watch?v=w8AitJAZTZ8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -55,4 +54,3 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 | Catalog Number | KSCOPE818 |
 
 Written and recorded during the period of Jan 2010 - June 2011.  Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.  Additional recording made by the musicians on location in the UK, USA and Germany.   Management for Acme Music. Artwork and design for Aleph. Exclusively administered through Universal Music Publishing Group  ℗ 2011 Steven Wilson © Steven Wilson Made in EU.  Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits.
-

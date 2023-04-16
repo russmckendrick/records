@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Pop"]
 styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", "Indie Rock", "Acid House", "Breaks", "House", "Breakbeat", "Leftfield", "Punk", "Pop Rock", "Folk Rock", "Glam", "Pop Rap"]
 ---
-
 ## Tracklisting
 1. Quiet Life
 2. I Ran (So Far Away)
@@ -47,9 +46,7 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 - [John Cooper Clarke - Evidently Chickentown](https://www.youtube.com/watch?v=3KgB-sI2H-c)
 - [The First Picture Of You [Official video] - The Lotus Eaters (HD/HQ)](https://www.youtube.com/watch?v=-SZ_A8K-xTY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -59,4 +56,3 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 | Catalog Number | 88985431271 |
 
 UK & European 2 vinyl compilation, subtitled: 'The alternative sound of a decade'   This compilation ℗ & © 2017 Sony Music Entertainment. Distributed by Sony Music Entertainment.  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU.  In 2015, a CD compilation was issued with a similar cover & name  [url=/release/7566631]catalogue #:  88875140272[/url], however, with different tracklisting.
-

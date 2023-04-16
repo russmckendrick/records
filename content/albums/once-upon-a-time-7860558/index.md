@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Once Upon A Time (5:44)
 2. All The Things She Said (4:16)
@@ -23,6 +22,8 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 6. I Wish You Were Here (4:42)
 7. Sanctify Yourself (5:00)
 8. Come A Long Way (5:08)
+## Spotify
+{{< spotify type="album" id="4YimfceN1R0nOS9CefIFhm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="9_-m8yFTn9w" title="Once Upon A Time" >}}
@@ -34,9 +35,7 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Come A Long Way](https://www.youtube.com/watch?v=b0A9siJrokg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -46,4 +45,3 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 | Catalog Number | 4722194 |
 
 180 Gram according to labels site: https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000  Made in EU.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Apollo Greeter (0:14)
 2. Opening, The Apollo Theater (1:15)
@@ -47,11 +46,11 @@ styles: ["Soundtrack"]
 30. Ta-Nehisi Coates And T. Griffin (1:24)
 31. Don't Turn Back Now (4:36)
 32. At The Apollo Theater, January 19, 2012 (0:28)
-
+## Spotify
+{{< spotify type="album" id="6pjGpesm1IXSEQ0VEdebo2" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,4 +60,3 @@ styles: ["Soundtrack"]
 | Catalog Number | 602508383793 |
 
 Made in the EU. Back To Black hype sticker on shrink wrap. Comes with 'Back To Black' download code.  Matrices stamped, with exception of B0031355-01-A IS, B0031355-01-B IS, B0031355-01-C IS and B0031355-01-D IS which are etched. The IS symbol in the deadwax represents the initials of mastering and cutting engineer [a527017].
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Prog Rock"]
 ---
-
 ## Tracklisting
 1. ...And The Mouse Police Never Sleeps (3:12)
 2. Acres Wild (3:24)
@@ -24,6 +23,8 @@ styles: ["Folk Rock", "Prog Rock"]
 7. One Brown Mouse (3:23)
 8. Heavy Horses (9:03)
 9. Weathercock (4:01)
+## Spotify
+{{< spotify type="album" id="27EEeQwWctNFwKzbYYB7v4" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="HzCvljJIJQw" title="Jethro Tull - Heavy Horses (1978 Widescreen)" >}}
@@ -54,9 +55,7 @@ styles: ["Folk Rock", "Prog Rock"]
 - [One Brown Mouse (2003 Remaster)](https://www.youtube.com/watch?v=sa6IrbDWJ2w)
 - [Weathercock (2003 Remaster)](https://www.youtube.com/watch?v=ffVNuAYEeEo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -66,4 +65,3 @@ styles: ["Folk Rock", "Prog Rock"]
 | Catalog Number | 0190295757311 |
 
 40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.  Recorded July 1977 - January 1978  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd.  Runouts etched, Optimal markings (1=) are mirrored
-

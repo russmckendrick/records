@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
-
 ## Tracklisting
 1. Spanish Harlem (3:30)
 2. Chain Of Fools (2:45)
@@ -35,9 +34,7 @@ styles: ["Soul"]
 - [Aretha Franklin - Spanish Harlem](https://www.youtube.com/watch?v=ax3EJyeKW3M)
 - [Chain of Fools by Aretha Franklin REMASTERED](https://www.youtube.com/watch?v=vFBi7ZEbGx8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,6 +42,5 @@ styles: ["Soul"]
 | Label          | Atlantic |
 | Format         | LP, Comp, RE |
 | Catalog Number | 081227943516 |
-
 
 

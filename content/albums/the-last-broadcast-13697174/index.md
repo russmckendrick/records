@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Britpop", "Downtempo", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Intro
 2. Words
@@ -27,6 +26,8 @@ styles: ["Britpop", "Downtempo", "Indie Rock"]
 10. Last Broadcast
 11. The Sulphur Man
 12. Caught By The River
+## Spotify
+{{< spotify type="album" id="4HihJAJjF6hSVoh318zLu9" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Xupes6H56DA" title="Intro" >}}
@@ -42,9 +43,7 @@ styles: ["Britpop", "Downtempo", "Indie Rock"]
 - [DOVES - The Last Broadcast - 12. The Sulphur Man](https://www.youtube.com/watch?v=uPo4lqI46F8)
 - [DOVES - The Last Broadcast - 11. Caught By The River](https://www.youtube.com/watch?v=7uU5kYy53WU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -54,4 +53,3 @@ styles: ["Britpop", "Downtempo", "Indie Rock"]
 | Catalog Number | 7748263 |
 
 2019 reissue, 180gr coloured vinyl, lyric sheet but no gatefold sleeve.  "M62 Song" is an adaptation of "Moonchild" by King Crimson.
-

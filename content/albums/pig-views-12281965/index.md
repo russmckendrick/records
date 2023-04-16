@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Rose, Rubus, Smilax, Vulkan (7:17)
 2. Revealed As A True Future Tyrant (5:30)
@@ -27,13 +26,13 @@ styles: ["Prog Rock"]
 10. The Evil Eye Is Liquified (5:06)
 11. Huge Machine, You Are So Heavy (6:38)
 12. Butterfly (0:52)
+## Spotify
+{{< spotify type="album" id="2PaO94K7k8U9QPe2QWdRXf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="zFJmtIe8ubo" title="Regal Worm - Pig Views (2018) (Full Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Prog Rock"]
 | Catalog Number | UCV92002 |
 
 Packaged in a single jacket with color insert, sticker and download card.   D1 and D2 are bonus tracks exclusive to this release.
-

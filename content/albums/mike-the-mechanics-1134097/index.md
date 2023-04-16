@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Silent Running (On Dangerous Ground) (6:08)
 2. All I Need Is A Miracle (4:08)
@@ -24,6 +23,8 @@ styles: ["Pop Rock", "Synth-pop"]
 7. You Are The One (3:34)
 8. A Call To Arms (4:37)
 9. Taken In (4:16)
+## Spotify
+{{< spotify type="album" id="7pXUIU9n8JXEbQS95sodGr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ep7W89I_V_g" title="Mike & The Mechanics - Silent running" >}}
@@ -39,9 +40,7 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Mike + The Mechanics - Taken In (Official Video)](https://www.youtube.com/watch?v=8toBVYDKukU)
 - [Mike + The Mechanics - Mike + The Mechanics (Full Album 1985)](https://www.youtube.com/watch?v=dOtfmYM_GOs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -51,4 +50,3 @@ styles: ["Pop Rock", "Synth-pop"]
 | Catalog Number | 252 496-1 |
 
 Recorded at Air Studios Montserrat, Air London and The Farm.  ⓟ&© 1985 WEA International Inc.
-

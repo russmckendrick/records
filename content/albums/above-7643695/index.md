@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 ---
-
 ## Tracklisting
 1. Wake Up (7:36)
 2. X-Ray Mind (5:13)
@@ -30,6 +29,8 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 13. Black Book Of Fear (6:05)
 14. Slip Away (5:38)
 15. I Don't Wanna Be A Soldier (Remix) (5:52)
+## Spotify
+{{< spotify type="album" id="1cqta2uSKVYdom7CRMGDwn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Fm72DPJCX58" title="Mad Season - River Of Deceit" >}}
@@ -40,9 +41,7 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 - [Long Gone Day](https://www.youtube.com/watch?v=-1RdXVQN4ag)
 - [I'm Above](https://www.youtube.com/watch?v=rbvXpfvqJbc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
@@ -52,4 +51,3 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 | Catalog Number | MOVLP169 |
 
 Music On Vinyl PVC protective shrink wrap with two stickers: -White on black sticker reads:  Pearl Jam + Alice In Chains + Screaming Trees = MAD SEASON The lone album from the iconic Seattle supergroup INCLUDES three BRAND NEW tracks  featuring Mark Lanegan MOVLP169 180g vinyl -Gold on black sticker reads: Music On Vinyl exclusively remastered  180 gram audiophile vinyl pressing www.musiconvinyl.com  © 1995, 2013 Columbia Records, a division of Sony Music Entertainment / ℗ 1995 Hollywood Records, Inc. ; 1995, 2013 Columbia Records, a division of Sony Music Entertainment / Manufactured and Distributed by Music On Vinyl B.V. for Sony Music Entertainment / Made in the EU (...) MOVLP169  Runout details: everything is hand-etched on each side.  180 gram black vinyl housed in a gatefold jacket with deluxe black paper and plastic polylined inner sleeves. Expanded double 12" black vinyls edition: tracks C5, D1, D2 (previously unreleased) from the band's unfinished second album with newly recorded vocals by Mark Lanegan, track C4 is a previously unreleased instrumental "Interlude" and track D3 is a remixed version of Mad Season's cover of John Lennon's "I Don't Wanna Be A Soldier". Some releases come with a Music On Vinyl 4page promo. Made in the EU (on back cover and labels).  Reissue of the 2013 Record Store Day [release](https://www.discogs.com/release/4495855-Mad-Season-Above).
-

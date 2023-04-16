@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: null
 ---
-
 ## Tracklisting
 1. Only Friend (4:29)
 2. Ain't No Telling (3:52)
@@ -30,6 +29,8 @@ styles: null
 13. Bonus Material
 14. Turn (3:50)
 15. Mother's Eyes (5:24)
+## Spotify
+{{< spotify type="album" id="6CdJfbaGFV9yTIMzrJMoIm" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5mGALmFlHOA" title="The Temperance Movement - Only Friend (Rehearsal Session)" >}}
@@ -39,9 +40,7 @@ styles: null
 - [The Temperance Movement - Lovers and Fighters (Live from Portsmouth)](https://www.youtube.com/watch?v=TXnYc7Dnexg)
 - [The Temperance Movement - Only Friend (Live from Lincoln)](https://www.youtube.com/watch?v=nyexfGdS6BM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -51,4 +50,3 @@ styles: null
 | Catalog Number | MOSH502LP |
 
 A double classic LP. If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks.
-

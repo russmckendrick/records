@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
-
 ## Tracklisting
 1. The Spirit Of Radio
 2. Time Stand Still
@@ -41,18 +40,17 @@ styles: ["Prog Rock", "Hard Rock"]
 24. Far Cry
 25. La Villa Strangiato
 26. Working Man
-
+## Spotify
+{{< spotify type="album" id="1xL8HtoEpndXhfuawAVGDo" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Rush - Time Machine 2011: Live In Cleveland](https://www.discogs.com/release/13726336-Rush-Time-Machine-2011-Live-In-Cleveland) |
-| Label          | Anthem (5), Roadrunner Records |
+| Label          | Anthem, Roadrunner Records |
 | Format         | 4xLP, Album, RE, 180 |
 | Catalog Number | R1 176655, 081227934316 |
 
 Issued Under License To Roadrunner Records From ole Media Management L.P.  Printed in Canada - printed on back cover Manufactured in E.U. - printed on label RIM text  Download card included. Expires December 31, 2021
-

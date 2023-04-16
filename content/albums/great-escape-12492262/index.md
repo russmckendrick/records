@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. You Brought It Upon Yourselves
 2. To You I Give
@@ -26,15 +25,15 @@ styles: ["Prog Rock", "Post Rock"]
 9. Las Diabolicas
 10. Great Escape (Pt I)
 11. Great Escape (Pt II)
+## Spotify
+{{< spotify type="album" id="6F2EJ4TAUAyPShRxIa8EOj" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="CV07GXCsQGg" title="Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)" >}}
 - [Crippled Black Phoenix - Uncivil War (pt I)](https://www.youtube.com/watch?v=sF2xgZWPcHs)
 - [Crippled Black Phoenix - Great Escape (2018) Full Album Stream](https://www.youtube.com/watch?v=C0KCueuqvt8)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +43,3 @@ styles: ["Prog Rock", "Post Rock"]
 | Catalog Number | SOM 491LP, SOM 491LPES |
 
 Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.  SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels.
-

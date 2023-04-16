@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. Delores' Boyfriend
 2. Viper's Drag
@@ -33,6 +32,8 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Her Mind Is Gone
 17. Moon River
 18. Bald Head
+## Spotify
+{{< spotify type="album" id="0CvKQbws4lBM0UopcAn7OK" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NKhE8YNU4cQ" title="Allen Toussaint - Big Chief [Official Audio]" >}}
@@ -52,9 +53,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Confessin' (That I Love You)](https://www.youtube.com/watch?v=VTvzPmI5hzo)
 - [Big Chief](https://www.youtube.com/watch?v=5xOgbMlESMs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -64,4 +63,3 @@ styles: ["Rhythm & Blues", "Soul"]
 | Catalog Number | 554656-1, 7559-79467-8 |
 
 Gatefold sleeve includes printed insert with credits and notes.   ℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.  Runouts are etched up to ᶜB, everything after is stamped. 
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
-
 ## Tracklisting
 1. Ruined
 2. Sex With An X
@@ -27,14 +26,14 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. Whitechapel
 11. My God's Bigger Than Your God
 12. Exit The Vaselines
+## Spotify
+{{< spotify type="album" id="485E7qOktHuqCNj9ivL8Xc" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="i1zMx4Eltbo" title="The Vaselines - I Hate The 80's (2010)" >}}
 - [The Vaselines - Sex With An X [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=GHIa3zr_vTQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -44,4 +43,3 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 | Catalog Number | SP 889 |
 
 Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.  ©℗2010 Under exclusive license to Sub Pop.  First 200 direct pre-orders from Sub Pop received this [bonus 7"](http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133).  Gatefold sleeve. 
-

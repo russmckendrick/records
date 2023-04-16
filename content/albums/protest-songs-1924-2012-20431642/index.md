@@ -13,7 +13,6 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska"]
 ---
-
 ## Tracklisting
 1. Freedom Highway
 2. Everybody Knows
@@ -27,6 +26,8 @@ styles: ["Ska"]
 10. I Live In A City
 11. Soldiers Who Want To Be Heroes
 12. Get Up, Stand Up
+## Spotify
+{{< spotify type="album" id="1Vs4NtfIU3YG1fEObg4TgZ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wfSTXDOURFI" title="The Specials - Freedom Highway" >}}
@@ -42,9 +43,7 @@ styles: ["Ska"]
 - [Soldiers Who Want To Be Heroes](https://www.youtube.com/watch?v=ESFTCcVSq38)
 - [Get Up, Stand Up](https://www.youtube.com/watch?v=Y-PkqGC9eEg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -54,4 +53,3 @@ styles: ["Ska"]
 | Catalog Number | 3840701 |
 
 180 grams heavyweight black vinyl.  Includes 12 page booklet with lyrics, credits and download card.
-

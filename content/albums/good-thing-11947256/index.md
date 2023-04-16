@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
-
 ## Tracklisting
 1. Bet Ain't Worth The Hand
 2. Bad Bad News
@@ -25,6 +24,8 @@ styles: ["Soul", "Contemporary R&B"]
 8. You Don't Know
 9. Mrs.
 10. Georgia To Texas
+## Spotify
+{{< spotify type="album" id="7J9fifadXb0PPSBWXctbi8" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Au3ZxR5zn6g" title="Leon Bridges - Georgia to Texas (Lyrics)" >}}
@@ -32,9 +33,7 @@ styles: ["Soul", "Contemporary R&B"]
 - [Leon Bridges - Forgive You (Official Audio)](https://www.youtube.com/watch?v=mK8NE8qtO8o)
 - [Leon Bridges: Good Thing - Available Now!](https://www.youtube.com/watch?v=g8t0-2U6tdQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -44,4 +43,3 @@ styles: ["Soul", "Contemporary R&B"]
 | Catalog Number | C-206928, 19075830351 |
 
 Signed copies feature a stickered barcode: 190758530611 Made in EU. Includes download code.
-

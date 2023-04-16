@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Experimental", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Hounds Of Love
 2. Running Up That Hill (A Deal With God) (4:56)
@@ -29,6 +28,8 @@ styles: ["Art Rock", "Experimental", "Pop Rock"]
 12. Jig Of Life (4:03)
 13. Hello Earth (6:10)
 14. The Morning Fog (2:32)
+## Spotify
+{{< spotify type="album" id="5G5UwqPsxDKpxJLX4xsyuh" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="wp43OdtAAkM" title="Kate Bush - Running Up That Hill - Official Music Video" >}}
@@ -36,9 +37,7 @@ styles: ["Art Rock", "Experimental", "Pop Rock"]
 - [Kate Bush - Hounds of Love - Official Music Video](https://www.youtube.com/watch?v=VerK4zwMRQw)
 - [Kate Bush - Cloudbusting - Official Music Video](https://www.youtube.com/watch?v=pllRW9wETzw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
@@ -48,4 +47,3 @@ styles: ["Art Rock", "Experimental", "Pop Rock"]
 | Catalog Number | KAB1, EJ 24 0384 1, EJ2403841 |
 
 Side B "The Ninth Wave" is a concept piece with all tracks segued into each other to appear as 'continuous audio'. Total duration of this track is 26:10.  Printed inner sleeve of lyrics, credits and photographs. Some copies included an inner merchandise leaflet. Matrix runout strings stamped. 'TOWNHOUSE' mastering signature etched.  Catalogue numbers: KAB1 and EJ 24 0384 1 can be found on the rear sleeve and spine. EJ2403841 can be found on the inner sleeve and labels. RB 8509 JU can be found on the rear sleeve (bottom right)  Engineer at Windmill Lane : Bill Somerville-Large. John Williams appears courtesy of [l19936]. Youth appears with kind permission of [l38030]. Helicopter on "Waking The Witch" by kind permission of [Pink Floyd "The Wall"](https://www.discogs.com/Pink-Floyd-The-Wall/master/11329). "Jig Of Life": original music discovered by Paddy Bush. "Hello Earth" contains elements of 'Tsintskaro', a Georgian folk song.  [Labels]; ℗ 1985 Original Sound Recordings made by Noverica Ltd. © 1985 Noverica Ltd. © Kate Bush Music Ltd. EMI Music Publishing Ltd. Manufactured in the UK by EMI Records Limited.  [Inner sleeve] © Kate Bush Music Ltd. EMI Music Publishing Ltd. Lyrics used by Permission.  [Rear sleeve]: ℗ 1985 Original Sound Recordings made by Noverica Ltd. © 1985 Noverica Ltd.  Durations do not appear on this release.
-

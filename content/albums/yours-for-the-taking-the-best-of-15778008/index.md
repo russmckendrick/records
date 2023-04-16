@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. For The Dead
 2. Be My Light, Be My Guide
@@ -39,9 +38,7 @@ styles: ["Indie Rock"]
 22. Let Me Move On (Long Version)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -51,4 +48,3 @@ styles: ["Indie Rock"]
 | Catalog Number | DEMREC734 |
 
 22 tracks compiled by the band.  Manufactured in the EU.
-

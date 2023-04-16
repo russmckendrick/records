@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Jazz", "Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Creation Of Tron (0:49)
 2. Only Solutions  (3:41)
@@ -53,16 +52,13 @@ styles: ["Soundtrack"]
 - [Anthem (TRON Soundtrack)](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
 - [Tron: End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Wendy Carlos - Tron (Original Motion Picture Soundtrack)](https://www.discogs.com/release/6035147-Wendy-Carlos-Tron-Original-Motion-Picture-Soundtrack) |
-| Label          | Audio Fidelity (3), Walt Disney Records |
+| Label          | Audio Fidelity, Walt Disney Records |
 | Format         | 2xLP, Album, Ltd, Num, RE, RM, Blu |
 | Catalog Number | AFZLP2 177 |
 
 Limited to 3000 copies, some copies have a number greater than 3000.  © Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music Made in U.S.A.
-

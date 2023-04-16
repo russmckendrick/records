@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Oh My Lover (3:57)
 2. O Stella (2:36)
@@ -26,14 +25,14 @@ styles: ["Indie Rock"]
 9. Plants And Rags (4:08)
 10. Fountain (3:52)
 11. Water (4:32)
+## Spotify
+{{< spotify type="album" id="08Plby1CLD0UNgChnPD8lo" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="ah9NdBKkEQY" title="PJ Harvey - Dress" >}}
 - [PJ Harvey - Sheela-Na-Gig](https://www.youtube.com/watch?v=Sjxr_No-yuY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock"]
 | Catalog Number | PURE 10 LP |
 
 On spine, printed: PURE 10 LP   P J HARVEY   DRY. With inner sleeve black with white lettering.  Includes download card.  Mastering consultant: Head Thank you Richard and Paul  The etching 'HLH' was made by Mike Hillier during cutting. It is his new-born daughter's initials.  Alternative version cut by Lex van Coeverden (runouts with etching "-LvC-") is here: [r17089623]
-

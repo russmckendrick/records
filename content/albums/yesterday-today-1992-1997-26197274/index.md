@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Ocean Colour Scene
 2. Talk On (04:04)
@@ -57,9 +56,7 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 40. It's A Beautiful Thing (06:30)
 
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
@@ -69,4 +66,3 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 | Catalog Number | DEMRECBOX75 |
 
  
-

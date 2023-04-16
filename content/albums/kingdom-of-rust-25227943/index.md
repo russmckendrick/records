@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock"]
 ---
-
 ## Tracklisting
 1. Jetstream (5:30)
 2. Kingdom Of Rust (5:09)
@@ -26,13 +25,13 @@ styles: ["Alternative Rock", "Post Rock"]
 9. Compulsion (5:12)
 10. House Of Mirrors (4:14)
 11. Lifelines (4:24)
+## Spotify
+{{< spotify type="album" id="1wTJNgMbDEkPRYCcTcDsTr" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust [Kingdom of rust] Music video" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -42,4 +41,3 @@ styles: ["Alternative Rock", "Post Rock"]
 | Catalog Number | 0888252 |
 
 Exclusive to the Doves official store, Sound Of Vinyl & Recordstore (Universal Music stores) on heavyweight double gold vinyl, hand numbered. Limited edition of 2000.
-

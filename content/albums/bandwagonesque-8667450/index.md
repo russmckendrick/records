@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. The Concept
 2. Satan
@@ -27,15 +26,15 @@ styles: ["Alternative Rock"]
 10. Alcoholiday
 11. Guiding Star
 12. Is This Music?
+## Spotify
+{{< spotify type="album" id="4M6vPZ4hQdOeH07D0JO2JQ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="xw49UgKoZnQ" title="Teenage Fanclub - Star Sign" >}}
 - [Teenage Fanclub - What You Do To Me](https://www.youtube.com/watch?v=SmJ3zOn9RD8)
 - [Teenage Fanclub - The Concept](https://www.youtube.com/watch?v=Er_JOsnwzcI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -45,4 +44,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | MOVLP336 |
 
 Limited to 500 numbered copies
-

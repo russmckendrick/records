@@ -13,7 +13,6 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: null
 ---
-
 ## Tracklisting
 1. Light Blue (4:06)
 2. Thick Skin (3:06)
@@ -25,14 +24,14 @@ styles: null
 8. Skating On The Glass (2:07)
 9. This Is What We Do (3:23)
 10. Ribbons (3:09)
+## Spotify
+{{< spotify type="album" id="02Lx6I5EsUDFIdnS3pSNNT" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}
 - [Will Stratton - Light blue](https://www.youtube.com/watch?v=FbgqMEmDroE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -42,4 +41,3 @@ styles: null
 | Catalog Number | BELLA616V |
 
 Includes download card and printed inner sleeve with lyrics and credits.
-

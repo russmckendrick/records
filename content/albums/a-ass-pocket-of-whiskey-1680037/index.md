@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric Blues"]
 ---
-
 ## Tracklisting
 1. Goin' Down South
 2. Boogie Chillen
@@ -25,13 +24,13 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 8. Walkin' Blues
 9. Tojo Told Hitler
 10. Have You Ever Been Lonely?
+## Spotify
+{{< spotify type="album" id="6bBWWTnN4B4wwGJpWlZFkW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="jI5qCXuD4Y4" title="R. L. BURNSIDE - A Pocket Ass of Whiskey (Full Album)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
@@ -41,4 +40,3 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 | Catalog Number | FP1026-1 |
 
 Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   can come with different stickers on shrink and download code  © + ℗ 1996 FAT POSSUM RECORDS, LLC (printing on both labels)   "All Rights Reserved All Wrongs Reversed" printed on Record Label both sides.    
-

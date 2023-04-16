@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop"]
 styles: null
 ---
-
 ## Tracklisting
 1. Intro (2:17)
 2. The Magic Number (3:14)
@@ -38,6 +37,8 @@ styles: null
 21. This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) (3:16)
 22. I Can Do Anything (Delacratic) (0:40)
 23. D.A.I.S.Y. Age (3:58)
+## Spotify
+{{< spotify type="album" id="34LxHI9x14qXUOS8AWRrYD" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}
@@ -64,16 +65,13 @@ styles: null
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/4686503-De-La-Soul-3-Feet-High-And-Rising) |
-| Label          | Rhino Records (2), Tommy Boy |
+| Label          | Rhino Records, Tommy Boy |
 | Format         | 2xLP, Album, RE |
 | Catalog Number | R1-81019 |
 
 Black Vinyl Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label.
-

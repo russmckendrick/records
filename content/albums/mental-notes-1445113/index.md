@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Late Last Night (4:05)
 2. Walking Down A Road (5:19)
@@ -25,6 +24,8 @@ styles: ["Prog Rock"]
 8. Matinee Idyll (2:54)
 9. The Woman Who Loves You (6:46)
 10. Mental Notes (0:30)
+## Spotify
+{{< spotify type="album" id="40kD3JoZgiQL0ZwH9OZ2Bg" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}
@@ -36,9 +37,7 @@ styles: ["Prog Rock"]
 - [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
 - [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
@@ -48,4 +47,3 @@ styles: ["Prog Rock"]
 | Catalog Number | CHR 1131, CHR-1131 |
 
 Released in a gatefold cover.  On the label the cat.nr. appears as ''CHR-1131''. Recorded at Basing St. Studios, London April/May 1976.  This is a re-recorded version with a new producer, new versions of old tracks and some new tracks.  
-

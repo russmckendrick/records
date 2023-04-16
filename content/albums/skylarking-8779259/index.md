@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Summer's Cauldron
 2. Grass
@@ -45,6 +44,8 @@ styles: ["New Wave", "Pop Rock"]
 28. Dear God
 29. Dying
 30. Sacrificial Bonfire
+## Spotify
+{{< spotify type="album" id="3FVsJiQMI7dp0RfTBdWtMW" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="p554R-Jq43A" title="XTC - Dear God" >}}
@@ -56,9 +57,7 @@ styles: ["New Wave", "Pop Rock"]
 - [XTC - Skylarking (Full Album) [HD]](https://www.youtube.com/watch?v=85J91FwPrTw)
 - [The meeting place](https://www.youtube.com/watch?v=fBxCxUFOBv0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -68,4 +67,3 @@ styles: ["New Wave", "Pop Rock"]
 | Catalog Number | APELPD108 |
 
 "A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking.   Including:  * 2 x 45rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * Cut from corrected polarity master  * CD of corrected polarity master  * Both album sleeves - sleeve as released and original proposed design  * All contents packaged in a sturdy slipcase."  - Ape House Ltd. 
-

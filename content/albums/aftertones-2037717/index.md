@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Ballad"]
 ---
-
 ## Tracklisting
 1. Aftertones (3:14)
 2. I Would Like To Dance (3:38)
@@ -25,6 +24,8 @@ styles: ["Ballad"]
 8. This Must Be Wrong (2:40)
 9. Don't Cry, Old Man (3:51)
 10. Hymn (4:08)
+## Spotify
+{{< spotify type="album" id="03jz5LMm85cJfaN5KLz31M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="NlY_DgfLMm8" title="Aftertones" >}}
@@ -37,9 +38,7 @@ styles: ["Ballad"]
 - [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
 - [I Would Like to Dance](https://www.youtube.com/watch?v=OUN1Yon-Q50)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1975 |
@@ -49,4 +48,3 @@ styles: ["Ballad"]
 | Catalog Number | PC 33919 |
 
 "T" in runouts denotes a [l403953] pressing.
-

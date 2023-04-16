@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock"]
 ---
-
 ## Tracklisting
 1. Intruder
 2. No Self Control
@@ -25,6 +24,8 @@ styles: ["Pop Rock", "Art Rock"]
 8. Not One Of Us
 9. Lead A Normal Life
 10. Biko
+## Spotify
+{{< spotify type="album" id="4jd6oC0It60c1J3GpXCv6M" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="3yEcTB2va5E" title="Peter Gabriel - No Self Control" >}}
@@ -37,9 +38,7 @@ styles: ["Pop Rock", "Art Rock"]
 - [Biko](https://www.youtube.com/watch?v=jsVieeccpQs)
 - [Peter Gabriel - Games Without Frontiers](https://www.youtube.com/watch?v=3xZmlUV8muY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Pop Rock", "Art Rock"]
 | Catalog Number | PGLPR3, 884108004173 |
 
 Half-Speed Remaster + Hi-Res Download Code  Pressing plant identified by runout.
-

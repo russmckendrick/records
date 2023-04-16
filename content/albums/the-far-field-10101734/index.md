@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Aladdin (4:13)
 2. Time On Her Side (3:39)
@@ -27,6 +26,8 @@ styles: ["Indie Rock", "Synth-pop"]
 10. Day Glow Fire (3:49)
 11. Shadows (4:05)
 12. Black Rose (3:25)
+## Spotify
+{{< spotify type="album" id="37Xk4WSzbCfYBFTHUHgDYv" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="5PFZnKYnL1s" title="Aladdin" >}}
@@ -42,9 +43,7 @@ styles: ["Indie Rock", "Synth-pop"]
 - [Future Islands - Cave (Official Lyric Video)](https://www.youtube.com/watch?v=RGrhubD8VDg)
 - [Future Islands - Ran (Official Video)](https://www.youtube.com/watch?v=MlQunle406U)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
@@ -54,4 +53,3 @@ styles: ["Indie Rock", "Synth-pop"]
 | Catalog Number | 4AD0001LPX, 4AD0001LP |
 
 Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. Feel Alive
 2. You Want To Be Free
@@ -27,6 +26,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 10. Slow Me Down
 11. Too Late
 12. 1000 Miles Away From You
+## Spotify
+{{< spotify type="album" id="19VD5DUg5Qf5C2SBBAmHT3" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="Gan5yrOagpc" title="Everything Is Changing ~  Anneke Van Giersbergen ~ Everything Is Changing" >}}
@@ -41,16 +42,13 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [You Want To Be Free ~ Anneke Van Giersbergen ~ Everything Is Changing](https://www.youtube.com/watch?v=WgaJrXt12Ls)
 - [100 Miles Away From You ~ Anneke Van Giersbergen ~  Everything is Changing](https://www.youtube.com/watch?v=vVubeoyTQo4)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Anneke van Giersbergen - Everything Is Changing](https://www.discogs.com/release/8628494-Anneke-van-Giersbergen-Everything-Is-Changing) |
-| Label          | Alone Records (2) |
+| Label          | Alone Records |
 | Format         | LP, Album, Ltd, Pic, RE |
 | Catalog Number | AR-064LPPIC |
 
 For the first time on vinyl, presented in gatefold jacket and printed inner sleeve. Limited to 500 copies on picture disc. Under exclusive license from InsideOut Music
-

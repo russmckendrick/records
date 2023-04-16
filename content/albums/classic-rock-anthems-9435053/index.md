@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. More Than A Feeling
 2. Eye Of The Tiger
@@ -35,11 +34,11 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 18. Barracuda
 19. Because The Night
 20. (Don't Fear) The Reaper
-
+## Spotify
+{{< spotify type="album" id="6xhhCNbvErbq2yyRTU7CtS" width="100%" height="500" >}}
 
 
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -49,4 +48,3 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 | Catalog Number |  DEMRECOMP001 |
 
 Vinyl exclusive.  2016 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company  Thanks: Colin Auchterlonie, Adrian Sear, Ben Duke.
-

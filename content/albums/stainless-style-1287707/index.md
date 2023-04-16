@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Pop"]
 styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 ---
-
 ## Tracklisting
 1. Neon Theme (2:22)
 2. Dream Cars (3:25)
@@ -27,6 +26,8 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 10. Michael Douglas (4:14)
 11. Luxury Pool (3:56)
 12. Stainless Style (1:59)
+## Spotify
+{{< spotify type="album" id="4gwCfJlNCswVeVL4jvYkmA" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="6tlv6gJH4E4" title="Neon Neon - Luxury Pool Feat. Fatlip" >}}
@@ -41,9 +42,7 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 - [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)
 - [Neon Neon - Michael Douglas](https://www.youtube.com/watch?v=OzRkNvC7yiI)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
@@ -53,4 +52,3 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 | Catalog Number | LEX067LP |
 
 With printed inner sleeve and lyrics insert
-

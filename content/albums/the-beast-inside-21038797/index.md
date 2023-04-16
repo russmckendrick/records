@@ -13,7 +13,6 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
-
 ## Tracklisting
 1. Caravan
 2. Please Be Cruel
@@ -26,6 +25,8 @@ styles: ["Indie Pop"]
 9. Mermaid
 10. Further Away
 11. Dreams Are All We Have
+## Spotify
+{{< spotify type="album" id="5Iv8JZCiHflefOwvkEXOqx" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="lxGkMeS-5eI" title="Inspiral Carpets - Caravan" >}}
@@ -39,9 +40,7 @@ styles: ["Indie Pop"]
 - [Further Away](https://www.youtube.com/watch?v=XdODbhPsHLQ)
 - [Dreams Are All We Have](https://www.youtube.com/watch?v=ZuEIxhrGYUY)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -51,4 +50,3 @@ styles: ["Indie Pop"]
 | Catalog Number | Ldung14 |
 
 Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).  Single jacket sleeve with two printed innersleeves. Tracks listed sequentially on side labels.  "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."
-

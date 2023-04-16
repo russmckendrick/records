@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
-
 ## Tracklisting
 1. Black Smoke
 2. Buried Here
@@ -25,13 +24,13 @@ styles: ["Prog Rock"]
 8. Field Day Part 2
 9. Familiar Patterns
 10. Leaves Leave Me
+## Spotify
+{{< spotify type="album" id="0kttM7jNGfit5uxoxYYpBn" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="IYBB2iHfutE" title="Bruce Soord - Familiar Patterns (from Bruce Soord)" >}}
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -41,4 +40,3 @@ styles: ["Prog Rock"]
 | Catalog Number | KSCOPE915 |
 
 Digital download code inside
-

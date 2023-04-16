@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Punk", "Hardcore"]
 ---
-
 ## Tracklisting
 1. Time To Relax
 2. Nitro [Youth Energy]
@@ -29,6 +28,8 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 12. So Alone
 13. Not The One
 14. Smash
+## Spotify
+{{< spotify type="album" id="7IDywTRaCI8qzS3X8tNU3x" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="1jOk8dk-qaU" title="The Offspring - Come Out And Play" >}}
@@ -49,9 +50,7 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 - [Not the One](https://www.youtube.com/watch?v=9SSfTP0BB6s)
 - [Smash](https://www.youtube.com/watch?v=rlkcRLkyVsw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
@@ -61,4 +60,3 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 | Catalog Number | 86868-1 |
 
 Tracks listed sequentially on labels and back cover.   Comes with a printed inner sleeve with song lyrics, Thanks and Credits. Sticker on front reads: "Digitally Remastered from the original master tape"  All Songs Written By The Offspring Additional recording at The Hook, North Hollywood All Rights Reserved. Used By Permission. Except Killboy Powerhead, published by Touch and Go Records.  1994,2008 Epitaph 2798 Sunset Blvd, Los Angeles, CA 90026
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Art Rock", "Prog Rock", "Fusion"]
 ---
-
 ## Tracklisting
 1. Luminol (12:10)
 2. Drive Home (7:37)
@@ -21,6 +20,8 @@ styles: ["Art Rock", "Prog Rock", "Fusion"]
 4. The Pin Drop (5:03)
 5. The Watchmaker (11:42)
 6. The Raven That Refused To Sing (7:57)
+## Spotify
+{{< spotify type="album" id="2xJFvV7JzoYYMere5rqjVf" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_aGzrVi87n8" title="Steven Wilson - Luminol (Demo)" >}}
@@ -36,9 +37,7 @@ styles: ["Art Rock", "Prog Rock", "Fusion"]
 - [Steven Wilson - The Watchmaker (Demo)](https://www.youtube.com/watch?v=j1IDWwKHqFA)
 - [Steven Wilson - The Raven That Refused To Sing (Demo)](https://www.youtube.com/watch?v=AXIY8tLqmy0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
@@ -48,4 +47,3 @@ styles: ["Art Rock", "Prog Rock", "Fusion"]
 | Catalog Number | KSCOPE835 |
 
 This vinyl edition of the album is pressed on black 180 gram vinyl and is packaged in a gatefold sleeve with printed inners. It comes with an mp3 download code, exclusive to Burning Shed orders.  "The copyright in this recording is owned by Steven Wilson under exclusive licence to Kscope ℗ 2013 Steven Wilson © 2013 Steven Wilson. Made in Germany."  "Recorded at East West Studios, Los Angeles 15th-21st September 2012. Strings performed and recorded at Angel Studio 17th October 2012. Mellotron overdubs recorded at DGM using the original King Crimson MKII mellotron. Elements also retained from the demos which were recorded between Jan-July 2012. Final overdubs and mix at No Man's Land, October 2012."  "All songs written by Steven Wilson. Published by Hands Off It's Mine Publishing, exclusively administered by Universal Music Publishing."  [Hype sticker](https://img.discogs.com/6CqvTXWMsGiZhENhM29rH3pYlGc=/fit-in/300x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4327479-1362576447-3346.jpeg.jpg) - Steven Wilson The Raven that Refused to Sing (and Other Stories) 2LP 180gm HEAVYWEIGHT VINYL EDITION The new album from the Grammy-nominated writer, producer, & Porcupine Tree founder member. Engineered by Alan Parsons. "Truly a man for all seasons" Mojo "Steven Wilson is a contemporary genius" Record Collector [Kscope logo] 835 kscopemusic.com/stevenwilson
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 ---
-
 ## Tracklisting
 1. She Cries Your Name
 2. Tangent
@@ -25,6 +24,8 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 8. Someone's Daughter
 9. I Wish I Never Saw The Sunshine
 10. Galaxy Of Emptiness
+## Spotify
+{{< spotify type="album" id="5WpjO5MZRlFohnZ1EeIcsy" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}
@@ -38,9 +39,7 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 - [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
@@ -50,4 +49,3 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 | Catalog Number | plain149 |
 
 Ⓟ 1996 Deconstruction Ltd. © 2010 Runt LLC  180 gram vinyl  Custom inner sleeve 
-

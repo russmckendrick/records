@@ -13,7 +13,6 @@ cover:
 genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. Diamondback Arrives
 2. Final Battle - Part 1
@@ -80,16 +79,13 @@ styles: ["Soundtrack"]
 - [Adrian Younge & Ali Shaheed Muhammad - Cottonmouth Theme](https://www.youtube.com/watch?v=7R8WxNN7h78)
 - [Adrian Younge & Ali Shaheed Muhammad - Luke Cops](https://www.youtube.com/watch?v=VMUS_42cLmE)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Adrian Younge & Ali Shaheed Muhammad - Luke Cage - Original Soundtrack](https://www.discogs.com/release/9299784-Adrian-Younge-Ali-Shaheed-Muhammad-Luke-Cage-Original-Soundtrack) |
-| Label          | Mondo (3) |
+| Label          | Mondo |
 | Format         | 2xLP, Album, Yel |
 | Catalog Number | MOND-094 |
-
 
 

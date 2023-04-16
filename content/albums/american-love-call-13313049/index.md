@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
-
 ## Tracklisting
 1. American Love Call (LP)
 2. Morning In America
@@ -33,6 +32,8 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Circles (Demo)
 17. Don't You Know (Instrumental)
 18. Walk Away (Instrumental)
+## Spotify
+{{< spotify type="album" id="7FU0CDJvPwKDWRXtHYcsoY" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="D5ndo2SjB88" title="Morning In America - Durand Jones & The Indications" >}}
@@ -49,9 +50,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [How Can I Be Sure](https://www.youtube.com/watch?v=Ouut4xyeOIU)
 - [True Love](https://www.youtube.com/watch?v=L8demwJ3318)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -61,4 +60,3 @@ styles: ["Rhythm & Blues", "Soul"]
 | Catalog Number | DOC 177 |
 
 Rough Trade exclusive pressing on transparent purple vinyl; includes a download code for digital copies of the LP and a bonus "Demo Tracks" CD.
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 ---
-
 ## Tracklisting
 1. D.I.S.C.O.
 2. Amigo
@@ -35,6 +34,8 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 18. Unlock The Funk
 19. You Gotta Be A Hustler
 20. I Think It's Gonna Rain
+## Spotify
+{{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="c-NmtskiSzo" title="Radio Active (Face A) (1980)" >}}
@@ -59,9 +60,7 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 - [Sue Wilkinson - You've Got to be a Hustler - TOTP 1980 [HD]](https://www.youtube.com/watch?v=rT0T6ErJEJU)
 - [UB40 - I Think It's Going to Rain Today (Lyrics)](https://www.youtube.com/watch?v=JSUhwUF5P_w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
@@ -71,4 +70,3 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 | Catalog Number | RTL 2049 |
 
 Subtitled "20 Electric Hits"  Track B5 title shortened to 'Lies' on sleeve tracklist. 
-

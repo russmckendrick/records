@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. I Am One
 2. Siva
@@ -26,6 +25,8 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 9. Window Paine
 10. Daydream
 11. I'm Going Crazy
+## Spotify
+{{< spotify type="album" id="14gI3ml0wxlgVrX1ve8zyJ" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="E2RDyA8id0A" title="Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}" >}}
@@ -39,9 +40,7 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 - [Snail (Remastered 2011)](https://www.youtube.com/watch?v=7rGxhKC33GI)
 - [Tristessa (Remastered 2011)](https://www.youtube.com/watch?v=-n-0mbX5E4w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
@@ -51,4 +50,3 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 | Catalog Number | 5099990959615 |
 
 Includes download code   [l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring.   Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.   ℗ 2011 Virgin Records America, Inc. © 2011 Virgin Records America, Inc. 
-

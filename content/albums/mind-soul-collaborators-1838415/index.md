@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Reggae", "Folk, World, & Country"]
 styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Techno", "Ska", "Ambient", "Acid", "Tribal", "Folk"]
 ---
-
 ## Tracklisting
 1. Please Don't Fight
 2. Crossed Lines
@@ -31,9 +30,7 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 - [Back to the planet - Daydream (Orbital Remix)](https://www.youtube.com/watch?v=suNsAIWYIL8)
 - [Back to the Planet Sleepless Nights and Reprise.](https://www.youtube.com/watch?v=lNSEV-_tJh0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1993 |
@@ -41,6 +38,5 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 | Label          | Parallel Records |
 | Format         | LP, Album |
 | Catalog Number | ALLP2 |
-
 
 

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
 ---
-
 ## Tracklisting
 1. Loaded EP
 2. Loaded (7:00)
@@ -73,9 +72,7 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 - [Primal Scream - Shine Like Stars (Andrew Weatherall Remix - Official Visualiser)](https://www.youtube.com/watch?v=eo61_ibHeaQ)
 - [Shine Like Stars (Instrumental)](https://www.youtube.com/watch?v=3DvlsOxq21w)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
@@ -85,4 +82,3 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 | Catalog Number | 19439904541 |
 
 Includes download code and 3 Paul Carnell art prints.  A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets.  Some others are packaged upside down and the back cover is attached to the front side of the box.
-

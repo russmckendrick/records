@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ---
-
 ## Tracklisting
 1. Bruise Pusher (3:57)
 2. Evaporate (5:38)
@@ -25,15 +24,15 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 8. In Sunny Landscapes (5:28)
 9. Lapsing (4:09)
 10. Howling At The Clouds (4:24)
+## Spotify
+{{< spotify type="album" id="5T15801QXtprSpZFrDxQpb" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="oZ_ArHLW43I" title="Midas Fall - Glue" >}}
 - [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
 - [Midas Fall - Evaporate (Live Session)](https://www.youtube.com/watch?v=U_KKsAY55qM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
@@ -43,4 +42,3 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 | Catalog Number | MONO-130VNL |
 
 Limited to 500 copies on 180g vinyl (300 clear blue & black, 200 black) Colours were randomly distributed Includes CD of the Album in Card Sleeve
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ---
-
 ## Tracklisting
 1. Element (Loops Variation)
 2. Milk Loop
@@ -37,6 +36,8 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 20. Conduit
 21. Ivana Vessel
 22. Battle Ropes 
+## Spotify
+{{< spotify type="album" id="2BmZLziYKcz046KjcpOwf7" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}
@@ -52,9 +53,7 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 - [Majic Milk (Loops Variation)](https://www.youtube.com/watch?v=pFhCwUdCf6g)
 - [Jane Weaver new album . Loops In The Secret Society / 2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
@@ -64,4 +63,3 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 | Catalog Number | FIRELP538 |
 
 Deluxe Double Gatefold Vinyl Plus High Quality Download
-

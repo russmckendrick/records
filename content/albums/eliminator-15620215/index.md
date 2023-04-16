@@ -13,7 +13,6 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 ---
-
 ## Tracklisting
 1. Gimme All Your Lovin (3:59)
 2. Got Me Under Pressure (3:59)
@@ -26,6 +25,8 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 9. Dirty Dog (4:05)
 10. If I Could Only Flag Her Down (3:40)
 11. Bad Girl (3:16)
+## Spotify
+{{< spotify type="album" id="5LMGAYhn2ywaxGZdtmXGpw" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="_k1VSeudgxA" title="Gimme All Your Lovin'" >}}
@@ -54,9 +55,7 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 - [Bad Girl (2008 Remaster)](https://www.youtube.com/watch?v=xQ9mozbgHDE)
 - [ZZ Top – TV Dinners](https://www.youtube.com/watch?v=8Hw8awUO4rs)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1983 |
@@ -66,4 +65,3 @@ styles: ["Southern Rock", "Texas Blues", "Blues Rock"]
 | Catalog Number | 92-3774-1 |
 
 ©  ℗ 1983 Warner Bros. Records Inc.  Bob Ludwig Credited on packaging as "Engineer".   
-

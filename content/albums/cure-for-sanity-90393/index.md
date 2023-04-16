@@ -13,7 +13,6 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 ---
-
 ## Tracklisting
 1. The Incredible P.W.E.I Vs. The Moral Majority (1:33)
 2. Dance Of The Mad Bastards (5:30)
@@ -32,6 +31,8 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 15. 92°F (The 3rd Degree) (5:37)
 16. Lived In Splendour:  Died In Chaos (5:05)
 17. The Beat That Refused To Die (1:39)
+## Spotify
+{{< spotify type="album" id="6yuGZO9460TzKMMZ7qQZez" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="pk51UnRyzlM" title="Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards" >}}
@@ -54,9 +55,7 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 - [X, Y & Zee](https://www.youtube.com/watch?v=5Ec0o93zoYI)
 - [Medicine Man Speak With Forked Tongue](https://www.youtube.com/watch?v=9m0_amxpUv0)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
@@ -66,4 +65,3 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 | Catalog Number | PL 74828, PL74828 |
 
 As per many of the original issues of this album, A7 is mislabelled '(Edited Highlights)' instead of '(Extra Time Mix)'.  Label: Flood courtesy of 140 dB ℗ 1990 BMG Records (UK) Ltd The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd Made in West Germany Fabrique en Allemagne   Cover: ℗1990 BMG Records (UK) Ltd The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd  ©1990 BMG Records (UK) Ltd  All Trade Marks and Logos are Protected RCA is a Registered Trademark of the Recording Corporation of America Distributed in the UK by BMG Records. Distribué en Europe par BMG-Ariola. Vertrieb in Europa durch BMG-Ariola. A Bertelsmann Music Group Company. Printed in West Germany. Imprime en Allemagne.  Matrix / Runout note: Side A - Stamped, except 020 and last 1 (which looks like an inverted V) - are etched Side B - Stamped, except 020 - is etched
-

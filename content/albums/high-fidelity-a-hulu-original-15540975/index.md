@@ -13,7 +13,6 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
-
 ## Tracklisting
 1. I Can't Stand The Rain
 2. Didn't I
@@ -41,9 +40,7 @@ styles: ["Soundtrack"]
 - [Silk Rhodes - Pains](https://www.youtube.com/watch?v=SoxbvE1Doog)
 - [I Believe (When I Fall in Love It Will Be Forever)](https://www.youtube.com/watch?v=JO_b807HaLM)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -53,4 +50,3 @@ styles: ["Soundtrack"]
 | Catalog Number | MOND-163 |
 
  180 gram black vinyl
-

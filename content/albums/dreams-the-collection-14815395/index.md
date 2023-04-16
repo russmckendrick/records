@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
-
 ## Tracklisting
 1. Linger (4:34)
 2. Dreams (4:24)
@@ -35,9 +34,7 @@ styles: ["Alternative Rock"]
 - [The Cranberries - Ridiculous Thoughts (Official Music Video)](https://www.youtube.com/watch?v=7LM4Cb6wZUA)
 - [The Cranberries - Just My Imagination (Official Music Video)](https://www.youtube.com/watch?v=SHoHIL2ABVQ)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -47,4 +44,3 @@ styles: ["Alternative Rock"]
 | Catalog Number | 5389805 |
 
 Comes with a download card
-

@@ -13,7 +13,6 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
-
 ## Tracklisting
 1.  My Prayer
 2.  Why Should I?                        
@@ -27,6 +26,8 @@ styles: ["Rhythm & Blues"]
 10. On My Word Of Honor
 11. Heaven On Earth    
 12. Glory Of Love 
+## Spotify
+{{< spotify type="album" id="7l3vhUqMYbu62TIKSocf4B" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="T_zX6hPH84o" title="The Platters - Bewitched" >}}
@@ -35,9 +36,7 @@ styles: ["Rhythm & Blues"]
 - [The Platters - My Prayer](https://www.youtube.com/watch?v=FTqoTZ3lPsA)
 - [The Platters & Tony Williams - Bewitched, Bothered And Bewildered (VintageMusic.es)](https://www.youtube.com/watch?v=2YWAPun86Eg)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1956 |
@@ -47,4 +46,3 @@ styles: ["Rhythm & Blues"]
 | Catalog Number | MPL 6504 |
 
  Turquoise Blue Label printed on rear of sleeve. Distributed by Pye Records Ltd.
-

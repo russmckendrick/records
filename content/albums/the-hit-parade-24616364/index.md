@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
-
 ## Tracklisting
 1. Blue Eyes
 2. Go-Go Dancer
@@ -63,6 +62,8 @@ styles: ["Indie Rock"]
 46. Go Wild In The Country 
 47. U.F.O.
 48. Step Into Christmas 
+## Spotify
+{{< spotify type="album" id="4kMYJadv45yEXwAeOGRddM" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="d6PTTVI3qLc" title="The Wedding Present -  Blue Eyes" >}}
@@ -71,9 +72,7 @@ styles: ["Indie Rock"]
 - [The Wedding Present - Cattle and Cane](https://www.youtube.com/watch?v=AJr9GYf9FkQ)
 - [The Wedding Present - Silver Shorts (HD)](https://www.youtube.com/watch?v=xrh2iV7MISw)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
@@ -83,4 +82,3 @@ styles: ["Indie Rock"]
 | Catalog Number | 19658708791 |
 
 Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions. Vinyl discs held in top opening gloss inner sleeves of thin card. CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale". Hype sticker applied to the shrink-wrap.  Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.  The two CDs have the same tracks as the Vinyl. Runouts are hand etched excepting the GZ Media data which is laser etched.
-

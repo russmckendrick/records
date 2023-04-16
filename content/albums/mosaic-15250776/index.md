@@ -13,7 +13,6 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
-
 ## Tracklisting
 1. Mosaic
 2. Is This It?
@@ -24,6 +23,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. It's Never Quiet
 8. MXI
 9. Two Faces
+## Spotify
+{{< spotify type="album" id="4UwKTEr9w2Q2GfJGkuSFxE" width="100%" height="500" >}}
 
 ## Videos
 {{< youtube id="cZSZcsb1hWI" title="Mosaic" >}}
@@ -34,9 +35,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Measure Of Things](https://www.youtube.com/watch?v=Tafxxhk42q8)
 - [It's Never Quiet](https://www.youtube.com/watch?v=vNVwJg3loXc)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
@@ -46,4 +45,3 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Catalog Number | GVR192755 |
 
 Packaged in a single jacket with color printed LP sleeve.  Pre-orders via the band came autographed on the back of the jacket by all members.  All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.  Tracks are numbered continuously on the color LP sleeve.
-
