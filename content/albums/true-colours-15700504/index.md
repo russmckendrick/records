@@ -2,7 +2,7 @@
 title: "Split Enz - True Colours"
 artist: "Split Enz"
 album_name: "True Colours"
-date: 2020-08-22
+date: 2020-08-22T13:04:32.000000Z
 release_id: "15700504"
 slug: "true-colours-15700504"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Shark Attack
 2. I Got You
@@ -25,8 +26,12 @@ styles: ["Pop Rock"]
 9. Poor Boy
 10. How Can I Resist Her
 11. The Choral Sea
+
+
 ## Spotify
 {{< spotify type="album" id="5UjwQ3co1TWY9458ojqjAj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}
@@ -44,7 +49,7 @@ styles: ["Pop Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Split Enz - True Colours](https://www.discogs.com/release/15700504-Split-Enz-True-Colours) |
 | Label          | Warner Music |
-| Format         | LP, Album, RE, 40t |
+| Format         | Vinyl LP Album Reissue Stereo (40th Anniversary Remix Edition, Green, Red/Green Sleeve) |
 | Catalog Number | 5419707418 |
 
 40th Anniversary, special issue of the LP pressed in four colors of vinyl (green, blue, yellow, orange) and housed in one of four various covers. The covers were released in the original first four sleeve color combinations (yellow/blue, red/green, purple/yellow, blue/orange).

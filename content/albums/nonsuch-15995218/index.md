@@ -2,7 +2,7 @@
 title: "XTC - Nonsuch"
 artist: "XTC"
 album_name: "Nonsuch"
-date: 2020-10-08
+date: 2020-10-08T11:08:50.000000Z
 release_id: "15995218"
 slug: "nonsuch-15995218"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Ballad Of Peter Pumpkinhead (5:00)
 2. My Bird Performs (3:51)
@@ -31,13 +32,17 @@ styles: ["Pop Rock"]
 15. The Ugly Underneath (3:54)
 16. Bungalow (2:49)
 17. Books Are Burning (4:51)
+
+
 ## Spotify
 {{< spotify type="album" id="6WK4H6AhFAt4RhuTzLFJws" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="zyp3NMeiV_Q" title="XTC - The Disappointed" >}}
-- [XTC-Then She Appeared- Nonsuch 1992](https://www.youtube.com/watch?v=rkCeN4PLR10)
 - [XTC-The Disappointed -Official Promo Video](https://www.youtube.com/watch?v=ZG3YTqOlIkI)
+- [XTC-Then She Appeared- Nonsuch 1992](https://www.youtube.com/watch?v=rkCeN4PLR10)
 - [My Bird Performs (2001 Remaster)](https://www.youtube.com/watch?v=-fx8D1ixbys)
 - [XTC - Wrapped in Grey - Steven Wilson 2013 Stereo Mix](https://www.youtube.com/watch?v=4esd2g-d-rA)
 - [Dear Madam Barnum (2001 Remaster)](https://www.youtube.com/watch?v=Mm0GL6GAw2M)
@@ -54,7 +59,16 @@ styles: ["Pop Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [XTC - Nonsuch](https://www.discogs.com/release/15995218-XTC-Nonsuch) |
 | Label          | Ape House |
-| Format         | 2xLP, Album, RE, RM, 200 |
+| Format         | Vinyl 2× LP Album Reissue Remastered (200g, Gatefold) |
 | Catalog Number | APELPX110 |
 
-Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991. Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991. This edition remastered at Loud Mastering.  Published by BMG  Front cover image from John Speed's Map of Surrey 1611.  ℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd. Made in the EU.
+Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991.
+Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991.
+This edition remastered at Loud Mastering.
+
+Published by BMG
+
+Front cover image from John Speed's Map of Surrey 1611.
+
+℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd.
+Made in the EU.

@@ -2,7 +2,7 @@
 title: "Cranes - Population Four"
 artist: "Cranes"
 album_name: "Population Four"
-date: 2020-08-21
+date: 2020-08-21T05:57:24.000000Z
 release_id: "15796529"
 slug: "population-four-15796529"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Tangled Up (3:38)
 2. Fourteen (3:15)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. Brazil (2:30)
 10. Let Go (3:31)
 11. To Be (4:55)
+
+
 ## Spotify
 {{< spotify type="album" id="4n6tTCMAv1nL8Rn91xnLmu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8O5YYeaseyk" title="Cranes - Tangled Up" >}}
@@ -47,8 +52,28 @@ styles: ["Alternative Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Cranes - Population Four](https://www.discogs.com/release/15796529-Cranes-Population-Four) |
-| Label          | Music On Vinyl, Dedicated |
-| Format         | LP, Album, Ltd, Num, RE, Blu |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & White Swirled, 180g) |
 | Catalog Number | MOVLP2598 |
 
-Limited edition of 1500 numbered copies on blue & white swirled vinyl Available on vinyl for the first time Includes insert 180 gram audiophile vinyl [sticker on protective sleeve front]  Recorded at Stanbridge Farm, Sussex, May-June 1996. (except # 6 recorded at Piercing Sound, Burbank, CA 1995.) Mixed at First Protocol, [...]. Mastered at Tape to Tape [...]. © 1997, 2020 sony music entertainment. [insert]  originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment. manufactured & distributed by music on vinyl b.v. for sony music entertainment. made in the eu. [sleeve & labels]  Hype sticker on resealable protective sleeve front Stamp-numbering on rear sleeve 12" square insert & poly-lined inner sleeve
+Limited edition of 1500 numbered copies on blue & white swirled vinyl
+Available on vinyl for the first time
+Includes insert
+180 gram audiophile vinyl
+[sticker on protective sleeve front]
+
+Recorded at Stanbridge Farm, Sussex, May-June 1996.
+(except # 6 recorded at Piercing Sound, Burbank, CA 1995.)
+Mixed at First Protocol, [...].
+Mastered at Tape to Tape [...].
+© 1997, 2020 sony music entertainment.
+[insert]
+
+originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment.
+manufactured & distributed by music on vinyl b.v. for sony music entertainment.
+made in the eu.
+[sleeve & labels]
+
+Hype sticker on resealable protective sleeve front
+Stamp-numbering on rear sleeve
+12" square insert & poly-lined inner sleeve

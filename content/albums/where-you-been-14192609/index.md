@@ -2,7 +2,7 @@
 title: "Dinosaur Jr. - Where You Been"
 artist: "Dinosaur Jr."
 album_name: "Where You Been"
-date: 2019-09-28
+date: 2019-09-28T07:52:21.000000Z
 release_id: "14192609"
 slug: "where-you-been-14192609"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Where You Been
 2. Out There
@@ -35,8 +36,12 @@ styles: ["Alternative Rock"]
 19. Keeblin' (Peel Session)
 20. Hide (Peel Session)
 21. Missing Link
+
+
 ## Spotify
 {{< spotify type="album" id="5mJss6O9hjbeESfqoBX1xM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}
@@ -50,7 +55,32 @@ styles: ["Alternative Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Dinosaur Jr. - Where You Been](https://www.discogs.com/release/14192609-Dinosaur-Jr-Where-You-Been) |
 | Label          | Cherry Red |
-| Format         | LP, Album, Blu + LP, Comp, Blu + Dlx, RE, RM |
+| Format         | Vinyl LP Album (Blue), Vinyl LP Compilation (Blue), All Media Deluxe Edition Reissue Remastered |
 | Catalog Number | PBREDD757 |
 
-Sticker: Remastered & expanded 2 LP Edition Contains bonus tracks & Peel Sessions  Package in a gatefold sleeve. Each LP is housed in a custom inner sleeve.  ℗ 2019 Cherry Red Records Ltd, except for Side D tracks 1-3 ℗ 1993 and 2019 BBC Worldwide Ltd and licensed courtesy of BBC Worldwide Ltd This compilation © 2019 Cherry Red Records Ltd www.cherryred.co.uk Made in EU  'Where You Been' released February 1993 Side C, track 1: 'Get Me' Single B-Side released November 1992. Side C, track 2: 'Quest' Australasian and Asia only EP released July 1993. (These are incorrect sleeve notes - C2 was issued on the 'Get Me' 12" and CD editions in UK and Europe  - see https://www.discogs.com/Dinosaur-Jr-Get-Me/master/5606) Side C, tracks 3 and 4: 'Start Choppin' Single B-Side released January 1993 Side C, track 5: 'Out There' Single B-Side released May 1993. Side D, tracks 1-3: Recorded for the John Peel Show, BBC Radio One (UK), November 24th 1992 (broadcast January 9th 1993) Side D, track 4: From the 'Judgement night' OST, released September 1993.  All tracks [...] published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd. except for Hot Burrito #2 [...] Irving Music/Universal Music Publishing Ltd and Missing Link [...] Careers BMG Music Publishing, Careers Music Inc, Universal Music Publishing International Ltd.  'Where You Been' [...] recorded mostly at Dreamland, then Master Control and Baby Monster [...]  Keeblin' engineered [...] at Wendell Recording Studio.  Pre-order came with pin 4x4 cm (compare photos).
+Sticker:
+Remastered & expanded 2 LP Edition
+Contains bonus tracks & Peel Sessions
+
+Package in a gatefold sleeve.
+Each LP is housed in a custom inner sleeve.
+
+℗ 2019 Cherry Red Records Ltd, except for Side D tracks 1-3 ℗ 1993 and 2019 BBC Worldwide Ltd and licensed courtesy of BBC Worldwide Ltd
+This compilation © 2019 Cherry Red Records Ltd
+www.cherryred.co.uk Made in EU
+
+'Where You Been' released February 1993
+Side C, track 1: 'Get Me' Single B-Side released November 1992.
+Side C, track 2: 'Quest' Australasian and Asia only EP released July 1993. (These are incorrect sleeve notes - C2 was issued on the 'Get Me' 12" and CD editions in UK and Europe  - see https://www.discogs.com/Dinosaur-Jr-Get-Me/master/5606)
+Side C, tracks 3 and 4: 'Start Choppin' Single B-Side released January 1993
+Side C, track 5: 'Out There' Single B-Side released May 1993.
+Side D, tracks 1-3: Recorded for the John Peel Show, BBC Radio One (UK), November 24th 1992 (broadcast January 9th 1993)
+Side D, track 4: From the 'Judgement night' OST, released September 1993.
+
+All tracks [...] published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd. except for Hot Burrito #2 [...] Irving Music/Universal Music Publishing Ltd and Missing Link [...] Careers BMG Music Publishing, Careers Music Inc, Universal Music Publishing International Ltd.
+
+'Where You Been' [...] recorded mostly at Dreamland, then Master Control and Baby Monster [...]
+
+Keeblin' engineered [...] at Wendell Recording Studio.
+
+Pre-order came with pin 4x4 cm (compare photos).

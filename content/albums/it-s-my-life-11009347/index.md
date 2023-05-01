@@ -2,7 +2,7 @@
 title: "Talk Talk - It's My Life"
 artist: "Talk Talk"
 album_name: "It's My Life"
-date: 2017-11-04
+date: 2017-11-04T16:14:39.000000Z
 release_id: "11009347"
 slug: "it-s-my-life-11009347"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Dum Dum Girl
 2. Such A Shame
@@ -23,8 +24,12 @@ styles: ["Synth-pop"]
 7. Call In The Night Boy
 8. Does Caroline Know?
 9. It's You
+
+
 ## Spotify
 {{< spotify type="album" id="152Hw6E0tNz3EQNq9c1CDf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cFH5JgyZK1I" title="Talk Talk - It's My Life ( Official Video)" >}}
@@ -45,7 +50,12 @@ styles: ["Synth-pop"]
 | Release Year   | 2017 |
 | Discogs Link   | [Talk Talk - It's My Life](https://www.discogs.com/release/11009347-Talk-Talk-Its-My-Life) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 0190295792619 |
 
-Inner sleeve in glossy paper.  Published by: Universal/Island Music Ltd. except: A1/A4: Universal/Island Music Ltd./Imagem London Ltd. B2: Universal/Island Music Ltd./DWB Music Ltd.
+Inner sleeve in glossy paper.
+
+Published by: Universal/Island Music Ltd.
+except:
+A1/A4: Universal/Island Music Ltd./Imagem London Ltd.
+B2: Universal/Island Music Ltd./DWB Music Ltd.

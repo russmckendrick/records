@@ -2,7 +2,7 @@
 title: "Steve Harley & Cockney Rebel - The Best Years Of Our Lives"
 artist: "Steve Harley & Cockney Rebel"
 album_name: "The Best Years Of Our Lives"
-date: 2021-04-17
+date: 2021-04-17T01:25:05.000000Z
 release_id: "18332692"
 slug: "the-best-years-of-our-lives-18332692"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Introducing "The Best Years"
 2. The Mad, Mad Moonlight
@@ -29,12 +30,17 @@ styles: ["Classic Rock"]
 13. Mr Raffles (Man,It Was Mean) [Single Version]
 14. The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75)
 15. Sebastian (Live At Hammersmith Odeon 14/4/75)
+
+
 ## Spotify
 {{< spotify type="album" id="4D1oAjj0nxeAlsAJWAJn8g" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="G00gx11mKf4" title="Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975" >}}
 - [Introducing 'The Best Years' (2014 Remaster)](https://www.youtube.com/watch?v=qEiPqFwDs1E)
+- [The Mad, Mad Moonlight (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=jrRkOA8wbQY)
 - [The Mad Mad Moonlight (2014 Remaster)](https://www.youtube.com/watch?v=hDal-VyOkVM)
 - [Mr. Raffles (Man, It Was Mean)](https://www.youtube.com/watch?v=4hRJ4878OXw)
 - [It Wasn't Me (2014 Remaster)](https://www.youtube.com/watch?v=Vf8n-7c4Pmk)
@@ -45,7 +51,6 @@ styles: ["Classic Rock"]
 - [The Best Years of Our Lives (2014 Remaster)](https://www.youtube.com/watch?v=BvRz8aAm9E0)
 - [Another Journey (2014 Remaster)](https://www.youtube.com/watch?v=W_xqddFzJwo)
 - [The Best Years of Our Lives (Acoustic Version)](https://www.youtube.com/watch?v=nln6a7fJcmU)
-- [The Mad, Mad Moonlight (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=jrRkOA8wbQY)
 - [Hideaway (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=CbnMh9uyY6M)
 - [Panorama (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=0rg_k4dpzeQ)
 - [Panorama (Live at the Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=0rgyWfnZFWY)
@@ -66,8 +71,23 @@ styles: ["Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Steve Harley & Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692-Steve-Harley-Cockney-Rebel-The-Best-Years-Of-Our-Lives) |
-| Label          | Chrysalis Catalogue, Chrysalis Catalogue |
-| Format         | 2xLP, Album, RE, Ora |
-| Catalog Number | CRVX1383, 5060516095506 |
+| Label          | Chrysalis Catalogue |
+| Format         | Vinyl 2× LP Album Reissue (Orange & Blue / 2020 Reissue) |
+| Catalog Number | CRVX1383 |
 
-℗ 2020 ... in this compilation is owned by Chrysalis Records Limited © 2020 Chrysalis Records Limited Made in the UK  Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'  Credits on the inner sleeve say "2020 Reissue" although released in 2021  The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"  2020 Reissue Mastering / Lacquers: Alchemy Mastering "The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068]   Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.  Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974]
+℗ 2020 ... in this compilation is owned by Chrysalis Records Limited
+© 2020 Chrysalis Records Limited
+Made in the UK
+
+Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'
+
+Credits on the inner sleeve say "2020 Reissue" although released in 2021
+
+The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"
+
+2020 Reissue Mastering / Lacquers: Alchemy Mastering
+"The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068] 
+
+Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.
+
+Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974]

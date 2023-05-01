@@ -2,7 +2,7 @@
 title: "Tim Burgess - Vinyl Adventures From Istanbul To San Francisco"
 artist: "Tim Burgess"
 album_name: "Vinyl Adventures From Istanbul To San Francisco"
-date: 2016-08-09
+date: 2016-08-09T15:25:42.000000Z
 release_id: "8873659"
 slug: "vinyl-adventures-from-istanbul-to-san-francisco-8873659"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Blues", "Non-Music", "Pop", "Classical", "Folk, World, & Country"]
 styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Otis
 2. Rebel Waltz
@@ -33,6 +34,9 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 17. State Of The Nation
 18. Symphony #6 In B Minor, "Pathétique" Finale Adagio Lamentoso
 
+
+
+
 ## Videos
 {{< youtube id="V5Lreb5U87U" title="The Durutti Column - Otis" >}}
 
@@ -41,8 +45,10 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Tim Burgess - Vinyl Adventures From Istanbul To San Francisco](https://www.discogs.com/release/8873659-Tim-Burgess-Vinyl-Adventures-From-Istanbul-To-San-Francisco) |
-| Label          | O Genesis, O Genesis |
-| Format         | 2xLP, Comp, Ltd, Whi |
-| Catalog Number | OGEN62LP, OGEN62LPC |
+| Label          | O Genesis |
+| Format         | Vinyl 2× LP Compilation Limited Edition (White) |
+| Catalog Number | OGEN62LP |
 
-Signed copies were available from recordstore.co.uk  Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’. 
+Signed copies were available from recordstore.co.uk
+
+Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’. 

@@ -2,7 +2,7 @@
 title: "Scott Walker - Boy Child - The Best Of 1967 - 1970"
 artist: "Scott Walker"
 album_name: "Boy Child - The Best Of 1967 - 1970"
-date: 2022-04-24
+date: 2022-04-24T04:25:19.000000Z
 release_id: "22965146"
 slug: "boy-child-the-best-of-1967-1970-22965146"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Montague Terrace (In Blue)
 2. Such A Small Love
@@ -39,16 +40,17 @@ styles: ["Pop Rock"]
 23. The Rope And The Colt
 24. Epilogue: The War Is Over 
 
-## Videos
-{{< youtube id="14PSE0FJoUo" title="Scott Walker - Boy Child" >}}
+
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Scott Walker - Boy Child - The Best Of 1967 - 1970](https://www.discogs.com/release/22965146-Scott-Walker-Boy-Child-The-Best-Of-1967-1970) |
-| Label          | Fontana, UMC |
-| Format         | 2xLP, RSD, Comp, Ltd, RE, Whi |
+| Label          | Fontana |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (White) |
 | Catalog Number | 389 083-9 |
 
-RSD 2022. Gatefold cover.
+RSD 2022.
+Gatefold cover.

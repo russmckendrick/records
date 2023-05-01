@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - The Album Collection Vol. 2, 1987-1996"
 artist: "Bruce Springsteen"
 album_name: "The Album Collection Vol. 2, 1987-1996"
-date: 2018-05-18
+date: 2018-05-18T14:13:45.000000Z
 release_id: "12016516"
 slug: "the-album-collection-vol-2-1987-1996-12016516"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Album Collection Vol. 2, 1987-1996 by Bruce Springsteen"
     caption: "The Album Collection Vol. 2, 1987-1996 by Bruce Springsteen"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Tunnel Of Love
 2. Ain't Got You
@@ -92,6 +93,9 @@ styles: null
 76. Secret Garden (With Strings)
 77. Without You
 
+
+
+
 ## Videos
 {{< youtube id="IXfd8YN1lJo" title="Announcing The Album Collection Vol. 2, 1987-1996" >}}
 - [The Album Collection: Tunnel Of Love](https://www.youtube.com/watch?v=LYuuyVSn6VY)
@@ -108,7 +112,10 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Bruce Springsteen - The Album Collection Vol. 2, 1987-1996](https://www.discogs.com/release/12016516-Bruce-Springsteen-The-Album-Collection-Vol-2-1987-1996) |
 | Label          | Columbia |
-| Format         | 2xLP, Album, RE, RM + 2xLP, Album, RE, RM + LP, Al |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 12" EP Reissue Remastered, Vinyl 12" EP Remastered (First Vinyl Pressing), Box Set Compilation Limited Edition Numbered |
 | Catalog Number | 88985460181 |
 
-Certificate of authenticity with number inside the box. 60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996. The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD.  All other albums contained in the set are reissues.  
+Certificate of authenticity with number inside the box.
+60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996.
+The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD. 
+All other albums contained in the set are reissues.  

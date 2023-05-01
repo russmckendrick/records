@@ -2,7 +2,7 @@
 title: "Split Enz - History Never Repeats (The Best Of Split Enz)"
 artist: "Split Enz"
 album_name: "History Never Repeats (The Best Of Split Enz)"
-date: 2015-09-02
+date: 2015-09-02T18:25:23.000000Z
 release_id: "1414426"
 slug: "history-never-repeats-the-best-of-split-enz-1414426"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. I Got You (3:29)
 2. Hard Act To Follow (3:18)
@@ -26,6 +27,9 @@ styles: ["New Wave"]
 10. Dirty Creature (4:02)
 11. Poor Boy (3:26)
 
+
+
+
 ## Videos
 {{< youtube id="YUC_jE78FNE" title="Split Enz - Message To My Girl (1984)" >}}
 - [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
@@ -37,7 +41,7 @@ styles: ["New Wave"]
 | Release Year   | 1987 |
 | Discogs Link   | [Split Enz - History Never Repeats (The Best Of Split Enz)](https://www.discogs.com/release/1414426-Split-Enz-History-Never-Repeats-The-Best-Of-Split-Enz) |
 | Label          | A&M Records |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | SP-3289 |
 
 "B" on labels and "EMW" in runouts denotes an [l285745] pressing.

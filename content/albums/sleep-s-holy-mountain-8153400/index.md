@@ -2,7 +2,7 @@
 title: "Sleep - Sleep's Holy Mountain"
 artist: "Sleep"
 album_name: "Sleep's Holy Mountain"
-date: 2018-08-23
+date: 2018-08-23T19:24:24.000000Z
 release_id: "8153400"
 slug: "sleep-s-holy-mountain-8153400"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
+
 ## Tracklisting
 1. Dragonaut
 2. The Druid
@@ -23,12 +24,15 @@ styles: ["Stoner Rock"]
 7. Inside The Sun
 8. From Beyond
 9. Nain's Baptism
+
+
 ## Spotify
 {{< spotify type="album" id="6L7ENQZtfSKVAq1CIRZSxs" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="qMIS2BaDilY" title="Sleep - Dragonaut [Official Video]" >}}
-- [Sleep - Holy Mountain [Full Album | 1992]](https://www.youtube.com/watch?v=1WNxnQ39b38)
 - [Sleep - Dragonaut (Official Audio)](https://www.youtube.com/watch?v=2bRuKExTfGM)
 - [Sleep - The Druid (Official Audio)](https://www.youtube.com/watch?v=effUB0_T1pE)
 - [Sleep - Evil Gypsy/Solomons Theme (Official Audio)](https://www.youtube.com/watch?v=pDSztGsEHDA)
@@ -45,7 +49,11 @@ styles: ["Stoner Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Sleep - Sleep's Holy Mountain](https://www.discogs.com/release/8153400-Sleep-Sleeps-Holy-Mountain) |
 | Label          | Earache |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | MOSH079FDR |
 
-New edition on black vinyl with different matrix. Same layout as the [2015](https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007) press.  Comes with printed inner sleeve.  There is also [mispress](http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920) version on black vinyl, the copies were not issued for general sale.
+New edition on black vinyl with different matrix. Same layout as the [url=https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007]2015[/url] press.
+
+Comes with printed inner sleeve.
+
+There is also [url=http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920]mispress[/url] version on black vinyl, the copies were not issued for general sale.

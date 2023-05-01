@@ -2,7 +2,7 @@
 title: "Tool - Undertow"
 artist: "Tool"
 album_name: "Undertow"
-date: 2017-06-04
+date: 2017-06-04T10:36:25.000000Z
 release_id: "8126263"
 slug: "undertow-8126263"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Intolerance (4:54)
 2. Prison Sex (4:55)
@@ -24,8 +25,9 @@ styles: ["Hard Rock", "Prog Rock"]
 8. 4° (6:02)
 9. Flood (7:45)
 10. Disgustipated (15:47)
-## Spotify
-{{< spotify type="album" id="3Esn6LoXuWtLZNYq8FCzr0" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="BS0KZaaPNsk" title="TOOL - Intolerance (Audio)" >}}
@@ -46,8 +48,23 @@ styles: ["Hard Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2006 |
 | Discogs Link   | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-Undertow) |
-| Label          | Volcano, Tool Dissectional |
-| Format         | 2xLP, Album, RE |
+| Label          | Volcano (2) |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | 61422-31052-1 |
 
-This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment. 
+This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).
+
+Side "d" is listed as a second side "b" on the back of the release.
+
+This one comes sealed in new style without horizontal shrink overlap on back
+
+On labels:
+℗ & © 1993 Volcano Entertainment II, L.L.C.
+Manufactured by Zomba Recording Corporation.
+All rights reserved.  Printed in U.S.A.
+61422-31052-1
+
+On back of the vinyl jacket: 
+61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC.
+Manufactured in the United States by Sony BMG Music Entertainment.
+

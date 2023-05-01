@@ -2,7 +2,7 @@
 title: "Sepultura - Roots"
 artist: "Sepultura"
 album_name: "Roots"
-date: 2017-11-03
+date: 2017-11-03T18:39:15.000000Z
 release_id: "11088399"
 slug: "roots-11088399"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash", "Nu Metal"]
 ---
+
 ## Tracklisting
 1. Roots Bloody Roots
 2. Attitude
@@ -42,14 +43,18 @@ styles: ["Thrash", "Nu Metal"]
 26. Untitled (Demo)
 27. R.D.P. (Demo)
 28. Dusted (Demo)
+
+
 ## Spotify
 {{< spotify type="album" id="5JjnPCfpp6redrkKpXZAs8" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="0TanJ9jf-p4" title="Sepultura - Attitude [OFFICIAL VIDEO]" >}}
-- [Sepultura - Roots (Full Album)](https://www.youtube.com/watch?v=NXvPBe9ynsc)
+{{< youtube id="NXvPBe9ynsc" title="Sepultura - Roots (Full Album)" >}}
 - [Sepultura - Roots Bloody Roots [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=F_6IjeprfEs)
 - [Sepultura - Ratamahatta [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=NiwqRSCWw2g)
+- [Sepultura - Attitude [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0TanJ9jf-p4)
 
 ## Notes
 | Notes          |             |
@@ -57,7 +62,13 @@ styles: ["Thrash", "Nu Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [Sepultura - Roots](https://www.discogs.com/release/11088399-Sepultura-Roots) |
 | Label          | Roadrunner Records |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Catalog Number | R562035 |
 
-Newly remastered on 180G Vinyl. Bonus LP with rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with plain white lined inner sleeves.  LP1; C1,C2: Roots. (2017 remaster) C3-D8: Bonus tracks 
+Newly remastered on 180G Vinyl.
+Bonus LP with rare and unreleased demos, cover versions and live tracks.
+Comes in gatefold sleeve with plain white lined inner sleeves.
+
+LP1; C1,C2: Roots. (2017 remaster)
+C3-D8: Bonus tracks
+

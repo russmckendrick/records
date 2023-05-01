@@ -2,7 +2,7 @@
 title: "Extreme - Extreme"
 artist: "Extreme"
 album_name: "Extreme"
-date: 2021-03-11
+date: 2021-03-11T10:22:48.000000Z
 release_id: "16250003"
 slug: "extreme-16250003"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
+
 ## Tracklisting
 1. Little Girls (3:45)
 2. Wind Me Up (3:35)
@@ -24,8 +25,12 @@ styles: ["Funk Metal"]
 8. Smoke Signals (4:13)
 9. Flesh N' Blood (3:30)
 10. Rock A Bye Bye (5:55)
+
+
 ## Spotify
-{{< spotify type="album" id="7DKHQxJTI32UyCdDdGwvRC" width="100%" height="500" >}}
+{{< spotify type="album" id="3xYkhkrNNLDoQxkzC3yAtb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JZDF4RO8Y-E" title="Little Girls" >}}
@@ -46,8 +51,8 @@ styles: ["Funk Metal"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Extreme - Extreme](https://www.discogs.com/release/16250003-Extreme-Extreme) |
-| Label          | Lmlr, A&M Records |
-| Format         | LP, Album, Ltd, RE, Red |
+| Label          | Lmlr |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent) |
 | Catalog Number | 783 266 |
 
 Limited edition of 1,000 copies.

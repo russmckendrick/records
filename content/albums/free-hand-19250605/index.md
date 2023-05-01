@@ -2,7 +2,7 @@
 title: "Gentle Giant - Free Hand"
 artist: "Gentle Giant"
 album_name: "Free Hand"
-date: 2021-06-27
+date: 2021-06-27T01:57:33.000000Z
 release_id: "19250605"
 slug: "free-hand-19250605"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Transfer From The Original Analog Tapes 
 2. Just The Same (5:34)
@@ -30,8 +31,12 @@ styles: ["Prog Rock"]
 14. His Last Voyage (6:27)
 15. Talybont (2:43)
 16. Mobile (5:05)
+
+
 ## Spotify
 {{< spotify type="album" id="15UcGyiZaQujbZ2n8ACJ5y" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cr70zm9mI98" title="Just the Same (2012 Remaster)" >}}
@@ -47,8 +52,12 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Gentle Giant - Free Hand](https://www.discogs.com/release/19250605-Gentle-Giant-Free-Hand) |
-| Label          | Alucard, Alucard |
-| Format         | 2xLP, Album, RE, Gat |
-| Catalog Number | ALUGGV066, ALUGGV66 |
+| Label          | Alucard |
+| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Catalog Number | ALUGGV066 |
 
-Black vinyl release. Red vinyl pressing seen here [r19268482] White vinyl pressing seen here [r22115038]  Catalogue # on spine and sticker: ALUGGV066 Catalogue # on labels: ALUGGV66
+Black vinyl release. Red vinyl pressing seen here [r19268482]
+White vinyl pressing seen here [r22115038]
+
+Catalogue # on spine and sticker: ALUGGV066
+Catalogue # on labels: ALUGGV66

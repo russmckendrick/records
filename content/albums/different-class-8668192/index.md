@@ -2,7 +2,7 @@
 title: "Pulp - Different Class"
 artist: "Pulp"
 album_name: "Different Class"
-date: 2016-06-21
+date: 2016-06-21T16:38:39.000000Z
 release_id: "8668192"
 slug: "different-class-8668192"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
+
 ## Tracklisting
 1. Mis-Shapes
 2. Pencil Skirt
@@ -26,8 +27,12 @@ styles: ["Britpop"]
 10. Underwear
 11. Monday Morning
 12. Bar Italia
+
+
 ## Spotify
 {{< spotify type="album" id="3ly9T2L4pqTZijFgQssd3x" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yuTMWgOduFM" title="Pulp - Common People" >}}
@@ -45,8 +50,14 @@ styles: ["Britpop"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Pulp - Different Class](https://www.discogs.com/release/8668192-Pulp-Different-Class) |
-| Label          | Island Records, Island Records |
-| Format         | LP, Album, RE |
-| Catalog Number | 4785288, 00602547852885 |
+| Label          | Island Records |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | 4785288 |
 
-Includes a custom inner sleeve. There is a print error on the inner sleeve which lists track 6 as LIVE BED SHOW DOYLE.  This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.  ℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU.
+Includes a custom inner sleeve.
+There is a print error on the inner sleeve which lists track 6 as LIVE BED SHOW DOYLE.
+
+This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.
+
+℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd.
+Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU.

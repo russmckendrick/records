@@ -2,7 +2,7 @@
 title: "Genesis - BBC Broadcasts"
 artist: "Genesis"
 album_name: "BBC Broadcasts"
-date: 2023-03-04
+date: 2023-03-04T10:11:00.000000Z
 release_id: "26289155"
 slug: "bbc-broadcasts-26289155"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Paris (1972)
 2. The Musical Box
@@ -47,13 +48,20 @@ styles: ["Prog Rock", "Pop Rock"]
 31. Driving The Last Spike
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Genesis - BBC Broadcasts](https://www.discogs.com/release/26289155-Genesis-BBC-Broadcasts) |
-| Label          | EMI, UMC, BBC |
-| Format         | 3xLP, Comp |
+| Label          | EMI |
+| Format         | Vinyl 3× LP Compilation Stereo |
 | Catalog Number | 00602435686370 |
 
-Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)  Trifold sleeve. Made in the EU.  Photography By Knebwoth, BBC & Getty Images.
+Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)
+
+Trifold sleeve.
+Made in the EU.
+
+Photography By Knebwoth, BBC & Getty Images.

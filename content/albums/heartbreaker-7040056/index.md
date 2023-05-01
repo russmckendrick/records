@@ -2,7 +2,7 @@
 title: "Ryan Adams - Heartbreaker"
 artist: "Ryan Adams"
 album_name: "Heartbreaker"
-date: 2016-04-27
+date: 2016-04-27T16:45:46.000000Z
 release_id: "7040056"
 slug: "heartbreaker-7040056"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Acoustic"]
 ---
+
 ## Tracklisting
 1. (Argument With David Rawlings Concerning Morrissey)
 2. To Be Young (Is To Be Sad, Is To Be High)
@@ -29,8 +30,12 @@ styles: ["Acoustic"]
 13. Don't Ask For The Water
 14. In My Time Of Need
 15. Sweet Lil Gal (23rd/1st)
+
+
 ## Spotify
 {{< spotify type="album" id="7hmZCaBzp6mVrelxW6Ckrn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-Z0o7zWtu_0" title="[Argument with David Rawlings Concerning Morrisey]" >}}
@@ -54,8 +59,13 @@ styles: ["Acoustic"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Ryan Adams - Heartbreaker](https://www.discogs.com/release/7040056-Ryan-Adams-Heartbreaker) |
-| Label          | Pax Americana Record Company, Pax Americana Record Company |
-| Format         | 2xLP, Album, RE, 180 |
-| Catalog Number | PAX-AM 052, 00600753583609 |
+| Label          | Pax Americana Record Company |
+| Format         | Vinyl 2× LP Album Reissue (180 gram) |
+| Catalog Number | PAX-AM 052 |
 
-Includes a voucher to download 96/24 WAV version of the album.  MADE IN GERMANY sticker on shrink wrap on back cover.  PAX-AM 052 located in lower right corner of back cover. 00600753583609 located on spine, and labels.
+Includes a voucher to download 96/24 WAV version of the album.
+
+MADE IN GERMANY sticker on shrink wrap on back cover.
+
+PAX-AM 052 located in lower right corner of back cover.
+00600753583609 located on spine, and labels.

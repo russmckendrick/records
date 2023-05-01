@@ -2,7 +2,7 @@
 title: "Ozric Tentacles - Jurassic Shift"
 artist: "Ozric Tentacles"
 album_name: "Jurassic Shift"
-date: 2020-06-01
+date: 2020-06-01T13:34:09.000000Z
 release_id: "5159986"
 slug: "jurassic-shift-5159986"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Space Rock", "Prog Rock", "Ambient"]
 ---
+
 ## Tracklisting
 1. Sun Hair (5:43)
 2. Stretchy (6:51)
@@ -24,8 +25,12 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 8. Half Light In Thillai (5:35)
 9. Sun Hair (System 7 Stargate Mix) (8:32)
 10. Pteranodon (Hallucinogen Mix) (8:52)
+
+
 ## Spotify
 {{< spotify type="album" id="1sBTE8pk2bYgcqI3C0xBnw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FDixlKkQR2w" title="Sunhair (2020 Ed Wynne Remaster)" >}}
@@ -54,7 +59,12 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 | Release Year   | 2013 |
 | Discogs Link   | [Ozric Tentacles - Jurassic Shift](https://www.discogs.com/release/5159986-Ozric-Tentacles-Jurassic-Shift) |
 | Label          | Madfish |
-| Format         | LP, Album, RE, Pin + 12\" |
+| Format         | Vinyl LP Album Reissue (Pink 180g Vinyl, Gatefold), Vinyl 12" |
 | Catalog Number | SMALP955 |
 
-Recorded in 1992-1993 at The Mill, Somerset.  ℗1993 Snapper Music ©2013 Snapper Music  
+Recorded in 1992-1993 at The Mill, Somerset.
+
+℗1993 Snapper Music
+©2013 Snapper Music
+
+

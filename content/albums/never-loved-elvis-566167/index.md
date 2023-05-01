@@ -2,7 +2,7 @@
 title: "The Wonder Stuff - Never Loved Elvis"
 artist: "The Wonder Stuff"
 album_name: "Never Loved Elvis"
-date: 2019-01-12
+date: 2019-01-12T11:06:30.000000Z
 release_id: "566167"
 slug: "never-loved-elvis-566167"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Mission Drive (4:08)
 2. Play (2:47)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 11. Here Comes Everyone (3:53)
 12. Caught In My Shadow (3:48)
 13. 38 Line Poem (5:26)
+
+
 ## Spotify
 {{< spotify type="album" id="0sc97tRZV9gOJPacbs7ArY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)" >}}
@@ -42,8 +47,10 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [The Wonder Stuff - Never Loved Elvis](https://www.discogs.com/release/566167-The-Wonder-Stuff-Never-Loved-Elvis) |
-| Label          | The Far Out Recording Company, Polydor |
-| Format         | LP, Album |
+| Label          | The Far Out Recording Company |
+| Format         | Vinyl LP Album |
 | Catalog Number | 847252-1 |
 
-Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	 Comes with printed inner sleeve. Release date taken from 'Polydor News' press release.
+Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	
+Comes with printed inner sleeve.
+Release date taken from 'Polydor News' press release.

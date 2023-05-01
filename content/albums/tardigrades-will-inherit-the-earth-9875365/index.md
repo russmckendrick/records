@@ -2,7 +2,7 @@
 title: "The Mute Gods - Tardigrades Will Inherit The Earth"
 artist: "The Mute Gods"
 album_name: "Tardigrades Will Inherit The Earth"
-date: 2017-03-26
+date: 2017-03-26T10:56:25.000000Z
 release_id: "9875365"
 slug: "tardigrades-will-inherit-the-earth-9875365"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Saltatio Mortis (1:57)
 2. Animal Army (5:00)
@@ -39,8 +40,12 @@ styles: ["Prog Rock"]
 23. Hallelujah (5:50)
 24. The Andromeda Strain (2:56)
 25. Stranger Than Fiction (9:21)
+
+
 ## Spotify
-{{< spotify type="album" id="1IzlWLCqcCMHKjk6kZf3Bz" width="100%" height="500" >}}
+{{< spotify type="album" id="0Yfw9jIb7xvjiWNQt92ycQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="AlmmvkV5olE" title="THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)" >}}
@@ -52,8 +57,14 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Mute Gods - Tardigrades Will Inherit The Earth](https://www.discogs.com/release/9875365-The-Mute-Gods-Tardigrades-Will-Inherit-The-Earth) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | 2xLP, Album, 180 + CD, Album |
-| Catalog Number | IOMLP 474, 88985405511 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album (180 grams), CD Album |
+| Catalog Number | IOMLP 474 |
 
-Sleeve Gatefold Mirror Man: Michael Grassi Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).  Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43  InsideOut Music provided signed postcard from Nick Beggs with purchase of LP
+Sleeve Gatefold
+Mirror Man: Michael Grassi
+Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).
+
+Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43
+
+InsideOut Music provided signed postcard from Nick Beggs with purchase of LP

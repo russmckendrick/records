@@ -2,7 +2,7 @@
 title: "The Black Crowes - 1972"
 artist: "The Black Crowes"
 album_name: "1972"
-date: 2022-11-04
+date: 2022-11-04T06:16:49.000000Z
 release_id: "23147510"
 slug: "1972-23147510"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 ---
+
 ## Tracklisting
 1. Rocks Off
 2. The Slider
@@ -20,12 +21,16 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 4. Easy To Slip
 5. Moonage Daydream
 6. Papa Was A Rollin’ Stone
+
+
 ## Spotify
 {{< spotify type="album" id="1j5bnk2x6LNbB0kbWY4GFq" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="XMIyT4PsnSk" title="The Black Crowes - '1972' Studio Session [Amazon Original]" >}}
-- [The Black Crowes - 1972 (Full Album) 2022](https://www.youtube.com/watch?v=25_gvlilQpo)
+{{< youtube id="25_gvlilQpo" title="The Black Crowes - 1972 (Full Album) 2022" >}}
+- [The Black Crowes - '1972' Studio Session [Amazon Original]](https://www.youtube.com/watch?v=XMIyT4PsnSk)
 - [The Black Crowes – Papa Was A Rolling Stone](https://www.youtube.com/watch?v=rwOYwWPyrxk)
 - [THE BLACK CROWES new EP an Amazon Original EP titled 1972 + studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
 - [Black Crowes - You Wear It Well](https://www.youtube.com/watch?v=qNbe-OIomVs)
@@ -38,7 +43,17 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Black Crowes - 1972](https://www.discogs.com/release/23147510-The-Black-Crowes-1972) |
 | Label          | Silver Arrow |
-| Format         | LP |
+| Format         | Vinyl LP Stereo |
 | Catalog Number | SAR26LP |
 
-Recorded at Sunset Sound, Hollywood, California  Inner sleeve contains credits and photograph  ℗&© 2022 Silver Arrow Records  Made in the Czech Republic  U.K. release date: 22nd October 2022  The runout strings are stamped
+Recorded at Sunset Sound, Hollywood, California
+
+Inner sleeve contains credits and photograph
+
+℗&© 2022 Silver Arrow Records
+
+Made in the Czech Republic
+
+U.K. release date: 22nd October 2022
+
+The runout strings are stamped

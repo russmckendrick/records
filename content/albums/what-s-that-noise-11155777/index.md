@@ -2,7 +2,7 @@
 title: "Coldcut - What's That Noise?"
 artist: "Coldcut"
 album_name: "What's That Noise?"
-date: 2018-02-09
+date: 2018-02-09T11:47:15.000000Z
 release_id: "11155777"
 slug: "what-s-that-noise-11155777"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["House", "Breaks", "Downtempo"]
 ---
+
 ## Tracklisting
 1. People Hold On (3:58)
 2. Fat (Party And Bullshit) (4:17)
@@ -25,6 +26,9 @@ styles: ["House", "Breaks", "Downtempo"]
 9. Smoke 1 (4:40)
 10. Doctorin' The House (Say R Mix) (4:35)
 11. What's That Noise? (2:28)
+
+
+
 
 ## Videos
 {{< youtube id="tgYhZ5Ennig" title="Coldcut - What's That Noise? (Full Album)" >}}
@@ -78,8 +82,8 @@ styles: ["House", "Breaks", "Downtempo"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Coldcut - What's That Noise?](https://www.discogs.com/release/11155777-Coldcut-Whats-That-Noise) |
-| Label          | Sony Music, Legacy, BMG, Ahead Of Our Time, Big Life |
-| Format         | LP, Album, RE, 180 |
+| Label          | Sony Music |
+| Format         | Vinyl LP Album Reissue (180 gram) |
 | Catalog Number | 88985459671 |
 
 Includes download code

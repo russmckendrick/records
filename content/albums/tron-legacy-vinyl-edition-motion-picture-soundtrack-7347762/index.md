@@ -2,7 +2,7 @@
 title: "Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
 artist: "Daft Punk"
 album_name: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
-date: 2016-03-29
+date: 2016-03-29T16:24:24.000000Z
 release_id: "7347762"
 slug: "tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Classical", "Stage & Screen"]
 styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 ---
+
 ## Tracklisting
 1. Overture (2:28)
 2. The Grid (1:36)
@@ -45,22 +46,8 @@ styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 29. Reflections (2:36)
 30. Sunrise Prelude (2:55)
 
-## Videos
-{{< youtube id="o21ma47zVW8" title="Armory - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack)" >}}
-- [Unboxing: Daft Punk - Tron: Legacy (2x Vinyl 2022 Reissue)](https://www.youtube.com/watch?v=J8fec85seqw)
-- [Fall - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=GHwmK9djaKY)
-- [Tron Legacy End Titles - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=_RHx3irsR3I)
-- [Fall - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack)](https://www.youtube.com/watch?v=ZVWrDSftD8k)
-- [Flynn Lives - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=0z0On7QOqU0)
-- [Castor - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=ULtDCC9eiR0)
-- [Round One - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=eruPoAU6Yio)
-- [Finale - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=0epmDgPXyS4)
-- [Armory - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=XWTRkdGDvH8)
-- [C L U - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=LI55EDPxzZE)
-- [Solar Sailer - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=GsOV8VQkhQI)
-- [Disc Wars - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=sOfVg__PXao)
-- [Tron- Legacy vinyl edition motion picture soundtrack, music by Daft Punk](https://www.youtube.com/watch?v=OlRx8PUycXA)
-- [T.R.O.N : L.E.G.A.CY (2010) - Soundtrack (Full Vinyl Rip)](https://www.youtube.com/watch?v=GUpdmSVyJe0)
+
+
 
 ## Notes
 | Notes          |             |
@@ -68,7 +55,13 @@ styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 | Release Year   | 2015 |
 | Discogs Link   | [Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)](https://www.discogs.com/release/7347762-Daft-Punk-TRON-Legacy-Vinyl-Edition-Motion-Picture-Soundtrack) |
 | Label          | Walt Disney Records |
-| Format         | 2xLP, Album, RE, RP |
+| Format         | Vinyl 2× LP Album Reissue Repress |
 | Catalog Number | D001356101 |
 
-180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark. Unlike the [original limited release](http://www.discogs.com/release/2814077), no download code is included on the insert. Sticker: "Features two tracks previously unreleased on any physical format" ("[Sea Of Simulation](http://www.discogs.com/release/2585356)" and "[Sunrise Prelude](http://www.discogs.com/release/4241399)") Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.  Back and insert: This compilation ℗ 2011 Walt Disney Records Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD.
+180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark.
+Unlike the [url=http://www.discogs.com/release/2814077]original limited release[/url], no download code is included on the insert.
+Sticker: "Features two tracks previously unreleased on any physical format" ("[url=http://www.discogs.com/release/2585356]Sea Of Simulation[/url]" and "[url=http://www.discogs.com/release/4241399]Sunrise Prelude[/url]")
+Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.
+
+Back and insert: This compilation ℗ 2011 Walt Disney Records
+Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD.

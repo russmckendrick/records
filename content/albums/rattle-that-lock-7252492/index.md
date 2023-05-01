@@ -2,7 +2,7 @@
 title: "David Gilmour - Rattle That Lock"
 artist: "David Gilmour"
 album_name: "Rattle That Lock"
-date: 2015-09-18
+date: 2015-09-18T17:27:13.000000Z
 release_id: "7252492"
 slug: "rattle-that-lock-7252492"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. 5 A.M.
 2. Rattle That Lock
@@ -24,8 +25,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 8. The Girl In The Yellow Dress
 9. Today
 10. And Then...
+
+
 ## Spotify
 {{< spotify type="album" id="1gquhHnaFnshQuJGnHRpF9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lIoflO7R480" title="David Gilmour - 5 A.M. (Official Audio)" >}}
@@ -46,7 +51,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [David Gilmour - Rattle That Lock](https://www.discogs.com/release/7252492-David-Gilmour-Rattle-That-Lock) |
 | Label          | Columbia |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 88875123291 |
 
-Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions. [Download card of CD version (mp3)](http://www.discogs.com/release/9200296). Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release.
+Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions.
+[url=http://www.discogs.com/release/9200296]Download card of CD version (mp3)[/url]. Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release.

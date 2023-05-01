@@ -2,7 +2,7 @@
 title: "St. Vincent - MassEducation"
 artist: "St. Vincent"
 album_name: "MassEducation"
-date: 2018-10-14
+date: 2018-10-14T15:20:58.000000Z
 release_id: "12651681"
 slug: "masseducation-12651681"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic"]
 ---
+
 ## Tracklisting
 1. Slow Disco (2:30)
 2. Savior (4:18)
@@ -26,8 +27,12 @@ styles: ["Acoustic"]
 10. Happy Birthday, Johnny (3:24)
 11. Pills (4:59)
 12. Hang On Me (2:55)
+
+
 ## Spotify
 {{< spotify type="album" id="3XwQPcRrrSNxETjuD5ka5r" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xRHoqSIQnPg" title="New York (piano Version)" >}}
@@ -50,7 +55,11 @@ styles: ["Acoustic"]
 | Release Year   | 2018 |
 | Discogs Link   | [St. Vincent - MassEducation](https://www.discogs.com/release/12651681-St-Vincent-MassEducation) |
 | Label          | Loma Vista |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | LVR00448 |
 
-Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert.  Transparent front cover hype sticker placed on the shrink wrap.  Title on front cover is golden foil embossed.  Made in the EU.
+Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert. 
+Transparent front cover hype sticker placed on the shrink wrap. 
+Title on front cover is golden foil embossed.
+
+Made in the EU.

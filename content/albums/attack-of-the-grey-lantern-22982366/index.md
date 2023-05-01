@@ -2,7 +2,7 @@
 title: "Mansun - Attack Of The Grey Lantern "
 artist: "Mansun"
 album_name: "Attack Of The Grey Lantern "
-date: 2022-04-24
+date: 2022-04-24T04:23:08.000000Z
 release_id: "22982366"
 slug: "attack-of-the-grey-lantern-22982366"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
+
 ## Tracklisting
 1. The Chad Who Loved Me (5:02)
 2. Mansun's Only Love Song (5:55)
@@ -25,8 +26,12 @@ styles: ["Britpop"]
 9. Naked Twister (4:40)
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:39)
+
+
 ## Spotify
 {{< spotify type="album" id="7v04VQBNE3VmBxf7vbnpnL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}
@@ -43,7 +48,7 @@ styles: ["Britpop"]
 | Release Year   | 2022 |
 | Discogs Link   | [Mansun - Attack Of The Grey Lantern ](https://www.discogs.com/release/22982366-Mansun-Attack-Of-The-Grey-Lantern-) |
 | Label          | Kscope |
-| Format         | LP, Ltd, Pic |
+| Format         | Vinyl LP Record Store Day Limited Edition Picture Disc |
 | Catalog Number | KSCOPE1142 |
 
 RSD2022 Release

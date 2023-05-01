@@ -2,7 +2,7 @@
 title: "The Pretty Things - Latest Writs The Best Of... Greatest Hits"
 artist: "The Pretty Things"
 album_name: "Latest Writs The Best Of... Greatest Hits"
-date: 2018-12-22
+date: 2018-12-22T10:29:49.000000Z
 release_id: "10461741"
 slug: "latest-writs-the-best-of-greatest-hits-10461741"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Come See Me (2:42)
 2. Don't Bring Me Down (2:12)
@@ -29,13 +30,22 @@ styles: ["Classic Rock"]
 13. Cries From The Midnight Circus (6:29)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741-Pretty-Things-Latest-Writs-The-Best-Of-Greatest-Hits) |
 | Label          | Madfish |
-| Format         | LP, Comp, Ltd, Tur |
+| Format         | Vinyl LP Compilation Limited Edition (Turquoise vinyl) |
 | Catalog Number | SMALP 1085 |
 
-℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.   
+℗ 2017 Snapper Music Ltd
+© 2017 Snapper Music Ltd
+Made in Germany
+
+HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.
+
+
+

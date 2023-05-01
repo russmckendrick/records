@@ -2,7 +2,7 @@
 title: "Skunk Anansie - Paranoid & Sunburnt"
 artist: "Skunk Anansie"
 album_name: "Paranoid & Sunburnt"
-date: 2018-08-29
+date: 2018-08-29T18:40:03.000000Z
 release_id: "3270870"
 slug: "paranoid-sunburnt-3270870"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
+
 ## Tracklisting
 1. Selling Jesus
 2. Intellectualise My Blackness
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 9. And Here I Stand
 10. 100 Ways To Be A Good Girl
 11. Rise Up
+
+
 ## Spotify
 {{< spotify type="album" id="7xCSZZQEnMSSpzTgWzrPhG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="W-UPYJ7ugBM" title="Skunk Anansie - Intellectualise my blackness" >}}
@@ -46,7 +51,9 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Release Year   | 2008 |
 | Discogs Link   | [Skunk Anansie - Paranoid & Sunburnt](https://www.discogs.com/release/3270870-Skunk-Anansie-Paranoid-Sunburnt) |
 | Label          | One Little Indian |
-| Format         | 2xLP, Ltd, Num, RE, RM, 200 |
+| Format         | Vinyl 2× LP 45 RPM Limited Edition Numbered Reissue Remastered (200 Gram) |
 | Catalog Number | TPLP55DMM |
 
-Huge round sticker on front that states the following: One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available. All original artwork used, may not represent new side splits.
+Huge round sticker on front that states the following:
+One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available.
+All original artwork used, may not represent new side splits.

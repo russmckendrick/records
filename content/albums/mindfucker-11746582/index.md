@@ -2,7 +2,7 @@
 title: "Monster Magnet - Mindfucker"
 artist: "Monster Magnet"
 album_name: "Mindfucker"
-date: 2018-03-24
+date: 2018-03-24T11:43:41.000000Z
 release_id: "11746582"
 slug: "mindfucker-11746582"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Rocket Freak
 2. Soul
@@ -26,8 +27,12 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 10. When The Hammer Comes Down
 11. You Can't Be Trusted [bonus track]
 12. Utopia [bonus track]
+
+
 ## Spotify
 {{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection (Official Video) | Napalm Records" >}}
@@ -41,7 +46,9 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582-Monster-Magnet-Mindfucker) |
 | Label          | Napalm Records |
-| Format         | LP, Yel + LP, S/Sided, Etch, Yel + Album, Ltd |
+| Format         | Vinyl LP (Yellow Opaque), Vinyl LP Single Sided Etched (Yellow Opaque), All Media Album Limited Edition |
 | Catalog Number | NPR 757 VINYL |
 
-Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies.
+Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*
+
+Limited to 500 copies.

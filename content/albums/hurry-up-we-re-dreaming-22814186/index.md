@@ -2,7 +2,7 @@
 title: "M83 - Hurry Up, We're Dreaming."
 artist: "M83"
 album_name: "Hurry Up, We're Dreaming."
-date: 2022-04-24
+date: 2022-04-24T04:26:51.000000Z
 release_id: "22814186"
 slug: "hurry-up-we-re-dreaming-22814186"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Electro", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Intro
 2. Midnight City
@@ -36,8 +37,12 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 20. Echoes Of Mine
 21. Klaus I Love You
 22. Outro
+
+
 ## Spotify
 {{< spotify type="album" id="6R0ynY7RF20ofs9GJR5TXR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Eyjj8BgsBGU" title="M83 - Outro" >}}
@@ -52,8 +57,11 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/22814186-M83-Hurry-Up-Were-Dreaming) |
-| Label          | Mute, Naïve |
-| Format         | 2xLP, Album, Ltd, RE, Ora |
+| Label          | Mute |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange, 10th Anniversary) |
 | Catalog Number | M7571 |
 
-10 year anniversary edition with alternate artwork.  724596951071 is the UPC of this release. The other is the generic UPC of the black pressing of the release.
+10 year anniversary edition with alternate artwork.
+
+724596951071 is the UPC of this release.
+The other is the generic UPC of the black pressing of the release.

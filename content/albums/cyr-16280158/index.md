@@ -2,7 +2,7 @@
 title: "The Smashing Pumpkins - Cyr"
 artist: "The Smashing Pumpkins"
 album_name: "Cyr"
-date: 2020-11-28
+date: 2020-11-28T12:33:24.000000Z
 release_id: "16280158"
 slug: "cyr-16280158"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. The Colour Of Love (4:24)
 2. Confessions Of A Dopamine Addict (3:14)
@@ -34,8 +35,11 @@ styles: ["Alternative Rock"]
 18. Schaudenfreud (3:02)
 19. Tyger, Tyger (2:50)
 20. Minerva (3:33)
+
+
 ## Spotify
 {{< spotify type="album" id="67mhcyDjMHNBXsH77mQsVV" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -43,8 +47,14 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Smashing Pumpkins - Cyr](https://www.discogs.com/release/16280158-The-Smashing-Pumpkins-Cyr) |
-| Label          | Sumerian Records, Martha's Music, Velvet Hammer Music And Management Group |
-| Format         | 2xLP, Album, Ltd, Pin |
-| Catalog Number | SUM1397, SUM1377 |
+| Label          | Sumerian Records |
+| Format         | Vinyl 2× LP Album Limited Edition (Pink [Baby]) |
+| Catalog Number | SUM1397 |
 
-Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book. Housed in a gatefold sleeve.  Limited to 1000 copies.  The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.  ©&℗ 2020 Martha's Music, LLC.
+Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book.
+Housed in a gatefold sleeve. 
+Limited to 1000 copies.
+
+The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.
+
+©&℗ 2020 Martha's Music, LLC.

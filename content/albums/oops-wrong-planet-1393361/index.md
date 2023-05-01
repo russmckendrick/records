@@ -2,7 +2,7 @@
 title: "Utopia - Oops! Wrong Planet"
 artist: "Utopia"
 album_name: "Oops! Wrong Planet"
-date: 2022-03-06
+date: 2022-03-06T04:57:20.000000Z
 release_id: "1393361"
 slug: "oops-wrong-planet-1393361"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Trapped (3:06)
 2. Windows (4:17)
@@ -26,8 +27,9 @@ styles: ["Art Rock", "Prog Rock"]
 10. My Angel (3:40)
 11. Rape Of The Young (3:11)
 12. Love Is The Answer (4:10)
-## Spotify
-{{< spotify type="album" id="2R05jarIYeN8NjVJstLySV" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Wyiu68va3mA" title="Utopia - Abandon City" >}}
@@ -44,7 +46,13 @@ styles: ["Art Rock", "Prog Rock"]
 | Release Year   | 1977 |
 | Discogs Link   | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-Oops-Wrong-Planet) |
 | Label          | Bearsville |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | K 55517 |
 
-Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970 
+Recorded at Utopia Sound
+The Message: Use your head, use your heart, save yourselves
+Printed inner sleeve: photo one side / lyrics other side
+℗ & © 1977 [Warner logo]
+Made in UK
+Additional cat# (cover back, right top, and on labels): BR 6970
+

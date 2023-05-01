@@ -2,7 +2,7 @@
 title: "Francis Monkman - The Long Good Friday (Original Motion Picture Score)"
 artist: "Francis Monkman"
 album_name: "The Long Good Friday (Original Motion Picture Score)"
-date: 2016-10-20
+date: 2016-10-20T16:29:01.000000Z
 release_id: "8597626"
 slug: "the-long-good-friday-original-motion-picture-score-8597626"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Score", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. Main Title
 2. Overture
@@ -26,6 +27,9 @@ styles: ["Score", "Soundtrack"]
 10. Fury
 11. Taken
 12. The Long Friday
+
+
+
 
 ## Videos
 {{< youtube id="2boaFaezG00" title="Francis Monkman - The Long Good Friday (1979) Soundtrack." >}}
@@ -41,7 +45,7 @@ styles: ["Score", "Soundtrack"]
 | Release Year   | 2016 |
 | Discogs Link   | [Francis Monkman - The Long Good Friday (Original Motion Picture Score)](https://www.discogs.com/release/8597626-Francis-Monkman-The-Long-Good-Friday-Original-Motion-Picture-Score) |
 | Label          | Silva Screen |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | SILLP1489 |
 
 180 gram Black vinyl 2016 First pressing of 500

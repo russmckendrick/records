@@ -2,7 +2,7 @@
 title: "Public Service Broadcasting - Live At Brixton "
 artist: "Public Service Broadcasting"
 album_name: "Live At Brixton "
-date: 2016-12-08
+date: 2016-12-08T18:37:14.000000Z
 release_id: "9448381"
 slug: "live-at-brixton-9448381"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
+
 ## Tracklisting
 1. The Race For Space
 2. Sputnik
@@ -48,8 +49,12 @@ styles: ["Ambient"]
 32. Tomorrow
 33. Gagarin
 34. Everest
+
+
 ## Spotify
 {{< spotify type="album" id="4vwN2hlVoC5mF1NmL09reL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2_J-_m9-Zqc" title="Everest - Public Service Broadcasting Live At Brixton" >}}
@@ -70,7 +75,10 @@ styles: ["Ambient"]
 | Release Year   | 2016 |
 | Discogs Link   | [Public Service Broadcasting - Live At Brixton ](https://www.discogs.com/release/9448381-Public-Service-Broadcasting-Live-At-Brixton-) |
 | Label          | Test Card Recordings |
-| Format         | 2xLP, Album, Ltd, Gat + DVD,   |
+| Format         | Vinyl 2× LP Album Limited Edition (Gatefold, Blue), DVD ( ) |
 | Catalog Number | TCRVAL04X |
 
-Released in a gatefold sleeve with printed inner sleeves. A download voucher of the album is included. Audio and video content recorded by Living Indie at O2 Brixton Academy, London on 29 November 2015. DVD contains bonus features and band commentary track and comes in a matte picture cardboard sleeve.
+Released in a gatefold sleeve with printed inner sleeves.
+A download voucher of the album is included.
+Audio and video content recorded by Living Indie at O2 Brixton Academy, London on 29 November 2015.
+DVD contains bonus features and band commentary track and comes in a matte picture cardboard sleeve.

@@ -2,7 +2,7 @@
 title: "David Bowie - Changesnowbowie"
 artist: "David Bowie"
 album_name: "Changesnowbowie"
-date: 2020-09-07
+date: 2020-09-07T09:05:46.000000Z
 release_id: "15822092"
 slug: "changesnowbowie-15822092"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. The Man Who Sold The World (4:01)
 2. Aladdin Sane (3:33)
@@ -23,8 +24,11 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 7. Repetition (3:00)
 8. Andy Warhol (2:33)
 9. Quicksand (4:47)
+
+
 ## Spotify
 {{< spotify type="album" id="7eMXWxMOHtAoliVQfVpdpl" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -32,8 +36,18 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [David Bowie - Changesnowbowie](https://www.discogs.com/release/15822092-David-Bowie-Changesnowbowie) |
-| Label          | Parlophone, ISO Records |
-| Format         | LP, Album, RSD, Ltd |
-| Catalog Number | 0190295332747, CNBLP 2020 |
+| Label          | Parlophone |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Stereo |
+| Catalog Number | 0190295332747 |
 
-Recorded and mixed in November 96 at Looking Glass Studios, NYC. Recorded for radio and broadcasted by the BBC on Bowie’s 50th birthday on January 8, 1997.  Record Store Day Exclusive 2020 (hype sticker bottom right hand corner). Some copies have a further hype sticker for the charity [l355868] in the bottom left corner. Limited to 5000 copies. RSD DROPS 2020 - August 29  ℗ © 2020 [l281591]  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”).  
+Recorded and mixed in November 96 at Looking Glass Studios, NYC.
+Recorded for radio and broadcasted by the BBC on Bowie’s 50th birthday on January 8, 1997.
+
+Record Store Day Exclusive 2020 (hype sticker bottom right hand corner). Some copies have a further hype sticker for the charity [l355868] in the bottom left corner.
+Limited to 5000 copies.
+RSD DROPS 2020 - August 29
+
+℗ © 2020 [l281591]
+
+Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). 
+

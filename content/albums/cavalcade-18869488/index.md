@@ -2,7 +2,7 @@
 title: "Black Midi - Cavalcade"
 artist: "Black Midi"
 album_name: "Cavalcade"
-date: 2021-05-29
+date: 2021-05-29T07:43:10.000000Z
 release_id: "18869488"
 slug: "cavalcade-18869488"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Experimental", "Art Rock", "Math Rock"]
 ---
+
 ## Tracklisting
 1. Introduction (1:31)
 2. John L (5:13)
@@ -23,8 +24,12 @@ styles: ["Experimental", "Art Rock", "Math Rock"]
 7. Dethroned (5:04)
 8. Hogwash And Balderdash (2:33)
 9. Ascending Forth (9:48)
+
+
 ## Spotify
 {{< spotify type="album" id="7AsC27VDa3yOksZrfBSD6D" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GT0nSp8lUws" title="black midi - John L" >}}
@@ -43,7 +48,24 @@ styles: ["Experimental", "Art Rock", "Math Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Black Midi - Cavalcade](https://www.discogs.com/release/18869488-Black-Midi-Cavalcade) |
 | Label          | Rough Trade |
-| Format         | LP, Album, 180 |
+| Format         | Vinyl LP Album Stereo (180g) |
 | Catalog Number | RT0212LP |
 
-Track A1 is not listed on the rear cover but is named in the credits on the inner gatefold.  Includes extra shrink title sticker. Pre-orders from certain stores included a coloured flexi-disc (or CD in the case of Tower Records) of a cover of a song chosen from a poll voted on by fans of the band. The songs are:  Taylor Swift - Love Story (UK Indies. Green Flexi)  Prince - Nothing Compares 2U (US Indies. Blue Flexi) ([r=18963268])  King Crimson - 21st Century Schizoid Man (Rough Trade. White Flexi) ([r=18958246])  Talking Heads - Psycho Killer (Tower Records. CD)  Captain Beefheart - Moonlight On Vermont (Rough Trade Records/International. Red Flexi) ([r=18929623])  Variant 4: Side B: BL31801-01-A1 ST is stamped 
+Track A1 is not listed on the rear cover but is named in the credits on the inner gatefold.
+
+Includes extra shrink title sticker.
+Pre-orders from certain stores included a coloured flexi-disc (or CD in the case of Tower Records) of a cover of a song chosen from a poll voted on by fans of the band. The songs are:
+
+Taylor Swift - Love Story (UK Indies. Green Flexi)
+
+Prince - Nothing Compares 2U (US Indies. Blue Flexi) ([r=18963268])
+
+King Crimson - 21st Century Schizoid Man (Rough Trade. White Flexi) ([r=18958246])
+
+Talking Heads - Psycho Killer (Tower Records. CD)
+
+Captain Beefheart - Moonlight On Vermont (Rough Trade Records/International. Red Flexi) ([r=18929623])
+
+Variant 4:
+Side B: BL31801-01-A1 ST is stamped
+

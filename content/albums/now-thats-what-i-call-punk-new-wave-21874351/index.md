@@ -2,7 +2,7 @@
 title: "Various - Now That’s What I Call Punk & New Wave"
 artist: "Various"
 album_name: "Now That’s What I Call Punk & New Wave"
-date: 2022-01-25
+date: 2022-01-25T03:55:56.000000Z
 release_id: "21874351"
 slug: "now-thats-what-i-call-punk-new-wave-21874351"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk"]
 ---
+
 ## Tracklisting
 1. London Calling
 2. Teenage Kicks
@@ -49,6 +50,9 @@ styles: ["New Wave", "Punk"]
 33. A Forest
 34. Love Will Tear Us Apart
 
+
+
+
 ## Videos
 {{< youtube id="E-P2qL3qkzk" title="The Flying Lizards - Money" >}}
 - [NOW That's What I Call Punk & New Wave Artwork & Official Tracklist!](https://www.youtube.com/watch?v=TQb_AcW_cZw)
@@ -66,8 +70,6 @@ styles: ["New Wave", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Various - Now That’s What I Call Punk & New Wave](https://www.discogs.com/release/21874351-Various-Now-Thats-What-I-Call-Punk-New-Wave) |
-| Label          | Sony Music, EMI |
-| Format         | 2xLP, Comp, Pin |
-| Catalog Number | LPNNNOW122, 0194399460917 |
-
-
+| Label          | Sony Music |
+| Format         | Vinyl 2× LP Compilation (Pink Translucent) |
+| Catalog Number | LPNNNOW122 |

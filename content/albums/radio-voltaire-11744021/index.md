@@ -2,7 +2,7 @@
 title: "Kino - Radio Voltaire"
 artist: "Kino"
 album_name: "Radio Voltaire"
-date: 2018-03-24
+date: 2018-03-24T11:43:56.000000Z
 release_id: "11744021"
 slug: "radio-voltaire-11744021"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Radio Voltaire (7:03)
 2. The Dead Club (4:09)
@@ -36,8 +37,9 @@ styles: ["Prog Rock"]
 20. Grey Shapes On Concrete Fields (4:39)
 21. Keep The Faith (5:32)
 22. The Silent Fighter Pilot (4:42)
-## Spotify
-{{< spotify type="album" id="4Mnz7gyNTMFq6qcoXjTswk" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}
@@ -56,8 +58,8 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Kino - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album + CD, Album |
-| Catalog Number | IOMLP 501, 19075820301 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Catalog Number | IOMLP 501 |
 
 Gatefold sleeve

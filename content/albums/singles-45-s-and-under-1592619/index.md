@@ -2,7 +2,7 @@
 title: "Squeeze - Singles - 45's And Under"
 artist: "Squeeze"
 album_name: "Singles - 45's And Under"
-date: 2015-09-11
+date: 2015-09-11T18:02:25.000000Z
 release_id: "1592619"
 slug: "singles-45-s-and-under-1592619"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
+
 ## Tracklisting
 1. Take Me I'm Yours (2:48)
 2. Goodbye Girl (3:05)
@@ -26,8 +27,9 @@ styles: ["New Wave", "Punk"]
 10. Labelled With Love (4:33)
 11. Black Coffee In Bed (6:11)
 12. Annie Get Your Gun (3:22)
-## Spotify
-{{< spotify type="album" id="7JmXmiJaPzqHqpbx2oHi5q" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="vB5glE-Oo94" title="Pulling Mussels (From The Shell)" >}}
@@ -46,7 +48,10 @@ styles: ["New Wave", "Punk"]
 | Release Year   | 1982 |
 | Discogs Link   | [Squeeze - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-Singles-45s-And-Under) |
 | Label          | A&M Records |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | AMLH 68552 |
 
-Made in England  Printed inner sleeve 
+Made in England
+
+Printed inner sleeve
+

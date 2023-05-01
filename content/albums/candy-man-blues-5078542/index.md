@@ -2,7 +2,7 @@
 title: "Mississippi John Hurt - Candy Man Blues"
 artist: "Mississippi John Hurt"
 album_name: "Candy Man Blues"
-date: 2020-08-01
+date: 2020-08-01T12:50:06.000000Z
 release_id: "5078542"
 slug: "candy-man-blues-5078542"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues"]
 styles: ["Country Blues"]
 ---
+
 ## Tracklisting
 1. Frankie
 2. Louis Collins
@@ -27,8 +28,12 @@ styles: ["Country Blues"]
 11. Blue Harvest Blues
 12. Spike Driver Blues
 13. Got The Blues (Can't Be Satisfied)
+
+
 ## Spotify
 {{< spotify type="album" id="5QrttrAFJuldYaHVPPrv0L" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="u8EraarVcKI" title="Avalon blues - The complete 1928 okeh recordings (full album)" >}}
@@ -39,7 +44,9 @@ styles: ["Country Blues"]
 | Release Year   | 2013 |
 | Discogs Link   | [Mississippi John Hurt - Candy Man Blues](https://www.discogs.com/release/5078542-Mississippi-John-Hurt-Candy-Man-Blues) |
 | Label          | Complete Blues |
-| Format         | LP, Comp, Blu |
+| Format         | Vinyl LP Compilation (Blue) |
 | Catalog Number | SBLUELP010 |
 
-A1, A3 Recorded Memphis, Tenn. 14 Feb 1928 A2, A4, A6, B1 Recorded New York City 21 Dec 1928 A5, B2 to B7 Recorded New York City 28 Dec 1928
+A1, A3 Recorded Memphis, Tenn. 14 Feb 1928
+A2, A4, A6, B1 Recorded New York City 21 Dec 1928
+A5, B2 to B7 Recorded New York City 28 Dec 1928

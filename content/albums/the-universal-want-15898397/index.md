@@ -2,7 +2,7 @@
 title: "Doves - The Universal Want"
 artist: "Doves"
 album_name: "The Universal Want"
-date: 2020-09-15
+date: 2020-09-15T17:31:06.000000Z
 release_id: "15898397"
 slug: "the-universal-want-15898397"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Carousels (4:50)
 2. I Will Not Hide (4:15)
@@ -24,8 +25,12 @@ styles: ["Indie Rock", "Britpop"]
 8. Mother Silverlake (5:13)
 9. Universal Want (5:21)
 10. Forest House (3:41)
+
+
 ## Spotify
 {{< spotify type="album" id="6Te4QI3zfiqePHm4tViGzq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9a239ZI3iYI" title="Doves - Carousels" >}}
@@ -38,8 +43,10 @@ styles: ["Indie Rock", "Britpop"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Doves - The Universal Want](https://www.discogs.com/release/15898397-Doves-The-Universal-Want) |
-| Label          | Virgin, Heavenly, Virgin, Heavenly |
-| Format         | LP, Album, Ltd, Red |
-| Catalog Number | VY 3248, 00602507316419 |
+| Label          | Virgin |
+| Format         | Vinyl LP Album Limited Edition (Red) |
+| Catalog Number | VY 3248 |
 
-Includes download code. Some copies signed by the band in gold marker.  Made in the Czech Republic.
+Includes download code. Some copies signed by the band in gold marker.
+
+Made in the Czech Republic.

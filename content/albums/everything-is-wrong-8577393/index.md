@@ -2,7 +2,7 @@
 title: "Moby - Everything Is Wrong"
 artist: "Moby"
 album_name: "Everything Is Wrong"
-date: 2018-01-26
+date: 2018-01-26T20:03:24.000000Z
 release_id: "8577393"
 slug: "everything-is-wrong-8577393"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 ---
+
 ## Tracklisting
 1. Hymn
 2. Feeling So Real
@@ -27,8 +28,11 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 11. Everything Is Wrong
 12. God Moving Over The Face Of The Waters
 13. When It's Cold I'd Like To Die
+
+
 ## Spotify
 {{< spotify type="album" id="31qneFkDfKhjVNH0kqdhQ1" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,8 +40,8 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Moby - Everything Is Wrong](https://www.discogs.com/release/8577393-Moby-Everything-Is-Wrong) |
-| Label          | Mute, BMG |
-| Format         | LP, Album, Ltd, RE, 180 |
-| Catalog Number | STUMM 130 |
+| Label          | Mute |
+| Format         | Vinyl LP Album Limited Edition Reissue (180g) |
+| Catalog Number | STUMM130 |
 
 If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.

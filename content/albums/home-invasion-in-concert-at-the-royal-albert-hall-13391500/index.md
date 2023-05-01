@@ -2,7 +2,7 @@
 title: "Steven Wilson - Home Invasion (In Concert At The Royal Albert Hall)"
 artist: "Steven Wilson"
 album_name: "Home Invasion (In Concert At The Royal Albert Hall)"
-date: 2020-05-29
+date: 2020-05-29T11:31:56.000000Z
 release_id: "13391500"
 slug: "home-invasion-in-concert-at-the-royal-albert-hall-13391500"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. "Truth" (Intro) (2:52)
 2. Nowhere Now (4:08)
@@ -41,8 +42,12 @@ styles: ["Prog Rock", "Pop Rock"]
 25. How Is Your Life Today? (3:17)
 26. Blackfield (4:33)
 27. Postcard (6:55)
+
+
 ## Spotify
 {{< spotify type="album" id="6pOqXZvUYdDkobapwQVEDE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-tajHRP9Cm8" title="Steven Wilson - Home Invasion /Regret #9 full HD 1080p live from [Home Invasion Live 2018 BLUERAY CD" >}}
@@ -54,8 +59,15 @@ styles: ["Prog Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Steven Wilson - Home Invasion (In Concert At The Royal Albert Hall)](https://www.discogs.com/release/13391500-Steven-Wilson-Home-Invasion-In-Concert-At-The-Royal-Albert-Hall) |
-| Label          | Caroline International, Caroline International |
-| Format         | 5xLP + Box, Album |
-| Catalog Number | CAROL017LP, 00602567943600 |
+| Label          | Caroline International |
+| Format         | Vinyl 5× LP Stereo, Box Set Album |
+| Catalog Number | CAROL017LP |
 
-The LP's include the full soundtrack of the concert across 4 discs, while the fifth LP in the vinyl set includes 3 rehearsal songs as well as 3 songs taken from the previous night’s performance (How is Your Life Today?, Blackfield, and Postcard). J1 to J3 are exclusive to the vinyl release.  This box set includes a 32 page 12" booklet with pictures and credits. Every LP is housed in a printed outer sleeve with plain polylined inner sleeves.  To The Bone tour created by Steven Wilson and Lasse Hoile  ℗ & © 2018 Steven Wilson Productions Ltd. Made in the EU.
+The LP's include the full soundtrack of the concert across 4 discs, while the fifth LP in the vinyl set includes 3 rehearsal songs as well as 3 songs taken from the previous night’s performance (How is Your Life Today?, Blackfield, and Postcard). J1 to J3 are exclusive to the vinyl release.
+
+This box set includes a 32 page 12" booklet with pictures and credits. Every LP is housed in a printed outer sleeve with plain polylined inner sleeves.
+
+To The Bone tour created by Steven Wilson and Lasse Hoile
+
+℗ & © 2018 Steven Wilson Productions Ltd.
+Made in the EU.

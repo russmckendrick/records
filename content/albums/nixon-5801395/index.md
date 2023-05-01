@@ -2,7 +2,7 @@
 title: "Lambchop - Nixon"
 artist: "Lambchop"
 album_name: "Nixon"
-date: 2017-12-28
+date: 2017-12-28T13:29:25.000000Z
 release_id: "5801395"
 slug: "nixon-5801395"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. The Old Gold Shoe (6:20)
 2. Grumpus (4:19)
@@ -24,8 +25,12 @@ styles: ["Folk Rock", "Country Rock"]
 8. The Book I Haven't Read (5:44)
 9. The Petrified Florist (4:52)
 10. The Butcher Boy (2:51)
+
+
 ## Spotify
 {{< spotify type="album" id="1qen4Tff5s4spszMi3Hd8d" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZVk5KalTrwU" title="Grumpus - Lambchop" >}}
@@ -38,7 +43,8 @@ styles: ["Folk Rock", "Country Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Lambchop - Nixon](https://www.discogs.com/release/5801395-Lambchop-Nixon) |
 | Label          | City Slang |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180gram) |
 | Catalog Number | SLANG50044LP |
 
-Comes with lyrics insert and download card for a one-off mp3 download of the album.  
+Comes with lyrics insert and download card for a one-off mp3 download of the album. 
+

@@ -2,7 +2,7 @@
 title: "Steven Wilson - The Future Bites"
 artist: "Steven Wilson"
 album_name: "The Future Bites"
-date: 2021-03-24
+date: 2021-03-24T15:03:06.000000Z
 release_id: "17988457"
 slug: "the-future-bites-17988457"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Unself
 2. Self
@@ -23,8 +24,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Personal Shopper
 8. Follower
 9. Count Of Unease
+
+
 ## Spotify
 {{< spotify type="album" id="0tHQTsZepeMpMqgtBdaFRx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}
@@ -48,7 +53,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17988457-Steven-Wilson-The-Future-Bites) |
 | Label          | Caroline International |
-| Format         | LP, Album, RP, Cle |
+| Format         | Vinyl LP Album Repress (Clear) |
 | Catalog Number | CAROL021LPTUK |
 
 Replacement for the UK tour edition of the future bites.

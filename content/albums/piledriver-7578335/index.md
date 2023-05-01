@@ -2,7 +2,7 @@
 title: "Status Quo - Piledriver"
 artist: "Status Quo"
 album_name: "Piledriver"
-date: 2016-05-23
+date: 2016-05-23T18:26:01.000000Z
 release_id: "7578335"
 slug: "piledriver-7578335"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Don't Waste My Time (4:19)
 2. Oh Baby (4:35)
@@ -23,13 +24,8 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 7. All The Reasons (3:38)
 8. Roadhouse Blues (7:29)
 
-## Videos
-{{< youtube id="k-ciSfZPneY" title="Status Quo - Paper Plane (HQ audio - remastered 2011)" >}}
-- [Status Quo - Don't Waste My Time - HQ](https://www.youtube.com/watch?v=CwQHDZYX3ao)
-- [status quo piledriver ( full album ) from vinyl](https://www.youtube.com/watch?v=hBziMImUgXk)
-- [STATUS QUO - BIG FAT MAMA](https://www.youtube.com/watch?v=veYBYpmVLwY)
-- [status quo unspoken words (piledriver).wmv](https://www.youtube.com/watch?v=qdS6iXsvT1o)
-- [Status Quo - Roadhouse Blues - HQ](https://www.youtube.com/watch?v=y2Hi0boj1OM)
+
+
 
 ## Notes
 | Notes          |             |
@@ -37,7 +33,7 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Status Quo - Piledriver](https://www.discogs.com/release/7578335-Status-Quo-Piledriver) |
 | Label          | Vertigo |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 4723762 |
 
 Gatefold sleeve 

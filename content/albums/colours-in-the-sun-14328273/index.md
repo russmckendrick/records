@@ -2,7 +2,7 @@
 title: "Voyager - Colours In The Sun"
 artist: "Voyager"
 album_name: "Colours In The Sun"
-date: 2019-11-04
+date: 2019-11-04T18:58:39.000000Z
 release_id: "14328273"
 slug: "colours-in-the-sun-14328273"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ---
+
 ## Tracklisting
 1. Colours (4:04)
 2. Severomance (4:22)
@@ -24,8 +25,9 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 8. Sign Of The Times (3:46)
 9. Water Over The Bridge (4:42)
 10. Runaway (4:38)
-## Spotify
-{{< spotify type="album" id="5SijmVnLx2udeQE4j5cdSM" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="eyFCWhywrqM" title="VOYAGER - Colours in the Sun - FULL ALBUM STREAM! [Official]" >}}
@@ -41,8 +43,8 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Voyager - Colours In The Sun](https://www.discogs.com/release/14328273-Voyager-Colours-In-The-Sun) |
-| Label          | Season Of Mist, Season Of Mist |
-| Format         | LP, Album, Ltd, Tur |
-| Catalog Number | SOM 533LP, SOM 533LPES |
+| Label          | Season Of Mist |
+| Format         | Vinyl LP Album Limited Edition (Turquoise Transparent) |
+| Catalog Number | SOM 533LP |
 
 First pressing. Transparent Turquoise version limited to 100. 

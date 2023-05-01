@@ -2,7 +2,7 @@
 title: "Blondie - Against The Odds 1974-1982"
 artist: "Blondie"
 album_name: "Against The Odds 1974-1982"
-date: 2022-12-04
+date: 2022-12-04T04:16:01.000000Z
 release_id: "24318461"
 slug: "against-the-odds-1974-1982-24318461"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Punk", "New Wave"]
 ---
+
 ## Tracklisting
 1. Blondie
 2. X Offender
@@ -149,8 +150,12 @@ styles: ["Power Pop", "Punk", "New Wave"]
 133. War Child (Chris Stein Mix)
 134. Call Me (Chris Stein Mix)
 135. Heart Of Glass (Chris Stein Mix)
+
+
 ## Spotify
 {{< spotify type="album" id="0xgjNfcoYavtty8592ehW9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="bzVt7eerM28" title="Once I Had A Love (Betrock Demo)" >}}
@@ -190,8 +195,10 @@ styles: ["Power Pop", "Punk", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Blondie - Against The Odds 1974-1982](https://www.discogs.com/release/24318461-Blondie-Against-The-Odds-1974-1982) |
-| Label          | UMC, Numero Group, Chrysalis |
-| Format         | Box, Comp, Dlx, Ltd, Sup + LP, Album, RE, RM + LP, |
-| Catalog Number | 00602508760693, 070 |
+| Label          | UMC |
+| Format         | Box Set Compilation Deluxe Edition Limited Edition (Super Deluxe Edition), Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 10" Album, Vinyl 7" 45 RPM |
+| Catalog Number | 00602508760693 |
 
-Includes the first 6 studio albums plus 4 LPs, a 10" and a 7" with unreleased and rare material, a 144 page hardcover book and a 120 page photographic discography book.  Comes in a carton box which can be unfolded as a standup (Debbie Harry with Andy Warhol shirt)
+Includes the first 6 studio albums plus 4 LPs, a 10" and a 7" with unreleased and rare material, a 144 page hardcover book and a 120 page photographic discography book.
+
+Comes in a carton box which can be unfolded as a standup (Debbie Harry with Andy Warhol shirt)

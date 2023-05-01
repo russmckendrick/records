@@ -2,7 +2,7 @@
 title: "The Beta Band - The Patty Patty Sound"
 artist: "The Beta Band"
 album_name: "The Patty Patty Sound"
-date: 2016-02-19
+date: 2016-02-19T17:28:46.000000Z
 release_id: "7427082"
 slug: "the-patty-patty-sound-7427082"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
+
 ## Tracklisting
 1. Inner Meets Me
 2. The House Song
 3. The Monolith
 4. She's The One
+
+
+
 
 ## Videos
 {{< youtube id="eyRu0b7nnNc" title="The Beta Band - Inner Meet Me" >}}
@@ -30,8 +34,12 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [The Beta Band - The Patty Patty Sound](https://www.discogs.com/release/7427082-The-Beta-Band-The-Patty-Patty-Sound) |
-| Label          | Regal, Regal |
-| Format         | 12\", EP, RP, 180 |
-| Catalog Number | REGS 18, 0825646092017 |
+| Label          | Regal |
+| Format         | Vinyl 12" 33 ⅓ RPM EP Repress (180 g) |
+| Catalog Number | REGS 18 |
 
-180gm pressing. MP3 download voucher. Spine reads "Supreme Food And Wine"  ℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd. © 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18.
+180gm pressing. MP3 download voucher.
+Spine reads "Supreme Food And Wine"
+
+℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd.
+© 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18.

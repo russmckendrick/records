@@ -2,7 +2,7 @@
 title: "The Pogues - The Best Of The Pogues"
 artist: "The Pogues"
 album_name: "The Best Of The Pogues"
-date: 2018-06-23
+date: 2018-06-23T08:47:17.000000Z
 release_id: "12121159"
 slug: "the-best-of-the-pogues-12121159"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Fairytale Of New York
 2. Sally MacLennane
@@ -28,8 +29,12 @@ styles: ["Folk", "Folk Rock"]
 12. Thousands Are Sailing
 13. The Broad Majestic Shannon
 14. The Body Of An American
+
+
 ## Spotify
 {{< spotify type="album" id="3wRRu2P6cndiyru88yCXnL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fvV5mryQF1I" title="the pogues-sally maclennane [best quality]" >}}
@@ -45,7 +50,8 @@ styles: ["Folk", "Folk Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Pogues - The Best Of The Pogues](https://www.discogs.com/release/12121159-The-Pogues-The-Best-Of-The-Pogues) |
 | Label          | Pogue Mahone Records |
-| Format         | LP, Comp, RE |
+| Format         | Vinyl LP Compilation Reissue |
 | Catalog Number | 0190295672560 |
 
-This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.
+This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd.
+A Warner Music Group Company. Manufactured In The E.U.

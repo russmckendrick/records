@@ -2,7 +2,7 @@
 title: "Arcade Fire - We"
 artist: "Arcade Fire"
 album_name: "We"
-date: 2022-05-06
+date: 2022-05-06T10:53:15.000000Z
 release_id: "23120624"
 slug: "we-23120624"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Age Of Anxiety I
 2. Age Of Anxiety II (Rabbit Hole)
@@ -21,8 +22,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 5. Unconditional I (Lookout Kid)
 6. Unconditional II (Race And Religion)
 7. We
+
+
 ## Spotify
 {{< spotify type="album" id="2sAePf08xIp4tnDlMUCV8B" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="IH_qgFWOg2I" title="Age of Anxiety I" >}}
@@ -40,7 +45,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Arcade Fire - We](https://www.discogs.com/release/23120624-Arcade-Fire-We) |
 | Label          | Columbia |
-| Format         | LP, Album, Ltd, Bro |
+| Format         | Vinyl LP Album Limited Edition Stereo (Brown Marbled) |
 | Catalog Number | 19439971281 |
 
-Limited pressing sold exclusively on Amazon and in Indie Stores. Packaged in an embossed gatefold sleeve with a gold foil hype sticker. Includes a printed inner sleeve, sticker and poster.
+Limited pressing sold exclusively on Amazon and in Indie Stores.
+Packaged in an embossed gatefold sleeve with a gold foil hype sticker.
+Includes a printed inner sleeve, sticker and poster.

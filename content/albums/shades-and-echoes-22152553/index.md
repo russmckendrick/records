@@ -2,7 +2,7 @@
 title: "Forenzics - Shades And Echoes"
 artist: "Forenzics"
 album_name: "Shades And Echoes"
-date: 2022-02-26
+date: 2022-02-26T10:38:07.000000Z
 release_id: "22152553"
 slug: "shades-and-echoes-22152553"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Shades And Echoes by Forenzics"
     caption: "Shades And Echoes by Forenzics"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Chances Are
 2. Rules
@@ -25,8 +26,9 @@ styles: null
 9. Empty Nest
 10. System Overload
 11. Strange Stars
-## Spotify
-{{< spotify type="album" id="6MTcOA1n4fxrenc4HlVoVa" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Q8iw7N1opTw" title="Chances Are (Official Music Video)" >}}
@@ -41,7 +43,11 @@ styles: null
 | Release Year   | 2022 |
 | Discogs Link   | [Forenzics - Shades And Echoes](https://www.discogs.com/release/22152553-Forenzics-Shades-And-Echoes) |
 | Label          | Warner Music New Zealand |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CAT 5419711037 |
 
-"Changes Are" contains a shade of "Spellbound" ([m=81206] 1975) "Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976) "Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978) "Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975) "Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)
+"Changes Are" contains a shade of "Spellbound" ([m=81206] 1975)
+"Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976)
+"Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978)
+"Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975)
+"Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)

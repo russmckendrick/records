@@ -2,7 +2,7 @@
 title: "Syd Barrett - An Introduction To Syd Barrett"
 artist: "Syd Barrett"
 album_name: "An Introduction To Syd Barrett"
-date: 2023-01-15
+date: 2023-01-15T02:20:28.000000Z
 release_id: "25396930"
 slug: "an-introduction-to-syd-barrett-25396930"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Arnold Layne (2:54)
 2. See Emily Play (2:53)
@@ -32,8 +33,12 @@ styles: ["Acoustic", "Psychedelic Rock"]
 16. Gigolo Aunt (5:43)
 17. Effervescing Elephant (1:51)
 18. Bob Dylan Blues (3:08)
+
+
 ## Spotify
 {{< spotify type="album" id="6DX4SASj4jxDSTPq9vz3RL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dOZ9RvvwXpo" title="An Introduction to Syd Barrett" >}}
@@ -45,8 +50,8 @@ styles: ["Acoustic", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Syd Barrett - An Introduction To Syd Barrett](https://www.discogs.com/release/25396930-Syd-Barrett-An-Introduction-To-Syd-Barrett) |
-| Label          | Syd Barrett Music Ltd., Parlophone |
-| Format         | 2xLP, Comp, RP |
-| Catalog Number | SBM001LP, 0190295037383a |
+| Label          | Syd Barrett Music Ltd. |
+| Format         | Vinyl 2× LP Compilation Repress |
+| Catalog Number | SBM001LP |
 
 Gatefold cover. Hype sticker on shrinkwrap. Colour inners with printed lyrics.

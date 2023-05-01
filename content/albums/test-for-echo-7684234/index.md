@@ -2,7 +2,7 @@
 title: "Rush - Test For Echo"
 artist: "Rush"
 album_name: "Test For Echo"
-date: 2017-02-27
+date: 2017-02-27T13:59:57.000000Z
 release_id: "7684234"
 slug: "test-for-echo-7684234"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Test For Echo (5:56)
 2. Driven (4:27)
@@ -25,8 +26,11 @@ styles: ["Prog Rock"]
 9. Resist (4:24)
 10. Limbo (5:29)
 11. Carve Away The Stone (4:08)
+
+
 ## Spotify
 {{< spotify type="album" id="5fwkYtHrckROAs4ALRJ2Cz" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,8 +38,9 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Rush - Test For Echo](https://www.discogs.com/release/7684234-Rush-Test-For-Echo) |
-| Label          | Atlantic, Anthem |
-| Format         | LP, 200 + LP, S/Sided, Etch, 200 + Album, RE, RM,  |
+| Label          | Atlantic |
+| Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Catalog Number | R1 83739 |
 
-Includes High Quality Download Code  Etched D Side
+Includes High Quality Download Code 
+Etched D Side

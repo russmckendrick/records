@@ -2,7 +2,7 @@
 title: "M83 - Fantasy"
 artist: "M83"
 album_name: "Fantasy"
-date: 2023-03-20
+date: 2023-03-20T05:44:16.000000Z
 release_id: "26449427"
 slug: "fantasy-26449427"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Water Deep
 2. Oceans Niagara
@@ -27,8 +28,12 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 11. Kool Nuit
 12. Sunny Boy Part 2
 13. Dismemberment Bureau
+
+
 ## Spotify
 {{< spotify type="album" id="7B6lEObl7aYkMjX8M89IRQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ryFV9dORPPw" title="M83 - 'Oceans Niagara' (Official Music Video)" >}}
@@ -49,8 +54,8 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [M83 - Fantasy](https://www.discogs.com/release/26449427-M83-Fantasy) |
-| Label          | Other Suns, Virgin |
-| Format         | 2xLP, Album, Ltd, Blu |
-| Catalog Number | OS1 LP, 486 373-3 |
+| Label          | Other Suns |
+| Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
+| Catalog Number | OS1 LP |
 
 tracks listed 1-13 on sleeve

@@ -2,7 +2,7 @@
 title: "Faith No More - King For A Day Fool For A Lifetime"
 artist: "Faith No More"
 album_name: "King For A Day Fool For A Lifetime"
-date: 2016-09-12
+date: 2016-09-12T16:37:18.000000Z
 release_id: "9020814"
 slug: "king-for-a-day-fool-for-a-lifetime-9020814"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Get Out		 (2:16)
 2. Ricochet (4:28)
@@ -37,8 +38,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 21. Hippie Jam Song (4:57)
 22. Evidence (Versione Italiana) (3:56)
 23. I Wanna F**k Myself (2:53)
+
+
 ## Spotify
-{{< spotify type="album" id="198GsVgwHgoas39b8TcPYp" width="100%" height="500" >}}
+{{< spotify type="album" id="6KHnSZsn0E2OzcVChd8UUW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tq-9kk8k4gk" title="Faith No More - King For A Day" >}}
@@ -65,8 +70,15 @@ styles: ["Alternative Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Faith No More - King For A Day Fool For A Lifetime](https://www.discogs.com/release/9020814-Faith-No-More-King-For-A-Day-Fool-For-A-Lifetime) |
-| Label          | Slash, Rhino Records |
-| Format         | 2xLP, Album, RE, Gat |
+| Label          | Slash |
+| Format         | Vinyl 2× LP Album Reissue (Gatefold Sleeve, 180 gram) |
 | Catalog Number | 0190295973292 |
 
-A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker.
+A sticker on the front cover states:
+"Double 180gm Gatefold Vinyl
+Bonus LP features rare tracks & previously unreleased versions
+New liner notes by Roddy Bottum
+Includes download code for mp3 version of the album "
+
+Mp3 download catalogued here: [r=12129387]
+The US version of the release does not include a download card and features a different sleeve sticker.

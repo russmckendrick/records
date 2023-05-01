@@ -2,7 +2,7 @@
 title: "Anathema - Untouchable"
 artist: "Anathema"
 album_name: "Untouchable"
-date: 2016-12-13
+date: 2016-12-13T17:50:48.000000Z
 release_id: "4765496"
 slug: "untouchable-4765496"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Untouchable Part 1 (7:07)
 2. Untouchable Part 2 (5:55)
@@ -27,6 +28,9 @@ styles: ["Alternative Rock"]
 11. A Natural Disaster (6:38)
 12. Flying (8:23)
 
+
+
+
 ## Videos
 {{< youtube id="F-pOj1UFa38" title="Anathema - Universal full  live concert Plovdiv Dvd Sep 21, 2012" >}}
 - [ANATHEMA-UNIVERSAL](https://www.youtube.com/watch?v=-8Pk_WA-Q_Q)
@@ -38,8 +42,12 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Anathema - Untouchable](https://www.discogs.com/release/4765496-Anathema-Untouchable) |
-| Label          | Kscope, Kscope |
-| Format         | 2xLP, Album |
-| Catalog Number | KSCOPE843, kscope843 |
+| Label          | Kscope |
+| Format         | Vinyl 2× LP Album |
+| Catalog Number | KSCOPE843 |
 
-Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.  Gatefold sleeve  Made in Germany.
+Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.
+
+Gatefold sleeve
+
+Made in Germany.

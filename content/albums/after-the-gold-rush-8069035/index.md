@@ -2,7 +2,7 @@
 title: "Neil Young - After The Gold Rush"
 artist: "Neil Young"
 album_name: "After The Gold Rush"
-date: 2017-04-02
+date: 2017-04-02T12:58:19.000000Z
 release_id: "8069035"
 slug: "after-the-gold-rush-8069035"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Tell Me Why (2:57)
 2. After The Gold Rush (3:46)
@@ -27,13 +28,23 @@ styles: ["Folk Rock", "Country Rock"]
 11. Cripple Creek Ferry (1:34)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2009 |
 | Discogs Link   | [Neil Young - After The Gold Rush](https://www.discogs.com/release/8069035-Neil-Young-After-The-Gold-Rush) |
-| Label          | Reprise Records, Reprise Records |
-| Format         | LP, Album, RE, RP, 140 |
-| Catalog Number | 517936-1, 1-517936 (K1) |
+| Label          | Reprise Records |
+| Format         | Vinyl LP Album Reissue Repress (140 Gram, Gatefold) |
+| Catalog Number | 517936-1 |
 
-Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.  Originally released in 1970.  ©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  ©℗2009 Reprise Records, a Warner Music Group Company Manufactured in Germany
+Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.
+
+Originally released in 1970.
+
+©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.
+Printed in U.S.A.
+
+©℗2009 Reprise Records, a Warner Music Group Company
+Manufactured in Germany

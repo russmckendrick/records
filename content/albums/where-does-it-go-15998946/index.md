@@ -2,7 +2,7 @@
 title: "Denise Johnson - Where Does It Go"
 artist: "Denise Johnson"
 album_name: "Where Does It Go"
-date: 2021-02-02
+date: 2021-02-02T02:44:51.000000Z
 release_id: "15998946"
 slug: "where-does-it-go-15998946"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Where Does It Go by Denise Johnson"
     caption: "Where Does It Go by Denise Johnson"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. True Faith (4:33)
 2. I'm Not In Love (4:27)
@@ -21,8 +22,12 @@ styles: null
 5. Sunshine After The Rain (3:46)
 6. Well I Wonder (4:50)
 7. Steal Me Easy (4:04)
+
+
 ## Spotify
 {{< spotify type="album" id="7qUdFFdSea6C4Y5S3laQOz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5DwsT7QCf3M" title="True Faith" >}}
@@ -39,7 +44,8 @@ styles: null
 | Release Year   | 2020 |
 | Discogs Link   | [Denise Johnson - Where Does It Go](https://www.discogs.com/release/15998946-Denise-Johnson-Where-Does-It-Go) |
 | Label          | Adassa |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ADASSA003 |
 
-Glossy black inner sleeve with track list, times, writers credits on each side Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021
+Glossy black inner sleeve with track list, times, writers credits on each side
+Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021

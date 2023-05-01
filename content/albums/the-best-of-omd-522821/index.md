@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - The Best Of OMD"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "The Best Of OMD"
-date: 2016-07-05
+date: 2016-07-05T18:10:33.000000Z
 release_id: "522821"
 slug: "the-best-of-omd-522821"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave", "Dance-pop"]
 ---
+
 ## Tracklisting
 1. Electricity
 2. Messages
@@ -28,8 +29,12 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 12. If You Leave
 13. Forever Live And Die
 14. Dreaming
+
+
 ## Spotify
 {{< spotify type="album" id="4nkiw1CUhCOS1ueYjvOxUQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BAnOXcp6h8Y" title="Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)" >}}
@@ -54,7 +59,7 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 | Release Year   | 1988 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - The Best Of OMD](https://www.discogs.com/release/522821-Orchestral-Manoeuvres-In-The-Dark-The-Best-Of-OMD) |
 | Label          | Virgin |
-| Format         | LP, Album, Comp, Gat |
+| Format         | Vinyl LP Album Compilation (Gatefold) |
 | Catalog Number | OMD 1 |
 
 Released in a gatefold sleeve with photos of the group members, plus images of the sleeves used for the release of the singles.

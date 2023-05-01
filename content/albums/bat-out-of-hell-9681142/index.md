@@ -2,7 +2,7 @@
 title: "Meat Loaf - Bat Out Of Hell"
 artist: "Meat Loaf"
 album_name: "Bat Out Of Hell"
-date: 2017-07-05
+date: 2017-07-05T14:33:25.000000Z
 release_id: "9681142"
 slug: "bat-out-of-hell-9681142"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Bat Out Of Hell (9:48)
 2. You Took The Words Right Out Of My Mouth (Hot Summer Night) (5:04)
@@ -21,8 +22,12 @@ styles: ["Pop Rock"]
 5. Two Out Of Three Ain't Bad (5:23)
 6. Paradise By The Dashboard Light (8:28)
 7. For Crying Out Loud (8:45)
+
+
 ## Spotify
 {{< spotify type="album" id="6mvI80w5r78niBmwtu7RF9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}
@@ -41,8 +46,16 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Meat Loaf - Bat Out Of Hell](https://www.discogs.com/release/9681142-Meat-Loaf-Bat-Out-Of-Hell) |
-| Label          | Epic, Legacy, Cleveland International Records, Sony Music |
-| Format         | LP, Album, RE, 180 |
+| Label          | Epic |
+| Format         | Vinyl LP Album Reissue (180ɢ) |
 | Catalog Number | 88985375141 |
 
-Some copies have a sticker.   Dedicated to Wesley and Wilma Aday and Louis Steinman.  Edgar Winter appears courtesy of Blue Sky Records.  Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records.  Album Conceived by Jim Steinman and Meat Loaf.   Made in the EU. 
+Some copies have a sticker. 
+
+Dedicated to Wesley and Wilma Aday and Louis Steinman.
+
+Edgar Winter appears courtesy of Blue Sky Records. 
+Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records. 
+Album Conceived by Jim Steinman and Meat Loaf. 
+
+Made in the EU. 

@@ -2,7 +2,7 @@
 title: "Peter Gabriel - Scratch My Back"
 artist: "Peter Gabriel"
 album_name: "Scratch My Back"
-date: 2016-12-08
+date: 2016-12-08T18:45:55.000000Z
 release_id: "2290486"
 slug: "scratch-my-back-2290486"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Experimental", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Heroes (4:10)
 2. The Boy In The Bubble (4:28)
@@ -26,8 +27,12 @@ styles: ["Experimental", "Symphonic Rock"]
 10. Après Moi (5:13)
 11. Philadelphia (3:46)
 12. Street Spirit (Fade Out) (5:06)
+
+
 ## Spotify
 {{< spotify type="album" id="6UvXlXqOAFv49ePZ22kEyn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9bBKM2NljZg" title="Peter Gabriel - The power of the heart.wmv" >}}
@@ -39,8 +44,10 @@ styles: ["Experimental", "Symphonic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Peter Gabriel - Scratch My Back](https://www.discogs.com/release/2290486-Peter-Gabriel-Scratch-My-Back) |
-| Label          | Real World Records, Classic Records |
-| Format         | LP, Album, 200 |
-| Catalog Number | PGLP12, PG-12 |
+| Label          | Real World Records |
+| Format         | Vinyl LP Album (200g) |
+| Catalog Number | PGLP12 |
 
-Issued on 200 gram vinyl in a deluxe gatefold jacket.  Classic Records reissue on 200 gram QUIEX SV-P.
+Issued on 200 gram vinyl in a deluxe gatefold jacket.
+
+Classic Records reissue on 200 gram QUIEX SV-P.

@@ -2,7 +2,7 @@
 title: "Marillion - Clutching At Straws"
 artist: "Marillion"
 album_name: "Clutching At Straws"
-date: 2018-12-01
+date: 2018-12-01T18:09:11.000000Z
 release_id: "12802669"
 slug: "clutching-at-straws-12802669"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Symphonic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix)
 2. Hotel Hobbies (3:35)
@@ -45,11 +46,12 @@ styles: ["Symphonic Rock", "Prog Rock"]
 29. The Last Straw (7:16)
 30. Incommunicado (5:00)
 31. Garden Party (6:26)
+
+
 ## Spotify
 {{< spotify type="album" id="7M6qdztBAZADkaYJ6bIEhF" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="5fFY1V7uY5I" title="Marillion - White Russian (Clutching At Straws) (UK & Europe 1987 CD)" >}}
+
 
 ## Notes
 | Notes          |             |
@@ -57,7 +59,16 @@ styles: ["Symphonic Rock", "Prog Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Marillion - Clutching At Straws](https://www.discogs.com/release/12802669-Marillion-Clutching-At-Straws) |
 | Label          | Parlophone |
-| Format         | 2xLP, Album, RE, RM + 3xLP + Box, Dlx, Ltd, 180 |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP, Box Set Deluxe Edition Limited Edition Stereo (180 Gram) |
 | Catalog Number | 0190295605179 |
 
-ALBUM INFORMATION: This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.  LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh. LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.  ℗ 2018 this compilation Parlophone Records Ltd.  © 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.  All runouts are etched. 
+ALBUM INFORMATION:
+This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.
+
+LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh.
+LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.
+
+℗ 2018 this compilation Parlophone Records Ltd. 
+© 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.
+
+All runouts are etched. 

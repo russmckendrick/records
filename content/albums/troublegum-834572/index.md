@@ -2,7 +2,7 @@
 title: "Therapy? - Troublegum"
 artist: "Therapy?"
 album_name: "Troublegum"
-date: 2016-12-13
+date: 2016-12-13T17:57:34.000000Z
 release_id: "834572"
 slug: "troublegum-834572"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Knives (1:56)
 2. Screamager (2:36)
@@ -28,8 +29,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 12. Femtex (3:14)
 13. Unrequited (3:03)
 14. Brainsaw (3:58)
+
+
 ## Spotify
 {{< spotify type="album" id="6ub0GyzfrkFZahy42i7pfR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-zZ44S3ZIJM" title="Therapy? - Screamager" >}}
@@ -59,7 +64,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 1994 |
 | Discogs Link   | [Therapy? - Troublegum](https://www.discogs.com/release/834572-Therapy-Troublegum) |
 | Label          | A&M Records |
-| Format         | LP, Album, Ltd, Gre |
+| Format         | Vinyl LP Album Limited Edition (Green) |
 | Catalog Number | 540 196-1 |
 
-Also available on [black vinyl](http://www.discogs.com/Therapy-Troublegum/release/1632751).
+Also available on [url=http://www.discogs.com/Therapy-Troublegum/release/1632751]black vinyl[/url].

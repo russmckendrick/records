@@ -2,7 +2,7 @@
 title: "Gene - The Albums"
 artist: "Gene"
 album_name: "The Albums"
-date: 2021-05-22
+date: 2021-05-22T05:19:26.000000Z
 release_id: "15800345"
 slug: "the-albums-15800345"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Olympian
 2. Haunted By You
@@ -89,13 +90,22 @@ styles: ["Indie Rock", "Britpop"]
 73. Somewhere In The World
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Gene - The Albums](https://www.discogs.com/release/15800345-Gene-The-Albums) |
-| Label          | Demon Records, Demon Records, Demon Records, Demon Records, Demon Records, Demon Records |
-| Format         | Box, Comp, Ltd, S/Edition + LP, Album, RE, Whi + 2 |
-| Catalog Number | DEMRECBOX49X, DEMREC735, DEMREC761, DEMREC736, DEM |
+| Label          | Demon Records |
+| Format         | Box Set Compilation Limited Edition Special Edition, Vinyl LP Album Reissue (White, 180g), Vinyl 2× LP Compilation Reissue (Gold. 180g), Vinyl 2× LP Album Reissue (Maroon, Gatefold, 180g), Vinyl LP Album Reissue (Green, 180g), Vinyl 2× LP Album Reissue (Pink, 180g) |
+| Catalog Number | DEMRECBOX49X |
 
-Limited to 1,000 units  Includes an exclusive 12 x 12 print signed by the band  Includes a booklet with written notes by each member and a piece by journalist Keith Cameron  Track F6, "Untitled," is the song For The Dead (Demo Version), the same song that is listed by name in the 2014 Deluxe Edition CD reissue [r5433760]. 
+Limited to 1,000 units
+
+Includes an exclusive 12 x 12 print signed by the band
+
+Includes a booklet with written notes by each member and a piece by journalist Keith Cameron
+
+Track F6, "Untitled," is the song For The Dead (Demo Version), the same song that is listed by name in the 2014 Deluxe Edition CD reissue [r5433760].
+

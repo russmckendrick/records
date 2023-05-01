@@ -2,7 +2,7 @@
 title: "Tim Bowness - Flowers At The Scene"
 artist: "Tim Bowness"
 album_name: "Flowers At The Scene"
-date: 2019-02-28
+date: 2019-02-28T18:48:33.000000Z
 release_id: "13283408"
 slug: "flowers-at-the-scene-13283408"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. I Go Deeper (4:15)
 2. The Train That Pulled Away (4:04)
@@ -36,8 +37,12 @@ styles: ["Art Rock", "Prog Rock"]
 20. The War On Me (3:47)
 21. Killing To Survive (3:59)
 22. What Lies Here (4:00)
+
+
 ## Spotify
 {{< spotify type="album" id="2N01aGrVGZjf1q2PxuYTV0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper (Lyric Video)" >}}
@@ -50,8 +55,10 @@ styles: ["Art Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408-Tim-Bowness-Flowers-At-The-Scene) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Album, Red + CD, Album + Ltd, Num |
-| Catalog Number | IOMLP 524, 19075928461 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album (Red Transparent), CD Album, All Media Limited Edition Numbered |
+| Catalog Number | IOMLP 524 |
 
-Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card.
+Limited to 500 copies. Signed and numbered by Tim Bowness.
+
+Includes free CD of entire album, lyric insert, and a signed greetings card.

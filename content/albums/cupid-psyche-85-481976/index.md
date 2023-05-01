@@ -2,7 +2,7 @@
 title: "Scritti Politti - Cupid & Psyche 85"
 artist: "Scritti Politti"
 album_name: "Cupid & Psyche 85"
-date: 2017-05-27
+date: 2017-05-27T15:30:35.000000Z
 release_id: "481976"
 slug: "cupid-psyche-85-481976"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Word Girl (4:22)
 2. Small Talk (3:36)
@@ -23,8 +24,12 @@ styles: ["Synth-pop"]
 7. Lover To Fall (4:11)
 8. Wood Beez (Pray Like Aretha Franklin) (4:46)
 9. Hypnotize (3:32)
+
+
 ## Spotify
 {{< spotify type="album" id="0nBH3ITWaQDYT2wAWRdg3K" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cyWB9WPLT1s" title="Scritti Politti - The Word Girl" >}}
@@ -46,7 +51,12 @@ styles: ["Synth-pop"]
 | Release Year   | 1985 |
 | Discogs Link   | [Scritti Politti - Cupid & Psyche 85](https://www.discogs.com/release/481976-Scritti-Politti-Cupid-Psyche-85) |
 | Label          | Virgin |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | V 2350 |
 
-Initial copies of this release on vinyl had the title Cupid & Psyche 85 embossed in gold print. The catalogue number V 2350 is the same.  ℗ 1985 Virgin Records Ltd. © 1985 Jouissance Ltd.  Manufactured in the U.K.
+Initial copies of this release on vinyl had the title Cupid & Psyche 85 embossed in gold print. The catalogue number V 2350 is the same.
+
+℗ 1985 Virgin Records Ltd.
+© 1985 Jouissance Ltd.
+
+Manufactured in the U.K.

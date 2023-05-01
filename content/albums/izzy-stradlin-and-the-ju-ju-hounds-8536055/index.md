@@ -2,7 +2,7 @@
 title: "Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds "
 artist: "Izzy Stradlin And The Ju Ju Hounds"
 album_name: "Izzy Stradlin And The Ju Ju Hounds "
-date: 2020-05-13
+date: 2020-05-13T10:52:36.000000Z
 release_id: "8536055"
 slug: "izzy-stradlin-and-the-ju-ju-hounds-8536055"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Somebody Knockin' (03:27)
 2. Pressure Drop (02:42)
@@ -24,8 +25,12 @@ styles: ["Hard Rock"]
 8. Cuttin' The Rug (05:01)
 9. Take A Look At The Guy (04:43)
 10. Come On Now Inside (03:58)
+
+
 ## Spotify
 {{< spotify type="album" id="0C5dXQc43DCHdGqTU857Wt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop" >}}
@@ -41,8 +46,9 @@ styles: ["Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds ](https://www.discogs.com/release/8536055-Izzy-Stradlin-And-The-Ju-Ju-Hounds-Izzy-Stradlin-And-The-Ju-Ju-Hounds-) |
-| Label          | Geffen Records, Music On Vinyl |
-| Format         | LP, Album, RE |
+| Label          | Geffen Records |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | MOVLP1386 |
 
-180g black vinyl 
+180g black vinyl
+

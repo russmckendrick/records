@@ -1,18 +1,19 @@
 ---
-title: "Max Richter, Various - Behind The Counter With"
-artist: "Max Richter, Various"
+title: "Max Richter - Behind The Counter With"
+artist: "Max Richter"
 album_name: "Behind The Counter With"
-date: 2017-06-19
+date: 2017-06-19T20:05:40.000000Z
 release_id: "10404409"
 slug: "behind-the-counter-with-10404409"
 hideSummary: true
 cover:
     image: "behind-the-counter-with-10404409.jpg"
-    alt: "Behind The Counter With by Max Richter, Various"
-    caption: "Behind The Counter With by Max Richter, Various"
+    alt: "Behind The Counter With by Max Richter"
+    caption: "Behind The Counter With by Max Richter"
 genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Ambient", "Post Rock"]
 ---
+
 ## Tracklisting
 1. The Unanswered Question
 2. BWV 659 Arr. Busoni Nun Komm Den Heiden Heiland
@@ -54,6 +55,9 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 38. Diskprept1 (3:28)
 39. Rockets Fall On Rocket Falls  (20:40)
 
+
+
+
 ## Videos
 {{< youtube id="JV-spttHBcg" title="Zoetrope" >}}
 - [Charles Ives - The Unanswered Question](https://www.youtube.com/watch?v=kkaOz48cq2g)
@@ -74,9 +78,17 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Max Richter, Various - Behind The Counter With](https://www.discogs.com/release/10404409-Max-Richter-Various-Behind-The-Counter-With) |
+| Discogs Link   | [Max Richter - Behind The Counter With](https://www.discogs.com/release/10404409-Max-Richter-Various-Behind-The-Counter-With) |
 | Label          | Rough Trade |
-| Format         | 3xLP, Comp, Tra + 7\", Bla + CD, Comp, Promo |
+| Format         | Vinyl 3× LP Compilation (Transparent Green Vinyl), Vinyl 7" 45 RPM (Black Vinyl), CD Compilation Promo |
 | Catalog Number | rtbtc1lpx |
 
-This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor". The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version. There is a download code for 2 mixes [total time 120:22] The LP has 27 tracks The "Download Mix" has 33 tracks  3 panel sleeve.  
+This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor".
+The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version.
+There is a download code for 2 mixes [total time 120:22]
+The LP has 27 tracks
+The "Download Mix" has 33 tracks
+
+3 panel sleeve.
+
+

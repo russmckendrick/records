@@ -2,7 +2,7 @@
 title: "Tubeway Army - Replicas"
 artist: "Tubeway Army"
 album_name: "Replicas"
-date: 2016-12-04
+date: 2016-12-04T11:08:08.000000Z
 release_id: "7622130"
 slug: "replicas-7622130"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Me! I Disconnect From You (3:22)
 2. Are 'Friends' Electric? (5:24)
@@ -24,8 +25,12 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 8. It Must Have Been Years (4:01)
 9. When The Machines Rock (3:14)
 10. I Nearly Married A Human (6:31)
+
+
 ## Spotify
 {{< spotify type="album" id="14chsctrt7Rx38fQUbfqFz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}
@@ -45,7 +50,15 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 | Release Year   | 2015 |
 | Discogs Link   | [Tubeway Army - Replicas](https://www.discogs.com/release/7622130-Tubeway-Army-Replicas) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | BBQLP 7 |
 
-Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.
+Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.
+
+℗ 1979 Beggars Banquet
+© 2015 Beggars Banquet
+
+Mixed at Marcus Music AB, London
+
+Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike
+Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.

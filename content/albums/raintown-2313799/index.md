@@ -2,7 +2,7 @@
 title: "Deacon Blue - Raintown"
 artist: "Deacon Blue"
 album_name: "Raintown"
-date: 2015-09-22
+date: 2015-09-22T17:47:19.000000Z
 release_id: "2313799"
 slug: "raintown-2313799"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Born In A Storm (1:35)
 2. Raintown (3:48)
@@ -25,8 +26,12 @@ styles: ["Synth-pop"]
 9. The Very Thing (3:32)
 10. Love's Great Fears (3:40)
 11. Town To Be Blamed (5:20)
+
+
 ## Spotify
 {{< spotify type="album" id="1ACWApd6Nkv6ygVOkKQoFq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xahuOCodtL0" title="Born in a Storm" >}}
@@ -58,7 +63,7 @@ styles: ["Synth-pop"]
 | Release Year   | 1987 |
 | Discogs Link   | [Deacon Blue - Raintown](https://www.discogs.com/release/2313799-Deacon-Blue-Raintown) |
 | Label          | CBS |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CBS 450549 1 |
 
 ℗ © 1987 CBS Records

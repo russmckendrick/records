@@ -2,7 +2,7 @@
 title: "Oasis - Definitely Maybe"
 artist: "Oasis"
 album_name: "Definitely Maybe"
-date: 2015-12-21
+date: 2015-12-21T22:34:46.000000Z
 release_id: "5697791"
 slug: "definitely-maybe-5697791"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Rock 'n' Roll Star
 2. Shakermaker
@@ -26,11 +27,14 @@ styles: ["Alternative Rock", "Britpop"]
 10. Digsy's Dinner
 11. Slide Away
 12. Married With Children
-## Spotify
-{{< spotify type="album" id="3AMHMM2aNG6k3d7ybcQ5bY" width="100%" height="500" >}}
+
+
+
 
 ## Videos
-{{< youtube id="xYJWZ1K6hPI" title="O̲a̲sis - D̲e̲finitely M̲a̲ybe (Full Album)" >}}
+{{< youtube id="TDe1DqxwJoc" title="Oasis - Live Forever (Official HD Remastered Video)" >}}
+- [Oasis - Supersonic (Official HD Remastered Video)](https://www.youtube.com/watch?v=BJKpUH2kJQg)
+- [Oasis - Rock 'N' Roll Star (Official HD Remastered Video)](https://www.youtube.com/watch?v=3aatEBIZHNU)
 
 ## Notes
 | Notes          |             |
@@ -38,7 +42,24 @@ styles: ["Alternative Rock", "Britpop"]
 | Release Year   | 2014 |
 | Discogs Link   | [Oasis - Definitely Maybe](https://www.discogs.com/release/5697791-Oasis-Definitely-Maybe) |
 | Label          | Big Brother |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Catalog Number | RKIDLP70 |
 
-- 20th anniversary reissue - mat cover surface  On black round sticker on shrinkwrap (front cover): REMASTERED DOUBLE HEAVYWEIGHT VINYL INCLUDEs DOWNLOAD CODE FOR ALBUM, BONUS UNRELEASED TRACKS & RARITIES"  On rear cover: ℗ & © 2014 Big Brother Recordings Ltd.  Inside gatefold: Remastered in 2014 by Ian Cooper at Metropolis Mastering, London.
+- 20th anniversary reissue
+- mat cover surface
+
+On black round sticker on shrinkwrap (front cover):
+REMASTERED
+DOUBLE
+HEAVYWEIGHT VINYL
+INCLUDEs
+DOWNLOAD CODE FOR ALBUM,
+BONUS
+UNRELEASED TRACKS
+& RARITIES"
+
+On rear cover:
+℗ & © 2014 Big Brother Recordings Ltd.
+
+Inside gatefold:
+Remastered in 2014 by Ian Cooper at Metropolis Mastering, London.

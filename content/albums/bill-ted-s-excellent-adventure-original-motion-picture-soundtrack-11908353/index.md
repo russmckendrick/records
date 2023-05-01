@@ -2,7 +2,7 @@
 title: "Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
 artist: "Various"
 album_name: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
-date: 2018-11-30
+date: 2018-11-30T15:23:32.000000Z
 release_id: "11908353"
 slug: "bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ---
+
 ## Tracklisting
 1. Play With Me (3:31)
 2. The Boys And Girls Are Doing It (3:22)
@@ -24,6 +25,9 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 8. Walk Away (4:11)
 9. In Time (5:09)
 10. Two Heads Are Better Than One (4:26)
+
+
+
 
 ## Videos
 {{< youtube id="eDtAgi31zIc" title="Big Pig - I Can't Break Away (Bill&Ted's Exellent Adventure)" >}}
@@ -41,8 +45,14 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack](https://www.discogs.com/release/11908353-Various-Bill-Teds-Excellent-Adventure-Original-Motion-Picture-Soundtrack) |
-| Label          | A&M Records, Rusted Wave |
-| Format         | LP, Album, Ltd |
-| Catalog Number | B0026799-01, RW-005 |
+| Label          | A&M Records |
+| Format         | Vinyl LP Album Limited Edition |
+| Catalog Number | B0026799-01 |
 
-Standard black vinyl version.  No OBI strip.  Co-Release with Rusted Wave & Mondo LP housed in a silver board jacket Includes printed inner sleeve & insert Initial pressing of 500 LPs on black vinyl
+Standard black vinyl version. 
+No OBI strip.
+
+Co-Release with Rusted Wave & Mondo
+LP housed in a silver board jacket
+Includes printed inner sleeve & insert
+Initial pressing of 500 LPs on black vinyl

@@ -2,7 +2,7 @@
 title: "Bernard Butler - People Move On"
 artist: "Bernard Butler"
 album_name: "People Move On"
-date: 2021-06-29
+date: 2021-06-29T02:29:07.000000Z
 release_id: "19127773"
 slug: "people-move-on-19127773"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Woman I Know (7:51)
 2. You Just Know (4:39)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Stay (5:16)
 11. In Vain (4:55)
 12. I'm Tired (4:54)
+
+
 ## Spotify
 {{< spotify type="album" id="2ek8848KJ7XKzeICUDvdQ7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xM54pVZkEMU" title="Bernard Butler - People Move On (1998) Full album" >}}
@@ -47,7 +52,12 @@ styles: ["Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Bernard Butler - People Move On](https://www.discogs.com/release/19127773-Bernard-Butler-People-Move-On) |
 | Label          | Demon Records |
-| Format         | 2xLP, Album, RE, Cle |
+| Format         | Vinyl 2× LP Album Reissue (Clear, 180 Gram) |
 | Catalog Number | DEMREC879 |
 
-Record Store Day 2021 Release  With printed inner sleeves.  Made in EU 
+Record Store Day 2021 Release
+
+With printed inner sleeves.
+
+Made in EU
+

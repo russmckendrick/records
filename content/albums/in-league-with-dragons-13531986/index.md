@@ -2,7 +2,7 @@
 title: "The Mountain Goats - In League With Dragons"
 artist: "The Mountain Goats"
 album_name: "In League With Dragons"
-date: 2019-04-27
+date: 2019-04-27T12:02:19.000000Z
 release_id: "13531986"
 slug: "in-league-with-dragons-13531986"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Done Bleeding
 2. Younger
@@ -28,8 +29,12 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 12. Sicilian Crest
 13. Sentries In The Ambush
 14. Divided Sky Lane
+
+
 ## Spotify
 {{< spotify type="album" id="5y9OP5VLb8oA1uBj31rxoO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="987MTbOl0mc" title="The Mountain Goats Younger" >}}
@@ -43,7 +48,7 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [The Mountain Goats - In League With Dragons](https://www.discogs.com/release/13531986-The-Mountain-Goats-In-League-With-Dragons) |
 | Label          | Merge Records |
-| Format         | 2xLP, Album, Gre + 7\" + Ltd, Pea |
+| Format         | Vinyl 2× LP Album (Green), Vinyl 7" 45 RPM, All Media Limited Edition (Peak Vinyl Version) |
 | Catalog Number | MRG679A |
 
  Peak Vinyl version version on green vinyl. Housed in a gatefold jacket with full lyrics. Includes an exclusive black vinyl 7" featuring two non-album tracks, a full download of the album and bonus tracks and a poster.

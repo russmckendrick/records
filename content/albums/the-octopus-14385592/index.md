@@ -2,7 +2,7 @@
 title: "Amplifier - The Octopus"
 artist: "Amplifier"
 album_name: "The Octopus"
-date: 2021-03-13
+date: 2021-03-13T05:43:56.000000Z
 release_id: "14385592"
 slug: "the-octopus-14385592"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
+
 ## Tracklisting
 1. Part One
 2. The Runner (3:38)
@@ -33,8 +34,9 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 17. Oscar Night // Embryo (7:44)
 18. The Eternal (6:23)
 19. Forever And More (9:23)
-## Spotify
-{{< spotify type="album" id="6zXGq7CkE3fE3hBmSrXoVD" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="mixPxkJswHA" title="Amplifier  The Wave  HD" >}}
@@ -48,7 +50,21 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Amplifier - The Octopus](https://www.discogs.com/release/14385592-Amplifier-The-Octopus) |
 | Label          | Rockosmos |
-| Format         | LP, Cle + LP, Blu + LP, Ora + LP, Red + Album, RE, |
+| Format         | Vinyl LP (Clear With Black Splatter), Vinyl LP (Blue Transparent With Black Splatter), Vinyl LP (Orange Transparent With Black Splatter), Vinyl LP (Red Transparent With Black Splatter), All Media Album Reissue Remastered |
 | Catalog Number | ROK 70 |
 
-Reissue on vinyl for the first time, only available through preorder and prepayment on the band´s website.  500 Copies only  Including Bonus Track "The Eternal"  From Amplifier's bandcamp page.  "The moment is here. Getting this together has been a monumental effort. It was never going to be done in half measures and by golly it hasn't been. This is EIGHT SIDES of premium FX Splatter Vinyl in a beautiful Hardcase gold foiled book. There's no doubt that it is expensive - but we guarantee that you will be blown away by this. One pressing only - you will never sell it and handle it only with white gloves (not included) Remastered for vinyl by Greg Norman. We can only afford 500 - so it will be strictly first come first served."
+Reissue on vinyl for the first time, only available through preorder and prepayment on the band´s website.
+
+500 Copies only
+
+Including Bonus Track "The Eternal"
+
+From Amplifier's bandcamp page.
+
+"The moment is here.
+Getting this together has been a monumental effort. It was never going to be done in half measures and by golly it hasn't been.
+This is EIGHT SIDES of premium FX Splatter Vinyl in a beautiful Hardcase gold foiled book.
+There's no doubt that it is expensive - but we guarantee that you will be blown away by this.
+One pressing only - you will never sell it and handle it only with white gloves (not included)
+Remastered for vinyl by Greg Norman.
+We can only afford 500 - so it will be strictly first come first served."

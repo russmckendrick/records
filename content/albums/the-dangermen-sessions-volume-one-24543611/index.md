@@ -2,7 +2,7 @@
 title: "Madness - The Dangermen Sessions (Volume One)"
 artist: "Madness"
 album_name: "The Dangermen Sessions (Volume One)"
-date: 2022-09-17
+date: 2022-09-17T09:34:22.000000Z
 release_id: "24543611"
 slug: "the-dangermen-sessions-volume-one-24543611"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska"]
 ---
+
 ## Tracklisting
 1. This Is Where (0:30)
 2. Girl Why Don't You? (3:05)
@@ -27,6 +28,9 @@ styles: ["Ska"]
 11. You'll Lose A Good Thing (2:42)
 12. Rain (2:55)
 13. So Much Trouble In The World (3:44)
+
+
+
 
 ## Videos
 {{< youtube id="KPoypZ9casY" title="Israelites" >}}
@@ -49,8 +53,14 @@ styles: ["Ska"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Madness - The Dangermen Sessions (Volume One)](https://www.discogs.com/release/24543611-Madness-The-Dangermen-Sessions-Volume-One) |
-| Label          | Union Square Music, Union Square Music |
-| Format         | LP, Album, RE |
-| Catalog Number | SALVOLP15, 4050538618839 |
+| Label          | Union Square Music |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | SALVOLP15 |
 
-Made in Poland  Heavyweight 180 Gram Black Vinyl In card sleeve with inner and insert  ℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd. This release © 2022 Union Square Music Ltd.
+Made in Poland
+
+Heavyweight 180 Gram Black Vinyl
+In card sleeve with inner and insert
+
+℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd.
+This release © 2022 Union Square Music Ltd.

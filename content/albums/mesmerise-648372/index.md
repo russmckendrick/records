@@ -2,7 +2,7 @@
 title: "Chapterhouse - Mesmerise"
 artist: "Chapterhouse"
 album_name: "Mesmerise"
-date: 2016-12-07
+date: 2016-12-07T17:40:35.000000Z
 release_id: "648372"
 slug: "mesmerise-648372"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Mesmerise
 2. Precious One
 3. Summer Chill
 4. Then We'll Rise
+
+
+
 
 ## Videos
 {{< youtube id="HW0JWRt0t1A" title="Chapterhouse - Precious One" >}}
@@ -33,8 +37,12 @@ styles: ["Shoegaze", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [Chapterhouse - Mesmerise](https://www.discogs.com/release/648372-Chapterhouse-Mesmerise) |
-| Label          | Dedicated, Dedicated |
-| Format         | 12\", Single |
-| Catalog Number | HOUSE 001T, HOUSE 001 T |
+| Label          | Dedicated |
+| Format         | Vinyl 12" 45 RPM Single |
+| Catalog Number | HOUSE 001T |
 
-Made in England.  ℗ & © 1991 Dedicated.  All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios.
+Made in England.
+
+℗ & © 1991 Dedicated.
+
+All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios.

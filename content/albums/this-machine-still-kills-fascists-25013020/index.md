@@ -2,7 +2,7 @@
 title: "Dropkick Murphys - This Machine Still Kills Fascists"
 artist: "Dropkick Murphys"
 album_name: "This Machine Still Kills Fascists"
-date: 2022-11-14
+date: 2022-11-14T05:22:20.000000Z
 release_id: "25013020"
 slug: "this-machine-still-kills-fascists-25013020"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Acoustic"]
 ---
+
 ## Tracklisting
 1. Two 6's Upside Down (3:29)
 2. Talking Jukebox (3:14)
@@ -26,8 +27,12 @@ styles: ["Folk", "Acoustic"]
 10. Dig A Hole (3:10)
 11. Bonus Track
 12. Never Git Drunk No More (Alternate Version)
+
+
 ## Spotify
 {{< spotify type="album" id="3WK3HkX9lTZIhnHdehjEGB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-5yrNwMWff0" title="Dropkick Murphys Two 6's Upside Down (Music Video)" >}}
@@ -43,8 +48,12 @@ styles: ["Folk", "Acoustic"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Dropkick Murphys - This Machine Still Kills Fascists](https://www.discogs.com/release/25013020-Dropkick-Murphys-This-Machine-Still-Kills-Fascists) |
-| Label          | Dummy Luck Music, Dummy Luck Music, Dummy Luck Music |
-| Format         | LP, Album, Ltd, Cry |
-| Catalog Number | DLM002LPXC, DLM002LP, DLM-002 |
+| Label          | Dummy Luck Music |
+| Format         | Vinyl LP Album Limited Edition Stereo (Crystal) |
+| Catalog Number | DLM002LPXC |
 
-Indie store exclusive pressed on crystal vinyl  Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.  Songs are listed on the sleeve in track order and are not divided into sides
+Indie store exclusive pressed on crystal vinyl
+
+Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.
+
+Songs are listed on the sleeve in track order and are not divided into sides

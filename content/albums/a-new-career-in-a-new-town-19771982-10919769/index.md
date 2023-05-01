@@ -2,7 +2,7 @@
 title: "David Bowie - A New Career In A New Town [ 1977–1982 ]"
 artist: "David Bowie"
 album_name: "A New Career In A New Town [ 1977–1982 ]"
-date: 2017-09-29
+date: 2017-09-29T17:28:10.000000Z
 release_id: "10919769"
 slug: "a-new-career-in-a-new-town-19771982-10919769"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Avantgarde", "Art Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Low
 2. Speed Of Life
@@ -134,13 +135,15 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 118. Bertolt Brecht’s Baal
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [David Bowie - A New Career In A New Town [ 1977–1982 ]](https://www.discogs.com/release/10919769-David-Bowie-A-New-Career-In-A-New-Town-19771982-) |
 | Label          | Parlophone |
-| Format         | Box, Comp, Ltd + LP, Album, RE, RM + LP, Album, RE |
+| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 12" 45 RPM EP Compilation Remastered Stereo, Vinyl 2× LP Album Reissue Remastered Stereo (Yellow), Vinyl 3× LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Compilation Remastered Stereo Mono |
 | Catalog Number | DBXL 3 |
 
 Deluxe box set includes 84-page hardback book.

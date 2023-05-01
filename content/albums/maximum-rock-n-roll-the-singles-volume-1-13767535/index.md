@@ -2,7 +2,7 @@
 title: "Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 "
 artist: "Primal Scream"
 album_name: "Maximum Rock 'N' Roll The Singles Volume 1 "
-date: 2019-06-16
+date: 2019-06-16T21:51:10.000000Z
 release_id: "13767535"
 slug: "maximum-rock-n-roll-the-singles-volume-1-13767535"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Blues Rock"]
 ---
+
 ## Tracklisting
 1. Velocity Girl
 2. Gentle Tuesday
@@ -32,8 +33,8 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 16. Swastika Eyes
 17. Kill All Hippies
 
-## Videos
-{{< youtube id="R7HNtyxrlu8" title="Bobby Gillespie on Primal Scream's ‘Maximum Rock N Roll’ – The Blues Kitchen Presents..." >}}
+
+
 
 ## Notes
 | Notes          |             |
@@ -41,7 +42,7 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 | Release Year   | 2019 |
 | Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 ](https://www.discogs.com/release/13767535-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-1-) |
 | Label          | Sony Music |
-| Format         | LP, Red + LP, Whi + Comp, Ltd |
+| Format         | Vinyl LP (Red ), Vinyl LP (White ), All Media Compilation Limited Edition |
 | Catalog Number | 88985486441 |
 
 Limited 500 copies in a gatefold sleeve.

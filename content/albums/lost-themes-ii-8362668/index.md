@@ -2,7 +2,7 @@
 title: "John Carpenter - Lost Themes II"
 artist: "John Carpenter"
 album_name: "Lost Themes II"
-date: 2018-02-17
+date: 2018-02-17T10:06:15.000000Z
 release_id: "8362668"
 slug: "lost-themes-ii-8362668"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Dark Ambient", "Synthwave", "Electro"]
 ---
+
 ## Tracklisting
 1. Distant Dream
 2. White Pulse
@@ -25,8 +26,12 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 9. Bela Lugosi
 10. Last Sunrise
 11. Utopian Facade
+
+
 ## Spotify
-{{< spotify type="album" id="5LgbAAdBK2hWlrQdWplfGK" width="100%" height="500" >}}
+{{< spotify type="album" id="2GYD5j8wa4kEhlmN5GGiUT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="sAfVnzSVrBY" title="John Carpenter Lost themes II - Distant Dream" >}}
@@ -48,7 +53,9 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 | Release Year   | 2016 |
 | Discogs Link   | [John Carpenter - Lost Themes II](https://www.discogs.com/release/8362668-John-Carpenter-Lost-Themes-II) |
 | Label          | Sacred Bones Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | SBR-150 |
 
-Release in die-cut jacket with printed inner sleeve.  Includes download card.
+Release in die-cut jacket with printed inner sleeve.
+
+Includes download card.

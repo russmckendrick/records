@@ -2,7 +2,7 @@
 title: "DJ Spinna - The Wonder Of Stevie (Volume 3)"
 artist: "DJ Spinna"
 album_name: "The Wonder Of Stevie (Volume 3)"
-date: 2016-07-30
+date: 2016-07-30T12:23:04.000000Z
 release_id: "8755651"
 slug: "the-wonder-of-stevie-volume-3-8755651"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Gospel", "Disco"]
 ---
+
 ## Tracklisting
 1. Buttercup
 2. Have A Talk With God
@@ -30,6 +31,9 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 14. If You Don't Love Me
 15. Go Home
 16. Don't You Worry Bout A Thing
+
+
+
 
 ## Videos
 {{< youtube id="4qPfGgjCLns" title="Keep On Running" >}}
@@ -56,8 +60,6 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [DJ Spinna - The Wonder Of Stevie (Volume 3)](https://www.discogs.com/release/8755651-DJ-Spinna-The-Wonder-Of-Stevie-Volume-3) |
-| Label          | BBE, !K7 Records |
-| Format         | 2xLP, Comp |
+| Label          | BBE |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | BBE358CLP |
-
-

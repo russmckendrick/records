@@ -2,7 +2,7 @@
 title: "Jane's Addiction - Sterling Spoon "
 artist: "Jane's Addiction"
 album_name: "Sterling Spoon "
-date: 2016-12-27
+date: 2016-12-27T12:10:00.000000Z
 release_id: "9233585"
 slug: "sterling-spoon-9233585"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Nothing's Shocking
 2. Up The Beach (3:02)
@@ -60,6 +61,9 @@ styles: ["Alternative Rock", "Hard Rock"]
 44. Summertime Rolls  (7:59)
 45. Ocean Size  (4:39)
 
+
+
+
 ## Videos
 {{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}
 - [Up the Beach](https://www.youtube.com/watch?v=eEORxpfQMTA)
@@ -83,8 +87,10 @@ styles: ["Alternative Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Jane's Addiction - Sterling Spoon ](https://www.discogs.com/release/9233585-Janes-Addiction-Sterling-Spoon-) |
-| Label          | Rhino Records |
-| Format         | LP, Album, RE + 2xLP, Album, RE + LP, Album, RE +  |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album (Gatefold), Box Set Compilation Limited Edition |
 | Catalog Number | R1 556516 |
 
-Anniversary edition, limited to 5000 copies worldwide. Contains a [l873810] download coupon for a digital version of the release.  All albums are unsealed inside the outer packaging, with each disc is housed in a poly-lined white sleeve. "Nothing's Shocking" has an additional colour inner sleeve and "Ritual De Lo Habitual" has a colour insert.
+Anniversary edition, limited to 5000 copies worldwide. Contains a [l873810] download coupon for a digital version of the release.
+
+All albums are unsealed inside the outer packaging, with each disc is housed in a poly-lined white sleeve. "Nothing's Shocking" has an additional colour inner sleeve and "Ritual De Lo Habitual" has a colour insert.

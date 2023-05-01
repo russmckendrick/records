@@ -2,7 +2,7 @@
 title: "Anathema - A Sort Of Homecoming"
 artist: "Anathema"
 album_name: "A Sort Of Homecoming"
-date: 2016-07-08
+date: 2016-07-08T16:31:17.000000Z
 release_id: "7809395"
 slug: "a-sort-of-homecoming-7809395"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. The Lost Song - Part 2 (6:39)
 2. Untouchable - Part 1 (6:29)
@@ -29,8 +30,12 @@ styles: ["Prog Rock", "Acoustic"]
 13. Internal Landscapes (7:03)
 14. A Natural Disaster (8:45)
 15. Fragile Dreams (7:32)
+
+
 ## Spotify
 {{< spotify type="album" id="5MtqVNvbhQB2RlhiuFnuVN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming (2015)" >}}
@@ -41,7 +46,5 @@ styles: ["Prog Rock", "Acoustic"]
 | Release Year   | 2015 |
 | Discogs Link   | [Anathema - A Sort Of Homecoming](https://www.discogs.com/release/7809395-Anathema-A-Sort-Of-Homecoming) |
 | Label          | Kscope |
-| Format         | 3xLP, Gat |
+| Format         | Vinyl 3× LP (Gatefold) |
 | Catalog Number | KSCOPE884 |
-
-

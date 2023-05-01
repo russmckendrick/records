@@ -2,7 +2,7 @@
 title: "The Smashing Pumpkins - Adore"
 artist: "The Smashing Pumpkins"
 album_name: "Adore"
-date: 2016-03-06
+date: 2016-03-06T09:21:22.000000Z
 release_id: "6172304"
 slug: "adore-6172304"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. To Sheila (4:40)
 2. Ava Adore (4:20)
@@ -30,8 +31,11 @@ styles: ["Alternative Rock"]
 14. For Martha (8:17)
 15. Blank Page (4:51)
 16. 17 (0:17)
+
+
 ## Spotify
 {{< spotify type="album" id="7ysKTnHt4ve0MvIWm3vPdz" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -40,7 +44,7 @@ styles: ["Alternative Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [The Smashing Pumpkins - Adore](https://www.discogs.com/release/6172304-The-Smashing-Pumpkins-Adore) |
 | Label          | Virgin |
-| Format         | 2xLP, Album, RE, RM |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Catalog Number | 6 02537 89926 5 |
 
 Comes with 2 types of innersleeve; 1 type is blanck, 2nd type is printed innersleeves (both are different, one with lyrics and one with  credits)

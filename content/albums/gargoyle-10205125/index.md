@@ -2,7 +2,7 @@
 title: "Mark Lanegan Band - Gargoyle"
 artist: "Mark Lanegan Band"
 album_name: "Gargoyle"
-date: 2017-05-16
+date: 2017-05-16T18:14:01.000000Z
 release_id: "10205125"
 slug: "gargoyle-10205125"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 ---
+
 ## Tracklisting
 1. Death's Head Tattoo
 2. Nocturne
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 8. Drunk On Destruction
 9. First Day Of Winter
 10. Old Swan
+
+
 ## Spotify
 {{< spotify type="album" id="6nCviCRyD2aptKlHAN7lEj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="WlRo0LLIHOU" title="Mark Lanegan - Death's Head Tattoo" >}}
@@ -44,7 +49,12 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Mark Lanegan Band - Gargoyle](https://www.discogs.com/release/10205125-Mark-Lanegan-Band-Gargoyle) |
 | Label          | Heavenly |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | HVNLP137 |
 
-Housed in a gatefold cover, contains a download coupon for the entire album.   From the back cover:  ℗ & © 2017 Heavenly Recordings under exclusive license to [PIAS]   Pressing plant is uncredited, derived from runout the etchings. 
+Housed in a gatefold cover, contains a download coupon for the entire album. 
+
+From the back cover: 
+℗ & © 2017 Heavenly Recordings under exclusive license to [PIAS] 
+
+Pressing plant is uncredited, derived from runout the etchings. 

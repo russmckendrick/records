@@ -2,7 +2,7 @@
 title: "Jon Hopkins - Singularity"
 artist: "Jon Hopkins"
 album_name: "Singularity"
-date: 2020-03-14
+date: 2020-03-14T08:49:42.000000Z
 release_id: "11950639"
 slug: "singularity-11950639"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Tech House", "Electro", "Experimental"]
 ---
+
 ## Tracklisting
 1. Singularity
 2. Emerald Rush
@@ -23,8 +24,12 @@ styles: ["Tech House", "Electro", "Experimental"]
 7. Echo Dissolve
 8. Luminous Beings
 9. Recovery
+
+
 ## Spotify
 {{< spotify type="album" id="1nvzBC1M3dlCMIxfUCBhlO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}
@@ -45,7 +50,12 @@ styles: ["Tech House", "Electro", "Experimental"]
 | Release Year   | 2018 |
 | Discogs Link   | [Jon Hopkins - Singularity](https://www.discogs.com/release/11950639-Jon-Hopkins-Singularity) |
 | Label          | Domino |
-| Format         | 2xLP, Album, 180 |
+| Format         | Vinyl 2× LP Album (180 Gram) |
 | Catalog Number | WIGLP352 |
 
-Standard black-vinyl version.  Written, produced and engineered at Café Music Studios, London Mixed at Café Music Studios, London Piano on Emerald Rush recorded at Shoreditch Treehouse, London London Voices recorded at Angel Studios, London
+Standard black-vinyl version.
+
+Written, produced and engineered at Café Music Studios, London
+Mixed at Café Music Studios, London
+Piano on Emerald Rush recorded at Shoreditch Treehouse, London
+London Voices recorded at Angel Studios, London

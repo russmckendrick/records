@@ -2,7 +2,7 @@
 title: "Nirvana - Nevermind"
 artist: "Nirvana"
 album_name: "Nevermind"
-date: 2016-09-08
+date: 2016-09-08T17:42:11.000000Z
 release_id: "1860470"
 slug: "nevermind-1860470"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Smells Like Teen Spirit (5:00)
 2. In Bloom (4:13)
@@ -26,17 +27,19 @@ styles: ["Alternative Rock", "Grunge"]
 10. Stay Away (3:30)
 11. On A Plain (3:12)
 12. Something In The Way (3:43)
+
+
 ## Spotify
 {{< spotify type="album" id="2guirTSEqLizK7j9i1MTTZ" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="L1lTdnFQZw4" title="Выпуск №66. Nirvana ‎– Nevermind(Vinyl, LP, Album, Reissue, 180g)" >}}
-- [Nirvana - Breed (Audio)](https://www.youtube.com/watch?v=J6EDW5WFb2M)
 - [Nirvana - Smells Like Teen Spirit (Official Music Video)](https://www.youtube.com/watch?v=hTWKbfoikeg)
-- [Nirvana - In Bloom](https://www.youtube.com/watch?v=e-LDY0hr3Z4)
 - [Nirvana - In Bloom (Official Music Video)](https://www.youtube.com/watch?v=PbgKEjNBHqM)
-- [NIRVANA - Come As You Are (Remastered 2021) (HQ)](https://www.youtube.com/watch?v=VVBxh_Wj5iA)
 - [Nirvana - Come As You Are (Official Music Video)](https://www.youtube.com/watch?v=vabnZ9-ex7o)
+- [Nirvana - Breed (Audio)](https://www.youtube.com/watch?v=J6EDW5WFb2M)
 - [Nirvana - Lithium (Official Music Video)](https://www.youtube.com/watch?v=pkcJEvMcnEg)
 - [Nirvana - Polly (Audio)](https://www.youtube.com/watch?v=DrlaVYKWeLU)
 - [Nirvana - Territorial Pissings (Audio)](https://www.youtube.com/watch?v=9yNPgx0swCM)
@@ -55,7 +58,13 @@ styles: ["Alternative Rock", "Grunge"]
 | Release Year   | 2008 |
 | Discogs Link   | [Nirvana - Nevermind](https://www.discogs.com/release/1860470-Nirvana-Nevermind) |
 | Label          | DGC |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Catalog Number | 0720642442517 |
 
-Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU.
+Part of the "Back To Black - 60th Vinyl Anniversary" series.
+"Includes A Voucher To Download MP3 Version Of The Album
+180 Gram Vinyl Remastered
+www.backtoblackvinyl.com"
+
+℗ 1991 Geffen Records © 1991 Geffen Records
+Made in the EU.

@@ -2,7 +2,7 @@
 title: "The Beach Boys - Pet Sounds"
 artist: "The Beach Boys"
 album_name: "Pet Sounds"
-date: 2015-08-09
+date: 2015-08-09T08:45:34.000000Z
 release_id: "1567306"
 slug: "pet-sounds-1567306"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 ---
+
 ## Tracklisting
 1. Wouldn't It Be Nice
 2. You Still Believe In Me
@@ -27,14 +28,15 @@ styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 11. I Just Wasn't Made For These Times
 12. Pet Sounds
 13. Caroline No
+
+
 ## Spotify
 {{< spotify type="album" id="6GphKx2QAPRoVGWE9D7ou8" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="Mh_yhTyae08" title="The B̲each B̲oys - P̲et S̲ounds (Full Album) 1966" >}}
-- [The Beach Boys - Wouldn't It Be Nice](https://www.youtube.com/watch?v=5lP8BZcyoEQ)
-- [T̲h̲e̲ B̲each B̲oys - P̲et̲ S̲ounds [Full Album] (1966)](https://www.youtube.com/watch?v=f9keMETFIbk)
-- [Pet Sounds (Stereo / Remastered)](https://www.youtube.com/watch?v=EeN_NytxKEc)
 
 ## Notes
 | Notes          |             |
@@ -42,7 +44,18 @@ styles: ["Psychedelic Rock", "Pop Rock", "Surf"]
 | Release Year   | 1966 |
 | Discogs Link   | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/1567306-The-Beach-Boys-Pet-Sounds) |
 | Label          | Capitol Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | ST 2458 |
 
-1st UK stereo press. Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock  Garrod & Lofthouse: Patents Pending ''flipback'' sleeve.  "Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo   Compared to this edition, the late 60's reissue [r12655444]  has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.   Also released in mono (# T 2458). 
+1st UK stereo press.
+Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock 
+Garrod & Lofthouse: Patents Pending ''flipback'' sleeve. 
+"Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo
+
+
+Compared to this edition, the late 60's reissue [r12655444] 
+has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.
+
+
+Also released in mono (# T 2458).
+

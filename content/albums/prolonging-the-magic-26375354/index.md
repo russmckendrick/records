@@ -2,7 +2,7 @@
 title: "Cake - Prolonging The Magic"
 artist: "Cake"
 album_name: "Prolonging The Magic"
-date: 2023-03-23
+date: 2023-03-23T03:01:17.000000Z
 release_id: "26375354"
 slug: "prolonging-the-magic-26375354"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Satan Is My Motor (3:12)
 2. Mexico (3:26)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock"]
 11. Let Me Go (3:29)
 12. Cool Blue Reason (3:27)
 13. Where Would I Be? (3:52)
+
+
 ## Spotify
 {{< spotify type="album" id="1vbpW28Od2ATmVyAZ0QZ3j" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FRZzUh9hcTo" title="Cake - Never There" >}}
@@ -41,8 +46,12 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Cake - Prolonging The Magic](https://www.discogs.com/release/26375354-Cake-Prolonging-The-Magic) |
-| Label          | Sony Music, Sony Music |
-| Format         | LP, Album, Ltd, RE, RM, Bab |
-| Catalog Number | 19658714061, 19658714061S1 |
+| Label          | Sony Music |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Baby Blue, 140 Gr.) |
+| Catalog Number | 19658714061 |
 
-Cake Webstore Exclusive Tracks listed sequentially.  No Catalog number on spine, jacket, or inner sleeve. Catalog number on label is 19658714061 and number on hype sticker is 19658714061S1.  [Weight not mentioned, denoted as on Cake Website]
+Cake Webstore Exclusive
+Tracks listed sequentially.
+
+No Catalog number on spine, jacket, or inner sleeve. Catalog number on label is 19658714061 and number on hype sticker is 19658714061S1. 
+[Weight not mentioned, denoted as on Cake Website]

@@ -2,7 +2,7 @@
 title: "Gary Numan - Splinter (Songs From A Broken Mind)"
 artist: "Gary Numan"
 album_name: "Splinter (Songs From A Broken Mind)"
-date: 2017-02-24
+date: 2017-02-24T19:44:52.000000Z
 release_id: "5023457"
 slug: "splinter-songs-from-a-broken-mind-5023457"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Darkwave"]
 ---
+
 ## Tracklisting
 1. I Am Dust
 2. Here In The Black
@@ -26,8 +27,12 @@ styles: ["New Wave", "Darkwave"]
 10. We're The Unforgiven
 11. Who Are You
 12. My Last Day
+
+
 ## Spotify
 {{< spotify type="album" id="5VYauwYxotVdCXDrcK9KdQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HCxk8FCu4xE" title="Here in the Black" >}}
@@ -46,7 +51,17 @@ styles: ["New Wave", "Darkwave"]
 | Release Year   | 2013 |
 | Discogs Link   | [Gary Numan - Splinter (Songs From A Broken Mind)](https://www.discogs.com/release/5023457-Gary-Numan-Splinter-Songs-From-A-Broken-Mind) |
 | Label          | Mortal Records |
-| Format         | 2xLP, Album, 180 |
+| Format         | Vinyl 2× LP Album (180) |
 | Catalog Number | MORTALLP15 |
 
-Gatefold Sleeve  ℗© 2013 Machine Music USA, INC  Mastered At Alchemy Mastering, London.  Recorded In Waldon (East Sussex), Long Eaton (Nottinghamshire) And Los Angeles (California).  Photography By LaRoche Brothers (Woolhouse Studios)  
+Gatefold Sleeve
+
+℗© 2013 Machine Music USA, INC
+
+Mastered At Alchemy Mastering, London.
+
+Recorded In Waldon (East Sussex), Long Eaton (Nottinghamshire) And Los Angeles (California).
+
+Photography By LaRoche Brothers (Woolhouse Studios)
+
+

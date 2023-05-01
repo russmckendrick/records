@@ -2,7 +2,7 @@
 title: "Sigur Rós - Takk..."
 artist: "Sigur Rós"
 album_name: "Takk..."
-date: 2016-12-04
+date: 2016-12-04T11:07:33.000000Z
 release_id: "7665804"
 slug: "takk-7665804"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
+
 ## Tracklisting
 1. Takk...
 2. Glósóli
@@ -25,8 +26,12 @@ styles: ["Post Rock"]
 9. Svo Hljótt
 10. Heysátan
 11. Mílanó
+
+
 ## Spotify
 {{< spotify type="album" id="12tw1A9HmwE3MHvPfHhdoP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli [Official Music Video]" >}}
@@ -48,7 +53,17 @@ styles: ["Post Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Sigur Rós - Takk...](https://www.discogs.com/release/7665804-Sigur-R%C3%B3s-Takk) |
 | Label          | Krúnk |
-| Format         | 2xLP, 180 + 10\", S/Sided, Etch + Album, Dlx, Ltd,  |
+| Format         | Vinyl 2× LP (180 g), Vinyl 10" 33 ⅓ RPM Single Sided Etched, All Media Album Deluxe Edition Limited Edition Reissue |
 | Catalog Number | KRUNK9LP |
 
-2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".  Sticker on front reads: Sigur Rós "Takk…" Deluxe 180g Vinyl 2 x LP & Etched 10"  Sides are actually numbered 1A, 1B, 2A, 2B, 3A.
+2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".
+
+Sticker on front reads:
+Sigur Rós
+"Takk…"
+Deluxe 180g Vinyl
+2 x LP
+&
+Etched 10"
+
+Sides are actually numbered 1A, 1B, 2A, 2B, 3A.

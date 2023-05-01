@@ -2,7 +2,7 @@
 title: "The Stone Roses - The Stone Roses"
 artist: "The Stone Roses"
 album_name: "The Stone Roses"
-date: 2015-08-09
+date: 2015-08-09T08:35:22.000000Z
 release_id: "5581078"
 slug: "the-stone-roses-5581078"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. I Wanna Be Adored (4:49)
 2. She Bangs The Drums (3:52)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Shoot You Down (4:13)
 10. This Is The One (4:57)
 11. I Am The Resurrection (8:10)
+
+
 ## Spotify
 {{< spotify type="album" id="0um9FI6BLBldL5POP4D4Cw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" >}}
@@ -48,7 +53,11 @@ styles: ["Indie Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/5581078-The-Stone-Roses-The-Stone-Roses) |
 | Label          | Silvertone Records |
-| Format         | LP, Album, RE, RP |
+| Format         | Vinyl LP Album Reissue Repress |
 | Catalog Number | 88843041991 |
 
-This reissue has raised gold lettering the same as the UK first pressing.   ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited. Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited. Made in the EU.
+This reissue has raised gold lettering the same as the UK first pressing. 
+
+℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited.
+Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited.
+Made in the EU.

@@ -2,7 +2,7 @@
 title: "U2 - Achtung Baby"
 artist: "U2"
 album_name: "Achtung Baby"
-date: 2021-11-21
+date: 2021-11-21T03:10:58.000000Z
 release_id: "21054859"
 slug: "achtung-baby-21054859"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Zoo Station 
 2. Even Better Than The Real Thing
@@ -26,8 +27,11 @@ styles: ["Pop Rock"]
 10. Ultra Violet (Light My Way)
 11. Acrobat
 12. Love Is Blindness
+
+
 ## Spotify
 {{< spotify type="album" id="0ta5VdkJcpdVnNrn7g4cZe" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -35,8 +39,23 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [U2 - Achtung Baby](https://www.discogs.com/release/21054859-U2-Achtung-Baby) |
-| Label          | Island Records, UMC |
-| Format         | LP, Red + LP, Blu + Album, Dlx, Ltd, Num, RE, S/Ed |
-| Catalog Number | U28AB30, 00602438686353 |
+| Label          | Island Records |
+| Format         | Vinyl LP Stereo (Red Translucent, 180 Gram), Vinyl LP Stereo (Blue Translucent, 180 Gram), All Media Album Deluxe Edition Limited Edition Numbered Reissue Special Edition (30th Anniversary Special Edition) |
+| Catalog Number | U28AB30 |
 
-Package includes:  • Slipcase with an individually numbered sticker on the reverse • Both LPs housed in a wide-spine sleeve with a 8 page booklet including lyrics & credits • A limited edition bespoke 60cm x 60cm folded poster  Released in a slip cover that features one of four different “mystery covers”. This release contains the “Carnalville” photo of the band cover. The outer UPC is different for each mystery cover.  4 different mystery covers (inside of slipcase) exist which can be identified by the barcode:  6 0243868634 6 Nude Adam [r21053176] 6 0243868635 3 Carnival (this release) 6 0243868636 0 Bono and Nassim [R21055915] 6 0243868638 4 Band in red [r21065644]  The 2-, XIV, and 1IΔ etchings in the runouts are mirrored.
+Package includes:
+
+• Slipcase with an individually numbered sticker on the reverse
+• Both LPs housed in a wide-spine sleeve with a 8 page booklet including lyrics & credits
+• A limited edition bespoke 60cm x 60cm folded poster
+
+Released in a slip cover that features one of four different “mystery covers”. This release contains the “Carnalville” photo of the band cover. The outer UPC is different for each mystery cover.
+
+4 different mystery covers (inside of slipcase) exist which can be identified by the barcode:
+
+6 0243868634 6 Nude Adam [r21053176]
+6 0243868635 3 Carnival (this release)
+6 0243868636 0 Bono and Nassim [R21055915]
+6 0243868638 4 Band in red [r21065644]
+
+The 2-, XIV, and 1IΔ etchings in the runouts are mirrored.

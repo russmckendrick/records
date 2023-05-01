@@ -2,7 +2,7 @@
 title: "Kevin Morby - This Is A Photograph"
 artist: "Kevin Morby"
 album_name: "This Is A Photograph"
-date: 2022-05-17
+date: 2022-05-17T07:05:53.000000Z
 release_id: "23180702"
 slug: "this-is-a-photograph-23180702"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "This Is A Photograph by Kevin Morby"
     caption: "This Is A Photograph by Kevin Morby"
 genres: ["Rock", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. This Is A Photograph
 2. A Random Act Of Kindness
@@ -24,8 +25,12 @@ styles: null
 8. Stop Before I Cry
 9. It's Over
 10. Goodbye To Good Times
+
+
 ## Spotify
 {{< spotify type="album" id="6NMzokKOYpPO9VXDjmc5y6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hmxrnAouciM" title="Kevin Morby - This is a Photograph (Official Video)" >}}
@@ -39,7 +44,17 @@ styles: null
 | Release Year   | 2022 |
 | Discogs Link   | [Kevin Morby - This Is A Photograph](https://www.discogs.com/release/23180702-Kevin-Morby-This-Is-A-Photograph) |
 | Label          | Dead Oceans |
-| Format         | LP, Album, Ltd, Gol |
+| Format         | Vinyl LP Album Limited Edition (Gold Nugget) |
 | Catalog Number | DOC316 |
 
-Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code. Rear sticker: Made In Canada  A small amount of autographed copies were made available through Newbury Comics.  © & ℗ 2022 Dead Oceans, Inc.  Engineering [...] at Slow Fawn in Accord, NY Additional Recording [...] at Sam Phillips Recording in Memphis, TN Additional Engineering [...] in New York, NY Mixed and Mastered [...] at Isokon in Kingston, NY
+Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code.
+Rear sticker: Made In Canada
+
+A small amount of autographed copies were made available through Newbury Comics.
+
+© & ℗ 2022 Dead Oceans, Inc.
+
+Engineering [...] at Slow Fawn in Accord, NY
+Additional Recording [...] at Sam Phillips Recording in Memphis, TN
+Additional Engineering [...] in New York, NY
+Mixed and Mastered [...] at Isokon in Kingston, NY

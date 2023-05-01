@@ -2,7 +2,7 @@
 title: "Big Big Train - Welcome To The Planet "
 artist: "Big Big Train"
 album_name: "Welcome To The Planet "
-date: 2022-01-29
+date: 2022-01-29T02:16:32.000000Z
 release_id: "21929122"
 slug: "welcome-to-the-planet-21929122"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Made From Sunshine  (4:05)
 2. The Connection Plan  (3:56)
@@ -23,8 +24,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. Bats In The Belfry  (4:54)
 8. Oak And Stone  (7:13)
 9. Welcome To The Planet  (6:40)
+
+
 ## Spotify
 {{< spotify type="album" id="4GbXSOXXIWzoqbsI3u7rRu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}
@@ -36,7 +41,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Big Big Train - Welcome To The Planet ](https://www.discogs.com/release/21929122-Big-Big-Train-Welcome-To-The-Planet-) |
 | Label          | Plane Groovy |
-| Format         | LP, Album, Ltd, S/Edition, 180 |
+| Format         | Vinyl LP Album Limited Edition Special Edition Stereo (180 Gram, Transparent Red) |
 | Catalog Number | PLG105 |
 
 Packaged in a single jacket with 2-page color lyric insert, black LP sleeve and hype sticker affixed to the shrink wrap on the front.

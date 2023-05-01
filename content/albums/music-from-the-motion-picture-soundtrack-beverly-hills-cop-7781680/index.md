@@ -2,7 +2,7 @@
 title: "Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop"
 artist: "Various"
 album_name: "Music From The Motion Picture Soundtrack - Beverly Hills Cop"
-date: 2017-03-25
+date: 2017-03-25T14:28:06.000000Z
 release_id: "7781680"
 slug: "music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. New Attitude (4:36)
 2. Don't Get Stopped In Beverly Hills (4:20)
@@ -24,6 +25,9 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 8. Stir It Up (3:35)
 9. Rock 'N Roll Me Again (3:14)
 10. Axel F (3:00)
+
+
+
 
 ## Videos
 {{< youtube id="QmhagVGxWiA" title="Beverly Hills Cop - full album - score and songs - Harold Faltermeyer" >}}
@@ -54,8 +58,23 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop](https://www.discogs.com/release/7781680-Various-Music-From-The-Motion-Picture-Soundtrack-Beverly-Hills-Cop) |
-| Label          | Geffen Records, UMe |
-| Format         | LP, Comp, RE |
+| Label          | Geffen Records |
+| Format         | Vinyl LP Compilation Reissue |
 | Catalog Number | B0023070-01 |
 
-On back cover:  Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.  © 1984 Paramount Pictures Corporation ℗ 1984 © 2015 Geffen Records  Contains additional songs that were not in the film  Copyright © MCMLXXXIV By Paramount Pictures Corporation.   On labels:  ℗ 1984 © 2015 Geffen Records  Geffen [logo] UMe [logo] - A Universal Music Company  
+On back cover: 
+Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.
+
+© 1984 Paramount Pictures Corporation
+℗ 1984 © 2015 Geffen Records
+
+Contains additional songs that were not in the film
+
+Copyright © MCMLXXXIV By Paramount Pictures Corporation. 
+
+On labels: 
+℗ 1984 © 2015 Geffen Records
+
+Geffen [logo] UMe [logo] - A Universal Music Company
+
+

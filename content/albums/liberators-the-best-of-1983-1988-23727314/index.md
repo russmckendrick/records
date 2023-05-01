@@ -2,7 +2,7 @@
 title: "Spear Of Destiny - Liberators! The Best Of 1983-1988"
 artist: "Spear Of Destiny"
 album_name: "Liberators! The Best Of 1983-1988"
-date: 2022-07-03
+date: 2022-07-03T07:55:58.000000Z
 release_id: "23727314"
 slug: "liberators-the-best-of-1983-1988-23727314"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
+
 ## Tracklisting
 1. The Wheel (3:10)
 2. Rainmaker (2:56)
@@ -28,13 +29,13 @@ styles: ["Alternative Rock", "New Wave"]
 12. Radio Radio (3:10)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Spear Of Destiny - Liberators! The Best Of 1983-1988](https://www.discogs.com/release/23727314-Spear-Of-Destiny-Liberators-The-Best-Of-1983-1988) |
 | Label          | Demon Records |
-| Format         | LP, Comp, Red |
+| Format         | Vinyl LP Compilation Stereo (Red Vinyl) |
 | Catalog Number | DEMREC1015 5014797907355 |
-
-

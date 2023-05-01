@@ -2,7 +2,7 @@
 title: "Talk Talk - The Party's Over"
 artist: "Talk Talk"
 album_name: "The Party's Over"
-date: 2022-07-15
+date: 2022-07-15T10:58:15.000000Z
 release_id: "23826329"
 slug: "the-party-s-over-23826329"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Talk Talk
 2. It's So Serious
@@ -23,8 +24,12 @@ styles: ["New Wave", "Synth-pop"]
 7. Mirror Man
 8. Another Word
 9. Candy
+
+
 ## Spotify
 {{< spotify type="album" id="3TWyZakhbJnds6Qx2uXIiC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}
@@ -46,7 +51,14 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2022 |
 | Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/23826329-Talk-Talk-The-Partys-Over) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE, Whi |
+| Format         | Vinyl LP Album Reissue Repress (White, 40th Anniversary Edition) |
 | Catalog Number | 0190296419638 |
 
-Textured outer sleeve. On spine: Talk Talk - The Party's Over - 0190295792626 On back cover : 0190295792626 Stereo ℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Stickered barcode 0 190296 419638 on the printed barcode without number on right low 
+Textured outer sleeve. Printed inner sleeve.
+Circular sticker on shrink front: 40th Anniversary White Vinyl Edition 0190296419638
+On spine: Talk Talk - The Party's Over - 0190295792626
+On back cover : 0190295792626 Stereo
+℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company.
+Stickered barcode on shrink rear over printed barcode (without numbering) in right hand lower corner
+Repress of the 2017 issue: [r=11009246]
+

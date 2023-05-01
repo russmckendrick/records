@@ -2,7 +2,7 @@
 title: "Manic Street Preachers - Generation Terrorists"
 artist: "Manic Street Preachers"
 album_name: "Generation Terrorists"
-date: 2018-11-05
+date: 2018-11-05T19:07:55.000000Z
 release_id: "3994045"
 slug: "generation-terrorists-3994045"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Slash N' Burn (3:53)
 2. Nat West-Barclays-Midlands-Lloyds (4:30)
@@ -33,8 +34,12 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 17. Methadone Pretty (3:50)
 18. Condemned To Rock 'N' Roll (6:03)
 19. Theme From M*A*S*H (Suicide Is Painless) (3:42)
+
+
 ## Spotify
 {{< spotify type="album" id="5XV63qDoIC1z2Tb0EIMVua" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FgKXBJ2LZKo" title="Manic Street Preachers - You Love Us (Clean Version)" >}}
@@ -50,8 +55,15 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Manic Street Preachers - Generation Terrorists](https://www.discogs.com/release/3994045-Manic-Street-Preachers-Generation-Terrorists) |
-| Label          | Columbia, Sony Music |
-| Format         | 2xLP, Album, RE, RM, Gat |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 20th Anniversary Legacy Edition) |
 | Catalog Number | 88725471251 |
 
-20th Anniversary Legacy Edition   Comes with a 16 page 29x29 cm booklet.  Made in the EU.   * This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)".
+20th Anniversary Legacy Edition 
+
+Comes with a 16 page 29x29 cm booklet.
+
+Made in the EU.
+
+
+* This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)".

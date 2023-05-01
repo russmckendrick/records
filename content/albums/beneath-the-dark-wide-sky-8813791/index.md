@@ -2,7 +2,7 @@
 title: "Dream The Electric Sleep - Beneath The Dark Wide Sky"
 artist: "Dream The Electric Sleep"
 album_name: "Beneath The Dark Wide Sky"
-date: 2016-11-17
+date: 2016-11-17T19:51:28.000000Z
 release_id: "8813791"
 slug: "beneath-the-dark-wide-sky-8813791"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Drift (5:11)
 2. Let The Light Flood In (5:30)
@@ -37,8 +38,12 @@ styles: ["Prog Rock"]
 21. Headlights (4:25)
 22. Black Wind (6:15)
 23. All Good Things (5:00)
+
+
 ## Spotify
 {{< spotify type="album" id="60MC6ypSWdlcjAECOe1scx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fjo9bj0A-Qc" title="All Good Things" >}}
@@ -49,8 +54,8 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Dream The Electric Sleep - Beneath The Dark Wide Sky](https://www.discogs.com/release/8813791-Dream-The-Electric-Sleep-Beneath-The-Dark-Wide-Sky) |
-| Label          | Mutiny Records |
-| Format         | 2x12\", Album, Ltd, Sil + CD, Album |
+| Label          | Mutiny Records (2) |
+| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Silver Marbled), CD Album |
 | Catalog Number | OMN16155 |
 
 Gatefold sleeve with sticker.

@@ -2,7 +2,7 @@
 title: "The Polyphonic Spree - The Fragile Army"
 artist: "The Polyphonic Spree"
 album_name: "The Fragile Army"
-date: 2017-07-14
+date: 2017-07-14T20:27:26.000000Z
 release_id: "1133398"
 slug: "the-fragile-army-1133398"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Section 21 (Together We're Heavy)
 2. Section 22 (Running Away)
@@ -26,8 +27,11 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 10. Section 30 (Watch Us Explode (Justify))
 11. Section 31 (Ocerblow Your Nest)
 12. Section 32 (The Championship)
+
+
 ## Spotify
-{{< spotify type="album" id="5Etv8zkyNEjwxpp1kgyjiV" width="100%" height="500" >}}
+{{< spotify type="album" id="4xxBzrM1O5x4kIGaZp7o7v" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,7 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 | Release Year   | 2007 |
 | Discogs Link   | [The Polyphonic Spree - The Fragile Army](https://www.discogs.com/release/1133398-The-Polyphonic-Spree-The-Fragile-Army) |
 | Label          | Gut Records |
-| Format         | 2xLP, Gat |
+| Format         | Vinyl 2× LP (Gatefold) |
 | Catalog Number | INSREC05V |
 
 This is advertised as a "2 LP 180 gram vinyl", however the actual weight of the records are significantly lower.

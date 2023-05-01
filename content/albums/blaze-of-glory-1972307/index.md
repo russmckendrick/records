@@ -2,7 +2,7 @@
 title: "Jon Bon Jovi - Blaze Of Glory"
 artist: "Jon Bon Jovi"
 album_name: "Blaze Of Glory"
-date: 2018-09-07
+date: 2018-09-07T18:30:44.000000Z
 release_id: "1972307"
 slug: "blaze-of-glory-1972307"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Billy Get Your Guns (4:48)
 2. Miracle (5:08)
@@ -25,8 +26,12 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 9. Bang A Drum (4:36)
 10. Dyin' Ain't Much Of A Livin' (4:39)
 11. Guano City (1:00)
+
+
 ## Spotify
 {{< spotify type="album" id="5QsPmoN7UK8tL5NRtSuC2Y" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From Young Guns II Soundtrack)" >}}
@@ -52,7 +57,9 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 | Release Year   | 1990 |
 | Discogs Link   | [Jon Bon Jovi - Blaze Of Glory](https://www.discogs.com/release/1972307-Jon-Bon-Jovi-Blaze-Of-Glory) |
 | Label          | Vertigo |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 846 473-1 |
 
-Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California. 
+Inspired by the film Young Guns II.
+Recorded and mixed at A&M Studios, Los Angeles, California.
+

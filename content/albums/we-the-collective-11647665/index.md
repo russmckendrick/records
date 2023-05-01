@@ -2,7 +2,7 @@
 title: "The Levellers - We The Collective"
 artist: "The Levellers"
 album_name: "We The Collective"
-date: 2018-03-30
+date: 2018-03-30T17:22:18.000000Z
 release_id: "11647665"
 slug: "we-the-collective-11647665"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Exodus
 2. Liberty Song
@@ -30,6 +31,9 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 14. All The Unknown
 15. Said And Done
 
+
+
+
 ## Videos
 {{< youtube id="eRUKW_xvEBE" title="WE THE COLLECTIVE - LEVELLERS" >}}
 - [One Way](https://www.youtube.com/watch?v=liP8T6X8Qbg)
@@ -44,8 +48,9 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Levellers - We The Collective](https://www.discogs.com/release/11647665-Levellers-We-The-Collective) |
-| Label          | On The Fiddle Recordings, On The Fiddle Recordings |
-| Format         | LP, Album, Gre + 12\", Gre + Dlx, Ltd |
-| Catalog Number | OTFLP029F, OTFS023X |
+| Label          | On The Fiddle Recordings |
+| Format         | Vinyl LP Album (Green), Vinyl 12" (Green, Bonus), All Media Deluxe Edition Limited Edition |
+| Catalog Number | OTFLP029F |
 
-LP+12” limited edition green vinyl . Limited to 1000 copies worldwide.  First 500 copies Signed by Band.
+LP+12” limited edition green vinyl . Limited to 1000 copies worldwide. 
+First 500 copies Signed by Band.

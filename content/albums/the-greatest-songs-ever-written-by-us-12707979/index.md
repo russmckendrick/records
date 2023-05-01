@@ -2,7 +2,7 @@
 title: "NOFX - The Greatest Songs Ever Written... By Us"
 artist: "NOFX"
 album_name: "The Greatest Songs Ever Written... By Us"
-date: 2018-11-26
+date: 2018-11-26T19:24:14.000000Z
 release_id: "12707979"
 slug: "the-greatest-songs-ever-written-by-us-12707979"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Dinosaurs Will Die (2:51)
 2. Linoleum (2:06)
@@ -41,8 +42,12 @@ styles: ["Punk"]
 25. Franco Un-American (2:27)
 26. Kill All The White Man (2:49)
 27. Wore Out The Soles Of My Party Boots (2:05)
+
+
 ## Spotify
 {{< spotify type="album" id="3ibgs75uFxEL3JNmBGXY7E" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4Ik09xFT6mk" title="NOFX - Don't Call Me White" >}}
@@ -64,7 +69,9 @@ styles: ["Punk"]
 | Release Year   | 2018 |
 | Discogs Link   | [NOFX - The Greatest Songs Ever Written... By Us](https://www.discogs.com/release/12707979-NOFX-The-Greatest-Songs-Ever-Written-By-Us) |
 | Label          | Epitaph Europe |
-| Format         | 2xLP, Comp, Gre |
+| Format         | Vinyl 2× LP Compilation (Green Translucent) |
 | Catalog Number | 6727-1 |
 
-Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies.
+Gatefold Jacket
+D6 is previously unreleased.
+Indie exclusive, limited to 300 copies.

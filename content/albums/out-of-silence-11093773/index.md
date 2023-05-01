@@ -2,7 +2,7 @@
 title: "Neil Finn - Out Of Silence"
 artist: "Neil Finn"
 album_name: "Out Of Silence"
-date: 2017-11-10
+date: 2017-11-10T19:29:43.000000Z
 release_id: "11093773"
 slug: "out-of-silence-11093773"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Out Of Silence by Neil Finn"
     caption: "Out Of Silence by Neil Finn"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Love Is Emotional
 2. More Than One Of You
@@ -24,8 +25,12 @@ styles: null
 8. The Law Is Always On Your Side
 9. Terrorise Me
 10. I Know Different
+
+
 ## Spotify
 {{< spotify type="album" id="1NLL8ibiwZmZEX7UCdO9Ls" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="umEBtfZnZnA" title="Neil Finn - Love Is Emotional" >}}
@@ -50,8 +55,15 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Neil Finn - Out Of Silence](https://www.discogs.com/release/11093773-Neil-Finn-Out-Of-Silence) |
-| Label          | Lester Records, EMI, Universal Music Group |
-| Format         | LP, Album |
+| Label          | Lester Records |
+| Format         | Vinyl LP Album |
 | Catalog Number | LRNF0016LP |
 
-℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd  All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control  Printed on side A/B labels: Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.  Initial online pre-orders included a 7” x 5” photo signed by Neil Finn.
+℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd
+
+All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control
+
+Printed on side A/B labels:
+Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.
+
+Initial online pre-orders included a 7” x 5” photo signed by Neil Finn.

@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - Life"
 artist: "Inspiral Carpets"
 album_name: "Life"
-date: 2021-11-22
+date: 2021-11-22T01:21:47.000000Z
 release_id: "21039049"
 slug: "life-21039049"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Real Thing
 2. Song For A Family
@@ -26,6 +27,9 @@ styles: ["Indie Pop"]
 10. Sun Don't Shine
 11. Inside My Head
 12. Sackville
+
+
+
 
 ## Videos
 {{< youtube id="xHOPXlOyUCY" title="Real Thing" >}}
@@ -46,8 +50,8 @@ styles: ["Indie Pop"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Inspiral Carpets - Life](https://www.discogs.com/release/21039049-Inspiral-Carpets-Life) |
-| Label          | Mute, BMG, Cow |
-| Format         | LP, Album, Ltd, RE, Gol |
+| Label          | Mute |
+| Format         | Vinyl LP Album Limited Edition Reissue (Gold) |
 | Catalog Number | ldung8 |
 
-"for [craig](https://www.discogs.com/artist/397375-Craig-Gill)....."
+"for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]....."

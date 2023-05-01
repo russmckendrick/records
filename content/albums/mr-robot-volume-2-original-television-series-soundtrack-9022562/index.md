@@ -2,7 +2,7 @@
 title: "Mac Quayle - Mr. Robot: Volume 2 (Original Television Series Soundtrack)"
 artist: "Mac Quayle"
 album_name: "Mr. Robot: Volume 2 (Original Television Series Soundtrack)"
-date: 2016-09-21
+date: 2016-09-21T18:06:13.000000Z
 release_id: "9022562"
 slug: "mr-robot-volume-2-original-television-series-soundtrack-9022562"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
+
 ## Tracklisting
 1. 1.5_1-Askingthe1mpossible.M4p
 2. 1.5_2-Hackthepolice.Mp3
@@ -38,6 +39,9 @@ styles: ["Soundtrack", "Score"]
 22. 1.9_5-Urmygod.Ogg
 23. 1.9_6-Nothingisreal.Ra
 
+
+
+
 ## Videos
 {{< youtube id="lVll1epJBHU" title="Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)" >}}
 - [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
@@ -48,7 +52,15 @@ styles: ["Soundtrack", "Score"]
 | Release Year   | 2016 |
 | Discogs Link   | [Mac Quayle - Mr. Robot: Volume 2 (Original Television Series Soundtrack)](https://www.discogs.com/release/9022562-Mac-Quayle-Mr-Robot-Volume-2-Original-Television-Series-Soundtrack) |
 | Label          | Invada |
-| Format         | 2xLP, Album, Whi |
+| Format         | Vinyl 2× LP Album (White) |
 | Catalog Number | INV161LP |
 
-Music Executive: Alicen Schneider Studio Executives: Stacy Fung, Steve Dolcemaschio  Gatefold sleeve. Release comes with: Double Sided Printed Insert fsociety stencil art on cardstock Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.1, included a 12x12 print.
+Music Executive: Alicen Schneider
+Studio Executives: Stacy Fung, Steve Dolcemaschio
+
+Gatefold sleeve. Release comes with:
+Double Sided Printed Insert
+fsociety stencil art on cardstock
+Download Card for digital version (choice of formats, via bandcamp)
+
+If purchased direct from Invada with Vol.1, included a 12x12 print.

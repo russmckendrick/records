@@ -2,7 +2,7 @@
 title: "Spin Doctors - Pocket Full of Kryptonite "
 artist: "Spin Doctors"
 album_name: "Pocket Full of Kryptonite "
-date: 2017-02-24
+date: 2017-02-24T19:47:09.000000Z
 release_id: "6958185"
 slug: "pocket-full-of-kryptonite-6958185"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Jimmy Olsen's Blues (4:35)
 2. What Time Is It? (4:49)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. How Could You Want Him (When You Know You Could Have Me?) (4:58)
 10. Shinbone Alley
 11. Hard To Exist
+
+
 ## Spotify
 {{< spotify type="album" id="3jx5C8Z66FwdjNkqsSDBQh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsen's Blues (New Version)" >}}
@@ -63,7 +68,5 @@ styles: ["Indie Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Spin Doctors - Pocket Full of Kryptonite ](https://www.discogs.com/release/6958185-Spin-Doctors-Pocket-Full-of-Kryptonite-) |
 | Label          | Epic |
-| Format         | LP, Album, RP |
+| Format         | Vinyl LP Album Repress |
 | Catalog Number | 88875013561 |
-
-

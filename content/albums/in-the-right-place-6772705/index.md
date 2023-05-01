@@ -2,7 +2,7 @@
 title: "Dr. John - In The Right Place"
 artist: "Dr. John"
 album_name: "In The Right Place"
-date: 2015-10-05
+date: 2015-10-05T18:22:12.000000Z
 release_id: "6772705"
 slug: "in-the-right-place-6772705"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Bayou Funk", "Soul", "Funk"]
 ---
+
 ## Tracklisting
 1. Right Place Wrong Time (2:50)
 2. Same Old Same Old (2:39)
@@ -25,13 +26,15 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 9. Shoo Fly Marches On (3:15)
 10. I Been Hoodood (3:12)
 11. Cold Cold Cold (2:37)
+
+
 ## Spotify
 {{< spotify type="album" id="1b1ljTXAkcugOLAHkIi7Eq" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="xdyNV9VhzF4" title="D̰r̰.̰J̰o̰h̰n̰-In The ̰R̰ḭg̰h̰t̰ Place Full Album 1973" >}}
-- [Dr John - In The Right Place (1973) full album](https://www.youtube.com/watch?v=R44PkPUEDCM)
-- [Right Place Wrong Time](https://www.youtube.com/watch?v=zw-2CTx4YgY)
+{{< youtube id="zw-2CTx4YgY" title="Right Place Wrong Time" >}}
 - [Same Old Same Old](https://www.youtube.com/watch?v=R9FXjsc9uBs)
 - [Just the Same](https://www.youtube.com/watch?v=aSfIvbQ39ZY)
 - [Qualified](https://www.youtube.com/watch?v=ebnKMMqKMMc)
@@ -49,7 +52,8 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 | Release Year   | 2015 |
 | Discogs Link   | [Dr. John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |
 | Label          | ATCO Records |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | 0349791111 |
 
-Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine, like the original 1973 cover.
+Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine,
+like the original 1973 cover.

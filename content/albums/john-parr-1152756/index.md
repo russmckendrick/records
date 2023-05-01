@@ -2,7 +2,7 @@
 title: "John Parr - John Parr"
 artist: "John Parr"
 album_name: "John Parr"
-date: 2016-01-07
+date: 2016-01-07T16:18:51.000000Z
 release_id: "1152756"
 slug: "john-parr-1152756"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Magical
 2. Naughty Naughty
@@ -24,8 +25,12 @@ styles: ["Hard Rock", "Pop Rock"]
 8. Heartbreaker
 9. Somebody Stole My Thunder
 10. Don't Leave Your Mark On Me
+
+
 ## Spotify
 {{< spotify type="album" id="1bUjfNXBRrs8xXeetRbBwg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="syhrz_AMLQU" title="John Parr - Naughty Naughty (Official Music Video)" >}}
@@ -49,8 +54,13 @@ styles: ["Hard Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1985 |
 | Discogs Link   | [John Parr - John Parr](https://www.discogs.com/release/1152756-John-Parr-John-Parr) |
-| Label          | London Records, London Records |
-| Format         | LP, Album |
-| Catalog Number | LONLP 12, 824 491-1 |
+| Label          | London Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | LONLP 12 |
 
-(p) 1984 Phonogram International B.V., Baarn/The Netherlands. (c) 1984 Atlantic Recording Corporation U.S.A. B1 (p) 1985 Columbia Pictues Industries Inc.  Similar release exists with a different barcode - see [r8535738]. 
+(p) 1984 Phonogram International B.V., Baarn/The Netherlands.
+(c) 1984 Atlantic Recording Corporation U.S.A.
+B1 (p) 1985 Columbia Pictues Industries Inc.
+
+Similar release exists with a different barcode - see [r8535738].
+

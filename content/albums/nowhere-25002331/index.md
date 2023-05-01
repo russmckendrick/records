@@ -2,7 +2,7 @@
 title: "Ride - Nowhere"
 artist: "Ride"
 album_name: "Nowhere"
-date: 2022-11-04
+date: 2022-11-04T06:16:23.000000Z
 release_id: "25002331"
 slug: "nowhere-25002331"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Seagull
 2. Kaleidoscope
@@ -22,8 +23,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 6. Decay
 7. Paralysed
 8. Vapour Trail
+
+
 ## Spotify
 {{< spotify type="album" id="4fW7CblaSvdhPWmcCFgZbQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="APqGzOD0fUk" title="Ride - Taste (Video)" >}}
@@ -45,8 +50,16 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Ride - Nowhere](https://www.discogs.com/release/25002331-Ride-Nowhere) |
-| Label          | Wichita, Wichita |
-| Format         | LP, Album, Ltd, RE, Blu |
-| Catalog Number | webb572lp, WEBB572LP |
+| Label          | Wichita |
+| Format         | Vinyl LP Album Limited Edition Reissue (Blue (Curacao) ) |
+| Catalog Number | webb572lp |
 
-'Original audio reworked and refined' Transparent Curacao blue coloured standard weight vinyl LP.  Gatefold sleeve, reverse board with embossed artwork. Download included.  Includes a double sided 12" x 12" artwork & photos insert.  webb573lp on sleeve WEBB573LP on hype sticker
+'Original audio reworked and refined'
+Transparent Curacao blue coloured standard weight vinyl LP. 
+Gatefold sleeve, reverse board with embossed artwork.
+Download included.
+
+Includes a double sided 12" x 12" artwork & photos insert.
+
+webb573lp on sleeve
+WEBB573LP on hype sticker

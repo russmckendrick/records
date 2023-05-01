@@ -2,7 +2,7 @@
 title: "The Beta Band - Los Amigos Del Beta Bandidos"
 artist: "The Beta Band"
 album_name: "Los Amigos Del Beta Bandidos"
-date: 2016-02-18
+date: 2016-02-18T19:17:05.000000Z
 release_id: "4494532"
 slug: "los-amigos-del-beta-bandidos-4494532"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
+
 ## Tracklisting
 1. Push It Out
 2. It's Over
 3. Dr. Baker
 4. Needles In My Eyes
+
+
+
 
 ## Videos
 {{< youtube id="kbxoTkSkefo" title="The Beta Band - Dr. Baker" >}}
@@ -29,8 +33,13 @@ styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [The Beta Band - Los Amigos Del Beta Bandidos](https://www.discogs.com/release/4494532-The-Beta-Band-Los-Amigos-Del-Beta-Bandidos) |
-| Label          | EMI, EMI |
-| Format         | 12\", EP, RSD, Ltd, RE |
-| Catalog Number | REGS 20, 50999 9 34804 1 3 |
+| Label          | EMI |
+| Format         | Vinyl 12" EP Record Store Day Limited Edition Reissue |
+| Catalog Number | REGS 20 |
 
-Record Store Day 2013 limited edition reissue.  ℗ 1998 © 2013  Made in EU.
+Record Store Day 2013 limited edition reissue.
+
+℗ 1998
+© 2013
+
+Made in EU.

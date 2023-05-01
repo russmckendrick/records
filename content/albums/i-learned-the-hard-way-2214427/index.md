@@ -2,7 +2,7 @@
 title: "Sharon Jones & The Dap-Kings - I Learned The Hard Way"
 artist: "Sharon Jones & The Dap-Kings"
 album_name: "I Learned The Hard Way"
-date: 2017-02-11
+date: 2017-02-11T19:53:42.000000Z
 release_id: "2214427"
 slug: "i-learned-the-hard-way-2214427"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. The Game Gets Old
 2. I Learned The Hard Way
@@ -26,8 +27,12 @@ styles: ["Rhythm & Blues", "Soul"]
 10. Without A Heart
 11. If You Call
 12. Mama Don't Like My Man
+
+
 ## Spotify
-{{< spotify type="album" id="4FZCwaWGcFqd2CBiJUcHnx" width="100%" height="500" >}}
+{{< spotify type="album" id="7tsqjPwOhgPOWHgp9RHYi6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fpDhfubLDPI" title="The Game Gets Old" >}}
@@ -49,7 +54,25 @@ styles: ["Rhythm & Blues", "Soul"]
 | Release Year   | 2010 |
 | Discogs Link   | [Sharon Jones & The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427-Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way) |
 | Label          | Daptone Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | DAP-019 |
 
-Jacket: Another BOSCO MANN Production. Labels: A BOSCO MANN Production.  Includes code for digital download (Digital download includes an additional song, "When I Come Home") Stereo compatible  Hype sticker affixed to shrink: The explosive and soulful next chapter in the captivating story of Sharon Jones, the Dap-Kings and Daptone Records. Includes coupon for MP3 download! [Daptone Records logo] "...gritty, credible, emotion-laden..." - Rolling Stone "...simply one of the most scorching outfits on the planet..." - MOJO  Barcode is a sticker affixed to shrink  Recorded to 8-Tracks at Daptone Records' House Of Soul.  Track A1: ASCAP, BMI Tracks A2 to A6, B2 to B6: BMI Track B1: ASCAP, SESAC
+Jacket: Another BOSCO MANN Production.
+Labels: A BOSCO MANN Production.
+
+Includes code for digital download (Digital download includes an additional song, "When I Come Home")
+Stereo compatible
+
+Hype sticker affixed to shrink:
+The explosive and soulful next chapter in the captivating story of Sharon Jones, the Dap-Kings and Daptone Records. Includes coupon for MP3 download!
+[Daptone Records logo]
+"...gritty, credible, emotion-laden..." - Rolling Stone
+"...simply one of the most scorching outfits on the planet..." - MOJO
+
+Barcode is a sticker affixed to shrink
+
+Recorded to 8-Tracks at Daptone Records' House Of Soul.
+
+Track A1: ASCAP, BMI
+Tracks A2 to A6, B2 to B6: BMI
+Track B1: ASCAP, SESAC

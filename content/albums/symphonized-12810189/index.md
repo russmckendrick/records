@@ -1,18 +1,19 @@
 ---
-title: "Anneke van Giersbergen with Residentie Orkest - Symphonized"
-artist: "Anneke van Giersbergen with Residentie Orkest"
+title: "Anneke van Giersbergen - Symphonized"
+artist: "Anneke van Giersbergen"
 album_name: "Symphonized"
-date: 2018-11-17
+date: 2018-11-17T10:43:54.000000Z
 release_id: "12810189"
 slug: "symphonized-12810189"
 hideSummary: true
 cover:
     image: "symphonized-12810189.jpg"
-    alt: "Symphonized by Anneke van Giersbergen with Residentie Orkest"
-    caption: "Symphonized by Anneke van Giersbergen with Residentie Orkest"
+    alt: "Symphonized by Anneke van Giersbergen"
+    caption: "Symphonized by Anneke van Giersbergen"
 genres: ["Rock", "Classical"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Feel Alive
 2. Amity
@@ -37,6 +38,12 @@ styles: null
 21. Forgotten (4:42)
 22. Shores Of India (7:20)
 
+
+## Spotify
+{{< spotify type="album" id="1bMZgNbzKoQoVfPTqVgxp8" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="oIwzEfWT85Q" title="ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)" >}}
 - [Anneke Van Giersbergen w/ Residentie Orkest - Travel - Den Haag, Netherlands 5/19/18](https://www.youtube.com/watch?v=Q72zXeAbwQw)
@@ -48,9 +55,11 @@ styles: null
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
-| Discogs Link   | [Anneke van Giersbergen with Residentie Orkest - Symphonized](https://www.discogs.com/release/12810189-Anneke-van-Giersbergen-with-Residentie-Orkest-The-Hague-Symphonized) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album + CD, Album |
-| Catalog Number | IOMLP 520, 19075896041 |
+| Discogs Link   | [Anneke van Giersbergen - Symphonized](https://www.discogs.com/release/12810189-Anneke-van-Giersbergen-with-Residentie-Orkest-The-Hague-Symphonized) |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Catalog Number | IOMLP 520 |
 
-Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.  180 gr. vinyl in gatefold sleeve with insert.
+Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.
+
+180 gr. vinyl in gatefold sleeve with insert.

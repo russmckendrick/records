@@ -2,7 +2,7 @@
 title: "Gram Parsons - Grievous Angel"
 artist: "Gram Parsons"
 album_name: "Grievous Angel"
-date: 2015-08-10
+date: 2015-08-10T18:28:52.000000Z
 release_id: "5886670"
 slug: "grievous-angel-5886670"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
+
 ## Tracklisting
 1. Return Of The Grievous Angel (4:19)
 2. Hearts On Fire (3:50)
@@ -23,8 +24,12 @@ styles: ["Country Rock", "Country"]
 7. Love Hurts (3:40)
 8. Las Vegas (3:29)
 9. In My Hour Of Darkness (3:42)
+
+
 ## Spotify
 {{< spotify type="album" id="6UQujMGmR5MbFsML9amCuN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="h_Iz0iVvhEc" title="Return of the Grievous Angel (Remastered Version)" >}}
@@ -38,8 +43,9 @@ styles: ["Country Rock", "Country"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Gram Parsons - Grievous Angel](https://www.discogs.com/release/5886670-Gram-Parsons-Grievous-Angel) |
-| Label          | Reprise Records, Rhino Records, Rhino Records |
-| Format         | LP, Album, RE, RM, 180 |
-| Catalog Number | R1-2171, 8122795955 |
+| Label          | Reprise Records |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Catalog Number | R1-2171 |
 
-℗ & © 1974 Warner Bros. Records Inc  Manufactured in the EU. 
+℗ & © 1974 Warner Bros. Records Inc 
+Manufactured in the EU. 

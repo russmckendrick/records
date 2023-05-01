@@ -2,7 +2,7 @@
 title: "Pearl Jam - Vs."
 artist: "Pearl Jam"
 album_name: "Vs."
-date: 2016-10-26
+date: 2016-10-26T16:19:09.000000Z
 release_id: "8354355"
 slug: "vs-8354355"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Go
 2. Animal
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Grunge"]
 10. Elderly Woman Behind The Counter In A Small Town
 11. Leash
 12. Indifference
+
+
 ## Spotify
 {{< spotify type="album" id="3BSOiAas8BpJOii3kCPyjV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gBt8DnKC1_Y" title="Go (Remastered)" >}}
@@ -48,8 +53,10 @@ styles: ["Alternative Rock", "Grunge"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Pearl Jam - Vs.](https://www.discogs.com/release/8354355-Pearl-Jam-Vs) |
-| Label          | Sony Music, Epic, Legacy |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Sony Music |
+| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold ) |
 | Catalog Number | 88697843131 |
 
-Issued in a gatefold sleeve, includes an insert with lyrics & credits.  
+Issued in a gatefold sleeve, includes an insert with lyrics & credits.
+
+

@@ -2,7 +2,7 @@
 title: "Spiritualized - Everything Was Beautiful"
 artist: "Spiritualized"
 album_name: "Everything Was Beautiful"
-date: 2022-04-22
+date: 2022-04-22T04:37:18.000000Z
 release_id: "22954349"
 slug: "everything-was-beautiful-22954349"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Always Together With You
 2. Best Thing You Never Had (The D Song)
@@ -21,8 +22,12 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 5. The Mainline Song
 6. The A Song (Laid In Your Arms)
 7. I'm Coming Home Again
+
+
 ## Spotify
 {{< spotify type="album" id="7sKThLp2JeJqysSXC5ckhI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You (Official Music Video)" >}}
@@ -39,7 +44,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Spiritualized - Everything Was Beautiful](https://www.discogs.com/release/22954349-Spiritualized-Everything-Was-Beautiful) |
 | Label          | Bella Union |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | BELLA1270V |
 
-Includes printed inner sleeve and download card. Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER
+Includes printed inner sleeve and download card.
+Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER

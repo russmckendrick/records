@@ -2,7 +2,7 @@
 title: "Belle & Sebastian - The Boy With The Arab Strap"
 artist: "Belle & Sebastian"
 album_name: "The Boy With The Arab Strap"
-date: 2017-04-25
+date: 2017-04-25T08:36:19.000000Z
 release_id: "6215340"
 slug: "the-boy-with-the-arab-strap-6215340"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. It Could Have Been A Brilliant Career (2:23)
 2. Sleep The Clock Around (4:58)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Chickfactor (3:32)
 11. Simple Things (1:46)
 12. The Rollercoaster Ride (6:40)
+
+
 ## Spotify
 {{< spotify type="album" id="4AChnLbiWqxiotXz8kv6D7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}
@@ -49,7 +54,17 @@ styles: ["Indie Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/6215340-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |
 | Label          | Jeepster Recordings |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | JPRLP 003 |
 
-Includes download of entire album. Includes a PVC outer sleeve.  ℗ & © 1998 Jeepster Recordings Ltd. Made in the E.U. Distributed by Universal Music Operations Ltd.  Lyrics printed on the inside (left half) of the gatefold sleeve.   
+Includes download of entire album.
+Includes a PVC outer sleeve.
+
+℗ & © 1998 Jeepster Recordings Ltd.
+Made in the E.U.
+Distributed by Universal Music Operations Ltd.
+
+Lyrics printed on the inside (left half) of the gatefold sleeve.
+
+
+

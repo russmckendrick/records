@@ -2,7 +2,7 @@
 title: "Fever Ray - Fever Ray"
 artist: "Fever Ray"
 album_name: "Fever Ray"
-date: 2022-11-14
+date: 2022-11-14T05:21:46.000000Z
 release_id: "1695082"
 slug: "fever-ray-1695082"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Electro", "Ambient", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. If I Had A Heart
 2. When I Grow Up
@@ -24,8 +25,12 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 8. I'm Not Done
 9. Keep The Streets Empty For Me
 10. Coconut
+
+
 ## Spotify
 {{< spotify type="album" id="019nA7vSKz0dD5yRKYRpbM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="EBAzlNJonO8" title="Fever Ray 'If I Had A Heart'" >}}
@@ -47,7 +52,11 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 | Release Year   | 2009 |
 | Discogs Link   | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082-Fever-Ray-Fever-Ray) |
 | Label          | Rabid Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | RABIDT039 |
 
-Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially
+Issued with a glossy black and white lyrics insert and black inner sleeve.
+
+P & C 2009 Rabid Records
+
+Tracks listed sequentially

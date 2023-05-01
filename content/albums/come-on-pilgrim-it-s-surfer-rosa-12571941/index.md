@@ -2,7 +2,7 @@
 title: "Pixies - Come On Pilgrim... It's Surfer Rosa"
 artist: "Pixies"
 album_name: "Come On Pilgrim... It's Surfer Rosa"
-date: 2018-09-28
+date: 2018-09-28T11:59:21.000000Z
 release_id: "12571941"
 slug: "come-on-pilgrim-it-s-surfer-rosa-12571941"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Come On Pilgrim
 2. Caribou
@@ -54,8 +55,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 38. Vamos
 39. In Heaven
 
-## Videos
-{{< youtube id="6VtkwXkngRc" title="Pixies - Bone Machine (Vinyl)" >}}
+
+
 
 ## Notes
 | Notes          |             |
@@ -63,7 +64,28 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Pixies - Come On Pilgrim... It's Surfer Rosa](https://www.discogs.com/release/12571941-Pixies-Come-On-Pilgrim-Its-Surfer-Rosa) |
 | Label          | 4AD |
-| Format         | LP, MiniAlbum, RE, Gol + LP, Album, RE, Gol + LP,  |
+| Format         | Vinyl LP Mini-Album Reissue (Gold), Vinyl LP Album Reissue (Gold), Vinyl LP (Gold), All Media Compilation (30th Anniversary) |
 | Catalog Number | 4AD0084LP |
 
-Triple LP set on gold/bronze 180g vinyl in wide spine cover with download card for the live concert. Each LP comes in a custom inner sleeve. Tracks on each LP are continuously numbered across sides.  Sticker: 30th Anniversary Edition Pixies' Debut EP and Album, Come On Pilgrim and Surfer Rosa, includes Bonus 1986 Radio Concert Live from the Fallout Shelter  Come On Pilgrim: Recorded at Fort Apache, Roxbury, MA in March 1987 Come On Pilgrim all works by Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Levitate Me written by Jean Walsh, David Lovering and Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited.  Surfer Rosa: Recorded and Mixed at Q Division, Boston, Massachusetts, U.S.A. Surfer Rosa published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Gigantic, written by Frank Black Published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limitedand Mrs. John Murphy Published by EMI Publishing Limited.  Live From The Fallout Shelter: All Songs from Live From The Fallout Shelter written and published as above except Rock A My Soul and Boom Chicka Boom by Frank Black and In Heaven written by David Lynch and Peter Ivers and published by Paul Music. Licensed courtesy of The University of Massachusetts Lowell and WUML 91.5 FM. Mixed live to stereo broadcast, 15 Dec. 1986, on the WJUL radio program Live From the Fallout Shelter. Interview hosted by Mark Colacito.  'Live From The Fallout Shelter' is one of the earliest recordings of the band, a radio concert that first aired in late 1986 on [l=WJUL]-FM in Lowell, MA.
+Triple LP set on gold/bronze 180g vinyl in wide spine cover with download card for the live concert.
+Each LP comes in a custom inner sleeve.
+Tracks on each LP are continuously numbered across sides.
+
+Sticker:
+30th Anniversary Edition
+Pixies' Debut EP and Album, Come On Pilgrim and Surfer Rosa, includes Bonus 1986 Radio Concert Live from the Fallout Shelter
+
+Come On Pilgrim:
+Recorded at Fort Apache, Roxbury, MA in March 1987
+Come On Pilgrim all works by Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Levitate Me written by Jean Walsh, David Lovering and Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited.
+
+Surfer Rosa:
+Recorded and Mixed at Q Division, Boston, Massachusetts, U.S.A.
+Surfer Rosa published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Gigantic, written by Frank Black Published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limitedand Mrs. John Murphy Published by EMI Publishing Limited.
+
+Live From The Fallout Shelter:
+All Songs from Live From The Fallout Shelter written and published as above except Rock A My Soul and Boom Chicka Boom by Frank Black and In Heaven written by David Lynch and Peter Ivers and published by Paul Music.
+Licensed courtesy of The University of Massachusetts Lowell and WUML 91.5 FM. Mixed live to stereo broadcast, 15 Dec. 1986, on the WJUL radio program Live From the Fallout Shelter.
+Interview hosted by Mark Colacito.
+
+'Live From The Fallout Shelter' is one of the earliest recordings of the band, a radio concert that first aired in late 1986 on [l=WJUL]-FM in Lowell, MA.

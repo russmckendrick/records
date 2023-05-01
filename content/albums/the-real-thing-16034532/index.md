@@ -2,7 +2,7 @@
 title: "Faith No More - The Real Thing"
 artist: "Faith No More"
 album_name: "The Real Thing"
-date: 2020-11-04
+date: 2020-11-04T11:53:35.000000Z
 release_id: "16034532"
 slug: "the-real-thing-16034532"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. From Out Of Nowhere (3:20)
 2. Epic (4:51)
@@ -23,8 +24,12 @@ styles: ["Alternative Rock"]
 7. Underwater Love (3:49)
 8. The Morning After (3:41)
 9. Woodpecker From Mars (5:38)
+
+
 ## Spotify
 {{< spotify type="album" id="6LEP3L94jnkqjOxYJWPRP0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}
@@ -52,8 +57,20 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Faith No More - The Real Thing](https://www.discogs.com/release/16034532-Faith-No-More-The-Real-Thing) |
-| Label          | Slash, Slash, Reprise Records |
-| Format         | LP, Album, Ltd, RE, RM, Yel |
-| Catalog Number | RCV1 25878, 603497846207 |
+| Label          | Slash |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Yellow) |
+| Catalog Number | RCV1 25878 |
 
-2500 pressed.   A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads: Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.  Rear sleeve and face labels: Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU.   Inner Sleeve: © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company.   Face labels: 
+2500 pressed. 
+
+A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads:
+Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.
+
+Rear sleeve and face labels:
+Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU. 
+
+Inner Sleeve:
+© 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. 
+
+Face labels:
+

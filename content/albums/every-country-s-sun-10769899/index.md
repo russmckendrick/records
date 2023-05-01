@@ -2,7 +2,7 @@
 title: "Mogwai - Every Country's Sun"
 artist: "Mogwai"
 album_name: "Every Country's Sun"
-date: 2017-09-02
+date: 2017-09-02T08:07:44.000000Z
 release_id: "10769899"
 slug: "every-country-s-sun-10769899"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
+
 ## Tracklisting
 1. Coolverine (6:15)
 2. Party In The Dark (4:02)
@@ -42,8 +43,12 @@ styles: ["Post Rock"]
 26. Battered At A Scramble (4:03)
 27. Old Poisons (4:30)
 28. Every Country's Sun (5:37)
+
+
 ## Spotify
 {{< spotify type="album" id="5iJFFiipsmCfJKax4k9Bpy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9ubqJl36KFU" title="Every Country's Sun" >}}
@@ -54,7 +59,16 @@ styles: ["Post Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Mogwai - Every Country's Sun](https://www.discogs.com/release/10769899-Mogwai-Every-Countrys-Sun) |
 | Label          | Rock Action Records |
-| Format         | 2xLP, Album, Whi + 12\" + CD, Album + Box, Album, D |
+| Format         | Vinyl 2× LP Album (White), Vinyl 12" 33 ⅓ RPM, CD Album, Box Set Album Deluxe Edition |
 | Catalog Number | ROCKACT108 |
 
-Boxset includes: - white vinyl double LP in a gatefold sleeve - 12" with demos in own sleeve - seven 12"x12" photo prints - a copy of the UK/Europe CD ([r=10788412]) - a download coupon  Copies bought direct from the Mogwai webshop came with a 12"x12" graphical print, hand signed by the band members. This was included as an additional item, separate from the sealed box.  CD-Track durations are taken from the cd-ripper programm.
+Boxset includes:
+- white vinyl double LP in a gatefold sleeve
+- 12" with demos in own sleeve
+- seven 12"x12" photo prints
+- a copy of the UK/Europe CD ([r=10788412])
+- a download coupon
+
+Copies bought direct from the Mogwai webshop came with a 12"x12" graphical print, hand signed by the band members. This was included as an additional item, separate from the sealed box.
+
+CD-Track durations are taken from the cd-ripper programm.

@@ -2,7 +2,7 @@
 title: "Beth Orton - Trailer Park"
 artist: "Beth Orton"
 album_name: "Trailer Park"
-date: 2018-05-03
+date: 2018-05-03T19:13:37.000000Z
 release_id: "2391456"
 slug: "trailer-park-2391456"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. She Cries Your Name
 2. Tangent
@@ -24,8 +25,12 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 8. Someone's Daughter
 9. I Wish I Never Saw The Sunshine
 10. Galaxy Of Emptiness
+
+
 ## Spotify
 {{< spotify type="album" id="5WpjO5MZRlFohnZ1EeIcsy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}
@@ -45,7 +50,13 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 | Release Year   | 2010 |
 | Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456-Beth-Orton-Trailer-Park) |
 | Label          | Plain Recordings |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | plain149 |
 
-Ⓟ 1996 Deconstruction Ltd. © 2010 Runt LLC  180 gram vinyl  Custom inner sleeve 
+Ⓟ 1996 Deconstruction Ltd.
+© 2010 Runt LLC
+
+180 gram vinyl
+
+Custom inner sleeve
+

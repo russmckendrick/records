@@ -2,7 +2,7 @@
 title: "Willie Nelson - 20 Golden Hits"
 artist: "Willie Nelson"
 album_name: "20 Golden Hits"
-date: 2015-12-17
+date: 2015-12-17T08:50:29.000000Z
 release_id: "3441920"
 slug: "20-golden-hits-3441920"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
+
 ## Tracklisting
 1. Any Old Arms Won't Do (2:47)
 2. Slow Down Old World (1:51)
@@ -36,13 +37,13 @@ styles: ["Country"]
 20. Pages (1:57)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 0 |
 | Discogs Link   | [Willie Nelson - 20 Golden Hits](https://www.discogs.com/release/3441920-Willie-Nelson-20-Golden-Hits) |
 | Label          | Masters |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | MA 11121183 |
-
-

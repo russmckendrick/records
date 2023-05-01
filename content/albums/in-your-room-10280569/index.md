@@ -1,18 +1,19 @@
 ---
-title: "Anneke van Giersbergen & Agua De Annique - In Your Room"
-artist: "Anneke van Giersbergen & Agua De Annique"
+title: "Anneke van Giersbergen - In Your Room"
+artist: "Anneke van Giersbergen"
 album_name: "In Your Room"
-date: 2017-05-25
+date: 2017-05-25T18:38:01.000000Z
 release_id: "10280569"
 slug: "in-your-room-10280569"
 hideSummary: true
 cover:
     image: "in-your-room-10280569.jpg"
-    alt: "In Your Room by Anneke van Giersbergen & Agua De Annique"
-    caption: "In Your Room by Anneke van Giersbergen & Agua De Annique"
+    alt: "In Your Room by Anneke van Giersbergen"
+    caption: "In Your Room by Anneke van Giersbergen"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Pearly (3:32)
 2. Hey Okay! (2:34)
@@ -28,13 +29,16 @@ styles: ["Pop Rock"]
 12. Adore (3:57)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Anneke van Giersbergen & Agua De Annique - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |
-| Label          | Music On Vinyl, Agua Recordings, Inside Out Music |
-| Format         | LP, Album, Ltd, Num, Whi |
+| Discogs Link   | [Anneke van Giersbergen - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered (White) |
 | Catalog Number | MOVLP1876 |
 
-Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver.
+Limited to 1,000 copies worldwide.
+Numbered on rear sleeve in silver.

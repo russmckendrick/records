@@ -2,7 +2,7 @@
 title: "Crippled Black Phoenix - I, Vigilante"
 artist: "Crippled Black Phoenix"
 album_name: "I, Vigilante"
-date: 2016-10-31
+date: 2016-10-31T17:51:16.000000Z
 release_id: "7227518"
 slug: "i-vigilante-7227518"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
+
 ## Tracklisting
 1. Troublemaker (8:32)
 2. We Forgotten Who We Are (10:46)
@@ -20,8 +21,12 @@ styles: ["Avantgarde"]
 4. Bastogne Blues (11:59)
 5. Of A Lifetime (6:44)
 6. Burning Bridges (2:30)
+
+
 ## Spotify
 {{< spotify type="album" id="2cMxPNQgkmrDqCVCeZnKPA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lb3iIeh0Ruw" title="Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)" >}}
@@ -37,7 +42,12 @@ styles: ["Avantgarde"]
 | Release Year   | 2015 |
 | Discogs Link   | [Crippled Black Phoenix - I, Vigilante](https://www.discogs.com/release/7227518-Crippled-Black-Phoenix-I-Vigilante) |
 | Label          | Kscope |
-| Format         | 12\" + 12\", S/Sided, Etch + Album, EP, RE, RM |
+| Format         | Vinyl 12", Vinyl 12" Single Sided Etched, All Media Album EP Reissue Remastered |
 | Catalog Number | KSCOPE897 |
 
-Release in gatefold jacket. Etched on side D.  The band refers to this release as an EP, whereas the label and a lot of reviews call it an album.  Made in Germany.
+Release in gatefold jacket.
+Etched on side D.
+
+The band refers to this release as an EP, whereas the label and a lot of reviews call it an album.
+
+Made in Germany.

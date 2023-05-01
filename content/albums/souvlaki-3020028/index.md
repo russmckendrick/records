@@ -2,7 +2,7 @@
 title: "Slowdive - Souvlaki"
 artist: "Slowdive"
 album_name: "Souvlaki"
-date: 2018-12-27
+date: 2018-12-27T18:12:11.000000Z
 release_id: "3020028"
 slug: "souvlaki-3020028"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 ---
+
 ## Tracklisting
 1. Alison (3:52)
 2. Machine Gun (4:28)
@@ -24,8 +25,12 @@ styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 8. Altogether (3:43)
 9. Melon Yellow (3:54)
 10. Dagger (3:33)
+
+
 ## Spotify
 {{< spotify type="album" id="53eHm1f3sFiSzWMaKOl98Z" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="jkM3M3zGcGE" title="Slowdive - Alison (Video)" >}}
@@ -44,7 +49,20 @@ styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 | Release Year   | 2011 |
 | Discogs Link   | [Slowdive - Souvlaki](https://www.discogs.com/release/3020028-Slowdive-Souvlaki) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP202 |
 
-Recorded at: Protocol Studios, London A1, A3, A4, A5 & B5 Courtyard Studio, Sutton Courtenay A2, B1 & B3 The White House Studio, Western Super Mare B2 & B4  Published by EMI Music Publishing Ltd. except A4 by EMI Music Publishing Ltd./ Opal Music  Originally released 1993  180 gram audiophile pressing.  Pressed By information is not listed. Information derived from runouts.  Ed Buller incorrectly credited as 'Ed Butler' on insert.
+Recorded at:
+Protocol Studios, London A1, A3, A4, A5 & B5
+Courtyard Studio, Sutton Courtenay A2, B1 & B3
+The White House Studio, Western Super Mare B2 & B4
+
+Published by EMI Music Publishing Ltd. except A4 by EMI Music Publishing Ltd./ Opal Music
+
+Originally released 1993
+
+180 gram audiophile pressing.
+
+Pressed By information is not listed. Information derived from runouts.
+
+Ed Buller incorrectly credited as 'Ed Butler' on insert.

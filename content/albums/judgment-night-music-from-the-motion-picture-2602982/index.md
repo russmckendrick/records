@@ -2,7 +2,7 @@
 title: "Various - Judgment Night (Music From The Motion Picture)"
 artist: "Various"
 album_name: "Judgment Night (Music From The Motion Picture)"
-date: 2017-01-25
+date: 2017-01-25T18:16:06.000000Z
 release_id: "2602982"
 slug: "judgment-night-music-from-the-motion-picture-2602982"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", "Thrash"]
 ---
+
 ## Tracklisting
 1. I Love You Mary Jane (3:49)
 2. Judgment Night (4:35)
@@ -25,6 +26,9 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 9. Another Body Murdered (4:22)
 10. Come And Die (4:22)
 11. Real Thing (3:31)
+
+
+
 
 ## Videos
 {{< youtube id="M0TVU6mI12I" title="Just Another Victim" >}}
@@ -44,8 +48,22 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Various - Judgment Night (Music From The Motion Picture)](https://www.discogs.com/release/2602982-Various-Judgment-Night-Music-From-The-Motion-Picture) |
-| Label          | Music On Vinyl, Immortal Records, Epic Soundtrax, Epic |
-| Format         | LP, Album, RE, 180 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP232 |
 
-A sticker affixed to the polythene outer sleeve reads:  "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Track B5 is listed as a bonus track.  Mastered at Masterdisk, New York.  Motion picture photography & artwork title © 1993 Largo Entertainment. Originally released ℗ & © 1993 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.
+A sticker affixed to the polythene outer sleeve reads: 
+"Music On Vinyl®
+Classic Album
+180 gram audiophile vinyl pressing
+www.musiconvinyl.com"
+
+Track B5 is listed as a bonus track.
+
+Mastered at Masterdisk, New York.
+
+Motion picture photography & artwork title © 1993 Largo Entertainment.
+Originally released ℗ & © 1993 Sony Music Entertainment.
+This release: ℗ & © 2010, Sony Music Entertainment.
+Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment.
+Made in the EU.

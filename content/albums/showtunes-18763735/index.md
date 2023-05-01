@@ -2,7 +2,7 @@
 title: "Lambchop - Showtunes"
 artist: "Lambchop"
 album_name: "Showtunes"
-date: 2021-05-25
+date: 2021-05-25T04:48:11.000000Z
 release_id: "18763735"
 slug: "showtunes-18763735"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Showtunes by Lambchop"
     caption: "Showtunes by Lambchop"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. A Chef's Kiss (3:45)
 2. Drop C (3:22)
@@ -22,8 +23,12 @@ styles: null
 6. Blue Leo (3:04)
 7. Impossible Meatballs (3:10)
 8. The Last Benedict (4:03)
+
+
 ## Spotify
 {{< spotify type="album" id="1foLe9tskn6FplJl4qA44d" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chef's Kiss (Official Lyric Video)" >}}
@@ -41,7 +46,16 @@ styles: null
 | Release Year   | 2021 |
 | Discogs Link   | [Lambchop - Showtunes](https://www.discogs.com/release/18763735-Lambchop-Showtunes) |
 | Label          | City Slang |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP 45 RPM Album Limited Edition Stereo (White) |
 | Catalog Number | SLANG50362LP |
 
-℗ & © 2021 City Slang. Produced and mixed at Battle Tapes, Nashville TN 2019-2020 Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken. Songs published by Pathetic Hindsight Music admin by Schubert Music  Issued with download code card. ONLINE SHOP EXCLUSIVE from the label, City Slang: Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)  
+℗ & © 2021 City Slang.
+Produced and mixed at Battle Tapes, Nashville TN 2019-2020
+Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken.
+Songs published by Pathetic Hindsight Music admin by Schubert Music
+
+Issued with download code card.
+ONLINE SHOP EXCLUSIVE from the label, City Slang:
+Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)
+
+

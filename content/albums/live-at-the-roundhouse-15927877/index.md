@@ -2,7 +2,7 @@
 title: "Nick Mason's Saucerful Of Secrets - Live At The Roundhouse"
 artist: "Nick Mason's Saucerful Of Secrets"
 album_name: "Live At The Roundhouse"
-date: 2020-09-18
+date: 2020-09-18T11:08:36.000000Z
 release_id: "15927877"
 slug: "live-at-the-roundhouse-15927877"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Interstellar Overdrive
 2. Astronomy Domine
@@ -36,8 +37,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 20. One Of These Days
 21. A Saucerful Of Secrets
 22. Point Me At The Sky
+
+
 ## Spotify
 {{< spotify type="album" id="7ActmIF0QsJwdcZlN2rUKf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ab8cP26wjU4" title="Nick Mason's Saucerful Of Secrets - One Of These Days (Live At The Roundhouse)" >}}
@@ -50,7 +55,19 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Nick Mason's Saucerful Of Secrets - Live At The Roundhouse](https://www.discogs.com/release/15927877-Nick-Masons-Saucerful-Of-Secrets-Live-At-The-Roundhouse) |
 | Label          | Legacy |
-| Format         | 2xLP, Album, Die |
+| Format         | Vinyl 2× LP Album (Die Cut Slipcase) |
 | Catalog Number | 19075982711 |
 
-Sticker: Nick Mason's Saucerful Of Secrets Perform Over Two Hours Of Early Pink Floyd Filmed Live At The Roundhouse In London 2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun  This Product Contains : --Die Cut Slipcase & Printed Inner Bags -- MP3 Download Card  Sleeve gatefold Made in the EU. 
+Sticker:
+Nick Mason's Saucerful Of Secrets
+Perform Over Two Hours Of Early Pink Floyd
+Filmed Live At The Roundhouse In London
+2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun
+
+This Product Contains :
+--Die Cut Slipcase & Printed Inner Bags
+-- MP3 Download Card
+
+Sleeve gatefold
+Made in the EU.
+

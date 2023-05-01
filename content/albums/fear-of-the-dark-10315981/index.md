@@ -2,7 +2,7 @@
 title: "Iron Maiden - Fear Of The Dark"
 artist: "Iron Maiden"
 album_name: "Fear Of The Dark"
-date: 2017-06-10
+date: 2017-06-10T11:13:39.000000Z
 release_id: "10315981"
 slug: "fear-of-the-dark-10315981"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Be Quick Or Be Dead
 2. From Here To Eternity
@@ -26,8 +27,11 @@ styles: ["Heavy Metal"]
 10. Judas Be My Guide
 11. Weekend Warrior
 12. Fear Of The Dark
+
+
 ## Spotify
 {{< spotify type="album" id="66mnkzELAR3AK13W7Elv4l" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,17 @@ styles: ["Heavy Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [Iron Maiden - Fear Of The Dark](https://www.discogs.com/release/10315981-Iron-Maiden-Fear-Of-The-Dark) |
 | Label          | Parlophone |
-| Format         | 2xLP, Album, RE, RM, Gat |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Catalog Number | 0190295852344 |
 
-180 Gram Black Vinyl Original Album Art And High Res Audio Remasters  The remasters are the 2015 digital remasters  Recorded and Mixed at Barnyard Studios, Essex, England  Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.  This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Discs are in black inner sleeves.
+180 Gram Black Vinyl
+Original Album Art And High Res Audio Remasters
+
+The remasters are the 2015 digital remasters
+
+Recorded and Mixed at Barnyard Studios, Essex, England
+
+Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company. 
+This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.
+
+Discs are in black inner sleeves.

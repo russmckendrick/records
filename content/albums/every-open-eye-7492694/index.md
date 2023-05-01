@@ -2,7 +2,7 @@
 title: "Chvrches - Every Open Eye"
 artist: "Chvrches"
 album_name: "Every Open Eye"
-date: 2017-01-05
+date: 2017-01-05T19:23:45.000000Z
 release_id: "7492694"
 slug: "every-open-eye-7492694"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Never Ending Circles
 2. Leave A Trace
@@ -25,8 +26,12 @@ styles: ["Synth-pop"]
 9. Playing Dead
 10. Bury It
 11. Afterglow
+
+
 ## Spotify
 {{< spotify type="album" id="11kNM2Qz9AnObYsX3PQzuM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4Eo84jDIMKI" title="CHVRCHES - Leave A Trace" >}}
@@ -43,8 +48,15 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Chvrches - Every Open Eye](https://www.discogs.com/release/7492694-Chvrches-Every-Open-Eye) |
-| Label          | Virgin EMI Records, Goodbye Records |
-| Format         | LP, Album, Whi |
-| Catalog Number | V 3139, 00602547476241 |
+| Label          | Virgin EMI Records |
+| Format         | Vinyl LP Album (White, 180 Gram) |
+| Catalog Number | V 3139 |
 
-Released in a gatefold sleeve with printed lyric inner sleeve. Contains coupon for download of digital album.  Pre-orders from Chvrches' webstore came with a signed postcard while stocks lasted.  Recorded at Alucard Studios, Glasgow, January - July 2015. Mastered at Gateway Mastering, Portland, Maine.  ℗ & © 2015 Chvrches, under exclusive licence to Virgin Records Ltd. Made in the EU.
+Released in a gatefold sleeve with printed lyric inner sleeve. Contains coupon for download of digital album. 
+Pre-orders from Chvrches' webstore came with a signed postcard while stocks lasted.
+
+Recorded at Alucard Studios, Glasgow, January - July 2015.
+Mastered at Gateway Mastering, Portland, Maine.
+
+℗ & © 2015 Chvrches, under exclusive licence to Virgin Records Ltd.
+Made in the EU.

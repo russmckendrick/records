@@ -2,7 +2,7 @@
 title: "Church Of The Cosmic Skull - Is Satan Real?"
 artist: "Church Of The Cosmic Skull"
 album_name: "Is Satan Real?"
-date: 2018-02-23
+date: 2018-02-23T17:14:18.000000Z
 release_id: "10504683"
 slug: "is-satan-real-10504683"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Mountain Heart (6:06)
 2. Black Slug (5:04)
@@ -21,8 +22,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 5. Is Satan Real? (4:19)
 6. Watch It Grow (4:01)
 7. Evil In Your Eye (11:14)
+
+
 ## Spotify
 {{< spotify type="album" id="0xl75tNEomvveGaCJbOjDY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="WkqEmrRxGIg" title="Church of the Cosmic Skull - Mountain Heart (Official Audio)" >}}
@@ -39,7 +44,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Church Of The Cosmic Skull - Is Satan Real?](https://www.discogs.com/release/10504683-Church-Of-The-Cosmic-Skull-Is-Satan-Real) |
 | Label          | Bilocation Records |
-| Format         | LP, Album, RP, Cle |
+| Format         | Vinyl LP Album Repress (Clear vinyl) |
 | Catalog Number | BILOCATION 44 |
 
 Second pressing with different cover artwork. Limited to 500 copies on 180gr. CLEAR VINYL. 

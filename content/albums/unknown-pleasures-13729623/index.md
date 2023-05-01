@@ -2,7 +2,7 @@
 title: "Joy Division - Unknown Pleasures"
 artist: "Joy Division"
 album_name: "Unknown Pleasures"
-date: 2019-06-17
+date: 2019-06-17T17:32:30.000000Z
 release_id: "13729623"
 slug: "unknown-pleasures-13729623"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Outside
 2. Disorder (3:36)
@@ -26,8 +27,12 @@ styles: ["New Wave", "Post-Punk"]
 10. Wilderness (2:35)
 11. Interzone (2:10)
 12. I Remember Nothing (6:00)
+
+
 ## Spotify
 {{< spotify type="album" id="33qkK1brpt6t8unIpeM2Oy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5BIElTtN6Fs" title="Disorder (2007 Remaster)" >}}
@@ -47,7 +52,15 @@ styles: ["New Wave", "Post-Punk"]
 | Release Year   | 2019 |
 | Discogs Link   | [Joy Division - Unknown Pleasures](https://www.discogs.com/release/13729623-Joy-Division-Unknown-Pleasures) |
 | Label          | Factory |
-| Format         | LP, Album, Ltd, RE, RP, Red |
+| Format         | Vinyl LP Album Limited Edition Reissue Repress (Red [Ruby Red], 180g) |
 | Catalog Number | FACT 10 40 |
 
-30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.  [Labels] ℗ 2015 & ©  2019 Warner Records UK Ltd.   [Sticker (on shrink wrap)] Joy Division Unknown Pleasures 40th anniversary limited edition of the classic debut album Pressed on ruby red 180g heavyweight vinyl
+30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.
+
+[Labels]
+℗ 2015 & ©  2019 Warner Records UK Ltd. 
+
+[Sticker (on shrink wrap)]
+Joy Division Unknown Pleasures
+40th anniversary limited edition of the classic debut album
+Pressed on ruby red 180g heavyweight vinyl

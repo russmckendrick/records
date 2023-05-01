@@ -2,7 +2,7 @@
 title: "WPC - Cotillions"
 artist: "WPC"
 album_name: "Cotillions"
-date: 2020-02-14
+date: 2020-02-14T18:07:24.000000Z
 release_id: "14734860"
 slug: "cotillions-14734860"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Bluegrass"]
 ---
+
 ## Tracklisting
 1. To Scatter One's Own
 2. Hard Times
@@ -32,6 +33,9 @@ styles: ["Bluegrass"]
 16. 6+7
 17. Anon
 
+
+
+
 ## Videos
 {{< youtube id="lHKIJoDB0zQ" title="Cotillions" >}}
 
@@ -41,7 +45,5 @@ styles: ["Bluegrass"]
 | Release Year   | 2020 |
 | Discogs Link   | [WPC - Cotillions](https://www.discogs.com/release/14734860-William-Patrick-Corgan-Cotillions) |
 | Label          | Martha's Music |
-| Format         | 2xLP, Album, Smo |
+| Format         | Vinyl 2× LP Album Stereo (Smoke Translucent Marble, Gatefold) |
 | Catalog Number | MM001WPC |
-
-

@@ -2,7 +2,7 @@
 title: "The Cinematic Orchestra - To Believe"
 artist: "The Cinematic Orchestra"
 album_name: "To Believe"
-date: 2019-03-17
+date: 2019-03-17T10:25:23.000000Z
 release_id: "13344503"
 slug: "to-believe-13344503"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz"]
 styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 ---
+
 ## Tracklisting
 1. To Believe
 2. A Caged Bird / Imitations Of Life
@@ -21,8 +22,12 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 5. The Workers of Art
 6. Zero One / This Fantasy
 7. A Promise
+
+
 ## Spotify
 {{< spotify type="album" id="7Jm76j0kKzyy2GLExHlVQO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="e7q4sgupsZc" title="The Cinematic Orchestra - 'To Believe feat. Moses Sumney'" >}}
@@ -41,7 +46,9 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 | Release Year   | 2019 |
 | Discogs Link   | [The Cinematic Orchestra - To Believe](https://www.discogs.com/release/13344503-Cinematic-Orchestra-To-Believe) |
 | Label          | Ninja Tune |
-| Format         | LP, Whi + LP, Cle + Album, Dlx |
+| Format         | Vinyl LP (White, 180 Gram), Vinyl LP (Clear, 180 Gram), All Media Album Deluxe Edition |
 | Catalog Number | ZEN226X |
 
-Includes download code.  Pre-orders from Bleep.com came with double-sided poster/print and sticker.
+Includes download code.
+
+Pre-orders from Bleep.com came with double-sided poster/print and sticker.

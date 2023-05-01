@@ -2,7 +2,7 @@
 title: "Steve Mason - Brothers & Sisters"
 artist: "Steve Mason"
 album_name: "Brothers & Sisters"
-date: 2023-03-20
+date: 2023-03-20T05:44:02.000000Z
 release_id: "26299913"
 slug: "brothers-sisters-26299913"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Mars Man
 2. I'm On My Way
@@ -25,8 +26,9 @@ styles: ["Indie Rock"]
 9. Brixton Fish Fry
 10. Upon My Soul
 11. Brothers & Sisters
-## Spotify
-{{< spotify type="album" id="6TraNOBSSA3snFw5gtbwwt" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man (Official Audio)" >}}
@@ -38,8 +40,11 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Steve Mason - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-Brothers-Sisters) |
-| Label          | Double Six |
-| Format         | 2xLP, Dlx, Gol |
+| Label          | Double Six (2) |
+| Format         | Vinyl 2× LP Deluxe Edition (Gold) |
 | Catalog Number | DS145LPX |
 
-Deluxe gold double vinyl Includes download code & 4-panel lyric insert  Gatefold jacket
+Deluxe gold double vinyl
+Includes download code & 4-panel lyric insert
+
+Gatefold jacket

@@ -2,7 +2,7 @@
 title: "Monster Magnet - God Says No"
 artist: "Monster Magnet"
 album_name: "God Says No"
-date: 2016-07-10
+date: 2016-07-10T09:49:54.000000Z
 release_id: "8112114"
 slug: "god-says-no-8112114"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Melt
 2. Heads Explode
@@ -31,8 +32,12 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 15. Leapin' Lizards (B-Side)
 16. Into The Void
 17. Black Celebration
+
+
 ## Spotify
 {{< spotify type="album" id="6UTPtKWSrjSYls6za3poKj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}
@@ -49,8 +54,18 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Monster Magnet - God Says No](https://www.discogs.com/release/8112114-Monster-Magnet-God-Says-No) |
-| Label          | Spinefarm Records, Universal Music Group, A&M Records |
-| Format         | 2xLP, Album, RE, RM |
+| Label          | Spinefarm Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered |
 | Catalog Number | 00600753637845 |
 
-Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.  Original sound recording made by A & M Records Ltd. Tracks C4 and D1 to D4 are bonus tracks.  Recorded at The Warehouse, Vancouver, B.C. Canada Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company  Made in the EU.
+Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.
+
+Original sound recording made by A & M Records Ltd.
+Tracks C4 and D1 to D4 are bonus tracks.
+
+Recorded at The Warehouse, Vancouver, B.C. Canada
+Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.
+
+℗ & © 2015 Spinefarm Records. A Universal Music Group Company
+
+Made in the EU.

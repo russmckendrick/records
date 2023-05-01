@@ -2,7 +2,7 @@
 title: "Cardiacs - Guns"
 artist: "Cardiacs"
 album_name: "Guns"
-date: 2016-12-13
+date: 2016-12-13T17:53:06.000000Z
 release_id: "7235227"
 slug: "guns-7235227"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Spell With A Shell (3:17)
 2. There's Good Cud (2:17)
@@ -26,6 +27,9 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 10. Signs (4:26)
 11. Song Of A Dead Pest (2:37)
 12. Will Bleed Amen (7:31)
+
+
+
 
 ## Videos
 {{< youtube id="I1-978oeynU" title="Spell with a Shell" >}}
@@ -47,7 +51,15 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Cardiacs - Guns](https://www.discogs.com/release/7235227-Cardiacs-Guns) |
 | Label          | The Alphabet Business Concern |
-| Format         | LP, Album, Ltd, Num |
+| Format         | Vinyl LP Album Limited Edition Numbered |
 | Catalog Number | ALPH LP027 |
 
- "The first 200 pressings will have a special sticker to make them even more special." (They are numbered) Pressings without the shrink wrap sticker are found here: [r=12334086]  Comes in a gatefold sleeve with a picture inner sleeve and a download coupon.   Recorded and mixed at Apollo 8 London England.  Made in England.  ©&℗ Alphabet 1999
+ "The first 200 pressings will have a special sticker to make them even more special." (They are numbered)
+Pressings without the shrink wrap sticker are found here: [r=12334086] 
+Comes in a gatefold sleeve with a picture inner sleeve and a download coupon. 
+
+Recorded and mixed at Apollo 8 London England.
+
+Made in England.
+
+©&℗ Alphabet 1999

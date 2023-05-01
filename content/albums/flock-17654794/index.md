@@ -2,7 +2,7 @@
 title: "Jane Weaver - Flock"
 artist: "Jane Weaver"
 album_name: "Flock"
-date: 2021-03-08
+date: 2021-03-08T04:43:36.000000Z
 release_id: "17654794"
 slug: "flock-17654794"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Flock by Jane Weaver"
     caption: "Flock by Jane Weaver"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Heartlow
 2. The Revolution Of Super Visions
@@ -24,8 +25,12 @@ styles: null
 8. All The Things You Do
 9. Pyramid Schemes
 10. Solarised
+
+
 ## Spotify
 {{< spotify type="album" id="5akulaga7LWVPkHIqCHEgD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}
@@ -45,7 +50,9 @@ styles: null
 | Release Year   | 2021 |
 | Discogs Link   | [Jane Weaver - Flock](https://www.discogs.com/release/17654794-Jane-Weaver-Flock) |
 | Label          | Fire Records |
-| Format         | LP, Album, Ltd, Pin |
+| Format         | Vinyl LP Album Limited Edition (Pink [Rose]) |
 | Catalog Number | FIRELP544 |
 
-Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown).
+Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.
+
+Also available from recordstore.co.uk with signed art card (quantity unknown).

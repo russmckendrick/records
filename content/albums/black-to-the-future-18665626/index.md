@@ -2,7 +2,7 @@
 title: "Sons Of Kemet - Black To The Future"
 artist: "Sons Of Kemet"
 album_name: "Black To The Future"
-date: 2021-12-15
+date: 2021-12-15T10:53:41.000000Z
 release_id: "18665626"
 slug: "black-to-the-future-18665626"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Afrobeat", "Fusion"]
 ---
+
 ## Tracklisting
 1. Field Negus (3:03)
 2. Pick Up Your Burning Cross (3:44)
@@ -25,8 +26,12 @@ styles: ["Afrobeat", "Fusion"]
 9. Envision Yourself Levitating (8:23)
 10. Throughout The Madness, Stay Strong (5:53)
 11. Black (2:42)
+
+
 ## Spotify
 {{< spotify type="album" id="6AfA0FZhzRTpjDDYHkCd5B" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ELXDbxKjx48" title="Field Negus" >}}
@@ -47,7 +52,13 @@ styles: ["Afrobeat", "Fusion"]
 | Release Year   | 2021 |
 | Discogs Link   | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626-Sons-Of-Kemet-Black-To-The-Future) |
 | Label          | Impulse! |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 00602435621661 |
 
-Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts.
+Angel Bat Dawid appears courtesy of Angel Bat Dawid.
+Moor Mother appears courtesy of Don Giovanni Records.
+Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.
+
+60 Impulse! sticker on shrinkwrap.
+
+Sterling stamp etched in runouts.

@@ -2,7 +2,7 @@
 title: "Gary Clark Jr. - The Story Of Sonny Boy Slim"
 artist: "Gary Clark Jr."
 album_name: "The Story Of Sonny Boy Slim"
-date: 2015-09-22
+date: 2015-09-22T19:05:10.000000Z
 release_id: "7463093"
 slug: "the-story-of-sonny-boy-slim-7463093"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. The Healing (4:49)
 2. Grinder (3:22)
@@ -27,8 +28,12 @@ styles: ["Rhythm & Blues"]
 11. Stay (3:45)
 12. Shake (3:18)
 13. Down To Ride (7:52)
+
+
 ## Spotify
 {{< spotify type="album" id="5gRwx5vpeXUA75GmuqwByn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr. - Wings" >}}
@@ -43,8 +48,15 @@ styles: ["Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |
-| Label          | Warner Bros. Records, Hotwire Unlimited |
-| Format         | LP, Album + LP, S/Sided, Album, Etch |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album, Vinyl LP Single Sided Album Etched |
 | Catalog Number | 550131-1 |
 
-© 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits.
+© 2015 Hotwire Unlimited LLC (BMI)
+
+© ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S.
+Printed in Canada.
+Manufactured in The Netherlands.
+
+ 
+Gatefold sleeve contains colour insert with credits.

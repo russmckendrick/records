@@ -2,7 +2,7 @@
 title: "Steve Earle & The Dukes (And Duchesses) - The Low Highway"
 artist: "Steve Earle & The Dukes (And Duchesses)"
 album_name: "The Low Highway"
-date: 2021-11-05
+date: 2021-11-05T10:37:16.000000Z
 release_id: "4470602"
 slug: "the-low-highway-4470602"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Low Highway by Steve Earle & The Dukes (And Duchesses)"
     caption: "The Low Highway by Steve Earle & The Dukes (And Duchesses)"
 genres: ["Rock", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. The Low Highway (4:01)
 2. Calico County (3:01)
@@ -26,8 +27,12 @@ styles: null
 10. Down The Road Part II (2:36)
 11. 21st Century Blues (3:38)
 12. Remember Me (4:35)
+
+
 ## Spotify
 {{< spotify type="album" id="6PmyoWqAJPV8AebAIw7xzN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JZXoKw0YBFg" title="01 The Low Highway - Steve Earle & the Dukes (and Duchesses)" >}}
@@ -41,7 +46,14 @@ styles: null
 | Release Year   | 2013 |
 | Discogs Link   | [Steve Earle & The Dukes (And Duchesses) - The Low Highway](https://www.discogs.com/release/4470602-Steve-Earle-The-Dukes-And-Duchesses-The-Low-Highway) |
 | Label          | New West Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | NW5073 |
 
-180 gram pressing. Lyrics on inner sleeve   Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee Additional mastering for vinyl at NRP - Nashville, Tennessee  © & ℗ 2013 New West Records, LLC All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI)
+180 gram pressing.
+Lyrics on inner sleeve 
+
+Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee
+Additional mastering for vinyl at NRP - Nashville, Tennessee
+
+© & ℗ 2013 New West Records, LLC
+All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI)

@@ -2,7 +2,7 @@
 title: "Dog Eat Dog - All Boro Kings"
 artist: "Dog Eat Dog"
 album_name: "All Boro Kings"
-date: 2021-06-29
+date: 2021-06-29T02:28:44.000000Z
 release_id: "18211393"
 slug: "all-boro-kings-18211393"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal", "Hardcore"]
 ---
+
 ## Tracklisting
 1. If These Are Good Times (3:06)
 2. Think (3:05)
@@ -24,8 +25,12 @@ styles: ["Funk Metal", "Hardcore"]
 8. In The Doghouse (5:43)
 9. Funnel King (2:41)
 10. What Comes Around (3:22)
+
+
 ## Spotify
 {{< spotify type="album" id="09PxIIpRMqn6aMINUM5ty0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="a_TedVjcybg" title="Dog Eat Dog - Funnel King" >}}
@@ -46,8 +51,10 @@ styles: ["Funk Metal", "Hardcore"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393-Dog-Eat-Dog-All-Boro-Kings) |
-| Label          | Roadrunner Records, Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Gol |
+| Label          | Roadrunner Records |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 Gram) |
 | Catalog Number | MOVLP2821 |
 
-Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover.
+Edition of 2000 machine numbered copies. 
+Includes 12x12" insert with lyrics and credits.
+Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover.

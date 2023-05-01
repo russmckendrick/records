@@ -2,7 +2,7 @@
 title: "The Charlatans - Between 10th And 11th / Isolation 21.2.91"
 artist: "The Charlatans"
 album_name: "Between 10th And 11th / Isolation 21.2.91"
-date: 2020-07-03
+date: 2020-07-03T12:50:52.000000Z
 release_id: "15553282"
 slug: "between-10th-and-11th-isolation-21-2-91-15553282"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Between 10th And 11th
 2. I Don't Want To See The Sights
@@ -35,6 +36,9 @@ styles: ["Indie Rock"]
 19. Opportunity
 20. Sproston Green
 
+
+
+
 ## Videos
 {{< youtube id="xivKBrdgz3c" title="I Don't Want To See The Sights" >}}
 - [The Charlatans - Tremelo Song](https://www.youtube.com/watch?v=a_jfHwt8USc)
@@ -52,8 +56,12 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282-The-Charlatans-Between-10th-And-11th-Isolation-21291) |
-| Label          | Beggars Banquet, Situation Two |
-| Format         | LP, Album, RE, Cle + LP, RE, RM, Cle + Exp |
+| Label          | Beggars Banquet |
+| Format         | Vinyl LP Album Reissue (Clear), Vinyl LP Reissue Remastered (Clear), All Media (Expanded Edition, Gatefold Sleeve) |
 | Catalog Number | BBQ2165LP |
 
-℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited  
+℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd
+Original release ℗ & © 1992 Situation Two
+Beggars Banquet Records Limited
+
+

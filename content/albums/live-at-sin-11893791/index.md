@@ -2,7 +2,7 @@
 title: "Jeff Buckley - Live At Sin-é"
 artist: "Jeff Buckley"
 album_name: "Live At Sin-é"
-date: 2018-04-21
+date: 2018-04-21T11:03:08.000000Z
 release_id: "11893791"
 slug: "live-at-sin-11893791"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Be Your Husband
 2. Lover, You Should've Come Over
@@ -48,8 +49,12 @@ styles: ["Folk Rock", "Art Rock"]
 32. Sweet Thing
 33. Monologue - Good Night Bill
 34. Hallelujah
+
+
 ## Spotify
 {{< spotify type="album" id="58NsNICf7hyif5WruzsLWc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GQm1cX8uWxE" title="Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)" >}}
@@ -62,8 +67,18 @@ styles: ["Folk Rock", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Jeff Buckley - Live At Sin-é](https://www.discogs.com/release/11893791-Jeff-Buckley-Live-At-Sin-%C3%A9) |
-| Label          | Columbia, Legacy, Sony Music |
-| Format         | 4xLP, Album, RSD, Dlx, Ltd, Num |
+| Label          | Columbia |
+| Format         | Vinyl 4× LP Album Record Store Day Deluxe Edition Limited Edition Numbered |
 | Catalog Number | 88985494801 |
 
-Fabric box containing 4 single glossy jackets with black paper inner sleeves. Eight page full color booklet of photos and liner notes.  Hype sticker says: "Record Store Day  First Time on Vinyl 34 Songs recorded live during Jeff Buckley's café days in the summer of 1993 Individually numbered 4LP set limited edition deluxe packaging 88985494801S1"  Made in the EU.
+Fabric box containing 4 single glossy jackets with black paper inner sleeves.
+Eight page full color booklet of photos and liner notes.
+
+Hype sticker says:
+"Record Store Day 
+First Time on Vinyl
+34 Songs recorded live during Jeff Buckley's café days in the summer of 1993
+Individually numbered 4LP set limited edition deluxe packaging
+88985494801S1"
+
+Made in the EU.

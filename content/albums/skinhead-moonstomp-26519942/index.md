@@ -2,7 +2,7 @@
 title: "Symarip - Skinhead Moonstomp"
 artist: "Symarip"
 album_name: "Skinhead Moonstomp"
-date: 2023-04-03
+date: 2023-04-03T04:19:31.000000Z
 release_id: "26519942"
 slug: "skinhead-moonstomp-26519942"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
+
 ## Tracklisting
 1. Skinhead Moonstomp
 2. Phoenix Reggae
@@ -26,8 +27,12 @@ styles: ["Ska", "Rocksteady"]
 10. Stay With Him
 11. Fung Shu
 12. You're Mine
+
+
 ## Spotify
 {{< spotify type="album" id="502yjlT5pnBRCv5l9QFF4s" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ub74H6vGXo4" title="The Pyramids - Must Catch a Train (11.06.2022)" >}}
@@ -68,7 +73,7 @@ styles: ["Ska", "Rocksteady"]
 | Release Year   | 2023 |
 | Discogs Link   | [Symarip - Skinhead Moonstomp](https://www.discogs.com/release/26519942-Symarip-Skinhead-Moonstomp) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Mono, Num, RE, Smo |
+| Format         | Vinyl LP Album Numbered Reissue Mono (Smokey) |
 | Catalog Number | MOVLP2529 |
 
 1000 copies only.

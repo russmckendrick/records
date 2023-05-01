@@ -2,7 +2,7 @@
 title: "Jane Weaver - Loops In The Secret Society"
 artist: "Jane Weaver"
 album_name: "Loops In The Secret Society"
-date: 2019-06-21
+date: 2019-06-21T19:10:31.000000Z
 release_id: "13787906"
 slug: "loops-in-the-secret-society-13787906"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ---
+
 ## Tracklisting
 1. Element (Loops Variation)
 2. Milk Loop
@@ -36,8 +37,12 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 20. Conduit
 21. Ivana Vessel
 22. Battle Ropes 
+
+
 ## Spotify
 {{< spotify type="album" id="2BmZLziYKcz046KjcpOwf7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}
@@ -59,7 +64,7 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 | Release Year   | 2019 |
 | Discogs Link   | [Jane Weaver - Loops In The Secret Society](https://www.discogs.com/release/13787906-Jane-Weaver-Loops-In-The-Secret-Society) |
 | Label          | Fire Records |
-| Format         | 2xLP, Album, Dlx |
+| Format         | Vinyl 2× LP Album Deluxe Edition |
 | Catalog Number | FIRELP538 |
 
 Deluxe Double Gatefold Vinyl Plus High Quality Download

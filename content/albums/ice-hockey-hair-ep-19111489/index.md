@@ -2,7 +2,7 @@
 title: "Super Furry Animals - Ice Hockey Hair EP"
 artist: "Super Furry Animals"
 album_name: "Ice Hockey Hair EP"
-date: 2021-06-18
+date: 2021-06-18T04:50:29.000000Z
 release_id: "19111489"
 slug: "ice-hockey-hair-ep-19111489"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Smokin' (5:05)
 2. Mu-tron (3:14)
 3. Ice Hockey Hair (6:45)
 4. Let's Quit Smoking (2:05)
+
+
+
 
 ## Videos
 {{< youtube id="QO-TzvE8gOU" title="Ice Hockey Hair" >}}
@@ -30,8 +34,18 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Super Furry Animals - Ice Hockey Hair EP](https://www.discogs.com/release/19111489-Super-Furry-Animals-Ice-Hockey-Hair-EP) |
-| Label          | BMG, BMG |
-| Format         | 12\", EP, RSD, Ltd, RE, RM |
-| Catalog Number | BMGCAT491EP, CAT491EP |
+| Label          | BMG |
+| Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue Remastered |
+| Catalog Number | BMGCAT491EP |
 
-RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock    
+RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions
+
+Some records came with a white sticker or transparent sticker.
+
+" Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.
+
+Archived by: Kliph Scurlock
+
+
+
+

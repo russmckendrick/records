@@ -2,7 +2,7 @@
 title: "Alanis Morissette - Jagged Little Pill"
 artist: "Alanis Morissette"
 album_name: "Jagged Little Pill"
-date: 2017-04-17
+date: 2017-04-17T13:21:29.000000Z
 release_id: "4064194"
 slug: "jagged-little-pill-4064194"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. All I Really Want (4:42)
 2. You Oughta Know (4:07)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Ironic (3:47)
 11. Not The Doctor (3:44)
 12. Wake Up (4:54)
+
+
 ## Spotify
 {{< spotify type="album" id="5Ap3F8CxjjsQKZGASDcHNA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="NPcyTyilmYY" title="Alanis Morissette - You Oughta Know (Official 4K Music Video)" >}}
@@ -51,8 +56,13 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Alanis Morissette - Jagged Little Pill](https://www.discogs.com/release/4064194-Alanis-Morissette-Jagged-Little-Pill) |
-| Label          | Maverick, Reprise Records |
-| Format         | LP, Album, RE, 180 |
+| Label          | Maverick |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 8122797168 |
 
-Hype sticker: "180-Gram Vinyl Cut From the Original Analog Master"  Black & white printed inner sleeve with lyrics and credits.  This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference.
+Hype sticker:
+"180-Gram Vinyl Cut From the Original Analog Master"
+
+Black & white printed inner sleeve with lyrics and credits.
+
+This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference.

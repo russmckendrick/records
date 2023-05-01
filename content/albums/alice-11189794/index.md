@@ -2,7 +2,7 @@
 title: "Tom Waits - Alice"
 artist: "Tom Waits"
 album_name: "Alice"
-date: 2017-11-24
+date: 2017-11-24T18:41:02.000000Z
 release_id: "11189794"
 slug: "alice-11189794"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Alice
 2. Everything You Can Think
@@ -29,8 +30,12 @@ styles: ["Alternative Rock", "Experimental"]
 13. Fish & Bird
 14. Barcarolle
 15. Fawn
+
+
 ## Spotify
 {{< spotify type="album" id="3zeDrhkNv8872fC7CsOCpI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="aEj-mrwwaxo" title="Alice - Tom Waits" >}}
@@ -43,7 +48,7 @@ styles: ["Alternative Rock", "Experimental"]
 | Release Year   | 2017 |
 | Discogs Link   | [Tom Waits - Alice](https://www.discogs.com/release/11189794-Tom-Waits-Alice) |
 | Label          | Anti- |
-| Format         | LP, Album, RE + LP, S/Sided, Etch |
+| Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched |
 | Catalog Number | 6632-3 |
 
 6632-3 CAT. NO. on spine & labels

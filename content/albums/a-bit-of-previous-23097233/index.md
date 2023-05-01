@@ -2,7 +2,7 @@
 title: "Belle & Sebastian - A Bit Of Previous"
 artist: "Belle & Sebastian"
 album_name: "A Bit Of Previous"
-date: 2022-05-08
+date: 2022-05-08T06:21:58.000000Z
 release_id: "23097233"
 slug: "a-bit-of-previous-23097233"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. A Bit Of Previous LP
 2. Young And Stupid
@@ -30,8 +31,12 @@ styles: ["Indie Pop"]
 14. A Bit Of Previous 7"
 15. A Bit Of Previous
 16. Sometimes
+
+
 ## Spotify
 {{< spotify type="album" id="2VWqqmcIjjzdzayaawToIU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - Young and Stupid (Official Lyric Video)" >}}
@@ -54,8 +59,9 @@ styles: ["Indie Pop"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |
-| Label          | Matador, Matador |
-| Format         | LP, Album, Gat + 7\" |
-| Catalog Number | OLE1845LPE, OLE1850S |
+| Label          | Matador |
+| Format         | Vinyl LP Album (Gatefold), Vinyl 7" 45 RPM |
+| Catalog Number | OLE1845LPE |
 
-Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet
+Indies Exclusive version
+Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet

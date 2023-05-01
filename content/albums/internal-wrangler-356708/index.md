@@ -2,7 +2,7 @@
 title: "Clinic - Internal Wrangler"
 artist: "Clinic"
 album_name: "Internal Wrangler"
-date: 2017-06-16
+date: 2017-06-16T18:29:27.000000Z
 release_id: "356708"
 slug: "internal-wrangler-356708"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Voodoo Wop (1:44)
 2. The Return Of Evil Bill (2:32)
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. 2nd Foot Stomp (2:46)
 12. 2/4 (2:43)
 13. Goodnight Georgie (2:32)
+
+
 ## Spotify
 {{< spotify type="album" id="4RMrSFzNSKNkKkkqcTibuv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="q4OWG1Qze7o" title="Clinic - Earth Angel" >}}
@@ -48,8 +53,15 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2000 |
 | Discogs Link   | [Clinic - Internal Wrangler](https://www.discogs.com/release/356708-Clinic-Internal-Wrangler) |
-| Label          | Domino, Domino |
-| Format         | LP, Album |
-| Catalog Number | WIGLP78, DOMUS01 |
+| Label          | Domino |
+| Format         | Vinyl LP Album |
+| Catalog Number | WIGLP78 |
 
-Printed inner sleeve. Made in the UK.  This edition featuring Domino UK division catalogue number WIGLP78 on artwork and labels also distributed in the US. Copies distributed in the US come with an additional sticker printed with: [barcode] DOMUS01 • Clinic • Internal Wrangler Distributed by Revolver USA • www.mindheaven.com
+Printed inner sleeve.
+Made in the UK.
+
+This edition featuring Domino UK division catalogue number WIGLP78 on artwork and labels also distributed in the US.
+Copies distributed in the US come with an additional sticker printed with:
+[barcode]
+DOMUS01 • Clinic • Internal Wrangler
+Distributed by Revolver USA • www.mindheaven.com

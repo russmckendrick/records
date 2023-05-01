@@ -2,7 +2,7 @@
 title: "Porcupine Tree - The Delerium Years 1991-1993"
 artist: "Porcupine Tree"
 album_name: "The Delerium Years 1991-1993"
-date: 2017-01-27
+date: 2017-01-27T19:38:46.000000Z
 release_id: "9719328"
 slug: "the-delerium-years-1991-1993-9719328"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. On The Sunday Of Life
 2. Music For The Head (2:40)
@@ -75,13 +76,13 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 59. Music For The Head (1:22)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Porcupine Tree - The Delerium Years 1991-1993](https://www.discogs.com/release/9719328-Porcupine-Tree-The-Delerium-Years-1991-1993) |
 | Label          | Kscope |
-| Format         | Box, Comp, RM + 2xLP, Album + 2xLP, Album + 3xLP,  |
+| Format         | Box Set Compilation Remastered, Vinyl 2× LP Album, Vinyl 2× LP Album, Vinyl 3× LP Album, Vinyl 2× LP Compilation |
 | Catalog Number | KSCOPE893 |
-
-

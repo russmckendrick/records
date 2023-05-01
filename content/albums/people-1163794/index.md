@@ -2,7 +2,7 @@
 title: "Hothouse Flowers - People"
 artist: "Hothouse Flowers"
 album_name: "People"
-date: 2015-12-09
+date: 2015-12-09T10:18:46.000000Z
 release_id: "1163794"
 slug: "people-1163794"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock"]
 ---
+
 ## Tracklisting
 1. I'm Sorry
 2. Don't Go
@@ -25,8 +26,12 @@ styles: ["Blues Rock"]
 9. Love Don't Work This Way
 10. Ballad Of Katie
 11. Feet On The Ground
+
+
 ## Spotify
 {{< spotify type="album" id="3CmvEkZvuwobL2plDscowF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ym1bePL88ro" title="Hothouse Flowers ‎– Don't Go" >}}
@@ -40,8 +45,9 @@ styles: ["Blues Rock"]
 | ---------------| ----------- |
 | Release Year   | 1988 |
 | Discogs Link   | [Hothouse Flowers - People](https://www.discogs.com/release/1163794-Hothouse-Flowers-People) |
-| Label          | London Records, London Records, London Records, London Records |
-| Format         | LP, Album |
-| Catalog Number | LON LP 58, LONLP 58, 8281011, 828 101-1 |
+| Label          | London Records |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | LON LP 58 |
 
-Dedicated to Eamon and Terri with love. Issued with a custom inner sleeve containing lyrics, credits and images.
+Dedicated to Eamon and Terri with love.
+Issued with a custom inner sleeve containing lyrics, credits and images.

@@ -2,7 +2,7 @@
 title: "Sigur Rós - Valtari"
 artist: "Sigur Rós"
 album_name: "Valtari"
-date: 2021-07-03
+date: 2021-07-03T06:11:15.000000Z
 release_id: "19148089"
 slug: "valtari-19148089"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Ambient"]
 ---
+
 ## Tracklisting
 1. Ég Anda
 2. Ekki Múkk
@@ -22,8 +23,12 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 6. Varðeldur
 7. Valtari
 8. Fjögur Píanó
+
+
 ## Spotify
 {{< spotify type="album" id="0ZHkshyLAi9f8DXdj3Z5ph" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Gf1h2PMPCAo" title="Sigur Rós - Varúð [Official Music Video]" >}}
@@ -35,7 +40,13 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 | Release Year   | 2021 |
 | Discogs Link   | [Sigur Rós - Valtari](https://www.discogs.com/release/19148089-Sigur-R%C3%B3s-Valtari) |
 | Label          | Krúnk |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | KRUNK61LP |
 
-Limited standard black vinyl edition. Side B runout is a locked groove.  Barcode sticker on shrink, lower right corner.  ℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk.  © 2021 Krúnk. Published by Universal Music Publishing.
+Limited standard black vinyl edition. Side B runout is a locked groove.
+
+Barcode sticker on shrink, lower right corner.
+
+℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk. 
+© 2021 Krúnk.
+Published by Universal Music Publishing.

@@ -2,7 +2,7 @@
 title: "PJ Harvey - To Bring You My Love"
 artist: "PJ Harvey"
 album_name: "To Bring You My Love"
-date: 2020-09-11
+date: 2020-09-11T17:43:51.000000Z
 release_id: "15895363"
 slug: "to-bring-you-my-love-15895363"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. To Bring You My Love
 2. Meet Ze Monsta
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. I Think I'm A Mother
 9. Send His Love To Me
 10. The Dancer
+
+
 ## Spotify
 {{< spotify type="album" id="2yMg8ronKfVDHngnlLNnl8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="P-O91rE4Fe0" title="To Bring You My Love" >}}
@@ -44,8 +49,31 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [PJ Harvey - To Bring You My Love](https://www.discogs.com/release/15895363-PJ-Harvey-To-Bring-You-My-Love) |
-| Label          | Island Records, Island Records |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | 0896473, 00602508964732 |
+| Label          | Island Records |
+| Format         | Vinyl LP Album Reissue (180g) |
+| Catalog Number | 0896473 |
 
-Includes download card from thesoundofvinyl.com, in 16bit / 44.1KHz WAV format.  ℗ 1995 Universal Music Operations Ltd. © 1995 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.  Universal International Music. B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Jacket is made from textured matte cardstock. Artist/title text is overprinted on the front cover to give a slightly embossed effect.  Issued with printed inner sleeve.  First cat. # on jacket spine, back, labels, inner sleeve Second cat. # on jacket back, label rimtext  Hype sticker (cat. # 0896473) affixed to shrink: Re-issue of the original 1995 album To Bring You My Love, featuring the singles Down By The Water, C'mon Billy and Send His Love To Me Pressed on 180GSM vinyl Includes download card  Recorded at Townhouse Three, Battersea - September/October 1994 Mixed at Windmill Lane, Dublin - October/November 1994  All titles © Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)
+Includes download card from thesoundofvinyl.com, in 16bit / 44.1KHz WAV format.
+
+℗ 1995 Universal Music Operations Ltd. © 1995 Universal Music Operations Ltd.
+The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. 
+Universal International Music. B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.
+Made in Germany.
+
+Jacket is made from textured matte cardstock. Artist/title text is overprinted on the front cover to give a slightly embossed effect.
+
+Issued with printed inner sleeve.
+
+First cat. # on jacket spine, back, labels, inner sleeve
+Second cat. # on jacket back, label rimtext
+
+Hype sticker (cat. # 0896473) affixed to shrink:
+Re-issue of the original 1995 album To Bring You My Love, featuring the singles Down By The Water, C'mon Billy and Send His Love To Me
+Pressed on 180GSM vinyl
+Includes download card
+
+Recorded at Townhouse Three, Battersea - September/October 1994
+Mixed at Windmill Lane, Dublin - October/November 1994
+
+All titles © Hot Head Music Limited (ASCAP)
+Administered by Kobalt Songs Music Publishing (ASCAP)

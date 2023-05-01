@@ -2,7 +2,7 @@
 title: "New Order - Republic"
 artist: "New Order"
 album_name: "Republic"
-date: 2015-12-14
+date: 2015-12-14T17:05:24.000000Z
 release_id: "7515852"
 slug: "republic-7515852"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Regret
 2. World
@@ -25,8 +26,12 @@ styles: ["Electro", "Synth-pop", "Indie Rock"]
 9. Times Change
 10. Special
 11. Avalanche
+
+
 ## Spotify
 {{< spotify type="album" id="7mIOgbore2HTzdh2ZyS4rH" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="71ZHVmSuBJM" title="New Order - Regret (Official Music Video)" >}}
@@ -37,8 +42,16 @@ styles: ["Electro", "Synth-pop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [New Order - Republic](https://www.discogs.com/release/7515852-NewOrder-Republic) |
-| Label          | Rhino Records |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Catalog Number | 0825646072231 |
 
-Recorded and mixed at Real World & RAK. Designed at Pentagram.  180g Vinyl Printed inner sleeve incl. download code for mp3 version of this album  ℗ 2015 Warner Records 90 LTD © 1993 CentreDate Co. Ltd
+Recorded and mixed at Real World & RAK.
+Designed at Pentagram.
+
+180g Vinyl
+Printed inner sleeve
+incl. download code for mp3 version of this album
+
+℗ 2015 Warner Records 90 LTD
+© 1993 CentreDate Co. Ltd

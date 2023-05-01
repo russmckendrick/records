@@ -2,7 +2,7 @@
 title: "Orbital - Optical Delusion"
 artist: "Orbital"
 album_name: "Optical Delusion"
-date: 2023-02-20
+date: 2023-02-20T05:07:04.000000Z
 release_id: "25853389"
 slug: "optical-delusion-25853389"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
+
 ## Tracklisting
 1. Ringa Ringa (The Old Pandemic Folk Song)
 2. Day One
@@ -24,8 +25,12 @@ styles: ["Techno"]
 8. Requiem For The Pre-Apocalypse
 9. What A Surprise
 10. Moon Princess
+
+
 ## Spotify
 {{< spotify type="album" id="2jQbFspnSh7erex6RDKQGJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QXJZxv9M0PM" title="Orbital - Optical Delusion (2023)" >}}
@@ -45,8 +50,6 @@ styles: ["Techno"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Orbital - Optical Delusion](https://www.discogs.com/release/25853389-Orbital-Optical-Delusion) |
-| Label          | London Records, Orbital Recordings |
-| Format         | 2xLP, Album, Ltd, Whi |
+| Label          | London Records |
+| Format         | Vinyl 2× LP Album Limited Edition (White) |
 | Catalog Number | LMS5521861 |
-
-

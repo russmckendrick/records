@@ -2,7 +2,7 @@
 title: "Simple Minds - Once Upon A Time"
 artist: "Simple Minds"
 album_name: "Once Upon A Time"
-date: 2016-03-06
+date: 2016-03-06T09:21:31.000000Z
 release_id: "7860558"
 slug: "once-upon-a-time-7860558"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Once Upon A Time (5:44)
 2. All The Things She Said (4:16)
@@ -22,18 +23,18 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 6. I Wish You Were Here (4:42)
 7. Sanctify Yourself (5:00)
 8. Come A Long Way (5:08)
+
+
 ## Spotify
 {{< spotify type="album" id="4YimfceN1R0nOS9CefIFhm" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="9_-m8yFTn9w" title="Once Upon A Time" >}}
-- [Simple Minds - All The Things She Said](https://www.youtube.com/watch?v=tytPcvyJASc)
-- [Ghostdancing](https://www.youtube.com/watch?v=_6suVouvGGc)
+{{< youtube id="eQlYTc_rZ7c" title="Simple Minds Once Upon a Time" >}}
 - [Simple Minds - Alive And Kicking](https://www.youtube.com/watch?v=ljIQo1OHkTI)
-- [Oh Jungleland](https://www.youtube.com/watch?v=aaeAx1KAgfo)
-- [I Wish You Were Here](https://www.youtube.com/watch?v=LiqGGRqmxBE)
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
-- [Come A Long Way](https://www.youtube.com/watch?v=b0A9siJrokg)
+- [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
 
 ## Notes
 | Notes          |             |
@@ -41,7 +42,10 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 | Release Year   | 2015 |
 | Discogs Link   | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/7860558-Simple-Minds-Once-Upon-A-Time) |
 | Label          | Virgin |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 4722194 |
 
-180 Gram according to labels site: https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000  Made in EU.
+180 Gram according to labels site:
+https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000
+
+Made in EU.

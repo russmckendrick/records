@@ -2,7 +2,7 @@
 title: "Will Stratton - Rosewood Almanac"
 artist: "Will Stratton"
 album_name: "Rosewood Almanac"
-date: 2017-05-16
+date: 2017-05-16T18:15:40.000000Z
 release_id: "10279453"
 slug: "rosewood-almanac-10279453"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Rosewood Almanac by Will Stratton"
     caption: "Rosewood Almanac by Will Stratton"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Light Blue (4:06)
 2. Thick Skin (3:06)
@@ -24,8 +25,12 @@ styles: null
 8. Skating On The Glass (2:07)
 9. This Is What We Do (3:23)
 10. Ribbons (3:09)
+
+
 ## Spotify
 {{< spotify type="album" id="02Lx6I5EsUDFIdnS3pSNNT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}
@@ -37,7 +42,7 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Will Stratton - Rosewood Almanac](https://www.discogs.com/release/10279453-Will-Stratton-Rosewood-Almanac) |
 | Label          | Bella Union |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | BELLA616V |
 
 Includes download card and printed inner sleeve with lyrics and credits.

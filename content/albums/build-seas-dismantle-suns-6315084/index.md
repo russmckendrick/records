@@ -2,7 +2,7 @@
 title: "Nordic Giants - Build Seas, Dismantle Suns"
 artist: "Nordic Giants"
 album_name: "Build Seas, Dismantle Suns"
-date: 2015-09-01
+date: 2015-09-01T17:52:38.000000Z
 release_id: "6315084"
 slug: "build-seas-dismantle-suns-6315084"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
+
 ## Tracklisting
 1. Violent Lights
 2. Drumfire
@@ -22,8 +23,12 @@ styles: ["Post Rock"]
 6. Mechanical Minds
 7. Strangest Tides
 8. Dark Clouds Mean War
+
+
 ## Spotify
 {{< spotify type="album" id="1RPcqksKTdpMPLlJv2QJqa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TxeBiUnKOEM" title="Nordic Giants ± Mechanical Minds ± Dismantle Suns EP" >}}
@@ -39,7 +44,11 @@ styles: ["Post Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Nordic Giants - Build Seas, Dismantle Suns](https://www.discogs.com/release/6315084-Nordic-Giants-Build-Seas-Dismantle-Suns) |
 | Label          | Kscope |
-| Format         | LP, Album, Cle |
+| Format         | Vinyl LP Album (Clear) |
 | Catalog Number | KSCOPE869 |
 
-Made in Germany  The 2013 Self Released EPs on 180g Clear Vinyl  www.nordicgiants.co.uk
+Made in Germany
+
+The 2013 Self Released EPs on 180g Clear Vinyl
+
+www.nordicgiants.co.uk

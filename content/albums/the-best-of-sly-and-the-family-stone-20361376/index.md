@@ -2,7 +2,7 @@
 title: "Sly & The Family Stone - The Best Of Sly And The Family Stone"
 artist: "Sly & The Family Stone"
 album_name: "The Best Of Sly And The Family Stone"
-date: 2021-10-12
+date: 2021-10-12T07:25:28.000000Z
 release_id: "20361376"
 slug: "the-best-of-sly-and-the-family-stone-20361376"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Psychedelic", "Disco"]
 ---
+
 ## Tracklisting
 1. Dance To The Music (3:00)
 2. I Want To Take You Higher (5:22)
@@ -35,6 +36,9 @@ styles: ["Funk", "Psychedelic", "Disco"]
 19. Runnin' Away (2:58)
 20. Family Affair (Remix) (3:53)
 
+
+
+
 ## Videos
 {{< youtube id="Jn2PNlhvy8E" title="Sly & The Family Stone - Dance To The Music (Audio)" >}}
 - [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
@@ -49,8 +53,8 @@ styles: ["Funk", "Psychedelic", "Disco"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Sly & The Family Stone - The Best Of Sly And The Family Stone](https://www.discogs.com/release/20361376-Sly-The-Family-Stone-The-Best-Of-Sly-And-The-Family-Stone) |
-| Label          | Epic, Music On Vinyl |
-| Format         | 2xLP, Comp, Ltd, Num, RE, Pin |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Stereo (Pink, Transparent) |
 | Catalog Number | MOVLP125 |
 
 Limited Edition of 2000 Copies (numbered)

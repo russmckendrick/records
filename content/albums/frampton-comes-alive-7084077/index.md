@@ -2,7 +2,7 @@
 title: "Peter Frampton - Frampton Comes Alive!"
 artist: "Peter Frampton"
 album_name: "Frampton Comes Alive!"
-date: 2019-01-05
+date: 2019-01-05T11:38:49.000000Z
 release_id: "7084077"
 slug: "frampton-comes-alive-7084077"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. (Baby) Something's Happening (5:54)
 2. Doobie Wah (5:28)
@@ -28,8 +29,12 @@ styles: ["Rock & Roll", "Pop Rock"]
 12. Jumping Jack Flash (7:45)
 13. Lines On My Face (7:06)
 14. Do You Feel Like We Do (14:15)
+
+
 ## Spotify
 {{< spotify type="album" id="3719jlsd41vKAiYWrXNt9o" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hUioud7Qtsw" title="Do You Feel Like We Do (Live In The United States/1976)" >}}
@@ -43,7 +48,18 @@ styles: ["Rock & Roll", "Pop Rock"]
 | Release Year   | 1976 |
 | Discogs Link   | [Peter Frampton - Frampton Comes Alive!](https://www.discogs.com/release/7084077-Peter-Frampton-Frampton-Comes-Alive) |
 | Label          | A&M Records |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | AMLM 63703 |
 
-℗ 1976 A&M Records Inc. Differs From: [r456090]: Different label layout, different rear cover [r5870498]: Different label layout, printed by Robor Ltd. [r6361031]: Different label layout Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University of New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York. Remixed at Electric Lady Studios, New York. Mastered at the Mastering Lab, Los Angeles. Auto-coupled release.  Released in gatefold sleeve. 
+℗ 1976 A&M Records Inc.
+Differs From:
+[r456090]: Different label layout, different rear cover
+[r5870498]: Different label layout, printed by Robor Ltd.
+[r6361031]: Different label layout
+Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University of New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York.
+Remixed at Electric Lady Studios, New York.
+Mastered at the Mastering Lab, Los Angeles.
+Auto-coupled release.
+
+Released in gatefold sleeve.
+

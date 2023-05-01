@@ -2,7 +2,7 @@
 title: "Rob Dougan - Films: Past And Future"
 artist: "Rob Dougan"
 album_name: "Films: Past And Future"
-date: 2019-05-13
+date: 2019-05-13T12:11:20.000000Z
 release_id: "13623720"
 slug: "films-past-and-future-13623720"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ---
+
 ## Tracklisting
 1. I'm Not Driving Anymore (Instrumental) (4:08)
 2. Speed Me Towards Death (Instrumental) (4:28)
@@ -36,6 +37,9 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 20. Nothing At All (Instrumental) (5:30)
 21. Instrumental (4:30)
 
+
+
+
 ## Videos
 {{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}
 - [FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)](https://www.youtube.com/watch?v=mdIEqCWV9U8)
@@ -46,7 +50,5 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 | Release Year   | 2019 |
 | Discogs Link   | [Rob Dougan - Films: Past And Future](https://www.discogs.com/release/13623720-Rob-Dougan-Films-Past-And-Future) |
 | Label          | Label Rob |
-| Format         | 3xLP, Comp |
+| Format         | Vinyl 3× LP Compilation |
 | Catalog Number | none |
-
-

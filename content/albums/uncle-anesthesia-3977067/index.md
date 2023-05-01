@@ -2,7 +2,7 @@
 title: "Screaming Trees - Uncle Anesthesia"
 artist: "Screaming Trees"
 album_name: "Uncle Anesthesia"
-date: 2022-06-24
+date: 2022-06-24T05:51:21.000000Z
 release_id: "3977067"
 slug: "uncle-anesthesia-3977067"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Beyond This Horizon (4:13)
 2. Bed Of Roses (3:02)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock"]
 11. Disappearing (3:12)
 12. Ocean Of Confusion (3:05)
 13. Closer (5:48)
+
+
 ## Spotify
 {{< spotify type="album" id="5VZbPQYwhGgFNpJKdRgxHy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_LtDCEE8fro" title="Story Of Her Fate" >}}
@@ -46,7 +51,5 @@ styles: ["Alternative Rock"]
 | Release Year   | 2012 |
 | Discogs Link   | [Screaming Trees - Uncle Anesthesia](https://www.discogs.com/release/3977067-Screaming-Trees-Uncle-Anesthesia) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 gram) |
 | Catalog Number | MOVLP587 |
-
-

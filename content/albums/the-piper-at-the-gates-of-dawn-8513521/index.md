@@ -2,7 +2,7 @@
 title: "Pink Floyd - The Piper At The Gates Of Dawn"
 artist: "Pink Floyd"
 album_name: "The Piper At The Gates Of Dawn"
-date: 2016-06-03
+date: 2016-06-03T20:01:46.000000Z
 release_id: "8513521"
 slug: "the-piper-at-the-gates-of-dawn-8513521"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Astronomy Dominé
 2. Lucifer Sam
@@ -25,17 +26,29 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 9. Chapter 24
 10. The Scarecrow
 11. Bike
+
+
 ## Spotify
 {{< spotify type="album" id="2Se4ZylF9NkFGD92yv1aZC" width="100%" height="500" >}}
 
+
+
+## Videos
+{{< youtube id="MwTV23pBm_U" title="Pink Floyd - The Piper At The Gates Of Dawn  (Full Album)" >}}
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/8513521-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |
-| Label          | Pink Floyd Records, Columbia |
-| Format         | LP, Album, RE, RM, 180 |
-| Catalog Number | PFRLP1, 0825646493197 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
+| Catalog Number | PFRLP1 |
 
-The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: August 1967 Made in the E.U. www.pinkfloyd.com  Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve.
+The stereo remastered album on heavyweight 180ɢ vinyl
+Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN
+Original UK release date: August 1967
+Made in the E.U.
+www.pinkfloyd.com
+
+Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve.

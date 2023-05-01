@@ -2,7 +2,7 @@
 title: "Pure Reason Revolution - The Dark Third"
 artist: "Pure Reason Revolution"
 album_name: "The Dark Third"
-date: 2020-10-16
+date: 2020-10-16T13:28:17.000000Z
 release_id: "16056970"
 slug: "the-dark-third-16056970"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Aeropause
 2. Goshen's Remains
@@ -47,8 +48,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 31. The Exact Colour (04:05)
 32. The Twyncyn / Trembling Willows (07:16)
 33. Golden Clothes (07:31)
+
+
 ## Spotify
 {{< spotify type="album" id="4ijk02bZgFVyexq2bYzpL1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}
@@ -74,8 +79,8 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/16056970-Pure-Reason-Revolution-The-Dark-Third) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album, Yel + 2xCD, Album + Ltd, RE |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album (Yellow), CD 2× Album, All Media Limited Edition Reissue |
 | Catalog Number | 19439793441 |
 
 Gatefold, strictly limited to 200 copies.

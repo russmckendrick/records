@@ -2,7 +2,7 @@
 title: "The Stranglers - Peaches: The Very Best Of The Stranglers"
 artist: "The Stranglers"
 album_name: "Peaches: The Very Best Of The Stranglers"
-date: 2020-11-27
+date: 2020-11-27T17:46:06.000000Z
 release_id: "16274027"
 slug: "peaches-the-very-best-of-the-stranglers-16274027"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. Peaches
 2. Golden Brown
@@ -34,8 +35,12 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 18. Don't Bring Harry
 19. La Folie
 20. 96 Tears
+
+
 ## Spotify
 {{< spotify type="album" id="3HExg0VnCPiFFF6M3VYpQr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ckbONnCzZlU" title="[Get A] Grip (On Yourself) (Grip '89 Remix)" >}}
@@ -57,7 +62,10 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 | Release Year   | 2020 |
 | Discogs Link   | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |
 | Label          | Parlophone |
-| Format         | 2xLP, RSD, Comp, Ltd, RE, Gat |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
 | Catalog Number | 0190295187149 |
 
-Sticker on front: the very best of the stranglers - 2 LP set on vinyl for the first time Limited 1,500 copies  Event: RSD 2020 Black friday Release type: RSD First Release
+Sticker on front: the very best of the stranglers - 2 LP set on vinyl for the first time
+Limited 1,500 copies 
+Event: RSD 2020 Black friday
+Release type: RSD First Release

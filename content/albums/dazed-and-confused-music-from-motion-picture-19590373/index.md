@@ -2,7 +2,7 @@
 title: "Various - Dazed and Confused (Music From Motion Picture)"
 artist: "Various"
 album_name: "Dazed and Confused (Music From Motion Picture)"
-date: 2021-10-09
+date: 2021-10-09T06:39:41.000000Z
 release_id: "19590373"
 slug: "dazed-and-confused-music-from-motion-picture-19590373"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Rock And Roll, Hoochie Koo
 2. Slow Ride
@@ -28,6 +29,9 @@ styles: ["Classic Rock"]
 12. Highway Star
 13. Rock And Roll All Night
 14. Paranoid
+
+
+
 
 ## Videos
 {{< youtube id="KdSQA3SgWqk" title="Rock and Roll, Hoochie Koo" >}}
@@ -50,8 +54,8 @@ styles: ["Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |
-| Label          | The Medicine Label, The Medicine Label |
-| Format         | 2xLP, Comp, Ltd, RE, Gat |
-| Catalog Number | RCV1 24533, 603497843886 |
+| Label          | The Medicine Label |
+| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
+| Catalog Number | RCV1 24533 |
 
 Made in Czech Republic.

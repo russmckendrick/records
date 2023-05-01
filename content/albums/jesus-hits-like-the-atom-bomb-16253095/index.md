@@ -2,7 +2,7 @@
 title: "Tripping Daisy - Jesus Hits Like The Atom Bomb"
 artist: "Tripping Daisy"
 album_name: "Jesus Hits Like The Atom Bomb"
-date: 2022-02-12
+date: 2022-02-12T05:31:05.000000Z
 release_id: "16253095"
 slug: "jesus-hits-like-the-atom-bomb-16253095"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Field Day Jitters (4:09)
 2. Waited A Light Year (6:00)
@@ -29,8 +30,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. About The Movies (5:06)
 14. Tiny Men (3:25)
 15. Indian Poker Parts 2 & 3 (3:07)
+
+
 ## Spotify
 {{< spotify type="album" id="2AnRkDUoUfBhAN5SNhvgIO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BEf20qe-qGs" title="Waited A Light Year" >}}
@@ -51,7 +56,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Tripping Daisy - Jesus Hits Like The Atom Bomb](https://www.discogs.com/release/16253095-Tripping-Daisy-Jesus-Hits-Like-The-Atom-Bomb) |
 | Label          | Good Records |
-| Format         | 2xLP, Album, Ltd, Num, Pep |
+| Format         | Vinyl 2× LP 45 RPM Album Limited Edition Numbered (Pepto Bismol Pink) |
 | Catalog Number | GRR100 |
 
-Released on Vinyl in 2020 for the first time in the following quantities:  1-300 DELUXE CLEAR WITH SLIPMAT 301-500 IVORY WHITE 501-700 FACE MASK BLUE 701-900 PEPTO BISMOL PINK 901-1000 180-GRAM AUDIOPHILE BLACK  All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.  
+Released on Vinyl in 2020 for the first time in the following quantities:
+
+1-300 DELUXE CLEAR WITH SLIPMAT
+301-500 IVORY WHITE
+501-700 FACE MASK BLUE
+701-900 PEPTO BISMOL PINK
+901-1000 180-GRAM AUDIOPHILE BLACK
+
+All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.
+
+

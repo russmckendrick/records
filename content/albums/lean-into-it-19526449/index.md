@@ -2,7 +2,7 @@
 title: "Mr. Big - Lean Into It"
 artist: "Mr. Big"
 album_name: "Lean Into It"
-date: 2021-07-22
+date: 2021-07-22T04:46:29.000000Z
 release_id: "19526449"
 slug: "lean-into-it-19526449"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Daddy, Brother, Lover, Little Boy (The Electric Drill Song) (3:54)
 2. Alive And Kickin' (5:28)
@@ -25,12 +26,15 @@ styles: ["Hard Rock"]
 9. A Little Too Loose (5:21)
 10. Road To Ruin (3:54)
 11. To Be With You (3:27)
+
+
 ## Spotify
 {{< spotify type="album" id="2Y7fURPZCCr4iZIrM2S3dR" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="96FHTcm66qI" title="CD / Mr. Big – Lean Into It / 1991" >}}
-- [Mr. Big - To Be With You 4K Video](https://www.youtube.com/watch?v=L6-uJLteKek)
+{{< youtube id="L6-uJLteKek" title="Mr. Big - To Be With You 4K Video" >}}
 - [Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)](https://www.youtube.com/watch?v=46BCpSJKIjw)
 - [Mr. Big - Just Take My Heart (MV)](https://www.youtube.com/watch?v=AyYoc5JGY7c)
 
@@ -40,7 +44,11 @@ styles: ["Hard Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Mr. Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |
 | Label          | Evoxs |
-| Format         | LP, Album, Ltd, Num, RE, Whi |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (White) |
 | Catalog Number | EVLP036 |
 
-Delayed RSD 2021 reissue.  Released as an import in Australia on RSD 2021 drop 2, July 17th. Official source: [Australia RSD release lists for drop 2](https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/) May have been released in other regions (unconfirmed official sources)
+Delayed RSD 2021 reissue.
+
+Released as an import in Australia on RSD 2021 drop 2, July 17th.
+Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url]
+May have been released in other regions (unconfirmed official sources)

@@ -2,7 +2,7 @@
 title: "Mike & The Mechanics - Mike + The Mechanics"
 artist: "Mike & The Mechanics"
 album_name: "Mike + The Mechanics"
-date: 2016-01-20
+date: 2016-01-20T19:29:12.000000Z
 release_id: "1134097"
 slug: "mike-the-mechanics-1134097"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Silent Running (On Dangerous Ground) (6:08)
 2. All I Need Is A Miracle (4:08)
@@ -23,8 +24,12 @@ styles: ["Pop Rock", "Synth-pop"]
 7. You Are The One (3:34)
 8. A Call To Arms (4:37)
 9. Taken In (4:16)
+
+
 ## Spotify
 {{< spotify type="album" id="7pXUIU9n8JXEbQS95sodGr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ep7W89I_V_g" title="Mike & The Mechanics - Silent running" >}}
@@ -46,7 +51,9 @@ styles: ["Pop Rock", "Synth-pop"]
 | Release Year   | 1985 |
 | Discogs Link   | [Mike & The Mechanics - Mike + The Mechanics](https://www.discogs.com/release/1134097-Mike-The-Mechanics-Mike-The-Mechanics) |
 | Label          | WEA |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 252 496-1 |
 
-Recorded at Air Studios Montserrat, Air London and The Farm.  ⓟ&© 1985 WEA International Inc.
+Recorded at Air Studios Montserrat, Air London and The Farm.
+
+ⓟ&© 1985 WEA International Inc.

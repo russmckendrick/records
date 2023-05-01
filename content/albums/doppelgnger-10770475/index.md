@@ -2,7 +2,7 @@
 title: "Curve - Doppelgänger"
 artist: "Curve"
 album_name: "Doppelgänger"
-date: 2017-09-01
+date: 2017-09-01T05:56:02.000000Z
 release_id: "10770475"
 slug: "doppelgnger-10770475"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Already Yours
 2. Horror Head
@@ -24,6 +25,9 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 8. Think And Act
 9. Fait Accompli
 10. Sandpit
+
+
+
 
 ## Videos
 {{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head (4K Remaster)" >}}
@@ -48,7 +52,9 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 | Release Year   | 2017 |
 | Discogs Link   | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelg%C3%A4nger) |
 | Label          | 3 Loop Music |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 3RANGE-52LP |
 
-Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean.
+Comes with download card from 3 Loop Music. 
+
+Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean.

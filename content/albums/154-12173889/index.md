@@ -2,7 +2,7 @@
 title: "Wire - 154"
 artist: "Wire"
 album_name: "154"
-date: 2018-12-22
+date: 2018-12-22T10:27:25.000000Z
 release_id: "12173889"
 slug: "154-12173889"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk", "Experimental"]
 ---
+
 ## Tracklisting
 1. I Should Have Known Better (3:50)
 2. Two People In A Room (2:08)
@@ -27,8 +28,12 @@ styles: ["New Wave", "Punk", "Experimental"]
 11. Map Ref. 41ºN 93ºW (3:35)
 12. Indirect Enquiries (3:33)
 13. 40 Versions (3:26)
+
+
 ## Spotify
 {{< spotify type="album" id="2ajuLWJSuzHFeTceC1A4bW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FxigNmhB5KM" title="I Should Have Known Better (2006 Remastered Version)" >}}
@@ -54,7 +59,11 @@ styles: ["New Wave", "Punk", "Experimental"]
 | Release Year   | 2018 |
 | Discogs Link   | [Wire - 154](https://www.discogs.com/release/12173889-Wire-154) |
 | Label          | Pinkflag |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | PF13LP |
 
-Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Printed inner sleeve with credits and lyrics.
+Manufactured under licence from The state51 Conspiracy.
+
+℗ & © 2018 pinkflag
+
+Printed inner sleeve with credits and lyrics.

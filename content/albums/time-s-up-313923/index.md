@@ -2,7 +2,7 @@
 title: "Living Colour - Time's Up"
 artist: "Living Colour"
 album_name: "Time's Up"
-date: 2015-10-05
+date: 2015-10-05T18:23:05.000000Z
 release_id: "313923"
 slug: "time-s-up-313923"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
+
 ## Tracklisting
 1. Time's Up (3:06)
 2. History Lesson (0:54)
@@ -29,8 +30,12 @@ styles: ["Funk Metal"]
 13. Tag Team Partners (0:52)
 14. Solace Of You (3:38)
 15. This Is The Life (6:24)
+
+
 ## Spotify
 {{< spotify type="album" id="2rNAZnGy5aH1enh3NRn6IA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="vIUke0CCvDs" title="Living Colour - Solace of You" >}}
@@ -50,7 +55,5 @@ styles: ["Funk Metal"]
 | Release Year   | 1990 |
 | Discogs Link   | [Living Colour - Time's Up](https://www.discogs.com/release/313923-Living-Colour-Times-Up) |
 | Label          | Epic |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 466920 1 |
-
-

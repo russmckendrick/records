@@ -2,7 +2,7 @@
 title: "Stone Temple Pilots - Tiny Music...Songs From The Vatican Gift Shop"
 artist: "Stone Temple Pilots"
 album_name: "Tiny Music...Songs From The Vatican Gift Shop"
-date: 2017-01-27
+date: 2017-01-27T19:39:37.000000Z
 release_id: "5266870"
 slug: "tiny-music-songs-from-the-vatican-gift-shop-5266870"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Press Play (4:22)
 2. Pop's Love Suicide (3:40)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 10. Ride The Cliché (3:15)
 11. Daisy (2:13)
 12. Seven Caged Tigers (4:17)
+
+
 ## Spotify
 {{< spotify type="album" id="2JJEIN6LvQJQTJDfnYdDAe" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="G0gAxuvo5rc" title="Stone Temple Pilots - Big Bang Baby (Official Music Video)" >}}
@@ -47,8 +52,24 @@ styles: ["Alternative Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Stone Temple Pilots - Tiny Music...Songs From The Vatican Gift Shop](https://www.discogs.com/release/5266870-Stone-Temple-Pilots-Tiny-MusicSongs-From-The-Vatican-Gift-Shop) |
-| Label          | Music On Vinyl, Atlantic |
-| Format         | LP, Album, RE, 180 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP935 |
 
-180 gram audiophile vinyl. Includes a printed insert.                   First track is extended on this release. Originally 1.22, this version is 4.22.  Originally released ℗ & © 1996 Atlantic Records. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music.  Recorded at Westerly Ranch, Santa Ynez, CA Mixed at Southern Tracks, Atlanta, GA B9 Mixed at Bad Animals, Seattle, WA B10, B12 Vocals recorded at Hollywood Sound, Los Angeles, CA  All songs ©1996 EMI Virgin Music, Inc./Floated Music, ASCAP  Art Direction & Design: Stone Temple Pilots and John Heiden for S.M.O.G. Los Angeles, CA  Made in the EU. BIEM/STEMRA  Pressed By information is not listed. Information derived from runouts. 
+180 gram audiophile vinyl. Includes a printed insert.                  
+First track is extended on this release. Originally 1.22, this version is 4.22.
+
+Originally released ℗ & © 1996 Atlantic Records. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music.
+
+Recorded at Westerly Ranch, Santa Ynez, CA
+Mixed at Southern Tracks, Atlanta, GA
+B9 Mixed at Bad Animals, Seattle, WA
+B10, B12 Vocals recorded at Hollywood Sound, Los Angeles, CA
+
+All songs ©1996 EMI Virgin Music, Inc./Floated Music, ASCAP
+
+Art Direction & Design: Stone Temple Pilots and John Heiden for S.M.O.G. Los Angeles, CA
+
+Made in the EU. BIEM/STEMRA
+
+Pressed By information is not listed. Information derived from runouts. 

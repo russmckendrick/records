@@ -1,18 +1,19 @@
 ---
-title: "Anneke van Giersbergen With Agua De Annique - Pure Air"
-artist: "Anneke van Giersbergen With Agua De Annique"
+title: "Anneke van Giersbergen - Pure Air"
+artist: "Anneke van Giersbergen"
 album_name: "Pure Air"
-date: 2017-05-25
+date: 2017-05-25T18:36:52.000000Z
 release_id: "10280655"
 slug: "pure-air-10280655"
 hideSummary: true
 cover:
     image: "pure-air-10280655.jpg"
-    alt: "Pure Air by Anneke van Giersbergen With Agua De Annique"
-    caption: "Pure Air by Anneke van Giersbergen With Agua De Annique"
+    alt: "Pure Air by Anneke van Giersbergen"
+    caption: "Pure Air by Anneke van Giersbergen"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Blower's Daughter (4:33)
 2. Beautiful One (5:55)
@@ -29,13 +30,19 @@ styles: ["Pop Rock"]
 13. The Power Of Love (4:44)
 
 
+## Spotify
+{{< spotify type="album" id="7cghLlorUTasM39QzYGjCL" width="100%" height="500" >}}
+
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Anneke van Giersbergen With Agua De Annique - Pure Air](https://www.discogs.com/release/10280655-Anneke-van-Giersbergen-With-Agua-De-Annique-Pure-Air) |
-| Label          | Music On Vinyl, Agua Recordings, Inside Out Music |
-| Format         | LP, Album, Ltd, Num, Red |
+| Discogs Link   | [Anneke van Giersbergen - Pure Air](https://www.discogs.com/release/10280655-Anneke-van-Giersbergen-With-Agua-De-Annique-Pure-Air) |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Catalog Number | MOVLP1875 |
 
-Limited to 1,000 copies worldwide Number stamped on rear sleeve in gold.
+Limited to 1,000 copies worldwide
+Number stamped on rear sleeve in gold.

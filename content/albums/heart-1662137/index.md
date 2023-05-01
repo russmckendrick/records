@@ -2,7 +2,7 @@
 title: "Heart - Heart"
 artist: "Heart"
 album_name: "Heart"
-date: 2017-07-11
+date: 2017-07-11T08:45:32.000000Z
 release_id: "1662137"
 slug: "heart-1662137"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Heart by Heart"
     caption: "Heart by Heart"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Tell It Like It Is
 2. Barracuda
@@ -24,8 +25,12 @@ styles: null
 8. I'm Down/Long Tall Sally
 9. Unchained Melody
 10. Rock And Roll
+
+
 ## Spotify
 {{< spotify type="album" id="6TLTd0P2CUI0Q29AQ1LyFi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="p6v6wWmEYvY" title="Barracuda" >}}
@@ -40,7 +45,7 @@ styles: null
 | Release Year   | 1981 |
 | Discogs Link   | [Heart - Heart](https://www.discogs.com/release/1662137-Heart-Heart) |
 | Label          | Epic |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EPC 84829 |
 
 All Live Recordings

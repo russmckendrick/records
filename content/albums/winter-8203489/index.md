@@ -2,7 +2,7 @@
 title: "Oceans Of Slumber - Winter"
 artist: "Oceans Of Slumber"
 album_name: "Winter"
-date: 2016-12-04
+date: 2016-12-04T11:07:17.000000Z
 release_id: "8203489"
 slug: "winter-8203489"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
+
 ## Tracklisting
 1. Winter (7:57)
 2. Devout (5:07)
@@ -27,8 +28,12 @@ styles: ["Progressive Metal"]
 11. How Tall The Trees (1:33)
 12. ... This Road (7:43)
 13. Grace (3:20)
+
+
 ## Spotify
 {{< spotify type="album" id="50O9zBtbDovF8Z8Z4xnHEO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QxzqnetYSbk" title="OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)" >}}
@@ -56,7 +61,16 @@ styles: ["Progressive Metal"]
 | Release Year   | 2016 |
 | Discogs Link   | [Oceans Of Slumber - Winter](https://www.discogs.com/release/8203489-Oceans-Of-Slumber-Winter) |
 | Label          | Century Media |
-| Format         | LP + LP, S/Sided, Etch + Album |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Catalog Number | 88875193851 |
 
-Gatefold 2LP (with etching on side D). Tracks durations indicated on back of gatefold.  © & ℗ 2016 Century Media Records Ltd. Manufactured in Germany.  Tracked during the winter months of 2013-2014 in Spring, TX at Origin Sound. Additional tracking at Big Door Studio in Clear Lake, TX.  Track A3 "Nights In White Satin" is a cover of [a266422].
+Gatefold 2LP (with etching on side D).
+Tracks durations indicated on back of gatefold.
+
+© & ℗ 2016 Century Media Records Ltd.
+Manufactured in Germany.
+
+Tracked during the winter months of 2013-2014 in Spring, TX at Origin Sound.
+Additional tracking at Big Door Studio in Clear Lake, TX.
+
+Track A3 "Nights In White Satin" is a cover of [a266422].

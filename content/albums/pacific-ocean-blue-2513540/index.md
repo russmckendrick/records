@@ -2,7 +2,7 @@
 title: "Dennis Wilson - Pacific Ocean Blue"
 artist: "Dennis Wilson"
 album_name: "Pacific Ocean Blue"
-date: 2016-11-21
+date: 2016-11-21T12:10:28.000000Z
 release_id: "2513540"
 slug: "pacific-ocean-blue-2513540"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. River Song (3:44)
 2. What's Wrong (2:22)
@@ -26,8 +27,12 @@ styles: ["Pop Rock"]
 10. Farewell My Friend (2:24)
 11. Rainbows (2:51)
 12. End Of The Show (2:56)
+
+
 ## Spotify
 {{< spotify type="album" id="08CyNpU6VJMtGmR7DYjNmQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1Q-oVAhZ3GQ" title="Only with You" >}}
@@ -47,8 +52,19 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-Pacific-Ocean-Blue) |
-| Label          | Music On Vinyl, Caribou Records |
-| Format         | LP, Album, RE, RM, Gat |
-| Catalog Number | MOVLP096, 88697731691 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue Remastered (180 gram) |
+| Catalog Number | MOVLP096 |
 
+Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.
 
+Hype sticker affixed to outer bag:
+Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing
+
+Recorded At: Brother Studios, Santa Monica, Calif.
+Mastered At: L.R.S. In Burbank, Calif.
+
+Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. 
+All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music
+
+Runouts are etched.

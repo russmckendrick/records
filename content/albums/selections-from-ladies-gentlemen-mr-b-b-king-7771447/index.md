@@ -2,7 +2,7 @@
 title: "B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King"
 artist: "B.B. King"
 album_name: "Selections From: Ladies & Gentlemen ... Mr. B.B. King"
-date: 2015-12-01
+date: 2015-12-01T22:11:01.000000Z
 release_id: "7771447"
 slug: "selections-from-ladies-gentlemen-mr-b-b-king-7771447"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King"
     caption: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King"
 genres: ["Blues"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. How Blue Can You Get?
 2. I Wonder Why
@@ -32,6 +33,9 @@ styles: null
 16. Get These Blues Off Me 
 17. See That My Grave Is Kept Clean
 
+
+
+
 ## Videos
 {{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de" >}}
 
@@ -41,7 +45,9 @@ styles: null
 | Release Year   | 2015 |
 | Discogs Link   | [B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King](https://www.discogs.com/release/7771447-BB-King-Selections-From-Ladies-Gentlemen--Mr-BB-King) |
 | Label          | Universal Music Group International |
-| Format         | 2xLP, Comp, 180 |
+| Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
 | Catalog Number | 0600753629734 |
 
-Includes voucher to download MP3 version of the album. Gatefold cover. Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3)
+Includes voucher to download MP3 version of the album.
+Gatefold cover.
+Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3)

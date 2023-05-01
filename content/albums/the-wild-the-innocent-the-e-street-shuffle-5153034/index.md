@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle"
 artist: "Bruce Springsteen"
 album_name: "The Wild, The Innocent &  The E Street Shuffle"
-date: 2015-09-15
+date: 2015-09-15T15:20:21.000000Z
 release_id: "5153034"
 slug: "the-wild-the-innocent-the-e-street-shuffle-5153034"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. The E Street Shuffle (4:26)
 2. 4th Of July, Asbury Park (Sandy) (5:35)
@@ -21,8 +22,12 @@ styles: ["Pop Rock"]
 5. Incident On 57th Street (7:45)
 6. Rosalita (Come Out Tonight) (7:02)
 7. New York City Serenade (9:56)
+
+
 ## Spotify
 {{< spotify type="album" id="1rmhti8uHw21LnaWMQy608" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LWLMaZ7H3B0" title="The E Street Shuffle" >}}
@@ -39,7 +44,9 @@ styles: ["Pop Rock"]
 | Release Year   | 1975 |
 | Discogs Link   | [Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle](https://www.discogs.com/release/5153034-Bruce-Springsteen-The-WildInnocent-The-E-Street-Shuffle) |
 | Label          | CBS |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | S 65780 |
 
-Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).  Wide title, first line in record title on label is 70 mm long.
+Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).
+
+Wide title, first line in record title on label is 70 mm long.

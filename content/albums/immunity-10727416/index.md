@@ -2,7 +2,7 @@
 title: "Jon Hopkins - Immunity"
 artist: "Jon Hopkins"
 album_name: "Immunity"
-date: 2020-04-10
+date: 2020-04-10T12:40:54.000000Z
 release_id: "10727416"
 slug: "immunity-10727416"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 ---
+
 ## Tracklisting
 1. We Disappear 
 2. Open Eye Signal 
@@ -22,8 +23,12 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 6. Form By Firelight
 7. Sun Harmonics
 8. Immunity
+
+
 ## Spotify
 {{< spotify type="album" id="1rxWlYQcH945S3jpIMYR35" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PYUF74K93IY" title="Jon Hopkins - We Disappear [Immunity]" >}}
@@ -48,7 +53,10 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 | Release Year   | 2016 |
 | Discogs Link   | [Jon Hopkins - Immunity](https://www.discogs.com/release/10727416-Jon-Hopkins-Immunity) |
 | Label          | Domino |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180g) |
 | Catalog Number | WIGLP298 |
 
-• 180-gram heavyweight virgin vinyl • Gatefold sleeve • Includes glossy insert with printed artwork/details/credits • Includes a card for MP3 album download
+• 180-gram heavyweight virgin vinyl
+• Gatefold sleeve
+• Includes glossy insert with printed artwork/details/credits
+• Includes a card for MP3 album download

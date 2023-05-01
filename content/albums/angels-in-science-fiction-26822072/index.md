@@ -2,7 +2,7 @@
 title: "St. Paul & The Broken Bones - Angels In Science Fiction"
 artist: "St. Paul & The Broken Bones"
 album_name: "Angels In Science Fiction"
-date: 2023-04-23
+date: 2023-04-23T04:35:34.000000Z
 release_id: "26822072"
 slug: "angels-in-science-fiction-26822072"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Chelsea
 2. City Federal Building
@@ -27,8 +28,10 @@ styles: ["Rhythm & Blues"]
 11. Easter Bunny
 12. Marigold
 
+
 ## Spotify
 {{< spotify type="album" id="3PNavLo012ZTOzWvt4lqQF" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -37,7 +40,9 @@ styles: ["Rhythm & Blues"]
 | Release Year   | 2023 |
 | Discogs Link   | [St. Paul & The Broken Bones - Angels In Science Fiction](https://www.discogs.com/release/26822072-St-Paul-The-Broken-Bones-Angels-In-Science-Fiction) |
 | Label          | ATO Records |
-| Format         | LP, Ltd, Cle |
-| Catalog Number | AT00599 |
+| Format         | Vinyl LP Album Limited Edition (Clear Transparent ) |
+| Catalog Number | ATO0599LP |
 
-Clear Transparent variant  
+Tracks listed as 01 - 12 on rear of sleeve
+
+

@@ -2,7 +2,7 @@
 title: "Ian Dury - New Boots And Panties!!"
 artist: "Ian Dury"
 album_name: "New Boots And Panties!!"
-date: 2018-02-01
+date: 2018-02-01T19:08:31.000000Z
 release_id: "11098144"
 slug: "new-boots-and-panties-11098144"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Wake Up And Make Love With Me
 2. Sweet Gene Vincent
@@ -35,8 +36,12 @@ styles: ["Punk"]
 19. Upminster Kid [Live]
 20. Sweet Gene Vincent [Live]
 21. Sex & Drugs & Rock & Roll (Reprise) [Live]
+
+
 ## Spotify
 {{< spotify type="album" id="4GR2L1xSn9yWXLbPCxVKxb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}
@@ -58,7 +63,13 @@ styles: ["Punk"]
 | Release Year   | 2017 |
 | Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/11098144-Ian-Dury-New-Boots-And-Panties) |
 | Label          | Demon Records |
-| Format         | 2xLP, Album, Dlx, Ltd, Num, RE, Spl |
+| Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Numbered Reissue (Splattered Green/Orange Vinyl) |
 | Catalog Number | DEMRECDLX005 |
 
-Limited to 1000 copies - numbered on the lower left of the back cover. Deluxe Edition Includes the classic album and Live AT The Paris Theatre, London. 2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.  Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C. 
+Limited to 1000 copies - numbered on the lower left of the back cover.
+Deluxe Edition
+Includes the classic album and Live AT The Paris Theatre, London.
+2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.
+
+Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C.
+

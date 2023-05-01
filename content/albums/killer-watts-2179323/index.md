@@ -2,7 +2,7 @@
 title: "Various - Killer Watts"
 artist: "Various"
 album_name: "Killer Watts"
-date: 2020-08-02
+date: 2020-08-02T13:31:24.000000Z
 release_id: "2179323"
 slug: "killer-watts-2179323"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. The World Anthem (3:00)
 2. Rock 'N' Roll Hall Of Fame (4:06)
@@ -32,6 +33,9 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 16. Checkin' It Out (Baby Don't You Cry) (4:26)
 17. Boogie No More (6:05)
 
+
+
+
 ## Videos
 {{< youtube id="_roTCXelnq0" title="Aerosmith - No Surprize" >}}
 - [Ray Gomez - U.S.A.](https://www.youtube.com/watch?v=07d0ynor2TU)
@@ -46,8 +50,10 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 1980 |
 | Discogs Link   | [Various - Killer Watts](https://www.discogs.com/release/2179323-Various-Killer-Watts) |
-| Label          | Epic, Epic |
-| Format         | 2xLP, Album, Comp |
-| Catalog Number | KW 1, S KW 1 |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Album Compilation Stereo |
+| Catalog Number | KW 1 |
 
-© 1980 CBS Records.  
+© 1980 CBS Records.
+
+

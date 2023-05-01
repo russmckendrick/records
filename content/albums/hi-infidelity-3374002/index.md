@@ -2,7 +2,7 @@
 title: "REO Speedwagon - Hi Infidelity"
 artist: "REO Speedwagon"
 album_name: "Hi Infidelity"
-date: 2020-08-02
+date: 2020-08-02T13:49:18.000000Z
 release_id: "3374002"
 slug: "hi-infidelity-3374002"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Don't Let Him Go (3:44)
 2. Keep On Loving You (3:19)
@@ -24,8 +25,12 @@ styles: ["Pop Rock", "Classic Rock"]
 8. Shakin' It Loose (2:24)
 9. Someone Tonight (2:39)
 10. I Wish You Were There (4:26)
+
+
 ## Spotify
 {{< spotify type="album" id="0X4ZNTZw7SYgrp5rlBQC3N" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wJzNZ1c5C9c" title="REO Speedwagon - Keep on Loving You (Video Version)" >}}
@@ -35,8 +40,10 @@ styles: ["Pop Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 1980 |
 | Discogs Link   | [REO Speedwagon - Hi Infidelity](https://www.discogs.com/release/3374002-REO-Speedwagon-Hi-Infidelity) |
-| Label          | CBS/Sony, CBS/Sony |
-| Format         | LP, Album |
-| Catalog Number | LP-1511-E, 25.3P 258 |
+| Label          | CBS/Sony |
+| Format         | Vinyl LP Album |
+| Catalog Number | LP-1511-E |
 
-℗© 1980 CBS Inc.  Manufactured in the Philippines by Blackgold Records Corporation under licensese by CBS / Sony In. (Tokyo, Japan)
+℗© 1980 CBS Inc.
+
+Manufactured in the Philippines by Blackgold Records Corporation under licensese by CBS / Sony In. (Tokyo, Japan)

@@ -2,7 +2,7 @@
 title: "Syd Arthur - Apricity"
 artist: "Syd Arthur"
 album_name: "Apricity"
-date: 2016-10-27
+date: 2016-10-27T05:43:01.000000Z
 release_id: "9254219"
 slug: "apricity-9254219"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Coal Mine
 2. Plane Crash In Kansas
@@ -24,8 +25,12 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 8. Portal
 9. Evolution
 10. Apricity
+
+
 ## Spotify
 {{< spotify type="album" id="5m3M1JEQCG0TsXW2z7S5Io" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lmDnL8byUAw" title="Syd Arthur - No Peace" >}}
@@ -38,8 +43,12 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Syd Arthur - Apricity](https://www.discogs.com/release/9254219-Syd-Arthur-Apricity) |
-| Label          | Harvest, Communion Records |
-| Format         | LP, Album, Ltd, Ora |
-| Catalog Number | 4776485, COMM159 |
+| Label          | Harvest |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Catalog Number | 4776485 |
 
-Includes an insert with artwork on one and lyrics and liner notes on the other side, as well as a card with a download code for WAV and MP3 files.  All tracks © 2016 Sony ATV Music // Syd Arthur Music BMI. All Rights Reserved. Used By Permission.  ℗ © 2016 Harvest Records, Under Exclusive License To Communion Group Ltd. BIEM /SDRM. Made In The EU. COMM159 / 4776485
+Includes an insert with artwork on one and lyrics and liner notes on the other side, as well as a card with a download code for WAV and MP3 files.
+
+All tracks © 2016 Sony ATV Music // Syd Arthur Music BMI. All Rights Reserved. Used By Permission.
+
+℗ © 2016 Harvest Records, Under Exclusive License To Communion Group Ltd. BIEM /SDRM. Made In The EU. COMM159 / 4776485

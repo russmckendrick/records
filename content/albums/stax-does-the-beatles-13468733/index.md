@@ -2,7 +2,7 @@
 title: "Various - Stax Does The Beatles"
 artist: "Various"
 album_name: "Stax Does The Beatles"
-date: 2019-04-13
+date: 2019-04-13T11:17:16.000000Z
 release_id: "13468733"
 slug: "stax-does-the-beatles-13468733"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Stax Does The Beatles by Various"
     caption: "Stax Does The Beatles by Various"
 genres: ["Rock", "Funk / Soul"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Day Tripper (Alternate Take)
 2. Help!
@@ -29,8 +30,12 @@ styles: null
 13. Lady Madonna
 14. My Sweet Lord
 15. Hey Jude
+
+
 ## Spotify
 {{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uKYcbGMHPAM" title="STAX DOES THE BEATLES(a few tracks)" >}}
@@ -56,7 +61,7 @@ styles: null
 | Release Year   | 2019 |
 | Discogs Link   | [Various - Stax Does The Beatles](https://www.discogs.com/release/13468733-Various-Stax-Does-The-Beatles) |
 | Label          | Craft Recordings |
-| Format         | 2xLP, Album, RSD, Comp |
+| Format         | Vinyl 2× LP Album Record Store Day Compilation |
 | Catalog Number | CR00173 |
 
 Compilation featuring Beatles hits as recorded by various Stax artists, never before available on vinyl. 2 LP Standard black, gatefold sleeve. Approved for Black Friday 2018, but moved to RSD 2019. 2500 copies released.

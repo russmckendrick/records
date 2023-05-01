@@ -2,7 +2,7 @@
 title: "Gulp - All Good Wishes"
 artist: "Gulp"
 album_name: "All Good Wishes"
-date: 2018-10-22
+date: 2018-10-22T18:31:42.000000Z
 release_id: "12359789"
 slug: "all-good-wishes-12359789"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Search For Your Love
 2. Claudia
@@ -25,8 +26,9 @@ styles: ["Indie Pop"]
 9. Ride
 10. Watching Ships
 11. Silver Tides
-## Spotify
-{{< spotify type="album" id="5J1PhcxvWMflLDRsGw8lmZ" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Vr3Ib8vomG0" title="Gulp - Search For Your Love (Official Video)" >}}
@@ -39,7 +41,7 @@ styles: ["Indie Pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Gulp - All Good Wishes](https://www.discogs.com/release/12359789-Gulp-All-Good-Wishes) |
 | Label          | E.L.K. Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ELKREC5LP |
 
 Non-Limited Edition Black Vinyl

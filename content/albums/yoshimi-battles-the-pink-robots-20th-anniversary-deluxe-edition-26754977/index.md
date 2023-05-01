@@ -2,7 +2,7 @@
 title: "The Flaming Lips - Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition)"
 artist: "The Flaming Lips"
 album_name: "Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition)"
-date: 2023-04-16
+date: 2023-04-16T10:15:54.000000Z
 release_id: "26754977"
 slug: "yoshimi-battles-the-pink-robots-20th-anniversary-deluxe-edition-26754977"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Yoshimi Battles The Pink Robots
 2. Fight Test (4:14)
@@ -75,14 +76,11 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 59. Up Above The Daily Hum (4:10)
 60. Xanthe Terra (3:55)
 
-## Spotify
-{{< spotify type="album" id="0lzhEDgoe7Y6bhT42NWrp2" width="100%" height="500" >}}
+
+
 
 ## Videos
-{{< youtube id="lPXWt2ESxVY" title="The Flaming Lips - Do You Realize?? [Official Music Video]" >}}
-- [The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]](https://www.youtube.com/watch?v=ZdDHi5SSIlM)
-- [The Flaming Lips - Fight Test [Official Music Video]](https://www.youtube.com/watch?v=fye1XtXQn9s)
-- [The Flaming Lips - Phoebe Battles The Pink Robots [Official Music Video]](https://www.youtube.com/watch?v=HEaKdBSNS3k)
+{{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]" >}}
 
 ## Notes
 | Notes          |             |
@@ -90,7 +88,5 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [The Flaming Lips - Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition)](https://www.discogs.com/release/26754977-The-Flaming-Lips-Yoshimi-Battles-The-Pink-Robots-20th-Anniversary-Deluxe-Edition) |
 | Label          | Warner Records |
-| Format         | Box Set, Deluxe Edition, Vinyl, LP, Album, Reissue, 4 x Vinyl, LP, Compilation |
+| Format         | Box Set Deluxe Edition, Vinyl LP Album Reissue, Vinyl 4× LP Compilation |
 | Catalog Number | 093624 873051 |
-
-

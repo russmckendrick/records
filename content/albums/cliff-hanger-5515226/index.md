@@ -2,7 +2,7 @@
 title: "Jimmy Cliff - Cliff Hanger"
 artist: "Jimmy Cliff"
 album_name: "Cliff Hanger"
-date: 2017-05-27
+date: 2017-05-27T15:33:48.000000Z
 release_id: "5515226"
 slug: "cliff-hanger-5515226"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Cliff Hanger by Jimmy Cliff"
     caption: "Cliff Hanger by Jimmy Cliff"
 genres: ["Reggae"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Hitting With Music (4:15)
 2. American Sweet (3:41)
@@ -24,8 +25,12 @@ styles: null
 8. Dead And Awake (3:37)
 9. Now And Forever (4:56)
 10. Nuclear War (4:12)
+
+
 ## Spotify
 {{< spotify type="album" id="4jDYIT8hRGwGxDmTd6c9tN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rDqRo2ecJ0o" title="Reggae Street" >}}
@@ -48,7 +53,5 @@ styles: null
 | Release Year   | 1985 |
 | Discogs Link   | [Jimmy Cliff - Cliff Hanger](https://www.discogs.com/release/5515226-Jimmy-Cliff-Cliff-Hanger) |
 | Label          | CBS |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CBS 26528 |
-
-

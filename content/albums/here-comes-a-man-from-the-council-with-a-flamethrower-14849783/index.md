@@ -2,7 +2,7 @@
 title: "A Formal Horse -  Here Comes A Man From The Council With A Flamethrower"
 artist: "A Formal Horse"
 album_name: " Here Comes A Man From The Council With A Flamethrower"
-date: 2020-02-27
+date: 2020-02-27T18:19:31.000000Z
 release_id: "14849783"
 slug: "here-comes-a-man-from-the-council-with-a-flamethrower-14849783"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Magazine Zooey Deschanel (2:08)
 2. Bird (2:35)
@@ -30,8 +31,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 14. Unison 3 (3:58)
 15. Boarded Doors Reprise (0:48)
 16. Anyway (3:25)
+
+
 ## Spotify
 {{< spotify type="album" id="0laB3CZ60ALn8lVAx1Hwxi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ftjAexbR2p8" title="Magazine Zooey Deschanel" >}}
@@ -48,7 +53,9 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [A Formal Horse -  Here Comes A Man From The Council With A Flamethrower](https://www.discogs.com/release/14849783-A-Formal-Horse-Here-Comes-A-Man-From-The-Council-With-A-Flamethrower) |
 | Label          | Plane Groovy |
-| Format         | LP, Album, Ltd, 180 |
+| Format         | Vinyl LP Album Limited Edition Stereo (180 Gram) |
 | Catalog Number | PLG081 |
 
-Packaged in a single jacket with 2-page color insert and polylined LP sleeve.  Limited edition of 300 copies of which the first 60 were signed by the band.
+Packaged in a single jacket with 2-page color insert and polylined LP sleeve.
+
+Limited edition of 300 copies of which the first 60 were signed by the band.

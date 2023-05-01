@@ -2,7 +2,7 @@
 title: "Badly Drawn Boy - Banana Skin Shoes"
 artist: "Badly Drawn Boy"
 album_name: "Banana Skin Shoes"
-date: 2020-05-26
+date: 2020-05-26T12:12:37.000000Z
 release_id: "15351838"
 slug: "banana-skin-shoes-15351838"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Banana Skin Shoes
 2. Is This A Dream?
@@ -28,8 +29,12 @@ styles: ["Indie Rock"]
 12. Never Change
 13. Appletree Boulevard
 14. I'll Do My Best
+
+
 ## Spotify
 {{< spotify type="album" id="53WtJIxsyBRKKMohHtBVA5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9DoVsGK87NM" title="Badly Drawn Boy - Banana Skin Shoes (Official Music Video)" >}}
@@ -50,7 +55,14 @@ styles: ["Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838-Badly-Drawn-Boy-Banana-Skin-Shoes) |
 | Label          | One Last Fruit |
-| Format         | 2xLP, Album, Ltd, Yel |
+| Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
 | Catalog Number | OLF005LP |
 
-Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself.
+Released in a gatefold sleeve. Comes with lyrics foldout poster.
+
+Track titles taken from inside gatefold sleeve and lyrics poster.
+On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".
+
+800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800
+
+Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself.

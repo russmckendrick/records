@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - Darkness On The Edge Of Town"
 artist: "Bruce Springsteen"
 album_name: "Darkness On The Edge Of Town"
-date: 2015-09-15
+date: 2015-09-15T15:20:21.000000Z
 release_id: "1856291"
 slug: "darkness-on-the-edge-of-town-1856291"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Badlands (4:01)
 2. Adam Raised A Cain (4:32)
@@ -24,8 +25,12 @@ styles: ["Folk Rock", "Pop Rock"]
 8. Streets Of Fire (4:03)
 9. Prove It All Night (3:57)
 10. Darkness On The Edge Of Town (4:28)
+
+
 ## Spotify
 {{< spotify type="album" id="4KT6G8fj8EEIfsyr75hbgc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SDlSCeQXbPo" title="Badlands" >}}
@@ -46,8 +51,11 @@ styles: ["Folk Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Bruce Springsteen - Darkness On The Edge Of Town](https://www.discogs.com/release/1856291-Bruce-Springsteen-Darkness-On-The-Edge-Of-Town) |
-| Label          | CBS, CBS |
-| Format         | LP, Album |
-| Catalog Number | CBS 86061, S CBS 86061 |
+| Label          | CBS |
+| Format         | Vinyl LP Album |
+| Catalog Number | CBS 86061 |
 
-'Made in England'  With picture inner sleeve and lyric insert. 
+'Made in England'
+
+With picture inner sleeve and lyric insert.
+

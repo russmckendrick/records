@@ -2,7 +2,7 @@
 title: "Justin Townes Earle - The Saint Of Lost Causes"
 artist: "Justin Townes Earle"
 album_name: "The Saint Of Lost Causes"
-date: 2019-05-26
+date: 2019-05-26T08:54:56.000000Z
 release_id: "13678373"
 slug: "the-saint-of-lost-causes-13678373"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk", "Country"]
 ---
+
 ## Tracklisting
 1. The Saint Of Lost Causes
 2. Ain't Got No Money
@@ -26,8 +27,12 @@ styles: ["Folk", "Country"]
 10. Say Baby
 11. Ahi Esta Mi Nina
 12. Talking To Myself
+
+
 ## Spotify
 {{< spotify type="album" id="2u56gjSmnJzoZOcUO84Lrw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="F9pXYG1ZITk" title="Justin Townes Earle - The Saint Of Lost Causes [Audio Only]" >}}
@@ -41,7 +46,10 @@ styles: ["Folk", "Country"]
 | Release Year   | 2019 |
 | Discogs Link   | [Justin Townes Earle - The Saint Of Lost Causes](https://www.discogs.com/release/13678373-Justin-Townes-Earle-The-Saint-Of-Lost-Causes) |
 | Label          | New West Records |
-| Format         | LP + LP, S/Sided, Etch + Album |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Catalog Number | NW5279 |
 
-Black vinyl edition. Side D has a etched picture.  Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker. 
+Black vinyl edition.
+Side D has a etched picture.
+
+Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker. 

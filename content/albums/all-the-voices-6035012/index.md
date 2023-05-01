@@ -2,7 +2,7 @@
 title: "INXS - All The Voices"
 artist: "INXS"
 album_name: "All The Voices"
-date: 2015-12-28
+date: 2015-12-28T14:09:49.000000Z
 release_id: "6035012"
 slug: "all-the-voices-6035012"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "All The Voices by INXS"
     caption: "All The Voices by INXS"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. INXS
 2. On A Bus
@@ -136,13 +137,17 @@ styles: null
 120. Shine
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [INXS - All The Voices](https://www.discogs.com/release/6035012-INXS-All-The-Voices) |
 | Label          | Universal Music Group International |
-| Format         | Box, Comp, Ltd + LP, Album, RE + LP, Album, RE + L |
+| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
 | Catalog Number | 0602537778867 |
 
-Includes download voucher.  "Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels).
+Includes download voucher.
+
+"Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels).

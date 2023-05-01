@@ -2,7 +2,7 @@
 title: "Genesis - Duke"
 artist: "Genesis"
 album_name: "Duke"
-date: 2020-06-01
+date: 2020-06-01T13:34:46.000000Z
 release_id: "12344522"
 slug: "duke-12344522"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Behind The Lines
 2. Duchess
@@ -26,16 +27,12 @@ styles: ["Pop Rock", "Prog Rock"]
 10. Please Don't Ask
 11. Duke's Travels
 12. Duke's End
+
+
 ## Spotify
 {{< spotify type="album" id="7ryVZ5ca6GM3FAkmlrymgv" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="cwk0x6U_0fU" title="Genesis - Behind the Lines" >}}
-- [Genesis - Duke (Full Album, Non-Remastered)](https://www.youtube.com/watch?v=9sV7NpH-4aE)
-- [Genesis - Alone Tonight](https://www.youtube.com/watch?v=JUL3Zy6jxAY)
-- [Genesis - Behind The Lines / Duke's End + Turn It On Again - O2 Arena, London, 26/3/22](https://www.youtube.com/watch?v=chvHm7CO2zk)
-- [Genesis - Duchess](https://www.youtube.com/watch?v=J3fLoF-Jus0)
-- [Genesis - Turn It On Again (Official Music Video)](https://www.youtube.com/watch?v=8OIkw9kJ0u4)
+
 
 ## Notes
 | Notes          |             |
@@ -43,7 +40,8 @@ styles: ["Pop Rock", "Prog Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Genesis - Duke](https://www.discogs.com/release/12344522-Genesis-Duke) |
 | Label          | Charisma |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 6748978 |
 
-Gatefold sleeve. Comes with a download card.
+Gatefold sleeve.
+Comes with a download card.

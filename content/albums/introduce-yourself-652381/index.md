@@ -2,7 +2,7 @@
 title: "Faith No More - Introduce Yourself"
 artist: "Faith No More"
 album_name: "Introduce Yourself"
-date: 2015-08-09
+date: 2015-08-09T08:42:25.000000Z
 release_id: "652381"
 slug: "introduce-yourself-652381"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
+
 ## Tracklisting
 1. Faster Disco (4:17)
 2. Anne's Song (4:47)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 8. The Crab Song (5:52)
 9. Blood (3:39)
 10. Spirit (2:50)
+
+
 ## Spotify
 {{< spotify type="album" id="0kBy2KA6BuCWveFo88VmMX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="x-AhE32UPw8" title="Faster Disco" >}}
@@ -44,8 +49,19 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [Faith No More - Introduce Yourself](https://www.discogs.com/release/652381-Faith-No-More-Introduce-Yourself) |
-| Label          | Slash, Slash |
-| Format         | LP, Album |
-| Catalog Number | 25559-1, 1-25559 |
+| Label          | Slash |
+| Format         | Vinyl LP Album |
+| Catalog Number | 25559-1 |
 
-This version was pressed at Allied Record Company and is otherwise identical to the version [made at Specialty Records Corporation](http://www.discogs.com/release/4354696).  Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.  Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA.  Mixed at Studio D, Sausalito, CA.  © 1987 Slash Records ℗ 1987 Slash Records. Distributed by Warner Bros. Records, Inc. Made in USA.  Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area.
+This version was pressed at Allied Record Company and is otherwise identical to the version [url=http://www.discogs.com/release/4354696]made at Specialty Records Corporation[/url].
+
+Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.
+
+Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA. 
+Mixed at Studio D, Sausalito, CA.
+
+© 1987 Slash Records ℗ 1987 Slash Records.
+Distributed by Warner Bros. Records, Inc.
+Made in USA.
+
+Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area.

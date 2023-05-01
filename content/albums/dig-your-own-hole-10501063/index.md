@@ -2,7 +2,7 @@
 title: "The Chemical Brothers - Dig Your Own Hole"
 artist: "The Chemical Brothers"
 album_name: "Dig Your Own Hole"
-date: 2017-07-07
+date: 2017-07-07T16:52:31.000000Z
 release_id: "10501063"
 slug: "dig-your-own-hole-10501063"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
+
 ## Tracklisting
 1. Block Rockin' Beats
 2. Dig Your Own Hole
@@ -25,12 +26,15 @@ styles: ["Breakbeat", "Big Beat"]
 9. Lost In The K-Hole
 10. Where Do I Begin
 11. The Private Psychedelic Reel
+
+
 ## Spotify
 {{< spotify type="album" id="0FjHy5dCyVROqDUl6f2VTK" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="0kMfTYPzSnI" title="Block Rockin' Beats" >}}
-- [The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
 - [Dig Your Own Hole](https://www.youtube.com/watch?v=eYbSvALbkX4)
 - [Piku](https://www.youtube.com/watch?v=sSiy0g28pgk)
 - [Setting Sun](https://www.youtube.com/watch?v=JID4X5jttco)
@@ -45,8 +49,17 @@ styles: ["Breakbeat", "Big Beat"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Chemical Brothers - Dig Your Own Hole](https://www.discogs.com/release/10501063-The-Chemical-Brothers-Dig-Your-Own-Hole) |
-| Label          | Virgin, Freestyle Dust |
-| Format         | 2xLP, Album, RE, RP, Sil |
-| Catalog Number | 5761964, 00602557619645 |
+| Label          | Virgin |
+| Format         | Vinyl 2× LP Album Reissue Repress (Silver) |
+| Catalog Number | 5761964 |
 
-20th Anniversary Silver vinyl edition. Gatefold cover. Printed in the UK.  ℗ 1997 Virgin Records Limited. © 1997 Virgin Records Limited.  Includes a download code for the album in 16 bit WAV format, [r=11516477].  The colour is rather gray than the stated silver.
+20th Anniversary Silver vinyl edition.
+Gatefold cover.
+Printed in the UK.
+
+℗ 1997 Virgin Records Limited.
+© 1997 Virgin Records Limited.
+
+Includes a download code for the album in 16 bit WAV format, [r=11516477].
+
+The colour is rather gray than the stated silver.

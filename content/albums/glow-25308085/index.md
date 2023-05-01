@@ -2,7 +2,7 @@
 title: "Reef - Glow"
 artist: "Reef"
 album_name: "Glow"
-date: 2022-11-28
+date: 2022-11-28T07:24:08.000000Z
 release_id: "25308085"
 slug: "glow-25308085"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Place Your Hands
 2. I Would Have Left You
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Robot Riff
 11. Yer Old
 12. Lullaby
+
+
 ## Spotify
 {{< spotify type="album" id="1lFjDLdcOpor9FL9Q04oVj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cJ-kDEXcR3c" title="Place Your Hands" >}}
@@ -51,7 +56,7 @@ styles: ["Alternative Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Reef - Glow](https://www.discogs.com/release/25308085-Reef-Glow) |
 | Label          | Hassle Hindsight |
-| Format         | LP, Album, Ltd, Num, RE, Glo |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Glow-in-the-dark) |
 | Catalog Number | HOFFSIDE009 |
 
 25th anniversary re-press, including brand new liner notes. Glow-in-the-dark vinyl, non-gatefold matt finish sleeve, supplied in transparent bag with hype sticker. Limited to 500 copies, hand numbered on rear of sleeve.

@@ -2,7 +2,7 @@
 title: "Thumpermonkey - Make Me Young, etc. "
 artist: "Thumpermonkey"
 album_name: "Make Me Young, etc. "
-date: 2018-11-06
+date: 2018-11-06T18:27:04.000000Z
 release_id: "12765567"
 slug: "make-me-young-etc-12765567"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Veldt (5:23)
 2. Cranefly  (4:35)
@@ -21,8 +22,12 @@ styles: ["Prog Rock"]
 5. Deckchair For Your Ghost  (5:42)
 6. Make Me Young, etc.  (10:46)
 7. Tempe Terra (5:19)
+
+
 ## Spotify
 {{< spotify type="album" id="6rp9TGETse9Tzc2Vzr5Io7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yABAVfQMC-E" title="Make Me Young Etc" >}}
@@ -39,7 +44,5 @@ styles: ["Prog Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Thumpermonkey - Make Me Young, etc. ](https://www.discogs.com/release/12765567-Thumpermonkey-Make-Me-Young-etc-) |
 | Label          | Rockosmos |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | n.a. |
-
-

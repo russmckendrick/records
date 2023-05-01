@@ -2,7 +2,7 @@
 title: "Spandau Ballet - 40 Years: The Greatest Hits"
 artist: "Spandau Ballet"
 album_name: "40 Years: The Greatest Hits"
-date: 2020-11-27
+date: 2020-11-27T17:47:00.000000Z
 release_id: "16280313"
 slug: "40-years-the-greatest-hits-16280313"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. To Cut A Long Story Short
 2. The Freeze
@@ -34,6 +35,9 @@ styles: ["Pop Rock"]
 18. This Is The Love
 19. Through the Barricades
 
+
+
+
 ## Videos
 {{< youtube id="2vBQJv5cudk" title="Spandau Ballet - The Boxer" >}}
 
@@ -43,7 +47,7 @@ styles: ["Pop Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Spandau Ballet - 40 Years: The Greatest Hits](https://www.discogs.com/release/16280313-Spandau-Ballet-40-Years-The-Greatest-Hits) |
 | Label          | Parlophone |
-| Format         | 2xLP, Comp, Red |
+| Format         | Vinyl 2× LP Compilation (Red) |
 | Catalog Number | 0190295200046 |
 
 Released to celebrate the 40th Anniversary of the group.

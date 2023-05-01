@@ -2,7 +2,7 @@
 title: "The League Of Gentlemen - Live Again!"
 artist: "The League Of Gentlemen"
 album_name: "Live Again!"
-date: 2019-04-24
+date: 2019-04-24T16:42:40.000000Z
 release_id: "13526674"
 slug: "live-again-13526674"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Comedy"]
 ---
+
 ## Tracklisting
 1. Opening Announcement 
 2. Perveswerve
@@ -38,8 +39,9 @@ styles: ["Comedy"]
 22. Benjamin's Flashback 
 23. Dear Bernice...
 24. Local Shop/Wife Mine
-## Spotify
-{{< spotify type="album" id="7n1BJD9klXiVnbdcfAOZbo" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="AT7zM7TXjr8" title="The League Of Gentlemen Live Again Toddy’s Bingo" >}}
@@ -50,7 +52,11 @@ styles: ["Comedy"]
 | Release Year   | 2019 |
 | Discogs Link   | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-Live-Again) |
 | Label          | Demon Records |
-| Format         | LP, RSD, Ltd, Gat |
+| Format         | Vinyl LP Record Store Day Limited Edition (Gatefold, Pop-up sleeve ) |
 | Catalog Number | DEMREC410 |
 
-Black & White mixed 'Papa Lazarou' vinyl.  Gatefold sleeve with cardboard pop-up interior.  Record Store Day 2019
+Black & White mixed 'Papa Lazarou' vinyl.
+
+Gatefold sleeve with cardboard pop-up interior.
+
+Record Store Day 2019

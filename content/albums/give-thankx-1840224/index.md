@@ -2,7 +2,7 @@
 title: "Jimmy Cliff - Give Thankx"
 artist: "Jimmy Cliff"
 album_name: "Give Thankx"
-date: 2020-08-02
+date: 2020-08-02T13:48:34.000000Z
 release_id: "1840224"
 slug: "give-thankx-1840224"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
+
 ## Tracklisting
 1. Bongo Man (5:02)
 2. Stand Up And Fight Back (3:15)
@@ -24,6 +25,9 @@ styles: ["Roots Reggae"]
 8. Lonely Streets (4:21)
 9. Love I Need (3:35)
 10. Universal Love (Beyond The Boundaries) (4:11)
+
+
+
 
 ## Videos
 {{< youtube id="6zEihLB92cU" title="Lonely Streets" >}}
@@ -40,7 +44,26 @@ styles: ["Roots Reggae"]
 | Release Year   | 1978 |
 | Discogs Link   | [Jimmy Cliff - Give Thankx](https://www.discogs.com/release/1840224-Jimmy-Cliff-Give-Thankx) |
 | Label          | Warner Bros. Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | WB 56 558 |
 
-Recorded at Aquarius Recording Co., Ltd. Kingston, Jamaica. Lead vocals recorded at Record Plant New York City and Sausalito, California and in Jamaica. Track A4 recorded at Cherokee Recording Studios, Hollywood. Remixed at Record Plant, Sausalito, California. Mastered at Kendun Recorders, Burbank.  Credits listed under the titles "Oneness", "New York" and "West Coast", referring to where they were recorded.  Neil Larsen appears courtesy of Horizon Records. Steve Lukather appears courtesy of Columbia Records.  Published by Sunflower Music Ltd.-PRS.  Track A1 © 1973 Island Music Ltd. Track A2, A5, © 1978 Sunflower Music. Track A3, A4, B1 to B5 © 1976 Sunflower Music.  ℗ © 1978 Warner Bros. Records Inc., a subsidiary and licensee of Warner Bros., Inc., a Warner Communications Company, 3300 Warner Blvd., Burbank, Calif. 91510, 3 East 54th Street, New York, New York 10022.  Made in Germany by WEA Musik GmbH. Printed inner sleeve with lyrics and credits.
+Recorded at Aquarius Recording Co., Ltd. Kingston, Jamaica.
+Lead vocals recorded at Record Plant New York City and Sausalito, California and in Jamaica.
+Track A4 recorded at Cherokee Recording Studios, Hollywood. Remixed at Record Plant, Sausalito, California.
+Mastered at Kendun Recorders, Burbank.
+
+Credits listed under the titles "Oneness", "New York" and "West Coast", referring to where they were recorded.
+
+Neil Larsen appears courtesy of Horizon Records.
+Steve Lukather appears courtesy of Columbia Records.
+
+Published by Sunflower Music Ltd.-PRS.
+
+Track A1 © 1973 Island Music Ltd.
+Track A2, A5, © 1978 Sunflower Music.
+Track A3, A4, B1 to B5 © 1976 Sunflower Music.
+
+℗ © 1978 Warner Bros. Records Inc., a subsidiary and licensee of Warner Bros., Inc., a Warner Communications Company, 3300 Warner Blvd., Burbank, Calif. 91510, 3 East 54th Street, New York, New York 10022.
+
+Made in Germany by WEA Musik GmbH.
+Printed inner sleeve with lyrics and credits.

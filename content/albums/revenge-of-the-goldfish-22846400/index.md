@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - Revenge Of The Goldfish ™"
 artist: "Inspiral Carpets"
 album_name: "Revenge Of The Goldfish ™"
-date: 2022-04-15
+date: 2022-04-15T08:49:48.000000Z
 release_id: "22846400"
 slug: "revenge-of-the-goldfish-22846400"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Generations
 2. Saviour
@@ -26,6 +27,9 @@ styles: ["Indie Rock"]
 10. Mystery
 11. Rain Song
 12. Irresistible Force
+
+
+
 
 ## Videos
 {{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations (Official HD Video)" >}}
@@ -46,8 +50,9 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Inspiral Carpets - Revenge Of The Goldfish ™](https://www.discogs.com/release/22846400-Inspiral-Carpets-Revenge-Of-The-Goldfish-) |
-| Label          | Mute, BMG, Cow |
-| Format         | LP, Album, Ltd, RE, Ora |
+| Label          | Mute |
+| Format         | Vinyl LP Album Limited Edition Reissue (Orange Transparent, 30th Anniversary) |
 | Catalog Number | ldung19 |
 
-Hype sticker on sleeve. Inner sleeve with lyrics reports "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."
+Hype sticker on sleeve.
+Inner sleeve with lyrics reports "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."

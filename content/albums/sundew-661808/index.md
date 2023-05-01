@@ -2,7 +2,7 @@
 title: "Paris Angels - Sundew"
 artist: "Paris Angels"
 album_name: "Sundew"
-date: 2016-04-04
+date: 2016-04-04T21:20:19.000000Z
 release_id: "661808"
 slug: "sundew-661808"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Eternity (3:21)
 2. Fade (3:58)
@@ -24,6 +25,9 @@ styles: ["Synth-pop", "Indie Rock"]
 8. Breathless (5:34)
 9. Chaos (Stupid Stupid) (4:02)
 10. Purest Values (4:08)
+
+
+
 
 ## Videos
 {{< youtube id="XVyHvWFRlCo" title="Paris Angels - Eternity (1991)" >}}
@@ -41,8 +45,12 @@ styles: ["Synth-pop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [Paris Angels - Sundew](https://www.discogs.com/release/661808-Paris-Angels-Sundew) |
-| Label          | Virgin, Sheer Joy |
-| Format         | LP, Album |
-| Catalog Number | V 2667, 211 915 |
+| Label          | Virgin |
+| Format         | Vinyl LP Album |
+| Catalog Number | V 2667 |
 
-Laminated cover Inner sleeve with photo and credits  [Label] Manufactured by the UK
+Laminated cover
+Inner sleeve with photo and credits
+
+[Label]
+Manufactured by the UK

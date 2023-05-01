@@ -2,7 +2,7 @@
 title: "Al Stewart - Year Of The Cat"
 artist: "Al Stewart"
 album_name: "Year Of The Cat"
-date: 2017-01-25
+date: 2017-01-25T18:25:25.000000Z
 release_id: "774100"
 slug: "year-of-the-cat-774100"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Lord Grenville (5:00)
 2. On The Border (3:22)
@@ -23,13 +24,17 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 7. Broadway Hotel (3:55)
 8. One Stage Before (4:39)
 9. Year Of The Cat (6:40)
+
+
 ## Spotify
 {{< spotify type="album" id="2JxEUrs4GzHQdkV6qQayz5" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="wgq6iz6-N_M" title="Al Stewart - On The Border (1976 UK Vinyl)" >}}
+{{< youtube id="2zpShd0A7Nk" title="Broadway Hotel (2001 Remaster)" >}}
 - [Al Stewart - Year of the Cat (Official Audio)](https://www.youtube.com/watch?v=Ak_MTXQALa0)
-- [Broadway Hotel (2001 Remaster)](https://www.youtube.com/watch?v=2zpShd0A7Nk)
+- [Al Stewart - On The Border (1976 UK Vinyl)](https://www.youtube.com/watch?v=wgq6iz6-N_M)
 - [Midas Shadow (2001 Remaster)](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
 
 ## Notes
@@ -37,8 +42,14 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 1976 |
 | Discogs Link   | [Al Stewart - Year Of The Cat](https://www.discogs.com/release/774100-Al-Stewart-Year-Of-The-Cat) |
-| Label          | RCA, RCA Victor |
-| Format         | LP, Album, Gat |
+| Label          | RCA |
+| Format         | Vinyl LP Album Stereo (Gatefold) |
 | Catalog Number | RS 1082 |
 
-  Note: An alternate version with flat labels and mastered by [a336941], is here - [r8747181]   
+
+
+Note:
+An alternate version with flat labels and mastered by [a336941], is here - [r8747181]
+
+
+

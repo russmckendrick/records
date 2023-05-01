@@ -2,7 +2,7 @@
 title: "Alison Krauss - Windy City"
 artist: "Alison Krauss"
 album_name: "Windy City"
-date: 2017-03-04
+date: 2017-03-04T17:52:12.000000Z
 release_id: "9914922"
 slug: "windy-city-9914922"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Windy City by Alison Krauss"
     caption: "Windy City by Alison Krauss"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Losing You
 2. It's Goodbye And So Long To You
@@ -24,8 +25,12 @@ styles: null
 8. All Alone Am I
 9. Poison Love
 10. You Don't Know Me
+
+
 ## Spotify
 {{< spotify type="album" id="0ZV0ADSGaNPIt9Avv3H0GG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LNtKPzHxKG8" title="Alison Krauss - Windy City" >}}
@@ -38,7 +43,9 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Alison Krauss - Windy City](https://www.discogs.com/release/9914922-Alison-Krauss-Windy-City) |
 | Label          | Capitol Records |
-| Format         | LP, Album, 180 |
+| Format         | Vinyl LP Album (180g) |
 | Catalog Number | 00602557037500 |
 
-Gatefold.  Includes free album download card
+Gatefold.
+
+Includes free album download card

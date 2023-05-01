@@ -2,7 +2,7 @@
 title: "The Moody Blues - Octave"
 artist: "The Moody Blues"
 album_name: "Octave"
-date: 2017-05-27
+date: 2017-05-27T15:32:26.000000Z
 release_id: "1660021"
 slug: "octave-1660021"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Steppin' In A Slide Zone (5:28)
 2. Under Moonshine (5:00)
@@ -24,8 +25,12 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 8. Survival (4:09)
 9. One Step Into The Light (4:28)
 10. The Day We Meet Again (6:18)
+
+
 ## Spotify
 {{< spotify type="album" id="58Lnkf8TmX0GyxK45vfN1K" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="WBedAweB96Y" title="THE MOODY BLUES Octave 10 The day we meet again" >}}
@@ -48,7 +53,9 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 | Release Year   | 1978 |
 | Discogs Link   | [The Moody Blues - Octave](https://www.discogs.com/release/1660021-The-Moody-Blues-Octave) |
 | Label          | Decca |
-| Format         | LP, Album, Gat |
+| Format         | Vinyl LP Album (Gatefold) |
 | Catalog Number | TXS 129 |
 
-Gatefold sleeve.  Track lengths only printed on sleeve 
+Gatefold sleeve. 
+Track lengths only printed on sleeve
+

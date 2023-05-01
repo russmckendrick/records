@@ -2,7 +2,7 @@
 title: "Held By Trees - Solace"
 artist: "Held By Trees"
 album_name: "Solace"
-date: 2022-04-27
+date: 2022-04-27T08:23:36.000000Z
 release_id: "23017073"
 slug: "solace-23017073"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Next To Silence
 2. In The Trees
@@ -22,8 +23,12 @@ styles: ["Post Rock", "Experimental"]
 6. The Tree Of Life
 7. Mysterium
 8. The New Earth
+
+
 ## Spotify
 {{< spotify type="album" id="1zngAcNNliJMx91HWEJf2G" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CsUmGZ7bK6E" title="The Tree of Life" >}}
@@ -41,7 +46,11 @@ styles: ["Post Rock", "Experimental"]
 | Release Year   | 2022 |
 | Discogs Link   | [Held By Trees - Solace](https://www.discogs.com/release/23017073-Held-By-Trees-Solace) |
 | Label          | Tweed Jacket Music Ltd |
-| Format         | LP, Album, Eco |
+| Format         | Vinyl LP Album (Eco Vinyl) |
 | Catalog Number | TJMLP01 |
 
-The colour of the record may vary as it is 'eco vinyl'.  © ℗ Tweed Jacket Music Ltd 2022  The tracks are numbered 1 to 8 on the release.
+The colour of the record may vary as it is 'eco vinyl'.
+
+© ℗ Tweed Jacket Music Ltd 2022
+
+The tracks are numbered 1 to 8 on the release.

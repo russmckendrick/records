@@ -2,7 +2,7 @@
 title: "Roachford - Roachford"
 artist: "Roachford"
 album_name: "Roachford"
-date: 2015-12-04
+date: 2015-12-04T18:21:09.000000Z
 release_id: "3265167"
 slug: "roachford-3265167"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ---
+
 ## Tracklisting
 1. Give It Up (3:40)
 2. Family Man (3:46)
@@ -24,8 +25,12 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 8. Lying Again (3:32)
 9. Since (3:22)
 10. Nobody But You (4:24)
+
+
 ## Spotify
 {{< spotify type="album" id="6dF7fcowcdm0UhWUEDMfIH" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gZvpVYm2kxI" title="Roachford Cuddly Toy Original Video" >}}
@@ -40,7 +45,10 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 | Release Year   | 1988 |
 | Discogs Link   | [Roachford - Roachford](https://www.discogs.com/release/3265167-Roachford-Roachford) |
 | Label          | CBS |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | 460630 1 |
 
-℗ 1988 CBS Records (labels, inside sleeve) © 1988 CBS Records (back cover)  Textured sleeve with printed inner sleeve.
+℗ 1988 CBS Records (labels, inside sleeve)
+© 1988 CBS Records (back cover)
+
+Textured sleeve with printed inner sleeve.

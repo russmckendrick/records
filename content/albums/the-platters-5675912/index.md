@@ -2,7 +2,7 @@
 title: "The Platters - The Platters"
 artist: "The Platters"
 album_name: "The Platters"
-date: 2020-08-02
+date: 2020-08-02T13:49:33.000000Z
 release_id: "5675912"
 slug: "the-platters-5675912"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1.  My Prayer
 2.  Why Should I?                        
@@ -26,8 +27,12 @@ styles: ["Rhythm & Blues"]
 10. On My Word Of Honor
 11. Heaven On Earth    
 12. Glory Of Love 
+
+
 ## Spotify
 {{< spotify type="album" id="7l3vhUqMYbu62TIKSocf4B" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="T_zX6hPH84o" title="The Platters - Bewitched" >}}
@@ -42,7 +47,7 @@ styles: ["Rhythm & Blues"]
 | Release Year   | 1956 |
 | Discogs Link   | [The Platters - The Platters](https://www.discogs.com/release/5675912-Platters-The-Platters) |
 | Label          | Mercury |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | MPL 6504 |
 
  Turquoise Blue Label printed on rear of sleeve. Distributed by Pye Records Ltd.

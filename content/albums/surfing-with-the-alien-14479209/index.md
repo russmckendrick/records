@@ -2,7 +2,7 @@
 title: "Joe Satriani - Surfing With The Alien"
 artist: "Joe Satriani"
 album_name: "Surfing With The Alien"
-date: 2019-12-05
+date: 2019-12-05T18:06:10.000000Z
 release_id: "14479209"
 slug: "surfing-with-the-alien-14479209"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Surfing With The Alien by Joe Satriani"
     caption: "Surfing With The Alien by Joe Satriani"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Surfing With The Alien (4:26)
 2. Ice 9 (4:00)
@@ -34,8 +35,12 @@ styles: null
 18. Lords Of Karma (Stripped) (5:04)
 19. Midnight (Stripped) (0:55)
 20. Echo (Stripped) (5:41)
+
+
 ## Spotify
 {{< spotify type="album" id="4SFG7APMZeeM97ixKPoQuk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JeUPSYrVP1w" title="Joe Satriani – Surfing With The Alien" >}}
@@ -64,8 +69,12 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209-Joe-Satriani-Surfing-With-The-Alien) |
-| Label          | Epic, Legacy |
-| Format         | LP, Album, Red + LP, Album, Mixed, Yel + Ltd, RE,  |
+| Label          | Epic |
+| Format         | Vinyl LP Album (Red), Vinyl LP Album Mixed (Yellow), All Media Limited Edition Reissue Special Edition (Gatefold) |
 | Catalog Number | 19075978611 |
 
-Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses.   Includes digital download card.   Made in the EU.
+Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses. 
+
+Includes digital download card. 
+
+Made in the EU.

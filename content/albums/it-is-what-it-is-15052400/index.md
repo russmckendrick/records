@@ -2,7 +2,7 @@
 title: "Thundercat - It Is What It Is"
 artist: "Thundercat"
 album_name: "It Is What It Is"
-date: 2020-04-09
+date: 2020-04-09T17:07:29.000000Z
 release_id: "15052400"
 slug: "it-is-what-it-is-15052400"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 ---
+
 ## Tracklisting
 1. Lost In Space / Great Scott / 22-26
 2. Innerstellar Love
@@ -29,8 +30,12 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 13. Fair Chance
 14. Existential Dread
 15. It Is What It Is
+
+
 ## Spotify
 {{< spotify type="album" id="59GRmAvlGs7KjLizFnV7Y9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yA4R9qLa26E" title="Thundercat - 'Innerstellar Love' (Official Audio)" >}}
@@ -54,8 +59,14 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400-Thundercat-It-Is-What-It-Is) |
-| Label          | Brainfeeder, Brainfeeder |
-| Format         | LP, Album, Ltd, Pin |
-| Catalog Number | BF100RT, BF100 |
+| Label          | Brainfeeder |
+| Format         | Vinyl LP Album Limited Edition Stereo (Pink, 140g) |
+| Catalog Number | BF100RT |
 
-Limited edition (Rough Trade exclusive), 1,000 copies.  140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.  Sleeve does not have gold foil detail (only on deluxe editions).  Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers. 
+Limited edition (Rough Trade exclusive), 1,000 copies.
+
+140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.
+
+Sleeve does not have gold foil detail (only on deluxe editions).
+
+Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers. 

@@ -2,7 +2,7 @@
 title: "The Smashing Pumpkins - Gish"
 artist: "The Smashing Pumpkins"
 album_name: "Gish"
-date: 2016-02-27
+date: 2016-02-27T10:12:09.000000Z
 release_id: "3266516"
 slug: "gish-3266516"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. I Am One
 2. Siva
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 9. Window Paine
 10. Daydream
 11. I'm Going Crazy
+
+
 ## Spotify
 {{< spotify type="album" id="14gI3ml0wxlgVrX1ve8zyJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="E2RDyA8id0A" title="Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}" >}}
@@ -46,7 +51,17 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 | Release Year   | 2011 |
 | Discogs Link   | [The Smashing Pumpkins - Gish](https://www.discogs.com/release/3266516-Smashing-Pumpkins-Gish) |
 | Label          | Virgin |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Catalog Number | 5099990959615 |
 
-Includes download code   [l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring.   Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.   ℗ 2011 Virgin Records America, Inc. © 2011 Virgin Records America, Inc. 
+Includes download code
+
+
+[l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring. 
+
+Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.
+
+
+℗ 2011 Virgin Records America, Inc.
+© 2011 Virgin Records America, Inc.
+

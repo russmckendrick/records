@@ -1,18 +1,19 @@
 ---
-title: "Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay (As It Should Have Sounded)"
-artist: "Kevin Rowland & Dexys Midnight Runners"
+title: "Kevin Rowland - Too-Rye-Ay (As It Should Have Sounded)"
+artist: "Kevin Rowland"
 album_name: "Too-Rye-Ay (As It Should Have Sounded)"
-date: 2022-10-16
+date: 2022-10-16T01:57:33.000000Z
 release_id: "24838748"
 slug: "too-rye-ay-as-it-should-have-sounded-24838748"
 hideSummary: true
 cover:
     image: "too-rye-ay-as-it-should-have-sounded-24838748.jpg"
-    alt: "Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland & Dexys Midnight Runners"
-    caption: "Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland & Dexys Midnight Runners"
+    alt: "Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland"
+    caption: "Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Celtic Soul Brothers
 2. Let's Make This Precious
@@ -24,6 +25,9 @@ styles: ["Pop Rock"]
 8. Liars A To E
 9. Until I Believe In My Soul
 10. Come On Eileen
+
+
+
 
 ## Videos
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}
@@ -56,9 +60,7 @@ styles: ["Pop Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay (As It Should Have Sounded)](https://www.discogs.com/release/24838748-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay-As-It-Should-Have-Sounded) |
+| Discogs Link   | [Kevin Rowland - Too-Rye-Ay (As It Should Have Sounded)](https://www.discogs.com/release/24838748-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay-As-It-Should-Have-Sounded) |
 | Label          | Mercury |
-| Format         | LP, Album, RE, RM, Gre |
+| Format         | Vinyl LP Album Reissue Remastered (Green) |
 | Catalog Number | 388 570-2 |
-
-

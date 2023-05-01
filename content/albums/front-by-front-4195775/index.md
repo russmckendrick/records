@@ -2,7 +2,7 @@
 title: "Front 242 - Front By Front"
 artist: "Front 242"
 album_name: "Front By Front"
-date: 2021-07-29
+date: 2021-07-29T09:15:37.000000Z
 release_id: "4195775"
 slug: "front-by-front-4195775"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["EBM"]
 ---
+
 ## Tracklisting
 1. Until Death (Us Do Part) (4:31)
 2. Circling Overland (4:43)
@@ -23,8 +24,12 @@ styles: ["EBM"]
 7. Headhunter V 3.0 (4:45)
 8. Work 01 (3:27)
 9. Terminal State (4:09)
+
+
 ## Spotify
 {{< spotify type="album" id="3bJDzdsqXwjo9EXupegwIR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="m1cRGVaJF7Y" title="Front 242 - Headhunter (Official Video)" >}}
@@ -44,7 +49,7 @@ styles: ["EBM"]
 | Release Year   | 2012 |
 | Discogs Link   | [Front 242 - Front By Front](https://www.discogs.com/release/4195775-Front-242-Front-By-Front) |
 | Label          | Red Rhino Europe |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | RRE LP 7 |
 
 140 gram vinyl. 

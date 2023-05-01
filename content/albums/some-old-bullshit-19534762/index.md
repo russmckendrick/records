@@ -2,7 +2,7 @@
 title: "Beastie Boys - Some Old Bullshit"
 artist: "Beastie Boys"
 album_name: "Some Old Bullshit"
-date: 2022-04-15
+date: 2022-04-15T08:50:12.000000Z
 release_id: "19534762"
 slug: "some-old-bullshit-19534762"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 ---
+
 ## Tracklisting
 1. Egg Raid On Mojo
 2. Beastie Boys
@@ -28,8 +29,12 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 12. Bonus Batter
 13. Beastie Revolution
 14. Cooky Puss (Censored Version)
+
+
 ## Spotify
 {{< spotify type="album" id="5wIVDVJHwGN05eMWfRAjl9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_fyEPio-kgM" title="Egg Raid On Mojo" >}}
@@ -52,8 +57,36 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Beastie Boys - Some Old Bullshit](https://www.discogs.com/release/19534762-Beastie-Boys-Some-Old-Bullshit) |
-| Label          | Grand Royal, Capitol Records |
-| Format         | LP, Comp, RE, 180 |
-| Catalog Number | GR 003, 00602507458256 |
+| Label          | Grand Royal |
+| Format         | Vinyl LP Compilation Reissue (180gram) |
+| Catalog Number | GR 003 |
 
-℗ 1994 © 2020 Capitol Records, LLC and Beastie Boys 2021 reissue on black 180g vinyl.  © and ℗ of the Beastie Boys, 1982  Made in the E.U.  Antistatic white innersleeve.  Hype Sticker : "Featuring Beastie Boys' Earliest Recordings Including EGG RAID ON MOJO and COOKY PUSS on 180gram VINYL 0062507458256"  Come with a 4 pages insert.  #'s 1 and 10 were recorded on 4 track cassette by Greg Cewdson and Eric Hoofert then taped from Tim Sommer's "Noise The Show" radio program.  #'s 2 through 9 were recorded at 171A studios, engineered by Scott Jarvis, and produced by Beastie Boys and Scott Jarvis in the winter of 1981.  #'s 11 trough 14 were recorded at Celebration recordings, engineered by Dug Pomeroy, and produced by Beastie Boys and Dug Pomeroy on March of 1983  Side A = [m20098] Side B = [m20205]
+℗ 1994 © 2020 Capitol Records, LLC and Beastie Boys
+2021 reissue on black 180g vinyl.
+
+© and ℗ of the Beastie Boys, 1982
+
+Made in the E.U.
+
+Antistatic white innersleeve.
+
+Hype Sticker :
+"Featuring
+Beastie Boys'
+Earliest Recordings
+Including
+EGG RAID ON MOJO
+and COOKY PUSS
+on 180gram VINYL
+0062507458256"
+
+Come with a 4 pages insert.
+
+#'s 1 and 10 were recorded on 4 track cassette by Greg Cewdson and Eric Hoofert then taped from Tim Sommer's "Noise The Show" radio program.
+
+#'s 2 through 9 were recorded at 171A studios, engineered by Scott Jarvis, and produced by Beastie Boys and Scott Jarvis in the winter of 1981.
+
+#'s 11 trough 14 were recorded at Celebration recordings, engineered by Dug Pomeroy, and produced by Beastie Boys and Dug Pomeroy on March of 1983
+
+Side A = [m20098]
+Side B = [m20205]

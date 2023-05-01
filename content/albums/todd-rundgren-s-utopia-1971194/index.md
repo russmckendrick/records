@@ -2,7 +2,7 @@
 title: "Utopia - Todd Rundgren's Utopia"
 artist: "Utopia"
 album_name: "Todd Rundgren's Utopia"
-date: 2022-03-06
+date: 2022-03-06T04:57:55.000000Z
 release_id: "1971194"
 slug: "todd-rundgren-s-utopia-1971194"
 hideSummary: true
@@ -13,13 +13,15 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Utopia (14:18)
 2. Freak Parade (10:14)
 3. Freedom Fighters (4:01)
 4. The Ikon (30:22)
-## Spotify
-{{< spotify type="album" id="7iHbuq6RMLm1MeTgjf0z6J" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="CO0aqSBTVJk" title="UTOPIA - Todd Rundgren's Utopia -- 1974" >}}
@@ -34,7 +36,10 @@ styles: ["Pop Rock", "Prog Rock"]
 | Release Year   | 1974 |
 | Discogs Link   | [Utopia - Todd Rundgren's Utopia](https://www.discogs.com/release/1971194-Utopia-Todd-Rundgrens-Utopia) |
 | Label          | Bearsville |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | K55501 |
 
-Stamped runouts Lyrics printed on back sleeve. A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974 All lyrics reproduced by kind permission of United Artists © 1974
+Stamped runouts
+Lyrics printed on back sleeve.
+A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974
+All lyrics reproduced by kind permission of United Artists © 1974

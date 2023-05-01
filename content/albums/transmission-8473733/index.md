@@ -2,7 +2,7 @@
 title: "Death In Vegas - Transmission"
 artist: "Death In Vegas"
 album_name: "Transmission"
-date: 2016-05-31
+date: 2016-05-31T19:31:47.000000Z
 release_id: "8473733"
 slug: "transmission-8473733"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Darkwave", "EBM", "Techno"]
 ---
+
 ## Tracklisting
 1. Metal Box
 2. Consequences of Love
@@ -24,8 +25,12 @@ styles: ["Darkwave", "EBM", "Techno"]
 8. You Disco I Freak
 9. Strom
 10. Transwave
+
+
 ## Spotify
 {{< spotify type="album" id="0PhdBZuLPXXwuF2mbuefld" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="B-nlvSKFLs8" title="DEATH IN VEGAS  -   YOU DISCO I FREAK" >}}
@@ -42,7 +47,11 @@ styles: ["Darkwave", "EBM", "Techno"]
 | Release Year   | 2016 |
 | Discogs Link   | [Death In Vegas - Transmission](https://www.discogs.com/release/8473733-Death-In-Vegas-Transmission) |
 | Label          | Drone |
-| Format         | 3x12\", Album |
+| Format         | Vinyl 3× 12" 33 ⅓ RPM Album |
 | Catalog Number | DRONE 007LP |
 
-Tri-fold gatefold sleeve.  Includes digital download code.  
+Tri-fold gatefold sleeve.
+
+Includes digital download code.
+
+

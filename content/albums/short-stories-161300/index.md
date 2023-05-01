@@ -2,7 +2,7 @@
 title: "Jon & Vangelis - Short Stories"
 artist: "Jon & Vangelis"
 album_name: "Short Stories"
-date: 2015-12-17
+date: 2015-12-17T08:50:29.000000Z
 release_id: "161300"
 slug: "short-stories-161300"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
+
 ## Tracklisting
 1. Curious Electric
 2. Each And Everyday
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "Ambient"]
 8. One More Time
 9. Thunder
 10. A Play Within A Play
+
+
 ## Spotify
 {{< spotify type="album" id="1BxJGQez8eRFmWQqHor7H3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Q-INz9nR1vg" title="Jon and Vangelis - Short Stories: I Hear You Now" >}}
@@ -46,8 +51,19 @@ styles: ["Synth-pop", "Ambient"]
 | ---------------| ----------- |
 | Release Year   | 1980 |
 | Discogs Link   | [Jon & Vangelis - Short Stories](https://www.discogs.com/release/161300-Jon-And-Vangelis-Short-Stories) |
-| Label          | Polydor, Polydor |
-| Format         | LP, Album |
-| Catalog Number | POLD 5030, 2442 169 |
+| Label          | Polydor |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | POLD 5030 |
 
-Recorded at London, England, 1979.  A Spheric Production.  All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979 ℗ 1979  © 1979  Includes printed inner sleeve with lyrics  Cassette POLDC 5030  Runout is stamped
+Recorded at London, England, 1979.
+
+A Spheric Production.
+
+All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979
+℗ 1979  © 1979
+
+Includes printed inner sleeve with lyrics
+
+Cassette POLDC 5030
+
+Runout is stamped

@@ -1,18 +1,19 @@
 ---
-title: "Pink Floyd, London Symphonia - Meddle For Orchestra"
-artist: "Pink Floyd, London Symphonia"
+title: "Pink Floyd - Meddle For Orchestra"
+artist: "Pink Floyd"
 album_name: "Meddle For Orchestra"
-date: 2022-06-30
+date: 2022-06-30T04:58:01.000000Z
 release_id: "15315298"
 slug: "meddle-for-orchestra-15315298"
 hideSummary: true
 cover:
     image: "meddle-for-orchestra-15315298.jpg"
-    alt: "Meddle For Orchestra by Pink Floyd, London Symphonia"
-    caption: "Meddle For Orchestra by Pink Floyd, London Symphonia"
+    alt: "Meddle For Orchestra by Pink Floyd"
+    caption: "Meddle For Orchestra by Pink Floyd"
 genres: ["Classical"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Echoes
 2. One Of These Days
@@ -21,13 +22,13 @@ styles: null
 5. Fearless
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Pink Floyd, London Symphonia - Meddle For Orchestra](https://www.discogs.com/release/15315298-Pink-Floyd-London-Symphonia-Meddle-For-Orchestra) |
+| Discogs Link   | [Pink Floyd - Meddle For Orchestra](https://www.discogs.com/release/15315298-Pink-Floyd-London-Symphonia-Meddle-For-Orchestra) |
 | Label          | Coda Records Ltd |
-| Format         | LP, Album, Ltd, Unofficial, Blu |
+| Format         | Vinyl LP Album Limited Edition Unofficial Release (Blue) |
 | Catalog Number | CRLVNY026 |
-
-

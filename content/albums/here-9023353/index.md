@@ -2,7 +2,7 @@
 title: "Teenage Fanclub - Here"
 artist: "Teenage Fanclub"
 album_name: "Here"
-date: 2016-09-12
+date: 2016-09-12T16:36:50.000000Z
 release_id: "9023353"
 slug: "here-9023353"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. I'm In Love
 2. Thin Air
@@ -26,8 +27,12 @@ styles: ["Indie Pop"]
 10. It's A Sign
 11. With You
 12. Connected To Life
+
+
 ## Spotify
 {{< spotify type="album" id="3b6Fw0JpYUyXgRrKSVHJ7J" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}
@@ -39,7 +44,11 @@ styles: ["Indie Pop"]
 | Release Year   | 2016 |
 | Discogs Link   | [Teenage Fanclub - Here](https://www.discogs.com/release/9023353-Teenage-Fanclub-Here) |
 | Label          | Pema |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | PEMA009LP |
 
-Includes download code coupon and a printed inner sleeve.  ℗ & © 2016 PeMa  Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road.
+Includes download code coupon and a printed inner sleeve.
+
+℗ & © 2016 PeMa
+
+Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road.

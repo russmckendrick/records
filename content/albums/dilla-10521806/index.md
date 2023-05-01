@@ -2,7 +2,7 @@
 title: "Abstract Orchestra - Dilla"
 artist: "Abstract Orchestra"
 album_name: "Dilla"
-date: 2017-10-13
+date: 2017-10-13T18:10:42.000000Z
 release_id: "10521806"
 slug: "dilla-10521806"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Dilla by Abstract Orchestra"
     caption: "Dilla by Abstract Orchestra"
 genres: ["Hip Hop", "Jazz"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Welcome To Detroit / The Diary (3:52)
 2. Workinonit (2:15)
@@ -26,8 +27,12 @@ styles: null
 10. A.N.G.E.L. (6:13)
 11. King (2:26)
 12. Two Can Win (2:34)
+
+
 ## Spotify
 {{< spotify type="album" id="2k03GJKwMPvBOXXL7gcvVf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1UTyo3IMhfg" title="Abstract Orchestra - Dilla [Full Album]" >}}
@@ -37,8 +42,6 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Abstract Orchestra - Dilla](https://www.discogs.com/release/10521806-Abstract-Orchestra-Dilla) |
-| Label          | ATA Records |
-| Format         | LP, Album |
+| Label          | ATA Records (3) |
+| Format         | Vinyl LP Album |
 | Catalog Number | ATA006 |
-
-

@@ -2,7 +2,7 @@
 title: "The Fall - 458489 A Sides"
 artist: "The Fall"
 album_name: "458489 A Sides"
-date: 2018-08-11
+date: 2018-08-11T07:55:12.000000Z
 release_id: "12360118"
 slug: "458489-a-sides-12360118"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Oh! Brother (4:01)
 2. C.R.E.E.P. (2:54)
@@ -32,6 +33,9 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 16. Jerusalem (3:49)
 17. Dead Beat Descendant (2:22)
 
+
+
+
 ## Videos
 {{< youtube id="KPr2ENnp_GI" title="The Fall Hey! Luciani" >}}
 
@@ -41,7 +45,12 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Fall - 458489 A Sides](https://www.discogs.com/release/12360118-The-Fall-458489-A-Sides) |
 | Label          | Beggars Banquet |
-| Format         | LP, Comp, RE, Whi |
+| Format         | Vinyl LP Compilation Reissue (White) |
 | Catalog Number | BBQLP 111 |
 
-From sticker: First Ever US Pressing White Vinyl Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"  
+From sticker:
+First Ever US Pressing
+White Vinyl
+Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"
+
+

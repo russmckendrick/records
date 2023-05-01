@@ -2,7 +2,7 @@
 title: "Iron Monkey - 9-13"
 artist: "Iron Monkey"
 album_name: "9-13"
-date: 2017-10-26
+date: 2017-10-26T17:57:03.000000Z
 release_id: "11038535"
 slug: "9-13-11038535"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Sludge Metal", "Doom Metal"]
 ---
+
 ## Tracklisting
 1. Crown Of Electrodes
 2. OmegaMangler
@@ -23,8 +24,9 @@ styles: ["Sludge Metal", "Doom Metal"]
 7. The Rope 
 8. Doomsday Impulse Multiplier
 9. Moreland St. Hammervortex 
-## Spotify
-{{< spotify type="album" id="1rgoq8vlSnNuLdlVBcz4LM" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="_JH0os_xukQ" title="IRON MONKEY - 9-13 (Official Music Video)" >}}
@@ -43,7 +45,11 @@ styles: ["Sludge Metal", "Doom Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [Iron Monkey - 9-13](https://www.discogs.com/release/11038535-Iron-Monkey-9-13) |
 | Label          | Relapse Records |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition (White Inside Clear With Black Splatter) |
 | Catalog Number | RR7379 |
 
-Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.  Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.  ℗&© 2017 Relapse Records, Inc. Made in EU.
+Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.
+
+Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.
+
+℗&© 2017 Relapse Records, Inc. Made in EU.

@@ -2,7 +2,7 @@
 title: "Devin Townsend Project - Ziltoid (Dark Matters)"
 artist: "Devin Townsend Project"
 album_name: "Ziltoid (Dark Matters)"
-date: 2016-05-03
+date: 2016-05-03T16:17:30.000000Z
 release_id: "7514406"
 slug: "ziltoid-dark-matters-7514406"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Ziltoid (Dark Matters) by Devin Townsend Project"
     caption: "Ziltoid (Dark Matters) by Devin Townsend Project"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Z2
 2. From Sleep Awake
@@ -37,6 +38,9 @@ styles: null
 21. Through The Wormhole
 22. Dimension Z
 
+
+
+
 ## Videos
 {{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)" >}}
 
@@ -45,8 +49,8 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Devin Townsend Project - Ziltoid (Dark Matters)](https://www.discogs.com/release/7514406-Devin-Townsend-Project-Ziltoid-Dark-Matters) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | 2xLP, Album + CD, Album |
-| Catalog Number | IOMLP 424, 0507241 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album, CD Album |
+| Catalog Number | IOMLP 424 |
 
 180g vinyl in a gatefold sleeve.

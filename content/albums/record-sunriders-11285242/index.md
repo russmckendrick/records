@@ -2,7 +2,7 @@
 title: "Amplifier - Record + Sunriders"
 artist: "Amplifier"
 album_name: "Record + Sunriders"
-date: 2017-12-16
+date: 2017-12-16T18:39:20.000000Z
 release_id: "11285242"
 slug: "record-sunriders-11285242"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Kaleidoscope
 2. Repeater
@@ -24,13 +25,21 @@ styles: ["Space Rock", "Prog Rock"]
 8. Close
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Amplifier - Record + Sunriders](https://www.discogs.com/release/11285242-Amplifier-Record-Sunriders) |
 | Label          | Rockosmos |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | ROK 31 |
 
-This is a split 180g Black Vinyl with Record on Side A and Sunriders on Side B. Edition of 500.  Sunriders EP - Recorded January 2013 Recorded At Loudhailer Manchester by Mladen Pavlovic All songs by Balamir, except Spaceman by Evans / Balamir 
+This is a split 180g Black Vinyl with Record on Side A and Sunriders on Side B.
+Edition of 500.
+
+Sunriders EP - Recorded January 2013
+Recorded At Loudhailer Manchester by Mladen Pavlovic
+All songs by Balamir, except Spaceman by Evans / Balamir
+

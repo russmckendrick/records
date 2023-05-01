@@ -2,7 +2,7 @@
 title: "R.E.M. - Eponymous"
 artist: "R.E.M."
 album_name: "Eponymous"
-date: 2017-04-02
+date: 2017-04-02T12:56:55.000000Z
 release_id: "8899397"
 slug: "eponymous-8899397"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Early
 2. Radio Free Europe (Original Hib-Tone Single) (3:47)
@@ -28,30 +29,21 @@ styles: ["Alternative Rock", "Pop Rock"]
 12. The One I Love (3:17)
 13. Finest Worksong (Mutual Drum Horn Mix) (3:49)
 14. It's The End Of The World As We Know It (And I Feel Fine) (4:07)
+
+
 ## Spotify
 {{< spotify type="album" id="28P1bPGxr7aJ0Vx3qCm2jH" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="okCDUzPeFIE" title="Radio Free Europe" >}}
-- [Gardening At Night (Alternate Vocal Mix)](https://www.youtube.com/watch?v=KfpgFn471_0)
-- [Talk About The Passion](https://www.youtube.com/watch?v=Duz_2zKQR0Q)
-- [So. Central Rain](https://www.youtube.com/watch?v=LOB2SVAZ5R0)
-- [[Don't Go Back To] Rockville](https://www.youtube.com/watch?v=ldR6LQrljag)
-- [Can't Get There From Here (Remastered 2006)](https://www.youtube.com/watch?v=kS6LmTjY6tU)
-- [Driver 8](https://www.youtube.com/watch?v=Im8SCqUwIZE)
-- [Romance](https://www.youtube.com/watch?v=WL_ob76-zB4)
-- [Fall On Me (Remastered 2006)](https://www.youtube.com/watch?v=fF0ao14nEKU)
-- [The One I Love (Remastered 2006)](https://www.youtube.com/watch?v=rWH9bPLX1RM)
-- [Finest Worksong](https://www.youtube.com/watch?v=M48pQDUKYVE)
-- [It's The End Of The World As We Know It (And I Feel Fine)](https://www.youtube.com/watch?v=8OyBtMPqpNY)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [R.E.M. - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |
-| Label          | I.R.S. Records, Universal Music Group International |
-| Format         | LP, Comp, RE, 180 |
+| Label          | I.R.S. Records |
+| Format         | Vinyl LP Compilation Reissue (180g) |
 | Catalog Number | 00602547899828 |
 
-Includes voucher to download MP3 version of the album.  
+Includes voucher to download MP3 version of the album. 
+

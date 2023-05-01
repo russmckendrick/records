@@ -2,7 +2,7 @@
 title: "Agnes Obel - Myopia"
 artist: "Agnes Obel"
 album_name: "Myopia"
-date: 2020-02-21
+date: 2020-02-21T18:33:02.000000Z
 release_id: "14818594"
 slug: "myopia-14818594"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
+
 ## Tracklisting
 1. Camera's Rolling
 2. Broken Sleep
@@ -24,8 +25,12 @@ styles: ["Vocal", "Ballad"]
 8. Parliament Of Owls
 9. Promise Keeper
 10. Won't You Call Me
+
+
 ## Spotify
 {{< spotify type="album" id="1XFhwj2xUtypgyEqAmTrQV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="C2fpFeNZwAg" title="Agnes Obel - Camera's Rolling (Official Video)" >}}
@@ -44,8 +49,16 @@ styles: ["Vocal", "Ballad"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Agnes Obel - Myopia](https://www.discogs.com/release/14818594-Agnes-Obel-Myopia) |
-| Label          | Blue Note, Deutsche Grammophon, Blue Note, Deutsche Grammophon |
-| Format         | LP, Album, Ltd, M/Print, Blu |
-| Catalog Number | 483 7178, 00289 483 7178 |
+| Label          | Blue Note |
+| Format         | Vinyl LP Album Limited Edition Misprint (Blue Translucent) |
+| Catalog Number | 483 7178 |
 
-Indie-store release on 180 gram in gatefold jacket.  ℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH A Universal Music Company. Made in the EU.  Lacquer Cut By taken from runout.  Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper.  
+Indie-store release on 180 gram in gatefold jacket.
+
+℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH
+A Universal Music Company. Made in the EU.
+
+Lacquer Cut By taken from runout.
+
+Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper. 
+

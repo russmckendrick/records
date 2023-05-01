@@ -2,7 +2,7 @@
 title: "The Pharcyde - Bizarre Ride II"
 artist: "The Pharcyde"
 album_name: "Bizarre Ride II"
-date: 2023-02-13
+date: 2023-02-13T11:32:12.000000Z
 release_id: "25831636"
 slug: "bizarre-ride-ii-25831636"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Turntablism", "Jazzy Hip-Hop"]
 ---
+
 ## Tracklisting
 1. 4 Better Or 4 Worse (Interlude) (0:36)
 2. Oh Shit (4:29)
@@ -30,8 +31,12 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 14. Quinton's On The Way (Skit) (2:09)
 15. Pack The Pipe (5:03)
 16. Return Of The B-Boy (3:33)
+
+
 ## Spotify
 {{< spotify type="album" id="48kU5gP41TqZEw32Cwhsna" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="VDieujZyzzM" title="4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde" >}}
@@ -56,7 +61,5 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 | Release Year   | 2023 |
 | Discogs Link   | [The Pharcyde - Bizarre Ride II](https://www.discogs.com/release/25831636-The-Pharcyde-Bizarre-Ride-II) |
 | Label          | Craft Recordings |
-| Format         | 2xLP, Album, RSD, RE, Cle |
+| Format         | Vinyl 2× LP Album Record Store Day Reissue Stereo (Clear w/Yellow & Purple Splatter) |
 | Catalog Number | CR00018 |
-
-

@@ -2,7 +2,7 @@
 title: "Def Leppard - Hysteria"
 artist: "Def Leppard"
 album_name: "Hysteria"
-date: 2017-08-05
+date: 2017-08-05T17:08:06.000000Z
 release_id: "10660430"
 slug: "hysteria-10660430"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
+
 ## Tracklisting
 1. Women (5:41)
 2. Rocket (6:34)
@@ -26,8 +27,12 @@ styles: ["Hard Rock", "Arena Rock"]
 10. Hysteria (5:49)
 11. Excitable (4:19)
 12. Love And Affection (4:35)
+
+
 ## Spotify
 {{< spotify type="album" id="31oeDyCOLhgeZyktfxo0pE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="NSH1mOtc9-8" title="Def Leppard - Animal" >}}
@@ -65,8 +70,39 @@ styles: ["Hard Rock", "Arena Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Def Leppard - Hysteria](https://www.discogs.com/release/10660430-Def-Leppard-Hysteria) |
-| Label          | UMC, Bludgeon Riffola |
-| Format         | 2xLP, Album, Ltd, RE, RM, Ora |
+| Label          | UMC |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Orange Translucent, 180 gram) |
 | Catalog Number | 5756104 |
 
-30th anniversary orange translucent coloured vinyl reissue.   Limited to 500 copies in the U.K. Limited to 500 copies in the U.S.A. Total copies unknown: - estimated: 1000 - 2000  Gatefold sleeve and printed credit / lyric inner sleeves.  Hype sticker on shrink wrap reads: DEF LEPPARD [logo] HYSTERIA REMASTERED 180g Heavyweight vinyl  Double LP for the first time Orange coloured ltd edition 5756104"  Multiple catalogue numbers are stated across the release: Outer sleeve and hype sticker shows catalogue number as 5756104 Inner sleeve (A+B) and record labels (A+B) shows catalogue number as 5764901 Inner sleeve (C+D) and record labels (C+D) shows catalogue number as 5764902  ℗ 2017 Phonogram Records Limited © 2017 Phonogram Records Limited. Made in the EU.  Hysteria was recorded at: Wisseloord Studios, Hilversum, Holland [...]. Windmill Lone Studio 2, Dublin, Ireland [...]. Studio Des Dames, Paris, France [...]  Hysteria was mixed at Battery Studios, London, England  All the songs published by: In the UK/Ireland: Why Bother Ltd./Warner Bros. Music/Zomba Music Publishers. In Australia / New Zealand: Bludgeon Riffola Ltd./Warner Bros. Music/Zomba Music Publishers. In the Rest of The Known Universe: Bludgeon Riffola Ltd./Zomba Music Publishers.  (Track durations are not written on the release.)
+30th anniversary orange translucent coloured vinyl reissue. 
+
+Limited to 500 copies in the U.K.
+Limited to 500 copies in the U.S.A.
+Total copies unknown: - estimated: 1000 - 2000
+
+Gatefold sleeve and printed credit / lyric inner sleeves.
+
+Hype sticker on shrink wrap reads:
+DEF LEPPARD [logo]
+HYSTERIA
+REMASTERED
+180g Heavyweight vinyl 
+Double LP for the first time
+Orange coloured ltd edition
+5756104"
+
+Multiple catalogue numbers are stated across the release:
+Outer sleeve and hype sticker shows catalogue number as 5756104
+Inner sleeve (A+B) and record labels (A+B) shows catalogue number as 5764901
+Inner sleeve (C+D) and record labels (C+D) shows catalogue number as 5764902
+
+℗ 2017 Phonogram Records Limited © 2017 Phonogram Records Limited.
+Made in the EU.
+
+Hysteria was recorded at: Wisseloord Studios, Hilversum, Holland [...]. Windmill Lone Studio 2, Dublin, Ireland [...]. Studio Des Dames, Paris, France [...]
+
+Hysteria was mixed at Battery Studios, London, England
+
+All the songs published by: In the UK/Ireland: Why Bother Ltd./Warner Bros. Music/Zomba Music Publishers. In Australia / New Zealand: Bludgeon Riffola Ltd./Warner Bros. Music/Zomba Music Publishers. In the Rest of The Known Universe: Bludgeon Riffola Ltd./Zomba Music Publishers.
+
+(Track durations are not written on the release.)

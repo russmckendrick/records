@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - The Complete Singles"
 artist: "Inspiral Carpets"
 album_name: "The Complete Singles"
-date: 2023-03-20
+date: 2023-03-20T05:45:50.000000Z
 release_id: "26454110"
 slug: "the-complete-singles-26454110"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Keep The Circle Around
 2. Butterfly
@@ -38,8 +39,12 @@ styles: ["Indie Rock"]
 22. Fix Your Smile
 23. Spitfire
 24. Let You Down (Edit)
+
+
 ## Spotify
 {{< spotify type="album" id="7KZbV3dtz2xDyaN7DojXRS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cmqzakGa6Dc" title="Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)" >}}
@@ -73,8 +78,10 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110-Inspiral-Carpets-The-Complete-Singles) |
-| Label          | Mute, BMG |
-| Format         | 2xLP, Comp, Ltd, RM |
-| Catalog Number | dung36lpx, 4050538867718 |
+| Label          | Mute |
+| Format         | Vinyl 2× LP Compilation Limited Edition Remastered Stereo |
+| Catalog Number | dung36lpx |
 
-"Midnight Licorice" colour double vinyl [ie: black!]  Manufactured in Poland
+"Midnight Licorice" colour double vinyl [ie: black!]
+
+Manufactured in Poland

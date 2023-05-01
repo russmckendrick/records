@@ -2,7 +2,7 @@
 title: "The Black Crowes - Amorica"
 artist: "The Black Crowes"
 album_name: "Amorica"
-date: 2015-12-21
+date: 2015-12-21T22:34:04.000000Z
 release_id: "7862351"
 slug: "amorica-7862351"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Gone (5:08)
 2. A Conspiracy (4:44)
@@ -25,8 +26,12 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 9. Wiser Time (5:31)
 10. Downtown Money Waster (3:39)
 11. Descending (5:40)
+
+
 ## Spotify
 {{< spotify type="album" id="2CRxy0mStMW5Ld1cXsVpgU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zvGXRCQSd44" title="The Black Crowes - A Conspiracy" >}}
@@ -48,7 +53,15 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [The Black Crowes - Amorica](https://www.discogs.com/release/7862351-The-Black-Crowes-Amorica) |
 | Label          | American Recordings |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Catalog Number | 00602537494231 |
 
-© ℗ 1994 American Recordings, LLC.  Made in the EU. Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.  Comes with plain white inner sleeves and a double printed lyric sheet.  Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record. Contains added coupon with [MP3 download](https://www.discogs.com/release/9476948) code.  Back To Black Sticker on front.
+© ℗ 1994 American Recordings, LLC. 
+Made in the EU.
+Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.
+
+Comes with plain white inner sleeves and a double printed lyric sheet. 
+Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record.
+Contains added coupon with [url=https://www.discogs.com/release/9476948]MP3 download[/url] code.
+
+Back To Black Sticker on front.

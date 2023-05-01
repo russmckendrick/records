@@ -2,7 +2,7 @@
 title: "Frank Sinatra - Nothing But The Best"
 artist: "Frank Sinatra"
 album_name: "Nothing But The Best"
-date: 2021-06-23
+date: 2021-06-23T06:30:29.000000Z
 release_id: "18726205"
 slug: "nothing-but-the-best-18726205"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Pop"]
 styles: ["Swing", "Vocal", "Easy Listening"]
 ---
+
 ## Tracklisting
 1. Come Fly With Me (3:14)
 2. The Best Is Yet To Come (2:56)
@@ -37,8 +38,12 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 21. Theme From New York, New York (3:25)
 22. Bonus Track
 23. Body And Soul (Previously Unissued) (4:20)
+
+
 ## Spotify
 {{< spotify type="album" id="3i67sGIVw8EBlgfSRv3Lj2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8GrYyuO0TOE" title="Nothing But The Best (2008 Remastered)" >}}
@@ -49,8 +54,11 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Frank Sinatra - Nothing But The Best](https://www.discogs.com/release/18726205-Frank-Sinatra-Nothing-But-The-Best) |
-| Label          | Capitol Records, UMe, Signature Sinatra |
-| Format         | LP, Blu + LP, Tra + Comp, Ltd, RE |
+| Label          | Capitol Records |
+| Format         | Vinyl LP (Blue), Vinyl LP (Transparent), All Media Compilation Limited Edition Reissue |
 | Catalog Number | 00602435639901 |
 
-Limited Edition - Exclusive Transparent Blue & Clear Vinyl  First Time on Vinyl  Manufactured in the E.U.
+Limited Edition - Exclusive Transparent Blue & Clear Vinyl 
+First Time on Vinyl
+
+Manufactured in the E.U.

@@ -2,7 +2,7 @@
 title: "Stars - From Capelton Hill"
 artist: "Stars"
 album_name: "From Capelton Hill"
-date: 2022-05-31
+date: 2022-05-31T04:16:54.000000Z
 release_id: "23383391"
 slug: "from-capelton-hill-23383391"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Palmistry
 2. Pretenders
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. If I Never See London Again
 11. I Need The Light
 12. Snowy Owl
+
+
 ## Spotify
-{{< spotify type="album" id="62FBD0LfoeSsvII9n3YeMo" width="100%" height="500" >}}
+{{< spotify type="album" id="1DiryfauwmFnWRVxIcEfaO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="l94kK-S8wvc" title="Stars - Patterns (Official Music Video)" >}}
@@ -39,7 +44,5 @@ styles: ["Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Stars - From Capelton Hill](https://www.discogs.com/release/23383391-Stars-From-Capelton-Hill) |
 | Label          | Last Gang Records |
-| Format         | LP, Album, Ltd, Gol |
+| Format         | Vinyl LP Album Limited Edition (Gold) |
 | Catalog Number | LGE-LP-49041 |
-
-

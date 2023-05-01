@@ -2,7 +2,7 @@
 title: "The Proclaimers - Sunshine On Leith"
 artist: "The Proclaimers"
 album_name: "Sunshine On Leith"
-date: 2018-01-20
+date: 2018-01-20T19:10:06.000000Z
 release_id: "11066426"
 slug: "sunshine-on-leith-11066426"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. I'm Gonna Be (500 Miles) (3:34)
 2. Cap In Hand (3:20)
@@ -26,8 +27,12 @@ styles: ["Folk Rock"]
 10. It's Saturday Night (3:22)
 11. Teardrops (2:30)
 12. Oh Jean (5:54)
+
+
 ## Spotify
 {{< spotify type="album" id="5sK78apv4yOoXjxRL4kOdJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZmELS03_4So" title="The Proclaimers-Sunshine On Leith" >}}
@@ -44,7 +49,10 @@ styles: ["Folk Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [The Proclaimers - Sunshine On Leith](https://www.discogs.com/release/11066426-The-Proclaimers-Sunshine-On-Leith) |
 | Label          | Parlophone Records Ltd. |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 0190295784416 |
 
-℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.    Printed In us 
+℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.  
+
+Printed In us
+

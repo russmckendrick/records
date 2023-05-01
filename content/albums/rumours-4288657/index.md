@@ -2,7 +2,7 @@
 title: "Fleetwood Mac - Rumours "
 artist: "Fleetwood Mac"
 album_name: "Rumours "
-date: 2015-09-30
+date: 2015-09-30T17:20:53.000000Z
 release_id: "4288657"
 slug: "rumours-4288657"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Original Album - 2013 Remaster
 2. Second Hand News (2:43)
@@ -97,19 +98,43 @@ styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 81. I Don't Want To Know (3:13)
 82. Oh Daddy (3:54)
 83. Gold Dust Woman (5:13)
+
+
 ## Spotify
 {{< spotify type="album" id="0BwWUstDMUbgq2NYONRqlu" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="SLlYUlS_Awo" title="Second Hand News (2004 Remaster)" >}}
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Fleetwood Mac - Rumours ](https://www.discogs.com/release/4288657-Fleetwood-Mac-Rumours-) |
-| Label          | Warner Bros. Records, Warner Music |
-| Format         | CD, Album, RE, RM + CD, RM + DVD-V, NTSC + CD, RM  |
+| Label          | Warner Bros. Records |
+| Format         | CD Album Reissue Remastered, CD Remastered, DVD DVD-Video NTSC, CD Remastered, CD Remastered, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (35th Anniversary Edition ) |
 | Catalog Number | R2-533806 |
 
-Deluxe edition of 'Rumours', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Live, 1977, Disc 3: DVD - The Rosebud Film Documentary, Disc 4: CD - More from the Recording Sessions, Disc 5: CD - Recording Sessions, Roughs and Outtakes, Disc 6: 180g Vinyl LP - original album, remastered, Soft-back 12"x12" book, containing pictures and notes on Rumours, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  *Previously released as R2-73882  Disc 1: Recorded at Record Plant, Sausalito & Los Angeles, CA; Wally Heider Recording Studios, Los Angeles, CA; Criteria Studios, Miami, FL; Davlen Recording Studio, North Hollywood, CA * "Songbird" Recorded at Zellerbach Auditorium/U.C. Berkeley, Berkeley, CA (3/3/76) Mixed at Sound City, Van Nuys, California; Record Plant, Los Angeles, California  Disc 2:  Live tracks recorded during the 1977 "Rumours" Tour In Oklahoma City, OK; Tulsa, OK; Nashville, TN & Columbia, SC  Disc 3:  1977 documentary film created to promote the European leg of the "Rumours" tour.  Includes behind-the-scenes interviews, rehearsal footage and live performances.  This Reissue ℗ & © 2013 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
+Deluxe edition of 'Rumours', contains:
+Disc 1: CD - Original album, remastered,
+Disc 2: CD - Live, 1977,
+Disc 3: DVD - The Rosebud Film Documentary,
+Disc 4: CD - More from the Recording Sessions,
+Disc 5: CD - Recording Sessions, Roughs and Outtakes,
+Disc 6: 180g Vinyl LP - original album, remastered,
+Soft-back 12"x12" book, containing pictures and notes on Rumours, written by various members of the band,
+Peel-off 12"x12" backing paper containing track listing.
+All housed in a 12"x12", solid, card sleeve.
+
+*Previously released as R2-73882
+
+Disc 1:
+Recorded at Record Plant, Sausalito & Los Angeles, CA; Wally Heider Recording Studios, Los Angeles, CA; Criteria Studios, Miami, FL; Davlen Recording Studio, North Hollywood, CA * "Songbird" Recorded at Zellerbach Auditorium/U.C. Berkeley, Berkeley, CA (3/3/76)
+Mixed at Sound City, Van Nuys, California; Record Plant, Los Angeles, California
+
+Disc 2: 
+Live tracks recorded during the 1977 "Rumours" Tour In Oklahoma City, OK; Tulsa, OK; Nashville, TN & Columbia, SC
+
+Disc 3: 
+1977 documentary film created to promote the European leg of the "Rumours" tour.  Includes behind-the-scenes interviews, rehearsal footage and live performances.
+
+This Reissue ℗ & © 2013 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.

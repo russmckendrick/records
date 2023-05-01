@@ -2,7 +2,7 @@
 title: "Crippled Black Phoenix - Bronze"
 artist: "Crippled Black Phoenix"
 album_name: "Bronze"
-date: 2016-11-11
+date: 2016-11-11T17:35:10.000000Z
 release_id: "9310134"
 slug: "bronze-9310134"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Dead Imperial Bastard (4:59)
 2. Deviant Burials (6:45)
@@ -24,8 +25,12 @@ styles: ["Post Rock", "Prog Rock"]
 8. Scared And Alone (8:58)
 9. Winning A Losing Battle (9:14)
 10. We Are The Darkeners (7:53)
+
+
 ## Spotify
 {{< spotify type="album" id="1spBZkNLoM62OmrajrTld9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="O5ka3u6su3M" title="Crippled Black Phoenix - Bronze (Full Album)" >}}
@@ -50,8 +55,18 @@ styles: ["Post Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Crippled Black Phoenix - Bronze](https://www.discogs.com/release/9310134-Crippled-Black-Phoenix-Bronze) |
-| Label          | Season Of Mist, Season Of Mist |
-| Format         | 2xLP, Album, Ltd, Gre |
-| Catalog Number | SOM 399LP, SOM 399LPD1 |
+| Label          | Season Of Mist |
+| Format         | Vinyl 2× LP Album Limited Edition (Green) |
+| Catalog Number | SOM 399LP |
 
-Limited edition of 200 copies worldwide.  Released in gatefold sleeve with printed insert.  First cat.# on spine, second cat.# on sticker.  On label print: A=B B=R C=O D=N
+Limited edition of 200 copies worldwide.
+
+Released in gatefold sleeve with printed insert.
+
+First cat.# on spine, second cat.# on sticker.
+
+On label print:
+A=B
+B=R
+C=O
+D=N

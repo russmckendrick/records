@@ -2,7 +2,7 @@
 title: "Various - The Man Who Fell To Earth"
 artist: "Various"
 album_name: "The Man Who Fell To Earth"
-date: 2017-02-28
+date: 2017-02-28T18:43:39.000000Z
 release_id: "9399915"
 slug: "the-man-who-fell-to-earth-9399915"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. Poker Dice
 2. Jazz II
@@ -58,8 +59,12 @@ styles: ["Soundtrack"]
 42. Silent Night (1:40)
 43. Love Is Coming Back (2:29)
 44. The Man Who Fell To Earth (2:42)
+
+
 ## Spotify
 {{< spotify type="album" id="2lMP8pgOPDyU3t9j1aUjv7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wd9vU1KaQiY" title="The Man Who Fell To Earth 4K Restoration - Official Trailer - Back In Cinemas Sep 9" >}}
@@ -84,7 +89,11 @@ styles: ["Soundtrack"]
 | Release Year   | 2016 |
 | Discogs Link   | [Various - The Man Who Fell To Earth](https://www.discogs.com/release/9399915-Various-The-Man-Who-Fell-To-Earth) |
 | Label          | UMC |
-| Format         | Box + 2xCD, Album + 2xLP |
+| Format         | Box Set, CD 2× Album, Vinyl 2× LP |
 | Catalog Number | 479 921-7 |
 
-Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.  Made in Germany.  ℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd.
+Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.
+
+Made in Germany.
+
+℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd.

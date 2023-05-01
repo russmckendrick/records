@@ -2,7 +2,7 @@
 title: "St. Vincent - Daddy's Home"
 artist: "St. Vincent"
 album_name: "Daddy's Home"
-date: 2021-05-15
+date: 2021-05-15T06:31:58.000000Z
 release_id: "18670924"
 slug: "daddy-s-home-18670924"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Blues"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Pay Your Way In Pain (3:03)
 2. Down And Out Downtown (3:42)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. My Baby Wants A Baby (3:20)
 10. ...At The Holiday Party (4:17)
 11. Candy Darling (1:55)
+
+
 ## Spotify
 {{< spotify type="album" id="654KFpNOZ26Hj9luu7aKeM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZUTu65AXrJw" title="St. Vincent - Pay Your Way In Pain (Official Video)" >}}
@@ -40,7 +45,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [St. Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |
 | Label          | Loma Vista |
-| Format         | LP, Album, Ltd, Cle |
+| Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Catalog Number | LVR01797 |
 
-Indie Exclusive. Includes Poster  Made in the EU.
+Indie Exclusive.
+Includes Poster
+
+Made in the EU.

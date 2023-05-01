@@ -2,7 +2,7 @@
 title: "Various - Northern Soul All Nighter"
 artist: "Various"
 album_name: "Northern Soul All Nighter"
-date: 2017-03-02
+date: 2017-03-02T17:33:01.000000Z
 release_id: "8445210"
 slug: "northern-soul-all-nighter-8445210"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. The Snake (3:30)
 2. Sugar Dumpling (2:18)
@@ -50,8 +51,12 @@ styles: ["Soul", "Rhythm & Blues"]
 34. Chills & Fever (2:29)
 35. If You Don't Come (You Better Call) (2:01)
 36. Show And Tell (3:27)
+
+
 ## Spotify
 {{< spotify type="album" id="6tT9kikyZYdYwfV08PhLVE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yBCnH7gY7sQ" title="Major Lance -  Delilah  (1963)" >}}
@@ -66,7 +71,9 @@ styles: ["Soul", "Rhythm & Blues"]
 | Release Year   | 2016 |
 | Discogs Link   | [Various - Northern Soul All Nighter](https://www.discogs.com/release/8445210-Various-Northern-Soul-All-Nighter) |
 | Label          | Not Now Music |
-| Format         | 2xLP, Comp, Gat |
+| Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Catalog Number | NOT2LP226 |
 
-2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.  An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order.
+2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.
+
+An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order.

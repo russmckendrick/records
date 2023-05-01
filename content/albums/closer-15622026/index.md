@@ -2,7 +2,7 @@
 title: "Joy Division - Closer"
 artist: "Joy Division"
 album_name: "Closer"
-date: 2020-07-17
+date: 2020-07-17T12:19:11.000000Z
 release_id: "15622026"
 slug: "closer-15622026"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
+
 ## Tracklisting
 1. Atrocity Exhibition
 2. Isolation
@@ -23,8 +24,12 @@ styles: ["Post-Punk", "New Wave"]
 7. Twenty Four Hours
 8. The Eternal
 9. Decades
+
+
 ## Spotify
 {{< spotify type="album" id="1HnxC8MLDciii5LebJ09Ko" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KZoIeaT85-A" title="Atrocity Exhibition (2007 Remaster)" >}}
@@ -42,8 +47,12 @@ styles: ["Post-Punk", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Joy Division - Closer](https://www.discogs.com/release/15622026-Joy-Division-Closer) |
-| Label          | Factory, Factory, Factory |
-| Format         | LP, Album, Ltd, RE, RM, RP, Cle |
-| Catalog Number | FACT∙XXV, FACT. 25, FACT·XXV·MMXX |
+| Label          | Factory |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress Stereo (Clear [Crystal Clear], 180 Gram) |
+| Catalog Number | FACT∙XXV |
 
-40th anniversary edition.  Includes a plastic lined inner sleeve as well as a printed inner sleeve.  ℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd.
+40th anniversary edition.
+
+Includes a plastic lined inner sleeve as well as a printed inner sleeve.
+
+℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd.

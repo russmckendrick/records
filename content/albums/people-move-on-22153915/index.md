@@ -2,7 +2,7 @@
 title: "Bernard Butler - People Move On"
 artist: "Bernard Butler"
 album_name: "People Move On"
-date: 2022-08-08
+date: 2022-08-08T10:24:12.000000Z
 release_id: "22153915"
 slug: "people-move-on-22153915"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Woman I Know (7:51)
 2. You Just Know (4:39)
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Britpop"]
 10. Stay (5:16)
 11. In Vain (4:56)
 12. I'm Tired (4:54)
+
+
 ## Spotify
 {{< spotify type="album" id="2ek8848KJ7XKzeICUDvdQ7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xM54pVZkEMU" title="Bernard Butler - People Move On (1998) Full album" >}}
@@ -47,7 +52,9 @@ styles: ["Indie Rock", "Britpop"]
 | Release Year   | 2022 |
 | Discogs Link   | [Bernard Butler - People Move On](https://www.discogs.com/release/22153915-Bernard-Butler-People-Move-On) |
 | Label          | Demon Records |
-| Format         | 2xLP, Album, Ltd, 202 |
+| Format         | Vinyl 2× LP Album Limited Edition (White 180g, Signed Print) |
 | Catalog Number | DEMREC943 |
 
-This version has re-recorded vocals and new guitar overdubs recorded in 2021.   Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X).
+This version has re-recorded vocals and new guitar overdubs recorded in 2021. 
+
+Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X).

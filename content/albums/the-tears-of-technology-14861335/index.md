@@ -1,18 +1,19 @@
 ---
-title: "Bob Stanley & Pete Wiggs - The Tears Of Technology"
-artist: "Bob Stanley & Pete Wiggs"
+title: "Bob Stanley - The Tears Of Technology"
+artist: "Bob Stanley"
 album_name: "The Tears Of Technology"
-date: 2020-03-05
+date: 2020-03-05T19:43:25.000000Z
 release_id: "14861335"
 slug: "the-tears-of-technology-14861335"
 hideSummary: true
 cover:
     image: "the-tears-of-technology-14861335.jpg"
-    alt: "The Tears Of Technology by Bob Stanley & Pete Wiggs"
-    caption: "The Tears Of Technology by Bob Stanley & Pete Wiggs"
+    alt: "The Tears Of Technology by Bob Stanley"
+    caption: "The Tears Of Technology by Bob Stanley"
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Jean Walks In Fresh Fields (1:48)
 2. Grey Skies (4:17)
@@ -36,6 +37,9 @@ styles: ["New Wave", "Synth-pop"]
 20. Behind The Shades (5:55)
 21. Feather Bed (3:02)
 
+
+
+
 ## Videos
 {{< youtube id="d7Mf_mxnsjg" title="China Crisis - Jean Walks in Fresh Fields" >}}
 - [Turquoise Days - Grey Skies](https://www.youtube.com/watch?v=GqpL5iNa4rA)
@@ -55,7 +59,6 @@ styles: ["New Wave", "Synth-pop"]
 - [New Musik - A Map Of You](https://www.youtube.com/watch?v=xvARmk0cML0)
 - [WXJL Tonight (2003 Digital Remaster)](https://www.youtube.com/watch?v=mvDPlDVP-iI)
 - [Paul Haig - Christiana](https://www.youtube.com/watch?v=L3IdU1ATLWo)
-- [Tiny Children - The Teardrop Explodes](https://www.youtube.com/watch?v=-PBhVJrXnuY)
 - [Oppenheimer Analysis - Behind The Shades](https://www.youtube.com/watch?v=YGc5oF4tn9E)
 - [Trevor Bastow - feather bed](https://www.youtube.com/watch?v=obMWwz1M5NE)
 
@@ -63,9 +66,15 @@ styles: ["New Wave", "Synth-pop"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
-| Discogs Link   | [Bob Stanley & Pete Wiggs - The Tears Of Technology](https://www.discogs.com/release/14861335-Bob-Stanley-Pete-Wiggs-The-Tears-Of-Technology) |
+| Discogs Link   | [Bob Stanley - The Tears Of Technology](https://www.discogs.com/release/14861335-Bob-Stanley-Pete-Wiggs-The-Tears-Of-Technology) |
 | Label          | Ace |
-| Format         | 2xLP, Comp, Ltd, Whi |
+| Format         | Vinyl 2× LP Compilation Limited Edition (White) |
 | Catalog Number | XXQLP2068W |
 
-The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd  This compilation P & C 2020 Ace Records Ltd  White Vinyl version exclusive to Rough Trade in the UK.   Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"  
+The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd
+
+This compilation P & C 2020 Ace Records Ltd
+
+White Vinyl version exclusive to Rough Trade in the UK. 
+
+Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"  

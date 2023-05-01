@@ -2,7 +2,7 @@
 title: "Crippled Black Phoenix - White Light Generator"
 artist: "Crippled Black Phoenix"
 album_name: "White Light Generator"
-date: 2016-01-17
+date: 2016-01-17T09:46:30.000000Z
 release_id: "5498786"
 slug: "white-light-generator-5498786"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Black Side
 2. Sweeter Than You
@@ -32,8 +33,12 @@ styles: ["Prog Rock", "Post Rock"]
 16. 7" Vinyl
 17. Now You`re Gone
 18. Self Seeking Man
+
+
 ## Spotify
 {{< spotify type="album" id="5mPReMFpBcYy8LINld3yhF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="63_zUUoqRoQ" title="Crippled Black Phoenix - White Light Generator - Album Teaser" >}}
@@ -48,7 +53,10 @@ styles: ["Prog Rock", "Post Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Crippled Black Phoenix - White Light Generator](https://www.discogs.com/release/5498786-Crippled-Black-Phoenix-White-Light-Generator) |
 | Label          | Cool Green Recordings |
-| Format         | LP + LP, Whi + 7\" + Album |
+| Format         | Vinyl LP, Vinyl LP (White), Vinyl 7" 45 RPM, All Media Album |
 | Catalog Number | CGR 7430 1 |
 
-Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.  ℗ © Mascot Music Production and Publishing B.V. All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU.
+Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.
+
+℗ © Mascot Music Production and Publishing B.V.
+All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU.

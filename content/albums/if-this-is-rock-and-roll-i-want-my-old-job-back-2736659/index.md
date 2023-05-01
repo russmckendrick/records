@@ -2,7 +2,7 @@
 title: "The Saw Doctors - If This Is Rock And Roll, I Want My Old Job Back"
 artist: "The Saw Doctors"
 album_name: "If This Is Rock And Roll, I Want My Old Job Back"
-date: 2017-03-23
+date: 2017-03-23T08:14:46.000000Z
 release_id: "2736659"
 slug: "if-this-is-rock-and-roll-i-want-my-old-job-back-2736659"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. I Useta Lover
 2. Only One Girl
@@ -29,8 +30,11 @@ styles: ["Folk Rock"]
 13. What A Day
 14. N17
 15. I Hope You Meet Again
+
+
 ## Spotify
 {{< spotify type="album" id="13nSBmeumXh3Jo4IgGEfLR" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -38,8 +42,12 @@ styles: ["Folk Rock"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [The Saw Doctors - If This Is Rock And Roll, I Want My Old Job Back](https://www.discogs.com/release/2736659-The-Saw-Doctors-If-This-Is-Rock-And-Roll-I-Want-My-Old-Job-Back) |
-| Label          | Solid Records |
-| Format         | LP |
+| Label          | Solid Records (4) |
+| Format         | Vinyl LP |
 | Catalog Number | Rock 7 |
 
-All songs recorded at loco studios in Wales and mixed at Windmill Lane Studios in Dublin.  Track 14 recorded and mixed at Windmill Lane Track 7 recorded live at the Barrowlands, Glasgow, March 1989 
+All songs recorded at loco studios in Wales and mixed at Windmill Lane Studios in Dublin.
+
+Track 14 recorded and mixed at Windmill Lane
+Track 7 recorded live at the Barrowlands, Glasgow, March 1989
+

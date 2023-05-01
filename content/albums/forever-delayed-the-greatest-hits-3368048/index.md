@@ -2,7 +2,7 @@
 title: "Manic Street Preachers - Forever Delayed - The Greatest Hits"
 artist: "Manic Street Preachers"
 album_name: "Forever Delayed - The Greatest Hits"
-date: 2016-03-24
+date: 2016-03-24T16:33:42.000000Z
 release_id: "3368048"
 slug: "forever-delayed-the-greatest-hits-3368048"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. A Design For Life
 2. Motorcycle Emptiness
@@ -36,13 +37,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 20. Motown Junk
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Manic Street Preachers - Forever Delayed - The Greatest Hits](https://www.discogs.com/release/3368048-Manic-Street-Preachers-Forever-Delayed-The-Greatest-Hits) |
-| Label          | Epic, Music On Vinyl |
-| Format         | 2xLP, Comp, RE |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Compilation Reissue |
 | Catalog Number | MOVLP221 |
 
 180-gram pressing with two full-colour printed inner sleeves and original artwork.

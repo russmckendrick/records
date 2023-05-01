@@ -2,7 +2,7 @@
 title: "Bon Jovi - New Jersey"
 artist: "Bon Jovi"
 album_name: "New Jersey"
-date: 2018-06-13
+date: 2018-06-13T17:27:30.000000Z
 release_id: "9295617"
 slug: "new-jersey-9295617"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Lay Your Hands On Me
 2. Bad Medicine
@@ -26,8 +27,12 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 10. I'll Be There For You
 11. 99 In The Shade
 12. Love For Sale
+
+
 ## Spotify
 {{< spotify type="album" id="3mcKOl0KNe65BqiBa40WxR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tLrodL0dezQ" title="LP / Bon Jovi – New Jersey / 1988" >}}
@@ -60,7 +65,7 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 | Release Year   | 2016 |
 | Discogs Link   | [Bon Jovi - New Jersey](https://www.discogs.com/release/9295617-Bon-Jovi-New-Jersey) |
 | Label          | Mercury |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180g) |
 | Catalog Number | B0021969-01 |
 
 Gatefold sleeve.

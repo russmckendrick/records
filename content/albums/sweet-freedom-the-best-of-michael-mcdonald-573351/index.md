@@ -2,7 +2,7 @@
 title: "Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)"
 artist: "Michael McDonald"
 album_name: "Sweet Freedom (The Best Of Michael McDonald)"
-date: 2021-09-03
+date: 2021-09-03T04:32:37.000000Z
 release_id: "573351"
 slug: "sweet-freedom-the-best-of-michael-mcdonald-573351"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ---
+
 ## Tracklisting
 1. Sweet Freedom (4:04)
 2. (I'll Be Your) Angel (3:48)
@@ -26,6 +27,9 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 10. That's Why (4:22)
 11. What A Fool Believes (3:40)
 12. I Can Let Go Now (2:53)
+
+
+
 
 ## Videos
 {{< youtube id="_3rVtcm6pBE" title="James Ingram and Michael McDonald - Yah Mo Be There" >}}
@@ -45,8 +49,11 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 | ---------------| ----------- |
 | Release Year   | 1986 |
 | Discogs Link   | [Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)](https://www.discogs.com/release/573351-Michael-McDonald-Sweet-Freedom-The-Best-Of-Michael-McDonald) |
-| Label          | Warner Bros. Records, Warner Bros. Records |
-| Format         | LP, Comp, RM |
-| Catalog Number | 241 049-1, WX 67 |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Compilation Remastered |
+| Catalog Number | 241 049-1 |
 
-Manufactured in Germany has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it  Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144]
+Manufactured in Germany
+has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it
+
+Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144]

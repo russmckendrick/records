@@ -2,7 +2,7 @@
 title: "The Specials - Ghost Town / Why? / Friday Night, Saturday Morning"
 artist: "The Specials"
 album_name: "Ghost Town / Why? / Friday Night, Saturday Morning"
-date: 2022-03-21
+date: 2022-03-21T06:19:54.000000Z
 release_id: "19008790"
 slug: "ghost-town-why-friday-night-saturday-morning-19008790"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
+
 ## Tracklisting
 1. Ghost Town
 2. Why?
 3. Friday Night, Saturday Morning
+
+
+
 
 ## Videos
 {{< youtube id="RZ2oXzrnti4" title="The Specials - Ghost Town [Official HD Remastered Video]" >}}
@@ -98,8 +102,10 @@ styles: ["Ska", "Rocksteady"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Specials - Ghost Town / Why? / Friday Night, Saturday Morning](https://www.discogs.com/release/19008790-The-Specials-Ghost-Town-Why-Friday-Night-Saturday-Morning) |
-| Label          | Two-Tone Records, Two-Tone Records |
-| Format         | 7\", Single, RE, Hal |
-| Catalog Number | CHS TTH 17, 5060516096770 |
+| Label          | Two-Tone Records |
+| Format         | Vinyl 7" 45 RPM Single Reissue (Half Speed Remastered) |
+| Catalog Number | CHS TTH 17 |
 
-40th Anniversary Edition Double 'A' Side Single Half-Speed Mastered at Abbey Road Studios
+40th Anniversary Edition
+Double 'A' Side Single
+Half-Speed Mastered at Abbey Road Studios

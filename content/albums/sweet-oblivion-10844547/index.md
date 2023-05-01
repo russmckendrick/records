@@ -2,7 +2,7 @@
 title: "Screaming Trees - Sweet Oblivion"
 artist: "Screaming Trees"
 album_name: "Sweet Oblivion"
-date: 2017-10-05
+date: 2017-10-05T17:54:41.000000Z
 release_id: "10844547"
 slug: "sweet-oblivion-10844547"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Shadow Of The Season (4:34)
 2. Nearly Lost You (4:07)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Grunge"]
 9. Troubled Times (5:20)
 10. No One Knows (5:13)
 11. Julie Paradise (5:05)
+
+
 ## Spotify
 {{< spotify type="album" id="3SOcm48I0DOX1KEHF2IEVY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PE5f561Y1x4" title="Screaming Trees - Nearly Lost You" >}}
@@ -40,8 +45,14 @@ styles: ["Alternative Rock", "Grunge"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Screaming Trees - Sweet Oblivion](https://www.discogs.com/release/10844547-Screaming-Trees-Sweet-Oblivion) |
-| Label          | Music On Vinyl, Epic |
-| Format         | LP, Album, Ltd, Num, RE, RP, Ora |
-| Catalog Number | MOVLP101, 88697745521 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange Marbled) |
+| Catalog Number | MOVLP101 |
 
-"25th Anniversary Edition Limited Edition of 1.500 Copies on Flaming Vinyl Individually Numbered 180 gram audiophile vinyl"  A6 is a bonus track. Includes printed insert with credits.
+"25th Anniversary Edition
+Limited Edition of 1.500 Copies on Flaming Vinyl
+Individually Numbered
+180 gram audiophile vinyl"
+
+A6 is a bonus track.
+Includes printed insert with credits.

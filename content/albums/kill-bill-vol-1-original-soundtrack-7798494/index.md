@@ -2,7 +2,7 @@
 title: "Various - Kill Bill Vol. 1 - Original Soundtrack"
 artist: "Various"
 album_name: "Kill Bill Vol. 1 - Original Soundtrack"
-date: 2018-10-04
+date: 2018-10-04T18:47:50.000000Z
 release_id: "7798494"
 slug: "kill-bill-vol-1-original-soundtrack-7798494"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
 styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Bang Bang (My Baby Shot Me Down)
 2. That Certain Female
@@ -29,6 +30,9 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 13. The Flower Of Carnage
 14. The Lonely Shepherd
 15. You're My Wicked Life
+
+
+
 
 ## Videos
 {{< youtube id="7kSuas6mRpk" title="Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD" >}}
@@ -61,7 +65,14 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 | Release Year   | 2015 |
 | Discogs Link   | [Various - Kill Bill Vol. 1 - Original Soundtrack](https://www.discogs.com/release/7798494-Various-Kill-Bill-Vol-1-Original-Soundtrack) |
 | Label          | Maverick |
-| Format         | LP, Comp, RE, RP |
+| Format         | Vinyl LP Compilation Reissue Repress |
 | Catalog Number | 9362-48570-1 |
 
-Reissue/Repress of the 2003 original release [r441066].  If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge.  This 2015 release does not.  Apart from this, it looks identical.  Includes a two-sided sheet with lyrics and infos. 
+Reissue/Repress of the 2003 original release [r441066].
+
+If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge. 
+This 2015 release does not. 
+Apart from this, it looks identical.
+
+Includes a two-sided sheet with lyrics and infos.
+

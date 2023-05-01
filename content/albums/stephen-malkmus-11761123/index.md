@@ -2,7 +2,7 @@
 title: "Stephen Malkmus - Stephen Malkmus"
 artist: "Stephen Malkmus"
 album_name: "Stephen Malkmus"
-date: 2018-05-15
+date: 2018-05-15T11:37:19.000000Z
 release_id: "11761123"
 slug: "stephen-malkmus-11761123"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Black Book
 2. Phantasies
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Vague Space
 11. Jenny & The Ess-Dog
 12. Deado
+
+
 ## Spotify
 {{< spotify type="album" id="6uf2oHrKdAQuJ7sqjA8mEM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GgPuX759XBw" title="Stephen Malkmus - Jenny And The Ess-Dog (Official Video)" >}}
@@ -44,7 +49,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Stephen Malkmus - Stephen Malkmus](https://www.discogs.com/release/11761123-Stephen-Malkmus-Stephen-Malkmus) |
 | Label          | Domino |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 g) |
 | Catalog Number | WIGLP90 |
 
-Includes a download card and a custom inner sleeve.  Recorded and Mixed May-August 2000 in Portland, Oregon at Jackpot!, Supernatural, and FutureRhythm (San Jose, CA -- a huge mistake) Master EQ: [...] at Sterling  Songs ©2001 Double Six/Universal Island Music ℗&©2001 Domino Recording Co Ltd Made in the EU
+Includes a download card and a custom inner sleeve.
+
+Recorded and Mixed May-August 2000 in Portland, Oregon at Jackpot!, Supernatural, and FutureRhythm (San Jose, CA -- a huge mistake)
+Master EQ: [...] at Sterling
+
+Songs ©2001 Double Six/Universal Island Music
+℗&©2001 Domino Recording Co Ltd
+Made in the EU

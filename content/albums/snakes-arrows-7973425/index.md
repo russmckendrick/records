@@ -2,7 +2,7 @@
 title: "Rush - Snakes & Arrows"
 artist: "Rush"
 album_name: "Snakes & Arrows"
-date: 2017-02-27
+date: 2017-02-27T14:00:17.000000Z
 release_id: "7973425"
 slug: "snakes-arrows-7973425"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Far Cry (5:19)
 2. Armor And Sword (6:36)
@@ -27,8 +28,11 @@ styles: ["Hard Rock", "Prog Rock"]
 11. Good News First (4:51)
 12. Malignant Narcissism (2:17)
 13. Hold On (4:13)
+
+
 ## Spotify
 {{< spotify type="album" id="7hgcHQbB7xYr75qPPulfro" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,8 +40,9 @@ styles: ["Hard Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Rush - Snakes & Arrows](https://www.discogs.com/release/7973425-Rush-Snakes-Arrows) |
-| Label          | Atlantic, Anthem |
-| Format         | 2xLP, Album, RE, RM, 200 |
+| Label          | Atlantic |
+| Format         | Vinyl 2× LP Album Reissue Remastered (200 gram, Gatefold) |
 | Catalog Number | R1 177084 |
 
-Remastered On 200 gram Audiophile vinyl. Includes high-res 24/96khz digital download card and 2 glossy lyric sheets.
+Remastered On 200 gram Audiophile vinyl.
+Includes high-res 24/96khz digital download card and 2 glossy lyric sheets.

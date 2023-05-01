@@ -2,7 +2,7 @@
 title: "Joan Jett - Bad Reputation"
 artist: "Joan Jett"
 album_name: "Bad Reputation"
-date: 2021-12-28
+date: 2021-12-28T07:13:23.000000Z
 release_id: "12840105"
 slug: "bad-reputation-12840105"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. Fresh Start
 2. Bad Reputation
@@ -27,8 +28,12 @@ styles: ["Classic Rock", "Punk"]
 11. Fetish
 12. Feminazi
 13. Androgynous
+
+
 ## Spotify
 {{< spotify type="album" id="1gB28ytYFQElaXngAfeYep" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZR6mM_zfxwE" title="Happy Hippie Presents: Androgynous (Performed by Miley Cyrus, Joan Jett & Laura Jane Gr..." >}}
@@ -39,8 +44,6 @@ styles: ["Classic Rock", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Joan Jett - Bad Reputation](https://www.discogs.com/release/12840105-Joan-Jett-Bad-Reputation) |
-| Label          | Legacy, Sony Music |
-| Format         | LP, Comp, Num, Yel |
+| Label          | Legacy |
+| Format         | Vinyl LP Compilation Numbered (Yellow, Transparent) |
 | Catalog Number | 19075895461 |
-
-

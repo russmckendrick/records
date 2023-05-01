@@ -2,7 +2,7 @@
 title: "Nina Simone - My Baby Just Cares For Me"
 artist: "Nina Simone"
 album_name: "My Baby Just Cares For Me"
-date: 2016-09-19
+date: 2016-09-19T15:13:43.000000Z
 release_id: "3895928"
 slug: "my-baby-just-cares-for-me-3895928"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Soul-Jazz"]
 ---
+
 ## Tracklisting
 1. My Baby Just Cares For Me (3:42)
 2. Mood Indigo (4:09)
@@ -34,8 +35,11 @@ styles: ["Soul-Jazz"]
 18. Black Is The Colour Of My True Love's Hair (3:35)
 19. Children Go Where I Send You (2:55)
 20. Summertime (5:36)
+
+
 ## Spotify
 {{< spotify type="album" id="2cDU1aJ6M0LEsGy8Ks8c8l" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -44,7 +48,13 @@ styles: ["Soul-Jazz"]
 | Release Year   | 2012 |
 | Discogs Link   | [Nina Simone - My Baby Just Cares For Me](https://www.discogs.com/release/3895928-Nina-Simone-My-Baby-Just-Cares-For-Me) |
 | Label          | Not Now Music |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | NOT2LP156 |
 
-The compilation was recorded between 1957 and 1961.   "Special 2LP Gatefold Edition 20 Original Recordings From The Legendary Jazz & Blues Great On 180g Vinyl".  ℗ & © 2012 Not Now Music Limited  Made in the E.U.
+The compilation was recorded between 1957 and 1961. 
+
+"Special 2LP Gatefold Edition 20 Original Recordings From The Legendary Jazz & Blues Great On 180g Vinyl".
+
+℗ & © 2012 Not Now Music Limited
+
+Made in the E.U.

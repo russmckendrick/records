@@ -2,7 +2,7 @@
 title: "Eric Clapton - 461 Ocean Boulevard"
 artist: "Eric Clapton"
 album_name: "461 Ocean Boulevard"
-date: 2020-08-02
+date: 2020-08-02T13:40:52.000000Z
 release_id: "1496277"
 slug: "461-ocean-boulevard-1496277"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Motherless Children
 2. Give Me Strength
@@ -24,8 +25,11 @@ styles: ["Blues Rock", "Pop Rock"]
 8. Let It Grow
 9. Steady Rollin' Man
 10. Mainline Florida
+
+
 ## Spotify
 {{< spotify type="album" id="73cxqemPE6sVoCkwRuPU6E" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -33,8 +37,21 @@ styles: ["Blues Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1983 |
 | Discogs Link   | [Eric Clapton - 461 Ocean Boulevard](https://www.discogs.com/release/1496277-Eric-Clapton-461-Ocean-Boulevard) |
-| Label          | RSO, RSO |
-| Format         | LP, Album, RE |
-| Catalog Number | SPELP 24, 2479 118 |
+| Label          | RSO |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | SPELP 24 |
 
-Non-gatefold sleeve.  — Back cover: Recorded at Criteria Recording Studios, Miami, Florida. Yvonne Elliman courtesy of Purple Records. Al Jackson courtesy of Stax Records. Produced […] by arrangement with the Robert Stigwood Organization ℗ 1974 RSO Records © 1983 Polydor Ltd. (London)  — Labels: Made in England Marketed by Polydor Ltd Original Sound Recording made by RSO Records Ltd. ℗ 1974 RSO Records Ltd.
+Non-gatefold sleeve.
+
+— Back cover:
+Recorded at Criteria Recording Studios, Miami, Florida.
+Yvonne Elliman courtesy of Purple Records.
+Al Jackson courtesy of Stax Records.
+Produced […] by arrangement with the Robert Stigwood Organization
+℗ 1974 RSO Records © 1983 Polydor Ltd. (London)
+
+— Labels:
+Made in England
+Marketed by Polydor Ltd
+Original Sound Recording made by RSO Records Ltd.
+℗ 1974 RSO Records Ltd.

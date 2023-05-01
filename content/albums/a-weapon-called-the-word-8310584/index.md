@@ -2,7 +2,7 @@
 title: "The Levellers - A Weapon Called The Word"
 artist: "The Levellers"
 album_name: "A Weapon Called The Word"
-date: 2018-04-27
+date: 2018-04-27T17:15:04.000000Z
 release_id: "8310584"
 slug: "a-weapon-called-the-word-8310584"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. World Freakshow
 2. Carry Me
@@ -26,6 +27,9 @@ styles: ["Alternative Rock", "Folk Rock"]
 10. The Ballad Of Robbie Jones
 11. England My Home
 12. What You Know
+
+
+
 
 ## Videos
 {{< youtube id="Xe71vrfSVWI" title="World Freak Show - Levellers" >}}
@@ -46,7 +50,5 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Levellers - A Weapon Called The Word](https://www.discogs.com/release/8310584-The-Levellers-A-Weapon-Called-The-Word) |
 | Label          | On The Fiddle Recordings |
-| Format         | LP, Album, Ltd, RE, RM, Red |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Red) |
 | Catalog Number | OTFLP008 |
-
-

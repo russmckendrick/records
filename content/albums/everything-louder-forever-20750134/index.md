@@ -2,7 +2,7 @@
 title: "Motörhead - Everything Louder Forever"
 artist: "Motörhead"
 album_name: "Everything Louder Forever"
-date: 2022-05-05
+date: 2022-05-05T10:19:59.000000Z
 release_id: "20750134"
 slug: "everything-louder-forever-20750134"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Overkill
 2. We Are Motörhead
@@ -56,8 +57,12 @@ styles: ["Heavy Metal"]
 40. 1916
 41. Choking On Your Screams
 42. Motörhead 
+
+
 ## Spotify
 {{< spotify type="album" id="1TqvkPmfgnOWninXz3vKXT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3mbvWn1EY6g" title="Motörhead – Ace Of Spades (Official Video)" >}}
@@ -84,8 +89,14 @@ styles: ["Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Motörhead - Everything Louder Forever](https://www.discogs.com/release/20750134-Mot%C3%B6rhead-Everything-Louder-Forever) |
-| Label          | BMG, Murder One |
-| Format         | 4xLP, Comp |
+| Label          | BMG |
+| Format         | Vinyl 4× LP Compilation |
 | Catalog Number | BMGCAT522QLP |
 
-4 LPs in a big three-folded cover in amplifier-style. 4 printed inner-sleeves with pictures and credits.  ℗ & © 2021 BMG Rights Management (UK) Limited Manufactured in France.  Nuclear Blast mailorder provide an exclusive DIN-A1 poster
+4 LPs in a big three-folded cover in amplifier-style.
+4 printed inner-sleeves with pictures and credits.
+
+℗ & © 2021 BMG Rights Management (UK) Limited
+Manufactured in France.
+
+Nuclear Blast mailorder provide an exclusive DIN-A1 poster

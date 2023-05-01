@@ -2,7 +2,7 @@
 title: "Aretha Franklin - Aretha's Greatest Hits"
 artist: "Aretha Franklin"
 album_name: "Aretha's Greatest Hits"
-date: 2016-09-06
+date: 2016-09-06T16:36:37.000000Z
 release_id: "9007937"
 slug: "aretha-s-greatest-hits-9007937"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Spanish Harlem (3:30)
 2. Chain Of Fools (2:45)
@@ -29,6 +30,9 @@ styles: ["Soul"]
 13. You're All I Need To Get By (3:34)
 14. Call Me (3:18)
 
+
+
+
 ## Videos
 {{< youtube id="KuDE2JzHYhU" title="Aretha's Greatest Hits /Atlantic" >}}
 - [Aretha Franklin - Spanish Harlem](https://www.youtube.com/watch?v=ax3EJyeKW3M)
@@ -40,7 +44,5 @@ styles: ["Soul"]
 | Release Year   | 2016 |
 | Discogs Link   | [Aretha Franklin - Aretha's Greatest Hits](https://www.discogs.com/release/9007937-Aretha-Franklin-Arethas-Greatest-Hits) |
 | Label          | Atlantic |
-| Format         | LP, Comp, RE |
+| Format         | Vinyl LP Compilation Reissue |
 | Catalog Number | 081227943516 |
-
-

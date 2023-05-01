@@ -2,7 +2,7 @@
 title: "Monster Magnet - Last Patrol"
 artist: "Monster Magnet"
 album_name: "Last Patrol"
-date: 2016-01-29
+date: 2016-01-29T18:24:57.000000Z
 release_id: "5003313"
 slug: "last-patrol-5003313"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. I Live Behind The Clouds
 2. Last Patrol
@@ -25,8 +26,12 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 9. Stay Tuned
 10. Strobe Light Beatdown
 11. One Dead Moon
+
+
 ## Spotify
 {{< spotify type="album" id="5IvpieyaXDZI2GxwmdwlQA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1dt-XS9Ez5k" title="Monster Magnet - Three Kingfishers" >}}
@@ -40,7 +45,14 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [Monster Magnet - Last Patrol](https://www.discogs.com/release/5003313-Monster-Magnet-Last-Patrol) |
 | Label          | Spinning Goblin Productions |
-| Format         | 2xLP, Album, Ltd |
+| Format         | Vinyl 2× LP Album Limited Edition |
 | Catalog Number | NPR 490 LP |
 
-Strictly limited edtion. D2 and D3 are bonus tracks. Issued in a gatefold cover with lyrics on the inner spread, includes download code. Tracks on back cover are sequential listed 01 to 11  C + P 2013 Napalm Records Handel GmbH Made in Germany  Also issued on [purple](https://www.discogs.com/release/5004894), [multicolor splatter](https://www.discogs.com/release/5004917) and [orange](https://www.discogs.com/release/5035119) vinyl and as [picture disc](https://www.discogs.com/release/5013916).
+Strictly limited edtion. D2 and D3 are bonus tracks.
+Issued in a gatefold cover with lyrics on the inner spread, includes download code.
+Tracks on back cover are sequential listed 01 to 11
+
+C + P 2013 Napalm Records Handel GmbH
+Made in Germany
+
+Also issued on [url=https://www.discogs.com/release/5004894]purple[/url], [url=https://www.discogs.com/release/5004917]multicolor splatter[/url] and [url=https://www.discogs.com/release/5035119]orange[/url] vinyl and as [url=https://www.discogs.com/release/5013916]picture disc[/url].

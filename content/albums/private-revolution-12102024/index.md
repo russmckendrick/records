@@ -2,7 +2,7 @@
 title: "World Party - Private Revolution"
 artist: "World Party"
 album_name: "Private Revolution"
-date: 2019-11-08
+date: 2019-11-08T19:52:05.000000Z
 release_id: "12102024"
 slug: "private-revolution-12102024"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Private Revolution (4:01)
 2. Making Love (To The World) (2:30)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. All I Really Want To Do (4:43)
 10. World Party (4:36)
 11. It's All Mine (5:33)
+
+
 ## Spotify
 {{< spotify type="album" id="6NbdjT5mdw0oTZDiEZOgey" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZHh0V7UjVXI" title="World Party - Ship of Fools" >}}
@@ -50,7 +55,17 @@ styles: ["Alternative Rock"]
 | Release Year   | 1986 |
 | Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/12102024-World-Party-Private-Revolution) |
 | Label          | Chrysalis |
-| Format         | LP, Album, Car |
+| Format         | Vinyl LP Album Stereo (Carrollton Press) |
 | Catalog Number | BFV 41552 |
 
-[l442751] pressing denoted by "G1" etch in runouts. Issued with lyric inner sleeve.  -- Conflicting Publishing Information -- Labels state: Published by the Welk Music Group Ltd. (PRS). All rights in the U.S. managed by Bibo Music Publishers (ASCAP) c/o The Welk Music Group except A5 same as above and Island Music Inc. (BMI), and except B3 published by Warner Bros. Inc (ASCAP).  Cover states: All songs published by Welk Music except A5 (Wickham / Wallinger) Blue Mountain Music / Welk Music and B3 (Bob Dylan) Warner Brothers Music.  ℗ & © Ensign Records Ltd. 1986.  Made in U.S.A.
+[l442751] pressing denoted by "G1" etch in runouts.
+Issued with lyric inner sleeve.
+
+-- Conflicting Publishing Information --
+Labels state:
+Published by the Welk Music Group Ltd. (PRS). All rights in the U.S. managed by Bibo Music Publishers (ASCAP) c/o The Welk Music Group except A5 same as above and Island Music Inc. (BMI), and except B3 published by Warner Bros. Inc (ASCAP).
+
+Cover states:
+All songs published by Welk Music except A5 (Wickham / Wallinger) Blue Mountain Music / Welk Music and B3 (Bob Dylan) Warner Brothers Music.
+
+℗ & © Ensign Records Ltd. 1986.  Made in U.S.A.

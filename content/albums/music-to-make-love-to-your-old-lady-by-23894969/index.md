@@ -1,18 +1,19 @@
 ---
-title: "Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles - Music To Make Love To Your Old Lady By"
-artist: "Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
+title: "Nathaniel Merriweather - Music To Make Love To Your Old Lady By"
+artist: "Nathaniel Merriweather"
 album_name: "Music To Make Love To Your Old Lady By"
-date: 2022-07-26
+date: 2022-07-26T04:06:25.000000Z
 release_id: "23894969"
 slug: "music-to-make-love-to-your-old-lady-by-23894969"
 hideSummary: true
 cover:
     image: "music-to-make-love-to-your-old-lady-by-23894969.jpg"
-    alt: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
-    caption: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles"
+    alt: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather"
+    caption: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather"
 genres: ["Electronic", "Hip Hop", "Pop"]
 styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
+
 ## Tracklisting
 1. Ladies Love Chest Rockwell (1:18)
 2. Pit Stop (Take Me Home) (3:56)
@@ -30,6 +31,12 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 14. Tea Time With Maseo (1:38)
 15. Stroker Ace (4:27)
 16. Archie & Veronica (6:06)
+
+
+## Spotify
+{{< spotify type="album" id="3QFwPfYolMmXNNdOrRLLGE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hxf21Yh0LsI" title="Lovage - Lies and Alibis" >}}
@@ -63,9 +70,13 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Nathaniel Merriweather Presents Lovage Avec Mike Patton & Jennifer Charles - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969-Nathaniel-Merriweather-Presents-Lovage-Avec-Michael-Patton-Jennifer-Charles-Music-To-Make-Love-To-Yo) |
+| Discogs Link   | [Nathaniel Merriweather - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969-Nathaniel-Merriweather-Presents-Lovage-Avec-Michael-Patton-Jennifer-Charles-Music-To-Make-Love-To-Yo) |
 | Label          | Bulk Recordings |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | BULK020LP |
 
-"Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb  The cover is a remake of [m4375].   ℗ © 2022 Bulk Recordings
+"Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb
+
+The cover is a remake of [m4375]. 
+
+℗ © 2022 Bulk Recordings

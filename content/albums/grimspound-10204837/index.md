@@ -2,7 +2,7 @@
 title: "Big Big Train - Grimspound"
 artist: "Big Big Train"
 album_name: "Grimspound"
-date: 2017-04-29
+date: 2017-04-29T12:03:10.000000Z
 release_id: "10204837"
 slug: "grimspound-10204837"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Brave Captain (12:37)
 2. On The Racing Line (5:12)
@@ -22,8 +23,12 @@ styles: ["Prog Rock"]
 6. The Ivy Gate (7:27)
 7. As The Crow Flies (6:44)
 8. A Mead Hall In Winter (15:20)
+
+
 ## Spotify
 {{< spotify type="album" id="3YBGYpPgEcC8Tszi9ufIYS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Aaf1XDtWVNk" title="Grimspound" >}}
@@ -36,7 +41,7 @@ styles: ["Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Big Big Train - Grimspound](https://www.discogs.com/release/10204837-Big-Big-Train-Grimspound) |
 | Label          | Plane Groovy |
-| Format         | 2xLP, Album, Ltd, Opa |
+| Format         | Vinyl 2× LP Album Limited Edition (Opaque Vinyl) |
 | Catalog Number | PLG050 |
 
 Limited edition Opaque Vinyl version which also came with a signed postcard

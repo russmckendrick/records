@@ -2,7 +2,7 @@
 title: "Jason Isbell And The 400 Unit - The Nashville Sound "
 artist: "Jason Isbell And The 400 Unit"
 album_name: "The Nashville Sound "
-date: 2017-06-16
+date: 2017-06-16T19:58:45.000000Z
 release_id: "10424624"
 slug: "the-nashville-sound-10424624"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
+
 ## Tracklisting
 1. Last Of My Kind (4:22)
 2. Cumberland Gap (3:24)
@@ -24,8 +25,12 @@ styles: ["Country"]
 8. Chaos And Clothes (3:35)
 9. Hope The High Road (3:03)
 10. Something To Love (3:39)
+
+
 ## Spotify
 {{< spotify type="album" id="0gYLr4tpPpRrPg2WIS64jw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tZaeKwgS7wg" title="Jason Isbell and the 400 Unit - Cumberland Gap" >}}
@@ -37,8 +42,15 @@ styles: ["Country"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Jason Isbell And The 400 Unit - The Nashville Sound ](https://www.discogs.com/release/10424624-Jason-Isbell-And-The-400-Unit-The-Nashville-Sound-) |
-| Label          | Southeastern Records |
-| Format         | LP, Album, Ltd, Gat |
+| Label          | Southeastern Records (2) |
+| Format         | Vinyl LP Album Limited Edition (Gatefold, 180 Gram) |
 | Catalog Number | SER99881 |
 
-With limited edition songbook. Album download included. 400 Songbooks randomly signed by Jason and the band.  © & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.    Recorded in RCA's "Nashville Sound" Studio.  Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI).
+With limited edition songbook. Album download included.
+400 Songbooks randomly signed by Jason and the band.
+
+© & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.  
+
+Recorded in RCA's "Nashville Sound" Studio.
+
+Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI).

@@ -2,7 +2,7 @@
 title: "Carter The Unstoppable Sex Machine - 101 Damnations"
 artist: "Carter The Unstoppable Sex Machine"
 album_name: "101 Damnations"
-date: 2016-01-15
+date: 2016-01-15T18:22:32.000000Z
 release_id: "928285"
 slug: "101-damnations-928285"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Road To Domestos
 2. Everytime A Churchbell Rings
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Midnight On The Murder Mile
 10. A Perfect Day To Drop The Bomb
 11. G.I. Blues
+
+
 ## Spotify
 {{< spotify type="album" id="3jJ36Wp8yuMlMlEy832Eeq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XtDOmAh0QvM" title="Carter USM - Murder on the Midnight Mile" >}}
@@ -55,8 +60,17 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [Carter The Unstoppable Sex Machine - 101 Damnations](https://www.discogs.com/release/928285-Carter-The-Unstoppable-Sex-Machine-101-Damnations) |
-| Label          | Big Cat, Big Cat |
-| Format         | LP, Album |
-| Catalog Number | ABB 101, ABB101 |
+| Label          | Big Cat |
+| Format         | Vinyl LP Album |
+| Catalog Number | ABB 101 |
 
-Includes printed inner sleeve with lyrics.  Recorded at Important Notice Studios, Mitcham, South London.  Cat# ABB 101 appears on the back cover, spine and insert. Cat# ABB101 appears on the labels.  Published By Cat X Mouse Music 1990.  ©Big Cat U.K. Records Ltd 1990.
+Includes printed inner sleeve with lyrics.
+
+Recorded at Important Notice Studios, Mitcham, South London.
+
+Cat# ABB 101 appears on the back cover, spine and insert.
+Cat# ABB101 appears on the labels.
+
+Published By Cat X Mouse Music 1990.
+
+©Big Cat U.K. Records Ltd 1990.

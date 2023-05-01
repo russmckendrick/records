@@ -2,7 +2,7 @@
 title: "Pink Floyd - A Collection Of Great Dance Songs"
 artist: "Pink Floyd"
 album_name: "A Collection Of Great Dance Songs"
-date: 2017-11-17
+date: 2017-11-17T16:42:52.000000Z
 release_id: "11065998"
 slug: "a-collection-of-great-dance-songs-11065998"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. One Of These Days (5:49)
 2. Money (6:45)
@@ -20,8 +21,11 @@ styles: ["Prog Rock"]
 4. Shine On You Crazy Diamond (10:40)
 5. Wish You Were Here (5:26)
 6. Another Brick In The Wall (Part 2) (3:54)
+
+
 ## Spotify
 {{< spotify type="album" id="2YRKb8nnxH7FFe9Vwtd0Ql" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -29,8 +33,18 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Pink Floyd - A Collection Of Great Dance Songs](https://www.discogs.com/release/11065998-Pink-Floyd-A-Collection-Of-Great-Dance-Songs) |
-| Label          | Pink Floyd Records, Parlophone |
-| Format         | LP, Comp, RE, RM, 180 |
-| Catalog Number | PFRLP19, 0190295996901 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl LP Compilation Reissue Remastered (180 Gram) |
+| Catalog Number | PFRLP19 |
 
- A1 from Meddle 1971 A2 from Dark Side Of The Moon 1981, Re-recorded at New Roydonia Studios 1981 A3 from Animals 1977 B1 from Wish You Were Here 1975 B2 from Wish You Were Here 1975 B3 from The Wall 1979  Comes with printed cardboard- inner sleeve with rounded corners.  This compilation ℗1981 by EMI Records Ltd/Pink Floyd Music Ltd
+
+A1 from Meddle 1971
+A2 from Dark Side Of The Moon 1981, Re-recorded at New Roydonia Studios 1981
+A3 from Animals 1977
+B1 from Wish You Were Here 1975
+B2 from Wish You Were Here 1975
+B3 from The Wall 1979
+
+Comes with printed cardboard- inner sleeve with rounded corners.
+
+This compilation ℗1981 by EMI Records Ltd/Pink Floyd Music Ltd

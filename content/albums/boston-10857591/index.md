@@ -2,7 +2,7 @@
 title: "Boston - Boston"
 artist: "Boston"
 album_name: "Boston"
-date: 2018-11-17
+date: 2018-11-17T19:36:07.000000Z
 release_id: "10857591"
 slug: "boston-10857591"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. More Than A Feeling (4:44)
 2. Peace Of Mind (4:55)
@@ -22,8 +23,12 @@ styles: ["Hard Rock"]
 6. Hitch A Ride (3:18)
 7. Something About You (4:19)
 8. Let Me Take You Home Tonight (4:12)
+
+
 ## Spotify
 {{< spotify type="album" id="2QLp07RO6anZHmtcKTEvSC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4zDR5jmCXOg" title="Boston - Boston (1976) [Full Album]" >}}
@@ -52,8 +57,9 @@ styles: ["Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Boston - Boston](https://www.discogs.com/release/10857591-Boston-Boston) |
-| Label          | Epic, Sony Music, Legacy, We Are Vinyl |
-| Format         | LP, Album, RP, 180 |
+| Label          | Epic |
+| Format         | Vinyl LP Album Repress (180 g) |
 | Catalog Number | 88985438101 |
 
-℗ 1976 and © 1976, 2017 Epic Records. Made in the EU.
+℗ 1976 and © 1976, 2017 Epic Records.
+Made in the EU.

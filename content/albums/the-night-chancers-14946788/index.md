@@ -2,7 +2,7 @@
 title: "Baxter Dury - The Night Chancers"
 artist: "Baxter Dury"
 album_name: "The Night Chancers"
-date: 2020-09-15
+date: 2020-09-15T17:31:59.000000Z
 release_id: "14946788"
 slug: "the-night-chancers-14946788"
 hideSummary: true
@@ -26,6 +26,12 @@ styles: ["Alternative Rock", "Indie Pop"]
 9. Daylight
 10. Say Nothing
 
+
+## Spotify
+{{< spotify type="album" id="1LCoVpaGVLibfCMmVyRaYH" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord (Official Music Video)" >}}
 - [Baxter Dury - Carla's Got A Boyfriend (Official Audio)](https://www.youtube.com/watch?v=CaAszLkOh6w)
@@ -38,16 +44,18 @@ styles: ["Alternative Rock", "Indie Pop"]
 - [Baxter Dury - Carla's Got A Boyfriend](https://www.youtube.com/watch?v=MPj7GifljM8)
 - [Daylight](https://www.youtube.com/watch?v=hH8W0cM_718)
 
-
 ## Notes
-
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Baxter Dury - The Night Chancers](https://www.discogs.com/release/14946788-Baxter-Dury-The-Night-Chancers) |
-| Label          | [PIAS] Le Label, [pias] |
-| Format         | LP, Album, Ltd, Cry |
-| Catalog Number | PIASLL141LPC, none |
+| Label          | [PIAS] Le Label |
+| Format         | Vinyl LP Album Limited Edition (Crystal Clear, Heavyweight) |
+| Catalog Number | PIASLL141LPC |
 
-Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.  ℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.  Recorded at Hoxa Strings recorded at The Church.
+Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.
 
+℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.
+
+Recorded at Hoxa
+Strings recorded at The Church.

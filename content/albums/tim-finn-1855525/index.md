@@ -2,7 +2,7 @@
 title: "Tim Finn - Tim Finn"
 artist: "Tim Finn"
 album_name: "Tim Finn"
-date: 2015-09-04
+date: 2015-09-04T16:46:03.000000Z
 release_id: "1855525"
 slug: "tim-finn-1855525"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Young Mountain (4:20)
 2. Not Even Close (4:18)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 8. Show A Little Mercy (4:00)
 9. Crescendo (4:17)
 10. Been There Done That (4:06)
+
+
 ## Spotify
 {{< spotify type="album" id="1T0rvI76cjmfOErWUFPIFv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KIAnj5YGh-E" title="Tim Finn - Not Even Close (1989)" >}}
@@ -38,7 +43,13 @@ styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 | Release Year   | 1989 |
 | Discogs Link   | [Tim Finn - Tim Finn](https://www.discogs.com/release/1855525-Tim-Finn-Tim-Finn) |
 | Label          | Capitol Records |
-| Format         | LP, Album, All |
+| Format         | Vinyl LP Album (Allied Pressing) |
 | Catalog Number | C1-48735 |
 
-[l211933] pressing as denoted by SPAR and B-##### in deadwax runouts.  (P) (C) 1989 Capitol Records, Inc.  Includes printed inner sleeve with lyrics.  Recorded at Sunset Sound Factory.
+[l211933] pressing as denoted by SPAR and B-##### in deadwax runouts.
+
+(P) (C) 1989 Capitol Records, Inc.
+
+Includes printed inner sleeve with lyrics.
+
+Recorded at Sunset Sound Factory.

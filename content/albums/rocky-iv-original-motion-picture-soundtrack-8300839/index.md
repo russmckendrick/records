@@ -2,7 +2,7 @@
 title: "Various - Rocky IV (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "Rocky IV (Original Motion Picture Soundtrack)"
-date: 2016-03-29
+date: 2016-03-29T16:31:05.000000Z
 release_id: "8300839"
 slug: "rocky-iv-original-motion-picture-soundtrack-8300839"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. Burning Heart
 2. Heart's On Fire
@@ -24,6 +25,9 @@ styles: ["Soundtrack"]
 8. One Way Street
 9. The Sweetest Victory
 10. Training Montage
+
+
+
 
 ## Videos
 {{< youtube id="Kc71KZG87X4" title="Survivor - Burning Heart (Video)" >}}
@@ -44,7 +48,10 @@ styles: ["Soundtrack"]
 | Release Year   | 2016 |
 | Discogs Link   | [Various - Rocky IV (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8300839-Various-Rocky-IV-Original-Motion-Picture-Soundtrack) |
 | Label          | Music On Vinyl |
-| Format         | LP, Ltd, Num, RE, Cle |
+| Format         | Vinyl LP Limited Edition Numbered Reissue (Clear) |
 | Catalog Number | MOVATM062 |
 
-Limited to 1000 individually-numbered copies.  PVC protective sleeve included 180 Gram Audiophile Vinyl
+Limited to 1000 individually-numbered copies.
+
+PVC protective sleeve included
+180 Gram Audiophile Vinyl

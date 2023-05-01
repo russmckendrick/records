@@ -2,7 +2,7 @@
 title: "Steve Lamacq - Lost Alternatives"
 artist: "Steve Lamacq"
 album_name: "Lost Alternatives"
-date: 2019-04-15
+date: 2019-04-15T11:47:49.000000Z
 release_id: "13493663"
 slug: "lost-alternatives-13493663"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Chelsea Girl
 2. Indian Rope
@@ -43,13 +44,20 @@ styles: ["Alternative Rock"]
 27. Strachan
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Steve Lamacq - Lost Alternatives](https://www.discogs.com/release/13493663-Steve-Lamacq-Lost-Alternatives) |
 | Label          | Demon Records |
-| Format         | 2xLP, RSD, Comp, Ltd, Whi |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (White) |
 | Catalog Number | DEMREC406 |
 
-Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019" 27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl,  INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai  DEMREC406  Made in the EU
+Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019"
+27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl, 
+INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai 
+DEMREC406
+
+Made in the EU

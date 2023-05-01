@@ -2,7 +2,7 @@
 title: "XTC - Skylarking"
 artist: "XTC"
 album_name: "Skylarking"
-date: 2018-01-19
+date: 2018-01-19T20:40:17.000000Z
 release_id: "8779259"
 slug: "skylarking-8779259"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Summer's Cauldron
 2. Grass
@@ -44,16 +45,20 @@ styles: ["New Wave", "Pop Rock"]
 28. Dear God
 29. Dying
 30. Sacrificial Bonfire
+
+
 ## Spotify
 {{< spotify type="album" id="3FVsJiQMI7dp0RfTBdWtMW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="p554R-Jq43A" title="XTC - Dear God" >}}
 - [The Man Who Sailed Around His Soul (Remastered 2001)](https://www.youtube.com/watch?v=1KGS7nm9N10)
 - [Summer's Cauldron (Remastered 2001)](https://www.youtube.com/watch?v=0Ff7mJ_AjNQ)
+- [XTC - Grass](https://www.youtube.com/watch?v=nErBEvTIvfo)
 - [Earn Enough For Us (Remastered 2001)](https://www.youtube.com/watch?v=wft8l-bw0qw)
 - [That's Really Super, Supergirl (Remastered 2001)](https://www.youtube.com/watch?v=CBNsiEWghGA)
-- [XTC - Grass](https://www.youtube.com/watch?v=nErBEvTIvfo)
 - [XTC - Skylarking (Full Album) [HD]](https://www.youtube.com/watch?v=85J91FwPrTw)
 - [The meeting place](https://www.youtube.com/watch?v=fBxCxUFOBv0)
 
@@ -63,7 +68,18 @@ styles: ["New Wave", "Pop Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [XTC - Skylarking](https://www.discogs.com/release/8779259-XTC-Skylarking) |
 | Label          | Ape House |
-| Format         | 2xLP, Album, RE, RP + CD, Album, RE + Box, Dlx, RM |
+| Format         | Vinyl 2× LP 45 RPM Album Reissue Repress, CD Album Reissue, Box Set Deluxe Edition Remastered |
 | Catalog Number | APELPD108 |
 
-"A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking.   Including:  * 2 x 45rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * Cut from corrected polarity master  * CD of corrected polarity master  * Both album sleeves - sleeve as released and original proposed design  * All contents packaged in a sturdy slipcase."  - Ape House Ltd. 
+"A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking. 
+
+Including: 
+* 2 x 45rpm, 200g heavyweight vinyl 
+* 12" 16 page booklet with song notes by band members 
+* Lyric sheet 
+* Cut from corrected polarity master 
+* CD of corrected polarity master 
+* Both album sleeves - sleeve as released and original proposed design 
+* All contents packaged in a sturdy slipcase." 
+- Ape House Ltd.
+

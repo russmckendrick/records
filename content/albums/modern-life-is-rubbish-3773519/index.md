@@ -2,7 +2,7 @@
 title: "Blur - Modern Life Is Rubbish"
 artist: "Blur"
 album_name: "Modern Life Is Rubbish"
-date: 2016-04-30
+date: 2016-04-30T15:20:51.000000Z
 release_id: "3773519"
 slug: "modern-life-is-rubbish-3773519"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. For Tomorrow (4:18)
 2. Advert (3:43)
@@ -30,8 +31,11 @@ styles: ["Britpop", "Indie Rock"]
 14. Turn It Up (3:21)
 15. Resigned (5:13)
 16. Commercial Break (0:56)
+
+
 ## Spotify
 {{< spotify type="album" id="2gu1tAkUSoe5zTJNM0qU3g" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -39,8 +43,11 @@ styles: ["Britpop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Blur - Modern Life Is Rubbish](https://www.discogs.com/release/3773519-Blur-Modern-Life-Is-Rubbish) |
-| Label          | Food, Parlophone |
-| Format         | 2xLP, Album, RE, RM, S/Edition, 180 |
-| Catalog Number | FOODLPX9, 5099962483919 |
+| Label          | Food |
+| Format         | Vinyl 2× LP Album Reissue Remastered Special Edition (180 Gram, Gatefold) |
+| Catalog Number | FOODLPX9 |
 
-Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3  Each LP comes in a printed inner sleeve. Tracks are numbered sequentially on release. Sticker on shrinkwrap
+Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3 
+Each LP comes in a printed inner sleeve.
+Tracks are numbered sequentially on release.
+Sticker on shrinkwrap

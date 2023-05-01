@@ -2,7 +2,7 @@
 title: "Split Enz - Mental Notes"
 artist: "Split Enz"
 album_name: "Mental Notes"
-date: 2018-09-29
+date: 2018-09-29T09:45:26.000000Z
 release_id: "1445113"
 slug: "mental-notes-1445113"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Late Last Night (4:05)
 2. Walking Down A Road (5:19)
@@ -24,8 +25,12 @@ styles: ["Prog Rock"]
 8. Matinee Idyll (2:54)
 9. The Woman Who Loves You (6:46)
 10. Mental Notes (0:30)
+
+
 ## Spotify
 {{< spotify type="album" id="40kD3JoZgiQL0ZwH9OZ2Bg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}
@@ -42,8 +47,14 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 1976 |
 | Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/1445113-Split-Enz-Mental-Notes) |
-| Label          | Chrysalis, Chrysalis |
-| Format         | LP, Album, Gat |
-| Catalog Number | CHR 1131, CHR-1131 |
+| Label          | Chrysalis |
+| Format         | Vinyl LP Album (Gatefold) |
+| Catalog Number | CHR 1131 |
 
-Released in a gatefold cover.  On the label the cat.nr. appears as ''CHR-1131''. Recorded at Basing St. Studios, London April/May 1976.  This is a re-recorded version with a new producer, new versions of old tracks and some new tracks.  
+Released in a gatefold cover.
+
+On the label the cat.nr. appears as ''CHR-1131''.
+Recorded at Basing St. Studios, London April/May 1976.
+
+This is a re-recorded version with a new producer, new versions of old tracks and some new tracks. 
+

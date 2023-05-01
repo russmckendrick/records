@@ -2,7 +2,7 @@
 title: "Doves - Some Cities"
 artist: "Doves"
 album_name: "Some Cities"
-date: 2019-06-03
+date: 2019-06-03T17:51:04.000000Z
 release_id: "13701527"
 slug: "some-cities-13701527"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Some Cities
 2. Black And White Town
@@ -25,8 +26,12 @@ styles: ["Downtempo", "Indie Rock"]
 9. Shadows Of Salford
 10. Sky Starts Falling
 11. Ambition
+
+
 ## Spotify
 {{< spotify type="album" id="1b8wM8rrNJzdxHykdygy9V" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LR3rHOXQeeM" title="Shadows Of Salford" >}}
@@ -50,7 +55,15 @@ styles: ["Downtempo", "Indie Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Doves - Some Cities](https://www.discogs.com/release/13701527-Doves-Some-Cities) |
 | Label          | Heavenly |
-| Format         | 2xLP, Album, Ltd, Num, RE, Whi |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (White) |
 | Catalog Number | 7748265 |
 
-All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.  B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.  ℗ 2004 [l26760] © 2019 [l26760]  Non-gatefold (single) sleeve with insert. Comes with a [l1052727] download coupon.
+All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.
+
+B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.
+
+℗ 2004 [l26760]
+© 2019 [l26760]
+
+Non-gatefold (single) sleeve with insert.
+Comes with a [l1052727] download coupon.

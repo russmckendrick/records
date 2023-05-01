@@ -2,7 +2,7 @@
 title: "The Wonder Stuff - Hup"
 artist: "The Wonder Stuff"
 album_name: "Hup"
-date: 2016-11-16
+date: 2016-11-16T13:03:18.000000Z
 release_id: "3580276"
 slug: "hup-3580276"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. 30 Years In The Bathroom
 2. Radio Ass Kiss
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 10. Unfaithful
 11. Them, Big Oak Trees
 12. Room 410
+
+
 ## Spotify
 {{< spotify type="album" id="1MkOF5F1r0HEjPi1WxEuj8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}
@@ -39,8 +44,19 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1989 |
 | Discogs Link   | [The Wonder Stuff - Hup](https://www.discogs.com/release/3580276-The-Wonder-Stuff-Hup) |
-| Label          | Polydor, The Far Out Recording Company |
-| Format         | LP, Album |
+| Label          | Polydor |
+| Format         | Vinyl LP Album |
 | Catalog Number | 841187-1 |
 
-'HUP' printed on front cover with 'The Wonder Stuff' sticker attached.  Released with a printed lyric and credit inner sleeve.  Engineered at The Greenhouse, North London.  [Labels]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. Polygram Music 1989. [Sleeve]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989.
+'HUP' printed on front cover with 'The Wonder Stuff' sticker attached. 
+Released with a printed lyric and credit inner sleeve.
+
+Engineered at The Greenhouse, North London.
+
+[Labels]:
+℗ 1989 Polydor Ltd. (UK) 
+© Polydor Ltd. (UK) 1989.
+Polygram Music 1989.
+[Sleeve]:
+℗ 1989 Polydor Ltd. (UK) 
+© Polydor Ltd. (UK) 1989.

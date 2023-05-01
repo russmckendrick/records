@@ -2,7 +2,7 @@
 title: "Son Little - Aloha"
 artist: "Son Little"
 album_name: "Aloha"
-date: 2020-02-07
+date: 2020-02-07T18:46:04.000000Z
 release_id: "14719879"
 slug: "aloha-14719879"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Aloha by Son Little"
     caption: "Aloha by Son Little"
 genres: ["Funk / Soul"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Hey Rose
 2. About Her. Again
@@ -26,8 +27,12 @@ styles: null
 10. O Clever One
 11. Neve Give Up
 12. After All (I Must Be Wrong)
+
+
 ## Spotify
 {{< spotify type="album" id="3rioHzbE7RDGbgxzg9uFNd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xLo0a_mKmx4" title="Son Little - suffer" >}}
@@ -42,7 +47,7 @@ styles: null
 | Release Year   | 2020 |
 | Discogs Link   | [Son Little - Aloha](https://www.discogs.com/release/14719879-Son-Little-Aloha) |
 | Label          | Anti- |
-| Format         | LP, Album, Ltd, Ora |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
 | Catalog Number | 27678-3 |
 
 180 Gram

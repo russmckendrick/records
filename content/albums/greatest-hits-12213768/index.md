@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - Greatest Hits"
 artist: "Bruce Springsteen"
 album_name: "Greatest Hits"
-date: 2022-05-31
+date: 2022-05-31T04:18:22.000000Z
 release_id: "12213768"
 slug: "greatest-hits-12213768"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Greatest Hits by Bruce Springsteen"
     caption: "Greatest Hits by Bruce Springsteen"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Born To Run
 2. Thunder Road
@@ -32,8 +33,12 @@ styles: null
 16. Murder Incorporated
 17. Blood Brothers
 18. This Hard Land
+
+
 ## Spotify
 {{< spotify type="album" id="211iJYKUbpqrykRsPG27CG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run (Official Video)" >}}
@@ -61,8 +66,9 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Bruce Springsteen - Greatest Hits](https://www.discogs.com/release/12213768-Bruce-Springsteen-Greatest-Hits) |
-| Label          | Columbia, Sony Music |
-| Format         | 2xLP, Comp, RE, RM, 180 |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gr.) |
 | Catalog Number | 19075820661 |
 
-Made in the EU. Issued in a gatefold sleeve with two printed inner sleeves and a download code.
+Made in the EU.
+Issued in a gatefold sleeve with two printed inner sleeves and a download code.

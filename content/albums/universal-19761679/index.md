@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Universal"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Universal"
-date: 2022-09-12
+date: 2022-09-12T08:08:17.000000Z
 release_id: "19761679"
 slug: "universal-19761679"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Universal
 2. Walking On The Milky Way
@@ -26,8 +27,12 @@ styles: ["Synth-pop"]
 10. If You're Still In Love With Me
 11. New Head
 12. Victory Waltz
+
+
 ## Spotify
 {{< spotify type="album" id="0wIzd1i5eg9UuOMyjpfS6T" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LdF4ejCuzTk" title="OMD Universal Vinyl LP Walking in the Milky Way" >}}
@@ -40,8 +45,13 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Universal](https://www.discogs.com/release/19761679-OMD-Universal) |
-| Label          | EMI, UMC |
-| Format         | LP, Album, RE, RM |
-| Catalog Number | 0602435422589, 3542258 |
+| Label          | EMI |
+| Format         | Vinyl LP Album Reissue Remastered |
+| Catalog Number | 0602435422589 |
 
-An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files).
+An EMI release.
+℗ 2021 Virgin Records Ltd.
+© 2021 Virgin Records Ltd.
+Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.
+Made in Germany.
+Includes download card (WAV files).

@@ -2,7 +2,7 @@
 title: "Jellyfish - Bellybutton"
 artist: "Jellyfish"
 album_name: "Bellybutton"
-date: 2016-02-11
+date: 2016-02-11T19:06:02.000000Z
 release_id: "1839629"
 slug: "bellybutton-1839629"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Power Pop"]
 ---
+
 ## Tracklisting
 1. The Man I Used To Be
 2. That Is Why
@@ -24,8 +25,9 @@ styles: ["Alternative Rock", "Power Pop"]
 8. Bedspring Kiss
 9. Baby's Coming Back
 10. Calling Sarah
-## Spotify
-{{< spotify type="album" id="6AvUI8ZOKncy7e6ThVbtAV" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="AgdgptaBma8" title="Jellyfish - The King Is Half-Undressed" >}}
@@ -45,8 +47,12 @@ styles: ["Alternative Rock", "Power Pop"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [Jellyfish - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-Bellybutton) |
-| Label          | Charisma, Charisma |
-| Format         | LP, Album |
-| Catalog Number | CUSLP3, 211 085 |
+| Label          | Charisma |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | CUSLP3 |
 
-This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].  In gloss finish sleeve with b/w printed inner bag.  Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release.
+This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].
+
+In gloss finish sleeve with b/w printed inner bag.
+
+Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release.

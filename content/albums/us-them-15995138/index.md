@@ -2,7 +2,7 @@
 title: "Roger Waters - Us + Them"
 artist: "Roger Waters"
 album_name: "Us + Them"
-date: 2020-10-03
+date: 2020-10-03T16:11:55.000000Z
 release_id: "15995138"
 slug: "us-them-15995138"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Intro
 2. Speak To Me
@@ -37,8 +38,12 @@ styles: ["Classic Rock", "Prog Rock"]
 21. Eclipse
 22. The Last Refugee (Reprise)
 23. Déjà Vu (Reprise)
+
+
 ## Spotify
 {{< spotify type="album" id="6t2iNN1eyys71UV7eW9i7O" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PtTzX_XsjYs" title="Roger Waters - Welcome To The Machine (Us + Them)" >}}
@@ -53,8 +58,18 @@ styles: ["Classic Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Roger Waters - Us + Them](https://www.discogs.com/release/15995138-Roger-Waters-Us-Them) |
-| Label          | Columbia, Legacy, Sony Music |
-| Format         | 3xLP, Album, Tri |
+| Label          | Columbia |
+| Format         | Vinyl 3× LP Album (Tri-fold) |
 | Catalog Number | 19439707691 |
 
-Sleeve Trifolded + 8-page booklet. Made in the E.U.  Sticker: US+THEM  A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE Over two hours of live music including TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE TRIPLE LP SET Audio companion to the acclaimed film Includes digital download
+Sleeve Trifolded + 8-page booklet.
+Made in the E.U.
+
+Sticker:
+US+THEM 
+A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE
+Over two hours of live music including
+TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE
+TRIPLE LP SET
+Audio companion to the acclaimed film
+Includes digital download

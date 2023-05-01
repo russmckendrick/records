@@ -2,7 +2,7 @@
 title: "Flight Of The Conchords - I Told You I Was Freaky"
 artist: "Flight Of The Conchords"
 album_name: "I Told You I Was Freaky"
-date: 2018-04-06
+date: 2018-04-06T15:39:32.000000Z
 release_id: "11823874"
 slug: "i-told-you-i-was-freaky-11823874"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Comedy"]
 ---
+
 ## Tracklisting
 1. Hurt Feelings (2:38)
 2. Sugalumps (2:12)
@@ -27,8 +28,12 @@ styles: ["Comedy"]
 11. Friends (2:04)
 12. Carol Brown (3:27)
 13. Angels (2:36)
+
+
 ## Spotify
 {{< spotify type="album" id="0a89maD3IKWIyWdOljmkQb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="86wcD9XmJ_k" title="Flight of the Conchords- Pencils In The Wind Album Verison" >}}
@@ -54,7 +59,5 @@ styles: ["Comedy"]
 | Release Year   | 2018 |
 | Discogs Link   | [Flight Of The Conchords - I Told You I Was Freaky](https://www.discogs.com/release/11823874-Flight-Of-The-Conchords-I-Told-You-I-Was-Freaky) |
 | Label          | Sub Pop |
-| Format         | LP, Album, Ltd, RE, Gre |
+| Format         | Vinyl LP Album Limited Edition Reissue (Green Translucent) |
 | Catalog Number | SP 800 |
-
-

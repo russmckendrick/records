@@ -2,7 +2,7 @@
 title: "The XX - I See You"
 artist: "The XX"
 album_name: "I See You"
-date: 2017-01-19
+date: 2017-01-19T18:45:17.000000Z
 release_id: "9596944"
 slug: "i-see-you-9596944"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Dangerous
 2. Say Something Loving
@@ -34,8 +35,12 @@ styles: ["Indie Pop"]
 18. On Hold (3:44)
 19. I Dare You (3:53)
 20. Test Me (3:56)
+
+
 ## Spotify
 {{< spotify type="album" id="6Zw6NKh3oIUhDRMOyBmsUU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="blJKoXWlqJk" title="The xx - On Hold (Official Video)" >}}
@@ -51,7 +56,16 @@ styles: ["Indie Pop"]
 | Release Year   | 2017 |
 | Discogs Link   | [The XX - I See You](https://www.discogs.com/release/9596944-The-XX-I-See-You) |
 | Label          | Young Turks |
-| Format         | LP, Album, Ltd, Cle + CD, Album |
+| Format         | Vinyl LP Album Limited Edition (Clear), CD Album |
 | Catalog Number | YTLP161V |
 
-Limited to 6000 copies.  Recorded between March 2014 + August 2016. "Say Something Loving" contains a sample of the recording 'Do You Feel It' as performed by Alessi. Used courtesy of A&M Records. Under license from Universal Music Enterprises. Used by permission. All rights reserved. This composition contains elements from 'Do You Feel It' by Bobby & Billy Alessi. Published by Alessi Music / The Royalty Network Inc & Bucks Music Group Limited. Also contains homage to 'The Sweetest Taboo' (Sade Adu / Martin Ditchum) published by Angel Music Ltd. / Sony / ATV Music Publishing. "Lips" contains a sample from 'Just (After Song Of Songs)' performed by Trio Mediaeval, Garth Knox, Agnès Vestermann And Sylvain Lemêtre. Recording Louth Contemporary Music, www.Louthcms.Org. Music and text - David Lang. Publisher: Red Poppy, Ltd. "On Hold" contains a sample from 'I Can't Go For That (No Can Do)' as recorded by Daryl Hall & John Oates. Used courtesy of Sony Music Entertainment. Written by S. Allen, D. Hall, J. Oates © 1981. Published by Geomantic Music (BMI) / Hot Cha Music Co. (BMI) Admin By BMG Rights Management (UK) Ltd. / Unichappell Music Inc. Admin By Warner / Chappell North America Ltd.  Stella Mozgawa appears courtesy of Rough Trade Records.  Track durations for CD have been timed using iTunes.
+Limited to 6000 copies.
+
+Recorded between March 2014 + August 2016.
+"Say Something Loving" contains a sample of the recording 'Do You Feel It' as performed by Alessi. Used courtesy of A&M Records. Under license from Universal Music Enterprises. Used by permission. All rights reserved. This composition contains elements from 'Do You Feel It' by Bobby & Billy Alessi. Published by Alessi Music / The Royalty Network Inc & Bucks Music Group Limited. Also contains homage to 'The Sweetest Taboo' (Sade Adu / Martin Ditchum) published by Angel Music Ltd. / Sony / ATV Music Publishing.
+"Lips" contains a sample from 'Just (After Song Of Songs)' performed by Trio Mediaeval, Garth Knox, Agnès Vestermann And Sylvain Lemêtre. Recording Louth Contemporary Music, www.Louthcms.Org. Music and text - David Lang. Publisher: Red Poppy, Ltd.
+"On Hold" contains a sample from 'I Can't Go For That (No Can Do)' as recorded by Daryl Hall & John Oates. Used courtesy of Sony Music Entertainment. Written by S. Allen, D. Hall, J. Oates © 1981. Published by Geomantic Music (BMI) / Hot Cha Music Co. (BMI) Admin By BMG Rights Management (UK) Ltd. / Unichappell Music Inc. Admin By Warner / Chappell North America Ltd.
+
+Stella Mozgawa appears courtesy of Rough Trade Records.
+
+Track durations for CD have been timed using iTunes.

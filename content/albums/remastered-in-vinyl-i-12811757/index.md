@@ -2,7 +2,7 @@
 title: "Kate Bush - Remastered In Vinyl I"
 artist: "Kate Bush"
 album_name: "Remastered In Vinyl I"
-date: 2018-11-17
+date: 2018-11-17T10:46:15.000000Z
 release_id: "12811757"
 slug: "remastered-in-vinyl-i-12811757"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Kick Inside
 2. Moving
@@ -63,6 +64,9 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 47. Houdini
 48. Get Out Of My House
 
+
+
+
 ## Videos
 {{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}
 
@@ -71,8 +75,10 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Kate Bush - Remastered In Vinyl I](https://www.discogs.com/release/12811757-Kate-Bush-Remastered-In-Vinyl-I) |
-| Label          | Fish People, Parlophone |
-| Format         | LP, Album, M/Print, RE, RM + LP, Album, RE, RM, Ga |
+| Label          | Fish People |
+| Format         | Vinyl LP Album Misprint Reissue Remastered, Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered, Box Set Compilation (180 Gram) |
 | Catalog Number | 0190295593964 |
 
-4 x remastered LP release in stickered card box.  'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'.
+4 x remastered LP release in stickered card box.
+
+'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'.

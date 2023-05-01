@@ -2,7 +2,7 @@
 title: "Jouis - Dojo"
 artist: "Jouis"
 album_name: "Dojo"
-date: 2017-11-20
+date: 2017-11-20T14:15:28.000000Z
 release_id: "6278453"
 slug: "dojo-6278453"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. All That Is And Is One
 2. L∞p
@@ -23,8 +24,12 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 7. Misty Maker Stomp
 8. Rain
 9. Universe Goggles
+
+
 ## Spotify
 {{< spotify type="album" id="5iiAPWKhtg9WcJq7PFuW7N" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zsoss5XuRLM" title="Jouis ► Universe Goggles [HQ Audio] Dojo 2014" >}}
@@ -42,7 +47,7 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Jouis - Dojo](https://www.discogs.com/release/6278453-Jouis-Dojo) |
 | Label          | Beetroot |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | BR 001 |
 
 All music & lyrics written by Jouis

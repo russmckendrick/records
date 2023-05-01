@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - The Beast Inside"
 artist: "Inspiral Carpets"
 album_name: "The Beast Inside"
-date: 2021-11-22
+date: 2021-11-22T01:21:57.000000Z
 release_id: "21038797"
 slug: "the-beast-inside-21038797"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Caravan
 2. Please Be Cruel
@@ -25,8 +26,12 @@ styles: ["Indie Pop"]
 9. Mermaid
 10. Further Away
 11. Dreams Are All We Have
+
+
 ## Spotify
 {{< spotify type="album" id="5Iv8JZCiHflefOwvkEXOqx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lxGkMeS-5eI" title="Inspiral Carpets - Caravan" >}}
@@ -45,8 +50,13 @@ styles: ["Indie Pop"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Inspiral Carpets - The Beast Inside](https://www.discogs.com/release/21038797-Inspiral-Carpets-The-Beast-Inside) |
-| Label          | Mute, BMG, Cow |
-| Format         | 2xLP, Album, Ltd, RE, Pur |
+| Label          | Mute |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
 | Catalog Number | Ldung14 |
 
-Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).  Single jacket sleeve with two printed innersleeves. Tracks listed sequentially on side labels.  "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."
+Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).
+
+Single jacket sleeve with two printed innersleeves.
+Tracks listed sequentially on side labels.
+
+"for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."

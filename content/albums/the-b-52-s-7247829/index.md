@@ -2,7 +2,7 @@
 title: "The B-52's - The B-52's"
 artist: "The B-52's"
 album_name: "The B-52's"
-date: 2016-09-14
+date: 2016-09-14T17:01:12.000000Z
 release_id: "7247829"
 slug: "the-b-52-s-7247829"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. Planet Claire (4:35)
 2. 52 Girls (3:34)
@@ -23,8 +24,12 @@ styles: ["New Wave"]
 7. Hero Worship (4:07)
 8. 6060-842 (2:48)
 9. Downtown (2:57)
+
+
 ## Spotify
 {{< spotify type="album" id="3eXETk1esvZPRluDCWH3GN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="n4QSYx4wVQg" title="The B-52's - Rock Lobster (Official Music Video)" >}}
@@ -37,7 +42,7 @@ styles: ["New Wave"]
 | Release Year   | 2015 |
 | Discogs Link   | [The B-52's - The B-52's](https://www.discogs.com/release/7247829-The-B-52s-The-B-52s) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 gram, Audiophile Pressing) |
 | Catalog Number | MOVLP1420 |
 
 Black vinyl. Insert with lyric included.

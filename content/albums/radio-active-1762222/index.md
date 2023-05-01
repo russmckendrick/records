@@ -2,7 +2,7 @@
 title: "Various - Radio Active"
 artist: "Various"
 album_name: "Radio Active"
-date: 2015-09-16
+date: 2015-09-16T18:57:14.000000Z
 release_id: "1762222"
 slug: "radio-active-1762222"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 ---
+
 ## Tracklisting
 1. D.I.S.C.O.
 2. Amigo
@@ -34,8 +35,12 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 18. Unlock The Funk
 19. You Gotta Be A Hustler
 20. I Think It's Gonna Rain
+
+
 ## Spotify
 {{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="c-NmtskiSzo" title="Radio Active (Face A) (1980)" >}}
@@ -66,7 +71,10 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 | Release Year   | 1980 |
 | Discogs Link   | [Various - Radio Active](https://www.discogs.com/release/1762222-Various-Radio-Active) |
 | Label          | Ronco |
-| Format         | LP, Comp, Lyn |
+| Format         | Vinyl LP Compilation (Lyntone Pressing) |
 | Catalog Number | RTL 2049 |
 
-Subtitled "20 Electric Hits"  Track B5 title shortened to 'Lies' on sleeve tracklist. 
+Subtitled "20 Electric Hits"
+
+Track B5 title shortened to 'Lies' on sleeve tracklist.
+

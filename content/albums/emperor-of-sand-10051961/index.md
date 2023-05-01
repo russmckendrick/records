@@ -2,7 +2,7 @@
 title: "Mastodon - Emperor Of Sand"
 artist: "Mastodon"
 album_name: "Emperor Of Sand"
-date: 2017-04-02
+date: 2017-04-02T12:57:37.000000Z
 release_id: "10051961"
 slug: "emperor-of-sand-10051961"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Sludge Metal"]
 ---
+
 ## Tracklisting
 1. Sultan's Curse (4:09)
 2. Show Yourself (3:02)
@@ -25,8 +26,12 @@ styles: ["Progressive Metal", "Sludge Metal"]
 9. Andromeda (4:03)
 10. Scorpion Breath  (3:18)
 11. Jaguar God (7:56)
+
+
 ## Spotify
 {{< spotify type="album" id="1VzmKgEG38fsUBZVe15wuF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather [Official Music Video]" >}}
@@ -39,8 +44,26 @@ styles: ["Progressive Metal", "Sludge Metal"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Mastodon - Emperor Of Sand](https://www.discogs.com/release/10051961-Mastodon-Emperor-Of-Sand) |
-| Label          | Reprise Records, Reprise Records, Reprise Records |
-| Format         | 2xLP, Album, 180 |
-| Catalog Number | 9362-49140-5, 558742-1, 1-558742 |
+| Label          | Reprise Records |
+| Format         | Vinyl 2× LP Album (180 g) |
+| Catalog Number | 9362-49140-5 |
 
-180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.  1st catalog number on spine. 2nd catalog number on side A & C labels. 3rd catalog number on runout grooves.  All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.  Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA. Mixed at Henson Recording Studios, Hollywood, CA. Mastered at Casa de Amor, Atlanta, GA.  Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.  Printed on back cover: © ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.  Printed on side A & C labels: © ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1
+180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.
+
+1st catalog number on spine.
+2nd catalog number on side A & C labels.
+3rd catalog number on runout grooves.
+
+All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.
+
+Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA.
+Mixed at Henson Recording Studios, Hollywood, CA.
+Mastered at Casa de Amor, Atlanta, GA.
+
+Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.
+
+Printed on back cover:
+© ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.
+
+Printed on side A & C labels:
+© ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1

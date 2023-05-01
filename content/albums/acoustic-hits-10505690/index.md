@@ -2,7 +2,7 @@
 title: "The Cure - Acoustic Hits"
 artist: "The Cure"
 album_name: "Acoustic Hits"
-date: 2017-06-30
+date: 2017-06-30T17:50:08.000000Z
 release_id: "10505690"
 slug: "acoustic-hits-10505690"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ---
+
 ## Tracklisting
 1. Boys Don't Cry
 2. A Forest
@@ -34,13 +35,27 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 18. Just Say Yes
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Cure - Acoustic Hits](https://www.discogs.com/release/10505690-The-Cure-Acoustic-Hits) |
-| Label          | Fiction Records, Polydor |
-| Format         | 2xLP, Album, RE, RP, 180 |
+| Label          | Fiction Records |
+| Format         | Vinyl 2× LP Album Reissue Repress (180) |
 | Catalog Number | 572 634-0 |
 
-Black vinyl repress of the [picture disc](https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635) (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940]
+Black vinyl repress of the [url=https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635]picture disc[/url] (reissue) released in April 2017 as Record Store Day exclusive.
+Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.
+
+As on front sticker:
+"The Cure
+Acoustic Hits
+180gram Vinyl
+Contains download voucher
+572 634-0"
+
+Released in gatefold sleeve.
+
+Download Voucher: [r16766940]

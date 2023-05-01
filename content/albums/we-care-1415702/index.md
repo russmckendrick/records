@@ -2,7 +2,7 @@
 title: "Whale - We Care"
 artist: "Whale"
 album_name: "We Care"
-date: 2019-08-23
+date: 2019-08-23T14:14:24.000000Z
 release_id: "1415702"
 slug: "we-care-1415702"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 ---
+
 ## Tracklisting
 1. Kickin' (3:47)
 2. That's Where It's At (4:15)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 11. Young Dumb N' Full Of Cum (5:14)
 12. I'm Cold (8:25)
 13. Born To Raise Hell (1:13)
+
+
 ## Spotify
 {{< spotify type="album" id="3TgmBpNScivl2SxxEJkR4W" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2up7su7CeMU" title="Whale - Hobo Humpin Slobo Babe" >}}
@@ -43,8 +48,14 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 | ---------------| ----------- |
 | Release Year   | 1995 |
 | Discogs Link   | [Whale - We Care](https://www.discogs.com/release/1415702-Whale-We-Care) |
-| Label          | Virgin, Hut Recordings |
-| Format         | 2xLP, Album |
-| Catalog Number | 7243 8 40560 1 8, HUTLP 25 |
+| Label          | Virgin |
+| Format         | Vinyl 2× LP Album |
+| Catalog Number | 7243 8 40560 1 8 |
 
- Foil cover with die-cut black inner sleeves.  Made in England (on labels) Printed in UK (sticker)  
+
+Foil cover with die-cut black inner sleeves.
+
+Made in England (on labels)
+Printed in UK (sticker)
+
+

@@ -2,7 +2,7 @@
 title: "Jean-Michel Jarre - Rendez-Vous"
 artist: "Jean-Michel Jarre"
 album_name: "Rendez-Vous"
-date: 2017-06-14
+date: 2017-06-14T07:25:40.000000Z
 release_id: "228845"
 slug: "rendez-vous-228845"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Experimental", "Ambient"]
 ---
+
 ## Tracklisting
 1. First Rendez-vous (2:54)
 2. Second Rendez-vous (10:55)
@@ -20,8 +21,12 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 4. Fourth Rendez-vous (3:57)
 5. Fifth Rendez-vous (7:41)
 6. Last Rendez-vous: "Ron's Piece" (6:04)
+
+
 ## Spotify
 {{< spotify type="album" id="3YrKqMhEdhdvS3BrmKurFr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qcf3eGVPlZE" title="Jean Michel Jarre - Rendez Vous" >}}
@@ -38,8 +43,13 @@ styles: ["Leftfield", "Experimental", "Ambient"]
 | ---------------| ----------- |
 | Release Year   | 1986 |
 | Discogs Link   | [Jean-Michel Jarre - Rendez-Vous](https://www.discogs.com/release/228845-Jean-Michel-Jarre-Rendez-Vous) |
-| Label          | Polydor, Polydor |
-| Format         | LP, Album |
-| Catalog Number | POLH 27, 829 125-1 |
+| Label          | Polydor |
+| Format         | Vinyl LP Album |
+| Catalog Number | POLH 27 |
 
-Ron McNair's part played by Pierre Gossez. The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.  The label carries the catalogue number POLH 27 as well as (829 125-1).  Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.
+Ron McNair's part played by Pierre Gossez.
+The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.
+
+The label carries the catalogue number POLH 27 as well as (829 125-1).
+
+Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.

@@ -2,7 +2,7 @@
 title: "Talk Talk - The Colour Of Spring"
 artist: "Talk Talk"
 album_name: "The Colour Of Spring"
-date: 2016-10-11
+date: 2016-10-11T16:25:06.000000Z
 release_id: "3616436"
 slug: "the-colour-of-spring-3616436"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Happiness Is Easy
 2. I Don't Believe In You
@@ -31,8 +32,12 @@ styles: ["Pop Rock", "Experimental"]
 15. Chameleon Day
 16. Time It's Time
 17. It's Getting Late In The Evening
+
+
 ## Spotify
 {{< spotify type="album" id="70V1kL7w7Q9pDU4I6zDjYE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="OsEgxsyUn2c" title="Talk Talk - Give It Up" >}}
@@ -51,7 +56,18 @@ styles: ["Pop Rock", "Experimental"]
 | Release Year   | 2012 |
 | Discogs Link   | [Talk Talk - The Colour Of Spring](https://www.discogs.com/release/3616436-Talk-Talk-The-Colour-Of-Spring) |
 | Label          | EMI |
-| Format         | LP, Album, RE, 180 + DVD-V, Album, RE, NTSC |
+| Format         | Vinyl LP Album Reissue Stereo (180g), DVD DVD-Video NTSC Album Reissue Stereo |
 | Catalog Number | EMCX 3506 |
 
-This reissue set includes: - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".  Made in the E.U.  A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels.
+This reissue set includes:
+- a heavyweight 180gm vinyl LP pressing.
+- an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.
+
+The LP is housed in a regular spined sleeve including an inner bag with lyrics.
+The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.
+
+The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".
+
+Made in the E.U.
+
+A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels.

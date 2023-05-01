@@ -2,7 +2,7 @@
 title: "Frank Turner - Songbook"
 artist: "Frank Turner"
 album_name: "Songbook"
-date: 2017-12-27
+date: 2017-12-27T13:37:44.000000Z
 release_id: "11275632"
 slug: "songbook-11275632"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. Four Simple Words (4:57)
 2. I Still Believe (3:46)
@@ -43,8 +44,11 @@ styles: ["Folk Rock"]
 27. Broken Piano (5:33)
 28. Long Live The Queen (3:42)
 29. The Ballad Of Me And My Friends (3:00)
+
+
 ## Spotify
 {{< spotify type="album" id="59XmOOWGNhybRV8B0PsFlH" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -52,8 +56,9 @@ styles: ["Folk Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Frank Turner - Songbook](https://www.discogs.com/release/11275632-Frank-Turner-Songbook) |
-| Label          | Xtra Mile Recordings, Polydor |
-| Format         | 3xLP, Comp |
+| Label          | Xtra Mile Recordings |
+| Format         | Vinyl 3× LP Compilation |
 | Catalog Number | 6700056 |
 
- 
+
+

@@ -2,7 +2,7 @@
 title: "Various - Hackers (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "Hackers (Original Motion Picture Soundtrack)"
-date: 2020-09-29
+date: 2020-09-29T11:56:37.000000Z
 release_id: "15928841"
 slug: "hackers-original-motion-picture-soundtrack-15928841"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "Ambient", "Electro"]
 ---
+
 ## Tracklisting
 1. Side :/
 2. Halcyon On And On (9:31)
@@ -32,6 +33,9 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 16. Grand Central Station (3:10)
 17. Heaven Knows (4:37)
 
+
+
+
 ## Videos
 {{< youtube id="e7qtHLVgUi4" title="Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)" >}}
 - [Squeeze - Heaven Knows (Official Promo Video)](https://www.youtube.com/watch?v=cmW9UiiCETQ)
@@ -46,7 +50,11 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 | Release Year   | 2020 |
 | Discogs Link   | [Various - Hackers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15928841-Various-Hackers-Original-Motion-Picture-Soundtrack) |
 | Label          | Varèse Sarabande |
-| Format         | 2xLP, RSD, Comp, Ltd, 25t |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (25th Anniversary Edition) |
 | Catalog Number | VSD00206 |
 
-Record Store Day exclusive release, part of the September 26th, 2020 drop.   Limited to 2500 copies in a gatefold jacket.  Made in the EU.
+Record Store Day exclusive release, part of the September 26th, 2020 drop. 
+
+Limited to 2500 copies in a gatefold jacket.
+
+Made in the EU.

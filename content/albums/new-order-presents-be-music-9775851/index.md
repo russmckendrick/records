@@ -2,7 +2,7 @@
 title: "Various - New Order Presents Be Music"
 artist: "Various"
 album_name: "New Order Presents Be Music"
-date: 2017-02-22
+date: 2017-02-22T18:01:08.000000Z
 release_id: "9775851"
 slug: "new-order-presents-be-music-9775851"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 ---
+
 ## Tracklisting
 1. Can't Afford (6:54)
 2. Looking From A Hilltop (Megamix) (8:09)
@@ -27,6 +28,9 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 11. Daggers (Remix) (5:30)
 12. Oh Men (02 Remix) (6:37)
 
+
+
+
 ## Videos
 {{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter [Stephen Morris Remix]" >}}
 - [Motherland](https://www.youtube.com/watch?v=oS9IUVolNwg)
@@ -37,7 +41,9 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 | Release Year   | 2017 |
 | Discogs Link   | [Various - New Order Presents Be Music](https://www.discogs.com/release/9775851-Various-New-Order-Presents-Be-Music) |
 | Label          | Factory Benelux |
-| Format         | 2xLP, Comp, RM |
+| Format         | Vinyl 2× LP Compilation Remastered |
 | Catalog Number | FBN 60 |
 
-A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016. ℗ + © 2017 Factory Benelux. Printed & manufactured in Belgium.
+A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016.
+℗ + © 2017 Factory Benelux.
+Printed & manufactured in Belgium.

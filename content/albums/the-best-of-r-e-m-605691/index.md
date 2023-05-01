@@ -2,7 +2,7 @@
 title: "R.E.M. - The Best Of R.E.M."
 artist: "R.E.M."
 album_name: "The Best Of R.E.M."
-date: 2018-11-29
+date: 2018-11-29T12:43:43.000000Z
 release_id: "605691"
 slug: "the-best-of-r-e-m-605691"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Us
 2. Carnival Of Sorts (Boxcars) (3:51)
@@ -30,17 +31,12 @@ styles: ["Pop Rock"]
 14. The One I Love (3:17)
 15. Finest Worksong (3:48)
 16. It's The End Of The World As We Know It (And I Feel Fine) (4:07)
+
+
 ## Spotify
 {{< spotify type="album" id="3UvVHQ31PhSMtI2GIS91Lz" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="lf6vCjtaV1k" title="R.E.M. - Fall On Me" >}}
-- [R.E.M. - Finest Worksong](https://www.youtube.com/watch?v=559eWB93jW4)
-- [R.E.M. - Orange Crush (Official Music Video)](https://www.youtube.com/watch?v=_mSmOcmk7uQ)
-- [R.E.M. - Drive (Official Music Video)](https://www.youtube.com/watch?v=-UE7tXDKIus)
-- [R.E.M.  Radio Free Europe video original version](https://www.youtube.com/watch?v=MKVyCjit1AE)
-- [R.E.M. - Can't Get There From Here](https://www.youtube.com/watch?v=gD3cYh5Pp1I)
-- [R.E.M. - Perfect Circle](https://www.youtube.com/watch?v=4jkRr4-ldz0)
+
 
 ## Notes
 | Notes          |             |
@@ -48,7 +44,12 @@ styles: ["Pop Rock"]
 | Release Year   | 1991 |
 | Discogs Link   | [R.E.M. - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |
 | Label          | I.R.S. Records |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | MIRH 1 |
 
-Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.  Track A1 titled "Carnival Of Sorts" on the back cover.  This compilation: ℗ 1991 International Record Syndicate, Inc. © 1991 International Record Syndicate, Inc.
+Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.
+
+Track A1 titled "Carnival Of Sorts" on the back cover.
+
+This compilation: ℗ 1991 International Record Syndicate, Inc.
+© 1991 International Record Syndicate, Inc.

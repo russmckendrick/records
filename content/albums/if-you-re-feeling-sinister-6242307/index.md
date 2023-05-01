@@ -2,7 +2,7 @@
 title: "Belle & Sebastian - If You're Feeling Sinister"
 artist: "Belle & Sebastian"
 album_name: "If You're Feeling Sinister"
-date: 2017-04-25
+date: 2017-04-25T08:35:04.000000Z
 release_id: "6242307"
 slug: "if-you-re-feeling-sinister-6242307"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Stars Of Track And Field (4:48)
 2. Seeing Other People (3:48)
@@ -24,8 +25,12 @@ styles: ["Indie Rock"]
 8. Mayfly (3:42)
 9. The Boy Done Wrong Again (4:17)
 10. Judy And The Dream Of Horses (3:40)
+
+
 ## Spotify
 {{< spotify type="album" id="0cR6FGQSOUDEwwapI7yfQZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}
@@ -39,7 +44,13 @@ styles: ["Indie Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Belle & Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/6242307-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |
 | Label          | Jeepster Recordings |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | JPRLP001 |
 
-Gatefold sleeve  Reissue with an alternative code etched into the matrix. Made in EU. Includes free download of entire album. Includes a PVC protective outer sleeve. Includes obi.
+Gatefold sleeve
+
+Reissue with an alternative code etched into the matrix.
+Made in EU.
+Includes free download of entire album.
+Includes a PVC protective outer sleeve.
+Includes obi.

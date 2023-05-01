@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Architecture & Morality"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Architecture & Morality"
-date: 2018-11-03
+date: 2018-11-03T09:51:44.000000Z
 release_id: "12747035"
 slug: "architecture-morality-12747035"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The New Stone Age
 2. She's Leaving
@@ -23,8 +24,12 @@ styles: ["Synth-pop"]
 7. Architecture & Morality
 8. Georgia
 9. The Beginning And The End
+
+
 ## Spotify
 {{< spotify type="album" id="6bR98XzGnklTORDvZ7Oc2i" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XDIYOiQUi2s" title="Orchestral Manoeuvres In The Dark - Souvenir" >}}
@@ -45,7 +50,16 @@ styles: ["Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Architecture & Morality](https://www.discogs.com/release/12747035-Orchestral-Manoeuvres-In-The-Dark-Architecture-Morality) |
 | Label          | Virgin EMI Records |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | 0602557050820 |
 
-Half Speed Mastered at Abbey Road Studios Includes Digital Download Card  Pre-recorded at The Gramophone Suite (Liverpool, England).  Choral tapes on "Souvenir" courtesy of David Hughes. Title suggested by M. Ladly from a book by David Watkin. Produced and created for White Noise Ltd. and on behalf of Architettura Industria.  © 2018 Virgin Records  Ltd.
+Half Speed Mastered at Abbey Road Studios
+Includes Digital Download Card
+
+Pre-recorded at The Gramophone Suite (Liverpool, England).
+
+Choral tapes on "Souvenir" courtesy of David Hughes.
+Title suggested by M. Ladly from a book by David Watkin.
+Produced and created for White Noise Ltd. and on behalf of Architettura Industria.
+
+© 2018 Virgin Records  Ltd.

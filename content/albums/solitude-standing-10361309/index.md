@@ -2,7 +2,7 @@
 title: "Suzanne Vega - Solitude Standing"
 artist: "Suzanne Vega"
 album_name: "Solitude Standing"
-date: 2017-07-02
+date: 2017-07-02T11:14:01.000000Z
 release_id: "10361309"
 slug: "solitude-standing-10361309"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Tom's Diner (2:08)
 2. Luka (3:51)
@@ -25,17 +26,21 @@ styles: ["Pop Rock"]
 9. Gypsy (4:01)
 10. Wooden Horse (Caspar Hauser's Song) (5:09)
 11. Tom's Diner (Reprise) (2:39)
+
+
 ## Spotify
 {{< spotify type="album" id="5w4IN5bPXAQD5iAVPNqvMg" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="L9x-DENKIts" title="Tom's Diner" >}}
-- [Suzanne Vega - Wooden Horse (Caspar Hauser's Song) (1987 European Vinyl)](https://www.youtube.com/watch?v=I_tEHqfvroA)
-- [Suzanne Vega - Luka](https://www.youtube.com/watch?v=VZt7J0iaUD0)
+{{< youtube id="VZt7J0iaUD0" title="Suzanne Vega - Luka" >}}
 - [Ironbound / Fancy Poultry](https://www.youtube.com/watch?v=wnV-DPmrkLk)
+- [Suzanne Vega - Solitude Standing](https://www.youtube.com/watch?v=05AHPFPpHIM)
+- [Suzanne Vega - Wooden Horse (Caspar Hauser's Song) (1987 European Vinyl)](https://www.youtube.com/watch?v=I_tEHqfvroA)
+- [Tom's Diner](https://www.youtube.com/watch?v=L9x-DENKIts)
 - [In The Eye](https://www.youtube.com/watch?v=tXwmeEZPl0Y)
 - [Night Vision](https://www.youtube.com/watch?v=wsso9MAHYoc)
-- [Suzanne Vega - Solitude Standing](https://www.youtube.com/watch?v=05AHPFPpHIM)
 - [Calypso](https://www.youtube.com/watch?v=I8ExnrHJRUA)
 - [Language](https://www.youtube.com/watch?v=kISZKZqjUs4)
 - [Gypsy](https://www.youtube.com/watch?v=1kOG4FVuqG8)
@@ -48,7 +53,8 @@ styles: ["Pop Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Suzanne Vega - Solitude Standing](https://www.discogs.com/release/10361309-Suzanne-Vega-Solitude-Standing) |
 | Label          | A&M Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | B0026079-01 |
 
-2017 reissue. Black vinyl. MASTERED BY CAPITOL stamped on Side A only.
+2017 reissue. Black vinyl.
+MASTERED BY CAPITOL stamped on Side A only.

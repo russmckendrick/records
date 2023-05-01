@@ -2,7 +2,7 @@
 title: "The Beloved - Happiness"
 artist: "The Beloved"
 album_name: "Happiness"
-date: 2020-08-26
+date: 2020-08-26T09:04:49.000000Z
 release_id: "15725640"
 slug: "happiness-15725640"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["House", "Synth-pop", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Hello
 2. Your Love Takes Me Higher
@@ -24,8 +25,12 @@ styles: ["House", "Synth-pop", "Downtempo"]
 8. Wake Up Soon
 9. Up, Up And Away
 10. Found
+
+
 ## Spotify
 {{< spotify type="album" id="3cGR7Z78GMRPXetD6cFGjG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Y-uevW8RdiM" title="Hello (Remastered)" >}}
@@ -50,7 +55,9 @@ styles: ["House", "Synth-pop", "Downtempo"]
 | Release Year   | 2020 |
 | Discogs Link   | [The Beloved - Happiness](https://www.discogs.com/release/15725640-The-Beloved-Happiness) |
 | Label          | New State Music |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Catalog Number | NEW9239LP |
 
-Signed copies were available via Recordstore.co.uk  ‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release.
+Signed copies were available via Recordstore.co.uk
+
+‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release.

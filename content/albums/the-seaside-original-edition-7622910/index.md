@@ -2,7 +2,7 @@
 title: "Cardiacs - The Seaside (Original Edition)"
 artist: "Cardiacs"
 album_name: "The Seaside (Original Edition)"
-date: 2016-08-26
+date: 2016-08-26T16:30:24.000000Z
 release_id: "7622910"
 slug: "the-seaside-original-edition-7622910"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock"]
 ---
+
 ## Tracklisting
 1. Jibber And Twitch
 2. Gena Lolla Brigida
@@ -27,6 +28,9 @@ styles: ["Art Rock"]
 11. Ice A Spot And A Dot On The Dog
 12. R.E.S.
 13. To Go Off And Things
+
+
+
 
 ## Videos
 {{< youtube id="OxhuQWKwbqY" title="Cardiacs -  Jibber and Twitch rehearsal" >}}
@@ -43,8 +47,16 @@ styles: ["Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Cardiacs - The Seaside (Original Edition)](https://www.discogs.com/release/7622910-Cardiacs-The-Seaside-Original-Edition) |
-| Label          | Alphabet |
-| Format         | 2xLP, Album, RM |
+| Label          | Alphabet (3) |
+| Format         | Vinyl 2× LP Album Remastered |
 | Catalog Number | ALPH LP 001 |
 
-2015 remastered "Original Edition"  Remastered from the original tapes with all 13 original tracks restored and committed to heavy double vinyl. Lovingly recreated artwork with unseen photography in gatefold format. Download voucher includes three alternate version of 'Gena Lolla Brigida', 'Hope Day' and 'Jibber and Twitch' from the 1995 reissue.   Originally released in 1984 as [ALPH 001](http://www.discogs.com/Cardiacs-The-Seaside/release/4391932) Record at Crow Studios, Surbition, Surrey, England. Transferred from the original analogue tapes at FX Copyroom. Remastered at Golden Digital No 1 Studio, Prague, July 2015.   © 1984 The Alphabet Business Concern. 
+2015 remastered "Original Edition" 
+Remastered from the original tapes with all 13 original tracks restored and committed to heavy double vinyl. Lovingly recreated artwork with unseen photography in gatefold format. Download voucher includes three alternate version of 'Gena Lolla Brigida', 'Hope Day' and 'Jibber and Twitch' from the 1995 reissue. 
+
+Originally released in 1984 as [url=http://www.discogs.com/Cardiacs-The-Seaside/release/4391932]ALPH 001[/url]
+Record at Crow Studios, Surbition, Surrey, England.
+Transferred from the original analogue tapes at FX Copyroom.
+Remastered at Golden Digital No 1 Studio, Prague, July 2015.
+
+ © 1984 The Alphabet Business Concern. 

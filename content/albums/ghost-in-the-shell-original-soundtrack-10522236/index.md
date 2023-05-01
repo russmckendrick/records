@@ -2,7 +2,7 @@
 title: "Kenji Kawai - Ghost In The Shell (Original Soundtrack)"
 artist: "Kenji Kawai"
 album_name: "Ghost In The Shell (Original Soundtrack)"
-date: 2017-07-14
+date: 2017-07-14T19:20:57.000000Z
 release_id: "10522236"
 slug: "ghost-in-the-shell-original-soundtrack-10522236"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ---
+
 ## Tracklisting
 1. M01 謡I - Making Of Cyborg
 2. M02 Ghosthack (本編未使用)
@@ -27,6 +28,9 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 11. Bonus 7"
 12. 挿入歌 毎天見一見! (See You Everyday) 
 
+
+
+
 ## Videos
 {{< youtube id="ceBW3RbrL0E" title="Ghost In The Shell (1995) OST" >}}
 - [M01 Chant I - Making of Cyborg - Kenji Kawai (Ghost in the Shell Soundtrack)](https://www.youtube.com/watch?v=iTPNaUsjksM)
@@ -39,7 +43,12 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 | Release Year   | 2017 |
 | Discogs Link   | [Kenji Kawai - Ghost In The Shell (Original Soundtrack)](https://www.discogs.com/release/10522236-Kenji-Kawai-Ghost-In-The-Shell-Original-Soundtrack) |
 | Label          | We Release Whatever The Fuck We Want Records |
-| Format         | LP + 7\", S/Sided + Album, Ltd, M/Print, RE |
+| Format         | Vinyl LP, Vinyl 7" 45 RPM Single Sided, All Media Album Limited Edition Misprint Reissue Stereo |
 | Catalog Number | WRWTFWW017LTD |
 
-Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing. Version with correct printed obi strip: [r10806721].  Hype sticker reads: "First official release on vinyl."  Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet.
+Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing.
+Version with correct printed obi strip: [r10806721].
+
+Hype sticker reads: "First official release on vinyl."
+
+Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet.

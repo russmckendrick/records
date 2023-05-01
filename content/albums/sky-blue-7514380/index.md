@@ -2,7 +2,7 @@
 title: "Devin Townsend Project - Sky Blue"
 artist: "Devin Townsend Project"
 album_name: "Sky Blue"
-date: 2016-05-03
+date: 2016-05-03T16:18:38.000000Z
 release_id: "7514380"
 slug: "sky-blue-7514380"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Sky Blue by Devin Townsend Project"
     caption: "Sky Blue by Devin Townsend Project"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Rejoice
 2. Fallout
@@ -39,6 +40,9 @@ styles: null
 23. Before We Die
 24. The Ones Who Love
 
+
+
+
 ## Videos
 {{< youtube id="PRFHR19EW34" title="Devin Townsend - Sky Blue" >}}
 - [DEVIN TOWNSEND PROJECT - Rejoice (Lyric Video)](https://www.youtube.com/watch?v=pCNx6vs7c2Y)
@@ -55,8 +59,16 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Devin Townsend Project - Sky Blue](https://www.discogs.com/release/7514380-Devin-Townsend-Project-Sky-Blue) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | 2xLP, Album + CD, Album |
-| Catalog Number | IOMLP 423, 0507231 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album, CD Album |
+| Catalog Number | IOMLP 423 |
 
-180g vinyl in gatefold sleeve. Printed Inner Sleeve w/lyrics  www.insideoutmusic.com FACTOR Canada  © 2015 HevyDevy Records and ℗ 2014 HevyDevy Records.  Made in Germany - Century Media Records Ltd. /85-87 Bayham Street / Camden / London NW1 0AG / England  We Acknowledge the financial support of the Government of Canada through the Department of Canadian Heritage (Canada Music Fund) and of Canada's Private Radio Broadcaster's
+180g vinyl in gatefold sleeve. Printed Inner Sleeve w/lyrics
+
+www.insideoutmusic.com FACTOR Canada
+
+© 2015 HevyDevy Records and ℗ 2014 HevyDevy Records.
+
+Made in Germany - Century Media Records Ltd. /85-87 Bayham Street / Camden / London NW1 0AG / England
+
+We Acknowledge the financial support of the Government of Canada through the Department of Canadian Heritage (Canada Music Fund) and of Canada's Private Radio Broadcaster's

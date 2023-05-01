@@ -2,7 +2,7 @@
 title: "Stereolab - Peng!"
 artist: "Stereolab"
 album_name: "Peng!"
-date: 2018-11-09
+date: 2018-11-09T19:15:17.000000Z
 release_id: "12767245"
 slug: "peng-12767245"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Experimental", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Super Falling Star
 2. Orgiastic
@@ -25,8 +26,12 @@ styles: ["Experimental", "Indie Rock"]
 9. Enivrez-Vous
 10. Stomach Worm
 11. Surrealchemist
+
+
 ## Spotify
 {{< spotify type="album" id="2YCKr94Hh3qjNoFfJO2pJb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UMqB3817qNU" title="Super Falling Star (2018 Remaster)" >}}
@@ -47,7 +52,14 @@ styles: ["Experimental", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Stereolab - Peng!](https://www.discogs.com/release/12767245-Stereolab-Peng) |
 | Label          | Too Pure |
-| Format         | LP, Album, RE, RM, Cle |
+| Format         | Vinyl LP Album Reissue Remastered (Clear) |
 | Catalog Number | PURE11LPX |
 
-Recorded - London April 1992 Re-mastered [...] @ Calyx, Berlin Published by Complete Music / Domino Publ. Co. Ltd Original sound recording made by Too Pure, London  ℗ & © 1992 Too Pure  Includes a double-sided insert with lyrics and liner notes discussing the album.
+Recorded - London April 1992
+Re-mastered [...] @ Calyx, Berlin
+Published by Complete Music / Domino Publ. Co. Ltd
+Original sound recording made by Too Pure, London
+
+℗ & © 1992 Too Pure
+
+Includes a double-sided insert with lyrics and liner notes discussing the album.

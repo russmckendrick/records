@@ -2,7 +2,7 @@
 title: "Peter Gabriel - Up"
 artist: "Peter Gabriel"
 album_name: "Up"
-date: 2016-12-08
+date: 2016-12-08T18:44:51.000000Z
 release_id: "9473463"
 slug: "up-9473463"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Up by Peter Gabriel"
     caption: "Up by Peter Gabriel"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Darkness
 2. Growing Up
@@ -24,8 +25,12 @@ styles: null
 8. More Than This
 9. Signal To Noise
 10. The Drop
+
+
 ## Spotify
 {{< spotify type="album" id="4F0XQZmn3DRkA7DBm793zw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="r1JPO91IpV4" title="Darkness" >}}
@@ -47,8 +52,19 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Peter Gabriel - Up](https://www.discogs.com/release/9473463-Peter-Gabriel-Up) |
-| Label          | Real World Records, Caroline International |
-| Format         | 2xLP, Album, RE, RM, 180 |
-| Catalog Number | PGLPR11, 884108004579 |
+| Label          | Real World Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Catalog Number | PGLPR11 |
 
-33 ⅓ Half-Speed Remaster. Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.  On labels and sleeve back: ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.   In booklet: ℗ © 2016 Peter Gabriel Ltd.  Manufactured in the EU.  Runouts: "PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped.
+33 ⅓ Half-Speed Remaster.
+Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.
+
+On labels and sleeve back:
+℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd. 
+
+In booklet:
+℗ © 2016 Peter Gabriel Ltd. 
+Manufactured in the EU.
+
+Runouts:
+"PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped.

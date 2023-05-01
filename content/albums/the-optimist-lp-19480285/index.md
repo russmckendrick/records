@@ -2,7 +2,7 @@
 title: "Turin Brakes - The Optimist LP"
 artist: "Turin Brakes"
 album_name: "The Optimist LP"
-date: 2021-07-14
+date: 2021-07-14T10:54:43.000000Z
 release_id: "19480285"
 slug: "the-optimist-lp-19480285"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Feeling Oblivion (3:43)
 2. Underdog (Save Me) (3:34)
@@ -38,8 +39,12 @@ styles: ["Folk Rock", "Pop Rock"]
 22. The Road (Demo)
 23. Mind Over Money (Demo)
 24. The Optimist (Demo)
+
+
 ## Spotify
 {{< spotify type="album" id="49OTnZwTrJYLD23gcI3B3N" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zqoteSksoDQ" title="The Optimist" >}}
@@ -61,8 +66,12 @@ styles: ["Folk Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Turin Brakes - The Optimist LP](https://www.discogs.com/release/19480285-Turin-Brakes-The-Optimist-LP) |
-| Label          | Two Piers Records, Two Piers Records |
-| Format         | 2xLP, Album, Ltd, RE, Amb |
-| Catalog Number | BN1LPX, BN1LP |
+| Label          | Two Piers Records |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Amber Transparent) |
+| Catalog Number | BN1LPX |
 
-Back in print with refreshed artwork and bonus demos. 20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"  On sleeve: BN1LP On hype sticker: BN1LPX
+Back in print with refreshed artwork and bonus demos.
+20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"
+
+On sleeve: BN1LP
+On hype sticker: BN1LPX

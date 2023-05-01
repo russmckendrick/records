@@ -2,7 +2,7 @@
 title: "The Offspring - Smash"
 artist: "The Offspring"
 album_name: "Smash"
-date: 2017-10-28
+date: 2017-10-28T15:46:51.000000Z
 release_id: "10243726"
 slug: "smash-10243726"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Punk", "Hardcore"]
 ---
+
 ## Tracklisting
 1. Time To Relax
 2. Nitro [Youth Energy]
@@ -28,8 +29,12 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 12. So Alone
 13. Not The One
 14. Smash
+
+
 ## Spotify
 {{< spotify type="album" id="7IDywTRaCI8qzS3X8tNU3x" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1jOk8dk-qaU" title="The Offspring - Come Out And Play" >}}
@@ -56,7 +61,18 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Offspring - Smash](https://www.discogs.com/release/10243726-Offspring-Smash) |
 | Label          | Epitaph |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | 86868-1 |
 
-Tracks listed sequentially on labels and back cover.   Comes with a printed inner sleeve with song lyrics, Thanks and Credits. Sticker on front reads: "Digitally Remastered from the original master tape"  All Songs Written By The Offspring Additional recording at The Hook, North Hollywood All Rights Reserved. Used By Permission. Except Killboy Powerhead, published by Touch and Go Records.  1994,2008 Epitaph 2798 Sunset Blvd, Los Angeles, CA 90026
+Tracks listed sequentially on labels and back cover. 
+
+Comes with a printed inner sleeve with song lyrics, Thanks and Credits.
+Sticker on front reads: "Digitally Remastered from the original master tape"
+
+All Songs Written By The Offspring
+Additional recording at The Hook, North Hollywood
+All Rights Reserved. Used By Permission.
+Except Killboy Powerhead, published by Touch and Go Records.
+
+1994,2008 Epitaph
+2798 Sunset Blvd, Los Angeles, CA 90026

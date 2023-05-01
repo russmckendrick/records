@@ -2,7 +2,7 @@
 title: "Whitesnake - Greatest Hits"
 artist: "Whitesnake"
 album_name: "Greatest Hits"
-date: 2022-06-04
+date: 2022-06-04T02:27:42.000000Z
 release_id: "23335586"
 slug: "greatest-hits-23335586"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Still Of The Night (6:50)
 2. Here I Go Again (4:32)
@@ -30,8 +31,12 @@ styles: ["Hard Rock"]
 14. You're Gonna Break My Heart Again (4:16)
 15. Crying In The Rain (5:47)
 16. Forevermore (7:05)
+
+
 ## Spotify
 {{< spotify type="album" id="2BN4rnRFqSrJFm8Ugjzvrd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}
@@ -46,7 +51,5 @@ styles: ["Hard Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586-Whitesnake-Greatest-Hits) |
 | Label          | Warner Music Group |
-| Format         | 2xLP, Album, Comp, Ltd |
+| Format         | Vinyl 2× LP Album Compilation Limited Edition Stereo |
 | Catalog Number | 0190296457791 |
-
-

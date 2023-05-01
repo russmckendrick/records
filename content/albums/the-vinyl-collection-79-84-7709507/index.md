@@ -2,7 +2,7 @@
 title: "Simple Minds - The Vinyl Collection 79-84 "
 artist: "Simple Minds"
 album_name: "The Vinyl Collection 79-84 "
-date: 2016-01-31
+date: 2016-01-31T14:13:23.000000Z
 release_id: "7709507"
 slug: "the-vinyl-collection-79-84-7709507"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Vinyl Collection 79-84  by Simple Minds"
     caption: "The Vinyl Collection 79-84  by Simple Minds"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Life In A Day
 2. Someone
@@ -89,13 +90,13 @@ styles: null
 73. Shake Off The Ghosts
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Simple Minds - The Vinyl Collection 79-84 ](https://www.discogs.com/release/7709507-Simple-Minds-The-Vinyl-Collection-79-84-) |
 | Label          | Universal Music |
-| Format         | Box, Comp, Dlx, RM, 180 + LP, Album, RE + LP, Albu |
+| Format         | Box Set Compilation Deluxe Edition Remastered (180g), Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
 | Catalog Number | 4733760 |
-
-

@@ -2,7 +2,7 @@
 title: "Spiritualized - Songs In A&E"
 artist: "Spiritualized"
 album_name: "Songs In A&E"
-date: 2021-11-24
+date: 2021-11-24T09:53:23.000000Z
 release_id: "6458645"
 slug: "songs-in-a-e-6458645"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock"]
 ---
+
 ## Tracklisting
 1. Harmony 1 (Mellotron)
 2. Sweet Talk
@@ -32,8 +33,12 @@ styles: ["Alternative Rock", "Space Rock"]
 16. Borrowed Your Gun
 17. Harmony 6 (Glockenspiel)
 18. Goodnight Goodnight
+
+
 ## Spotify
 {{< spotify type="album" id="2sVtK7SzMhN1NRrTB42Vqo" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ncD2YXmCUeI" title="Baby I'm Just a Fool" >}}
@@ -45,8 +50,6 @@ styles: ["Alternative Rock", "Space Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Spiritualized - Songs In A&E](https://www.discogs.com/release/6458645-Spiritualized-Songs-In-AE) |
-| Label          | Sanctuary Records |
-| Format         | 2xLP, Album, Ltd, RE, Whi |
+| Label          | Sanctuary |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (White) |
 | Catalog Number | 1768732 |
-
-

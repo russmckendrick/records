@@ -2,7 +2,7 @@
 title: "Richard Hawley - Late Night Final"
 artist: "Richard Hawley"
 album_name: "Late Night Final"
-date: 2019-05-17
+date: 2019-05-17T18:27:28.000000Z
 release_id: "6196121"
 slug: "late-night-final-6196121"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Something Is...! (3:42)
 2. Baby You're My Light (2:56)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. Cry A Tear For The Man In The Moon (3:26)
 10. Long Black Train (4:13)
 11. The Light At The End Of The Tunnel (Was A Train Coming The Other Way) (4:54)
+
+
 ## Spotify
 {{< spotify type="album" id="135bIoJic8lP0osAK8mcYm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Msf2bU9MJmU" title="Something Is" >}}
@@ -47,7 +52,9 @@ styles: ["Alternative Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Richard Hawley - Late Night Final](https://www.discogs.com/release/6196121-Richard-Hawley-Late-Night-Final) |
 | Label          | Setanta |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | SETLP088 |
 
-Some signed copies were available on the 2016 tour.  ℗ & © Setanta Records Ltd, Made In UK
+Some signed copies were available on the 2016 tour. 
+℗ & © Setanta Records Ltd,
+Made In UK

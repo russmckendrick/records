@@ -2,7 +2,7 @@
 title: "Killing Joke - Pandemonium"
 artist: "Killing Joke"
 album_name: "Pandemonium"
-date: 2020-12-12
+date: 2020-12-12T03:13:20.000000Z
 release_id: "16417860"
 slug: "pandemonium-16417860"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Industrial", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Pandemonium (6:40)
 2. Exorcism (7:26)
@@ -24,8 +25,12 @@ styles: ["Industrial", "Heavy Metal"]
 8. Whiteout (5:43)
 9. Pleasures Of The Flesh (5:40)
 10. Mathematics Of Chaos (7:20)
+
+
 ## Spotify
 {{< spotify type="album" id="4d4VkyVcANJTlMysxPMM5D" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="skUUVejxDZc" title="Killing Joke - Pandemonium" >}}
@@ -45,7 +50,11 @@ styles: ["Industrial", "Heavy Metal"]
 | Release Year   | 2020 |
 | Discogs Link   | [Killing Joke - Pandemonium](https://www.discogs.com/release/16417860-Killing-Joke-Pandemonium) |
 | Label          | Spinefarm Records |
-| Format         | LP, Blu + LP, Cle + Album, RE |
+| Format         | Vinyl LP (Blue Transparent), Vinyl LP (Clear), All Media Album Reissue |
 | Catalog Number | SPINE511303 |
 
-Includes double-sided insert with lyrics, credits and new liner notes.  Features revised cover art.  
+Includes double-sided insert with lyrics, credits and new liner notes.
+
+Features revised cover art.
+
+

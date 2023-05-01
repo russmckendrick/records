@@ -2,7 +2,7 @@
 title: "Radiohead - Kid A"
 artist: "Radiohead"
 album_name: "Kid A"
-date: 2015-08-09
+date: 2015-08-09T08:45:07.000000Z
 release_id: "65034"
 slug: "kid-a-65034"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Alpha
 2. Everything In Its Right Place
@@ -29,9 +30,24 @@ styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 13. Morning Bell
 14. Motion Picture Soundtrack
 15. Untitled
+
+
 ## Spotify
 {{< spotify type="album" id="6GjwtEZcfenmOf6l18N7T7" width="100%" height="500" >}}
 
+
+
+## Videos
+{{< youtube id="NUnXxh5U25Y" title="Everything In Its Right Place" >}}
+- [Kid A](https://www.youtube.com/watch?v=MXNbfU0Ww_E)
+- [The National Anthem](https://www.youtube.com/watch?v=NfQD1QiQ9o4)
+- [How to Disappear Completely](https://www.youtube.com/watch?v=6W6HhdqA95w)
+- [Treefingers](https://www.youtube.com/watch?v=L7p47zYKJoM)
+- [Optimistic](https://www.youtube.com/watch?v=1On-ZHfTWOo)
+- [In Limbo](https://www.youtube.com/watch?v=Q29iibXXiOs)
+- [Idioteque](https://www.youtube.com/watch?v=svwJTnZOaco)
+- [Morning Bell](https://www.youtube.com/watch?v=XTT6k3Q4JnQ)
+- [Motion Picture Soundtrack](https://www.youtube.com/watch?v=EcSvMFm2ABE)
 
 ## Notes
 | Notes          |             |
@@ -39,7 +55,16 @@ styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 | Release Year   | 2000 |
 | Discogs Link   | [Radiohead - Kid A](https://www.discogs.com/release/65034-Radiohead-Kid-A) |
 | Label          | Parlophone |
-| Format         | 2x10\", Album |
+| Format         | Vinyl 2× 10" 33 ⅓ RPM Album |
 | Catalog Number | 7243 5 27753 1 6 |
 
-The track 'Idioteque' contains two samples from the Oddyssey label title `First Recordings - [r=121406]`(1976). The two compositions samples are Paul Lansky's 'Mild Und Liese' [recte 'Mild Und Leise'] Published by Grim Tim Music and 'Short Piece' by Arthur Kreiger Published by The Subito Music Corporation. Both samples are used with the kind permission of the composers and The Sony Music Corporation.  Side Delta contains a short unmentioned outro after 'Motion Picture Soundtrack', separated by a locked groove.  Comes in a matte gatefold sleeve with printed inner sleeves.  Printed In The EU [jacket rear] Made In EU [labels]
+The track 'Idioteque' contains two samples from the Oddyssey label title `First Recordings - [r=121406]`(1976).
+The two compositions samples are Paul Lansky's 'Mild Und Liese' [recte 'Mild Und Leise'] Published by Grim Tim Music and 'Short Piece' by Arthur Kreiger Published by The Subito Music Corporation.
+Both samples are used with the kind permission of the composers and The Sony Music Corporation.
+
+Side Delta contains a short unmentioned outro after 'Motion Picture Soundtrack', separated by a locked groove.
+
+Comes in a matte gatefold sleeve with printed inner sleeves.
+
+Printed In The EU [jacket rear]
+Made In EU [labels]

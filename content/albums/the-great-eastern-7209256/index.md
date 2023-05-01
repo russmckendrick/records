@@ -2,7 +2,7 @@
 title: "The Delgados - The Great Eastern"
 artist: "The Delgados"
 album_name: "The Great Eastern"
-date: 2023-01-21
+date: 2023-01-21T01:32:37.000000Z
 release_id: "7209256"
 slug: "the-great-eastern-7209256"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Past That Suits You Best (6:21)
 2. Accused Of Stealing (5:42)
@@ -24,8 +25,12 @@ styles: ["Indie Rock"]
 8. Witness (4:04)
 9. Knowing When To Run (3:26)
 10. Make Your Move (3:12)
+
+
 ## Spotify
 {{< spotify type="album" id="4DYckMlw07KpD2vWURQoF8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HJpvtbPqDu8" title="The Delgados - The Past That Suits You Best" >}}
@@ -42,7 +47,11 @@ styles: ["Indie Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [The Delgados - The Great Eastern](https://www.discogs.com/release/7209256-The-Delgados-The-Great-Eastern) |
 | Label          | Chemikal Underground Ltd. |
-| Format         | LP, RE |
+| Format         | Vinyl LP Reissue |
 | Catalog Number | CHEM226 |
 
-The long-awaited reissue of The Delgados' Mercury-nominated The Great Eastern has finally arrived and comes to you in a singlefold sleeve with printed inner (lyrics incl.), on 180gsm vinyl and with a download code for 320kbps MP3s.  Available on vinyl for the first time in nearly fifteen years, it might have taken us a while but we got there eventually...  (ltd to 500 according to normanrecords.com)
+The long-awaited reissue of The Delgados' Mercury-nominated The Great Eastern has finally arrived and comes to you in a singlefold sleeve with printed inner (lyrics incl.), on 180gsm vinyl and with a download code for 320kbps MP3s.
+
+Available on vinyl for the first time in nearly fifteen years, it might have taken us a while but we got there eventually...
+
+(ltd to 500 according to normanrecords.com)

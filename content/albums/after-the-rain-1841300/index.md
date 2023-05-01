@@ -2,7 +2,7 @@
 title: "Nelson - After The Rain"
 artist: "Nelson"
 album_name: "After The Rain"
-date: 2017-07-11
+date: 2017-07-11T08:45:32.000000Z
 release_id: "1841300"
 slug: "after-the-rain-1841300"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. (Can't Live Without Your) Love And Affection
 2. I Can Hardly Wait
@@ -26,8 +27,9 @@ styles: ["Hard Rock", "Pop Rock"]
 10. Everywhere I Go
 11. Bits And Pieces
 12. Will You Love Me?
-## Spotify
-{{< spotify type="album" id="3bF75h2NG3y918xMulJ2UI" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Nq4X0R7_FKc" title="Nelson – I Can Hardly Wait" >}}
@@ -41,8 +43,8 @@ styles: ["Hard Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [Nelson - After The Rain](https://www.discogs.com/release/1841300-Nelson-After-The-Rain) |
-| Label          | DGC, DGC |
-| Format         | LP, Album |
-| Catalog Number | 7599-24290-1, WX 397 |
+| Label          | DGC |
+| Format         | Vinyl LP Album |
+| Catalog Number | 7599-24290-1 |
 
 Made in Germany

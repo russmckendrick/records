@@ -2,7 +2,7 @@
 title: "Kim Gordon - No Home Record"
 artist: "Kim Gordon"
 album_name: "No Home Record"
-date: 2019-10-11
+date: 2019-10-11T14:37:42.000000Z
 release_id: "14238997"
 slug: "no-home-record-14238997"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Sketch Artist
 2. Air BnB
@@ -23,8 +24,12 @@ styles: ["Indie Rock", "Experimental"]
 7. Hungry Baby
 8. Earthquake
 9. Get Yr Life Back
+
+
 ## Spotify
 {{< spotify type="album" id="6HSBWnhRiJ3jZulqAmyim7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TJl_9a6dp4g" title="Kim Gordon - Sketch Artist (Official Music Video)" >}}
@@ -42,8 +47,16 @@ styles: ["Indie Rock", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Kim Gordon - No Home Record](https://www.discogs.com/release/14238997-Kim-Gordon-No-Home-Record) |
-| Label          | Matador, Matador |
-| Format         | LP, Album, Ltd, Whi |
-| Catalog Number | OLE-1379LPE, OLE-1379-1 |
+| Label          | Matador |
+| Format         | Vinyl LP Album Limited Edition Stereo (White) |
+| Catalog Number | OLE-1379LPE |
 
-Includes a custom inner sleeve and a download coupon.  Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.  ℗ & © 2019 Matador Records 134 Grand Street NYC 10013  Recorded at Sphere Ranch at Paulie's Kro East Studios  Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC
+Includes a custom inner sleeve and a download coupon.
+
+Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.
+
+℗ & © 2019 Matador Records 134 Grand Street NYC 10013
+
+Recorded at Sphere Ranch at Paulie's Kro East Studios
+
+Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC

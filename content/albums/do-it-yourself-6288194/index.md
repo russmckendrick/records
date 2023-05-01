@@ -2,7 +2,7 @@
 title: "Ian Dury And The Blockheads - Do It Yourself"
 artist: "Ian Dury And The Blockheads"
 album_name: "Do It Yourself"
-date: 2016-09-21
+date: 2016-09-21T18:14:46.000000Z
 release_id: "6288194"
 slug: "do-it-yourself-6288194"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 ---
+
 ## Tracklisting
 1. Inbetweenies (5:16)
 2. Quiet (3:33)
@@ -24,6 +25,9 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 8. Mischief (3:35)
 9. Dance Of The Screamers (6:35)
 10. Lullaby For Francies (4:58)
+
+
+
 
 ## Videos
 {{< youtube id="TtbzKDYotww" title="Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)" >}}
@@ -47,7 +51,7 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 | Release Year   | 2013 |
 | Discogs Link   | [Ian Dury And The Blockheads - Do It Yourself](https://www.discogs.com/release/6288194-Ian-Dury-The-Blockheads-Do-It-Yourself) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | DEMREC02 |
 
 Includes download code and photo sheet

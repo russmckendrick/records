@@ -2,7 +2,7 @@
 title: "Gomez - Bring It On"
 artist: "Gomez"
 album_name: "Bring It On"
-date: 2018-04-20
+date: 2018-04-20T17:56:02.000000Z
 release_id: "11890384"
 slug: "bring-it-on-11890384"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Get Miles (5:15)
 2. Whippin' Piccadilly (3:12)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Bubble Gum Years (3:20)
 11. Rie's Wagon (9:07)
 12. The Comeback (0:44)
+
+
 ## Spotify
 {{< spotify type="album" id="3TfA5qAwyI3iy3YbRc28qL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eMtfb1j5sw0" title="Gomez - Get Miles Vinyl Rip from Bring It On (1998)" >}}
@@ -40,8 +45,15 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Gomez - Bring It On](https://www.discogs.com/release/11890384-Gomez-Bring-It-On) |
-| Label          | UMC, Virgin EMI Records |
-| Format         | LP, Bur + LP, Yel + Album, Ltd, RE, RM |
-| Catalog Number | 6711417, 6711413 |
+| Label          | UMC |
+| Format         | Vinyl LP (Burgundy), Vinyl LP (Yellow), All Media Album Limited Edition Reissue Remastered |
+| Catalog Number | 6711417 |
 
-20th Anniversary reissue. Unipack envelope sleeve.   Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.  First catalogue number on spine, second on hype sticker.  
+20th Anniversary reissue.
+Unipack envelope sleeve. 
+
+Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.
+
+First catalogue number on spine, second on hype sticker.
+
+

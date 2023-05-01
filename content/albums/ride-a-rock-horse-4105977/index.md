@@ -2,7 +2,7 @@
 title: "Roger Daltrey - Ride A Rock Horse"
 artist: "Roger Daltrey"
 album_name: "Ride A Rock Horse"
-date: 2017-05-27
+date: 2017-05-27T15:35:32.000000Z
 release_id: "4105977"
 slug: "ride-a-rock-horse-4105977"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Get Your Love
 2. Hearts Right
@@ -24,6 +25,9 @@ styles: ["Classic Rock"]
 8. Walking The Dog
 9. Milk Train
 10. Born To Sing Your Song
+
+
+
 
 ## Videos
 {{< youtube id="DywInNM60gs" title="Roger Daltrey - Proud" >}}
@@ -47,7 +51,8 @@ styles: ["Classic Rock"]
 | Release Year   | 1975 |
 | Discogs Link   | [Roger Daltrey - Ride A Rock Horse](https://www.discogs.com/release/4105977-Roger-Daltrey-Ride-A-Rock-Horse) |
 | Label          | Polydor |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ACB 199 |
 
-Fully laminated sleeve printed by James Upton Ltd Made in England
+Fully laminated sleeve printed by James Upton Ltd
+Made in England

@@ -1,18 +1,19 @@
 ---
-title: "Beth Gibbons & Rustin Man - Out Of Season"
-artist: "Beth Gibbons & Rustin Man"
+title: "Beth Gibbons - Out Of Season"
+artist: "Beth Gibbons"
 album_name: "Out Of Season"
-date: 2019-10-11
+date: 2019-10-11T14:38:00.000000Z
 release_id: "14252668"
 slug: "out-of-season-14252668"
 hideSummary: true
 cover:
     image: "out-of-season-14252668.jpg"
-    alt: "Out Of Season by Beth Gibbons & Rustin Man"
-    caption: "Out Of Season by Beth Gibbons & Rustin Man"
+    alt: "Out Of Season by Beth Gibbons"
+    caption: "Out Of Season by Beth Gibbons"
 genres: ["Rock"]
 styles: ["Downtempo", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Mysteries
 2. Tom The Model
@@ -24,6 +25,12 @@ styles: ["Downtempo", "Folk Rock"]
 8. Drake
 9. Funny Time Of Year
 10. Rustin Man
+
+
+## Spotify
+{{< spotify type="album" id="6nTOCPzj8JiohYlZxW5Zl1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Epyt0IQ_uEA" title="Beth Gibbons & Rustin Man-Mysteries" >}}
@@ -45,9 +52,36 @@ styles: ["Downtempo", "Folk Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Beth Gibbons & Rustin Man - Out Of Season](https://www.discogs.com/release/14252668-Beth-Gibbons-Rustin-Man-Out-Of-Season) |
-| Label          | Go! Beat, Island Records, UMC |
-| Format         | LP, Album, RE, RM |
-| Catalog Number | 0602567891543, 678 915-4 |
+| Discogs Link   | [Beth Gibbons - Out Of Season](https://www.discogs.com/release/14252668-Beth-Gibbons-Rustin-Man-Out-Of-Season) |
+| Label          | Go! Beat |
+| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Catalog Number | 0602567891543 |
 
-Heavyweight vinyl. Printed inner sleeve with pictures, lyrics and extensive credits.  Some copies include: Includes download card. Hype sticker on shrink wrap.  Catalogue numbers: 0602567891543 is listed on the record spine, rear sleeve, inner sleeve, and the labels. 678 915-4 is listed on the hype sticker.  Mastered [...] at The Townwnhouse  Beth Gibbons is published by Chrysalis Music, Paul Webb Copyright Control.  An Island Records release; ℗ 2019 Universal Music Operations Limited © 2019 Universal Music Operations Limited. Universal International Music B.V. Gerriti Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in EU.  Mysteries: Recorded at The Barn, Devon & Sanctuary Westside. Tom The Model: Recorded at Sanctuary Westside & Konk Studios. Show: Recorded at Sanctuary Westside & Konk Studios. Romance: Recorded at Sanctuary Westside & Konk Studios. Sand River: Recorded at Sanctuary Westside & Konk Studios. Spider Monkey: Recorded at The Barn, Devon & Sanctuary Westside. Resolve: Mix recorded at Sanctuary Westside. Drake: Recorded at Sanctuary Westside & Konk Studios. Funny Time Of Year: Recorded at Sanctuary Westside. Rustin Man: Mix recorded at Sanctuary Westside.
+Heavyweight vinyl.
+Printed inner sleeve with pictures, lyrics and extensive credits.
+
+Some copies include:
+Includes download card.
+Hype sticker on shrink wrap.
+
+Catalogue numbers:
+0602567891543 is listed on the record spine, rear sleeve, inner sleeve, and the labels.
+678 915-4 is listed on the hype sticker.
+
+Mastered [...] at The Townwnhouse
+
+Beth Gibbons is published by Chrysalis Music, Paul Webb Copyright Control.
+
+An Island Records release; ℗ 2019 Universal Music Operations Limited © 2019 Universal Music Operations Limited.
+Universal International Music B.V. Gerriti Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in EU.
+
+Mysteries: Recorded at The Barn, Devon & Sanctuary Westside.
+Tom The Model: Recorded at Sanctuary Westside & Konk Studios.
+Show: Recorded at Sanctuary Westside & Konk Studios.
+Romance: Recorded at Sanctuary Westside & Konk Studios.
+Sand River: Recorded at Sanctuary Westside & Konk Studios.
+Spider Monkey: Recorded at The Barn, Devon & Sanctuary Westside.
+Resolve: Mix recorded at Sanctuary Westside.
+Drake: Recorded at Sanctuary Westside & Konk Studios.
+Funny Time Of Year: Recorded at Sanctuary Westside.
+Rustin Man: Mix recorded at Sanctuary Westside.

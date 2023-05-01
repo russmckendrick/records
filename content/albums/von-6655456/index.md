@@ -2,7 +2,7 @@
 title: "Sigur Rós - Von"
 artist: "Sigur Rós"
 album_name: "Von"
-date: 2019-01-04
+date: 2019-01-04T19:34:21.000000Z
 release_id: "6655456"
 slug: "von-6655456"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Sigur Rós (9:46)
 2. Dögun (5:50)
@@ -38,8 +39,12 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 22. Mistur (2:12)
 23. Syndir Guðs (Opinberun Frelsarans) (13:51)
 24. Rukrym (2:51)
+
+
 ## Spotify
 {{< spotify type="album" id="5FOHr9NAcLlF1ChHMulOMv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von [Full Album Stream]" >}}
@@ -50,7 +55,10 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Sigur Rós - Von](https://www.discogs.com/release/6655456-Sigur-R%C3%B3s-Von) |
 | Label          | XL Recordings |
-| Format         | 2xLP, Album, RE, 180 + CD, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue (180g), CD Album Reissue |
 | Catalog Number | XLLP609 |
 
-Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.  Violet PVC outer sleeve & printed inner sleeves. Track D2 ends in a locked groove.
+Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.
+
+Violet PVC outer sleeve & printed inner sleeves.
+Track D2 ends in a locked groove.

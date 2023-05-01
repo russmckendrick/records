@@ -2,7 +2,7 @@
 title: "Easy Star All-Stars - Dubber Side Of The Moon"
 artist: "Easy Star All-Stars"
 album_name: "Dubber Side Of The Moon"
-date: 2017-12-17
+date: 2017-12-17T12:21:19.000000Z
 release_id: "6664281"
 slug: "dubber-side-of-the-moon-6664281"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Reggae"]
 styles: ["Reggae", "Dub"]
 ---
+
 ## Tracklisting
 1. Speak To Me / Breathe (In The Air) (3:52)
 2. On The Run (4:04)
@@ -23,8 +24,12 @@ styles: ["Reggae", "Dub"]
 7. Any Colour You Like (4:04)
 8. Brain Damage (4:28)
 9. Eclipse (2:29)
+
+
 ## Spotify
 {{< spotify type="album" id="4lH7ibcfsyzOWLi3gjbLIL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="waLrqTiltmQ" title="EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER" >}}
@@ -37,7 +42,7 @@ styles: ["Reggae", "Dub"]
 | Release Year   | 2010 |
 | Discogs Link   | [Easy Star All-Stars - Dubber Side Of The Moon](https://www.discogs.com/release/6664281-Easy-Star-All-Stars-Dubber-Side-Of-The-Moon) |
 | Label          | Easy Star Records |
-| Format         | LP, Album, Lig |
+| Format         | Vinyl LP Album (Light Blue) |
 | Catalog Number | ES-1023V |
 
 Distributed By Broken Silence

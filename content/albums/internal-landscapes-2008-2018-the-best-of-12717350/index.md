@@ -2,7 +2,7 @@
 title: "Anathema - Internal Landscapes 2008-2018 (The Best Of)"
 artist: "Anathema"
 album_name: "Internal Landscapes 2008-2018 (The Best Of)"
-date: 2018-10-27
+date: 2018-10-27T12:10:49.000000Z
 release_id: "12717350"
 slug: "internal-landscapes-2008-2018-the-best-of-12717350"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Anathema (6:41)
 2. Untouchable (Part 1) (6:14)
@@ -27,6 +28,9 @@ styles: ["Prog Rock", "Alternative Rock"]
 11. Springfield (5:49)
 12. Distant Satellites (8:18)
 13. Internal Landscapes (8:52)
+
+
+
 
 ## Videos
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}
@@ -44,7 +48,8 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Anathema - Internal Landscapes 2008-2018 (The Best Of)](https://www.discogs.com/release/12717350-Anathema-Internal-Landscapes-2008-2018-The-Best-Of) |
 | Label          | Kscope |
-| Format         | 2xLP, Comp, Ltd, Red |
+| Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
 | Catalog Number | KSCOPE1009 |
 
-The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping. 2LP gatefold 180 gram heavyweight red vinyl.
+The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping.
+2LP gatefold 180 gram heavyweight red vinyl.

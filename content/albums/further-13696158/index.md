@@ -2,7 +2,7 @@
 title: "Richard Hawley - Further"
 artist: "Richard Hawley"
 album_name: "Further"
-date: 2019-06-03
+date: 2019-06-03T17:49:54.000000Z
 release_id: "13696158"
 slug: "further-13696158"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Further by Richard Hawley"
     caption: "Further by Richard Hawley"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Off My Mind
 2. Alone
@@ -25,8 +26,12 @@ styles: null
 9. Time Is
 10. Midnight Train
 11. Doors
+
+
 ## Spotify
 {{< spotify type="album" id="6Y05ozfmylDBcvNvuPEnYL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="t9UuZlB8DTA" title="Richard Hawley – Off My Mind (Official Video)" >}}
@@ -47,7 +52,13 @@ styles: null
 | Release Year   | 2019 |
 | Discogs Link   | [Richard Hawley - Further](https://www.discogs.com/release/13696158-Richard-Hawley-Further) |
 | Label          | BMG |
-| Format         | LP, Album, Ltd, Ora |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
 | Catalog Number | 538478641 |
 
-Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.  ℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.    Record shops only release. 
+Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.
+
+℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.
+
+ 
+Record shops only release.
+

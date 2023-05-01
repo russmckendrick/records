@@ -2,7 +2,7 @@
 title: "John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
 artist: "John Williams"
 album_name: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
-date: 2016-08-17
+date: 2016-08-17T19:17:32.000000Z
 release_id: "8902517"
 slug: "star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. Main Title (The Story Continues) (5:09)
 2. Into The Trap (2:36)
@@ -26,9 +27,11 @@ styles: ["Soundtrack"]
 10. The Return Of The Jedi (5:02)
 11. Ewok Celebration And Finale (8:00)
 
+
+
+
 ## Videos
 {{< youtube id="N2tL4w8qgpk" title="Return of the Jedi (1983) Retrospective / Review" >}}
-- [John Williams - Star Wars: Remastering The Score](https://www.youtube.com/watch?v=WSOzvCtaHmg)
 - [Main Title (The Story Continues)](https://www.youtube.com/watch?v=eP14omDNAfk)
 - [Into the Trap](https://www.youtube.com/watch?v=Rh0Xbbw9mQo)
 - [Luke and Leia](https://www.youtube.com/watch?v=oSXeOY_Ad4U)
@@ -46,8 +49,15 @@ styles: ["Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |
-| Label          | RSO, Sony Classical |
-| Format         | LP, Gol |
+| Label          | RSO |
+| Format         | Vinyl LP (Gold) |
 | Catalog Number | 28MW 0031 |
 
-Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.  Gatefold sleeve.      
+Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.
+
+Gatefold sleeve. 
+
+
+
+
+

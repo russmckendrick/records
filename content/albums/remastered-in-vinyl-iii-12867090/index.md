@@ -2,7 +2,7 @@
 title: "Kate Bush - Remastered In Vinyl III"
 artist: "Kate Bush"
 album_name: "Remastered In Vinyl III"
-date: 2018-11-30
+date: 2018-11-30T15:18:48.000000Z
 release_id: "12867090"
 slug: "remastered-in-vinyl-iii-12867090"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Aerial
 2. "A Sea Of Honey"
@@ -39,13 +40,13 @@ styles: ["Alternative Rock", "Art Rock"]
 23. Among Angels
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Kate Bush - Remastered In Vinyl III](https://www.discogs.com/release/12867090-Kate-Bush-Remastered-In-Vinyl-III) |
 | Label          | Fish People |
-| Format         | 2xLP, Album, RE, RM + 2xLP, Album, RE, RM + 2xLP,  |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Box Set Compilation |
 | Catalog Number | 0190295593933 |
-
-

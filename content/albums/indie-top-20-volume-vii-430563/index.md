@@ -2,7 +2,7 @@
 title: "Various - Indie Top 20 Volume VII"
 artist: "Various"
 album_name: "Indie Top 20 Volume VII"
-date: 2016-11-16
+date: 2016-11-16T13:03:18.000000Z
 release_id: "430563"
 slug: "indie-top-20-volume-vii-430563"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Monkey Gone To Heaven (2:59)
 2. Made Of Stone (4:14)
@@ -36,13 +37,17 @@ styles: ["Indie Rock"]
 20. Deanna (3:43)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1989 |
 | Discogs Link   | [Various - Indie Top 20 Volume VII](https://www.discogs.com/release/430563-Various-Indie-Top-20-Volume-VII) |
 | Label          | Beechwood Music |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | TT07 |
 
-℗ + © Beechwood Music Made in England 1989
+℗ + © Beechwood Music
+Made in England
+1989

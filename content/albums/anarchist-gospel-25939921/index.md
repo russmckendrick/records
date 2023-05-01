@@ -2,7 +2,7 @@
 title: "Sunny War - Anarchist Gospel"
 artist: "Sunny War"
 album_name: "Anarchist Gospel"
-date: 2023-02-06
+date: 2023-02-06T11:34:03.000000Z
 release_id: "25939921"
 slug: "anarchist-gospel-25939921"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Anarchist Gospel by Sunny War"
     caption: "Anarchist Gospel by Sunny War"
 genres: ["Rock", "Blues", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Love's Death Bed
 2. No Reason
@@ -28,8 +29,12 @@ styles: null
 12. Higher
 13. Test Dummy
 14. Sweet Nothing
+
+
 ## Spotify
 {{< spotify type="album" id="1clekgjwj7TdXgYjQjm1BJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8hnaMoHzx7o" title="Sunny War - Higher (feat. David Rawlings) [Official Audio]" >}}
@@ -49,7 +54,7 @@ styles: null
 | Release Year   | 2023 |
 | Discogs Link   | [Sunny War - Anarchist Gospel](https://www.discogs.com/release/25939921-Sunny-War-Anarchist-Gospel) |
 | Label          | New West Records |
-| Format         | LP, Album, Red |
+| Format         | Vinyl LP Album (Red, Black & White Hand-poured) |
 | Catalog Number | NW5702 |
 
 150g vinyl. This version is signed by the artist & exclusive to New West Records' mailorder store.

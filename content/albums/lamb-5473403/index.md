@@ -2,7 +2,7 @@
 title: "Lamb - Lamb"
 artist: "Lamb"
 album_name: "Lamb"
-date: 2016-11-22
+date: 2016-11-22T17:48:57.000000Z
 release_id: "5473403"
 slug: "lamb-5473403"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 ---
+
 ## Tracklisting
 1. Lusty
 2. God Bless
@@ -27,8 +28,12 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 11. Cotton Wool (Fila Brazillia Mix)
 12. Trans Fatty Acid (Kruder & Dorfmeister Remix)
 13. Gorecki (Global Communication Mix)
+
+
 ## Spotify
 {{< spotify type="album" id="7FEBQOq6SXl4CsqR6wTTGy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="EuWq_Gx0vjc" title="Lamb ‎– Lamb (Album, 1996)" >}}
@@ -52,7 +57,11 @@ styles: ["Downtempo", "Trip Hop", "Drum n Bass", "Experimental"]
 | Release Year   | 2014 |
 | Discogs Link   | [Lamb - Lamb](https://www.discogs.com/release/5473403-Lamb-Lamb) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP854 |
 
-Standard Black Vinyl release.  180 gram audiophile vinyl. Insert with exclusive liner notes written by Lou Rhodes. Includes 3 bonus tracks.
+Standard Black Vinyl release.
+
+180 gram audiophile vinyl.
+Insert with exclusive liner notes written by Lou Rhodes.
+Includes 3 bonus tracks.

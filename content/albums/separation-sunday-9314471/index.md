@@ -2,7 +2,7 @@
 title: "The Hold Steady - Separation Sunday"
 artist: "The Hold Steady"
 album_name: "Separation Sunday"
-date: 2017-04-17
+date: 2017-04-17T13:21:46.000000Z
 release_id: "9314471"
 slug: "separation-sunday-9314471"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Hornets! Hornets! (4:48)
 2. Cattle And The Creeping Things  (3:47)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Chicago Seemed Tired Last Night (3:20)
 10. Crucifixion Cruise (1:51)
 11. How A Resurrection Really Feels (5:32)
+
+
 ## Spotify
 {{< spotify type="album" id="2o9xoahiznyfXC13U5dex7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PFiiq2sFD7E" title="The Hold Steady - How a Resurrection Really Feels" >}}
@@ -45,8 +50,10 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471-The-Hold-Steady-Separation-Sunday) |
-| Label          | Frenchkiss Records, Positive Jams |
-| Format         | LP, RE, RM, Whi |
-| Catalog Number | FKR087-1, none |
+| Label          | Frenchkiss Records |
+| Format         | Vinyl LP Reissue Remastered (White Vinyl) |
+| Catalog Number | FKR087-1 |
 
-Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records. 
+Repress on white vinyl. Comes with download card with B-sides and bonus tracks
+
+©&℗ 2016 Frenchkiss Records. 

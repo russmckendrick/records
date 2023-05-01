@@ -2,7 +2,7 @@
 title: "Suede - Night Thoughts Replacement Pack A"
 artist: "Suede"
 album_name: "Night Thoughts Replacement Pack A"
-date: 2019-12-19
+date: 2019-12-19T20:21:35.000000Z
 release_id: "13083066"
 slug: "night-thoughts-replacement-pack-a-13083066"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. When You Are Young
 2. Outsiders
@@ -27,6 +28,9 @@ styles: ["Indie Rock"]
 11. When You Were Young
 12. The Fur And The Feathers
 
+
+
+
 ## Videos
 {{< youtube id="so7PZl_1vOM" title="Suede - What I'm Trying To Tell You" >}}
 - [Suede - Outsiders](https://www.youtube.com/watch?v=AL15Nvlf7ZU)
@@ -40,8 +44,16 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Suede - Night Thoughts Replacement Pack A](https://www.discogs.com/release/13083066-Suede-Night-Thoughts-Replacement-Pack-A) |
-| Label          | Demon Records, Demon Records |
-| Format         | 2xLP, Album, RE, Tra |
-| Catalog Number | SUEDEAMZREP1, DEMREC367 |
+| Label          | Demon Records |
+| Format         | Vinyl 2× LP 45 RPM Album Reissue (Translucent Blue ) |
+| Catalog Number | SUEDEAMZREP1 |
 
-Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition.   Blue vinyl Amazon exclusive version. 1,000 only.  Sent in plain white sleeves with no album cover or inserts (unless requested).   ℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd. © Demon Music Group Ltd Made in the EU.
+Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition. 
+
+Blue vinyl Amazon exclusive version. 1,000 only.
+
+Sent in plain white sleeves with no album cover or inserts (unless requested). 
+
+℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd.
+© Demon Music Group Ltd
+Made in the EU.

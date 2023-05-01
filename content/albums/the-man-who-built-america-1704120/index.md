@@ -2,7 +2,7 @@
 title: "Horslips - The Man Who Built America"
 artist: "Horslips"
 album_name: "The Man Who Built America"
-date: 2020-08-02
+date: 2020-08-02T13:30:43.000000Z
 release_id: "1704120"
 slug: "the-man-who-built-america-1704120"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ---
+
 ## Tracklisting
 1. Lonelines (4:17)
 2. Tonight (You're With Me) (3:18)
@@ -24,8 +25,12 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 8. Long Weekend (3:46)
 9. Letters From Home (4:14)
 10. Long Time Ago (3:36)
+
+
 ## Spotify
 {{< spotify type="album" id="6T8yKphsRNbMZBb8nL44lk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qQ_ZVFgSbaw" title="Horslips...The Man Who Built America...Full Album" >}}
@@ -38,8 +43,12 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 | ---------------| ----------- |
 | Release Year   | 1979 |
 | Discogs Link   | [Horslips - The Man Who Built America](https://www.discogs.com/release/1704120-Horslips-The-Man-Who-Built-America) |
-| Label          | DJM Records |
-| Format         | LP, Album |
+| Label          | DJM Records (2) |
+| Format         | Vinyl LP Album |
 | Catalog Number | DJF 20546 |
 
-Recorded and mixed at Advision, October 1978.  Laminated sleeve. Included printed inner sleeve.  Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y"
+Recorded and mixed at Advision, October 1978.
+
+Laminated sleeve. Included printed inner sleeve.
+
+Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y"

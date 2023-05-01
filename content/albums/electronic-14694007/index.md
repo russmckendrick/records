@@ -2,7 +2,7 @@
 title: "Electronic - Electronic"
 artist: "Electronic"
 album_name: "Electronic"
-date: 2020-01-24
+date: 2020-01-24T20:04:58.000000Z
 release_id: "14694007"
 slug: "electronic-14694007"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Idiot Country (5:03)
 2. Reality (5:39)
@@ -25,8 +26,11 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 9. Try All You Want (5:37)
 10. Some Distant Memory (4:09)
 11. Feel Every Beat (5:09)
+
+
 ## Spotify
 {{< spotify type="album" id="1vGrQ0is3Avh0bZSI7T6L1" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,8 +38,9 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Electronic - Electronic](https://www.discogs.com/release/14694007-Electronic-Electronic) |
-| Label          | Parlophone, Warner Records |
-| Format         | LP, Album, Ltd, RE, RM, Whi |
-| Catalog Number | Fact 290, 0190295381868 |
+| Label          | Parlophone |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (White) |
+| Catalog Number | Fact 290 |
 
-The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994.  
+The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994. 
+

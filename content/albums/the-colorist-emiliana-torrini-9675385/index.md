@@ -1,18 +1,19 @@
 ---
-title: "The Colorist & Emiliana Torrini - The Colorist & Emiliana Torrini"
-artist: "The Colorist & Emiliana Torrini"
+title: "The Colorist - The Colorist & Emiliana Torrini"
+artist: "The Colorist"
 album_name: "The Colorist & Emiliana Torrini"
-date: 2017-05-16
+date: 2017-05-16T18:19:36.000000Z
 release_id: "9675385"
 slug: "the-colorist-emiliana-torrini-9675385"
 hideSummary: true
 cover:
     image: "the-colorist-emiliana-torrini-9675385.jpg"
-    alt: "The Colorist & Emiliana Torrini by The Colorist & Emiliana Torrini"
-    caption: "The Colorist & Emiliana Torrini by The Colorist & Emiliana Torrini"
+    alt: "The Colorist & Emiliana Torrini by The Colorist"
+    caption: "The Colorist & Emiliana Torrini by The Colorist"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. Caterpillar (4:42)
 2. Blood Red (5:20)
@@ -36,8 +37,12 @@ styles: ["Folk Rock"]
 20. Thinking Out Loud (4:14)
 21. Gun (6:34)
 22. Bleeder (5:21)
+
+
 ## Spotify
 {{< spotify type="album" id="308EQ717rquoukYqREg2uC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-8R2-s5pMI0" title="The Colorist & Emiliana Torrini - Speed Of Dark" >}}
@@ -50,9 +55,14 @@ styles: ["Folk Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [The Colorist & Emiliana Torrini - The Colorist & Emiliana Torrini](https://www.discogs.com/release/9675385-The-Colorist-Emiliana-Torrini-The-Colorist-Emiliana-Torrini) |
-| Label          | Rough Trade, Rough Trade, Rough Trade |
-| Format         | LP, Album, Die + CD, Album + Dlx |
-| Catalog Number | 883870081610, RTRADLP816, RTRADCD816 |
+| Discogs Link   | [The Colorist - The Colorist & Emiliana Torrini](https://www.discogs.com/release/9675385-The-Colorist-Emiliana-Torrini-The-Colorist-Emiliana-Torrini) |
+| Label          | Rough Trade |
+| Format         | Vinyl LP Album (Die-Cut Sleeve), CD Album, All Media Deluxe Edition |
+| Catalog Number | 883870081610 |
 
-Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect. A printed inner sleeve is also included.  Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched 
+Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect.
+A printed inner sleeve is also included.
+
+Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched
+Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched
+

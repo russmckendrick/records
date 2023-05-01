@@ -2,7 +2,7 @@
 title: "Cardiacs - Heaven Born And Ever Bright"
 artist: "Cardiacs"
 album_name: "Heaven Born And Ever Bright"
-date: 2018-08-14
+date: 2018-08-14T18:11:12.000000Z
 release_id: "10608092"
 slug: "heaven-born-and-ever-bright-10608092"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. The Alphabet Business Concern (Home Of Fadeless Splendour) (3:59)
 2. She Is Hiding Behind The Shed (4:19)
@@ -25,6 +26,9 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 9. Core (2:32)
 10. Day Is Gone (3:17)
 11. Snakes-a-Sleeping (8:26)
+
+
+
 
 ## Videos
 {{< youtube id="CQwlaMzdzl8" title="Cardiacs - Heaven Born and Ever Bright (FULL ALBUM) (1992)" >}}
@@ -44,7 +48,7 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Cardiacs - Heaven Born And Ever Bright](https://www.discogs.com/release/10608092-Cardiacs-Heaven-Born-And-Ever-Bright) |
 | Label          | The Alphabet Business Concern |
-| Format         | LP, Album, RE, Gat |
+| Format         | Vinyl LP Album Reissue (Gatefold) |
 | Catalog Number | ALPH LP017 |
 
 2017 reissue on 180 gram vinyl in a gatefold sleeve. Sourced from the original master.

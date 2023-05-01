@@ -2,7 +2,7 @@
 title: "The Wedding Present - The Hit Parade"
 artist: "The Wedding Present"
 album_name: "The Hit Parade"
-date: 2022-09-25
+date: 2022-09-25T07:17:03.000000Z
 release_id: "24616364"
 slug: "the-hit-parade-24616364"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Blue Eyes
 2. Go-Go Dancer
@@ -62,8 +63,12 @@ styles: ["Indie Rock"]
 46. Go Wild In The Country 
 47. U.F.O.
 48. Step Into Christmas 
+
+
 ## Spotify
 {{< spotify type="album" id="4kMYJadv45yEXwAeOGRddM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="d6PTTVI3qLc" title="The Wedding Present -  Blue Eyes" >}}
@@ -77,8 +82,16 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [The Wedding Present - The Hit Parade](https://www.discogs.com/release/24616364-The-Wedding-Present-The-Hit-Parade) |
-| Label          | Sony Music, RCA |
-| Format         | 2xLP, Comp, RE + 2xCD, Comp, Promo, RE + 30t |
+| Label          | Sony Music |
+| Format         | Vinyl 2× LP Compilation Reissue, CD 2× Compilation Promo Reissue, All Media (30th Anniversary Edition) |
 | Catalog Number | 19658708791 |
 
-Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions. Vinyl discs held in top opening gloss inner sleeves of thin card. CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale". Hype sticker applied to the shrink-wrap.  Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.  The two CDs have the same tracks as the Vinyl. Runouts are hand etched excepting the GZ Media data which is laser etched.
+Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions.
+Vinyl discs held in top opening gloss inner sleeves of thin card.
+CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale".
+Hype sticker applied to the shrink-wrap.
+
+Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.
+
+The two CDs have the same tracks as the Vinyl.
+Runouts are hand etched excepting the GZ Media data which is laser etched.

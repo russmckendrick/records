@@ -2,7 +2,7 @@
 title: "Ned's Atomic Dustbin - Are You Normal?"
 artist: "Ned's Atomic Dustbin"
 album_name: "Are You Normal?"
-date: 2019-05-31
+date: 2019-05-31T19:17:19.000000Z
 release_id: "929001"
 slug: "are-you-normal-929001"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Suave And Suffocated
 2. Walking Through Syrup
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. Fracture
 12. Spring
 13. Intact
+
+
 ## Spotify
 {{< spotify type="album" id="2grx6MZQYbH1Z6TLQXbRPg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yCWYygUCwOk" title="Ned's Atomic Dustbin-Legoland" >}}
@@ -53,7 +58,7 @@ styles: ["Indie Rock"]
 | Release Year   | 1992 |
 | Discogs Link   | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |
 | Label          | Sony Soho Square |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 472633 1 |
 
 printed inner sleeve with lyrics/credits

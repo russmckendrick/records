@@ -1,18 +1,19 @@
 ---
-title: "Pink Floyd – London Symphonia - The Wall For Chamber Orchestra"
-artist: "Pink Floyd – London Symphonia"
+title: "Pink Floyd - The Wall For Chamber Orchestra"
+artist: "Pink Floyd"
 album_name: "The Wall For Chamber Orchestra"
-date: 2022-06-30
+date: 2022-06-30T04:58:14.000000Z
 release_id: "13569554"
 slug: "the-wall-for-chamber-orchestra-13569554"
 hideSummary: true
 cover:
     image: "the-wall-for-chamber-orchestra-13569554.jpg"
-    alt: "The Wall For Chamber Orchestra by Pink Floyd – London Symphonia"
-    caption: "The Wall For Chamber Orchestra by Pink Floyd – London Symphonia"
+    alt: "The Wall For Chamber Orchestra by Pink Floyd"
+    caption: "The Wall For Chamber Orchestra by Pink Floyd"
 genres: ["Classical"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. In The Flesh
 2. Another Brick In The Wall Pt.III
@@ -31,13 +32,15 @@ styles: null
 15. Outside The Wall
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Pink Floyd – London Symphonia - The Wall For Chamber Orchestra](https://www.discogs.com/release/13569554-Pink-Floyd-The-London-Symphonia-The-Wall-For-Chamber-Orchestra) |
+| Discogs Link   | [Pink Floyd - The Wall For Chamber Orchestra](https://www.discogs.com/release/13569554-Pink-Floyd-The-London-Symphonia-The-Wall-For-Chamber-Orchestra) |
 | Label          | Coda Records Ltd |
-| Format         | LP, Album, Ltd, Unofficial, Whi |
+| Format         | Vinyl LP Album Limited Edition Unofficial Release (White) |
 | Catalog Number | CLRVNY004 |
 
 Produced, Mastered and Manufactured in the Czech Republic

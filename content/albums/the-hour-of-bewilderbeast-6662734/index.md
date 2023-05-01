@@ -2,7 +2,7 @@
 title: "Badly Drawn Boy - The Hour Of Bewilderbeast"
 artist: "Badly Drawn Boy"
 album_name: "The Hour Of Bewilderbeast"
-date: 2015-09-30
+date: 2015-09-30T18:06:25.000000Z
 release_id: "6662734"
 slug: "the-hour-of-bewilderbeast-6662734"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Folk Rock", "Downtempo"]
 ---
+
 ## Tracklisting
 1. The Shining (5:18)
 2. Everybody's Stalking (3:39)
@@ -32,8 +33,12 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 16. Disillusion (5:19)
 17. Say It Again (4:41)
 18. Epitaph (3:50)
+
+
 ## Spotify
 {{< spotify type="album" id="7y0QwysyQgSf9fyBFr6Q3x" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KNY-Pl1_ji0" title="Badly Drawn Boy - The Shining" >}}
@@ -50,8 +55,20 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Badly Drawn Boy - The Hour Of Bewilderbeast](https://www.discogs.com/release/6662734-Badly-Drawn-Boy-The-Hour-Of-Bewilderbeast) |
-| Label          | Twisted Nerve, XL Recordings |
-| Format         | LP, RE |
+| Label          | Twisted Nerve |
+| Format         | Vinyl LP Reissue |
 | Catalog Number | TNXLLP133 |
 
-℗ & © 2000 XL Recordings Ltd. The copyright in this recording is owned by XL Recordings Ltd. "Made In the EU" below barcode on reverse side. All tracks written and produced by Damon Gough A.K.A. Badly Drawn Boy Other original photography by Dom Thomas, Hayley Slater-King and the Gough Family Ian Smith, Matt McGeever, Sam Morris and Sean Kelly from the band [a16376] and Joe Robinson and Ian Rainford from [a41656] appear courtesy of Twisted Nerve Records. Jez Williams, Jimmy Goodwin and Andy Williams from the band [a3855] appear courtesy of Heavenly Records.  Initial copies of this had Woody Allen in the top left circle of the album sleeve, but were removed in later editions.  Taja Sevelle complained that the lyrics of Magic In The Air were too similar to her single, Love Is Contagious and sections of the vocal were removed on later editions.   
+℗ & © 2000 XL Recordings Ltd.
+The copyright in this recording is owned by XL Recordings Ltd.
+"Made In the EU" below barcode on reverse side.
+All tracks written and produced by Damon Gough A.K.A. Badly Drawn Boy
+Other original photography by Dom Thomas, Hayley Slater-King and the Gough Family
+Ian Smith, Matt McGeever, Sam Morris and Sean Kelly from the band [a16376] and Joe Robinson and Ian Rainford from [a41656] appear courtesy of Twisted Nerve Records. Jez Williams, Jimmy Goodwin and Andy Williams from the band [a3855] appear courtesy of Heavenly Records.
+
+Initial copies of this had Woody Allen in the top left circle of the album sleeve, but were removed in later editions.
+
+Taja Sevelle complained that the lyrics of Magic In The Air were too similar to her single, Love Is Contagious and sections of the vocal were removed on later editions.
+
+
+

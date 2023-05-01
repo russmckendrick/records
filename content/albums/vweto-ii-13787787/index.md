@@ -2,7 +2,7 @@
 title: "Georgia Anne Muldrow - Vweto II"
 artist: "Georgia Anne Muldrow"
 album_name: "Vweto II"
-date: 2020-04-10
+date: 2020-04-10T12:40:20.000000Z
 release_id: "13787787"
 slug: "vweto-ii-13787787"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
+
 ## Tracklisting
 1. Almost Trendy (3:11)
 2. Bass Attack Bap (3:33)
@@ -30,8 +31,12 @@ styles: ["Instrumental", "Funk"]
 14. When The Fonk Radiates (4:40)
 15. Wu Punk (3:56)
 16. Yoyo Ma Fonk (3:09)
+
+
 ## Spotify
 {{< spotify type="album" id="48skIVXWkrTaBLrPckuB6p" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="oJabLChQ8Bs" title="Brokenfolks" >}}
@@ -58,7 +63,5 @@ styles: ["Instrumental", "Funk"]
 | Release Year   | 2019 |
 | Discogs Link   | [Georgia Anne Muldrow - Vweto II](https://www.discogs.com/release/13787787-Georgia-Anne-Muldrow-Vweto-II) |
 | Label          | Mello Music Group |
-| Format         | LP, Album, Bla |
+| Format         | Vinyl LP Album (Black & Green Split Color) |
 | Catalog Number | MMG-000132-1 |
-
-

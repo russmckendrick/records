@@ -2,7 +2,7 @@
 title: "The Black Crowes - Presents Shake Your Money Maker Live"
 artist: "The Black Crowes"
 album_name: "Presents Shake Your Money Maker Live"
-date: 2023-03-23
+date: 2023-03-23T03:01:05.000000Z
 release_id: "26416601"
 slug: "presents-shake-your-money-maker-live-26416601"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock"]
 ---
+
 ## Tracklisting
 1. Twice As Hard
 2. Jealous Again
@@ -35,13 +36,18 @@ styles: ["Rock & Roll", "Southern Rock"]
 19. Rock & Roll
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [The Black Crowes - Presents Shake Your Money Maker Live](https://www.discogs.com/release/26416601-The-Black-Crowes-Presents-Shake-Your-Money-Maker-Live) |
 | Label          | Silver Arrow |
-| Format         | 2xLP, Album, Gre + 7\", Gre |
+| Format         | Vinyl 2× LP Album (Green), Vinyl 7" 45 RPM (Green) |
 | Catalog Number | SAR27LP |
 
-On the bands 30th Anniversary of their breakout album Shake Your Money Maker they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.  The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate. "MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.
+On the bands 30th Anniversary of their breakout album 'Shake Your Money Maker' they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.
+
+The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate.
+"MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.

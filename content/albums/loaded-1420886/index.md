@@ -2,7 +2,7 @@
 title: "Various - Loaded"
 artist: "Various"
 album_name: "Loaded"
-date: 2015-12-07
+date: 2015-12-07T11:50:16.000000Z
 release_id: "1420886"
 slug: "loaded-1420886"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Britpop", "Hard Rock", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Loaded
 2. Are You Gonna Go My Way
@@ -32,8 +33,11 @@ styles: ["Britpop", "Hard Rock", "Synth-pop", "Indie Rock"]
 16. Showgirl
 17. Anyone Can Play Guitar
 18. I'm Easy
+
+
 ## Spotify
 {{< spotify type="album" id="6zT1CYxdMjosZQwBGGpEoD" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -41,8 +45,6 @@ styles: ["Britpop", "Hard Rock", "Synth-pop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1993 |
 | Discogs Link   | [Various - Loaded](https://www.discogs.com/release/1420886-Various-Loaded) |
-| Label          | Virgin, EMI |
-| Format         | LP, Comp |
-| Catalog Number | EVP 5, 0777 7 89333 1 1 |
-
-
+| Label          | Virgin |
+| Format         | Vinyl LP Compilation |
+| Catalog Number | EVP 5 |

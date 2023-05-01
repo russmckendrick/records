@@ -2,7 +2,7 @@
 title: "Ian Dury And The Blockheads - Laughter"
 artist: "Ian Dury And The Blockheads"
 album_name: "Laughter"
-date: 2020-08-02
+date: 2020-08-02T13:34:01.000000Z
 release_id: "2878713"
 slug: "laughter-2878713"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Disco"]
 ---
+
 ## Tracklisting
 1. Sueperman's Big Sister
 2. Pardon
@@ -26,6 +27,9 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 10. Manic Depression (Jimi)
 11. Oh Mr Peanut
 12. Fucking Ada
+
+
+
 
 ## Videos
 {{< youtube id="CIhx64KPoRg" title="Manic Depression (Jimi)" >}}
@@ -50,7 +54,7 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 | Release Year   | 1980 |
 | Discogs Link   | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/2878713-Ian-Dury-The-Blockheads-Laughter) |
 | Label          | Stiff Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | SEEZ 30 NP |
 
 Issued with a printed inner sleeve.

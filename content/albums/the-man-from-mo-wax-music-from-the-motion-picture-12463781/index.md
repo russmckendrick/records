@@ -2,7 +2,7 @@
 title: "Various - The Man From Mo'Wax (Music From The Motion Picture)"
 artist: "Various"
 album_name: "The Man From Mo'Wax (Music From The Motion Picture)"
-date: 2018-09-03
+date: 2018-09-03T17:51:36.000000Z
 release_id: "12463781"
 slug: "the-man-from-mo-wax-music-from-the-motion-picture-12463781"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ---
+
 ## Tracklisting
 1. Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit)
 2. Doin' Damage In My Native Language (Shadow’s Legitimate Remix)
@@ -33,6 +34,9 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 17. Reign
 18. …Like Clockwork
 19. What Does Your Soul Look Like (Part 1)
+
+
+
 
 ## Videos
 {{< youtube id="VKW-67YNkqo" title="Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace" >}}
@@ -59,8 +63,10 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781-Various-The-Man-From-MoWax-Music-From-The-Motion-Picture) |
-| Label          | UMC, Island Records, Mo Wax |
-| Format         | LP, Red + LP, Blu + Comp, Ltd |
+| Label          | UMC |
+| Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Limited Edition |
 | Catalog Number | 6727901 |
 
-Gatefold sleeve.  Including download code and director's notes.
+Gatefold sleeve.
+
+Including download code and director's notes.

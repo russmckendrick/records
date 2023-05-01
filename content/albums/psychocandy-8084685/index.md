@@ -2,7 +2,7 @@
 title: "The Jesus And Mary Chain - Psychocandy"
 artist: "The Jesus And Mary Chain"
 album_name: "Psychocandy"
-date: 2020-08-01
+date: 2020-08-01T12:49:24.000000Z
 release_id: "8084685"
 slug: "psychocandy-8084685"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Noise"]
 ---
+
 ## Tracklisting
 1. Just Like Honey (3:00)
 2. The Living End (2:14)
@@ -28,8 +29,12 @@ styles: ["Noise"]
 12. You Trip Me Up (2:22)
 13. Something's Wrong (4:00)
 14. It's So Hard (2:35)
+
+
 ## Spotify
 {{< spotify type="album" id="0PnzJO3D4i85ALVJPaDpru" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7EgB__YratE" title="The Jesus And Mary Chain - Just Like Honey (Official Music Video)" >}}
@@ -52,8 +57,11 @@ styles: ["Noise"]
 | ---------------| ----------- |
 | Release Year   | 1985 |
 | Discogs Link   | [The Jesus And Mary Chain - Psychocandy](https://www.discogs.com/release/8084685-The-Jesus-And-Mary-Chain-Psychocandy) |
-| Label          | Blanco Y Negro, Blanco Y Negro |
-| Format         | LP, Album |
-| Catalog Number | BYN 7, 240790-1 |
+| Label          | Blanco Y Negro |
+| Format         | Vinyl LP Album |
+| Catalog Number | BYN 7 |
 
-German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN Label differences: three layers of rim text and flag.  Includes insert.
+German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN
+Label differences: three layers of rim text and flag.
+
+Includes insert.

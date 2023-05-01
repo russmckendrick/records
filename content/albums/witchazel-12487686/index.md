@@ -2,7 +2,7 @@
 title: "Matt Berry - Witchazel"
 artist: "Matt Berry"
 album_name: "Witchazel"
-date: 2018-09-21
+date: 2018-09-21T10:28:05.000000Z
 release_id: "12487686"
 slug: "witchazel-12487686"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Witchazel by Matt Berry"
     caption: "Witchazel by Matt Berry"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. An Awakening
 2. Take My Hand
@@ -27,8 +28,9 @@ styles: null
 11. From The Manger To The Mortuary / Recorder Dance
 12. Into The Sky
 13. Roosting Time
-## Spotify
-{{< spotify type="album" id="4IPJJDq7Ur6Y7JF27ykniO" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Rdqu-HObUbo" title="MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)" >}}
@@ -51,7 +53,7 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Matt Berry - Witchazel](https://www.discogs.com/release/12487686-Matt-Berry-Witchazel) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Ltd, RE, Yel |
+| Format         | Vinyl LP Album Limited Edition Reissue (Yellow Vinyl) |
 | Catalog Number | AJXLP251X |
 
 Limited Yellow Vinyl.

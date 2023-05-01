@@ -2,7 +2,7 @@
 title: "Mark Hollis - Mark Hollis"
 artist: "Mark Hollis"
 album_name: "Mark Hollis"
-date: 2019-11-08
+date: 2019-11-08T19:39:07.000000Z
 release_id: "14282355"
 slug: "mark-hollis-14282355"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. The Colour Of Spring
 2. Watershed
@@ -22,8 +23,12 @@ styles: ["Post Rock", "Acoustic"]
 6. Westward Bound
 7. The Daily Planet
 8. A New Jerusalem
+
+
 ## Spotify
 {{< spotify type="album" id="1r8M1X0QFZw0bMMnBvwOXA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Pdf--O5WWrU" title="The Colour Of Spring" >}}
@@ -40,8 +45,23 @@ styles: ["Post Rock", "Acoustic"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Mark Hollis - Mark Hollis](https://www.discogs.com/release/14282355-Mark-Hollis-Mark-Hollis) |
-| Label          | Polydor, UMC |
-| Format         | LP, Album, RE, RM |
-| Catalog Number | 080 288-0, 0802880 |
+| Label          | Polydor |
+| Format         | Vinyl LP Album Reissue Remastered |
+| Catalog Number | 080 288-0 |
 
-Hype sticker on front: Only solo album by Talk Talk frontman A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road  Original artwork – printed inner sleeve, lyrics and credits  "A sound whose ambience is as natural as breathing"  Includes download card (1411kbps WAV files)  On rear sleeve: © 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved. Made in the EU  The tracks are numbered sequentially, 1 to 8, on the release. The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.
+Hype sticker on front:
+Only solo album by Talk Talk frontman
+A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road
+
+Original artwork – printed inner sleeve, lyrics and credits
+
+"A sound whose ambience is as natural as breathing"
+
+Includes download card (1411kbps WAV files)
+
+On rear sleeve:
+© 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved.
+Made in the EU
+
+The tracks are numbered sequentially, 1 to 8, on the release.
+The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.

@@ -2,7 +2,7 @@
 title: "The Jesus And Mary Chain - 21 Singles 1984-1998"
 artist: "The Jesus And Mary Chain"
 album_name: "21 Singles 1984-1998"
-date: 2018-07-06
+date: 2018-07-06T19:23:18.000000Z
 release_id: "12212376"
 slug: "21-singles-1984-1998-12212376"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Upside Down
 2. Never Understand
@@ -36,6 +37,9 @@ styles: ["Indie Rock"]
 20. Cracking Up
 21. I Love Rock N Roll
 
+
+
+
 ## Videos
 {{< youtube id="zK2nJWNgZBA" title="The Jesus And Mary Chain - You Trip Me Up (Official Video)" >}}
 - [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
@@ -47,7 +51,5 @@ styles: ["Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Jesus And Mary Chain - 21 Singles 1984-1998](https://www.discogs.com/release/12212376-The-Jesus-And-Mary-Chain-21-Singles-1984-1998) |
 | Label          | Warner Music Group |
-| Format         | 2xLP, Comp, RE, 180 |
+| Format         | Vinyl 2× LP Compilation Reissue (180gm) |
 | Catalog Number | 0190295669249 |
-
-

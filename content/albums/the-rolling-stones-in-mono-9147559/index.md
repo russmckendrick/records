@@ -2,7 +2,7 @@
 title: "The Rolling Stones - The Rolling Stones In Mono"
 artist: "The Rolling Stones"
 album_name: "The Rolling Stones In Mono"
-date: 2017-01-13
+date: 2017-01-13T20:12:41.000000Z
 release_id: "9147559"
 slug: "the-rolling-stones-in-mono-9147559"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. The Rolling Stones
 2. Route 66
@@ -215,8 +216,11 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 199. Street Fighting Man (Single Version)
 200. Honky Tonk Women
 201. You Can't Always Get What You Want (Single Version)
+
+
 ## Spotify
 {{< spotify type="album" id="5nKpMsduwp5xqCKq2IbSKv" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -225,7 +229,16 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Rolling Stones - The Rolling Stones In Mono](https://www.discogs.com/release/9147559-The-Rolling-Stones-The-Rolling-Stones-In-Mono) |
 | Label          | ABKCO |
-| Format         | Box, Comp, Ltd, Num + LP, Album, Mono, RE, RM + LP |
+| Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Compilation Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl 2× LP Compilation Remastered Mono (Stray Cats) |
 | Catalog Number | 018771834519 |
 
-Made in The Czech Republic (on box and covers). Made in the EU (on record labels). 10,000 numbered copies.  Includes download code for 160 kbit/s MP3 files of all tracks.  'Stray Cats' is a double LP exclusive to this box set containing all non-lp tracks released in the 1960s.  Includes a 48 page booklet with photos and an essay by David Fricke.  All runouts are laser etched.
+Made in The Czech Republic (on box and covers). Made in the EU (on record labels).
+10,000 numbered copies.
+
+Includes download code for 160 kbit/s MP3 files of all tracks.
+
+'Stray Cats' is a double LP exclusive to this box set containing all non-lp tracks released in the 1960s.
+
+Includes a 48 page booklet with photos and an essay by David Fricke.
+
+All runouts are laser etched.

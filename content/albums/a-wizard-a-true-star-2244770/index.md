@@ -2,7 +2,7 @@
 title: "Todd Rundgren - A Wizard, A True Star"
 artist: "Todd Rundgren"
 album_name: "A Wizard, A True Star"
-date: 2022-03-06
+date: 2022-03-06T04:58:52.000000Z
 release_id: "2244770"
 slug: "a-wizard-a-true-star-2244770"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. International Feel (2:53)
 2. Never Never Land (1:25)
@@ -37,8 +38,11 @@ styles: ["Pop Rock", "Prog Rock"]
 21. I Don't Want To Tie You Down (1:56)
 22. Is It My Name? (3:50)
 23. Just One Victory (4:50)
+
+
 ## Spotify
 {{< spotify type="album" id="1RSC0dy1oOIS3RO8tomZOV" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -46,8 +50,11 @@ styles: ["Pop Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 1973 |
 | Discogs Link   | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/2244770-Todd-Rundgren-A-Wizard-A-True-Star) |
-| Label          | Bearsville, Bearsville |
-| Format         | LP, Album, Gat |
-| Catalog Number | BEA 45513, BR 2133 |
+| Label          | Bearsville |
+| Format         | Vinyl LP Album Stereo (Gatefold) |
+| Catalog Number | BEA 45 513 |
 
-(P) 1973 Seperate lyric sheet, credits and a photo collage  
+(P) 1973
+Seperate lyric sheet, credits and a photo collage
+
+

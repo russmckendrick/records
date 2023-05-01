@@ -2,7 +2,7 @@
 title: "Prince - Prince"
 artist: "Prince"
 album_name: "Prince"
-date: 2016-06-26
+date: 2016-06-26T13:15:41.000000Z
 release_id: "8486292"
 slug: "prince-8486292"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Disco", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. I Wanna Be Your Lover (5:47)
 2. Why You Wanna Treat Me So Bad? (3:49)
@@ -23,8 +24,12 @@ styles: ["Disco", "Pop Rock"]
 7. Still Waiting (4:24)
 8. I Feel For You (3:24)
 9. It's Gonna Be Lonely (5:30)
+
+
 ## Spotify
 {{< spotify type="album" id="5zEFCJy9kAyD8rMbBESdYh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fPaYtVJouYA" title="Prince - Why You Wanna Treat Me So Bad? (Official Music Video)" >}}
@@ -38,8 +43,20 @@ styles: ["Disco", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Prince - Prince](https://www.discogs.com/release/8486292-Prince-Prince) |
-| Label          | Warner Bros. Records, Warner Bros. Records |
-| Format         | LP, Album, RE |
-| Catalog Number | 9362-49220-8, 553365-1 |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | 9362-49220-8 |
 
-Cover: Manufactured in the E.U.  Dust sleeve: © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8  Labels: 553365-1 © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. Manufactured in the Netherlands  Vinyl, matrix/runout: 14944 2A and 14944 2B are stamped the rest is etched
+Cover:
+Manufactured in the E.U.
+
+Dust sleeve:
+© ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8
+
+Labels:
+553365-1
+© ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc.
+Manufactured in the Netherlands
+
+Vinyl, matrix/runout:
+14944 2A and 14944 2B are stamped the rest is etched

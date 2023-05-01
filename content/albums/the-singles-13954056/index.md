@@ -2,7 +2,7 @@
 title: "The Bluetones - The Singles"
 artist: "The Bluetones"
 album_name: "The Singles"
-date: 2019-08-03
+date: 2019-08-03T09:35:37.000000Z
 release_id: "13954056"
 slug: "the-singles-13954056"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
+
 ## Tracklisting
 1. Are You Blue Or Are You Blind? (2:52)
 2. Bluetonic (4:07)
@@ -30,8 +31,12 @@ styles: ["Soft Rock"]
 14. Freeze Dried Pop (Dumb It Up) (2:26)
 15. Persuasion (4:07)
 16. The Bluetones Big Score (3:55)
+
+
 ## Spotify
 {{< spotify type="album" id="3R9Lp4s38Y9pMfcwG9YP27" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pxA_ESHkE4o" title="The Bluetones | The Singles Commercial (2002)" >}}
@@ -46,7 +51,9 @@ styles: ["Soft Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [The Bluetones - The Singles](https://www.discogs.com/release/13954056-The-Bluetones-The-Singles) |
 | Label          | Demon Records |
-| Format         | 2xLP, Comp, RE, Blu |
+| Format         | Vinyl 2× LP Compilation Reissue (Blue) |
 | Catalog Number | DEMREC421 |
 
-Gatefold sleeve. 500 copies available on official web store include a 12x12" print signed by the band. This compilation Ⓟ 2002 [l125796] © 2019 [l204812].
+Gatefold sleeve.
+500 copies available on official web store include a 12x12" print signed by the band.
+This compilation Ⓟ 2002 [l125796] © 2019 [l204812].

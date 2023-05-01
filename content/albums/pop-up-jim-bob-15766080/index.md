@@ -2,7 +2,7 @@
 title: "Jim Bob - Pop Up Jim Bob"
 artist: "Jim Bob"
 album_name: "Pop Up Jim Bob"
-date: 2020-08-15
+date: 2020-08-15T10:10:13.000000Z
 release_id: "15766080"
 slug: "pop-up-jim-bob-15766080"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Turn On, Tune In, Pop Up!
 2. Jo's Got Papercuts
@@ -25,8 +26,9 @@ styles: ["Alternative Rock"]
 9. Barry's On Safari (In His Safari Suit)
 10. #thoughtsandprayers
 11. You're Cancelled And We're Done
-## Spotify
-{{< spotify type="album" id="01Fq0Jk1uACkBRxmeCLGYD" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="OqRWb9JQW_0" title="Jim Bob - Jo's Got Papercuts [Official Video]" >}}
@@ -42,7 +44,9 @@ styles: ["Alternative Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Jim Bob - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-Pop-Up-Jim-Bob) |
 | Label          | Cherry Red |
-| Format         | LP, Album, Ltd |
+| Format         | Vinyl LP Album Limited Edition Stereo |
 | Catalog Number | BRED808 |
 
-Gatefold sleeve.  2021 Jim Bob Calendar included
+Gatefold sleeve.
+
+2021 Jim Bob Calendar included

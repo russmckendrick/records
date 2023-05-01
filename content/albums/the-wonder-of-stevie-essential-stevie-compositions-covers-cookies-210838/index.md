@@ -1,18 +1,19 @@
 ---
-title: "DJ Spinna & Bobbito - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
-artist: "DJ Spinna & Bobbito"
+title: "DJ Spinna - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
+artist: "DJ Spinna"
 album_name: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
-date: 2016-08-03
+date: 2016-08-03T18:28:59.000000Z
 release_id: "210838"
 slug: "the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838"
 hideSummary: true
 cover:
     image: "the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838.jpg"
-    alt: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna & Bobbito"
-    caption: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna & Bobbito"
+    alt: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna"
+    caption: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna"
 genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
+
 ## Tracklisting
 1. Pastime Paradise (8:31)
 2. Love Having You Around (6:52)
@@ -26,6 +27,9 @@ styles: ["Soul", "Funk", "Disco"]
 10. I Was Made To Love Her (2:53)
 11. Spring High (4:14)
 12. Golden Lady (3:14)
+
+
+
 
 ## Videos
 {{< youtube id="aSORZzduAos" title="DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise" >}}
@@ -42,9 +46,7 @@ styles: ["Soul", "Funk", "Disco"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2003 |
-| Discogs Link   | [DJ Spinna & Bobbito - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)](https://www.discogs.com/release/210838-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Essential-Stevie-Compositions-Covers-Cookies) |
+| Discogs Link   | [DJ Spinna - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)](https://www.discogs.com/release/210838-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Essential-Stevie-Compositions-Covers-Cookies) |
 | Label          | Harmless |
-| Format         | 2x12\", Comp |
+| Format         | Vinyl 2× 12" Compilation |
 | Catalog Number | HURTLP051 |
-
-

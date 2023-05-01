@@ -2,7 +2,7 @@
 title: "Fleetwood Mac - Fleetwood Mac"
 artist: "Fleetwood Mac"
 album_name: "Fleetwood Mac"
-date: 2019-12-02
+date: 2019-12-02T09:34:05.000000Z
 release_id: "14471238"
 slug: "fleetwood-mac-14471238"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Monday Morning (2:48)
 2. Warm Ways (3:50)
@@ -25,19 +26,25 @@ styles: ["Pop Rock"]
 9. World Turning (4:25)
 10. Sugar Daddy (4:09)
 11. I'm So Afraid (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="5VIQ3VaAoRKOEpJ0fewdvo" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="pSMmTDddV3w" title="Fleetwood Mac   First Album with Stevie Nicks" >}}
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Fleetwood Mac - Fleetwood Mac](https://www.discogs.com/release/14471238-Fleetwood-Mac-Fleetwood-Mac) |
-| Label          | Reprise Records, Reprise Records |
-| Format         | LP, Album, RE, Whi |
-| Catalog Number | RCV1 2281, 603497850501 |
+| Label          | Reprise Records |
+| Format         | Vinyl LP Album Reissue Stereo (White) |
+| Catalog Number | RCV1 2281 |
 
-Reissue on white vinyl. ℗ & © 1975 Warner Records Inc. Made in the E.U.  The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].    .
+Reissue on white vinyl.
+℗ & © 1975 Warner Records Inc.
+Made in the E.U.
+
+The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].
+   .

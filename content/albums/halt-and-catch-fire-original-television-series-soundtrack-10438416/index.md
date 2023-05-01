@@ -2,7 +2,7 @@
 title: "Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)"
 artist: "Paul Haslinger"
 album_name: "Halt And Catch Fire (Original Television Series Soundtrack)"
-date: 2017-07-01
+date: 2017-07-01T11:17:09.000000Z
 release_id: "10438416"
 slug: "halt-and-catch-fire-original-television-series-soundtrack-10438416"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Ambient", "Berlin-School", "Score"]
 ---
+
 ## Tracklisting
 1. Golden Gate (2:06)
 2. A Wolf In Unix (1:16)
@@ -37,8 +38,11 @@ styles: ["Ambient", "Berlin-School", "Score"]
 21. The End Of Donna's Day (1:04)
 22. It's Not Right (1:23)
 23. MacMillan Utility (1:51)
+
+
 ## Spotify
 {{< spotify type="album" id="6SREPA19KJrxIfMhijErlF" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -46,8 +50,17 @@ styles: ["Ambient", "Berlin-School", "Score"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)](https://www.discogs.com/release/10438416-Paul-Haslinger-Halt-And-Catch-Fire-Original-Television-Series-Soundtrack) |
-| Label          | Fire Records, Lakeshore Records LLC., Fire Records, Lakeshore Records LLC. |
-| Format         | LP, Album, Dlx, Ltd, Whi |
-| Catalog Number | FROST001LP, FROST001LPX |
+| Label          | Fire Records |
+| Format         | Vinyl LP Album Deluxe Edition Limited Edition (White) |
+| Catalog Number | FROST001LP |
 
-Deluxe, limited “Mutiny” edition pressed on white vinyl, with a die-cut outer slipcover, gatefold main sleeve, and printed “floppy disk” inner sleeve. Printed, jewelcase-sized credit sheet also included.  Catalogue number appears as FROST001LP on main sleeve spine. Catalogue number appears as FROST001LPX on outer slipcover spine.  Text from sleeve:  © 2016 Lakeshore Records LLC ℗ 2016 Lakeshore Records, Fire Records. © 2017 Lakeshore Records, Fire Records. Under license from Lakeshore Records. A Fire Soundtracks release.
+Deluxe, limited “Mutiny” edition pressed on white vinyl, with a die-cut outer slipcover, gatefold main sleeve, and printed “floppy disk” inner sleeve. Printed, jewelcase-sized credit sheet also included.
+
+Catalogue number appears as FROST001LP on main sleeve spine.
+Catalogue number appears as FROST001LPX on outer slipcover spine.
+
+Text from sleeve:
+
+© 2016 Lakeshore Records LLC
+℗ 2016 Lakeshore Records, Fire Records. © 2017 Lakeshore Records, Fire Records.
+Under license from Lakeshore Records. A Fire Soundtracks release.

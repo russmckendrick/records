@@ -2,7 +2,7 @@
 title: "Little Angels - Don't Prey For Me"
 artist: "Little Angels"
 album_name: "Don't Prey For Me"
-date: 2016-04-04
+date: 2016-04-04T21:20:19.000000Z
 release_id: "2591341"
 slug: "don-t-prey-for-me-2591341"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Do You Wanna Riot
 2. Kick Hard
@@ -27,6 +28,9 @@ styles: ["Hard Rock"]
 11. No Solution
 12. She's A Little Angel
 
+
+
+
 ## Videos
 {{< youtube id="wW4ex-Id_nA" title="Little Angels - Don't Prey For Me (Full Album)" >}}
 - [Little Angels - Don´t pray for me](https://www.youtube.com/watch?v=H5Mx2UZ2UaA)
@@ -38,7 +42,12 @@ styles: ["Hard Rock"]
 | Release Year   | 1990 |
 | Discogs Link   | [Little Angels - Don't Prey For Me](https://www.discogs.com/release/2591341-Little-Angels-Dont-Prey-For-Me) |
 | Label          | Polydor |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 843 469-1 |
 
-With hype sticker on sleeve. Includes black and white printed inner sleeve.  ℗ 1989 Polydor Ltd. (UK) ℗ 1990 Polydor Ltd. (UK) © 1990 Polydor Ltd. (UK)
+With hype sticker on sleeve.
+Includes black and white printed inner sleeve.
+
+℗ 1989 Polydor Ltd. (UK)
+℗ 1990 Polydor Ltd. (UK)
+© 1990 Polydor Ltd. (UK)

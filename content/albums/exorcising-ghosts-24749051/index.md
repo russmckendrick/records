@@ -2,7 +2,7 @@
 title: "Japan - Exorcising Ghosts"
 artist: "Japan"
 album_name: "Exorcising Ghosts"
-date: 2022-10-21
+date: 2022-10-21T09:01:38.000000Z
 release_id: "24749051"
 slug: "exorcising-ghosts-24749051"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave"]
 ---
+
 ## Tracklisting
 1. Methods Of Dance
 2. Swing
@@ -30,8 +31,12 @@ styles: ["Synth-pop", "New Wave"]
 14. Life Without Buildings
 15. Talking Drum
 16. The Art Of Parties
+
+
 ## Spotify
 {{< spotify type="album" id="0ezKQuRSkTDJSgwJ6iL4Jq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="WJGzrTfVwVk" title="Quiet Life" >}}
@@ -55,8 +60,16 @@ styles: ["Synth-pop", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Japan - Exorcising Ghosts](https://www.discogs.com/release/24749051-Japan-Exorcising-Ghosts) |
-| Label          | Virgin EMI Records, UMC |
-| Format         | 2xLP, Comp, RE, Hal |
+| Label          | Virgin EMI Records |
+| Format         | Vinyl 2× LP Compilation Reissue (Half Speed Mastered) |
 | Catalog Number | ARHSDLP009 |
 
-A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.  ℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd.   © 2022 Virgin Records Limited.  Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.  Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip. 
+A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.
+
+℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd. 
+ © 2022 Virgin Records Limited.
+
+Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.
+
+Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip.
+

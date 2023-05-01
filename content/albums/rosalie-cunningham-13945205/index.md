@@ -2,7 +2,7 @@
 title: "Rosalie Cunningham - Rosalie Cunningham"
 artist: "Rosalie Cunningham"
 album_name: "Rosalie Cunningham"
-date: 2019-09-03
+date: 2019-09-03T17:17:57.000000Z
 release_id: "13945205"
 slug: "rosalie-cunningham-13945205"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Ride On My Bike
 2. Fuck Love
@@ -22,8 +23,12 @@ styles: ["Psychedelic Rock"]
 6. Riddles And Games
 7. Butterflies 
 8. A Yarn From The Wheel
+
+
 ## Spotify
 {{< spotify type="album" id="7g9nava0UGMviUscrU4gOf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}
@@ -35,7 +40,9 @@ styles: ["Psychedelic Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205-Rosalie-Cunningham-Rosalie-Cunningham) |
 | Label          | Esoteric Antenna |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EANTLP1075 |
 
-Standard black vinyl 200 copies was signed by the band Made in the EU
+Standard black vinyl
+200 copies was signed by the band
+Made in the EU

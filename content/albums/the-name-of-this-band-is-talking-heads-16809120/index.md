@@ -2,7 +2,7 @@
 title: "Talking Heads - The Name Of This Band Is Talking Heads"
 artist: "Talking Heads"
 album_name: "The Name Of This Band Is Talking Heads"
-date: 2021-01-23
+date: 2021-01-23T07:52:11.000000Z
 release_id: "16809120"
 slug: "the-name-of-this-band-is-talking-heads-16809120"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Art Rock", "Funk"]
 ---
+
 ## Tracklisting
 1. New Feeling (3:10)
 2. A Clean Break (4:57)
@@ -31,8 +32,12 @@ styles: ["New Wave", "Art Rock", "Funk"]
 15. The Great Curve (6:58)
 16. Crosseyed And Painless (7:05)
 17. Take Me To The River (6:43)
+
+
 ## Spotify
 {{< spotify type="album" id="2WTDHjiVNCHY3ju9kmGNOY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2KM5XNGJDqg" title="New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)" >}}
@@ -60,8 +65,16 @@ styles: ["New Wave", "Art Rock", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Talking Heads - The Name Of This Band Is Talking Heads](https://www.discogs.com/release/16809120-Talking-Heads-The-Name-Of-This-Band-Is-Talking-Heads) |
-| Label          | Sire, Sire |
-| Format         | 2xLP, Album, Ltd, RE, RP, Red |
-| Catalog Number | RCV5 3590, 603497845347 |
+| Label          | Sire |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Red Opaque ) |
+| Catalog Number | RCV5 3590 |
 
-Rhino 2021 "Start Your Ear Off Right" release.  Limited edition of 4,500 copies.  On outer sleeve - ℗© 1982 Sire Records Company On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc. On labels -  ℗ & © 1982 Sire Records Company  Made in Germany on labels / Made in Germany sticker on shrinkwrap
+Rhino 2021 "Start Your Ear Off Right" release.
+
+Limited edition of 4,500 copies.
+
+On outer sleeve - ℗© 1982 Sire Records Company
+On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc.
+On labels -  ℗ & © 1982 Sire Records Company
+
+Made in Germany on labels / Made in Germany sticker on shrinkwrap

@@ -1,18 +1,19 @@
 ---
-title: "Mötley Crüe - Crücial Crüe - The Studio Albums 1981-1989"
+title: "Mötley Crüe - Crücial Crüe (The Studio Albums 1981-1989)"
 artist: "Mötley Crüe"
-album_name: "Crücial Crüe - The Studio Albums 1981-1989"
-date: 2023-02-20
+album_name: "Crücial Crüe (The Studio Albums 1981-1989)"
+date: 2023-02-20T10:18:36.000000Z
 release_id: "26124641"
 slug: "crcial-cre-the-studio-albums-1981-1989-26124641"
 hideSummary: true
 cover:
     image: "crcial-cre-the-studio-albums-1981-1989-26124641.jpg"
-    alt: "Crücial Crüe - The Studio Albums 1981-1989 by Mötley Crüe"
-    caption: "Crücial Crüe - The Studio Albums 1981-1989 by Mötley Crüe"
+    alt: "Crücial Crüe (The Studio Albums 1981-1989) by Mötley Crüe"
+    caption: "Crücial Crüe (The Studio Albums 1981-1989) by Mötley Crüe"
 genres: ["Rock"]
 styles: ["Hard Rock", "Glam"]
 ---
+
 ## Tracklisting
 1. Too Fast For Love (1981)
 2. Live Wire 
@@ -72,13 +73,23 @@ styles: ["Hard Rock", "Glam"]
 56. Time For Change
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
-| Discogs Link   | [Mötley Crüe - Crücial Crüe - The Studio Albums 1981-1989](https://www.discogs.com/release/26124641-M%C3%B6tley-Cr%C3%BCe-Cr%C3%BCcial-Cr%C3%BCe-The-Studio-Albums-1981-1989) |
+| Discogs Link   | [Mötley Crüe - Crücial Crüe (The Studio Albums 1981-1989)](https://www.discogs.com/release/26124641-M%C3%B6tley-Cr%C3%BCe-Cr%C3%BCcial-Cr%C3%BCe-The-Studio-Albums-1981-1989) |
 | Label          | BMG |
-| Format         | LP, Album, RE, RM, Whi + LP, Album, RE, RM, Yel +  |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (White / Black Splatter, 180 Gr.), Vinyl LP Album Reissue Remastered Stereo (Yellow / Black Splatter, 180 Gr., Gatefold), Vinyl LP Album Reissue Remastered Stereo (Hot Pink Magenta / Black Splatter, 180 Gr.), Vinyl LP Album Reissue Remastered Stereo (Cyan Blue / Black Splatter, 180 Gr.), Vinyl LP Album Reissue Stereo (Coke Bottle Green / Oxblood Splatter, 180 Gr.), Box Set Compilation Limited Edition |
 | Catalog Number | 5388 16322 |
 
-Limited Edition 5LP box Set - 7500 pieces.  Too Fast For Love – White / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Shout At The Devil – Yellow / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Theatre Of Pain – Hot Pink Magenta / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Girls, Girls, Girls – Cyan Blue / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech) Dr. Feelgood – Coke Bottle Green / Oxblood Splatter Vinyl (no indication for "Remastered")  Each album comes with printed inner sleeve.
+Limited Edition 5LP box Set - 7500 pieces.
+
+Too Fast For Love – White / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech)
+Shout At The Devil – Yellow / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech)
+Theatre Of Pain – Hot Pink Magenta / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech)
+Girls, Girls, Girls – Cyan Blue / Black Splatter Vinyl (indicated "Remastered" by Kevin Gray at AcousTech)
+Dr. Feelgood – Coke Bottle Green / Oxblood Splatter Vinyl (no indication for "Remastered")
+
+Each album comes with printed inner sleeve.

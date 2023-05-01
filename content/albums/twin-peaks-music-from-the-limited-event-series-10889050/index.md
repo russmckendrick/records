@@ -2,7 +2,7 @@
 title: "Various - Twin Peaks (Music From The Limited Event Series)"
 artist: "Various"
 album_name: "Twin Peaks (Music From The Limited Event Series)"
-date: 2017-09-23
+date: 2017-09-23T11:28:39.000000Z
 release_id: "10889050"
 slug: "twin-peaks-music-from-the-limited-event-series-10889050"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "Soul", "Soundtrack", "Dream Pop"]
 ---
+
 ## Tracklisting
 1. Twin Peaks Main Theme (Edit)
 2. Shadow
@@ -35,6 +36,9 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 19. I've Been Loving You Too Long (Live From Monterey Pop)
 20. The World Spins
 
+
+
+
 ## Videos
 {{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack (HQ)" >}}
 - [THE NINE INCH NAILS - SHE'S GONE AWAY (Twin Peaks Music Video)](https://www.youtube.com/watch?v=GXc2rPmawek)
@@ -49,8 +53,25 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Twin Peaks (Music From The Limited Event Series)](https://www.discogs.com/release/10889050-Various-Twin-Peaks-Music-From-The-Limited-Event-Series) |
-| Label          | Rhino Records |
-| Format         | 2xLP, Album, Comp, Ltd, Red |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl 2× LP Album Compilation Limited Edition (Red and Black Splatter) |
 | Catalog Number | 081227933975 |
 
-Limited edition on transparent red and black splatter vinyl.  Gatefold sleeve. Includes poster.  Silver sticker on shrinkwrap: "20 tracks from the limited event series Songs from Bang Bang bar performances and more including Nine Inch Nails, Chromatics, Sharon Van Etten, Lissie 0 81227 93255 8 Limited Edition Color Vinyl + Poster 081227932558"  This Compilation ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company. Twin Peaks Artwork & Photos © 2017 Rancho Rosa Partnership, Inc. Made in E.U. [back cover and labels]  Reportedly limited to 1500 copies for the UK. In France, this edition exclusively sold by [fnac](https://www.discogs.com/label/23713-FNAC). Copies coming with custom stickers: [La bande originale de la série évènement](https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795061) and [fnac exclusivité - édition limitée](https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795062).
+Limited edition on transparent red and black splatter vinyl. 
+Gatefold sleeve.
+Includes poster.
+
+Silver sticker on shrinkwrap:
+"20 tracks from the limited event series
+Songs from Bang Bang bar performances and more including Nine Inch Nails, Chromatics, Sharon Van Etten, Lissie
+0 81227 93255 8
+Limited Edition
+Color Vinyl + Poster
+081227932558"
+
+This Compilation ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company.
+Twin Peaks Artwork & Photos © 2017 Rancho Rosa Partnership, Inc.
+Made in E.U. [back cover and labels]
+
+Reportedly limited to 1500 copies for the UK.
+In France, this edition exclusively sold by [url=https://www.discogs.com/label/23713-FNAC]fnac[/url]. Copies coming with custom stickers: [url=https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795061]La bande originale de la série évènement[/url] and [url=https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795062]fnac exclusivité - édition limitée[/url].

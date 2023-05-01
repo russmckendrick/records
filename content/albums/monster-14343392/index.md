@@ -2,7 +2,7 @@
 title: "R.E.M. - Monster"
 artist: "R.E.M."
 album_name: "Monster"
-date: 2019-11-01
+date: 2019-11-01T19:24:32.000000Z
 release_id: "14343392"
 slug: "monster-14343392"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Monster
 2. What's The Frequency, Kenneth?
@@ -40,22 +41,18 @@ styles: ["Indie Rock", "Alternative Rock"]
 24. Let Me In (Remix)
 25. Circus Envy (Remix)
 26. You (Remix)
+
+
 ## Spotify
 {{< spotify type="album" id="2Q6XCez8NWMKNKYMsm54DK" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="sKXooD1Z14k" title="REM - Monster HD (Full Album)" >}}
-- [R.E.M. - What's The Frequency, Kenneth? (Monster, Remastered)](https://www.youtube.com/watch?v=2ZMUNyLmarQ)
-- [R.E.M. - Crush with Eyeliner (Monster, Remastered)](https://www.youtube.com/watch?v=S9RbfBrpilw)
-- [R.E.M. - What's The Frequency, Kenneth? (Official Music Video)](https://www.youtube.com/watch?v=jWkMhCLkVOg)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [R.E.M. - Monster](https://www.discogs.com/release/14343392-REM-Monster) |
-| Label          | Craft Recordings, Craft Recordings |
-| Format         | 2xLP, Album, RE, RM, 25t |
-| Catalog Number | CR00239, 00888072111493 |
-
-
+| Label          | Craft Recordings |
+| Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary Expanded Edition) |
+| Catalog Number | CR00239 |

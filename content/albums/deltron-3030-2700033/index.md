@@ -2,7 +2,7 @@
 title: "Deltron 3030 - Deltron 3030"
 artist: "Deltron 3030"
 album_name: "Deltron 3030"
-date: 2017-03-18
+date: 2017-03-18T12:16:29.000000Z
 release_id: "2700033"
 slug: "deltron-3030-2700033"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Leftfield", "Experimental", "Conscious"]
 ---
+
 ## Tracklisting
 1. State Of The Nation
 2. 3030
@@ -35,8 +36,12 @@ styles: ["Leftfield", "Experimental", "Conscious"]
 19. Love Story
 20. Memory Loss
 21. The Assman 640 Speaks
+
+
 ## Spotify
 {{< spotify type="album" id="04uhhcjGVCHodMgZjXOlye" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4k18VIqM764" title="Deltron 3030 - Memory Loss" >}}
@@ -56,7 +61,5 @@ styles: ["Leftfield", "Experimental", "Conscious"]
 | Release Year   | 2011 |
 | Discogs Link   | [Deltron 3030 - Deltron 3030](https://www.discogs.com/release/2700033-Deltron-3030-Deltron-3030) |
 | Label          | Deltron Partners |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | DEL 75033 |
-
-

@@ -2,7 +2,7 @@
 title: "XTC - Apple Venus Volume One"
 artist: "XTC"
 album_name: "Apple Venus Volume One"
-date: 2018-10-27
+date: 2018-10-27T09:36:06.000000Z
 release_id: "12595763"
 slug: "apple-venus-volume-one-12595763"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. River Of Orchids (5:53)
 2. I’d Like That (3:50)
@@ -26,11 +27,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Harvest Festival (4:15)
 11. The Last Balloon (6:40)
 
+
+
+
 ## Videos
-{{< youtube id="BXcGM4iU1a0" title="XTC - River of Orchids" >}}
-- [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
-- [XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)](https://www.youtube.com/watch?v=tdjNPX2gjrU)
+{{< youtube id="tdjNPX2gjrU" title="XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)" >}}
 - [XTC- I'd Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
+- [XTC - River of Orchids](https://www.youtube.com/watch?v=BXcGM4iU1a0)
+- [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
 - [XTC- Easter Theatre -  Apple Venus Volume 1 -](https://www.youtube.com/watch?v=vgUuaiiRTas)
 - [XTC - Apple Venus Demos - I'm Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
 - [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
@@ -41,7 +45,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [XTC - Apple Venus Volume One](https://www.discogs.com/release/12595763-XTC-Apple-Venus-Volume-One) |
 | Label          | Ape House |
-| Format         | LP, Album, RE, 200 |
+| Format         | Vinyl LP Album Reissue (200 Gram ) |
 | Catalog Number | APELP118 |
-
-

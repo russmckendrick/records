@@ -2,7 +2,7 @@
 title: "Cleft - Bosh!"
 artist: "Cleft"
 album_name: "Bosh!"
-date: 2015-09-22
+date: 2015-09-22T17:41:46.000000Z
 release_id: "7385545"
 slug: "bosh-7385545"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. 12 Second Panda (4:16)
 2. Tamed Beests (3:30)
@@ -24,8 +25,12 @@ styles: ["Prog Rock"]
 8. Buffet Remorse (4:48)
 9. Pudendal (2:39)
 10. Hostage (3:50)
+
+
 ## Spotify
 {{< spotify type="album" id="4lEh61xtnppqi8iMficFlo" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qot35mfF_ls" title="Cleft live in session - Hostage" >}}
@@ -37,7 +42,9 @@ styles: ["Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Cleft - Bosh!](https://www.discogs.com/release/7385545-Cleft-Bosh) |
 | Label          | Mega Face Records |
-| Format         | 12\", Album, Ltd, M/Print, Num, RP, Blu |
+| Format         | Vinyl 12" Album Limited Edition Misprint Numbered Repress (Blue Transparent) |
 | Catalog Number | MFR03 |
 
-300 pressings on 12" transparent blue vinyl.  Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve.
+300 pressings on 12" transparent blue vinyl.
+
+Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve.

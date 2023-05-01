@@ -2,7 +2,7 @@
 title: "Super Furry Animals - Rings Around The World"
 artist: "Super Furry Animals"
 album_name: "Rings Around The World"
-date: 2021-09-03
+date: 2021-09-03T05:40:02.000000Z
 release_id: "20075032"
 slug: "rings-around-the-world-20075032"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Alternate Route To Vulcan Street
 2. Sidewalk Serfer Girl
@@ -27,8 +28,12 @@ styles: ["IDM", "Indie Rock"]
 11. Presidential Suite
 12. Run! Christian, Run!
 13. Fragile Happiness
+
+
 ## Spotify
 {{< spotify type="album" id="6g6WBTqT5gE4fAcwRljpjc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dmCZ4f8NhOk" title="Super Furry Animals - Juxtapozed with U (Video)" >}}
@@ -42,7 +47,11 @@ styles: ["IDM", "Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Super Furry Animals - Rings Around The World](https://www.discogs.com/release/20075032-Super-Furry-Animals-Rings-Around-The-World) |
 | Label          | BMG |
-| Format         | 2xLP, Album, RE, RM |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Catalog Number | BMGCAT510DLP |
 
-20th Anniversary Re-Issue  ℗+© 2021 BMG Rights Management (UK) Ltd. Made in the Czech Republic. 
+20th Anniversary Re-Issue
+
+℗+© 2021 BMG Rights Management (UK) Ltd.
+Made in the Czech Republic.
+

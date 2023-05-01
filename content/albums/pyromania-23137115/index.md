@@ -2,7 +2,7 @@
 title: "Def Leppard - Pyromania"
 artist: "Def Leppard"
 album_name: "Pyromania"
-date: 2022-05-09
+date: 2022-05-09T02:38:44.000000Z
 release_id: "23137115"
 slug: "pyromania-23137115"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Pyromania by Def Leppard"
     caption: "Pyromania by Def Leppard"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Rock! Rock! (Till You Drop) (3:53)
 2. Photograph (4:12)
@@ -24,8 +25,12 @@ styles: null
 8. Comin’ Under Fire (4:20)
 9. Action! Not Words (3:52)
 10. Billy’s Got A Gun (5:27)
+
+
 ## Spotify
 {{< spotify type="album" id="5ab6RIlAGwbVAacV1JIr2d" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}
@@ -41,8 +46,14 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115-Def-Leppard-Pyromania) |
-| Label          | Vertigo, UMC |
-| Format         | LP, Album, RE, RM |
+| Label          | Vertigo |
+| Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Catalog Number | 5777362 |
 
-2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios.
+2022 Reissue 
+
+Mastered at Masterdisk by Bob Ludwig.
+Front Cover Illustration by Bernard Gudynas.
+Back Cover Photograph by David Landslide.
+Album Sleeve Concept and Design by Satori.
+Recorded between bouts of World Cup Soccer at Park Gates Studios.

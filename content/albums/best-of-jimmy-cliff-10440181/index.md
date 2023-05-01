@@ -2,7 +2,7 @@
 title: "Jimmy Cliff - Best Of Jimmy Cliff"
 artist: "Jimmy Cliff"
 album_name: "Best Of Jimmy Cliff"
-date: 2017-08-18
+date: 2017-08-18T18:21:55.000000Z
 release_id: "10440181"
 slug: "best-of-jimmy-cliff-10440181"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Best Of Jimmy Cliff by Jimmy Cliff"
     caption: "Best Of Jimmy Cliff by Jimmy Cliff"
 genres: ["Reggae"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. You Can Get It If You Really Want
 2. Wild World
@@ -26,8 +27,11 @@ styles: null
 10. Hard Road To Travel
 11. Hello Sunshine
 12. The Harder They Come
+
+
 ## Spotify
 {{< spotify type="album" id="0g0F1l0hQ1nZTelBbmlmB5" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -35,8 +39,6 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Jimmy Cliff - Best Of Jimmy Cliff](https://www.discogs.com/release/10440181-Jimmy-Cliff-Best-Of-Jimmy-Cliff) |
-| Label          | Island Records, UMe, A&M Records |
-| Format         | LP, Comp |
+| Label          | Island Records |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | B0026395-01 |
-
-

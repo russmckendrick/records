@@ -2,7 +2,7 @@
 title: "Howlin' Wolf - The Real Folk Blues"
 artist: "Howlin' Wolf"
 album_name: "The Real Folk Blues"
-date: 2016-04-30
+date: 2016-04-30T15:22:06.000000Z
 release_id: "6663919"
 slug: "the-real-folk-blues-6663919"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
+
 ## Tracklisting
 1. Killing Floor (2:50)
 2. Louise (2:45)
@@ -26,8 +27,12 @@ styles: ["Chicago Blues"]
 10. Built For Comfort (2:39)
 11. Ooh Baby, Hold Me (2:41)
 12. Tell Me What I've Done (2:50)
+
+
 ## Spotify
 {{< spotify type="album" id="02H7GlBPL5ur7WBXHna8W0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pm-v_7K66rw" title="Howlin' Wolf - Tell Me What I've Done [HD]" >}}
@@ -47,7 +52,9 @@ styles: ["Chicago Blues"]
 | Release Year   | 2015 |
 | Discogs Link   | [Howlin' Wolf - The Real Folk Blues](https://www.discogs.com/release/6663919-Howlin-Wolf-The-Real-Folk-Blues) |
 | Label          | Dolchess |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | DOL1502H |
 
-180g HQ Virgin Vinyl. Manufactured in Europe. The runouts are etched.
+180g HQ Virgin Vinyl.
+Manufactured in Europe.
+The runouts are etched.

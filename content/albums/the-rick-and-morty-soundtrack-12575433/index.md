@@ -2,7 +2,7 @@
 title: "Various - The Rick And Morty Soundtrack"
 artist: "Various"
 album_name: "The Rick And Morty Soundtrack"
-date: 2018-11-04
+date: 2018-11-04T14:48:53.000000Z
 release_id: "12575433"
 slug: "the-rick-and-morty-soundtrack-12575433"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. Rick And Morty Theme
 2. Jerry's Rick
@@ -41,6 +42,9 @@ styles: ["Soundtrack"]
 25. Rick And Morty Score Medley
 26. Human Music
 
+
+
+
 ## Videos
 {{< youtube id="YQxRvqD4oSQ" title="Rick and Morty - Rick and Morty Theme" >}}
 - [Rick and Morty - Full Official Soundtrack](https://www.youtube.com/watch?v=agDkuOaCb6E)
@@ -59,8 +63,11 @@ styles: ["Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - The Rick And Morty Soundtrack](https://www.discogs.com/release/12575433-Various-The-Rick-And-Morty-Soundtrack) |
-| Label          | Sub Pop, [adult swim] |
-| Format         | 2xLP, Comp |
+| Label          | Sub Pop |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | SP1265 |
 
-Black Vinyl Two single-pocket LP jackets housed together in a custom die-cut slipcase. Full color, printed inner sleeves with credits and thank yous. Includes digital download code.  Track list and title are stickers affixed to the shrink wrap.
+Black Vinyl
+Two single-pocket LP jackets housed together in a custom die-cut slipcase. Full color, printed inner sleeves with credits and thank yous. Includes digital download code.
+
+Track list and title are stickers affixed to the shrink wrap.

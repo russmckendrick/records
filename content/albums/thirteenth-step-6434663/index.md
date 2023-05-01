@@ -2,7 +2,7 @@
 title: "A Perfect Circle - Thirteenth Step"
 artist: "A Perfect Circle"
 album_name: "Thirteenth Step"
-date: 2018-02-07
+date: 2018-02-07T20:35:40.000000Z
 release_id: "6434663"
 slug: "thirteenth-step-6434663"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Package (7:40)
 2. Weak And Powerless (3:15)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 10. Pet (4:34)
 11. Lullaby (2:01)
 12. Gravity (5:08)
+
+
 ## Spotify
 {{< spotify type="album" id="49K6hYDEr5M3GxIBBxlPf9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="m2Yhn6-jJPE" title="The Package" >}}
@@ -42,7 +47,16 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [A Perfect Circle - Thirteenth Step](https://www.discogs.com/release/6434663-A-Perfect-Circle-Thirteenth-Step) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
 | Catalog Number | MOVLP1114 |
 
-Pressing plant uncredited, identified by matrix numbers   Sticker says: "Music On Vinyl Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Original release Ⓟ 2003 Virgin Records America, Inc.  This release Ⓟ & Ⓒ 2014 Universal Music B.V.
+Pressing plant uncredited, identified by matrix numbers 
+
+Sticker says:
+"Music On Vinyl
+Classic Album
+180 gram audiophile vinyl pressing
+www.musiconvinyl.com"
+
+Original release Ⓟ 2003 Virgin Records America, Inc. 
+This release Ⓟ & Ⓒ 2014 Universal Music B.V.

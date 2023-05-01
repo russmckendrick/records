@@ -2,7 +2,7 @@
 title: "Run The Jewels - Run The Jewels 2"
 artist: "Run The Jewels"
 album_name: "Run The Jewels 2"
-date: 2015-08-09
+date: 2015-08-09T08:37:30.000000Z
 release_id: "6653718"
 slug: "run-the-jewels-2-6653718"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop"]
 ---
+
 ## Tracklisting
 1. Jeopardy
 2. Oh My Darling Don't Cry
@@ -25,8 +26,12 @@ styles: ["Hardcore Hip-Hop"]
 9. Love Again (Akinyele Back)
 10. Crown
 11. Angel Duster
+
+
 ## Spotify
 {{< spotify type="album" id="6WBUyDe1Xy8QRwF6wzhJsY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="G-S9mtYowPY" title="Run The Jewels - Oh My Darling (Don't Cry) (Official Video)" >}}
@@ -49,7 +54,40 @@ styles: ["Hardcore Hip-Hop"]
 | Release Year   | 2015 |
 | Discogs Link   | [Run The Jewels - Run The Jewels 2](https://www.discogs.com/release/6653718-Run-The-Jewels-Run-The-Jewels-2) |
 | Label          | Mass Appeal |
-| Format         | 2xLP, Album, RE, S/Edition, Tea |
+| Format         | Vinyl 2× LP Album Reissue Special Edition (Teal, Gatefold, w/ Gangsta Boo) |
 | Catalog Number | MSAP0005LP |
 
-This version, unlike the [first pressing](https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-2/release/6093939) does feature Gangsta Boo's verse on track C9 "Love Again (Akinyele Back)" with her proper credits. It also has a different hype sticker and a different runout etching on side C.  Hype sticker: EL·P + KILLERMIKE = RUN THE JEWELS SPECIAL EDITION VINYL HIGH QUALITY 180GM TEAL COLOR 2XLP GATEFOLD COVER HAND-DRAWN POSTER WITH LYRICS / FREE STICKERS FOR THE KIDS!!! [album reviews] MSAP0005LP [Mass Appeal logo]  twitter.com/runjewels twitter.com/therealelp twitter.com/killermikegto massappealrecords.com  ℗&© 2014 ProductoMart Under exclusive license to Mass Appeal Records  For Run The Jewels info, merchandise & inquiries, check us @ www.runthejewels.net / info@runthejewels.net  Joey Raia mixed this shit at Night Hunter Studios (www.joeyraia.com) Live Booking: Sam Hunt @Windish Agency  El-P published by Definitive Jux Music Killer Mike published by Aniyah's Music / Royalty Network Little Shalimar published by Money Makes Me Dance Wilder Zoby published by Eussicise Entertainment Zack de la Rocha published by Zack Word War Publishing Boots published by Warner-Tamerlane Publishing Corp., Songs of ROC Nation Music, and In Souls. All rights administered by Warner-Tamerlane Publishing Corp. Gangta Boo published by Lady Kash Diane Coffee appears courtesy of Western Vinyl and Secretly Canadian Publishing  Tracks are listed sequentially, as they are on the release. Lacquer cut credits and pressing plant identified through runouts.
+This version, unlike the [url=https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-2/release/6093939]first pressing[/url] does feature Gangsta Boo's verse on track C9 "Love Again (Akinyele Back)" with her proper credits. It also has a different hype sticker and a different runout etching on side C.
+
+Hype sticker:
+EL·P + KILLERMIKE = RUN THE JEWELS
+SPECIAL EDITION VINYL
+HIGH QUALITY 180GM TEAL COLOR 2XLP GATEFOLD COVER
+HAND-DRAWN POSTER WITH LYRICS / FREE STICKERS FOR THE KIDS!!!
+[album reviews]
+MSAP0005LP [Mass Appeal logo]
+
+twitter.com/runjewels
+twitter.com/therealelp
+twitter.com/killermikegto
+massappealrecords.com
+
+℗&© 2014 ProductoMart
+Under exclusive license to Mass Appeal Records
+
+For Run The Jewels info, merchandise & inquiries, check us @ www.runthejewels.net / info@runthejewels.net
+
+Joey Raia mixed this shit at Night Hunter Studios (www.joeyraia.com)
+Live Booking: Sam Hunt @Windish Agency
+
+El-P published by Definitive Jux Music
+Killer Mike published by Aniyah's Music / Royalty Network
+Little Shalimar published by Money Makes Me Dance
+Wilder Zoby published by Eussicise Entertainment
+Zack de la Rocha published by Zack Word War Publishing
+Boots published by Warner-Tamerlane Publishing Corp., Songs of ROC Nation Music, and In Souls. All rights administered by Warner-Tamerlane Publishing Corp.
+Gangta Boo published by Lady Kash
+Diane Coffee appears courtesy of Western Vinyl and Secretly Canadian Publishing
+
+Tracks are listed sequentially, as they are on the release.
+Lacquer cut credits and pressing plant identified through runouts.

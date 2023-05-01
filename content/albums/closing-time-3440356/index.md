@@ -2,7 +2,7 @@
 title: "Tom Waits - Closing Time"
 artist: "Tom Waits"
 album_name: "Closing Time"
-date: 2015-08-09
+date: 2015-08-09T08:52:25.000000Z
 release_id: "3440356"
 slug: "closing-time-3440356"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 ---
+
 ## Tracklisting
 1. Ol' '55 (3:55)
 2. I Hope That I Don't Fall In Love With You (3:52)
@@ -26,8 +27,12 @@ styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 10. Little Trip To Heaven (On The Wings Of Your Love) (3:55)
 11. Grapefruit Moon (4:46)
 12. Closing Time (3:58)
+
+
 ## Spotify
 {{< spotify type="album" id="67F2ya9fonXH0jVVgLa7sb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BeeK37wrBDQ" title="Tom Waits - Ol' 55" >}}
@@ -48,8 +53,17 @@ styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Tom Waits - Closing Time](https://www.discogs.com/release/3440356-Tom-Waits-Closing-Time) |
-| Label          | Asylum Records, Rhino Vinyl, Rhino Records |
-| Format         | LP, Album, RE, RM, 180 |
-| Catalog Number | 8122-79807-1, 8122 79807 1 |
+| Label          | Asylum Records |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Catalog Number | 8122-79807-1 |
 
-On back cover: This production committed to Asylum by Herb Cohen  On sticker: LPs cut from the original analog masters  Packages replicated to the finest detail  Manufactured with more care than ever  Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package. 
+On back cover:
+This production committed to Asylum by Herb Cohen
+
+On sticker:
+LPs cut from the original analog masters 
+Packages replicated to the finest detail 
+Manufactured with more care than ever
+
+Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package.
+

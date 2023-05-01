@@ -2,7 +2,7 @@
 title: "Nick Drake - Pink Moon"
 artist: "Nick Drake"
 album_name: "Pink Moon"
-date: 2016-08-09
+date: 2016-08-09T16:31:12.000000Z
 release_id: "1890448"
 slug: "pink-moon-1890448"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Folk", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Pink Moon
 2. Place To Be
@@ -25,8 +26,12 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 9. Free Ride
 10. Harvest Breed
 11. From The Morning
+
+
 ## Spotify
 {{< spotify type="album" id="5mwOo1zikswhmfHvtqVSXg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZgHdUeMHTwc" title="Pink Moon" >}}
@@ -47,7 +52,10 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 | Release Year   | 2009 |
 | Discogs Link   | [Nick Drake - Pink Moon](https://www.discogs.com/release/1890448-Nick-Drake-Pink-Moon) |
 | Label          | Island Records |
-| Format         | LP, Album, RP |
+| Format         | Vinyl LP Repress Album |
 | Catalog Number | 006025 17456976 |
 
-Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl. Issued with hype sticker on shrink wrap and download code.  Engineer: John Wood, Sound Techniques
+Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl.
+Issued with hype sticker on shrink wrap and download code.
+
+Engineer: John Wood, Sound Techniques

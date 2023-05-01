@@ -2,7 +2,7 @@
 title: "Prince - Originals"
 artist: "Prince"
 album_name: "Originals"
-date: 2019-07-20
+date: 2019-07-20T10:15:25.000000Z
 release_id: "13737987"
 slug: "originals-13737987"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
+
 ## Tracklisting
 1. Sex Shooter (3:06)
 2. Jungle Love (3:04)
@@ -44,8 +45,12 @@ styles: ["Minneapolis Sound", "Funk"]
 28. Dear Michaelangelo
 29. Wouldn’t You Love To Love Me?
 30. Nothing Compares 2 U
+
+
 ## Spotify
 {{< spotify type="album" id="1X1So5oX4TCFGdK6BN9UXs" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cpGA0azFdCs" title="Prince - Nothing Compares 2 U (Official Music Video)" >}}
@@ -69,8 +74,40 @@ styles: ["Minneapolis Sound", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Prince - Originals](https://www.discogs.com/release/13737987-Prince-Originals) |
-| Label          | NPG Records, The Prince Estate, Warner Bros. Records |
-| Format         | 2xLP, Album, Pur + CD, Album + Dlx, Ltd |
-| Catalog Number | 603497851768, 0603497851782, R1 591459 |
+| Label          | NPG Records |
+| Format         | Vinyl 2× LP Album (Purple, 180 Gram), CD Album, All Media Deluxe Edition Limited Edition |
+| Catalog Number | 603497851768 |
 
-Red hype sticker on shrink: Limited-Edition Deluxe Set CD + 2 LP 180G Purple Vinyl 14 Previously unreleased recordings + "[m=1354092]" Includes 24-page booklet with handwritten lyrics, rare photos, and new essays by Susannah Melvoin, Nelson George & Peggy McCreary 603497851768 [Barcode]  6-panel gatefold cover, back: [The Prince Estate 'Love Symbol' logo] [NPG Records 'NPG' logo] Warner Bros. Records Inc., a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Printed in U.S.A. Manufactured in E.U. LC02982 · 603497851768 [Warner Bros. Records 'WB-shield' logo] PRINCE.COM  Spine: R1 591459 Prince Originals NPG Records/Warner Bros.  LP sized booklet: R1 591459 | 603497851768  CD: [the [same disc that was released one month before](https://www.discogs.com/Prince-Originals/release/13541996)] This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Manufactured in the E.U. GEMA/BIEM · PRINCE.COM · 0603497851782  Vinyl, labels: This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in the E.U.   Vinyl, matrix/runout: The [MPO logo]® and the subsequent numbers starting with "19" are laser etched, the rest is etched 
+Red hype sticker on shrink:
+Limited-Edition Deluxe Set
+CD + 2 LP 180G Purple Vinyl
+14 Previously unreleased recordings + "[m=1354092]"
+Includes 24-page booklet with handwritten lyrics, rare photos, and new essays by Susannah Melvoin, Nelson George & Peggy McCreary
+603497851768
+[Barcode]
+
+6-panel gatefold cover, back:
+[The Prince Estate 'Love Symbol' logo]
+[NPG Records 'NPG' logo] Warner Bros. Records Inc., a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021.
+This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.
+Printed in U.S.A. Manufactured in E.U. LC02982 · 603497851768 [Warner Bros. Records 'WB-shield' logo]
+PRINCE.COM
+
+Spine:
+R1 591459 Prince Originals NPG Records/Warner Bros.
+
+LP sized booklet:
+R1 591459 | 603497851768
+
+CD:
+[the [url=https://www.discogs.com/Prince-Originals/release/13541996]same disc that was released one month before[/url]]
+This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.
+Manufactured in the E.U. GEMA/BIEM · PRINCE.COM · 0603497851782
+
+Vinyl, labels:
+This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in the E.U.
+
+
+Vinyl, matrix/runout:
+The [MPO logo]® and the subsequent numbers starting with "19" are laser etched, the rest is etched
+

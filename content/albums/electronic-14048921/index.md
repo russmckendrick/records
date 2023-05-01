@@ -2,7 +2,7 @@
 title: "Various - Electronic"
 artist: "Various"
 album_name: "Electronic"
-date: 2019-08-31
+date: 2019-08-31T10:21:15.000000Z
 release_id: "14048921"
 slug: "electronic-14048921"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro", "Hip Hop", "Pop Rock", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Love Action (I Believe In Love) (3:51)
 2. Quiet Life (3:35)
@@ -44,8 +45,12 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 28. Steppin' Out (4:18)
 29. Echo Beach (3:36)
 30. I'm In Love With A German Film Star (3:57)
+
+
 ## Spotify
 {{< spotify type="album" id="5AgLnccLcpqgDWFO5stqx1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xhm-EqcPta0" title="Japan - Quiet Life" >}}
@@ -59,8 +64,12 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Various - Electronic](https://www.discogs.com/release/14048921-Various-Electronic) |
-| Label          | UMC, Sony Music, UMC, Sony Music |
-| Format         | 2xLP, Comp |
-| Catalog Number | 5388157, 00600753881576 |
+| Label          | UMC |
+| Format         | Vinyl 2× LP Compilation |
+| Catalog Number | 5388157 |
 
-Includes 'The Sound of Vinyl' free digital download code.  This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.  Made in the E.U.
+Includes 'The Sound of Vinyl' free digital download code.
+
+This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.
+
+Made in the E.U.

@@ -2,7 +2,7 @@
 title: "Agnes Obel - Philharmonics"
 artist: "Agnes Obel"
 album_name: "Philharmonics"
-date: 2017-01-05
+date: 2017-01-05T19:25:10.000000Z
 release_id: "2469079"
 slug: "philharmonics-2469079"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
+
 ## Tracklisting
 1. Falling, Catching (1:35)
 2. Riverside (3:50)
@@ -26,8 +27,12 @@ styles: ["Folk"]
 10. Wallflower (2:28)
 11. Over The Hill (2:50)
 12. On Powdered Ground (4:10)
+
+
 ## Spotify
 {{< spotify type="album" id="1hOKjrormSHpyOw0BREwEx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="DHBa2ANs0fo" title="Agnes Obel - Falling, Catching" >}}
@@ -48,8 +53,12 @@ styles: ["Folk"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Agnes Obel - Philharmonics](https://www.discogs.com/release/2469079-Agnes-Obel-Philharmonics) |
-| Label          | [PIAS] Recordings, [PIAS] Recordings |
-| Format         | LP, Album |
-| Catalog Number | PIASR 195 LP, 945.A195.010 |
+| Label          | [PIAS] Recordings |
+| Format         | Vinyl LP Album |
+| Catalog Number | PIASR 195 LP |
 
-The track numbers are given sequentially on the release, 1 to 12. Recorded in Berlin 2004 - 2010.  ℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings. [PIAS] Recordings is a label of the [PIAS] Entertainment Group.
+The track numbers are given sequentially on the release, 1 to 12.
+Recorded in Berlin 2004 - 2010.
+
+℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings.
+[PIAS] Recordings is a label of the [PIAS] Entertainment Group.

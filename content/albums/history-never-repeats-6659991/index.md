@@ -2,7 +2,7 @@
 title: "Split Enz - History Never Repeats"
 artist: "Split Enz"
 album_name: "History Never Repeats"
-date: 2018-10-03
+date: 2018-10-03T18:03:57.000000Z
 release_id: "6659991"
 slug: "history-never-repeats-6659991"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. History Never Repeats (3:00)
 2. Shark Attack (3:00)
 3. What's The Matter With You (4:34)
+
+
+
 
 ## Videos
 {{< youtube id="vFp4axRBag8" title="Split Enz - History Never Repeats" >}}
@@ -43,7 +47,14 @@ styles: ["New Wave"]
 | Release Year   | 1981 |
 | Discogs Link   | [Split Enz - History Never Repeats](https://www.discogs.com/release/6659991-Split-Enz-History-Never-Repeats) |
 | Label          | A&M Records |
-| Format         | 7\", Single, Etch |
+| Format         | Vinyl 7" 45 RPM Single Etched |
 | Catalog Number | AMS 8128 |
 
-A-side has a laser etched pattern on the vinyl.  B1 and B2 recorded live at the Hammersmith Odeon.  ℗ 1981 Mushroom Records Pty. Ltd.  A [similar version](http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169) exists with generic A&M labels. 
+A-side has a laser etched pattern on the vinyl.
+
+B1 and B2 recorded live at the Hammersmith Odeon.
+
+℗ 1981 Mushroom Records Pty. Ltd.
+
+A [url=http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169]similar version[/url] exists with generic A&M labels.
+

@@ -2,7 +2,7 @@
 title: "Gary Numan - Dance"
 artist: "Gary Numan"
 album_name: "Dance"
-date: 2018-01-19
+date: 2018-01-19T20:41:02.000000Z
 release_id: "11403737"
 slug: "dance-11403737"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Slowcar To China (9:05)
 2. Night Talk (4:26)
@@ -30,12 +31,15 @@ styles: ["Electro", "Synth-pop"]
 14. Dance (2:46)
 15. Exhibition (4:26)
 16. I Sing Rain (2:29)
+
+
 ## Spotify
 {{< spotify type="album" id="0yZIhME5Q9kHEcRFMID47w" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="RbQYtlE5hVc" title="Moral" >}}
-- [Slowcar to China](https://www.youtube.com/watch?v=ROGHXpApiwE)
+{{< youtube id="ROGHXpApiwE" title="Slowcar to China" >}}
 - [Moral (Extended Version)](https://www.youtube.com/watch?v=NTZ9IV03ZLE)
 - [Night Talk](https://www.youtube.com/watch?v=ZD-I0j-e-mU)
 - [A Subway Called 'You'](https://www.youtube.com/watch?v=udi3ox-s1QE)
@@ -53,7 +57,13 @@ styles: ["Electro", "Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Gary Numan - Dance](https://www.discogs.com/release/11403737-Gary-Numan-Dance) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Album, Ltd, RE, Pur |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple, Gatefold) |
 | Catalog Number | BBQLP 2146 |
 
-Keyboards used include Polymoog, Prophet 5, Roland JP4, CP30 and Odyssey.  Published by Numan Music USA LLC / Kobalt Music Publishing Ltd.  ℗ 1981 Beggars Banquet Records Ltd. © 2017 Beggars Banquet Records Ltd. 
+Keyboards used include Polymoog, Prophet 5, Roland JP4, CP30 and Odyssey.
+
+Published by Numan Music USA LLC / Kobalt Music Publishing Ltd.
+
+℗ 1981 Beggars Banquet Records Ltd.
+© 2017 Beggars Banquet Records Ltd.
+

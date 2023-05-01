@@ -2,7 +2,7 @@
 title: "The B-52's - Wild Planet"
 artist: "The B-52's"
 album_name: "Wild Planet"
-date: 2020-07-14
+date: 2020-07-14T11:08:21.000000Z
 release_id: "13930651"
 slug: "wild-planet-13930651"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. Party Out Of Bounds (3:21)
 2. Dirty Back Road (3:21)
@@ -23,11 +24,16 @@ styles: ["New Wave"]
 7. Quiche Lorraine (3:58)
 8. Strobe Light (3:59)
 9. 53 Miles West Of Venus (4:53)
+
+
 ## Spotify
 {{< spotify type="album" id="1K4t7Jv7DuolDWnFLxKxkd" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="BxHyliIspkA" title="The B-52's - Private Idaho (Official Audio)" >}}
+- [the B–52's ▶ Wild·Planet (Full Album)](https://www.youtube.com/watch?v=P8t6JAG2xCA)
 - [53 Miles West of Venus](https://www.youtube.com/watch?v=mvXbB67rSHc)
 
 ## Notes
@@ -35,8 +41,10 @@ styles: ["New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [The B-52's - Wild Planet](https://www.discogs.com/release/13930651-The-B-52s-Wild-Planet) |
-| Label          | Island Records, UMC |
-| Format         | LP, Album, RE, 180 |
+| Label          | Island Records |
+| Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Catalog Number | 538798 0 |
 
-180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.  Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980
+180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.
+
+Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980

@@ -2,7 +2,7 @@
 title: "Oceansize - Frames"
 artist: "Oceansize"
 album_name: "Frames"
-date: 2015-10-30
+date: 2015-10-30T18:16:27.000000Z
 release_id: "6030016"
 slug: "frames-6030016"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Commemorative ___ T-Shirt (8:37)
 2. Unfamiliar (6:32)
@@ -30,6 +31,9 @@ styles: ["Alternative Rock", "Prog Rock"]
 14. An Old Friend Of The Christy's (10:20)
 15. Sleeping Dogs And Dead Lions (6:43)
 16. The Frame (10:41)
+
+
+
 
 ## Videos
 {{< youtube id="dFkyrRqzkIQ" title="Oceansize - Unfamiliar" >}}
@@ -49,7 +53,9 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Oceansize - Frames](https://www.discogs.com/release/6030016-Oceansize-Frames) |
 | Label          | Superball Music |
-| Format         | 2xLP, Album, Red + CD, Album + Dlx, Ltd |
+| Format         | Vinyl 2× LP Album (Red Transparent), CD Album, All Media Deluxe Edition Limited Edition |
 | Catalog Number | SBMLP 001 |
 
-Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.  Transparent red vinyl limited to 100 copies. 
+Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.
+
+Transparent red vinyl limited to 100 copies. 

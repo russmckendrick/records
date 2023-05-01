@@ -2,7 +2,7 @@
 title: "Agnes Obel - Citizen Of Glass"
 artist: "Agnes Obel"
 album_name: "Citizen Of Glass"
-date: 2017-01-03
+date: 2017-01-03T18:48:28.000000Z
 release_id: "9218599"
 slug: "citizen-of-glass-9218599"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
+
 ## Tracklisting
 1. Stretch Your Eyes
 2. Familiar
@@ -24,8 +25,12 @@ styles: ["Vocal", "Ballad"]
 8. Golden Green
 9. Grasshopper
 10. Mary
+
+
 ## Spotify
 {{< spotify type="album" id="78BjMfLH8YUXM6hbodHKmA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes (Official Audio)" >}}
@@ -44,8 +49,15 @@ styles: ["Vocal", "Ballad"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Agnes Obel - Citizen Of Glass](https://www.discogs.com/release/9218599-Agnes-Obel-Citizen-Of-Glass) |
-| Label          | [PIAS], Play It Again Sam |
-| Format         | LP, Album, 180 |
+| Label          | [PIAS] |
+| Format         | Vinyl LP Album (180 Gram) |
 | Catalog Number | PIASR905LP |
 
-Debossed gatefold sleeve with full lyrics and credits printed on inside. Includes download code for MP3 and/or FLAC digital copy of the album.  Dedicated to Ole.  (P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam. All runouts etched. 
+Debossed gatefold sleeve with full lyrics and credits printed on inside.
+Includes download code for MP3 and/or FLAC digital copy of the album.
+
+Dedicated to Ole.
+
+(P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam.
+All runouts etched.
+

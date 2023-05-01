@@ -2,7 +2,7 @@
 title: "Matt Berry - Witchazel"
 artist: "Matt Berry"
 album_name: "Witchazel"
-date: 2021-08-19
+date: 2021-08-19T03:43:18.000000Z
 release_id: "19905262"
 slug: "witchazel-19905262"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Witchazel by Matt Berry"
     caption: "Witchazel by Matt Berry"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. An Awakening (0:46)
 2. Take My Hand (3:11)
@@ -27,8 +28,9 @@ styles: null
 11. From The Manger To The Mortuary / Recorder Dance (5:10)
 12. Into The Sky (3:08)
 13. Roosting Time (5:24)
-## Spotify
-{{< spotify type="album" id="4IPJJDq7Ur6Y7JF27ykniO" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Rdqu-HObUbo" title="MATT BERRY - 'Take My Hand' (official video - Acid Jazz Records)" >}}
@@ -51,7 +53,9 @@ styles: null
 | Release Year   | 2021 |
 | Discogs Link   | [Matt Berry - Witchazel](https://www.discogs.com/release/19905262-Matt-Berry-Witchazel) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, RE, Car |
+| Format         | Vinyl LP Album Reissue (Caramel) |
 | Catalog Number | AJXLP251B |
 
-10th Anniversary Edition - Caramel colored vinyl  Made in EU.
+10th Anniversary Edition - Caramel colored vinyl
+
+Made in EU.

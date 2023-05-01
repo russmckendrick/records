@@ -2,7 +2,7 @@
 title: "Belle & Sebastian - Fold Your Hands Child, You Walk Like A Peasant"
 artist: "Belle & Sebastian"
 album_name: "Fold Your Hands Child, You Walk Like A Peasant"
-date: 2017-04-25
+date: 2017-04-25T08:34:43.000000Z
 release_id: "6172190"
 slug: "fold-your-hands-child-you-walk-like-a-peasant-6172190"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. I Fought In A War
 2. The Model
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Women's Realm
 10. Family Tree
 11. There's Too Much Love
+
+
 ## Spotify
 {{< spotify type="album" id="4fzo0zlnGOAiuB6ybFPlvz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6d9sHXnT3ks" title="Belle and Sebastian - The Wrong Girl" >}}
@@ -38,7 +43,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Belle & Sebastian - Fold Your Hands Child, You Walk Like A Peasant](https://www.discogs.com/release/6172190-Belle-Sebastian-Fold-Your-Hands-Child-You-Walk-Like-A-Peasant) |
 | Label          | Matador |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | OLE 429-8 |
 
 Includes mp3 download coupon.

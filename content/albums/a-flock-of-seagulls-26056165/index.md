@@ -2,7 +2,7 @@
 title: "A Flock Of Seagulls - A Flock Of Seagulls"
 artist: "A Flock Of Seagulls"
 album_name: "A Flock Of Seagulls"
-date: 2023-02-18
+date: 2023-02-18T11:22:23.000000Z
 release_id: "26056165"
 slug: "a-flock-of-seagulls-26056165"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Modern Love Is Automatic (3:49)
 2. Messages (2:51)
@@ -25,18 +26,15 @@ styles: ["New Wave", "Synth-pop"]
 9. D.N.A. (2:30)
 10. Tokyo (2:48)
 11. Man Made (5:38)
+
+
 ## Spotify
-{{< spotify type="album" id="1hwPP3qgnV7PQrMSy6qFw8" width="100%" height="500" >}}
+{{< spotify type="album" id="4PBrFxguHrtne9aVbwWTh1" width="100%" height="500" >}}
+
+
 
 ## Videos
-{{< youtube id="gOK3rqVgN2I" title="A Flock Of Seagulls - Space Age Love Song (Official Music Video)" >}}
-- [A Flock Of Seagulls - Modern Love Is Automatic (Official Audio)](https://www.youtube.com/watch?v=Q_JB5wqirYw)
-- [A Flock of Seagulls - I Ran (So Far Away)](https://www.youtube.com/watch?v=BJ7NVjZ-Eyg)
-- [A FLOCK OF SEAGULLS * Space Age Love Song  1982   HQ](https://www.youtube.com/watch?v=yB-ijsaBryM)
-- [A Flock Of Seagulls - I Ran (So Far Away) (Video)](https://www.youtube.com/watch?v=iIpfWORQWhU)
-- [A Flock o f Seagulls - 1982 /LP Album](https://www.youtube.com/watch?v=KVq9bQXHGyc)
-- [A Flock Of Seagulls - Messages](https://www.youtube.com/watch?v=ZgB1fd07rfs)
-- [A Flock Of Seagulls - You Can Run](https://www.youtube.com/watch?v=T1K5fMKlCeI)
+{{< youtube id="T6Ee3Zwz6jg" title="A Flock of Seagulls 1982 [Full Album With Bonus Tracks] [Remastered]" >}}
 
 ## Notes
 | Notes          |             |
@@ -44,7 +42,9 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2023 |
 | Discogs Link   | [A Flock Of Seagulls - A Flock Of Seagulls](https://www.discogs.com/release/26056165-A-Flock-Of-Seagulls-A-Flock-Of-Seagulls) |
 | Label          | BMG |
-| Format         | LP, Album, Ltd, RE, RM, Ora |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Orange) |
 | Catalog Number | BMGCAT588CLP |
 
-Manufactured in Ireland. Hype sticker on shrink wrap. 
+Manufactured in Ireland.
+Hype sticker on shrink wrap.
+

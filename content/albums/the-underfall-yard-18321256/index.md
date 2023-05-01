@@ -2,7 +2,7 @@
 title: "Big Big Train - The Underfall Yard"
 artist: "Big Big Train"
 album_name: "The Underfall Yard"
-date: 2021-04-22
+date: 2021-04-22T04:45:27.000000Z
 release_id: "18321256"
 slug: "the-underfall-yard-18321256"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Evening Star (4:52)
 2. Master James Of St. George (6:11)
@@ -24,8 +25,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 8. The Underfall Yard (2020 Studio Version) (22:50)
 9. Songs From The Shoreline (18:57)
 10. Brew And Burgh (4:31)
+
+
 ## Spotify
 {{< spotify type="album" id="0RldmYaAF6Q9YeQ0cxFJ06" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="mA2-i3C3P_U" title="Evening Star" >}}
@@ -41,7 +46,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Big Big Train - The Underfall Yard](https://www.discogs.com/release/18321256-Big-Big-Train-The-Underfall-Yard) |
 | Label          | Plane Groovy |
-| Format         | 3xLP, Album, RE, RM, 180 |
+| Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180 Gram, Remixed) |
 | Catalog Number | PLG091 |
 
-The 2009 album has been completely remixed and recorded with additional tracks E1 and F2. Tracks E2 and F1.1 are re-recorded versions of the originals.   Recording details: Aubitt Studios, Southampton, England except for E1, E2, F1.1, F2 recorded by Rob Aubrey at Real World Studios. The vocals for F1.1 were recorded at The Playpen.  Packaged in a trifold jacket with polylined LP sleeves.
+The 2009 album has been completely remixed and recorded with additional tracks E1 and F2. Tracks E2 and F1.1 are re-recorded versions of the originals. 
+
+Recording details:
+Aubitt Studios, Southampton, England except for E1, E2, F1.1, F2 recorded by Rob Aubrey at Real World Studios. The vocals for F1.1 were recorded at The Playpen.
+
+Packaged in a trifold jacket with polylined LP sleeves.

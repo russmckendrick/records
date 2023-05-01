@@ -2,7 +2,7 @@
 title: "The Clash - Combat Rock"
 artist: "The Clash"
 album_name: "Combat Rock"
-date: 2016-11-18
+date: 2016-11-18T18:44:08.000000Z
 release_id: "4914174"
 slug: "combat-rock-4914174"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Dub", "Punk"]
 ---
+
 ## Tracklisting
 1. Know Your Rights (3:38)
 2. Car Jamming (3:58)
@@ -26,8 +27,11 @@ styles: ["Leftfield", "Alternative Rock", "Dub", "Punk"]
 10. Ghetto Defendant (4:45)
 11. Inoculated City (2:43)
 12. Death Is A Star (3:08)
+
+
 ## Spotify
 {{< spotify type="album" id="1ZH5g1RDq3GY1OvyD0w0s2" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,8 @@ styles: ["Leftfield", "Alternative Rock", "Dub", "Punk"]
 | Release Year   | 2013 |
 | Discogs Link   | [The Clash - Combat Rock](https://www.discogs.com/release/4914174-The-Clash-Combat-Rock) |
 | Label          | Columbia |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | 88725446971 |
 
-Printed inner sleeves with lyrics. Includes 30x21cm photo of the band on thick card.
+Printed inner sleeves with lyrics.
+Includes 30x21cm photo of the band on thick card.

@@ -2,7 +2,7 @@
 title: "Various - Singles (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "Singles (Original Motion Picture Soundtrack)"
-date: 2017-05-19
+date: 2017-05-19T08:39:36.000000Z
 release_id: "10302224"
 slug: "singles-original-motion-picture-soundtrack-10302224"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. Would?
 2. Breath
@@ -45,8 +46,12 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 29. Lost In Emily's Woods
 30. Ferry Boat #3
 31. Score Piece #4
+
+
 ## Spotify
 {{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}
@@ -71,8 +76,16 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Singles (Original Motion Picture Soundtrack)](https://www.discogs.com/release/10302224-Various-Singles-Original-Motion-Picture-Soundtrack) |
-| Label          | Epic Soundtrax, Legacy, Vinyl Films, Sony Music |
-| Format         | 2xLP, RE, Gat + CD + Comp, Dlx, 25t |
+| Label          | Epic Soundtrax |
+| Format         | Vinyl 2× LP Reissue (Gatefold Sleeve), CD, All Media Compilation Deluxe Edition (25th Anniversary Edition) |
 | Catalog Number | 88985315511 |
 
-Gatefold sleeve. Includes mp3 download card. CD issued in cardboard sleeve.  Made in the EU. (on labels and back sleeve)  Sony Music logo on back of gatefold sleeve.  Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)"
+Gatefold sleeve.
+Includes mp3 download card.
+CD issued in cardboard sleeve.
+
+Made in the EU. (on labels and back sleeve)
+
+Sony Music logo on back of gatefold sleeve.
+
+Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)"

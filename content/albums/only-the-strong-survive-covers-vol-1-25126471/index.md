@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)"
 artist: "Bruce Springsteen"
 album_name: "Only The Strong Survive (Covers Vol. 1)"
-date: 2022-11-14
+date: 2022-11-14T05:20:50.000000Z
 release_id: "25126471"
 slug: "only-the-strong-survive-covers-vol-1-25126471"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen"
     caption: "Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen"
 genres: ["Rock", "Funk / Soul", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Only The Strong Survive
 2. Soul Days
@@ -29,6 +30,9 @@ styles: null
 13. 7 Rooms Of Gloom
 14. What Becomes Of The Brokenhearted
 15. Someday We'll Be Together
+
+
+
 
 ## Videos
 {{< youtube id="oiUuEeA5aKo" title="Bruce Springsteen - Only the Strong Survive (Official Audio)" >}}
@@ -53,7 +57,16 @@ styles: null
 | Release Year   | 2022 |
 | Discogs Link   | [Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)](https://www.discogs.com/release/25126471-Springsteen-Only-The-Strong-Survive-Covers-Vol-1) |
 | Label          | Columbia |
-| Format         | LP + LP, S/Sided, Etch + Album, Ltd, Ora |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Orange [Orbit Orange]) |
 | Catalog Number | 19658753701 |
 
-Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.  © & ℗ 2022 Columbia Records Made in the EU  Comes with a sticker on the front cover: "INDIE RETAIL EXCLUSIVE THE NEW ALBUM FROM BRUCE SPRINGSTEEN LIMITED EDITION ORBIT ORANGE VINYL"
+Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.
+
+© & ℗ 2022 Columbia Records
+Made in the EU
+
+Comes with a sticker on the front cover:
+"INDIE RETAIL EXCLUSIVE
+THE NEW ALBUM FROM
+BRUCE SPRINGSTEEN
+LIMITED EDITION ORBIT ORANGE VINYL"

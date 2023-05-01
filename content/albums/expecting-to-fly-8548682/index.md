@@ -2,7 +2,7 @@
 title: "The Bluetones - Expecting To Fly"
 artist: "The Bluetones"
 album_name: "Expecting To Fly"
-date: 2016-10-04
+date: 2016-10-04T16:38:04.000000Z
 release_id: "8548682"
 slug: "expecting-to-fly-8548682"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Britpop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Talking To Clary
 2. Bluetonic
@@ -25,8 +26,12 @@ styles: ["Britpop", "Indie Rock"]
 9. Vampire
 10. A Parting Gesture
 11. Time & Again
+
+
 ## Spotify
 {{< spotify type="album" id="3hSEHy0TkvR97XPCBl4F9p" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="B-3UpL6MkZ0" title="The Bluetones - Slight Return" >}}
@@ -41,8 +46,8 @@ styles: ["Britpop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [The Bluetones - Expecting To Fly](https://www.discogs.com/release/8548682-The-Bluetones-Expecting-To-Fly) |
-| Label          | 3 Loop Music, Superior Quality Recordings |
-| Format         | LP, Album, RE |
-| Catalog Number | 3RANGE-51LP, none |
+| Label          | 3 Loop Music |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | 3RANGE-51LP |
 
 Includes download card

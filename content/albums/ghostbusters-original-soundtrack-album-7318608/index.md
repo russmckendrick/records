@@ -2,7 +2,7 @@
 title: "Various - Ghostbusters - Original Soundtrack Album"
 artist: "Various"
 album_name: "Ghostbusters - Original Soundtrack Album"
-date: 2020-08-01
+date: 2020-08-01T12:40:56.000000Z
 release_id: "7318608"
 slug: "ghostbusters-original-soundtrack-album-7318608"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Ghostbusters - Original Soundtrack Album by Various"
     caption: "Ghostbusters - Original Soundtrack Album by Various"
 genres: ["Stage & Screen"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Ghostbusters
 2. Cleanin' Up The Town
@@ -24,6 +25,9 @@ styles: null
 8. Main Title Theme (Ghostbusters)
 9. Dana's Theme
 10. Ghostbusters (Instrumental Version)
+
+
+
 
 ## Videos
 {{< youtube id="m9We2XsVZfc" title="Original GhostBusters Theme Song" >}}
@@ -44,7 +48,5 @@ styles: null
 | Release Year   | 1984 |
 | Discogs Link   | [Various - Ghostbusters - Original Soundtrack Album](https://www.discogs.com/release/7318608-Various-Ghostbusters-Original-Soundtrack-Album) |
 | Label          | Arista |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 206 559 |
-
-

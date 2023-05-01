@@ -2,7 +2,7 @@
 title: "North Sea Radio Orchestra - Dronne"
 artist: "North Sea Radio Orchestra"
 album_name: "Dronne"
-date: 2016-11-09
+date: 2016-11-09T20:10:41.000000Z
 release_id: "9116811"
 slug: "dronne-9116811"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Krautrock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. Arcade
 2. Vishnu Schist 
@@ -23,8 +24,12 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 7. Alsace Lorraine
 8. Dinosaurus Rex Part 1
 9. Dinosaurus Rex Part 2 
+
+
 ## Spotify
 {{< spotify type="album" id="7bZSRcpfVBVOMZDSRcSh13" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5AC9eYK9xq0" title="Vishnu Schist" >}}
@@ -40,7 +45,7 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 | Release Year   | 2016 |
 | Discogs Link   | [North Sea Radio Orchestra - Dronne](https://www.discogs.com/release/9116811-North-Sea-Radio-Orchestra-Dronne) |
 | Label          | The Household Mark |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | THM004LP |
 
 Limited indies only 180g vinyl LP. Vinyl edition limited to 300 copies

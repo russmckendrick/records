@@ -2,7 +2,7 @@
 title: "Rush - Roll The Bones"
 artist: "Rush"
 album_name: "Roll The Bones"
-date: 2017-02-26
+date: 2017-02-26T10:55:56.000000Z
 release_id: "7632117"
 slug: "roll-the-bones-7632117"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Dreamline
 2. Bravado
@@ -24,8 +25,11 @@ styles: ["Hard Rock", "Prog Rock"]
 8. Ghost Of A Chance
 9. Neurotica
 10. You Bet Your Life
+
+
 ## Spotify
 {{< spotify type="album" id="2myflcR6pL3Eo0vJFkyHbU" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -33,8 +37,15 @@ styles: ["Hard Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Rush - Roll The Bones](https://www.discogs.com/release/7632117-Rush-Roll-The-Bones) |
-| Label          | Atlantic, Anthem |
-| Format         | LP, Album, RE, RM, 200 |
+| Label          | Atlantic |
+| Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Catalog Number | R1 83737 |
 
-Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto. Mixed at Nomis Studios, London. Pre-production work at Chalet Studio by Lerxst Sound. Mastered at Masterdisk, NYC.  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download.
+Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto.
+Mixed at Nomis Studios, London.
+Pre-production work at Chalet Studio by Lerxst Sound.
+Mastered at Masterdisk, NYC.
+
+℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment
+
+Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download.

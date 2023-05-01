@@ -2,7 +2,7 @@
 title: "Ronnie Barker - Ronnie Barker's Unbroken British Record"
 artist: "Ronnie Barker"
 album_name: "Ronnie Barker's Unbroken British Record"
-date: 2015-12-09
+date: 2015-12-09T10:18:46.000000Z
 release_id: "4087625"
 slug: "ronnie-barker-s-unbroken-british-record-4087625"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Non-Music", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ---
+
 ## Tracklisting
 1. The Irish Medley:
 2. Plain Speaking
@@ -26,13 +27,16 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 10. The Welsh Medley:
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Ronnie Barker - Ronnie Barker's Unbroken British Record](https://www.discogs.com/release/4087625-Ronnie-Barker-Ronnie-Barkers-Unbroken-British-Record) |
 | Label          | K-Tel |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | NE 1029 |
 
-Produced & Co-ordinated by John Schroeder. A Smug Production.
+Produced & Co-ordinated by John Schroeder.
+A Smug Production.

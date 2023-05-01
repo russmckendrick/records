@@ -2,7 +2,7 @@
 title: "Joy Division - Atmosphere"
 artist: "Joy Division"
 album_name: "Atmosphere"
-date: 2020-07-17
+date: 2020-07-17T12:25:03.000000Z
 release_id: "15622185"
 slug: "atmosphere-15622185"
 hideSummary: true
@@ -13,11 +13,16 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Atmosphere
 2. She's Lost Control
+
+
 ## Spotify
 {{< spotify type="album" id="5bXAysvuhQbyWllgYuahwt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4e5uU1YNQlQ" title="JOY DIVISION - Atmosphere (Factory / 1980) FULL 12" >}}
@@ -27,8 +32,8 @@ styles: ["New Wave", "Post-Punk"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Joy Division - Atmosphere](https://www.discogs.com/release/15622185-Joy-Division-Atmosphere) |
-| Label          | Factory, Factory |
-| Format         | 12\", Single, RE, RM, 180 |
-| Catalog Number | FACUS2, FACUS 2/UK |
+| Label          | Factory |
+| Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
+| Catalog Number | FACUS2 |
 
-For unknown reasons, and unlike the other three 2020 remasters, design-wise this reproduces neither the first ever ([August 1980, US](https://www.discogs.com/de/Joy-Division-Shes-Lost-Control-Atmosphere/release/387754)), nor the first European ([October 1980 ,UK](https://www.discogs.com/de/Joy-Division-Atmosphere/release/29007)) but the third, ([November 1980, UK](https://www.discogs.com/de/Joy-Division-Atmosphere/release/1763122)) pressing
+For unknown reasons, and unlike the other three 2020 remasters, design-wise this reproduces neither the first ever ([url=https://www.discogs.com/de/Joy-Division-Shes-Lost-Control-Atmosphere/release/387754]August 1980, US[/url]), nor the first European ([url=https://www.discogs.com/de/Joy-Division-Atmosphere/release/29007]October 1980 ,UK[/url]) but the third, ([url=https://www.discogs.com/de/Joy-Division-Atmosphere/release/1763122]November 1980, UK[/url]) pressing

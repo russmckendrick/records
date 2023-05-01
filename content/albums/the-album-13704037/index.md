@@ -2,7 +2,7 @@
 title: "Mantronix - The Album"
 artist: "Mantronix"
 album_name: "The Album"
-date: 2019-06-29
+date: 2019-06-29T08:06:47.000000Z
 release_id: "13704037"
 slug: "the-album-13704037"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Electro"]
 ---
+
 ## Tracklisting
 1. This Side
 2. Bassline (5:24)
@@ -23,8 +24,12 @@ styles: ["Electro"]
 7. Ladies (6:54)
 8. Get Stupid "Fresh" Part I (3:48)
 9. Fresh Is The Word (3:48)
+
+
 ## Spotify
 {{< spotify type="album" id="10kEW14CpfmiAkXnE5Ic3K" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}
@@ -48,8 +53,6 @@ styles: ["Electro"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Mantronix - The Album](https://www.discogs.com/release/13704037-Mantronix-The-Album) |
-| Label          | Demon Music Group, Sleeping Bag Records |
-| Format         | LP, Album, RE, 180 |
+| Label          | Demon Music Group |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | DEMREC 364 |
-
-

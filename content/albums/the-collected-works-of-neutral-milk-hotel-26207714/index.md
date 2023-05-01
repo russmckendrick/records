@@ -2,7 +2,7 @@
 title: "Neutral Milk Hotel - The Collected Works Of Neutral Milk Hotel"
 artist: "Neutral Milk Hotel"
 album_name: "The Collected Works Of Neutral Milk Hotel"
-date: 2023-03-01
+date: 2023-03-01T00:20:05.000000Z
 release_id: "26207714"
 slug: "the-collected-works-of-neutral-milk-hotel-26207714"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. In The Aeroplane Over The Sea
 2. The King Of Carrot Flowers Pt. One
@@ -79,13 +80,51 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 63. Oh Comely
 
 
+
+
+## Videos
+{{< youtube id="XKRzAT19oHk" title="The Collected Works of Neutral Milk Hotel (Unboxing)" >}}
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Neutral Milk Hotel - The Collected Works Of Neutral Milk Hotel](https://www.discogs.com/release/26207714-Neutral-Milk-Hotel-The-Collected-Works-Of-Neutral-Milk-Hotel) |
 | Label          | Merge Records |
-| Format         | LP, Album, RE, Gat + 2xLP, Album, Dlx, RE, Gat + 1 |
+| Format         | Vinyl LP Album Reissue (Gatefold), Vinyl 2× LP 45 RPM Album Deluxe Edition Reissue (Gatefold), Vinyl 10" 45 RPM EP Reissue, Vinyl 10" 45 RPM Reissue, Vinyl 3× 7" 45 RPM Reissue, Vinyl LP Album Picture Disc, Box Set Compilation Limited Edition |
 | Catalog Number | MRG776 |
 
-On Avery Island sides A to C play at 45rpm, side D at 33rpm  --  Hype sticker on back of boxset reads:  ✵ NMH Vinyl Box Set Includes ✵  In The Aeroplane Over The Sea, LP With deluxe gatefold jacket.  On Avery Island, 2xLP Expanded to include the full-length version of "Pree-Sisters Swallowing a Donkey's Eye," with deluxe gatefold jacket.  Live at Jittery Joe's, 12-inch picture disc Recorded in Athens, 1997, with new artwork.  Ferris Wheel On Fire EP, 10-inch Eight acoustic recordings unavailable elsewhere.  Everything Is, 10-inch Featuring the four songs from the original EP plus two additional songs.  "Little Birds," 7-inch One previously unreleased version of "Little Birds," recorded live in Prospect Park, Brooklyn, and one demo recording.  "Where You'll Find Me Now" / "You've Passed," 7-inch Two 4-track recordings of these songs, in some ways superior to the On Avery Island versions.  "Holland" / "Engine," 7-inch With an exclusive recording of "Engine" and new artwork.  24" x 24" poster, featuring box cover art. 24" x 24" poster, featuring flying gramophone art.
+On Avery Island sides A to C play at 45rpm, side D at 33rpm
+
+--
+
+Hype sticker on back of boxset reads:
+
+✵ NMH Vinyl Box Set Includes ✵
+
+In The Aeroplane Over The Sea, LP
+With deluxe gatefold jacket.
+
+On Avery Island, 2xLP
+Expanded to include the full-length version of "Pree-Sisters Swallowing a Donkey's Eye," with deluxe gatefold jacket.
+
+Live at Jittery Joe's, 12-inch picture disc
+Recorded in Athens, 1997, with new artwork.
+
+Ferris Wheel On Fire EP, 10-inch
+Eight acoustic recordings unavailable elsewhere.
+
+Everything Is, 10-inch
+Featuring the four songs from the original EP plus two additional songs.
+
+"Little Birds," 7-inch
+One previously unreleased version of "Little Birds," recorded live in Prospect Park, Brooklyn, and one demo recording.
+
+"Where You'll Find Me Now" / "You've Passed," 7-inch
+Two 4-track recordings of these songs, in some ways superior to the On Avery Island versions.
+
+"Holland" / "Engine," 7-inch
+With an exclusive recording of "Engine" and new artwork.
+
+24" x 24" poster, featuring box cover art.
+24" x 24" poster, featuring flying gramophone art.

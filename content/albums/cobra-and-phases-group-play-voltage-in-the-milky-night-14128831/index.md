@@ -2,7 +2,7 @@
 title: "Stereolab - Cobra And Phases Group Play Voltage In The Milky Night"
 artist: "Stereolab"
 album_name: "Cobra And Phases Group Play Voltage In The Milky Night"
-date: 2019-09-15
+date: 2019-09-15T12:01:51.000000Z
 release_id: "14128831"
 slug: "cobra-and-phases-group-play-voltage-in-the-milky-night-14128831"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Experimental", "Indie Rock", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Fuses
 2. People Do It All The Time
@@ -46,8 +47,12 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 30. Strobo Acceleration (Demo)
 31. Caleidoscopic Gaze (Demo)
 32. Galaxidion (Demo)
+
+
 ## Spotify
-{{< spotify type="album" id="0n95ZoggN6kIlKXm9i82lG" width="100%" height="500" >}}
+{{< spotify type="album" id="4Amgy7JIX58geZLD6Wrz2r" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FBR6bFZbh6A" title="Stereolab - The Free Design (Official Video)" >}}
@@ -65,8 +70,14 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Stereolab - Cobra And Phases Group Play Voltage In The Milky Night](https://www.discogs.com/release/14128831-Stereolab-Cobra-And-Phases-Group-Play-Voltage-In-The-Milky-Night) |
-| Label          | Duophonic Ultra High Frequency Disks, Warp Records |
-| Format         | 2xLP, Album, RE, RM + LP + Ltd, Num, Cle |
+| Label          | Duophonic Ultra High Frequency Disks |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
 | Catalog Number | D-UHF-D23RC |
 
-Limited edition numbered clear vinyl edition (2500 copies)  With scratch card to win an exclusive Stereolab record at end of the year. Remastered from original tapes. Bonus disk of unreleased demos, outtakes and alternate mixes. Co-released by band’s own label Duophonic UHF Disks and Warp Records. Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane. Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet. 
+Limited edition numbered clear vinyl edition (2500 copies) 
+With scratch card to win an exclusive Stereolab record at end of the year.
+Remastered from original tapes.
+Bonus disk of unreleased demos, outtakes and alternate mixes.
+Co-released by band’s own label Duophonic UHF Disks and Warp Records.
+Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane.
+Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet. 

@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - The Singles"
 artist: "Inspiral Carpets"
 album_name: "The Singles"
-date: 2018-11-29
+date: 2018-11-29T12:43:00.000000Z
 release_id: "798318"
 slug: "the-singles-798318"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Joe
 2. Find Out Why
@@ -35,8 +36,12 @@ styles: ["Indie Rock"]
 19. Uniform
 20. Weakness (Live) (4:39)
 21. Caravan (Live) (3:36)
+
+
 ## Spotify
 {{< spotify type="album" id="7KZbV3dtz2xDyaN7DojXRS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cT-uBrN6IVs" title="Joe" >}}
@@ -64,8 +69,13 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1995 |
 | Discogs Link   | [Inspiral Carpets - The Singles](https://www.discogs.com/release/798318-Inspiral-Carpets-The-Singles) |
-| Label          | Mute, Mute |
-| Format         | 2xLP, Comp, Ltd + 7\" |
-| Catalog Number | MOOTEL 3, LMOOTEL 3 |
+| Label          | Mute |
+| Format         | Vinyl 2× LP Limited Edition Compilation, Vinyl 7" 45 RPM |
+| Catalog Number | MOOTEL 3 |
 
-Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.  Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".  Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"". 
+Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.
+
+Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".
+
+Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"".
+

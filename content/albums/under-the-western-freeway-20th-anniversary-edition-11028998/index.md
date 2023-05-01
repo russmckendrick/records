@@ -2,7 +2,7 @@
 title: "Grandaddy - Under The Western Freeway 20th Anniversary Edition"
 artist: "Grandaddy"
 album_name: "Under The Western Freeway 20th Anniversary Edition"
-date: 2017-10-27
+date: 2017-10-27T17:01:46.000000Z
 release_id: "11028998"
 slug: "under-the-western-freeway-20th-anniversary-edition-11028998"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Under The Western Freeway
 2. Nonphenomenal Lineage  (3:11)
@@ -36,6 +37,9 @@ styles: ["Lo-Fi", "Indie Rock"]
 20. Bjork ELO Xanadu & The Birth Of Chartsengrafs (8:16)
 21. Laughing Stock (Revelation Demo) (6:03)
 
+
+
+
 ## Videos
 {{< youtube id="ptPXxAds1Jc" title="Grandaddy - A.M. 180" >}}
 - [Grandaddy Under the Western Freeway 20th Anniversary Bonus Tracks baby](https://www.youtube.com/watch?v=Slr4XFeuX-o)
@@ -49,7 +53,14 @@ styles: ["Lo-Fi", "Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Grandaddy - Under The Western Freeway 20th Anniversary Edition](https://www.discogs.com/release/11028998-Grandaddy-Under-The-Western-Freeway-20th-Anniversary-Edition) |
 | Label          | Friendship Fever |
-| Format         | LP, Album, RE, Yel + LP, Blu |
+| Format         | Vinyl LP Album Reissue (Yellow), Vinyl LP (Blue) |
 | Catalog Number | FVRLP012 |
 
-Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet. Disc 2 mastered at Wave Parade Studio.  The first 250 orders got a special bundle [r=11060713].  Tracklisting ascends numerically regardless of disc side.  Pressing credit identified in runout stampings.
+Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet.
+Disc 2 mastered at Wave Parade Studio.
+
+The first 250 orders got a special bundle [r=11060713].
+
+Tracklisting ascends numerically regardless of disc side.
+
+Pressing credit identified in runout stampings.

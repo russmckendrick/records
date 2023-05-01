@@ -1,18 +1,19 @@
 ---
-title: "Ed Wynne And Gregoor Van Der Loo - Tumbling Through The Floativerse"
-artist: "Ed Wynne And Gregoor Van Der Loo"
+title: "Ed Wynne - Tumbling Through The Floativerse"
+artist: "Ed Wynne"
 album_name: "Tumbling Through The Floativerse"
-date: 2022-08-08
+date: 2022-08-08T10:05:50.000000Z
 release_id: "23922800"
 slug: "tumbling-through-the-floativerse-23922800"
 hideSummary: true
 cover:
     image: "tumbling-through-the-floativerse-23922800.jpg"
-    alt: "Tumbling Through The Floativerse by Ed Wynne And Gregoor Van Der Loo"
-    caption: "Tumbling Through The Floativerse by Ed Wynne And Gregoor Van Der Loo"
+    alt: "Tumbling Through The Floativerse by Ed Wynne"
+    caption: "Tumbling Through The Floativerse by Ed Wynne"
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Oilyvoice
 2. Seen The Sun
@@ -20,6 +21,12 @@ styles: ["Psychedelic Rock"]
 4. Floating Plates
 5. Infinity Curtains
 6. Starseeds
+
+
+## Spotify
+{{< spotify type="album" id="4fspTwzBe3QjWfaI201ZZX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_jyi8X3NxrY" title="Oilyvoice" >}}
@@ -33,9 +40,16 @@ styles: ["Psychedelic Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Ed Wynne And Gregoor Van Der Loo - Tumbling Through The Floativerse](https://www.discogs.com/release/23922800-Ed-Wynne-And-Gre-Vanderloo-Tumbling-Through-The-Floativerse) |
-| Label          | Kscope, Kscope |
-| Format         | LP, Album |
-| Catalog Number | KSCOPE 1176, KSCOPE1176 |
+| Discogs Link   | [Ed Wynne - Tumbling Through The Floativerse](https://www.discogs.com/release/23922800-Ed-Wynne-And-Gre-Vanderloo-Tumbling-Through-The-Floativerse) |
+| Label          | Kscope |
+| Format         | Vinyl LP Album |
+| Catalog Number | KSCOPE 1176 |
 
-All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms). Layout by Ed with a little help from Arnold Pesch@Peschdesign. Mastered by Adam Goodlet at re:Creation Studios.  Hype sticker: "New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"  Black vinyl. Some copies come with a Kscope promo leaflet.
+All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms).
+Layout by Ed with a little help from Arnold Pesch@Peschdesign.
+Mastered by Adam Goodlet at re:Creation Studios.
+
+Hype sticker:
+"New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"
+
+Black vinyl. Some copies come with a Kscope promo leaflet.

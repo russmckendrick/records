@@ -2,7 +2,7 @@
 title: "The Sha La Das - Love in the Wind"
 artist: "The Sha La Das"
 album_name: "Love in the Wind"
-date: 2018-09-25
+date: 2018-09-25T19:14:45.000000Z
 release_id: "12550052"
 slug: "love-in-the-wind-12550052"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Doo Wop", "Soul", "Surf"]
 ---
+
 ## Tracklisting
 1. Open My Eyes
 2. Just For A Minute
@@ -25,8 +26,12 @@ styles: ["Doo Wop", "Soul", "Surf"]
 9. You Never Know Whether
 10. It's You
 11. Love In The Wind
+
+
 ## Spotify
 {{< spotify type="album" id="7E31JWIpQ2vsGlIeB5WNqU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="S-0XRjO8Iy0" title="The Sha La Das - Love in the Wind (Official Audio)" >}}
@@ -41,8 +46,20 @@ styles: ["Doo Wop", "Soul", "Surf"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Sha La Das - Love in the Wind](https://www.discogs.com/release/12550052-The-Sha-La-Das-Love-in-the-Wind) |
-| Label          | Dunham, Daptone Records |
-| Format         | LP, Album |
-| Catalog Number | DUN-1006, DAP-053 |
+| Label          | Dunham |
+| Format         | Vinyl LP Album |
+| Catalog Number | DUN-1006 |
 
-Text on the Backside of the Record: All Songs @ BMG Platinum Songs (BMI) / Extraordinaire Music (BMI) /  Music of Big Deal (BMI) / WC Songs (ASCAP) / Words for Free (ASCAP.) Recorded by T. Brenneck at DUNHAM SOUND STUDIOS, Brooklyn, NY. Mixed by T. Brenneck at THE DIAMOND MINE, Long Island City, NY.  Assistant Engineering by JENS JUNGKURTH, JOE HARRISON. Vocal Arrangements by W.C. SCHALDA, Except "Sha La Da La La (Christmas Time)" by TNT. String Arrangements by TNT. Mastered by J.J. Golden. Cover Photo by W.C. SCHALDA. Sleeve Design by HOMER STEINWEISS, DANNY MILLER. Executive Producers, SUGARMAN & ROTH. Copyright 2018, DAPTONE RECORDS     
+Text on the Backside of the Record:
+All Songs @ BMG Platinum Songs (BMI) / Extraordinaire Music (BMI) / 
+Music of Big Deal (BMI) / WC Songs (ASCAP) / Words for Free (ASCAP.)
+Recorded by T. Brenneck at DUNHAM SOUND STUDIOS, Brooklyn, NY.
+Mixed by T. Brenneck at THE DIAMOND MINE, Long Island City, NY. 
+Assistant Engineering by JENS JUNGKURTH, JOE HARRISON.
+Vocal Arrangements by W.C. SCHALDA, Except "Sha La Da La La (Christmas Time)" by TNT.
+String Arrangements by TNT.
+Mastered by J.J. Golden.
+Cover Photo by W.C. SCHALDA.
+Sleeve Design by HOMER STEINWEISS, DANNY MILLER.
+Executive Producers, SUGARMAN & ROTH.
+Copyright 2018, DAPTONE RECORDS     

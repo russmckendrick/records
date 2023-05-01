@@ -2,7 +2,7 @@
 title: "Belly - Dove"
 artist: "Belly"
 album_name: "Dove"
-date: 2018-05-04
+date: 2018-05-04T19:00:44.000000Z
 release_id: "11957072"
 slug: "dove-11957072"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Stars Align
 2. Shiny One
@@ -24,6 +25,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Army Of Clay
 9. Artifact
 10. Heartstrings
+
+
+
 
 ## Videos
 {{< youtube id="PsGgcabXrpg" title="Belly: Mine (Official Video)" >}}
@@ -37,7 +41,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Belly - Dove](https://www.discogs.com/release/11957072-Belly-Dove) |
 | Label          | Not On Label (Belly Self-released) |
-| Format         | LP, Album, Ltd, Yel |
+| Format         | Vinyl LP Album Limited Edition (Yellow/Orange Splatter, Translucent) |
 | Catalog Number | 83774-031-I |
 
-Includes download card for MP3 version.  Printed inner sleeve with lyrics.  Tracks numbered sequentially regardless of sides.
+Includes download card for MP3 version.
+
+Printed inner sleeve with lyrics.
+
+Tracks numbered sequentially regardless of sides.

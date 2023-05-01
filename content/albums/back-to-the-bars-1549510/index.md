@@ -2,7 +2,7 @@
 title: "Todd Rundgren - Back To The Bars"
 artist: "Todd Rundgren"
 album_name: "Back To The Bars"
-date: 2022-03-06
+date: 2022-03-06T04:59:42.000000Z
 release_id: "1549510"
 slug: "back-to-the-bars-1549510"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Real Man
 2. Love Of The Common Man
@@ -40,6 +41,9 @@ styles: ["Power Pop", "Pop Rock"]
 24. Couldn't I Just Tell You
 25. Hello It's Me
 
+
+
+
 ## Videos
 {{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}
 - [Todd Rundgren - Back to the Bars (1978) FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=YlA1ZjLinMM)
@@ -49,8 +53,15 @@ styles: ["Power Pop", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Todd Rundgren - Back To The Bars](https://www.discogs.com/release/1549510-Todd-Rundgren-Back-To-The-Bars) |
-| Label          | Bearsville, Bearsville, Bearsville |
-| Format         | 2xLP |
-| Catalog Number | K 65511, K65511, 2BRX 6986 |
+| Label          | Bearsville |
+| Format         | Vinyl 2× LP |
+| Catalog Number | K 65511 |
 
-Recorded live at The Bottom Line in New York, The Roxy in Los Angeles and the Agora in Cleveland  Manufactured in the UK.  Gatefold sleeve. Comes with picture inner sleeve.  Has the cat. # as K65511 on the back and spine of the outer sleeve and on the inner sleeves. 
+Recorded live at The Bottom Line in New York, The Roxy in Los Angeles and the Agora in Cleveland
+
+Manufactured in the UK.
+
+Gatefold sleeve. Comes with picture inner sleeve.
+
+Has the cat. # as K65511 on the back and spine of the outer sleeve and on the inner sleeves.
+

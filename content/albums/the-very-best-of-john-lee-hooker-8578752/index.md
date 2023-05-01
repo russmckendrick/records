@@ -2,7 +2,7 @@
 title: "John Lee Hooker - The Very Best Of John Lee Hooker"
 artist: "John Lee Hooker"
 album_name: "The Very Best Of John Lee Hooker"
-date: 2021-12-23
+date: 2021-12-23T04:32:39.000000Z
 release_id: "8578752"
 slug: "the-very-best-of-john-lee-hooker-8578752"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Very Best Of John Lee Hooker by John Lee Hooker"
     caption: "The Very Best Of John Lee Hooker by John Lee Hooker"
 genres: ["Blues"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Boom Boom (2:31)
 2. Crawlin' King Snake (2:39)
@@ -31,6 +32,9 @@ styles: null
 15. I'm Prison Bound (3:56)
 16. Sugar Mama (3:10)
 
+
+
+
 ## Videos
 {{< youtube id="W-DEJF5iZmU" title="GIANT SIZED John Lee Hooker Vinyl Matchup" >}}
 
@@ -40,7 +44,12 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [John Lee Hooker - The Very Best Of John Lee Hooker](https://www.discogs.com/release/8578752-John-Lee-Hooker-The-Very-Best-Of-John-Lee-Hooker) |
 | Label          | Not Now Music |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | CATLP126 |
 
-This Compilation ℗ & © 2016 Not Now Music Limited. Distributed By Not Now Music Limited. Made In The E.U. (on back cover).  Glossy jacket with white paper inner sleeve. Artwork similar to [r6536180] but with five different tracks.
+This Compilation ℗ & © 2016 Not Now Music Limited.
+Distributed By Not Now Music Limited.
+Made In The E.U. (on back cover).
+
+Glossy jacket with white paper inner sleeve.
+Artwork similar to [r6536180] but with five different tracks.

@@ -2,7 +2,7 @@
 title: "Stereolab - Sound-Dust"
 artist: "Stereolab"
 album_name: "Sound-Dust"
-date: 2019-11-29
+date: 2019-11-29T12:18:12.000000Z
 release_id: "14452259"
 slug: "sound-dust-14452259"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 ---
+
 ## Tracklisting
 1. Black Ants In Sound Dust (1:57)
 2. Space Moth (7:35)
@@ -34,8 +35,12 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 18. Hallucinex Pt 2 Demo (0:51)
 19. Long Live Love Demo (2:18)
 20. Les Bon Bons Des Raisons Demo (3:23)
+
+
 ## Spotify
-{{< spotify type="album" id="0Zk8BUwSBUkkeZsif2TsBa" width="100%" height="500" >}}
+{{< spotify type="album" id="19UJ41n18Bej71oLEj14xO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TweTfd5AVfU" title="Black Ants In Sound-dust" >}}
@@ -64,8 +69,13 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Stereolab - Sound-Dust](https://www.discogs.com/release/14452259-Stereolab-Sound-Dust) |
-| Label          | Warp Records, Duophonic Ultra High Frequency Disks, Warp Records, Duophonic Ultra High Frequency Disks |
-| Format         | 2xLP, Album, RE, RM + LP, S/Sided, Etch + Ltd, Num |
-| Catalog Number | D-UHF-D27RC, D-UHF-D27R |
+| Label          | Warp Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP Single Sided Etched, All Media Limited Edition Numbered (Clear, Gatefold, Expanded Edition) |
+| Catalog Number | D-UHF-D27RC |
 
-Ⓟ 2001 Duophonic Ultra High Frequency Disks © 2019 Warp Records  Cat#: D-UHF-D27RC stickered on PVC front and back D-UHF-D27R printed on cover
+Ⓟ 2001 Duophonic Ultra High Frequency Disks
+© 2019 Warp Records
+
+Cat#:
+D-UHF-D27RC stickered on PVC front and back
+D-UHF-D27R printed on cover

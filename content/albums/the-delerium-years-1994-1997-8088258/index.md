@@ -2,7 +2,7 @@
 title: "Porcupine Tree - The Delerium Years 1994-1997"
 artist: "Porcupine Tree"
 album_name: "The Delerium Years 1994-1997"
-date: 2016-04-27
+date: 2016-04-27T16:45:28.000000Z
 release_id: "8088258"
 slug: "the-delerium-years-1994-1997-8088258"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Sky Moves Sideways
 2. The Sky Moves Sideways - Phase 1 (18:40)
@@ -58,13 +59,17 @@ styles: ["Prog Rock"]
 42. Fuse The Sky (4:36)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Porcupine Tree - The Delerium Years 1994-1997](https://www.discogs.com/release/8088258-Porcupine-Tree-The-Delerium-Years-1994-1997) |
 | Label          | Kscope |
-| Format         | Box, Comp, RM + 2xLP, Album + 2xLP, Album + 3xLP,  |
+| Format         | Box Set Compilation Remastered, Vinyl 2× LP Album, Vinyl 2× LP Album, Vinyl 3× LP Album, Vinyl LP Compilation |
 | Catalog Number | KSCOPE894 |
 
-Pressed on 180g heavyweight vinyl, remastered by Steven Wilson over the last three years. Packaged in a deluxe box with 40 page book containing extensive liner notes and a detailed band history by US journalist, Stephen Humphries. Disc 8, Side O is pressed as a concentric cut.
+Pressed on 180g heavyweight vinyl, remastered by Steven Wilson over the last three years.
+Packaged in a deluxe box with 40 page book containing extensive liner notes and a detailed band history by US journalist, Stephen Humphries.
+Disc 8, Side O is pressed as a concentric cut.

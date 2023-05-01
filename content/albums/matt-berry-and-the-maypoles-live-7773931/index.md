@@ -1,18 +1,19 @@
 ---
-title: "Matt Berry And The Maypoles - Matt Berry And The Maypoles Live"
-artist: "Matt Berry And The Maypoles"
+title: "Matt Berry - Matt Berry And The Maypoles Live"
+artist: "Matt Berry"
 album_name: "Matt Berry And The Maypoles Live"
-date: 2015-12-25
+date: 2015-12-25T16:58:57.000000Z
 release_id: "7773931"
 slug: "matt-berry-and-the-maypoles-live-7773931"
 hideSummary: true
 cover:
     image: "matt-berry-and-the-maypoles-live-7773931.jpg"
-    alt: "Matt Berry And The Maypoles Live by Matt Berry And The Maypoles"
-    caption: "Matt Berry And The Maypoles Live by Matt Berry And The Maypoles"
+    alt: "Matt Berry And The Maypoles Live by Matt Berry"
+    caption: "Matt Berry And The Maypoles Live by Matt Berry"
 genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ---
+
 ## Tracklisting
 1. The Innkeeper's Song
 2. So Low
@@ -25,8 +26,9 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 9. Medicine
 10. Devil Inside Me
 11. The Pheasant
-## Spotify
-{{< spotify type="album" id="7fC5DVaWQnQDpDS4v86biE" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="mugYr-k8YGA" title="Matt Berry & The Maypoles,  Snuff Box, 13/02/2015" >}}
@@ -36,9 +38,9 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
-| Discogs Link   | [Matt Berry And The Maypoles - Matt Berry And The Maypoles Live](https://www.discogs.com/release/7773931-Matt-Berry-3-And-The-Maypoles-Matt-Berry-And-The-Maypoles-Live) |
+| Discogs Link   | [Matt Berry - Matt Berry And The Maypoles Live](https://www.discogs.com/release/7773931-Matt-Berry-3-And-The-Maypoles-Matt-Berry-And-The-Maypoles-Live) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Dee |
+| Format         | Vinyl LP Album (Deep Translucent Blue, Gatefold) |
 | Catalog Number | AJX397X |
 
 Pressed on 180G, deep translucent blue vinyl. Also contained is a download card.

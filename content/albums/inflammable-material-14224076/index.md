@@ -2,7 +2,7 @@
 title: "Stiff Little Fingers - Inflammable Material"
 artist: "Stiff Little Fingers"
 album_name: "Inflammable Material"
-date: 2021-08-31
+date: 2021-08-31T12:34:26.000000Z
 release_id: "14224076"
 slug: "inflammable-material-14224076"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Suspect Device
 2. State Of Emergency
@@ -27,8 +28,12 @@ styles: ["Punk"]
 11. Johnny Was
 12. Alternative Ulster
 13. Closed Groove
+
+
 ## Spotify
 {{< spotify type="album" id="2uXYm7SqdQlOgrx2FEWlkD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="on6DxBgfsDY" title="Suspect Device" >}}
@@ -51,7 +56,23 @@ styles: ["Punk"]
 | Release Year   | 2019 |
 | Discogs Link   | [Stiff Little Fingers - Inflammable Material](https://www.discogs.com/release/14224076-Stiff-Little-Fingers-Inflammable-Material) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | 0190295448271 |
 
-℗ 1979 Sedgenote Ltd under exclusive license to Parlophone Records Ltd © 2019 Parlophone Records Ltd, A Warner Music Group Company. Made In The E.U.  First published in the U.K. by Rough Trade Records, 1979 in association with Rigid Digits  Includes printed innersleeve containing lyrics, info and credits.  Writing credits in tracklisting field are taken from innersleeve, and writing credits in credits field are taken from labels.  Track B3: -Bob Marley Music admin by Rondor Music (London) Ltd [Innersleeve]. -Bob Marley Music Ltd Admin by Rondor Music (London) Ltd [Labels].  Side B ends in locked groove.  Some copies have either stickers on the shrinkwrap or white blocks on the rear outer sleeve stating both "Made in Germany" and "Made in Czech Republic". Both label sides read "Made In the E.U. ...".
+℗ 1979 Sedgenote Ltd under exclusive license to Parlophone Records Ltd
+© 2019 Parlophone Records Ltd, A Warner Music Group Company.
+Made In The E.U.
+
+First published in the U.K. by Rough Trade Records, 1979 in association with Rigid Digits
+
+Includes printed innersleeve containing lyrics, info and credits.
+
+Writing credits in tracklisting field are taken from innersleeve, and writing credits in credits field are taken from labels.
+
+Track B3:
+-Bob Marley Music admin by Rondor Music (London) Ltd [Innersleeve].
+-Bob Marley Music Ltd Admin by Rondor Music (London) Ltd [Labels].
+
+Side B ends in locked groove.
+
+Some copies have either stickers on the shrinkwrap or white blocks on the rear outer sleeve stating both "Made in Germany" and "Made in Czech Republic". Both label sides read "Made In the E.U. ...".

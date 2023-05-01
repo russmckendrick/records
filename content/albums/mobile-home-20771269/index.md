@@ -2,7 +2,7 @@
 title: "Longpigs - Mobile Home"
 artist: "Longpigs"
 album_name: "Mobile Home"
-date: 2021-10-29
+date: 2021-10-29T05:57:59.000000Z
 release_id: "20771269"
 slug: "mobile-home-20771269"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. The Frank Sonata (3:53)
 2. Blue Skies (3:57)
@@ -28,6 +29,9 @@ styles: ["Indie Rock", "Britpop"]
 12. Loud And Clear  (3:09)
 13. In The Snow  (4:30)
 
+
+
+
 ## Videos
 {{< youtube id="DSA6dU-2_Js" title="Longpigs - The Frank Sonata" >}}
 - [Longpigs - Gangsters](https://www.youtube.com/watch?v=OGtxL0mG8bg)
@@ -38,8 +42,18 @@ styles: ["Indie Rock", "Britpop"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Longpigs - Mobile Home](https://www.discogs.com/release/20771269-Longpigs-Mobile-Home) |
-| Label          | Demon Records, Demon Records |
-| Format         | LP, Album, Ltd, RE, Cle |
-| Catalog Number | DEMREC950X, DEMREC950 |
+| Label          | Demon Records |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Clear, 180g) |
+| Catalog Number | DEMREC950X |
 
-Clear vinyl. Limited to 1000 copies with print insert signed by Crispin Hunt  Hype sticker on the front of the signed print version is different to the standard, non-signed print version.   Hype sticker states: "Indies Exclusive Version Includes Print Signed By Crispin Hunt"  Rear sleeve includes a different barcode on a sticker stuck on the original shrink-wrap obscuring the sleeve printed barcode to distinguish it from the standard issue.  Hype sticker: DEMREC950X Sleeve/labels: DEMREC950
+Clear vinyl.
+Limited to 1000 copies with print insert signed by Crispin Hunt
+
+Hype sticker on the front of the signed print version is different to the standard, non-signed print version. 
+
+Hype sticker states: "Indies Exclusive Version Includes Print Signed By Crispin Hunt"
+
+Rear sleeve includes a different barcode on a sticker stuck on the original shrink-wrap obscuring the sleeve printed barcode to distinguish it from the standard issue.
+
+Hype sticker: DEMREC950X
+Sleeve/labels: DEMREC950

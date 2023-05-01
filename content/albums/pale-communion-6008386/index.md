@@ -2,7 +2,7 @@
 title: "Opeth - Pale Communion"
 artist: "Opeth"
 album_name: "Pale Communion"
-date: 2016-08-25
+date: 2016-08-25T16:29:14.000000Z
 release_id: "6008386"
 slug: "pale-communion-6008386"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Eternal Rains Will Come
 2. Cusp Of Eternity
@@ -22,8 +23,12 @@ styles: ["Prog Rock"]
 6. River
 7. Voice Of Treason
 8. Faith In Others
+
+
 ## Spotify
 {{< spotify type="album" id="0DLImjuzdrOBQKtYLlf3C5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CoW3Sywb5xQ" title="Opeth - Eternal Rains Will Come (Audio)" >}}
@@ -43,7 +48,11 @@ styles: ["Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Opeth - Pale Communion](https://www.discogs.com/release/6008386-Opeth-Pale-Communion) |
 | Label          | Roadrunner Records |
-| Format         | 2xLP, Album, Ltd, Sil |
+| Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Catalog Number | RR7573-1 |
 
-180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies. Inclusive download card with bonus content (available on 08/25/14)  Some releases contained a silver coloured Opeth hanger, art.nr. 285947St  Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver.
+180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies.
+Inclusive download card with bonus content (available on 08/25/14) 
+Some releases contained a silver coloured Opeth hanger, art.nr. 285947St
+
+Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver.

@@ -2,7 +2,7 @@
 title: "Deacon Blue - The Hipsters"
 artist: "Deacon Blue"
 album_name: "The Hipsters"
-date: 2021-06-12
+date: 2021-06-12T09:02:06.000000Z
 release_id: "5167648"
 slug: "the-hipsters-5167648"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Here I Am In London Town
 2. The Hipsters
@@ -25,8 +26,11 @@ styles: ["Pop Rock"]
 9. Laura From Memory
 10. It Will End In Tears
 11. Is There No Way Back To You
+
+
 ## Spotify
 {{< spotify type="album" id="7v0p90m2p3kAX5EkZbS5aQ" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -35,7 +39,9 @@ styles: ["Pop Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648-Deacon-Blue-The-Hipsters) |
 | Label          | Demon Records |
-| Format         | LP, Album, Yel |
+| Format         | Vinyl LP Album (Yellow Transparent ) |
 | Catalog Number | DEACONLP001 |
 
-℗ & © 2012 Demon Music Group Ltd.  Includes code for free MP3 download of the album.
+℗ & © 2012 Demon Music Group Ltd.
+
+Includes code for free MP3 download of the album.

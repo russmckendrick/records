@@ -2,7 +2,7 @@
 title: "Small Faces - From The Beginning"
 artist: "Small Faces"
 album_name: "From The Beginning"
-date: 2021-05-21
+date: 2021-05-21T07:27:29.000000Z
 release_id: "7206931"
 slug: "from-the-beginning-7206931"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Mod", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Runaway
 2. My Mind's Eye
@@ -28,8 +29,12 @@ styles: ["Mod", "Psychedelic Rock"]
 12. Sha La La La Lee
 13. You Really Got A Hold On Me
 14. What'cha Gonna Do About It
+
+
 ## Spotify
 {{< spotify type="album" id="2v3ETGXR7oTvsZZiIp9JKp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="K4Gay7gZmRA" title="Small Faces ~ Baby Don't You Do It (Vinyl)" >}}
@@ -41,15 +46,19 @@ styles: ["Mod", "Psychedelic Rock"]
 - [My Mind's Eye (Alternate Mix (Electronically Processed Stereo))](https://www.youtube.com/watch?v=-dG-aarIv9Q)
 - [Plum Nellie](https://www.youtube.com/watch?v=baiGWibqlNs)
 - [[Tell Me] Have You Ever Seen Me](https://www.youtube.com/watch?v=e6KphiUD0-8)
-- [Small Faces-Whatcha Gonna Do About It](https://www.youtube.com/watch?v=Cec2HBgCkqk)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Small Faces - From The Beginning](https://www.discogs.com/release/7206931-Small-Faces-From-The-Beginning) |
-| Label          | Decca, Decca, Universal Music Group International |
-| Format         | LP, Comp, Mono, RE, 180 |
-| Catalog Number | 471 537-3, 0602547153739 |
+| Label          | Decca |
+| Format         | Vinyl LP Compilation Reissue Mono (180 Gram) |
+| Catalog Number | 471 537-3 |
 
-Includes a voucher to download an MP3 version of the album. 180 gram heavyweight vinyl.  © 1967, The Decca Record Company Limited, London. ℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd. Made in the EU.
+Includes a voucher to download an MP3 version of the album.
+180 gram heavyweight vinyl.
+
+© 1967, The Decca Record Company Limited, London.
+℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd.
+Made in the EU.

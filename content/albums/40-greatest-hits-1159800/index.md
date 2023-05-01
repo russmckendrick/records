@@ -2,7 +2,7 @@
 title: "Elvis Presley - 40 Greatest Hits"
 artist: "Elvis Presley"
 album_name: "40 Greatest Hits"
-date: 2016-01-08
+date: 2016-01-08T19:12:12.000000Z
 release_id: "1159800"
 slug: "40-greatest-hits-1159800"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ---
+
 ## Tracklisting
 1. My Baby Left Me
 2. Heartbreak Hotel
@@ -54,8 +55,11 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 38. Suspicious Minds
 39. There Goes My Everything
 40. Don't Cry Daddy
+
+
 ## Spotify
 {{< spotify type="album" id="7v5nA9SIdX1XEJqStVUS4F" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -63,8 +67,17 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 | ---------------| ----------- |
 | Release Year   | 1975 |
 | Discogs Link   | [Elvis Presley - 40 Greatest Hits](https://www.discogs.com/release/1159800-Elvis-Presley-40-Greatest-Hits) |
-| Label          | Arcade, Arcade |
-| Format         | 2xLP, Comp, Gat |
-| Catalog Number | ADEP 12, ADE P 12 |
+| Label          | Arcade |
+| Format         | Vinyl 2× LP Compilation (Gatefold) |
+| Catalog Number | ADEP 12 |
 
-Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA 
+Gatefold Sleeve.
+ADEP 12 = cat# on spine
+ADE P 12 = cat# on labels
+
+On rear cover:
+Interpak by Shorewood Packaging Co. Ltd. England
+
+On labels:
+Made by RCA
+

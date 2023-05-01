@@ -2,7 +2,7 @@
 title: "Ian Dury And The Blockheads - Laughter"
 artist: "Ian Dury And The Blockheads"
 album_name: "Laughter"
-date: 2016-09-21
+date: 2016-09-21T18:14:21.000000Z
 release_id: "8396709"
 slug: "laughter-8396709"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Disco"]
 ---
+
 ## Tracklisting
 1. Sueperman's Big Sister
 2. Pardon
@@ -26,6 +27,9 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 10. Manic Depression (Jimi)
 11. Oh Mr Peanut
 12. Fucking Ada
+
+
+
 
 ## Videos
 {{< youtube id="CIhx64KPoRg" title="Manic Depression (Jimi)" >}}
@@ -50,7 +54,14 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 | Release Year   | 2014 |
 | Discogs Link   | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/8396709-Ian-Dury-The-Blockheads-Laughter) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | DEMREC57 |
 
-Contains printed inner which shows Ian Horne and Wilco Johnson.  Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING". -------------------- Some other examples have the WARNING! sticker adhered to the left side of the front, and a small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'. ------------------ 
+Contains printed inner which shows Ian Horne and Wilco Johnson.
+
+Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING".
+--------------------
+Some other examples have the WARNING! sticker adhered to the left side of the front, and a
+small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'.
+------------------
+

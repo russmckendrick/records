@@ -2,7 +2,7 @@
 title: "The Dears - Lovers Rock"
 artist: "The Dears"
 album_name: "Lovers Rock"
-date: 2022-09-18
+date: 2022-09-18T04:25:19.000000Z
 release_id: "15435885"
 slug: "lovers-rock-15435885"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Heart Of An Animal
 2. I Know What You're Thinking And It's Awful
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Play Dead
 9. Too Many Wrongs
 10. We'll Go Into Hiding
+
+
 ## Spotify
 {{< spotify type="album" id="0CGpYxkiGUmxhIUv0bU4yK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare!" >}}
@@ -37,8 +42,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Dears - Lovers Rock](https://www.discogs.com/release/15435885-The-Dears-Lovers-Rock) |
-| Label          | Dangerbird Records, Not On Label (The Dears Self-released) |
-| Format         | LP, Album, Sil |
-| Catalog Number | DGB211-1, DE050017 |
+| Label          | Dangerbird Records |
+| Format         | Vinyl LP Album Stereo (Silver Metallic) |
+| Catalog Number | DGB211-1 |
 
-Includes download card.  Certain pre-orders included an autographed print.
+Includes download card.
+
+Certain pre-orders included an autographed print.

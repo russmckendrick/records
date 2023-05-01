@@ -2,7 +2,7 @@
 title: "T'Pau - Bridge Of Spies"
 artist: "T'Pau"
 album_name: "Bridge Of Spies"
-date: 2016-01-07
+date: 2016-01-07T16:18:51.000000Z
 release_id: "423522"
 slug: "bridge-of-spies-423522"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Heart And Soul (4:15)
 2. I Will Be With You (4:06)
@@ -25,6 +26,9 @@ styles: ["Pop Rock"]
 9. Thank You For Goodbye (3:54)
 10. You Give Up (4:39)
 11. China In Your Hand (Reprise) (0:45)
+
+
+
 
 ## Videos
 {{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul (Official Video)" >}}
@@ -45,8 +49,16 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |
-| Label          | Siren |
-| Format         | LP, Album |
+| Label          | Siren (3) |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | SRN LP8 |
 
-This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve. 
+This version has A/B side indicators.
+
+Recorded at Fabarama.
+Mastered at Sterling Sound, New York.
+
+℗ & © 1987 Siren Records Ltd.
+
+Comes with a lyric inner sleeve.
+

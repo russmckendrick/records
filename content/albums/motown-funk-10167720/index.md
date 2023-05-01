@@ -2,7 +2,7 @@
 title: "Various - Motown Funk"
 artist: "Various"
 album_name: "Motown Funk"
-date: 2017-04-23
+date: 2017-04-23T13:28:30.000000Z
 release_id: "10167720"
 slug: "motown-funk-10167720"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
+
 ## Tracklisting
 1. Strung Out
 2. Easily Persuaded
@@ -36,8 +37,12 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 20. Girl You Need A Change Of Mind
 21. Our Lives Are Shaped By What We Love
 22. Sun Country
+
+
 ## Spotify
 {{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="e1aQDKgjm3g" title="Barbara McNair - The Hunter Gets Captured By The Game" >}}
@@ -51,8 +56,10 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Motown Funk](https://www.discogs.com/release/10167720-Various-Motown-Funk) |
-| Label          | Tamla Motown, UMC, Tamla Motown, UMC |
-| Format         | 2xLP, Comp, Red |
-| Catalog Number | 537 552-0, 00600753755204 |
+| Label          | Tamla Motown |
+| Format         | Vinyl 2× LP Compilation (Red Translucent) |
+| Catalog Number | 537 552-0 |
 
-Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company.
+Released on Record Store Day 2017.
+Made in the E.U.
+Coordinated by Spectrum Music, a Universal Music Group Company.

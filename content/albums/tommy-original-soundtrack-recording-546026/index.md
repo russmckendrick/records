@@ -2,7 +2,7 @@
 title: "Various - Tommy (Original Soundtrack Recording)"
 artist: "Various"
 album_name: "Tommy (Original Soundtrack Recording)"
-date: 2016-12-08
+date: 2016-12-08T22:48:19.000000Z
 release_id: "546026"
 slug: "tommy-original-soundtrack-recording-546026"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Prologue - 1945 (3:00)
 2. Captain Walker / It's A Boy (2:37)
@@ -46,6 +47,9 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 30. We're Not Gonna Take It (5:47)
 31. Listening To You / See Me, Feel Me (3:13)
 
+
+
+
 ## Videos
 {{< youtube id="vruNMUjZwAA" title="TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)" >}}
 - [TOMMY THE MOVIE 1975 Original soundtrack recording Part 2 of 2 (Vinyl record)](https://www.youtube.com/watch?v=cVO5P3yOYa8)
@@ -56,7 +60,8 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 | Release Year   | 1975 |
 | Discogs Link   | [Various - Tommy (Original Soundtrack Recording)](https://www.discogs.com/release/546026-Various-Tommy-Original-Soundtrack-Recording) |
 | Label          | Polydor |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 2657 014 |
 
-Note: A similar UK release with an A & B-side label variant, [is here.](http://www.discogs.com/release/7679401)
+Note:
+A similar UK release with an A & B-side label variant, [url=http://www.discogs.com/release/7679401]is here.[/url]

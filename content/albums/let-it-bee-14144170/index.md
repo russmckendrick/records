@@ -2,7 +2,7 @@
 title: "Voice Of The Beehive - Let It Bee"
 artist: "Voice Of The Beehive"
 album_name: "Let It Bee"
-date: 2020-07-08
+date: 2020-07-08T13:15:29.000000Z
 release_id: "14144170"
 slug: "let-it-bee-14144170"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Beat Of Love (4:03)
 2. Sorrow Floats (4:15)
@@ -25,8 +26,12 @@ styles: ["Pop Rock", "Indie Rock"]
 9. I Say Nothing (3:25)
 10. There's A Barbarian In The Back Of My Car (2:35)
 11. Just A City (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="303IyFuPx8pzAuAjazvdHK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KuGz-ZpqTWg" title="Beat of Love - Voice of the Beehive" >}}
@@ -50,7 +55,5 @@ styles: ["Pop Rock", "Indie Rock"]
 | Release Year   | 1988 |
 | Discogs Link   | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/14144170-Voice-Of-The-Beehive-Let-It-Bee) |
 | Label          | London Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | LONLP 57 |
-
-

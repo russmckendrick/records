@@ -2,7 +2,7 @@
 title: "Cheech & Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition)"
 artist: "Cheech & Chong"
 album_name: "Up In Smoke (40th Anniversary Deluxe Collector's Edition)"
-date: 2019-04-16
+date: 2019-04-16T17:11:32.000000Z
 release_id: "11926046"
 slug: "up-in-smoke-40th-anniversary-deluxe-collector-s-edition-11926046"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Non-Music", "Stage & Screen"]
 styles: ["Soundtrack", "Comedy", "Dialogue"]
 ---
+
 ## Tracklisting
 1. Finkelstien Shit Kid (0:14)
 2. Up In Smoke (2:24)
@@ -57,6 +58,9 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 41. Roach Clips (Deleted Scenes) With Optional Commentary
 42. Vintage Radio Spots
 
+
+
+
 ## Videos
 {{< youtube id="k2pXxHW1DHs" title="Cheech and Chong Original.Trailer[1978]" >}}
 - [War - Low Rider (HQ Audio)](https://www.youtube.com/watch?v=-xTGrfs5TXM)
@@ -69,8 +73,13 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Cheech & Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition)](https://www.discogs.com/release/11926046-Cheech-y-Chong-Up-In-Smoke-40th-Anniversary-Deluxe-Collectors-Edition) |
-| Label          | Rhino Records, Rhino Records, Warner Brothers Inc. |
-| Format         | LP, Album + 7\", Single, Mono, Pic + CD, Album + Bl |
-| Catalog Number | R1 566654, R2 566654, R1 3249 |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl LP Album, Vinyl 7" 45 RPM Single Picture Disc Stereo Mono, CD Album, Blu-ray Multichannel, Box Set Deluxe Edition Numbered |
+| Catalog Number | R1 566654 |
 
-Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #.  Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.  Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].  Side C is Stereo, Side D is Mono.
+Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #. 
+Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.
+
+Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].
+
+Side C is Stereo, Side D is Mono.

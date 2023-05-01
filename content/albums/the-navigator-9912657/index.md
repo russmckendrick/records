@@ -2,7 +2,7 @@
 title: "Hurray For The Riff Raff - The Navigator"
 artist: "Hurray For The Riff Raff"
 album_name: "The Navigator"
-date: 2017-03-11
+date: 2017-03-11T12:35:14.000000Z
 release_id: "9912657"
 slug: "the-navigator-9912657"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Act One
 2. Entrance
@@ -28,8 +29,12 @@ styles: ["Indie Rock"]
 12. Settle
 13. Pa'Lante
 14. Finale
+
+
 ## Spotify
 {{< spotify type="album" id="31poENBRik5Velm7Z2gPSw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Z0T3sCrDSls" title="Entrance" >}}
@@ -44,7 +49,20 @@ styles: ["Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Hurray For The Riff Raff - The Navigator](https://www.discogs.com/release/9912657-Hurray-For-The-Riff-Raff-The-Navigator) |
 | Label          | ATO Records |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition (White) |
 | Catalog Number | ATO0366 |
 
-Includes a credit booklet in the format of a Broadway Playbill, 11x14 two-sided poster, a printed inner sleeve and download card. Some preorders came with an autographed CD size insert.  ℗ & © 2017 Hurray For The Riff Raff under exclusive license to ATO Records, LLC.  The album was recorded at Panoramic House, West marin, CA and Electric Lady Studios, NYC, 2016 Sounds from Mexico City, Peurto Rico & Loisaida recorded by Alynda Segarra, sounds from NYC subway recorded by Joshua Shoemaker, 2015-16.  "Pa'Lante" Written by Alynda Segarra and Pedro Peitri "Puerto Rican Obituary" by Pedro Pietri; from "El Pueblo Se Levanta," audio documentary footage courtesy of third World Newsreel  "Finale" written by Alynda Segarra and Yvarume Tapia Mariposa Gang Publishing (BMI)/ Sin Cojones Music (BMI)
+Includes a credit booklet in the format of a Broadway Playbill, 11x14 two-sided poster, a printed inner sleeve and download card.
+Some preorders came with an autographed CD size insert.
+
+℗ & © 2017 Hurray For The Riff Raff under exclusive license to ATO Records, LLC.
+
+The album was recorded at Panoramic House, West marin, CA and Electric Lady Studios, NYC, 2016
+Sounds from Mexico City, Peurto Rico & Loisaida recorded by Alynda Segarra, sounds from NYC subway recorded by Joshua Shoemaker, 2015-16.
+
+"Pa'Lante" Written by Alynda Segarra and Pedro Peitri
+"Puerto Rican Obituary" by Pedro Pietri; from "El Pueblo Se Levanta,"
+audio documentary footage courtesy of third World Newsreel
+
+"Finale" written by Alynda Segarra and Yvarume Tapia
+Mariposa Gang Publishing (BMI)/ Sin Cojones Music (BMI)

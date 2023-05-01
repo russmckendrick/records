@@ -2,7 +2,7 @@
 title: "The Wonder Stuff - The Eight Legged Groove Machine"
 artist: "The Wonder Stuff"
 album_name: "The Eight Legged Groove Machine"
-date: 2016-01-11
+date: 2016-01-11T17:44:13.000000Z
 release_id: "379123"
 slug: "the-eight-legged-groove-machine-379123"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Red Berry Joy Town (3:00)
 2. No, For The 13th Time (2:53)
@@ -30,8 +31,12 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 14. Poison (3:00)
 15. (silence) (0:17)
 16. Times Will Change (0:40)
+
+
 ## Spotify
 {{< spotify type="album" id="1b06Wg1DES4MExc3BgJsDf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dm1aYGFhceA" title="The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]" >}}
@@ -58,8 +63,24 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1988 |
 | Discogs Link   | [The Wonder Stuff - The Eight Legged Groove Machine](https://www.discogs.com/release/379123-The-Wonder-Stuff-The-Eight-Legged-Groove-Machine) |
-| Label          | The Far Out Recording Company, Polydor |
-| Format         | LP, Album |
-| Catalog Number | GONLP 1, 837 135-1 |
+| Label          | The Far Out Recording Company |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | GONLP 1 |
 
-Released with a printed inner sleeve of lyrics, credits and photograph. Track B8 is not listed on the release and is preceded by 17 seconds of silence.  [Labels]: ℗ 1988 Polydor Ltd (UK)  © Polydor Ltd (UK) 1988. Polygram Music 1988.  [Sleeve]: UK GONLP 1 INT 837 135-1 [Y] | POL 281 The Far Out Record Company 1986/1988. ℗ Polydor Ltd (UK) 1988 © Polydor Ltd (UK) 1988. Place of manufacture of record as stated on label. Marketed and distributed in the UK by Polydor Ltd.  [Inner sleeve]: Lyrics reproduced by kind permission of Polygram Music.
+Released with a printed inner sleeve of lyrics, credits and photograph.
+Track B8 is not listed on the release and is preceded by 17 seconds of silence.
+
+[Labels]:
+℗ 1988 Polydor Ltd (UK) 
+© Polydor Ltd (UK) 1988.
+Polygram Music 1988.
+
+[Sleeve]:
+UK GONLP 1
+INT 837 135-1 [Y] | POL 281
+The Far Out Record Company 1986/1988.
+℗ Polydor Ltd (UK) 1988 © Polydor Ltd (UK) 1988.
+Place of manufacture of record as stated on label. Marketed and distributed in the UK by Polydor Ltd.
+
+[Inner sleeve]:
+Lyrics reproduced by kind permission of Polygram Music.

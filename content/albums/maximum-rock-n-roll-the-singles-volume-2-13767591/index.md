@@ -2,7 +2,7 @@
 title: "Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 "
 artist: "Primal Scream"
 album_name: "Maximum Rock 'N' Roll The Singles Volume 2 "
-date: 2019-06-16
+date: 2019-06-16T21:51:19.000000Z
 release_id: "13767591"
 slug: "maximum-rock-n-roll-the-singles-volume-2-13767591"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Accelerator
 2. Miss Lucifer
@@ -30,13 +31,17 @@ styles: ["Indie Rock"]
 14. 100% Or Nothing
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 ](https://www.discogs.com/release/13767591-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-2-) |
 | Label          | Sony Music |
-| Format         | LP, Gre + LP, Whi + Comp, Ltd, RM |
+| Format         | Vinyl LP (Green), Vinyl LP (White), All Media Compilation Limited Edition Remastered |
 | Catalog Number | 19075933811 |
 
-Limited 500 copies in gatefold sleeve with download code.  Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels).
+Limited 500 copies in gatefold sleeve with download code.
+
+Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels).

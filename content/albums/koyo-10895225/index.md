@@ -2,7 +2,7 @@
 title: "Koyo - Koyo"
 artist: "Koyo"
 album_name: "Koyo"
-date: 2017-09-23
+date: 2017-09-23T11:29:08.000000Z
 release_id: "10895225"
 slug: "koyo-10895225"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Strange Bird In The Sky (5:36)
 2. Jettisoned (4:55)
@@ -24,8 +25,9 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 8. Now I Understand (4:11)
 9. Tetrachromat (Parts 1 & 2) (8:08)
 10. Release (6:50)
-## Spotify
-{{< spotify type="album" id="0fixg8Sdge7CeaePsn642z" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned (Official Video)" >}}
@@ -36,7 +38,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Koyo - Koyo](https://www.discogs.com/release/10895225-Koyo-Koyo) |
 | Label          | 88 Watt |
-| Format         | 2xLP, Album, Red |
+| Format         | Vinyl 2× LP Album (Red & Blue) |
 | Catalog Number | 88WLPR004X |
 
 Gatefold sleeve

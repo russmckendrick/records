@@ -2,7 +2,7 @@
 title: "Joe Walsh - You Can't Argue With A Sick Mind"
 artist: "Joe Walsh"
 album_name: "You Can't Argue With A Sick Mind"
-date: 2020-08-02
+date: 2020-08-02T13:33:44.000000Z
 release_id: "4953542"
 slug: "you-can-t-argue-with-a-sick-mind-4953542"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Walk Away (3:15)
 2. Meadows (7:05)
@@ -20,8 +21,12 @@ styles: ["Classic Rock"]
 4. Time Out (4:20)
 5. Help Me Through The Night (3:42)
 6. Turn To Stone (8:47)
+
+
 ## Spotify
 {{< spotify type="album" id="0MFwAFXyJzCiKihXmX9RpW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ip82v3MAYyA" title="Joe Walsh and Friends (1975)" >}}
@@ -48,7 +53,7 @@ styles: ["Classic Rock"]
 | Release Year   | 0 |
 | Discogs Link   | [Joe Walsh - You Can't Argue With A Sick Mind](https://www.discogs.com/release/4953542-Joe-Walsh-You-Cant-Argue-With-A-Sick-Mind) |
 | Label          | MCA Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | MCL-1613 |
 
 Originally released 1976

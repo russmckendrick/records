@@ -2,7 +2,7 @@
 title: "Ryan Adams - Gold"
 artist: "Ryan Adams"
 album_name: "Gold"
-date: 2016-02-16
+date: 2016-02-16T15:15:01.000000Z
 release_id: "3814418"
 slug: "gold-3814418"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. New York, New York (3:47)
 2. Firecracker (2:48)
@@ -35,8 +36,12 @@ styles: ["Alternative Rock"]
 19. Sweet Black Magic (2:34)
 20. The Bar Is A Beautiful Place (5:50)
 21. Cannonball Days (3:22)
+
+
 ## Spotify
 {{< spotify type="album" id="1tYlx93ShW1M8TiAVDJSKc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hmHgY_J63Ik" title="Ryan Adams - New York, New York" >}}
@@ -63,7 +68,5 @@ styles: ["Alternative Rock"]
 | Release Year   | 2008 |
 | Discogs Link   | [Ryan Adams - Gold](https://www.discogs.com/release/3814418-Ryan-Adams-Gold) |
 | Label          | Lost Highway |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | 008817023519 |
-
-

@@ -2,7 +2,7 @@
 title: "Various - Ghostbusters II"
 artist: "Various"
 album_name: "Ghostbusters II"
-date: 2020-08-01
+date: 2020-08-01T12:41:40.000000Z
 release_id: "672488"
 slug: "ghostbusters-ii-672488"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. On Our Own (4:53)
 2. Supernatural (4:35)
@@ -24,8 +25,12 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 8. Love Is A Cannibal (3:53)
 9. Flip City (5:12)
 10. Higher And Higher (4:08)
+
+
 ## Spotify
 {{< spotify type="album" id="7hb7PW4pEcddvEPyU8WORa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own (Ghostbusters II Soundtrack)" >}}
@@ -46,8 +51,6 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 1989 |
 | Discogs Link   | [Various - Ghostbusters II](https://www.discogs.com/release/672488-Various-Ghostbusters-II) |
-| Label          | MCA Records, MCA Records |
-| Format         | LP, Comp |
-| Catalog Number | 256 434-1, MCA-6306 |
-
-
+| Label          | MCA Records |
+| Format         | Vinyl LP Compilation |
+| Catalog Number | 256 434-1 |

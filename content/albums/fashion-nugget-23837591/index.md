@@ -2,7 +2,7 @@
 title: "Cake - Fashion Nugget"
 artist: "Cake"
 album_name: "Fashion Nugget"
-date: 2022-08-11
+date: 2022-08-11T01:53:24.000000Z
 release_id: "23837591"
 slug: "fashion-nugget-23837591"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Frank Sinatra (4:00)
 2. The Distance (3:01)
@@ -28,8 +29,12 @@ styles: ["Alternative Rock"]
 12. She'll Come Back To Me (2:25)
 13. Italian Leather Sofa (5:52)
 14. Sad Songs And Waltzes (3:16)
+
+
 ## Spotify
 {{< spotify type="album" id="0xqBjioTJ32aszn90qV2m1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="aAkWJmoL8KQ" title="Cake-Frank Sinatra from Fashion Nugget" >}}
@@ -58,8 +63,9 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Cake - Fashion Nugget](https://www.discogs.com/release/23837591-Cake-Fashion-Nugget) |
-| Label          | Upbeat Records, Sony Music |
-| Format         | LP, Album, Ltd, M/Print, RE, RM, Red |
-| Catalog Number | 19439966461, 19439977291S1 |
+| Label          | Upbeat Records (2) |
+| Format         | Vinyl LP Album Limited Edition Misprint Reissue Remastered Stereo (Red Opaque, 140 gr.) |
+| Catalog Number | 19439966461 |
 
-Comes with printed inner sleeve. Track B1 "Stickshifts And Safetybelts" is misspelled on cover reverse as "Stickshifts And Saftybelts".
+Comes with printed inner sleeve.
+Track B1 "Stickshifts And Safetybelts" is misspelled on cover reverse as "Stickshifts And Saftybelts".

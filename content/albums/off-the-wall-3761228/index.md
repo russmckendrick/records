@@ -2,7 +2,7 @@
 title: "Michael Jackson - Off The Wall"
 artist: "Michael Jackson"
 album_name: "Off The Wall"
-date: 2016-04-08
+date: 2016-04-08T19:08:40.000000Z
 release_id: "3761228"
 slug: "off-the-wall-3761228"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Disco", "Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. Don't Stop 'Til You Get Enough (6:02)
 2. Rock With You (3:38)
@@ -24,8 +25,12 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 8. I Can't Help It (4:27)
 9. It's The Falling In Love (3:46)
 10. Burn This Disco Out (3:38)
+
+
 ## Spotify
 {{< spotify type="album" id="2ZytN2cY4Zjrr9ukb2rqTP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yURRmWtbTbo" title="Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)" >}}
@@ -44,8 +49,14 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 1986 |
 | Discogs Link   | [Michael Jackson - Off The Wall](https://www.discogs.com/release/3761228-Michael-Jackson-Off-The-Wall) |
-| Label          | Epic, Epic |
-| Format         | LP, Album, RE |
-| Catalog Number | EPC 450086 1, 450086 1 |
+| Label          | Epic |
+| Format         | Vinyl LP Album Reissue Stereo |
+| Catalog Number | EPC 450086 1 |
 
- © 1979 CBS, Inc. / ℗ 1979 CBS Inc. Distribution: CBS Records / CBS Disques S.A. Shorepak by Shorewood Packaging Co. Ltd., England  This release has a slighty different cover to the other reissue.  Some releases came with insert containing all lyrics and credits.
+ © 1979 CBS, Inc. / ℗ 1979 CBS Inc.
+Distribution: CBS Records / CBS Disques S.A.
+Shorepak by Shorewood Packaging Co. Ltd., England
+
+This release has a slighty different cover to the other reissue.
+
+Some releases came with insert containing all lyrics and credits.

@@ -2,7 +2,7 @@
 title: "Stars - There Is No Love In Fluorescent Light"
 artist: "Stars"
 album_name: "There Is No Love In Fluorescent Light"
-date: 2017-11-07
+date: 2017-11-07T18:42:01.000000Z
 release_id: "10994086"
 slug: "there-is-no-love-in-fluorescent-light-10994086"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Privilege
 2. Fluorescent Light
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 10. The Maze
 11. California, I Love That Name
 12. Wanderers
+
+
 ## Spotify
 {{< spotify type="album" id="33vbGD5V5sEDbyzXJnYPtg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Q1-jaX3K4Ik" title="Privilege" >}}
@@ -49,7 +54,8 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Stars - There Is No Love In Fluorescent Light](https://www.discogs.com/release/10994086-Stars-There-Is-No-Love-In-Fluorescent-Light) |
 | Label          | Last Gang Records |
-| Format         | 2xLP, Album, Ltd, Bon |
+| Format         | Vinyl 2× LP Album Limited Edition (Bone) |
 | Catalog Number | Q101943 |
 
-Limited to 500 copies. Pressed on 140g bone vinyl, double gatefold. Includes Digital Download.
+Limited to 500 copies.
+Pressed on 140g bone vinyl, double gatefold. Includes Digital Download.

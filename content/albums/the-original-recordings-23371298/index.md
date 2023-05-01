@@ -2,7 +2,7 @@
 title: "Sex Pistols - The Original Recordings"
 artist: "Sex Pistols"
 album_name: "The Original Recordings"
-date: 2022-05-31
+date: 2022-05-31T01:41:27.000000Z
 release_id: "23371298"
 slug: "the-original-recordings-23371298"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Pretty Vacant
 2. God Save The Queen
@@ -34,8 +35,11 @@ styles: ["Punk"]
 18. Did You No Wrong
 19. Substitute
 20. My Way
+
+
 ## Spotify
 {{< spotify type="album" id="1J1nqgEuiVKGqRbdBwaZLK" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -44,7 +48,5 @@ styles: ["Punk"]
 | Release Year   | 2022 |
 | Discogs Link   | [Sex Pistols - The Original Recordings](https://www.discogs.com/release/23371298-Sex-Pistols-The-Original-Recordings) |
 | Label          | UMC |
-| Format         | 2xLP, Comp, Gre |
+| Format         | Vinyl 2× LP Compilation Stereo (Green) |
 | Catalog Number | 455 953-5 |
-
-

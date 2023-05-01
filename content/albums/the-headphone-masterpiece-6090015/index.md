@@ -2,7 +2,7 @@
 title: "Cody ChesnuTT - The Headphone Masterpiece"
 artist: "Cody ChesnuTT"
 album_name: "The Headphone Masterpiece"
-date: 2017-11-26
+date: 2017-11-26T14:53:05.000000Z
 release_id: "6090015"
 slug: "the-headphone-masterpiece-6090015"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 ---
+
 ## Tracklisting
 1. Magic In A Mortal Minute (0:38)
 2. With Me In Mind (3:51)
@@ -50,8 +51,12 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 34. If We Don't Disagree (3:23)
 35. Look Good In Leather (3:55)
 36. 6 Seconds (4:28)
+
+
 ## Spotify
 {{< spotify type="album" id="4DO0EipTAYZYaUDSoEVK98" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tD4VoPlC91A" title="Cody Chesnutt - Eric Burdon" >}}
@@ -71,7 +76,9 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 | Release Year   | 2014 |
 | Discogs Link   | [Cody ChesnuTT - The Headphone Masterpiece](https://www.discogs.com/release/6090015-Cody-Chesnutt-The-Headphone-Masterpiece) |
 | Label          | One Little Indian |
-| Format         | 3xLP, Album, Ltd, Num, RP |
+| Format         | Vinyl 3× LP Album Limited Edition Numbered Repress |
 | Catalog Number | TPLP345DMM |
 
-third pressing - Limited Edition numbered on the front side  
+third pressing - Limited Edition numbered on the front side
+
+

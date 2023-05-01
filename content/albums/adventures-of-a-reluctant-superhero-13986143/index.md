@@ -1,18 +1,19 @@
 ---
-title: "Chali 2NA, Krafty Kuts - Adventures Of A Reluctant Superhero"
-artist: "Chali 2NA, Krafty Kuts"
+title: "Chali 2NA - Adventures Of A Reluctant Superhero"
+artist: "Chali 2NA"
 album_name: "Adventures Of A Reluctant Superhero"
-date: 2019-08-11
+date: 2019-08-11T14:23:25.000000Z
 release_id: "13986143"
 slug: "adventures-of-a-reluctant-superhero-13986143"
 hideSummary: true
 cover:
     image: "adventures-of-a-reluctant-superhero-13986143.jpg"
-    alt: "Adventures Of A Reluctant Superhero by Chali 2NA, Krafty Kuts"
-    caption: "Adventures Of A Reluctant Superhero by Chali 2NA, Krafty Kuts"
+    alt: "Adventures Of A Reluctant Superhero by Chali 2NA"
+    caption: "Adventures Of A Reluctant Superhero by Chali 2NA"
 genres: ["Hip Hop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Endtro
 2. Guard The Fort 
@@ -28,8 +29,12 @@ styles: null
 12. Stay Tuned
 13. Heartbroken
 14. Skillz
+
+
 ## Spotify
 {{< spotify type="album" id="6arS2YInQ8Rd0hrH6tJGpO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Zzs5wXa3-Jk" title="Stay Tuned - Chali 2na and Krafty Kuts" >}}
@@ -54,9 +59,9 @@ styles: null
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Chali 2NA, Krafty Kuts - Adventures Of A Reluctant Superhero](https://www.discogs.com/release/13986143-Chali-2NA-Krafty-Kuts-Adventures-Of-A-Reluctant-Superhero) |
+| Discogs Link   | [Chali 2NA - Adventures Of A Reluctant Superhero](https://www.discogs.com/release/13986143-Chali-2NA-Krafty-Kuts-Adventures-Of-A-Reluctant-Superhero) |
 | Label          | Manphibian Music |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | MANP 001LP |
 
 Includes printed sleeve/liner, 8-page comic & digital download.

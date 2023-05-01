@@ -2,7 +2,7 @@
 title: "Teenage Fanclub - Grand Prix"
 artist: "Teenage Fanclub"
 album_name: "Grand Prix"
-date: 2018-08-29
+date: 2018-08-29T18:39:42.000000Z
 release_id: "12372525"
 slug: "grand-prix-12372525"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. About You (2:40)
 2. Sparky's Dream (3:15)
@@ -29,8 +30,12 @@ styles: ["Indie Rock"]
 13. Hardcore / Ballad (1:48)
 14. Every Step Is A Way Through (2:51)
 15. Some People Try To Fuck With You (2:32)
+
+
 ## Spotify
 {{< spotify type="album" id="2RsAmyJvP12dxBkBQoKP8L" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UK_CuMJJLwg" title="Teenage Fanclub - Sparky's Dream" >}}
@@ -45,7 +50,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Teenage Fanclub - Grand Prix](https://www.discogs.com/release/12372525-Teenage-Fanclub-Grand-Prix) |
 | Label          | Sony Music |
-| Format         | LP, Album, RE, RM, 180 + 7\", Ltd |
+| Format         | Vinyl LP Album Reissue Remastered (180 gram), Vinyl 7" 45 RPM Limited Edition |
 | Catalog Number | 19075837051 |
 
 Limited 180gm vinyl LP + 7" single. Packaged in a reproduction of the original vinyl artwork. Remastered from the original tapes at Abbey Road Studios, London under the guidance of the band. The initial run of copies preordered from the official webstore was signed by band members.

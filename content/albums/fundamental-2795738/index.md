@@ -2,7 +2,7 @@
 title: "Mental As Anything - Fundamental"
 artist: "Mental As Anything"
 album_name: "Fundamental"
-date: 2017-07-11
+date: 2017-07-11T08:45:32.000000Z
 release_id: "2795738"
 slug: "fundamental-2795738"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. You're So Strong (3:25)
 2. Big Wheel (4:41)
@@ -25,8 +26,12 @@ styles: ["New Wave", "Pop Rock"]
 9. I Just Wanna Be Happy (3:28)
 10. Splashing (3:12)
 11. Bus Ride (2:55)
+
+
 ## Spotify
 {{< spotify type="album" id="3zD8yWMybwybi9M4T1KXLf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eD01-p3oVI0" title="Mental As Anything - Live It Up (1985)" >}}
@@ -47,7 +52,5 @@ styles: ["New Wave", "Pop Rock"]
 | Release Year   | 1985 |
 | Discogs Link   | [Mental As Anything - Fundamental](https://www.discogs.com/release/2795738-Mental-As-Anything-Fundamental) |
 | Label          | Epic |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EPC 26836 |
-
-

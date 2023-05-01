@@ -2,7 +2,7 @@
 title: "Ride - Going Blank Again"
 artist: "Ride"
 album_name: "Going Blank Again"
-date: 2022-11-04
+date: 2022-11-04T06:15:59.000000Z
 release_id: "25002466"
 slug: "going-blank-again-25002466"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Leave Them All Behind
 2. Twisterella
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 8. Making Judy Smile
 9. Time Machine
 10. OX4
+
+
 ## Spotify
 {{< spotify type="album" id="5l70cCHX1QzN680J68rblF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}
@@ -44,8 +49,16 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Ride - Going Blank Again](https://www.discogs.com/release/25002466-Ride-Going-Blank-Again) |
-| Label          | Wichita, Wichita |
-| Format         | 2xLP, Album, RE, Ora |
-| Catalog Number | webb573lp, WEBB573LP |
+| Label          | Wichita |
+| Format         | Vinyl 2× LP Album Reissue (Orange Transparent) |
+| Catalog Number | webb573lp |
 
-'Original audio reworked and refined' Double transparent orange vinyl, standard weight Gatefold sleeve, gloss machine varnish Full album download with four bonus tracks in flac or mp3.  webb573lp on sleeve WEBB573LP on hype sticker  Runouts on all sides have an 8 crossed out between 5 and 7 :     WEBB5 ̷8̷73LP
+'Original audio reworked and refined'
+Double transparent orange vinyl, standard weight
+Gatefold sleeve, gloss machine varnish
+Full album download with four bonus tracks in flac or mp3.
+
+webb573lp on sleeve
+WEBB573LP on hype sticker
+
+Runouts on all sides have an 8 crossed out between 5 and 7 :     WEBB5 ̷8̷73LP

@@ -2,7 +2,7 @@
 title: "Steely Dan - Greatest Hits"
 artist: "Steely Dan"
 album_name: "Greatest Hits"
-date: 2015-09-11
+date: 2015-09-11T18:02:24.000000Z
 release_id: "434956"
 slug: "greatest-hits-434956"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Do It Again (5:50)
 2. Reeling In The Years (4:35)
@@ -33,6 +34,9 @@ styles: ["Classic Rock"]
 17. Peg (3:54)
 18. Josie (4:30)
 
+
+
+
 ## Videos
 {{< youtube id="UfZWp-hGCdA" title="RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan" >}}
 - [Do It Again](https://www.youtube.com/watch?v=jmdiKePVUy8)
@@ -47,7 +51,5 @@ styles: ["Classic Rock"]
 | Release Year   | 1978 |
 | Discogs Link   | [Steely Dan - Greatest Hits](https://www.discogs.com/release/434956-Steely-Dan-Greatest-Hits) |
 | Label          | ABC Records |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | ABCD 616 |
-
-

@@ -2,7 +2,7 @@
 title: "Crippled Black Phoenix - Great Escape"
 artist: "Crippled Black Phoenix"
 album_name: "Great Escape"
-date: 2018-09-19
+date: 2018-09-19T17:58:20.000000Z
 release_id: "12492262"
 slug: "great-escape-12492262"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock"]
 ---
+
 ## Tracklisting
 1. You Brought It Upon Yourselves
 2. To You I Give
@@ -25,8 +26,12 @@ styles: ["Prog Rock", "Post Rock"]
 9. Las Diabolicas
 10. Great Escape (Pt I)
 11. Great Escape (Pt II)
+
+
 ## Spotify
 {{< spotify type="album" id="6F2EJ4TAUAyPShRxIa8EOj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CV07GXCsQGg" title="Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)" >}}
@@ -38,8 +43,10 @@ styles: ["Prog Rock", "Post Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Crippled Black Phoenix - Great Escape](https://www.discogs.com/release/12492262-Crippled-Black-Phoenix-Great-Escape) |
-| Label          | Season Of Mist, Season Of Mist |
-| Format         | 2xLP, Album, Ltd, Cle |
-| Catalog Number | SOM 491LP, SOM 491LPES |
+| Label          | Season Of Mist |
+| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Catalog Number | SOM 491LP |
 
-Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.  SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels.
+Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.
+
+SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels.

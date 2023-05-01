@@ -2,7 +2,7 @@
 title: "Father John Misty - God's Favorite Customer"
 artist: "Father John Misty"
 album_name: "God's Favorite Customer"
-date: 2018-06-09
+date: 2018-06-09T09:14:48.000000Z
 release_id: "12075275"
 slug: "god-s-favorite-customer-12075275"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Hangout At The Gallows
 2. Mr. Tillman
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 8. God's Favorite Customer
 9. The Songwriter
 10. We're Only People (And There's Not Much Anyone Can Do About That)
+
+
 ## Spotify
 {{< spotify type="album" id="7f4DUvIlSluy7YRnZsLEkd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="sNG4g354P3w" title="Father John Misty - God's Favorite Customer [Official Music Video]" >}}
@@ -41,8 +46,15 @@ styles: ["Alternative Rock", "Folk Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Father John Misty - God's Favorite Customer](https://www.discogs.com/release/12075275-Father-John-Misty-Gods-Favorite-Customer) |
-| Label          | Bella Union, Bella Union |
-| Format         | LP, Album, Ltd, Ora |
-| Catalog Number | BELLA770RT, BELLA770V |
+| Label          | Bella Union |
+| Format         | Vinyl LP Album Limited Edition (Orange Neon) |
+| Catalog Number | BELLA770RT |
 
-Rough Trade Exclusive: Neon Orange. Limited to 1000 copies.   Test pressing labels with track numbering on sequential to 1 through 10.  Sticker with download information stuck on inner sleeve.  BELLA770RT on barcode sticker. BELLA770V on spine
+Rough Trade Exclusive: Neon Orange. Limited to 1000 copies. 
+
+Test pressing labels with track numbering on sequential to 1 through 10.
+
+Sticker with download information stuck on inner sleeve.
+
+BELLA770RT on barcode sticker.
+BELLA770V on spine

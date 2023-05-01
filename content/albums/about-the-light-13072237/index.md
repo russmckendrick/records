@@ -2,7 +2,7 @@
 title: "Steve Mason - About The Light"
 artist: "Steve Mason"
 album_name: "About The Light"
-date: 2019-01-19
+date: 2019-01-19T09:38:30.000000Z
 release_id: "13072237"
 slug: "about-the-light-13072237"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. America Is Your Boyfriend
 2. Rocket
@@ -24,8 +25,9 @@ styles: ["Indie Rock"]
 8. Don't Know Where
 9. Walking Away From Love
 10. The End
-## Spotify
-{{< spotify type="album" id="1IOnfFfswEAQzFbfUI68XE" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="8jPy090dfPg" title="Steve Mason - About  the light" >}}
@@ -43,8 +45,12 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-About-The-Light) |
-| Label          | Double Six, Double Six |
-| Format         | LP, Album, Ltd, Sil |
-| Catalog Number | DS121LP, DS121LPX |
+| Label          | Double Six (2) |
+| Format         | Vinyl LP Album Limited Edition (Silver) |
+| Catalog Number | DS121LP |
 
-Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed.
+Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).
+
+Download card for MP3 and WAV files included.
+
+Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed.

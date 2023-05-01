@@ -2,7 +2,7 @@
 title: "Neil Diamond - The Jazz Singer (Original Songs From The Motion Picture)"
 artist: "Neil Diamond"
 album_name: "The Jazz Singer (Original Songs From The Motion Picture)"
-date: 2015-12-09
+date: 2015-12-09T10:18:46.000000Z
 release_id: "1605561"
 slug: "the-jazz-singer-original-songs-from-the-motion-picture-1605561"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ---
+
 ## Tracklisting
 1. America
 2. Adon Olom
@@ -28,8 +29,12 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 12. Jerusalem
 13. Kol Nidre
 14. America (Reprise)
+
+
 ## Spotify
 {{< spotify type="album" id="3NDwrDoBKwmBQYz4emr9P7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SvseQ90FMHk" title="America (From The Jazz Singer Soundtrack)" >}}
@@ -52,8 +57,10 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 | ---------------| ----------- |
 | Release Year   | 1980 |
 | Discogs Link   | [Neil Diamond - The Jazz Singer (Original Songs From The Motion Picture)](https://www.discogs.com/release/1605561-Neil-Diamond-The-Jazz-Singer-Original-Songs-From-The-Motion-Picture) |
-| Label          | Capitol Records, Capitol Records, Capitol Records |
-| Format         | LP, Album, Gat |
-| Catalog Number | EA-ST 12120, EAST 12120, 0C 062-86 266  |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album (Gatefold) |
+| Catalog Number | EA-ST 12120 |
 
-The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the label.  Gloss sleeve embossed
+The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the label.
+
+Gloss sleeve embossed

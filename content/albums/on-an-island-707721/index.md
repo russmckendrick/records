@@ -2,7 +2,7 @@
 title: "David Gilmour - On An Island"
 artist: "David Gilmour"
 album_name: "On An Island"
-date: 2015-10-12
+date: 2015-10-12T18:45:01.000000Z
 release_id: "707721"
 slug: "on-an-island-707721"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Castellorizon
 2. On An Island
@@ -24,8 +25,12 @@ styles: ["Prog Rock", "Art Rock"]
 8. Smile
 9. Pocketful Of Stones
 10. Where We Start
+
+
 ## Spotify
 {{< spotify type="album" id="3hhRkf54AIQsdKLMWTxVLg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="kEa__0wtIRo" title="David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)" >}}
@@ -39,7 +44,10 @@ styles: ["Prog Rock", "Art Rock"]
 | Release Year   | 2006 |
 | Discogs Link   | [David Gilmour - On An Island](https://www.discogs.com/release/707721-David-Gilmour-On-An-Island) |
 | Label          | EMI |
-| Format         | LP, Album, Gat |
+| Format         | Vinyl LP Album (Gatefold) |
 | Catalog Number | 0946 3 55695 1 3 |
 
-Made in the EU.  It comes in heavy gatefold cover with poster 
+Made in the EU.
+
+It comes in heavy gatefold cover with poster
+

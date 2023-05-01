@@ -2,7 +2,7 @@
 title: "Al Green - Greatest Hits"
 artist: "Al Green"
 album_name: "Greatest Hits"
-date: 2016-01-09
+date: 2016-01-09T07:44:54.000000Z
 release_id: "1624163"
 slug: "greatest-hits-1624163"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Tired Of Being Alone (2:50)
 2. Call Me (Come Back Home) (3:03)
@@ -24,8 +25,12 @@ styles: ["Soul"]
 8. You Ought To Be With Me (3:15)
 9. Look What You Done For Me (3:04)
 10. Let's Get Married (4:20)
+
+
 ## Spotify
 {{< spotify type="album" id="6W0V8B0fJItvOwC8v114rZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}
@@ -45,8 +50,15 @@ styles: ["Soul"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/1624163-Al-Green-Greatest-Hits) |
-| Label          | Hi Records, Hi Records |
-| Format         | LP, Comp, RE |
-| Catalog Number | HIUKLP 425, HI UK LP 425 |
+| Label          | Hi Records |
+| Format         | Vinyl LP Compilation Reissue |
+| Catalog Number | HIUKLP 425 |
 
-Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.  (P) 1972, 1973, 1975 Cream / Hi Records Inc. (C) 1987 Cream / Hi Records Inc. HI UK LP 425 = sleeve and spine cat# HIUKLP 425 = label cat# Runout matrices etched, except for TY1 that are stamped. 
+Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.
+
+(P) 1972, 1973, 1975 Cream / Hi Records Inc.
+(C) 1987 Cream / Hi Records Inc.
+HI UK LP 425 = sleeve and spine cat#
+HIUKLP 425 = label cat#
+Runout matrices etched, except for TY1 that are stamped.
+

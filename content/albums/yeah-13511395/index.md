@@ -2,7 +2,7 @@
 title: "The Wannadies - Yeah"
 artist: "The Wannadies"
 album_name: "Yeah"
-date: 2019-04-27
+date: 2019-04-27T12:01:43.000000Z
 release_id: "13511395"
 slug: "yeah-13511395"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. I Love Myself (3:07)
 2. Yeah (3:08)
@@ -29,6 +30,9 @@ styles: ["Alternative Rock"]
 13. Ball (2:53)
 14. ...Have Another One (2:52)
 
+
+
+
 ## Videos
 {{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies (Album Yeah)" >}}
 - [The Wannadies - Idiot Boy](https://www.youtube.com/watch?v=TN3pSDdISnQ)
@@ -39,7 +43,7 @@ styles: ["Alternative Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [The Wannadies - Yeah](https://www.discogs.com/release/13511395-The-Wannadies-Yeah) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, Pin |
+| Format         | Vinyl LP Album Limited Edition Numbered (Pink) |
 | Catalog Number | MOVLP2304 |
 
 Limited to 1000 copies on numbered pink vinyl

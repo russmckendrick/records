@@ -2,7 +2,7 @@
 title: "Spear Of Destiny - S.O.D. The Epic Years"
 artist: "Spear Of Destiny"
 album_name: "S.O.D. The Epic Years"
-date: 2015-12-04
+date: 2015-12-04T18:21:09.000000Z
 release_id: "492090"
 slug: "s-o-d-the-epic-years-492090"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Goth Rock"]
 ---
+
 ## Tracklisting
 1. The Wheel
 2. Rainmaker
@@ -25,6 +26,9 @@ styles: ["Pop Rock", "Goth Rock"]
 9. Mickey
 10. Liberator
 
+
+
+
 ## Videos
 {{< youtube id="p-6rxCRTsK0" title="Spear Of Destiny-The Wheel.wmv" >}}
 
@@ -33,8 +37,10 @@ styles: ["Pop Rock", "Goth Rock"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [Spear Of Destiny - S.O.D. The Epic Years](https://www.discogs.com/release/492090-Spear-Of-Destiny-SOD-The-Epic-Years) |
-| Label          | Epic, Burning Rome Records |
-| Format         | LP, Comp |
+| Label          | Epic |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | 450872 1 |
 
-Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.  Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover.
+Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.
+
+Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover.

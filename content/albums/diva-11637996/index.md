@@ -2,7 +2,7 @@
 title: "Annie Lennox - Diva"
 artist: "Annie Lennox"
 album_name: "Diva"
-date: 2018-03-10
+date: 2018-03-10T15:57:11.000000Z
 release_id: "11637996"
 slug: "diva-11637996"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Ballad", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Why (4:53)
 2. Walking On Broken Glass (4:12)
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 8. Primitive (4:16)
 9. Stay By Me (6:26)
 10. The Gift (4:52)
+
+
 ## Spotify
 {{< spotify type="album" id="33ImEB9taJ3Tie4APfTL7B" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HG7I4oniOyA" title="Annie Lennox - Why (Official Music Video)" >}}
@@ -46,7 +51,14 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Annie Lennox - Diva](https://www.discogs.com/release/11637996-Annie-Lennox-Diva) |
 | Label          | RCA |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Catalog Number | 88985419511 |
 
-℗ 1992 & © 2017 SONY MUSIC ENTERTAINMENT UK LIMITED. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. MADE IN THE EU. LC12723 BIEM/GEMA  Made in the EU  When purchasing Diva and Medusa together from HMV stores in the UK, you received two free exclusive prints.  A & B runouts are etched.
+℗ 1992 & © 2017 SONY MUSIC ENTERTAINMENT UK LIMITED. ALL TRADEMARKS AND LOGOS ARE PROTECTED.
+ALL RIGHTS RESERVED. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. MADE IN THE EU. LC12723 BIEM/GEMA
+
+Made in the EU
+
+When purchasing Diva and Medusa together from HMV stores in the UK, you received two free exclusive prints.
+
+A & B runouts are etched.

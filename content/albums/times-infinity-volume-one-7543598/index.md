@@ -2,7 +2,7 @@
 title: "The Dears - Times Infinity Volume One"
 artist: "The Dears"
 album_name: "Times Infinity Volume One"
-date: 2020-08-01
+date: 2020-08-01T12:47:57.000000Z
 release_id: "7543598"
 slug: "times-infinity-volume-one-7543598"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. We Lost Everything (3:45)
 2. I Used To Pray For The Heavens To Fall (5:32)
@@ -24,8 +25,12 @@ styles: ["Indie Rock"]
 8. Face Of Horrors (4:07)
 9. Hell Hath Frozen In Your Eyes (4:28)
 10. Onward And Downward (3:40)
+
+
 ## Spotify
 {{< spotify type="album" id="13R3e9v50xgAYNL56mdyYZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_OBe4JUNJTE" title="The Dears - I Used To Pray For The Heavens To Fall (Official Lyric Video)" >}}
@@ -46,8 +51,10 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [The Dears - Times Infinity Volume One](https://www.discogs.com/release/7543598-The-Dears-Times-Infinity-Volume-One) |
-| Label          | Dangerbird Records, Not On Label (The Dears Self-released) |
-| Format         | LP, Album |
-| Catalog Number | DGB121-1, DE050003 |
+| Label          | Dangerbird Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | DGB121-1 |
 
-(c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026  Pressed By information is not listed. Information derived from runouts. 
+(c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026
+
+Pressed By information is not listed. Information derived from runouts. 

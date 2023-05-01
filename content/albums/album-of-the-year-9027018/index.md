@@ -2,7 +2,7 @@
 title: "Faith No More - Album Of The Year"
 artist: "Faith No More"
 album_name: "Album Of The Year"
-date: 2016-09-12
+date: 2016-09-12T16:37:31.000000Z
 release_id: "9027018"
 slug: "album-of-the-year-9027018"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Record One: Album Of The Year
 2. Collision (3:24)
@@ -36,8 +37,12 @@ styles: ["Alternative Rock", "Hard Rock"]
 20. The Big Kahuna (3:06)
 21. This Guy’s In Love With You (Live) (4:20)
 22. Collision (Live) (3:37)
+
+
 ## Spotify
 {{< spotify type="album" id="42uSfP4HXXGZn6kE3dZadO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="otNNGROI0Cs" title="Collision" >}}
@@ -58,8 +63,39 @@ styles: ["Alternative Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Faith No More - Album Of The Year](https://www.discogs.com/release/9027018-Faith-No-More-Album-Of-The-Year) |
-| Label          | Slash Records, Rhino Records |
-| Format         | 2xLP, Album, RE, RM, Gat |
+| Label          | Slash Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 GM) |
 | Catalog Number | 0190295972967 |
 
-The record comes in a gatefold sleeve with liner notes and artwork printed on the inside. The inner sleeves are polythene lines plain black paper sleeves.  There are two stickers affixed to the shrink wrap. A parental advisory warning on the bottom right and a hype sticker at the top left that reads: "Double 180GM Vinyl Bonus LP features rare tracks & live versions New liner notes by Roddy Bottum Includes "Stripsearch" "Last Cup Of Sorrow" & "Ashes To Ashes" 0190295972967  Vinyl Collector Includes Download code for MP3 version of the album www.thisvinylcollector.com"  Inside gatefold: "Career Direction: Warren Etner [sic] and John Vassilou for W.E.M.  Recorded at Brilliant Studios, San Francisco, CA. Recorded at Razor's Edge, San Francisco, CA. Mixed at The Plant, Sausalito, CA, assisted by Paul Coppaglia. Mastered by Howie Weinberg at Masterdisk, New York, NY.   Reissue credits: Remastered by Geoff Pesche at Abbey Road Studios, London, June 2016."  Face labels: Though the face label reads that track A6 is 4:39, it is actually 3:54. Though the face label reads that track C4 is 4:13, it is actually 3:40.  "FNM Music ASCAP. Original sound recording made by Slash Records.  Face labels and rear sleeve: This reissue ℗ 2016 Slash Records, A Warner Music Group Company. © 2016 Slash Records, A Warner Music Group Company. All rights reserved. The copyright in this sound recording and artwork is owned by Slash Records, A Warner Music Group Company. Made in the E.U."
+The record comes in a gatefold sleeve with liner notes and artwork printed on the inside. The inner sleeves are polythene lines plain black paper sleeves.
+
+There are two stickers affixed to the shrink wrap. A parental advisory warning on the bottom right and a hype sticker at the top left that reads:
+"Double 180GM Vinyl
+Bonus LP features rare tracks & live versions
+New liner notes by Roddy Bottum
+Includes "Stripsearch" "Last Cup Of Sorrow" & "Ashes To Ashes"
+0190295972967
+
+Vinyl Collector
+Includes Download code for MP3 version of the album
+www.thisvinylcollector.com"
+
+Inside gatefold:
+"Career Direction: Warren Etner [sic] and John Vassilou for W.E.M.
+
+Recorded at Brilliant Studios, San Francisco, CA.
+Recorded at Razor's Edge, San Francisco, CA.
+Mixed at The Plant, Sausalito, CA, assisted by Paul Coppaglia.
+Mastered by Howie Weinberg at Masterdisk, New York, NY. 
+
+Reissue credits:
+Remastered by Geoff Pesche at Abbey Road Studios, London, June 2016."
+
+Face labels:
+Though the face label reads that track A6 is 4:39, it is actually 3:54.
+Though the face label reads that track C4 is 4:13, it is actually 3:40.
+
+"FNM Music ASCAP. Original sound recording made by Slash Records.
+
+Face labels and rear sleeve:
+This reissue ℗ 2016 Slash Records, A Warner Music Group Company. © 2016 Slash Records, A Warner Music Group Company. All rights reserved. The copyright in this sound recording and artwork is owned by Slash Records, A Warner Music Group Company. Made in the E.U."

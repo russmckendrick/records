@@ -2,7 +2,7 @@
 title: "Massive Attack - Protection"
 artist: "Massive Attack"
 album_name: "Protection"
-date: 2016-12-02
+date: 2016-12-02T12:53:43.000000Z
 release_id: "9438479"
 slug: "protection-9438479"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo", "Dub"]
 ---
+
 ## Tracklisting
 1. Protection
 2. Karmacoma
@@ -24,28 +25,43 @@ styles: ["Trip Hop", "Downtempo", "Dub"]
 8. Sly
 9. Heat Miser
 10. Light My Fire (Live)
+
+
 ## Spotify
 {{< spotify type="album" id="5CnZjFfPDmxOX7KnWLLqpC" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="Vi76bxT7K6U" title="Massive Attack - Karmacoma" >}}
-- [Karmacoma](https://www.youtube.com/watch?v=GuAwIatmN3U)
-- [Three](https://www.youtube.com/watch?v=AoYKjCCOqbk)
-- [Weather Storm](https://www.youtube.com/watch?v=lTGjFpjOIP8)
-- [Spying Glass](https://www.youtube.com/watch?v=ETsyfeQcxEQ)
-- [Better Things](https://www.youtube.com/watch?v=M-muSqqvFio)
-- [Euro Child](https://www.youtube.com/watch?v=vUceCfTQhow)
-- [Sly](https://www.youtube.com/watch?v=WLsrYGHuduo)
-- [Heat Miser](https://www.youtube.com/watch?v=cjHg_vysMBU)
-- [Light My Fire (Live From United Kingdom/1994)](https://www.youtube.com/watch?v=8y3MVfRJ9WA)
+{{< youtube id="Epgo8ixX6Wo" title="Massive Attack - Protection" >}}
+- [M̲a̲s̲s̲i̲v̲e̲ ̲A̲t̲t̲a̲c̲k̲ ̲-̲ ̲P̲r̲o̲t̲e̲c̲t̲i̲o̲n̲ ̲(̲F̲U̲L̲L̲ ̲A̲L̲B̲U̲M̲)̲](https://www.youtube.com/watch?v=4xhWmiNKZeg)
+- [Protection](https://www.youtube.com/watch?v=B27KCHmH6Ik)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Massive Attack - Protection](https://www.discogs.com/release/9438479-Massive-Attack-Protection) |
-| Label          | Circa, Circa, Wild Bunch Records, Wild Bunch Records |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | 5700962, 00602557009620 |
+| Label          | Circa |
+| Format         | Vinyl LP Album Reissue Stereo (180 gr) |
+| Catalog Number | 5700962 |
 
-Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK. All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK. Mastered at The Exchange.  "Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.  "Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.  "Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.  ℗ & © 1994 Circa Records Ltd. ℗ & © 2016 Virgin Records Ltd.  Universal International Music B.V. Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands  Made in the EU.  Includes a download code for a digital copy of the album in CD quality WAV files.
+Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK.
+All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK.
+Mastered at The Exchange.
+
+"Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.
+
+"Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.
+
+"Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.
+
+℗ & © 1994 Circa Records Ltd.
+℗ & © 2016 Virgin Records Ltd.
+
+Universal International Music B.V.
+Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands
+
+Made in the EU.
+
+Includes a download code for a digital copy of the album in CD quality WAV files.

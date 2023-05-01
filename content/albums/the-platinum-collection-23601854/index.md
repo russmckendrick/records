@@ -2,7 +2,7 @@
 title: "Queen - The Platinum Collection"
 artist: "Queen"
 album_name: "The Platinum Collection"
-date: 2022-06-17
+date: 2022-06-17T04:00:54.000000Z
 release_id: "23601854"
 slug: "the-platinum-collection-23601854"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Bohemian Rhapsody (5:54)
 2. Another One Bites The Dust (3:36)
@@ -65,8 +66,11 @@ styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 49. No-One But You (Only The Good Die Young) (4:13)
 50. These Are The Days Of Our Lives (4:15)
 51. Thank God It's Christmas (4:19)
+
+
 ## Spotify
 {{< spotify type="album" id="60Yx1xATvlWpAMzsBMMTSE" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -75,7 +79,27 @@ styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Queen - The Platinum Collection](https://www.discogs.com/release/23601854-Queen-The-Platinum-Collection) |
 | Label          | EMI |
-| Format         | LP, Comp, RE, RM, 180 + LP, Comp, RE, RM, 180 + LP |
+| Format         | Vinyl LP Compilation Reissue Remastered (180 Grams, Yellow), Vinyl LP Compilation Reissue Remastered (180 Grams, Red), Vinyl LP Compilation Reissue Remastered (180 Grams, Pink), Vinyl LP Compilation Reissue Remastered (180 Grams, Purple), Vinyl LP Compilation Reissue Remastered (180 Grams, Blue), Vinyl LP Compilation Reissue Remastered (180 Grams, Green), Box Set Limited Edition |
 | Catalog Number | 0602435877518 |
 
-Sticker on shrinkwrap states: "QUEEN THE PLATINUM  COLLECTION  51 HITS ON VINYL  FOR THE FIRST TIME 6x 180g Coloured LPs 24 page 12" photo book 00602435877518"  Made in the EU  Runout etched, "1=X", "1=I", "3=+", "1T", "V1", 1-", "S1=", "1+", "1I" are mirrored  A limited number of orders from queenonline.com included a hand-numbered (n/2,000) 12" x 12" art card. Print shipped in a white cardboard envelope with 2 stickers: -barcode 2566016375153 (QUPCPRINT) on the back -"QUPCPRINT QUEEN PLATINUM COLLECTION PRINT"  on the front  
+Sticker on shrinkwrap states:
+"QUEEN
+THE PLATINUM 
+COLLECTION
+
+51 HITS ON VINYL 
+FOR THE FIRST TIME
+6x 180g Coloured LPs
+24 page 12" photo book
+00602435877518"
+
+Made in the EU
+
+Runout etched, "1=X", "1=I", "3=+", "1T", "V1", 1-", "S1=", "1+", "1I" are mirrored
+
+A limited number of orders from queenonline.com included a hand-numbered (n/2,000) 12" x 12" art card.
+Print shipped in a white cardboard envelope with 2 stickers:
+-barcode 2566016375153 (QUPCPRINT) on the back
+-"QUPCPRINT QUEEN PLATINUM COLLECTION PRINT"  on the front
+
+

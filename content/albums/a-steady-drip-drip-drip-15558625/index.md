@@ -2,7 +2,7 @@
 title: "Sparks - A Steady Drip, Drip, Drip"
 artist: "Sparks"
 album_name: "A Steady Drip, Drip, Drip"
-date: 2020-07-05
+date: 2020-07-05T11:38:50.000000Z
 release_id: "15558625"
 slug: "a-steady-drip-drip-drip-15558625"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. All That
 2. I'm Toast
@@ -28,8 +29,12 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 12. The Existential Threat
 13. Nothing Travels Faster Than The Speed Of Light
 14. Please Don't Fuck Up My World
+
+
 ## Spotify
 {{< spotify type="album" id="43DZQacT84CN8EYfKcmeSL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="aJpfdcurYoQ" title="Sparks - I'm Toast (Unofficial Video)" >}}
@@ -47,7 +52,9 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Sparks - A Steady Drip, Drip, Drip](https://www.discogs.com/release/15558625-Sparks-A-Steady-Drip-Drip-Drip) |
 | Label          | BMG |
-| Format         | LP, Blu + LP, Pur + Album, Ltd |
+| Format         | Vinyl LP 45 RPM (Blue, 180g), Vinyl LP 45 RPM (Purple, 180g), All Media Album Limited Edition |
 | Catalog Number | 538603240 |
 
-Includes exclusive poster.  Gatefold sleeve
+Includes exclusive poster.
+
+Gatefold sleeve

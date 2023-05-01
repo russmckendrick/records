@@ -2,7 +2,7 @@
 title: "Roger Waters - Amused To Death"
 artist: "Roger Waters"
 album_name: "Amused To Death"
-date: 2015-08-09
+date: 2015-08-09T08:41:16.000000Z
 release_id: "7272383"
 slug: "amused-to-death-7272383"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. The Ballad Of Bill Hubbard (4:19)
 2. What God Wants, Part I (6:00)
@@ -28,8 +29,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 12. Three Wishes (6:50)
 13. It's A Miracle (8:30)
 14. Amused To Death (9:06)
+
+
 ## Spotify
 {{< spotify type="album" id="5RqQH15mFgHI984n25pFg3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="EIzgTL5NDT8" title="The Ballad of Bill Hubbard" >}}
@@ -52,8 +57,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Roger Waters - Amused To Death](https://www.discogs.com/release/7272383-Roger-Waters-Amused-To-Death) |
-| Label          | Columbia, Legacy, Sony Music |
-| Format         | 2xLP, Album, Ltd, Num, Pic, RE, RM |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc Reissue Remastered |
 | Catalog Number | 88875065801 |
 
-"The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.  
+"The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie.
+The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."
+
+Pressed By information is not listed. Information derived from runouts. 
+

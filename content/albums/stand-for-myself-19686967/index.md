@@ -2,7 +2,7 @@
 title: "Yola - Stand For Myself"
 artist: "Yola"
 album_name: "Stand For Myself"
-date: 2021-08-09
+date: 2021-08-09T03:27:52.000000Z
 release_id: "19686967"
 slug: "stand-for-myself-19686967"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Contemporary R&B", "Pop Rock", "Funk", "Soul"]
 ---
+
 ## Tracklisting
 1. Barely Alive (3:36)
 2. Dancing Away In Tears (3:48)
@@ -26,8 +27,9 @@ styles: ["Contemporary R&B", "Pop Rock", "Funk", "Soul"]
 10. Break The Bough (3:21)
 11. Like A Photograph (5:03)
 12. Stand For Myself (4:14)
-## Spotify
-{{< spotify type="album" id="1aF9Xjtg1d1wwsE4hRAkQV" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="GfC_n8efpiM" title="Yola - Diamond Studded Shoes [Official Music Video]" >}}
@@ -38,8 +40,23 @@ styles: ["Contemporary R&B", "Pop Rock", "Funk", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Yola - Stand For Myself](https://www.discogs.com/release/19686967-Yola-Stand-For-Myself) |
-| Label          | Easy Eye Sound, Easy Eye Sound |
-| Format         | LP, Album, Pur |
-| Catalog Number | EES-0081, EES00068 |
+| Label          | Easy Eye Sound |
+| Format         | Vinyl LP Album Stereo (Purple Opaque) |
+| Catalog Number | EES-0081 |
 
-Contains a four page inlay folder with a large photo on one side and lyrics on the other side.  Publishing: [Yola](https://www.discogs.com/artist/7004421) – Downtown Music Publishing, LLC (BMI) [a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing [a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI) [a5975372] – Olubukola Oladokun/Where Da Kasz (BMI) [a2976110] – Tasjan Music (ASCAP) [a347626] – Like Butta Baby Music (BMI) [a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights [a293222] – Janwood Music (SESAC) [a617010] – Doorway Music (ASCAP), administered by Kobalt [a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp. [Patrick James McLaughlin ](https://www.discogs.com/artist/274737) – Corn Country Music (BMI), administered by ClearBox Rights [a3223539] – Budde Publishing 
+Contains a four page inlay folder with a large photo on one side and lyrics on the other side.
+
+Publishing:
+[url=https://www.discogs.com/artist/7004421]Yola[/url] – Downtown Music Publishing, LLC (BMI)
+[a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing
+[a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI)
+[a5975372] – Olubukola Oladokun/Where Da Kasz (BMI)
+[a2976110] – Tasjan Music (ASCAP)
+[a347626] – Like Butta Baby Music (BMI)
+[a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights
+[a293222] – Janwood Music (SESAC)
+[a617010] – Doorway Music (ASCAP), administered by Kobalt
+[a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp.
+[url=https://www.discogs.com/artist/274737]Patrick James McLaughlin [/url] – Corn Country Music (BMI), administered by ClearBox Rights
+[a3223539] – Budde Publishing
+

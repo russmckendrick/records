@@ -2,7 +2,7 @@
 title: "Thompson Twins - Into The Gap"
 artist: "Thompson Twins"
 album_name: "Into The Gap"
-date: 2017-01-08
+date: 2017-01-08T11:12:41.000000Z
 release_id: "8603326"
 slug: "into-the-gap-8603326"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Doctor! Doctor!
 2. You Take Me Up
@@ -23,8 +24,12 @@ styles: ["Synth-pop"]
 7. Hold Me Now
 8. Storm On The Sea
 9. Who Can Stop The Rain
+
+
 ## Spotify
 {{< spotify type="album" id="6tcBa4XORQYZBuFCILU3tX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BPLpz3sVB_k" title="Thompson Twins - You Take Me Up" >}}
@@ -42,7 +47,14 @@ styles: ["Synth-pop"]
 | Release Year   | 2016 |
 | Discogs Link   | [Thompson Twins - Into The Gap](https://www.discogs.com/release/8603326-Thompson-Twins-Into-The-Gap) |
 | Label          | Vinyl 180 |
-| Format         | LP, Album, RE, RM, Blu |
+| Format         | Vinyl LP Album Reissue Remastered (Blue Translucent, 180g) |
 | Catalog Number | VIN180LP103 |
 
-Recorded at Compass Point Studios, Nassau. Mixed at Rak Studios, London. Mastered at Sterling Sound, New York.  ℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management.  © 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.  Made in the EU.
+Recorded at Compass Point Studios, Nassau.
+Mixed at Rak Studios, London.
+Mastered at Sterling Sound, New York.
+
+℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management. 
+© 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.
+
+Made in the EU.

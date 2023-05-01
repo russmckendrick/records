@@ -2,7 +2,7 @@
 title: "Jesus Jones - Doubt"
 artist: "Jesus Jones"
 album_name: "Doubt"
-date: 2015-10-05
+date: 2015-10-05T18:23:05.000000Z
 release_id: "564216"
 slug: "doubt-564216"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Trust Me (2:05)
 2. Who? Where? Why? (3:34)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 9. Two And Two (2:53)
 10. Stripped (3:50)
 11. Blissed (4:50)
+
+
 ## Spotify
 {{< spotify type="album" id="7hKst6QIxeAcpOx3o2y6mi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CK3C9XZcTbM" title="Trust Me" >}}
@@ -48,7 +53,5 @@ styles: ["Alternative Rock", "Synth-pop"]
 | Release Year   | 1991 |
 | Discogs Link   | [Jesus Jones - Doubt](https://www.discogs.com/release/564216-Jesus-Jones-Doubt) |
 | Label          | Food |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | FOOD LP 5 |
-
-

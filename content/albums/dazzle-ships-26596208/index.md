@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Dazzle Ships"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Dazzle Ships"
-date: 2023-04-03
+date: 2023-04-03T04:19:48.000000Z
 release_id: "26596208"
 slug: "dazzle-ships-26596208"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Experimental"]
 ---
+
 ## Tracklisting
 1. Radio Prague (1:18)
 2. Genetic Engineering (3:42)
@@ -33,8 +34,12 @@ styles: ["Synth-pop", "Experimental"]
 17. Untitled Instrumental 82 (3:22)
 18. In Heaven Above (4-NEU Demo) (2:51)
 19. Telegraph (Live 1984) (3:50)
+
+
 ## Spotify
 {{< spotify type="album" id="0cfgErKiWFnCFuJ51UMfJJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wy3IxefErus" title="Dazzle Ships (Parts II, III And VII)" >}}
@@ -47,7 +52,8 @@ styles: ["Synth-pop", "Experimental"]
 | Release Year   | 2023 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/26596208-OMD-Dazzle-Ships) |
 | Label          | Virgin |
-| Format         | LP, Album, RE, RP, Sil + LP, Blu + Ltd, 40t |
+| Format         | Vinyl LP Album Reissue Repress (Silver), Vinyl LP (Blue), All Media Limited Edition Stereo (40th Anniversary Edition) |
 | Catalog Number | 0602448814920 |
 
-An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited. Made in the EU.
+An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited.
+Made in the EU.

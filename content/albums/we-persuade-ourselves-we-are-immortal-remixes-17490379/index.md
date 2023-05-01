@@ -2,7 +2,7 @@
 title: "Amorphous Androgynous - We Persuade Ourselves We Are Immortal Remixes"
 artist: "Amorphous Androgynous"
 album_name: "We Persuade Ourselves We Are Immortal Remixes"
-date: 2021-02-26
+date: 2021-02-26T04:31:17.000000Z
 release_id: "17490379"
 slug: "we-persuade-ourselves-we-are-immortal-remixes-17490379"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. The Lutine Bell
 2. Günter & His Evil Soul Sacrifice Orchestra Play Black Mass A Gogo
@@ -29,6 +30,9 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 13.  Counting Down The Time (Part 2)
 14. Tomorrow, Time & Immortality
 
+
+
+
 ## Videos
 {{< youtube id="DRSO40Cs9ok" title="the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )" >}}
 
@@ -38,7 +42,8 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Amorphous Androgynous - We Persuade Ourselves We Are Immortal Remixes](https://www.discogs.com/release/17490379-The-Amorphous-Androgynous-We-Persuade-Ourselves-We-Are-Immortal-Remixes) |
 | Label          | fsoldigital.com |
-| Format         | LP, Album, RP, 180 |
+| Format         | Vinyl LP Album Repress (180g) |
 | Catalog Number | LPTOT78 |
 
-Second pressing, 180g vinyl not numbered. Cat.# LPTOT78 (back cover, above the barcode).
+Second pressing, 180g vinyl not numbered.
+Cat.# LPTOT78 (back cover, above the barcode).

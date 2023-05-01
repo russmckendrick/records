@@ -2,7 +2,7 @@
 title: "Gary Numan - The Pleasure Principle"
 artist: "Gary Numan"
 album_name: "The Pleasure Principle"
-date: 2016-12-08
+date: 2016-12-08T18:38:02.000000Z
 release_id: "7654481"
 slug: "the-pleasure-principle-7654481"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Airlane
 2. Metal
@@ -24,8 +25,12 @@ styles: ["New Wave", "Synth-pop"]
 8. Conversation
 9. Cars
 10. Engineers
+
+
 ## Spotify
 {{< spotify type="album" id="5xFlkqLDx3wbgqtvrez1n0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KJmujhpDslY" title="GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album" >}}
@@ -46,7 +51,12 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2015 |
 | Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481-Gary-Numan-The-Pleasure-Principle) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | BBQLP 10 |
 
-Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London
+Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.
+
+℗ 1979 Beggars Banquet
+© 2015 Beggars Banquet
+
+Recorded At Marcus Music AB London

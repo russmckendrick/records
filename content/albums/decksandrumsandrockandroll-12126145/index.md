@@ -2,7 +2,7 @@
 title: "Propellerheads - Decksandrumsandrockandroll"
 artist: "Propellerheads"
 album_name: "Decksandrumsandrockandroll"
-date: 2018-06-15
+date: 2018-06-15T10:58:03.000000Z
 release_id: "12126145"
 slug: "decksandrumsandrockandroll-12126145"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
+
 ## Tracklisting
 1. Take California
 2. Echo And Bounce
@@ -27,8 +28,12 @@ styles: ["Breakbeat", "Big Beat"]
 11. Bigger?
 12. Cominagetcha
 13. Spybreak!
+
+
 ## Spotify
 {{< spotify type="album" id="5xbDEJ9xCamw1OSOjaTdzV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Dd8WjeK8riE" title="Propellerheads --- Take California" >}}
@@ -42,8 +47,17 @@ styles: ["Breakbeat", "Big Beat"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Propellerheads - Decksandrumsandrockandroll](https://www.discogs.com/release/12126145-Propellerheads-Decksandrumsandrockandroll) |
-| Label          | Wall Of Sound, [pias] |
-| Format         | 2xLP, Album, RE, 20t |
-| Catalog Number | WALL LPN015, 949.G953.012 |
+| Label          | Wall Of Sound |
+| Format         | Vinyl 2× LP Album Reissue (20th Anniversary) |
+| Catalog Number | WALL LPN015 |
 
-Gatefold.  New copies copies come shrink wrapped with on sticker on the front, stating: "20th anniversary Propellerheads Decksanddrumsandrockandroll Includes: History Repeating (Feat. Miss Shirley Bassey) Spybreak! / Dive..." This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set.
+Gatefold.
+
+New copies copies come shrink wrapped with on sticker on the front, stating:
+"20th anniversary
+Propellerheads
+Decksanddrumsandrockandroll
+Includes: History Repeating
+(Feat. Miss Shirley Bassey)
+Spybreak! / Dive..."
+This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set.

@@ -2,7 +2,7 @@
 title: "David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
 artist: "David Bowie"
 album_name: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
-date: 2019-01-06
+date: 2019-01-06T11:41:05.000000Z
 release_id: "13024979"
 slug: "1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Leon Takes Us Outside (1:24)
 2. Outside (4:04)
@@ -33,8 +34,11 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 17. Thru' These Architects Eyes (4:20)
 18. Segue - Nathan Adler (Version #2) (0:28)
 19. Strangers When We Meet (5:07)
+
+
 ## Spotify
 {{< spotify type="album" id="0pUursvGUAgcDiEqYlnZ0q" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -42,8 +46,10 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)](https://www.discogs.com/release/13024979-David-Bowie-1-Outside-The-Nathan-Adler-Diaries-A-Hyper-Cycle) |
-| Label          | Friday Music, ISO Records, Columbia, Sony Music |
-| Format         | 2xLP, Album, Ltd, RE, RM, Whi |
-| Catalog Number | FRM-40711, 88875045311 |
+| Label          | Friday Music |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White/Black Swirl, 180 Gram) |
+| Catalog Number | FRM-40711 |
 
- Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover  Identical to 2015 Reissue, [r7810564], but on different colored vinyl.
+ Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover
+
+Identical to 2015 Reissue, [r7810564], but on different colored vinyl.

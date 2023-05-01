@@ -1,18 +1,19 @@
 ---
-title: "Peter Cook & Dudley Moore Present Derek & Clive - (Live)"
-artist: "Peter Cook & Dudley Moore Present Derek & Clive"
+title: "Peter Cook & Dudley Moore - (Live)"
+artist: "Peter Cook & Dudley Moore"
 album_name: "(Live)"
-date: 2015-12-30
+date: 2015-12-30T09:11:50.000000Z
 release_id: "561172"
 slug: "live-561172"
 hideSummary: true
 cover:
     image: "live-561172.jpg"
-    alt: "(Live) by Peter Cook & Dudley Moore Present Derek & Clive"
-    caption: "(Live) by Peter Cook & Dudley Moore Present Derek & Clive"
+    alt: "(Live) by Peter Cook & Dudley Moore"
+    caption: "(Live) by Peter Cook & Dudley Moore"
 genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
+
 ## Tracklisting
 1. The Worst Job I Ever Had
 2. This Bloke Came Up To Me
@@ -28,6 +29,9 @@ styles: ["Comedy", "Spoken Word"]
 12. Cancer
 13. Jump
 
+
+
+
 ## Videos
 {{< youtube id="-2ezqpFWnfU" title="Derek and Clive - 'Derek and Clive (Live)' - Full album" >}}
 - [Derek and Clive Live: This Bloke Came Up To Me (Peter Cook & Dudley Moore) 2/13](https://www.youtube.com/watch?v=RYGy-j_oH5Q)
@@ -38,9 +42,7 @@ styles: ["Comedy", "Spoken Word"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
-| Discogs Link   | [Peter Cook & Dudley Moore Present Derek & Clive - (Live)](https://www.discogs.com/release/561172-Peter-Cook-Dudley-Moore-Present-Derek-And-Clive-Live) |
+| Discogs Link   | [Peter Cook & Dudley Moore - (Live)](https://www.discogs.com/release/561172-Peter-Cook-Dudley-Moore-Present-Derek-And-Clive-Live) |
 | Label          | Island Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ILPS 9434 |
-
-

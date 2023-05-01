@@ -2,7 +2,7 @@
 title: "Various - The Big Lebowski  (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "The Big Lebowski  (Original Motion Picture Soundtrack)"
-date: 2019-01-27
+date: 2019-01-27T14:29:04.000000Z
 release_id: "13075622"
 slug: "the-big-lebowski-original-motion-picture-soundtrack-13075622"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. The Man In Me (3:08)
 2. Her Eyes Are A Blue Million Miles (2:54)
@@ -28,6 +29,9 @@ styles: ["Soundtrack"]
 12. Hotel California (5:47)
 13. Wie Glauben (3:21)
 14. Dead Flowers (4:47)
+
+
+
 
 ## Videos
 {{< youtube id="G6oBqDkNz38" title="Bob Dylan - The Man in Me (Audio)" >}}
@@ -46,8 +50,8 @@ styles: ["Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Various - The Big Lebowski  (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13075622-Various-The-Big-Lebowski-Original-Motion-Picture-Soundtrack) |
-| Label          | Mondo, Universal Music Special Markets, Mercury |
-| Format         | LP, Album, Comp, RE, 180 |
+| Label          | Mondo (3) |
+| Format         | Vinyl LP Album Compilation Reissue (180 Gram) |
 | Catalog Number | MOND-149 |
 
 Black vinyl version. Gatefold sleeve and obi strip.

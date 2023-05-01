@@ -2,7 +2,7 @@
 title: "Sleep - The Sciences"
 artist: "Sleep"
 album_name: "The Sciences"
-date: 2018-05-25
+date: 2018-05-25T19:11:59.000000Z
 release_id: "11888908"
 slug: "the-sciences-11888908"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Doom Metal"]
 ---
+
 ## Tracklisting
 1. The Sciences (3:04)
 2. Marijuanaut's Theme (6:40)
@@ -20,8 +21,12 @@ styles: ["Stoner Rock", "Doom Metal"]
 4. Antarcticans Thawed (14:23)
 5. Giza Butler (10:02)
 6. The Botanist (6:27)
+
+
 ## Spotify
 {{< spotify type="album" id="6X0ErPKlQAxQDhWKNprz7u" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XUQyM98fq2U" title="The Sciences" >}}
@@ -37,7 +42,21 @@ styles: ["Stoner Rock", "Doom Metal"]
 | Release Year   | 2018 |
 | Discogs Link   | [Sleep - The Sciences](https://www.discogs.com/release/11888908-Sleep-The-Sciences) |
 | Label          | Third Man Records |
-| Format         | 2xLP, Album, Ltd, Gre |
+| Format         | Vinyl 2× LP Album Limited Edition (Green Translucent) |
 | Catalog Number | TMR 547 |
 
-℗ © 2018 Sleep LLC under exclusive license to Third Man Records. LLC  Limited edition first pressing on translucent green vinyl  Issued in a gatefold jacket with insert.  Center labels include the following text around the outer edge: "Manufactured by Third Man Pressing in Detroit MI"  Morse Code Translations: Side A - PURPLE KUSH Side B - SKYWALKER OG Side C - CAT PISS ROMULAN Side D - SUPER LEMON HAZE  CMS logo [sideways Ⓨ] in runouts denotes lacquer was cut at [l265517].
+℗ © 2018 Sleep LLC under exclusive license to Third Man Records. LLC
+
+Limited edition first pressing on translucent green vinyl
+
+Issued in a gatefold jacket with insert.
+
+Center labels include the following text around the outer edge: "Manufactured by Third Man Pressing in Detroit MI"
+
+Morse Code Translations:
+Side A - PURPLE KUSH
+Side B - SKYWALKER OG
+Side C - CAT PISS ROMULAN
+Side D - SUPER LEMON HAZE
+
+CMS logo [sideways Ⓨ] in runouts denotes lacquer was cut at [l265517].

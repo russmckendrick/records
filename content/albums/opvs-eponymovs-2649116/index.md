@@ -2,7 +2,7 @@
 title: "Ghost - Opvs Eponymovs"
 artist: "Ghost"
 album_name: "Opvs Eponymovs"
-date: 2018-09-18
+date: 2018-09-18T18:03:40.000000Z
 release_id: "2649116"
 slug: "opvs-eponymovs-2649116"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Doom Metal", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Deus Culpa (1:34)
 2. Con Clavi Con Dio (3:34)
@@ -24,6 +25,9 @@ styles: ["Doom Metal", "Heavy Metal"]
 8. Prime Mover (3:53)
 9. Genesis (4:03)
 
+
+
+
 ## Videos
 {{< youtube id="qJy-hdKT5wM" title="Ghost Death Knell (OFFICIAL)" >}}
 
@@ -33,7 +37,17 @@ styles: ["Doom Metal", "Heavy Metal"]
 | Release Year   | 2010 |
 | Discogs Link   | [Ghost - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-Opvs-Eponymovs) |
 | Label          | Rise Above Records |
-| Format         | LP, Album, Ltd, Gre |
+| Format         | Vinyl LP Album Limited Edition (Green Splatter) |
 | Catalog Number | RISELP124 |
 
-Album is also known as "Opus Eponymous".   Recorded at Manfire Recordings. Additional recordings done at White Light Studio. Mixed and mastered at Orgone Mastering.  ℗ 2010 Rise Above. © 2010 Rise Above.  Limited to 300 on green with black splatter .  
+Album is also known as "Opus Eponymous". 
+
+Recorded at Manfire Recordings.
+Additional recordings done at White Light Studio.
+Mixed and mastered at Orgone Mastering.
+
+℗ 2010 Rise Above.
+© 2010 Rise Above.
+
+Limited to 300 on green with black splatter . 
+

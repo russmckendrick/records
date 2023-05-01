@@ -2,7 +2,7 @@
 title: "Madness - Total Madness"
 artist: "Madness"
 album_name: "Total Madness"
-date: 2017-02-22
+date: 2017-02-22T18:01:50.000000Z
 release_id: "9848793"
 slug: "total-madness-9848793"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Reggae", "Pop"]
 styles: ["Ska", "Reggae-Pop"]
 ---
+
 ## Tracklisting
 1. One Step Beyond
 2. Baggy Trousers
@@ -37,8 +38,11 @@ styles: ["Ska", "Reggae-Pop"]
 21. Shut Up
 22. Madness
 23. Night Boat To Cairo
+
+
 ## Spotify
 {{< spotify type="album" id="3a2gd5Zovdn1AxqU7EPkwV" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -47,7 +51,36 @@ styles: ["Ska", "Reggae-Pop"]
 | Release Year   | 2017 |
 | Discogs Link   | [Madness - Total Madness](https://www.discogs.com/release/9848793-Madness-Total-Madness) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Comp, Ltd, Num, RE, RP, Red |
+| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Repress (Red, 180 Gram) |
 | Catalog Number | MOVLP629 |
 
-Limited edition of 2.000 numbered copies on red vinyl Gatefold Sleeve. Repressed from [r=4071815] master.  MOV 00[XXXX] [silver print on back sleeve]  This compilation ℗ and © 2012 Union Square Music Ltd. Made in the EU.  All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.  Hype stickers on cellophane bag:  "Britain's Favourite Band! Featuring Our House One Step Beyond Baggy Trousers It Must Be Love House Of Fun MOVLP629"  "Music On Vinyl Madness 'Total Madness' All Their Greatest Hits Limited Edition of 2000 Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com MOVLP629" 
+Limited edition of 2.000 numbered copies on red vinyl
+Gatefold Sleeve. Repressed from [r=4071815] master.
+
+MOV 00[XXXX] [silver print on back sleeve]
+
+This compilation ℗ and © 2012 Union Square Music Ltd.
+Made in the EU.
+
+All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.
+
+Hype stickers on cellophane bag:
+
+"Britain's Favourite Band!
+Featuring
+Our House
+One Step Beyond
+Baggy Trousers
+It Must Be Love
+House Of Fun
+MOVLP629"
+
+"Music On Vinyl
+Madness
+'Total Madness'
+All Their Greatest Hits
+Limited Edition of 2000 Coloured Copies
+Individually Numbered
+180 gram audiophile vinyl
+www.musiconvinyl.com MOVLP629"
+

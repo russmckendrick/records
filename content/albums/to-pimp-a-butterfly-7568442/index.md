@@ -2,7 +2,7 @@
 title: "Kendrick Lamar - To Pimp A Butterfly"
 artist: "Kendrick Lamar"
 album_name: "To Pimp A Butterfly"
-date: 2016-03-26
+date: 2016-03-26T09:36:28.000000Z
 release_id: "7568442"
 slug: "to-pimp-a-butterfly-7568442"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
+
 ## Tracklisting
 1. Wesley's Theory (4:47)
 2. For Free? (Interlude) (2:10)
@@ -30,8 +31,12 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 14. You Aint Gotta Lie (Momma Said) (4:01)
 15. I (5:36)
 16. Mortal Man (12:07)
+
+
 ## Spotify
 {{< spotify type="album" id="7ycBtnsMtyVbbwTfJwRjSP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hRK7PVJFbS8" title="Kendrick Lamar - King Kunta" >}}
@@ -45,8 +50,20 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly) |
-| Label          | Top Dawg Entertainment, Aftermath Entertainment, Interscope Records |
-| Format         | 2xLP, Album, Gat |
+| Label          | Top Dawg Entertainment |
+| Format         | Vinyl 2× LP Album (Gatefold) |
 | Catalog Number | 0602547311009 |
 
-Released in a gatefold cover. No track durations mentioned on the release.  [a2402706] of [a1628709]'  The credit section inside gatefold contains some errors: – Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa. – Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"  [Back cover] ℗© 2015 Aftermath/Interscope Records. […] Made in the EU. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands
+Released in a gatefold cover.
+No track durations mentioned on the release.
+
+[a2402706] of [a1628709]'
+
+The credit section inside gatefold contains some errors:
+– Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa.
+– Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"
+
+[Back cover]
+℗© 2015 Aftermath/Interscope Records. […]
+Made in the EU.
+Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands

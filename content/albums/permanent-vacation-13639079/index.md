@@ -2,7 +2,7 @@
 title: "Aerosmith - Permanent Vacation"
 artist: "Aerosmith"
 album_name: "Permanent Vacation"
-date: 2019-05-21
+date: 2019-05-21T18:14:15.000000Z
 release_id: "13639079"
 slug: "permanent-vacation-13639079"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Hard Rock", "Glam"]
 ---
+
 ## Tracklisting
 1. Heart's Done Time (4:42)
 2. Magic Touch (4:40)
@@ -26,8 +27,11 @@ styles: ["Hard Rock", "Glam"]
 10. Permanent Vacation (4:52)
 11. I'm Down (2:20)
 12. The Movie (4:00)
+
+
 ## Spotify
 {{< spotify type="album" id="3XYqOJI1YlX40kJTdzFEzp" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,15 @@ styles: ["Hard Rock", "Glam"]
 | Release Year   | 2019 |
 | Discogs Link   | [Aerosmith - Permanent Vacation](https://www.discogs.com/release/13639079-Aerosmith-Permanent-Vacation) |
 | Label          | Geffen Records |
-| Format         | LP, Album, Ltd, RE, Red |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red/Black Marbled) |
 | Catalog Number | 00602547954374 |
 
-Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Originally mastered at Sterling Sound  ℗ 1987 © 2016 Geffen Records Universal International Music B.V. Gerrit Van Der Veenlaan Made in EU  Issued with a printed inner sleeve. 
+Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada
+Originally mastered at Sterling Sound
+
+℗ 1987 © 2016 Geffen Records
+Universal International Music B.V. Gerrit Van Der Veenlaan
+Made in EU
+
+Issued with a printed inner sleeve.
+

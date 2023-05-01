@@ -1,18 +1,19 @@
 ---
-title: "Robert Plant | Alison Krauss - Raising Sand"
-artist: "Robert Plant | Alison Krauss"
+title: "Robert Plant - Raising Sand"
+artist: "Robert Plant"
 album_name: "Raising Sand"
-date: 2016-03-05
+date: 2016-03-05T13:38:06.000000Z
 release_id: "1272003"
 slug: "raising-sand-1272003"
 hideSummary: true
 cover:
     image: "raising-sand-1272003.jpg"
-    alt: "Raising Sand by Robert Plant | Alison Krauss"
-    caption: "Raising Sand by Robert Plant | Alison Krauss"
+    alt: "Raising Sand by Robert Plant"
+    caption: "Raising Sand by Robert Plant"
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock"]
 ---
+
 ## Tracklisting
 1. Rich Woman (4:04)
 2. Killing The Blues (4:16)
@@ -27,6 +28,12 @@ styles: ["Blues Rock"]
 11. Nothin’ (5:33)
 12. Let Your Loss Be Your Lesson (4:02)
 13. Your Long Journey (3:55)
+
+
+## Spotify
+{{< spotify type="album" id="54GfJ3ZEY2b6PKmvETmj1n" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gwg2sdRdahM" title="Killing The Blues by Robert Plant & Alison Krauss from Raising Sand" >}}
@@ -46,9 +53,27 @@ styles: ["Blues Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2007 |
-| Discogs Link   | [Robert Plant | Alison Krauss - Raising Sand](https://www.discogs.com/release/1272003-Robert-Plant-Alison-Krauss-Raising-Sand) |
+| Discogs Link   | [Robert Plant - Raising Sand](https://www.discogs.com/release/1272003-Robert-Plant-Alison-Krauss-Raising-Sand) |
 | Label          | Rounder Records |
-| Format         | 2xLP, Album, Gat |
+| Format         | Vinyl 2× LP Album (Gatefold) |
 | Catalog Number | 11661-9075-1 |
 
-1st vinyl edition ℗ & © 2007 Rounder Records Corp.  Published By: A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI) A2: Graph Music (ASCAP) A3: © Eden Bridge Music (ASCAP) administered by Bug Music  A4: © 1969 Irving Music, Inc. (BMI) B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI) B2: © 1969 Irving Music, Inc. (BMI) B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs. C1: Jalma Music (ASCAP) C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI) C3: © 1960 Universal-Cedarwood Publ. (BMI) D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug D2: © 2000 Trice Publishing Co. (BMI) D3: Hillgreen Music (BMI)  Both vinyls are housed in 140 gage square plastic polythene bags
+1st vinyl edition
+℗ & © 2007 Rounder Records Corp.
+
+Published By:
+A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI)
+A2: Graph Music (ASCAP)
+A3: © Eden Bridge Music (ASCAP) administered by Bug Music 
+A4: © 1969 Irving Music, Inc. (BMI)
+B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI)
+B2: © 1969 Irving Music, Inc. (BMI)
+B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs.
+C1: Jalma Music (ASCAP)
+C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI)
+C3: © 1960 Universal-Cedarwood Publ. (BMI)
+D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug
+D2: © 2000 Trice Publishing Co. (BMI)
+D3: Hillgreen Music (BMI)
+
+Both vinyls are housed in 140 gage square plastic polythene bags

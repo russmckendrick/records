@@ -2,7 +2,7 @@
 title: "Monster Magnet - Dopes To Infinity"
 artist: "Monster Magnet"
 album_name: "Dopes To Infinity"
-date: 2016-02-17
+date: 2016-02-17T18:14:14.000000Z
 release_id: "8112602"
 slug: "dopes-to-infinity-8112602"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Dopes To Infinity
 2. Negasonic Teenage Warhead
@@ -29,8 +30,12 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 13. Forbidden Planet (Bonus Track)
 14. Eclipse This (B-Side)
 15. I'm Five Years Ahead Of My Time (B-Side)
+
+
 ## Spotify
 {{< spotify type="album" id="6vmAaaRJHTD6z47hItmOux" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JWldvOmqhRk" title="Dopes To Infinity" >}}
@@ -56,8 +61,14 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Monster Magnet - Dopes To Infinity](https://www.discogs.com/release/8112602-Monster-Magnet-Dopes-To-Infinity) |
-| Label          | Spinefarm Records, Universal Music Group |
-| Format         | 2xLP, Album, RE, RM |
+| Label          | Spinefarm Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered |
 | Catalog Number | 00600753642337 |
 
-Black vinyl. Includes sleeve-notes & bonus material.  Comes with free album download code.  ℗ & © 2015 Spinefarm Records & Universal Music Group Company  Made in the EU.
+Black vinyl. Includes sleeve-notes & bonus material.
+
+Comes with free album download code.
+
+℗ & © 2015 Spinefarm Records & Universal Music Group Company
+
+Made in the EU.

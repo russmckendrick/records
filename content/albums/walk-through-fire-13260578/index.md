@@ -2,7 +2,7 @@
 title: "Yola - Walk Through Fire"
 artist: "Yola"
 album_name: "Walk Through Fire"
-date: 2019-03-27
+date: 2019-03-27T19:31:10.000000Z
 release_id: "13260578"
 slug: "walk-through-fire-13260578"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Soul", "Country"]
 ---
+
 ## Tracklisting
 1. Faraway Look (3:10)
 2. Shady Grove (2:43)
@@ -26,8 +27,12 @@ styles: ["Soul", "Country"]
 10. Still Gone (2:59)
 11. Keep Me Here (3:40)
 12. Love Is Light (3:16)
+
+
 ## Spotify
 {{< spotify type="album" id="0XOpyZAAkGomyeXBSQcFiL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="S8kMw5pxbkU" title="Yola - Faraway Look [Official Audio]" >}}
@@ -49,7 +54,7 @@ styles: ["Soul", "Country"]
 | Release Year   | 2019 |
 | Discogs Link   | [Yola - Walk Through Fire](https://www.discogs.com/release/13260578-Yola-Walk-Through-Fire) |
 | Label          | Easy Eye Sound |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EES-008 |
 
 Manufactured in the E.U.

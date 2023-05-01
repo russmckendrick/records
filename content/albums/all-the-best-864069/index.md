@@ -2,7 +2,7 @@
 title: "Stiff Little Fingers - All The Best"
 artist: "Stiff Little Fingers"
 album_name: "All The Best"
-date: 2017-03-23
+date: 2017-03-23T08:14:46.000000Z
 release_id: "864069"
 slug: "all-the-best-864069"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Suspect Device (2:29)
 2. Wasted Life (3:03)
@@ -44,8 +45,12 @@ styles: ["Punk", "Post-Punk"]
 28. Bits Of Kids (3:35)
 29. Touch And Go (3:20)
 30. The Price Of Admission (3:20)
+
+
 ## Spotify
 {{< spotify type="album" id="2F8UwYqcTH62Z7H45WD3VG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="on6DxBgfsDY" title="Suspect Device" >}}
@@ -56,7 +61,15 @@ styles: ["Punk", "Post-Punk"]
 | Release Year   | 1983 |
 | Discogs Link   | [Stiff Little Fingers - All The Best](https://www.discogs.com/release/864069-Stiff-Little-Fingers-All-The-Best) |
 | Label          | Chrysalis |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | CTY 1414 |
 
-Double album compilation of all their singles - 1978 to 1983, in chronological order.  Tracks A1, A2, A7, A8 state Rigid Digits as producer.  Tracks A1-A6 appear courtesy of [l266714].  Issued in a gatefold sleeve.  Inner bags printed by [l748262] (11/82).
+Double album compilation of all their singles - 1978 to 1983, in chronological order.
+
+Tracks A1, A2, A7, A8 state Rigid Digits as producer.
+
+Tracks A1-A6 appear courtesy of [l266714].
+
+Issued in a gatefold sleeve.
+
+Inner bags printed by [l748262] (11/82).

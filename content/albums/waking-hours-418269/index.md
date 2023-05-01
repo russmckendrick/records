@@ -2,7 +2,7 @@
 title: "Del Amitri - Waking Hours"
 artist: "Del Amitri"
 album_name: "Waking Hours"
-date: 2018-12-28
+date: 2018-12-28T17:39:26.000000Z
 release_id: "418269"
 slug: "waking-hours-418269"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Kiss This Thing Goodbye
 2. Opposite View
@@ -24,8 +25,12 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 8. Empty
 9. Hatful Of Rain
 10. Nothing Ever Happens
+
+
 ## Spotify
 {{< spotify type="album" id="1zkXIfTbqbhK0TYxhVl60V" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ify_f6XoqMU" title="Del Amitri - Kiss This Thing Goodbye" >}}
@@ -37,7 +42,10 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 | Release Year   | 1989 |
 | Discogs Link   | [Del Amitri - Waking Hours](https://www.discogs.com/release/418269-Del-Amitri-Waking-Hours) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | AMA 9006 |
 
-℗ 1989 A&M Records Ltd Reproduction prohibited © 1989 A&M Records Ltd, all rights reserved First pressing of album circa 1989. Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse).
+℗ 1989 A&M Records Ltd Reproduction prohibited
+© 1989 A&M Records Ltd, all rights reserved
+First pressing of album circa 1989.
+Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse).

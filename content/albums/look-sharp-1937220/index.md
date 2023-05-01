@@ -2,7 +2,7 @@
 title: "Roxette - Look Sharp!"
 artist: "Roxette"
 album_name: "Look Sharp!"
-date: 2016-02-29
+date: 2016-02-29T18:16:24.000000Z
 release_id: "1937220"
 slug: "look-sharp-1937220"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
+
 ## Tracklisting
 1. The Look (3:56)
 2. Dressed For Success (4:11)
@@ -26,8 +27,12 @@ styles: ["Power Pop"]
 10. View From A Hill (3:39)
 11. Shadow Of A Doubt (4:13)
 12. Listen To Your Heart (5:27)
+
+
 ## Spotify
 {{< spotify type="album" id="487Xg1a57O6pDfkyYcbuFx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dzrPH89rtWY" title="Roxette - The Look" >}}
@@ -53,7 +58,5 @@ styles: ["Power Pop"]
 | Release Year   | 1988 |
 | Discogs Link   | [Roxette - Look Sharp!](https://www.discogs.com/release/1937220-Roxette-Look-Sharp) |
 | Label          | EMI |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EMC 3557 |
-
-

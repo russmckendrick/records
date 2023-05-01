@@ -2,7 +2,7 @@
 title: "Delays - Faded Seaside Glamour"
 artist: "Delays"
 album_name: "Faded Seaside Glamour"
-date: 2023-03-20
+date: 2023-03-20T05:44:46.000000Z
 release_id: "25891525"
 slug: "faded-seaside-glamour-25891525"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 ---
+
 ## Tracklisting
 1. Wanderlust
 2. Nearer Than Heaven
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 10. Satellites Lost
 11. One Night Away
 12. On
+
+
 ## Spotify
 {{< spotify type="album" id="5PJzOx3aaOjoAlMkV1kVEG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7mDZPbOmnTc" title="Delays - On" >}}
@@ -50,8 +55,15 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Delays - Faded Seaside Glamour](https://www.discogs.com/release/25891525-Delays-Faded-Seaside-Glamour) |
-| Label          | Rough Trade, Rough Trade |
-| Format         | LP, Album, Dlx, Ltd, RE, Ora |
-| Catalog Number | RTRAD114LPX, RTRAD114LP |
+| Label          | Rough Trade |
+| Format         | Vinyl LP Album Deluxe Edition Limited Edition Reissue (Orange) |
+| Catalog Number | RTRAD114LPX |
 
-Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.  Catalogue number on slipcase is RTRAD114LPX Catalogue number on sleeve is RTRAD114LP ℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd. © 2022 Rough Trade Records Ltd.  Runouts are hand etched, 1I (looks like VI) is mirrored.
+Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.
+
+Catalogue number on slipcase is RTRAD114LPX
+Catalogue number on sleeve is RTRAD114LP
+℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd.
+© 2022 Rough Trade Records Ltd.
+
+Runouts are hand etched, 1I (looks like VI) is mirrored.

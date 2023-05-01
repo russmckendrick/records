@@ -2,7 +2,7 @@
 title: "Mansun - Attack Of The Grey Lantern"
 artist: "Mansun"
 album_name: "Attack Of The Grey Lantern"
-date: 2018-06-08
+date: 2018-06-08T17:58:36.000000Z
 release_id: "12103408"
 slug: "attack-of-the-grey-lantern-12103408"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. The Chad Who Loved Me (5:02)
 2. Mansun's Only Love Song (5:55)
@@ -25,8 +26,12 @@ styles: ["Psychedelic Rock", "Britpop"]
 9. Naked Twister (4:39)
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:36)
+
+
 ## Spotify
 {{< spotify type="album" id="7v04VQBNE3VmBxf7vbnpnL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}
@@ -43,7 +48,9 @@ styles: ["Psychedelic Rock", "Britpop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408-Mansun-Attack-Of-The-Grey-Lantern) |
 | Label          | Kscope |
-| Format         | 2xLP, Ltd, RE, RM, Pur |
+| Format         | Vinyl 2× LP Limited Edition Reissue Remastered (Purple) |
 | Catalog Number | KSCOPE992 |
 
-Gatefold sleeve.   Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops.
+Gatefold sleeve. 
+
+Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops.

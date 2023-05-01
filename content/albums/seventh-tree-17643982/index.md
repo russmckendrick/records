@@ -2,7 +2,7 @@
 title: "Goldfrapp - Seventh Tree"
 artist: "Goldfrapp"
 album_name: "Seventh Tree"
-date: 2021-04-01
+date: 2021-04-01T00:47:49.000000Z
 release_id: "17643982"
 slug: "seventh-tree-17643982"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Leftfield", "Downtempo", "Folk"]
 ---
+
 ## Tracklisting
 1. Clowns
 2. Little Bird
@@ -24,8 +25,12 @@ styles: ["Leftfield", "Downtempo", "Folk"]
 8. Cologne Cerrone Houdini
 9. Caravan Girl
 10. Monster Love
+
+
 ## Spotify
 {{< spotify type="album" id="4YGQn2C71NbOEgSQM9fxRt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="p7Ptai9I6eo" title="Goldfrapp - A&E (Official HD Video)" >}}
@@ -38,8 +43,15 @@ styles: ["Leftfield", "Downtempo", "Folk"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Goldfrapp - Seventh Tree](https://www.discogs.com/release/17643982-Goldfrapp-Seventh-Tree) |
-| Label          | Mute, BMG |
-| Format         | LP, Album, RE, S/Edition, Yel |
-| Catalog Number | YSTUMM280, 4050538626582 |
+| Label          | Mute |
+| Format         | Vinyl LP Album Reissue Special Edition (Yellow) |
+| Catalog Number | YSTUMM280 |
 
-Gatefold sleeve. With Exclusive Art Print. Printed card inner sleeve. Copies purchased from Mute Bank webstore include A1-sized fold-out poster.  ℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.  Made in The Netherlands
+Gatefold sleeve.
+With Exclusive Art Print.
+Printed card inner sleeve.
+Copies purchased from Mute Bank webstore include A1-sized fold-out poster.
+
+℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.
+
+Made in The Netherlands

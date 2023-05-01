@@ -2,7 +2,7 @@
 title: "Big Star - #1 Record"
 artist: "Big Star"
 album_name: "#1 Record"
-date: 2020-03-07
+date: 2020-03-07T10:42:00.000000Z
 release_id: "14696642"
 slug: "1-record-14696642"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
+
 ## Tracklisting
 1. Feel (3:34)
 2. The Ballad Of El Goodo (4:21)
@@ -26,26 +27,35 @@ styles: ["Power Pop"]
 10. Try Again (3:31)
 11. Watch The Sunrise (3:45)
 12. ST 100/6 (1:01)
+
+
 ## Spotify
 {{< spotify type="album" id="1BumwwIEw1EC3xAHyf1ive" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="2tkWKYnJhC8" title="Big Star#1Record-The Ballad Of El Goodo" >}}
-- [Big Star - Feel](https://www.youtube.com/watch?v=KHoJK7F-KSM)
-- [Big Star - Thirteen 1972](https://www.youtube.com/watch?v=pte3Jg-2Ax4)
-- [Big Star In the Street](https://www.youtube.com/watch?v=cT8ihOjOf1g)
-- [Big Star, #1 Record, Side 1, Part 1](https://www.youtube.com/watch?v=XxH8RLN56aw)
-- [Big Star, #1 Record, Side 1, Part 2](https://www.youtube.com/watch?v=YHW8WDRB144)
-- [Big Star, #1 Record, Side 2, Part 1](https://www.youtube.com/watch?v=fxxJr9Z3mz8)
-- [Big Star, #1 Record, Side 2, Part 2](https://www.youtube.com/watch?v=hcrJGnkimM4)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Big Star - #1 Record](https://www.discogs.com/release/14696642-Big-Star-1-Record) |
-| Label          | Ardent Records, Craft Recordings |
-| Format         | LP, Album, RE, 180 |
+| Label          | Ardent Records (2) |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | CR00211 |
 
-Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched.
+Red, black, and white hype sticker from Craft Recordings
+All-analog mastering
+Comes with a plain white poly-lined inner
+
+℗ 2019 & © 1972 Craft Recordings Made in USA.
+
+Published By:
+A1 to A5, B1, B3 to B6 -- East/Memphis BMI
+A6, B2 -- Koala-Birdess ASCAP
+
+Runout details:
+Variant 1 -- Stamped vs etched state not specified
+Variant 2 -- Stamped vs etched state not specified
+Variant 3 -- Stamped vs etched state not specified
+Variant 4 -- Stamped vs etched state not specified
+Variant 5 -- Both sides are etched.

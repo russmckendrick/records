@@ -2,7 +2,7 @@
 title: "Public Image Limited - The Greatest Hits, So Far"
 artist: "Public Image Limited"
 album_name: "The Greatest Hits, So Far"
-date: 2016-04-25
+date: 2016-04-25T21:06:35.000000Z
 release_id: "5905459"
 slug: "the-greatest-hits-so-far-5905459"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Public Image
 2. Death Disco
@@ -28,6 +29,9 @@ styles: ["New Wave", "Synth-pop"]
 12. Disappointed
 13. Warrior
 14. Don't Ask Me
+
+
+
 
 ## Videos
 {{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}
@@ -56,7 +60,7 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2014 |
 | Discogs Link   | [Public Image Limited - The Greatest Hits, So Far](https://www.discogs.com/release/5905459-Public-Image-Ltd-The-Greatest-Hits-So-Far) |
 | Label          | Virgin |
-| Format         | 2xLP, Comp, RE, 180 |
+| Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Catalog Number | 535109-2 |
 
 Includes a voucher to download MP3 version of the album.

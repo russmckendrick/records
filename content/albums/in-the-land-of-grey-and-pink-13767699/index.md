@@ -2,7 +2,7 @@
 title: "Caravan - In The Land Of Grey And Pink"
 artist: "Caravan"
 album_name: "In The Land Of Grey And Pink"
-date: 2019-06-16
+date: 2019-06-16T21:51:59.000000Z
 release_id: "13767699"
 slug: "in-the-land-of-grey-and-pink-13767699"
 hideSummary: true
@@ -13,14 +13,19 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Jazz-Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Golf Girl
 2. Winter Wine
 3. Love To Love You (And Tonight Pigs Will Fly)
 4. In The Land Of Grey And Pink
 5. Nine Feet Underground
+
+
 ## Spotify
 {{< spotify type="album" id="6TWjon4uYsV2wu7QJTuKjd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hbPfPCz3GRA" title="Golf Girl" >}}
@@ -34,8 +39,10 @@ styles: ["Jazz-Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/13767699-Caravan-In-The-Land-Of-Grey-And-Pink) |
-| Label          | Deram, Deram |
-| Format         | LP, Album, Ltd, RE, Gat |
-| Catalog Number | 7763089, 00602577630897 |
+| Label          | Deram |
+| Format         | Vinyl LP Album Limited Edition Reissue (Gatefold, Transparent) |
+| Catalog Number | 7763089 |
 
-HMV limited edition of 750 copies on transparent vinyl.  English liner notes uncredited.
+HMV limited edition of 750 copies on transparent vinyl.
+
+English liner notes uncredited.

@@ -2,7 +2,7 @@
 title: "Belinda Carlisle - Belinda"
 artist: "Belinda Carlisle"
 album_name: "Belinda"
-date: 2022-01-09
+date: 2022-01-09T03:56:30.000000Z
 release_id: "18914803"
 slug: "belinda-18914803"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Mad About You
 2. I Need A Disguise
@@ -36,8 +37,12 @@ styles: ["Pop Rock"]
 20. Mad About You
 21. Since You're Gone
 22. Head Over Heels
+
+
 ## Spotify
 {{< spotify type="album" id="6LEZyia6Ny2PUdMD2FWhF3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XmdtJWmR9zQ" title="Belinda Carlisle - Mad About You (Official Video)" >}}
@@ -59,8 +64,29 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Belinda Carlisle - Belinda](https://www.discogs.com/release/18914803-Belinda-Carlisle-Belinda) |
-| Label          | Demon Records, Demon Records |
-| Format         | Dlx, Ltd, 35t + LP, Album, Pin + LP, Pin |
-| Catalog Number | DEMREC900X, DEMREC900 |
+| Label          | Demon Records |
+| Format         | All Media Deluxe Edition Limited Edition (35th Anniversary Edition), Vinyl LP Album Stereo (Pink, 180 Gram), Vinyl LP Stereo (Pink, 180 Gram) |
+| Catalog Number | DEMREC900X |
 
-Sticker on shrinkwrap states:  "Belinda DELUXE 2LP 35TH ANNIVERSARY EDITION From 1986, Belinda's debut solo album Features the hit singles "Mad About You" and "I Feel The Magic" Bonus LP includes mixes of  "Band Of Gold recorded with Freda Payne plus five live recordings Includes the lyrics and annotation Pressed on 180 gram pink vinyl First time on vinyl since 1986 DEMREC900X"    ℗ & © 2021 Capitol Records LLC Manufactured in the EU  
+Sticker on shrinkwrap states:
+
+"Belinda
+DELUXE 2LP 35TH ANNIVERSARY EDITION
+From 1986, Belinda's debut solo album
+Features the hit singles
+"Mad About You" and "I Feel The Magic"
+Bonus LP includes mixes of 
+"Band Of Gold
+recorded with Freda Payne
+plus five live recordings
+Includes the lyrics and annotation
+Pressed on 180 gram pink vinyl
+First time on vinyl since 1986
+DEMREC900X"
+
+
+
+℗ & © 2021 Capitol Records LLC
+Manufactured in the EU
+
+

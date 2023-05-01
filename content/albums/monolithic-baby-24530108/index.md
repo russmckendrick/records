@@ -2,7 +2,7 @@
 title: "Monster Magnet - Monolithic Baby!"
 artist: "Monster Magnet"
 album_name: "Monolithic Baby!"
-date: 2022-10-01
+date: 2022-10-01T04:05:35.000000Z
 release_id: "24530108"
 slug: "monolithic-baby-24530108"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
+
 ## Tracklisting
 1. Slut Machine
 2. Supercruel
@@ -26,8 +27,12 @@ styles: ["Stoner Rock"]
 10. Too Bad
 11. Ultimate Everything
 12. CNN War Theme
+
+
 ## Spotify
 {{< spotify type="album" id="5kqOX4CZI3cx6UooSlav4E" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BrztzfOW7z4" title="Monster Magnet ‎– Slut Machine" >}}
@@ -53,7 +58,18 @@ styles: ["Stoner Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Monster Magnet - Monolithic Baby!](https://www.discogs.com/release/24530108-Monster-Magnet-Monolithic-Baby) |
 | Label          | Napalm Records |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Catalog Number | NPR1066VINYL |
 
-Black vinyl edition.  Tracks C1, D3 mixed at Paramount Studios, CA.  Tim Cronin, eye of agamotto and the sum of all fears.  Magnet welcomes aboard Bob Pantella on drums.  Dedicated to the memory of Gerald F Wyndorf 1918-2003 "Love you Pop! See you on the other side!'  (45 RPM not mentioned anywhere on the cover/inlay/record.)
+Black vinyl edition.
+
+Tracks C1, D3 mixed at Paramount Studios, CA.
+
+Tim Cronin, eye of agamotto and the sum of all fears.
+
+Magnet welcomes aboard Bob Pantella on drums.
+
+Dedicated to the memory of Gerald F Wyndorf 1918-2003
+"Love you Pop! See you on the other side!'
+
+(45 RPM not mentioned anywhere on the cover/inlay/record.)

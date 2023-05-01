@@ -2,7 +2,7 @@
 title: "Beth Orton - Weather Alive"
 artist: "Beth Orton"
 album_name: "Weather Alive"
-date: 2022-09-27
+date: 2022-09-27T11:04:40.000000Z
 release_id: "24606215"
 slug: "weather-alive-24606215"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ethereal"]
 ---
+
 ## Tracklisting
 1. Weather Alive
 2. Friday Night
@@ -22,8 +23,12 @@ styles: ["Ethereal"]
 6. Lonely
 7. Arms Around A Memory
 8. Unwritten
+
+
 ## Spotify
 {{< spotify type="album" id="4LukTKZB3A6mp2jaed8x64" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JkSBgl8278E" title="Beth Orton - Weather Alive (Official Music Video)" >}}
@@ -38,8 +43,11 @@ styles: ["Ethereal"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Beth Orton - Weather Alive](https://www.discogs.com/release/24606215-Beth-Orton-Weather-Alive) |
-| Label          | Partisan Records, Knitting Factory Records |
-| Format         | LP, Album, Ltd, Tra |
+| Label          | Partisan Records |
+| Format         | Vinyl LP Album Limited Edition (Transparent [Clear]) |
 | Catalog Number | PTKF3023-3 |
 
-hype sticker with Catalog No. PTKF3023-3 Inner sleeve printed with Lyrics Made in Germany a limited number of copies were available with a signed print
+hype sticker with Catalog No. PTKF3023-3
+Inner sleeve printed with Lyrics
+Made in Germany
+a limited number of copies were available with a signed print

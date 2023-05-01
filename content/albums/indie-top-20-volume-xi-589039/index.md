@@ -2,7 +2,7 @@
 title: "Various - Indie Top 20 Volume XI"
 artist: "Various"
 album_name: "Indie Top 20 Volume XI"
-date: 2017-04-14
+date: 2017-04-14T14:01:00.000000Z
 release_id: "589039"
 slug: "indie-top-20-volume-xi-589039"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", "Shoegaze", "EBM", "Industrial"]
 ---
+
 ## Tracklisting
 1. Anytime Anyplace Anywhere (4:10)
 2. Pray (3:56)
@@ -35,6 +36,9 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 19. Birdbrain (3:12)
 20. Dig For Fire (2:47)
 
+
+
+
 ## Videos
 {{< youtube id="NZ_LDyvoxUY" title="The Shamen - Oxygen Restriction (Indie Top 20 Volume XI) 1991" >}}
 - [The Shamen - Oxygen Restriction](https://www.youtube.com/watch?v=JxUuFgsFaMc)
@@ -45,7 +49,7 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 | Release Year   | 1991 |
 | Discogs Link   | [Various - Indie Top 20 Volume XI](https://www.discogs.com/release/589039-Various-Indie-Top-20-Volume-XI) |
 | Label          | Beechwood Music |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | TT011 |
 
 C5 is listed as "Oxygen Restriction" but it is actually "Oxygen Reprise V2.0".

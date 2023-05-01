@@ -2,7 +2,7 @@
 title: "Split Enz - Second Thoughts"
 artist: "Split Enz"
 album_name: "Second Thoughts"
-date: 2016-12-08
+date: 2016-12-08T22:48:19.000000Z
 release_id: "5001615"
 slug: "second-thoughts-5001615"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Late Last Night (3:59)
 2. Walking Down A Road (5:15)
@@ -23,6 +24,9 @@ styles: ["Pop Rock", "Prog Rock"]
 7. Time For A Change (4:02)
 8. Matinee Idyll (129) (2:55)
 9. The Woman Who Loves You (6:45)
+
+
+
 
 ## Videos
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}
@@ -39,8 +43,10 @@ styles: ["Pop Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 1976 |
 | Discogs Link   | [Split Enz - Second Thoughts](https://www.discogs.com/release/5001615-Split-Enz-Second-Thoughts) |
-| Label          | Mushroom, Mushroom |
-| Format         | LP, Album |
-| Catalog Number | L 35981, L-35,981 |
+| Label          | Mushroom |
+| Format         | Vinyl LP Album |
+| Catalog Number | L 35981 |
 
-Labels: Made in Australia by Festival Records Pty Ltd.  Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia
+Labels: Made in Australia by Festival Records Pty Ltd.
+
+Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia

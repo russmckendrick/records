@@ -2,7 +2,7 @@
 title: "Prince - 1999"
 artist: "Prince"
 album_name: "1999"
-date: 2016-07-01
+date: 2016-07-01T16:52:02.000000Z
 release_id: "4913531"
 slug: "1999-4913531"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
+
 ## Tracklisting
 1. 1999 (6:22)
 2. Little Red Corvette (4:58)
@@ -25,8 +26,12 @@ styles: ["Minneapolis Sound", "Funk"]
 9. Lady Cab Driver (8:25)
 10. All The Critics Love U In New York (5:55)
 11. International Lover (6:35)
+
+
 ## Spotify
 {{< spotify type="album" id="34MHuXONazzgSxI0cThpAg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rblt2EtFfC4" title="Prince - 1999 (Official Music Video)" >}}
@@ -47,7 +52,16 @@ styles: ["Minneapolis Sound", "Funk"]
 | Release Year   | 2011 |
 | Discogs Link   | [Prince - 1999](https://www.discogs.com/release/4913531-Prince-1999) |
 | Label          | Warner Bros. Records |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180g) |
 | Catalog Number | 8122-79777-5 |
 
-Cover: Mastered [...] at A&M Records Manufactured in the E.U.  Labels: Made in the E.U.  Similar editions: 1999 (Manufactured in the E.U.) [this release] [r=3139530] (Printed in U.S.A.)
+Cover:
+Mastered [...] at A&M Records
+Manufactured in the E.U.
+
+Labels:
+Made in the E.U.
+
+Similar editions:
+1999 (Manufactured in the E.U.) [this release]
+[r=3139530] (Printed in U.S.A.)

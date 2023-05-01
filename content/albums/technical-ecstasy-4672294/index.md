@@ -2,7 +2,7 @@
 title: "Black Sabbath - Technical Ecstasy"
 artist: "Black Sabbath"
 album_name: "Technical Ecstasy"
-date: 2017-05-27
+date: 2017-05-27T15:34:42.000000Z
 release_id: "4672294"
 slug: "technical-ecstasy-4672294"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Back Street Kids (3:46)
 2. You Won't Change Me (6:34)
@@ -22,8 +23,12 @@ styles: ["Heavy Metal", "Hard Rock"]
 6. Rock 'N' Roll Doctor (3:25)
 7. It's Alright (3:58)
 8. Dirty Women (7:15)
+
+
 ## Spotify
 {{< spotify type="album" id="7dpMnSxwpr2DSLrdywIYot" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fIbSaZEQHhE" title="Back Street Kids (2021 - Remaster)" >}}
@@ -41,7 +46,9 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Release Year   | 1976 |
 | Discogs Link   | [Black Sabbath - Technical Ecstasy](https://www.discogs.com/release/4672294-Black-Sabbath-Technical-Ecstasy) |
 | Label          | Vertigo |
-| Format         | Cass, Album |
+| Format         | Cassette Album |
 | Catalog Number | 7231 400 |
 
-Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada  "It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct.
+Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada
+
+"It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct.

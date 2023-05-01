@@ -2,7 +2,7 @@
 title: "Guns N' Roses - Use Your Illusion I"
 artist: "Guns N' Roses"
 album_name: "Use Your Illusion I"
-date: 2016-06-21
+date: 2016-06-21T16:39:10.000000Z
 release_id: "1544883"
 slug: "use-your-illusion-i-1544883"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Right Next Door To Hell (2:58)
 2. Dust N' Bones (4:55)
@@ -30,8 +31,12 @@ styles: ["Hard Rock"]
 14. Bad Apples (4:25)
 15. Dead Horse (4:17)
 16. Coma (10:08)
+
+
 ## Spotify
 {{< spotify type="album" id="0CxPbTRARqKUYighiEY9Sz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4Ev_vhKfeLs" title="Use Your Illusion I - Guns N' Roses (Full Album)" >}}
@@ -42,8 +47,9 @@ styles: ["Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2008 |
 | Discogs Link   | [Guns N' Roses - Use Your Illusion I](https://www.discogs.com/release/1544883-Guns-N-Roses-Use-Your-Illusion-I) |
-| Label          | Geffen Records, Uzi Suicide Records |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Label          | Geffen Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Catalog Number | 0720642441510 |
 
-Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered 
+Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered
+

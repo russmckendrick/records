@@ -2,7 +2,7 @@
 title: "The Utopia Strong - International Treasure"
 artist: "The Utopia Strong"
 album_name: "International Treasure"
-date: 2022-08-01
+date: 2022-08-01T06:03:04.000000Z
 release_id: "24010643"
 slug: "international-treasure-24010643"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Trident Of Fire (3:07)
 2. Persephone Sleeps (3:32)
@@ -23,6 +24,9 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 7. Revelations (6:00)
 8. International Treasure (7:32)
 9. Castalia (5:01)
+
+
+
 
 ## Videos
 {{< youtube id="xvIHA2Zek3U" title="Trident of Fire" >}}
@@ -36,7 +40,7 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Utopia Strong - International Treasure](https://www.discogs.com/release/24010643-The-Utopia-Strong-International-Treasure) |
 | Label          | Rocket Recordings |
-| Format         | LP, Album, Ltd, Yel |
+| Format         | Vinyl LP Album Limited Edition (Yellow Citrine) |
 | Catalog Number | LAUNCH265S |
 
 Indies Only Citrine Yellow Vinyl limited to 700 copies

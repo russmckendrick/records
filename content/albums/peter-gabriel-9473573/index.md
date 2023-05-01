@@ -2,7 +2,7 @@
 title: "Peter Gabriel - Peter Gabriel "
 artist: "Peter Gabriel"
 album_name: "Peter Gabriel "
-date: 2016-12-08
+date: 2016-12-08T18:43:30.000000Z
 release_id: "9473573"
 slug: "peter-gabriel-9473573"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Rhythm Of The Heat
 2. San Jacinto
@@ -22,8 +23,12 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 6. Lay Your Hands On Me
 7. Wallflower
 8. Kiss Of Life
+
+
 ## Spotify
 {{< spotify type="album" id="4jd6oC0It60c1J3GpXCv6M" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="49mdn20QsbM" title="Peter Gabriel - Spiel Ohne Grenzen" >}}
@@ -47,8 +52,13 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Peter Gabriel - Peter Gabriel ](https://www.discogs.com/release/9473573-Peter-Gabriel-Peter-Gabriel-) |
-| Label          | Real World Records, Caroline International, Charisma, Real World Records, Caroline International, Charisma |
-| Format         | LP, Album, RE, RM, 180 |
-| Catalog Number | PGLPR4, 884108004180 |
+| Label          | Real World Records |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 grams) |
+| Catalog Number | PGLPR4 |
 
-℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.  Half-Speed Remaster + Hi-Res Download Code.  Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped.
+℗ 2016 Peter Gabriel Ltd.
+© 2016 Peter Gabriel Ltd.
+
+Half-Speed Remaster + Hi-Res Download Code.
+
+Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped.

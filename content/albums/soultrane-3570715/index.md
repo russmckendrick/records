@@ -2,7 +2,7 @@
 title: "John Coltrane - Soultrane"
 artist: "John Coltrane"
 album_name: "Soultrane"
-date: 2017-01-05
+date: 2017-01-05T19:22:59.000000Z
 release_id: "3570715"
 slug: "soultrane-3570715"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Soultrane by John Coltrane"
     caption: "Soultrane by John Coltrane"
 genres: ["Jazz"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Good Bait (12:03)
 2. I Want To Talk About You (10:51)
@@ -20,8 +21,12 @@ styles: null
 4. Theme For Ernie (4:54)
 5. Russian Lullaby (5:33)
 6. Soft Lights And Sweet Music (4:44)
+
+
 ## Spotify
 {{< spotify type="album" id="7pU5qUNqbOMToIyqzF0Nmg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8RfThojoh40" title="Russian Lullaby (Rudy Van Gelder Remaster)" >}}
@@ -35,8 +40,14 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [John Coltrane - Soultrane](https://www.discogs.com/release/3570715-John-Coltrane-Soultrane) |
-| Label          | Jazz Wax Records, Jazz Wax Records |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | JWR 4536, JWR4536 |
+| Label          | Jazz Wax Records |
+| Format         | Vinyl LP Album Reissue (180g) |
+| Catalog Number | JWR 4536 |
 
-Includes bonus track (B4) Direct Metal Mastering. Panoramic Hifi Recording.  Runouts are stamped Cat# is JWR4536 on labels and JWR 4536 on spine  Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location)
+Includes bonus track (B4)
+Direct Metal Mastering. Panoramic Hifi Recording.
+
+Runouts are stamped
+Cat# is JWR4536 on labels and JWR 4536 on spine
+
+Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location)

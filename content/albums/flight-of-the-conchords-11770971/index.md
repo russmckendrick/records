@@ -2,7 +2,7 @@
 title: "Flight Of The Conchords - Flight Of The Conchords"
 artist: "Flight Of The Conchords"
 album_name: "Flight Of The Conchords"
-date: 2018-03-31
+date: 2018-03-31T10:51:31.000000Z
 release_id: "11770971"
 slug: "flight-of-the-conchords-11770971"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. Foux Du Fafa (2:46)
 2. Inner City Pressure (3:27)
@@ -29,8 +30,12 @@ styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 13. Business Time (4:05)
 14. Bowie (3:15)
 15. Au Revoir (0:21)
+
+
 ## Spotify
 {{< spotify type="album" id="0YFBrqatMlyDCqqYhhoizO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="X5hrUGFhsXo" title="Flight of the Conchords Ep 8 'Foux Da Fa Fa'" >}}
@@ -47,7 +52,18 @@ styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 | Release Year   | 2018 |
 | Discogs Link   | [Flight Of The Conchords - Flight Of The Conchords](https://www.discogs.com/release/11770971-Flight-Of-The-Conchords-Flight-Of-The-Conchords) |
 | Label          | Sub Pop |
-| Format         | LP, Album, RE, Yel |
+| Format         | Vinyl LP Album Reissue (Yellow) |
 | Catalog Number | SP 715 |
 
-Credits Art Direction – Dusty Summers, Jeff Kleinsmith Design – Jeff Kleinsmith Drum Programming [Beat Programming] – Mickey Petralia Engineer – Matt Shane (2), Mickey Petralia Illustration – Tyler Stout Management [Music] – Martinovich & Sampson Mastered By – Greg Calbi, Ray Janos Mixed By – Mickey Petralia Performer – Bret McKenzie, Jemaine Clement Producer – Flight Of The Conchords, Mickey Petralia Written-By – Bret McKenzie, Jemaine Clement
+Credits
+Art Direction – Dusty Summers, Jeff Kleinsmith
+Design – Jeff Kleinsmith
+Drum Programming [Beat Programming] – Mickey Petralia
+Engineer – Matt Shane (2), Mickey Petralia
+Illustration – Tyler Stout
+Management [Music] – Martinovich & Sampson
+Mastered By – Greg Calbi, Ray Janos
+Mixed By – Mickey Petralia
+Performer – Bret McKenzie, Jemaine Clement
+Producer – Flight Of The Conchords, Mickey Petralia
+Written-By – Bret McKenzie, Jemaine Clement

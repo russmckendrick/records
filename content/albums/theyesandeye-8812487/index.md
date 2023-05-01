@@ -2,7 +2,7 @@
 title: "Louise Rhodes - Theyesandeye"
 artist: "Louise Rhodes"
 album_name: "Theyesandeye"
-date: 2016-07-25
+date: 2016-07-25T18:37:38.000000Z
 release_id: "8812487"
 slug: "theyesandeye-8812487"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
+
 ## Tracklisting
 1. All The Birds
 2. All I Need
@@ -25,6 +26,9 @@ styles: ["Folk"]
 9. Full Moon
 10. Never Forget
 11. Magic Ride
+
+
+
 
 ## Videos
 {{< youtube id="SKMX6PlDXC4" title="Angels" >}}
@@ -43,7 +47,5 @@ styles: ["Folk"]
 | Release Year   | 2016 |
 | Discogs Link   | [Louise Rhodes - Theyesandeye](https://www.discogs.com/release/8812487-Lou-Rhodes-Theyesandeye) |
 | Label          | Nude Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | NUDE 23 LP |
-
-

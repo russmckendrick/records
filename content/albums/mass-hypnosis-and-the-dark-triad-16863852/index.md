@@ -2,7 +2,7 @@
 title: "Bill Fisher - Mass Hypnosis And The Dark Triad"
 artist: "Bill Fisher"
 album_name: "Mass Hypnosis And The Dark Triad"
-date: 2021-07-27
+date: 2021-07-27T03:06:16.000000Z
 release_id: "16863852"
 slug: "mass-hypnosis-and-the-dark-triad-16863852"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Avantgarde", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. All Through The Night (3:21)
 2. Mirror Of Tomorrow (2:46)
@@ -22,8 +23,12 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 6. Days Of Old (3:04)
 7. Message From The Sky (2:37)
 8. Mass Hypnosis (4:21)
+
+
 ## Spotify
 {{< spotify type="album" id="6f6lWss0TZzzs16MTo5vHG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador (Official Music Video)" >}}
@@ -41,7 +46,11 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Bill Fisher - Mass Hypnosis And The Dark Triad](https://www.discogs.com/release/16863852-Bill-Fisher-Mass-Hypnosis-And-The-Dark-Triad) |
 | Label          | Septaphonic Records |
-| Format         | LP, Album, Ltd, Num, Inf |
+| Format         | Vinyl LP Album Limited Edition Numbered (Infinite Void Edition) |
 | Catalog Number | Septaphonic 4 |
 
-Super-Deluxe Blue & White Marble Effect Heavyweight 180g 12″ Vinyl Ultra Matte Reverse Board Textured Gatefold Sleeve Handnumbered Limited Edition Holographic Sticker Second Pressing
+Super-Deluxe Blue & White Marble Effect
+Heavyweight 180g 12″ Vinyl
+Ultra Matte Reverse Board Textured Gatefold Sleeve
+Handnumbered Limited Edition Holographic Sticker
+Second Pressing

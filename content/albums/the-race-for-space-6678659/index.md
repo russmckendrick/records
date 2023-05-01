@@ -2,7 +2,7 @@
 title: "Public Service Broadcasting - The Race For Space"
 artist: "Public Service Broadcasting"
 album_name: "The Race For Space"
-date: 2015-08-09
+date: 2015-08-09T08:48:10.000000Z
 release_id: "6678659"
 slug: "the-race-for-space-6678659"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Ambient"]
 ---
+
 ## Tracklisting
 1. The Race For Space
 2. Sputnik
@@ -23,8 +24,12 @@ styles: ["Ambient"]
 7. Valentina
 8. Go!
 9. Tomorrow
+
+
 ## Spotify
 {{< spotify type="album" id="65KwtzkJXw7oT819NFWmEP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Bnmq4WR83Mw" title="PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]" >}}
@@ -38,7 +43,10 @@ styles: ["Ambient"]
 | Release Year   | 2015 |
 | Discogs Link   | [Public Service Broadcasting - The Race For Space](https://www.discogs.com/release/6678659-Public-Service-Broadcasting-The-Race-For-Space) |
 | Label          | Test Card Recordings |
-| Format         | LP, Album, Ltd, Cle |
+| Format         | Vinyl LP Album Limited Edition (Clear) |
 | Catalog Number | TCRVA02X |
 
-Special edition clear vinyl featuring American and Russian reversible gatefold, printed inner-sleeve and full-sized, 8 page booklet. Download card included. Outer shrink-wrap stickered with track names. Band name and album title only printed onto sleeve.  'This record has been mastered quieter than most modern albums to preserve its dynamics. PSB do not like the loudness wars. Listening to it may therefore require judicious use of the volume knob. Thanks!'
+Special edition clear vinyl featuring American and Russian reversible gatefold, printed inner-sleeve and full-sized, 8 page booklet.
+Download card included. Outer shrink-wrap stickered with track names. Band name and album title only printed onto sleeve.
+
+'This record has been mastered quieter than most modern albums to preserve its dynamics. PSB do not like the loudness wars. Listening to it may therefore require judicious use of the volume knob. Thanks!'

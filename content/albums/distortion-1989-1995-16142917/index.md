@@ -2,7 +2,7 @@
 title: "Bob Mould - Distortion: 1989 - 1995"
 artist: "Bob Mould"
 album_name: "Distortion: 1989 - 1995"
-date: 2020-11-05
+date: 2020-11-05T18:48:49.000000Z
 release_id: "16142917"
 slug: "distortion-1989-1995-16142917"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Distortion: 1989 - 1995 by Bob Mould"
     caption: "Distortion: 1989 - 1995 by Bob Mould"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Workbook
 2. Sunspots
@@ -96,13 +97,17 @@ styles: null
 80. Turning Of The Tide
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Bob Mould - Distortion: 1989 - 1995](https://www.discogs.com/release/16142917-Bob-Mould-Distortion-1989-1995) |
-| Label          | Demon Records, Granary Music |
-| Format         | Box, Ltd + LP, Album, RE, Cle + LP, Album, RE, Cle |
-| Catalog Number | DEMRECBOX48X, DEMRECBOX48 |
+| Label          | Demon Records |
+| Format         | Box Set Limited Edition, Vinyl LP Album Reissue (Clear With Yellow & Brown Splatter, 140g), Vinyl LP Album Reissue (Clear With Orange & Grey Splatter, 140g), Vinyl LP Album Reissue (Clear With Yellow & Blue Splatter, 140g), Vinyl LP Album Reissue (Clear With Red & Green Splatter, 140g), Vinyl LP Album Reissue (Clear With Blue & White Splatter, 140g), Vinyl 2× LP Compilation Reissue (Clear With Red & Purple Splatter, 140g), Vinyl LP Compilation (Clear, 140g) |
+| Catalog Number | DEMRECBOX48X |
 
-℗ and © 2020 Demon Music Group.  Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced.
+℗ and © 2020 Demon Music Group.
+
+Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced.

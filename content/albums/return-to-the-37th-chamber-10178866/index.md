@@ -2,7 +2,7 @@
 title: "El Michels Affair - Return To The 37th Chamber"
 artist: "El Michels Affair"
 album_name: "Return To The 37th Chamber"
-date: 2017-05-20
+date: 2017-05-20T15:15:29.000000Z
 release_id: "10178866"
 slug: "return-to-the-37th-chamber-10178866"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
+
 ## Tracklisting
 1. 4th Chamber
 2. Iron Man
@@ -27,8 +28,12 @@ styles: ["Funk", "Soul"]
 11. Wu-Tang Clan Aint Nuthing Ta F' Wit
 12. All I Need
 13. The End (Eat My Vocals)
+
+
 ## Spotify
 {{< spotify type="album" id="70OhGmsHTYRhPNmDmMMcwT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber (Full Album Stream)" >}}
@@ -45,7 +50,8 @@ styles: ["Funk", "Soul"]
 | Release Year   | 2017 |
 | Discogs Link   | [El Michels Affair - Return To The 37th Chamber](https://www.discogs.com/release/10178866-El-Michels-Affair-Return-To-The-37th-Chamber) |
 | Label          | Big Crown Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | BC017-LP B |
 
-2nd of 4 different covers of this release.  Included a digital download code of the album.
+2nd of 4 different covers of this release. 
+Included a digital download code of the album.

@@ -2,7 +2,7 @@
 title: "Durand Jones & The Indications - Private Space"
 artist: "Durand Jones & The Indications"
 album_name: "Private Space"
-date: 2021-07-30
+date: 2021-07-30T02:35:51.000000Z
 release_id: "19635559"
 slug: "private-space-19635559"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Love Will Work It Out
 2. Witchoo
@@ -24,8 +25,12 @@ styles: ["Soul"]
 8. Sexy Thang
 9. Sea Of Love
 10. I Can See
+
+
 ## Spotify
 {{< spotify type="album" id="3nZHH9trTO9xrV1XrW18cW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}
@@ -43,8 +48,10 @@ styles: ["Soul"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Durand Jones & The Indications - Private Space](https://www.discogs.com/release/19635559-Durand-Jones-The-Indications-Private-Space) |
-| Label          | Dead Oceans, Dead Oceans, Colemine Records |
-| Format         | LP, Album, Ltd, Red |
-| Catalog Number | DOC227LP-C1, DOC227 |
+| Label          | Dead Oceans |
+| Format         | Vinyl LP Album Limited Edition (Red Nebula) |
+| Catalog Number | DOC227LP-C1 |
 
-Hype sticker : "Limited Edition Red Nebula Vinyl Includes digital download"
+Hype sticker :
+"Limited Edition Red Nebula Vinyl
+Includes digital download"

@@ -1,18 +1,19 @@
 ---
-title: "Clint Mansell Featuring Kronos Quartet - Requiem For A Dream"
-artist: "Clint Mansell Featuring Kronos Quartet"
+title: "Clint Mansell - Requiem For A Dream"
+artist: "Clint Mansell"
 album_name: "Requiem For A Dream"
-date: 2016-07-25
+date: 2016-07-25T16:20:45.000000Z
 release_id: "8384112"
 slug: "requiem-for-a-dream-8384112"
 hideSummary: true
 cover:
     image: "requiem-for-a-dream-8384112.jpg"
-    alt: "Requiem For A Dream by Clint Mansell Featuring Kronos Quartet"
-    caption: "Requiem For A Dream by Clint Mansell Featuring Kronos Quartet"
+    alt: "Requiem For A Dream by Clint Mansell"
+    caption: "Requiem For A Dream by Clint Mansell"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ---
+
 ## Tracklisting
 1. Summer
 2. Summer Overture (2:36)
@@ -54,6 +55,12 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 38. Purple In The Morning, Blue In The Afternoon, Orange In The Evening, Green At Night (13:16)
 39. 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE (6:55)
 
+
+## Spotify
+{{< spotify type="album" id="7Jkv05qDgXZynnNaYcxY5W" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="B9S1nojrxCg" title="R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)" >}}
 
@@ -61,9 +68,19 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Clint Mansell Featuring Kronos Quartet - Requiem For A Dream](https://www.discogs.com/release/8384112-Clint-Mansell-Featuring-Kronos-Quartet-Requiem-For-A-Dream) |
+| Discogs Link   | [Clint Mansell - Requiem For A Dream](https://www.discogs.com/release/8384112-Clint-Mansell-Featuring-Kronos-Quartet-Requiem-For-A-Dream) |
 | Label          | Nonesuch |
-| Format         | 2xLP, Album, RSD, Ltd, RE, RM |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered |
 | Catalog Number | 553787-1 |
 
-Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000). Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.  Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.  Originally mastered at SoundByte Productions, Inc., New York City.  Limited edition of 5000 copies. Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).  Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store.
+Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000).
+Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.
+
+Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.
+
+Originally mastered at SoundByte Productions, Inc., New York City.
+
+Limited edition of 5000 copies.
+Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).
+
+Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store.

@@ -2,7 +2,7 @@
 title: "Steven Wilson - 12 Things I Forgot"
 artist: "Steven Wilson"
 album_name: "12 Things I Forgot"
-date: 2021-06-17
+date: 2021-06-17T04:15:12.000000Z
 release_id: "16279675"
 slug: "12-things-i-forgot-16279675"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. 12 Things I Forgot (4:43)
 2. Move Like A Fever (6:15)
 3. King Ghost (Tangerine Dream Remix) (9:22)
+
+
+
 
 ## Videos
 {{< youtube id="7wZrYAgf8d8" title="Steven Wilson - 12 THINGS I FORGOT (Official Audio)" >}}
@@ -28,8 +32,8 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Steven Wilson - 12 Things I Forgot](https://www.discogs.com/release/16279675-Steven-Wilson-12-Things-I-Forgot) |
-| Label          | Caroline International, Caroline International |
-| Format         | 12\", Single, Ltd |
-| Catalog Number | CAROL021S2LP, 00602507425340 |
+| Label          | Caroline International |
+| Format         | Vinyl 12" 33 ⅓ RPM Single Limited Edition |
+| Catalog Number | CAROL021S2LP |
 
 180g vinyl.

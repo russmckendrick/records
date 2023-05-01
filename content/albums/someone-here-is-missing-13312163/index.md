@@ -2,7 +2,7 @@
 title: "The Pineapple Thief - Someone Here Is Missing"
 artist: "The Pineapple Thief"
 album_name: "Someone Here Is Missing"
-date: 2019-09-13
+date: 2019-09-13T17:46:08.000000Z
 release_id: "13312163"
 slug: "someone-here-is-missing-13312163"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Nothing At Best (4:08)
 2. Wake Up The Dead (4:23)
@@ -23,8 +24,12 @@ styles: ["Alternative Rock"]
 7. Someone Here Is Missing (3:52)
 8. 3000 Days (6:09)
 9. So We Row (8:16)
+
+
 ## Spotify
 {{< spotify type="album" id="1lODBFaX8Bu46GxK0TpGjj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LXR1pQ-HuvI" title="The Pineapple Thief - Someone Here is Missing" >}}
@@ -35,7 +40,11 @@ styles: ["Alternative Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [The Pineapple Thief - Someone Here Is Missing](https://www.discogs.com/release/13312163-The-Pineapple-Thief-Someone-Here-Is-Missing) |
 | Label          | Kscope |
-| Format         | LP, Album, RM, RP |
+| Format         | Vinyl LP Album Remastered Repress |
 | Catalog Number | KSCOPE1028 |
 
- Recorded in Yeovil (UK) between November 2008 and December 2009 by Bruce Soord. Mixed by Steve Kitch and Mark Bowyer @ Soord Studios, Yeovil. Remastered in 2018 by Steve Kitch. 
+
+Recorded in Yeovil (UK) between November 2008 and December 2009 by Bruce Soord.
+Mixed by Steve Kitch and Mark Bowyer @ Soord Studios, Yeovil.
+Remastered in 2018 by Steve Kitch.
+

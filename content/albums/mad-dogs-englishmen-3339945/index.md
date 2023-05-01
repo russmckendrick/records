@@ -2,7 +2,7 @@
 title: "Joe Cocker - Mad Dogs & Englishmen"
 artist: "Joe Cocker"
 album_name: "Mad Dogs & Englishmen"
-date: 2017-04-27
+date: 2017-04-27T10:33:05.000000Z
 release_id: "3339945"
 slug: "mad-dogs-englishmen-3339945"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Introduction (0:45)
 2. Honky Tonk Woman (3:35)
@@ -33,16 +34,20 @@ styles: ["Blues Rock", "Classic Rock"]
 17. Space Captain (4:55)
 18. The Letter (4:20)
 19. Delta Lady (5:35)
+
+
 ## Spotify
 {{< spotify type="album" id="7kXPAQK9SXrGuvvfjjsEjN" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="79YmYQebXzE" title="Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)" >}}
-- [J̤o̤e̤ ̤C̤o̤c̤k̤e̤r̤-̤M̤a̤d̤ Dogs & .... (Deluxe Edition)[Full Album HQ]](https://www.youtube.com/watch?v=tr7EOkIgiqo)
 - [MAD DOGS AND ENGLISHMEN @ THE FILLMORE EAST](https://www.youtube.com/watch?v=Ia-IoPMR9Uo)
 - [MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST](https://www.youtube.com/watch?v=2cLV_pIPdNE)
 - [Joe Cocker  - Mad Dogs & Englishmen - Space Captain](https://www.youtube.com/watch?v=-407iUd_pFY)
 - [The Letter (Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=LlX5IWwizGg)
+- [J̤o̤e̤ ̤C̤o̤c̤k̤e̤r̤-̤M̤a̤d̤ Dogs & .... (Deluxe Edition)[Full Album HQ]](https://www.youtube.com/watch?v=tr7EOkIgiqo)
 - [Joe Cocker, Mad Dogs and Englishmen - Honky Tonky Woman (LIVE) HD](https://www.youtube.com/watch?v=P8tqpe99QJw)
 - [Joe Cocker - Feelin' Alright - Mad Dogs & Englishmen (April 1970 - Fillmore East, NYC)](https://www.youtube.com/watch?v=uJMzuGVQRyc)
 - [Something (Set 1 / Live At The Fillmore East/3/28/70)](https://www.youtube.com/watch?v=EIjikyrW8ak)
@@ -59,8 +64,32 @@ styles: ["Blues Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2011 |
 | Discogs Link   | [Joe Cocker - Mad Dogs & Englishmen](https://www.discogs.com/release/3339945-Joe-Cocker-Mad-Dogs-Englishmen) |
-| Label          | Music On Vinyl, A&M Records |
-| Format         | 2xLP, Album, RE, 180 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP355 |
 
-Comes in a gatefold sleeve  Recorded on March 27-18, 1970 at Fillmore East, New York  ℗ & © 2011 Universal Music B.V. A2 published by Gideon Music Inc. A4 published by Tangerine Music Inc. A5 published by Saunders Publications, Inc. A6 published by Stranger Music Inc. B1 published by Irving Music Inc. B2, C4 published by Skyhill Publishing Co., Inc./Delbon Publishing  B4 published by Baby Monica Music/Renleigh Music C1a published by Jay & Cee Music C1b published by East/Memphis Music Corp. C1c published by East Memphis Music-Time Music Corp. C3 published by M. Witmark & Sons D2 published by Maclen Music Inc. D3, D5 published by Skyhill Publishing Co., Inc. D4 published by Earl Barton Music Inc.  [a255183] appears with love from [l44717] [Don Preston](https://www.discogs.com/artist/791783-Don-Preston-2) courtesy of [l59656]   
+Comes in a gatefold sleeve
+
+Recorded on March 27-18, 1970 at Fillmore East, New York
+
+℗ & © 2011 Universal Music B.V.
+A2 published by Gideon Music Inc.
+A4 published by Tangerine Music Inc.
+A5 published by Saunders Publications, Inc.
+A6 published by Stranger Music Inc.
+B1 published by Irving Music Inc.
+B2, C4 published by Skyhill Publishing Co., Inc./Delbon Publishing 
+B4 published by Baby Monica Music/Renleigh Music
+C1a published by Jay & Cee Music
+C1b published by East/Memphis Music Corp.
+C1c published by East Memphis Music-Time Music Corp.
+C3 published by M. Witmark & Sons
+D2 published by Maclen Music Inc.
+D3, D5 published by Skyhill Publishing Co., Inc.
+D4 published by Earl Barton Music Inc.
+
+[a255183] appears with love from [l44717]
+[url=https://www.discogs.com/artist/791783-Don-Preston-2]Don Preston[/url] courtesy of [l59656]
+
+
+

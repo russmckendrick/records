@@ -2,7 +2,7 @@
 title: "Elvis Costello - My Aim Is True"
 artist: "Elvis Costello"
 album_name: "My Aim Is True"
-date: 2017-08-11
+date: 2017-08-11T18:28:48.000000Z
 release_id: "7682142"
 slug: "my-aim-is-true-7682142"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Welcome To The Working Week
 2. Miracle Man
@@ -27,8 +28,12 @@ styles: ["New Wave", "Pop Rock"]
 11. Pay It Back
 12. I'm Not Angry
 13. Waiting For The End Of The World
+
+
 ## Spotify
 {{< spotify type="album" id="1aucGNKimhgARC7iO2xLt2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FJTIIfhk2k4" title="Welcome To The Working Week" >}}
@@ -50,7 +55,9 @@ styles: ["New Wave", "Pop Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Elvis Costello - My Aim Is True](https://www.discogs.com/release/7682142-Elvis-Costello-My-Aim-Is-True) |
 | Label          | UMe |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 0602547331144 |
 
-Includes a voucher to download MP3 version of the album. Made in the Czech Republic.  
+Includes a voucher to download MP3 version of the album.
+Made in the Czech Republic. 
+

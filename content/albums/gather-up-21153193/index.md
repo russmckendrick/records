@@ -2,7 +2,7 @@
 title: "Matt Berry - Gather Up"
 artist: "Matt Berry"
 album_name: "Gather Up"
-date: 2021-11-28
+date: 2021-11-28T08:32:49.000000Z
 release_id: "21153193"
 slug: "gather-up-21153193"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Take My Hand
 2. Something In My Eye
@@ -69,8 +70,9 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 53. Theme From Snuffbox
 54. Solstice
 55. The Pheasant
-## Spotify
-{{< spotify type="album" id="2GFia9WFTD4soXRB30cM0e" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="2PArSamIDBc" title="Gather Up" >}}
@@ -83,7 +85,21 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Matt Berry - Gather Up](https://www.discogs.com/release/21153193-Matt-Berry-Gather-Up) |
 | Label          | Acid Jazz |
-| Format         | 5xLP, Comp + Box, Ltd |
+| Format         | Vinyl 5× LP Compilation, Box Set Limited Edition |
 | Catalog Number | AJXBOX605 |
 
-LP Boxset is limited to only 1,500 copies  The LP box set features: Five LPs Two original Matt Berry artwork prints A signed certificate of authentication by Matt Berry 64-page hardback book, with extensive sleevenotes by journalist Chris Catchpole, exclusive photographic archive of Matt’s 10 years on Acid Jazz, including previously unseen images, album cover contact sheets and more.  Discs one and two, Gather Up Part 1 and Part 2, pulls together an excellent 21-track career spanning collection expertly compiled by Berry (also available as a separate, standalone release on 2LP or single CD), including non-album tracks such as ‘Snuff Box Theme’. No easy achievement considering the sheer breadth, diversity and volume of his exceptional musical output.  Disc three in the set is a selection of rare and never heard before outtakes. It includes cuts from Berry’s 2010 Myspace EP ‘Summer Sun’; outtakes from the Witchazel and The Blue Elephant albums; the ‘Catch Me In Time’ track featuring soul legend Geno Washington; a wonderfully raw and impassioned live radio session version of ‘Take My Hand’ featuring Cecilia Fage; embryonic versions of album tracks, and much more.  Disc four, Phantom First, comprises demo recordings of some songs which did and did not evolve into the Phantom Birds album. A fascinating listen, familiar melodies wrong-foot the listener, revealing Berry’s working process, involving different track titles and completely different lyrics. Fittingly so, considering Bob Dylan’s influence on this album.  Disc five, Live At A Festival, features five songs recorded over three festivals In 2015, including The Green Man Festival in the Brecon Beacons. Backed by his exceptional band The Maypoles – featuring The Bluetones’ Mark Morriss on guitar - Berry and his well-drilled band deliver a stonking and urgent, folk-psych driven set, including the storming opener of Kill The Wolf’s ‘Medicine’ into a heavy, fuzzy version of Witchazel’s ‘So Low’.
+LP Boxset is limited to only 1,500 copies
+
+The LP box set features:
+Five LPs
+Two original Matt Berry artwork prints
+A signed certificate of authentication by Matt Berry
+64-page hardback book, with extensive sleevenotes by journalist Chris Catchpole, exclusive photographic archive of Matt’s 10 years on Acid Jazz, including previously unseen images, album cover contact sheets and more.
+
+Discs one and two, Gather Up Part 1 and Part 2, pulls together an excellent 21-track career spanning collection expertly compiled by Berry (also available as a separate, standalone release on 2LP or single CD), including non-album tracks such as ‘Snuff Box Theme’. No easy achievement considering the sheer breadth, diversity and volume of his exceptional musical output.
+
+Disc three in the set is a selection of rare and never heard before outtakes. It includes cuts from Berry’s 2010 Myspace EP ‘Summer Sun’; outtakes from the Witchazel and The Blue Elephant albums; the ‘Catch Me In Time’ track featuring soul legend Geno Washington; a wonderfully raw and impassioned live radio session version of ‘Take My Hand’ featuring Cecilia Fage; embryonic versions of album tracks, and much more.
+
+Disc four, Phantom First, comprises demo recordings of some songs which did and did not evolve into the Phantom Birds album. A fascinating listen, familiar melodies wrong-foot the listener, revealing Berry’s working process, involving different track titles and completely different lyrics. Fittingly so, considering Bob Dylan’s influence on this album.
+
+Disc five, Live At A Festival, features five songs recorded over three festivals In 2015, including The Green Man Festival in the Brecon Beacons. Backed by his exceptional band The Maypoles – featuring The Bluetones’ Mark Morriss on guitar - Berry and his well-drilled band deliver a stonking and urgent, folk-psych driven set, including the storming opener of Kill The Wolf’s ‘Medicine’ into a heavy, fuzzy version of Witchazel’s ‘So Low’.

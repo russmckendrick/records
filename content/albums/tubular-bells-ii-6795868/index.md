@@ -2,7 +2,7 @@
 title: "Mike Oldfield - Tubular Bells II"
 artist: "Mike Oldfield"
 album_name: "Tubular Bells II"
-date: 2021-12-18
+date: 2021-12-18T05:22:16.000000Z
 release_id: "6795868"
 slug: "tubular-bells-ii-6795868"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Ambient", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Sentinel (8:06)
 2. Dark Star (2:16)
@@ -28,11 +29,12 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 12. Altered State (5:12)
 13. Maya Gold (4:00)
 14. Moonshine (1:41)
+
+
 ## Spotify
 {{< spotify type="album" id="3DSrfmHKb8WWgrX1Mvsx6K" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="815lML8_xQk" title="Michael Gordon Oldfield - TB 2 (1992)" >}}
+
 
 ## Notes
 | Notes          |             |
@@ -40,7 +42,13 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Mike Oldfield - Tubular Bells II](https://www.discogs.com/release/6795868-Mike-Oldfield-Tubular-Bells-II) |
 | Label          | Warner Music |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 2564623323 |
 
-Originally planned to be released in October 2014 but it was rescheduled to April 2015.  ℗ 1992 Warner Music UK Ltd. © 2014 Oldfield Music Limited for the United Kingdom and Oldfield Music Overseas Limited for the world outside the United Kingdom.  Made in the EU.  Comes with graphite grey plain (antistatic) die-cut inner.
+Originally planned to be released in October 2014 but it was rescheduled to April 2015.
+
+℗ 1992 Warner Music UK Ltd. © 2014 Oldfield Music Limited for the United Kingdom and Oldfield Music Overseas Limited for the world outside the United Kingdom.
+
+Made in the EU.
+
+Comes with graphite grey plain (antistatic) die-cut inner.

@@ -2,7 +2,7 @@
 title: "Rancid - Life Won't Wait"
 artist: "Rancid"
 album_name: "Life Won't Wait"
-date: 2018-08-25
+date: 2018-08-25T12:50:23.000000Z
 release_id: "5888309"
 slug: "life-won-t-wait-5888309"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
+
 ## Tracklisting
 1. Intro (0:48)
 2. Bloodclot (2:45)
@@ -36,8 +37,12 @@ styles: ["Punk", "Ska"]
 20. Something In The World Today (2:33)
 21. Corazon De Oro (3:58)
 22. Coppers (5:01)
+
+
 ## Spotify
 {{< spotify type="album" id="410JU10vru3pFk7f7vA94E" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="oJqFEk67eLE" title="Rancid - Who Would've Thought [MUSIC VIDEO]" >}}
@@ -51,7 +56,5 @@ styles: ["Punk", "Ska"]
 | Release Year   | 2014 |
 | Discogs Link   | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309-Rancid-Life-Wont-Wait) |
 | Label          | Epitaph |
-| Format         | 2xLP, Album, RE, Ora |
+| Format         | Vinyl 2× LP Album Reissue (Orange ) |
 | Catalog Number | 86497-1 |
-
-

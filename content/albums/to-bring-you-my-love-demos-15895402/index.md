@@ -2,7 +2,7 @@
 title: "PJ Harvey - To Bring You My Love - Demos"
 artist: "PJ Harvey"
 album_name: "To Bring You My Love - Demos"
-date: 2020-09-11
+date: 2020-09-11T17:44:42.000000Z
 release_id: "15895402"
 slug: "to-bring-you-my-love-demos-15895402"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. To Bring You My Love
 2. Meet Ze Monsta
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. I Think I'm A Mother
 9. Send His Love To Me
 10. The Dancer
+
+
 ## Spotify
 {{< spotify type="album" id="0DIGCmR2jhGrFHZN6Y7EbB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Q45TjwkoZM8" title="To Bring You My Love (Demo)" >}}
@@ -44,8 +49,19 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [PJ Harvey - To Bring You My Love - Demos](https://www.discogs.com/release/15895402-PJ-Harvey-To-Bring-You-My-Love-Demos) |
-| Label          | Island Records, UMC |
-| Format         | LP, Album, 180 |
-| Catalog Number | 0896476, 00602508964763 |
+| Label          | Island Records |
+| Format         | Vinyl LP Album (180g) |
+| Catalog Number | 0896476 |
 
-Includes download card, in 16bit / 44.1KHz WAV format. Includes a custom inner sleeve. Cover photographer back and front are printed textured onto the sleeve. Sleeve is made of white matt card stock An Island Records Release. ℗2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. ©2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)  250 Copies have been signed by PJ Harvey on the sleeve and have been sold at her official store. 
+Includes download card, in 16bit / 44.1KHz WAV format.
+Includes a custom inner sleeve.
+Cover photographer back and front are printed textured onto the sleeve. Sleeve is made of white matt card stock
+An Island Records Release.
+℗2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. ©2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. A Universal Music Company.
+Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.
+
+All songs [...]
+Published by Hot Head Music Limited (ASCAP)
+Administered by Kobalt Songs Music Publishing (ASCAP)
+
+250 Copies have been signed by PJ Harvey on the sleeve and have been sold at her official store. 

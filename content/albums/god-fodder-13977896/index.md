@@ -2,7 +2,7 @@
 title: "Ned's Atomic Dustbin - God Fodder"
 artist: "Ned's Atomic Dustbin"
 album_name: "God Fodder"
-date: 2019-08-09
+date: 2019-08-09T17:50:15.000000Z
 release_id: "13977896"
 slug: "god-fodder-13977896"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. Kill Your Television
 2. Less Than Useful
@@ -27,8 +28,12 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 11. Until You Find Out
 12. You
 13. What Gives My Son?
+
+
 ## Spotify
 {{< spotify type="album" id="3jkqrE3ycfEY8088IZXcZZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1s2Yb3s0Zk4" title="Neds Atomic Dustbin - Throwing Things - Live 1991" >}}
@@ -59,8 +64,16 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/13977896-Neds-Atomic-Dustbin-God-Fodder) |
-| Label          | Furtive, Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Sil |
+| Label          | Furtive (2) |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Silver & Black Marbled) |
 | Catalog Number | MOVLP2455 |
 
-Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Limited to 1000 machine-numbered copies with insert featuring lyrics, pictures and information.  180 gram.    Tracks listed sequentially on release. 
+Recorded at the Greenhouse Studio in London from December 1990 to January 1991.
+
+Limited to 1000 machine-numbered copies with insert featuring lyrics, pictures and information.
+
+180 gram. 
+
+
+Tracks listed sequentially on release.
+

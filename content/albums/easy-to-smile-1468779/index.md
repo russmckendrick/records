@@ -2,7 +2,7 @@
 title: "Senseless Things - Easy To Smile"
 artist: "Senseless Things"
 album_name: "Easy To Smile"
-date: 2018-02-15
+date: 2018-02-15T19:24:32.000000Z
 release_id: "1468779"
 slug: "easy-to-smile-1468779"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Easy To Smile (4:44)
 2. Hazel (4:01)
 3. Mollylove (2:45)
+
+
+
 
 ## Videos
 {{< youtube id="98eDh69GD-M" title="Easy To Smile (Edited Version)" >}}
@@ -28,7 +32,11 @@ styles: ["Indie Rock"]
 | Release Year   | 1991 |
 | Discogs Link   | [Senseless Things - Easy To Smile](https://www.discogs.com/release/1468779-Senseless-Things-Easy-To-Smile) |
 | Label          | Epic |
-| Format         | 12\", Single |
+| Format         | Vinyl 12" Single 45 RPM |
 | Catalog Number | 657695 6 |
 
-Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91. Track B2 recorded at the Greenhouse April 1991.  Includes exclusive Jamie Hewlett print. 
+Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91.
+Track B2 recorded at the Greenhouse April 1991.
+
+Includes exclusive Jamie Hewlett print.
+

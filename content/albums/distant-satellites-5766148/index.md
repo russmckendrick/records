@@ -2,7 +2,7 @@
 title: "Anathema - Distant Satellites"
 artist: "Anathema"
 album_name: "Distant Satellites"
-date: 2015-09-21
+date: 2015-09-21T18:54:18.000000Z
 release_id: "5766148"
 slug: "distant-satellites-5766148"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Lost Song Part 1 (5:53)
 2. The Lost Song Part 2 (5:47)
@@ -24,8 +25,12 @@ styles: ["Prog Rock"]
 8. Firelight (2:44)
 9. Distant Satellites (8:18)
 10. Take Shelter (6:18)
+
+
 ## Spotify
 {{< spotify type="album" id="4fs94SISHR2Ycv5dvzMqYy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)" >}}
@@ -41,7 +46,7 @@ styles: ["Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Anathema - Distant Satellites](https://www.discogs.com/release/5766148-Anathema-Distant-Satellites) |
 | Label          | Kscope |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | KSCOPE866 |
 
 Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet. 

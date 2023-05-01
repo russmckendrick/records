@@ -2,7 +2,7 @@
 title: "Unknown Artist - Hot Hits 16"
 artist: "Unknown Artist"
 album_name: "Hot Hits 16"
-date: 2020-08-02
+date: 2020-08-02T13:41:27.000000Z
 release_id: "1425998"
 slug: "hot-hits-16-1425998"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ---
+
 ## Tracklisting
 1. Blockbuster
 2. You're So Vain
@@ -28,13 +29,27 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 12. Wishing Well
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1973 |
 | Discogs Link   | [Unknown Artist - Hot Hits 16](https://www.discogs.com/release/1425998-Unknown-Artist-Hot-Hits-16) |
 | Label          | Music For Pleasure |
-| Format         | LP |
+| Format         | Vinyl LP Stereo |
 | Catalog Number | MFP 50056 |
 
-Album consists of various unaccredited session artists recreating the hits of the day.  ℗ 1973  BWD Productions  A BWD Production  Made in England.     
+Album consists of various unaccredited session artists recreating the hits of the day.
+
+℗ 1973 
+BWD Productions
+
+A BWD Production
+
+Made in England.
+
+
+
+
+

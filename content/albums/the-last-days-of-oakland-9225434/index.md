@@ -2,7 +2,7 @@
 title: "Fantastic Negrito - The Last Days Of Oakland"
 artist: "Fantastic Negrito"
 album_name: "The Last Days Of Oakland"
-date: 2018-03-19
+date: 2018-03-19T14:46:19.000000Z
 release_id: "9225434"
 slug: "the-last-days-of-oakland-9225434"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Last Days Of Oakland by Fantastic Negrito"
     caption: "The Last Days Of Oakland by Fantastic Negrito"
 genres: ["Rock", "Blues"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Intro - The Last Days Of Oakland (0:35)
 2. Working Poor (4:01)
@@ -27,8 +28,12 @@ styles: null
 11. The Worst (3:52)
 12. Rant Rushmore (5:01)
 13. Nothing Without You (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="5XgUtV3205kTcgoSLNf8ix" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4fDJlWxhyvw" title="Fantastic Negrito - The Worst (Official Audio)" >}}
@@ -47,7 +52,9 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434-Fantastic-Negrito-The-Last-Days-Of-Oakland) |
 | Label          | Blackball Universe Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | none |
 
-Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France
+Released in a gatefold sleeve and includes download card
+P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services 
+Made in France

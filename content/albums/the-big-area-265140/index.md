@@ -2,7 +2,7 @@
 title: "Then Jerico - The Big Area"
 artist: "Then Jerico"
 album_name: "The Big Area"
-date: 2016-07-05
+date: 2016-07-05T18:10:33.000000Z
 release_id: "265140"
 slug: "the-big-area-265140"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Big Area (4:46)
 2. What Does It Take? (3:46)
@@ -23,8 +24,11 @@ styles: ["Alternative Rock", "Pop Rock"]
 7. Where You Lie (4:52)
 8. Sugar Box (3:42)
 9. Helpless (4:05)
+
+
 ## Spotify
 {{< spotify type="album" id="5QFrA9LylsPzgQv1zBsyic" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -33,7 +37,19 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Release Year   | 1989 |
 | Discogs Link   | [Then Jerico - The Big Area](https://www.discogs.com/release/265140-Then-Jerico-The-Big-Area) |
 | Label          | London Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | 828 122-1 |
 
-"Big Area" is featured in the movie "Slipstream".  Includes a printed inner sleeve with lyrics to all songs and credits.  Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)  Written and recorded in 1988.  Made in England.  © 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.  Durations do not appear on this release. Timings via stopwatch.
+"Big Area" is featured in the movie "Slipstream".
+
+Includes a printed inner sleeve with lyrics to all songs and credits.
+
+Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)
+
+Written and recorded in 1988.
+
+Made in England.
+
+© 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.
+
+Durations do not appear on this release. Timings via stopwatch.

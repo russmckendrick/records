@@ -2,7 +2,7 @@
 title: "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers"
 artist: "Bob Marley & The Wailers"
 album_name: "Legend - The Best Of Bob Marley And The Wailers"
-date: 2016-06-21
+date: 2016-06-21T16:37:49.000000Z
 release_id: "4418438"
 slug: "legend-the-best-of-bob-marley-and-the-wailers-4418438"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Reggae", "Roots Reggae"]
 ---
+
 ## Tracklisting
 1. Is This Love (3:52)
 2. No Woman No Cry (4:02)
@@ -28,12 +29,17 @@ styles: ["Reggae", "Roots Reggae"]
 12. Satisfy My Soul (3:49)
 13. Exodus (4:16)
 14. Jamming (3:17)
+
+
 ## Spotify
 {{< spotify type="album" id="4jKeipwuUTjlx9USNYdhZn" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="FIsuGbF3g0g" title="Bob Marley & The Wailers - Is This Love" >}}
+{{< youtube id="vkrYlEeTF7Y" title="Bob Marley & The Wailers - One Love [Remastered In 4K] (Official Music Video)" >}}
 - [Legend  Bob Marley Cd completo Hd  Remastered](https://www.youtube.com/watch?v=hUzeGvg0pOg)
+- [Bob Marley & The Wailers - Is This Love](https://www.youtube.com/watch?v=FIsuGbF3g0g)
 - [Bob Marley & The Wailers - No Woman No Cry](https://www.youtube.com/watch?v=uH-Ysg8xVwY)
 - [Bob Marley & The Wailers - Could You Be Loved](https://www.youtube.com/watch?v=pNc36Kbm7F0)
 - [Bob Marley & The Wailers - Three Little Birds](https://www.youtube.com/watch?v=mvzXk_iivZE)
@@ -53,8 +59,9 @@ styles: ["Reggae", "Roots Reggae"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |
-| Label          | Tuff Gong, Island Records, Universal Music Group International |
-| Format         | LP, Comp, RE, 180 |
+| Label          | Tuff Gong |
+| Format         | Vinyl LP Compilation Reissue (180 Gram) |
 | Catalog Number | 0600753030523 |
 
-BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple
+BACK TO BLACK - Island 50th (1959-2009) download coupon
+The record label is fade blue/purple

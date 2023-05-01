@@ -2,7 +2,7 @@
 title: "Various - American Dreams"
 artist: "Various"
 album_name: "American Dreams"
-date: 2015-12-04
+date: 2015-12-04T18:21:09.000000Z
 release_id: "1665212"
 slug: "american-dreams-1665212"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Song For America (5:42)
 2. The Joker (4:26)
@@ -42,8 +43,12 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 26. Freebird (4:10)
 27. Feels So Right (3:35)
 28. Here Comes That Feeling (3:30)
+
+
 ## Spotify
 {{< spotify type="album" id="1WqrASGjFxsN4g7lttZ7T1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble (1981) (Music Video) 720p" >}}
@@ -55,7 +60,11 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 | Release Year   | 1985 |
 | Discogs Link   | [Various - American Dreams](https://www.discogs.com/release/1665212-Various-American-Dreams) |
 | Label          | Starblend Records Ltd. |
-| Format         | 2xLP, Comp, Gat |
+| Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Catalog Number | SLTD 12 |
 
-This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.  Artwork differs from [r=6672471]  Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5
+This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.
+
+Artwork differs from [r=6672471]
+
+Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5

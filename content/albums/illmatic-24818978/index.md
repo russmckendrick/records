@@ -2,7 +2,7 @@
 title: "Nas - Illmatic"
 artist: "Nas"
 album_name: "Illmatic"
-date: 2022-10-14
+date: 2022-10-14T05:53:38.000000Z
 release_id: "24818978"
 slug: "illmatic-24818978"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 ---
+
 ## Tracklisting
 1. 40 Side North
 2. The Genesis (1:45)
@@ -26,8 +27,12 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 10. One Time 4 Your Mind (3:18)
 11. Represent (4:13)
 12. It Ain't Hard To Tell (3:22)
+
+
 ## Spotify
 {{< spotify type="album" id="3kEtdS2pH6hKcMU9Wioob1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hI8A14Qcv68" title="Nas - N.Y. State of Mind (Official Audio)" >}}
@@ -64,7 +69,7 @@ styles: ["Boom Bap", "Conscious", "Hardcore Hip-Hop"]
 | Release Year   | 2022 |
 | Discogs Link   | [Nas - Illmatic](https://www.discogs.com/release/24818978-Nas-Illmatic) |
 | Label          | Columbia |
-| Format         | LP, Album, Ltd, RP, Red |
+| Format         | Vinyl LP Album Limited Edition Repress (Red Transparent) |
 | Catalog Number | 19658723181 |
 
 National Album Day 2022

@@ -2,7 +2,7 @@
 title: "The Beta Band - The Three E.P.'s"
 artist: "The Beta Band"
 album_name: "The Three E.P.'s"
-date: 2018-10-12
+date: 2018-10-12T19:58:57.000000Z
 release_id: "12647330"
 slug: "the-three-e-p-s-12647330"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Champion Versions
 2. Dry The Rain
@@ -42,8 +43,12 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 26. It's Over
 27. Dr. Baker
 28. Needles In My Eyes
+
+
 ## Spotify
 {{< spotify type="album" id="6w7XFtdCQf871KU40Ot1Ra" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6XKvbROUmNk" title="Dry The Rain (Remaster)" >}}
@@ -61,8 +66,14 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Beta Band - The Three E.P.'s](https://www.discogs.com/release/12647330-The-Beta-Band-The-Three-EPs) |
-| Label          | Because Music, Because Music, Because Music |
-| Format         | LP, Ora + LP, Yel + CD + Comp, Ltd, RE, RM |
-| Catalog Number | BE5543747, BEC5543616, BEC5543615 |
+| Label          | Because Music |
+| Format         | Vinyl LP (Orange), Vinyl LP (Yellow), CD, All Media Compilation Limited Edition Reissue Remastered |
+| Catalog Number | BE5543747 |
 
-First cat. no on barcode stuck on rear of sleeve (to distinguish from [standard black vinyl version](https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429)), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).  Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD  B3 not listed on label  Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website 
+First cat. no on barcode stuck on rear of sleeve (to distinguish from [url=https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429]standard black vinyl version[/url]), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).
+
+Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD
+
+B3 not listed on label
+
+Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website 

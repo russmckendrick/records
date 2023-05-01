@@ -2,7 +2,7 @@
 title: "Voice Of The Beehive - Let It Bee"
 artist: "Voice Of The Beehive"
 album_name: "Let It Bee"
-date: 2022-12-12
+date: 2022-12-12T06:40:39.000000Z
 release_id: "25442044"
 slug: "let-it-bee-25442044"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Beat Of Love (4:03)
 2. Sorrow Floats (4:15)
@@ -25,8 +26,12 @@ styles: ["Pop Rock", "Indie Rock"]
 9. I Say Nothing (3:25)
 10. There's A Barbarian In The Back Of My Car (2:35)
 11. Just A City (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="303IyFuPx8pzAuAjazvdHK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KuGz-ZpqTWg" title="Beat of Love - Voice of the Beehive" >}}
@@ -49,8 +54,12 @@ styles: ["Pop Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/25442044-Voice-Of-The-Beehive-Let-It-Bee) |
-| Label          | London Records, London Records |
-| Format         | LP, Album, Ltd, RE, Yel |
-| Catalog Number | LMS5521766, 5060555217662 |
+| Label          | London Records |
+| Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
+| Catalog Number | LMS5521766 |
 
-Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.  Copies ordered from the artist's online store (via Townsend Music) come with a signed print.  Manufactured in France.
+Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.
+
+Copies ordered from the artist's online store (via Townsend Music) come with a signed print.
+
+Manufactured in France.

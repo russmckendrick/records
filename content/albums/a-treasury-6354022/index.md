@@ -2,7 +2,7 @@
 title: "Nick Drake - A Treasury"
 artist: "Nick Drake"
 album_name: "A Treasury"
-date: 2016-06-27
+date: 2016-06-27T17:45:59.000000Z
 release_id: "6354022"
 slug: "a-treasury-6354022"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. Introduction
 2. Hazey Jane II
@@ -29,8 +30,12 @@ styles: ["Folk Rock"]
 13. Black Eyed Dog
 14. Way To Blue
 15. From The Morning
+
+
 ## Spotify
 {{< spotify type="album" id="1D5FYlYISuZXWBeVut4879" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PabxhKTkE0U" title="Nick Drake - Black Eyed Dog" >}}
@@ -42,7 +47,10 @@ styles: ["Folk Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Nick Drake - A Treasury](https://www.discogs.com/release/6354022-Nick-Drake-A-Treasury) |
 | Label          | Island Records |
-| Format         | LP, Comp, RE |
+| Format         | Vinyl LP Compilation Reissue |
 | Catalog Number | 4700056/00602547000569 |
 
-Includes inner sleeve with lyrics and some words from Peter Paphides Labels: ℗ © 2004 Universal Island Records Ltd. Made in the EU
+Includes inner sleeve with lyrics and some words from Peter Paphides
+Labels:
+℗ © 2004 Universal Island Records Ltd.
+Made in the EU

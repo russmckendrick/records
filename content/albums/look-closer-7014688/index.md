@@ -2,7 +2,7 @@
 title: "Saun & Starr - Look Closer"
 artist: "Saun & Starr"
 album_name: "Look Closer"
-date: 2016-09-06
+date: 2016-09-06T16:36:27.000000Z
 release_id: "7014688"
 slug: "look-closer-7014688"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Look Closer by Saun & Starr"
     caption: "Look Closer by Saun & Starr"
 genres: ["Funk / Soul"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Look Closer (Can't You See The Signs?)
 2. Hot Shot
@@ -25,8 +26,12 @@ styles: null
 9. Dear Mr. Teddy
 10. In The Night
 11. Blah Blah Blah Blah Blah Blah Blah 
+
+
 ## Spotify
-{{< spotify type="album" id="5TJvbSps6D0gy3DHqeb8FP" width="100%" height="500" >}}
+{{< spotify type="album" id="1WaH3Jqbs7gcTpVFmPmHX9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fM7i9bbWrw4" title="Saun & Starr Look Closer (feat. The Dap-Kings)" >}}
@@ -48,7 +53,7 @@ styles: null
 | Release Year   | 2015 |
 | Discogs Link   | [Saun & Starr - Look Closer](https://www.discogs.com/release/7014688-Saun-Starr-Look-Closer) |
 | Label          | Daptone Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | DAP-035 |
 
 includes coupon with code for mp3 download

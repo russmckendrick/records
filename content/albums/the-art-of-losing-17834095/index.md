@@ -2,7 +2,7 @@
 title: "The Anchoress - The Art Of Losing"
 artist: "The Anchoress"
 album_name: "The Art Of Losing"
-date: 2021-03-14
+date: 2021-03-14T11:51:46.000000Z
 release_id: "17834095"
 slug: "the-art-of-losing-17834095"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Art Of Losing by The Anchoress"
     caption: "The Art Of Losing by The Anchoress"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Moon Rise (Prelude)
 2. Let It Hurt
@@ -28,8 +29,12 @@ styles: null
 12. My Confessor
 13. With The Boys
 14. Moon (An End)
+
+
 ## Spotify
 {{< spotify type="album" id="4eUBwmpVt57DKniIa2lzSt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat. James Dean Bradfield" >}}
@@ -40,7 +45,8 @@ styles: null
 | Release Year   | 2021 |
 | Discogs Link   | [The Anchoress - The Art Of Losing](https://www.discogs.com/release/17834095-The-Anchoress-The-Art-Of-Losing) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ltd, Gol |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Gold) |
 | Catalog Number | KSCOPE1111 |
 
-Double Gold Vinyl Limited to 500 copies
+Double Gold Vinyl
+Limited to 500 copies

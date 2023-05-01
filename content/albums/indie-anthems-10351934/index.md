@@ -2,7 +2,7 @@
 title: "Various - Indie Anthems"
 artist: "Various"
 album_name: "Indie Anthems"
-date: 2017-05-27
+date: 2017-05-27T08:23:37.000000Z
 release_id: "10351934"
 slug: "indie-anthems-10351934"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Trash
 2. Just
@@ -34,8 +35,12 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 18. Here Comes Your Man
 19. Sparky's Dream
 20. Come Together
+
+
 ## Spotify
 {{< spotify type="album" id="0I5gq6g5TdvPWVAqEECV2y" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-PdKGDMhau4" title="Suede - Trash" >}}
@@ -65,7 +70,11 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Indie Anthems](https://www.discogs.com/release/10351934-Various-Indie-Anthems) |
 | Label          | Demon Records |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation Stereo |
 | Catalog Number | DEMRECOMP004 |
 
-Demon Records presents Indie Anthems – 20 Alternative Classics across 2 LPs featuring essential tracks from The Stone Roses, Radiohead, Primal Scream, Kasabian & many more.  Presented in a slick gatefold sleeve with original artwork and 2 x 180g heavyweight vinyl, this is the definitive indie compilation packed with generation defining anthems. Indie Anthems is available exclusively on vinyl.  Altough it's not credited, "Fools Gold" included here is a shorter 7'' edit.
+Demon Records presents Indie Anthems – 20 Alternative Classics across 2 LPs featuring essential tracks from The Stone Roses, Radiohead, Primal Scream, Kasabian & many more.
+
+Presented in a slick gatefold sleeve with original artwork and 2 x 180g heavyweight vinyl, this is the definitive indie compilation packed with generation defining anthems. Indie Anthems is available exclusively on vinyl.
+
+Altough it's not credited, "Fools Gold" included here is a shorter 7'' edit.

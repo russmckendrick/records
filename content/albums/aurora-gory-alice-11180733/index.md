@@ -2,7 +2,7 @@
 title: "Letters To Cleo - Aurora Gory Alice"
 artist: "Letters To Cleo"
 album_name: "Aurora Gory Alice"
-date: 2020-03-11
+date: 2020-03-11T19:19:12.000000Z
 release_id: "11180733"
 slug: "aurora-gory-alice-11180733"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Big Star (4:05)
 2. I See (3:50)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Mellie's Comin' Over (2:11)
 9. Come Around (4:11)
 10. Step Back (2:33)
+
+
 ## Spotify
 {{< spotify type="album" id="6zhu5JppyczTRXGzHA2qr8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here & Now (Official Music Video)" >}}
@@ -37,7 +42,12 @@ styles: ["Alternative Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Letters To Cleo - Aurora Gory Alice](https://www.discogs.com/release/11180733-Letters-To-Cleo-Aurora-Gory-Alice) |
 | Label          | Dot Rat Records |
-| Format         | LP, Album, RE, Pur |
+| Format         | Vinyl LP Album Reissue (Purple Translucent) |
 | Catalog Number | DRR-101 |
 
-Limited to 1000 copies  Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com Booking: Larry Webman: lwebmn@paradigmagency.com  Reissues dedicated to Steve Baker RIP
+Limited to 1000 copies
+
+Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com
+Booking: Larry Webman: lwebmn@paradigmagency.com
+
+Reissues dedicated to Steve Baker RIP

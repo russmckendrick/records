@@ -2,7 +2,7 @@
 title: "Field Music - Making A New World"
 artist: "Field Music"
 album_name: "Making A New World"
-date: 2020-01-10
+date: 2020-01-10T18:20:53.000000Z
 release_id: "14629351"
 slug: "making-a-new-world-14629351"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Sound Ranging
 2. Silence / After The Fact
@@ -33,8 +34,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 17. Only In A Man's World
 18. Money Is A Memory
 19. An Independent State
+
+
 ## Spotify
-{{< spotify type="album" id="4SUJnf00X2rb0QilvO6f9w" width="100%" height="500" >}}
+{{< spotify type="album" id="667R6KITRrms7zJCYDNCmc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-2tpEGNFuvU" title="A Change of Heir" >}}
@@ -55,7 +60,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Field Music - Making A New World](https://www.discogs.com/release/14629351-Field-Music-Making-A-New-World) |
 | Label          | Memphis Industries |
-| Format         | LP, Album, Ltd, Red |
+| Format         | Vinyl LP Album Limited Edition (Red Transparent) |
 | Catalog Number | MI0569LPX |
 
 Limited Edition Translucent Red 180g Vinyl. Gatefold Sleeve. Includes Download Coupon.  

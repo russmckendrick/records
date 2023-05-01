@@ -2,7 +2,7 @@
 title: "TV On The Radio - Dear Science"
 artist: "TV On The Radio"
 album_name: "Dear Science"
-date: 2016-02-24
+date: 2016-02-24T13:04:00.000000Z
 release_id: "4688708"
 slug: "dear-science-4688708"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Halfway Home (5:32)
 2. Crying (4:11)
@@ -25,8 +26,12 @@ styles: ["Leftfield", "Indie Rock"]
 9. Shout Me Out (4:16)
 10. DLZ (3:49)
 11. Lover's Day (5:54)
+
+
 ## Spotify
 {{< spotify type="album" id="3bWZ33ZCvHQD3nJnPjpfk7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CBEht-RY8oc" title="Halfway Home" >}}
@@ -43,8 +48,16 @@ styles: ["Leftfield", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [TV On The Radio - Dear Science](https://www.discogs.com/release/4688708-TV-On-The-Radio-Dear-Science) |
-| Label          | 4AD, Touch And Go |
-| Format         | 2xLP, RE, Whi |
+| Label          | 4AD |
+| Format         | Vinyl 2× LP Reissue (White, Gatefold, 180g) |
 | Catalog Number | CAD2821 |
 
-"TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink. Gatefold sleeve.  ℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.  Recorded at Stay Gold Studio, Brooklyn, NY 2008. Mixed at Chalice Studios, Los Angeles, CA.  Track durations not listed on the release.
+"TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink.
+Gatefold sleeve.
+
+℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.
+
+Recorded at Stay Gold Studio, Brooklyn, NY 2008.
+Mixed at Chalice Studios, Los Angeles, CA.
+
+Track durations not listed on the release.

@@ -2,7 +2,7 @@
 title: "Heart - Heart"
 artist: "Heart"
 album_name: "Heart"
-date: 2018-03-24
+date: 2018-03-24T11:44:31.000000Z
 release_id: "3966671"
 slug: "heart-3966671"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. If Looks Could Kill (3:41)
 2. What About Love (3:39)
@@ -24,8 +25,12 @@ styles: ["Power Pop", "Pop Rock"]
 8. Nothin' At All (4:12)
 9. What He Don't Know (3:40)
 10. Shell Shock (3:42)
+
+
 ## Spotify
 {{< spotify type="album" id="6TLTd0P2CUI0Q29AQ1LyFi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SR_mWAbNiYM" title="CD / Heart – Heart / 1985" >}}
@@ -51,7 +56,16 @@ styles: ["Power Pop", "Pop Rock"]
 | Release Year   | 1985 |
 | Discogs Link   | [Heart - Heart](https://www.discogs.com/release/3966671-Heart-Heart) |
 | Label          | Capitol Records |
-| Format         | LP, Album, Club |
+| Format         | Vinyl LP Album Club Edition |
 | Catalog Number | 43 600 6 |
 
-'Club Edition'  'These Dreams' is dedicated to Sharon Hess.  ℗ 1985 Capitol Records, Inc. © 1985 Capitol Records, Inc. Made in EEC. Printed in Holland ______________  Released with printed inner sleeve (taken from the regular edition with catalog number 24 0372 1).
+'Club Edition'
+
+'These Dreams' is dedicated to Sharon Hess.
+
+℗ 1985 Capitol Records, Inc. © 1985 Capitol Records, Inc.
+Made in EEC.
+Printed in Holland
+______________
+
+Released with printed inner sleeve (taken from the regular edition with catalog number 24 0372 1).

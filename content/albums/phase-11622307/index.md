@@ -2,7 +2,7 @@
 title: "Mildlife - Phase"
 artist: "Mildlife"
 album_name: "Phase"
-date: 2018-12-28
+date: 2018-12-28T17:38:47.000000Z
 release_id: "11622307"
 slug: "phase-11622307"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Jazz-Funk"]
 ---
+
 ## Tracklisting
 1. The Magnificent Moon (8:52)
 2. Zwango Zop (4:49)
@@ -20,8 +21,12 @@ styles: ["Jazz-Funk"]
 4. Phase (6:19)
 5. Two Horizons (6:04)
 6. The Gloves Don't Bite (6:47)
+
+
 ## Spotify
 {{< spotify type="album" id="2YuHj1L5CPyZaFYrBfgbu6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LCXU2OQW-Nc" title="Mildlife - The Magnificent Moon [Audio] (1 of 6)" >}}
@@ -37,7 +42,11 @@ styles: ["Jazz-Funk"]
 | Release Year   | 2018 |
 | Discogs Link   | [Mildlife - Phase](https://www.discogs.com/release/11622307-Mildlife-Phase) |
 | Label          | Research Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | RESEARCH02 |
 
-First pressing, edition of 1000. First 400 orders include one of four Mildlife trading cards.  This pressing has been re-cut on October 1, 2018.  Research Records 2018
+First pressing, edition of 1000.
+First 400 orders include one of four Mildlife trading cards. 
+This pressing has been re-cut on October 1, 2018.
+
+Research Records 2018

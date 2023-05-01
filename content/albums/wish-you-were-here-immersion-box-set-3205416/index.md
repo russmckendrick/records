@@ -2,7 +2,7 @@
 title: "Pink Floyd - Wish You Were Here - Immersion Box Set"
 artist: "Pink Floyd"
 album_name: "Wish You Were Here - Immersion Box Set"
-date: 2015-08-09
+date: 2015-08-09T13:05:36.000000Z
 release_id: "3205416"
 slug: "wish-you-were-here-immersion-box-set-3205416"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Original Album, Remastered In 2011 (44:18)
 2. Shine On You Crazy Diamond (Parts 1-5) (13:32)
@@ -101,12 +102,8 @@ styles: ["Art Rock", "Prog Rock"]
 85. Shine On You Crazy Diamond (7:47)
 86. Welcome To The Machine (7:41)
 
-## Videos
-{{< youtube id="54W8kktFE_o" title="Shine On You Crazy Diamond (Parts I-V)" >}}
-- [Pink Floyd - Welcome To The Machine](https://www.youtube.com/watch?v=lt-udg9zQSE)
-- [Have A Cigar](https://www.youtube.com/watch?v=tbdpv7G_PPg)
-- [Pink Floyd - Wish You Were Here](https://www.youtube.com/watch?v=IXdNnw99-Ic)
-- [Shine On You Crazy Diamond (Parts Vi-Ix)](https://www.youtube.com/watch?v=wE2GZ2Vpqjo)
+
+
 
 ## Notes
 | Notes          |             |
@@ -114,7 +111,36 @@ styles: ["Art Rock", "Prog Rock"]
 | Release Year   | 2011 |
 | Discogs Link   | [Pink Floyd - Wish You Were Here - Immersion Box Set](https://www.discogs.com/release/3205416-Pink-Floyd-Wish-You-Were-Here-Immersion-Box-Set) |
 | Label          | EMI |
-| Format         | CD, Album, RE, RM + CD, RM + DVD, Album, Quad, RE, |
+| Format         | CD Album Reissue Remastered Stereo, CD Remastered Stereo, DVD Multichannel NTSC Album Reissue Remastered Stereo Quadraphonic, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Album Reissue Remastered Stereo Quadraphonic Multichannel, Box Set Limited Edition |
 | Catalog Number | 50999 029435 2 7 |
 
-Subtitle: "Ceci n'est pas une boîte"  Box set also includes:  a 36-page 27 cm x 27 cm book "Immersion Book" designed by Storm Thorgerson, embossed on front sleeve, including recording informations, song lyrics, sleeve artwork, concert ticket and poster reprints and others,  a 24-page 27 cm x 27 cm photo book " Wish You Were Here - Pink Floyd Circa 1973 - 1975", including photographs By Jill Furmanovsky and Hipgnosis, edited by Jill Furmanovsky,  a 8-page credits booklet, an exclusive 27 cm x 27 cm Art Print "Diver - 1975",  a black envelope "Immersion Collectors' Cards" 15 cm x 11 cm including:  • 4 x "Immersion Collectors' Cards" 8 cm x 11 cm featuring art and comments by Storm Thorgerson with a total of 57 different variations (The Collectors' Cards are a set of obscure Floyd images reminiscent of cigarette cards [but these are anti-cigarette]. They can be found in various Pink Floyd products)  a black envelope "Immersion Memorabilia" 18 cm x 10 cm including:  • a replica of Wish You Were Here tour ticket from 23 Fevrier 1977 Pav. De Paris 7 cm x 16 cm and  • a replica of Wish You Were Here backstage pass 1975 7,8 cm x 10,5 cm,  a collectible printed scarf of 100% viscose 78 cm x 24 cm,  a black cloth sack 8 cm x 9 cm including:  • 3 x collectable clear marbles 2,4 cm round,  9 x collectible coasters 10,2 cm round (unique to this box) featuring early design sketches and a German FSK insert 12 cm x 12 cm.   Discs 1 - 4 are mounted in the box set, disc 5 is in separate card sleeve  No durations given for discs 1, 2, 3 and 5  Digital remaster ℗ 2011 The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 2011 Pink Floyd Music Ltd.  Released on 04-11-11 in Europe.  Released on 07-11-11 in the U.K.
+Subtitle:
+"Ceci n'est pas une boîte"
+
+Box set also includes:
+
+a 36-page 27 cm x 27 cm book "Immersion Book" designed by Storm Thorgerson, embossed on front sleeve, including recording informations, song lyrics, sleeve artwork, concert ticket and poster reprints and others, 
+a 24-page 27 cm x 27 cm photo book " Wish You Were Here - Pink Floyd Circa 1973 - 1975", including photographs By Jill Furmanovsky and Hipgnosis, edited by Jill Furmanovsky, 
+a 8-page credits booklet,
+an exclusive 27 cm x 27 cm Art Print "Diver - 1975", 
+a black envelope "Immersion Collectors' Cards" 15 cm x 11 cm including: 
+• 4 x "Immersion Collectors' Cards" 8 cm x 11 cm featuring art and comments by Storm Thorgerson with a total of 57 different variations (The Collectors' Cards are a set of obscure Floyd images reminiscent of cigarette cards [but these are anti-cigarette]. They can be found in various Pink Floyd products) 
+a black envelope "Immersion Memorabilia" 18 cm x 10 cm including: 
+• a replica of Wish You Were Here tour ticket from 23 Fevrier 1977 Pav. De Paris 7 cm x 16 cm and 
+• a replica of Wish You Were Here backstage pass 1975 7,8 cm x 10,5 cm, 
+a collectible printed scarf of 100% viscose 78 cm x 24 cm, 
+a black cloth sack 8 cm x 9 cm including: 
+• 3 x collectable clear marbles 2,4 cm round, 
+9 x collectible coasters 10,2 cm round (unique to this box) featuring early design sketches
+and a German FSK insert 12 cm x 12 cm. 
+
+Discs 1 - 4 are mounted in the box set, disc 5 is in separate card sleeve
+
+No durations given for discs 1, 2, 3 and 5
+
+Digital remaster ℗ 2011
+The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.
+© 2011 Pink Floyd Music Ltd.
+
+Released on 04-11-11 in Europe. 
+Released on 07-11-11 in the U.K.

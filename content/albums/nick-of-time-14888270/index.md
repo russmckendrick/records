@@ -2,7 +2,7 @@
 title: "The James Hunter Six - Nick Of Time"
 artist: "The James Hunter Six"
 album_name: "Nick Of Time"
-date: 2020-03-13
+date: 2020-03-13T19:01:18.000000Z
 release_id: "14888270"
 slug: "nick-of-time-14888270"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. I Can Change Your Mind
 2. Who's Fooling Who
@@ -27,8 +28,12 @@ styles: ["Soul"]
 11. How 'Bout Now
 12. Paradise For One
 13. He's Your Could've Been
+
+
 ## Spotify
-{{< spotify type="album" id="5IzJaKPhjnIw2pPFpSvVY9" width="100%" height="500" >}}
+{{< spotify type="album" id="70exS14xxzYmM5V9QSTIaQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="h-7hfMvA6Lc" title="I Can Change Your Mind" >}}
@@ -51,7 +56,18 @@ styles: ["Soul"]
 | Release Year   | 2020 |
 | Discogs Link   | [The James Hunter Six - Nick Of Time](https://www.discogs.com/release/14888270-The-James-Hunter-Six-Nick-Of-Time) |
 | Label          | Daptone Records |
-| Format         | LP, Album, Mono |
+| Format         | Vinyl LP Album Mono |
 | Catalog Number | DAP-061 |
 
-In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  ℗ 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card
+In memory of Jim Cotte, 1936-2019
+
+Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.
+
+Another Bosco Mann Production
+
+℗ 2020, Daptone Records
+Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206
+
+All songs [...] Stoketone Publishing, PRS
+
+Includes MP3 download card

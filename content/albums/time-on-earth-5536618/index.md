@@ -2,7 +2,7 @@
 title: "Crowded House - Time On Earth"
 artist: "Crowded House"
 album_name: "Time On Earth"
-date: 2016-01-04
+date: 2016-01-04T17:49:06.000000Z
 release_id: "5536618"
 slug: "time-on-earth-5536618"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Nobody Wants To (4:10)
 2. Don't Stop Now (3:54)
@@ -30,8 +31,12 @@ styles: ["Pop Rock"]
 14. Transit Lounge (4:22)
 15. You Are The Only One To Make Me Cry (3:41)
 16. People Are Like Suns (3:53)
+
+
 ## Spotify
 {{< spotify type="album" id="48vqZ7AYwMuw1b1sfJXi1n" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eGZJKsTHXG0" title="Crowded House - Don't Stop Now" >}}
@@ -41,8 +46,8 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2007 |
 | Discogs Link   | [Crowded House - Time On Earth](https://www.discogs.com/release/5536618-Crowded-House-Time-On-Earth) |
-| Label          | Parlophone, Parlophone |
-| Format         | 2xLP, Album, Ltd |
-| Catalog Number | 396 0271, 00946-396027-1-1 |
+| Label          | Parlophone |
+| Format         | Vinyl 2× LP Album Limited Edition |
+| Catalog Number | 396 0271 |
 
 European double 180gm vinyl edition in custom stickered gatefold lyric sleeve with picture inner sleeves - features 16 tracks; B4 and C4 appear only on the LP.

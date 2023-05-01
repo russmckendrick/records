@@ -2,7 +2,7 @@
 title: "Ian Brown - The Greatest"
 artist: "Ian Brown"
 album_name: "The Greatest"
-date: 2017-02-02
+date: 2017-02-02T17:47:22.000000Z
 release_id: "1051499"
 slug: "the-greatest-1051499"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. My Star (Album Version) (5:23)
 2. Corpses In Their Mouths (Album Version) (4:11)
@@ -31,8 +32,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 15. Lovebug (The Greatest Version) (3:12)
 16. All Ablaze (The Album Version) (4:07)
 17. Return Of The Fisherman (The Album Version) (4:19)
+
+
 ## Spotify
 {{< spotify type="album" id="1sZSQvn5aTuxMP4JVa4qpG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8f8wAXDZ9D0" title="Ian Brown - F.E.A.R." >}}
@@ -47,8 +52,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2005 |
 | Discogs Link   | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |
-| Label          | Polydor, Fiction Records |
-| Format         | 2xLP, Comp |
-| Catalog Number | 987 289-0, 987 298-0 |
+| Label          | Polydor |
+| Format         | Vinyl 2× LP Compilation |
+| Catalog Number | 987 289-0 |
 
 Made in the EU.

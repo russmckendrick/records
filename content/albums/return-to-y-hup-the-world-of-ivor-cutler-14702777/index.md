@@ -2,7 +2,7 @@
 title: "Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler"
 artist: "Citizen Bravo, Raymond MacDonald And Friends"
 album_name: "Return To Y'Hup The World Of Ivor Cutler"
-date: 2020-01-25
+date: 2020-01-25T18:56:54.000000Z
 release_id: "14702777"
 slug: "return-to-y-hup-the-world-of-ivor-cutler-14702777"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
     caption: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Here's A Health For Simon
 2. Latitude And Longitude
@@ -41,6 +42,9 @@ styles: null
 25. Out Of Decency
 26. Beautiful Cosmos
 
+
+
+
 ## Videos
 {{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}
 - [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)
@@ -50,8 +54,6 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler](https://www.discogs.com/release/14702777-Citizen-Bravo-Raymond-MacDonald-And-Friends-Return-To-YHup-The-World-Of-Ivor-Cutler) |
-| Label          | Chemikal Underground Records, Creative Scotland, Alba | Chruthachail |
-| Format         | LP, Album, Ltd, Blu |
-| Catalog Number | CHEM255, none |
-
-
+| Label          | Chemikal Underground Records |
+| Format         | Vinyl LP Album Limited Edition (Blue Marble) |
+| Catalog Number | CHEM255 |

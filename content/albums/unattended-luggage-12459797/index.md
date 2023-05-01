@@ -2,7 +2,7 @@
 title: "Nick Mason - Unattended Luggage"
 artist: "Nick Mason"
 album_name: "Unattended Luggage"
-date: 2021-09-25
+date: 2021-09-25T15:07:23.000000Z
 release_id: "12459797"
 slug: "unattended-luggage-12459797"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Unattended Luggage by Nick Mason"
     caption: "Unattended Luggage by Nick Mason"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Fictitious Sports
 2. Can't Get My Motor To Start (3:39)
@@ -51,6 +52,9 @@ styles: null
 35. Sacrifice Dance (3:01)
 36. White Of The Eye (3:35)
 
+
+
+
 ## Videos
 {{< youtube id="1r1DStEjS48" title="Nick Mason - Fictitious Sports (Full Album) HD. Tracklist" >}}
 - [White of the Eye](https://www.youtube.com/watch?v=rxEysWXn75g)
@@ -73,8 +77,9 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Nick Mason - Unattended Luggage](https://www.discogs.com/release/12459797-Nick-Mason-Unattended-Luggage) |
-| Label          | Warner Music Group, Parlophone |
-| Format         | LP, Album, RM + LP, Album, RM + LP, Album, RM + Bo |
+| Label          | Warner Music Group |
+| Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
 | Catalog Number | 0190295660222 |
 
-New Compilation Remastered on 180g Heavyweight Vinyl, Fictitious Sports (1981), Profiles (1985), White of the Eye (1987). Made in EU.
+New Compilation Remastered on 180g Heavyweight Vinyl, Fictitious Sports (1981), Profiles (1985), White of the Eye (1987).
+Made in EU.

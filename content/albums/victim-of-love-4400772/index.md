@@ -1,18 +1,19 @@
 ---
-title: "Charles Bradley Featuring Menahan Street Band - Victim Of Love"
-artist: "Charles Bradley Featuring Menahan Street Band"
+title: "Charles Bradley - Victim Of Love"
+artist: "Charles Bradley"
 album_name: "Victim Of Love"
-date: 2016-10-03
+date: 2016-10-03T14:26:22.000000Z
 release_id: "4400772"
 slug: "victim-of-love-4400772"
 hideSummary: true
 cover:
     image: "victim-of-love-4400772.jpg"
-    alt: "Victim Of Love by Charles Bradley Featuring Menahan Street Band"
-    caption: "Victim Of Love by Charles Bradley Featuring Menahan Street Band"
+    alt: "Victim Of Love by Charles Bradley"
+    caption: "Victim Of Love by Charles Bradley"
 genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Strictly Reserved For You (3:43)
 2. You Put The Flame On It (3:49)
@@ -25,6 +26,12 @@ styles: ["Soul", "Rhythm & Blues"]
 9. Crying In The Chapel (3:55)
 10. Hurricane (3:32)
 11. Through The Storm (4:42)
+
+
+## Spotify
+{{< spotify type="album" id="6YAwLAs71WJtwUp7LEdWIk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8eR2L-KQSi4" title="Strictly Reserved for You" >}}
@@ -43,9 +50,13 @@ styles: ["Soul", "Rhythm & Blues"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
-| Discogs Link   | [Charles Bradley Featuring Menahan Street Band - Victim Of Love](https://www.discogs.com/release/4400772-Charles-Bradley-Featuring-Menahan-Street-Band-Victim-Of-Love) |
-| Label          | Dunham, Dunham, Daptone Records, Daptone Records |
-| Format         | LP, Album |
-| Catalog Number | DUN-1004, DUN 1004, DAP-031, DAP 031 |
+| Discogs Link   | [Charles Bradley - Victim Of Love](https://www.discogs.com/release/4400772-Charles-Bradley-Featuring-Menahan-Street-Band-Victim-Of-Love) |
+| Label          | Dunham |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | DUN-1004 |
 
-Includes coupon for MP3 download.  CAT# on sleeve spine : DUN-1004 / DAP-031 CAT# on sleeve (back) : DUN 1004 / DAP 031 Barcode on the plastic shrink wrap only.
+Includes coupon for MP3 download.
+
+CAT# on sleeve spine : DUN-1004 / DAP-031
+CAT# on sleeve (back) : DUN 1004 / DAP 031
+Barcode on the plastic shrink wrap only.

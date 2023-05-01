@@ -2,7 +2,7 @@
 title: "The Beatles - The Beatles"
 artist: "The Beatles"
 album_name: "The Beatles"
-date: 2016-11-27
+date: 2016-11-27T11:51:28.000000Z
 release_id: "4030692"
 slug: "the-beatles-4030692"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Beat", "Rock & Roll", "Pop Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Please Please Me
 2. I Saw Her Standing There
@@ -253,8 +254,11 @@ styles: ["Beat", "Rock & Roll", "Pop Rock", "Psychedelic Rock"]
 237. Across The Universe
 238. Let It Be
 239. You Know My Name (Look Up The Number)
+
+
 ## Spotify
 {{< spotify type="album" id="1klALx0u4AavZNEvC4LrTL" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -262,8 +266,31 @@ styles: ["Beat", "Rock & Roll", "Pop Rock", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [The Beatles - The Beatles](https://www.discogs.com/release/4030692-The-Beatles-The-Beatles) |
-| Label          | Apple Records, Parlophone, Capitol Records |
-| Format         | Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon |
+| Label          | Apple Records |
+| Format         | Box Set Compilation Limited Edition Reissue Remastered Stereo Mono (180 Gram), Vinyl LP Album Stereo Mono, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Album, Vinyl LP Album Stereo Mono, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Compilation Stereo Mono |
 | Catalog Number | 5099963380910 |
 
-The Beatles (vinyl stereo box set, 14 albums) ℗2009, ©2012 Made in EU (Printed in UK/Italy, Pressed in Germany (Optimal)/Sweden)   The Original Studio Recordings The 13 Studio Albums and Past Masters remastered in stereo using the same digital sources as the acclaimed 2009 CD's on 180g Heavyweight Vinyl  Limited to 50,000 copies wordwide.  Also includes: Deluxe 252 page 12"x12" hardback book which tells the story of The Beatles album by album and with fascinating new essays on the historical importance of vinyl and the mastering process. featuring new photos and spectacular new layouts, this book is exclusively available in this Box Set.  LP01: Please Please Me (PCS 3042, ℗1963 Parlophone) LP02: With The Beatles (PCS 3045, ℗1963 Parlophone) LP03: A Hard Day's Night (PCS 3058, ℗1964 Parlophone) LP04: Beatles for Sale (PCS 3062, ℗1964 Parlophone) LP05: Help! (PCS 3071, ℗1965 ©1986 Parlophone) LP06: Rubber Soul (PCS 3075, ℗1965 ©1986 Parlophone) LP07: Revolver (PCS 7009, ℗1966 Parlophone) LP08: Sgt. Pepper's Lonely Hearts Club Band (PCS 7027, ℗1967 Parlophone) LP09: Magical Mystery Tour (2835, ℗1967 Capitol) LP10: The Beatles (White Album, PCS 7067-8, ℗1968 Apple) LP11: Yellow Submarine (PCS 7070, ℗1966 ℗1967 ℗1969 Apple) LP12: Abbey Road (PCS 7088, ℗1969 Apple) LP13: Let It Be (PCS 7096, ℗1970 Apple) LP14: Past Masters (SET 5099969943515, 5099968463915/5099968464011, ℗1962-1970, ©1988 Parlophone/Apple)
+The Beatles (vinyl stereo box set, 14 albums) ℗2009, ©2012
+Made in EU (Printed in UK/Italy, Pressed in Germany (Optimal)/Sweden) 
+
+The Original Studio Recordings
+The 13 Studio Albums and Past Masters remastered in stereo using the same digital sources as the acclaimed 2009 CD's on 180g Heavyweight Vinyl
+
+Limited to 50,000 copies wordwide.
+
+Also includes: Deluxe 252 page 12"x12" hardback book which tells the story of The Beatles album by album and with fascinating new essays on the historical importance of vinyl and the mastering process. featuring new photos and spectacular new layouts, this book is exclusively available in this Box Set.
+
+LP01: Please Please Me (PCS 3042, ℗1963 Parlophone)
+LP02: With The Beatles (PCS 3045, ℗1963 Parlophone)
+LP03: A Hard Day's Night (PCS 3058, ℗1964 Parlophone)
+LP04: Beatles for Sale (PCS 3062, ℗1964 Parlophone)
+LP05: Help! (PCS 3071, ℗1965 ©1986 Parlophone)
+LP06: Rubber Soul (PCS 3075, ℗1965 ©1986 Parlophone)
+LP07: Revolver (PCS 7009, ℗1966 Parlophone)
+LP08: Sgt. Pepper's Lonely Hearts Club Band (PCS 7027, ℗1967 Parlophone)
+LP09: Magical Mystery Tour (2835, ℗1967 Capitol)
+LP10: The Beatles (White Album, PCS 7067-8, ℗1968 Apple)
+LP11: Yellow Submarine (PCS 7070, ℗1966 ℗1967 ℗1969 Apple)
+LP12: Abbey Road (PCS 7088, ℗1969 Apple)
+LP13: Let It Be (PCS 7096, ℗1970 Apple)
+LP14: Past Masters (SET 5099969943515, 5099968463915/5099968464011, ℗1962-1970, ©1988 Parlophone/Apple)

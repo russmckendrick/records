@@ -2,7 +2,7 @@
 title: "Various - This Is Trojan"
 artist: "Various"
 album_name: "This Is Trojan"
-date: 2017-07-29
+date: 2017-07-29T18:47:00.000000Z
 release_id: "10620174"
 slug: "this-is-trojan-10620174"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
+
 ## Tracklisting
 1. Volume One
 2. Israelites
@@ -77,8 +78,11 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 61. Dollar In The Teeth
 62. Moon Hop
 63. Reggae Merengue
+
+
 ## Spotify
 {{< spotify type="album" id="5tA2nuPhQz0AVIzQtayJKi" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -87,7 +91,9 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 | Release Year   | 2017 |
 | Discogs Link   | [Various - This Is Trojan](https://www.discogs.com/release/10620174-Various-This-Is-Trojan) |
 | Label          | Trojan Records |
-| Format         | Box, Comp, Dlx + 2xLP, Comp, RP, 180 + 2xLP, Comp, |
+| Format         | Box Set Compilation Deluxe Edition, Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram) |
 | Catalog Number | TROJANLP001X |
 
-Sticker on cover.  Made in the EU
+Sticker on cover.
+
+Made in the EU

@@ -2,7 +2,7 @@
 title: "Death In Vegas - Scorpio Rising"
 artist: "Death In Vegas"
 album_name: "Scorpio Rising"
-date: 2018-12-19
+date: 2018-12-19T19:50:11.000000Z
 release_id: "12945558"
 slug: "scorpio-rising-12945558"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Leather
 2. Girls
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 9. Diving Horses
 10. Help Yourself
 
+
+
+
 ## Videos
-{{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}
+{{< youtube id="YRhp8ygTPZM" title="Leather" >}}
+- [Death In Vegas - Scorpio Raising ft. Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
 - [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
 - [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
 - [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
@@ -42,7 +47,14 @@ styles: ["Alternative Rock", "Trip Hop", "Psychedelic Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/12945558-Death-In-Vegas-Scorpio-Rising) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, Ltd, Num, RE, Red |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Red Translucent) |
 | Catalog Number | MOVLP2251 |
 
-℗ & © 2018 Sony Music Entertainment.  180 gram audiophile vinyl. Gatefold sleeve. Printed innersleeves with per track credits. 2.500 individually numbered copies on red vinyl.  Runouts are hand etched on all four sides.
+℗ & © 2018 Sony Music Entertainment.
+
+180 gram audiophile vinyl.
+Gatefold sleeve.
+Printed innersleeves with per track credits.
+2.500 individually numbered copies on red vinyl.
+
+Runouts are hand etched on all four sides.

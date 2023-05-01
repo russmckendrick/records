@@ -2,7 +2,7 @@
 title: "Buena Vista Social Club - Buena Vista Social Club"
 artist: "Buena Vista Social Club"
 album_name: "Buena Vista Social Club"
-date: 2022-10-19
+date: 2022-10-19T07:22:38.000000Z
 release_id: "20165404"
 slug: "buena-vista-social-club-20165404"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Latin"]
 styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 ---
+
 ## Tracklisting
 1. Chan Chan (4:18)
 2. De Camino A La Vereda (5:03)
@@ -66,8 +67,12 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 50. Descarga Rubén
 51. Candela (Alternate Take)
 52. Orgullecida (Alternate Trio Take)
+
+
 ## Spotify
 {{< spotify type="album" id="6DPdEaZ0KDBCCgXyy4q8bi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="o5cELP06Mik" title="Buena Vista Social Club - Chan Chan (Official Audio)" >}}
@@ -92,7 +97,26 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 | Release Year   | 2021 |
 | Discogs Link   | [Buena Vista Social Club - Buena Vista Social Club](https://www.discogs.com/release/20165404-Buena-Vista-Social-Club-Buena-Vista-Social-Club) |
 | Label          | World Circuit |
-| Format         | 2xLP, Album, RE, RM + CD, Album, RE, RM + CD |
+| Format         | Vinyl 2× LP Album Reissue Remastered, CD Album Reissue Remastered, CD |
 | Catalog Number | WCV050BOX |
 
-From hype sticker: 25th Anniversary Edition 2CD + 2LP Bookpack Includes: The original album remastered by [...] on CD & 2LP CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2). 40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club 2x 12x12" Art Prints  Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks.   Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.  A World Circuit Production  ℗ & © 2021 World Circuit Limited, a BMG company.  Made in Czech Republic.   BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS
+From hype sticker:
+25th Anniversary Edition
+2CD + 2LP Bookpack
+Includes:
+The original album remastered by [...] on CD & 2LP
+CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2).
+40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club
+2x 12x12" Art Prints
+
+Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks. 
+
+Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.
+
+A World Circuit Production
+
+℗ & © 2021 World Circuit Limited, a BMG company.
+
+Made in Czech Republic. 
+
+BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS

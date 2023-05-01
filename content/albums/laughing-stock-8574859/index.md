@@ -2,7 +2,7 @@
 title: "Talk Talk - Laughing Stock"
 artist: "Talk Talk"
 album_name: "Laughing Stock"
-date: 2016-10-22
+date: 2016-10-22T12:17:26.000000Z
 release_id: "8574859"
 slug: "laughing-stock-8574859"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Myrrhman
 2. Ascension Day
@@ -20,19 +21,34 @@ styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 4. Taphead
 5. New Grass
 6. Runeii
+
+
 ## Spotify
 {{< spotify type="album" id="3NEa40lY9rNpSIALSIKn79" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="YzHf__Lc418" title="LaughingStock (1991) *Vinyl Rip*" >}}
+- [TALK  TALK  -   LAUGHING STOCK   -  FULL ALBUM -  1991](https://www.youtube.com/watch?v=ARehbaKm4U0)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Talk Talk - Laughing Stock](https://www.discogs.com/release/8574859-Talk-Talk-Laughing-Stock) |
-| Label          | Polydor, Universal Music Group International |
-| Format         | LP, Album, RE, 180 |
+| Label          | Polydor |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 00600753655191 |
 
-Released with a black and white printed card inner with lyrics. "Includes a voucher to download MP3 version of the album. 180 gram heavyweight vinyl"  Recorded at Wessex Studios London Sept 1990 - April 1991  ℗ 1991 Polydor Ltd (UK) © 2015 Polydor Ltd (UK) Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.  Sticker on shrink : "Made in Netherlands"
+Released with a black and white printed card inner with lyrics.
+"Includes a voucher to download MP3 version of the album.
+180 gram heavyweight vinyl"
+
+Recorded at Wessex Studios London Sept 1990 - April 1991
+
+℗ 1991 Polydor Ltd (UK)
+© 2015 Polydor Ltd (UK)
+Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.
+
+Sticker on shrink : "Made in Netherlands"

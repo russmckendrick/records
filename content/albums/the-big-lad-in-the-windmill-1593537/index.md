@@ -2,7 +2,7 @@
 title: "It Bites - The Big Lad In The Windmill"
 artist: "It Bites"
 album_name: "The Big Lad In The Windmill"
-date: 2018-09-07
+date: 2018-09-07T18:30:44.000000Z
 release_id: "1593537"
 slug: "the-big-lad-in-the-windmill-1593537"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. I Got You Eating Out Of My Hand (5:37)
 2. All In Red (3:31)
@@ -24,8 +25,12 @@ styles: ["Pop Rock"]
 8. Calling All The Heroes (5:33)
 9. You'll Never Go To Heaven (7:12)
 10. The Big Lad In The Windmill (0:48)
+
+
 ## Spotify
 {{< spotify type="album" id="5bChKgwSrbKrq1OKGDJgxw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3hIWY-ir0s8" title="Calling All The Heroes - It Bites" >}}
@@ -41,7 +46,14 @@ styles: ["Pop Rock"]
 | Release Year   | 1986 |
 | Discogs Link   | [It Bites - The Big Lad In The Windmill](https://www.discogs.com/release/1593537-It-Bites-The-Big-Lad-In-The-Windmill) |
 | Label          | Virgin |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | V2378 |
 
-With illustrated inner sleeve. Recorded at Rak Studios, England. Mixed at Oddysey Studios, England.  ℗ 1986 Virgin Records Ltd. © 1986 Virgin Records Ltd. Manufactured in the U.K. 
+With illustrated inner sleeve.
+Recorded at Rak Studios, England.
+Mixed at Oddysey Studios, England.
+
+℗ 1986 Virgin Records Ltd.
+© 1986 Virgin Records Ltd.
+Manufactured in the U.K.
+

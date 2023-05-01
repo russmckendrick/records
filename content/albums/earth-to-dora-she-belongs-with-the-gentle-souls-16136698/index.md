@@ -2,7 +2,7 @@
 title: "Eels - Earth To Dora (She Belongs With The Gentle Souls)"
 artist: "Eels"
 album_name: "Earth To Dora (She Belongs With The Gentle Souls)"
-date: 2020-11-01
+date: 2020-11-01T10:17:15.000000Z
 release_id: "16136698"
 slug: "earth-to-dora-she-belongs-with-the-gentle-souls-16136698"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Earth To Dora (She Belongs With The Gentle Souls) by Eels"
     caption: "Earth To Dora (She Belongs With The Gentle Souls) by Eels"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Anything For Boo	
 2. Are We Alright Again	
@@ -27,6 +28,9 @@ styles: null
 11. Baby Let's Make It Real	
 12. Waking Up	
 
+
+
+
 ## Videos
 {{< youtube id="tfsby3Rh8r0" title="EELS - Anything For Boo - official lyric video" >}}
 - [EELS - Are We Alright Again  - official audio](https://www.youtube.com/watch?v=xGjAA8Q9VG8)
@@ -40,7 +44,7 @@ styles: null
 | Release Year   | 2020 |
 | Discogs Link   | [Eels - Earth To Dora (She Belongs With The Gentle Souls)](https://www.discogs.com/release/16136698-Eels-Earth-To-Dora-She-Belongs-With-The-Gentle-Souls) |
 | Label          | E Works Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | EWORKS116LP |
 
 Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.

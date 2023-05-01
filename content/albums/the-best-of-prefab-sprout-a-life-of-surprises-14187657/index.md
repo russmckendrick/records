@@ -2,7 +2,7 @@
 title: "Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises"
 artist: "Prefab Sprout"
 album_name: "The Best Of Prefab Sprout: A Life Of Surprises"
-date: 2019-09-27
+date: 2019-09-27T15:39:46.000000Z
 release_id: "14187657"
 slug: "the-best-of-prefab-sprout-a-life-of-surprises-14187657"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. The King Of Rock 'N' Roll (4:25)
 2. When Love Breaks Down (4:09)
@@ -30,8 +31,12 @@ styles: ["Pop Rock", "Synth-pop"]
 14. Wild Horses (3:41)
 15. Hey Manhattan! (4:46)
 16. All The World Loves Lovers (3:51)
+
+
 ## Spotify
 {{< spotify type="album" id="0W1lMfOHYxHxWKHlwPdQnq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FKZY_r0hKqg" title="Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)" >}}
@@ -54,8 +59,10 @@ styles: ["Pop Rock", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises](https://www.discogs.com/release/14187657-Prefab-Sprout-The-Best-Of-Prefab-Sprout-A-Life-Of-Surprises) |
-| Label          | Kitchenware Records, Columbia |
-| Format         | 2xLP, Comp, RE, RM, 180 |
+| Label          | Kitchenware Records |
+| Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gram) |
 | Catalog Number | 19075944651 |
 
-Gatefold sleeve. Made in the EU.  Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers.
+Gatefold sleeve. Made in the EU.
+
+Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers.

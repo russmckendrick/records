@@ -2,7 +2,7 @@
 title: "Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited"
 artist: "Mercury Rev"
 album_name: "Bobbie Gentry's The Delta Sweete Revisited"
-date: 2019-02-08
+date: 2019-02-08T14:20:39.000000Z
 release_id: "13179920"
 slug: "bobbie-gentry-s-the-delta-sweete-revisited-13179920"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Okolona River Bottom Band (4:37)
 2. Big Boss Man (3:25)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Refractions (2:28)
 11. Courtyard (3:31)
 12. Ode To Billie Joe (5:37)
+
+
 ## Spotify
 {{< spotify type="album" id="4nH3gRDD3nqTkBEZCDMGZh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eTOI4qhp3o0" title="Mercury Rev x Norah Jones - Okolona River Bottom Band" >}}
@@ -49,7 +54,13 @@ styles: ["Alternative Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited](https://www.discogs.com/release/13179920-Mercury-Rev-Bobbie-Gentrys-The-Delta-Sweete-Revisited) |
 | Label          | Bella Union |
-| Format         | LP, Ltd, 180 |
+| Format         | Vinyl LP Limited Edition (180g) |
 | Catalog Number | BELLA852V |
 
-Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe". On sticker: "Mercury Rev "This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke. Limited 180g Vinyl Includes Download" 
+Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe".
+On sticker:
+"Mercury Rev
+"This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke.
+Limited 180g Vinyl
+Includes Download"
+

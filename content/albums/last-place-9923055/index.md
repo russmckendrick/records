@@ -2,7 +2,7 @@
 title: "Grandaddy - Last Place"
 artist: "Grandaddy"
 album_name: "Last Place"
-date: 2017-03-04
+date: 2017-03-04T17:55:14.000000Z
 release_id: "9923055"
 slug: "last-place-9923055"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Last Place by Grandaddy"
     caption: "Last Place by Grandaddy"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Way We Won't
 2. Brush With The Wild
@@ -25,8 +26,12 @@ styles: null
 9. Jed The 4th
 10. A Lost Machine
 11. Songbird Son
+
+
 ## Spotify
 {{< spotify type="album" id="6Izx34SwzUfQbBzIvcNRkf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QUEiXOxFfec" title="Grandaddy - Way We Won't" >}}
@@ -34,7 +39,6 @@ styles: null
 - [Grandaddy - Evermore](https://www.youtube.com/watch?v=5ye3To3agTE)
 - [Grandaddy - Oh She Deleter :(](https://www.youtube.com/watch?v=6_0juWWBESE)
 - [Grandaddy - The Boat is in the Barn](https://www.youtube.com/watch?v=rdKzxlbeMxc)
-- [Grandaddy - Check Injin](https://www.youtube.com/watch?v=NP6MFTnsqrI)
 - [Grandaddy - I Don't Wanna Live Here Anymore](https://www.youtube.com/watch?v=tMiOs6hRLYA)
 - [Grandaddy - That's What You Get for Gettin' Outta Bed](https://www.youtube.com/watch?v=ECIuz_WHCZA)
 - [Grandaddy - This is the Part](https://www.youtube.com/watch?v=hqA-77r0PTU)
@@ -48,7 +52,7 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Grandaddy - Last Place](https://www.discogs.com/release/9923055-Grandaddy-Last-Place) |
 | Label          | 30th Century Records |
-| Format         | LP, Album, Ltd, Tra |
+| Format         | Vinyl LP Album Limited Edition (Translucent Blue) |
 | Catalog Number | 88985 39875 1 |
 
 2000 copies available exclusively through Rough Trade.

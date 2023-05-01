@@ -2,7 +2,7 @@
 title: "Split Enz - Dizrythmia"
 artist: "Split Enz"
 album_name: "Dizrythmia"
-date: 2016-02-02
+date: 2016-02-02T19:46:54.000000Z
 release_id: "2995959"
 slug: "dizrythmia-2995959"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Bold As Brass (3:22)
 2. My Mistake (2:56)
@@ -23,8 +24,12 @@ styles: ["Prog Rock"]
 7. Charley (6:26)
 8. Nice To Know (4:22)
 9. Jamboree (6:27)
+
+
 ## Spotify
 {{< spotify type="album" id="6DkcSSZzWx95drEGHGFGF1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zt5tXIIrnW0" title="Split Enz - Sugar And Spice" >}}
@@ -40,7 +45,12 @@ styles: ["Prog Rock"]
 | Release Year   | 1977 |
 | Discogs Link   | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959-Split-Enz-Dizrythmia) |
 | Label          | Chrysalis |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CHR 1145 |
 
-Released with an insert with lyrics.  Backcover caption: Chrysalis Records Limited 388/396 Oxford Street, London, W1. 
+Released with an insert with lyrics.
+
+Backcover caption:
+Chrysalis Records Limited
+388/396 Oxford Street, London, W1.
+

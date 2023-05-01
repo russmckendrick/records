@@ -1,18 +1,19 @@
 ---
-title: "Senseless Things  - The First Of Too Many"
-artist: "Senseless Things "
-album_name: "The First Of Too Many"
-date: 2023-04-16
+title: "Senseless Things - The First Of Too Many "
+artist: "Senseless Things"
+album_name: "The First Of Too Many "
+date: 2023-04-16T10:15:11.000000Z
 release_id: "25211626"
 slug: "the-first-of-too-many-25211626"
 hideSummary: true
 cover:
     image: "the-first-of-too-many-25211626.jpg"
-    alt: "The First Of Too Many by Senseless Things "
-    caption: "The First Of Too Many by Senseless Things "
+    alt: "The First Of Too Many  by Senseless Things"
+    caption: "The First Of Too Many  by Senseless Things"
 genres: ["Rock"]
 styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Disc One: 30th Anniversary mix
 2. Everybody's Gone
@@ -48,6 +49,8 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 32. fishing at tescos
 
 
+
+
 ## Videos
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}
 - [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
@@ -57,9 +60,9 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
-| Discogs Link   | [Senseless Things  - The First Of Too Many](https://www.discogs.com/release/25211626-Senseless-Things-The-First-Of-Too-Many-) |
+| Discogs Link   | [Senseless Things - The First Of Too Many ](https://www.discogs.com/release/25211626-Senseless-Things-The-First-Of-Too-Many-) |
 | Label          | Cherry Red |
-| Format         | LP, Album |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | bredd867 |
 
 Double LP release. Black vinyl contains original mix, red vinyl contains 30th anniversary mix.

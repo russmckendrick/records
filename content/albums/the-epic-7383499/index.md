@@ -2,7 +2,7 @@
 title: "Kamasi Washington - The Epic"
 artist: "Kamasi Washington"
 album_name: "The Epic"
-date: 2016-03-26
+date: 2016-03-26T15:16:51.000000Z
 release_id: "7383499"
 slug: "the-epic-7383499"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 ---
+
 ## Tracklisting
 1. Volume 1 - The Plan
 2. Change Of The Guard (12:16)
@@ -34,8 +35,12 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 18. Malcolm's Theme (08:41)
 19. Clair De Lune (11:08)
 20. The Message (11:09)
+
+
 ## Spotify
 {{< spotify type="album" id="2j2q2ySuVk43eHB8wI5XQj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="NtQRBzSN9Vw" title="Kamasi Washington - 'Change of the Guard'" >}}
@@ -62,7 +67,16 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 | Release Year   | 2015 |
 | Discogs Link   | [Kamasi Washington - The Epic](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
 | Label          | Brainfeeder |
-| Format         | 3xLP, 180 + Box, Album |
+| Format         | Vinyl 3× LP (180g), Box Set Album |
 | Catalog Number | BF050 |
 
-- 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase. - Half speed cut by Matt Colton at Alchemy Mastering. - Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis - Download MP3 Code sticker on sleeve of Volume 1 - The Plan - Black sticker on shrink wrap (front) - White BC sticker on shrink wrap (rear)  On rear box: P & C Brainfeeder 2015 Made in the EU
+- 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase.
+- Half speed cut by Matt Colton at Alchemy Mastering.
+- Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis
+- Download MP3 Code sticker on sleeve of Volume 1 - The Plan
+- Black sticker on shrink wrap (front)
+- White BC sticker on shrink wrap (rear)
+
+On rear box:
+P & C Brainfeeder 2015
+Made in the EU

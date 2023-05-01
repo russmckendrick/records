@@ -2,7 +2,7 @@
 title: "St. Vincent - The Nowhere Inn (Official Soundtrack)"
 artist: "St. Vincent"
 album_name: "The Nowhere Inn (Official Soundtrack)"
-date: 2022-08-08
+date: 2022-08-08T10:06:38.000000Z
 release_id: "22966064"
 slug: "the-nowhere-inn-official-soundtrack-22966064"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. The Nowhere Inn (4:29)
 2. Carrie Voicemail (0:33)
@@ -33,6 +34,9 @@ styles: ["Alternative Rock", "Soundtrack"]
 17. Texas Choir (1:15)
 18. Bacchanal  (2:29)
 19. Ending (2:18)
+
+
+
 
 ## Videos
 {{< youtube id="KVLdVpG1Q0c" title="St. Vincent - The Nowhere Inn (Official Video)" >}}
@@ -60,7 +64,8 @@ styles: ["Alternative Rock", "Soundtrack"]
 | Release Year   | 2022 |
 | Discogs Link   | [St. Vincent - The Nowhere Inn (Official Soundtrack)](https://www.discogs.com/release/22966064-St-Vincent-The-Nowhere-Inn-Official-Soundtrack) |
 | Label          | Loma Vista |
-| Format         | LP, Album, RSD, Ltd, Ora |
+| Format         | Vinyl LP Album Record Store Day Limited Edition (Orange) |
 | Catalog Number | LVRO2343 |
 
-Record Store Day 2022 Exclusive Release Limited to 4000 copies
+Record Store Day 2022 Exclusive Release
+Limited to 4000 copies

@@ -2,7 +2,7 @@
 title: "Beth Orton - Daybreaker"
 artist: "Beth Orton"
 album_name: "Daybreaker"
-date: 2022-06-22
+date: 2022-06-22T04:12:15.000000Z
 release_id: "331745"
 slug: "daybreaker-331745"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Paris Train (5:46)
 2. Concrete Sky (4:34)
@@ -24,8 +25,12 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 8. This One's Gonna Bruise (4:44)
 9. Ted's Waltz (5:41)
 10. Thinking About Tomorrow (6:40)
+
+
 ## Spotify
 {{< spotify type="album" id="2dxeLDM2q7hDslXKSJDFEy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6myjARKjFLs" title="Paris Train" >}}
@@ -48,7 +53,14 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 | Release Year   | 2002 |
 | Discogs Link   | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745-Beth-Orton-Daybreaker) |
 | Label          | Heavenly |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | HVNLP 37 |
 
-All songs written by Beth Orton, except: Tracks 1 & 9 which were written by Beth and Ted Barnes Track 2 which was written by Beth and Johnny Marr Track 8 which was written for Beth by Ryan Adams Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read  All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10 
+All songs written by Beth Orton, except:
+Tracks 1 & 9 which were written by Beth and Ted Barnes
+Track 2 which was written by Beth and Johnny Marr
+Track 8 which was written for Beth by Ryan Adams
+Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read
+
+All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10
+

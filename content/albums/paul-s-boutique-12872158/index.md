@@ -2,7 +2,7 @@
 title: "Beastie Boys - Paul's Boutique"
 artist: "Beastie Boys"
 album_name: "Paul's Boutique"
-date: 2020-02-14
+date: 2020-02-14T18:07:05.000000Z
 release_id: "12872158"
 slug: "paul-s-boutique-12872158"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Cut-up/DJ", "Hip Hop"]
 ---
+
 ## Tracklisting
 1. To All The Girls (1:29)
 2. Shake Your Rump (3:19)
@@ -29,8 +30,12 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 13. Shadrach (4:07)
 14. Ask For Janice (0:11)
 15. B-Boy Bouillabaisse (12:34)
+
+
 ## Spotify
 {{< spotify type="album" id="1kmyirVya5fRxdjsPFDM05" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="x2TP7tNQPwk" title="To All The Girls" >}}
@@ -63,7 +68,9 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Beastie Boys - Paul's Boutique](https://www.discogs.com/release/12872158-Beastie-Boys-Pauls-Boutique) |
 | Label          | Capitol Records |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
 | Catalog Number | 00602577057847 |
 
-Remastered by Beastie Boys and Chris Athens at Sterling Sound, NYC
+Remastered by Beastie Boys
+and Chris Athens
+at Sterling Sound, NYC

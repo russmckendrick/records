@@ -2,7 +2,7 @@
 title: "Crowded House - Temple Of Low Men"
 artist: "Crowded House"
 album_name: "Temple Of Low Men"
-date: 2015-08-20
+date: 2015-08-20T07:54:11.000000Z
 release_id: "2580024"
 slug: "temple-of-low-men-2580024"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 ---
+
 ## Tracklisting
 1. I Feel Possessed (3:47)
 2. Kill Eye (3:10)
@@ -24,8 +25,12 @@ styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 8. Sister Madly (2:52)
 9. In The Lowlands (3:57)
 10. Better Be Home Soon (3:07)
+
+
 ## Spotify
 {{< spotify type="album" id="7t38G4SGphJox2lCAAZo2m" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FhhB4ztWFbQ" title="Crowded House - I Feel Possessed" >}}
@@ -45,7 +50,13 @@ styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 | Release Year   | 1988 |
 | Discogs Link   | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/2580024-Crowded-House-Temple-Of-Low-Men) |
 | Label          | Capitol Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EST 2064 |
 
-© 1988 Capitol Records, Inc.  Made in UK Mixed for Fast Forward Productions, Ltd. All songs published by Roundhead Music - BMI ℗ 1988 Capitol Records, Inc.  Printed inner sleeve
+© 1988 Capitol Records, Inc. 
+Made in UK
+Mixed for Fast Forward Productions, Ltd.
+All songs published by Roundhead Music - BMI
+℗ 1988 Capitol Records, Inc.
+
+Printed inner sleeve

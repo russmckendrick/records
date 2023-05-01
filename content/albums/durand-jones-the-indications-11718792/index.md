@@ -2,7 +2,7 @@
 title: "Durand Jones & The Indications - Durand Jones & The Indications "
 artist: "Durand Jones & The Indications"
 album_name: "Durand Jones & The Indications "
-date: 2018-03-20
+date: 2018-03-20T12:54:29.000000Z
 release_id: "11718792"
 slug: "durand-jones-the-indications-11718792"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Make A Change (3:28)
 2. Smile (3:48)
@@ -22,8 +23,12 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 6. Is It Any Wonder? (4:36)
 7. Now I'm Gone  (5:39)
 8. Tuck 'N' Roll (2:56)
+
+
 ## Spotify
 {{< spotify type="album" id="3idaZ1PVAh5zF50jEipyEq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1MplHc9WbCM" title="Durand Jones And The Indications..Is It Any Wonder." >}}
@@ -40,8 +45,6 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Durand Jones & The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |
-| Label          | Dead Oceans, Colemine Records |
-| Format         | LP, Album, Ltd, RE, Red |
+| Label          | Dead Oceans |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red translucent) |
 | Catalog Number | DOC157 |
-
-

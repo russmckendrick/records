@@ -2,7 +2,7 @@
 title: "Doom Side Of The Moon - Doom Side Of The Moon"
 artist: "Doom Side Of The Moon"
 album_name: "Doom Side Of The Moon"
-date: 2018-01-25
+date: 2018-01-25T18:53:03.000000Z
 release_id: "11246319"
 slug: "doom-side-of-the-moon-11246319"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Speak To Me
 2. Breathe (In The Air)
@@ -24,8 +25,12 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 8. Any Colour You Like
 9. Brain Damage
 10. Eclipse
+
+
 ## Spotify
 {{< spotify type="album" id="2oJwcaAzLz9LWPGhMEMSYq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="a8HYM6bGtps" title="DOOM SIDE OF THE MOON - ECLIPSE" >}}
@@ -42,8 +47,14 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Doom Side Of The Moon - Doom Side Of The Moon](https://www.discogs.com/release/11246319-Doom-Side-Of-The-Moon-Doom-Side-Of-The-Moon) |
-| Label          | Music Theories Recordings, Mascot Label Group |
-| Format         | LP, Album, Yel |
-| Catalog Number | MTR75411, MTR 75411 |
+| Label          | Music Theories Recordings |
+| Format         | Vinyl LP Album (Yellow ) |
+| Catalog Number | MTR75411 |
 
-Track numbering on the label is sequential 1 through to 10.  Custom packaging includes a die-cut front panel. Includes digital download.  Made in the EU.  First cat # is on the spine, second cat # is on inner sleeve.
+Track numbering on the label is sequential 1 through to 10.
+
+Custom packaging includes a die-cut front panel. Includes digital download.
+
+Made in the EU.
+
+First cat # is on the spine, second cat # is on inner sleeve.

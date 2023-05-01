@@ -2,7 +2,7 @@
 title: "Van Morrison - Astral Weeks"
 artist: "Van Morrison"
 album_name: "Astral Weeks"
-date: 2017-07-23
+date: 2017-07-23T14:31:10.000000Z
 release_id: "10596963"
 slug: "astral-weeks-10596963"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Part One: In The Beginning
 2. Astral Weeks (7:00)
@@ -24,19 +25,12 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 8. Madame George (9:25)
 9. Ballerina (7:00)
 10. Slim Slow Slider (3:20)
+
+
 ## Spotify
 {{< spotify type="album" id="4pG3bKkbmReDt5QTDn3JDz" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="tDRORRRv5SQ" title="Episode 204: Van Morrison - Astral Weeks" >}}
-- [Astral Weeks (2015 Remaster)](https://www.youtube.com/watch?v=JmZXtDbc2OE)
-- [Beside You (2015 Remaster)](https://www.youtube.com/watch?v=7ToGyf3t8cA)
-- [Sweet Thing (2015 Remaster)](https://www.youtube.com/watch?v=JFAp3aRJ2vA)
-- [Cyprus Avenue (2015 Remaster)](https://www.youtube.com/watch?v=fVQ7eSkCaWc)
-- [The Way Young Lovers Do (2015 Remaster)](https://www.youtube.com/watch?v=1cXIdFxbpIg)
-- [Madame George (2015 Remaster)](https://www.youtube.com/watch?v=FjSzsu9y9gY)
-- [Ballerina (2015 Remaster)](https://www.youtube.com/watch?v=B4GCR_moiMc)
-- [Slim Slow Slider (2015 Remaster)](https://www.youtube.com/watch?v=xaRa98bvIfc)
+
 
 ## Notes
 | Notes          |             |
@@ -44,7 +38,9 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963-Van-Morrison-Astral-Weeks) |
 | Label          | Warner Bros. - Seven Arts Records |
-| Format         | LP, Album, RE, Cle |
+| Format         | Vinyl LP Album Reissue (Clear, 180 g) |
 | Catalog Number | 081227937850 |
 
-Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl
+Manufactured In The E.U.
+Marketed By Rhino Entertainment
+On Clear Vinyl

@@ -2,7 +2,7 @@
 title: "Various - Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack)"
-date: 2022-06-18
+date: 2022-06-18T05:48:07.000000Z
 release_id: "23613770"
 slug: "summer-of-soul-or-when-the-revolution-could-not-be-televised-original-motion-picture-soundtrack-23613770"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Latin", "Funk / Soul", "Blues", "Stage & Screen"]
 styles: ["Soul", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. Uptown (6:07)
 2. Why I Sing The Blues (2:20)
@@ -31,8 +32,12 @@ styles: ["Soul", "Soundtrack"]
 15. Africa (3:15)
 16. Backlash Blues (3:08)
 17. Are You Ready? (7:01)
+
+
 ## Spotify
 {{< spotify type="album" id="28BxxgJQdogo7eWYbwHH7w" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Vv1mxxZzbOs" title="Summer Of Soul -  Original Motion Picture Soundtrack" >}}
@@ -42,8 +47,14 @@ styles: ["Soul", "Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Various - Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack)](https://www.discogs.com/release/23613770-Various-Summer-Of-Soul-Or-When-The-Revolution-Could-Not-Be-Televised-Original-Motion-Picture-Soundtr) |
-| Label          | Legacy, Sony Music |
-| Format         | 2xLP, Album |
+| Label          | Legacy |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 19439953321 |
 
-D3 is LP only track, not on CD. A Questlove Jawn.  Harlem Cultural Festival directed and produced by Hal Tulchin. Tony Lawrence host & MC. Recorded live at the Harlem Cultural Festival June, July and August, 1969 at Mount Morris Park, Harlem, New York City "Soulsville U.S.A."  Made in the EU.
+D3 is LP only track, not on CD.
+A Questlove Jawn.
+
+Harlem Cultural Festival directed and produced by Hal Tulchin. Tony Lawrence host & MC.
+Recorded live at the Harlem Cultural Festival June, July and August, 1969 at Mount Morris Park, Harlem, New York City "Soulsville U.S.A."
+
+Made in the EU.

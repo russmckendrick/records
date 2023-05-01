@@ -2,7 +2,7 @@
 title: "The Beatles - Let It Be"
 artist: "The Beatles"
 album_name: "Let It Be"
-date: 2021-10-22
+date: 2021-10-22T10:09:58.000000Z
 release_id: "20583457"
 slug: "let-it-be-20583457"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Let It Be
 2. Two Of Us
@@ -76,19 +77,31 @@ styles: ["Pop Rock"]
 60. I Me Mine (Unreleased Glyn Johns 1970 Mix)
 61. Don't Let Me Down (New Mix Of Original Single Version)
 62. Let It Be (New Mix Of Original Single Version)
+
+
 ## Spotify
 {{< spotify type="album" id="0jTGHV5xqHPvEcwL8f6YU5" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="Xw8XzYYBp1Y" title="The Beatles - Let It Be [Full Album] (1970)" >}}
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Beatles - Let It Be](https://www.discogs.com/release/20583457-The-Beatles-Let-It-Be) |
-| Label          | Apple Records, Universal Music Group International |
-| Format         | Box, Dlx + LP, Album, RE + 2xLP, Comp, Mono + LP,  |
+| Label          | Apple Records |
+| Format         | Box Set Deluxe Edition, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Compilation Stereo Mono, Vinyl LP Remastered Stereo, Vinyl 12" 45 RPM EP Stereo |
 | Catalog Number | 0602507138899 |
 
-The Super Deluxe Vinyl Special Edition slipcase box set houses 4 LPs, a 12"/45rpm EP, and a 108-page hardbound book in slipcase.  Comes with a black sticker on shrink: "The Beatles. Let it be. 5 LP edition. New mixes by Giles Martin and Sam OKell. Let it be + 2 LPs of outtakes, jams, rehearsals and studio chat plus 'Get back' album (1969 mix by Glyn Johns) + Let it be EP. 180gm heavyweight vinyl half-speed mastered at Abbey Road. 100-page hardback book with in-depth essays, track-by-track recording information and foreword by Paul McCartney". + additional release icons/barcode/notes.  Made in Germany.  Runouts are hand-etched. In runouts, all Optimal plating symbol may be mirrored (“⊥” vs “T”) and/or inverted ("△1 vs ”△↾”). To enable searchability, these special Unicode characters have been replaced in the runout field by standard letters. See [Common runout groove etchings V8](https://www.discogs.com/group/thread/809508), guidance (8)(a)(b)(c).
+The Super Deluxe Vinyl Special Edition slipcase box set houses 4 LPs, a 12"/45rpm EP, and a 108-page hardbound book in slipcase.
+
+Comes with a black sticker on shrink:
+"The Beatles. Let it be. 5 LP edition.
+New mixes by Giles Martin and Sam OKell. Let it be + 2 LPs of outtakes, jams, rehearsals and studio chat plus 'Get back' album (1969 mix by Glyn Johns) + Let it be EP.
+180gm heavyweight vinyl half-speed mastered at Abbey Road.
+100-page hardback book with in-depth essays, track-by-track recording information and foreword by Paul McCartney".
++ additional release icons/barcode/notes.
+
+Made in Germany.
+
+Runouts are hand-etched. In runouts, all Optimal plating symbol may be mirrored (“⊥” vs “T”) and/or inverted ("△1 vs ”△↾”). To enable searchability, these special Unicode characters have been replaced in the runout field by standard letters. See [url=https://www.discogs.com/group/thread/809508]Common runout groove etchings V8[/url], guidance (8)(a)(b)(c).

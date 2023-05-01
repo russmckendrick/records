@@ -2,7 +2,7 @@
 title: "Frank Black - Teenager Of The Year"
 artist: "Frank Black"
 album_name: "Teenager Of The Year"
-date: 2019-04-16
+date: 2019-04-16T16:23:57.000000Z
 release_id: "13452170"
 slug: "teenager-of-the-year-13452170"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Whatever Happened To Pong? (1:34)
 2. Thalassocracy (1:33)
@@ -36,8 +37,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 20. Pure Denizen Of The Citizens Band (2:20)
 21. Bad, Wicked World (1:57)
 22. Pie In The Sky (2:13)
+
+
 ## Spotify
 {{< spotify type="album" id="2VVAqbG2AFeXNiyDjjARaM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ytQhL0-3FtM" title="Frank Black - Headache" >}}
@@ -53,7 +58,19 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Frank Black - Teenager Of The Year](https://www.discogs.com/release/13452170-Frank-Black-Teenager-Of-The-Year) |
 | Label          | 4AD |
-| Format         | 2xLP, Album, RSD, RE, Whi |
+| Format         | Vinyl 2× LP Album Record Store Day Reissue (White) |
 | Catalog Number | DAD 4009 LPE |
 
-A Record Store Day 2019 Exclusive release. Edition of 4500 according to recordstoreday.com (unclear whether or not this is for the EU and US versions combined). Includes two printed inner sleeves with identical text – one with white letters on a black background, and the other with black letters on a white background. The two records are housed in a single pocket jacket. Tracks are continuously numbered across sides.  [Inner sleeves:] Recorded at American, Calabasas, California / Mixed at Can-Am, Los Angeles, California / Additional recording at Castle Oaks, Calabasas, California; The Clubhouse, Burbank, California; The Chapel, Los Angeles, California; and Can-Am, Los Angeles, California / Mastered at Tower Mastering, Los Angeles, California  [Label sides A & C:] P & C 4.A.D. 1994 [...] All songs published by Spime songs BMI  [Label sides B & D:] Made in the EU
+A Record Store Day 2019 Exclusive release. Edition of 4500 according to recordstoreday.com (unclear whether or not this is for the EU and US versions combined).
+Includes two printed inner sleeves with identical text – one with white letters on a black background, and the other with black letters on a white background.
+The two records are housed in a single pocket jacket.
+Tracks are continuously numbered across sides.
+
+[Inner sleeves:]
+Recorded at American, Calabasas, California / Mixed at Can-Am, Los Angeles, California / Additional recording at Castle Oaks, Calabasas, California; The Clubhouse, Burbank, California; The Chapel, Los Angeles, California; and Can-Am, Los Angeles, California / Mastered at Tower Mastering, Los Angeles, California
+
+[Label sides A & C:]
+P & C 4.A.D. 1994 [...] All songs published by Spime songs BMI
+
+[Label sides B & D:]
+Made in the EU

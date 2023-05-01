@@ -2,7 +2,7 @@
 title: "James - Living In Extraordinary Times "
 artist: "James"
 album_name: "Living In Extraordinary Times "
-date: 2018-08-03
+date: 2018-08-03T18:45:13.000000Z
 release_id: "12341469"
 slug: "living-in-extraordinary-times-12341469"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Hank
 2. Coming Home (Pt.2)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Better Than That
 11. Mask
 12. What's It All About
+
+
 ## Spotify
 {{< spotify type="album" id="7naQYNSUpzEPPXoqUBv6HU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="v_Vf8dNikAk" title="James – ‘HANK’ (Official Audio)" >}}
@@ -41,7 +46,11 @@ styles: ["Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [James - Living In Extraordinary Times ](https://www.discogs.com/release/12341469-James-Living-In-Extraordinary-Times-) |
 | Label          | Infectious Music |
-| Format         | 2xLP, Album, Ltd, Mag |
+| Format         | Vinyl 2× LP Album Limited Edition (Magenta ) |
 | Catalog Number | INFECT438ELP1 |
 
-Indie Stores Exclusive Magenta Coloured Vinyl Gatefold Jacket 180 Gram Vinyl Includes Download Code 
+Indie Stores Exclusive
+Magenta Coloured Vinyl
+Gatefold Jacket
+180 Gram Vinyl
+Includes Download Code 

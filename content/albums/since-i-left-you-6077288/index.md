@@ -2,7 +2,7 @@
 title: "The Avalanches - Since I Left You"
 artist: "The Avalanches"
 album_name: "Since I Left You"
-date: 2021-05-30
+date: 2021-05-30T05:08:26.000000Z
 release_id: "6077288"
 slug: "since-i-left-you-6077288"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Abstract"]
 ---
+
 ## Tracklisting
 1. Since I Left You (4:18)
 2. Stay Another Season (2:15)
@@ -32,8 +33,12 @@ styles: ["Leftfield", "Abstract"]
 16. Little Journey (1:53)
 17. Live At Dominoes (5:38)
 18. Extra Kings (3:46)
+
+
 ## Spotify
 {{< spotify type="album" id="0YtYaaO0aipyeQl0xhAWTO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="vFWmwkoNq6s" title="The Avalanches - Since I Left You (Extended Alternate Version)" >}}
@@ -69,7 +74,26 @@ styles: ["Leftfield", "Abstract"]
 | Release Year   | 2012 |
 | Discogs Link   | [The Avalanches - Since I Left You](https://www.discogs.com/release/6077288-The-Avalanches-Since-I-Left-You) |
 | Label          | XL Recordings |
-| Format         | 2xLP, RE, Gat |
+| Format         | Vinyl 2× LP Reissue (Gatefold) |
 | Catalog Number | XLLP 138 |
 
-This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.  -The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings" -The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode -The gatefold contains an extensive sample list on the right-hand panel -Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label -The gatefold spine is blue -The inner sleeves are black -The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels  Sample notes: -Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist"    FOOTNOTE The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing): "Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein. "Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture" "Radio" does not contain the "Johnny!" dialogue at the beginning "Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning
+This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.
+
+-The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings"
+-The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode
+-The gatefold contains an extensive sample list on the right-hand panel
+-Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label
+-The gatefold spine is blue
+-The inner sleeves are black
+-The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels
+
+Sample notes:
+-Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist" 
+
+
+FOOTNOTE
+The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing):
+"Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein.
+"Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture"
+"Radio" does not contain the "Johnny!" dialogue at the beginning
+"Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning

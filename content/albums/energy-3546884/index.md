@@ -2,7 +2,7 @@
 title: "Operation Ivy - Energy"
 artist: "Operation Ivy"
 album_name: "Energy"
-date: 2019-06-17
+date: 2019-06-17T17:32:16.000000Z
 release_id: "3546884"
 slug: "energy-3546884"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
+
 ## Tracklisting
 1. Knowledge (1:40)
 2. Sound System (2:14)
@@ -34,6 +35,9 @@ styles: ["Ska", "Punk"]
 18. Big City (2:14)
 19. Missionary (2:05)
 
+
+
+
 ## Videos
 {{< youtube id="2ItT4f8O93Q" title="Knowledge (2007 Remaster)" >}}
 - [Bankshot (2007 Remaster)](https://www.youtube.com/watch?v=v3arEYZxrzI)
@@ -45,7 +49,11 @@ styles: ["Ska", "Punk"]
 | Release Year   | 2010 |
 | Discogs Link   | [Operation Ivy - Energy](https://www.discogs.com/release/3546884-Operation-Ivy-Energy) |
 | Label          | Hellcat Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 86893-1 |
 
-Recorded at Sound And Vision in San Francisco. Mixed at Dancing Dog in E-Ville. Mastered by John Golden at K-Disc, Hollywood.  Insert contains band info, lyrics, photos & artwork.
+Recorded at Sound And Vision in San Francisco.
+Mixed at Dancing Dog in E-Ville.
+Mastered by John Golden at K-Disc, Hollywood.
+
+Insert contains band info, lyrics, photos & artwork.

@@ -2,7 +2,7 @@
 title: "Various - The Daisy Age"
 artist: "Various"
 album_name: "The Daisy Age"
-date: 2019-08-31
+date: 2019-08-31T19:56:00.000000Z
 release_id: "14069939"
 slug: "the-daisy-age-14069939"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
+
 ## Tracklisting
 1. A Roller Skating Jam Named "Saturdays" (4:01)
 2. Bonita Applebum (3:36)
@@ -34,6 +35,9 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 18. Age Ain't Nothin' But A # (4:26)
 19. We Run Things (It's Like Dat) (4:11)
 20. You're Not Coming Home (Mase's Funkay Recall Mix) (4:56)
+
+
+
 
 ## Videos
 {{< youtube id="vqI5PTYmF3w" title="De La Soul - A Roller Skating Jam Named Saturdays (Music Video)" >}}
@@ -62,7 +66,7 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 | Release Year   | 2019 |
 | Discogs Link   | [Various - The Daisy Age](https://www.discogs.com/release/14069939-Various-The-Daisy-Age) |
 | Label          | Ace |
-| Format         | 2xLP, Comp, Ltd, Yel |
+| Format         | Vinyl 2× LP Compilation Limited Edition (Yellow Marbled) |
 | Catalog Number | XXQLP2062C |
 
 Limited to 1,000 copies.

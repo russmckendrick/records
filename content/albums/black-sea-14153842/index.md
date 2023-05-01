@@ -2,7 +2,7 @@
 title: "XTC - Black Sea"
 artist: "XTC"
 album_name: "Black Sea"
-date: 2019-10-05
+date: 2019-10-05T15:32:02.000000Z
 release_id: "14153842"
 slug: "black-sea-14153842"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. Respectable Street
 2. Generals And Majors
@@ -25,8 +26,12 @@ styles: ["New Wave"]
 9. Burning With Optimism's Flames
 10. Sgt. Rock (Is Going To Help Me)
 11. Travels In Nihilon
+
+
 ## Spotify
 {{< spotify type="album" id="6sLuXZdrb1cmsAnfrmgbrU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uCuZ11IW1CY" title="XTC - Generals and Majors - Black Sea [1980]" >}}
@@ -45,7 +50,5 @@ styles: ["New Wave"]
 | Release Year   | 2019 |
 | Discogs Link   | [XTC - Black Sea](https://www.discogs.com/release/14153842-XTC-Black-Sea) |
 | Label          | Ape House |
-| Format         | LP, Album, RE, RM, 200 |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (200g) |
 | Catalog Number | APELP104 |
-
-

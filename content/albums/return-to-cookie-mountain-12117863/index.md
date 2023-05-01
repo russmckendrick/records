@@ -2,7 +2,7 @@
 title: "TV On The Radio - Return To Cookie Mountain"
 artist: "TV On The Radio"
 album_name: "Return To Cookie Mountain"
-date: 2018-06-16
+date: 2018-06-16T09:50:36.000000Z
 release_id: "12117863"
 slug: "return-to-cookie-mountain-12117863"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. I Was A Lover (4:21)
 2. Hours (3:55)
@@ -25,8 +26,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 9. Blues From Down Here (5:17)
 10. Tonight (6:52)
 11. Wash The Day (8:07)
+
+
 ## Spotify
 {{< spotify type="album" id="7xn8nwwutlJFMb7Zf9NEHi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="j1-xRk6llh4" title="TV On The Radio - Wolf Like Me (Official Video)" >}}
@@ -42,8 +47,19 @@ styles: ["Indie Rock", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [TV On The Radio - Return To Cookie Mountain](https://www.discogs.com/release/12117863-TV-On-The-Radio-Return-To-Cookie-Mountain) |
-| Label          | Interscope Records, Universal Music Special Markets |
-| Format         | LP, Bro + LP, Bro + Album, Club, Dlx, RE, RM |
+| Label          | Interscope Records |
+| Format         | Vinyl LP 45 RPM (Brown, Dark Translucent [Amber]), Vinyl LP 45 RPM (Brown, Light Translucent [Grain]), All Media Album Club Edition Deluxe Edition Reissue Remastered |
 | Catalog Number | B0028301-01 |
 
-Vinyl Me Please Essentials, June 2018 Includes an obi strip and an art print. Tracks are continuously numbered across sides on the release.  Sticker: VMP Exclusive Vinyl Edition - Half-Speed Remastered at Alchemy UK - 2LP, 45RPM Multi-Color Vinyl - Heavyweight Gatefold, Tip On Jacket - 24pg Full Color Lyric Booklet  A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.            
+Vinyl Me Please Essentials, June 2018
+Includes an obi strip and an art print.
+Tracks are continuously numbered across sides on the release.
+
+Sticker:
+VMP Exclusive Vinyl Edition
+- Half-Speed Remastered at Alchemy UK
+- 2LP, 45RPM Multi-Color Vinyl
+- Heavyweight Gatefold, Tip On Jacket
+- 24pg Full Color Lyric Booklet
+
+A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.            

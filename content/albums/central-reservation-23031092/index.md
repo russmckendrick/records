@@ -2,7 +2,7 @@
 title: "Beth Orton - Central Reservation"
 artist: "Beth Orton"
 album_name: "Central Reservation"
-date: 2022-06-18
+date: 2022-06-18T05:55:09.000000Z
 release_id: "23031092"
 slug: "central-reservation-23031092"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 ---
+
 ## Tracklisting
 1. Stolen Car
 2. Sweetest Decline
@@ -26,18 +27,23 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 10. Devil Song
 11. Feel To Believe
 12. Central Reservation (The Then Again Version)
+
+
 ## Spotify
 {{< spotify type="album" id="6j7rYlihEMA63TyKLUH4nC" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="Asbh1Arz5FM" title="Precious Maybe  Beth Orton" >}}
+{{< youtube id="ntr5FGZejK4" title="Beth Orton - Central Reservation - 07 - Stars All Seem To Weep" >}}
+- [Precious Maybe  Beth Orton](https://www.youtube.com/watch?v=Asbh1Arz5FM)
 - [Beth Orton Central Reservation](https://www.youtube.com/watch?v=vHqB8xuNfB8)
+- [Beth Orton - So Much More](https://www.youtube.com/watch?v=6h5OkCHsFuI)
 - [Precious Maybe (2008 Remastered Version)](https://www.youtube.com/watch?v=wK_jBepeifE)
+- [Central Reservation (The Then Again Version)](https://www.youtube.com/watch?v=WF2qiMDif1Q)
 - [Beth Orton Central Reservation (Original Version)](https://www.youtube.com/watch?v=7hrWbUKpQmA)
 - [Beth Orton - Central Reservation](https://www.youtube.com/watch?v=Th3gkE_sP9k)
-- [Beth Orton - Central Reservation - 07 - Stars All Seem To Weep](https://www.youtube.com/watch?v=ntr5FGZejK4)
 - [Beth Orton Stars All Seem To Weep](https://www.youtube.com/watch?v=TSGmahdU890)
-- [Beth Orton - So Much More](https://www.youtube.com/watch?v=6h5OkCHsFuI)
 - [Beth Orton - Stolen Car](https://www.youtube.com/watch?v=uJ35dnfYKrQ)
 
 ## Notes
@@ -46,7 +52,9 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 | Release Year   | 2022 |
 | Discogs Link   | [Beth Orton - Central Reservation](https://www.discogs.com/release/23031092-Beth-Orton-Central-Reservation) |
 | Label          | Sony Music |
-| Format         | 2xLP, Album, RSD, Ltd, RE, Red |
-| Catalog Number | 19439 95678 1  |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Red [Pillar Box]) |
+| Catalog Number | 19439 95678 1 |
 
-Released for Record Store Day 2022 on Pillar Box Red Vinyl  
+Released for Record Store Day 2022 on Pillar Box Red Vinyl
+
+

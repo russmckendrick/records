@@ -2,7 +2,7 @@
 title: "Placebo - Placebo"
 artist: "Placebo"
 album_name: "Placebo"
-date: 2019-06-17
+date: 2019-06-17T17:31:39.000000Z
 release_id: "13705514"
 slug: "placebo-13705514"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Come Home
 2. Teenage Angst
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Bruise Pristine
 9. Lady Of The Flowers
 10. Swallow
+
+
 ## Spotify
 {{< spotify type="album" id="7Jyg6ic5h9BDJ3WuYWYA6K" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="f8CkTsDNGJI" title="Placebo - 36 Degrees" >}}
@@ -48,8 +53,13 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Placebo - Placebo](https://www.discogs.com/release/13705514-Placebo-Placebo) |
-| Label          | Elevator Music |
-| Format         | LP, Album, RE, Gat |
+| Label          | Elevator Music (4) |
+| Format         | Vinyl LP Album Reissue (Gatefold) |
 | Catalog Number | 6711042 |
 
-Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996. Made in the EU Riverman Management.  Gatefold sleeve. Opening inside. Printed glossy inner sleeve. A Blue Source Sleeve.
+Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996.
+Made in the EU
+Riverman Management.
+
+Gatefold sleeve. Opening inside. Printed glossy inner sleeve.
+A Blue Source Sleeve.

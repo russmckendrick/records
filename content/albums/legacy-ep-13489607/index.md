@@ -2,7 +2,7 @@
 title: "Mansun - Legacy EP"
 artist: "Mansun"
 album_name: "Legacy EP"
-date: 2019-04-19
+date: 2019-04-19T12:20:51.000000Z
 release_id: "13489607"
 slug: "legacy-ep-13489607"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Legacy (Extended Version) (6:29)
 2. Can't Afford To Die (2:49)
@@ -22,6 +23,9 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 6. Wide Open Space (The Perfecto Remix) (7:16)
 7. GSOH (1:22)
 8. Face In The Crowd (3:43)
+
+
+
 
 ## Videos
 {{< youtube id="vYUOCMYtzns" title="mansun - legacy" >}}
@@ -33,7 +37,9 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 | Release Year   | 2019 |
 | Discogs Link   | [Mansun - Legacy EP](https://www.discogs.com/release/13489607-Mansun-Legacy-EP) |
 | Label          | Kscope |
-| Format         | 12\", EP, RSD, Ltd, Red |
+| Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition (Red Translucent ) |
 | Catalog Number | 1032 |
 
-Record Store Day UK 2019 Release; in stickered OBI wrap sleeve similar to the original 7" single package.  Features all the tracks originally released on the 1998 UK Legacy Single CD1 & CD2
+Record Store Day UK 2019 Release; in stickered OBI wrap sleeve similar to the original 7" single package.
+
+Features all the tracks originally released on the 1998 UK Legacy Single CD1 & CD2

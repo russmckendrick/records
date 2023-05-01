@@ -2,7 +2,7 @@
 title: "Queens Of The Stone Age - Queens Of The Stone Age"
 artist: "Queens Of The Stone Age"
 album_name: "Queens Of The Stone Age"
-date: 2022-11-04
+date: 2022-11-04T06:15:12.000000Z
 release_id: "20712265"
 slug: "queens-of-the-stone-age-20712265"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Regular John
 2. Avon
@@ -25,8 +26,12 @@ styles: ["Stoner Rock", "Hard Rock"]
 9. You Can't Quit Me Baby
 10. Give The Mule What He Wants
 11. I Was A Teenage Hand Model
+
+
 ## Spotify
 {{< spotify type="album" id="0PSTqZ8cInMb1Wr68Uqdwp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wjNbxJttwP8" title="Queens of the Stone Age - Regular John (Official Audio)" >}}
@@ -46,8 +51,23 @@ styles: ["Stoner Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Queens Of The Stone Age - Queens Of The Stone Age](https://www.discogs.com/release/20712265-Queens-Of-The-Stone-Age-Queens-Of-The-Stone-Age) |
-| Label          | Matador, Matador |
-| Format         | LP, Album, Ltd, RE, Ora |
-| Catalog Number | OLE1768LP, OLE1768LPE |
+| Label          | Matador |
+| Format         | Vinyl LP Album Limited Edition Reissue (Orange) |
+| Catalog Number | OLE1768LP |
 
-Gatefold sleeve with [a1178021] art and original vinyl sequence. Featuring obi-strip designed by [a3311508]. Record comes with a plain black inner sleeve.  ℗ 1998 Queens of the Stone Age under exclusive license to Matador Records ℗ 2021 Queens of the Stone Age under exclusive license to Matador Records  Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.  Some orders from the Matador webstore came with a [a1178021] poster.  Tracks listed sequentially on release.  Cutting engineer and pressing plant derived from matrix.  
+Gatefold sleeve with [a1178021] art and original vinyl sequence.
+Featuring obi-strip designed by [a3311508].
+Record comes with a plain black inner sleeve.
+
+℗ 1998 Queens of the Stone Age under exclusive license to Matador Records
+℗ 2021 Queens of the Stone Age under exclusive license to Matador Records
+
+Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.
+
+Some orders from the Matador webstore came with a [a1178021] poster.
+
+Tracks listed sequentially on release.
+
+Cutting engineer and pressing plant derived from matrix.
+
+

@@ -2,7 +2,7 @@
 title: "Echo & The Bunnymen - Porcupine"
 artist: "Echo & The Bunnymen"
 album_name: "Porcupine"
-date: 2017-07-21
+date: 2017-07-21T18:28:47.000000Z
 release_id: "374614"
 slug: "porcupine-374614"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Cutter (3:50)
 2. Back Of Love (3:12)
@@ -24,8 +25,12 @@ styles: ["New Wave", "Indie Rock"]
 8. Higher Hell (5:00)
 9. Gods Will Be Gods (4:10)
 10. In Bluer Skies (5:55)
+
+
 ## Spotify
 {{< spotify type="album" id="4brJ6hWYqPj1sccgk390dC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nMplIrSlg8E" title="Echo And The Bunnymen - The Cutter HD" >}}
@@ -44,8 +49,25 @@ styles: ["New Wave", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1983 |
 | Discogs Link   | [Echo & The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |
-| Label          | Korova, WEA |
-| Format         | LP, Album |
-| Catalog Number | KODE 6, 240027-1 |
+| Label          | Korova |
+| Format         | Vinyl LP Album |
+| Catalog Number | KODE 6 |
 
-First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped.
+First pressing released without barcode on sleeve and with credits printed on a polylined liner.
+KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.
+
+A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time. 
+
+℗&© 1983 WEA Records Ltd.
+
+ZOO MANAGEMENT
+c/o Korova Records
+17 Berners Street
+London, West One 
+
+"PINING FOR THE PORK OF THE PORCUPINE"
+
+Manufactured in Germany
+----------------
+Mastering credit derived from matrix.
+Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped.

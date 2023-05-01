@@ -2,7 +2,7 @@
 title: "Mogwai - Rave Tapes"
 artist: "Mogwai"
 album_name: "Rave Tapes"
-date: 2016-11-26
+date: 2016-11-26T12:42:28.000000Z
 release_id: "5302004"
 slug: "rave-tapes-5302004"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
+
 ## Tracklisting
 1. Heard About You Last Night (5:22)
 2. Simon Ferocious (4:47)
@@ -47,8 +48,12 @@ styles: ["Post Rock"]
 31. Blues Hour (6:18)
 32. No Medicine For Regret (5:41)
 33. The Lord Is Out Of Control (4:23)
+
+
 ## Spotify
 {{< spotify type="album" id="27SFWD5ME13mJJWjgP71e4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="sZ5nEuG-CRc" title="Mogwai - 'Remurdered'" >}}
@@ -64,7 +69,21 @@ styles: ["Post Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Mogwai - Rave Tapes](https://www.discogs.com/release/5302004-Mogwai-Rave-Tapes) |
 | Label          | Rock Action Records |
-| Format         | Box, Ltd + LP, Album + 12\", Pin + 7\", S/Sided, Etc |
+| Format         | Box Set Limited Edition, Vinyl LP Album, Vinyl 12" 45 RPM (Pink), Vinyl 7" Single Sided 45 RPM Etched, CD Album, Cassette Album (Pink) |
 | Catalog Number | ROCKACT80 |
 
-All photographs taken during the 'Rave Tapes' sessions in Glasgow August - October 2013  The credits for Reverend Lee Cohen only appears on the inner sleeves of the CD and vinyl and while it does not appear on the cassette, it is still pertinent across the whole release.  The box set contains: - Heavy pressed die cut LP - Exclusive heavy pressed 12" coloured vinyl (pink) - Single sided heavy pressed etched 7" - CD version of album - limited cassette version of album - 40 page 300mm x 300mm hardback photograph book - 3 x exclusive high quality 12"x12" art prints featuring artwork of album cover, 12" & 7" printed on XXXgsm art card - Printed download card for [high quality download](http://www.discogs.com/Mogwai-Rave-Tapes/release/5315891) of all tracks contained in box  Limited edition of 4000
+All photographs taken during the 'Rave Tapes' sessions in Glasgow August - October 2013
+
+The credits for Reverend Lee Cohen only appears on the inner sleeves of the CD and vinyl and while it does not appear on the cassette, it is still pertinent across the whole release.
+
+The box set contains:
+- Heavy pressed die cut LP
+- Exclusive heavy pressed 12" coloured vinyl (pink)
+- Single sided heavy pressed etched 7"
+- CD version of album
+- limited cassette version of album
+- 40 page 300mm x 300mm hardback photograph book
+- 3 x exclusive high quality 12"x12" art prints featuring artwork of album cover, 12" & 7" printed on XXXgsm art card
+- Printed download card for [url=http://www.discogs.com/Mogwai-Rave-Tapes/release/5315891]high quality download[/url] of all tracks contained in box
+
+Limited edition of 4000

@@ -2,7 +2,7 @@
 title: "Bomb The Bass - Into The Dragon"
 artist: "Bomb The Bass"
 album_name: "Into The Dragon"
-date: 2018-10-01
+date: 2018-10-01T17:55:28.000000Z
 release_id: "12489219"
 slug: "into-the-dragon-12489219"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Hip-House", "Acid House", "Freestyle"]
 ---
+
 ## Tracklisting
 1. Dis Side
 2. Beat Dis (U.S. 7" Mix) (3:24)
@@ -26,6 +27,9 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 10. Shake It (4:30)
 11. Say A Little Prayer (4:30)
 12. Beat Dat (Freestyle Scratch Mix) (2:40)
+
+
+
 
 ## Videos
 {{< youtube id="b_42p66WeM0" title="Bomb The Bass - Don't Make Me Wait (Video)" >}}
@@ -47,7 +51,9 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 | Release Year   | 2018 |
 | Discogs Link   | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219-Bomb-The-Bass-Into-The-Dragon) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Blu |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue) |
 | Catalog Number | MOVLP2172 |
 
-30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU.
+30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.
+
+Made in the EU.

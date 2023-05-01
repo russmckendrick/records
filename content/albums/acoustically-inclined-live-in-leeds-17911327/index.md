@@ -2,7 +2,7 @@
 title: "Devin Townsend - Acoustically Inclined, Live In Leeds"
 artist: "Devin Townsend"
 album_name: "Acoustically Inclined, Live In Leeds"
-date: 2021-03-19
+date: 2021-03-19T07:20:43.000000Z
 release_id: "17911327"
 slug: "acoustically-inclined-live-in-leeds-17911327"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Intro
 2. Let It Roll
@@ -36,8 +37,12 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 20. Coast
 21. Solar Winds
 22. Thing Beyond Things
+
+
 ## Spotify
 {{< spotify type="album" id="32SpE85d6HbJRQPKQ6I5U4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="H45yG8FzpkQ" title="DEVIN TOWNSEND - Hyperdrive (Acoustic - Live in Leeds 2019) (OFFICIAL VIDEO)" >}}
@@ -51,8 +56,10 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Devin Townsend - Acoustically Inclined, Live In Leeds](https://www.discogs.com/release/17911327-Devin-Townsend-Acoustically-Inclined-Live-In-Leeds) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album, RM, 180 + CD, Album, RM + Ltd |
-| Catalog Number | IOMLP 586, 19439857571 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album Remastered Stereo (180g), CD Album Remastered, All Media Limited Edition |
+| Catalog Number | IOMLP 586 |
 
-Black vinyl edition.  Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingom.
+Black vinyl edition.
+
+Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingom.

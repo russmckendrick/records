@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Organisation"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Organisation"
-date: 2018-11-03
+date: 2018-11-03T09:52:02.000000Z
 release_id: "12748202"
 slug: "organisation-12748202"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Enola Gay (3:25)
 2. 2nd Thought (4:03)
@@ -23,8 +24,12 @@ styles: ["Synth-pop"]
 7. The More I See You (4:00)
 8. Promise (4:38)
 9. Stanlow (6:16)
+
+
 ## Spotify
 {{< spotify type="album" id="3bouQtY9H1DP39yxqHuFf8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="n4mqwJ569_M" title="Enola Gay (Remastered)" >}}
@@ -49,7 +54,17 @@ styles: ["Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Organisation](https://www.discogs.com/release/12748202-Orchestral-Manoeuvres-In-The-Dark-Organisation) |
 | Label          | Virgin |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | 0602557050837 |
 
-Issued in right-opening cardboard sleeve with spine including digital download card (WAV files). May have sticker on shrink-wrap. Half speed mastered at Abbey Road Studios.  All tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite.  All tracks published by BMG VM Music Ltd. except track B2 published by Warner Chappell Music International Ltd.  A Virgin EMI Records Release ℗ 1980 Virgin Records Ltd. © 2018 Virgin Records Ltd. Made in the EU.
+Issued in right-opening cardboard sleeve with spine including digital download card (WAV files). May have sticker on shrink-wrap.
+Half speed mastered at Abbey Road Studios.
+
+All tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite.
+
+All tracks published by BMG VM Music Ltd. except track B2 published by Warner Chappell Music International Ltd.
+
+A Virgin EMI Records Release
+℗ 1980 Virgin Records Ltd.
+© 2018 Virgin Records Ltd.
+Made in the EU.

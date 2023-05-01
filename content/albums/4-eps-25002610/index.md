@@ -2,7 +2,7 @@
 title: "Ride - 4 EPs"
 artist: "Ride"
 album_name: "4 EPs"
-date: 2022-11-04
+date: 2022-11-04T06:15:44.000000Z
 release_id: "25002610"
 slug: "4-eps-25002610"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Chelsea Girl
 2. Drive Blind
@@ -31,6 +32,9 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 15. Beneath
 16. Today
 
+
+
+
 ## Videos
 {{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}
 - [Ride - Sennen](https://www.youtube.com/watch?v=_4FjWtH83Ho)
@@ -41,7 +45,11 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | Release Year   | 2022 |
 | Discogs Link   | [Ride - 4 EPs](https://www.discogs.com/release/25002610-Ride-4-EPs) |
 | Label          | Wichita |
-| Format         | 2xLP, Comp, Whi |
+| Format         | Vinyl 2× LP Compilation (White) |
 | Catalog Number | WEBB574LP |
 
-'Original audio reworked and refined' Double white vinyl, standard weight Gatefold sleeve, reverse board Download included Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp.
+'Original audio reworked and refined'
+Double white vinyl, standard weight
+Gatefold sleeve, reverse board
+Download included
+Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp.

@@ -2,7 +2,7 @@
 title: "Matt Berry - Opium"
 artist: "Matt Berry"
 album_name: "Opium"
-date: 2015-10-20
+date: 2015-10-20T17:19:18.000000Z
 release_id: "6666205"
 slug: "opium-6666205"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Experimental", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Introduction
 2. Reach For The Ground
@@ -25,6 +26,9 @@ styles: ["Experimental", "Prog Rock"]
 9. Jet Setter
 10. Love Is A Fool (Again)
 11. One More Hit
+
+
+
 
 ## Videos
 {{< youtube id="yjVw8wg4J5o" title="Matt Berry Opium" >}}
@@ -45,7 +49,9 @@ styles: ["Experimental", "Prog Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Matt Berry - Opium](https://www.discogs.com/release/6666205-Matt-Berry-Opium) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Ltd, Num, RP, Ora |
+| Format         | Vinyl LP Album Limited Edition Numbered Repress (Orange) |
 | Catalog Number | AJXLP372 |
 
-Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only.
+Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London.
+Some copies are signed.
+Artwork is exclusive to this release only.

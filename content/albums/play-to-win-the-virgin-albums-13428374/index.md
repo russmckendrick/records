@@ -2,7 +2,7 @@
 title: "Heaven 17 - Play To Win (The • Virgin • Albums)"
 artist: "Heaven 17"
 album_name: "Play To Win (The • Virgin • Albums)"
-date: 2019-03-31
+date: 2019-03-31T10:17:21.000000Z
 release_id: "13428374"
 slug: "play-to-win-the-virgin-albums-13428374"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Penthouse And Pavement
 2. (We Don’t Need This) Fascist Groove Thang
@@ -66,6 +67,9 @@ styles: ["Synth-pop"]
 50. Train Of Love In Motion
 51. Responsibility
 
+
+
+
 ## Videos
 {{< youtube id="m-fY639gW08" title="Play To Win (Remastered)" >}}
 
@@ -75,7 +79,9 @@ styles: ["Synth-pop"]
 | Release Year   | 2019 |
 | Discogs Link   | [Heaven 17 - Play To Win (The • Virgin • Albums)](https://www.discogs.com/release/13428374-Heaven-17-Play-To-Win-The-Virgin-Albums) |
 | Label          | Demon Records |
-| Format         | Box, Comp, Ltd + LP, Album, RE, Whi + LP, Album, R |
+| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Blue), Vinyl LP Album Reissue (Orange), Vinyl LP Album Reissue (Clear) |
 | Catalog Number | DEMRECBOX31 |
 
-  
+
+
+

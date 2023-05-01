@@ -2,7 +2,7 @@
 title: "Paul Draper - Attack Of The Grey Lantern Live At The Ritz"
 artist: "Paul Draper"
 album_name: "Attack Of The Grey Lantern Live At The Ritz"
-date: 2018-11-23
+date: 2018-11-23T18:39:40.000000Z
 release_id: "12803625"
 slug: "attack-of-the-grey-lantern-live-at-the-ritz-12803625"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Attack Of The Grey Lantern Live At The Ritz by Paul Draper"
     caption: "Attack Of The Grey Lantern Live At The Ritz by Paul Draper"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. The Chad Who Loved Me (5:07)
 2. Mansun’s Only Love Song (5:53)
@@ -26,8 +27,11 @@ styles: null
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:44)
 12. An Open Letter To The Lyrical Trainspotter (4:33)
+
+
 ## Spotify
 {{< spotify type="album" id="5vq49BfLlCDxHlgqMSvuyl" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,10 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Paul Draper - Attack Of The Grey Lantern Live At The Ritz](https://www.discogs.com/release/12803625-Paul-Draper-Attack-Of-The-Grey-Lantern-Live-At-The-Ritz) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ltd |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo |
 | Catalog Number | kscope1007 |
 
-Comes with download card allowing 1 download of album in MP3 format.  Signed copies sold on Pauls November 2018 Acoustic tour. 
+Comes with download card allowing 1 download of album in MP3 format.
+
+Signed copies sold on Pauls November 2018 Acoustic tour.
+

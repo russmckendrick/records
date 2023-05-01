@@ -2,7 +2,7 @@
 title: "St. Paul & The Broken Bones - Young Sick Camellia"
 artist: "St. Paul & The Broken Bones"
 album_name: "Young Sick Camellia"
-date: 2018-09-29
+date: 2018-09-29T07:59:02.000000Z
 release_id: "12491197"
 slug: "young-sick-camellia-12491197"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Cumulus Pt.1
 2. Convex
@@ -27,8 +28,12 @@ styles: ["Soul"]
 11. Concave
 12. CaveFlora Pt.1
 13. Bruised Fruit
+
+
 ## Spotify
 {{< spotify type="album" id="4EN9bVE0g7gUvQlNdPrUhL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="mHEPoG11EtE" title="St. Paul & The Broken Bones - Apollo" >}}
@@ -39,8 +44,15 @@ styles: ["Soul"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [St. Paul & The Broken Bones - Young Sick Camellia](https://www.discogs.com/release/12491197-St-Paul-The-Broken-Bones-Young-Sick-Camellia) |
-| Label          | Records, Sony Music |
-| Format         | LP, Album |
+| Label          | Records (11) |
+| Format         | Vinyl LP Album |
 | Catalog Number | 19075878101 |
 
-Standard cover, vinyl being housed in a printed innersleeve.  On labels and back cover: ℗ & © 2018 Records, LLC / Red Music Distributed by Sony Music Entertainment Made in the EU  Runouts are etched, except MPO(R) inclusive numbers are stamped.
+Standard cover, vinyl being housed in a printed innersleeve.
+
+On labels and back cover:
+℗ & © 2018 Records, LLC / Red Music
+Distributed by Sony Music Entertainment
+Made in the EU
+
+Runouts are etched, except MPO(R) inclusive numbers are stamped.

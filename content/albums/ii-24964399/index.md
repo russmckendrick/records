@@ -2,7 +2,7 @@
 title: "Dead Cross - II"
 artist: "Dead Cross"
 album_name: "II"
-date: 2022-11-04
+date: 2022-11-04T06:14:16.000000Z
 release_id: "24964399"
 slug: "ii-24964399"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Love Without Love
 2. Animal Espionage
@@ -23,8 +24,12 @@ styles: ["Hardcore", "Heavy Metal"]
 7. Christian Missile Crisis
 8. Reign Of Error
 9. Imposter Syndrome
+
+
 ## Spotify
 {{< spotify type="album" id="3HDd5hQcSSlyzhixp7B4wY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GCPpZpRdjmw" title="Love Without Love" >}}
@@ -42,8 +47,10 @@ styles: ["Hardcore", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Dead Cross - II](https://www.discogs.com/release/24964399-Dead-Cross-II) |
-| Label          | Ipecac Recordings, Three One G (31G), Ipecac Recordings, Three One G (31G) |
-| Format         | LP, Album, Gla |
-| Catalog Number | IPC248LP, IPC248LP2 |
+| Label          | Ipecac Recordings |
+| Format         | Vinyl LP Album (Glass Coffin Vinyl) |
+| Catalog Number | IPC248LP |
 
-Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem  First catalog number on the spine, second on the sticker on shrink wrap
+Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem
+
+First catalog number on the spine, second on the sticker on shrink wrap

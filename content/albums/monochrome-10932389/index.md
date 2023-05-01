@@ -2,7 +2,7 @@
 title: "Danny Cavanagh - Monochrome"
 artist: "Danny Cavanagh"
 album_name: "Monochrome"
-date: 2017-10-14
+date: 2017-10-14T10:09:24.000000Z
 release_id: "10932389"
 slug: "monochrome-10932389"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Exorcist (6:43)
 2. This Music (4:50)
@@ -21,6 +22,9 @@ styles: ["Prog Rock"]
 5. Dawn (2:42)
 6. Oceans Of Time (8:14)
 7. Some Dreams Come True (8:34)
+
+
+
 
 ## Videos
 {{< youtube id="pKGoYUZ_B1c" title="Daniel Cavanagh - The Exorcist (from Monochrome)" >}}
@@ -37,7 +41,16 @@ styles: ["Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Danny Cavanagh - Monochrome](https://www.discogs.com/release/10932389-Danny-Cavanagh-Monochrome) |
 | Label          | Kscope |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | KSCOPE945 |
 
-Anneke van Giersbergen appears courtesy of InsideOut Music. Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope  Many thanks to my beloved anathema family.  Dedicated to Ariel & Ester    ℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh. Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd. Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU.
+Anneke van Giersbergen appears courtesy of InsideOut Music.
+Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope
+
+Many thanks to my beloved anathema family.
+
+Dedicated to Ariel & Ester  
+
+℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh.
+Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd.
+Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU.

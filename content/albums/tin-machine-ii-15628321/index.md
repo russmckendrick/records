@@ -2,7 +2,7 @@
 title: "Tin Machine - Tin Machine II"
 artist: "Tin Machine"
 album_name: "Tin Machine II"
-date: 2020-07-19
+date: 2020-07-19T12:14:44.000000Z
 release_id: "15628321"
 slug: "tin-machine-ii-15628321"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Baby Universal (3:18)
 2. One Shot (5:11)
@@ -28,6 +29,9 @@ styles: ["Alternative Rock"]
 12. Goodbye Mr. Ed (3:24)
 13. Hammerhead (0:58)
 
+
+
+
 ## Videos
 {{< youtube id="c7QYO-1IQ3I" title="Tin Machine - If There Is Something" >}}
 - [David Bowie & Tin Machine - Amlapura](https://www.youtube.com/watch?v=2qCXUldOf1s)
@@ -41,7 +45,18 @@ styles: ["Alternative Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Tin Machine - Tin Machine II](https://www.discogs.com/release/15628321-Tin-Machine-Tin-Machine-II) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Sil |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Silver, 180g) |
 | Catalog Number | MOVLP2715 |
 
-Originally released ℗ © 1991 Tin Machine.  Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover. Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.  Track B7 is unlisted.  Includes insert.  Special spot varnished sleeve.  Hype sticker front cover in gold.
+Originally released ℗ © 1991 Tin Machine.
+
+Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover.
+Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.
+
+Track B7 is unlisted.
+
+Includes insert.
+
+Special spot varnished sleeve.
+
+Hype sticker front cover in gold.

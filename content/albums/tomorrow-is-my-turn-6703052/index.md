@@ -2,7 +2,7 @@
 title: "Rhiannon Giddens - Tomorrow Is My Turn"
 artist: "Rhiannon Giddens"
 album_name: "Tomorrow Is My Turn"
-date: 2015-08-09
+date: 2015-08-09T08:41:42.000000Z
 release_id: "6703052"
 slug: "tomorrow-is-my-turn-6703052"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues", "Folk, World, & Country"]
 styles: ["Folk", "Delta Blues"]
 ---
+
 ## Tracklisting
 1. Last Kind Words (4:14)
 2. Don't Let It Trouble Your Mind (3:40)
@@ -36,8 +37,12 @@ styles: ["Folk", "Delta Blues"]
 20. Shake Sugaree (4:24)
 21. O Love Is Teasin' (4:33)
 22. Angel City (3:53)
+
+
 ## Spotify
 {{< spotify type="album" id="2dHKdmxoivYnUBg01aPGDg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uQJ0ylPcUuo" title="Rhiannon Giddens - Don't Let It Trouble Your Mind" >}}
@@ -58,7 +63,7 @@ styles: ["Folk", "Delta Blues"]
 | Release Year   | 2015 |
 | Discogs Link   | [Rhiannon Giddens - Tomorrow Is My Turn](https://www.discogs.com/release/6703052-Rhiannon-Giddens-Tomorrow-Is-My-Turn) |
 | Label          | Nonesuch |
-| Format         | LP, Album, 140 + CD, Album |
+| Format         | Vinyl LP Album (140 gram), CD Album |
 | Catalog Number | 541708-1 |
 
 Includes inlay sheet with lyrics, notes and credits

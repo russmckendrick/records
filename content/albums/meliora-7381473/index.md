@@ -2,7 +2,7 @@
 title: "Ghost - Meliora"
 artist: "Ghost"
 album_name: "Meliora"
-date: 2018-09-16
+date: 2018-09-16T10:49:21.000000Z
 release_id: "7381473"
 slug: "meliora-7381473"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Spirit (5:15)
 2. From The Pinnacle To The Pit (4:02)
@@ -24,8 +25,9 @@ styles: ["Hard Rock", "Heavy Metal"]
 8. Devil Church (1:06)
 9. Absolution (4:50)
 10. Deus In Absentia (5:37)
-## Spotify
-{{< spotify type="album" id="3bChCUtpRC1NaCLYD4unbD" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="6A-IoOEPbUs" title="Ghost - From The Pinnacle To The Pit (Official Music Video)" >}}
@@ -40,8 +42,16 @@ styles: ["Hard Rock", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Ghost - Meliora](https://www.discogs.com/release/7381473-Ghost-Meliora) |
-| Label          | Spinefarm Records, Rise Above Records, Loma Vista |
-| Format         | LP, Album |
+| Label          | Spinefarm Records |
+| Format         | Vinyl LP Album |
 | Catalog Number | SPINE237751 |
 
-℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records.   Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet.   Runouts are etched and stamped    
+℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records. 
+
+Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet. 
+
+Runouts are etched and stamped
+
+
+
+

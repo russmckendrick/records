@@ -2,7 +2,7 @@
 title: "Kiss - Animalize"
 artist: "Kiss"
 album_name: "Animalize"
-date: 2017-05-27
+date: 2017-05-27T15:33:10.000000Z
 release_id: "1378646"
 slug: "animalize-1378646"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. I've Had Enough (Into The Fire)
 2. Heaven's On Fire
@@ -23,8 +24,11 @@ styles: ["Hard Rock"]
 7. Thrills In The Night
 8. While The City Sleeps
 9. Murder In High Heels
+
+
 ## Spotify
 {{< spotify type="album" id="5UxqSH1Ez2fcNVLqvLjsgB" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -32,8 +36,11 @@ styles: ["Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 1984 |
 | Discogs Link   | [Kiss - Animalize](https://www.discogs.com/release/1378646-Kiss-Animalize) |
-| Label          | Vertigo, Vertigo |
-| Format         | LP, Album |
-| Catalog Number | VERL 18, 822 415-1 |
+| Label          | Vertigo |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | VERL 18 |
 
-VERL 18 appears on spine, back cover, inner sleeve and labels 822 415-1 appears on labels 822 495-1 appears on back cover 
+VERL 18 appears on spine, back cover, inner sleeve and labels
+822 415-1 appears on labels
+822 495-1 appears on back cover
+

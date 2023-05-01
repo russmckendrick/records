@@ -2,7 +2,7 @@
 title: "The La's - The La's"
 artist: "The La's"
 album_name: "The La's"
-date: 2016-10-11
+date: 2016-10-11T16:25:20.000000Z
 release_id: "8909667"
 slug: "the-la-s-8909667"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Son Of A Gun
 2. I Can't Sleep
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Freedom Song
 11. Failure
 12. Looking Glass
+
+
 ## Spotify
 {{< spotify type="album" id="5ml8UPImaD5c3x3YwQTaeS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Np4mAy-HlmQ" title="The La's - Son of a Gun (audio only)" >}}
@@ -49,7 +54,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The La's - The La's](https://www.discogs.com/release/8909667-The-Las-The-Las) |
 | Label          | Go! Discs |
-| Format         | LP, Album, RE, RM, Blu |
+| Format         | Vinyl LP Album Reissue Remastered (Blue) |
 | Catalog Number | 478 974-6 |
 
 Contains Download Voucher

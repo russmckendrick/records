@@ -2,7 +2,7 @@
 title: "Prince - Piano & A Microphone 1983"
 artist: "Prince"
 album_name: "Piano & A Microphone 1983"
-date: 2019-05-10
+date: 2019-05-10T18:53:32.000000Z
 release_id: "12564159"
 slug: "piano-a-microphone-1983-12564159"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Ballad"]
 ---
+
 ## Tracklisting
 1. Medley (22:38)
 2. Cold Coffee & Cocaine (5:14)
@@ -20,8 +21,12 @@ styles: ["Ballad"]
 4. Medley
 5. Cold Coffee & Cocaine (5:14)
 6. Why The Butterflies (6:28)
+
+
 ## Spotify
 {{< spotify type="album" id="6gbmDvcU1JDPy1niL6YFJY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="g1uZkgr2gHY" title="17 Days (Piano & A Microphone 1983 Version)" >}}
@@ -39,8 +44,52 @@ styles: ["Ballad"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Prince - Piano & A Microphone 1983](https://www.discogs.com/release/12564159-Prince-Piano-A-Microphone-1983) |
-| Label          | NPG Records, Warner Bros. Records, The Prince Estate |
-| Format         | LP, Album, 180 + CD, Album + Box, Dlx, Ltd |
-| Catalog Number | 603497858828, R1 567737, 603497861286 |
+| Label          | NPG Records |
+| Format         | Vinyl LP Album (180 g), CD Album, Box Set Deluxe Edition Limited Edition |
+| Catalog Number | 603497858828 |
 
-Sticker on shrink:  Limited Edition Deluxe Set CD + 180G Audiophile Vinyl LP + Exclusive Print [Barcode] Previously unreleased home studio recording from 1983 12 page booklet with handwritten lyrics, exclusive photos by Allen Beaulieu, and essays by Lisa Coleman, Jill Jones, & Don Batts 603497858828  Spine: R1 567737  Back cover: Recorded at Prince's Kiowa Trail home studio in Chanhassen, MN  ℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Printed in U.S.A. 603497858828 PRINCEESTATE.COM   CD: [Hand writing design] ℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in E.U. 603497858828  Vinyl / Side A, label: R1 567737 A Case Of you Joni Mitchell Publishing Corp. adm. by  Sony Music/ATV Music Publishing (ASCAP) All songs published by NPG Music Publishing LCC., adm. by Universal Music Works (GMR) except where indicated. ℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Disc manufactured in E.U. 603497861286  Vinyl / Side B, label: R1 567737 All songs published by NPG Music Publishing LCC., adm. by Universal Music Works (GMR). ℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Disc manufactured in E.U. 603497861286  Booklet: page 11: © 2018 NPG Records, Inc. page 13: 603497858828 [The Prince Estate logo]
+Sticker on shrink: 
+Limited Edition Deluxe Set
+CD + 180G Audiophile Vinyl LP + Exclusive Print
+[Barcode]
+Previously unreleased home studio recording from 1983
+12 page booklet with handwritten lyrics, exclusive photos by Allen Beaulieu, and essays by Lisa Coleman, Jill Jones, & Don Batts
+603497858828
+
+Spine:
+R1 567737
+
+Back cover:
+Recorded at Prince's Kiowa Trail home studio in Chanhassen, MN 
+℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.
+Printed in U.S.A.
+603497858828
+PRINCEESTATE.COM
+
+
+CD:
+[Hand writing design]
+℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.
+Made in E.U.
+603497858828
+
+Vinyl / Side A, label:
+R1 567737
+A Case Of you
+Joni Mitchell Publishing Corp.
+adm. by  Sony Music/ATV Music Publishing (ASCAP)
+All songs published by NPG Music Publishing LCC., adm. by Universal Music Works (GMR) except where indicated.
+℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.
+Disc manufactured in E.U.
+603497861286
+
+Vinyl / Side B, label:
+R1 567737
+All songs published by NPG Music Publishing LCC., adm. by Universal Music Works (GMR).
+℗ & © 2018 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.
+Disc manufactured in E.U.
+603497861286
+
+Booklet:
+page 11: © 2018 NPG Records, Inc.
+page 13: 603497858828 [The Prince Estate logo]

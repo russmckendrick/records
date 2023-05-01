@@ -2,7 +2,7 @@
 title: "Talking Heads - Speaking In Tongues"
 artist: "Talking Heads"
 album_name: "Speaking In Tongues"
-date: 2021-01-23
+date: 2021-01-23T04:54:23.000000Z
 release_id: "16799757"
 slug: "speaking-in-tongues-16799757"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. Burning Down The House (4:00)
 2. Making Flippy Floppy (4:36)
@@ -23,8 +24,12 @@ styles: ["New Wave"]
 7. Moon Rocks (5:04)
 8. Pull Up The Roots (5:08)
 9. This Must Be The Place (Naive Melody) (4:56)
+
+
 ## Spotify
 {{< spotify type="album" id="4sLCQxMRfn3gAHrBNZtbTH" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}
@@ -42,8 +47,11 @@ styles: ["New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |
-| Label          | Rhino Records, Sire |
-| Format         | LP, Album, Ltd, RE, RP, Blu |
-| Catalog Number | RCV1-23883, 603497845330 |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl LP Album Limited Edition Reissue Repress (Blue) |
+| Catalog Number | RCV1-23883 |
 
-"Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies.
+"Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers. 
+Made in Germany. 
+
+Limited edition of 4,500 copies.

@@ -2,7 +2,7 @@
 title: "Belinda Carlisle - Runaway Horses"
 artist: "Belinda Carlisle"
 album_name: "Runaway Horses"
-date: 2018-09-22
+date: 2018-09-22T13:11:54.000000Z
 release_id: "12559007"
 slug: "runaway-horses-12559007"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Leave A Light On (4:34)
 2. Runaway Horses (4:42)
@@ -24,8 +25,12 @@ styles: ["Soft Rock", "Pop Rock"]
 8. Valentine (5:03)
 9. Whatever It Takes (4:49)
 10. Shades Of Michelangelo (5:46)
+
+
 ## Spotify
 {{< spotify type="album" id="14HEt8p61frBrOqht0yex7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="J7DOyqNtmgM" title="Leave A Light On" >}}
@@ -47,7 +52,7 @@ styles: ["Soft Rock", "Pop Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Belinda Carlisle - Runaway Horses](https://www.discogs.com/release/12559007-Belinda-Carlisle-Runaway-Horses) |
 | Label          | Demon Records |
-| Format         | LP, Album, Ltd, RE, Gre |
+| Format         | Vinyl LP Album Limited Edition Reissue (Green Translucent) |
 | Catalog Number | DEMREC307 |
 
 Sticker: 'Pressed on 180gm heavyweight translucent green vinyl'. Printed inner sleeve. 

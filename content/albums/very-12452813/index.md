@@ -2,7 +2,7 @@
 title: "Pet Shop Boys - Very"
 artist: "Pet Shop Boys"
 album_name: "Very"
-date: 2020-07-03
+date: 2020-07-03T12:51:05.000000Z
 release_id: "12452813"
 slug: "very-12452813"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["House", "Synth-pop", "Dance-pop"]
 ---
+
 ## Tracklisting
 1. Can You Forgive Her?
 2. I Wouldn't Normally Do This Kind Of Thing
@@ -26,23 +27,12 @@ styles: ["House", "Synth-pop", "Dance-pop"]
 10. Young Offender
 11. One In A Million
 12. Go West
+
+
 ## Spotify
 {{< spotify type="album" id="7dXbIAGY0APVFyWPRP4vlC" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="Me4AhOi6LYE" title="Pet Shop Boys - Can You Forgive Her?" >}}
-- [Pet Shop Boys - The Theatre (live) 1997 [HD]](https://www.youtube.com/watch?v=aEKUiBvEovM)
-- [VERY PET SHOP BOYS 1993](https://www.youtube.com/watch?v=Mt71C7nSlmw)
-- [Pet Shop Boys - Can You Forgive Her? (2003 Digital Remaster)](https://www.youtube.com/watch?v=BN1Fh-Y1L6I)
-- [♫ Pet Shop Boys - Very ❝Relentless❞ (Full Album)](https://www.youtube.com/watch?v=JHXgQW0gCTA)
-- [Pet Shop Boys - Go West (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=LNBjMRvOB5M)
-- [Pet Shop Boys - Go West (Extended Version) (HD)](https://www.youtube.com/watch?v=cfGTm_viXPs)
-- [Pet Shop Boys - Go West 1992](https://www.youtube.com/watch?v=CGNFnBcq6jo)
-- [Pet Shop Boys - Can You Forgive Her? on Top of the Pops 10/06/1993](https://www.youtube.com/watch?v=dvaDjfxftbM)
-- [Pet Shop Boys - I Wouldn't Normally Do This Kind Of Thing](https://www.youtube.com/watch?v=AnwREox5JrU)
-- [Pet Shop Boys - Can You Forgive Her - Production Video](https://www.youtube.com/watch?v=FAhKQ4IqanE)
-- [Pet Shop Boys - Liberation](https://www.youtube.com/watch?v=vtlM1F8guPc)
-- [Pet Shop Boys - Yesterday When I Was Mad](https://www.youtube.com/watch?v=jS0fsoyrFg4)
+
 
 ## Notes
 | Notes          |             |
@@ -50,7 +40,25 @@ styles: ["House", "Synth-pop", "Dance-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Pet Shop Boys - Very](https://www.discogs.com/release/12452813-Pet-Shop-Boys-Very) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Catalog Number | 0190295823085 |
 
-[Sticker on shrinkwrap:] Pressed onto 180g heavyweight  vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company.  All rights reserved. Made in the EU  [From inner sleeve:] Recorded at Sarm West, London. Orchestra recorded at Angel Studios, London. Choir on Go West recorded at The Power Station, New York. Mixed at Rak Studios, London. Mastered at Gateway Mastering, Maine, USA.  Optimal credit extrapolated from runout data.
+[Sticker on shrinkwrap:]
+Pressed onto 180g heavyweight 
+vinyl featuring a brand new 2018
+remaster of the original album
+
+[From back cover:]
+℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company
+© 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. 
+All rights reserved.
+Made in the EU
+
+[From inner sleeve:]
+Recorded at Sarm West, London.
+Orchestra recorded at Angel Studios, London.
+Choir on Go West recorded at The Power Station, New York.
+Mixed at Rak Studios, London.
+Mastered at Gateway Mastering, Maine, USA.
+
+Optimal credit extrapolated from runout data.

@@ -2,7 +2,7 @@
 title: "Wings - Band On The Run"
 artist: "Wings"
 album_name: "Band On The Run"
-date: 2016-04-08
+date: 2016-04-08T19:08:40.000000Z
 release_id: "778278"
 slug: "band-on-the-run-778278"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Band On The Run (5:12)
 2. Jet (4:09)
@@ -23,11 +24,13 @@ styles: ["Pop Rock"]
 7. No Words (2:35)
 8. Picasso's Last Words (Drink To Me) (5:49)
 9. Nineteen Hundred And Eighty Five (5:28)
-## Spotify
-{{< spotify type="album" id="257oomaawruFknt5wYCPDh" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="RjlvdcBAKdg" title="Band On The Run (Remastered 2010)" >}}
+- [Paul McCartney & Wings - Band On The Run (European Reissue CD) (Made In Japan)](https://www.youtube.com/watch?v=SDUvH8Qi2Sg)
 - [Jet (Remastered 2010)](https://www.youtube.com/watch?v=zyRDkSVGZ_4)
 - [Bluebird (Remastered 2010)](https://www.youtube.com/watch?v=crV239HtBiY)
 - [Mrs. Vandebilt (Remastered 2010)](https://www.youtube.com/watch?v=aIh6UdXTBFs)
@@ -42,8 +45,12 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1973 |
 | Discogs Link   | [Wings - Band On The Run](https://www.discogs.com/release/778278-Paul-McCartney-And-Wings-Band-On-The-Run) |
-| Label          | Apple Records, Apple Records |
-| Format         | LP, Album |
-| Catalog Number | PAS 10007, OC 064 ◦ 05503 |
+| Label          | Apple Records |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | PAS 10007 |
 
-Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.  Also available on cassette and cartridge. ℗ 1973 EMI Records Ltd.  An Apple Record.  This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.
+Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.  Also available on cassette and cartridge.
+℗ 1973 EMI Records Ltd. 
+An Apple Record.
+
+This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.

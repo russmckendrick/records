@@ -2,7 +2,7 @@
 title: "Janis Joplin - Janis Joplin's Greatest Hits"
 artist: "Janis Joplin"
 album_name: "Janis Joplin's Greatest Hits"
-date: 2017-11-24
+date: 2017-11-24T18:41:18.000000Z
 release_id: "11176700"
 slug: "janis-joplin-s-greatest-hits-11176700"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
+
 ## Tracklisting
 1. Piece Of My Heart (4:19)
 2. Summertime (4:01)
@@ -24,8 +25,12 @@ styles: ["Blues Rock"]
 8. Bye, Bye Baby (2:36)
 9. Move Over (3:40)
 10. Ball And Chain (8:01)
+
+
 ## Spotify
 {{< spotify type="album" id="4qHWXbp5TbUWqH35c6m8kN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="A24JZkgvNv4" title="Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)" >}}
@@ -42,8 +47,14 @@ styles: ["Blues Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Janis Joplin - Janis Joplin's Greatest Hits](https://www.discogs.com/release/11176700-Janis-Joplin-Janis-Joplins-Greatest-Hits) |
-| Label          | Columbia, Legacy, Sony Music |
-| Format         | LP, Comp, RE, Pin |
+| Label          | Columbia |
+| Format         | Vinyl LP Compilation Reissue (Pink & Blue Splattered Clear) |
 | Catalog Number | 88985479731 |
 
-THE CLASSIC GREATEST HITS SERIES FIRST TIME AVAILABLE ON VINYL IN 27 YEARS PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL  For Record Store Day's Black Friday 2017  Inc MP3 download
+THE CLASSIC GREATEST HITS SERIES
+FIRST TIME AVAILABLE ON VINYL IN 27 YEARS
+PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL
+
+For Record Store Day's Black Friday 2017
+
+Inc MP3 download

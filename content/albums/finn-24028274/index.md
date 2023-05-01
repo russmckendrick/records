@@ -2,7 +2,7 @@
 title: "The Finn Brothers - Finn"
 artist: "The Finn Brothers"
 album_name: "Finn"
-date: 2022-07-29
+date: 2022-07-29T05:10:46.000000Z
 release_id: "24028274"
 slug: "finn-24028274"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 ---
+
 ## Tracklisting
 1. Finn
 2. Only Talking Sense
@@ -38,8 +39,12 @@ styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 22. In Love With It All (Demo)
 23. How Will You Go (Demo)
 24. Weather With You (End Piece)
+
+
 ## Spotify
 {{< spotify type="album" id="1hd9IzmLyGV1BTzEx5P7VJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7Kl-Y5ISIvM" title="Finn Brothers - Only Talking Sense" >}}
@@ -50,7 +55,11 @@ styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Finn Brothers - Finn](https://www.discogs.com/release/24028274-The-Finn-Brothers-Finn) |
 | Label          | Needle Mythology |
-| Format         | LP, Album, RE + LP + Comp, Dlx, 180 |
+| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Compilation Deluxe Edition Stereo (180 Gram) |
 | Catalog Number | NEMYLP006 |
 
-Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95.  This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd.  Initial quantity from artist website included a cover print signed by Neil and Tim Finn.  Track D6 is unlisted. Title for track taken from [r18754873].
+Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95. 
+This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd. 
+Initial quantity from artist website included a cover print signed by Neil and Tim Finn.
+
+Track D6 is unlisted. Title for track taken from [r18754873].

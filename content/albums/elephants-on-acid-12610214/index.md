@@ -2,7 +2,7 @@
 title: "Cypress Hill - Elephants On Acid"
 artist: "Cypress Hill"
 album_name: "Elephants On Acid"
-date: 2018-10-17
+date: 2018-10-17T17:37:44.000000Z
 release_id: "12610214"
 slug: "elephants-on-acid-12610214"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Elephants On Acid by Cypress Hill"
     caption: "Elephants On Acid by Cypress Hill"
 genres: ["Hip Hop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Tusko
 2. Band Of Gypsies
@@ -56,8 +57,12 @@ styles: null
 40. Muggs Is Dead
 41. Blood On My Hands Again
 42. Stairway To Heaven
+
+
 ## Spotify
 {{< spotify type="album" id="2CnvBTLTov5YDGM2axRKcQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="etAPOcsHgOk" title="Cypress Hill - Tusko (Intro) (Audio)" >}}
@@ -86,7 +91,12 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Cypress Hill - Elephants On Acid](https://www.discogs.com/release/12610214-Cypress-Hill-Elephants-On-Acid) |
 | Label          | BMG |
-| Format         | 2xLP, Album + CD, Album |
+| Format         | Vinyl 2× LP Album, CD Album |
 | Catalog Number | 538415541 |
 
-Manufactured in Poland Made in the E.U  Printed innersleeves  Comes in gatefold This version also contains the CD version - comes with a paper sleeve
+Manufactured in Poland
+Made in the E.U
+
+Printed innersleeves 
+Comes in gatefold
+This version also contains the CD version - comes with a paper sleeve

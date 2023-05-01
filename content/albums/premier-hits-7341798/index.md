@@ -1,18 +1,19 @@
 ---
-title: "Gary Numan / Tubeway Army - Premier Hits"
-artist: "Gary Numan / Tubeway Army"
+title: "Gary Numan - Premier Hits"
+artist: "Gary Numan"
 album_name: "Premier Hits"
-date: 2015-08-15
+date: 2015-08-15T08:06:31.000000Z
 release_id: "7341798"
 slug: "premier-hits-7341798"
 hideSummary: true
 cover:
     image: "premier-hits-7341798.jpg"
-    alt: "Premier Hits by Gary Numan / Tubeway Army"
-    caption: "Premier Hits by Gary Numan / Tubeway Army"
+    alt: "Premier Hits by Gary Numan"
+    caption: "Premier Hits by Gary Numan"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Cars 
 2. I Die: You Die (3:43)
@@ -36,6 +37,12 @@ styles: ["Synth-pop"]
 20. Sister Surprise (5:01)
 21. Stormtrooper In Drag
 
+
+## Spotify
+{{< spotify type="album" id="11xmqFLdgh7YEGcX7iYJ8E" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="kLfz2bbxxuM" title="Gary Numan - Metal" >}}
 - [Gary Numan - Cars](https://www.youtube.com/watch?v=Im3JzxlatUs)
@@ -53,9 +60,7 @@ styles: ["Synth-pop"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
-| Discogs Link   | [Gary Numan / Tubeway Army - Premier Hits](https://www.discogs.com/release/7341798-Gary-Numan-Tubeway-Army-Premier-Hits) |
+| Discogs Link   | [Gary Numan - Premier Hits](https://www.discogs.com/release/7341798-Gary-Numan-Tubeway-Army-Premier-Hits) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Comp, RE |
+| Format         | Vinyl 2× LP Compilation Reissue |
 | Catalog Number | BBQLP 2007 |
-
-

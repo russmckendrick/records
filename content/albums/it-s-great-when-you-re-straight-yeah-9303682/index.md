@@ -2,7 +2,7 @@
 title: "Black Grape - It's Great When You're Straight...Yeah"
 artist: "Black Grape"
 album_name: "It's Great When You're Straight...Yeah"
-date: 2016-11-09
+date: 2016-11-09T17:53:52.000000Z
 release_id: "9303682"
 slug: "it-s-great-when-you-re-straight-yeah-9303682"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
+
 ## Tracklisting
 1. Reverend Black Grape (5:21)
 2. In The Name Of The Father (4:21)
@@ -24,12 +25,17 @@ styles: ["Pop Rock", "Funk"]
 8. Submarine (3:50)
 9. Shake Your Money (4:13)
 10. Little Bob (5:33)
+
+
 ## Spotify
 {{< spotify type="album" id="3A0BH6NwwS00OMn59A6rnE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2_zaLwdbQYU" title="Black Grape - In the Name of the Father" >}}
 - [Black Grape Reverend Black Grape](https://www.youtube.com/watch?v=ik9HDX8hJV0)
+- [Black Grape - Pretty Vacant - TFI Friday.MPG](https://www.youtube.com/watch?v=WyacZq8ulcA)
 - [Black Grape - Reverend Black Grape](https://www.youtube.com/watch?v=6uAM1o86znk)
 - [Black Grape Yeah Yeah Brother](https://www.youtube.com/watch?v=1GGpbh0fBu8)
 - [Black Grape - Kelly's Heroes (The Milky Bar Kid Mix/Audio)](https://www.youtube.com/watch?v=k8NQ11JtbyA)
@@ -47,8 +53,11 @@ styles: ["Pop Rock", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Black Grape - It's Great When You're Straight...Yeah](https://www.discogs.com/release/9303682-Black-Grape-Its-Great-When-Youre-StraightYeah) |
-| Label          | Radioactive, Geffen Records |
-| Format         | LP, Album, RE, 180 |
+| Label          | Radioactive |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | 5373030 |
 
-Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London. A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069]. Contains a [l1052727] download coupon. Side B is labeled X on release.
+Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London.
+A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069].
+Contains a [l1052727] download coupon.
+Side B is labeled X on release.

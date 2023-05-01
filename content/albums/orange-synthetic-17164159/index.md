@@ -2,7 +2,7 @@
 title: "Cobalt Chapel - Orange Synthetic"
 artist: "Cobalt Chapel"
 album_name: "Orange Synthetic"
-date: 2021-02-28
+date: 2021-02-28T09:11:36.000000Z
 release_id: "17164159"
 slug: "orange-synthetic-17164159"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. In Company (4:27)
 2. The Sequel (3:49)
@@ -24,8 +25,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 8. Pretty Mire, Be My Friend (4:04)
 9. E.B. (2:15)
 10. Orange Synthetic (6:21)
+
+
 ## Spotify
 {{< spotify type="album" id="4wzOcamZNvEGQkJptxZQcx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}
@@ -40,7 +45,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Cobalt Chapel - Orange Synthetic](https://www.discogs.com/release/17164159-Cobalt-Chapel-Orange-Synthetic) |
 | Label          | Klove |
-| Format         | LP, Album, Ltd, Ora |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
 | Catalog Number | KLOVE 2VA |
 
 Some copies signed by artists. Includes insert.

@@ -2,7 +2,7 @@
 title: "Mew - Visuals"
 artist: "Mew"
 album_name: "Visuals"
-date: 2017-04-28
+date: 2017-04-28T14:37:26.000000Z
 release_id: "10187981"
 slug: "visuals-10187981"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Nothingness And No Regrets
 2. The Wake Of Your Life
@@ -25,8 +26,12 @@ styles: ["Indie Rock", "Prog Rock"]
 9. 85 Videos
 10. Zanzibar
 11. Carry Me To Safety
+
+
 ## Spotify
 {{< spotify type="album" id="63sDkky1tDgS9oF2gSh2ry" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6w8SpxnhKuI" title="Mew - Carry Me To Safety (Official Audio)" >}}
@@ -39,8 +44,8 @@ styles: ["Indie Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Mew - Visuals](https://www.discogs.com/release/10187981-Mew-Visuals) |
-| Label          | Play It Again Sam, [PIAS] |
-| Format         | LP, Album, Gat |
+| Label          | Play It Again Sam |
+| Format         | Vinyl LP Album (Gatefold, 180g) |
 | Catalog Number | PIASR940LP |
 
 There is no data of trackduration on this release

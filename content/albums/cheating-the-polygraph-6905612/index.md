@@ -2,7 +2,7 @@
 title: "Gavin Harrison - Cheating The Polygraph"
 artist: "Gavin Harrison"
 album_name: "Cheating The Polygraph"
-date: 2022-01-05
+date: 2022-01-05T03:54:49.000000Z
 release_id: "6905612"
 slug: "cheating-the-polygraph-6905612"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Cheating The Polygraph by Gavin Harrison"
     caption: "Cheating The Polygraph by Gavin Harrison"
 genres: ["Jazz"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. What Happens Now? (7:32)
 2. Sound Of Muzak / So Called Friend (5:56)
@@ -22,8 +23,12 @@ styles: null
 6. Hatesong / Halo (8:17)
 7. Cheating The Polygraph / Mother & Child Divided (5:29)
 8. Futile (6:04)
+
+
 ## Spotify
 {{< spotify type="album" id="4Y0OSDJZEqyoQoDltpeOv2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZwaqOBXpEDs" title="Gavin Harrison Cheating The Polygraph/Mother & Child Divided" >}}
@@ -35,7 +40,11 @@ styles: null
 | Release Year   | 2015 |
 | Discogs Link   | [Gavin Harrison - Cheating The Polygraph](https://www.discogs.com/release/6905612-Gavin-Harrison-Cheating-The-Polygraph) |
 | Label          | Kscope |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | KSCOPE876 |
 
-The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).  180g heavyweight vinyl, gatefold cover.  All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison.
+The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).
+
+180g heavyweight vinyl, gatefold cover.
+
+All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison.

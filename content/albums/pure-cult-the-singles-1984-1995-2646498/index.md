@@ -2,7 +2,7 @@
 title: "The Cult - Pure Cult The Singles 1984 - 1995"
 artist: "The Cult"
 album_name: "Pure Cult The Singles 1984 - 1995"
-date: 2017-02-02
+date: 2017-02-02T17:47:04.000000Z
 release_id: "2646498"
 slug: "pure-cult-the-singles-1984-1995-2646498"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. She Sells Sanctuary (4:12)
 2. Fire Woman (5:07)
@@ -33,6 +34,9 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 17. Sun King (4:56)
 18. Wild Hearted Son (4:24)
 19. Sweet Soul Sister (3:29)
+
+
+
 
 ## Videos
 {{< youtube id="cQS4TzB0EvU" title="She Sells Sanctuary" >}}
@@ -61,7 +65,7 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 | Release Year   | 2011 |
 | Discogs Link   | [The Cult - Pure Cult The Singles 1984 - 1995](https://www.discogs.com/release/2646498-The-Cult-Pure-Cult-The-Singles-1984-1995) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Comp, RE, RM, Gat |
+| Format         | Vinyl 2× LP Remastered Reissue Compilation (Gatefold) |
 | Catalog Number | BBQLP 2026 |
 
 © 2010 Beggars Banquet

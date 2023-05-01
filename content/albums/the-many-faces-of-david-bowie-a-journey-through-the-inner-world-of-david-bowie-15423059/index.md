@@ -2,7 +2,7 @@
 title: "Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
 artist: "Various"
 album_name: "The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
-date: 2021-06-07
+date: 2021-06-07T10:54:47.000000Z
 release_id: "15423059"
 slug: "the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanson", "Blues Rock"]
 ---
+
 ## Tracklisting
 1. The Many Faces of David Bowie
 2. You've Been Around
@@ -38,6 +39,9 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 22. Sorrow
 23. Around And Around
 24. La Mort (My Death)
+
+
+
 
 ## Videos
 {{< youtube id="PemstNpfIvg" title="David Bowie-  You've Been Around (with Reeves Gabrels)" >}}
@@ -82,7 +86,17 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 | Release Year   | 2020 |
 | Discogs Link   | [Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie](https://www.discogs.com/release/15423059-Various-The-Many-Faces-Of-David-Bowie-A-Journey-Through-The-Inner-World-Of-David-Bowie) |
 | Label          | Music Brokers |
-| Format         | LP, Comp, Red + LP, Comp, Blu + Ltd, RE, Gat |
+| Format         | Vinyl LP Compilation (Red), Vinyl LP Compilation (Blue), All Media Limited Edition Reissue (Gatefold) |
 | Catalog Number | VYN048 |
 
-Hype sticker reads: Double LP Gatefold 180 GR Color Vinyl Limited Edition  Manufactured in France (p) 2020 Music Brokers  Runout VYN 048 A/B/C/D etched other stamped
+Hype sticker reads:
+Double LP
+Gatefold
+180 GR
+Color Vinyl
+Limited Edition
+
+Manufactured in France
+(p) 2020 Music Brokers
+
+Runout VYN 048 A/B/C/D etched other stamped

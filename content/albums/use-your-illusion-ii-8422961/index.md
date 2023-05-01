@@ -2,7 +2,7 @@
 title: "Guns N' Roses - Use Your Illusion II"
 artist: "Guns N' Roses"
 album_name: "Use Your Illusion II"
-date: 2016-06-21
+date: 2016-06-21T16:39:55.000000Z
 release_id: "8422961"
 slug: "use-your-illusion-ii-8422961"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Civil War (7:42)
 2. 14 Years (4:21)
@@ -28,8 +29,12 @@ styles: ["Rock & Roll", "Hard Rock", "Pop Rock", "Classic Rock"]
 12. You Could Be Mine (5:43)
 13. Don't Cry (Alt. Lyrics) (4:44)
 14. My World (1:23)
+
+
 ## Spotify
 {{< spotify type="album" id="00eiw4KOJZ7eC3NBEpmH4C" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FOLaMrCIQAY" title="Gu̲ns N'Ro̲se̲s - Use Your Illusion II (Full Album)" >}}
@@ -39,8 +44,10 @@ styles: ["Rock & Roll", "Hard Rock", "Pop Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Guns N' Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |
-| Label          | Geffen Records, Uzi Suicide Records |
-| Format         | 2xLP, Album, RE, RM, RP |
+| Label          | Geffen Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered Repress |
 | Catalog Number | 0720642442012 |
 
-Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].  2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic."
+Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].
+
+2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic."

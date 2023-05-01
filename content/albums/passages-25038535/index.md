@@ -2,7 +2,7 @@
 title: "Jesus Jones - Passages"
 artist: "Jesus Jones"
 album_name: "Passages"
-date: 2022-11-03
+date: 2022-11-03T14:00:02.000000Z
 release_id: "25038535"
 slug: "passages-25038535"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Where Are All The Dreams?
 2. Suck It Up
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Grateful
 9. One Day At A Time
 10. Stripped
+
+
 ## Spotify
 {{< spotify type="album" id="0sMKZOihmPdESS8suMaA4j" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="VQN-2UBfJSI" title="Jesus Jones  - Suck It Up" >}}
@@ -38,7 +43,5 @@ styles: ["Alternative Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Jesus Jones - Passages](https://www.discogs.com/release/25038535-Jesus-Jones-Passages) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Tra |
+| Format         | Vinyl LP Album Reissue (Transparent Yellow) |
 | Catalog Number | DEMREC957 |
-
-

@@ -2,7 +2,7 @@
 title: "Kraftwerk - 3-D (The Catalogue)"
 artist: "Kraftwerk"
 album_name: "3-D (The Catalogue)"
-date: 2017-06-24
+date: 2017-06-24T15:07:18.000000Z
 release_id: "10349797"
 slug: "3-d-the-catalogue-10349797"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno", "Electro", "Experimental"]
 ---
+
 ## Tracklisting
 1. 1 Autobahn
 2. Autobahn (14:27)
@@ -91,8 +92,11 @@ styles: ["Techno", "Electro", "Experimental"]
 75. Vitamin (5:54)
 76. La Forme (6:19)
 77. Regeneration (0:28)
+
+
 ## Spotify
 {{< spotify type="album" id="6nnO5r6I1JtSZ8eTwwIiIF" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -100,8 +104,11 @@ styles: ["Techno", "Electro", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Kraftwerk - 3-D (The Catalogue)](https://www.discogs.com/release/10349797-Kraftwerk-3-D-The-Catalogue) |
-| Label          | Parlophone, Kling Klang |
-| Format         | Box + LP, Album + LP, Album + LP, Album + LP, Albu |
+| Label          | Parlophone |
+| Format         | Box Set, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Album (Headphone Surround 3D), Vinyl LP Album |
 | Catalog Number | 0190295923518 |
 
-Sticker on release reads: 8 Album Vinyl Box-Set - New Recordings 2012-2016 Album 7 / Headphone Surround 3D + download card
+Sticker on release reads:
+8 Album Vinyl Box-Set - New Recordings 2012-2016
+Album 7 / Headphone Surround 3D
++ download card

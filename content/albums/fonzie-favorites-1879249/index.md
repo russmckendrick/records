@@ -2,7 +2,7 @@
 title: "Various - Fonzie Favorites"
 artist: "Various"
 album_name: "Fonzie Favorites"
-date: 2020-08-02
+date: 2020-08-02T13:44:33.000000Z
 release_id: "1879249"
 slug: "fonzie-favorites-1879249"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Rock & Roll", "Ballad", "Theme"]
 ---
+
 ## Tracklisting
 1. Happy Days Theme
 2. Bony Moronie
@@ -39,6 +40,9 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 23. Let The Little Girl Dance
 24. Happy Days Theme
 
+
+
+
 ## Videos
 {{< youtube id="wfM8UgSzopU" title="THE FONZ SONG by The Heyettes (1976)" >}}
 - [Happy Days intro](https://www.youtube.com/watch?v=6W6y7YhHdVE)
@@ -64,8 +68,13 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 | ---------------| ----------- |
 | Release Year   | 1976 |
 | Discogs Link   | [Various - Fonzie Favorites](https://www.discogs.com/release/1879249-Various-Fonzie-Favorites) |
-| Label          | Warwick Records, Warwick Records |
-| Format         | LP, Album, Comp |
-| Catalog Number | WW5037, WW 5037 |
+| Label          | Warwick Records |
+| Format         | Vinyl LP Album Compilation |
+| Catalog Number | WW5037 |
 
-The last track on Side One is an "impressionist" track containing the expressions Aaaaay, Cool, Nerd, Sit on it! Listen and learn to use Fonzie's favorite phrases perfectly!  Cat. no WW5037 on sleeve, WW 5037 on labels.  Novelty cover: back is die cut to open up like a picture frame stand.  Front cover photo credit - TRI-ADS/Sid Brawer © 1976 Paramount Pictures © 1976 Tri-Ads
+The last track on Side One is an "impressionist" track containing the expressions Aaaaay, Cool, Nerd, Sit on it! Listen and learn to use Fonzie's favorite phrases perfectly!
+
+Cat. no WW5037 on sleeve, WW 5037 on labels.
+
+Novelty cover: back is die cut to open up like a picture frame stand. 
+Front cover photo credit - TRI-ADS/Sid Brawer © 1976 Paramount Pictures © 1976 Tri-Ads

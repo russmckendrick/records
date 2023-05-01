@@ -2,7 +2,7 @@
 title: "Snarky Puppy - Immigrance"
 artist: "Snarky Puppy"
 album_name: "Immigrance"
-date: 2020-01-25
+date: 2020-01-25T14:28:55.000000Z
 release_id: "13391155"
 slug: "immigrance-13391155"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Fusion"]
 ---
+
 ## Tracklisting
 1. Chonks (8:32)
 2. Bigly Strictness (7:37)
@@ -22,8 +23,12 @@ styles: ["Fusion"]
 6. While We're Young (2:42)
 7. Bad Kids To The Back (5:45)
 8. Even Us (7:43)
+
+
 ## Spotify
 {{< spotify type="album" id="6a1HtLhd3zNccXRNUZ23ge" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tmeJsETS-Yk" title="Chonks" >}}
@@ -42,8 +47,23 @@ styles: ["Fusion"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Snarky Puppy - Immigrance](https://www.discogs.com/release/13391155-Snarky-Puppy-Immigrance) |
-| Label          | GroundUP Music |
-| Format         | LP + LP, S/Sided, Etch + Album |
+| Label          | GroundUP Music (2) |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Catalog Number | GUM0319V |
 
-Distributed in a gatefold sleeve. Includes an mp3 download card.  Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York Additional recording by Camilo Salazar at Morley College in London, England Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York Mastered by Dave McNair in Winston-Salem, North Carolina  Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC) Track A3: © Big Boy Big Girl (ASCAP) Track B1: © Ceebull Music (SESAC) Track B3: © Mazarito Music (SESAC) Track C1: © J Stant Music (SESAC)  ℗ & © 2019 GroundUp Music LLC
+Distributed in a gatefold sleeve.
+Includes an mp3 download card.
+
+Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas
+Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York
+Additional recording by Camilo Salazar at Morley College in London, England
+Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York
+Mastered by Dave McNair in Winston-Salem, North Carolina
+
+Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC)
+Track A3: © Big Boy Big Girl (ASCAP)
+Track B1: © Ceebull Music (SESAC)
+Track B3: © Mazarito Music (SESAC)
+Track C1: © J Stant Music (SESAC)
+
+℗ & © 2019 GroundUp Music LLC

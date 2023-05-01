@@ -2,7 +2,7 @@
 title: "Johnny Marr - Fever Dreams Pts 1-4"
 artist: "Johnny Marr"
 album_name: "Fever Dreams Pts 1-4"
-date: 2022-02-25
+date: 2022-02-25T09:31:02.000000Z
 release_id: "22287256"
 slug: "fever-dreams-pts-1-4-22287256"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Part 1
 2. Spirit Power & Soul
@@ -34,8 +35,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 18. Ghoster
 19. The Whirl
 20. Human
+
+
 ## Spotify
 {{< spotify type="album" id="0ajgwYZ4Zp9wq3Zy12El05" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-8NMZguzcx0" title="Johnny Marr – Complete A Side [ Fever Dreams Pts 1-4 Limited Edition, Turquoise LP ]" >}}
@@ -52,7 +57,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Johnny Marr - Fever Dreams Pts 1-4](https://www.discogs.com/release/22287256-Johnny-Marr-Fever-Dreams-Pts-1-4) |
 | Label          | BMG |
-| Format         | 2xLP, Album, Ltd, Tur |
+| Format         | Vinyl 2× LP Album Limited Edition (Turquoise) |
 | Catalog Number | NVLP005T |
 
-Gatefold sleeve with inner sleeves with lyrics printed on them. Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"  Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.  Manufactured in Poland.  Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr.
+Gatefold sleeve with inner sleeves with lyrics printed on them.
+Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"
+
+Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.
+
+Manufactured in Poland.
+
+Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr.

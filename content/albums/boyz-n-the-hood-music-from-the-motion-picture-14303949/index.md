@@ -2,7 +2,7 @@
 title: "Various - Boyz N The Hood (Music From The Motion Picture)"
 artist: "Various"
 album_name: "Boyz N The Hood (Music From The Motion Picture)"
-date: 2020-07-14
+date: 2020-07-14T11:07:39.000000Z
 release_id: "14303949"
 slug: "boyz-n-the-hood-music-from-the-motion-picture-14303949"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ---
+
 ## Tracklisting
 1. How To Survive In South Central (3:40)
 2. Just Ask Me To (4:08)
@@ -29,6 +30,9 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 13. Setembro
 14. Black On Black Crime
 
+
+
+
 ## Videos
 {{< youtube id="-2L2JoIrCG4" title="Every Single Weekend" >}}
 - [Stanley Clarke-Boyz N The Hood Theme](https://www.youtube.com/watch?v=qsvAI3A7c_c)
@@ -44,8 +48,6 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949-Various-Boyz-N-The-Hood-Music-From-The-Motion-Picture) |
-| Label          | Universal, Qwest Records |
-| Format         | 2xLP, Comp, Ltd, RE, Blu |
+| Label          | Universal |
+| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Blue Translucent, 180g) |
 | Catalog Number | B0030621-01 |
-
-

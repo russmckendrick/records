@@ -2,7 +2,7 @@
 title: "Blackfield - Open Mind (The Best Of Blackfield)"
 artist: "Blackfield"
 album_name: "Open Mind (The Best Of Blackfield)"
-date: 2021-02-07
+date: 2021-02-07T02:15:54.000000Z
 release_id: "12599468"
 slug: "open-mind-the-best-of-blackfield-12599468"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Krautrock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Blackfield (4:06)
 2. Family Man (3:37)
@@ -29,8 +30,12 @@ styles: ["Krautrock", "Alternative Rock"]
 13. Faking (3:33)
 14. Dissolving With The Night (4:08)
 15. End Of The World (5:14)
+
+
 ## Spotify
 {{< spotify type="album" id="55j4GzT3zf2HxUiVRqn3Nz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind (from Open Mind: The Best of Blackfield)" >}}
@@ -40,8 +45,10 @@ styles: ["Krautrock", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Blackfield - Open Mind (The Best Of Blackfield)](https://www.discogs.com/release/12599468-Blackfield-Open-Mind-The-Best-Of-Blackfield) |
-| Label          | Kscope, Kscope |
-| Format         | LP, Yel + LP, S/Sided, Etch, Yel + Comp, Ltd |
-| Catalog Number | kscope 1016, KSCOPE980 |
+| Label          | Kscope |
+| Format         | Vinyl LP (Yellow [Sun Yellow]), Vinyl LP Single Sided Etched (Yellow [Sun Yellow]), All Media Compilation Limited Edition |
+| Catalog Number | kscope 1016 |
 
-℗ & © 2018 Snapper Music Ltd.  The catalog number kscope 1016 only appears on the sticker on the bag the release comes in.
+℗ & © 2018 Snapper Music Ltd.
+
+The catalog number kscope 1016 only appears on the sticker on the bag the release comes in.

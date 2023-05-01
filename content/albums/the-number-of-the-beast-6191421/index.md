@@ -2,7 +2,7 @@
 title: "Iron Maiden - The Number Of The Beast"
 artist: "Iron Maiden"
 album_name: "The Number Of The Beast"
-date: 2016-06-27
+date: 2016-06-27T17:45:32.000000Z
 release_id: "6191421"
 slug: "the-number-of-the-beast-6191421"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Invaders (3:20)
 2. Children Of The Damned (4:34)
@@ -22,9 +23,22 @@ styles: ["Heavy Metal"]
 6. Run To The Hills (3:50)
 7. Gangland (3:46)
 8. Hallowed Be Thy Name (7:08)
+
+
 ## Spotify
 {{< spotify type="album" id="33d72N71hl9bXwT4zAcqUy" width="100%" height="500" >}}
 
+
+
+## Videos
+{{< youtube id="iQ5JAxPqum0" title="Invaders (2015 Remaster)" >}}
+- [Children of the Damned (2015 Remaster)](https://www.youtube.com/watch?v=wsuj2uhGBvY)
+- [The Prisoner (2015 Remaster)](https://www.youtube.com/watch?v=MLYdFSaE4tk)
+- [22 Acacia Avenue (2015 Remaster)](https://www.youtube.com/watch?v=T5WpPLRrhac)
+- [Iron Maiden - The Number Of The Beast (Official Video)](https://www.youtube.com/watch?v=WxnN05vOuSM)
+- [Iron Maiden - Run To The Hills (Official Video)](https://www.youtube.com/watch?v=86URGgqONvA)
+- [Gangland (2015 Remaster)](https://www.youtube.com/watch?v=YMIKgVnB0ig)
+- [Hallowed Be Thy Name (2015 Remaster)](https://www.youtube.com/watch?v=HAQQUDbuudY)
 
 ## Notes
 | Notes          |             |
@@ -32,7 +46,9 @@ styles: ["Heavy Metal"]
 | Release Year   | 2014 |
 | Discogs Link   | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421-Iron-Maiden-The-Number-Of-The-Beast) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | 2564625240 |
 
-Printed in EU.  Glossy cover and printed inner sleeve with photos, lyrics & credits.
+Printed in EU.
+
+Glossy cover and printed inner sleeve with photos, lyrics & credits.

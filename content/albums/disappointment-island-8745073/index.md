@@ -2,7 +2,7 @@
 title: "This Town Needs Guns - Disappointment Island"
 artist: "This Town Needs Guns"
 album_name: "Disappointment Island"
-date: 2016-08-30
+date: 2016-08-30T16:04:51.000000Z
 release_id: "8745073"
 slug: "disappointment-island-8745073"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Emo", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Coconut Crab
 2. A Chase Of Sorts
@@ -25,6 +26,9 @@ styles: ["Emo", "Indie Rock"]
 9. Sponkulus Nodge
 10. Empty Palms
 
+
+
+
 ## Videos
 {{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island [Full LP] (2016)" >}}
 
@@ -34,7 +38,5 @@ styles: ["Emo", "Indie Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [This Town Needs Guns - Disappointment Island](https://www.discogs.com/release/8745073-TTNG-Disappointment-Island) |
 | Label          | Sargent House |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | sh157 |
-
-

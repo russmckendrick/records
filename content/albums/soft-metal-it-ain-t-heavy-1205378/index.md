@@ -2,7 +2,7 @@
 title: "Various - Soft Metal - It Ain't Heavy . . . "
 artist: "Various"
 album_name: "Soft Metal - It Ain't Heavy . . . "
-date: 2019-03-24
+date: 2019-03-24T13:15:48.000000Z
 release_id: "1205378"
 slug: "soft-metal-it-ain-t-heavy-1205378"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
+
 ## Tracklisting
 1. Alone (3:35)
 2. Kayleigh (3:32)
@@ -32,6 +33,9 @@ styles: ["Soft Rock"]
 16. We Care A Lot (4:02)
 17. Burning Heart (3:46)
 18. St. Elmo's Fire (Man In Motion) (3:36)
+
+
+
 
 ## Videos
 {{< youtube id="1Cw1ng75KP0" title="Heart - Alone" >}}
@@ -59,7 +63,12 @@ styles: ["Soft Rock"]
 | Release Year   | 1988 |
 | Discogs Link   | [Various - Soft Metal - It Ain't Heavy . . . ](https://www.discogs.com/release/1205378-Various-Soft-Metal-It-Aint-Heavy--) |
 | Label          | Stylus Music |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation Stereo |
 | Catalog Number | SMR 862 |
 
-Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix Track A9 - Europe - The Final Countdown is the Album Version Track B1 - Starship - We Built This City is the Album Version Track B6 - Krokus - Screaming In The Night is a Live Version.  Durations do not appear on this release. Timings via stopwatch.
+Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix
+Track A9 - Europe - The Final Countdown is the Album Version
+Track B1 - Starship - We Built This City is the Album Version
+Track B6 - Krokus - Screaming In The Night is a Live Version.
+
+Durations do not appear on this release. Timings via stopwatch.

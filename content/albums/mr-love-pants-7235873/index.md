@@ -2,7 +2,7 @@
 title: "Ian Dury And The Blockheads - Mr Love Pants"
 artist: "Ian Dury And The Blockheads"
 album_name: "Mr Love Pants"
-date: 2016-09-21
+date: 2016-09-21T18:12:35.000000Z
 release_id: "7235873"
 slug: "mr-love-pants-7235873"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
+
 ## Tracklisting
 1. Jack Shit George (4:23)
 2. The Passing Show (4:24)
@@ -24,6 +25,9 @@ styles: ["Pop Rock", "Funk"]
 8. Bed O' Roses No. 9 (5:19)
 9. Heavy Living (5:08)
 10. Mash It Up Harry (5:53)
+
+
+
 
 ## Videos
 {{< youtube id="Mn78lswQ3Hw" title="Ian Dury & The Blockheads- Honeysuckle Highway (Demo)" >}}
@@ -41,7 +45,9 @@ styles: ["Pop Rock", "Funk"]
 | Release Year   | 2015 |
 | Discogs Link   | [Ian Dury And The Blockheads - Mr Love Pants](https://www.discogs.com/release/7235873-Ian-Dury-And-The-Blockheads-Mr-Love-Pants) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | DEMREC62 |
 
-Durations from playlist editor. ... & The vest is yet to come Manufactured under licence from Templemill Music Ltd
+Durations from playlist editor.
+... & The vest is yet to come
+Manufactured under licence from Templemill Music Ltd

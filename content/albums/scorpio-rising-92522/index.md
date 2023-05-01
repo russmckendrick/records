@@ -2,7 +2,7 @@
 title: "Death In Vegas - Scorpio Rising"
 artist: "Death In Vegas"
 album_name: "Scorpio Rising"
-date: 2016-01-27
+date: 2016-01-27T18:48:49.000000Z
 release_id: "92522"
 slug: "scorpio-rising-92522"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield"]
 ---
+
 ## Tracklisting
 1. Leather
 2. Girls
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Leftfield"]
 9. Diving Horses
 10. Help Yourself
 
+
+
+
 ## Videos
-{{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}
+{{< youtube id="YRhp8ygTPZM" title="Leather" >}}
+- [Death In Vegas - Scorpio Raising ft. Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
 - [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
 - [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
 - [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
@@ -41,8 +46,15 @@ styles: ["Alternative Rock", "Leftfield"]
 | ---------------| ----------- |
 | Release Year   | 2002 |
 | Discogs Link   | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/92522-Death-In-Vegas-Scorpio-Rising) |
-| Label          | Concrete, Concrete |
-| Format         | 2xLP, Album |
-| Catalog Number | HARD5312, 74321954591 |
+| Label          | Concrete |
+| Format         | Vinyl 2× LP Album |
+| Catalog Number | HARD5312 |
 
-Gatefold picture sleeve.  Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.  ℗&© 2002 BMG UK & Ireland Ltd.  All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd.   Made in the EU.
+Gatefold picture sleeve.
+
+Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.
+
+℗&© 2002 BMG UK & Ireland Ltd. 
+All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd. 
+
+Made in the EU.

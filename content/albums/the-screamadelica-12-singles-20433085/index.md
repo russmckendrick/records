@@ -1,18 +1,19 @@
 ---
-title: "Primal Scream - The Screamadelica 12\" Singles"
+title: "Primal Scream - The Screamadelica 12 Singles"
 artist: "Primal Scream"
-album_name: "The Screamadelica 12\" Singles"
-date: 2021-11-07
+album_name: "The Screamadelica 12 Singles"
+date: 2021-11-07T08:11:40.000000Z
 release_id: "20433085"
 slug: "the-screamadelica-12-singles-20433085"
 hideSummary: true
 cover:
     image: "the-screamadelica-12-singles-20433085.jpg"
-    alt: "The Screamadelica 12\" Singles by Primal Scream"
-    caption: "The Screamadelica 12\" Singles by Primal Scream"
+    alt: "The Screamadelica 12 Singles by Primal Scream"
+    caption: "The Screamadelica 12 Singles by Primal Scream"
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Loaded EP
 2. Loaded (7:00)
@@ -49,36 +50,19 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 33. Shine Like Stars (Andrew Weatherall Remix) (6:52)
 34. Shine Like Stars (Instrumental) (6:52)
 
-## Videos
-{{< youtube id="sNvUQka4wk0" title="Loaded (Andy Weatherall Mix)" >}}
-- [I'm Losing More Than I'll Ever Have](https://www.youtube.com/watch?v=GKuiBg4lMys)
-- [Ramblin' Rose (Live in NYC)](https://www.youtube.com/watch?v=0Pak4odQmEk)
-- [Loaded (Farley Mix 7)](https://www.youtube.com/watch?v=_H1sHyta-X8)
-- [Come Together (Terry Farley Extended 12 Mix)](https://www.youtube.com/watch?v=sRovKbH3BGU)
-- [Come Together (Andy Weatherall Extended Mix)](https://www.youtube.com/watch?v=d0UL-S1cwYA)
-- [Come Together (Hypnotone Brain Machine Mix)](https://www.youtube.com/watch?v=AEEuT1hojMk)
-- [Come Together (BBG Mix)](https://www.youtube.com/watch?v=LRXYH01ppbI)
-- [Higher Than the Sun (Higher Than the Sun 12 Mix)](https://www.youtube.com/watch?v=JGTkHYTZP2E)
-- [Higher Than the Sun (American Spring Mix)](https://www.youtube.com/watch?v=s7A_AX4qzTI)
-- [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
-- [Higher Than the Sun (Higher Than the Orb Extended Mix)](https://www.youtube.com/watch?v=chO5VDwQkkM)
-- [Don't Fight It, Feel It (12 Version)](https://www.youtube.com/watch?v=1TgKzaxebB8)
-- [Don't Fight It (Scat Mix)](https://www.youtube.com/watch?v=GZPsZK8U6fI)
-- [Don't Fight It (Graham Massey Mix)](https://www.youtube.com/watch?v=c41AHbJVWgA)
-- [Movin' on Up](https://www.youtube.com/watch?v=HvYrG8-W_C8)
-- [Stone My Soul](https://www.youtube.com/watch?v=Rza2yco5zZ8)
-- [Carry Me Home](https://www.youtube.com/watch?v=rB0yuGUS4A8)
-- [Screamadelica](https://www.youtube.com/watch?v=Rj1UmerlVPo)
-- [Primal Scream - Shine Like Stars (Andrew Weatherall Remix - Official Visualiser)](https://www.youtube.com/watch?v=eo61_ibHeaQ)
-- [Shine Like Stars (Instrumental)](https://www.youtube.com/watch?v=3DvlsOxq21w)
+
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
-| Discogs Link   | [Primal Scream - The Screamadelica 12\" Singles](https://www.discogs.com/release/20433085-Primal-Scream-The-Screamadelica-12-Singles) |
+| Discogs Link   | [Primal Scream - The Screamadelica 12" Singles](https://www.discogs.com/release/20433085-Primal-Scream-The-Screamadelica-12-Singles) |
 | Label          | Sony Music |
-| Format         | 12\", EP, RE, 180 + 12\", EP, RE, 180 + 12\", Single, |
+| Format         | Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single (180g), Box Set Compilation |
 | Catalog Number | 19439904541 |
 
-Includes download code and 3 Paul Carnell art prints.  A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets.  Some others are packaged upside down and the back cover is attached to the front side of the box.
+Includes download code and 3 Paul Carnell art prints.
+
+A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets. 
+Some others are packaged upside down and the back cover is attached to the front side of the box.

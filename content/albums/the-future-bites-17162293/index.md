@@ -2,7 +2,7 @@
 title: "Steven Wilson - The Future Bites"
 artist: "Steven Wilson"
 album_name: "The Future Bites"
-date: 2021-01-29
+date: 2021-01-29T07:02:41.000000Z
 release_id: "17162293"
 slug: "the-future-bites-17162293"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Unself
 2. Self
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Follower
 9. Count Of Unease
 10. Hey Sleeper (3:14)
+
+
 ## Spotify
 {{< spotify type="album" id="0tHQTsZepeMpMqgtBdaFRx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}
@@ -48,8 +53,14 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17162293-Steven-Wilson-The-Future-Bites) |
-| Label          | Caroline International, Arts & Crafts |
-| Format         | LP, Album + 7\", S/Sided, Ltd, Whi + Ltd, UK  |
+| Label          | Caroline International |
+| Format         | Vinyl LP Album, Vinyl 7" Single Sided Limited Edition (White), All Media Limited Edition (UK Tour Edition, O-Sleeve) |
 | Catalog Number | CAROL021LPTUK |
 
-This UK Tour Edition could be pre-ordered through Universal UK.  This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]   The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"  The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release.
+This UK Tour Edition could be pre-ordered through Universal UK.
+
+This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]
+ 
+The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"
+
+The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release.

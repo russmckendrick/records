@@ -2,7 +2,7 @@
 title: "The Polyphonic Spree - The Beginning Stages Of..."
 artist: "The Polyphonic Spree"
 album_name: "The Beginning Stages Of..."
-date: 2015-10-08
+date: 2015-10-08T07:49:19.000000Z
 release_id: "890127"
 slug: "the-beginning-stages-of-890127"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Section 1 (Have A Day/Celebratory)
 2. Section 2 (It's The Sun)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 8. Section 8 (Soldier Girl)
 9. Section 9 (Light & Day / Reach For The Sun)
 10. Section 10 (A Long Day)
+
+
 ## Spotify
-{{< spotify type="album" id="1fEqefj12ceIrhJ7DlmjQN" width="100%" height="500" >}}
+{{< spotify type="album" id="0kWukui3dsBDgpeL9u980v" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4uzddaCSwpE" title="THE POLYPHONIC SPREE soldier girl" >}}
@@ -38,7 +43,9 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 | Release Year   | 2002 |
 | Discogs Link   | [The Polyphonic Spree - The Beginning Stages Of...](https://www.discogs.com/release/890127-The-Polyphonic-Spree-The-Beginning-Stages-Of) |
 | Label          | 679 |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 679L011TLP |
 
-Additional voices on this recording include the members of the band as well as friends. Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000). Gatefold sleeve with printed inner sleeves.
+Additional voices on this recording include the members of the band as well as friends.
+Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).
+Gatefold sleeve with printed inner sleeves.

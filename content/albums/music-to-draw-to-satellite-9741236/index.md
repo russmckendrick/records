@@ -1,18 +1,19 @@
 ---
-title: "Kid Koala Featuring Emiliana Torrini - Music To Draw To: Satellite"
-artist: "Kid Koala Featuring Emiliana Torrini"
+title: "Kid Koala - Music To Draw To: Satellite"
+artist: "Kid Koala"
 album_name: "Music To Draw To: Satellite"
-date: 2017-04-22
+date: 2017-04-22T10:05:55.000000Z
 release_id: "9741236"
 slug: "music-to-draw-to-satellite-9741236"
 hideSummary: true
 cover:
     image: "music-to-draw-to-satellite-9741236.jpg"
-    alt: "Music To Draw To: Satellite by Kid Koala Featuring Emiliana Torrini"
-    caption: "Music To Draw To: Satellite by Kid Koala Featuring Emiliana Torrini"
+    alt: "Music To Draw To: Satellite by Kid Koala"
+    caption: "Music To Draw To: Satellite by Kid Koala"
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
+
 ## Tracklisting
 1. The Observable Universe
 2. Adrift
@@ -33,6 +34,12 @@ styles: ["Ambient"]
 17. Epilogue
 18. Nightfall: Pale Blue
 
+
+## Spotify
+{{< spotify type="album" id="1BqRGW49C8GQ4A6tRY4Ani" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="u8JLozxxGrg" title="Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)" >}}
 - [Kid Koala - The Observable Universe (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
@@ -42,9 +49,10 @@ styles: ["Ambient"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Kid Koala Featuring Emiliana Torrini - Music To Draw To: Satellite](https://www.discogs.com/release/9741236-Kid-Koala-Featuring-Emil%C3%ADana-Torrini-Music-To-Draw-To-Satellite) |
+| Discogs Link   | [Kid Koala - Music To Draw To: Satellite](https://www.discogs.com/release/9741236-Kid-Koala-Featuring-Emil%C3%ADana-Torrini-Music-To-Draw-To-Satellite) |
 | Label          | Arts & Crafts |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | A&C 129 |
 
-Includes 16p booklet  in CD booklet size (same as used for CD) and Digital Download Card (for MP3 download only)
+Includes 16p booklet  in CD booklet size (same as used for CD)
+and Digital Download Card (for MP3 download only)

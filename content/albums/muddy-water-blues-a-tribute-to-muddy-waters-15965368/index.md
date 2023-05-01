@@ -2,7 +2,7 @@
 title: "Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters"
 artist: "Paul Rodgers"
 album_name: "Muddy Water Blues - A Tribute to Muddy Waters"
-date: 2020-09-26
+date: 2020-09-26T05:27:29.000000Z
 release_id: "15965368"
 slug: "muddy-water-blues-a-tribute-to-muddy-waters-15965368"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
+
 ## Tracklisting
 1. Muddy Water Blues (Acoustic Version) (4:50)
 2. Louisiana Blues (4:02)
@@ -30,6 +31,9 @@ styles: ["Blues Rock"]
 14. Good Morning Little School Girl (Part 2) (3:03)
 15. Muddy Water Blues (Electric Version) (4:47)
 
+
+
+
 ## Videos
 {{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers ~ The Hunter" >}}
 - [Paul Rodgers - Muddy Water Blues (Electric Version)](https://www.youtube.com/watch?v=jzqq1FrvBKo)
@@ -44,7 +48,24 @@ styles: ["Blues Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters](https://www.discogs.com/release/15965368-Paul-Rodgers-Muddy-Water-Blues-A-Tribute-to-Muddy-Waters) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, Ltd, Num, RE, Ora |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Orange, 180 Gram) |
 | Catalog Number | MOVLP2716 |
 
-Released in a gatefold cover  [On back cover]: Originally released ℗ & © 1993 Victor Entertainment, Japan  Made in the EU  [Sticker on front]: Music On Vinyl Paul Rodgers 'Muddy Water Blues' A Tribute to Muddy Waters Limited Edition of 2000 Orange Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com   MOVLP2716  The runout strings are etched
+Released in a gatefold cover
+
+[On back cover]:
+Originally released ℗ & © 1993 Victor Entertainment, Japan
+
+Made in the EU
+
+[Sticker on front]:
+Music On Vinyl
+Paul Rodgers
+'Muddy Water Blues'
+A Tribute to Muddy Waters
+Limited Edition of 2000 Orange Coloured Copies
+Individually Numbered
+180 gram audiophile vinyl
+www.musiconvinyl.com   MOVLP2716
+
+The runout strings are etched

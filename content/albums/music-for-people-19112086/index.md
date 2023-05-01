@@ -2,7 +2,7 @@
 title: "VAST - Music For People"
 artist: "VAST"
 album_name: "Music For People"
-date: 2021-06-12
+date: 2021-06-12T05:56:04.000000Z
 release_id: "19112086"
 slug: "music-for-people-19112086"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. The Last One Alive
 2. Free
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. We Will Meet Again
 11. My TV And You
 12. Lady Of Dreams
+
+
 ## Spotify
 {{< spotify type="album" id="4LHUokQU5HQEfHVA6H5h8u" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9m02l9C6ris" title="The Last One Alive" >}}
@@ -48,8 +53,8 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [VAST - Music For People](https://www.discogs.com/release/19112086-VAST-Music-For-People) |
-| Label          | Real Gone Music, Elektra |
-| Format         | LP, Album, RSD, Ltd, RE, Gre |
+| Label          | Real Gone Music |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Green/Yellow Splatter [Serpentine]) |
 | Catalog Number | RGM-1217 |
 
 Limited to 2000 Copies, Exclusive to Record Store Day 2021

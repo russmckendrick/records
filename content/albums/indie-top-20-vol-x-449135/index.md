@@ -2,7 +2,7 @@
 title: "Various - Indie Top 20 Vol X"
 artist: "Various"
 album_name: "Indie Top 20 Vol X"
-date: 2016-03-24
+date: 2016-03-24T19:08:12.000000Z
 release_id: "449135"
 slug: "indie-top-20-vol-x-449135"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Groovy Train (Terry Farley Mix)
 2. Make It Mine
@@ -34,6 +35,9 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 18. Everything Flows
 19. Precious Little
 20. Rent
+
+
+
 
 ## Videos
 {{< youtube id="fOj_zwVKY-w" title="THE FARM - GROOVY TRAIN (TERRY FARLEY REMIX) (1990)" >}}
@@ -63,7 +67,7 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 | Release Year   | 1990 |
 | Discogs Link   | [Various - Indie Top 20 Vol X](https://www.discogs.com/release/449135-Various-Indie-Top-20-Vol-X) |
 | Label          | Beechwood Music |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | TT010 |
 
 Comes in a gatefold sleeve.

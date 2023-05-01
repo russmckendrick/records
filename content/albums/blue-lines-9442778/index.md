@@ -2,7 +2,7 @@
 title: "Massive Attack - Blue Lines"
 artist: "Massive Attack"
 album_name: "Blue Lines"
-date: 2016-12-02
+date: 2016-12-02T12:53:32.000000Z
 release_id: "9442778"
 slug: "blue-lines-9442778"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Safe From Harm (5:16)
 2. One Love (4:48)
@@ -23,28 +24,34 @@ styles: ["Trip Hop", "Downtempo"]
 7. Daydreaming (4:14)
 8. Lately (4:26)
 9. Hymn Of The Big Wheel (6:36)
+
+
 ## Spotify
 {{< spotify type="album" id="5mAPk4qeNqVLtNydaWbWlf" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="PKtTmZnVhhI" title="Massive Attack - Safe From Harm" >}}
-- [Massive Attack - Unfinished Sympathy](https://www.youtube.com/watch?v=ZWmrfgj0MZI)
-- [Massive Attack - Daydreaming](https://www.youtube.com/watch?v=JG9CXQxhfL4)
-- [Safe From Harm (2012 Mix/Master)](https://www.youtube.com/watch?v=YVrMBBR5QW8)
+{{< youtube id="YVrMBBR5QW8" title="Safe From Harm (2012 Mix/Master)" >}}
 - [One Love (2012 Mix/Master)](https://www.youtube.com/watch?v=qvkyXiOeq9o)
 - [Blue Lines (2012 Mix/Master)](https://www.youtube.com/watch?v=X-lUnbIKYlo)
 - [Five Man Army (2012 Mix/Master)](https://www.youtube.com/watch?v=JOkykdCdyNY)
-- [Unfinished Sympathy (2012 Mix/Master)](https://www.youtube.com/watch?v=VLRa4nvkTy4)
-- [Daydreaming (2012 Mix/Master)](https://www.youtube.com/watch?v=rT18lMwmt1U)
-- [Lately (2012 Mix/Master)](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
+- [Massive Attack - Unfinished Sympathy](https://www.youtube.com/watch?v=ZWmrfgj0MZI)
+- [Massive Attack ft Horace Andy - Hymn Of The Big Wheel - (Blue Lines)](https://www.youtube.com/watch?v=0TrishCMmpc)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Massive Attack - Blue Lines](https://www.discogs.com/release/9442778-Massive-Attack-Blue-Lines) |
-| Label          | Virgin, Circa, Wild Bunch Records |
-| Format         | LP, Album, RE, 180 |
+| Label          | Virgin |
+| Format         | Vinyl LP Album Reissue Stereo (180 gram) |
 | Catalog Number | 5700960 |
 
-Reissue. Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU  
+Reissue. Comes with a printed inner sleeve with lyrics, credits and photos.
+Some copies came with a download card.
+
+On labels:
+Made in EU
+
+

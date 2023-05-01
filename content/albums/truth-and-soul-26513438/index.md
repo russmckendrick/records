@@ -2,7 +2,7 @@
 title: "Fishbone - Truth And Soul"
 artist: "Fishbone"
 album_name: "Truth And Soul"
-date: 2023-04-03
+date: 2023-04-03T04:23:55.000000Z
 release_id: "26513438"
 slug: "truth-and-soul-26513438"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
+
 ## Tracklisting
 1. Freddie's Dead
 2. Ma And Pa
@@ -26,8 +27,12 @@ styles: ["Ska", "Punk"]
 10. Slow Movin' (Howard Beach Party)
 11. Ghetto Soundwave
 12. Change
+
+
 ## Spotify
 {{< spotify type="album" id="3fFLTUfssjzN4vipRRfGxZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HC0buvIyOkE" title="Fishbone - Ghetto Soundwave" >}}
@@ -46,7 +51,7 @@ styles: ["Ska", "Punk"]
 | Release Year   | 2023 |
 | Discogs Link   | [Fishbone - Truth And Soul](https://www.discogs.com/release/26513438-Fishbone-Truth-And-Soul) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Num, RE, Red |
+| Format         | Vinyl LP Album Numbered Reissue (Red Translucent, 35th Anniversary) |
 | Catalog Number | MOVLP606 |
 
 1000 copies pressed on 180 gram vinyl.

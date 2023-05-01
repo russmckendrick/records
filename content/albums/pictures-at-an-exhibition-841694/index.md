@@ -2,7 +2,7 @@
 title: "Emerson, Lake & Palmer - Pictures At An Exhibition"
 artist: "Emerson, Lake & Palmer"
 album_name: "Pictures At An Exhibition"
-date: 2017-01-25
+date: 2017-01-25T18:25:24.000000Z
 release_id: "841694"
 slug: "pictures-at-an-exhibition-841694"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Promenade
 2. The Gnome
@@ -26,8 +27,11 @@ styles: ["Prog Rock"]
 10. The Hut Of Baba Yaga
 11. The Great Gates Of Kiev
 12. Nutrocker
+
+
 ## Spotify
 {{< spotify type="album" id="1tEBKb1KSGaO5Ct2iDfKOE" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,9 @@ styles: ["Prog Rock"]
 | Release Year   | 1973 |
 | Discogs Link   | [Emerson, Lake & Palmer - Pictures At An Exhibition](https://www.discogs.com/release/841694-Emerson-Lake-Palmer-Pictures-At-An-Exhibition) |
 | Label          | Manticore |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | K 33501 |
 
-Recorded Live, Newcastle City Hall, March 26, 1971. Original release date 1971. 
+Recorded Live, Newcastle City Hall, March 26, 1971.
+Original release date 1971.
+

@@ -2,7 +2,7 @@
 title: "Blind Melon - Blind Melon"
 artist: "Blind Melon"
 album_name: "Blind Melon"
-date: 2016-12-18
+date: 2016-12-18T10:11:34.000000Z
 release_id: "5746552"
 slug: "blind-melon-5746552"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Soak The Sin (4:02)
 2. Tones Of Home (4:27)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock"]
 11. Seed To A Tree (3:30)
 12. Drive (4:41)
 13. Time (6:01)
+
+
 ## Spotify
 {{< spotify type="album" id="55jET4vDioHHd7ztX7OX3h" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3qVPNONdF58" title="Blind Melon - No Rain" >}}
@@ -53,7 +58,11 @@ styles: ["Alternative Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Blind Melon - Blind Melon](https://www.discogs.com/release/5746552-Blind-Melon-Blind-Melon) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP1100 |
 
-- 180 gram audiophile vinyl - Insert with printed lyrics.  © 1992 Heavy Melon Music ASCAP 
+- 180 gram audiophile vinyl
+- Insert with printed lyrics.
+
+© 1992 Heavy Melon Music ASCAP
+

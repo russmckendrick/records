@@ -2,7 +2,7 @@
 title: "The Levellers - Peace"
 artist: "The Levellers"
 album_name: "Peace"
-date: 2020-08-21
+date: 2020-08-21T10:00:03.000000Z
 release_id: "15772073"
 slug: "peace-15772073"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. Food Roof Family (3:40)
 2. Generation Fear (2:36)
@@ -28,6 +29,9 @@ styles: ["Folk Rock"]
 12. Food Roof Family (Live In The Studio)
 13. Our New Day (Live In The Studio)
 
+
+
+
 ## Videos
 {{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}
 - [Levellers - Peace (Full Album) 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
@@ -38,7 +42,11 @@ styles: ["Folk Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [The Levellers - Peace](https://www.discogs.com/release/15772073-Levellers-Peace) |
 | Label          | On The Fiddle Recordings |
-| Format         | LP, Dlx, Blu + 7\" |
+| Format         | Vinyl LP Deluxe Edition Stereo (Blue Splatter), Vinyl 7" |
 | Catalog Number | OTFLP031S |
 
-Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7” (SIGNED)  Bonus 7” A – Food Roof Family (Live in the Studio) B – Our New Day (Live in the Studio)
+Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7” (SIGNED)
+
+Bonus 7”
+A – Food Roof Family (Live in the Studio)
+B – Our New Day (Live in the Studio)

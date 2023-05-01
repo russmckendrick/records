@@ -2,7 +2,7 @@
 title: "Huey Lewis & The News - Sports"
 artist: "Huey Lewis & The News"
 album_name: "Sports"
-date: 2015-10-05
+date: 2015-10-05T18:23:05.000000Z
 release_id: "1066355"
 slug: "sports-1066355"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Heart Of Rock & Roll (5:01)
 2. Heart And Soul (4:10)
@@ -23,8 +24,12 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 7. If This Is It (3:46)
 8. You Crack Me Up (3:39)
 9. Honky Tonk Blues (3:16)
+
+
 ## Spotify
 {{< spotify type="album" id="5jyfyM8Cinnh05OswtWv41" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="M7JVlpm0eRs" title="Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)" >}}
@@ -43,7 +48,10 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 | Release Year   | 1983 |
 | Discogs Link   | [Huey Lewis & The News - Sports](https://www.discogs.com/release/1066355-Huey-Lewis-And-The-News-Sports) |
 | Label          | Chrysalis |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | CHR 1412 |
 
-Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.  A2 credits Chinnichap/RAK Music. Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd.
+Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.
+
+A2 credits Chinnichap/RAK Music.
+Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd.

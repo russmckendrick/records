@@ -2,7 +2,7 @@
 title: "Soundgarden - Superunknown"
 artist: "Soundgarden"
 album_name: "Superunknown"
-date: 2017-06-11
+date: 2017-06-11T13:16:04.000000Z
 release_id: "5757840"
 slug: "superunknown-5757840"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Let Me Drown
 2. My Wave
@@ -30,8 +31,12 @@ styles: ["Grunge", "Alternative Rock"]
 14. Half
 15. Like Suicide
 16. She Likes Surprises
+
+
 ## Spotify
 {{< spotify type="album" id="29sTacnS0qA9xri6YS8xLA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HEbYxEXM2cE" title="Soundgarden - My Wave (Official Music Video)" >}}
@@ -46,8 +51,34 @@ styles: ["Grunge", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Soundgarden - Superunknown](https://www.discogs.com/release/5757840-Soundgarden-Superunknown) |
-| Label          | A&M Records, Universal Music Group International |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Label          | A&M Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Catalog Number | 0602537789818 |
 
-20th Anniversary Edition. 180-gram double vinyl, newly remastered from original analog tapes. Issued in a gatefold sleeve with 12 page book with new photos and art and a digital download card.  Engineered and mixed at Bad Animals Studio, Seattle, WA  Track D2 mixed at Electric Lady, NY Track D5 recorded at Bear Creek Studios, Wooninville, WA, mixed at A&M Studios, Hollywood, CA. Originally released as International Album and U.S. Vinyl Album bonus track  This reissue mastered by: Stephen Marcussen, Marcussen Mastering  ℗  © 2014 A&M Records  Made in the EU  Hype sticker on shink: Superunknown 180-Gram audiophile Double vinyl Newly remastered from Original analog tapes Gatefold Jacket 12 page book With new photos and art Digital download card 320kbps vinyl ripped AAC MP4's 
+20th Anniversary Edition.
+180-gram double vinyl, newly remastered from original analog tapes.
+Issued in a gatefold sleeve with 12 page book with new photos and art and a digital download card.
+
+Engineered and mixed at Bad Animals Studio, Seattle, WA
+
+Track D2 mixed at Electric Lady, NY
+Track D5 recorded at Bear Creek Studios, Wooninville, WA, mixed at A&M Studios, Hollywood, CA. Originally released as International Album and U.S. Vinyl Album bonus track
+
+This reissue mastered by: Stephen Marcussen, Marcussen Mastering
+
+℗  © 2014 A&M Records
+
+Made in the EU
+
+Hype sticker on shink:
+Superunknown
+180-Gram audiophile
+Double vinyl
+Newly remastered from
+Original analog tapes
+Gatefold Jacket
+12 page book
+With new photos and art
+Digital download card
+320kbps vinyl ripped AAC MP4's
+

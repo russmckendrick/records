@@ -2,7 +2,7 @@
 title: "Television - Marquee Moon"
 artist: "Television"
 album_name: "Marquee Moon"
-date: 2017-03-04
+date: 2017-03-04T17:52:48.000000Z
 release_id: "7603547"
 slug: "marquee-moon-7603547"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
+
 ## Tracklisting
 1. See No Evil (3:56)
 2. Venus (3:48)
@@ -22,8 +23,12 @@ styles: ["New Wave", "Punk"]
 6. Guiding Light (5:36)
 7. Prove It (5:04)
 8. Torn Curtain (7:00)
+
+
 ## Spotify
 {{< spotify type="album" id="630o1rKTDsLeIPreOY1jqP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="puIM6LkKLpI" title="See No Evil" >}}
@@ -41,7 +46,9 @@ styles: ["New Wave", "Punk"]
 | Release Year   | 2015 |
 | Discogs Link   | [Television - Marquee Moon](https://www.discogs.com/release/7603547-Television-Marquee-Moon) |
 | Label          | Elektra |
-| Format         | LP, Album, Ltd, RE, RM, Whi |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (White, 180 Gram) |
 | Catalog Number | 8122797158 |
 
-Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.   Ltd Edition of 3000 copies
+Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U. 
+
+Ltd Edition of 3000 copies

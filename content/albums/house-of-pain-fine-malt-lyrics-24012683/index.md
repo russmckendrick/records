@@ -2,7 +2,7 @@
 title: "House Of Pain - House Of Pain (Fine Malt Lyrics)"
 artist: "House Of Pain"
 album_name: "House Of Pain (Fine Malt Lyrics)"
-date: 2022-09-02
+date: 2022-09-02T02:17:51.000000Z
 release_id: "24012683"
 slug: "house-of-pain-fine-malt-lyrics-24012683"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ---
+
 ## Tracklisting
 1. Salutations (1:11)
 2. Jump Around (3:37)
@@ -36,8 +37,12 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 20. Shamrocks And Shenanigans (Butch Vig Remix) (3:57)
 21. Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) (4:05)
 22. Jump Around (Instumental) (3:38)
+
+
 ## Spotify
 {{< spotify type="album" id="1GYvmeraQXDxxSC9T3RDvM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XhzpxjuwZy0" title="House of Pain - Jump Around (Official Music Video)" >}}
@@ -55,7 +60,9 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 | Release Year   | 2022 |
 | Discogs Link   | [House Of Pain - House Of Pain (Fine Malt Lyrics)](https://www.discogs.com/release/24012683-House-Of-Pain-House-Of-Pain-Fine-Malt-Lyrics) |
 | Label          | Tommy Boy |
-| Format         | LP, Ora + LP, Whi + Album, Dlx, Ltd, Num, RE, RM |
+| Format         | Vinyl LP (Orange), Vinyl LP (White), All Media Album Deluxe Edition Limited Edition Numbered Reissue Remastered |
 | Catalog Number | TB-5184-1 |
 
-Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl. Numbered edition of 6500. Comes with a jump rope.
+Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl.
+Numbered edition of 6500.
+Comes with a jump rope.

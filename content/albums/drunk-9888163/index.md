@@ -2,7 +2,7 @@
 title: "Thundercat - Drunk"
 artist: "Thundercat"
 album_name: "Drunk"
-date: 2017-03-10
+date: 2017-03-10T19:37:42.000000Z
 release_id: "9888163"
 slug: "drunk-9888163"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Drunk by Thundercat"
     caption: "Drunk by Thundercat"
 genres: ["Hip Hop", "Jazz", "Funk / Soul"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Rabbot Ho (0:38)
 2. Captain Stupido (1:41)
@@ -37,8 +38,12 @@ styles: null
 21. Drunk (1:42)
 22. The Turn Down (2:29)
 23. DUI (2:18)
+
+
 ## Spotify
 {{< spotify type="album" id="7vHBQDqwzB7uDvoE5bncMM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SZzjw2UfUEk" title="Thundercat - 'Tokyo' (Official Video)" >}}
@@ -59,7 +64,13 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Thundercat - Drunk](https://www.discogs.com/release/9888163-Thundercat-Drunk) |
 | Label          | Brainfeeder |
-| Format         | 4x10\", Red + Box, Album |
+| Format         | Vinyl 4× 10" 45 RPM (Red), Box Set Album |
 | Catalog Number | BF064 |
 
-Manufactured in EU.  P & C Brainfeeder 2017  included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)  Runouts are etched.
+Manufactured in EU.
+
+P & C Brainfeeder 2017
+
+included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)
+
+Runouts are etched.

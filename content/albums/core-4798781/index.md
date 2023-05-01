@@ -2,7 +2,7 @@
 title: "Stone Temple Pilots - Core"
 artist: "Stone Temple Pilots"
 album_name: "Core"
-date: 2016-12-18
+date: 2016-12-18T09:51:03.000000Z
 release_id: "4798781"
 slug: "core-4798781"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Dead & Bloated (5:09)
 2. Sex Type Thing (3:37)
@@ -26,8 +27,12 @@ styles: ["Grunge", "Alternative Rock"]
 10. Wet My Bed (1:36)
 11. Crackerman (3:12)
 12. Where The River Goes (8:27)
+
+
 ## Spotify
 {{< spotify type="album" id="5kxuokOacguIqDJRh1ZXRC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8hhu-OyHqZM" title="Stone Temple Pilots - Sex Type Thing (Official Music Video)" >}}
@@ -44,8 +49,17 @@ styles: ["Grunge", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [Stone Temple Pilots - Core](https://www.discogs.com/release/4798781-Stone-Temple-Pilots-Core) |
-| Label          | Music On Vinyl, Atlantic |
-| Format         | LP + LP, S/Sided, Etch + Album, RE, 180 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue (180 Gram) |
 | Catalog Number | MOVLP833 |
 
-Standard black 2xLP vinyl release, 180 gram audiophile vinyl with etched D-Side.  Recorded at Rumbo Recorders in Los Angeles, CA Mixed at Can Am Studion (sic) in Los Angeles, CA Mastered at Future Disc Systems  Originally released ℗ & © 1992 Warner Music. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music. Made in the EU.
+Standard black 2xLP vinyl release, 180 gram audiophile vinyl with etched D-Side.
+
+Recorded at Rumbo Recorders in Los Angeles, CA
+Mixed at Can Am Studion (sic) in Los Angeles, CA
+Mastered at Future Disc Systems
+
+Originally released ℗ & © 1992 Warner Music.
+This release ℗ & © 2013 Warner Music.
+Manufactured & distributed by Music On Vinyl B.V. for Warner Music.
+Made in the EU.

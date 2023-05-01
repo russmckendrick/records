@@ -2,7 +2,7 @@
 title: "Slowdive - Slowdive EP"
 artist: "Slowdive"
 album_name: "Slowdive EP"
-date: 2020-09-15
+date: 2020-09-15T17:32:11.000000Z
 release_id: "15825430"
 slug: "slowdive-ep-15825430"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Slowdive
 2. Avalyn I
 3. Avalyn Il
+
+
+
 
 ## Videos
 {{< youtube id="hs9kJZ1uJ-Q" title="Slowdive" >}}
@@ -28,8 +32,11 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Slowdive - Slowdive EP](https://www.discogs.com/release/15825430-Slowdive-Slowdive-EP) |
-| Label          | Music On Vinyl, Sony Music |
-| Format         | 12\", EP, RSD, Ltd, Num, RE, Gre |
+| Label          | Music On Vinyl |
+| Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Numbered Reissue (Green [Translucent Green] With Black Marble ) |
 | Catalog Number | MOV12009 |
 
-Exclusively available through Record Store Day 2020 180g audiophile vinyl Jacket with special deluxe alubrush finish  Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl 
+Exclusively available through Record Store Day 2020
+180g audiophile vinyl
+Jacket with special deluxe alubrush finish 
+Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl 

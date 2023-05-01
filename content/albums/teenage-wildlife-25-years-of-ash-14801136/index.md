@@ -2,7 +2,7 @@
 title: "Ash - Teenage Wildlife: 25 Years Of Ash"
 artist: "Ash"
 album_name: "Teenage Wildlife: 25 Years Of Ash"
-date: 2020-02-16
+date: 2020-02-16T15:23:32.000000Z
 release_id: "14801136"
 slug: "teenage-wildlife-25-years-of-ash-14801136"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. A Life Less Ordinary
 2. Arcadia
@@ -36,8 +37,11 @@ styles: ["Alternative Rock", "Britpop"]
 20. Jesus Says
 21. Orpheus
 22. Jack Names The Planets
+
+
 ## Spotify
 {{< spotify type="album" id="4Rxm9U0KKKcc3qxFhHPM9N" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -46,7 +50,11 @@ styles: ["Alternative Rock", "Britpop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Ash - Teenage Wildlife: 25 Years Of Ash](https://www.discogs.com/release/14801136-Ash-Teenage-Wildlife-25-Years-Of-Ash) |
 | Label          | BMG |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | BMGCAT425DLP |
 
-2LP set  Manufactured in the E.U.  Initial copies available via recordstore.co.uk were signed by the band.
+2LP set
+
+Manufactured in the E.U.
+
+Initial copies available via recordstore.co.uk were signed by the band.

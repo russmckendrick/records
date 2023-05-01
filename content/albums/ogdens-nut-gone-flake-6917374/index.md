@@ -2,7 +2,7 @@
 title: "Small Faces - Ogdens' Nut Gone Flake"
 artist: "Small Faces"
 album_name: "Ogdens' Nut Gone Flake"
-date: 2017-11-25
+date: 2017-11-25T18:37:31.000000Z
 release_id: "6917374"
 slug: "ogdens-nut-gone-flake-6917374"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Ogden's Nut Gone Flake
 2. Ogden's Nut Gone Flake
@@ -28,13 +29,17 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 12. The Journey
 13. Mad John
 14. Happydaystoytown
+
+
 ## Spotify
 {{< spotify type="album" id="2pM93DS0vpM3wt6ooVx5LS" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="TwB3bug2p-I" title="The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)" >}}
+{{< youtube id="zXeRB-3nDR8" title="The Small Faces - Lazy Sunday Afternoon" >}}
 - [The Small Faces - Ogdens Nut Flake](https://www.youtube.com/watch?v=rCjrF2wWuSg)
-- [The Small Faces - Lazy Sunday Afternoon](https://www.youtube.com/watch?v=zXeRB-3nDR8)
+- [The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)](https://www.youtube.com/watch?v=TwB3bug2p-I)
 - [The Journey](https://www.youtube.com/watch?v=ffOy_wQO9LE)
 
 ## Notes
@@ -42,8 +47,12 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Small Faces - Ogdens' Nut Gone Flake](https://www.discogs.com/release/6917374-Small-Faces-Ogdens-Nut-Gone-Flake) |
-| Label          | Charly Records, Immediate |
-| Format         | LP, Album, RSD, Mono, Ltd, RE |
-| Catalog Number | 101L, IMLP 012 |
+| Label          | Charly Records |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Mono |
+| Catalog Number | 101L |
 
-This is the 2015 Record Store Day release.  Circular insert + Circular booklet housed in a barcode stickered flapped PVC sleeve with a black card backing insert.  Many of these LPs arrived at shops with split damaged PVC sleeves.
+This is the 2015 Record Store Day release.
+
+Circular insert + Circular booklet housed in a barcode stickered flapped PVC sleeve with a black card backing insert.
+
+Many of these LPs arrived at shops with split damaged PVC sleeves.

@@ -2,7 +2,7 @@
 title: "The Books - The Lemon Of Pink"
 artist: "The Books"
 album_name: "The Lemon Of Pink"
-date: 2016-11-17
+date: 2016-11-17T19:53:17.000000Z
 release_id: "9332526"
 slug: "the-lemon-of-pink-9332526"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Abstract", "Leftfield", "Experimental"]
 ---
+
 ## Tracklisting
 1. The Lemon Of Pink (4:40)
 2. The Lemon Of Pink II (1:35)
@@ -27,8 +28,12 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 11. A True Story Of A Story Of True Love (4:25)
 12. That Right Ain't Shit (2:48)
 13. P.S. (0:56)
+
+
 ## Spotify
 {{< spotify type="album" id="6zwjQ6buUEcF3E9IGTJXtP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="IiXpi5u5Vu8" title="The Books - The Lemon of Pink (full album)" >}}
@@ -44,7 +49,12 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Books - The Lemon Of Pink](https://www.discogs.com/release/9332526-The-Books-The-Lemon-Of-Pink) |
 | Label          | Temporary Residence Limited |
-| Format         | LP, Album, Club, Ltd, RE, RM, Yel |
+| Format         | Vinyl LP Album Club Edition Limited Edition Reissue Remastered (Yellow w/ Pink Splatter) |
 | Catalog Number | TRR181-VMP |
 
-'Vinyl Me, Please' record club exclusive. Record of the month for November 2016:  Lemon-colored vinyl with hot pink splatter. Full-color gatefold, die-cut jacket featuring all new album art with metallic inks and foil stamping. 16-page full-color, full-sized booklet featuring all new artwork, extensive liner notes written by nick zammuto, including track-by-track commentary. Full album digital download card.
+'Vinyl Me, Please' record club exclusive. Record of the month for November 2016:
+
+Lemon-colored vinyl with hot pink splatter.
+Full-color gatefold, die-cut jacket featuring all new album art with metallic inks and foil stamping.
+16-page full-color, full-sized booklet featuring all new artwork, extensive liner notes written by nick zammuto, including track-by-track commentary.
+Full album digital download card.

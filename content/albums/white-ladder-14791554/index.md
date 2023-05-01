@@ -2,7 +2,7 @@
 title: "David Gray - White Ladder"
 artist: "David Gray"
 album_name: "White Ladder"
-date: 2020-02-15
+date: 2020-02-15T19:52:58.000000Z
 release_id: "14791554"
 slug: "white-ladder-14791554"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Please Forgive Me
 2. Babylon
@@ -24,8 +25,12 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 8. This Year's Love
 9. Sail Away
 10. Say Hello, Wave Goodbye
+
+
 ## Spotify
 {{< spotify type="album" id="27h98zEMf4R8Q25uOkumGe" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="mV3d6jKFvQA" title="David Gray - White Ladder (live)" >}}
@@ -40,7 +45,15 @@ styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [David Gray - White Ladder](https://www.discogs.com/release/14791554-David-Gray-White-Ladder) |
 | Label          | IHT Records |
-| Format         | 2xLP, Album, RE, RM, Whi |
+| Format         | Vinyl 2× LP Album Reissue Remastered (White) |
 | Catalog Number | IHTLP1910 |
 
-To celebrate the 20th Anniversary of White Ladder. Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411]. All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.  Track C8 engineered and recorded at Air Studios.  ℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.  Tracks appear sequentially on release.
+To celebrate the 20th Anniversary of White Ladder.
+Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411].
+All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.
+
+Track C8 engineered and recorded at Air Studios.
+
+℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.
+
+Tracks appear sequentially on release.

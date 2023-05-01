@@ -2,7 +2,7 @@
 title: "Porcupine Tree - Deadwing"
 artist: "Porcupine Tree"
 album_name: "Deadwing"
-date: 2018-02-23
+date: 2018-02-23T18:57:11.000000Z
 release_id: "11591303"
 slug: "deadwing-11591303"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Deadwing (9:46)
 2. Shallow (4:16)
@@ -25,8 +26,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Glass Arm Shattering (6:13)
 10. So Called Friend  (4:48)
 11. Half-Light (6:20)
+
+
 ## Spotify
 {{< spotify type="album" id="2oQE67Gnc1GoMqoumvjPwN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gZDE8UGVQyU" title="Deadwing" >}}
@@ -46,7 +51,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Porcupine Tree - Deadwing](https://www.discogs.com/release/11591303-Porcupine-Tree-Deadwing) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ltd, RE, RM, Cle |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Catalog Number | KSCOPE982 |
 
-Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone. Some elements retained from demos recorded 2003-04.  Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion  Remastered  by SW November 2017  Gatefold cover with printed inner sleeves. 
+Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone.
+Some elements retained from demos recorded 2003-04.
+
+Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion
+
+Remastered  by SW November 2017
+
+Gatefold cover with printed inner sleeves. 

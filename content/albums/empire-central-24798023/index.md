@@ -2,7 +2,7 @@
 title: "Snarky Puppy - Empire Central"
 artist: "Snarky Puppy"
 album_name: "Empire Central"
-date: 2022-10-18
+date: 2022-10-18T05:49:25.000000Z
 release_id: "24798023"
 slug: "empire-central-24798023"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Contemporary Jazz", "Fusion"]
 ---
+
 ## Tracklisting
 1. Keep It On Your Mind (5:31)
 2. East Bay (5:11)
@@ -30,8 +31,12 @@ styles: ["Contemporary Jazz", "Fusion"]
 14. Honiara (6:50)
 15. Coney Bear (5:17)
 16. Trinity (7:54)
+
+
 ## Spotify
 {{< spotify type="album" id="17sDfQwRab5dr2aVsgu1IA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eTvn9UrJBvA" title="Free Fall" >}}
@@ -55,8 +60,28 @@ styles: ["Contemporary Jazz", "Fusion"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Snarky Puppy - Empire Central](https://www.discogs.com/release/24798023-Snarky-Puppy-Empire-Central) |
-| Label          | GroundUP Music |
-| Format         | 3xLP |
+| Label          | GroundUP Music (2) |
+| Format         | Vinyl 3× LP |
 | Catalog Number | none |
 
-Recorded and filmed March 3-10, 2022, at Deep Ellum Art Company in Dallas, Texas, USA. Mixed March 15 - April 7, 2022, at Estudi Vint in Els Prats de Rei, Catalonia, Spain.  GUMUK Limited and GroundUP Music Publishing are administered under worldwide license through Reservoir Music Publishing.  Tracks A1, A3, C2, E1: © GUMUK Limited (SESAC) Track A2: © Ceebull Music (SESAC) Track B1: © YAYennings Publishing (ASCAP) Track B2: © BOBBY SPARKS MUSIC (BMI) Track B3: © Marcelo Woloski Music (ASCAP), GUMUK Limited (SESAC), and Shunwun Music (ASCAP) Tracks C1, D3: © J Stant Music (SESAC) Track D1: © Nate Werth Music (SESAC) Track D2: © Bill Laurance Music (SESAC) Track E2: © Mazarito Music (SESAC) and GUMUK Limited (SESAC) Track F1: © Secret Fort Publishing (BMI), GUMUK Limited (SESAC), and Mazarito Music (SESAC) Track F2: © Bobbylanz Music (SESAC) Track F3: © Markus Justinius Music (SESAC)  ℗ © 2022 Snarky Puppy under exclusive license to GroundUP Music LLC.  Title is mis-spelled as 'Centarl' on spine.
+Recorded and filmed March 3-10, 2022, at Deep Ellum Art Company in Dallas, Texas, USA.
+Mixed March 15 - April 7, 2022, at Estudi Vint in Els Prats de Rei, Catalonia, Spain.
+
+GUMUK Limited and GroundUP Music Publishing are administered under worldwide license through Reservoir Music Publishing.
+
+Tracks A1, A3, C2, E1: © GUMUK Limited (SESAC)
+Track A2: © Ceebull Music (SESAC)
+Track B1: © YAYennings Publishing (ASCAP)
+Track B2: © BOBBY SPARKS MUSIC (BMI)
+Track B3: © Marcelo Woloski Music (ASCAP), GUMUK Limited (SESAC), and Shunwun Music (ASCAP)
+Tracks C1, D3: © J Stant Music (SESAC)
+Track D1: © Nate Werth Music (SESAC)
+Track D2: © Bill Laurance Music (SESAC)
+Track E2: © Mazarito Music (SESAC) and GUMUK Limited (SESAC)
+Track F1: © Secret Fort Publishing (BMI), GUMUK Limited (SESAC), and Mazarito Music (SESAC)
+Track F2: © Bobbylanz Music (SESAC)
+Track F3: © Markus Justinius Music (SESAC)
+
+℗ © 2022 Snarky Puppy under exclusive license to GroundUP Music LLC.
+
+Title is mis-spelled as 'Centarl' on spine.

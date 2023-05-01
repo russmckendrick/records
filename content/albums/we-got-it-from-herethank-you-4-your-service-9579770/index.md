@@ -2,7 +2,7 @@
 title: "A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service"
 artist: "A Tribe Called Quest"
 album_name: "We Got It From Here…Thank You 4 Your Service"
-date: 2017-01-13
+date: 2017-01-13T20:11:49.000000Z
 release_id: "9579770"
 slug: "we-got-it-from-herethank-you-4-your-service-9579770"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
+
 ## Tracklisting
 1. The Space Program (5:40)
 2. We The People.... (2:52)
@@ -30,8 +31,12 @@ styles: ["Conscious"]
 14. Conrad Tokyo (3:31)
 15. Ego (3:17)
 16. The Donald (5:22)
+
+
 ## Spotify
 {{< spotify type="album" id="3WvQpufOsPzkZvcSuynCf3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wMA1kP7gWS4" title="Enough!!" >}}
@@ -42,8 +47,11 @@ styles: ["Conscious"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service](https://www.discogs.com/release/9579770-A-Tribe-Called-Quest-We-Got-It-From-HereThank-You-4-Your-Service) |
-| Label          | Epic, Sony Music |
-| Format         | 2xLP, Album |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 88985377871 |
 
-B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA  Made in the EU. 
+B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA
+
+Made in the EU.
+

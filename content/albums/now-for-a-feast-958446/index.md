@@ -2,7 +2,7 @@
 title: "Pop Will Eat Itself - Now For A Feast!"
 artist: "Pop Will Eat Itself"
 album_name: "Now For A Feast!"
-date: 2018-02-15
+date: 2018-02-15T19:24:32.000000Z
 release_id: "958446"
 slug: "now-for-a-feast-958446"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. The Black Country Chainstore Massacreee
 2. Monogamy
@@ -28,8 +29,12 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 12. Candydiosis
 13. The Devil Inside
 14. Orgone Accumulator
+
+
 ## Spotify
 {{< spotify type="album" id="0d8vBDCsUiArvT3zKfzFs5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="iOD-G6_1OGM" title="Pop Will Eat Itself - Orgone Accumulator" >}}
@@ -42,7 +47,10 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 | Release Year   | 1988 |
 | Discogs Link   | [Pop Will Eat Itself - Now For A Feast!](https://www.discogs.com/release/958446-Pop-Will-Eat-Itself-Now-For-A-Feast) |
 | Label          | Chapter 22 |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | CHAP LP 33 |
 
-All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing ℗ Chapter 22 Records 1988 © Chapter 22 Records 1988 Made in England
+All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing
+℗ Chapter 22 Records 1988
+© Chapter 22 Records 1988
+Made in England

@@ -2,7 +2,7 @@
 title: "R.E.M. - Out Of Time"
 artist: "R.E.M."
 album_name: "Out Of Time"
-date: 2018-01-08
+date: 2018-01-08T18:31:33.000000Z
 release_id: "9375101"
 slug: "out-of-time-9375101"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Time Side
 2. Radio Song (4:12)
@@ -47,29 +48,23 @@ styles: ["Alternative Rock"]
 31. Low (Demo) (4:54)
 32. 40 Sec. (40 Second Song Demo) (1:22)
 33. Fretless 1 (Demo) (4:52)
+
+
 ## Spotify
 {{< spotify type="album" id="6yEuIwTQpciH1qtj7mP5GK" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="ZlgOnooY7FA" title="Radio Song" >}}
-- [Losing My Religion](https://www.youtube.com/watch?v=Efa6BAWPm9o)
-- [Low](https://www.youtube.com/watch?v=iRO7oryZUnM)
-- [Near Wild Heaven](https://www.youtube.com/watch?v=dcP7TxLnd9M)
-- [Endgame](https://www.youtube.com/watch?v=-3coDah-ZQU)
-- [Shiny Happy People](https://www.youtube.com/watch?v=nsI2BdCmoCA)
-- [Belong](https://www.youtube.com/watch?v=UOtcV_6wfxQ)
-- [Half A World Away](https://www.youtube.com/watch?v=u3KMOGAm2Rs)
-- [Texarkana](https://www.youtube.com/watch?v=p16q-w2OuI4)
-- [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
-- [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |
-| Label          | Concord Bicycle Music, Universal Music Group International |
-| Format         | LP, Album, RE + 2xLP, Dem + Ltd, RM, 25t |
+| Label          | Concord Bicycle Music |
+| Format         | Vinyl LP Album Reissue, Vinyl 2× LP (Demos), All Media Limited Edition Remastered (25th Anniversary Edition, 180 Gram) |
 | Catalog Number | 0888072010246 |
 
-25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands.
+25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.
+
+On back:
+Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands.

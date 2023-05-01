@@ -2,7 +2,7 @@
 title: "Suede - The Best Of Suede. Beautiful Ones. 1992-2018"
 artist: "Suede"
 album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
-date: 2020-10-31
+date: 2020-10-31T13:57:39.000000Z
 release_id: "16073517"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16073517"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. The Drowners
 2. Metal Mickey
@@ -35,8 +36,11 @@ styles: ["Indie Rock", "Britpop"]
 19. Outsiders
 20. The Invisibles
 21. Life Is Golden
+
+
 ## Spotify
-{{< spotify type="album" id="7mAvhljwzf6MGLPz64rSMb" width="100%" height="500" >}}
+{{< spotify type="album" id="1xs5UhxBvAIsgKGzYjCMhh" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -45,7 +49,5 @@ styles: ["Indie Rock", "Britpop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16073517-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |
 | Label          | Demon Records |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | INSATIABLE10 |
-
-

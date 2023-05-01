@@ -2,7 +2,7 @@
 title: "The Beat - I Just Can't Stop It"
 artist: "The Beat"
 album_name: "I Just Can't Stop It"
-date: 2015-09-11
+date: 2015-09-11T18:02:25.000000Z
 release_id: "3723205"
 slug: "i-just-can-t-stop-it-3723205"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ska"]
 ---
+
 ## Tracklisting
 1. Mirror In The Bathroom (3:07)
 2. Hands Off...She's Mine (2:59)
@@ -28,8 +29,9 @@ styles: ["Ska"]
 12. Can't Get Used To Losing You (3:05)
 13. Best Friend (3:02)
 14. Jackpot (4:19)
-## Spotify
-{{< spotify type="album" id="08zjJfP4f6cXGxscvztbvh" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Bch9DuV0Y8o" title="The English Beat - Twist And Crawl" >}}
@@ -49,7 +51,17 @@ styles: ["Ska"]
 | Release Year   | 1980 |
 | Discogs Link   | [The Beat - I Just Can't Stop It](https://www.discogs.com/release/3723205-The-English-Beat-I-Just-Cant-Stop-It) |
 | Label          | Sire |
-| Format         | LP, Album, Jac |
+| Format         | Vinyl LP Album (Jacksonville Pressing) |
 | Catalog Number | SRK 6091 |
 
-Pressing variation of the original US release. "0" stamped & "JW" etched in runouts denotes a  [l314605]  Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.  Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.     
+Pressing variation of the original US release.
+"0" stamped & "JW" etched in runouts denotes a  [l314605]
+
+Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.
+
+Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.
+
+
+
+
+

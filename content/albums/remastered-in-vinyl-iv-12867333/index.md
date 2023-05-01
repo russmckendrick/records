@@ -2,7 +2,7 @@
 title: "Kate Bush - Remastered In Vinyl IV"
 artist: "Kate Bush"
 album_name: "Remastered In Vinyl IV"
-date: 2018-11-30
+date: 2018-11-30T15:18:59.000000Z
 release_id: "12867333"
 slug: "remastered-in-vinyl-iv-12867333"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. 12" Mixes
 2. Running Up That Hill (A Deal With God)
@@ -53,6 +54,9 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 37. Lord Of The Reedy River
 38. Candle In The Wind
 
+
+
+
 ## Videos
 {{< youtube id="lC_U-Nu0hrw" title="Kate Bush / 2018 Remasters unboxing part 2" >}}
 
@@ -62,7 +66,8 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Kate Bush - Remastered In Vinyl IV](https://www.discogs.com/release/12867333-Kate-Bush-Remastered-In-Vinyl-IV) |
 | Label          | Fish People |
-| Format         | LP, Comp, RM + LP, Comp, RM + LP, Comp, RM + LP, C |
+| Format         | Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Box Set Compilation |
 | Catalog Number | 0190295593926 |
 
-Made in the E.U. 180G
+Made in the E.U.
+180G

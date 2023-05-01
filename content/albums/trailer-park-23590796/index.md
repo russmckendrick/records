@@ -2,7 +2,7 @@
 title: "Beth Orton - Trailer Park"
 artist: "Beth Orton"
 album_name: "Trailer Park"
-date: 2022-06-18
+date: 2022-06-18T05:46:48.000000Z
 release_id: "23590796"
 slug: "trailer-park-23590796"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
+
 ## Tracklisting
 1. She Cries Your Name
 2. Tangent
@@ -25,8 +26,12 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 9. Someone's Daughter
 10. I Wish I Never Saw The Sunshine
 11. Galaxy Of Emptiness
+
+
 ## Spotify
 {{< spotify type="album" id="5WpjO5MZRlFohnZ1EeIcsy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}
@@ -46,7 +51,21 @@ styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 | Release Year   | 2022 |
 | Discogs Link   | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796-Beth-Orton-Trailer-Park) |
 | Label          | Sony Music |
-| Format         | 2xLP, Album, RSD, Ltd, RE, RM, Blu |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
 | Catalog Number | 19439956801 |
 
-On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ######
+On sticker:
+Trailer Park
+Limited Edition
+American Diner Blue
+colour vinyl
+Pressed across 2LPs
+for the first time
+
+Ⓟ 2008 Sony Music Entertainment (UK) Limited
+© 1996, 2022 Sony Music Entertainment (UK) Limited
+
+RSD 2022 Second Drop
+Limited to 2000 copies
+
+Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ######

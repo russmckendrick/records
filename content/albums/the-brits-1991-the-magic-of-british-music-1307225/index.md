@@ -2,7 +2,7 @@
 title: "Various - The Brits 1991 (The Magic Of British Music) "
 artist: "Various"
 album_name: "The Brits 1991 (The Magic Of British Music) "
-date: 2019-01-05
+date: 2019-01-05T11:38:49.000000Z
 release_id: "1307225"
 slug: "the-brits-1991-the-magic-of-british-music-1307225"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Sacrifice
 2. Nothing Compares 2 U
@@ -45,13 +46,16 @@ styles: ["Alternative Rock", "Indie Rock"]
 29. Life's What You Make It
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [Various - The Brits 1991 (The Magic Of British Music) ](https://www.discogs.com/release/1307225-Various-The-Brits-1991-The-Magic-Of-British-Music-) |
 | Label          | Telstar |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | STAR 2481 |
 
-D3 misspelled "Closet mix" instead of "Closest mix" 
+D3 misspelled "Closet mix" instead of "Closest mix"
+

@@ -1,18 +1,19 @@
 ---
-title: "Gary Numan // Tubeway Army - Replicas (The First Recordings)"
-artist: "Gary Numan // Tubeway Army"
+title: "Gary Numan - Replicas (The First Recordings)"
+artist: "Gary Numan"
 album_name: "Replicas (The First Recordings)"
-date: 2019-10-12
+date: 2019-10-12T16:05:13.000000Z
 release_id: "14258114"
 slug: "replicas-the-first-recordings-14258114"
 hideSummary: true
 cover:
     image: "replicas-the-first-recordings-14258114.jpg"
-    alt: "Replicas (The First Recordings) by Gary Numan // Tubeway Army"
-    caption: "Replicas (The First Recordings) by Gary Numan // Tubeway Army"
+    alt: "Replicas (The First Recordings) by Gary Numan"
+    caption: "Replicas (The First Recordings) by Gary Numan"
 genres: ["Electronic"]
 styles: ["New Wave"]
 ---
+
 ## Tracklisting
 1. You Are In My Vision (Early Version)
 2. The Machmen (Early Version)
@@ -34,6 +35,12 @@ styles: ["New Wave"]
 18. Me! I Disconnect From You (BBC Peel Session)
 19. Down In The Park (BBC Peel Session)
 20. I Nearly Married A Human (BBC Peel Session)
+
+
+## Spotify
+{{< spotify type="album" id="7I5VqBsW2lzslDO3nqQFdm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="syXXDdt2FuQ" title="You Are in My Vision (Early Version)" >}}
@@ -61,9 +68,16 @@ styles: ["New Wave"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Gary Numan // Tubeway Army - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan--Tubeway-Army-Replicas-The-First-Recordings) |
+| Discogs Link   | [Gary Numan - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan--Tubeway-Army-Replicas-The-First-Recordings) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Album, Comp, Sag |
+| Format         | Vinyl 2× LP Album Compilation Stereo (Sage Green) |
 | Catalog Number | BBQ2159LP |
 
-40th Anniversary Edition  Signed copies available at gigs two weeks prior to official release   ℗ & © 2019 Beggars Banquet, The Arkive  Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London. Side Four Recorded at BBC Maida Vale Studios London.
+40th Anniversary Edition
+
+Signed copies available at gigs two weeks prior to official release 
+
+℗ & © 2019 Beggars Banquet, The Arkive
+
+Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London.
+Side Four Recorded at BBC Maida Vale Studios London.

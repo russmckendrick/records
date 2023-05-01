@@ -2,7 +2,7 @@
 title: "Black Sabbath - Black Sabbath Vol 4"
 artist: "Black Sabbath"
 album_name: "Black Sabbath Vol 4"
-date: 2016-08-11
+date: 2016-08-11T15:57:34.000000Z
 release_id: "8867510"
 slug: "black-sabbath-vol-4-8867510"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Wheels Of Confusion
 2. Tomorrow's Dream
@@ -24,6 +25,9 @@ styles: ["Heavy Metal"]
 8. Laguna Sunrise
 9. St. Vitus Dance
 10. Under The Sun
+
+
+
 
 ## Videos
 {{< youtube id="DhCZ5yC9uLE" title="Wheels of Confusion / The Straightener (2021 - Remaster)" >}}
@@ -42,8 +46,19 @@ styles: ["Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Black Sabbath - Black Sabbath Vol 4](https://www.discogs.com/release/8867510-Black-Sabbath-Black-Sabbath-Vol-4) |
-| Label          | Rhino Records, Warner Bros. Records |
-| Format         | LP, Album, Ltd, RE, RM, Ora |
-| Catalog Number | RR1 2602, 2602 |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Orange, Gatefold, 180g) |
+| Catalog Number | RR1 2602 |
 
-Comes with printed inner sleeve replicating the original 4 page photo booklet inside the gatefold sleeve. The record itself is supplied in a separate white polylined inner sleeve.  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS ORANGE VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "TOMORROW'S DREAM" & "SNOWBLIND" RRI 2602
+Comes with printed inner sleeve replicating the original 4 page photo booklet inside the gatefold sleeve.
+The record itself is supplied in a separate white polylined inner sleeve.
+
+Front sticker:
+Black Sabbath 
+LIMITED EDITION 
+180 GRAMS ORANGE VINYL 
+2012 REMASTERED AUDIO 
+FEATURES THE CLASSICS:
+"TOMORROW'S DREAM"
+& "SNOWBLIND"
+RRI 2602

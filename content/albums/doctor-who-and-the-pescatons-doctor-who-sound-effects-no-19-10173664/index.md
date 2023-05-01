@@ -2,7 +2,7 @@
 title: "Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
 artist: "Doctor Who"
 album_name: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
-date: 2017-04-23
+date: 2017-04-23T12:07:40.000000Z
 release_id: "10173664"
 slug: "doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
 styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
+
 ## Tracklisting
 1. Doctor Who And The Pescatons
 2. Doctor Who And The Pescatons (Side One) (22:22)
@@ -50,13 +51,24 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 34. Dragon Ray-Gun - The Talons Of Weng Chi'Ang
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19](https://www.discogs.com/release/10173664-Doctor-Who-Doctor-Who-And-The-Pescatons-Doctor-Who-Sound-Effects-No19) |
 | Label          | Demon Records |
-| Format         | LP, RE, 180 + LP, Mono, RE, 180 + RSD, S/Edition |
+| Format         | Vinyl LP Reissue Stereo (180g, Green), Vinyl LP Reissue Mono (180g, Orange), All Media Record Store Day Special Edition |
 | Catalog Number | DEMREC202 |
 
-Released for Record Store Day 2017.  Voices recorded at Argo Studios, London. Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.  This recording released by arrangement with B.B.C. Records.  ℗ & © 2017 Demon Music Group.  Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO.
+Released for Record Store Day 2017.
+
+Voices recorded at Argo Studios, London.
+Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.
+
+This recording released by arrangement with B.B.C. Records.
+
+℗ & © 2017 Demon Music Group.
+
+Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO.

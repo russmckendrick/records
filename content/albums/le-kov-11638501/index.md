@@ -2,7 +2,7 @@
 title: "Gwenno - Le Kov"
 artist: "Gwenno"
 album_name: "Le Kov"
-date: 2018-10-22
+date: 2018-10-22T18:33:11.000000Z
 release_id: "11638501"
 slug: "le-kov-11638501"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Hi A Skoellyas Liv A Dhagrow
 2. Tir Ha Mor
@@ -24,8 +25,12 @@ styles: ["Indie Pop"]
 8. Aremorika
 9. Hunros
 10. Koweth Ker
+
+
 ## Spotify
 {{< spotify type="album" id="3iVFjOB6CU7WBxMssF5RlN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JzYa659k29g" title="Hi a Skoellyas Liv a Dhagrow" >}}
@@ -45,7 +50,14 @@ styles: ["Indie Pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Gwenno - Le Kov](https://www.discogs.com/release/11638501-Gwenno-Le-Kov) |
 | Label          | Heavenly |
-| Format         | LP, Album, Blu |
+| Format         | Vinyl LP Album (Blue) |
 | Catalog Number | HVNLP145C |
 
-Light blue coloured vinyl. Includes download code.  Lyrics and credits printed in both Cornish and English.  Mixed and additional programming ... for Solar Management Ltd  Copies pre-ordered directly from [l889] coming signed by the artist. 
+Light blue coloured vinyl.
+Includes download code.
+
+Lyrics and credits printed in both Cornish and English.
+
+Mixed and additional programming ... for Solar Management Ltd
+
+Copies pre-ordered directly from [l889] coming signed by the artist. 

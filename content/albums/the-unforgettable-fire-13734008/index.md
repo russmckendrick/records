@@ -2,7 +2,7 @@
 title: "U2 - The Unforgettable Fire"
 artist: "U2"
 album_name: "The Unforgettable Fire"
-date: 2019-06-15
+date: 2019-06-15T14:34:37.000000Z
 release_id: "13734008"
 slug: "the-unforgettable-fire-13734008"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. A Sort Of Homecoming
 2. Pride (In The Name Of Love)
@@ -24,17 +25,33 @@ styles: ["Alternative Rock", "Art Rock"]
 8. Indian Summer Sky
 9. Elvis Presley And America
 10. MLK
+
+
 ## Spotify
 {{< spotify type="album" id="3FFosIE1A9HGRrinKTcBQ3" width="100%" height="500" >}}
 
+
+
+## Videos
+{{< youtube id="RlcAemuWdSY" title="U2 - Pride (In The Name Of Love) (European Reissue CD)" >}}
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [U2 - The Unforgettable Fire](https://www.discogs.com/release/13734008-U2-The-Unforgettable-Fire) |
-| Label          | Mercury, Island Records, Interscope Records |
-| Format         | LP, Album, Ltd, RE, Bur |
+| Label          | Mercury |
+| Format         | Vinyl LP Album Limited Edition Reissue (Burgundy, 180g) |
 | Catalog Number | 1792416 |
 
-35th Anniversary Colour stated as "wine" on release. Includes 16 page booklet with lyrics  Exclusive retailers in multiple territories:  UK - HMV Australia - JB HiFi Canada - Sunrise Records France - FNAC US - [l1052727]
+35th Anniversary
+Colour stated as "wine" on release.
+Includes 16 page booklet with lyrics
+
+Exclusive retailers in multiple territories:
+
+UK - HMV
+Australia - JB HiFi
+Canada - Sunrise Records
+France - FNAC
+US - [l1052727]

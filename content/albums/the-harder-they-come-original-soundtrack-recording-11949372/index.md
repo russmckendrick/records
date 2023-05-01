@@ -2,7 +2,7 @@
 title: "Various - The Harder They Come (Original Soundtrack Recording)"
 artist: "Various"
 album_name: "The Harder They Come (Original Soundtrack Recording)"
-date: 2019-01-04
+date: 2019-01-04T19:33:59.000000Z
 release_id: "11949372"
 slug: "the-harder-they-come-original-soundtrack-recording-11949372"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae", "Stage & Screen"]
 styles: ["Soundtrack", "Reggae"]
 ---
+
 ## Tracklisting
 1. You Can Get It If You Really Want
 2. Draw Your Brakes
@@ -26,6 +27,9 @@ styles: ["Soundtrack", "Reggae"]
 10. Sitting In Limbo
 11. You Can Get It If You Really Want
 12. The Harder They Come
+
+
+
 
 ## Videos
 {{< youtube id="f0DNBaKWieI" title="Review 25: Jimmy Cliff - The Harder They Come" >}}
@@ -53,8 +57,12 @@ styles: ["Soundtrack", "Reggae"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372-Various-The-Harder-They-Come-Original-Soundtrack-Recording) |
-| Label          | Island Records, UMC |
-| Format         | LP, Comp, RE, 180 |
+| Label          | Island Records |
+| Format         | Vinyl LP Compilation Reissue (180 Gram, Gatefold) |
 | Catalog Number | 00602567073949 |
 
-180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched.
+180 gram vinyl
+Gatefold Jacket 
+"Made in Germany" stickered on shrink 
+
+Runouts are etched.

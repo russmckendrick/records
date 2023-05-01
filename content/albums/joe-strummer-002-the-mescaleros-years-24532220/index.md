@@ -2,7 +2,7 @@
 title: "Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years"
 artist: "Joe Strummer & The Mescaleros"
 album_name: "Joe Strummer 002: The Mescaleros Years"
-date: 2022-09-26
+date: 2022-09-26T09:13:33.000000Z
 release_id: "24532220"
 slug: "joe-strummer-002-the-mescaleros-years-24532220"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Rock Art And The X-Ray Style
 2. Tony Adams (6:33)
@@ -65,6 +66,9 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 49. Fantastic
 50. Coma Girl (Outtake)
 
+
+
+
 ## Videos
 {{< youtube id="tEGS-e0HZEM" title="Time and The Tide" >}}
 - [JOE STRUMMER 002: THE MESCALEROS YEARS UNBOXING & RESEÑA](https://www.youtube.com/watch?v=sbBeo-TBdww)
@@ -88,8 +92,6 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years](https://www.discogs.com/release/24532220-Joe-Strummer-The-Mescaleros-Joe-Strummer-002-The-Mescaleros-Years) |
-| Label          | Dark Horse Records, BMG |
-| Format         | 2xLP, Album, RE + 2xLP, Album, RE + LP, Album, RE  |
-| Catalog Number | DH0009, 405053879182 |
-
-
+| Label          | Dark Horse Records |
+| Format         | Vinyl 2× LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Compilation, Box Set Compilation |
+| Catalog Number | DH0009 |

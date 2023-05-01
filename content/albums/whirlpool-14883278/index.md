@@ -2,7 +2,7 @@
 title: "Chapterhouse - Whirlpool"
 artist: "Chapterhouse"
 album_name: "Whirlpool"
-date: 2020-04-10
+date: 2020-04-10T12:40:03.000000Z
 release_id: "14883278"
 slug: "whirlpool-14883278"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Breather (4:19)
 2. Pearl (4:56)
@@ -23,8 +24,12 @@ styles: ["Indie Rock", "Shoegaze"]
 7. Guilt (4:12)
 8. If You Want Me (2:40)
 9. Something More (3:31)
+
+
 ## Spotify
 {{< spotify type="album" id="5Sc59oKieHPFvruoxBgmSp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nlr4f0kjlMo" title="If You Want Me" >}}
@@ -44,8 +49,10 @@ styles: ["Indie Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Chapterhouse - Whirlpool](https://www.discogs.com/release/14883278-Chapterhouse-Whirlpool) |
-| Label          | Music On Vinyl, Sony Music |
-| Format         | LP, Album, Ltd, Num, RE, Blu |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & Silver Marbled) |
 | Catalog Number | MOVLP2567 |
 
-Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl Includes Insert 180 gram audiophile vinyl
+Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl
+Includes Insert
+180 gram audiophile vinyl

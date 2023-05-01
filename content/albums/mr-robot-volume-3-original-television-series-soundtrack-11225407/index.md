@@ -2,7 +2,7 @@
 title: "Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
 artist: "Mac Quayle"
 album_name: "Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
-date: 2017-12-02
+date: 2017-12-02T20:16:29.000000Z
 release_id: "11225407"
 slug: "mr-robot-volume-3-original-television-series-soundtrack-11225407"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
+
 ## Tracklisting
 1. 2.0_1-s4ve-the-w0rld.act (2:28)
 2. 2.0_2-FuxSocy.sln (2:32)
@@ -38,6 +39,9 @@ styles: ["Soundtrack", "Score"]
 22. 2.3_5-pun1shm3nt.ape (1:55)
 23. 2.4_1-heartworm.3gp (2:41)
 24. 2.4_2-m4ster-s1ave.msv (1:28)
+
+
+
 
 ## Videos
 {{< youtube id="tMHQIaPjRmo" title="Mr. Robot, Vol. 3 - Mac Quayle - Soundtrack Preview (Official Video)" >}}
@@ -67,8 +71,13 @@ styles: ["Soundtrack", "Score"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)](https://www.discogs.com/release/11225407-Mac-Quayle-Mr-Robot-Volume-3-Original-Television-Series-Soundtrack) |
-| Label          | Invada, Invada |
-| Format         | 2xLP, Album, Cle |
-| Catalog Number | LSINV189LP, LSINV189LPcol |
+| Label          | Invada |
+| Format         | Vinyl 2× LP Album (Clear w/ Red & White Splatter) |
+| Catalog Number | LSINV189LP |
 
-Sticker on release reads: "2 x Crystal clear with red & white splatter effect vinyl.  Deluxe gatefold sleeve includes full colour insert  + 11"× 22" fold-out poster."  Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing.
+Sticker on release reads:
+"2 x Crystal clear with red & white splatter effect vinyl. 
+Deluxe gatefold sleeve includes full colour insert 
++ 11"× 22" fold-out poster."
+
+Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing.

@@ -2,7 +2,7 @@
 title: "Talk Talk - The Party's Over"
 artist: "Talk Talk"
 album_name: "The Party's Over"
-date: 2017-11-04
+date: 2017-11-04T10:47:46.000000Z
 release_id: "11009246"
 slug: "the-party-s-over-11009246"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Talk Talk
 2. It's So Serious
@@ -23,8 +24,12 @@ styles: ["New Wave", "Synth-pop"]
 7. Mirror Man
 8. Another Word
 9. Candy
+
+
 ## Spotify
 {{< spotify type="album" id="3TWyZakhbJnds6Qx2uXIiC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}
@@ -46,7 +51,10 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2017 |
 | Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/11009246-Talk-Talk-The-Partys-Over) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 0190295792626 |
 
-Textured outer sleeve.   
+Textured outer sleeve.
+
+
+

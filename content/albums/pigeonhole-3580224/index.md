@@ -2,7 +2,7 @@
 title: "New Fast Automatic Daffodils - Pigeonhole"
 artist: "New Fast Automatic Daffodils"
 album_name: "Pigeonhole"
-date: 2016-02-29
+date: 2016-02-29T18:17:33.000000Z
 release_id: "3580224"
 slug: "pigeonhole-3580224"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Dub", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Get Better
 2. Fishes Eyes
@@ -23,8 +24,12 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 7. Amplifier
 8. Reprise
 9. Partial
+
+
 ## Spotify
 {{< spotify type="album" id="0MwGMuxZvOVTHFEMUoEexu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="mjhFtxhdN00" title="Get Better" >}}
@@ -54,7 +59,17 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 | Release Year   | 1990 |
 | Discogs Link   | [New Fast Automatic Daffodils - Pigeonhole](https://www.discogs.com/release/3580224-New-Fast-Automatic-Daffodils-Pigeonhole) |
 | Label          | Play It Again Sam Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | BIAS 185 |
 
-Regular release without 7" bonus single  Released in conjunction with Playtime Recorded at Studio House August / September 1990  Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".  A1 to A3, B2 to B5 published by Copyright Control A4 published by Playtime Songs/Sands Enterprises Ltd. B1 published by Playtime Songs/Copyright Control 
+Regular release without 7" bonus single
+
+Released in conjunction with Playtime
+Recorded at Studio House August / September 1990
+
+Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".
+
+A1 to A3, B2 to B5 published by Copyright Control
+A4 published by Playtime Songs/Sands Enterprises Ltd.
+B1 published by Playtime Songs/Copyright Control
+

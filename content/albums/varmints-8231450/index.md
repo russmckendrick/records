@@ -2,7 +2,7 @@
 title: "Anna Meredith - Varmints"
 artist: "Anna Meredith"
 album_name: "Varmints"
-date: 2016-10-26
+date: 2016-10-26T16:18:45.000000Z
 release_id: "8231450"
 slug: "varmints-8231450"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
+
 ## Tracklisting
 1. Nautilus (5:30)
 2. Taken (4:50)
@@ -25,8 +26,12 @@ styles: ["Modern Classical"]
 9. Last Rose (3:31)
 10. Shill (2:47)
 11. Blackfriars (2:58)
+
+
 ## Spotify
 {{< spotify type="album" id="1qVKTHX3HLFIi9PkTldCus" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Vajhs2wBeCU" title="Anna Meredith -  Nautilus (Official Video)" >}}
@@ -41,7 +46,5 @@ styles: ["Modern Classical"]
 | Release Year   | 2016 |
 | Discogs Link   | [Anna Meredith - Varmints](https://www.discogs.com/release/8231450-Anna-Meredith-Varmints) |
 | Label          | Moshi Moshi Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | MOSHILP67 |
-
-

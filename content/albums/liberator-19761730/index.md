@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Liberator"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Liberator"
-date: 2022-07-31
+date: 2022-07-31T06:15:26.000000Z
 release_id: "19761730"
 slug: "liberator-19761730"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Stand Above Me (3:33)
 2. Everyday (3:57)
@@ -26,8 +27,12 @@ styles: ["Synth-pop"]
 10. Best Years Of Our Lives (4:35)
 11. Christine (5:04)
 12. Only Tears (4:14)
+
+
 ## Spotify
 {{< spotify type="album" id="0xAbHDjFGLyK4vz9ZYTop7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Vc-d3FGoxDI" title="Dream Of Me (Based On Love's Theme)" >}}
@@ -47,8 +52,13 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730-OMD-Liberator) |
-| Label          | EMI, UMC |
-| Format         | LP, Album, RE, RM |
-| Catalog Number | 0602435422497, 3542249 |
+| Label          | EMI |
+| Format         | Vinyl LP Album Reissue Remastered |
+| Catalog Number | 0602435422497 |
 
-An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files).
+An EMI release.
+℗ 2021 Virgin Records Ltd.
+© 2021 Virgin Records Ltd.
+Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.
+Made in Germany.
+Includes download card (WAV files).

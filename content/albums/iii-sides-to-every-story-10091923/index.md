@@ -2,7 +2,7 @@
 title: "Extreme - III Sides To Every Story"
 artist: "Extreme"
 album_name: "III Sides To Every Story"
-date: 2017-05-03
+date: 2017-05-03T19:19:51.000000Z
 release_id: "10091923"
 slug: "iii-sides-to-every-story-10091923"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Funk Metal", "Hard Rock", "Glam"]
 ---
+
 ## Tracklisting
 1. Yours
 2. Warheads (5:18)
@@ -32,8 +33,12 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 16. Everything Under The Sun I: Rise 'N Shine (6:23)
 17. Everything Under The Sun II: Am I Ever Gonna Change (6:57)
 18. Everything Under The Sun III: Who Cares? (8:19)
+
+
 ## Spotify
 {{< spotify type="album" id="2TV8JqednqRKb2injBMYGd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="odz3c68JE1c" title="Extreme - Rest In Peace" >}}
@@ -58,7 +63,9 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 | Release Year   | 2017 |
 | Discogs Link   | [Extreme - III Sides To Every Story](https://www.discogs.com/release/10091923-Extreme-III-Sides-To-Every-Story) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, Ltd, Num, RE, RM, Gre |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Green, 180 Gram) |
 | Catalog Number | MOVLP1387 |
 
-- 180 gram audiophile vinyl - Includes insert with song lyrics - 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl
+- 180 gram audiophile vinyl
+- Includes insert with song lyrics
+- 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl

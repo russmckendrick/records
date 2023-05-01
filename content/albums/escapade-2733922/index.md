@@ -2,7 +2,7 @@
 title: "Tim Finn - Escapade"
 artist: "Tim Finn"
 album_name: "Escapade"
-date: 2015-10-14
+date: 2015-10-14T18:38:58.000000Z
 release_id: "2733922"
 slug: "escapade-2733922"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 ---
+
 ## Tracklisting
 1. Fraction Too Much Friction (4:14)
 2. Made My Day (3:23)
@@ -24,8 +25,12 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 8. I Only Want To Know (4:02)
 9. Growing Pains (3:01)
 10. Through The Years (3:48)
+
+
 ## Spotify
 {{< spotify type="album" id="1kvvgAbvJMTuYeYmEd7Xsy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="oyVGUQguaic" title="Tim Finn - Through The Years (1983)" >}}
@@ -39,7 +44,12 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 | Release Year   | 1983 |
 | Discogs Link   | [Tim Finn - Escapade](https://www.discogs.com/release/2733922-Tim-Finn-Escapade) |
 | Label          | Mushroom |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | RML 53104 |
 
-Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION. 
+Made In Australia
+
+℗ 1983 MUSHROOM RECORDS.
+MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST.
+TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.
+

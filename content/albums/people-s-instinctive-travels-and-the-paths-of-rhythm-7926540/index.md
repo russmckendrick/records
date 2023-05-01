@@ -2,7 +2,7 @@
 title: "A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm"
 artist: "A Tribe Called Quest"
 album_name: "People's Instinctive Travels And The Paths Of Rhythm"
-date: 2017-04-14
+date: 2017-04-14T09:25:48.000000Z
 release_id: "7926540"
 slug: "people-s-instinctive-travels-and-the-paths-of-rhythm-7926540"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 ---
+
 ## Tracklisting
 1. Push It Along (7:42)
 2. Luck Of Lucien (4:32)
@@ -32,8 +33,12 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 16. Footprints (Remix) (5:08)
 17. Bonita Applebum (Pharrell Williams Remix) (3:53)
 18. Can I Kick It? (J. Cole Remix) (2:49)
+
+
 ## Spotify
 {{< spotify type="album" id="3kV0i1qqudjf0PGawJ4jck" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="T6a8N2CjNRU" title="Push It Along" >}}
@@ -56,8 +61,14 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm](https://www.discogs.com/release/7926540-A-Tribe-Called-Quest-Peoples-Instinctive-Travels-And-The-Paths-Of-Rhythm) |
-| Label          | Jive, Legacy, Sony Music |
-| Format         | 2xLP, Album, RE, RM, 25t |
+| Label          | Jive |
+| Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary, Gatefold, 180 gram) |
 | Catalog Number | 88875172371 |
 
-25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.
+25th anniversary edition with 3 bonus remixes.
+
+Made in the EU.
+
+Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp". 
+
+Pressed By and Lacquer Cut At derived from matrix details.

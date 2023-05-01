@@ -2,7 +2,7 @@
 title: "Bruce Springsteen & The E-Street Band - Hammersmith Odeon, London '75"
 artist: "Bruce Springsteen & The E-Street Band"
 album_name: "Hammersmith Odeon, London '75"
-date: 2017-06-30
+date: 2017-06-30T17:50:31.000000Z
 release_id: "10498779"
 slug: "hammersmith-odeon-london-75-10498779"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Thunder Road
 2. Tenth Avenue Freeze-Out
@@ -30,8 +31,12 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 14. Detroit Medley
 15. For You
 16. Quarter To Three
+
+
 ## Spotify
 {{< spotify type="album" id="29HIscCMZKDTvGBWOQgbyf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="e_W-I5LKiBY" title="Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75" >}}
@@ -67,7 +72,22 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Bruce Springsteen & The E-Street Band - Hammersmith Odeon, London '75](https://www.discogs.com/release/10498779-Bruce-Springsteen-The-E-Street-Band-Hammersmith-Odeon-London-75) |
 | Label          | Columbia |
-| Format         | 4xLP, Album, RP |
+| Format         | Vinyl 4× LP Album Repress |
 | Catalog Number | 88985441551 |
 
-All songs ASCAP except: "The E Street Shuffle" contains a portion of "Having A Party" [ABKCO Music, Inc. (BMI)]; "Kitty's Back" contains a portion of "Moondance" [WB Music Corp. obo itself and Caledonia Soul Music]; "Rosalita (Come Out Tonight)" contains portions of "Come A Little Bit Closer" [Morris Music, Inc] and "Theme From Shaft" [Irving Music, Inc. (BMI)]; "Detroit Medley" contains "Jenny Take A Ride" [EMI Longitude Music (BMI)/Sony/ATV Songs LLC (BMI)], "Devil With A Blue Dress On" [Stone Agate Music (BMI)] and "Good Golly Miss Molly" [Robin Hood Music Co. (BMI)/Cedos Music (BMI)]; "Quarter to Three" [Wixen Music Publishing Inc. o/b/o Rockmasters International Network Inc. (BMI)].  Hype sticker attached reads: Four LP Set First Time Ever On Vinyl Includes Digital Download  © 2006, 2017 Bruce Springsteen/88985387091SV2 ℗ 2005 Bruce Springsteen  Both this US release and unnumbered European release [r11827114] were made in the EU and have the same barcode 889854415518, but text above barcode on rear cover differs between the US and European releases.
+All songs ASCAP except:
+"The E Street Shuffle" contains a portion of "Having A Party" [ABKCO Music, Inc. (BMI)];
+"Kitty's Back" contains a portion of "Moondance" [WB Music Corp. obo itself and Caledonia Soul Music];
+"Rosalita (Come Out Tonight)" contains portions of "Come A Little Bit Closer" [Morris Music, Inc] and "Theme From Shaft" [Irving Music, Inc. (BMI)];
+"Detroit Medley" contains "Jenny Take A Ride" [EMI Longitude Music (BMI)/Sony/ATV Songs LLC (BMI)], "Devil With A Blue Dress On" [Stone Agate Music (BMI)] and "Good Golly Miss Molly" [Robin Hood Music Co. (BMI)/Cedos Music (BMI)];
+"Quarter to Three" [Wixen Music Publishing Inc. o/b/o Rockmasters International Network Inc. (BMI)].
+
+Hype sticker attached reads:
+Four LP Set
+First Time Ever On Vinyl
+Includes Digital Download
+
+© 2006, 2017 Bruce Springsteen/88985387091SV2
+℗ 2005 Bruce Springsteen
+
+Both this US release and unnumbered European release [r11827114] were made in the EU and have the same barcode 889854415518, but text above barcode on rear cover differs between the US and European releases.

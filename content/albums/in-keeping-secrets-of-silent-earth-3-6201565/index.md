@@ -2,7 +2,7 @@
 title: "Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3"
 artist: "Coheed And Cambria"
 album_name: "In Keeping Secrets Of Silent Earth: 3"
-date: 2017-07-16
+date: 2017-07-16T08:41:50.000000Z
 release_id: "6201565"
 slug: "in-keeping-secrets-of-silent-earth-3-6201565"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. The Ring In Return (2:07)
 2. In Keeping Secrets Of Silent Earth: 3 (8:12)
@@ -26,8 +27,12 @@ styles: ["Prog Rock", "Art Rock"]
 10. A Favor House Atlantic (3:54)
 11. The Light & The Glass (9:39)
 12. 2113 (9:46)
+
+
 ## Spotify
 {{< spotify type="album" id="2oWXmi9uLRKn60yRmY22MB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}
@@ -38,8 +43,10 @@ styles: ["Prog Rock", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3](https://www.discogs.com/release/6201565-Coheed-And-Cambria-In-Keeping-Secrets-Of-Silent-Earth-3) |
-| Label          | Columbia, Equal Vision Records, Legacy, Sony Music |
-| Format         | 2xLP, Ltd, RE, RM, 180 |
-| Catalog Number | 88843099221, none |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Limited Edition Reissue Remastered (180g) |
+| Catalog Number | 88843099221 |
 
-Black EU pressing  Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"
+Black EU pressing
+
+Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"

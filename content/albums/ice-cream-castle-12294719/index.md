@@ -2,7 +2,7 @@
 title: "The Time - Ice Cream Castle"
 artist: "The Time"
 album_name: "Ice Cream Castle"
-date: 2018-07-28
+date: 2018-07-28T20:49:54.000000Z
 release_id: "12294719"
 slug: "ice-cream-castle-12294719"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Funk", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Ice Cream Castles (7:33)
 2. My Drawers (4:04)
@@ -20,8 +21,12 @@ styles: ["Funk", "Rhythm & Blues"]
 4. Jungle Love (3:29)
 5. If The Kid Can't Make You Come (7:33)
 6. The Bird (7:10)
+
+
 ## Spotify
 {{< spotify type="album" id="6U9fEF6ZUIDM8M03JNB9I4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FI2pPT_GqPs" title="Ice Cream Castles" >}}
@@ -36,8 +41,10 @@ styles: ["Funk", "Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719-The-Time-Ice-Cream-Castle) |
-| Label          | Warner Bros. Records, Warner Bros. Records |
-| Format         | LP, Album, Ltd, RE, Tri |
-| Catalog Number | RCV1-25109, 603497860715 |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album Limited Edition Reissue (Tri-coloured Vinyl) |
+| Catalog Number | RCV1-25109 |
 
-Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown.
+Originally mastered by Bernie Grundman Mastering
+
+European issue presented on Neopolitan Vinyl, Pink/White/Brown.

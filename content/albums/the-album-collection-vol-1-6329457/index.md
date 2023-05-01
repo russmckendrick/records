@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - The Album Collection Vol. 1"
 artist: "Bruce Springsteen"
 album_name: "The Album Collection Vol. 1"
-date: 2016-01-19
+date: 2016-01-19T19:37:33.000000Z
 release_id: "6329457"
 slug: "the-album-collection-vol-1-6329457"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Greetings From Asbury Park, N.J.
 2. Blinded By The Light (5:02)
@@ -98,6 +99,9 @@ styles: ["Classic Rock"]
 82. Dancing In The Dark (4:01)
 83. My Hometown (4:33)
 
+
+
+
 ## Videos
 {{< youtube id="H7T_9Yt9f2U" title="Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)" >}}
 - [Bruce Springsteen: The Album Collection - The Thrill Hill Sessions (Digital video- with...](https://www.youtube.com/watch?v=3evNvtbgojk)
@@ -109,8 +113,18 @@ styles: ["Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Bruce Springsteen - The Album Collection Vol. 1](https://www.discogs.com/release/6329457-Bruce-Springsteen-The-Album-Collection-Vol-1) |
-| Label          | Columbia, Sony Music, Legacy |
-| Format         | LP, Album, RM + LP, Album, RM + LP, Album, RM + LP |
+| Label          | Columbia |
+| Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl 2× LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
 | Catalog Number | 88875014151 |
 
-A box set comprising the first eleven years of Bruce Springsteen's career, all seven albums on eight discs (The River is a double album). All albums are remastered for vinyl for the first time ever, transferred from the original analogue masters using the Plangent Process playback system. Packed in a neat box with a leather-like finish. The box set also includes a 60-page book filled with rare photos, press clippings and other memorabilia. All albums are packed in replicas of original sleeves.  Greetings FromAsbury Park, N.J.: KC 31903 The Wild, The Innocent, And The E Street Shuffle: KC 32432 Born To Run: PC 33795 Darkness On The Edge Of Town: JC 35318 The River: PC2 36854 Nebraska: QC 38358 Born In The U.S.A.: QC 38653  Nebraska's tracklisting is wonky. The back cover of the album just lists all ten tracks. Labels (and the sheet on the box) say that A-side has six tracks and B-side has four. There are actually five tracks on both sides. I made the track listing based on the real amount of tracks on each side.
+A box set comprising the first eleven years of Bruce Springsteen's career, all seven albums on eight discs (The River is a double album). All albums are remastered for vinyl for the first time ever, transferred from the original analogue masters using the Plangent Process playback system. Packed in a neat box with a leather-like finish. The box set also includes a 60-page book filled with rare photos, press clippings and other memorabilia. All albums are packed in replicas of original sleeves.
+
+Greetings FromAsbury Park, N.J.: KC 31903
+The Wild, The Innocent, And The E Street Shuffle: KC 32432
+Born To Run: PC 33795
+Darkness On The Edge Of Town: JC 35318
+The River: PC2 36854
+Nebraska: QC 38358
+Born In The U.S.A.: QC 38653
+
+Nebraska's tracklisting is wonky. The back cover of the album just lists all ten tracks. Labels (and the sheet on the box) say that A-side has six tracks and B-side has four. There are actually five tracks on both sides. I made the track listing based on the real amount of tracks on each side.

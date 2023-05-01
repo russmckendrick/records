@@ -2,7 +2,7 @@
 title: "Terrorvision - How To Make Friends And Influence People"
 artist: "Terrorvision"
 album_name: "How To Make Friends And Influence People"
-date: 2019-05-31
+date: 2019-05-31T19:17:19.000000Z
 release_id: "996005"
 slug: "how-to-make-friends-and-influence-people-996005"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Alice What's The Matter? (2:43)
 2. Oblivion (3:03)
@@ -27,8 +28,12 @@ styles: ["Pop Rock", "Indie Rock"]
 11. What The Doctor Ordered (2:17)
 12. Some People Say (3:03)
 13. What Makes You Tick (4:12)
+
+
 ## Spotify
 {{< spotify type="album" id="0EOluXU5iamm44jNL1H0vn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="VOOcJobuZTc" title="Terrorvision - Alice, What's the matter?" >}}
@@ -45,8 +50,8 @@ styles: ["Pop Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1994 |
 | Discogs Link   | [Terrorvision - How To Make Friends And Influence People](https://www.discogs.com/release/996005-Terrorvision-How-To-Make-Friends-And-Influence-People) |
-| Label          | EMI, Total Vegas Recordings |
-| Format         | LP, Album |
-| Catalog Number | 7243 8 29406 1 6, VEGAS LPX 2 |
+| Label          | EMI |
+| Format         | Vinyl LP Album |
+| Catalog Number | 7243 8 29406 1 6 |
 
 Comes with lyric printed inner sleeve.

@@ -2,7 +2,7 @@
 title: "Maggie Bell - Queen Of The Night"
 artist: "Maggie Bell"
 album_name: "Queen Of The Night"
-date: 2015-10-02
+date: 2015-10-02T09:37:22.000000Z
 release_id: "2386688"
 slug: "queen-of-the-night-2386688"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Blues Rock"]
 ---
+
 ## Tracklisting
 1. Caddo Queen (3:35)
 2. A Woman Left Lonely (3:54)
@@ -25,8 +26,12 @@ styles: ["Blues Rock"]
 9. We Had It All (2:55)
 10. The Other Side (2:59)
 11. Trade Winds (5:11)
+
+
 ## Spotify
 {{< spotify type="album" id="7zAViKhzlLc837pE1NquIS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night (1974) [ Complete LP]" >}}
@@ -42,7 +47,22 @@ styles: ["Blues Rock"]
 | Release Year   | 1974 |
 | Discogs Link   | [Maggie Bell - Queen Of The Night](https://www.discogs.com/release/2386688-Maggie-Bell-Queen-Of-The-Night) |
 | Label          | Polydor |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 2383 239 |
 
-On the sleeve: 2383 239 SUPER (Polydor logo) Marketed by Polydor Limited Also available on Musicassette 3170 125 and 8 Track Cartridge 3820 080 A (Colourme Gone logo) Product Sleeve printed and made in England by MacNeill Press., London, SE1   On the labels: Polydor Stereo 2383239 Made in England ℗ 1974 Polydor Int. Track A1 has been misspelt as "Cado Queen"
+On the sleeve:
+2383 239 SUPER
+(Polydor logo)
+Marketed by Polydor Limited
+Also available on Musicassette 3170 125
+and 8 Track Cartridge 3820 080
+A (Colourme Gone logo) Product
+Sleeve printed and made in England by MacNeill Press., London, SE1 
+
+On the labels:
+Polydor
+Stereo
+2383239
+Made in England
+℗ 1974 Polydor Int.
+Track A1 has been misspelt as "Cado Queen"

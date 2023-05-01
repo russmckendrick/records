@@ -2,7 +2,7 @@
 title: "Anathema - We're Here Because We're Here"
 artist: "Anathema"
 album_name: "We're Here Because We're Here"
-date: 2020-03-21
+date: 2020-03-21T16:17:46.000000Z
 release_id: "14963699"
 slug: "we-re-here-because-we-re-here-14963699"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Thin Air (6:00)
 2. Summernight Horizon (4:13)
@@ -24,6 +25,9 @@ styles: ["Alternative Rock", "Prog Rock"]
 8. Get Off Get Out (5:01)
 9. Universal (7:19)
 10. Hindsight (8:11)
+
+
+
 
 ## Videos
 {{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air (lyrics)" >}}
@@ -39,7 +43,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Anathema - We're Here Because We're Here](https://www.discogs.com/release/14963699-Anathema-Were-Here-Because-Were-Here) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, RE, Cle |
+| Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Catalog Number | Kscope1068 |
 
 10th anniversary edition on clear vinyl.

@@ -2,7 +2,7 @@
 title: "The Cure - The Head On The Door"
 artist: "The Cure"
 album_name: "The Head On The Door"
-date: 2018-03-29
+date: 2018-03-29T19:50:27.000000Z
 release_id: "2418673"
 slug: "the-head-on-the-door-2418673"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. In Between Days
 2. Kyoto Song
@@ -24,8 +25,11 @@ styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 8. A Night Like This
 9. Screw
 10. Sinking
+
+
 ## Spotify
 {{< spotify type="album" id="4Uq47onfCEj5en94jpHovk" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,7 +38,14 @@ styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 | Release Year   | 2008 |
 | Discogs Link   | [The Cure - The Head On The Door](https://www.discogs.com/release/2418673-The-Cure-The-Head-On-The-Door) |
 | Label          | Fiction Records |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Catalog Number | 0042282723116 |
 
-180 gram vinyl remastered "Back to black" 60th vinyl anniversary series Includes a voucher to download MP3 version of the album Made in EU  Inner sleeve with printed lyrics Originally released in 1985 
+180 gram vinyl remastered
+"Back to black" 60th vinyl anniversary series
+Includes a voucher to download MP3 version of the album
+Made in EU
+
+Inner sleeve with printed lyrics
+Originally released in 1985
+

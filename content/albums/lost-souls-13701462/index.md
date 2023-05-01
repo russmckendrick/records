@@ -2,7 +2,7 @@
 title: "Doves - Lost Souls "
 artist: "Doves"
 album_name: "Lost Souls "
-date: 2019-06-03
+date: 2019-06-03T17:50:28.000000Z
 release_id: "13701462"
 slug: "lost-souls-13701462"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Firesuite
 2. Here It Comes 
@@ -26,8 +27,12 @@ styles: ["Space Rock", "Indie Rock"]
 10. The Cedar Room
 11. Reprise
 12. A House 
+
+
 ## Spotify
 {{< spotify type="album" id="33nyNThvBKPzS4NGdnWACf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}
@@ -48,7 +53,12 @@ styles: ["Space Rock", "Indie Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Doves - Lost Souls ](https://www.discogs.com/release/13701462-Doves-Lost-Souls-) |
 | Label          | Heavenly |
-| Format         | 2xLP, Album, Ltd, Num, RE, Gre |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Grey) |
 | Catalog Number | 7748262 |
 
-This album is for [Robert Leo Gretton](https://www.discogs.com/artist/236150-Rob-Gretton) ℗ 2000 [l26760] © 2019 [l26760] made in e.u.  Comes with a [l1052727] download coupon.
+This album is for [url=https://www.discogs.com/artist/236150-Rob-Gretton]Robert Leo Gretton[/url]
+℗ 2000 [l26760]
+© 2019 [l26760]
+made in e.u.
+
+Comes with a [l1052727] download coupon.

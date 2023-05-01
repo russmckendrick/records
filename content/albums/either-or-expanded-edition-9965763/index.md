@@ -2,7 +2,7 @@
 title: "Elliott Smith - Either / Or: Expanded Edition"
 artist: "Elliott Smith"
 album_name: "Either / Or: Expanded Edition"
-date: 2017-05-16
+date: 2017-05-16T18:19:04.000000Z
 release_id: "9965763"
 slug: "either-or-expanded-edition-9965763"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Speed Trials
 2. Alameda
@@ -36,6 +37,9 @@ styles: ["Indie Rock"]
 20. I Figured You Out
 21. Bottle Up and Explode! (Alternate Version)
 
+
+
+
 ## Videos
 {{< youtube id="9g-vyrGKGWM" title="Elliott Smith - Either/Or: Expanded Edition (CD1)" >}}
 - [Elliott Smith - Either/Or: Expanded Edition (CD2)](https://www.youtube.com/watch?v=2jrOSoOBVmI)
@@ -58,7 +62,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Elliott Smith - Either / Or: Expanded Edition](https://www.discogs.com/release/9965763-Elliott-Smith-Either-Or-Expanded-Edition) |
 | Label          | Kill Rock Stars |
-| Format         | 2xLP, Album, Ltd, RE, RM |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered |
 | Catalog Number | KRS620 |
 
 Black vinyl version.

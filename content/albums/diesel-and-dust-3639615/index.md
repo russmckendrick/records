@@ -2,7 +2,7 @@
 title: "Midnight Oil - Diesel And Dust"
 artist: "Midnight Oil"
 album_name: "Diesel And Dust"
-date: 2016-01-07
+date: 2016-01-07T16:18:51.000000Z
 release_id: "3639615"
 slug: "diesel-and-dust-3639615"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Beds Are Burning (4:14)
 2. Put Down That Weapon (4:38)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Bullroarer (4:59)
 9. Sell My Soul (3:35)
 10. Sometimes (3:53)
+
+
 ## Spotify
 {{< spotify type="album" id="243XzHQegX82bPnUVQ0SPV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="R6eJwfgATZ8" title="Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]" >}}
@@ -46,8 +51,16 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615-Midnight-Oil-Diesel-And-Dust) |
-| Label          | CBS, Sprint Music |
-| Format         | LP, Album, Red |
+| Label          | CBS |
+| Format         | Vinyl LP Album Stereo (Red Label) |
 | Catalog Number | 460005 1 |
 
-Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England.
+Non-gatefold sleeve with generic inner sleeve.
+
+Recorded at Albert Studios, Sydney, Australia.
+
+ⓟ 1987 Midnight Oil
+
+Shorepak by Shorewood Packaging Co. Ltd., England
+
+Made in England.

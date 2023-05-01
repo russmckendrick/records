@@ -2,7 +2,7 @@
 title: "Matt Berry - Night Terrors (Nocturnal Excursions In Music)"
 artist: "Matt Berry"
 album_name: "Night Terrors (Nocturnal Excursions In Music)"
-date: 2017-11-17
+date: 2017-11-17T16:41:45.000000Z
 release_id: "11157206"
 slug: "night-terrors-nocturnal-excursions-in-music-11157206"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Night Terrors (Nocturnal Excursions In Music) by Matt Berry"
     caption: "Night Terrors (Nocturnal Excursions In Music) by Matt Berry"
 genres: ["Jazz", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Night Terrors (Saint Etienne Remix) (4:15)
 2. Middle Of The East (3:39)
@@ -22,6 +23,9 @@ styles: null
 6. Mr Green Genes (2:58)
 7. Hey Little Girl (3:48)
 8. Night Terrors (Clark Remix) (6:28)
+
+
+
 
 ## Videos
 {{< youtube id="m32LRNhhNXQ" title="Matt Berry - The Night Terrors (Saint Etienne Remix)" >}}
@@ -39,7 +43,7 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Matt Berry - Night Terrors (Nocturnal Excursions In Music)](https://www.discogs.com/release/11157206-Matt-Berry-Night-Terrors-Nocturnal-Excursions-In-Music) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Ltd, Num |
+| Format         | Vinyl LP Album Limited Edition Numbered |
 | Catalog Number | AJXLP415 |
 
 Pre-orders from label website were signed.

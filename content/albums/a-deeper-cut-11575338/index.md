@@ -2,7 +2,7 @@
 title: "The Temperance Movement - A Deeper Cut"
 artist: "The Temperance Movement"
 album_name: "A Deeper Cut"
-date: 2018-02-16
+date: 2018-02-16T18:48:36.000000Z
 release_id: "11575338"
 slug: "a-deeper-cut-11575338"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
+
 ## Tracklisting
 1. Caught In The Middle
 2. Built-In Forgetter
@@ -26,8 +27,12 @@ styles: ["Blues Rock"]
 10. Children
 11. There's Still Time
 12. The Wonders We've Seen
+
+
 ## Spotify
 {{< spotify type="album" id="081mWFWjZU1Dyl2RspScxV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="VMTDrY4lTDo" title="The Temperance Movement - Caught in the Middle (Official Video)" >}}
@@ -49,7 +54,9 @@ styles: ["Blues Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Temperance Movement - A Deeper Cut](https://www.discogs.com/release/11575338-The-Temperance-Movement-A-Deeper-Cut) |
 | Label          | Earache |
-| Format         | LP, Album, Ltd, Ora |
+| Format         | Vinyl LP Album Limited Edition (Orange, Gatefold) |
 | Catalog Number | MOSH606LP |
 
-Came with glossy 4 pages booklet with lyrics and credits. Limited to 1000 copies for the indie stores. Label code only on lower right on back cover.
+Came with glossy 4 pages booklet with lyrics and credits.
+Limited to 1000 copies for the indie stores.
+Label code only on lower right on back cover.

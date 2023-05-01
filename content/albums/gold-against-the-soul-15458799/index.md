@@ -2,7 +2,7 @@
 title: "Manic Street Preachers - Gold Against The Soul"
 artist: "Manic Street Preachers"
 album_name: "Gold Against The Soul"
-date: 2020-06-13
+date: 2020-06-13T16:53:43.000000Z
 release_id: "15458799"
 slug: "gold-against-the-soul-15458799"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Sleepflower
 2. From Despair To Where
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Nostalgic Pushead
 9. Symphony Of Tourette
 10. Gold Against The Soul
+
+
 ## Spotify
 {{< spotify type="album" id="6x9KvCYdH5GEMC3C0OuVBq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}
@@ -50,8 +55,14 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Manic Street Preachers - Gold Against The Soul](https://www.discogs.com/release/15458799-Manic-Street-Preachers-Gold-Against-The-Soul) |
-| Label          | Columbia, Sony Music |
-| Format         | LP, Album, RE, RM |
+| Label          | Columbia |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | 19439733611 |
 
-2020 remastered reissue on 180gm vinyl.  Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.  Includes a [l=we are vinyl] download code for album plus b sides.  Made in the EU.
+2020 remastered reissue on 180gm vinyl.
+
+Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.
+
+Includes a [l=we are vinyl] download code for album plus b sides.
+
+Made in the EU.

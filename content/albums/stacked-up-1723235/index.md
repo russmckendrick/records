@@ -2,7 +2,7 @@
 title: "Senser - Stacked Up"
 artist: "Senser"
 album_name: "Stacked Up"
-date: 2015-12-04
+date: 2015-12-04T18:21:46.000000Z
 release_id: "1723235"
 slug: "stacked-up-1723235"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Electro"]
 ---
+
 ## Tracklisting
 1. States Of Mind (5:10)
 2. The Key (5:22)
@@ -27,16 +28,19 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 11. Eject (5:19)
 12. No Comply (2:37)
 13. Worth (3:04)
+
+
 ## Spotify
 {{< spotify type="album" id="303SfM4fCrqwqnsSCQG8bV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}
 - [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
-- [Senser - Stacked Up (full album) (1994)](https://www.youtube.com/watch?v=l0IrgkZLlcs)
+- [Senser - Switch (Official Video)](https://www.youtube.com/watch?v=TPbXnwkiTF4)
 - [States of Mind  by Senser, of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
 - [Senser - No Comply (Official Video)](https://www.youtube.com/watch?v=K5yYtzsJAyg)
-- [Senser - Switch (Official Video)](https://www.youtube.com/watch?v=TPbXnwkiTF4)
 - [Senser - Age Of Panic - Live @ Reading Festival '94](https://www.youtube.com/watch?v=sbX5Ft336tA)
 - [Senser - Worth](https://www.youtube.com/watch?v=ImyjkfQbSH8)
 - [The Key](https://www.youtube.com/watch?v=A6sEg0fdWV8)
@@ -49,14 +53,20 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 - [Senser - Worth (fusion metal techno hip hop)](https://www.youtube.com/watch?v=TGJs3aGXZMw)
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
+- [Senser  'Stacked Up' (Full Album)](https://www.youtube.com/watch?v=8M6r_sLmKJk)
+- [Senser - Age of Panic + Eject (live at Glastonbury 1994)](https://www.youtube.com/watch?v=WNhlU-n7eGs)
+- [Senser stacked up rehearsals and writing sessions 1992](https://www.youtube.com/watch?v=uYwnVsNhjck)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1994 |
 | Discogs Link   | [Senser - Stacked Up](https://www.discogs.com/release/1723235-Senser-Stacked-Up) |
-| Label          | Ultimate, Ultimate |
-| Format         | 2xLP, Album, Ltd, Num, Yel |
-| Catalog Number | topp lp008s, topp lp 008 |
+| Label          | Ultimate |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered (Yellow Fluorescent) |
+| Catalog Number | topp lp008s |
 
-Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold Sleeve with lyrics on inside. Some with merchandise insert. 
+Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered.
+Gatefold Sleeve with lyrics on inside.
+Some with merchandise insert.
+

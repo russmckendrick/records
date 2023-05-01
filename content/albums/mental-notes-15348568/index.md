@@ -2,7 +2,7 @@
 title: "Split Enz - Mental Notes"
 artist: "Split Enz"
 album_name: "Mental Notes"
-date: 2020-05-26
+date: 2020-05-26T13:00:53.000000Z
 release_id: "15348568"
 slug: "mental-notes-15348568"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Late Last Night
 2. Walking Down A Road
@@ -24,8 +25,12 @@ styles: ["Prog Rock", "Art Rock"]
 8. Matinee Idyll
 9. The Woman Who Loves You
 10. Mental Notes
+
+
 ## Spotify
 {{< spotify type="album" id="40kD3JoZgiQL0ZwH9OZ2Bg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}
@@ -43,7 +48,8 @@ styles: ["Prog Rock", "Art Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568-Split-Enz-Mental-Notes) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, RM, Whi |
+| Format         | Vinyl LP Album Reissue Remastered (White, 180g) |
 | Catalog Number | DEMREC540 |
 
-Gatefold Runouts are stamped
+Gatefold
+Runouts are stamped

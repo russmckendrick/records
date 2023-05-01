@@ -2,7 +2,7 @@
 title: "Steven Wilson - Last Day Of June "
 artist: "Steven Wilson"
 album_name: "Last Day Of June "
-date: 2021-11-19
+date: 2021-11-19T04:20:08.000000Z
 release_id: "21028867"
 slug: "last-day-of-june-21028867"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 ---
+
 ## Tracklisting
 1. Some Things Cannot Be Changed (2:58)
 2. That Day By The Pier (3:58)
@@ -29,8 +30,12 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 13. Accept (4:13)
 14. Deceive (1:07)
 15. Together, Forever Again (3:52)
+
+
 ## Spotify
 {{< spotify type="album" id="5e5WJwdXlbWIDbQuoSd4uJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tWDMTkxppso" title="The Last Day Of June" >}}
@@ -45,7 +50,18 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 | Release Year   | 2021 |
 | Discogs Link   | [Steven Wilson - Last Day Of June ](https://www.discogs.com/release/21028867-Steven-Wilson-Last-Day-Of-June-) |
 | Label          | Music On Vinyl |
-| Format         | LP, Dlx, Ltd, Num, Blu |
+| Format         | Vinyl LP Deluxe Edition Limited Edition Numbered Stereo (Blue Translucent) |
 | Catalog Number | MOVATM335 |
 
-Original game soundtrack by Steven Wilson. Limited edition of 4000 numbered copies on Translucent Blue Vinyl  Based on music originally released between 2004-2016. Includes exclusive mixes and edits. Includes insert. 180 gram audiophile vinyl.  Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’.  Barcode sticker on back.   ℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd. Made in the EU.
+Original game soundtrack by Steven Wilson.
+Limited edition of 4000 numbered copies on Translucent Blue Vinyl 
+Based on music originally released between 2004-2016.
+Includes exclusive mixes and edits.
+Includes insert.
+180 gram audiophile vinyl.
+
+Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’. 
+Barcode sticker on back. 
+
+℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd.
+Made in the EU.

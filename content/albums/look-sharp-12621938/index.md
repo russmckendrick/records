@@ -2,7 +2,7 @@
 title: "Roxette - Look Sharp!"
 artist: "Roxette"
 album_name: "Look Sharp!"
-date: 2018-10-19
+date: 2018-10-19T19:21:00.000000Z
 release_id: "12621938"
 slug: "look-sharp-12621938"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Look (3:56)
 2. Dressed For Success (4:11)
@@ -26,8 +27,12 @@ styles: ["Synth-pop"]
 10. View From A Hill (3:39)
 11. Shadow Of A Doubt (4:13)
 12. Listen To Your Heart (5:27)
+
+
 ## Spotify
 {{< spotify type="album" id="487Xg1a57O6pDfkyYcbuFx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dzrPH89rtWY" title="Roxette - The Look" >}}
@@ -53,7 +58,7 @@ styles: ["Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Roxette - Look Sharp!](https://www.discogs.com/release/12621938-Roxette-Look-Sharp) |
 | Label          | Parlophone |
-| Format         | LP, Album, Ltd, RE, Red |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red) |
 | Catalog Number | 5054197026607 |
 
 2018 reissue limited edition red vinyl.

@@ -2,7 +2,7 @@
 title: "The Lemonheads - It's A Shame About Ray"
 artist: "The Lemonheads"
 album_name: "It's A Shame About Ray"
-date: 2022-04-24
+date: 2022-04-24T04:28:35.000000Z
 release_id: "22405678"
 slug: "it-s-a-shame-about-ray-22405678"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Original Album
 2. Rockin Stroll (1:41)
@@ -45,8 +46,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 29. Rudderless
 30. Ceiling Fan In My Spoon
 31. Confetti
+
+
 ## Spotify
 {{< spotify type="album" id="4Q8DyYRZ8qbDoTUDJBgE3A" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="NofWFKSMiM4" title="Lemonheads - Rudderless (Album version)" >}}
@@ -63,7 +68,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Lemonheads - It's A Shame About Ray](https://www.discogs.com/release/22405678-Lemonheads-Its-A-Shame-About-Ray) |
 | Label          | Fire Records |
-| Format         | 2xLP, Album, Ltd, RE, RM, Gol |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gold) |
 | Catalog Number | FIRELP624 |
 
-Limited to 1000 copies.   Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download.
+Limited to 1000 copies. 
+
+Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download.

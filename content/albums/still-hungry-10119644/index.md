@@ -1,18 +1,19 @@
 ---
-title: "DJ Format & Abdominal - Still Hungry"
-artist: "DJ Format & Abdominal"
+title: "DJ Format - Still Hungry"
+artist: "DJ Format"
 album_name: "Still Hungry"
-date: 2017-04-28
+date: 2017-04-28T14:34:14.000000Z
 release_id: "10119644"
 slug: "still-hungry-10119644"
 hideSummary: true
 cover:
     image: "still-hungry-10119644.jpg"
-    alt: "Still Hungry by DJ Format & Abdominal"
-    caption: "Still Hungry by DJ Format & Abdominal"
+    alt: "Still Hungry by DJ Format"
+    caption: "Still Hungry by DJ Format"
 genres: ["Hip Hop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Still Hungry
 2. We're Back
@@ -24,6 +25,12 @@ styles: null
 8. Forged From Hardship
 9. White Rapper
 10. We Say
+
+
+## Spotify
+{{< spotify type="album" id="5iigLSGkoPUnCAlLM9Fisi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rvbrRYUpRoA" title="DJ Format & Abdominal - We Say" >}}
@@ -37,9 +44,7 @@ styles: null
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [DJ Format & Abdominal - Still Hungry](https://www.discogs.com/release/10119644-DJ-Format-Abdominal-Still-Hungry) |
+| Discogs Link   | [DJ Format - Still Hungry](https://www.discogs.com/release/10119644-DJ-Format-Abdominal-Still-Hungry) |
 | Label          | AAF |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | AAF003LP |
-
-

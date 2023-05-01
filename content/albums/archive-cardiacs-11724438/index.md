@@ -2,7 +2,7 @@
 title: "Cardiacs - Archive Cardiacs"
 artist: "Cardiacs"
 album_name: "Archive Cardiacs"
-date: 2018-03-18
+date: 2018-03-18T15:59:40.000000Z
 release_id: "11724438"
 slug: "archive-cardiacs-11724438"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 ---
+
 ## Tracklisting
 1. Aukamacic
 2. Icky Qualms
@@ -27,6 +28,9 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 11. Piffol Three Times
 12. Rock Around The Clock
 
+
+
+
 ## Videos
 {{< youtube id="YU3fP7Efy28" title="Cardiacs - T.V.T.V." >}}
 - [Aukamacic](https://www.youtube.com/watch?v=3eEf17I2y0k)
@@ -40,7 +44,9 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 | Release Year   | 2018 |
 | Discogs Link   | [Cardiacs - Archive Cardiacs](https://www.discogs.com/release/11724438-Cardiacs-Archive-Cardiacs) |
 | Label          | The Alphabet Business Concern |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ALPH LP 000 |
 
-A collection of recordings from the period 1977-79.  Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve.
+A collection of recordings from the period 1977-79.
+
+Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve.

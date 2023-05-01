@@ -2,7 +2,7 @@
 title: "The Beach Boys - Pet Sounds"
 artist: "The Beach Boys"
 album_name: "Pet Sounds"
-date: 2019-08-05
+date: 2019-08-05T17:25:41.000000Z
 release_id: "11559296"
 slug: "pet-sounds-11559296"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Wouldn't It Be Nice (2:22)
 2. You Still Believe In Me (2:33)
@@ -27,22 +28,30 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 11. I Just Wasn't Made For These Times (3:21)
 12. Pet Sounds (2:20)
 13. Caroline, No (2:16)
+
+
 ## Spotify
 {{< spotify type="album" id="6GphKx2QAPRoVGWE9D7ou8" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="Mh_yhTyae08" title="The B̲each B̲oys - P̲et S̲ounds (Full Album) 1966" >}}
-- [The Beach Boys - Wouldn't It Be Nice](https://www.youtube.com/watch?v=5lP8BZcyoEQ)
-- [T̲h̲e̲ B̲each B̲oys - P̲et̲ S̲ounds [Full Album] (1966)](https://www.youtube.com/watch?v=f9keMETFIbk)
-- [Pet Sounds (Stereo / Remastered)](https://www.youtube.com/watch?v=EeN_NytxKEc)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/11559296-The-Beach-Boys-Pet-Sounds) |
-| Label          | Capitol Records, UMe, Capitol Records |
-| Format         | LP, Album, Ltd, RE, Yel |
-| Catalog Number | B0024729-01, ST 2458 |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow / Green, 130 g) |
+| Catalog Number | B0024729-01 |
 
-Limited repress of 2000 on 130g vinyl by The Sound of Vinyl.  Rear cover, bottom:  This stereo record should be played only with a stereo cartridge and needle to avoid damage.  Stereo mix produced and mixed by Mark Linett under the supervision of Brian Wilson. ℗ © 2016 Capitol records, LLC, 1750 N. Vine Street, Hollywood, CA 90028 - U.S.A.  Distributed by Universal Music Disctribution.  All rights reserved.   B0024729-01  UNIVERSALMUSICENTERPRISES.COM  THEBEACHBOYS.COM  Black Capitol Records label with rainbow ring.
+Limited repress of 2000 on 130g vinyl by The Sound of Vinyl.
+
+Rear cover, bottom: 
+This stereo record should be played only with a stereo cartridge and needle to avoid damage. 
+Stereo mix produced and mixed by Mark Linett under the supervision of Brian Wilson.
+℗ © 2016 Capitol records, LLC, 1750 N. Vine Street, Hollywood, CA 90028 - U.S.A.  Distributed by Universal Music Disctribution.  All rights reserved.   B0024729-01  UNIVERSALMUSICENTERPRISES.COM  THEBEACHBOYS.COM
+
+Black Capitol Records label with rainbow ring.

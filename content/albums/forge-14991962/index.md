@@ -2,7 +2,7 @@
 title: "Fassine - Forge"
 artist: "Fassine"
 album_name: "Forge"
-date: 2020-04-09
+date: 2020-04-09T17:08:32.000000Z
 release_id: "14991962"
 slug: "forge-14991962"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Forge (3:51)
 2. Limbs (5:02)
@@ -23,8 +24,12 @@ styles: ["Indie Rock"]
 7. Max (5:52)
 8. Bloom (4:56)
 9. Hellsto (The Sweetness Came For Us) (3:55)
+
+
 ## Spotify
 {{< spotify type="album" id="0LcSfqe3Ma3QNP1Lqmvnmh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nOz-mJlc5BA" title="Forge" >}}
@@ -37,8 +42,9 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Fassine - Forge](https://www.discogs.com/release/14991962-Fassine-Forge) |
-| Label          | Trapped Animal, Trapped Animal |
-| Format         | LP, Ltd, Blu |
-| Catalog Number | TAR018VX, TAR018 |
+| Label          | Trapped Animal |
+| Format         | Vinyl LP Limited Edition (Blue) |
+| Catalog Number | TAR018VX |
 
-Includes a download coupon. Catalogue number TAR018VX is on a barcode sticker on the shrink.
+Includes a download coupon.
+Catalogue number TAR018VX is on a barcode sticker on the shrink.

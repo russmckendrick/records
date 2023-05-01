@@ -2,7 +2,7 @@
 title: "Frost* - Falling Satellites"
 artist: "Frost*"
 album_name: "Falling Satellites"
-date: 2021-05-13
+date: 2021-05-13T10:29:31.000000Z
 release_id: "8596901"
 slug: "falling-satellites-8596901"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. First Day
 2. Numbers
@@ -42,8 +43,12 @@ styles: ["Prog Rock"]
 26. Latern (3:45)
 27. British Wintertime (6:30)
 28. Untitled [Instrumental] (8:50)
+
+
 ## Spotify
 {{< spotify type="album" id="1OHXy5tVvlI5RpEAyWocw8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="exnCIi-MLkc" title="FROST* - Numbers (OFFICIAL VIDEO)" >}}
@@ -55,8 +60,31 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Frost* - Falling Satellites](https://www.discogs.com/release/8596901-Frost-Falling-Satellites) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | 2xLP, Album, 180 + CD, Album |
-| Catalog Number | IOMLP 450, 88985318931 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album (180 g), CD Album |
+| Catalog Number | IOMLP 450 |
 
-Issued in a glossy gatefold sleeve. Includes printed inner sleeves with artwork and lyrics.  [On sticker on shrink (along with some hype text):] 180g Gatefold 2 LP Vinyl Edition (incl. bonus tracks and the album on CD) Frost* is the brainchild of Jem Godfrey, who is joined by John Mitchell ([a4256294] / [a323594]) on guitar and vocals, Nathan King ([a17640]) on bass and Craig Blundell ([a227943]) on drums.  © 2016 InsideOutMusic  ℗ 2016 Century Media Records Ltd. under exclusice license from InsideOutMusic Made in Germany  Recorded at The Cube, Mayfield, Strongroom, London and The Outhouse, Reading Strongroom recordings engineered by Lee Slater Mastered [...] at Metropolis  "Dedicated to Peter John Godfrey, 28/7/34 - 8/1/16."  [Cat# appearances:] "88985318931" on spine, labels and CD "IOMLP 450" on back cover "IOMCD 450" on CD  Tracks D1, D2, D3 (CD-12 to CD-14) are bonus tracks.
+Issued in a glossy gatefold sleeve.
+Includes printed inner sleeves with artwork and lyrics.
+
+[On sticker on shrink (along with some hype text):]
+180g Gatefold 2 LP Vinyl Edition (incl. bonus tracks and the album on CD)
+Frost* is the brainchild of Jem Godfrey, who is joined by John Mitchell ([a4256294] / [a323594]) on guitar and vocals,
+Nathan King ([a17640]) on bass and Craig Blundell ([a227943]) on drums.
+
+© 2016 InsideOutMusic 
+℗ 2016 Century Media Records Ltd. under exclusice license from InsideOutMusic
+Made in Germany
+
+Recorded at The Cube, Mayfield, Strongroom, London and The Outhouse, Reading
+Strongroom recordings engineered by Lee Slater
+Mastered [...] at Metropolis
+
+"Dedicated to Peter John Godfrey, 28/7/34 - 8/1/16."
+
+[Cat# appearances:]
+"88985318931" on spine, labels and CD
+"IOMLP 450" on back cover
+"IOMCD 450" on CD
+
+Tracks D1, D2, D3 (CD-12 to CD-14) are bonus tracks.

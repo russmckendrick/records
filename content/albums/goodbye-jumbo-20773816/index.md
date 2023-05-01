@@ -2,7 +2,7 @@
 title: "World Party - Goodbye Jumbo"
 artist: "World Party"
 album_name: "Goodbye Jumbo"
-date: 2021-10-30
+date: 2021-10-30T04:02:02.000000Z
 release_id: "20773816"
 slug: "goodbye-jumbo-20773816"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Is It Too Late? (4:24)
 2. Way Down Now (3:49)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Love Street (4:21)
 11. Sweet Soul Dream (4:39)
 12. Thank You World (3:47)
+
+
 ## Spotify
 {{< spotify type="album" id="0NHOAAAuzEglpm88igZi1a" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7IZlfTeOcYg" title="Is It Too Late?" >}}
@@ -51,7 +56,11 @@ styles: ["Alternative Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [World Party - Goodbye Jumbo](https://www.discogs.com/release/20773816-World-Party-Goodbye-Jumbo) |
 | Label          | Seaview Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | seaview 2LP |
 
-Recorded At Seaview Studios,  The Old Rectory, Bedfordshire, England And Seaview Studios, London, England  Printed Inner Sleeve Digitally edited, mastered and remastered by Tim Young
+Recorded At Seaview Studios, 
+The Old Rectory, Bedfordshire, England And Seaview Studios, London, England
+
+Printed Inner Sleeve
+Digitally edited, mastered and remastered by Tim Young

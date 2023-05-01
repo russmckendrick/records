@@ -2,7 +2,7 @@
 title: "Marillion - A Sunday Night Above The Rain"
 artist: "Marillion"
 album_name: "A Sunday Night Above The Rain"
-date: 2021-11-02
+date: 2021-11-02T03:32:11.000000Z
 release_id: "5864102"
 slug: "a-sunday-night-above-the-rain-5864102"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Gaza
 2. Waiting To Happen
@@ -27,16 +28,12 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 11. The King Of Sunset Town
 12. The Sky Above The Rain
 13. Garden Party
+
+
 ## Spotify
 {{< spotify type="album" id="6ir2CmieJAjY36ZzWveT0K" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="l-v3onZ6TVE" title="Marillion - Power - A Sunday Night Above The Rain (2014)" >}}
-- [Marillion 'Power' taken from the new live album 'A Sunday Night Above The Rain' - OUT NOW!](https://www.youtube.com/watch?v=OPLW8QhuPRA)
-- [Marillion 'Lucky Man' taken from 'A Sunday Night Above The Rain'](https://www.youtube.com/watch?v=w1wXhkehWOo)
-- [Gaza](https://www.youtube.com/watch?v=uaBVTtt53FA)
-- [Marillion - Sounds That Can't Be Made (Live in Holland 2013)](https://www.youtube.com/watch?v=2SUB-iReAB4)
-- [Marillion - Montreal (Live in Holland 2013)](https://www.youtube.com/watch?v=567P9ZD2iuc)
+
 
 ## Notes
 | Notes          |             |
@@ -44,7 +41,13 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Marillion - A Sunday Night Above The Rain](https://www.discogs.com/release/5864102-Marillion-A-Sunday-Night-Above-The-Rain) |
 | Label          | Ear Music |
-| Format         | 3xLP, Album, 180 |
+| Format         | Vinyl 3× LP Album (180 Gram) |
 | Catalog Number | 0209657ERE |
 
-Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.  ℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.  Made in Germany.  comes in a gatefold cover
+Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.
+
+℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.
+
+Made in Germany.
+
+comes in a gatefold cover

@@ -2,7 +2,7 @@
 title: "Ozzy Osbourne - Memoirs Of A Madman"
 artist: "Ozzy Osbourne"
 album_name: "Memoirs Of A Madman"
-date: 2016-05-09
+date: 2016-05-09T16:30:08.000000Z
 release_id: "6175350"
 slug: "memoirs-of-a-madman-6175350"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Crazy Train
 2. Mr. Crowley
@@ -31,8 +32,12 @@ styles: ["Hard Rock", "Heavy Metal"]
 15. I Don't Wanna Stop
 16. Let Me Hear You Scream
 17. Paranoid (Live)
+
+
 ## Spotify
 {{< spotify type="album" id="5k1h73bDwVffYMNx4yj22s" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LCCiwPEdEpg" title="OZZY OSBOURNE - Dreamer" >}}
@@ -46,8 +51,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Ozzy Osbourne - Memoirs Of A Madman](https://www.discogs.com/release/6175350-Ozzy-Osbourne-Memoirs-Of-A-Madman) |
-| Label          | Epic, Legacy, Sony Music |
-| Format         | 2xLP, Comp, RM, Gat |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Compilation Remastered Stereo (Gatefold, 180 gram) |
 | Catalog Number | 88875015611 |
 
 17 Remastered classic hits on double 180gr vinyl. Made in EU.

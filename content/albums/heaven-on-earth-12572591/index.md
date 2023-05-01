@@ -2,7 +2,7 @@
 title: "Belinda Carlisle - Heaven On Earth"
 artist: "Belinda Carlisle"
 album_name: "Heaven On Earth"
-date: 2018-09-26
+date: 2018-09-26T18:34:43.000000Z
 release_id: "12572591"
 slug: "heaven-on-earth-12572591"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
+
 ## Tracklisting
 1. Heaven Is A Place On Earth (4:06)
 2. Circle In The Sand (4:26)
@@ -24,8 +25,12 @@ styles: ["Pop Rock", "Ballad"]
 8. Fool For Love (3:56)
 9. Nobody Owns Me (3:12)
 10. Love Never Dies... (5:15)
+
+
 ## Spotify
 {{< spotify type="album" id="34SBayfOPJb9ztyCTvS3no" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth (Official Video)" >}}
@@ -50,7 +55,9 @@ styles: ["Pop Rock", "Ballad"]
 | Release Year   | 2018 |
 | Discogs Link   | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591-Belinda-Carlisle-Heaven-On-Earth) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Blu |
+| Format         | Vinyl LP Album Reissue (Blue Translucent) |
 | Catalog Number | DEMREC306 |
 
-Pressed on 180gm heavyweight translucent blue vinyl.  Manufactured in the EU.
+Pressed on 180gm heavyweight translucent blue vinyl.
+
+Manufactured in the EU.

@@ -2,7 +2,7 @@
 title: "Talk Talk - The Party's Over"
 artist: "Talk Talk"
 album_name: "The Party's Over"
-date: 2016-10-14
+date: 2016-10-14T12:58:46.000000Z
 release_id: "836162"
 slug: "the-party-s-over-836162"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Talk Talk (3:20)
 2. It's So Serious (3:19)
@@ -23,8 +24,12 @@ styles: ["New Wave", "Synth-pop"]
 7. Mirror Man (3:18)
 8. Another Word (3:12)
 9. Candy (4:40)
+
+
 ## Spotify
 {{< spotify type="album" id="3TWyZakhbJnds6Qx2uXIiC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}
@@ -45,8 +50,41 @@ styles: ["New Wave", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 1982 |
 | Discogs Link   | [Talk Talk - The Party's Over](https://www.discogs.com/release/836162-Talk-Talk-The-Partys-Over) |
-| Label          | EMI, EMI |
-| Format         | LP, Album |
-| Catalog Number | EMC 3413, OC 062-07 646 |
+| Label          | EMI |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | EMC 3413 |
 
-First issue, with textured outer sleeve. Includes a heavy paper printed inner sleeve with lyrics. Durations do not appear on release.  [Labels] ℗1982 Original sound recordings made by EMI Records Ltd. Island Music Ltd. Manufactured in the UK by EMI Records Limited.  [Insert] Vocals   Mark Hollis Drums   Lee Harris Bass   Paul Webb Keyboards   Simon Brenner Mixed By Mike Robinson  Cover Painting by James Marsh Design by Bill Smith  Lyrics reproduced by kind permission Island Music Publishing Ltd. © 1982  [Sleeve] EMC 3413 OC 062-07 646 Stereo Available on cassette ✽  ℗ 1982 Original sound recordings made by EMI Records Ltd.  EMI Records Ltd. Hayes - Middlesex - England. SP 8207 RS
+First issue, with textured outer sleeve.
+Includes a heavy paper printed inner sleeve with lyrics.
+Durations do not appear on release.
+
+[Labels]
+℗1982 Original sound recordings made by EMI Records Ltd.
+Island Music Ltd.
+Manufactured in the UK by EMI Records Limited.
+
+[Insert]
+Vocals   Mark Hollis
+Drums   Lee Harris
+Bass   Paul Webb
+Keyboards   Simon Brenner
+Mixed By Mike Robinson
+
+Cover Painting by James Marsh
+Design by Bill Smith
+
+Lyrics reproduced by kind permission
+Island Music Publishing Ltd. © 1982
+
+[Sleeve]
+EMC 3413
+OC 062-07 646
+Stereo
+Available on cassette
+✽
+
+℗ 1982 Original sound recordings made by EMI Records Ltd.
+
+EMI Records Ltd.
+Hayes - Middlesex - England.
+SP 8207 RS

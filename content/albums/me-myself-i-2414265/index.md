@@ -2,7 +2,7 @@
 title: "Joan Armatrading - Me Myself I"
 artist: "Joan Armatrading"
 album_name: "Me Myself I"
-date: 2020-08-02
+date: 2020-08-02T13:37:48.000000Z
 release_id: "2414265"
 slug: "me-myself-i-2414265"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Me Myself I (3:16)
 2. Ma-Me-O-Beach (3:00)
@@ -24,8 +25,12 @@ styles: ["Pop Rock"]
 8. Feeling In My Heart (For You) (3:36)
 9. Simon (3:40)
 10. I Need You (2:44)
+
+
 ## Spotify
 {{< spotify type="album" id="0bbqWBKFr1kdqxjoAAIBcR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="K-tf2qFtNFU" title="Ma Me O Beach" >}}
@@ -46,7 +51,9 @@ styles: ["Pop Rock"]
 | Release Year   | 1980 |
 | Discogs Link   | [Joan Armatrading - Me Myself I](https://www.discogs.com/release/2414265-Joan-Armatrading-Me-Myself-I) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | AMLH 64809 |
 
-Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side.  Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE" 
+Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side. 
+Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE"
+

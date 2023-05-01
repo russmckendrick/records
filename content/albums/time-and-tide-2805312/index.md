@@ -2,7 +2,7 @@
 title: "Split Enz - Time And Tide"
 artist: "Split Enz"
 album_name: "Time And Tide"
-date: 2018-09-29
+date: 2018-09-29T10:01:24.000000Z
 release_id: "2805312"
 slug: "time-and-tide-2805312"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Time And Tide
 2. Dirty Creature (4:00)
@@ -42,8 +43,12 @@ styles: ["New Wave", "Pop Rock"]
 26. She Got Body (2:55)
 27. Mind Over Matter (2:52)
 28. Livin' It Up (1:15)
+
+
 ## Spotify
 {{< spotify type="album" id="5wMlZOCdi80meEY3mCbc8S" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Nv1IjVbPbHs" title="Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY" >}}
@@ -66,8 +71,15 @@ styles: ["New Wave", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1982 |
 | Discogs Link   | [Split Enz - Time And Tide](https://www.discogs.com/release/2805312-Split-Enz-Time-And-Tide) |
-| Label          | A&M Records, A&M Records |
-| Format         | LP, Album + LP, Album, RP |
-| Catalog Number | AMLH 64894, AMLH 64894/F |
+| Label          | A&M Records |
+| Format         | Vinyl LP Album, Vinyl LP Album Repress |
+| Catalog Number | AMLH 64894 |
 
-Label States "Made in England". Released with a lyrics inner sleeve and a bonus album: ''Frenzy'' (AMLH 64894/F). The latter is housed in a flimsy version of the original cover as seen on this submission: [r975918] The back cover of that states: ''This album comes free with ''Time & Tide''. There are no credits on that cover. Tracks from ''Frenzy'' recorded in 1978 and 1979. Some copies advertize ''Frenzy with a sticker on the front cover of ''Time And Tide''. 
+Label States "Made in England".
+Released with a lyrics inner sleeve and a bonus album: ''Frenzy'' (AMLH 64894/F).
+The latter is housed in a flimsy version of the original cover as seen on this submission: [r975918]
+The back cover of that states: ''This album comes free with ''Time & Tide''.
+There are no credits on that cover.
+Tracks from ''Frenzy'' recorded in 1978 and 1979.
+Some copies advertize ''Frenzy with a sticker on the front cover of ''Time And Tide''.
+

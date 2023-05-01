@@ -2,7 +2,7 @@
 title: "Ultravox - Rage In Eden"
 artist: "Ultravox"
 album_name: "Rage In Eden"
-date: 2015-09-16
+date: 2015-09-16T18:56:48.000000Z
 release_id: "1583649"
 slug: "rage-in-eden-1583649"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Voice (5:53)
 2. We Stand Alone (5:30)
@@ -23,11 +24,20 @@ styles: ["New Wave", "Synth-pop"]
 7. Accent On Youth (4:40)
 8. The Ascent (2:00)
 9. Your Name (Has Slipped My Mind Again) (4:38)
+
+
 ## Spotify
 {{< spotify type="album" id="5ueP8JeD2SeNSYzX7ybnPc" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="GnrDUCRB80A" title="ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album" >}}
+{{< youtube id="UaN5JqUSTQw" title="Ultravox - Rage In Eden - 1981" >}}
+- [ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
+- [ULTRAVOX - We Stand Alone (1981)](https://www.youtube.com/watch?v=A0cCEGo5CqM)
+- [Ultravox - The Thin Wall (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=yYGx00779f8)
+- [Ultravox - The Voice (1981) (HD)](https://www.youtube.com/watch?v=MXyxsp5zlCo)
+- [Ultravox - I Remember (Death in the Afternoon)](https://www.youtube.com/watch?v=wbZWIisWKBg)
 
 ## Notes
 | Notes          |             |
@@ -35,7 +45,11 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 1981 |
 | Discogs Link   | [Ultravox - Rage In Eden](https://www.discogs.com/release/1583649-Ultravox-Rage-In-Eden) |
 | Label          | Chrysalis |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | CDL 1338 |
 
-This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.  "℗ © 1981 CHRYSALIS RECORDS LTD"  Durations not listed on this release. Timings via stopwatch.
+This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.
+
+"℗ © 1981 CHRYSALIS RECORDS LTD"
+
+Durations not listed on this release. Timings via stopwatch.

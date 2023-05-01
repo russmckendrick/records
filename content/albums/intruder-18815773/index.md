@@ -2,7 +2,7 @@
 title: "Gary Numan - Intruder"
 artist: "Gary Numan"
 album_name: "Intruder"
-date: 2021-05-21
+date: 2021-05-21T07:27:42.000000Z
 release_id: "18815773"
 slug: "intruder-18815773"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Industrial"]
 ---
+
 ## Tracklisting
 1. Betrayed
 2. The Gift
@@ -27,8 +28,12 @@ styles: ["Industrial"]
 11. The End Of Dragons
 12. When You Fall 
 13. The End Of Dragons (Alt) 
+
+
 ## Spotify
 {{< spotify type="album" id="19yUEGYFCaXyuiI9wPZ0fL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-RxebQuFgJY" title="Gary Numan - Intruder (Official Video)" >}}
@@ -50,7 +55,7 @@ styles: ["Industrial"]
 | Release Year   | 2021 |
 | Discogs Link   | [Gary Numan - Intruder](https://www.discogs.com/release/18815773-Gary-Numan-Intruder) |
 | Label          | BMG |
-| Format         | 2xLP, Album, Ltd, Sil |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver ) |
 | Catalog Number | 538658721 |
 
 Gatefold sleeve.

@@ -2,7 +2,7 @@
 title: "The Orb - Abolition Of The Royal Familia"
 artist: "The Orb"
 album_name: "Abolition Of The Royal Familia"
-date: 2020-03-28
+date: 2020-03-28T11:01:00.000000Z
 release_id: "14977767"
 slug: "abolition-of-the-royal-familia-14977767"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
+
 ## Tracklisting
 1. Daze (Missing & Messed Up Mix) (2:53)
 2. House Of Narcotics (Opium Wars Mix) (6:10)
@@ -26,8 +27,12 @@ styles: ["Ambient", "House"]
 10. The Queen Of Hearts (Princess Of Clubs Mix) (5:10)
 11. The Weekend It Rained Forever (Oseberg Buddha Mix (The Ravens Have Left The Tower)) (12:37)
 12. Slave Till U Die, No Matter What U Buy (L'anse Aux Meadows Mix) (7:26)
+
+
 ## Spotify
 {{< spotify type="album" id="1euwyciwux1oVmj4r1Rf3X" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_uUhsZHmwtE" title="The Orb - Daze (Missing & Messed Up Mix) Official Video" >}}
@@ -58,8 +63,11 @@ styles: ["Ambient", "House"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Orb - Abolition Of The Royal Familia](https://www.discogs.com/release/14977767-Orb-Abolition-Of-The-Royal-Familia) |
-| Label          | Cooking Vinyl, Cooking Vinyl |
-| Format         | 2xLP, Album, Ltd, Blu |
-| Catalog Number | COOKLP757XX, COOKLP757 |
+| Label          | Cooking Vinyl |
+| Format         | Vinyl 2× LP Album Limited Edition (Blue) |
+| Catalog Number | COOKLP757XX |
 
-Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.  On spine: COOKLP757 On sticker on back jacket: COOKLP757XX
+Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.
+
+On spine: COOKLP757
+On sticker on back jacket: COOKLP757XX

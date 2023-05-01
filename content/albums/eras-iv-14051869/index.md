@@ -2,7 +2,7 @@
 title: "Devin Townsend - Eras IV"
 artist: "Devin Townsend"
 album_name: "Eras IV"
-date: 2019-08-27
+date: 2019-08-27T15:10:27.000000Z
 release_id: "14051869"
 slug: "eras-iv-14051869"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ---
+
 ## Tracklisting
 1. Ziltoid The Omniscient
 2. ZTO (01:17)
@@ -81,13 +82,23 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 65. Little Pig (07:30)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Devin Townsend - Eras IV](https://www.discogs.com/release/14051869-Devin-Townsend-Eras-IV) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | Box, Comp, Dlx, Ltd + LP, Album, RE, 180 + LP, S/S |
-| Catalog Number | IOMLP 512, 19075868221 |
+| Label          | Inside Out Music |
+| Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl LP Album Reissue (180g), Vinyl LP Single Sided Album Etched Reissue (180g), Vinyl 2× LP Album Reissue (180g), Vinyl LP Album (180g), Vinyl LP Single Sided Album Etched (180g), Vinyl 3× LP Album (180g) |
+| Catalog Number | IOMLP 512 |
 
-Includes the albums Ziltoid The Omniscient (gatefold 2LP + etching on side 4), Z² - Dark Matters (gatefold 2LP), Ziltoid Live At The Royal Albert Hall (gatefold 2LP + etching on side 4) and The Retinal Circus (gatefold 3LP).   All four albums come on 180g vinyl and have been (re-)mastered for vinyl to guarantee the best possible sound and listening experience. The LPs come in a sturdy box, which also includes an extensive LP-booklet with complete lyrics, liner notes and comments from Devin Townsend.   Limited to 2000 copies worldwide. Ziltoid Live At The Royal Albert Hall and The Retinal Circus appear on vinyl for the first time.  Standard black vinyl version
+Includes the albums Ziltoid The Omniscient (gatefold 2LP + etching on side 4), Z² - Dark Matters (gatefold 2LP), Ziltoid Live At The Royal Albert Hall (gatefold 2LP + etching on side 4) and The Retinal Circus (gatefold 3LP).
+ 
+All four albums come on 180g vinyl and have been (re-)mastered for vinyl to guarantee the best possible sound and listening experience.
+The LPs come in a sturdy box, which also includes an extensive LP-booklet with complete lyrics, liner notes and comments from Devin Townsend.
+ 
+Limited to 2000 copies worldwide.
+Ziltoid Live At The Royal Albert Hall and The Retinal Circus appear on vinyl for the first time.
+
+Standard black vinyl version

@@ -2,7 +2,7 @@
 title: "Hooverphonic - The Best Of Hooverphonic"
 artist: "Hooverphonic"
 album_name: "The Best Of Hooverphonic"
-date: 2021-06-29
+date: 2021-06-29T02:28:57.000000Z
 release_id: "18295270"
 slug: "the-best-of-hooverphonic-18295270"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Europop", "Downtempo"]
 ---
+
 ## Tracklisting
 1. You
 2. Badaboum
@@ -47,8 +48,12 @@ styles: ["Europop", "Downtempo"]
 31. You Hurt Me
 32. Dirty Lenses
 33. Expedition Impossible
+
+
 ## Spotify
 {{< spotify type="album" id="0InAk7mftm3eHWY3sLZoBX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_QbnmV90tko" title="Hooverphonic - Sometimes" >}}
@@ -60,8 +65,9 @@ styles: ["Europop", "Downtempo"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Hooverphonic - The Best Of Hooverphonic](https://www.discogs.com/release/18295270-Hooverphonic-The-Best-Of-Hooverphonic) |
-| Label          | Music On Vinyl, Columbia, Sony Music |
-| Format         | 3xLP, Comp, RE |
+| Label          | Music On Vinyl |
+| Format         | Vinyl 3× LP Compilation Reissue Stereo |
 | Catalog Number | MOVLP2638 |
 
-180gr audiophile vinyl 
+180gr audiophile vinyl
+

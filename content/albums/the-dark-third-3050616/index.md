@@ -2,7 +2,7 @@
 title: "Pure Reason Revolution - The Dark Third"
 artist: "Pure Reason Revolution"
 album_name: "The Dark Third"
-date: 2016-02-19
+date: 2016-02-19T17:27:44.000000Z
 release_id: "3050616"
 slug: "the-dark-third-3050616"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Aeropause
 2. Goshen's Remains
@@ -28,8 +29,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 12. Borgens Vor
 13. The Exact Colour
 14. The Twyncyn / Trembling Willows
+
+
 ## Spotify
 {{< spotify type="album" id="4ijk02bZgFVyexq2bYzpL1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}
@@ -56,7 +61,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 | Release Year   | 2011 |
 | Discogs Link   | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616-Pure-Reason-Revolution-The-Dark-Third) |
 | Label          | Primal Vinyl Records |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | PVR0005LP |
 
-Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence. © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records Distributed by Plastic Head Music Distribution Ltd Recorded at Fairhazel, Eden, The Gables & RAK Studios.  Mixed at RAK Studios. 
+Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.
+© + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records
+Distributed by Plastic Head Music Distribution Ltd
+Recorded at Fairhazel, Eden, The Gables & RAK Studios. 
+Mixed at RAK Studios.
+

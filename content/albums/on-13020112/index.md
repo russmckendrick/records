@@ -2,7 +2,7 @@
 title: "Echobelly - On"
 artist: "Echobelly"
 album_name: "On"
-date: 2019-01-19
+date: 2019-01-19T09:37:53.000000Z
 release_id: "13020112"
 slug: "on-13020112"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Car Fiction
 2. King Of The Kerb
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Britpop"]
 10. In The Year
 11. Dark Therapy
 12. Worms And Angels
+
+
 ## Spotify
 {{< spotify type="album" id="0w3z3xSfH7pB3SNf50pCg3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="epqZrkxZ3_o" title="Echobelly - King Of The Kerb (Video)" >}}
@@ -46,7 +51,20 @@ styles: ["Indie Rock", "Britpop"]
 | Release Year   | 2019 |
 | Discogs Link   | [Echobelly - On](https://www.discogs.com/release/13020112-Echobelly-On) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Ora |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Orange) |
 | Catalog Number | MOVLP2250 |
 
-℗ 1995 Rhythm King Records.  © 1995, 2018 Distribution Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V for Sony Music Entertainment.  Cat#: MOVLP2250 appears on back cover, front sticker and spine.   Sticker on front: Music On Vinyl Echobelly “On” Limited Edition of 750 Numbered Copies on Orange Vinyl Contains Insert  180 gram audiophile vinyl.
+℗ 1995 Rhythm King Records. 
+© 1995, 2018 Distribution Sony Music Entertainment.
+Manufactured & distributed by Music On Vinyl B.V for Sony Music Entertainment.
+
+Cat#: MOVLP2250 appears on back cover, front sticker and spine. 
+
+Sticker on front:
+Music On Vinyl
+Echobelly
+“On”
+Limited Edition of 750 Numbered Copies on Orange Vinyl
+Contains Insert
+
+180 gram audiophile vinyl.

@@ -2,7 +2,7 @@
 title: "Ry Cooder - Bop Till You Drop"
 artist: "Ry Cooder"
 album_name: "Bop Till You Drop"
-date: 2020-08-02
+date: 2020-08-02T13:36:56.000000Z
 release_id: "1596461"
 slug: "bop-till-you-drop-1596461"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Little Sister (3:49)
 2. Go Home, Girl (5:10)
@@ -23,8 +24,12 @@ styles: ["Blues Rock", "Rock & Roll"]
 7. Trouble You Can't Fool Me (4:55)
 8. Don't You Mess Up A Good Thing (4:08)
 9. I Can't Win (4:16)
+
+
 ## Spotify
 {{< spotify type="album" id="6GQLj4tvPqK3jjqTt1Lt5L" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="d4lmMBHlAS4" title="Down in Hollywood" >}}
@@ -46,8 +51,8 @@ styles: ["Blues Rock", "Rock & Roll"]
 | ---------------| ----------- |
 | Release Year   | 1979 |
 | Discogs Link   | [Ry Cooder - Bop Till You Drop](https://www.discogs.com/release/1596461-Ry-Cooder-Bop-Till-You-Drop) |
-| Label          | Warner Bros. Records, Warner Bros. Records, Warner Bros. Records |
-| Format         | LP, Album |
-| Catalog Number | K56691, K 56691, BSK 3358 |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | K56691 |
 
 Cat.# K 56691 on rear cover and spine, K 56691 on the labels; additional US cat.# BSK 3358 on rear sleeve and on labels in parentheses.

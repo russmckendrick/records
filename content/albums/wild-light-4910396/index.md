@@ -2,7 +2,7 @@
 title: "65daysofstatic - Wild Light"
 artist: "65daysofstatic"
 album_name: "Wild Light"
-date: 2015-09-25
+date: 2015-09-25T17:24:57.000000Z
 release_id: "4910396"
 slug: "wild-light-4910396"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Math Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Heat Death Infinity Splitter 
 2. Prisms
@@ -30,8 +31,12 @@ styles: ["Post Rock", "Math Rock", "Shoegaze"]
 14. Taipei
 15. Unmake The Wild Light
 16. Safe Passage
+
+
 ## Spotify
 {{< spotify type="album" id="3a68UJXba5ejXgM5K8BUVF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="V480DQCRSJ0" title="65daysofstatic - Safe Passage" >}}
@@ -50,8 +55,29 @@ styles: ["Post Rock", "Math Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [65daysofstatic - Wild Light](https://www.discogs.com/release/4910396-65daysofstatic-Wild-Light) |
-| Label          | Superball Music, Superball Music |
-| Format         | LP, Album + CD, Album |
-| Catalog Number | SBMLP 028, 0506581 |
+| Label          | Superball Music |
+| Format         | Vinyl LP Album, CD Album |
+| Catalog Number | SBMLP 028 |
 
-Includes printed inner sleeve and CD version of the album. Pre-orders from the first week came signed by all band members.  Cover with sticker on front reading:  "180gr Vinyl Edition incl. album on CD  Wild Light is where the music leads. There is no order but chaos. All that matters is to listen.  "No-one knows what is happening. There is a lot of danger out there, ok?"  Co-produced by longtime conspirator Dave Sanderson, mixed at the Castle of Doom by Tony Doogan (Belle and Sebastien/Mogwai) in Glasgow, mastered at Abbey Road Studios  This sticker is removable"
+Includes printed inner sleeve and CD version of the album.
+Pre-orders from the first week came signed by all band members.
+
+Cover with sticker on front reading:
+
+"180gr Vinyl Edition
+incl. album on CD
+
+Wild Light is where the music leads.
+There is no order but chaos.
+All that matters is to listen.
+
+"No-one knows what is happening.
+There is a lot of danger out there, ok?"
+
+Co-produced by longtime conspirator
+Dave Sanderson, mixed at the Castle
+of Doom by Tony Doogan (Belle and
+Sebastien/Mogwai) in Glasgow,
+mastered at Abbey Road Studios
+
+This sticker is removable"

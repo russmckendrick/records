@@ -2,7 +2,7 @@
 title: "Pink Floyd - A Saucerful Of Secrets"
 artist: "Pink Floyd"
 album_name: "A Saucerful Of Secrets"
-date: 2019-04-13
+date: 2019-04-13T11:18:45.000000Z
 release_id: "13452289"
 slug: "a-saucerful-of-secrets-13452289"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Let There Be More Light (5:37)
 2. Remember A Day (4:33)
@@ -21,8 +22,11 @@ styles: ["Space Rock", "Psychedelic Rock"]
 5. A Saucerful Of Secrets (11:57)
 6. See-Saw (4:37)
 7. Jugband Blues (3:00)
+
+
 ## Spotify
 {{< spotify type="album" id="2vnJKtGjZXRUg0mYPZ3HGH" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -30,8 +34,12 @@ styles: ["Space Rock", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Pink Floyd - A Saucerful Of Secrets](https://www.discogs.com/release/13452289-Pink-Floyd-A-Saucerful-Of-Secrets) |
-| Label          | Pink Floyd Records, Columbia |
-| Format         | LP, Album, RSD, Mono, Ltd, RE, RM, 180 |
-| Catalog Number | PFRLP29, 0190295506889 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 g) |
+| Catalog Number | PFRLP29 |
 
-Reproduction of original sleeve. Limited edition of 6500 copies.  Made and Printed in the EU for Record Store Day 2019.  Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment
+Reproduction of original sleeve. Limited edition of 6500 copies.
+
+Made and Printed in the EU for Record Store Day 2019.
+
+Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment

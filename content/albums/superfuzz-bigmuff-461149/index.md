@@ -2,7 +2,7 @@
 title: "Mudhoney - Superfuzz Bigmuff"
 artist: "Mudhoney"
 album_name: "Superfuzz Bigmuff"
-date: 2019-08-23
+date: 2019-08-23T14:14:24.000000Z
 release_id: "461149"
 slug: "superfuzz-bigmuff-461149"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Here
 2. Touch Me I'm Sick
@@ -22,8 +23,12 @@ styles: ["Alternative Rock", "Grunge"]
 6. No One Has
 7. If I Think
 8. In 'N' Out Of Grace
+
+
 ## Spotify
 {{< spotify type="album" id="318b6Is2MnqkuL079NnPko" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Pf_yzsgnOnI" title="Need" >}}
@@ -39,7 +44,14 @@ styles: ["Alternative Rock", "Grunge"]
 | Release Year   | 1988 |
 | Discogs Link   | [Mudhoney - Superfuzz Bigmuff](https://www.discogs.com/release/461149-Mudhoney-Superfuzz-Bigmuff) |
 | Label          | Glitterhouse Records |
-| Format         | 12\", EP |
+| Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Catalog Number | GR 0034 |
 
-Recorded at Reciprocal.  Manufactured under license from Sub Pop Records, USA.  Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".  The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype. 
+Recorded at Reciprocal.
+
+Manufactured under license from Sub Pop Records, USA.
+
+Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".
+
+The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype.
+

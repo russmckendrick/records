@@ -2,7 +2,7 @@
 title: "Gruff Rhys - Babelsberg"
 artist: "Gruff Rhys"
 album_name: "Babelsberg"
-date: 2018-06-08
+date: 2018-06-08T17:58:58.000000Z
 release_id: "12105452"
 slug: "babelsberg-12105452"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Frontier Man 
 2. The Club 
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Same Old Song 
 9. Architecture Of Amnesia  
 10. Selfies In The Sunset
+
+
 ## Spotify
 {{< spotify type="album" id="5QOzSPc4y8ScDP4ZS7XyuD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart (Official Audio)" >}}
@@ -38,7 +43,8 @@ styles: ["Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Gruff Rhys - Babelsberg](https://www.discogs.com/release/12105452-Gruff-Rhys-Babelsberg) |
 | Label          | Rough Trade |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | RT0010LP |
 
-Gatefold Jacket with Obi Strip Includes download card for 320k MP3s.
+Gatefold Jacket with Obi Strip
+Includes download card for 320k MP3s.

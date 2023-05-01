@@ -2,7 +2,7 @@
 title: "John Grant - Love Is Magic"
 artist: "John Grant"
 album_name: "Love Is Magic"
-date: 2018-10-12
+date: 2018-10-12T20:01:02.000000Z
 release_id: "12640054"
 slug: "love-is-magic-12640054"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Metamorphosis
 2. Love Is Magic
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 8. Is He Strange
 9. The Common Snipe
 10. Touch And Go
+
+
 ## Spotify
 {{< spotify type="album" id="0wtOX04qOsDIfH53NWJl54" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-qtTidRF2V0" title="John Grant - Love Is Magic (OFFICIAL VIDEO)" >}}
@@ -40,8 +45,18 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [John Grant - Love Is Magic](https://www.discogs.com/release/12640054-John-Grant-Love-Is-Magic) |
-| Label          | Bella Union, Partisan Records |
-| Format         | 2xLP, Album, Dlx, Cle |
+| Label          | Bella Union |
+| Format         | Vinyl 2× LP Album Deluxe Edition (Clear) |
 | Catalog Number | BELLA825V |
 
-Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.  Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.  C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.  Label Code and catalog number on spine.  Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.  ℗ & © 2018 Bella Union
+Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.
+
+Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.
+
+C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.
+
+Label Code and catalog number on spine.
+
+Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.
+
+℗ & © 2018 Bella Union

@@ -2,7 +2,7 @@
 title: "White Zombie - La Sexorcisto: Devil Music Vol. 1"
 artist: "White Zombie"
 album_name: "La Sexorcisto: Devil Music Vol. 1"
-date: 2017-10-13
+date: 2017-10-13T18:11:28.000000Z
 release_id: "10922593"
 slug: "la-sexorcisto-devil-music-vol-1-10922593"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Groove Metal"]
 ---
+
 ## Tracklisting
 1. Welcome To Planet Motherfucker / Psychoholic Slag (6:21)
 2. Knuckle Duster (Radio 1-A) (0:24)
@@ -28,8 +29,12 @@ styles: ["Heavy Metal", "Groove Metal"]
 12. Grindhouse (A Go-Go) (4:04)
 13. Starface (5:02)
 14. Warp Asylum (6:42)
+
+
 ## Spotify
 {{< spotify type="album" id="6Cvv0qNSdZNf9o0j8EohoD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="H8gHMU-pDbU" title="White Zombie - Welcome To Planet M.F." >}}
@@ -55,7 +60,7 @@ styles: ["Heavy Metal", "Groove Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [White Zombie - La Sexorcisto: Devil Music Vol. 1](https://www.discogs.com/release/10922593-White-Zombie-La-Sexorcisto-Devil-Music-Vol-1) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Pur |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Purple, 180 Gram) |
 | Catalog Number | MOVLP534 |
 
 Limited to 2000 machine-numbered copies.

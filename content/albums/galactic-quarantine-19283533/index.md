@@ -2,7 +2,7 @@
 title: "Devin Townsend - Galactic Quarantine"
 artist: "Devin Townsend"
 album_name: "Galactic Quarantine"
-date: 2021-08-09
+date: 2021-08-09T06:27:31.000000Z
 release_id: "19283533"
 slug: "galactic-quarantine-19283533"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ---
+
 ## Tracklisting
 1. Velvet Kevorkian
 2. All Hail The New Flesh
@@ -44,8 +45,12 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 28. Spirits Will Collide (4:35)
 29. Kingdom (5:05)
 30. Detox (6:20)
+
+
 ## Spotify
 {{< spotify type="album" id="0HIX5tm0EFBK7x91GCaIbM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4rOhiHLPT9Q" title="DEVIN TOWNSEND - Aftermath (Devolution Series #2 - Galactic Quarantine)" >}}
@@ -68,8 +73,15 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Devin Townsend - Galactic Quarantine](https://www.discogs.com/release/19283533-Devin-Townsend-Galactic-Quarantine) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album, 180 + CD, Album |
-| Catalog Number | IOMLP 588, 19439882261 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album (180g), CD Album |
+| Catalog Number | IOMLP 588 |
 
-Standard version on black vinyl Gatefold sleeve  © 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261. Made in EU.  Recorded between July and September 2020 in various places around the world. Originally aired on September 5th 2020 on StageIt.com
+Standard version on black vinyl
+Gatefold sleeve
+
+© 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261.
+Made in EU.
+
+Recorded between July and September 2020 in various places around the world.
+Originally aired on September 5th 2020 on StageIt.com

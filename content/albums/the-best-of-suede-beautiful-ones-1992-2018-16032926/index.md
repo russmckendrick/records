@@ -2,7 +2,7 @@
 title: "Suede - The Best Of Suede. Beautiful Ones. 1992-2018"
 artist: "Suede"
 album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
-date: 2021-01-03
+date: 2021-01-03T08:00:22.000000Z
 release_id: "16032926"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16032926"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. The Drowners
 2. Metal Mickey
@@ -70,8 +71,11 @@ styles: ["Indie Rock", "Britpop"]
 54. As One
 55. All The Wild Places
 56. Flytipping
+
+
 ## Spotify
-{{< spotify type="album" id="7mAvhljwzf6MGLPz64rSMb" width="100%" height="500" >}}
+{{< spotify type="album" id="1xs5UhxBvAIsgKGzYjCMhh" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -80,7 +84,10 @@ styles: ["Indie Rock", "Britpop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16032926-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |
 | Label          | Demon Records |
-| Format         | Box, Comp + 6xLP, Whi |
+| Format         | Box Set Compilation, Vinyl 6× LP (White, 180 Gram) |
 | Catalog Number | SUEDEBOX012 |
 
-Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl. Inner sleeves showcase fans memorabilia  750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk]
+Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl.
+Inner sleeves showcase fans memorabilia
+
+750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk]

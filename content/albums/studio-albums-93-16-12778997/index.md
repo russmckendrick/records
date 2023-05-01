@@ -2,7 +2,7 @@
 title: "Suede - Studio Albums 93 - 16"
 artist: "Suede"
 album_name: "Studio Albums 93 - 16"
-date: 2019-12-14
+date: 2019-12-14T13:00:24.000000Z
 release_id: "12778997"
 slug: "studio-albums-93-16-12778997"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Suede
 2. So Young (3:38)
@@ -103,13 +104,18 @@ styles: ["Alternative Rock", "Britpop"]
 87. The Fur And The Feathers (4:40)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Suede - Studio Albums 93 - 16](https://www.discogs.com/release/12778997-Suede-Studio-Albums-93-16) |
 | Label          | Demon Records |
-| Format         | Box, Comp, Ltd, Num + LP, Album, RE, Bro + 2xLP, A |
+| Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue (Brown), Vinyl 2× LP Album Reissue (Translucent Green), Vinyl LP Album Reissue (Pale Yellow), Vinyl 2× LP Album Reissue (Lilac), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Reissue (Translucent Blue) |
 | Catalog Number | SUEDEBOX009X |
 
-Numbered and Limited (1000 copies) LP boxset including the 7 studio albums, on heavyweight coloured vinyl exclusive to Amazon.  There was an error made with the use of the incorrect masters for Night Thoughts within the box set and replacement discs using the correct mastering were issued by Demon. Replacement issue for blue vinyl edition listed here: [r13083066] 
+Numbered and Limited (1000 copies) LP boxset including the 7 studio albums, on heavyweight coloured vinyl exclusive to Amazon.
+
+There was an error made with the use of the incorrect masters for Night Thoughts within the box set and replacement discs using the correct mastering were issued by Demon. Replacement issue for blue vinyl edition listed here: [r13083066]
+

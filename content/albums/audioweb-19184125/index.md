@@ -2,7 +2,7 @@
 title: "Audioweb - Audioweb"
 artist: "Audioweb"
 album_name: "Audioweb"
-date: 2021-10-09
+date: 2021-10-09T06:37:10.000000Z
 release_id: "19184125"
 slug: "audioweb-19184125"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Rock", "Reggae"]
 styles: ["Dub", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Sleeper (5:15)
 2. Yeah? (4:00)
@@ -24,8 +25,12 @@ styles: ["Dub", "Alternative Rock"]
 8. Bankrobber (3:40)
 9. Lover (4:30)
 10. Drip Feed (8:24)
+
+
 ## Spotify
 {{< spotify type="album" id="5wGKIzZyamEkud95ahOzJe" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4bl1IbUH1A8" title="Sleeper" >}}
@@ -45,7 +50,12 @@ styles: ["Dub", "Alternative Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Audioweb - Audioweb](https://www.discogs.com/release/19184125-Audioweb-Audioweb) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Whi |
+| Format         | Vinyl LP Album Reissue (White) |
 | Catalog Number | DEMREC897 |
 
-About this release This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.  This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.  
+About this release
+This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.
+
+This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.
+
+

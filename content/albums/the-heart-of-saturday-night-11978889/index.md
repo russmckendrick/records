@@ -2,7 +2,7 @@
 title: "Tom Waits - The Heart Of Saturday Night"
 artist: "Tom Waits"
 album_name: "The Heart Of Saturday Night"
-date: 2018-05-25
+date: 2018-05-25T19:10:51.000000Z
 release_id: "11978889"
 slug: "the-heart-of-saturday-night-11978889"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk"]
 ---
+
 ## Tracklisting
 1. New Coat Of Paint (3:20)
 2. San Diego Serenade (3:25)
@@ -25,8 +26,12 @@ styles: ["Blues Rock", "Folk"]
 9. Depot, Depot (3:42)
 10. Drunk On The Moon (5:05)
 11. The Ghosts Of Saturday Night (After Hours At Napoleone's Pizza House) (3:17)
+
+
 ## Spotify
 {{< spotify type="album" id="2fnWxy7UoIazBiewjgchvm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nqSnZv3JV0M" title="Tom Waits - The Heart of Saturday Night  (Full Album)" >}}
@@ -38,7 +43,5 @@ styles: ["Blues Rock", "Folk"]
 | Release Year   | 2018 |
 | Discogs Link   | [Tom Waits - The Heart Of Saturday Night](https://www.discogs.com/release/11978889-Tom-Waits-The-Heart-Of-Saturday-Night) |
 | Label          | Anti- |
-| Format         | LP, Album, Ltd, RE, RM, Yel |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow Opaque) |
 | Catalog Number | 87566-1 |
-
-

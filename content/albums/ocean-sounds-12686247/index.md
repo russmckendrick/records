@@ -2,7 +2,7 @@
 title: "Iamthemorning - Ocean Sounds"
 artist: "Iamthemorning"
 album_name: "Ocean Sounds"
-date: 2018-10-20
+date: 2018-10-20T16:36:22.000000Z
 release_id: "12686247"
 slug: "ocean-sounds-12686247"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Neo-Classical"]
 ---
+
 ## Tracklisting
 1. Inside
 2. Scotland
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Neo-Classical"]
 10. Libretto Horror
 11. Chalk & Coal
 12. K.O.S.
+
+
 ## Spotify
 {{< spotify type="album" id="33itCfl3s0GHYF4Y9urXwm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TmNR7BfO2KE" title="iamthemorning - Inside / Scotland / To Human Mystery (Ocean Sounds)" >}}
@@ -47,7 +52,13 @@ styles: ["Alternative Rock", "Neo-Classical"]
 | Release Year   | 2018 |
 | Discogs Link   | [Iamthemorning - Ocean Sounds](https://www.discogs.com/release/12686247-Iamthemorning-Ocean-Sounds) |
 | Label          | Kscope |
-| Format         | LP, Album, 180 |
+| Format         | Vinyl LP Album (180 gr.) |
 | Catalog Number | KSCOPE984 |
 
-- Sticker - printed inner sleeve  Ⓟ 2018 Kscope Ⓒ 2018 Kscope Made in Germany  Barcode is scan only (no text).
+- Sticker
+- printed inner sleeve
+
+Ⓟ 2018 Kscope Ⓒ 2018 Kscope
+Made in Germany
+
+Barcode is scan only (no text).

@@ -2,7 +2,7 @@
 title: "Mudhoney - Digital Garbage"
 artist: "Mudhoney"
 album_name: "Digital Garbage"
-date: 2018-10-01
+date: 2018-10-01T17:55:11.000000Z
 release_id: "12580247"
 slug: "digital-garbage-12580247"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Nerve Attack
 2. Paranoid Core
@@ -25,8 +26,12 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 9. Messiah's Lament
 10. Next Mass Extinction
 11. Oh Yeah
+
+
 ## Spotify
 {{< spotify type="album" id="5VfPuzaqpBlazZKCz1ai2w" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="AtnzoY2RVoA" title="Mudhoney - Paranoid Core" >}}
@@ -38,7 +43,8 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 | Release Year   | 2018 |
 | Discogs Link   | [Mudhoney - Digital Garbage](https://www.discogs.com/release/12580247-Mudhoney-Digital-Garbage) |
 | Label          | Sub Pop |
-| Format         | LP, Album, Blu |
+| Format         | Vinyl LP Album (Blue Opaque) |
 | Catalog Number | SP1225 |
 
-Loser Edition, sold through independent stores only. Die-cut foldout sleeve with die-cut printed inner & download card.
+Loser Edition, sold through independent stores only.
+Die-cut foldout sleeve with die-cut printed inner & download card.

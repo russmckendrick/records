@@ -1,18 +1,19 @@
 ---
-title: "Coldcut x On-U Sound - Outside The Echo Chamber"
-artist: "Coldcut x On-U Sound"
+title: "Coldcut - Outside The Echo Chamber"
+artist: "Coldcut"
 album_name: "Outside The Echo Chamber"
-date: 2017-06-09
+date: 2017-06-09T16:12:30.000000Z
 release_id: "10312776"
 slug: "outside-the-echo-chamber-10312776"
 hideSummary: true
 cover:
     image: "outside-the-echo-chamber-10312776.jpg"
-    alt: "Outside The Echo Chamber by Coldcut x On-U Sound"
-    caption: "Outside The Echo Chamber by Coldcut x On-U Sound"
+    alt: "Outside The Echo Chamber by Coldcut"
+    caption: "Outside The Echo Chamber by Coldcut"
 genres: ["Hip Hop", "Reggae"]
 styles: ["Reggae", "Dub", "Dancehall"]
 ---
+
 ## Tracklisting
 1. Everyday Another Sanction
 2. Everyday Another Sanction (Dub)
@@ -30,6 +31,12 @@ styles: ["Reggae", "Dub", "Dancehall"]
 14. Livid Hip Hop
 15. Aztec Riddim
 16. Make Up Your Mind (Dub)
+
+
+## Spotify
+{{< spotify type="album" id="0xGFzBeoGZOwtYf7r78MSs" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9FjK8yyVY0M" title="Coldcut x On-U Sound - 'Vitals feat. Roots Manuva (Dub)'" >}}
@@ -50,9 +57,13 @@ styles: ["Reggae", "Dub", "Dancehall"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Coldcut x On-U Sound - Outside The Echo Chamber](https://www.discogs.com/release/10312776-Coldcut-x-On-U-Sound-Outside-The-Echo-Chamber) |
+| Discogs Link   | [Coldcut - Outside The Echo Chamber](https://www.discogs.com/release/10312776-Coldcut-x-On-U-Sound-Outside-The-Echo-Chamber) |
 | Label          | Ahead Of Our Time |
-| Format         | 8x7\", Album + Box, Ltd |
+| Format         | Vinyl 8× 7" 45 RPM Album, Box Set Limited Edition |
 | Catalog Number | AHEDBOX015 |
 
-Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.  Includes download code.  Signed copies were available from Recordstore.co.uk
+Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.
+
+Includes download code.
+
+Signed copies were available from Recordstore.co.uk

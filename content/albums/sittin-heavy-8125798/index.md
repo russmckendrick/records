@@ -2,7 +2,7 @@
 title: "Monster Truck - Sittin' Heavy"
 artist: "Monster Truck"
 album_name: "Sittin' Heavy"
-date: 2016-09-01
+date: 2016-09-01T17:17:59.000000Z
 release_id: "8125798"
 slug: "sittin-heavy-8125798"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Why Are You Not Rocking? (2:23)
 2. Don't Tell Me How To Live (4:24)
@@ -26,8 +27,9 @@ styles: ["Blues Rock", "Hard Rock"]
 10. Midnight (Bonus) (3:32)
 11. New Soul (4:13)
 12. Enjoy The Time (5:35)
-## Spotify
-{{< spotify type="album" id="1xPJIBohk5DtRCXwdmAZAd" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="EKv4MNo03zY" title="Monster Truck - For The People - feat.  Ian Thornley (Sittin' Heavy) 2016" >}}
@@ -43,8 +45,12 @@ styles: ["Blues Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-Sittin-Heavy) |
-| Label          | Mascot Records |
-| Format         | LP, Red + LP, S/Sided, Etch, Red + Album |
+| Label          | Mascot Records (2) |
+| Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album |
 | Catalog Number | M74851 |
 
-Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics.
+Double Red Heavy 180g LP with etched D Side
+
+Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album
+
+Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics.

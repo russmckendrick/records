@@ -1,18 +1,19 @@
 ---
-title: "Various Compiled By Amorphous Androgynous - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
-artist: "Various Compiled By Amorphous Androgynous"
+title: "Various - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
+artist: "Various"
 album_name: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
-date: 2017-04-22
+date: 2017-04-22T10:00:59.000000Z
 release_id: "8632226"
 slug: "a-monstrous-psychedelic-bubble-exploding-in-your-mind-the-wizards-of-oz-8632226"
 hideSummary: true
 cover:
     image: "a-monstrous-psychedelic-bubble-exploding-in-your-mind-the-wizards-of-oz-8632226.jpg"
-    alt: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various Compiled By Amorphous Androgynous"
-    caption: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various Compiled By Amorphous Androgynous"
+    alt: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various"
+    caption: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various"
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract"]
 ---
+
 ## Tracklisting
 1. It Is Not Meant To Be
 2. Gods of Norse
@@ -31,6 +32,9 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 15. Flight Of Yaraan
 16. Eyes Of The Witness
 
+
+
+
 ## Videos
 {{< youtube id="fPCj8pD31RM" title="CYBOTRON - Gods Of Norse" >}}
 - [Tame Impala - It's not meant to be](https://www.youtube.com/watch?v=KeZt5IGJ1T8)
@@ -46,9 +50,9 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Various Compiled By Amorphous Androgynous - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz](https://www.discogs.com/release/8632226-Various-Compiled-By-The-Amorphous-Androgynous-A-Monstrous-Psychedelic-Bubble-Exploding-In-Your-Mind-) |
-| Label          | Festival Records, Monstrous Bubble Records |
-| Format         | 2xLP, Comp, RP, Gat |
+| Discogs Link   | [Various - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz](https://www.discogs.com/release/8632226-Various-Compiled-By-The-Amorphous-Androgynous-A-Monstrous-Psychedelic-Bubble-Exploding-In-Your-Mind-) |
+| Label          | Festival Records |
+| Format         | Vinyl 2× LP Compilation Repress (Gatefold Sleeve, Clear) |
 | Catalog Number | FEST601025LX |
 
 200 gram hazy clear vinyl, gatefold sleeve.

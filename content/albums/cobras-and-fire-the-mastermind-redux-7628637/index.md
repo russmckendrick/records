@@ -2,7 +2,7 @@
 title: "Monster Magnet - Cobras And Fire: The Mastermind Redux"
 artist: "Monster Magnet"
 album_name: "Cobras And Fire: The Mastermind Redux"
-date: 2015-11-30
+date: 2015-11-30T18:22:28.000000Z
 release_id: "7628637"
 slug: "cobras-and-fire-the-mastermind-redux-7628637"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. She Digs That Hole
 2. Watch Me Fade
@@ -24,8 +25,12 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 8. Ball Of Confusion
 9. Time Machine (Instrumental)
 10. I Live Behind The Paradise Machine: Evil Joe Barresi's Magnet Mash Vol.1
+
+
 ## Spotify
 {{< spotify type="album" id="6rwFQ2irEjdv0EEJJneuOP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}
@@ -45,7 +50,9 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Monster Magnet - Cobras And Fire: The Mastermind Redux](https://www.discogs.com/release/7628637-Monster-Magnet-Cobras-And-Fire-The-Mastermind-Redux) |
 | Label          | Napalm Records |
-| Format         | 2xLP, Album, Ltd, Yel |
+| Format         | Vinyl 2× LP Album Limited Edition (Yellow Vinyl) |
 | Catalog Number | NPR 629 LP |
 
-180 gram YELLOW VINYL edition with gatefold jacket.  Exclusively distributed in the USA by ADA.  Barcode for this limited edition is on a sticker which covers the original barcode printed on the sleeve (which is the barcode for the black vinyl version).  Featuring re-written and newly interpreted tracks of the [m=287598] album.
+180 gram YELLOW VINYL edition with gatefold jacket.  Exclusively distributed in the USA by ADA.  Barcode for this limited edition is on a sticker which covers the original barcode printed on the sleeve (which is the barcode for the black vinyl version).
+
+Featuring re-written and newly interpreted tracks of the [m=287598] album.

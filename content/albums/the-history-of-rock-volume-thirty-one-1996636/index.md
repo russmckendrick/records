@@ -1,18 +1,19 @@
 ---
-title: "The Stranglers / Squeeze / Various - The History Of Rock (Volume Thirty One)"
-artist: "The Stranglers / Squeeze / Various"
+title: "The Stranglers - The History Of Rock (Volume Thirty One)"
+artist: "The Stranglers"
 album_name: "The History Of Rock (Volume Thirty One)"
-date: 2018-12-28
+date: 2018-12-28T17:39:26.000000Z
 release_id: "1996636"
 slug: "the-history-of-rock-volume-thirty-one-1996636"
 hideSummary: true
 cover:
     image: "the-history-of-rock-volume-thirty-one-1996636.jpg"
-    alt: "The History Of Rock (Volume Thirty One) by The Stranglers / Squeeze / Various"
-    caption: "The History Of Rock (Volume Thirty One) by The Stranglers / Squeeze / Various"
+    alt: "The History Of Rock (Volume Thirty One) by The Stranglers"
+    caption: "The History Of Rock (Volume Thirty One) by The Stranglers"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ---
+
 ## Tracklisting
 1. Get A Grip On Yourself
 2. Peaches
@@ -42,13 +43,13 @@ styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 26. Let's Do Rock Steady
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
-| Discogs Link   | [The Stranglers / Squeeze / Various - The History Of Rock (Volume Thirty One)](https://www.discogs.com/release/1996636-The-Stranglers-Squeeze-2-Various-The-History-Of-Rock-Volume-Thirty-One) |
+| Discogs Link   | [The Stranglers - The History Of Rock (Volume Thirty One)](https://www.discogs.com/release/1996636-The-Stranglers-Squeeze-2-Various-The-History-Of-Rock-Volume-Thirty-One) |
 | Label          | Orbis |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | HRL 031 |
-
-

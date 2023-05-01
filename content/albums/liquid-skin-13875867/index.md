@@ -2,7 +2,7 @@
 title: "Gomez - Liquid Skin"
 artist: "Gomez"
 album_name: "Liquid Skin"
-date: 2019-07-15
+date: 2019-07-15T18:01:30.000000Z
 release_id: "13875867"
 slug: "liquid-skin-13875867"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Hangover (3:27)
 2. Revolutionary Kind (4:31)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Rosalita (4:04)
 10. California (7:23)
 11. Devil Will Ride (6:56)
+
+
 ## Spotify
 {{< spotify type="album" id="4ebT2pQ0KklYdH1XBvzk51" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XPebxxCiZQk" title="Hangover (Remastered 2019)" >}}
@@ -46,8 +51,8 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Gomez - Liquid Skin](https://www.discogs.com/release/13875867-Gomez-Liquid-Skin) |
-| Label          | UMC, Virgin EMI Records |
-| Format         | 2xLP, Album, Ltd, RE, RM, Tra |
-| Catalog Number | 00602577534225, 7753422 |
+| Label          | UMC |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Transparent, 180 Gram) |
+| Catalog Number | 00602577534225 |
 
 20th Anniversary release including free download

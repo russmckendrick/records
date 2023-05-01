@@ -2,7 +2,7 @@
 title: "The Mississippi Moons - Deep South Blues"
 artist: "The Mississippi Moons"
 album_name: "Deep South Blues"
-date: 2020-08-02
+date: 2020-08-02T13:49:47.000000Z
 release_id: "4025684"
 slug: "deep-south-blues-4025684"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Deep South Blues by The Mississippi Moons"
     caption: "Deep South Blues by The Mississippi Moons"
 genres: ["Jazz", "Blues"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Lullaby Of The Leaves
 2. Bourbon Street Parade
@@ -26,13 +27,18 @@ styles: null
 10. Farewell Blues
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1964 |
 | Discogs Link   | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684-The-Mississippi-Moons-Deep-South-Blues) |
-| Label          | Presto, Saga |
-| Format         | LP |
+| Label          | Presto |
+| Format         | Vinyl LP |
 | Catalog Number | PRE 629 |
 
-Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10
+Sleeve says PRESTO, but label on record is SAGA.
+Both own by manufacture.
+Manufactured by Allied Records Ltd.
+127 Kensal Road / London W.10

@@ -2,7 +2,7 @@
 title: "Creedence Clearwater Revival - The Studio Albums Collection"
 artist: "Creedence Clearwater Revival"
 album_name: "The Studio Albums Collection"
-date: 2019-11-16
+date: 2019-11-16T11:42:05.000000Z
 release_id: "12932189"
 slug: "the-studio-albums-collection-12932189"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
+
 ## Tracklisting
 1. Creedence Clearwater Revival
 2. I Put A Spell On You (4:25)
@@ -88,13 +89,17 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 72. Sweet Hitch-Hiker (2:59)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Creedence Clearwater Revival - The Studio Albums Collection](https://www.discogs.com/release/12932189-Creedence-Clearwater-Revival-The-Studio-Albums-Collection) |
-| Label          | Craft Recordings, Fantasy |
-| Format         | Box, Comp, Num, S/Edition + 7xLP, Album, RE, RM, H |
-| Catalog Number | CR00131, 0888072049376 |
+| Label          | Craft Recordings |
+| Format         | Box Set Compilation Numbered Special Edition, Vinyl 7× LP Album Reissue Remastered (Half-Speed Mastering) |
+| Catalog Number | CR00131 |
 
-Text on the back cover of the box set:  The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands
+Text on the back cover of the box set:
+
+The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands

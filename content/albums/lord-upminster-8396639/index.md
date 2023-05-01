@@ -2,7 +2,7 @@
 title: "Ian Dury - Lord Upminster"
 artist: "Ian Dury"
 album_name: "Lord Upminster"
-date: 2016-09-21
+date: 2016-09-21T18:13:50.000000Z
 release_id: "8396639"
 slug: "lord-upminster-8396639"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Reggae", "Funk / Soul"]
 styles: ["New Wave", "Dub", "Disco"]
 ---
+
 ## Tracklisting
 1. Funky Disco Pops (3:37)
 2. Red Letter (3:59)
@@ -22,6 +23,9 @@ styles: ["New Wave", "Dub", "Disco"]
 6. Lonely Town (4:20)
 7. Trust Is A Must (6:45)
 8. Spasticus Autisticus (5:10)
+
+
+
 
 ## Videos
 {{< youtube id="elL42w6qOdk" title="Ian Dury - Red Letter" >}}
@@ -49,7 +53,8 @@ styles: ["New Wave", "Dub", "Disco"]
 | Release Year   | 2014 |
 | Discogs Link   | [Ian Dury - Lord Upminster](https://www.discogs.com/release/8396639-Ian-Dury-Lord-Upminster) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | DEMREC58 |
 
- 
+
+

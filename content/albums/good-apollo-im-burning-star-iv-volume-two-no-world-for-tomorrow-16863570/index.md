@@ -2,7 +2,7 @@
 title: "Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
 artist: "Coheed And Cambria"
 album_name: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
-date: 2021-06-15
+date: 2021-06-15T08:24:18.000000Z
 release_id: "16863570"
 slug: "good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ---
+
 ## Tracklisting
 1. The Reaping
 2. No World For Tomorrow
@@ -27,6 +28,9 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 11. III The End Complete
 12. IV The Road And The Damned
 13. V On The Brink
+
+
+
 
 ## Videos
 {{< youtube id="DYFVQ_o3SAQ" title="No World for Tomorrow" >}}
@@ -44,8 +48,12 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow](https://www.discogs.com/release/16863570-Coheed-And-Cambria-Good-Apollo-Im-Burning-Star-IV-Volume-Two-No-World-For-Tomorrow) |
-| Label          | Music On Vinyl, Columbia, Legacy |
-| Format         | LP + LP, S/Sided, Etch + Album, RE |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
 | Catalog Number | MOVLP2793 |
 
-180 gram audiophile vinyl Gatefold sleeve Etched artwork on d-side 2 printed innersleeves with lyrics and artwork by Ken Kelly Made in The EU. 
+180 gram audiophile vinyl
+Gatefold sleeve
+Etched artwork on d-side
+2 printed innersleeves with lyrics and artwork by Ken Kelly
+Made in The EU. 

@@ -2,7 +2,7 @@
 title: "Ryan Adams - Prisoner"
 artist: "Ryan Adams"
 album_name: "Prisoner"
-date: 2018-10-10
+date: 2018-10-10T17:51:41.000000Z
 release_id: "9848579"
 slug: "prisoner-9848579"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Do You Still Love Me?
 2. Prisoner
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 10. Broken Anyway
 11. Tightrope
 12. We Disappear
+
+
 ## Spotify
 {{< spotify type="album" id="4jldY4eFDSoZua0KBCp6KH" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="U-qfQcJveDw" title="Ryan Adams - Do You Still Love Me? (Audio)" >}}
@@ -40,8 +45,20 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Ryan Adams - Prisoner](https://www.discogs.com/release/9848579-Ryan-Adams-Prisoner) |
-| Label          | Pax Americana Record Company, Blue Note, Blue Note |
-| Format         | LP, Album |
-| Catalog Number | PAX-AM 058, 0602557134612, 00602557134612 |
+| Label          | Pax Americana Record Company |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | PAX-AM 058 |
 
-Includes a download card (MP3 and WAV). Comes with a full colour insert that has lyrics and credits.  All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note. ©2017 Paxamericana Recording Company under exclusive license to Blue Note.  All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)  1st Cat # - Labels, rear cover 2nd Cat # - labels 3rd Cat # - Rear cover, spine  Runouts are etched except for "P. USA" and "-42229-" which are stamped.
+Includes a download card (MP3 and WAV).
+Comes with a full colour insert that has lyrics and credits.
+
+All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note.
+©2017 Paxamericana Recording Company under exclusive license to Blue Note.
+
+All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)
+
+1st Cat # - Labels, rear cover
+2nd Cat # - labels
+3rd Cat # - Rear cover, spine
+
+Runouts are etched except for "P. USA" and "-42229-" which are stamped.

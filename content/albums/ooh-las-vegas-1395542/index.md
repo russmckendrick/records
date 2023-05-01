@@ -2,7 +2,7 @@
 title: "Deacon Blue - Ooh Las Vegas"
 artist: "Deacon Blue"
 album_name: "Ooh Las Vegas"
-date: 2019-04-26
+date: 2019-04-26T12:44:54.000000Z
 release_id: "1395542"
 slug: "ooh-las-vegas-1395542"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Disneyworld (2:49)
 2. Ronnie Spector (3:29)
@@ -37,8 +38,12 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 21. Christine (2:26)
 22. Take Me To This Place (2:26)
 23. Don't Let The Teardrops Start (3:01)
+
+
 ## Spotify
 {{< spotify type="album" id="1PojyXhUkx4U6t9RwAdPGy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="YuMRvCvBJm0" title="Deacon Blue - Disneyworld" >}}
@@ -57,7 +62,7 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 | Release Year   | 1990 |
 | Discogs Link   | [Deacon Blue - Ooh Las Vegas](https://www.discogs.com/release/1395542-Deacon-Blue-Ooh-Las-Vegas) |
 | Label          | CBS |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | 467242 1 |
 
 Very similar to [r=1867062] but with a different set of codes and layout in the upper right back cover - above and below the barcode. [r=1867062] also has BIEM/STEMRA and "Made in Holland" on the B & D labels and is a [l371454] pressing

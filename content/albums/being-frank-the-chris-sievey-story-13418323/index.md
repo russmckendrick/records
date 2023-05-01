@@ -1,18 +1,19 @@
 ---
-title: "Frank Sidebottom And Chris Sievey - Being Frank: The Chris Sievey Story"
-artist: "Frank Sidebottom And Chris Sievey"
+title: "Frank Sidebottom - Being Frank: The Chris Sievey Story"
+artist: "Frank Sidebottom"
 album_name: "Being Frank: The Chris Sievey Story"
-date: 2019-03-30
+date: 2019-03-30T11:12:54.000000Z
 release_id: "13418323"
 slug: "being-frank-the-chris-sievey-story-13418323"
 hideSummary: true
 cover:
     image: "being-frank-the-chris-sievey-story-13418323.jpg"
-    alt: "Being Frank: The Chris Sievey Story by Frank Sidebottom And Chris Sievey"
-    caption: "Being Frank: The Chris Sievey Story by Frank Sidebottom And Chris Sievey"
+    alt: "Being Frank: The Chris Sievey Story by Frank Sidebottom"
+    caption: "Being Frank: The Chris Sievey Story by Frank Sidebottom"
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Punk", "Comedy"]
 ---
+
 ## Tracklisting
 1. Cello Man (3:02)
 2. Gogglebubbleland (2:22)
@@ -36,6 +37,9 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 20. Lazy Rising More Slowly, Where R.U., Oh 'Chele (5:12)
 21. Life With The Lyons (2:10)
 
+
+
+
 ## Videos
 {{< youtube id="_wHcHaPkYnw" title="BEING FRANK: THE CHRIS SIEVEY STORY - OFFICIAL UK TRAILER [HD] - IN CINEMAS & ON DIGITAL MARCH 29" >}}
 
@@ -43,9 +47,9 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [Frank Sidebottom And Chris Sievey - Being Frank: The Chris Sievey Story](https://www.discogs.com/release/13418323-Frank-Sidebottom-And-Chris-Sievey-Being-Frank-The-Chris-Sievey-Story) |
+| Discogs Link   | [Frank Sidebottom - Being Frank: The Chris Sievey Story](https://www.discogs.com/release/13418323-Frank-Sidebottom-And-Chris-Sievey-Being-Frank-The-Chris-Sievey-Story) |
 | Label          | 7A Records |
-| Format         | LP, Comp, Pic |
+| Format         | Vinyl LP Compilation Picture Disc |
 | Catalog Number | 7A020 |
 
 This is a limited edition of only 500 copies.

@@ -2,7 +2,7 @@
 title: "Oceansize - Effloresce"
 artist: "Oceansize"
 album_name: "Effloresce"
-date: 2016-12-01
+date: 2016-12-01T19:02:20.000000Z
 release_id: "1460913"
 slug: "effloresce-1460913"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. I Am The Morning (4:18)
 2. Catalyst (6:40)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Women Who Love Men Who Love Drugs (8:30)
 11. Saturday Morning Breakfast Show (9:04)
 12. Long Forgotten (8:57)
+
+
 ## Spotify
 {{< spotify type="album" id="6yY6v4JnwTQGo5w9IZqTRu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}
@@ -39,7 +44,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2003 |
 | Discogs Link   | [Oceansize - Effloresce](https://www.discogs.com/release/1460913-Oceansize-Effloresce) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | BBQ 235 |
 
-Mastered at Abbey Road Studios.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill. 
+Mastered at Abbey Road Studios.
+
+"Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.
+

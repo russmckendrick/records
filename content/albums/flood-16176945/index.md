@@ -2,7 +2,7 @@
 title: "They Might Be Giants - Flood"
 artist: "They Might Be Giants"
 album_name: "Flood"
-date: 2020-11-13
+date: 2020-11-13T11:44:20.000000Z
 release_id: "16176945"
 slug: "flood-16176945"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Theme From Flood (0:29)
 2. Birdhouse In Your Soul (3:15)
@@ -33,8 +34,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 17. Sapphire Bullets Of Pure Love (1:32)
 18. They Might Be Giants (2:39)
 19. Road Movie To Berlin (2:24)
+
+
 ## Spotify
 {{< spotify type="album" id="7FwAtuhhWivxvK4aPgyyUD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}
@@ -64,7 +69,14 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/16176945-They-Might-Be-Giants-Flood) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Tur |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Turquoise / White Marbled [Icy Mint], 180 gram) |
 | Catalog Number | MOVLP1239 |
 
-Hype sticker: Limited numbered edition of 2,500 copies on icy mint coloured vinyl 180 gram audiophile vinyl  Gatefold sleeve. Poly-lined die-cut white paper inner sleeve.  Made in the EU.
+Hype sticker:
+Limited numbered edition of 2,500 copies on icy mint coloured vinyl
+180 gram audiophile vinyl
+
+Gatefold sleeve.
+Poly-lined die-cut white paper inner sleeve.
+
+Made in the EU.

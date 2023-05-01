@@ -2,7 +2,7 @@
 title: "Bob Mould - Sunshine Rock"
 artist: "Bob Mould"
 album_name: "Sunshine Rock"
-date: 2019-02-08
+date: 2019-02-08T14:23:02.000000Z
 release_id: "13162648"
 slug: "sunshine-rock-13162648"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Sunshine Rock (3:09)
 2. What Do You Want Me To Do (2:31)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 10. Camp Sunshine (3:04)
 11. Send Me A Postcard  (2:35)
 12. Western Sunset (3:20)
+
+
 ## Spotify
 {{< spotify type="album" id="3Ppeh02131RsLjih5e4Yjj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZHQUyZnS7qo" title="Bob Mould Sunshine Rock" >}}
@@ -40,7 +45,5 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Bob Mould - Sunshine Rock](https://www.discogs.com/release/13162648-Bob-Mould-Sunshine-Rock) |
 | Label          | Merge Records |
-| Format         | LP, Album, Ltd, Red |
+| Format         | Vinyl LP Album Limited Edition Stereo (Red And Yellow Swirl) |
 | Catalog Number | MRG650 |
-
-

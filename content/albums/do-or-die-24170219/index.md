@@ -2,7 +2,7 @@
 title: "Dropkick Murphys - Do Or Die"
 artist: "Dropkick Murphys"
 album_name: "Do Or Die"
-date: 2022-08-16
+date: 2022-08-16T03:16:10.000000Z
 release_id: "24170219"
 slug: "do-or-die-24170219"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Cadence To Arms
 2. Do Or Die
@@ -30,8 +31,12 @@ styles: ["Punk"]
 14. Noble
 15. Boys On The Docks (Murphy's Pub Version) 
 16. Skinhead On The MBTA
+
+
 ## Spotify
 {{< spotify type="album" id="5EKDBIKZ37Idq0QiXG2qzk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)" >}}
@@ -43,7 +48,9 @@ styles: ["Punk"]
 | Release Year   | 2022 |
 | Discogs Link   | [Dropkick Murphys - Do Or Die](https://www.discogs.com/release/24170219-Dropkick-Murphys-Do-Or-Die) |
 | Label          | Hellcat Records |
-| Format         | LP, Album, Ltd, RE, Cle |
+| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Catalog Number | 0407-1 |
 
-Released in 2022 on clear vinyl.  Note: identical barcode and matrix/runout as [r24169526].
+Released in 2022 on clear vinyl.
+
+Note: identical barcode and matrix/runout as [r24169526].

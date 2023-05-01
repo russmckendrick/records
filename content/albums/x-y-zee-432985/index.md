@@ -2,7 +2,7 @@
 title: "Pop Will Eat Itself - X Y & Zee"
 artist: "Pop Will Eat Itself"
 album_name: "X Y & Zee"
-date: 2018-02-15
+date: 2018-02-15T19:24:32.000000Z
 release_id: "432985"
 slug: "x-y-zee-432985"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Breakbeat", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. X Y & Zee (The Intergalactic Mix)
 2. X Y & Zee (The Electric Sunshine Mix)
 3. X Y & Zee (Sensory Amplification Mix)
+
+
+
 
 ## Videos
 {{< youtube id="UKVYQFQ_wOg" title="Pop Will Eat Itself   X,Y & Zee Sensory Amplification Mix" >}}
@@ -31,7 +35,5 @@ styles: ["Breakbeat", "Indie Rock"]
 | Release Year   | 1991 |
 | Discogs Link   | [Pop Will Eat Itself - X Y & Zee](https://www.discogs.com/release/432985-Pop-Will-Eat-Itself-X-Y-Zee) |
 | Label          | RCA |
-| Format         | 12\", Yel |
+| Format         | Vinyl 12" (Yellow) |
 | Catalog Number | PT 44244 |
-
-

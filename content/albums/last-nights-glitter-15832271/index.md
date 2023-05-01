@@ -2,7 +2,7 @@
 title: "Charlie Barnes - Last Nights Glitter"
 artist: "Charlie Barnes"
 album_name: "Last Nights Glitter"
-date: 2020-08-30
+date: 2020-08-30T14:46:35.000000Z
 release_id: "15832271"
 slug: "last-nights-glitter-15832271"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Sing to God (Intro) (1:22)
 2. All I Have (4:25)
@@ -24,8 +25,11 @@ styles: ["Pop Rock"]
 8. Will & Testament (4:10)
 9. Former Glories/Bruising (Reprise) (4:26)
 10. Last Night's Glitter (6:31)
+
+
 ## Spotify
 {{< spotify type="album" id="2xvdwaoDxpDC5S3YefeXAl" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,7 +38,5 @@ styles: ["Pop Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Charlie Barnes - Last Nights Glitter](https://www.discogs.com/release/15832271-Charlie-Barnes-Last-Nights-Glitter) |
 | Label          | Not On Label |
-| Format         | LP |
+| Format         | Vinyl LP Stereo |
 | Catalog Number | none |
-
-

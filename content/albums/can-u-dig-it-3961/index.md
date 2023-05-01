@@ -2,7 +2,7 @@
 title: "Pop Will Eat Itself - Can U Dig It?"
 artist: "Pop Will Eat Itself"
 album_name: "Can U Dig It?"
-date: 2018-02-15
+date: 2018-02-15T19:24:32.000000Z
 release_id: "3961"
 slug: "can-u-dig-it-3961"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"]
 ---
+
 ## Tracklisting
 1. Can U Dig It? (Twelve) (4:25)
 2. Poison To The Mind (2:45)
 3. Radio P.W.E.I. (Acapella) (1:10)
 4. The Fuses Have Been Lit (Instrumental) (2:07)
+
+
+
 
 ## Videos
 {{< youtube id="7uG_gNOhmDc" title="Pop Will Eat Itself - Can U Dig It? (Twelve)" >}}
@@ -31,7 +35,11 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 | Release Year   | 1989 |
 | Discogs Link   | [Pop Will Eat Itself - Can U Dig It?](https://www.discogs.com/release/3961-Pop-Will-Eat-Itself-Can-U-Dig-It) |
 | Label          | RCA |
-| Format         | 12\" |
+| Format         | Vinyl 12" 45 RPM Stereo |
 | Catalog Number | PT 42620 |
 
-(P)+(C) BMG Records UK Ltd.  On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"  Printed in England
+(P)+(C) BMG Records UK Ltd.
+
+On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"
+
+Printed in England

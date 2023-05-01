@@ -2,7 +2,7 @@
 title: "Various - Loaded"
 artist: "Various"
 album_name: "Loaded"
-date: 2021-06-07
+date: 2021-06-07T10:53:49.000000Z
 release_id: "15400556"
 slug: "loaded-15400556"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Don't Look Back In Anger (4:47)
 2. The Bartender And The Thief (2:55)
@@ -44,8 +45,11 @@ styles: ["Indie Rock"]
 28. Good Enough (3:57)
 29. Lucky You (4:20)
 30. Why Does It Always Rain On Me? (4:23)
+
+
 ## Spotify
 {{< spotify type="album" id="6zT1CYxdMjosZQwBGGpEoD" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -53,8 +57,6 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Various - Loaded](https://www.discogs.com/release/15400556-Various-Loaded) |
-| Label          | Spectrum Music |
-| Format         | 2xLP, Comp |
+| Label          | Spectrum Music (2) |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | 00600753910719 |
-
-

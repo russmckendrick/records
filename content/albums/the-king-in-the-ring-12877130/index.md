@@ -2,7 +2,7 @@
 title: "Elvis Presley - The King In The Ring"
 artist: "Elvis Presley"
 album_name: "The King In The Ring"
-date: 2018-12-19
+date: 2018-12-19T19:49:56.000000Z
 release_id: "12877130"
 slug: "the-king-in-the-ring-12877130"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Rock & Roll", "Ballad"]
 ---
+
 ## Tracklisting
 1. That’s All Right (4:08)
 2. Heartbreak Hotel (2:55)
@@ -47,13 +48,29 @@ styles: ["Rock & Roll", "Ballad"]
 31. Memories  (3:13)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Elvis Presley - The King In The Ring](https://www.discogs.com/release/12877130-Elvis-Presley-The-King-In-The-Ring) |
-| Label          | RCA Victor, RCA, Legacy, Sony Music |
-| Format         | 2xLP, Album, Comp |
+| Label          | RCA Victor |
+| Format         | Vinyl 2× LP Album Compilation |
 | Catalog Number | 19075896631 |
 
-Black Vinyl . Gatefold sleeve.  Recorded at NBC Studios Burbank, June 27, 1968  6PM & 8PM shows.  Made in the US.  Track information: Tracks A6,B7,D3,D5,D6  originally released 1968 Tracks C5,D1,D2 originally released 1974 Tracks B6, C7 originally released 1976 Track A5 originally released 1981 Track C4 originally released 1983 Tracks B2,B4 originally released 1997 Tracks A1to A4, A7,B1,B3,B5,B8, C1 to C3, C6, C8,D4,D7,D8 originally released 1998 All tracks originally recorded 1968
+Black Vinyl . Gatefold sleeve.
+
+Recorded at NBC Studios Burbank, June 27, 1968  6PM & 8PM shows.
+
+Made in the US.
+
+Track information:
+Tracks A6,B7,D3,D5,D6  originally released 1968
+Tracks C5,D1,D2 originally released 1974
+Tracks B6, C7 originally released 1976
+Track A5 originally released 1981
+Track C4 originally released 1983
+Tracks B2,B4 originally released 1997
+Tracks A1to A4, A7,B1,B3,B5,B8, C1 to C3, C6, C8,D4,D7,D8 originally released 1998
+All tracks originally recorded 1968

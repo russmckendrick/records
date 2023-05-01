@@ -2,7 +2,7 @@
 title: "Durand Jones & The Indications - American Love Call"
 artist: "Durand Jones & The Indications"
 album_name: "American Love Call"
-date: 2019-03-11
+date: 2019-03-11T19:46:04.000000Z
 release_id: "13313049"
 slug: "american-love-call-13313049"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. American Love Call (LP)
 2. Morning In America
@@ -32,16 +33,18 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Circles (Demo)
 17. Don't You Know (Instrumental)
 18. Walk Away (Instrumental)
+
+
 ## Spotify
 {{< spotify type="album" id="7FU0CDJvPwKDWRXtHYcsoY" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="D5ndo2SjB88" title="Morning In America - Durand Jones & The Indications" >}}
-- [Morning in America](https://www.youtube.com/watch?v=6vRLel-AjK4)
+{{< youtube id="b1V_1TPDVxc" title="Durand Jones & The Indications - Morning in America" >}}
 - [Durand Jones & The Indications - Don’t You Know (feat. Aaron Frazer)](https://www.youtube.com/watch?v=D2s5xuPwQhU)
 - [Circles](https://www.youtube.com/watch?v=pmlO_Vbe4qs)
 - [Court of Love](https://www.youtube.com/watch?v=MHu11yPdatg)
-- [Durand Jones & The Indications - Long Way Home (Official Audio)](https://www.youtube.com/watch?v=o0P1dkvNSMI)
 - [Too Many Tears](https://www.youtube.com/watch?v=YVgvEiE7Lwo)
 - [Walk Away](https://www.youtube.com/watch?v=JRoQ3pU4i1k)
 - [What I Know About You](https://www.youtube.com/watch?v=CN-GOo8BeF8)
@@ -55,8 +58,8 @@ styles: ["Rhythm & Blues", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Durand Jones & The Indications - American Love Call](https://www.discogs.com/release/13313049-Durand-Jones-The-Indications-American-Love-Call) |
-| Label          | Dead Oceans, Colemine Records |
-| Format         | LP, Album, Ltd, Pur + CD, EP |
+| Label          | Dead Oceans |
+| Format         | Vinyl LP Album Limited Edition (Purple Translucent), CD EP |
 | Catalog Number | DOC 177 |
 
 Rough Trade exclusive pressing on transparent purple vinyl; includes a download code for digital copies of the LP and a bonus "Demo Tracks" CD.

@@ -2,7 +2,7 @@
 title: "Rhiannon Giddens - Freedom Highway"
 artist: "Rhiannon Giddens"
 album_name: "Freedom Highway"
-date: 2017-02-25
+date: 2017-02-25T09:16:56.000000Z
 release_id: "9887548"
 slug: "freedom-highway-9887548"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Blues", "Folk, World, & Country"]
 styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 ---
+
 ## Tracklisting
 1. At The Purchaser's Option (4:16)
 2. The Angels Laid Him Away (2:31)
@@ -26,8 +27,12 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 10. Baby Boy (4:29)
 11. Following The North Star (1:56)
 12. Freedom Highway (4:47)
+
+
 ## Spotify
 {{< spotify type="album" id="1CVuPxNHwY5ORJ8MhjD0UB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6vy9xTS0QxM" title="Rhiannon Giddens - At The Purchaser's Option" >}}
@@ -49,7 +54,11 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 | Release Year   | 2017 |
 | Discogs Link   | [Rhiannon Giddens - Freedom Highway](https://www.discogs.com/release/9887548-Rhiannon-Giddens-Freedom-Highway) |
 | Label          | Nonesuch |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 558805-1 |
 
-℗ & © 2017 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States. Slavery sale notice courtesy Hudson River Valley Heritage/Historic Huguenot Street.  Includes MP3 Download card. Copies purchased through Rhiannon Giddens' website came with a signed photo by Rhiannon Giddens, 9.5" x 10.5".
+℗ & © 2017 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.
+Slavery sale notice courtesy Hudson River Valley Heritage/Historic Huguenot Street.
+
+Includes MP3 Download card.
+Copies purchased through Rhiannon Giddens' website came with a signed photo by Rhiannon Giddens, 9.5" x 10.5".

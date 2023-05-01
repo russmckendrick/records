@@ -2,7 +2,7 @@
 title: "Led Zeppelin - Physical Graffiti"
 artist: "Led Zeppelin"
 album_name: "Physical Graffiti"
-date: 2017-02-26
+date: 2017-02-26T10:58:09.000000Z
 release_id: "6677028"
 slug: "physical-graffiti-6677028"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock", "Folk Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Custard Pie  (4:15)
 2. The Rover  (5:39)
@@ -29,20 +30,55 @@ styles: ["Hard Rock", "Blues Rock", "Folk Rock", "Prog Rock"]
 13. Boogie With Stu (3:52)
 14. Black Country Woman (4:24)
 15. Sick Again (4:42)
+
+
 ## Spotify
 {{< spotify type="album" id="26tH0kjUhkxBEd3ipGkx3Y" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="EH6I31ev1GM" title="Led Zeppelin - Physical Graffiti (Full Album)" >}}
-- [Led Zeppelin - Physical Graffiti {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=D2HC0G4T74Y)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Led Zeppelin - Physical Graffiti](https://www.discogs.com/release/6677028-Led-Zeppelin-Physical-Graffiti) |
-| Label          | Swan Song, Swan Song |
-| Format         | 2xLP, Album, RE, RM, 180 |
-| Catalog Number | 8122796578, 8122-79657-8 |
+| Label          | Swan Song |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g) |
+| Catalog Number | 8122796578 |
 
-Issued with two printed inner sleeves and a folded large format inlay with track list, credits and recording info. Housed in a die-cut single pocket jacket. Selected record shops offered this together with a Physical Graffiti slip mat and a brown paper bag with the LP artwork printed on front.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”).   [Sticker:] 40th anniversary edition on 180g vinyl Includes Kashmir & Trampled Under Foot  Remastered & produced by Jimmy Page  [Rear sleeve:] ℗ & © 1975 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured & Marketed by Warner Music Group, 3400 W. Olive Ave., Burbank, CA 91505-4614. Printed in the EU.  [Insert:] Package concept & design: AGI Mike Doud, London Peter Corriston, New York Custard Pie: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios The Rover: Track [...] at Stargroves with The Rolling Stones Mobile Studio/Overdubs & Mixdown [...] Olympic Studios In My Time Of Dying: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Mixdown [...] Olympic Studios Houses Of The Holy: Track & Overdubs [...] Olympic Studios/Mixdown [...] at Electric Ladyland Trampled Under Foot: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Kashmir: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios In The Light: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Bron-Yr-Aur: Track [...] Island Studios/Mixdown [...] Olympic Studios Down By The Seaside: Track & Overdubs [...] Island Studios/Mixdown [...] Olympic Studios Ten Years Gone: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Night Flight: Track [...] at Headly Grange with The Rolling Stones Mobile Studio/Overdubs [...] Island Studios/Mixdown [...] Olympic Studios The Wanton Song: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Boogie With Stu: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Black Country Woman: Track [...] at Stargroves, in the garden with The Rolling Stones Mobile Studio/Mixdown [...] Olympic Studios Sick Again: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios  [Labels:] ℗ & © 1975 Atlantic Recording Corporation. Manufactured in Germany.
+Issued with two printed inner sleeves and a folded large format inlay with track list, credits and recording info. Housed in a die-cut single pocket jacket.
+Selected record shops offered this together with a Physical Graffiti slip mat and a brown paper bag with the LP artwork printed on front.
+
+Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). 
+
+[Sticker:]
+40th anniversary edition on 180g vinyl
+Includes Kashmir & Trampled Under Foot 
+Remastered & produced by Jimmy Page
+
+[Rear sleeve:]
+℗ & © 1975 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved.
+Manufactured & Marketed by Warner Music Group, 3400 W. Olive Ave., Burbank, CA 91505-4614. Printed in the EU.
+
+[Insert:]
+Package concept & design: AGI
+Mike Doud, London
+Peter Corriston, New York
+Custard Pie: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+The Rover: Track [...] at Stargroves with The Rolling Stones Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+In My Time Of Dying: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Mixdown [...] Olympic Studios
+Houses Of The Holy: Track & Overdubs [...] Olympic Studios/Mixdown [...] at Electric Ladyland
+Trampled Under Foot: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+Kashmir: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+In The Light: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+Bron-Yr-Aur: Track [...] Island Studios/Mixdown [...] Olympic Studios
+Down By The Seaside: Track & Overdubs [...] Island Studios/Mixdown [...] Olympic Studios
+Ten Years Gone: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+Night Flight: Track [...] at Headly Grange with The Rolling Stones Mobile Studio/Overdubs [...] Island Studios/Mixdown [...] Olympic Studios
+The Wanton Song: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+Boogie With Stu: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+Black Country Woman: Track [...] at Stargroves, in the garden with The Rolling Stones Mobile Studio/Mixdown [...] Olympic Studios
+Sick Again: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios
+
+[Labels:]
+℗ & © 1975 Atlantic Recording Corporation. Manufactured in Germany.

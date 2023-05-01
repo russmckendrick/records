@@ -2,7 +2,7 @@
 title: "Jamie Lidell - Building A Beginning"
 artist: "Jamie Lidell"
 album_name: "Building A Beginning"
-date: 2017-04-02
+date: 2017-04-02T13:01:44.000000Z
 release_id: "9310602"
 slug: "building-a-beginning-9310602"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Neo Soul", "Funk"]
 ---
+
 ## Tracklisting
 1. Building A Beginning
 2. Julian
@@ -28,8 +29,12 @@ styles: ["Neo Soul", "Funk"]
 12. I Stay Inside
 13. Precious Years
 14. Don't Let Me Let You Go
+
+
 ## Spotify
 {{< spotify type="album" id="5rISZufkzaN126NIxgvn1T" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning (Lyric Video)" >}}
@@ -41,7 +46,8 @@ styles: ["Neo Soul", "Funk"]
 | Release Year   | 2016 |
 | Discogs Link   | [Jamie Lidell - Building A Beginning](https://www.discogs.com/release/9310602-Jamie-Lidell-Building-A-Beginning) |
 | Label          | Jajulin |
-| Format         | LP, Red + LP, Yel + Album |
+| Format         | Vinyl LP 45 RPM (Red), Vinyl LP 45 RPM (Yellow), All Media Album |
 | Catalog Number | JJL004 |
 
-Gatefold sleeve. Includes digital download. 
+Gatefold sleeve.
+Includes digital download. 

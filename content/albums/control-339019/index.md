@@ -2,7 +2,7 @@
 title: "Janet Jackson - Control"
 artist: "Janet Jackson"
 album_name: "Control"
-date: 2020-08-01
+date: 2020-08-01T12:44:39.000000Z
 release_id: "339019"
 slug: "control-339019"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Funk / Soul", "Pop"]
 styles: ["Contemporary R&B", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Control (5:55)
 2. Nasty (4:00)
@@ -23,8 +24,12 @@ styles: ["Contemporary R&B", "Synth-pop"]
 7. He Doesn't Know I'm Alive (3:30)
 8. Let's Wait Awhile (4:36)
 9. Funny How Time Flies (When You're Having Fun) (4:27)
+
+
 ## Spotify
 {{< spotify type="album" id="7GWkceE5McMVfffd1RGL6Y" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LH8xbDGv7oY" title="Janet Jackson - Control" >}}
@@ -44,7 +49,16 @@ styles: ["Contemporary R&B", "Synth-pop"]
 | Release Year   | 1986 |
 | Discogs Link   | [Janet Jackson - Control](https://www.discogs.com/release/339019-Janet-Jackson-Control) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | AMA 5106 |
 
-℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve) © 1986 A & M Records Inc. (back cover, inner sleeve)  Issued with a custom printed inner sleeve containing credits.  'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)  'Made in England' (labels)  'Printed in England' (spine)
+℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve)
+© 1986 A & M Records Inc. (back cover, inner sleeve)
+
+Issued with a custom printed inner sleeve containing credits.
+
+'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)
+
+'Made in England' (labels)
+
+'Printed in England' (spine)

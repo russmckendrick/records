@@ -2,7 +2,7 @@
 title: "Mogwai - Mr Beast"
 artist: "Mogwai"
 album_name: "Mr Beast"
-date: 2020-06-24
+date: 2020-06-24T11:44:05.000000Z
 release_id: "15504582"
 slug: "mr-beast-15504582"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Auto Rock
 2. Glasgow Mega-Snake
@@ -24,8 +25,12 @@ styles: ["Art Rock", "Post Rock"]
 8. Folk Death 95
 9. I Chose Horses
 10. We're No Here
+
+
 ## Spotify
 {{< spotify type="album" id="12lwDzvs23w1e8EKa5zQoC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5uyznyJQFI0" title="Mogwai Auto Rock @ Les Nuits De Fourvière 2014" >}}
@@ -38,7 +43,7 @@ styles: ["Art Rock", "Post Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Mogwai - Mr Beast](https://www.discogs.com/release/15504582-Mogwai-Mr-Beast) |
 | Label          | [PIAS] Recordings |
-| Format         | LP, Yel + LP, S/Sided, Etch, Yel + Album, Ltd |
+| Format         | Vinyl LP (Yellow Transparent), Vinyl LP Single Sided Etched (Yellow Transparent), All Media Album Limited Edition |
 | Catalog Number | PIASX062DLP |
 
 Special release for Love Record Store Day 2020. Limited to 700 copies.

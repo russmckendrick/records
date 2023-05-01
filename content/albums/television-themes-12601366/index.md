@@ -2,7 +2,7 @@
 title: "Matt Berry - Television Themes"
 artist: "Matt Berry"
 album_name: "Television Themes"
-date: 2018-10-01
+date: 2018-10-01T17:55:52.000000Z
 release_id: "12601366"
 slug: "television-themes-12601366"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Pop", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Theme"]
 ---
+
 ## Tracklisting
 1. Are You Being Served
 2. The Good Life
@@ -28,8 +29,9 @@ styles: ["Theme"]
 12. World In Action
 13. Sorry
 14. Open University
-## Spotify
-{{< spotify type="album" id="467xtblaihstyABaO9OOaD" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="XiaGzoiHX1s" title="The Good Life" >}}
@@ -54,7 +56,11 @@ styles: ["Theme"]
 | Release Year   | 2018 |
 | Discogs Link   | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-Television-Themes) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Ora |
+| Format         | Vinyl LP Album (Orange) |
 | Catalog Number | AJXLP450 |
 
-"Halloween" orange vinyl.  Sleeve signed by Matt Berry.  Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles.
+"Halloween" orange vinyl.
+
+Sleeve signed by Matt Berry.
+
+Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles.

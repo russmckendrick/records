@@ -2,7 +2,7 @@
 title: "Janis Ian - Aftertones"
 artist: "Janis Ian"
 album_name: "Aftertones"
-date: 2019-01-19
+date: 2019-01-19T10:36:24.000000Z
 release_id: "2037717"
 slug: "aftertones-2037717"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Ballad"]
 ---
+
 ## Tracklisting
 1. Aftertones (3:14)
 2. I Would Like To Dance (3:38)
@@ -24,8 +25,12 @@ styles: ["Ballad"]
 8. This Must Be Wrong (2:40)
 9. Don't Cry, Old Man (3:51)
 10. Hymn (4:08)
+
+
 ## Spotify
 {{< spotify type="album" id="03jz5LMm85cJfaN5KLz31M" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="NlY_DgfLMm8" title="Aftertones" >}}
@@ -33,8 +38,8 @@ styles: ["Ballad"]
 - [Belle of the Blues](https://www.youtube.com/watch?v=cv9HnJvcOps)
 - [I Would Like to Dance](https://www.youtube.com/watch?v=AyBv5m4akxU)
 - [Hymn](https://www.youtube.com/watch?v=zgn20lxHCNk)
-- [Janis Ian - Love is Blind](https://www.youtube.com/watch?v=YXWaUSGxB40)
 - [Aftertones](https://www.youtube.com/watch?v=oyCbfl0Sq5I)
+- [Janis Ian - Love is Blind](https://www.youtube.com/watch?v=YXWaUSGxB40)
 - [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
 - [I Would Like to Dance](https://www.youtube.com/watch?v=OUN1Yon-Q50)
 
@@ -44,7 +49,7 @@ styles: ["Ballad"]
 | Release Year   | 1975 |
 | Discogs Link   | [Janis Ian - Aftertones](https://www.discogs.com/release/2037717-Janis-Ian-Aftertones) |
 | Label          | Columbia |
-| Format         | LP, Album, Ter |
+| Format         | Vinyl LP Album (Terre Haute Pressing) |
 | Catalog Number | PC 33919 |
 
 "T" in runouts denotes a [l403953] pressing.

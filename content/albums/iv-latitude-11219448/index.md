@@ -2,7 +2,7 @@
 title: "Lesoir - IV Latitude"
 artist: "Lesoir"
 album_name: "IV Latitude"
-date: 2019-03-27
+date: 2019-03-27T19:31:25.000000Z
 release_id: "11219448"
 slug: "iv-latitude-11219448"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Modern Goddess (4:31)
 2. In The Game (5:27)
@@ -28,6 +29,9 @@ styles: ["Prog Rock"]
 12. Faith Is (6:21)
 13. Cradle Song (1:55)
 
+
+
+
 ## Videos
 {{< youtube id="t3zBRu3b4RU" title="Latitude" >}}
 - [Lesoir Latitude (GAOM054)](https://www.youtube.com/watch?v=L8vaclL7Ojc)
@@ -39,7 +43,8 @@ styles: ["Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Lesoir - IV Latitude](https://www.discogs.com/release/11219448-Lesoir-IV-Latitude) |
 | Label          | Gentle Art Of Music |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | GAOM 054LP |
 
-Ordered Directly by the Band to get a Signed edition. Includes a download card.
+Ordered Directly by the Band to get a Signed edition.
+Includes a download card.

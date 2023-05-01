@@ -2,7 +2,7 @@
 title: "Dennis Brown - Tribulation Times"
 artist: "Dennis Brown"
 album_name: "Tribulation Times"
-date: 2020-01-06
+date: 2020-01-06T18:20:18.000000Z
 release_id: "3355275"
 slug: "tribulation-times-3355275"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Tribulation Times by Dennis Brown"
     caption: "Tribulation Times by Dennis Brown"
 genres: ["Reggae"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Smile Like An Angel
 2. Poor Side Of Town
@@ -29,6 +30,9 @@ styles: null
 13. Golden Streets
 14. We Will Be Free
 
+
+
+
 ## Videos
 {{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times (Reggae Album)" >}}
 
@@ -38,7 +42,7 @@ styles: null
 | Release Year   | 2011 |
 | Discogs Link   | [Dennis Brown - Tribulation Times](https://www.discogs.com/release/3355275-Dennis-Brown-Tribulation-Times) |
 | Label          | Kingston Sounds |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | KSLP025 |
 
 Track B7 Listed on jacket as 'We Will Be Free', but listed on label as 'We Will Be Fre'.

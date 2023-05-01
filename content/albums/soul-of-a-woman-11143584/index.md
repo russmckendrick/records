@@ -2,7 +2,7 @@
 title: "Sharon Jones & The Dap-Kings - Soul Of A Woman"
 artist: "Sharon Jones & The Dap-Kings"
 album_name: "Soul Of A Woman"
-date: 2017-11-18
+date: 2017-11-18T09:00:48.000000Z
 release_id: "11143584"
 slug: "soul-of-a-woman-11143584"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Soul Of A Woman by Sharon Jones & The Dap-Kings"
     caption: "Soul Of A Woman by Sharon Jones & The Dap-Kings"
 genres: ["Funk / Soul"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Matter Of Time
 2. Sail On!
@@ -25,8 +26,12 @@ styles: null
 9. When I Saw Your Face
 10. Girl! (You Got To Forgive Him)
 11. Call On God
+
+
 ## Spotify
-{{< spotify type="album" id="6dQ4PANge8QXfOywlHNd2J" width="100%" height="500" >}}
+{{< spotify type="album" id="6Y3Hr84DBJ7oV76c3BuInv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_Z9LA1u5KCI" title="Sharon Jones & the Dap Kings - Matter of Time" >}}
@@ -47,7 +52,9 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Sharon Jones & The Dap-Kings - Soul Of A Woman](https://www.discogs.com/release/11143584-Sharon-Jones-The-Dap-Kings-Soul-Of-A-Woman) |
 | Label          | Daptone Records |
-| Format         | LP, Album, Ltd, Red |
+| Format         | Vinyl LP Album Limited Edition (Red) |
 | Catalog Number | DAP-050 |
 
-Red vinyl variant only available in independent record shops.  Includes mp3 download card.
+Red vinyl variant only available in independent record shops.
+
+Includes mp3 download card.

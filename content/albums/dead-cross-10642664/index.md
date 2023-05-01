@@ -2,7 +2,7 @@
 title: "Dead Cross - Dead Cross"
 artist: "Dead Cross"
 album_name: "Dead Cross"
-date: 2017-08-18
+date: 2017-08-18T18:22:09.000000Z
 release_id: "10642664"
 slug: "dead-cross-10642664"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Seizure And Desist
 2. Idiopathic
@@ -24,8 +25,12 @@ styles: ["Hardcore", "Heavy Metal"]
 8. The Future Has Been Cancelled
 9. Gag Reflex
 10. Church Of The Motherfuckers
+
+
 ## Spotify
 {{< spotify type="album" id="0pgakkzw4eUOMPfwBXxj7E" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}
@@ -45,7 +50,9 @@ styles: ["Hardcore", "Heavy Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [Dead Cross - Dead Cross](https://www.discogs.com/release/10642664-Dead-Cross-Dead-Cross) |
 | Label          | Ipecac Recordings |
-| Format         | LP, Album, Ltd, Gol |
+| Format         | Vinyl LP 45 RPM Album Limited Edition (Gold) |
 | Catalog Number | IPC193LP |
 
-Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).  Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix. 
+Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).
+
+Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix. 

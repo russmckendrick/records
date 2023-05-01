@@ -2,7 +2,7 @@
 title: "The Gentle Storm - The Diary"
 artist: "The Gentle Storm"
 album_name: "The Diary"
-date: 2023-02-11
+date: 2023-02-11T08:07:00.000000Z
 release_id: "26059753"
 slug: "the-diary-26059753"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Gentle 
 2. Endless Sea (Gentle Version) (5:59)
@@ -38,8 +39,12 @@ styles: ["Folk", "Prog Rock"]
 22. Brightest Light (Storm Version) (4:54)
 23. New Horizons (Storm Version) (5:25)
 24. Epilogue: The Final Entry (Storm Version) (2:03)
+
+
 ## Spotify
 {{< spotify type="album" id="1Nr0P6L4yRDdBSJfvFwrWf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nY0Y1AwOyw0" title="THE GENTLE STORM - Shores Of India (OFFICIAL VIDEO)" >}}
@@ -53,8 +58,10 @@ styles: ["Folk", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [The Gentle Storm - The Diary](https://www.discogs.com/release/26059753-The-Gentle-Storm-The-Diary) |
-| Label          | Music On Vinyl, Inside Out Music |
-| Format         | 3xLP, Album, Ltd, Num, RE, Fla |
+| Label          | Music On Vinyl |
+| Format         | Vinyl 3× LP Album Limited Edition Numbered Reissue (Flaming Coloured) |
 | Catalog Number | MOVLP3074 |
 
-180 gram audiophile vinyl includes 12-page booklet with lyrics and background story Limited edition of 1000 numbered copies
+180 gram audiophile vinyl
+includes 12-page booklet with lyrics and background story
+Limited edition of 1000 numbered copies

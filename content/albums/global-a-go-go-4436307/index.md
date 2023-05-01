@@ -2,7 +2,7 @@
 title: "Joe Strummer & The Mescaleros - Global A Go-Go"
 artist: "Joe Strummer & The Mescaleros"
 album_name: "Global A Go-Go"
-date: 2017-12-23
+date: 2017-12-23T09:59:25.000000Z
 release_id: "4436307"
 slug: "global-a-go-go-4436307"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Global A Go-Go by Joe Strummer & The Mescaleros"
     caption: "Global A Go-Go by Joe Strummer & The Mescaleros"
 genres: ["Rock", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Johnny Appleseed (4:05)
 2. Cool'n'Out (4:17)
@@ -38,6 +39,9 @@ styles: null
 22. Minstrel Boy (17:51)
 23. Bhindi Bhagee (Live From The Action Concert) (5:58)
 
+
+
+
 ## Videos
 {{< youtube id="nmyKLpVM98Q" title="Joe Strummer & the Mescaleros - Global A Go-Go" >}}
 - [Joe Strummer Johnny Appleseed](https://www.youtube.com/watch?v=9pYwPc6UNmo)
@@ -55,7 +59,5 @@ styles: null
 | Release Year   | 2012 |
 | Discogs Link   | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |
 | Label          | Hellcat Records |
-| Format         | 2xLP, Album, RE + CD, Album, RM |
+| Format         | Vinyl 2× LP Album Reissue, CD Album Remastered |
 | Catalog Number | 80440-1 |
-
-

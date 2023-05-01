@@ -2,7 +2,7 @@
 title: "Boo-Yaa T.R.I.B.E. - New Funky Nation"
 artist: "Boo-Yaa T.R.I.B.E."
 album_name: "New Funky Nation"
-date: 2020-08-01
+date: 2020-08-01T12:47:34.000000Z
 release_id: "712190"
 slug: "new-funky-nation-712190"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
+
 ## Tracklisting
 1. West Side 1
 2. Six Bad Brothers (5:04)
@@ -27,8 +28,12 @@ styles: ["Gangsta"]
 11. Psyko Funk (4:12)
 12. Riot Pump (5:12)
 13. Pickin' Up Metal (4:58)
+
+
 ## Spotify
 {{< spotify type="album" id="0wwXoYRG1vO7IsZO9qlHkD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9AATTZxO2PQ" title="Six Bad Brothas" >}}
@@ -50,8 +55,34 @@ styles: ["Gangsta"]
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [Boo-Yaa T.R.I.B.E. - New Funky Nation](https://www.discogs.com/release/712190-Boo-Yaa-TRIBE-New-Funky-Nation) |
-| Label          | 4th & Broadway, Island Records |
-| Format         | LP, Album |
-| Catalog Number | BRLP 544, 842 396-1 |
+| Label          | 4th & Broadway |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | BRLP 544 |
 
-WS2, WS3, WS5, ES4 produced for Dust Bros. Music. WS4, ES1, ES5 produced for Chicken Feed Productions.  Fish appears courtesy of CBS Records.  Recorded at Image Recording, Hollywood. Mixed at Image Recording & The Record Plant, Hollywood. ES2 recorded at Paramount Studios, Hollywood. WS6, ES2 mixed at Studio 4, Philadelphia. Mastered at Masterdisk, NYC, NY.  Publishing: Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.  Back cover: ℗ 1990 owned by Island Records Inc except ES2 ℗ 1989. Island Records Ltd are the exclusive licensees in the UK. © 1990 Island Records Inc.  WS label: ℗ 1990 owned by Island Records Inc. Island Records Ltd are the exclusive licensees for the U.K.  ES label: ℗ 1990 except ES1. 1989 owned by Island Records, Inc. Island Records Ltd are the exclusive licensees for the United Kingdom. Made in Gt Britain.
+WS2, WS3, WS5, ES4 produced for Dust Bros. Music.
+WS4, ES1, ES5 produced for Chicken Feed Productions.
+
+Fish appears courtesy of CBS Records.
+
+Recorded at Image Recording, Hollywood.
+Mixed at Image Recording & The Record Plant, Hollywood.
+ES2 recorded at Paramount Studios, Hollywood.
+WS6, ES2 mixed at Studio 4, Philadelphia.
+Mastered at Masterdisk, NYC, NY.
+
+Publishing:
+Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.
+
+Back cover:
+℗ 1990 owned by Island Records Inc except ES2 ℗ 1989.
+Island Records Ltd are the exclusive licensees in the UK.
+© 1990 Island Records Inc.
+
+WS label:
+℗ 1990 owned by Island Records Inc.
+Island Records Ltd are the exclusive licensees for the U.K.
+
+ES label:
+℗ 1990 except ES1. 1989 owned by Island Records, Inc.
+Island Records Ltd are the exclusive licensees for the United Kingdom.
+Made in Gt Britain.

@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Souvenir"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Souvenir"
-date: 2020-01-12
+date: 2020-01-12T16:05:05.000000Z
 release_id: "14216215"
 slug: "souvenir-14216215"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Electricity
 2. Red Frame/White Light
@@ -54,8 +55,12 @@ styles: ["Synth-pop"]
 38. The Punishment Of Luxury
 39. What Have We Done
 40. Don't Go
+
+
 ## Spotify
 {{< spotify type="album" id="5CVouzgQnK0xK3M3YC8ncs" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="RVftFadDCic" title="Souvenir (Remastered 2019)" >}}
@@ -65,8 +70,17 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Souvenir](https://www.discogs.com/release/14216215-Orchestral-Manoeuvres-In-The-Dark-Souvenir) |
-| Label          | Virgin EMI Records, UMC, Virgin EMI Records, UMC |
-| Format         | 3xLP, Comp, 180 |
-| Catalog Number | 7743914, 00602577439148 |
+| Label          | Virgin EMI Records |
+| Format         | Vinyl 3× LP Compilation (180 Gram) |
+| Catalog Number | 7743914 |
 
-Tri-fold sleeve.  Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.  "A Virgin EMI Records Release" A Universal Music Company  Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.  Made in the EU.
+Tri-fold sleeve.
+
+Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.
+
+"A Virgin EMI Records Release"
+A Universal Music Company
+
+Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.
+
+Made in the EU.

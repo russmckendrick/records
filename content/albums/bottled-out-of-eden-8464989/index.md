@@ -2,7 +2,7 @@
 title: "Knifeworld - Bottled Out Of Eden"
 artist: "Knifeworld"
 album_name: "Bottled Out Of Eden"
-date: 2016-05-05
+date: 2016-05-05T05:36:07.000000Z
 release_id: "8464989"
 slug: "bottled-out-of-eden-8464989"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
+
 ## Tracklisting
 1. High / Aflame
 2. The Germ Inside
@@ -36,8 +37,12 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 20. A Dream About A Dream (5:43)
 21. Secret Words (3:12)
 22. Feel The Sorcery (3:50)
+
+
 ## Spotify
 {{< spotify type="album" id="5y7jTbe2INzkBFMqeGVIH6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="T_9wjlangXE" title="KnifeWorld - Bottled Out Of Eden [Full Album]" >}}
@@ -48,8 +53,22 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Knifeworld - Bottled Out Of Eden](https://www.discogs.com/release/8464989-Knifeworld-Bottled-Out-Of-Eden) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | 2xLP, Album + CD, Album |
-| Catalog Number | IOMLP 447, 88985306401 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Catalog Number | IOMLP 447 |
 
-Black vinyl in gatefold with CD.  Recorded at [l292088]. Additional recording at [l999278].  With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.  Layout and artwork at [l877277]. Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].  Published by [l196068].  Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.  knifeworld.co.uk
+Black vinyl in gatefold with CD.
+
+Recorded at [l292088].
+Additional recording at [l999278].
+
+With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.
+
+Layout and artwork at [l877277].
+Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].
+
+Published by [l196068].
+
+Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.
+
+knifeworld.co.uk

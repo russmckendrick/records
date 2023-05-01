@@ -1,18 +1,19 @@
 ---
-title: "Charles Bradley Featuring Menahan Street Band - Black Velvet"
-artist: "Charles Bradley Featuring Menahan Street Band"
+title: "Charles Bradley - Black Velvet"
+artist: "Charles Bradley"
 album_name: "Black Velvet"
-date: 2018-11-09
+date: 2018-11-09T19:15:48.000000Z
 release_id: "12768110"
 slug: "black-velvet-12768110"
 hideSummary: true
 cover:
     image: "black-velvet-12768110.jpg"
-    alt: "Black Velvet by Charles Bradley Featuring Menahan Street Band"
-    caption: "Black Velvet by Charles Bradley Featuring Menahan Street Band"
+    alt: "Black Velvet by Charles Bradley"
+    caption: "Black Velvet by Charles Bradley"
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Can't Fight The Feeling
 2. Luv Jones
@@ -24,6 +25,12 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 8. (I Hope You Find) The Good Life
 9. Fly Little Girl
 10. Victim Of Love (Electric Version)
+
+
+## Spotify
+{{< spotify type="album" id="0oEwrc2MWlogwWpq2sogOT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="inCKjKHd-YY" title="Charles Bradley - Can't Fight the Feeling (Official Audio)" >}}
@@ -41,9 +48,11 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
-| Discogs Link   | [Charles Bradley Featuring Menahan Street Band - Black Velvet](https://www.discogs.com/release/12768110-Charles-Bradley-Featuring-The-Menahan-Street-Band-Black-Velvet) |
+| Discogs Link   | [Charles Bradley - Black Velvet](https://www.discogs.com/release/12768110-Charles-Bradley-Featuring-The-Menahan-Street-Band-Black-Velvet) |
 | Label          | Dunham |
-| Format         | LP, Album, Ltd, Pur |
+| Format         | Vinyl LP Album Limited Edition (Purple With Black Splatter) |
 | Catalog Number | DUN 1007 |
 
-Daptone authorized dealer exclusive limited color vinyl. Includes MP3 download Card. Barcode only present on front sticker.
+Daptone authorized dealer exclusive limited color vinyl.
+Includes MP3 download Card.
+Barcode only present on front sticker.

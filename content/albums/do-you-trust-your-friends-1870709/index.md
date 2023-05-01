@@ -2,7 +2,7 @@
 title: "Stars - Do You Trust Your Friends?"
 artist: "Stars"
 album_name: "Do You Trust Your Friends?"
-date: 2019-01-10
+date: 2019-01-10T18:01:44.000000Z
 release_id: "1870709"
 slug: "do-you-trust-your-friends-1870709"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Your Ex-Lover Is Dead (Final Fantasy)
 2. Set Yourself On Fire (Montag)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 11. Celebration Guns (Camouflage Nights With Kevin Drew)
 12. Soft Revolution (The Stills)
 13. Calendar Girl (Young Galaxy)
+
+
 ## Spotify
 {{< spotify type="album" id="6YjZy9c9RBiouy4SK2kYqY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion (Stars Cover)" >}}
@@ -46,7 +51,11 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 | Release Year   | 2007 |
 | Discogs Link   | [Stars - Do You Trust Your Friends?](https://www.discogs.com/release/1870709-Stars-Do-You-Trust-Your-Friends) |
 | Label          | Arts & Crafts International |
-| Format         | 2xLP, Album, Gat |
+| Format         | Vinyl 2× LP Album (Gatefold) |
 | Catalog Number | ACS-024 |
 
-"A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire".   © 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International.  Printed in Canada. 
+"A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire". 
+
+© 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International. 
+Printed in Canada.
+

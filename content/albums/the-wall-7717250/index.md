@@ -2,7 +2,7 @@
 title: "Roger Waters - The Wall"
 artist: "Roger Waters"
 album_name: "The Wall"
-date: 2015-11-20
+date: 2015-11-20T18:49:46.000000Z
 release_id: "7717250"
 slug: "the-wall-7717250"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. In The Flesh?
 2. The Thin Ice
@@ -43,8 +44,12 @@ styles: ["Prog Rock"]
 27. Stop
 28. The Trial
 29. Outside The Wall
+
+
 ## Spotify
 {{< spotify type="album" id="2x0jjg2Pw98wHDixqzCeqy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qTNCXPY7e5Y" title="ROGER WATERS - The Happiest Days of Our Lives/Another Brick in The Wall part 2-ASSAGO 4 aprile 2011" >}}
@@ -61,8 +66,13 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Roger Waters - The Wall](https://www.discogs.com/release/7717250-Roger-Waters-The-Wall) |
-| Label          | Columbia, Legacy |
-| Format         | 3xLP, Album, Tri |
+| Label          | Columbia |
+| Format         | Vinyl 3× LP Album (Tri-Fold, 180 Gram) |
 | Catalog Number | 88875155411 |
 
-The Soundtrack From A Film By Roger Waters And Sean Evans 3LP in tri-fold jacket on 180-gram audiophile vinyl Includes 16-page book with color photos Made in the EU.  Live Recording Athens: Le Voyageur
+The Soundtrack From A Film By Roger Waters And Sean Evans
+3LP in tri-fold jacket on 180-gram audiophile vinyl
+Includes 16-page book with color photos
+Made in the EU.
+
+Live Recording Athens: Le Voyageur

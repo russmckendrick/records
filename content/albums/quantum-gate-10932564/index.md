@@ -2,7 +2,7 @@
 title: "Tangerine Dream - Quantum Gate"
 artist: "Tangerine Dream"
 album_name: "Quantum Gate"
-date: 2017-10-28
+date: 2017-10-28T15:49:14.000000Z
 release_id: "10932564"
 slug: "quantum-gate-10932564"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Berlin-School"]
 ---
+
 ## Tracklisting
 1. Sensing Elements
 2. Roll The Seven Twice
@@ -23,8 +24,12 @@ styles: ["Ambient", "Berlin-School"]
 7. Non-Locality Destination
 8. Genesis Of Precious Thoughts
 9. Granular Blankets
+
+
 ## Spotify
 {{< spotify type="album" id="6h0wIWFJY2SyjL10ojsajL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="18-UfWJDQWI" title="Tangerine Dream - Sensing Elements" >}}
@@ -39,7 +44,7 @@ styles: ["Ambient", "Berlin-School"]
 | Release Year   | 2017 |
 | Discogs Link   | [Tangerine Dream - Quantum Gate](https://www.discogs.com/release/10932564-Tangerine-Dream-Quantum-Gate) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, 180 |
+| Format         | Vinyl 2× LP Album (180g) |
 | Catalog Number | KSCOPE967 |
 
 Double LP edition on 180g heavyweight vinyl in gatefold packaging.

@@ -2,7 +2,7 @@
 title: "Manic Street Preachers - Know Your Enemy"
 artist: "Manic Street Preachers"
 album_name: "Know Your Enemy"
-date: 2022-09-10
+date: 2022-09-10T09:46:24.000000Z
 release_id: "24453626"
 slug: "know-your-enemy-24453626"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Door To The River
 2. The Year Of Purification
@@ -39,6 +40,9 @@ styles: ["Alternative Rock"]
 23. Wattsville Blues
 24. Miss Europa Disco Dancer
 
+
+
+
 ## Videos
 {{< youtube id="x3i1E9N8zww" title="Manic Street Preachers - So Why So Sad" >}}
 - [My Guernica](https://www.youtube.com/watch?v=wqyOYXQY748)
@@ -52,8 +56,19 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Manic Street Preachers - Know Your Enemy](https://www.discogs.com/release/24453626-Manic-Street-Preachers-Know-Your-Enemy) |
-| Label          | Columbia, Sony Music |
-| Format         | LP, Album + LP, Album + RM, 180 |
+| Label          | Columbia |
+| Format         | Vinyl LP Album, Vinyl LP Album, All Media Remastered (180 g) |
 | Catalog Number | 19439988681 |
 
-A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.  Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail. Top opening picture inner sleeves of thin card. Hype stickered shrink-wrap.  A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.  Tracks on each album are numbered sequentially. All runout characters are etched excepting the pressing numbers between "- -", which are stamped.  Made in the EU.
+A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.
+
+Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail.
+Top opening picture inner sleeves of thin card.
+Hype stickered shrink-wrap.
+
+A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.
+
+Tracks on each album are numbered sequentially.
+All runout characters are etched excepting the pressing numbers between "- -", which are stamped.
+
+Made in the EU.

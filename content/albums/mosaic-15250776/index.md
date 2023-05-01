@@ -2,7 +2,7 @@
 title: "Lesoir - Mosaic"
 artist: "Lesoir"
 album_name: "Mosaic"
-date: 2020-05-26
+date: 2020-05-26T12:57:49.000000Z
 release_id: "15250776"
 slug: "mosaic-15250776"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Mosaic
 2. Is This It?
@@ -23,8 +24,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. It's Never Quiet
 8. MXI
 9. Two Faces
+
+
 ## Spotify
 {{< spotify type="album" id="4UwKTEr9w2Q2GfJGkuSFxE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cZSZcsb1hWI" title="Mosaic" >}}
@@ -41,7 +46,13 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Lesoir - Mosaic](https://www.discogs.com/release/15250776-Lesoir-Mosaic) |
 | Label          | GlassVille Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | GVR192755 |
 
-Packaged in a single jacket with color printed LP sleeve.  Pre-orders via the band came autographed on the back of the jacket by all members.  All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.  Tracks are numbered continuously on the color LP sleeve.
+Packaged in a single jacket with color printed LP sleeve.
+
+Pre-orders via the band came autographed on the back of the jacket by all members.
+
+All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.
+
+Tracks are numbered continuously on the color LP sleeve.

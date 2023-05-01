@@ -2,7 +2,7 @@
 title: "Bob Dylan - Rough And Rowdy Ways"
 artist: "Bob Dylan"
 album_name: "Rough And Rowdy Ways"
-date: 2020-07-17
+date: 2020-07-17T12:55:21.000000Z
 release_id: "15628437"
 slug: "rough-and-rowdy-ways-15628437"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Country Blues", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. I Contain Multitudes (4:36)
 2. False Prophet (6:00)
@@ -24,8 +25,11 @@ styles: ["Country Blues", "Folk Rock"]
 8. Crossing The Rubicon (7:22)
 9. Key West (Philosopher Pirate) (9:34)
 10. Murder Most Foul (16:54)
+
+
 ## Spotify
 {{< spotify type="album" id="1Qht64MPvWTWa0aMsqxegB" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -33,8 +37,24 @@ styles: ["Country Blues", "Folk Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Bob Dylan - Rough And Rowdy Ways](https://www.discogs.com/release/15628437-Bob-Dylan-Rough-And-Rowdy-Ways) |
-| Label          | Columbia, Sony Music, Columbia, Sony Music |
-| Format         | 2xLP, Album, Ltd, Oli |
-| Catalog Number | 19439780991, C-250652 |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Olive ) |
+| Catalog Number | 19439780991 |
 
-Gatefold jacket with printed inner sleeves. Includes a download code card.  Hype sticker (all caps): 'Bob Dylan The new album Limited edition olive vinyl Exclusive Includes digital download 19439780991 S1'  © & ℗ 2020 Columbia Records, a division of Sony Music Entertainment Made in the EU.  Runouts:  'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched. Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'.
+Gatefold jacket with printed inner sleeves.
+Includes a download code card.
+
+Hype sticker (all caps):
+'Bob Dylan
+The new album
+Limited edition olive vinyl
+Exclusive
+Includes digital download
+19439780991 S1'
+
+© & ℗ 2020 Columbia Records, a division of Sony Music Entertainment
+Made in the EU.
+
+Runouts:
+ 'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched.
+Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'.

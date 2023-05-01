@@ -2,7 +2,7 @@
 title: "Working Men's Club - Fear Fear"
 artist: "Working Men's Club"
 album_name: "Fear Fear"
-date: 2022-08-01
+date: 2022-08-01T06:03:43.000000Z
 release_id: "23891849"
 slug: "fear-fear-23891849"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Acid House", "New Wave", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. 19 (5:48)
 2. Fear Fear (4:26)
@@ -24,8 +25,9 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 8. Heart Attack (4:51)
 9. Money Is Mine (4:06)
 10. The Last One (7:55)
-## Spotify
-{{< spotify type="album" id="5qKXYz1XhJhJV3BHJR3eq5" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="A5quA4GrzQ0" title="Working Men's Club - Widow (Official Video)" >}}
@@ -44,7 +46,12 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 | Release Year   | 2022 |
 | Discogs Link   | [Working Men's Club - Fear Fear](https://www.discogs.com/release/23891849-Working-Mens-Club-Fear-Fear) |
 | Label          | Heavenly |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition (White) |
 | Catalog Number | HVNLP203C |
 
-Indie Only pressing  Comes with poster and obi   Stickered plastic outer sleeve  Copies with a band signed lyric sheet were available from recordstore.co.uk 
+Indie Only pressing 
+Comes with poster and obi 
+
+Stickered plastic outer sleeve
+
+Copies with a band signed lyric sheet were available from recordstore.co.uk 

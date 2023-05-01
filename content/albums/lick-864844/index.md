@@ -2,7 +2,7 @@
 title: "The Lemonheads - Lick"
 artist: "The Lemonheads"
 album_name: "Lick"
-date: 2020-08-02
+date: 2020-08-02T13:47:51.000000Z
 release_id: "864844"
 slug: "lick-864844"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Mallo Cup
 2. Glad I Don't Know
@@ -25,8 +26,12 @@ styles: ["Punk", "Indie Rock"]
 9. I Am A Rabbit
 10. Sad Girl
 11. Ever
+
+
 ## Spotify
 {{< spotify type="album" id="0YynOffgq2WqjglN3JsE45" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Oyr-I8wU9kA" title="The Lemonheads   Lick Full Album" >}}
@@ -49,7 +54,17 @@ styles: ["Punk", "Indie Rock"]
 | Release Year   | 1989 |
 | Discogs Link   | [The Lemonheads - Lick](https://www.discogs.com/release/864844-Lemonheads-Lick) |
 | Label          | World Service |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | SERV 007 |
 
-© 1988 Ray Burr Music, Inc. Issued under license ℗ 1989 World Service.  Sad Girl (1/87) Ever (8/86)   Made in England   Distribution: UK - Rough Trade/Cartel                   BENELUX - Rough Trade B.V.                    W. Germany - Rough Trade G.M.B.H. 
+© 1988 Ray Burr Music, Inc.
+Issued under license ℗ 1989 World Service.
+
+Sad Girl (1/87)
+Ever (8/86) 
+
+Made in England 
+
+Distribution: UK - Rough Trade/Cartel
+                  BENELUX - Rough Trade B.V. 
+                  W. Germany - Rough Trade G.M.B.H. 

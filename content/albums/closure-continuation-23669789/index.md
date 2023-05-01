@@ -2,7 +2,7 @@
 title: "Porcupine Tree - Closure / Continuation"
 artist: "Porcupine Tree"
 album_name: "Closure / Continuation"
-date: 2022-06-24
+date: 2022-06-24T02:44:48.000000Z
 release_id: "23669789"
 slug: "closure-continuation-23669789"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Harridan (8:09)
 2. Of The New Day (4:43)
@@ -23,8 +24,12 @@ styles: ["Prog Rock"]
 7. Walk The Plank (4:26)
 8. Population Three (6:51)
 9. Chimera's Wreck (9:40)
+
+
 ## Spotify
 {{< spotify type="album" id="7meXKEI99ccqzh9AtmeeAR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="AW5v4Ohxk5k" title="Porcupine Tree - Harridan (Official Lyric Video)" >}}
@@ -43,8 +48,18 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Porcupine Tree - Closure / Continuation](https://www.discogs.com/release/23669789-Porcupine-Tree-Closure-Continuation) |
-| Label          | Music For Nations, Sony Music |
-| Format         | 3x12\", Album, Cle + Box, Dlx |
+| Label          | Music For Nations |
+| Format         | Vinyl 3× 12" 45 RPM Album (Clear), Box Set Deluxe Edition |
 | Catalog Number | 19439956921 |
 
-The three 180 gram clear 12-inch vinyl records are each housed in separate sleeves, with the whole package contained in a box. The hype sticker reads: "Porcupine Tree Closure / Continuation. Deluxe Edition 3LP Clear Vinyl. Cat #. 19439956921".  This nine song vinyl deluxe edition includes two extra tracks (D1 & E2), compared to the standard seven track CD and double vinyl editions of '[m=2683640]'.  An unknown but very small number of pre-orders from the official PT store came with an exclusive artprint signed by Steven Wilson, Richard Barbieri and Gavin Harrison.  ℗ & © 2022 Sony Music Entertainment UK Ltd under exclusive licence from Porcupine 3 Ltd. Distributed by Sony Music Entertainment. Closure / Continuation Produced & performed by Porcupine Tree. Made in EU. BIEM / GEMA (LC) 13989.  Runouts are etched
+The three 180 gram clear 12-inch vinyl records are each housed in separate sleeves, with the whole package contained in a box. The hype sticker reads: "Porcupine Tree Closure / Continuation. Deluxe Edition 3LP Clear Vinyl. Cat #. 19439956921".
+
+This nine song vinyl deluxe edition includes two extra tracks (D1 & E2), compared to the standard seven track CD and double vinyl editions of '[m=2683640]'.
+
+An unknown but very small number of pre-orders from the official PT store came with an exclusive artprint signed by Steven Wilson, Richard Barbieri and Gavin Harrison.
+
+℗ & © 2022 Sony Music Entertainment UK Ltd under exclusive licence from Porcupine 3 Ltd. Distributed by Sony Music Entertainment.
+Closure / Continuation Produced & performed by Porcupine Tree.
+Made in EU. BIEM / GEMA (LC) 13989.
+
+Runouts are etched

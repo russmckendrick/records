@@ -2,7 +2,7 @@
 title: "Ocean Colour Scene - Yesterday Today 1992-1997"
 artist: "Ocean Colour Scene"
 album_name: "Yesterday Today 1992-1997"
-date: 2023-03-01
+date: 2023-03-01T00:24:56.000000Z
 release_id: "26197274"
 slug: "yesterday-today-1992-1997-26197274"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Ocean Colour Scene
 2. Talk On (04:04)
@@ -56,13 +57,16 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 40. It's A Beautiful Thing (06:30)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Ocean Colour Scene - Yesterday Today 1992-1997](https://www.discogs.com/release/26197274-Ocean-Colour-Scene-Yesterday-Today-1992-1997) |
 | Label          | Demon Records |
-| Format         | LP, Comp, RE, Blu + 2xLP, Album, RE, Ora + 2xLP, A |
+| Format         | Vinyl LP Compilation Reissue (Blue), Vinyl 2× LP Album Reissue (Orange), Vinyl 2× LP Album Reissue (Red), Box Set Limited Edition |
 | Catalog Number | DEMRECBOX75 |
 
- 
+
+

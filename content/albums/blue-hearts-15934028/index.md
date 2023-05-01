@@ -2,7 +2,7 @@
 title: "Bob Mould - Blue Hearts"
 artist: "Bob Mould"
 album_name: "Blue Hearts"
-date: 2020-09-29
+date: 2020-09-29T12:05:27.000000Z
 release_id: "15934028"
 slug: "blue-hearts-15934028"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Heart On My Sleeve (1:58)
 2. Next Generation (2:20)
@@ -28,8 +29,12 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 12. Leather Dreams (2:53)
 13. Password to My Soul (2:54)
 14. The Ocean (3:56)
+
+
 ## Spotify
 {{< spotify type="album" id="1OcbPvViMa2vNKSGgdcQRD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zD7TxGTPsV4" title="Bob Mould - American Crisis (Official Video)" >}}
@@ -45,7 +50,7 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Bob Mould - Blue Hearts](https://www.discogs.com/release/15934028-Bob-Mould-Blue-Hearts) |
 | Label          | Merge Records |
-| Format         | LP, Album, Ltd, Blu |
+| Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
 | Catalog Number | MRG730 |
 
 Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.

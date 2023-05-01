@@ -2,7 +2,7 @@
 title: "Thom Yorke - Anima"
 artist: "Thom Yorke"
 album_name: "Anima"
-date: 2019-07-20
+date: 2019-07-20T10:15:42.000000Z
 release_id: "13888965"
 slug: "anima-13888965"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "IDM"]
 ---
+
 ## Tracklisting
 1. Traffic
 2. Last I Heard (...He Was Circling The Drain)
@@ -24,8 +25,12 @@ styles: ["Ambient", "Experimental", "IDM"]
 8. Impossible Knots
 9. Runwayaway
 10. (Ladies & Gentlemen, Thank You For Coming)
+
+
 ## Spotify
 {{< spotify type="album" id="5DDPFOJVHhc93OlqirbAtm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="I03xFqbxUp8" title="Thom Yorke - Last I Heard (…He Was Circling The Drain)" >}}
@@ -45,7 +50,9 @@ styles: ["Ambient", "Experimental", "IDM"]
 | Release Year   | 2019 |
 | Discogs Link   | [Thom Yorke - Anima](https://www.discogs.com/release/13888965-Thom-Yorke-Anima) |
 | Label          | XL Recordings |
-| Format         | 2x12\", Album, Ltd, Ora |
+| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Orange) |
 | Catalog Number | XL987LPE |
 
-Includes download code for tracks A1 to D2.  Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion. 
+Includes download code for tracks A1 to D2.
+
+Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion. 

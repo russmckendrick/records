@@ -2,7 +2,7 @@
 title: "Victoria Williams - Swing The Statue!"
 artist: "Victoria Williams"
 album_name: "Swing The Statue!"
-date: 2019-01-19
+date: 2019-01-19T10:34:14.000000Z
 release_id: "2079943"
 slug: "swing-the-statue-2079943"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Why Look At The Moon (2:30)
 2. Boogieman (3:50)
@@ -27,6 +28,9 @@ styles: ["Folk Rock", "Country Rock"]
 11. Weeds (3:36)
 12. Lift Him Up (3:17)
 
+
+
+
 ## Videos
 {{< youtube id="YFC00BJ8mLQ" title="Victoria Williams - Tarbelly & Featherfoot" >}}
 - [Victoria Williams - Why look at the moon](https://www.youtube.com/watch?v=sTWWReyTcl4)
@@ -39,7 +43,7 @@ styles: ["Folk Rock", "Country Rock"]
 | Release Year   | 1990 |
 | Discogs Link   | [Victoria Williams - Swing The Statue!](https://www.discogs.com/release/2079943-Victoria-Williams-Swing-The-Statue) |
 | Label          | Rough Trade |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | Rough US 50 |
 
 Issued with illustrated inner sleeve that includes credits and release information.

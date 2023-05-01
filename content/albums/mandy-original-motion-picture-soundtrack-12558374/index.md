@@ -2,7 +2,7 @@
 title: "Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)"
 artist: "Jóhann Jóhannsson"
 album_name: "Mandy (Original Motion Picture Soundtrack)"
-date: 2018-09-22
+date: 2018-09-22T10:00:40.000000Z
 release_id: "12558374"
 slug: "mandy-original-motion-picture-soundtrack-12558374"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ---
+
 ## Tracklisting
 1. Seeker Of The Serpent's Eye  (2:11)
 2. Starling (2:15)
@@ -29,8 +30,12 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 13. Burning Church (1:37)
 14. Memories (2:34)
 15. Children Of The New Dawn (5:31)
+
+
 ## Spotify
 {{< spotify type="album" id="60f6ypxsKLEemkp4216Ood" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PKZEBhRX-TU" title="Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track" >}}
@@ -57,8 +62,13 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374-J%C3%B3hann-J%C3%B3hannsson-Mandy-Original-Motion-Picture-Soundtrack) |
-| Label          | Lakeshore Records, Invada |
-| Format         | LP, Album, Red |
+| Label          | Lakeshore Records |
+| Format         | Vinyl LP Album (Red Translucent) |
 | Catalog Number | LKSINV203LP |
 
-Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC.
+Translucent red, 140g vinyl. 
+Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.
+
+Repressed in October 2018.
+
+© 2018  Lakeshore Records LLC.

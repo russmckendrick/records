@@ -2,7 +2,7 @@
 title: "The Gaslight Anthem - The '59 Sound"
 artist: "The Gaslight Anthem"
 album_name: "The '59 Sound"
-date: 2015-08-09
+date: 2015-08-09T08:40:16.000000Z
 release_id: "7246420"
 slug: "the-59-sound-7246420"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. Great Expectations
 2. The '59 Sound
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Punk"]
 10. Meet Me By The River's Edge
 11. Here's Looking At You Kid
 12. The Backseat
+
+
 ## Spotify
 {{< spotify type="album" id="3iC6u4b7pxcrreH1w5C5HD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="L7XJcQVXtuY" title="The Gaslight Anthem - The '59 Sound (2008) [Full Album]" >}}
@@ -50,8 +55,15 @@ styles: ["Alternative Rock", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [The Gaslight Anthem - The '59 Sound](https://www.discogs.com/release/7246420-The-Gaslight-Anthem-The-59-Sound) |
-| Label          | SideOneDummy Records, SideOneDummy Records |
-| Format         | LP, Ltd, RE, Blu |
-| Catalog Number | SD1358-1, SD1358-2 |
+| Label          | SideOneDummy Records |
+| Format         | Vinyl LP Limited Edition Reissue Stereo (Blue Translucent) |
+| Catalog Number | SD1358-1 |
 
-© & ℗ SideOneDummy Records. Made in USA. Catalog # SD1358-1 appears on spine, Catalog # SD-1358-2 appears on front cover  Gatefold Sleeve / Tracks listed sequentially as they do appear on the backside of the record's jacket  Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".  In memory of Zach Finch, John Soyack an Travis Connor.
+© & ℗ SideOneDummy Records. Made in USA.
+Catalog # SD1358-1 appears on spine, Catalog # SD-1358-2 appears on front cover
+
+Gatefold Sleeve / Tracks listed sequentially as they do appear on the backside of the record's jacket
+
+Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".
+
+In memory of Zach Finch, John Soyack an Travis Connor.

@@ -2,7 +2,7 @@
 title: "Handsome Boy Modeling School - So... How's Your Girl?"
 artist: "Handsome Boy Modeling School"
 album_name: "So... How's Your Girl?"
-date: 2022-04-24
+date: 2022-04-24T04:24:32.000000Z
 release_id: "22981736"
 slug: "so-how-s-your-girl-22981736"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ---
+
 ## Tracklisting
 1. Rock N' Roll (Could Never Hip Hop Like This) (4:21)
 2. Magnetizing (6:10)
@@ -30,8 +31,12 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 14. The Runway Song (4:48)
 15. Megaton B-Boy 2000 (4:57)
 16. Father Speaks (1:27)
+
+
 ## Spotify
 {{< spotify type="album" id="11xrdpHkh2KUuxPGEfQZKG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1w_HupwkGbE" title="Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]" >}}
@@ -57,7 +62,11 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 | Release Year   | 2022 |
 | Discogs Link   | [Handsome Boy Modeling School - So... How's Your Girl?](https://www.discogs.com/release/22981736-Handsome-Boy-Modeling-School-So-Hows-Your-Girl) |
 | Label          | Tommy Boy |
-| Format         | 2xLP, Album, RSD, RE |
+| Format         | Vinyl 2× LP Album Record Store Day Reissue |
 | Catalog Number | TB-1258-1 |
 
-Record Store Day "RSD First" release, part of the April 23rd drop.  Tracks numbered sequentially on release.  Made In Canada
+Record Store Day "RSD First" release, part of the April 23rd drop.
+
+Tracks numbered sequentially on release.
+
+Made In Canada

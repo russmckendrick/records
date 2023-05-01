@@ -2,7 +2,7 @@
 title: "How To Destroy Angels - Welcome Oblivion"
 artist: "How To Destroy Angels"
 album_name: "Welcome Oblivion"
-date: 2017-04-14
+date: 2017-04-14T09:26:29.000000Z
 release_id: "4361414"
 slug: "welcome-oblivion-4361414"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Electro"]
 ---
+
 ## Tracklisting
 1. The Wake-Up (1:43)
 2. Keep It Together  (4:27)
@@ -44,8 +45,12 @@ styles: ["Industrial", "Electro"]
 28. We Fade Away (6:41)
 29. The Loop Closes  (4:50)
 30. Hallowed Ground (7:17)
+
+
 ## Spotify
 {{< spotify type="album" id="7GbRsK5uQvjenixMQzz0mA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="jQM-laUav_g" title="How to Destroy Angels - Welcome Oblivion (Full Album)" >}}
@@ -63,7 +68,11 @@ styles: ["Industrial", "Electro"]
 | Release Year   | 2013 |
 | Discogs Link   | [How To Destroy Angels - Welcome Oblivion](https://www.discogs.com/release/4361414-How-To-Destroy-Angels-Welcome-Oblivion) |
 | Label          | Columbia |
-| Format         | 2xLP, Album + CD, Album |
+| Format         | Vinyl 2× LP Album, CD Album |
 | Catalog Number | 88765475461 |
 
-Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.  Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)  ℗ 2013 & © 2012, 2013 HDTA, LLC
+Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.
+
+Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)
+
+℗ 2013 & © 2012, 2013 HDTA, LLC

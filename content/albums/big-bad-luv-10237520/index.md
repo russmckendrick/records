@@ -2,7 +2,7 @@
 title: "John Moreland - Big Bad Luv"
 artist: "John Moreland"
 album_name: "Big Bad Luv"
-date: 2017-05-16
+date: 2017-05-16T18:14:51.000000Z
 release_id: "10237520"
 slug: "big-bad-luv-10237520"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. Sallisaw Blue
 2. Old Wounds
@@ -25,8 +26,12 @@ styles: ["Folk Rock"]
 9. Slow Down Easy
 10. It Don't Suit Me (Like Before)
 11. Latchkey Kid
+
+
 ## Spotify
 {{< spotify type="album" id="4mPaLhuZ8kBeUab4oTAXyE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="bfkXnZ65jS8" title="John Moreland - Sallisaw Blue (Official Audio)" >}}
@@ -47,7 +52,7 @@ styles: ["Folk Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [John Moreland - Big Bad Luv](https://www.discogs.com/release/10237520-John-Moreland-Big-Bad-Luv) |
 | Label          | 4AD |
-| Format         | LP, Album, Gat |
+| Format         | Vinyl LP Album (Gatefold) |
 | Catalog Number | 4AD0007LP |
 
 Includes download card.

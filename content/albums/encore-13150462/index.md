@@ -2,7 +2,7 @@
 title: "The Specials - Encore"
 artist: "The Specials"
 album_name: "Encore"
-date: 2019-02-01
+date: 2019-02-01T18:56:27.000000Z
 release_id: "13150462"
 slug: "encore-13150462"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Reggae", "Funk / Soul"]
 styles: ["Ska", "New Wave"]
 ---
+
 ## Tracklisting
 1. Black Skin Blue Eyed Boys
 2. B.L.M.
@@ -24,8 +25,12 @@ styles: ["Ska", "New Wave"]
 8. Embarrassed By You
 9. The Life And Times (Of A Man Called Depression)
 10. We Sell Hope
+
+
 ## Spotify
 {{< spotify type="album" id="2K7Z8kR4tsXDIkS0jWLkwZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3y0-Z3w3xq0" title="Stereotype (Live At Le Bataclan)" >}}
@@ -54,8 +59,11 @@ styles: ["Ska", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [The Specials - Encore](https://www.discogs.com/release/13150462-The-Specials-Encore) |
-| Label          | Island Records, UMC |
-| Format         | LP, Album |
-| Catalog Number | 7721103, 00602577211034 |
+| Label          | Island Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | 7721103 |
 
-Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover
+Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits.
+Made in the E.U
+
+Embossed front cover

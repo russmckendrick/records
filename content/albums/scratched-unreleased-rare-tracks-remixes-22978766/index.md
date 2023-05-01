@@ -2,7 +2,7 @@
 title: "Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)"
 artist: "Jesus Jones"
 album_name: "Scratched (Unreleased Rare Tracks & Remixes)"
-date: 2022-04-24
+date: 2022-04-24T04:22:06.000000Z
 release_id: "22978766"
 slug: "scratched-unreleased-rare-tracks-remixes-22978766"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Bring It On Down (Liquidized Mix) (10:39)
 2. Cut & Dried (3:44)
@@ -32,8 +33,12 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 16. Right Here Right Now (Instrumental)
 17. Right Here Right Now (CJM Mix)
 18. Zeroes And Ones (The Prodigy Versus Jesus Jones Mix)
+
+
 ## Spotify
 {{< spotify type="album" id="5nEsrcazvAhWAjijlzvKKU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xBrqzeyZtgc" title="Jesus Jones - Starting From Scratch" >}}
@@ -62,8 +67,14 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)](https://www.discogs.com/release/22978766-Jesus-Jones-Scratched-Unreleased-Rare-Tracks-Remixes) |
-| Label          | Demon Records, RT Industries |
-| Format         | 2xLP, RSD, Comp, Ltd, RE, Blu |
+| Label          | Demon Records |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Blue & Yellow Marbled) |
 | Catalog Number | DEMREC985 |
 
-180g   Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.  Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)".   ℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings. 
+180g 
+
+Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.
+
+Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)". 
+
+℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings. 

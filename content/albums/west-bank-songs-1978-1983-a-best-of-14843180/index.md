@@ -2,7 +2,7 @@
 title: "The Undertones - West Bank Songs 1978-1983 (A Best Of)"
 artist: "The Undertones"
 album_name: "West Bank Songs 1978-1983 (A Best Of)"
-date: 2020-05-09
+date: 2020-05-09T09:27:33.000000Z
 release_id: "14843180"
 slug: "west-bank-songs-1978-1983-a-best-of-14843180"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Power Pop"]
 ---
+
 ## Tracklisting
 1. You've Got My Number (Why Don't You Use It!) (2:37)
 2. Male Model (1:53)
@@ -45,6 +46,9 @@ styles: ["Punk", "Power Pop"]
 29. It's Going To Happen (3:32)
 30. Bittersweet (5:08)
 
+
+
+
 ## Videos
 {{< youtube id="u-mnSIbGTk0" title="Teenage Kicks" >}}
 
@@ -53,8 +57,10 @@ styles: ["Punk", "Power Pop"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Undertones - West Bank Songs 1978-1983 (A Best Of)](https://www.discogs.com/release/14843180-The-Undertones-West-Bank-Songs-1978-1983-A-Best-Of) |
-| Label          | BMG, Salvo, Ardeck |
-| Format         | LP, Pur + LP, Whi + Comp, Ltd |
+| Label          | BMG |
+| Format         | Vinyl LP (Purple Transparent), Vinyl LP (White), All Media Compilation Limited Edition |
 | Catalog Number | SALVO426DLP |
 
-Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.  50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website.
+Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.
+
+50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website.

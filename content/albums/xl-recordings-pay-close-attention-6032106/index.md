@@ -2,7 +2,7 @@
 title: "Various - XL Recordings: Pay Close Attention"
 artist: "Various"
 album_name: "XL Recordings: Pay Close Attention"
-date: 2017-04-09
+date: 2017-04-09T14:18:59.000000Z
 release_id: "6032106"
 slug: "xl-recordings-pay-close-attention-6032106"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Blues", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Hardcore", "Breakbeat", "Vocal", "Ballad", "Soul", "Drum n Bass"]
 ---
+
 ## Tracklisting
 1. DJs Take Control
 2. Out Of Space
@@ -58,8 +59,12 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 42. I'm New Here
 43. Yonkers
 44. Someone Like You
+
+
 ## Spotify
 {{< spotify type="album" id="3D9vUf511saEHLua6NcOLw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZRH7O726jwc" title="Jonny L - Piper" >}}
@@ -70,7 +75,16 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 | Release Year   | 2014 |
 | Discogs Link   | [Various - XL Recordings: Pay Close Attention](https://www.discogs.com/release/6032106-Various-XL-Recordings-Pay-Close-Attention) |
 | Label          | XL Recordings |
-| Format         | 4xLP + DVD-V + Box, Comp |
+| Format         | Vinyl 4× LP, DVD DVD-Video, Box Set Compilation |
 | Catalog Number | XLLP637 |
 
-"XL Recordings is a collaborative endeavour, and many people have contributed to its evolution. In the song “Out Of Space”, Liam Howlett of The Prodigy provided a blueprint when he sampled Kool Keith of Ultramagnetic MC’s rapping these words: “Pay Close Attention”. And whilst XL has never had any outside ownership, Gil Scott-Heron advisedme not to even consider XL “independent”; because everything is connected. This compilation is an attempt to illustrate some of these connections. Part 1 is the roots of XL; underground music, made for DJ’s. These roots are still growing. Part 2 features some of the singular talents who have taken the label further than we ever envisioned. There is no unifying genre, and I’ll happily confess to aesthetic opportunism; hopefully the thread of originality is evident though. We’ve never compromised. The rave music XL first became known for was known as “hardcore”; that spirit continues. To show our appreciation for your support: thank you DJ’s. And thank you also to the retailers, writers and of course, ravers." -- Richard Russell, London, 2014
+"XL Recordings is a collaborative endeavour, and many people have contributed to its evolution.
+In the song “Out Of Space”, Liam Howlett of The Prodigy provided a blueprint when he sampled Kool Keith of Ultramagnetic MC’s rapping these words: “Pay Close Attention”.
+And whilst XL has never had any outside ownership, Gil Scott-Heron advisedme not to even consider XL “independent”; because everything is connected.
+This compilation is an attempt to illustrate some of these connections.
+Part 1 is the roots of XL; underground music, made for DJ’s. These roots are still growing.
+Part 2 features some of the singular talents who have taken the label further than we ever envisioned. There is no unifying genre, and I’ll happily confess to aesthetic opportunism; hopefully the thread of originality is evident though.
+We’ve never compromised. The rave music XL first became known for was known as “hardcore”; that spirit continues.
+To show our appreciation for your support: thank you DJ’s.
+And thank you also to the retailers, writers and of course, ravers."
+-- Richard Russell, London, 2014

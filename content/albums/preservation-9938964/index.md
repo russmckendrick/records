@@ -2,7 +2,7 @@
 title: "Nadia Reid - Preservation"
 artist: "Nadia Reid"
 album_name: "Preservation"
-date: 2017-03-11
+date: 2017-03-11T12:34:17.000000Z
 release_id: "9938964"
 slug: "preservation-9938964"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Preservation by Nadia Reid"
     caption: "Preservation by Nadia Reid"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Preservation
 2. The Arrow And The Aim
@@ -24,8 +25,12 @@ styles: null
 8. Te Aro
 9. The Way It Goes
 10. Ain't Got You
+
+
 ## Spotify
 {{< spotify type="album" id="634mCPTormgVNYXsBbYLKN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Yay24OXOW3k" title="Nadia Reid - Preservation (Official Video)" >}}
@@ -38,7 +43,11 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Nadia Reid - Preservation](https://www.discogs.com/release/9938964-Nadia-Reid-Preservation) |
 | Label          | Basin Rock |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | BR002 |
 
-Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand.   Made in the EU.   2-piece flip-back cover
+Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand. 
+
+Made in the EU. 
+
+2-piece flip-back cover

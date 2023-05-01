@@ -2,7 +2,7 @@
 title: "Iron And Wine - Around The Well"
 artist: "Iron And Wine"
 album_name: "Around The Well"
-date: 2021-08-13
+date: 2021-08-13T05:36:11.000000Z
 release_id: "1786285"
 slug: "around-the-well-1786285"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock", "Folk"]
 ---
+
 ## Tracklisting
 1. Dearest Forsaken
 2. Morning
@@ -37,8 +38,12 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 21. Kingdom Of The Animals
 22. Arms Of A Thief
 23. The Trapeze Swinger
+
+
 ## Spotify
 {{< spotify type="album" id="5tOzXq44rU4yCCVY94f6m7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="EL-mDlRKNKg" title="Iron and Wine - Love Vigilantes (a New Order cover)" >}}
@@ -56,7 +61,14 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 | Release Year   | 2009 |
 | Discogs Link   | [Iron And Wine - Around The Well](https://www.discogs.com/release/1786285-Iron-And-Wine-Around-The-Well) |
 | Label          | Sub Pop |
-| Format         | 2xLP, Comp + 12\", S/Sided, Etch |
+| Format         | Vinyl 2× LP Compilation, Vinyl 12" 33 ⅓ RPM Single Sided Etched |
 | Catalog Number | SP 808 |
 
-Includes an MP3 download coupon for the entire album + insert with lyrics. 'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.  All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]  F-side is an etched album/artist artwork.  © ℗ 2009 Sub Pop Records
+Includes an MP3 download coupon for the entire album + insert with lyrics.
+'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.
+
+All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]
+
+F-side is an etched album/artist artwork.
+
+© ℗ 2009 Sub Pop Records

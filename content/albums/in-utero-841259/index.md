@@ -2,7 +2,7 @@
 title: "Nirvana - In Utero"
 artist: "Nirvana"
 album_name: "In Utero"
-date: 2016-10-15
+date: 2016-10-15T11:15:32.000000Z
 release_id: "841259"
 slug: "in-utero-841259"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge"]
 ---
+
 ## Tracklisting
 1. Serve The Servants (3:34)
 2. Scentless Apprentice (3:47)
@@ -26,13 +27,16 @@ styles: ["Grunge"]
 10. Radio Friendly Unit Shifter (4:49)
 11. Tourette's (1:33)
 12. All Apologies (3:50)
+
+
 ## Spotify
 {{< spotify type="album" id="6ohX7moZZnF1FwYrli1OJ6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fF-LKaTNtNI" title="Выпуск №69. Nirvana ‎– In Utero (2013 Mix)(2 × Vinyl, Album, 12, 45 RPM, Gatefold, 180 Gram)" >}}
 - [Nirvana - Heart-Shaped Box (Official Music Video)](https://www.youtube.com/watch?v=n6P0SitRwy8)
-- [Nirvana - All Apologies](https://www.youtube.com/watch?v=PDilu87kQCk)
 - [Scentless Apprentice](https://www.youtube.com/watch?v=1ppZcWfmKCc)
 - [All Apologies](https://www.youtube.com/watch?v=Ba_08WWIWV8)
 - [Nirvana - Milk It ( In Utero )](https://www.youtube.com/watch?v=xzXB7xPIVgc)
@@ -52,7 +56,31 @@ styles: ["Grunge"]
 | Release Year   | 2003 |
 | Discogs Link   | [Nirvana - In Utero](https://www.discogs.com/release/841259-Nirvana-In-Utero) |
 | Label          | Geffen Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 424 536-1 |
 
-Comes with an insert. Matte cover. Generic die-cut inner sleeve.  Mastered at Gateway Mastering, Portland, Maine.  "Gallons Of Rubbing Alcohol Flow Through The Strip" is not included in the track list - only mentioned in the credits section of the insert.  This Universal UK/Geffen release was cut from a different set of master tapes with a significantly different mix of the album (especially "Heart Shaped Box" and "All Apologies").  It is generally accepted but not confirmed that this is Steve Albini's original, unaltered mix of the album. Supporting that contention, some copies of this UK press included a hype sticker that states "Re-release von Original-Bändern" which translates to "Re-release from original tapes."  The same stampers from this reissue are used in 2015's [r=7545132] reissue.  ℗&© 1993 Geffen Records, Inc. Universal Music (UK) Ltd. are the exclusive licencees for the UK.  All songs published by The End Of The Music/EMI Virgin Music Ltd.  Made in the EU.  From liner notes Suggested Bass and Treble positions: B: 2. T: 5.
+Comes with an insert.
+Matte cover.
+Generic die-cut inner sleeve.
+
+Mastered at Gateway Mastering, Portland, Maine.
+
+"Gallons Of Rubbing Alcohol Flow Through The Strip" is not included in the track list - only mentioned in the credits section of the insert.
+
+This Universal UK/Geffen release was cut from a different set of master tapes with a significantly different mix of the album (especially "Heart Shaped Box" and "All Apologies").
+
+It is generally accepted but not confirmed that this is Steve Albini's original, unaltered mix of the album. Supporting that contention, some copies of this UK press included a hype sticker that states "Re-release von Original-Bändern" which translates to "Re-release from original tapes."
+
+The same stampers from this reissue are used in 2015's [r=7545132] reissue.
+
+℗&© 1993 Geffen Records, Inc.
+Universal Music (UK) Ltd. are the exclusive licencees for the UK.
+
+All songs published by The End Of The Music/EMI Virgin Music Ltd.
+
+Made in the EU.
+
+From liner notes
+Suggested Bass and Treble positions:
+B: 2.
+T: 5.

@@ -2,7 +2,7 @@
 title: "Veruca Salt - American Thighs"
 artist: "Veruca Salt"
 album_name: "American Thighs"
-date: 2020-01-03
+date: 2020-01-03T18:30:41.000000Z
 release_id: "2258972"
 slug: "american-thighs-2258972"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Get Back (3:13)
 2. All Hail Me (3:05)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Victrola (2:18)
 11. Twinstar (3:16)
 12. 25 (7:56)
+
+
 ## Spotify
 {{< spotify type="album" id="5Mjt2iha5C99JBqTjJijg9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0uyWZEkfXrg" title="Get Back" >}}
@@ -49,8 +54,8 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 1994 |
 | Discogs Link   | [Veruca Salt - American Thighs](https://www.discogs.com/release/2258972-Veruca-Salt-American-Thighs) |
-| Label          | Hi-Rise Recordings, Minty Fresh |
-| Format         | LP, Album |
+| Label          | Hi-Rise Recordings |
+| Format         | Vinyl Album LP |
 | Catalog Number | FLATLP 9 |
 
 Made in England.

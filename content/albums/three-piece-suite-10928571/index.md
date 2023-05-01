@@ -2,7 +2,7 @@
 title: "Gentle Giant - Three Piece Suite"
 artist: "Gentle Giant"
 album_name: "Three Piece Suite"
-date: 2017-10-13
+date: 2017-10-13T18:11:01.000000Z
 release_id: "10928571"
 slug: "three-piece-suite-10928571"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Steven Wilson Remixes
 2. Giant
@@ -26,8 +27,12 @@ styles: ["Prog Rock"]
 10. Three Friends	
 11. Freedom's Child	
 12. Nothing At All (Steven Wilson 7" Edit)
+
+
 ## Spotify
 {{< spotify type="album" id="5IY7BFou323iAAWQ0UQEh5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SQPp69MVAaw" title="Gentle Giant - Giant (Official Lyric Video)" >}}
@@ -40,7 +45,9 @@ styles: ["Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Gentle Giant - Three Piece Suite](https://www.discogs.com/release/10928571-Gentle-Giant-Three-Piece-Suite) |
 | Label          | Alucard |
-| Format         | 2xLP, Comp, 180 |
+| Format         | Vinyl 2× LP Compilation (180g) |
 | Catalog Number | ALUGGV058 |
 
-This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954].   Made in EU
+This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954]. 
+
+Made in EU

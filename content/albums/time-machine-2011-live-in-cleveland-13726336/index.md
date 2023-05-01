@@ -2,7 +2,7 @@
 title: "Rush - Time Machine 2011: Live In Cleveland"
 artist: "Rush"
 album_name: "Time Machine 2011: Live In Cleveland"
-date: 2020-06-15
+date: 2020-06-15T15:12:39.000000Z
 release_id: "13726336"
 slug: "time-machine-2011-live-in-cleveland-13726336"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. The Spirit Of Radio
 2. Time Stand Still
@@ -40,8 +41,11 @@ styles: ["Prog Rock", "Hard Rock"]
 24. Far Cry
 25. La Villa Strangiato
 26. Working Man
+
+
 ## Spotify
 {{< spotify type="album" id="1xL8HtoEpndXhfuawAVGDo" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -49,8 +53,13 @@ styles: ["Prog Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Rush - Time Machine 2011: Live In Cleveland](https://www.discogs.com/release/13726336-Rush-Time-Machine-2011-Live-In-Cleveland) |
-| Label          | Anthem, Roadrunner Records |
-| Format         | 4xLP, Album, RE, 180 |
-| Catalog Number | R1 176655, 081227934316 |
+| Label          | Anthem (5) |
+| Format         | Vinyl 4× LP Album Reissue (180g) |
+| Catalog Number | R1 176655 |
 
-Issued Under License To Roadrunner Records From ole Media Management L.P.  Printed in Canada - printed on back cover Manufactured in E.U. - printed on label RIM text  Download card included. Expires December 31, 2021
+Issued Under License To Roadrunner Records From ole Media Management L.P.
+
+Printed in Canada - printed on back cover
+Manufactured in E.U. - printed on label RIM text
+
+Download card included. Expires December 31, 2021

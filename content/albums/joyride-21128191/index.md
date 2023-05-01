@@ -2,7 +2,7 @@
 title: "Roxette - Joyride"
 artist: "Roxette"
 album_name: "Joyride"
-date: 2021-11-26
+date: 2021-11-26T09:14:40.000000Z
 release_id: "21128191"
 slug: "joyride-21128191"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Joyride
 2. Hotblooded
@@ -26,8 +27,12 @@ styles: ["Pop Rock"]
 10. Physical Fascination
 11. Things Will Never Be The Same
 12. Perfect Day
+
+
 ## Spotify
 {{< spotify type="album" id="5SwZnq5e3u7DkkNnSNHp5R" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xCorJG9mubk" title="Roxette - Joyride (Official Video)" >}}
@@ -56,7 +61,10 @@ styles: ["Pop Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Roxette - Joyride](https://www.discogs.com/release/21128191-Roxette-Joyride) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE, Tra |
+| Format         | Vinyl LP Album Reissue Stereo (Transparent Orange Marbled, Gatefold) |
 | Catalog Number | 5054197107177 |
 
-Back cover: Made in Germany  Glossy gatefold cover 
+Back cover: Made in Germany
+
+Glossy gatefold cover
+

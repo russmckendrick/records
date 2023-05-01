@@ -2,7 +2,7 @@
 title: "Nothing - Dance On The Blacktop"
 artist: "Nothing"
 album_name: "Dance On The Blacktop"
-date: 2018-08-31
+date: 2018-08-31T18:40:52.000000Z
 release_id: "12436581"
 slug: "dance-on-the-blacktop-12436581"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Zero Day (3:57)
 2. Blue Line Baby (4:30)
@@ -23,8 +24,9 @@ styles: ["Shoegaze", "Alternative Rock"]
 7. I Hate The Flowers (4:21)
 8. The Carpenter's Son (7:45)
 9. (Hope) Is Just Another Word With A Hole In It (5:48)
-## Spotify
-{{< spotify type="album" id="4LSHNiX2fM8eKv4TyosARZ" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="RJhkZo5OCHE" title="NOTHING - Zero Day (Official Music Video)" >}}
@@ -38,7 +40,20 @@ styles: ["Shoegaze", "Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Nothing - Dance On The Blacktop](https://www.discogs.com/release/12436581-Nothing-Dance-On-The-Blacktop) |
 | Label          | Relapse Records |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition (White Chrysanthemum (White)) |
 | Catalog Number | RR7394 |
 
-UK indie retailer exclusive.  From sticker on plastic cover sleeve: LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.  Comes in a gatefold cover with a lyric/credit sheet and a digital download code.  Recorded at Dreamland Recording, West Hurley, NY. Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY. Mixed at Strange Weather, Greenpoint, Brooklyn, NY. Additional mixing at Water Music Recorders, Hoboken, NJ. Mastered at Sterling Sound, NY.  ℗&© 2018 Relapse Record Inc. Made in EU.
+UK indie retailer exclusive.
+
+From sticker on plastic cover sleeve:
+LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.
+
+Comes in a gatefold cover with a lyric/credit sheet and a digital download code.
+
+Recorded at Dreamland Recording, West Hurley, NY.
+Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY.
+Mixed at Strange Weather, Greenpoint, Brooklyn, NY.
+Additional mixing at Water Music Recorders, Hoboken, NJ.
+Mastered at Sterling Sound, NY.
+
+℗&© 2018 Relapse Record Inc. Made in EU.

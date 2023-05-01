@@ -2,7 +2,7 @@
 title: "2 Many DJ's - As Heard On Radio Soulwax Pt.2"
 artist: "2 Many DJ's"
 album_name: "As Heard On Radio Soulwax Pt.2"
-date: 2022-12-05
+date: 2022-12-05T10:50:15.000000Z
 release_id: "24877952"
 slug: "as-heard-on-radio-soulwax-pt-2-24877952"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["House", "Electro"]
 ---
+
 ## Tracklisting
 1. Peter Gunn (Live) (2:49)
 2. Where's Your Head At (Head-A-Pella)
@@ -60,6 +61,9 @@ styles: ["House", "Electro"]
 44. I Sit On Acid (Soulwax Remix) (2:56)
 45. Start Button (4:27)
 
+
+
+
 ## Videos
 {{< youtube id="4Xe23QBP1bE" title="2 Many DJ's: As Heard On Radio Soulwax (Part 2)" >}}
 - [As Heard on Radio Soulwax Pt. 2](https://www.youtube.com/watch?v=5QRaerLc0BM)
@@ -70,7 +74,13 @@ styles: ["House", "Electro"]
 | Release Year   | 2022 |
 | Discogs Link   | [2 Many DJ's - As Heard On Radio Soulwax Pt.2](https://www.discogs.com/release/24877952-2manydjs-As-Heard-On-Radio-Soulwax-Pt2) |
 | Label          | Play It Again Sam |
-| Format         | 2xLP, Mixed, RE, RP, Gat |
+| Format         | Vinyl 2× LP Mixed Reissue Repress (Gatefold) |
 | Catalog Number | PIASR565DLPR |
 
-­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam. Made in the EU.  Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"  First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition. 
+­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam.
+Made in the EU.
+
+Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"
+
+First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition.
+

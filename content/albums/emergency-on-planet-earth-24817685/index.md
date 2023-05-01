@@ -2,7 +2,7 @@
 title: "Jamiroquai - Emergency On Planet Earth"
 artist: "Jamiroquai"
 album_name: "Emergency On Planet Earth"
-date: 2022-10-14
+date: 2022-10-14T05:16:00.000000Z
 release_id: "24817685"
 slug: "emergency-on-planet-earth-24817685"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Acid Jazz"]
 ---
+
 ## Tracklisting
 1. When You Gonna Learn (3:47)
 2. Too Young To Die (6:04)
@@ -24,8 +25,12 @@ styles: ["Acid Jazz"]
 8. Blow Your Mind (8:32)
 9. Revolution 1993 (10:16)
 10. Didgin' Out (2:36)
+
+
 ## Spotify
 {{< spotify type="album" id="0SeTonJJPjy57LqiCDmeEM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eo7iwlMFPrM" title="Jamiroquai - When You Gonna Learn? (Official Music Video)" >}}
@@ -44,8 +49,12 @@ styles: ["Acid Jazz"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Jamiroquai - Emergency On Planet Earth](https://www.discogs.com/release/24817685-Jamiroquai-Emergency-On-Planet-Earth) |
-| Label          | Sony Music, Legacy |
-| Format         | 2xLP, Album, RE, S/Edition, Cle |
+| Label          | Sony Music |
+| Format         | Vinyl 2× LP Album Reissue Special Edition (Clear, 180g) |
 | Catalog Number | 19658702311 |
 
-Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.  Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:06 is printed on the centre label on the record.  Made in the EU.
+Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.
+
+Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:06 is printed on the centre label on the record.
+
+Made in the EU.

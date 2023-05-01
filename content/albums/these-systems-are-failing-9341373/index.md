@@ -2,7 +2,7 @@
 title: "Moby & The Void Pacific Choir - These Systems Are Failing"
 artist: "Moby & The Void Pacific Choir"
 album_name: "These Systems Are Failing"
-date: 2017-02-10
+date: 2017-02-10T20:04:35.000000Z
 release_id: "9341373"
 slug: "these-systems-are-failing-9341373"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Post-Punk", "Punk"]
 ---
+
 ## Tracklisting
 1. Hey! Hey! (4:23)
 2. Break.Doubt (4:12)
@@ -23,8 +24,9 @@ styles: ["New Wave", "Post-Punk", "Punk"]
 7. A Simple Love (4:39)
 8. The Light Is Clear In My Eyes (3:27)
 9. And It Hurts (1:53)
-## Spotify
-{{< spotify type="album" id="3CpMN2kOofGMhnAZJ6umpG" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="_-hVE_9W0bw" title="Moby & The Void Pacific Choir - And It Hurts" >}}
@@ -44,7 +46,13 @@ styles: ["New Wave", "Post-Punk", "Punk"]
 | Release Year   | 2016 |
 | Discogs Link   | [Moby & The Void Pacific Choir - These Systems Are Failing](https://www.discogs.com/release/9341373-Moby-The-Void-Pacific-Choir-These-Systems-Are-Failing) |
 | Label          | Little Idiot |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | IDIOT049LP |
 
-Printed inner sleeve and lenticular cover.  Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".  ℗ 2016 little idiot © 2016 little idiot 
+Printed inner sleeve and lenticular cover.
+
+Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".
+
+℗ 2016 little idiot
+© 2016 little idiot
+

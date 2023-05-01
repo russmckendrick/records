@@ -2,7 +2,7 @@
 title: "Portishead - Roseland NYC Live"
 artist: "Portishead"
 album_name: "Roseland NYC Live"
-date: 2016-01-31
+date: 2016-01-31T14:13:01.000000Z
 release_id: "3586054"
 slug: "roseland-nyc-live-3586054"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Trip Hop"]
 ---
+
 ## Tracklisting
 1. Humming
 2. Cowboys
@@ -25,8 +26,12 @@ styles: ["Trip Hop"]
 9. Sour Times
 10. Roads
 11. Strangers
+
+
 ## Spotify
 {{< spotify type="album" id="1Td5bSMxDrTIDAvxJQIo5t" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4cIiyfSZfzs" title="Portishead - Only you (Roseland NYC) (HQ)" >}}
@@ -48,7 +53,17 @@ styles: ["Trip Hop"]
 | Release Year   | 0 |
 | Discogs Link   | [Portishead - Roseland NYC Live](https://www.discogs.com/release/3586054-Portishead-Roseland-NYC-Live) |
 | Label          | Go! Beat |
-| Format         | 2xLP, Album, RE, RP |
+| Format         | Vinyl 2× LP Album Reissue Repress |
 | Catalog Number | 559 424-1 |
 
-According to the "320" stamped in the runouts, which reffers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.  Includes foldout poster but unlike the original issue this variation has no printed inner sleeves.  Some of the pressings came with wrongly centered labels on both sides of the first record.  On the B-side the label comes over the last part of the last song.    [On back sleeve]: ℗ 1998 Go Beat © 1998 Go Beat The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)
+According to the "320" stamped in the runouts, which reffers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.
+
+Includes foldout poster but unlike the original issue this variation has no printed inner sleeves.
+
+Some of the pressings came with wrongly centered labels on both sides of the first record. 
+On the B-side the label comes over the last part of the last song.  
+
+[On back sleeve]:
+℗ 1998 Go Beat
+© 1998 Go Beat
+The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)

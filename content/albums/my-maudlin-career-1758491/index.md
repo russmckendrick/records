@@ -2,7 +2,7 @@
 title: "Camera Obscura - My Maudlin Career"
 artist: "Camera Obscura"
 album_name: "My Maudlin Career"
-date: 2023-01-13
+date: 2023-01-13T05:14:36.000000Z
 release_id: "1758491"
 slug: "my-maudlin-career-1758491"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. French Navy (3:10)
 2. The Sweetest Thing (4:15)
@@ -25,8 +26,12 @@ styles: ["Pop Rock", "Indie Rock"]
 9. Forests & Sands (4:09)
 10. Other Towns & Cities (3:51)
 11. Honey In The Sun (5:35)
+
+
 ## Spotify
 {{< spotify type="album" id="7tcYHOoBL2DoocG2T7x8tg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="O3CkfvYMCWM" title="Camera Obscura - French Navy official video" >}}
@@ -45,7 +50,15 @@ styles: ["Pop Rock", "Indie Rock"]
 | Release Year   | 2009 |
 | Discogs Link   | [Camera Obscura - My Maudlin Career](https://www.discogs.com/release/1758491-Camera-Obscura-My-Maudlin-Career) |
 | Label          | 4AD |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CAD 2907 |
 
-Packaging: Gatefold Sleeve  (P) & (C) 2009 Camera Obscura released under exclusive license to 4AD. Recorded in Atlantis Studio, Konst & Ramar studio and Cosmos Studio - Stockholm, Sweden. Mixed in Atlantis Studio - Stockholm, Sweden. All songs published by Universal Music.  We'd like to dedicate this album to the memory of James Simpson Dunbar.  Note: Sides are labelled as Side One and Side Two, presented here as A & B repectively in the track listing.  Track times are not printed on the release itself.  The LP Repress (without Labelcode, with MP3-Download-Card, with other Runouts/Matrices) is to be found here: [r7314256]
+Gatefold Sleeve
+
+(P) & (C) 2009 Camera Obscura released under exclusive license to 4AD.
+Recorded in Atlantis Studio, Konst & Ramar studio and Cosmos Studio - Stockholm, Sweden.
+Mixed in Atlantis Studio - Stockholm, Sweden.
+All songs published by Universal Music.
+
+We'd like to dedicate this album to the memory of James Simpson Dunbar.
+

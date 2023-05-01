@@ -2,7 +2,7 @@
 title: "Crowded House - Woodface"
 artist: "Crowded House"
 album_name: "Woodface"
-date: 2015-08-25
+date: 2015-08-25T16:46:24.000000Z
 release_id: "632637"
 slug: "woodface-632637"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Chocolate Cake (4:02)
 2. It's Only Natural (3:32)
@@ -28,8 +29,12 @@ styles: ["Pop Rock"]
 12. Italian Plastic (3:39)
 13. She Goes On (3:15)
 14. How Will You Go (4:45)
+
+
 ## Spotify
 {{< spotify type="album" id="1QSoW668F9DVj8Rk9azF7h" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="e4Huvbcjo7A" title="Crowded House — Chocolate cake (subtitulada)." >}}
@@ -53,7 +58,5 @@ styles: ["Pop Rock"]
 | Release Year   | 2000 |
 | Discogs Link   | [Crowded House - Woodface](https://www.discogs.com/release/632637-Crowded-House-Woodface) |
 | Label          | Simply Vinyl |
-| Format         | LP, RE, 180 |
+| Format         | Vinyl LP Reissue (180g) |
 | Catalog Number | SVLP 240 |
-
-

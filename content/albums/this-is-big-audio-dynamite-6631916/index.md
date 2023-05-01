@@ -2,7 +2,7 @@
 title: "Big Audio Dynamite - This Is Big Audio Dynamite"
 artist: "Big Audio Dynamite"
 album_name: "This Is Big Audio Dynamite"
-date: 2016-01-20
+date: 2016-01-20T19:29:13.000000Z
 release_id: "6631916"
 slug: "this-is-big-audio-dynamite-6631916"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Electro", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Medicine Show (6:30)
 2. Sony (4:30)
@@ -22,8 +23,12 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 6. Sudden Impact! (5:00)
 7. Stone Thames (4:00)
 8. BAD (6:25)
+
+
 ## Spotify
 {{< spotify type="album" id="7hPrpRim9NirEQiF4nXi7B" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BD2kWCfTcaU" title="Big Audio Dynamite - Medicine Show" >}}
@@ -41,8 +46,13 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 1985 |
 | Discogs Link   | [Big Audio Dynamite - This Is Big Audio Dynamite](https://www.discogs.com/release/6631916-Big-Audio-Dynamite-This-Is-Big-Audio-Dynamite) |
-| Label          | CBS, CBS |
-| Format         | LP, Album, No  |
-| Catalog Number | CBS 26714, 26714 |
+| Label          | CBS |
+| Format         | Vinyl LP Album (No Barcode) |
+| Catalog Number | CBS 26714 |
 
-Made entirely on location in West London  Lyrics printed on inner sleeve, all songs Bad Songs Publishing.  Very similar to [r=180852]; however this release does not have a barcode on the right hand top corner of the rear sleeve. 
+Made entirely on location in West London
+
+Lyrics printed on inner sleeve, all songs Bad Songs Publishing.
+
+Very similar to [r=180852]; however this release does not have a barcode on the right hand top corner of the rear sleeve.
+

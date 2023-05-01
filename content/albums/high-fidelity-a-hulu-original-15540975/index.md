@@ -2,7 +2,7 @@
 title: "Various - High Fidelity (A Hulu Original)"
 artist: "Various"
 album_name: "High Fidelity (A Hulu Original)"
-date: 2020-07-27
+date: 2020-07-27T14:32:03.000000Z
 release_id: "15540975"
 slug: "high-fidelity-a-hulu-original-15540975"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. I Can't Stand The Rain
 2. Didn't I
@@ -25,6 +26,9 @@ styles: ["Soundtrack"]
 9. Gimme Light/New Tattoo
 10. Pains
 11. I Believe (When I Fall In Love It Will Be Forever)
+
+
+
 
 ## Videos
 {{< youtube id="A09GZeORYlo" title="Ann Peebles - I can't stand the Rain 1974" >}}
@@ -45,8 +49,8 @@ styles: ["Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Various - High Fidelity (A Hulu Original)](https://www.discogs.com/release/15540975-Various-High-Fidelity-A-Hulu-Original) |
-| Label          | Hollywood Records, Mondo Tees LLC |
-| Format         | LP, Comp, 180 |
+| Label          | Hollywood Records |
+| Format         | Vinyl LP Compilation Stereo (180g) |
 | Catalog Number | MOND-163 |
 
  180 gram black vinyl

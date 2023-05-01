@@ -2,7 +2,7 @@
 title: "Ian Dury - The Bus Driver's Prayer & Other Stories"
 artist: "Ian Dury"
 album_name: "The Bus Driver's Prayer & Other Stories"
-date: 2016-09-21
+date: 2016-09-21T18:13:01.000000Z
 release_id: "7802272"
 slug: "the-bus-driver-s-prayer-other-stories-7802272"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. That's Enough Of That (4:49)
 2. Bill Haley's Last Words (2:43)
@@ -28,8 +29,12 @@ styles: ["Power Pop", "Pop Rock"]
 12. No Such Thing As Love (3:36)
 13. Two Old Dogs Without A Name (4:43)
 14. The Bus Driver's Prayer (0:58)
+
+
 ## Spotify
 {{< spotify type="album" id="45luz2YNTnks45NmZsNprn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="v7kjbh8xtyo" title="Ian Dury:-'Bus Driver's Prayer'" >}}
@@ -40,7 +45,9 @@ styles: ["Power Pop", "Pop Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Ian Dury - The Bus Driver's Prayer & Other Stories](https://www.discogs.com/release/7802272-Ian-Dury-The-Bus-Drivers-Prayer-Other-Stories) |
 | Label          | Demon Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | DEMREC61 |
 
-Manufactured in the EU  180-Gram Heavyweight Vinyl job
+Manufactured in the EU
+
+180-Gram Heavyweight Vinyl job

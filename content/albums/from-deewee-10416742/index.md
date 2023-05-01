@@ -2,7 +2,7 @@
 title: "Soulwax - From Deewee"
 artist: "Soulwax"
 album_name: "From Deewee"
-date: 2017-06-09
+date: 2017-06-09T16:12:41.000000Z
 release_id: "10416742"
 slug: "from-deewee-10416742"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Disco"]
 ---
+
 ## Tracklisting
 1. Preset Tense
 2. Masterplanned
@@ -26,8 +27,12 @@ styles: ["Electro", "Synth-pop", "Disco"]
 10. The Singer Has Become A Deejay
 11. Here Come The Men In Suits
 12. Goodnight Transmission
+
+
 ## Spotify
 {{< spotify type="album" id="0ixwdleroFAl7fWqYZaSsA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pdcbDkrBVaY" title="Masterplanned" >}}
@@ -45,8 +50,20 @@ styles: ["Electro", "Synth-pop", "Disco"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Soulwax - From Deewee](https://www.discogs.com/release/10416742-Soulwax-From-Deewee) |
-| Label          | [pias], Play It Again Sam, Deewee |
-| Format         | LP, Whi + 12\" + Album, Ltd |
-| Catalog Number | PIASR950DLPX, DEEWEE022 |
+| Label          | [pias] |
+| Format         | Vinyl LP (White), Vinyl 12" 33 ⅓ RPM 45 RPM, All Media Album Limited Edition |
+| Catalog Number | PIASR950DLPX |
 
-This is the Indie Store exclusive release.  The release comes in a glossy gatefold sleeve, brushed matt inner sleeves featuring the tracklist, artwork, and credits, the rear outer sleeve has a barcode sticker applied to the bottom right hand corner. A sticker affixed to the front sleeve shrink wrap reads: "Ltd 180g 2LP White Vinyl / Black Vinyl + Download code"  The download code is printed on a small card featuring album themed artwork. The first record (sides A and B) is pressed on white vinyl, the second record (sides C and D) is pressed on standard black vinyl. Side D is mastered and pressed at 45rpm. The other three sides are all 33 1/3 rpm. All sides play into in a locked groove of repeating sounds.  Insert: (Track A2) Published by Farrell Sanders Music Inc admin by BMG Rights Management/Copyright control. All rights reserved. (All tracks) Recorded, mixed and produced by Soulwax at Deewee - published by Strictly Confidential / Deewee - Mastering by Mike Marsh at The Exchange. Management Marc & Karey at West.
+This is the Indie Store exclusive release.
+
+The release comes in a glossy gatefold sleeve, brushed matt inner sleeves featuring the tracklist, artwork, and credits, the rear outer sleeve has a barcode sticker applied to the bottom right hand corner.
+A sticker affixed to the front sleeve shrink wrap reads:
+"Ltd 180g 2LP White Vinyl / Black Vinyl + Download code"
+
+The download code is printed on a small card featuring album themed artwork.
+The first record (sides A and B) is pressed on white vinyl, the second record (sides C and D) is pressed on standard black vinyl.
+Side D is mastered and pressed at 45rpm. The other three sides are all 33 1/3 rpm. All sides play into in a locked groove of repeating sounds.
+
+Insert:
+(Track A2) Published by Farrell Sanders Music Inc admin by BMG Rights Management/Copyright control. All rights reserved.
+(All tracks) Recorded, mixed and produced by Soulwax at Deewee - published by Strictly Confidential / Deewee - Mastering by Mike Marsh at The Exchange. Management Marc & Karey at West.

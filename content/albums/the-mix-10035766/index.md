@@ -2,7 +2,7 @@
 title: "Kraftwerk - The Mix"
 artist: "Kraftwerk"
 album_name: "The Mix"
-date: 2017-04-23
+date: 2017-04-23T12:08:38.000000Z
 release_id: "10035766"
 slug: "the-mix-10035766"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro"]
 ---
+
 ## Tracklisting
 1. The Robots (8:59)
 2. Computer Love (6:39)
@@ -25,8 +26,12 @@ styles: ["Electro"]
 9. Metal On Metal (4:59)
 10. Home Computer (8:03)
 11. Music Non Stop (6:38)
+
+
 ## Spotify
 {{< spotify type="album" id="6f6u1yQ6fRoeb0bf1BATvU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lnVEj5H0rpU" title="Kraftwerk   The Mix Full Album + Bonus Tracks 1991   English Version SD, 854x480" >}}
@@ -36,8 +41,14 @@ styles: ["Electro"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Kraftwerk - The Mix](https://www.discogs.com/release/10035766-Kraftwerk-The-Mix) |
-| Label          | Kling Klang, Parlophone |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Label          | Kling Klang |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Catalog Number | 50999 9 6605219 |
 
-Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider  Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.  ℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd.  © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company. Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover. 
+Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider
+
+Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.
+
+℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd. 
+© 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company.
+Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover. 

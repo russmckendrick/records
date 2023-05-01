@@ -2,7 +2,7 @@
 title: "Soulwax - Any Minute Now"
 artist: "Soulwax"
 album_name: "Any Minute Now"
-date: 2023-04-23
+date: 2023-04-23T04:36:49.000000Z
 release_id: "26815301"
 slug: "any-minute-now-26815301"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. E Talking
 2. Any Minute Now
@@ -28,8 +29,11 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 12. The Truth Is So Boring
 13. Dance 2 Slow
 
+
 ## Spotify
 {{< spotify type="album" id="5ZQP07MzwSsiKkjSYJLD40" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3dYrgHnZtmU" title="E Talking" >}}
@@ -51,8 +55,15 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Soulwax - Any Minute Now](https://www.discogs.com/release/26815301-Soulwax-Any-Minute-Now) |
-| Label          | [PIAS] Recordings, [PIAS] Recordings |
-| Format         | 2xLP, Album, RE, Cle |
-| Catalog Number | PIASB 060 DLP 941.0060.012 |
+| Label          | [PIAS] Recordings |
+| Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
+| Catalog Number | PIASB 060 DLP |
 
-Sticker: CLEAR VINYL  Produced and engineered for 140dB.  Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control  P & C 2004 Play It Again Sam [PIAS] 
+Sticker: CLEAR VINYL
+
+Produced and engineered for 140dB.
+
+Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control
+
+P & C 2004 Play It Again Sam [PIAS]
+

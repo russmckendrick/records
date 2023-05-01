@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "Orchestral Manoeuvres In The Dark"
-date: 2018-11-03
+date: 2018-11-03T09:51:32.000000Z
 release_id: "12748287"
 slug: "orchestral-manoeuvres-in-the-dark-12748287"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Bunker Soldiers (2:51)
 2. Almost (3:40)
@@ -24,11 +25,16 @@ styles: ["Synth-pop"]
 8. Red Frame / White Light (3:11)
 9. Dancing (2:59)
 10. Pretending To See The Future (3:48)
+
+
 ## Spotify
 {{< spotify type="album" id="5AN8aqTrcuMZO7rpD9U2yF" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="IRqfQcHI6EQ" title="Bunker Soldiers (Remastered 2003)" >}}
+{{< youtube id="7qKSJIsQN1Y" title="Orchestral Manoeuvres In The Dark - Electricity (1979)" >}}
+- [Bunker Soldiers (Remastered 2003)](https://www.youtube.com/watch?v=IRqfQcHI6EQ)
 - [Almost (Remastered 2003)](https://www.youtube.com/watch?v=s0oGOVDMZOo)
 - [Mystereality (Remastered 2003)](https://www.youtube.com/watch?v=Lfs2ZKPlU0Y)
 - [Electricity (Remastered 2003)](https://www.youtube.com/watch?v=SJpX-wNgZ00)
@@ -51,7 +57,8 @@ styles: ["Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark](https://www.discogs.com/release/12748287-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark) |
 | Label          | Virgin EMI Records |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | 602557050806 |
 
-Half speed mastered at Abbey Road Studios. Includes digital download card.
+Half speed mastered at Abbey Road Studios.
+Includes digital download card.

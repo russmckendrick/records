@@ -2,7 +2,7 @@
 title: "Crosby, Stills, Nash & Young - Déjà Vu"
 artist: "Crosby, Stills, Nash & Young"
 album_name: "Déjà Vu"
-date: 2021-05-14
+date: 2021-05-14T09:52:07.000000Z
 release_id: "18715600"
 slug: "dj-vu-18715600"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Carry On (4:25)
 2. Teach Your Children (2:53)
@@ -76,43 +77,25 @@ styles: ["Folk Rock", "Country Rock"]
 60. Our House (Early Version) (2:55)
 61. 4 + 20 (Alternate Take 2) (2:08)
 62. Know You Got To Run (6:42)
+
+
 ## Spotify
 {{< spotify type="album" id="5bHkK1X4WEOzNvRhehvOcb" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="GIxb2gm3HeE" title="Déjà Vu (2021 Remaster)" >}}
-- [Sleep Song (Demo) (2021 Remaster)](https://www.youtube.com/watch?v=BIAHEVvc6dw)
-- [Déjà Vu (Early Alternate Mix)](https://www.youtube.com/watch?v=cniVZl2Rnig)
-- [Woodstock (Alternate Vocals)](https://www.youtube.com/watch?v=v1KqiTLUnIw)
-- [Déjà Vu (Demo)](https://www.youtube.com/watch?v=4vjgUPzVXPE)
-- [4 + 20 (Alternate Take 2)](https://www.youtube.com/watch?v=ZMIqkWLCJM4)
-- [Carry On (Early Alternate Mix)](https://www.youtube.com/watch?v=fcRWrFZHlQw)
-- [Carry On (2021 Remaster)](https://www.youtube.com/watch?v=EYl6nVr3aSI)
-- [Our House (Early Version)](https://www.youtube.com/watch?v=XxpfK_A34GM)
-- [Ivory Tower (Outtake)](https://www.youtube.com/watch?v=gyrthpOL7OI)
-- [Laughing (Outtake)](https://www.youtube.com/watch?v=DliwxNKyVm4)
-- [4 + 20 (2021 Remaster)](https://www.youtube.com/watch?v=B-nzINX8DUw)
-- [The Lee Shore (1969 Vocal) (Outtake)](https://www.youtube.com/watch?v=YKR38zO0KSw)
-- [Teach Your Children (Demo) (2021 Remaster)](https://www.youtube.com/watch?v=27a73R7xJVA)
-- [30 Dollar Fine (Outtake)](https://www.youtube.com/watch?v=DxNf8aF3Vos)
-- [I'll Be There (Outtake)](https://www.youtube.com/watch?v=tmOY7YUs6MY)
-- [How Have You Been (Demo) (2021 Remaster)](https://www.youtube.com/watch?v=DS5x5ISyJwA)
-- [Bluebird Revisited (Outtake)](https://www.youtube.com/watch?v=5Kn2c1YYL9k)
-- [Country Girl (2021 Remaster)](https://www.youtube.com/watch?v=pWMyLDia6R0)
-- [Almost Cut My Hair (Early Version)](https://www.youtube.com/watch?v=R2wXiu_Nb2U)
-- [Neil Young & Graham Nash - Birds (Demo) [Official Audio]](https://www.youtube.com/watch?v=VlPtOB8_aRQ)
-- [Horses Through A Rainstorm (Outtake) (2020 Remaster)](https://www.youtube.com/watch?v=clcevLPtKyI)
-- [Everybody I Love You (2021 Remaster)](https://www.youtube.com/watch?v=XvGV1okMtw4)
-- [Triad (Demo) (2021 Remaster)](https://www.youtube.com/watch?v=weuAjAmZD60)
-- [Teach Your Children (2021 Remaster)](https://www.youtube.com/watch?v=ZT6mclMGtVA)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Crosby, Stills, Nash & Young - Déjà Vu](https://www.discogs.com/release/18715600-Crosby-Stills-Nash-Young-D%C3%A9j%C3%A0-Vu) |
-| Label          | Atlantic, Rhino Records |
-| Format         | LP, Album, RE, RM + CD, Album, RE, RM + 3xCD + Box |
-| Catalog Number | 603497848027, R2 625238 |
+| Label          | Atlantic |
+| Format         | Vinyl LP Album Reissue Remastered Stereo, CD Album Reissue Remastered Stereo, CD 3× Stereo, Box Set Deluxe Edition (50th Anniversary) |
+| Catalog Number | 603497848027 |
 
-Hype sticker: "The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."  Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein"  on backcover: Made In Germany
+Hype sticker:
+"The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."
+
+Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein"
+
+on backcover: Made In Germany

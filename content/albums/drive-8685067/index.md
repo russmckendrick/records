@@ -2,7 +2,7 @@
 title: "Anneke Van Giersbergen - Drive"
 artist: "Anneke Van Giersbergen"
 album_name: "Drive"
-date: 2017-03-20
+date: 2017-03-20T11:23:19.000000Z
 release_id: "8685067"
 slug: "drive-8685067"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. We Live On (03:41)
 2. Treat Me Like A Lady (04:00)
@@ -24,8 +25,12 @@ styles: ["Pop Rock"]
 8. Mental Jungle (03:44)
 9. Shooting For The Stars (04:33)
 10. The Best Is Yet To Come (04:04)
+
+
 ## Spotify
 {{< spotify type="album" id="7u14UBU31H0kvi0Sp8aw95" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TMSRPlQS4fY" title="Anneke van Giersbergen - We Live On" >}}
@@ -35,8 +40,12 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Anneke Van Giersbergen - Drive](https://www.discogs.com/release/8685067-Anneke-Van-Giersbergen-Drive) |
-| Label          | Alone Records |
-| Format         | LP, Album, Ltd |
+| Label          | Alone Records (2) |
+| Format         | Vinyl LP Album Limited Edition |
 | Catalog Number | AR-058LP |
 
-For the first time on vinyl, under exclusive license from InsideOut Music.  Presented in gatefold jacket. Black vinyl limited to 300 copies.  
+For the first time on vinyl, under exclusive license from InsideOut Music.
+
+Presented in gatefold jacket. Black vinyl limited to 300 copies.
+
+

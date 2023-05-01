@@ -2,7 +2,7 @@
 title: "Cardiacs - Sing To God"
 artist: "Cardiacs"
 album_name: "Sing To God"
-date: 2016-03-03
+date: 2016-03-03T18:17:05.000000Z
 release_id: "5915357"
 slug: "sing-to-god-5915357"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Eden On The Air
 2. Eat It Up Worms Hero
@@ -38,6 +39,9 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 22. Nurses Whispering Verses
 23. Foundling
 
+
+
+
 ## Videos
 {{< youtube id="hFHAwU2cXDw" title="Cardiacs - Eat It Up Worms Hero" >}}
 - [The Cardiacs - Dog Like Sparky](https://www.youtube.com/watch?v=a820Xo4XdB8)
@@ -56,7 +60,13 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Cardiacs - Sing To God](https://www.discogs.com/release/5915357-Cardiacs-Sing-To-God) |
 | Label          | The Alphabet Business Concern |
-| Format         | 2xLP, Album, Ltd, Num, RE |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue |
 | Catalog Number | ALPH DLP 022 |
 
-Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.  Limited to 200 numbered copies. Comes in a gatefold sleeve with picture inner sleeves and a download coupon. Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].  ℗&© Alphabet 1995
+Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.
+
+Limited to 200 numbered copies.
+Comes in a gatefold sleeve with picture inner sleeves and a download coupon.
+Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].
+
+℗&© Alphabet 1995

@@ -2,7 +2,7 @@
 title: "Various - Stranger Things (Music From The Netflix Original Series)"
 artist: "Various"
 album_name: "Stranger Things (Music From The Netflix Original Series)"
-date: 2018-05-15
+date: 2018-05-15T11:37:32.000000Z
 release_id: "11273965"
 slug: "stranger-things-music-from-the-netflix-original-series-11273965"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Stranger Things (Music From The Netflix Original Series) by Various"
     caption: "Stranger Things (Music From The Netflix Original Series) by Various"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Intro - Will Singing The Clash (Dialogue)
 2. Every Breath You Take
@@ -45,6 +46,9 @@ styles: null
 29. Elegia
 30. Outro - Will Singing The Clash (Dialogue)
 
+
+
+
 ## Videos
 {{< youtube id="cy9iyo9Ygg4" title="INTRO - Will Singing the Clash" >}}
 - [Every Breath You Take](https://www.youtube.com/watch?v=GO5utuvcZps)
@@ -75,8 +79,13 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - Stranger Things (Music From The Netflix Original Series)](https://www.discogs.com/release/11273965-Various-Stranger-Things-Music-From-The-Netflix-Original-Series) |
-| Label          | Legacy, Netflix |
-| Format         | 2xLP, Album, Comp |
+| Label          | Legacy |
+| Format         | Vinyl 2× LP Album Compilation |
 | Catalog Number | 88985480901 |
 
-Comes in a gatefold sleeve.  Dialogue taken from the Netflix Original Series "Stranger Things". Courtesy Of Netflix.  The runouts are etched.
+Comes in a gatefold sleeve.
+
+Dialogue taken from the Netflix Original Series "Stranger Things".
+Courtesy Of Netflix.
+
+The runouts are etched.

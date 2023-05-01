@@ -2,7 +2,7 @@
 title: "Joe Strummer - Assembly"
 artist: "Joe Strummer"
 album_name: "Assembly"
-date: 2021-03-30
+date: 2021-03-30T03:55:54.000000Z
 release_id: "17989276"
 slug: "assembly-17989276"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. Coma Girl
 2. Johnny Appleseed
@@ -30,8 +31,12 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 14. Yalla Yalla
 15. Redemption Song
 16. Junco Partner (Acoustic)
+
+
 ## Spotify
 {{< spotify type="album" id="5fmJ1t5AyvBrCGOLBXiaVh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="V1hsbEUfif8" title="Joe Strummer - Junco Partner (Acoustic) [Official Video]" >}}
@@ -45,7 +50,11 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 | Release Year   | 2021 |
 | Discogs Link   | [Joe Strummer - Assembly](https://www.discogs.com/release/17989276-Joe-Strummer-Assembly) |
 | Label          | Dark Horse Records |
-| Format         | 2xLP, Comp, Ltd, RM, Red |
+| Format         | Vinyl 2× LP Compilation Limited Edition Remastered (Red, 180 Gr) |
 | Catalog Number | DH0002 |
 
-Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.  Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).  Tracks are sequentially listed on release.
+Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.
+
+Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).
+
+Tracks are sequentially listed on release.

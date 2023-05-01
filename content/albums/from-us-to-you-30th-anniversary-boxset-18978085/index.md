@@ -2,7 +2,7 @@
 title: "EMF - From Us To You, 30th Anniversary Boxset"
 artist: "EMF"
 album_name: "From Us To You, 30th Anniversary Boxset"
-date: 2021-06-03
+date: 2021-06-03T00:49:13.000000Z
 release_id: "18978085"
 slug: "from-us-to-you-30th-anniversary-boxset-18978085"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Schubert Dip, 1991
 2. Children
@@ -78,13 +79,17 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 62. Big Drop
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [EMF - From Us To You, 30th Anniversary Boxset](https://www.discogs.com/release/18978085-EMF-From-Us-To-You-30th-Anniversary-Boxset) |
 | Label          | Believe |
-| Format         | Box, Comp + LP, Album, RE, RM, Blu + LP, Album, RE |
+| Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered (Blue), Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Green), Vinyl LP Compilation, Cassette Album (Demo) |
 | Catalog Number | EMF001BLV |
 
-℗ Believe 2020. © Believe 2020.  The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324].
+℗ Believe 2020. © Believe 2020.
+
+The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324].

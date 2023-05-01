@@ -2,7 +2,7 @@
 title: "Crowded House - Together Alone"
 artist: "Crowded House"
 album_name: "Together Alone"
-date: 2015-09-10
+date: 2015-09-10T18:28:00.000000Z
 release_id: "2187186"
 slug: "together-alone-2187186"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Kare Kare
 2. In My Command
@@ -27,8 +28,12 @@ styles: ["Soft Rock", "Pop Rock"]
 11. Catherine Wheels
 12. Skin Feeling
 13. Together Alone
+
+
 ## Spotify
 {{< spotify type="album" id="7bzJtH0rm6rcgmWiKyIVxK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="44chfOSuRNk" title="Kare Kare" >}}
@@ -40,8 +45,17 @@ styles: ["Soft Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1993 |
 | Discogs Link   | [Crowded House - Together Alone](https://www.discogs.com/release/2187186-Crowded-House-Together-Alone) |
-| Label          | Capitol Records, Capitol Records |
-| Format         | LP, Album |
-| Catalog Number | ESTU 2215, 7243 8 27048 1 2 |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | ESTU 2215 |
 
-Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London  Printed in U.K.  Published by Roundhead Music (BMI), except: A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI) B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP 
+Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London
+
+Printed in U.K.
+
+Published by Roundhead Music (BMI), except:
+A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP
+B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI)
+B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP
+B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP
+

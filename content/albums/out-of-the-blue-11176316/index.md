@@ -2,7 +2,7 @@
 title: "Electric Light Orchestra - Out Of The Blue"
 artist: "Electric Light Orchestra"
 album_name: "Out Of The Blue"
-date: 2018-01-17
+date: 2018-01-17T20:32:58.000000Z
 release_id: "11176316"
 slug: "out-of-the-blue-11176316"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. Turn To Stone
 2. It's Over
@@ -28,8 +29,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 12. The Whale
 13. Birmingham Blues
 14. Wild West Hero
+
+
 ## Spotify
 {{< spotify type="album" id="3usnShwygMXVZB4IV5dwnU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2f9CoaIH9FE" title="E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977" >}}
@@ -47,8 +52,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Electric Light Orchestra - Out Of The Blue](https://www.discogs.com/release/11176316-Electric-Light-Orchestra-Out-Of-The-Blue) |
-| Label          | Sony Music, Legacy, Epic |
-| Format         | 2xLP, Album, Ltd, Pic, RE |
+| Label          | Sony Music |
+| Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue Stereo |
 | Catalog Number | 88985456161 |
 
-40th Anniversary double LP Picture Disc with digital download. Made in the E.U. ℗ 1977 Epic Records © 1977, 2017 Epic Records 
+40th Anniversary double LP Picture Disc with digital download.
+Made in the E.U.
+℗ 1977 Epic Records
+© 1977, 2017 Epic Records
+

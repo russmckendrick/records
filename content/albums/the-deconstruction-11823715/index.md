@@ -2,7 +2,7 @@
 title: "Eels - The Deconstruction"
 artist: "Eels"
 album_name: "The Deconstruction"
-date: 2018-04-07
+date: 2018-04-07T09:50:10.000000Z
 release_id: "11823715"
 slug: "the-deconstruction-11823715"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Deconstruction
 2. Bone Dry
@@ -44,8 +45,12 @@ styles: ["Indie Rock"]
 28. Archie Goodnight
 29. The Unanswerable
 30. In Our Cathedral
+
+
 ## Spotify
 {{< spotify type="album" id="3nhc68aAns0r8qoBZr2ley" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track (AUDIO)" >}}
@@ -62,7 +67,14 @@ styles: ["Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Eels - The Deconstruction](https://www.discogs.com/release/11823715-Eels-The-Deconstruction) |
 | Label          | E Works Records |
-| Format         | 2x12\", Pin + CD, Album + Box, Dlx |
+| Format         | Vinyl 2× 12" 45 RPM (Pink), CD Album, Box Set Deluxe Edition |
 | Catalog Number | EWORKS1150LPX |
 
-Deluxe box set contains: - 2 x 12" pink vinyl in printed sleeves - digipack cd - 28 page lyric booklet with exclusive photos - 12" artwork print - A4 copy of handwritten "Rusty Pipes" lyrics - E "tip & strip" pen - digital download code
+Deluxe box set contains:
+- 2 x 12" pink vinyl in printed sleeves
+- digipack cd
+- 28 page lyric booklet with exclusive photos
+- 12" artwork print
+- A4 copy of handwritten "Rusty Pipes" lyrics
+- E "tip & strip" pen
+- digital download code

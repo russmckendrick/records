@@ -2,7 +2,7 @@
 title: "Cedric Burnside - Benton County Relic"
 artist: "Cedric Burnside"
 album_name: "Benton County Relic"
-date: 2018-09-15
+date: 2018-09-15T13:01:47.000000Z
 release_id: "12492420"
 slug: "benton-county-relic-12492420"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues"]
 styles: ["Country Blues", "Hill Country Blues"]
 ---
+
 ## Tracklisting
 1. We Made It
 2. Get Your Groove On
@@ -26,8 +27,11 @@ styles: ["Country Blues", "Hill Country Blues"]
 10. Call On Me
 11. I'm Hurtin
 12. Ain't Gonna Take No Mess
+
+
 ## Spotify
 {{< spotify type="album" id="6N2kgU28H4AZWrsnw8IVeu" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,9 @@ styles: ["Country Blues", "Hill Country Blues"]
 | Release Year   | 2018 |
 | Discogs Link   | [Cedric Burnside - Benton County Relic](https://www.discogs.com/release/12492420-Cedric-Burnside-Benton-County-Relic) |
 | Label          | Single Lock Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | SL024 |
 
-Signed versions were available as pre-order. "Ain't Gonna Take No Mess" recorded at Ardent Studios in Memphis, TN Includes printed inner sleeve. 
+Signed versions were available as pre-order.
+"Ain't Gonna Take No Mess" recorded at Ardent Studios in Memphis, TN
+Includes printed inner sleeve. 

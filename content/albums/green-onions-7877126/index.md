@@ -2,7 +2,7 @@
 title: "Booker T & The MG's - Green Onions"
 artist: "Booker T & The MG's"
 album_name: "Green Onions"
-date: 2017-05-12
+date: 2017-05-12T18:25:56.000000Z
 release_id: "7877126"
 slug: "green-onions-7877126"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul", "Funk"]
 ---
+
 ## Tracklisting
 1. Green Onions
 2. Rinky-Dink
@@ -26,8 +27,12 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 10. I Can't Sit Down
 11. A Woman, A Lover, A Friend
 12. Comin' Home Baby
+
+
 ## Spotify
 {{< spotify type="album" id="2aGFVLz0oQPa3uxCfq9lcU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0oox9bJaGJ8" title="Booker T. & The MG's - Green Onions (Official Audio)" >}}
@@ -49,7 +54,5 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 | Release Year   | 2015 |
 | Discogs Link   | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |
 | Label          | DOL |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | DOL1517H |
-
-

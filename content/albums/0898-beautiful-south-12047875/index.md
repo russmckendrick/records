@@ -2,7 +2,7 @@
 title: "The Beautiful South - 0898 Beautiful South"
 artist: "The Beautiful South"
 album_name: "0898 Beautiful South"
-date: 2018-05-25
+date: 2018-05-25T19:12:34.000000Z
 release_id: "12047875"
 slug: "0898-beautiful-south-12047875"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Old Red Eyes Is Back (3:35)
 2. We Are Each Other (3:39)
@@ -26,8 +27,12 @@ styles: ["Pop Rock"]
 10. Bell-Bottomed Tear (4:35)
 11. You Play Glockenspiel, I'll Play Drums (5:06)
 12. When I'm 84 (4:32)
+
+
 ## Spotify
 {{< spotify type="album" id="1I1mX0fymdB9SWCGAhLETr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ggJYJ9frSl0" title="The Beautiful South - Old Red Eyes Is Back" >}}
@@ -42,8 +47,15 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Beautiful South - 0898 Beautiful South](https://www.discogs.com/release/12047875-The-Beautiful-South-0898-Beautiful-South) |
-| Label          | Go! Discs, UMC |
-| Format         | LP, Album, RE |
+| Label          | Go! Discs |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Catalog Number | 5743902 |
 
-"2018 Edition".  Issued in a matte sleeve. Picture/ lyric top opening inner sleeve of thin card. Includes a "The Sound Of Vinyl" download voucher. Package came shrink-wrapped.  Runouts are etched.
+"2018 Edition".
+
+Issued in a matte sleeve.
+Picture/ lyric top opening inner sleeve of thin card.
+Includes a "The Sound Of Vinyl" download voucher.
+Package came shrink-wrapped.
+
+Runouts are etched.

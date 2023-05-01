@@ -2,7 +2,7 @@
 title: "Neil Young - Harvest Moon"
 artist: "Neil Young"
 album_name: "Harvest Moon"
-date: 2017-12-02
+date: 2017-12-02T15:18:15.000000Z
 release_id: "11172799"
 slug: "harvest-moon-11172799"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Unknown Legend (4:32)
 2. From Hank To Hendrix (5:17)
@@ -25,6 +26,9 @@ styles: ["Folk Rock", "Country Rock"]
 9. Dreamin' Man (4:36)
 10. Natural Beauty (10:24)
 
+
+
+
 ## Videos
 {{< youtube id="0x2woMlGHYM" title="N̲eil Y̲o̲u̲n̲g - H̲arvest M̲o̲o̲n (Full Album)" >}}
 
@@ -34,7 +38,20 @@ styles: ["Folk Rock", "Country Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Neil Young - Harvest Moon](https://www.discogs.com/release/11172799-Neil-Young-Harvest-Moon) |
 | Label          | Reprise Records |
-| Format         | LP + LP, S/Sided, Etch + Album, RSD, Ltd, RE |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Limited Edition Reissue |
 | Catalog Number | 9362-49107-8 |
 
-Source| Mastered from 44/16 Digital ℗ 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. © 1992, 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.  Track durations is different on insert from the labels. Time from the labels were used on tracklist above.  Runout details: the sequence "1-563181-X CB" is hand etched, the sequence "20793 1X" is stamped, on each side.  Record Store Day Black Friday exclusive release with printed lyrics insert. Three sided limited edition, side D has an etching of the album cover artwork. Issued in gatefold jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).  Manufactured in the E.U. (on back cover). Made in the E.U. (on labels).
+Source| Mastered from 44/16 Digital
+℗ 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.
+© 1992, 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.
+
+Track durations is different on insert from the labels. Time from the labels were used on tracklist above.
+
+Runout details: the sequence "1-563181-X CB" is hand etched, the sequence "20793 1X" is stamped, on each side.
+
+Record Store Day Black Friday exclusive release with printed lyrics insert.
+Three sided limited edition, side D has an etching of the album cover artwork.
+Issued in gatefold jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).
+
+Manufactured in the E.U. (on back cover).
+Made in the E.U. (on labels).

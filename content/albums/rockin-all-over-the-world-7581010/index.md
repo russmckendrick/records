@@ -2,7 +2,7 @@
 title: "Status Quo - Rockin' All Over The World"
 artist: "Status Quo"
 album_name: "Rockin' All Over The World"
-date: 2016-05-23
+date: 2016-05-23T18:27:52.000000Z
 release_id: "7581010"
 slug: "rockin-all-over-the-world-7581010"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Hard Time (5:04)
 2. Can't Give You More (4:00)
@@ -26,16 +27,12 @@ styles: ["Classic Rock", "Rock & Roll"]
 10. For You (3:03)
 11. Dirty Water (3:42)
 12. Hold You Back (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="4UyEneWCIKATQf3keQnG7O" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="QwoU_6ZDu1g" title="status quo baby boy rock greñas" >}}
-- [Status Quo - Rockin All Over The World](https://www.youtube.com/watch?v=Yw_sJifUYgM)
-- [Status Quo - Rockin' All Over the World (kultnacht - 1977)](https://www.youtube.com/watch?v=8mm_WX-DAoQ)
-- [status quo hard time (rockin' all over the world).wmv](https://www.youtube.com/watch?v=kRt2MxBMsZw)
-- [status quo can't give you more (rockin' all over the world).wmv](https://www.youtube.com/watch?v=VjqP7UHepBw)
-- [status quo let's ride (rockin' all over the world).wmv](https://www.youtube.com/watch?v=WNniyPlYFOo)
+
 
 ## Notes
 | Notes          |             |
@@ -43,7 +40,10 @@ styles: ["Classic Rock", "Rock & Roll"]
 | Release Year   | 2015 |
 | Discogs Link   | [Status Quo - Rockin' All Over The World](https://www.discogs.com/release/7581010-Status-Quo-Rockin-All-Over-The-World) |
 | Label          | Vertigo |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180gr) |
 | Catalog Number | 4723767 |
 
-Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1977 Mercury Records Limited/Universal Music Catalogue ℗ 1977 Mercury Records Limited
+Comes with printed inner sleeve and a poster. 180 gram Vinyl.
+
+© 1977 Mercury Records Limited/Universal Music Catalogue
+℗ 1977 Mercury Records Limited

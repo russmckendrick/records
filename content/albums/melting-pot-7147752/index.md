@@ -2,7 +2,7 @@
 title: "The Charlatans - Melting Pot"
 artist: "The Charlatans"
 album_name: "Melting Pot"
-date: 2017-04-22
+date: 2017-04-22T10:02:26.000000Z
 release_id: "7147752"
 slug: "melting-pot-7147752"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Only One I Know
 2. Then
@@ -31,8 +32,12 @@ styles: ["Indie Rock"]
 15. Just When You're Thinkin' Things Over
 16. One To Another
 17. North Country Boy
+
+
 ## Spotify
 {{< spotify type="album" id="6nHvtNjvdDLiUIUkJ7td27" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0RJwW77Lsj8" title="The Charlatans - The Only One I Know" >}}
@@ -55,7 +60,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [The Charlatans - Melting Pot](https://www.discogs.com/release/7147752-The-Charlatans-Melting-Pot) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Comp, Ltd, RE |
+| Format         | Vinyl 2× LP Compilation Limited Edition Reissue |
 | Catalog Number | BBQLP 198 |
 
 HMV UK exclusive limited to 500 copies.

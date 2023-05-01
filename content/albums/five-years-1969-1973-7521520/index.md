@@ -2,7 +2,7 @@
 title: "David Bowie - [Five Years 1969 - 1973]"
 artist: "David Bowie"
 album_name: "[Five Years 1969 - 1973]"
-date: 2016-01-20
+date: 2016-01-20T19:04:07.000000Z
 release_id: "7521520"
 slug: "five-years-1969-1973-7521520"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Glam"]
 ---
+
 ## Tracklisting
 1. David Bowie A.K.A. Space Oddity
 2. Space Oddity
@@ -160,8 +161,11 @@ styles: ["Glam"]
 144. Amsterdam (3:27)
 145. Holy Holy (Spiders Version) (2:18)
 146. Velvet Goldmine (3:10)
+
+
 ## Spotify
 {{< spotify type="album" id="6m9cpSfRCYltkhxl23wq0j" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -169,8 +173,10 @@ styles: ["Glam"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [David Bowie - [Five Years 1969 - 1973]](https://www.discogs.com/release/7521520-David-Bowie-Five-Years-1969-1973) |
-| Label          | Parlophone, Parlophone |
-| Format         | Box, Comp, Ltd, RM + LP, Album, RE + LP, Album, RE |
-| Catalog Number | 0825646284092, DBXL 1 |
+| Label          | Parlophone |
+| Format         | Box Set Compilation Limited Edition Remastered, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Compilation Stereo Mono |
+| Catalog Number | 0825646284092 |
 
-Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [Pinups Radio Show](https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599) by adding it to shopping basket for free while preordering boxset.  Track A2b is not listed on the release.
+Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [url=https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599]Pinups Radio Show[/url] by adding it to shopping basket for free while preordering boxset.
+
+Track A2b is not listed on the release.

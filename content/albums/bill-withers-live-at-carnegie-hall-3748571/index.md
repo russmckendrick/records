@@ -2,7 +2,7 @@
 title: "Bill Withers - Bill Withers Live At Carnegie Hall"
 artist: "Bill Withers"
 album_name: "Bill Withers Live At Carnegie Hall"
-date: 2016-10-01
+date: 2016-10-01T10:34:58.000000Z
 release_id: "3748571"
 slug: "bill-withers-live-at-carnegie-hall-3748571"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
+
 ## Tracklisting
 1. Use Me (8:30)
 2. Friend Of Mine (4:26)
@@ -28,8 +29,12 @@ styles: ["Soul", "Funk"]
 12. Hope She'll Be Happier (4:23)
 13. Let Us Love (5:21)
 14. Harlem/Cold Baloney (13:07)
+
+
 ## Spotify
 {{< spotify type="album" id="0Stnb66v5cibvR22sFdLYx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fSqtPjpKb6k" title="Use Me (Live at Carnegie Hall, New York, NY - October 1972)" >}}
@@ -52,8 +57,12 @@ styles: ["Soul", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Bill Withers - Bill Withers Live At Carnegie Hall](https://www.discogs.com/release/3748571-Bill-Withers-Bill-Withers-Live-At-Carnegie-Hall) |
-| Label          | Music On Vinyl, Sussex |
-| Format         | 2xLP, Album, RE, 180 |
-| Catalog Number | MOVLP432, SXBS 7025-2 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
+| Catalog Number | MOVLP432 |
 
-Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles). Published by Interior Music, Corp. (BMI)  Gatefold cover with printed company inner sleeves. 
+Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles).
+Published by Interior Music, Corp. (BMI)
+
+Gatefold cover with printed company inner sleeves.
+

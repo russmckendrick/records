@@ -2,7 +2,7 @@
 title: "Tunng - Tunng Presents... Dead Club"
 artist: "Tunng"
 album_name: "Tunng Presents... Dead Club"
-date: 2020-11-18
+date: 2020-11-18T13:27:13.000000Z
 release_id: "16173154"
 slug: "tunng-presents-dead-club-16173154"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ---
+
 ## Tracklisting
 1. Eating The Dead
 2. Death Is The New Sex 
@@ -26,8 +27,12 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 10. Scared To Death 
 11. Fatally Human
 12. Woman
+
+
 ## Spotify
 {{< spotify type="album" id="5jpgLuaFmwPsYw8n9pOcKc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="voFaQHAgdhw" title="tunng - A Million Colours [Official Video]" >}}
@@ -40,7 +45,24 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Tunng - Tunng Presents... Dead Club](https://www.discogs.com/release/16173154-Tunng-Tunng-Presents-Dead-Club) |
 | Label          | Full Time Hobby |
-| Format         | LP, Album, Ltd, Mag |
+| Format         | Vinyl LP Album Limited Edition (Magenta) |
 | Catalog Number | FTH390LPB |
 
-- Supported using public funding by Arts Council England  DEAD CLUB is dedicated to anyone who is grieving Limited edition of 300.   Hype Sticker reads -   "tunng  Tunng Presents ... Dead Club  A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter.   Tunng Store Exclusive  2x Magenta LP. limited to 300 Includes download code. FTH390LPB" 
+- Supported using public funding by Arts Council England
+
+DEAD CLUB is dedicated to anyone who is grieving
+Limited edition of 300. 
+
+Hype Sticker reads - 
+
+"tunng
+
+Tunng Presents ... Dead Club
+
+A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter. 
+
+Tunng Store Exclusive 
+2x Magenta LP. limited to 300
+Includes download code.
+FTH390LPB"
+

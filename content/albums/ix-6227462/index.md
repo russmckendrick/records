@@ -2,7 +2,7 @@
 title: "...And You Will Know Us By The Trail Of Dead - IX"
 artist: "...And You Will Know Us By The Trail Of Dead"
 album_name: "IX"
-date: 2017-12-02
+date: 2017-12-02T20:16:13.000000Z
 release_id: "6227462"
 slug: "ix-6227462"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Hardcore"]
 ---
+
 ## Tracklisting
 1. The Doomsday Book (03:32)
 2. Jaded Apostles (04:04)
@@ -36,8 +37,12 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 20. Lost In The Grand Scheme (07:26)
 21. Like Summer Tempests Came His Tears (03:42)
 22. Sound Of The Silk (05:18)
+
+
 ## Spotify
 {{< spotify type="album" id="27QcRAR2ESoVje74G3SFyk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="MJC8rfQ_wGA" title="…And You Will Know Us By The Trail Of Dead – IX" >}}
@@ -56,8 +61,8 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [...And You Will Know Us By The Trail Of Dead - IX](https://www.discogs.com/release/6227462-And-You-Will-Know-Us-By-The-Trail-Of-Dead-IX) |
-| Label          | Superball Music, Superball Music |
-| Format         | LP, Album, Blu + CD, Album + Ltd |
-| Catalog Number | SBMLP 033, 0506911 |
+| Label          | Superball Music |
+| Format         | Vinyl LP Album (Blue, 180g), CD Album, All Media Limited Edition |
+| Catalog Number | SBMLP 033 |
 
 180g blue vinyl + CD. Gatefold.

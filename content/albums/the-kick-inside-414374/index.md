@@ -2,7 +2,7 @@
 title: "Kate Bush - The Kick Inside"
 artist: "Kate Bush"
 album_name: "The Kick Inside"
-date: 2018-02-20
+date: 2018-02-20T19:29:28.000000Z
 release_id: "414374"
 slug: "the-kick-inside-414374"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Moving (3:00)
 2. The Saxophone Song (3:48)
@@ -27,8 +28,12 @@ styles: ["Art Rock", "Pop Rock"]
 11. Them Heavy People (3:02)
 12. Room For The Life (4:01)
 13. The Kick Inside (3:32)
+
+
 ## Spotify
 {{< spotify type="album" id="0ld04FI3tfuxefSbNwCJSc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-1pMMIe4hb4" title="Kate Bush - Wuthering Heights - Official Music Video - Version 1" >}}
@@ -52,8 +57,19 @@ styles: ["Art Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Kate Bush - The Kick Inside](https://www.discogs.com/release/414374-Kate-Bush-The-Kick-Inside) |
-| Label          | EMI, EMI |
-| Format         | LP, Album |
-| Catalog Number | EMC 3223, 0C 062 06 603 |
+| Label          | EMI |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | EMC 3223 |
 
-Fully laminated sleeve Tan labels with red EMI logo Durations do not appear on the release. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in runouts, the rest stamped.  Recorded at Air London Studios: July/August 1977 Recorded at Air London Studios: June 1975 [Gilmour executive produced songs] All songs published by EMI/Kate Bush ©1978  On labels: ℗ 1978 EMI Records Ltd. Made in Gt. Britain
+Fully laminated sleeve
+Tan labels with red EMI logo
+Durations do not appear on the release.
+Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in runouts, the rest stamped.
+
+Recorded at Air London Studios: July/August 1977
+Recorded at Air London Studios: June 1975 [Gilmour executive produced songs]
+All songs published by EMI/Kate Bush ©1978
+
+On labels:
+℗ 1978 EMI Records Ltd.
+Made in Gt. Britain

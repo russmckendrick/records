@@ -2,7 +2,7 @@
 title: "Katatonia - City Burials"
 artist: "Katatonia"
 album_name: "City Burials"
-date: 2020-05-02
+date: 2020-05-02T11:48:57.000000Z
 release_id: "15179711"
 slug: "city-burials-15179711"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
+
 ## Tracklisting
 1. Heart Set To Divide
 2. Behind The Blood
@@ -26,8 +27,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 10. Neon Epitaph
 11. Untrodden
 12. Closing Of The Sky
+
+
 ## Spotify
 {{< spotify type="album" id="1DX36PVNNEo2o9RAZN6OYJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="P2H4tCc9E3U" title="Katatonia - The Winter of our Passing OFFICIAL VIDEO" >}}
@@ -41,7 +46,8 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Release Year   | 2020 |
 | Discogs Link   | [Katatonia - City Burials](https://www.discogs.com/release/15179711-Katatonia-City-Burials) |
 | Label          | Peaceville |
-| Format         | LP, Cle + LP, S/Sided, Etch, Cle + Album |
+| Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album |
 | Catalog Number | VILELP860 |
 
-Gatefold. Limited edition of 1500 copies. Closing Of The Sky is a bonus track for this release.
+Gatefold. Limited edition of 1500 copies.
+Closing Of The Sky is a bonus track for this release.

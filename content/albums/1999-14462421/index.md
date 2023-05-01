@@ -2,7 +2,7 @@
 title: "Prince - 1999"
 artist: "Prince"
 album_name: "1999"
-date: 2019-12-05
+date: 2019-12-05T18:05:40.000000Z
 release_id: "14462421"
 slug: "1999-14462421"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
+
 ## Tracklisting
 1. 1999 (6:14)
 2. Little Red Corvette (5:04)
@@ -25,8 +26,12 @@ styles: ["Minneapolis Sound", "Funk"]
 9. Lady Cab Driver (8:17)
 10. All The Critics Love U In New York (5:58)
 11. International Lover (6:38)
+
+
 ## Spotify
 {{< spotify type="album" id="34MHuXONazzgSxI0cThpAg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rblt2EtFfC4" title="Prince - 1999 (Official Music Video)" >}}
@@ -46,8 +51,26 @@ styles: ["Minneapolis Sound", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Prince - 1999](https://www.discogs.com/release/14462421-Prince-1999) |
-| Label          | Warner Records, NPG Records, The Prince Estate |
-| Format         | 2xLP, Album, Ltd, RE, RM, Pur |
-| Catalog Number | RR1 23720, 603497849987 |
+| Label          | Warner Records |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Purple, 180 gram) |
+| Catalog Number | RR1 23720 |
 
-Red sticker on shrink: The iconic album remastered for the very first time Limited edition, 180g 2LP set pressed on Prince purple vinyl Includes download code RR1 23720  Vinyl housed in die-cut black paper, polylined inner sleeves, and come with two replica inner sleeves containing pictures, credits and lyrics.  Album title stylized as **1999** on labels.  Cover, back Made in the E.U. PRINCE.COM |603497849987  Labels: RR1 23720 Made in the E.U. GEMA/BIEM • 603497849987  ℗ & © 2019, 1982 NPG Records, Inc. Under exclusive license to Warner Records Inc. Made in the E.U. 
+Red sticker on shrink:
+The iconic album remastered for the very first time
+Limited edition, 180g 2LP set pressed on Prince purple vinyl
+Includes download code
+RR1 23720
+
+Vinyl housed in die-cut black paper, polylined inner sleeves, and come with two replica inner sleeves containing pictures, credits and lyrics.
+
+Album title stylized as **1999** on labels.
+
+Cover, back
+Made in the E.U. PRINCE.COM |603497849987
+
+Labels:
+RR1 23720
+Made in the E.U. GEMA/BIEM • 603497849987
+
+℗ & © 2019, 1982 NPG Records, Inc. Under exclusive license to Warner Records Inc. Made in the E.U.
+

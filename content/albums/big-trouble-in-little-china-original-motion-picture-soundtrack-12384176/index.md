@@ -1,18 +1,19 @@
 ---
-title: "John Carpenter In Association With Alan Howarth - Big Trouble In Little China (Original Motion Picture Soundtrack)"
-artist: "John Carpenter In Association With Alan Howarth"
+title: "John Carpenter - Big Trouble In Little China (Original Motion Picture Soundtrack)"
+artist: "John Carpenter"
 album_name: "Big Trouble In Little China (Original Motion Picture Soundtrack)"
-date: 2019-02-21
+date: 2019-02-21T19:00:41.000000Z
 release_id: "12384176"
 slug: "big-trouble-in-little-china-original-motion-picture-soundtrack-12384176"
 hideSummary: true
 cover:
     image: "big-trouble-in-little-china-original-motion-picture-soundtrack-12384176.jpg"
-    alt: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter In Association With Alan Howarth"
-    caption: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter In Association With Alan Howarth"
+    alt: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter"
+    caption: "Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ---
+
 ## Tracklisting
 1. Prologue (2:15)
 2. Pork Chop Express (Main Title) (4:01)
@@ -35,6 +36,12 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 19. Goodbye Jack (3:14)
 20. Big Trouble In Little China (End Credits - Album Version) (3:22)
 
+
+## Spotify
+{{< spotify type="album" id="69itXZ73r3zpYhaWMTYD4H" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="OfSjNPxNPDg" title="Coup De Villes - Big Trouble In Little China (Film Version).wmv" >}}
 - [Pork Chop Express (Main Title)](https://www.youtube.com/watch?v=V8_H5OdN6OM)
@@ -51,9 +58,7 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
-| Discogs Link   | [John Carpenter In Association With Alan Howarth - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |
-| Label          | Mondo |
-| Format         | 2xLP, Album, RE, RM, Red |
+| Discogs Link   | [John Carpenter - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |
+| Label          | Mondo (3) |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Red With Light Yellow Splatter) |
 | Catalog Number | MOND-124 |
-
-

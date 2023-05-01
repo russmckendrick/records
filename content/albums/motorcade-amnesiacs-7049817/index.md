@@ -2,7 +2,7 @@
 title: "Sweet Billy Pilgrim - Motorcade Amnesiacs"
 artist: "Sweet Billy Pilgrim"
 album_name: "Motorcade Amnesiacs"
-date: 2015-08-09
+date: 2015-08-09T08:51:03.000000Z
 release_id: "7049817"
 slug: "motorcade-amnesiacs-7049817"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock"]
 ---
+
 ## Tracklisting
 1. Candle Book And Bell (3:54)
 2. Ffwd To The Freeze Frame (4:50)
@@ -25,8 +26,12 @@ styles: ["Art Rock"]
 9. We Just Did What Happened And Nobody Came (5:22)
 10. Longstreth (5:59)
 11. Coloma Blues (5:14)
+
+
 ## Spotify
 {{< spotify type="album" id="6JeQiEhzj98RHLMyzbPtrf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lRlpH34urEI" title="Candle Book and Bell" >}}
@@ -47,7 +52,9 @@ styles: ["Art Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Sweet Billy Pilgrim - Motorcade Amnesiacs](https://www.discogs.com/release/7049817-Sweet-Billy-Pilgrim-Motorcade-Amnesiacs) |
 | Label          | Kscope |
-| Format         | 2xLP, 180 |
+| Format         | Vinyl 2× LP (180 Gram) |
 | Catalog Number | KSCOPE886 |
 
-Side D is etched. Comes with 4 page booklet with lyrics. Black poly-lined inner sleeves.
+Side D is etched.
+Comes with 4 page booklet with lyrics.
+Black poly-lined inner sleeves.

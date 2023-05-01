@@ -2,7 +2,7 @@
 title: "Working Men's Club - Working Men's Club"
 artist: "Working Men's Club"
 album_name: "Working Men's Club"
-date: 2020-10-02
+date: 2020-10-02T12:21:00.000000Z
 release_id: "15993596"
 slug: "working-men-s-club-15993596"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post-Punk", "Acid House", "New Wave"]
 ---
+
 ## Tracklisting
 1. Valleys (6:30)
 2. A. A. A. A.  (3:06)
@@ -24,8 +25,9 @@ styles: ["Post-Punk", "Acid House", "New Wave"]
 8. Cook A Coffee (2:51)
 9. Teeth (3:41)
 10. Angel (12:30)
-## Spotify
-{{< spotify type="album" id="4Uzll2pB5SnmC0rulgDHyB" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="wsgjt1jC3Pc" title="Angel" >}}
@@ -44,8 +46,10 @@ styles: ["Post-Punk", "Acid House", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Working Men's Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-Working-Mens-Club) |
-| Label          | Heavenly, [pias] |
-| Format         | LP, Album, Ltd, Neo |
+| Label          | Heavenly |
+| Format         | Vinyl LP Album Limited Edition Stereo (Neon Yellow ) |
 | Catalog Number | HVNLP179C |
 
-Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209]
+Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.
+
+Certain copies came with a Megamix CD [r16004209]

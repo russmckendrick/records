@@ -2,7 +2,7 @@
 title: "World Party - Private Revolution"
 artist: "World Party"
 album_name: "Private Revolution"
-date: 2021-02-26
+date: 2021-02-26T04:31:40.000000Z
 release_id: "17493697"
 slug: "private-revolution-17493697"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Private Revolution (4:01)
 2. Making Love (To The World) (2:30)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. All I Really Want To Do (4:43)
 10. World Party (4:36)
 11. It's All Mine (5:33)
+
+
 ## Spotify
 {{< spotify type="album" id="6NbdjT5mdw0oTZDiEZOgey" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZHh0V7UjVXI" title="World Party - Ship of Fools" >}}
@@ -50,7 +55,5 @@ styles: ["Alternative Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [World Party - Private Revolution](https://www.discogs.com/release/17493697-World-Party-Private-Revolution) |
 | Label          | Seaview |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Catalog Number | 1LP |
-
-

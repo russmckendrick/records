@@ -2,7 +2,7 @@
 title: "Stevie Wonder - Songs In The Key Of Life"
 artist: "Stevie Wonder"
 album_name: "Songs In The Key Of Life"
-date: 2015-08-11
+date: 2015-08-11T17:23:31.000000Z
 release_id: "2102311"
 slug: "songs-in-the-key-of-life-2102311"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
+
 ## Tracklisting
 1. Love's In Need Of Love Today (7:05)
 2. Have A Talk With God (2:42)
@@ -36,20 +37,30 @@ styles: ["Soul", "Disco"]
 20. Ebony Eyes (4:10)
 21. All Day Sucker (5:06)
 22. Easy Goin' Evening (My Mama's Call) (3:58)
+
+
 ## Spotify
 {{< spotify type="album" id="6YUCc2RiXcEKS9ibuZxjt0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3CB0_YU4G6Y" title="Knocks Me Off My Feet" >}}
 - [Stevie Wonder - Black Man](https://www.youtube.com/watch?v=pEoE2UQXduA)
+- [Have A Talk With God](https://www.youtube.com/watch?v=XrLe6MSjBzg)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1976 |
 | Discogs Link   | [Stevie Wonder - Songs In The Key Of Life](https://www.discogs.com/release/2102311-Stevie-Wonder-Songs-In-The-Key-Of-Life) |
-| Label          | Tamla, Tamla |
-| Format         | 2xLP + 7\", EP + Album, Gat |
-| Catalog Number | T13-340C2, T13-00340 |
+| Label          | Tamla |
+| Format         | Vinyl 2× LP, Vinyl 7" 33 ⅓ RPM EP, All Media Album Stereo (Gatefold) |
+| Catalog Number | T13-340C2 |
 
-Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott   Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.  Gatefold sleeve has cat. number T13-340C2, labels have T13-00340. 
+Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott 
+
+Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.
+
+Gatefold sleeve has cat. number T13-340C2, labels have T13-00340.
+

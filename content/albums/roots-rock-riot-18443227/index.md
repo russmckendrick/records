@@ -2,7 +2,7 @@
 title: "Skindred - Roots Rock Riot"
 artist: "Skindred"
 album_name: "Roots Rock Riot"
-date: 2021-06-04
+date: 2021-06-04T09:18:15.000000Z
 release_id: "18443227"
 slug: "roots-rock-riot-18443227"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Reggae"]
 styles: ["Nu Metal", "Ragga"]
 ---
+
 ## Tracklisting
 1. Roots Rock Riot (3:02)
 2. Trouble (3:49)
@@ -29,8 +30,12 @@ styles: ["Nu Metal", "Ragga"]
 13. 7 Inch Bonus Tracks:
 14. It's A Crime (3:17)
 15. Struggle (3:37)
+
+
 ## Spotify
 {{< spotify type="album" id="0JoumWrvgAhrqQafhkoSBO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dsaHEp1VfXE" title="Skindred - Killing me [Roots Rock Riot Album]" >}}
@@ -44,7 +49,7 @@ styles: ["Nu Metal", "Ragga"]
 | Release Year   | 2021 |
 | Discogs Link   | [Skindred - Roots Rock Riot](https://www.discogs.com/release/18443227-Skindred-Roots-Rock-Riot) |
 | Label          | Hassle Records |
-| Format         | LP, Album, RE, Tra + 7\", Single |
+| Format         | Vinyl LP Album Reissue Stereo (Translucent Green), Vinyl 7" Single, All Media |
 | Catalog Number | HOFFSIDE004LP |
 
 MADE IN POLAND

@@ -2,7 +2,7 @@
 title: "Mogwai - As The Love Continues"
 artist: "Mogwai"
 album_name: "As The Love Continues"
-date: 2021-02-19
+date: 2021-02-19T00:46:47.000000Z
 release_id: "17472106"
 slug: "as-the-love-continues-17472106"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "As The Love Continues by Mogwai"
     caption: "As The Love Continues by Mogwai"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1.  To The Bin My Friend, Tonight We Vacate Earth
 2. Here We, Here We, Here We Go Forever
@@ -41,8 +42,12 @@ styles: null
 25. Pat Stains
 26. Supposedly, We Were Nightmares
 27. It's What I Want To Do, Mum.
+
+
 ## Spotify
 {{< spotify type="album" id="4LjNbxlMmWNn5Yky9bfxRm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="55wY7XrGFzY" title="Mogwai // Dry Fantasy (Official Video)" >}}
@@ -54,8 +59,17 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Mogwai - As The Love Continues](https://www.discogs.com/release/17472106-Mogwai-As-The-Love-Continues) |
-| Label          | Rock Action Records, Rock Action Records, Rock Action Records |
-| Format         | Box + 2xLP, Album, Red + 12\", Dem + CD |
-| Catalog Number | ROCKACT140, ROCKACT140LP, ROCKACT140CD |
+| Label          | Rock Action Records |
+| Format         | Box Set, Vinyl 2× LP Album (Red ), Vinyl 12" (Demos), CD |
+| Catalog Number | ROCKACT140 |
 
-This Deluxe Vinyl Boxset includes:  2 x Transparent Red Vinyl | Gatefold Cover  1 x Black Vinyl Demos EP 12 page photograph book CD version of album Album digital download code  Limited to 1000 copies 
+This Deluxe Vinyl Boxset includes:
+
+2 x Transparent Red Vinyl | Gatefold Cover 
+1 x Black Vinyl Demos EP
+12 page photograph book
+CD version of album
+Album digital download code
+
+Limited to 1000 copies
+

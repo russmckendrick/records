@@ -2,7 +2,7 @@
 title: "The Lurkers - Fulham Fallout"
 artist: "The Lurkers"
 album_name: "Fulham Fallout"
-date: 2018-04-25
+date: 2018-04-25T17:47:27.000000Z
 release_id: "11897745"
 slug: "fulham-fallout-11897745"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Ain't Got A Clue
 2. I Don't Need To Tell Her
@@ -28,8 +29,12 @@ styles: ["Punk"]
 12. Gerald
 13. I'm On Heat
 14. Be My Prisoner
+
+
 ## Spotify
 {{< spotify type="album" id="0k6cw6YE0G3jxCGXXTCFyh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="YQPuZfv1PdI" title="I Don't Need to Tell Her" >}}
@@ -59,7 +64,7 @@ styles: ["Punk"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Lurkers - Fulham Fallout](https://www.discogs.com/release/11897745-The-Lurkers-Fulham-Fallout) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album, RSD, Ltd, RE, Gat |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Gatefold, orange) |
 | Catalog Number | BBQLP2 |
 
 RSD 2018

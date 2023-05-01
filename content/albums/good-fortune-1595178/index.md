@@ -2,7 +2,7 @@
 title: "Airborn Audio - Good Fortune"
 artist: "Airborn Audio"
 album_name: "Good Fortune"
-date: 2020-08-01
+date: 2020-08-01T12:46:45.000000Z
 release_id: "1595178"
 slug: "good-fortune-1595178"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Experimental"]
 ---
+
 ## Tracklisting
 1. Monday Through Sunday (4:24)
 2. Brights Lights (2:39)
@@ -29,8 +30,12 @@ styles: ["Abstract", "Experimental"]
 13. Close Your Eyes (2:05)
 14. NYC (3:37)
 15. Trust Me (0:28)
+
+
 ## Spotify
 {{< spotify type="album" id="5snZVQkv2jSiSLc1wWIK8u" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="g6CBFUJaMyY" title="Airborn Audio(M. Sayyid & High Priest) - This Year" >}}
@@ -60,7 +65,11 @@ styles: ["Abstract", "Experimental"]
 | Release Year   | 2004 |
 | Discogs Link   | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178-Airborn-Audio-Good-Fortune) |
 | Label          | Ninja Tune |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ZEN 95 |
 
-Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios. Printed in Canada.  Comes with an 12" photography (photocopy). 
+Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.
+Printed in Canada.
+
+Comes with an 12" photography (photocopy).
+

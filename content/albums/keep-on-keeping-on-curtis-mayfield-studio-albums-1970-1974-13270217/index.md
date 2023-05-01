@@ -2,7 +2,7 @@
 title: "Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
 artist: "Curtis Mayfield"
 album_name: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
-date: 2020-05-27
+date: 2020-05-27T15:16:10.000000Z
 release_id: "13270217"
 slug: "keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
+
 ## Tracklisting
 1. Curtis
 2. (Don’t Worry) If There’s A Hell Below We’re All Going To Go (7:46)
@@ -47,8 +48,12 @@ styles: ["Soul", "Funk"]
 31. Kung Fu (6:02)
 32. Suffer  (4:06)
 33. Make Me Believe In You (5:32)
+
+
 ## Spotify
 {{< spotify type="album" id="0ktLkkDTGRy9bzgAIkaywK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="00_KO4YFaRM" title="Kung Fu (Remastered)" >}}
@@ -58,8 +63,42 @@ styles: ["Soul", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974](https://www.discogs.com/release/13270217-Curtis-Keep-On-Keeping-On-Curtis-Mayfield-Studio-Albums-1970-1974) |
-| Label          | Rhino Records, Curtom, Rhino Records, Curtom |
-| Format         | LP, Album, RE, RM, 180 + LP, Album, RE, RM, 180 +  |
-| Catalog Number | R1 573931 , 603497855797 |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Box Set, All Media Compilation |
+| Catalog Number | R1 573931 |
 
-Record 1: Vocal overdubbing at Record Plant, New York Published by CAMAD MUSIC ℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve  Record 2: Recorded at RCA Studios, Chicago, Illinois ℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics and poster calendar  Record 3: Recorded at Curtom Studios, Chicago ℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Record 4: Recorded at Curtom Studios, Chicago, Illinois ℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Box: This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S. Made in EU.  Round sticker on shrink with The first four funk-soul slabs from the ground-floor layer of the conscious groove. Newly remastered On 180 gram vinyl R1 573931 / 603497855797 
+Record 1:
+Vocal overdubbing at Record Plant, New York
+Published by CAMAD MUSIC
+℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
+Gatefold sleeve
+
+Record 2:
+Recorded at RCA Studios, Chicago, Illinois
+℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
+Gatefold sleeve with lyrics and poster calendar
+
+Record 3:
+Recorded at Curtom Studios, Chicago
+℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
+Gatefold sleeve with lyrics
+
+Record 4:
+Recorded at Curtom Studios, Chicago, Illinois
+℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
+Gatefold sleeve with lyrics
+
+Box:
+This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S.
+Made in EU.
+
+Round sticker on shrink with
+The first four
+funk-soul slabs from
+the ground-floor layer
+of the conscious groove.
+Newly remastered
+On 180 gram
+vinyl
+R1 573931 / 603497855797
+

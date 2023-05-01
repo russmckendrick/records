@@ -2,7 +2,7 @@
 title: "Elliott Smith - Figure 8"
 artist: "Elliott Smith"
 album_name: "Figure 8"
-date: 2017-04-09
+date: 2017-04-09T19:10:14.000000Z
 release_id: "8843169"
 slug: "figure-8-8843169"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Son Of Sam
 2. Somebody That I Used To Know
@@ -32,8 +33,12 @@ styles: ["Acoustic", "Indie Rock"]
 16. I Better Be Quiet Now
 17. Can't Make A Sound
 18. Bye
+
+
 ## Spotify
 {{< spotify type="album" id="7DC0pE943VR5tAKIvQXHts" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="afeAUndotas" title="Elliott Smith - Son Of Sam" >}}
@@ -50,7 +55,21 @@ styles: ["Acoustic", "Indie Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Elliott Smith - Figure 8](https://www.discogs.com/release/8843169-Elliott-Smith-Figure-8) |
 | Label          | Bong Load Records |
-| Format         | LP, Album, Ltd, Num, S/Edition, Cok |
+| Format         | Vinyl LP Album Limited Edition Numbered Special Edition (Coke Bottle Swirl, 180 Gram) |
 | Catalog Number | BL48 |
 
-Bong Load Records 25th anniversary reissue.  Foil stamp numbered out of 2,016. Coke Bottle Swirl vinyl. Includes 11" X 11" insert and sticker. No barcode. Record housed in a black Bong Load round bottom inner sleeve.  The Roost and The Gondola Man are not numbered on the sleeve.  Recorded and mixed [...] at Abbey Road, Capitol, Sunset Sound, and Sonora Studios.  Assistant engineers: at Sunset Sound: Geoff Walcha, Monique Mizrahi at Sonora: Richard Baron at Capitol: Dann Thompson, Steve Genewick, Charlie Paakkari, Jimmy Hoyson at Abbey Road: Paul Hicks
+Bong Load Records 25th anniversary reissue.
+
+Foil stamp numbered out of 2,016. Coke Bottle Swirl vinyl.
+Includes 11" X 11" insert and sticker. No barcode.
+Record housed in a black Bong Load round bottom inner sleeve.
+
+The Roost and The Gondola Man are not numbered on the sleeve.
+
+Recorded and mixed [...] at Abbey Road, Capitol, Sunset Sound, and Sonora Studios.
+
+Assistant engineers:
+at Sunset Sound: Geoff Walcha, Monique Mizrahi
+at Sonora: Richard Baron
+at Capitol: Dann Thompson, Steve Genewick, Charlie Paakkari, Jimmy Hoyson
+at Abbey Road: Paul Hicks

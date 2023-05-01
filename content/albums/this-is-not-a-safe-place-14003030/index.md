@@ -2,7 +2,7 @@
 title: "Ride - This Is Not A Safe Place"
 artist: "Ride"
 album_name: "This Is Not A Safe Place"
-date: 2019-08-16
+date: 2019-08-16T17:13:34.000000Z
 release_id: "14003030"
 slug: "this-is-not-a-safe-place-14003030"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. R.I.D.E.
 2. Future Love
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 10. End Game
 11. Shadows Behind The Sun
 12. In This Room
+
+
 ## Spotify
-{{< spotify type="album" id="6hXYP3ljDTYrudMF9hyuLb" width="100%" height="500" >}}
+{{< spotify type="album" id="5J1t0MUxKrixwW0RuyaBJb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun (2019)" >}}
@@ -38,8 +43,21 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Ride - This Is Not A Safe Place](https://www.discogs.com/release/14003030-Ride-This-Is-Not-A-Safe-Place) |
-| Label          | Wichita, [PIAS] |
-| Format         | 2xLP, Album, Ltd, Gre |
-| Catalog Number | WEBB570LPC, 5055036215701 |
+| Label          | Wichita |
+| Format         | Vinyl 2× LP Album Limited Edition (Green, Translucent) |
+| Catalog Number | WEBB570LPC |
 
-Gatefold sleeve. Embossed lettering on cover. Die cut poly lined inner sleeves and single sided square insert of lyrics and credits. Includes full Album download in mp3 and FLAC.  Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London. Mixed at Assault & Battery, London. Mastered at Metropolis Mastering, London.  [Publicity]: James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.  ℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd. Released under exclusive license to [PIAS] outside of North America.  
+Gatefold sleeve. Embossed lettering on cover.
+Die cut poly lined inner sleeves and single sided square insert of lyrics and credits.
+Includes full Album download in mp3 and FLAC.
+
+Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London.
+Mixed at Assault & Battery, London.
+Mastered at Metropolis Mastering, London.
+
+[Publicity]:
+James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.
+
+℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd.
+Released under exclusive license to [PIAS] outside of North America. 
+

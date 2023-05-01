@@ -2,7 +2,7 @@
 title: "O.R.k. - Ramagehead"
 artist: "O.R.k."
 album_name: "Ramagehead"
-date: 2019-02-25
+date: 2019-02-25T18:35:52.000000Z
 release_id: "13258018"
 slug: "ramagehead-13258018"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Kneel To Nothing
 2. Signals Erased
@@ -23,8 +24,12 @@ styles: ["Art Rock", "Prog Rock"]
 7. Down The Road
 8. Strangled Words
 9. Some Other Rainbow Part 2
+
+
 ## Spotify
 {{< spotify type="album" id="7FgVn9zvqXBLorqffo9573" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rMfs1ph1ZGU" title="O.R.k. - Kneel To Nothing (from Ramagehead)" >}}
@@ -42,7 +47,11 @@ styles: ["Art Rock", "Prog Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [O.R.k. - Ramagehead](https://www.discogs.com/release/13258018-ORk-Ramagehead) |
 | Label          | Kscope |
-| Format         | LP, Album, 180 |
+| Format         | Vinyl LP Album Stereo (180 Gram) |
 | Catalog Number | KSCOPE1014 |
 
-Made in Germany.  Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.  Tracks numbered 1-9 on the back cover and labels.
+Made in Germany.
+
+Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.
+
+Tracks numbered 1-9 on the back cover and labels.

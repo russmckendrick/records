@@ -2,7 +2,7 @@
 title: "Pavement - Slanted And Enchanted"
 artist: "Pavement"
 album_name: "Slanted And Enchanted"
-date: 2022-08-21
+date: 2022-08-21T11:24:05.000000Z
 release_id: "24013337"
 slug: "slanted-and-enchanted-24013337"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Summer Babe (Winter Version)
 2. Trigger Cut / Wounded-Kite At :17
@@ -28,8 +29,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 12. Fame Throwa
 13. Jackals, False Grails: The Lonesome Era
 14. Our Singer
+
+
 ## Spotify
 {{< spotify type="album" id="7o14zVcXSRk7clV6QCEdOD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3cJY0dlzH_g" title="Summer Babe (Winter Version)" >}}
@@ -51,8 +56,10 @@ styles: ["Indie Rock", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Pavement - Slanted And Enchanted](https://www.discogs.com/release/24013337-Pavement-Slanted-And-Enchanted) |
-| Label          | Matador, Matador |
-| Format         | LP, Album, Ltd, RE, RP, Red |
-| Catalog Number | OLE038LP, OLE-038-0 |
+| Label          | Matador |
+| Format         | Vinyl LP Album Limited Edition Reissue Repress (Red w/ White & Black Splatter) |
+| Catalog Number | OLE038LP |
 
-30th Anniversary Red w/ White & Black Splatter Vinyl  Made in Czech Republic
+30th Anniversary Red w/ White & Black Splatter Vinyl
+
+Made in Czech Republic

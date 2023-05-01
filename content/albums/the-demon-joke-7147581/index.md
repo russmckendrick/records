@@ -2,7 +2,7 @@
 title: "Vennart - The Demon Joke"
 artist: "Vennart"
 album_name: "The Demon Joke"
-date: 2015-08-09
+date: 2015-08-09T08:35:59.000000Z
 release_id: "7147581"
 slug: "the-demon-joke-7147581"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Demon Joke by Vennart"
     caption: "The Demon Joke by Vennart"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Two Five Five (3:15)
 2. Doubt (4:13)
@@ -35,6 +36,9 @@ styles: null
 19. Operate (4:45)
 20. Amends (3:33)
 
+
+
+
 ## Videos
 {{< youtube id="Xgc2B6wYilI" title="VENNART - Operate (OFFICIAL VIDEO)" >}}
 - [VENNART - Don't Forget The Joker (Lyric Video)](https://www.youtube.com/watch?v=VDdpyypbaKo)
@@ -45,8 +49,10 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Vennart - The Demon Joke](https://www.discogs.com/release/7147581-Vennart-The-Demon-Joke) |
-| Label          | Superball Music, Superball Music |
-| Format         | LP, Album, 180 + CD, Album |
-| Catalog Number | SBMLP 037, 0507191 |
+| Label          | Superball Music |
+| Format         | Vinyl LP Album (180g, gatefold), CD Album |
+| Catalog Number | SBMLP 037 |
 
-Comes with a gatefold sleeve & 12x12" lyric and credit sheet.  "This record is dedicated to the memory of John Vennart, Marjorie Moorhouse and Rik Mayall."
+Comes with a gatefold sleeve & 12x12" lyric and credit sheet.
+
+"This record is dedicated to the memory of John Vennart, Marjorie Moorhouse and Rik Mayall."

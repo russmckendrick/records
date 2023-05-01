@@ -2,7 +2,7 @@
 title: "Betty Davis - Betty Davis"
 artist: "Betty Davis"
 album_name: "Betty Davis"
-date: 2017-07-15
+date: 2017-07-15T11:32:29.000000Z
 release_id: "10549758"
 slug: "betty-davis-10549758"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk"]
 ---
+
 ## Tracklisting
 1. If I'm In Luck I Might Get Picked Up
 2. Walkin Up The Road
@@ -22,8 +23,12 @@ styles: ["Funk"]
 6. Steppin In Her I. Miller Shoes
 7. Game Is My Middle Name
 8. In The Meantime
+
+
 ## Spotify
 {{< spotify type="album" id="6fNx8ioP99WoRiLidrqrmz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="W8b4hPEN05I" title="If I'm In Luck I Might Get Picked Up" >}}
@@ -40,8 +45,21 @@ styles: ["Funk"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Betty Davis - Betty Davis](https://www.discogs.com/release/10549758-Betty-Davis-Betty-Davis) |
-| Label          | Light In The Attic, Just Sunshine Records |
-| Format         | LP, Album, Club, RE, RM, RP, Sil |
-| Catalog Number | LITA 026, JSS-5 |
+| Label          | Light In The Attic |
+| Format         | Vinyl LP Album Club Edition Reissue Remastered Repress Stereo (Silver & Blue Splatter, 180g) |
+| Catalog Number | LITA 026 |
 
-Sticker: - VMP exclusive reissue - Gatefold, foil-stamped jacket - Remastered from original tapes - 180g silver & blue vinyl  - Liner notes booklet + coloring sheet  Originally released as Just Sunshine Records JSS-5, 1973  Sides referred as Side 1 and Side 2 on the sleeve.  © 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP). Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC. 1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC.
+Sticker:
+- VMP exclusive reissue
+- Gatefold, foil-stamped jacket
+- Remastered from original tapes
+- 180g silver & blue vinyl
+ - Liner notes booklet + coloring sheet
+
+Originally released as Just Sunshine Records JSS-5, 1973
+
+Sides referred as Side 1 and Side 2 on the sleeve.
+
+© 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP).
+Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC.
+1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC.

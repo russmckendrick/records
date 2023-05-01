@@ -2,7 +2,7 @@
 title: "Sparks - Kimono My House"
 artist: "Sparks"
 album_name: "Kimono My House"
-date: 2016-11-16
+date: 2016-11-16T13:03:18.000000Z
 release_id: "2225866"
 slug: "kimono-my-house-2225866"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. This Town Ain't Big Enough For Both Of Us
 2. Amateur Hour
@@ -24,8 +25,12 @@ styles: ["Pop Rock"]
 8. Complaints
 9. In My Family
 10. Equator
+
+
 ## Spotify
 {{< spotify type="album" id="7KOmuu3cbJQEQYGt3XmLmY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BI9gOtRMogY" title="This Town Ain't Big Enough For Both Of Us" >}}
@@ -45,7 +50,13 @@ styles: ["Pop Rock"]
 | Release Year   | 1974 |
 | Discogs Link   | [Sparks - Kimono My House](https://www.discogs.com/release/2225866-Sparks-Kimono-My-House) |
 | Label          | Island Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ILPS 9272 |
 
-Original issue with Island "Palm tree with pink rim" labels, in a fully-laminated sleeve without text on the front, and including a photo/lyric inner sleeve.  Printed in England by Robor Limited.  ℗ 1974 Island Records Ltd  This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record.
+Original issue with Island "Palm tree with pink rim" labels, in a fully-laminated sleeve without text on the front, and including a photo/lyric inner sleeve.
+
+Printed in England by Robor Limited.
+
+℗ 1974 Island Records Ltd
+
+This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record.

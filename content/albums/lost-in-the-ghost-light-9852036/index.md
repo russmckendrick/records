@@ -2,7 +2,7 @@
 title: "Tim Bowness - Lost In The Ghost Light"
 artist: "Tim Bowness"
 album_name: "Lost In The Ghost Light"
-date: 2017-02-18
+date: 2017-02-18T11:14:07.000000Z
 release_id: "9852036"
 slug: "lost-in-the-ghost-light-9852036"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Worlds Of Yesterday (5:41)
 2. Moonshot Manchild (8:58)
@@ -30,8 +31,12 @@ styles: ["Prog Rock"]
 14. Lost In The Ghost Light (1:40)
 15. You Wanted To Be Seen (5:32)
 16. Distant Summers (4:06)
+
+
 ## Spotify
 {{< spotify type="album" id="4G4eepBf68OTJ1JnssD2Oi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}
@@ -42,8 +47,12 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Tim Bowness - Lost In The Ghost Light](https://www.discogs.com/release/9852036-Tim-Bowness-Lost-In-The-Ghost-Light) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | LP, Album, Gol + CD, Album + Ltd, Num |
-| Catalog Number | IOMLP 473, 88985405441 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album (Gold), CD Album, All Media Limited Edition Numbered |
+| Catalog Number | IOMLP 473 |
 
-Gold vinyl + CD in gatefold. Limited to 400 copies. Burning Shed mailorder exclusive including postcard signed by Tim Bowness.  Tracks durations as indicated on release back.
+Gold vinyl + CD in gatefold.
+Limited to 400 copies.
+Burning Shed mailorder exclusive including postcard signed by Tim Bowness.
+
+Tracks durations as indicated on release back.

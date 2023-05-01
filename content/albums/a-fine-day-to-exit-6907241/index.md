@@ -2,7 +2,7 @@
 title: "Anathema - A Fine Day To Exit "
 artist: "Anathema"
 album_name: "A Fine Day To Exit "
-date: 2016-05-11
+date: 2016-05-11T17:08:30.000000Z
 release_id: "6907241"
 slug: "a-fine-day-to-exit-6907241"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. A Fine Day (3:36)
 2. Release (5:40)
@@ -35,8 +36,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 19. A Fine Day To Exit (6:49)
 20. Temporary Peace (12:15)
 21. In The Dog's House (3:01)
+
+
 ## Spotify
 {{< spotify type="album" id="5Z9hJQpO6d7hD1eKVLoYdq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7MmaZ4X_64o" title="Anathema - Pressure" >}}
@@ -47,8 +52,14 @@ styles: ["Prog Rock", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Anathema - A Fine Day To Exit ](https://www.discogs.com/release/6907241-Anathema-A-Fine-Day-To-Exit-) |
-| Label          | Sony Music, Music For Nations |
-| Format         | LP, Album, 180 + CD, Album + RE, RM |
+| Label          | Sony Music |
+| Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
 | Catalog Number | 88875058501 |
 
-Produced for SJP  ℗ 2001 © 2015 Music For Nations. Made in the EU   Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.  On the compact disc, "Temporary Peace" (CD-10.1) lasts until 5:50, followed by the sound of waves, spoken word, and an unlisted hidden song called "In The Dog's House" (CD-10.2) at 12:15. 
+Produced for SJP
+
+℗ 2001 © 2015 Music For Nations. Made in the EU
+
+ Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.
+
+On the compact disc, "Temporary Peace" (CD-10.1) lasts until 5:50, followed by the sound of waves, spoken word, and an unlisted hidden song called "In The Dog's House" (CD-10.2) at 12:15. 

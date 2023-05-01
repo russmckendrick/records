@@ -2,7 +2,7 @@
 title: "Goldfrapp - Supernature"
 artist: "Goldfrapp"
 album_name: "Supernature"
-date: 2021-04-01
+date: 2021-04-01T00:48:15.000000Z
 release_id: "15380160"
 slug: "supernature-15380160"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Ooh La La (3:24)
 2. Lovely 2 C U (3:25)
@@ -25,8 +26,12 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 9. Satin Chic (3:28)
 10. Time Out From The World (4:47)
 11. Number 1 (3:25)
+
+
 ## Spotify
 {{< spotify type="album" id="1R77epa6N8qyWYFCa41S9f" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gzfaJRDfveo" title="Goldfrapp - Number 1" >}}
@@ -39,7 +44,26 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 | Release Year   | 2020 |
 | Discogs Link   | [Goldfrapp - Supernature](https://www.discogs.com/release/15380160-Goldfrapp-Supernature) |
 | Label          | Mute |
-| Format         | LP, Album, Ltd, RE, S/Edition, Gre |
+| Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Green Translucent, Gatefold) |
 | Catalog Number | GSTUMM250 |
 
-On hype sticker: "SUPERNATURE GATEFOLD SPECIAL EDITION TRANSLUCENT GREEN VINYL WITH EXCLUSIVE ART PRINT INCLUDES THE SINGLES: OOH LA LA NUMBER1 RIDE A WHITE HORSE AND FLY ME AWAY GSTUMM250"  ℗ 2020 Mute Records Limited, a BMG Company © 2005 Mute Records Limited, a BMG Company  Made in the EU  Amazon.it were distributing copies from 15/5/20 even though their website advises release date is 14/8/20.  Includes exclusive art print of the original artwork.
+On hype sticker:
+"SUPERNATURE
+GATEFOLD SPECIAL EDITION
+TRANSLUCENT GREEN VINYL
+WITH EXCLUSIVE ART PRINT
+INCLUDES THE SINGLES:
+OOH LA LA
+NUMBER1
+RIDE A WHITE HORSE
+AND FLY ME AWAY
+GSTUMM250"
+
+℗ 2020 Mute Records Limited, a BMG Company
+© 2005 Mute Records Limited, a BMG Company
+
+Made in the EU
+
+Amazon.it were distributing copies from 15/5/20 even though their website advises release date is 14/8/20.
+
+Includes exclusive art print of the original artwork.

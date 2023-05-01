@@ -2,7 +2,7 @@
 title: "Gong - Pulsing Signals"
 artist: "Gong"
 album_name: "Pulsing Signals"
-date: 2022-03-25
+date: 2022-03-25T13:25:44.000000Z
 release_id: "22602818"
 slug: "pulsing-signals-22602818"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
+
 ## Tracklisting
 1. What We Was (Intro) (1:55)
 2. You Can't Kill Me (9:02)
@@ -23,8 +24,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 7. Forever Reoccurring (22:40)
 8. My Sawtooth Wake (12:43)
 9. Insert Yr Own Prophecy (10:32)
+
+
 ## Spotify
 {{< spotify type="album" id="67NH57XjUXzXmAxqZlEHNS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yeqqcbU6Pj0" title="What We Was (intro)" >}}
@@ -43,7 +48,14 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Gong - Pulsing Signals](https://www.discogs.com/release/22602818-Gong-Pulsing-Signals) |
 | Label          | Kscope |
-| Format         | 2xLP |
+| Format         | Vinyl 2× LP |
 | Catalog Number | Kscope1143 |
 
-Comes with foldout sleeve and cardboard inner sleeves  Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi [Hype sticker:] "Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"  (C) 2022 Gong (P) 2022 Gongband.com 
+Comes with foldout sleeve and cardboard inner sleeves
+
+Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi
+[Hype sticker:]
+"Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"
+
+(C) 2022 Gong (P) 2022 Gongband.com
+

@@ -1,18 +1,19 @@
 ---
-title: "Massive Attack V Mad Professor - No Protection"
-artist: "Massive Attack V Mad Professor"
+title: "Massive Attack - No Protection"
+artist: "Massive Attack"
 album_name: "No Protection"
-date: 2017-04-29
+date: 2017-04-29T12:04:03.000000Z
 release_id: "9442827"
 slug: "no-protection-9442827"
 hideSummary: true
 cover:
     image: "no-protection-9442827.jpg"
-    alt: "No Protection by Massive Attack V Mad Professor"
-    caption: "No Protection by Massive Attack V Mad Professor"
+    alt: "No Protection by Massive Attack"
+    caption: "No Protection by Massive Attack"
 genres: ["Electronic", "Reggae"]
 styles: ["Downtempo", "Dub", "Trip Hop"]
 ---
+
 ## Tracklisting
 1. Radiation Ruling The Nation (Protection) (8:35)
 2. Bumper Ball Dub (Karmacoma) (5:59)
@@ -23,22 +24,27 @@ styles: ["Downtempo", "Dub", "Trip Hop"]
 7. I Spy (Spying Glass) (5:07)
 8. Backward Sucking (Heat Miser) (6:16)
 
-## Videos
-{{< youtube id="0jhu90ERUoM" title="Radiation Ruling The Nation (Protection)" >}}
-- [Karmacoma](https://www.youtube.com/watch?v=66b86wIAlAU)
-- [Trinity Dub (Three)](https://www.youtube.com/watch?v=LMuT29V61GQ)
-- [Cool Monsoon (Weather Storm)](https://www.youtube.com/watch?v=tq5w7Kqc7as)
-- [Moving Dub (Better Things)](https://www.youtube.com/watch?v=WuAMrGD82kQ)
-- [I Spy (Spying Glass)](https://www.youtube.com/watch?v=PLvFCRzL79Y)
-- [Backward Sucking (Heat Miser)](https://www.youtube.com/watch?v=xxRnd7kkIJ4)
+
+## Spotify
+{{< spotify type="album" id="31m3CasBlRFcf8exTSkM1r" width="100%" height="500" >}}
+
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Massive Attack V Mad Professor - No Protection](https://www.discogs.com/release/9442827-Massive-Attack-V-Mad-Professor-No-Protection) |
-| Label          | Virgin, Virgin |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | 5700963, 00602557009637 |
+| Discogs Link   | [Massive Attack - No Protection](https://www.discogs.com/release/9442827-Massive-Attack-V-Mad-Professor-No-Protection) |
+| Label          | Virgin |
+| Format         | Vinyl LP Album Reissue (180 gram) |
+| Catalog Number | 5700963 |
 
-A Mad Professor dub version of Massive Attack's [ "Protection"](http://www.discogs.com/Massive-Attack-Protection/master/32634) album.   ℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Track duration not mentioned on record/sleeve.  Includes a download card for the album on l[ossless digital WAV/PCM files](https://www.discogs.com/release/9665728). 
+A Mad Professor dub version of Massive Attack's [url=http://www.discogs.com/Massive-Attack-Protection/master/32634] "Protection"[/url] album.
+
+
+℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.
+
+Track duration not mentioned on record/sleeve.
+
+Includes a download card for the album on l[url=https://www.discogs.com/release/9665728]ossless digital WAV/PCM files[/url].
+

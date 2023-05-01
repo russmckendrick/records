@@ -2,7 +2,7 @@
 title: "Tori Handsley - As We Stand"
 artist: "Tori Handsley"
 album_name: "As We Stand"
-date: 2021-02-12
+date: 2021-02-12T06:46:03.000000Z
 release_id: "17371642"
 slug: "as-we-stand-17371642"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Contemporary Jazz"]
 ---
+
 ## Tracklisting
 1. Rivers Of Mind (4:14)
 2. Convolution (5:00)
@@ -24,8 +25,12 @@ styles: ["Contemporary Jazz"]
 8. As We Stand (5:19)
 9. Kestrel (6:50)
 10. What's In A Tune (6:07)
+
+
 ## Spotify
 {{< spotify type="album" id="5imbMBaEeWCWiQJtNgo2vg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="m1xqC2ohGxc" title="As We Stand" >}}
@@ -46,7 +51,9 @@ styles: ["Contemporary Jazz"]
 | Release Year   | 2020 |
 | Discogs Link   | [Tori Handsley - As We Stand](https://www.discogs.com/release/17371642-Tori-Handsley-As-We-Stand) |
 | Label          | Cadillac Records |
-| Format         | 2x12\", Album, Gat |
+| Format         | Vinyl 2× 12" Album (Gatefold) |
 | Catalog Number | SGCLP019 |
 
-Gatefold double vinyl - strictly limited edition of 500  
+Gatefold double vinyl - strictly limited edition of 500
+
+

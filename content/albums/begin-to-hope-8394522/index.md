@@ -2,7 +2,7 @@
 title: "Regina Spektor - Begin To Hope"
 artist: "Regina Spektor"
 album_name: "Begin To Hope"
-date: 2016-05-10
+date: 2016-05-10T16:18:30.000000Z
 release_id: "8394522"
 slug: "begin-to-hope-8394522"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Fidelity (3:47)
 2. Better (3:22)
@@ -36,8 +37,12 @@ styles: ["Indie Pop"]
 20. Bartender (3:12)
 21. Baby Jesus (2:43)
 22. Better (Radio Recut) (3:12)
+
+
 ## Spotify
 {{< spotify type="album" id="0ssMZRCnobXKQXjQ2R5A5a" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tHAhnJbGy9M" title="Regina Spektor - On The Radio [Official Music Video]" >}}
@@ -53,7 +58,10 @@ styles: ["Indie Pop"]
 | Release Year   | 2016 |
 | Discogs Link   | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522-Regina-Spektor-Begin-To-Hope) |
 | Label          | Sire |
-| Format         | 2xLP, Album, RSD, Ltd, 10t |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition (10th Anniversary Edition, Gatefold) |
 | Catalog Number | 553891-1 |
 
-10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies.
+10th Anniversary Limited Edition 2-LP Set
+Bonus LP Features 10 Additional Tracks.
+
+Record Store Day Release 2016. Limited to 3,000 copies.

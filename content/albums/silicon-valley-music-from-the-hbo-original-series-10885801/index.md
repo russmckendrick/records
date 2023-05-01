@@ -2,7 +2,7 @@
 title: "Various - Silicon Valley (Music From The HBO Original Series)"
 artist: "Various"
 album_name: "Silicon Valley (Music From The HBO Original Series)"
-date: 2017-09-23
+date: 2017-09-23T15:54:11.000000Z
 release_id: "10885801"
 slug: "silicon-valley-music-from-the-hbo-original-series-10885801"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Stage & Screen"]
 styles: ["Hip Hop", "Trap", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. Stretch Your Face
 2. Systematic
@@ -29,8 +30,12 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 13. Problem Child
 14. Blown
 15. Walking On Sunshine
+
+
 ## Spotify
 {{< spotify type="album" id="3ZoWd2dvTef0tPQ7S3V5c0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="AohtHrfgiBo" title="Wu-Tang Clan - Don't Stop (Explicit) 2017" >}}
@@ -50,8 +55,10 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Silicon Valley (Music From The HBO Original Series)](https://www.discogs.com/release/10885801-Various-Silicon-Valley-Music-From-The-HBO-Original-Series) |
-| Label          | HBO, Mass Appeal |
-| Format         | LP, Album, Comp, Red |
+| Label          | HBO |
+| Format         | Vinyl LP Album Compilation (Red Translucent) |
 | Catalog Number | MSAP 0043LP |
 
-Red Vinyl Pressing of Original Soundtrack  Poster insert and digital download card included.
+Red Vinyl Pressing of Original Soundtrack
+
+Poster insert and digital download card included.

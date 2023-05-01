@@ -2,7 +2,7 @@
 title: "Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack Volume 2)"
 artist: "Paul Haslinger"
 album_name: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2)"
-date: 2019-04-19
+date: 2019-04-19T12:56:36.000000Z
 release_id: "13493939"
 slug: "halt-and-catch-fire-original-television-series-soundtrack-volume-2-13493939"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ---
+
 ## Tracklisting
 1. Mosaic
 2. Cameron's Motorcycle Diaries
@@ -28,6 +29,9 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 12. Dreamers And Misfits
 13. It Worked For Awhile / Cam And Joe
 14. I Have An Idea
+
+
+
 
 ## Videos
 {{< youtube id="fi4_G2nB_-s" title="Mosaic" >}}
@@ -51,7 +55,9 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 | Release Year   | 2019 |
 | Discogs Link   | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack Volume 2)](https://www.discogs.com/release/13493939-Paul-Haslinger-Halt-And-Catch-Fire-Original-Television-Series-Soundtrack-Volume-2) |
 | Label          | Lakeshore Records |
-| Format         | LP, Album, Ltd |
+| Format         | Vinyl LP Album Limited Edition |
 | Catalog Number | FROST007LPX |
 
-Record Store Day 2019 exclusive release  Gate-fold sleeve inside a die-cut comet outer sleeve
+Record Store Day 2019 exclusive release
+
+Gate-fold sleeve inside a die-cut comet outer sleeve

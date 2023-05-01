@@ -2,7 +2,7 @@
 title: "Al Green - Greatest Hits"
 artist: "Al Green"
 album_name: "Greatest Hits"
-date: 2018-08-07
+date: 2018-08-07T17:48:06.000000Z
 release_id: "7687375"
 slug: "greatest-hits-7687375"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Tired Of Being Alone  (2:43)
 2. Call Me (Come Back Home) (3:04)
@@ -24,8 +25,12 @@ styles: ["Soul"]
 8. You Ought To Be With Me (3:20)
 9. Look What You Done For Me (3:06)
 10. Let's Get Married  (3:23)
+
+
 ## Spotify
 {{< spotify type="album" id="6W0V8B0fJItvOwC8v114rZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}
@@ -45,8 +50,8 @@ styles: ["Soul"]
 | ---------------| ----------- |
 | Release Year   | 0 |
 | Discogs Link   | [Al Green - Greatest Hits](https://www.discogs.com/release/7687375-Al-Green-Greatest-Hits) |
-| Label          | Fat Possum Records, Hi Records |
-| Format         | LP, Comp, RE |
+| Label          | Fat Possum Records |
+| Format         | Vinyl LP Compilation Reissue |
 | Catalog Number | FPH1135-1 |
 
 Comes with a download code, redeemable via Memphis Vinyl's website.

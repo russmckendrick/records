@@ -1,18 +1,19 @@
 ---
-title: "XTC As The Dukes Of Stratosphear - Psonic Psunspot"
-artist: "XTC As The Dukes Of Stratosphear"
+title: "XTC - Psonic Psunspot"
+artist: "XTC"
 album_name: "Psonic Psunspot"
-date: 2019-11-02
+date: 2019-11-02T09:25:09.000000Z
 release_id: "14345180"
 slug: "psonic-psunspot-14345180"
 hideSummary: true
 cover:
     image: "psonic-psunspot-14345180.jpg"
-    alt: "Psonic Psunspot by XTC As The Dukes Of Stratosphear"
-    caption: "Psonic Psunspot by XTC As The Dukes Of Stratosphear"
+    alt: "Psonic Psunspot by XTC"
+    caption: "Psonic Psunspot by XTC"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Vanishing Girl (3:00)
 2. Have You Seen Jackie? (3:20)
@@ -25,6 +26,9 @@ styles: ["Psychedelic Rock"]
 9. The Affiliated (2:30)
 10. Pale And Precious (4:53)
 
+
+
+
 ## Videos
 {{< youtube id="0bbqezgfqD8" title="The Dukes Of Stratosphear - Vanishing Girl" >}}
 - [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
@@ -36,9 +40,22 @@ styles: ["Psychedelic Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2019 |
-| Discogs Link   | [XTC As The Dukes Of Stratosphear - Psonic Psunspot](https://www.discogs.com/release/14345180-XTC-As-The-Dukes-Of-Stratosphear-Psonic-Psunspot) |
+| Discogs Link   | [XTC - Psonic Psunspot](https://www.discogs.com/release/14345180-XTC-As-The-Dukes-Of-Stratosphear-Psonic-Psunspot) |
 | Label          | Ape House |
-| Format         | LP, Album, RE, RP, Gat |
+| Format         | Vinyl LP Album Reissue Repress Stereo (Gatefold, 200 Gram) |
 | Catalog Number | APELP024 |
 
-This reissue is a repress of the 2010 release [r=2770110], cut by [a=John Dent]. This release was originally marketed as a new cut from [a501967], but they found and used the previously used plates.  Back cover: All songs by Andy Partridge as SIR JOHN JOHNS except A1, B2, B4 by Colin Moulding as THE RED CURTAIN ℗ 2019 Ape House Ltd. © 2019 Ape House Ltd. Made In England  On labels: ℗ 2019 Ape House Ltd. © 2019 Ape House Ltd.  No track times on this issue.  Some copies issued with a colour-printed polylined inner sleeve with bevelled corners, showing XTC back catalogue on one side and some more APE releases on the other side.  Recorded at Sawmill Studios, Cornwall. Mastered [...] at Loud Mastering.
+This reissue is a repress of the 2010 release [r=2770110], cut by [a=John Dent]. This release was originally marketed as a new cut from [a501967], but they found and used the previously used plates.
+
+Back cover:
+All songs by Andy Partridge as SIR JOHN JOHNS except A1, B2, B4 by Colin Moulding as THE RED CURTAIN
+℗ 2019 Ape House Ltd. © 2019 Ape House Ltd. Made In England
+
+On labels:
+℗ 2019 Ape House Ltd. © 2019 Ape House Ltd.
+
+No track times on this issue.
+
+Some copies issued with a colour-printed polylined inner sleeve with bevelled corners, showing XTC back catalogue on one side and some more APE releases on the other side.
+
+Recorded at Sawmill Studios, Cornwall. Mastered [...] at Loud Mastering.

@@ -2,7 +2,7 @@
 title: "Pink Floyd - Animals (2018 Remix)"
 artist: "Pink Floyd"
 album_name: "Animals (2018 Remix)"
-date: 2022-10-07
+date: 2022-10-07T06:54:53.000000Z
 release_id: "24735206"
 slug: "animals-2018-remix-24735206"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Pigs On The Wing 1 (1:25)
 2. Dogs (17:06)
@@ -60,19 +61,37 @@ styles: ["Prog Rock"]
 44. Pigs (Three Different Ones) (11:26)
 45. Sheep (10:18)
 46. Pigs On The Wing 2 (1:34)
+
+
 ## Spotify
 {{< spotify type="album" id="0Unhg884FzoZhVWyrMvtAG" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="D4KQae9oMWs" title="Pink Floyd - Animals (Full Album) 1977" >}}
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Pink Floyd - Animals (2018 Remix)](https://www.discogs.com/release/24735206-Pink-Floyd-Animals-2018-Remix) |
-| Label          | Pink Floyd Records, Pink Floyd Records |
-| Format         | Box, Dlx, Ltd + LP, Album, RE + CD, Album, RE + Bl |
-| Catalog Number | PFR28D, 0190295599577 |
+| Label          | Pink Floyd Records |
+| Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo, CD Album Reissue Stereo, Blu-ray Album Reissue Remastered Stereo Multichannel, DVD DVD-Video Multichannel Album Reissue Remastered Stereo |
+| Catalog Number | PFR28D |
 
-Original UK release date: January 1977.  Box set with 32-page book. Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front  Blu-Ray Audio Mixes: 2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA  DVD Audio Mixes: 2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM) 2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps. 1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)  Made in The Netherlands on back of box. CD made in Germany Blu-ray and DVD made in Japan
+Original UK release date: January 1977.
+
+Box set with 32-page book.
+Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front
+
+Blu-Ray Audio Mixes:
+2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA
+2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA
+1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA
+
+DVD Audio Mixes:
+2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM)
+2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps.
+1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)
+
+Made in The Netherlands on back of box.
+CD made in Germany
+Blu-ray and DVD made in Japan

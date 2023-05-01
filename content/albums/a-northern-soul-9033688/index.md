@@ -2,7 +2,7 @@
 title: "The Verve - A Northern Soul"
 artist: "The Verve"
 album_name: "A Northern Soul"
-date: 2016-10-15
+date: 2016-10-15T11:13:55.000000Z
 release_id: "9033688"
 slug: "a-northern-soul-9033688"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. A New Decade
 2. This Is Music
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. Life's An Ocean
 11. Stormy Clouds
 12. (Reprise)
+
+
 ## Spotify
 {{< spotify type="album" id="4V8NUW8yUln846aiOZ8ANR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PgsPAsno4OU" title="The Verve - This Is Music" >}}
@@ -48,8 +53,11 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [The Verve - A Northern Soul](https://www.discogs.com/release/9033688-The-Verve-A-Northern-Soul) |
-| Label          | Virgin EMI Records, Universal UMC |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Label          | Virgin EMI Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
 | Catalog Number | 4786539 |
 
-Originally released 1995 as [HUTLP27](https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054). Includes printed innersleeves.  Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media.
+Originally released 1995 as [url=https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054]HUTLP27[/url].
+Includes printed innersleeves.
+
+Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media.

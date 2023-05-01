@@ -2,7 +2,7 @@
 title: "Teenage Fanclub - Bandwagonesque"
 artist: "Teenage Fanclub"
 album_name: "Bandwagonesque"
-date: 2016-06-21
+date: 2016-06-21T16:38:04.000000Z
 release_id: "8667450"
 slug: "bandwagonesque-8667450"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. The Concept
 2. Satan
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Alcoholiday
 11. Guiding Star
 12. Is This Music?
+
+
 ## Spotify
 {{< spotify type="album" id="4M6vPZ4hQdOeH07D0JO2JQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xw49UgKoZnQ" title="Teenage Fanclub - Star Sign" >}}
@@ -40,7 +45,7 @@ styles: ["Alternative Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Teenage Fanclub - Bandwagonesque](https://www.discogs.com/release/8667450-Teenage-Fanclub-Bandwagonesque) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, RP, Pin |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Pink, 180-gram, Gatefold) |
 | Catalog Number | MOVLP336 |
 
 Limited to 500 numbered copies

@@ -2,7 +2,7 @@
 title: "Fiona Apple - Tidal"
 artist: "Fiona Apple"
 album_name: "Tidal"
-date: 2017-05-16
+date: 2017-05-16T18:15:12.000000Z
 release_id: "10241165"
 slug: "tidal-10241165"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Sleep To Dream (4:08)
 2. Sullen Girl (3:54)
@@ -24,8 +25,12 @@ styles: ["Soft Rock", "Pop Rock"]
 8. The Child Is Gone (4:14)
 9. Pale September (5:50)
 10. Carrion (5:43)
+
+
 ## Spotify
 {{< spotify type="album" id="5gVBXH8MT6zfdRkjp7qT18" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uiuk0z8dzXo" title="Fiona Apple - The First Taste" >}}
@@ -39,8 +44,17 @@ styles: ["Soft Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Fiona Apple - Tidal](https://www.discogs.com/release/10241165-Fiona-Apple-Tidal) |
-| Label          | Epic, Clean Slate, Sony Music Commercial Music Group |
-| Format         | 2xLP, Album, Club, RE, RM, 180 |
+| Label          | Epic |
+| Format         | Vinyl 2× LP 45 RPM Album Club Edition Reissue Remastered (180 gram) |
 | Catalog Number | 88985420001 |
 
-Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet. www.vinylmeplease.com/products/fiona-full  © 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles Mixed at Brooklyn Recording Studio, Los Angeles [...] Production Coordinator: Valerie Pack for Harvest Moon Productions  All songs [...] © 1996 FHW Publishing (ASCAP)
+Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet.
+www.vinylmeplease.com/products/fiona-full
+
+© 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment
+
+Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles
+Mixed at Brooklyn Recording Studio, Los Angeles [...]
+Production Coordinator: Valerie Pack for Harvest Moon Productions
+
+All songs [...] © 1996 FHW Publishing (ASCAP)

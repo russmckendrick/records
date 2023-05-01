@@ -2,7 +2,7 @@
 title: "Johnny Cash - The Legend Of Johnny Cash"
 artist: "Johnny Cash"
 album_name: "The Legend Of Johnny Cash"
-date: 2015-08-09
+date: 2015-08-09T08:38:25.000000Z
 release_id: "6185046"
 slug: "the-legend-of-johnny-cash-6185046"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Ring Of Fire
 2. I Walk The Line
@@ -37,13 +38,20 @@ styles: ["Acoustic", "Country Rock"]
 21. Hurt
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Johnny Cash - The Legend Of Johnny Cash](https://www.discogs.com/release/6185046-Johnny-Cash-The-Legend-Of-Johnny-Cash) |
-| Label          | Island Records, American Recordings, Columbia, Legacy |
-| Format         | 2xLP, Comp, 180 |
+| Label          | Island Records |
+| Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
 | Catalog Number | 00602537952168 |
 
-Includes voucher to download an MP3 version of the album. Gatefold cover.  ℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment. Made in the EU 
+Includes voucher to download an MP3 version of the album.
+Gatefold cover.
+
+℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment.
+Made in the EU
+

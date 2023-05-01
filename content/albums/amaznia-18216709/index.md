@@ -2,7 +2,7 @@
 title: "Jean-Michel Jarre - Amazônia"
 artist: "Jean-Michel Jarre"
 album_name: "Amazônia"
-date: 2021-07-04
+date: 2021-07-04T09:10:24.000000Z
 release_id: "18216709"
 slug: "amaznia-18216709"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Field Recording"]
 ---
+
 ## Tracklisting
 1. Amazônia (Part 1) (7:42)
 2. Amazônia (Part 2) (9:59)
@@ -23,8 +24,12 @@ styles: ["Ambient", "Field Recording"]
 7. Amazônia (Part 7) (4:18)
 8. Amazônia (Part 8) (3:19)
 9. Amazônia (Part 9) (6:23)
+
+
 ## Spotify
 {{< spotify type="album" id="2mRfJ0KfCZGw2aumg53EUi" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="A1EmGAAmy34" title="Amazônia, Pt. 1" >}}
@@ -51,8 +56,13 @@ styles: ["Ambient", "Field Recording"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Jean-Michel Jarre - Amazônia](https://www.discogs.com/release/18216709-Jean-Michel-Jarre-Amaz%C3%B4nia) |
-| Label          | Columbia, Sony Music |
-| Format         | LP + LP, S/Sided + Album |
+| Label          | Columbia |
+| Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Stereo |
 | Catalog Number | 19439845051 |
 
-180gr + wav 5.1 and wav Binaural download code  Sleeve gatefold  Made in the EU. 
+180gr + wav 5.1 and wav Binaural download code
+
+Sleeve gatefold
+
+Made in the EU.
+

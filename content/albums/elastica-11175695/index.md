@@ -2,7 +2,7 @@
 title: "Elastica - Elastica"
 artist: "Elastica"
 album_name: "Elastica"
-date: 2017-11-22
+date: 2017-11-22T20:15:07.000000Z
 release_id: "11175695"
 slug: "elastica-11175695"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Line Up
 2. Annie
@@ -30,8 +31,12 @@ styles: ["Alternative Rock", "Britpop"]
 14. Never Here
 15. Stutter
 16. In The City
+
+
 ## Spotify
-{{< spotify type="album" id="00MAXeszCotk3g9q8KYJlZ" width="100%" height="500" >}}
+{{< spotify type="album" id="3Bsq4ECSzsqgsfLnugjS3j" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="g7Y7vH2XsAM" title="Elastica - Line Up" >}}
@@ -54,7 +59,15 @@ styles: ["Alternative Rock", "Britpop"]
 | Release Year   | 2017 |
 | Discogs Link   | [Elastica - Elastica](https://www.discogs.com/release/11175695-Elastica-Elastica) |
 | Label          | Rough Trade |
-| Format         | LP, Album, RE + Flexi, 7\", S/Sided + Ltd |
+| Format         | Vinyl LP Album Reissue, Flexi-disc 7" 45 RPM Single Sided, All Media Limited Edition |
 | Catalog Number | RTRADLP914 |
 
-Release comes with flexi-disc, and replica of Elasticatalogue.  "In The City" credits: Published by EMI Music Publishing Recorded 16 March 1994 for the BBC Radio One Steve Lamacq Evening Session released with arrangement with BBC Music. P 1994 BBC Music C 2017 Rough Trade Records
+Release comes with flexi-disc, and replica of Elasticatalogue.
+
+"In The City" credits:
+Published by EMI Music Publishing
+Recorded 16 March 1994 for the BBC Radio One
+Steve Lamacq Evening Session
+released with arrangement with BBC Music.
+P 1994 BBC Music
+C 2017 Rough Trade Records

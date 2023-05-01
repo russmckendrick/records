@@ -2,7 +2,7 @@
 title: "Sonic Youth - Goo"
 artist: "Sonic Youth"
 album_name: "Goo"
-date: 2016-01-23
+date: 2016-01-23T14:26:11.000000Z
 release_id: "655290"
 slug: "goo-655290"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. The Original Album (Released 06.26.90)
 2. Dirty Boots (5:29)
@@ -49,21 +50,12 @@ styles: ["Alternative Rock", "Experimental"]
 33. Can Song (3:17)
 34. Isaac (2:36)
 35. Goo Interview Flexi (6:03)
+
+
 ## Spotify
 {{< spotify type="album" id="5iYYQwB0oH9FVyVlaOXZdr" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="7XdYnh729IQ" title="Sonic Youth - Dirty Boots (Official Music Video)" >}}
-- [Sonic Youth - Tunic (Song For Karen)](https://www.youtube.com/watch?v=reSOp1domrU)
-- [Sonic Youth - Mary-Christ](https://www.youtube.com/watch?v=fcCzEB_-NTs)
-- [Sonic Youth - Kool Thing (Official Music Video)](https://www.youtube.com/watch?v=SDTSUwIZdMk)
-- [Sonic Youth - Mote](https://www.youtube.com/watch?v=-wZNu3v4jh8)
-- [Sonic Youth - My Friend Goo](https://www.youtube.com/watch?v=kfwIFTsx8WE)
-- [Sonic Youth - Disappearer](https://www.youtube.com/watch?v=Y8MFqJ22kSs)
-- [Sonic Youth - Mildred Pierce](https://www.youtube.com/watch?v=3-jp4hk7VIU)
-- [Sonic Youth - Cinderella's Big Score](https://www.youtube.com/watch?v=xi3ZPT9iSNo)
-- [Sonic Youth - Scooter And Jinx](https://www.youtube.com/watch?v=W69cTdiDSwQ)
-- [Sonic Youth - Titanium Expose](https://www.youtube.com/watch?v=1lWwdpBeZd0)
+
 
 ## Notes
 | Notes          |             |
@@ -71,7 +63,18 @@ styles: ["Alternative Rock", "Experimental"]
 | Release Year   | 2005 |
 | Discogs Link   | [Sonic Youth - Goo](https://www.discogs.com/release/655290-Sonic-Youth-Goo) |
 | Label          | Goofin' Records |
-| Format         | 2xLP, Album, RE, RM + 2xLP, RM + Box |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Remastered, Box Set |
 | Catalog Number | GOO-07 |
 
-"That's All I Know (Right Now)" originally recorded by Neon Boys. "I Know There's an Answer" originally recorded by The Beach Boys. A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990. D2, H3 recorded at Wharton Tier's Studio, 1990. D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990. D4 recorded at Sorcerer Sound, NYC, 1990 D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989. E1 to H1 recorded at Waterworks, NYC, Nov 1989.  Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.  16-page printed color booklet, photographic inner sleeves.
+"That's All I Know (Right Now)" originally recorded by Neon Boys.
+"I Know There's an Answer" originally recorded by The Beach Boys.
+A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990.
+D2, H3 recorded at Wharton Tier's Studio, 1990.
+D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990.
+D4 recorded at Sorcerer Sound, NYC, 1990
+D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989.
+E1 to H1 recorded at Waterworks, NYC, Nov 1989.
+
+Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.
+
+16-page printed color booklet, photographic inner sleeves.

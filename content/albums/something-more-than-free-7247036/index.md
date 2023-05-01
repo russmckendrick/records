@@ -2,7 +2,7 @@
 title: "Jason Isbell - Something More Than Free"
 artist: "Jason Isbell"
 album_name: "Something More Than Free"
-date: 2016-02-21
+date: 2016-02-21T12:08:45.000000Z
 release_id: "7247036"
 slug: "something-more-than-free-7247036"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Something More Than Free by Jason Isbell"
     caption: "Something More Than Free by Jason Isbell"
 genres: ["Rock", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. If It Takes A Lifetime
 2. 24 Frames
@@ -25,8 +26,12 @@ styles: null
 9. Hudson Commodore
 10. Palmetto Rose
 11. To A Band That I Loved
+
+
 ## Spotify
 {{< spotify type="album" id="1foB2t5YmfC6PxIC31g5Cp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZtgPeNKpnyw" title="Jason Isbell - 24 Frames (Lyric Video)" >}}
@@ -36,8 +41,15 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Jason Isbell - Something More Than Free](https://www.discogs.com/release/7247036-Jason-Isbell-Something-More-Than-Free) |
-| Label          | Southeastern Records |
-| Format         | 2xLP, Album |
+| Label          | Southeastern Records (2) |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | SER99861 |
 
-Recorded at Sound Emporium Studio, Nashville, TN Additional recording and mixing at Low Country Sound  © and ℗ 2015 Southeastern Records   Tracks are listed sequentially from Track 1 to Track 11 on back cover of album.  Including download voucher (256 kbps MP3).
+Recorded at Sound Emporium Studio, Nashville, TN
+Additional recording and mixing at Low Country Sound
+
+© and ℗ 2015 Southeastern Records 
+
+Tracks are listed sequentially from Track 1 to Track 11 on back cover of album.
+
+Including download voucher (256 kbps MP3).

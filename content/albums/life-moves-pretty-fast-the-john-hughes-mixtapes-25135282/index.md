@@ -2,7 +2,7 @@
 title: "Various - Life Moves Pretty Fast: The John Hughes Mixtapes"
 artist: "Various"
 album_name: "Life Moves Pretty Fast: The John Hughes Mixtapes"
-date: 2022-11-12
+date: 2022-11-12T02:26:14.000000Z
 release_id: "25135282"
 slug: "life-moves-pretty-fast-the-john-hughes-mixtapes-25135282"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle Pop", "Latin", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Kajagoogoo (Instrumental)
 2. Don't You (Forget About Me)
@@ -88,6 +89,9 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 72. Turning Japanese
 73. Red River Rock
 
+
+
+
 ## Videos
 {{< youtube id="nRp5WuZgvDM" title="Life Moves Pretty Fast - The John Hughes Mixtapes Trailer" >}}
 
@@ -96,8 +100,25 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Various - Life Moves Pretty Fast: The John Hughes Mixtapes](https://www.discogs.com/release/25135282-Various-Life-Moves-Pretty-Fast-The-John-Hughes-Mixtapes) |
-| Label          | Demon Records, Hughes Music |
-| Format         | 6xLP, Comp, Tra + Box |
+| Label          | Demon Records |
+| Format         | Vinyl 6× LP Compilation (Translucent Red ), Box Set |
 | Catalog Number | DEMRECBOX71 |
 
-Manufactured in the EU  6-LP, 140gm, translucent red vinyl box set  73 tracks featured in the following John Hughes films: National Lampoon's Vacation Sixteen Candles The Breakfast Club Weird Science Pretty In Pink Ferris Bueller's Day Off Some Kind of Wonderful Planes, Trains & Automobiles She's Having A Baby The Great Outdoors Uncle Buck  Includes 24-pg booklet with extensive liner notes and other commentary. 
+Manufactured in the EU
+
+6-LP, 140gm, translucent red vinyl box set
+
+73 tracks featured in the following John Hughes films:
+National Lampoon's Vacation
+Sixteen Candles
+The Breakfast Club
+Weird Science
+Pretty In Pink
+Ferris Bueller's Day Off
+Some Kind of Wonderful
+Planes, Trains & Automobiles
+She's Having A Baby
+The Great Outdoors
+Uncle Buck
+
+Includes 24-pg booklet with extensive liner notes and other commentary. 

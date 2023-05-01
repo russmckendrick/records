@@ -2,7 +2,7 @@
 title: "Sparks - The Best & The Rest Of The Island Years 74-78"
 artist: "Sparks"
 album_name: "The Best & The Rest Of The Island Years 74-78"
-date: 2018-05-05
+date: 2018-05-05T10:12:53.000000Z
 release_id: "11894228"
 slug: "the-best-the-rest-of-the-island-years-74-78-11894228"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
+
 ## Tracklisting
 1. This Town Ain't Big Enough (3:04)
 2. Hasta Mañana Monsieur (3:49)
@@ -39,6 +40,9 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 23. Looks Aren't Everything (3:26)
 24. Tearing The Place Apart (3:37)
 
+
+
+
 ## Videos
 {{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}
 
@@ -48,7 +52,10 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 | Release Year   | 2018 |
 | Discogs Link   | [Sparks - The Best & The Rest Of The Island Years 74-78](https://www.discogs.com/release/11894228-Sparks-The-Best-The-Rest-Of-The-Island-Years-74-78) |
 | Label          | Island Records |
-| Format         | 2xLP, RSD, Comp, Ltd, RM, Red |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Remastered (Red Translucent) |
 | Catalog Number | 6702244 |
 
-Limited edition Record Store Day 2018 release in gatefold sleeve. Remastered from the original tapes  Includes download code card.
+Limited edition Record Store Day 2018 release in gatefold sleeve.
+Remastered from the original tapes
+
+Includes download code card.

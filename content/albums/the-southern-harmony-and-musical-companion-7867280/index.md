@@ -2,7 +2,7 @@
 title: "The Black Crowes - The Southern Harmony And Musical Companion"
 artist: "The Black Crowes"
 album_name: "The Southern Harmony And Musical Companion"
-date: 2015-12-19
+date: 2015-12-19T11:37:19.000000Z
 release_id: "7867280"
 slug: "the-southern-harmony-and-musical-companion-7867280"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Sting Me (4:40)
 2. Remedy (5:23)
@@ -24,14 +25,18 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 8. No Speak No Slave (4:02)
 9. My Morning Song (6:15)
 10. Time Will Tell (4:08)
+
+
 ## Spotify
 {{< spotify type="album" id="4hVgzAM4i3dPdhZQki9cKk" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="OaH9wIQDUwE" title="The Black Crowes - Sting Me" >}}
-- [The Black Crowes - Remedy](https://www.youtube.com/watch?v=BYyRLTveFJQ)
-- [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
+{{< youtube id="BYyRLTveFJQ" title="The Black Crowes - Remedy" >}}
 - [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
+- [The Black Crowes - Sting Me](https://www.youtube.com/watch?v=OaH9wIQDUwE)
+- [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
 
 ## Notes
 | Notes          |             |
@@ -39,7 +44,13 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [The Black Crowes - The Southern Harmony And Musical Companion](https://www.discogs.com/release/7867280-The-Black-Crowes-The-Southern-Harmony-And-Musical-Companion) |
 | Label          | American Recordings |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | 00602537494255 |
 
-Includes a voucher to download MP3 version of the album  Recorded in recording studios in the United States. ℗ © 1992   Back To Black www.backtoblackvinyl.com
+Includes a voucher to download MP3 version of the album
+
+Recorded in recording studios in the United States.
+℗ © 1992 
+
+Back To Black
+www.backtoblackvinyl.com

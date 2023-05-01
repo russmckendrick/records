@@ -2,7 +2,7 @@
 title: "Various - High Fidelity (Original Soundtrack)"
 artist: "Various"
 album_name: "High Fidelity (Original Soundtrack)"
-date: 2016-02-29
+date: 2016-02-29T19:02:03.000000Z
 release_id: "7779144"
 slug: "high-fidelity-original-soundtrack-7779144"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. You're Gonna Miss Me (2:28)
 2. Everybody's Gonna Be Happy (2:18)
@@ -29,8 +30,12 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 13. Inside Game (3:42)
 14. Who Loves The Sun (2:46)
 15. I Believe (When I Fall In Love It Will Be Forever) (4:51)
+
+
 ## Spotify
 {{< spotify type="album" id="0zXA2xmkw5x4iN4Cb3j13P" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="J0ML8LfyNR8" title="Jack Black - Lets get it on" >}}
@@ -52,7 +57,12 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 | Release Year   | 2015 |
 | Discogs Link   | [Various - High Fidelity (Original Soundtrack)](https://www.discogs.com/release/7779144-Various-High-Fidelity-Original-Soundtrack) |
 | Label          | Hollywood Records |
-| Format         | 2xLP, RSD, Comp, Num, RE, Ora |
+| Format         | Vinyl 2× LP Record Store Day Compilation Numbered Reissue (Orange) |
 | Catalog Number | D002176001 |
 
-"Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015  Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.   
+"Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015
+
+Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.
+
+
+

@@ -2,7 +2,7 @@
 title: "The Interrupters - The Interrupters"
 artist: "The Interrupters"
 album_name: "The Interrupters"
-date: 2022-10-04
+date: 2022-10-04T01:58:14.000000Z
 release_id: "13602776"
 slug: "the-interrupters-13602776"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
+
 ## Tracklisting
 1. Take Back The Power
 2. White Noise
@@ -27,8 +28,12 @@ styles: ["Punk", "Ska"]
 11. Last Call
 12. Haven't Seen The Last Of Me
 13. Jenny Drinks
+
+
 ## Spotify
 {{< spotify type="album" id="6AoWkAFBSNlX63z1fJVNIL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gg8HvYqMo7M" title="The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**" >}}
@@ -41,7 +46,8 @@ styles: ["Punk", "Ska"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Interrupters - The Interrupters](https://www.discogs.com/release/13602776-The-Interrupters-The-Interrupters) |
 | Label          | Hellcat Records |
-| Format         | LP, Album, RP |
+| Format         | Vinyl LP Album Repress |
 | Catalog Number | 0530-1 |
 
-Track A7 & B6 are bonus tracks. Printed innersleeve with lyrics
+Track A7 & B6 are bonus tracks.
+Printed innersleeve with lyrics

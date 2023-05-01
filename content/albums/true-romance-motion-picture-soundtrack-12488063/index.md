@@ -2,7 +2,7 @@
 title: "Various - True Romance (Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "True Romance (Motion Picture Soundtrack)"
-date: 2018-09-13
+date: 2018-09-13T18:16:45.000000Z
 release_id: "12488063"
 slug: "true-romance-motion-picture-soundtrack-12488063"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro House"]
 ---
+
 ## Tracklisting
 1. Side Clarence
 2. You're So Cool (3:40)
@@ -28,8 +29,12 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 12. Outshined (5:12)
 13. Amid The Chaos Of Day (4:54)
 14. Two Hearts (3:33)
+
+
 ## Spotify
 {{< spotify type="album" id="5RyWJx6ASGDuaEwVe0aWvG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lFUkaB_NU5o" title="You're So Cool" >}}
@@ -56,7 +61,9 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 | Release Year   | 2018 |
 | Discogs Link   | [Various - True Romance (Motion Picture Soundtrack)](https://www.discogs.com/release/12488063-Various-True-Romance-Motion-Picture-Soundtrack) |
 | Label          | Real Gone Music |
-| Format         | LP, Ltd, Cle |
+| Format         | Vinyl LP Limited Edition (Clear w/ White Splatter) |
 | Catalog Number | RGM-0759 |
 
-25th Anniversary Edition. Pressed on clear with white splatter vinyl. Limited Edition of 1700.
+25th Anniversary Edition.
+Pressed on clear with white splatter vinyl.
+Limited Edition of 1700.

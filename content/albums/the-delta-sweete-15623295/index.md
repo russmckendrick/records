@@ -2,7 +2,7 @@
 title: "Bobbie Gentry - The Delta Sweete"
 artist: "Bobbie Gentry"
 album_name: "The Delta Sweete"
-date: 2020-08-01
+date: 2020-08-01T10:22:53.000000Z
 release_id: "15623295"
 slug: "the-delta-sweete-15623295"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. The Delta Sweete: Remixed
 2. Okolona River Bottom Band
@@ -38,8 +39,12 @@ styles: ["Folk Rock", "Country Rock"]
 22. Jessye' Lisabeth (Demo)
 23. Refractions (Demo)
 24. Louisiana Man (Demo)
+
+
 ## Spotify
 {{< spotify type="album" id="1SiGaqffPGAqWYzdoNCHJn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pgt3aOY5Mqo" title="Okolona River Bottom Band (Remastered 2020)" >}}
@@ -71,8 +76,16 @@ styles: ["Folk Rock", "Country Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Bobbie Gentry - The Delta Sweete](https://www.discogs.com/release/15623295-Bobbie-Gentry-The-Delta-Sweete) |
-| Label          | Capitol Records, UMC, Capitol Records |
-| Format         | LP, Album, RE + LP + 180 |
-| Catalog Number | 00600753904770, 5390477 |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Stereo (180 Gram) |
+| Catalog Number | 00600753904770 |
 
-Writing credits as given on inner sleeve  Gatefold sleeve with flipback design, includes two printed inner sleeves.  Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.  Includes Download Code  Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print.
+Writing credits as given on inner sleeve
+
+Gatefold sleeve with flipback design, includes two printed inner sleeves.
+
+Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.
+
+Includes Download Code
+
+Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print.

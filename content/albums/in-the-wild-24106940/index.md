@@ -2,7 +2,7 @@
 title: "The Interrupters - In The Wild"
 artist: "The Interrupters"
 album_name: "In The Wild"
-date: 2022-09-07
+date: 2022-09-07T11:53:30.000000Z
 release_id: "24106940"
 slug: "in-the-wild-24106940"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
+
 ## Tracklisting
 1. Anything Was Better
 2. As We Live
@@ -28,8 +29,12 @@ styles: ["Punk", "Ska"]
 12. Love Never Dies
 13. Afterthought
 14. Alien
+
+
 ## Spotify
 {{< spotify type="album" id="3kY1OhkaStCboWLSBTIfvg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KWvN78Z8YU8" title="The Interrupters - Anything Was Better (Lyric Video)" >}}
@@ -54,7 +59,7 @@ styles: ["Punk", "Ska"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Interrupters - In The Wild](https://www.discogs.com/release/24106940-The-Interrupters-In-The-Wild) |
 | Label          | Hellcat Records |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition Stereo (White) |
 | Catalog Number | 0543-1 |
 
 White (EU/UK indie store exclusive)

@@ -2,7 +2,7 @@
 title: "The Selecter - Too Much Pressure"
 artist: "The Selecter"
 album_name: "Too Much Pressure"
-date: 2021-04-24
+date: 2021-04-24T04:26:23.000000Z
 release_id: "18421726"
 slug: "too-much-pressure-18421726"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Ska"]
 ---
+
 ## Tracklisting
 1. Three Minute Hero (3:00)
 2. Everyday (3:10)
@@ -29,8 +30,12 @@ styles: ["Ska"]
 13. James Bond (2:16)
 14. On My Radio
 15. Too Much Pressure
+
+
 ## Spotify
 {{< spotify type="album" id="5wnNTpK8zZCzbEblOvKmUV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QHnX_wEW1K0" title="The Selecter - Too Much Pressure" >}}
@@ -51,8 +56,18 @@ styles: ["Ska"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Selecter - Too Much Pressure](https://www.discogs.com/release/18421726-The-Selecter-Too-Much-Pressure) |
-| Label          | Two-Tone Records, Two-Tone Records |
-| Format         | LP, Album, Cle + 7\", Single, Cle + Ltd, RE, RM, 40 |
-| Catalog Number | CDL TTH5002, CDL TTC 5002 |
+| Label          | Two-Tone Records |
+| Format         | Vinyl LP Album (Clear), Vinyl 7" 45 RPM Single (Clear), All Media Limited Edition Reissue Remastered (40th Anniversary) |
+| Catalog Number | CDL TTH5002 |
 
-Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80. 40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl 2021 Half-Speed Remaster by Alchemy At Air  "Anniversary" misspelt on OBI strip stating "40th Annivarsary" 'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image  ℗ & © 2021 Chrysalis Records Limited. Made in The UK.  Catalogue number on 'belly-band': CDL TTC 5002 Catalogue number on spine: CDL TTH5002
+Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80.
+40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl
+2021 Half-Speed Remaster by Alchemy At Air
+
+"Anniversary" misspelt on OBI strip stating "40th Annivarsary"
+'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image
+
+℗ & © 2021 Chrysalis Records Limited. Made in The UK.
+
+Catalogue number on 'belly-band': CDL TTC 5002
+Catalogue number on spine: CDL TTH5002

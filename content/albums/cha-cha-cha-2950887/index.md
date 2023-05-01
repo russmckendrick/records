@@ -2,7 +2,7 @@
 title: "Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha"
 artist: "Carmen & Fernando Del Valle & Their Orchestra"
 album_name: "Cha Cha Cha"
-date: 2020-08-02
+date: 2020-08-02T13:44:22.000000Z
 release_id: "2950887"
 slug: "cha-cha-cha-2950887"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Latin"]
 styles: ["Cha-Cha"]
 ---
+
 ## Tracklisting
 1. Torrid Cha Cha
 2. Chat Cha Cha
@@ -24,8 +25,12 @@ styles: ["Cha-Cha"]
 8. Pass Cha Cha
 9. Vacation Cha Cha
 10. Piccadilly Cha Cha
+
+
 ## Spotify
 {{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LL6NYx_5s0o" title="Chat Cha Cha" >}}
@@ -55,7 +60,10 @@ styles: ["Cha-Cha"]
 | Release Year   | 1964 |
 | Discogs Link   | [Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |
 | Label          | Allegro Records |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | ALL734 |
 
-Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964 
+Sleeve printed in U.S.A.
+A Pickwick International Product 
+Rec. first pub. 1964
+

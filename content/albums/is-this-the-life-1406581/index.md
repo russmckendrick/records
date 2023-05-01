@@ -2,7 +2,7 @@
 title: "Cardiacs - Is This The Life"
 artist: "Cardiacs"
 album_name: "Is This The Life"
-date: 2016-12-13
+date: 2016-12-13T17:55:39.000000Z
 release_id: "1406581"
 slug: "is-this-the-life-1406581"
 hideSummary: true
@@ -13,9 +13,13 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Is This The Life
 2. I'm Eating In Bed
+
+
+
 
 ## Videos
 {{< youtube id="rwwUYl3KKeY" title="Cardiacs - Is This The Life (Lyrics Video)" >}}
@@ -30,7 +34,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 1988 |
 | Discogs Link   | [Cardiacs - Is This The Life](https://www.discogs.com/release/1406581-Cardiacs-Is-This-The-Life) |
 | Label          | The Alphabet Business Concern |
-| Format         | 7\", Single |
+| Format         | Vinyl 7" 45 RPM Single |
 | Catalog Number | alph 008Sp |
 
-'Is This The Life' is taken from the Cardiacs L.P. '[m=36059]'. (The Alphabet Business Concern CAT No: ALPH LP007 distributed by pinnacle).  Is This The Life has been edited down to approx 3:10 mins.  © 1988  Runouts: all hand-etched.
+'Is This The Life' is taken from the Cardiacs L.P. '[m=36059]'. (The Alphabet Business Concern CAT No: ALPH LP007 distributed by pinnacle).
+
+Is This The Life has been edited down to approx 3:10 mins.
+
+© 1988
+
+Runouts: all hand-etched.

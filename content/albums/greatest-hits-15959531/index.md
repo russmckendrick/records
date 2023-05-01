@@ -2,7 +2,7 @@
 title: "Guns N' Roses - Greatest Hits"
 artist: "Guns N' Roses"
 album_name: "Greatest Hits"
-date: 2020-10-27
+date: 2020-10-27T13:37:34.000000Z
 release_id: "15959531"
 slug: "greatest-hits-15959531"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Welcome To The Jungle (4:31)
 2. Sweet Child O'  Mine (5:55)
@@ -29,8 +30,11 @@ styles: ["Hard Rock"]
 13. Ain't It Fun (5:07)
 14. Since I Don't Have You (4:19)
 15. Sympathy For The Devil (7:35)
+
+
 ## Spotify
 {{< spotify type="album" id="3Qf4H3NYSp3BMIRe6WOyOA" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -38,8 +42,12 @@ styles: ["Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Guns N' Roses - Greatest Hits](https://www.discogs.com/release/15959531-Guns-N-Roses-Greatest-Hits) |
-| Label          | Geffen Records, Universal Music Group |
-| Format         | 2xLP, Comp, Ltd, Gol |
+| Label          | Geffen Records |
+| Format         | Vinyl 2× LP Compilation Limited Edition (Gold With White & Red Splatter) |
 | Catalog Number | 00602435054032 |
 
-Guns N' Roses Greatest Hits is being released on 2LP vinyl for the very first time. The band is in full support of the vinyl reissue and have approved the rework of the artwork for a new feel with different colours and new photos. The collection is also being updated with their latest hit "Shadow Of Your Love" from the 2018 Appetite For Destruction: Locked N' Loaded boxset.  Made in Germany.
+Guns N' Roses Greatest Hits is being released on 2LP vinyl for the very first time.
+The band is in full support of the vinyl reissue and have approved the rework of the artwork for a new feel with different colours and new photos.
+The collection is also being updated with their latest hit "Shadow Of Your Love" from the 2018 Appetite For Destruction: Locked N' Loaded boxset.
+
+Made in Germany.

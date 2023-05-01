@@ -2,7 +2,7 @@
 title: "Skin - Skin"
 artist: "Skin"
 album_name: "Skin"
-date: 2018-12-17
+date: 2018-12-17T19:15:09.000000Z
 release_id: "3142113"
 slug: "skin-3142113"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Money
 2. Shine Your Light
@@ -25,8 +26,12 @@ styles: ["Hard Rock"]
 9. Revolution
 10. Raised On Radio
 11. Wings Of An Angel
+
+
 ## Spotify
-{{< spotify type="album" id="5rEHhw4jpyScfvPWAgGKlE" width="100%" height="500" >}}
+{{< spotify type="album" id="1ZXb9KHWazVh0xoWZYdsJD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}
@@ -37,8 +42,10 @@ styles: ["Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 1994 |
 | Discogs Link   | [Skin - Skin](https://www.discogs.com/release/3142113-Skin-Skin) |
-| Label          | Parlophone, Parlophone |
-| Format         | LP, Album |
-| Catalog Number | 7243 8 28869 1 4, PCSD 151 |
+| Label          | Parlophone |
+| Format         | Vinyl LP Album |
+| Catalog Number | 7243 8 28869 1 4 |
 
-Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box
+Printed in the U.K. 
+
+The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box

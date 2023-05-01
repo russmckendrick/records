@@ -2,7 +2,7 @@
 title: "Martin Hannett - Hannett's Electronic Recordings - Homage To Delia Derbyshire"
 artist: "Martin Hannett"
 album_name: "Hannett's Electronic Recordings - Homage To Delia Derbyshire"
-date: 2017-09-01
+date: 2017-09-01T18:42:21.000000Z
 release_id: "10764813"
 slug: "hannett-s-electronic-recordings-homage-to-delia-derbyshire-10764813"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Experimental", "Synthwave"]
 ---
+
 ## Tracklisting
 1. Martin On Synths, Keyboards Etc - Track A (3:41)
 2. Homage To Delia Derbyshire, Pt. 2 (2:38)
@@ -32,8 +33,12 @@ styles: ["Experimental", "Synthwave"]
 16. Martin On Synths, Metronome Etc (4:04)
 17. Homage To Delia Derbyshire, Pt. 17 (2:07)
 18. Homage To Delia Derbyshire, Pt. 18 (2:12)
+
+
 ## Spotify
 {{< spotify type="album" id="5wziifmaJa8t0DDipB9o9Z" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KqF8gvUx4kA" title="Homage To Delia Derbyshire, Pt. 11" >}}
@@ -46,7 +51,7 @@ styles: ["Experimental", "Synthwave"]
 | Release Year   | 2017 |
 | Discogs Link   | [Martin Hannett - Hannett's Electronic Recordings - Homage To Delia Derbyshire](https://www.discogs.com/release/10764813-Martin-Hannett-Hannetts-Electronic-Recordings-Homage-To-Delia-Derbyshire) |
 | Label          | Ozit-Morpheus Records |
-| Format         | LP, Album, Ltd, Ora |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
 | Catalog Number | OZITDAN LP 9991 |
 
 Limited edition of 300 copies on 180g Orange Vinyl

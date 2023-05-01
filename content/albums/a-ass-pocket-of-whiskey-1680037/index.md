@@ -2,7 +2,7 @@
 title: "R.L. Burnside - A Ass Pocket Of Whiskey"
 artist: "R.L. Burnside"
 album_name: "A Ass Pocket Of Whiskey"
-date: 2015-09-01
+date: 2015-09-01T17:51:10.000000Z
 release_id: "1680037"
 slug: "a-ass-pocket-of-whiskey-1680037"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric Blues"]
 ---
+
 ## Tracklisting
 1. Goin' Down South
 2. Boogie Chillen
@@ -24,8 +25,12 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 8. Walkin' Blues
 9. Tojo Told Hitler
 10. Have You Ever Been Lonely?
+
+
 ## Spotify
 {{< spotify type="album" id="6bBWWTnN4B4wwGJpWlZFkW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="jI5qCXuD4Y4" title="R. L. BURNSIDE - A Pocket Ass of Whiskey (Full Album)" >}}
@@ -36,7 +41,17 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 | Release Year   | 0 |
 | Discogs Link   | [R.L. Burnside - A Ass Pocket Of Whiskey](https://www.discogs.com/release/1680037-RL-Burnside-A-Ass-Pocket-Of-Whiskey) |
 | Label          | Fat Possum Records |
-| Format         | LP, Album, Ltd, RE, 180 |
+| Format         | Vinyl LP Album Limited Edition Reissue (180gram) |
 | Catalog Number | FP1026-1 |
 
-Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   can come with different stickers on shrink and download code  © + ℗ 1996 FAT POSSUM RECORDS, LLC (printing on both labels)   "All Rights Reserved All Wrongs Reversed" printed on Record Label both sides.    
+Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.
+ 
+can come with different stickers on shrink and download code
+
+© + ℗ 1996 FAT POSSUM RECORDS, LLC (printing on both labels) 
+
+"All Rights Reserved All Wrongs Reversed" printed on Record Label both sides.
+
+
+
+

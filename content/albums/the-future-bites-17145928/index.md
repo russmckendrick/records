@@ -2,7 +2,7 @@
 title: "Steven Wilson - The Future Bites"
 artist: "Steven Wilson"
 album_name: "The Future Bites"
-date: 2021-02-01
+date: 2021-02-01T05:00:53.000000Z
 release_id: "17145928"
 slug: "the-future-bites-17145928"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Unself (1:06)
 2. Self (2:55)
@@ -23,8 +24,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Personal Shopper (9:49)
 8. Follower (4:39)
 9. Count Of Unease (6:08)
+
+
 ## Spotify
 {{< spotify type="album" id="0tHQTsZepeMpMqgtBdaFRx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}
@@ -47,8 +52,11 @@ styles: ["Alternative Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17145928-Steven-Wilson-The-Future-Bites) |
-| Label          | Caroline International, Arts & Crafts |
-| Format         | LP, Album, Ltd, Red |
+| Label          | Caroline International |
+| Format         | Vinyl LP Album Limited Edition (Red, 180 Gram) |
 | Catalog Number | CAROL021LPC |
 
-Slip cover around a gatefold sleeve with a 16-page booklet. Early copies came with poster of cover signed by Steven Wilson.  All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC
+Slip cover around a gatefold sleeve with a 16-page booklet.
+Early copies came with poster of cover signed by Steven Wilson.
+
+All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC

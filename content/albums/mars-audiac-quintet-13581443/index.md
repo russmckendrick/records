@@ -2,7 +2,7 @@
 title: "Stereolab - Mars Audiac Quintet"
 artist: "Stereolab"
 album_name: "Mars Audiac Quintet"
-date: 2019-09-17
+date: 2019-09-17T18:16:50.000000Z
 release_id: "13581443"
 slug: "mars-audiac-quintet-13581443"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Mars Audiac Quintet 
 2. Three-Dee Melodie
@@ -43,8 +44,12 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 27. Three Longers Later - Demo
 28. Transona Five - Demo
 29. Transporté Sans Bouger - Demo
+
+
 ## Spotify
 {{< spotify type="album" id="3p7TBwwN0OGa9UxpcbdeY4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ZikC5SMHkPQ" title="Des Etoiles Electroniques" >}}
@@ -62,8 +67,21 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Stereolab - Mars Audiac Quintet](https://www.discogs.com/release/13581443-Stereolab-Mars-Audiac-Quintet) |
-| Label          | Duophonic Ultra High Frequency Disks, Warp Records |
-| Format         | 2xLP, Album, RE, RM + LP |
+| Label          | Duophonic Ultra High Frequency Disks |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP |
 | Catalog Number | D-UHF-D05R |
 
-Black vinyl re-issue.  Expanded issue, includes a bonus disk of demos and alternate versions.  Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.  Comes with a 4-panel fold out poster with liner notes on the reverse.  A download code is also included.   40 copies were made with obi by Martin Pike and sold through Rough Trade UK. 20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC. 
+Black vinyl re-issue.
+
+Expanded issue, includes a bonus disk of demos and alternate versions.
+
+Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.
+
+Comes with a 4-panel fold out poster with liner notes on the reverse.
+
+A download code is also included.
+
+
+40 copies were made with obi by Martin Pike and sold through Rough Trade UK.
+20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.
+

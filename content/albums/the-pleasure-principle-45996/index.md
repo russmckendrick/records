@@ -2,7 +2,7 @@
 title: "Gary Numan - The Pleasure Principle"
 artist: "Gary Numan"
 album_name: "The Pleasure Principle"
-date: 2016-01-13
+date: 2016-01-13T10:27:40.000000Z
 release_id: "45996"
 slug: "the-pleasure-principle-45996"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "New Wave"]
 ---
+
 ## Tracklisting
 1. Airlane (3:18)
 2. Metal (3:33)
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "New Wave"]
 8. Conversation (7:38)
 9. Cars (3:53)
 10. Engineers (4:00)
+
+
 ## Spotify
 {{< spotify type="album" id="5xFlkqLDx3wbgqtvrez1n0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KJmujhpDslY" title="GARY NUMAN PLEASURE PRINCIPLE 1979 Cassette Tape Rip Full Album" >}}
@@ -46,7 +51,15 @@ styles: ["Synth-pop", "New Wave"]
 | Release Year   | 1979 |
 | Discogs Link   | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/45996-Gary-Numan-The-Pleasure-Principle) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | BEGA 10 |
 
-Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording. All songs © 1979  Distributed by WEA Records Ltd. A Warner Communications Company.  All titles:- Beggars Banquet / Andrew Heath Music Ltd.
+Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.
+
+℗ 1979 Beggars Banquet.
+© 1979 A Beggars Banquet Recording.
+All songs © 1979
+
+Distributed by WEA Records Ltd. A Warner Communications Company.
+
+All titles:- Beggars Banquet / Andrew Heath Music Ltd.

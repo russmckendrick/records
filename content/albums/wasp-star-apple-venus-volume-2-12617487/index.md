@@ -2,7 +2,7 @@
 title: "XTC - Wasp Star (Apple Venus Volume 2)"
 artist: "XTC"
 album_name: "Wasp Star (Apple Venus Volume 2)"
-date: 2018-10-27
+date: 2018-10-27T09:35:52.000000Z
 release_id: "12617487"
 slug: "wasp-star-apple-venus-volume-2-12617487"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Wasp Star (Apple Venus Volume 2) by XTC"
     caption: "Wasp Star (Apple Venus Volume 2) by XTC"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Playground
 2. Stupidly Happy
@@ -26,6 +27,9 @@ styles: null
 10. You And The Clouds Will Still Be Beautiful
 11. Church Of Women
 12. The Wheel And The Maypole
+
+
+
 
 ## Videos
 {{< youtube id="g1I4AJJZ-1w" title="XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2" >}}
@@ -47,7 +51,9 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [XTC - Wasp Star (Apple Venus Volume 2)](https://www.discogs.com/release/12617487-XTC-Wasp-Star-Apple-Venus-Volume-2) |
 | Label          | Ape House |
-| Format         | LP, Album, RE, 200 |
+| Format         | Vinyl LP Album Reissue (200 gram) |
 | Catalog Number | APELP119 |
 
-lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits 
+lined inner sleeve with Apehouse catalog
+includes two-sided insert with lyrics and credits
+

@@ -2,7 +2,7 @@
 title: "David Bowie - ChangesOneBowie"
 artist: "David Bowie"
 album_name: "ChangesOneBowie"
-date: 2016-05-20
+date: 2016-05-20T19:02:02.000000Z
 release_id: "8518115"
 slug: "changesonebowie-8518115"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Glam", "Pop Rock", "Soul"]
 ---
+
 ## Tracklisting
 1. Space Oddity (5:10)
 2. John, I'm Only Dancing (2:43)
@@ -25,8 +26,11 @@ styles: ["Glam", "Pop Rock", "Soul"]
 9. Young Americans (5:07)
 10. Fame (4:10)
 11. Golden Years (3:55)
+
+
 ## Spotify
 {{< spotify type="album" id="3aGkjugjzDWaETRbbRafoF" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,8 +38,11 @@ styles: ["Glam", "Pop Rock", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [David Bowie - ChangesOneBowie](https://www.discogs.com/release/8518115-David-Bowie-ChangesOneBowie) |
-| Label          | Parlophone, Parlophone |
-| Format         | LP, Comp, RE, Cle |
-| Catalog Number | COBLP 2016, 0190295994082 |
+| Label          | Parlophone |
+| Format         | Vinyl LP Compilation Reissue (Clear, 180g) |
+| Catalog Number | COBLP 2016 |
 
-Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve. Half of the copies are on clear vinyl (this release), half on [black vinyl](https://www.discogs.com/release/8527561). No mention of the vinyl colour on the sleeve or the sticker. 
+Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve.
+Half of the copies are on clear vinyl (this release), half on [url=https://www.discogs.com/release/8527561]black vinyl[/url].
+No mention of the vinyl colour on the sleeve or the sticker.
+

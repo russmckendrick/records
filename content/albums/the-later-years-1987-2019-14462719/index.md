@@ -2,7 +2,7 @@
 title: "Pink Floyd - The Later Years 1987-2019"
 artist: "Pink Floyd"
 album_name: "The Later Years 1987-2019"
-date: 2019-11-29
+date: 2019-11-29T20:14:49.000000Z
 release_id: "14462719"
 slug: "the-later-years-1987-2019-14462719"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Shine On You Crazy Diamond, Parts 1-5 (Live At Knebworth 1990)
 2. Marooned Jam (The Division Bell Sessions)
@@ -26,8 +27,11 @@ styles: ["Prog Rock", "Art Rock"]
 10. On The Turning Away (2019 Remix)
 11. Wish You Were Here (Live At Knebworth 1990)
 12. Run Like Hell (Delicate Sound Of Thunder 2019 Remix)
+
+
 ## Spotify
 {{< spotify type="album" id="5S6piLR8OYNymGIApEC6k4" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -35,8 +39,14 @@ styles: ["Prog Rock", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Pink Floyd - The Later Years 1987-2019](https://www.discogs.com/release/14462719-Pink-Floyd-The-Later-Years-1987-2019) |
-| Label          | Pink Floyd Records, Pink Floyd Records |
-| Format         | 2xLP, Comp, 180 |
-| Catalog Number | PFRLY19LP, 0190295378288 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl 2× LP Compilation (180 gram) |
+| Catalog Number | PFRLY19LP |
 
-Gatefold cover, inner sleeves with printed credits. Includes a 24-page booklet. Black vinyl version only.  Hype-sticker on the shrink-wrap: "12 tracks 79 mins inc. unreleased studio and live recordings all with 2019 remixes inc. 24-page booklet All tracks taken from The later Years 1987-2019 (16-disc ltd. edition box set)".  Made in the E.U.
+Gatefold cover, inner sleeves with printed credits. Includes a 24-page booklet. Black vinyl version only.
+
+Hype-sticker on the shrink-wrap:
+"12 tracks 79 mins inc. unreleased studio and live recordings all with 2019 remixes inc. 24-page booklet
+All tracks taken from The later Years 1987-2019 (16-disc ltd. edition box set)".
+
+Made in the E.U.

@@ -2,7 +2,7 @@
 title: "The Psychedelic Furs - The Best Of The Psychedelic Furs"
 artist: "The Psychedelic Furs"
 album_name: "The Best Of The Psychedelic Furs"
-date: 2021-07-03
+date: 2021-07-03T06:10:01.000000Z
 release_id: "19345039"
 slug: "the-best-of-the-psychedelic-furs-19345039"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
+
 ## Tracklisting
 1. Love My Way
 2. Pretty In Pink
@@ -27,13 +28,15 @@ styles: ["Alternative Rock", "New Wave"]
 11. Don't Believe
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Psychedelic Furs - The Best Of The Psychedelic Furs](https://www.discogs.com/release/19345039-The-Psychedelic-Furs-The-Best-Of-The-Psychedelic-Furs) |
 | Label          | Demon Records |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | DEMREC906 |
 
 Pressed on indies exclusive 180g heavyweight vinyl, housed in a printed inner sleeve with new liner notes by Classic Pop and Long Live Vinyl editor Ian Peel.

@@ -2,7 +2,7 @@
 title: "John Coltrane - The Atlantic Years – In Mono"
 artist: "John Coltrane"
 album_name: "The Atlantic Years – In Mono"
-date: 2017-07-12
+date: 2017-07-12T18:58:35.000000Z
 release_id: "8630183"
 slug: "the-atlantic-years-in-mono-8630183"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Blues"]
 styles: ["Hard Bop", "Modal", "Post Bop"]
 ---
+
 ## Tracklisting
 1. Giant Steps
 2. Giant Steps  (4:43)
@@ -57,13 +58,21 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 41. My Favorite Things (Part II)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [John Coltrane - The Atlantic Years – In Mono](https://www.discogs.com/release/8630183-John-Coltrane-The-Atlantic-Years-In-Mono) |
-| Label          | Atlantic, Rhino Records |
-| Format         | Box, Comp + LP, Album, Mono, RE, RM, 180 + LP, Alb |
+| Label          | Atlantic |
+| Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Compilation Reissue Remastered Mono (180 Gram ), Vinyl 7" 45 RPM Single Mono |
 | Catalog Number | 0081227946401 |
 
-Comes in a clothbound box.  Includes:  - Original studio albums in glossy tip-on LP sleeves, replicating the original artwork and labels.  - One LP of outtakes. - A replica of the original "My Favorite Things Part I & II" 7" single. - A 12" x 12" 32-page booklet with liner notes by Ashley Kahn.
+Comes in a clothbound box.
+
+Includes: 
+- Original studio albums in glossy tip-on LP sleeves, replicating the original artwork and labels. 
+- One LP of outtakes.
+- A replica of the original "My Favorite Things Part I & II" 7" single.
+- A 12" x 12" 32-page booklet with liner notes by Ashley Kahn.

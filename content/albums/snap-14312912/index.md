@@ -2,7 +2,7 @@
 title: "The Jam - Snap!"
 artist: "The Jam"
 album_name: "Snap!"
-date: 2019-10-25
+date: 2019-10-25T19:04:17.000000Z
 release_id: "14312912"
 slug: "snap-14312912"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Mod"]
 ---
+
 ## Tracklisting
 1. In The City
 2. Away From The Numbers
@@ -48,8 +49,12 @@ styles: ["Mod"]
 32. Get Yourself Together (Live)
 33. The Great Depression (Live)
 34. But I'm Different Now (Live)
+
+
 ## Spotify
 {{< spotify type="album" id="4vmnGKvkPNCOX48q22c7UL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GPktB0NHwDY" title="The Jam - All Around The World" >}}
@@ -92,8 +97,8 @@ styles: ["Mod"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [The Jam - Snap!](https://www.discogs.com/release/14312912-The-Jam-Snap) |
-| Label          | Polydor, Polydor, UMC, UMC |
-| Format         | 2xLP, Comp + 7\", EP + Comp, RE |
-| Catalog Number | SNAP 1, 775 270-2 |
+| Label          | Polydor |
+| Format         | Vinyl 2× LP Compilation, Vinyl 7" EP, All Media Compilation Reissue |
+| Catalog Number | SNAP 1 |
 
 Gatefold cover.

@@ -2,7 +2,7 @@
 title: "Future Islands - The Far Field "
 artist: "Future Islands"
 album_name: "The Far Field "
-date: 2017-04-08
+date: 2017-04-08T10:03:44.000000Z
 release_id: "10101734"
 slug: "the-far-field-10101734"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Aladdin (4:13)
 2. Time On Her Side (3:39)
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Synth-pop"]
 10. Day Glow Fire (3:49)
 11. Shadows (4:05)
 12. Black Rose (3:25)
+
+
 ## Spotify
 {{< spotify type="album" id="37Xk4WSzbCfYBFTHUHgDYv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5PFZnKYnL1s" title="Aladdin" >}}
@@ -48,8 +53,12 @@ styles: ["Indie Rock", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734-Future-Islands-The-Far-Field-) |
-| Label          | 4AD, 4AD |
-| Format         | LP, Album, Ltd, Whi |
-| Catalog Number | 4AD0001LPX, 4AD0001LP |
+| Label          | 4AD |
+| Format         | Vinyl LP Album Limited Edition (White, 180 Gram) |
+| Catalog Number | 4AD0001LPX |
 
-Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name.
+Inner sleeve with images.
+Incl. mp3 download code.
+Incl. cardboard inlay with lyrics and info.
+
+The album title was inspired by the Theodore Roethke book of the same name.

@@ -2,7 +2,7 @@
 title: "The Jon Spencer Blues Explosion - Orange"
 artist: "The Jon Spencer Blues Explosion"
 album_name: "Orange"
-date: 2017-07-06
+date: 2017-07-06T20:47:20.000000Z
 release_id: "1733106"
 slug: "orange-1733106"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ---
+
 ## Tracklisting
 1. Bellbottoms (5:17)
 2. Ditch (2:34)
@@ -27,8 +28,12 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 11. Full Grown (3:19)
 12. Flavor (6:16)
 13. Greyhound (4:04)
+
+
 ## Spotify
 {{< spotify type="album" id="6n6VzpTcnHFpGVwJhLNkoH" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XlTqcshkmc8" title="The Jon Spencer Blues Explosion - Bellbottoms" >}}
@@ -51,7 +56,14 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 | Release Year   | 1994 |
 | Discogs Link   | [The Jon Spencer Blues Explosion - Orange](https://www.discogs.com/release/1733106-The-Jon-Spencer-Blues-Explosion-Orange) |
 | Label          | Matador |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ole 105-1 |
 
-This is the black vinyl version of this LP with a metallic silver cover, some of which have a barcode sticker attached. Glossy inner sleeve has a full color picture of the band on one side and "orange" written on the other side.  Recorded and mixed at Waterworks, NYC, 1993-94. All songs c 1994 Spencer / Explosion c p 1994 Matador Records Inc Made in the USA by WEA Mfg Inner sleeve: Printed in Canada
+This is the black vinyl version of this LP with a metallic silver cover, some of which have a barcode sticker attached.
+Glossy inner sleeve has a full color picture of the band on one side and "orange" written on the other side.
+
+Recorded and mixed at Waterworks, NYC, 1993-94.
+All songs c 1994 Spencer / Explosion
+c p 1994 Matador Records Inc
+Made in the USA by WEA Mfg
+Inner sleeve: Printed in Canada

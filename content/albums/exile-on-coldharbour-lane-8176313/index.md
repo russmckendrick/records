@@ -2,7 +2,7 @@
 title: "Alabama 3 - Exile On Coldharbour Lane"
 artist: "Alabama 3"
 album_name: "Exile On Coldharbour Lane"
-date: 2016-05-20
+date: 2016-05-20T17:15:47.000000Z
 release_id: "8176313"
 slug: "exile-on-coldharbour-lane-8176313"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Blues", "Folk, World, & Country"]
 styles: ["Techno", "Acid House"]
 ---
+
 ## Tracklisting
 1. Converted (6:15)
 2. Speed Of The Sound Of Loneliness (4:49)
@@ -26,8 +27,12 @@ styles: ["Techno", "Acid House"]
 10. The Night We Nearly Got Busted (4:38)
 11. Sister Rosetta (4:52)
 12. Peace In The Valley (5:47)
+
+
 ## Spotify
 {{< spotify type="album" id="6wEV0CthYpgNVKowNEtNuj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Yx1liOUrOuM" title="Converted" >}}
@@ -49,8 +54,11 @@ styles: ["Techno", "Acid House"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Alabama 3 - Exile On Coldharbour Lane](https://www.discogs.com/release/8176313-Alabama-3-Exile-On-Coldharbour-Lane) |
-| Label          | Elemental Records, One Little Indian |
-| Format         | 2xLP, Album, Ltd, Num, RE, RM, 180 |
+| Label          | Elemental Records |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (180 Gram) |
 | Catalog Number | ELM40DMM |
 
-One Little Indian 20th Anniversary Reissue pressed on heavy weight 180 gram vinyl and housed in a gatefold sleeve. Includes download coupon. Some copies sold via Alabama 3 website were signed by Larry Love. Same catalogue number and barcode as the [r=4445223], which was released in 2008 and pressed on 200 gram vinyl instead.
+One Little Indian 20th Anniversary Reissue pressed on heavy weight 180 gram vinyl and housed in a gatefold sleeve.
+Includes download coupon.
+Some copies sold via Alabama 3 website were signed by Larry Love.
+Same catalogue number and barcode as the [r=4445223], which was released in 2008 and pressed on 200 gram vinyl instead.

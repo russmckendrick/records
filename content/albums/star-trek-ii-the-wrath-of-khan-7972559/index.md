@@ -2,7 +2,7 @@
 title: "James Horner - Star Trek II: The Wrath Of Khan"
 artist: "James Horner"
 album_name: "Star Trek II: The Wrath Of Khan"
-date: 2016-02-04
+date: 2016-02-04T20:21:09.000000Z
 release_id: "7972559"
 slug: "star-trek-ii-the-wrath-of-khan-7972559"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
+
 ## Tracklisting
 1. Main Title (3:03)
 2. Surprise on Ceti Alpha V (0:45)
@@ -37,8 +38,12 @@ styles: ["Soundtrack", "Score"]
 21. Amazing Grace (1:26)
 22. Epilogue / End Title (8:41)
 23. Epilogue (Original Version) / End Title (7:29)
+
+
 ## Spotify
 {{< spotify type="album" id="2fM9r2JGdpKJ0LT3NKlQ25" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="aICzV6QS9wA" title="Star Trek II: The Wrath of Khan • Main Theme • James Horner" >}}
@@ -48,8 +53,8 @@ styles: ["Soundtrack", "Score"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [James Horner - Star Trek II: The Wrath Of Khan](https://www.discogs.com/release/7972559-James-Horner-Star-Trek-II-The-Wrath-Of-Khan) |
-| Label          | Mondo |
-| Format         | 2xLP, Dlx, Ltd, Blu |
+| Label          | Mondo (3) |
+| Format         | Vinyl 2× LP Deluxe Edition Limited Edition (Blue/Purple Marble "Mutara Nebula") |
 | Catalog Number | MOND-032 |
 
 Deluxe expanded soundtrack. 

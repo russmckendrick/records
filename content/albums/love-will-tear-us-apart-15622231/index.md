@@ -2,7 +2,7 @@
 title: "Joy Division - Love Will Tear Us Apart"
 artist: "Joy Division"
 album_name: "Love Will Tear Us Apart"
-date: 2020-07-17
+date: 2020-07-17T12:24:17.000000Z
 release_id: "15622231"
 slug: "love-will-tear-us-apart-15622231"
 hideSummary: true
@@ -13,12 +13,17 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Love Will Tear Us Apart
 2. These Days
 3. Love Will Tear Us Apart
+
+
 ## Spotify
 {{< spotify type="album" id="0u0CJa9zwFbGSU8JWQYS5G" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zuuObGsB0No" title="Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]" >}}
@@ -33,7 +38,7 @@ styles: ["New Wave", "Post-Punk"]
 | Release Year   | 2020 |
 | Discogs Link   | [Joy Division - Love Will Tear Us Apart](https://www.discogs.com/release/15622231-Joy-Division-Love-Will-Tear-Us-Apart) |
 | Label          | Factory |
-| Format         | 12\", Single, RE, RM, 180 |
+| Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
 | Catalog Number | FAC·XXIII·XII |
 
 ℗ 1980, 2020 Warner Music UK Ltd. © 2020 Warner Music UK Ltd.

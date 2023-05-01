@@ -2,7 +2,7 @@
 title: "Marvin Gaye - What's Going On"
 artist: "Marvin Gaye"
 album_name: "What's Going On"
-date: 2016-11-26
+date: 2016-11-26T10:41:11.000000Z
 release_id: "9413652"
 slug: "what-s-going-on-9413652"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Original LP Release (May 21 1971)
 2. What's Going On (3:51)
@@ -57,8 +58,11 @@ styles: ["Soul"]
 41. Head Title (AKA Distant Lover) (4:07)
 42. The Foundation
 43. What's Going On - Rhythm 'N' Strings Mix (3:50)
+
+
 ## Spotify
 {{< spotify type="album" id="2v6ANhWhZBUKkg6pJJBs3B" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -66,8 +70,10 @@ styles: ["Soul"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Marvin Gaye - What's Going On](https://www.discogs.com/release/9413652-Marvin-Gaye-Whats-Going-On) |
-| Label          | Tamla, Universal Music Group International |
-| Format         | LP, Album, RE, RM + LP, Album, RE, RM + 2xLP, Mono |
+| Label          | Tamla |
+| Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Remastered Stereo Mono, All Media Deluxe Edition |
 | Catalog Number | 0600753703069 |
 
-Four LPs with inner picture sleeves housed in a soft card slipcase. Includes voucher to download MP3 version of the album and comes with a Japanese style obi. Half speed mastered.
+Four LPs with inner picture sleeves housed in a soft card slipcase.
+Includes voucher to download MP3 version of the album and comes with a Japanese style obi.
+Half speed mastered.

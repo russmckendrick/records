@@ -2,7 +2,7 @@
 title: "The Rolling Stones - Hot Rocks 1964-1971"
 artist: "The Rolling Stones"
 album_name: "Hot Rocks 1964-1971"
-date: 2016-10-01
+date: 2016-10-01T10:33:52.000000Z
 release_id: "879358"
 slug: "hot-rocks-1964-1971-879358"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Time Is On My Side
 2. Heart Of Stone
@@ -35,8 +36,11 @@ styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 19. You Can't Always Get What You Want
 20. Brown Sugar
 21. Wild Horses
+
+
 ## Spotify
 {{< spotify type="album" id="0aqZJlugIkTUWW1sa4BANp" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -45,7 +49,8 @@ styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 | Release Year   | 2003 |
 | Discogs Link   | [The Rolling Stones - Hot Rocks 1964-1971](https://www.discogs.com/release/879358-The-Rolling-Stones-Hot-Rocks-1964-1971) |
 | Label          | ABKCO |
-| Format         | 2xLP, Comp, RE, RM |
+| Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo |
 | Catalog Number | 882 334-1 |
 
-Made in EU. Printed in EU. Originally released in 1972. Digitally remastered from original master recordings. Comes in gatefold sleeve.
+Made in EU. Printed in EU.
+Originally released in 1972. Digitally remastered from original master recordings. Comes in gatefold sleeve.

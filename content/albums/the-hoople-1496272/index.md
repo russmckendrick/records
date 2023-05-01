@@ -2,7 +2,7 @@
 title: "Mott The Hoople - The Hoople"
 artist: "Mott The Hoople"
 album_name: "The Hoople"
-date: 2017-05-27
+date: 2017-05-27T15:31:19.000000Z
 release_id: "1496272"
 slug: "the-hoople-1496272"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Glam", "Hard Rock", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. The Golden Age Of Rock 'N' Roll (3:23)
 2. Marionette (5:03)
@@ -23,8 +24,12 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 7. Pearl 'N' Roy (England) (4:25)
 8. Through The Looking Glass (4:44)
 9. Roll Away The Stone (3:08)
+
+
 ## Spotify
 {{< spotify type="album" id="3LdlOZcV0dp7ePBXe2KAGa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gyFidNXfkMw" title="Mott The Hoople The Golden Age of Rock 'n' Roll" >}}
@@ -42,8 +47,31 @@ styles: ["Glam", "Hard Rock", "Rock & Roll"]
 | ---------------| ----------- |
 | Release Year   | 1974 |
 | Discogs Link   | [Mott The Hoople - The Hoople](https://www.discogs.com/release/1496272-Mott-The-Hoople-The-Hoople) |
-| Label          | CBS, CBS |
-| Format         | LP, Album |
-| Catalog Number | S 69062, 69062 |
+| Label          | CBS |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | S 69062 |
 
-Light blue lyrics sheet included.  Some copies were issued with a round golden sticker reading: INCLUDING: ROLL AWAY THE STONE and GOLDEN AGE OF ROCK 'N' ROLL  [a=Ariel Bender] appears by courtesy of [l=Island Records Ltd.]  Recorded at Advision Studios, London W.1. January 1974. Re-mixed and dubbed at AIR (London) Studios 2 and 3 February 1974. B5 recorded at AIR (London) Studios No. 2 by Alan "Madswitcher" Harris, May/June 1973  Equipment by Ritchie, Phil, and Eddie. Model: Kari-Ann.  [a=Lynsey De Paul] appeared courtesy of [MAM Records](http://www.discogs.com/label/3342020) and the Triumph Motor Co. Ltd. [Barry](http://www.discogs.com/artist/340639), [Sue and Sunny](http://www.discogs.com/artist/452258) appeared with [Howie](http://www.discogs.com/artist/285528), Johnny and Alec [a412016] appeared to be in [Bad Company](http://www.discogs.com/artist/261941)  A1 to B4 published by April Music / H & H Music. B5 Published by Island Music Shorepak by Shorewood Packaging Co. Ltd. England ℗ 1974 CBS Inc. B5 ℗ 1973. Made in England.  Runouts are stamped.
+Light blue lyrics sheet included.
+
+Some copies were issued with a round golden sticker reading:
+INCLUDING: ROLL AWAY THE STONE and GOLDEN AGE OF ROCK 'N' ROLL
+
+[a=Ariel Bender] appears by courtesy of [l=Island Records Ltd.]
+
+Recorded at Advision Studios, London W.1. January 1974.
+Re-mixed and dubbed at AIR (London) Studios 2 and 3 February 1974.
+B5 recorded at AIR (London) Studios No. 2 by Alan "Madswitcher" Harris, May/June 1973
+
+Equipment by Ritchie, Phil, and Eddie.
+Model: Kari-Ann.
+
+[a=Lynsey De Paul] appeared courtesy of [url=http://www.discogs.com/label/3342020]MAM Records[/url] and the Triumph Motor Co. Ltd.
+[url=http://www.discogs.com/artist/340639]Barry[/url], [url=http://www.discogs.com/artist/452258]Sue and Sunny[/url] appeared with [url=http://www.discogs.com/artist/285528]Howie[/url], Johnny and Alec
+[a412016] appeared to be in [url=http://www.discogs.com/artist/261941]Bad Company[/url]
+
+A1 to B4 published by April Music / H & H Music. B5 Published by Island Music
+Shorepak by Shorewood Packaging Co. Ltd. England
+℗ 1974 CBS Inc. B5 ℗ 1973.
+Made in England.
+
+Runouts are stamped.

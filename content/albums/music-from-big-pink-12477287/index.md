@@ -2,7 +2,7 @@
 title: "The Band - Music From Big Pink"
 artist: "The Band"
 album_name: "Music From Big Pink"
-date: 2020-06-16
+date: 2020-06-16T12:11:25.000000Z
 release_id: "12477287"
 slug: "music-from-big-pink-12477287"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 ---
+
 ## Tracklisting
 1. Tears Of Rage (5:24)
 2. To Kingdom Come (3:22)
@@ -25,8 +26,12 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 9. Lonesome Suzie (4:09)
 10. This Wheel's On Fire (3:26)
 11. I Shall Be Released (3:19)
+
+
 ## Spotify
 {{< spotify type="album" id="0ky5kdvfPxSmSpj03hpSAE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="E9S5Wwa63a0" title="Tears Of Rage (Remixed 2018)" >}}
@@ -46,8 +51,6 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Band - Music From Big Pink](https://www.discogs.com/release/12477287-The-Band-Music-From-Big-Pink) |
-| Label          | Capitol Records, UMe |
-| Format         | 2xLP, Album, RM |
+| Label          | Capitol Records |
+| Format         | Vinyl 2× LP 45 RPM Album Remastered Stereo |
 | Catalog Number | 0602567480600 |
-
-

@@ -2,7 +2,7 @@
 title: "Stars - Set Yourself On Fire"
 artist: "Stars"
 album_name: "Set Yourself On Fire"
-date: 2016-01-18
+date: 2016-01-18T18:39:18.000000Z
 release_id: "4062521"
 slug: "set-yourself-on-fire-4062521"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Your Ex-Lover Is Dead (4:16)
 2. Set Yourself On Fire (5:39)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Celebration Guns (3:05)
 12. Soft Revolution (3:17)
 13. Calendar Girl (4:08)
+
+
 ## Spotify
 {{< spotify type="album" id="6CYTAXBPYJ43irABGOJmIw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JKg17Gc8WCI" title="Stars - Ageless Beauty" >}}
@@ -43,7 +48,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2012 |
 | Discogs Link   | [Stars - Set Yourself On Fire](https://www.discogs.com/release/4062521-Stars-Set-Yourself-On-Fire) |
 | Label          | Arts & Crafts International |
-| Format         | LP, Album, RP, 180 |
+| Format         | Vinyl LP Album Repress (180g) |
 | Catalog Number | A&C009 |
 
 180g repress. Include a Digital Download Card.

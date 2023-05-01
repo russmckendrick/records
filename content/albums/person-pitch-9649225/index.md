@@ -2,7 +2,7 @@
 title: "Panda Bear - Person Pitch"
 artist: "Panda Bear"
 album_name: "Person Pitch"
-date: 2017-01-16
+date: 2017-01-16T18:32:05.000000Z
 release_id: "9649225"
 slug: "person-pitch-9649225"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Comfy In Nautica (4:04)
 2. Take Pills (5:23)
@@ -21,8 +22,12 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 5. I'm Not (3:49)
 6. Search For Delicious (4:53)
 7. Ponytail (2:05)
+
+
 ## Spotify
 {{< spotify type="album" id="64TDaAbxgO0TmKZrIavdLg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7xqOz_YqDxM" title="Comfy In Nautica" >}}
@@ -39,7 +44,14 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Panda Bear - Person Pitch](https://www.discogs.com/release/9649225-Panda-Bear-Person-Pitch) |
 | Label          | My Animal Home |
-| Format         | 12\", Whi + 12\", Blu + Album, Club, RE, RM, Gat |
+| Format         | Vinyl 12" 45 RPM (White), Vinyl 12" 45 RPM (Blue), All Media Album Club Edition Reissue Remastered (Gatefold) |
 | Catalog Number | MAH08 |
 
-'Vinyl Me, Please' record club exclusive. Record of the month for January 2017: 10-year Anniversary Reissue 2xLP, White + Blue Vinyl Half Speed Remastered, 45 RPM Gatefold direct-to-board style jacket 12" x 12" Original Art Print by Mi Ju  https://www.vinylmeplease.com/products/panda-bear-person-pitch-full
+'Vinyl Me, Please' record club exclusive. Record of the month for January 2017:
+10-year Anniversary Reissue
+2xLP, White + Blue Vinyl
+Half Speed Remastered, 45 RPM
+Gatefold direct-to-board style jacket
+12" x 12" Original Art Print by Mi Ju
+
+https://www.vinylmeplease.com/products/panda-bear-person-pitch-full

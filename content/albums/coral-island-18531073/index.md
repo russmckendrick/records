@@ -2,7 +2,7 @@
 title: "The Coral - Coral Island"
 artist: "The Coral"
 album_name: "Coral Island"
-date: 2021-05-05
+date: 2021-05-05T04:12:46.000000Z
 release_id: "18531073"
 slug: "coral-island-18531073"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Part 1 - Welcome To Coral Island
 2. Lover Undiscovered
@@ -38,8 +39,12 @@ styles: ["Indie Rock"]
 22. Land Of The Lost
 23. The Calico Girl
 24. The Last Entertainer
+
+
 ## Spotify
 {{< spotify type="album" id="2u2Wjx9i1Pg6WxTd9VVlhL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0f_0F_RR21U" title="Change Your Mind" >}}
@@ -51,8 +56,13 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Coral - Coral Island](https://www.discogs.com/release/18531073-The-Coral-Coral-Island) |
-| Label          | Modern Sky UK, Run on Records |
-| Format         | 2xLP, Album, Ltd, Lim |
+| Label          | Modern Sky UK |
+| Format         | Vinyl 2× LP Album Limited Edition (Lime Green) |
 | Catalog Number | RO-001-LP |
 
-Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.  Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour: • Indie Record Store; marketed as 'exclusive colour'. • recordstore.co.uk; sold with limited edition print signed by all five band members. • Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members.
+Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.
+
+Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour:
+• Indie Record Store; marketed as 'exclusive colour'.
+• recordstore.co.uk; sold with limited edition print signed by all five band members.
+• Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members.

@@ -2,7 +2,7 @@
 title: "Gruff Rhys - Seeking New Gods"
 artist: "Gruff Rhys"
 album_name: "Seeking New Gods"
-date: 2021-05-29
+date: 2021-05-29T07:42:16.000000Z
 release_id: "18798823"
 slug: "seeking-new-gods-18798823"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Mausoleum Of My Former Self (4:53)
 2. Can’t Carry On (3:46)
@@ -23,8 +24,12 @@ styles: ["Indie Pop"]
 7. The Keep (4:23)
 8. Everlasting Joy (5:11)
 9. Distant Snowy Peaks (5:36)
+
+
 ## Spotify
 {{< spotify type="album" id="0t5GazJOs8tEpPRSlg5odm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nr3HnNMS1Cw" title="Gruff Rhys - Loan Your Loneliness (Official Video)" >}}
@@ -43,7 +48,15 @@ styles: ["Indie Pop"]
 | Release Year   | 2021 |
 | Discogs Link   | [Gruff Rhys - Seeking New Gods](https://www.discogs.com/release/18798823-Gruff-Rhys-Seeking-New-Gods) |
 | Label          | Rough Trade |
-| Format         | LP, Album, Gre |
+| Format         | Vinyl LP Album (Green) |
 | Catalog Number | RT0127LP2 |
 
-Comes in a mountain die-cut envelope-style sleeve with belly band.  Initial copies from Rough Trade came with a poster and signed postcard.  Dark green vinyl.  Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.  Track durations are not mentioned on the release.
+Comes in a mountain die-cut envelope-style sleeve with belly band.
+
+Initial copies from Rough Trade came with a poster and signed postcard.
+
+Dark green vinyl.
+
+Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.
+
+Track durations are not mentioned on the release.

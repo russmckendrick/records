@@ -2,7 +2,7 @@
 title: "Various - Our New Orleans 2005, A Benefit Album"
 artist: "Various"
 album_name: "Our New Orleans 2005, A Benefit Album"
-date: 2021-03-04
+date: 2021-03-04T04:53:08.000000Z
 release_id: "16916634"
 slug: "our-new-orleans-2005-a-benefit-album-16916634"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Funk / Soul", "Blues", "Brass & Military", "Folk, World, & Country"]
 styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 ---
+
 ## Tracklisting
 1. Yes We Can Can (4:12)
 2. World I Never Made (3:59)
@@ -36,6 +37,9 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 20. Walking By The River (3:54)
 21. Do You Know What It Means (3:32)
 
+
+
+
 ## Videos
 {{< youtube id="mP3YhOzb74k" title="Yes We Can Can" >}}
 
@@ -45,7 +49,59 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 | Release Year   | 2021 |
 | Discogs Link   | [Various - Our New Orleans 2005, A Benefit Album](https://www.discogs.com/release/16916634-Various-Our-New-Orleans-2005-A-Benefit-Album) |
 | Label          | Nonesuch |
-| Format         | 2xLP, Album, RE, RM |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Catalog Number | 075597918458 |
 
-Gatefold sleeve. Includes 12 page booklet.  In Memoriam: Eddie Bo, John Brunious, Bo Dolis, Dr. John, Joel Dorn, Stanley "Buckwheat" Dural Jr., Wardell Quezergue, Allen Toussaint, and Hal Willner.   Net proceeds from the sale of this record will be donated to Habitat for Humanity International to aid those affected by the recent hurricanes along our gulf coast. A portion of those funds will be earmarked to help provide new homes for musicians who lost their homes and livelihoods.  On back sleeve: Net proceeds will aid Habitat for Humanity to aid those affected by Hurricane Katrina. Nonesuch Records, Inc., a Warner Music Group Company, 1633 Broadway, New York, NY 10019. Ⓟ 2020 & © 2005 Nonesuch Records Inc. All Rights Reserved. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands.  On labels:  ℗ 2020 Nonesuch Records Inc., a Warner Music Group company. Manufactures in the Netherlands by Record Industry.  On hype sticker: Remastered and available on vinyl for the first time. 2 LP's. Includes 5 previously unreleased tracks.  Note: The 5 previously unreleased tracks are on side D.  A benefit record, all songs recorded new for this album.   A1: Produced for Work Song Inc. Recorded September 21 at Avatar Studios, New York, NY. Mixed at Sevonay Sound, New York, NY. A2: Recorded October 4 at Clinton Recording Studios, New York, NY. Mixed at Classic Sound, New York, NY. A3: Produced for Work Song Inc. Recorded September 20 at Avatar Studios. Mixed at Sevonay Sound. A4: Recorded October 9, at Clinton Recording Studios. Mixed at Millbrook Sound Studios, Millbrook, NY. A5: Recorded October 3 at Young Avenue Sound, Memphis, TN. Mixed at Sound City Studios, Van Nuys, CA. B1: Recorded October 15, at SugarHill Studios, Houston, TX. Mixed at Millbrook Sound Studios. B2: Recorded September 20 at Clinton Recording Studios. Mixed at Sony Studios, New York, NY. B3: Recorded October 18, at Dockside Studios, Maurice, LA. Mixed at Dockside Studios. B4: Produced for Work Song Inc. Recorded September 21, at Avatar Studios. Mixed at Sevonay Studios. B5: Recorded October 20, at Dockside Studios.Mixed at Dockside Studio. C1: Recorded October 24, at Dockside Studios. Mixed at Dockside Studios. C2: Recorded September 20 at Clinton Recording Studios. Mixed at Sony Studios. C3: Recorded October 4 at Clinton Recording Studios. Mixed at Classic Sound C4: Recorded October 24 at Avatar Studios. Mixed at DB Plus Studios, New York, NY. C5: Produced for Work Song Inc. Recorded September 21 at Avatar Studios. Mixed at Sevonay Sound. C6: Recorded October 27 at Avery Fisher Hall, Lincoln Center, New York, NY. Additional recording October 28 at Right Track Recording, New York, NY. Mixed at Sony Studios. D1: Recorded October 9 at Clinton Recording Studios. Mixed at Millbrook Sound Studios, Millbrook, NY. D2: Recorded October 3 at Young Avenue Sound, Memphis, TN. Mixed at Sound City Studios, Van Nuys, CA. D3: Recorded October 15 at SugarHill Studios, Houston, TX. Mixed at Millbrook Sound Studios. D4: Recorded October 4 at Clinton Recording Studios, New York, NY. Mixed at Classic Sound, New York, NY. D5: Recorded October 24 at Avatar Studios. Mixed at DB Plus Studios, New York, NY.  D1 to D5 are vinyl release exclusive tracks.  Stanley "Buckwheat" Dural, Jr. of Buckwheat Zydeco appears courtesy of Tomorrow Recordings. Dr. John appears courtesy of Parlophone Records. Irma Thomas appears courtesy of Rounder Records. Allen Toussaint appears courtesy of CRT Records. Dr. Michael White appears courtesy of Basin Street Records.  Mastered at Gateway Mastering Studios, Portland, ME. Remastered 2020 by Robert C. Ludwig at Gateway Mastering Studios, Portland, ME.
+Gatefold sleeve. Includes 12 page booklet.
+
+In Memoriam: Eddie Bo, John Brunious, Bo Dolis, Dr. John, Joel Dorn, Stanley "Buckwheat" Dural Jr., Wardell Quezergue, Allen Toussaint, and Hal Willner.
+ 
+Net proceeds from the sale of this record will be donated to Habitat for Humanity International to aid those affected by the recent hurricanes along our gulf coast. A portion of those funds will be earmarked to help provide new homes for musicians who lost their homes and livelihoods.
+
+On back sleeve:
+Net proceeds will aid Habitat for Humanity to aid those affected by Hurricane Katrina.
+Nonesuch Records, Inc., a Warner Music Group Company, 1633 Broadway, New York, NY 10019.
+Ⓟ 2020 & © 2005 Nonesuch Records Inc. All Rights Reserved. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands.
+
+On labels: 
+℗ 2020 Nonesuch Records Inc., a Warner Music Group company. Manufactures in the Netherlands by Record Industry.
+
+On hype sticker:
+Remastered and available on vinyl for the first time. 2 LP's. Includes 5 previously unreleased tracks.
+
+Note: The 5 previously unreleased tracks are on side D.
+
+A benefit record, all songs recorded new for this album. 
+
+A1: Produced for Work Song Inc. Recorded September 21 at Avatar Studios, New York, NY. Mixed at Sevonay Sound, New York, NY.
+A2: Recorded October 4 at Clinton Recording Studios, New York, NY. Mixed at Classic Sound, New York, NY.
+A3: Produced for Work Song Inc. Recorded September 20 at Avatar Studios. Mixed at Sevonay Sound.
+A4: Recorded October 9, at Clinton Recording Studios. Mixed at Millbrook Sound Studios, Millbrook, NY.
+A5: Recorded October 3 at Young Avenue Sound, Memphis, TN. Mixed at Sound City Studios, Van Nuys, CA.
+B1: Recorded October 15, at SugarHill Studios, Houston, TX. Mixed at Millbrook Sound Studios.
+B2: Recorded September 20 at Clinton Recording Studios. Mixed at Sony Studios, New York, NY.
+B3: Recorded October 18, at Dockside Studios, Maurice, LA. Mixed at Dockside Studios.
+B4: Produced for Work Song Inc. Recorded September 21, at Avatar Studios. Mixed at Sevonay Studios.
+B5: Recorded October 20, at Dockside Studios.Mixed at Dockside Studio.
+C1: Recorded October 24, at Dockside Studios. Mixed at Dockside Studios.
+C2: Recorded September 20 at Clinton Recording Studios. Mixed at Sony Studios.
+C3: Recorded October 4 at Clinton Recording Studios. Mixed at Classic Sound
+C4: Recorded October 24 at Avatar Studios. Mixed at DB Plus Studios, New York, NY.
+C5: Produced for Work Song Inc. Recorded September 21 at Avatar Studios. Mixed at Sevonay Sound.
+C6: Recorded October 27 at Avery Fisher Hall, Lincoln Center, New York, NY. Additional recording October 28 at Right Track Recording, New York, NY. Mixed at Sony Studios.
+D1: Recorded October 9 at Clinton Recording Studios. Mixed at Millbrook Sound Studios, Millbrook, NY.
+D2: Recorded October 3 at Young Avenue Sound, Memphis, TN. Mixed at Sound City Studios, Van Nuys, CA.
+D3: Recorded October 15 at SugarHill Studios, Houston, TX. Mixed at Millbrook Sound Studios.
+D4: Recorded October 4 at Clinton Recording Studios, New York, NY. Mixed at Classic Sound, New York, NY.
+D5: Recorded October 24 at Avatar Studios. Mixed at DB Plus Studios, New York, NY.
+
+D1 to D5 are vinyl release exclusive tracks.
+
+Stanley "Buckwheat" Dural, Jr. of Buckwheat Zydeco appears courtesy of Tomorrow Recordings.
+Dr. John appears courtesy of Parlophone Records.
+Irma Thomas appears courtesy of Rounder Records.
+Allen Toussaint appears courtesy of CRT Records.
+Dr. Michael White appears courtesy of Basin Street Records.
+
+Mastered at Gateway Mastering Studios, Portland, ME.
+Remastered 2020 by Robert C. Ludwig at Gateway Mastering Studios, Portland, ME.

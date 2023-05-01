@@ -2,7 +2,7 @@
 title: "John Shuttleworth - The Yamaha Years"
 artist: "John Shuttleworth"
 album_name: "The Yamaha Years"
-date: 2016-12-19
+date: 2016-12-19T17:45:05.000000Z
 release_id: "7453474"
 slug: "the-yamaha-years-7453474"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop", "Comedy"]
 ---
+
 ## Tracklisting
 1. My Wife Died In 1970
 2. Modern Man
@@ -41,8 +42,12 @@ styles: ["Synth-pop", "Comedy"]
 25. Excerpt From A Radio Non-Broadcast
 26. The History Of Rock N Roll
 27. John Goes To London
+
+
 ## Spotify
 {{< spotify type="album" id="2ZWXUHSTqcGvdQjTGFCYkC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1o2Rb7OTvZw" title="John Shuttleworth - My Wife Died in 1970 with lyrics" >}}
@@ -59,7 +64,13 @@ styles: ["Synth-pop", "Comedy"]
 | Release Year   | 2015 |
 | Discogs Link   | [John Shuttleworth - The Yamaha Years](https://www.discogs.com/release/7453474-John-Shuttleworth-The-Yamaha-Years) |
 | Label          | Free Range Product |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album Stereo |
 | Catalog Number | FRP2LP001 |
 
-"Includes songs from BBC TV's 500 Bus Stops"  "All songs written, performed and produced by Graham Fellows except 'The Christmas Orphan' written by G. Fellows and P. Ovcar"  Licensed From Chic Ken Productions Contains 7 bonus tracks not featured on the CD version 
+"Includes songs from BBC TV's 500 Bus Stops"
+
+"All songs written, performed and produced by Graham Fellows except 'The Christmas Orphan' written by G. Fellows and P. Ovcar"
+
+Licensed From Chic Ken Productions
+Contains 7 bonus tracks not featured on the CD version
+

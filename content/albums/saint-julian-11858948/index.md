@@ -2,7 +2,7 @@
 title: "Julian Cope - Saint Julian"
 artist: "Julian Cope"
 album_name: "Saint Julian"
-date: 2018-04-14
+date: 2018-04-14T18:08:56.000000Z
 release_id: "11858948"
 slug: "saint-julian-11858948"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Trampolene (3:35)
 2. Shot Down (3:59)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 8. Pulsar (2:46)
 9. Screaming Secrets (3:27)
 10. A Crack In The Clouds (7:59)
+
+
 ## Spotify
 {{< spotify type="album" id="6btRCMNdmGVykuuabl07E6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nSiA4Hm7gPc" title="Trampolene" >}}
@@ -43,7 +48,5 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Julian Cope - Saint Julian](https://www.discogs.com/release/11858948-Julian-Cope-Saint-Julian) |
 | Label          | Island Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | ILPS 9861 |
-
-

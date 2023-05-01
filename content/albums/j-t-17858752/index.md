@@ -2,7 +2,7 @@
 title: "Steve Earle & The Dukes - J.T. "
 artist: "Steve Earle & The Dukes"
 album_name: "J.T. "
-date: 2021-03-19
+date: 2021-03-19T04:05:42.000000Z
 release_id: "17858752"
 slug: "j-t-17858752"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "J.T.  by Steve Earle & The Dukes"
     caption: "J.T.  by Steve Earle & The Dukes"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. I Don't Care (1:54)
 2. Ain't Glad I'm Leaving  (2:52)
@@ -25,8 +26,12 @@ styles: null
 9. The Saint Of Lost Causes  (5:01)
 10. Harlem River Blues  (3:10)
 11. Last Words  (4:21)
+
+
 ## Spotify
 {{< spotify type="album" id="02DqMqXTuEauf2EQsHZtmB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wrNWrG385hg" title="Steve Earle & The Dukes - Dublin Blues [Audio Only]" >}}
@@ -46,7 +51,9 @@ styles: null
 | Release Year   | 2021 |
 | Discogs Link   | [Steve Earle & The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |
 | Label          | New West Records |
-| Format         | LP, Album, Ltd, Red |
+| Format         | Vinyl LP Album Limited Edition (Red) |
 | Catalog Number | NW5492 |
 
-Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve.
+Housed in a gatefold sleeve.
+
+Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve.

@@ -2,7 +2,7 @@
 title: "John Farnham - Whispering Jack"
 artist: "John Farnham"
 album_name: "Whispering Jack"
-date: 2015-09-11
+date: 2015-09-11T18:02:25.000000Z
 release_id: "1161865"
 slug: "whispering-jack-1161865"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Pressure Down (3:45)
 2. You're The Voice (4:58)
@@ -24,8 +25,12 @@ styles: ["Pop Rock"]
 8. Trouble (3:25)
 9. A Touch Of Paradise (4:45)
 10. Let Me Out (4:20)
+
+
 ## Spotify
 {{< spotify type="album" id="4cBfyeNYbJAmOq0sl3Hijd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Emutat3_IP0" title="John Farnham - Pressure Down" >}}
@@ -48,8 +53,14 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1986 |
 | Discogs Link   | [John Farnham - Whispering Jack](https://www.discogs.com/release/1161865-John-Farnham-Whispering-Jack) |
-| Label          | RCA, Wheatley Records |
-| Format         | LP, Album |
+| Label          | RCA |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | PL71224 |
 
-This release has a different layout on the center label as the [r=1152744] already in the database.  Printed in Germany  Ⓟ 1986 Wheatley Records, Pty. Ltd.  Comes with inner sleeve with lyrics
+This release has a different layout on the center label as the [r=1152744] already in the database.
+
+Printed in Germany
+
+Ⓟ 1986 Wheatley Records, Pty. Ltd.
+
+Comes with inner sleeve with lyrics

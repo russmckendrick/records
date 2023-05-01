@@ -2,7 +2,7 @@
 title: "Von Hertzen Brothers - War Is Over"
 artist: "Von Hertzen Brothers"
 album_name: "War Is Over"
-date: 2017-11-12
+date: 2017-11-12T13:25:28.000000Z
 release_id: "11111473"
 slug: "war-is-over-11111473"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. War Is Over
 2. To The End Of The World
@@ -26,8 +27,12 @@ styles: ["Prog Rock"]
 10. Beyond The Storm
 11. I'll Make It Up To You (Bonus Track)
 12. New Terrain (Bonus Track)
+
+
 ## Spotify
 {{< spotify type="album" id="7EqrrMcMnLF5LZy4tReToj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}
@@ -40,7 +45,7 @@ styles: ["Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Von Hertzen Brothers - War Is Over](https://www.discogs.com/release/11111473-Von-Hertzen-Brothers-War-Is-Over) |
 | Label          | Music Theories Recordings |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | MTR75371 |
 
 Includes download code.

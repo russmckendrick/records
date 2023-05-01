@@ -2,7 +2,7 @@
 title: "Modest Mouse - We Were Dead Before The Ship Even Sank"
 artist: "Modest Mouse"
 album_name: "We Were Dead Before The Ship Even Sank"
-date: 2017-08-23
+date: 2017-08-23T17:35:15.000000Z
 release_id: "2075825"
 slug: "we-were-dead-before-the-ship-even-sank-2075825"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. 1 Unum
 2. March Into The Sea (3:30)
@@ -32,8 +33,12 @@ styles: ["Indie Rock"]
 16. Spitting Venom (8:27)
 17. People As Places As People (3:42)
 18. Invisible (3:59)
+
+
 ## Spotify
 {{< spotify type="album" id="2lXBCL76UL5PCPbfAqKBkz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="O4XskfT6vNY" title="Modest Mouse - Missed the Boat (Contest Video)" >}}
@@ -52,7 +57,21 @@ styles: ["Indie Rock"]
 | Release Year   | 2007 |
 | Discogs Link   | [Modest Mouse - We Were Dead Before The Ship Even Sank](https://www.discogs.com/release/2075825-Modest-Mouse-We-Were-Dead-Before-The-Ship-Even-Sank) |
 | Label          | Epic |
-| Format         | 2xLP, Album, Gat |
+| Format         | Vinyl 2× LP Album (Gatefold) |
 | Catalog Number | 82876 86139 1 |
 
-180 Gram Vinyl  Labels: © ℗ 2006 Sony BMG Music Entertainment Made in the EU Sleeve: © ℗ 2007 Sony BMG Music Entertainment  Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:  1 UNUM 2 DUO 3 TRIA 4 QUATTOR 
+180 Gram Vinyl
+
+Labels:
+© ℗ 2006 Sony BMG Music Entertainment
+Made in the EU
+Sleeve:
+© ℗ 2007 Sony BMG Music Entertainment
+
+Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:
+
+1 UNUM
+2 DUO
+3 TRIA
+4 QUATTOR
+

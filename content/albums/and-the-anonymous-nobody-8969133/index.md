@@ -2,7 +2,7 @@
 title: "De La Soul - And The Anonymous Nobody"
 artist: "De La Soul"
 album_name: "And The Anonymous Nobody"
-date: 2016-09-30
+date: 2016-09-30T16:34:07.000000Z
 release_id: "8969133"
 slug: "and-the-anonymous-nobody-8969133"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
+
 ## Tracklisting
 1. Genesis (1:40)
 2. Royalty Capes (3:47)
@@ -32,8 +33,12 @@ styles: ["Conscious"]
 16. Unfold (6:00)
 17. Here In After (5:35)
 18. Exodus (3:15)
+
+
 ## Spotify
 {{< spotify type="album" id="73USNxSgFncLAsOAWfIA4J" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7vDVDo9w20w" title="De La Soul - Pain ft. Snoop Dogg (Official Audio)" >}}
@@ -41,11 +46,12 @@ styles: ["Conscious"]
 - [De La Soul - Here in After (feat. Damon Albarn) (Official Audio)](https://www.youtube.com/watch?v=OWpmWvJThkQ)
 - [De La Soul - Lord Intended (feat. Justin Hawkins) (Official Audio)](https://www.youtube.com/watch?v=fs8g_BRPbc8)
 - [De La Soul - Genesis (feat. Jill Scott) (Official Audio)](https://www.youtube.com/watch?v=ExtdveIZXHk)
+- [De La Soul - TrainWreck (Official Audio)](https://www.youtube.com/watch?v=b5x2NROm8tc)
 - [De La Soul - Drawn ft. Little Dragon (Official Audio)](https://www.youtube.com/watch?v=umdFFR9XVpE)
+- [De La Soul - Drawn ft. Little Dragon](https://www.youtube.com/watch?v=lGpw84iVgmM)
 - [De La Soul - Royalty Capes (Official Audio)](https://www.youtube.com/watch?v=x792pVBX89o)
 - [De La Soul - Snoopies (feat. David Byrne) (Official Audio)](https://www.youtube.com/watch?v=rBk9knE8v08)
 - [Genesis](https://www.youtube.com/watch?v=trouXMCxLAw)
-- [De La Soul - TrainWreck (Official Audio)](https://www.youtube.com/watch?v=b5x2NROm8tc)
 - [De La Soul - Exodus (Official Audio)](https://www.youtube.com/watch?v=SXUrOzR6N9g)
 - [De La Soul - CBGB'S (Official Audio)](https://www.youtube.com/watch?v=r0-ueCPCYNI)
 - [De La Soul & The Anonymous Nobody](https://www.youtube.com/watch?v=lY7TXSOYA-M)
@@ -55,7 +61,6 @@ styles: ["Conscious"]
 - [De La Soul - Sexy Bitch (Official Audio)](https://www.youtube.com/watch?v=cyT2vpBA2Cs)
 - [De La Soul - Action! (Official Audio)](https://www.youtube.com/watch?v=QF24oQIU5DI)
 - [De La Soul - Whoodeeni (feat. 2Chainz) (Official Audio)](https://www.youtube.com/watch?v=V2YAl81ikhQ)
-- [De La Soul - Drawn ft. Little Dragon](https://www.youtube.com/watch?v=lGpw84iVgmM)
 - [De La Soul Pain feat. Snoop Dogg (Official Video)](https://www.youtube.com/watch?v=nLDIs0GHP2k)
 
 ## Notes
@@ -64,7 +69,11 @@ styles: ["Conscious"]
 | Release Year   | 2016 |
 | Discogs Link   | [De La Soul - And The Anonymous Nobody](https://www.discogs.com/release/8969133-De-La-Soul-And-The-Anonymous-Nobody) |
 | Label          | AOI Records |
-| Format         | 2xLP, Album, Ltd, Cle |
+| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Catalog Number | AOI001VLK |
 
-*Kickstarter campaign edition  *Includes Kickstarter only bonus track "Unfold" which is not included on retail versions. *Unsigned (some LP covers were signed as a different Kickstarter reward level) *Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level) *Comes with drop card for digital download of album (MP3)
+*Kickstarter campaign edition 
+*Includes Kickstarter only bonus track "Unfold" which is not included on retail versions.
+*Unsigned (some LP covers were signed as a different Kickstarter reward level)
+*Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level)
+*Comes with drop card for digital download of album (MP3)

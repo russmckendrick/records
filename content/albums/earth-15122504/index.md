@@ -2,7 +2,7 @@
 title: "Ed O'Brien - Earth"
 artist: "Ed O'Brien"
 album_name: "Earth"
-date: 2020-04-27
+date: 2020-04-27T12:46:53.000000Z
 release_id: "15122504"
 slug: "earth-15122504"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Folk", "House"]
 ---
+
 ## Tracklisting
 1. Shangri-La
 2. Brasil
@@ -24,6 +25,9 @@ styles: ["Indie Rock", "Folk", "House"]
 8. Olympik
 9. Cloak Of The Night
 
+
+
+
 ## Videos
 {{< youtube id="xefWbfWUbrQ" title="EOB - Brasil" >}}
 
@@ -32,8 +36,8 @@ styles: ["Indie Rock", "Folk", "House"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Ed O'Brien - Earth](https://www.discogs.com/release/15122504-EOB-Earth) |
-| Label          | Capitol Records, Polydor |
-| Format         | LP, Album, Ltd, Ora |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
 | Catalog Number | 00602508363429 |
 
 Indie Record Store Exclusive 180g Orange Vinyl, gatefold sleeve, includes 6 lithographs.

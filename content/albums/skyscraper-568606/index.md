@@ -2,7 +2,7 @@
 title: "David Lee Roth - Skyscraper"
 artist: "David Lee Roth"
 album_name: "Skyscraper"
-date: 2016-02-29
+date: 2016-02-29T18:16:24.000000Z
 release_id: "568606"
 slug: "skyscraper-568606"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Knucklebones (3:18)
 2. Just Like Paradise (4:03)
@@ -24,8 +25,12 @@ styles: ["Hard Rock", "Pop Rock"]
 8. Hina (4:40)
 9. Perfect Timing (3:41)
 10. Two Fools A Minute (4:28)
+
+
 ## Spotify
 {{< spotify type="album" id="2mYFKWSxCYhLHSXsjLDmp4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PUBARAhO9EY" title="David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p" >}}
@@ -62,8 +67,13 @@ styles: ["Hard Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1988 |
 | Discogs Link   | [David Lee Roth - Skyscraper](https://www.discogs.com/release/568606-David-Lee-Roth-Skyscraper) |
-| Label          | Warner Bros. Records, Warner Bros. Records |
-| Format         | LP, Album |
-| Catalog Number | 925 671-1, WX 140 |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | 925 671-1 |
 
-Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound. Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle. Manufactured in Germany. Record Service GmbH, Alsdorf.  (C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S. 
+Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound.
+Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle.
+Manufactured in Germany. Record Service GmbH, Alsdorf.
+
+(C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S.
+

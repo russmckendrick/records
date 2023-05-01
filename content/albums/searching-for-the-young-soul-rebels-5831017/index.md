@@ -2,7 +2,7 @@
 title: "Dexys Midnight Runners - Searching For The Young Soul Rebels"
 artist: "Dexys Midnight Runners"
 album_name: "Searching For The Young Soul Rebels"
-date: 2020-08-07
+date: 2020-08-07T19:26:54.000000Z
 release_id: "5831017"
 slug: "searching-for-the-young-soul-rebels-5831017"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Soul"]
 ---
+
 ## Tracklisting
 1. Burn It Down
 2. Tell Me When My Light Turns Green
@@ -25,8 +26,12 @@ styles: ["New Wave", "Soul"]
 9. Keep It
 10. Love Part One
 11. There, There, My Dear
+
+
 ## Spotify
 {{< spotify type="album" id="5iawHcgRuKL5HMRbigdvWC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="IV6WFnLUl10" title="Burn It Down (2000 Remaster)" >}}
@@ -46,8 +51,8 @@ styles: ["New Wave", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Dexys Midnight Runners - Searching For The Young Soul Rebels](https://www.discogs.com/release/5831017-Dexys-Midnight-Runners-Searching-For-The-Young-Soul-Rebels) |
-| Label          | Parlophone, Late Night Feelings |
-| Format         | LP, Album, RE, RM |
-| Catalog Number | PCSX 7213, 2564629701 |
+| Label          | Parlophone |
+| Format         | Vinyl LP Album Reissue Remastered |
+| Catalog Number | PCSX 7213 |
 
 Comes with lyrics inner sleeve.

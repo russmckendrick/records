@@ -2,7 +2,7 @@
 title: "The Lickerish Quartet - Threesome Vol. 1"
 artist: "The Lickerish Quartet"
 album_name: "Threesome Vol. 1"
-date: 2020-08-23
+date: 2020-08-23T21:16:06.000000Z
 release_id: "15551347"
 slug: "threesome-vol-1-15551347"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Fadoodle
 2. Bluebird's Blues
@@ -22,8 +23,12 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 6. Bluebird's Blues (Bonus Instrumental Version)
 7. There Is A Magic Number (Bonus Instrumental Version)
 8. Lighthouse Spaceship (Bonus Instrumental Version)
+
+
 ## Spotify
 {{< spotify type="album" id="6kOgdCOle8lLNybjAAkaRg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]" >}}
@@ -36,8 +41,12 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Lickerish Quartet - Threesome Vol. 1](https://www.discogs.com/release/15551347-The-Lickerish-Quartet-Threesome-Vol-1) |
-| Label          | Label Logic, INgrooves |
-| Format         | 12\", EP, RM, Ran |
+| Label          | Label Logic |
+| Format         | Vinyl 12" 33 ⅓ RPM EP Remastered Stereo (Random Color) |
 | Catalog Number | none |
 
-"Bonus Instrumental Version" per each Side B track title, printed on the reverse of the EP cover - "Instrumental Version" printed on the label on Side B.  According to album release website, "The color of vinyl you receive will be randomly chosen".  B-side instrumental versions unique to the vinyl edition. No catalog number, no text on spine. Includes printed inner sleeve.
+"Bonus Instrumental Version" per each Side B track title, printed on the reverse of the EP cover - "Instrumental Version" printed on the label on Side B.
+
+According to album release website, "The color of vinyl you receive will be randomly chosen". 
+B-side instrumental versions unique to the vinyl edition.
+No catalog number, no text on spine. Includes printed inner sleeve.

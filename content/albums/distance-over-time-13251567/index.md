@@ -2,7 +2,7 @@
 title: "Dream Theater - Distance Over Time"
 artist: "Dream Theater"
 album_name: "Distance Over Time"
-date: 2019-02-22
+date: 2019-02-22T18:15:05.000000Z
 release_id: "13251567"
 slug: "distance-over-time-13251567"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
+
 ## Tracklisting
 1. Untethered Angel (6:12)
 2. Paralyzed (4:14)
@@ -34,8 +35,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 18. Out Of Reach (4:05)
 19. Pale Blue Dot (8:26)
 20. Viper King (4:01)
+
+
 ## Spotify
 {{< spotify type="album" id="1sRDi0MSGOy91fHhcpXIu4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zB19NXfsxdQ" title="Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album" >}}
@@ -46,8 +51,14 @@ styles: ["Heavy Metal", "Progressive Metal"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Dream Theater - Distance Over Time](https://www.discogs.com/release/13251567-Dream-Theater-Distance-Over-Time) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album, 180 + CD, Album |
-| Catalog Number | IOMLP 523, 19075920621 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album Stereo (180 gram), CD Album Stereo |
+| Catalog Number | IOMLP 523 |
 
-This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch. It comes with hype-sticker on external sleeve.  Durations do not appear on this release.  CD mastered at Baker Mastering LP mastered at Fine Tune Mastering
+This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch.
+It comes with hype-sticker on external sleeve.
+
+Durations do not appear on this release.
+
+CD mastered at Baker Mastering
+LP mastered at Fine Tune Mastering

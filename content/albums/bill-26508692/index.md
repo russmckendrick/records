@@ -2,7 +2,7 @@
 title: "Tripping Daisy - Bill"
 artist: "Tripping Daisy"
 album_name: "Bill"
-date: 2023-04-03
+date: 2023-04-03T04:22:38.000000Z
 release_id: "26508692"
 slug: "bill-26508692"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. My Umbrella (4:32)
 2. One Through Four (2:57)
@@ -24,8 +25,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Brown-Eyed Pickle Boy (4:50)
 9. Miles And Miles Of Pain (5:41)
 10. Triangle (5:52)
+
+
 ## Spotify
 {{< spotify type="album" id="6PeDtOK5p4YYZdgB3hYyIO" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,7 +38,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [Tripping Daisy - Bill](https://www.discogs.com/release/26508692-Tripping-Daisy-Bill) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | MOVLP3369 |
 
-MOV Hype Sticker: Available On Vinyl For The First Time Includes Insert 180 Gram Audiophile Vinyl
+MOV Hype Sticker: Available On Vinyl For The First Time
+Includes Insert
+180 Gram Audiophile Vinyl

@@ -2,7 +2,7 @@
 title: "LCD Soundsystem - LCD Soundsystem"
 artist: "LCD Soundsystem"
 album_name: "LCD Soundsystem"
-date: 2017-06-24
+date: 2017-06-24T08:44:08.000000Z
 release_id: "10463696"
 slug: "lcd-soundsystem-10463696"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro"]
 ---
+
 ## Tracklisting
 1. Daft Punk Is Playing At My House
 2. Too Much Love
@@ -23,8 +24,12 @@ styles: ["Alternative Rock", "Electro"]
 7. Thrills
 8. Disco Infiltrator
 9. Great Release
+
+
 ## Spotify
 {{< spotify type="album" id="6aSk2vxoY3xtz7cXKuY9EL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)" >}}
@@ -50,8 +55,15 @@ styles: ["Alternative Rock", "Electro"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [LCD Soundsystem - LCD Soundsystem](https://www.discogs.com/release/10463696-LCD-Soundsystem-LCD-Soundsystem) |
-| Label          | DFA, DFA, Parlophone |
-| Format         | LP, Album, RE, Gat |
-| Catalog Number | dfaplg 2138lp, 0190295905262 |
+| Label          | DFA |
+| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Catalog Number | dfaplg 2138lp |
 
-Gatefold sleeve  ℗ 2005 © 2017  Printed in the EU  Reissue with different back cover.
+Gatefold sleeve
+
+℗ 2005
+© 2017
+
+Printed in the EU
+
+Reissue with different back cover.

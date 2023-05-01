@@ -2,7 +2,7 @@
 title: "Morphine - Cure For Pain"
 artist: "Morphine"
 album_name: "Cure For Pain"
-date: 2019-06-12
+date: 2019-06-12T17:58:02.000000Z
 release_id: "13678278"
 slug: "cure-for-pain-13678278"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Dawna (0:44)
 2. Buena (3:19)
@@ -27,8 +28,9 @@ styles: ["Alternative Rock"]
 11. Let’s Take A Trip Together (2:59)
 12. Sheila (2:49)
 13. Miles Davis’ Funeral (1:41)
-## Spotify
-{{< spotify type="album" id="0FocpOyE7RnaNsiaEhSbp6" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="ca2puE1R7a8" title="Dawna" >}}
@@ -50,8 +52,12 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Morphine - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-Cure-For-Pain) |
-| Label          | Music On Vinyl, Rykodisc |
-| Format         | LP, Album, Ltd, Num, RE, RP, Blu |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Blue Marbled, 180 Gram) |
 | Catalog Number | MOVLP1783 |
 
- Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU.
+
+Limited to 3500 copies worldwide.
+Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures. 
+
+Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU.

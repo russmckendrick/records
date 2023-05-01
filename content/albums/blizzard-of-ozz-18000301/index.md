@@ -2,7 +2,7 @@
 title: "Ozzy Osbourne - Blizzard Of Ozz"
 artist: "Ozzy Osbourne"
 album_name: "Blizzard Of Ozz"
-date: 2021-03-27
+date: 2021-03-27T09:19:14.000000Z
 release_id: "18000301"
 slug: "blizzard-of-ozz-18000301"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
+
 ## Tracklisting
 1. I Don't Know (5:14)
 2. Crazy Train (4:50)
@@ -23,8 +24,12 @@ styles: ["Heavy Metal"]
 7. No Bone Movies (3:53)
 8. Revelation (Mother Earth) (6:10)
 9. Steal Away (The Night) (3:27)
+
+
 ## Spotify
 {{< spotify type="album" id="4qUMByJ3Pk94BFnCmGaUPS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="o0RE230PlX4" title="Mr. Crowley" >}}
@@ -42,8 +47,11 @@ styles: ["Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Ozzy Osbourne - Blizzard Of Ozz](https://www.discogs.com/release/18000301-Ozzy-Osbourne-Blizzard-Of-Ozz) |
-| Label          | Epic, Legacy, Jet Records |
-| Format         | LP, Album, RE, Sil |
+| Label          | Epic |
+| Format         | Vinyl LP Album Reissue (Silver With Red Swirls) |
 | Catalog Number | 19439812511 |
 
-Made in the EU.  Includes printed inner sleeve containing lyrics, publishing information, and words/music by information. 
+Made in the EU.
+
+Includes printed inner sleeve containing lyrics, publishing information, and words/music by information.
+

@@ -2,7 +2,7 @@
 title: "Black Country, New Road - For The First Time"
 artist: "Black Country, New Road"
 album_name: "For The First Time"
-date: 2021-02-05
+date: 2021-02-05T09:27:50.000000Z
 release_id: "17151706"
 slug: "for-the-first-time-17151706"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Experimental", "Post-Punk", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Instrumental
 2. Athens, France
@@ -20,8 +21,12 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 4. Sunglasses
 5. Track X
 6. Opus
+
+
 ## Spotify
 {{< spotify type="album" id="2PfgptDcfJTFtoZIS3AukX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="95k_xxZvMIc" title="Black Country New Road - 'Instrumental' (Official Visualizer)" >}}
@@ -37,7 +42,7 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Black Country, New Road - For The First Time](https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time) |
 | Label          | Ninja Tune |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ZEN269 |
 
 140 gram single LP w/ white paper inner sleeve and 12 inch lyric booklet. Also comes with download code stickered on inner sleeve.

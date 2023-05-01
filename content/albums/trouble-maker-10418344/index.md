@@ -2,7 +2,7 @@
 title: "Rancid - Trouble Maker"
 artist: "Rancid"
 album_name: "Trouble Maker"
-date: 2017-06-10
+date: 2017-06-10T11:14:25.000000Z
 release_id: "10418344"
 slug: "trouble-maker-10418344"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
+
 ## Tracklisting
 1. Track Fast	
 2. Ghost Of A Chance
@@ -31,8 +32,12 @@ styles: ["Punk", "Ska"]
 15. I Kept A Promise
 16. Cold Cold Blood
 17. This Is Not The End
+
+
 ## Spotify
 {{< spotify type="album" id="0IJ8KmhJausnsCjUvgM5vY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pYnKxE1ezUc" title="Where I'm Going - Rancid" >}}
@@ -46,8 +51,8 @@ styles: ["Punk", "Ska"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Rancid - Trouble Maker](https://www.discogs.com/release/10418344-Rancid-Trouble-Maker) |
-| Label          | Hellcat Records, Epitaph |
-| Format         | LP, Album |
+| Label          | Hellcat Records |
+| Format         | Vinyl LP Album |
 | Catalog Number | 7465-1 |
 
 It contains a double sided insert.

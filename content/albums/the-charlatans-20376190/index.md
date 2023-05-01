@@ -2,7 +2,7 @@
 title: "The Charlatans - The Charlatans"
 artist: "The Charlatans"
 album_name: "The Charlatans"
-date: 2021-10-08
+date: 2021-10-08T09:54:16.000000Z
 release_id: "20376190"
 slug: "the-charlatans-20376190"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Nine Acre Court (3:45)
 2. Feeling Holy (5:16)
@@ -27,8 +28,12 @@ styles: ["Britpop", "Indie Rock"]
 11. No Fiction (3:39)
 12. See It Through (4:07)
 13. Thank You (3:35)
+
+
 ## Spotify
 {{< spotify type="album" id="3w929DsUH49KkQ8FNLo2wE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ogFE4t2eyqw" title="THE CHARLATANS - Bullet comes" >}}
@@ -45,7 +50,11 @@ styles: ["Britpop", "Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [The Charlatans - The Charlatans](https://www.discogs.com/release/20376190-The-Charlatans-The-Charlatans) |
 | Label          | Beggars Arkive |
-| Format         | 2xLP, Album, RE, RM, Yel |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Yellow Marbled) |
 | Catalog Number | BBL 174 LP2 |
 
-Gatefold sleeve.    nb: Secondary barcode sticker not on most copies.  For mispressing featuring Gary Numan see "[r=20732044]".
+Gatefold sleeve.  
+
+nb: Secondary barcode sticker not on most copies.
+
+For mispressing featuring Gary Numan see "[r=20732044]".

@@ -2,7 +2,7 @@
 title: "Crowded House - Dreamers Are Waiting"
 artist: "Crowded House"
 album_name: "Dreamers Are Waiting"
-date: 2021-06-04
+date: 2021-06-04T06:26:22.000000Z
 release_id: "19009780"
 slug: "dreamers-are-waiting-19009780"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Bad Times Good
 2. Playing With Fire
@@ -26,8 +27,12 @@ styles: ["Pop Rock"]
 10. Real Life Woman
 11. Love Isn't Hard At All
 12. Deeper Down
+
+
 ## Spotify
 {{< spotify type="album" id="3I5zKec5GZIyY2MFu9WCRA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-HGjvQxGxNQ" title="Crowded House - To The Island (Official Video)" >}}
@@ -41,8 +46,27 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Crowded House - Dreamers Are Waiting](https://www.discogs.com/release/19009780-Crowded-House-Dreamers-Are-Waiting) |
-| Label          | EMI, EMI, EMI |
-| Format         | LP, Album, Ltd, Cya |
-| Catalog Number | 3543054, 00602435329635, 3532963 |
+| Label          | EMI |
+| Format         | Vinyl LP Album Limited Edition (Cyan Blue / Black Split) |
+| Catalog Number | 3543054 |
 
-Gatefold sleeve. Photo innersleeve. 8 pages lyrics insert.  An EMI Recorded Music Australia production. ℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company. Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the E.U.  Round Hype sticker: 180 gram Heavyweight Multi-Coloured Vinyl 3543054  Rectangular Hype sticker: Crowded House Dreamers Are Waiting 3543054 
+Gatefold sleeve.
+Photo innersleeve.
+8 pages lyrics insert.
+
+An EMI Recorded Music Australia production.
+℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company.
+Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands.
+Made in the E.U.
+
+Round Hype sticker:
+180 gram
+Heavyweight
+Multi-Coloured Vinyl
+3543054
+
+Rectangular Hype sticker:
+Crowded House
+Dreamers Are Waiting
+3543054
+

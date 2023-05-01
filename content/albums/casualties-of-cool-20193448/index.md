@@ -2,7 +2,7 @@
 title: "Casualties Of Cool - Casualties Of Cool"
 artist: "Casualties Of Cool"
 album_name: "Casualties Of Cool"
-date: 2021-09-12
+date: 2021-09-12T03:53:23.000000Z
 release_id: "20193448"
 slug: "casualties-of-cool-20193448"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Country", "Folk", "Abstract"]
 ---
+
 ## Tracklisting
 1. Daddy (5:11)
 2. Mountaintop (5:33)
@@ -45,6 +46,9 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 29. The Bridge
 30. Pure
 
+
+
+
 ## Videos
 {{< youtube id="L2avV9ZGE3A" title="CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)" >}}
 - [Casualties of Cool 'Flight' - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
@@ -55,8 +59,16 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Casualties Of Cool - Casualties Of Cool](https://www.discogs.com/release/20193448-Casualties-Of-Cool-Casualties-Of-Cool) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album, 180 + CD, Album + RE |
-| Catalog Number | IOMLP 493, 19439883971 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
+| Catalog Number | IOMLP 493 |
 
-© 2014 HevyDevy Records - Issued under license from HevyDevy Records to InsideOutMusic © 2021 HevyDevy Records - Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic - LC 01414 - IOMLP 493 DIstributed by Sony Music Entertainment All trademarks and logos are protected Made in the EU - Sony Music Entertainment International Services GmBH - PO Box 510 - 33311 Gütersloh, Germany 19439883971  Gatefold sleeve Booklet
+© 2014 HevyDevy Records - Issued under license from HevyDevy Records to InsideOutMusic
+© 2021 HevyDevy Records - Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic - LC 01414 - IOMLP 493
+DIstributed by Sony Music Entertainment
+All trademarks and logos are protected
+Made in the EU - Sony Music Entertainment International Services GmBH - PO Box 510 - 33311 Gütersloh, Germany
+19439883971
+
+Gatefold sleeve
+Booklet

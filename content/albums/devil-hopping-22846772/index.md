@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - Devil Hopping"
 artist: "Inspiral Carpets"
 album_name: "Devil Hopping"
-date: 2022-04-15
+date: 2022-04-15T08:49:37.000000Z
 release_id: "22846772"
 slug: "devil-hopping-22846772"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. I Want You (3:09)
 2. Party In The Sky (3:51)
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 10. Half Way There (3:50)
 11. Cobra (2:13)
 12. I Don't Want To Go Blind (4:02)
+
+
 ## Spotify
 {{< spotify type="album" id="7vhsZvvArRpU9cXxjfiC06" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}
@@ -48,8 +53,14 @@ styles: ["Indie Rock", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/22846772-Inspiral-Carpets-Devil-Hopping) |
-| Label          | Mute, BMG, Cow |
-| Format         | LP, Album, Ltd, RE, Red |
+| Label          | Mute |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent) |
 | Catalog Number | ldung25 |
 
-Hype sticker on sleeve. Inner sleeve with lyrics.  "for [craig](https://www.discogs.com/artist/397375-Craig-Gill)..."   
+Hype sticker on sleeve.
+Inner sleeve with lyrics.
+
+"for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."
+
+
+

@@ -2,7 +2,7 @@
 title: "Ben Folds Five - Ben Folds Five"
 artist: "Ben Folds Five"
 album_name: "Ben Folds Five"
-date: 2020-02-25
+date: 2020-02-25T18:10:13.000000Z
 release_id: "14254468"
 slug: "ben-folds-five-14254468"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Jackson Cannery (3:24)
 2. Philosophy (4:36)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Video (4:07)
 11. The Last Polka (4:34)
 12. Boxing (4:43)
+
+
 ## Spotify
 {{< spotify type="album" id="2zNa1aZ0VaGfuiNqDbrQET" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zUOt5AhUqKE" title="Ben Folds Five FULL ALBUM" >}}
@@ -39,7 +44,12 @@ styles: ["Indie Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Ben Folds Five - Ben Folds Five](https://www.discogs.com/release/14254468-Ben-Folds-Five-Ben-Folds-Five) |
 | Label          | Plain Recordings |
-| Format         | LP, Album, Ltd, RE, RM, Tur |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Turquoise) |
 | Catalog Number | plain169 |
 
-Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.  Recorded at Wave Castle, NC, 2/95.   
+Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.
+
+Recorded at Wave Castle, NC, 2/95.
+
+
+

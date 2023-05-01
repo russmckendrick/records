@@ -2,7 +2,7 @@
 title: "Suede - Head Music"
 artist: "Suede"
 album_name: "Head Music"
-date: 2017-05-04
+date: 2017-05-04T21:09:51.000000Z
 release_id: "5448682"
 slug: "head-music-5448682"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Electricity (4:39)
 2. Savoir Faire (4:37)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock", "Britpop"]
 11. Indian Strings (4:21)
 12. He's Gone (5:35)
 13. Crack In The Union Jack (1:56)
+
+
 ## Spotify
 {{< spotify type="album" id="03SdAKm8cdH2jeKKyTiYvc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ygHrqRx7Abg" title="Suede - Electricity (Official Video)" >}}
@@ -43,7 +48,11 @@ styles: ["Alternative Rock", "Britpop"]
 | Release Year   | 2014 |
 | Discogs Link   | [Suede - Head Music](https://www.discogs.com/release/5448682-Suede-Head-Music) |
 | Label          | Demon Records |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Catalog Number | INSATIABLE 4 |
 
-Mastered at The Townhouse. Pressed at Damont Audio Limited. Designed at Commercial Art. Supplied with download card for the full album.  Though reissued in 2014, copyright notice states '(c) 2013'. 
+Mastered at The Townhouse. Pressed at Damont Audio Limited.
+Designed at Commercial Art.
+Supplied with download card for the full album. 
+Though reissued in 2014, copyright notice states '(c) 2013'.
+

@@ -2,7 +2,7 @@
 title: "Gizmodrome - Gizmodrome"
 artist: "Gizmodrome"
 album_name: "Gizmodrome"
-date: 2017-09-15
+date: 2017-09-15T13:05:04.000000Z
 release_id: "10844344"
 slug: "gizmodrome-10844344"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Zombies In The Mall (4:00)
 2. Stay Ready (4:02)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Spin This (6:10)
 11. I Know Too Much (3:47)
 12. Stark Naked (4:04)
+
+
 ## Spotify
 {{< spotify type="album" id="0jwNBwTZLL5opYhcGwh5pD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma" >}}
@@ -47,7 +52,9 @@ styles: ["Alternative Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Gizmodrome - Gizmodrome](https://www.discogs.com/release/10844344-Gizmodrome-Gizmodrome) |
 | Label          | Ear Music |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 0212264EMU |
 
-Gatefold sleeve, printed inner.  Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)". Made in Germany.
+Gatefold sleeve, printed inner. 
+Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)".
+Made in Germany.

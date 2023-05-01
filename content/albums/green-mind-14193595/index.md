@@ -2,7 +2,7 @@
 title: "Dinosaur Jr. - Green Mind"
 artist: "Dinosaur Jr."
 album_name: "Green Mind"
-date: 2019-12-05
+date: 2019-12-05T18:05:49.000000Z
 release_id: "14193595"
 slug: "green-mind-14193595"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Wagon
 2. Puke + Cry
@@ -35,8 +36,12 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 19. Keep The Glove (Live)
 20. The Lung (Live)
 21. The Post (Live)
+
+
 ## Spotify
 {{< spotify type="album" id="6O2rF8WIEEUPxxOYqWOacF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="v5yxVuNDLmo" title="Dinosaur Jr The Wagon" >}}
@@ -47,7 +52,28 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Dinosaur Jr. - Green Mind](https://www.discogs.com/release/14193595-Dinosaur-Jr-Green-Mind) |
 | Label          | Cherry Red |
-| Format         | LP, Album, Gre + LP, Comp, Gre + Dlx, RE, RM |
+| Format         | Vinyl LP Album (Green), Vinyl LP Compilation (Green), All Media Deluxe Edition Reissue Remastered |
 | Catalog Number | PBREDD756 |
 
-Includes printer inner sleeves with a review and interviews with the band.  ℗ 2019 Cherry Red Records Ltd. This compilation © 2019 Cherry Red Records Ltd. Power Road Studios, 114 Power Road, London W4 5PY www.cherryred.co.uk Made in EU  Green mind: Drums recorded at Sorcerer Sound. Other stuff recorded at Fort Apache North Mixed at White Crow Audio  'Whatever's Cool With Me' EP recorded all over the place [...]  'Green Mind' released February 1991. Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991. Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991. Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.  All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.  Pre-order came with pin 4x4 cm (compare photos).
+Includes printer inner sleeves with a review and interviews with the band.
+
+℗ 2019 Cherry Red Records Ltd.
+This compilation © 2019 Cherry Red Records Ltd.
+Power Road Studios, 114 Power Road, London W4 5PY
+www.cherryred.co.uk Made in EU
+
+Green mind:
+Drums recorded at Sorcerer Sound.
+Other stuff recorded at Fort Apache North
+Mixed at White Crow Audio
+
+'Whatever's Cool With Me' EP recorded all over the place [...]
+
+'Green Mind' released February 1991.
+Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991.
+Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991.
+Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.
+
+All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.
+
+Pre-order came with pin 4x4 cm (compare photos).

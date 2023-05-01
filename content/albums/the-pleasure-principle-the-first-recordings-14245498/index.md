@@ -2,7 +2,7 @@
 title: "Gary Numan - The Pleasure Principle (The First Recordings)"
 artist: "Gary Numan"
 album_name: "The Pleasure Principle (The First Recordings)"
-date: 2019-10-11
+date: 2019-10-11T14:37:07.000000Z
 release_id: "14245498"
 slug: "the-pleasure-principle-the-first-recordings-14245498"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Cars (Demo Version 2)
 2. Films (Demo Version)
@@ -35,8 +36,12 @@ styles: ["New Wave", "Synth-pop"]
 19. Cars (BBC Peel Session)
 20. Films (BBC Peel Session)
 21. Conversation (BBC Peel Session)
+
+
 ## Spotify
 {{< spotify type="album" id="5h5AK7SRFErq9V6h9T36Pz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="K83As_YKLac" title="Cars (Demo Version 2)" >}}
@@ -67,7 +72,18 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2019 |
 | Discogs Link   | [Gary Numan - The Pleasure Principle (The First Recordings)](https://www.discogs.com/release/14245498-Gary-Numan-The-Pleasure-Principle-The-First-Recordings) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Comp, Ora |
+| Format         | Vinyl 2× LP Compilation Stereo (Orange) |
 | Catalog Number | BBQ2158LP |
 
-40th Anniversary Edition.  Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks.   Orange vinyl. Cut out sleeve.   ℗ & © 2019 Beggars Banquet, The Arkive.  Side One / Two / Three Recorded at Freerange Recording Studios London. Side Four Recorded at BBC Maida Vale Studios London.  
+40th Anniversary Edition.
+
+Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks. 
+
+Orange vinyl. Cut out sleeve. 
+
+℗ & © 2019 Beggars Banquet, The Arkive.
+
+Side One / Two / Three Recorded at Freerange Recording Studios London.
+Side Four Recorded at BBC Maida Vale Studios London.
+
+

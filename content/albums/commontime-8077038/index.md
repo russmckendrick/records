@@ -2,7 +2,7 @@
 title: "Field Music - Commontime"
 artist: "Field Music"
 album_name: "Commontime"
-date: 2016-02-08
+date: 2016-02-08T12:51:45.000000Z
 release_id: "8077038"
 slug: "commontime-8077038"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Commontime by Field Music"
     caption: "Commontime by Field Music"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. The Noisy Days Are Over
 2. Disappointed
@@ -28,8 +29,12 @@ styles: null
 12. That's Close Enough For Now
 13. Same Name
 14. Stay Awake
+
+
 ## Spotify
-{{< spotify type="album" id="5JghTUKewWau2OSb3UVkuK" width="100%" height="500" >}}
+{{< spotify type="album" id="5yJ7ZZMLxnVbMuXpfjL8CE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7FGPDau_QwA" title="FIELD MUSIC - The Noisy Days Are Over" >}}
@@ -51,7 +56,7 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [Field Music - Commontime](https://www.discogs.com/release/8077038-Field-Music-Commontime) |
 | Label          | Memphis Industries |
-| Format         | 2xLP, Album, Ltd, 180 |
+| Format         | Vinyl 2× LP Album Limited Edition (180g Orange Colour) |
 | Catalog Number | MI0387LP |
 
 This LP comes with a download code.

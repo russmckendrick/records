@@ -2,7 +2,7 @@
 title: "Lee Fields - Sentimental Fool"
 artist: "Lee Fields"
 album_name: "Sentimental Fool"
-date: 2022-11-04
+date: 2022-11-04T06:15:31.000000Z
 release_id: "24981913"
 slug: "sentimental-fool-24981913"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. Forever (3:15)
 2. I Should Have Let You Be (3:00)
@@ -26,8 +27,12 @@ styles: ["Soul"]
 10. Ordinary Lives (3:16)
 11. Your Face Before My Eyes (1:58)
 12. Extraordinary Man (3:14)
+
+
 ## Spotify
-{{< spotify type="album" id="4YZsaY91O8d2BIVLPgfdUi" width="100%" height="500" >}}
+{{< spotify type="album" id="3zqyliH82PrgRAkIe6CSA2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BRXpKc873PQ" title="Lee Fields - Forever (Official Audio)" >}}
@@ -46,7 +51,9 @@ styles: ["Soul"]
 | Release Year   | 2022 |
 | Discogs Link   | [Lee Fields - Sentimental Fool](https://www.discogs.com/release/24981913-Lee-Fields-Sentimental-Fool) |
 | Label          | Daptone Recording Co. |
-| Format         | LP, Album, Mono, Ora |
+| Format         | Vinyl LP Album Mono (Orange [Sentimental Orange], Indie Exclusive) |
 | Catalog Number | DAP-075 |
 
-"Made in Czech Republic" sticker on back cover  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.
+"Made in Czech Republic" sticker on back cover
+
+Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.

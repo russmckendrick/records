@@ -2,7 +2,7 @@
 title: "John Carpenter - Lost Themes III: Alive After Death"
 artist: "John Carpenter"
 album_name: "Lost Themes III: Alive After Death"
-date: 2021-02-06
+date: 2021-02-06T06:56:18.000000Z
 release_id: "17231170"
 slug: "lost-themes-iii-alive-after-death-17231170"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "Synthwave"]
 ---
+
 ## Tracklisting
 1. Alive After Death
 2. Weeping Ghost
@@ -24,8 +25,12 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 8. Turning The Bones
 9. The Dead Walk
 10. Carpathian Darkness
+
+
 ## Spotify
 {{< spotify type="album" id="2GYD5j8wa4kEhlmN5GGiUT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="A8NHR31TA9E" title="John Carpenter - Alive After Death (Official Music Video)" >}}
@@ -48,7 +53,7 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 | Release Year   | 2021 |
 | Discogs Link   | [John Carpenter - Lost Themes III: Alive After Death](https://www.discogs.com/release/17231170-John-Carpenter-Lost-Themes-III-Alive-After-Death) |
 | Label          | Sacred Bones Records |
-| Format         | LP, Album, Ltd, Red |
+| Format         | Vinyl LP Album Limited Edition (Red) |
 | Catalog Number | SBR-265 |
 
 Includes a digital download card and a 24" x 36" fold-out poster.

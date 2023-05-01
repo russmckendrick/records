@@ -2,7 +2,7 @@
 title: "Justin Townes Earle - Kids In The Street"
 artist: "Justin Townes Earle"
 album_name: "Kids In The Street"
-date: 2019-05-25
+date: 2019-05-25T17:27:53.000000Z
 release_id: "10366653"
 slug: "kids-in-the-street-10366653"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Kids In The Street by Justin Townes Earle"
     caption: "Kids In The Street by Justin Townes Earle"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Champagne Corolla
 2. Maybe A Moment
@@ -26,8 +27,12 @@ styles: null
 10. If I Was The Devil
 11. Trouble Is
 12. There Go A Fool
+
+
 ## Spotify
 {{< spotify type="album" id="10bNKmk6ZxM6HRB5mwh4SU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="mDx4GtD3XJU" title="Justin Townes Earle - Kids In The Street [Audio Only]" >}}
@@ -45,7 +50,5 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Justin Townes Earle - Kids In The Street](https://www.discogs.com/release/10366653-Justin-Townes-Earle-Kids-In-The-Street) |
 | Label          | New West Records |
-| Format         | LP, Album, 150 |
+| Format         | Vinyl LP Album (150g) |
 | Catalog Number | NW5189 |
-
-

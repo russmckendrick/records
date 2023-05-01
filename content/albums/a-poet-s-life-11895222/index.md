@@ -2,7 +2,7 @@
 title: "Tim Armstrong - A Poet's Life"
 artist: "Tim Armstrong"
 album_name: "A Poet's Life"
-date: 2018-04-21
+date: 2018-04-21T11:17:10.000000Z
 release_id: "11895222"
 slug: "a-poet-s-life-11895222"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ska"]
 ---
+
 ## Tracklisting
 1. Wake Up
 2. Hold On
@@ -24,8 +25,12 @@ styles: ["Ska"]
 8. Lady Demeter
 9. Among The Dead
 10. Cold Blooded
+
+
 ## Spotify
 {{< spotify type="album" id="2KapAjnwtdsvFWtMwgiWBI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5YuCERKiRIo" title="Tim Armstrong - Wake Up" >}}
@@ -45,7 +50,9 @@ styles: ["Ska"]
 | Release Year   | 2018 |
 | Discogs Link   | [Tim Armstrong - A Poet's Life](https://www.discogs.com/release/11895222-Tim-Armstrong-A-Poets-Life) |
 | Label          | Hellcat Records |
-| Format         | LP, Album, RSD, Ltd, RE, Whi |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (White) |
 | Catalog Number | 0491-1 |
 
-Gatefold cover. White vinyl.   The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made.
+Gatefold cover. White vinyl. 
+
+The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made.

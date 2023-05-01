@@ -2,7 +2,7 @@
 title: "Haken - Virus"
 artist: "Haken"
 album_name: "Virus"
-date: 2021-01-17
+date: 2021-01-17T03:29:39.000000Z
 release_id: "15637222"
 slug: "virus-15637222"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
+
 ## Tracklisting
 1. Prosthetic
 2. Invasion
@@ -28,8 +29,9 @@ styles: ["Progressive Metal"]
 12. Canary Yellow
 13. Messiah Complex
 14. Only Stars
-## Spotify
-{{< spotify type="album" id="6Qr25ZBwwxtNLYWRRYDkcW" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic (OFFICIAL VIDEO)" >}}
@@ -48,8 +50,11 @@ styles: ["Progressive Metal"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Haken - Virus](https://www.discogs.com/release/15637222-Haken-Virus) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | 2xLP, Album + CD, Album |
-| Catalog Number | IOMLP 549, 19439744731 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album, CD Album |
+| Catalog Number | IOMLP 549 |
 
-Version with black vinyl  Runouts: '1 ❘' is mirrored in all runouts.
+Version with black vinyl
+
+Runouts:
+'1 ❘' is mirrored in all runouts.

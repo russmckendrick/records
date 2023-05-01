@@ -2,7 +2,7 @@
 title: "LCD Soundsystem - Sound Of Silver"
 artist: "LCD Soundsystem"
 album_name: "Sound Of Silver"
-date: 2016-10-31
+date: 2016-10-31T17:50:59.000000Z
 release_id: "3921382"
 slug: "sound-of-silver-3921382"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
+
 ## Tracklisting
 1. Get Innocuous! (7:11)
 2. Time To Get Away (4:11)
@@ -23,8 +24,12 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 7. Watch The Tapes (3:55)
 8. Sound Of Silver (7:07)
 9. New York, I Love You But You're Bringing Me Down (5:35)
+
+
 ## Spotify
 {{< spotify type="album" id="1R8kkopLT4IAxzMMkjic6X" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}
@@ -45,7 +50,15 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 | Release Year   | 2012 |
 | Discogs Link   | [LCD Soundsystem - Sound Of Silver](https://www.discogs.com/release/3921382-LCD-Soundsystem-Sound-Of-Silver) |
 | Label          | DFA |
-| Format         | 2xLP, Album, RE, Gat |
+| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Catalog Number | dfaemi 2164lp |
 
-2012 Reissue. 180g vinyl. Printed in UK  Packaging:  Gatefold cover double album. Includes a large poster. Printed inner sleeves with pictures and lyrics. Metalic silver embossed writing on the front cover. Electrospective sticker on the shrink wrap.
+2012 Reissue. 180g vinyl.
+Printed in UK
+
+Packaging:
+
+Gatefold cover double album. Includes a large poster.
+Printed inner sleeves with pictures and lyrics.
+Metalic silver embossed writing on the front cover.
+Electrospective sticker on the shrink wrap.

@@ -2,7 +2,7 @@
 title: "Ladytron - 604"
 artist: "Ladytron"
 album_name: "604"
-date: 2022-01-11
+date: 2022-01-11T04:52:14.000000Z
 release_id: "20527537"
 slug: "604-20527537"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Mu-Tron (2:58)
 2. Discotraxx (3:50)
@@ -30,8 +31,12 @@ styles: ["Electro", "Synth-pop"]
 14. Ladybird (4:38)
 15. Jet Age (3:10)
 16. Skools Out... (4:06)
+
+
 ## Spotify
 {{< spotify type="album" id="0Rg5gPR4pbwQrnfmTO9yxK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl [Official Music Video]" >}}
@@ -60,7 +65,10 @@ styles: ["Electro", "Synth-pop"]
 | Release Year   | 2021 |
 | Discogs Link   | [Ladytron - 604](https://www.discogs.com/release/20527537-Ladytron-604) |
 | Label          | Nettwerk |
-| Format         | LP, Red + LP, Cle + Album, Ltd, RE |
+| Format         | Vinyl LP 45 RPM (Red [Blood Red]), Vinyl LP 45 RPM (Clear [Ultra Clear]), All Media Album Limited Edition Reissue |
 | Catalog Number | 30912 1 |
 
-20th Anniversary Edition limited to 1000 copies.  140g 
+20th Anniversary Edition limited to 1000 copies.
+
+140g
+

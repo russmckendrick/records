@@ -1,0 +1,83 @@
+---
+title: "Rush - Signals "
+artist: "Rush"
+album_name: "Signals "
+date: 2023-04-30T07:37:15.000000Z
+release_id: "26922068"
+slug: "signals-26922068"
+hideSummary: true
+cover:
+    image: "signals-26922068.jpg"
+    alt: "Signals  by Rush"
+    caption: "Signals  by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
+---
+
+## Tracklisting
+1. Subdivisions (5:34)
+2. The Analog Kid (4:47)
+3. Chemistry (4:59)
+4. Digital Man (6:23)
+5. The Weapon (6:27)
+6. New World Man (3:44)
+7. Losing It (4:53)
+8. Countdown (5:48)
+9. Subdivisions
+10. Red Barchetta (Live)
+11. Countdown
+12. New World Man
+13. New World Man
+14. Vital Signs (Live)
+15. The Weapon (Single Edit)
+16. Digital Man
+17. Subdivisions (5:34)
+18. The Analog Kid (4:46)
+19. Chemistry (4:54)
+20. Digital Man (6:20)
+21. The Weapon (6:26)
+22. New World Man (3:46)
+23. Losing It (4:51)
+24. Countdown (5:51)
+25. Subdivisions
+26. The Analog Kid
+27. Chemistry
+28. Digital Man
+29. The Weapon
+30. New World Man
+31. Losing It
+32. Countdown
+33. Subdivisions
+34. Countdown
+
+
+## Spotify
+{{< spotify type="album" id="0gAhBCBqahVbuOgROHwISD" width="100%" height="500" >}}
+
+
+
+## Notes
+| Notes          |             |
+| ---------------| ----------- |
+| Release Year   | 2023 |
+| Discogs Link   | [Rush - Signals ](https://www.discogs.com/release/26922068-Rush-Signals-) |
+| Label          | Mercury |
+| Format         | Vinyl LP Album Reissue Remastered, Vinyl 4× 7" Single, CD Album Reissue Remastered, Blu-ray Blu-ray Audio Album Stereo Multichannel, Box Set Deluxe Edition Limited Edition (40th Anniversary) |
+| Catalog Number | B0036560-00 |
+
+Box contains:
+- Signals - Half-Speed DMM Vinyl
+- Signals - CD 2015 Remaster
+- Four 7 inches -  Featuring Brand-New Hugh Syme Art
+- Signals - BluRay Audio / Dolby Atmos / Dolby TrueHD 5.1 / PCM Stereo
+- 40 Page Hardcover Book With Brand-New Hugh Syme Artwork And Unreleased Photos
+- Geddy Lee, Alex Lifeson, Neil Peart - Digital Man Lenticulars
+- Double-Sided 24"x24" Poster
+- Hugh Syme Album Cover Sketch Litho
+- 4 Band Photo Prints
+
+Box front side (on shrink): Hype sticker, 'FSK' sticker 
+Box back side (on shrink): 'MADE IN CZECH REBUBLIC' sticker
+
+On the record labels of the four singles the sides are denoted by using the letters of the Semaphore alphabet.
+

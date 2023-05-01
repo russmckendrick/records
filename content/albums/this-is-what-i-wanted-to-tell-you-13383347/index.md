@@ -2,7 +2,7 @@
 title: "Lambchop - This (Is What I Wanted To Tell You)"
 artist: "Lambchop"
 album_name: "This (Is What I Wanted To Tell You)"
-date: 2019-03-23
+date: 2019-03-23T13:39:43.000000Z
 release_id: "13383347"
 slug: "this-is-what-i-wanted-to-tell-you-13383347"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 ---
+
 ## Tracklisting
 1. The New Isn't So You Anymore (5:19)
 2. Crosswords, Or What This Says About You (6:47)
@@ -22,8 +23,12 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 6. The December-ish You (6:20)
 7. This Is What I Wanted To Tell You (6:45)
 8. Flower (2:38)
+
+
 ## Spotify
 {{< spotify type="album" id="5qAJbMh6zmjSgZy7BW34Ja" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="u8NxdNERUGc" title="Lambchop - Everything For You (Official Video)" >}}
@@ -35,7 +40,10 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 | Release Year   | 2019 |
 | Discogs Link   | [Lambchop - This (Is What I Wanted To Tell You)](https://www.discogs.com/release/13383347-Lambchop-This-Is-What-I-Wanted-To-Tell-You) |
 | Label          | City Slang |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition (White) |
 | Catalog Number | SLANG50197LP |
 
-Limited 180g White Vinyl. Comes in a die cut sleeve. Includes a fold out insert with lyrics and credits. An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner.
+Limited 180g White Vinyl.
+Comes in a die cut sleeve.
+Includes a fold out insert with lyrics and credits.
+An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner.

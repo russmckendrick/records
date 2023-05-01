@@ -2,7 +2,7 @@
 title: "Beck - Morning Phase"
 artist: "Beck"
 album_name: "Morning Phase"
-date: 2017-08-11
+date: 2017-08-11T18:27:02.000000Z
 release_id: "5626140"
 slug: "morning-phase-5626140"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Cycle (0:40)
 2. Morning (5:22)
@@ -27,8 +28,11 @@ styles: ["Folk", "Alternative Rock"]
 11. Turn Away (3:05)
 12. Country Down (4:00)
 13. Waking Light (5:00)
+
+
 ## Spotify
 {{< spotify type="album" id="2Qx7dgA5VjX8JDQaXVxzHu" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,8 +40,21 @@ styles: ["Folk", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Beck - Morning Phase](https://www.discogs.com/release/5626140-Beck-Morning-Phase) |
-| Label          | Capitol Records, Capitol Records |
-| Format         | LP, Album, 180 |
-| Catalog Number | 0602537649747, B001983901 |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album (180 Gram) |
+| Catalog Number | 0602537649747 |
 
-180 gram  Includes: Printed insert with lyrics and credits Download card for entire album in MP3 format (later copies don't have it)  Recorded at Ocean Way Recording (Hollywood, CA and Nashville, TN), Blackbird Studio (Nashville, TN), Gang Recording Studio (Paris, France), Rak Studios (London, UK), Capitol Studios (Hollywood, CA), Sunset Sound (Hollywood, CA), and The Library (Los Angeles, CA) Mixed at Electric Lady Studios, New York  ℗© 2014 Fonograf Records under exclusive license to Capitol Records Manufactured in Germany by Furnace MFG / The Pallas Group for Capitol Records Made in EU  Runouts are etched except for the stamped '-31098- P.USA'.
+180 gram
+
+Includes:
+Printed insert with lyrics and credits
+Download card for entire album in MP3 format (later copies don't have it)
+
+Recorded at Ocean Way Recording (Hollywood, CA and Nashville, TN), Blackbird Studio (Nashville, TN), Gang Recording Studio (Paris, France), Rak Studios (London, UK), Capitol Studios (Hollywood, CA), Sunset Sound (Hollywood, CA), and The Library (Los Angeles, CA)
+Mixed at Electric Lady Studios, New York
+
+℗© 2014 Fonograf Records under exclusive license to Capitol Records
+Manufactured in Germany by Furnace MFG / The Pallas Group for Capitol Records
+Made in EU
+
+Runouts are etched except for the stamped '-31098- P.USA'.

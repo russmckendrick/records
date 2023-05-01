@@ -2,7 +2,7 @@
 title: "Faith No More - Who Cares A Lot? The Greatest Hits"
 artist: "Faith No More"
 album_name: "Who Cares A Lot? The Greatest Hits"
-date: 2021-03-29
+date: 2021-03-29T05:07:09.000000Z
 release_id: "17063952"
 slug: "who-cares-a-lot-the-greatest-hits-17063952"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
+
 ## Tracklisting
 1. We Care A Lot (Original Version)
 2. Introduce Yourself
@@ -29,6 +30,9 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 13. Last Cup Of Sorrow
 14. Ashes To Ashes
 15. Stripsearch
+
+
+
 
 ## Videos
 {{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video)" >}}
@@ -56,8 +60,14 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Faith No More - Who Cares A Lot? The Greatest Hits](https://www.discogs.com/release/17063952-Faith-No-More-Who-Cares-A-Lot-The-Greatest-Hits) |
-| Label          | Slash, Slash |
-| Format         | 2xLP, Album, Comp, Ltd, RE, Gol |
-| Catalog Number | 190295233174, 0190295233174 |
+| Label          | Slash |
+| Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue (Gold) |
+| Catalog Number | 190295233174 |
 
-Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.  This compilation ℗ 1998 Slash Records / Warner Music UK Limited. © 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved.   Manufactured for & marketed by Warner Music UK Limited.  Made in Germany.
+Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.
+
+This compilation ℗ 1998 Slash Records / Warner Music UK Limited.
+© 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved. 
+
+Manufactured for & marketed by Warner Music UK Limited. 
+Made in Germany.

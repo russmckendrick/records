@@ -2,7 +2,7 @@
 title: "The Frank And Walters - Trains, Boats And Planes"
 artist: "The Frank And Walters"
 album_name: "Trains, Boats And Planes"
-date: 2018-03-24
+date: 2018-03-24T11:44:35.000000Z
 release_id: "1208911"
 slug: "trains-boats-and-planes-1208911"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Trains, Boats And Planes by The Frank And Walters"
     caption: "Trains, Boats And Planes by The Frank And Walters"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. This Is Not A Song (3:31)
 2. Walter's Trip (2:57)
@@ -25,8 +26,12 @@ styles: null
 9. Bake Us A Song (3:42)
 10. Time (3:24)
 11. High Is Low (2:43)
+
+
 ## Spotify
 {{< spotify type="album" id="4NKM2cooUqnyICpeslOehd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4gKKL_jw5WI" title="This Is Not A Song" >}}
@@ -47,7 +52,7 @@ styles: null
 | Release Year   | 1992 |
 | Discogs Link   | [The Frank And Walters - Trains, Boats And Planes](https://www.discogs.com/release/1208911-The-Frank-And-Walters-Trains-Boats-And-Planes) |
 | Label          | Go! Discs |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | 828-369-1 |
 
 Comes in a gatefold cover with a printed inner sleeve.

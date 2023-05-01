@@ -2,7 +2,7 @@
 title: "Warrant - Cherry Pie"
 artist: "Warrant"
 album_name: "Cherry Pie"
-date: 2023-04-03
+date: 2023-04-03T04:22:19.000000Z
 release_id: "26175560"
 slug: "cherry-pie-26175560"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Glam", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Cherry Pie (3:20)
 2. Uncle Tom's Cabin (4:01)
@@ -26,18 +27,23 @@ styles: ["Glam", "Hard Rock"]
 10. Mr. Rainmaker (3:29)
 11. Train, Train (2:49)
 12. Ode To Tipper Gore (0:54)
+
+
 ## Spotify
 {{< spotify type="album" id="5TMMmKdys49eu6QSPC9sdB" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="OjyZKfdwlng" title="Warrant - Cherry Pie" >}}
-- [Warrant - Uncle Tom's Cabin (Cherry Pie), 1990, Vinyl video 4K, 24bit/96kHz](https://www.youtube.com/watch?v=AlmKZnX_sVY)
+{{< youtube id="bx6f68Wd9dc" title="Warrant - Uncle Tom's Cabin (Official Video)" >}}
+- [Warrant - Cherry Pie](https://www.youtube.com/watch?v=OjyZKfdwlng)
+- [Warrant - I Saw Red](https://www.youtube.com/watch?v=3dh79Ggx9Js)
 - [Warrant – Cherry Pie](https://www.youtube.com/watch?v=Lf3pEwlJ5pw)
+- [Warrant - Uncle Tom's Cabin (Cherry Pie), 1990, Vinyl video 4K, 24bit/96kHz](https://www.youtube.com/watch?v=AlmKZnX_sVY)
+- [LP / Warrant ‎– Cherry Pie / 1991 / Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
 - [LP / Warrant ‎– Cherry Pie / 1991](https://www.youtube.com/watch?v=1mYXpdj5fGQ)
 - [MC / Warrant – Cherry Pie / 1991](https://www.youtube.com/watch?v=0Gc_-ZPpesM)
-- [Warrant - Uncle Tom's Cabin (Official Video)](https://www.youtube.com/watch?v=bx6f68Wd9dc)
 - [Warrant – Bed Of Roses](https://www.youtube.com/watch?v=W48heMOeW1c)
-- [Warrant - I Saw Red](https://www.youtube.com/watch?v=3dh79Ggx9Js)
 - [Warrant – You're The Only Hell Your Mama Ever Raised](https://www.youtube.com/watch?v=3jvd5LL__7w)
 - [Warrant – Mr. Rainmaker](https://www.youtube.com/watch?v=13V2oQ92No0)
 - [Warrant – Love In Stereo](https://www.youtube.com/watch?v=HPnpYGLjrBw)
@@ -54,7 +60,9 @@ styles: ["Glam", "Hard Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560-Warrant-Cherry-Pie) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Pin |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink) |
 | Catalog Number | MOVLP3112 |
 
-Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112
+Limited edition of 3000 individually numbered copies on cherry coloured vinyl
+
+Distribution cat # MOVLPC3112

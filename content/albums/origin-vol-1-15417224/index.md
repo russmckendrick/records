@@ -2,7 +2,7 @@
 title: "The Soundtrack Of Our Lives - Origin Vol. 1"
 artist: "The Soundtrack Of Our Lives"
 album_name: "Origin Vol. 1"
-date: 2020-07-06
+date: 2020-07-06T12:40:06.000000Z
 release_id: "15417224"
 slug: "origin-vol-1-15417224"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Believe I've Found
 2. Transcendental Suicide
@@ -33,6 +34,9 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 17. Love Song #3105
 18. A Room Without A View
 
+
+
+
 ## Videos
 {{< youtube id="CtjtlcJk2IM" title="The Soundtrack of Our Lives - Bigtime" >}}
 - [The Soundtrack of Our Lives - Transcendental Suicide](https://www.youtube.com/watch?v=oga9lQJKDJE)
@@ -43,7 +47,13 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [The Soundtrack Of Our Lives - Origin Vol. 1](https://www.discogs.com/release/15417224-The-Soundtrack-Of-Our-Lives-Origin-Vol-1) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Ltd, Num, RE, RM, Gol |
+| Format         | Vinyl 2× LP Limited Edition Numbered Reissue Remastered Stereo (Gold, Expanded) |
 | Catalog Number | MOVLP2646 |
 
-Limited Edition of 1500 Gold Coloured Copies Individually Numbered Includes Insert Contains 5 Bonus Tracks 180 gram audiophile vinyl  Gatefold cover
+Limited Edition of 1500 Gold Coloured Copies
+Individually Numbered
+Includes Insert
+Contains 5 Bonus Tracks
+180 gram audiophile vinyl
+
+Gatefold cover

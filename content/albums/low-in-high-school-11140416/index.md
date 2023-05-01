@@ -2,7 +2,7 @@
 title: "Morrissey - Low In High School"
 artist: "Morrissey"
 album_name: "Low In High School"
-date: 2017-11-17
+date: 2017-11-17T16:42:09.000000Z
 release_id: "11140416"
 slug: "low-in-high-school-11140416"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. My Love, I’d Do Anything For You (4:43)
 2. I Wish You Lonely (2:58)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. When You Open Your Legs (3:17)
 11. Who Will Protect Us From The Police? (4:05)
 12. Israel (5:55)
+
+
 ## Spotify
 {{< spotify type="album" id="6NqxNgmWYbWW8xkASo13UZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8Z13FURjttI" title="Morrissey - My Love, I'd Do Anything for You (Official Audio)" >}}
@@ -48,8 +53,18 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Morrissey - Low In High School](https://www.discogs.com/release/11140416-Morrissey-Low-In-High-School) |
-| Label          | Étienne, BMG, Étienne, Étienne |
-| Format         | LP, Album, Ltd, Gre |
-| Catalog Number | 538337938, 538337931, 538337891 |
+| Label          | Étienne |
+| Format         | Vinyl LP Album Limited Edition (Green) |
+| Catalog Number | 538337938 |
 
-Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green. Green printed inner sleeve of card which is centre hole die cut on one side only. Includes a credit card sized download voucher, printed on both sides. Package came in hype stickered shrink-wrap.  Runouts are etched.
+Includes download code. 1500 copies from HMV in the UK came with a 12" art print. 
+Sticker on front notes Green Vinyl and Download.
+Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.
+
+Transparent green vinyl.
+Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green.
+Green printed inner sleeve of card which is centre hole die cut on one side only.
+Includes a credit card sized download voucher, printed on both sides.
+Package came in hype stickered shrink-wrap.
+
+Runouts are etched.

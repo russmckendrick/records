@@ -2,7 +2,7 @@
 title: "Muddy Waters - Electric Mud"
 artist: "Muddy Waters"
 album_name: "Electric Mud"
-date: 2017-12-08
+date: 2017-12-08T13:15:20.000000Z
 release_id: "11183534"
 slug: "electric-mud-11183534"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 ---
+
 ## Tracklisting
 1. I Just Want To Make Love To You (4:14)
 2. Hoochie Coochie Man (4:41)
@@ -22,8 +23,12 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 6. Herbert Harpers Free Press (4:32)
 7. Tom Cat (3:37)
 8. Same Thing (5:37)
+
+
 ## Spotify
 {{< spotify type="album" id="4fOVcN7X7vQ8L41is621uJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="bmY4lnFvdy8" title="I Just Want To Make Love To You" >}}
@@ -41,8 +46,11 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Muddy Waters - Electric Mud](https://www.discogs.com/release/11183534-Muddy-Waters-Electric-Mud) |
-| Label          | Third Man Records, Geffen Records, Universal Music Special Markets |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | TMR-485, B0026557-01 |
+| Label          | Third Man Records |
+| Format         | Vinyl LP Album Reissue (180 gram) |
+| Catalog Number | TMR-485 |
 
-Recorded at Ter Mar Studios, Chicago, May, 1968 Comes with a poster  For the 2019 reissue WITHOUT poster, see here : [r=16092165]
+Recorded at Ter Mar Studios, Chicago, May, 1968
+Comes with a poster
+
+For the 2019 reissue WITHOUT poster, see here : [r=16092165]

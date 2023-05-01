@@ -2,7 +2,7 @@
 title: "Tim Bowness - Butterfly Mind"
 artist: "Tim Bowness"
 album_name: "Butterfly Mind"
-date: 2022-08-07
+date: 2022-08-07T08:03:33.000000Z
 release_id: "24120593"
 slug: "butterfly-mind-24120593"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Say Your Goodbyes Part 1 (2:22)
 2. Always The Stranger (2:50)
@@ -36,8 +37,12 @@ styles: ["Alternative Rock"]
 20. About The Light That Hits The Forest Floor (3:48)
 21. Dark Nevada Dream (8:20)
 22. Say Your Goodbyes Part 2 (1:59)
+
+
 ## Spotify
 {{< spotify type="album" id="4IgrJTZ2ra9Ip7ZlRM6H7l" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)" >}}
@@ -48,8 +53,14 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Tim Bowness - Butterfly Mind](https://www.discogs.com/release/24120593-Tim-Bowness-Butterfly-Mind) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Album, Gre + CD, Album + Ltd, Num |
-| Catalog Number | IOM633, 19439973791 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album Stereo (Green [Transparent], 180g), CD Album Stereo, All Media Limited Edition Numbered |
+| Catalog Number | IOM633 |
 
-Limited to 600 copies. Hand numbered on back of vinyl sleeve. This version exclusive to burningshed.com Pre-Orders from Burning Shed came with a signed postcard and fridge magnet.  Presented in a Die-cut sleeve. Track durations CD taken from dBpoweramp. The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol.
+Limited to 600 copies.
+Hand numbered on back of vinyl sleeve.
+This version exclusive to burningshed.com
+Pre-Orders from Burning Shed came with a signed postcard and fridge magnet. 
+Presented in a Die-cut sleeve.
+Track durations CD taken from dBpoweramp.
+The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol.

@@ -2,7 +2,7 @@
 title: "The Future Sound Of London - Accelerator"
 artist: "The Future Sound Of London"
 album_name: "Accelerator"
-date: 2021-06-12
+date: 2021-06-12T05:57:11.000000Z
 release_id: "19105981"
 slug: "accelerator-19105981"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
+
 ## Tracklisting
 1. Expander (5:38)
 2. Stolen Documents (5:10)
@@ -24,8 +25,12 @@ styles: ["Techno"]
 8. 1 in 8 (4:56)
 9. Pulse State (7:14)
 10. Central Industrial (4:19)
+
+
 ## Spotify
 {{< spotify type="album" id="5QJgGoswsej4o1KwXpfYCZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yKTZVb9dNj0" title="The Future Sound Of London - Pulse State - Jumpin' & Pumpin' 1992" >}}
@@ -52,7 +57,8 @@ styles: ["Techno"]
 | Release Year   | 2021 |
 | Discogs Link   | [The Future Sound Of London - Accelerator](https://www.discogs.com/release/19105981-The-Future-Sound-Of-London-Accelerator) |
 | Label          | Jumpin' & Pumpin' |
-| Format         | 2x12\", Album, RSD, Ltd, Num, RE |
+| Format         | Vinyl 2× 12" Album Record Store Day Limited Edition Numbered Reissue |
 | Catalog Number | DLPRSDTOT2 |
 
-30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1. 
+30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1.
+

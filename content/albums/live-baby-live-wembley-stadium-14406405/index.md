@@ -2,7 +2,7 @@
 title: "INXS - Live Baby Live Wembley Stadium"
 artist: "INXS"
 album_name: "Live Baby Live Wembley Stadium"
-date: 2020-01-02
+date: 2020-01-02T18:38:36.000000Z
 release_id: "14406405"
 slug: "live-baby-live-wembley-stadium-14406405"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Guns In The Sky
 2. New Sensation
@@ -37,6 +38,9 @@ styles: ["Alternative Rock"]
 21. Who Pays The Price
 22. Devil Inside
 
+
+
+
 ## Videos
 {{< youtube id="KygvdzH0gj4" title="INXS - New Sensation (Official Live Video) Live From Wembley Stadium 1991 / Live Baby Live" >}}
 - [INXS Never Tear Us Apart  Live Baby Live Wembley Stadium on 13th July 1991](https://www.youtube.com/watch?v=WhKHZ-PcmzU)
@@ -47,8 +51,12 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [INXS - Live Baby Live Wembley Stadium](https://www.discogs.com/release/14406405-INXS-Live-Baby-Live-Wembley-Stadium) |
-| Label          | Universal Music, Petrol |
-| Format         | 3xLP, Album, Dlx |
+| Label          | Universal Music |
+| Format         | Vinyl 3× LP Album Deluxe Edition |
 | Catalog Number | 0602508245091 |
 
-Unlike the original [m69821], which took its audio from various shows from that tour, this new release is the soundtrack to this one performance at Wembley, with the audio newly remixed by Giles Martin & Sam Okell at Abbey Road Studios.  This reissue removes the 'Shining Star' studio track and restores the lost 'Lately' track to complete the show.      Includes a 12 page book of images and notes and a download card
+Unlike the original [m69821], which took its audio from various shows from that tour, this new release is the soundtrack to this one performance at Wembley, with the audio newly remixed by Giles Martin & Sam Okell at Abbey Road Studios.
+
+This reissue removes the 'Shining Star' studio track and restores the lost 'Lately' track to complete the show.    
+
+Includes a 12 page book of images and notes and a download card

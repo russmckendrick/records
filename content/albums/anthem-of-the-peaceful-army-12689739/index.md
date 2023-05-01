@@ -2,7 +2,7 @@
 title: "Greta Van Fleet - Anthem Of The Peaceful Army"
 artist: "Greta Van Fleet"
 album_name: "Anthem Of The Peaceful Army"
-date: 2018-10-28
+date: 2018-10-28T10:02:06.000000Z
 release_id: "12689739"
 slug: "anthem-of-the-peaceful-army-12689739"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Age Of Man
 2. The Cold Wind
@@ -24,8 +25,12 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 8. Mountain Of The Sun
 9. Brave New World
 10. Anthem
+
+
 ## Spotify
 {{< spotify type="album" id="7zeCZY6rQRufc8IHGKyXGX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="86_vnQc1oBE" title="Greta Van Fleet - When The Curtain Falls" >}}
@@ -45,8 +50,21 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Greta Van Fleet - Anthem Of The Peaceful Army](https://www.discogs.com/release/12689739-Greta-Van-Fleet-Anthem-Of-The-Peaceful-Army) |
-| Label          | Lava, Republic Records |
-| Format         | LP, Album |
+| Label          | Lava |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | 00602567949756 |
 
-Made in the EU. Includes two-sided lyric sheet insert.  The name of the album is misspelled on the back cover as "Anthem of the Peacful Army".   A line from the song 'When the curtain falls' has a spelling mistake in the lyrics sheet. "Well I loved you in that move (movie) show".  ℗ & © 2018 Republic Records, a division of UMG Recordings, Inc & Lava Music LLC.  © | 2018 | Published by LAVA Music Publishing (admin. Kobalt Music Publishing)  All songs recorded at Blackbird Studio Nashville, TN All songs mixed at Rustbelt Studios Royal Oak, MI All songs mastered at Sterling Sound 
+Made in the EU. Includes two-sided lyric sheet insert.
+
+The name of the album is misspelled on the back cover as "Anthem of the Peacful Army". 
+
+A line from the song 'When the curtain falls' has a spelling mistake in the lyrics sheet. "Well I loved you in that move (movie) show".
+
+℗ & © 2018 Republic Records, a division of UMG Recordings, Inc & Lava Music LLC.
+
+© | 2018 | Published by LAVA Music Publishing (admin. Kobalt Music Publishing)
+
+All songs recorded at Blackbird Studio Nashville, TN
+All songs mixed at Rustbelt Studios Royal Oak, MI
+All songs mastered at Sterling Sound
+

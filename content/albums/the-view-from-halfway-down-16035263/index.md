@@ -2,7 +2,7 @@
 title: "Andy Bell - The View From Halfway Down"
 artist: "Andy Bell"
 album_name: "The View From Halfway Down"
-date: 2020-10-10
+date: 2020-10-10T10:40:42.000000Z
 release_id: "16035263"
 slug: "the-view-from-halfway-down-16035263"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Love Comes In Waves (4:48)
 2. Indica (6:55)
@@ -22,8 +23,9 @@ styles: ["Shoegaze", "Indie Rock"]
 6. Cherry Cola (4:29)
 7. I Was Alone (6:45)
 8. Heat Haze On Weyland Road (7:00)
-## Spotify
-{{< spotify type="album" id="2Xt22gwrtjMKQQAayKbw4R" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="MbNmaB-es5U" title="Andy Bell - Love Comes In Waves" >}}
@@ -41,7 +43,14 @@ styles: ["Shoegaze", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Andy Bell - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-The-View-From-Halfway-Down) |
 | Label          | Sonic Cathedral Recordings |
-| Format         | LP, Album, Ltd, Blu |
+| Format         | Vinyl LP Album Limited Edition Stereo (Blue ) |
 | Catalog Number | SCR170LP |
 
-Printed inner sleeve. Barcode is on a sticker on the shrink wrapping.  250 signed copies were available as 'pre-order' via Recordstore.co.uk  Includes a download code card.  (Track durations from playing the album.)
+Printed inner sleeve.
+Barcode is on a sticker on the shrink wrapping.
+
+250 signed copies were available as 'pre-order' via Recordstore.co.uk
+
+Includes a download code card.
+
+(Track durations from playing the album.)

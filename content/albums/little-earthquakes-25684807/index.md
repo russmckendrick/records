@@ -2,7 +2,7 @@
 title: "Tori Amos - Little Earthquakes"
 artist: "Tori Amos"
 album_name: "Little Earthquakes"
-date: 2023-01-07
+date: 2023-01-07T00:20:50.000000Z
 release_id: "25684807"
 slug: "little-earthquakes-25684807"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. Crucify (4:58)
 2. Girl (4:06)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Acoustic"]
 10. Tear In Your Hand (4:38)
 11. Me And A Gun (3:44)
 12. Little Earthquakes (6:52)
+
+
 ## Spotify
 {{< spotify type="album" id="5bxqwBKvCyB67zOEVCrFZE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HSYr0etDzRM" title="Tori Amos - Silent All These Years (Official Music Video)" >}}
@@ -39,8 +44,18 @@ styles: ["Alternative Rock", "Acoustic"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/25684807-Tori-Amos-Little-Earthquakes) |
-| Label          | Atlantic, Atlantic, Atlantic, Atlantic |
-| Format         | 2xLP, Album, RE, RM, S/Edition, Gre |
-| Catalog Number | R1 82358, RCV1 82358, 603497839049, 081227884253 |
+| Label          | Atlantic |
+| Format         | Vinyl 2× LP Album Reissue Remastered Special Edition Stereo (Green Translucent [Cola-Bottle Clear]) |
+| Catalog Number | R1 82358 |
 
-Double Vinyl  Barnes & Noble Exclusive Cola-Bottle Clear Vinyl Debut solo album.   Release produced by Tori Amos Audio Supervision Mark Hawley Remastered in 2022 by Jon Astley for Close to the Edge Half-Speed master cut at Abbey Road Studio, London by Miles Showell  1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker.
+Double Vinyl 
+Barnes & Noble Exclusive
+Cola-Bottle Clear Vinyl
+Debut solo album. 
+
+Release produced by Tori Amos
+Audio Supervision Mark Hawley
+Remastered in 2022 by Jon Astley for Close to the Edge
+Half-Speed master cut at Abbey Road Studio, London by Miles Showell
+
+1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker.

@@ -2,7 +2,7 @@
 title: "Little Angels - Jam"
 artist: "Little Angels"
 album_name: "Jam"
-date: 2016-04-15
+date: 2016-04-15T18:22:14.000000Z
 release_id: "2591057"
 slug: "jam-2591057"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Soft Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Jam
 2. The Way That I Live
@@ -36,6 +37,9 @@ styles: ["Soft Rock", "Hard Rock"]
 20. Don't Prey For Me (Extended Version)
 21. Won't Get Fooled Again
 
+
+
+
 ## Videos
 {{< youtube id="AyqjkGLewpY" title="Little Angels – Womankind" >}}
 
@@ -44,8 +48,17 @@ styles: ["Soft Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 1993 |
 | Discogs Link   | [Little Angels - Jam](https://www.discogs.com/release/2591057-Little-Angels-Jam) |
-| Label          | Polydor, Polydor |
-| Format         | LP, Album + 10\" |
-| Catalog Number | 517 676-1, Jam LP1 |
+| Label          | Polydor |
+| Format         | Vinyl LP Album, Vinyl 10" 33 ⅓ RPM |
+| Catalog Number | 517 676-1 |
 
-Includes Live Jam 10" recorded at Newport Centre, Gwent  With hype sticker on sleeve and printed inner sleeve.  'Tired Of Waiting For You' originally performed by [a94078] 'Won't Get Fooled Again' originally performed by [a196766]  ℗ 1992 Polydor Ltd. (UK) ℗ 1993 Polydor Ltd. (UK) © 1993 Polydor Ltd. (UK)
+Includes Live Jam 10" recorded at Newport Centre, Gwent
+
+With hype sticker on sleeve and printed inner sleeve.
+
+'Tired Of Waiting For You' originally performed by [a94078]
+'Won't Get Fooled Again' originally performed by [a196766]
+
+℗ 1992 Polydor Ltd. (UK)
+℗ 1993 Polydor Ltd. (UK)
+© 1993 Polydor Ltd. (UK)

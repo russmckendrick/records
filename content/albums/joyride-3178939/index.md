@@ -2,7 +2,7 @@
 title: "Roxette - Joyride"
 artist: "Roxette"
 album_name: "Joyride"
-date: 2016-02-29
+date: 2016-02-29T18:16:24.000000Z
 release_id: "3178939"
 slug: "joyride-3178939"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Joyride
 2. Hotblooded
@@ -26,8 +27,12 @@ styles: ["Pop Rock"]
 10. Physical Fascination
 11. Things Will Never Be The Same
 12. Perfect Day
+
+
 ## Spotify
 {{< spotify type="album" id="5SwZnq5e3u7DkkNnSNHp5R" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xCorJG9mubk" title="Roxette - Joyride (Official Video)" >}}
@@ -56,7 +61,9 @@ styles: ["Pop Rock"]
 | Release Year   | 1991 |
 | Discogs Link   | [Roxette - Joyride](https://www.discogs.com/release/3178939-Roxette-Joyride) |
 | Label          | EMI |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | EMD 1019 |
 
-Inner sleeve with lyrics Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is) 
+Inner sleeve with lyrics
+Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is)
+

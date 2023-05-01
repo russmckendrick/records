@@ -2,7 +2,7 @@
 title: "Anathema - A Natural Disaster"
 artist: "Anathema"
 album_name: "A Natural Disaster"
-date: 2016-10-22
+date: 2016-10-22T12:17:38.000000Z
 release_id: "7042351"
 slug: "a-natural-disaster-7042351"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Harmonium (5:30)
 2. Balance (3:58)
@@ -34,8 +35,12 @@ styles: ["Alternative Rock"]
 18. Flying (5:57)
 19. Electricity (3:52)
 20. Violence (10:55)
+
+
 ## Spotify
 {{< spotify type="album" id="2u9kFU66dEBxvvw23QPujf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JB1djmYr0aA" title="ANATHEMA - A Natural Disaster" >}}
@@ -47,8 +52,8 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Anathema - A Natural Disaster](https://www.discogs.com/release/7042351-Anathema-A-Natural-Disaster) |
-| Label          | Sony Music, Music For Nations |
-| Format         | LP, Album, 180 + CD, Album + RE, RM |
+| Label          | Sony Music |
+| Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
 | Catalog Number | 88875058531 |
 
 Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.

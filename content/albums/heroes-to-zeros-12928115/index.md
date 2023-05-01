@@ -2,7 +2,7 @@
 title: "The Beta Band - Heroes To Zeros"
 artist: "The Beta Band"
 album_name: "Heroes To Zeros"
-date: 2018-12-17
+date: 2018-12-17T14:41:56.000000Z
 release_id: "12928115"
 slug: "heroes-to-zeros-12928115"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Dub", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Assessment
 2. Space
@@ -26,8 +27,12 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 10. Liquid Bird
 11. Simple
 12. Pure For
+
+
 ## Spotify
 {{< spotify type="album" id="2VdMOAL684solHzw1XqBnI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XQceoURGvIQ" title="The Beta Band - 'Out-Side'" >}}
@@ -49,7 +54,5 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Beta Band - Heroes To Zeros](https://www.discogs.com/release/12928115-The-Beta-Band-Heroes-To-Zeros) |
 | Label          | Because Music |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | BEC5543703 |
-
-

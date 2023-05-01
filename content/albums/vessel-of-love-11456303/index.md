@@ -2,7 +2,7 @@
 title: "Hollie Cook - Vessel of Love"
 artist: "Hollie Cook"
 album_name: "Vessel of Love"
-date: 2018-02-08
+date: 2018-02-08T18:57:06.000000Z
 release_id: "11456303"
 slug: "vessel-of-love-11456303"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae", "Funk / Soul"]
 styles: ["Reggae-Pop", "Soul", "Dub"]
 ---
+
 ## Tracklisting
 1. Angel Fire (4:10)
 2. Stay Alive (4:20)
@@ -24,8 +25,12 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 8. Vessel of Love (3:31)
 9. Together (4:01)
 10. Far From Me (4:30)
+
+
 ## Spotify
 {{< spotify type="album" id="29Aplj5QoUFYcasz1z83Xu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GjThn4PMHyI" title="Hollie Cook Angel Fire" >}}
@@ -45,7 +50,7 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 | Release Year   | 2018 |
 | Discogs Link   | [Hollie Cook - Vessel of Love](https://www.discogs.com/release/11456303-Hollie-Cook-Vessel-of-Love) |
 | Label          | Merge Records |
-| Format         | LP, Album, Ltd, Pin |
+| Format         | Vinyl LP Album Limited Edition (Pink Translucent) |
 | Catalog Number | MRG588 |
 
 Peak Vinyl: Limited-edition translucent pink vinyl in the same packaging as the standard LP. Includes album download.

@@ -2,7 +2,7 @@
 title: "Thin Lizzy - Greatest Hits"
 artist: "Thin Lizzy"
 album_name: "Greatest Hits"
-date: 2021-08-01
+date: 2021-08-01T09:19:06.000000Z
 release_id: "19396810"
 slug: "greatest-hits-19396810"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. The Boys Are Back In Town
 2. Jailbreak
@@ -38,13 +39,15 @@ styles: ["Classic Rock"]
 22. Wild One
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Thin Lizzy - Greatest Hits](https://www.discogs.com/release/19396810-Thin-Lizzy-Greatest-Hits) |
-| Label          | UMC, Mercury |
-| Format         | 2xLP, Comp, RE |
+| Label          | UMC |
+| Format         | Vinyl 2× LP Compilation Reissue |
 | Catalog Number | 3559306 |
 
 Embossed gatefold sleeve.

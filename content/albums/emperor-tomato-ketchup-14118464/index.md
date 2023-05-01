@@ -2,7 +2,7 @@
 title: "Stereolab - Emperor Tomato Ketchup"
 artist: "Stereolab"
 album_name: "Emperor Tomato Ketchup"
-date: 2019-09-15
+date: 2019-09-15T12:00:17.000000Z
 release_id: "14118464"
 slug: "emperor-tomato-ketchup-14118464"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Metronomic Underground
 2. Cybele's Reverie
@@ -43,8 +44,12 @@ styles: ["Indie Rock", "Post Rock"]
 27. Brigitte (Demo)
 28. Motoroller Scalatron (Demo)
 29. Anonymous Collective (Demo)
+
+
 ## Spotify
 {{< spotify type="album" id="2AJqzRQltkneduxKsqmgYJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PGREbC-Q2Do" title="Stereolab – The Noise of Carpet (Official Video)" >}}
@@ -59,8 +64,11 @@ styles: ["Indie Rock", "Post Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Stereolab - Emperor Tomato Ketchup](https://www.discogs.com/release/14118464-Stereolab-Emperor-Tomato-Ketchup) |
-| Label          | Duophonic Ultra High Frequency Disks, Warp Records |
-| Format         | 2xLP, Album, RE, RM + LP + Ltd, Num, Cle |
+| Label          | Duophonic Ultra High Frequency Disks |
+| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
 | Catalog Number | D-UHF-D11R |
 
-Expanded Edition, housed in PVC outer sleeve. Limited to 2500 copies, numbered on hype sticker.  Contains poster, download card, and lottery scratch ticket.
+Expanded Edition, housed in PVC outer sleeve.
+Limited to 2500 copies, numbered on hype sticker.
+
+Contains poster, download card, and lottery scratch ticket.

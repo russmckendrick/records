@@ -2,7 +2,7 @@
 title: "Leon Bridges - Good Thing"
 artist: "Leon Bridges"
 album_name: "Good Thing"
-date: 2019-08-23
+date: 2019-08-23T14:19:27.000000Z
 release_id: "11947256"
 slug: "good-thing-11947256"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
+
 ## Tracklisting
 1. Bet Ain't Worth The Hand
 2. Bad Bad News
@@ -24,8 +25,12 @@ styles: ["Soul", "Contemporary R&B"]
 8. You Don't Know
 9. Mrs.
 10. Georgia To Texas
+
+
 ## Spotify
 {{< spotify type="album" id="7J9fifadXb0PPSBWXctbi8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Au3ZxR5zn6g" title="Leon Bridges - Georgia to Texas (Lyrics)" >}}
@@ -38,8 +43,10 @@ styles: ["Soul", "Contemporary R&B"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Leon Bridges - Good Thing](https://www.discogs.com/release/11947256-Leon-Bridges-Good-Thing) |
-| Label          | Columbia, Sony Music |
-| Format         | LP, Album, 180 |
-| Catalog Number | C-206928, 19075830351 |
+| Label          | Columbia |
+| Format         | Vinyl LP Album (180 Gram) |
+| Catalog Number | C-206928 |
 
-Signed copies feature a stickered barcode: 190758530611 Made in EU. Includes download code.
+Signed copies feature a stickered barcode: 190758530611
+Made in EU.
+Includes download code.

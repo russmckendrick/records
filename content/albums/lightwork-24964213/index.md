@@ -2,7 +2,7 @@
 title: "Devin Townsend - Lightwork"
 artist: "Devin Townsend"
 album_name: "Lightwork"
-date: 2022-11-02
+date: 2022-11-02T04:54:02.000000Z
 release_id: "24964213"
 slug: "lightwork-24964213"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Lightwork
 2. Moonpeople
@@ -79,8 +80,12 @@ styles: ["Progressive Metal", "Prog Rock"]
 63. Heavy Burden (Commentary Track)
 64. Vacation (Commentary Track)
 65. Children Of God (Commentary Track)
+
+
 ## Spotify
 {{< spotify type="album" id="6qjb8ZypDxCCIZUKYwjYlL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8t_QBTKrTXU" title="Equinox" >}}
@@ -95,8 +100,6 @@ styles: ["Progressive Metal", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Devin Townsend - Lightwork](https://www.discogs.com/release/24964213-Devin-Townsend-Lightwork) |
-| Label          | Inside Out Music, Sony Music, HevyDevy Records |
-| Format         | Box, Dlx, Ltd + 2xLP, Album, Ora + LP, Album, Ora  |
-| Catalog Number | IOM624, 19658724451 |
-
-
+| Label          | Inside Out Music |
+| Format         | Box Set Deluxe Edition Limited Edition, Vinyl 2× LP Album (Orange [Transparent Orange]), Vinyl LP Album (Orange [Transparent Orange]), CD Album, CD Album, Blu-ray Album |
+| Catalog Number | IOM624 |

@@ -2,7 +2,7 @@
 title: "U2 - Songs Of Surrender"
 artist: "U2"
 album_name: "Songs Of Surrender"
-date: 2023-03-18
+date: 2023-03-18T02:56:49.000000Z
 release_id: "26446712"
 slug: "songs-of-surrender-26446712"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. One (3:36)
 2. Where The Streets Have No Name (4:17)
@@ -30,15 +31,12 @@ styles: ["Alternative Rock", "Acoustic"]
 14. Sunday Bloody Sunday (4:13)
 15. I Will Follow (3:40)
 16. "40" (3:03)
+
+
 ## Spotify
 {{< spotify type="album" id="3fqPfbVHsvdpovpJXOJlvU" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="zi8wxpzTvY4" title="U2 - Walk On Ukraine - #StandUpForUkraine" >}}
-- [One (Songs Of Surrender)](https://www.youtube.com/watch?v=-9P-S7gBess)
-- [Where The Streets Have No Name (Songs Of Surrender)](https://www.youtube.com/watch?v=Id3P3o8zO_s)
-- [With Or Without You (Songs Of Surrender)](https://www.youtube.com/watch?v=B6dvvpKZYh8)
-- [All I Want Is You (Songs Of Surrender)](https://www.youtube.com/watch?v=7XJjMxLTrHw)
+
 
 ## Notes
 | Notes          |             |
@@ -46,7 +44,10 @@ styles: ["Alternative Rock", "Acoustic"]
 | Release Year   | 2023 |
 | Discogs Link   | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712-U2-Songs-Of-Surrender) |
 | Label          | Island Records |
-| Format         | 2xLP, Ltd, Ora |
+| Format         | Vinyl 2× LP Limited Edition (Orange Translucent, 180g) |
 | Catalog Number | 5503448 |
 
-16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany".
+16 new acoustic & reimagined recordings from the U2 catalogue.
+Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.
+
+On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany".

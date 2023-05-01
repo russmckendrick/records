@@ -2,7 +2,7 @@
 title: "The Hold Steady - Boys and Girls in America"
 artist: "The Hold Steady"
 album_name: "Boys and Girls in America"
-date: 2017-04-17
+date: 2017-04-17T13:21:59.000000Z
 release_id: "9520767"
 slug: "boys-and-girls-in-america-9520767"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Boys and Girls in America by The Hold Steady"
     caption: "Boys and Girls in America by The Hold Steady"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Stuck Between Stations (4:10)
 2. Chips Ahoy! (3:10)
@@ -35,8 +36,12 @@ styles: null
 19. Massive Nights (Demo) (2:54)
 20. Chill out Tent (Demo) (3:09)
 21. First Night (Demo) (4:58)
+
+
 ## Spotify
 {{< spotify type="album" id="1lLya6vgwjJahE3TMq7IfR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - Stuck Between Stations [Official Video]" >}}
@@ -47,7 +52,16 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [The Hold Steady - Boys and Girls in America](https://www.discogs.com/release/9520767-The-Hold-Steady-Boys-and-Girls-in-America) |
 | Label          | Vagrant Records |
-| Format         | 2xLP, Dlx, Gat |
+| Format         | Vinyl 2× LP Deluxe Edition (Gatefold) |
 | Catalog Number | 538247700 |
 
-Front Sticker:  Deluxe Edition 2xLP featuring 4 b-sides and 6 demos  Back Cover: 2006, 2016 BMG Rights Management (US) LLC D/B/A Vagrant Records.  All Rights Reserved. Unauthorized reproduction is a violation of applicable laws. Made in France.  4050538247701  
+Front Sticker: 
+Deluxe Edition
+2xLP featuring 4 b-sides and 6 demos
+
+Back Cover:
+2006, 2016 BMG Rights Management (US) LLC D/B/A Vagrant Records.  All Rights Reserved.
+Unauthorized reproduction is a violation of applicable laws.
+Made in France.  4050538247701
+
+

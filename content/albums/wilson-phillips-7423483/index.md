@@ -2,7 +2,7 @@
 title: "Wilson Phillips - Wilson Phillips"
 artist: "Wilson Phillips"
 album_name: "Wilson Phillips"
-date: 2018-11-01
+date: 2018-11-01T07:46:55.000000Z
 release_id: "7423483"
 slug: "wilson-phillips-7423483"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock"]
 ---
+
 ## Tracklisting
 1. Hold On (4:27)
 2. Release Me (4:56)
@@ -24,8 +25,12 @@ styles: ["Soft Rock"]
 8. Ooh You're Gold (4:13)
 9. Eyes Like Twins (5:00)
 10. The Dream Is Still Alive (4:11)
+
+
 ## Spotify
 {{< spotify type="album" id="1Xi55xFMaymXdSWshmxhw2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dSKZy2Knk94" title="wilson phillips - release me with lyrics" >}}
@@ -52,8 +57,10 @@ styles: ["Soft Rock"]
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483-Wilson-Phillips-Wilson-Phillips) |
-| Label          | SBK Records, SBK Records |
-| Format         | LP, Album |
-| Catalog Number | SBKLP 5, 79 3745 1 |
+| Label          | SBK Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | SBKLP 5 |
 
-Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854]
+Printed in England Manufactured in England SP9006JU.
+
+Different information on bottom left side of reverse sleeve to [r348854]

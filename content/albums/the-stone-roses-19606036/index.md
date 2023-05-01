@@ -2,7 +2,7 @@
 title: "The Stone Roses - The Stone Roses"
 artist: "The Stone Roses"
 album_name: "The Stone Roses"
-date: 2021-07-27
+date: 2021-07-27T04:40:22.000000Z
 release_id: "19606036"
 slug: "the-stone-roses-19606036"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Other Side
 2. I Wanna Be Adored
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. Shoot You Down
 12. This Is The One
 13. I Am The Resurrection
+
+
 ## Spotify
 {{< spotify type="album" id="0um9FI6BLBldL5POP4D4Cw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" >}}
@@ -49,8 +54,13 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/19606036-The-Stone-Roses-The-Stone-Roses) |
-| Label          | Silvertone Records, Silvertone Records, Sony Music |
-| Format         | LP, Album, Ltd, RE, Yel |
-| Catalog Number | 19439894221, 88843041991 |
+| Label          | Silvertone Records |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow) |
+| Catalog Number | 19439894221 |
 
-HMV exclusive with obi strip. Limited to 2000 copies.  ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited  A4 is credited as as Another Schroeder/Garage Flower Production
+HMV exclusive with obi strip. Limited to 2000 copies.
+
+℗ 2009 Silvertone Records Limited
+© 2014 Silvertone Records Limited
+
+A4 is credited as as Another Schroeder/Garage Flower Production

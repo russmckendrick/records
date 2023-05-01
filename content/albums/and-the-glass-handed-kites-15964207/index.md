@@ -2,7 +2,7 @@
 title: "Mew - And The Glass Handed Kites"
 artist: "Mew"
 album_name: "And The Glass Handed Kites"
-date: 2020-10-23
+date: 2020-10-23T09:29:38.000000Z
 release_id: "15964207"
 slug: "and-the-glass-handed-kites-15964207"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "And The Glass Handed Kites by Mew"
     caption: "And The Glass Handed Kites by Mew"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Circuitry Of The Wolf
 2. Chinaberry Tree
@@ -38,8 +39,12 @@ styles: null
 22. Wherefore Are You Not There?
 23. Apocalypso (Waltz Version)
 24. Why Are You Looking Grave? (Mogwai Remix)
+
+
 ## Spotify
 {{< spotify type="album" id="1APfuoXoBLFK6PRolJdrEk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zqt8-FJsdQU" title="Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)" >}}
@@ -51,7 +56,11 @@ styles: null
 | Release Year   | 2020 |
 | Discogs Link   | [Mew - And The Glass Handed Kites](https://www.discogs.com/release/15964207-Mew-And-The-Glass-Handed-Kites) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, RSD, Ltd, Num, Bla |
+| Format         | Vinyl 2× LP Record Store Day Limited Edition Numbered (Black & White Marbled, 180g) |
 | Catalog Number | MOVLP2561 |
 
-15th anniversary expanded edition of 2500 copies  Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn  RSD 2020 drop 2 release
+15th anniversary expanded edition of 2500 copies
+
+Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn
+
+RSD 2020 drop 2 release

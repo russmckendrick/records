@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - Nebraska"
 artist: "Bruce Springsteen"
 album_name: "Nebraska"
-date: 2015-09-21
+date: 2015-09-21T17:34:23.000000Z
 release_id: "1592132"
 slug: "nebraska-1592132"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
+
 ## Tracklisting
 1. Nebraska (4:27)
 2. Atlantic City (3:54)
@@ -24,8 +25,12 @@ styles: ["Folk Rock"]
 8. Open All Night (2:53)
 9. My Father's House (5:03)
 10. Reason To Believe (4:09)
+
+
 ## Spotify
 {{< spotify type="album" id="6yskFQZNlLYhkchAxELHi6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hCpL_ImsiDo" title="Nebraska" >}}
@@ -44,8 +49,14 @@ styles: ["Folk Rock"]
 | ---------------| ----------- |
 | Release Year   | 1982 |
 | Discogs Link   | [Bruce Springsteen - Nebraska](https://www.discogs.com/release/1592132-Bruce-Springsteen-Nebraska) |
-| Label          | CBS, CBS |
-| Format         | LP, Album |
-| Catalog Number | CBS 25100, 25100 |
+| Label          | CBS |
+| Format         | Vinyl LP Album |
+| Catalog Number | CBS 25100 |
 
-Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder. Mastered at Atlantic Studios by Dennis King. Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).  Inner Sleeve has lyrics printed on it.  Made in England.
+Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder.
+Mastered at Atlantic Studios by Dennis King.
+Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).
+
+Inner Sleeve has lyrics printed on it.
+
+Made in England.

@@ -2,7 +2,7 @@
 title: "Richard Barbieri - Planets + Persona"
 artist: "Richard Barbieri"
 album_name: "Planets + Persona"
-date: 2017-03-25
+date: 2017-03-25T14:27:53.000000Z
 release_id: "9916802"
 slug: "planets-persona-9916802"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ---
+
 ## Tracklisting
 1. Solar Sea (7:30)
 2. New Found Land (7:18)
@@ -21,6 +22,9 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 5. Unholy (8:58)
 6. Shafts Of Light (6:38)
 7. Solar Storm (6:22)
+
+
+
 
 ## Videos
 {{< youtube id="wx5bKmBCVYg" title="Richard Barbieri - Planets + Persona (album montage)" >}}
@@ -33,7 +37,14 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 | Release Year   | 2017 |
 | Discogs Link   | [Richard Barbieri - Planets + Persona](https://www.discogs.com/release/9916802-Richard-Barbieri-Planets-Persona) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Gat |
+| Format         | Vinyl 2× LP 45 RPM Album (Gatefold) |
 | Catalog Number | KSCOPE942 |
 
-Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.  www.kscopemusic.com/artists/richard-barbieri/ www.facebook.com/richardbarbieriofficial  Kscope is a Snapper Music label. Made in Germany.  
+Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.
+
+www.kscopemusic.com/artists/richard-barbieri/
+www.facebook.com/richardbarbieriofficial
+
+Kscope is a Snapper Music label. Made in Germany.
+
+

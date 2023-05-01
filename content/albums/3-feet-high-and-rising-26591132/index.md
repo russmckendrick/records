@@ -2,7 +2,7 @@
 title: "De La Soul - 3 Feet High And Rising"
 artist: "De La Soul"
 album_name: "3 Feet High And Rising"
-date: 2023-04-03
+date: 2023-04-03T04:27:56.000000Z
 release_id: "26591132"
 slug: "3-feet-high-and-rising-26591132"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap"]
 ---
+
 ## Tracklisting
 1. Intro (1:41)
 2. The Magic Number (3:16)
@@ -37,17 +38,20 @@ styles: ["Conscious", "Boom Bap"]
 21. This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) (3:11)
 22. I Can Do Anything (Delacratic) (0:41)
 23. D.A.I.S.Y. Age (4:46)
+
+
 ## Spotify
 {{< spotify type="album" id="34LxHI9x14qXUOS8AWRrYD" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}
+{{< youtube id="3wYtCyAKbzE" title="De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)" >}}
+- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
 - [De La Soul - The Magic Number (Official Audio)](https://www.youtube.com/watch?v=0Yy7A74o8gQ)
 - [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
 - [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
 - [De La Soul - Can U Keep a Secret (Official Audio)](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
-- [De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)](https://www.youtube.com/watch?v=3wYtCyAKbzE)
-- [De La Soul - Ghetto Thang (Official Audio)](https://www.youtube.com/watch?v=ANZDkJ_yp0s)
 - [De La Soul - Transmitting Live from Mars (Official Audio)](https://www.youtube.com/watch?v=7nFCOYP1Tow)
 - [De La Soul - Eye Know (Official Audio) ft. Otis Redding](https://www.youtube.com/watch?v=_q9T41DV18A)
 - [De La Soul - Take It Off (Official Audio)](https://www.youtube.com/watch?v=czF8wntVIUI)
@@ -58,7 +62,6 @@ styles: ["Conscious", "Boom Bap"]
 - [De La Soul - Do as De La Does (Official Audio)](https://www.youtube.com/watch?v=xo2-GVRNEro)
 - [De La Soul - Plug Tunin' (Last Chance to Comprehend) (Official Audio)](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
 - [De La Soul - De La Orgee (Official Audio)](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
-- [De La Soul - Buddy (Official Audio) ft. Q-Tip, Jungle Brothers](https://www.youtube.com/watch?v=WX6G6sODMrQ)
 - [De La Soul - Description (Official Audio)](https://www.youtube.com/watch?v=t4h0SHmj9xY)
 - [De La Soul - Me Myself and I (Official Audio)](https://www.youtube.com/watch?v=fG9lFewfGEs)
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
@@ -70,8 +73,18 @@ styles: ["Conscious", "Boom Bap"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/26591132-De-La-Soul-3-Feet-High-And-Rising) |
-| Label          | AOI Records, Chrysalis |
-| Format         | 2xLP, Album, Ltd, RE, Gre |
+| Label          | AOI Records |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Opaque, 180g) |
 | Catalog Number | RMM-047-1 |
 
-Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.  Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.  Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"  ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.  "Made In Czech Republic" sticker on back cover shrink-wrap.  Runouts are stamped except "RMM - 045 - 1 #" which is etched.
+Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.
+
+Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.
+
+Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"
+
+℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.
+
+"Made In Czech Republic" sticker on back cover shrink-wrap.
+
+Runouts are stamped except "RMM - 045 - 1 #" which is etched.

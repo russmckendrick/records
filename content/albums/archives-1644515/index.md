@@ -2,7 +2,7 @@
 title: "Rush - Archives"
 artist: "Rush"
 album_name: "Archives"
-date: 2016-03-09
+date: 2016-03-09T18:39:33.000000Z
 release_id: "1644515"
 slug: "archives-1644515"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Rush
 2. Finding My Way (5:03)
@@ -40,13 +41,24 @@ styles: ["Hard Rock", "Prog Rock"]
 24. The Fountain Of Lamneth
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Rush - Archives](https://www.discogs.com/release/1644515-Rush-Archives) |
 | Label          | Mercury |
-| Format         | 3xLP, Comp |
+| Format         | Vinyl 3× LP Compilation |
 | Catalog Number | 6641 799 |
 
-Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve. 
+Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'
+
+Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974
+Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975
+Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975
+
+All timings are approximate.
+
+Issued in a gatefold sleeve.
+

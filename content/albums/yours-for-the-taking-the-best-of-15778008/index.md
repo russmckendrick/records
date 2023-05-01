@@ -2,7 +2,7 @@
 title: "Gene - Yours For The Taking (The Best Of)"
 artist: "Gene"
 album_name: "Yours For The Taking (The Best Of)"
-date: 2020-08-22
+date: 2020-08-22T09:03:43.000000Z
 release_id: "15778008"
 slug: "yours-for-the-taking-the-best-of-15778008"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. For The Dead
 2. Be My Light, Be My Guide
@@ -38,13 +39,17 @@ styles: ["Indie Rock"]
 22. Let Me Move On (Long Version)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Gene - Yours For The Taking (The Best Of)](https://www.discogs.com/release/15778008-Gene-Yours-For-The-Taking-The-Best-Of) |
 | Label          | Demon Records |
-| Format         | 2xLP, Comp, Blu |
+| Format         | Vinyl 2× LP Compilation Stereo (Blue, 180g) |
 | Catalog Number | DEMREC734 |
 
-22 tracks compiled by the band.  Manufactured in the EU.
+22 tracks compiled by the band.
+
+Manufactured in the EU.

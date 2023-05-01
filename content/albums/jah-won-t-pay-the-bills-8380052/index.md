@@ -2,7 +2,7 @@
 title: "Sublime - Jah Won't Pay The Bills"
 artist: "Sublime"
 album_name: "Jah Won't Pay The Bills"
-date: 2016-05-11
+date: 2016-05-11T16:54:57.000000Z
 release_id: "8380052"
 slug: "jah-won-t-pay-the-bills-8380052"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Reggae"]
 styles: ["Reggae", "Punk", "Ska"]
 ---
+
 ## Tracklisting
 1. D.J.s
 2. Badfish
@@ -24,8 +25,9 @@ styles: ["Reggae", "Punk", "Ska"]
 8. Slowride
 9. Date Rape
 10. Live at E's
-## Spotify
-{{< spotify type="album" id="02VqlfUtNMogzTh1lckGOF" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="iO4ll__JMrQ" title="Sublime - Jah Won't Pay The Bills (Record Store Day 2016)" >}}
@@ -37,8 +39,8 @@ styles: ["Reggae", "Punk", "Ska"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Sublime - Jah Won't Pay The Bills](https://www.discogs.com/release/8380052-Sublime-Jah-Wont-Pay-The-Bills) |
-| Label          | Skunk Records |
-| Format         | LP, RSD, Ltd, RE |
+| Label          | Skunk Records (2) |
+| Format         | Vinyl LP Record Store Day Limited Edition Reissue Stereo |
 | Catalog Number | B0024479-01 |
 
-25th Anniversary Record Store Day Exclusive.  420 [Green vinyl](https://www.discogs.com/Sublime-Jah-Wont-Pay-The-Bills/release/8397530) out of the lot were randomly distributed to indie shops. The remainder are on black vinyl (this).
+25th Anniversary Record Store Day Exclusive.  420 [url=https://www.discogs.com/Sublime-Jah-Wont-Pay-The-Bills/release/8397530]Green vinyl[/url] out of the lot were randomly distributed to indie shops. The remainder are on black vinyl (this).

@@ -2,7 +2,7 @@
 title: "Days Of The New - Days Of The New"
 artist: "Days Of The New"
 album_name: "Days Of The New"
-date: 2023-03-20
+date: 2023-03-20T05:43:21.000000Z
 release_id: "25237945"
 slug: "days-of-the-new-25237945"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Acoustic"]
 ---
+
 ## Tracklisting
 1. Shelf In The Room (4:44)
 2. Touch, Peel And Stand (4:58)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Grunge", "Acoustic"]
 10. Where I Stand (5:39)
 11. How Do You Know You? (5:34)
 12. Cling (15:28)
+
+
 ## Spotify
 {{< spotify type="album" id="3JtPH618I1PMOrafvH8Xo8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Cw6bgdJlth0" title="Days Of The New - Shelf In The Room (Official Video)" >}}
@@ -43,7 +48,9 @@ styles: ["Alternative Rock", "Grunge", "Acoustic"]
 | Release Year   | 2023 |
 | Discogs Link   | [Days Of The New - Days Of The New](https://www.discogs.com/release/25237945-Days-Of-The-New-Days-Of-The-New) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Catalog Number | MOVLP3244 |
 
-Includes insert with lyrics. Available on vinyl for the first time. Original release ℗ 1997 Outpost Recordings. This release ℗ & © 2023 Universal Music.
+Includes insert with lyrics.
+Available on vinyl for the first time.
+Original release ℗ 1997 Outpost Recordings. This release ℗ & © 2023 Universal Music.

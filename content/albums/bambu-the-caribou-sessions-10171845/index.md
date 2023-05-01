@@ -2,7 +2,7 @@
 title: "Dennis Wilson - Bambu (The Caribou Sessions)"
 artist: "Dennis Wilson"
 album_name: "Bambu (The Caribou Sessions)"
-date: 2017-04-23
+date: 2017-04-23T12:07:10.000000Z
 release_id: "10171845"
 slug: "bambu-the-caribou-sessions-10171845"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock"]
 ---
+
 ## Tracklisting
 1. Under The Moonlight
 2. It's Not Too Late
@@ -30,6 +31,9 @@ styles: ["Pop Rock", "Soft Rock"]
 14. Album Tag Song
 15. All Alone
 16. Piano Variations On Thoughts Of You
+
+
+
 
 ## Videos
 {{< youtube id="t9K6LGai3n0" title="It's Not Too Late" >}}
@@ -55,8 +59,23 @@ styles: ["Pop Rock", "Soft Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Dennis Wilson - Bambu (The Caribou Sessions)](https://www.discogs.com/release/10171845-Dennis-Wilson-Bambu-The-Caribou-Sessions) |
-| Label          | Caribou Records, Legacy |
-| Format         | 2xLP, Album, RSD, Ltd, RE, Gre |
+| Label          | Caribou Records |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Green) |
 | Catalog Number | 88985403631 |
 
-RSD 2017 release. Quantity: 3000  Sticker: Highlights from the planned follow-up to Pacific Ocean Blue.        _______ Newly Designed 2LP set on green vinyl        _______ Liner notes by Ken Sharp, author of Dreamer: The Making of Dennis Wilson's Pacific Ocean Blue        _______ Includes Digital Download
+RSD 2017 release.
+Quantity: 3000
+
+Sticker:
+Highlights from the planned
+follow-up to Pacific Ocean Blue.
+       _______
+Newly Designed
+2LP set on green vinyl
+       _______
+Liner notes by Ken Sharp,
+author of Dreamer: The
+Making of Dennis Wilson's
+Pacific Ocean Blue
+       _______
+Includes Digital Download

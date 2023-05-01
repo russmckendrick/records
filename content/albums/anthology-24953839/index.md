@@ -2,7 +2,7 @@
 title: "Garbage - Anthology"
 artist: "Garbage"
 album_name: "Anthology"
-date: 2022-10-28
+date: 2022-10-28T05:35:35.000000Z
 release_id: "24953839"
 slug: "anthology-24953839"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Only Happy When It Rains
 2. Queer
@@ -35,16 +36,28 @@ styles: ["Alternative Rock", "Pop Rock"]
 19. The Men Who Rule The World
 20. No Gods No Masters
 
-## Videos
-{{< youtube id="NFY2NdX80qU" title="Garbage - Witness To Your Love (Official Music Video)" >}}
+
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Garbage - Anthology](https://www.discogs.com/release/24953839-Garbage-Anthology) |
-| Label          | Stun Volume, BMG |
-| Format         | 2xLP, Comp, Yel |
+| Label          | Stun Volume |
+| Format         | Vinyl 2× LP Compilation Limited Edition (Yellow Translucent) |
 | Catalog Number | BMGCAT585CLP |
 
-Garbage Anthology 1995-2022 Advertised as Transparent Yellow Vinyl Some copies ordered direct from the artist webstore came with an exclusive set of four postcards.  Hype sticker on shrink-wrap: Garbage Anthology 1995 - 2022 Includes rare track "Witness To Your Love" Released on transparent coloured vinyl  Marketed as "Limited Edition"  This compilation ℗ & © 2022 Garbage Unlimited, LCC D/B/A/ Stunvolume under exclusive license to Infectious Music, a division of BMG Rights Management (UK) Limited.  This package contains previously unreleased material. Manufactured in Poland.
+Garbage Anthology 1995-2022
+
+Some copies ordered direct from the artist webstore came with an exclusive set of four postcards.
+
+Hype sticker on shrink-wrap:
+Garbage Anthology
+1995 - 2022
+Includes rare track "Witness To Your Love"
+Released on transparent coloured vinyl
+
+This compilation ℗ & © 2022 Garbage Unlimited, LCC D/B/A/ Stunvolume under exclusive license to Infectious Music, a division of BMG Rights Management (UK) Limited. 
+This package contains previously unreleased material.
+Manufactured in Poland.

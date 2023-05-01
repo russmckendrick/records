@@ -2,7 +2,7 @@
 title: "Split Enz - Conflicting Emotions"
 artist: "Split Enz"
 album_name: "Conflicting Emotions"
-date: 2018-10-03
+date: 2018-10-03T18:03:38.000000Z
 release_id: "2243861"
 slug: "conflicting-emotions-2243861"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Strait Old Line (4:00)
 2. Bullet Brain And Cactus Head (3:55)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. I Wake Up Every Night (4:45)
 9. Conflicting Emotions (4:31)
 10. Bon Voyage (4:02)
+
+
 ## Spotify
 {{< spotify type="album" id="5GHFTDBFBEIyzUUY8PiIrP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7WGCQqYlgZQ" title="Split Enz - The Devil You Know" >}}
@@ -39,7 +44,16 @@ styles: ["Alternative Rock"]
 | Release Year   | 1984 |
 | Discogs Link   | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861-Split-Enz-Conflicting-Emotions) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | AMLX 64963 |
 
-Includes inner sleeve with lyrics and credits.  Some copies came with hype sticker  "featuring  TIM FINN  64963"  Made in Holland.  Similar to [r=13033729] but with both stampers from EDP
+Includes inner sleeve with lyrics and credits.
+
+Some copies came with hype sticker 
+"featuring 
+TIM FINN 
+64963"
+
+Made in Holland.
+
+Similar to [r=13033729] but with both stampers from EDP

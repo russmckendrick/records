@@ -2,7 +2,7 @@
 title: "Jive Bunny And The Mastermixers - Swing The Mood"
 artist: "Jive Bunny And The Mastermixers"
 album_name: "Swing The Mood"
-date: 2017-05-16
+date: 2017-05-16T19:47:14.000000Z
 release_id: "576722"
 slug: "swing-the-mood-576722"
 hideSummary: true
@@ -13,12 +13,17 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Swing The Mood (6:00)
 2. Swing The Mood (Radio Mix) (4:05)
 3. Glenn Miller Medley (The J.B. Edit) (3:55)
+
+
 ## Spotify
 {{< spotify type="album" id="5lBXrJYCXymUUUPZSKrjPR" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="d7zF10x8NWw" title="Jive Bunny and the Mastermixers - SWING THE MOOD" >}}
@@ -35,8 +40,16 @@ styles: ["Rock & Roll"]
 | ---------------| ----------- |
 | Release Year   | 1989 |
 | Discogs Link   | [Jive Bunny And The Mastermixers - Swing The Mood](https://www.discogs.com/release/576722-Jive-Bunny-And-The-Mastermixers-Swing-The-Mood) |
-| Label          | Music Factory, Music Factory |
-| Format         | 12\", Single, Son |
-| Catalog Number | MFDT 001, MFDT001 |
+| Label          | Music Factory |
+| Format         | Vinyl 12" 45 RPM Single (Sonopress Pressing) |
+| Catalog Number | MFDT 001 |
 
-Tracks licensed from: Barnaby Records Inc. Bulldog Records, Kilo Music Ltd. Modern Records.  ℗&© Music Factory 1989  Distributed in the U.K. by B.M.G.  The Musical Clef symbol is embossed on side B with just the one following dot.  Same Cat#, CBS Clinton Pressing, runouts MFDT 001, with no embossed B Side label, with the text GLENN MILLER MEDLEY (THE J.B. EDIT) 3.55 a smaller font and no red outer circle in both labels here: [r12269776]
+Tracks licensed from: Barnaby Records Inc. Bulldog Records, Kilo Music Ltd. Modern Records.
+
+℗&© Music Factory 1989
+
+Distributed in the U.K. by B.M.G.
+
+The Musical Clef symbol is embossed on side B with just the one following dot.
+
+Same Cat#, CBS Clinton Pressing, runouts MFDT 001, with no embossed B Side label, with the text GLENN MILLER MEDLEY (THE J.B. EDIT) 3.55 a smaller font and no red outer circle in both labels here: [r12269776]

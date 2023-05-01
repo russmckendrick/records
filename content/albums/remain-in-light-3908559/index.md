@@ -2,7 +2,7 @@
 title: "Talking Heads - Remain In Light"
 artist: "Talking Heads"
 album_name: "Remain In Light"
-date: 2015-09-16
+date: 2015-09-16T18:52:12.000000Z
 release_id: "3908559"
 slug: "remain-in-light-3908559"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 ---
+
 ## Tracklisting
 1. Born Under Punches (The Heat Goes On)
 2. Crosseyed And Painless
@@ -22,8 +23,12 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 6. Seen And Not Seen
 7. Listening Wind
 8. The Overload
+
+
 ## Spotify
 {{< spotify type="album" id="3AQgdwMNCiN7awXch5fAaG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="w6T_X7MXg40" title="Born Under Punches (The Heat Goes On) (2005 Remaster)" >}}
@@ -40,8 +45,20 @@ styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 0 |
 | Discogs Link   | [Talking Heads - Remain In Light](https://www.discogs.com/release/3908559-Talking-Heads-Remain-In-Light) |
-| Label          | Sire, Sire, Sire |
-| Format         | LP, Album, RE |
-| Catalog Number | SIR K 56 867, SRK. 6095, WB 56 867 |
+| Label          | Sire |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | SIR K 56 867 |
 
-℗ 1980 Sire Records Company. Distributed by WEA Records Ltd. Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf. Label: Made in Germany by WEA Musik GMBH  Cat# on labels: SRK. 6095 Cat# on sleeve: SIR K 56 867 Cat# on inner sleeve: WB 56 867 UK: SRK 6095  Printed polylined inner sleeve.  The back cover and labels have different tracklistings, of which the label shows the correct order.
+℗ 1980 Sire Records Company.
+Distributed by WEA Records Ltd.
+Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf.
+Label: Made in Germany by WEA Musik GMBH
+
+Cat# on labels: SRK. 6095
+Cat# on sleeve: SIR K 56 867
+Cat# on inner sleeve: WB 56 867
+UK: SRK 6095
+
+Printed polylined inner sleeve.
+
+The back cover and labels have different tracklistings, of which the label shows the correct order.

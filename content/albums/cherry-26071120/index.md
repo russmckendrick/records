@@ -2,7 +2,7 @@
 title: "Curve - Cherry"
 artist: "Curve"
 album_name: "Cherry"
-date: 2023-02-13
+date: 2023-02-13T11:30:45.000000Z
 release_id: "26071120"
 slug: "cherry-26071120"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Clipped
 2. Die Like A Dog
 3. Galaxy
 4. Cherry
+
+
+
 
 ## Videos
 {{< youtube id="OTUS6N9OWYY" title="Curve - I speak your every word" >}}
@@ -32,7 +36,15 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [Curve - Cherry](https://www.discogs.com/release/26071120-Curve-Cherry) |
 | Label          | Music On Vinyl |
-| Format         | 12\", EP, Ltd, Num, Pin |
+| Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Pink & Purple Marbled) |
 | Catalog Number | MOV12032 |
 
-Part of a Curve reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track durations not listed on the release.
+Part of a Curve reissue series.
+Coloured vinyl.
+Plastic outer sleeve with Music On Vinyl sticker.
+Limited edition of 1000.
+Individual number stamped in silver metallic on rear of outer sleeve.
+Plain inner sleeve.
+Insert advertising Music On Vinyl Curve reissue series.
+
+Track durations not listed on the release.

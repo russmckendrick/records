@@ -2,7 +2,7 @@
 title: "Laura Veirs - The Lookout"
 artist: "Laura Veirs"
 album_name: "The Lookout"
-date: 2018-04-20
+date: 2018-04-20T17:55:25.000000Z
 release_id: "11865679"
 slug: "the-lookout-11865679"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk"]
 ---
+
 ## Tracklisting
 1. Margaret Sands
 2. Everybody Needs You
@@ -26,8 +27,12 @@ styles: ["Folk"]
 10. Lightning Rod
 11. When It Grows Darkest
 12. Zozobra
+
+
 ## Spotify
-{{< spotify type="album" id="6zxxQJ1GyzHqosrD6HsqwG" width="100%" height="500" >}}
+{{< spotify type="album" id="5s7h5WHFK2QzS2tZ6KQ9aB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout [Full Album Stream]" >}}
@@ -41,7 +46,14 @@ styles: ["Folk"]
 | Release Year   | 2018 |
 | Discogs Link   | [Laura Veirs - The Lookout](https://www.discogs.com/release/11865679-Laura-Veirs-The-Lookout) |
 | Label          | Bella Union |
-| Format         | LP, Album, Ltd, Gol |
+| Format         | Vinyl LP Album Limited Edition (Gold) |
 | Catalog Number | BELLA744V |
 
-First pressing on Gold coloured vinyl.  100 copies bought from the Bella Union store came with a signed postcard.  © 2018 Freak Off The Leash Music (BMI), Adm. by BMG  Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017 
+First pressing on Gold coloured vinyl.
+
+100 copies bought from the Bella Union store came with a signed postcard.
+
+© 2018 Freak Off The Leash Music (BMI), Adm. by BMG
+
+Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017
+

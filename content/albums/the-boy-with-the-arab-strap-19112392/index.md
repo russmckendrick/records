@@ -2,7 +2,7 @@
 title: "Belle & Sebastian - The Boy With The Arab Strap"
 artist: "Belle & Sebastian"
 album_name: "The Boy With The Arab Strap"
-date: 2021-06-12
+date: 2021-06-12T06:03:18.000000Z
 release_id: "19112392"
 slug: "the-boy-with-the-arab-strap-19112392"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. It Could Have Been A Brilliant Career (2:23)
 2. Sleep The Clock Around (4:58)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Chickfactor (3:32)
 11. Simple Things (1:46)
 12. The Rollercoaster Ride (6:40)
+
+
 ## Spotify
 {{< spotify type="album" id="4AChnLbiWqxiotXz8kv6D7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}
@@ -48,8 +53,21 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/19112392-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |
-| Label          | Jeepster Recordings, Jeepster Recordings |
-| Format         | LP, Album, RSD, Ltd, RE, Gre |
-| Catalog Number | JPRLP003RSD, JPRLP 003 |
+| Label          | Jeepster Recordings |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Green Transparent) |
+| Catalog Number | JPRLP003RSD |
 
-Record Store Day 2021 Exclusive Gatefold sleeve  (P) & (C) 1998 Jeepster Recordings Made in EU.  Distributed by Universal Music Operations Ltd.       The title of this record in no way refers to the cover star, by the way.  
+Record Store Day 2021 Exclusive
+Gatefold sleeve
+
+(P) & (C) 1998 Jeepster Recordings
+Made in EU. 
+Distributed by Universal Music Operations Ltd. 
+
+
+
+
+
+The title of this record in no way refers to the cover star, by the way.
+
+

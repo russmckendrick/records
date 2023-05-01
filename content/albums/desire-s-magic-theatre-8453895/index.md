@@ -2,7 +2,7 @@
 title: "Purson - Desire's Magic Theatre"
 artist: "Purson"
 album_name: "Desire's Magic Theatre"
-date: 2016-04-29
+date: 2016-04-29T18:01:49.000000Z
 release_id: "8453895"
 slug: "desire-s-magic-theatre-8453895"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Desire's Magic Theatre
 2. Electric Landlady
@@ -24,8 +25,12 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 8. Mr. Howard
 9. I Know
 10. The Bitter Suite
+
+
 ## Spotify
 {{< spotify type="album" id="2fZ5Aphgy3IhGGsT66ZEYu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QygP9o9aO4s" title="Desire's Magic Theatre" >}}
@@ -37,7 +42,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Purson - Desire's Magic Theatre](https://www.discogs.com/release/8453895-Purson-Desires-Magic-Theatre) |
 | Label          | Spinefarm Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 0602547711557 |
 
-Album has a sticker on shrinkwrap. Gatefold cover.
+Album has a sticker on shrinkwrap.
+Gatefold cover.

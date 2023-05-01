@@ -2,7 +2,7 @@
 title: "Paul Draper - Spooky Action"
 artist: "Paul Draper"
 album_name: "Spooky Action"
-date: 2017-08-13
+date: 2017-08-13T18:21:55.000000Z
 release_id: "10690266"
 slug: "spooky-action-10690266"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Don't Poke The Bear (6:49)
 2. Grey House (4:43)
@@ -25,8 +26,12 @@ styles: ["Indie Rock", "Prog Rock"]
 9. Can't Get Fairer Than That (3:13)
 10. Feel Like I Wanna Stay (2:45)
 11. The Inner Wheel (5:24)
+
+
 ## Spotify
 {{< spotify type="album" id="40a9WFqmbXlIzwZNL7RRJW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="22WfZ8vM-r0" title="Paul Draper - Don't Poke The Bear" >}}
@@ -38,7 +43,7 @@ styles: ["Indie Rock", "Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Paul Draper - Spooky Action](https://www.discogs.com/release/10690266-Paul-Draper-Spooky-Action) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ltd, Cle |
+| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Catalog Number | KSCOPE913C |
 
 Limited edition clear vinyl release of 'Spooky Action'

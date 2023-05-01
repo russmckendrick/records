@@ -2,7 +2,7 @@
 title: "R.E.M. - Out Of Time"
 artist: "R.E.M."
 album_name: "Out Of Time"
-date: 2016-11-18
+date: 2016-11-18T18:43:07.000000Z
 release_id: "9359884"
 slug: "out-of-time-9359884"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Time Side
 2. Radio Song (4:12)
@@ -27,21 +28,12 @@ styles: ["Alternative Rock"]
 11. Texarkana (3:36)
 12. Country Feedback (4:07)
 13. Me In Honey (4:06)
+
+
 ## Spotify
 {{< spotify type="album" id="6yEuIwTQpciH1qtj7mP5GK" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="ZlgOnooY7FA" title="Radio Song" >}}
-- [Losing My Religion](https://www.youtube.com/watch?v=Efa6BAWPm9o)
-- [Low](https://www.youtube.com/watch?v=iRO7oryZUnM)
-- [Near Wild Heaven](https://www.youtube.com/watch?v=dcP7TxLnd9M)
-- [Endgame](https://www.youtube.com/watch?v=-3coDah-ZQU)
-- [Shiny Happy People](https://www.youtube.com/watch?v=nsI2BdCmoCA)
-- [Belong](https://www.youtube.com/watch?v=UOtcV_6wfxQ)
-- [Half A World Away](https://www.youtube.com/watch?v=u3KMOGAm2Rs)
-- [Texarkana](https://www.youtube.com/watch?v=p16q-w2OuI4)
-- [Country Feedback](https://www.youtube.com/watch?v=cDjIByRiiPo)
-- [Me In Honey](https://www.youtube.com/watch?v=uDucg0E4kMI)
+
 
 ## Notes
 | Notes          |             |
@@ -49,7 +41,12 @@ styles: ["Alternative Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [R.E.M. - Out Of Time](https://www.discogs.com/release/9359884-REM-Out-Of-Time) |
 | Label          | Concord Bicycle Music |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180g, 25th Anniversary Edition) |
 | Catalog Number | 0888072004405 |
 
-25th Anniversary Edition: -Remastered From Original Analog Masters -180-Gram Vinyl -Includes Digital Download Card  Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.
+25th Anniversary Edition:
+-Remastered From Original Analog Masters
+-180-Gram Vinyl
+-Includes Digital Download Card
+
+Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.

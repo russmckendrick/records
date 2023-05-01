@@ -2,7 +2,7 @@
 title: "Crowded House - The Very Very Best Of Crowded House"
 artist: "Crowded House"
 album_name: "The Very Very Best Of Crowded House"
-date: 2019-07-15
+date: 2019-07-15T18:00:11.000000Z
 release_id: "13869670"
 slug: "the-very-very-best-of-crowded-house-13869670"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Very Very Best Of Crowded House by Crowded House"
     caption: "The Very Very Best Of Crowded House by Crowded House"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Something So Strong
 2. Weather With You
@@ -33,8 +34,12 @@ styles: null
 17. Not The Girl You Think You Are
 18. Nails In My Feet
 19. Pour Le Monde
+
+
 ## Spotify
 {{< spotify type="album" id="3XLP6DCTfz8eQkORPdfvvy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Video)" >}}
@@ -48,7 +53,9 @@ styles: null
 | Release Year   | 2019 |
 | Discogs Link   | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13869670-Crowded-House-The-Very-Very-Best-Of-Crowded-House) |
 | Label          | Universal Music |
-| Format         | 2xLP, Comp, RE |
+| Format         | Vinyl 2× LP Compilation Reissue |
 | Catalog Number | 00602557847581 |
 
-180 gram Black vinyl.  Comes with a hype sticker and a voucher with a download code
+180 gram Black vinyl.
+
+Comes with a hype sticker and a voucher with a download code

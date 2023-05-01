@@ -2,7 +2,7 @@
 title: "The Pineapple Thief - Dissolution"
 artist: "The Pineapple Thief"
 album_name: "Dissolution"
-date: 2018-08-31
+date: 2018-08-31T18:39:12.000000Z
 release_id: "12172923"
 slug: "dissolution-12172923"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Not Naming Any Names (2:05)
 2. Try As I Might (4:26)
@@ -23,8 +24,12 @@ styles: ["Prog Rock", "Art Rock"]
 7. Pillar of Salt (1:25)
 8. White Mist (11:05)
 9. Shed A Light (5:20)
+
+
 ## Spotify
 {{< spotify type="album" id="5mKAoSFsmgLBjBZofrqkd3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="J2G89BomTYk" title="The Pineapple Thief- Dissolution- Full Album" >}}
@@ -35,7 +40,8 @@ styles: ["Prog Rock", "Art Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Pineapple Thief - Dissolution](https://www.discogs.com/release/12172923-The-Pineapple-Thief-Dissolution) |
 | Label          | Kscope |
-| Format         | LP, Album, Ltd, Cry |
+| Format         | Vinyl LP Album Limited Edition Stereo (Crystal Clear Vinyl) |
 | Catalog Number | KSCOPE997 |
 
-The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag. Ace guitarist David Torn guests on the song White Mist.
+The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag.
+Ace guitarist David Torn guests on the song White Mist.

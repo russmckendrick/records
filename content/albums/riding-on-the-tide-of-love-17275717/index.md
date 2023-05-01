@@ -2,7 +2,7 @@
 title: "Deacon Blue - Riding On The Tide Of Love"
 artist: "Deacon Blue"
 album_name: "Riding On The Tide Of Love"
-date: 2022-02-15
+date: 2022-02-15T06:06:04.000000Z
 release_id: "17275717"
 slug: "riding-on-the-tide-of-love-17275717"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Riding On The Tide Of Love
 2. She Loved The Snow
@@ -22,8 +23,12 @@ styles: ["Pop Rock"]
 6. Send A Note Out 
 7. Not Gonna Be That Girl
 8. It's Still Early 
+
+
 ## Spotify
 {{< spotify type="album" id="7nscf05Tq67HnOzN3BDptC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)" >}}
@@ -46,7 +51,5 @@ styles: ["Pop Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Deacon Blue - Riding On The Tide Of Love](https://www.discogs.com/release/17275717-Deacon-Blue-Riding-On-The-Tide-Of-Love) |
 | Label          | Ear Music |
-| Format         | LP, MiniAlbum |
+| Format         | Vinyl LP Mini-Album Stereo |
 | Catalog Number | 0215401EMU |
-
-

@@ -2,7 +2,7 @@
 title: "Amplifier - Insider"
 artist: "Amplifier"
 album_name: "Insider"
-date: 2021-09-29
+date: 2021-09-29T00:17:46.000000Z
 release_id: "20391511"
 slug: "insider-20391511"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Gustav’s Arrival
 2. O Fortuna
@@ -26,8 +27,9 @@ styles: ["Prog Rock", "Hard Rock"]
 10. What Is Music?
 11. Hymn Of The Aten
 12. Map Of An Imaginary Place
-## Spotify
-{{< spotify type="album" id="0nCNsiMj940ZtfiQW1VCug" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="c3K6-ljo7UQ" title="Amplifier -- Insider" >}}
@@ -38,7 +40,11 @@ styles: ["Prog Rock", "Hard Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Amplifier - Insider](https://www.discogs.com/release/20391511-Amplifier-Insider) |
 | Label          | Rockosmos |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album Stereo |
 | Catalog Number | ROK141 |
 
-Gatefold cover double-sided color inlay Bandcamp download-code  Made in CZ
+Gatefold cover
+double-sided color inlay
+Bandcamp download-code
+
+Made in CZ

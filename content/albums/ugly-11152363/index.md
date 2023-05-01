@@ -2,7 +2,7 @@
 title: "Life Of Agony - Ugly"
 artist: "Life Of Agony"
 album_name: "Ugly"
-date: 2017-11-18
+date: 2017-11-18T11:54:07.000000Z
 release_id: "11152363"
 slug: "ugly-11152363"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Seasons
 2. I Regret
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Heavy Metal"]
 10. Damned If I Do
 11. Fears
 12. Don't You (Forget About Me)
+
+
 ## Spotify
 {{< spotify type="album" id="0DfwAJXDy8TzMgRuPNsjkc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xNU60NaUad0" title="Life Of Agony - Other Side Of The River" >}}
@@ -45,8 +50,10 @@ styles: ["Alternative Rock", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Life Of Agony - Ugly](https://www.discogs.com/release/11152363-Life-Of-Agony-Ugly) |
-| Label          | Music On Vinyl, Roadrunner Records |
-| Format         | LP, Album, Ltd, Num, RE, Gol |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 gram) |
 | Catalog Number | MOVLP2003 |
 
-Limited edition of 1,500 individually numbered copies. Includes insert.  Made in the EU.
+Limited edition of 1,500 individually numbered copies. Includes insert.
+
+Made in the EU.

@@ -2,7 +2,7 @@
 title: "Baxter Dury - Prince Of Tears"
 artist: "Baxter Dury"
 album_name: "Prince Of Tears"
-date: 2017-10-28
+date: 2017-10-28T15:46:15.000000Z
 release_id: "11063096"
 slug: "prince-of-tears-11063096"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Miami
 2. Porcelain
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 8. August
 9. Wanna
 10. Prince Of Tears
+
+
 ## Spotify
 {{< spotify type="album" id="2t7r6hUtlrqQfX0Z5zHzF8" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HyILwv1KBT4" title="Baxter Dury - Miami" >}}
@@ -44,8 +49,6 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Baxter Dury - Prince Of Tears](https://www.discogs.com/release/11063096-Baxter-Dury-Prince-Of-Tears) |
-| Label          | [PIAS] Le Label, Heavenly |
-| Format         | LP, Album |
-| Catalog Number | PIASL101LP, 962.A191.010 |
-
-
+| Label          | [PIAS] Le Label |
+| Format         | Vinyl LP Album |
+| Catalog Number | PIASL101LP |

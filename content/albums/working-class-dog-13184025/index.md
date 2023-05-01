@@ -2,7 +2,7 @@
 title: "Rick Springfield - Working Class Dog"
 artist: "Rick Springfield"
 album_name: "Working Class Dog"
-date: 2020-01-30
+date: 2020-01-30T18:34:56.000000Z
 release_id: "13184025"
 slug: "working-class-dog-13184025"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Working Class Dog by Rick Springfield"
     caption: "Working Class Dog by Rick Springfield"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Love Is Alright Tonite (3:28)
 2. Jessie's Girl (3:14)
@@ -24,8 +25,12 @@ styles: null
 8. Daddy's Pearl (2:37)
 9. Red Hot & Blue Love (2:57)
 10. Inside Silvia (4:43)
+
+
 ## Spotify
 {{< spotify type="album" id="4KKFWTePKtgb6mOwFDqxYa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="yWEzf-mska4" title="Rick Springfield - Love Is Alright Tonite" >}}
@@ -40,8 +45,10 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Rick Springfield - Working Class Dog](https://www.discogs.com/release/13184025-Rick-Springfield-Working-Class-Dog) |
-| Label          | RCA Victor, Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Bla |
+| Label          | RCA Victor |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Black & White Swirled) |
 | Catalog Number | MOVLP1655 |
 
-180 gram audiophile vinyl Includes insert Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl
+180 gram audiophile vinyl
+Includes insert
+Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl

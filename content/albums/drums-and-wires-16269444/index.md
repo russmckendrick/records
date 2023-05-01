@@ -2,7 +2,7 @@
 title: "XTC - Drums And Wires"
 artist: "XTC"
 album_name: "Drums And Wires"
-date: 2020-11-28
+date: 2020-11-28T12:34:08.000000Z
 release_id: "16269444"
 slug: "drums-and-wires-16269444"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Making Plans For Nigel 
 2. Helicopter
@@ -29,15 +30,19 @@ styles: ["New Wave", "Pop Rock"]
 13. Limited Edition Bonus 7"
 14. Chain Of Command 
 15. Limelight
+
+
 ## Spotify
 {{< spotify type="album" id="4S6y2iTYbGONSlNJHYyrVl" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="9NPMAZDUmHs" title="XTC - Chain of Command / Limelight (1979) full 7” Single" >}}
+{{< youtube id="yp-WJXOb2V4" title="Making Plans For Nigel" >}}
+- [XTC - Chain of Command / Limelight (1979) full 7” Single](https://www.youtube.com/watch?v=9NPMAZDUmHs)
 - [When You're Near Me I Have Difficulty (2001 Digital Remaster)](https://www.youtube.com/watch?v=IKBjJl7NnJ8)
 - [XTC - Drums and Wires [Full Album]](https://www.youtube.com/watch?v=N66oJVIjk2M)
 - [XTC - Drums&Wires(1979)(Art-Pop)(Post-Punk)(New Wave)(Art Rock)MUST HEAR!](https://www.youtube.com/watch?v=SKRgIPbhrJk)
-- [Making Plans For Nigel](https://www.youtube.com/watch?v=yp-WJXOb2V4)
 - [XTC - Making Plans For Nigel 1979 (Official Video) ᴴᴰ](https://www.youtube.com/watch?v=AiIlcew-GVM)
 - [XTC - Complicated Game](https://www.youtube.com/watch?v=vFlq0mvTRB0)
 - [Helicopter (2001 Digital Remaster)](https://www.youtube.com/watch?v=Hu4NaIC_fko)
@@ -52,7 +57,16 @@ styles: ["New Wave", "Pop Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [XTC - Drums And Wires](https://www.discogs.com/release/16269444-XTC-Drums-And-Wires) |
 | Label          | Ape House |
-| Format         | LP, Album, 200 + 7\", Single, Ltd + RE |
+| Format         | Vinyl LP Album (200g), Vinyl 7" 45 RPM Single Limited Edition, All Media Reissue |
 | Catalog Number | APELP103 |
 
-Hype Sticker on Front of Shrink Wrap Reads:  XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge.  Pressed on 200G Super-Heavyweight Vinyl LIMITED EDITION BONUS 7" LIMELIGHT / CHAIN OF COMMAND  Includes bonus 7" replicating original U.K. release, [r=585255]   Tracks not numbered on rear of sleeve - tracks listed under side one and side two  
+Hype Sticker on Front of Shrink Wrap Reads: 
+XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge. 
+Pressed on 200G Super-Heavyweight Vinyl
+LIMITED EDITION BONUS 7"
+LIMELIGHT / CHAIN OF COMMAND
+
+Includes bonus 7" replicating original U.K. release, [r=585255] 
+
+Tracks not numbered on rear of sleeve - tracks listed under side one and side two 
+

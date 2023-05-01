@@ -2,7 +2,7 @@
 title: "Leon Bridges - Gold-Diggers Sound"
 artist: "Leon Bridges"
 album_name: "Gold-Diggers Sound"
-date: 2021-07-23
+date: 2021-07-23T09:16:24.000000Z
 release_id: "19585627"
 slug: "gold-diggers-sound-19585627"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
+
 ## Tracklisting
 1. Born Again
 2. Motorbike
@@ -25,8 +26,12 @@ styles: ["Soul", "Contemporary R&B"]
 9. Sweeter
 10. Don't Worry
 11. Blue Mesas
+
+
 ## Spotify
 {{< spotify type="album" id="6pKaUDUnQiZgWLPZJqwkzn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Y9OMJ0HvPbk" title="Leon Bridges - Motorbike (Official Video)" >}}
@@ -45,8 +50,10 @@ styles: ["Soul", "Contemporary R&B"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627-Leon-Bridges-Gold-Diggers-Sound) |
-| Label          | Columbia, Columbia |
-| Format         | LP, Album |
-| Catalog Number | 19439886991, 19439886991 S1 |
+| Label          | Columbia |
+| Format         | Vinyl LP Album |
+| Catalog Number | 19439886991 |
 
-Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1. 
+Cat # on spine: 19439886991.
+Cat # on sticker (cover): 19439886991 S1.
+

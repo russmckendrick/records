@@ -1,18 +1,19 @@
 ---
-title: "Kyle Dixon & Michael Stein - Stranger Things (A Netflix Original Series) Original Music • Volume Two"
-artist: "Kyle Dixon & Michael Stein"
+title: "Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume Two"
+artist: "Kyle Dixon"
 album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume Two"
-date: 2016-12-01
+date: 2016-12-01T06:52:33.000000Z
 release_id: "9425650"
 slug: "stranger-things-a-netflix-original-series-original-music-volume-two-9425650"
 hideSummary: true
 cover:
     image: "stranger-things-a-netflix-original-series-original-music-volume-two-9425650.jpg"
-    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon & Michael Stein"
-    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon & Michael Stein"
+    alt: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon"
+    caption: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
+
 ## Tracklisting
 1. Hopper Sneaks In
 2. I Know What I Saw
@@ -54,6 +55,9 @@ styles: ["Soundtrack", "Score"]
 38. Breaking And Entering
 39. Stranger Things (Extended)
 
+
+
+
 ## Videos
 {{< youtube id="itC9WixTGNE" title="Kyle Dixon & Michael Stein - Stranger Things Vol. 2" >}}
 
@@ -61,9 +65,17 @@ styles: ["Soundtrack", "Score"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Kyle Dixon & Michael Stein - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |
-| Label          | Invada, Netflix, Lakeshore Records |
-| Format         | 2xLP, Album, Cle |
+| Discogs Link   | [Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |
+| Label          | Invada |
+| Format         | Vinyl 2× LP Album Stereo (Clear [Frosted Clear] With White Blue And Red Splatter) |
 | Catalog Number | INV177LP |
 
-Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits.
+Special Thanks Lynn Hobensack and Don Smith
+
+Music Published by Maisie Anthems (ASCAP)
+
+This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc.
+Manufactured and Distributed by Invada/Lakeshore Records, LLC.
+
+Mailorder exclusive only available through the Invada webstore.
+Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits.

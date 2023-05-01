@@ -2,7 +2,7 @@
 title: "The Specials - Specials"
 artist: "The Specials"
 album_name: "Specials"
-date: 2015-10-15
+date: 2015-10-15T17:43:22.000000Z
 release_id: "5759349"
 slug: "specials-5759349"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ska"]
 ---
+
 ## Tracklisting
 1. A Message To You Rudy
 2. Do The Dog
@@ -28,8 +29,12 @@ styles: ["Ska"]
 12. Too Much Too Young
 13. Little Bitch
 14. You're Wondering Now
+
+
 ## Spotify
 {{< spotify type="album" id="2OHPxPTasGkolt8lFDxCpE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0eWzrqHYmZs" title="The Specials   FULL ALBUM" >}}
@@ -48,8 +53,13 @@ styles: ["Ska"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [The Specials - Specials](https://www.discogs.com/release/5759349-Specials-Specials) |
-| Label          | Two-Tone Records, Two-Tone Records |
-| Format         | LP, Album, RE, RM |
-| Catalog Number | CDL TTX 5001, 825646336050 |
+| Label          | Two-Tone Records |
+| Format         | Vinyl LP Album Reissue Remastered |
+| Catalog Number | CDL TTX 5001 |
 
-Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company 
+Consolidation by Trigger
+
+Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd.
+© 2014 Chrysalis Records Ltd.
+A Warner Music Group Company
+

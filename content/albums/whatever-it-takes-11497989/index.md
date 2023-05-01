@@ -2,7 +2,7 @@
 title: "The James Hunter Six - Whatever It Takes"
 artist: "The James Hunter Six"
 album_name: "Whatever It Takes"
-date: 2018-02-19
+date: 2018-02-19T18:42:26.000000Z
 release_id: "11497989"
 slug: "whatever-it-takes-11497989"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. I Don't Wanna Be Without You
 2. Whatever It Takes
@@ -24,8 +25,12 @@ styles: ["Rhythm & Blues"]
 8. Don't Let Pride Take You For A Ride
 9. How Long
 10. It Was Gonna Be You
+
+
 ## Spotify
-{{< spotify type="album" id="0p7i3HXoqpDcd0bEM4ASZD" width="100%" height="500" >}}
+{{< spotify type="album" id="5xS12JJKDNn0UNflrA9nUW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Y7Kc_zDU2RI" title="I Don't Wanna Be Without You" >}}
@@ -45,7 +50,16 @@ styles: ["Rhythm & Blues"]
 | Release Year   | 2018 |
 | Discogs Link   | [The James Hunter Six - Whatever It Takes](https://www.discogs.com/release/11497989-The-James-Hunter-Six-Whatever-It-Takes) |
 | Label          | Daptone Records |
-| Format         | LP, Album, Mono, Ltd, Gol |
+| Format         | Vinyl LP Album Limited Edition Mono (Gold Transparent) |
 | Catalog Number | DAP-051 |
 
-Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  All songs Stoketone Pub., BMI. A Bosco Mann Production © 2017, Daptone Records. Sleeve notes -Sam Boncon, WHIT  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Limited edition translucent gold vinyl. Includes MP 3 download card.
+Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.
+
+All songs Stoketone Pub., BMI.
+A Bosco Mann Production
+© 2017, Daptone Records.
+Sleeve notes -Sam Boncon, WHIT
+
+Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206
+
+Limited edition translucent gold vinyl. Includes MP 3 download card.

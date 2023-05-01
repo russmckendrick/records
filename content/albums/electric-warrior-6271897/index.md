@@ -2,7 +2,7 @@
 title: "T. Rex - Electric Warrior"
 artist: "T. Rex"
 album_name: "Electric Warrior"
-date: 2017-01-27
+date: 2017-01-27T19:40:03.000000Z
 release_id: "6271897"
 slug: "electric-warrior-6271897"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Glam"]
 ---
+
 ## Tracklisting
 1. Mambo Sun (3:39)
 2. Cosmic Dancer (4:28)
@@ -25,8 +26,12 @@ styles: ["Glam"]
 9. The Motivator (3:57)
 10. Life's A Gas (2:25)
 11. Rip Off (3:42)
+
+
 ## Spotify
 {{< spotify type="album" id="6k1iylSzWOs7SgavxlJ8kt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FyzWDl0nz00" title="T. Rex - Bang a Gong (Get It On) (Official Audio)" >}}
@@ -42,8 +47,8 @@ styles: ["Glam"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [T. Rex - Electric Warrior](https://www.discogs.com/release/6271897-T-Rex-Electric-Warrior) |
-| Label          | A&M Records, Universal Music Catalogue |
-| Format         | LP, Album, RE, 180 |
+| Label          | A&M Records |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 535 407-6 |
 
 Plus download code.

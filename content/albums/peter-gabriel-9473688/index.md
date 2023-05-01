@@ -2,7 +2,7 @@
 title: "Peter Gabriel - Peter Gabriel"
 artist: "Peter Gabriel"
 album_name: "Peter Gabriel"
-date: 2016-12-08
+date: 2016-12-08T18:41:19.000000Z
 release_id: "9473688"
 slug: "peter-gabriel-9473688"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Moribund The Burgermeister
 2. Solsbury Hill
@@ -23,8 +24,12 @@ styles: ["Art Rock", "Prog Rock"]
 7. Waiting For The Big One
 8. Down The Dolce Vita
 9. Here Comes The Flood
+
+
 ## Spotify
 {{< spotify type="album" id="4jd6oC0It60c1J3GpXCv6M" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FQhoX4QyhaM" title="Peter Gabriel - Here Comes The Flood (1987 UK & Europe CD)" >}}
@@ -37,8 +42,10 @@ styles: ["Art Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473688-Peter-Gabriel-Peter-Gabriel) |
-| Label          | Real World Records, Charisma |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Real World Records |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Catalog Number | PGLPR1 |
 
-Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.  '14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched.
+Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.
+
+'14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched.

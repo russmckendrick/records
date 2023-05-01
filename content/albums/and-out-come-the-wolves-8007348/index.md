@@ -2,7 +2,7 @@
 title: "Rancid - ...And Out Come The Wolves"
 artist: "Rancid"
 album_name: "...And Out Come The Wolves"
-date: 2016-01-22
+date: 2016-01-22T19:33:25.000000Z
 release_id: "8007348"
 slug: "and-out-come-the-wolves-8007348"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
+
 ## Tracklisting
 1. Maxwell Murder (1:26)
 2. The 11th Hour (2:28)
@@ -33,8 +34,12 @@ styles: ["Punk", "Ska"]
 17. As Wicked (2:41)
 18. Avenues & Alleyways (3:12)
 19. The Way I Feel (2:35)
+
+
 ## Spotify
 {{< spotify type="album" id="1HisV3ZKLs9It3KlGcPki5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XcccqG6-dDg" title="Rancid - Maxwell Murder (Full Album Stream)" >}}
@@ -63,7 +68,17 @@ styles: ["Punk", "Ska"]
 | Release Year   | 2016 |
 | Discogs Link   | [Rancid - ...And Out Come The Wolves](https://www.discogs.com/release/8007348-Rancid-And-Out-Come-The-Wolves) |
 | Label          | Epitaph |
-| Format         | LP, Album, Ltd, RE, RM, Gol |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Gold, 180g) |
 | Catalog Number | 7441-1 |
 
-To celebrate the 20th anniversary of this very special release in our history, Epitaph Records is proud to present the deluxe 20th Anniversary edition of Rancid’s …and Out Come The Wolves. Released at the height of the 90’s wave of punk resurgence, …and Out Come The Wolves is arguably on the most important albums of that decade and features tracks that became punk standards. – Audiophile 180 gram gold vinyl – Remastered from the original master tapes – Includes giant poster and lyric sheet LP contains Download card.Comes with fold-out poster. Limited to 1500 copies  ©+℗ 1995 Epitaph Records All songs published by I Want To Go Where The Action Is Music (King Roy Music B.M.I.)  Intro to A1 from the movie "Gringo" by Lech Kowalski. Thanks to [a=Jim Carroll] for coming down & writing a poem to our song.
+To celebrate the 20th anniversary of this very special release in our history, Epitaph Records is proud to present the deluxe 20th Anniversary edition of Rancid’s …and Out Come The Wolves.
+Released at the height of the 90’s wave of punk resurgence, …and Out Come The Wolves is arguably on the most important albums of that decade and features tracks that became punk standards.
+– Audiophile 180 gram gold vinyl – Remastered from the original master tapes – Includes giant poster and lyric sheet
+LP contains Download card.Comes with fold-out poster.
+Limited to 1500 copies
+
+©+℗ 1995 Epitaph Records
+All songs published by I Want To Go Where The Action Is Music (King Roy Music B.M.I.)
+
+Intro to A1 from the movie "Gringo" by Lech Kowalski.
+Thanks to [a=Jim Carroll] for coming down & writing a poem to our song.

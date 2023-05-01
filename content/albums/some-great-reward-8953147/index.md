@@ -2,7 +2,7 @@
 title: "Depeche Mode - Some Great Reward"
 artist: "Depeche Mode"
 album_name: "Some Great Reward"
-date: 2017-02-15
+date: 2017-02-15T18:28:47.000000Z
 release_id: "8953147"
 slug: "some-great-reward-8953147"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Something To Do (3:45)
 2. Lie To Me (5:04)
@@ -23,8 +24,12 @@ styles: ["Synth-pop"]
 7. Master And Servant (4:13)
 8. If You Want (4:40)
 9. Blasphemous Rumours (6:21)
+
+
 ## Spotify
 {{< spotify type="album" id="7DbpWj9i5uZ1UggeGRo1LZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="o3EAzf5fDpY" title="Depeche Mode - Blasphemous Rumours (Official Video)" >}}
@@ -37,8 +42,18 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Depeche Mode - Some Great Reward](https://www.discogs.com/release/8953147-Depeche-Mode-Some-Great-Reward) |
-| Label          | Legacy, Sony Music, Mute, Legacy, Sony Music, Mute |
-| Format         | LP, Album, RE, RM, Gat |
-| Catalog Number | STUMM19, 88985330011 |
+| Label          | Legacy |
+| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Catalog Number | STUMM19 |
 
-Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd. Recorded at Music Works, London and Hansa Mischraum, Berlin. Mixed at Hansa Mischraum, Berlin.  Remastered at Super Audio Mastering. Cut at The Exchange.  ℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH
+Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd.
+Recorded at Music Works, London and Hansa Mischraum, Berlin.
+Mixed at Hansa Mischraum, Berlin.
+
+Remastered at Super Audio Mastering. Cut at The Exchange.
+
+℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.
+© 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.
+Distributed by Sony Music Entertainment.
+Made in the EU.
+Sony Music Entertainment International Services GmbH

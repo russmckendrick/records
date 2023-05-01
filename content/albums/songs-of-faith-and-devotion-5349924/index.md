@@ -2,7 +2,7 @@
 title: "Depeche Mode - Songs Of Faith And Devotion"
 artist: "Depeche Mode"
 album_name: "Songs Of Faith And Devotion"
-date: 2016-05-02
+date: 2016-05-02T11:02:41.000000Z
 release_id: "5349924"
 slug: "songs-of-faith-and-devotion-5349924"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. I Feel You (4:35)
 2. Walking In My Shoes (5:35)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Synth-pop"]
 8. Rush (4:36)
 9. One Caress (3:30)
 10. Higher Love (5:56)
+
+
 ## Spotify
 {{< spotify type="album" id="1nHX4rMCk0NIBSplCjioCb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fphsbLtrDe8" title="Depeche Mode - One Caress (Official Video)" >}}
@@ -40,8 +45,14 @@ styles: ["Alternative Rock", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Depeche Mode - Songs Of Faith And Devotion](https://www.discogs.com/release/5349924-Depeche-Mode-Songs-Of-Faith-And-Devotion) |
-| Label          | Music On Vinyl, Mute |
-| Format         | LP, Album, RE, RM, Gat |
-| Catalog Number | MOVLP943, STUMM106 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 gram) |
+| Catalog Number | MOVLP943 |
 
-℗ & © 1993 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.  Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Overseas Ltd. except B2 and B4 assigned by Grabbing Hands Music Ltd.   Recorded at The Villa, Madrid and Chateau du Pape, Hamburg. Mixed at Olympic Studios, London. Remastered at Super Audio Mastering. Cut at The Exchange.  Plain black inner sleeve + insert designed as the original remaster inner. Contained in a resealable plastic bag with info sticker.
+℗ & © 1993 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.
+
+Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Overseas Ltd. except B2 and B4 assigned by Grabbing Hands Music Ltd. 
+
+Recorded at The Villa, Madrid and Chateau du Pape, Hamburg. Mixed at Olympic Studios, London. Remastered at Super Audio Mastering. Cut at The Exchange.
+
+Plain black inner sleeve + insert designed as the original remaster inner. Contained in a resealable plastic bag with info sticker.

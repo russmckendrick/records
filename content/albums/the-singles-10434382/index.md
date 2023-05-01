@@ -2,7 +2,7 @@
 title: "Can - The Singles"
 artist: "Can"
 album_name: "The Singles"
-date: 2017-06-16
+date: 2017-06-16T18:30:04.000000Z
 release_id: "10434382"
 slug: "the-singles-10434382"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 ---
+
 ## Tracklisting
 1. Soul Desert
 2. She Brings The Rain
@@ -37,8 +38,12 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 21. Return
 22. Can Can
 23. Hoolah Hoolah (Edit)
+
+
 ## Spotify
 {{< spotify type="album" id="1z1DhW2ZtPLHZJEkpCSvG4" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TECyopdL4fI" title="Can - Soul Desert (Official Audio)" >}}
@@ -71,7 +76,12 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 | Release Year   | 2017 |
 | Discogs Link   | [Can - The Singles](https://www.discogs.com/release/10434382-Can-The-Singles) |
 | Label          | Spoon Records |
-| Format         | 3xLP, Comp |
+| Format         | Vinyl 3× LP Compilation |
 | Catalog Number | SPOON60 |
 
-Issued in tri-fold sleeve with download code.  Made in the EU.  This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited for the world outside Germany
+Issued in tri-fold sleeve with download code.
+
+Made in the EU.
+
+This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited
+for the world outside Germany

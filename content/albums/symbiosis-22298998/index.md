@@ -2,7 +2,7 @@
 title: "Nordic Giants - Symbiosis"
 artist: "Nordic Giants"
 album_name: "Symbiosis"
-date: 2022-02-27
+date: 2022-02-27T08:05:43.000000Z
 release_id: "22298998"
 slug: "symbiosis-22298998"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
+
 ## Tracklisting
 1. Philosophy Of Mind (7:41)
 2. Anamorphia (5:56)
@@ -22,8 +23,11 @@ styles: ["Post Rock"]
 6. Spheres (6:01)
 7. Spires Of Ascendency (4:27)
 8. Infinity (7:32)
+
+
 ## Spotify
 {{< spotify type="album" id="1ncW9ytqUn06IQb6SHFPqH" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -32,7 +36,5 @@ styles: ["Post Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Nordic Giants - Symbiosis](https://www.discogs.com/release/22298998-Nordic-Giants-Symbiosis) |
 | Label          | Not On Label (Nordic Giants Self-released) |
-| Format         | LP, Album, Sky |
+| Format         | Vinyl LP Album (Sky Blue/Teal Marbled) |
 | Catalog Number | none |
-
-

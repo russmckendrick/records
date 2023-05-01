@@ -2,7 +2,7 @@
 title: "Led Zeppelin - Mothership"
 artist: "Led Zeppelin"
 album_name: "Mothership"
-date: 2016-01-03
+date: 2016-01-03T13:46:17.000000Z
 release_id: "7690309"
 slug: "mothership-7690309"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Good Times Bad Times (2:46)
 2. Communication Breakdown (2:28)
@@ -38,8 +39,11 @@ styles: ["Hard Rock", "Classic Rock"]
 22. Achilles Last Stand (10:22)
 23. In The Evening (6:49)
 24. All Of My Love (5:53)
+
+
 ## Spotify
 {{< spotify type="album" id="4wExFfncaUIqSgoxnqa3Eh" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -47,8 +51,20 @@ styles: ["Hard Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Led Zeppelin - Mothership](https://www.discogs.com/release/7690309-Led-Zeppelin-Mothership) |
-| Label          | Atlantic, Swan Song |
-| Format         | Box + 4xLP, Comp, Enh, RE, RM, Emb |
+| Label          | Atlantic |
+| Format         | Box Set, Vinyl 4× LP Compilation Enhanced Reissue Remastered (Embossed, 180 Gram) |
 | Catalog Number | R1 344700 |
 
-This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company   © 2007 Mythgem, Ltd.  4-LP Set  Sticker on box front states :   - The Very Best of Led Zepplin - Remastering Supervised by Jimmy Page - Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs - On Four 180-Gram LPS - Plus 20-Page Booklet 
+This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company  
+© 2007 Mythgem, Ltd.
+
+4-LP Set
+
+Sticker on box front states : 
+
+- The Very Best of Led Zepplin
+- Remastering Supervised by Jimmy Page
+- Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs
+- On Four 180-Gram LPS
+- Plus 20-Page Booklet
+

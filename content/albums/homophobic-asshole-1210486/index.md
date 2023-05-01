@@ -2,7 +2,7 @@
 title: "Senseless Things - Homophobic Asshole"
 artist: "Senseless Things"
 album_name: "Homophobic Asshole"
-date: 2018-02-15
+date: 2018-02-15T19:24:32.000000Z
 release_id: "1210486"
 slug: "homophobic-asshole-1210486"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Homophobic Asshole
 2. Body Bag
 3. Just Flirting
+
+
+
 
 ## Videos
 {{< youtube id="Q3YUFhjR3wM" title="SENSELESS THINGS Homophobic Asshole" >}}
@@ -29,7 +33,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 1992 |
 | Discogs Link   | [Senseless Things - Homophobic Asshole](https://www.discogs.com/release/1210486-Senseless-Things-Homophobic-Asshole) |
 | Label          | Epic |
-| Format         | 12\", Single |
+| Format         | Vinyl 12" Single |
 | Catalog Number | 658833 6 |
-
-

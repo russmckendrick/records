@@ -2,7 +2,7 @@
 title: "Doves - Kingdom Of Rust"
 artist: "Doves"
 album_name: "Kingdom Of Rust"
-date: 2022-11-22
+date: 2022-11-22T02:17:56.000000Z
 release_id: "25227943"
 slug: "kingdom-of-rust-25227943"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Jetstream (5:30)
 2. Kingdom Of Rust (5:09)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Post Rock"]
 9. Compulsion (5:12)
 10. House Of Mirrors (4:14)
 11. Lifelines (4:24)
+
+
 ## Spotify
 {{< spotify type="album" id="1wTJNgMbDEkPRYCcTcDsTr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust [Kingdom of rust] Music video" >}}
@@ -37,7 +42,7 @@ styles: ["Alternative Rock", "Post Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Doves - Kingdom Of Rust](https://www.discogs.com/release/25227943-Doves-Kingdom-Of-Rust) |
 | Label          | Heavenly Recordings |
-| Format         | 2xLP, Ltd, RE, Gol |
+| Format         | Vinyl 2× LP Limited Edition Reissue (Gold Vinyl) |
 | Catalog Number | 0888252 |
 
 Exclusive to the Doves official store, Sound Of Vinyl & Recordstore (Universal Music stores) on heavyweight double gold vinyl, hand numbered. Limited edition of 2000.

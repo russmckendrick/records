@@ -2,7 +2,7 @@
 title: "Faces - The Best Of The Faces"
 artist: "Faces"
 album_name: "The Best Of The Faces"
-date: 2016-01-08
+date: 2016-01-08T19:14:34.000000Z
 release_id: "1333090"
 slug: "the-best-of-the-faces-1333090"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Best Of The Faces by Faces"
     caption: "The Best Of The Faces by Faces"
 genres: ["Rock", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Flying (4:10)
 2. Around The Plynth (5:45)
@@ -34,8 +35,12 @@ styles: null
 18. Pool Hall Richard (4:26)
 19. You Can Make Me Dance, Sing Or Anything (4:29)
 20. It's All Over Now (6:23)
+
+
 ## Spotify
-{{< spotify type="album" id="375DYMUVvk7xXyKq5IaUTR" width="100%" height="500" >}}
+{{< spotify type="album" id="6PKN5bdQDvKjMoja6QQUC5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="C_nnu8NHhjA" title="FACES   Flying 1970" >}}
@@ -45,8 +50,20 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 1977 |
 | Discogs Link   | [Faces - The Best Of The Faces](https://www.discogs.com/release/1333090-Faces-The-Best-Of-The-Faces) |
-| Label          | Riva, Riva |
-| Format         | 2xLP, Comp |
-| Catalog Number | RVLP 3, RVLP3 |
+| Label          | Riva (2) |
+| Format         | Vinyl 2× LP Compilation |
+| Catalog Number | RVLP 3 |
 
-Released in a matt gatefold sleeve.  1st cat# on labels , 2nd cat# on sleeve.  Side 1 Warner Brother Music (1 - 5). Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4). Side 3 Warner Brothers Music (1 - 5). Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5).   ℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.  Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ 
+Released in a matt gatefold sleeve.
+
+1st cat# on labels , 2nd cat# on sleeve.
+
+Side 1 Warner Brother Music (1 - 5).
+Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4).
+Side 3 Warner Brothers Music (1 - 5).
+Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5). 
+
+℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.
+
+Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ
+

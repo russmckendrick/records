@@ -2,7 +2,7 @@
 title: "Living Colour - Vivid"
 artist: "Living Colour"
 album_name: "Vivid"
-date: 2020-02-25
+date: 2020-02-25T18:09:52.000000Z
 release_id: "14827118"
 slug: "vivid-14827118"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
+
 ## Tracklisting
 1. Cult Of Personality (4:53)
 2. I Want To Know (4:23)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 9. Glamour Boys (3:40)
 10. What's Your Favorite Color? (Theme Song) (1:38)
 11. Which Way To America? (3:40)
+
+
 ## Spotify
 {{< spotify type="album" id="532IlegHv3OfVGgyCFGBTs" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}
@@ -47,7 +52,13 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Release Year   | 2020 |
 | Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/14827118-Living-Colour-Vivid) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, Pin |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink, 180g) |
 | Catalog Number | MOVLP596 |
 
-Music on Vinyl hypesticker: "Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"  180 gram audiophile vinyl"  Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment 
+Music on Vinyl hypesticker:
+"Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"
+
+180 gram audiophile vinyl"
+
+Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment
+

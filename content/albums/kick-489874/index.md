@@ -2,7 +2,7 @@
 title: "INXS - Kick"
 artist: "INXS"
 album_name: "Kick"
-date: 2015-09-10
+date: 2015-09-10T18:28:00.000000Z
 release_id: "489874"
 slug: "kick-489874"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Guns In The Sky (2:20)
 2. New Sensation (3:39)
@@ -26,8 +27,12 @@ styles: ["Pop Rock", "Indie Rock"]
 10. Kick (3:13)
 11. Calling All Nations (3:00)
 12. Tiny Daggers (3:29)
+
+
 ## Spotify
 {{< spotify type="album" id="7cuwWzS0oiApEt2fpKafkX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="F93ywiGMDnQ" title="INXS - Need You Tonight (Official Music Video)" >}}
@@ -54,8 +59,15 @@ styles: ["Pop Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [INXS - Kick](https://www.discogs.com/release/489874-INXS-Kick) |
-| Label          | Mercury, Mercury |
-| Format         | LP, Album, Gat |
-| Catalog Number | MERH 114, 832 721-1 |
+| Label          | Mercury |
+| Format         | Vinyl LP Album (Gatefold) |
+| Catalog Number | MERH 114 |
 
-Gatefold sleeve. Includes a picture Inner sleeve with printed lyrics.  Track durations stated on the centre labels.  A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]  As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam)
+Gatefold sleeve. Includes a picture Inner sleeve with printed lyrics.
+
+Track durations stated on the centre labels.
+
+A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]
+
+As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS
+As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam)

@@ -2,7 +2,7 @@
 title: "Tim Finn - Big Canoe"
 artist: "Tim Finn"
 album_name: "Big Canoe"
-date: 2015-09-11
+date: 2015-09-11T18:02:24.000000Z
 release_id: "2529922"
 slug: "big-canoe-2529922"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Spiritual Hunger
 2. Don't Bury My Heart
@@ -24,8 +25,12 @@ styles: ["New Wave", "Pop Rock"]
 8. Hyacinth
 9. Big Canoe
 10. Are We One Or Are We Two
+
+
 ## Spotify
 {{< spotify type="album" id="0XaudJ8R95idCykqptWyEF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="V7140SlRUQE" title="TIM FINN - No Thunder, No Fire, No Rain (1986)" >}}
@@ -38,7 +43,22 @@ styles: ["New Wave", "Pop Rock"]
 | Release Year   | 1986 |
 | Discogs Link   | [Tim Finn - Big Canoe](https://www.discogs.com/release/2529922-Tim-Finn-Big-Canoe) |
 | Label          | Virgin |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | V2369 |
 
-This version differs from [another similar release](http://www.discogs.com/release/1877272) in that it lacks "Manufactured in the U.K." anywhere on the release.  Printed inner sleeve with lyrics and credits No country of release displayed on packaging or labels.  Outer sleeve: ℗ 1986 VIRGIN RECORDS © 1986 VIRGIN RECORDS  Inner sleeve: Recorded and Mixed at Townhouse Studios 2 & 3  Labels: ℗ 1986 Virgin Records Ltd. VIRGIN IS A TRADE MARK OF VIRGIN HOLDINGS LTD. 
+This version differs from [url=http://www.discogs.com/release/1877272]another similar release[/url] in that it lacks "Manufactured in the U.K." anywhere on the release.
+
+Printed inner sleeve with lyrics and credits
+No country of release displayed on packaging or labels.
+
+Outer sleeve:
+℗ 1986 VIRGIN RECORDS
+© 1986 VIRGIN RECORDS
+
+Inner sleeve:
+Recorded and Mixed at Townhouse Studios 2 & 3
+
+Labels:
+℗ 1986 Virgin Records Ltd.
+VIRGIN IS A TRADE MARK OF VIRGIN HOLDINGS LTD.
+

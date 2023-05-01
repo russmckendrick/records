@@ -2,7 +2,7 @@
 title: "Living Colour - Vivid"
 artist: "Living Colour"
 album_name: "Vivid"
-date: 2019-01-05
+date: 2019-01-05T11:38:49.000000Z
 release_id: "701143"
 slug: "vivid-701143"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
+
 ## Tracklisting
 1. Cult Of Personality (4:53)
 2. I Want To Know (4:23)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Funk Metal"]
 9. Glamour Boys (3:40)
 10. What's Your Favorite Color? (Theme Song) (1:38)
 11. Which Way To America? (3:40)
+
+
 ## Spotify
 {{< spotify type="album" id="532IlegHv3OfVGgyCFGBTs" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}
@@ -47,7 +52,21 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Release Year   | 1988 |
 | Discogs Link   | [Living Colour - Vivid](https://www.discogs.com/release/701143-Living-Colour-Vivid) |
 | Label          | Epic |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | 460758 1 |
 
-Including an insert with lyrics and credits.  Recorded at Skyline, Sound On Sound and Right Track Studios. Mixed at Right Track. Mastered at Sterling Sound, New York.  ℗ 1988 CBS Records Inc. © 1988 CBS Records Inc. Shorepak™ by Shorewood Packaging Co. Ltd. England.  Made in England.  On the insert: "In Memory of: Marc DeShong, Stephen Crichlow, James Baldwin, Alphonia Tims, Mary Multrie, Mrs. Kippins "Go on Virginia, play it loud. Your neighbors will love it."  Runouts are etched except for 'Λ' and the stamper numbers which are stamped.
+Including an insert with lyrics and credits.
+
+Recorded at Skyline, Sound On Sound and Right Track Studios. Mixed at Right Track. Mastered at Sterling Sound, New York.
+
+℗ 1988 CBS Records Inc.
+© 1988 CBS Records Inc.
+Shorepak™ by Shorewood Packaging Co. Ltd. England.
+
+Made in England.
+
+On the insert:
+"In Memory of: Marc DeShong, Stephen Crichlow, James Baldwin, Alphonia Tims, Mary Multrie, Mrs. Kippins
+"Go on Virginia, play it loud. Your neighbors will love it."
+
+Runouts are etched except for 'Λ' and the stamper numbers which are stamped.

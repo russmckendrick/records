@@ -2,7 +2,7 @@
 title: "Neil & Liam Finn - Lightsleeper"
 artist: "Neil & Liam Finn"
 album_name: "Lightsleeper"
-date: 2018-08-25
+date: 2018-08-25T08:50:37.000000Z
 release_id: "12427770"
 slug: "lightsleeper-12427770"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Lightsleeper by Neil & Liam Finn"
     caption: "Lightsleeper by Neil & Liam Finn"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Prelude - Island Of Peace
 2. Meet Me In The Air
@@ -26,8 +27,12 @@ styles: null
 10. Ghosts
 11. We Know What It Means
 12. Hold Her Close
+
+
 ## Spotify
 {{< spotify type="album" id="1hnO1NxHoafof3Zu0Zni9z" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="r8fphdbMffI" title="Prelude - Island Of Peace" >}}
@@ -48,8 +53,13 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Neil & Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |
-| Label          | Lester Records, Inertia, [PIAS] |
-| Format         | LP, Album |
+| Label          | Lester Records |
+| Format         | Vinyl LP Album |
 | Catalog Number | LRNFLF0017LP |
 
-Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]
+Additional recordings at Thonic Peenith studios LA and Studio C, Greece.
+
+Neil & Sharon Finn published by Kobalt Publishing,
+Liam Finn published by Mushroom Publishing
+
+℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]

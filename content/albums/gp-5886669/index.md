@@ -2,7 +2,7 @@
 title: "Gram Parsons - GP"
 artist: "Gram Parsons"
 album_name: "GP"
-date: 2015-08-10
+date: 2015-08-10T18:29:09.000000Z
 release_id: "5886669"
 slug: "gp-5886669"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Still Feeling Blue (2:38)
 2. We'll Sweep Out The Ashes In The Morning (3:13)
@@ -25,8 +26,12 @@ styles: ["Country", "Country Rock"]
 9. Cry One More Time (3:55)
 10. How Much I've Lied (2:27)
 11. Big Mouth Blues (3:52)
+
+
 ## Spotify
 {{< spotify type="album" id="1PtpuplCBaViRQsJFAdWRf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zmu6jygpD00" title="Still Feeling Blue (Remastered Version)" >}}
@@ -46,8 +51,9 @@ styles: ["Country", "Country Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Gram Parsons - GP](https://www.discogs.com/release/5886669-Gram-Parsons-GP) |
-| Label          | Reprise Records, Reprise Records |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | 8122795953, R1-2123 |
+| Label          | Reprise Records |
+| Format         | Vinyl LP Album Reissue (180g, Gatefold) |
+| Catalog Number | 8122795953 |
 
-℗ & © 1973 Warner Bros. Records Inc Manufactured in the EU. 
+℗ & © 1973 Warner Bros. Records Inc
+Manufactured in the EU. 

@@ -2,7 +2,7 @@
 title: "Ash - 1977"
 artist: "Ash"
 album_name: "1977"
-date: 2022-07-02
+date: 2022-07-02T07:39:13.000000Z
 release_id: "23719583"
 slug: "1977-23719583"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Lose Control
 2. Goldfinger
@@ -26,8 +27,11 @@ styles: ["Pop Rock", "Indie Rock"]
 10. Angel Interceptor
 11. Lost In You
 12. Darkside Lightside
+
+
 ## Spotify
 {{< spotify type="album" id="6WPJ2wQLi4SskpTkmofkr9" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,7 +40,14 @@ styles: ["Pop Rock", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Ash - 1977](https://www.discogs.com/release/23719583-Ash-1977) |
 | Label          | BMG |
-| Format         | LP, Album, RE, RM, Whi |
+| Format         | Vinyl LP Album Reissue Remastered (White With Black Splatter) |
 | Catalog Number | BMGCAT711CLP |
 
-Gatefold sleeve Sticker reports "Black & White splatter vinyl - Each copy unique and individual"  Track numbering listed sequentially on both sleeve and side labels.   4050538785463 catalog number printed on side labels  Manufactured in Czech Republic.
+Gatefold sleeve
+Sticker reports "Black & White splatter vinyl - Each copy unique and individual"
+
+Track numbering listed sequentially on both sleeve and side labels. 
+
+4050538785463 catalog number printed on side labels
+
+Manufactured in Czech Republic.

@@ -2,7 +2,7 @@
 title: "Mental As Anything - Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything"
 artist: "Mental As Anything"
 album_name: "Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything"
-date: 2021-03-06
+date: 2021-03-06T08:46:24.000000Z
 release_id: "17667739"
 slug: "surf-mull-sex-fun-the-classic-recordings-of-mental-as-anything-17667739"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ---
+
 ## Tracklisting
 1. The Nips Are Getting Bigger
 2. Egypt
@@ -41,6 +42,9 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 25. Nigel
 26. Surf & Mull & Sex & Fun
 
+
+
+
 ## Videos
 {{< youtube id="kK_eQImKnPA" title="Mental As Anything   Live It Up" >}}
 - [MENTAL AS ANYTHING THE NIPS ARE GETTING BIGGER](https://www.youtube.com/watch?v=VVnLJQIJw2Y)
@@ -54,7 +58,7 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 | Release Year   | 2021 |
 | Discogs Link   | [Mental As Anything - Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything](https://www.discogs.com/release/17667739-Mental-As-Anything-Surf-Mull-Sex-Fun-The-Classic-Recordings-Of-Mental-As-Anything) |
 | Label          | Demon Records |
-| Format         | LP, Comp, RE, Red + LP, Album, Comp, RE, Whi |
+| Format         | Vinyl LP Compilation Reissue (Red), Vinyl LP Album Compilation Reissue (White) |
 | Catalog Number | DEMREC655 |
 
 This double LP compilation is presented in a gatefold sleeve, with original artwork produced by the band. Pressed on 2x 140g and available on coloured vinyl for the first time (red and white).

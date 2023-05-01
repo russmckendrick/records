@@ -2,7 +2,7 @@
 title: "Oceansize - Effloresce"
 artist: "Oceansize"
 album_name: "Effloresce"
-date: 2017-11-10
+date: 2017-11-10T19:31:43.000000Z
 release_id: "11077284"
 slug: "effloresce-11077284"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. I Am The Morning
 2. Catalyst
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Women Who Love Men Who Love Drugs
 11. Saturday Morning Breakfast Show
 12. Long Forgotten
+
+
 ## Spotify
 {{< spotify type="album" id="6yY6v4JnwTQGo5w9IZqTRu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}
@@ -39,7 +44,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Oceansize - Effloresce](https://www.discogs.com/release/11077284-Oceansize-Effloresce) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Album, RE, RM, Yel |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Yellow/Red Swirl) |
 | Catalog Number | BBQLP 235X |
 
-2017 reissue by Beggars Banquet on red/yellow swirl vinyl.  Comes with a download voucher.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill. 
+2017 reissue by Beggars Banquet on red/yellow swirl vinyl.  Comes with a download voucher.
+
+"Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.
+

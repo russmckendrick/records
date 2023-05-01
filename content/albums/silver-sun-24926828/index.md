@@ -2,7 +2,7 @@
 title: "Silver Sun - Silver Sun"
 artist: "Silver Sun"
 album_name: "Silver Sun"
-date: 2022-12-10
+date: 2022-12-10T03:33:33.000000Z
 release_id: "24926828"
 slug: "silver-sun-24926828"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Test
 2. Golden Skin
@@ -29,8 +30,12 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 13. Bad Haircut
 14. Nobody
 15. Animals Feets
+
+
 ## Spotify
 {{< spotify type="album" id="6CcsJU06RJfoaMjRcxsKOP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun (1997) FULL ALBUM" >}}
@@ -43,7 +48,5 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Silver Sun - Silver Sun](https://www.discogs.com/release/24926828-Silver-Sun-Silver-Sun) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, 140 |
+| Format         | Vinyl LP Album Reissue Stereo (140g) |
 | Catalog Number | DEMREC919 |
-
-

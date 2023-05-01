@@ -2,7 +2,7 @@
 title: "The Anchoress - Confessions Of A Romance Novelist"
 artist: "The Anchoress"
 album_name: "Confessions Of A Romance Novelist"
-date: 2016-10-20
+date: 2016-10-20T19:31:08.000000Z
 release_id: "9221307"
 slug: "confessions-of-a-romance-novelist-9221307"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Long Year (3:52)
 2. What Goes Around (4:17)
@@ -30,8 +31,12 @@ styles: ["Indie Rock", "Art Rock"]
 14. Bury Me ( Acoustic Version ) (3:46)
 15. Long Year (Acoustic Version) (3:33)
 16. Popular (Acoustic Version) (2:23)
+
+
 ## Spotify
 {{< spotify type="album" id="0YyehrYQpXofc6dBAzxYPh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6ul6hypmC30" title="Confessions of a Romance Novelist" >}}
@@ -44,7 +49,17 @@ styles: ["Indie Rock", "Art Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Anchoress - Confessions Of A Romance Novelist](https://www.discogs.com/release/9221307-The-Anchoress-Confessions-Of-A-Romance-Novelist) |
 | Label          | Kscope |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | KSCOPE920 |
 
-Sticker in front says: 2LP Gatefold 180g VINYL with Download Code "A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER "Kate Bush's Hounds of Love ... updated for the 21st century." PROG "Karen Carpenter singing John Grant." UNCUT "Fascinating" SUNDAY TIMES **** MOJO includes 4 new bonus acoustic tracks. kscope920 kscopemusic.com/theanchoress 
+Sticker in front says:
+2LP Gatefold 180g VINYL with Download Code
+"A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER
+"Kate Bush's Hounds of Love ... updated for the 21st century." PROG
+"Karen Carpenter singing John Grant." UNCUT
+"Fascinating" SUNDAY TIMES
+**** MOJO
+includes 4 new bonus acoustic tracks.
+kscope920
+kscopemusic.com/theanchoress
+

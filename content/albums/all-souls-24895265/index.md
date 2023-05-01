@@ -2,7 +2,7 @@
 title: "Siouxsie & The Banshees - All Souls"
 artist: "Siouxsie & The Banshees"
 album_name: "All Souls"
-date: 2022-10-22
+date: 2022-10-22T00:36:35.000000Z
 release_id: "24895265"
 slug: "all-souls-24895265"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
+
 ## Tracklisting
 1. Fireworks
 2. Halloween
@@ -24,6 +25,9 @@ styles: ["Post-Punk", "New Wave"]
 8. Rawhead And Bloodybones
 9. We Hunger
 10. Peek-A-Boo
+
+
+
 
 ## Videos
 {{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}
@@ -38,8 +42,17 @@ styles: ["Post-Punk", "New Wave"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Siouxsie & The Banshees - All Souls](https://www.discogs.com/release/24895265-Siouxsie-And-The-Banshees-All-Souls) |
-| Label          | Polydor, UMC |
-| Format         | LP, Comp, Ora |
+| Label          | Polydor |
+| Format         | Vinyl LP Compilation (Orange Opaque) |
 | Catalog Number | SATBLP15C |
 
-Orange sticker (black text) on front cover: "A seasonal selection for you to enjoy" Love Siouxsie x. Black sticker on bottom back cover with barcode: 180g Orange vinyl mastered and cut half-speed at Abbey Road Studios, London. White sticker on top back cover: Made in the Netherlands. All stickers are on the shrink wrap. Comes with printed inner sleeve of card (flowers) plus a black generic inner sleeve that  is die cut and polylined.   Limited copies came with a 12" square print autographed by Siouxsie Sioux. Available only from the Official store. This print was not sealed inside the shrink-wrap.  Runouts are stamped except for the Miles at Abbey Road data, which is etched.
+Orange sticker (black text) on front cover: "A seasonal selection for you to enjoy" Love Siouxsie x.
+Black sticker on bottom back cover with barcode: 180g Orange vinyl mastered and cut half-speed at Abbey Road Studios, London.
+White sticker on top back cover: Made in the Netherlands.
+All stickers are on the shrink wrap.
+Comes with printed inner sleeve of card (flowers) plus a black generic inner sleeve that  is die cut and polylined.
+
+
+Limited copies came with a 12" square print autographed by Siouxsie Sioux. Available only from the Official store. This print was not sealed inside the shrink-wrap.
+
+Runouts are stamped except for the Miles at Abbey Road data, which is etched.

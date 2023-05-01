@@ -2,7 +2,7 @@
 title: "Soulwax - Much Against Everyone's Advice"
 artist: "Soulwax"
 album_name: "Much Against Everyone's Advice"
-date: 2016-04-23
+date: 2016-04-23T09:43:49.000000Z
 release_id: "4163855"
 slug: "much-against-everyone-s-advice-4163855"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Conversation Intercom
 2. Saturday
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. More Than This
 10. Scream
 11. Funny
+
+
 ## Spotify
 {{< spotify type="album" id="1Zisq1gECqPQtxvny6AUXP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}
@@ -46,8 +51,12 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855-Soulwax-Much-Against-Everyones-Advice) |
-| Label          | [PIAS] Recordings, [PIAS] Recordings |
-| Format         | LP, Album, RE |
-| Catalog Number | PIASB 010 LP, 941.0010.10 |
+| Label          | [PIAS] Recordings |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | PIASB 010 LP |
 
-Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings
+Reissue for "[PIAS] 30 years".
+
+Comes with blank white inner sleeve, same as the first press.
+
+℗ + © 2000 [PIAS] Recordings

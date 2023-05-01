@@ -2,7 +2,7 @@
 title: "Public Enemy - 25th Anniversary Vinyl Collection "
 artist: "Public Enemy"
 album_name: "25th Anniversary Vinyl Collection "
-date: 2016-04-28
+date: 2016-04-28T16:40:39.000000Z
 release_id: "4593269"
 slug: "25th-anniversary-vinyl-collection-4593269"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "25th Anniversary Vinyl Collection  by Public Enemy"
     caption: "25th Anniversary Vinyl Collection  by Public Enemy"
 genres: ["Hip Hop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Yo! Bum Rush The Show (1987)
 2. You're Gonna Get Yours
@@ -113,6 +114,9 @@ styles: null
 97. Go Cat Go
 98. Sudden Death
 
+
+
+
 ## Videos
 {{< youtube id="8OSV5YArx_c" title="Public Enemy: 25th Anniversary Vinyl Packaging" >}}
 - [Public Enemy 25th Anniversary Box Set out May 6th 2013](https://www.youtube.com/watch?v=qIMs1YfI9XU)
@@ -124,7 +128,5 @@ styles: null
 | Release Year   | 2013 |
 | Discogs Link   | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269-Public-Enemy-25th-Anniversary-Vinyl-Collection-) |
 | Label          | Def Jam Recordings |
-| Format         | LP + LP + LP + 2xLP + 2xLP + 2xLP + Box, Comp, Ltd |
-| Catalog Number | 06007 534 087-8 |
-
-
+| Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl 2× LP, Vinyl 2× LP, Vinyl 2× LP, Box Set Limited Edition Compilation (180 Gram) |
+| Catalog Number | 06007 534 087-8 (0) |

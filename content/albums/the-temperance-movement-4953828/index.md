@@ -2,7 +2,7 @@
 title: "The Temperance Movement - The Temperance Movement"
 artist: "The Temperance Movement"
 album_name: "The Temperance Movement"
-date: 2016-01-18
+date: 2016-01-18T18:40:10.000000Z
 release_id: "4953828"
 slug: "the-temperance-movement-4953828"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Temperance Movement by The Temperance Movement"
     caption: "The Temperance Movement by The Temperance Movement"
 genres: ["Rock", "Blues"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Only Friend (4:29)
 2. Ain't No Telling (3:52)
@@ -29,8 +30,12 @@ styles: null
 13. Bonus Material
 14. Turn (3:50)
 15. Mother's Eyes (5:24)
+
+
 ## Spotify
 {{< spotify type="album" id="6CdJfbaGFV9yTIMzrJMoIm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5mGALmFlHOA" title="The Temperance Movement - Only Friend (Rehearsal Session)" >}}
@@ -46,7 +51,8 @@ styles: null
 | Release Year   | 2013 |
 | Discogs Link   | [The Temperance Movement - The Temperance Movement](https://www.discogs.com/release/4953828-The-Temperance-Movement-The-Temperance-Movement) |
 | Label          | Earache |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | MOSH502LP |
 
-A double classic LP. If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks.
+A double classic LP.
+If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks.

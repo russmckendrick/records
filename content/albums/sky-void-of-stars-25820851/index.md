@@ -2,7 +2,7 @@
 title: "Katatonia - Sky Void Of Stars"
 artist: "Katatonia"
 album_name: "Sky Void Of Stars"
-date: 2023-02-06
+date: 2023-01-21T02:12:50.000000Z
 release_id: "25820851"
 slug: "sky-void-of-stars-25820851"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
+
 ## Tracklisting
 1. Austerity
 2. Colossal Shade
@@ -24,8 +25,12 @@ styles: ["Progressive Metal"]
 8. Sclera
 9. Atrium
 10. No Beacon To Illuminate Our Fall
+
+
 ## Spotify
 {{< spotify type="album" id="4EcfbzCtbJDk2wMwhT4D1h" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_ILWPwc4KaY" title="KATATONIA - Birds (Official Video) | Napalm Records" >}}
@@ -40,7 +45,5 @@ styles: ["Progressive Metal"]
 | Release Year   | 2023 |
 | Discogs Link   | [Katatonia - Sky Void Of Stars](https://www.discogs.com/release/25820851-Katatonia-Sky-Void-Of-Stars) |
 | Label          | Napalm Records |
-| Format         | 2x12\", Album |
+| Format         | Vinyl 2× 12" 45 RPM Album |
 | Catalog Number | NPR1208VINYL |
-
-

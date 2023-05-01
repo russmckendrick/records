@@ -2,7 +2,7 @@
 title: "Nine Below Zero - Third Degree"
 artist: "Nine Below Zero"
 album_name: "Third Degree"
-date: 2021-09-03
+date: 2021-09-03T04:32:37.000000Z
 release_id: "2218199"
 slug: "third-degree-2218199"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rhythm & Blues", "Pub Rock"]
 ---
+
 ## Tracklisting
 1. Eleven Plus Eleven (2:18)
 2. Wipe Away Your Kiss (2:50)
@@ -26,6 +27,9 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 10. You Don't Love Me (3:03)
 11. You Can't Say Yes And You Can't Say No (3:05)
 
+
+
+
 ## Videos
 {{< youtube id="ExM1vP-rhH4" title="Nine Below Zero - Eleven Plus Eleven" >}}
 
@@ -35,7 +39,10 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 | Release Year   | 1982 |
 | Discogs Link   | [Nine Below Zero - Third Degree](https://www.discogs.com/release/2218199-Nine-Below-Zero-Third-Degree) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | AMLH 68537 |
 
-Official UK release  Month of release from Record Collector Magazine Oct 1994 p.127 
+Official UK release
+
+Month of release from Record Collector Magazine Oct 1994 p.127
+

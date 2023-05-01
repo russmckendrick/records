@@ -2,7 +2,7 @@
 title: "Sam Brown - Stop!"
 artist: "Sam Brown"
 album_name: "Stop!"
-date: 2019-01-19
+date: 2019-01-19T10:33:32.000000Z
 release_id: "11811666"
 slug: "stop-11811666"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Stop! by Sam Brown"
     caption: "Stop! by Sam Brown"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Walking Back To Me (3:40)
 2. Your Love Is All (4:09)
@@ -26,8 +27,12 @@ styles: null
 10. I'll Be In Love (5:16)
 11. Merry Go Round (3:07)
 12. Sometimes You Just Don't Know (3:05)
+
+
 ## Spotify
 {{< spotify type="album" id="1Co1PfkD3RSirfxw6h2KfJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hTOBlrWzT0o" title="Walking Back To Me" >}}
@@ -50,7 +55,11 @@ styles: null
 | Release Year   | 1988 |
 | Discogs Link   | [Sam Brown - Stop!](https://www.discogs.com/release/11811666-Sam-Brown-Stop) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | Ama 5195 |
 
-Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163 6 page insert with lyrics, not 4 page. Etched runout starts JA, not AJ. Song timings different. 
+Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163
+6 page insert with lyrics, not 4 page.
+Etched runout starts JA, not AJ.
+Song timings different.
+

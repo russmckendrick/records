@@ -2,7 +2,7 @@
 title: "The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)"
 artist: "The Blues Brothers"
 album_name: "The Blues Brothers (Original Soundtrack Recording)"
-date: 2020-10-09
+date: 2020-10-09T10:18:32.000000Z
 release_id: "16032516"
 slug: "the-blues-brothers-original-soundtrack-recording-16032516"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. She Caught The Katy (4:10)
 2. Peter Gunn Theme (3:46)
@@ -25,6 +26,9 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 9. Minnie The Moocher (3:23)
 10. Sweet Home Chicago (7:48)
 11. Jailhouse Rock (3:19)
+
+
+
 
 ## Videos
 {{< youtube id="SSo3LizTu_I" title="The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072" >}}
@@ -45,8 +49,16 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/16032516-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |
-| Label          | Rhino Entertainment Company, Warner Music Group, Atlantic |
-| Format         | LP, Album, Ltd, RE, Blu |
-| Catalog Number | 0603497845552, 603497845552, RCV1 16017 |
+| Label          | Rhino Entertainment Company |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Blue [Transparent Blue]) |
+| Catalog Number | 0603497845552 |
 
-There are two versions of the info / hype sticker that may appear on the shrink-wrap.  Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers: - "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe) - "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)  In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]  ℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands. RCV1 16017 / 603497845552
+There are two versions of the info / hype sticker that may appear on the shrink-wrap. 
+Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers:
+- "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe)
+- "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)
+
+In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]
+
+℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws.
+Made in the Netherlands. RCV1 16017 / 603497845552

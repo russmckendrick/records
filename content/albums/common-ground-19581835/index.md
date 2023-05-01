@@ -2,7 +2,7 @@
 title: "Big Big Train - Common Ground"
 artist: "Big Big Train"
 album_name: "Common Ground"
-date: 2021-07-30
+date: 2021-07-30T07:19:02.000000Z
 release_id: "19581835"
 slug: "common-ground-19581835"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. The Strangest Times (5:08)
 2. All The Love We Can Give (8:07)
@@ -23,8 +24,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. Common Ground (4:57)
 8. Atlantic Cable (15:05)
 9. Endnotes (6:55)
+
+
 ## Spotify
 {{< spotify type="album" id="7hoFLrTBtEyDQq19jwA8iq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="wIQnhCcI4gA" title="Common Ground by Big Big Train" >}}
@@ -42,7 +47,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Big Big Train - Common Ground](https://www.discogs.com/release/19581835-Big-Big-Train-Common-Ground) |
 | Label          | Plane Groovy |
-| Format         | 2xLP, Album, 180 |
+| Format         | Vinyl 2× LP Album Stereo (180 Gram) |
 | Catalog Number | PLG096 |
 
 Packaged in a gatefold jacket with 2-page color printed insert and polylined LP sleeves.

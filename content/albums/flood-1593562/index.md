@@ -2,7 +2,7 @@
 title: "They Might Be Giants - Flood"
 artist: "They Might Be Giants"
 album_name: "Flood"
-date: 2019-01-12
+date: 2019-01-12T11:06:30.000000Z
 release_id: "1593562"
 slug: "flood-1593562"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Theme From Flood (0:29)
 2. Birdhouse In Your Soul (3:15)
@@ -33,8 +34,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 17. Sapphire Bullets Of Pure Love (1:32)
 18. They Might Be Giants (2:39)
 19. Road Movie To Berlin (2:24)
+
+
 ## Spotify
 {{< spotify type="album" id="7FwAtuhhWivxvK4aPgyyUD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}
@@ -63,8 +68,45 @@ styles: ["Alternative Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/1593562-They-Might-Be-Giants-Flood) |
-| Label          | Elektra, Elektra |
-| Format         | LP, Album, Gat |
-| Catalog Number | 960 907-1, EKT 68 |
+| Label          | Elektra |
+| Format         | Vinyl LP Album Stereo (Gatefold Sleeve) |
+| Catalog Number | 960 907-1 |
 
-Comes in a gatefold sleeve with the left panel being glued together and the right panel housing the insert and record.  Catalogue number: 960 907-1 as per spine 960 907-1 Ⓤ as per rear sleeve + additional cat# for the UK: EKT 68 960 907-1 and EKT 68 as per labels  [On rear sleeve:] ELEKTRA ENTERTAINMENT A Division of Warner Communications Inc., [Warner logo] 75 Rockefeller Plaza, New York, New York 10019 345 North Maple Drive, Suite 123, Beverly Hills, California 90210 ℗ & © 1990 Elektra Entertainment for the United States & WEA International Inc. for the world outside of the United States All Rights Reserved  Made in Germany  [On inner gatefold:] Recorded and mixed in New York City at Skyline Studios Mastered at Masterdisk NYC 718.387.6962 gets TMBG's regular charge Dial-A-Song All songs published by They Might Be Giants Music, ASCAP administered by WB Music Corp. except "Istanbul" published by Chappell & Co.. All lyrics © 1990 They Might Be Giants, ASCAP admin. by WB Music Corp, except "Istanbul" © 1953 Chappell & Co., ASCAP  [On labels:] All Selections published by They Might Be Giants Music, ASCAP, administered by WB Music Corp, except "Istambul" published by Chappell & Co., ASCAP. [Label A only]  ℗ 1990 Elektra Entertainment A division of Warner Communications Inc. [Warner logo]  This issue contains an insert featuring a German translation of the lyrics.  Runout matrix R / S Alsdorf 755 960907-1-X are stamped all other is etched.
+Comes in a gatefold sleeve with the left panel being glued together and the right panel housing the insert and record.
+
+Catalogue number:
+960 907-1 as per spine
+960 907-1 Ⓤ as per rear sleeve + additional cat# for the UK: EKT 68
+960 907-1 and EKT 68 as per labels
+
+[On rear sleeve:]
+ELEKTRA ENTERTAINMENT
+A Division of Warner Communications Inc., [Warner logo]
+75 Rockefeller Plaza, New York, New York 10019
+345 North Maple Drive, Suite 123, Beverly Hills, California 90210
+℗ & © 1990 Elektra Entertainment for the United States
+& WEA International Inc. for the world outside of the United States
+All Rights Reserved
+
+Made in Germany
+
+[On inner gatefold:]
+Recorded and mixed in New York City at Skyline Studios
+Mastered at Masterdisk NYC
+718.387.6962 gets TMBG's regular charge Dial-A-Song
+All songs published by They Might Be Giants Music, ASCAP administered by WB Music Corp.
+except "Istanbul" published by Chappell & Co..
+All lyrics © 1990 They Might Be Giants, ASCAP admin. by WB Music Corp,
+except "Istanbul" © 1953 Chappell & Co., ASCAP
+
+[On labels:]
+All Selections published by They Might Be Giants Music, ASCAP,
+administered by WB Music Corp,
+except "Istambul" published by Chappell & Co., ASCAP. [Label A only]
+
+℗ 1990 Elektra Entertainment
+A division of Warner Communications Inc. [Warner logo]
+
+This issue contains an insert featuring a German translation of the lyrics.
+
+Runout matrix R / S Alsdorf 755 960907-1-X are stamped all other is etched.

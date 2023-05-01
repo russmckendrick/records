@@ -2,7 +2,7 @@
 title: "Mercury Rev - All Is Dream"
 artist: "Mercury Rev"
 album_name: "All Is Dream"
-date: 2020-08-29
+date: 2020-08-29T17:18:15.000000Z
 release_id: "15833593"
 slug: "all-is-dream-15833593"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. The Dark Is Rising
 2. Tides Of The Moon
@@ -40,8 +41,12 @@ styles: ["Alternative Rock"]
 24. Mr. Moonlight Will Come
 25. Cool Waves
 26. Hercules (Demo)
+
+
 ## Spotify
 {{< spotify type="album" id="4N13GH5Ofi55VvG5yc3vFl" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="esRQQ0hV-ls" title="Mercury Rev - Tides of the Moon" >}}
@@ -66,7 +71,5 @@ styles: ["Alternative Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Mercury Rev - All Is Dream](https://www.discogs.com/release/15833593-Mercury-Rev-All-Is-Dream) |
 | Label          | Cherry Red |
-| Format         | 2xLP, Album, Ltd, RE, Red |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Red & Black Marbled Vinyl) |
 | Catalog Number | BREDD816 |
-
-

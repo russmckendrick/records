@@ -2,7 +2,7 @@
 title: "Various - Tank Girl - Original Soundtrack From The United Artists Film"
 artist: "Various"
 album_name: "Tank Girl - Original Soundtrack From The United Artists Film"
-date: 2018-04-10
+date: 2018-04-10T15:19:26.000000Z
 release_id: "11824886"
 slug: "tank-girl-original-soundtrack-from-the-united-artists-film-11824886"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. Ripper Sole (1:42)
 2. Army Of Me (3:56)
@@ -26,6 +27,9 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 10. Thief (3:12)
 11. Aurora (4:03)
 12. Big Gun (3:54)
+
+
+
 
 ## Videos
 {{< youtube id="8ric_N_AGD8" title="Ripper's Sole (O.S.T.)" >}}
@@ -46,8 +50,10 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - Tank Girl - Original Soundtrack From The United Artists Film](https://www.discogs.com/release/11824886-Various-Tank-Girl-Original-Soundtrack-From-The-United-Artists-Film) |
-| Label          | Real Gone Music, Elektra |
-| Format         | LP, Comp, Ltd, Aqu |
+| Label          | Real Gone Music |
+| Format         | Vinyl LP Compilation Limited Edition (Aqua Blue Vinyl) |
 | Catalog Number | RGM 0679 |
 
-Limited Gatefold Album Version Aqua Blue Vinyl Limited To 1000 Copies
+Limited Gatefold Album Version
+Aqua Blue Vinyl
+Limited To 1000 Copies

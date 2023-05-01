@@ -2,7 +2,7 @@
 title: "Monster Magnet - Spine Of God"
 artist: "Monster Magnet"
 album_name: "Spine Of God"
-date: 2017-09-06
+date: 2017-09-06T18:44:42.000000Z
 release_id: "10775588"
 slug: "spine-of-god-10775588"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Pill Shovel
 2. Medicine
@@ -24,8 +25,12 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 8. Sin's A Good Man's Brother
 9. Ozium
 10. Ozium (Demo)
+
+
 ## Spotify
 {{< spotify type="album" id="5p41F9RwcmPhg7KImkOhyH" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God (Full Album)" >}}
@@ -40,7 +45,14 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [Monster Magnet - Spine Of God](https://www.discogs.com/release/10775588-Monster-Magnet-Spine-Of-God) |
 | Label          | Napalm Records |
-| Format         | LP, Album, Ltd, RE, Gat |
+| Format         | Vinyl LP Album Limited Edition Reissue (Gatefold) |
 | Catalog Number | NPR 744 VINYL |
 
-Released on 180g vinyl in gatefold jacket. Made in Germany  © + ℗ 2017 Napalm Records Handels GmbH Strictly Limited Edition  There are also releases on [gold vinyl](https://www.discogs.com/release/10782664) and [yellow vinyl](https://www.discogs.com/release/10784591). 
+Released on 180g vinyl in gatefold jacket.
+Made in Germany
+
+© + ℗ 2017 Napalm Records Handels GmbH
+Strictly Limited Edition
+
+There are also releases on [url=https://www.discogs.com/release/10782664]gold vinyl[/url] and [url=https://www.discogs.com/release/10784591]yellow vinyl[/url].
+

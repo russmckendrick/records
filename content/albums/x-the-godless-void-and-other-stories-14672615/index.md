@@ -2,7 +2,7 @@
 title: "...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories"
 artist: "...And You Will Know Us By The Trail Of Dead"
 album_name: "X: The Godless Void And Other Stories"
-date: 2020-01-22
+date: 2020-01-22T19:06:06.000000Z
 release_id: "14672615"
 slug: "x-the-godless-void-and-other-stories-14672615"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. The Opening Crescendo
 2. All Who Wander
@@ -38,8 +39,12 @@ styles: ["Alternative Rock"]
 22. Gravity
 23. Blade Of Wind
 24. Through The Sunlit Door
+
+
 ## Spotify
 {{< spotify type="album" id="5zxyWttq2GTLed8bJfbofV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="bbXNaERHIfA" title="...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)" >}}
@@ -55,8 +60,10 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories](https://www.discogs.com/release/14672615-And-You-Will-Know-Us-By-The-Trail-Of-Dead-X-The-Godless-Void-And-Other-Stories) |
-| Label          | Inside Out Music, Sony Music, Richter Scale |
-| Format         | LP, Album, Cle + CD, Album + Ltd |
-| Catalog Number | IOMLP 533, 19075966841 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album (Clear), CD Album, All Media Limited Edition |
+| Catalog Number | IOMLP 533 |
 
-Limited clear vinyl edition. Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics. 180g vinyl. Made in the EU.
+Limited clear vinyl edition.
+Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics.
+180g vinyl. Made in the EU.

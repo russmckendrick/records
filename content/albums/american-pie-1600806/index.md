@@ -2,7 +2,7 @@
 title: "Don McLean - American Pie"
 artist: "Don McLean"
 album_name: "American Pie"
-date: 2020-08-02
+date: 2020-08-02T13:34:50.000000Z
 release_id: "1600806"
 slug: "american-pie-1600806"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. American Pie (8:27)
 2. Till Tomorrow (2:11)
@@ -24,11 +25,16 @@ styles: ["Folk Rock", "Acoustic"]
 8. Sister Fatima (2:31)
 9. The Grave (3:08)
 10. Babylon (1:40)
+
+
 ## Spotify
 {{< spotify type="album" id="10jsW2NYd9blCrDITMh2zS" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="iX_TFkut1PM" title="American Pie" >}}
+{{< youtube id="y5ecvBaqHBk" title="Don McLean - American Pie" >}}
+- [American Pie](https://www.youtube.com/watch?v=iX_TFkut1PM)
 - [Till Tomorrow](https://www.youtube.com/watch?v=TlqW3cTh5Ts)
 - [Vincent](https://www.youtube.com/watch?v=ciLNMesqPh0)
 - [Crossroads](https://www.youtube.com/watch?v=tawHuI7KHR0)
@@ -45,7 +51,12 @@ styles: ["Folk Rock", "Acoustic"]
 | Release Year   | 1971 |
 | Discogs Link   | [Don McLean - American Pie](https://www.discogs.com/release/1600806-Don-McLean-American-Pie) |
 | Label          | United Artists Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | UAS 29285 |
 
-Made in the UK Dedicated to Buddy Holly  Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55 Some initial copies comes with a small white/red sticker 
+Made in the UK
+Dedicated to Buddy Holly
+
+Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55
+Some initial copies comes with a small white/red sticker
+

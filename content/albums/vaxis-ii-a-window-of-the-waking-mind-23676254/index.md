@@ -2,7 +2,7 @@
 title: "Coheed And Cambria - Vaxis II: A Window of the Waking Mind"
 artist: "Coheed And Cambria"
 album_name: "Vaxis II: A Window of the Waking Mind"
-date: 2022-06-24
+date: 2022-06-24T05:50:23.000000Z
 release_id: "23676254"
 slug: "vaxis-ii-a-window-of-the-waking-mind-23676254"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Embers of Fire
 2. Beautiful Losers
@@ -27,8 +28,12 @@ styles: ["Prog Rock"]
 11. Ladders of Supremacy
 12. Rise, Naianasha (Cut the Cord)
 13. Window of the Waking Mind
+
+
 ## Spotify
 {{< spotify type="album" id="5YRtvIMApwxnUTcWUBcaON" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9NBaKRUrr_M" title="Coheed and Cambria - The Embers of Fire (Official Audio)" >}}
@@ -53,7 +58,7 @@ styles: ["Prog Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Coheed And Cambria - Vaxis II: A Window of the Waking Mind](https://www.discogs.com/release/23676254-Coheed-And-Cambria-Vaxis-II-A-Window-of-the-Waking-Mind) |
 | Label          | Roadrunner Records |
-| Format         | 2xLP, Album, Ele |
+| Format         | Vinyl 2× LP Album (Electric Blue, Transparent) |
 | Catalog Number | 075678640780 |
 
 Indie Store Exclusive (Transparent Electric Blue Vinyl)

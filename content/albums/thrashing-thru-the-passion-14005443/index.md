@@ -2,7 +2,7 @@
 title: "The Hold Steady - Thrashing Thru The Passion"
 artist: "The Hold Steady"
 album_name: "Thrashing Thru The Passion"
-date: 2019-08-16
+date: 2019-08-16T17:13:10.000000Z
 release_id: "14005443"
 slug: "thrashing-thru-the-passion-14005443"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Thrashing Thru The Passion by The Hold Steady"
     caption: "Thrashing Thru The Passion by The Hold Steady"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Denver Haircut
 2. Epaulets
@@ -24,8 +25,12 @@ styles: null
 8. Star 18
 9. The Stove & The Toaster
 10. Confusion In The Marketplace
+
+
 ## Spotify
 {{< spotify type="album" id="16XUMEdixzqRXVVPZsB3ak" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HA3CF9rusvE" title="The Hold Steady - Denver Haircut" >}}
@@ -36,8 +41,18 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [The Hold Steady - Thrashing Thru The Passion](https://www.discogs.com/release/14005443-The-Hold-Steady-Thrashing-Thru-The-Passion) |
-| Label          | Frenchkiss Records, Frenchkiss Records |
-| Format         | LP, Ltd, Bro |
-| Catalog Number | FKR103-1, FKR1031A |
+| Label          | Frenchkiss Records |
+| Format         | Vinyl LP Limited Edition (Brown) |
+| Catalog Number | FKR103-1 |
 
-Opaque brown vinyl - indie exclusive, limited to 1,000 copies.  ©&℗ 2019 Frenchkiss Records  All songs © 2019 Muy Interestane Music (ASCAP) Key Hits (ASCAP) Eggshell Armor Music (ASCAP) Sounds Like Selvidge (BMI) Guilty Parties/Sounds of Sabco (ASCAP) (Administered for the world by Words & Music/Big Deal Music, LLC)
+Opaque brown vinyl - indie exclusive, limited to 1,000 copies.
+
+©&℗ 2019 Frenchkiss Records
+
+All songs © 2019
+Muy Interestane Music (ASCAP)
+Key Hits (ASCAP)
+Eggshell Armor Music (ASCAP)
+Sounds Like Selvidge (BMI)
+Guilty Parties/Sounds of Sabco (ASCAP)
+(Administered for the world by Words & Music/Big Deal Music, LLC)

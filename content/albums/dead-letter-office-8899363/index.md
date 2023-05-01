@@ -2,7 +2,7 @@
 title: "R.E.M. - Dead Letter Office"
 artist: "R.E.M."
 album_name: "Dead Letter Office"
-date: 2021-06-29
+date: 2021-06-29T07:01:09.000000Z
 release_id: "8899363"
 slug: "dead-letter-office-8899363"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Post Side
 2. Crazy
@@ -31,28 +32,22 @@ styles: ["Alternative Rock"]
 15. Femme Fatale
 16. Walters Theme
 17. King Of The Road
+
+
 ## Spotify
 {{< spotify type="album" id="0lxAgLR0aeBfYXF4lXKW9F" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="21lVxLQwk8Q" title="R.E.M. - Femme Fatale" >}}
-- [R.E.M. - King of the Road](https://www.youtube.com/watch?v=A6daSPiRDzo)
-- [Femme Fatale](https://www.youtube.com/watch?v=jvzAuYWmAtY)
-- [Burning Down](https://www.youtube.com/watch?v=8gSj029V94A)
-- [R.E.M. - Pale Blue Eyes](https://www.youtube.com/watch?v=dR7vgMPsV2A)
-- [White Tornado](https://www.youtube.com/watch?v=o8WfII7nidw)
-- [Burning Hell](https://www.youtube.com/watch?v=Kgy8HEya7HQ)
-- [Voice Of Harold](https://www.youtube.com/watch?v=-kkLuSlOE3U)
-- [Bandwagon](https://www.youtube.com/watch?v=rwiduu42GP4)
-- [Crazy](https://www.youtube.com/watch?v=Go9t68mQOl0)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [R.E.M. - Dead Letter Office](https://www.discogs.com/release/8899363-REM-Dead-Letter-Office) |
-| Label          | I.R.S. Records, Universal Music Group International |
-| Format         | LP, Comp, RE, 180 |
+| Label          | I.R.S. Records |
+| Format         | Vinyl LP Compilation Reissue (180 Gram) |
 | Catalog Number | 00602547899835 |
 
-Includes voucher to download MP3 version of the album.   ℗ 1987 © 2016 International Record Syndicate, Inc., a division of UMG Recordings, Inc. Made in the EU.
+Includes voucher to download MP3 version of the album. 
+
+℗ 1987 © 2016 International Record Syndicate, Inc., a division of UMG Recordings, Inc. Made in the EU.

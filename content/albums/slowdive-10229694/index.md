@@ -2,7 +2,7 @@
 title: "Slowdive - Slowdive"
 artist: "Slowdive"
 album_name: "Slowdive"
-date: 2017-05-05
+date: 2017-05-05T17:26:48.000000Z
 release_id: "10229694"
 slug: "slowdive-10229694"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Slomo
 2. Star Roving
@@ -22,8 +23,12 @@ styles: ["Shoegaze", "Indie Rock"]
 6. No Longer Making Time
 7. Go Get It
 8. Falling Ashes
+
+
 ## Spotify
 {{< spotify type="album" id="1qDA0jVhj4ZTjGHmpbmmwa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2hY0bFCtZbA" title="Everyone Knows" >}}
@@ -38,8 +43,27 @@ styles: ["Shoegaze", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Slowdive - Slowdive](https://www.discogs.com/release/10229694-Slowdive-Slowdive) |
-| Label          | Dead Oceans, Dead Oceans |
-| Format         | LP, Album, Ltd, Sil |
-| Catalog Number | DOC132, DOC132LPC1 |
+| Label          | Dead Oceans |
+| Format         | Vinyl LP Album Limited Edition (Silver) |
+| Catalog Number | DOC132 |
 
-DOC132: The catalog number is printed on the spine.  DOC132LPC1: The catalog number is printed on the barcode sticker.   Housed in a gatefold cover, including a digital download for the entire album. Originally retailed sealed in shrinkwrap with an informational hype sticker adhered to front, noting the limited edition silver vinyl edition. An additional barcode sticker was adhered to back, covering the barcode printed on the back cover and featuring a custom catalog number. Both stickers are affixed to the outside of shrinkwrap.  Limited to 8000 copies worldwide.   1000 copies were hand-signed by the entire band in silver and gold ink, raffled exclusively from selected independent record stores in the United States.   From the back cover and the labels side A and B:  © & ℗ 2017 Dead Oceans, Inc.   From the gatefold inner:  Halstead published by Little Homestead Songs Goswell/Savill/Chaplin/Scott copyright control   recorded at The Courtyard Studio in Sutton Courtenay, Sound Gallery in Exeter,  The White House in Kewstoke, The Farm 2 in St Merryn and Zigzag Music Productions in Hilton   cover art by [...], film #12: Heaven and Earth Magic ca 1957-1962  
+DOC132: The catalog number is printed on the spine. 
+DOC132LPC1: The catalog number is printed on the barcode sticker. 
+
+Housed in a gatefold cover, including a digital download for the entire album. Originally retailed sealed in shrinkwrap with an informational hype sticker adhered to front, noting the limited edition silver vinyl edition. An additional barcode sticker was adhered to back, covering the barcode printed on the back cover and featuring a custom catalog number. Both stickers are affixed to the outside of shrinkwrap. 
+Limited to 8000 copies worldwide. 
+
+1000 copies were hand-signed by the entire band in silver and gold ink, raffled exclusively from selected independent record stores in the United States. 
+
+From the back cover and the labels side A and B: 
+© & ℗ 2017 Dead Oceans, Inc. 
+
+From the gatefold inner: 
+Halstead published by Little Homestead Songs
+Goswell/Savill/Chaplin/Scott copyright control 
+
+recorded at The Courtyard Studio in Sutton Courtenay, Sound Gallery in Exeter, 
+The White House in Kewstoke, The Farm 2 in St Merryn and Zigzag Music Productions in Hilton 
+
+cover art by [...], film #12: Heaven and Earth Magic ca 1957-1962 
+

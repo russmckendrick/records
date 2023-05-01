@@ -2,7 +2,7 @@
 title: "Kyuss - Wretch"
 artist: "Kyuss"
 album_name: "Wretch"
-date: 2016-09-14
+date: 2016-09-14T16:48:48.000000Z
 release_id: "8964385"
 slug: "wretch-8964385"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Beginning Of What's About To Happen (1:30)
 2. Hwy 74 (3:10)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 10. I'm Not (4:30)
 11. Big Bikes (5:04)
 12. Stage III (4:05)
+
+
 ## Spotify
 {{< spotify type="album" id="1Mozf4qsfZx8WIsPyUmwO6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qDnoe3IP1Pk" title="[Beginning of What's About to Happen] Hwy 74" >}}
@@ -48,7 +53,18 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Kyuss - Wretch](https://www.discogs.com/release/8964385-Kyuss-Wretch) |
 | Label          | Dali Records |
-| Format         | 2xLP, Album, RE, RP, Whi |
+| Format         | Vinyl 2× LP Album Reissue Repress (White / Grey Marbled, 180 Gram) |
 | Catalog Number | 3704-61256-1 |
 
-Sticker on front sleeve stating "180g Coloured Vinyl".  Recorded and mixed at Headway Studios and Master Control. Mastered at K-Disk.  Originally released as a [ single LP](http://www.discogs.com/Kyuss-Wretch/release/2885461) on black vinyl in 1991 by Dali Records.  ℗ & © 1991 Dali Records, a division of Chamelion Music Group. Made in Germany  Pressing plant uncredited, identified by the matrix numbers.  
+Sticker on front sleeve stating "180g Coloured Vinyl".
+
+Recorded and mixed at Headway Studios and Master Control.
+Mastered at K-Disk.
+
+Originally released as a [url=http://www.discogs.com/Kyuss-Wretch/release/2885461] single LP[/url] on black vinyl in 1991 by Dali Records.
+
+℗ & © 1991 Dali Records, a division of Chamelion Music Group.
+Made in Germany
+
+Pressing plant uncredited, identified by the matrix numbers. 
+

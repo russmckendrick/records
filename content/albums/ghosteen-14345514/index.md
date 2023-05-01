@@ -2,7 +2,7 @@
 title: "Nick Cave & The Bad Seeds - Ghosteen"
 artist: "Nick Cave & The Bad Seeds"
 album_name: "Ghosteen"
-date: 2019-12-25
+date: 2019-12-25T11:28:59.000000Z
 release_id: "14345514"
 slug: "ghosteen-14345514"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---
+
 ## Tracklisting
 1. Part 1
 2. Spinning Song (4:43)
@@ -27,8 +28,12 @@ styles: ["Ambient"]
 11. Ghosteen (12:10)
 12. Fireflies (3:23)
 13. Hollywood (14:12)
+
+
 ## Spotify
 {{< spotify type="album" id="5TkXgoeyGznBNOjrw17eA7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ha5VGMaG4E4" title="Nick Cave and The Bad Seeds - Spinning Song (Lyric Video)" >}}
@@ -48,8 +53,23 @@ styles: ["Ambient"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Nick Cave & The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |
-| Label          | Ghosteen Ltd, Ghosteen Ltd |
-| Format         | 2xLP, Album |
-| Catalog Number | BS016LP, 5056167114796 |
+| Label          | Ghosteen Ltd |
+| Format         | Vinyl 2× LP Album |
+| Catalog Number | BS016LP |
 
-Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed at Conway, Los Angeles  Published by Kobalt Music Group Ltd  This record is dedicated to [a259149]  ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU    [Album download](https://www.discogs.com/release/14570498) code included. Packaged in a gatefold sleeve with poly-lined inner sleeves printed with lyrics.  The BS016LP catalog number follows the [l501701] label format.
+Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin
+Mixed at Conway, Los Angeles
+
+Published by Kobalt Music Group Ltd
+
+This record is dedicated to [a259149]
+
+℗ & © 2019 Ghosteen Ltd
+Under exclusive license to AWAL Recordings Ltd
+Manufactured in the EU
+
+ 
+[url=https://www.discogs.com/release/14570498]Album download[/url] code included.
+Packaged in a gatefold sleeve with poly-lined inner sleeves printed with lyrics.
+
+The BS016LP catalog number follows the [l501701] label format.

@@ -2,7 +2,7 @@
 title: "M83 - Saturdays = Youth"
 artist: "M83"
 album_name: "Saturdays = Youth"
-date: 2021-04-11
+date: 2021-04-11T04:39:03.000000Z
 release_id: "7785948"
 slug: "saturdays-youth-7785948"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ---
+
 ## Tracklisting
 1. You, Appearing
 2. Kim & Jessie
@@ -25,8 +26,12 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 9. Too Late
 10. Dark Moves Of Love
 11. Midnight Souls Still Remain
+
+
 ## Spotify
 {{< spotify type="album" id="4HshNHpHWtmaw8sDrOXNuE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="sWsUNbdc5IM" title="M83 'We Own The Sky' Official video" >}}
@@ -44,7 +49,14 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 | Release Year   | 2015 |
 | Discogs Link   | [M83 - Saturdays = Youth](https://www.discogs.com/release/7785948-M83-Saturdays-Youth) |
 | Label          | Naïve |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | NV833361 |
 
-℗ 2008 M83 Recording Inc. © 2015 M83 Recording Inc. Made in France.  Ken Thomas is represented by Air Management Ewan Pearson is represented by Howie Martinez and Ian Clifford Artwork Design by Louise Downer at Blue Ink Creative  Tracks are listed sequentially as they show on the backside of the record's jacket and center labels.
+℗ 2008 M83 Recording Inc. © 2015 M83 Recording Inc.
+Made in France.
+
+Ken Thomas is represented by Air Management
+Ewan Pearson is represented by Howie Martinez and Ian Clifford
+Artwork Design by Louise Downer at Blue Ink Creative
+
+Tracks are listed sequentially as they show on the backside of the record's jacket and center labels.

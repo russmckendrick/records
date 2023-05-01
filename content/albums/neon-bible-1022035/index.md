@@ -2,7 +2,7 @@
 title: "Arcade Fire - Neon Bible"
 artist: "Arcade Fire"
 album_name: "Neon Bible"
-date: 2018-01-26
+date: 2018-01-26T20:03:56.000000Z
 release_id: "1022035"
 slug: "neon-bible-1022035"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Black Mirror (4:13)
 2. Keep The Car Running (3:29)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. Windowsill (4:16)
 10. No Cars Go (5:43)
 11. My Body Is A Cage (4:47)
+
+
 ## Spotify
 {{< spotify type="album" id="4GT6uZod4p5RiDMOVHOMme" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eHe4cDG2ErM" title="Arcade Fire - Neon Bible (Official Audio)" >}}
@@ -42,7 +47,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2007 |
 | Discogs Link   | [Arcade Fire - Neon Bible](https://www.discogs.com/release/1022035-Arcade-Fire-Neon-Bible) |
 | Label          | Sonovox Records |
-| Format         | LP + LP, S/Sided, Etch + Album, Gat |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album (Gatefold) |
 | Catalog Number | 1724447 |
 
-LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.  Side three has a locked groove in the run out repeatedly playing the same, short piece of music.  Recorded and mixed during 2006 at "the church" in Quebec. Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.  The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc 
+LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.
+
+Side three has a locked groove in the run out repeatedly playing the same, short piece of music.
+
+Recorded and mixed during 2006 at "the church" in Quebec.
+Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.
+
+The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc.

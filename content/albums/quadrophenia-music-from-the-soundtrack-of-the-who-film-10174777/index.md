@@ -2,7 +2,7 @@
 title: "Various - Quadrophenia (Music From The Soundtrack Of The Who Film)"
 artist: "Various"
 album_name: "Quadrophenia (Music From The Soundtrack Of The Who Film)"
-date: 2017-06-06
+date: 2017-06-06T17:29:01.000000Z
 release_id: "10174777"
 slug: "quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues", "Mod"]
 ---
+
 ## Tracklisting
 1. I Am The Sea
 2. The Real Me
@@ -37,6 +38,9 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 21. Be My Baby
 22. Da Doo Ron Ron
 
+
+
+
 ## Videos
 {{< youtube id="OR5v4yyPV6Y" title="5:15 - Quadrophenia - The Who" >}}
 - [The Chiffons - He´s So Fine](https://www.youtube.com/watch?v=rinz9Avvq6A)
@@ -58,7 +62,8 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Quadrophenia (Music From The Soundtrack Of The Who Film)](https://www.discogs.com/release/10174777-Various-Quadrophenia-Music-From-The-Soundtrack-Of-The-Who-Film) |
 | Label          | Polydor |
-| Format         | 2xLP, RSD, Comp, Ltd, RE, Gre |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Green) |
 | Catalog Number | 5732868 |
 
-RSD 2017 Re-issue on 180 gram "Parka Green" coloured vinyl.  Comes in gatefold sleeve.
+RSD 2017 Re-issue on 180 gram "Parka Green" coloured vinyl. 
+Comes in gatefold sleeve.

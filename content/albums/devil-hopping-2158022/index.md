@@ -2,7 +2,7 @@
 title: "Inspiral Carpets - Devil Hopping"
 artist: "Inspiral Carpets"
 album_name: "Devil Hopping"
-date: 2017-09-01
+date: 2017-09-01T18:22:50.000000Z
 release_id: "2158022"
 slug: "devil-hopping-2158022"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 ---
+
 ## Tracklisting
 1. I Want You (3:09)
 2. Party In The Sky (3:51)
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 10. Half Way There (3:50)
 11. Cobra (2:13)
 12. I Don't Want To Go Blind (4:02)
+
+
 ## Spotify
 {{< spotify type="album" id="7vhsZvvArRpU9cXxjfiC06" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}
@@ -48,8 +53,13 @@ styles: ["Indie Rock", "Alternative Rock", "Garage Rock"]
 | ---------------| ----------- |
 | Release Year   | 1994 |
 | Discogs Link   | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/2158022-Inspiral-Carpets-Devil-Hopping) |
-| Label          | Mute, Cow |
-| Format         | LP, Album |
+| Label          | Mute |
+| Format         | Vinyl LP Album |
 | Catalog Number | DUNG 25 |
 
-Recorded and mixed at Parr Street Studios, Liverpool.  Inner sleeve with lyrics & credits.  Same release as [r638225] but with other barcode and without the bonus 10". 
+Recorded and mixed at Parr Street Studios, Liverpool.
+
+Inner sleeve with lyrics & credits.
+
+Same release as [r638225] but with other barcode and without the bonus 10".
+

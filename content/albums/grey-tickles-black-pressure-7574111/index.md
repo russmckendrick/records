@@ -2,7 +2,7 @@
 title: "John Grant - Grey Tickles, Black Pressure"
 artist: "John Grant"
 album_name: "Grey Tickles, Black Pressure"
-date: 2015-10-09
+date: 2015-10-09T17:01:43.000000Z
 release_id: "7574111"
 slug: "grey-tickles-black-pressure-7574111"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Intro (1:37)
 2. Grey Tickles, Black Pressure (5:30)
@@ -48,8 +49,12 @@ styles: ["Indie Rock", "Experimental"]
 32. Drug (3:53)
 33. Geraldine (6:23)
 34. No More Tangles (6:18)
+
+
 ## Spotify
 {{< spotify type="album" id="5NIK2GM7XYSX5a6OUC5B0S" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-0QsMQZf1q4" title="John Grant - Grey Tickles, Black Pressure (Album Trailer)" >}}
@@ -64,8 +69,10 @@ styles: ["Indie Rock", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [John Grant - Grey Tickles, Black Pressure](https://www.discogs.com/release/7574111-John-Grant-Grey-Tickles-Black-Pressure) |
-| Label          | Bella Union, Bella Union, Bella Union |
-| Format         | LP, Album, Lav + LP, Album, Ora + CD, Album + CD,  |
-| Catalog Number | BELLA505V, BELLA505VRT, BELLA514CD |
+| Label          | Bella Union |
+| Format         | Vinyl LP Album (Lavender), Vinyl LP Album (Orange), CD Album, CD EP, All Media Limited Edition |
+| Catalog Number | BELLA505V |
 
-Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.  Limited to 500 copies. Rough Trade European exclusive.
+Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.
+
+Limited to 500 copies. Rough Trade European exclusive.

@@ -2,7 +2,7 @@
 title: "Oceansize - Self Preserved While The Bodies Float Up"
 artist: "Oceansize"
 album_name: "Self Preserved While The Bodies Float Up"
-date: 2016-01-28
+date: 2016-01-28T19:13:28.000000Z
 release_id: "2436574"
 slug: "self-preserved-while-the-bodies-float-up-2436574"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Part Cardiac (4:10)
 2. Superimposer (4:14)
@@ -36,6 +37,9 @@ styles: ["Alternative Rock", "Prog Rock"]
 20. Pine (4:55)
 21. SuperImposter (5:15)
 
+
+
+
 ## Videos
 {{< youtube id="RcWGCoUNU3s" title="Oceansize - Silent/Transparent" >}}
 - [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
@@ -46,8 +50,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Oceansize - Self Preserved While The Bodies Float Up](https://www.discogs.com/release/2436574-Oceansize-Self-Preserved-While-The-Bodies-Float-Up) |
-| Label          | Superball Music, Superball Music |
-| Format         | LP, Album, Whi + CD, Album + Ltd |
-| Catalog Number | SBMLP 014, 0504421 |
+| Label          | Superball Music |
+| Format         | Vinyl LP Album (White Marble), CD Album, All Media Limited Edition |
+| Catalog Number | SBMLP 014 |
 
 Black and limited white vinyl edition exists under the same catalogue #.

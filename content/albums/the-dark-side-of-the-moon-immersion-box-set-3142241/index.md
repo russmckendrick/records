@@ -2,7 +2,7 @@
 title: "Pink Floyd - The Dark Side Of The Moon - Immersion Box Set"
 artist: "Pink Floyd"
 album_name: "The Dark Side Of The Moon - Immersion Box Set"
-date: 2015-08-09
+date: 2015-08-09T13:05:07.000000Z
 release_id: "3142241"
 slug: "the-dark-side-of-the-moon-immersion-box-set-3142241"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Original Album, Remastered In 2011
 2. Speak To Me (1:07)
@@ -218,13 +219,35 @@ styles: ["Prog Rock"]
 202. Money (Roger Waters Demo) (2:38)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
 | Discogs Link   | [Pink Floyd - The Dark Side Of The Moon - Immersion Box Set](https://www.discogs.com/release/3142241-Pink-Floyd-The-Dark-Side-Of-The-Moon-Immersion-Box-Set) |
 | Label          | EMI |
-| Format         | CD, Album, RE, RM + CD + DVD-V, Album, Quad, RE, R |
+| Format         | CD Album Reissue Remastered Stereo, CD Stereo, DVD DVD-Video Multichannel NTSC Album Reissue Remastered Stereo Quadraphonic, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Album Reissue Remastered Stereo Quadraphonic Multichannel, CD Album Stereo, Box Set Limited Edition |
 | Catalog Number | 50999 029431 2 1 |
 
-Digital remaster ℗ 2011 The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 2011 Pink Floyd Music Ltd.  Box set also includes:  36-page 26cm x 26 cm booklet designed by Storm Thorgerson, 20-page 26cm x 26 cm photo book edited by Jill Furmanovsky, exclusive Art Print, 4 x Collectors' Cards featuring art and comments by Storm Thorgerson, replica of The Dark Side Of The Moon tour ticket, replica of The Dark Side Of The Moon backstage pass, 100% viscose (exclusive of 100% acrylic fringe) collectible printed scarf (RN 135394), 3 x collectible black marbles, 9 x collectible coasters (unique to this box) featuring early design sketches, and a 12-page credits booklet.   Discs 1 - 4 are mounted in the box set, discs 5 and 6 are in separate cardsleeves  No durations given for discs 1, 2, 3 and 5  Printed scarf: 100% Viscose scarf 100% acrylic linge 100% polyester label  EMOE BV, Losplaats 5, 5404 NJ, Uden,  Netherlands  Please note: On this European pressing, Disc 5 (Blu-ray) degraded over time and became unplayable. Replacement discs were made available in 2018 --> [r=12374539].
+Digital remaster ℗ 2011
+The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.
+© 2011 Pink Floyd Music Ltd.
+
+Box set also includes:
+
+36-page 26cm x 26 cm booklet designed by Storm Thorgerson, 20-page 26cm x 26 cm photo book edited by Jill Furmanovsky, exclusive Art Print, 4 x Collectors' Cards featuring art and comments by Storm Thorgerson, replica of The Dark Side Of The Moon tour ticket, replica of The Dark Side Of The Moon backstage pass, 100% viscose (exclusive of 100% acrylic fringe) collectible printed scarf (RN 135394), 3 x collectible black marbles, 9 x collectible coasters (unique to this box) featuring early design sketches, and a 12-page credits booklet. 
+
+Discs 1 - 4 are mounted in the box set, discs 5 and 6 are in separate cardsleeves
+
+No durations given for discs 1, 2, 3 and 5
+
+Printed scarf:
+100% Viscose scarf
+100% acrylic linge
+100% polyester label
+
+EMOE BV, Losplaats 5, 5404 NJ, Uden, 
+Netherlands
+
+Please note: On this European pressing, Disc 5 (Blu-ray) degraded over time and became unplayable. Replacement discs were made available in 2018 --> [r=12374539].

@@ -2,7 +2,7 @@
 title: "Various - Metal Killers"
 artist: "Various"
 album_name: "Metal Killers"
-date: 2017-07-11
+date: 2017-07-11T08:45:32.000000Z
 release_id: "1916752"
 slug: "metal-killers-1916752"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Sabbath Bloody Sabbath
 2. Destroyer
@@ -26,8 +27,12 @@ styles: ["Heavy Metal", "Hard Rock"]
 10. Stoking Up The Fires Of Hell
 11. Under The Blade
 12. Lepers Queue
+
+
 ## Spotify
 {{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}
@@ -38,7 +43,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Release Year   | 1984 |
 | Discogs Link   | [Various - Metal Killers](https://www.discogs.com/release/1916752-Various-Metal-Killers) |
 | Label          | Kastle Killers |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation Stereo |
 | Catalog Number | KKLP 101 |
 
-Courtesy of Heavy Metal Records (Track B1) 
+Courtesy of Heavy Metal Records (Track B1)
+

@@ -2,7 +2,7 @@
 title: "Jenny Lewis - On The Line"
 artist: "Jenny Lewis"
 album_name: "On The Line"
-date: 2019-03-23
+date: 2019-03-23T13:39:23.000000Z
 release_id: "13380922"
 slug: "on-the-line-13380922"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Heads Gonna Roll (5:13)
 2. Wasted Youth (4:13)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Taffy (4:27)
 10. On The Line (3:48)
 11. Rabbit Hole (2:46)
+
+
 ## Spotify
 {{< spotify type="album" id="2AHG3vkC3H7zqHbYdgCCcy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll (Official Audio)" >}}
@@ -47,7 +52,19 @@ styles: ["Indie Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922-Jenny-Lewis-On-The-Line) |
 | Label          | Warner Bros. Records |
-| Format         | LP, Album, Ltd, Blu |
+| Format         | Vinyl LP Album Limited Edition (Blue) |
 | Catalog Number | 585764-1 |
 
-Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany.
+Recorded at Capitol Studios
+Additional recording at Neptune Valley Studio
+
+Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)
+
+Ryan Adams appears courtesy of Blue Note Records.
+
+Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits. 
+
+Warner Bros. Records Inc., A Warner Music Group Company.
+© ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.
+Printed in Canada.
+Manufactured in Germany.

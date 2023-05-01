@@ -2,7 +2,7 @@
 title: "Tell 'Em Steve-Dave - Vinylcast (Foam Face Edition)"
 artist: "Tell 'Em Steve-Dave"
 album_name: "Vinylcast (Foam Face Edition)"
-date: 2016-10-19
+date: 2016-10-19T17:04:04.000000Z
 release_id: "9173592"
 slug: "vinylcast-foam-face-edition-9173592"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Vinylcast (Foam Face Edition) by Tell 'Em Steve-Dave"
     caption: "Vinylcast (Foam Face Edition) by Tell 'Em Steve-Dave"
 genres: ["Stage & Screen"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. TESD Anthem
 2. Greetings All
@@ -29,13 +30,15 @@ styles: null
 13. Check Out The Hook
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Tell 'Em Steve-Dave - Vinylcast (Foam Face Edition)](https://www.discogs.com/release/9173592-Tell-Em-Steve-Dave-Vinylcast-Foam-Face-Edition) |
 | Label          | Makin' Hay Records |
-| Format         | LP, Ltd, Whi |
+| Format         | Vinyl LP Limited Edition Stereo (White) |
 | Catalog Number | none |
 
 Reissue, available in white vinyl only, at tellemstevedave.com

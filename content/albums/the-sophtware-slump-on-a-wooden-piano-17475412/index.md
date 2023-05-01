@@ -2,7 +2,7 @@
 title: "Grandaddy - The Sophtware Slump .​.​.​.​. On A Wooden Piano"
 artist: "Grandaddy"
 album_name: "The Sophtware Slump .​.​.​.​. On A Wooden Piano"
-date: 2021-02-20
+date: 2021-02-20T02:44:49.000000Z
 release_id: "17475412"
 slug: "the-sophtware-slump-on-a-wooden-piano-17475412"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. He's Simple He's Dumb He's The Pilot
 2. Hewlett's Daughter
@@ -26,10 +27,13 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 10. Miner At The Dial-A-View
 11. So You'll Aim Toward The Sky
 
+
+
+
 ## Videos
 {{< youtube id="MXwCreLCUrU" title="Grandaddy - The Crystal Lake (Piano Version)" >}}
-- [Grandaddy - Jed the Humanoid (Piano Version)](https://www.youtube.com/watch?v=d36NP961r8s)
 - [Grandaddy - Jed's Other Poem (Beautiful Ground) (Piano Version)](https://www.youtube.com/watch?v=AMBJc-Fk6eo)
+- [Grandaddy - Jed the Humanoid (Piano Version)](https://www.youtube.com/watch?v=d36NP961r8s)
 - [Grandaddy - He's Simple, He's Dumb, He's the Pilot (Piano Version)](https://www.youtube.com/watch?v=ndnfFi8WL9M)
 - [Grandaddy - Jed's Other Poem (Beautiful Ground) (Piano Version)](https://www.youtube.com/watch?v=hwRnQuxOw6U)
 - [Grandaddy - Miner at the Dial-a-View (Piano Version)](https://www.youtube.com/watch?v=Q6rTYdsO0Qs)
@@ -43,7 +47,12 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Grandaddy - The Sophtware Slump .​.​.​.​. On A Wooden Piano](https://www.discogs.com/release/17475412-Grandaddy-The-Sophtware-Slump--On-A-Wooden-Piano) |
 | Label          | Dangerbird Records |
-| Format         | LP, Album, Ltd, Clo |
+| Format         | Vinyl LP Album Limited Edition (Cloudy Clear) |
 | Catalog Number | DGB217-1 |
 
-Limited Edition. Independent Record Stores Exclusive.  On back cover : grandaddymusic.com • dangerbirdrecords.com  
+Limited Edition. Independent Record Stores Exclusive.
+
+On back cover :
+grandaddymusic.com • dangerbirdrecords.com
+
+

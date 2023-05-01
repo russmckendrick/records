@@ -2,7 +2,7 @@
 title: "Neko Case & Her Boyfriends - Furnace Room Lullaby"
 artist: "Neko Case & Her Boyfriends"
 album_name: "Furnace Room Lullaby"
-date: 2022-03-19
+date: 2022-03-19T06:48:23.000000Z
 release_id: "8197021"
 slug: "furnace-room-lullaby-8197021"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Country"]
 ---
+
 ## Tracklisting
 1. Set Out Running
 2. Guided By Wire
@@ -26,6 +27,9 @@ styles: ["Alternative Rock", "Country"]
 10. South Tacoma Way
 11. Bought And Sold
 12. Furnace Room Lullaby
+
+
+
 
 ## Videos
 {{< youtube id="HTPJq30ghBA" title="Set Out Running" >}}
@@ -44,8 +48,14 @@ styles: ["Alternative Rock", "Country"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Neko Case & Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |
-| Label          | Anti-, Lady Pilot, Anti- |
-| Format         | LP, Album, Ltd, RE, Cle |
-| Catalog Number | #86915-1, 99976-1, 86915-1CRM (Clear/Red) |
+| Label          | Anti- |
+| Format         | Vinyl LP Album Limited Edition Reissue (Clear w/ Red, Gatefold) |
+| Catalog Number | #86915-1 |
 
-Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.  
+Download card included.
+
+"#86915-1" is on the spine
+"99976-1" is on the sticker that states that the download card is included
+"86915-1CRM (Clear/Red)" is on the bar code sticker
+
+Copyright is 2015 but the lp was reissued on March 4th, 2016.  

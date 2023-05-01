@@ -2,7 +2,7 @@
 title: "J Dilla - Donuts"
 artist: "J Dilla"
 album_name: "Donuts"
-date: 2020-02-14
+date: 2020-02-14T20:33:32.000000Z
 release_id: "14749929"
 slug: "donuts-14749929"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
+
 ## Tracklisting
 1. Donuts (Outro) (0:12)
 2. Workinonit (2:57)
@@ -45,8 +46,12 @@ styles: ["Instrumental"]
 29. Bye. (1:27)
 30. Last Donut Of The Night (1:39)
 31. Welcome To The Show (1:11)
+
+
 ## Spotify
 {{< spotify type="album" id="5fMlysqhFE0itGn4KezMBW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="fC3Cthm0HFU" title="J Dilla - Last Donut of the Night (Donuts) Official Video" >}}
@@ -87,7 +92,7 @@ styles: ["Instrumental"]
 | Release Year   | 2020 |
 | Discogs Link   | [J Dilla - Donuts](https://www.discogs.com/release/14749929-J-Dilla-Donuts) |
 | Label          | Stones Throw Records |
-| Format         | 2x12\", Album, Ltd, RE, Red |
+| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition Reissue (Red-in-Clear, "Jelly" Edition) |
 | Catalog Number | STH2126-8 |
 
 2 x 12" (referred to as LP) Red-in-clear 'Jelly Edition' of Donuts, a limited run created for Stones Throw and Rough Trade (NYC & London). Limited to 1000 copies.

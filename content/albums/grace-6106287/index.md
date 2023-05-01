@@ -2,7 +2,7 @@
 title: "Jeff Buckley - Grace"
 artist: "Jeff Buckley"
 album_name: "Grace"
-date: 2015-08-09
+date: 2015-08-09T08:38:40.000000Z
 release_id: "6106287"
 slug: "grace-6106287"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Mojo Pin (5:42)
 2. Grace (5:22)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 8. Corpus Christi Carol (2:56)
 9. Eternal Life (4:52)
 10. Dream Brother (5:26)
+
+
 ## Spotify
 {{< spotify type="album" id="7yQtjAjhtNi76KRu05XWFS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ywEByqEVQRk" title="Mojo Pin" >}}
@@ -46,7 +51,12 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Jeff Buckley - Grace](https://www.discogs.com/release/6106287-Jeff-Buckley-Grace) |
 | Label          | Columbia |
-| Format         | CD, Album, RE + LP, Album, RE |
+| Format         | CD Album Reissue, Vinyl LP Album Reissue |
 | Catalog Number | 88843094771 |
 
-(C)1994, 2014 Sony Music Entertainment Inc. (P)1994, 2014 Sony Music Entertainment Inc. Manufactured by Columbia Records.  2014 180 gram Vinyl Reissue with CD included. 
+(C)1994, 2014 Sony Music Entertainment Inc.
+(P)1994, 2014 Sony Music Entertainment Inc.
+Manufactured by Columbia Records.
+
+2014 180 gram Vinyl Reissue with CD included.
+

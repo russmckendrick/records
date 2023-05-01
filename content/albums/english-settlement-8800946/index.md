@@ -2,7 +2,7 @@
 title: "XTC - English Settlement"
 artist: "XTC"
 album_name: "English Settlement"
-date: 2018-01-19
+date: 2018-01-19T20:40:49.000000Z
 release_id: "8800946"
 slug: "english-settlement-8800946"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Runaways (4:51)
 2. Ball And Chain (4:28)
@@ -44,22 +45,26 @@ styles: ["New Wave", "Pop Rock"]
 28. Down In The Cockpit (5:35)
 29. English Roundabout (3:50)
 30. Snowman (4:26)
+
+
 ## Spotify
 {{< spotify type="album" id="2fDm6GpssR8S6uQnDE4MKM" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="FPWEiqHVFGI" title="Melt The Guns (2001 Remaster)" >}}
+{{< youtube id="4a9wowg4AjI" title="XTC - Ball and Chain" >}}
+- [Melt The Guns (2001 Remaster)](https://www.youtube.com/watch?v=FPWEiqHVFGI)
 - [All Of A Sudden (It's Too Late)](https://www.youtube.com/watch?v=yCvGUu3DBJQ)
-- [XTC - Ball and Chain](https://www.youtube.com/watch?v=4a9wowg4AjI)
 - [XTC - No Thugs in Our House](https://www.youtube.com/watch?v=UfE-z0RN7n0)
 - [XTC - Runaways](https://www.youtube.com/watch?v=0gQo_lXw2zg)
 - [Xtc - It's Nearly Africa - 1982](https://www.youtube.com/watch?v=Ad1e0FaHuqU)
+- [Senses Working Overtime (Remastered)](https://www.youtube.com/watch?v=kjt7AdLYT2w)
 - [XTC - Jason and the Argonauts](https://www.youtube.com/watch?v=BDNupK1RkdY)
 - [English Roundabout (2001 Remaster)](https://www.youtube.com/watch?v=aSIyaZoG0sU)
 - [Runaways (2001 Remaster)](https://www.youtube.com/watch?v=tJocUSEXk8c)
 - [XTC - Yacht Dance - English Settlement [1982]](https://www.youtube.com/watch?v=0hHYU28TkvQ)
 - [XTC English Settlement Album Review](https://www.youtube.com/watch?v=dNx7NR51qdc)
-- [Senses Working Overtime (Remastered)](https://www.youtube.com/watch?v=kjt7AdLYT2w)
 - [No Thugs In Our House (2001 Remaster)](https://www.youtube.com/watch?v=PnRzV4ehSxY)
 - [XTC - Knuckle Down](https://www.youtube.com/watch?v=g9zZ0hefFok)
 
@@ -69,7 +74,18 @@ styles: ["New Wave", "Pop Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [XTC - English Settlement](https://www.discogs.com/release/8800946-XTC-English-Settlement) |
 | Label          | Ape House |
-| Format         | 2xLP, Album, RE + CD, Album, RE + Box, Dlx |
+| Format         | Vinyl 2× LP Album Reissue, CD Album Reissue, Box Set Deluxe Edition |
 | Catalog Number | APELPD105 |
 
-A deluxe version of XTC's 1982 classic, English Settlement.   Including:   * 2 x 33rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * 2016 cut from original half-inch master sources  * CD mastered from the same original master sources  * All contents packaged in a sturdy slipcase   While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition. 
+A deluxe version of XTC's 1982 classic, English Settlement. 
+
+Including: 
+
+* 2 x 33rpm, 200g heavyweight vinyl 
+* 12" 16 page booklet with song notes by band members 
+* Lyric sheet 
+* 2016 cut from original half-inch master sources 
+* CD mastered from the same original master sources 
+* All contents packaged in a sturdy slipcase 
+
+While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition. 

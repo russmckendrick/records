@@ -2,7 +2,7 @@
 title: "Moby - Play"
 artist: "Moby"
 album_name: "Play"
-date: 2018-02-03
+date: 2018-02-03T10:33:04.000000Z
 release_id: "11395156"
 slug: "play-11395156"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Breakbeat", "Leftfield", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Honey
 2. Find My Baby
@@ -32,8 +33,12 @@ styles: ["Breakbeat", "Leftfield", "Downtempo"]
 16. Guitar Flute & String
 17. The Sky Is Broken
 18. My Weakness
+
+
 ## Spotify
 {{< spotify type="album" id="724hO8VLcKOz9b0y18wA8c" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JyM50qHSQBE" title="M̲oby - P̲lay (F̶ull A̶lbum) HQ" >}}
@@ -43,8 +48,30 @@ styles: ["Breakbeat", "Leftfield", "Downtempo"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Moby - Play](https://www.discogs.com/release/11395156-Moby-Play) |
-| Label          | Little Idiot, Little Idiot |
-| Format         | 2xLP, Album, Club, RE, RM, Tur |
-| Catalog Number | IDIOT061, 5060236634252 |
+| Label          | Little Idiot |
+| Format         | Vinyl 2× LP Album Club Edition Reissue Remastered (Turquoise Translucent) |
+| Catalog Number | IDIOT061 |
 
-Sticker on sleeve reads: Re-Recorded + Newly Remastered Audio 2LP Transparent Turquoise Color Vinyl 2 exclusive 12"x12" Art Prints  Embossed cover. Custom inner sleeves. Includes an art print and a cocktail recipe.  Natural Blues mixed in Sheffield [...]  Honey: features samples from the Bessie Jones recording Sometimes, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products. Find My Baby: features samples from the Boy Blue recording Joe Lee's Rock, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products. Bodyrock: contains a sample of Love Rap as performed by Spoony G & the Treacherous 3. Used under license from Enjoy Records, Inc. Run On: features samples from Run On For A Long Time by Bill Landford & The Landfordaires, used courtesy of Sony Music.  All songs published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI) except Bodyrock, published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI)/Bobby Robinson Music.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music
+Sticker on sleeve reads:
+Re-Recorded + Newly Remastered Audio
+2LP Transparent Turquoise Color Vinyl
+2 exclusive 12"x12" Art Prints
+
+Embossed cover.
+Custom inner sleeves.
+Includes an art print and a cocktail recipe.
+
+Natural Blues mixed in Sheffield [...]
+
+Honey: features samples from the Bessie Jones recording Sometimes, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products.
+Find My Baby: features samples from the Boy Blue recording Joe Lee's Rock, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products.
+Bodyrock: contains a sample of Love Rap as performed by Spoony G & the Treacherous 3. Used under license from Enjoy Records, Inc.
+Run On: features samples from Run On For A Long Time by Bill Landford & The Landfordaires, used courtesy of Sony Music.
+
+All songs published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI) except Bodyrock, published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI)/Bobby Robinson Music.
+
+℗ 2017 Little Idiot © 2017 Little Idiot
+
+On labels:
+℗ 2017 Little Idiot Music
+© 2017 Little Idiot Music

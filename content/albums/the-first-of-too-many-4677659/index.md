@@ -2,7 +2,7 @@
 title: "Senseless Things - The First Of Too Many"
 artist: "Senseless Things"
 album_name: "The First Of Too Many"
-date: 2019-03-24
+date: 2019-03-24T13:15:48.000000Z
 release_id: "4677659"
 slug: "the-first-of-too-many-4677659"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Everybody's Gone
 2. Best Friend
@@ -30,6 +31,9 @@ styles: ["Indie Rock"]
 14. Different Tongues
 15. Fishing At Tescos
 
+
+
+
 ## Videos
 {{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}
 - [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
@@ -40,8 +44,12 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659-Senseless-Things-The-First-Of-Too-Many) |
-| Label          | Epic, Epic |
-| Format         | LP, Album, Ltd, Pur |
-| Catalog Number | 469157 1, 01-469157-20 |
+| Label          | Epic |
+| Format         | Vinyl LP Album Limited Edition (Purple) |
+| Catalog Number | 469157 1 |
 
-Recorded at the Greenhouse Studios, London - March/April 1991. Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991. Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991. Track B2 mixed at Gooseberry Studis, Brixton - July 1991. 
+Recorded at the Greenhouse Studios, London - March/April 1991.
+Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991.
+Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991.
+Track B2 mixed at Gooseberry Studis, Brixton - July 1991.
+

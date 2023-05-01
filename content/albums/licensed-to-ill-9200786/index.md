@@ -2,7 +2,7 @@
 title: "Beastie Boys - Licensed To Ill"
 artist: "Beastie Boys"
 album_name: "Licensed To Ill"
-date: 2019-11-16
+date: 2019-11-16T11:54:27.000000Z
 release_id: "9200786"
 slug: "licensed-to-ill-9200786"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Licensed To Ill by Beastie Boys"
     caption: "Licensed To Ill by Beastie Boys"
 genres: ["Hip Hop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Rhymin & Stealin (4:08)
 2. The New Style (4:35)
@@ -27,14 +28,16 @@ styles: null
 11. Brass Monkey (2:38)
 12. Slow And Low (3:37)
 13. Time To Get Ill (3:37)
+
+
 ## Spotify
 {{< spotify type="album" id="11oR0ZuqB3ucZwb5TGbZxb" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="eBShN8qT4lk" title="Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)" >}}
-- [Beastie Boys  - Rhymin' & Stealin'](https://www.youtube.com/watch?v=i8rrWG3kjbg)
 - [Beastie Boys - No Sleep Till Brooklyn (Official Music Video)](https://www.youtube.com/watch?v=07Y0cy-nvAg)
-- [Beastie Boys - Time To Get Ill](https://www.youtube.com/watch?v=yFTG1_5VKcU)
 - [Beastie Boys - She's Crafty (Official Music Video)](https://www.youtube.com/watch?v=erD0nCFA75g)
 
 ## Notes
@@ -43,7 +46,13 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [Beastie Boys - Licensed To Ill](https://www.discogs.com/release/9200786-Beastie-Boys-Licensed-To-Ill) |
 | Label          | Def Jam Recordings |
-| Format         | LP, Album, RE, 180 |
-| Catalog Number | 06025 478 207-5 |
+| Format         | Vinyl LP Album Reissue (180 Gram, Gatefold, 30th Anniversary Edition) |
+| Catalog Number | 06025 478 207-5 (4) |
 
-30th anniversary reissue  Made in the EU.  No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.  Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped.
+30th anniversary reissue
+
+Made in the EU.
+
+No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.
+
+Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped.

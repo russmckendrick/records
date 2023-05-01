@@ -2,7 +2,7 @@
 title: "Audioweb - Fireworks City"
 artist: "Audioweb"
 album_name: "Fireworks City"
-date: 2022-09-18
+date: 2022-09-18T04:24:47.000000Z
 release_id: "19344019"
 slug: "fireworks-city-19344019"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Reggae"]
 styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ---
+
 ## Tracklisting
 1. Policeman Skank... (The Story Of My Life) (4:33)
 2. Test The Theory (3:44)
@@ -25,8 +26,12 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 9. Control (4:20)
 10. Out Of My Mind (3:27)
 11. Get Out Of Here (3:42)
+
+
 ## Spotify
 {{< spotify type="album" id="44a62Pr8xc894HkcyvBK31" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5fXzgRQ5eX4" title="Policeman Skank - Audioweb" >}}
@@ -47,7 +52,7 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 | Release Year   | 2021 |
 | Discogs Link   | [Audioweb - Fireworks City](https://www.discogs.com/release/19344019-Audioweb-Fireworks-City) |
 | Label          | Demon Records |
-| Format         | LP, Album, Ltd, RE, Red |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Red, 180g) |
 | Catalog Number | DEMREC918 |
 
 "On vinyl for the first time"

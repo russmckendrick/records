@@ -2,7 +2,7 @@
 title: "Heaven 17 - Penthouse And Pavement"
 artist: "Heaven 17"
 album_name: "Penthouse And Pavement"
-date: 2018-06-13
+date: 2018-06-13T17:27:49.000000Z
 release_id: "9929529"
 slug: "penthouse-and-pavement-9929529"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Pavement Side
 2. (We Don't Need This) Fascist Groove Thang (4:17)
@@ -25,8 +26,12 @@ styles: ["Synth-pop"]
 9. The Height Of The Fighting (3:00)
 10. Song With No Name (3:33)
 11. We're Going To Live For A Very Long Time
+
+
 ## Spotify
 {{< spotify type="album" id="662vZghUEjQCywafYimHtK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Q49BjlSOCGE" title="[We Don't Need This] Fascist Groove Thang" >}}
@@ -38,14 +43,24 @@ styles: ["Synth-pop"]
 - [The Height Of The Fighting (Remastered 2006)](https://www.youtube.com/watch?v=mJ28KUI8uAw)
 - [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)
 - [We're Going To Live For A Very Long Time (2006 Digital Remaster)](https://www.youtube.com/watch?v=77PYASbEsi8)
+- [Heaven 17 - Height Of The Fighting (He-La-Hu!)](https://www.youtube.com/watch?v=JR6BlsgdQr8)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Heaven 17 - Penthouse And Pavement](https://www.discogs.com/release/9929529-Heaven-17-Penthouse-And-Pavement) |
-| Label          | Virgin, Virgin |
-| Format         | LP, Album |
-| Catalog Number | 0602547941602, 4794160 |
+| Label          | Virgin |
+| Format         | Vinyl LP Album |
+| Catalog Number | 0602547941602 |
 
-Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.  Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield.   B5 ends in a locked groove, hence no duration.  Includes 24Bit/44.1Khz WAV download coupon.   
+Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.
+
+Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield. 
+
+B5 ends in a locked groove, hence no duration.
+
+Includes 24Bit/44.1Khz WAV download coupon.
+
+
+

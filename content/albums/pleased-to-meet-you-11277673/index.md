@@ -2,7 +2,7 @@
 title: "James - Pleased To Meet You"
 artist: "James"
 album_name: "Pleased To Meet You"
-date: 2017-12-17
+date: 2017-12-17T09:51:13.000000Z
 release_id: "11277673"
 slug: "pleased-to-meet-you-11277673"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Space (4:49)
 2. Falling Down (3:37)
@@ -27,8 +28,12 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 11. Fine (3:41)
 12. Getting Away With It (All Messed Up) (4:25)
 13. Alaskan Pipeline (4:28)
+
+
 ## Spotify
 {{< spotify type="album" id="4sd1JAggakMUuXLpFN6LIx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Io2Cl1u5gmU" title="James - Getting Away With It (All Messed Up)" >}}
@@ -42,8 +47,9 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [James - Pleased To Meet You](https://www.discogs.com/release/11277673-James-Pleased-To-Meet-You) |
-| Label          | Mercury, Fontana, UMC |
-| Format         | 2xLP, Album, RE, 180 |
+| Label          | Mercury |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | 5712915 |
 
-2017 EU 
+2017 EU
+

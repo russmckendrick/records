@@ -2,7 +2,7 @@
 title: "Big Big Train - The Second Brightest Star"
 artist: "Big Big Train"
 album_name: "The Second Brightest Star"
-date: 2017-06-24
+date: 2017-06-24T15:07:53.000000Z
 release_id: "10470066"
 slug: "the-second-brightest-star-10470066"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. The Second Brightest Star
 2. Haymaking
@@ -25,8 +26,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Brooklands Sequence
 10. London Plane Sequence
 11. The Gentlemen's Reprise
+
+
 ## Spotify
 {{< spotify type="album" id="0vrHQhDASQKq7sr4wGaj73" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1FeatR8ZXy8" title="Big Big Train - Brooklands Sequence [The Second Brightest Star 2017]" >}}
@@ -42,7 +47,11 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066-Big-Big-Train-The-Second-Brightest-Star) |
 | Label          | Plane Groovy |
-| Format         | 2xLP, Album, Ltd, 180 |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
 | Catalog Number | PLG056 |
 
-Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements.
+Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.
+
+A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.
+ 
+Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements.

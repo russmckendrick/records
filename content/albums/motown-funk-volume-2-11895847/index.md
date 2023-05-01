@@ -2,7 +2,7 @@
 title: "Various - Motown Funk Volume 2"
 artist: "Various"
 album_name: "Motown Funk Volume 2"
-date: 2018-04-21
+date: 2018-04-21T13:35:16.000000Z
 release_id: "11895847"
 slug: "motown-funk-volume-2-11895847"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
+
 ## Tracklisting
 1. Drink The Wine (Album Version)
 2. Gonna Find A True Love (Single Version)
@@ -34,6 +35,9 @@ styles: ["Funk", "Soul"]
 18. UFO's (Album Version)
 19. Let It Whip (Single Version)
 
+
+
+
 ## Videos
 {{< youtube id="_MYJV-4rTpI" title="Bottom & Company - Gonna Find A True Love" >}}
 - [Keep On Truckin'](https://www.youtube.com/watch?v=wp_FlThJBSE)
@@ -54,7 +58,7 @@ styles: ["Funk", "Soul"]
 | Release Year   | 2018 |
 | Discogs Link   | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847-Various-Motown-Funk-Volume-2) |
 | Label          | UMC |
-| Format         | 2xLP, Comp, Yel |
+| Format         | Vinyl 2× LP Compilation (Yellow Translucent) |
 | Catalog Number | 5381363 |
 
 Released on Record Store Day 2018.

@@ -2,7 +2,7 @@
 title: "Saint Etienne - Words And Music By Saint Etienne "
 artist: "Saint Etienne"
 album_name: "Words And Music By Saint Etienne "
-date: 2020-07-17
+date: 2020-07-17T12:17:15.000000Z
 release_id: "15627233"
 slug: "words-and-music-by-saint-etienne-15627233"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Dance-pop"]
 ---
+
 ## Tracklisting
 1. Over The Border
 2. I've Got Your Music
@@ -27,8 +28,12 @@ styles: ["Indie Pop", "Dance-pop"]
 11. When I Was Seventeen
 12. I Threw It All Away
 13. Haunted Jukebox
+
+
 ## Spotify
 {{< spotify type="album" id="2VFTKW5v9Tw9CwlmgsYwou" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GSTSTNK0BG0" title="When I Was Seventeen" >}}
@@ -52,7 +57,11 @@ styles: ["Indie Pop", "Dance-pop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Saint Etienne - Words And Music By Saint Etienne ](https://www.discogs.com/release/15627233-Saint-Etienne-Words-And-Music-By-Saint-Etienne-) |
 | Label          | Heavenly |
-| Format         | LP, Album, Ltd, RE, Whi |
+| Format         | Vinyl LP Album Limited Edition Reissue (White w/ Black, Yellow and Green Splatter) |
 | Catalog Number | HVNLP92C |
 
-Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.  Includes Download.  
+Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.
+
+Includes Download.
+
+

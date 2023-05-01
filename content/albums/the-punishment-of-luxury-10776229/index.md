@@ -2,7 +2,7 @@
 title: "Orchestral Manoeuvres In The Dark - The Punishment Of Luxury"
 artist: "Orchestral Manoeuvres In The Dark"
 album_name: "The Punishment Of Luxury"
-date: 2017-09-01
+date: 2017-09-01T18:43:33.000000Z
 release_id: "10776229"
 slug: "the-punishment-of-luxury-10776229"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Punishment Of Luxury
 2. Isotype
@@ -26,8 +27,12 @@ styles: ["Synth-pop"]
 10. La Mitrailleuse
 11. Ghost Star
 12. The View From Here
+
+
 ## Spotify
 {{< spotify type="album" id="5PwufXJGsllH7Px8eCY03m" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2cU53wWb6UI" title="Orchestral Manoeuvres in the Dark - The Punishment of Luxury" >}}
@@ -45,8 +50,8 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Orchestral Manoeuvres In The Dark - The Punishment Of Luxury](https://www.discogs.com/release/10776229-OMD-The-Punishment-Of-Luxury) |
-| Label          | 100% Records, White Noise |
-| Format         | LP, Album |
+| Label          | 100% Records (2) |
+| Format         | Vinyl LP Album |
 | Catalog Number | 100LP66 |
 
 Issued in a die-cut sleeve.

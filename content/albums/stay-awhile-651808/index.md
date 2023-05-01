@@ -2,7 +2,7 @@
 title: "Dusty Springfield - Stay Awhile"
 artist: "Dusty Springfield"
 album_name: "Stay Awhile"
-date: 2020-08-02
+date: 2020-08-02T13:48:45.000000Z
 release_id: "651808"
 slug: "stay-awhile-651808"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Soul-Jazz", "Soul"]
 ---
+
 ## Tracklisting
 1. I Only Want To Be With You
 2. Stay Awhile
@@ -24,8 +25,12 @@ styles: ["Soul-Jazz", "Soul"]
 8. You Don't Own Me
 9. Something Special
 10. Every Day I Have To Cry
+
+
 ## Spotify
 {{< spotify type="album" id="2coXvs2zYk60U9Dd2hm6St" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pGB3WljqzmE" title="Stay Awhile" >}}
@@ -45,7 +50,10 @@ styles: ["Soul-Jazz", "Soul"]
 | Release Year   | 1969 |
 | Discogs Link   | [Dusty Springfield - Stay Awhile](https://www.discogs.com/release/651808-Dusty-Springfield-Stay-Awhile) |
 | Label          | Wing Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | WL.1211, WL 1211 |
 
-Release has a small Q + A with Dusty on the rear cover.  Month of release information from Record Collector Magazine Jan 1994 p.211 
+Release has a small Q + A with Dusty on the rear cover.
+
+Month of release information from Record Collector Magazine Jan 1994 p.211
+

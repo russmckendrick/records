@@ -2,7 +2,7 @@
 title: "Sepultura - Chaos A.D."
 artist: "Sepultura"
 album_name: "Chaos A.D."
-date: 2018-01-20
+date: 2018-01-20T19:09:20.000000Z
 release_id: "10997064"
 slug: "chaos-a-d-10997064"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash"]
 ---
+
 ## Tracklisting
 1. Chaos A.D. (2017 Remaster)
 2. Refuse/Resist (3:19)
@@ -42,8 +43,12 @@ styles: ["Thrash"]
 26. Clenched Fist (live) (3:38)
 27. Biotech Is Godzilla (live) (2:08)
 28. Territory (live) (4:48)
+
+
 ## Spotify
 {{< spotify type="album" id="5r4qa5AIQUVypFRXQzjaiu" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6ODNxy3YOPU" title="Sepultura - Refuse/Resist [OFFICIAL VIDEO]" >}}
@@ -56,7 +61,11 @@ styles: ["Thrash"]
 | Release Year   | 2017 |
 | Discogs Link   | [Sepultura - Chaos A.D.](https://www.discogs.com/release/10997064-Sepultura-Chaos-AD) |
 | Label          | Roadrunner Records |
-| Format         | 2xLP, Album, RE, RM, Gat |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold 180gr) |
 | Catalog Number | 081227934248 |
 
-Newly remastered on 180gr vinyls. The second and bonus LP contains rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.  LP2 - Side D: Live In Minneapolis (1994)
+Newly remastered on 180gr vinyls.
+The second and bonus LP contains rare and unreleased demos, cover versions and live tracks.
+Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.
+
+LP2 - Side D: Live In Minneapolis (1994)

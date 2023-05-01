@@ -2,7 +2,7 @@
 title: "De La Soul - 3 Feet High And Rising"
 artist: "De La Soul"
 album_name: "3 Feet High And Rising"
-date: 2015-08-09
+date: 2015-08-09T08:37:44.000000Z
 release_id: "4686503"
 slug: "3-feet-high-and-rising-4686503"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "3 Feet High And Rising by De La Soul"
     caption: "3 Feet High And Rising by De La Soul"
 genres: ["Hip Hop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Intro (2:17)
 2. The Magic Number (3:14)
@@ -37,17 +38,20 @@ styles: null
 21. This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) (3:16)
 22. I Can Do Anything (Delacratic) (0:40)
 23. D.A.I.S.Y. Age (3:58)
+
+
 ## Spotify
 {{< spotify type="album" id="34LxHI9x14qXUOS8AWRrYD" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}
+{{< youtube id="3wYtCyAKbzE" title="De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)" >}}
+- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
 - [De La Soul - The Magic Number (Official Audio)](https://www.youtube.com/watch?v=0Yy7A74o8gQ)
 - [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
 - [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
 - [De La Soul - Can U Keep a Secret (Official Audio)](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
-- [De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)](https://www.youtube.com/watch?v=3wYtCyAKbzE)
-- [De La Soul - Ghetto Thang (Official Audio)](https://www.youtube.com/watch?v=ANZDkJ_yp0s)
 - [De La Soul - Transmitting Live from Mars (Official Audio)](https://www.youtube.com/watch?v=7nFCOYP1Tow)
 - [De La Soul - Eye Know (Official Audio) ft. Otis Redding](https://www.youtube.com/watch?v=_q9T41DV18A)
 - [De La Soul - Take It Off (Official Audio)](https://www.youtube.com/watch?v=czF8wntVIUI)
@@ -58,7 +62,6 @@ styles: null
 - [De La Soul - Do as De La Does (Official Audio)](https://www.youtube.com/watch?v=xo2-GVRNEro)
 - [De La Soul - Plug Tunin' (Last Chance to Comprehend) (Official Audio)](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
 - [De La Soul - De La Orgee (Official Audio)](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
-- [De La Soul - Buddy (Official Audio) ft. Q-Tip, Jungle Brothers](https://www.youtube.com/watch?v=WX6G6sODMrQ)
 - [De La Soul - Description (Official Audio)](https://www.youtube.com/watch?v=t4h0SHmj9xY)
 - [De La Soul - Me Myself and I (Official Audio)](https://www.youtube.com/watch?v=fG9lFewfGEs)
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
@@ -70,8 +73,9 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/4686503-De-La-Soul-3-Feet-High-And-Rising) |
-| Label          | Rhino Records, Tommy Boy |
-| Format         | 2xLP, Album, RE |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | R1-81019 |
 
-Black Vinyl Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label.
+Black Vinyl
+Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label.

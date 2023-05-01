@@ -2,7 +2,7 @@
 title: "Gary Numan - Savage: Songs From A Broken World"
 artist: "Gary Numan"
 album_name: "Savage: Songs From A Broken World"
-date: 2017-09-15
+date: 2017-09-15T14:06:05.000000Z
 release_id: "10858288"
 slug: "savage-songs-from-a-broken-world-10858288"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial"]
 ---
+
 ## Tracklisting
 1. Ghost Nation
 2. Bed Of Thorns
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Industrial"]
 10. Pray For The Pain You Serve
 11. Broken
 12. Cold
+
+
 ## Spotify
 {{< spotify type="album" id="3kMfsD07Q32HRWKRrpcexr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="r36v1grp3I0" title="Gary Numan - Ghost Nation (Official Audio)" >}}
@@ -49,7 +54,11 @@ styles: ["Alternative Rock", "Industrial"]
 | Release Year   | 2017 |
 | Discogs Link   | [Gary Numan - Savage: Songs From A Broken World](https://www.discogs.com/release/10858288-Gary-Numan-Savage-Songs-From-A-Broken-World) |
 | Label          | BMG |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album Stereo |
 | Catalog Number | 538307451 |
 
-Gatefold Sleeve.  Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.  ℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited.
+Gatefold Sleeve.
+
+Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.
+
+℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited.

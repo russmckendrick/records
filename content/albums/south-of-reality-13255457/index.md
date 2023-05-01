@@ -2,7 +2,7 @@
 title: "The Claypool Lennon Delirium - South Of Reality"
 artist: "The Claypool Lennon Delirium"
 album_name: "South Of Reality"
-date: 2019-02-26
+date: 2019-02-26T18:17:45.000000Z
 release_id: "13255457"
 slug: "south-of-reality-13255457"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Little Fishes (6:06)
 2. Blood And Rockets (6:30)
@@ -23,8 +24,12 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 7. Toady Man's Hour (3:13)
 8. Cricket Chronicles Revisited (6:23)
 9. Like Fleas (3:32)
+
+
 ## Spotify
 {{< spotify type="album" id="3KiA7e7NDRMKecw7YGVkZK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XcOHiGonWwU" title="The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo..." >}}
@@ -37,8 +42,6 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [The Claypool Lennon Delirium - South Of Reality](https://www.discogs.com/release/13255457-The-Claypool-Lennon-Delirium-South-Of-Reality) |
-| Label          | Prawn Song, Chimera Music |
-| Format         | 2xLP, Album, Pin |
+| Label          | Prawn Song |
+| Format         | Vinyl 2× LP Album (Pink) |
 | Catalog Number | ATO 0445LP |
-
-

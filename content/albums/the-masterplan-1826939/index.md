@@ -2,7 +2,7 @@
 title: "Oasis - The Masterplan"
 artist: "Oasis"
 album_name: "The Masterplan"
-date: 2017-04-22
+date: 2017-04-22T09:59:49.000000Z
 release_id: "1826939"
 slug: "the-masterplan-1826939"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
+
 ## Tracklisting
 1. Acquiesce (4:24)
 2. Underneath The Sky (3:21)
@@ -28,17 +29,24 @@ styles: ["Britpop"]
 12. Stay Young (5:05)
 13. Headshrinker (4:38)
 14. The Masterplan (5:22)
-## Spotify
-{{< spotify type="album" id="15D0D1mafSX8Vx5a7w2ZR4" width="100%" height="500" >}}
 
+
+
+
+## Videos
+{{< youtube id="dPPi2D6GK7A" title="Oasis - The Masterplan" >}}
+- [Oasis - The Masterplan - 1998 (FULL ALBUM)](https://www.youtube.com/watch?v=jFMtTIh1zjM)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1998 |
 | Discogs Link   | [Oasis - The Masterplan](https://www.discogs.com/release/1826939-Oasis-The-Masterplan) |
-| Label          | Creation Records, Creation Records |
-| Format         | 2xLP, Comp |
-| Catalog Number | CRELP 241, CRELP241 |
+| Label          | Creation Records |
+| Format         | Vinyl 2× LP Compilation |
+| Catalog Number | CRELP 241 |
 
-Gatefold sleeve. Track durations not shown on release. Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'. ℗ & © 1998 Creation Records Ltd. 
+Gatefold sleeve.
+Track durations not shown on release.
+Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.
+℗ & © 1998 Creation Records Ltd. 

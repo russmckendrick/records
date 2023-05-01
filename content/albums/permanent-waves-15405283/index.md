@@ -2,7 +2,7 @@
 title: "Rush - Permanent Waves"
 artist: "Rush"
 album_name: "Permanent Waves"
-date: 2020-06-01
+date: 2020-06-01T13:33:53.000000Z
 release_id: "15405283"
 slug: "permanent-waves-15405283"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Original Album
 2. The Spirit Of Radio (4:54)
@@ -34,8 +35,11 @@ styles: ["Prog Rock", "Hard Rock"]
 18. Closer To The Heart (Live In Manchester)
 19. Jacob’s Ladder (Live In Missouri)
 20. Freewill (Live In London)
+
+
 ## Spotify
 {{< spotify type="album" id="3nUNxSh2szhmN7iifAKv5i" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -43,8 +47,19 @@ styles: ["Prog Rock", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Rush - Permanent Waves](https://www.discogs.com/release/15405283-Rush-Permanent-Waves) |
-| Label          | Mercury, Anthem |
-| Format         | 3xLP, Album, RE, RM + Dlx |
+| Label          | Mercury |
+| Format         | Vinyl 3× LP Album Reissue Remastered, All Media Deluxe Edition |
 | Catalog Number | 00602508607257 |
 
-Slipcase packing containing: - Permanent Waves Album  - Single cover with printed insert - Permanent Waves World Tour 1980 - Gatefold cover - LP sized softcover booklet  Sticker on shrink wrap: 40th Anniversary Edition 3LPS - 180-Gram AudioPhile Vinyl Original Album + Permanent Waves World Tour 1980 12 Unreleased Live Performances Designed By Hugh Syme With Unreleased Illustrations And Photos
+Slipcase packing containing:
+- Permanent Waves Album  - Single cover with printed insert
+- Permanent Waves World Tour 1980 - Gatefold cover
+- LP sized softcover booklet
+
+Sticker on shrink wrap:
+40th Anniversary Edition
+3LPS - 180-Gram AudioPhile Vinyl
+Original Album + Permanent Waves World Tour 1980
+12 Unreleased Live Performances
+Designed By Hugh Syme
+With Unreleased Illustrations And Photos

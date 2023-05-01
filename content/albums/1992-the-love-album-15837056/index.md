@@ -2,7 +2,7 @@
 title: "Carter The Unstoppable Sex Machine - 1992 The Love Album"
 artist: "Carter The Unstoppable Sex Machine"
 album_name: "1992 The Love Album"
-date: 2020-09-03
+date: 2020-09-03T12:30:52.000000Z
 release_id: "15837056"
 slug: "1992-the-love-album-15837056"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. 1993
 2. Is Wrestling Fixed?
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "Indie Rock"]
 8. While You Were Out
 9. Skywest And Crooked
 10. The Impossible Dream
+
+
 ## Spotify
 {{< spotify type="album" id="11KRUBEB5YIfrGJuNmonn1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="37j36VPkm-w" title="Carter USM - is wrestling fixed?" >}}
@@ -42,7 +47,11 @@ styles: ["Synth-pop", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Carter The Unstoppable Sex Machine - 1992 The Love Album](https://www.discogs.com/release/15837056-Carter-The-Unstoppable-Sex-Machine-1992-The-Love-Album) |
 | Label          | Chrysalis |
-| Format         | LP, Album, RSD, Ltd, Pic |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc |
 | Catalog Number | CHRP 1946 |
 
- RSD UK August 2020 release limited to 750 copies.  Track B4 - words from 'The Man From La Mancha', © Dale Wasserman.  Track B5 - published by Carlin Music Corp.
+ RSD UK August 2020 release limited to 750 copies.
+
+Track B4 - words from 'The Man From La Mancha', © Dale Wasserman.
+
+Track B5 - published by Carlin Music Corp.

@@ -2,7 +2,7 @@
 title: "Cindy Wilson - Change"
 artist: "Cindy Wilson"
 album_name: "Change"
-date: 2017-12-11
+date: 2017-12-11T19:45:25.000000Z
 release_id: "11218880"
 slug: "change-11218880"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Deep Techno"]
 ---
+
 ## Tracklisting
 1. People Are Asking
 2. Stand Back Time
@@ -24,8 +25,12 @@ styles: ["Deep Techno"]
 8. On The Inside
 9. Brother
 10. Memory
+
+
 ## Spotify
-{{< spotify type="album" id="4qxJOPKqiYrmBgKxO0KJLO" width="100%" height="500" >}}
+{{< spotify type="album" id="1aunDVNDmrnIfmYklDAouX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qRYxvzS5BS4" title="Cindy Wilson - Mystic (from Change)" >}}
@@ -39,7 +44,5 @@ styles: ["Deep Techno"]
 | Release Year   | 2017 |
 | Discogs Link   | [Cindy Wilson - Change](https://www.discogs.com/release/11218880-Cindy-Wilson-Change) |
 | Label          | Kill Rock Stars |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | KRS642 |
-
-

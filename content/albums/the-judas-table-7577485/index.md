@@ -2,7 +2,7 @@
 title: "Antimatter - The Judas Table"
 artist: "Antimatter"
 album_name: "The Judas Table"
-date: 2016-01-18
+date: 2016-01-18T18:40:52.000000Z
 release_id: "7577485"
 slug: "the-judas-table-7577485"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Black Eyed Man (6:24)
 2. Killer (5:37)
@@ -24,8 +25,9 @@ styles: ["Prog Rock"]
 8. Integrity (6:45)
 9. The Judas Table (7:21)
 10. Goodbye (2:32)
-## Spotify
-{{< spotify type="album" id="3jUxd16znyh4MF0sfFzPng" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="e06YDLbTNZA" title="Antimatter - Stillborn Empires [official music video]" >}}
@@ -43,7 +45,7 @@ styles: ["Prog Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Antimatter - The Judas Table](https://www.discogs.com/release/7577485-Antimatter-The-Judas-Table) |
 | Label          | Prophecy Productions |
-| Format         | LP + LP, S/Sided + Album, Ltd |
+| Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Limited Edition |
 | Catalog Number | PRO 184LP |
 
 Gatefold 2LP (180g vinyl) incl. poster and PVC protection sleeve (500 copies available)

@@ -2,7 +2,7 @@
 title: "Kandace Springs - Indigo"
 artist: "Kandace Springs"
 album_name: "Indigo"
-date: 2018-09-28
+date: 2018-09-28T11:59:37.000000Z
 release_id: "12500626"
 slug: "indigo-12500626"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Indigo by Kandace Springs"
     caption: "Indigo by Kandace Springs"
 genres: ["Jazz"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Don't Need The Real Thing (3:26)
 2. Breakdown   (3:19)
@@ -27,8 +28,12 @@ styles: null
 11. Love Sucks (3:55)
 12. The First Time Ever I Saw Your Face (5:40)
 13. Simple Things  (3:42)
+
+
 ## Spotify
 {{< spotify type="album" id="3KJDc381jm06rWww5E45or" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="EaQwTZmJywg" title="Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]" >}}
@@ -58,7 +63,7 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Kandace Springs - Indigo](https://www.discogs.com/release/12500626-Kandace-Springs-Indigo) |
 | Label          | Blue Note |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | B002872101 |
 
 Single pocket sleeve with double-sided insert with photo and album credits.

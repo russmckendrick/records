@@ -2,7 +2,7 @@
 title: "The Slackers - Peculiar"
 artist: "The Slackers"
 album_name: "Peculiar"
-date: 2019-06-11
+date: 2019-06-11T17:48:00.000000Z
 release_id: "13689689"
 slug: "peculiar-13689689"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Reggae", "Ska"]
 ---
+
 ## Tracklisting
 1. First Act
 2. 86 The Mayo
@@ -31,8 +32,12 @@ styles: ["Reggae", "Ska"]
 15. Encore 7"
 16. Rider
 17. Propaganda Dub
+
+
 ## Spotify
 {{< spotify type="album" id="4U3UTvMSHfCoXb3qltKEHn" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_3IU39RVIV8" title="The Slackers - Peculiar (Full Album)" >}}
@@ -43,7 +48,10 @@ styles: ["Reggae", "Ska"]
 | Release Year   | 2019 |
 | Discogs Link   | [The Slackers - Peculiar](https://www.discogs.com/release/13689689-The-Slackers-Peculiar) |
 | Label          | Pirates Press Records |
-| Format         | LP, Album, RE, Blu + 7\" |
+| Format         | Vinyl LP Album Reissue (Blue Electric & White Galaxy), Vinyl 7" 45 RPM |
 | Catalog Number | PPR231-1 |
 
-Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".  Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios. Additional overdubs recorded in Los Angeles.
+Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".
+
+Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios.
+Additional overdubs recorded in Los Angeles.

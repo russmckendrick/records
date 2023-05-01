@@ -2,7 +2,7 @@
 title: "Phil Collins - The Singles"
 artist: "Phil Collins"
 album_name: "The Singles"
-date: 2017-01-06
+date: 2017-01-06T19:25:23.000000Z
 release_id: "9196545"
 slug: "the-singles-9196545"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
+
 ## Tracklisting
 1. Easy Lover (5:03)
 2. Two Hearts (3:24)
@@ -47,12 +48,22 @@ styles: ["Pop Rock", "Ballad"]
 31. Look Through My Eyes (4:00)
 32. Another Day In Paradise (5:23)
 33. Take Me Home (5:53)
+
+
 ## Spotify
 {{< spotify type="album" id="7yZHLfxqiGPbSQLrVJljah" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}
 - [Phil Collins - In The Air Tonight (Official Music Video)](https://www.youtube.com/watch?v=YkADj0TPrJA)
+- [Phil Collins - A Groovy Kind Of Love (Official Music Video)](https://www.youtube.com/watch?v=HsC_SARyPzk)
+- [Phil Collins - Two Hearts (Official Music Video)](https://www.youtube.com/watch?v=SidxJz94Svs)
+- [Phil Collins - Do You Remember? (Official Music Video)](https://www.youtube.com/watch?v=hhfx1MdjnZc)
+- [Phil Collins - I Wish It Would Rain Down (Official Music Video)](https://www.youtube.com/watch?v=YcY3FH208l8)
+- [Phil Collins - Dance Into The Light (Official Music Video)](https://www.youtube.com/watch?v=tZnD6HqCKZI)
+- [Phil Collins - Something Happened On The Way To Heaven (Official Music Video)](https://www.youtube.com/watch?v=CKrGj73OsAY)
 
 ## Notes
 | Notes          |             |
@@ -60,7 +71,11 @@ styles: ["Pop Rock", "Ballad"]
 | Release Year   | 2016 |
 | Discogs Link   | [Phil Collins - The Singles](https://www.discogs.com/release/9196545-Phil-Collins-The-Singles) |
 | Label          | Atlantic |
-| Format         | 4xLP, Comp, RM + Box |
+| Format         | Vinyl 4× LP Compilation Remastered, Box Set |
 | Catalog Number | 081227945909 |
 
-Includes 20 page high gloss book with photos and song info.  For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'  Half speed mastering and pressing plant uncredited, identified by runout.
+Includes 20 page high gloss book with photos and song info.
+
+For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'
+
+Half speed mastering and pressing plant uncredited, identified by runout.

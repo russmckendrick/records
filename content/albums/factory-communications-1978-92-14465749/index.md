@@ -2,7 +2,7 @@
 title: "Various - Factory Communications 1978-92"
 artist: "Various"
 album_name: "Factory Communications 1978-92"
-date: 2020-06-17
+date: 2020-06-17T10:37:41.000000Z
 release_id: "14465749"
 slug: "factory-communications-1978-92-14465749"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. 1 1978 - 79
 2. Digital (2:51)
@@ -93,8 +94,12 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 77. Moves Like You (Remix) (6:30)
 78. Tasty Fish (3:48)
 79. Sunshine And Love (Lionrock Remix) (7:17)
+
+
 ## Spotify
 {{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9qgFGqJz9yc" title="Joy Division - Digital" >}}
@@ -125,7 +130,15 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 | Release Year   | 2019 |
 | Discogs Link   | [Various - Factory Communications 1978-92](https://www.discogs.com/release/14465749-Various-Factory-Communications-1978-92) |
 | Label          | Warner Music |
-| Format         | 8xLP, RE, 180 + Box, Comp |
+| Format         | Vinyl 8× LP Reissue (180g), Box Set Compilation |
 | Catalog Number | 0190295663841 |
 
-Housed in a cardboard box with 40 page booklet. Cat. # printed on all labels.  Track A5: The version used here is the 12" version FACUS 2 released August 1980. Track A6: On the single Finney and Perrin are credited as writers. Track B3: Duration on the 12" 10:11, here is fading out.   Track F1: On the 12" Royal Family And The Poor (The Poor) are also credited as producers.  [a=John Davis (4)] cut is directly credited on booklet and his signature (JD) is etched on side A
+Housed in a cardboard box with 40 page booklet.
+Cat. # printed on all labels.
+
+Track A5: The version used here is the 12" version FACUS 2 released August 1980.
+Track A6: On the single Finney and Perrin are credited as writers.
+Track B3: Duration on the 12" 10:11, here is fading out.  
+Track F1: On the 12" Royal Family And The Poor (The Poor) are also credited as producers.
+
+[a=John Davis (4)] cut is directly credited on booklet and his signature (JD) is etched on side A

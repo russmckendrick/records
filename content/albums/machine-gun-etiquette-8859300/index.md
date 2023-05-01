@@ -2,7 +2,7 @@
 title: "The Damned - Machine Gun Etiquette"
 artist: "The Damned"
 album_name: "Machine Gun Etiquette"
-date: 2023-02-05
+date: 2023-02-05T09:50:08.000000Z
 release_id: "8859300"
 slug: "machine-gun-etiquette-8859300"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Love Song (2:22)
 2. Machine Gun Etiquette (1:48)
@@ -26,8 +27,12 @@ styles: ["Punk"]
 10. Liar (2:39)
 11. Smash It Up (Part 1) (1:56)
 12. Smash It Up (Part 2) (2:50)
+
+
 ## Spotify
 {{< spotify type="album" id="1lvAASyHZrOQ04lowYjWEC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6gqxFAqCRYQ" title="Machine Gun Etiquette" >}}
@@ -45,8 +50,9 @@ styles: ["Punk"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [The Damned - Machine Gun Etiquette](https://www.discogs.com/release/8859300-The-Damned-Machine-Gun-Etiquette) |
-| Label          | Ace, Chiswick Records |
-| Format         | LP, Album, RE |
+| Label          | Ace |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | WIKD 333 |
 
-Comes with an illustrated printed inner sleeve. 
+Comes with an illustrated printed inner sleeve.
+

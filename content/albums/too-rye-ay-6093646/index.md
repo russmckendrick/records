@@ -1,18 +1,19 @@
 ---
-title: "Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay"
-artist: "Kevin Rowland & Dexys Midnight Runners"
+title: "Kevin Rowland - Too-Rye-Ay"
+artist: "Kevin Rowland"
 album_name: "Too-Rye-Ay"
-date: 2018-04-24
+date: 2018-04-24T05:53:52.000000Z
 release_id: "6093646"
 slug: "too-rye-ay-6093646"
 hideSummary: true
 cover:
     image: "too-rye-ay-6093646.jpg"
-    alt: "Too-Rye-Ay by Kevin Rowland & Dexys Midnight Runners"
-    caption: "Too-Rye-Ay by Kevin Rowland & Dexys Midnight Runners"
+    alt: "Too-Rye-Ay by Kevin Rowland"
+    caption: "Too-Rye-Ay by Kevin Rowland"
 genres: ["Pop", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Celtic Soul Brothers
 2. Let's Make This Precious
@@ -24,6 +25,9 @@ styles: null
 8. Liars A To E
 9. Until I Believe In My Soul
 10. Come On Eileen
+
+
+
 
 ## Videos
 {{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}
@@ -56,9 +60,7 @@ styles: null
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
-| Discogs Link   | [Kevin Rowland & Dexys Midnight Runners - Too-Rye-Ay](https://www.discogs.com/release/6093646-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay) |
-| Label          | Mercury, Mercury |
-| Format         | LP, Album, RE |
-| Catalog Number | 3789427, 378 942-7 |
-
-
+| Discogs Link   | [Kevin Rowland - Too-Rye-Ay](https://www.discogs.com/release/6093646-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay) |
+| Label          | Mercury |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | 3789427 |

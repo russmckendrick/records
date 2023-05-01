@@ -2,7 +2,7 @@
 title: "Prong - Cleansing"
 artist: "Prong"
 album_name: "Cleansing"
-date: 2018-10-12
+date: 2018-10-12T20:02:23.000000Z
 release_id: "12465172"
 slug: "cleansing-12465172"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Groove Metal", "Industrial Metal"]
 ---
+
 ## Tracklisting
 1. Another Worldly Device
 2. Whose Fist Is This Anyway?
@@ -26,8 +27,12 @@ styles: ["Groove Metal", "Industrial Metal"]
 10. Home Rule
 11. Sublime
 12. Test
+
+
 ## Spotify
 {{< spotify type="album" id="1RmsgRJnBFyRMAVl1NW9pO" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Cl-5TrGakWY" title="Prong - Snap your fingers, snap your neck" >}}
@@ -42,8 +47,8 @@ styles: ["Groove Metal", "Industrial Metal"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Prong - Cleansing](https://www.discogs.com/release/12465172-Prong-Cleansing) |
-| Label          | The Century Family Inc., RED MUSIC, Epic, Legacy |
-| Format         | LP, Album, Ltd, RE |
+| Label          | The Century Family Inc. |
+| Format         | Vinyl LP Album Limited Edition Reissue |
 | Catalog Number | 19075828161 |
 
 Sequentially numbered tracks

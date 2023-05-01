@@ -2,7 +2,7 @@
 title: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals"
 artist: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
 album_name: "Viscerals"
-date: 2020-04-09
+date: 2020-04-09T16:44:54.000000Z
 release_id: "15030578"
 slug: "viscerals-15030578"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Reducer
 2. Rubbernecker
@@ -22,8 +23,12 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 6. Crazy In Blood
 7. Halloween Bolson
 8. Hell's Teeth
+
+
 ## Spotify
 {{< spotify type="album" id="15CVkItclaGrn0xLr16Qw0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dsn9leb4ZSc" title="Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer" >}}
@@ -39,8 +44,9 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals](https://www.discogs.com/release/15030578-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Viscerals) |
-| Label          | Rocket Recordings, Rocket Recordings |
-| Format         | LP, Album, Ltd, Blo |
-| Catalog Number | LAUNCH184, LAUNCH184S |
+| Label          | Rocket Recordings |
+| Format         | Vinyl LP Album Limited Edition (Blood And Guts) |
+| Catalog Number | LAUNCH184 |
 
-Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive) Comes with printed inner sleeves and Bandcamp download code.
+Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive)
+Comes with printed inner sleeves and Bandcamp download code.

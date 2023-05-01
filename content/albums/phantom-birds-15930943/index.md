@@ -2,7 +2,7 @@
 title: "Matt Berry - Phantom Birds"
 artist: "Matt Berry"
 album_name: "Phantom Birds"
-date: 2020-09-18
+date: 2020-09-18T11:11:39.000000Z
 release_id: "15930943"
 slug: "phantom-birds-15930943"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Funk / Soul", "Blues"]
 styles: ["Psychedelic", "Easy Listening"]
 ---
+
 ## Tracklisting
 1. Something In My Eye
 2. You Danced All Night
@@ -27,8 +28,9 @@ styles: ["Psychedelic", "Easy Listening"]
 11. That Yellow Bird
 12. Waving Goodbye
 13. Covered In Clowns
-## Spotify
-{{< spotify type="album" id="1LZIZ0kLVAv4DZT2Nq00pI" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="fSEOOB3-gqQ" title="Something In My Eye" >}}
@@ -51,7 +53,7 @@ styles: ["Psychedelic", "Easy Listening"]
 | Release Year   | 2020 |
 | Discogs Link   | [Matt Berry - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-Phantom-Birds) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Ltd, Bon |
+| Format         | Vinyl LP Album Limited Edition (Bone) |
 | Catalog Number | AJXLP536B |
 
 Limited edition, first release on bone coloured vinyl. Initial copies that were preodered had the option to be signed by Matt himself.

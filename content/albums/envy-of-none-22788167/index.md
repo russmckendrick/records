@@ -2,7 +2,7 @@
 title: "Envy Of None - Envy Of None"
 artist: "Envy Of None"
 album_name: "Envy Of None"
-date: 2022-04-07
+date: 2022-04-07T04:04:26.000000Z
 release_id: "22788167"
 slug: "envy-of-none-22788167"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Never Said I Love You
 2. Shadow
@@ -25,8 +26,12 @@ styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 9. Dumb
 10. Enemy
 11. Western Sunset
+
+
 ## Spotify
 {{< spotify type="album" id="23Iuy4cXEOCOdmbnkb8ZIy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Yp8q2mMoa7k" title="Never Said I Love You" >}}
@@ -48,7 +53,10 @@ styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Envy Of None - Envy Of None](https://www.discogs.com/release/22788167-Envy-Of-None-Envy-Of-None) |
 | Label          | Kscope |
-| Format         | LP, Album, Ltd, Whi |
+| Format         | Vinyl LP Album Limited Edition (White) |
 | Catalog Number | 1164 |
 
-Catalogue number appears on a sticker only Comes with an inner sleeve and an advertising sheet. '1+' and '3+' in runouts appear backwards (mirror image). Runouts are etched.
+Catalogue number appears on a sticker only
+Comes with an inner sleeve and an advertising sheet.
+'1+' and '3+' in runouts appear backwards (mirror image).
+Runouts are etched.

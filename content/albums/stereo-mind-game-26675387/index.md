@@ -2,7 +2,7 @@
 title: "Daughter - Stereo Mind Game"
 artist: "Daughter"
 album_name: "Stereo Mind Game"
-date: 2023-04-23
+date: 2023-04-23T04:35:10.000000Z
 release_id: "26675387"
 slug: "stereo-mind-game-26675387"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Intro
 2. Be On Your Way
@@ -27,8 +28,8 @@ styles: ["Indie Rock"]
 11. To Rage
 12. Wish I Could Cross The Sea
 
-## Spotify
-{{< spotify type="album" id="6xzsQpZtlqLFxmO1GeM7Cf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4O-Jg8Bp67s" title="Daughter - To Rage (Official Lyric Video)" >}}
@@ -50,7 +51,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [Daughter - Stereo Mind Game](https://www.discogs.com/release/26675387-Daughter-Stereo-Mind-Game) |
 | Label          | 4AD |
-| Format         | LP, Album, Ltd, Col |
+| Format         | Vinyl LP Album Limited Edition (Coloured Eco-Vinyl) |
 | Catalog Number | 4AD0512LPE |
 
 The tracks are numbered sequentially, 1 to 12, on the release.

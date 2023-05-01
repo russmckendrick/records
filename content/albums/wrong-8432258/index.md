@@ -2,7 +2,7 @@
 title: "Cleft - Wrong"
 artist: "Cleft"
 album_name: "Wrong"
-date: 2016-05-21
+date: 2016-05-21T11:02:07.000000Z
 release_id: "8432258"
 slug: "wrong-8432258"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Math Rock"]
 ---
+
 ## Tracklisting
 1. Frankenstein (3:13)
 2. D.O.N.G. 808 (3:55)
@@ -26,8 +27,12 @@ styles: ["Math Rock"]
 10. David (2:42)
 11. Desperate Elvis (2:51)
 12. Dohmlette (5:36)
+
+
 ## Spotify
 {{< spotify type="album" id="62TA9DCwZOhoNMtuHREGtd" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="RvnQpW_Vw6E" title="Cleft - Wrong [Full Album]" >}}
@@ -38,7 +43,9 @@ styles: ["Math Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Cleft - Wrong](https://www.discogs.com/release/8432258-Cleft-Wrong) |
 | Label          | Mega Face Records |
-| Format         | LP, Album, Blu |
+| Format         | Vinyl LP Album Stereo (Blue Splatter) |
 | Catalog Number | MFR06 |
 
-Recorded at The Grand Studios (Clitheroe), Noiseboy Studios (Salford), Edge Recording Studio (Cheshire), Chairworks (Castleford) in the UK.  Artwork by Jessica Wild. Engineering by Tom Peters (1,6,9), Chris Taylor (2,3,4,5,7,10), Mark Winterburn (8,11), David Watts (12). Mixed by Cleft and mastered by Tom Peters at The Grand.
+Recorded at The Grand Studios (Clitheroe), Noiseboy Studios (Salford), Edge Recording Studio (Cheshire), Chairworks (Castleford) in the UK.
+
+Artwork by Jessica Wild. Engineering by Tom Peters (1,6,9), Chris Taylor (2,3,4,5,7,10), Mark Winterburn (8,11), David Watts (12). Mixed by Cleft and mastered by Tom Peters at The Grand.

@@ -2,7 +2,7 @@
 title: "The Sea Nymphs - On The Dry Land"
 artist: "The Sea Nymphs"
 album_name: "On The Dry Land"
-date: 2016-11-09
+date: 2016-11-09T20:12:25.000000Z
 release_id: "9329840"
 slug: "on-the-dry-land-9329840"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Classical", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. After (2:14)
 2. Eating A Heart Out (2:50)
@@ -30,6 +31,9 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 14. A Kind Of Keeper (1:24)
 15. Wanky (2:25)
 
+
+
+
 ## Videos
 {{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}
 
@@ -39,7 +43,9 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Sea Nymphs - On The Dry Land](https://www.discogs.com/release/9329840-The-Sea-Nymphs-On-The-Dry-Land) |
 | Label          | The Alphabet Business Concern |
-| Format         | LP, Album, Ltd, Num, RE |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Catalog Number | ALPH LP 032 |
 
-Limited to 200 numbered, stickered copies.  Includes download card.
+Limited to 200 numbered, stickered copies.
+
+Includes download card.

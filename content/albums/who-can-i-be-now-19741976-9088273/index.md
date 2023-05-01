@@ -2,7 +2,7 @@
 title: "David Bowie - Who Can I Be Now? [ 1974–1976 ]"
 artist: "David Bowie"
 album_name: "Who Can I Be Now? [ 1974–1976 ]"
-date: 2016-09-23
+date: 2016-09-23T16:25:51.000000Z
 release_id: "9088273"
 slug: "who-can-i-be-now-19741976-9088273"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Pop Rock", "Glam", "Soul"]
 ---
+
 ## Tracklisting
 1. Diamond Dogs (2016 Remaster)
 2. Future Legend (1:00)
@@ -129,13 +130,22 @@ styles: ["Pop Rock", "Glam", "Soul"]
 113. John, I'm Only Dancing (Again) (1975) (Single Version) (3:26)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [David Bowie - Who Can I Be Now? [ 1974–1976 ]](https://www.discogs.com/release/9088273-David-Bowie-Who-Can-I-Be-Now-19741976-) |
-| Label          | Parlophone, Parlophone |
-| Format         | Box, Comp + LP, Album, RE, RM + 2xLP, Album, RE, R |
-| Catalog Number | 0190295989835, DBXL2 |
+| Label          | Parlophone |
+| Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Compilation |
+| Catalog Number | 0190295989835 |
 
-℗ 2016 The copyright in this compilation is owned by Parlophone Records Lt. © 2016 Jones/Tintoretto Entertainment Company LLC This box set includes an 84 page book featuring previously unpublished photos. The first 50 copies ordered from the official David Bowie website came with a slip mat featuring the box cover.  "The Gouster" is previously unreleased as a complete album, it was recorded at Sigma Sound, Philadelphia in 1974. It contains three previously unreleased mixes: "Right", "Can You Hear Me", and "Somebody Up There Likes Me". The version of "Young Americans" on The Gouster is the same mix as the version on the Young Americans album, but with a different mastering.  For the album "Live Nassau Coliseum '76" the stampers made with lacquer cuts done by [a276851] at [l217694] from the box set [r=2462207] were used. 
+℗ 2016 The copyright in this compilation is owned by Parlophone Records Lt. © 2016 Jones/Tintoretto Entertainment Company LLC
+This box set includes an 84 page book featuring previously unpublished photos.
+The first 50 copies ordered from the official David Bowie website came with a slip mat featuring the box cover.
+
+"The Gouster" is previously unreleased as a complete album, it was recorded at Sigma Sound, Philadelphia in 1974. It contains three previously unreleased mixes: "Right", "Can You Hear Me", and "Somebody Up There Likes Me". The version of "Young Americans" on The Gouster is the same mix as the version on the Young Americans album, but with a different mastering.
+
+For the album "Live Nassau Coliseum '76" the stampers made with lacquer cuts done by [a276851] at [l217694] from the box set [r=2462207] were used.
+

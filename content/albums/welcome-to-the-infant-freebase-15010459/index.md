@@ -2,7 +2,7 @@
 title: "The Soundtrack Of Our Lives - Welcome To The Infant Freebase"
 artist: "The Soundtrack Of Our Lives"
 album_name: "Welcome To The Infant Freebase"
-date: 2020-04-09
+date: 2020-04-09T11:18:28.000000Z
 release_id: "15010459"
 slug: "welcome-to-the-infant-freebase-15010459"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Mantra Slider
 2. Firmament Vacation (A Soundtrack Of Our Lives)
@@ -35,6 +36,9 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 19. Theme From Hållö
 20. Legend In His Own Mind
 
+
+
+
 ## Videos
 {{< youtube id="2v6TpXXyIgE" title="The Soundtrack Of Our Lives - Embryonic Rendezvous" >}}
 - [The Soundtrack Of Our Lives - Instant Repeater '99](https://www.youtube.com/watch?v=_iBLe6o4a8U)
@@ -46,7 +50,14 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [The Soundtrack Of Our Lives - Welcome To The Infant Freebase](https://www.discogs.com/release/15010459-The-Soundtrack-Of-Our-Lives-Welcome-To-The-Infant-Freebase) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, RE, Gol |
+| Format         | Vinyl 2× LP Album Reissue (Gold ) |
 | Catalog Number | MOVLP2645 |
 
-Music On Vinyl THE SOUNDTRACK OF OUR LIVES ”Welcome to The Infant Freebase” Limited Edition of 1500 Gold Coloured Copies” Individually numbered Includes Insert 180 gram audiophile vinyl  Gatefold sleeve.
+Music On Vinyl
+THE SOUNDTRACK OF OUR LIVES
+”Welcome to The Infant Freebase”
+Limited Edition of 1500 Gold Coloured Copies”
+Individually numbered
+Includes Insert
+180 gram audiophile vinyl 
+Gatefold sleeve.

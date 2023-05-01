@@ -2,7 +2,7 @@
 title: "The Levellers - Levelling The Land 25th Anniversary Edition"
 artist: "The Levellers"
 album_name: "Levelling The Land 25th Anniversary Edition"
-date: 2016-11-30
+date: 2016-11-30T20:59:28.000000Z
 release_id: "9365189"
 slug: "levelling-the-land-25th-anniversary-edition-9365189"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. One Way
 2. The Game
@@ -80,6 +81,9 @@ styles: ["Alternative Rock", "Folk Rock"]
 64. Police On My Back
 65. Where The Hell Are We Going To Live
 
+
+
+
 ## Videos
 {{< youtube id="x25Y01K0VtU" title="Far from Home (Remastered Version)" >}}
 - [Another Man's Cause (Remastered Version)](https://www.youtube.com/watch?v=fiDsuG_LIno)
@@ -96,7 +100,5 @@ styles: ["Alternative Rock", "Folk Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Levellers - Levelling The Land 25th Anniversary Edition](https://www.discogs.com/release/9365189-The-Levellers-Levelling-The-Land-25th-Anniversary-Edition) |
 | Label          | On The Fiddle Recordings |
-| Format         | Box, Album, Ltd + 2x12\", Album, S/Edition, Blu + 2 |
+| Format         | Box Set Album Limited Edition, Vinyl 2× 12" 33 ⅓ RPM Album Special Edition (Blue Vinyl), CD 2× Album, DVD Album, Vinyl 7" Limited Edition |
 | Catalog Number | OTFLP023XX |
-
-

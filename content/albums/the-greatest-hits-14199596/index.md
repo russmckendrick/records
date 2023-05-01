@@ -2,7 +2,7 @@
 title: "Thunder - The Greatest Hits"
 artist: "Thunder"
 album_name: "The Greatest Hits"
-date: 2019-12-24
+date: 2019-12-24T13:17:21.000000Z
 release_id: "14199596"
 slug: "the-greatest-hits-14199596"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
+
 ## Tracklisting
 1. Dirty Love (5:22)
 2. Love Walked In (6:22)
@@ -42,8 +43,9 @@ styles: ["Hard Rock"]
 26. Future Train (2019 Version) (6:08)
 27. Low Life In High Places (2019 Version) (5:45)
 28. Your Time Is Gonna Come (4:26)
-## Spotify
-{{< spotify type="album" id="1MryaOV5bOLLZPIqMGnfwR" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}
@@ -55,7 +57,13 @@ styles: ["Hard Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |
 | Label          | BMG |
-| Format         | 3xLP, Comp, Ltd |
+| Format         | Vinyl 3× LP Compilation Limited Edition Stereo |
 | Catalog Number | BMGCAT386TLP |
 
-ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music.
+ALL KILLER, NO FILLER.
+
+Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website. 
+
+Durations do not appear on this release.  Timings via stopwatch.
+
+Online sales expertise: Bruce McKenzie, Townsend Music.

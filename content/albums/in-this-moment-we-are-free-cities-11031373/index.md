@@ -2,7 +2,7 @@
 title: "Vuur - In This Moment We Are Free - Cities"
 artist: "Vuur"
 album_name: "In This Moment We Are Free - Cities"
-date: 2017-10-21
+date: 2017-10-21T15:09:36.000000Z
 release_id: "11031373"
 slug: "in-this-moment-we-are-free-cities-11031373"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
+
 ## Tracklisting
 1. My Champion - Berlin
 2. Time - Rotterdam
@@ -36,8 +37,9 @@ styles: ["Progressive Metal"]
 20. Your Glorious Light Will Shine - Helsinki
 21. Save Me - Istanbul
 22. Reunite! - Paris
-## Spotify
-{{< spotify type="album" id="75ElN1tR8bN8a3g5vH8Ybw" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities (Album Teaser)" >}}
@@ -52,8 +54,8 @@ styles: ["Progressive Metal"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Vuur - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-In-This-Moment-We-Are-Free-Cities) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Red + LP, S/Sided, Etch, Red + Album + CD, Alb |
-| Catalog Number | IOMLP 491, 88985474371 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album, CD Album, All Media Limited Edition |
+| Catalog Number | IOMLP 491 |
 
 Released through the webshop of VUUR. Pre-ordered copies are signed by Anneke.

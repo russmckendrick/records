@@ -2,7 +2,7 @@
 title: "The Time - The Time"
 artist: "The Time"
 album_name: "The Time"
-date: 2021-07-16
+date: 2021-07-16T11:54:29.000000Z
 release_id: "19505374"
 slug: "the-time-19505374"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
+
 ## Tracklisting
 1. Get It Up (9:08)
 2. Girl (5:36)
@@ -26,8 +27,12 @@ styles: ["Minneapolis Sound", "Funk"]
 10. Cool (Part II) (3:06)
 11. After Hi School (Single Edit) (2:48)
 12. The Stick (Single Edit) (3:06)
+
+
 ## Spotify
 {{< spotify type="album" id="7CiSh3Wv5DrOmoxIZhzBYm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qF632f3h7gY" title="Get It Up" >}}
@@ -42,8 +47,19 @@ styles: ["Minneapolis Sound", "Funk"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Time - The Time](https://www.discogs.com/release/19505374-The-Time-The-Time) |
-| Label          | Warner Records, Rhino Records |
-| Format         | Comp, Ltd + LP, Album, RE, RM, Red + LP, Comp, RM, |
-| Catalog Number | 603497843954, RCV1 654316 |
+| Label          | Warner Records |
+| Format         | All Media Compilation Limited Edition, Vinyl LP Album Reissue Remastered (Red), Vinyl LP Compilation Remastered (White) |
+| Catalog Number | 603497843954 |
 
-Hype sticker: The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides Limited edition red and white vinyl  Optional: Copies sold in Italy have a holographic SIAE sticker from 'Warner music'  Cover: This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.  LP1: Red vinyl in plain white poly-lined inner-sleeve LP2: White vinyl in plain black poly-lined inner-sleeve
+Hype sticker:
+The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides
+Limited edition red and white vinyl
+
+Optional:
+Copies sold in Italy have a holographic SIAE sticker from 'Warner music'
+
+Cover:
+This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.
+
+LP1: Red vinyl in plain white poly-lined inner-sleeve
+LP2: White vinyl in plain black poly-lined inner-sleeve

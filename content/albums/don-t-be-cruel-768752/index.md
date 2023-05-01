@@ -2,7 +2,7 @@
 title: "Bobby Brown - Don't Be Cruel"
 artist: "Bobby Brown"
 album_name: "Don't Be Cruel"
-date: 2020-08-01
+date: 2020-08-01T12:46:23.000000Z
 release_id: "768752"
 slug: "don-t-be-cruel-768752"
 hideSummary: true
@@ -10,9 +10,10 @@ cover:
     image: "don-t-be-cruel-768752.jpg"
     alt: "Don't Be Cruel by Bobby Brown"
     caption: "Don't Be Cruel by Bobby Brown"
-genres: ["Hip Hop"]
-styles: ["RnB/Swing"]
+genres: ["Hip Hop", "Funk / Soul"]
+styles: ["New Jack Swing"]
 ---
+
 ## Tracklisting
 1. Cruel Prelude (0:39)
 2. Don't Be Cruel (6:52)
@@ -25,6 +26,9 @@ styles: ["RnB/Swing"]
 9. All Day All Night (4:40)
 10. I Really Love You Girl (5:11)
 11. Cruel Reprise (0:18)
+
+
+
 
 ## Videos
 {{< youtube id="zSrKa3xLcO0" title="Bobby Brown - I´ll be good to you" >}}
@@ -53,8 +57,8 @@ styles: ["RnB/Swing"]
 | ---------------| ----------- |
 | Release Year   | 1988 |
 | Discogs Link   | [Bobby Brown - Don't Be Cruel](https://www.discogs.com/release/768752-Bobby-Brown-Dont-Be-Cruel) |
-| Label          | MCA Records, MCA Records |
-| Format         | LP, Album, M/Print |
-| Catalog Number | MCF 3425, MCF 3245 |
+| Label          | MCA Records |
+| Format         | Vinyl LP Album Misprint |
+| Catalog Number | MCF 3425 |
 
 Misprint version with MCF 3245 on back cover.

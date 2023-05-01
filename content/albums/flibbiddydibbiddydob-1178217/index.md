@@ -2,7 +2,7 @@
 title: "Snuff - Flibbiddydibbiddydob"
 artist: "Snuff"
 album_name: "Flibbiddydibbiddydob"
-date: 2020-01-03
+date: 2020-01-03T18:30:41.000000Z
 release_id: "1178217"
 slug: "flibbiddydibbiddydob-1178217"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Rods & Mockers
 2. Do Nothing
@@ -25,6 +26,9 @@ styles: ["Punk"]
 9. City Baby Attacked By Rats
 10. Bran Flakes
 11. In Sickness & In Health
+
+
+
 
 ## Videos
 {{< youtube id="Mx_z6vLGOrg" title="Snuff-Flibbiddydibbiddydob(full album)" >}}
@@ -39,8 +43,14 @@ styles: ["Punk"]
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [Snuff - Flibbiddydibbiddydob](https://www.discogs.com/release/1178217-Snuff-Flibbiddydibbiddydob) |
-| Label          | Workers Playtime, Workers Playtime |
-| Format         | 12\", MiniAlbum |
-| Catalog Number | Play 11T, PLAY 11T |
+| Label          | Workers Playtime |
+| Format         | Vinyl 12" 45 RPM Mini-Album |
+| Catalog Number | Play 11T |
 
-Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.  Cat# Play 11T appears on spine and back cover. Cat# PLAY 11T appears on labels.  ℗1989 Workers Playtime (On Back Cover) ℗ Workers Playtime 1990 (On Labels)
+Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.
+
+Cat# Play 11T appears on spine and back cover.
+Cat# PLAY 11T appears on labels.
+
+℗1989 Workers Playtime (On Back Cover)
+℗ Workers Playtime 1990 (On Labels)

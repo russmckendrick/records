@@ -2,7 +2,7 @@
 title: "New Order - Music Complete"
 artist: "New Order"
 album_name: "Music Complete"
-date: 2020-06-24
+date: 2020-06-24T11:44:53.000000Z
 release_id: "15514258"
 slug: "music-complete-15514258"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
+
 ## Tracklisting
 1. Restless (5:26)
 2. Singularity (5:37)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 9. Unlearn This Hatred (4:18)
 10. The Game (5:06)
 11. Superheated (5:03)
+
+
 ## Spotify
 {{< spotify type="album" id="0v0BEEfVsTnVAzd8Q7GZNl" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}
@@ -36,8 +41,19 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [New Order - Music Complete](https://www.discogs.com/release/15514258-New-Order-Music-Complete) |
-| Label          | Mute, Mute |
-| Format         | 2xLP, Album, Ltd, RE, RP, Ora |
-| Catalog Number | RSTUMM390, STUMM390 |
+| Label          | Mute |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Orange) |
+| Catalog Number | RSTUMM390 |
 
-Music Complete: New Order  Limited Edition Double Orange Vinyl With 12 Page Booklet  Includes Digital Copy #loverecordstores  Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores Includes insert and download code.
+Music Complete:
+New Order
+
+Limited Edition
+Double Orange Vinyl
+With 12 Page Booklet
+
+Includes Digital Copy
+#loverecordstores
+
+Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores
+Includes insert and download code.

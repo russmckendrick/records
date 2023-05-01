@@ -2,7 +2,7 @@
 title: "Survive - HD015"
 artist: "Survive"
 album_name: "HD015"
-date: 2016-12-08
+date: 2016-12-08T18:35:53.000000Z
 release_id: "9231465"
 slug: "hd015-9231465"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ---
+
 ## Tracklisting
 1. Deserted Skies
 2. Floating Cube
@@ -23,6 +24,9 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 7. Scalar Wave
 8. Shunting Yard
 9. Dirge
+
+
+
 
 ## Videos
 {{< youtube id="G4onbTp1jio" title="S U R V I V E - Deserted Skies MNQ 026" >}}
@@ -40,8 +44,10 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Survive - HD015](https://www.discogs.com/release/9231465-S-U-R-V-I-V-E-HD015) |
-| Label          | HoloDeck, 540 Records, Light Lodge |
-| Format         | LP, Album, Ltd, RE, RP, Cle |
-| Catalog Number | HD015LP, 540-046, LLR010 |
+| Label          | HoloDeck |
+| Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear & Black) |
+| Catalog Number | HD015LP |
 
-150g vinyl with yellow/black alternate sleeve artwork.    Includes download code (choice of formats, via Bandcamp).
+150g vinyl with yellow/black alternate sleeve artwork.  
+
+Includes download code (choice of formats, via Bandcamp).

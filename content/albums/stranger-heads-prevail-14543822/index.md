@@ -2,7 +2,7 @@
 title: "Thank You Scientist - Stranger Heads Prevail"
 artist: "Thank You Scientist"
 album_name: "Stranger Heads Prevail"
-date: 2020-01-10
+date: 2020-01-10T18:23:44.000000Z
 release_id: "14543822"
 slug: "stranger-heads-prevail-14543822"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Prologue: A Faint Applause
 2. The Somnambulist
@@ -25,8 +26,12 @@ styles: ["Prog Rock"]
 9. Psychopomp
 10. The Amateur Arsonist’s Handbook
 11. Epilogue: …And the Clever Depart
+
+
 ## Spotify
 {{< spotify type="album" id="5tzquhU7KasVwjCbZDXQ24" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="df6lSXzv9lI" title="Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]" >}}
@@ -47,7 +52,9 @@ styles: ["Prog Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Thank You Scientist - Stranger Heads Prevail](https://www.discogs.com/release/14543822-Thank-You-Scientist-Stranger-Heads-Prevail) |
 | Label          | Evil Ink Records |
-| Format         | 2xLP, Album, Ltd, RP, Cle |
+| Format         | Vinyl 2× LP Album Limited Edition Repress (Clear w/Blue Smoke) |
 | Catalog Number | EI209V |
 
-Gatefold cover. Limited edition of 1000 pressed on clear vinyl mixed with blue smoke. Second pressing.
+Gatefold cover.
+Limited edition of 1000 pressed on clear vinyl mixed with blue smoke.
+Second pressing.

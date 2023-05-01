@@ -2,7 +2,7 @@
 title: "Pavement - Terror Twilight"
 artist: "Pavement"
 album_name: "Terror Twilight"
-date: 2017-06-01
+date: 2017-06-01T18:07:11.000000Z
 release_id: "3014122"
 slug: "terror-twilight-3014122"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Spit On A Stranger (3:04)
 2. Folk Jam (3:34)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. Speak, See, Remember (4:20)
 10. The Hexx (5:39)
 11. ...And Carrot Rope (3:52)
+
+
 ## Spotify
 {{< spotify type="album" id="6LvzAzZDazPb9hKNjj1JRN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger (Official Video)" >}}
@@ -38,7 +43,10 @@ styles: ["Indie Rock"]
 | Release Year   | 2010 |
 | Discogs Link   | [Pavement - Terror Twilight](https://www.discogs.com/release/3014122-Pavement-Terror-Twilight) |
 | Label          | Domino |
-| Format         | LP, RE, 180 |
+| Format         | Vinyl LP Reissue (180 gram) |
 | Catalog Number | WIGLP 66 |
 
-Sticker says :180gm heavyweight vinyl comes with mp3s!  Comes with printed inner sleeve and free download code. 
+Sticker says :180gm heavyweight vinyl comes with mp3s!
+
+Comes with printed inner sleeve and free download code.
+

@@ -2,7 +2,7 @@
 title: "Super Furry Animals - Fuzzy Logic"
 artist: "Super Furry Animals"
 album_name: "Fuzzy Logic"
-date: 2016-11-05
+date: 2016-11-05T12:25:43.000000Z
 release_id: "9302863"
 slug: "fuzzy-logic-9302863"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. God! Show Me Magic (1:50)
 2. Fuzzy Birds (2:27)
@@ -26,8 +27,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 10. Hangin' With Howard Marks (4:20)
 11. Long Gone (5:20)
 12. For Now And Ever (3:32)
+
+
 ## Spotify
 {{< spotify type="album" id="6VhJwuvzhKQSa4dyIt4Cpz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="d1siktyfFxY" title="Super Furry Animals - God! Show Me Magic (Video)" >}}
@@ -40,7 +45,15 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Super Furry Animals - Fuzzy Logic](https://www.discogs.com/release/9302863-Super-Furry-Animals-Fuzzy-Logic) |
 | Label          | BMG |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
 | Catalog Number | BMGCATLP77 |
 
-Recorded and mixed at Rockfield Studios, Wales, Earth.  2016 reissue of original 1996 release.  2016 new remaster from the original tapes.  *************************************************************************************************************************************************************  The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched
+Recorded and mixed at Rockfield Studios, Wales, Earth.
+
+2016 reissue of original 1996 release.
+
+2016 new remaster from the original tapes.
+
+*************************************************************************************************************************************************************
+
+The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched

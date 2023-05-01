@@ -2,7 +2,7 @@
 title: "The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)"
 artist: "The Divine Comedy"
 album_name: "Charmed Life (The Best Of The Divine Comedy)"
-date: 2022-02-04
+date: 2022-02-04T09:20:07.000000Z
 release_id: "22022677"
 slug: "charmed-life-the-best-of-the-divine-comedy-22022677"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Charmed Life
 2. National Express
@@ -38,8 +39,12 @@ styles: ["Indie Pop"]
 22. Sunrise
 23. To The Rescue
 24. Tonight We Fly
+
+
 ## Spotify
-{{< spotify type="album" id="4rMFRPWXp7OwUSrrxkmL3g" width="100%" height="500" >}}
+{{< spotify type="album" id="2kk8ONoQSPpG7Z0Uv9TsoB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}
@@ -63,7 +68,7 @@ styles: ["Indie Pop"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)](https://www.discogs.com/release/22022677-The-Divine-Comedy-Charmed-Life-The-Best-Of-The-Divine-Comedy) |
 | Label          | Divine Comedy Records Limited |
-| Format         | LP, Gol + LP, Sil + Comp, Ltd |
+| Format         | Vinyl LP (Gold), Vinyl LP (Silver), All Media Compilation Limited Edition |
 | Catalog Number | DCRL118LPX |
 
 Signed "Charmed Life" lyric sheets were available with a CD and coloured vinyl bundle from the official artist store.

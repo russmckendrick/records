@@ -2,7 +2,7 @@
 title: "Andrew Bird - Are You Serious"
 artist: "Andrew Bird"
 album_name: "Are You Serious"
-date: 2017-06-24
+date: 2017-06-24T08:45:59.000000Z
 release_id: "8328483"
 slug: "are-you-serious-8328483"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Capsized (3:40)
 2. Roma Fade (4:03)
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. Bellevue (2:03)
 12. Shoulder Mountain (4:02)
 13. Pulaski (3:32)
+
+
 ## Spotify
 {{< spotify type="album" id="6TqAnRWjGY3ztfajmS0HSG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]" >}}
@@ -44,7 +49,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Andrew Bird - Are You Serious](https://www.discogs.com/release/8328483-Andrew-Bird-Are-You-Serious) |
 | Label          | Loma Vista |
-| Format         | LP, Album, Dlx, Blu + 7\", Single, Red |
+| Format         | Vinyl LP Album Deluxe Edition (Blue, 180g), Vinyl 7" Single (Red) |
 | Catalog Number | LVR-39052-01 |
 
 Deluxe edition. Includes bonus red colored 7" single, insert with lyrics and download card.

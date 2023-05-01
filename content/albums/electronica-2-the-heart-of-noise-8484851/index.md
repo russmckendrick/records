@@ -2,7 +2,7 @@
 title: "Jean-Michel Jarre - Electronica 2 - The Heart Of Noise"
 artist: "Jean-Michel Jarre"
 album_name: "Electronica 2 - The Heart Of Noise"
-date: 2018-01-26
+date: 2018-01-26T20:02:54.000000Z
 release_id: "8484851"
 slug: "electronica-2-the-heart-of-noise-8484851"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Heart Of Noise
 2. Brick England (4:01)
@@ -32,6 +33,9 @@ styles: ["Electro", "Synth-pop"]
 16. Falling Down (3:23)
 17. The Heart Of Noise (The Origin) (2:39)
 
+
+
+
 ## Videos
 {{< youtube id="RmLEsmmnsGw" title="Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)" >}}
 - [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
@@ -41,8 +45,20 @@ styles: ["Electro", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Jean-Michel Jarre - Electronica 2 - The Heart Of Noise](https://www.discogs.com/release/8484851-Jean-Michel-Jarre-Electronica-2-The-Heart-Of-Noise) |
-| Label          | Aero Productions, Columbia |
-| Format         | 2xLP, Album, 180 |
+| Label          | Aero Productions |
+| Format         | Vinyl 2× LP Album (180 Gram) |
 | Catalog Number | 88875196681 |
 
-℗ & © 2016 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Heavy-weight pressing (180 g) in gatefold sleeve with printed inner sleeves. Comes with a download code card, and a yellow sticker on outer shrink. Download code was valid thru 31.12.2017.  Tracks A1 and A2 (The Heart Of Noise Part 1 and Part 2) appear as one track on label and backsleeve, but are divided into two seperate tracks on the vinyl.    The four sides of the album are differently named on labels and sleeves:  "Disc 3 - Side A" (=Side A) on inner sleeve, "A3" on disc label and back sleeve; "Disc 3 - Side B" (=Side B) on inner sleeve, "B3" on disc label and back sleeve; "Disc 4 - Side A" (=Side C) on inner sleeve, "A4" on disc label and back sleeve; "Disc 4 - Side B" (=Side D) on inner sleeve, "B4" on disc label and back sleeve.   
+℗ & © 2016 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH.
+Made in the E.U.
+
+Heavy-weight pressing (180 g) in gatefold sleeve with printed inner sleeves. Comes with a download code card, and a yellow sticker on outer shrink. Download code was valid thru 31.12.2017.
+
+Tracks A1 and A2 (The Heart Of Noise Part 1 and Part 2) appear as one track on label and backsleeve, but are divided into two seperate tracks on the vinyl. 
+ 
+The four sides of the album are differently named on labels and sleeves: 
+"Disc 3 - Side A" (=Side A) on inner sleeve, "A3" on disc label and back sleeve;
+"Disc 3 - Side B" (=Side B) on inner sleeve, "B3" on disc label and back sleeve;
+"Disc 4 - Side A" (=Side C) on inner sleeve, "A4" on disc label and back sleeve;
+"Disc 4 - Side B" (=Side D) on inner sleeve, "B4" on disc label and back sleeve. 
+ 

@@ -2,7 +2,7 @@
 title: "Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!"
 artist: "Pop Will Eat Itself"
 album_name: "This Is The Day...This Is The Hour...This Is This!"
-date: 2016-01-11
+date: 2016-01-11T17:44:45.000000Z
 release_id: "664486"
 slug: "this-is-the-day-this-is-the-hour-this-is-this-664486"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Breakbeat", "Industrial"]
 ---
+
 ## Tracklisting
 1. PWEI Is A Four Letter Word (1:12)
 2. Preaching To The Perverted (4:16)
@@ -28,6 +29,9 @@ styles: ["Breakbeat", "Industrial"]
 12. Satellite Ecstatica (4:37)
 13. Not Now James, We're Busy (3:08)
 14. Wake Up! Time To Die... (7:21)
+
+
+
 
 ## Videos
 {{< youtube id="ffPjII-GJ7Y" title="Poison to the Mind" >}}
@@ -56,8 +60,16 @@ styles: ["Breakbeat", "Industrial"]
 | ---------------| ----------- |
 | Release Year   | 1989 |
 | Discogs Link   | [Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!](https://www.discogs.com/release/664486-Pop-Will-Eat-Itself-This-Is-The-DayThis-Is-The-HourThis-Is-This) |
-| Label          | RCA, RCA |
-| Format         | LP, Album, Gat |
-| Catalog Number | PL 74141, PL74141 |
+| Label          | RCA |
+| Format         | Vinyl LP Album (Gatefold) |
+| Catalog Number | PL 74141 |
 
-On the release, [a578564] is credited as - The Buzzard from "Yeah God"  ℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd. Original Sound Recording Made By BMG Records (UK) Ltd.  Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europe durch BMG-Ariola 
+On the release, [a578564] is credited as - The Buzzard from "Yeah God"
+
+℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd.
+Original Sound Recording Made By BMG Records (UK) Ltd.
+
+Distributed in the UK by BMG Records
+Distribue en Europe par BMG-Ariola
+Vertrieb in Europe durch BMG-Ariola
+

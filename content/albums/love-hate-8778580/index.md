@@ -2,7 +2,7 @@
 title: "Michael Kiwanuka - Love & Hate"
 artist: "Michael Kiwanuka"
 album_name: "Love & Hate"
-date: 2017-01-06
+date: 2017-01-06T19:25:04.000000Z
 release_id: "8778580"
 slug: "love-hate-8778580"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
+
 ## Tracklisting
 1. Cold Little Heart
 2. Black Man In A White World
@@ -24,8 +25,12 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 8. Rule The World
 9. Father’s Child
 10. The Final Frame
+
+
 ## Spotify
 {{< spotify type="album" id="0qxsfpy2VU0i4eDR9RTaAU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FGG5K1XLgkA" title="Michael Kiwanuka - Cold Little Heart (Full Version)" >}}
@@ -45,7 +50,15 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 | Release Year   | 2016 |
 | Discogs Link   | [Michael Kiwanuka - Love & Hate](https://www.discogs.com/release/8778580-Michael-Kiwanuka-Love-Hate) |
 | Label          | Polydor |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 4783458 |
 
-Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode Gatefold. Includes a card to download [r=9073982]  On back cover and label: 2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited. Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands  Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters).
+Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode
+Gatefold.
+Includes a card to download [r=9073982]
+
+On back cover and label:
+2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited.
+Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands
+
+Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters).

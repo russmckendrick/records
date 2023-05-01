@@ -2,7 +2,7 @@
 title: "The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)"
 artist: "The Ink Spots"
 album_name: "The Best Of The Ink Spots (20 Classic Tracks)"
-date: 2020-08-02
+date: 2020-08-02T13:46:36.000000Z
 release_id: "1771691"
 slug: "the-best-of-the-ink-spots-20-classic-tracks-1771691"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Vocal"]
 ---
+
 ## Tracklisting
 1. If I Didn't Care
 2. Bless You For Being An Angel
@@ -34,6 +35,9 @@ styles: ["Vocal"]
 18. I'll Never Smile Again
 19. It's A Sin To Tell A Lie
 20. Someone's Rocking My Dreamboat
+
+
+
 
 ## Videos
 {{< youtube id="Xt3QYPkoa64" title="If I Didn't Care" >}}
@@ -62,8 +66,11 @@ styles: ["Vocal"]
 | ---------------| ----------- |
 | Release Year   | 1981 |
 | Discogs Link   | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691-The-Ink-Spots-The-Best-Of-The-Ink-Spots-20-Classic-Tracks) |
-| Label          | Music For Pleasure, MCA Records |
-| Format         | LP, Comp, Mono, RE |
+| Label          | Music For Pleasure |
+| Format         | Vinyl LP Compilation Reissue Mono |
 | Catalog Number | MFP 50529 |
 
-On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([MCF 2573](https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463)) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd.
+On rear cover:
+℗ Original sound recording made by MCA Records Inc.
+Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title
+Printed and made in Great Britain by Garrod & Lofthouse International Ltd.

@@ -2,7 +2,7 @@
 title: "Jesus Jones - Perverse"
 artist: "Jesus Jones"
 album_name: "Perverse"
-date: 2022-11-03
+date: 2022-11-03T13:59:17.000000Z
 release_id: "25037878"
 slug: "perverse-25037878"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Zeroes And Ones (3:24)
 2. The Devil You Know (4:31)
@@ -26,8 +27,12 @@ styles: ["Synth-pop", "Indie Rock"]
 10. Tongue Tied (3:16)
 11. Spiral (4:30)
 12. Idiot Stare (5:10)
+
+
 ## Spotify
 {{< spotify type="album" id="4DkVX8rMCQOTg9743dJwnT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="2s_UjdsMoPk" title="Zeroes And Ones - Jesus Jones" >}}
@@ -49,7 +54,5 @@ styles: ["Synth-pop", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Jesus Jones - Perverse](https://www.discogs.com/release/25037878-Jesus-Jones-Perverse) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Tra |
+| Format         | Vinyl LP Album Reissue (Transparent Blue) |
 | Catalog Number | DEMREC954 |
-
-

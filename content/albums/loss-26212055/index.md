@@ -2,7 +2,7 @@
 title: "Mull Historical Society - Loss"
 artist: "Mull Historical Society"
 album_name: "Loss"
-date: 2023-03-01
+date: 2023-03-01T00:18:53.000000Z
 release_id: "26212055"
 slug: "loss-26212055"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Public Service Announcer
 2. Watching Xanadu
@@ -26,8 +27,12 @@ styles: ["Acoustic", "Indie Rock"]
 10. Mull Historical Society
 11. Paper Houses
 12. Loss
+
+
 ## Spotify
 {{< spotify type="album" id="2Te1zS8vz9EfRYieUmyCOT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="X7FCbmZm-1c" title="Loss" >}}
@@ -41,7 +46,5 @@ styles: ["Acoustic", "Indie Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [Mull Historical Society - Loss](https://www.discogs.com/release/26212055-Mull-Historical-Society-Loss) |
 | Label          | Demon Records |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | DEMREC 1028 |
-
-

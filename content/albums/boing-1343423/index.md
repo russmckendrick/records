@@ -2,7 +2,7 @@
 title: "Airhead - Boing!!"
 artist: "Airhead"
 album_name: "Boing!!"
-date: 2016-02-29
+date: 2016-02-29T18:17:33.000000Z
 release_id: "1343423"
 slug: "boing-1343423"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Scrap Happy
 2. I Might Fall
@@ -26,6 +27,9 @@ styles: ["Indie Rock"]
 10. Isn't It Rich
 11. Everybody Needs
 
+
+
+
 ## Videos
 {{< youtube id="17Zfcq6cq2g" title="Airhead - Funny How (Official Music Video)" >}}
 - [Airhead - Right Now](https://www.youtube.com/watch?v=juzGy3-fGpg)
@@ -37,8 +41,8 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1992 |
 | Discogs Link   | [Airhead - Boing!!](https://www.discogs.com/release/1343423-Airhead-Boing) |
-| Label          | Korova, Korova |
-| Format         | LP, Album |
-| Catalog Number | 9031 76273 1, KODE 17 |
+| Label          | Korova |
+| Format         | Vinyl LP Album |
+| Catalog Number | 9031 76273 1 |
 
 Made in Germany

@@ -2,7 +2,7 @@
 title: "Thundercat - The Golden Age Of Apocalypse"
 artist: "Thundercat"
 album_name: "The Golden Age Of Apocalypse"
-date: 2019-01-04
+date: 2019-01-04T19:34:10.000000Z
 release_id: "3079712"
 slug: "the-golden-age-of-apocalypse-3079712"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 ---
+
 ## Tracklisting
 1. HooooooO (0:23)
 2. Daylight (2:57)
@@ -27,8 +28,12 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 11. Walkin' (2:07)
 12. Mystery Machine (The Golden Age Of Apocalypse) (2:05)
 13. Return To The Journey (2:04)
+
+
 ## Spotify
 {{< spotify type="album" id="6pCLvgEb0INbO0WaN2Byyw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-9DagL4amrY" title="Mystery Machine (The Golden Age of Apocalypse)" >}}
@@ -52,7 +57,10 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 | Release Year   | 2011 |
 | Discogs Link   | [Thundercat - The Golden Age Of Apocalypse](https://www.discogs.com/release/3079712-Thundercat-The-Golden-Age-Of-Apocalypse) |
 | Label          | Brainfeeder |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | BF023 |
 
-Includes MP3 download code via Ninja Tune A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)  Comes with printed inner sleeve.
+Includes MP3 download code via Ninja Tune
+A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)
+
+Comes with printed inner sleeve.

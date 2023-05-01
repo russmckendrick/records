@@ -2,7 +2,7 @@
 title: "Easy Star All-Stars - Ziggy Stardub"
 artist: "Easy Star All-Stars"
 album_name: "Ziggy Stardub"
-date: 2023-04-23
+date: 2023-04-23T04:38:33.000000Z
 release_id: "26844965"
 slug: "ziggy-stardub-26844965"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Reggae", "Reggae-Pop", "Dub"]
 ---
+
 ## Tracklisting
 1. Five Years (3:49)
 2. Soul Love (3:55)
@@ -26,8 +27,11 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 10. Suffragette City (3:29)
 11. Rock 'N' Roll Suicide (3:14)
 
+
 ## Spotify
 {{< spotify type="album" id="213d5Et8RNepC1sYgAQQRx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GE606BMUK0I" title="EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]" >}}
@@ -52,7 +56,10 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 | Release Year   | 2023 |
 | Discogs Link   | [Easy Star All-Stars - Ziggy Stardub](https://www.discogs.com/release/26844965-Easy-Star-All-Stars-Ziggy-Stardub) |
 | Label          | Easy Star Records |
-| Format         | LP |
+| Format         | Vinyl LP (Royal Blue) |
 | Catalog Number | ES-1100V |
 
-   
+
+
+
+

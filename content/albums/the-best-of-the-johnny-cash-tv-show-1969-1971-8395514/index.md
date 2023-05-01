@@ -2,7 +2,7 @@
 title: "Various - The Best Of The Johnny Cash TV Show: 1969-1971"
 artist: "Various"
 album_name: "The Best Of The Johnny Cash TV Show: 1969-1971"
-date: 2016-04-27
+date: 2016-04-27T16:45:58.000000Z
 release_id: "8395514"
 slug: "the-best-of-the-johnny-cash-tv-show-1969-1971-8395514"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
+
 ## Tracklisting
 1. I Walk The Line (The Johnny Cash Show Open) (2:53)
 2. Flesh And Blood (3:02)
@@ -31,6 +32,9 @@ styles: ["Country"]
 15. Daddy Sang Bass (2:24)
 16. Closing Monologue/I Walk The Line (Reprise) (2:13)
 
+
+
+
 ## Videos
 {{< youtube id="X-CS-OT8Fco" title="Flesh and Blood" >}}
 - [Johnny Cash - I Walk the Line (The Best Of The Johnny Cash TV Show)](https://www.youtube.com/watch?v=J5126CibNsk)
@@ -40,8 +44,26 @@ styles: ["Country"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Various - The Best Of The Johnny Cash TV Show: 1969-1971](https://www.discogs.com/release/8395514-Various-The-Best-Of-The-Johnny-Cash-TV-Show-1969-1971) |
-| Label          | Columbia, Legacy, Columbia |
-| Format         | LP, RSD, Comp |
-| Catalog Number | 88875195531, 88875195531S1 |
+| Label          | Columbia |
+| Format         | Vinyl LP Record Store Day Compilation |
+| Catalog Number | 88875195531 |
 
-Record Store Day Sticker on front:               'A' STUNNING MUSICAL       MOMENTS - Entertainment Weekly  TO CASH IT WAS ALL JUST GREAT AMERICAN MUSIC,    AND HE BROUGHT IT      ALL BACK HOME.        - Rolling Stone  Johnny with many special Guests!    (See back for guest details)  Available for the first time on VINYL!              88875195531S1  Limited to 5000 units.
+Record Store Day Sticker on front:
+              'A'
+STUNNING MUSICAL
+      MOMENTS
+- Entertainment Weekly
+
+TO CASH IT WAS ALL JUST
+GREAT AMERICAN MUSIC,
+   AND HE BROUGHT IT
+     ALL BACK HOME.
+       - Rolling Stone
+
+Johnny with many special Guests!
+   (See back for guest details)
+
+Available for the first time on VINYL!
+             88875195531S1
+
+Limited to 5000 units.

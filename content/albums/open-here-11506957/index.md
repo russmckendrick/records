@@ -2,7 +2,7 @@
 title: "Field Music - Open Here"
 artist: "Field Music"
 album_name: "Open Here"
-date: 2018-02-03
+date: 2018-02-03T10:31:46.000000Z
 release_id: "11506957"
 slug: "open-here-11506957"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Open Here by Field Music"
     caption: "Open Here by Field Music"
 genres: ["Rock", "Funk / Soul", "Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Time In Joy (6:21)
 2. Count It Up (3:44)
@@ -25,8 +26,12 @@ styles: null
 9. Cameraman (3:44)
 10. Daylight Saving (3:39)
 11. Find A Way To Keep Me (5:34)
+
+
 ## Spotify
-{{< spotify type="album" id="19gCfIJQpXx7nyHxApx8F5" width="100%" height="500" >}}
+{{< spotify type="album" id="2IxeW5CPwsvdbsU5TJ2ouQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0wQnqvvIhfU" title="Field Music - Time In Joy" >}}
@@ -39,7 +44,7 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Field Music - Open Here](https://www.discogs.com/release/11506957-Field-Music-Open-Here) |
 | Label          | Memphis Industries |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | MI0476LP |
 
 180 gram black vinyl housed in die cut sleeve with download card and lyric inner.

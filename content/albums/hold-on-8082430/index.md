@@ -2,7 +2,7 @@
 title: "The James Hunter Six - Hold On!"
 artist: "The James Hunter Six"
 album_name: "Hold On!"
-date: 2016-02-08
+date: 2016-02-08T18:19:52.000000Z
 release_id: "8082430"
 slug: "hold-on-8082430"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. If That Don't Tell You
 2. This Is Where We Came In
@@ -24,8 +25,12 @@ styles: ["Rhythm & Blues"]
 8. Stranded
 9. Satchel Foot
 10. In The Dark
+
+
 ## Spotify
-{{< spotify type="album" id="5YOXf6E9pyg56OGJK8rO5Q" width="100%" height="500" >}}
+{{< spotify type="album" id="43abfyv0unfQ1whhdIZwAo" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 'If That Don't Tell You' | Live Studio Session" >}}
@@ -44,8 +49,25 @@ styles: ["Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [The James Hunter Six - Hold On!](https://www.discogs.com/release/8082430-The-James-Hunter-Six-Hold-On) |
-| Label          | Daptone Records, Daptone Records |
-| Format         | LP, Album, Mono |
-| Catalog Number | DAP-040, DAP - 040 |
+| Label          | Daptone Records |
+| Format         | Vinyl LP Album Mono |
+| Catalog Number | DAP-040 |
 
-Mono (monaural) pressing. Includes download card. © 2016 DAPTONE RECORDS  Published by Stoketone Publishing, BMI.  Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.  Another Bosco Mann production.  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Sleeve notes: Sam Boncon, WHIT  Durations not listed on release.   Glossy cover with generic with inner sleeve  Hype sticker on shrink wrap
+Mono (monaural) pressing. Includes download card.
+© 2016 DAPTONE RECORDS
+
+Published by Stoketone Publishing, BMI.
+
+Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.
+
+Another Bosco Mann production.
+
+Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206
+
+Sleeve notes: Sam Boncon, WHIT
+
+Durations not listed on release. 
+
+Glossy cover with generic with inner sleeve
+
+Hype sticker on shrink wrap

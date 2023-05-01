@@ -2,7 +2,7 @@
 title: "Pink Floyd - A Momentary Lapse Of Reason (Remixed & Updated)"
 artist: "Pink Floyd"
 album_name: "A Momentary Lapse Of Reason (Remixed & Updated)"
-date: 2021-10-29
+date: 2021-10-29T05:57:28.000000Z
 release_id: "20760595"
 slug: "a-momentary-lapse-of-reason-remixed-updated-20760595"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Signs Of Life (4:24)
 2. Learning To Fly (4:52)
@@ -27,13 +28,30 @@ styles: ["Art Rock", "Prog Rock"]
 11. Sorrow (8:47)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Pink Floyd - A Momentary Lapse Of Reason (Remixed & Updated)](https://www.discogs.com/release/20760595-Pink-Floyd-A-Momentary-Lapse-Of-Reason-Remixed-Updated) |
-| Label          | Pink Floyd Records, Pink Floyd Records |
-| Format         | 2xLP, Album, RE, RM, 180 |
-| Catalog Number | PFRLP37, 0190295079208 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered (180 g) |
+| Catalog Number | PFRLP37 |
 
-Gatefold sleeve + 24-page booklet. Made in Germany.  Sticker: Pink Floyd A Momentary Lapse Of Reason Remixed & Updated 2-LP Vinyl Remixed in 2019 from the original master tapes Heavyweight 180 gram pressing 24-page booklet  Half-speed master Cut at 45 rpm for enhanced audio quality PFRLP37 01902979208
+Gatefold sleeve + 24-page booklet.
+Made in Germany.
+
+Sticker:
+Pink Floyd
+A Momentary Lapse Of Reason
+Remixed & Updated
+2-LP Vinyl
+Remixed in 2019 from the original master tapes
+Heavyweight 180 gram pressing
+24-page booklet
+
+Half-speed master
+Cut at 45 rpm
+for enhanced audio quality
+PFRLP37 01902979208

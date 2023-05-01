@@ -2,7 +2,7 @@
 title: "Peter Gabriel - Us"
 artist: "Peter Gabriel"
 album_name: "Us"
-date: 2016-12-08
+date: 2016-12-08T18:44:07.000000Z
 release_id: "9471068"
 slug: "us-9471068"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 ---
+
 ## Tracklisting
 1. Come Talk To Me (7:06)
 2. Love To Be Loved (5:17)
@@ -24,8 +25,12 @@ styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 8. Fourteen Black Paintings (4:38)
 9. Kiss That Frog (5:20)
 10. Secret World (7:03)
+
+
 ## Spotify
 {{< spotify type="album" id="0k14wOOVVQAMD23Vej4BOF" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="A5TeaiZL8Ak" title="Bashi-Bazouk" >}}
@@ -41,8 +46,16 @@ styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Peter Gabriel - Us](https://www.discogs.com/release/9471068-Peter-Gabriel-Us) |
-| Label          | Real World Records, Caroline International |
-| Format         | 2xLP, Album, RE, RM |
+| Label          | Real World Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered |
 | Catalog Number | PGLPR7 |
 
-180 Gram Vinyl, Half Speed Remaster. Includes Hi-Res Download Code.  ℗ & © 2016 Peter Gabriel Ltd  England  In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped.  
+180 Gram Vinyl, Half Speed Remaster.
+Includes Hi-Res Download Code.
+
+℗ & © 2016 Peter Gabriel Ltd
+
+England
+
+In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped. 
+

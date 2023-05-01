@@ -2,7 +2,7 @@
 title: "Mac Quayle - Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
 artist: "Mac Quayle"
 album_name: "Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
-date: 2016-09-21
+date: 2016-09-21T18:06:18.000000Z
 release_id: "9016413"
 slug: "mr-robot-volume-1-original-television-series-soundtrack-9016413"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
+
 ## Tracklisting
 1. 1.0_1-Hellofriend.Wav
 2. 1.0_2-Oneincontrol.Aiff
@@ -44,6 +45,9 @@ styles: ["Soundtrack", "Score"]
 28. 1.4_5-Revenge1syourweakn3ss.Ra
 29. 1.4_6-N0execution.Au
 
+
+
+
 ## Videos
 {{< youtube id="-B--tEBZwCg" title="Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)" >}}
 - [Mac Quayle | BSO Mr. Robot | Vol. 1](https://www.youtube.com/watch?v=Phrxu3lrnEY)
@@ -56,7 +60,14 @@ styles: ["Soundtrack", "Score"]
 | Release Year   | 2016 |
 | Discogs Link   | [Mac Quayle - Mr. Robot: Volume 1 (Original Television Series Soundtrack)](https://www.discogs.com/release/9016413-Mac-Quayle-Mr-Robot-Volume-1-Original-Television-Series-Soundtrack) |
 | Label          | Invada |
-| Format         | 2xLP, Album, Whi |
+| Format         | Vinyl 2× LP Album (White) |
 | Catalog Number | INV160LP |
 
-Gatefold sleeve, printed with false pricing sticker from the "Mr Robot" store for $7.99 and code "683  898".  Release comes with: Double Sided Printed Insert 11" x 22" Poster Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.2, included an additional extremely limited 12"x12" lithograph art print.
+Gatefold sleeve, printed with false pricing sticker from the "Mr Robot" store for $7.99 and code "683  898".
+
+Release comes with:
+Double Sided Printed Insert
+11" x 22" Poster
+Download Card for digital version (choice of formats, via bandcamp)
+
+If purchased direct from Invada with Vol.2, included an additional extremely limited 12"x12" lithograph art print.

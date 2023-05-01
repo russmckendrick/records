@@ -2,7 +2,7 @@
 title: "Back To The Planet - Mind + Soul Collaborators"
 artist: "Back To The Planet"
 album_name: "Mind + Soul Collaborators"
-date: 2017-04-14
+date: 2017-04-14T14:01:00.000000Z
 release_id: "1838415"
 slug: "mind-soul-collaborators-1838415"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Reggae", "Folk, World, & Country"]
 styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Techno", "Ska", "Ambient", "Acid", "Tribal", "Folk"]
 ---
+
 ## Tracklisting
 1. Please Don't Fight
 2. Crossed Lines
@@ -25,6 +26,9 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 9. Hard Edged Few
 10. Sleepless Nights
 
+
+
+
 ## Videos
 {{< youtube id="aDdBekh_jhA" title="Back to the Planet   Sleepless Nights" >}}
 - [Back to the planet - Daydream (Orbital Remix)](https://www.youtube.com/watch?v=suNsAIWYIL8)
@@ -36,7 +40,5 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 | Release Year   | 1993 |
 | Discogs Link   | [Back To The Planet - Mind + Soul Collaborators](https://www.discogs.com/release/1838415-Back-To-The-Planet-Mind-Soul-Collaborators) |
 | Label          | Parallel Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ALLP2 |
-
-

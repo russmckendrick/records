@@ -2,7 +2,7 @@
 title: "Spiritualized - Ladies And Gentlemen We Are Floating In Space"
 artist: "Spiritualized"
 album_name: "Ladies And Gentlemen We Are Floating In Space"
-date: 2016-04-28
+date: 2016-04-28T16:42:18.000000Z
 release_id: "2349306"
 slug: "ladies-and-gentlemen-we-are-floating-in-space-2349306"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul"]
 styles: ["Gospel", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Ladies And Gentlemen We Are Floating In Space
 2. Come Together
@@ -26,8 +27,12 @@ styles: ["Gospel", "Psychedelic Rock"]
 10. No God Only Religion
 11. Cool Waves
 12. Cop Shoot Cop...
+
+
 ## Spotify
 {{< spotify type="album" id="56YzQ0dhmRMDryZsrjdHun" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together (Official Music Video)" >}}
@@ -42,8 +47,15 @@ styles: ["Gospel", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/2349306-Spiritualized-Ladies-And-Gentlemen-We-Are-Floating-In-Space) |
-| Label          | Plain Recordings, Arista |
-| Format         | 2xLP, Album, RE, 180 |
-| Catalog Number | Plain150, P766613 |
+| Label          | Plain Recordings |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Catalog Number | Plain150 |
 
-Includes "Patient Product Information" credit sheet.  Date of preparation March 1997.  © 2010 Sony Music Entertainment ℗ 1997 Dedicated  The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland.
+Includes "Patient Product Information" credit sheet.
+
+Date of preparation March 1997.
+
+© 2010 Sony Music Entertainment
+℗ 1997 Dedicated
+
+The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland.

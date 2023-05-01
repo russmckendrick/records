@@ -2,7 +2,7 @@
 title: "Peter Gabriel - So"
 artist: "Peter Gabriel"
 album_name: "So"
-date: 2015-09-02
+date: 2015-09-02T18:23:52.000000Z
 release_id: "379036"
 slug: "so-379036"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Red Rain
 2. Sledgehammer
@@ -22,8 +23,12 @@ styles: ["Pop Rock", "Synth-pop", "Art Rock"]
 6. Mercy Street
 7. Big Time
 8. We Do What We're Told (Milgram's 37)
+
+
 ## Spotify
 {{< spotify type="album" id="1vJ8rCzq6BJtKGz9Yf6oT3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FkLTwX0duY4" title="Peter Gabriel - Red Rain" >}}
@@ -41,8 +46,28 @@ styles: ["Pop Rock", "Synth-pop", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 1986 |
 | Discogs Link   | [Peter Gabriel - So](https://www.discogs.com/release/379036-Peter-Gabriel-So) |
-| Label          | Charisma, Virgin |
-| Format         | LP, Album |
+| Label          | Charisma |
+| Format         | Vinyl LP Album |
 | Catalog Number | PG 5 |
 
-'Townhouse' etched in runouts, the rest stamped.  Direct Metal Mastering denoted by 'D' in runouts.  ℗ 1986 Charisma Records Limited  © 1986 Peter Gabriel Limited  All tracks recorded and mixed at Real World Studios, England except for "Mercy Street"; Percussion recorded in Polygram Studios, Rio de Janeiro, engineered by Ary Carvalhaes and Jairo Gualberto, studio organization by Luigi Hoffer, session supervised by Renato Costa and Graciela Silberberg  New York overdubs recorded at the Power Station, engineered by Bruce Lampcov, assisted by Steve Boyer, session supervision by Charlene Colon. Included lyric inner sleeve, made of card on early pressings, paper on later pressings.  P P Arnold courtesy 10 Records Ltd.  Michael Been courtesy Elektra/Asylum Records Inc.  Kate Bush courtesy EMI America Records, a division of Capitol Records INc.  Stewart Copeland courtesy A&M Records Inc.  Jim Kerr courtesy Virgin Records Ltd.  Youssou N'dour courtesy Albert Koski Productions.  L. Shankar courtesy ECM Records.  Richard Tee courtesy King Records Co Ltd.  
+'Townhouse' etched in runouts, the rest stamped.
+
+Direct Metal Mastering denoted by 'D' in runouts.
+
+℗ 1986 Charisma Records Limited 
+© 1986 Peter Gabriel Limited
+
+All tracks recorded and mixed at Real World Studios, England except for "Mercy Street"; Percussion recorded in Polygram Studios, Rio de Janeiro, engineered by Ary Carvalhaes and Jairo Gualberto, studio organization by Luigi Hoffer, session supervised by Renato Costa and Graciela Silberberg
+
+New York overdubs recorded at the Power Station, engineered by Bruce Lampcov, assisted by Steve Boyer, session supervision by Charlene Colon.
+Included lyric inner sleeve, made of card on early pressings, paper on later pressings.
+
+P P Arnold courtesy 10 Records Ltd. 
+Michael Been courtesy Elektra/Asylum Records Inc. 
+Kate Bush courtesy EMI America Records, a division of Capitol Records INc. 
+Stewart Copeland courtesy A&M Records Inc. 
+Jim Kerr courtesy Virgin Records Ltd. 
+Youssou N'dour courtesy Albert Koski Productions. 
+L. Shankar courtesy ECM Records. 
+Richard Tee courtesy King Records Co Ltd. 
+

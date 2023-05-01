@@ -2,7 +2,7 @@
 title: "Roger Waters - Is This The Life We Really Want?"
 artist: "Roger Waters"
 album_name: "Is This The Life We Really Want?"
-date: 2018-08-11
+date: 2018-08-11T07:54:54.000000Z
 release_id: "12213433"
 slug: "is-this-the-life-we-really-want-12213433"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. When We Were Young
 2. Deja Vu
@@ -26,8 +27,12 @@ styles: ["Prog Rock"]
 10. Wait For Her
 11. Oceans Apart
 12. Part Of Me Died
+
+
 ## Spotify
 {{< spotify type="album" id="2XhQwji1ixgjca0XzkiTek" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_XdLNqWYgGI" title="Roger Waters - The Last Refugee" >}}
@@ -41,8 +46,18 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/12213433-Roger-Waters-Is-This-The-Life-We-Really-Want) |
-| Label          | Columbia, Columbia, Sony Music |
-| Format         | 2xLP, Album, Ltd, Num, RE, Gre |
-| Catalog Number | C-192609, 19075865711 |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Green) |
+| Catalog Number | C-192609 |
 
-Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover.
+Comes in a gatefold cover, inner sleeves with lyrics.
+Download code included.
+Made in the EU.
+
+Parental Advisory
+Explicit Content
+Strong Language
+
+Hype sticker: Numbered Limited Edition Green Vinyl
+
+Number is stamped in silver on front cover.

@@ -2,7 +2,7 @@
 title: "Status Quo - Whatever You Want"
 artist: "Status Quo"
 album_name: "Whatever You Want"
-date: 2016-05-23
+date: 2016-05-23T18:28:27.000000Z
 release_id: "7581244"
 slug: "whatever-you-want-7581244"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Whatever You Want (4:03)
 2. Shady Lady (3:00)
@@ -25,17 +26,11 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 9. High Flyer (3:50)
 10. Breaking Away (6:40)
 
+
+
+
 ## Videos
-{{< youtube id="IP5gS1gWioI" title="Status Quo-Who Asked You HD sound" >}}
-- [Your Smiling Face](https://www.youtube.com/watch?v=izZrVP4mkhY)
-- [Status Quo-Come Rock With Me](https://www.youtube.com/watch?v=NtU_zKQ4f2M)
-- [Status Quo-Rockin' On](https://www.youtube.com/watch?v=eurRkrXTTXU)
-- [Status Quo-Runaway HQ](https://www.youtube.com/watch?v=qqgsIh8ddjI)
-- [Status Quo-High Flyer](https://www.youtube.com/watch?v=mCT0pk_i7BY)
-- [Status Quo - Whatever You Want](https://www.youtube.com/watch?v=jJoUfkDBMTo)
-- [Status Quo-Breaking Away](https://www.youtube.com/watch?v=1cYzb-dBmro)
-- [Status Quo-Living On An Island HQ](https://www.youtube.com/watch?v=Evafe6G8SNg)
-- [Status Quo-Shady Lady](https://www.youtube.com/watch?v=NlcmQr0RoJg)
+{{< youtube id="uLCOYGITsjA" title="Status Quo - Whatever You Want" >}}
 
 ## Notes
 | Notes          |             |
@@ -43,7 +38,5 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 | Release Year   | 2015 |
 | Discogs Link   | [Status Quo - Whatever You Want](https://www.discogs.com/release/7581244-Status-Quo-Whatever-You-Want) |
 | Label          | Vertigo |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 4723772 |
-
-

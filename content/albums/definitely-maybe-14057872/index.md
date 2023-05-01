@@ -2,7 +2,7 @@
 title: "Oasis - Definitely Maybe"
 artist: "Oasis"
 album_name: "Definitely Maybe"
-date: 2019-08-30
+date: 2019-08-30T15:24:35.000000Z
 release_id: "14057872"
 slug: "definitely-maybe-14057872"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Rock 'n' Roll Star (5:22)
 2. Shakermaker (5:08)
@@ -26,11 +27,14 @@ styles: ["Alternative Rock", "Britpop"]
 10. Digsy's Dinner (2:32)
 11. Slide Away (6:32)
 12. Married With Children (3:07)
-## Spotify
-{{< spotify type="album" id="3AMHMM2aNG6k3d7ybcQ5bY" width="100%" height="500" >}}
+
+
+
 
 ## Videos
-{{< youtube id="xYJWZ1K6hPI" title="O̲a̲sis - D̲e̲finitely M̲a̲ybe (Full Album)" >}}
+{{< youtube id="TDe1DqxwJoc" title="Oasis - Live Forever (Official HD Remastered Video)" >}}
+- [Oasis - Supersonic (Official HD Remastered Video)](https://www.youtube.com/watch?v=BJKpUH2kJQg)
+- [Oasis - Rock 'N' Roll Star (Official HD Remastered Video)](https://www.youtube.com/watch?v=3aatEBIZHNU)
 
 ## Notes
 | Notes          |             |
@@ -38,7 +42,7 @@ styles: ["Alternative Rock", "Britpop"]
 | Release Year   | 2019 |
 | Discogs Link   | [Oasis - Definitely Maybe](https://www.discogs.com/release/14057872-Oasis-Definitely-Maybe) |
 | Label          | Big Brother |
-| Format         | 2xLP, Album, Ltd, RE, RM, Sil |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Silver) |
 | Catalog Number | RKIDLP70C |
 
 Limited 25th Anniversary Edition on heavyweight silver vinyl. Gatefold sleeve.

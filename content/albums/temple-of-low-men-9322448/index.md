@@ -2,7 +2,7 @@
 title: "Crowded House - Temple Of Low Men"
 artist: "Crowded House"
 album_name: "Temple Of Low Men"
-date: 2016-11-08
+date: 2016-11-08T19:07:19.000000Z
 release_id: "9322448"
 slug: "temple-of-low-men-9322448"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. I Feel Possessed
 2. Kill Eye
@@ -24,8 +25,12 @@ styles: ["Pop Rock"]
 8. Sister Madly
 9. In The Lowlands
 10. Better Be Home Soon
+
+
 ## Spotify
 {{< spotify type="album" id="7t38G4SGphJox2lCAAZo2m" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FhhB4ztWFbQ" title="Crowded House - I Feel Possessed" >}}
@@ -45,7 +50,7 @@ styles: ["Pop Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/9322448-Crowded-House-Temple-Of-Low-Men) |
 | Label          | Capitol Records |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 gram) |
 | Catalog Number | 4788024 |
 
-Includes a voucher for MP3 download of the tracks included in the [deluxe edition](https://www.discogs.com/Crowded-House-Temple-Of-Low-Men/release/9318485) of this reissue. Made in the Chech Republic
+Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Temple-Of-Low-Men/release/9318485]deluxe edition[/url] of this reissue. Made in the Chech Republic

@@ -2,7 +2,7 @@
 title: "U2 - Boy"
 artist: "U2"
 album_name: "Boy"
-date: 2020-12-03
+date: 2020-12-03T05:42:16.000000Z
 release_id: "16273305"
 slug: "boy-16273305"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. I Will Follow
 2. Twilight
@@ -26,8 +27,11 @@ styles: ["New Wave", "Pop Rock"]
 10. The Electric Co.
 11. Shadows And Tall Trees
 12. Untitled
+
+
 ## Spotify
 {{< spotify type="album" id="4YCjEFs1aDmcilTMbqMwjY" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -35,8 +39,10 @@ styles: ["New Wave", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [U2 - Boy](https://www.discogs.com/release/16273305-U2-Boy) |
-| Label          | Island Records, UMC |
-| Format         | LP, Album, RSD, Ltd, RE, RM, Whi |
+| Label          | Island Records |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (White, 40th Anniversary Edition) |
 | Catalog Number | 0749627 |
 
-40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   Made In Germany.
+40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included. 
+
+Made In Germany.

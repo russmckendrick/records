@@ -2,7 +2,7 @@
 title: "World Party - Egyptology"
 artist: "World Party"
 album_name: "Egyptology"
-date: 2022-11-02
+date: 2022-11-02T03:25:00.000000Z
 release_id: "25017913"
 slug: "egyptology-25017913"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. It Is Time (3:20)
 2. Beautiful Dream (4:43)
@@ -34,8 +35,12 @@ styles: ["Alternative Rock"]
 18. Rolling Off A Log (Live) (6:01)
 19. Hercules (Live) (4:58)
 20. Vanity Fair (Live) (3:26)
+
+
 ## Spotify
 {{< spotify type="album" id="5NfPEtvBa7f9a9l8mp58Wz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KrJL23YDmS4" title="World Party She's the One live on Jools Holland" >}}
@@ -52,7 +57,19 @@ styles: ["Alternative Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [World Party - Egyptology](https://www.discogs.com/release/25017913-World-Party-Egyptology) |
 | Label          | Seaview Records Ltd. |
-| Format         | 2xLP, Album, RE, Gat |
+| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Catalog Number | seaview 4VC |
 
-Side D recorded live in New York City, 1997  Released in a gatefold sleeve with 2 lyric inners  Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])  Made in Czech Republic  Mixed in a bucket with a big stick.  Recorded at Seaview Studios, London, England, between 1993 and 1997.  Runouts etched except GZ Media numbers and Ⓜ are stamped.
+Side D recorded live in New York City, 1997
+
+Released in a gatefold sleeve with 2 lyric inners
+
+Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])
+
+Made in Czech Republic
+
+Mixed in a bucket with a big stick.
+
+Recorded at Seaview Studios, London, England, between 1993 and 1997.
+
+Runouts etched except GZ Media numbers and Ⓜ are stamped.

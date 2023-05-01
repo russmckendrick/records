@@ -2,7 +2,7 @@
 title: "Pat Benatar - Best Shots"
 artist: "Pat Benatar"
 album_name: "Best Shots"
-date: 2019-11-08
+date: 2019-11-08T19:52:05.000000Z
 release_id: "1055714"
 slug: "best-shots-1055714"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Hit Me With Your Best Shot (2:50)
 2. Love Is A Battlefield (4:03)
@@ -26,8 +27,12 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 10. Treat Me Right (3:24)
 11. If You Think You Know How To Love Me (3:45)
 12. You Better Run (3:04)
+
+
 ## Spotify
 {{< spotify type="album" id="0SX1wvbCBLKGPfCmH3O14B" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="0q2jL8hpT_0" title="Pat Benatar - Love is a battlefield 1984" >}}
@@ -39,7 +44,5 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 | Release Year   | 1987 |
 | Discogs Link   | [Pat Benatar - Best Shots](https://www.discogs.com/release/1055714-Pat-Benatar-Best-Shots) |
 | Label          | Chrysalis |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | PATV1 |
-
-

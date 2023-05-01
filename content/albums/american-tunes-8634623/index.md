@@ -2,7 +2,7 @@
 title: "Allen Toussaint - American Tunes"
 artist: "Allen Toussaint"
 album_name: "American Tunes"
-date: 2016-07-01
+date: 2016-07-01T18:30:13.000000Z
 release_id: "8634623"
 slug: "american-tunes-8634623"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. Delores' Boyfriend
 2. Viper's Drag
@@ -32,8 +33,12 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Her Mind Is Gone
 17. Moon River
 18. Bald Head
+
+
 ## Spotify
 {{< spotify type="album" id="0CvKQbws4lBM0UopcAn7OK" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="NKhE8YNU4cQ" title="Allen Toussaint - Big Chief [Official Audio]" >}}
@@ -58,8 +63,12 @@ styles: ["Rhythm & Blues", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Allen Toussaint - American Tunes](https://www.discogs.com/release/8634623-Allen-Toussaint-American-Tunes) |
-| Label          | Nonesuch, Nonesuch |
-| Format         | 2xLP, Album |
-| Catalog Number | 554656-1, 7559-79467-8 |
+| Label          | Nonesuch |
+| Format         | Vinyl 2× LP Album |
+| Catalog Number | 554656-1 |
 
-Gatefold sleeve includes printed insert with credits and notes.   ℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.  Runouts are etched up to ᶜB, everything after is stamped. 
+Gatefold sleeve includes printed insert with credits and notes. 
+
+℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.
+
+Runouts are etched up to ᶜB, everything after is stamped. 

@@ -2,7 +2,7 @@
 title: "Ian Dury And The Music Students - 4.000 Weeks' Holiday"
 artist: "Ian Dury And The Music Students"
 album_name: "4.000 Weeks' Holiday"
-date: 2016-09-21
+date: 2016-09-21T18:13:35.000000Z
 release_id: "8396748"
 slug: "4-000-weeks-holiday-8396748"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Disco"]
 ---
+
 ## Tracklisting
 1. (You're My) Inspiration (5:22)
 2. Friends (3:15)
@@ -24,6 +25,9 @@ styles: ["Leftfield", "Disco"]
 8. Take Me To The Cleaners (2:40)
 9. The Man With No Face (5:03)
 10. Really Glad You Came (4:49)
+
+
+
 
 ## Videos
 {{< youtube id="t03qMYuBpOY" title="IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk" >}}
@@ -38,7 +42,5 @@ styles: ["Leftfield", "Disco"]
 | Release Year   | 2014 |
 | Discogs Link   | [Ian Dury And The Music Students - 4.000 Weeks' Holiday](https://www.discogs.com/release/8396748-Ian-Dury-And-The-Music-Students-4000-Weeks-Holiday) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | DEMREC59 |
-
-

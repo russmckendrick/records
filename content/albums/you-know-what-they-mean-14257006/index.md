@@ -2,7 +2,7 @@
 title: "Bent Knee - You Know What They Mean"
 artist: "Bent Knee"
 album_name: "You Know What They Mean"
-date: 2019-10-13
+date: 2019-10-13T13:03:53.000000Z
 release_id: "14257006"
 slug: "you-know-what-they-mean-14257006"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Lansing
 2. Bone Rage
@@ -40,8 +41,12 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 24. Garbage Shark (5:38)
 25. Golden Hour (5:51)
 26. It Happens (5:05)
+
+
 ## Spotify
 {{< spotify type="album" id="2kJqRDKcVQ0bxG4sjXREsv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="KT0e1ZwJtU8" title="Lansing" >}}
@@ -63,8 +68,8 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Bent Knee - You Know What They Mean](https://www.discogs.com/release/14257006-Bent-Knee-You-Know-What-They-Mean) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Album, 180 + CD, Album |
-| Catalog Number | IOMLP 535, 19075980581 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album Stereo (180 Gram), CD Album Stereo |
+| Catalog Number | IOMLP 535 |
 
 Packaged in a gatefold jacket with black polylined LP sleeve and hype sticker affixed to shrink wrap on the front. CD is packaged inside in an envelope-style PVC sleeve.

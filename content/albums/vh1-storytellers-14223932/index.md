@@ -2,7 +2,7 @@
 title: "David Bowie - VH1 Storytellers"
 artist: "David Bowie"
 album_name: "VH1 Storytellers"
-date: 2019-10-11
+date: 2019-10-11T14:37:30.000000Z
 release_id: "14223932"
 slug: "vh1-storytellers-14223932"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Art Rock"]
 ---
+
 ## Tracklisting
 1. Life On Mars?
 2. Rebel Rebel (Truncated)
@@ -27,8 +28,11 @@ styles: ["Art Rock"]
 11. I Can't Read
 12. Always Crashing In The Same Car
 13. If I'm Dreaming My Life
+
+
 ## Spotify
 {{< spotify type="album" id="1pOR2tIMQZ30GNCVz4TkFp" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -36,8 +40,14 @@ styles: ["Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [David Bowie - VH1 Storytellers](https://www.discogs.com/release/14223932-David-Bowie-VH1-Storytellers) |
-| Label          | Parlophone, Parlophone |
-| Format         | 2xLP, Album, Ltd, RE |
-| Catalog Number | DBVH1 9919, 0190295474096 |
+| Label          | Parlophone |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo |
+| Catalog Number | DBVH1 9919 |
 
-Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.  Recorded at Manhattan Center, New York, NY 23rd August, 1999.  ℗ 2009 © 2019  Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"  
+Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.
+
+Recorded at Manhattan Center, New York, NY 23rd August, 1999.
+
+℗ 2009 © 2019
+
+Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"  

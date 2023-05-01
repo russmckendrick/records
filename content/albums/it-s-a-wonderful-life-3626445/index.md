@@ -2,7 +2,7 @@
 title: "Sparklehorse - It's A Wonderful Life"
 artist: "Sparklehorse"
 album_name: "It's A Wonderful Life"
-date: 2019-04-26
+date: 2019-04-26T12:45:21.000000Z
 release_id: "3626445"
 slug: "it-s-a-wonderful-life-3626445"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. It's A Wonderful Life
 2. Gold Day
@@ -26,8 +27,12 @@ styles: ["Lo-Fi", "Indie Rock"]
 10. Little Fat Baby
 11. Devil's New
 12. Comfort Me
+
+
 ## Spotify
 {{< spotify type="album" id="6iP3HGmoRXFUrKiml2QVkz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="AGZsQf6WjHI" title="Sparklehorse - It's a wonderful life" >}}
@@ -40,7 +45,7 @@ styles: ["Lo-Fi", "Indie Rock"]
 | Release Year   | 2012 |
 | Discogs Link   | [Sparklehorse - It's A Wonderful Life](https://www.discogs.com/release/3626445-Sparklehorse-Its-A-Wonderful-Life) |
 | Label          | Plain Recordings |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 gram) |
 | Catalog Number | Plain176 |
 
 reissue comes with gatefold sleeve and download code. 

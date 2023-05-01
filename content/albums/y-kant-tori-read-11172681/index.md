@@ -2,7 +2,7 @@
 title: "Y Kant Tori Read - Y Kant Tori Read"
 artist: "Y Kant Tori Read"
 album_name: "Y Kant Tori Read"
-date: 2017-12-07
+date: 2017-12-07T21:00:02.000000Z
 release_id: "11172681"
 slug: "y-kant-tori-read-11172681"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Left Side
 2. The Big Picture (4:19)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. On The Boundary (4:38)
 11. You Go To My Head (3:55)
 12. Etienne Trilogy (6:45)
+
+
 ## Spotify
 {{< spotify type="album" id="5pnAHJIW4UWmdlFnjyN0IT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="iHdzlbgeQqo" title="Y Kant Tori Read - The Big Picture" >}}
@@ -41,8 +46,10 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Y Kant Tori Read - Y Kant Tori Read](https://www.discogs.com/release/11172681-Y-Kant-Tori-Read-Y-Kant-Tori-Read) |
-| Label          | Atlantic, Atlantic |
-| Format         | LP, Album, RSD, Ltd, RE, RM, Ora |
-| Catalog Number | 081227942410, R1 81845 |
+| Label          | Atlantic |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (Orange) |
+| Catalog Number | 081227942410 |
 
-Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.  081227942410 on spine.
+Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.
+
+081227942410 on spine.

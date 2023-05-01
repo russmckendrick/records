@@ -2,7 +2,7 @@
 title: "The Black Crowes - Three Snakes And One Charm"
 artist: "The Black Crowes"
 album_name: "Three Snakes And One Charm"
-date: 2016-01-04
+date: 2016-01-04T18:01:08.000000Z
 release_id: "7836430"
 slug: "three-snakes-and-one-charm-7836430"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
+
 ## Tracklisting
 1. Under A Mountain
 2. Good Friday
@@ -28,8 +29,12 @@ styles: ["Southern Rock"]
 12. Evil Eye
 13. Just Say You're Sorry
 14. Pimper's Paradise
+
+
 ## Spotify
 {{< spotify type="album" id="5KEqZXp6Aw2LF6J5bjelbf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="y9r_uE9YOSM" title="The Black Crowes - Blackberry" >}}
@@ -52,7 +57,9 @@ styles: ["Southern Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [The Black Crowes - Three Snakes And One Charm](https://www.discogs.com/release/7836430-The-Black-Crowes-Three-Snakes-And-One-Charm) |
 | Label          | American Recordings |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | 00602537494262 |
 
-Widespine sleeve. Made in the EU. Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes)
+Widespine sleeve.
+Made in the EU.
+Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes)

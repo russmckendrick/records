@@ -2,7 +2,7 @@
 title: "Thom Yorke - Suspiria"
 artist: "Thom Yorke"
 album_name: "Suspiria"
-date: 2018-12-27
+date: 2018-12-27T18:11:35.000000Z
 release_id: "12682472"
 slug: "suspiria-12682472"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Experimental", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. A Storm That Took Everything (1:47)
 2. The Hooks (3:18)
@@ -39,8 +40,12 @@ styles: ["Experimental", "Soundtrack"]
 23. An Audition (0:34)
 24. Voiceless Terror (2:30)
 25. The Epilogue (2:47)
+
+
 ## Spotify
 {{< spotify type="album" id="2UehMLybYgLuuNHRNJpbCB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="h1QtJ-xbWLQ" title="A Storm That Took Everything" >}}
@@ -80,7 +85,12 @@ styles: ["Experimental", "Soundtrack"]
 | Release Year   | 2018 |
 | Discogs Link   | [Thom Yorke - Suspiria](https://www.discogs.com/release/12682472-Thom-Yorke-Suspiria) |
 | Label          | XL Recordings |
-| Format         | 2xLP, Album, Pin |
+| Format         | Vinyl 2× LP Album (Pink) |
 | Catalog Number | XL936LP |
 
-Matte pink heavy card gatefold sleeve with wide spine. Pink can be seen on inside sleeves. Blue style screen print design forming cover image. Additional information on back sleeve in White lettering. Each LP comes in a custom inner sleeve.  1st sales in some independent record shops were given with a promotional tote-bag, or a flipbook with the animations from the "Suspirium" music video.
+Matte pink heavy card gatefold sleeve with wide spine. Pink can be seen on inside sleeves.
+Blue style screen print design forming cover image.
+Additional information on back sleeve in White lettering.
+Each LP comes in a custom inner sleeve.
+
+1st sales in some independent record shops were given with a promotional tote-bag, or a flipbook with the animations from the "Suspirium" music video.

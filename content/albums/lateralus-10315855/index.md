@@ -2,7 +2,7 @@
 title: "Tool - Lateralus"
 artist: "Tool"
 album_name: "Lateralus"
-date: 2017-07-02
+date: 2017-07-02T11:13:45.000000Z
 release_id: "10315855"
 slug: "lateralus-10315855"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. The Grudge (8:36)
 2. Eon Blue Apocalypse (1:04)
@@ -27,8 +28,9 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 11. Reflection (11:07)
 12. Triad (8:46)
 13. Faaip De Oiad (2:39)
-## Spotify
-{{< spotify type="album" id="5l5m1hnH4punS1GQXgEi3T" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="MM62wjLrgmA" title="TOOL - Schism" >}}
@@ -53,7 +55,9 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 | Release Year   | 2011 |
 | Discogs Link   | [Tool - Lateralus](https://www.discogs.com/release/10315855-Tool-Lateralus) |
 | Label          | Zomba |
-| Format         | 2xLP, Album, Ltd, Pic, RE |
+| Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue |
 | Catalog Number | 0614223116013 |
 
-"2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers
+"2x Full Color Picture Disc" sticker on front.
+
+Holographic image surrounding covers

@@ -2,7 +2,7 @@
 title: "Tubeway Army - Replicas"
 artist: "Tubeway Army"
 album_name: "Replicas"
-date: 2016-01-08
+date: 2016-01-08T19:14:34.000000Z
 release_id: "49235"
 slug: "replicas-49235"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "New Wave", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Me! I Disconnect From You (3:22)
 2. Are 'Friends' Electric? (5:24)
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 8. It Must Have Been Years (4:01)
 9. When The Machines Rock (3:14)
 10. I Nearly Married A Human (6:31)
+
+
 ## Spotify
 {{< spotify type="album" id="14chsctrt7Rx38fQUbfqFz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}
@@ -45,7 +50,14 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 | Release Year   | 1979 |
 | Discogs Link   | [Tubeway Army - Replicas](https://www.discogs.com/release/49235-Tubeway-Army-Replicas) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album Stereo |
 | Catalog Number | BEGA 7 |
 
-Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London. Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners. Initial copies included a poster.  There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording
+Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London.
+Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners.
+Initial copies included a poster.
+
+There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].
+
+℗ 1979 Beggars Banquet.
+© 1979 A Beggars Banquet Recording

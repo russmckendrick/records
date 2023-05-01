@@ -2,7 +2,7 @@
 title: "King Curtis - Live At Fillmore West"
 artist: "King Curtis"
 album_name: "Live At Fillmore West"
-date: 2016-02-08
+date: 2016-02-08T18:20:18.000000Z
 release_id: "5959161"
 slug: "live-at-fillmore-west-5959161"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Jazz-Funk"]
 ---
+
 ## Tracklisting
 1. Memphis Soul Stew (7:30)
 2. A Whiter Shade Of Pale (5:15)
@@ -23,8 +24,12 @@ styles: ["Jazz-Funk"]
 7. Mr. Bojangles (4:23)
 8. Signed Sealed Delivered, I'm Yours (2:30)
 9. Soul Serenade (5:30)
+
+
 ## Spotify
 {{< spotify type="album" id="0Tg5AKLEbLNnDjyZh5e913" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QISOupYqTi4" title="Memphis Soul Stew (Live at Fillmore West, 3/7/1971)" >}}
@@ -42,8 +47,11 @@ styles: ["Jazz-Funk"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [King Curtis - Live At Fillmore West](https://www.discogs.com/release/5959161-King-Curtis-Live-At-Fillmore-West) |
-| Label          | Music On Vinyl, ATCO Records |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Catalog Number | MOVLP1143 |
 
-Originally released ℗  & © 1971 ATCO records This release ℗ © 2104 Warner Music. Comes into a lined black paper with round central holes. Made in the EU.
+Originally released ℗  & © 1971 ATCO records
+This release ℗ © 2104 Warner Music.
+Comes into a lined black paper with round central holes.
+Made in the EU.

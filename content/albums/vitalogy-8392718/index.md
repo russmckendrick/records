@@ -2,7 +2,7 @@
 title: "Pearl Jam - Vitalogy"
 artist: "Pearl Jam"
 album_name: "Vitalogy"
-date: 2016-10-26
+date: 2016-10-26T16:19:24.000000Z
 release_id: "8392718"
 slug: "vitalogy-8392718"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Division One
 2. Last Exit
@@ -32,8 +33,12 @@ styles: ["Grunge", "Rock & Roll"]
 16. Division Four
 17. Immortality
 18. Hey Foxymophandlemama, That's Me
+
+
 ## Spotify
 {{< spotify type="album" id="5pd9B3KQWKshHw4lnsSLNy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pw4VEW3StIw" title="Immortality (Remastered)" >}}
@@ -46,8 +51,16 @@ styles: ["Grunge", "Rock & Roll"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Pearl Jam - Vitalogy](https://www.discogs.com/release/8392718-Pearl-Jam-Vitalogy) |
-| Label          | Epic, Sony Music, Legacy |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Album Remastered Reissue (180 Gram, Gold Foil Stamp) |
 | Catalog Number | 88697843111 |
 
-Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits. Track D2 titled "Stupid Mop" on label.   Recorded in Seattle, Atlanta & New Orleans 1994.   ℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh  Made in the EU
+Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits.
+Track D2 titled "Stupid Mop" on label. 
+
+Recorded in Seattle, Atlanta & New Orleans 1994. 
+
+℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment
+Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh
+
+Made in the EU

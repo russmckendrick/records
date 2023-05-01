@@ -2,7 +2,7 @@
 title: "Cud - Asquarius"
 artist: "Cud"
 album_name: "Asquarius"
-date: 2017-05-19
+date: 2017-05-19T14:22:56.000000Z
 release_id: "1832443"
 slug: "asquarius-1832443"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Rich And Strange (3:39)
 2. Easy (2:45)
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Soul Food (2:55)
 11. Once Again (5:07)
 12. No Smoking (3:29)
+
+
 ## Spotify
 {{< spotify type="album" id="4CmyWfydUoXUlfpw0d0vkB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="D7ikmVbr8J8" title="CUD - Rich and Strange (1992)" >}}
@@ -41,7 +46,17 @@ styles: ["Indie Rock"]
 | Release Year   | 1992 |
 | Discogs Link   | [Cud - Asquarius](https://www.discogs.com/release/1832443-Cud-Asquarius) |
 | Label          | A&M Records |
-| Format         | LP, Album, Ltd, Num |
+| Format         | Vinyl LP Album Limited Edition Numbered Stereo |
 | Catalog Number | 395 390-1 |
 
-A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".  Issued in a 'flipback' outer sleeve and a printed inner sleeve.  Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92. Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.  ℗ 1992 A&M Records Ltd. London © 1992 A&M Records Ltd. London  Made in England.
+A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".
+
+Issued in a 'flipback' outer sleeve and a printed inner sleeve.
+
+Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92.
+Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.
+
+℗ 1992 A&M Records Ltd. London
+© 1992 A&M Records Ltd. London
+
+Made in England.

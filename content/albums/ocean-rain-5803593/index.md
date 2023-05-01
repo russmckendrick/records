@@ -2,7 +2,7 @@
 title: "Echo & The Bunnymen - Ocean Rain"
 artist: "Echo & The Bunnymen"
 album_name: "Ocean Rain"
-date: 2017-03-08
+date: 2017-03-08T19:51:32.000000Z
 release_id: "5803593"
 slug: "ocean-rain-5803593"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Silver (3:19)
 2. Nocturnal Me (4:54)
@@ -23,8 +24,12 @@ styles: ["New Wave", "Indie Rock"]
 7. Seven Seas (3:19)
 8. My Kingdom (4:06)
 9. Ocean Rain (5:10)
+
+
 ## Spotify
 {{< spotify type="album" id="43jEYhOEU6eWL51lk4l3M7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="sQ_QRK_iWrk" title="Silver" >}}
@@ -43,8 +48,8 @@ styles: ["New Wave", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |
-| Label          | Korova, Vinyl 180 |
-| Format         | LP, Album, RE |
+| Label          | Korova |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | VIN180LP075 |
 
 2014 Repressing in Black Vinyl

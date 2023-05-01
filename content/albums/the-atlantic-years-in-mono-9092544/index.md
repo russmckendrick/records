@@ -2,7 +2,7 @@
 title: "Ray Charles - The Atlantic Years - In Mono"
 artist: "Ray Charles"
 album_name: "The Atlantic Years - In Mono"
-date: 2016-09-24
+date: 2016-09-24T14:19:56.000000Z
 release_id: "9092544"
 slug: "the-atlantic-years-in-mono-9092544"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. The Great Ray Charles
 2. The Ray (3:56)
@@ -100,6 +101,9 @@ styles: ["Rhythm & Blues"]
 84. Some Day Baby (2:58)
 85. I Wonder Who (2:46)
 
+
+
+
 ## Videos
 {{< youtube id="6uTDa3771HM" title="Ray Charles - What'd I Say (Official Audio)" >}}
 - [The Genius After Hours (2016 Mono Remaster)](https://www.youtube.com/watch?v=sXv2EQ-Yb30)
@@ -115,8 +119,6 @@ styles: ["Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544-Ray-Charles-The-Atlantic-Years-In-Mono) |
-| Label          | Rhino Records, Atlantic |
-| Format         | 7xLP, Comp, Mono, RE, RM + Box |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl 7× LP Compilation Reissue Remastered Mono, Box Set |
 | Catalog Number | 008122794568 |
-
-

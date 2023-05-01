@@ -1,18 +1,19 @@
 ---
-title: "Jimmy Page & The Black Crowes - Live At The Greek"
-artist: "Jimmy Page & The Black Crowes"
+title: "Jimmy Page - Live At The Greek"
+artist: "Jimmy Page"
 album_name: "Live At The Greek"
-date: 2017-10-07
+date: 2017-10-07T17:58:32.000000Z
 release_id: "5029933"
 slug: "live-at-the-greek-5029933"
 hideSummary: true
 cover:
     image: "live-at-the-greek-5029933.jpg"
-    alt: "Live At The Greek by Jimmy Page & The Black Crowes"
-    caption: "Live At The Greek by Jimmy Page & The Black Crowes"
+    alt: "Live At The Greek by Jimmy Page"
+    caption: "Live At The Greek by Jimmy Page"
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Celebration Day
 2. Custard Pie
@@ -35,12 +36,15 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 19. Out On The Tiles
 20. Whole Lotta Love
 
+
+## Spotify
+{{< spotify type="album" id="4LgSNfHfSLGEB0EufP9aIB" width="100%" height="500" >}}
+
+
+
 ## Videos
-{{< youtube id="P50Si6Y7xwI" title="Jimmy Page & The Black Crowes – Whole Lotta Love  (Led Zeppelin cover)" >}}
-- [Jimmy Page & The Black Crowes – Celebration Day (live)](https://www.youtube.com/watch?v=cYBtwGT1apk)
-- [Jimmy Page & The Black Crowes – Hey Hey What Can I Do  (live)](https://www.youtube.com/watch?v=KhV9hqnTsu8)
+{{< youtube id="cYBtwGT1apk" title="Jimmy Page & The Black Crowes – Celebration Day (live)" >}}
 - [Jimmy Page & The Black Crowes – Whole Lotta Love (live)](https://www.youtube.com/watch?v=YO6f1EkUfBM)
-- [Jimmy Page & The Black Crowes – Celebration Day  (Led Zeppelin cover)](https://www.youtube.com/watch?v=U-OCLDLH4vg)
 - [Jimmy Page & The Black Crowes – Your Time Is Gonna Come (live)](https://www.youtube.com/watch?v=hrFWoPArsWQ)
 - [Jimmy Page & The Black Crowes – You Shook Me (live)](https://www.youtube.com/watch?v=1E-tPYOpJBQ)
 - [Jimmy Page & The Black Crowes – Woke Up This Morning (live)](https://www.youtube.com/watch?v=inb7yqm0lBM)
@@ -72,9 +76,11 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
-| Discogs Link   | [Jimmy Page & The Black Crowes - Live At The Greek](https://www.discogs.com/release/5029933-Jimmy-Page-The-Black-Crowes-Live-At-The-Greek) |
+| Discogs Link   | [Jimmy Page - Live At The Greek](https://www.discogs.com/release/5029933-Jimmy-Page-The-Black-Crowes-Live-At-The-Greek) |
 | Label          | The Orchard |
-| Format         | 3xLP, Album, RE, Whi |
+| Format         | Vinyl 3× LP Album Reissue (White) |
 | Catalog Number | TV-2140-1 |
 
-℗ & © 2000 The Orchard. © 1999 Classicberry Ltd. & © 1999 The Black Crowes Partnership. Manufactured & distributed by The Orchard.  Comes in a Tri-fold Sleeve with sticker attached to shrink-wrap. 180g vinyls.
+℗ & © 2000 The Orchard. © 1999 Classicberry Ltd. & © 1999 The Black Crowes Partnership. Manufactured & distributed by The Orchard. 
+Comes in a Tri-fold Sleeve with sticker attached to shrink-wrap.
+180g vinyls.

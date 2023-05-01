@@ -2,7 +2,7 @@
 title: "Thank You Scientist - Terraformer"
 artist: "Thank You Scientist"
 album_name: "Terraformer"
-date: 2019-08-16
+date: 2019-08-16T17:12:45.000000Z
 release_id: "13732222"
 slug: "terraformer-13732222"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
+
 ## Tracklisting
 1. Wrinkle
 2. FXMLDR
@@ -27,8 +28,12 @@ styles: ["Prog Rock", "Jazz-Rock"]
 11. Anchor
 12. New Moon
 13. Terraformer
+
+
 ## Spotify
 {{< spotify type="album" id="4944tGwKGP3Rsv0xQs1CfP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="OKKWQEpS8hI" title="Thank You Scientist - Terraformer (Official Music Video)" >}}
@@ -44,7 +49,10 @@ styles: ["Prog Rock", "Jazz-Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Thank You Scientist - Terraformer](https://www.discogs.com/release/13732222-Thank-You-Scientist-Terraformer) |
 | Label          | Evil Ink Records |
-| Format         | 2xLP, Album, Ltd, Red |
+| Format         | Vinyl 2× LP Album Limited Edition (Red Mix/Blue Mix) |
 | Catalog Number | EI304 |
 
-First Pressing out of 1500 copies Comes in a gatefold sleeve with standard white inner sleeves.  20 pages Booklet. And Hype sticker on the sealed sleeve.  750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards.
+First Pressing out of 1500 copies
+Comes in a gatefold sleeve with standard white inner sleeves. 
+20 pages Booklet. And Hype sticker on the sealed sleeve. 
+750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards.

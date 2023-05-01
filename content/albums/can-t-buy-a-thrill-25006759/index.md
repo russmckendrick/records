@@ -2,7 +2,7 @@
 title: "Steely Dan - Can't Buy A Thrill"
 artist: "Steely Dan"
 album_name: "Can't Buy A Thrill"
-date: 2022-11-04
+date: 2022-11-04T06:14:33.000000Z
 release_id: "25006759"
 slug: "can-t-buy-a-thrill-25006759"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Do It Again (5:56)
 2. Dirty Work (3:08)
@@ -24,6 +25,9 @@ styles: ["Pop Rock"]
 8. Brooklyn (Owes The Charmer Under Me) (4:20)
 9. Change Of The Guard (3:28)
 10. Turn That Heartbeat Over Again (4:58)
+
+
+
 
 ## Videos
 {{< youtube id="jmdiKePVUy8" title="Do It Again" >}}
@@ -42,8 +46,18 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Steely Dan - Can't Buy A Thrill](https://www.discogs.com/release/25006759-Steely-Dan-Cant-Buy-A-Thrill) |
-| Label          | Geffen Records, UMe |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Geffen Records |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Catalog Number | B0035111-01 |
 
-50th Anniversary Edition Runouts: Var 1 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 1 Side B: 249034E2 1378024 (stamped) B0035111-01B B 6/30/22 (etched) Var 2 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 2 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 (etched) Var 3 Side A: 249034E1 1375812 (stamped) B0035111-01A A 6/29/22 AA (etched) Var 3 Side B: 249034E2 1325460 (stamped) B0035111-01B B 6/30/22 AA (etched)  Pressed By Precision and Mastered By Bernie Grundman credits are not shown on this release, but were sourced from the Acoustic Sounds website. 
+50th Anniversary Edition
+Runouts:
+Var 1 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched)
+Var 1 Side B: 249034E2 1378024 (stamped) B0035111-01B B 6/30/22 (etched)
+Var 2 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched)
+Var 2 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 (etched)
+Var 3 Side A: 249034E1 1375812 (stamped) B0035111-01A A 6/29/22 AA (etched)
+Var 3 Side B: 249034E2 1325460 (stamped) B0035111-01B B 6/30/22 AA (etched)
+
+Pressed By Precision and Mastered By Bernie Grundman credits are not shown on this release, but were sourced from the Acoustic Sounds website.
+

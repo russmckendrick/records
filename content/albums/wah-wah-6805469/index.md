@@ -2,7 +2,7 @@
 title: "James - Wah Wah"
 artist: "James"
 album_name: "Wah Wah"
-date: 2018-06-13
+date: 2018-06-13T17:27:12.000000Z
 release_id: "6805469"
 slug: "wah-wah-6805469"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Ambient", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Hammer Strings
 2. Pressure's On
@@ -37,8 +38,11 @@ styles: ["Ambient", "Indie Rock"]
 21. Tomorrow
 22. Laughter
 23. Sayonara
+
+
 ## Spotify
 {{< spotify type="album" id="7HysVSPF74Vvjmk30AhtXu" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -46,8 +50,8 @@ styles: ["Ambient", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [James - Wah Wah](https://www.discogs.com/release/6805469-James-Wah-Wah) |
-| Label          | Fontana, Mercury, Universal UMC |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Label          | Fontana |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Catalog Number | 0602547096432 |
 
 Including voucher to download MP3 version of the album.

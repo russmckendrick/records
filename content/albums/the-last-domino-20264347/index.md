@@ -2,7 +2,7 @@
 title: "Genesis - The Last Domino?"
 artist: "Genesis"
 album_name: "The Last Domino?"
-date: 2021-09-17
+date: 2021-09-17T06:09:19.000000Z
 release_id: "20264347"
 slug: "the-last-domino-20264347"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Dukes End
 2. Turn It On Again
@@ -41,21 +42,25 @@ styles: ["Pop Rock", "Prog Rock"]
 25. Dancing With The Moonlit Knight
 26. Carpet Crawlers
 27. Abacab
+
+
 ## Spotify
 {{< spotify type="album" id="2VMk6eFV1MafApI6Txke5H" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="UQAv7oAMsno" title="GENESIS - Newcastle, 01/10/2021 - The Last Domino? Tour, - full show" >}}
-- [Genesis - The Last Domino - The Hits (2021)](https://www.youtube.com/watch?v=7ghJJ70x0Lo)
-- [Genesis - Documentary - The Last Domino? (2021)](https://www.youtube.com/watch?v=JPSpxCnVgTM)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Genesis - The Last Domino?](https://www.discogs.com/release/20264347-Genesis-The-Last-Domino) |
-| Label          | Virgin, UMC |
-| Format         | 4xLP, Comp, Ltd, 180 |
-| Catalog Number | 3542867, 00602435428673 |
+| Label          | Virgin |
+| Format         | Vinyl 4× LP Compilation Limited Edition (180 gram) |
+| Catalog Number | 3542867 |
 
-This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd. Made in Germany. Universal International Music B.V.  Double Gatefold book format Comes with a download code. 
+This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd.
+Made in Germany. Universal International Music B.V.
+
+Double Gatefold book format
+Comes with a download code.
+

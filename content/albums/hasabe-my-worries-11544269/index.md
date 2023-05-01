@@ -2,7 +2,7 @@
 title: "Ayalew Mesfin - Hasabe - My Worries"
 artist: "Ayalew Mesfin"
 album_name: "Hasabe - My Worries"
-date: 2018-02-13
+date: 2018-02-13T07:13:33.000000Z
 release_id: "11544269"
 slug: "hasabe-my-worries-11544269"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Folk, World, & Country"]
 styles: ["African"]
 ---
+
 ## Tracklisting
 1. Hasabe (My Worries) (3:56)
 2. Gedawo (The Hero) (4:00)
@@ -25,6 +26,9 @@ styles: ["African"]
 9. Zebeder (Mesmerizing) (6:08)
 10. Yetembelal Loga (Tall And Graceful) (4:03)
 11. Gud Aderegechign (Blindsided By Love) (3:48)
+
+
+
 
 ## Videos
 {{< youtube id="_1BwNKnKi4E" title="AYALEW MESFIN.HASABE" >}}
@@ -48,7 +52,20 @@ styles: ["African"]
 | Release Year   | 2018 |
 | Discogs Link   | [Ayalew Mesfin - Hasabe - My Worries](https://www.discogs.com/release/11544269-Ayalew-Mesfin-Hasabe-My-Worries) |
 | Label          | Now-Again Records |
-| Format         | LP, Comp, Club, Mar |
+| Format         | Vinyl LP Compilation Club Edition (Maroon, 180 gram) |
 | Catalog Number | NA 5164 |
 
-Sticker: Ayalew Mesfin and the Black Lion Band Unheard Ethio-Groove From Addis Ababa First Time Issued On LP Extensive Booklet Details The Rise Of Modern Ethiopian Music and Ayalew Mesfin's Story Never Before Published Photos  Includes artwork and cocktail inserts.  (P)(C) 2018 Now-Again Records.  Remastered [...] at Elysian Masters, Los Angeles. Licensed courtesy Ayalew Mesfin. Special thanks to Helen Asfaw Dubale and Danny Mekonnen.
+Sticker:
+Ayalew Mesfin and the Black Lion Band
+Unheard Ethio-Groove From Addis Ababa
+First Time Issued On LP
+Extensive Booklet Details The Rise Of Modern Ethiopian Music and Ayalew Mesfin's Story
+Never Before Published Photos
+
+Includes artwork and cocktail inserts.
+
+(P)(C) 2018 Now-Again Records.
+
+Remastered [...] at Elysian Masters, Los Angeles.
+Licensed courtesy Ayalew Mesfin.
+Special thanks to Helen Asfaw Dubale and Danny Mekonnen.

@@ -2,7 +2,7 @@
 title: "Pop Will Eat Itself - 92° F / The Incredible PWEI Vs Dirty Harry"
 artist: "Pop Will Eat Itself"
 album_name: "92° F / The Incredible PWEI Vs Dirty Harry"
-date: 2018-02-15
+date: 2018-02-15T19:24:32.000000Z
 release_id: "99641"
 slug: "92-f-the-incredible-pwei-vs-dirty-harry-99641"
 hideSummary: true
@@ -13,10 +13,14 @@ cover:
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. 92° (Boilerhouse 'The Birth, The Death' Mix)
 2. The Incredible PWEI Vs Dirty Harry
 3. 92° (Boilerhouse 'The Birth' Mix)
+
+
+
 
 ## Videos
 {{< youtube id="dYC2etFfcMQ" title="POP WILL EAT ITSELF - ANOTHER MAN'S RHUBARB (GOOD VIBES REMIX) (1991)" >}}
@@ -31,7 +35,28 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 | Release Year   | 1991 |
 | Discogs Link   | [Pop Will Eat Itself - 92° F / The Incredible PWEI Vs Dirty Harry](https://www.discogs.com/release/99641-Pop-Will-Eat-Itself-92-F-The-Incredible-PWEI-Vs-Dirty-Harry) |
 | Label          | RCA |
-| Format         | 12\", Single |
+| Format         | Vinyl 12" 45 RPM Single |
 | Catalog Number | PT44556 |
 
-Contains exclusive PWEI stencil.  Originally Production by Flood courtesy of 140 dB  A, B2: BMG Music Publishing Ltd Produced for The Boilerhouse  B1: Warner Chappell Music Ltd Produced for PWEI Product Inc  92° Adapted from Pop Will Eat Itself's [m=4027] (A PWEI Prescription) Free The Designers Republic: "We're Alright Now" World-Wide Representation by Craig Jennings for Chapter 22 Management. ℗ 1990 B1 ℗ 1991 The Copyright in this Sound Recording is owend by BMG Records (UK) Ltd. © 1991 BMG Records (UK) Ltd Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europa durch BMG-Ariola Printed in England      
+Contains exclusive PWEI stencil.
+
+Originally Production by Flood courtesy of 140 dB
+
+A, B2: BMG Music Publishing Ltd
+Produced for The Boilerhouse
+
+B1: Warner Chappell Music Ltd
+Produced for PWEI Product Inc
+
+92° Adapted from Pop Will Eat Itself's [m=4027] (A PWEI Prescription)
+Free The Designers Republic: "We're Alright Now"
+World-Wide Representation by Craig Jennings for Chapter 22 Management.
+℗ 1990 B1 ℗ 1991 The Copyright in this Sound Recording is owend by BMG Records (UK) Ltd.
+© 1991 BMG Records (UK) Ltd
+Distributed in the UK by BMG Records
+Distribue en Europe par BMG-Ariola
+Vertrieb in Europa durch BMG-Ariola
+Printed in England 
+
+  
+

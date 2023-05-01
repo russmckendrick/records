@@ -2,7 +2,7 @@
 title: "Tangerine Dream - Rubycon"
 artist: "Tangerine Dream"
 album_name: "Rubycon"
-date: 2018-10-24
+date: 2018-10-24T11:41:07.000000Z
 release_id: "3077549"
 slug: "rubycon-3077549"
 hideSummary: true
@@ -13,11 +13,16 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Berlin-School"]
 ---
+
 ## Tracklisting
 1. Rubycon (Part I) (17:18)
 2. Rubycon (Part II) (17:35)
+
+
 ## Spotify
 {{< spotify type="album" id="5vHDwkXdVRGHTCpc5is4Vo" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="BVkRl0sXjjY" title="Rubycon (Pt. 1 / Remastered 2018)" >}}
@@ -28,8 +33,20 @@ styles: ["Ambient", "Berlin-School"]
 | ---------------| ----------- |
 | Release Year   | 1975 |
 | Discogs Link   | [Tangerine Dream - Rubycon](https://www.discogs.com/release/3077549-Tangerine-Dream-Rubycon) |
-| Label          | Virgin, Virgin |
-| Format         | LP, Album, Gat |
-| Catalog Number | V2025, V 2025 |
+| Label          | Virgin |
+| Format         | Vinyl LP Album (Gatefold) |
+| Catalog Number | V2025 |
 
-Cat# appears as V 2025 on labels, V2025 on rear of sleeve and spine.  Recorded in January 1975 at The Manor, Shipton on Cherwell. Produced for Virgin. Published by Virgin Music (Publishers) Ltd. ℗Virgin Records Ltd. 1975 ©Virgin Music (Publishers) Ltd. 1975  Printed in England by Robor Limited  Gatefold sleeve. Originally issued on the Roger Dean designed "twins/dragon/blue background" label, also issued with the green twins labels.  A later release also exists with the same cat #s but with green/red labels, It is here, [r3058032]  Tracks are listed as Rubycon-Part One and Rubycon-Part Two on the cover, whereas on the labels tracks are simply credited as Part 1 and Part 2.
+Cat# appears as V 2025 on labels, V2025 on rear of sleeve and spine.
+
+Recorded in January 1975 at The Manor, Shipton on Cherwell.
+Produced for Virgin.
+Published by Virgin Music (Publishers) Ltd.
+℗Virgin Records Ltd. 1975
+©Virgin Music (Publishers) Ltd. 1975
+
+Printed in England by Robor Limited
+
+Gatefold sleeve. Originally issued on the Roger Dean designed "twins/dragon/blue background" label, also issued with the green twins labels.  A later release also exists with the same cat #s but with green/red labels, It is here, [r3058032]
+
+Tracks are listed as Rubycon-Part One and Rubycon-Part Two on the cover, whereas on the labels tracks are simply credited as Part 1 and Part 2.

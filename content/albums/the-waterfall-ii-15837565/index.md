@@ -2,7 +2,7 @@
 title: "My Morning Jacket - The Waterfall II"
 artist: "My Morning Jacket"
 album_name: "The Waterfall II"
-date: 2020-09-15
+date: 2020-09-15T17:31:36.000000Z
 release_id: "15837565"
 slug: "the-waterfall-ii-15837565"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Spinning My Wheels
 2. Still Thinkin'
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Wasted
 9. Welcome Home
 10. The First Time
+
+
 ## Spotify
 {{< spotify type="album" id="4B5fQBMzkCRXoQ2qpxaQhh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy (The Waterfall) (Visualizer)" >}}
@@ -37,7 +42,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [My Morning Jacket - The Waterfall II](https://www.discogs.com/release/15837565-My-Morning-Jacket-The-Waterfall-II) |
 | Label          | ATO Records |
-| Format         | LP, Album, Cle |
+| Format         | Vinyl LP Album (Clear) |
 | Catalog Number | ATO0530LP |
 
-Standard clear version  Brittany Howard appears courtesy of ATO Records 
+Standard clear version
+
+Brittany Howard appears courtesy of ATO Records
+

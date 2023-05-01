@@ -2,7 +2,7 @@
 title: "The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)"
 artist: "The Blues Brothers"
 album_name: "The Blues Brothers (Original Soundtrack Recording)"
-date: 2015-09-04
+date: 2015-09-04T16:48:03.000000Z
 release_id: "4625231"
 slug: "the-blues-brothers-original-soundtrack-recording-4625231"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. She Caught The Katy (4:10)
 2. Peter Gunn Theme (3:46)
@@ -25,6 +26,9 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 9. Minnie The Moocher (3:23)
 10. Sweet Home Chicago (7:48)
 11. Jailhouse Rock (3:19)
+
+
+
 
 ## Videos
 {{< youtube id="SSo3LizTu_I" title="The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072" >}}
@@ -46,7 +50,21 @@ styles: ["Blues Rock", "Rhythm & Blues", "Soul", "Soundtrack"]
 | Release Year   | 1980 |
 | Discogs Link   | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/4625231-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |
 | Label          | Atlantic |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | K 50715 |
 
-A Phantom/Black Rhino Production.  Original recording: Universal Recording, Chicago. Additional recording: Record Plant, Los Angeles Record Plant, New York City Soundmixers, New York City  Mixed at Record Plant, NYC Mastered at The Master Cutting Room.  ℗©1980 Atlantic Recording Corporation. Printed and made in England  
+A Phantom/Black Rhino Production.
+
+Original recording: Universal Recording, Chicago.
+Additional recording:
+Record Plant, Los Angeles
+Record Plant, New York City
+Soundmixers, New York City
+
+Mixed at Record Plant, NYC
+Mastered at The Master Cutting Room.
+
+℗©1980 Atlantic Recording Corporation.
+Printed and made in England
+
+

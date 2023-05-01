@@ -2,7 +2,7 @@
 title: "Belly - Star"
 artist: "Belly"
 album_name: "Star"
-date: 2016-07-18
+date: 2016-07-18T17:38:17.000000Z
 release_id: "8785855"
 slug: "star-8785855"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Someone To Die For
 2. Angel
@@ -44,8 +45,12 @@ styles: ["Indie Rock"]
 28. Star (1:27)
 29. Sad Dress (3:44)
 30. Stay (4:57)
+
+
 ## Spotify
 {{< spotify type="album" id="2b5r3YRZYwSAeXd7aWZjWp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="B8w0B0EKy_4" title="Belly - Someone To Die For" >}}
@@ -71,7 +76,26 @@ styles: ["Indie Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [Belly - Star](https://www.discogs.com/release/8785855-Belly-Star) |
 | Label          | 4AD |
-| Format         | 2xLP, Album, RM, Whi + CD, Album + Ltd, RE |
+| Format         | Vinyl 2× LP Album Remastered (White Marbled), CD Album, All Media Limited Edition Reissue |
 | Catalog Number | DAD 3002 |
 
-Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM." Each LP comes in a custom inner sleeve.  LP1: Blue marbling LP2: Pink/red marbling  Tracks numbered sequentially regardless of sides.  All songs [...] recorded at: Sound Emporium Studios, Nashville All songs [...] mixed at: Sixteenth Avenue Sound, Nashville except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool  P 2016 4AD Ltd, C 2016 4AD Ltd US- 134 Grand Street, New York, N.Y. 10013 UK- 17-19 Alma Road, London, SW18 1AA Manufactured in the E U  Labels: P & C 1993 4AD, manufactured in the E.U.  Track durations not listed on release.
+Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM."
+Each LP comes in a custom inner sleeve.
+
+LP1: Blue marbling
+LP2: Pink/red marbling
+
+Tracks numbered sequentially regardless of sides.
+
+All songs [...] recorded at: Sound Emporium Studios, Nashville
+All songs [...] mixed at: Sixteenth Avenue Sound, Nashville
+except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool
+
+P 2016 4AD Ltd, C 2016 4AD Ltd
+US- 134 Grand Street, New York, N.Y. 10013
+UK- 17-19 Alma Road, London, SW18 1AA
+Manufactured in the E U
+
+Labels: P & C 1993 4AD, manufactured in the E.U.
+
+Track durations not listed on release.

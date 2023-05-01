@@ -2,7 +2,7 @@
 title: "The Human League - The Virgin Years"
 artist: "The Human League"
 album_name: "The Virgin Years"
-date: 2022-12-27
+date: 2022-12-27T03:03:51.000000Z
 release_id: "25154539"
 slug: "the-virgin-years-25154539"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Dare
 2. The Things That Dreams Are Made Of (4:14)
@@ -66,6 +67,9 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 50. Let's Get Together Again (4:58)
 51. Get It Right This Time (4:12)
 
+
+
+
 ## Videos
 {{< youtube id="NUFi1m0oVfQ" title="The HumanLeague - Dare! - 1981 /LP Album" >}}
 
@@ -74,8 +78,14 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [The Human League - The Virgin Years](https://www.discogs.com/release/25154539-The-Human-League-The-Virgin-Years) |
-| Label          | UMC, Virgin, UMC, Virgin |
-| Format         | Box, Comp, Ltd + LP, Album, RE, Tur + LP, MiniAlbu |
-| Catalog Number | 358694, 00602435869407 |
+| Label          | UMC |
+| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Turqouise), Vinyl LP Mini-Album Reissue (Lime Green ), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Crystal Clear) |
+| Catalog Number | 358694 |
 
-Coloured vinyl box set of the Human League MK II. Comprises  Dare - Turquoise vinyl Fascination - Lime Green vinyl Hysteria - Yellow vinyl Crash - Red vinyl Romantic? - Crystal Clear vinyl
+Coloured vinyl box set of the Human League MK II. Comprises
+
+Dare - Turquoise vinyl
+Fascination - Lime Green vinyl
+Hysteria - Yellow vinyl
+Crash - Red vinyl
+Romantic? - Crystal Clear vinyl

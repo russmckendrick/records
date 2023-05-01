@@ -2,7 +2,7 @@
 title: "Jo Quail - Exsolve"
 artist: "Jo Quail"
 album_name: "Exsolve"
-date: 2019-10-22
+date: 2019-10-22T17:51:38.000000Z
 release_id: "14196389"
 slug: "exsolve-14196389"
 hideSummary: true
@@ -13,13 +13,18 @@ cover:
 genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "Post-Metal", "Post Rock"]
 ---
+
 ## Tracklisting
 1. Forge - Of Two Forms (17:50)
 2. Mandrel Cantus (11:23)
 3. Causleen's Wheel (15:26)
 4. Reya Pavan (10:42)
+
+
 ## Spotify
 {{< spotify type="album" id="3Us4t6rgu8K9qxnnTRw0iB" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9Pwhuk_tLdc" title="Mandrel Cantus Excerpt" >}}
@@ -34,7 +39,10 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 | Release Year   | 2019 |
 | Discogs Link   | [Jo Quail - Exsolve](https://www.discogs.com/release/14196389-Jo-Quail-Exsolve) |
 | Label          | Adderstone Records |
-| Format         | 2xLP, Album, Ltd, Cle |
+| Format         | Vinyl 2× LP Album Limited Edition (Clear With Black And Gold Splatter) |
 | Catalog Number | ASR001 |
 
-© & ℗ Jo Quail, 2019.  Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code. 
+© & ℗ Jo Quail, 2019.
+
+Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code.
+

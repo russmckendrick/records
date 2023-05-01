@@ -2,7 +2,7 @@
 title: "Wire - Pink Flag"
 artist: "Wire"
 album_name: "Pink Flag"
-date: 2018-12-27
+date: 2018-12-27T18:11:53.000000Z
 release_id: "12172756"
 slug: "pink-flag-12172756"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk", "New Wave"]
 ---
+
 ## Tracklisting
 1. Reuters
 2. Field Day For The Sundays
@@ -35,8 +36,12 @@ styles: ["Punk", "New Wave"]
 19. Champs
 20. Feeling Called Love
 21. 1 2 X U
+
+
 ## Spotify
 {{< spotify type="album" id="4WXqZZ28geJSPtqLcCF56L" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JFm-U8WIrNg" title="Reuters (2006 Remastered Version)" >}}
@@ -67,7 +72,13 @@ styles: ["Punk", "New Wave"]
 | Release Year   | 2018 |
 | Discogs Link   | [Wire - Pink Flag](https://www.discogs.com/release/12172756-Wire-Pink-Flag) |
 | Label          | Pinkflag |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | PF11LP |
 
-Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag  
+Includes printed inner sleeve with lyrics.
+
+Recorded at Advision Studios.
+
+℗ & © 2018 pinkflag
+
+

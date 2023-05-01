@@ -2,7 +2,7 @@
 title: "Thank You Scientist - Maps Of Non-Existent Places"
 artist: "Thank You Scientist"
 album_name: "Maps Of Non-Existent Places"
-date: 2020-03-12
+date: 2020-03-12T18:46:41.000000Z
 release_id: "14780449"
 slug: "maps-of-non-existent-places-14780449"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Prelude (1:14)
 2. A Salesman's Guide To Non-Existence (5:06)
@@ -24,8 +25,12 @@ styles: ["Prog Rock"]
 8. Concrete Swan Dive (5:51)
 9. In The Company Of Worms (5:47)
 10. My Famed Disappearing Act (5:44)
+
+
 ## Spotify
 {{< spotify type="album" id="08V04ch6hJHGLKKAi7QD1r" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="W1nTfMb58tM" title="Thank you Scientist - Maps of NON -Existent Places" >}}
@@ -37,7 +42,16 @@ styles: ["Prog Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Thank You Scientist - Maps Of Non-Existent Places](https://www.discogs.com/release/14780449-Thank-You-Scientist-Maps-Of-Non-Existent-Places) |
 | Label          | Evil Ink Records |
-| Format         | 2xLP, Album, Ltd, RP, Blo |
+| Format         | Vinyl 2× LP Album Limited Edition Repress (Blood Red With Black Swirl) |
 | Catalog Number | EI200V |
 
-1st Press: 180g Blue 180g Black  2nd Press (THIS): Blood Red w/ Black Splatter / 1,000 copies   This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been remastered and pressed upon signing to Evil Ink Records.   Track times taken from times found from the digital version of the album purchased from iTunes.
+1st Press:
+180g Blue
+180g Black
+
+2nd Press (THIS):
+Blood Red w/ Black Splatter / 1,000 copies 
+
+This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been remastered and pressed upon signing to Evil Ink Records. 
+
+Track times taken from times found from the digital version of the album purchased from iTunes.

@@ -2,7 +2,7 @@
 title: "Buffalo Tom - Birdbrain"
 artist: "Buffalo Tom"
 album_name: "Birdbrain"
-date: 2020-10-10
+date: 2020-10-10T10:40:13.000000Z
 release_id: "16016550"
 slug: "birdbrain-16016550"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Birdbrain (3:13)
 2. Skeleton Key (4:35)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Baby (3:32)
 9. Directive (4:01)
 10. Bleeding Heart (3:11)
+
+
 ## Spotify
 {{< spotify type="album" id="21gaWPN6WDilBEwM8tZOOx" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eEIb5Xrf81g" title="Buffalo Tom - Birdbrain" >}}
@@ -37,7 +42,12 @@ styles: ["Alternative Rock"]
 | Release Year   | 2020 |
 | Discogs Link   | [Buffalo Tom - Birdbrain](https://www.discogs.com/release/16016550-Buffalo-Tom-Birdbrain) |
 | Label          | Beggars Arkive |
-| Format         | LP, Album, Ltd, RE, Min |
+| Format         | Vinyl LP Album Limited Edition Reissue (Mint Green) |
 | Catalog Number | BBQ2179LP |
 
-Published by Scrawny Music Licensed from Megadisc Records, Belgium ℗ 1990 Megadisc Records © 2020 Beggars Banquet Records Ltd.  30th anniversary pressing.  Hype Sticker 'Limited Edition featuring mint green colored vinyl"
+Published by Scrawny Music
+Licensed from Megadisc Records, Belgium
+℗ 1990 Megadisc Records
+© 2020 Beggars Banquet Records Ltd.
+
+30th anniversary pressing.  Hype Sticker 'Limited Edition featuring mint green colored vinyl"

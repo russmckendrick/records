@@ -2,7 +2,7 @@
 title: "My Bloody Valentine - m b v"
 artist: "My Bloody Valentine"
 album_name: "m b v"
-date: 2021-05-21
+date: 2021-05-21T05:29:13.000000Z
 release_id: "18769009"
 slug: "m-b-v-18769009"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze"]
 ---
+
 ## Tracklisting
 1. She Found Now
 2. Only Tomorrow
@@ -23,8 +24,12 @@ styles: ["Shoegaze"]
 7. In Another Way
 8. Nothing Is
 9. Wonder 2
+
+
 ## Spotify
 {{< spotify type="album" id="2SlSnUYW5bgtdWXVymv18a" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rBKjhgHGVZs" title="she found now - m b v  - my bloody valentine" >}}
@@ -42,8 +47,17 @@ styles: ["Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [My Bloody Valentine - m b v](https://www.discogs.com/release/18769009-My-Bloody-Valentine-m-b-v) |
-| Label          | Domino, MBV Records |
-| Format         | LP, Album, Dlx, RE, Gat |
+| Label          | Domino |
+| Format         | Vinyl LP Album Deluxe Edition Reissue (Gatefold) |
 | Catalog Number | REWIGLP160X |
 
-Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve. Includes a set of 5 card art prints and download card.  [Sticker on shrink / front] "Fully Analog Cut includes download codes 24-bit . 16-bit . mp3 Made in the EU"  
+Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve.
+Includes a set of 5 card art prints and download card.
+
+[Sticker on shrink / front]
+"Fully Analog Cut
+includes download codes
+24-bit . 16-bit . mp3
+Made in the EU"
+
+

@@ -2,7 +2,7 @@
 title: "Acker Bilk His Clarinet And Strings - Evergreen"
 artist: "Acker Bilk His Clarinet And Strings"
 album_name: "Evergreen"
-date: 2020-08-02
+date: 2020-08-02T13:45:24.000000Z
 release_id: "3110291"
 slug: "evergreen-3110291"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz"]
 styles: ["Easy Listening"]
 ---
+
 ## Tracklisting
 1. Evergreen
 2. Don't Give Up On Us Baby
@@ -35,6 +36,9 @@ styles: ["Easy Listening"]
 19. Yesterday
 20. When A Child Is Born
 
+
+
+
 ## Videos
 {{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}
 - [Mr. Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
@@ -44,8 +48,6 @@ styles: ["Easy Listening"]
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Acker Bilk His Clarinet And Strings - Evergreen](https://www.discogs.com/release/3110291-Acker-Bilk-His-Clarinet-And-Strings-Evergreen) |
-| Label          | Warwick Records, Warwick Records |
-| Format         | LP, Album, Ltd, Gre |
-| Catalog Number | PW 5045, PW5045 |
-
-
+| Label          | Warwick Records |
+| Format         | Vinyl LP Album Limited Edition (Green) |
+| Catalog Number | PW 5045 |

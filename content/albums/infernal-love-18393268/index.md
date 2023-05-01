@@ -2,7 +2,7 @@
 title: "Therapy? - Infernal Love"
 artist: "Therapy?"
 album_name: "Infernal Love"
-date: 2022-01-07
+date: 2022-01-07T10:25:31.000000Z
 release_id: "18393268"
 slug: "infernal-love-18393268"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Epilepsy
 2. Stories
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. Loose
 10. Diane
 11. 30 Seconds
+
+
 ## Spotify
 {{< spotify type="album" id="31KNGmbreLRbNfmEXRnXTl" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="aBRfZvi_sqQ" title="Therapy? -  Stories" >}}
@@ -53,8 +58,14 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Therapy? - Infernal Love](https://www.discogs.com/release/18393268-Therapy-Infernal-Love) |
-| Label          | Music On Vinyl, A&M Records |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Catalog Number | MOVLP2806 |
 
-Includes a 12" square matte insert with song lyrics and credits, printed on both sides. Disc held in a white paper die cut polylined inner. Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.  Made in The Netherlands.  This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc).
+Includes a 12" square matte insert with song lyrics and credits, printed on both sides.
+Disc held in a white paper die cut polylined inner.
+Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.
+
+Made in The Netherlands.
+
+This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc).

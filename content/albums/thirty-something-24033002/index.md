@@ -2,7 +2,7 @@
 title: "Orbital - Thirty-Something"
 artist: "Orbital"
 album_name: "Thirty-Something"
-date: 2022-08-01
+date: 2022-08-01T06:03:15.000000Z
 release_id: "24033002"
 slug: "thirty-something-24033002"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno", "House", "Breakbeat", "Trance"]
 ---
+
 ## Tracklisting
 1. Smiley (7:08)
 2. Satan (30-Something Years Later Mix) (7:10)
@@ -31,6 +32,9 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 15. Belfast (ANNA Techno Remix) (7:22)
 16. The Box (Joris Voorn Remix) (6:42)
 17. Are We Here? (Shanti Celeste Remix) (5:36)
+
+
+
 
 ## Videos
 {{< youtube id="Gl-7yh4hY04" title="Smiley" >}}
@@ -64,8 +68,10 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Orbital - Thirty-Something](https://www.discogs.com/release/24033002-Orbital-Thirty-Something) |
-| Label          | Orbital Recordings Ltd., London Records |
-| Format         | 4x12\", Album, 180 + Box |
+| Label          | Orbital Recordings Ltd. |
+| Format         | Vinyl 4× 12" Album (180g), Box Set |
 | Catalog Number | LMS5521698 |
 
-Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat. 
+Boxes ordered directly from Townsend Music came with an exclusive signed print.
+12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat.
+

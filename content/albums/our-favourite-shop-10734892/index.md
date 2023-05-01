@@ -2,7 +2,7 @@
 title: "The Style Council - Our Favourite Shop"
 artist: "The Style Council"
 album_name: "Our Favourite Shop"
-date: 2020-01-08
+date: 2020-01-08T18:57:52.000000Z
 release_id: "10734892"
 slug: "our-favourite-shop-10734892"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. Homebreakers
 2. All Gone Away
@@ -28,8 +29,12 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 12. With Everything To Lose
 13. Our Favourite Shop
 14. Walls Come Tumbling Down
+
+
 ## Spotify
 {{< spotify type="album" id="75nT99YVabgYL2UcyKrPHa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="eweq1pnVOF0" title="The Style Council - Come To Milton Keynes" >}}
@@ -52,8 +57,8 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Style Council - Our Favourite Shop](https://www.discogs.com/release/10734892-The-Style-Council-Our-Favourite-Shop) |
-| Label          | Polydor, Polydor, UMC |
-| Format         | LP, Album, Ltd, RE, Lil |
-| Catalog Number | TSCLP 2, 5734112 |
+| Label          | Polydor |
+| Format         | Vinyl LP Album Limited Edition Reissue (Lilac) |
+| Catalog Number | TSCLP 2 |
 
 Reissue on lilac-coloured vinyl

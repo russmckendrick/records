@@ -2,7 +2,7 @@
 title: "Can - Ege Bamyasi"
 artist: "Can"
 album_name: "Ege Bamyasi"
-date: 2019-11-08
+date: 2019-11-08T19:39:57.000000Z
 release_id: "14373286"
 slug: "ege-bamyasi-14373286"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Krautrock"]
 ---
+
 ## Tracklisting
 1. Pinch
 2. Sing Swan Song
@@ -21,8 +22,12 @@ styles: ["Krautrock"]
 5. Soup
 6. I'm So Green
 7. Spoon
+
+
 ## Spotify
 {{< spotify type="album" id="3Qa2CdymyGvXkqoqIZykmT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Hls8WnUfHbY" title="Pinch - Can (1972)" >}}
@@ -39,8 +44,8 @@ styles: ["Krautrock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Can - Ege Bamyasi](https://www.discogs.com/release/14373286-Can-Ege-Bamyasi) |
-| Label          | Mute, Spoon Records |
-| Format         | LP, Album, Ltd, RE, RM, Gre |
-| Catalog Number | XLSPOON8_UK, XSPOON8 |
+| Label          | Mute |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
+| Catalog Number | XLSPOON8_UK |
 
 Limited Edition Green Vinyl. Includes Download Code.

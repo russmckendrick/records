@@ -2,7 +2,7 @@
 title: "The Who - The Who Hits 50!"
 artist: "The Who"
 album_name: "The Who Hits 50!"
-date: 2015-09-27
+date: 2015-09-27T10:49:53.000000Z
 release_id: "6689853"
 slug: "the-who-hits-50-6689853"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Zoot Suit (2:01)
 2. I Can't Explain (2:05)
@@ -35,8 +36,11 @@ styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 19. Who Are You (5:11)
 20. Real Good-Looking Boy (3:53)
 21. Be Lucky (3:18)
+
+
 ## Spotify
 {{< spotify type="album" id="0FVnJBGOQD3Kx2x87Er2Az" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -44,8 +48,16 @@ styles: ["Rock & Roll", "Arena Rock", "Classic Rock", "Mod", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [The Who - The Who Hits 50!](https://www.discogs.com/release/6689853-The-Who-The-Who-Hits-50) |
-| Label          | Polydor, Universal Music Catalogue |
-| Format         | 2xLP, Comp, RM |
+| Label          | Polydor |
+| Format         | Vinyl 2× LP Compilation Remastered |
 | Catalog Number | 3794051 |
 
-This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051.  Catalog Number Disc 1: 3794052 Catalog Number Disc 1: 3794053  Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).  Differs from [r11234307]: runout information LP1.  Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched.
+This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051. 
+Catalog Number Disc 1: 3794052
+Catalog Number Disc 1: 3794053
+
+Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).
+
+Differs from [r11234307]: runout information LP1.
+
+Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched.

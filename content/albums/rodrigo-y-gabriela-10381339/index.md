@@ -2,7 +2,7 @@
 title: "Rodrigo Y Gabriela - Rodrigo Y Gabriela"
 artist: "Rodrigo Y Gabriela"
 album_name: "Rodrigo Y Gabriela"
-date: 2017-06-04
+date: 2017-06-04T10:36:02.000000Z
 release_id: "10381339"
 slug: "rodrigo-y-gabriela-10381339"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Latin"]
 styles: ["Acoustic"]
 ---
+
 ## Tracklisting
 1. Tamacun
 2. Diablo Rojo
@@ -33,8 +34,12 @@ styles: ["Acoustic"]
 17. Medley: One/Take 5
 18. Mr. Tang
 19. Diablo Rojo
+
+
 ## Spotify
 {{< spotify type="album" id="3iqyQHFVWrmx4rjWRJXCNg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="l_cJ5fvVhiI" title="Rodrigo y Gabriela - Diablo Rojo (HQ)" >}}
@@ -53,7 +58,20 @@ styles: ["Acoustic"]
 | Release Year   | 2017 |
 | Discogs Link   | [Rodrigo Y Gabriela - Rodrigo Y Gabriela](https://www.discogs.com/release/10381339-Rodrigo-Y-Gabriela-Rodrigo-Y-Gabriela) |
 | Label          | Rubyworks |
-| Format         | 2xLP, Album, Dlx, Ltd, RM |
+| Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Remastered |
 | Catalog Number | RWXLP37R |
 
-The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela.   "Limited Edition Double LP - pressed on heavyweight 180g vinyl. Special Gold Foil logo cover (first pressing only)."  Limitation of this run/pressing unknown.  LP1 - Rodrigo y Gabriela (Remastered) Recorded at Riverside Studios, Bath, UK, Oct. 2005. 2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.  LP2 - Rodrigo y Gabriela Live At The Olympia Theatre Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland. 2016 Remaster by John Webber at Air Studios, London.
+The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela. 
+
+"Limited Edition Double LP - pressed on heavyweight 180g vinyl.
+Special Gold Foil logo cover (first pressing only)."
+
+Limitation of this run/pressing unknown.
+
+LP1 - Rodrigo y Gabriela (Remastered)
+Recorded at Riverside Studios, Bath, UK, Oct. 2005.
+2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.
+
+LP2 - Rodrigo y Gabriela Live At The Olympia Theatre
+Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland.
+2016 Remaster by John Webber at Air Studios, London.

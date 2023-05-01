@@ -2,7 +2,7 @@
 title: "The Who - Tommy"
 artist: "The Who"
 album_name: "Tommy"
-date: 2015-08-09
+date: 2015-08-09T12:08:58.000000Z
 release_id: "5353702"
 slug: "tommy-5353702"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Original Album 2013 Remaster
 2. Overture (5:20)
@@ -137,20 +138,20 @@ styles: ["Classic Rock", "Pop Rock"]
 121. Tommy's Holiday Camp (0:48)
 122. We're Not Gonna Take It (3:38)
 123. See Me, Feel Me/Listening To You (7:51)
+
+
 ## Spotify
 {{< spotify type="album" id="5cT7ee1sy2oEbFalP4asS4" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="txA_FXWX7Po" title="The̲ W̲ho -Tommy (1969) 1990 MFSL Remaster (Full Album)" >}}
-- [Overture](https://www.youtube.com/watch?v=MPUDqqINVXE)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [The Who - Tommy](https://www.discogs.com/release/5353702-The-Who-Tommy) |
-| Label          | Polydor, Track Record |
-| Format         | Box, Ltd, Sup + CD, Album, RE, RM + CD + Blu-ray,  |
+| Label          | Polydor |
+| Format         | Box Set Limited Edition (Super Deluxe Edition), CD Album Reissue Remastered, CD, Blu-ray Album Stereo Multichannel, CD Album |
 | Catalog Number | 3747396 |
 
 On disc four all tracks are from the Capitol Theatre, Ottawa, Ontario, Canada, 15 October 1969, except for "I'm Free", "Tommy's Holiday Camp", "We're Not Gonna Take It" and "See Me, Feel Me" which are from Swansea City Football Club, 12 June 1976.

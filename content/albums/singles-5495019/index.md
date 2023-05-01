@@ -2,7 +2,7 @@
 title: "Future Islands - Singles"
 artist: "Future Islands"
 album_name: "Singles"
-date: 2017-04-14
+date: 2017-04-14T09:26:08.000000Z
 release_id: "5495019"
 slug: "singles-5495019"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Seasons (Waiting On You) (3:46)
 2. Spirit (4:21)
@@ -24,8 +25,12 @@ styles: ["Synth-pop"]
 8. Like The Moon (4:40)
 9. Fall From Grace (4:15)
 10. A Dream Of You & Me (3:59)
+
+
 ## Spotify
 {{< spotify type="album" id="26bhmgVpg5E5HyU4K1BYMc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons (Waiting On You) (Official Video)" >}}
@@ -41,7 +46,17 @@ styles: ["Synth-pop"]
 | Release Year   | 2014 |
 | Discogs Link   | [Future Islands - Singles](https://www.discogs.com/release/5495019-Future-Islands-Singles) |
 | Label          | 4AD |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CAD 3402 |
 
-Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.  ℗ & © 2014 4AD All songs © 2014 Ideas for Housecrafts (ASCAP).  Recorded August 2013 at Dreamland Recording Studios in Hurley, NY. Additional tracking and mixing at DNA Studios in New York, NY.  Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.  Runouts are etched except "STERLING" which is stamped.
+Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.
+
+℗ & © 2014 4AD
+All songs © 2014 Ideas for Housecrafts (ASCAP).
+
+Recorded August 2013 at Dreamland Recording Studios in Hurley, NY.
+Additional tracking and mixing at DNA Studios in New York, NY.
+
+Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.
+
+Runouts are etched except "STERLING" which is stamped.

@@ -2,7 +2,7 @@
 title: "The National - Boxer"
 artist: "The National"
 album_name: "Boxer"
-date: 2017-08-13
+date: 2017-08-13T18:21:29.000000Z
 release_id: "10689734"
 slug: "boxer-10689734"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Fake Empire (3:25)
 2. Mistaken For Strangers (3:29)
@@ -28,8 +29,12 @@ styles: ["Acoustic", "Indie Rock"]
 12. Gospel (4:28)
 13. The System Only Dreams In Total Darkness
 14. Guilty Party
+
+
 ## Spotify
 {{< spotify type="album" id="2pwNkShhY1uip80rLMHUgX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="E9ck_FhoDUc" title="The National - Mistaken For Strangers" >}}
@@ -41,7 +46,13 @@ styles: ["Acoustic", "Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [The National - Boxer](https://www.discogs.com/release/10689734-The-National-Boxer) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album, Club, RE, S/Edition, Gra + 7\", Cle |
+| Format         | Vinyl LP Album Club Edition Reissue Special Edition (Gray), Vinyl 7" 45 RPM (Clear) |
 | Catalog Number | BBQLP 252 |
 
-10th Anniversary Reissue.  Sticker says : "The National Boxer Special Edition Gray Vinyl Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."
+10th Anniversary Reissue.
+
+Sticker says :
+"The National
+Boxer
+Special Edition Gray Vinyl
+Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."

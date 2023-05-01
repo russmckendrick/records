@@ -2,7 +2,7 @@
 title: "Violent Femmes - Hotel Last Resort"
 artist: "Violent Femmes"
 album_name: "Hotel Last Resort"
-date: 2019-08-30
+date: 2019-08-30T15:23:03.000000Z
 release_id: "13920373"
 slug: "hotel-last-resort-13920373"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Another Chorus
 2. I Get What I Want
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. Paris To Sleep
 12. Sleepin' At The Meetin'
 13. God Bless America
+
+
 ## Spotify
 {{< spotify type="album" id="6w3XDU18dzLjGtrTOrYJHg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort (Official Lyric Video)" >}}
@@ -39,8 +44,12 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Violent Femmes - Hotel Last Resort](https://www.discogs.com/release/13920373-Violent-Femmes-Hotel-Last-Resort) |
-| Label          | Add It Up Productions, [pias] |
-| Format         | LP, Album |
+| Label          | Add It Up Productions |
+| Format         | Vinyl LP Album |
 | Catalog Number | PIASR1100LP |
 
-Includes printed insert containing credits. Comes with a download card. Downloads by 45RPM - Powered by dropscards.  Runouts are etched.
+Includes printed insert containing credits.
+Comes with a download card.
+Downloads by 45RPM - Powered by dropscards.
+
+Runouts are etched.

@@ -2,7 +2,7 @@
 title: "Living In A Box - Living In A Box"
 artist: "Living In A Box"
 album_name: "Living In A Box"
-date: 2018-09-07
+date: 2018-09-07T18:30:44.000000Z
 release_id: "1190802"
 slug: "living-in-a-box-1190802"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Pop"]
 styles: ["New Wave", "Synth-pop", "Soul"]
 ---
+
 ## Tracklisting
 1. Living In A Box (3:02)
 2. Love Is The Art (3:39)
@@ -24,8 +25,12 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 8. Human Story (4:10)
 9. Can't Stop The Wheel (5:17)
 10. Living In A Box (Reprise: Full 12" Version) (3:10)
+
+
 ## Spotify
 {{< spotify type="album" id="3YXwaw2fNG3lZHU0YjhEX5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="mHzfhU8t5i8" title="Living In A Box - Living In A Box (Official Video)" >}}
@@ -45,7 +50,5 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 | Release Year   | 1987 |
 | Discogs Link   | [Living In A Box - Living In A Box](https://www.discogs.com/release/1190802-Living-In-A-Box-Living-In-A-Box) |
 | Label          | Chrysalis |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | CDL 1547 |
-
-

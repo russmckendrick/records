@@ -2,7 +2,7 @@
 title: "Bad Brains - God Of Love"
 artist: "Bad Brains"
 album_name: "God Of Love"
-date: 2019-12-16
+date: 2019-12-16T18:41:48.000000Z
 release_id: "14532513"
 slug: "god-of-love-14532513"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Reggae"]
 styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 ---
+
 ## Tracklisting
 1. Cool Mountaineer
 2. Justice Keepers
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 10. Thank Jah
 11. Big Fun
 12. How I Love Thee
+
+
 ## Spotify
 {{< spotify type="album" id="4qeyjV02AhO0BMH61DFcQT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love (Full album 1995)" >}}
@@ -45,7 +50,9 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 | Release Year   | 2019 |
 | Discogs Link   | [Bad Brains - God Of Love](https://www.discogs.com/release/14532513-Bad-Brains-God-Of-Love) |
 | Label          | Music On Vinyl |
-| Format         | LP, Ltd, Num, RE, Gre |
+| Format         | Vinyl LP Limited Edition Numbered Reissue (Green, Yellow, 180g) |
 | Catalog Number | MOVLP2531 |
 
-180-gram audiophile vinyl Insert Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl
+180-gram audiophile vinyl
+Insert
+Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl

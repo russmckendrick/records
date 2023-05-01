@@ -2,7 +2,7 @@
 title: "Various - The Lost Boys (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "The Lost Boys (Original Motion Picture Soundtrack)"
-date: 2018-06-23
+date: 2018-06-23T08:47:47.000000Z
 release_id: "12168177"
 slug: "the-lost-boys-original-motion-picture-soundtrack-12168177"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. Good Times
 2. Lost In The Shadows (The Lost Boys)
@@ -24,8 +25,12 @@ styles: ["Soundtrack"]
 8. I Still Believe
 9. Beauty Has Her Way
 10. To The Shock Of Miss Louise
+
+
 ## Spotify
 {{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="raI38f_xMZE" title="The Lost Boys (Original Soundtrack)" >}}
@@ -53,8 +58,9 @@ styles: ["Soundtrack"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12168177-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |
-| Label          | Atlantic, Atlantic |
-| Format         | LP, RE, Whi |
-| Catalog Number | 603497860630, RCV1 81767 |
+| Label          | Atlantic |
+| Format         | Vinyl LP Reissue (White) |
+| Catalog Number | 603497860630 |
 
-Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition" 
+Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition"
+

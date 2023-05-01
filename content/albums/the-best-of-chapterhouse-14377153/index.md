@@ -2,7 +2,7 @@
 title: "Chapterhouse - The Best Of Chapterhouse"
 artist: "Chapterhouse"
 album_name: "The Best Of Chapterhouse"
-date: 2019-11-09
+date: 2019-11-09T13:46:57.000000Z
 release_id: "14377153"
 slug: "the-best-of-chapterhouse-14377153"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. We Are The Beautiful
 2. Falling Down
@@ -30,6 +31,9 @@ styles: ["Indie Rock", "Shoegaze"]
 14. Something More
 15. On The Way To Fly
 
+
+
+
 ## Videos
 {{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}
 
@@ -38,8 +42,8 @@ styles: ["Indie Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Chapterhouse - The Best Of Chapterhouse](https://www.discogs.com/release/14377153-Chapterhouse-The-Best-Of-Chapterhouse) |
-| Label          | Sony Music, Music On Vinyl |
-| Format         | 2xLP, Comp, Ltd, Num, RE, Pur |
+| Label          | Sony Music |
+| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple & Pink Marble) |
 | Catalog Number | MOVLP2568 |
 
 Limited edition of 1500 copies

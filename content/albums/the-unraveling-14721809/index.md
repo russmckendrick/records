@@ -2,7 +2,7 @@
 title: "Drive-By Truckers - The Unraveling"
 artist: "Drive-By Truckers"
 album_name: "The Unraveling"
-date: 2020-01-31
+date: 2020-01-31T18:59:12.000000Z
 release_id: "14721809"
 slug: "the-unraveling-14721809"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Southern Rock", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Rosemary With A Bible And A Gun (3:20)
 2. Armageddon's Back In Town (3:49)
@@ -23,8 +24,12 @@ styles: ["Southern Rock", "Country Rock"]
 7. Babies In Cages (5:32)
 8. Grievance Merchants (4:08)
 9. Awaiting Resurrection (8:35)
+
+
 ## Spotify
 {{< spotify type="album" id="1DQ6Hm6J2aIZ1SvGii3bzj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)" >}}
@@ -34,8 +39,13 @@ styles: ["Southern Rock", "Country Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Drive-By Truckers - The Unraveling](https://www.discogs.com/release/14721809-Drive-By-Truckers-The-Unraveling) |
-| Label          | ATO Records, ATO Records |
-| Format         | LP, Album |
-| Catalog Number | ATO0518LP, 0882388515 |
+| Label          | ATO Records |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | ATO0518LP |
 
-Black Vinyl Version.   ℗ & © 2020 ATO Records, LLC  16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information 
+Black Vinyl Version. 
+
+℗ & © 2020 ATO Records, LLC
+
+16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information
+

@@ -2,7 +2,7 @@
 title: "Gladys Knight And The Pips - The Touch Of Love"
 artist: "Gladys Knight And The Pips"
 album_name: "The Touch Of Love"
-date: 2020-08-02
+date: 2020-08-02T13:45:46.000000Z
 release_id: "2171568"
 slug: "the-touch-of-love-2171568"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. The Look Of Love
 2. Best Thing That Ever Happened To Me
@@ -32,13 +33,17 @@ styles: ["Soul"]
 16. Try To Remember / The Way We Were
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1980 |
 | Discogs Link   | [Gladys Knight And The Pips - The Touch Of Love](https://www.discogs.com/release/2171568-Gladys-Knight-And-The-Pips-The-Touch-Of-Love) |
 | Label          | K-Tel |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | NE 1090 |
 
-Produced in association with PYE and Buddah Records.  This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts.
+Produced in association with PYE and Buddah Records.
+
+This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts.

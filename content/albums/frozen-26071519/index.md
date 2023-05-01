@@ -2,7 +2,7 @@
 title: "Curve - Frozen"
 artist: "Curve"
 album_name: "Frozen"
-date: 2023-02-13
+date: 2023-02-13T11:30:59.000000Z
 release_id: "26071519"
 slug: "frozen-26071519"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Coast Is Clear
 2. The Colour Hurts
 3. Frozen
 4. Zoo
+
+
+
 
 ## Videos
 {{< youtube id="q8_5TC1s0wQ" title="Curve Frozen" >}}
@@ -33,7 +37,13 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 | Release Year   | 2023 |
 | Discogs Link   | [Curve - Frozen](https://www.discogs.com/release/26071519-Curve-Frozen) |
 | Label          | Music On Vinyl |
-| Format         | 12\", EP, Ltd, Num, Whi |
+| Format         | Vinyl 12" EP Limited Edition Numbered (White marbled) |
 | Catalog Number | MOV12031 |
 
-Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.
+Part of a reissue series.
+Coloured vinyl.
+Plastic outer sleeve with Music On Vinyl sticker.
+Limited edition of 1000.
+Individual number stamped in silver metallic on rear of outer sleeve.
+Plain inner sleeve.
+Insert advertising Music On Vinyl Curve reissue series.

@@ -2,7 +2,7 @@
 title: "Transvision Vamp - Velveteen"
 artist: "Transvision Vamp"
 album_name: "Velveteen"
-date: 2019-06-22
+date: 2019-06-22T14:10:44.000000Z
 release_id: "13782865"
 slug: "velveteen-13782865"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Baby I Don't Care
 2. The Only One
@@ -25,8 +26,12 @@ styles: ["Rock & Roll"]
 9. Pay The Ghosts
 10. Bad Valentine
 11. Velveteen
+
+
 ## Spotify
 {{< spotify type="album" id="4Sik3ZYRJ7Yb4Q5DMlql8D" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="q-ccY2xHhY8" title="Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989" >}}
@@ -44,7 +49,5 @@ styles: ["Rock & Roll"]
 | Release Year   | 2019 |
 | Discogs Link   | [Transvision Vamp - Velveteen](https://www.discogs.com/release/13782865-Transvision-Vamp-Velveteen) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Red |
+| Format         | Vinyl LP Album Reissue (Red) |
 | Catalog Number | DEMREC325 |
-
-

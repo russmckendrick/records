@@ -2,7 +2,7 @@
 title: "Riverside - Wasteland"
 artist: "Riverside"
 album_name: "Wasteland"
-date: 2018-09-30
+date: 2018-09-30T12:30:44.000000Z
 release_id: "12587923"
 slug: "wasteland-12587923"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
+
 ## Tracklisting
 1. The Day After (1:48)
 2. Acid Rain (6:03)
@@ -32,8 +33,12 @@ styles: ["Prog Rock", "Progressive Metal"]
 16. River Down Below (5:41)
 17. Wasteland (8:25)
 18. The Night Before (3:59)
+
+
 ## Spotify
 {{< spotify type="album" id="2x2TYXmboFBDvZnSPK15B2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament (OFFICIAL VIDEO)" >}}
@@ -47,8 +52,11 @@ styles: ["Prog Rock", "Progressive Metal"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Riverside - Wasteland](https://www.discogs.com/release/12587923-Riverside-Wasteland) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Sil + LP, S/Sided, Etch, Sil + Album + CD, Alb |
-| Catalog Number | IOMLP 514, 19075871861 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP (Silver), Vinyl LP Single Sided Etched (Silver), All Media Album, CD Album, All Media Limited Edition |
+| Catalog Number | IOMLP 514 |
 
-Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap.  180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive.  IOMLP 514 on back, 19075871861 on back and lateral side.  
+Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap. 
+180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive. 
+IOMLP 514 on back, 19075871861 on back and lateral side. 
+

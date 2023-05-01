@@ -2,7 +2,7 @@
 title: "Monster Magnet - A Better Dystopia"
 artist: "Monster Magnet"
 album_name: "A Better Dystopia"
-date: 2021-05-25
+date: 2021-05-25T04:47:54.000000Z
 release_id: "18795121"
 slug: "a-better-dystopia-18795121"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
+
 ## Tracklisting
 1. The Diamond Mine
 2. Born To Go
@@ -27,8 +28,12 @@ styles: ["Stoner Rock"]
 11. Motorcycle (Straight To Hell)
 12. Learning To Die
 13. Welcome To The Void
+
+
 ## Spotify
 {{< spotify type="album" id="22OOJq1ayQi2zgVhqkoD3k" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="B5cw4KMugBc" title="The Diamond Mine" >}}
@@ -53,7 +58,14 @@ styles: ["Stoner Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Monster Magnet - A Better Dystopia](https://www.discogs.com/release/18795121-Monster-Magnet-A-Better-Dystopia) |
 | Label          | Napalm Records |
-| Format         | LP + LP, S/Sided, Etch + Album, Ltd |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition |
 | Catalog Number | NPR916VINYL |
 
-Double black vinyl in gatefold sleeve. Etching on side D.  Produced and mixed summer / fall 2020.  Strictly limited edition.  Made in Germany.
+Double black vinyl in gatefold sleeve.
+Etching on side D.
+
+Produced and mixed summer / fall 2020.
+
+Strictly limited edition.
+
+Made in Germany.

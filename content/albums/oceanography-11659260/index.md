@@ -2,7 +2,7 @@
 title: "Charlie Barnes - Oceanography"
 artist: "Charlie Barnes"
 album_name: "Oceanography"
-date: 2018-03-16
+date: 2018-03-16T10:37:04.000000Z
 release_id: "11659260"
 slug: "oceanography-11659260"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Intro (1:55)
 2. Oceanography (4:43)
@@ -38,8 +39,12 @@ styles: ["Indie Rock"]
 22. Maria
 23. All I Have
 24. The Weather
+
+
 ## Spotify
 {{< spotify type="album" id="1IX6b0UZFJv4xlWSIGkcVG" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="J3GOusISHlo" title="Oceanography" >}}
@@ -49,8 +54,12 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Charlie Barnes - Oceanography](https://www.discogs.com/release/11659260-Charlie-Barnes-Oceanography) |
-| Label          | Superball Music, Sony Music |
-| Format         | LP + CD + Album |
-| Catalog Number | SBMLP 045, 19075815841 |
+| Label          | Superball Music |
+| Format         | Vinyl LP, CD, All Media Album |
+| Catalog Number | SBMLP 045 |
 
-180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.  Copies purchased in Charlie Burns official store includes a signed postcard.  Recorded in fits and starts between October 2014 and October 2017.
+180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.
+
+Copies purchased in Charlie Burns official store includes a signed postcard.
+
+Recorded in fits and starts between October 2014 and October 2017.

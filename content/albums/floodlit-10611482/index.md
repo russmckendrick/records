@@ -2,7 +2,7 @@
 title: "Pijn - Floodlit"
 artist: "Pijn"
 album_name: "Floodlit"
-date: 2019-01-11
+date: 2019-01-11T11:12:27.000000Z
 release_id: "10611482"
 slug: "floodlit-10611482"
 hideSummary: true
@@ -13,13 +13,18 @@ cover:
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
+
 ## Tracklisting
 1. Dumbstruck & Floodlit (8:23)
 2. Hazel (2:29)
 3. Cassandra (1:37)
 4. Lacquer (7:25)
+
+
 ## Spotify
 {{< spotify type="album" id="5z7mZOQyjl8i20QtuUS83K" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="F417DTW7O6o" title="Pijn - Dumbstruck & Floodlit Live" >}}
@@ -31,7 +36,8 @@ styles: ["Post Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Pijn - Floodlit](https://www.discogs.com/release/10611482-Pijn-Floodlit) |
 | Label          | Holy Roar Records |
-| Format         | LP, EP, Ltd, RP, Cre |
+| Format         | Vinyl LP 45 RPM EP Limited Edition Repress (Cream) |
 | Catalog Number | HRR166 |
 
-Repress, Edition of 250.  Durations taken from digital files. 
+Repress, Edition of 250. 
+Durations taken from digital files. 

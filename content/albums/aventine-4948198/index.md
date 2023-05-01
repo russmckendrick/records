@@ -2,7 +2,7 @@
 title: "Agnes Obel - Aventine"
 artist: "Agnes Obel"
 album_name: "Aventine"
-date: 2017-01-03
+date: 2017-01-03T18:47:38.000000Z
 release_id: "4948198"
 slug: "aventine-4948198"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
+
 ## Tracklisting
 1. Chord Left (2:29)
 2. Fuel To Fire (5:29)
@@ -39,8 +40,12 @@ styles: ["Folk"]
 23. The Curse (Instrumental Version)
 24. Aventine (Instrumental Version)
 25. Fuel To Fire (Instrumental Version)
+
+
 ## Spotify
 {{< spotify type="album" id="011ifQyKbsMAWCUFDZiMaa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="bbU31JLtlug" title="Agnes Obel - Chord Left" >}}
@@ -63,7 +68,10 @@ styles: ["Folk"]
 | Release Year   | 2013 |
 | Discogs Link   | [Agnes Obel - Aventine](https://www.discogs.com/release/4948198-Agnes-Obel-Aventine) |
 | Label          | Play It Again Sam |
-| Format         | LP, Album + CD, Album + CD + Box, Ltd |
+| Format         | Vinyl LP Album, CD Album, CD, Box Set Limited Edition |
 | Catalog Number | PIASR615BOX |
 
-Limited Edition Deluxe Box Set  180g Heavyweight Vinyl & CD Album plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print.
+Limited Edition Deluxe Box Set
+
+180g Heavyweight Vinyl & CD Album
+plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print.

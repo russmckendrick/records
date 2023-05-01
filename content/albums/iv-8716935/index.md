@@ -2,7 +2,7 @@
 title: "BadBadNotGood - IV"
 artist: "BadBadNotGood"
 album_name: "IV"
-date: 2017-06-25
+date: 2017-06-25T14:04:53.000000Z
 release_id: "8716935"
 slug: "iv-8716935"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "IV by BadBadNotGood"
     caption: "IV by BadBadNotGood"
 genres: ["Jazz"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. And That, Too.
 2. Speaking Gently 
@@ -25,8 +26,12 @@ styles: null
 9. Structure No. 3
 10. In Your Eyes
 11. Cashmere
+
+
 ## Spotify
 {{< spotify type="album" id="5wAGlQICfKYQfaBppnUbmP" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}
@@ -43,7 +48,9 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [BadBadNotGood - IV](https://www.discogs.com/release/8716935-BadBadNotGood-IV) |
 | Label          | Innovative Leisure Records |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album Stereo |
 | Catalog Number | IL 2034 |
 
-Gatefold cover. Blue front cover, yellow back cover, inside image is of the band with coconut tree in background. 
+Gatefold cover.
+Blue front cover, yellow back cover, inside image is of the band with coconut tree in background.
+

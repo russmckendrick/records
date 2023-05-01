@@ -2,7 +2,7 @@
 title: "Various - The Awards 1992"
 artist: "Various"
 album_name: "The Awards 1992"
-date: 2019-01-05
+date: 2019-01-05T11:38:49.000000Z
 release_id: "2697679"
 slug: "the-awards-1992-2697679"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Innuendo (6:29)
 2. Calling Elvis (6:23)
@@ -48,13 +49,15 @@ styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 32. Inspector Morse (Main Theme)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1992 |
 | Discogs Link   | [Various - The Awards 1992](https://www.discogs.com/release/2697679-Various-The-Awards-1992) |
 | Label          | Polygram TV |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | 515 207-1 |
 
 The Brits 1992 sponsored by Britannia Music Club. 32 classic tracks by the cream of the 1992 Brit Award nominees. Gatefold cover with pictures and synopsis of each track/artist.

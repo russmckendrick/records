@@ -2,7 +2,7 @@
 title: "Wishbone Ash - Argus"
 artist: "Wishbone Ash"
 album_name: "Argus"
-date: 2017-06-01
+date: 2017-06-01T18:07:52.000000Z
 release_id: "8668871"
 slug: "argus-8668871"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. Time Was (9:39)
 2. Sometime World (6:49)
@@ -21,8 +22,12 @@ styles: ["Hard Rock", "Classic Rock"]
 5. Leaf And Stream (3:51)
 6. Warrior  (11:58)
 7. Throw Down The Sword
+
+
 ## Spotify
 {{< spotify type="album" id="7xEluvnbmFtRB5g66CJ2ND" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="iIbHRX8hO64" title="Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]" >}}
@@ -40,8 +45,14 @@ styles: ["Hard Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 1978 |
 | Discogs Link   | [Wishbone Ash - Argus](https://www.discogs.com/release/8668871-Wishbone-Ash-Argus) |
-| Label          | MCA Records, MCA Records |
-| Format         | LP, Album, RE, Gat |
-| Catalog Number | MCA 410 099, 410099 |
+| Label          | MCA Records |
+| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Catalog Number | MCA 410 099 |
 
-Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919 BA-213 on rear sleeve (P) 1978 réédition Printed in France Imp Glory 92602 Asnières Made in France  cat# is given as MCA 410 009 on cover and 410009 on center labels
+Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919
+BA-213 on rear sleeve
+(P) 1978 réédition
+Printed in France Imp Glory 92602 Asnières
+Made in France
+
+cat# is given as MCA 410 009 on cover and 410009 on center labels

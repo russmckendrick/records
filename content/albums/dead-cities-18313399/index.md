@@ -2,7 +2,7 @@
 title: "The Future Sound Of London - Dead Cities"
 artist: "The Future Sound Of London"
 album_name: "Dead Cities"
-date: 2021-04-16
+date: 2021-04-16T05:44:54.000000Z
 release_id: "18313399"
 slug: "dead-cities-18313399"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ---
+
 ## Tracklisting
 1. Herd Killing
 2. Dead Cities
@@ -27,8 +28,12 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 11. Yage
 12. Vit Drowning / Through Your Gills I Breathe
 13. First Death In The Family
+
+
 ## Spotify
 {{< spotify type="album" id="2xHvAxrgMfKrYIicQVT9ay" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1lTseaEvDSQ" title="Future Sound Of London - Dead Cities (Official Video)" >}}
@@ -61,8 +66,12 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Future Sound Of London - Dead Cities](https://www.discogs.com/release/18313399-The-Future-Sound-Of-London-Dead-Cities) |
-| Label          | Virgin, Virgin, UMC, UMC, EBV, EBV |
-| Format         | 2xLP, Album, RE, 180 |
-| Catalog Number | 3537463, 0602435374635 |
+| Label          | Virgin |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Catalog Number | 3537463 |
 
-Comes with a [free digital download](https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008) code redeemable at [l1052727].  Gatefold cover.  Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print.
+Comes with a [url=https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008]free digital download[/url] code redeemable at [l1052727].
+
+Gatefold cover.
+
+Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print.

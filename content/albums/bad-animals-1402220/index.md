@@ -2,7 +2,7 @@
 title: "Heart - Bad Animals"
 artist: "Heart"
 album_name: "Bad Animals"
-date: 2015-10-14
+date: 2015-10-14T18:37:05.000000Z
 release_id: "1402220"
 slug: "bad-animals-1402220"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["AOR", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Who Will You Run To (4:06)
 2. Alone (3:38)
@@ -24,8 +25,12 @@ styles: ["AOR", "Hard Rock"]
 8. Strangers Of The Heart (3:39)
 9. Easy Target (3:56)
 10. RSVP (3:37)
+
+
 ## Spotify
 {{< spotify type="album" id="56dfEbntfVTMCxjrjggL1e" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="T68DuwluaOE" title="You Ain't So Tough" >}}
@@ -40,8 +45,10 @@ styles: ["AOR", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 1987 |
 | Discogs Link   | [Heart - Bad Animals](https://www.discogs.com/release/1402220-Heart-Bad-Animals) |
-| Label          | Capitol Records, Capitol Records |
-| Format         | LP, Album |
-| Catalog Number | ESTU 2032, 24 0766 1 |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | ESTU 2032 |
 
-Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom.
+Issued with a custom printed inner sleeve containing lyrics, credits and images.
+"Sleeve printed in England.
+Manufactured in England." , on rear's left bottom.

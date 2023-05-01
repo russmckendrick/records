@@ -2,7 +2,7 @@
 title: "James - Gold Mother"
 artist: "James"
 album_name: "Gold Mother"
-date: 2017-12-16
+date: 2017-12-16T13:19:57.000000Z
 release_id: "11284851"
 slug: "gold-mother-11284851"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Come Home (Flood Mix)
 2. Lose Control
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. Come Home (Original Version)
 12. Crescendo
 13. Hang On
+
+
 ## Spotify
 {{< spotify type="album" id="7qQEoMXpeyJ2GJkkdDsVdr" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Lm0IBdp6Y1A" title="James - How Was It For You?" >}}
@@ -42,7 +47,5 @@ styles: ["Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [James - Gold Mother](https://www.discogs.com/release/11284851-James-Gold-Mother) |
 | Label          | Fontana |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | 571 290-9 |
-
-

@@ -2,7 +2,7 @@
 title: "Field Music - Flat White Moon"
 artist: "Field Music"
 album_name: "Flat White Moon"
-date: 2021-04-23
+date: 2021-04-23T04:31:25.000000Z
 release_id: "18420103"
 slug: "flat-white-moon-18420103"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Orion From The Street
 2. Do Me A Favour
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. Invisible Days
 11. The Curtained Room
 12. You Get Better
+
+
 ## Spotify
-{{< spotify type="album" id="3kmU9xUYWy6FtCkrsFrNOx" width="100%" height="500" >}}
+{{< spotify type="album" id="27svLi0FC84qXDbT6DfFUY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="YfdqxwgyFgY" title="Field Music - Flat White Moon (Full Album) 2021" >}}
@@ -40,7 +45,5 @@ styles: ["Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Field Music - Flat White Moon](https://www.discogs.com/release/18420103-Field-Music-Flat-White-Moon) |
 | Label          | Memphis Industries |
-| Format         | LP, Album, Ltd, Tra |
+| Format         | Vinyl LP Album Limited Edition (Transparent) |
 | Catalog Number | MI0657LP |
-
-

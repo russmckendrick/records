@@ -2,7 +2,7 @@
 title: "Jane's Addiction - Nothing's Shocking"
 artist: "Jane's Addiction"
 album_name: "Nothing's Shocking"
-date: 2015-08-09
+date: 2015-08-09T08:36:12.000000Z
 release_id: "5251712"
 slug: "nothing-s-shocking-5251712"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Up The Beach (3:00)
 2. Ocean Size (4:22)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Idiots Rule (3:00)
 9. Jane Says (4:52)
 10. Thank You Boys (1:00)
+
+
 ## Spotify
 {{< spotify type="album" id="4DVBJPJyizvHfJQt5pYaCa" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}
@@ -39,7 +44,14 @@ styles: ["Alternative Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [Jane's Addiction - Nothing's Shocking](https://www.discogs.com/release/5251712-Janes-Addiction-Nothings-Shocking) |
 | Label          | Warner Bros. Records |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
 | Catalog Number | 8122798884 |
 
-Engineered [...] at Eldorado Studios in Los Angeles Mixed [...] at Post Logic Studios in Hollywood Mastered by Steve Hall at Future Disc All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI ℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S. Made in E.U.  Includes a printed inner sleeve
+Engineered [...] at Eldorado Studios in Los Angeles
+Mixed [...] at Post Logic Studios in Hollywood
+Mastered by Steve Hall at Future Disc
+All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI
+℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.
+Made in E.U.
+
+Includes a printed inner sleeve

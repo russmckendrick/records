@@ -2,7 +2,7 @@
 title: "Tears For Fears - The Tipping Point"
 artist: "Tears For Fears"
 album_name: "The Tipping Point"
-date: 2022-02-24
+date: 2022-02-24T04:23:44.000000Z
 release_id: "22266628"
 slug: "the-tipping-point-22266628"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. No Small Thing (4:42)
 2. The Tipping Point (4:13)
@@ -24,29 +25,25 @@ styles: ["Pop Rock"]
 8. Master Plan (4:37)
 9. End Of Night (3:23)
 10. Stay (4:36)
+
+
 ## Spotify
 {{< spotify type="album" id="6xKxlHD3mWkKoMtl3ZVyLt" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="iemvnxDjrBY" title="Tears For Fears - No Small Thing (Official Music Video)" >}}
-- [Tears for Fears -  Secret Location](https://www.youtube.com/watch?v=zcADdqgCt-0)
-- [Tears For Fears - The Tipping Point (Official Music Video)](https://www.youtube.com/watch?v=yUp-ujO979U)
-- [Tears For Fears - Long, Long, Long Time (Official Audio)](https://www.youtube.com/watch?v=gxqt_OnR3Qc)
-- [Tears For Fears - Break The Man (Official Music Video)](https://www.youtube.com/watch?v=zAwFd1wz_-Y)
-- [Tears For Fears - My Demons (Official Audio)](https://www.youtube.com/watch?v=kuGskQtnyh8)
-- [Tears For Fears - Rivers of Mercy (Official Audio)](https://www.youtube.com/watch?v=Oc7whFL5UEk)
-- [Tears For Fears - Please Be Happy (Official Audio)](https://www.youtube.com/watch?v=kINUsOD1rk0)
-- [Tears For Fears - Master Plan (Official Audio)](https://www.youtube.com/watch?v=Jx2UQzbQDPw)
-- [Tears For Fears - End of Night (Official Audio)](https://www.youtube.com/watch?v=AixmRjSWNZ4)
-- [Tears For Fears - Stay (Official Audio)](https://www.youtube.com/watch?v=O78aZm3cMm8)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Tears For Fears - The Tipping Point](https://www.discogs.com/release/22266628-Tears-For-Fears-The-Tipping-Point) |
-| Label          | Concord Records, Concord Records |
-| Format         | LP, Album, Ltd, Gre |
-| Catalog Number | CRE01856, CRE01919 |
+| Label          | Concord Records |
+| Format         | Vinyl LP Album Limited Edition (Green Grass) |
+| Catalog Number | CRE01856 |
 
-US & Canada Indie Exclusive  ℗ & © 2022 TFFUK, LLC  Gatefold sleeve and includes a limited edition lithograph. 888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC.
+US & Canada Indie Exclusive
+
+℗ & © 2022 TFFUK, LLC
+
+Gatefold sleeve and includes a limited edition lithograph.
+888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC.

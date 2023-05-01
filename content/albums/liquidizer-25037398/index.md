@@ -2,7 +2,7 @@
 title: "Jesus Jones - Liquidizer"
 artist: "Jesus Jones"
 album_name: "Liquidizer"
-date: 2022-11-03
+date: 2022-11-03T13:58:38.000000Z
 release_id: "25037398"
 slug: "liquidizer-25037398"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Move Mountains (3:20)
 2. Never Enough (2:41)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 10. What Would You Know? (3:55)
 11. One For The Money (2:56)
 12. Someone To Blame (4:07)
+
+
 ## Spotify
 {{< spotify type="album" id="40KUzz9XDYb0hUQSAV1fkq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QSASBEasFXI" title="Move Mountains (Ben Chapman 7'' Mix)" >}}
@@ -49,7 +54,9 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Jesus Jones - Liquidizer](https://www.discogs.com/release/25037398-Jesus-Jones-Liquidizer) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Tra |
+| Format         | Vinyl LP Album Reissue (Transparent Green) |
 | Catalog Number | DEMREC952 |
 
-  
+
+
+

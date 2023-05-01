@@ -2,7 +2,7 @@
 title: "Monster Magnet - 4-Way Diablo"
 artist: "Monster Magnet"
 album_name: "4-Way Diablo"
-date: 2022-09-24
+date: 2022-09-24T04:01:55.000000Z
 release_id: "24531617"
 slug: "4-way-diablo-24531617"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
+
 ## Tracklisting
 1. 4-Way Diablo
 2. Wall Of Fire
@@ -27,8 +28,12 @@ styles: ["Stoner Rock"]
 11. A Thousand Stars
 12. Slap In The Face
 13. Little Bag Of Gloom
+
+
 ## Spotify
 {{< spotify type="album" id="720kpRumHTQsh2leZ3GL1g" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Adf7bQ8W6Ck" title="Monster Magnet - Slap In The Face - 4-Way Diablo.wmv" >}}
@@ -49,7 +54,9 @@ styles: ["Stoner Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Monster Magnet - 4-Way Diablo](https://www.discogs.com/release/24531617-Monster-Magnet-4-Way-Diablo) |
 | Label          | Napalm Records |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Catalog Number | NPR1067VINYL |
 
-Black vinyl edition. Gatefold cover.  © + ℗ 2022
+Black vinyl edition. Gatefold cover.
+
+© + ℗ 2022

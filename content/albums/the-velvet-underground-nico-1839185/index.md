@@ -1,18 +1,19 @@
 ---
-title: "The Velvet Underground & Nico - The Velvet Underground & Nico"
-artist: "The Velvet Underground & Nico"
+title: "The Velvet Underground - The Velvet Underground & Nico"
+artist: "The Velvet Underground"
 album_name: "The Velvet Underground & Nico"
-date: 2016-01-10
+date: 2016-01-10T12:53:11.000000Z
 release_id: "1839185"
 slug: "the-velvet-underground-nico-1839185"
 hideSummary: true
 cover:
     image: "the-velvet-underground-nico-1839185.jpg"
-    alt: "The Velvet Underground & Nico by The Velvet Underground & Nico"
-    caption: "The Velvet Underground & Nico by The Velvet Underground & Nico"
+    alt: "The Velvet Underground & Nico by The Velvet Underground"
+    caption: "The Velvet Underground & Nico by The Velvet Underground"
 genres: ["Rock"]
 styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Sunday Morning (2:53)
 2. I'm Waiting For My Man (4:37)
@@ -26,8 +27,12 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 10. The Black Angel's Death Song (3:10)
 11. European Son (7:47)
 12. Chelsea Girls (7:24)
+
+
 ## Spotify
 {{< spotify type="album" id="4xwx0x7k6c5VuThz5qVqmV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Xhbyj8pqUao" title="The Velvet Underground, Nico - Sunday Morning" >}}
@@ -65,9 +70,19 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2008 |
-| Discogs Link   | [The Velvet Underground & Nico - The Velvet Underground & Nico](https://www.discogs.com/release/1839185-The-Velvet-Underground-Nico-The-Velvet-Underground-Nico) |
+| Discogs Link   | [The Velvet Underground - The Velvet Underground & Nico](https://www.discogs.com/release/1839185-The-Velvet-Underground-Nico-The-Velvet-Underground-Nico) |
 | Label          | Vinyl Lovers |
-| Format         | LP, Album, RE, Pee |
+| Format         | Vinyl LP Album Reissue (Peeling Banana, 180g, Gatefold) |
 | Catalog Number | 900051 |
 
-Barcode sticker on plastic protection with the text: "180 gram Virgin Vinyl - Bonus Track: Chelsea Girls - Cover with Andy Warhol's Original Peeling Banana!!!" Gatefold sleeve with original real peelable banana design. Banana is made from window sticker material, and is re-peelable. Track B5 is a bonus track.  © 1967 Verve. This compilation ℗ & © 2008 Lilith Records Ltd. Manufactured in EU - Under license from ℗ 000 "Universal Music", Russia. Photos by kind permission of Universal Music PLC. 
+Barcode sticker on plastic protection with the text:
+"180 gram Virgin Vinyl - Bonus Track: Chelsea Girls - Cover with Andy Warhol's Original Peeling Banana!!!"
+Gatefold sleeve with original real peelable banana design.
+Banana is made from window sticker material, and is re-peelable.
+Track B5 is a bonus track.
+
+© 1967 Verve.
+This compilation ℗ & © 2008 Lilith Records Ltd.
+Manufactured in EU - Under license from ℗ 000 "Universal Music", Russia.
+Photos by kind permission of Universal Music PLC.
+

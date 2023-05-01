@@ -2,7 +2,7 @@
 title: "INXS - The Very Best"
 artist: "INXS"
 album_name: "The Very Best"
-date: 2023-03-11
+date: 2023-03-11T03:01:39.000000Z
 release_id: "17981053"
 slug: "the-very-best-17981053"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Need You Tonight 
 2. Mystify
@@ -34,8 +35,11 @@ styles: ["Alternative Rock", "Pop Rock"]
 18. Just Keep Walking
 19. Bitter Tears
 20. Baby Don't Cry
+
+
 ## Spotify
 {{< spotify type="album" id="2l9enpmtIGp7jZTlKxR1qa" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -43,8 +47,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [INXS - The Very Best](https://www.discogs.com/release/17981053-INXS-The-Very-Best) |
-| Label          | Universal Music Group, Petrol |
-| Format         | LP, Comp |
+| Label          | Universal Music Group |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | 0602557887068 |
 
 Black Vinyls

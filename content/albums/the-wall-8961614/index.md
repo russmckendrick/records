@@ -2,7 +2,7 @@
 title: "Pink Floyd - The Wall"
 artist: "Pink Floyd"
 album_name: "The Wall"
-date: 2016-09-05
+date: 2016-09-05T12:30:03.000000Z
 release_id: "8961614"
 slug: "the-wall-8961614"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Classic Rock"]
 ---
+
 ## Tracklisting
 1. In The Flesh? (3:16)
 2. The Thin Ice (2:27)
@@ -40,8 +41,11 @@ styles: ["Prog Rock", "Classic Rock"]
 24. Stop (0:30)
 25. The Trial (5:13)
 26. Outside The Wall (1:41)
+
+
 ## Spotify
 {{< spotify type="album" id="5Dbax7G8SWrP9xyzkOvy2F" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -49,8 +53,26 @@ styles: ["Prog Rock", "Classic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Pink Floyd - The Wall](https://www.discogs.com/release/8961614-Pink-Floyd-The-Wall) |
-| Label          | Pink Floyd Records, Pink Floyd Records |
-| Format         | 2xLP, Album, RE, RM, Gat |
-| Catalog Number | PFRLP11, 5099902988313 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180g) |
+| Catalog Number | PFRLP11 |
 
-The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1979 Made in the E.U. www.pinkfloyd.com  Cat#s: 'PFRLP11-1' on LP1 inner sleeve 'PFRLP11-2' on LP2 inner sleeve  Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap. Printed inner sleeves in original UK-Style.  ℗ & © 2016 Pink Floyd Music Ltd.   Runtimes measured by digitalizing the vinyl and having timed each track on computer.  Runouts: '16736 #A / #B / #C / #D' is stamped, remainder is etched.
+The stereo remastered album on heavyweight 180ɢ vinyl
+Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN
+Original UK release date: November 1979
+Made in the E.U.
+www.pinkfloyd.com
+
+Cat#s:
+'PFRLP11-1' on LP1 inner sleeve
+'PFRLP11-2' on LP2 inner sleeve
+
+Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap.
+Printed inner sleeves in original UK-Style.
+
+℗ & © 2016 Pink Floyd Music Ltd. 
+
+Runtimes measured by digitalizing the vinyl and having timed each track on computer.
+
+Runouts:
+'16736 #A / #B / #C / #D' is stamped, remainder is etched.

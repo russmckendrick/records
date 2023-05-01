@@ -2,7 +2,7 @@
 title: "Jesus Jones - Already"
 artist: "Jesus Jones"
 album_name: "Already"
-date: 2022-11-03
+date: 2022-11-03T13:59:44.000000Z
 release_id: "25038097"
 slug: "already-25038097"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Next Big Thing (4:01)
 2. Run On Empty (3:13)
@@ -26,8 +27,12 @@ styles: ["Synth-pop"]
 10. For A Moment (3:31)
 11. Addiction, Obsession & Me (4:19)
 12. February (6:43)
+
+
 ## Spotify
 {{< spotify type="album" id="2wmJuC0TkLgWMCGSJ56yvU" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ud3KQDAWVlM" title="The Next Big Thing" >}}
@@ -50,7 +55,5 @@ styles: ["Synth-pop"]
 | Release Year   | 2022 |
 | Discogs Link   | [Jesus Jones - Already](https://www.discogs.com/release/25038097-Jesus-Jones-Already) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, Cle |
+| Format         | Vinyl LP Album Reissue (Clear) |
 | Catalog Number | DEMREC955 |
-
-

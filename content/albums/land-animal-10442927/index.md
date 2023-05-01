@@ -2,7 +2,7 @@
 title: "Bent Knee - Land Animal"
 artist: "Bent Knee"
 album_name: "Land Animal"
-date: 2017-07-02
+date: 2017-07-02T11:14:49.000000Z
 release_id: "10442927"
 slug: "land-animal-10442927"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ---
+
 ## Tracklisting
 1. Terror Bird
 2. Hole
@@ -37,8 +38,12 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 21. Bonus Tracks
 22. Way Too Long (Sylvia Massy Treatment) (5:20)
 23. Land Animal (Ben Levin Remix) (4:40)
+
+
 ## Spotify
 {{< spotify type="album" id="7K5KSdrusSD2O70NyAFhJk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="se6f2_rAfh4" title="Insides In" >}}
@@ -54,8 +59,11 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Bent Knee - Land Animal](https://www.discogs.com/release/10442927-Bent-Knee-Land-Animal) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Album, Whi + CD, Album + Ltd |
-| Catalog Number | IOMLP 479, 88985421021 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album (White), CD Album, All Media Limited Edition |
+| Catalog Number | IOMLP 479 |
 
-White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve. Limited edition of 300 copies.  Bonus tracks listed on front sticker
+White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve.
+Limited edition of 300 copies.
+
+Bonus tracks listed on front sticker

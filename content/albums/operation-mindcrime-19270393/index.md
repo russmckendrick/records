@@ -2,7 +2,7 @@
 title: "Queensrÿche - Operation: Mindcrime"
 artist: "Queensrÿche"
 album_name: "Operation: Mindcrime"
-date: 2021-06-25
+date: 2021-06-25T08:52:27.000000Z
 release_id: "19270393"
 slug: "operation-mindcrime-19270393"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
+
 ## Tracklisting
 1. I Remember Now
 2. Anarchy-X
@@ -29,8 +30,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 13. Waiting For 22
 14. My Empty Room
 15. Eyes Of A Stranger
+
+
 ## Spotify
 {{< spotify type="album" id="4eEQ3aNA8mptFIfbFdX79p" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="A4duZjxusGM" title="Queensryche - Eyes Of A Stranger (Official Video)" >}}
@@ -43,8 +48,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Queensrÿche - Operation: Mindcrime](https://www.discogs.com/release/19270393-Queensr%C3%BFche-Operation-Mindcrime) |
-| Label          | Capitol Records, Universal |
-| Format         | 2xLP, Album, RE |
+| Label          | Capitol Records |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | 7714039 |
 
-Made in Germany on label. On inner sleeve: ℗ 2003 Capitol Records, LLC. On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC  No reissue credits. All technical credits refer to the original release.
+Made in Germany on label.
+On inner sleeve: ℗ 2003 Capitol Records, LLC.
+On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC
+
+No reissue credits. All technical credits refer to the original release.

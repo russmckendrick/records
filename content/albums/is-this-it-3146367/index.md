@@ -2,7 +2,7 @@
 title: "The Strokes - Is This It"
 artist: "The Strokes"
 album_name: "Is This It"
-date: 2016-04-30
+date: 2016-04-30T15:19:24.000000Z
 release_id: "3146367"
 slug: "is-this-it-3146367"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Is This It (2:35)
 2. The Modern Age (3:32)
@@ -25,8 +26,12 @@ styles: ["Indie Rock"]
 9. New York City Cops (3:36)
 10. Trying Your Luck (3:27)
 11. Take It Or Leave It (3:16)
+
+
 ## Spotify
 {{< spotify type="album" id="2k8KgmDp9oHrmu0MIj4XDE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="TOypSnKFHrE" title="The Strokes - Last Nite (Official Music Video)" >}}
@@ -41,7 +46,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2011 |
 | Discogs Link   | [The Strokes - Is This It](https://www.discogs.com/release/3146367-The-Strokes-Is-This-It) |
 | Label          | Rough Trade |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | RTRADELP030 |
 
 Mastered at Sterling Sound.

@@ -2,7 +2,7 @@
 title: "Orville Peck - Pony"
 artist: "Orville Peck"
 album_name: "Pony"
-date: 2020-04-23
+date: 2020-04-23T11:52:07.000000Z
 release_id: "15159576"
 slug: "pony-15159576"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Dead Of Night
 2. Winds Change
@@ -26,8 +27,12 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 10. Take You Back (The Iron Hoof Cattle Call)
 11. Hope To Die
 12. Nothing Fades Like The Light
+
+
 ## Spotify
 {{< spotify type="album" id="3950FHVErcINW3tjRgjebQ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" >}}
@@ -46,8 +51,6 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Orville Peck - Pony](https://www.discogs.com/release/15159576-Orville-Peck-Pony) |
-| Label          | Sub Pop, Sub Pop |
-| Format         | LP, Album, Ltd, RP, Ora |
-| Catalog Number | SP1293, SP1361 |
-
-
+| Label          | Sub Pop |
+| Format         | Vinyl LP Album Limited Edition Repress (Orange Neon) |
+| Catalog Number | SP1293 |

@@ -2,7 +2,7 @@
 title: "Slowdive - Just For A Day"
 artist: "Slowdive"
 album_name: "Just For A Day"
-date: 2020-07-17
+date: 2020-07-17T12:26:17.000000Z
 release_id: "15633294"
 slug: "just-for-a-day-15633294"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
+
 ## Tracklisting
 1. Spanish Air (6:06)
 2. Celia's Dream (4:12)
@@ -23,8 +24,12 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 7. Brighter (3:51)
 8. The Sadman (4:47)
 9. Primal (5:29)
+
+
 ## Spotify
 {{< spotify type="album" id="7761KE2C9rH1QO9WAE1Ysb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="twfEU6MPzDw" title="Spanish Air" >}}
@@ -43,7 +48,10 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Slowdive - Just For A Day](https://www.discogs.com/release/15633294-Slowdive-Just-For-A-Day) |
 | Label          | Music On Vinyl |
-| Format         | LP, Album, Ltd, Num, RE, RP, Ora |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange [Flaming], 180 Gram) |
 | Catalog Number | MOVLP354 |
 
-180 gram audiophile vinyl Including insert Sleeve with special alubrush finish Limited edition of 4000 individually numbered copies on flaming coloured vinyl
+180 gram audiophile vinyl
+Including insert
+Sleeve with special alubrush finish
+Limited edition of 4000 individually numbered copies on flaming coloured vinyl

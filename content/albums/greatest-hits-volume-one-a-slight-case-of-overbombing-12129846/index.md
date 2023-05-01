@@ -2,7 +2,7 @@
 title: "The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing"
 artist: "The Sisters Of Mercy"
 album_name: "Greatest Hits Volume One - A Slight Case Of Overbombing"
-date: 2018-06-21
+date: 2018-06-21T18:16:52.000000Z
 release_id: "12129846"
 slug: "greatest-hits-volume-one-a-slight-case-of-overbombing-12129846"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Goth Rock"]
 ---
+
 ## Tracklisting
 1. Under The Gun (5:41)
 2. Temple Of Love (1992) (8:03)
@@ -26,6 +27,9 @@ styles: ["Goth Rock"]
 10. No Time To Cry (3:56)
 11. Walk Away (3:22)
 12. Body And Soul (3:30)
+
+
+
 
 ## Videos
 {{< youtube id="ROnXv7Z7v28" title="Sisters of Mercy - Temple of Love '92" >}}
@@ -43,8 +47,8 @@ styles: ["Goth Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing](https://www.discogs.com/release/12129846-The-Sisters-Of-Mercy-Greatest-Hits-Volume-One-A-Slight-Case-Of-Overbombing) |
-| Label          | Merciful Release, Warner Music Group |
-| Format         | 2xLP, Comp, RE |
+| Label          | Merciful Release |
+| Format         | Vinyl 2× LP Compilation Reissue |
 | Catalog Number | 0190295695071 |
 
 Gatefold sleeve

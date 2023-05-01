@@ -1,18 +1,19 @@
 ---
-title: "Daryl Hall & John Oates With David Ruffin & Eddie Kendricks - Live At The Apollo"
-artist: "Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
+title: "Daryl Hall & John Oates - Live At The Apollo"
+artist: "Daryl Hall & John Oates"
 album_name: "Live At The Apollo"
-date: 2020-08-01
+date: 2020-08-01T12:45:09.000000Z
 release_id: "1389988"
 slug: "live-at-the-apollo-1389988"
 hideSummary: true
 cover:
     image: "live-at-the-apollo-1389988.jpg"
-    alt: "Live At The Apollo by Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
-    caption: "Live At The Apollo by Daryl Hall & John Oates With David Ruffin & Eddie Kendricks"
+    alt: "Live At The Apollo by Daryl Hall & John Oates"
+    caption: "Live At The Apollo by Daryl Hall & John Oates"
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul"]
 ---
+
 ## Tracklisting
 1. Side 1
 2. Apollo Medley
@@ -24,6 +25,12 @@ styles: ["Pop Rock", "Soul"]
 8. Possession Obsession (5:33)
 9. Adult Education (6:05)
 
+
+## Spotify
+{{< spotify type="album" id="6e6XTbQ6rFQdyxQU1BUU4V" width="100%" height="500" >}}
+
+
+
 ## Videos
 {{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks" >}}
 
@@ -31,9 +38,19 @@ styles: ["Pop Rock", "Soul"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1985 |
-| Discogs Link   | [Daryl Hall & John Oates With David Ruffin & Eddie Kendricks - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |
+| Discogs Link   | [Daryl Hall & John Oates - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |
 | Label          | RCA |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | PL87035 |
 
-℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label  
+℗ 1985 RCA Records (on labels)
+© 1985 RCA Records (on inner sleeve)
+
+Managements by Champion Entertainment Organization, Inc
+
+Comes with a printed inner sleeves with pictures and credits
+
+On labels Side A is stated as 'Side 1' and Side B as 'Side A'.
+
+Made in Germany.
+Bass clef on inner ring of B-side label  

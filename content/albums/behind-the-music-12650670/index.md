@@ -2,7 +2,7 @@
 title: "The Soundtrack Of Our Lives - Behind The Music"
 artist: "The Soundtrack Of Our Lives"
 album_name: "Behind The Music"
-date: 2018-11-03
+date: 2018-11-03T09:52:34.000000Z
 release_id: "12650670"
 slug: "behind-the-music-12650670"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Infra Riot (4:45)
 2. Sister Surround (3:35)
@@ -34,8 +35,12 @@ styles: ["Indie Rock"]
 18. Slow Drift Away (2:52)
 19. Hang Ten (4:37)
 20. We'll Get By (2:00)
+
+
 ## Spotify
 {{< spotify type="album" id="3NoWJU6iEUKX4WlPsisjFh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hdW3yRTeBzM" title="Soundtrack of Our Lives - Independent Luxury" >}}
@@ -49,7 +54,10 @@ styles: ["Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Soundtrack Of Our Lives - Behind The Music](https://www.discogs.com/release/12650670-The-Soundtrack-Of-Our-Lives-Behind-The-Music) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Album, Ltd, Num, RE, Gol |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Gold) |
 | Catalog Number | MOVLP2242 |
 
-180 gram audiophile vinyl Gatefold sleeve Including insert Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl
+180 gram audiophile vinyl
+Gatefold sleeve
+Including insert
+Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl

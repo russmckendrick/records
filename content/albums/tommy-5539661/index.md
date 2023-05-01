@@ -2,7 +2,7 @@
 title: "The Who - Tommy"
 artist: "The Who"
 album_name: "Tommy"
-date: 2017-02-26
+date: 2017-02-26T13:07:08.000000Z
 release_id: "5539661"
 slug: "tommy-5539661"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
+
 ## Tracklisting
 1. Overture (3:50)
 2. It's A Boy (2:07)
@@ -38,20 +39,22 @@ styles: ["Classic Rock"]
 22. Welcome (4:32)
 23. Tommy's Holiday Camp (0:57)
 24. We're Not Gonna Take It (7:06)
+
+
 ## Spotify
 {{< spotify type="album" id="5cT7ee1sy2oEbFalP4asS4" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="txA_FXWX7Po" title="The̲ W̲ho -Tommy (1969) 1990 MFSL Remaster (Full Album)" >}}
-- [Overture](https://www.youtube.com/watch?v=MPUDqqINVXE)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [The Who - Tommy](https://www.discogs.com/release/5539661-The-Who-Tommy) |
-| Label          | Geffen Records, UMe, Track Record |
-| Format         | 2xLP, Album, RE, RM, Gat |
-| Catalog Number | B0019527-01, 3715749 |
+| Label          | Geffen Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
+| Catalog Number | B0019527-01 |
 
-Includes 12 page booklet containing lyrics and artwork.  Runouts are etched.
+Includes 12 page booklet containing lyrics and artwork.
+
+Runouts are etched.

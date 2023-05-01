@@ -2,7 +2,7 @@
 title: "Scott Walker - Scott 4"
 artist: "Scott Walker"
 album_name: "Scott 4"
-date: 2018-03-07
+date: 2018-03-07T19:22:05.000000Z
 release_id: "5758295"
 slug: "scott-4-5758295"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Vocal", "Ballad", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Seventh Seal
 2. On Your Own Again
@@ -24,8 +25,12 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 8. Duchess
 9. Get Behind Me
 10. Rhymes Of Goodbye
+
+
 ## Spotify
 {{< spotify type="album" id="7uU2qrFZQSdQacicLXMnaJ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="jI1-_LqC8Ok" title="Rhymes Of Goodbye" >}}
@@ -39,8 +44,9 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2014 |
 | Discogs Link   | [Scott Walker - Scott 4](https://www.discogs.com/release/5758295-Scott-Walker-Scott-4) |
-| Label          | Mercury, Mercury |
-| Format         | LP, Album, RE, RM, 180 |
-| Catalog Number | 3728852, 00602537288526 |
+| Label          | Mercury |
+| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Catalog Number | 3728852 |
 
-Includes download code. Remastered 2013 from original analogue tapes.
+Includes download code.
+Remastered 2013 from original analogue tapes.

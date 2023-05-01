@@ -2,7 +2,7 @@
 title: "EMF - Go Go Sapiens"
 artist: "EMF"
 album_name: "Go Go Sapiens"
-date: 2022-05-13
+date: 2022-05-13T03:31:55.000000Z
 release_id: "23205512"
 slug: "go-go-sapiens-23205512"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop"]
 ---
+
 ## Tracklisting
 1. Started It
 2. Sister Sandinista
@@ -27,13 +28,17 @@ styles: ["Dance-pop"]
 11. Sparks And Flashes
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [EMF - Go Go Sapiens](https://www.discogs.com/release/23205512-EMF-Go-Go-Sapiens) |
 | Label          | Not On Label (EMF Self-released) |
-| Format         | LP, Album, Whi |
+| Format         | Vinyl LP Album (White ) |
 | Catalog Number | EMF04 |
 
-Catalogue number found on spine and inner sleeve  
+Catalogue number found on spine and inner sleeve
+
+

@@ -2,7 +2,7 @@
 title: "The Band - The Band"
 artist: "The Band"
 album_name: "The Band"
-date: 2017-10-06
+date: 2017-10-06T17:18:16.000000Z
 release_id: "7797025"
 slug: "the-band-7797025"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Band by The Band"
     caption: "The Band by The Band"
 genres: ["Rock", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Across The Great Divide (2:52)
 2. Rag Mama Rag (3:02)
@@ -26,8 +27,11 @@ styles: null
 10. Jawbone (4:17)
 11. The Unfaithful Servant (4:15)
 12. King Harvest (Has Surely Come) (3:35)
+
+
 ## Spotify
 {{< spotify type="album" id="56vFkneGivqQcoNQq362iZ" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -35,8 +39,6 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [The Band - The Band](https://www.discogs.com/release/7797025-The-Band-The-Band) |
-| Label          | Capitol Records, Universal Music Group International |
-| Format         | LP, Album, RE, 180 |
+| Label          | Capitol Records |
+| Format         | Vinyl LP Album Reissue Stereo (180gm Gatefold) |
 | Catalog Number | 00602547206701 |
-
-

@@ -2,7 +2,7 @@
 title: "The Damned - Damned Damned Damned"
 artist: "The Damned"
 album_name: "Damned Damned Damned"
-date: 2022-10-14
+date: 2022-10-14T05:15:31.000000Z
 release_id: "24589202"
 slug: "damned-damned-damned-24589202"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Neat Neat Neat
 2. Fan Club
@@ -26,8 +27,12 @@ styles: ["Punk"]
 10. 1 Of The 2
 11. So Messed Up
 12. I Feel Alright
+
+
 ## Spotify
 {{< spotify type="album" id="5tW8vnOGZKVe6pZD5YZa1E" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="kQTJ5jqGSpc" title="I Fall (2017 - Remaster)" >}}
@@ -53,7 +58,18 @@ styles: ["Punk"]
 | Release Year   | 2022 |
 | Discogs Link   | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202-The-Damned-Damned-Damned-Damned) |
 | Label          | BMG |
-| Format         | LP, Album, Ltd, RE, RM, Yel |
+| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow) |
 | Catalog Number | BMGCAT705CLP |
 
-Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  © & ℗ 1977 Still Records Ltd Published by Rock Music Co except: A1, B1 published by Rock Music Co/Street Music Co B6 published by B. Feldman & Co  Manufactured in Norway. Runouts are etched.
+Issued for National Album Day 2022 on yellow vinyl.
+Sleeve with a light gloss finish.
+Black paper die cut polylined inner sleeve.
+Hype sticker applied to the shrink-wrap.
+
+© & ℗ 1977 Still Records Ltd
+Published by Rock Music Co except:
+A1, B1 published by Rock Music Co/Street Music Co
+B6 published by B. Feldman & Co
+
+Manufactured in Norway.
+Runouts are etched.

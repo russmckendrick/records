@@ -2,7 +2,7 @@
 title: "Marillion - Afraid Of Sunlight"
 artist: "Marillion"
 album_name: "Afraid Of Sunlight"
-date: 2022-09-23
+date: 2022-09-23T04:44:02.000000Z
 release_id: "14338949"
 slug: "afraid-of-sunlight-14338949"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. 2019 Michael Hunter Re-Mix
 2. Gazpacho
@@ -49,13 +50,12 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 33. The Great Escape
 34. Uninvited Guest
 35. Garden Party
+
+
 ## Spotify
 {{< spotify type="album" id="4cb90sqEVjRWxu4BnilPch" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="n3ftZfB-VNQ" title="Marillion - Out of this World" >}}
-- [Marillion - Beautiful](https://www.youtube.com/watch?v=gYplFCf-Gt0)
-- [Marillion - Beautiful - Ao vivo em São Paulo, Brasil](https://www.youtube.com/watch?v=4VPJ7IgGEuY)
+
 
 ## Notes
 | Notes          |             |
@@ -63,7 +63,14 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Marillion - Afraid Of Sunlight](https://www.discogs.com/release/14338949-Marillion-Afraid-Of-Sunlight) |
 | Label          | Parlophone |
-| Format         | 2xLP, Album, RE, RM, Rem + 3xLP, Album, 180 + Box, |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Remixed, 180 Gram), Vinyl 3× LP Album (180 Gram), Box Set Deluxe Edition Limited Edition |
 | Catalog Number | 0190295477226 |
 
-Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd. Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd. Labels and booklet: Made in the EU. Comes with 20 page booklet. Hype sticker on front First 4000 copies ordered at the Marillion Store come with signed A4 print  All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [Optimal Media GmbH](https://www.discogs.com/label/313190-Optimal-Media-GmbH). 
+Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd.
+Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd.
+Labels and booklet: Made in the EU.
+Comes with 20 page booklet.
+Hype sticker on front
+First 4000 copies ordered at the Marillion Store come with signed A4 print
+
+All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media GmbH[/url]. 

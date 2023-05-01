@@ -2,7 +2,7 @@
 title: "The Pineapple Thief - Tightly Unwound"
 artist: "The Pineapple Thief"
 album_name: "Tightly Unwound"
-date: 2016-02-21
+date: 2016-02-21T12:07:56.000000Z
 release_id: "5189116"
 slug: "tightly-unwound-5189116"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. My Debt To You
 2. Shoot First
@@ -23,8 +24,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Different World
 8. And So Say All Of You
 9. Too Much To Lose
+
+
 ## Spotify
 {{< spotify type="album" id="3sAKvHqXtXEkPZ917MP7a3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First (from Tightly Unwound)" >}}
@@ -37,7 +42,14 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [The Pineapple Thief - Tightly Unwound](https://www.discogs.com/release/5189116-The-Pineapple-Thief-Tightly-Unwound) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ora |
+| Format         | Vinyl 2× LP Album (Orange) |
 | Catalog Number | KSCOPE852 |
 
-A double vinyl edition of the first ever album released on Kscope.   Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package.   Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl. Remastered and Remixed Made in Germany 
+A double vinyl edition of the first ever album released on Kscope. 
+
+Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package. 
+
+Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl.
+Remastered and Remixed
+Made in Germany
+

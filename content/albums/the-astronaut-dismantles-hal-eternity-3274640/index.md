@@ -2,7 +2,7 @@
 title: "Amplifier - The Astronaut Dismantles HAL/Eternity"
 artist: "Amplifier"
 album_name: "The Astronaut Dismantles HAL/Eternity"
-date: 2015-11-03
+date: 2015-11-03T19:26:04.000000Z
 release_id: "3274640"
 slug: "the-astronaut-dismantles-hal-eternity-3274640"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Astronaut Dismantles HAL
 2. Continuum (8:51)
@@ -31,13 +32,15 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 15. Number One Son (6:04)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2011 |
 | Discogs Link   | [Amplifier - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640-Amplifier-The-Astronaut-Dismantles-HALEternity) |
-| Label          | Not On Label (Amplifier Self-released) |
-| Format         | 2x12\", EP, Comp, Ltd, Num, RE |
+| Label          | Not On Label (Amplifier (3) Self-released) |
+| Format         | Vinyl 2× 12" EP Compilation Limited Edition Numbered Reissue |
 | Catalog Number | none |
 
 Limited to 500 hand-numbered copies. Comes with a full size 6-page booklet and some are signed by the band.

@@ -2,7 +2,7 @@
 title: "Stars - Heart"
 artist: "Stars"
 album_name: "Heart"
-date: 2019-05-23
+date: 2019-05-23T16:54:17.000000Z
 release_id: "11885268"
 slug: "heart-11885268"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. What The Snowman Learned About Love (5:15)
 2. Elevator Love Letter (4:03)
@@ -25,8 +26,12 @@ styles: ["Pop Rock", "Synth-pop"]
 9. Look Up (4:18)
 10. Life Effect (3:14)
 11. Don't Be Afraid To Sing (4:24)
+
+
 ## Spotify
 {{< spotify type="album" id="7iehh77UNP03AllcLAB69M" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xU7KGcrD_gc" title="Stars - Elevator Love Letter" >}}
@@ -40,7 +45,7 @@ styles: ["Pop Rock", "Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Stars - Heart](https://www.discogs.com/release/11885268-Stars-Heart) |
 | Label          | Last Gang Records |
-| Format         | LP, Album, Ltd, Blu |
+| Format         | Vinyl LP Album Limited Edition (Blue Translucent, 140g) |
 | Catalog Number | LGE-LP-1940 |
 
 Limited edition of 500 copies on 140 gram Translucent Light Blue vinyl.

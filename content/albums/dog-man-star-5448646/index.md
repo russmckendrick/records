@@ -2,7 +2,7 @@
 title: "Suede - Dog Man Star"
 artist: "Suede"
 album_name: "Dog Man Star"
-date: 2016-10-01
+date: 2016-10-01T10:34:12.000000Z
 release_id: "5448646"
 slug: "dog-man-star-5448646"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Introducing The Band (2:38)
 2. We Are The Pigs (4:19)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Britpop"]
 10. Black Or Blue (3:48)
 11. The Asphalt World (9:25)
 12. Still Life (5:23)
+
+
 ## Spotify
 {{< spotify type="album" id="2EqmYUomXLsQ1ookAbbtjw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="m2n3qKD6C8k" title="Still Life (Remastered)" >}}
@@ -41,7 +46,8 @@ styles: ["Alternative Rock", "Britpop"]
 | Release Year   | 2014 |
 | Discogs Link   | [Suede - Dog Man Star](https://www.discogs.com/release/5448646-Suede-Dog-Man-Star) |
 | Label          | Demon Records |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Catalog Number | INSATIABLE 2 |
 
-Mastered in Portland, Maine.  Though reissued in 2014, copyright notice states '(c) 2013'.
+Mastered in Portland, Maine. 
+Though reissued in 2014, copyright notice states '(c) 2013'.

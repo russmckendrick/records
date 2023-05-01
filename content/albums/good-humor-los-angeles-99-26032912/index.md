@@ -2,7 +2,7 @@
 title: "Saint Etienne - Good Humor / Los Angeles '99"
 artist: "Saint Etienne"
 album_name: "Good Humor / Los Angeles '99"
-date: 2023-02-13
+date: 2023-02-13T11:31:52.000000Z
 release_id: "26032912"
 slug: "good-humor-los-angeles-99-26032912"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. Good Humor
 2. Woodcabin
@@ -38,6 +39,9 @@ styles: ["Indie Pop"]
 22. Sylvie (4:36)
 23. He's On The Phone	 (4:50)
 
+
+
+
 ## Videos
 {{< youtube id="zsCbZrig4c4" title="Wood Cabin" >}}
 - [Sylvie](https://www.youtube.com/watch?v=lRcBhYSfQug)
@@ -56,8 +60,20 @@ styles: ["Indie Pop"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Saint Etienne - Good Humor / Los Angeles '99](https://www.discogs.com/release/26032912-Saint-Etienne-Good-Humor-Los-Angeles-99) |
-| Label          | Heavenly, Foreign Office |
-| Format         | LP, Album, Ltd, RE, RP, Spl + CD, Promo |
-| Catalog Number | HVNLP71C , FO 021 |
+| Label          | Heavenly |
+| Format         | Vinyl LP Album Limited Edition Reissue Repress (Splatter [Green Transparent with Dark Green & White Splatter]), CD Promo |
+| Catalog Number | HVNLP71C |
 
-Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021)   LP : Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect. Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS] All tracks produced [...] at Tambourine Studios, Malmo Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP Includes digital download card for Good Humor.  CD : ℗ 2023 Saint Etienne Limited © 1999 Saint Etienne Limited Promotional - Not for resale
+Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021) 
+
+LP :
+Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect.
+Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS]
+All tracks produced [...] at Tambourine Studios, Malmo
+Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP
+Includes digital download card for Good Humor.
+
+CD :
+℗ 2023 Saint Etienne Limited
+© 1999 Saint Etienne Limited
+Promotional - Not for resale

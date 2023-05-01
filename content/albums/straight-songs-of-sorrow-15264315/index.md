@@ -2,7 +2,7 @@
 title: "Mark Lanegan - Straight Songs Of Sorrow"
 artist: "Mark Lanegan"
 album_name: "Straight Songs Of Sorrow"
-date: 2020-05-18
+date: 2020-05-18T11:11:44.000000Z
 release_id: "15264315"
 slug: "straight-songs-of-sorrow-15264315"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. I Wouldn't Want To Say
 2. Apples From A Tree
@@ -29,8 +30,12 @@ styles: ["Alternative Rock"]
 13. Burying Ground
 14. At Zero Below
 15. Eden Lost And Found
+
+
 ## Spotify
 {{< spotify type="album" id="5MscroQK1QhbVhUJs1gNXf" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="b4EL3wo1K84" title="Mark Lanegan - 'Bleed All Over'" >}}
@@ -50,8 +55,13 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Mark Lanegan - Straight Songs Of Sorrow](https://www.discogs.com/release/15264315-Mark-Lanegan-Straight-Songs-Of-Sorrow) |
-| Label          | Heavenly, Heavenly |
-| Format         | 2xLP, Album, Ltd, Cle |
-| Catalog Number | HVNLP178C, HVNLP178 |
+| Label          | Heavenly |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear Crystal, 180 gram) |
+| Catalog Number | HVNLP178C |
 
-Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download  Download code sticker on inner sleeve  On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS]. Made in the EU.
+Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download
+
+Download code sticker on inner sleeve
+
+On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS].
+Made in the EU.

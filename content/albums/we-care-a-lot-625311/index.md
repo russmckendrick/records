@@ -2,7 +2,7 @@
 title: "Faith No More - We Care A Lot"
 artist: "Faith No More"
 album_name: "We Care A Lot"
-date: 2015-08-09
+date: 2015-08-09T08:47:17.000000Z
 release_id: "625311"
 slug: "we-care-a-lot-625311"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. We Care A Lot
 2. The Jungle
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 8. As The Worm Turns
 9. Arabian Disco
 10. New Beginnings
+
+
 ## Spotify
 {{< spotify type="album" id="3udSCTdyARfZASR78cBMMN" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video) [4K]" >}}
@@ -47,7 +52,18 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 | Release Year   | 1985 |
 | Discogs Link   | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311-Faith-No-More-We-Care-A-Lot) |
 | Label          | Mordam Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | MDR 1 |
 
-Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [the version](http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099) which had this distribution information printed directly onto the sleeve.  Recorded at: Prairie Sun Studios Cotati, CA Mastered at K Disc Mastering (Kdisc stamped into the runout area)  European license-pressing & distribution by: De Konkurrent ©&℗1985 Mordam Records  Includes an insert with additional artwork and lyrics.  K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout. 
+Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.
+
+Recorded at: Prairie Sun Studios Cotati, CA
+Mastered at K Disc Mastering (Kdisc stamped into the runout area)
+
+European license-pressing & distribution by: De Konkurrent
+©&℗1985 Mordam Records
+
+Includes an insert with additional artwork and lyrics.
+
+K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.
+

@@ -2,7 +2,7 @@
 title: "Modest Mouse - Good News For People Who Love Bad News"
 artist: "Modest Mouse"
 album_name: "Good News For People Who Love Bad News"
-date: 2019-06-03
+date: 2019-06-03T17:50:11.000000Z
 release_id: "2862960"
 slug: "good-news-for-people-who-love-bad-news-2862960"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Horn Intro (0:10)
 2. The World At Large (4:32)
@@ -31,8 +32,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 15. One Chance (3:02)
 16. The Good Times Are Killing Me (4:16)
 17. I've Got It All (Most) (3:06)
+
+
 ## Spotify
 {{< spotify type="album" id="0TGTGuc2vXv6ZECoAf52N0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uHnfpd7gUjE" title="Horn Intro" >}}
@@ -57,7 +62,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2011 |
 | Discogs Link   | [Modest Mouse - Good News For People Who Love Bad News](https://www.discogs.com/release/2862960-Modest-Mouse-Good-News-For-People-Who-Love-Bad-News) |
 | Label          | Epic |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Catalog Number | E2 87125 |
 
-180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."  Includes printed inner-sleeves containing lyrics, credits and artwork.  EPIC E2-87125-1 © 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment  Pressing and lacquer cutting credits are identified in runout etchings.
+180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."
+
+Includes printed inner-sleeves containing lyrics, credits and artwork.
+
+EPIC E2-87125-1
+© 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment
+
+Pressing and lacquer cutting credits are identified in runout etchings.

@@ -2,7 +2,7 @@
 title: "Noveller - A Pink Sunset For No One"
 artist: "Noveller"
 album_name: "A Pink Sunset For No One"
-date: 2017-02-10
+date: 2017-02-10T20:03:26.000000Z
 release_id: "9809690"
 slug: "a-pink-sunset-for-no-one-9809690"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Drone"]
 ---
+
 ## Tracklisting
 1. Deep Shelter (5:33)
 2. Rituals (5:11)
@@ -23,8 +24,12 @@ styles: ["Ambient", "Drone"]
 7. Corridors (2:55)
 8. The Unveiling (4:11)
 9. Emergence (3:22)
+
+
 ## Spotify
 {{< spotify type="album" id="2x1qstmdJlt3YRPlSfY2Z1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="zGk4imfGKi4" title="A Pink Sunset For No One" >}}
@@ -39,7 +44,15 @@ styles: ["Ambient", "Drone"]
 | Release Year   | 2017 |
 | Discogs Link   | [Noveller - A Pink Sunset For No One](https://www.discogs.com/release/9809690-Noveller-A-Pink-Sunset-For-No-One) |
 | Label          | Fire Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | FIRELP401 |
 
-Noveller is Sarah Lipstate.  Recorded in Brooklyn, NY and Lafayette, LA November 2015-April 2016.  Dedicated to Gene Lipstate.   Includes download code.
+Noveller is Sarah Lipstate.
+
+Recorded in Brooklyn, NY and Lafayette, LA
+November 2015-April 2016.
+
+Dedicated to Gene Lipstate.
+
+
+Includes download code.

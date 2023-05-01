@@ -2,7 +2,7 @@
 title: "Status Quo - Just Supposin'..."
 artist: "Status Quo"
 album_name: "Just Supposin'..."
-date: 2016-05-23
+date: 2016-05-23T18:28:47.000000Z
 release_id: "7581302"
 slug: "just-supposin-7581302"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. What You're Proposing (4:15)
 2. Run To Mummy (3:08)
@@ -24,19 +25,14 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 8. Coming And Going (6:20)
 9. Rock 'N' Roll (5:23)
 
+
+
+
 ## Videos
-{{< youtube id="0P-Qy-puT8s" title="status quo name of the game (just supposin').wmv" >}}
-- [status quo over the edge (just supposin')](https://www.youtube.com/watch?v=s2t8WPtOI1c)
-- [status quo run to mummy (just supposin')](https://www.youtube.com/watch?v=b2-BfwMJ4KY)
-- [status quo rock 'n' roll (just supposin')](https://www.youtube.com/watch?v=bxiKmMsdcbA)
-- [status quo coming and going (just supposin').wmv](https://www.youtube.com/watch?v=ayu2P1QgIdE)
-- [status quo don't drive my car (just supposin').wmv](https://www.youtube.com/watch?v=CrrGKuMmcWg)
-- [status quo just supposin' - albumtrailer.wmv](https://www.youtube.com/watch?v=OieRMEF9roA)
-- [status quo what you're proposing (just supposin')](https://www.youtube.com/watch?v=-P0_ZH1GZdI)
-- [status quo the wild ones (just supposin')](https://www.youtube.com/watch?v=uT4Vgl9Z1LI)
-- [status quo lies (just supposin').wmv](https://www.youtube.com/watch?v=hxEjL8T_KNA)
-- [Status Quo ‎– What You're Proposing](https://www.youtube.com/watch?v=ZSSLFV7JQxU)
-- [Status Quo ‎– Don't Drive My Car](https://www.youtube.com/watch?v=YRx923Rmvgc)
+{{< youtube id="z4Zh5DyMRDU" title="Status Quo – What You're Proposin'" >}}
+- [Status Quo – Rock 'n' Roll](https://www.youtube.com/watch?v=UGuPCJcj3As)
+- [Status Quo – Lies](https://www.youtube.com/watch?v=Q4yckEtH-jQ)
+- [Status Quo – Don't Drive My Car](https://www.youtube.com/watch?v=n0GScZd2Ers)
 
 ## Notes
 | Notes          |             |
@@ -44,7 +40,5 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Status Quo - Just Supposin'...](https://www.discogs.com/release/7581302-Status-Quo-Just-Supposin) |
 | Label          | Vertigo |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 4723773 |
-
-

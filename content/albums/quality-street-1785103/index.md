@@ -2,7 +2,7 @@
 title: "World Of Twist - Quality Street"
 artist: "World Of Twist"
 album_name: "Quality Street"
-date: 2016-12-07
+date: 2016-12-07T17:40:35.000000Z
 release_id: "1785103"
 slug: "quality-street-1785103"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Lose My Way
 2. Sons Of The Stage
@@ -24,6 +25,9 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 8. Sweets
 9. The Spring
 10. The Storm
+
+
+
 
 ## Videos
 {{< youtube id="itseYKke4bw" title="World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990" >}}
@@ -42,8 +46,8 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 1991 |
 | Discogs Link   | [World Of Twist - Quality Street](https://www.discogs.com/release/1785103-World-Of-Twist-Quality-Street) |
-| Label          | Circa, Circa |
-| Format         | LP, Album, Gat |
-| Catalog Number | CIRCA 17, 212 242 |
+| Label          | Circa |
+| Format         | Vinyl LP Album (Gatefold Sleeve) |
+| Catalog Number | CIRCA 17 |
 
 Thanks to Martin Hannett.

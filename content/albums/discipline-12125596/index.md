@@ -2,7 +2,7 @@
 title: "King Crimson - Discipline"
 artist: "King Crimson"
 album_name: "Discipline"
-date: 2023-02-03
+date: 2023-02-03T11:49:37.000000Z
 release_id: "12125596"
 slug: "discipline-12125596"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Elephant Talk
 2. Frame By Frame
@@ -22,8 +23,11 @@ styles: ["Prog Rock"]
 6. The Sheltering Sky
 7. Discipline
 8. Matte Kudasai (Alt. Mix)
+
+
 ## Spotify
 {{< spotify type="album" id="7KxUQCCvE0edGiqBS6ywEd" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -31,8 +35,22 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [King Crimson - Discipline](https://www.discogs.com/release/12125596-King-Crimson-Discipline) |
-| Label          | Discipline Global Mobile, Panegyric, Inner Knot |
-| Format         | LP, Album, RE, RM, 200 |
+| Label          | Discipline Global Mobile |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Catalog Number | KCLP8 |
 
-Sticker, embossed "Inner Knot" logo on front cover. Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label). Includes a branded inner sleeve.  Sticker: • The 1981 King Crimson classic • Newly cut from masters approved by Robert Fripp • Includes bonus track (Matte Kudasai alt. mix) • 200-gram super-heavyweight vinyl  Back: ℗ & © 2018 Robert Fripp  Labels: Made in England. ℗ & © 2018 Robert Fripp.
+Sticker, embossed "Inner Knot" logo on front cover.
+Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label).
+Includes a branded inner sleeve.
+
+Sticker:
+• The 1981 King Crimson classic
+• Newly cut from masters approved by Robert Fripp
+• Includes bonus track (Matte Kudasai alt. mix)
+• 200-gram super-heavyweight vinyl
+
+Back:
+℗ & © 2018 Robert Fripp
+
+Labels:
+Made in England. ℗ & © 2018 Robert Fripp.

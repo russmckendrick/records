@@ -2,7 +2,7 @@
 title: "Patti Smith - Horses"
 artist: "Patti Smith"
 album_name: "Horses"
-date: 2020-01-08
+date: 2020-01-08T18:57:39.000000Z
 release_id: "14504020"
 slug: "horses-14504020"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 ---
+
 ## Tracklisting
 1. Gloria
 2. Redondo Beach
@@ -22,8 +23,12 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 6. Break It Up
 7. Land
 8. Elegie
+
+
 ## Spotify
 {{< spotify type="album" id="7xg7u99lilTCPbaRfnYuy6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SVR_eY_1R40" title="Patti Smith ‎Horses Full Album" >}}
@@ -37,7 +42,10 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 | Release Year   | 2019 |
 | Discogs Link   | [Patti Smith - Horses](https://www.discogs.com/release/14504020-Patti-Smith-Horses) |
 | Label          | Arista |
-| Format         | LP, Album, Ltd, RE, Cle |
+| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Catalog Number | 19075995581 |
 
-Clear Vinyl Rough Trade Exclusive Limited to 1000 copies 2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip
+Clear Vinyl
+Rough Trade Exclusive
+Limited to 1000 copies
+2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip

@@ -2,7 +2,7 @@
 title: "Steven Wilson - Cover Version"
 artist: "Steven Wilson"
 album_name: "Cover Version"
-date: 2016-12-20
+date: 2016-12-20T18:37:54.000000Z
 release_id: "5441637"
 slug: "cover-version-5441637"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Folk", "Ambient", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Thank You (4:39)
 2. The Day Before You Came (5:06)
@@ -26,8 +27,12 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 10. The Unquiet Grave (6:57)
 11. Well You're Wrong (3:35)
 12. An End To End (5:12)
+
+
 ## Spotify
 {{< spotify type="album" id="5OVe5YgKI66pTHidNkvwTE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest (The Cure cover)" >}}
@@ -47,7 +52,8 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Steven Wilson - Cover Version](https://www.discogs.com/release/5441637-Steven-Wilson-Cover-Version) |
 | Label          | Kscope |
-| Format         | 2xLP, Comp, 180 |
+| Format         | Vinyl 2× LP Compilation (180g) |
 | Catalog Number | KSCOPE858 |
 
-Gatefold sleeve and printed innersleeves. Tracks listed sequentially on rear cover.
+Gatefold sleeve and printed innersleeves.
+Tracks listed sequentially on rear cover.

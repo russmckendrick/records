@@ -2,7 +2,7 @@
 title: "Anneke van Giersbergen - Everything Is Changing"
 artist: "Anneke van Giersbergen"
 album_name: "Everything Is Changing"
-date: 2017-05-27
+date: 2017-05-27T08:22:45.000000Z
 release_id: "8628494"
 slug: "everything-is-changing-8628494"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Feel Alive
 2. You Want To Be Free
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 10. Slow Me Down
 11. Too Late
 12. 1000 Miles Away From You
+
+
 ## Spotify
 {{< spotify type="album" id="19VD5DUg5Qf5C2SBBAmHT3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Gan5yrOagpc" title="Everything Is Changing ~  Anneke Van Giersbergen ~ Everything Is Changing" >}}
@@ -47,8 +52,10 @@ styles: ["Alternative Rock", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Anneke van Giersbergen - Everything Is Changing](https://www.discogs.com/release/8628494-Anneke-van-Giersbergen-Everything-Is-Changing) |
-| Label          | Alone Records |
-| Format         | LP, Album, Ltd, Pic, RE |
+| Label          | Alone Records (2) |
+| Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
 | Catalog Number | AR-064LPPIC |
 
-For the first time on vinyl, presented in gatefold jacket and printed inner sleeve. Limited to 500 copies on picture disc. Under exclusive license from InsideOut Music
+For the first time on vinyl, presented in gatefold jacket and printed inner sleeve.
+Limited to 500 copies on picture disc.
+Under exclusive license from InsideOut Music

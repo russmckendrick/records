@@ -2,7 +2,7 @@
 title: "Anathema - We're Here Because We're Here"
 artist: "Anathema"
 album_name: "We're Here Because We're Here"
-date: 2016-01-25
+date: 2016-01-25T18:19:24.000000Z
 release_id: "2318604"
 slug: "we-re-here-because-we-re-here-2318604"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Thin Air (6:00)
 2. Summernight Horizon (4:13)
@@ -24,6 +25,9 @@ styles: ["Alternative Rock", "Prog Rock"]
 8. Get Off Get Out (5:01)
 9. Universal (7:19)
 10. Hindsight (8:11)
+
+
+
 
 ## Videos
 {{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air (lyrics)" >}}
@@ -39,7 +43,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Release Year   | 2010 |
 | Discogs Link   | [Anathema - We're Here Because We're Here](https://www.discogs.com/release/2318604-Anathema-Were-Here-Because-Were-Here) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ltd, Num |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered |
 | Catalog Number | kscope812 |
 
-Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall. String arrangements recorded at Angel Studios, London. All photographs taken at significant locations in Liverpool.  Limited edition of 2.000 numbered copies on 180g black vinyl. Made in Germany Gatefold sleeve Two printed inner sleeves 
+Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall.
+String arrangements recorded at Angel Studios, London.
+All photographs taken at significant locations in Liverpool.
+
+Limited edition of 2.000 numbered copies on 180g black vinyl.
+Made in Germany
+Gatefold sleeve
+Two printed inner sleeves
+

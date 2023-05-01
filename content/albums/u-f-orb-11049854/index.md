@@ -2,7 +2,7 @@
 title: "The Orb - U.F.Orb"
 artist: "The Orb"
 album_name: "U.F.Orb"
-date: 2020-04-25
+date: 2020-04-25T15:16:35.000000Z
 release_id: "11049854"
 slug: "u-f-orb-11049854"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Ambient", "Dub", "House"]
 ---
+
 ## Tracklisting
 1. O.O.B.E (12:51)
 2. U.F. Orb (6:08)
@@ -21,8 +22,12 @@ styles: ["Ambient", "Dub", "House"]
 5. Close Encounters (10:27)
 6. Majestic (11:06)
 7. Sticky End (0:49)
+
+
 ## Spotify
 {{< spotify type="album" id="2Kn0WVtKYv7bcE3EYk3wRA" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="MzNp1n37Gm4" title="U.F.Orb" >}}
@@ -38,8 +43,22 @@ styles: ["Ambient", "Dub", "House"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [The Orb - U.F.Orb](https://www.discogs.com/release/11049854-The-Orb-UFOrb) |
-| Label          | Island Records, Island Records, UMC, UMC |
-| Format         | 2xLP, Album, RE, 180 |
-| Catalog Number | 00602557797831, 577 978-3 |
+| Label          | Island Records |
+| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Catalog Number | 00602557797831 |
 
-℗ 1992 Island Records, a division of Universal Music Operations Limited © 1992 Island Records, a division of Universal Music Operations Limited Includes a download voucher.  Cat# on sticker: 577 978-3 Cat# on spine: 00602557797831  All tracks mixed at Matrix 4 Studio. A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music A2: Programmed at Butterfly. Published by Orb Music, Big Life Music B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music D: Programmed at Livingston. Published by Orb Music, Big Life Music D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music D: Published by Orb Music, Big Life Music
+℗ 1992 Island Records, a division of Universal Music Operations Limited
+© 1992 Island Records, a division of Universal Music Operations Limited
+Includes a download voucher.
+
+Cat# on sticker: 577 978-3
+Cat# on spine: 00602557797831
+
+All tracks mixed at Matrix 4 Studio.
+A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music
+A2: Programmed at Butterfly. Published by Orb Music, Big Life Music
+B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music
+C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music
+D: Programmed at Livingston. Published by Orb Music, Big Life Music
+D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music
+D: Published by Orb Music, Big Life Music

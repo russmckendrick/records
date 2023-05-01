@@ -2,7 +2,7 @@
 title: "St. Vincent - Masseduction"
 artist: "St. Vincent"
 album_name: "Masseduction"
-date: 2017-10-13
+date: 2017-10-13T18:10:27.000000Z
 release_id: "10987228"
 slug: "masseduction-10987228"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Hang On Me (2:48)
 2. Pills (4:40)
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. Dancing With A Ghost (0:46)
 12. Slow Disco (2:44)
 13. Smoking Section (3:37)
+
+
 ## Spotify
 {{< spotify type="album" id="4RoOGpdrgfiIUyv0kLaC4e" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="F9WjhPy02gU" title="St. Vincent - Hang On Me (Official Audio)" >}}
@@ -42,8 +47,25 @@ styles: ["Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |
-| Label          | Loma Vista, Loma Vista |
-| Format         | LP, Album, Dlx, Ltd, Pin |
-| Catalog Number | LVR00225, 00888072037120 |
+| Label          | Loma Vista |
+| Format         | Vinyl LP Album Deluxe Edition Limited Edition (Pink) |
+| Catalog Number | LVR00225 |
 
-℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped.
+℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc
+
+Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.
+
+'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.
+
+Made in Czech Republic.
+
+Publishing
+Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music
+Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI)
+Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI)
+Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)
+
+Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.
+
+Runouts:
+'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped.

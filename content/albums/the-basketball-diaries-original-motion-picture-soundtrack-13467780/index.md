@@ -2,7 +2,7 @@
 title: "Various - The Basketball Diaries (Original Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "The Basketball Diaries (Original Motion Picture Soundtrack)"
-date: 2019-04-24
+date: 2019-04-24T16:42:59.000000Z
 release_id: "13467780"
 slug: "the-basketball-diaries-original-motion-picture-soundtrack-13467780"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Catholic Boy (3:05)
 2. Devil's Toe (0:57)
@@ -30,6 +31,9 @@ styles: ["Soundtrack", "Alternative Rock"]
 14. I've Been Down (4:38)
 15. Blind Dogs (4:40)
 
+
+
+
 ## Videos
 {{< youtube id="JB72RnNJk9I" title="The Basketball Diaries Catholic Boy Jim Carroll" >}}
 - [PJ Harvey - Down By The Water](https://www.youtube.com/watch?v=lbq4G1TjKYg)
@@ -46,8 +50,8 @@ styles: ["Soundtrack", "Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Various - The Basketball Diaries (Original Motion Picture Soundtrack)](https://www.discogs.com/release/13467780-Various-The-Basketball-Diaries-Original-Motion-Picture-Soundtrack) |
-| Label          | Real Gone Music, Island Records |
-| Format         | 2xLP, Comp, Ltd, RE, Ora |
+| Label          | Real Gone Music |
+| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange) |
 | Catalog Number | 0000879 |
 
 * Record Store Day 2019 Exclusive Release • Newly Created Gatefold Jacket • 2xLP Pressed on “Basketball Orange” Vinyl • First Vinyl Release of the Soundtrack • Record Store Day Exclusive • Limited to 2000 Copies!

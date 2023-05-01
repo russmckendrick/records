@@ -2,7 +2,7 @@
 title: "Various - The Best Of Indie Top 20"
 artist: "Various"
 album_name: "The Best Of Indie Top 20"
-date: 2019-04-26
+date: 2019-04-26T12:45:43.000000Z
 release_id: "974961"
 slug: "the-best-of-indie-top-20-974961"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. 24 Hour Party People
 2. Stepping Stone
@@ -37,6 +38,9 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 21. Joy
 22. Dreamtime
 
+
+
+
 ## Videos
 {{< youtube id="XycBLF6kWuY" title="The Pixies - Monkey Gone To Heaven" >}}
 - [24 Hour Party People - Happy Mondays [Song]](https://www.youtube.com/watch?v=N7sa9r0mvBs)
@@ -53,7 +57,5 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 | Release Year   | 1991 |
 | Discogs Link   | [Various - The Best Of Indie Top 20](https://www.discogs.com/release/974961-Various-The-Best-Of-Indie-Top-20) |
 | Label          | Beechwood Music |
-| Format         | 2xLP, Comp |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | BOTT 001 |
-
-

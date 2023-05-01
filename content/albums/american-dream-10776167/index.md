@@ -2,7 +2,7 @@
 title: "LCD Soundsystem - American Dream"
 artist: "LCD Soundsystem"
 album_name: "American Dream"
-date: 2017-09-01
+date: 2017-09-01T18:42:49.000000Z
 release_id: "10776167"
 slug: "american-dream-10776167"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield"]
 ---
+
 ## Tracklisting
 1. Oh Baby
 2. Other Voices
@@ -24,8 +25,12 @@ styles: ["Leftfield"]
 8. American Dream 
 9. Emotional Haircut
 10. Black Screen
+
+
 ## Spotify
 {{< spotify type="album" id="4AF1M7bGCFL3LHCtXUUXw5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PPa7wrRW2zE" title="oh baby" >}}
@@ -48,8 +53,11 @@ styles: ["Leftfield"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [LCD Soundsystem - American Dream](https://www.discogs.com/release/10776167-LCD-Soundsystem-American-Dream) |
-| Label          | DFA, Columbia |
-| Format         | 2xLP, Album |
+| Label          | DFA |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | 88985456111 |
 
-140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos.  © & ℗ 2017 Excelsior Equity Management of NY, LLC
+140-gram vinyl housed in gatefold cover and issued with a download voucher.
+This was also available in a bundle that included a tote bag and eight signed band photos.
+
+© & ℗ 2017 Excelsior Equity Management of NY, LLC

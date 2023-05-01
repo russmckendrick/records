@@ -2,7 +2,7 @@
 title: "The Polyphonic Spree - Yes, It's True"
 artist: "The Polyphonic Spree"
 album_name: "Yes, It's True"
-date: 2017-08-15
+date: 2017-08-15T18:49:05.000000Z
 release_id: "4792749"
 slug: "yes-it-s-true-4792749"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Section 33 (You Don't Know Me)
 2. Section 34 (Popular By Design)
@@ -25,8 +26,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 9. Section 41 (Raise Your Head)
 10. Section 42 (What Would You Do?)
 11. Section 43 (Battlefield)
+
+
 ## Spotify
-{{< spotify type="album" id="0wtkCnT2cljWyX8na4u0nh" width="100%" height="500" >}}
+{{< spotify type="album" id="0Wz6AkVwwrRJBjUggrlMXw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="hGiEL_BGToo" title="The Polyphonic Spree : You Don't Know Me (OFFICIAL)" >}}
@@ -42,8 +47,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2013 |
 | Discogs Link   | [The Polyphonic Spree - Yes, It's True](https://www.discogs.com/release/4792749-The-Polyphonic-Spree-Yes-Its-True) |
-| Label          | Good Records, Kirtland Records |
-| Format         | LP, Pas |
-| Catalog Number | GRR 27, KR-78V |
+| Label          | Good Records |
+| Format         | Vinyl LP (Pastel Green) |
+| Catalog Number | GRR 27 |
 
 "As part of the Kickstarter "label", what you hold in your hand is a direct reflection of your specific contribution to our musical dance. When this is played on your turntable, CD player or computer, the same applies. Forever know that, what you have done, is now doing exactly what we all wanted. Thank You!" - Tim

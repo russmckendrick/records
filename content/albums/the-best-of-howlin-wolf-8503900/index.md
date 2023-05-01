@@ -2,7 +2,7 @@
 title: "Howlin' Wolf - The Best Of Howlin' Wolf"
 artist: "Howlin' Wolf"
 album_name: "The Best Of Howlin' Wolf"
-date: 2021-12-23
+date: 2021-12-23T04:32:15.000000Z
 release_id: "8503900"
 slug: "the-best-of-howlin-wolf-8503900"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
+
 ## Tracklisting
 1. Smokestack Lightnin' (3:06)
 2. Spoonful (2:45)
@@ -30,8 +31,11 @@ styles: ["Chicago Blues"]
 14. I've Been Abused (2:16)
 15. The Natchez Burnin' (2:12)
 16. Goin' Down Slow (4:00)
+
+
 ## Spotify
 {{< spotify type="album" id="0MSREewx6CgUBtSonNOkJT" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -40,7 +44,7 @@ styles: ["Chicago Blues"]
 | Release Year   | 2015 |
 | Discogs Link   | [Howlin' Wolf - The Best Of Howlin' Wolf](https://www.discogs.com/release/8503900-Howlin-Wolf-The-Best-Of-Howlin-Wolf) |
 | Label          | Not Now Music |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | CATLP105 |
 
 Made in The E.U.

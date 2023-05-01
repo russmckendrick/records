@@ -2,7 +2,7 @@
 title: "Status Quo - Blue For You"
 artist: "Status Quo"
 album_name: "Blue For You"
-date: 2016-05-23
+date: 2016-05-23T18:27:31.000000Z
 release_id: "7580826"
 slug: "blue-for-you-7580826"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ---
+
 ## Tracklisting
 1. Is There A Better Way
 2. Mad About The Boy
@@ -24,11 +25,8 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 8. Ease Your Mind
 9. Mystery Song
 
-## Videos
-{{< youtube id="Z_mHSGlyRa0" title="Status Quo - Rain" >}}
-- [Status Quo - Is There a Better Way](https://www.youtube.com/watch?v=uOfTiTsSnM0)
-- [Status Quo - Blue For You - HQ](https://www.youtube.com/watch?v=mmMh_6myHmw)
-- [Status Quo - Mystery Song](https://www.youtube.com/watch?v=-nDAMYKKZao)
+
+
 
 ## Notes
 | Notes          |             |
@@ -36,7 +34,11 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Status Quo - Blue For You](https://www.discogs.com/release/7580826-Status-Quo-Blue-For-You) |
 | Label          | Vertigo |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180gr) |
 | Catalog Number | 4723766 |
 
-Gatefold sleeve.  Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1976 Mercury Records Limited/Universal Music Catalogue ℗ 1976 Mercury Records Limited
+Gatefold sleeve. 
+Comes with printed inner sleeve and a poster. 180 gram Vinyl.
+
+© 1976 Mercury Records Limited/Universal Music Catalogue
+℗ 1976 Mercury Records Limited

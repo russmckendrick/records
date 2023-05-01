@@ -2,7 +2,7 @@
 title: "The Black Crowes - Croweology"
 artist: "The Black Crowes"
 album_name: "Croweology"
-date: 2021-04-30
+date: 2021-04-30T07:38:41.000000Z
 release_id: "18329314"
 slug: "croweology-18329314"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
+
 ## Tracklisting
 1. Jealous Again
 2. Share The Ride
@@ -34,8 +35,12 @@ styles: ["Blues Rock", "Southern Rock"]
 18. Sister Luck
 19. She
 20. Bad Luck Blue Eyes Goodbye
+
+
 ## Spotify
 {{< spotify type="album" id="6V5oOvWQrsiRM9gKEKTjOo" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="bS5MwHiLqOQ" title="Wiser Time" >}}
@@ -54,8 +59,14 @@ styles: ["Blues Rock", "Southern Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Black Crowes - Croweology](https://www.discogs.com/release/18329314-The-Black-Crowes-Croweology) |
-| Label          | Silver Arrow, Angelus Entertainment |
-| Format         | 3xLP, Album, Ltd, RE, 10t |
+| Label          | Silver Arrow |
+| Format         | Vinyl 3× LP Album Limited Edition Reissue Stereo (10th Anniversary, Gold + Black) |
 | Catalog Number | SAR 03 LP |
 
-Hype Sticker: "10th Anniversary Edition Gold Vinyl" Gatefold pop-up sleeve. Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.  ℗ & © 2010 Silver Arrow Records, Inc.  Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release)
+Hype Sticker: "10th Anniversary Edition Gold Vinyl"
+Gatefold pop-up sleeve.
+Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.
+
+℗ & © 2010 Silver Arrow Records, Inc.
+
+Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release)

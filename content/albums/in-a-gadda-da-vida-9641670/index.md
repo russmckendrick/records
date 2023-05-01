@@ -2,7 +2,7 @@
 title: "Iron Butterfly - In-A-Gadda-Da-Vida"
 artist: "Iron Butterfly"
 album_name: "In-A-Gadda-Da-Vida"
-date: 2017-01-30
+date: 2017-01-30T18:25:20.000000Z
 release_id: "9641670"
 slug: "in-a-gadda-da-vida-9641670"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Most Anything You Want (3:41)
 2. Flowers And Beads (3:05)
@@ -20,8 +21,12 @@ styles: ["Psychedelic Rock"]
 4. Termination (2:50)
 5. Are You Happy (4:28)
 6. In-A-Gadda-Da-Vida (17:05)
+
+
 ## Spotify
 {{< spotify type="album" id="4L1Qw49gKwFuQwQovBxsKI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5QZdITJX6I0" title="Most Anything You Want" >}}
@@ -40,8 +45,14 @@ styles: ["Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Iron Butterfly - In-A-Gadda-Da-Vida](https://www.discogs.com/release/9641670-Iron-Butterfly-In-A-Gadda-Da-Vida) |
-| Label          | ATCO Records, ATCO Records |
-| Format         | LP, Album, Ltd, RE, Smo |
-| Catalog Number | 081227941918, R1 33250 |
+| Label          | ATCO Records |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Smoked Clear with Green & Pink Splatter) |
+| Catalog Number | 081227941918 |
 
-Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"  Ref. on the spine :  081227941918  Made in E.U. : on rear cover  (P) & (C) 2017, 1968 Atlantic Recording Corporation
+Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"
+
+Ref. on the spine :  081227941918
+
+Made in E.U. : on rear cover
+
+(P) & (C) 2017, 1968 Atlantic Recording Corporation

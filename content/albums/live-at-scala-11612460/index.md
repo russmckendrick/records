@@ -2,7 +2,7 @@
 title: "Paul Draper - Live At Scala"
 artist: "Paul Draper"
 album_name: "Live At Scala"
-date: 2018-05-24
+date: 2018-05-24T14:11:29.000000Z
 release_id: "11612460"
 slug: "live-at-scala-11612460"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Live At Scala by Paul Draper"
     caption: "Live At Scala by Paul Draper"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. The Silence Is Deafening
 2. Don't You Wait, It Might Never Come
@@ -26,8 +27,12 @@ styles: null
 10. I Can Only Disappoint U
 11. Wide Open Space
 12. Don't Poke The Bear
+
+
 ## Spotify
 {{< spotify type="album" id="5xMqq2oMQvfSgrhF1HBhrC" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="WSOGVuFEBEY" title="Paul Draper - I Can Only Disappoint U - Live At Scala" >}}
@@ -40,7 +45,7 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Paul Draper - Live At Scala](https://www.discogs.com/release/11612460-Paul-Draper-Live-At-Scala) |
 | Label          | Kscope |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | KSCOPE975 |
 
 2 LP Retail Version

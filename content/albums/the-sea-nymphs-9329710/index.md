@@ -2,7 +2,7 @@
 title: "The Sea Nymphs - The Sea Nymphs"
 artist: "The Sea Nymphs"
 album_name: "The Sea Nymphs"
-date: 2016-11-09
+date: 2016-11-09T20:12:29.000000Z
 release_id: "9329710"
 slug: "the-sea-nymphs-9329710"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Spirit Spout (2:20)
 2. Shaping The River (2:07)
@@ -34,6 +35,9 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 18. Appealing To Venus (2:34)
 19. Abade (3:44)
 
+
+
+
 ## Videos
 {{< youtube id="h2McejcOiwI" title="The Sea Nymphs : Abade" >}}
 - [The Sea Nymphs - The Sea Ritual (Peel Session)](https://www.youtube.com/watch?v=5NjQgbEduQQ)
@@ -50,7 +54,9 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Sea Nymphs - The Sea Nymphs](https://www.discogs.com/release/9329710-The-Sea-Nymphs-The-Sea-Nymphs) |
 | Label          | The Alphabet Business Concern |
-| Format         | LP, Album, Ltd, Num, RE |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Catalog Number | ALPH LP021 |
 
-Limited to 200 numbered, stickered copies.  Includes download card.
+Limited to 200 numbered, stickered copies.
+
+Includes download card.

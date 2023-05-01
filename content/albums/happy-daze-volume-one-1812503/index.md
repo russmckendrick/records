@@ -2,7 +2,7 @@
 title: "Various - Happy Daze (Volume One)"
 artist: "Various"
 album_name: "Happy Daze (Volume One)"
-date: 2017-12-07
+date: 2017-12-07T20:58:26.000000Z
 release_id: "1812503"
 slug: "happy-daze-volume-one-1812503"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Loaded
 2. Real, Real, Real
@@ -31,13 +32,17 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 15. I'm Free
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1990 |
 | Discogs Link   | [Various - Happy Daze (Volume One)](https://www.discogs.com/release/1812503-Various-Happy-Daze-Volume-One) |
-| Label          | Island Records, Island Records |
-| Format         | LP, Comp |
-| Catalog Number | ILPTV 1, 848 026-1 |
+| Label          | Island Records |
+| Format         | Vinyl LP Compilation |
+| Catalog Number | ILPTV 1 |
 
-℗ 1990 Island Records Ltd. © 1990 Island Records Ltd. 
+℗ 1990 Island Records Ltd.
+© 1990 Island Records Ltd.
+

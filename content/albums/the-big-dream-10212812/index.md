@@ -2,7 +2,7 @@
 title: "Lonely Robot - The Big Dream"
 artist: "Lonely Robot"
 album_name: "The Big Dream"
-date: 2017-04-30
+date: 2017-04-30T19:59:13.000000Z
 release_id: "10212812"
 slug: "the-big-dream-10212812"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Prologue - Deep Sleep (2:12)
 2. Awakenings (5:10)
@@ -36,8 +37,12 @@ styles: ["Prog Rock"]
 20. The Big Dream (8:02)
 21. Hello World, Goodbye (3:52)
 22. Epilogue - Sea Beams (2:48)
+
+
 ## Spotify
 {{< spotify type="album" id="5o6I4nyMWG7lzVr8r9lGFj" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="xz4KqSTClIA" title="The Big Dream" >}}
@@ -50,8 +55,8 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Lonely Robot - The Big Dream](https://www.discogs.com/release/10212812-Lonely-Robot-The-Big-Dream) |
-| Label          | Inside Out Music, Inside Out Music |
-| Format         | 2xLP, Album, 180 + CD, Album |
-| Catalog Number | IOMLP 476, 88985369491 |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
+| Catalog Number | IOMLP 476 |
 
 Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front of the shrink wrap. CD comes packaged inside in a clear envelope-style PVC sleeve.

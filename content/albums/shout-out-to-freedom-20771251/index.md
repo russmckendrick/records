@@ -2,7 +2,7 @@
 title: "Nightmares On Wax - Shout Out! To Freedom..."
 artist: "Nightmares On Wax"
 album_name: "Shout Out! To Freedom..."
-date: 2021-10-30
+date: 2021-10-30T04:06:37.000000Z
 release_id: "20771251"
 slug: "shout-out-to-freedom-20771251"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Downtempo", "Trip Hop"]
 ---
+
 ## Tracklisting
 1. Shout Out! (Intro)
 2. Imagineering
@@ -29,8 +30,12 @@ styles: ["Downtempo", "Trip Hop"]
 13. Isolated
 14. Trillion
 15. Up To Us
+
+
 ## Spotify
 {{< spotify type="album" id="7aqqi7wkPw0zWqCqA5VQio" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="E0877duFog8" title="Nightmares On Wax - Shout Out! To Freedom... (Full Live Performance)" >}}
@@ -53,7 +58,15 @@ styles: ["Downtempo", "Trip Hop"]
 | Release Year   | 2021 |
 | Discogs Link   | [Nightmares On Wax - Shout Out! To Freedom...](https://www.discogs.com/release/20771251-Nightmares-On-Wax-Shout-Out-To-Freedom) |
 | Label          | Warp Records |
-| Format         | 2xLP, Album, Blu |
+| Format         | Vinyl 2× LP Album (Blue Transparent ) |
 | Catalog Number | WARPLP321B |
 
-Made in EU  A4. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK], bass and keys recorded at ATA studios, Leeds. C2. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK] D2. Mara TK recorded and engineered at College of Creative Arts, Massey University, Wellington [NZ]  Management assistant by Eram Butt at ENDLESSLOVESHOW  250 copies ordered from the official N.O.W. store (Bleep.com) included an exclusive print (see the final picture in the images here). This print was advertised/sold as being autographed by George Evelyn, however an email was sent the day before album's release (11/28/2021) stating that the print was not able to be signed.
+Made in EU
+
+A4. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK], bass and keys recorded at ATA studios, Leeds.
+C2. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK]
+D2. Mara TK recorded and engineered at College of Creative Arts, Massey University, Wellington [NZ]
+
+Management assistant by Eram Butt at ENDLESSLOVESHOW
+
+250 copies ordered from the official N.O.W. store (Bleep.com) included an exclusive print (see the final picture in the images here). This print was advertised/sold as being autographed by George Evelyn, however an email was sent the day before album's release (11/28/2021) stating that the print was not able to be signed.

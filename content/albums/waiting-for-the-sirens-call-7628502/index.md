@@ -2,7 +2,7 @@
 title: "New Order - Waiting For The Sirens' Call"
 artist: "New Order"
 album_name: "Waiting For The Sirens' Call"
-date: 2016-01-31
+date: 2016-01-31T14:13:12.000000Z
 release_id: "7628502"
 slug: "waiting-for-the-sirens-call-7628502"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Who's Joe? (5:43)
 2. Hey Now What You Doing (5:13)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 9. Guilt Is A Useless Emotion (5:37)
 10. Turn (4:33)
 11. Working Overtime (3:26)
+
+
 ## Spotify
 {{< spotify type="album" id="1bzjjvsRKcbfaQc8XHJtvl" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="AhsYhd9m2Dc" title="New Order - Jetstream  [OFFICIAL MUSIC VIDEO]" >}}
@@ -39,7 +44,5 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [New Order - Waiting For The Sirens' Call](https://www.discogs.com/release/7628502-New-Order-Waiting-For-The-Sirens-Call) |
 | Label          | Warner Bros. Records |
-| Format         | 2xLP, Album, RM, Gat |
+| Format         | Vinyl 2× LP Album Remastered (Gatefold, 180g) |
 | Catalog Number | 0825646071968 |
-
-

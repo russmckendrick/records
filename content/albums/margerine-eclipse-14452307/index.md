@@ -2,7 +2,7 @@
 title: "Stereolab - Margerine Eclipse"
 artist: "Stereolab"
 album_name: "Margerine Eclipse"
-date: 2019-11-29
+date: 2019-11-29T12:18:21.000000Z
 release_id: "14452307"
 slug: "margerine-eclipse-14452307"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Vonal Declosion
 2. Need To Be
@@ -34,8 +35,12 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 18. Banana Monster Ne Répond Plus
 19. University Microfilms International
 20. Rose, My Rocket-Brain! (Rose, Le Cerveau Electronique de Ma Fusée!)
+
+
 ## Spotify
 {{< spotify type="album" id="3QHf3tMG5tGSEpXVO6brTV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="DLPtDxWTXLk" title="Stereolab - Cosmic Country Noir" >}}
@@ -50,8 +55,6 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Stereolab - Margerine Eclipse](https://www.discogs.com/release/14452307-Stereolab-Margerine-Eclipse) |
-| Label          | Warp Records, Duophonic Ultra High Frequency Disks |
-| Format         | 2xLP, Album, RE + LP + Ltd, Num, RM, Cle |
+| Label          | Warp Records |
+| Format         | Vinyl 2× LP Album Reissue, Vinyl LP, All Media Limited Edition Numbered Remastered (Clear, Expanded Edition) |
 | Catalog Number | D-UHF-D29R |
-
-

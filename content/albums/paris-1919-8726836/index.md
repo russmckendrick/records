@@ -2,7 +2,7 @@
 title: "John Cale - Paris 1919"
 artist: "John Cale"
 album_name: "Paris 1919"
-date: 2016-10-14
+date: 2016-10-14T12:58:46.000000Z
 release_id: "8726836"
 slug: "paris-1919-8726836"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Child's Christmas In Wales (3:19)
 2. Hanky Panky Nohow (2:43)
@@ -23,8 +24,12 @@ styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 7. Graham Greene (2:59)
 8. Half Past France (4:17)
 9. Antartica Starts Here (2:53)
+
+
 ## Spotify
 {{< spotify type="album" id="3WkD4YxRCzgXG2MJF9yDpk" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="r9IKnVVRsmk" title="John Cale - Child's Christmas in Wales" >}}
@@ -42,8 +47,24 @@ styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 | ---------------| ----------- |
 | Release Year   | 1973 |
 | Discogs Link   | [John Cale - Paris 1919](https://www.discogs.com/release/8726836-John-Cale-Paris-1919) |
-| Label          | Reprise Records, Reprise Records, Reprise Records |
-| Format         | LP, Album |
-| Catalog Number | K44239, K 44239, MS 2131 |
+| Label          | Reprise Records |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | K44239 |
 
-The same as [this edition](https://www.discogs.com/release/861265) but with different inscription along the edge of label. Includes lyric insert.  On back cover: K44239 (MS 2131) Stereo  A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 © Shorepak by Shorewood Packaging Co. Ltd., England  On label: Made in UK 33⅓ RPM  K 44239 (MS 2131) ℗ 1973
+The same as [url=https://www.discogs.com/release/861265]this edition[/url] but with different inscription along the edge of label. Includes lyric insert.
+
+On back cover:
+K44239
+(MS 2131)
+Stereo
+
+A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 ©
+Shorepak by Shorewood Packaging Co. Ltd., England
+
+On label:
+Made in UK
+33⅓ RPM
+
+K 44239
+(MS 2131)
+℗ 1973

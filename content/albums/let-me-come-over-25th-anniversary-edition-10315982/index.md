@@ -2,7 +2,7 @@
 title: "Buffalo Tom - Let Me Come Over (25th Anniversary Edition)"
 artist: "Buffalo Tom"
 album_name: "Let Me Come Over (25th Anniversary Edition)"
-date: 2017-05-20
+date: 2017-05-20T15:15:57.000000Z
 release_id: "10315982"
 slug: "let-me-come-over-25th-anniversary-edition-10315982"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Let Me Come Over
 2. Staples
@@ -38,8 +39,12 @@ styles: ["Alternative Rock"]
 22. Sally Brown
 23. Enemy
 24. Birdbrain
+
+
 ## Spotify
 {{< spotify type="album" id="4Hk3soDAxOmpHJsi15xEeI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GZAiJhZgmdo" title="Stymied" >}}
@@ -57,7 +62,18 @@ styles: ["Alternative Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Buffalo Tom - Let Me Come Over (25th Anniversary Edition)](https://www.discogs.com/release/10315982-Buffalo-Tom-Let-Me-Come-Over-25th-Anniversary-Edition) |
 | Label          | Beggars Banquet |
-| Format         | LP, Album, RE + LP + Gat |
+| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media (Gatefold) |
 | Catalog Number | BBQLP 2145 |
 
-Let Me Come Over: Mixed at Soundtracks. Additional mixing at Carriage House. Recorded at Dreamland and Fort Apache.  Includes bonus LP "Live From London ULU 1992" Mixed at Q Division Studios. Special thanks to Ed Valauskas.  Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).  Includes a coupon to download the album and the full live show as [320 kbps MP3s](https://www.discogs.com/release/13211362).
+Let Me Come Over:
+Mixed at Soundtracks.
+Additional mixing at Carriage House.
+Recorded at Dreamland and Fort Apache.
+
+Includes bonus LP "Live From London ULU 1992"
+Mixed at Q Division Studios.
+Special thanks to Ed Valauskas.
+
+Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).
+
+Includes a coupon to download the album and the full live show as [url=https://www.discogs.com/release/13211362]320 kbps MP3s[/url].

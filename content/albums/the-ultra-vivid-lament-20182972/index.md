@@ -2,7 +2,7 @@
 title: "Manic Street Preachers - The Ultra Vivid Lament"
 artist: "Manic Street Preachers"
 album_name: "The Ultra Vivid Lament"
-date: 2021-09-17
+date: 2021-09-17T06:09:39.000000Z
 release_id: "20182972"
 slug: "the-ultra-vivid-lament-20182972"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Still Snowing In Sapporo
 2. Orwellian
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. Blank Diary Entry
 10. Happy Bored Alone
 11. Afterending
+
+
 ## Spotify
-{{< spotify type="album" id="7LJ0QxVfTERPw88EwJDCRY" width="100%" height="500" >}}
+{{< spotify type="album" id="0DKpbNqHU9FDvs6YlQxlwZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Lg2HrqFsz14" title="Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer" >}}
@@ -38,8 +43,12 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Manic Street Preachers - The Ultra Vivid Lament](https://www.discogs.com/release/20182972-Manic-Street-Preachers-The-Ultra-Vivid-Lament) |
-| Label          | Columbia, Sony Music, Columbia, Sony Music |
-| Format         | LP, Album, Ltd, Yel |
-| Catalog Number | 19439895431, 19439895471 |
+| Label          | Columbia |
+| Format         | Vinyl LP Album Limited Edition (Yellow, 180g) |
+| Catalog Number | 19439895431 |
 
-Amazon exclusive coloured vinyl edition.  Made in the EU.  
+Amazon exclusive coloured vinyl edition.
+
+Made in the EU.
+
+

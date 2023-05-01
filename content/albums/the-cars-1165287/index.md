@@ -2,7 +2,7 @@
 title: "The Cars - The Cars"
 artist: "The Cars"
 album_name: "The Cars"
-date: 2020-08-02
+date: 2020-08-02T13:38:38.000000Z
 release_id: "1165287"
 slug: "the-cars-1165287"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Good Times Roll (3:44)
 2. My Best Friend's Girl (3:44)
@@ -23,8 +24,12 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 7. Bye Bye Love (4:14)
 8. Moving In Stereo (5:15)
 9. All Mixed Up (4:14)
+
+
 ## Spotify
 {{< spotify type="album" id="4tJPWT4r4FSKwy784Qs1Fq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ki6xHnDAwHw" title="Good Times Roll" >}}
@@ -43,7 +48,15 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 | Release Year   | 1978 |
 | Discogs Link   | [The Cars - The Cars](https://www.discogs.com/release/1165287-The-Cars-The-Cars) |
 | Label          | Elektra |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | K 52088 |
 
-℗ 1978 Elektra Records © 1978 An Elektra/Asylum Recording  All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978 Made in UK A1 to B2, B4: Lido Music B3: Lido Music / Oversnare Music  This version labels say SIDE 1 and SIDE 2 Version with SIDE ONE and SIDE TWO on labels is here [r14061338]
+℗ 1978 Elektra Records
+© 1978 An Elektra/Asylum Recording 
+All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978
+Made in UK
+A1 to B2, B4: Lido Music
+B3: Lido Music / Oversnare Music
+
+This version labels say SIDE 1 and SIDE 2
+Version with SIDE ONE and SIDE TWO on labels is here [r14061338]

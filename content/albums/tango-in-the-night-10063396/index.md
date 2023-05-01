@@ -2,7 +2,7 @@
 title: "Fleetwood Mac - Tango In The Night"
 artist: "Fleetwood Mac"
 album_name: "Tango In The Night"
-date: 2017-04-02
+date: 2017-04-02T13:04:01.000000Z
 release_id: "10063396"
 slug: "tango-in-the-night-10063396"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Original Album - 2017 Remaster
 2. Big Love (3:44)
@@ -89,18 +90,12 @@ styles: ["Pop Rock"]
 73. Isn't It Midnight (4:14)
 74. When I See You Again (3:49)
 75. You And I, Part II (2:40)
+
+
 ## Spotify
 {{< spotify type="album" id="4AsXQ17Arq1cUVoa9dKJ3F" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="FA1OqIpdxZE" title="Fleetwood Mac - Tango In The Night" >}}
-- [Family Man (2017 Remaster)](https://www.youtube.com/watch?v=I0voH4cU4ck)
-- [Isn't It Midnight (2017 Remaster)](https://www.youtube.com/watch?v=EYkslCXJMGE)
-- [Fleetwood Mac - Seven Wonders (Official Music Video)](https://www.youtube.com/watch?v=9b4F_ppjnKU)
-- [Fleetwood Mac - Big Love (Official Music Video)](https://www.youtube.com/watch?v=4hPv6EuV7dM)
-- [Fleetwood Mac - Isn't It Midnight (Official Music Video)](https://www.youtube.com/watch?v=rIEgh32s9mQ)
-- [Fleetwood Mac - Little Lies (Official Music Video)](https://www.youtube.com/watch?v=uCGD9dT12C0)
-- [Fleetwood Mac - Everywhere (Official Music Video)](https://www.youtube.com/watch?v=YF1R0hc5Q2I)
+
 
 ## Notes
 | Notes          |             |
@@ -108,7 +103,19 @@ styles: ["Pop Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/10063396-Fleetwood-Mac-Tango-In-The-Night) |
 | Label          | Warner Bros. Records |
-| Format         | CD, Album, RE, RM + CD, RM + CD, Comp, RM + DVD-V, |
+| Format         | CD Album Reissue Remastered, CD Remastered, CD Compilation Remastered, DVD DVD-Video NTSC Compilation, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (30th Anniversary Edition) |
 | Catalog Number | R2 554813 |
 
-Deluxe edition of 'Tango In The Night', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Demo's, Alternates and B-Sides, Disc 3: CD - The 12'' mixes, Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album, Disc 5: 180g Vinyl LP - original album, remastered. Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  The Everywhere video on the DVD is the version that doesn't feature the band superimposed.  Sticker on front with format description + cat. no. R2 554813
+Deluxe edition of 'Tango In The Night', contains:
+Disc 1: CD - Original album, remastered,
+Disc 2: CD - Demo's, Alternates and B-Sides,
+Disc 3: CD - The 12'' mixes,
+Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album,
+Disc 5: 180g Vinyl LP - original album, remastered.
+Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band,
+Peel-off 12"x12" backing paper containing track listing.
+All housed in a 12"x12", solid, card sleeve.
+
+The Everywhere video on the DVD is the version that doesn't feature the band superimposed.
+
+Sticker on front with format description + cat. no. R2 554813

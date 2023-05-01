@@ -2,7 +2,7 @@
 title: "Curve - Blindfold EP"
 artist: "Curve"
 album_name: "Blindfold EP"
-date: 2023-02-13
+date: 2023-02-13T11:31:14.000000Z
 release_id: "26071315"
 slug: "blindfold-ep-26071315"
 hideSummary: true
@@ -13,11 +13,15 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Ten Little Girls
 2. I Speak Your Every Word
 3. Blindfold
 4. No Escape From Heaven
+
+
+
 
 ## Videos
 {{< youtube id="ProMC3LB4PM" title="Curve - Ten little girls" >}}
@@ -32,7 +36,15 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 | Release Year   | 2023 |
 | Discogs Link   | [Curve - Blindfold EP](https://www.discogs.com/release/26071315-Curve-Blindfold-EP) |
 | Label          | Music On Vinyl |
-| Format         | 12\", EP, Ltd, Num, Red |
+| Format         | Vinyl 12" EP Limited Edition Numbered (Red and black marbled) |
 | Catalog Number | MOV12030 |
 
-Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track timings not stated on release.
+Part of a reissue series.
+Coloured vinyl.
+Plastic outer sleeve with Music On Vinyl sticker.
+Limited edition of 1000.
+Individual number stamped in silver metallic on rear of outer sleeve.
+Plain inner sleeve.
+Insert advertising Music On Vinyl Curve reissue series.
+
+Track timings not stated on release.

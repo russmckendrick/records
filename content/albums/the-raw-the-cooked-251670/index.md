@@ -2,7 +2,7 @@
 title: "Fine Young Cannibals - The Raw & The Cooked"
 artist: "Fine Young Cannibals"
 album_name: "The Raw & The Cooked"
-date: 2016-01-13
+date: 2016-01-13T10:27:40.000000Z
 release_id: "251670"
 slug: "the-raw-the-cooked-251670"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. She Drives Me Crazy
 2. Good Thing
@@ -24,8 +25,12 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 8. Don't Let It Get You Down
 9. As Hard As It Is
 10. Ever Fallen In Love
+
+
 ## Spotify
 {{< spotify type="album" id="6CoeDRu0SmpFtLZMcRTO2F" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5-5U4U1bdQQ" title="Fine Young Cannibals - The Raw And The Cooked (Full Album)" >}}
@@ -53,7 +58,17 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 | Release Year   | 1989 |
 | Discogs Link   | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/251670-Fine-Young-Cannibals-The-Raw-The-Cooked) |
 | Label          | London Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 828 069. 1 |
 
-© 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited. A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd. A2, A5 & B4 ℗ 1987 Touchstone Pictures B5 ℗ 1987 FFRR Records Ltd.  Publishers: A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd. A2, A5 & B4 - Campbell Connelly Issued in a single sleeve and with a printed inner sleeve.  All runout data is stamped.
+© 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited.
+A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd.
+A2, A5 & B4 ℗ 1987 Touchstone Pictures
+B5 ℗ 1987 FFRR Records Ltd.
+
+Publishers:
+A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd.
+A2, A5 & B4 - Campbell Connelly
+Issued in a single sleeve and with a printed inner sleeve.
+
+All runout data is stamped.

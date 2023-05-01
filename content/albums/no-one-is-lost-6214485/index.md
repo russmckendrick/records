@@ -2,7 +2,7 @@
 title: "Stars - No One Is Lost"
 artist: "Stars"
 album_name: "No One Is Lost"
-date: 2017-06-27
+date: 2017-06-27T18:05:54.000000Z
 release_id: "6214485"
 slug: "no-one-is-lost-6214485"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
+
 ## Tracklisting
 1. From The Night
 2. This Is The Last Time
@@ -25,8 +26,12 @@ styles: ["Indie Rock", "Indie Pop"]
 9. The Stranger
 10. Look Away
 11. No One Is Lost
+
+
 ## Spotify
 {{< spotify type="album" id="1DO8C1pmMT1llrTbm0Se83" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost (Official Video)" >}}
@@ -38,7 +43,7 @@ styles: ["Indie Rock", "Indie Pop"]
 | Release Year   | 2014 |
 | Discogs Link   | [Stars - No One Is Lost](https://www.discogs.com/release/6214485-Stars-No-One-Is-Lost) |
 | Label          | ATO Records |
-| Format         | 2xLP, Album, Ltd, Pin |
+| Format         | Vinyl 2× LP Album Limited Edition (Pink/Black Split) |
 | Catalog Number | ATO0251 |
 
 Pre-Order edition. The first 300 LP pre-orders (including bundles) from the official Stars web store include a band signed album flat! Gatefold sleeve. Includes insert with lyrics and a download code.

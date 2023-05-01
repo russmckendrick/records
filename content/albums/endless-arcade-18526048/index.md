@@ -2,7 +2,7 @@
 title: "Teenage Fanclub - Endless Arcade"
 artist: "Teenage Fanclub"
 album_name: "Endless Arcade"
-date: 2021-04-30
+date: 2021-04-30T10:00:02.000000Z
 release_id: "18526048"
 slug: "endless-arcade-18526048"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Home
 2. Endless Arcade
@@ -26,8 +27,12 @@ styles: ["Indie Rock"]
 10. The Future
 11. Living With You
 12. Silent Song
+
+
 ## Spotify
 {{< spotify type="album" id="6BBYKRGhb3pBbxwM18B6oY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home (single edit)" >}}
@@ -40,7 +45,13 @@ styles: ["Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [Teenage Fanclub - Endless Arcade](https://www.discogs.com/release/18526048-Teenage-Fanclub-Endless-Arcade) |
 | Label          | Pema |
-| Format         | LP, Album, Ltd, Gre |
+| Format         | Vinyl LP Album Limited Edition (Green Translucent, Die Cut Sleeve) |
 | Catalog Number | PEMA14LPC |
 
-Recorded at Clouds Hill Recordings in Hamburg and at Raymond's place in Glasgow. Additional overdubs recorded at Rockfield Studios near Monmouth. Mixed in Glasgow. Some of Euros' backing vocals recorded in Cardiff. Mastered at Iterative Mastering.  Limited Edition Translucent Green vinyl LP in die-cut sleeve pressed in a total number of 1000 copies.  Some copies with a signed print.  PEMA14LPC on sticker. PEMA14LP on labels and spine.
+Recorded at Clouds Hill Recordings in Hamburg and at Raymond's place in Glasgow. Additional overdubs recorded at Rockfield Studios near Monmouth. Mixed in Glasgow. Some of Euros' backing vocals recorded in Cardiff.
+Mastered at Iterative Mastering.
+
+Limited Edition Translucent Green vinyl LP in die-cut sleeve pressed in a total number of 1000 copies. 
+Some copies with a signed print.
+
+PEMA14LPC on sticker. PEMA14LP on labels and spine.

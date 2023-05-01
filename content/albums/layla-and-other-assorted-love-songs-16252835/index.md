@@ -2,7 +2,7 @@
 title: "Derek & The Dominos - Layla And Other Assorted Love Songs"
 artist: "Derek & The Dominos"
 album_name: "Layla And Other Assorted Love Songs"
-date: 2021-04-05
+date: 2021-04-05T06:12:09.000000Z
 release_id: "16252835"
 slug: "layla-and-other-assorted-love-songs-16252835"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Layla And Other Assorted Love Songs by Derek & The Dominos"
     caption: "Layla And Other Assorted Love Songs by Derek & The Dominos"
 genres: ["Rock", "Blues"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. The Original Album - Half-Speed Mastered Edition - 50th Anniversary
 2. I Looked Away (3:06)
@@ -45,17 +46,21 @@ styles: null
 29. High (From April / May 1971 Sessions For The Dominos' Second Album) (3:15)
 30. Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) (3:45)
 31. Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) (6:05)
+
+
 ## Spotify
 {{< spotify type="album" id="5iIWnMgvSM8uEBwXKsPcXM" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="PMlmoLvRBNQ" title="Derek and the Dominos - I Looked Away" >}}
-- [Derek and the Dominos - Key to the Highway](https://www.youtube.com/watch?v=f3dW5F6GKTs)
 - [Derek And The Dominos - Bell Bottom Blues ( studio version)](https://www.youtube.com/watch?v=BKAYGVIkbok)
 - [Derek and the Dominos - Keep on Growing](https://www.youtube.com/watch?v=jUVUJ_Wbw4E)
 - [Derek and the Dominos - Nobody Knows You When You're Down and Out](https://www.youtube.com/watch?v=S0vVSzr1ee4)
 - [Derek and the Dominos - I Am Yours](https://www.youtube.com/watch?v=DO6TvPqCQCo)
 - [Derek and the Dominos - Anyday](https://www.youtube.com/watch?v=QrWK5XWuGpk)
+- [Derek and the Dominos - Key to the Highway](https://www.youtube.com/watch?v=f3dW5F6GKTs)
 - [Derek and the Dominos - Tell the Truth](https://www.youtube.com/watch?v=ml5K4BgrcaQ)
 - [Derek and the Dominos - Why Does Love Got to Be So Sad?](https://www.youtube.com/watch?v=Qe9MAVgkpjc)
 - [Derek and the Dominos - Have You Ever Loved a Woman](https://www.youtube.com/watch?v=a73Lxi-o388)
@@ -69,8 +74,18 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Derek & The Dominos - Layla And Other Assorted Love Songs](https://www.discogs.com/release/16252835-Derek-The-Dominos-Layla-And-Other-Assorted-Love-Songs) |
-| Label          | Polydor, UMC |
-| Format         | Box, 50t + 2xLP, Album, RE, RM, Hal + 2xLP |
-| Catalog Number | 0602507274900, 0727490 |
+| Label          | Polydor |
+| Format         | Box Set (50th Anniversary Edition), Vinyl 2× LP Album Reissue Remastered Stereo (Half-Speed Mastered), Vinyl 2× LP Stereo |
+| Catalog Number | 0602507274900 |
 
-This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company. Made in the Czech Republic.  Hype Sticker (Guitar Shape) on Front of The Box Set reads: 50th Anniversary Half-Speed Mastered Vinyl Edition. Includes: - The Original Album In Half-Speed Mastered Format - Bonus Material Cut As Normal 180 Gram Vinyl - First Time On Vinyl For Some  Of These Rarities  F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set).
+This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company.
+Made in the Czech Republic.
+
+Hype Sticker (Guitar Shape) on Front of The Box Set reads:
+50th Anniversary Half-Speed Mastered Vinyl Edition.
+Includes:
+- The Original Album In Half-Speed Mastered Format
+- Bonus Material Cut As Normal 180 Gram Vinyl
+- First Time On Vinyl For Some  Of These Rarities
+
+F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set).

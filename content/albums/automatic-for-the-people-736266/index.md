@@ -2,7 +2,7 @@
 title: "R.E.M. - Automatic For The People"
 artist: "R.E.M."
 album_name: "Automatic For The People"
-date: 2015-08-09
+date: 2015-08-09T08:39:05.000000Z
 release_id: "736266"
 slug: "automatic-for-the-people-736266"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Drive
 2. Drive (4:30)
@@ -28,23 +29,43 @@ styles: ["Alternative Rock"]
 12. Man On The Moon (5:12)
 13. Nightswimming (4:16)
 14. Find The River (3:49)
+
+
 ## Spotify
 {{< spotify type="album" id="0BiNb8HYR4JvuxUa31Z58Q" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="-UE7tXDKIus" title="R.E.M. - Drive (Official Music Video)" >}}
-- [REM automatic for the people 2](https://www.youtube.com/watch?v=OZpKZr9GZOo)
-- [R̲ E̲ M  -  A̲u̲t̲omatic f̲or t̲he P̲e̲ople (Full Album) 1992](https://www.youtube.com/watch?v=jBUjeOBzkIk)
-- [R.E.M. - Man On The Moon (Official Music Video)](https://www.youtube.com/watch?v=dLxpNiF0YKs)
-- [R.E.M. - Everybody Hurts (Official Music Video)](https://www.youtube.com/watch?v=5rOiW_xY-kc)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 1999 |
 | Discogs Link   | [R.E.M. - Automatic For The People](https://www.discogs.com/release/736266-REM-Automatic-For-The-People) |
-| Label          | Warner Bros. Records, Warner Bros. Records |
-| Format         | LP, Album, RE, RP |
-| Catalog Number | 9362-45055-1, WX 488 |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album Reissue Repress |
+| Catalog Number | 9362-45055-1 |
 
-Repress of the [original 1992 european edition](http://www.discogs.com/release/8037481): while being sourced from the original [l=Warner Music Manufacturing Europe] stampers, it was pressed by [l=Optimal Media Production] instead, indicated by the presence of "B922353" in the runouts.  Comes with printed inner sleeve.  On spine, printed: 9362-45055-1   R.E.M.    AUTOMATIC FOR THE PEOPLE  Made in Germany by WARNER MUSIC MANUFACTURING EUROPE  ©  ℗ 1992 R.E.M./ATHENS. LTD.  9362-45055-1 UK: WX488   Some copies come with a yellow sticker on the sleeve saying  "includes Drive Man On The Moon The Sidewinder Sleep Tonite & Everybody Hurts WX488 9362-45055-1"
+Repress of the [url=http://www.discogs.com/release/8037481]original 1992 european edition[/url]: while being sourced from the original [l=Warner Music Manufacturing Europe] stampers, it was pressed by [l=Optimal Media Production] instead, indicated by the presence of "B922353" in the runouts.
+
+Comes with printed inner sleeve.
+
+On spine, printed: 9362-45055-1   R.E.M.    AUTOMATIC FOR THE PEOPLE
+
+Made in Germany by WARNER MUSIC MANUFACTURING EUROPE
+
+©  ℗ 1992 R.E.M./ATHENS. LTD.
+
+9362-45055-1
+UK: WX488
+
+
+Some copies come with a yellow sticker on the sleeve saying
+
+"includes
+Drive
+Man On The Moon
+The Sidewinder
+Sleep Tonite
+& Everybody Hurts
+WX488
+9362-45055-1"

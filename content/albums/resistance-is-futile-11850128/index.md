@@ -2,7 +2,7 @@
 title: "Manic Street Preachers - Resistance Is Futile"
 artist: "Manic Street Preachers"
 album_name: "Resistance Is Futile"
-date: 2018-04-13
+date: 2018-04-13T18:38:59.000000Z
 release_id: "11850128"
 slug: "resistance-is-futile-11850128"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. People Give In
 2. International Blue
@@ -38,8 +39,12 @@ styles: ["Alternative Rock"]
 22. Broken Algorithms
 23. A Song For The Sadness
 24. The Left Behind
+
+
 ## Spotify
 {{< spotify type="album" id="3YIxCobTpZ7Hh7sNAHBw1M" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JU5bn2LiOfA" title="Manic Street Preachers - Hold Me Like a Heaven (Official Video)" >}}
@@ -51,8 +56,10 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Manic Street Preachers - Resistance Is Futile](https://www.discogs.com/release/11850128-Manic-Street-Preachers-Resistance-Is-Futile) |
-| Label          | Columbia, Sony Music |
-| Format         | LP, Album, Ltd, Whi + CD, Album |
+| Label          | Columbia |
+| Format         | Vinyl LP Album Limited Edition (White, 180g), CD Album |
 | Catalog Number | 19075809911 |
 
-Includes the album on CD.  Made In The E.U. 
+Includes the album on CD. 
+Made In The E.U.
+

@@ -2,7 +2,7 @@
 title: "Kingmaker - Sleepwalking"
 artist: "Kingmaker"
 album_name: "Sleepwalking"
-date: 2016-07-26
+date: 2016-07-26T17:57:59.000000Z
 release_id: "2957250"
 slug: "sleepwalking-2957250"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Playground Brutality (2:46)
 2. Armchair Anarchist (3:12)
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Alternative Rock"]
 10. Sleepwalking In The Five O'Clock Shadow (3:49)
 11. Stay Free (3:12)
 12. Pyromaniacs Anonymous (3:13)
+
+
 ## Spotify
 {{< spotify type="album" id="63nY04DrKWziuBxzAEOUiT" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8TT8tNF67v8" title="Playground Brutality Kingmaker" >}}
@@ -44,7 +49,9 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Release Year   | 1993 |
 | Discogs Link   | [Kingmaker - Sleepwalking](https://www.discogs.com/release/2957250-Kingmaker-Sleepwalking) |
 | Label          | Chrysalis |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | CHR 6014 |
 
-℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd. Release features Chrysalis and Scorch Records logos. 
+℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd.
+Release features Chrysalis and Scorch Records logos.
+

@@ -2,7 +2,7 @@
 title: "Charles Bradley - Changes"
 artist: "Charles Bradley"
 album_name: "Changes"
-date: 2016-04-02
+date: 2016-04-02T09:43:48.000000Z
 release_id: "8255546"
 slug: "changes-8255546"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
+
 ## Tracklisting
 1. God Bless America
 2. Good To Be Back Home
@@ -25,8 +26,12 @@ styles: ["Soul"]
 9. You Think I Don't Know (But I Know)
 10. Change For The World
 11. Slow Love
+
+
 ## Spotify
-{{< spotify type="album" id="7g7WzMzTLLOyTSzVUnJACI" width="100%" height="500" >}}
+{{< spotify type="album" id="4A271CZJOcBKENslfEDsYM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Ntu_2beC9Ts" title="God Bless America" >}}
@@ -44,8 +49,10 @@ styles: ["Soul"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Charles Bradley - Changes](https://www.discogs.com/release/8255546-Charles-Bradley-Changes) |
-| Label          | Dunham, Daptone Records, Daptone Records |
-| Format         | LP, Album |
-| Catalog Number | DUN-1005, DAP-041, DAP041 |
+| Label          | Dunham |
+| Format         | Vinyl LP Album |
+| Catalog Number | DUN-1005 |
 
-Includes [download card](http://www.discogs.com/release/9023062).   Some with hype sticker on shrink wrap of new copies.
+Includes [url=http://www.discogs.com/release/9023062]download card[/url]. 
+
+Some with hype sticker on shrink wrap of new copies.

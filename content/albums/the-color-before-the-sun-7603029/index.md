@@ -2,7 +2,7 @@
 title: "Coheed And Cambria - The Color Before The Sun"
 artist: "Coheed And Cambria"
 album_name: "The Color Before The Sun"
-date: 2015-10-24
+date: 2015-10-24T08:06:03.000000Z
 release_id: "7603029"
 slug: "the-color-before-the-sun-7603029"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. The Color Before The Sun
 2. Island
@@ -36,8 +37,12 @@ styles: ["Alternative Rock"]
 20. You Got Spirit, Kid (4:11)
 21. The Audience (6:11)
 22. Peace To The Mountain (6:34)
+
+
 ## Spotify
 {{< spotify type="album" id="6ewn6Mp7uBHuncFbdEvlGe" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun (Full Album)" >}}
@@ -48,7 +53,7 @@ styles: ["Alternative Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Coheed And Cambria - The Color Before The Sun](https://www.discogs.com/release/7603029-Coheed-And-Cambria-The-Color-Before-The-Sun) |
 | Label          | 300 Entertainment |
-| Format         | LP, Album + CD, Album, Promo |
+| Format         | Vinyl LP Album, CD Album Promo |
 | Catalog Number | 551277-1 |
 
 Standard release on black vinyl. Includes album on CD in a paper sleeve. Parental Advisory sticker on outer shrink wrap

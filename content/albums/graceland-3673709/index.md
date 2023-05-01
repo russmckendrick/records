@@ -2,7 +2,7 @@
 title: "Paul Simon - Graceland"
 artist: "Paul Simon"
 album_name: "Graceland"
-date: 2017-08-23
+date: 2017-08-23T17:35:31.000000Z
 release_id: "3673709"
 slug: "graceland-3673709"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. The Boy In The Bubble (3:59)
 2. Graceland (4:51)
@@ -25,37 +26,25 @@ styles: ["Pop Rock"]
 9. Crazy Love, Vol. II (4:19)
 10. That Was Your Mother (2:52)
 11. All Around The World Or The Myth Of Fingerprints (3:16)
+
+
 ## Spotify
 {{< spotify type="album" id="6WgGWYw6XXQyLTsWt7tXky" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al (Official Video)" >}}
-- [Paul Simon - The Boy In The Bubble](https://www.youtube.com/watch?v=Uy5T6s25XK4)
-- [Paul Simon - Diamonds On The Soles Of Her Shoes](https://www.youtube.com/watch?v=-I_T3XvzPaM)
-- [The Boy In the Bubble](https://www.youtube.com/watch?v=ToKsXHRh7Yo)
-- [Paul Simon - Graceland (Official Audio)](https://www.youtube.com/watch?v=GP6a-7MP91g)
-- [Paul Simon - I Know What I Know (Official Audio)](https://www.youtube.com/watch?v=2hanjM_IenU)
-- [Paul Simon - Gumboots (Official Audio)](https://www.youtube.com/watch?v=L-AQTtXUxYU)
-- [Diamonds on the Soles of Her Shoes](https://www.youtube.com/watch?v=FAb2Mu0CRk4)
-- [Paul Simon - Under African Skies (Official Audio)](https://www.youtube.com/watch?v=YcD8b5vJQzc)
-- [Homeless](https://www.youtube.com/watch?v=Cb04PK_oTlM)
-- [Paul Simon - Crazy Love, Vol. II (Official Audio)](https://www.youtube.com/watch?v=GbaDwh7xeJE)
-- [That Was Your Mother](https://www.youtube.com/watch?v=Zdh33WaDVO8)
-- [All Around the World or the Myth of Fingerprints](https://www.youtube.com/watch?v=auO9FBkR9_s)
-- [Paul Simon - Homeless (Demo) (Official Audio)](https://www.youtube.com/watch?v=hs5_vbasgzg)
-- [Diamonds on the Soles of Her Shoes (Alternate Unreleased Version - Official Audio)](https://www.youtube.com/watch?v=ZrFad-viWqY)
-- [All Around the World or the Myth of Fingerprints (Early Version) (Early Version - Offic...](https://www.youtube.com/watch?v=4KygdhHI_eE)
-- [Paul Simon - You Can Call Me Al (Demo - Official Audio)](https://www.youtube.com/watch?v=SHWfhB1OenY)
-- [Paul Simon - Crazy Love (Demo - Official Audio)](https://www.youtube.com/watch?v=LfG5lOsE5fE)
-- [The Story of Graceland as Told by Paul Simon](https://www.youtube.com/watch?v=ZHaGhF_vhjk)
+{{< youtube id="l78j_NnB4FY" title="Paul Simon - Graceland Full Album" >}}
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2012 |
 | Discogs Link   | [Paul Simon - Graceland](https://www.discogs.com/release/3673709-Paul-Simon-Graceland) |
-| Label          | Legacy, Sony Music |
-| Format         | LP, Album, RE |
+| Label          | Legacy |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 88691914721 |
 
-Made in EU. Comes with mp3 download and poster. 
+Made in EU.
+Comes with mp3 download and poster.
+

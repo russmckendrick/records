@@ -2,7 +2,7 @@
 title: "The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
 artist: "The Beach Boys"
 album_name: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
-date: 2022-09-04
+date: 2022-09-04T03:41:11.000000Z
 release_id: "20015524"
 slug: "feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Sunflower - Original Album
 2. Slip On Through (2:19)
@@ -54,13 +55,18 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 38. 'Til I Die (A Capella) (2:11)
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)](https://www.discogs.com/release/20015524-The-Beach-Boys-Feel-Flows-The-Sunflower-Surfs-Up-Sessions-1969-1971) |
-| Label          | Capitol Records, Brother Records, Universal Music Group |
-| Format         | Comp + LP, Album, Comp, RE + LP, Album, Comp, RE |
+| Label          | Capitol Records |
+| Format         | All Media Compilation, Vinyl LP Album Compilation Reissue Stereo, Vinyl LP Album Compilation Reissue Stereo |
 | Catalog Number | 00602508802102 |
 
-Made in the EU.  Gatefold sleeve including 4-page booklet 
+Made in the EU.
+
+Gatefold sleeve including 4-page booklet
+

@@ -2,7 +2,7 @@
 title: "Pink Floyd - Meddle"
 artist: "Pink Floyd"
 album_name: "Meddle"
-date: 2016-09-23
+date: 2016-09-23T16:51:31.000000Z
 release_id: "9063908"
 slug: "meddle-9063908"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 ---
+
 ## Tracklisting
 1. One Of These Days
 2. A Pillow Of Winds
@@ -20,8 +21,11 @@ styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 4. San Tropez
 5. Seamus
 6. Echoes
+
+
 ## Spotify
 {{< spotify type="album" id="468ZwCchVtzEbt9BHmXopb" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -29,8 +33,24 @@ styles: ["Psychedelic Rock", "Prog Rock", "Ethereal"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Pink Floyd - Meddle](https://www.discogs.com/release/9063908-Pink-Floyd-Meddle) |
-| Label          | Pink Floyd Records, Pink Floyd Records |
-| Format         | LP, Album, RE, RM, 180 |
-| Catalog Number | PFRLP6, 0190295997076 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Gatefold) |
+| Catalog Number | PFRLP6 |
 
-℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.  Hype sticker: The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1971 Made and printed in the E.U. www.pinkfloyd.com  Fully textured sleeve. "Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II). Track durations are not given on this release.  The US release can be found [here](http://www.discogs.com/release/9092521)  Runouts are etched: "16909 1A" and "16909 1B" are stamped.
+℗ 2016 Pink Floyd Music Ltd.
+© 2016 Pink Floyd Music Ltd.
+
+Hype sticker:
+The stereo remastered album on heavyweight 180ɢ vinyl
+Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN
+Original UK release date: November 1971
+Made and printed in the E.U.
+www.pinkfloyd.com
+
+Fully textured sleeve.
+"Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II).
+Track durations are not given on this release.
+
+The US release can be found [url=http://www.discogs.com/release/9092521]here[/url]
+
+Runouts are etched: "16909 1A" and "16909 1B" are stamped.

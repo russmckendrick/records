@@ -2,7 +2,7 @@
 title: "Sly & The Family Stone - Woodstock Sunday August 17, 1969"
 artist: "Sly & The Family Stone"
 album_name: "Woodstock Sunday August 17, 1969"
-date: 2019-07-26
+date: 2019-07-26T17:47:03.000000Z
 release_id: "13496948"
 slug: "woodstock-sunday-august-17-1969-13496948"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Woodstock Sunday August 17, 1969 by Sly & The Family Stone"
     caption: "Woodstock Sunday August 17, 1969 by Sly & The Family Stone"
 genres: ["Funk / Soul"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. M'Lady (7:46)
 2. Sing A Simple Song (5:14)
@@ -23,8 +24,11 @@ styles: null
 7.  I Want To Take You Higher (6:43)
 8. Love City (6:04)
 9. Stand! (3:20)
+
+
 ## Spotify
 {{< spotify type="album" id="0iNGQ0jChQG1tuigTqv7jJ" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -32,8 +36,14 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Sly & The Family Stone - Woodstock Sunday August 17, 1969](https://www.discogs.com/release/13496948-Sly-The-Family-Stone-Woodstock-Sunday-August-17-1969) |
-| Label          | Epic, Legacy |
-| Format         | LP + LP, S/Sided, Etch + Album, RSD, RE |
+| Label          | Epic |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Reissue |
 | Catalog Number | 19075921541 |
 
-Single wide spine sleeve includes an insert and a download-card  Side D etched with Sly & The Family Stone logo  Label rim text: "© 2009, 2019 Epic Records, a division of Sony Music Entertainment / Compilation ℗ Epic Records, a division of Sony Music Entertainment / EPIC is the exclusive trademark of Sony Music Entertainment / All trademarks and logos are protected. / All Rights Reserved. / Made in the EU. / BIEM/GEMA / LC00199  Runouts are hand-etched up to the MPO logo, which together with the subsequent numbers is laser etched.
+Single wide spine sleeve includes an insert and a download-card
+
+Side D etched with Sly & The Family Stone logo
+
+Label rim text: "© 2009, 2019 Epic Records, a division of Sony Music Entertainment / Compilation ℗ Epic Records, a division of Sony Music Entertainment / EPIC is the exclusive trademark of Sony Music Entertainment / All trademarks and logos are protected. / All Rights Reserved. / Made in the EU. / BIEM/GEMA / LC00199
+
+Runouts are hand-etched up to the MPO logo, which together with the subsequent numbers is laser etched.

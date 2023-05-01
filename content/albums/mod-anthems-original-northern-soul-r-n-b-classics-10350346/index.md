@@ -2,7 +2,7 @@
 title: "Various - Mod Anthems: Original Northern Soul & R'N'B Classics"
 artist: "Various"
 album_name: "Mod Anthems: Original Northern Soul & R'N'B Classics"
-date: 2017-05-27
+date: 2017-05-27T15:28:51.000000Z
 release_id: "10350346"
 slug: "mod-anthems-original-northern-soul-r-n-b-classics-10350346"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Mod", "Soul", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Green Onions
 2. In The Midnight Hour
@@ -41,6 +42,9 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 25. Some Kind Of Wonderful
 26. Somebody (Somewhere) Needs Me
 27. Kiss My Love Goodbye
+
+
+
 
 ## Videos
 {{< youtube id="kasWTpTQ1k4" title="Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]" >}}
@@ -76,8 +80,10 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Mod Anthems: Original Northern Soul & R'N'B Classics](https://www.discogs.com/release/10350346-Various-Mod-Anthems-Original-Northern-Soul-RNB-Classics) |
-| Label          | Rhino Records, Stateside |
-| Format         | 2xLP, Comp |
+| Label          | Rhino Records (2) |
+| Format         | Vinyl 2× LP Compilation |
 | Catalog Number | 0190295831783 |
 
-Manufactured in the E.U. Mastered by Alchemy Design: Jaffa@The-Unknown.Co.Uk
+Manufactured in the E.U.
+Mastered by Alchemy
+Design: Jaffa@The-Unknown.Co.Uk

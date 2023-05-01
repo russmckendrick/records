@@ -2,7 +2,7 @@
 title: "Matt Berry - The Small Hours"
 artist: "Matt Berry"
 album_name: "The Small Hours"
-date: 2016-09-27
+date: 2016-09-27T16:15:26.000000Z
 release_id: "9112372"
 slug: "the-small-hours-9112372"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Small Hours by Matt Berry"
     caption: "The Small Hours by Matt Berry"
 genres: ["Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Intro (0:20)
 2. One By One (3:06)
@@ -26,8 +27,9 @@ styles: null
 10. Obsessed And So Obscure (3:46)
 11. Wounded Heart (2:22)
 12. Small Hours (3:05)
-## Spotify
-{{< spotify type="album" id="0Speq9if2MPsXv9S7HmUTC" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="D6eKamGyuMQ" title="Matt Berry - Obsessed and So Obscure" >}}
@@ -41,7 +43,17 @@ styles: null
 | Release Year   | 2016 |
 | Discogs Link   | [Matt Berry - The Small Hours](https://www.discogs.com/release/9112372-Matt-Berry-The-Small-Hours) |
 | Label          | Acid Jazz |
-| Format         | LP, Album, Ltd, Gre |
+| Format         | Vinyl LP Album Limited Edition (Green, 180g) |
 | Catalog Number | AJXLP404 |
 
-Pressed on 180g "opaque forest green" vinyl. Gatefold sleeve. Download code on a sticker on the inner die-cut white paper sleeve.  Limited edition of 500 copies. Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.  Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.  Track durations on the sleeve are incorrect. (Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch)
+Pressed on 180g "opaque forest green" vinyl.
+Gatefold sleeve.
+Download code on a sticker on the inner die-cut white paper sleeve.
+
+Limited edition of 500 copies.
+Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.
+
+Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.
+
+Track durations on the sleeve are incorrect.
+(Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch)

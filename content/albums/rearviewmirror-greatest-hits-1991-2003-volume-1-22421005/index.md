@@ -2,7 +2,7 @@
 title: "Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 1)"
 artist: "Pearl Jam"
 album_name: "Rearviewmirror (Greatest Hits 1991-2003: Volume 1)"
-date: 2022-03-19
+date: 2022-03-19T05:54:49.000000Z
 release_id: "22421005"
 slug: "rearviewmirror-greatest-hits-1991-2003-volume-1-22421005"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Once (2004 Mix)
 2. Alive (2004 Mix)
@@ -31,6 +32,9 @@ styles: ["Alternative Rock", "Grunge"]
 15. Do The Evolution
 16. Save You
 
+
+
+
 ## Videos
 {{< youtube id="1z5XWZ5yzgU" title="Pearl Jam - Greatest Hits - The Up Side - HD Audio" >}}
 - [Once (2004 Remix)](https://www.youtube.com/watch?v=PEEsRBkipnc)
@@ -41,8 +45,14 @@ styles: ["Alternative Rock", "Grunge"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 1)](https://www.discogs.com/release/22421005-Pearl-Jam-Rearviewmirror-Greatest-Hits-1991-2003-Volume-1) |
-| Label          | Epic, Legacy, Sony Music |
-| Format         | 2xLP, Comp, RE, Gat |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Compilation Reissue (Gatefold Sleeve) |
 | Catalog Number | 19439895051 |
 
-℗ 2003 Pearl Jam / This compilation (2004) Epic Records & © 2004, 2022 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. PO Box 510, 33311 Gütersloh, Germany. (...) Made in the EU. LC00199 / 19439895051  This submission contains [r=378611]'s first four sides. Please refer to [r=22421110] which includes the last four sides. Gatefold jacket with two full printed inner sleeves with credits and photos. White sticker on the shrink wrap on front cover: "Pearl Jam rearviewmirror greatest hits 1991-2003: Volume 1". Barcode is on a separate sticker on the shrink wrap only, on back cover. Made in the EU (on back cover and labels).
+℗ 2003 Pearl Jam / This compilation (2004) Epic Records & © 2004, 2022 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. PO Box 510, 33311 Gütersloh, Germany. (...) Made in the EU. LC00199 / 19439895051
+
+This submission contains [r=378611]'s first four sides. Please refer to [r=22421110] which includes the last four sides.
+Gatefold jacket with two full printed inner sleeves with credits and photos.
+White sticker on the shrink wrap on front cover: "Pearl Jam rearviewmirror greatest hits 1991-2003: Volume 1".
+Barcode is on a separate sticker on the shrink wrap only, on back cover.
+Made in the EU (on back cover and labels).

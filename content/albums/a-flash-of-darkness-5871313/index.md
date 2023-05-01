@@ -2,7 +2,7 @@
 title: "Mark Morriss - A Flash Of Darkness"
 artist: "Mark Morriss"
 album_name: "A Flash Of Darkness"
-date: 2022-03-02
+date: 2022-03-02T05:09:53.000000Z
 release_id: "5871313"
 slug: "a-flash-of-darkness-5871313"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. A Flash Of Darkness (3:15)
 2. Consuela (4:05)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. Space Cadet (3:41)
 10. Nightcall (5:00)
 11. Sleep Song (5:16)
+
+
 ## Spotify
 {{< spotify type="album" id="2wh6H4zhQGXVQwYPftdL7U" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="aSwZUI8ETZ8" title="A Flash of Darkness" >}}
@@ -38,7 +43,12 @@ styles: ["Alternative Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Mark Morriss - A Flash Of Darkness](https://www.discogs.com/release/5871313-Mark-Morriss-A-Flash-Of-Darkness) |
 | Label          | Acid Jazz |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | AJXLP346 |
 
-Black vinyl 12" LP.  Record in white paper sleeve + colour 12"x12" info insert.  Download card included to redeem all tracks as mp3's. 
+Black vinyl 12" LP.
+
+Record in white paper sleeve + colour 12"x12" info insert.
+
+Download card included to redeem all tracks as mp3's.
+

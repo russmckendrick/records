@@ -2,7 +2,7 @@
 title: "Gary Numan - Telekon"
 artist: "Gary Numan"
 album_name: "Telekon"
-date: 2016-12-15
+date: 2016-12-15T19:37:07.000000Z
 release_id: "7788320"
 slug: "telekon-7788320"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. This Wreckage
 2. The Aircrash Bureau
@@ -32,11 +33,15 @@ styles: ["New Wave", "Synth-pop"]
 16. Photograph
 17. Remind Me To Smile (USA Mix)
 18. I Die: You Die (Alternate Mix)
+
+
 ## Spotify
 {{< spotify type="album" id="2McSfMOhsYBkGNA47IjtnG" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="SN4qKiwUtRI" title="Gary Numan 'This Wreckage' TOTP (1980)" >}}
+{{< youtube id="m9uvIqIUq4U" title="Gary Numan - This Wreckage" >}}
 - [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
 - [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
 - [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
@@ -53,7 +58,7 @@ styles: ["New Wave", "Synth-pop"]
 | Release Year   | 2015 |
 | Discogs Link   | [Gary Numan - Telekon](https://www.discogs.com/release/7788320-Gary-Numan-Telekon) |
 | Label          | Beggars Banquet |
-| Format         | 2xLP, Album, RE, Gat |
+| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Catalog Number | BBQLP19 |
 
 'We Are Glass' and 'I Die:You Die' were issued as singles but not included on the original vinyl release of the album (they did appear on the original UK cassette release). 'A Game Called Echo' was recorded at Rock City as part of the early album sessions and first relesed in 1985 on a retrospective 12''. 'Down In The Park (Piano Version)' was the B side of 'I Die:You Die'. 'Photograph' (B side of 'This Wreckage' single) and 'Trois Gymnopédies' (B side of 'We Are Glass') were tracks from 'Freerange' demo sessions for 'The Pleasure Principle' album and recorded between 9-12 April 1979.

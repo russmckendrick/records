@@ -2,7 +2,7 @@
 title: "Madness - Wonderful"
 artist: "Madness"
 album_name: "Wonderful"
-date: 2022-09-04
+date: 2022-09-04T03:40:41.000000Z
 release_id: "23052995"
 slug: "wonderful-23052995"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ska"]
 ---
+
 ## Tracklisting
 1. Lovestruck
 2. Johnny The Horse
@@ -25,8 +26,12 @@ styles: ["Pop Rock", "Ska"]
 9. Saturday Night, Sunday Morning
 10. If I Didn't Care
 11. No Money
+
+
 ## Spotify
 {{< spotify type="album" id="67pqJ3vJIIpBu4YJ4mgqH3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="FiThjLcB1Qk" title="Madness - Lovestruck" >}}
@@ -48,8 +53,21 @@ styles: ["Pop Rock", "Ska"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Madness - Wonderful](https://www.discogs.com/release/23052995-Madness-Wonderful) |
-| Label          | Union Square Music, BMG |
-| Format         | LP, Album, RE |
+| Label          | Union Square Music |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | SALVOLP14 |
 
-Hype sticker reads:-  HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL Includes NEW LINER NOTES FROM LEE THOMPSON CHRIS FOREMAN MARK BEDFORD CATAHAL SMYTH & WOODY WOODGATE Featuring classic tracks Drip Fed Fred • Lovestruck Johnny The Horse SALVOLP14
+Hype sticker reads:-
+
+HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL
+Includes
+NEW LINER NOTES
+FROM LEE THOMPSON
+CHRIS FOREMAN
+MARK BEDFORD
+CATAHAL SMYTH &
+WOODY WOODGATE
+Featuring classic tracks
+Drip Fed Fred • Lovestruck
+Johnny The Horse
+SALVOLP14

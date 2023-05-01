@@ -1,18 +1,19 @@
 ---
-title: "The Grid / Robert Fripp - Leviathan"
-artist: "The Grid / Robert Fripp"
+title: "The Grid - Leviathan"
+artist: "The Grid"
 album_name: "Leviathan"
-date: 2021-12-15
+date: 2021-12-15T10:53:58.000000Z
 release_id: "19464730"
 slug: "leviathan-19464730"
 hideSummary: true
 cover:
     image: "leviathan-19464730.jpg"
-    alt: "Leviathan by The Grid / Robert Fripp"
-    caption: "Leviathan by The Grid / Robert Fripp"
+    alt: "Leviathan by The Grid"
+    caption: "Leviathan by The Grid"
 genres: ["Electronic", "Rock"]
 styles: ["Ambient", "Drone", "Deep Techno"]
 ---
+
 ## Tracklisting
 1. Empire
 2. Milkwood
@@ -23,6 +24,12 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 7. Fire Tower
 8. Zhora
 9. Sympatico
+
+
+## Spotify
+{{< spotify type="album" id="0mpRmEprjK1aIkyU6gCzll" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pR9Ig8JhffE" title="The Grid / Fripp - Empire" >}}
@@ -39,9 +46,13 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
-| Discogs Link   | [The Grid / Robert Fripp - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |
-| Label          | Discipline Global Mobile, Panegyric |
-| Format         | 2xLP, Album, 200 |
+| Discogs Link   | [The Grid - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |
+| Label          | Discipline Global Mobile |
+| Format         | Vinyl 2× LP Album (200g) |
 | Catalog Number | DGMLPX102 |
 
-Gatefold sleeve    
+Gatefold sleeve
+
+
+
+

@@ -2,7 +2,7 @@
 title: "Various - Doing It For The Kids"
 artist: "Various"
 album_name: "Doing It For The Kids"
-date: 2016-11-16
+date: 2016-11-16T13:03:18.000000Z
 release_id: "547494"
 slug: "doing-it-for-the-kids-547494"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Cut Me Deep (3:28)
 2. Ballad Of The Band (2:53)
@@ -29,6 +30,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. A Complete History Of Sexual Jealousy (Parts 17-24) (5:31)
 14. Reflect On Rye (2:12)
 15. Brighter Now (2:39)
+
+
+
 
 ## Videos
 {{< youtube id="4wi2bi9-ZUI" title="Primal Scream - All Fall Down" >}}
@@ -54,7 +58,29 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 1988 |
 | Discogs Link   | [Various - Doing It For The Kids](https://www.discogs.com/release/547494-Various-Doing-It-For-The-Kids) |
 | Label          | Creation Records |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | CRELP 037 |
 
-Sticker on front: "CRELP 037 'Doing It For The Kids' A 15 track compilation LP for the price of a 7" single. From Creation"  Top right corner of front sleeve has "CRELP 037 An L.P. for the price of a 7" single" printed in dark blue/grey.    This compilation ℗ and © 1988 Creation Records.  A1, A2, A4, A6, B2, B6, B8 published by Complete Music A3, A5, B1, B3 to B5, B7 unpublished A7 published by Rough Trade Music Ltd.  "This is a label of love.." - Alan McGee. August, '88.  An Alan McGee/Richard Green Extravaganza.  A Creation Records Product.  Manufactured and Distributed by the Cartel.  Made in England.    Distributed in Germany by Rough Trade Distribution (sticker on back cover) 
+Sticker on front: "CRELP 037 'Doing It For The Kids' A 15 track compilation LP for the price of a 7" single. From Creation"
+
+Top right corner of front sleeve has "CRELP 037 An L.P. for the price of a 7" single" printed in dark blue/grey.
+  
+This compilation ℗ and © 1988 Creation Records.
+
+A1, A2, A4, A6, B2, B6, B8 published by Complete Music
+A3, A5, B1, B3 to B5, B7 unpublished
+A7 published by Rough Trade Music Ltd.
+
+"This is a label of love.."
+- Alan McGee. August, '88.
+
+An Alan McGee/Richard Green Extravaganza.
+
+A Creation Records Product.
+
+Manufactured and Distributed by the Cartel.
+
+Made in England.
+  
+Distributed in Germany by Rough Trade Distribution (sticker on back cover)
+

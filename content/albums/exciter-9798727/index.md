@@ -2,7 +2,7 @@
 title: "Depeche Mode - Exciter"
 artist: "Depeche Mode"
 album_name: "Exciter"
-date: 2017-02-10
+date: 2017-02-10T17:47:25.000000Z
 release_id: "9798727"
 slug: "exciter-9798727"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Dream On
 2. Shine
@@ -27,8 +28,12 @@ styles: ["Leftfield", "Downtempo", "Synth-pop"]
 11. Easy Tiger
 12. I Am You
 13. Goodnight Lovers
+
+
 ## Spotify
 {{< spotify type="album" id="5xLWMLXJBEnmw5SEpvjpTp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="LaW5EVp_EFI" title="Freelove" >}}
@@ -43,8 +48,23 @@ styles: ["Leftfield", "Downtempo", "Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Depeche Mode - Exciter](https://www.discogs.com/release/9798727-Depeche-Mode-Exciter) |
-| Label          | Sony Music, Mute |
-| Format         | 2xLP, Album, RE |
-| Catalog Number | 88985336931, STUMM190 |
+| Label          | Sony Music |
+| Format         | Vinyl 2× LP Album Reissue |
+| Catalog Number | 88985336931 |
 
-℗ 2001 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2001, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 88985336931  Gatefold sleeve. 180 gram.
+℗ 2001 Venusnote Ltd. under
+exclusive license to Sony Music
+Entertainment International
+Ltd. © 2001, 2016 Venusnote Ltd.
+under exclusive license to Sony Music
+Entertainment International Ltd.
+Distributed by Sony Music
+Entertainment. / All trademarks and
+logos are protected. / Made
+in the EU. / Sony Music
+Entertainment International
+Services GmbH, PO Box 510, 33311
+Gütersloh, Germany. / LC 05834
+88985336931
+
+Gatefold sleeve. 180 gram.

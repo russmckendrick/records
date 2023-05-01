@@ -2,7 +2,7 @@
 title: "Cheech & Chong - Get Out Of My Room"
 artist: "Cheech & Chong"
 album_name: "Get Out Of My Room"
-date: 2020-08-02
+date: 2020-08-02T13:39:16.000000Z
 release_id: "968986"
 slug: "get-out-of-my-room-968986"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Non-Music"]
 styles: ["Acoustic", "Comedy"]
 ---
+
 ## Tracklisting
 1. Born In East L.A. (4:51)
 2. Dorm Radio I (2:40)
@@ -28,8 +29,12 @@ styles: ["Acoustic", "Comedy"]
 12. Juan Coyote (1:19)
 13. Radio News (3:34)
 14. Get Out Of My Room (4:04)
+
+
 ## Spotify
 {{< spotify type="album" id="6uUpFFTnVIHJGYJAWsv5qt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_TK2pzRRfQ8" title="Cheech and Chong - Love is Strange" >}}
@@ -42,8 +47,11 @@ styles: ["Acoustic", "Comedy"]
 | ---------------| ----------- |
 | Release Year   | 1985 |
 | Discogs Link   | [Cheech & Chong - Get Out Of My Room](https://www.discogs.com/release/968986-Cheech-Chong-Get-Out-Of-My-Room) |
-| Label          | MCA Records, MCA Records |
-| Format         | LP, Album |
-| Catalog Number | MCA 5640, MCA-5640 |
+| Label          | MCA Records |
+| Format         | Vinyl LP Album |
+| Catalog Number | MCA 5640 |
 
-Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu. Mixed At Ocean Way. Mastered At Bernie Grundman Mastering. 
+Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu.
+Mixed At Ocean Way.
+Mastered At Bernie Grundman Mastering.
+

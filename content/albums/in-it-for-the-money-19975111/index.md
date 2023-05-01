@@ -2,7 +2,7 @@
 title: "Supergrass - In It For The Money"
 artist: "Supergrass"
 album_name: "In It For The Money"
-date: 2021-08-28
+date: 2021-08-28T01:39:12.000000Z
 release_id: "19975111"
 slug: "in-it-for-the-money-19975111"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. In It For The Money
 2. Richard III
@@ -28,8 +29,12 @@ styles: ["Britpop", "Indie Rock"]
 12. Sometimes I Make You Sad
 13. The Animal
 14. BRA Sun Hits The Sky mix
+
+
 ## Spotify
 {{< spotify type="album" id="67qnhGyaN6Z0PYJMEePzjW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="UnXrrOxzZCE" title="Supergrass - Richard III (Official HD Video)" >}}
@@ -45,8 +50,17 @@ styles: ["Britpop", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Supergrass - In It For The Money](https://www.discogs.com/release/19975111-Supergrass-In-It-For-The-Money) |
-| Label          | BMG, Echo, BMG, Echo, BMG, Echo |
-| Format         | LP, Album, RE, RM, Tur + 12\", Single, Whi + Ltd, T |
-| Catalog Number | BMGCAT506CLP, 4050538672909, 4050538685411 |
+| Label          | BMG |
+| Format         | Vinyl LP Album Reissue Remastered (Turquoise), Vinyl 12" Single (White), All Media Limited Edition (Textured Sleeve) |
+| Catalog Number | BMGCAT506CLP |
 
-Remastered From Original Analogue Tapes Limited Edition 140g Turquoise Vinyl  Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal' Textured Sleeve Manufactured in Poland  There are three catalog numbers on this release: BMGCAT506CLP appears on the outer sleeve 4050538672909 appears on the LP 4050538685411 appears on the 12" single
+Remastered From Original Analogue Tapes
+Limited Edition 140g Turquoise Vinyl 
+Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal'
+Textured Sleeve
+Manufactured in Poland
+
+There are three catalog numbers on this release:
+BMGCAT506CLP appears on the outer sleeve
+4050538672909 appears on the LP
+4050538685411 appears on the 12" single

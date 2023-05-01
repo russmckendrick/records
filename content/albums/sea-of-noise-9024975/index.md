@@ -2,7 +2,7 @@
 title: "St. Paul & The Broken Bones - Sea Of Noise"
 artist: "St. Paul & The Broken Bones"
 album_name: "Sea Of Noise"
-date: 2016-10-06
+date: 2016-10-06T16:52:35.000000Z
 release_id: "9024975"
 slug: "sea-of-noise-9024975"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. Crumbling Light Posts Pt. 1 (1:31)
 2. Flow With It (You Got Me Feeling Like) (3:17)
@@ -27,8 +28,12 @@ styles: ["Rhythm & Blues", "Soul"]
 11. Tears In The Diamond (3:46)
 12. Is It Me (2:13)
 13. Crumbling Light Posts Pt. 3 (0:56)
+
+
 ## Spotify
 {{< spotify type="album" id="2fRc3TJSXKXGFdnmcm17p2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_XqQsKxiKT0" title="St Paul & The Broken Bones  -  Sanctify" >}}
@@ -43,7 +48,7 @@ styles: ["Rhythm & Blues", "Soul"]
 | Release Year   | 2016 |
 | Discogs Link   | [St. Paul & The Broken Bones - Sea Of Noise](https://www.discogs.com/release/9024975-St-Paul-The-Broken-Bones-Sea-Of-Noise) |
 | Label          | RECORDS Label, LLC |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | REC006 |
 
 Pre-order included option for signed copy

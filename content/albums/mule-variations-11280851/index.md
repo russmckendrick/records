@@ -2,7 +2,7 @@
 title: "Tom Waits - Mule Variations"
 artist: "Tom Waits"
 album_name: "Mule Variations"
-date: 2017-12-15
+date: 2017-12-15T15:21:35.000000Z
 release_id: "11280851"
 slug: "mule-variations-11280851"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Art Rock"]
 ---
+
 ## Tracklisting
 1. Big In Japan (4:05)
 2. Lowside Of The Road (2:59)
@@ -30,8 +31,12 @@ styles: ["Abstract", "Art Rock"]
 14. Filipino Box Spring Hog (3:09)
 15. Take It With Me (4:24)
 16. Come On Up To The House (4:36)
+
+
 ## Spotify
 {{< spotify type="album" id="7cAcex6xw4fP67ltgn1gm3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="c_OkcVLBB9A" title="Tom Waits - Mule Variations - full album" >}}
@@ -54,7 +59,18 @@ styles: ["Abstract", "Art Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Tom Waits - Mule Variations](https://www.discogs.com/release/11280851-Tom-Waits-Mule-Variations) |
 | Label          | Anti- |
-| Format         | 2xLP, Album, RE, RM, 180 |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
 | Catalog Number | 6547-3 |
 
-Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler. Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.  All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.  Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records  John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.  Marc Ribot appears courtesy of Atlantic Recording Corporation  © 1999 Jalma Music (ASCAP)
+Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler.
+Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.
+
+All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.
+
+Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records
+
+John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.
+
+Marc Ribot appears courtesy of Atlantic Recording Corporation
+
+© 1999 Jalma Music (ASCAP)

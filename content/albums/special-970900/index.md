@@ -2,7 +2,7 @@
 title: "Jimmy Cliff - Special"
 artist: "Jimmy Cliff"
 album_name: "Special"
-date: 2020-08-02
+date: 2020-08-02T13:46:01.000000Z
 release_id: "970900"
 slug: "special-970900"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Reggae"]
 styles: ["Reggae"]
 ---
+
 ## Tracklisting
 1. Special (3:51)
 2. Love Is All (4:19)
@@ -25,8 +26,12 @@ styles: ["Reggae"]
 9. Originator (4:56)
 10. Rock Children (4:00)
 11. Where There Is Love (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="7DThjcUUrZYmpcELciIu2w" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7t_56xBaLwY" title="Special" >}}
@@ -46,8 +51,11 @@ styles: ["Reggae"]
 | ---------------| ----------- |
 | Release Year   | 1982 |
 | Discogs Link   | [Jimmy Cliff - Special](https://www.discogs.com/release/970900-Jimmy-Cliff-Special) |
-| Label          | CBS, CBS |
-| Format         | LP, Album |
-| Catalog Number | CX 85878, FC 38099 |
+| Label          | CBS |
+| Format         | Vinyl LP Album |
+| Catalog Number | CX 85878 |
 
-℗ 1982 CBS Inc./© 1982 CBS Inc. Made & Printed in Holland Printed inner sleeve with lyrics. CX Encoded Recording
+℗ 1982 CBS Inc./© 1982 CBS Inc.
+Made & Printed in Holland
+Printed inner sleeve with lyrics.
+CX Encoded Recording

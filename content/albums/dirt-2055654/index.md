@@ -2,7 +2,7 @@
 title: "Alice In Chains - Dirt"
 artist: "Alice In Chains"
 album_name: "Dirt"
-date: 2019-09-01
+date: 2019-09-01T09:47:37.000000Z
 release_id: "2055654"
 slug: "dirt-2055654"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Metal", "Alternative Rock", "Hard Rock", "Grunge"]
 ---
+
 ## Tracklisting
 1. Them Bones (2:29)
 2. Dam That River (3:09)
@@ -27,8 +28,12 @@ styles: ["Alternative Metal", "Alternative Rock", "Hard Rock", "Grunge"]
 11. Hate To Feel (5:16)
 12. Angry Chair (4:47)
 13. Would? (3:28)
+
+
 ## Spotify
 {{< spotify type="album" id="58NXIEYqmq5dQHg9nV9duM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="uAE6Il6OTcs" title="Alice In Chains - Rooster (Official HD Video)" >}}
@@ -47,8 +52,32 @@ styles: ["Alternative Metal", "Alternative Rock", "Hard Rock", "Grunge"]
 | ---------------| ----------- |
 | Release Year   | 2009 |
 | Discogs Link   | [Alice In Chains - Dirt](https://www.discogs.com/release/2055654-Alice-In-Chains-Dirt) |
-| Label          | Columbia, Music On Vinyl |
-| Format         | LP, Album, RE, RM, 180 |
+| Label          | Columbia |
+| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Catalog Number | MOVLP037 |
 
-Sticker on shrink wrap reads: "Music On Vinyl  Classic Album  180 gram audiophile vinyl pressing www.musiconvinyl.com"  Different tracklisting than the original release. On original release "Down In A Hole" was the second-to-last track, some later reprints move it to track 4 instead. This vinyl version moves it to track 4, which also means the Side B opener ("Dirt") is instead track B2 and the Side A closer ("Junkhead") is the new Side B opener.  B4 is not listed on the jacket or label.  Includes a printed inner sleeve with lyrics & credits.  [a=Tom Araya] appears courtesy of [l=Def American Records].  Produced at One on One and Eldorado, 1992.  Mixed at Eldorado.  Mastered at Future Disc, Hollywood, CA.  Originally released ℗ & © 1992 Sony Music Entertainment This release ℗ & © 2009, Sony Music Entertainment Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU  Lyrics reproduced by kind permission of the publishers. All rights reserved.  © 2001 Sony Music Entertainment Inc. 
+Sticker on shrink wrap reads:
+"Music On Vinyl 
+Classic Album 
+180 gram audiophile vinyl pressing
+www.musiconvinyl.com"
+
+Different tracklisting than the original release. On original release "Down In A Hole" was the second-to-last track, some later reprints move it to track 4 instead. This vinyl version moves it to track 4, which also means the Side B opener ("Dirt") is instead track B2 and the Side A closer ("Junkhead") is the new Side B opener.
+
+B4 is not listed on the jacket or label.
+
+Includes a printed inner sleeve with lyrics & credits.
+
+[a=Tom Araya] appears courtesy of [l=Def American Records].
+
+Produced at One on One and Eldorado, 1992. 
+Mixed at Eldorado. 
+Mastered at Future Disc, Hollywood, CA.
+
+Originally released ℗ & © 1992 Sony Music Entertainment
+This release ℗ & © 2009, Sony Music Entertainment
+Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment.
+Made in the EU
+
+Lyrics reproduced by kind permission of the publishers. All rights reserved. 
+© 2001 Sony Music Entertainment Inc. 

@@ -2,7 +2,7 @@
 title: "Wire - Chairs Missing"
 artist: "Wire"
 album_name: "Chairs Missing"
-date: 2018-12-22
+date: 2018-12-22T10:27:42.000000Z
 release_id: "12193551"
 slug: "chairs-missing-12193551"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
+
 ## Tracklisting
 1. Practice Makes Perfect (4:06)
 2. French Film Blurred (2:35)
@@ -29,8 +30,12 @@ styles: ["New Wave", "Post-Punk"]
 13. From The Nursery (3:00)
 14. Used To (2:21)
 15. Too Late (4:16)
+
+
 ## Spotify
 {{< spotify type="album" id="7tWxaE1as1wy12Yd1De41r" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect (2006 Remastered Version)" >}}
@@ -55,7 +60,15 @@ styles: ["New Wave", "Post-Punk"]
 | Release Year   | 2018 |
 | Discogs Link   | [Wire - Chairs Missing](https://www.discogs.com/release/12193551-Wire-Chairs-Missing) |
 | Label          | Pinkflag |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | PF12LP |
 
-Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Not available on cassette  Printed inner sleeve with lyrics.  Labels read "Side One" on both sides, track listing is correct for each side however.
+Manufactured under licence from The state51 Conspiracy.
+
+℗ & © 2018 pinkflag
+
+Not available on cassette
+
+Printed inner sleeve with lyrics.
+
+Labels read "Side One" on both sides, track listing is correct for each side however.

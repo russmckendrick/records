@@ -2,7 +2,7 @@
 title: "Spacehog - Resident Alien"
 artist: "Spacehog"
 album_name: "Resident Alien"
-date: 2020-09-07
+date: 2020-09-07T09:05:14.000000Z
 release_id: "15815605"
 slug: "resident-alien-15815605"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Punk"]
 ---
+
 ## Tracklisting
 1. In The Meantime (4:58)
 2. Spacehog (2:14)
@@ -28,8 +29,12 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 12. Zeroes (6:38)
 13. To Be A Millionaire...Was It Likely? (13:10)
 14. Untitled (8:10)
+
+
 ## Spotify
 {{< spotify type="album" id="6vOmA5zWeFeKvuRBxaO59A" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="PCsGRCf8T9Y" title="Spacehog - In the Meantime (Official Music Video)" >}}
@@ -48,8 +53,10 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Spacehog - Resident Alien](https://www.discogs.com/release/15815605-Spacehog-Resident-Alien) |
-| Label          | Sire, Hi Fi Recordings, Real Gone Music |
-| Format         | 2xLP, Album, RSD, Ltd, RE, Pin |
-| Catalog Number | 61834-2, RGM-1014 |
+| Label          | Sire |
+| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Pink & Cream Splatter) |
+| Catalog Number | 61834-2 |
 
-Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.  Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.  
+Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.
+
+Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.  

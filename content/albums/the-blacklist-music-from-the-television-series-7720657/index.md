@@ -2,7 +2,7 @@
 title: "Various - The Blacklist (Music From The Television Series)"
 artist: "Various"
 album_name: "The Blacklist (Music From The Television Series)"
-date: 2017-03-02
+date: 2017-03-02T17:34:27.000000Z
 release_id: "7720657"
 slug: "the-blacklist-music-from-the-television-series-7720657"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Blacklist (Music From The Television Series) by Various"
     caption: "The Blacklist (Music From The Television Series) by Various"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Citizens
 2. Welcome Home
@@ -27,6 +28,9 @@ styles: null
 11. Black Eunuch
 12. Run From Me
 
+
+
+
 ## Videos
 {{< youtube id="jv-Tymtpj3o" title="The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING" >}}
 
@@ -35,8 +39,12 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Various - The Blacklist (Music From The Television Series)](https://www.discogs.com/release/7720657-Various-The-Blacklist-Music-From-The-Television-Series) |
-| Label          | Music On Vinyl, Sony Classical |
-| Format         | LP, Comp, Ltd, Num, Red |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Compilation Limited Edition Numbered (Red) |
 | Catalog Number | MOVATM059 |
 
-Limited Edition of 750 Copies Individually numbered Red vinyl Includes 4 page booklet 180 gram audiophile vinyl
+Limited Edition of 750 Copies
+Individually numbered
+Red vinyl
+Includes 4 page booklet
+180 gram audiophile vinyl

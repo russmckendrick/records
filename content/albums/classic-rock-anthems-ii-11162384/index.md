@@ -2,7 +2,7 @@
 title: "Various - Classic Rock Anthems II"
 artist: "Various"
 album_name: "Classic Rock Anthems II"
-date: 2017-12-13
+date: 2017-12-13T17:47:48.000000Z
 release_id: "11162384"
 slug: "classic-rock-anthems-ii-11162384"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Africa
 2. Burning Heart
@@ -36,13 +37,19 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 20. American Woman
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Classic Rock Anthems II](https://www.discogs.com/release/11162384-Various-Classic-Rock-Anthems-II) |
 | Label          | Demon Records |
-| Format         | 2xLP, Comp, 180 |
-| Catalog Number |  DEMRECOMP006 |
+| Format         | Vinyl 2× LP Compilation (180g, Gatefold) |
+| Catalog Number | DEMRECOMP006 |
 
-Vinyl exclusive.  2017 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company
+Vinyl exclusive.
+
+2017 Demon Music Group Ltd.
+Marketed by Demon Music Group Ltd. London, W12 7FA
+The Demon Music Group is a BBC Worldwide Company

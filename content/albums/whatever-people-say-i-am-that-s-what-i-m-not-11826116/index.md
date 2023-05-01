@@ -2,7 +2,7 @@
 title: "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not"
 artist: "Arctic Monkeys"
 album_name: "Whatever People Say I Am, That's What I'm Not"
-date: 2018-04-17
+date: 2018-04-17T18:52:04.000000Z
 release_id: "11826116"
 slug: "whatever-people-say-i-am-that-s-what-i-m-not-11826116"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -27,8 +28,12 @@ styles: ["Indie Rock"]
 11. When The Sun Goes Down
 12. From The Ritz To The Rubble
 13. A Certain Romance
+
+
 ## Spotify
 {{< spotify type="album" id="0ndGMh4twJNzPpr5XtHTR2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pK7egZaT3hs" title="Arctic Monkeys - I Bet You Look Good On The Dancefloor (Official Video)" >}}
@@ -51,7 +56,20 @@ styles: ["Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Arctic Monkeys - Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/release/11826116-Arctic-Monkeys-Whatever-People-Say-I-Am-Thats-What-Im-Not) |
 | Label          | Domino |
-| Format         | LP, Album, Club, RE, Gra |
+| Format         | Vinyl LP Album Club Edition Reissue (Gray Translucent w/ Black Smoke, 180 g) |
 | Catalog Number | WIGLP162VMP |
 
-Sticker: VMP Exclusive Vinyl Edition 1LP 180g Multi-color "Smoke" vinyl 16pg Full-color Lyric & Photo Booklet  Includes a obi strip with a cocktail recipe, and an art print.  ℗ 2006 © 2018 Domino Recording Co. Ltd. PO Box 47029 London, SW18 1WD 20 Jay Street, Suite 626, Brooklyn NY 11201  Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield. 'Mardy Bum' recorded at Telstar Studios, Munich Mixed [...] at Olympic Studios, London [...]
+Sticker:
+VMP Exclusive Vinyl Edition
+1LP 180g Multi-color "Smoke" vinyl
+16pg Full-color Lyric & Photo Booklet
+
+Includes a obi strip with a cocktail recipe, and an art print.
+
+℗ 2006 © 2018 Domino Recording Co. Ltd.
+PO Box 47029 London, SW18 1WD
+20 Jay Street, Suite 626, Brooklyn NY 11201
+
+Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield.
+'Mardy Bum' recorded at Telstar Studios, Munich
+Mixed [...] at Olympic Studios, London [...]

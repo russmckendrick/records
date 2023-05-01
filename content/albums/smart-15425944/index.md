@@ -2,7 +2,7 @@
 title: "Sleeper - Smart"
 artist: "Sleeper"
 album_name: "Smart"
-date: 2020-06-08
+date: 2020-06-08T12:58:31.000000Z
 release_id: "15425944"
 slug: "smart-15425944"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
+
 ## Tracklisting
 1. Inbetweener (3:18)
 2. Swallow (2:41)
@@ -37,8 +38,9 @@ styles: ["Britpop"]
 21. Big Nurse (4:08)
 22. Ha Ha You're Dead (3:31)
 23. Bank (1:26)
-## Spotify
-{{< spotify type="album" id="4b6QlQpazyHULH2nmJTPcT" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="6Vrk-lBoxNA" title="Sleeper - Inbetweener" >}}
@@ -65,7 +67,8 @@ styles: ["Britpop"]
 | Release Year   | 2020 |
 | Discogs Link   | [Sleeper - Smart](https://www.discogs.com/release/15425944-Sleeper-Smart) |
 | Label          | Gorsky Records |
-| Format         | LP, Album, RE + LP, Comp + Ltd, Cle |
+| Format         | Vinyl LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition (Clear) |
 | Catalog Number | SLEEP25LPC |
 
-25th Anniversary Edition. Includes 14 page colour booklet Made in the EU 
+25th Anniversary Edition. Includes 14 page colour booklet
+Made in the EU 

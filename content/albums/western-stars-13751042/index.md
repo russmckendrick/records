@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - Western Stars"
 artist: "Bruce Springsteen"
 album_name: "Western Stars"
-date: 2019-06-15
+date: 2019-06-15T14:28:43.000000Z
 release_id: "13751042"
 slug: "western-stars-13751042"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Hitch Hikin'
 2. The Wayfarer
@@ -27,8 +28,12 @@ styles: ["Pop Rock"]
 11. There Goes My Miracle
 12. Hello Sunshine
 13. Moonlight Motel
+
+
 ## Spotify
 {{< spotify type="album" id="6BhqPpIgY83rqoZ2L78Lte" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tbDKBcPsmoQ" title="Bruce Springsteen - There Goes My Miracle (Lyric Video)" >}}
@@ -49,8 +54,15 @@ styles: ["Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13751042-Bruce-Springsteen-Western-Stars) |
-| Label          | Columbia, Sony Music |
-| Format         | 2xLP, Album |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Album Stereo |
 | Catalog Number | 19075937511 |
 
-© & ℗ 2019 Bruce Springsteen  Gatefold sleeve. Includes printed inner sleeves and Free Digital Download.  Some copies sold in Spain were repackaged to include a promotional slipmat.  Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched. 
+© & ℗ 2019 Bruce Springsteen
+
+Gatefold sleeve.
+Includes printed inner sleeves and Free Digital Download.
+
+Some copies sold in Spain were repackaged to include a promotional slipmat.
+
+Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched. 

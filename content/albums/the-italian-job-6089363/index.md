@@ -2,7 +2,7 @@
 title: "Quincy Jones - The Italian Job"
 artist: "Quincy Jones"
 album_name: "The Italian Job"
-date: 2017-04-02
+date: 2017-04-02T13:01:56.000000Z
 release_id: "6089363"
 slug: "the-italian-job-6089363"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. On Days Like These (3:39)
 2. Something's Cookin' (2:30)
@@ -25,8 +26,12 @@ styles: ["Soundtrack"]
 9. Smell That Gold (1:30)
 10. Greensleeves And All That Jazz (2:05)
 11. Getta Bloomin' Move On! - The Italian Job (Vocal) (4:00)
+
+
 ## Spotify
 {{< spotify type="album" id="3D6klQFLS1FBo29LzHlkZc" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6AW-PaaHS1c" title="Quincy Jones - On Days Like These (The Italian Job)" >}}
@@ -42,7 +47,7 @@ styles: ["Soundtrack"]
 | Release Year   | 2014 |
 | Discogs Link   | [Quincy Jones - The Italian Job](https://www.discogs.com/release/6089363-Quincy-Jones-The-Italian-Job) |
 | Label          | Paramount Records |
-| Format         | LP, RE |
+| Format         | Vinyl LP Reissue |
 | Catalog Number | SPFL 256 |
 
 2014 reissue in flipback sleeve.

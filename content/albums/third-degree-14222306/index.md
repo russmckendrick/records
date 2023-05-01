@@ -2,7 +2,7 @@
 title: "Flying Colors - Third Degree"
 artist: "Flying Colors"
 album_name: "Third Degree"
-date: 2019-10-07
+date: 2019-10-07T18:31:03.000000Z
 release_id: "14222306"
 slug: "third-degree-14222306"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Loss Inside (5:50)
 2. More (7:10)
@@ -23,8 +24,12 @@ styles: ["Prog Rock"]
 7. You Are Not Alone (6:21)
 8. Love Letter (5:10)
 9. Crawl (11:14)
+
+
 ## Spotify
 {{< spotify type="album" id="36tjJmRAztF6E0JOsMgK4o" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="glJ7oKA0vMs" title="The Loss Inside" >}}
@@ -39,8 +44,20 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Flying Colors - Third Degree](https://www.discogs.com/release/14222306-Flying-Colors-Third-Degree) |
-| Label          | Music Theories Recordings, Music Theories Recordings |
-| Format         | 2xLP, Album, Ltd, Blu |
-| Catalog Number | MTR 7596 1-2, MTR75961-3 |
+| Label          | Music Theories Recordings |
+| Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
+| Catalog Number | MTR 7596 1-2 |
 
-Flying Colors Third Degree New album by virtuoso PROG/POP/ROCK band with (former) members of Deep Purple, Dream Theater, The Winery Dogs, Dixie Dregs, Spock's Beard, Alpha Rev & Transatlantic  Limited to 500 copies  Includes: 1 coaster 1 11" x 17" poster  Runouts hand etched, except MPO logo and job number, which are laser etched.
+Flying Colors
+Third Degree
+New album by virtuoso PROG/POP/ROCK band with (former) members of
+Deep Purple, Dream Theater, The Winery Dogs,
+Dixie Dregs, Spock's Beard, Alpha Rev & Transatlantic
+
+Limited to 500 copies
+
+Includes:
+1 coaster
+1 11" x 17" poster
+
+Runouts hand etched, except MPO logo and job number, which are laser etched.

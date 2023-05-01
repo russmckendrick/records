@@ -2,7 +2,7 @@
 title: "Supertramp - Breakfast In America"
 artist: "Supertramp"
 album_name: "Breakfast In America"
-date: 2017-06-08
+date: 2017-06-08T17:53:12.000000Z
 release_id: "5030690"
 slug: "breakfast-in-america-5030690"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
+
 ## Tracklisting
 1. Gone Hollywood (5:20)
 2. The Logical Song (4:11)
@@ -24,14 +25,24 @@ styles: ["Pop Rock"]
 8. Just Another Nervous Wreck (4:25)
 9. Casual Conversations (2:58)
 10. Child Of Vision (7:31)
+
+
 ## Spotify
 {{< spotify type="album" id="1zcm3UvHNHpseYOUfd0pna" width="100%" height="500" >}}
 
+
+
 ## Videos
 {{< youtube id="gD1EkIbIUUc" title="Supertramp - Breakfast In America (Official Video)" >}}
+- [Supertramp - Breakfast In America (HQ)](https://www.youtube.com/watch?v=3YQb-0P320s)
 - [Supertramp - Breakfast In America (Official 4K Video)](https://www.youtube.com/watch?v=aQdoUUi3iJ8)
 - [Supertramp - The Logical Song (Official Video)](https://www.youtube.com/watch?v=k4tdefi0Znc)
+- [S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979](https://www.youtube.com/watch?v=BL3iuizcr0Q)
 - [Supertramp - Goodbye Stranger (Official Video)](https://www.youtube.com/watch?v=VoMwGjwhl5A)
+- [S͟u͟p͟e͟r͟t͟r͟amp͟ ͟B͟r͟e͟a͟k͟f͟a͟s͟t͟ ͟i͟n͟ ͟A͟m͟e͟r͟i͟ca͟ full album 1979 🇬🇧](https://www.youtube.com/watch?v=Co44YRyPeCI)
+- [Goodbye Stranger (2010 Remastered)](https://www.youtube.com/watch?v=u8pVZ5hTGJQ)
+- [The Logical Song](https://www.youtube.com/watch?v=pP8iUyb9Gn8)
+- [Supertramp - Take The Long Way Home (BEST QUALITY SOUND)](https://www.youtube.com/watch?v=LPRrHyXchEY)
 
 ## Notes
 | Notes          |             |
@@ -39,7 +50,10 @@ styles: ["Pop Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [Supertramp - Breakfast In America](https://www.discogs.com/release/5030690-Supertramp-Breakfast-In-America) |
 | Label          | A&M Records |
-| Format         | LP, Album, Pic, RE |
+| Format         | Vinyl LP Album Picture Disc Reissue |
 | Catalog Number | 00600753454589 |
 
-On cover sticker: ℗ & © 2013 A&M Records On picture disc: ℗ & © 2013 A&M Record  Made in the EU
+On cover sticker: ℗ & © 2013 A&M Records
+On picture disc: ℗ & © 2013 A&M Record
+
+Made in the EU

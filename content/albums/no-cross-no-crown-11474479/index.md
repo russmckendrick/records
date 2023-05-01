@@ -2,7 +2,7 @@
 title: "Corrosion Of Conformity - No Cross No Crown"
 artist: "Corrosion Of Conformity"
 album_name: "No Cross No Crown"
-date: 2018-02-10
+date: 2018-02-10T17:26:54.000000Z
 release_id: "11474479"
 slug: "no-cross-no-crown-11474479"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Novus Deus
 2. The Luddite
@@ -29,8 +30,12 @@ styles: ["Stoner Rock", "Heavy Metal"]
 13. No Cross No Crown
 14. A Quest To Believe (A Call To The Void)
 15. Son And Daughter
+
+
 ## Spotify
 {{< spotify type="album" id="2NWnN5Kw3L8wa1KkwjeRNo" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ljxyItzRZm4" title="CORROSION OF CONFORMITY - Cast The First Stone (OFFICIAL TRACK)" >}}
@@ -43,8 +48,6 @@ styles: ["Stoner Rock", "Heavy Metal"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Corrosion Of Conformity - No Cross No Crown](https://www.discogs.com/release/11474479-Corrosion-Of-Conformity-No-Cross-No-Crown) |
-| Label          | Nuclear Blast Entertainment, Nuclear Blast Entertainment |
-| Format         | 2xLP, Album |
-| Catalog Number | NE 4243-1, 27361 42431 |
-
-
+| Label          | Nuclear Blast Entertainment |
+| Format         | Vinyl 2× LP Album |
+| Catalog Number | NE 4243-1 |

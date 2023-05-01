@@ -2,7 +2,7 @@
 title: "The Beta Band - Hot Shots II"
 artist: "The Beta Band"
 album_name: "Hot Shots II"
-date: 2018-11-28
+date: 2018-11-28T09:50:11.000000Z
 release_id: "12843720"
 slug: "hot-shots-ii-12843720"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Squares
 2. Al Sharp
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 8. Alleged
 9. Life
 10. Eclipse
+
+
 ## Spotify
 {{< spotify type="album" id="5ElnMKBlg21XKlqAynLH9x" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="06KiM57Pvu0" title="The Beta Band - Eclipse" >}}
@@ -38,7 +43,14 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Beta Band - Hot Shots II](https://www.discogs.com/release/12843720-The-Beta-Band-Hot-Shots-II) |
 | Label          | Because Music |
-| Format         | LP, Album, Ltd, RE, Gol + LP, Album, Ltd, RE, Sil |
+| Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver) |
 | Catalog Number | BEC5543810 |
 
-Limited edition of 1000 copies.  Recorded and mixed for SRM.  Printed in EU.  With full-colour printed inner sleeves. 
+Limited edition of 1000 copies.
+
+Recorded and mixed for SRM.
+
+Printed in EU.
+
+With full-colour printed inner sleeves.
+

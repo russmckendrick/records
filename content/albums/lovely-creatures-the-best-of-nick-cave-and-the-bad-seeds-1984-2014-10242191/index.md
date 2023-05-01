@@ -2,7 +2,7 @@
 title: "Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
 artist: "Nick Cave & The Bad Seeds"
 album_name: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
-date: 2017-05-05
+date: 2017-05-05T17:26:00.000000Z
 release_id: "10242191"
 slug: "lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ---
+
 ## Tracklisting
 1. Loverman (Single Version) (4:57)
 2. Tupelo (Single Version) (5:12)
@@ -36,6 +37,9 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 20. We No Who U R (4:05)
 21. Stagger Lee (5:14)
 
+
+
+
 ## Videos
 {{< youtube id="oSl4KX7zBTQ" title="Nick Cave & The Bad Seeds - Tupelo" >}}
 - [Nick Cave & The Bad Seeds - The Weeping Song (Official Video)](https://www.youtube.com/watch?v=TqhOVY58zIo)
@@ -48,8 +52,16 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)](https://www.discogs.com/release/10242191-Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014) |
-| Label          | Mute, BMG |
-| Format         | 3xLP, Comp, RM, 180 |
+| Label          | Mute |
+| Format         | Vinyl 3× LP Compilation Remastered (180 g) |
 | Catalog Number | LPSEEDS15 |
 
-Released in a tri-fold sleeve.  Hype sticker on shrink:  3 LP Set  180g  Heavyweight Vinyl  [Another version](https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250) of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve. 
+Released in a tri-fold sleeve.
+
+Hype sticker on shrink: 
+3 LP Set 
+180g 
+Heavyweight Vinyl
+
+[url=https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250]Another version[/url] of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve.
+

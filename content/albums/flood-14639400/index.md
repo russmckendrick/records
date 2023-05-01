@@ -2,7 +2,7 @@
 title: "They Might Be Giants - Flood"
 artist: "They Might Be Giants"
 album_name: "Flood"
-date: 2020-02-17
+date: 2020-02-17T17:54:15.000000Z
 release_id: "14639400"
 slug: "flood-14639400"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Theme From Flood
 2. Birdhouse In Your Soul
@@ -33,8 +34,12 @@ styles: ["Alternative Rock"]
 17. Sapphire Bullets Of Pure Love
 18. They Might Be Giants
 19. Road Movie To Berlin
+
+
 ## Spotify
 {{< spotify type="album" id="7FwAtuhhWivxvK4aPgyyUD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}
@@ -63,8 +68,8 @@ styles: ["Alternative Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [They Might Be Giants - Flood](https://www.discogs.com/release/14639400-They-Might-Be-Giants-Flood) |
-| Label          | Idlewild Recordings, Elektra |
-| Format         | LP, Ltd, Pic, RE, 30t |
+| Label          | Idlewild Recordings |
+| Format         | Vinyl LP Limited Edition Picture Disc Reissue (30th Anniversary Edition) |
 | Catalog Number | IDLE154 |
 
 Picture disc contains 5 zoetrope animations on side B.

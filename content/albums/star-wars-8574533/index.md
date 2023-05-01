@@ -1,18 +1,19 @@
 ---
-title: "John Williams, The London Symphony Orchestra - Star Wars"
-artist: "John Williams, The London Symphony Orchestra"
+title: "John Williams - Star Wars"
+artist: "John Williams"
 album_name: "Star Wars"
-date: 2016-06-20
+date: 2016-06-20T17:48:46.000000Z
 release_id: "8574533"
 slug: "star-wars-8574533"
 hideSummary: true
 cover:
     image: "star-wars-8574533.jpg"
-    alt: "Star Wars by John Williams, The London Symphony Orchestra"
-    caption: "Star Wars by John Williams, The London Symphony Orchestra"
+    alt: "Star Wars by John Williams"
+    caption: "Star Wars by John Williams"
 genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
+
 ## Tracklisting
 1. Main Title (5:20)
 2. Imperial Attack (6:10)
@@ -30,39 +31,33 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 14. The Princess Appears (4:04)
 15. The Last Battle (12:05)
 16. The Throne Room And End Title (5:28)
-## Spotify
-{{< spotify type="album" id="45EFycwtfRhnDPWbc2mClK" width="100%" height="500" >}}
+
+
+
 
 ## Videos
-{{< youtube id="ERSi9dtrqY4" title="STAR WARS (1977) Retrospective / Review" >}}
-- [Main Title (From Star Wars)](https://www.youtube.com/watch?v=Q5tN_k7lt-Q)
-- [Ben's Death and TIE Fighter Attack](https://www.youtube.com/watch?v=ADfAgqrNCsM)
-- [John Williams - Star Wars: Remastering The Score](https://www.youtube.com/watch?v=WSOzvCtaHmg)
-- [Star Wars - A New Hope (1977) Soundtrack - J.O.H.N  W.L.L.I.A.M.S (Full Vinyl Rip)](https://www.youtube.com/watch?v=5HyEXrrihYE)
-- [Star Wars A New Hope Full Soundtrack](https://www.youtube.com/watch?v=sDMPTZ7y1lE)
-- [The Little People Work](https://www.youtube.com/watch?v=j6D73LHayYw)
-- [Rescue of the Princess](https://www.youtube.com/watch?v=lsyxouMfSNY)
-- [Inner City](https://www.youtube.com/watch?v=cZo-K8cgPkE)
-- [Cantina Band](https://www.youtube.com/watch?v=EsvfptdFXf4)
-- [The Land of the Sand People](https://www.youtube.com/watch?v=WyDhshJUoac)
-- [Mouse Robot and Blasting Off](https://www.youtube.com/watch?v=tCN3HSg5jog)
-- [The Return Home](https://www.youtube.com/watch?v=HnoEp7mL9_4)
-- [The Walls Converge](https://www.youtube.com/watch?v=V16JMmEt750)
-- [The Princess Appears](https://www.youtube.com/watch?v=r6Qbbyc1eLc)
-- [The Last Battle](https://www.youtube.com/watch?v=1W8DIwfQDa4)
-- [The Throne Room and End Title](https://www.youtube.com/watch?v=trYeKG17hYc)
-- [Main Title](https://www.youtube.com/watch?v=e9lapdvLSGw)
-- [Imperial Attack](https://www.youtube.com/watch?v=msqfRw197tk)
-- [Princess Leia's Theme](https://www.youtube.com/watch?v=eyHOUMWw5_M)
-- [The Desert and the Robot Auction](https://www.youtube.com/watch?v=vC_mMRgesA8)
+{{< youtube id="sDMPTZ7y1lE" title="Star Wars A New Hope Full Soundtrack" >}}
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [John Williams, The London Symphony Orchestra - Star Wars](https://www.discogs.com/release/8574533-John-Williams-4London-Symphony-Orchestra-Star-Wars) |
-| Label          | 20th Century Records, 20th Century Records, Sony Classical |
-| Format         | 2xLP, Album, Ltd, RE, Gol |
-| Catalog Number | FMW 37/8, 2T-541, 88985316621 |
+| Discogs Link   | [John Williams - Star Wars](https://www.discogs.com/release/8574533-John-Williams-4London-Symphony-Orchestra-Star-Wars) |
+| Label          | 20th Century Records |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Gold) |
+| Catalog Number | FMW 37/8 |
 
-First and third cat# from sleeve, second from label. Issued with insert with liner notes and list of London Symphony performers.  Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.  Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.  [On labels:] ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd. Published by Fox Fanfare Music, Inc. (BMI)  Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977. Remixed at The Burbank Studios, Burbank, California
+First and third cat# from sleeve, second from label.
+Issued with insert with liner notes and list of London Symphony performers.
+
+Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.
+
+Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment.
+Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.
+
+[On labels:]
+℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd.
+Published by Fox Fanfare Music, Inc. (BMI)
+
+Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977.
+Remixed at The Burbank Studios, Burbank, California

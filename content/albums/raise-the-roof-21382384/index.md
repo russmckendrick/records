@@ -1,18 +1,19 @@
 ---
-title: "Robert Plant | Alison Krauss - Raise The Roof"
-artist: "Robert Plant | Alison Krauss"
+title: "Robert Plant - Raise The Roof"
+artist: "Robert Plant"
 album_name: "Raise The Roof"
-date: 2021-12-17
+date: 2021-12-17T11:50:13.000000Z
 release_id: "21382384"
 slug: "raise-the-roof-21382384"
 hideSummary: true
 cover:
     image: "raise-the-roof-21382384.jpg"
-    alt: "Raise The Roof by Robert Plant | Alison Krauss"
-    caption: "Raise The Roof by Robert Plant | Alison Krauss"
+    alt: "Raise The Roof by Robert Plant"
+    caption: "Raise The Roof by Robert Plant"
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock"]
 ---
+
 ## Tracklisting
 1. Quattro (World Drifts In) (4:35)
 2. The Price Of Love (4:50)
@@ -26,6 +27,12 @@ styles: ["Blues Rock", "Folk Rock"]
 10. High And Lonesome (4:33)
 11. Going Where The Lonely Go (4:10)
 12. Somebody Was Watching Over Me (5:03)
+
+
+## Spotify
+{{< spotify type="album" id="5CQ3SOj1ZgudhbsTLcTTI2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="z2B9H2M4Cb0" title="Robert Plant & Alison Krauss - Quattro (World Drifts In) (Official Audio)" >}}
@@ -47,9 +54,24 @@ styles: ["Blues Rock", "Folk Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2021 |
-| Discogs Link   | [Robert Plant | Alison Krauss - Raise The Roof](https://www.discogs.com/release/21382384-Robert-Plant-Alison-Krauss-Raise-The-Roof) |
-| Label          | Warner Music, Warner Music UK |
-| Format         | 2xLP, Album, Ltd, Red |
+| Discogs Link   | [Robert Plant - Raise The Roof](https://www.discogs.com/release/21382384-Robert-Plant-Alison-Krauss-Raise-The-Roof) |
+| Label          | Warner Music |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Red Translucent) |
 | Catalog Number | 0190296548857 |
 
-Amazon Europe limited release.  Comes in a gatefold sleeve with alternate red artwork.  Issued with plain black inner sleeves (discobags), both with the catalog number.  ℗ & © 2021 Hokker, Inc and Trolcharm Limited. Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada  Made in The Netherlands.  T Bone Burnett appears courtesy of Verse Forecast Bill Frisell  appears courtesy of Blue Note Records Lucinda Williams  appears courtesy of Highway 20 Records  Runouts: 34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched.
+Amazon Europe limited release.
+
+Comes in a gatefold sleeve with alternate red artwork.
+
+Issued with plain black inner sleeves (discobags), both with the catalog number.
+
+℗ & © 2021 Hokker, Inc and Trolcharm Limited.
+Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada 
+Made in The Netherlands.
+
+T Bone Burnett appears courtesy of Verse Forecast
+Bill Frisell  appears courtesy of Blue Note Records
+Lucinda Williams  appears courtesy of Highway 20 Records
+
+Runouts:
+34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched.

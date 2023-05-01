@@ -2,7 +2,7 @@
 title: "Anathema - The Optimist"
 artist: "Anathema"
 album_name: "The Optimist"
-date: 2017-06-10
+date: 2017-06-10T11:11:02.000000Z
 release_id: "10418247"
 slug: "the-optimist-10418247"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. 32.63N 117.14W
 2. Leaving It Behind
@@ -25,8 +26,12 @@ styles: ["Prog Rock", "Alternative Rock"]
 9. Close Your Eyes
 10. Wildfires
 11. Back To The Start
+
+
 ## Spotify
 {{< spotify type="album" id="2MXZ5iBdwsSzzlZszRZoTY" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}
@@ -37,9 +42,11 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
-| Discogs Link   | [Anathema - The Optimist](https://www.discogs.com/release/10418247-Anathema-The-Optimist) |
-| Label          | Kscope, Kscope |
-| Format         | 2xLP, Album, Ltd, Sil |
-| Catalog Number | Kscope944, KSCOPE944B - SILVER |
+| Discogs Link   | [Anathema - The Optimist](https://www.discogs.com/release/10418247-ana_thema-The-Optimist) |
+| Label          | Kscope |
+| Format         | Vinyl 2× LP Album Limited Edition (Silver, 180gr) |
+| Catalog Number | Kscope944 |
 
-Made in Germany. The label catalog number KSCOPE944B - SILVER can be found on the sticker, also the barcode.  2LP Gatefold 180 gram heavyweight vinyl + MP3 download included. Limited to 300 copies
+Made in Germany. The label catalog number KSCOPE944B - SILVER can be found on the sticker, also the barcode.
+
+2LP Gatefold 180 gram heavyweight vinyl + MP3 download included. Limited to 300 copies

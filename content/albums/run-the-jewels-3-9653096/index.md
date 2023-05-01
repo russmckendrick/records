@@ -2,7 +2,7 @@
 title: "Run The Jewels - Run The Jewels 3"
 artist: "Run The Jewels"
 album_name: "Run The Jewels 3"
-date: 2017-01-23
+date: 2017-01-23T17:32:10.000000Z
 release_id: "9653096"
 slug: "run-the-jewels-3-9653096"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Conscious"]
 ---
+
 ## Tracklisting
 1. Down
 2. Talk To Me
@@ -29,8 +30,12 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 13. Thursday In The Danger Room
 14. A Report To The Shareholders
 15. Kill Your Masters
+
+
 ## Spotify
 {{< spotify type="album" id="2vY03PfKPFUUM1FA2lgmC2" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QaPrQa3oMy0" title="Run The Jewels - Legend Has It | From The RTJ3 Album" >}}
@@ -58,7 +63,35 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 | Release Year   | 2017 |
 | Discogs Link   | [Run The Jewels - Run The Jewels 3](https://www.discogs.com/release/9653096-Run-The-Jewels-Run-The-Jewels-3) |
 | Label          | Run The Jewels, Inc. |
-| Format         | 2xLP, Album, Gol |
+| Format         | Vinyl 2× LP Album (Gold) |
 | Catalog Number | RTJ003LP |
 
-Comes in a gatefold sleeve. Pressed on opaque marbled gold vinyl. Includes lyric sheet, poster and stickers. There is a [similar issue](https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-3/release/10950921) that also includes a gold pendant and has a barcode sticker on the shrink wrap which covers the barcode printed on the back cover.  ℗ & © 2016 Run The Jewels, Inc.  Twitter: runjewels Instagram: runthejewels Website: www.runthejewels.com  All songs recorded at RTJ Studios except for track A1, with additional recording at Pulse Studios, Los Angeles; tracks B8 and D13, with additional recording at Sound Factory, Los Angeles; and track D14b, at Cosmic Zoo, Los Angeles with additional at UTTRB Studios, Los Angeles  All songs mastered at Sterling Sound, New York, NY  All songs published by Definitive Jux Music / Pulse Music Co, Aniyah's Music / Royalty Network, Money Makes Me Dance and Eussicise Entertainment Track B5 additionally published by YonaBona / Warp Publishing Tracks B8 and C9 additionally published by Songs of Roc Nation Music / Warner-Tamerlane Publishing Track D14b additionally published by Zack World War Publishing  Label management: Amit Nerurkar / face-less Andrew Friedman / [Monotone](https://www.discogs.com/label/1068511-Monotone-Inc) Zena White (UK & EU) / [l507946]  Publicity: Kathryn Frazier / [Biz 3](https://www.discogs.com/artist/5098825-Biz3) (US) Ben Harris (UK & EU)  Tracks are listed sequentially, as they are on the release. Надежда Толоконникова credited as "Nadya Tolokonnikova Of Pussy Riot". Pressing plant and lacquer cut credits identified through runouts.
+Comes in a gatefold sleeve. Pressed on opaque marbled gold vinyl. Includes lyric sheet, poster and stickers. There is a [url=https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-3/release/10950921]similar issue[/url] that also includes a gold pendant and has a barcode sticker on the shrink wrap which covers the barcode printed on the back cover.
+
+℗ & © 2016 Run The Jewels, Inc.
+
+Twitter: runjewels
+Instagram: runthejewels
+Website: www.runthejewels.com
+
+All songs recorded at RTJ Studios except for track A1, with additional recording at Pulse Studios, Los Angeles; tracks B8 and D13, with additional recording at Sound Factory, Los Angeles; and track D14b, at Cosmic Zoo, Los Angeles with additional at UTTRB Studios, Los Angeles
+
+All songs mastered at Sterling Sound, New York, NY
+
+All songs published by Definitive Jux Music / Pulse Music Co, Aniyah's Music / Royalty Network, Money Makes Me Dance and Eussicise Entertainment
+Track B5 additionally published by YonaBona / Warp Publishing
+Tracks B8 and C9 additionally published by Songs of Roc Nation Music / Warner-Tamerlane Publishing
+Track D14b additionally published by Zack World War Publishing
+
+Label management:
+Amit Nerurkar / face-less
+Andrew Friedman / [url=https://www.discogs.com/label/1068511-Monotone-Inc]Monotone[/url]
+Zena White (UK & EU) / [l507946]
+
+Publicity:
+Kathryn Frazier / [url=https://www.discogs.com/artist/5098825-Biz3]Biz 3[/url] (US)
+Ben Harris (UK & EU)
+
+Tracks are listed sequentially, as they are on the release.
+Надежда Толоконникова credited as "Nadya Tolokonnikova Of Pussy Riot".
+Pressing plant and lacquer cut credits identified through runouts.

@@ -2,7 +2,7 @@
 title: "Ozzy Osbourne - No More Tears"
 artist: "Ozzy Osbourne"
 album_name: "No More Tears"
-date: 2021-09-19
+date: 2021-09-19T04:28:15.000000Z
 release_id: "20262616"
 slug: "no-more-tears-20262616"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Mr. Tinkertrain (5:56)
 2. I Don't Want To Change The World (4:05)
@@ -25,8 +26,12 @@ styles: ["Heavy Metal", "Hard Rock"]
 9. Zombie Stomp (6:13)
 10. A.V.H. (4:12)
 11. Road To Nowhere (5:09)
+
+
 ## Spotify
 {{< spotify type="album" id="6eh82ojicL8RSJF7GkYTh7" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="CprfjfN5PRs" title="OZZY OSBOURNE - No More Tears (Official Video)" >}}
@@ -37,8 +42,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 | ---------------| ----------- |
 | Release Year   | 2021 |
 | Discogs Link   | [Ozzy Osbourne - No More Tears](https://www.discogs.com/release/20262616-Ozzy-Osbourne-No-More-Tears) |
-| Label          | Epic, Epic Associated, Legacy, Sony Music |
-| Format         | 2xLP, Album, RE |
+| Label          | Epic |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | 19439877271 |
 
 Released in a gatefold cover, with hype sticker on seal: "DOUBLE VINYL SET; Includes NO MORE TEARS and MAMA, I'M COMING HOME; 19439877271"

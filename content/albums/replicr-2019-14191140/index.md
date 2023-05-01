@@ -2,7 +2,7 @@
 title: "65daysofstatic - replicr, 2019"
 artist: "65daysofstatic"
 album_name: "replicr, 2019"
-date: 2019-09-28
+date: 2019-09-28T07:53:07.000000Z
 release_id: "14191140"
 slug: "replicr-2019-14191140"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Noise", "Experimental", "Ambient"]
 ---
+
 ## Tracklisting
 1. pretext (2:15)
 2. stillstellung (3:37)
@@ -42,8 +43,12 @@ styles: ["Noise", "Experimental", "Ambient"]
 26. z03 (4:08)
 27. u| || | th | r| d (2:01)
 28. trackerplatz (3:41)
+
+
 ## Spotify
 {{< spotify type="album" id="00chiEAshbWdhrPg6Y8po1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="9LQckltGMJ4" title="65daysofstatic | replicr, 2019. new album coming 27.0.9.19" >}}
@@ -56,8 +61,6 @@ styles: ["Noise", "Experimental", "Ambient"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [65daysofstatic - replicr, 2019](https://www.discogs.com/release/14191140-65daysofstatic-replicr-2019) |
-| Label          | Superball Music, Superball Music |
-| Format         | LP, Album + CD, Album |
-| Catalog Number | SBMLP 046, 19075972601 |
-
-
+| Label          | Superball Music |
+| Format         | Vinyl LP Album, CD Album |
+| Catalog Number | SBMLP 046 |

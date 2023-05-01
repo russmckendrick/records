@@ -2,7 +2,7 @@
 title: "James Brown & The Famous Flames - Please Please Please"
 artist: "James Brown & The Famous Flames"
 album_name: "Please Please Please"
-date: 2021-05-17
+date: 2021-05-17T07:47:43.000000Z
 release_id: "13262472"
 slug: "please-please-please-13262472"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
+
 ## Tracklisting
 1. Please, Please, Please
 2. Chonnie-On-Chon
@@ -32,6 +33,9 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Love Or A Game
 17. Bonus Track
 18. This Old Heart
+
+
+
 
 ## Videos
 {{< youtube id="EkVZ3dHh6kg" title="James Brown- Please, Please, Please" >}}
@@ -59,7 +63,5 @@ styles: ["Rhythm & Blues", "Soul"]
 | Release Year   | 2019 |
 | Discogs Link   | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |
 | Label          | WaxTime In Color |
-| Format         | LP, Album, Ltd, RE, Red |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red, 180 Gram) |
 | Catalog Number | 950662 |
-
-

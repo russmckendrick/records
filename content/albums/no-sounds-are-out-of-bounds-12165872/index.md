@@ -2,7 +2,7 @@
 title: "The Orb - No Sounds Are Out Of Bounds"
 artist: "The Orb"
 album_name: "No Sounds Are Out Of Bounds"
-date: 2018-06-23
+date: 2018-06-23T08:50:48.000000Z
 release_id: "12165872"
 slug: "no-sounds-are-out-of-bounds-12165872"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 ---
+
 ## Tracklisting
 1. The End Of The End
 2. Wish I Had A Pretty Dog
@@ -26,8 +27,12 @@ styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 10. Easy On The Onions
 11. Ununited States
 12. Soul Planet
+
+
 ## Spotify
 {{< spotify type="album" id="2vyUnf6hnPpsYC5Ja8T0QL" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="dRMwQ85qD5U" title="The Orb - Doughnuts Forever (Unofficial Video)" >}}
@@ -42,8 +47,16 @@ styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Orb - No Sounds Are Out Of Bounds](https://www.discogs.com/release/12165872-The-Orb-No-Sounds-Are-Out-Of-Bounds) |
-| Label          | Cooking Vinyl, Cooking Vinyl |
-| Format         | 2xLP, Ltd, Blu |
-| Catalog Number | COOKLP711, COOKLP711B |
+| Label          | Cooking Vinyl |
+| Format         | Vinyl 2× LP Limited Edition (Blue) |
+| Catalog Number | COOKLP711 |
 
-Indie Exclusive  Limited to 500  Includes a download code.  A: 22:25 / B: 17:22 / C: 15:23 / D:15:09 Total Length: 70:09  
+Indie Exclusive 
+Limited to 500
+
+Includes a download code.
+
+A: 22:25 / B: 17:22 / C: 15:23 / D:15:09
+Total Length: 70:09
+
+

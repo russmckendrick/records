@@ -2,7 +2,7 @@
 title: "Jonathan Wilson - Dixie Blur"
 artist: "Jonathan Wilson"
 album_name: "Dixie Blur"
-date: 2020-03-07
+date: 2020-03-07T10:40:40.000000Z
 release_id: "14876200"
 slug: "dixie-blur-14876200"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Dixie Blur by Jonathan Wilson"
     caption: "Dixie Blur by Jonathan Wilson"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Just For Love
 2. '69 Corvette
@@ -28,8 +29,12 @@ styles: null
 12. El Camino Real
 13. Golden Apples
 14. Korean Tea
+
+
 ## Spotify
 {{< spotify type="album" id="2J7ySwyyvdBeP8EcNYrgZv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="EGyg7pvkhOw" title="Jonathan Wilson - 69 Corvette [Official Music Video]" >}}
@@ -53,8 +58,8 @@ styles: null
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Jonathan Wilson - Dixie Blur](https://www.discogs.com/release/14876200-Jonathan-Wilson-Dixie-Blur) |
-| Label          | Bella Union, BMG |
-| Format         | 2xLP, Album, Min |
-| Catalog Number | BELLA995VX, 538597140 |
+| Label          | Bella Union |
+| Format         | Vinyl 2× LP Album (Mint Green) |
+| Catalog Number | BELLA995VX |
 
 Mint green vinyl pressing.

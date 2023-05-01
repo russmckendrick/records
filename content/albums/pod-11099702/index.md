@@ -2,7 +2,7 @@
 title: "The Breeders - Pod"
 artist: "The Breeders"
 album_name: "Pod"
-date: 2018-05-25
+date: 2018-05-25T19:12:18.000000Z
 release_id: "11099702"
 slug: "pod-11099702"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Glorious
 2. Doe
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Only In 3's
 11. Lime House
 12. Metal Man
+
+
 ## Spotify
 {{< spotify type="album" id="0xx56m5AMEIMZlSjdJwxf5" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="OSwgWt0UNgE" title="Glorious" >}}
@@ -49,7 +54,19 @@ styles: ["Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The Breeders - Pod](https://www.discogs.com/release/11099702-The-Breeders-Pod) |
 | Label          | 4AD |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | CAD 0006 |
 
-Includes a printed inner sleeve. Track positions are sequentially listed as 1 to 12 across sides.  Recorded at Palladium Studios, Edinburgh, Scotland. Thanks to Carl Haarer, Mickey Bones, David Narcizo and Gary Smith, Paul Kolderie, Joe Harvard at Ford Apache.  Made in the EU  Josephine Wiggs courtesy of [l2051].  EMI Music Publishing Ltd. except A3 Sony / ATV Music Publishing (UK) Ltd.  ℗ & © 1990 4AD Ltd.
+Includes a printed inner sleeve.
+Track positions are sequentially listed as 1 to 12 across sides.
+
+Recorded at Palladium Studios, Edinburgh, Scotland.
+Thanks to Carl Haarer, Mickey Bones, David Narcizo and Gary Smith, Paul Kolderie, Joe Harvard at Ford Apache.
+
+Made in the EU
+
+Josephine Wiggs courtesy of [l2051].
+
+EMI Music Publishing Ltd. except A3 Sony / ATV Music Publishing (UK) Ltd.
+
+℗ & © 1990 4AD Ltd.

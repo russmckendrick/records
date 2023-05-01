@@ -2,7 +2,7 @@
 title: "Neil Finn - Dizzy Heights"
 artist: "Neil Finn"
 album_name: "Dizzy Heights"
-date: 2015-10-04
+date: 2015-10-04T11:26:45.000000Z
 release_id: "5388264"
 slug: "dizzy-heights-5388264"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Impressions
 2. Dizzy Heights
@@ -25,8 +26,12 @@ styles: ["Pop Rock", "Alternative Rock"]
 9. Strangest Friends
 10. In My Blood
 11. Lights Of New York
+
+
 ## Spotify
 {{< spotify type="album" id="3cwQSyZTWTp1Air5e6jcV9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ks_-25Fgh5U" title="Neil Finn - Divebomber" >}}
@@ -37,7 +42,5 @@ styles: ["Pop Rock", "Alternative Rock"]
 | Release Year   | 2014 |
 | Discogs Link   | [Neil Finn - Dizzy Heights](https://www.discogs.com/release/5388264-Neil-Finn-Dizzy-Heights) |
 | Label          | Lester Records |
-| Format         | LP |
+| Format         | Vinyl LP |
 | Catalog Number | LRNF0011LP |
-
-

@@ -2,7 +2,7 @@
 title: "Belle & Sebastian - Late Developers"
 artist: "Belle & Sebastian"
 album_name: "Late Developers"
-date: 2023-02-06
+date: 2023-02-06T11:31:58.000000Z
 release_id: "25756201"
 slug: "late-developers-25756201"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
+
 ## Tracklisting
 1. Juliet Naked (3:22)
 2. Give A Little Time (3:23)
@@ -25,8 +26,12 @@ styles: ["Indie Rock", "Indie Pop"]
 9. Do You Follow? (4:19)
 10. When The Cynics Stare Back From The Wall (4:21)
 11. Late Developers (4:20)
+
+
 ## Spotify
 {{< spotify type="album" id="7LJdM0B6bp0H78AN7cwqHp" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked (Official Audio)" >}}
@@ -47,8 +52,13 @@ styles: ["Indie Rock", "Indie Pop"]
 | ---------------| ----------- |
 | Release Year   | 2023 |
 | Discogs Link   | [Belle & Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |
-| Label          | Matador, Matador |
-| Format         | LP, Album, Ltd, Ora |
-| Catalog Number | OLE1896LPE, OLE1896LP |
+| Label          | Matador |
+| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Catalog Number | OLE1896LPE |
 
-Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >.
+Gatefold sleeve with printed inner sleeve and lyric booklet
+
+Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'
+
+Catalog number on labels and back cover: OLE1896LP.
+Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >.

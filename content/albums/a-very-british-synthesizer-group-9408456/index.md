@@ -2,7 +2,7 @@
 title: "The Human League - A Very British Synthesizer Group"
 artist: "The Human League"
 album_name: "A Very British Synthesizer Group"
-date: 2017-02-11
+date: 2017-02-11T14:52:27.000000Z
 release_id: "9408456"
 slug: "a-very-british-synthesizer-group-9408456"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Being Boiled (Fast Version) (3:50)
 2. The Dignity Of Labour (Part 3) (3:51)
@@ -44,8 +45,12 @@ styles: ["Synth-pop"]
 28. Night People (Radio Edit) (3:02)
 29. Never Let Me Go (4:56)
 30. Sky (Radio Edit) (3:12)
+
+
 ## Spotify
 {{< spotify type="album" id="3XJ0aTzPJetIieldeVADht" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="neuLu1MMl5M" title="The Human League - Being Boiled (Fast Version)" >}}
@@ -69,7 +74,11 @@ styles: ["Synth-pop"]
 | Release Year   | 2016 |
 | Discogs Link   | [The Human League - A Very British Synthesizer Group](https://www.discogs.com/release/9408456-The-Human-League-A-Very-British-Synthesizer-Group) |
 | Label          | Virgin |
-| Format         | 3xLP, Comp, 180 |
+| Format         | Vinyl 3× LP Compilation (180g) |
 | Catalog Number | 571 111-5 |
 
-Triple LP half-speed mastered box set.  Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).  First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan. 
+Triple LP half-speed mastered box set.
+
+Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).
+
+First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan. 

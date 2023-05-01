@@ -2,7 +2,7 @@
 title: "Jesus Jones - Passages"
 artist: "Jesus Jones"
 album_name: "Passages"
-date: 2018-05-05
+date: 2018-05-05T10:14:34.000000Z
 release_id: "11906746"
 slug: "passages-11906746"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Where Are All The Dreams? (3:49)
 2. Suck It Up (3:04)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Grateful (3:46)
 9. One Day At A Time (2:37)
 10. Stripped (5:17)
+
+
 ## Spotify
 {{< spotify type="album" id="0sMKZOihmPdESS8suMaA4j" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="VQN-2UBfJSI" title="Jesus Jones  - Suck It Up" >}}
@@ -38,7 +43,12 @@ styles: ["Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Jesus Jones - Passages](https://www.discogs.com/release/11906746-Jesus-Jones-Passages) |
 | Label          | Jesus Jones Recordings |
-| Format         | LP, Album, Ltd, M/Print, Yel |
+| Format         | Vinyl LP Album Limited Edition Misprint (Yellow Translucent) |
 | Catalog Number | JJR001LP |
 
-℗ 2018 Jesus Jones  Limited to 250 copies in a gatefold sleeve with printed inner sleeve. Misprint. Band name printed as "Jesusus Jones" on spine.   Band signed copies were available via PledgeMusic campaign.
+℗ 2018 Jesus Jones
+
+Limited to 250 copies in a gatefold sleeve with printed inner sleeve.
+Misprint. Band name printed as "Jesusus Jones" on spine. 
+
+Band signed copies were available via PledgeMusic campaign.

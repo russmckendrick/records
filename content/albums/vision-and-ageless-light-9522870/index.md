@@ -2,7 +2,7 @@
 title: "EYE - Vision And Ageless Light"
 artist: "EYE"
 album_name: "Vision And Ageless Light"
-date: 2017-03-18
+date: 2017-03-18T12:17:53.000000Z
 release_id: "9522870"
 slug: "vision-and-ageless-light-9522870"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
+
 ## Tracklisting
 1. Book Of The Dead (3:29)
 2. Kill The Slavemaster (6:06)
@@ -20,8 +21,9 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 4. Dweller Of The Twilight Void (3:59)
 5. As Sure As The Sun (4:43)
 6. As Sure As The Sun (Continued) (22:43)
-## Spotify
-{{< spotify type="album" id="3jLrjVKfJpxezJc3tPadUA" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="DXmw3SgL49E" title="EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016" >}}
@@ -37,7 +39,13 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 | Release Year   | 2016 |
 | Discogs Link   | [EYE - Vision And Ageless Light](https://www.discogs.com/release/9522870-EYE-Vision-And-Ageless-Light) |
 | Label          | The Laser's Edge |
-| Format         | LP, Album, Cle |
+| Format         | Vinyl LP Album (Clear) |
 | Catalog Number | LE1077LP |
 
-Side two was captured at Relay Recording. All other recording and mixing at Backroads Recording. Mastered at Lacquer Channel Mastering.  All compositions © 2016 EYE ℗ The Laser's Edge
+Side two was captured at Relay Recording.
+All other recording and mixing at Backroads Recording.
+Mastered at Lacquer Channel Mastering.
+
+All compositions
+© 2016 EYE
+℗ The Laser's Edge

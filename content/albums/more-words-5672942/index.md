@@ -2,7 +2,7 @@
 title: "Glen Campbell - More Words"
 artist: "Glen Campbell"
 album_name: "More Words"
-date: 2020-08-02
+date: 2020-08-02T13:47:21.000000Z
 release_id: "5672942"
 slug: "more-words-5672942"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "More Words by Glen Campbell"
     caption: "More Words by Glen Campbell"
 genres: ["Folk, World, & Country"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. It's Over
 2. Catch The Wind
@@ -29,6 +30,9 @@ styles: null
 13. You Better Sit Down Kids
 14. Love Me As Though There Were No Tomorrow
 
+
+
+
 ## Videos
 {{< youtube id="VecunpIqlg0" title="Gentle On My Mind , Glen Campbell , 1967 Vinyl" >}}
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
@@ -40,7 +44,13 @@ styles: null
 | Release Year   | 1975 |
 | Discogs Link   | [Glen Campbell - More Words](https://www.discogs.com/release/5672942-Glen-Campbell-More-Words) |
 | Label          | Ember Records |
-| Format         | LP, Comp |
+| Format         | Vinyl LP Compilation |
 | Catalog Number | NRH 1001 |
 
-Fold out front cover © 1975 ℗ 1968 track A1, A2, A4, B1, B3. B4 ℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7  Made in England 
+Fold out front cover
+© 1975
+℗ 1968 track A1, A2, A4, B1, B3. B4
+℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7
+
+Made in England
+

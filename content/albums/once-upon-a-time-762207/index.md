@@ -2,7 +2,7 @@
 title: "Simple Minds - Once Upon A Time"
 artist: "Simple Minds"
 album_name: "Once Upon A Time"
-date: 2015-09-11
+date: 2015-09-11T18:02:24.000000Z
 release_id: "762207"
 slug: "once-upon-a-time-762207"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
+
 ## Tracklisting
 1. Once Upon A Time
 2. All The Things She Said
@@ -22,18 +23,18 @@ styles: ["Pop Rock", "Synth-pop"]
 6. I Wish You Were Here
 7. Sanctify Yourself
 8. Come A Long Way
+
+
 ## Spotify
 {{< spotify type="album" id="4YimfceN1R0nOS9CefIFhm" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="9_-m8yFTn9w" title="Once Upon A Time" >}}
-- [Simple Minds - All The Things She Said](https://www.youtube.com/watch?v=tytPcvyJASc)
-- [Ghostdancing](https://www.youtube.com/watch?v=_6suVouvGGc)
+{{< youtube id="eQlYTc_rZ7c" title="Simple Minds Once Upon a Time" >}}
 - [Simple Minds - Alive And Kicking](https://www.youtube.com/watch?v=ljIQo1OHkTI)
-- [Oh Jungleland](https://www.youtube.com/watch?v=aaeAx1KAgfo)
-- [I Wish You Were Here](https://www.youtube.com/watch?v=LiqGGRqmxBE)
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
-- [Come A Long Way](https://www.youtube.com/watch?v=b0A9siJrokg)
+- [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
 
 ## Notes
 | Notes          |             |
@@ -41,7 +42,9 @@ styles: ["Pop Rock", "Synth-pop"]
 | Release Year   | 1985 |
 | Discogs Link   | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/762207-Simple-Minds-Once-Upon-A-Time) |
 | Label          | Virgin |
-| Format         | LP, Album, Pic |
+| Format         | Vinyl LP Album Picture Disc |
 | Catalog Number | VP 2364 |
 
-Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics. Recorded at Townhouse Studios, London. 
+Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics.
+Recorded at Townhouse Studios, London.
+

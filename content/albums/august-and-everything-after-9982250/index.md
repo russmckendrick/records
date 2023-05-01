@@ -2,7 +2,7 @@
 title: "Counting Crows - August And Everything After"
 artist: "Counting Crows"
 album_name: "August And Everything After"
-date: 2017-06-10
+date: 2017-06-10T11:12:30.000000Z
 release_id: "9982250"
 slug: "august-and-everything-after-9982250"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Round Here (5:31)
 2. Omaha (3:39)
@@ -25,8 +26,12 @@ styles: ["Alternative Rock"]
 9. Ghost Train (4:02)
 10. Raining In Baltimore (4:41)
 11. A Murder Of One (5:43)
+
+
 ## Spotify
 {{< spotify type="album" id="4nKfZbCALT9H9LfedtDwnZ" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="d8LSBdUKo0c" title="Anna Begins" >}}
@@ -44,7 +49,10 @@ styles: ["Alternative Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Counting Crows - August And Everything After](https://www.discogs.com/release/9982250-Counting-Crows-August-And-Everything-After) |
 | Label          | DGC |
-| Format         | 2xLP, Album, RE |
+| Format         | Vinyl 2× LP Album Reissue |
 | Catalog Number | B0025531-01 |
 
-- Re-issue - Gatefold - 180-Gram black double vinyl - 33 1/3 RPM
+- Re-issue
+- Gatefold
+- 180-Gram black double vinyl
+- 33 1/3 RPM

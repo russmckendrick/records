@@ -2,7 +2,7 @@
 title: "Orbital - Monsters Exist"
 artist: "Orbital"
 album_name: "Monsters Exist"
-date: 2018-09-16
+date: 2018-09-16T11:31:40.000000Z
 release_id: "12518665"
 slug: "monsters-exist-12518665"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
+
 ## Tracklisting
 1. Monsters Exist
 2. Hoo Hoo Ha Ha
@@ -23,8 +24,12 @@ styles: ["Techno"]
 7. Vision OnE
 8. The End Is Nigh
 9. There Will Come A Time
+
+
 ## Spotify
 {{< spotify type="album" id="0IAAy7IDTqdCpydFNKpulW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="GEmw73HGyAA" title="Orbital - The End is Nigh (Vinyl Edition) (Digital Hardware Favorites)" >}}
@@ -49,7 +54,13 @@ styles: ["Techno"]
 | Release Year   | 2018 |
 | Discogs Link   | [Orbital - Monsters Exist](https://www.discogs.com/release/12518665-Orbital-Monsters-Exist) |
 | Label          | ACP Recordings |
-| Format         | 2xLP, Album |
+| Format         | Vinyl 2× LP Album |
 | Catalog Number | ACPV1806 |
 
-Includes colour insert and download card.  Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk  Tracks on release are numbered sequentially across sides.  Mixed for Pieces of 8 Music
+Includes colour insert and download card.
+
+Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk
+
+Tracks on release are numbered sequentially across sides.
+
+Mixed for Pieces of 8 Music

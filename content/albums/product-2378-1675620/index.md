@@ -2,7 +2,7 @@
 title: "Various - Product 2378"
 artist: "Various"
 album_name: "Product 2378"
-date: 2015-10-14
+date: 2015-10-14T18:37:05.000000Z
 release_id: "1675620"
 slug: "product-2378-1675620"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Rock", "Goth Rock"]
 ---
+
 ## Tracklisting
 1. Who Wants To Be The Disco King? (2:49)
 2. Vanishing Point (5:15)
@@ -30,6 +31,9 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 14. Dizzy (3:42)
 15. December (4:44)
 16. Tower Of Strength (Bombay Edit) (10:25)
+
+
+
 
 ## Videos
 {{< youtube id="vWxaxu35rvw" title="The Wonder Stuff - Who Wants To Be The Disco King?" >}}
@@ -55,7 +59,15 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 | Release Year   | 1990 |
 | Discogs Link   | [Various - Product 2378](https://www.discogs.com/release/1675620-Various-Product-2378) |
 | Label          | Telstar |
-| Format         | LP, Comp, Dam |
+| Format         | Vinyl LP Compilation (Damont Pressing) |
 | Catalog Number | STAR 2378 |
 
-This album compiled in association with 4.A.D., Mute, Factory, WEA, EMI, BMG & Polygram  Distributed in the UK by BMG Records Ltd. Distributed in Eire by WEA Records (IRL) Ltd.  Also available on cassette >> [STAC 2378](http://www.discogs.com/Various-Product-2378/release/749901) and CD >> [TCD 2378](http://www.discogs.com/Various-Product-2378/release/722967). - This version pressed by Damont. [r=11770103] is pressed by [l=MPO].
+This album compiled in association with 4.A.D., Mute, Factory, WEA, EMI, BMG & Polygram
+
+Distributed in the UK by BMG Records Ltd.
+Distributed in Eire by WEA Records (IRL) Ltd.
+
+Also available on cassette >> [url=http://www.discogs.com/Various-Product-2378/release/749901]STAC 2378[/url] and CD >> [url=http://www.discogs.com/Various-Product-2378/release/722967]TCD 2378[/url].
+-
+This version pressed by Damont.
+[r=11770103] is pressed by [l=MPO].

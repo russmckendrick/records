@@ -2,7 +2,7 @@
 title: "Soundgarden - Badmotorfinger"
 artist: "Soundgarden"
 album_name: "Badmotorfinger"
-date: 2017-06-10
+date: 2017-06-10T11:12:15.000000Z
 release_id: "3364487"
 slug: "badmotorfinger-3364487"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge"]
 ---
+
 ## Tracklisting
 1. Rusty Cage (4:30)
 2. Outshined (5:06)
@@ -26,8 +27,12 @@ styles: ["Grunge"]
 10. Drawing Flies (2:32)
 11. Holy Water (5:06)
 12. New Damage (5:40)
+
+
 ## Spotify
 {{< spotify type="album" id="2W6MaUiInBkna5DfBES4E3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pBZs_Py-1_0" title="Soundgarden - Rusty Cage" >}}
@@ -45,7 +50,11 @@ styles: ["Grunge"]
 | Release Year   | 1992 |
 | Discogs Link   | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487-Soundgarden-Badmotorfinger) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | 395 374-1 |
 
-℗ 1991 A&M Records Inc., Los Angeles  Made in England  Some copies are issued with a hype sticker.
+℗ 1991 A&M Records Inc., Los Angeles
+
+Made in England
+
+Some copies are issued with a hype sticker.

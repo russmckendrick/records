@@ -2,7 +2,7 @@
 title: "Pink Floyd - Delicate Sound Of Thunder"
 artist: "Pink Floyd"
 album_name: "Delicate Sound Of Thunder"
-date: 2017-11-17
+date: 2017-11-17T16:42:40.000000Z
 release_id: "10775346"
 slug: "delicate-sound-of-thunder-10775346"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Shine On You Crazy Diamond Parts 1-5 (11:45)
 2. Learning To Fly (5:07)
@@ -28,8 +29,11 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 12. Wish You Were Here (4:50)
 13. Comfortably Numb (8:42)
 14. Run Like Hell (6:42)
+
+
 ## Spotify
 {{< spotify type="album" id="4Iy1JP7YE0d256eCwn3VJA" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -37,8 +41,8 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/10775346-Pink-Floyd-Delicate-Sound-Of-Thunder) |
-| Label          | Pink Floyd Records, Parlophone |
-| Format         | 2xLP, Album, RE, RM, 180 |
-| Catalog Number | PFRLP16, 190295996932 |
+| Label          | Pink Floyd Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Catalog Number | PFRLP16 |
 
 The sticker, the cover and the label show "Breathe in the air (reprise)" but the song is not present.

@@ -2,7 +2,7 @@
 title: "Ian Dury - New Boots And Panties!!"
 artist: "Ian Dury"
 album_name: "New Boots And Panties!!"
-date: 2016-09-21
+date: 2016-09-21T18:15:01.000000Z
 release_id: "7146001"
 slug: "new-boots-and-panties-7146001"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Punk"]
 ---
+
 ## Tracklisting
 1. Wake Up And Make Love With Me (4:21)
 2. Sweet Gene Vincent (3:32)
@@ -24,8 +25,12 @@ styles: ["Punk"]
 8. Blockheads (3:30)
 9. Plaistow Patricia (4:12)
 10. Blackmail Man (2:14)
+
+
 ## Spotify
 {{< spotify type="album" id="4GR2L1xSn9yWXLbPCxVKxb" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}
@@ -47,7 +52,12 @@ styles: ["Punk"]
 | Release Year   | 2015 |
 | Discogs Link   | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/7146001-Ian-Dury-New-Boots-And-Panties) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Catalog Number | DEMREC56 |
 
-Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.  This record was not produced and recorded at The Workhouse in the Old Kent Road!!  Manufactured in the EU. 
+Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.
+
+This record was not produced and recorded at The Workhouse in the Old Kent Road!!
+
+Manufactured in the EU.
+

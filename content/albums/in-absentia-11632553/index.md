@@ -2,7 +2,7 @@
 title: "Porcupine Tree - In Absentia"
 artist: "Porcupine Tree"
 album_name: "In Absentia"
-date: 2018-03-12
+date: 2018-03-12T19:33:13.000000Z
 release_id: "11632553"
 slug: "in-absentia-11632553"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Blackest Eyes (4:26)
 2. Trains (5:57)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Heartattack In A Layby (4:15)
 11. Strip The Soul (7:22)
 12. Collapse The Light Into Earth (5:52)
+
+
 ## Spotify
 {{< spotify type="album" id="38d7C2XIoUX0v5cU0HuSSW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="U8sfqB0J7i4" title="Porcupine Tree - In Absentia" >}}
@@ -44,7 +49,11 @@ styles: ["Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553-Porcupine-Tree-In-Absentia) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, Ltd, RE, RM, Whi |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 180g) |
 | Catalog Number | KSCOPE981 |
 
-[Liner Notes] "Remastered by Steven Wilson in November 2017." "The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "  Gatefold cover with printed inner sleeves. 
+[Liner Notes]
+"Remastered by Steven Wilson in November 2017."
+"The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "
+
+Gatefold cover with printed inner sleeves. 

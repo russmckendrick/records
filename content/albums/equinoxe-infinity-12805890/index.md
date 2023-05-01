@@ -2,7 +2,7 @@
 title: "Jean-Michel Jarre - Equinoxe Infinity"
 artist: "Jean-Michel Jarre"
 album_name: "Equinoxe Infinity"
-date: 2018-11-17
+date: 2018-11-17T10:44:45.000000Z
 release_id: "12805890"
 slug: "equinoxe-infinity-12805890"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Watchers (Movement 1)  (2:58)
 2. Flying Totems (Movement 2)  (3:54)
@@ -24,8 +25,12 @@ styles: ["Synth-pop"]
 8. The Opening (Movement 8) (4:16)
 9. Don’t Look Back (Movement 9)  (3:36)
 10. Equinoxe Infinity (Movement 10)  (7:35)
+
+
 ## Spotify
 {{< spotify type="album" id="4wc5RqHgN4VmoW0iulFneI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Z6mtx7vMdqQ" title="Jean-Michel Jarre - Flying Totems (Franci98my Remix)" >}}
@@ -51,7 +56,9 @@ styles: ["Synth-pop"]
 | Release Year   | 2018 |
 | Discogs Link   | [Jean-Michel Jarre - Equinoxe Infinity](https://www.discogs.com/release/12805890-Jean-Michel-Jarre-Equinoxe-Infinity) |
 | Label          | Columbia |
-| Format         | LP, Album, Fir |
+| Format         | Vinyl LP Album (First Cover) |
 | Catalog Number | 19075876451 |
 
-Pre-mastered with the new FiDef algorithm.  Made in the EU
+Pre-mastered with the new FiDef algorithm.
+
+Made in the EU

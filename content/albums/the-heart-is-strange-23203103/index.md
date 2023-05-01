@@ -2,7 +2,7 @@
 title: "xPropaganda - The Heart Is Strange"
 artist: "xPropaganda"
 album_name: "The Heart Is Strange"
-date: 2022-05-28
+date: 2022-05-28T05:40:45.000000Z
 release_id: "23203103"
 slug: "the-heart-is-strange-23203103"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. The Night (6:00)
 2. Chasing Utopia (5:24)
@@ -22,8 +23,12 @@ styles: ["Synth-pop"]
 6. No Ordinary Girl (4:43)
 7. The Wolves Are Returning (5:01)
 8. Ribbons Of Steel (9:42)
+
+
 ## Spotify
 {{< spotify type="album" id="1fSFgmvRFtrsezbIlp5zSw" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7LbjI2bJrhE" title="The Night" >}}
@@ -41,7 +46,5 @@ styles: ["Synth-pop"]
 | Release Year   | 2022 |
 | Discogs Link   | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103-xPropaganda-The-Heart-Is-Strange) |
 | Label          | ZTT |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | ZTTnovis1 |
-
-

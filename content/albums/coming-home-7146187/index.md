@@ -2,7 +2,7 @@
 title: "Leon Bridges - Coming Home"
 artist: "Leon Bridges"
 album_name: "Coming Home"
-date: 2015-08-09
+date: 2015-08-09T08:35:09.000000Z
 release_id: "7146187"
 slug: "coming-home-7146187"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Rhythm & Blues"]
 ---
+
 ## Tracklisting
 1. Coming Home
 2. Better Man
@@ -24,8 +25,12 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 8. Pull Away
 9. Twistin' & Groovin'
 10. River
+
+
 ## Spotify
 {{< spotify type="album" id="21KIagsx1ZvYcv0sVkEAWv" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="MTrKkqE9p1o" title="Leon Bridges - Coming Home (Official Music Video)" >}}
@@ -49,7 +54,9 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 | Release Year   | 2015 |
 | Discogs Link   | [Leon Bridges - Coming Home](https://www.discogs.com/release/7146187-Leon-Bridges-Coming-Home) |
 | Label          | Columbia |
-| Format         | LP, Album, 180 |
+| Format         | Vinyl LP Album (180 Gram) |
 | Catalog Number | 88875 08914 1 |
 
-180 gram vinyl with MP3 download.  All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP).
+180 gram vinyl with MP3 download.
+
+All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP).

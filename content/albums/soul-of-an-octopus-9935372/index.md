@@ -2,7 +2,7 @@
 title: "O.R.k. - Soul Of An Octopus"
 artist: "O.R.k."
 album_name: "Soul Of An Octopus"
-date: 2019-01-11
+date: 2019-01-11T11:11:56.000000Z
 release_id: "9935372"
 slug: "soul-of-an-octopus-9935372"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Too Numb
 2. Collapsing Hopes
@@ -23,8 +24,12 @@ styles: ["Prog Rock"]
 7. Just Another Bad Day
 8. Capture Or Reveal
 9. Till The Sunrise Comes
+
+
 ## Spotify
 {{< spotify type="album" id="5D1dbyrjgEoh1HUOmJtwTW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tkgIDo3z91U" title="ORk 2017 Soul of an Octopus" >}}
@@ -36,7 +41,5 @@ styles: ["Prog Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [O.R.k. - Soul Of An Octopus](https://www.discogs.com/release/9935372-ORk-Soul-Of-An-Octopus) |
 | Label          | RareNoise Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | RNR075LP |
-
-

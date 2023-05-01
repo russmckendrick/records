@@ -2,7 +2,7 @@
 title: "Gong - The Universe Also Collapses "
 artist: "Gong"
 album_name: "The Universe Also Collapses "
-date: 2019-05-10
+date: 2019-05-10T18:52:57.000000Z
 release_id: "13361745"
 slug: "the-universe-also-collapses-13361745"
 hideSummary: true
@@ -13,13 +13,18 @@ cover:
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
+
 ## Tracklisting
 1. Forever Reoccurring (20:37)
 2. If Never I'm And Ever You (2:07)
 3. My Sawtooth Wake (13:14)
 4. The Elemental (6:43)
+
+
 ## Spotify
 {{< spotify type="album" id="7226guTxXx7gkwbUgh7Zjz" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="gyjBBUZ5cwE" title="Forever Reoccurring" >}}
@@ -33,7 +38,11 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Release Year   | 2019 |
 | Discogs Link   | [Gong - The Universe Also Collapses ](https://www.discogs.com/release/13361745-Gong-The-Universe-Also-Collapses-) |
 | Label          | Kscope |
-| Format         | LP, Album, Ltd, Pin |
+| Format         | Vinyl LP Album Limited Edition (Pink) |
 | Catalog Number | KSCOPE1039 |
 
-Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.  Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.   Square pink hype sticker with white writing. All copies come with KSCOPE advertising card 10"x10"
+Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.
+
+Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.  
+Square pink hype sticker with white writing.
+All copies come with KSCOPE advertising card 10"x10"

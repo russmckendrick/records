@@ -2,7 +2,7 @@
 title: "Bruce Springsteen - Western Stars"
 artist: "Bruce Springsteen"
 album_name: "Western Stars"
-date: 2019-06-17
+date: 2019-06-17T17:30:47.000000Z
 release_id: "13744936"
 slug: "western-stars-13744936"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country", "Country Rock"]
 ---
+
 ## Tracklisting
 1. Hitch Hikin'
 2. The Wayfarer
@@ -27,8 +28,12 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 11. There Goes My Miracle
 12. Hello Sunshine
 13. Moonlight Motel
+
+
 ## Spotify
 {{< spotify type="album" id="6BhqPpIgY83rqoZ2L78Lte" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="tbDKBcPsmoQ" title="Bruce Springsteen - There Goes My Miracle (Lyric Video)" >}}
@@ -49,8 +54,26 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13744936-Bruce-Springsteen-Western-Stars) |
-| Label          | Columbia, Sony Music |
-| Format         | 2xLP, Album, Ltd, Blu |
+| Label          | Columbia |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue) |
 | Catalog Number | 19075960331 |
 
-Limited edition blue colored vinyl (light blue with dark blue and white splatters). Includes free digital download 19075960331 S2  Gatefold sleeve + 2 inner sleeves with lyrics and credits  On back cover & labels: © & ℗ 2019 Bruce Springsteen Made in the EU  On inner sleeve: Recorded at Stone Hill Studio, NJ Additional recording at: Ocean Studio (Burbank, CA) / Very Loud House (Woodland Hills, CA) / Avatar Studios (New York, NY) / Sage And Sound (Hollywood, CA) / Stone Hill Studio, NJ Mixed at Electric Lady Studios (New York, NY) Mastered at Gateway Mastering (Portland, ME)  On runouts: All is etched except GZ Media number 
+Limited edition blue colored vinyl (light blue with dark blue and white splatters).
+Includes free digital download
+19075960331 S2
+
+Gatefold sleeve + 2 inner sleeves with lyrics and credits
+
+On back cover & labels:
+© & ℗ 2019 Bruce Springsteen
+Made in the EU
+
+On inner sleeve:
+Recorded at Stone Hill Studio, NJ
+Additional recording at: Ocean Studio (Burbank, CA) / Very Loud House (Woodland Hills, CA) / Avatar Studios (New York, NY) / Sage And Sound (Hollywood, CA) / Stone Hill Studio, NJ
+Mixed at Electric Lady Studios (New York, NY)
+Mastered at Gateway Mastering (Portland, ME)
+
+On runouts:
+All is etched except GZ Media number
+

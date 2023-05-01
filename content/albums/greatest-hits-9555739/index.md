@@ -2,7 +2,7 @@
 title: "Eurythmics - Greatest Hits"
 artist: "Eurythmics"
 album_name: "Greatest Hits"
-date: 2017-01-20
+date: 2017-01-20T17:08:25.000000Z
 release_id: "9555739"
 slug: "greatest-hits-9555739"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Synth-pop", "Pop Rock"]
 ---
+
 ## Tracklisting
 1. Love Is A Stranger (3:40)
 2. Sweet Dreams (Are Made Of This) (4:50)
@@ -32,8 +33,12 @@ styles: ["Synth-pop", "Pop Rock"]
 16. Would I Lie To You? (4:22)
 17. Missionary Man (3:45)
 18. I Need A Man (4:21)
+
+
 ## Spotify
 {{< spotify type="album" id="1moeActSxQQhEdAVIClRBm" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Z5rFDibmeQk" title="Eurythmics - When Tomorrow Comes [Lyrics]" >}}
@@ -57,8 +62,11 @@ styles: ["Synth-pop", "Pop Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Eurythmics - Greatest Hits](https://www.discogs.com/release/9555739-Eurythmics-Greatest-Hits) |
-| Label          | Legacy, Sony Music |
-| Format         | 2xLP, Comp, RE, 180 |
+| Label          | Legacy |
+| Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Catalog Number | 88985370421 |
 
-Sticker on plastic wrap: "Legacy Vinyl - 180 Gram Superior Audio Quality".  Made in the EU.
+Sticker on plastic wrap:
+"Legacy Vinyl - 180 Gram Superior Audio Quality".
+
+Made in the EU.

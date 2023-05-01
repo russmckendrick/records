@@ -2,7 +2,7 @@
 title: "Black Midi - Hellfire"
 artist: "Black Midi"
 album_name: "Hellfire"
-date: 2022-08-01
+date: 2022-08-01T06:02:49.000000Z
 release_id: "23908982"
 slug: "hellfire-23908982"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Hellfire
 2. Hellfire
@@ -27,8 +28,12 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 11. 27 Questions
 12. Flexi-disc
 13. Chondromalacia Patella (Live at Electrical Audio)
+
+
 ## Spotify
 {{< spotify type="album" id="68z6MWYYNmvTcru1QMcYId" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Efmq_uXt1Rk" title="black midi - Welcome To Hell" >}}
@@ -43,8 +48,10 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Black Midi - Hellfire](https://www.discogs.com/release/23908982-Black-Midi-Hellfire) |
-| Label          | Rough Trade, Rough Trade |
-| Format         | LP, Album, Red + Flexi, 7\", S/Sided, Ora + Ltd, S/ |
-| Catalog Number | RT0321LPE, RT0346SE |
+| Label          | Rough Trade |
+| Format         | Vinyl LP Album (Red), Flexi-disc 7" 45 RPM Single Sided (Orange), All Media Limited Edition Special Edition |
+| Catalog Number | RT0321LPE |
 
-Pressed on transparent red vinyl. Many copies came pressed on opaque red vinyl.  Bundled with an orange flexi-disc [r=23998898] exclusive to Black Midi's Webstore and Bandcamp page. Housed in a gatefold sleeve and includes an extra hype sticker inside. Side A ends with a locked groove. Track B1 'Half Time' is only mentioned in the lyrics and credits section on the sleeve.
+Pressed on transparent red vinyl. Many copies came pressed on opaque red vinyl.
+
+Bundled with an orange flexi-disc [r=23998898] exclusive to Black Midi's Webstore and Bandcamp page. Housed in a gatefold sleeve and includes an extra hype sticker inside. Side A ends with a locked groove. Track B1 'Half Time' is only mentioned in the lyrics and credits section on the sleeve.

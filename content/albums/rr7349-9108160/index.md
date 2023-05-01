@@ -2,7 +2,7 @@
 title: "Survive - RR7349"
 artist: "Survive"
 album_name: "RR7349"
-date: 2016-09-26
+date: 2016-09-26T17:22:54.000000Z
 release_id: "9108160"
 slug: "rr7349-9108160"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Minimal", "Experimental", "Synthwave"]
 ---
+
 ## Tracklisting
 1. A.H.B (4:25)
 2. Other (3:43)
@@ -23,6 +24,9 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 7. Low Fog (4:40)
 8. Copter (6:36)
 9. Cutthroat (4:02)
+
+
+
 
 ## Videos
 {{< youtube id="QG8tmtjLMgg" title="S U R V I V E - RR7349 - 1 - A. H. B." >}}
@@ -42,7 +46,9 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 | Release Year   | 2016 |
 | Discogs Link   | [Survive - RR7349](https://www.discogs.com/release/9108160-S-U-R-V-I-V-E-RR7349) |
 | Label          | Relapse Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | RR7349 |
 
-Made in EU  Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp).
+Made in EU
+
+Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp).

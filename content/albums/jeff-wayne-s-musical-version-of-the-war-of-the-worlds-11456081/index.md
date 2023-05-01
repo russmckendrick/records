@@ -2,7 +2,7 @@
 title: "Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds"
 artist: "Jeff Wayne"
 album_name: "Jeff Wayne's Musical Version Of The War Of The Worlds"
-date: 2018-01-26
+date: 2018-01-26T20:03:07.000000Z
 release_id: "11456081"
 slug: "jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ---
+
 ## Tracklisting
 1. The Coming Of The Martians
 2. The Eve Of The War
@@ -30,8 +31,12 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 14. Dead London (Part 2)
 15. Epilogue (Part 1)
 16. Epilogue (Part 2) (NASA)
+
+
 ## Spotify
 {{< spotify type="album" id="7ligZljXfUtcKPCotWul5g" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Wayne's Musical Version - Full Musical" >}}
@@ -44,7 +49,9 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 | Release Year   | 2018 |
 | Discogs Link   | [Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds](https://www.discogs.com/release/11456081-Jeff-Wayne-Jeff-Waynes-Musical-Version-Of-The-War-Of-The-Worlds) |
 | Label          | Sony Music |
-| Format         | 2xLP, Album, RE, Gat |
+| Format         | Vinyl 2× LP Album Reissue (Gatefold, 180ɢ) |
 | Catalog Number | 88985449431 |
 
-Includes full colour 16-page booklet. ℗ 2005 & © 2017 Made in the EU
+Includes full colour 16-page booklet.
+℗ 2005 & © 2017
+Made in the EU

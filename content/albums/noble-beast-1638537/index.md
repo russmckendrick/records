@@ -2,7 +2,7 @@
 title: "Andrew Bird - Noble Beast"
 artist: "Andrew Bird"
 album_name: "Noble Beast"
-date: 2016-02-11
+date: 2016-02-11T20:06:19.000000Z
 release_id: "1638537"
 slug: "noble-beast-1638537"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Oh No (4:21)
 2. Master Swarm (6:36)
@@ -28,8 +29,12 @@ styles: ["Indie Rock"]
 12. The Privateers (3:24)
 13. Souverian (7:18)
 14. On Ho! (1:08)
+
+
 ## Spotify
 {{< spotify type="album" id="6mBVlPWGqKYGGTVsSxPWPW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="kSOKpw9Y2GY" title="Oh No" >}}
@@ -46,7 +51,7 @@ styles: ["Indie Rock"]
 | Release Year   | 2009 |
 | Discogs Link   | [Andrew Bird - Noble Beast](https://www.discogs.com/release/1638537-Andrew-Bird-Noble-Beast) |
 | Label          | Fat Possum Records |
-| Format         | 2xLP, Album, Gat |
+| Format         | Vinyl 2× LP Album (Gatefold) |
 | Catalog Number | 1124-1 |
 
 Lightweight paper disc sleeves have artwork on one side and track list and lyrics on the other.

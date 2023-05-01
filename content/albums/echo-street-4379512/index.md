@@ -2,7 +2,7 @@
 title: "Amplifier - Echo Street"
 artist: "Amplifier"
 album_name: "Echo Street"
-date: 2015-08-09
+date: 2015-08-09T08:50:23.000000Z
 release_id: "4379512"
 slug: "echo-street-4379512"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Matmos
 2. The Wheel
@@ -22,8 +23,9 @@ styles: ["Prog Rock", "Alternative Rock"]
 6. Between Today And Yesterday
 7. Echo Street
 8. Mary Rose
-## Spotify
-{{< spotify type="album" id="6LOPpC9CFLLOaPG7P2X5NB" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="mOzRzoE-F5Y" title="Amplifier (Echo Street) - Where the river goes" >}}
@@ -34,7 +36,20 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [Amplifier - Echo Street](https://www.discogs.com/release/4379512-Amplifier-Echo-Street) |
 | Label          | Kscope |
-| Format         | 2xLP, Album, 180 |
+| Format         | Vinyl 2× LP Album (180 g) |
 | Catalog Number | KSCOPE837 |
 
-Comes in gatefold sleeve with full color inner sleeves.   Copies preordered from the Ampcorp Industries web store come signed by all four band members.  Copies ordered from Burning Shed include a download card.  ℗ & © 2013 Ampcorp Industries Kscope is a Snapper Music label www.kscopemusic.com www.amplifierband.com www.ampcorp-industries.com  Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835  (which is the cat# for "Steven Wilson - The Raven That Refused To Sing").
+Comes in gatefold sleeve with full color inner sleeves. 
+
+Copies preordered from the Ampcorp Industries web store come signed by all four band members.
+
+Copies ordered from Burning Shed include a download card.
+
+℗ & © 2013 Ampcorp Industries
+Kscope is a Snapper Music label
+www.kscopemusic.com
+www.amplifierband.com
+www.ampcorp-industries.com
+
+Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835 
+(which is the cat# for "Steven Wilson - The Raven That Refused To Sing").

@@ -2,7 +2,7 @@
 title: "Dinosaur Jr. - Where You Been"
 artist: "Dinosaur Jr."
 album_name: "Where You Been"
-date: 2017-06-04
+date: 2017-06-04T10:36:38.000000Z
 release_id: "5474712"
 slug: "where-you-been-5474712"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Out There (5:53)
 2. Start Choppin (5:38)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Hide (4:11)
 9. Goin Home (4:15)
 10. I Ain't Sayin (2:29)
+
+
 ## Spotify
 {{< spotify type="album" id="5mJss6O9hjbeESfqoBX1xM" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}
@@ -39,7 +44,7 @@ styles: ["Alternative Rock"]
 | Release Year   | 2013 |
 | Discogs Link   | [Dinosaur Jr. - Where You Been](https://www.discogs.com/release/5474712-Dinosaur-Jr-Where-You-Been) |
 | Label          | Vinyl 180 |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Catalog Number | VIN180LP069 |
 
 Made in England.

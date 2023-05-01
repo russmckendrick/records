@@ -2,7 +2,7 @@
 title: "The Black Crowes - Shake Your Money Maker"
 artist: "The Black Crowes"
 album_name: "Shake Your Money Maker"
-date: 2015-12-19
+date: 2015-12-19T11:37:04.000000Z
 release_id: "7864739"
 slug: "shake-your-money-maker-7864739"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Rock & Roll", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. Twice As Hard (4:09)
 2. Jealous Again (4:35)
@@ -24,16 +25,20 @@ styles: ["Rock & Roll", "Hard Rock"]
 8. She Talks To Angels (5:30)
 9. Struttin' Blues (4:10)
 10. Stare It Cold (5:15)
+
+
 ## Spotify
 {{< spotify type="album" id="2NRRQLuW6j3EsoWpIl2MR3" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="XLg7aoGAkkk" title="The Black Crowes - Twice As Hard" >}}
+{{< youtube id="BRcs_OzQb14" title="The Black Crowes - Hard To Handle" >}}
+- [The Black Crowes - She Talks To Angels (Official Video)](https://www.youtube.com/watch?v=H58gMiQQRm0)
+- [The Black Crowes - Twice As Hard](https://www.youtube.com/watch?v=XLg7aoGAkkk)
 - [Jealous Again](https://www.youtube.com/watch?v=p0J4hxqiiho)
 - [Sister Luck](https://www.youtube.com/watch?v=2AkDHA-JKkY)
-- [The Black Crowes - Hard To Handle](https://www.youtube.com/watch?v=BRcs_OzQb14)
 - [Thick N' Thin](https://www.youtube.com/watch?v=78ICN03p6vg)
-- [The Black Crowes - She Talks To Angels (Official Video)](https://www.youtube.com/watch?v=H58gMiQQRm0)
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 
@@ -43,7 +48,7 @@ styles: ["Rock & Roll", "Hard Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [The Black Crowes - Shake Your Money Maker](https://www.discogs.com/release/7864739-The-Black-Crowes-Shake-Your-Money-Maker) |
 | Label          | American Recordings |
-| Format         | LP, Album, RE, 180 |
+| Format         | Vinyl LP Album Reissue (180 gram) |
 | Catalog Number | B0018989-01 |
 
 2015 Reissue released by American Recordings

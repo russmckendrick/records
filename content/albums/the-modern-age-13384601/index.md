@@ -2,7 +2,7 @@
 title: "Sleeper - The Modern Age"
 artist: "Sleeper"
 album_name: "The Modern Age"
-date: 2019-03-23
+date: 2019-03-23T13:39:12.000000Z
 release_id: "13384601"
 slug: "the-modern-age-13384601"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
+
 ## Tracklisting
 1. Paradise Waiting
 2. Look At You Now
@@ -24,8 +25,9 @@ styles: ["Indie Rock", "Britpop"]
 8. Blue Like You
 9. More Than I Do
 10. Big Black Sun
-## Spotify
-{{< spotify type="album" id="7fKUzNHdKAZWz4U8XyRWfM" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="czLvTGLcyHE" title="SLEEPER 'THE SUN ALSO RISES' Official video" >}}
@@ -36,8 +38,17 @@ styles: ["Indie Rock", "Britpop"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [Sleeper - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-The-Modern-Age) |
-| Label          | Gorsky Records, Gorsky Records |
-| Format         | LP, Album, Ltd, Cre |
-| Catalog Number | SLEEP19LPC2, SLEEP19LP |
+| Label          | Gorsky Records |
+| Format         | Vinyl LP Album Limited Edition (Cream) |
+| Catalog Number | SLEEP19LPC2 |
 
-"Indies only" limited edition cream coloured vinyl. Issued in a matte sleeve. Picture/lyric inner sleeve of matte card. Barcode over-sticker applied to shrink-wrap. Some copies were made available which were signed by the members of the band.  Label cat# SLEEP19LP on the labels center (side B) and on the back cover. Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.  Mixed by Stephen Street at The Bunker Made in the EU.
+"Indies only" limited edition cream coloured vinyl.
+Issued in a matte sleeve. Picture/lyric inner sleeve of matte card.
+Barcode over-sticker applied to shrink-wrap.
+Some copies were made available which were signed by the members of the band.
+
+Label cat# SLEEP19LP on the labels center (side B) and on the back cover.
+Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.
+
+Mixed by Stephen Street at The Bunker
+Made in the EU.

@@ -2,7 +2,7 @@
 title: "The Stone Roses - Second Coming"
 artist: "The Stone Roses"
 album_name: "Second Coming"
-date: 2016-03-23
+date: 2016-03-23T12:58:18.000000Z
 release_id: "3852822"
 slug: "second-coming-3852822"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Breaking Into Heaven (11:21)
 2. Driving South (5:09)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Tears (6:50)
 11. How Do You Sleep (4:59)
 12. Love Spreads (5:46)
+
+
 ## Spotify
 {{< spotify type="album" id="3DE7aixVSE6DZ6ALYIztT0" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="7nu5YLoaxHc" title="Breaking Into Heaven" >}}
@@ -47,7 +52,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2012 |
 | Discogs Link   | [The Stone Roses - Second Coming](https://www.discogs.com/release/3852822-The-Stone-Roses-Second-Coming) |
 | Label          | Geffen Records |
-| Format         | 2xLP, Album, RE, 180 |
+| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Catalog Number | 0600753385166 |
 
-Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.  ℗ 1994 Geffen Records, Inc. © 1994 Geffen Records, Inc. Made in the EU.  Durations not on release. Runouts are stamped. 
+Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.
+
+℗ 1994 Geffen Records, Inc.
+© 1994 Geffen Records, Inc.
+Made in the EU.
+
+Durations not on release.
+Runouts are stamped.
+

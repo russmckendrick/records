@@ -2,7 +2,7 @@
 title: "The Helicopter Of The Holy Ghost - Afters"
 artist: "The Helicopter Of The Holy Ghost"
 album_name: "Afters"
-date: 2021-10-04
+date: 2021-10-04T04:59:28.000000Z
 release_id: "19860235"
 slug: "afters-19860235"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
+
 ## Tracklisting
 1. Slow Down
 2. Difficult Song
@@ -23,8 +24,12 @@ styles: ["Indie Rock"]
 7. End Of Loneliness
 8. You Too
 9. I Didn't
+
+
 ## Spotify
 {{< spotify type="album" id="3zsPhudoRtO6NiywBeWUeV" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="e5HTe6s51_c" title="I Didn't" >}}
@@ -42,7 +47,5 @@ styles: ["Indie Rock"]
 | Release Year   | 2021 |
 | Discogs Link   | [The Helicopter Of The Holy Ghost - Afters](https://www.discogs.com/release/19860235-The-Helicopter-Of-The-Holy-Ghost-Afters) |
 | Label          | Kscope |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | KSCOPE1120 |
-
-

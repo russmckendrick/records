@@ -2,7 +2,7 @@
 title: "Split Enz - Waiata"
 artist: "Split Enz"
 album_name: "Waiata"
-date: 2016-01-29
+date: 2016-01-29T18:22:31.000000Z
 release_id: "2684571"
 slug: "waiata-2684571"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
+
 ## Tracklisting
 1. Hard Act To Follow (3:17)
 2. One Step Ahead (2:52)
@@ -25,8 +26,12 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 9. Ships (3:01)
 10. Ghost Girl (4:26)
 11. Albert Of India (4:05)
+
+
 ## Spotify
 {{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="pF72BXV2quw" title="Split Enz - Iris" >}}
@@ -43,7 +48,10 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 | Release Year   | 1981 |
 | Discogs Link   | [Split Enz - Waiata](https://www.discogs.com/release/2684571-Split-Enz-Waiata) |
 | Label          | A&M Records |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | AMLH 64848 |
 
-Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England.
+Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].
+
+Recorded and mixed July to December 1980.
+Made in England.

@@ -2,7 +2,7 @@
 title: "The Mighty Mighty Bosstones - Don't Know How To Party"
 artist: "The Mighty Mighty Bosstones"
 album_name: "Don't Know How To Party"
-date: 2019-06-04
+date: 2019-06-04T17:10:02.000000Z
 release_id: "13667166"
 slug: "don-t-know-how-to-party-13667166"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
+
 ## Tracklisting
 1. Our Only Weapon (3:02)
 2. Last Dead Mouse (3:38)
@@ -26,6 +27,9 @@ styles: ["Ska", "Punk"]
 10. Issachar (3:45)
 11. What Was Was Over (2:58)
 12. Seven Thirty Seven / Shoe Glue (4:30)
+
+
+
 
 ## Videos
 {{< youtube id="Mvav4aPv0-s" title="Someday I Suppose" >}}
@@ -46,8 +50,15 @@ styles: ["Ska", "Punk"]
 | ---------------| ----------- |
 | Release Year   | 2019 |
 | Discogs Link   | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166-The-Mighty-Mighty-Bosstones-Dont-Know-How-To-Party) |
-| Label          | Music On Vinyl, Mercury, Universal Music |
-| Format         | LP, Album, RE |
+| Label          | Music On Vinyl |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | MOVLP2292 |
 
-180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU.
+180 gram black vinyl reissue. Includes an insert with lyrics and credits.
+
+Produced and recorded for Platinum Tones.
+Recorded at Dreamland Studios, Woodstock, NY.
+Mixed at Battery Studios, NYC.
+
+Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V.
+Made in the EU.

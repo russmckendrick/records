@@ -2,7 +2,7 @@
 title: "Angelo Badalamenti - Blue Velvet (Original Motion Picture Soundtrack)"
 artist: "Angelo Badalamenti"
 album_name: "Blue Velvet (Original Motion Picture Soundtrack)"
-date: 2017-09-08
+date: 2017-09-08T18:25:49.000000Z
 release_id: "10658310"
 slug: "blue-velvet-original-motion-picture-soundtrack-10658310"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Jazz", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ---
+
 ## Tracklisting
 1. Main Title (1:27)
 2. Night Streets / Sandy And Jeffrey (3:42)
@@ -30,8 +31,12 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 14. In Dreams (2:48)
 15. Love Letters (2:36)
 16. Mysteries Of Love (4:22)
+
+
 ## Spotify
 {{< spotify type="album" id="7dFwoDgO6X2veAYg6rzBI9" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="HNXjgKA6mn8" title="Blue Velvet: Main Title Theme (From Blue Velvet)" >}}
@@ -47,7 +52,14 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 | Release Year   | 2017 |
 | Discogs Link   | [Angelo Badalamenti - Blue Velvet (Original Motion Picture Soundtrack)](https://www.discogs.com/release/10658310-Angelo-Badalamenti-Blue-Velvet-Original-Motion-Picture-Soundtrack) |
 | Label          | Fire Records |
-| Format         | LP, Album, Ltd, RE, Blu |
+| Format         | Vinyl LP Album Limited Edition Reissue (Blue/Black Split) |
 | Catalog Number | FROST003LP |
 
-De Laurentiis Music-ASCAP except: - B1.a: Vogue Music c/o The Welk Music Group (BMI) ℗ 1951 Vogue Music Corp. - B4: W & K Publishing Corp. & Islip Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp. - B5: Acuff Rose & Opryland Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp. - B6: Famous Music Corp. (ASCAP). Courtesy of Dominion Entertainment, Inc. ℗ 1986 Dominion Entertainment, Inc.  Manufactured by Varèse Sarabande Records, Inc. at KM Records. ℗ © 1986 Dino De Laurentiis Corporation.
+De Laurentiis Music-ASCAP except:
+- B1.a: Vogue Music c/o The Welk Music Group (BMI) ℗ 1951 Vogue Music Corp.
+- B4: W & K Publishing Corp. & Islip Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp.
+- B5: Acuff Rose & Opryland Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp.
+- B6: Famous Music Corp. (ASCAP). Courtesy of Dominion Entertainment, Inc. ℗ 1986 Dominion Entertainment, Inc.
+
+Manufactured by Varèse Sarabande Records, Inc. at KM Records.
+℗ © 1986 Dino De Laurentiis Corporation.

@@ -2,7 +2,7 @@
 title: "Mark Morriss - The Taste Of Mark Morriss"
 artist: "Mark Morriss"
 album_name: "The Taste Of Mark Morriss"
-date: 2015-12-15
+date: 2015-12-15T18:07:13.000000Z
 release_id: "7449821"
 slug: "the-taste-of-mark-morriss-7449821"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1. This Pullover
 2. Rock And Roll Woman
@@ -26,8 +27,12 @@ styles: ["Indie Pop"]
 10. Don't Let Go
 11. Love Comes Quickly
 12. Good Advices
+
+
 ## Spotify
 {{< spotify type="album" id="7cpe14MkhUj8KSVnhRAjfg" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="6RGWoXzmp7k" title="Souvenir" >}}
@@ -40,7 +45,5 @@ styles: ["Indie Pop"]
 | Release Year   | 2015 |
 | Discogs Link   | [Mark Morriss - The Taste Of Mark Morriss](https://www.discogs.com/release/7449821-Mark-Morriss-The-Taste-Of-Mark-Morriss) |
 | Label          | Acid Jazz |
-| Format         | LP, Album |
+| Format         | Vinyl LP Album |
 | Catalog Number | AJXLP375 |
-
-

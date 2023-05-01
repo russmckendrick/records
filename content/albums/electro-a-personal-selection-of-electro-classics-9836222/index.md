@@ -2,7 +2,7 @@
 title: "Various - Electro (A Personal Selection Of Electro Classics)"
 artist: "Various"
 album_name: "Electro (A Personal Selection Of Electro Classics)"
-date: 2017-02-22
+date: 2017-02-22T18:01:26.000000Z
 release_id: "9836222"
 slug: "electro-a-personal-selection-of-electro-classics-9836222"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop"]
 styles: ["Electro"]
 ---
+
 ## Tracklisting
 1. Al Naafiyish (The Soul)
 2. Release Yourself
@@ -22,6 +23,9 @@ styles: ["Electro"]
 6. This Party's Jam Packed
 7. Feel The Force
 8. The Smurf
+
+
+
 
 ## Videos
 {{< youtube id="i46sF1PcqL8" title="Hashim - Al Naafiysh (The Soul)" >}}
@@ -52,7 +56,7 @@ styles: ["Electro"]
 | Release Year   | 2017 |
 | Discogs Link   | [Various - Electro (A Personal Selection Of Electro Classics)](https://www.discogs.com/release/9836222-Various-Electro-A-Personal-Selection-Of-Electro-Classics) |
 | Label          | Z Records |
-| Format         | 2x12\", Comp |
+| Format         | Vinyl 2× 12" Compilation |
 | Catalog Number | ZEDDLP040 |
 
 Gatefold sleeve.

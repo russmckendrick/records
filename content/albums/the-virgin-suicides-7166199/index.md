@@ -2,7 +2,7 @@
 title: "AIR - The Virgin Suicides"
 artist: "AIR"
 album_name: "The Virgin Suicides"
-date: 2017-02-15
+date: 2017-02-15T18:29:41.000000Z
 release_id: "7166199"
 slug: "the-virgin-suicides-7166199"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 ---
+
 ## Tracklisting
 1. The Virgin Suicides (Original Motion Picture Score)
 2. Playground Love (3:32)
@@ -71,12 +72,16 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 55. Dead Bodies (Live L.A Jan 2000)	 (2:21)
 56. Cemetary Party (Live L.A Jan 2000) (3:21)
 57. Suicide Underground (Live L.A Jan 2000) (7:01)
+
+
 ## Spotify
 {{< spotify type="album" id="2E1q8eohZZ1BUQ7Bq5WUIY" width="100%" height="500" >}}
 
+
+
 ## Videos
-{{< youtube id="NAgX1jO3No0" title="AIR - Playground Love (Official Video)" >}}
-- [Air Original Motion Picture Score for The virgin Suicides  FULL ALBUM    YouTube](https://www.youtube.com/watch?v=Q3c2hG59q3o)
+{{< youtube id="CmK7LxBnlg8" title="AIR  -  The Virgin Suicides  OST  -  ((( FULL ALBUM )))" >}}
+- [AIR - Playground Love (Official Video)](https://www.youtube.com/watch?v=NAgX1jO3No0)
 - [Air - Empty House (Official Audio)](https://www.youtube.com/watch?v=lCRo8RLZ8dA)
 - [Air - Suicide Underground (Official Audio)](https://www.youtube.com/watch?v=qquFdHCxArA)
 - [Air - Highschool Lover (Official Audio)](https://www.youtube.com/watch?v=lXFEVqi4iPE)
@@ -93,8 +98,10 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [AIR - The Virgin Suicides](https://www.discogs.com/release/7166199-AIR-The-Virgin-Suicides) |
-| Label          | Aircheology, Parlophone |
-| Format         | Box, Dlx, Ltd, 15t + LP, Album, RE, RM, Red + LP,  |
+| Label          | Aircheology |
+| Format         | Box Set Deluxe Edition Limited Edition (15th Anniversary), Vinyl LP Album Reissue Remastered (Red), Vinyl LP Album Picture Disc, Vinyl 12" 45 RPM EP Reissue (Red), CD Album Reissue Remastered, CD Album |
 | Catalog Number | 0825646152339 |
 
-15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.  This differs from [this version](http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513) as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English
+15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.
+
+This differs from [url=http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513]this version[/url] as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English

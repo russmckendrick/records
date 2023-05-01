@@ -2,7 +2,7 @@
 title: "Goldfrapp - Felt Mountain"
 artist: "Goldfrapp"
 album_name: "Felt Mountain"
-date: 2021-04-01
+date: 2021-04-01T00:48:31.000000Z
 release_id: "7718066"
 slug: "felt-mountain-7718066"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Downtempo", "Ethereal"]
 ---
+
 ## Tracklisting
 1. Lovely Head
 2. Paper Bag
@@ -23,8 +24,12 @@ styles: ["Leftfield", "Downtempo", "Ethereal"]
 7. Oompa Radar
 8. Utopia
 9. Horse Tears
+
+
 ## Spotify
 {{< spotify type="album" id="6cJfHiiiH0fH6Ly5uRE902" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="jw3Z-kUMC7g" title="Paper Bag" >}}
@@ -41,8 +46,30 @@ styles: ["Leftfield", "Downtempo", "Ethereal"]
 | ---------------| ----------- |
 | Release Year   | 2015 |
 | Discogs Link   | [Goldfrapp - Felt Mountain](https://www.discogs.com/release/7718066-Goldfrapp-Felt-Mountain) |
-| Label          | Mute, Mute |
-| Format         | LP, Album, RE, Whi |
-| Catalog Number | STUMM188X, 5414939924460 |
+| Label          | Mute |
+| Format         | Vinyl LP Album Reissue (White, 180g) |
+| Catalog Number | STUMM188X |
 
-Inner Sleeve: All tracks written, performed, & produced by Will Gregory and Alison Goldfrapp. Except *  All tracks recorded and mixed at home and at the bungalow except for: Human vocal recorded at Christchurch Studios. Deer Stop mixed at 'The Instrument'. Utopia mixed at 'Eden Studios'. Additional Mixing: Utopia - Dave Bascombe, Human - Nick Batt, Deer Stop & Paper Bag - Kevin Paul. Additional Engineering: Nick Batt, Luke Gordon, Kevin Paul, David Lord. *Human (Norfolk/Locke/Goldfrapp/Gregory) Bug Music Ltd/Copyright Control. Inside photo of Will Gregory & front cover by Joe Dillworth, inside photo of Alison Goldfrapp by Anna Fox, landscape photography by Ⓒ C.L.Schmidt & Gunter Graefenhain, / britstock IFA.  Our many thanks to Steve Claydon, Colin Wallace, Daniel Miller & everyone at Mute, John Parish, Adrian Utley, Carole Pearson, Nick Batt, Anna Fox, Joe Dillworth, and all the musicians who played on this album. Alison thanks Ma, Pa and Family, Sir Steve, all the old girls, Ennio, Hazel and all my mates xxxx. Will thanks Carole Pearson, Hazel Grian & Sergio Leone.  Outer Sleeve: Ⓟ 2000 Mute Records Ltd., a BMG Company Ⓒ 2015 Mute Records Ltd., a BMG Company Made in the EU.  Sticker states: "Heavyweight 180 Gram White Vinyl STUMM188X"
+Inner Sleeve:
+All tracks written, performed, & produced by Will Gregory and Alison Goldfrapp.
+Except *
+
+All tracks recorded and mixed at home and at the bungalow except for: Human vocal recorded at Christchurch Studios. Deer Stop mixed at 'The Instrument'. Utopia mixed at 'Eden Studios'.
+Additional Mixing: Utopia - Dave Bascombe, Human - Nick Batt, Deer Stop & Paper Bag - Kevin Paul. Additional Engineering: Nick Batt, Luke Gordon, Kevin Paul, David Lord.
+*Human (Norfolk/Locke/Goldfrapp/Gregory) Bug Music Ltd/Copyright Control.
+Inside photo of Will Gregory & front cover by Joe Dillworth, inside photo of Alison Goldfrapp by Anna Fox, landscape photography by Ⓒ C.L.Schmidt & Gunter Graefenhain, / britstock IFA.
+
+Our many thanks to Steve Claydon, Colin Wallace, Daniel Miller & everyone at Mute, John Parish, Adrian Utley, Carole Pearson, Nick Batt, Anna Fox, Joe Dillworth, and all the musicians who played on this album.
+Alison thanks Ma, Pa and Family, Sir Steve, all the old girls, Ennio, Hazel and all my mates xxxx.
+Will thanks Carole Pearson, Hazel Grian & Sergio Leone.
+
+Outer Sleeve:
+Ⓟ 2000 Mute Records Ltd., a BMG Company
+Ⓒ 2015 Mute Records Ltd., a BMG Company
+Made in the EU.
+
+Sticker states:
+"Heavyweight
+180 Gram
+White Vinyl
+STUMM188X"

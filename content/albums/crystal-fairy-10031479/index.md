@@ -2,7 +2,7 @@
 title: "Crystal Fairy - Crystal Fairy"
 artist: "Crystal Fairy"
 album_name: "Crystal Fairy"
-date: 2017-04-11
+date: 2017-04-11T17:18:59.000000Z
 release_id: "10031479"
 slug: "crystal-fairy-10031479"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "Crystal Fairy by Crystal Fairy"
     caption: "Crystal Fairy by Crystal Fairy"
 genres: ["Rock"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Chiseler
 2. Drugs On The Bus
@@ -25,8 +26,12 @@ styles: null
 9. Posesión
 10. Sweet Self
 11. Vampire X-Mass
+
+
 ## Spotify
 {{< spotify type="album" id="5IShQJXhZCvqviakBf1ViX" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="_VYnkOJrjUY" title="Chiseler" >}}
@@ -47,7 +52,15 @@ styles: null
 | Release Year   | 2017 |
 | Discogs Link   | [Crystal Fairy - Crystal Fairy](https://www.discogs.com/release/10031479-Crystal-Fairy-Crystal-Fairy) |
 | Label          | Ipecac Recordings |
-| Format         | LP, Album, Ltd, Lav |
+| Format         | Vinyl LP Album Limited Edition (Lavender) |
 | Catalog Number | IPC-180LP-LV / IPC-180 |
 
-Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi".
+Limited edition on lavender vinyl.
+Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through.
+Comes with fold out insert with lyrics and credits.
+Comes with digital download card.
+Black paper inner sleeve.
+Tracks are numbered 1-11.
+Special Thanks:
+Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou.
+Toshi Kasai's name is misspelled in the credits as "Toshi Kasi".

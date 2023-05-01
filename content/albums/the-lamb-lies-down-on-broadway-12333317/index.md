@@ -2,7 +2,7 @@
 title: "Genesis - The Lamb Lies Down On Broadway"
 artist: "Genesis"
 album_name: "The Lamb Lies Down On Broadway"
-date: 2018-08-03
+date: 2018-08-03T18:44:32.000000Z
 release_id: "12333317"
 slug: "the-lamb-lies-down-on-broadway-12333317"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
+
 ## Tracklisting
 1. The Lamb Lies Down On Broadway
 2. Fly On A Windshield
@@ -37,28 +38,30 @@ styles: ["Prog Rock", "Symphonic Rock"]
 21. Riding The Scree
 22. In The Rapids
 23. It
+
+
 ## Spotify
 {{< spotify type="album" id="49BxISwAbZZfmlhqD6Vh88" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="2yUN6CsuVPw" title="Genesis - The Carpet Crawlers" >}}
-- [The Musical Box The Lamb Lies Down on Broadway FULL SHOW HD](https://www.youtube.com/watch?v=OlX4moDYEmA)
-- [Genesis   The Lamb Lies Down On Broadway Full Remastered Album 1974](https://www.youtube.com/watch?v=IlGnv_Mxnko)
-- [Genesis - The Lamia (Official Audio)](https://www.youtube.com/watch?v=mBuVlOVJUYI)
-- [Genesis - The Carpet Crawlers (Official Live Video)](https://www.youtube.com/watch?v=q4yHUVPV4eQ)
-- [Genesis - The Lamb Lies Down on Broadway (Live)](https://www.youtube.com/watch?v=f-ooz4n1yaE)
-- [Genesis - Back in N.Y.C.](https://www.youtube.com/watch?v=fllf-WMB0hY)
-- [Genesis - Carpet Crawlers 1999 (Official Music Video)](https://www.youtube.com/watch?v=VmEGGIqWbbs)
-- [Peter Gabriel...The Carpet Crawlers.](https://www.youtube.com/watch?v=44b_Xr0fNwQ)
-- [Genesis - The Lamb Lies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=hioAbdhfN_w)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Genesis - The Lamb Lies Down On Broadway](https://www.discogs.com/release/12333317-Genesis-The-Lamb-Lies-Down-On-Broadway) |
-| Label          | Charisma, UMC |
-| Format         | 2xLP, Album, Mono, MP, RE, Gat |
+| Label          | Charisma |
+| Format         | Vinyl 2× LP Album Mispress Reissue Stereo Mono (Gatefold, 180 Gram) |
 | Catalog Number | 602567489856 |
 
-Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.  Printed on center label of record one: "6478992 Record One" Printed on center label of record two: "6749005 Record One" Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.  ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Comes with download code.  Made in the Eu
+Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.
+
+Printed on center label of record one: "6478992 Record One"
+Printed on center label of record two: "6749005 Record One"
+Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.
+
+ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.
+
+Comes with download code.
+
+Made in the Eu

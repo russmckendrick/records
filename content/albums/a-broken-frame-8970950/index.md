@@ -2,7 +2,7 @@
 title: "Depeche Mode - A Broken Frame"
 artist: "Depeche Mode"
 album_name: "A Broken Frame"
-date: 2017-02-20
+date: 2017-02-20T19:08:15.000000Z
 release_id: "8970950"
 slug: "a-broken-frame-8970950"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Leave In Silence
 2. My Secret Garden
@@ -24,8 +25,12 @@ styles: ["Synth-pop"]
 8. A Photograph Of You
 9. Shouldn't Have Done That
 10. The Sun & The Rainfall
+
+
 ## Spotify
 {{< spotify type="album" id="4QTkJvr6vfj3MuOqnSpMfE" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="ucIv-sMta7I" title="Depeche Mode - Leave In Silence (Official Video)" >}}
@@ -44,8 +49,8 @@ styles: ["Synth-pop"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Depeche Mode - A Broken Frame](https://www.discogs.com/release/8970950-Depeche-Mode-A-Broken-Frame) |
-| Label          | Mute, Sony Music, Legacy |
-| Format         | LP, Album, RE, RM, Gat |
-| Catalog Number | STUMM9, 88985329931 |
+| Label          | Mute |
+| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Catalog Number | STUMM9 |
 
 Made in the EU

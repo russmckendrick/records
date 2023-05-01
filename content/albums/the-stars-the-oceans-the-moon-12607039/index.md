@@ -2,7 +2,7 @@
 title: "Echo & The Bunnymen - The Stars, The Oceans & The Moon"
 artist: "Echo & The Bunnymen"
 album_name: "The Stars, The Oceans & The Moon"
-date: 2018-10-06
+date: 2018-10-06T09:07:23.000000Z
 release_id: "12607039"
 slug: "the-stars-the-oceans-the-moon-12607039"
 hideSummary: true
@@ -11,8 +11,9 @@ cover:
     alt: "The Stars, The Oceans & The Moon by Echo & The Bunnymen"
     caption: "The Stars, The Oceans & The Moon by Echo & The Bunnymen"
 genres: ["Pop"]
-styles: null
+styles: []
 ---
+
 ## Tracklisting
 1. Bring On The Dancing Horses
 2. Lips Like Sugar
@@ -29,8 +30,12 @@ styles: null
 13. The Cutter
 14. How Far?
 15. The Killing Moon
+
+
 ## Spotify
 {{< spotify type="album" id="194coQAsvAJhxlc8wdxewI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="nQ1UH7k1G4k" title="Bring on the Dancing Horses (Transformed) (Official Audio)" >}}
@@ -54,7 +59,7 @@ styles: null
 | Release Year   | 2018 |
 | Discogs Link   | [Echo & The Bunnymen - The Stars, The Oceans & The Moon](https://www.discogs.com/release/12607039-Echo-The-Bunnymen-The-StarsOceans-The-Moon) |
 | Label          | BMG |
-| Format         | 2xLP, Album, Ltd, Lum |
+| Format         | Vinyl 2× LP Album Limited Edition (Luminous) |
 | Catalog Number | 538355220 |
 
 Gatefold Sleeve. Includes Download Code.

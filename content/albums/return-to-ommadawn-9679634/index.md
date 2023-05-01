@@ -2,7 +2,7 @@
 title: "Mike Oldfield - Return To Ommadawn"
 artist: "Mike Oldfield"
 album_name: "Return To Ommadawn"
-date: 2017-02-05
+date: 2017-02-05T12:26:24.000000Z
 release_id: "9679634"
 slug: "return-to-ommadawn-9679634"
 hideSummary: true
@@ -13,23 +13,34 @@ cover:
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Celtic", "Art Rock", "Folk Rock", "Folk"]
 ---
+
 ## Tracklisting
 1. Return To Ommadawn Pt. I (21:10)
 2. Return To Ommadawn Pt. II (20:57)
+
+
 ## Spotify
 {{< spotify type="album" id="3V3hCBFtp1PMcWPx2bqPyv" width="100%" height="500" >}}
 
-## Videos
-{{< youtube id="7YpBt3RJUVQ" title="Return to Ommadawn Vinyl side 1" >}}
-- [Mike Oldfield - Return to Ommadawn Pt  II](https://www.youtube.com/watch?v=91ACrQuZlbg)
+
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Mike Oldfield - Return To Ommadawn](https://www.discogs.com/release/9679634-Mike-Oldfield-Return-To-Ommadawn) |
-| Label          | Virgin EMI Records, Virgin EMI Records |
-| Format         | LP, Album, 180 |
-| Catalog Number | V 3166, 00602557256703 |
+| Label          | Virgin EMI Records |
+| Format         | Vinyl LP Album (180g) |
+| Catalog Number | V 3166 |
 
-Gatefold cover, with an illustrated inner sleeve. Includes download code for the album in lossy AAC format, see [r=9853010]. Some copies, sold via universal and Oldfield's own music shop, came bundled with a poster (24" x 24"). Vinyl half-speed mastered at Abbey Road.  ℗ & © 2017 Mercury Records Limited Made in the EU  Note:  First Pressings actually weigh 130g-140g.  Complaint to Universal resulted in 2nd pressing weighing 170-180g. Universal conceded an error at the pressing plant. All else identical!  Runouts are stamped except for 'MILES' which is etched.
+Gatefold cover, with an illustrated inner sleeve.
+Includes download code for the album in lossy AAC format, see [r=9853010].
+Some copies, sold via universal and Oldfield's own music shop, came bundled with a poster (24" x 24").
+Vinyl half-speed mastered at Abbey Road.
+
+℗ & © 2017 Mercury Records Limited
+Made in the EU
+
+Note:  First Pressings actually weigh 130g-140g.  Complaint to Universal resulted in 2nd pressing weighing 170-180g. Universal conceded an error at the pressing plant. All else identical!
+
+Runouts are stamped except for 'MILES' which is etched.

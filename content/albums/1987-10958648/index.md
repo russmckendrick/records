@@ -2,7 +2,7 @@
 title: "Whitesnake - 1987"
 artist: "Whitesnake"
 album_name: "1987"
-date: 2017-10-08
+date: 2017-10-08T09:55:50.000000Z
 release_id: "10958648"
 slug: "1987-10958648"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Classic Rock", "Hard Rock"]
 ---
+
 ## Tracklisting
 1. 2017 Remaster
 2. Still Of The Night
@@ -36,32 +37,20 @@ styles: ["Classic Rock", "Hard Rock"]
 20. Give Me All Your Love (Live)
 21. Still of the Night (Live)
 
+
+
+
 ## Videos
 {{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}
 - [Whitesnake - Here I Go Again '87 (Official Music Video)](https://www.youtube.com/watch?v=WyF8RHM1OCg)
 - [Whitesnake - Still of the Night (Official Music Video)](https://www.youtube.com/watch?v=swPt9HBRXuE)
 - [Whitesnake - Give Me All Your Love (Official Music Video)](https://www.youtube.com/watch?v=dkl2hiTHUrc)
-- [Whitesnake – Here I Go Again](https://www.youtube.com/watch?v=PBtkulk85xA)
-- [Whitesnake – Is This Love](https://www.youtube.com/watch?v=NqVIXkgXa1g)
-- [Whitesnake – Straight For The Heart](https://www.youtube.com/watch?v=OvFK630HAwY)
-- [Whitesnake – Children Of The Night](https://www.youtube.com/watch?v=h-E8mUIjgik)
-- [Whitesnake – Don't Turn Away](https://www.youtube.com/watch?v=mwZfCH-wcug)
-- [Whitesnake – Crying In The Rain](https://www.youtube.com/watch?v=YwOso24UnzY)
-- [Whitesnake – Bad Boys](https://www.youtube.com/watch?v=i-5xrb7ysH8)
-- [Whitesnake – Looking For Love](https://www.youtube.com/watch?v=2iMefIrd1fQ)
-- [Whitesnake – Still Of The Night](https://www.youtube.com/watch?v=_sBxRFssfLw)
-- [Whitesnake – You're Gonna Break My Heart Again](https://www.youtube.com/watch?v=CwTDRDzti0g)
-- [Whitesnake – Give Me All Your Love](https://www.youtube.com/watch?v=N7dptwS6WAY)
-- [LP / Whitesnake – 1987 / 1987 / Repress from Bulgaria 1989](https://www.youtube.com/watch?v=G5tBlaw3qnk)
-- [Here I Go Again | Whitesnake [1987] | 1987 Geffen LP](https://www.youtube.com/watch?v=kXfU-IhHqfA)
 
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Whitesnake - 1987](https://www.discogs.com/release/10958648-Whitesnake-1987) |
-| Label          | Parlophone, Rhino Records |
-| Format         | LP, Album, RM, 180 + LP + RE, 30t |
-| Catalog Number | 0190295785178, R1 563473 |
-
-
+| Label          | Parlophone |
+| Format         | Vinyl LP Album Remastered (180 Gram), Vinyl LP, All Media Reissue (30th Anniversary Edition) |
+| Catalog Number | 0190295785178 |

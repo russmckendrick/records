@@ -2,7 +2,7 @@
 title: "The B-52's - Cosmic Thing"
 artist: "The B-52's"
 album_name: "Cosmic Thing"
-date: 2018-11-23
+date: 2018-11-23T18:39:26.000000Z
 release_id: "12830083"
 slug: "cosmic-thing-12830083"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Cosmic Thing (3:50)
 2. Dry County (4:54)
@@ -24,8 +25,12 @@ styles: ["Alternative Rock"]
 8. Channel Z (4:49)
 9. Topaz (4:20)
 10. Follow Your Bliss (4:08)
+
+
 ## Spotify
 {{< spotify type="album" id="5BAzAODqIwttjj7wxmlNMS" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="JXy0XnzTQuc" title="The B-52's - Deadbeat Club (Official Music Video)" >}}
@@ -39,7 +44,12 @@ styles: ["Alternative Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [The B-52's - Cosmic Thing](https://www.discogs.com/release/12830083-The-B-52s-Cosmic-Thing) |
 | Label          | Reprise Records |
-| Format         | LP, Album, RSD, Ltd, RE, Rai |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Rainbow) |
 | Catalog Number | RCV1 25854 |
 
-Sticker: Exclusive Rainbow Vinyl Features: "Love Shack", "Roam" & "Channel Z" Limited to 4500 copies.  Includes printed inner sleeve containing lyrics, credits, and photograph.
+Sticker:
+Exclusive Rainbow Vinyl
+Features: "Love Shack", "Roam" & "Channel Z"
+Limited to 4500 copies.
+
+Includes printed inner sleeve containing lyrics, credits, and photograph.

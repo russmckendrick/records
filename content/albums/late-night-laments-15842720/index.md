@@ -2,7 +2,7 @@
 title: "Tim Bowness - Late Night Laments"
 artist: "Tim Bowness"
 album_name: "Late Night Laments"
-date: 2020-08-31
+date: 2020-08-31T10:13:03.000000Z
 release_id: "15842720"
 slug: "late-night-laments-15842720"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Ambient"]
 ---
+
 ## Tracklisting
 1. Late Night Laments
 2. Northern Rain (4:47)
@@ -34,8 +35,12 @@ styles: ["Ambient"]
 18. The Last Getaway (4:55)
 19. Hidden Life (5:05)
 20. One Last Call (4:15)
+
+
 ## Spotify
 {{< spotify type="album" id="4hzfLKRc6V5xIU2Bv00E5R" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}
@@ -54,8 +59,8 @@ styles: ["Ambient"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Tim Bowness - Late Night Laments](https://www.discogs.com/release/15842720-Tim-Bowness-Late-Night-Laments) |
-| Label          | Inside Out Music, Sony Music |
-| Format         | LP, Album, Blu + CD, Album + Ltd |
-| Catalog Number | IOMLP 558, 19439783221 |
+| Label          | Inside Out Music |
+| Format         | Vinyl LP Album (Blue Transparent), CD Album, All Media Limited Edition |
+| Catalog Number | IOMLP 558 |
 
 Comes with signed art print and is limited to 600 copies.

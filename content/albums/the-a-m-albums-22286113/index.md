@@ -2,7 +2,7 @@
 title: "Dodgy - The A&M Albums"
 artist: "Dodgy"
 album_name: "The A&M Albums"
-date: 2022-02-25
+date: 2022-02-25T09:32:29.000000Z
 release_id: "22286113"
 slug: "the-a-m-albums-22286113"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
+
 ## Tracklisting
 1.  Water Under The Bridge (3:44)
 2. I Need Another (3:49)
@@ -53,13 +54,13 @@ styles: ["Indie Pop"]
 37. Is It Me
 
 
+
+
 ## Notes
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2022 |
 | Discogs Link   | [Dodgy - The A&M Albums](https://www.discogs.com/release/22286113-Dodgy-The-AM-Albums) |
 | Label          | Demon Records |
-| Format         | LP, Album, RE + LP, Album, RE + 2xLP, Album, RE +  |
+| Format         | Vinyl LP Album Reissue Stereo, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Album Reissue Stereo, Box Set Compilation Deluxe Edition Limited Edition |
 | Catalog Number | DEMRECBOX60 |
-
-

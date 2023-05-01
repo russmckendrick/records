@@ -2,7 +2,7 @@
 title: "Tori Amos - Under The Pink"
 artist: "Tori Amos"
 album_name: "Under The Pink"
-date: 2017-05-19
+date: 2017-05-19T08:38:46.000000Z
 release_id: "6900413"
 slug: "under-the-pink-6900413"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
+
 ## Tracklisting
 1. Pretty Good Year (3:25)
 2. God (3:58)
@@ -26,8 +27,12 @@ styles: ["Alternative Rock"]
 10. Cloud On My Tongue (4:44)
 11. Space Dog (5:10)
 12. Yes, Anastasia (9:33)
+
+
 ## Spotify
 {{< spotify type="album" id="6VNuZLF98tsRYgqlIXAVCD" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="cN3rzi7dZVQ" title="Tori Amos - God (Official Music Video)" >}}
@@ -42,7 +47,8 @@ styles: ["Alternative Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Tori Amos - Under The Pink](https://www.discogs.com/release/6900413-Tori-Amos-Under-The-Pink) |
 | Label          | Atlantic |
-| Format         | LP, Album, RE, RM, 180 |
+| Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Catalog Number | 081227957841 |
 
-180 gram 2015 remastered reissue. Half speed master.
+180 gram 2015 remastered reissue.
+Half speed master.

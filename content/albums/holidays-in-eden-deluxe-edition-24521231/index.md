@@ -2,7 +2,7 @@
 title: "Marillion - Holidays In Eden (Deluxe Edition)"
 artist: "Marillion"
 album_name: "Holidays In Eden (Deluxe Edition)"
-date: 2022-09-20
+date: 2022-09-20T02:08:56.000000Z
 release_id: "24521231"
 slug: "holidays-in-eden-deluxe-edition-24521231"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. Holidays In Eden (2022 Re-Mix)
 2. Splintering Heart
@@ -53,14 +54,8 @@ styles: ["Prog Rock"]
 37. Kayleigh
 38. Incommunicado
 
-## Videos
-{{< youtube id="qEs7H4fwWzo" title="Marillion - Cover My Eyes - Marillion Weekend 2009 - Holland" >}}
-- [Cover My Eyes (Pain and Heaven)](https://www.youtube.com/watch?v=N-c-6vJk31I)
-- [Cover My Eyes (Pain and Heaven) (1998 Remaster)](https://www.youtube.com/watch?v=0hpOJHip6yw)
-- [Marillion - Splintering Heart](https://www.youtube.com/watch?v=kGsbsk9xTEw)
-- [Waiting To Happen - Marillion (Holidays In Eden)](https://www.youtube.com/watch?v=i2yvcXw-_S0)
-- [Marillion - Eric (Holidays in Eden Disc 2).wmv](https://www.youtube.com/watch?v=id4Ao00Njbk)
-- [Holidays in Eden (1998 Remaster)](https://www.youtube.com/watch?v=9eUBLgCnEEA)
+
+
 
 ## Notes
 | Notes          |             |
@@ -68,7 +63,14 @@ styles: ["Prog Rock"]
 | Release Year   | 2022 |
 | Discogs Link   | [Marillion - Holidays In Eden (Deluxe Edition)](https://www.discogs.com/release/24521231-Marillion-Holidays-In-Eden-Deluxe-Edition) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE, Rem + 3xLP, Album + Box, Comp, Dlx, |
+| Format         | Vinyl LP Album Reissue Stereo (Remixed), Vinyl 3× LP Album, Box Set Compilation Deluxe Edition Limited Edition (180 Gram) |
 | Catalog Number | 0190296609190 |
 
-When preordered on the band's website the release includes an A4 artwork print which is signed by the band.  4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.  ℗ 2022 this compilation Parlophone Records Ltd.  © 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2022 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany
+When preordered on the band's website the release includes an A4 artwork print which is signed by the band.
+
+4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.
+
+℗ 2022 this compilation Parlophone Records Ltd. 
+© 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. 
+© 2022 Parlophone Records Ltd. A Warner Music Group Company.
+Made in Germany

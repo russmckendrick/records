@@ -2,7 +2,7 @@
 title: "White Town - Women In Technology"
 artist: "White Town"
 album_name: "Women In Technology"
-date: 2023-04-23
+date: 2023-04-23T04:34:51.000000Z
 release_id: "26830184"
 slug: "women-in-technology-26830184"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
+
 ## Tracklisting
 1. Undressed (4:19)
 2. Thursday At The Blue Note (2:48)
@@ -27,8 +28,11 @@ styles: ["Synth-pop"]
 11. The Death Of My Desire (4:54)
 12. Once I Flew (4:24)
 
+
 ## Spotify
 {{< spotify type="album" id="3Xp1KG3G31VGZgV8JpMSX6" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="lVL-zZnD3VU" title="White Town - Your Woman (Official HD Video)" >}}
@@ -46,7 +50,13 @@ styles: ["Synth-pop"]
 | Release Year   | 2023 |
 | Discogs Link   | [White Town - Women In Technology](https://www.discogs.com/release/26830184-White-Town-Women-In-Technology) |
 | Label          | Music On Vinyl |
-| Format         | LP, RSD, Ltd, Num, RE, Whi |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (White, 180g) |
 | Catalog Number | MOVLP3224 |
 
-180 gram audiophile vinyl Includes insert RSD 2023 sticker Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single." Available on vinyl for the first time Limited numbered edition of 1000 individually copies on white coloured vinyl
+180 gram audiophile vinyl
+Includes insert
+RSD 2023 sticker
+Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."
+
+Available on vinyl for the first time
+Limited numbered edition of 1000 individually copies on white coloured vinyl

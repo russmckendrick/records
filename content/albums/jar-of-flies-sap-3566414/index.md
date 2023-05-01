@@ -2,7 +2,7 @@
 title: "Alice In Chains - Jar Of Flies / Sap"
 artist: "Alice In Chains"
 album_name: "Jar Of Flies / Sap"
-date: 2016-10-01
+date: 2016-10-01T10:34:46.000000Z
 release_id: "3566414"
 slug: "jar-of-flies-sap-3566414"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Grunge"]
 ---
+
 ## Tracklisting
 1. Jar Of Flies
 2. Rotten Apple
@@ -28,6 +29,9 @@ styles: ["Grunge"]
 12. Right Turn
 13. Am I Inside
 14. Love Song
+
+
+
 
 ## Videos
 {{< youtube id="r80HF68KM8g" title="Alice In Chains - No Excuses (Official Video)" >}}
@@ -48,8 +52,17 @@ styles: ["Grunge"]
 | ---------------| ----------- |
 | Release Year   | 2010 |
 | Discogs Link   | [Alice In Chains - Jar Of Flies / Sap](https://www.discogs.com/release/3566414-Alice-In-Chains-Jar-Of-Flies-Sap) |
-| Label          | Music On Vinyl, Columbia |
-| Format         | 12\", EP + 12\", S/Sided, EP, Etch + MiniAlbum, Comp |
-| Catalog Number | MOVLP086, 88697685411 |
+| Label          | Music On Vinyl |
+| Format         | Vinyl 12" 33 ⅓ RPM EP, Vinyl 12" 33 ⅓ RPM Single Sided EP Etched, All Media Mini-Album Compilation Reissue Stereo (180 Gram Audiophile, Gatefold) |
+| Catalog Number | MOVLP086 |
 
-"Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993. Mixed at Scream Studio, 17-22 September 1993.  "Sap" recorded at London Bridge Studios, Seattle, WA..  Released in gatefold sleeve with printed inner sleeves containing lyrics and credits. Tribal sun logo lasered on side D. Track C5 is not listed on the release, title taken from the label's website.  All runouts are etched.
+"Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993.
+Mixed at Scream Studio, 17-22 September 1993.
+
+"Sap" recorded at London Bridge Studios, Seattle, WA..
+
+Released in gatefold sleeve with printed inner sleeves containing lyrics and credits.
+Tribal sun logo lasered on side D.
+Track C5 is not listed on the release, title taken from the label's website.
+
+All runouts are etched.

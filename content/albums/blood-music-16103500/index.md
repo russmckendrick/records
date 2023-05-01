@@ -2,7 +2,7 @@
 title: "Chapterhouse - Blood Music"
 artist: "Chapterhouse"
 album_name: "Blood Music"
-date: 2021-06-17
+date: 2021-06-17T04:14:42.000000Z
 release_id: "16103500"
 slug: "blood-music-16103500"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
+
 ## Tracklisting
 1. Don't Look Now (5:06)
 2. There's Still Life (5:01)
@@ -26,8 +27,12 @@ styles: ["Indie Rock", "Shoegaze"]
 10. Confusion Trip (5:23)
 11. Love Forever (5:58)
 12. Picnic (15:18)
+
+
 ## Spotify
 {{< spotify type="album" id="10seD0Z3Nw3kGeARJh50Y3" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Kpj6vyxS4kw" title="Global Communication ~ Pentamerous Metamorphosis (Full Album)" >}}
@@ -53,7 +58,7 @@ styles: ["Indie Rock", "Shoegaze"]
 | Release Year   | 2020 |
 | Discogs Link   | [Chapterhouse - Blood Music](https://www.discogs.com/release/16103500-Chapterhouse-Blood-Music) |
 | Label          | Music On Vinyl |
-| Format         | 2xLP, Ltd, Num, RE, Red |
+| Format         | Vinyl 2× LP Limited Edition Numbered Reissue Stereo (Red transparent) |
 | Catalog Number | MOVLP2700 |
 
 Limited edition of 2000 numbered copies on transparent red vinyl. 180 gram audiophile vinyl

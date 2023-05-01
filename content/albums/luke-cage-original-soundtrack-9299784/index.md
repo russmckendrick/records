@@ -1,18 +1,19 @@
 ---
-title: "Adrian Younge & Ali Shaheed Muhammad - Luke Cage - Original Soundtrack"
-artist: "Adrian Younge & Ali Shaheed Muhammad"
+title: "Adrian Younge - Luke Cage - Original Soundtrack"
+artist: "Adrian Younge"
 album_name: "Luke Cage - Original Soundtrack"
-date: 2016-11-10
+date: 2016-11-10T18:26:31.000000Z
 release_id: "9299784"
 slug: "luke-cage-original-soundtrack-9299784"
 hideSummary: true
 cover:
     image: "luke-cage-original-soundtrack-9299784.jpg"
-    alt: "Luke Cage - Original Soundtrack by Adrian Younge & Ali Shaheed Muhammad"
-    caption: "Luke Cage - Original Soundtrack by Adrian Younge & Ali Shaheed Muhammad"
+    alt: "Luke Cage - Original Soundtrack by Adrian Younge"
+    caption: "Luke Cage - Original Soundtrack by Adrian Younge"
 genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
+
 ## Tracklisting
 1. Diamondback Arrives
 2. Final Battle - Part 1
@@ -61,6 +62,9 @@ styles: ["Soundtrack"]
 45. Crushin' On Reva
 46. Beloved Reva
 
+
+
+
 ## Videos
 {{< youtube id="yhwcVrVUa3U" title="Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage" >}}
 - [Adrian Younge & Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
@@ -83,9 +87,7 @@ styles: ["Soundtrack"]
 | Notes          |             |
 | ---------------| ----------- |
 | Release Year   | 2016 |
-| Discogs Link   | [Adrian Younge & Ali Shaheed Muhammad - Luke Cage - Original Soundtrack](https://www.discogs.com/release/9299784-Adrian-Younge-Ali-Shaheed-Muhammad-Luke-Cage-Original-Soundtrack) |
-| Label          | Mondo |
-| Format         | 2xLP, Album, Yel |
+| Discogs Link   | [Adrian Younge - Luke Cage - Original Soundtrack](https://www.discogs.com/release/9299784-Adrian-Younge-Ali-Shaheed-Muhammad-Luke-Cage-Original-Soundtrack) |
+| Label          | Mondo (3) |
+| Format         | Vinyl 2× LP Album (Yellow, Gatefold. 180g) |
 | Catalog Number | MOND-094 |
-
-

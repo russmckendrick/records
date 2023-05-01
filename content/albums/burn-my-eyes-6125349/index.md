@@ -2,7 +2,7 @@
 title: "Machine Head - Burn My Eyes"
 artist: "Machine Head"
 album_name: "Burn My Eyes"
-date: 2016-09-19
+date: 2016-09-19T15:12:56.000000Z
 release_id: "6125349"
 slug: "burn-my-eyes-6125349"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Davidian
 2. Old
@@ -25,8 +26,9 @@ styles: ["Thrash", "Heavy Metal"]
 9. I'm Your God Now
 10. Real Eyes, Realize, Real Lies
 11. Block
-## Spotify
-{{< spotify type="album" id="4S4WHsBRNEIha796lnU8NJ" width="100%" height="500" >}}
+
+
+
 
 ## Videos
 {{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}
@@ -49,7 +51,11 @@ styles: ["Thrash", "Heavy Metal"]
 | Release Year   | 2014 |
 | Discogs Link   | [Machine Head - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-Burn-My-Eyes) |
 | Label          | Metal Blade Records |
-| Format         | LP, Album, RE, Gol |
+| Format         | Vinyl LP Album Reissue (Gold Transparent) |
 | Catalog Number | 3984-15313-1 |
 
-Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc.
+Gold transparent 180g vinyl.
+Limited to 1.500 Copies
+
+℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc. 
+Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc.

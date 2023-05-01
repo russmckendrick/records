@@ -2,7 +2,7 @@
 title: "The Beta Band - The Beta Band"
 artist: "The Beta Band"
 album_name: "The Beta Band"
-date: 2018-11-09
+date: 2018-11-09T19:14:57.000000Z
 release_id: "12647463"
 slug: "the-beta-band-12647463"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. The Beta Band
 2. The Beta Band Rap
@@ -42,8 +43,12 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 26. CD2
 27. Happiness And Colour
 28. The Hut
+
+
 ## Spotify
 {{< spotify type="album" id="6w7XFtdCQf871KU40Ot1Ra" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="shIRuXRPKBA" title="The Beta Band - The Beta Band (Full Album)" >}}
@@ -53,8 +58,10 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [The Beta Band - The Beta Band](https://www.discogs.com/release/12647463-The-Beta-Band-The-Beta-Band) |
-| Label          | Because Music, Because Music, Because Music, Because Music |
-| Format         | 2xLP, Album, RE + LP, Album + 2xCD, Album |
-| Catalog Number | BEC5543698, BEC1149, BEC1148, BEC5543699 |
+| Label          | Because Music |
+| Format         | Vinyl 2× LP Album Reissue, Vinyl LP Album, CD 2× Album |
+| Catalog Number | BEC5543698 |
 
-Anniversary Edition Includes unreleased album 'The Hut / Happiness & Colour' + CDs 
+Anniversary Edition
+Includes unreleased album 'The Hut / Happiness & Colour' + CDs
+

@@ -2,7 +2,7 @@
 title: "Various - Confessin' The Blues"
 artist: "Various"
 album_name: "Confessin' The Blues"
-date: 2018-12-19
+date: 2018-12-19T19:49:37.000000Z
 release_id: "12774929"
 slug: "confessin-the-blues-12774929"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Blues"]
 styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Rock & Roll"]
 ---
+
 ## Tracklisting
 1. Rollin' Stone (3:08)
 2. Little Red Rooster (Aka The Red Rooster) (2:28)
@@ -56,8 +57,12 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 40. Commit A Crime (1991 Chess Box Version) (3:08)
 41. Damn Right, I've Got The Blues (4:30)
 42. Confessin' The Blues (Single Version) (2:58)
+
+
 ## Spotify
 {{< spotify type="album" id="4BlStEiUW9o9mv8OHOdEsI" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="SCy_YxJmFX4" title="Confessin' the Blues (version de luxe) & Le Blues en 150 figures" >}}
@@ -68,8 +73,18 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 | ---------------| ----------- |
 | Release Year   | 2018 |
 | Discogs Link   | [Various - Confessin' The Blues](https://www.discogs.com/release/12774929-Various-Confessin-The-Blues) |
-| Label          | BMG, Universal Music On Demand |
-| Format         | 5x10\", Comp + Box |
+| Label          | BMG |
+| Format         | Vinyl 5× 10" 33 ⅓ RPM Compilation, Box Set |
 | Catalog Number | BMGCAT155EPX |
 
-"The Blues. It's probably the most important thing that America has ever given to the World." - Keith Richards (on the back cover) "The Blues - The sound of a sinner on revival day." - W.C. Handy - the father of the blues (on the second page of the 40 pages inside book)  The box includes 5 x 10" vinyl, period inner sleeves, 6 x art cards, extended essay and iconic imagery of the blues legends.  On sticker on shrink: Original blues masterpieces hand picked and curated in collaboration with The Rolling Stones  Manufactured in the EU.  This compilation ℗ & © 2018 BMG Rights Management (UK) Limited / Universal Music Operations Ltd.
+"The Blues. It's probably the most important thing that America has ever given to the World." - Keith Richards (on the back cover)
+"The Blues - The sound of a sinner on revival day." - W.C. Handy - the father of the blues (on the second page of the 40 pages inside book)
+
+The box includes 5 x 10" vinyl, period inner sleeves, 6 x art cards, extended essay and iconic imagery of the blues legends.
+
+On sticker on shrink:
+Original blues masterpieces hand picked and curated in collaboration with The Rolling Stones
+
+Manufactured in the EU.
+
+This compilation ℗ & © 2018 BMG Rights Management (UK) Limited / Universal Music Operations Ltd.

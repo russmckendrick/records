@@ -2,7 +2,7 @@
 title: "Derek & Clive - Come Again"
 artist: "Derek & Clive"
 album_name: "Come Again"
-date: 2015-12-30
+date: 2015-12-30T09:11:50.000000Z
 release_id: "561165"
 slug: "come-again-561165"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
+
 ## Tracklisting
 1. Coughing Contest (2:37)
 2. Cancer (0:29)
@@ -30,6 +31,9 @@ styles: ["Comedy", "Spoken Word"]
 14. I Saw This Bloke (1:42)
 15. Parking Offence (5:45)
 16. Members Only (3:31)
+
+
+
 
 ## Videos
 {{< youtube id="M-W_p4dt8Jk" title="Coughin' Contest" >}}
@@ -59,7 +63,10 @@ styles: ["Comedy", "Spoken Word"]
 | Release Year   | 1977 |
 | Discogs Link   | [Derek & Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |
 | Label          | Virgin |
-| Format         | LP, Album, RP |
+| Format         | Vinyl LP Album Repress |
 | Catalog Number | V 2094 |
 
-℗ 1977 Virgin Records Ltd © 1977 Aspera A.G. Side One: Ay, Bee, See, You, En, Tee. Side Two: Ef, You2, See2, Kay, Aye, En2, Gee.
+℗ 1977 Virgin Records Ltd
+© 1977 Aspera A.G.
+Side One: Ay, Bee, See, You, En, Tee.
+Side Two: Ef, You2, See2, Kay, Aye, En2, Gee.

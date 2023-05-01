@@ -2,7 +2,7 @@
 title: "Iron Maiden - No Prayer For The Dying"
 artist: "Iron Maiden"
 album_name: "No Prayer For The Dying"
-date: 2017-06-10
+date: 2017-06-10T11:12:57.000000Z
 release_id: "10301784"
 slug: "no-prayer-for-the-dying-10301784"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
+
 ## Tracklisting
 1. Tailgunner
 2. Holy Smoke
@@ -24,8 +25,11 @@ styles: ["Heavy Metal"]
 8. Hooks In You
 9. Bring Your Daughter...To The Slaughter
 10. Mother Russia
+
+
 ## Spotify
 {{< spotify type="album" id="00uliTKAB5mqWzQKMYbrND" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -34,7 +38,17 @@ styles: ["Heavy Metal"]
 | Release Year   | 2017 |
 | Discogs Link   | [Iron Maiden - No Prayer For The Dying](https://www.discogs.com/release/10301784-Iron-Maiden-No-Prayer-For-The-Dying) |
 | Label          | Parlophone |
-| Format         | LP, Album, RE, RM |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Catalog Number | 0190295852351 |
 
-MISPRINTED FRONTCOVER ARTWORK!!! 180 Gram Black Vinyl Original Album Art And High Res Audio Remasters Released with a inner sleeve with lyrics and credits in one side and photos in the other side.  The remasters are the 2015 digital remasters  Original ℗ 1990. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company. This label copy information is the subject of copyright protection. All rights reserved. © 2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Recorded at Steve Harris' Barn, somewhere in England on the Rolling Stone mobile. Mixed at Battery Studios, London.
+MISPRINTED FRONTCOVER ARTWORK!!!
+180 Gram Black Vinyl
+Original Album Art And High Res Audio Remasters
+Released with a inner sleeve with lyrics and credits in one side and photos in the other side. 
+The remasters are the 2015 digital remasters
+
+Original ℗ 1990. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.
+This label copy information is the subject of copyright protection. All rights reserved. © 2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.
+
+Recorded at Steve Harris' Barn, somewhere in England on the Rolling Stone mobile.
+Mixed at Battery Studios, London.

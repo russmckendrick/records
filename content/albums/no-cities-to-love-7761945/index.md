@@ -2,7 +2,7 @@
 title: "Sleater-Kinney - No Cities To Love"
 artist: "Sleater-Kinney"
 album_name: "No Cities To Love"
-date: 2017-06-08
+date: 2017-06-08T17:53:00.000000Z
 release_id: "7761945"
 slug: "no-cities-to-love-7761945"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 ---
+
 ## Tracklisting
 1. Price Tag
 2. Fangless
@@ -24,8 +25,12 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 8. Bury Our Friends
 9. Hey Darling
 10. Fade
+
+
 ## Spotify
 {{< spotify type="album" id="7HDcY3h70X3zLjceUO874A" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="Cj2k3QsHmyM" title="Sleater-Kinney - No Cities To Love" >}}
@@ -40,7 +45,17 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [Sleater-Kinney - No Cities To Love](https://www.discogs.com/release/7761945-Sleater-Kinney-No-Cities-To-Love) |
 | Label          | Sub Pop |
-| Format         | LP, Album, Gat |
+| Format         | Vinyl LP Album (Gatefold) |
 | Catalog Number | SP1100 |
 
-Black vinyl edition, comes in a triple gatefold cover.   Includes a four page sheet with lyrics and credits and a coupon with free download code.  Exclusive Barnes & Noble edition with art print signed by the band.   All songs written by Sleater Kinney. Code Word Nemesis (ASCAP)  ©℗ 2015 Sub Pop Records.  Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies" 
+Black vinyl edition, comes in a triple gatefold cover.  
+Includes a four page sheet with lyrics and credits and a coupon with free download code. 
+Exclusive Barnes & Noble edition with art print signed by the band. 
+
+All songs written by Sleater Kinney.
+Code Word Nemesis (ASCAP)
+
+©℗ 2015 Sub Pop Records.
+
+Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"
+

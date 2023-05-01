@@ -2,7 +2,7 @@
 title: "Curve - Cuckoo"
 artist: "Curve"
 album_name: "Cuckoo"
-date: 2017-12-23
+date: 2017-12-23T10:30:11.000000Z
 release_id: "10770803"
 slug: "cuckoo-10770803"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Missing Link
 2. Crystal
@@ -24,6 +25,9 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 8. Left Of Mother
 9. Sweetest Pie
 10. Cuckoo
+
+
+
 
 ## Videos
 {{< youtube id="4tu9cFTHPok" title="CURVE - Half the Time  [Honey Tongue mix from : Blackerthreetrackertwo (UK) 1993] [audio]" >}}
@@ -46,7 +50,9 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 | Release Year   | 2017 |
 | Discogs Link   | [Curve - Cuckoo](https://www.discogs.com/release/10770803-Curve-Cuckoo) |
 | Label          | 3 Loop Music |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | 3RANGE-53LP |
 
-Comes with download card from 3 Loop Music.  Some copies come with an art card signed by Toni and Dean.
+Comes with download card from 3 Loop Music.
+
+Some copies come with an art card signed by Toni and Dean.

@@ -2,7 +2,7 @@
 title: "Abel Ganz - The Life Of The Honeybee & Other Moments Of Clarity"
 artist: "Abel Ganz"
 album_name: "The Life Of The Honeybee & Other Moments Of Clarity"
-date: 2021-01-17
+date: 2021-01-17T10:31:14.000000Z
 release_id: "15659971"
 slug: "the-life-of-the-honeybee-other-moments-of-clarity-15659971"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
+
 ## Tracklisting
 1. The Life of the Honeybee & Other Moments Of Clarity
 2. One Small Soul
@@ -20,6 +21,9 @@ styles: ["Prog Rock"]
 4. Summerlong
 5. Sepia And White
 6. The Light Shines Out
+
+
+
 
 ## Videos
 {{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}
@@ -30,8 +34,6 @@ styles: ["Prog Rock"]
 | ---------------| ----------- |
 | Release Year   | 2020 |
 | Discogs Link   | [Abel Ganz - The Life Of The Honeybee & Other Moments Of Clarity](https://www.discogs.com/release/15659971-Abel-Ganz-The-Life-Of-The-Honeybee-Other-Moments-Of-Clarity) |
-| Label          | Abel Records |
-| Format         | LP, Album, Ora |
+| Label          | Abel Records (3) |
+| Format         | Vinyl LP Album Stereo (Orange) |
 | Catalog Number | ARAG001LP |
-
-

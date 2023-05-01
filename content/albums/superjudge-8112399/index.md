@@ -2,7 +2,7 @@
 title: "Monster Magnet - Superjudge"
 artist: "Monster Magnet"
 album_name: "Superjudge"
-date: 2016-07-10
+date: 2016-07-10T09:50:22.000000Z
 release_id: "8112399"
 slug: "superjudge-8112399"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
+
 ## Tracklisting
 1. Cyclops Revolution
 2. Twin Earth
@@ -32,8 +33,12 @@ styles: ["Space Rock", "Psychedelic Rock"]
 16. Twin Earth (Live)
 17. Nod Scene (Live)
 18. Evil (Live)
+
+
 ## Spotify
 {{< spotify type="album" id="2uddKwvNYZT28E6ml2ZlOt" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="YNY0IgDOfqo" title="Monster Magnet - Cage Around The Sun (w/ lyrics)" >}}
@@ -47,8 +52,14 @@ styles: ["Space Rock", "Psychedelic Rock"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Monster Magnet - Superjudge](https://www.discogs.com/release/8112399-Monster-Magnet-Superjudge) |
-| Label          | Spinefarm Records, Universal Music Group |
-| Format         | 2xLP, Album, RE, RM |
+| Label          | Spinefarm Records |
+| Format         | Vinyl 2× LP Album Reissue Remastered |
 | Catalog Number | 00600753642450 |
 
- Black vinyl. Includes sleeve-notes & bonus tracks + cover material.   Comes with free album download code.  ℗ & © 2015 Spinefarm Records & Universal Music Group Company  Made in the EU.
+ Black vinyl. Includes sleeve-notes & bonus tracks + cover material. 
+
+Comes with free album download code.
+
+℗ & © 2015 Spinefarm Records & Universal Music Group Company
+
+Made in the EU.

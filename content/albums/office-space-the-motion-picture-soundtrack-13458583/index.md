@@ -2,7 +2,7 @@
 title: "Various - Office Space (The Motion Picture Soundtrack)"
 artist: "Various"
 album_name: "Office Space (The Motion Picture Soundtrack)"
-date: 2019-04-13
+date: 2019-04-13T11:18:00.000000Z
 release_id: "13458583"
 slug: "office-space-the-motion-picture-soundtrack-13458583"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Hip Hop", "Latin", "Stage & Screen"]
 styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
+
 ## Tracklisting
 1. Shove This Jay-Oh-Bee
 2. Get Dis Money
@@ -26,6 +27,9 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 10. Still
 11. Mambo No. 8
 12. Peanut Vendor
+
+
+
 
 ## Videos
 {{< youtube id="lqi_HT1MfsU" title="Mambo 8" >}}
@@ -51,7 +55,8 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 | Release Year   | 2019 |
 | Discogs Link   | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |
 | Label          | Interscope Records |
-| Format         | LP, RSD, Comp, Ltd, Red |
+| Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
 | Catalog Number | B0029333-01 |
 
-Stapler red, Record Store Day release limited to 2,500. 
+Stapler red, Record Store Day release limited to 2,500.
+

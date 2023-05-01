@@ -2,7 +2,7 @@
 title: "Everything Is Recorded - Everything Is Recorded"
 artist: "Everything Is Recorded"
 album_name: "Everything Is Recorded"
-date: 2018-02-16
+date: 2018-02-16T18:48:54.000000Z
 release_id: "11561081"
 slug: "everything-is-recorded-11561081"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Trip Hop", "Beatdown"]
 ---
+
 ## Tracklisting
 1. Intro
 2. Close But Not Quite
@@ -38,8 +39,12 @@ styles: ["Trip Hop", "Beatdown"]
 22. Purify (Interlude) (1:35)
 23. Be My Friend (4:20)
 24. Everything Is Recorded (5:08)
+
+
 ## Spotify
 {{< spotify type="album" id="3WeILTWWyrY13Ye6vu1pG1" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="V4xBBRuy87E" title="Everything is Recorded - Everything Is Recorded feat. Sampha & Owen Pallett" >}}
@@ -56,7 +61,7 @@ styles: ["Trip Hop", "Beatdown"]
 | Release Year   | 2018 |
 | Discogs Link   | [Everything Is Recorded - Everything Is Recorded](https://www.discogs.com/release/11561081-Everything-Is-Recorded-Everything-Is-Recorded) |
 | Label          | XL Recordings |
-| Format         | LP, Album, Ltd, Yel + CD, Album |
+| Format         | Vinyl LP Album Limited Edition (Yellow), CD Album |
 | Catalog Number | XL883LPE |
 
 Limited edition yellow vinyl issue. Includes cd in a clear slip case, 2x A4 art prints and an A4 facsimile of an XL Recordings dj reaction report.

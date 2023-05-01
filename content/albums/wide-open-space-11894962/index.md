@@ -2,7 +2,7 @@
 title: "Mansun - Wide Open Space"
 artist: "Mansun"
 album_name: "Wide Open Space"
-date: 2018-04-26
+date: 2018-04-26T17:55:35.000000Z
 release_id: "11894962"
 slug: "wide-open-space-11894962"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Wide Open Space
 2. Rebel Without A Quilt
@@ -21,8 +22,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 5. The Gods Of Not Very Much
 6. Moronica (Acoustic Version)
 7. Lemonade Secret Drinker (Acoustic Version)
+
+
 ## Spotify
 {{< spotify type="album" id="3OGZXSC31ykWEN3A3j7dvW" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="VEMiMRS1ixo" title="Mansun - Wide Open Space (Perfecto Mix) ·1998·" >}}
@@ -39,7 +44,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2018 |
 | Discogs Link   | [Mansun - Wide Open Space](https://www.discogs.com/release/11894962-Mansun-Wide-Open-Space) |
 | Label          | Kscope |
-| Format         | 12\", EP, Ltd, RM, Whi |
+| Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Remastered (White) |
 | Catalog Number | Kscope989 |
 
-Record Store Day 2018 release.  First time on 12" vinyl. Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]).
+Record Store Day 2018 release. 
+First time on 12" vinyl.
+Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]).

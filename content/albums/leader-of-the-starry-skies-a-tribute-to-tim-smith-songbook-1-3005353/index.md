@@ -2,7 +2,7 @@
 title: "Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
 artist: "Various"
 album_name: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
-date: 2016-05-31
+date: 2016-05-31T17:51:27.000000Z
 release_id: "3005353"
 slug: "leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ---
+
 ## Tracklisting
 1. Savour (5:29)
 2. Big Ship (5:36)
@@ -31,6 +32,9 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 15. Up In Annie's Room (2:15)
 16. Stoneage Dinosaurs (4:15)
 17. Home Of Fadeless Splendour (4:55)
+
+
+
 
 ## Videos
 {{< youtube id="_TEIJX5H-xw" title="Oceansize - Fear (Spratleys Japs cover)" >}}
@@ -51,7 +55,5 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 | Release Year   | 2011 |
 | Discogs Link   | [Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1](https://www.discogs.com/release/3005353-Various--Leader-Of-The-Starry-Skies--A-Tribute-To-Tim-Smith-Songbook-1) |
 | Label          | Believers Roast |
-| Format         | 2xLP |
+| Format         | Vinyl 2× LP |
 | Catalog Number | BRR3LP |
-
-

@@ -2,7 +2,7 @@
 title: "Tom Waits - Glitter And Doom Live"
 artist: "Tom Waits"
 album_name: "Glitter And Doom Live"
-date: 2018-01-22
+date: 2018-01-22T19:16:22.000000Z
 release_id: "11273241"
 slug: "glitter-and-doom-live-11273241"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Non-Music"]
 styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 ---
+
 ## Tracklisting
 1. Lucinda / Ain' Goin' Down To The Wel No Mo' (5:37)
 2. Singapore (5:00)
@@ -31,8 +32,12 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 15. Make It Rain (3:58)
 16. Story (2:02)
 17. Lucky Day (3:47)
+
+
 ## Spotify
 {{< spotify type="album" id="3IpexZ309jiPcLdFkz3S6F" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="h8207Ah_yso" title="Tom Waits - Tom Tales" >}}
@@ -45,8 +50,11 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 | ---------------| ----------- |
 | Release Year   | 2017 |
 | Discogs Link   | [Tom Waits - Glitter And Doom Live](https://www.discogs.com/release/11273241-Tom-Waits-Glitter-And-Doom-Live) |
-| Label          | Anti-, Anti- |
-| Format         | 2xLP, RE, RM |
-| Catalog Number | 7053-3, 8714092705331 |
+| Label          | Anti- |
+| Format         | Vinyl 2× LP Reissue Remastered |
+| Catalog Number | 7053-3 |
 
-Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve 
+Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner).
+Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram".
+Gatefold sleeve
+

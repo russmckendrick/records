@@ -2,7 +2,7 @@
 title: "Emiliana Torrini - Fisherman's Woman"
 artist: "Emiliana Torrini"
 album_name: "Fisherman's Woman"
-date: 2017-09-01
+date: 2017-09-01T20:52:16.000000Z
 release_id: "10782134"
 slug: "fisherman-s-woman-10782134"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
+
 ## Tracklisting
 1. Nothing Brings Me Down
 2. Sunnyroad
@@ -26,8 +27,12 @@ styles: ["Folk Rock", "Acoustic"]
 10. Fisherman's Woman
 11. Thinking Out Loud
 12. Serenade
+
+
 ## Spotify
 {{< spotify type="album" id="5fPGV2BBurhFEE2d5AAWaq" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="RRVlUGztsNM" title="Emiliana Torrini - Nothing Brings Me Down" >}}
@@ -58,7 +63,7 @@ styles: ["Folk Rock", "Acoustic"]
 | Release Year   | 2017 |
 | Discogs Link   | [Emiliana Torrini - Fisherman's Woman](https://www.discogs.com/release/10782134-Emiliana-Torrini-Fishermans-Woman) |
 | Label          | Rough Trade |
-| Format         | LP, Album, RE |
+| Format         | Vinyl LP Album Reissue |
 | Catalog Number | RTRADLP185 |
 
 Issued in a gatefold sleeve with barcode sticker on shrink wrap.

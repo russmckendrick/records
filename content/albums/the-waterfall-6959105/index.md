@@ -2,7 +2,7 @@
 title: "My Morning Jacket - The Waterfall"
 artist: "My Morning Jacket"
 album_name: "The Waterfall"
-date: 2015-08-09
+date: 2015-08-09T08:39:57.000000Z
 release_id: "6959105"
 slug: "the-waterfall-6959105"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
+
 ## Tracklisting
 1. Believe (Nobody Knows)
 2. Compound Fracture
@@ -34,8 +35,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 18. Big Decisions
 19. Tropics (Erase Traces)
 20. Only Memories Remain
+
+
 ## Spotify
 {{< spotify type="album" id="4B5fQBMzkCRXoQ2qpxaQhh" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy (The Waterfall) (Visualizer)" >}}
@@ -50,7 +55,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Release Year   | 2015 |
 | Discogs Link   | [My Morning Jacket - The Waterfall](https://www.discogs.com/release/6959105-My-Morning-Jacket-The-Waterfall) |
 | Label          | ATO Records |
-| Format         | 2xLP, Album + CD, Album |
+| Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Catalog Number | ATO0276LP |
 
-Gatefold jacket. Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.  ℗&© 2015 ATO Records, LLC under exclusive license to [PIAS]
+Gatefold jacket.
+Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.
+
+℗&© 2015 ATO Records, LLC under exclusive license to [PIAS]

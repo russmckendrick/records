@@ -2,7 +2,7 @@
 title: "Tom Waits - Real Gone"
 artist: "Tom Waits"
 album_name: "Real Gone"
-date: 2018-01-22
+date: 2018-01-22T19:17:14.000000Z
 release_id: "11189843"
 slug: "real-gone-11189843"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock"]
 styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 ---
+
 ## Tracklisting
 1. Top Of The Hill
 2. Hoist That Rag
@@ -30,8 +31,12 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 14. Make It Rain
 15. Day After Tomorrow
 16. Untitled
+
+
 ## Spotify
 {{< spotify type="album" id="6F17MbloTeRoXs7JI3lTHy" width="100%" height="500" >}}
+
+
 
 ## Videos
 {{< youtube id="sLck-fxs6NI" title="Tom Waits - Top Of The Hill" >}}
@@ -62,7 +67,7 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 | Release Year   | 2017 |
 | Discogs Link   | [Tom Waits - Real Gone](https://www.discogs.com/release/11189843-Tom-Waits-Real-Gone) |
 | Label          | Anti- |
-| Format         | 2xLP, Album, RM, Rem |
+| Format         | Vinyl 2× LP Album Remastered (Remixed, 180 gram) |
 | Catalog Number | 7548-1 |
 
 Track D5 (known as "Chick A Boom") is not named or referenced on outer or inner sleeves, nor labels. 

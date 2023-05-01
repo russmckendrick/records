@@ -2,7 +2,7 @@
 title: "Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
 artist: "Elvis Presley"
 album_name: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
-date: 2021-06-07
+date: 2021-06-07T10:54:03.000000Z
 release_id: "9640707"
 slug: "50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707"
 hideSummary: true
@@ -13,6 +13,7 @@ cover:
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Vocal", "Ballad"]
 ---
+
 ## Tracklisting
 1. I Need Your Love Tonight
 2. Don't
@@ -28,8 +29,11 @@ styles: ["Rock & Roll", "Vocal", "Ballad"]
 12. Doncha' Think It's Time
 13. Stuck On You *
 14. It's Now Or Never *
+
+
 ## Spotify
 {{< spotify type="album" id="0s357yjkkRrf0KCXtnISGe" width="100%" height="500" >}}
+
 
 
 ## Notes
@@ -37,8 +41,8 @@ styles: ["Rock & Roll", "Vocal", "Ballad"]
 | ---------------| ----------- |
 | Release Year   | 2016 |
 | Discogs Link   | [Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)](https://www.discogs.com/release/9640707-Elvis-Presley-50000000-Elvis-Fans-Cant-Be-Wrong-Elvis-Gold-Records-Vol-2) |
-| Label          | Vinyl Lovers |
-| Format         | LP, Comp, Ltd, RE, 180 |
+| Label          | Vinyl Lovers (3) |
+| Format         | Vinyl LP Compilation Limited Edition Reissue (180 Gram) |
 | Catalog Number | 6785426 |
 
 * BONUS TRACKS
