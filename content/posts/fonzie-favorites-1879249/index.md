@@ -49,8 +49,8 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 
 
 ## Videos
-### Fonzerelli Slide
-{{< youtube id="PO7-jN9mLso" title="Fonzerelli Slide" >}}<br>
+### The Flamingos - I Only Have Eyes For You
+{{< youtube id="63nlhoda2MY" title="The Flamingos - I Only Have Eyes For You" >}}<br>
 
 ### More Videos
 
@@ -62,8 +62,8 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 - [BARBARA  ANN - THE REGENTS](https://www.youtube.com/watch?v=fA_AetLMHo4)
 - [Jerry Lee Lewis - Great Balls of Fire](https://www.youtube.com/watch?v=7IjgZGhHrYY)
 - [Bill Haley - Rock Around The Clock (1956)](https://www.youtube.com/watch?v=F5fsqYctXgM)
+- [Fonzerelli Slide](https://www.youtube.com/watch?v=PO7-jN9mLso)
 - [The Dubs - Could This Be Magic](https://www.youtube.com/watch?v=jsH418wCt3M)
-- [The Flamingos - I Only Have Eyes For You](https://www.youtube.com/watch?v=63nlhoda2MY)
 - [Tear's On My Pillow](https://www.youtube.com/watch?v=we2kmO24rgE)
 - [DOO WOP GOLD,MAYBE THE CHANTELS.](https://www.youtube.com/watch?v=vG-dv88RAMY)
 - [A Million To One- Jimmy Charles- 1960](https://www.youtube.com/watch?v=Jtej42eOdXA)

@@ -36,14 +36,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Airhead - Right Now
-{{< youtube id="juzGy3-fGpg" title="Airhead - Right Now" >}}<br>
+### Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]
+{{< youtube id="2xpANQbpbkw" title="Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]" >}}<br>
 
 ### More Videos
 
 - [Airhead - Funny How (Official Music Video)](https://www.youtube.com/watch?v=17Zfcq6cq2g)
+- [Airhead - Right Now](https://www.youtube.com/watch?v=juzGy3-fGpg)
 - [Airhead - Counting Sheep [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=frNsD1ktDlk)
-- [Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=2xpANQbpbkw)
 
 
 ## Release Information

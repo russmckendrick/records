@@ -47,14 +47,13 @@ styles: ["Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### Honky Tonk Women (With Intro / Set 1 / Live At The Fillmore East/1970)
-{{< youtube id="mkR-RCx2CTo" title="Honky Tonk Women (With Intro / Set 1 / Live At The Fillmore East/1970)" >}}<br>
+### MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST
+{{< youtube id="2cLV_pIPdNE" title="MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST" >}}<br>
 
 ### More Videos
 
 - [Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)](https://www.youtube.com/watch?v=79YmYQebXzE)
 - [MAD DOGS AND ENGLISHMEN @ THE FILLMORE EAST](https://www.youtube.com/watch?v=Ia-IoPMR9Uo)
-- [MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST](https://www.youtube.com/watch?v=2cLV_pIPdNE)
 - [Joe Cocker  - Mad Dogs & Englishmen - Space Captain](https://www.youtube.com/watch?v=-407iUd_pFY)
 - [The Letter (Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=LlX5IWwizGg)
 - [J̤o̤e̤ ̤C̤o̤c̤k̤e̤r̤-̤M̤a̤d̤ Dogs & .... (Deluxe Edition)[Full Album HQ]](https://www.youtube.com/watch?v=tr7EOkIgiqo)
@@ -63,6 +62,7 @@ styles: ["Blues Rock", "Classic Rock"]
 - [Something (Set 1 / Live At The Fillmore East/3/28/70)](https://www.youtube.com/watch?v=EIjikyrW8ak)
 - [Joe Cocker, Mad Dogs and Englishmen - Mad Dogs & Englishmen Theme](https://www.youtube.com/watch?v=YrK5GZGqxNg)
 - [Joe Cocker (Mad Dogs & Englishmen) - Side 1](https://www.youtube.com/watch?v=7WdO95H_k-4)
+- [Honky Tonk Women (With Intro / Set 1 / Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=mkR-RCx2CTo)
 - [Joe Cocker Feelin' Alright Mad Dogs & Englishmen (1970)](https://www.youtube.com/watch?v=Xy3NFzw_cfY)
 - [Delta Lady (Set 2 / Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=cXwD6mBxFgM)
 - [Joe Cocker, Mad Dogs and Englishmen - Something (LIVE) HD](https://www.youtube.com/watch?v=kiT5J61f588)

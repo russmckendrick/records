@@ -34,14 +34,14 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Utopia Strong – Castalia
-{{< youtube id="30Zm659bGJM" title="The Utopia Strong – Castalia" >}}<br>
+### Persephone Sleeps
+{{< youtube id="kwlerJ1u7Vk" title="Persephone Sleeps" >}}<br>
 
 ### More Videos
 
 - [Trident of Fire](https://www.youtube.com/watch?v=xvIHA2Zek3U)
-- [Persephone Sleeps](https://www.youtube.com/watch?v=kwlerJ1u7Vk)
 - [The Utopia Strong – Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
+- [The Utopia Strong – Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
 
 
 ## Release Information

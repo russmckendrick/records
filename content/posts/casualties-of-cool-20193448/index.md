@@ -55,13 +55,13 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 
 
 ## Videos
-### Casualties of Cool 'Flight' - Official Promo Video
-{{< youtube id="muNLqPPTuDQ" title="Casualties of Cool 'Flight' - Official Promo Video" >}}<br>
+### 01 daddy
+{{< youtube id="vNQDWKzjDqY" title="01 daddy" >}}<br>
 
 ### More Videos
 
 - [CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=L2avV9ZGE3A)
-- [01 daddy](https://www.youtube.com/watch?v=vNQDWKzjDqY)
+- [Casualties of Cool 'Flight' - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
 
 
 ## Release Information

@@ -45,19 +45,19 @@ styles: ["Vocal"]
 
 
 ## Videos
-### Ev'ry Night About This Time
-{{< youtube id="8oFBFAvUnsw" title="Ev'ry Night About This Time" >}}<br>
+### When the Swallows Come Back to Capistrano
+{{< youtube id="X2Fg7eJ7TPU" title="When the Swallows Come Back to Capistrano" >}}<br>
 
 ### More Videos
 
 - [If I Didn't Care](https://www.youtube.com/watch?v=Xt3QYPkoa64)
 - [Bless You (For Being An Angel)](https://www.youtube.com/watch?v=XIuNdUNhQ_I)
-- [When the Swallows Come Back to Capistrano](https://www.youtube.com/watch?v=X2Fg7eJ7TPU)
 - [Whispering Grass (Don't Tell The Trees)](https://www.youtube.com/watch?v=v5rdLrZu6YM)
 - [Maybe](https://www.youtube.com/watch?v=cSv7Nq2ia_Y)
 - [Java Jive](https://www.youtube.com/watch?v=R9jc0qNvVQk)
 - [Do I Worry](https://www.youtube.com/watch?v=Oib5lKejxkQ)
 - [I Don't Want To Set The World On Fire](https://www.youtube.com/watch?v=PdLRCvVM8b4)
+- [Ev'ry Night About This Time](https://www.youtube.com/watch?v=8oFBFAvUnsw)
 - [Don't Get Around Much Anymore](https://www.youtube.com/watch?v=tCDbAUtmDzU)
 - [The Ink Spots - To Each His Own](https://www.youtube.com/watch?v=vbJTkC5fkvo)
 - [Ring, Telephone, Ring](https://www.youtube.com/watch?v=nDJmzW91IhU)

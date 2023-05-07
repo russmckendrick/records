@@ -107,8 +107,8 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 
 
 ## Videos
-### A Certain Ratio - All Night Party (1979)
-{{< youtube id="HAM9uMKQCPw" title="A Certain Ratio - All Night Party (1979)" >}}<br>
+### The Distractions - Time Goes By So Slow (1979)
+{{< youtube id="ouOeEoF8-Dk" title="The Distractions - Time Goes By So Slow (1979)" >}}<br>
 
 ### More Videos
 
@@ -116,12 +116,12 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
 - [Cabaret Voltaire - Baader Meinhof](https://www.youtube.com/watch?v=8ty1kAz7gR0)
 - [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
+- [A Certain Ratio - All Night Party (1979)](https://www.youtube.com/watch?v=HAM9uMKQCPw)
 - [Get the Message (DNA Mix)](https://www.youtube.com/watch?v=vXSFntRia0k)
 - [Electricity (Factory Version) - OMD](https://www.youtube.com/watch?v=GFuz-BLmeb4)
 - [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
 - [Joy Division - 06 - She's Lost Control](https://www.youtube.com/watch?v=7PtvIr2oiaE)
 - [Step On](https://www.youtube.com/watch?v=Z6xFAuxft7I)
-- [The Distractions - Time Goes By So Slow (1979)](https://www.youtube.com/watch?v=ouOeEoF8-Dk)
 - [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US Sunshine & Love CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
 - [the names - nightshift](https://www.youtube.com/watch?v=eg4i-fwgBac)
 - [New Order - Ceremony (Original Version) + Lyrics](https://www.youtube.com/watch?v=H5UK40sSo8I)

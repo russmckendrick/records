@@ -56,14 +56,14 @@ styles: ["Noise", "Experimental", "Ambient"]
 
 
 ## Videos
-### 65daysofstatic | replicr, 2019. new album coming 27.0.9.19
-{{< youtube id="9LQckltGMJ4" title="65daysofstatic | replicr, 2019. new album coming 27.0.9.19" >}}<br>
+### 65daysofstatic | Five Waves
+{{< youtube id="Ph2V7KlA07Y" title="65daysofstatic | Five Waves" >}}<br>
 
 ### More Videos
 
+- [65daysofstatic | replicr, 2019. new album coming 27.0.9.19](https://www.youtube.com/watch?v=9LQckltGMJ4)
 - [65daysofstatic - popular beats (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=dH9tZ5z4dFg)
 - [65daysofstatic | Trackerplatz (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=l73eDjbpPzA)
-- [65daysofstatic | Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
 
 
 ## Release Information

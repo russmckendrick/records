@@ -47,8 +47,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Minimum Wage
-{{< youtube id="SRcRn_Xv7Ek" title="Minimum Wage" >}}<br>
+### Road Movie to Berlin
+{{< youtube id="dF7euO5RmqI" title="Road Movie to Berlin" >}}<br>
 
 ### More Videos
 
@@ -64,13 +64,13 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)
 - [Someone Keeps Moving My Chair](https://www.youtube.com/watch?v=5pud7rt4KhU)
 - [Hearing Aid](https://www.youtube.com/watch?v=wMF6Jpm5cvQ)
+- [Minimum Wage](https://www.youtube.com/watch?v=SRcRn_Xv7Ek)
 - [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
 - [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
 - [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)
 - [Women & Men](https://www.youtube.com/watch?v=33BTvjZ45MI)
 - [Sapphire Bullets of Pure Love](https://www.youtube.com/watch?v=MnYKfrgN76Y)
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
-- [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
 
 
 ## Release Information

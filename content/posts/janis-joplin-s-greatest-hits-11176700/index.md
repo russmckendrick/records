@@ -38,17 +38,17 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Janis Joplin - Get It While You Can (Official Lyric Video)
-{{< youtube id="mtj9w2gYzV4" title="Janis Joplin - Get It While You Can (Official Lyric Video)" >}}<br>
+### Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)
+{{< youtube id="A24JZkgvNv4" title="Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Big Brother & The Holding Company, Janis Joplin - Summertime (Official Audio)](https://www.youtube.com/watch?v=A24JZkgvNv4)
 - [Janis Joplin - Cry Baby (Official Audio)](https://www.youtube.com/watch?v=VfGSd-tikH4)
 - [Janis Joplin - Me and Bobby McGee (Official Music Video)](https://www.youtube.com/watch?v=5Cg-j0X09Ag)
 - [Janis Joplin - Try (Just a Little Bit Harder) (Official Audio)](https://www.youtube.com/watch?v=jjHw_FJySg4)
 - [Piece of My Heart (Official Audio)](https://www.youtube.com/watch?v=SCngPse1iiI)
 - [Big Brother & The Holding Company, Janis Joplin - Bye, Bye Baby (Audio) ft. Janis Joplin](https://www.youtube.com/watch?v=xXX5hsnENG8)
+- [Janis Joplin - Get It While You Can (Official Lyric Video)](https://www.youtube.com/watch?v=mtj9w2gYzV4)
 - [Move Over](https://www.youtube.com/watch?v=W4zumh4m7Kg)
 
 

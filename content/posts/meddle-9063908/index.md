@@ -34,12 +34,12 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Echoes
-{{< youtube id="53N99Nim6WE" title="Echoes" >}}<br>
+### One Of These Days
+{{< youtube id="48PJGVf4xqk" title="One Of These Days" >}}<br>
 
 ### More Videos
 
-- [One Of These Days](https://www.youtube.com/watch?v=48PJGVf4xqk)
+- [Echoes](https://www.youtube.com/watch?v=53N99Nim6WE)
 - [Pink Floyd - Meddle (Full Album)](https://www.youtube.com/watch?v=90zyF3gPF8M)
 
 

@@ -39,18 +39,18 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### Broken Hearts
-{{< youtube id="pO1hImyPtS8" title="Broken Hearts" >}}<br>
+### Cult of Personality
+{{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}<br>
 
 ### More Videos
 
-- [Cult of Personality](https://www.youtube.com/watch?v=gEjlMvDsp9I)
 - [I Want To Know](https://www.youtube.com/watch?v=gMzHmdo7BEw)
 - [Middle Man](https://www.youtube.com/watch?v=oQl1yqQGJp8)
 - [Desperate People](https://www.youtube.com/watch?v=D3Mb9e8mqsg)
 - [Open Letter (To a Landlord)](https://www.youtube.com/watch?v=yEeyR6F-RCI)
 - [Funny Vibe](https://www.youtube.com/watch?v=R7Dq8CT0l0E)
 - [Memories Can't Wait](https://www.youtube.com/watch?v=VSkm4Dr2AzQ)
+- [Broken Hearts](https://www.youtube.com/watch?v=pO1hImyPtS8)
 - [Glamour Boys](https://www.youtube.com/watch?v=9bvU5Vl0H-M)
 - [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
 - [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)

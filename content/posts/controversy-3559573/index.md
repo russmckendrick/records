@@ -36,15 +36,15 @@ styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 
 
 ## Videos
-### Controversy
-{{< youtube id="TzWM8pjAp44" title="Controversy" >}}<br>
+### Private Joy
+{{< youtube id="TX94-R9rsoQ" title="Private Joy" >}}<br>
 
 ### More Videos
 
+- [Controversy](https://www.youtube.com/watch?v=TzWM8pjAp44)
 - [Prince - Controversy (Official Music Video)](https://www.youtube.com/watch?v=4gazNwzC4H0)
 - [Controversy](https://www.youtube.com/watch?v=3fZy5hX6uLg)
 - [Prince - Sexuality (Official Music Video)](https://www.youtube.com/watch?v=mZO5HLRk7KE)
-- [Private Joy](https://www.youtube.com/watch?v=TX94-R9rsoQ)
 - [Annie Christian](https://www.youtube.com/watch?v=rcqb9EvqXS8)
 
 

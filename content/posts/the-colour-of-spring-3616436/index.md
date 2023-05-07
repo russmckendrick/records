@@ -45,15 +45,15 @@ styles: ["Pop Rock", "Experimental"]
 
 
 ## Videos
-### Talk Talk - Living In Another World (Official Video)
-{{< youtube id="fZQZZf_R434" title="Talk Talk - Living In Another World (Official Video)" >}}<br>
+### I Don't Believe in You (1997 Remaster)
+{{< youtube id="o8canrG0YfY" title="I Don't Believe in You (1997 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Talk Talk - Give It Up](https://www.youtube.com/watch?v=OsEgxsyUn2c)
 - [Talk Talk - Life's What You Make It (Official Video)](https://www.youtube.com/watch?v=l3VqAsMXE7o)
+- [Talk Talk - Living In Another World (Official Video)](https://www.youtube.com/watch?v=fZQZZf_R434)
 - [Happiness Is Easy (1997 Remaster)](https://www.youtube.com/watch?v=gl4lvJmvqQU)
-- [I Don't Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=o8canrG0YfY)
 - [April 5th (1997 Remaster)](https://www.youtube.com/watch?v=h3vbVCRNcrM)
 - [Give It Up (1997 Remaster)](https://www.youtube.com/watch?v=XK4Cw2STZiQ)
 - [Chameleon Day (1997 Remaster)](https://www.youtube.com/watch?v=RQGAw43t20k)

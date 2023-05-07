@@ -37,14 +37,14 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 
 
 ## Videos
-### The Grid / Fripp - Loom
-{{< youtube id="UAOmlMLkd8w" title="The Grid / Fripp - Loom" >}}<br>
+### The Grid / Fripp - Empire
+{{< youtube id="pR9Ig8JhffE" title="The Grid / Fripp - Empire" >}}<br>
 
 ### More Videos
 
-- [The Grid / Fripp - Empire](https://www.youtube.com/watch?v=pR9Ig8JhffE)
 - [The Grid / Fripp - Milkwood](https://www.youtube.com/watch?v=P_oQuB49VnA)
 - [The Grid / Fripp - Pulse Detected](https://www.youtube.com/watch?v=gllVSMQBR7c)
+- [The Grid / Fripp - Loom](https://www.youtube.com/watch?v=UAOmlMLkd8w)
 - [The Grid / Fripp - Leviathan](https://www.youtube.com/watch?v=ylNNEx6GUNw)
 - [The Grid / Fripp - After The Rain](https://www.youtube.com/watch?v=VuyDihMwHSY)
 - [The Grid / Fripp - Fire Tower](https://www.youtube.com/watch?v=kp03NRe_tOs)

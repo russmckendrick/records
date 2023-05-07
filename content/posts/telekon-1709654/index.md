@@ -41,8 +41,8 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Please Push No More
-{{< youtube id="d_nomfDoiGQ" title="Please Push No More" >}}<br>
+### The Joy Circuit
+{{< youtube id="_KQdSQRd-6g" title="The Joy Circuit" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["New Wave", "Synth-pop"]
 - [I'm an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
 - [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
-- [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
+- [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 
 
 ## Release Information

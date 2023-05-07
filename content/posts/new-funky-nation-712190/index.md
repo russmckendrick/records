@@ -41,12 +41,12 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### Six Bad Brothas
-{{< youtube id="9AATTZxO2PQ" title="Six Bad Brothas" >}}<br>
+### Rated R
+{{< youtube id="UPI5Z9JCA7M" title="Rated R" >}}<br>
 
 ### More Videos
 
-- [Rated R](https://www.youtube.com/watch?v=UPI5Z9JCA7M)
+- [Six Bad Brothas](https://www.youtube.com/watch?v=9AATTZxO2PQ)
 - [Don't Mess](https://www.youtube.com/watch?v=NTZaHs0Jukc)
 - [New Funky Nation](https://www.youtube.com/watch?v=wtj3sgm8M_I)
 - [Once Upon A Drive By](https://www.youtube.com/watch?v=GQPLfzFnWA0)

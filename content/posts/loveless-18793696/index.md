@@ -39,12 +39,12 @@ styles: ["Shoegaze", "Alternative Rock"]
 
 
 ## Videos
-### Sometimes
-{{< youtube id="fH0NQzXlzyQ" title="Sometimes" >}}<br>
+### When You Sleep
+{{< youtube id="I-Ig71fhUc8" title="When You Sleep" >}}<br>
 
 ### More Videos
 
-- [When You Sleep](https://www.youtube.com/watch?v=I-Ig71fhUc8)
+- [Sometimes](https://www.youtube.com/watch?v=fH0NQzXlzyQ)
 
 
 ## Release Information

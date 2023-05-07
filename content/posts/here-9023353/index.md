@@ -40,12 +40,12 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Teenage Fanclub - Thin Air
-{{< youtube id="wjAl8jqdMjg" title="Teenage Fanclub - Thin Air" >}}<br>
+### Teenage Fanclub - I'm In Love
+{{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}<br>
 
 ### More Videos
 
-- [Teenage Fanclub - I'm In Love](https://www.youtube.com/watch?v=FDOLKSp2AWU)
+- [Teenage Fanclub - Thin Air](https://www.youtube.com/watch?v=wjAl8jqdMjg)
 
 
 ## Release Information

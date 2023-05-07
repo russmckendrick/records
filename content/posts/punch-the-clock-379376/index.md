@@ -41,8 +41,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Mouth Almighty
-{{< youtube id="CIDC1bKNp_Q" title="Mouth Almighty" >}}<br>
+### The Invisible Man
+{{< youtube id="3o-iZ_GfTTs" title="The Invisible Man" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["New Wave", "Pop Rock"]
 - [The Greatest Thing](https://www.youtube.com/watch?v=dAizlY5yzd8)
 - [Everyday I Write The Book](https://www.youtube.com/watch?v=Ajw8MM4yhpA)
 - [TKO (Boxing Day)](https://www.youtube.com/watch?v=Y5yoFjJSlwo)
-- [The Invisible Man](https://www.youtube.com/watch?v=3o-iZ_GfTTs)
+- [Mouth Almighty](https://www.youtube.com/watch?v=CIDC1bKNp_Q)
 - [The Element Within Her](https://www.youtube.com/watch?v=ilKum_0cfK4)
 - [Charm School](https://www.youtube.com/watch?v=FoK19qiftb0)
 - [Pills & Soap](https://www.youtube.com/watch?v=MWIrIsHgpYo)

@@ -108,13 +108,13 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Bruce Springsteen - The Album Collection First Look VOL.1
-{{< youtube id="rY1YyXQ8CqU" title="Bruce Springsteen - The Album Collection First Look VOL.1" >}}<br>
+### Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)
+{{< youtube id="H7T_9Yt9f2U" title="Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)" >}}<br>
 
 ### More Videos
 
-- [Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)](https://www.youtube.com/watch?v=H7T_9Yt9f2U)
 - [Bruce Springsteen: The Album Collection - The Thrill Hill Sessions (Digital video- with...](https://www.youtube.com/watch?v=3evNvtbgojk)
+- [Bruce Springsteen - The Album Collection First Look VOL.1](https://www.youtube.com/watch?v=rY1YyXQ8CqU)
 - [Unboxing Bruce Springsteen The Album Collection Vol. 1](https://www.youtube.com/watch?v=6qp0QVjTnJU)
 
 

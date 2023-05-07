@@ -40,12 +40,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### War Is Over (Von Hertzen Brothers)
-{{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}<br>
+### War Is Over
+{{< youtube id="h0vgOAvzG9c" title="War Is Over" >}}<br>
 
 ### More Videos
 
-- [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
+- [War Is Over (Von Hertzen Brothers)](https://www.youtube.com/watch?v=iUeSjnI4kP4)
 - [Von Hertzen Brothers War Is Over](https://www.youtube.com/watch?v=uEa2_NhW6HU)
 
 

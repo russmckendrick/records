@@ -48,15 +48,15 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Stereolab - Feel and Triple
-{{< youtube id="_aXEUwbf1S4" title="Stereolab - Feel and Triple" >}}<br>
+### Stereolab - Cosmic Country Noir
+{{< youtube id="DLPtDxWTXLk" title="Stereolab - Cosmic Country Noir" >}}<br>
 
 ### More Videos
 
-- [Stereolab - Cosmic Country Noir](https://www.youtube.com/watch?v=DLPtDxWTXLk)
 - [Stereolab - Margerine Rock](https://www.youtube.com/watch?v=nXRL2etsV6I)
 - [Stereolab - La Demeure](https://www.youtube.com/watch?v=cWtVtDYhBAI)
 - [Stereolab - Need To Be](https://www.youtube.com/watch?v=NTPeq46FRzA)
+- [Stereolab - Feel and Triple](https://www.youtube.com/watch?v=_aXEUwbf1S4)
 - [Stereolab - Margerine Melodie](https://www.youtube.com/watch?v=YlMqK1vzvBc)
 
 

@@ -35,12 +35,12 @@ styles: ["Krautrock"]
 
 
 ## Videos
-### Pinch - Can (1972)
-{{< youtube id="Hls8WnUfHbY" title="Pinch - Can (1972)" >}}<br>
+### Can - Sing Swan Song
+{{< youtube id="3VmM8qRRLwU" title="Can - Sing Swan Song" >}}<br>
 
 ### More Videos
 
-- [Can - Sing Swan Song](https://www.youtube.com/watch?v=3VmM8qRRLwU)
+- [Pinch - Can (1972)](https://www.youtube.com/watch?v=Hls8WnUfHbY)
 - [One More Night - Can](https://www.youtube.com/watch?v=MyJzv4AFZXc)
 - [Can - Vitamin C 1972 HQ Sound](https://www.youtube.com/watch?v=mtFBKCmUsNM)
 - [Soup - Can (1972) 1/2](https://www.youtube.com/watch?v=xtAfV07bn4A)

@@ -39,16 +39,16 @@ styles: ["Rock & Roll", "Hard Rock"]
 
 
 ## Videos
-### Thick N' Thin
-{{< youtube id="78ICN03p6vg" title="Thick N' Thin" >}}<br>
+### The Black Crowes - Twice As Hard
+{{< youtube id="XLg7aoGAkkk" title="The Black Crowes - Twice As Hard" >}}<br>
 
 ### More Videos
 
 - [The Black Crowes - Hard To Handle](https://www.youtube.com/watch?v=BRcs_OzQb14)
 - [The Black Crowes - She Talks To Angels (Official Video)](https://www.youtube.com/watch?v=H58gMiQQRm0)
-- [The Black Crowes - Twice As Hard](https://www.youtube.com/watch?v=XLg7aoGAkkk)
 - [Jealous Again](https://www.youtube.com/watch?v=p0J4hxqiiho)
 - [Sister Luck](https://www.youtube.com/watch?v=2AkDHA-JKkY)
+- [Thick N' Thin](https://www.youtube.com/watch?v=78ICN03p6vg)
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 

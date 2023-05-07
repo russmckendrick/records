@@ -46,15 +46,15 @@ styles: ["Prog Rock", "Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Northern Comfort - Official Video
-{{< youtube id="asePpcjl8Gs" title="Crippled Black Phoenix - Northern Comfort - Official Video" >}}<br>
+### Crippled Black Phoenix - NO! A4=432Hz
+{{< youtube id="GsrUksHvrEo" title="Crippled Black Phoenix - NO! A4=432Hz" >}}<br>
 
 ### More Videos
 
 - [Crippled Black Phoenix - White Light Generator - Album Teaser](https://www.youtube.com/watch?v=63_zUUoqRoQ)
+- [Crippled Black Phoenix - Northern Comfort - Official Video](https://www.youtube.com/watch?v=asePpcjl8Gs)
 - [Crippled Black Phoenix -  We Remember You (album White Light Generator)](https://www.youtube.com/watch?v=ReBvOsYV92o)
 - [Black Light Generator - Crippled Black Phoenix](https://www.youtube.com/watch?v=EMGgl5FHqkM)
-- [Crippled Black Phoenix - NO! A4=432Hz](https://www.youtube.com/watch?v=GsrUksHvrEo)
 
 
 ## Release Information

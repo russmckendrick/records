@@ -37,8 +37,8 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Matt Berry - Solstice (Kill the Wolf Album)
-{{< youtube id="5f_3iqHpnVM" title="Matt Berry - Solstice (Kill the Wolf Album)" >}}<br>
+### Matt Berry - October Sun (Kill the Wolf Album)
+{{< youtube id="zSjjsJzKlzE" title="Matt Berry - October Sun (Kill the Wolf Album)" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 - [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
 - [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)
 - [Matt Berry - Wolf Quartet (Kill the Wolf Album)](https://www.youtube.com/watch?v=Cqx4BsxsMts)
-- [Matt Berry - October Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=zSjjsJzKlzE)
+- [Matt Berry - Solstice (Kill the Wolf Album)](https://www.youtube.com/watch?v=5f_3iqHpnVM)
 - [Matt Berry - The Signs (Kill the Wolf Album)](https://www.youtube.com/watch?v=LEgX3IBnnlg)
 - [Matt Berry - Knock Knock (Kill the Wolf Album)](https://www.youtube.com/watch?v=Zq_JpcQGYaU)
 - [Matt Berry - Bonfire (Kill the Wolf Album)](https://www.youtube.com/watch?v=3ykbiAL-48s)

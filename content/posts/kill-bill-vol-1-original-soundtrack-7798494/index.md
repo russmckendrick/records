@@ -40,8 +40,8 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 
 
 ## Videos
-### Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)
-{{< youtube id="qe2axAR9GZ4" title="Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)" >}}<br>
+### Kill Bill Vol. 1 [OST] #9 - Battle Without Honor Or Humanity
+{{< youtube id="ebMrRxK5S3U" title="Kill Bill Vol. 1 [OST] #9 - Battle Without Honor Or Humanity" >}}<br>
 
 ### More Videos
 
@@ -50,12 +50,12 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 - [5 6 7 8's - woo hoo - (j ross show) - vcd [jeffz].mpg](https://www.youtube.com/watch?v=7DJv0rx5g-c)
 - [Kill Bill - Vol. 1 [Soundtrack]](https://www.youtube.com/watch?v=RMJu05FDO5w)
 - [Kill Bill Vol. 1 [OST] #2 - That Certain Female](https://www.youtube.com/watch?v=EtrkC6mm6b8)
+- [Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)](https://www.youtube.com/watch?v=qe2axAR9GZ4)
 - [Kill Bill Vol. 1 [OST] #4 - Twisted Nerve](https://www.youtube.com/watch?v=5Q4AUvqfE_g)
 - [Kill Bill Vol. 1 [OST] #5 - Queen Of The Crime Council](https://www.youtube.com/watch?v=CLV5wyfPY74)
 - [Kill Bill Vol. 1 [OST] #6 - Ode To Oren Ishii](https://www.youtube.com/watch?v=B_6Yf4NJtYQ)
 - [Kill Bill Vol. 1 [OST] #7 - Run Fay Fun](https://www.youtube.com/watch?v=s8piKgdZd2A)
 - [Kill Bill Vol. 1 [OST] #8 - The Green Hornet Theme](https://www.youtube.com/watch?v=YAyyTHFNyIQ)
-- [Kill Bill Vol. 1 [OST] #9 - Battle Without Honor Or Humanity](https://www.youtube.com/watch?v=ebMrRxK5S3U)
 - [Kill Bill Vol. 1 [OST] #10 - Don't Let Me Be Misunderstood](https://www.youtube.com/watch?v=VTR5AT1QwXw)
 - [Kill Bill Vol. 1 [OST] #11 - Woo Hoo](https://www.youtube.com/watch?v=J-mRtjTAigo)
 - [Kill Bill Vol. 1 [OST] #12 - Crane/White Lightning](https://www.youtube.com/watch?v=U7-B7SkSzQ8)

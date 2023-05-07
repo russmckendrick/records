@@ -38,17 +38,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Une Annee Sans Lumiere (Official Audio)
-{{< youtube id="pPKUDprZIvs" title="Arcade Fire - Une Annee Sans Lumiere (Official Audio)" >}}<br>
+### Arcade Fire - Wake Up (Official Audio)
+{{< youtube id="sJRPPUr1yic" title="Arcade Fire - Wake Up (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)](https://www.youtube.com/watch?v=TwisvB3PVpU)
 - [Arcade Fire - Neighborhood #2 (Laika) (Official Video)](https://www.youtube.com/watch?v=siFsdInZqC0)
+- [Arcade Fire - Une Annee Sans Lumiere (Official Audio)](https://www.youtube.com/watch?v=pPKUDprZIvs)
 - [Arcade Fire - Neighborhood #3 (Power Out) (Official Video)](https://www.youtube.com/watch?v=0ozdCLrTrtA)
 - [Arcade Fire - Neighborhood #4 (7 Kettles) (Official Audio)](https://www.youtube.com/watch?v=VKZ2rhcwaXE)
 - [Arcade Fire - Crown of Love (Official Audio)](https://www.youtube.com/watch?v=p9XX193hgH8)
-- [Arcade Fire - Wake Up (Official Audio)](https://www.youtube.com/watch?v=sJRPPUr1yic)
 - [Arcade Fire - Haiti (Official Audio)](https://www.youtube.com/watch?v=tGvpUgo7ayY)
 - [Arcade Fire - Rebellion (Lies) (Official Remastered Video)](https://www.youtube.com/watch?v=8vN2vqaEBhM)
 - [Arcade Fire - In the Backseat (Official Audio)](https://www.youtube.com/watch?v=i2jsArz5IQg)

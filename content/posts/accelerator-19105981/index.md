@@ -38,8 +38,8 @@ styles: ["Techno"]
 
 
 ## Videos
-### The Future Sound of London - Pulse State
-{{< youtube id="F0RI8L6e7Y0" title="The Future Sound of London - Pulse State" >}}<br>
+### T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD2
+{{< youtube id="fDVsuZ9kbNQ" title="T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD2" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,6 @@ styles: ["Techno"]
 - [Papua New Guinea (Andrew Weatherall Remix 7 Edit)](https://www.youtube.com/watch?v=7yGjN-pNy0s)
 - [The Future Sound Of London - Papua New Guinea HD (Offical Video)](https://www.youtube.com/watch?v=wfWMv8Y1V5E)
 - [Stolen Documents](https://www.youtube.com/watch?v=8pwHvkf2Cg8)
-- [T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD2](https://www.youtube.com/watch?v=fDVsuZ9kbNQ)
 - [Stolen Documents (Accelerated Mix)](https://www.youtube.com/watch?v=xU6V_1Q114o)
 - [The Future Sound of London - While Others Cry](https://www.youtube.com/watch?v=6i0LtFyV8KM)
 - [Future Sound Of London - Calcium](https://www.youtube.com/watch?v=a4iyPMWOZkY)
@@ -57,6 +56,7 @@ styles: ["Techno"]
 - [Papua New Guinea](https://www.youtube.com/watch?v=6QCXpHdW9ak)
 - [The Future Sound Of London - Moscow - Video From Rusty's UV Art Display.](https://www.youtube.com/watch?v=_coOzPytQ9w)
 - [The Future Sound of London - 1 in 8](https://www.youtube.com/watch?v=Zu9ak4tCas0)
+- [The Future Sound of London - Pulse State](https://www.youtube.com/watch?v=F0RI8L6e7Y0)
 - [CENTRAL INDUSTRIAL - FSOL](https://www.youtube.com/watch?v=cOYJ7-HaZSQ)
 - [The Future Sound Of London - Calcium - Jumpin' & Pumpin' 1992](https://www.youtube.com/watch?v=-Mo8N_03mq4)
 

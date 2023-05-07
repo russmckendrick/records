@@ -39,13 +39,13 @@ styles: ["Leftfield", "Indie Rock"]
 
 
 ## Videos
-### DLZ
-{{< youtube id="0BAtp5yi5-4" title="DLZ" >}}<br>
+### Love Dog
+{{< youtube id="jigPcKz3pSQ" title="Love Dog" >}}<br>
 
 ### More Videos
 
 - [Halfway Home](https://www.youtube.com/watch?v=CBEht-RY8oc)
-- [Love Dog](https://www.youtube.com/watch?v=jigPcKz3pSQ)
+- [DLZ](https://www.youtube.com/watch?v=0BAtp5yi5-4)
 - [Family Tree](https://www.youtube.com/watch?v=nCdYMs66Y38)
 - [Love Dog](https://www.youtube.com/watch?v=e3QoNBCNWRY)
 - [Heroic Dose](https://www.youtube.com/watch?v=KiiOhcJ24EY)

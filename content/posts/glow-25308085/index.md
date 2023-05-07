@@ -40,15 +40,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Lullaby
-{{< youtube id="dSS4uoDEVBM" title="Lullaby" >}}<br>
+### I Would Have Left You  - Reef -  Glow 1997
+{{< youtube id="4GgTuTU0PqY" title="I Would Have Left You  - Reef -  Glow 1997" >}}<br>
 
 ### More Videos
 
 - [Place Your Hands](https://www.youtube.com/watch?v=cJ-kDEXcR3c)
 - [Place Your Hands -  Reef -  Glow 1997](https://www.youtube.com/watch?v=e0iN7Mg73pQ)
 - [I Would Have Left You](https://www.youtube.com/watch?v=5QCEmbvrawY)
-- [I Would Have Left You  - Reef -  Glow 1997](https://www.youtube.com/watch?v=4GgTuTU0PqY)
 - [Summer's In Bloom](https://www.youtube.com/watch?v=RLxhXi0Bzdg)
 - [Summer's In Bloom -  Reef -  Glow 1997](https://www.youtube.com/watch?v=kc5DhwC5flI)
 - [Lately Stomping](https://www.youtube.com/watch?v=ZLn3kpmgmzI)
@@ -58,6 +57,7 @@ styles: ["Alternative Rock"]
 - [I'm Not Scared](https://www.youtube.com/watch?v=eDBj6-x5joM)
 - [Robot Riff](https://www.youtube.com/watch?v=Lmny-IhbJPg)
 - [Yer Old](https://www.youtube.com/watch?v=Eugzm7Q7Tvs)
+- [Lullaby](https://www.youtube.com/watch?v=dSS4uoDEVBM)
 
 
 ## Release Information

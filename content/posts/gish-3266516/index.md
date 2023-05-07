@@ -39,19 +39,19 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 
 
 ## Videos
-### Snail (Remastered 2011)
-{{< youtube id="7rGxhKC33GI" title="Snail (Remastered 2011)" >}}<br>
+### The Smashing Pumpkins - I Am One (Official Music Video)
+{{< youtube id="Pi6RJmUNBbw" title="The Smashing Pumpkins - I Am One (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}](https://www.youtube.com/watch?v=E2RDyA8id0A)
-- [The Smashing Pumpkins - I Am One (Official Music Video)](https://www.youtube.com/watch?v=Pi6RJmUNBbw)
 - [The Smashing Pumpkins - Siva (Official Music Video)](https://www.youtube.com/watch?v=F3wAtWywrP4)
 - [The Smashing Pumpkins - Rhinoceros (Official Music Video)](https://www.youtube.com/watch?v=aVfWx9282y0)
 - [Bury Me (Remastered 2011)](https://www.youtube.com/watch?v=B15BrotSE68)
 - [Crush (Remastered 2011)](https://www.youtube.com/watch?v=QJLFets4aHQ)
 - [The Smashing Pumpkins - Crush](https://www.youtube.com/watch?v=St0--qAA7yg)
 - [Suffer (Remastered 2011)](https://www.youtube.com/watch?v=8z5BcqMgkQ0)
+- [Snail (Remastered 2011)](https://www.youtube.com/watch?v=7rGxhKC33GI)
 - [Tristessa (Remastered 2011)](https://www.youtube.com/watch?v=-n-0mbX5E4w)
 
 

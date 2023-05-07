@@ -40,8 +40,8 @@ styles: ["New Wave", "Mod"]
 
 
 ## Videos
-### It's Too Bad
-{{< youtube id="IrUmEsR6yyY" title="It's Too Bad" >}}<br>
+### Fly
+{{< youtube id="H7mOmYa--x0" title="Fly" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["New Wave", "Mod"]
 - [David Watts](https://www.youtube.com/watch?v=5wRGnbqZBeE)
 - [English Rose](https://www.youtube.com/watch?v=Zve5DJn_9R8)
 - [In The Crowd (Full Version)](https://www.youtube.com/watch?v=b6pO2XkK88I)
-- [Fly](https://www.youtube.com/watch?v=H7mOmYa--x0)
+- [It's Too Bad](https://www.youtube.com/watch?v=IrUmEsR6yyY)
 - [The Place I Love](https://www.youtube.com/watch?v=p0zSbY6fqhU)
 - ['A' Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)
 - [Down In The Tube Station At Midnight (Full Version)](https://www.youtube.com/watch?v=rKcc_I9NXvM)

@@ -39,12 +39,12 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Videos
-### Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album
-{{< youtube id="TERbyLZDCqU" title="Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album" >}}<br>
+### STARS - Fixed [Official Music Video]
+{{< youtube id="17jdZdVmEuk" title="STARS - Fixed [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [STARS - Fixed [Official Music Video]](https://www.youtube.com/watch?v=17jdZdVmEuk)
+- [Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album](https://www.youtube.com/watch?v=TERbyLZDCqU)
 - [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
 
 

@@ -39,8 +39,8 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 
 
 ## Videos
-### Loaded - Primal Scream
-{{< youtube id="e8QPkD-15GQ" title="Loaded - Primal Scream" >}}<br>
+### Primal Scream - Come Together (Official HD Video)
+{{< youtube id="nyylAvfyuBw" title="Primal Scream - Come Together (Official HD Video)" >}}<br>
 
 ### More Videos
 
@@ -50,10 +50,10 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 - [Primal Scream - Higher Than the Sun (Official Video)](https://www.youtube.com/watch?v=YHjVIBDYgXg)
 - [Primal Scream - Higher Than the Sun (Official HD Video)](https://www.youtube.com/watch?v=sOBeeqvfyvc)
 - [Primal Scream - Come Together (Official Video)](https://www.youtube.com/watch?v=ZUjW82je_38)
-- [Primal Scream - Come Together (Official HD Video)](https://www.youtube.com/watch?v=nyylAvfyuBw)
 - [P̲r̲i̲m̲a̲l̲ S̲c̲r̲e̲a̲m̲](https://www.youtube.com/watch?v=Za39Z5cLSww)
 - [Primal Scream - Slip Inside This House (Official Audio)](https://www.youtube.com/watch?v=StskEnmH9l8)
 - [Come Together](https://www.youtube.com/watch?v=QLcKmOwRk_c)
+- [Loaded - Primal Scream](https://www.youtube.com/watch?v=e8QPkD-15GQ)
 - [Primal Scream - Higher Than the Sun (A Dub Symphony in Two Parts) (Official Audio)](https://www.youtube.com/watch?v=R3m0rmCtLyE)
 - [Primal Scream - I'm Comin' Down (Official Audio)](https://www.youtube.com/watch?v=1gsrx_8jQHY)
 - [Primal Scream - Shine Like Stars (Official Audio)](https://www.youtube.com/watch?v=SKPRmuraUEE)

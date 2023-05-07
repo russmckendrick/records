@@ -43,14 +43,14 @@ styles: ["Heavy Metal", "Progressive Metal"]
 
 
 ## Videos
-### Queensryche - Operation: Mindcrime
-{{< youtube id="vAI2QOBMlTA" title="Queensryche - Operation: Mindcrime" >}}<br>
+### Queensryche - I Don't Believe In Love
+{{< youtube id="2c3g6tTYoxM" title="Queensryche - I Don't Believe In Love" >}}<br>
 
 ### More Videos
 
 - [Queensryche - Eyes Of A Stranger (Official Video)](https://www.youtube.com/watch?v=A4duZjxusGM)
 - [Queensryche - Suite Sister Mary (Official Video)](https://www.youtube.com/watch?v=8CZGion20E4)
-- [Queensryche - I Don't Believe In Love](https://www.youtube.com/watch?v=2c3g6tTYoxM)
+- [Queensryche - Operation: Mindcrime](https://www.youtube.com/watch?v=vAI2QOBMlTA)
 
 
 ## Release Information

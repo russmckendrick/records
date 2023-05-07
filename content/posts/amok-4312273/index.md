@@ -43,8 +43,8 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 
 
 ## Videos
-### Atoms For Peace - Stuck Together Pieces
-{{< youtube id="UMfh89GQoQE" title="Atoms For Peace - Stuck Together Pieces" >}}<br>
+### Atoms For Peace - Ingenue
+{{< youtube id="DpVfF4U75B8" title="Atoms For Peace - Ingenue" >}}<br>
 
 ### More Videos
 
@@ -54,11 +54,11 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 - [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=uK2sW_eaNqs)
 - [Atoms For Peace - Dropped](https://www.youtube.com/watch?v=a9uL315xak8)
 - [Atoms For Peace - Unless](https://www.youtube.com/watch?v=sTncKpk0OTo)
+- [Atoms For Peace - Stuck Together Pieces](https://www.youtube.com/watch?v=UMfh89GQoQE)
 - [Atoms For Peace - Judge Jury And Executioner](https://www.youtube.com/watch?v=SZgN_SuxuBg)
 - [Atoms For Peace - Reverse Running](https://www.youtube.com/watch?v=l2yEXYCF7tg)
 - [Atoms For Peace - Amok](https://www.youtube.com/watch?v=dZHrwFvmRxg)
 - [Atoms For Peace - Before Your Very Eyes](https://www.youtube.com/watch?v=ZWrUEsVrdSU)
-- [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=DpVfF4U75B8)
 - [Atoms For Peace  - Judge Jury and Executioner](https://www.youtube.com/watch?v=LmNXMAQhp-I)
 
 

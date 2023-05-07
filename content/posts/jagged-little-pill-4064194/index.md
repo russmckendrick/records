@@ -40,12 +40,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mary Jane (2015 Remaster)
-{{< youtube id="HYHx5NlUlZk" title="Mary Jane (2015 Remaster)" >}}<br>
+### Alanis Morissette - You Oughta Know (Official 4K Music Video)
+{{< youtube id="NPcyTyilmYY" title="Alanis Morissette - You Oughta Know (Official 4K Music Video)" >}}<br>
 
 ### More Videos
 
-- [Alanis Morissette - You Oughta Know (Official 4K Music Video)](https://www.youtube.com/watch?v=NPcyTyilmYY)
 - [Alanis Morissette - Hand In My Pocket (Official 4K Music Video)](https://www.youtube.com/watch?v=CUjIY_XxF1g)
 - [Alanis Morissette - Ironic (Official 4K Music Video)](https://www.youtube.com/watch?v=Jne9t8sHpUc)
 - [Alanis Morissette - You Learn (Official 4K Music Video)](https://www.youtube.com/watch?v=GFW-WfuX2Dk)
@@ -55,6 +54,7 @@ styles: ["Alternative Rock"]
 - [Right Through You (2015 Remaster)](https://www.youtube.com/watch?v=gpCE80nmeTw)
 - [Forgiven (2015 Remaster)](https://www.youtube.com/watch?v=-9DnL-TlyJw)
 - [Head over Feet (2015 Remaster)](https://www.youtube.com/watch?v=r5thPd3hAKs)
+- [Mary Jane (2015 Remaster)](https://www.youtube.com/watch?v=HYHx5NlUlZk)
 - [Ironic (2015 Remaster)](https://www.youtube.com/watch?v=Adu-EfJbuBs)
 - [Not the Doctor (2015 Remaster)](https://www.youtube.com/watch?v=Jpm3SPXeB2I)
 - [Wake Up (2015 Remaster)](https://www.youtube.com/watch?v=JX6FbIkfyro)

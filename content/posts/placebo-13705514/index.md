@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Placebo - 36 Degrees
-{{< youtube id="f8CkTsDNGJI" title="Placebo - 36 Degrees" >}}<br>
+### PLACEBO - Teenage Angst
+{{< youtube id="Fx5bfLI5slU" title="PLACEBO - Teenage Angst" >}}<br>
 
 ### More Videos
 
+- [Placebo - 36 Degrees](https://www.youtube.com/watch?v=f8CkTsDNGJI)
 - [PLACEBO 'Bruise Pristine'](https://www.youtube.com/watch?v=v6XhoHTDFSM)
-- [PLACEBO - Teenage Angst](https://www.youtube.com/watch?v=Fx5bfLI5slU)
 - [Placebo - Come Home](https://www.youtube.com/watch?v=KFnvkypksPI)
 - [PLACEBO - Nancy Boy](https://www.youtube.com/watch?v=PBxuq_eWW94)
 - [Placebo - Teenage Angst](https://www.youtube.com/watch?v=SpEHT9blu_0)

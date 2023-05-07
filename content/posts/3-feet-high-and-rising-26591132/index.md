@@ -51,8 +51,8 @@ styles: ["Conscious", "Boom Bap"]
 
 
 ## Videos
-### De La Soul - Me Myself and I (Official Audio)
-{{< youtube id="fG9lFewfGEs" title="De La Soul - Me Myself and I (Official Audio)" >}}<br>
+### De La Soul - Description (Official Audio)
+{{< youtube id="t4h0SHmj9xY" title="De La Soul - Description (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -72,7 +72,7 @@ styles: ["Conscious", "Boom Bap"]
 - [De La Soul - Do as De La Does (Official Audio)](https://www.youtube.com/watch?v=xo2-GVRNEro)
 - [De La Soul - Plug Tunin' (Last Chance to Comprehend) (Official Audio)](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
 - [De La Soul - De La Orgee (Official Audio)](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
-- [De La Soul - Description (Official Audio)](https://www.youtube.com/watch?v=t4h0SHmj9xY)
+- [De La Soul - Me Myself and I (Official Audio)](https://www.youtube.com/watch?v=fG9lFewfGEs)
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)

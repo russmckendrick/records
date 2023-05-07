@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### The Verve - Drive You Home
-{{< youtube id="KdeirtG3bow" title="The Verve - Drive You Home" >}}<br>
+### The Verve - So It Goes
+{{< youtube id="UeZv80G_VvU" title="The Verve - So It Goes" >}}<br>
 
 ### More Videos
 
@@ -49,9 +49,9 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 - [The Verve - History](https://www.youtube.com/watch?v=2jmf9UQ3YIs)
 - [01 A New Decade](https://www.youtube.com/watch?v=mpYC6W1nu8o)
 - [The Verve - On your own (live)](https://www.youtube.com/watch?v=KxBJJIeIJ3g)
-- [The Verve - So It Goes](https://www.youtube.com/watch?v=UeZv80G_VvU)
 - [The Verve - A Northern Soul](https://www.youtube.com/watch?v=XSQQbhu3YUc)
 - [The Verve - Brainstorm Interlude](https://www.youtube.com/watch?v=leXtT2ryHPM)
+- [The Verve - Drive You Home](https://www.youtube.com/watch?v=KdeirtG3bow)
 - [The Verve- No Knock On My Door](https://www.youtube.com/watch?v=qCsnRwGHBGk)
 - [10 Life's an Ocean](https://www.youtube.com/watch?v=vSq2TiH7UyQ)
 - [The Verve - Stormy Clouds (1995) HD w/lyrics](https://www.youtube.com/watch?v=ISt2zpysAmk)

@@ -38,15 +38,15 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### KATATONIA - Austerity (Official Video) | Napalm Records
-{{< youtube id="hTj41rDTgBw" title="KATATONIA - Austerity (Official Video) | Napalm Records" >}}<br>
+### KATATONIA - Opaline (Official Video) | Napalm Records
+{{< youtube id="yYzVCJRJhow" title="KATATONIA - Opaline (Official Video) | Napalm Records" >}}<br>
 
 ### More Videos
 
 - [KATATONIA - Birds (Official Video) | Napalm Records](https://www.youtube.com/watch?v=_ILWPwc4KaY)
 - [KATATONIA - Sky Void of Stars (FULL ALBUM HQ) 2023!](https://www.youtube.com/watch?v=_juzo3SvrxM)
 - [KATATONIA - Atrium (Official Video) | Napalm Records](https://www.youtube.com/watch?v=BB24-hVZ88k)
-- [KATATONIA - Opaline (Official Video) | Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
+- [KATATONIA - Austerity (Official Video) | Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
 
 
 ## Release Information

@@ -38,13 +38,12 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 
 
 ## Videos
-### TOOL - Reflection (Audio)
-{{< youtube id="4MzVuHqsNoM" title="TOOL - Reflection (Audio)" >}}<br>
+### TOOL - The Grudge (Audio)
+{{< youtube id="3BXyEUOuNds" title="TOOL - The Grudge (Audio)" >}}<br>
 
 ### More Videos
 
 - [TOOL - Schism](https://www.youtube.com/watch?v=MM62wjLrgmA)
-- [TOOL - The Grudge (Audio)](https://www.youtube.com/watch?v=3BXyEUOuNds)
 - [TOOL - Parabola](https://www.youtube.com/watch?v=-_nQhGR0K8M)
 - [TOOL - Eon Blue Apocalypse (Audio)](https://www.youtube.com/watch?v=75hGl9stdQI)
 - [TOOL - The Patient (Audio)](https://www.youtube.com/watch?v=rDrhI1GUnNg)
@@ -55,6 +54,7 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 - [TOOL - Ticks & Leeches (Audio)](https://www.youtube.com/watch?v=q0BOpkA2Vs4)
 - [TOOL - Lateralus (Audio)](https://www.youtube.com/watch?v=Y7JG63IuaWs)
 - [TOOL - Disposition (Audio)](https://www.youtube.com/watch?v=dUQjGpm5Kr8)
+- [TOOL - Reflection (Audio)](https://www.youtube.com/watch?v=4MzVuHqsNoM)
 - [TOOL - Triad (Audio)](https://www.youtube.com/watch?v=JAzLQ5aeAOw)
 - [TOOL - Faaip De Oiad (Audio)](https://www.youtube.com/watch?v=7RmLkY1387A)
 

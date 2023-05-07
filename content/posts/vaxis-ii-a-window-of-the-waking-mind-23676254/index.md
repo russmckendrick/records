@@ -41,8 +41,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Coheed and Cambria - Ladders of Supremacy (Official Audio)
-{{< youtube id="1YNsq20co-o" title="Coheed and Cambria - Ladders of Supremacy (Official Audio)" >}}<br>
+### Coheed and Cambria - The Liars Club (Performance Video)
+{{< youtube id="N-yvF7Lngr8" title="Coheed and Cambria - The Liars Club (Performance Video)" >}}<br>
 
 ### More Videos
 
@@ -57,9 +57,9 @@ styles: ["Prog Rock"]
 - [Coheed and Cambria - The Liars Club (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=ltKTHtMmDJQ)
 - [Coheed and Cambria - Bad Man (Official Audio)](https://www.youtube.com/watch?v=cOUCJUgVzIw)
 - [Coheed and Cambria - Our Love (Official Audio)](https://www.youtube.com/watch?v=7Ka43I-cN7g)
+- [Coheed and Cambria - Ladders of Supremacy (Official Audio)](https://www.youtube.com/watch?v=1YNsq20co-o)
 - [Coheed and Cambria - Rise, Naianasha (Cut The Cord) [Official Lyric Video]](https://www.youtube.com/watch?v=2BFqmKtLj1s)
 - [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
-- [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)
 
 
 ## Release Information

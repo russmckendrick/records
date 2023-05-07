@@ -39,17 +39,17 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Let The Devil In
-{{< youtube id="vb9DxtmsYHM" title="Let The Devil In" >}}<br>
+### TV On The Radio - Province
+{{< youtube id="xigAXL5e5Kw" title="TV On The Radio - Province" >}}<br>
 
 ### More Videos
 
 - [TV On The Radio - Wolf Like Me (Official Video)](https://www.youtube.com/watch?v=j1-xRk6llh4)
-- [TV On The Radio - Province](https://www.youtube.com/watch?v=xigAXL5e5Kw)
 - [I Was A Lover](https://www.youtube.com/watch?v=giEM5Ze6d80)
 - [Tonight](https://www.youtube.com/watch?v=rGJylVYuYU4)
 - [A Method](https://www.youtube.com/watch?v=Wth4L-rWt3U)
 - [Untitled](https://www.youtube.com/watch?v=_ZyRRWO_teA)
+- [Let The Devil In](https://www.youtube.com/watch?v=vb9DxtmsYHM)
 
 
 ## Release Information

@@ -43,8 +43,8 @@ styles: ["Acoustic"]
 
 
 ## Videos
-### Ryan Adams - Damn, Sam (I Love A Woman That Rains)
-{{< youtube id="C0i3LyJXAjo" title="Ryan Adams - Damn, Sam (I Love A Woman That Rains)" >}}<br>
+### Ryan Adams, Why Do They Leave
+{{< youtube id="VGIFTHlJLO8" title="Ryan Adams, Why Do They Leave" >}}<br>
 
 ### More Videos
 
@@ -55,9 +55,9 @@ styles: ["Acoustic"]
 - [Oh My Sweet Carolina](https://www.youtube.com/watch?v=eMZYRvDvgT4)
 - [Bartering Lines](https://www.youtube.com/watch?v=aKHyuoPriRQ)
 - [Ryan Adams, Call Me on Your Way Back Home](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
+- [Ryan Adams - Damn, Sam (I Love A Woman That Rains)](https://www.youtube.com/watch?v=C0i3LyJXAjo)
 - [Ryan Adams - Come Pick Me Up](https://www.youtube.com/watch?v=kM0mjukDGRw)
 - [Ryan Adams, To Be the One](https://www.youtube.com/watch?v=hekcNSyhW9g)
-- [Ryan Adams, Why Do They Leave](https://www.youtube.com/watch?v=VGIFTHlJLO8)
 - [Ryan Adams, Shakedown on 9th Street](https://www.youtube.com/watch?v=aOV_WQLp1_M)
 - [Ryan Adams, Don't Ask for the Water](https://www.youtube.com/watch?v=s2aVfugHN5w)
 - [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)

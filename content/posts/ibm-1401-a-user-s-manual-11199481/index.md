@@ -36,12 +36,12 @@ styles: ["Modern Classical"]
 
 
 ## Videos
-### IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit
-{{< youtube id="tBw_wSoVQrY" title="IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit" >}}<br>
+### Johann Johannsson - Part 1/ IBM 1401 Processing Unit
+{{< youtube id="tUkgJWxCyR0" title="Johann Johannsson - Part 1/ IBM 1401 Processing Unit" >}}<br>
 
 ### More Videos
 
-- [Johann Johannsson - Part 1/ IBM 1401 Processing Unit](https://www.youtube.com/watch?v=tUkgJWxCyR0)
+- [IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit](https://www.youtube.com/watch?v=tBw_wSoVQrY)
 - [Jóhann Jóhannsson - The Sun's Gone Dim And The Sky's Turned Black (Baraka)](https://www.youtube.com/watch?v=euROmffXvKM)
 
 

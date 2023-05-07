@@ -46,14 +46,14 @@ styles: ["Classic Rock", "Hard Rock"]
 
 
 ## Videos
-### Whitesnake - Give Me All Your Love (Official Music Video)
-{{< youtube id="dkl2hiTHUrc" title="Whitesnake - Give Me All Your Love (Official Music Video)" >}}<br>
+### Whitesnake - Is This Love (Official Music Video)
+{{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Whitesnake - Is This Love (Official Music Video)](https://www.youtube.com/watch?v=GOJk0HW_hJw)
 - [Whitesnake - Here I Go Again '87 (Official Music Video)](https://www.youtube.com/watch?v=WyF8RHM1OCg)
 - [Whitesnake - Still of the Night (Official Music Video)](https://www.youtube.com/watch?v=swPt9HBRXuE)
+- [Whitesnake - Give Me All Your Love (Official Music Video)](https://www.youtube.com/watch?v=dkl2hiTHUrc)
 
 
 ## Release Information

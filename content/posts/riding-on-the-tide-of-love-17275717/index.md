@@ -36,13 +36,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Deacon Blue - I Will and I Won't (At Home Sessions)
-{{< youtube id="yiSF3N8ks8M" title="Deacon Blue - I Will and I Won't (At Home Sessions)" >}}<br>
+### Deacon Blue - Not Gonna Be That Girl (Official Audio)
+{{< youtube id="HEMgponMEZ4" title="Deacon Blue - Not Gonna Be That Girl (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)](https://www.youtube.com/watch?v=ylCZZVkwbig)
-- [Deacon Blue - Not Gonna Be That Girl (Official Audio)](https://www.youtube.com/watch?v=HEMgponMEZ4)
 - [Deacon Blue - Look Up (Official Audio)](https://www.youtube.com/watch?v=5MuKyy1c79Q)
 - [Deacon Blue - It's Still Early (Official Audio)](https://www.youtube.com/watch?v=YhWyfNhlPrI)
 - [Deacon Blue - Time (Official Audio)](https://www.youtube.com/watch?v=1CCo2rnUkjo)
@@ -50,6 +49,7 @@ styles: ["Pop Rock"]
 - [Deacon Blue - Nothing's Changed (Official Audio)](https://www.youtube.com/watch?v=kkyuGrqIGAQ)
 - [Deacon Blue - She Loved The Snow (Official Audio)](https://www.youtube.com/watch?v=kk4iy86H-o0)
 - [Deacon Blue Riding On The Tide Of Love live [BBC Scotland Hogmanay 2020]](https://www.youtube.com/watch?v=C4irNbEBy88)
+- [Deacon Blue - I Will and I Won't (At Home Sessions)](https://www.youtube.com/watch?v=yiSF3N8ks8M)
 - [Deacon Blue - Only Tender Love (At Home Sessions)](https://www.youtube.com/watch?v=xPRpQFGtbqw)
 - [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
 - [Deacon Blue - City of Love (At Home Sessions)](https://www.youtube.com/watch?v=eyEUQOIwxuY)

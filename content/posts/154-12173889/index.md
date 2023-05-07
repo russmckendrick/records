@@ -41,8 +41,8 @@ styles: ["New Wave", "Punk", "Experimental"]
 
 
 ## Videos
-### Wire - Get Down (Parts I & II)
-{{< youtube id="UaK7_m-pZsU" title="Wire - Get Down (Parts I & II)" >}}<br>
+### Single K.O. (2006 Remastered Version)
+{{< youtube id="YSIXgqsSW6g" title="Single K.O. (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,6 @@ styles: ["New Wave", "Punk", "Experimental"]
 - [Two People In a Room (2006 Remastered Version)](https://www.youtube.com/watch?v=KjRzgZYpoPQ)
 - [The 15th (2006 Remastered Version)](https://www.youtube.com/watch?v=azpgFemktHg)
 - [The Other Window (2006 Remastered Version)](https://www.youtube.com/watch?v=sAhntpY7Pg0)
-- [Single K.O. (2006 Remastered Version)](https://www.youtube.com/watch?v=YSIXgqsSW6g)
 - [A Touching Display (2006 Remastered Version)](https://www.youtube.com/watch?v=1Fq-56TdMcw)
 - [On Returning (2006 Remastered Version)](https://www.youtube.com/watch?v=DuQvvh-9aCM)
 - [A Mutual Friend (2006 Remastered Version)](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)
@@ -59,6 +58,7 @@ styles: ["New Wave", "Punk", "Experimental"]
 - [Indirect Enquiries (2006 Remastered Version)](https://www.youtube.com/watch?v=_1E7brhqdtE)
 - [40 Versions (2006 Remastered Version)](https://www.youtube.com/watch?v=HVR9obMPABw)
 - [WIRE song 1 1979](https://www.youtube.com/watch?v=ZlJu7FZRHxc)
+- [Wire - Get Down (Parts I & II)](https://www.youtube.com/watch?v=UaK7_m-pZsU)
 - [WIRE let's panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
 - [Wire - Small Electric Piece](https://www.youtube.com/watch?v=bSEVrZ1DmlI)
 

@@ -41,13 +41,13 @@ styles: []
 
 
 ## Videos
-### Beastie Boys - She's Crafty (Official Music Video)
-{{< youtube id="erD0nCFA75g" title="Beastie Boys - She's Crafty (Official Music Video)" >}}<br>
+### Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)
+{{< youtube id="eBShN8qT4lk" title="Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)](https://www.youtube.com/watch?v=eBShN8qT4lk)
 - [Beastie Boys - No Sleep Till Brooklyn (Official Music Video)](https://www.youtube.com/watch?v=07Y0cy-nvAg)
+- [Beastie Boys - She's Crafty (Official Music Video)](https://www.youtube.com/watch?v=erD0nCFA75g)
 
 
 ## Release Information

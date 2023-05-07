@@ -37,13 +37,13 @@ styles: ["Power Pop", "Glam"]
 
 
 ## Videos
-### Jellyfish - The Ghost At #1
-{{< youtube id="YgKjC2V4xfk" title="Jellyfish - The Ghost At #1" >}}<br>
+### Jellyfish - New Mistake
+{{< youtube id="eHvgQDRpA-s" title="Jellyfish - New Mistake" >}}<br>
 
 ### More Videos
 
-- [Jellyfish - New Mistake](https://www.youtube.com/watch?v=eHvgQDRpA-s)
 - [Jellyfish - Spilt Milk [FULL ALBUM, HQ]](https://www.youtube.com/watch?v=cu9xIyZ6ZMg)
+- [Jellyfish - The Ghost At #1](https://www.youtube.com/watch?v=YgKjC2V4xfk)
 
 
 ## Release Information

@@ -36,12 +36,13 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 
 
 ## Videos
-### The Blues Brothers - She Caught the Katy (Official Audio)
-{{< youtube id="o5xexv-dMrM" title="The Blues Brothers - She Caught the Katy (Official Audio)" >}}<br>
+### The Blues Brothers - Jailhouse Rock (Official Audio)
+{{< youtube id="TosN2G1mmTs" title="The Blues Brothers - Jailhouse Rock (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [The Blues Brothers - Theme From Rawhide (1980) from The Blues Brothers Music On Vinyl – MOVLP1072](https://www.youtube.com/watch?v=SSo3LizTu_I)
+- [The Blues Brothers - She Caught the Katy (Official Audio)](https://www.youtube.com/watch?v=o5xexv-dMrM)
 - [The Blues Brothers - Peter Gunn Theme (Official Audio)](https://www.youtube.com/watch?v=9DgFOsEs-kE)
 - [The Blues Brothers - Gimme Some Lovin' (Official Audio)](https://www.youtube.com/watch?v=-aqZmPInK3o)
 - [The Blues Brothers & Ray Charles - Shake A Tail Feather (Official Audio)](https://www.youtube.com/watch?v=mm0mmkAYwPc)
@@ -51,7 +52,6 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 - [The Blues Brothers - Theme from Rawhide (Official Audio)](https://www.youtube.com/watch?v=rtP7yH7l87w)
 - [The Blues Brothers - Minnie the Moocher (Official Audio)](https://www.youtube.com/watch?v=NJqh_KX5x3o)
 - [The Blues Brothers - Sweet Home Chicago (Official Audio)](https://www.youtube.com/watch?v=euJ22UqLD5Y)
-- [The Blues Brothers - Jailhouse Rock (Official Audio)](https://www.youtube.com/watch?v=TosN2G1mmTs)
 
 
 ## Release Information

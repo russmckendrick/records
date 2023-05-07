@@ -38,12 +38,12 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Bill Fisher - Hallucinations of a Higher Truth (Full Album 2021)
-{{< youtube id="pAANiKCOzgw" title="Bill Fisher - Hallucinations of a Higher Truth (Full Album 2021)" >}}<br>
+### Bill Fisher - In the Morning (Official Visualiser Video)
+{{< youtube id="3SAs3xtNG4g" title="Bill Fisher - In the Morning (Official Visualiser Video)" >}}<br>
 
 ### More Videos
 
-- [Bill Fisher - In the Morning (Official Visualiser Video)](https://www.youtube.com/watch?v=3SAs3xtNG4g)
+- [Bill Fisher - Hallucinations of a Higher Truth (Full Album 2021)](https://www.youtube.com/watch?v=pAANiKCOzgw)
 
 
 ## Release Information

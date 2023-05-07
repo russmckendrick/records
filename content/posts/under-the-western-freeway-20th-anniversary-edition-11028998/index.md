@@ -46,13 +46,13 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 
 ## Videos
-### Go Progress Chrome
-{{< youtube id="evCTzTUw-hM" title="Go Progress Chrome" >}}<br>
+### Grandaddy - A.M. 180
+{{< youtube id="ptPXxAds1Jc" title="Grandaddy - A.M. 180" >}}<br>
 
 ### More Videos
 
-- [Grandaddy - A.M. 180](https://www.youtube.com/watch?v=ptPXxAds1Jc)
 - [Grandaddy Under the Western Freeway 20th Anniversary Bonus Tracks baby](https://www.youtube.com/watch?v=Slr4XFeuX-o)
+- [Go Progress Chrome](https://www.youtube.com/watch?v=evCTzTUw-hM)
 - [Grandaddy - Why took your advice + Lawn and so on](https://www.youtube.com/watch?v=8nAokLLLvr0)
 - [Best Of 90's - 1Album/1Song - Grandaddy Under The Western Freeway/AM180](https://www.youtube.com/watch?v=rUKM-1x0mVg)
 

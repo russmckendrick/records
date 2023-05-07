@@ -37,12 +37,12 @@ styles: []
 
 
 ## Videos
-### Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)
-{{< youtube id="2k11RlYp51I" title="Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)" >}}<br>
+### Dave Gahan, Soulsavers - Shine (Official Video)
+{{< youtube id="MP38Z1QfkYw" title="Dave Gahan, Soulsavers - Shine (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Dave Gahan, Soulsavers - Shine (Official Video)](https://www.youtube.com/watch?v=MP38Z1QfkYw)
+- [Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)](https://www.youtube.com/watch?v=2k11RlYp51I)
 
 
 ## Release Information

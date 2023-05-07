@@ -37,20 +37,20 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Epic
-{{< youtube id="EO6JN3LLTz8" title="Epic" >}}<br>
+### Edge of the World
+{{< youtube id="pDRUHMOXZts" title="Edge of the World" >}}<br>
 
 ### More Videos
 
 - [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
 - [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
+- [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
 - [Zombie Eaters](https://www.youtube.com/watch?v=33dAH1vC4K0)
 - [The Real Thing](https://www.youtube.com/watch?v=HYFDKk4K1tY)
 - [Underwater Love](https://www.youtube.com/watch?v=jQ1N9khfSYc)
 - [The Morning After](https://www.youtube.com/watch?v=LWMjJxpgbgM)
 - [Woodpecker from Mars](https://www.youtube.com/watch?v=FMGA21QxzsM)
 - [War Pigs](https://www.youtube.com/watch?v=pQD-u6FfXp0)
-- [Edge of the World](https://www.youtube.com/watch?v=pDRUHMOXZts)
 - [Sweet Emotion](https://www.youtube.com/watch?v=To7EeBQtBRQ)
 - [Cowboy Song (B-Side)](https://www.youtube.com/watch?v=P1tSCCwnOrY)
 - [The Grade (B-Side)](https://www.youtube.com/watch?v=5DfYJq6R2Bs)

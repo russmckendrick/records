@@ -35,18 +35,18 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### World of Twist - Blackpool Tower (Peel Session)
-{{< youtube id="qdKhrWAFLWc" title="World of Twist - Blackpool Tower (Peel Session)" >}}<br>
+### World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990
+{{< youtube id="itseYKke4bw" title="World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990" >}}<br>
 
 ### More Videos
 
-- [World Of Twist  - She's A Rainbow 12  (The Storm / She's A Rainbow) 1990](https://www.youtube.com/watch?v=itseYKke4bw)
 - [World Of Twist - The Storm (The Word) November 1990](https://www.youtube.com/watch?v=SyXvR7Fu_pQ)
 - [World Of Twist - Sons Of The Stage 12 extended version](https://www.youtube.com/watch?v=swZMBbhyx7A)
 - [world of twist - jelly baby](https://www.youtube.com/watch?v=KmR-P287xpg)
 - [World of twist life & death (remix)](https://www.youtube.com/watch?v=cKhqxLApuwE)
 - [World of Twist - 'Lose My Way', Granada Studios, 14.11.91](https://www.youtube.com/watch?v=78-AJSHzrAg)
 - [world of twist - lose my way (hanger 16)](https://www.youtube.com/watch?v=qWms1DFOm8I)
+- [World of Twist - Blackpool Tower (Peel Session)](https://www.youtube.com/watch?v=qdKhrWAFLWc)
 - [World Of Twist - She's A Rainbow (The Rolling Stones Cover)](https://www.youtube.com/watch?v=VTjqaOblvHU)
 - [World of Twist - Loose My Way](https://www.youtube.com/watch?v=5uuowMS0j6w)
 

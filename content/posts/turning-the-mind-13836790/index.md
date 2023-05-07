@@ -40,13 +40,13 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 
 
 ## Videos
-### Chemeleon
-{{< youtube id="fxH0ShE9fNY" title="Chemeleon" >}}<br>
+### Maps - Turning The Mind
+{{< youtube id="VRvjPQRp6Co" title="Maps - Turning The Mind" >}}<br>
 
 ### More Videos
 
-- [Maps - Turning The Mind](https://www.youtube.com/watch?v=VRvjPQRp6Co)
 - [Turning the Mind](https://www.youtube.com/watch?v=wX4ALgTvqaw)
+- [Chemeleon](https://www.youtube.com/watch?v=fxH0ShE9fNY)
 - [Maps - From Here's to Bliss (Bonus Track)](https://www.youtube.com/watch?v=2c6q2F-zEM0)
 - [From Here's to Bliss](https://www.youtube.com/watch?v=EK7rKGkYesM)
 

@@ -44,12 +44,11 @@ styles: ["Ambient", "Dub", "Ambient House"]
 
 
 ## Videos
-### Star 6 & 7 8 9
-{{< youtube id="-w21fIWxaFE" title="Star 6 & 7 8 9" >}}<br>
+### Little Fluffy Clouds
+{{< youtube id="KNfjpmvbQG0" title="Little Fluffy Clouds" >}}<br>
 
 ### More Videos
 
-- [Little Fluffy Clouds](https://www.youtube.com/watch?v=KNfjpmvbQG0)
 - [Earth (Gaia)](https://www.youtube.com/watch?v=Ejnyt8wNMpc)
 - [Super Nova At The End Of The Universe](https://www.youtube.com/watch?v=jRr0W7leiyw)
 - [Back Side Of The Moon](https://www.youtube.com/watch?v=KanekI2PKRo)
@@ -57,6 +56,7 @@ styles: ["Ambient", "Dub", "Ambient House"]
 - [Perpetual Dawn](https://www.youtube.com/watch?v=iSNPBJKoxlQ)
 - [Into The Fourth Dimension](https://www.youtube.com/watch?v=ouKGF7zin2Q)
 - [Outlands](https://www.youtube.com/watch?v=RcsZdNO5fdw)
+- [Star 6 & 7 8 9](https://www.youtube.com/watch?v=-w21fIWxaFE)
 - [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix Mark 10)](https://www.youtube.com/watch?v=MlsY8MQ2CWE)
 
 

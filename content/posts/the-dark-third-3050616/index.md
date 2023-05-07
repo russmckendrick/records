@@ -42,13 +42,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Pure Reason Revolution - Voices in Winter / The Realms of Divine
-{{< youtube id="KKx0yODlwJs" title="Pure Reason Revolution - Voices in Winter / The Realms of Divine" >}}<br>
+### Aeropause
+{{< youtube id="r6b7lVJSKQY" title="Aeropause" >}}<br>
 
 ### More Videos
 
 - [Pure Reason Revolution - The Twyncyn / Trembilin Willows](https://www.youtube.com/watch?v=wwwIiyFmoxM)
-- [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
 - [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
 - [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
@@ -60,6 +59,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 - [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
 - [Pure Reason Revolution - The Exact Colour](https://www.youtube.com/watch?v=TPWwd8AARjE)
 - [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
+- [Pure Reason Revolution - Voices in Winter / The Realms of Divine](https://www.youtube.com/watch?v=KKx0yODlwJs)
 - [The Twyncyn / Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
 - [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
 - [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)

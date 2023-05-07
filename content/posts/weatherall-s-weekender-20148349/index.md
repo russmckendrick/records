@@ -30,17 +30,17 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 
 
 ## Videos
-### Flowered up - Weekender Part 2 of 2
-{{< youtube id="RpgPH0GfGV4" title="Flowered up - Weekender Part 2 of 2" >}}<br>
+### Flowered Up - Weekender  (Full video)
+{{< youtube id="TVJFGRUL8EQ" title="Flowered Up - Weekender  (Full video)" >}}<br>
 
 ### More Videos
 
 - [HVN16 - Flowered Up 'Weekender'  film](https://www.youtube.com/watch?v=RrpCdoRgBpQ)
 - [Flowered Up - Weekender](https://www.youtube.com/watch?v=o4gKTRuc-5Q)
-- [Flowered Up - Weekender  (Full video)](https://www.youtube.com/watch?v=TVJFGRUL8EQ)
 - [Flowered Up, Weekender](https://www.youtube.com/watch?v=dbfUw9F7A8M)
 - [Flowered Up  Weekender](https://www.youtube.com/watch?v=IYnxpwWmdM4)
 - [Flowered up   Weekender Part 1](https://www.youtube.com/watch?v=9KRdyNkeJn4)
+- [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 - [Flowered Up - Weatherall's Weekender (Audrey Is A Little Bit Partial Mix)](https://www.youtube.com/watch?v=UO-9SVSAPAM)
 - [Flowered Up - Weekender (12 version)](https://www.youtube.com/watch?v=Gn2GYzJjR2I)

@@ -40,8 +40,8 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 
 
 ## Videos
-### Bon Jovi – Born To Be My Baby
-{{< youtube id="_ifA5ClURvI" title="Bon Jovi – Born To Be My Baby" >}}<br>
+### Bon Jovi – Living In Sin
+{{< youtube id="ZMTmro7YxNE" title="Bon Jovi – Living In Sin" >}}<br>
 
 ### More Videos
 
@@ -51,9 +51,9 @@ styles: ["Blues Rock", "Hard Rock", "Pop Rock", "Heavy Metal"]
 - [Bon Jovi - Living In Sin](https://www.youtube.com/watch?v=VI2-ASiNCac)
 - [Bon Jovi - I'll Be There For You (Official Music Video)](https://www.youtube.com/watch?v=mh8MIp2FOhc)
 - [Bon Jovi - Wild Is The Wind](https://www.youtube.com/watch?v=VWR0RvDYDaM)
-- [Bon Jovi – Living In Sin](https://www.youtube.com/watch?v=ZMTmro7YxNE)
 - [Bon Jovi – Love For Sale](https://www.youtube.com/watch?v=CrkhIm2_IrM)
 - [Bon Jovi – Stick To Your Guns](https://www.youtube.com/watch?v=nUhFrxIdjN0)
+- [Bon Jovi – Born To Be My Baby](https://www.youtube.com/watch?v=_ifA5ClURvI)
 - [Bon Jovi – 99 In The Shade](https://www.youtube.com/watch?v=f0gXKNSJbgU)
 - [Bon Jovi – I'll Be There For You](https://www.youtube.com/watch?v=BeSRCoVdZUw)
 - [Bon Jovi – Lay Your Hands On Me](https://www.youtube.com/watch?v=fQVNqZuOtE0)

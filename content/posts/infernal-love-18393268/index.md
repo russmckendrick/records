@@ -39,12 +39,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Therapy? – Diane
-{{< youtube id="p_pwLEVttw4" title="Therapy? – Diane" >}}<br>
+### Therapy? -  Stories
+{{< youtube id="aBRfZvi_sqQ" title="Therapy? -  Stories" >}}<br>
 
 ### More Videos
 
-- [Therapy? -  Stories](https://www.youtube.com/watch?v=aBRfZvi_sqQ)
 - [Therapy? - Stories](https://www.youtube.com/watch?v=ewxIPQfDBT4)
 - [01 - Epilepsy / Therapy? - Infernal Love (1995)](https://www.youtube.com/watch?v=UX8dkGlmJKw)
 - [Therapy? - Misery](https://www.youtube.com/watch?v=wURfvocG4FI)
@@ -52,6 +51,7 @@ styles: ["Alternative Rock"]
 - [Diane](https://www.youtube.com/watch?v=EQeyFHnO5Qw)
 - [Therapy? - Me vs You](https://www.youtube.com/watch?v=RQ4l_Z8Qnds)
 - [Therapy? – Stories](https://www.youtube.com/watch?v=NE6NgYd5xuM)
+- [Therapy? – Diane](https://www.youtube.com/watch?v=p_pwLEVttw4)
 - [Therapy? – Jude The Obscene](https://www.youtube.com/watch?v=xFFUw5pikVc)
 - [Therapy? –  A Moment Of Clarity](https://www.youtube.com/watch?v=iX-dFTTZncg)
 - [Therapy? – Bad Mother](https://www.youtube.com/watch?v=dwIi73N3bGs)

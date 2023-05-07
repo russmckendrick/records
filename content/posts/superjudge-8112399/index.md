@@ -46,14 +46,14 @@ styles: ["Space Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Twin Earth
-{{< youtube id="uA655tDs5sQ" title="Twin Earth" >}}<br>
+### Monster Magnet - Superjudge
+{{< youtube id="zf49V2yB3Z4" title="Monster Magnet - Superjudge" >}}<br>
 
 ### More Videos
 
 - [Monster Magnet - Cage Around The Sun (w/ lyrics)](https://www.youtube.com/watch?v=YNY0IgDOfqo)
 - [Monster Magnet - Black Balloon](https://www.youtube.com/watch?v=bm3WsrqN1WQ)
-- [Monster Magnet - Superjudge](https://www.youtube.com/watch?v=zf49V2yB3Z4)
+- [Twin Earth](https://www.youtube.com/watch?v=uA655tDs5sQ)
 - [Monster Magnet - Superjudge (Full Album)](https://www.youtube.com/watch?v=4v6patyOnzk)
 
 

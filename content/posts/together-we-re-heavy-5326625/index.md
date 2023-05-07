@@ -38,15 +38,15 @@ styles: ["Art Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Section 20 (Together We're Heavy)
-{{< youtube id="3KCv7U2KA8c" title="Section 20 (Together We're Heavy)" >}}<br>
+### The Polyphonic Spree: Together We're Heavy
+{{< youtube id="-MYLRycwgqw" title="The Polyphonic Spree: Together We're Heavy" >}}<br>
 
 ### More Videos
 
 - [The Polyphonic Spree - Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=zpAOozUt-K8)
 - [The Polyphonic Spree - Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=XeA1AYpgLY4)
-- [The Polyphonic Spree: Together We're Heavy](https://www.youtube.com/watch?v=-MYLRycwgqw)
 - [Section 11 (A Long Day Continues/We Sound Amazed)](https://www.youtube.com/watch?v=KdyFxfFHnmg)
+- [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=3KCv7U2KA8c)
 - [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=_nxjf6AYecc)
 
 

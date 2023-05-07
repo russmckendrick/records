@@ -39,15 +39,15 @@ styles: ["Psychedelic Rock", "Britpop"]
 
 
 ## Videos
-### Disgusting
-{{< youtube id="O00-ToMySOc" title="Disgusting" >}}<br>
+### Mansun - She Makes My Nose Bleed (Official Promo Video)
+{{< youtube id="beJx16Xirlk" title="Mansun - She Makes My Nose Bleed (Official Promo Video)" >}}<br>
 
 ### More Videos
 
 - [Mansun Wide Open Space](https://www.youtube.com/watch?v=ppmUdn6GUXQ)
+- [Disgusting](https://www.youtube.com/watch?v=O00-ToMySOc)
 - [M̲a̲n̲s̲u̲n̲ - A̲t̲t̲a̲c̲k̲ O̲f̲ T̲h̲e̲ G̲r̲e̲y̲ L̲a̲n̲t̲e̲r̲n̲](https://www.youtube.com/watch?v=Y-30Irqd_FQ)
 - [Mansun - Stripper Vicar (official video)](https://www.youtube.com/watch?v=NQ_QkYHaX9k)
-- [Mansun - She Makes My Nose Bleed (Official Promo Video)](https://www.youtube.com/watch?v=beJx16Xirlk)
 - [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
 - [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 

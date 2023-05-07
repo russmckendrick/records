@@ -41,16 +41,16 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 
 
 ## Videos
-### The Jesus And Mary Chain - Head On (Official Music Video)
-{{< youtube id="eGp47YwDZ48" title="The Jesus And Mary Chain - Head On (Official Music Video)" >}}<br>
+### Happy Mondays - Mad Cyril
+{{< youtube id="V-8QrkVRf10" title="Happy Mondays - Mad Cyril" >}}<br>
 
 ### More Videos
 
 - [The Wonder Stuff - Who Wants To Be The Disco King?](https://www.youtube.com/watch?v=vWxaxu35rvw)
 - [Vanishing Point (2015 Remaster)](https://www.youtube.com/watch?v=aWuNzXttLVE)
+- [The Jesus And Mary Chain - Head On (Official Music Video)](https://www.youtube.com/watch?v=eGp47YwDZ48)
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
 - [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
-- [Happy Mondays - Mad Cyril](https://www.youtube.com/watch?v=V-8QrkVRf10)
 - [Brave New World](https://www.youtube.com/watch?v=FxuOiUP_2Ag)
 - [The Weather Prophets - Almost prayed](https://www.youtube.com/watch?v=ps6EiahbLQA)
 - [The Last of the Famous International Playboys](https://www.youtube.com/watch?v=z-kXRbWwh6s)

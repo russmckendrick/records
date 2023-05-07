@@ -37,19 +37,19 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 
 ## Videos
-### You Can't Kill Me (Live)
-{{< youtube id="YSyQ4k6sXJA" title="You Can't Kill Me (Live)" >}}<br>
+### Insert Yr Own Prophecy (Live)
+{{< youtube id="BJOKcB1hiOw" title="Insert Yr Own Prophecy (Live)" >}}<br>
 
 ### More Videos
 
 - [What We Was (intro)](https://www.youtube.com/watch?v=yeqqcbU6Pj0)
+- [You Can't Kill Me (Live)](https://www.youtube.com/watch?v=YSyQ4k6sXJA)
 - [Rejoice! (Live)](https://www.youtube.com/watch?v=jp1rW8KeKRE)
 - [If Never I'm And Ever You (Live)](https://www.youtube.com/watch?v=kDDXc2gp2Dw)
 - [Kapital (Live)](https://www.youtube.com/watch?v=dhKTCOWp4pc)
 - [Master Builder (Live)](https://www.youtube.com/watch?v=GaDeVmzJhtA)
 - [Forever Reoccurring (Live)](https://www.youtube.com/watch?v=utUrAQm7B2w)
 - [GONG - My Sawtooth Wake (LIVE - from Pulsing Signals)](https://www.youtube.com/watch?v=9aIIvnpf0UQ)
-- [Insert Yr Own Prophecy (Live)](https://www.youtube.com/watch?v=BJOKcB1hiOw)
 
 
 ## Release Information

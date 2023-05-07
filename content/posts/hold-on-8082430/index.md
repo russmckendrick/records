@@ -38,17 +38,17 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### Light of My Life
-{{< youtube id="eOxA5DXpVio" title="Light of My Life" >}}<br>
+### The James Hunter 6 'If That Don't Tell You' | Live Studio Session
+{{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 'If That Don't Tell You' | Live Studio Session" >}}<br>
 
 ### More Videos
 
-- [The James Hunter 6 'If That Don't Tell You' | Live Studio Session](https://www.youtube.com/watch?v=xuAVRW-jjWI)
 - [James Hunter  -  This Is Where We Came In](https://www.youtube.com/watch?v=MF72ahNIlfs)
 - [The James Hunter Six (Baby) Hold On OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
 - [The James Hunter Six Something's Calling OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
 - [James Hunter Six  A Truer Heart](https://www.youtube.com/watch?v=bO2jPJwX__A)
 - [The James Hunter Six - Free Your Mind (While You Still Got Time). (ΗD)](https://www.youtube.com/watch?v=jRGSX9GQgc4)
+- [Light of My Life](https://www.youtube.com/watch?v=eOxA5DXpVio)
 - [James Hunter - 'Stranded'](https://www.youtube.com/watch?v=eiTQIecIwMQ)
 - [The James Hunter 6 'Sachelfoot' | Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
 - [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)

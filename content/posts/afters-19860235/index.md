@@ -37,15 +37,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### I Didn't
-{{< youtube id="e5HTe6s51_c" title="I Didn't" >}}<br>
+### I Will Never Hurt
+{{< youtube id="KpGCMUA-C90" title="I Will Never Hurt" >}}<br>
 
 ### More Videos
 
+- [I Didn't](https://www.youtube.com/watch?v=e5HTe6s51_c)
 - [A Little Longer](https://www.youtube.com/watch?v=pdKa1G5heP8)
 - [You Too](https://www.youtube.com/watch?v=YcrKtkVUnfs)
 - [End of Loneliness](https://www.youtube.com/watch?v=mvLhLVLg4UQ)
-- [I Will Never Hurt](https://www.youtube.com/watch?v=KpGCMUA-C90)
 - [Slow Down](https://www.youtube.com/watch?v=HJH6CbY_KGc)
 - [Hangar Lane Gyratory System; 4.44am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
 - [Difficult Song](https://www.youtube.com/watch?v=SUl84NqIqJM)

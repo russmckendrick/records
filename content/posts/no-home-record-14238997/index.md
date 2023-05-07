@@ -37,14 +37,14 @@ styles: ["Indie Rock", "Experimental"]
 
 
 ## Videos
-### Don't Play It
-{{< youtube id="Hitjbwqz4iY" title="Don't Play It" >}}<br>
+### Kim Gordon - Paprika Pony
+{{< youtube id="H8bGYENQjGM" title="Kim Gordon - Paprika Pony" >}}<br>
 
 ### More Videos
 
 - [Kim Gordon - Sketch Artist (Official Music Video)](https://www.youtube.com/watch?v=TJl_9a6dp4g)
-- [Kim Gordon - Paprika Pony](https://www.youtube.com/watch?v=H8bGYENQjGM)
 - [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
+- [Don't Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
 - [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
 - [Cookie Butter](https://www.youtube.com/watch?v=YvwgSnIyJdE)
 - [Kim Gordon - Hungry Baby (Official Video)](https://www.youtube.com/watch?v=paKCImP-IOk)

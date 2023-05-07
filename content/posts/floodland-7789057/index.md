@@ -46,8 +46,8 @@ styles: ["Goth Rock"]
 
 
 ## Videos
-### Torch (New Version for Digital)
-{{< youtube id="8rUXffWx2mE" title="Torch (New Version for Digital)" >}}<br>
+### Emma (New Version for Digital)
+{{< youtube id="JPNF7W3q9fk" title="Emma (New Version for Digital)" >}}<br>
 
 ### More Videos
 
@@ -56,10 +56,10 @@ styles: ["Goth Rock"]
 - [Flood II (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=AMbsclRxsjk)
 - [Driven Like the Snow (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=qqqvQ7GI058)
 - [Never Land (A Fragment) (New Version for Digital)](https://www.youtube.com/watch?v=EjVZBS9C5Gw)
+- [Torch (New Version for Digital)](https://www.youtube.com/watch?v=8rUXffWx2mE)
 - [Colours (New Version for Digital)](https://www.youtube.com/watch?v=PpVHw2ehZa0)
 - [Untitled (New Version for Digital)](https://www.youtube.com/watch?v=lQ87rfkvAes)
 - [Sandstorm (New Version for Digital)](https://www.youtube.com/watch?v=XckmFiSXi9Y)
-- [Emma (New Version for Digital)](https://www.youtube.com/watch?v=JPNF7W3q9fk)
 - [Long Train (1984) (New Version for Digital)](https://www.youtube.com/watch?v=K-pR4KvDnc8)
 
 

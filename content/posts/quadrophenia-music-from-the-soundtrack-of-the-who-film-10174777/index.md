@@ -47,8 +47,8 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 
 
 ## Videos
-### The Crystals - Da Doo Ron Ron (HQ)
-{{< youtube id="L0dikX80Ed8" title="The Crystals - Da Doo Ron Ron (HQ)" >}}<br>
+### The Ronettes - Be My Baby - live [HQ]
+{{< youtube id="jrVbawRPO7I" title="The Ronettes - Be My Baby - live [HQ]" >}}<br>
 
 ### More Videos
 
@@ -57,12 +57,12 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 - [The̲ W̲ho - Qu̲adrophe̲nia (Full Album 1973)](https://www.youtube.com/watch?v=0F3HxlYFc5U)
 - [The Real Me (Quadrophenia: The Movie)](https://www.youtube.com/watch?v=82oVtqrCpaI)
 - [Cross Section - Hi Heel Sneakers (Quadrophenia OST)](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
+- [The Crystals - Da Doo Ron Ron (HQ)](https://www.youtube.com/watch?v=L0dikX80Ed8)
 - [Love reign o'er me](https://www.youtube.com/watch?v=ZALcu_UhuIg)
 - [The Who - Bell Boy with Keith Moon](https://www.youtube.com/watch?v=OBruYbPzxOw)
 - [THE WHO - I've Had Enough | QUADROPHENIA](https://www.youtube.com/watch?v=hb8TfdeRJgk)
 - [James Brown performs Night Train on the TAMI Show (Live)](https://www.youtube.com/watch?v=ZF_rZrH4yBY)
 - [RHYTHM OF THE RAIN THE CASCADES IN LIVE](https://www.youtube.com/watch?v=l1PJ9mF2H2Q)
-- [The Ronettes - Be My Baby - live [HQ]](https://www.youtube.com/watch?v=jrVbawRPO7I)
 - [The Crystals - Da Doo Ron Ron - new stereo remix versions](https://www.youtube.com/watch?v=v-qqi7-Q19k)
 
 

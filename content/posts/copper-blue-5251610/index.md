@@ -35,15 +35,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### SUGAR - If I Can't Change Your Mind
-{{< youtube id="aHnFIaLp_ys" title="SUGAR - If I Can't Change Your Mind" >}}<br>
+### SUGAR - Helpless
+{{< youtube id="oUf1sObmhr8" title="SUGAR - Helpless" >}}<br>
 
 ### More Videos
 
 - [Copper Blue Sugar (Full Version / Album Complet 1992) HQ](https://www.youtube.com/watch?v=BfGioWWLZ8E)
 - [Sugar - The Act We Act](https://www.youtube.com/watch?v=-MejXR48CpY)
 - [Sugar - A Good Idea](https://www.youtube.com/watch?v=R6dzOsM0gTw)
-- [SUGAR - Helpless](https://www.youtube.com/watch?v=oUf1sObmhr8)
+- [SUGAR - If I Can't Change Your Mind](https://www.youtube.com/watch?v=aHnFIaLp_ys)
 
 
 ## Release Information

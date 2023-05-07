@@ -39,14 +39,14 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### The Clock
-{{< youtube id="-mQr64uJ8xE" title="The Clock" >}}<br>
+### Paul Simon - Cool Papa Bell (Static Image Video)
+{{< youtube id="Rm2LIorVaPw" title="Paul Simon - Cool Papa Bell (Static Image Video)" >}}<br>
 
 ### More Videos
 
 - [Stranger To Stranger](https://www.youtube.com/watch?v=P7zs5JmlhwY)
 - [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [Paul Simon - Cool Papa Bell (Static Image Video)](https://www.youtube.com/watch?v=Rm2LIorVaPw)
+- [The Clock](https://www.youtube.com/watch?v=-mQr64uJ8xE)
 
 
 ## Release Information

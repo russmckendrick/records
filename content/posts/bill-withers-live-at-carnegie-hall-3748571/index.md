@@ -42,8 +42,8 @@ styles: ["Soul", "Funk"]
 
 
 ## Videos
-### Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)
-{{< youtube id="MXdn9FrTpk8" title="Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)" >}}<br>
+### For My Friend (Live at Carnegie Hall, New York, NY - October 1972)
+{{< youtube id="aD337fVyAXk" title="For My Friend (Live at Carnegie Hall, New York, NY - October 1972)" >}}<br>
 
 ### More Videos
 
@@ -54,10 +54,10 @@ styles: ["Soul", "Funk"]
 - [World Keeps Going Around (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=hwFz7--6e2w)
 - [Let Me in Your Life (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=EiVnd1DwSHA)
 - [Better off Dead (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=-jpP9pUdiyk)
-- [For My Friend (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=aD337fVyAXk)
 - [Bill Withers - I Can't Write Left-Handed (Live) (Audio)](https://www.youtube.com/watch?v=__4_fCgjI74)
 - [Lean on Me (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=tXcCav4zyJI)
 - [Lonely Town, Lonely Street (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=Fa65k3eWj8o)
+- [Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=MXdn9FrTpk8)
 - [Let Us Love (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=vOfSxkgX8XM)
 - [Medley: Harlem / Cold Baloney (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=S00jJdAYVoU)
 

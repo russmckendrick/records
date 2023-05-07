@@ -39,13 +39,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### James - Waltzing Along
-{{< youtube id="QZTCt-nQY9U" title="James - Waltzing Along" >}}<br>
+### James - Lost A Friend Live (VH-1 1998)
+{{< youtube id="hsxrfv2zVPc" title="James - Lost A Friend Live (VH-1 1998)" >}}<br>
 
 ### More Videos
 
 - [James - Tomorrow](https://www.youtube.com/watch?v=HF7Gaxy4_8E)
-- [James - Lost A Friend Live (VH-1 1998)](https://www.youtube.com/watch?v=hsxrfv2zVPc)
+- [James - Waltzing Along](https://www.youtube.com/watch?v=QZTCt-nQY9U)
 - [James - She's a star (HQ) (Whiplash 1997)](https://www.youtube.com/watch?v=VF2qV-oSn0Q)
 
 

@@ -39,15 +39,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Kid
-{{< youtube id="bnKqpUSJDLg" title="Kid" >}}<br>
+### How Does It Feel?
+{{< youtube id="yEcqakDx7UM" title="How Does It Feel?" >}}<br>
 
 ### More Videos
 
 - [Sweet Nymphet](https://www.youtube.com/watch?v=LBXwXV5JOI4)
 - [The Wannadies - Soon You're Dead](https://www.youtube.com/watch?v=bqLDG3jwqOc)
-- [How Does It Feel?](https://www.youtube.com/watch?v=yEcqakDx7UM)
 - [The Wannadies - You & Me Song (Official Video)](https://www.youtube.com/watch?v=t_e_45Szprk)
+- [Kid](https://www.youtube.com/watch?v=bnKqpUSJDLg)
 - [Dreamy Wednesdays](https://www.youtube.com/watch?v=czQ89hceOwE)
 - [New World Record](https://www.youtube.com/watch?v=tj_cyhf1zWI)
 - [Dying For More](https://www.youtube.com/watch?v=Mc8PaR7YKdI)

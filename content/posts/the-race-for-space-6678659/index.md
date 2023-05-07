@@ -37,14 +37,14 @@ styles: ["Ambient"]
 
 
 ## Videos
-### 🔴Public Service Broadcasting – Complete B Side [ The Race For Space LP ]🔴
-{{< youtube id="8LbCWtjZ8AI" title="🔴Public Service Broadcasting – Complete B Side [ The Race For Space LP ]🔴" >}}<br>
+### PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]
+{{< youtube id="Bnmq4WR83Mw" title="PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]" >}}<br>
 
 ### More Videos
 
-- [PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]](https://www.youtube.com/watch?v=Bnmq4WR83Mw)
 - [🔴Public Service Broadcasting – Complete A Side [ The Race For Space LP ]🔴](https://www.youtube.com/watch?v=_87kEpkrDQE)
 - [PUBLIC SERVICE BROADCASTING - E.V.A.](https://www.youtube.com/watch?v=PFSq4Q8WDs0)
+- [🔴Public Service Broadcasting – Complete B Side [ The Race For Space LP ]🔴](https://www.youtube.com/watch?v=8LbCWtjZ8AI)
 
 
 ## Release Information

@@ -34,16 +34,16 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
 
 
 ## Videos
-### Black Country New Road - 'Opus' (Official Lyric Video)
-{{< youtube id="jkppJiPZJaw" title="Black Country New Road - 'Opus' (Official Lyric Video)" >}}<br>
+### Black Country, New Road - 'Science Fair' (Official Video)
+{{< youtube id="gXay__MuoGw" title="Black Country, New Road - 'Science Fair' (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Black Country New Road - 'Instrumental' (Official Visualizer)](https://www.youtube.com/watch?v=95k_xxZvMIc)
 - [Black Country New Road - 'Athens, France' (Official Lyric Video)](https://www.youtube.com/watch?v=xDcGl8tZhrs)
-- [Black Country, New Road - 'Science Fair' (Official Video)](https://www.youtube.com/watch?v=gXay__MuoGw)
 - [Black Country New Road - 'Sunglasses' (Official Lyric Video)](https://www.youtube.com/watch?v=7t-9rgpzU6A)
 - [Black Country, New Road - 'Track X' (Official Video)](https://www.youtube.com/watch?v=u3H8O8RJp3M)
+- [Black Country New Road - 'Opus' (Official Lyric Video)](https://www.youtube.com/watch?v=jkppJiPZJaw)
 
 
 ## Release Information

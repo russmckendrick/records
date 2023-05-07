@@ -43,8 +43,8 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Being Sucked in Again (2006 Remastered Version)
-{{< youtube id="uF7cx8VpXEo" title="Being Sucked in Again (2006 Remastered Version)" >}}<br>
+### Heartbeat (2006 Remastered Version)
+{{< youtube id="ggwm4aXRIQ8" title="Heartbeat (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["New Wave", "Post-Punk"]
 - [Men 2nd (2006 Remastered Version)](https://www.youtube.com/watch?v=K9b6YIzRlwc)
 - [Marooned (2006 Remastered Version)](https://www.youtube.com/watch?v=a7B7PPB23hc)
 - [Sand in My Joints (2006 Remastered Version)](https://www.youtube.com/watch?v=0NvDSUCZj-c)
-- [Heartbeat (2006 Remastered Version)](https://www.youtube.com/watch?v=ggwm4aXRIQ8)
+- [Being Sucked in Again (2006 Remastered Version)](https://www.youtube.com/watch?v=uF7cx8VpXEo)
 - [Mercy (2006 Remastered Version)](https://www.youtube.com/watch?v=MtIXBSs-REs)
 - [Outdoor Miner (2006 Remastered Version)](https://www.youtube.com/watch?v=uO0nmjkMpw0)
 - [I Am the Fly (2006 Remastered Version)](https://www.youtube.com/watch?v=svcAqVL2l28)

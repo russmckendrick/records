@@ -46,14 +46,14 @@ styles: ["Leftfield", "Abstract"]
 
 
 ## Videos
-### The Avalanches - Since I Left You (1hr)
-{{< youtube id="IBjuX1Gs5hU" title="The Avalanches - Since I Left You (1hr)" >}}<br>
+### A Different Feeling (Carl Craig's Paperclip People Remix)
+{{< youtube id="RUZDndmoV0s" title="A Different Feeling (Carl Craig's Paperclip People Remix)" >}}<br>
 
 ### More Videos
 
 - [The Avalanches - Since I Left You (Extended Alternate Version)](https://www.youtube.com/watch?v=vFWmwkoNq6s)
+- [The Avalanches - Since I Left You (1hr)](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
 - [The Avalanches — Since I Left You](https://www.youtube.com/watch?v=kB3-2CL_l4U)
-- [A Different Feeling (Carl Craig's Paperclip People Remix)](https://www.youtube.com/watch?v=RUZDndmoV0s)
 - [Since I Left You (Stereolab Remix)](https://www.youtube.com/watch?v=cVpeYfRZ6mY)
 - [The Avalanches -  'Since I Left You'](https://www.youtube.com/watch?v=wpqm-05R2Jk)
 - [The Avalanches - Since I Left You (Ultimate Ultimate Single Version)](https://www.youtube.com/watch?v=3-iRAQWvem8)

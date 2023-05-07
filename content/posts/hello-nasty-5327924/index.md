@@ -50,13 +50,13 @@ styles: ["Instrumental", "Funk"]
 
 
 ## Videos
-### Beastie Boys - Three MC's And One DJ
-{{< youtube id="XflfiylNNXY" title="Beastie Boys - Three MC's And One DJ" >}}<br>
+### Beastie Boys - Intergalactic
+{{< youtube id="qORYO0atB6g" title="Beastie Boys - Intergalactic" >}}<br>
 
 ### More Videos
 
-- [Beastie Boys - Intergalactic](https://www.youtube.com/watch?v=qORYO0atB6g)
 - [Beastie Boys - Body Movin'](https://www.youtube.com/watch?v=uvRBUw_Ls2o)
+- [Beastie Boys - Three MC's And One DJ](https://www.youtube.com/watch?v=XflfiylNNXY)
 
 
 ## Release Information

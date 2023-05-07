@@ -39,8 +39,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### XTC - I Bought Myself A Liarbird
-{{< youtube id="0S4hKJRYfMs" title="XTC - I Bought Myself A Liarbird" >}}<br>
+### All You Pretty Girls (2001 Remaster)
+{{< youtube id="H-QmWy22mM8" title="All You Pretty Girls (2001 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,6 @@ styles: ["Pop Rock"]
 - [Wake Up (2001 Remaster)](https://www.youtube.com/watch?v=6Yf3UUKdF0o)
 - [I Remember The Sun (2001 Remaster)](https://www.youtube.com/watch?v=3JFFQl-d5cM)
 - [Train Running Low On Soul Coal (2001 Remaster)](https://www.youtube.com/watch?v=g7C_YkZ91D8)
-- [All You Pretty Girls (2001 Remaster)](https://www.youtube.com/watch?v=H-QmWy22mM8)
 - [You're The Wish You Are I Had (2001 Remaster)](https://www.youtube.com/watch?v=HKaaQC3ATg8)
 - [I Bought Myself A Liarbird (2001 Remaster)](https://www.youtube.com/watch?v=3ZXnBu1gpzw)
 - [Red Brick Dream (2001 Remaster)](https://www.youtube.com/watch?v=VKkjdzLKajQ)
@@ -66,6 +65,7 @@ styles: ["Pop Rock"]
 - [XTC - Wake Up](https://www.youtube.com/watch?v=ON-Ef6zwTUg)
 - [XTC - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=zHhOx68AS_s)
 - [Xtc I Bought Myself a Liarbird cover](https://www.youtube.com/watch?v=Rl7jczY42H0)
+- [XTC - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=0S4hKJRYfMs)
 
 
 ## Release Information

@@ -35,14 +35,14 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### The Wildhearts - Loveshit
-{{< youtube id="nW_eNEuYNUI" title="The Wildhearts - Loveshit" >}}<br>
+### The Wildhearts - TV Tan
+{{< youtube id="o8y-M_0UffE" title="The Wildhearts - TV Tan" >}}<br>
 
 ### More Videos
 
-- [The Wildhearts - TV Tan](https://www.youtube.com/watch?v=o8y-M_0UffE)
 - [Greetings from Shitsville](https://www.youtube.com/watch?v=XM-iQc3yYQs)
 - [News of the World](https://www.youtube.com/watch?v=L191KWeauHQ)
+- [The Wildhearts - Loveshit](https://www.youtube.com/watch?v=nW_eNEuYNUI)
 
 
 ## Release Information

@@ -38,13 +38,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### It Bites - Wanna shout
-{{< youtube id="9GX4l_mXyu4" title="It Bites - Wanna shout" >}}<br>
+### It Bites -Tokyo 10/10/1989 #1
+{{< youtube id="6XE1NG9zaYU" title="It Bites -Tokyo 10/10/1989 #1" >}}<br>
 
 ### More Videos
 
 - [Calling All The Heroes - It Bites](https://www.youtube.com/watch?v=3hIWY-ir0s8)
-- [It Bites -Tokyo 10/10/1989 #1](https://www.youtube.com/watch?v=6XE1NG9zaYU)
+- [It Bites - Wanna shout](https://www.youtube.com/watch?v=9GX4l_mXyu4)
 - [It Bites - Munich 09/02/1987](https://www.youtube.com/watch?v=Dy0v7c4r24Y)
 - [It Bites - Tokyo 10/10/1989 #2](https://www.youtube.com/watch?v=wRgxjj9HdIE)
 - [It Bites - I Got You Eating Out Of My Hand (Live Sheffield 1989 06 21)](https://www.youtube.com/watch?v=NfnJwIpo2pc)

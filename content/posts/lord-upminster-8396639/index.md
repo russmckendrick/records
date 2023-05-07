@@ -33,8 +33,8 @@ styles: ["New Wave", "Dub", "Disco"]
 
 
 ## Videos
-### Jan Dury - Funky Disco Pops
-{{< youtube id="uQIJhqxKpiE" title="Jan Dury - Funky Disco Pops" >}}<br>
+### Ian Dury   Lord Upminster   TRUST IS A MUST
+{{< youtube id="kVllPYHD81w" title="Ian Dury   Lord Upminster   TRUST IS A MUST" >}}<br>
 
 ### More Videos
 
@@ -50,11 +50,11 @@ styles: ["New Wave", "Dub", "Disco"]
 - [IAN DURY - Girls (Watching) 1981](https://www.youtube.com/watch?v=5CcxpGJaMpA)
 - [Ian Dury - Lonely (Town)](https://www.youtube.com/watch?v=1SJU3N5qHt8)
 - [Ian Dury - Wait (For Me)](https://www.youtube.com/watch?v=EUNnW2jmYBI)
+- [Jan Dury - Funky Disco Pops](https://www.youtube.com/watch?v=uQIJhqxKpiE)
 - [Ian Dury - Girls (Watching)](https://www.youtube.com/watch?v=EgosGoTI-fw)
 - [Ian Dury -- Trust Is a Must (1981) slow version](https://www.youtube.com/watch?v=R8um4UfRUgM)
 - [IAN DURY, Lord Upminster, Spasticus (Autisticus)](https://www.youtube.com/watch?v=h08TWKtbGug)
 - [ian dury   trust is a must](https://www.youtube.com/watch?v=BgwGao1-zmI)
-- [Ian Dury   Lord Upminster   TRUST IS A MUST](https://www.youtube.com/watch?v=kVllPYHD81w)
 
 
 ## Release Information

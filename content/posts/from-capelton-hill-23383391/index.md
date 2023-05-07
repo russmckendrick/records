@@ -40,12 +40,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Stars - Patterns (Official Music Video)
-{{< youtube id="l94kK-S8wvc" title="Stars - Patterns (Official Music Video)" >}}<br>
+### Stars - That Girl (Official Video)
+{{< youtube id="2MI3CHUrCFo" title="Stars - That Girl (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Stars - That Girl (Official Video)](https://www.youtube.com/watch?v=2MI3CHUrCFo)
+- [Stars - Patterns (Official Music Video)](https://www.youtube.com/watch?v=l94kK-S8wvc)
 
 
 ## Release Information

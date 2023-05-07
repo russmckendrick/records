@@ -36,12 +36,12 @@ styles: ["Thrash", "Heavy Metal"]
 
 
 ## Videos
-### Выпуск №209. Metallica – Master Of Puppets(Vinyl, LP, Album, Limited Edition, Reissue, Remastered)
-{{< youtube id="fuZM6xjvWlo" title="Выпуск №209. Metallica – Master Of Puppets(Vinyl, LP, Album, Limited Edition, Reissue, Remastered)" >}}<br>
+### METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)
+{{< youtube id="QPmVvAGPoIo" title="METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)" >}}<br>
 
 ### More Videos
 
-- [METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)](https://www.youtube.com/watch?v=QPmVvAGPoIo)
+- [Выпуск №209. Metallica – Master Of Puppets(Vinyl, LP, Album, Limited Edition, Reissue, Remastered)](https://www.youtube.com/watch?v=fuZM6xjvWlo)
 - [METALLICA (original vs. remaster) Master of Puppets メタリカ メタル・マスター](https://www.youtube.com/watch?v=2ZkgvRbcAiw)
 - [METALLICA Master Of Puppets (new rip in desc)](https://www.youtube.com/watch?v=zslV7ZSJH6M)
 - [Master of Puppets REMASTERED (official album reissue 2017/2018!) Will it sound BETTER as promised?](https://www.youtube.com/watch?v=k7pXAv3cL9A)

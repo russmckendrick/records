@@ -42,13 +42,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### PJ Harvey - 50 Ft Queenie
-{{< youtube id="jKLiU7Hq93w" title="PJ Harvey - 50 Ft Queenie" >}}<br>
+### Ecstasy
+{{< youtube id="m0O2GvTa3Vk" title="Ecstasy" >}}<br>
 
 ### More Videos
 
 - [PJ Harvey - Man-Size](https://www.youtube.com/watch?v=WuJE40OBt48)
 - [Rid Of Me](https://www.youtube.com/watch?v=8PlaNe3mXl8)
+- [PJ Harvey - 50 Ft Queenie](https://www.youtube.com/watch?v=jKLiU7Hq93w)
 - [Missed](https://www.youtube.com/watch?v=U7ezOM1zvo4)
 - [Legs](https://www.youtube.com/watch?v=n60TTqe9fJ8)
 - [Rub 'Til It Bleeds](https://www.youtube.com/watch?v=a5x8p22UU_4)
@@ -59,7 +60,6 @@ styles: ["Indie Rock"]
 - [Dry](https://www.youtube.com/watch?v=lXYHQJX9O_Q)
 - [Me-Jane](https://www.youtube.com/watch?v=IBJerSPT9h8)
 - [Snake](https://www.youtube.com/watch?v=aAIntnlrvfE)
-- [Ecstasy](https://www.youtube.com/watch?v=m0O2GvTa3Vk)
 
 
 ## Release Information

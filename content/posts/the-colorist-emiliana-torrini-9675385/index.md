@@ -50,15 +50,15 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Serenade
-{{< youtube id="VAv_vqYPRBA" title="Serenade" >}}<br>
+### Blood Red
+{{< youtube id="Bi3RoBLEajY" title="Blood Red" >}}<br>
 
 ### More Videos
 
 - [The Colorist & Emiliana Torrini - Speed Of Dark](https://www.youtube.com/watch?v=-8R2-s5pMI0)
 - [The Colorist & Emiliana Torrini - When We Dance (Official Video)](https://www.youtube.com/watch?v=WfVrdOp2Btw)
-- [Blood Red](https://www.youtube.com/watch?v=Bi3RoBLEajY)
 - [Today Has Been OK](https://www.youtube.com/watch?v=GfmLjtSbpQc)
+- [Serenade](https://www.youtube.com/watch?v=VAv_vqYPRBA)
 
 
 ## Release Information

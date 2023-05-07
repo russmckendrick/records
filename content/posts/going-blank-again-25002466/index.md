@@ -38,13 +38,12 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Ride - OX4
-{{< youtube id="57I0Lt0yalA" title="Ride - OX4" >}}<br>
+### Ride - Not Fazed
+{{< youtube id="KqOPgCFdO5E" title="Ride - Not Fazed" >}}<br>
 
 ### More Videos
 
 - [Ride - Leave Them All Behind](https://www.youtube.com/watch?v=gIsnb1TKYjE)
-- [Ride - Not Fazed](https://www.youtube.com/watch?v=KqOPgCFdO5E)
 - [Ride - Twisterella](https://www.youtube.com/watch?v=qQ8y87YQDX4)
 - [Ride - Mouse Trap](https://www.youtube.com/watch?v=fnVqqkMp6Ns)
 - [Ride - Time Of Her Time](https://www.youtube.com/watch?v=hNW4Pq-OIb4)
@@ -52,6 +51,7 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 - [Ride - Cool Your Boots](https://www.youtube.com/watch?v=3aFh4oTmIio)
 - [Ride - Making Judy Smile](https://www.youtube.com/watch?v=bnmnMAE0sCM)
 - [Ride - Time Machine](https://www.youtube.com/watch?v=5zdq_L4K64w)
+- [Ride - OX4](https://www.youtube.com/watch?v=57I0Lt0yalA)
 
 
 ## Release Information

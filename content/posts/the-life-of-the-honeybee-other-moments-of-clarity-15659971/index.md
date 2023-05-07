@@ -31,12 +31,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Abel Ganz : Arran Shores
-{{< youtube id="nnidk9i8vBQ" title="Abel Ganz : Arran Shores" >}}<br>
+### Abel Ganz : One Small Soul
+{{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}<br>
 
 ### More Videos
 
-- [Abel Ganz : One Small Soul](https://www.youtube.com/watch?v=81h_ZOnPxrY)
+- [Abel Ganz : Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
 
 
 ## Release Information

@@ -51,8 +51,8 @@ styles: ["Krautrock", "Indie Rock"]
 
 
 ## Videos
-### Golden Ball
-{{< youtube id="LEWxa--fXlo" title="Golden Ball" >}}<br>
+### Jenny Ondioline
+{{< youtube id="c_zYpoHQzbA" title="Jenny Ondioline" >}}<br>
 
 ### More Videos
 
@@ -62,8 +62,8 @@ styles: ["Krautrock", "Indie Rock"]
 - [Our Trinitone Blast](https://www.youtube.com/watch?v=f4lANy2lyDo)
 - [Pack Yr Romantic Mind](https://www.youtube.com/watch?v=P5h_8vYrya0)
 - [I'm Going Out Of My Way](https://www.youtube.com/watch?v=1ENSJpYpJlU)
+- [Golden Ball](https://www.youtube.com/watch?v=LEWxa--fXlo)
 - [Pause](https://www.youtube.com/watch?v=K32zai-jDS4)
-- [Jenny Ondioline](https://www.youtube.com/watch?v=c_zYpoHQzbA)
 - [Analogue Rock](https://www.youtube.com/watch?v=xVBEH26GvPs)
 - [Crest](https://www.youtube.com/watch?v=uMEcoUD2X5Q)
 - [Lock-Groove Lullaby](https://www.youtube.com/watch?v=XxUrm-IzBVU)

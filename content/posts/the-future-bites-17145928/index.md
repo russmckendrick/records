@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Steven Wilson - KING GHOST (Official Video)
-{{< youtube id="zSvdLcS62ZM" title="Steven Wilson - KING GHOST (Official Video)" >}}<br>
+### Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)
+{{< youtube id="G_yW8ornhK4" title="Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
@@ -46,11 +46,11 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
 - [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
 - [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
+- [Steven Wilson - KING GHOST (Official Video)](https://www.youtube.com/watch?v=zSvdLcS62ZM)
 - [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
 - [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
 - [Steven Wilson - King Ghost (2020)](https://www.youtube.com/watch?v=M55vjv1Bed0)
 - [Steven Wilson - EMINENT SLEAZE (Official Video)](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)](https://www.youtube.com/watch?v=G_yW8ornhK4)
 - [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
 - [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)

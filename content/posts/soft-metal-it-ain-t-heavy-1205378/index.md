@@ -43,14 +43,15 @@ styles: ["Soft Rock"]
 
 
 ## Videos
-### Saxon - Ride Like The Wind (Official Video HD)
-{{< youtube id="NleLo2wwNYw" title="Saxon - Ride Like The Wind (Official Video HD)" >}}<br>
+### John Parr - St Elmo's Fire  (Man In Motion)
+{{< youtube id="EOvMpND2OZY" title="John Parr - St Elmo's Fire  (Man In Motion)" >}}<br>
 
 ### More Videos
 
 - [Heart - Alone](https://www.youtube.com/watch?v=1Cw1ng75KP0)
 - [Marillion - Kayleigh](https://www.youtube.com/watch?v=pQCu8Jp9iwM)
 - [Whitesnake - Here I Go Again '87](https://www.youtube.com/watch?v=WyF8RHM1OCg)
+- [Saxon - Ride Like The Wind (Official Video HD)](https://www.youtube.com/watch?v=NleLo2wwNYw)
 - [Shot in the Dark](https://www.youtube.com/watch?v=Mzyz2egx_0c)
 - [Journey - Don't Stop Believin' (Audio)](https://www.youtube.com/watch?v=1k8craCGpgs)
 - [Meat Loaf - Dead Ringer for Love](https://www.youtube.com/watch?v=KSTIsZULYmY)
@@ -64,7 +65,6 @@ styles: ["Soft Rock"]
 - [Krokus - Screaming In The Night](https://www.youtube.com/watch?v=uNKVyoG-AUk)
 - [Faith No More - We Care A Lot (Official Music Video)](https://www.youtube.com/watch?v=LQhX8PbNUWI)
 - [Survivor - Burning Heart](https://www.youtube.com/watch?v=Kc71KZG87X4)
-- [John Parr - St Elmo's Fire  (Man In Motion)](https://www.youtube.com/watch?v=EOvMpND2OZY)
 
 
 ## Release Information

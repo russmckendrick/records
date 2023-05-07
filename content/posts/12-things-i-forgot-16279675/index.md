@@ -28,13 +28,13 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 
 
 ## Videos
-### Steven Wilson - MOVE LIKE A FEVER (Official Audio)
-{{< youtube id="6ocVr57vKq4" title="Steven Wilson - MOVE LIKE A FEVER (Official Audio)" >}}<br>
+### Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)
+{{< youtube id="SkJqPSrLUNo" title="Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
+- [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
 
 
 ## Release Information

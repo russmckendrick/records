@@ -37,20 +37,20 @@ styles: ["EBM"]
 
 
 ## Videos
-### I'm Rhythmus Bleiben
-{{< youtube id="yi6vw3L5W6Y" title="I'm Rhythmus Bleiben" >}}<br>
+### Terminal State
+{{< youtube id="UijjMj91ODg" title="Terminal State" >}}<br>
 
 ### More Videos
 
 - [Front 242 - Headhunter (Official Video)](https://www.youtube.com/watch?v=m1cRGVaJF7Y)
 - [Until Death (Us Do Part)](https://www.youtube.com/watch?v=Vq-udrSV7M4)
 - [Circling Overland](https://www.youtube.com/watch?v=GQTys90jNkc)
+- [I'm Rhythmus Bleiben](https://www.youtube.com/watch?v=yi6vw3L5W6Y)
 - [Felines](https://www.youtube.com/watch?v=RAouNlhOuSk)
 - [First In / First Out](https://www.youtube.com/watch?v=ii_rcXrbfRs)
 - [Blend The Strengths](https://www.youtube.com/watch?v=0Iu9Uko9zvg)
 - [Headhunter V3.0](https://www.youtube.com/watch?v=aPKsvVKqvOg)
 - [Work 01](https://www.youtube.com/watch?v=2_Y5C2k0H7w)
-- [Terminal State](https://www.youtube.com/watch?v=UijjMj91ODg)
 
 
 ## Release Information

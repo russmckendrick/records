@@ -41,13 +41,13 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 
 
 ## Videos
-### Stars- What I'm Trying to Say (The Dears)
-{{< youtube id="IZQXp2yn0Jg" title="Stars- What I'm Trying to Say (The Dears)" >}}<br>
+### Jason Collett - Reunion (Stars Cover)
+{{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion (Stars Cover)" >}}<br>
 
 ### More Videos
 
-- [Jason Collett - Reunion (Stars Cover)](https://www.youtube.com/watch?v=Y-IM3LZrdrU)
 - [stars - your ex-lover is dead (final fantasy remix)](https://www.youtube.com/watch?v=_WROUOOtC7U)
+- [Stars- What I'm Trying to Say (The Dears)](https://www.youtube.com/watch?v=IZQXp2yn0Jg)
 - [Stars - Ageless Beauty (The Most Serene Republic)](https://www.youtube.com/watch?v=rHm1tkrK1iw)
 - [Apostle Of Hustle - One More Night (Stars Cover)](https://www.youtube.com/watch?v=0EvKhDjHr7o)
 - [Stars - Set Yourself on Fire (Montag)](https://www.youtube.com/watch?v=IpSRckfN-zc)

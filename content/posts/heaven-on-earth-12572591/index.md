@@ -38,14 +38,13 @@ styles: ["Pop Rock", "Ballad"]
 
 
 ## Videos
-### Love Never Dies
-{{< youtube id="ivOXrlFOeEs" title="Love Never Dies" >}}<br>
+### Belinda Carlisle - Circle In The Sand (Official Video)
+{{< youtube id="hgpXSoWBAVA" title="Belinda Carlisle - Circle In The Sand (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Belinda Carlisle - Heaven Is A Place On Earth (Official Video)](https://www.youtube.com/watch?v=j2F4INQFjEI)
 - [Belinda Carlisle - I Get Weak (Official Video)](https://www.youtube.com/watch?v=sdTaPrs3fYE)
-- [Belinda Carlisle - Circle In The Sand (Official Video)](https://www.youtube.com/watch?v=hgpXSoWBAVA)
 - [Belinda Carlisle - I Feel Free (Official Video)](https://www.youtube.com/watch?v=Z9T7rbO00hI)
 - [Belinda Carlisle - World Without You (Official Video)](https://www.youtube.com/watch?v=lb2lgh2NhVA)
 - [Belinda Carlisle - Love Never Dies (Official Video)](https://www.youtube.com/watch?v=GhOj0B5Pvgs)
@@ -56,6 +55,7 @@ styles: ["Pop Rock", "Ballad"]
 - [We Can Change](https://www.youtube.com/watch?v=GPN6xhSw-Pw)
 - [Fool for Love](https://www.youtube.com/watch?v=lgiLr1q257o)
 - [Nobody Owns Me](https://www.youtube.com/watch?v=cizmZPd2mfo)
+- [Love Never Dies](https://www.youtube.com/watch?v=ivOXrlFOeEs)
 - [Heaven is a Place on Earth (Acoustic)](https://www.youtube.com/watch?v=-Gbnyvq66Hk)
 
 

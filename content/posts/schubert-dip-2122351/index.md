@@ -39,20 +39,20 @@ styles: ["Leftfield", "Synth-pop"]
 
 
 ## Videos
-### Lies
-{{< youtube id="V73bNerGrSY" title="Lies" >}}<br>
+### Long Summer Days
+{{< youtube id="w8DnOwohmG8" title="Long Summer Days" >}}<br>
 
 ### More Videos
 
 - [EMF - Children (Official Music Video)](https://www.youtube.com/watch?v=fN7XEB31uow)
 - [Children](https://www.youtube.com/watch?v=FHoLIZtzxbY)
-- [Long Summer Days](https://www.youtube.com/watch?v=w8DnOwohmG8)
 - [When You're Mine](https://www.youtube.com/watch?v=XjjUqJc3wBQ)
 - [Travelling Not Running](https://www.youtube.com/watch?v=ofZBwZkuSy4)
 - [I Believe](https://www.youtube.com/watch?v=-iAmTM2fTEU)
 - [EMF - Unbelievable (Official Music Video) HD](https://www.youtube.com/watch?v=sfCLt0kTd5E)
 - [Girl of an Age](https://www.youtube.com/watch?v=gTOZ-YRo2IE)
 - [Admit It](https://www.youtube.com/watch?v=MqlAJjBDntA)
+- [Lies](https://www.youtube.com/watch?v=V73bNerGrSY)
 - [Longtime](https://www.youtube.com/watch?v=elrHGYu0CWo)
 - [EMF - EMF](https://www.youtube.com/watch?v=bpmAQeGzmXo)
 

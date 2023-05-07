@@ -35,8 +35,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Everything Was Beautiful and Nothing Hurt
-{{< youtube id="OAhFS5Sl1V8" title="Everything Was Beautiful and Nothing Hurt" >}}<br>
+### Spiritualized - Crazy (Official Music Video)
+{{< youtube id="3vCcjlcJ8JM" title="Spiritualized - Crazy (Official Music Video)" >}}<br>
 
 ### More Videos
 
@@ -44,8 +44,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 - [[FULL ALBUM] Spiritualized - Everything Was Beautiful (2022)](https://www.youtube.com/watch?v=nunIIDrWiqQ)
 - [Spiritualized - Crazy (Official Audio)](https://www.youtube.com/watch?v=DsAcPAE3moM)
 - [Spiritualized  - Mainline Song (Official Audio)](https://www.youtube.com/watch?v=ie46jOrQ2Hk)
+- [Everything Was Beautiful and Nothing Hurt](https://www.youtube.com/watch?v=OAhFS5Sl1V8)
 - [Spiritualized - The Mainline Song (Official Video)](https://www.youtube.com/watch?v=hze3Su59kFE)
-- [Spiritualized - Crazy (Official Music Video)](https://www.youtube.com/watch?v=3vCcjlcJ8JM)
 
 
 ## Release Information

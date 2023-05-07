@@ -59,14 +59,14 @@ styles: ["New Wave", "Punk"]
 
 
 ## Videos
-### The Cure - A Forest (Official Video)
-{{< youtube id="xik-y0xlpZ0" title="The Cure - A Forest (Official Video)" >}}<br>
+### The Clash - London Calling (Official Video)
+{{< youtube id="EfK-WX2pa8c" title="The Clash - London Calling (Official Video)" >}}<br>
 
 ### More Videos
 
 - [The Flying Lizards - Money](https://www.youtube.com/watch?v=E-P2qL3qkzk)
 - [NOW That's What I Call Punk & New Wave Artwork & Official Tracklist!](https://www.youtube.com/watch?v=TQb_AcW_cZw)
-- [The Clash - London Calling (Official Video)](https://www.youtube.com/watch?v=EfK-WX2pa8c)
+- [The Cure - A Forest (Official Video)](https://www.youtube.com/watch?v=xik-y0xlpZ0)
 - [The Skids - Into The Valley](https://www.youtube.com/watch?v=9udxbvHiqGw)
 - [The Stranglers - No More Heroes](https://www.youtube.com/watch?v=2B4bsqYxwo0)
 - [The Cars - My Best Friend's Girl (Official Live Video)](https://www.youtube.com/watch?v=RyFo6p6LGkA)

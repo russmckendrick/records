@@ -46,13 +46,12 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Description of a Fool
-{{< youtube id="DirRhRgwtes" title="Description of a Fool" >}}<br>
+### Luck of Lucien
+{{< youtube id="7T2lja6Agbk" title="Luck of Lucien" >}}<br>
 
 ### More Videos
 
 - [Push It Along](https://www.youtube.com/watch?v=T6a8N2CjNRU)
-- [Luck of Lucien](https://www.youtube.com/watch?v=7T2lja6Agbk)
 - [After Hours](https://www.youtube.com/watch?v=nlJJIrPHBsc)
 - [Footprints](https://www.youtube.com/watch?v=ay9bFqeHQRk)
 - [I Left My Wallet in El Segundo](https://www.youtube.com/watch?v=pemnd3Igzrg)
@@ -64,6 +63,7 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 - [Mr. Muhammad](https://www.youtube.com/watch?v=e4hpXesb2CA)
 - [Ham 'N' Eggs](https://www.youtube.com/watch?v=wUsr1GUZ3oU)
 - [Go Ahead In the Rain](https://www.youtube.com/watch?v=T1CnUKAxgF4)
+- [Description of a Fool](https://www.youtube.com/watch?v=DirRhRgwtes)
 
 
 ## Release Information

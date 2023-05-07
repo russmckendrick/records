@@ -37,8 +37,8 @@ styles: ["Soundtrack", "Reggae"]
 
 
 ## Videos
-### Jimmy Cliff - The Harder They Come + LYRICS (Various - The Harder They Come OST, 1972)
-{{< youtube id="3z8iuVzZSyE" title="Jimmy Cliff - The Harder They Come + LYRICS (Various - The Harder They Come OST, 1972)" >}}<br>
+### The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)
+{{< youtube id="GX5DPsw0Hy0" title="The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,6 @@ styles: ["Soundtrack", "Reggae"]
 - [Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)](https://www.youtube.com/watch?v=StP9OX4bOgU)
 - [The Harder They Come Movie HD](https://www.youtube.com/watch?v=j9U1zc8ys-Q)
 - [Jimmy Cliff - You Can Get If You Really Want](https://www.youtube.com/watch?v=alJGnfiQ9iU)
-- [The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=GX5DPsw0Hy0)
 - [Scotty   Draw Your Brakes](https://www.youtube.com/watch?v=pcGadadrPtk)
 - [Scotty - Draw Your Brakes - Balada Sangrenta Jimmy Cliff](https://www.youtube.com/watch?v=m7KxOv1v7Bs)
 - [The Uniques - My Conversation + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=jSoRU_VxoPY)
@@ -56,6 +55,7 @@ styles: ["Soundtrack", "Reggae"]
 - [Dave & Ansel Collins - Monkey Spanner + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=B3ZZOokFVEo)
 - [The Slickers - Johnny Too Bad](https://www.youtube.com/watch?v=lRm7j2UL3YY)
 - [Desmond Dekker - 007 (Shanty Town) + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=DfV-PnmAGS0)
+- [Jimmy Cliff - The Harder They Come + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=3z8iuVzZSyE)
 - [Jimmy Cliff - The Slickers - Johnny Too Bad + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=hS2k85zW4WU)
 - [The Melodians - Sweet Sensation + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=pYsk6V6CJ9o)
 - [Jimmy Cliff - Sitting In Limbo + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=9r1Dwa3bou0)

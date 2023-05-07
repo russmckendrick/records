@@ -71,13 +71,14 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Adrian Younge & Ali Shaheed Muhammad - Coffee At Midnight
-{{< youtube id="p8rl5kvlGdQ" title="Adrian Younge & Ali Shaheed Muhammad - Coffee At Midnight" >}}<br>
+### Adrian Younge & Ali Shaheed Muhammad - Big Man Little Jacket
+{{< youtube id="zHqdU1VPShY" title="Adrian Younge & Ali Shaheed Muhammad - Big Man Little Jacket" >}}<br>
 
 ### More Videos
 
 - [Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage](https://www.youtube.com/watch?v=yhwcVrVUa3U)
 - [Adrian Younge & Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
+- [Adrian Younge & Ali Shaheed Muhammad - Coffee At Midnight](https://www.youtube.com/watch?v=p8rl5kvlGdQ)
 - [Adrian Younge & Ali Shaheed Muhammad - Red-Handedly Blameless](https://www.youtube.com/watch?v=7Zc0av55sKI)
 - [Adrian Younge & Ali Shaheed Muhammad - Theme (from Luke Cage)](https://www.youtube.com/watch?v=_-w2BeDlfCo)
 - [Adrian Younge & Ali Shaheed Muhammad feat. Method Man - Bulletproof Love](https://www.youtube.com/watch?v=wkpRgSAhfbg)
@@ -86,7 +87,6 @@ styles: ["Soundtrack"]
 - [Adrian Younge & Ali Shaheed Muhammad - Uptown Claire](https://www.youtube.com/watch?v=fthV5QA-ing)
 - [Adrian Younge & Ali Shaheed Muhammad - Misty Resolute](https://www.youtube.com/watch?v=FGZBmUoSvT4)
 - [Adrian Younge & Ali Shaheed Muhammad - Fresh Air](https://www.youtube.com/watch?v=rIoxLrFNGks)
-- [Adrian Younge & Ali Shaheed Muhammad - Big Man Little Jacket](https://www.youtube.com/watch?v=zHqdU1VPShY)
 - [Adrian Younge & Ali Shaheed Muhammad - Bad Love](https://www.youtube.com/watch?v=4b0L89Zon5U)
 - [Adrian Younge & Ali Shaheed Muhammad - Cuban Coffee](https://www.youtube.com/watch?v=CwSA2h8CnE4)
 - [Adrian Younge & Ali Shaheed Muhammad - Cottonmouth Theme](https://www.youtube.com/watch?v=7R8WxNN7h78)

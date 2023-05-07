@@ -59,14 +59,14 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### D to E
-{{< youtube id="wuKoBB6JVJU" title="D to E" >}}<br>
+### Earth Division
+{{< youtube id="CAoLNBPU9mo" title="Earth Division" >}}<br>
 
 ### More Videos
 
+- [D to E](https://www.youtube.com/watch?v=wuKoBB6JVJU)
 - [Tell Everyone That I love Them](https://www.youtube.com/watch?v=yfsTXfiZi_k)
 - [How To Be A Werewolf](https://www.youtube.com/watch?v=qCbymPWCzds)
-- [Earth Division](https://www.youtube.com/watch?v=CAoLNBPU9mo)
 - [Teenage Exorcists](https://www.youtube.com/watch?v=i2hbDzSCPO0)
 
 

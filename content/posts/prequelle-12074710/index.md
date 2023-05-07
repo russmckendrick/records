@@ -35,8 +35,8 @@ styles: ["Gothic Metal"]
 
 
 ## Videos
-### Miasma
-{{< youtube id="BX335Z4esSU" title="Miasma" >}}<br>
+### Dance Macabre
+{{< youtube id="ttY0vfyd-dI" title="Dance Macabre" >}}<br>
 
 ### More Videos
 
@@ -45,7 +45,7 @@ styles: ["Gothic Metal"]
 - [Rats](https://www.youtube.com/watch?v=wwrsoQeh1Ig)
 - [Faith](https://www.youtube.com/watch?v=t9QNheVWL_4)
 - [See The Light](https://www.youtube.com/watch?v=EQPgumd-v8g)
-- [Dance Macabre](https://www.youtube.com/watch?v=ttY0vfyd-dI)
+- [Miasma](https://www.youtube.com/watch?v=BX335Z4esSU)
 - [Pro Memoria](https://www.youtube.com/watch?v=NPLFQpApMAg)
 - [Witch Image](https://www.youtube.com/watch?v=ymb-aG_lt9U)
 - [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)

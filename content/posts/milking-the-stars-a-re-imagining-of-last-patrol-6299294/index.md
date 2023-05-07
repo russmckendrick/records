@@ -40,8 +40,8 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Let The Circus Burn
-{{< youtube id="mggy7HHsbFU" title="Let The Circus Burn" >}}<br>
+### End Of Time (B-3)
+{{< youtube id="V2mU6pDuuZE" title="End Of Time (B-3)" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 - [MONSTER MAGNET - Mindless Ones (Official) | Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
 - [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
 - [Last Patrol (Live)](https://www.youtube.com/watch?v=MOdftJvtYvw)
-- [End Of Time (B-3)](https://www.youtube.com/watch?v=V2mU6pDuuZE)
+- [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
 - [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
 - [Mindless Ones '68](https://www.youtube.com/watch?v=kiVjdn1o82k)
 - [Three Kingfishers (Live)](https://www.youtube.com/watch?v=6jEcMZ8XANc)

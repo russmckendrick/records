@@ -39,15 +39,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Blue Moon Rising
-{{< youtube id="9jHCwCbRGJg" title="Blue Moon Rising" >}}<br>
+### Las Vegas Dealer
+{{< youtube id="peX1chFJTpM" title="Las Vegas Dealer" >}}<br>
 
 ### More Videos
 
 - [Hangover (Remastered 2019)](https://www.youtube.com/watch?v=XPebxxCiZQk)
 - [Revolutionary Kind](https://www.youtube.com/watch?v=V2nECCy8uEI)
 - [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
-- [Las Vegas Dealer](https://www.youtube.com/watch?v=peX1chFJTpM)
+- [Blue Moon Rising](https://www.youtube.com/watch?v=9jHCwCbRGJg)
 - [Gomez - We Haven't Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
 - [Fill My Cup](https://www.youtube.com/watch?v=VjnYPEfvyj4)
 - [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)

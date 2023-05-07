@@ -38,7 +38,7 @@ styles: ["Shoegaze", "Indie Rock"]
 
 ## Videos
 ### You Never Should
-{{< youtube id="1ZUlcUp7-80" title="You Never Should" >}}<br>
+{{< youtube id="w1z76Y_3x7s" title="You Never Should" >}}<br>
 
 ### More Videos
 
@@ -58,7 +58,7 @@ styles: ["Shoegaze", "Indie Rock"]
 - [Sueisfine](https://www.youtube.com/watch?v=O1eDVBKxcn4)
 - [Several Girls Galore](https://www.youtube.com/watch?v=6OgnaBn6jvc)
 - [Several Girls Galore](https://www.youtube.com/watch?v=7cOBugK_O8U)
-- [You Never Should](https://www.youtube.com/watch?v=w1z76Y_3x7s)
+- [You Never Should](https://www.youtube.com/watch?v=1ZUlcUp7-80)
 - [Nothing Much to Lose](https://www.youtube.com/watch?v=62M08JFTovM)
 - [Nothing Much To Lose](https://www.youtube.com/watch?v=HzsjqkYI1BI)
 - [I Can See It (But I Can’t Feel It)](https://www.youtube.com/watch?v=EG159C9shuA)

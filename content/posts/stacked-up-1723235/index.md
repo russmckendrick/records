@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 
 
 ## Videos
-### Senser  'Stacked Up' (Full Album)
-{{< youtube id="8M6r_sLmKJk" title="Senser  'Stacked Up' (Full Album)" >}}<br>
+### SENSER - Age Of Panic
+{{< youtube id="MyQallcPu2A" title="SENSER - Age Of Panic" >}}<br>
 
 ### More Videos
 
@@ -61,8 +61,8 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 - [Senser - Eject (Official Video)](https://www.youtube.com/watch?v=W69gdXUryEg)
 - [Senser - Stubborn](https://www.youtube.com/watch?v=anEPodHXSi0)
 - [Senser - Worth (fusion metal techno hip hop)](https://www.youtube.com/watch?v=TGJs3aGXZMw)
-- [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
+- [Senser  'Stacked Up' (Full Album)](https://www.youtube.com/watch?v=8M6r_sLmKJk)
 - [Senser - Age of Panic + Eject (live at Glastonbury 1994)](https://www.youtube.com/watch?v=WNhlU-n7eGs)
 - [Senser stacked up rehearsals and writing sessions 1992](https://www.youtube.com/watch?v=uYwnVsNhjck)
 

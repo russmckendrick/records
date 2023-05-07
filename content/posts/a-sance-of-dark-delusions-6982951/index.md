@@ -37,13 +37,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Nordic Giants - Rapture (from A Séance of Dark Delusions)
-{{< youtube id="K79YFZLXobM" title="Nordic Giants - Rapture (from A Séance of Dark Delusions)" >}}<br>
+### ¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥
+{{< youtube id="yeI5UM572xI" title="¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥" >}}<br>
 
 ### More Videos
 
-- [¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥](https://www.youtube.com/watch?v=yeI5UM572xI)
 - [Nordic Giants - A Séance of Dark Delusions (documentary clip)](https://www.youtube.com/watch?v=LDroAjaym04)
+- [Nordic Giants - Rapture (from A Séance of Dark Delusions)](https://www.youtube.com/watch?v=K79YFZLXobM)
 
 
 ## Release Information

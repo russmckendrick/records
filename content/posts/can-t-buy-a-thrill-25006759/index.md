@@ -35,8 +35,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Brooklyn (Owes The Charmer Under Me)
-{{< youtube id="vO4I10PeweI" title="Brooklyn (Owes The Charmer Under Me)" >}}<br>
+### Turn That Heartbeat Over Again
+{{< youtube id="DSfiPrhpeF8" title="Turn That Heartbeat Over Again" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Pop Rock"]
 - [Only A Fool Would Say That](https://www.youtube.com/watch?v=Hvz0TOm0zgI)
 - [Reelin' In The Years](https://www.youtube.com/watch?v=GaH25Sghoqc)
 - [Fire In The Hole](https://www.youtube.com/watch?v=9PwkU4nsJM8)
+- [Brooklyn (Owes The Charmer Under Me)](https://www.youtube.com/watch?v=vO4I10PeweI)
 - [Change Of The Guard](https://www.youtube.com/watch?v=roLIYw8Ov_I)
-- [Turn That Heartbeat Over Again](https://www.youtube.com/watch?v=DSfiPrhpeF8)
 
 
 ## Release Information

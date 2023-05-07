@@ -40,17 +40,17 @@ styles: ["Ska", "Punk"]
 
 
 ## Videos
-### Fishbone Freddie's Dead
-{{< youtube id="gwcAU7mCeIg" title="Fishbone Freddie's Dead" >}}<br>
+### Fishbone - Freddie's Dead
+{{< youtube id="4zICxh9kKZg" title="Fishbone - Freddie's Dead" >}}<br>
 
 ### More Videos
 
 - [Fishbone - Ghetto Soundwave](https://www.youtube.com/watch?v=HC0buvIyOkE)
+- [Fishbone Freddie's Dead](https://www.youtube.com/watch?v=gwcAU7mCeIg)
 - [Fishbone - Subliminal Fascism](https://www.youtube.com/watch?v=W90jR6NU9P8)
 - [Fishbone: Change (Chris Dowd)](https://www.youtube.com/watch?v=ghpd3hH12yI)
 - [Fishbone - Ma And Pa](https://www.youtube.com/watch?v=KK640dPPhXE)
 - [Fishbone - Pouring Rain](https://www.youtube.com/watch?v=Y8WrrcAhKCo)
-- [Fishbone - Freddie's Dead](https://www.youtube.com/watch?v=4zICxh9kKZg)
 - [Fishbone - Freddie's Dead (Video)](https://www.youtube.com/watch?v=zFrz7sBWbyw)
 - [Bonin in the boneyard by Fishbone](https://www.youtube.com/watch?v=78ZVbw74OhU)
 

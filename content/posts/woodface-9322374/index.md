@@ -42,8 +42,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Fame Is
-{{< youtube id="1jWjXLejcnI" title="Fame Is" >}}<br>
+### There Goes God
+{{< youtube id="sMMRryOYeGY" title="There Goes God" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["Pop Rock"]
 - [Crowded House - Weather With You (HQ)](https://www.youtube.com/watch?v=BjDknXaEP9A)
 - [Whispers And Moans](https://www.youtube.com/watch?v=CY9kS7d6O_0)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
-- [There Goes God](https://www.youtube.com/watch?v=sMMRryOYeGY)
+- [Fame Is](https://www.youtube.com/watch?v=1jWjXLejcnI)
 - [Crowded House - All I Ask (1991)](https://www.youtube.com/watch?v=-nUk45bj_8g)
 - [As Sure As I Am](https://www.youtube.com/watch?v=EzrQgTJa6qU)
 - [Italian Plastic](https://www.youtube.com/watch?v=me0Ap2I_j8E)

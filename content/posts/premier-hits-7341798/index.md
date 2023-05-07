@@ -49,17 +49,17 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Gary Numan - Cars
-{{< youtube id="Im3JzxlatUs" title="Gary Numan - Cars" >}}<br>
+### Cars - Premier Mix
+{{< youtube id="O2_ixzTObiw" title="Cars - Premier Mix" >}}<br>
 
 ### More Videos
 
 - [Gary Numan - Metal](https://www.youtube.com/watch?v=kLfz2bbxxuM)
+- [Gary Numan - Cars](https://www.youtube.com/watch?v=Im3JzxlatUs)
 - [Tubeway Army / Gary Numan -  Are 'Friends' Electric? 1979](https://www.youtube.com/watch?v=-0WNbm1jz6A)
 - [Gary Numan She's got Claws Promo Video 1981](https://www.youtube.com/watch?v=i_K93VLhlZk)
 - [Gary Numan We Take Mystery (To bed) Promo Video 1982](https://www.youtube.com/watch?v=X6nmepWa3fE)
 - [Warriors](https://www.youtube.com/watch?v=ttZvdcoavL8)
-- [Cars - Premier Mix](https://www.youtube.com/watch?v=O2_ixzTObiw)
 - [Love Needs No Disguise](https://www.youtube.com/watch?v=sY5WT2jqZho)
 - [TUBEWAY ARMY   bombers](https://www.youtube.com/watch?v=GJLxnF_0bro)
 - [Gary Numan - We Are Glass](https://www.youtube.com/watch?v=HVHnIiWpNig)

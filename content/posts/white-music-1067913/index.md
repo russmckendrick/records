@@ -40,14 +40,13 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Dance Band (2001 Remaster)
-{{< youtube id="gr3YUFcGTVc" title="Dance Band (2001 Remaster)" >}}<br>
+### Radios In Motion (2001 Remaster)
+{{< youtube id="nNnmPQ2284w" title="Radios In Motion (2001 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Hang On To The Night (2001 Remaster)](https://www.youtube.com/watch?v=bc4ZYVVBog8)
 - [XTC white music](https://www.youtube.com/watch?v=px-E3Fw253o)
-- [Radios In Motion (2001 Remaster)](https://www.youtube.com/watch?v=nNnmPQ2284w)
 - [Cross Wires (2001 Remaster)](https://www.youtube.com/watch?v=0tC9pqA8h9Y)
 - [This Is Pop? (2001 Remaster)](https://www.youtube.com/watch?v=Urz3Md03bXM)
 - [Do What You Do (2001 Remaster)](https://www.youtube.com/watch?v=ejr9X_Xuryw)
@@ -61,6 +60,7 @@ styles: ["New Wave", "Post-Punk"]
 - [Neon Shuffle (2001 Remaster)](https://www.youtube.com/watch?v=ppTHMJRGhSc)
 - [Science Friction (2001 Remaster)](https://www.youtube.com/watch?v=bZlIDgfJCE4)
 - [She's So Square (2001 Remaster)](https://www.youtube.com/watch?v=BJSsRqBqB2k)
+- [Dance Band (2001 Remaster)](https://www.youtube.com/watch?v=gr3YUFcGTVc)
 - [XTC - Heatwave](https://www.youtube.com/watch?v=IiW2ZheWyHQ)
 - [Traffic Light Rock (2001 Remaster)](https://www.youtube.com/watch?v=g-jXkJNkRv8)
 - [Instant Tunes (2001 Remaster)](https://www.youtube.com/watch?v=gOCiMxfjswM)

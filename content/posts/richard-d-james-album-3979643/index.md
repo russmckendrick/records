@@ -38,12 +38,13 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 
 
 ## Videos
-### Aphex Twin - Cornish Acid
-{{< youtube id="TkyTltnqdlg" title="Aphex Twin - Cornish Acid" >}}<br>
+### Aphex Twin - Logan Rock Witch (video)
+{{< youtube id="vycZbHX-Fq0" title="Aphex Twin - Logan Rock Witch (video)" >}}<br>
 
 ### More Videos
 
 - [4](https://www.youtube.com/watch?v=7WAa3tY6cfo)
+- [Aphex Twin - Cornish Acid](https://www.youtube.com/watch?v=TkyTltnqdlg)
 - [Peek 824545201](https://www.youtube.com/watch?v=JVKCw_qlSvo)
 - [Fingerbib](https://www.youtube.com/watch?v=v3-KGSuJy_s)
 - [Carn Marth](https://www.youtube.com/watch?v=Pb2HJsYvjaw)
@@ -51,7 +52,6 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 - [Goon Gumpas](https://www.youtube.com/watch?v=NMYIVsdGfoo)
 - [Aphex Twin - Yellow Calx](https://www.youtube.com/watch?v=2dHKh-Nu1oU)
 - [Aphex Twin - Girl/Boy Song](https://www.youtube.com/watch?v=mkxz3nU5vOI)
-- [Aphex Twin - Logan Rock Witch (video)](https://www.youtube.com/watch?v=vycZbHX-Fq0)
 
 
 ## Release Information

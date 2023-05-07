@@ -41,8 +41,8 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 
 
 ## Videos
-### future sound of london dead cities - everyone in the world is doing something without me
-{{< youtube id="OseeyeXoiHI" title="future sound of london dead cities - everyone in the world is doing something without me" >}}<br>
+### future sound of london dead cities - first death in the family / silence / dead cities reprise
+{{< youtube id="uRUv_Dbwmw8" title="future sound of london dead cities - first death in the family / silence / dead cities reprise" >}}<br>
 
 ### More Videos
 
@@ -58,6 +58,7 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 - [Future Sound Of London Dead Cites](https://www.youtube.com/watch?v=_1Ps-OtDdGU)
 - [Future Sound Of London - Herd Killing](https://www.youtube.com/watch?v=JDkLdtEYqSY)
 - [future sound of london dead cities - my kingdom](https://www.youtube.com/watch?v=4r1AtaVVGSM)
+- [future sound of london dead cities - everyone in the world is doing something without me](https://www.youtube.com/watch?v=OseeyeXoiHI)
 - [Future Sound of London Dead Cities - Herd killing](https://www.youtube.com/watch?v=vHpmvjqJpjw)
 - [Herd Killing](https://www.youtube.com/watch?v=0HyEoxOQOV4)
 - [future sound of london dead cities - antique toy](https://www.youtube.com/watch?v=1IeOy4hfMLA)
@@ -65,7 +66,6 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 - [future sound of london dead cities - glass](https://www.youtube.com/watch?v=nS21Ikl7TxE)
 - [Glass](https://www.youtube.com/watch?v=U9qQ4ferhBA)
 - [future sound of london dead cities - we have explosive](https://www.youtube.com/watch?v=z20ut8NKQtQ)
-- [future sound of london dead cities - first death in the family / silence / dead cities reprise](https://www.youtube.com/watch?v=uRUv_Dbwmw8)
 - [The Future Sound Of London - We Have Explosive (original)](https://www.youtube.com/watch?v=u6zVDIfSGWY)
 - [The Future Sound Of London  ISDN](https://www.youtube.com/watch?v=wvCILJjTlnI)
 - [FSOL - Dead Cities Full Album 1996](https://www.youtube.com/watch?v=WrfYrxvnvzI)

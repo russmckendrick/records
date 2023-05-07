@@ -37,17 +37,17 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Just What I Needed
-{{< youtube id="naOzftxOKig" title="Just What I Needed" >}}<br>
+### Bye Bye Love
+{{< youtube id="4ghKhEg8VX8" title="Bye Bye Love" >}}<br>
 
 ### More Videos
 
 - [Good Times Roll](https://www.youtube.com/watch?v=Ki6xHnDAwHw)
 - [My Best Friend's Girl](https://www.youtube.com/watch?v=j-dfrHkaXuE)
+- [Just What I Needed](https://www.youtube.com/watch?v=naOzftxOKig)
 - [I'm in Touch with Your World](https://www.youtube.com/watch?v=GMYzaqupprQ)
 - [Don't Cha Stop](https://www.youtube.com/watch?v=pg9MIstRhko)
 - [You're All I've Got Tonight](https://www.youtube.com/watch?v=UZ1VZLMJ8D8)
-- [Bye Bye Love](https://www.youtube.com/watch?v=4ghKhEg8VX8)
 - [Moving in Stereo](https://www.youtube.com/watch?v=y5oPZFDci80)
 - [All Mixed Up](https://www.youtube.com/watch?v=VFXsdQb35Io)
 

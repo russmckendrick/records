@@ -39,8 +39,8 @@ styles: ["Techno"]
 
 
 ## Videos
-### NEON LIPS (Binaural Headphone Mix)
-{{< youtube id="Bpe9C0pZ4fk" title="NEON LIPS (Binaural Headphone Mix)" >}}<br>
+### ZEITGEIST (Binaural Headphone Mix)
+{{< youtube id="eVTEy5xUMbA" title="ZEITGEIST (Binaural Headphone Mix)" >}}<br>
 
 ### More Videos
 
@@ -55,11 +55,11 @@ styles: ["Techno"]
 - [CRYSTAL GARDEN](https://www.youtube.com/watch?v=h843xk2UQTI)
 - [AGORA (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oPKpe5zfXVs)
 - [OXYMORE (Binaurel Headphone Mix)](https://www.youtube.com/watch?v=YVDktZ644iw)
+- [NEON LIPS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Bpe9C0pZ4fk)
 - [SONIC LAND (Binaural Headphone Mix)](https://www.youtube.com/watch?v=TYb2MfdUzf8)
 - [ANIMAL GENESIS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Wtxr2c2hZuU)
 - [SYNTHY SISTERS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oJdJHCy9Osg)
 - [SEX IN THE MACHINE (Binaural Headphone Mix)](https://www.youtube.com/watch?v=QFbGxXdDdGI)
-- [ZEITGEIST (Binaural Headphone Mix)](https://www.youtube.com/watch?v=eVTEy5xUMbA)
 - [CRYSTAL GARDEN (Binaural Headphone Mix)](https://www.youtube.com/watch?v=TcRv_J1-v1c)
 - [BRUTALISM (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Pxj4mBZ5fJM)
 - [EPICA (Binaurel Headphone Mix)](https://www.youtube.com/watch?v=Vj9_79BlZFE)

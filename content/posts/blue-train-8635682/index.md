@@ -33,12 +33,12 @@ styles: []
 
 
 ## Videos
-### Blue Train (Mono Version)
-{{< youtube id="XF9ebuo4tP8" title="Blue Train (Mono Version)" >}}<br>
+### John Coltrane - Moment's Notice
+{{< youtube id="gocGlRuW1bw" title="John Coltrane - Moment's Notice" >}}<br>
 
 ### More Videos
 
-- [John Coltrane - Moment's Notice](https://www.youtube.com/watch?v=gocGlRuW1bw)
+- [Blue Train (Mono Version)](https://www.youtube.com/watch?v=XF9ebuo4tP8)
 
 
 ## Release Information

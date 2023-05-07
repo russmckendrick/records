@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Kurt Vile - One Trick Ponies
-{{< youtube id="W7OmWKy6_8E" title="Kurt Vile - One Trick Ponies" >}}<br>
+### Kurt Vile - Bassackwards
+{{< youtube id="pOFWHty4XFQ" title="Kurt Vile - Bassackwards" >}}<br>
 
 ### More Videos
 
-- [Kurt Vile - Bassackwards](https://www.youtube.com/watch?v=pOFWHty4XFQ)
+- [Kurt Vile - One Trick Ponies](https://www.youtube.com/watch?v=W7OmWKy6_8E)
 
 
 ## Release Information

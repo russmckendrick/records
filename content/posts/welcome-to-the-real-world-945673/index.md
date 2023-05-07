@@ -38,12 +38,12 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Mr. Mister - Kyrie (Official Video)
-{{< youtube id="9NDjt4FzFWY" title="Mr. Mister - Kyrie (Official Video)" >}}<br>
+### Mr. Mister - Broken Wings (Official Video)
+{{< youtube id="nKhN1t_7PEY" title="Mr. Mister - Broken Wings (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Mr. Mister - Broken Wings (Official Video)](https://www.youtube.com/watch?v=nKhN1t_7PEY)
+- [Mr. Mister - Kyrie (Official Video)](https://www.youtube.com/watch?v=9NDjt4FzFWY)
 - [Mr. Mister - Is It Love](https://www.youtube.com/watch?v=nWxxRlVNM30)
 
 

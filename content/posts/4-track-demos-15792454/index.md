@@ -42,13 +42,12 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 
 
 ## Videos
-### Reeling (4-Track Demo Version)
-{{< youtube id="qoxipCtMT14" title="Reeling (4-Track Demo Version)" >}}<br>
+### Hardly Wait
+{{< youtube id="JmSfWo5pwpo" title="Hardly Wait" >}}<br>
 
 ### More Videos
 
 - [Rid Of Me (4-Track Demo Version)](https://www.youtube.com/watch?v=ZrRkrD8edhE)
-- [Hardly Wait](https://www.youtube.com/watch?v=JmSfWo5pwpo)
 - [Easy (4-Track Demo Version)](https://www.youtube.com/watch?v=8OBm_rDdWPE)
 - [Driving (4-Track Demo Version)](https://www.youtube.com/watch?v=vGGRoL_jzl0)
 - [Yuri-G (4-Track Demo Version)](https://www.youtube.com/watch?v=R_LvybRW1YI)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 - [Legs (4-Track Demo Version)](https://www.youtube.com/watch?v=Tbk66xllWS4)
 - [Ecstasy (4-Track Demo Version)](https://www.youtube.com/watch?v=KSNvkoJZ3uo)
 - [50ft Queenie (4-Track Demo Version)](https://www.youtube.com/watch?v=bt1g1FDOMh0)
+- [Reeling (4-Track Demo Version)](https://www.youtube.com/watch?v=qoxipCtMT14)
 
 
 ## Release Information

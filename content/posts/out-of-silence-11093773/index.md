@@ -38,8 +38,8 @@ styles: []
 
 
 ## Videos
-### Alone
-{{< youtube id="pOnlqcHhiNI" title="Alone" >}}<br>
+### The Infinity Sessions: Week Four
+{{< youtube id="LDSDBG68zHI" title="The Infinity Sessions: Week Four" >}}<br>
 
 ### More Videos
 
@@ -47,6 +47,7 @@ styles: []
 - [Neil Finn - More Than One Of You](https://www.youtube.com/watch?v=1jdyTtCy-zg)
 - [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=K1cq6xtzA3M)
 - [Neil Finn - Indepedence Day](https://www.youtube.com/watch?v=Azwa6xRYTQ4)
+- [Alone](https://www.youtube.com/watch?v=pOnlqcHhiNI)
 - [Neil Finn - Widows Peak](https://www.youtube.com/watch?v=6JfMUJZH3ow)
 - [Neil Finn - Second Nature](https://www.youtube.com/watch?v=9q7Jr0w5MLk)
 - [Neil Finn - The Law Is Always On Your Side](https://www.youtube.com/watch?v=1La1HACYsjc)
@@ -57,7 +58,6 @@ styles: []
 - [Neil Finn: The Infinity Sessions](https://www.youtube.com/watch?v=QbeEsFuJSVA)
 - [The Infinity Sessions: Week Two](https://www.youtube.com/watch?v=zXFnWk8VRA4)
 - [The Infinity Sessions: Week Three](https://www.youtube.com/watch?v=aw7M6X0zgaw)
-- [The Infinity Sessions: Week Four](https://www.youtube.com/watch?v=LDSDBG68zHI)
 
 
 ## Release Information

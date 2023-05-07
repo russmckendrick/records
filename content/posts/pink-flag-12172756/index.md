@@ -49,8 +49,8 @@ styles: ["Punk", "New Wave"]
 
 
 ## Videos
-### Pink Flag (2006 Remastered Version)
-{{< youtube id="BgEYF8od2Ck" title="Pink Flag (2006 Remastered Version)" >}}<br>
+### Mannequin (2006 Remastered Version)
+{{< youtube id="I1ds5KfglWE" title="Mannequin (2006 Remastered Version)" >}}<br>
 
 ### More Videos
 
@@ -63,13 +63,13 @@ styles: ["Punk", "New Wave"]
 - [Brazil (2006 Remastered Version)](https://www.youtube.com/watch?v=DrcF_JcTT4Q)
 - [It's So Obvious (2006 Remastered Version)](https://www.youtube.com/watch?v=2JowyQt2Uqk)
 - [Surgeon's Girl (2006 Remastered Version)](https://www.youtube.com/watch?v=0Zl5nFIA1NU)
+- [Pink Flag (2006 Remastered Version)](https://www.youtube.com/watch?v=BgEYF8od2Ck)
 - [The Commercial (2006 Remastered Version)](https://www.youtube.com/watch?v=2eAtwvBPiOA)
 - [Straight Line (2006 Remastered Version)](https://www.youtube.com/watch?v=PVfq405-2i4)
 - [106 Beats That (2006 Remastered Version)](https://www.youtube.com/watch?v=0QCk0f0NjJs)
 - [Mr Suit (2006 Remastered Version)](https://www.youtube.com/watch?v=LPU8tS1uHl0)
 - [Strange (2006 Remastered Version)](https://www.youtube.com/watch?v=Zv0fFtP6iIQ)
 - [Fragile (2006 Remastered Version)](https://www.youtube.com/watch?v=fJoLkMAzq10)
-- [Mannequin (2006 Remastered Version)](https://www.youtube.com/watch?v=I1ds5KfglWE)
 - [Different to Me (2006 Remastered Version)](https://www.youtube.com/watch?v=tPjoWN0SCb0)
 - [Champs (2006 Remastered Version)](https://www.youtube.com/watch?v=CtCRXhM7bwc)
 - [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)

@@ -43,12 +43,13 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 
 
 ## Videos
-### Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)
-{{< youtube id="s6ARrtnMkzM" title="Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)" >}}<br>
+### Mandy 2018 Soundtrack | 12. Temple | Jóhann Jóhannsson OST
+{{< youtube id="6ylbxJqRkqc" title="Mandy 2018 Soundtrack | 12. Temple | Jóhann Jóhannsson OST" >}}<br>
 
 ### More Videos
 
 - [Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track](https://www.youtube.com/watch?v=PKZEBhRX-TU)
+- [Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)](https://www.youtube.com/watch?v=s6ARrtnMkzM)
 - [Mandy 2018 Soundtrack | 03. Mandy Love Theme | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=ilaRNAPSUKc)
 - [Mandy Love Theme](https://www.youtube.com/watch?v=72ye1IMywrQ)
 - [Mandy 2018 Soundtrack | 14. Memories | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=F8LZgBxLp9I)
@@ -56,7 +57,6 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 - [Mandy 2018 Soundtrack | 01. Seeker of the Serpent's Eye | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=XkwtifENU1c)
 - [Mandy 2018 Soundtrack | 07. Sand | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=5rMC2O3dWPs)
 - [Children of the New Dawn](https://www.youtube.com/watch?v=-KZxeSATdXI)
-- [Mandy 2018 Soundtrack | 12. Temple | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=6ylbxJqRkqc)
 - [Mandy 2018 Soundtrack | 11. Waste | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=kmmnk0FZsoc)
 - [Mandy 2018 Soundtrack | 15. Children of the New Dawn | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=_XwmduN4WfA)
 - [Mandy 2018 Soundtrack | 09. Forging the Beast | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=pmaFn3iqpV8)

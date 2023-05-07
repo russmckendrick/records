@@ -52,13 +52,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### My Best Friend
-{{< youtube id="js0V828SPQE" title="My Best Friend" >}}<br>
+### Change Your Mind
+{{< youtube id="0f_0F_RR21U" title="Change Your Mind" >}}<br>
 
 ### More Videos
 
-- [Change Your Mind](https://www.youtube.com/watch?v=0f_0F_RR21U)
 - [Autumn Has Come](https://www.youtube.com/watch?v=Ei1lTXge2AI)
+- [My Best Friend](https://www.youtube.com/watch?v=js0V828SPQE)
 
 
 ## Release Information

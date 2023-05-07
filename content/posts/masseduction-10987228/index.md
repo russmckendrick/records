@@ -41,14 +41,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### St. Vincent - Power Corrupts (Japanese Bonus Track)
-{{< youtube id="GYLCrGOY_eQ" title="St. Vincent - Power Corrupts (Japanese Bonus Track)" >}}<br>
+### St. Vincent - Masseduction
+{{< youtube id="jPha0h8TA5U" title="St. Vincent - Masseduction" >}}<br>
 
 ### More Videos
 
 - [St. Vincent - Hang On Me (Official Audio)](https://www.youtube.com/watch?v=F9WjhPy02gU)
-- [St. Vincent - Masseduction](https://www.youtube.com/watch?v=jPha0h8TA5U)
 - [St. Vincent - New York (Official Video)](https://www.youtube.com/watch?v=4TPqUvy1vYU)
+- [St. Vincent - Power Corrupts (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 - [St. Vincent - Los Ageless (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
 
 

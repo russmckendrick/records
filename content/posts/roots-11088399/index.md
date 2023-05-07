@@ -56,8 +56,8 @@ styles: ["Thrash", "Nu Metal"]
 
 
 ## Videos
-### Sepultura – Canyon Jam (Hidden Track)
-{{< youtube id="Jxi9Unr4Yvc" title="Sepultura – Canyon Jam (Hidden Track)" >}}<br>
+### Sepultura – Itsari
+{{< youtube id="MDEQs9qGK4A" title="Sepultura – Itsari" >}}<br>
 
 ### More Videos
 
@@ -71,7 +71,6 @@ styles: ["Thrash", "Nu Metal"]
 - [Sepultura – Cut-Throat](https://www.youtube.com/watch?v=D4e5ECoMoWc)
 - [Sepultura – Dusted](https://www.youtube.com/watch?v=IUNlmSQZaAI)
 - [Sepultura – Dictatorshit](https://www.youtube.com/watch?v=VNkyeiBbKhA)
-- [Sepultura – Itsari](https://www.youtube.com/watch?v=MDEQs9qGK4A)
 - [Sepultura – Jasco](https://www.youtube.com/watch?v=xXHlSZ8deRM)
 - [Sepultura – Chaos B.C (Bonus Track)](https://www.youtube.com/watch?v=flU0nVcr8cg)
 - [Sepultura – Straighthate](https://www.youtube.com/watch?v=cnSw1MtGnZY)
@@ -82,6 +81,7 @@ styles: ["Thrash", "Nu Metal"]
 - [Sepultura – Born Stubborn](https://www.youtube.com/watch?v=HgZoUf97hDc)
 - [Sepultura – Symptom Of The Universe (Bonus Track)](https://www.youtube.com/watch?v=uKOBkGWFB_E)
 - [Sepultura – Ambush](https://www.youtube.com/watch?v=Zo0u29dJOaQ)
+- [Sepultura – Canyon Jam (Hidden Track)](https://www.youtube.com/watch?v=Jxi9Unr4Yvc)
 - [Sepultura – Endangered Species](https://www.youtube.com/watch?v=NOGfroS3GHs)
 
 

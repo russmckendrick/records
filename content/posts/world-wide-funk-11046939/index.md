@@ -43,18 +43,18 @@ styles: ["P.Funk"]
 
 
 ## Videos
-### A Salute To Bernie (feat. Dr. G. & Bernie Worrell)
-{{< youtube id="2UVNZ4oRlTA" title="A Salute To Bernie (feat. Dr. G. & Bernie Worrell)" >}}<br>
+### Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017
+{{< youtube id="xgqPq3MKbcI" title="Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017" >}}<br>
 
 ### More Videos
 
-- [Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017](https://www.youtube.com/watch?v=xgqPq3MKbcI)
 - [Bootsy Collins - Hot Saucer (feat. Musiq Soulchild & Big Daddy Kane) (World Wide Funk) 2017](https://www.youtube.com/watch?v=e4sw54XwFpU)
 - [Bootsy Collins - Ladies Nite (Official Music Video)](https://www.youtube.com/watch?v=nVL7WUPvjnc)
 - [Illusions (feat. Chuck D, Buckethead & BlvckSeeds)](https://www.youtube.com/watch?v=mmelrq5bqVo)
 - [Bootsy Collins Bass-Rigged-System (World Wide Funk)](https://www.youtube.com/watch?v=wn7-cPIX5dM)
 - [World Wide Funk (feat. Doug E. Fresh, Buckethead & Alissia Benveniste)](https://www.youtube.com/watch?v=S_pt0vMsARo)
 - [Come Back Bootsy](https://www.youtube.com/watch?v=fAMiUe7ZraE)
+- [A Salute To Bernie (feat. Dr. G. & Bernie Worrell)](https://www.youtube.com/watch?v=2UVNZ4oRlTA)
 - [Pusherman (feat. Dru Down, BlvckSeeds & Mr. Talkbox)](https://www.youtube.com/watch?v=VxExDMN6C4w)
 
 

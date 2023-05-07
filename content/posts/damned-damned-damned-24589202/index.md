@@ -40,12 +40,13 @@ styles: ["Punk"]
 
 
 ## Videos
-### Fan Club
-{{< youtube id="jzof7TAVZFU" title="Fan Club" >}}<br>
+### 1 of the 2 (2017 - Remaster)
+{{< youtube id="UXCDnUShMhg" title="1 of the 2 (2017 - Remaster)" >}}<br>
 
 ### More Videos
 
 - [I Fall (2017 - Remaster)](https://www.youtube.com/watch?v=kQTJ5jqGSpc)
+- [Fan Club](https://www.youtube.com/watch?v=jzof7TAVZFU)
 - [Feel the Pain (2017 - Remaster)](https://www.youtube.com/watch?v=Hz16ObeWQ6E)
 - [I Fall](https://www.youtube.com/watch?v=5hBoLTuO2zI)
 - [Feel the Pain](https://www.youtube.com/watch?v=WCzUMOoEwTU)
@@ -56,7 +57,6 @@ styles: ["Punk"]
 - [So Messed Up](https://www.youtube.com/watch?v=_kBVKs4jqZc)
 - [See Her Tonite (2017 - Remaster)](https://www.youtube.com/watch?v=tFu0X8vskNM)
 - [I Feel Alright](https://www.youtube.com/watch?v=X9E1U4PPp-M)
-- [1 of the 2 (2017 - Remaster)](https://www.youtube.com/watch?v=UXCDnUShMhg)
 - [So Messed Up (2017 - Remaster)](https://www.youtube.com/watch?v=r2OfzJdOhSc)
 - [I Feel Alright (2017 - Remaster)](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
 - [Neat Neat Neat (2017 - Remaster)](https://www.youtube.com/watch?v=gXKDtkCzSCw)

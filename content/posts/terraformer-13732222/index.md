@@ -41,15 +41,15 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 
 ## Videos
-### New Moon and Terraformer by Thank You Scientists
-{{< youtube id="iqRC_2g8Xbc" title="New Moon and Terraformer by Thank You Scientists" >}}<br>
+### Everyday Ghosts
+{{< youtube id="G7Vznh_e5LE" title="Everyday Ghosts" >}}<br>
 
 ### More Videos
 
 - [Thank You Scientist - Terraformer (Official Music Video)](https://www.youtube.com/watch?v=OKKWQEpS8hI)
 - [Anchor](https://www.youtube.com/watch?v=CLSKD0Ka01A)
+- [New Moon and Terraformer by Thank You Scientists](https://www.youtube.com/watch?v=iqRC_2g8Xbc)
 - [Thank You Scientist - FXMLDR [Official Audio]](https://www.youtube.com/watch?v=UxzSGMYogow)
-- [Everyday Ghosts](https://www.youtube.com/watch?v=G7Vznh_e5LE)
 - [Son of a Serpent](https://www.youtube.com/watch?v=4yv83xBR0Rw)
 
 

@@ -42,11 +42,12 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 
 
 ## Videos
-### THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)
-{{< youtube id="XgtIGQkZyrU" title="THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)" >}}<br>
+### Financial Leprosy
+{{< youtube id="h8PNFiOhKLg" title="Financial Leprosy" >}}<br>
 
 ### More Videos
 
+- [THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)](https://www.youtube.com/watch?v=XgtIGQkZyrU)
 - [Satanic Reverses](https://www.youtube.com/watch?v=3MGxfMH4CJ0)
 - [Disposable Heroes of Hiphoprisy   Hypocrisy is the Greatest Luxury](https://www.youtube.com/watch?v=zurCtInZUcg)
 - [Television The Drug Of The Nation](https://www.youtube.com/watch?v=AioHRn9y6aM)
@@ -67,7 +68,6 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 - [INS Greencard A-19 191 500 - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=ozvxSw1cHoM)
 - [Music And Politics](https://www.youtube.com/watch?v=WbU3RJtRuBU)
 - [Financial Leprosy - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=kqB-wf49Xsc)
-- [Financial Leprosy](https://www.youtube.com/watch?v=h8PNFiOhKLg)
 - [Famous and Dandy (just like Amos and Andy) See more info box](https://www.youtube.com/watch?v=HgoTSuBZPGI)
 - [California Uber Alles](https://www.youtube.com/watch?v=U5UOd1tZisg)
 - [DISPOSABLE HEROES OF HIPHOPRISY - Television [PL Napisy]](https://www.youtube.com/watch?v=RKut-ATXUfA)

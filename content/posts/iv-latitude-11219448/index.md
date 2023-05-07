@@ -38,13 +38,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### In Their Eyes
-{{< youtube id="H6JRkSNYD80" title="In Their Eyes" >}}<br>
+### Latitude
+{{< youtube id="t3zBRu3b4RU" title="Latitude" >}}<br>
 
 ### More Videos
 
-- [Latitude](https://www.youtube.com/watch?v=t3zBRu3b4RU)
 - [Lesoir Latitude (GAOM054)](https://www.youtube.com/watch?v=L8vaclL7Ojc)
+- [In Their Eyes](https://www.youtube.com/watch?v=H6JRkSNYD80)
 
 
 ## Release Information

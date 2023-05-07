@@ -27,12 +27,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Blind In Safety And Leafy In Love
-{{< youtube id="gQY9pvYpjZ8" title="Blind In Safety And Leafy In Love" >}}<br>
+### Cardiacs - Suzannah's Still Alive
+{{< youtube id="8YMs5QwHmMc" title="Cardiacs - Suzannah's Still Alive" >}}<br>
 
 ### More Videos
 
-- [Cardiacs - Suzannah's Still Alive](https://www.youtube.com/watch?v=8YMs5QwHmMc)
+- [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
 
 
 ## Release Information

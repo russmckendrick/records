@@ -52,8 +52,8 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 
 
 ## Videos
-### One of One
-{{< youtube id="31RbajKWAZ8" title="One of One" >}}<br>
+### Vi Lua Vi Sol
+{{< youtube id="hoxGDKQZ1nY" title="Vi Lua Vi Sol" >}}<br>
 
 ### More Videos
 
@@ -68,8 +68,8 @@ styles: ["Contemporary Jazz", "Soul-Jazz", "Fusion"]
 - [Tiffakonkae](https://www.youtube.com/watch?v=k504nCPzjhk)
 - [The Invincible Youth](https://www.youtube.com/watch?v=_r3skFJpLco)
 - [Testify](https://www.youtube.com/watch?v=dyhaya-g2eQ)
+- [One of One](https://www.youtube.com/watch?v=31RbajKWAZ8)
 - [The Space Travelers Lullaby](https://www.youtube.com/watch?v=8Zw85YN37Cs)
-- [Vi Lua Vi Sol](https://www.youtube.com/watch?v=hoxGDKQZ1nY)
 - [Kamasi Washington - Street Fighter Mas](https://www.youtube.com/watch?v=LdyabrdFMC8)
 - [Song For The Fallen](https://www.youtube.com/watch?v=qQC1TptRryQ)
 - [Journey](https://www.youtube.com/watch?v=HgB_MtTsdQk)

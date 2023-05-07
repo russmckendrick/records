@@ -28,15 +28,15 @@ styles: ["New Wave"]
 
 
 ## Videos
-### History Never Repeats - Split Enz  (audio only)
-{{< youtube id="wZXcYjI1-S8" title="History Never Repeats - Split Enz  (audio only)" >}}<br>
+### SPLIT ENZ History Never Repeats  Live 2009
+{{< youtube id="nfbQOhwkP58" title="SPLIT ENZ History Never Repeats  Live 2009" >}}<br>
 
 ### More Videos
 
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=vFp4axRBag8)
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=tzuJXqgsiSM)
+- [History Never Repeats - Split Enz  (audio only)](https://www.youtube.com/watch?v=wZXcYjI1-S8)
 - [History Never Repeats - Split Enz [ Live ! 1981 ]](https://www.youtube.com/watch?v=qU13PZnfbrc)
-- [SPLIT ENZ History Never Repeats  Live 2009](https://www.youtube.com/watch?v=nfbQOhwkP58)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=Xz1aSjZ1mIQ)
 - [Split Enz - History Never Repeats (live in Canada)](https://www.youtube.com/watch?v=SN8721jZd70)

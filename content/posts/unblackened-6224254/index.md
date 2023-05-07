@@ -51,8 +51,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Throwin' it all Away-Black Label Society (Unblackened)
-{{< youtube id="55ofHYBDLNQ" title="Throwin' it all Away-Black Label Society (Unblackened)" >}}<br>
+### Lovin' Woman- Black Label Society (Unblackened)
+{{< youtube id="EIGiWQy1A2w" title="Lovin' Woman- Black Label Society (Unblackened)" >}}<br>
 
 ### More Videos
 
@@ -60,8 +60,8 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [Rust- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=7FPkcpP9NWY)
 - [In This River- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
 - [Losin' Your Mind- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=8WOh9igfGv0)
-- [Lovin' Woman- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=EIGiWQy1A2w)
 - [Yesterday, Today, Tomorrow- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=-jtP4SYwoPs)
+- [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
 - [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
 
 

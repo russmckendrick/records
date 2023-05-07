@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Videos
-### The Levellers Three friends
-{{< youtube id="G4CiD0xRrdU" title="The Levellers Three friends" >}}<br>
+### The Levellers - Blind Faith
+{{< youtube id="ndh0u8gPkV4" title="The Levellers - Blind Faith" >}}<br>
 
 ### More Videos
 
@@ -49,9 +49,9 @@ styles: ["Alternative Rock", "Folk Rock"]
 - [Carry Me - Levellers](https://www.youtube.com/watch?v=uV-F-LGGtl0)
 - [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
 - [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
-- [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
 - [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
 - [The Levellers - What You Know](https://www.youtube.com/watch?v=AiePzwMaXNg)
+- [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
 
 
 ## Release Information

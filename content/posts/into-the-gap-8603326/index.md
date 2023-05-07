@@ -37,8 +37,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Thompson Twins - You Take Me Up
-{{< youtube id="WjFVwDDIm4A" title="Thompson Twins - You Take Me Up" >}}<br>
+### Thompson Twins - The Gap
+{{< youtube id="0SEwy1as78E" title="Thompson Twins - The Gap" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["Synth-pop"]
 - [No Peace for the Wicked](https://www.youtube.com/watch?v=784qPGZgt3o)
 - [Thompson Twins - Hold Me Now](https://www.youtube.com/watch?v=H9694K85Xc8)
 - [Thompson Twins - Sister of Mercy](https://www.youtube.com/watch?v=HzHrlX5qOHE)
-- [Thompson Twins - The Gap](https://www.youtube.com/watch?v=0SEwy1as78E)
+- [Thompson Twins - You Take Me Up](https://www.youtube.com/watch?v=WjFVwDDIm4A)
 - [Thompson Twins - Doctor! Doctor! (Video)](https://www.youtube.com/watch?v=APyl6Cnbfzw)
 - [Thompson Twins - You take me up  - TOTP  - 1984](https://www.youtube.com/watch?v=K7ssLvcmLQs)
 

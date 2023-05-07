@@ -50,13 +50,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### LONELY ROBOT - The Big Dream (Q&A Pt.3)
-{{< youtube id="1IZTy0l1CRw" title="LONELY ROBOT - The Big Dream (Q&A Pt.3)" >}}<br>
+### The Big Dream
+{{< youtube id="xz4KqSTClIA" title="The Big Dream" >}}<br>
 
 ### More Videos
 
-- [The Big Dream](https://www.youtube.com/watch?v=xz4KqSTClIA)
 - [LONELY ROBOT - The Big Dream (Track By Track Pt.1)](https://www.youtube.com/watch?v=vEAKKGWNj48)
+- [LONELY ROBOT - The Big Dream (Q&A Pt.3)](https://www.youtube.com/watch?v=1IZTy0l1CRw)
 - [LONELY ROBOT - The Big Dream (Q&A Pt.1)](https://www.youtube.com/watch?v=cKm3C80_AO8)
 
 

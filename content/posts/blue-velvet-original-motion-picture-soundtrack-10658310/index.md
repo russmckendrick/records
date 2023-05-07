@@ -44,15 +44,15 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 
 
 ## Videos
-### Mysteries Of Love (French Horn solo)
-{{< youtube id="arnSJQtBpVA" title="Mysteries Of Love (French Horn solo)" >}}<br>
+### Angelo Badalementi - Mysteries Of Love (instrumental)
+{{< youtube id="4F9GsEg7v64" title="Angelo Badalementi - Mysteries Of Love (instrumental)" >}}<br>
 
 ### More Videos
 
 - [Blue Velvet: Main Title Theme (From Blue Velvet)](https://www.youtube.com/watch?v=HNXjgKA6mn8)
 - [Mysteries of Love](https://www.youtube.com/watch?v=PgXlMNDezk4)
 - [Angelo Badalamenti - Frank (from Blue Velvet)](https://www.youtube.com/watch?v=BBapDanSkII)
-- [Angelo Badalementi - Mysteries Of Love (instrumental)](https://www.youtube.com/watch?v=4F9GsEg7v64)
+- [Mysteries Of Love (French Horn solo)](https://www.youtube.com/watch?v=arnSJQtBpVA)
 - [Mysteries of Love (From David Lynch's Blue Velvet - OST by Angelo Badalamenti)](https://www.youtube.com/watch?v=ry5vs331sMY)
 
 

@@ -38,8 +38,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Beautiful South - I Love You (But You're Boring)
-{{< youtube id="LhXRAHepS7Q" title="The Beautiful South - I Love You (But You're Boring)" >}}<br>
+### Beautiful South - You Keep It All In - TOTP 1994
+{{< youtube id="vuEuLTkfAgU" title="Beautiful South - You Keep It All In - TOTP 1994" >}}<br>
 
 ### More Videos
 
@@ -49,12 +49,12 @@ styles: ["Pop Rock"]
 - [Woman In The Wall](https://www.youtube.com/watch?v=Ea_GmMMVbUk)
 - [you keep it all in](https://www.youtube.com/watch?v=-rBcIa7dLMQ)
 - [Girlfriend](https://www.youtube.com/watch?v=im14_8uXhxM)
-- [Beautiful South - You Keep It All In - TOTP 1994](https://www.youtube.com/watch?v=vuEuLTkfAgU)
 - [Song For Whoever](https://www.youtube.com/watch?v=Jiags4WMI6k)
 - [The Beautiful South - Oh, Blackpool](https://www.youtube.com/watch?v=pWzWtqY1Ar4)
 - [The Beautiful South - Love Is](https://www.youtube.com/watch?v=atfQAIxY7w4)
 - [From Under The Covers](https://www.youtube.com/watch?v=zJAPvGHDHeI)
 - [Love Is...](https://www.youtube.com/watch?v=nzHU2pCUA0c)
+- [The Beautiful South - I Love You (But You're Boring)](https://www.youtube.com/watch?v=LhXRAHepS7Q)
 
 
 ## Release Information

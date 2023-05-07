@@ -38,14 +38,14 @@ styles: ["Southern Rock"]
 
 
 ## Videos
-### Georgia Satellites - Battleship Chains
-{{< youtube id="HQr7RxYec-0" title="Georgia Satellites - Battleship Chains" >}}<br>
+### Georgia Satellites - Keep Your Hands To Yourself (Official Music Video) [HQ Audio]
+{{< youtube id="WonOudGMSdc" title="Georgia Satellites - Keep Your Hands To Yourself (Official Music Video) [HQ Audio]" >}}<br>
 
 ### More Videos
 
-- [Georgia Satellites - Keep Your Hands To Yourself (Official Music Video) [HQ Audio]](https://www.youtube.com/watch?v=WonOudGMSdc)
 - [Georgia Satellites – Keep Your Hands To Yourself  (Vinyl version)](https://www.youtube.com/watch?v=dCvTR4RNKog)
 - [GEORGIA SATELLITES - Keep Your Hands To Yourself](https://www.youtube.com/watch?v=PdpAop7gp0w)
+- [Georgia Satellites - Battleship Chains](https://www.youtube.com/watch?v=HQr7RxYec-0)
 
 
 ## Release Information

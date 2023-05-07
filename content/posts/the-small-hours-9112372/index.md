@@ -37,14 +37,14 @@ styles: []
 
 
 ## Videos
-### MATT BERRY-The Small Hours-12-The Small Hours-Psychedelic Rock-{2016}
-{{< youtube id="rfS9xWlHXPs" title="MATT BERRY-The Small Hours-12-The Small Hours-Psychedelic Rock-{2016}" >}}<br>
+### Matt Berry - Beam Me Up
+{{< youtube id="Y0D-1fBqJuk" title="Matt Berry - Beam Me Up" >}}<br>
 
 ### More Videos
 
 - [Matt Berry - Obsessed and So Obscure](https://www.youtube.com/watch?v=D6eKamGyuMQ)
-- [Matt Berry - Beam Me Up](https://www.youtube.com/watch?v=Y0D-1fBqJuk)
 - [Matt Berry   Lord Above](https://www.youtube.com/watch?v=-ltFuyMfURo)
+- [MATT BERRY-The Small Hours-12-The Small Hours-Psychedelic Rock-{2016}](https://www.youtube.com/watch?v=rfS9xWlHXPs)
 
 
 ## Release Information

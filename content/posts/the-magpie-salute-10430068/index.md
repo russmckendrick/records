@@ -38,12 +38,12 @@ styles: ["Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### The Magpie Salute Omission
-{{< youtube id="Zg9FGe5pWFg" title="The Magpie Salute Omission" >}}<br>
+### The Magpie Salute - Comin' Home
+{{< youtube id="wdCAGlj_jR0" title="The Magpie Salute - Comin' Home" >}}<br>
 
 ### More Videos
 
-- [The Magpie Salute - Comin' Home](https://www.youtube.com/watch?v=wdCAGlj_jR0)
+- [The Magpie Salute Omission](https://www.youtube.com/watch?v=Zg9FGe5pWFg)
 - [Fearless (Live)](https://www.youtube.com/watch?v=cebO7BRG8IY)
 - [The Magpie Salute - Ain't No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
 - [The Magpie Salute - Wiser Time](https://www.youtube.com/watch?v=5tP_qkbDu5g)

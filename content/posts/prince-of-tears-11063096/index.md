@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 
 
 ## Videos
-### Baxter Dury - Oi
-{{< youtube id="El3V7js1uYw" title="Baxter Dury - Oi" >}}<br>
+### Baxter Dury - Letter Bomb
+{{< youtube id="_ujXqsCHgE8" title="Baxter Dury - Letter Bomb" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 - [Baxter Dury - Mungo](https://www.youtube.com/watch?v=nLRdfIB2GLw)
 - [Baxter Dury - Listen](https://www.youtube.com/watch?v=bs_vDiPil2E)
 - [Baxter Dury - Almond Milk](https://www.youtube.com/watch?v=i_Lp35ZO-eA)
-- [Baxter Dury - Letter Bomb](https://www.youtube.com/watch?v=_ujXqsCHgE8)
+- [Baxter Dury - Oi](https://www.youtube.com/watch?v=El3V7js1uYw)
 - [Baxter Dury - August](https://www.youtube.com/watch?v=CBTnSUlPLjY)
 - [Baxter Dury - Wanna](https://www.youtube.com/watch?v=Lp57mSug63c)
 - [Baxter Dury - Prince Of Tears](https://www.youtube.com/watch?v=zPpaKK4XK74)

@@ -40,13 +40,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Zwan - Honestly (Video)
-{{< youtube id="NLPgz9K4D20" title="Zwan - Honestly (Video)" >}}<br>
+### Zwan - Mary Star Of The Sea
+{{< youtube id="6cQ66dYE4WY" title="Zwan - Mary Star Of The Sea" >}}<br>
 
 ### More Videos
 
-- [Zwan - Mary Star Of The Sea](https://www.youtube.com/watch?v=6cQ66dYE4WY)
 - [Zwan - Lyric (Video Version)](https://www.youtube.com/watch?v=CwmUMySSNQc)
+- [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
 
 
 ## Release Information

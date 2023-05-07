@@ -47,15 +47,15 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### VUUR - Time - Rotterdam (Track By Track)
-{{< youtube id="nLXj_9ejzm8" title="VUUR - Time - Rotterdam (Track By Track)" >}}<br>
+### VUUR - The Fire - San Francisco (Track By Track)
+{{< youtube id="11EeCmOz9Cg" title="VUUR - The Fire - San Francisco (Track By Track)" >}}<br>
 
 ### More Videos
 
 - [VUUR - In This Moment We Are Free - Cities (Album Teaser)](https://www.youtube.com/watch?v=xWag98avUQI)
 - [VUUR - Days Go By - London (Album Track)](https://www.youtube.com/watch?v=Y3rT-X_zgOg)
 - [VUUR - My Champion - Berlin (Teaser)](https://www.youtube.com/watch?v=WwFqcIiIT0k)
-- [VUUR - The Fire - San Francisco (Track By Track)](https://www.youtube.com/watch?v=11EeCmOz9Cg)
+- [VUUR - Time - Rotterdam (Track By Track)](https://www.youtube.com/watch?v=nLXj_9ejzm8)
 - [An introduction to VUUR - Anneke van Giersbergen's new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
 
 

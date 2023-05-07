@@ -39,8 +39,8 @@ styles: ["Soundtrack", "Score", "Ambient"]
 
 
 ## Videos
-### Into the Night
-{{< youtube id="euq0sKwbDTg" title="Into the Night" >}}<br>
+### Night Life in Twin Peaks (Instrumental)
+{{< youtube id="xgQ418SHXXg" title="Night Life in Twin Peaks (Instrumental)" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Soundtrack", "Score", "Ambient"]
 - [The Nightingale](https://www.youtube.com/watch?v=BzImHGz4R0M)
 - [Freshly Squeezed (Instrumental)](https://www.youtube.com/watch?v=bc-Prdyp9LY)
 - [The Bookhouse Boys (Instrumental)](https://www.youtube.com/watch?v=rQrVeoiebWs)
-- [Night Life in Twin Peaks (Instrumental)](https://www.youtube.com/watch?v=xgQ418SHXXg)
+- [Into the Night](https://www.youtube.com/watch?v=euq0sKwbDTg)
 - [Dance of the Dream Man (Instrumental)](https://www.youtube.com/watch?v=kBn_lQBh9JA)
 - [Love Theme from Twin Peaks (Instrumental)](https://www.youtube.com/watch?v=JwHwyejd-vk)
 - [Falling](https://www.youtube.com/watch?v=KkR6Jd0Agi4)

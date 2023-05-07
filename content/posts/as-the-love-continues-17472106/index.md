@@ -55,13 +55,13 @@ styles: []
 
 
 ## Videos
-### Mogwai - Pat Stains (Official Audio)
-{{< youtube id="jAX7tKZ-3lg" title="Mogwai - Pat Stains (Official Audio)" >}}<br>
+### Mogwai // Dry Fantasy (Official Video)
+{{< youtube id="55wY7XrGFzY" title="Mogwai // Dry Fantasy (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Mogwai // Dry Fantasy (Official Video)](https://www.youtube.com/watch?v=55wY7XrGFzY)
 - [Mogwai - Ritchie Sacramento (Official Video)](https://www.youtube.com/watch?v=VWjzlJEmmxM)
+- [Mogwai - Pat Stains (Official Audio)](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
 
 
 ## Release Information

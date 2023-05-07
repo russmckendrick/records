@@ -42,18 +42,18 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Note to Self
-{{< youtube id="ny-RkvrMto8" title="Note to Self" >}}<br>
+### Fly on the Wall
+{{< youtube id="79ZeZd52iFI" title="Fly on the Wall" >}}<br>
 
 ### More Videos
 
 - [Badly Drawn Boy - Banana Skin Shoes (Official Music Video)](https://www.youtube.com/watch?v=9DoVsGK87NM)
 - [Badly Drawn Boy - I Just Wanna Wish You Happiness](https://www.youtube.com/watch?v=sUrot70vd90)
 - [Badly Drawn Boy - I'll Do My Best](https://www.youtube.com/watch?v=f2OCTbOy0Ho)
-- [Fly on the Wall](https://www.youtube.com/watch?v=79ZeZd52iFI)
 - [Funny Time of Year](https://www.youtube.com/watch?v=Ahepoi7RE24)
 - [Badly Drawn Boy - Never Change](https://www.youtube.com/watch?v=M1J_IAx2_eg)
 - [Appletree Boulevard](https://www.youtube.com/watch?v=taCPUZTMlDk)
+- [Note to Self](https://www.youtube.com/watch?v=ny-RkvrMto8)
 - [I'll Do My Best](https://www.youtube.com/watch?v=fCuvPJVyy0Q)
 - [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
 - [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)

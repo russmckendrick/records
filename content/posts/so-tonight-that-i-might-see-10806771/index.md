@@ -38,16 +38,16 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 
 
 ## Videos
-### Bells Ring
-{{< youtube id="44OjwGThpbU" title="Bells Ring" >}}<br>
+### Blue Light
+{{< youtube id="H7VUO-WxppY" title="Blue Light" >}}<br>
 
 ### More Videos
 
 - [Fade Into You](https://www.youtube.com/watch?v=avv2IIdDnnk)
+- [Bells Ring](https://www.youtube.com/watch?v=44OjwGThpbU)
 - [Mary Of Silence](https://www.youtube.com/watch?v=j9Nl7FlrMpw)
 - [Five String Serenade](https://www.youtube.com/watch?v=IbfKJoh1lNA)
 - [Mazzy Star - Fade Into You (Official Music Video)](https://www.youtube.com/watch?v=ImKY6TZEyrI)
-- [Blue Light](https://www.youtube.com/watch?v=H7VUO-WxppY)
 - [She's My Baby](https://www.youtube.com/watch?v=_AalUu5JY9M)
 - [Unreflected](https://www.youtube.com/watch?v=CZXUFYsKKSo)
 - [Wasted](https://www.youtube.com/watch?v=3XWj4YMWyjU)

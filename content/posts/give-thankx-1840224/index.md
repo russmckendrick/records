@@ -35,8 +35,8 @@ styles: ["Roots Reggae"]
 
 
 ## Videos
-### Bongo Man
-{{< youtube id="5OiA2L6j7PQ" title="Bongo Man" >}}<br>
+### Meeting in Afrika
+{{< youtube id="-86TPqPogDc" title="Meeting in Afrika" >}}<br>
 
 ### More Videos
 
@@ -45,7 +45,7 @@ styles: ["Roots Reggae"]
 - [Lonely Streets](https://www.youtube.com/watch?v=0hhG73h1hGo)
 - [Stand Up and Fight Back](https://www.youtube.com/watch?v=qeXeVMvW-ZI)
 - [Universal Love (Beyond the Boundries)](https://www.youtube.com/watch?v=dNJmG2a7HP4)
-- [Meeting in Afrika](https://www.youtube.com/watch?v=-86TPqPogDc)
+- [Bongo Man](https://www.youtube.com/watch?v=5OiA2L6j7PQ)
 
 
 ## Release Information

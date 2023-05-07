@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 
 
 ## Videos
-### Senser - Worth
-{{< youtube id="ImyjkfQbSH8" title="Senser - Worth" >}}<br>
+### Senser - Worth (fusion metal techno hip hop)
+{{< youtube id="TGJs3aGXZMw" title="Senser - Worth (fusion metal techno hip hop)" >}}<br>
 
 ### More Videos
 
@@ -52,6 +52,7 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 - [States of Mind  by Senser, of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
 - [Senser - No Comply (Official Video)](https://www.youtube.com/watch?v=K5yYtzsJAyg)
 - [Senser - Age Of Panic - Live @ Reading Festival '94](https://www.youtube.com/watch?v=sbX5Ft336tA)
+- [Senser - Worth](https://www.youtube.com/watch?v=ImyjkfQbSH8)
 - [The Key](https://www.youtube.com/watch?v=A6sEg0fdWV8)
 - [Senser - What's Going On (w lyrics)](https://www.youtube.com/watch?v=G3-TCUhQfiY)
 - [States of Mind](https://www.youtube.com/watch?v=5mNVnr5BKsA)
@@ -59,7 +60,6 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 - [Age of Panic](https://www.youtube.com/watch?v=GUbHzwMS5PM)
 - [Senser - Eject (Official Video)](https://www.youtube.com/watch?v=W69gdXUryEg)
 - [Senser - Stubborn](https://www.youtube.com/watch?v=anEPodHXSi0)
-- [Senser - Worth (fusion metal techno hip hop)](https://www.youtube.com/watch?v=TGJs3aGXZMw)
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
 - [Senser  'Stacked Up' (Full Album)](https://www.youtube.com/watch?v=8M6r_sLmKJk)

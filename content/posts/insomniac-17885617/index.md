@@ -51,8 +51,8 @@ styles: ["Pop Punk"]
 
 
 ## Videos
-### Green Day – 86
-{{< youtube id="PM3OL6OEVQU" title="Green Day – 86" >}}<br>
+### Green Day – Tight Wad Hill
+{{< youtube id="Zh9N18yQPxw" title="Green Day – Tight Wad Hill" >}}<br>
 
 ### More Videos
 
@@ -66,8 +66,8 @@ styles: ["Pop Punk"]
 - [Green Day – Stuart And The Ave](https://www.youtube.com/watch?v=rZAheR3M7sc)
 - [Green Day – Panic Song](https://www.youtube.com/watch?v=xOqKBa6XTFM)
 - [Green Day – Brat](https://www.youtube.com/watch?v=yLGmXX8c_KY)
+- [Green Day – 86](https://www.youtube.com/watch?v=PM3OL6OEVQU)
 - [Green Day – Westbound Sign](https://www.youtube.com/watch?v=HlmpqZjvCdg)
-- [Green Day – Tight Wad Hill](https://www.youtube.com/watch?v=Zh9N18yQPxw)
 - [Green Day – Bab's Uvula Who?](https://www.youtube.com/watch?v=wqVoeUne8qk)
 
 

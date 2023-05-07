@@ -38,12 +38,12 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### A Father's Lament
-{{< youtube id="dTBigf8QjcA" title="A Father's Lament" >}}<br>
+### Orange Synthetic
+{{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}<br>
 
 ### More Videos
 
-- [Orange Synthetic](https://www.youtube.com/watch?v=P6-IRZINYYM)
+- [A Father's Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
 - [Pretty Mire, Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
 - [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
 - [It's The End, The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)

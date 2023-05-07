@@ -40,16 +40,16 @@ styles: ["Indie Rock", "Synth-pop"]
 
 
 ## Videos
-### Day Glow Fire
-{{< youtube id="yfIC5hKRFAw" title="Day Glow Fire" >}}<br>
+### North Star
+{{< youtube id="5oOk8j0SfoA" title="North Star" >}}<br>
 
 ### More Videos
 
 - [Aladdin](https://www.youtube.com/watch?v=5PFZnKYnL1s)
 - [Shadows](https://www.youtube.com/watch?v=XpDbwHbQ_Ak)
 - [Time On Her Side](https://www.youtube.com/watch?v=r1oGu0w5ySI)
-- [North Star](https://www.youtube.com/watch?v=5oOk8j0SfoA)
 - [Candles](https://www.youtube.com/watch?v=Y5FSKPpOkLo)
+- [Day Glow Fire](https://www.youtube.com/watch?v=yfIC5hKRFAw)
 - [Black Rose](https://www.youtube.com/watch?v=J6ivIJt3Vtg)
 - [Ancient Water](https://www.youtube.com/watch?v=sUw-sF4kOI8)
 - [Through the Roses](https://www.youtube.com/watch?v=gZ0TF3IzNm0)

@@ -30,12 +30,12 @@ styles: ["Minimal", "Ambient"]
 
 
 ## Videos
-### Poppy Nogood and the Phantom Band (Instrumental)
-{{< youtube id="ooxgptB19mQ" title="Poppy Nogood and the Phantom Band (Instrumental)" >}}<br>
+### A Rainbow in the Curved Air (Instrumental)
+{{< youtube id="eKg_R1W94G0" title="A Rainbow in the Curved Air (Instrumental)" >}}<br>
 
 ### More Videos
 
-- [A Rainbow in the Curved Air (Instrumental)](https://www.youtube.com/watch?v=eKg_R1W94G0)
+- [Poppy Nogood and the Phantom Band (Instrumental)](https://www.youtube.com/watch?v=ooxgptB19mQ)
 
 
 ## Release Information

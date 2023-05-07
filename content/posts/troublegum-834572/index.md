@@ -42,8 +42,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Isolation
-{{< youtube id="0D96iERbjDo" title="Isolation" >}}<br>
+### Turn
+{{< youtube id="EEy5OLlZDYY" title="Turn" >}}<br>
 
 ### More Videos
 
@@ -60,7 +60,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Unbeliever](https://www.youtube.com/watch?v=Eqa-AD8CXFo)
 - [Trigger Inside](https://www.youtube.com/watch?v=sQCDhfTC3SQ)
 - [Lunacy Booth](https://www.youtube.com/watch?v=xqvrLjh5t0U)
-- [Turn](https://www.youtube.com/watch?v=EEy5OLlZDYY)
+- [Isolation](https://www.youtube.com/watch?v=0D96iERbjDo)
 - [Femtex](https://www.youtube.com/watch?v=2C8RqhtefMw)
 - [Unrequited](https://www.youtube.com/watch?v=5675fRD9Blk)
 - [Brainsaw (Incl. Hidden Track You Are My Sunshine)](https://www.youtube.com/watch?v=E33WuonJSpo)

@@ -31,13 +31,13 @@ styles: ["Prog Rock", "Space Rock"]
 
 
 ## Videos
-### Swell
-{{< youtube id="cRsXd_cxPv0" title="Swell" >}}<br>
+### Seagull
+{{< youtube id="mOC6_K_pzfc" title="Seagull" >}}<br>
 
 ### More Videos
 
+- [Swell](https://www.youtube.com/watch?v=cRsXd_cxPv0)
 - [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
-- [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
 
 
 ## Release Information

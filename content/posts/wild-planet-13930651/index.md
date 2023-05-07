@@ -37,13 +37,13 @@ styles: ["New Wave"]
 
 
 ## Videos
-### the B–52's ▶ Wild·Planet (Full Album)
-{{< youtube id="P8t6JAG2xCA" title="the B–52's ▶ Wild·Planet (Full Album)" >}}<br>
+### 53 Miles West of Venus
+{{< youtube id="mvXbB67rSHc" title="53 Miles West of Venus" >}}<br>
 
 ### More Videos
 
 - [The B-52's - Private Idaho (Official Audio)](https://www.youtube.com/watch?v=BxHyliIspkA)
-- [53 Miles West of Venus](https://www.youtube.com/watch?v=mvXbB67rSHc)
+- [the B–52's ▶ Wild·Planet (Full Album)](https://www.youtube.com/watch?v=P8t6JAG2xCA)
 
 
 ## Release Information

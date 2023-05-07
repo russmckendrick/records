@@ -36,12 +36,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Hefner - I Took Her Love For Granted (Official Video)
-{{< youtube id="KgTg_cjk0Fc" title="Hefner - I Took Her Love For Granted (Official Video)" >}}<br>
+### Hefner - The Fidelity Wars
+{{< youtube id="kfKKwDRNbXE" title="Hefner - The Fidelity Wars" >}}<br>
 
 ### More Videos
 
-- [Hefner - The Fidelity Wars](https://www.youtube.com/watch?v=kfKKwDRNbXE)
+- [Hefner - I Took Her Love For Granted (Official Video)](https://www.youtube.com/watch?v=KgTg_cjk0Fc)
 
 
 ## Release Information

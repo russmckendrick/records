@@ -39,8 +39,8 @@ styles: ["Breakbeat", "Industrial"]
 
 
 ## Videos
-### Radio P.W.E.I.
-{{< youtube id="RCsQ4ILyVZw" title="Radio P.W.E.I." >}}<br>
+### Wake Up, Time to Die
+{{< youtube id="Lyur17ff3T8" title="Wake Up, Time to Die" >}}<br>
 
 ### More Videos
 
@@ -53,10 +53,10 @@ styles: ["Breakbeat", "Industrial"]
 - [Can U Dig It?](https://www.youtube.com/watch?v=vbC90pDfUYM)
 - [The Fuses Have Been Lit](https://www.youtube.com/watch?v=T8croHcqQFA)
 - [Pop Will Eat It Self _ Def Con One](https://www.youtube.com/watch?v=5Dl3ZtDsuRQ)
+- [Radio P.W.E.I.](https://www.youtube.com/watch?v=RCsQ4ILyVZw)
 - [Shortwave Transmission On Up to the Minuteman Nine](https://www.youtube.com/watch?v=IVmAAB5vFIg)
 - [Satellite Ecstatica](https://www.youtube.com/watch?v=PXxQ8_PPBXQ)
 - [Not Now James, We're Busy](https://www.youtube.com/watch?v=ykPoCFZODPU)
-- [Wake Up, Time to Die](https://www.youtube.com/watch?v=Lyur17ff3T8)
 - [This the day...this is the hour...this is this (Pop Will Eat Itself) (1989)](https://www.youtube.com/watch?v=Od_I5eC_mHc)
 - [Pop Will Eat Itself - Wake Up! Time To Die [HQ AUDIO]](https://www.youtube.com/watch?v=j7OUeFShS6o)
 - [Wise Up! Sucker (12 Youth Remix)](https://www.youtube.com/watch?v=5ch4CNXisao)

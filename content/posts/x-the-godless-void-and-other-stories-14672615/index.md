@@ -52,12 +52,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### ...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)
-{{< youtube id="bbXNaERHIfA" title="...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)" >}}<br>
+### ...And you will know us by the trails of the dead - X: The Godless Void and Other Stories - 2020
+{{< youtube id="hAuVx4AnojE" title="...And you will know us by the trails of the dead - X: The Godless Void and Other Stories - 2020" >}}<br>
 
 ### More Videos
 
-- [...And you will know us by the trails of the dead - X: The Godless Void and Other Stories - 2020](https://www.youtube.com/watch?v=hAuVx4AnojE)
+- [...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)](https://www.youtube.com/watch?v=bbXNaERHIfA)
 - [Into The Godless Void (Official video)](https://www.youtube.com/watch?v=qwPvnMdAXyA)
 - [Eyes of the Overworld](https://www.youtube.com/watch?v=KzasmD30QI4)
 - [...And You Will Know Us By the Trail of Dead - Gone](https://www.youtube.com/watch?v=tk_abF9lepo)

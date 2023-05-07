@@ -52,12 +52,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Midlife Crisis by Faith No More
-{{< youtube id="FoQIuDEHVng" title="Midlife Crisis by Faith No More" >}}<br>
+### Faith No More - Easy
+{{< youtube id="MoE6SeSm268" title="Faith No More - Easy" >}}<br>
 
 ### More Videos
 
-- [Faith No More - Easy](https://www.youtube.com/watch?v=MoE6SeSm268)
 - [Faith No More ‎– Midlife Crisis](https://www.youtube.com/watch?v=6OGRzxTn-AU)
 - [Faith No More - Angel Dust (Full Album) [Official]](https://www.youtube.com/watch?v=k0tUb-87kP8)
 - [Faith No More ‎– Easy](https://www.youtube.com/watch?v=3rYQf_W1JtE)
@@ -73,6 +72,7 @@ styles: ["Alternative Rock"]
 - [Crack Hitler](https://www.youtube.com/watch?v=2WIoVVwMZTE)
 - [Jizzlobber](https://www.youtube.com/watch?v=5456JZPWAvY)
 - [Midnight Cowboy (Theme From)](https://www.youtube.com/watch?v=OwAlFtRY3FQ)
+- [Midlife Crisis by Faith No More](https://www.youtube.com/watch?v=FoQIuDEHVng)
 
 
 ## Release Information

@@ -39,17 +39,17 @@ styles: []
 
 
 ## Videos
-### Steve Earle & The Dukes - Lone Pine Hill [Audio Only]
-{{< youtube id="fRsPjoIC8lI" title="Steve Earle & The Dukes - Lone Pine Hill [Audio Only]" >}}<br>
+### Steve Earle & The Dukes - Dublin Blues [Audio Only]
+{{< youtube id="wrNWrG385hg" title="Steve Earle & The Dukes - Dublin Blues [Audio Only]" >}}<br>
 
 ### More Videos
 
 - [Steve Earle & The Dukes - Far Away In Another Town [Audio Only]](https://www.youtube.com/watch?v=yqcFxkhM_i0)
-- [Steve Earle & The Dukes - Dublin Blues [Audio Only]](https://www.youtube.com/watch?v=wrNWrG385hg)
 - [Steve Earle & The Dukes - Harlem River Blues [Audio Only]](https://www.youtube.com/watch?v=FXgtD3jfikk)
 - [Steve Earle & The Dukes - Champagne Corolla [Audio Only]](https://www.youtube.com/watch?v=JLYKGOeTSWo)
 - [Steve Earle & The Dukes - Last Words [Audio Only]](https://www.youtube.com/watch?v=RR2XPOYqSZI)
 - [Steve Earle & The Dukes - The Saint Of Lost Causes [Audio Only]](https://www.youtube.com/watch?v=xeqGCbo6pFo)
+- [Steve Earle & The Dukes - Lone Pine Hill [Audio Only]](https://www.youtube.com/watch?v=fRsPjoIC8lI)
 - [Steve Earle & The Dukes - I Don't Care [Audio Only]](https://www.youtube.com/watch?v=PzFAztmFYXQ)
 - [Steve Earle & The Dukes - Turn Out My Lights [Audio Only]](https://www.youtube.com/watch?v=E5b9gVDhWQY)
 - [Steve Earle & The Dukes - They Killed John Henry [Audio Only]](https://www.youtube.com/watch?v=1TGssyFJAuk)

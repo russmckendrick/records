@@ -49,15 +49,15 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### It Bites   Map of the Past
-{{< youtube id="zwLerWDhX9Y" title="It Bites   Map of the Past" >}}<br>
+### It Bites - Meadow and the Stream
+{{< youtube id="wYlohpuSZ9A" title="It Bites - Meadow and the Stream" >}}<br>
 
 ### More Videos
 
 - [It Bites - Map of The Past](https://www.youtube.com/watch?v=UTkXOi5c3dE)
 - [It Bites - Map of the Past](https://www.youtube.com/watch?v=Ny5bD9bhUpQ)
+- [It Bites   Map of the Past](https://www.youtube.com/watch?v=zwLerWDhX9Y)
 - [Man in the Photograph - It Bites](https://www.youtube.com/watch?v=gguU7-MhugA)
-- [It Bites - Meadow and the Stream](https://www.youtube.com/watch?v=wYlohpuSZ9A)
 
 
 ## Release Information

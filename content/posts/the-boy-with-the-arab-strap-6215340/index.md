@@ -40,8 +40,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Belle and Sebastian - The Rollercoaster Ride
-{{< youtube id="b0Vx3a5Fb5E" title="Belle and Sebastian - The Rollercoaster Ride" >}}<br>
+### Belle and Sebastian - Seymour Stein (subtitulada en español)
+{{< youtube id="ihSXBcaO6yA" title="Belle and Sebastian - Seymour Stein (subtitulada en español)" >}}<br>
 
 ### More Videos
 
@@ -50,12 +50,12 @@ styles: ["Indie Rock"]
 - [Belle and Sebastian - Is It Wicked Not To Care?](https://www.youtube.com/watch?v=HL0-0F9BaHQ)
 - [Belle & Sebastian - Ease Your Feet in the Sea](https://www.youtube.com/watch?v=DcZL3e42wEs)
 - [Belle and Sebastian - A Summer Wasting](https://www.youtube.com/watch?v=Z8LmfH2kuB8)
-- [Belle and Sebastian - Seymour Stein (subtitulada en español)](https://www.youtube.com/watch?v=ihSXBcaO6yA)
 - [A Space Boy Dream](https://www.youtube.com/watch?v=R92PzrjpLN0)
 - [Belle and Sebastian - Dirty Dream #2](https://www.youtube.com/watch?v=uHLOs9QzgCA)
 - [The Boy With The Arab Strap](https://www.youtube.com/watch?v=dN1iW-ee5I8)
 - [Chickfactor](https://www.youtube.com/watch?v=AjnbRPgM6Kk)
 - [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
+- [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
 
 ## Release Information

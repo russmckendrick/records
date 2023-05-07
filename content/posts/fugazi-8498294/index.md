@@ -35,12 +35,12 @@ styles: ["Punk", "Emo", "Post-Hardcore"]
 
 
 ## Videos
-### Fugazi - Fugazi (1988) [Full EP]
-{{< youtube id="d06_Yl-mHE0" title="Fugazi - Fugazi (1988) [Full EP]" >}}<br>
+### Fugazi-Waiting room
+{{< youtube id="cMOAXm94VWo" title="Fugazi-Waiting room" >}}<br>
 
 ### More Videos
 
-- [Fugazi-Waiting room](https://www.youtube.com/watch?v=cMOAXm94VWo)
+- [Fugazi - Fugazi (1988) [Full EP]](https://www.youtube.com/watch?v=d06_Yl-mHE0)
 
 
 ## Release Information

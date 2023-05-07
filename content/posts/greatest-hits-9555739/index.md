@@ -46,8 +46,8 @@ styles: ["Synth-pop", "Pop Rock"]
 
 
 ## Videos
-### ♪ Eurythmics - Thorn In My Side | Singles #17/33
-{{< youtube id="ojlzOnqwGeA" title="♪ Eurythmics - Thorn In My Side | Singles #17/33" >}}<br>
+### Angel
+{{< youtube id="OItVapYPjkY" title="Angel" >}}<br>
 
 ### More Videos
 
@@ -63,8 +63,8 @@ styles: ["Synth-pop", "Pop Rock"]
 - [Eurythmics - Missionary Man (HQ Audio)](https://www.youtube.com/watch?v=dhLp11ZbfFI)
 - [♪ Eurythmics - I Need A Man | Singles #22/33](https://www.youtube.com/watch?v=SfV0yhEMX7Q)
 - [Eurythmics Love Is A Stranger Lyrics](https://www.youtube.com/watch?v=0XlagMjYRNk)
+- [♪ Eurythmics - Thorn In My Side | Singles #17/33](https://www.youtube.com/watch?v=ojlzOnqwGeA)
 - [The King and Queen of America](https://www.youtube.com/watch?v=MelbhSbRRE4)
-- [Angel](https://www.youtube.com/watch?v=OItVapYPjkY)
 
 
 ## Release Information

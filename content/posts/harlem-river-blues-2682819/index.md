@@ -39,12 +39,12 @@ styles: ["Country", "Folk"]
 
 
 ## Videos
-### Justin Townes Earle - Harlem River Blues - album version
-{{< youtube id="vf9lvU8_JUo" title="Justin Townes Earle - Harlem River Blues - album version" >}}<br>
+### Justin Townes Earle - Ain't Waitin' (Live) | Grooveshark Presents: Nashville Sessions
+{{< youtube id="Y9W511HVxuY" title="Justin Townes Earle - Ain't Waitin' (Live) | Grooveshark Presents: Nashville Sessions" >}}<br>
 
 ### More Videos
 
-- [Justin Townes Earle - Ain't Waitin' (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
+- [Justin Townes Earle - Harlem River Blues - album version](https://www.youtube.com/watch?v=vf9lvU8_JUo)
 - [Justin Townes Earle - Wanderin' - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 
 

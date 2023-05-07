@@ -36,15 +36,15 @@ styles: ["Punk"]
 
 
 ## Videos
-### Snuff-Flibbiddydibbiddydob(full album)
-{{< youtube id="Mx_z6vLGOrg" title="Snuff-Flibbiddydibbiddydob(full album)" >}}<br>
+### Do nothing-Snuff
+{{< youtube id="JzZ3PLXl__o" title="Do nothing-Snuff" >}}<br>
 
 ### More Videos
 
+- [Snuff-Flibbiddydibbiddydob(full album)](https://www.youtube.com/watch?v=Mx_z6vLGOrg)
 - [SNUFF : IN SICKNESS AND IN HEALTH](https://www.youtube.com/watch?v=1pNbgXR7NlA)
 - [SNUFF : BRAN FLAKES](https://www.youtube.com/watch?v=rR17Z5TvMtc)
 - [SNUFF : SHAKE 'N' BLACK](https://www.youtube.com/watch?v=hHHMjeddgQY)
-- [Do nothing-Snuff](https://www.youtube.com/watch?v=JzZ3PLXl__o)
 - [SNUFF - A HAZY SHADE OF WINTER](https://www.youtube.com/watch?v=RfNWt6aGsog)
 
 

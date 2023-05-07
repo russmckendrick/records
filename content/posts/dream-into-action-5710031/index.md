@@ -40,12 +40,12 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Life in One Day, Pt. 1 [2018 Remaster]
-{{< youtube id="dzI32uP4VeA" title="Life in One Day, Pt. 1 [2018 Remaster]" >}}<br>
+### Dream Into Action [2018 Remaster]
+{{< youtube id="YZ_PIs_aqCA" title="Dream Into Action [2018 Remaster]" >}}<br>
 
 ### More Videos
 
-- [Dream Into Action [2018 Remaster]](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
+- [Life in One Day, Pt. 1 [2018 Remaster]](https://www.youtube.com/watch?v=dzI32uP4VeA)
 - [Howard Jones - No One Is To Blame](https://www.youtube.com/watch?v=pekhxxngQ3s)
 - [Howard Jones Look Mama](https://www.youtube.com/watch?v=V7kBThjwQ1c)
 - [Assault and Battery [2018 Remaster]](https://www.youtube.com/watch?v=kvGPHPBigCE)

@@ -41,20 +41,20 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 
 ## Videos
-### Thunder
-{{< youtube id="_qxZ025XJTY" title="Thunder" >}}<br>
+### CHILDREN OF THE SÜN - LEAVES (Official Audio)
+{{< youtube id="whzDdlOmD5g" title="CHILDREN OF THE SÜN - LEAVES (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Children of the Sün - Roots (full Album 2022)](https://www.youtube.com/watch?v=Jgtcr15D41I)
 - [CHILDREN OF THE SÜN - REFLECTION (Official Audio)](https://www.youtube.com/watch?v=geF67QdW7S4)
-- [CHILDREN OF THE SÜN - LEAVES (Official Audio)](https://www.youtube.com/watch?v=whzDdlOmD5g)
 - [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
 - [CHILDREN OF THE SÜN - GASLIGHTING (Official Audio)](https://www.youtube.com/watch?v=fZnD3F_ebPc)
 - [Eden](https://www.youtube.com/watch?v=G_gV6Hhyy9E)
 - [Roots](https://www.youtube.com/watch?v=6exWfGXt62Q)
 - [Man in the Moon](https://www.youtube.com/watch?v=aRvpCb0c1oI)
 - [CHILDREN OF THE SÜN - IN SILVA (Official Audio)](https://www.youtube.com/watch?v=Ml7chTCmetw)
+- [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 
 

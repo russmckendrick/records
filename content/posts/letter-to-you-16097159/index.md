@@ -40,8 +40,8 @@ styles: ["Arena Rock", "Classic Rock"]
 
 
 ## Videos
-### Bruce Springsteen - Rainmaker (Official Audio)
-{{< youtube id="E_0pQTEhj8A" title="Bruce Springsteen - Rainmaker (Official Audio)" >}}<br>
+### Bruce Springsteen - The Power Of Prayer (Official Audio)
+{{< youtube id="Jb-m9SJKboE" title="Bruce Springsteen - The Power Of Prayer (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Arena Rock", "Classic Rock"]
 - [Bruce Springsteen - Burnin' Train (Official Audio)](https://www.youtube.com/watch?v=tTwpR6SCyRw)
 - [Bruce Springsteen - Janey Needs A Shooter (Official Audio)](https://www.youtube.com/watch?v=A_BRCRkAkAE)
 - [Bruce Springsteen - Last Man Standing (Official Audio)](https://www.youtube.com/watch?v=YE6l-_g814I)
-- [Bruce Springsteen - The Power Of Prayer (Official Audio)](https://www.youtube.com/watch?v=Jb-m9SJKboE)
 - [Bruce Springsteen - House Of A Thousand Guitars (Official Audio)](https://www.youtube.com/watch?v=KzvnEvbL-qs)
+- [Bruce Springsteen - Rainmaker (Official Audio)](https://www.youtube.com/watch?v=E_0pQTEhj8A)
 - [Bruce Springsteen - If I Was The Priest (Official Audio)](https://www.youtube.com/watch?v=izbq7IUYja0)
 - [Bruce Springsteen - Ghosts (Lyric Video)](https://www.youtube.com/watch?v=Lo5QNcFioZ4)
 - [Bruce Springsteen - Song For Orphans (Official Audio)](https://www.youtube.com/watch?v=ib96-ytmLDg)

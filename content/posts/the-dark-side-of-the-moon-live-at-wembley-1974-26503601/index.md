@@ -38,12 +38,12 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 
 
 ## Videos
-### Pink Floyd - The Dark Side Of The Moon (Live at Wembley 1974) [2023 Master] {Full Album}
-{{< youtube id="glaNK-CnhJU" title="Pink Floyd - The Dark Side Of The Moon (Live at Wembley 1974) [2023 Master] {Full Album}" >}}<br>
+### Pink Floyd - Dark Side Of The Moon (Live at Wembley Empire Pool 1974) Movie (Side A)
+{{< youtube id="JlZqr30BMQ4" title="Pink Floyd - Dark Side Of The Moon (Live at Wembley Empire Pool 1974) Movie (Side A)" >}}<br>
 
 ### More Videos
 
-- [Pink Floyd - Dark Side Of The Moon (Live at Wembley Empire Pool 1974) Movie (Side A)](https://www.youtube.com/watch?v=JlZqr30BMQ4)
+- [Pink Floyd - The Dark Side Of The Moon (Live at Wembley 1974) [2023 Master] {Full Album}](https://www.youtube.com/watch?v=glaNK-CnhJU)
 
 
 ## Release Information

@@ -40,8 +40,8 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 
 
 ## Videos
-### One Who Really Loves You
-{{< youtube id="d9G_X_7ze8o" title="One Who Really Loves You" >}}<br>
+### You Can't Sit Down
+{{< youtube id="53glDIYrBog" title="You Can't Sit Down" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,7 @@ styles: ["Rhythm & Blues", "Soul", "Funk"]
 - [Behave Yourself](https://www.youtube.com/watch?v=ZdVhIiPJohs)
 - [Stranger on the Shore](https://www.youtube.com/watch?v=dMz3TLRvDEY)
 - [Lonely Avenue](https://www.youtube.com/watch?v=DFYSfgotEa4)
-- [You Can't Sit Down](https://www.youtube.com/watch?v=53glDIYrBog)
+- [One Who Really Loves You](https://www.youtube.com/watch?v=d9G_X_7ze8o)
 - [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
 - [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
 

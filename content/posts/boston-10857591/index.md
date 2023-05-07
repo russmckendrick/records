@@ -36,8 +36,8 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Smokin'
-{{< youtube id="ZkbbQsh1sZk" title="Smokin'" >}}<br>
+### Boston - Smokin' (Official Audio)
+{{< youtube id="bDI-AdnIK08" title="Boston - Smokin' (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -50,6 +50,7 @@ styles: ["Hard Rock"]
 - [Boston - Rock & Roll Band (Official Audio)](https://www.youtube.com/watch?v=6bhFmtwio8Y)
 - [Rock & Roll Band](https://www.youtube.com/watch?v=n-pC3ncVjEw)
 - [Boston - Peace of Mind (Official Audio)](https://www.youtube.com/watch?v=edwk-8KJ1Js)
+- [Smokin'](https://www.youtube.com/watch?v=ZkbbQsh1sZk)
 - [Boston - More Than a Feeling (Official Video)](https://www.youtube.com/watch?v=t4QK8RxCAwo)
 - [Hitch a Ride](https://www.youtube.com/watch?v=CfSOxvgVfXk)
 - [Boston - Foreplay / Long Time (Official Audio)](https://www.youtube.com/watch?v=TnwqUEelQjE)
@@ -59,7 +60,6 @@ styles: ["Hard Rock"]
 - [Boston - Boston {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=rmH56P-QDo0)
 - [Boston - More Than A Feeling - Remastered](https://www.youtube.com/watch?v=zOILAZHf2pE)
 - [Boston - 1976 (Analog Album Remaster)](https://www.youtube.com/watch?v=_V4LtZuF--Q)
-- [Boston - Smokin' (Official Audio)](https://www.youtube.com/watch?v=bDI-AdnIK08)
 
 
 ## Release Information

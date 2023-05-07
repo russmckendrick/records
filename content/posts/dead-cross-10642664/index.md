@@ -38,11 +38,12 @@ styles: ["Hardcore", "Heavy Metal"]
 
 
 ## Videos
-### Dead Cross Seizure and Desist
-{{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}<br>
+### Dead Cross - Church of the Motherfuckers
+{{< youtube id="IxaFJQo7TzU" title="Dead Cross - Church of the Motherfuckers" >}}<br>
 
 ### More Videos
 
+- [Dead Cross Seizure and Desist](https://www.youtube.com/watch?v=WpdcT8kyP1U)
 - [Idiopathic](https://www.youtube.com/watch?v=X88l3lDg4ps)
 - [Obedience School](https://www.youtube.com/watch?v=OPic-JDSpzM)
 - [Shillelagh](https://www.youtube.com/watch?v=2Sd-B617LgQ)
@@ -51,7 +52,6 @@ styles: ["Hardcore", "Heavy Metal"]
 - [Grave Slave](https://www.youtube.com/watch?v=XPBV0ZvG2yw)
 - [The Future Has Been Cancelled](https://www.youtube.com/watch?v=4DjJzcYbm4Q)
 - [Gag Reflex](https://www.youtube.com/watch?v=ijoP18PK3BE)
-- [Dead Cross - Church of the Motherfuckers](https://www.youtube.com/watch?v=IxaFJQo7TzU)
 
 
 ## Release Information

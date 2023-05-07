@@ -46,13 +46,13 @@ styles: ["Acoustic", "Psychedelic Rock"]
 
 
 ## Videos
-### Pink Floyd - Arnold Layne (Official Music Video)
-{{< youtube id="H3DGpINHX5Q" title="Pink Floyd - Arnold Layne (Official Music Video)" >}}<br>
+### Apples and Oranges(Stereo version)
+{{< youtube id="8YAdhzx8gjQ" title="Apples and Oranges(Stereo version)" >}}<br>
 
 ### More Videos
 
 - [An Introduction to Syd Barrett](https://www.youtube.com/watch?v=dOZ9RvvwXpo)
-- [Apples and Oranges(Stereo version)](https://www.youtube.com/watch?v=8YAdhzx8gjQ)
+- [Pink Floyd - Arnold Layne (Official Music Video)](https://www.youtube.com/watch?v=H3DGpINHX5Q)
 
 
 ## Release Information

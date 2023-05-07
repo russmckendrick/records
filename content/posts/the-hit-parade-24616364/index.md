@@ -76,12 +76,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Wedding Present -  Boing!
-{{< youtube id="3-1Fmlk9t2s" title="The Wedding Present -  Boing!" >}}<br>
+### The Wedding Present -  Blue Eyes
+{{< youtube id="d6PTTVI3qLc" title="The Wedding Present -  Blue Eyes" >}}<br>
 
 ### More Videos
 
-- [The Wedding Present -  Blue Eyes](https://www.youtube.com/watch?v=d6PTTVI3qLc)
+- [The Wedding Present -  Boing!](https://www.youtube.com/watch?v=3-1Fmlk9t2s)
 - [The Wedding Present - The Queen Of Outer Space](https://www.youtube.com/watch?v=EsOAf_5XSaI)
 - [The Wedding Present - Cattle and Cane](https://www.youtube.com/watch?v=AJr9GYf9FkQ)
 - [The Wedding Present - Silver Shorts (HD)](https://www.youtube.com/watch?v=xrh2iV7MISw)

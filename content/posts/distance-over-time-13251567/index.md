@@ -48,12 +48,12 @@ styles: ["Heavy Metal", "Progressive Metal"]
 
 
 ## Videos
-### DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)
-{{< youtube id="gylxuO6dKOw" title="DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)" >}}<br>
+### Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album
+{{< youtube id="zB19NXfsxdQ" title="Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album" >}}<br>
 
 ### More Videos
 
-- [Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album](https://www.youtube.com/watch?v=zB19NXfsxdQ)
+- [DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=gylxuO6dKOw)
 
 
 ## Release Information

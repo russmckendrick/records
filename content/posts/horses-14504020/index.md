@@ -36,14 +36,14 @@ styles: ["Post-Punk", "New Wave", "Art Rock", "Punk"]
 
 
 ## Videos
-### Patti Smith ‎Horses Full Album
-{{< youtube id="SVR_eY_1R40" title="Patti Smith ‎Horses Full Album" >}}<br>
+### Patti Smith - Horses   Full Album
+{{< youtube id="yoRFG1oef2I" title="Patti Smith - Horses   Full Album" >}}<br>
 
 ### More Videos
 
+- [Patti Smith ‎Horses Full Album](https://www.youtube.com/watch?v=SVR_eY_1R40)
 - [Patti Smith - Gloria (Audio)](https://www.youtube.com/watch?v=bPO0bTaWcFQ)
 - [Land: Horses / Land of a Thousand Dances / La Mer (de)](https://www.youtube.com/watch?v=cSk6jfln84A)
-- [Patti Smith - Horses   Full Album](https://www.youtube.com/watch?v=yoRFG1oef2I)
 
 
 ## Release Information

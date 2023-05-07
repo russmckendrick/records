@@ -37,11 +37,12 @@ styles: ["Electro"]
 
 
 ## Videos
-### Mantronix - Bassline
-{{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}<br>
+### Get Stupid 'Fresh', Pt. 1
+{{< youtube id="adUNugsQ_KA" title="Get Stupid 'Fresh', Pt. 1" >}}<br>
 
 ### More Videos
 
+- [Mantronix - Bassline](https://www.youtube.com/watch?v=5lYh0sWG2OI)
 - [Bassline](https://www.youtube.com/watch?v=TpXkptCMJhI)
 - [Fresh Is the Word (12 Version)](https://www.youtube.com/watch?v=Lnd-vbtMlP8)
 - [Mantronix - Needle To The Groove](https://www.youtube.com/watch?v=YGE5G49c8zU)
@@ -53,7 +54,6 @@ styles: ["Electro"]
 - [Mantronix - Ladies](https://www.youtube.com/watch?v=LDkzwo1VUqY)
 - [Ladies](https://www.youtube.com/watch?v=Nqr0-nRj7Xk)
 - [Mantronix - Get Stupid Fresh Part 1](https://www.youtube.com/watch?v=bIrpwmXW3aI)
-- [Get Stupid 'Fresh', Pt. 1](https://www.youtube.com/watch?v=adUNugsQ_KA)
 - [Mantronix - Fresh Is The Word](https://www.youtube.com/watch?v=M2xKzGy93E8)
 - [Fresh Is The Word](https://www.youtube.com/watch?v=K0TMOqwF1mo)
 

@@ -70,8 +70,8 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### Motörhead – Rock Out (Official Video)
-{{< youtube id="tHV7AwkzYWg" title="Motörhead – Rock Out (Official Video)" >}}<br>
+### MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl.
+{{< youtube id="_Sz3tiWxalI" title="MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl." >}}<br>
 
 ### More Videos
 
@@ -79,7 +79,7 @@ styles: ["Heavy Metal"]
 - [Motörhead - Everything Louder Forever - The Very Best Of Vinyl Unboxing](https://www.youtube.com/watch?v=qRbyWW9BQ2U)
 - [Motörhead – We Are Motörhead (Official Video)](https://www.youtube.com/watch?v=rrtYh-E7B-E)
 - [Motörhead – ‘Everything Louder Forever – The Very Best Of’ 2CD & 2LP unboxing](https://www.youtube.com/watch?v=hVLg1xeJEpY)
-- [MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl.](https://www.youtube.com/watch?v=_Sz3tiWxalI)
+- [Motörhead – Rock Out (Official Video)](https://www.youtube.com/watch?v=tHV7AwkzYWg)
 - [Motörhead – Whorehouse Blues (Official Video)](https://www.youtube.com/watch?v=6fQc57t7VSA)
 - [MOTORHEAD Best Song 2121 - Greatest Hit Of Motorhead Full Album](https://www.youtube.com/watch?v=s-vgBwNv_Wo)
 - [Motörhead – Life’s A Bitch (Official Video)](https://www.youtube.com/watch?v=vD0VJV6srao)

@@ -37,14 +37,14 @@ styles: ["Country Rock", "Country"]
 
 
 ## Videos
-### Love Hurts (Remastered Version)
-{{< youtube id="4fCTZ0ZnD44" title="Love Hurts (Remastered Version)" >}}<br>
+### Medley Live from Northern Quebec (A) Cash on the Barrelhead (B) Hickory Wind (Remastered Version)
+{{< youtube id="ORI38WMccdM" title="Medley Live from Northern Quebec (A) Cash on the Barrelhead (B) Hickory Wind (Remastered Version)" >}}<br>
 
 ### More Videos
 
 - [Return of the Grievous Angel (Remastered Version)](https://www.youtube.com/watch?v=h_Iz0iVvhEc)
-- [Medley Live from Northern Quebec (A) Cash on the Barrelhead (B) Hickory Wind (Remastered Version)](https://www.youtube.com/watch?v=ORI38WMccdM)
 - [Brass Buttons (Remastered Version)](https://www.youtube.com/watch?v=c7BwdZVDjS8)
+- [Love Hurts (Remastered Version)](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
 - [Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)](https://www.youtube.com/watch?v=kZ1X1lBTn2g)
 
 

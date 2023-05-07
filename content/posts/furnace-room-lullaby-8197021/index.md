@@ -37,17 +37,17 @@ styles: ["Alternative Rock", "Country"]
 
 
 ## Videos
-### We've Never Met
-{{< youtube id="zhMr1kCJy-Y" title="We've Never Met" >}}<br>
+### Neko Case & Her Boyfriends - Mood to Burn Bridges
+{{< youtube id="_s6DQSIjTFs" title="Neko Case & Her Boyfriends - Mood to Burn Bridges" >}}<br>
 
 ### More Videos
 
 - [Set Out Running](https://www.youtube.com/watch?v=HTPJq30ghBA)
 - [Neko Case Furnace Room Lullaby from The Gift](https://www.youtube.com/watch?v=9nBt_e9tzdQ)
 - [Guided By Wire](https://www.youtube.com/watch?v=sCwg05ayU6o)
-- [Neko Case & Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
 - [Mood to Burn Bridges](https://www.youtube.com/watch?v=qKdDcwdygos)
 - [Thrice All American](https://www.youtube.com/watch?v=lT4QMN93g9o)
+- [We've Never Met](https://www.youtube.com/watch?v=zhMr1kCJy-Y)
 - [South Tacoma Way](https://www.youtube.com/watch?v=k8iz8oNzOxM)
 - [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
 - [Neko Case - Furnace Room Lullaby [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)

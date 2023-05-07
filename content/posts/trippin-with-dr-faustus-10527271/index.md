@@ -35,13 +35,13 @@ styles: ["Space Rock", "Prog Rock"]
 
 
 ## Videos
-### Amplifier - Kosmos (Lyric Video)
-{{< youtube id="s4PoflfAMEo" title="Amplifier - Kosmos (Lyric Video)" >}}<br>
+### Amplifier - Freakzone (2017)
+{{< youtube id="k7NAMedoq4o" title="Amplifier - Freakzone (2017)" >}}<br>
 
 ### More Videos
 
 - [Amplifier - Rainbow Machine](https://www.youtube.com/watch?v=TE4KCRZI2tg)
-- [Amplifier - Freakzone (2017)](https://www.youtube.com/watch?v=k7NAMedoq4o)
+- [Amplifier - Kosmos (Lyric Video)](https://www.youtube.com/watch?v=s4PoflfAMEo)
 
 
 ## Release Information

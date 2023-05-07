@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Lonely Night
-{{< youtube id="Tw1stITSY5E" title="Lonely Night" >}}<br>
+### Precious Sight
+{{< youtube id="k9KAeod9Le8" title="Precious Sight" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Alternative Rock"]
 - [Love of My Life](https://www.youtube.com/watch?v=lFNLxKh66fA)
 - [The Nights Are Cold](https://www.youtube.com/watch?v=PQWxJGXsb3I)
 - [Can You Hear the Rain Love](https://www.youtube.com/watch?v=CYAa5970h-4)
-- [Precious Sight](https://www.youtube.com/watch?v=k9KAeod9Le8)
+- [Lonely Night](https://www.youtube.com/watch?v=Tw1stITSY5E)
 - [No Way Home](https://www.youtube.com/watch?v=YJVr9bCrC0w)
 - [Cry a Tear for the Man On the Moon](https://www.youtube.com/watch?v=J7hESbgte8M)
 - [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)

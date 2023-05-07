@@ -40,11 +40,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Breaking Into Heaven
-{{< youtube id="7nu5YLoaxHc" title="Breaking Into Heaven" >}}<br>
+### The Stone Roses - Love Spreads
+{{< youtube id="ct-qa6SjRZo" title="The Stone Roses - Love Spreads" >}}<br>
 
 ### More Videos
 
+- [Breaking Into Heaven](https://www.youtube.com/watch?v=7nu5YLoaxHc)
 - [The Stone Roses - Love Spreads (with lyrics)](https://www.youtube.com/watch?v=852fIw_I84I)
 - [Driving South](https://www.youtube.com/watch?v=vWCuXy7RVZc)
 - [Daybreak](https://www.youtube.com/watch?v=wE9MXCwNGCk)
@@ -53,7 +54,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [How Do You Sleep](https://www.youtube.com/watch?v=Z-0mj4rJ0Zg)
 - [The Stone Roses - Second Coming - Track 90  Foz](https://www.youtube.com/watch?v=L_5dZGXatFI)
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
-- [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 
 
 ## Release Information

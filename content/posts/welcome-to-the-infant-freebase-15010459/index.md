@@ -45,12 +45,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### The Soundtrack Of Our Lives - Instant Repeater '99
-{{< youtube id="_iBLe6o4a8U" title="The Soundtrack Of Our Lives - Instant Repeater '99" >}}<br>
+### The Soundtrack Of Our Lives - Embryonic Rendezvous
+{{< youtube id="2v6TpXXyIgE" title="The Soundtrack Of Our Lives - Embryonic Rendezvous" >}}<br>
 
 ### More Videos
 
-- [The Soundtrack Of Our Lives - Embryonic Rendezvous](https://www.youtube.com/watch?v=2v6TpXXyIgE)
+- [The Soundtrack Of Our Lives - Instant Repeater '99](https://www.youtube.com/watch?v=_iBLe6o4a8U)
 - [The Soundtrack of Our Lives - Bendover Babies](https://www.youtube.com/watch?v=cSP1cwPLy7M)
 
 

@@ -46,8 +46,8 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 
 
 ## Videos
-### Who? Where? Why? (12 Foot Mix)
-{{< youtube id="YmbqoEfZp2k" title="Who? Where? Why? (12 Foot Mix)" >}}<br>
+### International Bright Young Thing (Phil Harding 12'' Mix)
+{{< youtube id="t-6XpgJIQks" title="International Bright Young Thing (Phil Harding 12'' Mix)" >}}<br>
 
 ### More Videos
 
@@ -64,7 +64,7 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 - [International Bright Young Thing (Chaos Mix)](https://www.youtube.com/watch?v=sIWYiIBerss)
 - [Jesus Jones - Real Real Real (Ben Chapman ''Spaced'' 12'' Mix)](https://www.youtube.com/watch?v=omWUFO3vPj0)
 - [Real Real Real (Rhythm 3) (Ben Chapman 'Spaced' Mix)](https://www.youtube.com/watch?v=9YBTyE0lbfk)
-- [International Bright Young Thing (Phil Harding 12'' Mix)](https://www.youtube.com/watch?v=t-6XpgJIQks)
+- [Who? Where? Why? (12 Foot Mix)](https://www.youtube.com/watch?v=YmbqoEfZp2k)
 - [Kill Today](https://www.youtube.com/watch?v=gXg_Bc8hymU)
 - [Jesus Jones - The Right Decision (Moody Reconstruction Mix)  1993](https://www.youtube.com/watch?v=xk9QKFtraY8)
 - [Starting From Scratch](https://www.youtube.com/watch?v=NiK_Su15BEo)

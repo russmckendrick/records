@@ -38,13 +38,14 @@ styles: ["Hard Rock", "Pop Rock"]
 
 
 ## Videos
-### Knucklebones
-{{< youtube id="Ay3H4KLUvDs" title="Knucklebones" >}}<br>
+### David Lee Roth – Just Like Paradise
+{{< youtube id="IWLA7Q_bXsI" title="David Lee Roth – Just Like Paradise" >}}<br>
 
 ### More Videos
 
 - [David Lee Roth - Just Like Paradise (1988) (Music Video) WIDESCREEN 720p](https://www.youtube.com/watch?v=PUBARAhO9EY)
 - [Just Like Paradise | David Lee Roth | Skyscraper | 1988 Warner Bros LP](https://www.youtube.com/watch?v=RNu8RRro4fY)
+- [Knucklebones](https://www.youtube.com/watch?v=Ay3H4KLUvDs)
 - [David Lee Roth ‎– Skyscraper](https://www.youtube.com/watch?v=geVfpor62bY)
 - [David Lee Roth - California Girls (1985) (Music Video - MTV Version) WIDESCREEN 1080p](https://www.youtube.com/watch?v=-JpM7i0yaz0)
 - [Skyscraper](https://www.youtube.com/watch?v=9_WDMR3r2xk)
@@ -67,7 +68,6 @@ styles: ["Hard Rock", "Pop Rock"]
 - [David Lee Roth – Hina](https://www.youtube.com/watch?v=ZebosqMQYEI)
 - [David Lee Roth – Perfect Timing](https://www.youtube.com/watch?v=O6f_6fCVHqU)
 - [David Lee Roth – Damn Good](https://www.youtube.com/watch?v=9TjXQPhnYks)
-- [David Lee Roth – Just Like Paradise](https://www.youtube.com/watch?v=IWLA7Q_bXsI)
 - [David Lee Roth – Two Fools A Minute](https://www.youtube.com/watch?v=CUHtAqD4UVQ)
 - [David Lee Roth - Skyscraper [Full Album] (Remastered)](https://www.youtube.com/watch?v=OSOPWQp25mI)
 

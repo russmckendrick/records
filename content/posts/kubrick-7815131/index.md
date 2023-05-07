@@ -41,12 +41,12 @@ styles: ["Downtempo", "Modern Classical"]
 
 
 ## Videos
-### Soulsavers - DeLarge (album Kubrick)
-{{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>
+### Clay
+{{< youtube id="HnvJ-FzFLjM" title="Clay" >}}<br>
 
 ### More Videos
 
-- [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
+- [Soulsavers - DeLarge (album Kubrick)](https://www.youtube.com/watch?v=2KLFnzVZh4o)
 
 
 ## Release Information

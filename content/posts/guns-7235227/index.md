@@ -37,16 +37,16 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### Sleep All Eyes Open
-{{< youtube id="Ps5xGDgcg7k" title="Sleep All Eyes Open" >}}<br>
+### Cry Wet Smile Dry
+{{< youtube id="cyertOcNnnA" title="Cry Wet Smile Dry" >}}<br>
 
 ### More Videos
 
 - [Spell with a Shell](https://www.youtube.com/watch?v=I1-978oeynU)
 - [There's Good Cud](https://www.youtube.com/watch?v=07E2LaJZCiA)
 - [Wind And Rains Is Cold](https://www.youtube.com/watch?v=oW93gitP87k)
-- [Cry Wet Smile Dry](https://www.youtube.com/watch?v=cyertOcNnnA)
 - [Jitterbug (Junior Is A)](https://www.youtube.com/watch?v=y-GJXJOUJjE)
+- [Sleep All Eyes Open](https://www.youtube.com/watch?v=Ps5xGDgcg7k)
 - [Come Back Clammy Lammy](https://www.youtube.com/watch?v=9GeWmRjcaD4)
 - [Clean That Evil Mud Out Your Soul](https://www.youtube.com/watch?v=B9qszLOyb1s)
 - [Ain't He Messy Though](https://www.youtube.com/watch?v=62uYh6Bf_lE)

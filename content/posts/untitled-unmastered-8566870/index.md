@@ -36,18 +36,18 @@ styles: ["Funk", "Conscious"]
 
 
 ## Videos
-### untitled 03 | 05.28.2013.
-{{< youtube id="o4M4qssoaWU" title="untitled 03 | 05.28.2013." >}}<br>
+### untitled 08 | 09.06.2014.
+{{< youtube id="JXikcHwPolM" title="untitled 08 | 09.06.2014." >}}<br>
 
 ### More Videos
 
 - [untitled 01 | 08.19.2014.](https://www.youtube.com/watch?v=oIoZgIOgu3o)
 - [untitled 02 | 06.23.2014.](https://www.youtube.com/watch?v=_GghFQ8ryEU)
+- [untitled 03 | 05.28.2013.](https://www.youtube.com/watch?v=o4M4qssoaWU)
 - [untitled 04 | 08.14.2014.](https://www.youtube.com/watch?v=82Cqp-kyrQs)
 - [untitled 05 | 09.21.2014.](https://www.youtube.com/watch?v=inOEtUwSasc)
 - [untitled 06 | 06.30.2014.](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
 - [untitled 07 | levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
-- [untitled 08 | 09.06.2014.](https://www.youtube.com/watch?v=JXikcHwPolM)
 
 
 ## Release Information

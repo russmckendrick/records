@@ -39,14 +39,14 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 
 
 ## Videos
-### Starman
-{{< youtube id="xajye1EnIg0" title="Starman" >}}<br>
+### EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]
+{{< youtube id="GE606BMUK0I" title="EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]" >}}<br>
 
 ### More Videos
 
-- [EASY STAR ALL-STARS - FIVE YEARS FT. STEEL PULSE [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=GE606BMUK0I)
 - [Soul Love (feat. Mortimer)](https://www.youtube.com/watch?v=aWfz7BqFpEk)
 - [Moonage Daydream](https://www.youtube.com/watch?v=3Sl6eGVeMtU)
+- [Starman](https://www.youtube.com/watch?v=xajye1EnIg0)
 - [It Ain't Easy (feat. Samory I)](https://www.youtube.com/watch?v=265zBQuLyIA)
 - [Lady Stardust (feat. SunDub)](https://www.youtube.com/watch?v=fwjNH-DyjaU)
 - [Star (feat. Carlton Livingston)](https://www.youtube.com/watch?v=HPJoGNEAzs4)

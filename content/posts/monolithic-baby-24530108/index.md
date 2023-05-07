@@ -40,12 +40,13 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Monster Magnet - Monolithic.  (HQ)
-{{< youtube id="2fAL9sjce6Q" title="Monster Magnet - Monolithic.  (HQ)" >}}<br>
+### Monster Magnet - Monolithic official video (HQ)
+{{< youtube id="47tPU2ch5UU" title="Monster Magnet - Monolithic official video (HQ)" >}}<br>
 
 ### More Videos
 
 - [Monster Magnet ‎– Slut Machine](https://www.youtube.com/watch?v=BrztzfOW7z4)
+- [Monster Magnet - Monolithic.  (HQ)](https://www.youtube.com/watch?v=2fAL9sjce6Q)
 - [On The Verge - Monster Magnet - Monolithic Baby!](https://www.youtube.com/watch?v=k7ZETM9Ewxk)
 - [Unbroken (Hotel Baby)](https://www.youtube.com/watch?v=99DfGBp5PYE)
 - [Monster Magnet - Radiation Day](https://www.youtube.com/watch?v=D5Id6AoS63I)
@@ -56,7 +57,6 @@ styles: ["Stoner Rock"]
 - [Monster Magnet - Too Bad](https://www.youtube.com/watch?v=rMpT-Uyy3lY)
 - [Monster Magnet - Ultimate everything](https://www.youtube.com/watch?v=ugkEdtoxgco)
 - [Monster Magnet - CNN War Theme - Monolithic Baby!](https://www.youtube.com/watch?v=7DcP3qJCZ48)
-- [Monster Magnet - Monolithic official video (HQ)](https://www.youtube.com/watch?v=47tPU2ch5UU)
 - [Monster Magnet   The Right Stuff](https://www.youtube.com/watch?v=NAU7KF2PWFk)
 - [Monster Magnet - Monolithic Baby! Interview](https://www.youtube.com/watch?v=lVkVq-2jdUU)
 - [Monster Magnet - Monolithic (HQ Live, London Astoria, England)](https://www.youtube.com/watch?v=DEgAHuAHQJ0)

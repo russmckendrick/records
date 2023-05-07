@@ -40,16 +40,16 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Catherine
-{{< youtube id="PbAKMz-Lv7E" title="Catherine" >}}<br>
+### PJ Harvey - A Perfect Day Elise
+{{< youtube id="D3tD9EPOEik" title="PJ Harvey - A Perfect Day Elise" >}}<br>
 
 ### More Videos
 
 - [PJ Harvey - The Wind](https://www.youtube.com/watch?v=GmOMuBYEejc)
-- [PJ Harvey - A Perfect Day Elise](https://www.youtube.com/watch?v=D3tD9EPOEik)
 - [PJ Harvey - Angelene](https://www.youtube.com/watch?v=m8XzHhC9czw)
 - [Is This Desire?](https://www.youtube.com/watch?v=6zJZ2ntvIOE)
 - [The River](https://www.youtube.com/watch?v=6g1nCs_9HCk)
+- [Catherine](https://www.youtube.com/watch?v=PbAKMz-Lv7E)
 
 
 ## Release Information

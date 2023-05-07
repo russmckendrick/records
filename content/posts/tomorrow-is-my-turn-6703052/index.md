@@ -50,12 +50,13 @@ styles: ["Folk", "Delta Blues"]
 
 
 ## Videos
-### Rhiannon Giddens - Last Kind Words
-{{< youtube id="7M_Fz4lzi3Q" title="Rhiannon Giddens - Last Kind Words" >}}<br>
+### Rhiannon Giddens - Black Is the Color
+{{< youtube id="eMHpLH0GXwg" title="Rhiannon Giddens - Black Is the Color" >}}<br>
 
 ### More Videos
 
 - [Rhiannon Giddens - Don't Let It Trouble Your Mind](https://www.youtube.com/watch?v=uQJ0ylPcUuo)
+- [Rhiannon Giddens - Last Kind Words](https://www.youtube.com/watch?v=7M_Fz4lzi3Q)
 - [Rhiannon Giddens - Waterboy](https://www.youtube.com/watch?v=XyWa6v-ifRY)
 - [Rhiannon Giddens - She's Got You](https://www.youtube.com/watch?v=yqqdihSClis)
 - [Rhiannon Giddens - Round About the Mountain](https://www.youtube.com/watch?v=fgN0mp6-wpQ)
@@ -63,7 +64,6 @@ styles: ["Folk", "Delta Blues"]
 - [Rhiannon Giddens - Angel City](https://www.youtube.com/watch?v=XjMsLLEkt2E)
 - [Rhiannon Giddens - Up Above My Head](https://www.youtube.com/watch?v=W6bndO8sgI0)
 - [Rhiannon Giddens - Tomorrow Is My Turn](https://www.youtube.com/watch?v=xhUP9RyxLKg)
-- [Rhiannon Giddens - Black Is the Color](https://www.youtube.com/watch?v=eMHpLH0GXwg)
 - [Rhiannon Giddens - Shake Sugaree](https://www.youtube.com/watch?v=FqwRro2G-qA)
 
 

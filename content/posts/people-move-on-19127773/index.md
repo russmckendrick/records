@@ -40,19 +40,19 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.
-{{< youtube id="FtRzuPw_XSo" title="BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM." >}}<br>
+### Bernard Butler - Woman I know
+{{< youtube id="kOICJ_-yXe0" title="Bernard Butler - Woman I know" >}}<br>
 
 ### More Videos
 
 - [Bernard Butler - People Move On (1998) Full album](https://www.youtube.com/watch?v=xM54pVZkEMU)
+- [BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.](https://www.youtube.com/watch?v=FtRzuPw_XSo)
 - [People Move On](https://www.youtube.com/watch?v=KozoJM3DLrM)
 - [Bernard Butler - I'm Tired](https://www.youtube.com/watch?v=S8rqHZTfMZM)
 - [Bernard butler - Autograph. 1998 Suede Britpop.](https://www.youtube.com/watch?v=KRGAHUXgKlU)
 - [Bernard Butler - Stay](https://www.youtube.com/watch?v=MVhgmGcGqdE)
 - [Bernard Butler - Woman I Know](https://www.youtube.com/watch?v=CTQftY3Z6MI)
 - [A Change Of Heart](https://www.youtube.com/watch?v=3-TOSYaTASA)
-- [Bernard Butler - Woman I know](https://www.youtube.com/watch?v=kOICJ_-yXe0)
 - [YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.](https://www.youtube.com/watch?v=yeQUVyYiJKU)
 
 

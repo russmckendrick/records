@@ -35,8 +35,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)
-{{< youtube id="hkgXS5sotAM" title="Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)" >}}<br>
+### Great Boleros of Fire (Live Intro)
+{{< youtube id="6YBGsJtXtys" title="Great Boleros of Fire (Live Intro)" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Pop Rock"]
 - [Two Out of Three Ain't Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)
 - [Paradise By the Dashboard Light](https://www.youtube.com/watch?v=a136H5K3OKw)
 - [For Crying Out Loud](https://www.youtube.com/watch?v=8KyHDNQkBSA)
-- [Great Boleros of Fire (Live Intro)](https://www.youtube.com/watch?v=6YBGsJtXtys)
+- [Bat Out of Hell (Live at Nassau Coliseum, Hempstead, Long Island, NY - Sept. 1978)](https://www.youtube.com/watch?v=hkgXS5sotAM)
 
 
 ## Release Information

@@ -44,14 +44,14 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 
 ## Videos
-### BLACK SABBATH - Paranoid (Official Video)
-{{< youtube id="0qanF-91aJo" title="BLACK SABBATH - Paranoid (Official Video)" >}}<br>
+### Planet Caravan (2012 - Remaster)
+{{< youtube id="NhyGGLic1QM" title="Planet Caravan (2012 - Remaster)" >}}<br>
 
 ### More Videos
 
 - [War Pigs / Luke's Wall (2012 - Remaster)](https://www.youtube.com/watch?v=lLb6UUw2ZVQ)
 - [BLACK SABBATH - Paranoid (Full Album)](https://www.youtube.com/watch?v=fWvKvOViM3g)
-- [Planet Caravan (2012 - Remaster)](https://www.youtube.com/watch?v=NhyGGLic1QM)
+- [BLACK SABBATH - Paranoid (Official Video)](https://www.youtube.com/watch?v=0qanF-91aJo)
 - [Iron Man (2012 - Remaster)](https://www.youtube.com/watch?v=b3-QqGVt-tM)
 - [Electric Funeral (2012 - Remaster)](https://www.youtube.com/watch?v=ZyEUk1ZJLn4)
 - [Hand of Doom (2012 - Remaster)](https://www.youtube.com/watch?v=o6HmfTdwYZg)

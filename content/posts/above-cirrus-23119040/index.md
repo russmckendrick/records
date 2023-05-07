@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Scream Sideways
-{{< youtube id="DMZuXRR4Mzw" title="Scream Sideways" >}}<br>
+### Our Prism
+{{< youtube id="lJJ2vUfY5ps" title="Our Prism" >}}<br>
 
 ### More Videos
 
-- [Our Prism](https://www.youtube.com/watch?v=lJJ2vUfY5ps)
+- [Scream Sideways](https://www.youtube.com/watch?v=DMZuXRR4Mzw)
 - [Lucid](https://www.youtube.com/watch?v=usmXukkRXRI)
 
 

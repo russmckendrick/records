@@ -37,13 +37,13 @@ styles: ["Folk", "Psychedelic Rock"]
 
 
 ## Videos
-### Rustin Man - The World's in Town (Official Audio)
-{{< youtube id="TAGq1470T7I" title="Rustin Man - The World's in Town (Official Audio)" >}}<br>
+### Rustin Man - Judgement Train (Official Video)
+{{< youtube id="IgBs42v3l0k" title="Rustin Man - Judgement Train (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Rustin Man - Vanishing Heart (Official Video)](https://www.youtube.com/watch?v=RyrGv1d8gFk)
-- [Rustin Man - Judgement Train (Official Video)](https://www.youtube.com/watch?v=IgBs42v3l0k)
+- [Rustin Man - The World's in Town (Official Audio)](https://www.youtube.com/watch?v=TAGq1470T7I)
 
 
 ## Release Information

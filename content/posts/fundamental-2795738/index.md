@@ -39,8 +39,8 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Mental As Anything – “Hold On” (CBS) 1986
-{{< youtube id="41D7GYlNn3I" title="Mental As Anything – “Hold On” (CBS) 1986" >}}<br>
+### You're So Strong: Mental As Anything (Countdown 1985)
+{{< youtube id="tM_QVP9F2tw" title="You're So Strong: Mental As Anything (Countdown 1985)" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["New Wave", "Pop Rock"]
 - [Mental As Anything – “Surf & Mull & Sex & Fun” (UK Epic) 1987](https://www.youtube.com/watch?v=DR_huwgd5Ok)
 - [Good Friday](https://www.youtube.com/watch?v=JuzSzB-BCuQ)
 - [Mental As Anything - Date With Destiny](https://www.youtube.com/watch?v=XDicSQeV5gs)
+- [Mental As Anything – “Hold On” (CBS) 1986](https://www.youtube.com/watch?v=41D7GYlNn3I)
 - [Mental As Anything You're So Strong](https://www.youtube.com/watch?v=vrUyvhoTQXU)
-- [You're So Strong: Mental As Anything (Countdown 1985)](https://www.youtube.com/watch?v=tM_QVP9F2tw)
 - [Mental As Anything - Live It Up](https://www.youtube.com/watch?v=6idg4J9Nqf0)
 
 

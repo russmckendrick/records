@@ -42,8 +42,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Late Home Tonight, Pt. I
-{{< youtube id="_QGNAm5cHTo" title="Late Home Tonight, Pt. I" >}}<br>
+### Roger Waters - Amused to Death (1992)
+{{< youtube id="lneXi5yCKsg" title="Roger Waters - Amused to Death (1992)" >}}<br>
 
 ### More Videos
 
@@ -52,6 +52,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Perfect Sense, Pt. I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
 - [Perfect Sense, Pt. II](https://www.youtube.com/watch?v=eYG7INhXFjc)
 - [Roger Waters - The Bravery of Being Out of Range](https://www.youtube.com/watch?v=JamLmpVOgE0)
+- [Late Home Tonight, Pt. I](https://www.youtube.com/watch?v=_QGNAm5cHTo)
 - [Late Home Tonight, Pt. II](https://www.youtube.com/watch?v=isVAEXdKBS4)
 - [Too Much Rope](https://www.youtube.com/watch?v=Vz65-1wXoLY)
 - [What God Wants, Pt. II](https://www.youtube.com/watch?v=e4TMbtgmrH0)
@@ -59,7 +60,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Watching TV](https://www.youtube.com/watch?v=Ca3PnHFgJ54)
 - [Roger Waters - Three Wishes](https://www.youtube.com/watch?v=SWEPrenL5d8)
 - [It's a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
-- [Roger Waters - Amused to Death (1992)](https://www.youtube.com/watch?v=lneXi5yCKsg)
 
 
 ## Release Information

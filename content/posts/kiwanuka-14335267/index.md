@@ -41,8 +41,8 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 
 
 ## Videos
-### Piano Joint (This Kind Of Love)
-{{< youtube id="0PVN31NuYNo" title="Piano Joint (This Kind Of Love)" >}}<br>
+### Hero (Intro)
+{{< youtube id="z7eYrvS-OE8" title="Hero (Intro)" >}}<br>
 
 ### More Videos
 
@@ -52,9 +52,9 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 - [Rolling](https://www.youtube.com/watch?v=WeRQ_Essido)
 - [I've Been Dazed](https://www.youtube.com/watch?v=HEqeRL4LRuE)
 - [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=NPOyFQQvXJ4)
+- [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=0PVN31NuYNo)
 - [Another Human Being](https://www.youtube.com/watch?v=1j1vgmZAnrA)
 - [Living In Denial](https://www.youtube.com/watch?v=YM5U3h8uITM)
-- [Hero (Intro)](https://www.youtube.com/watch?v=z7eYrvS-OE8)
 - [Hard To Say Goodbye](https://www.youtube.com/watch?v=786dl0llF4c)
 - [Final Days](https://www.youtube.com/watch?v=t7egVrhFaFU)
 - [Interlude (Loving The People)](https://www.youtube.com/watch?v=YHPxzrAvWS0)

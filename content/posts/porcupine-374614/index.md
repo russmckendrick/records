@@ -38,8 +38,8 @@ styles: ["New Wave", "Indie Rock"]
 
 
 ## Videos
-### Heads Will Roll
-{{< youtube id="wo87VUG-F54" title="Heads Will Roll" >}}<br>
+### In Bluer Skies
+{{< youtube id="xtzzHeeLR3E" title="In Bluer Skies" >}}<br>
 
 ### More Videos
 
@@ -48,10 +48,10 @@ styles: ["New Wave", "Indie Rock"]
 - [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
 - [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)
 - [Porcupine](https://www.youtube.com/watch?v=bUdyUqhivug)
+- [Heads Will Roll](https://www.youtube.com/watch?v=wo87VUG-F54)
 - [Ripeness](https://www.youtube.com/watch?v=yOnOUSxaJ-0)
 - [Higher Hell](https://www.youtube.com/watch?v=CMh55H3K8fY)
 - [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
-- [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
 
 
 ## Release Information

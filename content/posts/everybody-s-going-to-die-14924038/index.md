@@ -38,12 +38,12 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 
 
 ## Videos
-### Everybody's Going to Die
-{{< youtube id="vaMH-ha3Lbc" title="Everybody's Going to Die" >}}<br>
+### Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)
+{{< youtube id="KcFy-lYmncE" title="Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)](https://www.youtube.com/watch?v=KcFy-lYmncE)
+- [Everybody's Going to Die](https://www.youtube.com/watch?v=vaMH-ha3Lbc)
 
 
 ## Release Information

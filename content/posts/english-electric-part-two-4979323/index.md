@@ -36,12 +36,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Big Big Train - Leopards
-{{< youtube id="X4A4rFLUS84" title="Big Big Train - Leopards" >}}<br>
+### Big Big Train - The Permanent Way
+{{< youtube id="2gbwMI8RW6Y" title="Big Big Train - The Permanent Way" >}}<br>
 
 ### More Videos
 
-- [Big Big Train - The Permanent Way](https://www.youtube.com/watch?v=2gbwMI8RW6Y)
+- [Big Big Train - Leopards](https://www.youtube.com/watch?v=X4A4rFLUS84)
 
 
 ## Release Information

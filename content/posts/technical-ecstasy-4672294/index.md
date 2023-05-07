@@ -36,17 +36,17 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 
 ## Videos
-### Back Street Kids (2021 - Remaster)
-{{< youtube id="fIbSaZEQHhE" title="Back Street Kids (2021 - Remaster)" >}}<br>
+### She's Gone (2021 - Remaster)
+{{< youtube id="rpt3XO_Z9mI" title="She's Gone (2021 - Remaster)" >}}<br>
 
 ### More Videos
 
+- [Back Street Kids (2021 - Remaster)](https://www.youtube.com/watch?v=fIbSaZEQHhE)
 - [You Won't Change Me (2021 - Remaster)](https://www.youtube.com/watch?v=8bvQvkybeXs)
 - [It's Alright (2021 - Remaster)](https://www.youtube.com/watch?v=LIHSiM4HbLM)
 - [Gypsy (2021 - Remaster)](https://www.youtube.com/watch?v=QOlicEjAobA)
 - [All Moving Parts (Stand Still) (2021 - Remaster)](https://www.youtube.com/watch?v=r_orTfF-8BU)
 - [Rock 'N' Roll Doctor (2021 - Remaster)](https://www.youtube.com/watch?v=-ZcGiL1xmwQ)
-- [She's Gone (2021 - Remaster)](https://www.youtube.com/watch?v=rpt3XO_Z9mI)
 - [Dirty Women (2021 - Remaster)](https://www.youtube.com/watch?v=j5LN6rpvdGY)
 
 

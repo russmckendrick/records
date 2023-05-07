@@ -40,13 +40,13 @@ styles: ["Gospel", "Folk"]
 
 
 ## Videos
-### Valerie June - Shakedown
-{{< youtube id="cShj4BimPXc" title="Valerie June - Shakedown" >}}<br>
+### Valerie June - Long Lonely Road
+{{< youtube id="ntc8jL9VDmQ" title="Valerie June - Long Lonely Road" >}}<br>
 
 ### More Videos
 
+- [Valerie June - Shakedown](https://www.youtube.com/watch?v=cShj4BimPXc)
 - [Valerie June - The Front Door](https://www.youtube.com/watch?v=OT7jlvXIaSw)
-- [Valerie June - Long Lonely Road](https://www.youtube.com/watch?v=ntc8jL9VDmQ)
 - [Valerie June -  Astral Plane](https://www.youtube.com/watch?v=rN35g4eLQgg)
 - [Valerie June - Got Soul (Radio Edit)](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
 - [Valerie June - Two Hearts](https://www.youtube.com/watch?v=HFFi4v2wq_8)

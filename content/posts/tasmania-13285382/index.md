@@ -35,12 +35,12 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### POND - Tasmania (Official Audio)
-{{< youtube id="NX6EIDepJDk" title="POND - Tasmania (Official Audio)" >}}<br>
+### Pond - Daisy (Official Video)
+{{< youtube id="Ap2gStsDZZo" title="Pond - Daisy (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Pond - Daisy (Official Video)](https://www.youtube.com/watch?v=Ap2gStsDZZo)
+- [POND - Tasmania (Official Audio)](https://www.youtube.com/watch?v=NX6EIDepJDk)
 
 
 ## Release Information

@@ -46,14 +46,14 @@ styles: ["Grunge", "Rock & Roll"]
 
 
 ## Videos
-### Corduroy (Remastered)
-{{< youtube id="FQkgIrfpLw0" title="Corduroy (Remastered)" >}}<br>
+### Better Man
+{{< youtube id="27ztFtLKvuQ" title="Better Man" >}}<br>
 
 ### More Videos
 
 - [Immortality (Remastered)](https://www.youtube.com/watch?v=pw4VEW3StIw)
+- [Corduroy (Remastered)](https://www.youtube.com/watch?v=FQkgIrfpLw0)
 - [Last Exit (Remastered)](https://www.youtube.com/watch?v=YQRyhKmkUUE)
-- [Better Man](https://www.youtube.com/watch?v=27ztFtLKvuQ)
 
 
 ## Release Information

@@ -48,8 +48,8 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 
 
 ## Videos
-### Nothing To Do With Me
-{{< youtube id="D0-FTcR-9YI" title="Nothing To Do With Me" >}}<br>
+### Stereolab Sound - Dust review
+{{< youtube id="UAPa0pjhydQ" title="Stereolab Sound - Dust review" >}}<br>
 
 ### More Videos
 
@@ -61,7 +61,6 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 - [Suggestion Diabolique](https://www.youtube.com/watch?v=YMnAkqu1HXE)
 - [Hallucinex](https://www.youtube.com/watch?v=gqXJKVV_LLE)
 - [Nothing To Do With Me](https://www.youtube.com/watch?v=MJqW17Xv-l4)
-- [Stereolab Sound - Dust review](https://www.youtube.com/watch?v=UAPa0pjhydQ)
 - [Space Moth](https://www.youtube.com/watch?v=h7xHsamKVF8)
 - [Spacemoth](https://www.youtube.com/watch?v=_ukyogTkqV4)
 - [Hallucinex](https://www.youtube.com/watch?v=pbWXRzCvtdQ)
@@ -72,6 +71,7 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 - [Baby Lulu](https://www.youtube.com/watch?v=-qnVLdEEGtU)
 - [Double Rocker](https://www.youtube.com/watch?v=FyLP6qq1Kuw)
 - [Gus The Mynah Bird](https://www.youtube.com/watch?v=xHX5PCuq8zs)
+- [Nothing To Do With Me](https://www.youtube.com/watch?v=D0-FTcR-9YI)
 
 
 ## Release Information

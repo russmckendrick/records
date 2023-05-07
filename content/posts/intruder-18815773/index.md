@@ -41,18 +41,18 @@ styles: ["Industrial"]
 
 
 ## Videos
-### Gary Numan - The End of Dragons (Alt) (Official Audio)
-{{< youtube id="unsbaAOUTLA" title="Gary Numan - The End of Dragons (Alt) (Official Audio)" >}}<br>
+### Gary Numan - The End of Dragons (Official Audio)
+{{< youtube id="k9x_maPw0DE" title="Gary Numan - The End of Dragons (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Gary Numan - Intruder (Official Video)](https://www.youtube.com/watch?v=-RxebQuFgJY)
 - [Gary Numan -  Is This World Not Enough (Official Audio)](https://www.youtube.com/watch?v=HzPAQCQdozw)
-- [Gary Numan - The End of Dragons (Official Audio)](https://www.youtube.com/watch?v=k9x_maPw0DE)
 - [Gary Numan - The Gift (Official Audio)](https://www.youtube.com/watch?v=T4YhOnS6ItI)
 - [Gary Numan - A Black Sun (Official Audio)](https://www.youtube.com/watch?v=lIdlve4SsIg)
 - [Gary Numan -  And It Breaks Me Again (Official Audio)](https://www.youtube.com/watch?v=Gd7dsGwkUzU)
 - [Gary Numan - When You Fall (Official Audio)](https://www.youtube.com/watch?v=ODoOq93YDLo)
+- [Gary Numan - The End of Dragons (Alt) (Official Audio)](https://www.youtube.com/watch?v=unsbaAOUTLA)
 - [Gary Numan - The Chosen (Official Audio)](https://www.youtube.com/watch?v=0RUoHaxC48o)
 - [Gary Numan - Now And Forever (Official Audio)](https://www.youtube.com/watch?v=Pb9ADQTk7J8)
 - [Gary Numan - I Am Screaming (Official Audio)](https://www.youtube.com/watch?v=tvO_BpzlV8E)

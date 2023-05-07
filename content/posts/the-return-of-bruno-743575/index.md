@@ -38,14 +38,14 @@ styles: ["Blues Rock", "Pop Rock"]
 
 
 ## Videos
-### Under The Boardwalk - Bruce Willis - The Return of Bruno
-{{< youtube id="gH2zJfK0B0Q" title="Under The Boardwalk - Bruce Willis - The Return of Bruno" >}}<br>
+### Return of Bruno
+{{< youtube id="Z6hJn272wIM" title="Return of Bruno" >}}<br>
 
 ### More Videos
 
 - [Jackpot (Bruno's Bop)](https://www.youtube.com/watch?v=Z2uComF6LuY)
 - [Bruce Willis - Secret Agent Man](https://www.youtube.com/watch?v=3v6pBscvuZI)
-- [Return of Bruno](https://www.youtube.com/watch?v=Z6hJn272wIM)
+- [Under The Boardwalk - Bruce Willis - The Return of Bruno](https://www.youtube.com/watch?v=gH2zJfK0B0Q)
 - [Bruce Willis (The Return of Bruno)](https://www.youtube.com/watch?v=WIciG46xNdg)
 - [Bruce Willis - Down in Hollywood](https://www.youtube.com/watch?v=BY2oWGpNF_s)
 - [(1987) Bruce Willis - The Return of Bruno [Cassette Rip]](https://www.youtube.com/watch?v=YQ1xNdH06r8)

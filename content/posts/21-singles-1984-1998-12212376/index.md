@@ -46,13 +46,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Jesus And Mary Chain - Never Understand (Official Music Video)
-{{< youtube id="b2bzrCCKDwc" title="The Jesus And Mary Chain - Never Understand (Official Music Video)" >}}<br>
+### The Jesus And Mary Chain - You Trip Me Up (Official Video)
+{{< youtube id="zK2nJWNgZBA" title="The Jesus And Mary Chain - You Trip Me Up (Official Video)" >}}<br>
 
 ### More Videos
 
-- [The Jesus And Mary Chain - You Trip Me Up (Official Video)](https://www.youtube.com/watch?v=zK2nJWNgZBA)
 - [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
+- [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
 
 
 ## Release Information

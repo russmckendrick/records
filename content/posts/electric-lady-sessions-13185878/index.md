@@ -40,8 +40,8 @@ styles: ["Electro", "Post-Punk"]
 
 
 ## Videos
-### LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)
-{{< youtube id="AZVhrv_sC3g" title="LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)" >}}<br>
+### LCD Soundsystem - oh baby (electric lady sessions - official audio)
+{{< youtube id="LLJegb3TdPY" title="LCD Soundsystem - oh baby (electric lady sessions - official audio)" >}}<br>
 
 ### More Videos
 
@@ -53,8 +53,8 @@ styles: ["Electro", "Post-Punk"]
 - [LCD Soundsystem - i used to (electric lady sessions - official audio)](https://www.youtube.com/watch?v=17uquO5IbOI)
 - [LCD Soundsystem - tonite (electric lady sessions - official audio)](https://www.youtube.com/watch?v=q25E__7vpK4)
 - [LCD Soundsystem - home (electric lady sessions - official audio)](https://www.youtube.com/watch?v=VXnOusZ5fXE)
+- [LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)](https://www.youtube.com/watch?v=AZVhrv_sC3g)
 - [LCD Soundsystem - emotional haircut (electric lady sessions - official audio)](https://www.youtube.com/watch?v=uQoZ_9vtb0Q)
-- [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
 - [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)
 
 

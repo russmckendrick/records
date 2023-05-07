@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### The Dears - Is This What You Really Want?
-{{< youtube id="fcWiNJybFUY" title="The Dears - Is This What You Really Want?" >}}<br>
+### The Dears - Heart On An Animal
+{{< youtube id="vJsjarLVm68" title="The Dears - Heart On An Animal" >}}<br>
 
 ### More Videos
 
 - [The Dears - Instant Nightmare!](https://www.youtube.com/watch?v=dJnXiqAo8H4)
-- [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
+- [The Dears - Is This What You Really Want?](https://www.youtube.com/watch?v=fcWiNJybFUY)
 
 
 ## Release Information

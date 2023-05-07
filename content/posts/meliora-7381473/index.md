@@ -35,15 +35,15 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Ghost - Majesty
-{{< youtube id="qS5-QmkKzJQ" title="Ghost - Majesty" >}}<br>
+### Ghost - From The Pinnacle To The Pit (Official Music Video)
+{{< youtube id="6A-IoOEPbUs" title="Ghost - From The Pinnacle To The Pit (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Ghost - From The Pinnacle To The Pit (Official Music Video)](https://www.youtube.com/watch?v=6A-IoOEPbUs)
 - [Ghost - Cirice (Official Music Video)](https://www.youtube.com/watch?v=-0Ao4t_fe0I)
 - [Ghost - He Is (Music Video)](https://www.youtube.com/watch?v=7hMaHDTw-pI)
 - [Ghost - Square Hammer (Official Music Video)](https://www.youtube.com/watch?v=VqoyKzgkqR4)
+- [Ghost - Majesty](https://www.youtube.com/watch?v=qS5-QmkKzJQ)
 - [Spirit](https://www.youtube.com/watch?v=_gSsp7vasSA)
 
 

@@ -38,14 +38,13 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 
 
 ## Videos
-### Suede - Filmstar
-{{< youtube id="PX6L65xgOzY" title="Suede - Filmstar" >}}<br>
+### 🔴Suede – Complete A Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]
+{{< youtube id="pUWV0AnTCzA" title="🔴Suede – Complete A Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]" >}}<br>
 
 ### More Videos
 
 - [[Full Album] S̲u̲ed̲e - C̲o̲mi̲n̲g U̲p](https://www.youtube.com/watch?v=aGah_flIerg)
 - [🔴Suede – Complete B Side [ Coming Up Limited Edition, Numbered, Yellow Translucent, 180g LP ]](https://www.youtube.com/watch?v=kG28yAxWr2Q)
-- [🔴Suede – Complete A Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]](https://www.youtube.com/watch?v=pUWV0AnTCzA)
 - [Suede - Beautiful Ones](https://www.youtube.com/watch?v=xqovGKdgAXY)
 - [🔴Suede – Complete A Side [ Coming Up Limited Edition, Numbered, Yellow Translucent, 180g LP ]](https://www.youtube.com/watch?v=b3oqS7CWkk8)
 - [🔴Suede – Complete B Side [ Coming Up 25th Anniversary, Reissue, Clear LP ]](https://www.youtube.com/watch?v=KC97mYs71n8)
@@ -53,6 +52,7 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 - [Suede - Lazy (Official Video)](https://www.youtube.com/watch?v=YP2enk5w5fk)
 - [Suede - Trash](https://www.youtube.com/watch?v=-PdKGDMhau4)
 - [Suede - Saturday Night](https://www.youtube.com/watch?v=wEWn0aVcuSM)
+- [Suede - Filmstar](https://www.youtube.com/watch?v=PX6L65xgOzY)
 
 
 ## Release Information

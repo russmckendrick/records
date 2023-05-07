@@ -41,14 +41,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Electric Blue (Official Video)
-{{< youtube id="UymXRxJPOQo" title="Arcade Fire - Electric Blue (Official Video)" >}}<br>
+### Arcade Fire - Creature Comfort (Official Video)
+{{< youtube id="xzwicesJQ7E" title="Arcade Fire - Creature Comfort (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Arcade Fire - Creature Comfort (Official Video)](https://www.youtube.com/watch?v=xzwicesJQ7E)
 - [Arcade Fire - Everything Now (Official Video)](https://www.youtube.com/watch?v=zC30BYR3CUk)
 - [Arcade Fire - Signs of Life (Official Video)](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
+- [Arcade Fire - Electric Blue (Official Video)](https://www.youtube.com/watch?v=UymXRxJPOQo)
 
 
 ## Release Information

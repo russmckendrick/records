@@ -38,12 +38,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Gruff Rhys - Limited Edition Heart (Official Audio)
-{{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart (Official Audio)" >}}<br>
+### Gruff Rhys - Frontier Man (Official Video)
+{{< youtube id="7Y6VLjIKwqQ" title="Gruff Rhys - Frontier Man (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Gruff Rhys - Frontier Man (Official Video)](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
+- [Gruff Rhys - Limited Edition Heart (Official Audio)](https://www.youtube.com/watch?v=L09PSR7uQtU)
 - [Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video](https://www.youtube.com/watch?v=UXbdEig4apo)
 
 

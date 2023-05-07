@@ -41,13 +41,12 @@ styles: []
 
 
 ## Videos
-### Unsophisticated
-{{< youtube id="zC0y-00d00w" title="Unsophisticated" >}}<br>
+### Kandace Springs - Fix Me
+{{< youtube id="oXmtRxZKVFo" title="Kandace Springs - Fix Me" >}}<br>
 
 ### More Videos
 
 - [Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]](https://www.youtube.com/watch?v=EaQwTZmJywg)
-- [Kandace Springs - Fix Me](https://www.youtube.com/watch?v=oXmtRxZKVFo)
 - [Kandace Springs - Piece Of Me](https://www.youtube.com/watch?v=vfSHvk0wGko)
 - [Kandace Springs - Unsophisticated ft. Roy Hargrove](https://www.youtube.com/watch?v=yuMkMu8keXE)
 - [Kandace Springs - Love Sucks](https://www.youtube.com/watch?v=Q05BJUp463I)
@@ -61,6 +60,7 @@ styles: []
 - [6 8](https://www.youtube.com/watch?v=UaI38Zy-K1g)
 - [Indigo (Pt. 2)](https://www.youtube.com/watch?v=Zm72L36G--w)
 - [People Make The World Go 'Round](https://www.youtube.com/watch?v=vgsqJCIKtvc)
+- [Unsophisticated](https://www.youtube.com/watch?v=zC0y-00d00w)
 - [Black Orchid](https://www.youtube.com/watch?v=d1zHnWNKTBE)
 - [Love Sucks](https://www.youtube.com/watch?v=f9fLJt5sqrY)
 - [The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=XwwSU8O5X5M)

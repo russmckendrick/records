@@ -29,13 +29,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Spider Island (Official Premiere)
-{{< youtube id="hfKAOVViEZU" title="Crippled Black Phoenix - Spider Island (Official Premiere)" >}}<br>
+### Crippled Black Phoenix - New Dark Age
+{{< youtube id="ZQnOxYuE8kM" title="Crippled Black Phoenix - New Dark Age" >}}<br>
 
 ### More Videos
 
-- [Crippled Black Phoenix - New Dark Age](https://www.youtube.com/watch?v=ZQnOxYuE8kM)
 - [CRIPPLED BLACK PHOENIX, Audio, Glasgow, November 2015, 'NEW DARK AGE'](https://www.youtube.com/watch?v=MBoSOT9m5Lw)
+- [Crippled Black Phoenix - Spider Island (Official Premiere)](https://www.youtube.com/watch?v=hfKAOVViEZU)
 
 
 ## Release Information

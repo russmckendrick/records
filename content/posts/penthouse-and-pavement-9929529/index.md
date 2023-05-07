@@ -39,8 +39,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### The Height Of The Fighting (Remastered 2006)
-{{< youtube id="mJ28KUI8uAw" title="The Height Of The Fighting (Remastered 2006)" >}}<br>
+### Geisha Boys And Temple Girls (2006 Digital Remaster)
+{{< youtube id="gbhptD6H_Rc" title="Geisha Boys And Temple Girls (2006 Digital Remaster)" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Synth-pop"]
 - [Penthouse And Pavement (Remastered 2006)](https://www.youtube.com/watch?v=XV502Rw0Fqg)
 - [Play To Win (Remastered)](https://www.youtube.com/watch?v=m-fY639gW08)
 - [Soul Warfare (2006 Digital Remaster)](https://www.youtube.com/watch?v=NKFJs3aK6k8)
-- [Geisha Boys And Temple Girls (2006 Digital Remaster)](https://www.youtube.com/watch?v=gbhptD6H_Rc)
 - [Let's All Make A Bomb (2006 Digital Remaster)](https://www.youtube.com/watch?v=I57YbiJ7x2w)
+- [The Height Of The Fighting (Remastered 2006)](https://www.youtube.com/watch?v=mJ28KUI8uAw)
 - [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)
 - [We're Going To Live For A Very Long Time (2006 Digital Remaster)](https://www.youtube.com/watch?v=77PYASbEsi8)
 - [Heaven 17 - Height Of The Fighting (He-La-Hu!)](https://www.youtube.com/watch?v=JR6BlsgdQr8)

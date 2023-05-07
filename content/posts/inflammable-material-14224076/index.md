@@ -41,8 +41,8 @@ styles: ["Punk"]
 
 
 ## Videos
-### Johnny Was
-{{< youtube id="2SCAFiP049o" title="Johnny Was" >}}<br>
+### Rough Trade
+{{< youtube id="WMCjbX6gSEo" title="Rough Trade" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,7 @@ styles: ["Punk"]
 - [White Noise](https://www.youtube.com/watch?v=xrocrwBVyAs)
 - [Breakout](https://www.youtube.com/watch?v=HRC9C_2gHZo)
 - [Law and Order](https://www.youtube.com/watch?v=LD8Y0F9BZ8A)
-- [Rough Trade](https://www.youtube.com/watch?v=WMCjbX6gSEo)
+- [Johnny Was](https://www.youtube.com/watch?v=2SCAFiP049o)
 - [Alternative Ulster](https://www.youtube.com/watch?v=PlGmYetiCjA)
 - [Closed Groove](https://www.youtube.com/watch?v=xFgRXssRmQ4)
 

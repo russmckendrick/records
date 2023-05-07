@@ -37,8 +37,8 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### No Warning
-{{< youtube id="XvwDc95TkH8" title="No Warning" >}}<br>
+### Triplanetary
+{{< youtube id="RcruRnHbZ_o" title="Triplanetary" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Stoner Rock"]
 - [Fu Manchu - Anxiety Reducer Official Audio](https://www.youtube.com/watch?v=bZQ-kKUfNFY)
 - [Radio Source Sagittarius](https://www.youtube.com/watch?v=sKz39VLf2KM)
 - [Mutant](https://www.youtube.com/watch?v=bTI8HXleDm4)
+- [No Warning](https://www.youtube.com/watch?v=XvwDc95TkH8)
 - [Evolution Machine](https://www.youtube.com/watch?v=0SdypZTlVw8)
-- [Triplanetary](https://www.youtube.com/watch?v=RcruRnHbZ_o)
 - [Fu Manchu - The Last Question [Audio]](https://www.youtube.com/watch?v=aGX_AQOBolw)
 
 

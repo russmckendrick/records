@@ -41,15 +41,15 @@ styles: ["Country Rock", "Indie Rock"]
 
 
 ## Videos
-### Wilco - I Must Be High (Video)
-{{< youtube id="Fw730Mvz8o8" title="Wilco - I Must Be High (Video)" >}}<br>
+### Should've Been in Love
+{{< youtube id="_pZcXzviD3U" title="Should've Been in Love" >}}<br>
 
 ### More Videos
 
+- [Wilco - I Must Be High (Video)](https://www.youtube.com/watch?v=Fw730Mvz8o8)
 - [Wilco - Box Full Of Letters (Video)](https://www.youtube.com/watch?v=7gyZw5tvAhI)
 - [Pick up the Change](https://www.youtube.com/watch?v=RMbAX47uELI)
 - [It's Just That Simple](https://www.youtube.com/watch?v=XQShhqEahXg)
-- [Should've Been in Love](https://www.youtube.com/watch?v=_pZcXzviD3U)
 - [Passenger Side](https://www.youtube.com/watch?v=wZtGlbrFMyc)
 
 

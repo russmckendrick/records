@@ -37,8 +37,8 @@ styles: ["Tech House", "Electro", "Experimental"]
 
 
 ## Videos
-### Jon Hopkins - Luminous Beings (Edit) (Official Audio)
-{{< youtube id="GGfttSfGbBM" title="Jon Hopkins - Luminous Beings (Edit) (Official Audio)" >}}<br>
+### Recovery
+{{< youtube id="MaqlsAmlbzo" title="Recovery" >}}<br>
 
 ### More Videos
 
@@ -46,12 +46,12 @@ styles: ["Tech House", "Electro", "Experimental"]
 - [Jon Hopkins - Singularity (Official Video)](https://www.youtube.com/watch?v=lkvnpHFajt0)
 - [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
 - [Jon Hopkins - Singularity (ANNA Remix) (Official Audio)](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
+- [Jon Hopkins - Luminous Beings (Edit) (Official Audio)](https://www.youtube.com/watch?v=GGfttSfGbBM)
 - [Neon Pattern Drum](https://www.youtube.com/watch?v=dPV_bL_YOho)
 - [Jon Hopkins - Feel First Life (Official Video)](https://www.youtube.com/watch?v=rXNPbUyiI64)
 - [C O S M](https://www.youtube.com/watch?v=nMTF-IocBi4)
 - [Echo Dissolve](https://www.youtube.com/watch?v=2vYOYz6zVyA)
 - [Jon Hopkins - Luminous Beings (HQ audio)](https://www.youtube.com/watch?v=ogMGGaeecww)
-- [Recovery](https://www.youtube.com/watch?v=MaqlsAmlbzo)
 
 
 ## Release Information

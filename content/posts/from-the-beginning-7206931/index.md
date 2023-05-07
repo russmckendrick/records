@@ -42,13 +42,13 @@ styles: ["Mod", "Psychedelic Rock"]
 
 
 ## Videos
-### My Way Of Giving
-{{< youtube id="SQ3T49mag48" title="My Way Of Giving" >}}<br>
+### You've Really Got A Hold On Me
+{{< youtube id="YYNkkJjhsqA" title="You've Really Got A Hold On Me" >}}<br>
 
 ### More Videos
 
 - [Small Faces ~ Baby Don't You Do It (Vinyl)](https://www.youtube.com/watch?v=K4Gay7gZmRA)
-- [You've Really Got A Hold On Me](https://www.youtube.com/watch?v=YYNkkJjhsqA)
+- [My Way Of Giving](https://www.youtube.com/watch?v=SQ3T49mag48)
 - [My Mind's Eye](https://www.youtube.com/watch?v=D8cg7zzR_xM)
 - [Runaway](https://www.youtube.com/watch?v=7hQLBOHjvo8)
 - [All Or Nothing (Alternate Mix (Electronically Processed Stereo))](https://www.youtube.com/watch?v=coE00hcnaC0)

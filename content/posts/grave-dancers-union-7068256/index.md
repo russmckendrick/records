@@ -40,19 +40,19 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### April Fool
-{{< youtube id="sP6AgxumUzY" title="April Fool" >}}<br>
+### Soul Asylum - Black Gold
+{{< youtube id="KpiFDrFEGvE" title="Soul Asylum - Black Gold" >}}<br>
 
 ### More Videos
 
 - [Soul Asylum - Somebody to Shove](https://www.youtube.com/watch?v=OrrE5bCA5lg)
-- [Soul Asylum - Black Gold](https://www.youtube.com/watch?v=KpiFDrFEGvE)
 - [Soul Asylum - Runaway Train (Official Video)](https://www.youtube.com/watch?v=NRtvqT_wMeY)
 - [Soul Asylum - Without a Trace](https://www.youtube.com/watch?v=yNWR3OenaPk)
 - [Keep It Up](https://www.youtube.com/watch?v=C2kQ5ECi6QM)
 - [Homesick](https://www.youtube.com/watch?v=RQrGcKBFKfM)
 - [Get on Out](https://www.youtube.com/watch?v=VBrLC_QEsG0)
 - [New World](https://www.youtube.com/watch?v=vSNQpQYQM8E)
+- [April Fool](https://www.youtube.com/watch?v=sP6AgxumUzY)
 - [Growing Into You](https://www.youtube.com/watch?v=oiSGuza-obQ)
 - [99%](https://www.youtube.com/watch?v=OrGtWLrMTxQ)
 - [The Sun Maid](https://www.youtube.com/watch?v=x025XOmFg5A)

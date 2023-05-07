@@ -39,8 +39,8 @@ styles: ["House", "Dub", "Downtempo"]
 
 
 ## Videos
-### Primal Scream - Screamadelica 30th Anniversary Announcement
-{{< youtube id="a9kFFms84wc" title="Primal Scream - Screamadelica 30th Anniversary Announcement" >}}<br>
+### Loaded (Andy Weatherall Mix)
+{{< youtube id="sNvUQka4wk0" title="Loaded (Andy Weatherall Mix)" >}}<br>
 
 ### More Videos
 
@@ -63,8 +63,8 @@ styles: ["House", "Dub", "Downtempo"]
 - [Primal Scream -  Movin' on Up](https://www.youtube.com/watch?v=kBiMoRM5lfo)
 - [Primal Scream - Come Together (Disco Screamadelica 1991)](https://www.youtube.com/watch?v=JyU8zLTvAvo)
 - [Primal Scream - Movin on Up (Lyrics)](https://www.youtube.com/watch?v=wWUC2-ypnDQ)
+- [Primal Scream - Screamadelica 30th Anniversary Announcement](https://www.youtube.com/watch?v=a9kFFms84wc)
 - [Primal Scream - Loaded (Top of the Pops 1990)](https://www.youtube.com/watch?v=pIs2M77gsiM)
-- [Loaded (Andy Weatherall Mix)](https://www.youtube.com/watch?v=sNvUQka4wk0)
 - [Primal Scream - Loaded (Andy Weatherall Mix - Official Audio)](https://www.youtube.com/watch?v=Ha1H-UQhVW0)
 
 

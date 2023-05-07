@@ -163,19 +163,19 @@ styles: ["Power Pop", "Punk", "New Wave"]
 
 
 ## Videos
-### I Love You Honey, Give Me A Beer (Go Through It)
-{{< youtube id="q0w_4hRFc08" title="I Love You Honey, Give Me A Beer (Go Through It)" >}}<br>
+### Little Girl Lies (Private Stock Mix)
+{{< youtube id="K14GND5NwuQ" title="Little Girl Lies (Private Stock Mix)" >}}<br>
 
 ### More Videos
 
 - [Once I Had A Love (Betrock Demo)](https://www.youtube.com/watch?v=bzVt7eerM28)
 - [Rapture (Disco Version)](https://www.youtube.com/watch?v=EaqqVT3gn-I)
-- [Little Girl Lies (Private Stock Mix)](https://www.youtube.com/watch?v=K14GND5NwuQ)
 - [Angels On The Balcony (Giorgio Moroder Demo)](https://www.youtube.com/watch?v=CJgO8VI3hMU)
 - [The Disco Song (1974 Session)](https://www.youtube.com/watch?v=XJ-6bwCEX4g)
 - [The Hardest Part (Home Tape)](https://www.youtube.com/watch?v=Ff53JdsHyo8)
 - [In The Flesh (Extended Intro)](https://www.youtube.com/watch?v=GDmeThqyFKE)
 - [X Offender (Intro)](https://www.youtube.com/watch?v=pZh3iiwpWBY)
+- [I Love You Honey, Give Me A Beer (Go Through It)](https://www.youtube.com/watch?v=q0w_4hRFc08)
 - [I'm On E (Take 2)](https://www.youtube.com/watch?v=Q2F1FOp-Kbw)
 - [Sexy Ida (1974 Session)](https://www.youtube.com/watch?v=34lEv6Fec1c)
 - [Call Me](https://www.youtube.com/watch?v=wLFT_yd8ETY)

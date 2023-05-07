@@ -41,13 +41,13 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Pearl Jam - Greatest Hits - The Up Side - HD Audio
-{{< youtube id="1z5XWZ5yzgU" title="Pearl Jam - Greatest Hits - The Up Side - HD Audio" >}}<br>
+### Pearl Jam - Greatest Hits - The Down Side - HD Audio
+{{< youtube id="AyuTmo_XHzw" title="Pearl Jam - Greatest Hits - The Down Side - HD Audio" >}}<br>
 
 ### More Videos
 
+- [Pearl Jam - Greatest Hits - The Up Side - HD Audio](https://www.youtube.com/watch?v=1z5XWZ5yzgU)
 - [Once (2004 Remix)](https://www.youtube.com/watch?v=PEEsRBkipnc)
-- [Pearl Jam - Greatest Hits - The Down Side - HD Audio](https://www.youtube.com/watch?v=AyuTmo_XHzw)
 
 
 ## Release Information

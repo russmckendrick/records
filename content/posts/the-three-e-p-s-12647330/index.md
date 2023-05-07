@@ -56,14 +56,14 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 
 
 ## Videos
-### Dry The Rain (Remaster)
-{{< youtube id="6XKvbROUmNk" title="Dry The Rain (Remaster)" >}}<br>
+### Dogs Got a Bone (Remaster)
+{{< youtube id="NGQcC9LE1i8" title="Dogs Got a Bone (Remaster)" >}}<br>
 
 ### More Videos
 
+- [Dry The Rain (Remaster)](https://www.youtube.com/watch?v=6XKvbROUmNk)
 - [I Know (Remaster)](https://www.youtube.com/watch?v=3LmCqpEJdI8)
 - [B + A (Remaster)](https://www.youtube.com/watch?v=vuBCId0eics)
-- [Dogs Got a Bone (Remaster)](https://www.youtube.com/watch?v=NGQcC9LE1i8)
 - [Inner Meet Me (Remaster)](https://www.youtube.com/watch?v=Abzt4cFprM4)
 - [The House Song (Remaster)](https://www.youtube.com/watch?v=IP0fjwj18-Q)
 - [The Monolith (Remaster)](https://www.youtube.com/watch?v=-Wle35U34_o)

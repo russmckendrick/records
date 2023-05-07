@@ -44,13 +44,13 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Whitesnake - Here I Go Again [Greatest Hits]
-{{< youtube id="RK0jnYzTDe4" title="Whitesnake - Here I Go Again [Greatest Hits]" >}}<br>
+### Whitesnake - Fool For Your Loving
+{{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}<br>
 
 ### More Videos
 
-- [Whitesnake - Fool For Your Loving](https://www.youtube.com/watch?v=8Tp0K9YiTPE)
 - [Whitesnake - Slow & Easy](https://www.youtube.com/watch?v=1qqAtPV-kgs)
+- [Whitesnake - Here I Go Again [Greatest Hits]](https://www.youtube.com/watch?v=RK0jnYzTDe4)
 - [Whitesnake - Love Ain't No Stranger](https://www.youtube.com/watch?v=unHzLEA6gvI)
 - [Whitesnake - Is This Love](https://www.youtube.com/watch?v=Lx15RANQiKM)
 

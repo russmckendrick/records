@@ -35,14 +35,14 @@ styles: ["Downtempo", "Synth-pop", "Vocal"]
 
 
 ## Videos
-### LISTEN WITHOUT PREJUDICE VOL.1 George Michael Vinyl HQ Sound Full Album
-{{< youtube id="2zNCDvlII6E" title="LISTEN WITHOUT PREJUDICE VOL.1 George Michael Vinyl HQ Sound Full Album" >}}<br>
+### George Michael - Waiting for That Day (Audio)
+{{< youtube id="4bH4EhBN180" title="George Michael - Waiting for That Day (Audio)" >}}<br>
 
 ### More Videos
 
+- [LISTEN WITHOUT PREJUDICE VOL.1 George Michael Vinyl HQ Sound Full Album](https://www.youtube.com/watch?v=2zNCDvlII6E)
 - [George Michael- Fastlove (MTV Unplugged) (Remastered in Full HD)](https://www.youtube.com/watch?v=6UNXoIrnyb0)
 - [George Michael - Freedom! ’90 (Official Video)](https://www.youtube.com/watch?v=diYAc7gB-0A)
-- [George Michael - Waiting for That Day (Audio)](https://www.youtube.com/watch?v=4bH4EhBN180)
 - [George Michael MTV Unplugged](https://www.youtube.com/watch?v=jqaxsxzFwFw)
 - [George Michael - Freedom '90](https://www.youtube.com/watch?v=QulBUdp-SAQ)
 - [George Michael - Cowboys and Angels (Audio)](https://www.youtube.com/watch?v=Ve-rxwKuqtI)

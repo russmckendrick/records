@@ -40,19 +40,19 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Radios In Motion (2001 Remaster)
-{{< youtube id="nNnmPQ2284w" title="Radios In Motion (2001 Remaster)" >}}<br>
+### XTC - Into the Atom Age
+{{< youtube id="o_cVKP1MhB4" title="XTC - Into the Atom Age" >}}<br>
 
 ### More Videos
 
 - [Hang On To The Night (2001 Remaster)](https://www.youtube.com/watch?v=bc4ZYVVBog8)
 - [XTC white music](https://www.youtube.com/watch?v=px-E3Fw253o)
+- [Radios In Motion (2001 Remaster)](https://www.youtube.com/watch?v=nNnmPQ2284w)
 - [Cross Wires (2001 Remaster)](https://www.youtube.com/watch?v=0tC9pqA8h9Y)
 - [This Is Pop? (2001 Remaster)](https://www.youtube.com/watch?v=Urz3Md03bXM)
 - [Do What You Do (2001 Remaster)](https://www.youtube.com/watch?v=ejr9X_Xuryw)
 - [Statue Of Liberty (2001 Remaster)](https://www.youtube.com/watch?v=OT46ZAPGPAc)
 - [Xtc - All along the watchtower (1978)](https://www.youtube.com/watch?v=6qXxOSYZi7U)
-- [XTC - Into the Atom Age](https://www.youtube.com/watch?v=o_cVKP1MhB4)
 - [I'll Set Myself On Fire (2001 Remaster)](https://www.youtube.com/watch?v=aThzc5oKlBc)
 - [XTC i'm bugged 1978](https://www.youtube.com/watch?v=0BRtiocklmM)
 - [XTC - New Town Animal in a Furnished Cage](https://www.youtube.com/watch?v=2xManY-LuIA)

@@ -40,8 +40,8 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Spiral
-{{< youtube id="tmaIqBto_fQ" title="Spiral" >}}<br>
+### Idiot Stare
+{{< youtube id="pSER4yejfBo" title="Idiot Stare" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,7 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Your Crusade](https://www.youtube.com/watch?v=x40Wg4whKrI)
 - [Don't Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
 - [Tongue Tied](https://www.youtube.com/watch?v=Jfl9kQUxNgE)
-- [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
+- [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
 
 
 ## Release Information

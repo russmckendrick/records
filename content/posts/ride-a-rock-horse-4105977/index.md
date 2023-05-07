@@ -35,13 +35,14 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Roger Daltrey-Walking the dog (1975)
-{{< youtube id="v5T7odJVXao" title="Roger Daltrey-Walking the dog (1975)" >}}<br>
+### Roger Daltrey:-'Come And Get Your Love'
+{{< youtube id="e8BtsTLvvSM" title="Roger Daltrey:-'Come And Get Your Love'" >}}<br>
 
 ### More Videos
 
 - [Roger Daltrey - Proud](https://www.youtube.com/watch?v=DywInNM60gs)
 - [Roger Daltrey – Come And Get Your Love (Original Stereo)](https://www.youtube.com/watch?v=cAGWmqLV8gQ)
+- [Roger Daltrey-Walking the dog (1975)](https://www.youtube.com/watch?v=v5T7odJVXao)
 - [Roger Daltrey 🇬🇧 - Walking The Dog (Rufus Thomas) - Vinyl Ride A Rock Horse LP 🇵🇹 1975](https://www.youtube.com/watch?v=iEMiiN3d6xk)
 - [Roger Daltrey - Ride a Rock Horse - Get Your Love](https://www.youtube.com/watch?v=MzApNg5P0GY)
 - [Roger Daltrey](https://www.youtube.com/watch?v=Ntk9iPID1sM)
@@ -52,7 +53,6 @@ styles: ["Classic Rock"]
 - [Roger Daltrey - Ride A Rock Horse (1975) Part 3 (Full Album)](https://www.youtube.com/watch?v=YF8Ii6uLgPk)
 - [Roger Daltrey:-'Oceans Away'](https://www.youtube.com/watch?v=IjadKiWgIDs)
 - [Roger Daltrey:-'Proud'](https://www.youtube.com/watch?v=axxYY9nyCBw)
-- [Roger Daltrey:-'Come And Get Your Love'](https://www.youtube.com/watch?v=e8BtsTLvvSM)
 
 
 ## Release Information

@@ -32,12 +32,12 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 
 
 ## Videos
-### Mëkanïk kömmandöh (2017 Remastered Version)
-{{< youtube id="wy8LdQyQK_k" title="Mëkanïk kömmandöh (2017 Remastered Version)" >}}<br>
+### MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)
+{{< youtube id="23k0pCLLmuE" title="MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)" >}}<br>
 
 ### More Videos
 
-- [MAGMA - Mekanïk Destruktïw Kommandöh (Full album 1973)](https://www.youtube.com/watch?v=23k0pCLLmuE)
+- [Mëkanïk kömmandöh (2017 Remastered Version)](https://www.youtube.com/watch?v=wy8LdQyQK_k)
 
 
 ## Release Information

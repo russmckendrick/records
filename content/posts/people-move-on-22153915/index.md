@@ -40,8 +40,8 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### Bernard Butler - Stay
-{{< youtube id="MVhgmGcGqdE" title="Bernard Butler - Stay" >}}<br>
+### YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.
+{{< youtube id="yeQUVyYiJKU" title="YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND." >}}<br>
 
 ### More Videos
 
@@ -50,10 +50,10 @@ styles: ["Indie Rock", "Britpop"]
 - [People Move On](https://www.youtube.com/watch?v=KozoJM3DLrM)
 - [Bernard Butler - I'm Tired](https://www.youtube.com/watch?v=S8rqHZTfMZM)
 - [Bernard butler - Autograph. 1998 Suede Britpop.](https://www.youtube.com/watch?v=KRGAHUXgKlU)
+- [Bernard Butler - Stay](https://www.youtube.com/watch?v=MVhgmGcGqdE)
 - [Bernard Butler - Woman I Know](https://www.youtube.com/watch?v=CTQftY3Z6MI)
 - [A Change Of Heart](https://www.youtube.com/watch?v=3-TOSYaTASA)
 - [Bernard Butler - Woman I know](https://www.youtube.com/watch?v=kOICJ_-yXe0)
-- [YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.](https://www.youtube.com/watch?v=yeQUVyYiJKU)
 
 
 ## Release Information

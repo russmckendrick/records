@@ -39,18 +39,18 @@ styles: ["Stoner Rock", "Hard Rock"]
 
 
 ## Videos
-### Queens of the Stone Age - You Can't Quit Me Baby (Official Audio)
-{{< youtube id="55ed_G8_Rzs" title="Queens of the Stone Age - You Can't Quit Me Baby (Official Audio)" >}}<br>
+### Queens of the Stone Age - Avon (Official Audio)
+{{< youtube id="aimHMr-Ee4o" title="Queens of the Stone Age - Avon (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Queens of the Stone Age - Regular John (Official Audio)](https://www.youtube.com/watch?v=wjNbxJttwP8)
-- [Queens of the Stone Age - Avon (Official Audio)](https://www.youtube.com/watch?v=aimHMr-Ee4o)
 - [Queens of the Stone Age - If Only (Official Audio)](https://www.youtube.com/watch?v=1HqTh0nd9GE)
 - [Queens of the Stone Age - Walkin on the Sidewalks (Official Audio)](https://www.youtube.com/watch?v=veA1UK68A5Y)
 - [Queens of the Stone Age - You Would Know (Official Audio)](https://www.youtube.com/watch?v=Fp32A3Tvi8A)
 - [Queens of the Stone Age - Mexicola (Official Audio)](https://www.youtube.com/watch?v=1F1fY1p9eh4)
 - [Queens of the Stone Age - Hispanic Impressions (Official Audio)](https://www.youtube.com/watch?v=TI2yuo3Jxk4)
+- [Queens of the Stone Age - You Can't Quit Me Baby (Official Audio)](https://www.youtube.com/watch?v=55ed_G8_Rzs)
 - [Queens of the Stone Age - Give the Mule What He Wants (Official Audio)](https://www.youtube.com/watch?v=8cs1Y7wFsFg)
 - [Queens of the Stone Age - I Was a Teenage Hand Model (Official Audio)](https://www.youtube.com/watch?v=ncthAfGmK-A)
 - [Queens of the Stone Age - How to Handle a Rope (A Lesson in the Lariat) (Official Audio)](https://www.youtube.com/watch?v=lDKlE65PZp0)

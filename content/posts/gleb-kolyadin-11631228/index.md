@@ -40,13 +40,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018
-{{< youtube id="7u7ferl0TIE" title="Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018" >}}<br>
+### Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)
+{{< youtube id="meJxe35Dj2E" title="Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)" >}}<br>
 
 ### More Videos
 
 - [Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)](https://www.youtube.com/watch?v=Yi1uHl8uy6E)
-- [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
+- [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
 
 
 ## Release Information

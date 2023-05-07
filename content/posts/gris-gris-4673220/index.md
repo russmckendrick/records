@@ -35,14 +35,14 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 
 
 ## Videos
-### Croker Courtbullion
-{{< youtube id="HD8npKskEdo" title="Croker Courtbullion" >}}<br>
+### Gris-Gris Gumbo Ya Ya
+{{< youtube id="ijZUoSsnRPU" title="Gris-Gris Gumbo Ya Ya" >}}<br>
 
 ### More Videos
 
-- [Gris-Gris Gumbo Ya Ya](https://www.youtube.com/watch?v=ijZUoSsnRPU)
 - [Danse Kalinda Ba Doom](https://www.youtube.com/watch?v=jKn6sUz7O0g)
 - [Danse Fambeaux](https://www.youtube.com/watch?v=apMbFM3UH0E)
+- [Croker Courtbullion](https://www.youtube.com/watch?v=HD8npKskEdo)
 - [Jump Sturdy](https://www.youtube.com/watch?v=KBPGqC27zqc)
 - [I Walk on Guilded Splinters](https://www.youtube.com/watch?v=lekQoT485aA)
 

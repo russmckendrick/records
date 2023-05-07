@@ -43,14 +43,15 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### James Brown - Please Please Please - 02 - Chonnie-On-Chon
-{{< youtube id="mod74Pe3v04" title="James Brown - Please Please Please - 02 - Chonnie-On-Chon" >}}<br>
+### That Dood It
+{{< youtube id="rkie2q2Vh8o" title="That Dood It" >}}<br>
 
 ### More Videos
 
 - [James Brown- Please, Please, Please](https://www.youtube.com/watch?v=EkVZ3dHh6kg)
 - [Please, Please, Please](https://www.youtube.com/watch?v=pcYny0JxzNY)
 - [James Brown- Try Me](https://www.youtube.com/watch?v=7J-0GOEZYv0)
+- [James Brown - Please Please Please - 02 - Chonnie-On-Chon](https://www.youtube.com/watch?v=mod74Pe3v04)
 - [Hold My Baby's Hand](https://www.youtube.com/watch?v=_h2vdjyD-JI)
 - [I Feel That Old Feeling Coming On](https://www.youtube.com/watch?v=59l891dpDRw)
 - [Just Won't Do Right](https://www.youtube.com/watch?v=0Jx5b_oMWNg)
@@ -58,7 +59,6 @@ styles: ["Rhythm & Blues", "Soul"]
 - [I Don't Know](https://www.youtube.com/watch?v=mMkiEkTM0jQ)
 - [James Brown - Tell Me What I Did Wrong (1959)](https://www.youtube.com/watch?v=KSDuiNMJ_ZI)
 - [James Brown - Try Me](https://www.youtube.com/watch?v=X55yoSRRHHI)
-- [That Dood It](https://www.youtube.com/watch?v=rkie2q2Vh8o)
 - [James Brown - Begging, Begging (1959)](https://www.youtube.com/watch?v=Gh7jiv4dYY4)
 - [I Walked Alone](https://www.youtube.com/watch?v=-ilF0rIOQz8)
 - [James Brown - No, No, No, No (1959)](https://www.youtube.com/watch?v=m3cWUW2eoZM)

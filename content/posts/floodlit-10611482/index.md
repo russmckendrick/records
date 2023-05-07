@@ -32,12 +32,12 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Pijn - Floodlit (Full EP)
-{{< youtube id="GNzTHF8HsKY" title="Pijn - Floodlit (Full EP)" >}}<br>
+### Pijn - Dumbstruck & Floodlit Live
+{{< youtube id="F417DTW7O6o" title="Pijn - Dumbstruck & Floodlit Live" >}}<br>
 
 ### More Videos
 
-- [Pijn - Dumbstruck & Floodlit Live](https://www.youtube.com/watch?v=F417DTW7O6o)
+- [Pijn - Floodlit (Full EP)](https://www.youtube.com/watch?v=GNzTHF8HsKY)
 
 
 ## Release Information

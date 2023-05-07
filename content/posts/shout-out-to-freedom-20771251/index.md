@@ -43,8 +43,8 @@ styles: ["Downtempo", "Trip Hop"]
 
 
 ## Videos
-### Isolated
-{{< youtube id="MDjXoWWJts0" title="Isolated" >}}<br>
+### Miami 80
+{{< youtube id="Qx5RbYhM7_s" title="Miami 80" >}}<br>
 
 ### More Videos
 
@@ -53,11 +53,11 @@ styles: ["Downtempo", "Trip Hop"]
 - [Imagineering](https://www.youtube.com/watch?v=sjjc2JZSan8)
 - [Creator SOS](https://www.youtube.com/watch?v=0GH77QUwbMQ)
 - [3D Warrior](https://www.youtube.com/watch?v=tUvpDJI5FgE)
-- [Miami 80](https://www.youtube.com/watch?v=Qx5RbYhM7_s)
 - [GTP Call](https://www.youtube.com/watch?v=g1o6K4rhtfo)
 - [Wikid Satellites](https://www.youtube.com/watch?v=zf1tsqdjDEE)
 - [To Freedom (Interlude)](https://www.youtube.com/watch?v=aTGmgeDmLpw)
 - [Widyabad](https://www.youtube.com/watch?v=IF7YeqBjbkc)
+- [Isolated](https://www.youtube.com/watch?v=MDjXoWWJts0)
 - [Trillion](https://www.youtube.com/watch?v=-LFcxMIatJM)
 - [Up To Us](https://www.youtube.com/watch?v=xh80UIthNws)
 

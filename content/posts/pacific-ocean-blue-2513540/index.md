@@ -40,21 +40,21 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Holy Man   DENNIS WILSON
-{{< youtube id="MwOlKKsfpSc" title="Holy Man   DENNIS WILSON" >}}<br>
+### Dennis Wilson - River Song
+{{< youtube id="LHCzTLnFpLE" title="Dennis Wilson - River Song" >}}<br>
 
 ### More Videos
 
 - [Only with You](https://www.youtube.com/watch?v=1Q-oVAhZ3GQ)
 - [Pacific Ocean Blues](https://www.youtube.com/watch?v=VSxPcYS1UDo)
 - [What's Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
-- [Dennis Wilson - River Song](https://www.youtube.com/watch?v=LHCzTLnFpLE)
 - [Tug of Love](https://www.youtube.com/watch?v=aaqgKEUwaiM)
 - [River Song](https://www.youtube.com/watch?v=YiZoSHVQXmk)
 - [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
 - [Dennis Wilson - Pacific Ocean Blues](https://www.youtube.com/watch?v=er1LsKPXLj8)
 - [Holy Man (Taylor Hawkins Version)](https://www.youtube.com/watch?v=T-0EGjHwSKE)
 - [Dreamer](https://www.youtube.com/watch?v=GPr5ZZdFdFk)
+- [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
 
 
 ## Release Information

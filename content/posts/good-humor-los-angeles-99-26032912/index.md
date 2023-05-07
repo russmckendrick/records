@@ -48,8 +48,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Lose That Girl
-{{< youtube id="kq4DNXC5M8E" title="Lose That Girl" >}}<br>
+### Goodnight Jack
+{{< youtube id="xaEsmPxg17k" title="Goodnight Jack" >}}<br>
 
 ### More Videos
 
@@ -57,7 +57,7 @@ styles: ["Indie Pop"]
 - [Sylvie](https://www.youtube.com/watch?v=lRcBhYSfQug)
 - [Split Screen](https://www.youtube.com/watch?v=zHKp-qh94Pc)
 - [Mr. Donut](https://www.youtube.com/watch?v=g2aLMmFuT4k)
-- [Goodnight Jack](https://www.youtube.com/watch?v=xaEsmPxg17k)
+- [Lose That Girl](https://www.youtube.com/watch?v=kq4DNXC5M8E)
 - [The Bad Photographer](https://www.youtube.com/watch?v=a8W6y_zM3ZE)
 - [Been So Long](https://www.youtube.com/watch?v=vA_3ixmJrYo)
 - [Postman](https://www.youtube.com/watch?v=kUhOMKWRA5I)

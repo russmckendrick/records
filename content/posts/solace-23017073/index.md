@@ -36,12 +36,12 @@ styles: ["Post Rock", "Experimental"]
 
 
 ## Videos
-### The New Earth
-{{< youtube id="jjDwzXeFNxg" title="The New Earth" >}}<br>
+### The Tree of Life
+{{< youtube id="CsUmGZ7bK6E" title="The Tree of Life" >}}<br>
 
 ### More Videos
 
-- [The Tree of Life](https://www.youtube.com/watch?v=CsUmGZ7bK6E)
+- [The New Earth](https://www.youtube.com/watch?v=jjDwzXeFNxg)
 - [Next to Silence](https://www.youtube.com/watch?v=LmTZhK2hWcc)
 - [In the Trees](https://www.youtube.com/watch?v=t0MK79ltP1c)
 - [Rain After Sun](https://www.youtube.com/watch?v=KUdrAXbkAIU)

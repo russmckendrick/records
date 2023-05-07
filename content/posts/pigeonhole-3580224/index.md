@@ -37,11 +37,12 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 
 
 ## Videos
-### Get Better
-{{< youtube id="mjhFtxhdN00" title="Get Better" >}}<br>
+### new fast automatic daffodils - reprise video
+{{< youtube id="hO55OjrEg9o" title="new fast automatic daffodils - reprise video" >}}<br>
 
 ### More Videos
 
+- [Get Better](https://www.youtube.com/watch?v=mjhFtxhdN00)
 - [Fishes Eyes](https://www.youtube.com/watch?v=Ek7tEzmE84Y)
 - [Working For Him](https://www.youtube.com/watch?v=9ObFlEsRwR8)
 - [Part 4](https://www.youtube.com/watch?v=B3lrLtsADsE)
@@ -58,7 +59,6 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 - [New Fast Automatic Daffodils - Big](https://www.youtube.com/watch?v=kqLxj3BBMo8)
 - [New Fast Automatic Daffodils - Fishes Eyes](https://www.youtube.com/watch?v=TA0G8C1u3p4)
 - [New Fast Automatic Daffodils - Fishes Eyes video](https://www.youtube.com/watch?v=oRJ_9NFwxPY)
-- [new fast automatic daffodils - reprise video](https://www.youtube.com/watch?v=hO55OjrEg9o)
 - [New Fast Automatic Daffodils   I found Myself In another Room .video](https://www.youtube.com/watch?v=s2QHsYY6t2M)
 - [New Fast Automatic Daffodils - Big (1990)](https://www.youtube.com/watch?v=fQUhCHJk6Nk)
 

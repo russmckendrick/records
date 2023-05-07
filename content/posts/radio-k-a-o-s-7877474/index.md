@@ -36,15 +36,15 @@ styles: ["Alternative Rock", "Classic Rock"]
 
 
 ## Videos
-### Four Minutes
-{{< youtube id="yzdwpisprYQ" title="Four Minutes" >}}<br>
+### The Powers That Be
+{{< youtube id="ANAud9P-uXI" title="The Powers That Be" >}}<br>
 
 ### More Videos
 
 - [The Powers That Be | Roger Waters | Radio KAOS | 1987 Columbia LP](https://www.youtube.com/watch?v=TSbKF4vBd4o)
 - [Roger Waters: Radio K.A.O.S. (1987) with lyrics](https://www.youtube.com/watch?v=9v4QDxkcS24)
 - [Home](https://www.youtube.com/watch?v=oLRrK3cAuW8)
-- [The Powers That Be](https://www.youtube.com/watch?v=ANAud9P-uXI)
+- [Four Minutes](https://www.youtube.com/watch?v=yzdwpisprYQ)
 - [Me or Him](https://www.youtube.com/watch?v=NNCRNkd_pmw)
 - [Roger Waters - 06 - Home - Radio Kaos (1987)](https://www.youtube.com/watch?v=_AFe--d-zMA)
 - [Roger Waters - Who Needs Information](https://www.youtube.com/watch?v=IXIyFM60uPg)

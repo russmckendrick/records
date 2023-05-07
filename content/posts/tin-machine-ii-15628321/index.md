@@ -38,13 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Tin machine you belong in Rock n Roll
-{{< youtube id="Ok5A8VoOMis" title="Tin machine you belong in Rock n Roll" >}}<br>
+### David Bowie & Tin Machine - Amlapura
+{{< youtube id="2qCXUldOf1s" title="David Bowie & Tin Machine - Amlapura" >}}<br>
 
 ### More Videos
 
 - [Tin Machine - If There Is Something](https://www.youtube.com/watch?v=c7QYO-1IQ3I)
-- [David Bowie & Tin Machine - Amlapura](https://www.youtube.com/watch?v=2qCXUldOf1s)
+- [Tin machine you belong in Rock n Roll](https://www.youtube.com/watch?v=Ok5A8VoOMis)
 - [Tin Machine - Baby Universal (music video version)](https://www.youtube.com/watch?v=E7q3FDDmqmA)
 - [Tin Machine - One Shot](https://www.youtube.com/watch?v=esu90pt3aTo)
 

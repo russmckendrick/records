@@ -41,12 +41,13 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 
 
 ## Videos
-### Ned's Atomic Dustbin-Kill Your Television
-{{< youtube id="ZA2371iADS0" title="Ned's Atomic Dustbin-Kill Your Television" >}}<br>
+### Ned's Atomic Dustbin-Cut Up
+{{< youtube id="Z-VA3tb1bCo" title="Ned's Atomic Dustbin-Cut Up" >}}<br>
 
 ### More Videos
 
 - [Neds Atomic Dustbin - Throwing Things - Live 1991](https://www.youtube.com/watch?v=1s2Yb3s0Zk4)
+- [Ned's Atomic Dustbin-Kill Your Television](https://www.youtube.com/watch?v=ZA2371iADS0)
 - [Ned's Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=HqGzBqPnNBk)
 - [Ned's Atomic Dustbin-Less Than Useful](https://www.youtube.com/watch?v=pYqfB44lEF0)
 - [Ned's Atomic Dustbin - Kill Your Television](https://www.youtube.com/watch?v=FaTcIzLk880)
@@ -54,7 +55,6 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 - [Neds Atomic Dustbin-Happy](https://www.youtube.com/watch?v=AI4lzeHQduE)
 - [Ned's Atomic Dustbin-Grey Cell Green](https://www.youtube.com/watch?v=GkH0wgg8igM)
 - [Ned's Atomic Dustbin - Throwing Things - God Fodder [1991]](https://www.youtube.com/watch?v=6Ua7arwVspI)
-- [Ned's Atomic Dustbin-Cut Up](https://www.youtube.com/watch?v=Z-VA3tb1bCo)
 - [Ned's Atomic Dustbin - Happy](https://www.youtube.com/watch?v=gmD08Na5VKI)
 - [Ned's Atomic Dustbin-Throwing Things](https://www.youtube.com/watch?v=GHM6Xs2Voko)
 - [Ned's Atomic Dustbin-Capital Letters](https://www.youtube.com/watch?v=OHh69qmqdyo)

@@ -44,8 +44,8 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 
 
 ## Videos
-### Handsome Boy Modeling School_WaterWorld (feat. Encore)
-{{< youtube id="Ommf4ruo9jA" title="Handsome Boy Modeling School_WaterWorld (feat. Encore)" >}}<br>
+### Handsome Boy Modeling School - Torch Song Trilogy
+{{< youtube id="xunZgvXRq3M" title="Handsome Boy Modeling School - Torch Song Trilogy" >}}<br>
 
 ### More Videos
 
@@ -53,6 +53,7 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 - [Handsome Boy Modeling School - Magnetizing Ft. Del Tha Funkee Homosapien](https://www.youtube.com/watch?v=tldQYRdpoLQ)
 - [Handsome Boy Modeling School - Metaphysical](https://www.youtube.com/watch?v=gcPzoWk6mmg)
 - [Look At This Face (Oh My God They're Gorgeous)](https://www.youtube.com/watch?v=zQccR1aAiJ0)
+- [Handsome Boy Modeling School_WaterWorld (feat. Encore)](https://www.youtube.com/watch?v=Ommf4ruo9jA)
 - [Handsome Boy Modeling School - Once Again Here to Kick One For You](https://www.youtube.com/watch?v=l5dTsox4lOc)
 - [Handsome Boy Modeling School - The Truth](https://www.youtube.com/watch?v=-HW7nj-GUZY)
 - [Handsome Boy Modeling School - Holy Calamity (Bear Witness II) - So, How's Your Girl? (1999)](https://www.youtube.com/watch?v=WMmaL7vbPaM)
@@ -60,7 +61,6 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 - [Handsome Boy Modeling School - The Projects PJays](https://www.youtube.com/watch?v=BjIBOvjL884)
 - [Handsome Boy Modeling School - Sunshine](https://www.youtube.com/watch?v=__p2IpVAEQU)
 - [Modeling Sucks](https://www.youtube.com/watch?v=R-kFNuPLA0I)
-- [Handsome Boy Modeling School - Torch Song Trilogy](https://www.youtube.com/watch?v=xunZgvXRq3M)
 - [Handsome Boy Modeling School - The Runaway Song](https://www.youtube.com/watch?v=PfFp6Evi1pI)
 - [Handsome Boy Modeling School - Megaton B Boy 2000](https://www.youtube.com/watch?v=3eYvNUcPy50)
 - [Handsome Boy Modeling School - Father Speaks](https://www.youtube.com/watch?v=1FzcDfY_kLg)

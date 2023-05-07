@@ -42,8 +42,8 @@ styles: ["Reggae", "Roots Reggae"]
 
 
 ## Videos
-### Bob Marley & The Wailers - Jamming
-{{< youtube id="E31D3IPkSz0" title="Bob Marley & The Wailers - Jamming" >}}<br>
+### Bob Marley & The Wailers - Stir It Up
+{{< youtube id="w8Mpnav5Vx4" title="Bob Marley & The Wailers - Stir It Up" >}}<br>
 
 ### More Videos
 
@@ -54,13 +54,13 @@ styles: ["Reggae", "Roots Reggae"]
 - [Bob Marley & The Wailers - Three Little Birds](https://www.youtube.com/watch?v=mvzXk_iivZE)
 - [Bob Marley & The Wailers - Buffalo Soldier](https://www.youtube.com/watch?v=OqWAWtbMSis)
 - [Bob Marley & The Wailers - Get Up Stand Up](https://www.youtube.com/watch?v=BElFYqtEUv0)
-- [Bob Marley & The Wailers - Stir It Up](https://www.youtube.com/watch?v=w8Mpnav5Vx4)
 - [Bob Marley & The Wailers - One Love / People Get Ready](https://www.youtube.com/watch?v=t3uiLFuotuo)
 - [Bob Marley & The Wailers - I Shot The Sheriff](https://www.youtube.com/watch?v=J7cbLDQv-p8)
 - [Bob Marley & The Wailers - Waiting In Vain](https://www.youtube.com/watch?v=NVOOGWTbXmg)
 - [Bob Marley & The Wailers - Redemption Song](https://www.youtube.com/watch?v=Bbevgb3-MTs)
 - [Bob Marley & The Wailers - Satisfy My Soul](https://www.youtube.com/watch?v=yi3nNiEI8ZI)
 - [Bob Marley & The Wailers - Exodus](https://www.youtube.com/watch?v=QR4cb7tz2Eo)
+- [Bob Marley & The Wailers - Jamming](https://www.youtube.com/watch?v=E31D3IPkSz0)
 
 
 ## Release Information

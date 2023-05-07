@@ -41,8 +41,8 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### Sayonara
-{{< youtube id="bB1-0vysais" title="Sayonara" >}}<br>
+### The Pogues- sayonara(Lyrics)
+{{< youtube id="5PsERlOwYsw" title="The Pogues- sayonara(Lyrics)" >}}<br>
 
 ### More Videos
 
@@ -50,6 +50,7 @@ styles: ["Folk Rock"]
 - [Hell's Ditch](https://www.youtube.com/watch?v=9bmqL0g1M0I)
 - [The Sunnyside of the Street](https://www.youtube.com/watch?v=PFarc3yjSC8)
 - [Lorca's Novena](https://www.youtube.com/watch?v=pdgJLtjTbFI)
+- [Sayonara](https://www.youtube.com/watch?v=bB1-0vysais)
 - [Infinity](https://www.youtube.com/watch?v=OQrNFvuTjW4)
 - [The Ghost of a Smile](https://www.youtube.com/watch?v=qK2L3uIgHkw)
 - [Rainbow Man](https://www.youtube.com/watch?v=Eocc5AhZqNg)
@@ -58,7 +59,6 @@ styles: ["Folk Rock"]
 - [The Pogues - Sayonara](https://www.youtube.com/watch?v=r3bw1pdW5fU)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=66quTi26YLY)
 - [The Pogues ~ Hell's Ditch](https://www.youtube.com/watch?v=wn1yVnkYXnY)
-- [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 
 

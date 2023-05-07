@@ -48,13 +48,13 @@ styles: []
 
 
 ## Videos
-### Joe Strummer Johnny Appleseed
-{{< youtube id="9pYwPc6UNmo" title="Joe Strummer Johnny Appleseed" >}}<br>
+### Joe Strummer & the Mescaleros - Global A Go-Go
+{{< youtube id="nmyKLpVM98Q" title="Joe Strummer & the Mescaleros - Global A Go-Go" >}}<br>
 
 ### More Videos
 
-- [Joe Strummer & the Mescaleros - Global A Go-Go](https://www.youtube.com/watch?v=nmyKLpVM98Q)
 - [Joe Strummer & The Mescaleros - Mondo Bongo](https://www.youtube.com/watch?v=_B9OaJIFumg)
+- [Joe Strummer Johnny Appleseed](https://www.youtube.com/watch?v=9pYwPc6UNmo)
 - [Joe Strummer & The Mescaleros - Cool 'n' Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
 - [Joe Strummer & the Mescaleros - Mega Bottle Ride](https://www.youtube.com/watch?v=PJs2R-DWEMo)
 

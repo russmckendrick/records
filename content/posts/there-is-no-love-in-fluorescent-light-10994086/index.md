@@ -40,8 +40,8 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 
 
 ## Videos
-### Wanderers
-{{< youtube id="Sr5i0Ej2Ofg" title="Wanderers" >}}<br>
+### Losing To You
+{{< youtube id="lPYmAYU5Nug" title="Losing To You" >}}<br>
 
 ### More Videos
 
@@ -50,10 +50,10 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 - [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
 - [California, I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
 - [Stars - Real Thing (Official Audio)](https://www.youtube.com/watch?v=xm-vMmgKL68)
-- [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
 - [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
 - [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
 - [Stars - Alone (Official Audio)](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
+- [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
 - [Fluorescent Light](https://www.youtube.com/watch?v=UItCDy8ARYA)
 - [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
 

@@ -43,18 +43,18 @@ styles: ["Ska"]
 
 
 ## Videos
-### Madness - In The Middle Of The Night (One Step Beyond Track 8)
-{{< youtube id="gy9cYib432w" title="Madness - In The Middle Of The Night (One Step Beyond Track 8)" >}}<br>
+### Madness - Night Boat to Cairo (Official HD Video)
+{{< youtube id="lLLL1KxpYMA" title="Madness - Night Boat to Cairo (Official HD Video)" >}}<br>
 
 ### More Videos
 
 - [Madness - One Step Beyond (Official 4k Video)](https://www.youtube.com/watch?v=SOJSM46nWwo)
 - [Madness - My Girl (Official Video)](https://www.youtube.com/watch?v=Pw-8AGRcyvk)
-- [Madness - Night Boat to Cairo (Official HD Video)](https://www.youtube.com/watch?v=lLLL1KxpYMA)
 - [Madness - Believe Me (One Step Beyond Track 4)](https://www.youtube.com/watch?v=XV2w7Wt5mD8)
 - [Madness - Land Of Hope And Glory (One Step Beyond Track 5)](https://www.youtube.com/watch?v=-RLfJ9cx2IA)
 - [Madness - The Prince (One Step Beyond Track 6)](https://www.youtube.com/watch?v=mJsUblCxuJY)
 - [Madness - Tarzan's Nuts (One Step Beyond Track 7)](https://www.youtube.com/watch?v=W2avJpYBuE4)
+- [Madness - In The Middle Of The Night (One Step Beyond Track 8)](https://www.youtube.com/watch?v=gy9cYib432w)
 - [Madness - Bed and Breakfast Man](https://www.youtube.com/watch?v=IRANzd9a6l4)
 - [Madness - Razor Blade Alley (One Step Beyond Track 10)](https://www.youtube.com/watch?v=MGN3k1_4wVs)
 - [Madness - Swan Lake (One Step Beyond Track 11)](https://www.youtube.com/watch?v=Y94klcdpojQ)

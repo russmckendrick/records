@@ -38,13 +38,13 @@ styles: ["New Wave", "Pop Rock"]
 
 
 ## Videos
-### Men At Work - Who Can It Be Now? (Video Version)
-{{< youtube id="SECVGN4Bsgg" title="Men At Work - Who Can It Be Now? (Video Version)" >}}<br>
+### Men At Work - Be Good Johnny (Official Music Video)
+{{< youtube id="74dvJVwGA6Y" title="Men At Work - Be Good Johnny (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [Men At Work - Down Under (Video)](https://www.youtube.com/watch?v=XfR9iY5y94s)
-- [Men At Work - Be Good Johnny (Official Music Video)](https://www.youtube.com/watch?v=74dvJVwGA6Y)
+- [Men At Work - Who Can It Be Now? (Video Version)](https://www.youtube.com/watch?v=SECVGN4Bsgg)
 
 
 ## Release Information

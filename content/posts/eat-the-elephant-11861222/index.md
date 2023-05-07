@@ -41,13 +41,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### A Perfect Circle - Disillusioned [Official Video]
-{{< youtube id="BIsH686xWl0" title="A Perfect Circle - Disillusioned [Official Video]" >}}<br>
+### A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)
+{{< youtube id="mdcdxpn0JHY" title="A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)" >}}<br>
 
 ### More Videos
 
-- [A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)](https://www.youtube.com/watch?v=mdcdxpn0JHY)
 - [A Perfect Circle - So Long, And Thanks For All The Fish (Official Video)](https://www.youtube.com/watch?v=UkHSmDxX1t4)
+- [A Perfect Circle - Disillusioned [Official Video]](https://www.youtube.com/watch?v=BIsH686xWl0)
 - [A Perfect Circle - TalkTalk](https://www.youtube.com/watch?v=-aOyAvbj2Fg)
 - [A Perfect Circle - The Doomed [Official Video]](https://www.youtube.com/watch?v=SDvfbvuJtS8)
 - [A Perfect Circle - By And Down The River [Audio]](https://www.youtube.com/watch?v=IL2N7d4WXzw)

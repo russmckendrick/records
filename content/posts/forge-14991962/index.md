@@ -37,13 +37,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Everyone Is Guilty To Me
-{{< youtube id="9fMOGTcoc1w" title="Everyone Is Guilty To Me" >}}<br>
+### Forge
+{{< youtube id="nOz-mJlc5BA" title="Forge" >}}<br>
 
 ### More Videos
 
-- [Forge](https://www.youtube.com/watch?v=nOz-mJlc5BA)
 - [Perfectly Planned](https://www.youtube.com/watch?v=Yo1eSTQ8Clc)
+- [Everyone Is Guilty To Me](https://www.youtube.com/watch?v=9fMOGTcoc1w)
 - [Migraine](https://www.youtube.com/watch?v=MU_QGJUgGtM)
 
 

@@ -39,15 +39,15 @@ styles: ["New Wave", "Soul"]
 
 
 ## Videos
-### Geno (2000 Remaster)
-{{< youtube id="kv3iOVO0DWE" title="Geno (2000 Remaster)" >}}<br>
+### Dexys Midnight Runners I'm Just Looking
+{{< youtube id="ohhwKf2xQwg" title="Dexys Midnight Runners I'm Just Looking" >}}<br>
 
 ### More Videos
 
 - [Burn It Down (2000 Remaster)](https://www.youtube.com/watch?v=IV6WFnLUl10)
 - [Dexys Midnight Runners     -    Tell Me When My Light Turns Green](https://www.youtube.com/watch?v=5mYxZUJt4xc)
 - [The Teams That Meet in Caffs (2000 Remaster)](https://www.youtube.com/watch?v=JUp2m6kzn_0)
-- [Dexys Midnight Runners I'm Just Looking](https://www.youtube.com/watch?v=ohhwKf2xQwg)
+- [Geno (2000 Remaster)](https://www.youtube.com/watch?v=kv3iOVO0DWE)
 - [Dexys Midnight Runners - Seven Days Too Long](https://www.youtube.com/watch?v=9yfZMEFt4j4)
 - [I Couldn't Help It If I Tried (2000 Remaster)](https://www.youtube.com/watch?v=1bl7iiJ3pc0)
 - [Thankfully Not Living in Yorkshire It Doesn't Apply (2000 Remaster)](https://www.youtube.com/watch?v=PJqz2QpK1QE)

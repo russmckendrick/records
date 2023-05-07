@@ -46,16 +46,16 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Born In A Hurricane
-{{< youtube id="cihKxslHy2o" title="Crippled Black Phoenix - Born In A Hurricane" >}}<br>
+### Crippled Black Phoenix - Laying Traps (official video)
+{{< youtube id="-hww41CRS0E" title="Crippled Black Phoenix - Laying Traps (official video)" >}}<br>
 
 ### More Videos
 
 - [Crippled Black Phoenix - The Heart Of Every Country (album version)](https://www.youtube.com/watch?v=SLiR_MT6toQ)
 - [Crippled Black Phoenix - The Brain / Poznan](https://www.youtube.com/watch?v=MSg917RuF_k)
 - [Crippled Black Phoenix - Faced With Complete Failure, Utter Defiance Is the Only Response](https://www.youtube.com/watch?v=x_-bDI5VBCE)
-- [Crippled Black Phoenix - Laying Traps (official video)](https://www.youtube.com/watch?v=-hww41CRS0E)
 - [Crippled Black Phoenix - A Letter Concerning Dogheads](https://www.youtube.com/watch?v=MQfypm8ZDgo)
+- [Crippled Black Phoenix - Born In A Hurricane](https://www.youtube.com/watch?v=cihKxslHy2o)
 
 
 ## Release Information

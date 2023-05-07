@@ -52,16 +52,16 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Charmed Life
-{{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}<br>
+### Don't Make Me Go Outside
+{{< youtube id="V-dtd_d9ILM" title="Don't Make Me Go Outside" >}}<br>
 
 ### More Videos
 
+- [Charmed Life](https://www.youtube.com/watch?v=m4mwCkOLi9Y)
 - [A Lady of a Certain Age](https://www.youtube.com/watch?v=_dDFCWsGfzQ)
 - [Our Mutual Friend](https://www.youtube.com/watch?v=_bM563xi6pU)
 - [The Certainty Of Chance](https://www.youtube.com/watch?v=8PzExXVXo8g)
 - [I'll Take What I Can Get](https://www.youtube.com/watch?v=_RbhKgTh8CY)
-- [Don't Make Me Go Outside](https://www.youtube.com/watch?v=V-dtd_d9ILM)
 - [Who Do You Think You Are](https://www.youtube.com/watch?v=XgXPQ_qNOSw)
 - [The Adventurous Type](https://www.youtube.com/watch?v=xW3sG3HK3OA)
 - [When When When](https://www.youtube.com/watch?v=g4R-xZ6C-Mc)

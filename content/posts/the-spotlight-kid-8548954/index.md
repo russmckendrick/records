@@ -38,13 +38,13 @@ styles: ["Blues Rock", "Avantgarde"]
 
 
 ## Videos
-### Captain Beefheart - Glider (1972)
-{{< youtube id="jrRedf-yZ2Q" title="Captain Beefheart - Glider (1972)" >}}<br>
+### C̤a̤pt̤a̤i̤n̤ B̤e̤e̤f̤h̤e̤a̤r̤t̤ - The Spotli̤ght̤ Kid *** full album ***
+{{< youtube id="zOqHNEKl91c" title="C̤a̤pt̤a̤i̤n̤ B̤e̤e̤f̤h̤e̤a̤r̤t̤ - The Spotli̤ght̤ Kid *** full album ***" >}}<br>
 
 ### More Videos
 
 - [Captain Beefheart - Alice In Blunderland](https://www.youtube.com/watch?v=3i0wU9HsCE0)
-- [C̤a̤pt̤a̤i̤n̤ B̤e̤e̤f̤h̤e̤a̤r̤t̤ - The Spotli̤ght̤ Kid *** full album ***](https://www.youtube.com/watch?v=zOqHNEKl91c)
+- [Captain Beefheart - Glider (1972)](https://www.youtube.com/watch?v=jrRedf-yZ2Q)
 - [Captain Beefheart - Click Clack](https://www.youtube.com/watch?v=uNyOr4h2ZLw)
 - [Captain Beefheart - I'm Gonna Booglarize You Baby](https://www.youtube.com/watch?v=xiJVac8bCH8)
 

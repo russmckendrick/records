@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### 04   Much Against Everyone's Advice - Soulwax
-{{< youtube id="Jm7N789FXUg" title="04   Much Against Everyone's Advice - Soulwax" >}}<br>
+### soulwax - my cruel joke
+{{< youtube id="rW7UzZ9sqKc" title="soulwax - my cruel joke" >}}<br>
 
 ### More Videos
 
@@ -48,12 +48,12 @@ styles: ["Alternative Rock"]
 - [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
 - [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
 - [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
+- [04   Much Against Everyone's Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
 - [Funny](https://www.youtube.com/watch?v=eNimQu7lx40)
 - [When Logics Die](https://www.youtube.com/watch?v=x5hVMKDpMnU)
 - [Conversation Intercom](https://www.youtube.com/watch?v=7yx7uoojLM0)
 - [Soulwax - Saturday](https://www.youtube.com/watch?v=Dxq9VnAoV9A)
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
-- [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
 
 
 ## Release Information

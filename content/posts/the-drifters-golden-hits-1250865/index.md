@@ -40,8 +40,8 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### The Drifters - Under the Boardwalk - Stereo LP - HQ
-{{< youtube id="PAIiYJQNSnY" title="The Drifters - Under the Boardwalk - Stereo LP - HQ" >}}<br>
+### The Drifters  There Goes My Baby
+{{< youtube id="ehFWRG5gHyI" title="The Drifters  There Goes My Baby" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [This Magic Moment](https://www.youtube.com/watch?v=a4PPUp6XS5I)
 - [I Count The Tears --The Drifters](https://www.youtube.com/watch?v=b-D4SqUDS0M)
 - [The Drifters - On Broadway (1963)](https://www.youtube.com/watch?v=o_djfcdMSG0)
-- [The Drifters  There Goes My Baby](https://www.youtube.com/watch?v=ehFWRG5gHyI)
+- [The Drifters - Under the Boardwalk - Stereo LP - HQ](https://www.youtube.com/watch?v=PAIiYJQNSnY)
 - [The Drifters - I've Got Sand In My Shoes - Stereo LP - HQ](https://www.youtube.com/watch?v=dWoC8puTaoM)
 - [1959 HITS ARCHIVE: (If You Cry) True Love, True Love - Drifters](https://www.youtube.com/watch?v=oRpkU1e_LYk)
 - [The Drifters - On Broadway - Stereo LP - HQ](https://www.youtube.com/watch?v=KUMvG0yNPtY)

@@ -42,11 +42,12 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### The Interrupters - Anything Was Better (Lyric Video)
-{{< youtube id="KWvN78Z8YU8" title="The Interrupters - Anything Was Better (Lyric Video)" >}}<br>
+### Alien
+{{< youtube id="wijkVQ4ela8" title="Alien" >}}<br>
 
 ### More Videos
 
+- [The Interrupters - Anything Was Better (Lyric Video)](https://www.youtube.com/watch?v=KWvN78Z8YU8)
 - [The Interrupters - Raised By Wolves](https://www.youtube.com/watch?v=GqjUHB6hf9s)
 - [The Interrupters - As We Live (feat. Tim Armstrong & Rhoda Dakar) (Lyric Video)](https://www.youtube.com/watch?v=raC0Hy_k1a8)
 - [Raised By Wolves](https://www.youtube.com/watch?v=8Q4iMc0E6TY)
@@ -60,7 +61,6 @@ styles: ["Punk", "Ska"]
 - [Burdens (feat. Alex Désert & Greg Lee of Hepcat)](https://www.youtube.com/watch?v=xI7GUxAgPV0)
 - [Love Never Dies (feat. The Skints)](https://www.youtube.com/watch?v=O40oAztngLA)
 - [Afterthought](https://www.youtube.com/watch?v=d7IN2vVQ-Go)
-- [Alien](https://www.youtube.com/watch?v=wijkVQ4ela8)
 
 
 ## Release Information

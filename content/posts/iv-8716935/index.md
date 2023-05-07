@@ -39,15 +39,15 @@ styles: []
 
 
 ## Videos
-### BADBADNOTGOOD - In Your Eyes (Feat. Charlotte Day Wilson) (Official Stream)
-{{< youtube id="-PCauQozne0" title="BADBADNOTGOOD - In Your Eyes (Feat. Charlotte Day Wilson) (Official Stream)" >}}<br>
+### BADBADNOTGOOD - Speaking Gently (Official Stream)
+{{< youtube id="fafBo42s_Ss" title="BADBADNOTGOOD - Speaking Gently (Official Stream)" >}}<br>
 
 ### More Videos
 
 - [BADBADNOTGOOD - 'IV' LP (Full Album Stream)](https://www.youtube.com/watch?v=lstVQxf0p3Y)
-- [BADBADNOTGOOD - Speaking Gently (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
 - [BADBADNOTGOOD - Up (IV Bonus Track - Japan Edition)](https://www.youtube.com/watch?v=VwVX172N3OQ)
 - [BADBADNOTGOOD - Time Moves Slow feat. Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
+- [BADBADNOTGOOD - In Your Eyes (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
 - [BADBADNOTGOOD -  Hyssop of Love (featuring Mick Jenkins)](https://www.youtube.com/watch?v=t4cI5zNfNb0)
 - [BADBADNOTGOOD Lavender (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
 

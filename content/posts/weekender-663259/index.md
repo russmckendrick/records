@@ -29,8 +29,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Flowered Up - Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) [Heavenly] 1992
-{{< youtube id="nblT-P5NIkc" title="Flowered Up - Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) [Heavenly] 1992" >}}<br>
+### FLOWERED UP .......WEEKENDER FULL VERSION
+{{< youtube id="TdLqoZSsd_U" title="FLOWERED UP .......WEEKENDER FULL VERSION" >}}<br>
 
 ### More Videos
 
@@ -44,9 +44,9 @@ styles: ["Indie Rock"]
 - [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
 - [Flowered Up - Weatherall's Weekender (Audrey Is A Little Bit Partial Mix)](https://www.youtube.com/watch?v=UO-9SVSAPAM)
 - [Flowered Up - Weekender (12 version)](https://www.youtube.com/watch?v=Gn2GYzJjR2I)
+- [Flowered Up - Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) [Heavenly] 1992](https://www.youtube.com/watch?v=nblT-P5NIkc)
 - [Flowered Up - Cracker Jack](https://www.youtube.com/watch?v=48V6cC2v5tY)
 - [Flowered Up - Weekender](https://www.youtube.com/watch?v=IDJpF3ZWTn0)
-- [FLOWERED UP .......WEEKENDER FULL VERSION](https://www.youtube.com/watch?v=TdLqoZSsd_U)
 - [Flowered Up - Enough's Enough - Weekender 12](https://www.youtube.com/watch?v=iNNu2Aca9Uc)
 
 

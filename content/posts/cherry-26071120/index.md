@@ -29,13 +29,13 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Curve - Cherry
-{{< youtube id="DJukLbmHqxY" title="Curve - Cherry" >}}<br>
+### Curve - Clipped
+{{< youtube id="bpJhXTkenIU" title="Curve - Clipped" >}}<br>
 
 ### More Videos
 
 - [Curve - I speak your every word](https://www.youtube.com/watch?v=OTUS6N9OWYY)
-- [Curve - Clipped](https://www.youtube.com/watch?v=bpJhXTkenIU)
+- [Curve - Cherry](https://www.youtube.com/watch?v=DJukLbmHqxY)
 - [Curve - Galaxy](https://www.youtube.com/watch?v=CVpabyzgM-Q)
 - [Curve - Die like a dog](https://www.youtube.com/watch?v=Qf1sy002-lc)
 

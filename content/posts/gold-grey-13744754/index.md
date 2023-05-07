@@ -45,14 +45,14 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 
 ## Videos
-### BARONESS - Tourniquet [Official Music Video]
-{{< youtube id="RQeAvbTVWiU" title="BARONESS - Tourniquet [Official Music Video]" >}}<br>
+### BARONESS - Seasons [OFFICIAL]
+{{< youtube id="k3n8RBaUMpc" title="BARONESS - Seasons [OFFICIAL]" >}}<br>
 
 ### More Videos
 
 - [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
-- [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
 - [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
+- [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 
 
 ## Release Information

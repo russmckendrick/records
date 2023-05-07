@@ -43,8 +43,8 @@ styles: ["Conscious"]
 
 
 ## Videos
-### Blues Happy
-{{< youtube id="kWSKhBd2HVM" title="Blues Happy" >}}<br>
+### U
+{{< youtube id="F_oaU12n-d8" title="U" >}}<br>
 
 ### More Videos
 
@@ -55,11 +55,11 @@ styles: ["Conscious"]
 - [Arrested Development - Mr. Wendal](https://www.youtube.com/watch?v=GfxvsHpTZWk)
 - [Mama's Always On Stage](https://www.youtube.com/watch?v=4rYpFKBzGS4)
 - [People Everyday](https://www.youtube.com/watch?v=eBpiJysWvK8)
+- [Blues Happy](https://www.youtube.com/watch?v=kWSKhBd2HVM)
 - [Children Play With Earth](https://www.youtube.com/watch?v=JXlmXGQRCKo)
 - [Raining Revolution](https://www.youtube.com/watch?v=UvXLuKZX2cc)
 - [Fishin' 4 Religion](https://www.youtube.com/watch?v=PkWSyNe9IUs)
 - [Give A Man A Fish](https://www.youtube.com/watch?v=EjyWKR8HFC8)
-- [U](https://www.youtube.com/watch?v=F_oaU12n-d8)
 - [Eve Of Reality](https://www.youtube.com/watch?v=0aXUsECPt4g)
 - [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)
 - [Washed Away](https://www.youtube.com/watch?v=lBzxAXAvbu8)

@@ -44,8 +44,8 @@ styles: ["Contemporary Jazz", "Fusion"]
 
 
 ## Videos
-### Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)
-{{< youtube id="ire-T-zfX6k" title="Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)" >}}<br>
+### Snarky Puppy - RL's (Empire Central)
+{{< youtube id="fyp0kcIYap0" title="Snarky Puppy - RL's (Empire Central)" >}}<br>
 
 ### More Videos
 
@@ -61,8 +61,8 @@ styles: ["Contemporary Jazz", "Fusion"]
 - [Snarky Puppy - Trinity (Extended Version) (Empire Central)](https://www.youtube.com/watch?v=CSiLPkUopBg)
 - [Snarky Puppy - Bet (Empire Central)](https://www.youtube.com/watch?v=fnWoFuh7ZuA)
 - [Snarky Puppy - Pineapple (Empire Central)](https://www.youtube.com/watch?v=RNTptTel610)
-- [Snarky Puppy - RL's (Empire Central)](https://www.youtube.com/watch?v=fyp0kcIYap0)
 - [Snarky Puppy - Belmont (Empire Central)](https://www.youtube.com/watch?v=dC3b3ul6dME)
+- [Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)](https://www.youtube.com/watch?v=ire-T-zfX6k)
 
 
 ## Release Information

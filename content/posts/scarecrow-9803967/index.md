@@ -39,8 +39,8 @@ styles: ["Southern Rock"]
 
 
 ## Videos
-### Justice And Independence '85
-{{< youtube id="JymtOGVZZNs" title="Justice And Independence '85" >}}<br>
+### Small Town
+{{< youtube id="_EO-6KpyYQ4" title="Small Town" >}}<br>
 
 ### More Videos
 
@@ -48,10 +48,10 @@ styles: ["Southern Rock"]
 - [Rain On The Scarecrow-John Cougar Mellencamp +Lyrics](https://www.youtube.com/watch?v=Me-YOqjTf9M)
 - [Rain On The Scarecrow](https://www.youtube.com/watch?v=Ea9IyrTDNXQ)
 - [Grandma's Theme](https://www.youtube.com/watch?v=ebeau6rE0cY)
-- [Small Town](https://www.youtube.com/watch?v=_EO-6KpyYQ4)
 - [Minutes To Memories](https://www.youtube.com/watch?v=ZD_2z-U6mAo)
 - [Lonely Ol' Night](https://www.youtube.com/watch?v=azZAeSKgWUE)
 - [The Face Of The Nation](https://www.youtube.com/watch?v=1PwnIinH6Qw)
+- [Justice And Independence '85](https://www.youtube.com/watch?v=JymtOGVZZNs)
 - [Between A Laugh And A Tear](https://www.youtube.com/watch?v=hJ3f_EnYtNI)
 - [Rumbleseat](https://www.youtube.com/watch?v=bbpKoiJ1Pz4)
 - [You've Got To Stand For Somethin'](https://www.youtube.com/watch?v=ia7kl-JjHn4)

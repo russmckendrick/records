@@ -39,8 +39,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### The Polyphonic Spree : What Would You Do? (OFFICIAL)
-{{< youtube id="f076lC2PWnQ" title="The Polyphonic Spree : What Would You Do? (OFFICIAL)" >}}<br>
+### The Polyphonic Spree : Let Them Be (OFFICIAL)
+{{< youtube id="YCZUpxMLC2w" title="The Polyphonic Spree : Let Them Be (OFFICIAL)" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [The Polyphonic Spree : Blurry Up The Lines (OFFICIAL)](https://www.youtube.com/watch?v=Qpvp0dfE9Z0)
 - [The Polyphonic Spree : Popular By Design (OFFICIAL)](https://www.youtube.com/watch?v=kEbT-Gw15_I)
 - [The Polyphonic Spree : Hold Yourself Up (OFFICIAL)](https://www.youtube.com/watch?v=CWaoEWyK5i4)
+- [The Polyphonic Spree : What Would You Do? (OFFICIAL)](https://www.youtube.com/watch?v=f076lC2PWnQ)
 - [The Polyphonic Spree : Raise Your Head (OFFICIAL)](https://www.youtube.com/watch?v=_7gNjOkszeQ)
-- [The Polyphonic Spree : Let Them Be (OFFICIAL)](https://www.youtube.com/watch?v=YCZUpxMLC2w)
 
 
 ## Release Information

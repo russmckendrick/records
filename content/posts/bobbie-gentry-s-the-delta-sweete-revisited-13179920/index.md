@@ -40,18 +40,18 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mercury Rev feat. Vashti Bunyan & Kaela Sinclair - Penduli Pendulum (Official Audio)
-{{< youtube id="fA0JqAGyHZk" title="Mercury Rev feat. Vashti Bunyan & Kaela Sinclair - Penduli Pendulum (Official Audio)" >}}<br>
+### Mercury Rev feat. Hope Sandoval - Big Boss Man (Official Audio)
+{{< youtube id="5RhTe6zfoys" title="Mercury Rev feat. Hope Sandoval - Big Boss Man (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Mercury Rev x Norah Jones - Okolona River Bottom Band](https://www.youtube.com/watch?v=eTOI4qhp3o0)
-- [Mercury Rev feat. Hope Sandoval - Big Boss Man (Official Audio)](https://www.youtube.com/watch?v=5RhTe6zfoys)
 - [Mercury Rev feat. Rachel Goswell - Reunion (Official Audio)](https://www.youtube.com/watch?v=5YwEH-jL770)
 - [Mercury Rev feat. Carice Van Houten - Parchman Farm (Official Audio)](https://www.youtube.com/watch?v=b01sU4Q-CRw)
 - [Mercury Rev feat. Laetitia Sadier - Mornin' Glory (Official Audio)](https://www.youtube.com/watch?v=uKmU75V3rsg)
 - [Mercury Rev feat. Margo Price - Sermon (Official Audio)](https://www.youtube.com/watch?v=MLnBmLCY3f8)
 - [Mercury Rev feat. Susanne Sundfør - Tobacco Road (Official Audio)](https://www.youtube.com/watch?v=fXbGxxIsa5k)
+- [Mercury Rev feat. Vashti Bunyan & Kaela Sinclair - Penduli Pendulum (Official Audio)](https://www.youtube.com/watch?v=fA0JqAGyHZk)
 - [Mercury Rev x Phoebe Bridgers - Jesseye' Lisabeth](https://www.youtube.com/watch?v=Ks-kqBgdz9M)
 - [Mercury Rev feat. Marissa Nadler - Refractions (Official Audio)](https://www.youtube.com/watch?v=2KwiCIBoPn0)
 - [Mercury Rev feat. Beth Orton - Courtyard (Official Audio)](https://www.youtube.com/watch?v=D94_Rm0jxQg)

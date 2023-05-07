@@ -39,12 +39,11 @@ styles: ["Hardcore Hip-Hop"]
 
 
 ## Videos
-### Run The Jewels - All Due Respect feat. Travis Barker (from the Run The Jewels 2 album)
-{{< youtube id="JNRXTETw9vI" title="Run The Jewels - All Due Respect feat. Travis Barker (from the Run The Jewels 2 album)" >}}<br>
+### Run The Jewels - Oh My Darling (Don't Cry) (Official Video)
+{{< youtube id="G-S9mtYowPY" title="Run The Jewels - Oh My Darling (Don't Cry) (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Run The Jewels - Oh My Darling (Don't Cry) (Official Video)](https://www.youtube.com/watch?v=G-S9mtYowPY)
 - [Run The Jewels - Blockbuster Night Part 1 (Official Video)](https://www.youtube.com/watch?v=uuWQyfGa1yI)
 - [Run The Jewels - Love Again (Akinyele Back) feat. Gangsta Boo (from the Run The Jewels 2 album)](https://www.youtube.com/watch?v=QkZurfE8Gbc)
 - [Run the Jewels - Lie, Cheat, Steal (Official Video)](https://www.youtube.com/watch?v=BEOximWoFd0)
@@ -53,6 +52,7 @@ styles: ["Hardcore Hip-Hop"]
 - [Run The Jewels - Early (Official Music Video from Run The Jewels 2)](https://www.youtube.com/watch?v=pJJyKlRxyvA)
 - [Run The Jewels - Jeopardy (from the Run The Jewels 2 album)](https://www.youtube.com/watch?v=6sRQ9q4hzv4)
 - [Run The Jewels - All My Life (from the Run The Jewels 2 album)](https://www.youtube.com/watch?v=ZtdRdbjgPBc)
+- [Run The Jewels - All Due Respect feat. Travis Barker (from the Run The Jewels 2 album)](https://www.youtube.com/watch?v=JNRXTETw9vI)
 - [Run The Jewels - Crown feat. Diane Coffee (from the Run The Jewels 2 album)](https://www.youtube.com/watch?v=XbZR9JhGJ0Q)
 - [Run The Jewels - Angel Duster (from the Run The Jewels 2 album)](https://www.youtube.com/watch?v=6MS-JqECvf4)
 - [Run The Jewels -- Love Again feat. Gangsta Boo (Official Music Video)](https://www.youtube.com/watch?v=XIR74qry3IM)

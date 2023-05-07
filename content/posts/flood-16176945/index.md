@@ -47,8 +47,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### We Want a Rock
-{{< youtube id="Jp8znvfYbow" title="We Want a Rock" >}}<br>
+### Minimum Wage
+{{< youtube id="SRcRn_Xv7Ek" title="Minimum Wage" >}}<br>
 
 ### More Videos
 
@@ -61,9 +61,9 @@ styles: ["Alternative Rock", "Pop Rock"]
 - [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
 - [Twisting](https://www.youtube.com/watch?v=j0jNgo6Ar4Q)
+- [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)
 - [Someone Keeps Moving My Chair](https://www.youtube.com/watch?v=5pud7rt4KhU)
 - [Hearing Aid](https://www.youtube.com/watch?v=wMF6Jpm5cvQ)
-- [Minimum Wage](https://www.youtube.com/watch?v=SRcRn_Xv7Ek)
 - [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
 - [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
 - [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)

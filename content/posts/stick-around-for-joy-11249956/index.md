@@ -38,18 +38,18 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Gold
-{{< youtube id="GMLOzVaiF0M" title="Gold" >}}<br>
+### Hetero Scum
+{{< youtube id="Tce1CYTUGio" title="Hetero Scum" >}}<br>
 
 ### More Videos
 
+- [Gold](https://www.youtube.com/watch?v=GMLOzVaiF0M)
 - [Hit](https://www.youtube.com/watch?v=8dGVEvlJ3JY)
 - [Leash Called Love](https://www.youtube.com/watch?v=n8lS3e4WfzM)
 - [Lucky Night](https://www.youtube.com/watch?v=qrSU_sEJwVM)
 - [Happy Nurse](https://www.youtube.com/watch?v=3qc3PMx9zOg)
 - [I'm Hungry](https://www.youtube.com/watch?v=3EXujmMAJfk)
 - [Walkabout](https://www.youtube.com/watch?v=NpvIj20Uo48)
-- [Hetero Scum](https://www.youtube.com/watch?v=Tce1CYTUGio)
 - [Vitamin](https://www.youtube.com/watch?v=o5SEHe_PrGI)
 - [Chihuahua](https://www.youtube.com/watch?v=09yDXvCRYmQ)
 

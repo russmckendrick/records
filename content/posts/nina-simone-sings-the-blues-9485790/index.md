@@ -39,8 +39,8 @@ styles: []
 
 
 ## Videos
-### nina simone- the house of the rising sun
-{{< youtube id="oAJnomVdtyo" title="nina simone- the house of the rising sun" >}}<br>
+### Blues for Mama
+{{< youtube id="n2rFOEGctUo" title="Blues for Mama" >}}<br>
 
 ### More Videos
 
@@ -48,12 +48,12 @@ styles: []
 - [Nina Simone - In The Dark](https://www.youtube.com/watch?v=HmANmf7fXUI)
 - [Nina Simone -  Day and Night (1967)](https://www.youtube.com/watch?v=RgHAMtqHE8M)
 - [Nina Simone - I Want A Little Sugar In My Bowl (Audio)](https://www.youtube.com/watch?v=Sg384whVQzc)
-- [Blues for Mama](https://www.youtube.com/watch?v=n2rFOEGctUo)
 - [The House of the Rising Sun](https://www.youtube.com/watch?v=kqAGukwhkqA)
 - [My Man's Gone Now](https://www.youtube.com/watch?v=Flt1Q131fQE)
 - [Backlash Blues](https://www.youtube.com/watch?v=h1e29ZfU7JE)
 - [Buck](https://www.youtube.com/watch?v=wlSpsFPtqTs)
 - [Since I Fell for You](https://www.youtube.com/watch?v=3OoZy3q5Tkw)
+- [nina simone- the house of the rising sun](https://www.youtube.com/watch?v=oAJnomVdtyo)
 
 
 ## Release Information

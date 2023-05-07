@@ -40,8 +40,8 @@ styles: ["Grunge"]
 
 
 ## Videos
-### Mind Riot
-{{< youtube id="l4CrtxwsxYE" title="Mind Riot" >}}<br>
+### Room A Thousand Years Wide
+{{< youtube id="p4nNvXvrWlE" title="Room A Thousand Years Wide" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Grunge"]
 - [Soundgarden - Jesus Christ Pose (Official Music Video)](https://www.youtube.com/watch?v=14r7y6rM6zA)
 - [Soundgarden - Outshined](https://www.youtube.com/watch?v=sNh-iw7gsuI)
 - [Searching With My Good Eye Closed](https://www.youtube.com/watch?v=fzPr8iDB8gk)
+- [Mind Riot](https://www.youtube.com/watch?v=l4CrtxwsxYE)
 - [Holy Water](https://www.youtube.com/watch?v=gFtFdUOIalk)
-- [Room A Thousand Years Wide](https://www.youtube.com/watch?v=p4nNvXvrWlE)
 
 
 ## Release Information

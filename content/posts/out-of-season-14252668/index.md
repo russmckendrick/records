@@ -38,8 +38,8 @@ styles: ["Downtempo", "Folk Rock"]
 
 
 ## Videos
-### Beth Gibbons & Rustin Man-Resolve
-{{< youtube id="wIu9G0e1MbA" title="Beth Gibbons & Rustin Man-Resolve" >}}<br>
+### Beth Gibbons & Rustin Man-Rustin Man
+{{< youtube id="XwW88xMH15c" title="Beth Gibbons & Rustin Man-Rustin Man" >}}<br>
 
 ### More Videos
 
@@ -49,9 +49,9 @@ styles: ["Downtempo", "Folk Rock"]
 - [Beth Gibbons & Rustin Man-Romance](https://www.youtube.com/watch?v=B_Tb0Xt9fgo)
 - [Beth Gibbons & Rustin Man-Sand River](https://www.youtube.com/watch?v=k56Lcg-KJug)
 - [Beth Gibbons & Rustin Man-Spider Monkey](https://www.youtube.com/watch?v=meDp4uXD7Ig)
+- [Beth Gibbons & Rustin Man-Resolve](https://www.youtube.com/watch?v=wIu9G0e1MbA)
 - [Beth Gibbons & Rustin Man-Drake](https://www.youtube.com/watch?v=4gXY_UrDSqU)
 - [Beth Gibbons & Rustin Man-Funny Time Of Year](https://www.youtube.com/watch?v=KnOzR2Qo0Kc)
-- [Beth Gibbons & Rustin Man-Rustin Man](https://www.youtube.com/watch?v=XwW88xMH15c)
 - [Beth Gibbons & Rustin Man-Spider Monkey (Live 11-11-2002)](https://www.youtube.com/watch?v=KjWY9M_1Cgw)
 - [Beth Gibbons & Rustin Man-Tom The Model (Live 11-11-2002)](https://www.youtube.com/watch?v=IBKp42WKxEI)
 - [Beth Gibbons & Rustin Man-Funny Time Of Year (Live 11-11-2002)](https://www.youtube.com/watch?v=yUVh44DKWGU)

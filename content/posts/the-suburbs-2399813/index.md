@@ -44,8 +44,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)
-{{< youtube id="tGVFjGjeyQM" title="Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)" >}}<br>
+### Arcade Fire - Suburban War (Official Lyric Video)
+{{< youtube id="KpWqfrX9908" title="Arcade Fire - Suburban War (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,6 @@ styles: ["Indie Rock"]
 - [Arcade Fire - Ready to Start (Official Video)](https://www.youtube.com/watch?v=9oI27uSzxNQ)
 - [Arcade Fire - The Suburbs (Official Video)](https://www.youtube.com/watch?v=5Euj9f3gdyM)
 - [Arcade Fire - Rococo (Official Lyric Video)](https://www.youtube.com/watch?v=ly65sLPIKVw)
-- [Arcade Fire - Suburban War (Official Lyric Video)](https://www.youtube.com/watch?v=KpWqfrX9908)
 - [Arcade Fire - Empty Room (Official Lyric Video)](https://www.youtube.com/watch?v=qutEvlHaCHE)
 - [Arcade Fire - We Used to Wait (Official Lyric Video)](https://www.youtube.com/watch?v=xQuUN1HGa0c)
 - [Arcade Fire - City with No Children (Official Lyric Video)](https://www.youtube.com/watch?v=MkgcAmT5Io0)
@@ -63,6 +62,7 @@ styles: ["Indie Rock"]
 - [Arcade Fire - Sprawl I (Flatland) (Official Lyric Video)](https://www.youtube.com/watch?v=OQlpJ-ZgEH4)
 - [Arcade Fire - Wasted Hours (Official Lyric Video)](https://www.youtube.com/watch?v=OI0IKf_VXYk)
 - [Arcade Fire - Month of May (Official Lyric Video)](https://www.youtube.com/watch?v=eNINCykhR3I)
+- [Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)](https://www.youtube.com/watch?v=tGVFjGjeyQM)
 - [Arcade Fire - Half Light I (Official Lyric Video)](https://www.youtube.com/watch?v=qrwCeUqB8CU)
 
 

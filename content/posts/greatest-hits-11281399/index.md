@@ -40,17 +40,17 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 
 
 ## Videos
-### M'Lady
-{{< youtube id="ZZ-MtP_LDXU" title="M'Lady" >}}<br>
+### Stand!
+{{< youtube id="Al0WUPn_CnM" title="Stand!" >}}<br>
 
 ### More Videos
 
 - [Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)](https://www.youtube.com/watch?v=Bg0tFRea0wA)
 - [Sly & The Family Stone - Everybody Is a Star (Official Audio)](https://www.youtube.com/watch?v=3-1s2gqDs_U)
-- [Stand!](https://www.youtube.com/watch?v=Al0WUPn_CnM)
 - [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
 - [Everyday People](https://www.youtube.com/watch?v=bsxM-zuKdmQ)
 - [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)
+- [M'Lady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
 
 
 ## Release Information

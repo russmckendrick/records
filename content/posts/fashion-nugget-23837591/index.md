@@ -42,15 +42,15 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Open Book
-{{< youtube id="0lrg1W7-zHo" title="Open Book" >}}<br>
+### Cake-Frank Sinatra from Fashion Nugget
+{{< youtube id="aAkWJmoL8KQ" title="Cake-Frank Sinatra from Fashion Nugget" >}}<br>
 
 ### More Videos
 
-- [Cake-Frank Sinatra from Fashion Nugget](https://www.youtube.com/watch?v=aAkWJmoL8KQ)
 - [CAKE - The Distance (Official HD Video)](https://www.youtube.com/watch?v=F_HoMkkRHv8)
 - [Cake-The Distance from Fashion Nugget](https://www.youtube.com/watch?v=GORDBKl8ibY)
 - [Cake-Friend Is a Four Letter Word  from Fashion Nugget](https://www.youtube.com/watch?v=Pj1Kx7AI_rw)
+- [Open Book](https://www.youtube.com/watch?v=0lrg1W7-zHo)
 - [Cake-Daria from Fashion Nugget](https://www.youtube.com/watch?v=avjMKjvUicE)
 - [Cake-Race Car Ya-Yas from Fashion Nugget](https://www.youtube.com/watch?v=cTIR270As1c)
 - [CAKE - I Will Survive (Official HD Video)](https://www.youtube.com/watch?v=f9rCUQjmkxU)

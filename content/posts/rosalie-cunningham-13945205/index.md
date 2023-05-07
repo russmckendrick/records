@@ -36,12 +36,12 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)
-{{< youtube id="BC2_2Bhd7lo" title="Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)" >}}<br>
+### Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO
+{{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}<br>
 
 ### More Videos
 
-- [Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=KYB4HyH_GPU)
+- [Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
 
 
 ## Release Information

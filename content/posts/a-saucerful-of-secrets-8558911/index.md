@@ -35,12 +35,12 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### Pink Floyd - A Saucerful Of Secrets (Full Album)
-{{< youtube id="rmmuHnXLJiw" title="Pink Floyd - A Saucerful Of Secrets (Full Album)" >}}<br>
+### Pink Floyd  - A Saucerful Of Secrets (Official Audio)
+{{< youtube id="F2r_6FfdQ2I" title="Pink Floyd  - A Saucerful Of Secrets (Official Audio)" >}}<br>
 
 ### More Videos
 
-- [Pink Floyd  - A Saucerful Of Secrets (Official Audio)](https://www.youtube.com/watch?v=F2r_6FfdQ2I)
+- [Pink Floyd - A Saucerful Of Secrets (Full Album)](https://www.youtube.com/watch?v=rmmuHnXLJiw)
 
 
 ## Release Information

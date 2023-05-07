@@ -80,13 +80,14 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 
 
 ## Videos
-### Buena Vista Social Club - El Cuarto De Tula (Official Video)
-{{< youtube id="CYxv6N_gUhE" title="Buena Vista Social Club - El Cuarto De Tula (Official Video)" >}}<br>
+### Buena Vista Social Club - Murmullo (Official Audio)
+{{< youtube id="HbyAIfjCLMA" title="Buena Vista Social Club - Murmullo (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Buena Vista Social Club - Chan Chan (Official Audio)](https://www.youtube.com/watch?v=o5cELP06Mik)
 - [Buena Vista Social Club - Veinte Anos (Official Audio)](https://www.youtube.com/watch?v=d2vBh6_h7WE)
+- [Buena Vista Social Club - El Cuarto De Tula (Official Video)](https://www.youtube.com/watch?v=CYxv6N_gUhE)
 - [Buena Vista Social Club - Candela (Official Audio)](https://www.youtube.com/watch?v=4_7zkXv17QE)
 - [Buena Vista Social Club - De Camino a La Vereda (Official Audio)](https://www.youtube.com/watch?v=_RrVQ9mFjq8)
 - [Buena Vista Social Club - El Cuarto De Tula (Official Audio)](https://www.youtube.com/watch?v=gaKKELQWhbs)
@@ -96,7 +97,6 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 - [Buena Vista Social Club - El Carretero (Official Audio)](https://www.youtube.com/watch?v=VACtwLtDHd0)
 - [Buena Vista Social Club - Amor De Loca Juventud (Official Audio)](https://www.youtube.com/watch?v=RsSufRnVo2A)
 - [Buena Vista Social Club - Orgullecida (Official Audio)](https://www.youtube.com/watch?v=G00wyxo7UPE)
-- [Buena Vista Social Club - Murmullo (Official Audio)](https://www.youtube.com/watch?v=HbyAIfjCLMA)
 - [Buena Vista Social Club - Buena Vista Social Club (Official Audio)](https://www.youtube.com/watch?v=8TdC59g-u1U)
 - [Buena Vista Social Club - La Bayamesa (Official Audio)](https://www.youtube.com/watch?v=alB2Q2m64es)
 

@@ -40,17 +40,17 @@ styles: ["Ska"]
 
 
 ## Videos
-### My Next Door Neighbor
-{{< youtube id="2vFAqB9s-RE" title="My Next Door Neighbor" >}}<br>
+### Everybody Knows
+{{< youtube id="tZRq9KZEst4" title="Everybody Knows" >}}<br>
 
 ### More Videos
 
 - [The Specials - Freedom Highway](https://www.youtube.com/watch?v=wfSTXDOURFI)
-- [Everybody Knows](https://www.youtube.com/watch?v=tZRq9KZEst4)
 - [I Don't Mind Failing In This World](https://www.youtube.com/watch?v=OArAuPfDvWs)
 - [Black, Brown And White](https://www.youtube.com/watch?v=IxAP1uEMbvk)
 - [Ain’t Gonna Let Nobody Turn Us Around](https://www.youtube.com/watch?v=W7pu7D-msHw)
 - [Fuck All The Perfect People](https://www.youtube.com/watch?v=Yvbm7_SUi9Q)
+- [My Next Door Neighbor](https://www.youtube.com/watch?v=2vFAqB9s-RE)
 - [Trouble Every Day](https://www.youtube.com/watch?v=pUuhS14ZJuk)
 - [Listening Wind](https://www.youtube.com/watch?v=WqNAjMOO0ik)
 - [I Live In A City](https://www.youtube.com/watch?v=HoUOyF4SEss)

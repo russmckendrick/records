@@ -41,16 +41,16 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 
 
 ## Videos
-### Whale - We Care (1995)
-{{< youtube id="_qhaJRpOtSY" title="Whale - We Care (1995)" >}}<br>
+### Whale Kickin
+{{< youtube id="ktYTBY44O3E" title="Whale Kickin" >}}<br>
 
 ### More Videos
 
 - [Whale - Hobo Humpin Slobo Babe](https://www.youtube.com/watch?v=2up7su7CeMU)
-- [Whale Kickin](https://www.youtube.com/watch?v=ktYTBY44O3E)
 - [Whale - Pay for me](https://www.youtube.com/watch?v=QwujYHLJay4)
 - [I´ll do ya-Whale](https://www.youtube.com/watch?v=j-VjC6EgjzU)
 - [Whale - I'm Cold.wmv](https://www.youtube.com/watch?v=P0CCPs5FFAc)
+- [Whale - We Care (1995)](https://www.youtube.com/watch?v=_qhaJRpOtSY)
 
 
 ## Release Information

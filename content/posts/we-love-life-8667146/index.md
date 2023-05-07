@@ -39,8 +39,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### I Love Life
-{{< youtube id="dZAXCPsSNh0" title="I Love Life" >}}<br>
+### Birds In Your Garden
+{{< youtube id="Om7NdgInx-U" title="Birds In Your Garden" >}}<br>
 
 ### More Videos
 
@@ -55,8 +55,8 @@ styles: ["Indie Rock"]
 - [Wickerman](https://www.youtube.com/watch?v=dkFCUIxR5Nk)
 - [Wickerman](https://www.youtube.com/watch?v=T6W3xhkfDdI)
 - [I Love Life](https://www.youtube.com/watch?v=3TA5Sicjgws)
+- [I Love Life](https://www.youtube.com/watch?v=dZAXCPsSNh0)
 - [Birds In Your Garden](https://www.youtube.com/watch?v=gk1SX5CWuAc)
-- [Birds In Your Garden](https://www.youtube.com/watch?v=Om7NdgInx-U)
 - [Bob Lind (The Only Way Is Down)](https://www.youtube.com/watch?v=w_jltVnOuOk)
 - [Bob Lind (The Only Way Is Down)](https://www.youtube.com/watch?v=-ZpAU6l5kdE)
 - [Bad Cover Version](https://www.youtube.com/watch?v=znT-KFXReCA)

@@ -46,18 +46,18 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 
 
 ## Videos
-### Badly Drawn Boy - The Shining
-{{< youtube id="KNY-Pl1_ji0" title="Badly Drawn Boy - The Shining" >}}<br>
+### Badly Drawn Boy - Bewilder
+{{< youtube id="hHPYNEDK2Ew" title="Badly Drawn Boy - Bewilder" >}}<br>
 
 ### More Videos
 
+- [Badly Drawn Boy - The Shining](https://www.youtube.com/watch?v=KNY-Pl1_ji0)
 - [Badly Drawn Boy - Everybody's Stalking](https://www.youtube.com/watch?v=dlYsmqANxIo)
 - [Badly Drawn Boy - Another Pearl](https://www.youtube.com/watch?v=HYdE2-W1xfU)
 - [Badly Drawn Boy - Disillusion](https://www.youtube.com/watch?v=Haa7Vr0li5U)
 - [Badly Drawn Boy - Spitting In The Wind](https://www.youtube.com/watch?v=J0POI7qC0uc)
 - [Badly Drawn Boy -  'Once Around The Block'](https://www.youtube.com/watch?v=RPVAipmV7jY)
 - [Bewilderbeast](https://www.youtube.com/watch?v=8YwGcqtYRdI)
-- [Badly Drawn Boy - Bewilder](https://www.youtube.com/watch?v=hHPYNEDK2Ew)
 
 
 ## Release Information

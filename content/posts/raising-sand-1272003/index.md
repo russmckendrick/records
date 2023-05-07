@@ -41,8 +41,8 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Nothin'
-{{< youtube id="zrLmkbjgorU" title="Nothin'" >}}<br>
+### Fortune Teller
+{{< youtube id="7FFZkSpjPIo" title="Fortune Teller" >}}<br>
 
 ### More Videos
 
@@ -53,8 +53,8 @@ styles: ["Blues Rock"]
 - [Robert Plant & Alison Krauss - Through The Morning Through The Night](https://www.youtube.com/watch?v=AZjVCsSI0OM)
 - [Robert Plant & Alison Krauss - Please Read The Letter](https://www.youtube.com/watch?v=rjs0p5FWpzc)
 - [Trampled Rose](https://www.youtube.com/watch?v=9Ewg_bP20LI)
-- [Fortune Teller](https://www.youtube.com/watch?v=7FFZkSpjPIo)
 - [Stick with Me Baby](https://www.youtube.com/watch?v=0F-acIBDclE)
+- [Nothin'](https://www.youtube.com/watch?v=zrLmkbjgorU)
 - [Let Your Loss Be Your Lesson](https://www.youtube.com/watch?v=j1ztTFbyHmA)
 - [Robert Plant & Alison Krauss - Your Long Journey](https://www.youtube.com/watch?v=eG_rArV84iY)
 

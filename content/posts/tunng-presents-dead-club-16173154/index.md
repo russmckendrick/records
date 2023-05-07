@@ -40,12 +40,12 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 
 
 ## Videos
-### Tunng - Eating the Dead
-{{< youtube id="xvaz_moDEs4" title="Tunng - Eating the Dead" >}}<br>
+### tunng - A Million Colours [Official Video]
+{{< youtube id="voFaQHAgdhw" title="tunng - A Million Colours [Official Video]" >}}<br>
 
 ### More Videos
 
-- [tunng - A Million Colours [Official Video]](https://www.youtube.com/watch?v=voFaQHAgdhw)
+- [Tunng - Eating the Dead](https://www.youtube.com/watch?v=xvaz_moDEs4)
 - [The Last Day](https://www.youtube.com/watch?v=zijFWrWFYKo)
 
 

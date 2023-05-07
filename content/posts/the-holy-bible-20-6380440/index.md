@@ -106,14 +106,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mausoleum (Remastered)
-{{< youtube id="Ax4a8OXC4c4" title="Mausoleum (Remastered)" >}}<br>
+### She Is Suffering (Remastered)
+{{< youtube id="KAVEIsZnnvM" title="She Is Suffering (Remastered)" >}}<br>
 
 ### More Videos
 
 - [Yes (Remastered)](https://www.youtube.com/watch?v=4ZNGdD0Hxss)
-- [She Is Suffering (Remastered)](https://www.youtube.com/watch?v=KAVEIsZnnvM)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 03 Of Walking Abortion](https://www.youtube.com/watch?v=SBmptf5tvZo)
+- [Mausoleum (Remastered)](https://www.youtube.com/watch?v=Ax4a8OXC4c4)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 09 Faster](https://www.youtube.com/watch?v=Hp1N6YblCXg)
 - [Die in the Summertime (Remastered)](https://www.youtube.com/watch?v=jHtWXYXQzPs)
 - [Manic Street Preachers - The Holy Bible (Private Remaster) - 13 P.C.P.](https://www.youtube.com/watch?v=WypjUAa8xEM)

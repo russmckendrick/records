@@ -38,17 +38,17 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Off the Wall
-{{< youtube id="g0ViBH7m4XA" title="Off the Wall" >}}<br>
+### Michael Jackson - Rock With You (Official Video)
+{{< youtube id="5X-Mrc2l1d0" title="Michael Jackson - Rock With You (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)](https://www.youtube.com/watch?v=yURRmWtbTbo)
 - [Michael Jackson - Get On The Floor (Off The Wall) (CD Reissue)](https://www.youtube.com/watch?v=79Wx4wULXCM)
 - [michael jackson off the wall full album](https://www.youtube.com/watch?v=kbwt8E-pPEU)
-- [Michael Jackson - Rock With You (Official Video)](https://www.youtube.com/watch?v=5X-Mrc2l1d0)
 - [Workin' Day and Night](https://www.youtube.com/watch?v=zWaRajBJGiU)
 - [Get on the Floor](https://www.youtube.com/watch?v=bzb2He1C_UU)
+- [Off the Wall](https://www.youtube.com/watch?v=g0ViBH7m4XA)
 - [Girlfriend](https://www.youtube.com/watch?v=7He5c6PGDns)
 - [She's Out of My Life](https://www.youtube.com/watch?v=BtjO1gyBzPg)
 - [I Can't Help It](https://www.youtube.com/watch?v=_3h7wQxdM3A)

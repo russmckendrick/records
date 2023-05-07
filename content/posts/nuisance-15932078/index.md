@@ -42,13 +42,13 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### MENSWEAR-BEING BRAVE
-{{< youtube id="NO4_BjbLCqY" title="MENSWEAR-BEING BRAVE" >}}<br>
+### Menswear - Sleeping in
+{{< youtube id="vICR80UFv8g" title="Menswear - Sleeping in" >}}<br>
 
 ### More Videos
 
+- [MENSWEAR-BEING BRAVE](https://www.youtube.com/watch?v=NO4_BjbLCqY)
 - [Menswear - I'll Manage Somehow](https://www.youtube.com/watch?v=ix469VbXjjM)
-- [Menswear - Sleeping in](https://www.youtube.com/watch?v=vICR80UFv8g)
 - [Menswear - Daydreamer (Official Music Video)](https://www.youtube.com/watch?v=oRwlD6qyMF0)
 - [Menswear - Stardust (Official Video)](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 

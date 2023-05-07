@@ -36,13 +36,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Harvest for the World (2005 Remaster)
-{{< youtube id="08OhoybGUmw" title="Harvest for the World (2005 Remaster)" >}}<br>
+### Communication (2005 Remaster)
+{{< youtube id="bZtyEIP5_uE" title="Communication (2005 Remaster)" >}}<br>
 
 ### More Videos
 
 - [The Power Station - Some Like It Hot](https://www.youtube.com/watch?v=Hw1t7OCESUw)
-- [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
+- [Harvest for the World (2005 Remaster)](https://www.youtube.com/watch?v=08OhoybGUmw)
 - [The Power Station - Get It On (Bang A Gong)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
 

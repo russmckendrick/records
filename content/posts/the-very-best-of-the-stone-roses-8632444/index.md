@@ -43,12 +43,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Stone Roses - Complete D Side [ The Very Best Of..  LP ]
-{{< youtube id="KmY_D5ixBIg" title="The Stone Roses - Complete D Side [ The Very Best Of..  LP ]" >}}<br>
+### The Stone Roses - Ten Storey Love Song
+{{< youtube id="0uNLw3pXlVM" title="The Stone Roses - Ten Storey Love Song" >}}<br>
 
 ### More Videos
 
-- [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
 - [The Stone Roses - Begging You](https://www.youtube.com/watch?v=S1Ke19kxGp8)
 - [The Stone Roses - Begging You (audio only)](https://www.youtube.com/watch?v=KoPeS-8tgWo)
 - [The Stone Roses - Breaking into Heaven [Live]](https://www.youtube.com/watch?v=SrGGwovv_Lw)
@@ -59,6 +58,7 @@ styles: ["Indie Rock"]
 - [The Stone Roses - One Love (Official Video)](https://www.youtube.com/watch?v=60qyfdcAOGE)
 - [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
 - [The Stone Roses - Complete C Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
+- [The Stone Roses - Complete D Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=KmY_D5ixBIg)
 
 
 ## Release Information

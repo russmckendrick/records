@@ -31,12 +31,12 @@ styles: ["Garage Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### What in the World?? ... by The Dukes of Stratosphear REMASTERED
-{{< youtube id="fzaEsLgF3NQ" title="What in the World?? ... by The Dukes of Stratosphear REMASTERED" >}}<br>
+### Mole From The Ministry / The Dukes Of Stratosphear
+{{< youtube id="49q5FtQltzg" title="Mole From The Ministry / The Dukes Of Stratosphear" >}}<br>
 
 ### More Videos
 
-- [Mole From The Ministry / The Dukes Of Stratosphear](https://www.youtube.com/watch?v=49q5FtQltzg)
+- [What in the World?? ... by The Dukes of Stratosphear REMASTERED](https://www.youtube.com/watch?v=fzaEsLgF3NQ)
 - [The Dukes Of Stratosphear, The 25 O'Clock 1985 (vinyl record)](https://www.youtube.com/watch?v=P1zLrEH0evI)
 - [The Dukes of Stratosphear - 25 O'Clock](https://www.youtube.com/watch?v=xGF7o_I4mAw)
 

@@ -42,12 +42,12 @@ styles: ["Industrial"]
 
 
 ## Videos
-### The Downward Spiral
-{{< youtube id="9FNe7l3KkQU" title="The Downward Spiral" >}}<br>
+### Mr. Self Destruct
+{{< youtube id="lZY91ZsyHGw" title="Mr. Self Destruct" >}}<br>
 
 ### More Videos
 
-- [Mr. Self Destruct](https://www.youtube.com/watch?v=lZY91ZsyHGw)
+- [The Downward Spiral](https://www.youtube.com/watch?v=9FNe7l3KkQU)
 
 
 ## Release Information

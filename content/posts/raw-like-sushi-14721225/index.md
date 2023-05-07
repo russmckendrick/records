@@ -38,8 +38,8 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 
 
 ## Videos
-### Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)
-{{< youtube id="nwTzTY_53lI" title="Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)" >}}<br>
+### The Next Generation
+{{< youtube id="EMhqdgUgC-M" title="The Next Generation" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,6 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 - [Neneh Cherry - Kisses On The Wind](https://www.youtube.com/watch?v=J31Xh8-R3IY)
 - [Neneh Cherry - Inna City Mamma](https://www.youtube.com/watch?v=9K1BMRG0efw)
 - [Inna City Mamma](https://www.youtube.com/watch?v=j13Ah4O1E8I)
-- [The Next Generation](https://www.youtube.com/watch?v=EMhqdgUgC-M)
 - [Love Ghetto](https://www.youtube.com/watch?v=QaNPtKtUbjg)
 - [Neneh Cherry - Heart](https://www.youtube.com/watch?v=gexJL7-cEaw)
 - [Phoney Ladies](https://www.youtube.com/watch?v=HJR7P8Lu_cA)
@@ -79,6 +78,7 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 - [Inna City Mamma (Cold Blooded Remix)](https://www.youtube.com/watch?v=VejI0_xY6pE)
 - [Kisses On The Wind (12” Spanish Mix)](https://www.youtube.com/watch?v=QPnQSm_pFaw)
 - [Kisses On The Wind (Dynamic Duo + Latin Rascals Mix)](https://www.youtube.com/watch?v=zWSU6oZEiSQ)
+- [Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)](https://www.youtube.com/watch?v=nwTzTY_53lI)
 - [The Next Generation (The Rap One Mix)](https://www.youtube.com/watch?v=9NvyT-tDrcs)
 - [The Next Generation (Sub-Woofer Mix)](https://www.youtube.com/watch?v=1fagkxqDRm4)
 - [Neneh Cherry - Heart (Club Mix / Audio)](https://www.youtube.com/watch?v=fbUXFN9wT8I)

@@ -44,12 +44,12 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 
 
 ## Videos
-### 65daysofstatic - Monolith | No Man's Sky Soundtrack (Vinyl RIP)
-{{< youtube id="bK_SRAuem4Q" title="65daysofstatic - Monolith | No Man's Sky Soundtrack (Vinyl RIP)" >}}<br>
+### No Mans Sky - Escape Velocity - LP 2015
+{{< youtube id="RhC5a_sXayA" title="No Mans Sky - Escape Velocity - LP 2015" >}}<br>
 
 ### More Videos
 
-- [No Mans Sky - Escape Velocity - LP 2015](https://www.youtube.com/watch?v=RhC5a_sXayA)
+- [65daysofstatic - Monolith | No Man's Sky Soundtrack (Vinyl RIP)](https://www.youtube.com/watch?v=bK_SRAuem4Q)
 
 
 ## Release Information

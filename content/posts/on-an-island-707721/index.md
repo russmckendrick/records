@@ -38,12 +38,12 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Videos
-### David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)
-{{< youtube id="kEa__0wtIRo" title="David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)" >}}<br>
+### David Gilmour  -  The Blue
+{{< youtube id="oQYKM_Rgzho" title="David Gilmour  -  The Blue" >}}<br>
 
 ### More Videos
 
-- [David Gilmour  -  The Blue](https://www.youtube.com/watch?v=oQYKM_Rgzho)
+- [David Gilmour - On An Island feat. Crosby & Nash (Remember That Night)](https://www.youtube.com/watch?v=kEa__0wtIRo)
 - [David Gilmour - Smile (Remember That Night)](https://www.youtube.com/watch?v=F1owAiSYfPo)
 - [David Gilmour -Remember That Night, Live At The Royal Albert Hall - Full DVD](https://www.youtube.com/watch?v=vFNpNmIAp_M)
 

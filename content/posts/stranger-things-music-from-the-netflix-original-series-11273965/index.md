@@ -55,8 +55,8 @@ styles: []
 
 
 ## Videos
-### You Don't Mess Around With Jim
-{{< youtube id="iPfM-GROsZ8" title="You Don't Mess Around With Jim" >}}<br>
+### Cyndi Lauper - Time After Time (Official HD Video)
+{{< youtube id="VdQY7BusJNU" title="Cyndi Lauper - Time After Time (Official HD Video)" >}}<br>
 
 ### More Videos
 
@@ -74,9 +74,9 @@ styles: []
 - [Twist of Fate](https://www.youtube.com/watch?v=l64EyXcxvmo)
 - [The Psychedelic Furs - The Ghost in You (Official Video)](https://www.youtube.com/watch?v=T87u5yuUVi8)
 - [Toto - Africa (Official HD Video)](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+- [You Don't Mess Around With Jim](https://www.youtube.com/watch?v=iPfM-GROsZ8)
 - [Devo - Whip It (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=j_QLzthSkfM)
 - [Bon Jovi - Runaway (Official Music Video)](https://www.youtube.com/watch?v=s86K-p089R8)
-- [Cyndi Lauper - Time After Time (Official HD Video)](https://www.youtube.com/watch?v=VdQY7BusJNU)
 - [The Romantics - Talking in Your Sleep](https://www.youtube.com/watch?v=JmGMzyajA2U)
 - [Fad Gadget - Back To Nature](https://www.youtube.com/watch?v=7PySsErAILE)
 - [Rock You Like a Hurricane](https://www.youtube.com/watch?v=Ge3lXjKiWXQ)

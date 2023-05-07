@@ -37,8 +37,8 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 
 
 ## Videos
-### The Sadman
-{{< youtube id="8-faqEkqRuM" title="The Sadman" >}}<br>
+### Waves
+{{< youtube id="cPZDOuqzcng" title="Waves" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 - [Catch The Breeze](https://www.youtube.com/watch?v=5XMl7Mjrszg)
 - [Ballad Of Sister Sue](https://www.youtube.com/watch?v=6pPBdDqlpEE)
 - [Erik's Song](https://www.youtube.com/watch?v=r-ffBc1UcDc)
-- [Waves](https://www.youtube.com/watch?v=cPZDOuqzcng)
 - [Brighter](https://www.youtube.com/watch?v=q6h4fNits_Y)
+- [The Sadman](https://www.youtube.com/watch?v=8-faqEkqRuM)
 - [Primal](https://www.youtube.com/watch?v=xuiE4AMe6QM)
 
 

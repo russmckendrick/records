@@ -39,16 +39,16 @@ styles: []
 
 
 ## Videos
-### Read My Mind
-{{< youtube id="ZmbiD9SCF7w" title="Read My Mind" >}}<br>
+### Courage
+{{< youtube id="hX1kUBhmVAs" title="Courage" >}}<br>
 
 ### More Videos
 
+- [Read My Mind](https://www.youtube.com/watch?v=ZmbiD9SCF7w)
 - [Sour Flower](https://www.youtube.com/watch?v=BgirEShyrMg)
 - [Seven Times](https://www.youtube.com/watch?v=y12ZQbGGK_M)
 - [Please Don't Make Me Cry](https://www.youtube.com/watch?v=qwPJd6nQV9Y)
 - [Bittersweet (Full Length)](https://www.youtube.com/watch?v=AI4wVtrmMAc)
-- [Courage](https://www.youtube.com/watch?v=hX1kUBhmVAs)
 - [Green Papaya](https://www.youtube.com/watch?v=8KRgHWa8P90)
 
 

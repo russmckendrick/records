@@ -39,12 +39,12 @@ styles: []
 
 
 ## Videos
-### The Good, The Bad & The Queen - The Truce of Twilight (Official)
-{{< youtube id="vnRYapgm72k" title="The Good, The Bad & The Queen - The Truce of Twilight (Official)" >}}<br>
+### The Good, The Bad & The Queen - Ribbons (Official)
+{{< youtube id="8MGuYUBZZ3Q" title="The Good, The Bad & The Queen - Ribbons (Official)" >}}<br>
 
 ### More Videos
 
-- [The Good, The Bad & The Queen - Ribbons (Official)](https://www.youtube.com/watch?v=8MGuYUBZZ3Q)
+- [The Good, The Bad & The Queen - The Truce of Twilight (Official)](https://www.youtube.com/watch?v=vnRYapgm72k)
 - [The Good, The Bad & The Queen - The Poison Tree (Official)](https://www.youtube.com/watch?v=6g6qO3HxaKI)
 
 

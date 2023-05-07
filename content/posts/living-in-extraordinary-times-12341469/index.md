@@ -40,14 +40,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### James – The making of  ‘Living In Extraordinary Times’
-{{< youtube id="2SQ_QhJpJM4" title="James – The making of  ‘Living In Extraordinary Times’" >}}<br>
+### James – ‘Coming Home (Pt.2)’ – Official Video
+{{< youtube id="u2OL2CHSs4Q" title="James – ‘Coming Home (Pt.2)’ – Official Video" >}}<br>
 
 ### More Videos
 
 - [James – ‘HANK’ (Official Audio)](https://www.youtube.com/watch?v=v_Vf8dNikAk)
-- [James – ‘Coming Home (Pt.2)’ – Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
 - [James - Extraordinary Times - Wembley Arena, London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
+- [James – The making of  ‘Living In Extraordinary Times’](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
 
 
 ## Release Information

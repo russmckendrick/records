@@ -51,12 +51,12 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 
 
 ## Videos
-### Come Fly With Me (2008 Remastered)
-{{< youtube id="yOzEeJZ92X8" title="Come Fly With Me (2008 Remastered)" >}}<br>
+### Nothing But The Best (2008 Remastered)
+{{< youtube id="8GrYyuO0TOE" title="Nothing But The Best (2008 Remastered)" >}}<br>
 
 ### More Videos
 
-- [Nothing But The Best (2008 Remastered)](https://www.youtube.com/watch?v=8GrYyuO0TOE)
+- [Come Fly With Me (2008 Remastered)](https://www.youtube.com/watch?v=yOzEeJZ92X8)
 
 
 ## Release Information

@@ -36,13 +36,13 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Durand Jones And The Indications..Is It Any Wonder.
-{{< youtube id="1MplHc9WbCM" title="Durand Jones And The Indications..Is It Any Wonder." >}}<br>
+### Durand Jones & The Indications - True Love - 8/28/2017 - Paste Studios, New York, NY
+{{< youtube id="hZ0y76RQiuQ" title="Durand Jones & The Indications - True Love - 8/28/2017 - Paste Studios, New York, NY" >}}<br>
 
 ### More Videos
 
+- [Durand Jones And The Indications..Is It Any Wonder.](https://www.youtube.com/watch?v=1MplHc9WbCM)
 - [Durand Jones & The Indications - You And Me](https://www.youtube.com/watch?v=zc6HnutjZCc)
-- [Durand Jones & The Indications - True Love - 8/28/2017 - Paste Studios, New York, NY](https://www.youtube.com/watch?v=hZ0y76RQiuQ)
 - [Durand Jones & The Indications - Smile - Soul 45](https://www.youtube.com/watch?v=rjb010wGS-k)
 - [Durand Jones & The Indications - How Can I Be Sure - 3/14/2019 - Riverview Bungalow - Austin, TX](https://www.youtube.com/watch?v=eRN73fnvluU)
 - [Durand Jones & The Indications - Is It Any Wonder? - 8/28/2017 - Paste Studios, New York, NY](https://www.youtube.com/watch?v=hIHxDxTcuDk)

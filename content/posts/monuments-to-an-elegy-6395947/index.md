@@ -37,12 +37,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Monuments
-{{< youtube id="wXPhtEO1IDk" title="Monuments" >}}<br>
+### The Smashing Pumpkins - Tiberius (Audio)
+{{< youtube id="UHMSDYtxsu4" title="The Smashing Pumpkins - Tiberius (Audio)" >}}<br>
 
 ### More Videos
 
-- [The Smashing Pumpkins - Tiberius (Audio)](https://www.youtube.com/watch?v=UHMSDYtxsu4)
+- [Monuments](https://www.youtube.com/watch?v=wXPhtEO1IDk)
 
 
 ## Release Information

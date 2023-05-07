@@ -44,8 +44,8 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 
 
 ## Videos
-### I Need A Man (2020 Remaster)
-{{< youtube id="wAxs80qKgYY" title="I Need A Man (2020 Remaster)" >}}<br>
+### It's Gonna Be A Beautiful Night (2020 Remaster)
+{{< youtube id="hGKh0TVJ2Bs" title="It's Gonna Be A Beautiful Night (2020 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -58,6 +58,7 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 - [Prince - U Got The Look (Official Music Video)](https://www.youtube.com/watch?v=_jCuroTbqBI)
 - [The Ballad Of Dorothy Parker (2020 Remaster)](https://www.youtube.com/watch?v=Zf59l6Mzcyw)
 - [It (2020 Remaster)](https://www.youtube.com/watch?v=3O5rUawh7nE)
+- [I Need A Man (2020 Remaster)](https://www.youtube.com/watch?v=wAxs80qKgYY)
 - [Starfish And Coffee (2020 Remaster)](https://www.youtube.com/watch?v=k2bVblHPLwE)
 - [Slow Love (2020 Remaster)](https://www.youtube.com/watch?v=6CljMchARyg)
 - [Hot Thing (2020 Remaster)](https://www.youtube.com/watch?v=jyTrLiL9E-A)
@@ -65,7 +66,6 @@ styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 - [If I Was Your Girlfriend (2020 Remaster)](https://www.youtube.com/watch?v=6gVIHsgiKb0)
 - [Strange Relationship (2020 Remaster)](https://www.youtube.com/watch?v=8ejxV690HeA)
 - [The Cross (2020 Remaster)](https://www.youtube.com/watch?v=D9s2nqF4hOI)
-- [It's Gonna Be A Beautiful Night (2020 Remaster)](https://www.youtube.com/watch?v=hGKh0TVJ2Bs)
 - [Adore (2020 Remaster)](https://www.youtube.com/watch?v=v8fLjiar1c8)
 
 

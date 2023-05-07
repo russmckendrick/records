@@ -41,14 +41,14 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Soulwax   E Talking
-{{< youtube id="SdbaDBp1S_I" title="Soulwax   E Talking" >}}<br>
+### Soulwax - Any Minute Now
+{{< youtube id="aAhn3bh47m0" title="Soulwax - Any Minute Now" >}}<br>
 
 ### More Videos
 
 - [E Talking](https://www.youtube.com/watch?v=3dYrgHnZtmU)
+- [Soulwax   E Talking](https://www.youtube.com/watch?v=SdbaDBp1S_I)
 - [SOULWAX - NY Excuse](https://www.youtube.com/watch?v=EF3bu9fmheA)
-- [Soulwax - Any Minute Now](https://www.youtube.com/watch?v=aAhn3bh47m0)
 - [Soulwax - Please...don't be yourself](https://www.youtube.com/watch?v=uHZ-m6YrYy4)
 - [Soulwax- Compute](https://www.youtube.com/watch?v=kz4_oO_3ms8)
 - [Soulwax - Krack (Original Version)](https://www.youtube.com/watch?v=C_M2g5AVsTs)

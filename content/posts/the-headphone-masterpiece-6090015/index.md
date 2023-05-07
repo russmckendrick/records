@@ -64,15 +64,15 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 
 
 ## Videos
-### Cody ChesnuTT Serve this Royalty.  Part 1
-{{< youtube id="B9vNOlnLgPg" title="Cody ChesnuTT Serve this Royalty.  Part 1" >}}<br>
+### Cody ChesnuTT - Bitch, I'm Broke
+{{< youtube id="KeeCMCQFTOE" title="Cody ChesnuTT - Bitch, I'm Broke" >}}<br>
 
 ### More Videos
 
 - [Cody Chesnutt - Eric Burdon](https://www.youtube.com/watch?v=tD4VoPlC91A)
 - [No One Will](https://www.youtube.com/watch?v=P3GDIf2RGqM)
-- [Cody ChesnuTT - Bitch, I'm Broke](https://www.youtube.com/watch?v=KeeCMCQFTOE)
 - [Cody Chesnutt- Upstarts In A Blowout](https://www.youtube.com/watch?v=bwKo5qBtzoU)
+- [Cody ChesnuTT Serve this Royalty.  Part 1](https://www.youtube.com/watch?v=B9vNOlnLgPg)
 - [If We Don't Disagree - Cody Chesnutt (2002)](https://www.youtube.com/watch?v=fbUx8A65FtI)
 - [Cody Chesnutt - No One Will](https://www.youtube.com/watch?v=k3kkf_Y_WfU)
 - [(07) Cody ChesnuTT - The Seed - Volume 1](https://www.youtube.com/watch?v=2gPYxvvBWKs)

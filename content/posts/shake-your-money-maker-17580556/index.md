@@ -65,8 +65,8 @@ styles: ["Blues Rock", "Rock & Roll", "Hard Rock"]
 
 
 ## Videos
-### Sister Luck
-{{< youtube id="2AkDHA-JKkY" title="Sister Luck" >}}<br>
+### Thick N' Thin
+{{< youtube id="78ICN03p6vg" title="Thick N' Thin" >}}<br>
 
 ### More Videos
 
@@ -74,7 +74,7 @@ styles: ["Blues Rock", "Rock & Roll", "Hard Rock"]
 - [The Black Crowes - She Talks To Angels (Official Video)](https://www.youtube.com/watch?v=H58gMiQQRm0)
 - [The Black Crowes - Twice As Hard](https://www.youtube.com/watch?v=XLg7aoGAkkk)
 - [Jealous Again](https://www.youtube.com/watch?v=p0J4hxqiiho)
-- [Thick N' Thin](https://www.youtube.com/watch?v=78ICN03p6vg)
+- [Sister Luck](https://www.youtube.com/watch?v=2AkDHA-JKkY)
 - [Struttin' Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
 - [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 

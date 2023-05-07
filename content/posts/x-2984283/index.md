@@ -37,13 +37,13 @@ styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 
 
 ## Videos
-### Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)
-{{< youtube id="0l0nzPpvbFs" title="Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)" >}}<br>
+### Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)
+{{< youtube id="bAXPUN2z2CE" title="Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)](https://www.youtube.com/watch?v=bAXPUN2z2CE)
 - [I Think I Lost My Headache](https://www.youtube.com/watch?v=MALlDpvo1dE)
+- [Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)](https://www.youtube.com/watch?v=0l0nzPpvbFs)
 - [Queens Of The Stone Age - Monsters In The Parasol (Official Music Video)](https://www.youtube.com/watch?v=hnLwHOVXkWE)
 
 

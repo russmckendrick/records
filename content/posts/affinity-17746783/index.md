@@ -43,17 +43,17 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Red Giant
-{{< youtube id="9kXE4HroksQ" title="Red Giant" >}}<br>
+### Haken - Lapse
+{{< youtube id="EdabtT7mUGI" title="Haken - Lapse" >}}<br>
 
 ### More Videos
 
 - [affinity.exe](https://www.youtube.com/watch?v=AvhjDInyGYQ)
 - [HAKEN - Initiate (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-7pEXGCtnnk)
 - [HAKEN - 1985 (Album Track)](https://www.youtube.com/watch?v=yW8nBlZZvxM)
-- [Haken - Lapse](https://www.youtube.com/watch?v=EdabtT7mUGI)
 - [The Architect](https://www.youtube.com/watch?v=hiPNVVOTpe8)
 - [HAKEN - Earthrise (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=hQ8KqJJJJhk)
+- [Red Giant](https://www.youtube.com/watch?v=9kXE4HroksQ)
 - [HAKEN - The Endless Knot (Lyric Video)](https://www.youtube.com/watch?v=IVZHNPyMhMo)
 - [Haken - Bound By Gravity (with pics)](https://www.youtube.com/watch?v=wU6c9kBWABg)
 - [HAKEN - 1985 LIVE (Affinity Album)](https://www.youtube.com/watch?v=LMQoJDWGBVs)

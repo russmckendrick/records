@@ -36,12 +36,12 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Visions Of China (2003 Digital Remaster)
-{{< youtube id="1__fxehH3jo" title="Visions Of China (2003 Digital Remaster)" >}}<br>
+### The Art of Parties (2003 - Remaster)
+{{< youtube id="aEuB_rfuM7Q" title="The Art of Parties (2003 - Remaster)" >}}<br>
 
 ### More Videos
 
-- [The Art of Parties (2003 - Remaster)](https://www.youtube.com/watch?v=aEuB_rfuM7Q)
+- [Visions Of China (2003 Digital Remaster)](https://www.youtube.com/watch?v=1__fxehH3jo)
 - [Talking Drum (2003 Digital Remaster)](https://www.youtube.com/watch?v=VMnPLCrGZA0)
 - [Ghosts (2003 Digital Remaster)](https://www.youtube.com/watch?v=0cLeyGWthgw)
 - [Canton (2003 Digital Remaster)](https://www.youtube.com/watch?v=R1Rt8mX9LJE)

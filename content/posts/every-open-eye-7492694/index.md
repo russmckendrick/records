@@ -39,16 +39,16 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### CHVRCHES - Bury It ft. Hayley Williams
-{{< youtube id="B9BLMNn0PrQ" title="CHVRCHES - Bury It ft. Hayley Williams" >}}<br>
+### CHVRCHES - Never Ending Circles (lyric video)
+{{< youtube id="AU9_0pxiDjY" title="CHVRCHES - Never Ending Circles (lyric video)" >}}<br>
 
 ### More Videos
 
 - [CHVRCHES - Leave A Trace](https://www.youtube.com/watch?v=4Eo84jDIMKI)
+- [CHVRCHES - Bury It ft. Hayley Williams](https://www.youtube.com/watch?v=B9BLMNn0PrQ)
 - [CHVRCHES - Clearest Blue](https://www.youtube.com/watch?v=BZyzX4c1vIs)
 - [CHVRCHES - Empty Threat](https://www.youtube.com/watch?v=KNHxwSp-6Og)
 - [CHVRCHES - Clearest Blue (lyric video)](https://www.youtube.com/watch?v=QpFXXPruuqU)
-- [CHVRCHES - Never Ending Circles (lyric video)](https://www.youtube.com/watch?v=AU9_0pxiDjY)
 - [CHVRCHES - Leave A Trace (Lyric Video)](https://www.youtube.com/watch?v=nZRxFsMD4UM)
 - [Keep You on My Side (Reading 2016) CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)
 

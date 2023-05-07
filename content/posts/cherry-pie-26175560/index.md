@@ -40,8 +40,8 @@ styles: ["Glam", "Hard Rock"]
 
 
 ## Videos
-### Warrant – I Saw Red
-{{< youtube id="PJ60M7UXCig" title="Warrant – I Saw Red" >}}<br>
+### Warrant – Train, Train
+{{< youtube id="jci8rDnicJA" title="Warrant – Train, Train" >}}<br>
 
 ### More Videos
 
@@ -57,8 +57,8 @@ styles: ["Glam", "Hard Rock"]
 - [Warrant – You're The Only Hell Your Mama Ever Raised](https://www.youtube.com/watch?v=3jvd5LL__7w)
 - [Warrant – Mr. Rainmaker](https://www.youtube.com/watch?v=13V2oQ92No0)
 - [Warrant – Love In Stereo](https://www.youtube.com/watch?v=HPnpYGLjrBw)
+- [Warrant – I Saw Red](https://www.youtube.com/watch?v=PJ60M7UXCig)
 - [Warrant – Song And Dance Man](https://www.youtube.com/watch?v=Mnrg0BlzeM4)
-- [Warrant – Train, Train](https://www.youtube.com/watch?v=jci8rDnicJA)
 - [Warrant – Uncle Tom's Cabin](https://www.youtube.com/watch?v=iTcYXkGWK_0)
 - [Warrant – Blind Faith](https://www.youtube.com/watch?v=QGB_J4OEk6c)
 - [Warrant – Sure Feels Good To Me](https://www.youtube.com/watch?v=KCL2ZWA_yE0)

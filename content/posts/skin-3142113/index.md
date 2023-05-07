@@ -39,12 +39,12 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### SKIN - Shine Your Light (1993)
-{{< youtube id="jkBX8h5P0No" title="SKIN - Shine Your Light (1993)" >}}<br>
+### Skin - Money
+{{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}<br>
 
 ### More Videos
 
-- [Skin - Money](https://www.youtube.com/watch?v=1jYnGlaLf5I)
+- [SKIN - Shine Your Light (1993)](https://www.youtube.com/watch?v=jkBX8h5P0No)
 
 
 ## Release Information

@@ -39,12 +39,12 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]
-{{< youtube id="UNwo0dWvWt4" title="Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]" >}}<br>
+### Mudhoney - Paranoid Core
+{{< youtube id="AtnzoY2RVoA" title="Mudhoney - Paranoid Core" >}}<br>
 
 ### More Videos
 
-- [Mudhoney - Paranoid Core](https://www.youtube.com/watch?v=AtnzoY2RVoA)
+- [Mudhoney - Kill Yourself Live [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=UNwo0dWvWt4)
 
 
 ## Release Information

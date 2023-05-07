@@ -41,15 +41,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Neds Atomic Dustbin - Tantrum
-{{< youtube id="ZcsLYwWxa7A" title="Neds Atomic Dustbin - Tantrum" >}}<br>
+### Neds Atomic Dustbin - Legend In His Own Boots
+{{< youtube id="1WavRfjeQHI" title="Neds Atomic Dustbin - Legend In His Own Boots" >}}<br>
 
 ### More Videos
 
 - [Ned's Atomic Dustbin-Legoland](https://www.youtube.com/watch?v=yCWYygUCwOk)
 - [Ned's Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
 - [Neds Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=CZhmQ0JC7Cg)
-- [Neds Atomic Dustbin - Legend In His Own Boots](https://www.youtube.com/watch?v=1WavRfjeQHI)
 - [Ned's Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=o4a9E89Iq3o)
 - [Ned's Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
 - [Ned's Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
@@ -58,6 +57,7 @@ styles: ["Indie Rock"]
 - [Ned's Atomic Dustbin - Who Goes First?](https://www.youtube.com/watch?v=OqWXJcGAwVI)
 - [Ned's Atomic Dustbin-Two And Two Made Five.](https://www.youtube.com/watch?v=KSm40achaFI)
 - [Neds Atomic Dustbin - Walking Through Syrup](https://www.youtube.com/watch?v=l_UlbQjN0VY)
+- [Neds Atomic Dustbin - Tantrum](https://www.youtube.com/watch?v=ZcsLYwWxa7A)
 - [Ned's Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
 - [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 

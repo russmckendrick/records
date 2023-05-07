@@ -37,16 +37,16 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Suede - Outsiders
-{{< youtube id="AL15Nvlf7ZU" title="Suede - Outsiders" >}}<br>
+### Suede  - Pale Snow
+{{< youtube id="ir9RgLZuIfY" title="Suede  - Pale Snow" >}}<br>
 
 ### More Videos
 
 - [Suede - What I'm Trying To Tell You](https://www.youtube.com/watch?v=so7PZl_1vOM)
+- [Suede - Outsiders](https://www.youtube.com/watch?v=AL15Nvlf7ZU)
 - [Suede - Like Kids](https://www.youtube.com/watch?v=q3pVPrfOc2g)
 - [Suede  - No Tomorrow](https://www.youtube.com/watch?v=ZHQRz_15s3g)
 - [Suede - Night Thoughts (Album Sampler)](https://www.youtube.com/watch?v=d5conz2AbJk)
-- [Suede  - Pale Snow](https://www.youtube.com/watch?v=ir9RgLZuIfY)
 
 
 ## Release Information

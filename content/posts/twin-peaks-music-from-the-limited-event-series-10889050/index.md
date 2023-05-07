@@ -45,14 +45,14 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 
 
 ## Videos
-### Twin Peaks Limited Event Series Soundtracks Official Trailer
-{{< youtube id="6bfqC1bZw7g" title="Twin Peaks Limited Event Series Soundtracks Official Trailer" >}}<br>
+### Twin Peaks- Limited Event Series Full Soundtrack (HQ)
+{{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack (HQ)" >}}<br>
 
 ### More Videos
 
-- [Twin Peaks- Limited Event Series Full Soundtrack (HQ)](https://www.youtube.com/watch?v=Mgfu97u9ILs)
 - [THE NINE INCH NAILS - SHE'S GONE AWAY (Twin Peaks Music Video)](https://www.youtube.com/watch?v=GXc2rPmawek)
 - [CHROMATICS SHADOW (Official Video)](https://www.youtube.com/watch?v=IGUboLZx3Tk)
+- [Twin Peaks Limited Event Series Soundtracks Official Trailer](https://www.youtube.com/watch?v=6bfqC1bZw7g)
 - [Twin Peaks (Music from the Limited Event Series) Soundtrack Teaser](https://www.youtube.com/watch?v=g9xpxO-vzO8)
 - [Twin Peaks Theme](https://www.youtube.com/watch?v=nCn3LYqCnrk)
 - [Eddie Vedder Out of Sand Twin Peaks](https://www.youtube.com/watch?v=WJHM4w_TD28)

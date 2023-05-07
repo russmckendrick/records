@@ -29,13 +29,13 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 
 
 ## Videos
-### Pop Will Eat Itself - Can U Dig It? (Twelve)
-{{< youtube id="7uG_gNOhmDc" title="Pop Will Eat Itself - Can U Dig It? (Twelve)" >}}<br>
+### Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12 House Mix] 1989
+{{< youtube id="D8VTrcfE758" title="Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12 House Mix] 1989" >}}<br>
 
 ### More Videos
 
+- [Pop Will Eat Itself - Can U Dig It? (Twelve)](https://www.youtube.com/watch?v=7uG_gNOhmDc)
 - [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
-- [Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12 House Mix] 1989](https://www.youtube.com/watch?v=D8VTrcfE758)
 - [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
 
 

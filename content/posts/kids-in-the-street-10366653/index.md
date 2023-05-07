@@ -40,15 +40,15 @@ styles: []
 
 
 ## Videos
-### Justin Townes Earle - There Go A Fool [Audio Only]
-{{< youtube id="jqCJzivj5HA" title="Justin Townes Earle - There Go A Fool [Audio Only]" >}}<br>
+### Justin Townes Earle - Same Old Stagolee [Audio Only]
+{{< youtube id="fPUid3nZuSQ" title="Justin Townes Earle - Same Old Stagolee [Audio Only]" >}}<br>
 
 ### More Videos
 
 - [Justin Townes Earle - Kids In The Street [Audio Only]](https://www.youtube.com/watch?v=mDx4GtD3XJU)
 - [Justin Townes Earle - Faded Valentine [Audio Only]](https://www.youtube.com/watch?v=30JGMrbPDW4)
+- [Justin Townes Earle - There Go A Fool [Audio Only]](https://www.youtube.com/watch?v=jqCJzivj5HA)
 - [Justin Townes Earle - What's She Crying For [Audio Only]](https://www.youtube.com/watch?v=m6HlYKW5zRU)
-- [Justin Townes Earle - Same Old Stagolee [Audio Only]](https://www.youtube.com/watch?v=fPUid3nZuSQ)
 - [Justin Townes Earle - 15-25 [Audio Only]](https://www.youtube.com/watch?v=2P5lqkS0tOw)
 - [Justin Townes Earle - Trouble Is [Audio Only]](https://www.youtube.com/watch?v=SmJ2E3IP_JA)
 - [Justin Townes Earle - Champagne Corolla [Lyric Video]](https://www.youtube.com/watch?v=_V5vLfmNPMw)

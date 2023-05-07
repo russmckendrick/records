@@ -44,14 +44,14 @@ styles: ["Blues Rock", "Southern Rock"]
 
 
 ## Videos
-### Trouble No More
-{{< youtube id="EqHSKn7ikwc" title="Trouble No More" >}}<br>
+### It's Not My Cross To Bear
+{{< youtube id="-dy1xeuStsc" title="It's Not My Cross To Bear" >}}<br>
 
 ### More Videos
 
 - [Don't Want You No More](https://www.youtube.com/watch?v=IQGPC2IEOdQ)
-- [It's Not My Cross To Bear](https://www.youtube.com/watch?v=-dy1xeuStsc)
 - [Black Hearted Woman](https://www.youtube.com/watch?v=KxZ_ZbiCHpc)
+- [Trouble No More](https://www.youtube.com/watch?v=EqHSKn7ikwc)
 - [Every Hungry Woman](https://www.youtube.com/watch?v=5XK2DDoAWTc)
 - [Dreams](https://www.youtube.com/watch?v=ESDqkzZOQCo)
 - [Whipping Post](https://www.youtube.com/watch?v=VZSNs6H-HDI)

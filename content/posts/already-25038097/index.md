@@ -40,12 +40,11 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Chemical #1
-{{< youtube id="IUXQhXfd0ts" title="Chemical #1" >}}<br>
+### The Next Big Thing
+{{< youtube id="Ud3KQDAWVlM" title="The Next Big Thing" >}}<br>
 
 ### More Videos
 
-- [The Next Big Thing](https://www.youtube.com/watch?v=Ud3KQDAWVlM)
 - [Run On Empty](https://www.youtube.com/watch?v=3buLGt6tXuM)
 - [Jesus Jones Already (Coler & Richardson version)](https://www.youtube.com/watch?v=95PjhHjJHWs)
 - [Wishing It Away](https://www.youtube.com/watch?v=J6p9kJppv98)
@@ -55,6 +54,7 @@ styles: ["Synth-pop"]
 - [Top Of The World](https://www.youtube.com/watch?v=LxgWy4dB9mc)
 - [Motion](https://www.youtube.com/watch?v=3rInP9LH_EQ)
 - [Rails](https://www.youtube.com/watch?v=NlnAFGZssxs)
+- [Chemical #1](https://www.youtube.com/watch?v=IUXQhXfd0ts)
 - [Look Out Tomorrow](https://www.youtube.com/watch?v=k4b9uKmNln8)
 - [Addiction Obsession And Me](https://www.youtube.com/watch?v=SHnseuIdK60)
 

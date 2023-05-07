@@ -38,13 +38,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Lost in the dream | Full album
-{{< youtube id="Lq_vlKanDKY" title="Lost in the dream | Full album" >}}<br>
+### Lost In The Dream
+{{< youtube id="K3HqnHUohOo" title="Lost In The Dream" >}}<br>
 
 ### More Videos
 
 - [The War On Drugs - Red Eyes (Official Audio)](https://www.youtube.com/watch?v=bsoqmFL1vlU)
-- [Lost In The Dream](https://www.youtube.com/watch?v=K3HqnHUohOo)
+- [Lost in the dream | Full album](https://www.youtube.com/watch?v=Lq_vlKanDKY)
 - [The War on Drugs - Under The Pressure (Official Video)](https://www.youtube.com/watch?v=vkLOg252KRE)
 - [An Ocean In Between The Waves](https://www.youtube.com/watch?v=BijxWQluXE0)
 

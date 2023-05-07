@@ -45,16 +45,16 @@ styles: ["Blues Rock", "Texas Blues"]
 
 
 ## Videos
-### Rude Mood/Hide Away (Live)
-{{< youtube id="mBzud6-s5rg" title="Rude Mood/Hide Away (Live)" >}}<br>
+### Pride and Joy
+{{< youtube id="y1Xh-UepaUs" title="Pride and Joy" >}}<br>
 
 ### More Videos
 
-- [Pride and Joy](https://www.youtube.com/watch?v=y1Xh-UepaUs)
 - [Little Wing](https://www.youtube.com/watch?v=6l_pY4ZDoMI)
 - [Texas Flood](https://www.youtube.com/watch?v=p4uM070KexI)
 - [Life by the Drop](https://www.youtube.com/watch?v=vPcB4yXLl_4)
 - [Long Way from Home](https://www.youtube.com/watch?v=t0jzRr-LhaE)
+- [Rude Mood/Hide Away (Live)](https://www.youtube.com/watch?v=mBzud6-s5rg)
 
 
 ## Release Information

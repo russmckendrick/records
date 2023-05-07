@@ -40,13 +40,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Show Me to the Top
-{{< youtube id="TiyKBmHG3Ro" title="Show Me to the Top" >}}<br>
+### World Party - Put The Message In The Box
+{{< youtube id="DXDJbqws3MY" title="World Party - Put The Message In The Box" >}}<br>
 
 ### More Videos
 
 - [Is It Too Late?](https://www.youtube.com/watch?v=7IZlfTeOcYg)
-- [World Party - Put The Message In The Box](https://www.youtube.com/watch?v=DXDJbqws3MY)
 - [Way Down Now](https://www.youtube.com/watch?v=ipI3R0Rcdk8)
 - [When the Rainbow Comes](https://www.youtube.com/watch?v=KxIdCo48Fsk)
 - [Love Street](https://www.youtube.com/watch?v=0lD_Hw6Eaj8)
@@ -56,6 +55,7 @@ styles: ["Alternative Rock"]
 - [And I Fell Back Alone](https://www.youtube.com/watch?v=OMbszCD7R04)
 - [Take It Up](https://www.youtube.com/watch?v=2uxb2eAwJLc)
 - [God On My Side](https://www.youtube.com/watch?v=I3dLgwbYHqw)
+- [Show Me to the Top](https://www.youtube.com/watch?v=TiyKBmHG3Ro)
 - [Sweet Soul Dream](https://www.youtube.com/watch?v=NJcop92PPT0)
 - [Thank You World](https://www.youtube.com/watch?v=6o8tGRwGGp0)
 

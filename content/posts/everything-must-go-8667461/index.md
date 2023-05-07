@@ -40,14 +40,14 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### Manic Street Preachers - Everything Must Go
-{{< youtube id="uU5trjpFus0" title="Manic Street Preachers - Everything Must Go" >}}<br>
+### Manic Street Preachers - Elvis Impersonator: Blackpool Pier (Audio)
+{{< youtube id="CM_R2p9GDbk" title="Manic Street Preachers - Elvis Impersonator: Blackpool Pier (Audio)" >}}<br>
 
 ### More Videos
 
 - [Manic Street Preachers - Everything Must Go](https://www.youtube.com/watch?v=KBYUqYPy0tU)
+- [Manic Street Preachers - Everything Must Go](https://www.youtube.com/watch?v=uU5trjpFus0)
 - [Manic Street Preachers - Everything Must Go [Stealth Sonic Orchestra Remix]](https://www.youtube.com/watch?v=nPs0D3jffNA)
-- [Manic Street Preachers - Elvis Impersonator: Blackpool Pier (Audio)](https://www.youtube.com/watch?v=CM_R2p9GDbk)
 - [A Design for Life (Remastered)](https://www.youtube.com/watch?v=tOwMWNrf1oY)
 - [Manic Street Preachers - A Design For Live (Live Jools Holland 1996)](https://www.youtube.com/watch?v=wieGRnViOmM)
 - [Manic Street Preachers - A Design For Life](https://www.youtube.com/watch?v=zSIs1YmBQaY)

@@ -54,14 +54,14 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream
-{{< youtube id="L5v7UmvvM0Q" title="MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream" >}}<br>
+### MR ROBOT   Soundtrack OST   Depth Of Field Mix
+{{< youtube id="YC1n6NGANw0" title="MR ROBOT   Soundtrack OST   Depth Of Field Mix" >}}<br>
 
 ### More Videos
 
 - [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
 - [Mac Quayle | BSO Mr. Robot | Vol. 1](https://www.youtube.com/watch?v=Phrxu3lrnEY)
-- [MR ROBOT   Soundtrack OST   Depth Of Field Mix](https://www.youtube.com/watch?v=YC1n6NGANw0)
+- [MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream](https://www.youtube.com/watch?v=L5v7UmvvM0Q)
 
 
 ## Release Information

@@ -39,14 +39,14 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Raintown
-{{< youtube id="RckKerR6MI8" title="Raintown" >}}<br>
+### Deacon Blue - Chocolate girl HQ
+{{< youtube id="fOrOh3rEwB4" title="Deacon Blue - Chocolate girl HQ" >}}<br>
 
 ### More Videos
 
 - [Born in a Storm](https://www.youtube.com/watch?v=xahuOCodtL0)
-- [Deacon Blue - Chocolate girl HQ](https://www.youtube.com/watch?v=fOrOh3rEwB4)
 - [Born in a Storm](https://www.youtube.com/watch?v=GlJ4XYVvqPQ)
+- [Raintown](https://www.youtube.com/watch?v=RckKerR6MI8)
 - [Ragman](https://www.youtube.com/watch?v=SE4MpZtgdJQ)
 - [He Looks Like Spencer Tracy Now](https://www.youtube.com/watch?v=d6ujXpWJ__0)
 - [Deacon Blue - He Looks like Spencer Tracy Now](https://www.youtube.com/watch?v=hqoc8CLNptk)

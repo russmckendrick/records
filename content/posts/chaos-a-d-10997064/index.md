@@ -56,13 +56,13 @@ styles: ["Thrash"]
 
 
 ## Videos
-### Sepultura - Territory [OFFICIAL VIDEO]
-{{< youtube id="Q_WHGV5bejk" title="Sepultura - Territory [OFFICIAL VIDEO]" >}}<br>
+### Sepultura - Slave New World [OFFICIAL VIDEO]
+{{< youtube id="0K4J90s1A2M" title="Sepultura - Slave New World [OFFICIAL VIDEO]" >}}<br>
 
 ### More Videos
 
 - [Sepultura - Refuse/Resist [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=6ODNxy3YOPU)
-- [Sepultura - Slave New World [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0K4J90s1A2M)
+- [Sepultura - Territory [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=Q_WHGV5bejk)
 
 
 ## Release Information

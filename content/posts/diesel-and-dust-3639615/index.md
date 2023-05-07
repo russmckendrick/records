@@ -38,17 +38,17 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Warakurna (2007 Remastered)
-{{< youtube id="WPhym6Bpxiw" title="Warakurna (2007 Remastered)" >}}<br>
+### Midnight Oil - The Dead Heart
+{{< youtube id="16bFBzx7I_0" title="Midnight Oil - The Dead Heart" >}}<br>
 
 ### More Videos
 
 - [Midnight Oil ‎–The Dead Heart (El Corazón Muerto)– [Diesel And Dust]](https://www.youtube.com/watch?v=R6eJwfgATZ8)
 - [Midnight Oil - Beds Are Burning](https://www.youtube.com/watch?v=ejorQVy3m8E)
-- [Midnight Oil - The Dead Heart](https://www.youtube.com/watch?v=16bFBzx7I_0)
 - [Midnight Oil - Put Down That Weapon](https://www.youtube.com/watch?v=XzEwCc4WVKs)
 - [Midnight Oil - Dreamworld](https://www.youtube.com/watch?v=OcKcjpSWmm0)
 - [Arctic World (2007 Remastered)](https://www.youtube.com/watch?v=LBJQoUfj91U)
+- [Warakurna (2007 Remastered)](https://www.youtube.com/watch?v=WPhym6Bpxiw)
 - [Whoah (2007 Remastered)](https://www.youtube.com/watch?v=4CKrGtaT11E)
 - [Bullroarer (2007 Remastered)](https://www.youtube.com/watch?v=0IRwIXAjD_w)
 - [Sell My Soul (2007 Remastered)](https://www.youtube.com/watch?v=779BEw77_1s)

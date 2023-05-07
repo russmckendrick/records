@@ -41,17 +41,17 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### An Old Friend of the Christy's
-{{< youtube id="vY1mr9CJVZQ" title="An Old Friend of the Christy's" >}}<br>
+### Commemorative T-shirt
+{{< youtube id="BZ5g_5Op4pA" title="Commemorative T-shirt" >}}<br>
 
 ### More Videos
 
 - [Oceansize - Unfamiliar](https://www.youtube.com/watch?v=dFkyrRqzkIQ)
-- [Commemorative T-shirt](https://www.youtube.com/watch?v=BZ5g_5Op4pA)
 - [Unfamiliar](https://www.youtube.com/watch?v=-Gdq9mw6ehQ)
 - [Trail of Fire](https://www.youtube.com/watch?v=u_WQdxKW2VM)
 - [Savant](https://www.youtube.com/watch?v=ZcVny4TKFkY)
 - [Only Twin](https://www.youtube.com/watch?v=b8S2I1dasMU)
+- [An Old Friend of the Christy's](https://www.youtube.com/watch?v=vY1mr9CJVZQ)
 - [Sleeping Dogs and Dead Lions](https://www.youtube.com/watch?v=2s1E4uECl1Q)
 - [The Frame](https://www.youtube.com/watch?v=QThNbmBK0l4)
 - [Oceansize - The frame (With lyrics)](https://www.youtube.com/watch?v=1rjJ_qxiRzM)

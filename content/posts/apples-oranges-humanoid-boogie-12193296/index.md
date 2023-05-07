@@ -29,13 +29,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Andy Partridge on Apples and Oranges melody
-{{< youtube id="556ewyZxUIk" title="Andy Partridge on Apples and Oranges melody" >}}<br>
+### Andy Partridge on Apples and Oranges chord structure
+{{< youtube id="_B5BCebmaqA" title="Andy Partridge on Apples and Oranges chord structure" >}}<br>
 
 ### More Videos
 
 - [Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)](https://www.youtube.com/watch?v=wFWt15ZHNaA)
-- [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
+- [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
 
 
 ## Release Information

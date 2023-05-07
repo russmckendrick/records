@@ -38,15 +38,15 @@ styles: ["Alternative Rock", "Indie Pop"]
 
 
 ## Videos
-### Baxter Dury - Slumlord (Official Music Video)
-{{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord (Official Music Video)" >}}<br>
+### The Night Chancers
+{{< youtube id="W-7-sddliMo" title="The Night Chancers" >}}<br>
 
 ### More Videos
 
+- [Baxter Dury - Slumlord (Official Music Video)](https://www.youtube.com/watch?v=KWbVIv7DrU8)
 - [Baxter Dury - Carla's Got A Boyfriend (Official Audio)](https://www.youtube.com/watch?v=CaAszLkOh6w)
 - [Baxter Dury - I'm Not Your Dog (Official Music Video)](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
 - [Say Nothing](https://www.youtube.com/watch?v=tahejIw1jXw)
-- [The Night Chancers](https://www.youtube.com/watch?v=W-7-sddliMo)
 - [Baxter Dury - Samurai](https://www.youtube.com/watch?v=JsnwNgvXFEU)
 - [Saliva Hog](https://www.youtube.com/watch?v=CpMVX3UDev4)
 - [Hello, I'm Sorry](https://www.youtube.com/watch?v=GEst-mUxvRI)

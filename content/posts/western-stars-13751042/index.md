@@ -41,12 +41,13 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Tucson Train
-{{< youtube id="I1mVTBB9ACw" title="Tucson Train" >}}<br>
+### Chasin' Wild Horses
+{{< youtube id="0yAryPUV_zk" title="Chasin' Wild Horses" >}}<br>
 
 ### More Videos
 
 - [Bruce Springsteen - There Goes My Miracle (Lyric Video)](https://www.youtube.com/watch?v=tbDKBcPsmoQ)
+- [Tucson Train](https://www.youtube.com/watch?v=I1mVTBB9ACw)
 - [Sundown](https://www.youtube.com/watch?v=JjeN0EpD1BA)
 - [Bruce Springsteen - Moonlight Motel (Official Audio)](https://www.youtube.com/watch?v=paFUBjeTcZY)
 - [Drive Fast (The Stuntman)](https://www.youtube.com/watch?v=e7BIfqrmKmQ)
@@ -56,7 +57,6 @@ styles: ["Pop Rock"]
 - [There Goes My Miracle](https://www.youtube.com/watch?v=ovDPz46lGVY)
 - [Bruce Springsteen - Western Stars (Official Video)](https://www.youtube.com/watch?v=_IXzAAKrsFE)
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
-- [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 
 
 ## Release Information

@@ -40,8 +40,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The La's - There She Goes (audio only)
-{{< youtube id="925i0-TCjrQ" title="The La's - There She Goes (audio only)" >}}<br>
+### The La's - Doledrum (audio only)
+{{< youtube id="ZvHpLflwPfc" title="The La's - Doledrum (audio only)" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 - [The La's - I Can't Sleep (audio only)](https://www.youtube.com/watch?v=6LURvVxSZl4)
 - [The La's - Timeless Melody (audio only)](https://www.youtube.com/watch?v=Eus8vzjBVaQ)
 - [The La's - Liberty Ship (audio only)](https://www.youtube.com/watch?v=e4QBcdmn30I)
-- [The La's - Doledrum (audio only)](https://www.youtube.com/watch?v=ZvHpLflwPfc)
+- [The La's - There She Goes (audio only)](https://www.youtube.com/watch?v=925i0-TCjrQ)
 - [The La's - Feelin' (audio only)](https://www.youtube.com/watch?v=1bzxpWob71M)
 - [The La's - Way Out (audio only)](https://www.youtube.com/watch?v=A7PQh0ZgA_U)
 - [The La's - I.O.U (audio only)](https://www.youtube.com/watch?v=0YirTfE0EsM)

@@ -48,15 +48,14 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 
 
 ## Videos
-### Locksmith  -  Unlock The Funk
-{{< youtube id="VMGvgwb4SfM" title="Locksmith  -  Unlock The Funk" >}}<br>
+### Robert Palmer - Johnny and Mary (Official Video)
+{{< youtube id="7_SAMrDnXOE" title="Robert Palmer - Johnny and Mary (Official Video)" >}}<br>
 
 ### More Videos
 
 - [Radio Active (Face A) (1980)](https://www.youtube.com/watch?v=c-NmtskiSzo)
 - [Ottawan - D.I.S.C.O. (HD) Legendado em PT- BR](https://www.youtube.com/watch?v=mJpymZpk-t8)
 - [Black Slate - Amigo](https://www.youtube.com/watch?v=-9NgIPLtwSc)
-- [Robert Palmer - Johnny and Mary (Official Video)](https://www.youtube.com/watch?v=7_SAMrDnXOE)
 - [Gillan - Trouble](https://www.youtube.com/watch?v=wcceF1v0EE4)
 - [Gary Numan   I Die You Die](https://www.youtube.com/watch?v=Xw8dTF9Jr34)
 - [Genesis - Misunderstanding](https://www.youtube.com/watch?v=IrNTsKg4z64)
@@ -71,6 +70,7 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 - [Manfred Mann's Earth Band - Lies Through The 80s (Official)](https://www.youtube.com/watch?v=sjyAkmZd63g)
 - [XTC - Generals and Majors](https://www.youtube.com/watch?v=LCW6Kte2o1A)
 - [Black Sabbath - Paranoid (Lyrics)](https://www.youtube.com/watch?v=FSGyXeRFLyE)
+- [Locksmith  -  Unlock The Funk](https://www.youtube.com/watch?v=VMGvgwb4SfM)
 - [Sue Wilkinson - You've Got to be a Hustler - TOTP 1980 [HD]](https://www.youtube.com/watch?v=rT0T6ErJEJU)
 - [UB40 - I Think It's Going to Rain Today (Lyrics)](https://www.youtube.com/watch?v=JSUhwUF5P_w)
 

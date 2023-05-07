@@ -48,8 +48,8 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Darkline
-{{< youtube id="FEzmReMZou8" title="Darkline" >}}<br>
+### Tim Bowness - Late Night Laments
+{{< youtube id="QrP7apxFBLA" title="Tim Bowness - Late Night Laments" >}}<br>
 
 ### More Videos
 
@@ -58,8 +58,8 @@ styles: ["Ambient"]
 - [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
 - [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
 - [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
-- [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
 - [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
+- [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
 - [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
 - [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
 

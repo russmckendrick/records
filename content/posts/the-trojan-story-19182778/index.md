@@ -78,12 +78,11 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 
 
 ## Videos
-### THE ETHIOPIANS ~ Train To Skaville
-{{< youtube id="GJxUC6AgMrY" title="THE ETHIOPIANS ~ Train To Skaville" >}}<br>
+### Mellow Larks - Time To Pray.wmv
+{{< youtube id="CXIO7Q6O-qQ" title="Mellow Larks - Time To Pray.wmv" >}}<br>
 
 ### More Videos
 
-- [Mellow Larks - Time To Pray.wmv](https://www.youtube.com/watch?v=CXIO7Q6O-qQ)
 - [Slicker Nana Blue Cat](https://www.youtube.com/watch?v=4pQrwaiRPgA)
 - [BABA BROOKS & HIS BAND ~ One Eyed Giant](https://www.youtube.com/watch?v=N0Njax_kwTk)
 - [Derrick Morgan - Fat Man (1968) Trojan 626 A](https://www.youtube.com/watch?v=-tnw92cqiU4)
@@ -97,6 +96,7 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 - [HONEY BOY MARTIN & THE VOICES - Dreader Than Dread [1967]](https://www.youtube.com/watch?v=TFK7CxlrJ2g)
 - [THE TECHNIQUES ~ Oh Babe](https://www.youtube.com/watch?v=0mmmNanaG7Y)
 - [The Charmers - Rasta Never Fails (Original '71)](https://www.youtube.com/watch?v=iwGFWXkOmVg)
+- [THE ETHIOPIANS ~ Train To Skaville](https://www.youtube.com/watch?v=GJxUC6AgMrY)
 - [DANDY LIVINGSTONE ~ Rudy, A Message To You](https://www.youtube.com/watch?v=ev12lhOsLPo)
 - [HONEY BOY MARTIN & THE VOICES ~ Dreader Than Dread](https://www.youtube.com/watch?v=wJMA41hsvf4)
 - [THE THREE TOPS ~ It's Raining](https://www.youtube.com/watch?v=GHA6Rojn-ik)

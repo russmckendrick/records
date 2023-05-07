@@ -47,15 +47,15 @@ styles: ["Alternative Rock", "Glam", "Art Rock", "Hard Rock"]
 
 
 ## Videos
-### Manic Street Preachers   Generation Terrorists (Full Album)
-{{< youtube id="8LiT0Q_amac" title="Manic Street Preachers   Generation Terrorists (Full Album)" >}}<br>
+### Manic Street Preachers - Stay Beautiful
+{{< youtube id="hM_oov3dU6A" title="Manic Street Preachers - Stay Beautiful" >}}<br>
 
 ### More Videos
 
 - [Manic Street Preachers - You Love Us (Clean Version)](https://www.youtube.com/watch?v=FgKXBJ2LZKo)
 - [Manic Street Preachers - Motorcycle Emptiness (Official Video)](https://www.youtube.com/watch?v=gavcjNniIvk)
 - [Manic Street Preachers - Little Baby Nothing](https://www.youtube.com/watch?v=wM3N54avEQc)
-- [Manic Street Preachers - Stay Beautiful](https://www.youtube.com/watch?v=hM_oov3dU6A)
+- [Manic Street Preachers   Generation Terrorists (Full Album)](https://www.youtube.com/watch?v=8LiT0Q_amac)
 - [Manic Street Preachers - Slash 'N' Burn (Video)](https://www.youtube.com/watch?v=b8a1WEjLqUw)
 - [Manic Street Preachers - Love's Sweet Exile](https://www.youtube.com/watch?v=hQS1czT0Egg)
 

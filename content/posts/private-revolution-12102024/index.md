@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Dance of the Hoppy Lads
-{{< youtube id="J1B0wMhEbxw" title="Dance of the Hoppy Lads" >}}<br>
+### World Party - Private Revolution
+{{< youtube id="KF33V0tqrEc" title="World Party - Private Revolution" >}}<br>
 
 ### More Videos
 
@@ -48,6 +48,7 @@ styles: ["Alternative Rock"]
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=JaYcJQej5Uw)
 - [World Party - All Come True](https://www.youtube.com/watch?v=DO1cW97Z3sU)
 - [World Party - Private Revolution (Extended Version)](https://www.youtube.com/watch?v=hRxone8ZtmM)
+- [Dance of the Hoppy Lads](https://www.youtube.com/watch?v=J1B0wMhEbxw)
 - [World Party](https://www.youtube.com/watch?v=qB_xka50sME)
 - [It Can Be Beautiful (Sometimes)](https://www.youtube.com/watch?v=ULtIOuu2Pdg)
 - [It's All Mine](https://www.youtube.com/watch?v=hTjYsAg3Hoc)
@@ -56,7 +57,6 @@ styles: ["Alternative Rock"]
 - [Hawaiian Island World](https://www.youtube.com/watch?v=mWgHwAY-4LU)
 - [Making Love (To the World)](https://www.youtube.com/watch?v=xh9WEzkKyXY)
 - [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
-- [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 
 
 ## Release Information

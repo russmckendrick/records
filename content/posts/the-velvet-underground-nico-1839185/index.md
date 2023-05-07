@@ -40,8 +40,8 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 
 
 ## Videos
-### Femme Fatale
-{{< youtube id="HGttSQsBpXQ" title="Femme Fatale" >}}<br>
+### All Tomorrow's Parties
+{{< youtube id="nfAK-IAlcsY" title="All Tomorrow's Parties" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,6 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 - [Femme Fatale](https://www.youtube.com/watch?v=ggHPtzVSEeE)
 - [Venus In Furs](https://www.youtube.com/watch?v=KR7Lv8XZtkk)
 - [Run Run Run](https://www.youtube.com/watch?v=wIdf3PwKmEI)
-- [All Tomorrow's Parties](https://www.youtube.com/watch?v=nfAK-IAlcsY)
 - [Heroin](https://www.youtube.com/watch?v=foptT2bsKww)
 - [There She Goes Again](https://www.youtube.com/watch?v=QbW39jwtewE)
 - [I'll Be Your Mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)
@@ -65,6 +64,7 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 - [There She Goes Again](https://www.youtube.com/watch?v=obs9f-Ikj3o)
 - [I'm Waiting For The Man](https://www.youtube.com/watch?v=YbigVkiAe0s)
 - [The Black Angel's Death Song](https://www.youtube.com/watch?v=M0lya8HfDs0)
+- [Femme Fatale](https://www.youtube.com/watch?v=HGttSQsBpXQ)
 - [European Son](https://www.youtube.com/watch?v=Ae0no6_VkKk)
 - [European Son (Alternative Version)](https://www.youtube.com/watch?v=Vwy18WaZuD4)
 - [Sunday Morning (Mono)](https://www.youtube.com/watch?v=zZmCDDeD-ks)

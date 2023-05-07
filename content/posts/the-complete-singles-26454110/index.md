@@ -52,13 +52,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Butterfly (2023 Remaster)
-{{< youtube id="sUAGD5cvsMk" title="Butterfly (2023 Remaster)" >}}<br>
+### Two Worlds Collide (7 Edit) (2023 Remaster)
+{{< youtube id="qjF7iOokg4c" title="Two Worlds Collide (7 Edit) (2023 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Inspiral Carpets - Changes (Martyn Walsh & Simon Lyon Remix) (Official Visualiser)](https://www.youtube.com/watch?v=cmqzakGa6Dc)
 - [Keep the Circle Around (2023 Remaster)](https://www.youtube.com/watch?v=mypEpDOaZ6U)
+- [Butterfly (2023 Remaster)](https://www.youtube.com/watch?v=sUAGD5cvsMk)
 - [Joe (2023 Remaster)](https://www.youtube.com/watch?v=f_GhZ9w3o28)
 - [Find Out Why (2023 Remaster)](https://www.youtube.com/watch?v=SRbVmjUsVeg)
 - [Move (2023 Remaster)](https://www.youtube.com/watch?v=k9SYolKaqHU)
@@ -69,7 +70,6 @@ styles: ["Indie Rock"]
 - [Caravan (2023 Remaster)](https://www.youtube.com/watch?v=4EyTAHldatc)
 - [Please Be Cruel (2023 Remaster)](https://www.youtube.com/watch?v=wcW9zj_v8nQ)
 - [Dragging Me Down (2023 Remaster)](https://www.youtube.com/watch?v=6KVuhJFUA7Q)
-- [Two Worlds Collide (7 Edit) (2023 Remaster)](https://www.youtube.com/watch?v=qjF7iOokg4c)
 - [Generations (2023 Remaster)](https://www.youtube.com/watch?v=0wJJ_zgv9IA)
 - [Bitches Brew (2023 Remaster)](https://www.youtube.com/watch?v=cK_XaUE45TU)
 - [How It Should Be (2023 Remaster)](https://www.youtube.com/watch?v=cwECpC5LU2k)

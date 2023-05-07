@@ -43,8 +43,8 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 
 
 ## Videos
-### All Friends And Kingdom Come
-{{< youtube id="pshDmk_JrQo" title="All Friends And Kingdom Come" >}}<br>
+### Monster Magnet - Negasonic Teenage Warhead
+{{< youtube id="Qv2CADhNYMg" title="Monster Magnet - Negasonic Teenage Warhead" >}}<br>
 
 ### More Videos
 
@@ -53,6 +53,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 - [Negasonic Teenage Warhead](https://www.youtube.com/watch?v=s9vSW6mL14c)
 - [Monster Magnet - Dopes to Infinity MONSTER.MOV](https://www.youtube.com/watch?v=hWPr5vUoFX0)
 - [Look To Your Orb For The Warning](https://www.youtube.com/watch?v=9xfts_jRZ9U)
+- [All Friends And Kingdom Come](https://www.youtube.com/watch?v=pshDmk_JrQo)
 - [Ego, The Living Planet](https://www.youtube.com/watch?v=aDtrGiK1KM8)
 - [Blow 'Em Off](https://www.youtube.com/watch?v=EDZKEBKvjyo)
 - [Third Alternative](https://www.youtube.com/watch?v=kezve_bWPg0)
@@ -63,7 +64,6 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 - [Vertigo](https://www.youtube.com/watch?v=XWuZQ3ySNt4)
 - [Monster Magnet - Forbidden Planet 1](https://www.youtube.com/watch?v=oYiMVTvQmac)
 - [Monster Magnet - Forbidden Planet 2](https://www.youtube.com/watch?v=krSiJW4AZbE)
-- [Monster Magnet - Negasonic Teenage Warhead](https://www.youtube.com/watch?v=Qv2CADhNYMg)
 
 
 ## Release Information

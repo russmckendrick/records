@@ -55,12 +55,13 @@ styles: ["Punk"]
 
 
 ## Videos
-### NOFX - The Separation of Church & Skate
-{{< youtube id="lRf0LAx0yCE" title="NOFX - The Separation of Church & Skate" >}}<br>
+### NOFX - Day to Daze
+{{< youtube id="-sD0k-tkwLQ" title="NOFX - Day to Daze" >}}<br>
 
 ### More Videos
 
 - [NOFX - Don't Call Me White](https://www.youtube.com/watch?v=4Ik09xFT6mk)
+- [NOFX - The Separation of Church & Skate](https://www.youtube.com/watch?v=lRf0LAx0yCE)
 - [NOFX - Murder the Government](https://www.youtube.com/watch?v=WD3lgI9QIV8)
 - [NOFX - The Idiots Are Taking Over](https://www.youtube.com/watch?v=2sNWDfryyMk)
 - [NOFX - Shut Up Already](https://www.youtube.com/watch?v=5mzX98-kL70)
@@ -68,7 +69,6 @@ styles: ["Punk"]
 - [NOFX - The Longest Line](https://www.youtube.com/watch?v=th2XSsshwOs)
 - [NOFX - 180 Degrees](https://www.youtube.com/watch?v=eEcVtQCN-EY)
 - [NOFX - Franco Un-American](https://www.youtube.com/watch?v=HXROqc01Kps)
-- [NOFX - Day to Daze](https://www.youtube.com/watch?v=-sD0k-tkwLQ)
 - [NOFX - Stickin in My Eye](https://www.youtube.com/watch?v=LGY-RDRu98U)
 - [NOFX - It's My Job to Keep Punk Rock Elite](https://www.youtube.com/watch?v=tMl26jQtvTM)
 

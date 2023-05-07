@@ -43,13 +43,12 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 
 
 ## Videos
-### What Comes Around
-{{< youtube id="p-gf6KdJVPA" title="What Comes Around" >}}<br>
+### Beastie Boys - Shake Your Rump
+{{< youtube id="BptQHAW2T5M" title="Beastie Boys - Shake Your Rump" >}}<br>
 
 ### More Videos
 
 - [To All The Girls](https://www.youtube.com/watch?v=x2TP7tNQPwk)
-- [Beastie Boys - Shake Your Rump](https://www.youtube.com/watch?v=BptQHAW2T5M)
 - [Johnny Ryall](https://www.youtube.com/watch?v=PaE3JTPVKdc)
 - [Egg Man](https://www.youtube.com/watch?v=-OgG0GwT-uY)
 - [High Plains Drifter](https://www.youtube.com/watch?v=WVIbke4NTrg)
@@ -59,6 +58,7 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 - [5-Piece Chicken Dinner](https://www.youtube.com/watch?v=D1SLYttJ4wg)
 - [Beastie Boys - Looking Down The Barrel Of A Gun](https://www.youtube.com/watch?v=yr1Qe2m8oOA)
 - [Car Thief](https://www.youtube.com/watch?v=MaUZpqSylkg)
+- [What Comes Around](https://www.youtube.com/watch?v=p-gf6KdJVPA)
 - [Beastie Boys - Shadrach (Abstract Impressionist Version)](https://www.youtube.com/watch?v=MEVfHmjKOrM)
 - [Ask For Janice](https://www.youtube.com/watch?v=jaA9F1PfOpA)
 - [B-Boy Bouillabaisse: 59 Chrystie Street](https://www.youtube.com/watch?v=a1CwXMGyFFU)

@@ -38,8 +38,8 @@ styles: ["Leftfield"]
 
 
 ## Videos
-### change yr mind
-{{< youtube id="ocu-e4A-XBk" title="change yr mind" >}}<br>
+### how do you sleep?
+{{< youtube id="E55hWJFzaC8" title="how do you sleep?" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Leftfield"]
 - [LCD Soundsystem - tonite (Video)](https://www.youtube.com/watch?v=lqq3BtGrpU8)
 - [i used to](https://www.youtube.com/watch?v=P3tNaLXGPXc)
 - [LCD Soundsystem - american dream](https://www.youtube.com/watch?v=ML1MUKOJIIo)
+- [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
 - [LCD Soundsystem - call the police](https://www.youtube.com/watch?v=zWKIWNJnlzI)
-- [how do you sleep?](https://www.youtube.com/watch?v=E55hWJFzaC8)
 - [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)
 - [call the police](https://www.youtube.com/watch?v=b4AYQa0j_v8)
 - [american dream](https://www.youtube.com/watch?v=pUo4Waix-ww)

@@ -61,13 +61,13 @@ styles: ["Pop Rock", "Ballad"]
 
 
 ## Videos
-### Phil Collins - A Groovy Kind Of Love (Official Music Video)
-{{< youtube id="HsC_SARyPzk" title="Phil Collins - A Groovy Kind Of Love (Official Music Video)" >}}<br>
+### Phil Collins - Sussudio (Remastered Video) (1985)
+{{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}<br>
 
 ### More Videos
 
-- [Phil Collins - Sussudio (Remastered Video) (1985)](https://www.youtube.com/watch?v=icv0qn8qYPg)
 - [Phil Collins - In The Air Tonight (Official Music Video)](https://www.youtube.com/watch?v=YkADj0TPrJA)
+- [Phil Collins - A Groovy Kind Of Love (Official Music Video)](https://www.youtube.com/watch?v=HsC_SARyPzk)
 - [Phil Collins - Two Hearts (Official Music Video)](https://www.youtube.com/watch?v=SidxJz94Svs)
 - [Phil Collins - Do You Remember? (Official Music Video)](https://www.youtube.com/watch?v=hhfx1MdjnZc)
 - [Phil Collins - I Wish It Would Rain Down (Official Music Video)](https://www.youtube.com/watch?v=YcY3FH208l8)

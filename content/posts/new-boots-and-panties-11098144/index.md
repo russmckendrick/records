@@ -49,12 +49,12 @@ styles: ["Punk"]
 
 
 ## Videos
-### Sweet Gene Vincent
-{{< youtube id="DveyHAHfJi8" title="Sweet Gene Vincent" >}}<br>
+### Wake Up and Make Love with Me
+{{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}<br>
 
 ### More Videos
 
-- [Wake Up and Make Love with Me](https://www.youtube.com/watch?v=QON_NhWRnJ8)
+- [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
 - [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
 - [I'm Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
 - [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)

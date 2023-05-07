@@ -37,12 +37,12 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 
 
 ## Videos
-### King Rocker: Original Trailer
-{{< youtube id="Zy-ZeKkgXas" title="King Rocker: Original Trailer" >}}<br>
+### The Nightingales - Gales Doc
+{{< youtube id="jDeAxCQIcGM" title="The Nightingales - Gales Doc" >}}<br>
 
 ### More Videos
 
-- [The Nightingales - Gales Doc](https://www.youtube.com/watch?v=jDeAxCQIcGM)
+- [King Rocker: Original Trailer](https://www.youtube.com/watch?v=Zy-ZeKkgXas)
 - [King Rocker Trailer](https://www.youtube.com/watch?v=VukUbf6DPyY)
 
 

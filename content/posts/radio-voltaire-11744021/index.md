@@ -47,13 +47,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### KINO - I Don't Know Why (Album Track)
-{{< youtube id="zSEhyBbQbYM" title="KINO - I Don't Know Why (Album Track)" >}}<br>
+### Radio Voltaire
+{{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}<br>
 
 ### More Videos
 
-- [Radio Voltaire](https://www.youtube.com/watch?v=PU1pfWRd7FI)
 - [Kino : ¨Radio Voltaire¨](https://www.youtube.com/watch?v=PPcNGSp-hFQ)
+- [KINO - I Don't Know Why (Album Track)](https://www.youtube.com/watch?v=zSEhyBbQbYM)
 - [Idlewild](https://www.youtube.com/watch?v=KQ8NW00S4tQ)
 - [Keep the Faith](https://www.youtube.com/watch?v=-N4xxnp6dL8)
 - [Out of Time](https://www.youtube.com/watch?v=qoxS9jlKMVY)

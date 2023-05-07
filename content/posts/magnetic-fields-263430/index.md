@@ -33,14 +33,13 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Jean Michel Jarre - Magnetic Fields 2
-{{< youtube id="aibQMYOiofs" title="Jean Michel Jarre - Magnetic Fields 2" >}}<br>
+### Jean Michel Jarre - Magnetic Field
+{{< youtube id="wyzXZ_NFVrg" title="Jean Michel Jarre - Magnetic Field" >}}<br>
 
 ### More Videos
 
 - [Jean-Michel Jarre - Les Chants Magnétiques [Magnetic Fields] (1981)](https://www.youtube.com/watch?v=kf3mk4jDC4M)
 - [Jean-Michel Jarre - Magnetic Fields 4 - Vinyl - Nagaoka MP-500](https://www.youtube.com/watch?v=PUoES4Um8WU)
-- [Jean Michel Jarre - Magnetic Field](https://www.youtube.com/watch?v=wyzXZ_NFVrg)
 - [Magnetic Fields, Pt. 1](https://www.youtube.com/watch?v=_0tuo-nbuHs)
 - [Jean-Michel Jarre - Magnetic Fields, Pt. 2](https://www.youtube.com/watch?v=w434qhNJMdw)
 - [Magnetic Fields, Pt. 3](https://www.youtube.com/watch?v=IpOnoBoGEmw)
@@ -73,6 +72,7 @@ styles: ["Ambient"]
 - [Jean Michel Jarre - Magnetic Fields 1 (China 1981)](https://www.youtube.com/watch?v=l51VPwyyd5U)
 - [Jean Michel Jarre - Chants Magnetiques 2/Magnetic Fields Part 2 (New Version) (Edit) (HQ)](https://www.youtube.com/watch?v=vYycvi5RUrI)
 - [Jean Michel Jarre - Magnetic Fields I (Part 1) HD](https://www.youtube.com/watch?v=E7ZN0UBH2bI)
+- [Jean Michel Jarre - Magnetic Fields 2](https://www.youtube.com/watch?v=aibQMYOiofs)
 
 
 ## Release Information

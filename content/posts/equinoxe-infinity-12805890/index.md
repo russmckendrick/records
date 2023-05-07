@@ -38,8 +38,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### FLYING TOTEMS (movement 2)
-{{< youtube id="vd4DHJAddVg" title="FLYING TOTEMS (movement 2)" >}}<br>
+### Jean Michel Jarre - Equinoxe Infinity /full album/ (2018)
+{{< youtube id="MOdQSZPj1kk" title="Jean Michel Jarre - Equinoxe Infinity /full album/ (2018)" >}}<br>
 
 ### More Videos
 
@@ -47,6 +47,7 @@ styles: ["Synth-pop"]
 - [Jean-Michel Jarre - Flying Totems (Franci98my Remix)](https://www.youtube.com/watch?v=jaXBcbxJc5E)
 - [Continous Mix](https://www.youtube.com/watch?v=wuBvQapEhAo)
 - [THE WATCHERS (movement 1)](https://www.youtube.com/watch?v=ytd-i6fNWzY)
+- [FLYING TOTEMS (movement 2)](https://www.youtube.com/watch?v=vd4DHJAddVg)
 - [ALL THAT YOU LEAVE BEHIND (movement 4)](https://www.youtube.com/watch?v=Cw6Nc6QPfg0)
 - [IF THE WIND COULD SPEAK (movement 5)](https://www.youtube.com/watch?v=Ij0uhDRpIcg)
 - [INFINITY (movement 6)](https://www.youtube.com/watch?v=xFGVI0_UiNs)
@@ -55,7 +56,6 @@ styles: ["Synth-pop"]
 - [DON'T LOOK BACK (movement 9)](https://www.youtube.com/watch?v=xJ3n3JTiZ20)
 - [EQUINOXE INFINITY (movement 10)](https://www.youtube.com/watch?v=kmGSVzi7W4A)
 - [Jean Michel Jarre - Flying Totems (Movement II)](https://www.youtube.com/watch?v=mULr-gnkHtg)
-- [Jean Michel Jarre - Equinoxe Infinity /full album/ (2018)](https://www.youtube.com/watch?v=MOdQSZPj1kk)
 - [Jean Michel Jarre - Equinoxe Infinity [Full Album] [HQ]](https://www.youtube.com/watch?v=LL1RawtMmb8)
 - [Jean Michel Jarre - The Watchers (Movement I)](https://www.youtube.com/watch?v=d_RsdauwljE)
 

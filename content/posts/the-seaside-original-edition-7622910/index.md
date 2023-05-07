@@ -38,8 +38,8 @@ styles: ["Art Rock"]
 
 
 ## Videos
-### Cardiacs - To Go Off and Things Music Video [w/ The Seaside 2015 Reissue Audio] [720]
-{{< youtube id="4vM9-0Fhea4" title="Cardiacs - To Go Off and Things Music Video [w/ The Seaside 2015 Reissue Audio] [720]" >}}<br>
+### Cardiacs - RES Music Video [w/ The Seaside 2015 Reissue Audio] [720]
+{{< youtube id="t-9eN5J7hcg" title="Cardiacs - RES Music Video [w/ The Seaside 2015 Reissue Audio] [720]" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Art Rock"]
 - [Cardiacs - Nurses Whispering Verses](https://www.youtube.com/watch?v=8WpSRzp6GcE)
 - [Cardiacs - As Cold As Can Be In An English Sea rehearsal.](https://www.youtube.com/watch?v=N5QYijFfOaQ)
 - [Cardiacs - An Ant rehearsal](https://www.youtube.com/watch?v=V0yTGM4D1io)
-- [Cardiacs - RES Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=t-9eN5J7hcg)
 - [Cardiacs - A Little Man and His House Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=LSbRmyVMRhU)
+- [Cardiacs - To Go Off and Things Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=4vM9-0Fhea4)
 
 
 ## Release Information

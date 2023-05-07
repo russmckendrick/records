@@ -49,14 +49,15 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 
 
 ## Videos
-### TOPPOP: Dana Gillespie - Andy Warhol (Chromakey)
-{{< youtube id="b11Jw8ddigI" title="TOPPOP: Dana Gillespie - Andy Warhol (Chromakey)" >}}<br>
+### Marcia Ball & Stevie Ray Vaughan - Soulful Dress
+{{< youtube id="uyA8UgVPEIo" title="Marcia Ball & Stevie Ray Vaughan - Soulful Dress" >}}<br>
 
 ### More Videos
 
 - [David Bowie-  You've Been Around (with Reeves Gabrels)](https://www.youtube.com/watch?v=PemstNpfIvg)
 - [The Man Who Sold the World - performed by Tony Visconti, Woody Woodmansey & Glenn Gregory](https://www.youtube.com/watch?v=0bge0HZy_Us)
 - [Ian Hunter and Mick Ronson - All the Young Dudes - live at Rockpalast 80](https://www.youtube.com/watch?v=08SdIo0e--4)
+- [TOPPOP: Dana Gillespie - Andy Warhol (Chromakey)](https://www.youtube.com/watch?v=b11Jw8ddigI)
 - [Ava Cherry   I Am A Laser](https://www.youtube.com/watch?v=gDidSNQyB24)
 - [Red Eyes - Spiders From Mars (1/11)](https://www.youtube.com/watch?v=hcbOfYVWK_4)
 - [Mick Ronson-2-Growing Up And I'm Fine.](https://www.youtube.com/watch?v=Jz0sF9ZDUJY)
@@ -73,7 +74,6 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 - [Uriah Heep-   Illusion](https://www.youtube.com/watch?v=rzkfGW3-QP4)
 - [Carmen   Lonely House 1973](https://www.youtube.com/watch?v=6MJkPXMMgjA)
 - [dead dog on asphalt and i wish i knew - Adrian Belew's Side Two](https://www.youtube.com/watch?v=oCLAxJhX4bc)
-- [Marcia Ball & Stevie Ray Vaughan - Soulful Dress](https://www.youtube.com/watch?v=uyA8UgVPEIo)
 - [I Am Divine](https://www.youtube.com/watch?v=mBmGABEneqs)
 - [Frankie Goes To Hollywood - Suffragette city (1986)](https://www.youtube.com/watch?v=5u3uoNRQLbM)
 - [The McCoys, Sorrow, Single 1965](https://www.youtube.com/watch?v=t4nw7Xm7bTM)

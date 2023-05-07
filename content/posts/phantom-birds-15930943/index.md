@@ -38,8 +38,8 @@ styles: ["Psychedelic", "Easy Listening"]
 
 
 ## Videos
-### Covered In Clowns
-{{< youtube id="OZFsqfN49Dc" title="Covered In Clowns" >}}<br>
+### Take A Bow
+{{< youtube id="bJVX9FyO8nY" title="Take A Bow" >}}<br>
 
 ### More Videos
 
@@ -49,12 +49,12 @@ styles: ["Psychedelic", "Easy Listening"]
 - [Moonlight Flit](https://www.youtube.com/watch?v=pwe8SVBBvoM)
 - [Man Of Doom](https://www.youtube.com/watch?v=gbvx_kYHin4)
 - [Where's My Love?](https://www.youtube.com/watch?v=27tI2Kg0FkY)
-- [Take A Bow](https://www.youtube.com/watch?v=bJVX9FyO8nY)
 - [Intermission](https://www.youtube.com/watch?v=QXuyeK0N6so)
 - [Hail To The King](https://www.youtube.com/watch?v=tDCzAjxQFEY)
 - [In My Mind](https://www.youtube.com/watch?v=RwBRK3iVJ1A)
 - [That Yellow Bird](https://www.youtube.com/watch?v=eCmVnGdltts)
 - [Waving Goodbye](https://www.youtube.com/watch?v=RztchZ6f3Oo)
+- [Covered In Clowns](https://www.youtube.com/watch?v=OZFsqfN49Dc)
 
 
 ## Release Information

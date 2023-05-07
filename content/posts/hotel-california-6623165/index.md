@@ -37,11 +37,12 @@ styles: ["Country Rock"]
 
 
 ## Videos
-### Eagles - Hotel California (Lossless Audio)
-{{< youtube id="Br3KkvgMAZY" title="Eagles - Hotel California (Lossless Audio)" >}}<br>
+### Try and Love Again (2013 Remaster)
+{{< youtube id="yNnH1sN0dw8" title="Try and Love Again (2013 Remaster)" >}}<br>
 
 ### More Videos
 
+- [Eagles - Hotel California (Lossless Audio)](https://www.youtube.com/watch?v=Br3KkvgMAZY)
 - [Eagles - Hotel California (Live 1977) (Official Video) [HD]](https://www.youtube.com/watch?v=09839DpTctU)
 - [Eagles - Hotel California (Lyrics)](https://www.youtube.com/watch?v=To86UdOx0A8)
 - [Eagles perform Hotel California at the 1998 Rock & Roll Hall of Fame Induction Ceremony](https://www.youtube.com/watch?v=FVsbvFkhzY4)
@@ -53,7 +54,6 @@ styles: ["Country Rock"]
 - [New Kid in Town (2013 Remaster)](https://www.youtube.com/watch?v=-Pa5nqYXEnY)
 - [Eagles    Hotel California    Live Acoustic](https://www.youtube.com/watch?v=56l7mHqK59o)
 - [The True Meaning of Hotel California](https://www.youtube.com/watch?v=yVkbwqKBO4E)
-- [Try and Love Again (2013 Remaster)](https://www.youtube.com/watch?v=yNnH1sN0dw8)
 
 
 ## Release Information

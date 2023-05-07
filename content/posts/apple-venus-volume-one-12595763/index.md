@@ -36,8 +36,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### XTC-Fruit Nut- Apple Venus Volume 1
-{{< youtube id="QVJ6ZVSQJwM" title="XTC-Fruit Nut- Apple Venus Volume 1" >}}<br>
+### XTC- Easter Theatre -  Apple Venus Volume 1 -
+{{< youtube id="vgUuaiiRTas" title="XTC- Easter Theatre -  Apple Venus Volume 1 -" >}}<br>
 
 ### More Videos
 
@@ -45,8 +45,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [XTC- I'd Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
 - [XTC - River of Orchids](https://www.youtube.com/watch?v=BXcGM4iU1a0)
 - [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
-- [XTC- Easter Theatre -  Apple Venus Volume 1 -](https://www.youtube.com/watch?v=vgUuaiiRTas)
 - [XTC - Apple Venus Demos - I'm Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
+- [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
 
 
 ## Release Information

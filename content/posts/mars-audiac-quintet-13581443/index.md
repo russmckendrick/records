@@ -57,8 +57,8 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 
 
 ## Videos
-### Stereolab - Anamorphose
-{{< youtube id="ksR2AnpgPo0" title="Stereolab - Anamorphose" >}}<br>
+### Ping Pong- Demo
+{{< youtube id="YeCD8Gs8LA0" title="Ping Pong- Demo" >}}<br>
 
 ### More Videos
 
@@ -68,8 +68,8 @@ styles: ["Indie Rock", "Experimental", "Post Rock"]
 - [Transona Five](https://www.youtube.com/watch?v=Dlx3eGq3u_E)
 - [Stereolab - L'Enfer Des Formes](https://www.youtube.com/watch?v=Blsw1powe6M)
 - [L'Enfer Des Formes](https://www.youtube.com/watch?v=A7UD_Fk-VvY)
-- [Ping Pong- Demo](https://www.youtube.com/watch?v=YeCD8Gs8LA0)
 - [Outer Accelerator - (Original Mix)](https://www.youtube.com/watch?v=MKz7tZDfb4I)
+- [Stereolab - Anamorphose](https://www.youtube.com/watch?v=ksR2AnpgPo0)
 
 
 ## Release Information

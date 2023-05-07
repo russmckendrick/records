@@ -39,14 +39,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### CRANES - Can't Get Free
-{{< youtube id="yxpU26EeHis" title="CRANES - Can't Get Free" >}}<br>
+### Cranes - Tangled Up
+{{< youtube id="8O5YYeaseyk" title="Cranes - Tangled Up" >}}<br>
 
 ### More Videos
 
-- [Cranes - Tangled Up](https://www.youtube.com/watch?v=8O5YYeaseyk)
 - [Cranes - Fourteen](https://www.youtube.com/watch?v=N_tnRFk1uYA)
 - [Cranes - Breeze](https://www.youtube.com/watch?v=4zlyT6TZdfg)
+- [CRANES - Can't Get Free](https://www.youtube.com/watch?v=yxpU26EeHis)
 - [CRANES - Stalk](https://www.youtube.com/watch?v=6PXbNjzDfr8)
 - [CRANES - Sweet Unknown](https://www.youtube.com/watch?v=CFiREL2rNl8)
 - [CRANES - Angel Bell](https://www.youtube.com/watch?v=IRMUYpkOlrI)

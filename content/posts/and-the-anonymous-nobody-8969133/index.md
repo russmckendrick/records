@@ -46,8 +46,8 @@ styles: ["Conscious"]
 
 
 ## Videos
-### De La Soul & The Anonymous Nobody
-{{< youtube id="lY7TXSOYA-M" title="De La Soul & The Anonymous Nobody" >}}<br>
+### De La Soul - Snoopies (feat. David Byrne) (Official Audio)
+{{< youtube id="rBk9knE8v08" title="De La Soul - Snoopies (feat. David Byrne) (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -60,10 +60,10 @@ styles: ["Conscious"]
 - [De La Soul - Drawn ft. Little Dragon (Official Audio)](https://www.youtube.com/watch?v=umdFFR9XVpE)
 - [De La Soul - Drawn ft. Little Dragon](https://www.youtube.com/watch?v=lGpw84iVgmM)
 - [De La Soul - Royalty Capes (Official Audio)](https://www.youtube.com/watch?v=x792pVBX89o)
-- [De La Soul - Snoopies (feat. David Byrne) (Official Audio)](https://www.youtube.com/watch?v=rBk9knE8v08)
 - [Genesis](https://www.youtube.com/watch?v=trouXMCxLAw)
 - [De La Soul - Exodus (Official Audio)](https://www.youtube.com/watch?v=SXUrOzR6N9g)
 - [De La Soul - CBGB'S (Official Audio)](https://www.youtube.com/watch?v=r0-ueCPCYNI)
+- [De La Soul & The Anonymous Nobody](https://www.youtube.com/watch?v=lY7TXSOYA-M)
 - [De La Soul - Royalty Capes](https://www.youtube.com/watch?v=Uc-4sB0EFLg)
 - [De La Soul - Memory of… (US) ft. Estelle, Pete Rock](https://www.youtube.com/watch?v=pFTNjzzeU-8)
 - [De La Soul - We're Still Here (now)... a documentary about nobody](https://www.youtube.com/watch?v=tmpGJ7P_xsw)

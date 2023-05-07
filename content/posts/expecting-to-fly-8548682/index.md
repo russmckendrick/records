@@ -39,15 +39,15 @@ styles: ["Britpop", "Indie Rock"]
 
 
 ## Videos
-### The Bluetones - Putting out Fires
-{{< youtube id="mC2zVwPdWos" title="The Bluetones - Putting out Fires" >}}<br>
+### Bluetones - Cut Some Rug - Full Video Song
+{{< youtube id="i80ClZCwVcg" title="Bluetones - Cut Some Rug - Full Video Song" >}}<br>
 
 ### More Videos
 
 - [The Bluetones - Slight Return](https://www.youtube.com/watch?v=B-3UpL6MkZ0)
 - [Talking to Clarry - The Bluetones](https://www.youtube.com/watch?v=5kVRAbSOTMs)
 - [The bluetones- Bluetonic](https://www.youtube.com/watch?v=7JVFHCcHv5Y)
-- [Bluetones - Cut Some Rug - Full Video Song](https://www.youtube.com/watch?v=i80ClZCwVcg)
+- [The Bluetones - Putting out Fires](https://www.youtube.com/watch?v=mC2zVwPdWos)
 - [Cut Some Rug - The Bluetones](https://www.youtube.com/watch?v=Cv3be8ScIdQ)
 
 

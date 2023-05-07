@@ -36,12 +36,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Grimspound
-{{< youtube id="Aaf1XDtWVNk" title="Grimspound" >}}<br>
+### Brave Captain
+{{< youtube id="m8M6KG1e-jU" title="Brave Captain" >}}<br>
 
 ### More Videos
 
-- [Brave Captain](https://www.youtube.com/watch?v=m8M6KG1e-jU)
+- [Grimspound](https://www.youtube.com/watch?v=Aaf1XDtWVNk)
 - [A Mead Hall in Winter](https://www.youtube.com/watch?v=52lrA-D7aKA)
 
 

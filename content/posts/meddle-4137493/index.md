@@ -34,13 +34,13 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### One Of These Days
-{{< youtube id="48PJGVf4xqk" title="One Of These Days" >}}<br>
+### Pink Floyd - Meddle (Full Album)
+{{< youtube id="90zyF3gPF8M" title="Pink Floyd - Meddle (Full Album)" >}}<br>
 
 ### More Videos
 
+- [One Of These Days](https://www.youtube.com/watch?v=48PJGVf4xqk)
 - [Echoes](https://www.youtube.com/watch?v=53N99Nim6WE)
-- [Pink Floyd - Meddle (Full Album)](https://www.youtube.com/watch?v=90zyF3gPF8M)
 
 
 ## Release Information

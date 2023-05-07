@@ -37,8 +37,8 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Have You Heard the News (1997 Remaster)
-{{< youtube id="aYIKfkTJYcs" title="Have You Heard the News (1997 Remaster)" >}}<br>
+### Another Word (1997 Remaster)
+{{< youtube id="Gm0KdMrhifw" title="Another Word (1997 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["New Wave", "Synth-pop"]
 - [Today (1997 Remaster)](https://www.youtube.com/watch?v=gMDN4MbSKqw)
 - [The Party's Over (1997 Remaster)](https://www.youtube.com/watch?v=kNXYKYkqvE8)
 - [Hate (1997 Remaster)](https://www.youtube.com/watch?v=4rqUYKKSyHE)
+- [Have You Heard the News (1997 Remaster)](https://www.youtube.com/watch?v=aYIKfkTJYcs)
 - [Mirror Man (1997 Remaster)](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
-- [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
 - [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 
 

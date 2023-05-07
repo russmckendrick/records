@@ -40,12 +40,11 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)
-{{< youtube id="0bgXNI4Fc7E" title="Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)" >}}<br>
+### Global Communication ~ Pentamerous Metamorphosis (Full Album)
+{{< youtube id="Kpj6vyxS4kw" title="Global Communication ~ Pentamerous Metamorphosis (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Global Communication ~ Pentamerous Metamorphosis (Full Album)](https://www.youtube.com/watch?v=Kpj6vyxS4kw)
 - [Don't look now ~ Chapterhouse](https://www.youtube.com/watch?v=F36BQY6tnlg)
 - [Chapterhouse - Don't Look Now (Club Bliss Mix)](https://www.youtube.com/watch?v=X9ZUYrUCzTQ)
 - [There's still life : Chapterhouse](https://www.youtube.com/watch?v=kipmFuYEt3g)
@@ -59,6 +58,7 @@ styles: ["Indie Rock", "Shoegaze"]
 - [Greater power - Chapterhouse](https://www.youtube.com/watch?v=9EC7uTL10k8)
 - [Chapterhouse - Confusion Trip](https://www.youtube.com/watch?v=5-V7wTT5Bpk)
 - [Love Forever - Chapterhouse](https://www.youtube.com/watch?v=U4EZJEdGuxI)
+- [Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)](https://www.youtube.com/watch?v=0bgXNI4Fc7E)
 - [Chapterhouse - Picnic](https://www.youtube.com/watch?v=uFcBEq2pfmU)
 
 

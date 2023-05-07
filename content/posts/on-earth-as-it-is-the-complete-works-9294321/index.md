@@ -49,13 +49,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mother Love Bone - Chloe Dancer / Crown of Thorns
-{{< youtube id="lH0gnwtSEGI" title="Mother Love Bone - Chloe Dancer / Crown of Thorns" >}}<br>
+### Man Of Golden Words
+{{< youtube id="EM0wPIjmYbs" title="Man Of Golden Words" >}}<br>
 
 ### More Videos
 
 - [Mother Love Bone - Stargazer](https://www.youtube.com/watch?v=p9n9gW1wCks)
-- [Man Of Golden Words](https://www.youtube.com/watch?v=EM0wPIjmYbs)
+- [Mother Love Bone - Chloe Dancer / Crown of Thorns](https://www.youtube.com/watch?v=lH0gnwtSEGI)
 
 
 ## Release Information

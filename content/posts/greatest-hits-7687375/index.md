@@ -38,8 +38,8 @@ styles: ["Soul"]
 
 
 ## Videos
-### Let's Stay Together
-{{< youtube id="2FEJINHoRcU" title="Let's Stay Together" >}}<br>
+### You Ought to Be with Me
+{{< youtube id="BWXuLHzj8JM" title="You Ought to Be with Me" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: ["Soul"]
 - [I'm Still in Love with You](https://www.youtube.com/watch?v=tS4W_A1X1pM)
 - [Here I Am (Come and Take Me)](https://www.youtube.com/watch?v=vHAXp39WjZM)
 - [Al Green - How Can You Mend a Broken Heart (Official Audio)](https://www.youtube.com/watch?v=PTY6Kv0nPr8)
+- [Let's Stay Together](https://www.youtube.com/watch?v=2FEJINHoRcU)
 - [I Can't Get Next to You](https://www.youtube.com/watch?v=FJeyL4rXPV4)
-- [You Ought to Be with Me](https://www.youtube.com/watch?v=BWXuLHzj8JM)
 - [Look What You Done for Me](https://www.youtube.com/watch?v=le_SsLujDjg)
 - [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
 - [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)

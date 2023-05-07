@@ -39,20 +39,20 @@ styles: ["Progressive Metal", "Symphonic Metal"]
 
 
 ## Videos
-### Scene Seven: II. One Last Time
-{{< youtube id="K6mC13XIvCk" title="Scene Seven: II. One Last Time" >}}<br>
+### Scene Three: I. Through My Words
+{{< youtube id="TPOfOuMSNKg" title="Scene Three: I. Through My Words" >}}<br>
 
 ### More Videos
 
 - [Scene One: Regression](https://www.youtube.com/watch?v=H2UHWFU5uFY)
 - [Scene Two: I. Overture 1928](https://www.youtube.com/watch?v=36bUoh0HMIE)
 - [Scene Two: II. Strange Déjà Vu](https://www.youtube.com/watch?v=mSiNpUnUy1w)
-- [Scene Three: I. Through My Words](https://www.youtube.com/watch?v=TPOfOuMSNKg)
 - [Scene Three: II. Fatal Tragedy](https://www.youtube.com/watch?v=cCDLqz0NdCY)
 - [Scene Four: Beyond This Life](https://www.youtube.com/watch?v=-rhxFcAVYmI)
 - [Scene Five: Through Her Eyes](https://www.youtube.com/watch?v=3gy8hkVMqwQ)
 - [Scene Six: Home](https://www.youtube.com/watch?v=6qNgrtyUIQQ)
 - [Scene Seven: I. The Dance of Eternity](https://www.youtube.com/watch?v=eYCYGpu0OxM)
+- [Scene Seven: II. One Last Time](https://www.youtube.com/watch?v=K6mC13XIvCk)
 - [Scene Eight: The Spirit Carries On](https://www.youtube.com/watch?v=7NuiVUxZQfs)
 - [Scene Nine: Finally Free](https://www.youtube.com/watch?v=tdZKo7hPzmE)
 

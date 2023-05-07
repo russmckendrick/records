@@ -41,8 +41,8 @@ styles: ["Comedy"]
 
 
 ## Videos
-### Friends
-{{< youtube id="LGjPMLGqkPk" title="Friends" >}}<br>
+### You Don't Have To Be A Prostitute
+{{< youtube id="-l3H20wCkeA" title="You Don't Have To Be A Prostitute" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Comedy"]
 - [Demon Woman](https://www.youtube.com/watch?v=2shdLm-HpVU)
 - [Carol Brown](https://www.youtube.com/watch?v=Hz5SFQsLzAg)
 - [Fashion is Danger](https://www.youtube.com/watch?v=EU3QKZPT2yU)
-- [You Don't Have To Be A Prostitute](https://www.youtube.com/watch?v=-l3H20wCkeA)
+- [Friends](https://www.youtube.com/watch?v=LGjPMLGqkPk)
 - [I Told You I Was Freaky](https://www.youtube.com/watch?v=un75I40-xro)
 - [I Told You I Was Freaky](https://www.youtube.com/watch?v=YikWapO2TQs)
 - [Too Many Dicks (On The Dance Floor)](https://www.youtube.com/watch?v=fCpOdB8lBvg)

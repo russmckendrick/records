@@ -45,12 +45,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### XTC- War Dance home demo -Nonsuch-
-{{< youtube id="pBY5lJDO6TA" title="XTC- War Dance home demo -Nonsuch-" >}}<br>
+### XTC - The Disappointed
+{{< youtube id="zyp3NMeiV_Q" title="XTC - The Disappointed" >}}<br>
 
 ### More Videos
 
-- [XTC - The Disappointed](https://www.youtube.com/watch?v=zyp3NMeiV_Q)
 - [XTC-The Disappointed -Official Promo Video](https://www.youtube.com/watch?v=ZG3YTqOlIkI)
 - [XTC-Then She Appeared- Nonsuch 1992](https://www.youtube.com/watch?v=rkCeN4PLR10)
 - [My Bird Performs (2001 Remaster)](https://www.youtube.com/watch?v=-fx8D1ixbys)
@@ -59,6 +58,7 @@ styles: ["Pop Rock"]
 - [Xtc - The Ugly Underneath](https://www.youtube.com/watch?v=7wVIQeQKEj4)
 - [Humble Daisy (2001 Remaster)](https://www.youtube.com/watch?v=n_EFGlpkUlg)
 - [Wrapped In Grey (2001 Remaster)](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
+- [XTC- War Dance home demo -Nonsuch-](https://www.youtube.com/watch?v=pBY5lJDO6TA)
 - [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
 - [The Ballad of Peter Pumpkinhead /  XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
 

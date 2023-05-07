@@ -46,20 +46,20 @@ styles: []
 
 
 ## Videos
-### Bruce Springsteen - Glory Days (Official Video)
-{{< youtube id="6vQpW9XRiyM" title="Bruce Springsteen - Glory Days (Official Video)" >}}<br>
+### Badlands
+{{< youtube id="SDlSCeQXbPo" title="Badlands" >}}<br>
 
 ### More Videos
 
 - [Bruce Springsteen - Born to Run (Official Video)](https://www.youtube.com/watch?v=IxuThNgl3YA)
 - [Thunder Road](https://www.youtube.com/watch?v=-xSOWnfNMs0)
-- [Badlands](https://www.youtube.com/watch?v=SDlSCeQXbPo)
 - [The River](https://www.youtube.com/watch?v=y7BUXRsTbvI)
 - [Bruce Springsteen - Hungry Heart (Berlin '95 Version)](https://www.youtube.com/watch?v=0My2AqPFpFg)
 - [Bruce Springsteen - Atlantic City](https://www.youtube.com/watch?v=M3eu1gW-bQ8)
 - [Bruce Springsteen - Dancing In the Dark (Official Video)](https://www.youtube.com/watch?v=129kuDCQtHs)
 - [Bruce Springsteen - Born in the U.S.A. (Official Video)](https://www.youtube.com/watch?v=EPhWR4d3FJQ)
 - [Bruce Springsteen - My Hometown (Official Video)](https://www.youtube.com/watch?v=77gKSp8WoRg)
+- [Bruce Springsteen - Glory Days (Official Video)](https://www.youtube.com/watch?v=6vQpW9XRiyM)
 - [Bruce Springsteen - Brilliant Disguise (Official Video)](https://www.youtube.com/watch?v=idnJnjV_8rg)
 - [Bruce Springsteen - Human Touch (Official Video)](https://www.youtube.com/watch?v=85cNRQo1m3A)
 - [Bruce Springsteen - Better Days](https://www.youtube.com/watch?v=VmwJQ62Cs_o)

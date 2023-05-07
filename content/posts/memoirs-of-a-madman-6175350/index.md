@@ -45,15 +45,15 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### Paranoid (Live at The Roundhouse, London, England - 2010)
-{{< youtube id="uUsqxqRCuig" title="Paranoid (Live at The Roundhouse, London, England - 2010)" >}}<br>
+### OZZY OSBOURNE - Dreamer
+{{< youtube id="LCCiwPEdEpg" title="OZZY OSBOURNE - Dreamer" >}}<br>
 
 ### More Videos
 
-- [OZZY OSBOURNE - Dreamer](https://www.youtube.com/watch?v=LCCiwPEdEpg)
 - [OZZY OSBOURNE - No More Tears](https://www.youtube.com/watch?v=CprfjfN5PRs)
 - [Mr. Crowley](https://www.youtube.com/watch?v=4Rtq63cdTro)
 - [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
+- [Paranoid (Live at The Roundhouse, London, England - 2010)](https://www.youtube.com/watch?v=uUsqxqRCuig)
 
 
 ## Release Information

@@ -35,8 +35,8 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 
 
 ## Videos
-### Money Is Mine
-{{< youtube id="BSRFZ-zPiG8" title="Money Is Mine" >}}<br>
+### The Last One
+{{< youtube id="NiuAKCPopUg" title="The Last One" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 - [Fear Fear](https://www.youtube.com/watch?v=gWb6K10kny4)
 - [Cut](https://www.youtube.com/watch?v=wmpLFvuCR7s)
 - [19](https://www.youtube.com/watch?v=5dbX7nMshMU)
-- [The Last One](https://www.youtube.com/watch?v=NiuAKCPopUg)
+- [Money Is Mine](https://www.youtube.com/watch?v=BSRFZ-zPiG8)
 - [Working Men's Club - Fear Fear | RESEÑA DEL ÁLBUM](https://www.youtube.com/watch?v=5NU2Az9Up7A)
 
 

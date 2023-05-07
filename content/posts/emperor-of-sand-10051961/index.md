@@ -39,14 +39,14 @@ styles: ["Progressive Metal", "Sludge Metal"]
 
 
 ## Videos
-### Mastodon - Show Yourself [Official Music Video]
-{{< youtube id="gUGda7GdZPQ" title="Mastodon - Show Yourself [Official Music Video]" >}}<br>
+### Mastodon - Steambreather [Official Music Video]
+{{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [Mastodon - Steambreather [Official Music Video]](https://www.youtube.com/watch?v=HEubrZV04b0)
 - [Mastodon - Sultan's Curse [Official Audio]](https://www.youtube.com/watch?v=Og39iIBeOHI)
 - [Mastodon - Andromeda [Official Audio]](https://www.youtube.com/watch?v=8Ry7FStwey4)
+- [Mastodon - Show Yourself [Official Music Video]](https://www.youtube.com/watch?v=gUGda7GdZPQ)
 
 
 ## Release Information

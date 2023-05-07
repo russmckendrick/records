@@ -35,12 +35,11 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### Primus - The Rainbow Goblins Chapter 2 (The Seven)
-{{< youtube id="xIyzA-xHnh0" title="Primus - The Rainbow Goblins Chapter 2 (The Seven)" >}}<br>
+### Primus - The Rainbow Goblins Chapter 7 (The Ends?)
+{{< youtube id="zH0ciOB9Fgw" title="Primus - The Rainbow Goblins Chapter 7 (The Ends?)" >}}<br>
 
 ### More Videos
 
-- [Primus - The Rainbow Goblins Chapter 7 (The Ends?)](https://www.youtube.com/watch?v=zH0ciOB9Fgw)
 - [Primus - The Seven (Official Audio)](https://www.youtube.com/watch?v=jw95wlggfYM)
 - [Primus - The Seven (Official Lyric Video)](https://www.youtube.com/watch?v=kZVToL4LhDQ)
 - [Primus - The Desaturating Seven [Full Album]](https://www.youtube.com/watch?v=yLhJYYRx_9k)
@@ -48,6 +47,7 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [Primus - The Rainbow Goblins Chapter 1 (The Valley)](https://www.youtube.com/watch?v=Ui0Y0fVRjzU)
 - [Primus - The Rainbow Goblins Chapter 6 (The Storm)](https://www.youtube.com/watch?v=-bfF94YCu7o)
 - [Primus - The Rainbow Goblins Chapter 3 (The Trek)](https://www.youtube.com/watch?v=rEOH7MeltqU)
+- [Primus - The Rainbow Goblins Chapter 2 (The Seven)](https://www.youtube.com/watch?v=xIyzA-xHnh0)
 - [Primus - The Scheme (Official Audio)](https://www.youtube.com/watch?v=oF4DXdRWzY0)
 - [Primus - The Rainbow Goblins Chapter 4 (The Scheme)](https://www.youtube.com/watch?v=jc7Fa2ihwpQ)
 - [Primus - The Valley - (The Desaturating Seven)](https://www.youtube.com/watch?v=43mrOTRtCAI)

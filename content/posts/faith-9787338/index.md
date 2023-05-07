@@ -37,8 +37,8 @@ styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 
 
 ## Videos
-### I Believe (When I Fall in Love It Will Be Forever) (Remastered)
-{{< youtube id="dJx7xOshbHc" title="I Believe (When I Fall in Love It Will Be Forever) (Remastered)" >}}<br>
+### I Want Your Sex (Pts. 1 & 2 Remastered)
+{{< youtube id="-pIRNx6Q3aE" title="I Want Your Sex (Pts. 1 & 2 Remastered)" >}}<br>
 
 ### More Videos
 
@@ -47,11 +47,11 @@ styles: ["Pop Rock", "Soft Rock", "Synth-pop"]
 - [George Michael - I Want Your Sex (Official Video)](https://www.youtube.com/watch?v=r3AP26ywQsQ)
 - [George Michael - Kissing a Fool](https://www.youtube.com/watch?v=hhmj6Gm-6Do)
 - [George Michael - Father Figure](https://www.youtube.com/watch?v=m_9hfHvQSNo)
+- [I Believe (When I Fall in Love It Will Be Forever) (Remastered)](https://www.youtube.com/watch?v=dJx7xOshbHc)
 - [George Michael - I Want Your Sex (Stereo Version)](https://www.youtube.com/watch?v=vldh7oQD-a4)
 - [Monkey (A cappella Remastered)](https://www.youtube.com/watch?v=BcuCJwqjJx8)
 - [Kissing a Fool (Remastered)](https://www.youtube.com/watch?v=2oMBNwv4OW4)
 - [Father Figure (Remastered)](https://www.youtube.com/watch?v=2WNVNAOQWCE)
-- [I Want Your Sex (Pts. 1 & 2 Remastered)](https://www.youtube.com/watch?v=-pIRNx6Q3aE)
 - [One More Try (Remastered)](https://www.youtube.com/watch?v=gQn2xzLLSyo)
 - [Hard Day (Remastered)](https://www.youtube.com/watch?v=tdIMU6Y-uEk)
 - [A Last Request (I Want Your Sex) (Remastered)](https://www.youtube.com/watch?v=xwn7eCIMxk8)

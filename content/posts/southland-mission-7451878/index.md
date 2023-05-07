@@ -37,15 +37,15 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 
 
 ## Videos
-### Gone
-{{< youtube id="wlO7QYMb2aU" title="Gone" >}}<br>
+### Lowly Road
+{{< youtube id="YyJOj8aVtmM" title="Lowly Road" >}}<br>
 
 ### More Videos
 
 - [Phil Cook - Southland Mission (Documentary)](https://www.youtube.com/watch?v=k_4TyQ1s_Lc)
 - [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
 - [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
-- [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
+- [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
 
 
 ## Release Information

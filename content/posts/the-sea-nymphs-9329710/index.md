@@ -44,16 +44,16 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### The Sea Nymphs - Shaping The River
-{{< youtube id="TbxzUhk7R5c" title="The Sea Nymphs - Shaping The River" >}}<br>
+### The Sea Nymphs - Lucky Lucy
+{{< youtube id="zQfsgQdLUaY" title="The Sea Nymphs - Lucky Lucy" >}}<br>
 
 ### More Videos
 
 - [The Sea Nymphs : Abade](https://www.youtube.com/watch?v=h2McejcOiwI)
 - [The Sea Nymphs - The Sea Ritual (Peel Session)](https://www.youtube.com/watch?v=5NjQgbEduQQ)
 - [The Sea Nymphs - The Psalm Of Life](https://www.youtube.com/watch?v=NIk1D39lqLQ)
+- [The Sea Nymphs - Shaping The River](https://www.youtube.com/watch?v=TbxzUhk7R5c)
 - [The Sea Nymphs - In The Corner Of Sin](https://www.youtube.com/watch?v=yrHJ0cLBObA)
-- [The Sea Nymphs - Lucky Lucy](https://www.youtube.com/watch?v=zQfsgQdLUaY)
 - [The Sea Nymphs - Christ Alive](https://www.youtube.com/watch?v=95POAOWn2xM)
 - [Dog Eat Spine](https://www.youtube.com/watch?v=hKtX4t_MBAA)
 

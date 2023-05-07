@@ -39,14 +39,14 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - I Got You (1980)
-{{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
+### Split Enz - Nobody Takes Me Seriously
+{{< youtube id="gkk5kZxe_ks" title="Split Enz - Nobody Takes Me Seriously" >}}<br>
 
 ### More Videos
 
+- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - How Can I Resist Her? (1980)](https://www.youtube.com/watch?v=sA1M-_pJv6s)
 - [HOW CAN I RESIST HER By Split Enz](https://www.youtube.com/watch?v=BLDmz3YfjMo)
-- [Split Enz - Nobody Takes Me Seriously](https://www.youtube.com/watch?v=gkk5kZxe_ks)
 - [split enz - the choral sea](https://www.youtube.com/watch?v=8-jVOHQLRF0)
 - [Split Enz-True Colours [Full Album] 1980](https://www.youtube.com/watch?v=DLnjju8zeVI)
 - [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)

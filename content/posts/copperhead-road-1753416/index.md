@@ -38,12 +38,12 @@ styles: ["Folk Rock", "Country Rock"]
 
 
 ## Videos
-### Steve Earle - Copperhead Road (Official Video)
-{{< youtube id="xvaEJzoaYZk" title="Steve Earle - Copperhead Road (Official Video)" >}}<br>
+### Steve Earle - Back To The Wall
+{{< youtube id="bbEIS1q6GZ0" title="Steve Earle - Back To The Wall" >}}<br>
 
 ### More Videos
 
-- [Steve Earle - Back To The Wall](https://www.youtube.com/watch?v=bbEIS1q6GZ0)
+- [Steve Earle - Copperhead Road (Official Video)](https://www.youtube.com/watch?v=xvaEJzoaYZk)
 
 
 ## Release Information

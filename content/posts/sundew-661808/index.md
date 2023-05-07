@@ -35,14 +35,14 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Paris Angels - Slippery Man (1991)
-{{< youtube id="YcoIGguMLmw" title="Paris Angels - Slippery Man (1991)" >}}<br>
+### Paris Angels - Fade
+{{< youtube id="AaSBOGRk2QI" title="Paris Angels - Fade" >}}<br>
 
 ### More Videos
 
 - [Paris Angels - Eternity (1991)](https://www.youtube.com/watch?v=XVyHvWFRlCo)
-- [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
 - [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
+- [Paris Angels - Slippery Man (1991)](https://www.youtube.com/watch?v=YcoIGguMLmw)
 - [Paris Angels - What Goes On](https://www.youtube.com/watch?v=XvNq53_7-NE)
 - [Paris Angels - Perfume (Loved up) (audio only)](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
 - [Paris Angels - Breathless](https://www.youtube.com/watch?v=6Na_uds8r90)

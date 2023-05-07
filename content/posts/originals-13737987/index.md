@@ -58,15 +58,15 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### Prince - Noon Rendezvous (Official Audio)
-{{< youtube id="XqFEpHXqFzg" title="Prince - Noon Rendezvous (Official Audio)" >}}<br>
+### Prince - Jungle Love (Official Audio)
+{{< youtube id="VimhzZyd0Wc" title="Prince - Jungle Love (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Prince - Nothing Compares 2 U (Official Music Video)](https://www.youtube.com/watch?v=cpGA0azFdCs)
 - [Prince - Sex Shooter (Official Audio)](https://www.youtube.com/watch?v=UmTqS2IBkTc)
-- [Prince - Jungle Love (Official Audio)](https://www.youtube.com/watch?v=VimhzZyd0Wc)
 - [Prince - Manic Monday (Official Music Video)](https://www.youtube.com/watch?v=WnPX-uI7ivM)
+- [Prince - Noon Rendezvous (Official Audio)](https://www.youtube.com/watch?v=XqFEpHXqFzg)
 - [Prince - Make-Up (Official Audio)](https://www.youtube.com/watch?v=sOZVJODyiRA)
 - [Prince - 100 MPH (Official Audio)](https://www.youtube.com/watch?v=OpJpvrdUSB4)
 - [Prince - You're My Love (Official Audio)](https://www.youtube.com/watch?v=3o84aYs15go)

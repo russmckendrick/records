@@ -37,13 +37,12 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 
 
 ## Videos
-### Aurora (O.S.T.)
-{{< youtube id="AeSCsB2uOmI" title="Aurora (O.S.T.)" >}}<br>
+### Army Of Me
+{{< youtube id="a19X695w3No" title="Army Of Me" >}}<br>
 
 ### More Videos
 
 - [Ripper's Sole (O.S.T.)](https://www.youtube.com/watch?v=8ric_N_AGD8)
-- [Army Of Me](https://www.youtube.com/watch?v=a19X695w3No)
 - [Girl U Want (O.S.T.)](https://www.youtube.com/watch?v=Ga_eP6vIHnQ)
 - [Mockingbird Girl (O.S.T.)](https://www.youtube.com/watch?v=6TqnZEe-6K8)
 - [Shove (O.S.T.)](https://www.youtube.com/watch?v=itXA0NPMu7M)
@@ -52,6 +51,7 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 - [Roads (O.S.T.)](https://www.youtube.com/watch?v=uvOkWj1USBE)
 - [Let's Do It (O.S.T.)](https://www.youtube.com/watch?v=xi8i08ve4hE)
 - [Thief (O.S.T.)](https://www.youtube.com/watch?v=-MjlENtpyxc)
+- [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
 - [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
 
 

@@ -38,8 +38,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Perversonality  - Therapy?
-{{< youtube id="Qbs3ms5A5pM" title="Perversonality  - Therapy?" >}}<br>
+### Neck Freak
+{{< youtube id="rSgjWbnHn7o" title="Neck Freak" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 - [Therapy? : Disgracelands (1992)](https://www.youtube.com/watch?v=ObltOZKQvXM)
 - [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
 - [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
-- [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
+- [Perversonality  - Therapy?](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
 - [Therapy? - Gone (with lyrics)](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
 - [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)
 - [Therapy?  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)

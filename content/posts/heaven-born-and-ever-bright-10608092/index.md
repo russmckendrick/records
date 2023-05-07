@@ -36,8 +36,8 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 
 
 ## Videos
-### CARDIACS - Core
-{{< youtube id="6pEbXdT0PWw" title="CARDIACS - Core" >}}<br>
+### Cardiacs - Bodysbad
+{{< youtube id="mXqqmxDq300" title="Cardiacs - Bodysbad" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 - [Cardiacs - Goodbye Grace](https://www.youtube.com/watch?v=OXEVCQ1wAFA)
 - [Cardiacs - Anything I Can't Eat](https://www.youtube.com/watch?v=pFWzkOiLHyw)
 - [Cardiacs - Helen And Heaven](https://www.youtube.com/watch?v=GCpTb-oZZRY)
-- [Cardiacs - Bodysbad](https://www.youtube.com/watch?v=mXqqmxDq300)
 - [Cardiacs - For Good and All](https://www.youtube.com/watch?v=3w-SSegxzoA)
+- [CARDIACS - Core](https://www.youtube.com/watch?v=6pEbXdT0PWw)
 - [Cardiacs - Day is Gone](https://www.youtube.com/watch?v=iRctRAWNi2w)
 
 

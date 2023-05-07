@@ -42,15 +42,15 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### Electric Mainline
-{{< youtube id="uoz2dQZiT04" title="Electric Mainline" >}}<br>
+### Lay Back in the Sun
+{{< youtube id="UMPm-s2egAw" title="Lay Back in the Sun" >}}<br>
 
 ### More Videos
 
 - [Spiritualized - Medication](https://www.youtube.com/watch?v=LQxrzqu4PYU)
-- [Lay Back in the Sun](https://www.youtube.com/watch?v=UMPm-s2egAw)
 - [Medication](https://www.youtube.com/watch?v=kl2bRCCCAw4)
 - [Let It Flow](https://www.youtube.com/watch?v=Zvi7wzeU__w)
+- [Electric Mainline](https://www.youtube.com/watch?v=uoz2dQZiT04)
 
 
 ## Release Information

@@ -39,18 +39,18 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Videos
-### Delirious (2019 Remaster)
-{{< youtube id="ilP0dGXFNgw" title="Delirious (2019 Remaster)" >}}<br>
+### Something in the Water (Does Not Compute)
+{{< youtube id="LwoSyRd5ngY" title="Something in the Water (Does Not Compute)" >}}<br>
 
 ### More Videos
 
 - [Prince - 1999 (Official Music Video)](https://www.youtube.com/watch?v=rblt2EtFfC4)
 - [Prince - Little Red Corvette (Official Music Video)](https://www.youtube.com/watch?v=v0KpfrJE4zw)
+- [Delirious (2019 Remaster)](https://www.youtube.com/watch?v=ilP0dGXFNgw)
 - [Lady Cab Driver](https://www.youtube.com/watch?v=YQ7Tcw8yqho)
 - [Prince - Let's Pretend We're Married (Official Music Video)](https://www.youtube.com/watch?v=KXkCtFo4ttI)
 - [Lady Cab Driver (2019 Remaster)](https://www.youtube.com/watch?v=w8KRBcfajfQ)
 - [International Lover (2019 Remaster)](https://www.youtube.com/watch?v=LladYTP25NY)
-- [Something in the Water (Does Not Compute)](https://www.youtube.com/watch?v=LwoSyRd5ngY)
 - [Free](https://www.youtube.com/watch?v=uHJFG4tmoeE)
 - [All the Critics Love U in New York](https://www.youtube.com/watch?v=6Rtjb1SMGVE)
 - [International Lover](https://www.youtube.com/watch?v=40sGh8zBD4U)

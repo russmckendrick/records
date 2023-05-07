@@ -44,8 +44,8 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### Grindin' (Selector Remix - Main)
-{{< youtube id="QoahpkBbiNQ" title="Grindin' (Selector Remix - Main)" >}}<br>
+### Cot Damn
+{{< youtube id="krQH5wQTWJY" title="Cot Damn" >}}<br>
 
 ### More Videos
 
@@ -53,7 +53,6 @@ styles: ["Gangsta"]
 - [Young Boy](https://www.youtube.com/watch?v=A76sY6UCM1Q)
 - [Virginia](https://www.youtube.com/watch?v=Zss77i-ZfZ4)
 - [Grindin'](https://www.youtube.com/watch?v=YLW5oP8DtyM)
-- [Cot Damn](https://www.youtube.com/watch?v=krQH5wQTWJY)
 - [Ma, I Don't Love Her](https://www.youtube.com/watch?v=hmi9WGfN77E)
 - [FamLay Freestyle](https://www.youtube.com/watch?v=a2rIFBHvYAU)
 - [When the Last Time](https://www.youtube.com/watch?v=jqL7GEJap8k)
@@ -63,6 +62,7 @@ styles: ["Gangsta"]
 - [Gangsta Lean](https://www.youtube.com/watch?v=he71y7-IXrA)
 - [I'm Not You](https://www.youtube.com/watch?v=UVG4DII7Ey8)
 - [Grindin' (Remix - Main)](https://www.youtube.com/watch?v=aHbIBud9aJw)
+- [Grindin' (Selector Remix - Main)](https://www.youtube.com/watch?v=QoahpkBbiNQ)
 
 
 ## Release Information

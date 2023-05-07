@@ -46,8 +46,8 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 
 
 ## Videos
-### Extreme – Seven Sundays
-{{< youtube id="23F9TJXxbBc" title="Extreme – Seven Sundays" >}}<br>
+### Extreme – Politicalamity
+{{< youtube id="dJrUX2s4tF8" title="Extreme – Politicalamity" >}}<br>
 
 ### More Videos
 
@@ -62,8 +62,8 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 - [Extreme – Stop The World](https://www.youtube.com/watch?v=usMlTDBW2wA)
 - [Extreme – Rest In Peace](https://www.youtube.com/watch?v=SbUg1vLsSPI)
 - [Extreme – God Isn't Dead?](https://www.youtube.com/watch?v=L4zcQ6vNxyQ)
+- [Extreme – Seven Sundays](https://www.youtube.com/watch?v=23F9TJXxbBc)
 - [Extreme – Cupid's Dead](https://www.youtube.com/watch?v=rkUyat92f2o)
-- [Extreme – Politicalamity](https://www.youtube.com/watch?v=dJrUX2s4tF8)
 - [Extreme – Peacemaker Die](https://www.youtube.com/watch?v=jMlXxkiUe5s)
 
 

@@ -39,8 +39,8 @@ styles: ["Indie Rock", "Indie Pop"]
 
 
 ## Videos
-### Belle and Sebastian- When You’re Not With Me (Official Audio)
-{{< youtube id="qzhRidZTMy0" title="Belle and Sebastian- When You’re Not With Me (Official Audio)" >}}<br>
+### Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)
+{{< youtube id="kMzfU26LXuM" title="Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -51,9 +51,9 @@ styles: ["Indie Rock", "Indie Pop"]
 - [Belle and Sebastian- Will I Tell You A Secret (Official Audio)](https://www.youtube.com/watch?v=L8YuF2lk2MU)
 - [Belle and Sebastian- So In The Moment (Official Audio)](https://www.youtube.com/watch?v=gzB1f4GBI3k)
 - [Belle and Sebastian- The Evening Star (Official Audio)](https://www.youtube.com/watch?v=jjUOpbSK8ys)
+- [Belle and Sebastian- When You’re Not With Me (Official Audio)](https://www.youtube.com/watch?v=qzhRidZTMy0)
 - [I Don't Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
 - [Belle and Sebastian- Do You Follow (Official Audio)](https://www.youtube.com/watch?v=eI3GFFR7bPE)
-- [Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
 - [Belle and Sebastian- Late Developers (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
 
 

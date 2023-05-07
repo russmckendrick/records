@@ -57,13 +57,13 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 
 
 ## Videos
-### Senseless Things - Got It At The Delmar
-{{< youtube id="xGB_6CZAzNI" title="Senseless Things - Got It At The Delmar" >}}<br>
+### Senseless Things First Of Too Many
+{{< youtube id="HUsiqmCjMX4" title="Senseless Things First Of Too Many" >}}<br>
 
 ### More Videos
 
 - [Senseless Things - Everybody's Gone](https://www.youtube.com/watch?v=B9nQya3W7SQ)
-- [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
+- [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
 
 
 ## Release Information

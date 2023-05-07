@@ -39,13 +39,13 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 
 
 ## Videos
-### Moulettes - Preternatural (Full Album)
-{{< youtube id="BWZCrvQNps0" title="Moulettes - Preternatural (Full Album)" >}}<br>
+### Hidden World (Halicephalobus Mephisto)
+{{< youtube id="b5pipzgf3ao" title="Hidden World (Halicephalobus Mephisto)" >}}<br>
 
 ### More Videos
 
+- [Moulettes - Preternatural (Full Album)](https://www.youtube.com/watch?v=BWZCrvQNps0)
 - [Behemooth](https://www.youtube.com/watch?v=jq9llNcDVhk)
-- [Hidden World (Halicephalobus Mephisto)](https://www.youtube.com/watch?v=b5pipzgf3ao)
 
 
 ## Release Information

@@ -36,19 +36,19 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Jon Hopkins ft  Ram Dass - Sit Around The Fire
-{{< youtube id="ect4lgWRZbQ" title="Jon Hopkins ft  Ram Dass - Sit Around The Fire" >}}<br>
+### Tayos Caves, Ecuador ii
+{{< youtube id="jm_Y1HL59VA" title="Tayos Caves, Ecuador ii" >}}<br>
 
 ### More Videos
 
 - [Welcome](https://www.youtube.com/watch?v=YhRybYyrNaI)
 - [Tayos Caves, Ecuador i](https://www.youtube.com/watch?v=fzZ9r6VdCfc)
-- [Tayos Caves, Ecuador ii](https://www.youtube.com/watch?v=jm_Y1HL59VA)
 - [Tayos Caves, Ecuador iii](https://www.youtube.com/watch?v=sg-VH5pl-Hs)
 - [Love Flows Over Us In Prismatic Waves](https://www.youtube.com/watch?v=1JenmCSndX8)
 - [Deep In The Glowing Heart](https://www.youtube.com/watch?v=3DfT7jd3bhg)
 - [Ascending, Dawn Sky](https://www.youtube.com/watch?v=7TRUERogs4w)
 - [Arriving](https://www.youtube.com/watch?v=R676FQ7Zi40)
+- [Jon Hopkins ft  Ram Dass - Sit Around The Fire](https://www.youtube.com/watch?v=ect4lgWRZbQ)
 
 
 ## Release Information

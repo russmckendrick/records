@@ -64,14 +64,14 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Al Wilson - The snake
-{{< youtube id="ULx9k2QkL94" title="Al Wilson - The snake" >}}<br>
+### Sam Cooke. Sugar dumpling
+{{< youtube id="tIQL17pjAXo" title="Sam Cooke. Sugar dumpling" >}}<br>
 
 ### More Videos
 
 - [Major Lance -  Delilah  (1963)](https://www.youtube.com/watch?v=yBCnH7gY7sQ)
 - [Dee Dee Sharp - Comin' Home Baby](https://www.youtube.com/watch?v=j2FlVZuuN_o)
-- [Sam Cooke. Sugar dumpling](https://www.youtube.com/watch?v=tIQL17pjAXo)
+- [Al Wilson - The snake](https://www.youtube.com/watch?v=ULx9k2QkL94)
 - [The Tams - Disillusioned](https://www.youtube.com/watch?v=Q_5-inO-IBY)
 
 

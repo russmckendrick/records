@@ -37,8 +37,8 @@ styles: ["Contemporary R&B", "Synth-pop"]
 
 
 ## Videos
-### He Doesn't Know I'm Alive
-{{< youtube id="FqVAAWyoirU" title="He Doesn't Know I'm Alive" >}}<br>
+### You Can Be Mine
+{{< youtube id="gdhKkOodub8" title="You Can Be Mine" >}}<br>
 
 ### More Videos
 
@@ -46,9 +46,9 @@ styles: ["Contemporary R&B", "Synth-pop"]
 - [Control](https://www.youtube.com/watch?v=FMuoowyCkUU)
 - [Nasty](https://www.youtube.com/watch?v=nkTBzFUToLY)
 - [What Have You Done For Me Lately](https://www.youtube.com/watch?v=Q16EWAXwh94)
-- [You Can Be Mine](https://www.youtube.com/watch?v=gdhKkOodub8)
 - [The Pleasure Principle](https://www.youtube.com/watch?v=jXInTVW5h4Y)
 - [When I Think Of You](https://www.youtube.com/watch?v=gIgeh8PEQXI)
+- [He Doesn't Know I'm Alive](https://www.youtube.com/watch?v=FqVAAWyoirU)
 - [Let's Wait Awhile](https://www.youtube.com/watch?v=5cZ7IOApdfg)
 - [Funny How Time Flies (When You're Having Fun)](https://www.youtube.com/watch?v=B2tyZjh-eD0)
 

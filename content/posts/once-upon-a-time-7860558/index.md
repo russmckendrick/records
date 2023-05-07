@@ -36,13 +36,13 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Simple Minds - Sanctify Yourself
-{{< youtube id="sGQNRyxmhhg" title="Simple Minds - Sanctify Yourself" >}}<br>
+### Simple Minds - Alive And Kicking
+{{< youtube id="ljIQo1OHkTI" title="Simple Minds - Alive And Kicking" >}}<br>
 
 ### More Videos
 
 - [Simple Minds Once Upon a Time](https://www.youtube.com/watch?v=eQlYTc_rZ7c)
-- [Simple Minds - Alive And Kicking](https://www.youtube.com/watch?v=ljIQo1OHkTI)
+- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
 
 

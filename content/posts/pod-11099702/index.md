@@ -40,13 +40,14 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Happiness Is A Warm Gun
-{{< youtube id="LoIyUl10ChQ" title="Happiness Is A Warm Gun" >}}<br>
+### Metal Man
+{{< youtube id="9S-V1LxNccI" title="Metal Man" >}}<br>
 
 ### More Videos
 
 - [Glorious](https://www.youtube.com/watch?v=OSwgWt0UNgE)
 - [Doe](https://www.youtube.com/watch?v=wANv31sHYrk)
+- [Happiness Is A Warm Gun](https://www.youtube.com/watch?v=LoIyUl10ChQ)
 - [Oh!](https://www.youtube.com/watch?v=53sd3y2m1uU)
 - [Hellbound](https://www.youtube.com/watch?v=vByo-9H5xBs)
 - [When I Was A Painter](https://www.youtube.com/watch?v=3Pe9LS65yM4)
@@ -55,7 +56,6 @@ styles: ["Alternative Rock"]
 - [Opened](https://www.youtube.com/watch?v=wFMxXEcATxk)
 - [Only In 3's](https://www.youtube.com/watch?v=6LM6hA4NyO8)
 - [Lime House](https://www.youtube.com/watch?v=fjsELVfqFFw)
-- [Metal Man](https://www.youtube.com/watch?v=9S-V1LxNccI)
 
 
 ## Release Information

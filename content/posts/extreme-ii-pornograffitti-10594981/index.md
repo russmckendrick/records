@@ -38,12 +38,12 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### Extreme - Get The Funk Out
-{{< youtube id="IqP76XWHQI0" title="Extreme - Get The Funk Out" >}}<br>
+### Extreme - More Than Words (Official Music Video)
+{{< youtube id="UrIiLvg58SY" title="Extreme - More Than Words (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Extreme - More Than Words (Official Music Video)](https://www.youtube.com/watch?v=UrIiLvg58SY)
+- [Extreme - Get The Funk Out](https://www.youtube.com/watch?v=IqP76XWHQI0)
 - [Extreme - Decadence Dance](https://www.youtube.com/watch?v=OoKJpcROgJk)
 
 

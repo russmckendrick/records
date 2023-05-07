@@ -56,14 +56,14 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 
 
 ## Videos
-### Spiritual Beggars - Left Brain Ambassadors
-{{< youtube id="wzhWmLEHEBY" title="Spiritual Beggars - Left Brain Ambassadors" >}}<br>
+### Spiritual Beggars - Ad Astra - It's Over
+{{< youtube id="pyWN8u7Ikp0" title="Spiritual Beggars - Ad Astra - It's Over" >}}<br>
 
 ### More Videos
 
 - [Spiritual beggars - Angel of betrayal](https://www.youtube.com/watch?v=Uf9UVqaBQI8)
 - [spiritual beggars - per aspera ad astra](https://www.youtube.com/watch?v=Lh4Znod70zA)
-- [Spiritual Beggars - Ad Astra - It's Over](https://www.youtube.com/watch?v=pyWN8u7Ikp0)
+- [Spiritual Beggars - Left Brain Ambassadors](https://www.youtube.com/watch?v=wzhWmLEHEBY)
 
 
 ## Release Information

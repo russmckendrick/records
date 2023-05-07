@@ -38,8 +38,8 @@ styles: ["Contemporary Jazz"]
 
 
 ## Videos
-### Polar Retreat - Tori Handsley
-{{< youtube id="2yhkuCYFpIg" title="Polar Retreat - Tori Handsley" >}}<br>
+### Settling Into The Sun - Tori Handsley
+{{< youtube id="0aOQwsifHDg" title="Settling Into The Sun - Tori Handsley" >}}<br>
 
 ### More Videos
 
@@ -49,10 +49,10 @@ styles: ["Contemporary Jazz"]
 - [Polar Retreat - Tori Handsley](https://www.youtube.com/watch?v=FRB7IBxghrM)
 - [Rivers Of Mind - Tori Handsley](https://www.youtube.com/watch?v=aN5v9OXfyno)
 - [Kestrel - Tori Handsley](https://www.youtube.com/watch?v=j2_ZTdXiUg8)
-- [Settling Into The Sun - Tori Handsley](https://www.youtube.com/watch?v=0aOQwsifHDg)
 - [Home - Tori Handsley](https://www.youtube.com/watch?v=ewcneSn-Xtk)
 - [Out of Sight, out of Mind](https://www.youtube.com/watch?v=-elIgXgIZ6w)
 - [Convolution - Tori Handsley](https://www.youtube.com/watch?v=OSTIPT7fsLw)
+- [Polar Retreat - Tori Handsley](https://www.youtube.com/watch?v=2yhkuCYFpIg)
 
 
 ## Release Information

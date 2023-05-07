@@ -46,13 +46,13 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 
 
 ## Videos
-### The Pheasant (Live)
-{{< youtube id="zMKikkZX4qQ" title="The Pheasant (Live)" >}}<br>
+### Gather Up
+{{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>
 
 ### More Videos
 
-- [Gather Up](https://www.youtube.com/watch?v=2PArSamIDBc)
 - [Matt Berry - Gather Up (Ten Years On Acid Jazz)](https://www.youtube.com/watch?v=LhXrLO8oMLs)
+- [The Pheasant (Live)](https://www.youtube.com/watch?v=zMKikkZX4qQ)
 
 
 ## Release Information

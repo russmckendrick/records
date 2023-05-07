@@ -36,8 +36,8 @@ styles: ["New Jack Swing"]
 
 
 ## Videos
-### Bobby Brown My Prerogative Lyrics
-{{< youtube id="pfzy4Kk-8b0" title="Bobby Brown My Prerogative Lyrics" >}}<br>
+### Cruel Prelude
+{{< youtube id="gab9hWIidGE" title="Cruel Prelude" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["New Jack Swing"]
 - [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE)
 - [Bobby Brown - I Really Love You Girl](https://www.youtube.com/watch?v=IxN5BH0IFhw)
 - [Cruel Reprise](https://www.youtube.com/watch?v=PiSB3uJQMxY)
-- [Cruel Prelude](https://www.youtube.com/watch?v=gab9hWIidGE)
+- [Bobby Brown My Prerogative Lyrics](https://www.youtube.com/watch?v=pfzy4Kk-8b0)
 - [Bobby Brown - Don't Be Cruel (Official Video)](https://www.youtube.com/watch?v=pd7dCbEfTs4)
 - [bobby brown - don't be cruel w/lyrics](https://www.youtube.com/watch?v=AnUdQwabjsQ)
 - [Don't Be Cruel (Remix)](https://www.youtube.com/watch?v=pv0dMWnPDpE)

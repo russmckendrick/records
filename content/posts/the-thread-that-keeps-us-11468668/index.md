@@ -50,13 +50,12 @@ styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
 
 
 ## Videos
-### Calexico - 'Shortboard' (Official Audio)
-{{< youtube id="56Mo1U2Ex1U" title="Calexico - 'Shortboard' (Official Audio)" >}}<br>
+### Calexico - 'Flores y Tamales' (Official Audio)
+{{< youtube id="KWluXbWpbVw" title="Calexico - 'Flores y Tamales' (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Calexico - 'Another Space' (Official Audio)](https://www.youtube.com/watch?v=ELvbO5U2Xvw)
-- [Calexico - 'Flores y Tamales' (Official Audio)](https://www.youtube.com/watch?v=KWluXbWpbVw)
 - [Calexico - 'Dead In The Water' (Official Audio)](https://www.youtube.com/watch?v=CO_z8XUXAkE)
 - [Calexico - 'Eyes Wide Awake' (Official Audio)](https://www.youtube.com/watch?v=Qo_GkkElQBs)
 - [Calexico - 'Spinball' (Official Audio)](https://www.youtube.com/watch?v=H-F5WxPQnm0)
@@ -65,6 +64,7 @@ styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
 - [Calexico - 'Unconditional Waltz' (Official Audio)](https://www.youtube.com/watch?v=_IDChov6W0c)
 - [Calexico - 'Bridge to Nowhere' (Official Audio)](https://www.youtube.com/watch?v=vmPAQWg-qMU)
 - [Calexico - 'Thrown to the Wild' (Official Audio)](https://www.youtube.com/watch?v=lC6-18lHa4s)
+- [Calexico - 'Shortboard' (Official Audio)](https://www.youtube.com/watch?v=56Mo1U2Ex1U)
 - [Calexico - 'The Town & Miss Lorraine' (Official Audio)](https://www.youtube.com/watch?v=EFHf00aU9jQ)
 
 

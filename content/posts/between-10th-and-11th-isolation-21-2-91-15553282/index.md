@@ -45,15 +45,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Chewing Gum Weekend
-{{< youtube id="6qf1OLRwbgw" title="Chewing Gum Weekend" >}}<br>
+### Ignition
+{{< youtube id="NtinvC3Yc8k" title="Ignition" >}}<br>
 
 ### More Videos
 
 - [I Don't Want To See The Sights](https://www.youtube.com/watch?v=xivKBrdgz3c)
 - [The Charlatans - Tremelo Song](https://www.youtube.com/watch?v=a_jfHwt8USc)
 - [Can't Even Be Bothered](https://www.youtube.com/watch?v=GyOk-gCOE9U)
-- [Ignition](https://www.youtube.com/watch?v=NtinvC3Yc8k)
+- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
 - [The Charlatans - Weirdo](https://www.youtube.com/watch?v=SXBR96Z8_e8)
 - [The End Of Everything](https://www.youtube.com/watch?v=BYBzjmrw8Qs)
 - [Subtitle](https://www.youtube.com/watch?v=t_Wr_nfYTbg)

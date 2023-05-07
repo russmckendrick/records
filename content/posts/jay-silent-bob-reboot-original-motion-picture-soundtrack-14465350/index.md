@@ -54,17 +54,17 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 
 
 ## Videos
-### JAY AND SILENT BOB REBOOT Red Band Trailer (2019)
-{{< youtube id="l5UJu1BAy8U" title="JAY AND SILENT BOB REBOOT Red Band Trailer (2019)" >}}<br>
+### Loser
+{{< youtube id="nNqQbsFoZfc" title="Loser" >}}<br>
 
 ### More Videos
 
 - [PM Dawn - I'd Die Without You](https://www.youtube.com/watch?v=C_qWlPCEnGM)
 - [Mooby's Song](https://www.youtube.com/watch?v=YUdJKKG8ih0)
-- [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
 - [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)
 - [Come My Way](https://www.youtube.com/watch?v=--LiNPM2goI)
 - [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
+- [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
 
 
 ## Release Information

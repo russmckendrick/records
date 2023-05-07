@@ -37,8 +37,8 @@ styles: ["Hardcore", "Heavy Metal"]
 
 
 ## Videos
-### Imposter Syndrome
-{{< youtube id="eCBTd720Nng" title="Imposter Syndrome" >}}<br>
+### Dead Cross Reign Of Error
+{{< youtube id="4oEZq_JHwBg" title="Dead Cross Reign Of Error" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Hardcore", "Heavy Metal"]
 - [Ants and Dragons](https://www.youtube.com/watch?v=3sufoDOJ2L0)
 - [Nightclub Canary](https://www.youtube.com/watch?v=lhEwmFPvFhY)
 - [Dead Cross Christian Missile Crisis](https://www.youtube.com/watch?v=28qhYvvDjjI)
-- [Dead Cross Reign Of Error](https://www.youtube.com/watch?v=4oEZq_JHwBg)
+- [Imposter Syndrome](https://www.youtube.com/watch?v=eCBTd720Nng)
 
 
 ## Release Information

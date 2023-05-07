@@ -44,8 +44,8 @@ styles: ["Synth-pop", "New Wave"]
 
 
 ## Videos
-### Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)
-{{< youtube id="-EA4vEYRZTk" title="Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)" >}}<br>
+### Nightporter
+{{< youtube id="mKsY_dEjwtQ" title="Nightporter" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["Synth-pop", "New Wave"]
 - [Swing (Remastered 2003)](https://www.youtube.com/watch?v=ahtyVegPVjE)
 - [Gentlemen Take Polaroids](https://www.youtube.com/watch?v=SlyI2isjAas)
 - [A Foreign Place](https://www.youtube.com/watch?v=moPdbB34vDI)
-- [Nightporter](https://www.youtube.com/watch?v=mKsY_dEjwtQ)
 - [My New Career](https://www.youtube.com/watch?v=JEp3AQhhwnc)
 - [The Other Side Of Life](https://www.youtube.com/watch?v=i4J3zPy3iLE)
 - [Visions Of China](https://www.youtube.com/watch?v=1qmNNP1VgIk)
+- [Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)](https://www.youtube.com/watch?v=-EA4vEYRZTk)
 - [Ghosts](https://www.youtube.com/watch?v=ZK8DBICAWFs)
 - [Life Without Buildings](https://www.youtube.com/watch?v=8dhgiDNhG9k)
 - [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)

@@ -37,13 +37,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Guardian
-{{< youtube id="-V2WaeT6r1U" title="Guardian" >}}<br>
+### Cadence
+{{< youtube id="45bywuigQWI" title="Cadence" >}}<br>
 
 ### More Videos
 
 - [The Loss Inside](https://www.youtube.com/watch?v=glJ7oKA0vMs)
-- [Cadence](https://www.youtube.com/watch?v=45bywuigQWI)
+- [Guardian](https://www.youtube.com/watch?v=-V2WaeT6r1U)
 - [Last Train Home](https://www.youtube.com/watch?v=d027LIRm_Ds)
 - [Crawl](https://www.youtube.com/watch?v=pmupTHXOMQo)
 - [Geronimo](https://www.youtube.com/watch?v=PzPb0SUAF1Q)

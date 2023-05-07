@@ -40,8 +40,8 @@ styles: ["Chicago Blues"]
 
 
 ## Videos
-### Three Hundred Pounds Of Joy
-{{< youtube id="UzHXBJKP72U" title="Three Hundred Pounds Of Joy" >}}<br>
+### Tail Dragger
+{{< youtube id="m4ucJ8ShLHg" title="Tail Dragger" >}}<br>
 
 ### More Videos
 
@@ -51,7 +51,7 @@ styles: ["Chicago Blues"]
 - [Poor Boy](https://www.youtube.com/watch?v=FsagiHRjaHY)
 - [Louise](https://www.youtube.com/watch?v=W4oUtgN9HqE)
 - [Built For Comfort](https://www.youtube.com/watch?v=VoO1q5KSi6w)
-- [Tail Dragger](https://www.youtube.com/watch?v=m4ucJ8ShLHg)
+- [Three Hundred Pounds Of Joy](https://www.youtube.com/watch?v=UzHXBJKP72U)
 - [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
 - [Howlin' Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
 

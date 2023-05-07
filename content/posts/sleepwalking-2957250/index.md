@@ -40,8 +40,8 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Help Yourself
-{{< youtube id="IWQ2TG2Bv3s" title="Help Yourself" >}}<br>
+### Your Place
+{{< youtube id="PX0AIQWfxgw" title="Your Place" >}}<br>
 
 ### More Videos
 
@@ -50,7 +50,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 - [Shiver](https://www.youtube.com/watch?v=3LiTYNB6tMc)
 - [I'm in Love](https://www.youtube.com/watch?v=jooIpqCnBJA)
 - [Tomorrow's World](https://www.youtube.com/watch?v=kmffdCUjWEs)
-- [Your Place](https://www.youtube.com/watch?v=PX0AIQWfxgw)
+- [Help Yourself](https://www.youtube.com/watch?v=IWQ2TG2Bv3s)
 
 
 ## Release Information

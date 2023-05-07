@@ -36,15 +36,15 @@ styles: ["Funk"]
 
 
 ## Videos
-### Ooh Yeah
-{{< youtube id="fB7MZz7oNmg" title="Ooh Yeah" >}}<br>
+### Anti Love Song
+{{< youtube id="0yNk1JepyLw" title="Anti Love Song" >}}<br>
 
 ### More Videos
 
 - [If I'm In Luck I Might Get Picked Up](https://www.youtube.com/watch?v=W8b4hPEN05I)
 - [Walkin Up the Road](https://www.youtube.com/watch?v=kmoyQJbinGw)
-- [Anti Love Song](https://www.youtube.com/watch?v=0yNk1JepyLw)
 - [Your Man My Man](https://www.youtube.com/watch?v=nFZcAyD2R6I)
+- [Ooh Yeah](https://www.youtube.com/watch?v=fB7MZz7oNmg)
 - [Steppin In Her I. Miller Shoes](https://www.youtube.com/watch?v=6U8KMASNf1U)
 - [Game Is My Middle Name](https://www.youtube.com/watch?v=SN3OU5g55F0)
 - [In the Meantime](https://www.youtube.com/watch?v=OBGR2ZbZIds)

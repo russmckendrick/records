@@ -27,12 +27,12 @@ styles: ["Post-Punk"]
 
 
 ## Videos
-### New Order (Substance; 1987) - Ceremony
-{{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}<br>
+### Ceremony
+{{< youtube id="kkASIx9Xk6s" title="Ceremony" >}}<br>
 
 ### More Videos
 
-- [Ceremony](https://www.youtube.com/watch?v=kkASIx9Xk6s)
+- [New Order (Substance; 1987) - Ceremony](https://www.youtube.com/watch?v=fi33-cITS0s)
 
 
 ## Release Information

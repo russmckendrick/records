@@ -40,8 +40,8 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 
 
 ## Videos
-### Info Freako
-{{< youtube id="nxFXYO6vZ-I" title="Info Freako" >}}<br>
+### What's Going On
+{{< youtube id="6yrnnT_GE6M" title="What's Going On" >}}<br>
 
 ### More Videos
 
@@ -49,8 +49,8 @@ styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 - [Never Enough](https://www.youtube.com/watch?v=3TbUIMloHlQ)
 - [The Real World](https://www.youtube.com/watch?v=rs65gS-vcMo)
 - [All The Answers](https://www.youtube.com/watch?v=GyNTQrFaVWM)
-- [What's Going On](https://www.youtube.com/watch?v=6yrnnT_GE6M)
 - [Song 13](https://www.youtube.com/watch?v=Ar0K_2wkX5Y)
+- [Info Freako](https://www.youtube.com/watch?v=nxFXYO6vZ-I)
 - [Bring It On Down](https://www.youtube.com/watch?v=ugCOnKCa3Fs)
 - [Too Much To Learn](https://www.youtube.com/watch?v=siRYodWXb2U)
 - [What Would You Know](https://www.youtube.com/watch?v=YulSlxsjpDY)

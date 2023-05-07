@@ -41,8 +41,8 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 
 
 ## Videos
-### Bruce Springsteen - Tucson Train (Official Video)
-{{< youtube id="bsH4URIWNRE" title="Bruce Springsteen - Tucson Train (Official Video)" >}}<br>
+### Bruce Springsteen - Western Stars (Official Video)
+{{< youtube id="_IXzAAKrsFE" title="Bruce Springsteen - Western Stars (Official Video)" >}}<br>
 
 ### More Videos
 
@@ -51,10 +51,10 @@ styles: ["Folk Rock", "Country", "Country Rock"]
 - [Sundown](https://www.youtube.com/watch?v=JjeN0EpD1BA)
 - [Bruce Springsteen - Moonlight Motel (Official Audio)](https://www.youtube.com/watch?v=paFUBjeTcZY)
 - [Drive Fast (The Stuntman)](https://www.youtube.com/watch?v=e7BIfqrmKmQ)
+- [Bruce Springsteen - Tucson Train (Official Video)](https://www.youtube.com/watch?v=bsH4URIWNRE)
 - [Bruce Springsteen - Sundown (2019)](https://www.youtube.com/watch?v=p99hRBM30iM)
 - [Bruce Springsteen - Hello Sunshine (Lyric Video)](https://www.youtube.com/watch?v=icJjlg5e6l8)
 - [There Goes My Miracle](https://www.youtube.com/watch?v=ovDPz46lGVY)
-- [Bruce Springsteen - Western Stars (Official Video)](https://www.youtube.com/watch?v=_IXzAAKrsFE)
 - [The Wayfarer](https://www.youtube.com/watch?v=8uTWooB6V-4)
 - [Chasin' Wild Horses](https://www.youtube.com/watch?v=0yAryPUV_zk)
 

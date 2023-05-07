@@ -29,15 +29,15 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 ## Videos
-### UTOPIA - Todd Rundgren's ---- 1974 --Promo
-{{< youtube id="YvoQKl00j1g" title="UTOPIA - Todd Rundgren's ---- 1974 --Promo" >}}<br>
+### Utopia - The Ikon [Full Song]
+{{< youtube id="SCrkk1FsFAw" title="Utopia - The Ikon [Full Song]" >}}<br>
 
 ### More Videos
 
 - [UTOPIA - Todd Rundgren's Utopia -- 1974](https://www.youtube.com/watch?v=CO0aqSBTVJk)
 - [Todd Rundgren's Utopia - The Ikon central section](https://www.youtube.com/watch?v=iugdJ0vEaHw)
 - [Todd Rundgren's Utopia - Freedom Fighters](https://www.youtube.com/watch?v=ZNHXQLWIpK4)
-- [Utopia - The Ikon [Full Song]](https://www.youtube.com/watch?v=SCrkk1FsFAw)
+- [UTOPIA - Todd Rundgren's ---- 1974 --Promo](https://www.youtube.com/watch?v=YvoQKl00j1g)
 
 
 ## Release Information

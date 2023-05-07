@@ -37,8 +37,8 @@ styles: ["Southern Rock"]
 
 
 ## Videos
-### Thundering Hearts
-{{< youtube id="I2xJAJq505o" title="Thundering Hearts" >}}<br>
+### Can You Take It
+{{< youtube id="sdkEEJI9Kss" title="Can You Take It" >}}<br>
 
 ### More Videos
 
@@ -46,7 +46,7 @@ styles: ["Southern Rock"]
 - [Jack & Diane](https://www.youtube.com/watch?v=qcca2DzOlOc)
 - [Hand To Hold On To](https://www.youtube.com/watch?v=QTPq27vhB9g)
 - [Danger List](https://www.youtube.com/watch?v=DodNVBf0f4I)
-- [Can You Take It](https://www.youtube.com/watch?v=sdkEEJI9Kss)
+- [Thundering Hearts](https://www.youtube.com/watch?v=I2xJAJq505o)
 - [China Girl](https://www.youtube.com/watch?v=BeD7thCRa3M)
 - [Close Enough](https://www.youtube.com/watch?v=QfosOulnkWw)
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)

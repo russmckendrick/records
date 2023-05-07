@@ -58,14 +58,13 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Love On The Run (Early Version)
-{{< youtube id="jFPAHPv9CyU" title="Love On The Run (Early Version)" >}}<br>
+### Jupiter 4c (Early Version Of Sky)
+{{< youtube id="WIse_jyk2pM" title="Jupiter 4c (Early Version Of Sky)" >}}<br>
 
 ### More Videos
 
 - [The Human League - Being Boiled (Fast Version)](https://www.youtube.com/watch?v=neuLu1MMl5M)
 - [Soundtrack To A Generation (Edit)](https://www.youtube.com/watch?v=Uh4KgDyJ0t4)
-- [Jupiter 4c (Early Version Of Sky)](https://www.youtube.com/watch?v=WIse_jyk2pM)
 - [SH5 (Early Version Of Liar)](https://www.youtube.com/watch?v=xmc_zKeTNRo)
 - [Stylopops You Broke My Heart (Early Version Of Marianne)](https://www.youtube.com/watch?v=l7Rk0tfld_A)
 - [No Time (Early Version Of The Word Before Last)](https://www.youtube.com/watch?v=WsvCxaLpI3s)
@@ -76,6 +75,7 @@ styles: ["Synth-pop"]
 - [Give It Back (Early Version Of Houseful of Nothing)](https://www.youtube.com/watch?v=YkdEtNDs-7A)
 - [Darkness (Early Version)](https://www.youtube.com/watch?v=hZ4C-NyJcjY)
 - [[Keep Feeling] Fascination](https://www.youtube.com/watch?v=Y2ENOHNZCNQ)
+- [Love On The Run (Early Version)](https://www.youtube.com/watch?v=jFPAHPv9CyU)
 
 
 ## Release Information

@@ -49,14 +49,14 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 
 
 ## Videos
-### A New Beginning - Alex Somers - Captain Fantastic Soundtrack (Official Video)
-{{< youtube id="ngclAElpcZ4" title="A New Beginning - Alex Somers - Captain Fantastic Soundtrack (Official Video)" >}}<br>
+### Fortress
+{{< youtube id="HuV6YmQLDq4" title="Fortress" >}}<br>
 
 ### More Videos
 
 - [Captain Fantastic Original Soundtrack OST (2016) Alex Somers](https://www.youtube.com/watch?v=iFCrtw63FNk)
 - [Captain Fantastic - Alex Somers - Score Preview (Official Video)](https://www.youtube.com/watch?v=IF0i0Zv3kzM)
-- [Fortress](https://www.youtube.com/watch?v=HuV6YmQLDq4)
+- [A New Beginning - Alex Somers - Captain Fantastic Soundtrack (Official Video)](https://www.youtube.com/watch?v=ngclAElpcZ4)
 - [Funeral Pyre - Alex Somers - Captain Fantastic Soundtrack (Official Video)](https://www.youtube.com/watch?v=bXks1AP8fG8)
 - [Memories](https://www.youtube.com/watch?v=T82gOSwFCPs)
 

@@ -48,15 +48,14 @@ styles: []
 
 
 ## Videos
-### Joe Satriani - Echo
-{{< youtube id="cMj8n5NKSeM" title="Joe Satriani - Echo" >}}<br>
+### Joe Satriani – Crushing Day
+{{< youtube id="W3jtDOz3lOU" title="Joe Satriani – Crushing Day" >}}<br>
 
 ### More Videos
 
 - [Joe Satriani – Surfing With The Alien](https://www.youtube.com/watch?v=JeUPSYrVP1w)
 - [Joe Satriani – Hill Of The Skull](https://www.youtube.com/watch?v=SJ5n-Rr9t7M)
 - [Joe Satriani – Lords Of Karma](https://www.youtube.com/watch?v=LgZ_p1-CRqg)
-- [Joe Satriani – Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
 - [Joe Satriani – Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
 - [Joe Satriani – Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
 - [Joe Satriani – Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)
@@ -72,6 +71,7 @@ styles: []
 - [Joe Satriani - Circles](https://www.youtube.com/watch?v=gOnUAWIZPIg)
 - [Joe Satriani - Lords of Karma](https://www.youtube.com/watch?v=hrwk0COfggo)
 - [Joe Satriani - Midnight](https://www.youtube.com/watch?v=GpXr31S56CU)
+- [Joe Satriani - Echo](https://www.youtube.com/watch?v=cMj8n5NKSeM)
 
 
 ## Release Information

@@ -44,13 +44,13 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 
 ## Videos
-### Eden (1997 Remaster)
-{{< youtube id="yVQlFEynONQ" title="Eden (1997 Remaster)" >}}<br>
+### I Believe in You [Official video] - Talk Talk (HD/HQ)
+{{< youtube id="fKtp3SOQE6I" title="I Believe in You [Official video] - Talk Talk (HD/HQ)" >}}<br>
 
 ### More Videos
 
-- [I Believe in You [Official video] - Talk Talk (HD/HQ)](https://www.youtube.com/watch?v=fKtp3SOQE6I)
 - [The Rainbow (1997 Remaster)](https://www.youtube.com/watch?v=AFQETve1wS0)
+- [Eden (1997 Remaster)](https://www.youtube.com/watch?v=yVQlFEynONQ)
 - [Desire (1997 Remaster)](https://www.youtube.com/watch?v=tfnmMl3WmBo)
 - [Inheritance (1997 Remaster)](https://www.youtube.com/watch?v=_-J_pnpZDss)
 - [I Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=3EBTk5brQVY)

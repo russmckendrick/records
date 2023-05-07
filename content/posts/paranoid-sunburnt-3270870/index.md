@@ -39,15 +39,15 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Videos
-### Skunk Anansie - All in the name of pity
-{{< youtube id="AWEpDROevaA" title="Skunk Anansie - All in the name of pity" >}}<br>
+### Skunk Anansie - I Can Dream
+{{< youtube id="1YaM-2T4yzM" title="Skunk Anansie - I Can Dream" >}}<br>
 
 ### More Videos
 
 - [Skunk Anansie - Intellectualise my blackness](https://www.youtube.com/watch?v=W-UPYJ7ugBM)
-- [Skunk Anansie - I Can Dream](https://www.youtube.com/watch?v=1YaM-2T4yzM)
 - [Skunk Anansie - Little Baby Swastikka](https://www.youtube.com/watch?v=aBINfmb7tWE)
 - [Skunk Anansie - And Here I Stand](https://www.youtube.com/watch?v=ASUvc3MCXSE)
+- [Skunk Anansie - All in the name of pity](https://www.youtube.com/watch?v=AWEpDROevaA)
 - [Skunk Anansie - Selling Jesus](https://www.youtube.com/watch?v=pRH807Zg8MQ)
 - [Skunk Anansie - Charity](https://www.youtube.com/watch?v=qQ7ZeSU8ZXM)
 - [Skunk Anansie - It takes blood and guts to be this cool but i m still just a cliche](https://www.youtube.com/watch?v=Mnv19g5NQW8)

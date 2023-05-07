@@ -29,14 +29,14 @@ styles: ["Folk Rock", "Trip Hop", "Experimental"]
 
 
 ## Videos
-### The Beta Band - 04 Dogs got a bone
-{{< youtube id="NuuZ-1Nb-fI" title="The Beta Band - 04 Dogs got a bone" >}}<br>
+### The Beta Band - Dry The Rain
+{{< youtube id="wsbR2dEmHGc" title="The Beta Band - Dry The Rain" >}}<br>
 
 ### More Videos
 
-- [The Beta Band - Dry The Rain](https://www.youtube.com/watch?v=wsbR2dEmHGc)
 - [The Beta Band - 03 b + a](https://www.youtube.com/watch?v=SYFsT1PpTw0)
 - [The Beta Band - 02 I know](https://www.youtube.com/watch?v=1Hg_R8ZRDmo)
+- [The Beta Band - 04 Dogs got a bone](https://www.youtube.com/watch?v=NuuZ-1Nb-fI)
 
 
 ## Release Information

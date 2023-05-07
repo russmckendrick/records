@@ -39,12 +39,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Manic Street Preachers - The Secret He Had Missed (Official Video) ft. Julia Cumming
-{{< youtube id="4Q3sDyp3mbo" title="Manic Street Preachers - The Secret He Had Missed (Official Video) ft. Julia Cumming" >}}<br>
+### Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer
+{{< youtube id="Lg2HrqFsz14" title="Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer" >}}<br>
 
 ### More Videos
 
-- [Manic Street Preachers - 'The Ultra Vivid Lament' Album Trailer](https://www.youtube.com/watch?v=Lg2HrqFsz14)
+- [Manic Street Preachers - The Secret He Had Missed (Official Video) ft. Julia Cumming](https://www.youtube.com/watch?v=4Q3sDyp3mbo)
 - [Manic Street Preachers - Orwellian (Official Video)](https://www.youtube.com/watch?v=bzSYaCeWvFM)
 
 

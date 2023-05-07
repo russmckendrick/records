@@ -54,15 +54,15 @@ styles: ["Ambient", "Prog Rock"]
 
 
 ## Videos
-### RIVERSIDE -  Where The River Flows (Album Track)
-{{< youtube id="tBTZJLXOptM" title="RIVERSIDE -  Where The River Flows (Album Track)" >}}<br>
+### Riverside - Rainbow Trip
+{{< youtube id="McNam4CH7VE" title="Riverside - Rainbow Trip" >}}<br>
 
 ### More Videos
 
 - [Rapid Eye Movement (2016 mix)](https://www.youtube.com/watch?v=oifjq7YHyAg)
 - [Riverside - Eye Of The Soundscape (2016)](https://www.youtube.com/watch?v=2a4gOzONptk)
 - [Riverside - Rapid Eye Movement (2016 Mix) [HQ/HD]](https://www.youtube.com/watch?v=XY-6Dm6Q_kE)
-- [Riverside - Rainbow Trip](https://www.youtube.com/watch?v=McNam4CH7VE)
+- [RIVERSIDE -  Where The River Flows (Album Track)](https://www.youtube.com/watch?v=tBTZJLXOptM)
 - [Riverside -  Rainbow Trip (2016)](https://www.youtube.com/watch?v=K1tM7opVaLk)
 
 

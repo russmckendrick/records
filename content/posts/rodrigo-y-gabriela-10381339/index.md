@@ -47,18 +47,18 @@ styles: ["Acoustic"]
 
 
 ## Videos
-### Rodrigo y Gabriela - Viking Man
-{{< youtube id="dLESmgh-VCE" title="Rodrigo y Gabriela - Viking Man" >}}<br>
+### Rodrigo Y Gabriela - Orion   (Metallica cover)
+{{< youtube id="_zwKvCXw_8M" title="Rodrigo Y Gabriela - Orion   (Metallica cover)" >}}<br>
 
 ### More Videos
 
 - [Rodrigo y Gabriela - Diablo Rojo (HQ)](https://www.youtube.com/watch?v=l_cJ5fvVhiI)
 - [Rodrigo y Gabriela- Hanuman OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
-- [Rodrigo Y Gabriela - Orion   (Metallica cover)](https://www.youtube.com/watch?v=_zwKvCXw_8M)
 - [Rodrigo y Gabriela - Orion (Studio Version)](https://www.youtube.com/watch?v=GP6rkf3qB0c)
 - [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=g2BBiKu-zmg)
 - [Rodrigo y Gabriela | Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
 - [Rodrigo y Gabriela - Tamacun](https://www.youtube.com/watch?v=Fn9nUE3ngvs)
+- [Rodrigo y Gabriela - Viking Man](https://www.youtube.com/watch?v=dLESmgh-VCE)
 - [Rodrigo y Gabriela - Stairway To Heaven (Led Zeppelin coer)](https://www.youtube.com/watch?v=YRNVn_B-7OA)
 
 

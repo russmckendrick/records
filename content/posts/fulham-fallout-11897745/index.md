@@ -42,8 +42,8 @@ styles: ["Punk"]
 
 
 ## Videos
-### I'm on Heat
-{{< youtube id="WDwbnZrKpwE" title="I'm on Heat" >}}<br>
+### Then I Kissed Her (Demo)
+{{< youtube id="FnEmV-zPAao" title="Then I Kissed Her (Demo)" >}}<br>
 
 ### More Videos
 
@@ -58,12 +58,12 @@ styles: ["Punk"]
 - [Self Destruct](https://www.youtube.com/watch?v=GHYYPvjTCos)
 - [It's Quiet Here](https://www.youtube.com/watch?v=3pkZbzZFEAg)
 - [Gerald](https://www.youtube.com/watch?v=cNeexDW0d9Q)
+- [I'm on Heat](https://www.youtube.com/watch?v=WDwbnZrKpwE)
 - [Be My Prisoner](https://www.youtube.com/watch?v=ofC7nYPk9Zw)
 - [Pills](https://www.youtube.com/watch?v=xhLQqt8V1e4)
 - [We Are The Chaos Bros. (Fulham Fallout Firty Free)](https://www.youtube.com/watch?v=5sSs_spaMe4)
 - [Be My Prisoner (Streets Version)](https://www.youtube.com/watch?v=7H2S0ySpHzI)
 - [Total War (Demo)](https://www.youtube.com/watch?v=seaN3qLMnqs)
-- [Then I Kissed Her (Demo)](https://www.youtube.com/watch?v=FnEmV-zPAao)
 - [I Love the Dark (Demo)](https://www.youtube.com/watch?v=raIG1_yTzq4)
 - [Freak Show (LP Demo)](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
 

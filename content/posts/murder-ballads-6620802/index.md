@@ -38,13 +38,13 @@ styles: ["Alternative Rock", "Art Rock"]
 
 
 ## Videos
-### Nick Cave & The Bad Seeds - Henry Lee ft. P.J Harvey (Official HD Video)
-{{< youtube id="QzmMB8dTwGs" title="Nick Cave & The Bad Seeds - Henry Lee ft. P.J Harvey (Official HD Video)" >}}<br>
+### Song of Joy (2011 - Remaster)
+{{< youtube id="hhxSf_l2QVc" title="Song of Joy (2011 - Remaster)" >}}<br>
 
 ### More Videos
 
-- [Song of Joy (2011 - Remaster)](https://www.youtube.com/watch?v=hhxSf_l2QVc)
 - [Nick Cave & The Bad Seeds - Stagger Lee (Official HD Video)](https://www.youtube.com/watch?v=Nbe5RERDh4k)
+- [Nick Cave & The Bad Seeds - Henry Lee ft. P.J Harvey (Official HD Video)](https://www.youtube.com/watch?v=QzmMB8dTwGs)
 - [Lovely Creature (2011 - Remaster)](https://www.youtube.com/watch?v=DRf-NzeKL8M)
 - [Nick Cave & The Bad Seeds ft. Kylie Minogue - Where The Wild Roses Grow (Official HD Video)](https://www.youtube.com/watch?v=lDpnjE1LUvE)
 - [The Curse of Millhaven (2011 - Remaster)](https://www.youtube.com/watch?v=p_aygaCosJU)

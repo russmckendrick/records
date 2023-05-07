@@ -38,15 +38,15 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Dubstar - Hygiene Strip (Official Artist Lyric Video)
-{{< youtube id="W4efy7WBvpA" title="Dubstar - Hygiene Strip (Official Artist Lyric Video)" >}}<br>
+### Lighthouse
+{{< youtube id="yH6tQGzAJoY" title="Lighthouse" >}}<br>
 
 ### More Videos
 
 - [Dubstar  - Token (Widescreen Mix) Official Artist Video](https://www.youtube.com/watch?v=IaHHRY9gpcs)
 - [Dubstar - Tectonic Plates (Official Artist Lyric Video)](https://www.youtube.com/watch?v=tZN50XYHYUQ)
-- [Lighthouse](https://www.youtube.com/watch?v=yH6tQGzAJoY)
 - [Dubstar - Tears (Visualiser)](https://www.youtube.com/watch?v=VgnS0oSovec)
+- [Dubstar - Hygiene Strip (Official Artist Lyric Video)](https://www.youtube.com/watch?v=W4efy7WBvpA)
 - [Blood](https://www.youtube.com/watch?v=SBoUO0_Wy0Q)
 - [Social Proof](https://www.youtube.com/watch?v=MRN--n7Dmpc)
 - [Kissing To Be Unkind](https://www.youtube.com/watch?v=loOtBBDsZZo)

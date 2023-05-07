@@ -38,8 +38,8 @@ styles: ["Punk", "Pop Rock"]
 
 
 ## Videos
-### Plaistow Patricia
-{{< youtube id="mRbnbcJgOVE" title="Plaistow Patricia" >}}<br>
+### If I Was with a Woman
+{{< youtube id="KkfGXd6_Iak" title="If I Was with a Woman" >}}<br>
 
 ### More Videos
 
@@ -51,8 +51,8 @@ styles: ["Punk", "Pop Rock"]
 - [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
 - [Ian Dury - Sex And Drugs And Rock And Roll.](https://www.youtube.com/watch?v=dvhoSAKLztM)
 - [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
-- [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
 - [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
+- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
 - [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
 

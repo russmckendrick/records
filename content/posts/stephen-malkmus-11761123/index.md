@@ -40,17 +40,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Stephen Malkmus & The Jicks - Phantasies
-{{< youtube id="2jFkf-XhSks" title="Stephen Malkmus & The Jicks - Phantasies" >}}<br>
+### Stephen Malkmus - The hook
+{{< youtube id="T3THIz5VJL4" title="Stephen Malkmus - The hook" >}}<br>
 
 ### More Videos
 
 - [Stephen Malkmus - Jenny And The Ess-Dog (Official Video)](https://www.youtube.com/watch?v=GgPuX759XBw)
+- [Stephen Malkmus & The Jicks - Phantasies](https://www.youtube.com/watch?v=2jFkf-XhSks)
 - [Stephen Malkmus - Discretion Grove (Official Video)](https://www.youtube.com/watch?v=p08LPjq2e20)
 - [Stephen Malkmus - Jo Jo's Jacket (Official Video)](https://www.youtube.com/watch?v=ve7tpz1juyM)
 - [Stephen Malkmus & The Jicks - Pink India](https://www.youtube.com/watch?v=eMcmDTX1JwQ)
 - [Stephen Malkmus & The Jicks - Vague Space](https://www.youtube.com/watch?v=TU0aOABWHSY)
-- [Stephen Malkmus - The hook](https://www.youtube.com/watch?v=T3THIz5VJL4)
 
 
 ## Release Information

@@ -34,15 +34,15 @@ styles: ["Stoner Rock", "Doom Metal"]
 
 
 ## Videos
-### The Sciences
-{{< youtube id="XUQyM98fq2U" title="The Sciences" >}}<br>
+### Giza Butler
+{{< youtube id="bvDcwPDjFr8" title="Giza Butler" >}}<br>
 
 ### More Videos
 
+- [The Sciences](https://www.youtube.com/watch?v=XUQyM98fq2U)
 - [Marijuanaut's Theme](https://www.youtube.com/watch?v=AMUaWc46_0U)
 - [Sonic Titan](https://www.youtube.com/watch?v=Uvyzq-iZCmI)
 - [Antarcticans Thawed](https://www.youtube.com/watch?v=RT4Q1EphGq8)
-- [Giza Butler](https://www.youtube.com/watch?v=bvDcwPDjFr8)
 - [The Botanist](https://www.youtube.com/watch?v=8ZEDXcVxUOc)
 
 

@@ -41,14 +41,14 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### St. Paul & The Broken Bones: Flow With It
-{{< youtube id="F8YowjS7Ebs" title="St. Paul & The Broken Bones: Flow With It" >}}<br>
+### St  Paul & The Broken Bones - Sea of Noise - Trailer
+{{< youtube id="OkuXq-WOHJw" title="St  Paul & The Broken Bones - Sea of Noise - Trailer" >}}<br>
 
 ### More Videos
 
 - [St Paul & The Broken Bones  -  Sanctify](https://www.youtube.com/watch?v=_XqQsKxiKT0)
+- [St. Paul & The Broken Bones: Flow With It](https://www.youtube.com/watch?v=F8YowjS7Ebs)
 - [La bruit](https://www.youtube.com/watch?v=wUKkL91ChQw)
-- [St  Paul & The Broken Bones - Sea of Noise - Trailer](https://www.youtube.com/watch?v=OkuXq-WOHJw)
 - [St. Paul & The Broken Bones - 'Sea of Noise' |Official Album Release Party|](https://www.youtube.com/watch?v=KgyogotaYys)
 
 

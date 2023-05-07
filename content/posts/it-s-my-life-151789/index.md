@@ -37,8 +37,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### It's You (1997 Remaster)
-{{< youtube id="xYMOv6XR5ts" title="It's You (1997 Remaster)" >}}<br>
+### It's My Life (1997 Remaster)
+{{< youtube id="yWQezjGjiqs" title="It's My Life (1997 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -47,11 +47,11 @@ styles: ["Synth-pop"]
 - [Talk Talk - Such A Shame (Official Video)](https://www.youtube.com/watch?v=lLdvpFIPReA)
 - [Talk Talk - Such A Shame (Album Version) (HQ)](https://www.youtube.com/watch?v=ZILD_vKEoNE)
 - [Renee (1997 Remaster)](https://www.youtube.com/watch?v=KfB-iIrJy-s)
-- [It's My Life (1997 Remaster)](https://www.youtube.com/watch?v=yWQezjGjiqs)
 - [Tomorrow Started (1997 Remaster)](https://www.youtube.com/watch?v=F5s0oynBz7M)
 - [The Last Time (1997 Remaster)](https://www.youtube.com/watch?v=dsDpI1TiQMs)
 - [Call in the Night Boy (1997 Remaster)](https://www.youtube.com/watch?v=WIj4hC9v0Hs)
 - [Does Caroline Know? (1997 Remaster)](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
+- [It's You (1997 Remaster)](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
 
 ## Release Information

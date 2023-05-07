@@ -36,15 +36,14 @@ styles: ["African"]
 
 
 ## Videos
-### Yesew Neger (Amazed by Humanity)
-{{< youtube id="7mPX4v98cRw" title="Yesew Neger (Amazed by Humanity)" >}}<br>
+### Hasabe (My Worries)
+{{< youtube id="zB0-8ElrbX8" title="Hasabe (My Worries)" >}}<br>
 
 ### More Videos
 
 - [AYALEW MESFIN.HASABE](https://www.youtube.com/watch?v=_1BwNKnKi4E)
 - [Ayalew Mesfin - Libe Menta Hone  (Ethiopia 1975)](https://www.youtube.com/watch?v=1RcaLOuqZG8)
 - [Ayalew Mesfin - February 2018 Vinyl Me, Please Record of the Month](https://www.youtube.com/watch?v=gZFz-3NOCLo)
-- [Hasabe (My Worries)](https://www.youtube.com/watch?v=zB0-8ElrbX8)
 - [Zebeder (Mesmerizing)](https://www.youtube.com/watch?v=_pzRLggvWZk)
 - [Gedawo (The Hero)](https://www.youtube.com/watch?v=mAjBVFYwiEg)
 - [Rehab (My Hunger)](https://www.youtube.com/watch?v=EaZy4diQXIY)
@@ -53,6 +52,7 @@ styles: ["African"]
 - [Gud Aderegechign (Blindsided by Love)](https://www.youtube.com/watch?v=Lr30mEKCXXY)
 - [Endet Liyesh (How Can I See You)](https://www.youtube.com/watch?v=enqrALfa3cM)
 - [Ewedish Nebere (I Used to Love You)](https://www.youtube.com/watch?v=GovAj-xsw1Q)
+- [Yesew Neger (Amazed by Humanity)](https://www.youtube.com/watch?v=7mPX4v98cRw)
 - [Ambasel (Ambasel)](https://www.youtube.com/watch?v=u3zVeqlYkgI)
 
 

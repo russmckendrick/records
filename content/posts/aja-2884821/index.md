@@ -35,14 +35,14 @@ styles: ["Pop Rock", "Fusion"]
 
 
 ## Videos
-### Peg
-{{< youtube id="u_pt3khMRFs" title="Peg" >}}<br>
+### Aja
+{{< youtube id="CYZwVf07tHA" title="Aja" >}}<br>
 
 ### More Videos
 
 - [Black Cow](https://www.youtube.com/watch?v=XRj0Ohg-y1A)
-- [Aja](https://www.youtube.com/watch?v=CYZwVf07tHA)
 - [Deacon Blues](https://www.youtube.com/watch?v=OyCDicG0tDs)
+- [Peg](https://www.youtube.com/watch?v=u_pt3khMRFs)
 - [Home At Last](https://www.youtube.com/watch?v=Hx5ZlTyzU-k)
 - [I Got The News](https://www.youtube.com/watch?v=T6DSoyAjkus)
 - [Josie](https://www.youtube.com/watch?v=qwZ_u_UKb0Q)

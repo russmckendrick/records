@@ -44,8 +44,8 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### All the World Loves Lovers
-{{< youtube id="5xHPENAHZJU" title="All the World Loves Lovers" >}}<br>
+### Goodbye Lucille #1
+{{< youtube id="wPQYgn7ASIc" title="Goodbye Lucille #1" >}}<br>
 
 ### More Videos
 
@@ -55,11 +55,11 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Life of Surprises](https://www.youtube.com/watch?v=NZ8NME3372M)
 - [When Love Breaks Down](https://www.youtube.com/watch?v=IjzAogwxQxM)
 - [Cars and Girls](https://www.youtube.com/watch?v=mKNL_VRus2o)
-- [Goodbye Lucille #1](https://www.youtube.com/watch?v=wPQYgn7ASIc)
 - [The King of Rock 'N' Roll](https://www.youtube.com/watch?v=IHDHB6qqp9o)
 - [Cruel](https://www.youtube.com/watch?v=DKHZfytXIAw)
 - [If You Don't Love Me](https://www.youtube.com/watch?v=0Xscw0V7ZLU)
 - [Faron Young (Remastered)](https://www.youtube.com/watch?v=SPWF1ncqhzI)
+- [All the World Loves Lovers](https://www.youtube.com/watch?v=5xHPENAHZJU)
 - [Prefab Sprout Wild Horses](https://www.youtube.com/watch?v=Zv_jxrAMThI)
 - [Prefab Sprout - The Sound Of Crying](https://www.youtube.com/watch?v=6we_GK0ZWa8)
 

@@ -123,13 +123,13 @@ styles: []
 
 
 ## Videos
-### Public Enemy-Fear Of A Black Planet Album Review
-{{< youtube id="9rqg7OrJlG8" title="Public Enemy-Fear Of A Black Planet Album Review" >}}<br>
+### Public Enemy: 25th Anniversary Vinyl Packaging
+{{< youtube id="8OSV5YArx_c" title="Public Enemy: 25th Anniversary Vinyl Packaging" >}}<br>
 
 ### More Videos
 
-- [Public Enemy: 25th Anniversary Vinyl Packaging](https://www.youtube.com/watch?v=8OSV5YArx_c)
 - [Public Enemy 25th Anniversary Box Set out May 6th 2013](https://www.youtube.com/watch?v=qIMs1YfI9XU)
+- [Public Enemy-Fear Of A Black Planet Album Review](https://www.youtube.com/watch?v=9rqg7OrJlG8)
 
 
 ## Release Information

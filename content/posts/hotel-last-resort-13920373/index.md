@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)
-{{< youtube id="P3XxSZNFpcQ" title="Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)" >}}<br>
+### Violent Femmes - Hotel Last Resort (Official Lyric Video)
+{{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Violent Femmes - Hotel Last Resort (Official Lyric Video)](https://www.youtube.com/watch?v=Jc14JPwnp6M)
+- [Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)](https://www.youtube.com/watch?v=P3XxSZNFpcQ)
 
 
 ## Release Information

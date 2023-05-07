@@ -41,15 +41,15 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Nick Cave and The Bad Seeds - Waiting For You (Lyric Video)
-{{< youtube id="e0vQTzYe9Lk" title="Nick Cave and The Bad Seeds - Waiting For You (Lyric Video)" >}}<br>
+### Nick Cave and The Bad Seeds - Sun Forest (Lyric Video)
+{{< youtube id="jxqdO0SO18M" title="Nick Cave and The Bad Seeds - Sun Forest (Lyric Video)" >}}<br>
 
 ### More Videos
 
 - [Nick Cave and The Bad Seeds - Spinning Song (Lyric Video)](https://www.youtube.com/watch?v=Ha5VGMaG4E4)
 - [Nick Cave and The Bad Seeds - Bright Horses (Lyric Video)](https://www.youtube.com/watch?v=cfKYImFP_Pw)
+- [Nick Cave and The Bad Seeds - Waiting For You (Lyric Video)](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
 - [Nick Cave and The Bad Seeds - Night Raid (Lyric Video)](https://www.youtube.com/watch?v=pdhF0RhixRA)
-- [Nick Cave and The Bad Seeds - Sun Forest (Lyric Video)](https://www.youtube.com/watch?v=jxqdO0SO18M)
 - [Nick Cave and The Bad Seeds - Galleon Ship (Lyric Video)](https://www.youtube.com/watch?v=4DjshyO_uT0)
 - [Nick Cave and The Bad Seeds - Ghosteen Speaks (Lyric Video)](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
 - [Nick Cave and The Bad Seeds - Leviathan (Lyric Video)](https://www.youtube.com/watch?v=H3M0mkmDL1o)

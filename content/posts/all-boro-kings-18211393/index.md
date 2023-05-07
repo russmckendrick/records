@@ -38,8 +38,8 @@ styles: ["Funk Metal", "Hardcore"]
 
 
 ## Videos
-### Best Of 90's - 1Album/1Song - Dog Eat Dog All Boro Kings/No Fronts
-{{< youtube id="a5eBA-RsGsU" title="Best Of 90's - 1Album/1Song - Dog Eat Dog All Boro Kings/No Fronts" >}}<br>
+### No Fronts
+{{< youtube id="HukQVeoKLSI" title="No Fronts" >}}<br>
 
 ### More Videos
 
@@ -49,7 +49,7 @@ styles: ["Funk Metal", "Hardcore"]
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=41KJCoydlEU)
 - [Dog Eat Dog-Who`s the King?](https://www.youtube.com/watch?v=smOwf0iBqXI)
 - [Who's the King](https://www.youtube.com/watch?v=TVgjF-Vc_tQ)
-- [No Fronts](https://www.youtube.com/watch?v=HukQVeoKLSI)
+- [Best Of 90's - 1Album/1Song - Dog Eat Dog All Boro Kings/No Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
 - [If These Are Good Times](https://www.youtube.com/watch?v=v56JPMsfA_Y)
 - [Dog Eat Dog No Fronts](https://www.youtube.com/watch?v=c_FAGSiyiR4)
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=HtQ2UnMdL6g)

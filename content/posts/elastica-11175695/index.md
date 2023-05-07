@@ -44,8 +44,8 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Elastica – Connection
-{{< youtube id="iKoEIzxMxfQ" title="Elastica – Connection" >}}<br>
+### Elastica - Stutter
+{{< youtube id="0ie4x8hWYYE" title="Elastica - Stutter" >}}<br>
 
 ### More Videos
 
@@ -54,7 +54,7 @@ styles: ["Alternative Rock", "Britpop"]
 - [Elastica - Connection (Official Music Video)](https://www.youtube.com/watch?v=ilKcXIFi-Rc)
 - [Connection // Elastica](https://www.youtube.com/watch?v=5nLLofBZr3o)
 - [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
-- [Elastica - Stutter](https://www.youtube.com/watch?v=0ie4x8hWYYE)
+- [Elastica – Connection](https://www.youtube.com/watch?v=iKoEIzxMxfQ)
 - [2:1](https://www.youtube.com/watch?v=5iE5vu1Mj2g)
 - [Elastica - Car Song](https://www.youtube.com/watch?v=djjw3BKUV28)
 - [Vaseline](https://www.youtube.com/watch?v=GjwQ811cBL8)

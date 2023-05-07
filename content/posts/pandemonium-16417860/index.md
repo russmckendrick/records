@@ -38,18 +38,18 @@ styles: ["Industrial", "Heavy Metal"]
 
 
 ## Videos
-### Whiteout
-{{< youtube id="9668JojmCe4" title="Whiteout" >}}<br>
+### Millenium
+{{< youtube id="Tpiqap0JRIA" title="Millenium" >}}<br>
 
 ### More Videos
 
 - [Killing Joke - Pandemonium](https://www.youtube.com/watch?v=skUUVejxDZc)
 - [Exorcism](https://www.youtube.com/watch?v=lC781aCldKY)
-- [Millenium](https://www.youtube.com/watch?v=Tpiqap0JRIA)
 - [Communion](https://www.youtube.com/watch?v=kjoJd2GxBMo)
 - [Black Moon](https://www.youtube.com/watch?v=HsvPlgOUtsQ)
 - [Labyrinth](https://www.youtube.com/watch?v=NjDyUIwsuXo)
 - [Jana](https://www.youtube.com/watch?v=YLateznUHXI)
+- [Whiteout](https://www.youtube.com/watch?v=9668JojmCe4)
 - [Pleasures Of The Flesh](https://www.youtube.com/watch?v=YMAdcR6JyJg)
 - [Mathematics Of Chaos](https://www.youtube.com/watch?v=Vc2bWPBrS5I)
 

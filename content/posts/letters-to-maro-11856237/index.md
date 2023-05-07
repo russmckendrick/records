@@ -39,14 +39,14 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Electricity
-{{< youtube id="P4opD_uNKOc" title="Electricity" >}}<br>
+### Who's Master?
+{{< youtube id="IIJlPaNFWCA" title="Who's Master?" >}}<br>
 
 ### More Videos
 
-- [Who's Master?](https://www.youtube.com/watch?v=IIJlPaNFWCA)
 - [Dear Maro](https://www.youtube.com/watch?v=D45eq-HByMA)
 - [Underground](https://www.youtube.com/watch?v=VID1aEeeVqU)
+- [Electricity](https://www.youtube.com/watch?v=P4opD_uNKOc)
 - [Sleep Paralysis](https://www.youtube.com/watch?v=nHwBffb2F5A)
 - [Nine](https://www.youtube.com/watch?v=cW0xqaJJYQ4)
 

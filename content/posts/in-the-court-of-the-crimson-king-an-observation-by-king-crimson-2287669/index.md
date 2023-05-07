@@ -30,14 +30,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### King Crimson - 21st Century Schizoid Man (Including Mirrors)
-{{< youtube id="7OvW8Z7kiws" title="King Crimson - 21st Century Schizoid Man (Including Mirrors)" >}}<br>
+### King Crimson - Moonchild (Including The Dream And The Illusion)
+{{< youtube id="DnYDqv8-lJE" title="King Crimson - Moonchild (Including The Dream And The Illusion)" >}}<br>
 
 ### More Videos
 
+- [King Crimson - 21st Century Schizoid Man (Including Mirrors)](https://www.youtube.com/watch?v=7OvW8Z7kiws)
 - [King Crimson - I Talk To The Wind](https://www.youtube.com/watch?v=UlKrH07au6E)
 - [Epitaph (Including March for No Reason and Tomorrow and Tomorrow)](https://www.youtube.com/watch?v=tflchAt5kJw)
-- [King Crimson - Moonchild (Including The Dream And The Illusion)](https://www.youtube.com/watch?v=DnYDqv8-lJE)
 - [King Crimson - The Court Of The Crimson King](https://www.youtube.com/watch?v=ukgraQ-xkp4)
 
 

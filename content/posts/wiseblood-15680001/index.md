@@ -41,12 +41,12 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 
 
 ## Videos
-### CORROSION OF CONFORMITY- Wiseblood 2X Vinyl (Full Album) HD
-{{< youtube id="ENhk9xq1fA4" title="CORROSION OF CONFORMITY- Wiseblood 2X Vinyl (Full Album) HD" >}}<br>
+### Corrosion Of Conformity - Drowning In a Daydream
+{{< youtube id="uqfPv93Zonw" title="Corrosion Of Conformity - Drowning In a Daydream" >}}<br>
 
 ### More Videos
 
-- [Corrosion Of Conformity - Drowning In a Daydream](https://www.youtube.com/watch?v=uqfPv93Zonw)
+- [CORROSION OF CONFORMITY- Wiseblood 2X Vinyl (Full Album) HD](https://www.youtube.com/watch?v=ENhk9xq1fA4)
 
 
 ## Release Information

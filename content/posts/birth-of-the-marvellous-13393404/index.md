@@ -32,12 +32,12 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album
-{{< youtube id="P0FtRWykN-w" title="Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album" >}}<br>
+### SERMON - THE DESCEND (OFFICIAL AUDIO)
+{{< youtube id="jlh1JbdhKt4" title="SERMON - THE DESCEND (OFFICIAL AUDIO)" >}}<br>
 
 ### More Videos
 
-- [SERMON - THE DESCEND (OFFICIAL AUDIO)](https://www.youtube.com/watch?v=jlh1JbdhKt4)
+- [Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album](https://www.youtube.com/watch?v=P0FtRWykN-w)
 
 
 ## Release Information

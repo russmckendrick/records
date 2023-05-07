@@ -45,15 +45,15 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Ian Brown - Billie Jean
-{{< youtube id="LC2lidZxymA" title="Ian Brown - Billie Jean" >}}<br>
+### Ian Brown - Music of the Spheres (Full Album)
+{{< youtube id="aUn2KH5ORyM" title="Ian Brown - Music of the Spheres (Full Album)" >}}<br>
 
 ### More Videos
 
 - [Ian Brown - F.E.A.R.](https://www.youtube.com/watch?v=8f8wAXDZ9D0)
 - [Ian Brown - Time Is My Everything](https://www.youtube.com/watch?v=jW6cLKlKOek)
-- [Ian Brown - Music of the Spheres (Full Album)](https://www.youtube.com/watch?v=aUn2KH5ORyM)
 - [Ian Brown - Dolphins Were Monkeys](https://www.youtube.com/watch?v=kPIIlm24-lk)
+- [Ian Brown - Billie Jean](https://www.youtube.com/watch?v=LC2lidZxymA)
 - [Ian Brown - Thriller (Michael Jackson cover)](https://www.youtube.com/watch?v=L5vwuhnM1QQ)
 
 

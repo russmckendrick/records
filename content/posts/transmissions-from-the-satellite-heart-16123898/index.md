@@ -39,8 +39,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Flaming Lips - Turn It On - Transmissions from the Satellite Heart [1993]
-{{< youtube id="EDOPdJO9jhw" title="The Flaming Lips - Turn It On - Transmissions from the Satellite Heart [1993]" >}}<br>
+### ******* (Plastic Jesus)
+{{< youtube id="GmoljzSI6W8" title="******* (Plastic Jesus)" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["Alternative Rock"]
 - [When Yer Twenty-Two](https://www.youtube.com/watch?v=PkDqpwXHe3I)
 - [Oh My Pregnant Head](https://www.youtube.com/watch?v=6tuQjskHh4s)
 - [Pilot Can at the Queer of God](https://www.youtube.com/watch?v=anOaEWU18og)
+- [The Flaming Lips - Turn It On - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=EDOPdJO9jhw)
 - [The Flaming Lips - Superhumans - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=BCxy69NTyQM)
-- [******* (Plastic Jesus)](https://www.youtube.com/watch?v=GmoljzSI6W8)
 - [Superhumans](https://www.youtube.com/watch?v=X_Ygk4qGyt4)
 - [The Flaming Lips - Chewin the Apple of Your Eye - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=TyZLQK1hmpA)
 - [Pilot Can at the Queer of God - Flaming Lips](https://www.youtube.com/watch?v=EhNS5R1NUqc)

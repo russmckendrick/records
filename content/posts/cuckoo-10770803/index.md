@@ -35,8 +35,8 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Curve - Cuckoo
-{{< youtube id="oFj97DVmhxU" title="Curve - Cuckoo" >}}<br>
+### Curve Unreadable Communication
+{{< youtube id="UqL7RlmPwws" title="Curve Unreadable Communication" >}}<br>
 
 ### More Videos
 
@@ -48,10 +48,10 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 - [Curve - Crystal](https://www.youtube.com/watch?v=KL-I0kyYxT4)
 - [Curve - Men Are From Mars, Women Are From Venus](https://www.youtube.com/watch?v=BOQX4v5c6u4)
 - [Curve - All of one](https://www.youtube.com/watch?v=rUDSBN7oN10)
-- [Curve Unreadable Communication](https://www.youtube.com/watch?v=UqL7RlmPwws)
 - [Curve - Turkey Crossing](https://www.youtube.com/watch?v=3x72B9kuWp8)
 - [Curve - Superblaster](https://www.youtube.com/watch?v=Zxi5vBnhQu0)
 - [Curve - Sweetest Pie](https://www.youtube.com/watch?v=aa0AyjhTaCY)
+- [Curve - Cuckoo](https://www.youtube.com/watch?v=oFj97DVmhxU)
 
 
 ## Release Information

@@ -40,12 +40,13 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### Symarip ‎- Skinhead Moonstomp
-{{< youtube id="zyWYTkPY2Ls" title="Symarip ‎- Skinhead Moonstomp" >}}<br>
+### Symarip - Phoenix City
+{{< youtube id="mV3F293BHpY" title="Symarip - Phoenix City" >}}<br>
 
 ### More Videos
 
 - [The Pyramids - Must Catch a Train (11.06.2022)](https://www.youtube.com/watch?v=Ub74H6vGXo4)
+- [Symarip ‎- Skinhead Moonstomp](https://www.youtube.com/watch?v=zyWYTkPY2Ls)
 - ['Stay With Him' by Symarip.](https://www.youtube.com/watch?v=NeGm_2MRFFY)
 - [Symarip - Skinhead Moonstomp (Official Audio)](https://www.youtube.com/watch?v=PWvRr8XxDhU)
 - [SYMARIP....BAM BAM BAJI](https://www.youtube.com/watch?v=FLqdkF41Utg)
@@ -57,7 +58,6 @@ styles: ["Ska", "Rocksteady"]
 - [Symarip - Skinhead Moonstomp (Full Album)](https://www.youtube.com/watch?v=Xc34iagfk3g)
 - [Symarip - Skin Flint](https://www.youtube.com/watch?v=mEOOt6KQ9dQ)
 - [Tomorrow at Sundown](https://www.youtube.com/watch?v=MtdVHNHZ41c)
-- [Symarip - Phoenix City](https://www.youtube.com/watch?v=mV3F293BHpY)
 - [Symarip - Parsons Corner](https://www.youtube.com/watch?v=dTedQQbEB5w)
 - [Symarip - Skinhead Moonstomp (Subtítulos Español)](https://www.youtube.com/watch?v=5O4MC4-xpoA)
 - [Symarip - Try Me Best](https://www.youtube.com/watch?v=75yav9b6SIU)

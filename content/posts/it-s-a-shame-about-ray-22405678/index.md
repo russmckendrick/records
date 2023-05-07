@@ -59,15 +59,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Lemonheads - Rudderless (Album version)
-{{< youtube id="NofWFKSMiM4" title="Lemonheads - Rudderless (Album version)" >}}<br>
+### It's A Shame About Ray (Demo Version)
+{{< youtube id="EKGAk4TUdEQ" title="It's A Shame About Ray (Demo Version)" >}}<br>
 
 ### More Videos
 
+- [Lemonheads - Rudderless (Album version)](https://www.youtube.com/watch?v=NofWFKSMiM4)
 - [The Turnpike Down (Remastered)](https://www.youtube.com/watch?v=LKjeqYxK8_0)
 - [The Lemonheads - It's A Shame About Ray (Official Video)](https://www.youtube.com/watch?v=NdU0fQzt0h8)
 - [Lemonheads - Bit part (studio verison)](https://www.youtube.com/watch?v=ca6N9FN-rbQ)
-- [It's A Shame About Ray (Demo Version)](https://www.youtube.com/watch?v=EKGAk4TUdEQ)
 - [The Lemonheads - Alison's Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
 - [Rockin Stroll (Remastered)](https://www.youtube.com/watch?v=jet27-LRviQ)
 

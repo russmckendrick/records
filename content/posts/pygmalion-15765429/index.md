@@ -37,20 +37,20 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 
 
 ## Videos
-### Crazy for You
-{{< youtube id="fb4MRvJ6NXw" title="Crazy for You" >}}<br>
+### Blue Skied An' Clear
+{{< youtube id="mrbFB_vTvHg" title="Blue Skied An' Clear" >}}<br>
 
 ### More Videos
 
 - [Rutti](https://www.youtube.com/watch?v=X3UmjDqF0lc)
 - [Crazy for You (Alternative Version (Demo Version))](https://www.youtube.com/watch?v=_4jYMIx0HHU)
 - [Slowdive-Option One (Instrumental #1)](https://www.youtube.com/watch?v=Xc5DpJprI_E)
+- [Crazy for You](https://www.youtube.com/watch?v=fb4MRvJ6NXw)
 - [Miranda](https://www.youtube.com/watch?v=D5BuFce-Ro4)
 - [Trellisaze](https://www.youtube.com/watch?v=oDEG7-MKaTI)
 - [Cello](https://www.youtube.com/watch?v=cjpxk3vL8iY)
 - [J's Heaven](https://www.youtube.com/watch?v=Rrwdr7B_wtk)
 - [Visions Of LA](https://www.youtube.com/watch?v=HnDpEOfQONk)
-- [Blue Skied An' Clear](https://www.youtube.com/watch?v=mrbFB_vTvHg)
 - [All Of Us](https://www.youtube.com/watch?v=kYeMBYsEWRo)
 
 

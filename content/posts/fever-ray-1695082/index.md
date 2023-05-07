@@ -38,8 +38,8 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 
 
 ## Videos
-### Dry and Dusty
-{{< youtube id="cAZgtZHFVA4" title="Dry and Dusty" >}}<br>
+### Fever Ray 'Triangle Walks'
+{{< youtube id="oNs_69HkyDE" title="Fever Ray 'Triangle Walks'" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 - [Fever Ray 'Seven'](https://www.youtube.com/watch?v=aX07gCjT7dA)
 - [If I Had a Heart](https://www.youtube.com/watch?v=hTYQCTfUOiE)
 - [Fever Ray 'When I Grow Up'](https://www.youtube.com/watch?v=4F-CpE73o2M)
+- [Dry and Dusty](https://www.youtube.com/watch?v=cAZgtZHFVA4)
 - [Seven](https://www.youtube.com/watch?v=Cx3x5TEU7pI)
-- [Fever Ray 'Triangle Walks'](https://www.youtube.com/watch?v=oNs_69HkyDE)
 - [Concrete Walls](https://www.youtube.com/watch?v=TpTJeHWGelk)
 - [Now's the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
 - [I'm Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)

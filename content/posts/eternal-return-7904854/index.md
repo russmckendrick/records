@@ -38,8 +38,8 @@ styles: []
 
 
 ## Videos
-### Sarah Blasko - I'd Be Lost (live on triple j)
-{{< youtube id="IX88hAbW_2w" title="Sarah Blasko - I'd Be Lost (live on triple j)" >}}<br>
+### Sarah Blasko - I'd Be Lost
+{{< youtube id="tFdKcD03R0k" title="Sarah Blasko - I'd Be Lost" >}}<br>
 
 ### More Videos
 
@@ -48,8 +48,8 @@ styles: []
 - [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=Tpidd8TuxRw)
 - ['Only One' by Sarah Blasko taken from new album 'Eternal Return' (GRAPHIC 2015)](https://www.youtube.com/watch?v=GODI9aBPHyg)
 - [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=bDPLyl10OzU)
-- [Sarah Blasko - I'd Be Lost](https://www.youtube.com/watch?v=tFdKcD03R0k)
 - [Sarah Blasko - ASK:REPLY](https://www.youtube.com/watch?v=Kh9hF3pMwRE)
+- [Sarah Blasko - I'd Be Lost (live on triple j)](https://www.youtube.com/watch?v=IX88hAbW_2w)
 - [#796 Sarah Blasko - I'd Be Lost](https://www.youtube.com/watch?v=RKofArVQ0y0)
 
 

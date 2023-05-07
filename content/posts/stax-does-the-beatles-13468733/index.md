@@ -43,14 +43,15 @@ styles: []
 
 
 ## Videos
-### My Sweet Lord - J.G. Williams from Stax Does The Beatles
-{{< youtube id="QNyoGjBwcPY" title="My Sweet Lord - J.G. Williams from Stax Does The Beatles" >}}<br>
+### Hey Jude - The Bar-Kays from Stax Does The Beatles
+{{< youtube id="syr8QIMCfXI" title="Hey Jude - The Bar-Kays from Stax Does The Beatles" >}}<br>
 
 ### More Videos
 
 - [STAX DOES THE BEATLES(a few tracks)](https://www.youtube.com/watch?v=uKYcbGMHPAM)
 - [Let It Be - The Mar-Keys from Stax Does The Beatles](https://www.youtube.com/watch?v=0zqgu5rnPb4)
 - [And I Love Her - Reggie Milner from Stax Does The Beatles](https://www.youtube.com/watch?v=I6agj_lsnF4)
+- [My Sweet Lord - J.G. Williams from Stax Does The Beatles](https://www.youtube.com/watch?v=QNyoGjBwcPY)
 - [Michelle - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=EMcZXkSlpko)
 - [Eleanor Rigby - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=EkP5LsMuOt0)
 - [Day Tripper  (Alternate Take) - Otis Redding from Stax Does The Beatles](https://www.youtube.com/watch?v=b5L_POL7rTQ)
@@ -59,7 +60,6 @@ styles: []
 - [Something - Isaac Hayes from Stax Does The Beatles](https://www.youtube.com/watch?v=ZmMV9FJEbeQ)
 - [Lady Madonna - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=lC3xYq87TXg)
 - [Help - David Porter from Stax Does The Beatles](https://www.youtube.com/watch?v=gHm6J7haV8I)
-- [Hey Jude - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=syr8QIMCfXI)
 - [Yesterday (Live) - Carla Thomas from Stax Does The Beatles](https://www.youtube.com/watch?v=iFEDiz_NkYU)
 - [With A Little Help From My Friends - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=PLqHKZ2rEJU)
 - [Got To Get You Into My Life - Booker T. & The M.G.’s from Stax Does The Beatles](https://www.youtube.com/watch?v=tjQvibc4T_k)

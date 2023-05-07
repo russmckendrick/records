@@ -44,12 +44,12 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### CD / Guns N'Roses - Use Your Illusion I / 1991
-{{< youtube id="gVuBuO84MMw" title="CD / Guns N'Roses - Use Your Illusion I / 1991" >}}<br>
+### Use Your Illusion I - Guns N' Roses (Full Album)
+{{< youtube id="4Ev_vhKfeLs" title="Use Your Illusion I - Guns N' Roses (Full Album)" >}}<br>
 
 ### More Videos
 
-- [Use Your Illusion I - Guns N' Roses (Full Album)](https://www.youtube.com/watch?v=4Ev_vhKfeLs)
+- [CD / Guns N'Roses - Use Your Illusion I / 1991](https://www.youtube.com/watch?v=gVuBuO84MMw)
 
 
 ## Release Information

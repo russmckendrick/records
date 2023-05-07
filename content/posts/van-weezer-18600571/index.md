@@ -41,13 +41,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Weezer - All the Good Ones (Official Video)
-{{< youtube id="9uf31SSKloM" title="Weezer - All the Good Ones (Official Video)" >}}<br>
+### Weezer - Hero (Official Video)
+{{< youtube id="BdJS11C8LA0" title="Weezer - Hero (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Weezer - Hero (Official Video)](https://www.youtube.com/watch?v=BdJS11C8LA0)
 - [Weezer - The End Of The Game (Official Video)](https://www.youtube.com/watch?v=Rl-hSj3gnks)
+- [Weezer - All the Good Ones (Official Video)](https://www.youtube.com/watch?v=9uf31SSKloM)
 
 
 ## Release Information

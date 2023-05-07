@@ -51,8 +51,8 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 
 
 ## Videos
-### Can - Moonshake (Official Audio)
-{{< youtube id="IL4B69x8X7s" title="Can - Moonshake (Official Audio)" >}}<br>
+### Can - ...And More (Official Audio)
+{{< youtube id="fB1k0-RKecU" title="Can - ...And More (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -65,13 +65,13 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 - [Can - Vitamin C (Official Audio)](https://www.youtube.com/watch?v=zrkUiCugQDE)
 - [Can - I'm So Green (Official Audio)](https://www.youtube.com/watch?v=Q6l8HwHde1M)
 - [Can - Mushroom (Official Audio)](https://www.youtube.com/watch?v=cR5gYbQzr5s)
+- [Can - Moonshake (Official Audio)](https://www.youtube.com/watch?v=IL4B69x8X7s)
 - [Can - Future Days (Edit) (Official Audio)](https://www.youtube.com/watch?v=NNdAhHQNDcg)
 - [Can - Dizzy Dizzy (Edit) (Official Audio)](https://www.youtube.com/watch?v=SW2nrz8bgoA)
 - [Can - Splash (Edit) (Official Audio)](https://www.youtube.com/watch?v=HtX9AAQak44)
 - [Can - Hunters And Collectors (Edit) (Official Audio)](https://www.youtube.com/watch?v=8Y2K1TSQcPg)
 - [Can - Vernal Equinox (Edit) (Official Audio)](https://www.youtube.com/watch?v=jEUfuOY0XUQ)
 - [Can - I Want More (Official Audio)](https://www.youtube.com/watch?v=2yWItRfjg8w)
-- [Can - ...And More (Official Audio)](https://www.youtube.com/watch?v=fB1k0-RKecU)
 - [Can - Silent Night (Official Audio)](https://www.youtube.com/watch?v=t04ANDPU42Y)
 - [Can - Cascade Waltz (Official Audio)](https://www.youtube.com/watch?v=cAnPP7wfGUs)
 - [Can - Don't Say No (Edit) (Official Audio)](https://www.youtube.com/watch?v=KVt6i-ks5pg)

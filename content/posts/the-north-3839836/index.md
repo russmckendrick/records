@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Stars- The North
-{{< youtube id="4e4JECimr0k" title="Stars- The North" >}}<br>
+### Through The Mines
+{{< youtube id="EAF52eYLem4" title="Through The Mines" >}}<br>
 
 ### More Videos
 
@@ -56,7 +56,7 @@ styles: ["Alternative Rock"]
 - [A Song Is A Weapon](https://www.youtube.com/watch?v=ReGm5EvYk9o)
 - [Do You Want To Die Together?](https://www.youtube.com/watch?v=0S5iyO0Ooe8)
 - [Progress](https://www.youtube.com/watch?v=2w8gzGeqiHo)
-- [Through The Mines](https://www.youtube.com/watch?v=EAF52eYLem4)
+- [Stars- The North](https://www.youtube.com/watch?v=4e4JECimr0k)
 
 
 ## Release Information

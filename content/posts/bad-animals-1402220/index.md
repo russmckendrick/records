@@ -38,12 +38,12 @@ styles: ["AOR", "Hard Rock"]
 
 
 ## Videos
-### You Ain't So Tough
-{{< youtube id="T68DuwluaOE" title="You Ain't So Tough" >}}<br>
+### LP / Heart – Bad Animals / 1987
+{{< youtube id="hQUXiPmzPO0" title="LP / Heart – Bad Animals / 1987" >}}<br>
 
 ### More Videos
 
-- [LP / Heart – Bad Animals / 1987](https://www.youtube.com/watch?v=hQUXiPmzPO0)
+- [You Ain't So Tough](https://www.youtube.com/watch?v=T68DuwluaOE)
 - [Alone | Heart | Bad Animals | 1987 Capitol LP](https://www.youtube.com/watch?v=3sqzLkVGdMc)
 - [Heart - There's The Girl](https://www.youtube.com/watch?v=h1vO6QoACPk)
 - [Heart - Who Will You Run To?](https://www.youtube.com/watch?v=fM44F-M78Vs)

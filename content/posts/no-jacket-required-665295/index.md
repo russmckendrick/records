@@ -38,15 +38,15 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Long Long Way To Go (2016 Remastered)
-{{< youtube id="M-7LOzT73PU" title="Long Long Way To Go (2016 Remastered)" >}}<br>
+### Phil Collins - Inside Out
+{{< youtube id="L-IpCQp5Wdw" title="Phil Collins - Inside Out" >}}<br>
 
 ### More Videos
 
 - [Phil Collins - Sussudio (Remastered Video) (1985)](https://www.youtube.com/watch?v=icv0qn8qYPg)
 - [Phil Collins - Only You Know And I Know (1985 European Vinyl)](https://www.youtube.com/watch?v=Ikkx5favmVc)
-- [Phil Collins - Inside Out](https://www.youtube.com/watch?v=L-IpCQp5Wdw)
 - [Only You Know And I Know (2016 Remastered)](https://www.youtube.com/watch?v=xiB5Mx79IbE)
+- [Long Long Way To Go (2016 Remastered)](https://www.youtube.com/watch?v=M-7LOzT73PU)
 - [Phil Collins - I Don't Wanna Know (2016 Remaster)](https://www.youtube.com/watch?v=1neTO6a1cw0)
 - [One More Night (2016 Remastered)](https://www.youtube.com/watch?v=6Hmrc3IzvAA)
 - [Don't Lose My Number (2016 Remastered)](https://www.youtube.com/watch?v=ZLCG6DJTNBs)

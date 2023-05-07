@@ -40,12 +40,12 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Paul Rodgers - Muddy Water Blues (Electric Version)
-{{< youtube id="jzqq1FrvBKo" title="Paul Rodgers - Muddy Water Blues (Electric Version)" >}}<br>
+### Paul Rodgers ~ The Hunter
+{{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers ~ The Hunter" >}}<br>
 
 ### More Videos
 
-- [Paul Rodgers ~ The Hunter](https://www.youtube.com/watch?v=W_2wLOgD6Ls)
+- [Paul Rodgers - Muddy Water Blues (Electric Version)](https://www.youtube.com/watch?v=jzqq1FrvBKo)
 - [Paul Rodgers - Louisiana Blues](https://www.youtube.com/watch?v=pfAYIW0nArs)
 - [Paul Rodgers (feat. David Gilmour) - Standing around crying](https://www.youtube.com/watch?v=Qj1t95ijlUM)
 - [Paul Rodgers/Gary Moore - She Moves Me (A tribute to Muddy Waters)](https://www.youtube.com/watch?v=_XfTUR_vaQ0)

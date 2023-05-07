@@ -38,8 +38,8 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### Greta Van Fleet - The Cold Wind (Audio)
-{{< youtube id="WhwbltW35dM" title="Greta Van Fleet - The Cold Wind (Audio)" >}}<br>
+### Greta Van Fleet - The New Day (Audio)
+{{< youtube id="j_fElyTRFCc" title="Greta Van Fleet - The New Day (Audio)" >}}<br>
 
 ### More Videos
 
@@ -47,10 +47,10 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 - [Lover, Leaver (Taker, Believer)](https://www.youtube.com/watch?v=hw1DetXwXgE)
 - [Greta Van Fleet - Watching Over (2018), Vinyl Video, UHD, 4K](https://www.youtube.com/watch?v=a67cM-6fJbo)
 - [Greta Van Fleet When The Curtain Falls (Live On The Tonight Show Starring Jimmy Fallon)](https://www.youtube.com/watch?v=Sr1-jIyRB90)
+- [Greta Van Fleet - The Cold Wind (Audio)](https://www.youtube.com/watch?v=WhwbltW35dM)
 - [Greta Van Fleet - Age of Man (Audio)](https://www.youtube.com/watch?v=Wd9te6ZQXpQ)
 - [Greta Van Fleet - Anthem (Audio)](https://www.youtube.com/watch?v=D2xar8DwKi0)
 - [Greta Van Fleet - You're The One (Audio)](https://www.youtube.com/watch?v=S2pa-Eb4wLE)
-- [Greta Van Fleet - The New Day (Audio)](https://www.youtube.com/watch?v=j_fElyTRFCc)
 - [Greta Van Fleet - Brave New World (Audio)](https://www.youtube.com/watch?v=K6l0JTo-Ovc)
 - [Greta Van Fleet - Mountain of the Sun (Audio)](https://www.youtube.com/watch?v=RqFwTIkWegY)
 

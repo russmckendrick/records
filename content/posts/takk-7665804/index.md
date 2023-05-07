@@ -39,11 +39,12 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Sigur Ros - Glósóli [Official Music Video]
-{{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli [Official Music Video]" >}}<br>
+### Svo hljótt
+{{< youtube id="FUri60guH2w" title="Svo hljótt" >}}<br>
 
 ### More Videos
 
+- [Sigur Ros - Glósóli [Official Music Video]](https://www.youtube.com/watch?v=Bz8iEJeh26E)
 - [Takk...](https://www.youtube.com/watch?v=mT8X_5m25bI)
 - [Glósóli](https://www.youtube.com/watch?v=jG5Lk99kG_s)
 - [Hoppípolla](https://www.youtube.com/watch?v=559un6zgVq4)
@@ -53,7 +54,6 @@ styles: ["Post Rock"]
 - [Mílanó](https://www.youtube.com/watch?v=21PFpLDWw0Q)
 - [Gong](https://www.youtube.com/watch?v=8pVHOlHNOp8)
 - [Andvari](https://www.youtube.com/watch?v=4r9Vgj8UuD8)
-- [Svo hljótt](https://www.youtube.com/watch?v=FUri60guH2w)
 - [Heysátan](https://www.youtube.com/watch?v=zEGX8WEodDU)
 
 

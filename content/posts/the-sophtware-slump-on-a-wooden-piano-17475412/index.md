@@ -36,16 +36,16 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Grandaddy - Miner at the Dial-a-View (Piano Version)
-{{< youtube id="Q6rTYdsO0Qs" title="Grandaddy - Miner at the Dial-a-View (Piano Version)" >}}<br>
+### Grandaddy - The Crystal Lake (Piano Version)
+{{< youtube id="MXwCreLCUrU" title="Grandaddy - The Crystal Lake (Piano Version)" >}}<br>
 
 ### More Videos
 
-- [Grandaddy - The Crystal Lake (Piano Version)](https://www.youtube.com/watch?v=MXwCreLCUrU)
 - [Grandaddy - Jed's Other Poem (Beautiful Ground) (Piano Version)](https://www.youtube.com/watch?v=AMBJc-Fk6eo)
 - [Grandaddy - Jed the Humanoid (Piano Version)](https://www.youtube.com/watch?v=d36NP961r8s)
 - [Grandaddy - He's Simple, He's Dumb, He's the Pilot (Piano Version)](https://www.youtube.com/watch?v=ndnfFi8WL9M)
 - [Grandaddy - Jed's Other Poem (Beautiful Ground) (Piano Version)](https://www.youtube.com/watch?v=hwRnQuxOw6U)
+- [Grandaddy - Miner at the Dial-a-View (Piano Version)](https://www.youtube.com/watch?v=Q6rTYdsO0Qs)
 - [Grandaddy - Broken Household Appliance National Forest (Piano Version)](https://www.youtube.com/watch?v=V8rGmtZstZI)
 - [Grandaddy - Hewlett's Daughter (Piano Version)](https://www.youtube.com/watch?v=FcYUpTV5sdw)
 - [Grandaddy - Chartsengrafs (Piano Version)](https://www.youtube.com/watch?v=CQ-fP3QPqYQ)

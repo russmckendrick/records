@@ -38,13 +38,13 @@ styles: ["Power Pop", "Alternative Rock"]
 
 
 ## Videos
-### Weezer - Undone -- The Sweater Song
-{{< youtube id="LHQqqM5sr7g" title="Weezer - Undone -- The Sweater Song" >}}<br>
+### Weezer - Buddy Holly (Official Music Video)
+{{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Weezer - Buddy Holly (Official Music Video)](https://www.youtube.com/watch?v=kemivUKb4f4)
 - [Weezer - Say It Ain't So (Version 3)](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
+- [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
 
 
 ## Release Information

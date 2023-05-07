@@ -39,16 +39,16 @@ styles: ["Soul"]
 
 
 ## Videos
-### God Bless America
-{{< youtube id="Ntu_2beC9Ts" title="God Bless America" >}}<br>
+### Nobody But You
+{{< youtube id="gZiVI1La8UI" title="Nobody But You" >}}<br>
 
 ### More Videos
 
+- [God Bless America](https://www.youtube.com/watch?v=Ntu_2beC9Ts)
 - [Charles Bradley - Ain't Gonna Give It Up (HD)](https://www.youtube.com/watch?v=3A4TiEHop8k)
 - [Charles Bradley - Changes | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=dhYSGPxlHks)
 - [Good to Be Back Home](https://www.youtube.com/watch?v=SkioNKJMSUY)
 - [Charles Bradley - Lovin' You, Baby | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=2De8gYv2EOQ)
-- [Nobody But You](https://www.youtube.com/watch?v=gZiVI1La8UI)
 - [Charles Bradley - Ain't It A Sin | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=xwr-Oejggfs)
 - [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
 - [Charles Bradley Changes (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)

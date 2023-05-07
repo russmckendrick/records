@@ -38,8 +38,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Andy Warhol's Dead
-{{< youtube id="ozjukVjVjNQ" title="Andy Warhol's Dead" >}}<br>
+### Revolution Baby
+{{< youtube id="xsv5dhQALAs" title="Revolution Baby" >}}<br>
 
 ### More Videos
 
@@ -50,6 +50,7 @@ styles: ["Pop Rock"]
 - [Transvision Vamp - Tell That Girl to Shut Up (1988)](https://www.youtube.com/watch?v=_zlt_jB1kC0)
 - [Trash City](https://www.youtube.com/watch?v=pqAt3HZRyAY)
 - [Transvision Vamp - Sister Moon (1988)](https://www.youtube.com/watch?v=-yEMSuVcA-M)
+- [Andy Warhol's Dead](https://www.youtube.com/watch?v=ozjukVjVjNQ)
 - [Transvision Vamp - ANDY WARHOL'S DEAD](https://www.youtube.com/watch?v=CvpNW-89hk4)
 - [Sex Kick](https://www.youtube.com/watch?v=CGEswhonXMg)
 - [Sister Moon (7 Version)](https://www.youtube.com/watch?v=LeLXrNc13OE)
@@ -59,7 +60,6 @@ styles: ["Pop Rock"]
 - [Sister Moon (Groove On)](https://www.youtube.com/watch?v=_8lJ18PspyE)
 - [Trash City](https://www.youtube.com/watch?v=tftptvlqPsA)
 - [Andy Warhol's Dead (Andy Kershaw BBC Session)](https://www.youtube.com/watch?v=0Qx1WzFazCI)
-- [Revolution Baby](https://www.youtube.com/watch?v=xsv5dhQALAs)
 
 
 ## Release Information

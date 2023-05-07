@@ -37,8 +37,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Prince - I Would Die 4 U (Live 1984) [Official Video]
-{{< youtube id="SVEFRQavTNI" title="Prince - I Would Die 4 U (Live 1984) [Official Video]" >}}<br>
+### Purple Rain
+{{< youtube id="S6Y1gohk5-A" title="Purple Rain" >}}<br>
 
 ### More Videos
 
@@ -49,12 +49,12 @@ styles: ["Soundtrack"]
 - [Prince & The Revolution - Purple Rain (Live 1985) [Official Video]](https://www.youtube.com/watch?v=bm03wqLY3Nc)
 - [Prince & The Revolution - When Doves Cry (Extended Version) (Official Music Video)](https://www.youtube.com/watch?v=IUc0R8bbWQE)
 - [Prince - Purple Rain (Live At Paisley Park, 1999)](https://www.youtube.com/watch?v=ryT-ltTDCko)
+- [Prince - I Would Die 4 U (Live 1984) [Official Video]](https://www.youtube.com/watch?v=SVEFRQavTNI)
 - [I Would Die 4 U](https://www.youtube.com/watch?v=hkNl3pq1twE)
 - [Prince - Take Me With U (Live 1985) [Official Video]](https://www.youtube.com/watch?v=c80mYF6dR7s)
 - [Computer Blue](https://www.youtube.com/watch?v=bt0XdyBgSnE)
 - [Darling Nikki](https://www.youtube.com/watch?v=j8oxXkUjYHg)
 - [Baby I'm a Star](https://www.youtube.com/watch?v=4YdPZ1J0KrE)
-- [Purple Rain](https://www.youtube.com/watch?v=S6Y1gohk5-A)
 
 
 ## Release Information

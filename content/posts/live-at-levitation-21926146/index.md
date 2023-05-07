@@ -37,12 +37,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Primal Scream - Jailbird (Live at LEVITATION)
-{{< youtube id="1RAa5b1Y31M" title="Primal Scream - Jailbird (Live at LEVITATION)" >}}<br>
+### Primal Scream - Accelerator (Live at LEVITATION)
+{{< youtube id="qMBwxCnbLU4" title="Primal Scream - Accelerator (Live at LEVITATION)" >}}<br>
 
 ### More Videos
 
-- [Primal Scream - Accelerator (Live at LEVITATION)](https://www.youtube.com/watch?v=qMBwxCnbLU4)
+- [Primal Scream - Jailbird (Live at LEVITATION)](https://www.youtube.com/watch?v=1RAa5b1Y31M)
 
 
 ## Release Information

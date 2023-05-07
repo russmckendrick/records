@@ -41,11 +41,12 @@ styles: ["Pop Rock", "Soft Rock"]
 
 
 ## Videos
-### It's Not Too Late
-{{< youtube id="t9K6LGai3n0" title="It's Not Too Late" >}}<br>
+### He's a Bum
+{{< youtube id="Nd2cSVFGG-8" title="He's a Bum" >}}<br>
 
 ### More Videos
 
+- [It's Not Too Late](https://www.youtube.com/watch?v=t9K6LGai3n0)
 - [Under the Moonlight](https://www.youtube.com/watch?v=-WCTTUZXG9s)
 - [School Girl](https://www.youtube.com/watch?v=d8JZuUsYmVE)
 - [Love Remember Me](https://www.youtube.com/watch?v=am35689AWpk)
@@ -53,7 +54,6 @@ styles: ["Pop Rock", "Soft Rock"]
 - [Wild Situation](https://www.youtube.com/watch?v=WFBhXgbMBmo)
 - [Common](https://www.youtube.com/watch?v=kiugWoMl6qQ)
 - [Are You Real](https://www.youtube.com/watch?v=wJenDFA5r7Q)
-- [He's a Bum](https://www.youtube.com/watch?v=Nd2cSVFGG-8)
 - [Cocktails](https://www.youtube.com/watch?v=hed-71y5eTo)
 - [I Love You](https://www.youtube.com/watch?v=ov1ude7rmkU)
 - [Constant Companion](https://www.youtube.com/watch?v=FbGhAwbAAbs)

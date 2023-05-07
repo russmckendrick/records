@@ -38,8 +38,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Mace Plays Vinyl - Soundtrack - The Lost Boys - Full Album
-{{< youtube id="K7XPFcHOgKg" title="Mace Plays Vinyl - Soundtrack - The Lost Boys - Full Album" >}}<br>
+### HQ Lost Boys Soundtrack: Lost in the Shadows - Lou Gramm (Original Music Video)
+{{< youtube id="5eY0baENaL4" title="HQ Lost Boys Soundtrack: Lost in the Shadows - Lou Gramm (Original Music Video)" >}}<br>
 
 ### More Videos
 
@@ -52,8 +52,8 @@ styles: ["Soundtrack"]
 - [The Lost Boys - Soundtrack - Lost In The Shadows (The Lost Boys) - By Lou Gramm](https://www.youtube.com/watch?v=9mk9MWei8MI)
 - [The Lost Boys (1987) - Soundtracks - Full Album](https://www.youtube.com/watch?v=gDU4rSgondk)
 - [Original The Lost Boys Cry Little Sister by G Tom Mac](https://www.youtube.com/watch?v=TuxdjVI-5r0)
+- [Mace Plays Vinyl - Soundtrack - The Lost Boys - Full Album](https://www.youtube.com/watch?v=K7XPFcHOgKg)
 - [The Lost Boys Original Soundtrack](https://www.youtube.com/watch?v=358dMEr61Ok)
-- [HQ Lost Boys Soundtrack: Lost in the Shadows - Lou Gramm (Original Music Video)](https://www.youtube.com/watch?v=5eY0baENaL4)
 - [JOMBi Presents: I STILL BELIEVE (Tim Cappello - Lost Boys Sax Man) Full Song](https://www.youtube.com/watch?v=RzXuuxnp08o)
 - [Good Times - INXS; Jimmy Barnes.wmv - From The Lost Boys](https://www.youtube.com/watch?v=ecSgtj_zapg)
 - [The Lost Boys - Tim Cappello - I Still Believe - Music Video](https://www.youtube.com/watch?v=PdaaGlyu7EQ)

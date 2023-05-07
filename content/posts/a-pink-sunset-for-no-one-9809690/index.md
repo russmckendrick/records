@@ -37,15 +37,15 @@ styles: ["Ambient", "Drone"]
 
 
 ## Videos
-### Rituals
-{{< youtube id="9ngNK_OwK-k" title="Rituals" >}}<br>
+### Lone Victory Tonight
+{{< youtube id="rOysMVKzmRE" title="Lone Victory Tonight" >}}<br>
 
 ### More Videos
 
 - [A Pink Sunset For No One](https://www.youtube.com/watch?v=zGk4imfGKi4)
 - [Emergence](https://www.youtube.com/watch?v=shqOfpmCW70)
 - [Noveller - Another Dark Hour](https://www.youtube.com/watch?v=kmECKxc_Occ)
-- [Lone Victory Tonight](https://www.youtube.com/watch?v=rOysMVKzmRE)
+- [Rituals](https://www.youtube.com/watch?v=9ngNK_OwK-k)
 
 
 ## Release Information

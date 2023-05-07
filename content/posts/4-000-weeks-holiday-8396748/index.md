@@ -35,14 +35,14 @@ styles: ["Leftfield", "Disco"]
 
 
 ## Videos
-### Your My Inspiration Ian Dury
-{{< youtube id="Vw-88GgxY4Y" title="Your My Inspiration Ian Dury" >}}<br>
+### IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk
+{{< youtube id="t03qMYuBpOY" title="IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk" >}}<br>
 
 ### More Videos
 
-- [IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk](https://www.youtube.com/watch?v=t03qMYuBpOY)
 - [Ian Dury - Ban The Bomb](https://www.youtube.com/watch?v=EV6s5Ol5GeI)
 - [IAN DURY & THE MUSIC STUDENTS - You're My Inspiration (Long Version) (1983) Disco Funk](https://www.youtube.com/watch?v=VpNZ_tGmr6Q)
+- [Your My Inspiration Ian Dury](https://www.youtube.com/watch?v=Vw-88GgxY4Y)
 - [Ian Dury - The Man With No Face](https://www.youtube.com/watch?v=4PtZAmpzD1w)
 
 

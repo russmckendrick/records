@@ -40,13 +40,12 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 
 
 ## Videos
-### Neon Neon - Michael Douglas
-{{< youtube id="OzRkNvC7yiI" title="Neon Neon - Michael Douglas" >}}<br>
+### NEON NEON - I Lust U featuring Cate Le Bon - Official Video!
+{{< youtube id="z4lZqDmCO9c" title="NEON NEON - I Lust U featuring Cate Le Bon - Official Video!" >}}<br>
 
 ### More Videos
 
 - [Neon Neon - Luxury Pool Feat. Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [NEON NEON - I Lust U featuring Cate Le Bon - Official Video!](https://www.youtube.com/watch?v=z4lZqDmCO9c)
 - [Neon Neon - Dream Cars (Unofficial)](https://www.youtube.com/watch?v=Jt924g5lZ7w)
 - [Neon Neon - 'I Told Her on Alderaan / Trick for Treat' - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
 - [Neon Neon - Raquel (Unofficial)](https://www.youtube.com/watch?v=wSG8SdLNyrg)
@@ -55,6 +54,7 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 - [Luxury Pool](https://www.youtube.com/watch?v=dHyCrf6CSWs)
 - [Sweat Shop](https://www.youtube.com/watch?v=VM0HxGiuH1Y)
 - [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)
+- [Neon Neon - Michael Douglas](https://www.youtube.com/watch?v=OzRkNvC7yiI)
 
 
 ## Release Information

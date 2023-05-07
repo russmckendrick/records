@@ -41,8 +41,8 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Motorcycle (Straight to Hell)
-{{< youtube id="3_B5nY6_9Io" title="Motorcycle (Straight to Hell)" >}}<br>
+### Death
+{{< youtube id="byXV8klxtiE" title="Death" >}}<br>
 
 ### More Videos
 
@@ -55,9 +55,9 @@ styles: ["Stoner Rock"]
 - [Be Forewarned](https://www.youtube.com/watch?v=n-Bb-gtjMb0)
 - [Mr. Destroyer](https://www.youtube.com/watch?v=jzoOiSe1yYo)
 - [When the Wolf Sits](https://www.youtube.com/watch?v=PjJ8KnWNuTk)
-- [Death](https://www.youtube.com/watch?v=byXV8klxtiE)
 - [Situation](https://www.youtube.com/watch?v=ToYoq70P7HI)
 - [It's Trash](https://www.youtube.com/watch?v=JBUDIPEs6q0)
+- [Motorcycle (Straight to Hell)](https://www.youtube.com/watch?v=3_B5nY6_9Io)
 - [Learning to Die](https://www.youtube.com/watch?v=bEZZdpQjJnA)
 - [Welcome to the Void (Bonus Track)](https://www.youtube.com/watch?v=GzAXSIiGy-w)
 

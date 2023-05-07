@@ -37,12 +37,12 @@ styles: ["Contemporary R&B", "Pop Rock", "Funk", "Soul"]
 
 
 ## Videos
-### Yola - Starlight [Official Music Video]
-{{< youtube id="8IGDA8ZUQ08" title="Yola - Starlight [Official Music Video]" >}}<br>
+### Yola - Diamond Studded Shoes [Official Music Video]
+{{< youtube id="GfC_n8efpiM" title="Yola - Diamond Studded Shoes [Official Music Video]" >}}<br>
 
 ### More Videos
 
-- [Yola - Diamond Studded Shoes [Official Music Video]](https://www.youtube.com/watch?v=GfC_n8efpiM)
+- [Yola - Starlight [Official Music Video]](https://www.youtube.com/watch?v=8IGDA8ZUQ08)
 
 
 ## Release Information

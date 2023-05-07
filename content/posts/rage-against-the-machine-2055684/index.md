@@ -38,17 +38,17 @@ styles: ["Funk Metal"]
 
 
 ## Videos
-### Fistful of Steel
-{{< youtube id="UnRhHYaX8Cw" title="Fistful of Steel" >}}<br>
+### Rage Against The Machine - Killing In the Name (Official Music Video)
+{{< youtube id="bWXazVhlyxQ" title="Rage Against The Machine - Killing In the Name (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Rage Against The Machine - Killing In the Name (Official Music Video)](https://www.youtube.com/watch?v=bWXazVhlyxQ)
 - [Rage Against The Machine - Take The Power Back (Audio)](https://www.youtube.com/watch?v=qKSNABST4b0)
 - [Settle for Nothing](https://www.youtube.com/watch?v=fLndnUeWlQo)
 - [Bullet In the Head](https://www.youtube.com/watch?v=BbbWzMGSUuE)
 - [Rage Against The Machine - Know Your Enemy (Audio)](https://www.youtube.com/watch?v=JukTvlrh-Wk)
 - [Rage Against The Machine - Wake Up (Audio)](https://www.youtube.com/watch?v=4lzqUe1Qfec)
+- [Fistful of Steel](https://www.youtube.com/watch?v=UnRhHYaX8Cw)
 - [Township Rebellion](https://www.youtube.com/watch?v=Q04d4O8etHI)
 - [Rage Against The Machine - Freedom (Official Music Video)](https://www.youtube.com/watch?v=H_vQt_v8Jmw)
 

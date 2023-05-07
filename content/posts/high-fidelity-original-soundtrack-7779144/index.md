@@ -43,8 +43,8 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 
 
 ## Videos
-### High Fidelity Original Soundtracks - Lo Boob Oscillator
-{{< youtube id="KVuAs9sQOw8" title="High Fidelity Original Soundtracks - Lo Boob Oscillator" >}}<br>
+### High Fidelity Original Soundtracks - Who Loves The Sun
+{{< youtube id="u9eXAJhXrhg" title="High Fidelity Original Soundtracks - Who Loves The Sun" >}}<br>
 
 ### More Videos
 
@@ -52,12 +52,12 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 - [High Fidelity Original Soundtracks - Dry the Rain](https://www.youtube.com/watch?v=357GIArSJBg)
 - [High Fidelity Original Soundtracks - Cold Blooded Old Times](https://www.youtube.com/watch?v=29i1rQ-Rxak)
 - [High Fidelity Original Soundtracks - Let's Get it On](https://www.youtube.com/watch?v=CdvFGRdUaDo)
+- [High Fidelity Original Soundtracks - Lo Boob Oscillator](https://www.youtube.com/watch?v=KVuAs9sQOw8)
 - [High Fidelity Original Soundtracks - Oh! Sweet Nuthin](https://www.youtube.com/watch?v=aDluzNOuMUw)
 - [High Fidelity Original Soundtracks - Shipbuilding](https://www.youtube.com/watch?v=S0LPnPVKoWs)
 - [High Fidelity Original Soundtracks - Fallen for You](https://www.youtube.com/watch?v=Qcv6F2B04nk)
 - [High Fidelity Original Soundtracks - Inside Game](https://www.youtube.com/watch?v=PTvCY2sNTuM)
 - [High Fidelity Original Soundtracks - You're Gonna Miss Me](https://www.youtube.com/watch?v=rwUCpXfs-hE)
-- [High Fidelity Original Soundtracks - Who Loves The Sun](https://www.youtube.com/watch?v=u9eXAJhXrhg)
 - [High Fidelity Original Soundtracks - Always See Your Face](https://www.youtube.com/watch?v=0vMsKQ2ti50)
 
 

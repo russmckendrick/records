@@ -34,8 +34,8 @@ styles: ["Electro", "Soul", "Funk", "Synth-pop"]
 
 
 ## Videos
-### The Time - What Time Is It? (1982) - B1 - The Walk
-{{< youtube id="KXAsLI-i21w" title="The Time - What Time Is It? (1982) - B1 - The Walk" >}}<br>
+### The Walk
+{{< youtube id="EI9YIDpqor8" title="The Walk" >}}<br>
 
 ### More Videos
 
@@ -45,7 +45,7 @@ styles: ["Electro", "Soul", "Funk", "Synth-pop"]
 - [777-9311](https://www.youtube.com/watch?v=zioEaqjPAGI)
 - [The Time - What Time Is It? (1982) - A3 - Onedayimgonna'b'somebody](https://www.youtube.com/watch?v=EziNPrsg24g)
 - [Onedayi'mgonnabesomebody](https://www.youtube.com/watch?v=vQO5Lbhau04)
-- [The Walk](https://www.youtube.com/watch?v=EI9YIDpqor8)
+- [The Time - What Time Is It? (1982) - B1 - The Walk](https://www.youtube.com/watch?v=KXAsLI-i21w)
 - [The Time - What Time Is It? (1982) - B2 - Gigolos Get Lonely 2](https://www.youtube.com/watch?v=VxGrXIXuwnY)
 - [Gigolos Get Lonely Too](https://www.youtube.com/watch?v=85iu_Jieolc)
 - [The Time - What Time Is It? (1982) - B3 - I Don't Wanna Leave You](https://www.youtube.com/watch?v=R4h5eV7qc5U)

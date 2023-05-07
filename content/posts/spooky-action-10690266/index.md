@@ -39,12 +39,12 @@ styles: ["Indie Rock", "Prog Rock"]
 
 
 ## Videos
-### Paul Draper - Don't Poke The Bear
-{{< youtube id="22WfZ8vM-r0" title="Paul Draper - Don't Poke The Bear" >}}<br>
+### Paul Draper - Jealousy Is A Powerful Emotion
+{{< youtube id="fGbqK0wPVwk" title="Paul Draper - Jealousy Is A Powerful Emotion" >}}<br>
 
 ### More Videos
 
-- [Paul Draper - Jealousy Is A Powerful Emotion](https://www.youtube.com/watch?v=fGbqK0wPVwk)
+- [Paul Draper - Don't Poke The Bear](https://www.youtube.com/watch?v=22WfZ8vM-r0)
 
 
 ## Release Information

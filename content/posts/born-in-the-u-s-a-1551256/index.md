@@ -40,15 +40,15 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 
 
 ## Videos
-### Working on the Highway
-{{< youtube id="5OEA9_Gtims" title="Working on the Highway" >}}<br>
+### Bruce Springsteen - Born in the U.S.A. (Official Video)
+{{< youtube id="EPhWR4d3FJQ" title="Bruce Springsteen - Born in the U.S.A. (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Bruce Springsteen - Born in the U.S.A. (Official Video)](https://www.youtube.com/watch?v=EPhWR4d3FJQ)
 - [Bruce Springsteen - Dancing In the Dark (Official Video)](https://www.youtube.com/watch?v=129kuDCQtHs)
 - [Cover Me](https://www.youtube.com/watch?v=s3tqIk8TPWM)
 - [Darlington County](https://www.youtube.com/watch?v=1t5JvmqTx94)
+- [Working on the Highway](https://www.youtube.com/watch?v=5OEA9_Gtims)
 - [Downbound Train](https://www.youtube.com/watch?v=2WPJT6VZxlo)
 - [I'm On Fire](https://www.youtube.com/watch?v=1VxFS5-klfk)
 - [No Surrender](https://www.youtube.com/watch?v=txKhQ9cbhgo)

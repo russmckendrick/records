@@ -38,8 +38,8 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Videos
-### Heart - If Looks Could Kill (Live 1990)
-{{< youtube id="iR0fIUu0rWU" title="Heart - If Looks Could Kill (Live 1990)" >}}<br>
+### Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)
+{{< youtube id="Pt_3uddGa4g" title="Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,6 @@ styles: ["Power Pop", "Pop Rock"]
 - [Heart - If looks could kill [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=1qfc5e3r65Q)
 - [Heart - What about love [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=p8YwufAbiWA)
 - [Heart - Never [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=vLRHWYP78D4)
-- [Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Pt_3uddGa4g)
 - [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
 - [Heart - All eyes [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=c_lJU14nhgw)
 - [Heart - Nobody home [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=ePNGtYqWx2U)
@@ -58,6 +57,7 @@ styles: ["Power Pop", "Pop Rock"]
 - [These Dreams HEART 1985 LP](https://www.youtube.com/watch?v=4tbPIoL2wOw)
 - [Heart - What About Love?](https://www.youtube.com/watch?v=KE5GGMhmo-M)
 - [Heart - These Dreams](https://www.youtube.com/watch?v=41P8UxneDJE)
+- [Heart - If Looks Could Kill (Live 1990)](https://www.youtube.com/watch?v=iR0fIUu0rWU)
 
 
 ## Release Information

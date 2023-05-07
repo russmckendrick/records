@@ -38,14 +38,14 @@ styles: []
 
 
 ## Videos
-### DJ Format & Abdominal - Behind the Scenes (Official Video)
-{{< youtube id="sAdJpm1gchA" title="DJ Format & Abdominal - Behind the Scenes (Official Video)" >}}<br>
+### DJ Format & Abdominal - Diamond Hammer
+{{< youtube id="WbWnJbfsbNI" title="DJ Format & Abdominal - Diamond Hammer" >}}<br>
 
 ### More Videos
 
 - [DJ Format & Abdominal - We Say](https://www.youtube.com/watch?v=rvbrRYUpRoA)
-- [DJ Format & Abdominal - Diamond Hammer](https://www.youtube.com/watch?v=WbWnJbfsbNI)
 - [DJ Format & Abdominal - Still Hungry](https://www.youtube.com/watch?v=Ktj_Zvyy6qw)
+- [DJ Format & Abdominal - Behind the Scenes (Official Video)](https://www.youtube.com/watch?v=sAdJpm1gchA)
 - [DJ Format & Abdominal - Dirt (Official Video)](https://www.youtube.com/watch?v=LrEta1txJY4)
 - [DJ Format & Abdominal - We're Back](https://www.youtube.com/watch?v=yPJlNs-8ERk)
 

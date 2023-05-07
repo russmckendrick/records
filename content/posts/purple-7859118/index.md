@@ -38,14 +38,14 @@ styles: ["Stoner Rock", "Progressive Metal", "Heavy Metal"]
 
 
 ## Videos
-### BARONESS - Try To Disappear [Official Music Video]
-{{< youtube id="iI8HXIhenHQ" title="BARONESS - Try To Disappear [Official Music Video]" >}}<br>
+### BARONESS - Shock Me [Official Music Video]
+{{< youtube id="t6OCeW6FVvY" title="BARONESS - Shock Me [Official Music Video]" >}}<br>
 
 ### More Videos
 
 - [BARONESS - Chlorine & Wine [Official Music Video]](https://www.youtube.com/watch?v=DnYO7iQfQDQ)
 - [BARONESS - Morningstar [AUDIO]](https://www.youtube.com/watch?v=OYF5FCu_M-k)
-- [BARONESS - Shock Me [Official Music Video]](https://www.youtube.com/watch?v=t6OCeW6FVvY)
+- [BARONESS - Try To Disappear [Official Music Video]](https://www.youtube.com/watch?v=iI8HXIhenHQ)
 
 
 ## Release Information

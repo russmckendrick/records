@@ -40,17 +40,17 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### The proclaimers - 500 miles (With lyrics)
-{{< youtube id="TyyNlxiMDB8" title="The proclaimers - 500 miles (With lyrics)" >}}<br>
+### Sunshine on Leith
+{{< youtube id="9V7NYX1TOgs" title="Sunshine on Leith" >}}<br>
 
 ### More Videos
 
 - [The Proclaimers-Sunshine On Leith](https://www.youtube.com/watch?v=ZmELS03_4So)
 - [The Proclaimers - I'm Gonna Be (500 Miles)](https://www.youtube.com/watch?v=tbNlMtqrYS0)
 - [The Proclaimers -  Sunshine On Leith (Official Music Video)](https://www.youtube.com/watch?v=Iesps9w4HFw)
-- [Sunshine on Leith](https://www.youtube.com/watch?v=9V7NYX1TOgs)
 - [Sunshine on Leith (2011 Remaster)](https://www.youtube.com/watch?v=sZ43B71vK0g)
 - [The Proclaimers - Sunshine On Leith](https://www.youtube.com/watch?v=0NzPmtQTuVI)
+- [The proclaimers - 500 miles (With lyrics)](https://www.youtube.com/watch?v=TyyNlxiMDB8)
 
 
 ## Release Information

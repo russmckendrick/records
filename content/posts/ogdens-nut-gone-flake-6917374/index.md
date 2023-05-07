@@ -42,14 +42,14 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)
-{{< youtube id="TwB3bug2p-I" title="The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)" >}}<br>
+### The Journey
+{{< youtube id="ffOy_wQO9LE" title="The Journey" >}}<br>
 
 ### More Videos
 
 - [The Small Faces - Lazy Sunday Afternoon](https://www.youtube.com/watch?v=zXeRB-3nDR8)
 - [The Small Faces - Ogdens Nut Flake](https://www.youtube.com/watch?v=rCjrF2wWuSg)
-- [The Journey](https://www.youtube.com/watch?v=ffOy_wQO9LE)
+- [The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)](https://www.youtube.com/watch?v=TwB3bug2p-I)
 
 
 ## Release Information

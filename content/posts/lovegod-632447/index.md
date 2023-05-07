@@ -39,12 +39,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Backwards Dog (Remastered)
-{{< youtube id="-4wDQoLFF9U" title="Backwards Dog (Remastered)" >}}<br>
+### The Soup Dragons Sweetmeat
+{{< youtube id="vAyiOebGUS4" title="The Soup Dragons Sweetmeat" >}}<br>
 
 ### More Videos
 
-- [The Soup Dragons Sweetmeat](https://www.youtube.com/watch?v=vAyiOebGUS4)
+- [Backwards Dog (Remastered)](https://www.youtube.com/watch?v=-4wDQoLFF9U)
 - [The Soup Dragons - I'm Free](https://www.youtube.com/watch?v=hSWbpVjwQGM)
 - [Supercherry (Remastered)](https://www.youtube.com/watch?v=MjjsiSarij4)
 - [The Soup Dragons - Lovegod](https://www.youtube.com/watch?v=R6Xu9O4pzyw)

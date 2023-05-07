@@ -44,8 +44,8 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 
 
 ## Videos
-### Lies and Alibis
-{{< youtube id="yPgz_una_nI" title="Lies and Alibis" >}}<br>
+### Lovage - Stroker Ace
+{{< youtube id="6uUvjdSHWeQ" title="Lovage - Stroker Ace" >}}<br>
 
 ### More Videos
 
@@ -57,13 +57,13 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 - [Lovage - Strangers on a Train](https://www.youtube.com/watch?v=9jmK_UTXafs)
 - [Pit Stop (Take Me Home)](https://www.youtube.com/watch?v=y3Hm8wJ55wQ)
 - [Lovage / Music To Make Love To Your Old Lady By - Instrumental (Full Album)](https://www.youtube.com/watch?v=CbyRp4CX5_0)
-- [Lovage - Stroker Ace](https://www.youtube.com/watch?v=6uUvjdSHWeQ)
 - [Lovage - Pit Stop (take me home) (/w Mike Patton)](https://www.youtube.com/watch?v=iPXKzHBTSA4)
 - [Anger Management](https://www.youtube.com/watch?v=RQvs6dAmlYM)
 - [Lovage - Lifeboat (/w Mike Patton)](https://www.youtube.com/watch?v=xu3tzC9evm8)
 - [Everyone Has a Summer](https://www.youtube.com/watch?v=8l32OnMUGVc)
 - [Lovage - Anger Management (/w Mike Patton)](https://www.youtube.com/watch?v=2P3RTPevirM)
 - [To Catch a Thief](https://www.youtube.com/watch?v=8nvzKqia8GM)
+- [Lies and Alibis](https://www.youtube.com/watch?v=yPgz_una_nI)
 - [Herbs, Good Hygiene and Socks](https://www.youtube.com/watch?v=efRQfNywAxM)
 - [Book of the Month](https://www.youtube.com/watch?v=mSSu9jTbqGU)
 - [Lifeboat](https://www.youtube.com/watch?v=VwYgkmQF2a8)

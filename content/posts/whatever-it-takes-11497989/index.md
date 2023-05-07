@@ -38,8 +38,8 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### Show Her
-{{< youtube id="3Sb0Rx_O8rc" title="Show Her" >}}<br>
+### I Should've Spoke Up
+{{< youtube id="di90SP63Ahg" title="I Should've Spoke Up" >}}<br>
 
 ### More Videos
 
@@ -48,7 +48,7 @@ styles: ["Rhythm & Blues"]
 - [I Got Eyes](https://www.youtube.com/watch?v=JLY3mzivXRA)
 - [Mm-Hmm](https://www.youtube.com/watch?v=KuYL9szNGsI)
 - [Blisters](https://www.youtube.com/watch?v=yVpO4R8qd7w)
-- [I Should've Spoke Up](https://www.youtube.com/watch?v=di90SP63Ahg)
+- [Show Her](https://www.youtube.com/watch?v=3Sb0Rx_O8rc)
 - [Don't Let Pride Take You for a Ride](https://www.youtube.com/watch?v=6SQGydlB8ls)
 - [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
 - [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)

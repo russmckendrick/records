@@ -43,14 +43,14 @@ styles: ["Ska"]
 
 
 ## Videos
-### THE SELECTER - EVERYDAY
-{{< youtube id="OIpTEqK0W9E" title="THE SELECTER - EVERYDAY" >}}<br>
+### THE SELECTER - DANGER
+{{< youtube id="ckvX_gqcrxs" title="THE SELECTER - DANGER" >}}<br>
 
 ### More Videos
 
 - [The Selecter - Too Much Pressure](https://www.youtube.com/watch?v=QHnX_wEW1K0)
 - [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
-- [THE SELECTER - DANGER](https://www.youtube.com/watch?v=ckvX_gqcrxs)
+- [THE SELECTER - EVERYDAY](https://www.youtube.com/watch?v=OIpTEqK0W9E)
 - [Selecter - danger](https://www.youtube.com/watch?v=BjUeBGkum6A)
 - [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)
 - [The Selecter - Out On The Streets](https://www.youtube.com/watch?v=JOecLj8Uw3s)

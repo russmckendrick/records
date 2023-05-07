@@ -45,8 +45,8 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 
 
 ## Videos
-### Dance of the Mad Bastards
-{{< youtube id="nkDlSTjJBiE" title="Dance of the Mad Bastards" >}}<br>
+### Pop Will Eat Itself - PsychoSexual
+{{< youtube id="JDFm-w8qQ-Q" title="Pop Will Eat Itself - PsychoSexual" >}}<br>
 
 ### More Videos
 
@@ -55,7 +55,6 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 - [The Beat That Refused to Die](https://www.youtube.com/watch?v=8mTqvzdKFFc)
 - [Lived In Splendour, Died In Chaos](https://www.youtube.com/watch?v=JGs2rDQ_6cM)
 - [92° F (The 3rd Degree)](https://www.youtube.com/watch?v=Y0fY_aFjnB4)
-- [Pop Will Eat Itself - PsychoSexual](https://www.youtube.com/watch?v=JDFm-w8qQ-Q)
 - [Very Metal Noise Pollution](https://www.youtube.com/watch?v=iL0hRD2Wr0A)
 - [Nightmare At 20,000 Feet](https://www.youtube.com/watch?v=iLl9gLrwsmA)
 - [1000 X No](https://www.youtube.com/watch?v=9ycq4ABS9-I)
@@ -63,6 +62,7 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 - [Dr. Nightmare's Medication Time](https://www.youtube.com/watch?v=iWDDER65_5E)
 - [88 Seconds... & Still Counting](https://www.youtube.com/watch?v=Qq_JYHTHj74)
 - [Pop Will Eat Itself - Dance Of The Mad Bastards (Feet On Heat Mix)](https://www.youtube.com/watch?v=mKvc_jgK9mU)
+- [Dance of the Mad Bastards](https://www.youtube.com/watch?v=nkDlSTjJBiE)
 - [Psychosexual](https://www.youtube.com/watch?v=FGsVEcBbTMk)
 - [City Zen Radio 1990/2000 FM](https://www.youtube.com/watch?v=UUN68Zc2C5w)
 - [The Incredible PWEI VS the Moral Majority](https://www.youtube.com/watch?v=s-1OIIW2by0)

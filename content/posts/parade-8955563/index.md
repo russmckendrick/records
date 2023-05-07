@@ -42,17 +42,17 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 
 
 ## Videos
-### Christopher Tracy's Parade
-{{< youtube id="U2QWdZ7m_3o" title="Christopher Tracy's Parade" >}}<br>
+### Prince - Kiss (Official Music Video)
+{{< youtube id="H9tEvfIsDyo" title="Prince - Kiss (Official Music Video)" >}}<br>
 
 ### More Videos
 
-- [Prince - Kiss (Official Music Video)](https://www.youtube.com/watch?v=H9tEvfIsDyo)
 - [Prince - Girls & Boys (Official Music Video)](https://www.youtube.com/watch?v=gQcKgAsQHzs)
 - [Prince - Anotherloverholenyohead (Official Music Video)](https://www.youtube.com/watch?v=Zc99JK9gHDk)
 - [Prince - Mountains (Official Music Video)](https://www.youtube.com/watch?v=_WmPeLOLDnA)
 - [Sometimes It Snows in April](https://www.youtube.com/watch?v=ikZgBhSMSUM)
 - [Do U Lie?](https://www.youtube.com/watch?v=FRaxAVVuqLs)
+- [Christopher Tracy's Parade](https://www.youtube.com/watch?v=U2QWdZ7m_3o)
 
 
 ## Release Information

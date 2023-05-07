@@ -41,8 +41,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### A Certain Romance
-{{< youtube id="zMupng6KQeE" title="A Certain Romance" >}}<br>
+### Perhaps Vampires Is A Bit Strong But…
+{{< youtube id="53y82WWjea0" title="Perhaps Vampires Is A Bit Strong But…" >}}<br>
 
 ### More Videos
 
@@ -56,8 +56,8 @@ styles: ["Indie Rock"]
 - [Riot Van](https://www.youtube.com/watch?v=a62FZZa3fjE)
 - [Red Light Indicates Doors Are Secured](https://www.youtube.com/watch?v=u8PjGQLO9mI)
 - [Mardy Bum](https://www.youtube.com/watch?v=dO368WjwyFs)
-- [Perhaps Vampires Is A Bit Strong But…](https://www.youtube.com/watch?v=53y82WWjea0)
 - [From The Ritz To The Rubble](https://www.youtube.com/watch?v=H8bNHRVwzyA)
+- [A Certain Romance](https://www.youtube.com/watch?v=zMupng6KQeE)
 
 
 ## Release Information

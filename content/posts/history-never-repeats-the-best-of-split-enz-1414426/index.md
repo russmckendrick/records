@@ -36,12 +36,12 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Split Enz - I Got You (1980)
-{{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
+### Split Enz - Message To My Girl (1984)
+{{< youtube id="YUC_jE78FNE" title="Split Enz - Message To My Girl (1984)" >}}<br>
 
 ### More Videos
 
-- [Split Enz - Message To My Girl (1984)](https://www.youtube.com/watch?v=YUC_jE78FNE)
+- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
 
 

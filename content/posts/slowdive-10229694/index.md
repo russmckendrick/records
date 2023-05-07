@@ -36,12 +36,12 @@ styles: ["Shoegaze", "Indie Rock"]
 
 
 ## Videos
-### Slowdive - Sugar for the Pill (Official Video)
-{{< youtube id="BxwAPBxc0lU" title="Slowdive - Sugar for the Pill (Official Video)" >}}<br>
+### Everyone Knows
+{{< youtube id="2hY0bFCtZbA" title="Everyone Knows" >}}<br>
 
 ### More Videos
 
-- [Everyone Knows](https://www.youtube.com/watch?v=2hY0bFCtZbA)
+- [Slowdive - Sugar for the Pill (Official Video)](https://www.youtube.com/watch?v=BxwAPBxc0lU)
 - [Slomo](https://www.youtube.com/watch?v=KDIDLIE7Z1E)
 - [Slowdive - Everyone Knows](https://www.youtube.com/watch?v=mC2dFwIfp-M)
 - [Slowdive - Don't Know Why (Official Video)](https://www.youtube.com/watch?v=_kB2ot1PWy8)

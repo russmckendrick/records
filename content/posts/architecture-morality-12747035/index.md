@@ -37,8 +37,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Souvenir (Remastered 2003)
-{{< youtube id="L_qDgw6YIMU" title="Souvenir (Remastered 2003)" >}}<br>
+### Joan Of Arc (Maid Of Orleans)
+{{< youtube id="8M_tBfHido0" title="Joan Of Arc (Maid Of Orleans)" >}}<br>
 
 ### More Videos
 
@@ -46,9 +46,9 @@ styles: ["Synth-pop"]
 - [Orchestral Manoeuvres In The Dark - Maid Of Orleans](https://www.youtube.com/watch?v=vmwMhjbThKg)
 - [The New Stone Age (2003 Digital Remaster)](https://www.youtube.com/watch?v=PiLwEIDJSCM)
 - [She's Leaving (2003 Digital Remaster)](https://www.youtube.com/watch?v=NDJHfe2sklI)
+- [Souvenir (Remastered 2003)](https://www.youtube.com/watch?v=L_qDgw6YIMU)
 - [Sealand (2003 Digital Remaster)](https://www.youtube.com/watch?v=t_he2hubqNo)
 - [Joan Of Arc (Remastered)](https://www.youtube.com/watch?v=I_KR2QnjCM8)
-- [Joan Of Arc (Maid Of Orleans)](https://www.youtube.com/watch?v=8M_tBfHido0)
 - [Architecture And Morality (2003 Digital Remaster)](https://www.youtube.com/watch?v=XA3KTY--20g)
 - [Georgia (2003 Digital Remaster)](https://www.youtube.com/watch?v=aZOXVKu91-A)
 - [The Beginning And The End (2003 Digital Remaster)](https://www.youtube.com/watch?v=TCLZiooXbxA)

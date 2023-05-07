@@ -48,14 +48,14 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### The xx - On Hold (Official Video)
-{{< youtube id="blJKoXWlqJk" title="The xx - On Hold (Official Video)" >}}<br>
+### The xx - Brave For You (Marfa Demo Version)
+{{< youtube id="2xkkSUMstlM" title="The xx - Brave For You (Marfa Demo Version)" >}}<br>
 
 ### More Videos
 
+- [The xx - On Hold (Official Video)](https://www.youtube.com/watch?v=blJKoXWlqJk)
 - [The XX - Seasons Run](https://www.youtube.com/watch?v=9h5hOBdolWM)
 - [The xx - Say Something Loving (Official Music Video)](https://www.youtube.com/watch?v=Rh2uNrIgGf4)
-- [The xx - Brave For You (Marfa Demo Version)](https://www.youtube.com/watch?v=2xkkSUMstlM)
 - [The xx - I Dare You (Official Music Video)](https://www.youtube.com/watch?v=qqflFMhkqHM)
 - [The xx - Naive (Official Audio)](https://www.youtube.com/watch?v=yZBaaPz6jQs)
 

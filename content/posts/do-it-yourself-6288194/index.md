@@ -35,8 +35,8 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 
 
 ## Videos
-### There Ain't Half Been Some Clever Bastards
-{{< youtube id="Q63UoIPZFe0" title="There Ain't Half Been Some Clever Bastards" >}}<br>
+### Mischief
+{{< youtube id="-rv_sLtKfbE" title="Mischief" >}}<br>
 
 ### More Videos
 
@@ -49,10 +49,10 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 - [Waiting for Your Taxi](https://www.youtube.com/watch?v=EGGq-uorOwc)
 - [This Is What We Find](https://www.youtube.com/watch?v=QKoh1J84uCU)
 - [Uneasy Sunny Day Hotsy Totsy](https://www.youtube.com/watch?v=q4aswN7D2DQ)
-- [Mischief](https://www.youtube.com/watch?v=-rv_sLtKfbE)
 - [Dance of the Screamers](https://www.youtube.com/watch?v=vMmvbGMVaQA)
 - [Lullaby for Franci/es](https://www.youtube.com/watch?v=t-wNUhAzRZ0)
 - [Hit Me with Your Rhythm Stick](https://www.youtube.com/watch?v=RUnQnIrJ3XE)
+- [There Ain't Half Been Some Clever Bastards](https://www.youtube.com/watch?v=Q63UoIPZFe0)
 
 
 ## Release Information

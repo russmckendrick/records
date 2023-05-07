@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Oceansize - Catalyst
-{{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}<br>
+### Oceansize - One Day All This Could Be Yours
+{{< youtube id="ZHCy8KlifXc" title="Oceansize - One Day All This Could Be Yours" >}}<br>
 
 ### More Videos
 
-- [Oceansize - One Day All This Could Be Yours](https://www.youtube.com/watch?v=ZHCy8KlifXc)
+- [Oceansize - Catalyst](https://www.youtube.com/watch?v=tkNSLFb1e-I)
 
 
 ## Release Information

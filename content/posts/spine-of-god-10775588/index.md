@@ -39,13 +39,13 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 
 ## Videos
 ### Monster Magnet - Spine Of God
-{{< youtube id="Ltim-KfbZjk" title="Monster Magnet - Spine Of God" >}}<br>
+{{< youtube id="qYrxylWs_Us" title="Monster Magnet - Spine Of God" >}}<br>
 
 ### More Videos
 
 - [Monster Magnet - Spine Of God (Full Album)](https://www.youtube.com/watch?v=4_HKgOWG3qE)
 - [Monster Magnet  -  Zodiac Lung (w/ lyrics)](https://www.youtube.com/watch?v=jP6Sm2s3nYM)
-- [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=qYrxylWs_Us)
+- [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=Ltim-KfbZjk)
 - [Monster Magnet - Nod Scene](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
 
 

@@ -40,8 +40,8 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 
 
 ## Videos
-### Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)
-{{< youtube id="A--zzYtFUUs" title="Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)" >}}<br>
+### CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975
+{{< youtube id="YbN9NT7-SkI" title="CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975" >}}<br>
 
 ### More Videos
 
@@ -51,6 +51,7 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 - [Oh Very Young - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=N7SSmDZ4CCM)
 - [Cat Stevens - Moonshadow](https://www.youtube.com/watch?v=kGNxKnLmOH4)
 - [Can't Keep It In - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=MI63YxxSGwY)
+- [Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)](https://www.youtube.com/watch?v=A--zzYtFUUs)
 - [Moonshadow - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=BwOZSUz0FZA)
 - [Cat Stevens - Can't Keep It In](https://www.youtube.com/watch?v=0W_SGoBFJxs)
 - [Two Fine People - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=3XPCqsZAjKw)
@@ -70,7 +71,6 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 - [Cat Stevens - Cat Stevens Greatest Hits || Best Songs Cat Stevens ( Full Album Live)](https://www.youtube.com/watch?v=2rNBBU_62hw)
 - [Cat Stevens Greatest Hits Album - Best Songs Of Cat Stevens](https://www.youtube.com/watch?v=JkaCkZmPRFk)
 - [C.a.t S.t.e.v.e.n.s Greatest Hits, Full Album - Rock Music Playlist 2022](https://www.youtube.com/watch?v=vmZbyEgDhas)
-- [CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975](https://www.youtube.com/watch?v=YbN9NT7-SkI)
 
 
 ## Release Information

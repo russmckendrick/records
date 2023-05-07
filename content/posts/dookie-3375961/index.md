@@ -44,16 +44,16 @@ styles: ["Pop Punk", "Punk"]
 
 
 ## Videos
-### Pulling Teeth
-{{< youtube id="2P49LZ4FBTU" title="Pulling Teeth" >}}<br>
+### GreenDay Dookie  FULL ALBUM
+{{< youtube id="koyYZc6hS-s" title="GreenDay Dookie  FULL ALBUM" >}}<br>
 
 ### More Videos
 
-- [GreenDay Dookie  FULL ALBUM](https://www.youtube.com/watch?v=koyYZc6hS-s)
 - [GREEN DAY -  DOOKIE / FULL ALBUM  REMASTER 2013](https://www.youtube.com/watch?v=q0QQc70vCxg)
 - [Burnout](https://www.youtube.com/watch?v=XLjo0lY450c)
 - [05- Welcome To Paradise- Green Day (Dookie)](https://www.youtube.com/watch?v=iOcrKFiB_ts)
 - [Having a Blast](https://www.youtube.com/watch?v=XQLhHbjFd5M)
+- [Pulling Teeth](https://www.youtube.com/watch?v=2P49LZ4FBTU)
 - [F.O.D.](https://www.youtube.com/watch?v=UKU-LZh6r2o)
 
 

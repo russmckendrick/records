@@ -38,12 +38,12 @@ styles: ["Ska", "New Wave"]
 
 
 ## Videos
-### Too Much Too Young (Live At The Troxy)
-{{< youtube id="z9uiqpObNLA" title="Too Much Too Young (Live At The Troxy)" >}}<br>
+### Stereotype (Live At Le Bataclan)
+{{< youtube id="3y0-Z3w3xq0" title="Stereotype (Live At Le Bataclan)" >}}<br>
 
 ### More Videos
 
-- [Stereotype (Live At Le Bataclan)](https://www.youtube.com/watch?v=3y0-Z3w3xq0)
+- [Too Much Too Young (Live At The Troxy)](https://www.youtube.com/watch?v=z9uiqpObNLA)
 - [Black Skin Blue Eyed Boys](https://www.youtube.com/watch?v=BUVHz-HwR7c)
 - [B.L.M](https://www.youtube.com/watch?v=7FyOjzUd57c)
 - [Vote For Me](https://www.youtube.com/watch?v=UNeM3w5SVOs)

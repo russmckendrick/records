@@ -46,12 +46,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Oceansize - Silent/Transparent
-{{< youtube id="RcWGCoUNU3s" title="Oceansize - Silent/Transparent" >}}<br>
+### OCEANSIZE - Self Preserved While The Bodies Float Up I
+{{< youtube id="OxdqDwB2h-U" title="OCEANSIZE - Self Preserved While The Bodies Float Up I" >}}<br>
 
 ### More Videos
 
-- [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
+- [Oceansize - Silent/Transparent](https://www.youtube.com/watch?v=RcWGCoUNU3s)
 - [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
 
 

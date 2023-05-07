@@ -44,15 +44,14 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Resurrection Joe (edit)
-{{< youtube id="h1Xfi6SY79o" title="Resurrection Joe (edit)" >}}<br>
+### Spiritwalker (edit)
+{{< youtube id="dLOS2DvPCiI" title="Spiritwalker (edit)" >}}<br>
 
 ### More Videos
 
 - [She Sells Sanctuary](https://www.youtube.com/watch?v=cQS4TzB0EvU)
 - [Fire Woman](https://www.youtube.com/watch?v=7-DjzbGOtec)
 - [Lil’ Devil](https://www.youtube.com/watch?v=eUe2FG_NU_A)
-- [Spiritwalker (edit)](https://www.youtube.com/watch?v=dLOS2DvPCiI)
 - [The Witch (edit)](https://www.youtube.com/watch?v=yLB-oG8kP-s)
 - [Revolution (edit)](https://www.youtube.com/watch?v=eMntcphrGsE)
 - [Love Removal Machine](https://www.youtube.com/watch?v=C_EQ9Gr9bfU)
@@ -63,6 +62,7 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 - [Heart Of Soul (edit)](https://www.youtube.com/watch?v=PVqIy6yG9Mc)
 - [Wild Flower](https://www.youtube.com/watch?v=R7kB7sycL28)
 - [Star (edit)](https://www.youtube.com/watch?v=CaA_q_2OVo4)
+- [Resurrection Joe (edit)](https://www.youtube.com/watch?v=h1Xfi6SY79o)
 - [Go West](https://www.youtube.com/watch?v=tFZCLyzHKUQ)
 - [Sun King (Edit)](https://www.youtube.com/watch?v=nZk57RPC6tY)
 - [Wild Hearted Son (edit)](https://www.youtube.com/watch?v=RW_E6GdDW5o)

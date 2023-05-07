@@ -48,8 +48,8 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 
 
 ## Videos
-### Elastica - Waking Up
-{{< youtube id="WlOje4ly4hg" title="Elastica - Waking Up" >}}<br>
+### TEENAGE FANCLUB - Sparky's dream
+{{< youtube id="9buNckusos0" title="TEENAGE FANCLUB - Sparky's dream" >}}<br>
 
 ### More Videos
 
@@ -65,12 +65,12 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 - [The Coral - Dreaming of You](https://www.youtube.com/watch?v=Jdc6s7gJEfA)
 - [The Prodigy - 'Breathe'](https://www.youtube.com/watch?v=rmHDhAohJlQ)
 - [Manic Street Preachers - You Love Us (Clean Version)](https://www.youtube.com/watch?v=FgKXBJ2LZKo)
+- [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
 - [Lush - Ladykillers (Official Video)](https://www.youtube.com/watch?v=Iedz_x6Hlhw)
 - [Inbetweener](https://www.youtube.com/watch?v=iUQ4Ps9zOQQ)
 - [Ashes](https://www.youtube.com/watch?v=J_4xS6rcTs0)
 - [Travis - Sing (Official Video)](https://www.youtube.com/watch?v=eYO1-gGWJyo)
 - [Pixies - Here Comes Your Man (Official Video)](https://www.youtube.com/watch?v=tPgf_btTFlc)
-- [TEENAGE FANCLUB - Sparky's dream](https://www.youtube.com/watch?v=9buNckusos0)
 - [Spiritualized - Come Together (Official Music Video)](https://www.youtube.com/watch?v=uWOdSeDzyy4)
 
 

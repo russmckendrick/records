@@ -41,15 +41,15 @@ styles: ["Alternative Metal", "Grunge", "Hard Rock"]
 
 
 ## Videos
-### Dam That River
-{{< youtube id="UVFd4tpphvE" title="Dam That River" >}}<br>
+### Alice In Chains - Angry Chair (Official HD Video)
+{{< youtube id="IpEXM1Yziws" title="Alice In Chains - Angry Chair (Official HD Video)" >}}<br>
 
 ### More Videos
 
 - [Alice In Chains - Rooster (Official HD Video)](https://www.youtube.com/watch?v=uAE6Il6OTcs)
 - [Alice In Chains - Them Bones (Official HD Video)](https://www.youtube.com/watch?v=zTuD8k3JvxQ)
-- [Alice In Chains - Angry Chair (Official HD Video)](https://www.youtube.com/watch?v=IpEXM1Yziws)
 - [Alice In Chains - Would? (Official HD Video)](https://www.youtube.com/watch?v=Nco_kh8xJDs)
+- [Dam That River](https://www.youtube.com/watch?v=UVFd4tpphvE)
 - [Rain When I Die](https://www.youtube.com/watch?v=v8uJoLJJP70)
 - [Alice In Chains - Down in a Hole (Official Video)](https://www.youtube.com/watch?v=f8hT3oDDf6c)
 - [Junkhead](https://www.youtube.com/watch?v=bjOG0meK-vk)

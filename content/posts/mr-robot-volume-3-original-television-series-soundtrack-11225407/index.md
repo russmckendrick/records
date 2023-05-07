@@ -49,15 +49,14 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### Mac Quayle  - Mr. Robot 2.3_1-steel-v4lley.webm
-{{< youtube id="u5nJM6vVvJI" title="Mac Quayle  - Mr. Robot 2.3_1-steel-v4lley.webm" >}}<br>
+### 2.0_3-j0urnaling.ivs
+{{< youtube id="CVGAPiNrdwI" title="2.0_3-j0urnaling.ivs" >}}<br>
 
 ### More Videos
 
 - [Mr. Robot, Vol. 3 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=tMHQIaPjRmo)
 - [Mac Quayle  - Mr. Robot 2.0_1-s4ve-the-w0rld.act](https://www.youtube.com/watch?v=T-dglvI2KXg)
 - [2.0_2-FuxSocy.sln](https://www.youtube.com/watch?v=5OfZPpjqrGg)
-- [2.0_3-j0urnaling.ivs](https://www.youtube.com/watch?v=CVGAPiNrdwI)
 - [Mac Quayle  - Mr. Robot 2.0_4-control-1s-an-illusion](https://www.youtube.com/watch?v=oV50Uex04TM)
 - [Mac Quayle  - Mr. Robot 2.0_6-madame3xecutioner.oga](https://www.youtube.com/watch?v=Q_UT1lhkwBY)
 - [2.0_7-jester-actual.dss](https://www.youtube.com/watch?v=w4ilJeNJnxo)
@@ -70,6 +69,7 @@ styles: ["Soundtrack", "Score"]
 - [2.2_3-existence.opus](https://www.youtube.com/watch?v=szZ6B2NcSyw)
 - [2.2_4-mightbe0wned.tta](https://www.youtube.com/watch?v=H9JjmKlumA0)
 - [2.2_5-divinity.iklax](https://www.youtube.com/watch?v=hNvLFJVEjfs)
+- [Mac Quayle  - Mr. Robot 2.3_1-steel-v4lley.webm](https://www.youtube.com/watch?v=u5nJM6vVvJI)
 - [2.3_3-fuckgutinstinct.act](https://www.youtube.com/watch?v=zfdYYPi1428)
 - [2.3_4-midland-city.oga](https://www.youtube.com/watch?v=Go0mM1Hkt1w)
 - [2.3_5-pun1shm3nt.ape](https://www.youtube.com/watch?v=Alul7aWuqaY)

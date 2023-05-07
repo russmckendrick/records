@@ -40,11 +40,12 @@ styles: ["Space Rock", "Indie Rock"]
 
 
 ## Videos
-### Doves - The Cedar Room
-{{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}<br>
+### Doves - Sea song (HD) (Lost Souls 2000)
+{{< youtube id="cO6pGcdD_mE" title="Doves - Sea song (HD) (Lost Souls 2000)" >}}<br>
 
 ### More Videos
 
+- [Doves - The Cedar Room](https://www.youtube.com/watch?v=RadUfjnnqOE)
 - [Doves 'Firesuite](https://www.youtube.com/watch?v=YDMbFjQZCkM)
 - [Doves - Break Me Gently](https://www.youtube.com/watch?v=2ct3Ia7HwPc)
 - [doves- catch the sun original video](https://www.youtube.com/watch?v=KqlIFLb6jU0)
@@ -52,7 +53,6 @@ styles: ["Space Rock", "Indie Rock"]
 - [Doves Lost Souls](https://www.youtube.com/watch?v=55G56ToTXYk)
 - [Doves - The Man Who Told Everything (HQ)](https://www.youtube.com/watch?v=Gd5g7X9KPB4)
 - [Doves Reprise](https://www.youtube.com/watch?v=bcIX1kH_tR8)
-- [Doves - Sea song (HD) (Lost Souls 2000)](https://www.youtube.com/watch?v=cO6pGcdD_mE)
 - [Doves - Lost Souls](https://www.youtube.com/watch?v=QCmvW7MLMA0)
 - [Doves - Here It Comes](https://www.youtube.com/watch?v=kthMTQs61ic)
 

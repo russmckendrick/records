@@ -40,15 +40,15 @@ styles: ["Rhythm & Blues"]
 
 
 ## Videos
-### The Platters - Bewitched, Bothered, and Bewildered
-{{< youtube id="AeB7eUDIZro" title="The Platters - Bewitched, Bothered, and Bewildered" >}}<br>
+### The Platters & Tony Williams - Bewitched, Bothered And Bewildered (VintageMusic.es)
+{{< youtube id="2YWAPun86Eg" title="The Platters & Tony Williams - Bewitched, Bothered And Bewildered (VintageMusic.es)" >}}<br>
 
 ### More Videos
 
 - [The Platters - Bewitched](https://www.youtube.com/watch?v=T_zX6hPH84o)
 - [Bewitched](https://www.youtube.com/watch?v=_Ft_jfUjceQ)
+- [The Platters - Bewitched, Bothered, and Bewildered](https://www.youtube.com/watch?v=AeB7eUDIZro)
 - [The Platters - My Prayer](https://www.youtube.com/watch?v=FTqoTZ3lPsA)
-- [The Platters & Tony Williams - Bewitched, Bothered And Bewildered (VintageMusic.es)](https://www.youtube.com/watch?v=2YWAPun86Eg)
 
 
 ## Release Information

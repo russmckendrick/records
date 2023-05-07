@@ -40,8 +40,8 @@ styles: []
 
 
 ## Videos
-### Bruce Springsteen - I Forgot To Be Your Lover (Official Audio)
-{{< youtube id="Zan5lbpglSI" title="Bruce Springsteen - I Forgot To Be Your Lover (Official Audio)" >}}<br>
+### Bruce Springsteen - Someday We'll Be Together (Official Audio)
+{{< youtube id="rcmW_O_pYzk" title="Bruce Springsteen - Someday We'll Be Together (Official Audio)" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: []
 - [Bruce Springsteen - Hey, Western Union Man (Official Audio)](https://www.youtube.com/watch?v=A-Q3NYVr1iM)
 - [Bruce Springsteen - What Becomes of the Brokenhearted (Official Audio)](https://www.youtube.com/watch?v=Fo8H_m11awI)
 - [Bruce Springsteen - Soul Days (Official Audio)](https://www.youtube.com/watch?v=JQuq72GnDOQ)
-- [Bruce Springsteen - Someday We'll Be Together (Official Audio)](https://www.youtube.com/watch?v=rcmW_O_pYzk)
 - [Bruce Springsteen - The Sun Ain't Gonna Shine Anymore (Official Audio)](https://www.youtube.com/watch?v=B3ugToQv0c4)
+- [Bruce Springsteen - I Forgot To Be Your Lover (Official Audio)](https://www.youtube.com/watch?v=Zan5lbpglSI)
 - [Bruce Springsteen - I Wish It Would Rain (Official Audio)](https://www.youtube.com/watch?v=iZ6Ojns6Fs0)
 - [Bruce Springsteen - When She Was My Girl (Official Audio)](https://www.youtube.com/watch?v=zNKOKfSEKSo)
 - [Bruce Springsteen - 7 Rooms Of Gloom (Official Audio)](https://www.youtube.com/watch?v=Rv_wJfibpGo)

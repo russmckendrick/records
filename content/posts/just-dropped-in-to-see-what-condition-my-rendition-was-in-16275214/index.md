@@ -40,14 +40,14 @@ styles: ["Soul"]
 
 
 ## Videos
-### Here I Am Baby
-{{< youtube id="0RQMzvkkaEg" title="Here I Am Baby" >}}<br>
+### Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)
+{{< youtube id="lWaKjzh0pFI" title="Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)" >}}<br>
 
 ### More Videos
 
-- [Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)](https://www.youtube.com/watch?v=lWaKjzh0pFI)
 - [Signed, Sealed, Delivered I'm Yours](https://www.youtube.com/watch?v=x0Obj53eHB0)
 - [In the Bush](https://www.youtube.com/watch?v=XHQ4qpZXG2E)
+- [Here I Am Baby](https://www.youtube.com/watch?v=0RQMzvkkaEg)
 - [Rescue Me](https://www.youtube.com/watch?v=B9Na5FOBsEU)
 - [Trespasser](https://www.youtube.com/watch?v=6pdxS81QPHY)
 - [Take Me With U](https://www.youtube.com/watch?v=YkMVl7a7-q0)

@@ -39,18 +39,18 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 
 
 ## Videos
-### James - Ring The Bells
-{{< youtube id="FvocnP6X72A" title="James - Ring The Bells" >}}<br>
+### James   Born of Frustration   Seven    The Live Concert
+{{< youtube id="649SUNPN-do" title="James   Born of Frustration   Seven    The Live Concert" >}}<br>
 
 ### More Videos
 
 - [JAMES    HEAVENS](https://www.youtube.com/watch?v=sisU8GfgLH4)
+- [James - Ring The Bells](https://www.youtube.com/watch?v=FvocnP6X72A)
 - [James - Seven](https://www.youtube.com/watch?v=8JKnDlNBwEQ)
 - [James - Born Of Frustration](https://www.youtube.com/watch?v=QxM42rG0a08)
 - [James - Mother (Live)](https://www.youtube.com/watch?v=dFZaQblezk0)
 - [James - Don't Wait That Long (Live)](https://www.youtube.com/watch?v=IoN6oeeYHMg)
 - [James Protect me Live](https://www.youtube.com/watch?v=cu9-Paql8Ag)
-- [James   Born of Frustration   Seven    The Live Concert](https://www.youtube.com/watch?v=649SUNPN-do)
 
 
 ## Release Information

@@ -38,8 +38,8 @@ styles: ["Soundtrack", "Pop Rock"]
 
 
 ## Videos
-### The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -
-{{< youtube id="l9uO5unKfHE" title="The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -" >}}<br>
+### Cry Little Sister (Theme from ''Lost Boys'')
+{{< youtube id="NOiZuw7EToE" title="Cry Little Sister (Theme from ''Lost Boys'')" >}}<br>
 
 ### More Videos
 
@@ -59,7 +59,7 @@ styles: ["Soundtrack", "Pop Rock"]
 - [Good Times - INXS; Jimmy Barnes.wmv - From The Lost Boys](https://www.youtube.com/watch?v=ecSgtj_zapg)
 - [The Lost Boys - Tim Cappello - I Still Believe - Music Video](https://www.youtube.com/watch?v=PdaaGlyu7EQ)
 - [Lost Boys - Don't Let The Sun Go Down On Me (Soundtrack) *Must See*](https://www.youtube.com/watch?v=QtwQ9-Fl0HU)
-- [Cry Little Sister (Theme from ''Lost Boys'')](https://www.youtube.com/watch?v=NOiZuw7EToE)
+- [The Lost Boys - Soundtrack - Good Times - By INXS & Jimmy Barnes -](https://www.youtube.com/watch?v=l9uO5unKfHE)
 - [Cry Little Sister (Theme From The Lost Boys)](https://www.youtube.com/watch?v=vIxCizBELZs)
 
 

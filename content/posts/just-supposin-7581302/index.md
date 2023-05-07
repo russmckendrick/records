@@ -34,12 +34,12 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 
 
 ## Videos
-### Status Quo – What You're Proposin'
-{{< youtube id="z4Zh5DyMRDU" title="Status Quo – What You're Proposin'" >}}<br>
+### Status Quo – Rock 'n' Roll
+{{< youtube id="UGuPCJcj3As" title="Status Quo – Rock 'n' Roll" >}}<br>
 
 ### More Videos
 
-- [Status Quo – Rock 'n' Roll](https://www.youtube.com/watch?v=UGuPCJcj3As)
+- [Status Quo – What You're Proposin'](https://www.youtube.com/watch?v=z4Zh5DyMRDU)
 - [Status Quo – Lies](https://www.youtube.com/watch?v=Q4yckEtH-jQ)
 - [Status Quo – Don't Drive My Car](https://www.youtube.com/watch?v=n0GScZd2Ers)
 

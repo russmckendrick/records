@@ -45,12 +45,11 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 
 ## Videos
-### Monie Love - It's a Shame (official video reworked)
-{{< youtube id="DoNNFbW9e00" title="Monie Love - It's a Shame (official video reworked)" >}}<br>
+### De La Soul - A Roller Skating Jam Named Saturdays (Music Video)
+{{< youtube id="vqI5PTYmF3w" title="De La Soul - A Roller Skating Jam Named Saturdays (Music Video)" >}}<br>
 
 ### More Videos
 
-- [De La Soul - A Roller Skating Jam Named Saturdays (Music Video)](https://www.youtube.com/watch?v=vqI5PTYmF3w)
 - [Bonita Applebum by A Tribe Called Quest](https://www.youtube.com/watch?v=HU_4pf8BSQw)
 - [Freestyle Fellowship - Sunshine Men](https://www.youtube.com/watch?v=NV88aWrdlOE)
 - [Del tha Funky Homosapien - Mistadobalina (original)](https://www.youtube.com/watch?v=9Bku7gXlkoo)
@@ -60,6 +59,7 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 - [Queen Latifah - Mama Gave Birth To The Soul Children (feat. De La Soul)](https://www.youtube.com/watch?v=Aj8v3wSfFV8)
 - [Naughty by Nature - O.P.P. (Official Music Video)](https://www.youtube.com/watch?v=idx3GSL2KWs)
 - [Digable Planets - Where I'm From](https://www.youtube.com/watch?v=sl-pjb7y3y0)
+- [Monie Love - It's a Shame (official video reworked)](https://www.youtube.com/watch?v=DoNNFbW9e00)
 - [Justin Warfield - K Sera Sera](https://www.youtube.com/watch?v=W7CzA46RvNo)
 - [Brand Nubian - All For One (Official Video)](https://www.youtube.com/watch?v=8auuY4fvLyY)
 - [Leaders Of The New School - Case Of The P.T.A. (Video)](https://www.youtube.com/watch?v=EG4h1pGfHC8)

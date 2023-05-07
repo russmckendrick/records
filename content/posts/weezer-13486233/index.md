@@ -38,12 +38,12 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 
 
 ## Videos
-### Weezer - Take On Me (Official Video)
-{{< youtube id="f7RwDnZI7Tw" title="Weezer - Take On Me (Official Video)" >}}<br>
+### Weezer - Africa (starring Weird Al Yankovic)
+{{< youtube id="mk5Dwg5zm2U" title="Weezer - Africa (starring Weird Al Yankovic)" >}}<br>
 
 ### More Videos
 
-- [Weezer - Africa (starring Weird Al Yankovic)](https://www.youtube.com/watch?v=mk5Dwg5zm2U)
+- [Weezer - Take On Me (Official Video)](https://www.youtube.com/watch?v=f7RwDnZI7Tw)
 
 
 ## Release Information

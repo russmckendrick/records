@@ -40,8 +40,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Gizmodrome- Sweet Angels (Rule The Word)
-{{< youtube id="RKh3N-t7ykM" title="Gizmodrome- Sweet Angels (Rule The Word)" >}}<br>
+### Gizmodrome- Amaka Pipa
+{{< youtube id="7Ovg7IfI89o" title="Gizmodrome- Amaka Pipa" >}}<br>
 
 ### More Videos
 
@@ -51,9 +51,9 @@ styles: ["Alternative Rock"]
 - [Gizmodrome- Stark Naked](https://www.youtube.com/watch?v=-Znl0JPeZ8M)
 - [Gizmodrome Summer Is Coming](https://www.youtube.com/watch?v=za2_NMennRo)
 - [Gizmodrome- Spin This](https://www.youtube.com/watch?v=Ph1XdKGrjKE)
-- [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
 - [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
+- [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)
 
 
 ## Release Information

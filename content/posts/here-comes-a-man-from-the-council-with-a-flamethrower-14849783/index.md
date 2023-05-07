@@ -44,8 +44,8 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Here Comes a Man from the Council With a Flamethrower
-{{< youtube id="LdWKULgyC2I" title="Here Comes a Man from the Council With a Flamethrower" >}}<br>
+### Bird
+{{< youtube id="kJydOXYAGB0" title="Bird" >}}<br>
 
 ### More Videos
 
@@ -53,8 +53,8 @@ styles: ["Prog Rock", "Alternative Rock"]
 - [Commons](https://www.youtube.com/watch?v=AXcwWhRVprw)
 - [Last Track on Side Fun](https://www.youtube.com/watch?v=xYV9TkBML_I)
 - [Lonely Doe Young Doe](https://www.youtube.com/watch?v=yg-M0hI6cXY)
-- [Bird](https://www.youtube.com/watch?v=kJydOXYAGB0)
 - [Bee](https://www.youtube.com/watch?v=vNAS4q54L0A)
+- [Here Comes a Man from the Council With a Flamethrower](https://www.youtube.com/watch?v=LdWKULgyC2I)
 
 
 ## Release Information

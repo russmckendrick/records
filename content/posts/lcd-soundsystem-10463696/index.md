@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Electro"]
 
 
 ## Videos
-### Losing My Edge
-{{< youtube id="nqww88x584U" title="Losing My Edge" >}}<br>
+### Yeah (Pretentious Mix)
+{{< youtube id="vTDDSrhXdBY" title="Yeah (Pretentious Mix)" >}}<br>
 
 ### More Videos
 
@@ -53,11 +53,11 @@ styles: ["Alternative Rock", "Electro"]
 - [Disco Infiltrator](https://www.youtube.com/watch?v=s7CBdX0_A3g)
 - [Great Release](https://www.youtube.com/watch?v=NFy1VJFDrZ4)
 - [Yr City's a Sucker](https://www.youtube.com/watch?v=q_wroK6bY7Y)
+- [Losing My Edge](https://www.youtube.com/watch?v=nqww88x584U)
 - [Beat Connection](https://www.youtube.com/watch?v=xwVFktBrS-E)
 - [Give It Up](https://www.youtube.com/watch?v=th2IQgi5d-Y)
 - [Tired](https://www.youtube.com/watch?v=uIzBOTXASgw)
 - [Yeah](https://www.youtube.com/watch?v=ERdGCgI-Uj4)
-- [Yeah (Pretentious Mix)](https://www.youtube.com/watch?v=vTDDSrhXdBY)
 
 
 ## Release Information

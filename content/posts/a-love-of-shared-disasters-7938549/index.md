@@ -40,8 +40,8 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends
-{{< youtube id="VZQ-QgI9Y88" title="Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends" >}}<br>
+### Crippled Black Phoenix - The Northern Cobbler
+{{< youtube id="nXGu_9GnwoM" title="Crippled Black Phoenix - The Northern Cobbler" >}}<br>
 
 ### More Videos
 
@@ -50,8 +50,8 @@ styles: ["Post Rock"]
 - [Crippled Black Phoenix - The Lament Of The Nithered Mercenary](https://www.youtube.com/watch?v=fAXf6jYgJBI)
 - [Crippled Black Phoenix - You Take The Devil Out Of Me](https://www.youtube.com/watch?v=W0S-MaHdA5E)
 - [Crippled Black Phoenix - Goodnight, Europe](https://www.youtube.com/watch?v=sId-R77QXko)
-- [Crippled Black Phoenix - The Northern Cobbler](https://www.youtube.com/watch?v=nXGu_9GnwoM)
 - [Crippled Black Phoenix - The Whistler](https://www.youtube.com/watch?v=WY9F0NoOXhg)
+- [Crippled Black Phoenix - My Enemies I Fear Not, But Protect Me From My Friends](https://www.youtube.com/watch?v=VZQ-QgI9Y88)
 
 
 ## Release Information

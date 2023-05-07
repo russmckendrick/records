@@ -39,14 +39,14 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 
 
 ## Videos
-### A-HA - Cold River
-{{< youtube id="hdoeQHzmVsg" title="A-HA - Cold River" >}}<br>
+### a-ha - Crying In The Rain - East Of The Sun West Of The Moon LP 1990
+{{< youtube id="Uo2bFihWfaY" title="a-ha - Crying In The Rain - East Of The Sun West Of The Moon LP 1990" >}}<br>
 
 ### More Videos
 
+- [A-HA - Cold River](https://www.youtube.com/watch?v=hdoeQHzmVsg)
 - [East of the Sun](https://www.youtube.com/watch?v=QaleMPKp7ZE)
 - [Slender Frame](https://www.youtube.com/watch?v=y62Np0d4uV0)
-- [a-ha - Crying In The Rain - East Of The Sun West Of The Moon LP 1990](https://www.youtube.com/watch?v=Uo2bFihWfaY)
 
 
 ## Release Information

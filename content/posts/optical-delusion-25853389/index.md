@@ -38,15 +38,15 @@ styles: ["Techno"]
 
 
 ## Videos
-### You Are the Frequency
-{{< youtube id="DPgqSEE6iZk" title="You Are the Frequency" >}}<br>
+### Orbital - Optical Delusion (2023)
+{{< youtube id="QXJZxv9M0PM" title="Orbital - Optical Delusion (2023)" >}}<br>
 
 ### More Videos
 
-- [Orbital - Optical Delusion (2023)](https://www.youtube.com/watch?v=QXJZxv9M0PM)
 - [Ringa Ringa (The Old Pandemic Folk Song)](https://www.youtube.com/watch?v=R2mvu3g2Qlk)
 - [Day One](https://www.youtube.com/watch?v=8P3C7vY0wcc)
 - [Are You Alive?](https://www.youtube.com/watch?v=odb7NkiZwuQ)
+- [You Are the Frequency](https://www.youtube.com/watch?v=DPgqSEE6iZk)
 - [The New Abnormal](https://www.youtube.com/watch?v=WoBIDnYqrzY)
 - [Home](https://www.youtube.com/watch?v=vGyekX8hmFs)
 - [Dirty Rat](https://www.youtube.com/watch?v=z_93fLDRAqw)

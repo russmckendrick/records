@@ -39,8 +39,8 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 
 
 ## Videos
-### Jon Bon Jovi - Santa Fe
-{{< youtube id="MQ56h4ql8Dk" title="Jon Bon Jovi - Santa Fe" >}}<br>
+### Santa Fe
+{{< youtube id="tpKd5Fa7798" title="Santa Fe" >}}<br>
 
 ### More Videos
 
@@ -52,7 +52,7 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 - [Jon Bon Jovi - Blood Money Music Video](https://www.youtube.com/watch?v=d51DXtvGxPA)
 - [Blood Money](https://www.youtube.com/watch?v=iQbnm-CCoh4)
 - [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
-- [Santa Fe](https://www.youtube.com/watch?v=tpKd5Fa7798)
+- [Jon Bon Jovi - Santa Fe](https://www.youtube.com/watch?v=MQ56h4ql8Dk)
 - [Justice In The Barrel](https://www.youtube.com/watch?v=AwgSBcEfZ2Q)
 - [Never Say Die](https://www.youtube.com/watch?v=Rr8rgh4q4xQ)
 - [You Really Got Me Now](https://www.youtube.com/watch?v=Fxhhbn9Mvs8)

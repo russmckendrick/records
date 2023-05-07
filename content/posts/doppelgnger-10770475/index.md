@@ -35,8 +35,8 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Curve - Horror Head
-{{< youtube id="_4xMR7mYPWU" title="Curve - Horror Head" >}}<br>
+### Curve - Lillies Dying
+{{< youtube id="q7VKHpfv_Io" title="Curve - Lillies Dying" >}}<br>
 
 ### More Videos
 
@@ -49,9 +49,9 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 - [Curve - Ice that melts the tips](https://www.youtube.com/watch?v=OBI1FaLNQZA)
 - [Curve   Clipped](https://www.youtube.com/watch?v=4tJsZ6HUN2I)
 - [Curve- falling free  (aphex twin remix)](https://www.youtube.com/watch?v=GKwoghK6B1U)
+- [Curve - Horror Head](https://www.youtube.com/watch?v=_4xMR7mYPWU)
 - [Curve, Clipped](https://www.youtube.com/watch?v=moAIaLbcKb0)
 - [Curve - Doppelganger](https://www.youtube.com/watch?v=mT0dGTNtODc)
-- [Curve - Lillies Dying](https://www.youtube.com/watch?v=q7VKHpfv_Io)
 - [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
 - [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 

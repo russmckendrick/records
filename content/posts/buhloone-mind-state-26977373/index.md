@@ -36,14 +36,14 @@ styles: []
 
 
 ## Videos
-### De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass
-{{< youtube id="1_g2OmxgIEg" title="De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass" >}}<br>
+### Patti Dooke (Official Audio)
+{{< youtube id="n0X2h56qlG4" title="Patti Dooke (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=L0rH7bwFnV4)
 - [De La Soul - Eye Patch (Official Audio)](https://www.youtube.com/watch?v=9F2QKqCXOWI)
-- [Patti Dooke (Official Audio)](https://www.youtube.com/watch?v=n0X2h56qlG4)
+- [De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass](https://www.youtube.com/watch?v=1_g2OmxgIEg)
 - [De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker](https://www.youtube.com/watch?v=DpkDu0XEu74)
 - [De La Soul - Long Island Wildin' (Official Audio) ft. Scha Dara Parr & Takagi Kan](https://www.youtube.com/watch?v=FPZwYTQbsuY)
 - [De La Soul - Ego Trippin' (Part Two) (Official Music Video) [HD] ft. Shortie No Mass](https://www.youtube.com/watch?v=eu1g18U1_6s)

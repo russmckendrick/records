@@ -50,12 +50,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Lonely Robot - A Godless Sea
-{{< youtube id="5-ZEiRKwuqw" title="Lonely Robot - A Godless Sea" >}}<br>
+### Why Do We Stay - Lonely Robot
+{{< youtube id="WnXbsTZQX3g" title="Why Do We Stay - Lonely Robot" >}}<br>
 
 ### More Videos
 
-- [Why Do We Stay - Lonely Robot](https://www.youtube.com/watch?v=WnXbsTZQX3g)
+- [Lonely Robot - A Godless Sea](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
 - [Lonely Robot - Airlock](https://www.youtube.com/watch?v=XeZcUm77IJg)
 
 

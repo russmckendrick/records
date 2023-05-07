@@ -37,8 +37,8 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 
 
 ## Videos
-### Pardon
-{{< youtube id="qJEp2_zcsSk" title="Pardon" >}}<br>
+### Hey, Hey Take Me Away
+{{< youtube id="Py5psXv_QDQ" title="Hey, Hey Take Me Away" >}}<br>
 
 ### More Videos
 
@@ -48,11 +48,11 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 - [Delusions of Grandeur](https://www.youtube.com/watch?v=q8jO_yD4aRg)
 - [[Take Your Elbow out the Soup] You're Sitting on the Chicken](https://www.youtube.com/watch?v=cCTCJDSH8GQ)
 - [Fucking Ada](https://www.youtube.com/watch?v=XZe7uiq1qOk)
+- [Pardon](https://www.youtube.com/watch?v=qJEp2_zcsSk)
 - [Ian Dury - Supermans Big Sister](https://www.youtube.com/watch?v=QbFOgqc3Nfg)
 - [Dance of the Crackpots](https://www.youtube.com/watch?v=t0EnuWqY5Bw)
 - [Uncoolohol](https://www.youtube.com/watch?v=jPE_518dRHI)
 - [Ian Dury & the Blockheads 🇬🇧 - Pardon - Vinyl Laughter LP 🇵🇹 1980](https://www.youtube.com/watch?v=xZavklxmcaQ)
-- [Hey, Hey Take Me Away](https://www.youtube.com/watch?v=Py5psXv_QDQ)
 - [Yes and No (Paula)](https://www.youtube.com/watch?v=G5FA3UUTS98)
 - [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
 - [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)

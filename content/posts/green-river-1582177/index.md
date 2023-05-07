@@ -37,17 +37,17 @@ styles: ["Southern Rock", "Classic Rock"]
 
 
 ## Videos
-### Tombstone Shadow
-{{< youtube id="cUArM2kAZoM" title="Tombstone Shadow" >}}<br>
+### Lodi
+{{< youtube id="H-Oiz8QaH2M" title="Lodi" >}}<br>
 
 ### More Videos
 
 - [Green River](https://www.youtube.com/watch?v=w0VI1zByJ3s)
 - [Creedence Clearwater Revival - Green River (Official Lyric Video)](https://www.youtube.com/watch?v=L5V9nK7-OkM)
 - [Commotion](https://www.youtube.com/watch?v=WCBcI5g3KbY)
+- [Tombstone Shadow](https://www.youtube.com/watch?v=cUArM2kAZoM)
 - [Wrote A Song For Everyone](https://www.youtube.com/watch?v=2xzYM2N3WlQ)
 - [Bad Moon Rising](https://www.youtube.com/watch?v=SuRCxakQt-c)
-- [Lodi](https://www.youtube.com/watch?v=H-Oiz8QaH2M)
 - [Cross-Tie Walker](https://www.youtube.com/watch?v=iYEUbYLEcj0)
 - [Sinister Purpose](https://www.youtube.com/watch?v=fs2bbXhPCcE)
 - [The Night Time Is The Right Time](https://www.youtube.com/watch?v=AW1KKYaqrnk)

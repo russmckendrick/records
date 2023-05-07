@@ -40,13 +40,13 @@ styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 
 
 ## Videos
-### John Grant Queen of Denmark LIVE at The Cat's Cradle 4/3/10
-{{< youtube id="Yz0ggk0eITg" title="John Grant Queen of Denmark LIVE at The Cat's Cradle 4/3/10" >}}<br>
+### John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD
+{{< youtube id="mzWQSabtWLs" title="John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD" >}}<br>
 
 ### More Videos
 
-- [John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD](https://www.youtube.com/watch?v=mzWQSabtWLs)
 - [John Grant - Queen Of Denmark](https://www.youtube.com/watch?v=b_oNylzsY7I)
+- [John Grant Queen of Denmark LIVE at The Cat's Cradle 4/3/10](https://www.youtube.com/watch?v=Yz0ggk0eITg)
 
 
 ## Release Information

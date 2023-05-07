@@ -42,14 +42,13 @@ styles: ["Southern Rock"]
 
 
 ## Videos
-### The Black Crowes – (Only) Halfway To Everywhere
-{{< youtube id="6qjTpiSUw18" title="The Black Crowes – (Only) Halfway To Everywhere" >}}<br>
+### The Black Crowes – Bring On, Bring On
+{{< youtube id="zV2eiDIrdxk" title="The Black Crowes – Bring On, Bring On" >}}<br>
 
 ### More Videos
 
 - [The Black Crowes - Blackberry](https://www.youtube.com/watch?v=y9r_uE9YOSM)
 - [The Black Crowes – How Much For Your Wings ?](https://www.youtube.com/watch?v=dkDFnrKJ7Qg)
-- [The Black Crowes – Bring On, Bring On](https://www.youtube.com/watch?v=zV2eiDIrdxk)
 - [The Black Crowes – Let Me Share The Ride](https://www.youtube.com/watch?v=sOELboiSWho)
 - [The Black Crowes – Nebakanezer](https://www.youtube.com/watch?v=k6omFhQ5hWg)
 - [The Black Crowes – Blackberry](https://www.youtube.com/watch?v=PpuEO_8C-sI)
@@ -59,6 +58,7 @@ styles: ["Southern Rock"]
 - [The Black Crowes – Under A Mountain](https://www.youtube.com/watch?v=jRRYpsp16i4)
 - [The Black Crowes – One Mirror Too Many](https://www.youtube.com/watch?v=N_XL0xcMXUk)
 - [The Black Crowes – Good Friday](https://www.youtube.com/watch?v=zhErj13uccY)
+- [The Black Crowes – (Only) Halfway To Everywhere](https://www.youtube.com/watch?v=6qjTpiSUw18)
 
 
 ## Release Information

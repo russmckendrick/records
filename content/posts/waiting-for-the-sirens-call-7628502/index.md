@@ -39,12 +39,12 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### New Order - Krafty (Official Music Video)
-{{< youtube id="UPQXqUrAnSI" title="New Order - Krafty (Official Music Video)" >}}<br>
+### New Order - Jetstream  [OFFICIAL MUSIC VIDEO]
+{{< youtube id="AhsYhd9m2Dc" title="New Order - Jetstream  [OFFICIAL MUSIC VIDEO]" >}}<br>
 
 ### More Videos
 
-- [New Order - Jetstream  [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=AhsYhd9m2Dc)
+- [New Order - Krafty (Official Music Video)](https://www.youtube.com/watch?v=UPQXqUrAnSI)
 - [New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=3oOB9ektig4)
 
 

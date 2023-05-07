@@ -38,12 +38,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Buena
-{{< youtube id="Hr11Y1RKYR4" title="Buena" >}}<br>
+### Let's Take a Trip Together
+{{< youtube id="vbtMxhkBKzU" title="Let's Take a Trip Together" >}}<br>
 
 ### More Videos
 
 - [Dawna](https://www.youtube.com/watch?v=ca2puE1R7a8)
+- [Buena](https://www.youtube.com/watch?v=Hr11Y1RKYR4)
 - [I'm Free Now](https://www.youtube.com/watch?v=hOCMpKC5YQg)
 - [All Wrong](https://www.youtube.com/watch?v=vMptvkimFMQ)
 - [Candy](https://www.youtube.com/watch?v=2ewvn6YBz6E)
@@ -52,7 +53,6 @@ styles: ["Alternative Rock"]
 - [Thursday](https://www.youtube.com/watch?v=BqAxQeH6Qxg)
 - [Cure for Pain](https://www.youtube.com/watch?v=hK5w0_rqfvE)
 - [Mary Won't You Call My Name?](https://www.youtube.com/watch?v=4TNFRGOBi24)
-- [Let's Take a Trip Together](https://www.youtube.com/watch?v=vbtMxhkBKzU)
 - [Sheila](https://www.youtube.com/watch?v=CNpFR4P7uZE)
 - [Miles Davis' Funeral](https://www.youtube.com/watch?v=57Rd7FjC3c4)
 

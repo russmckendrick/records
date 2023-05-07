@@ -40,12 +40,12 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 
 
 ## Videos
-### The Wonder Stuff - Unfaithful
-{{< youtube id="onDvSeWeJsc" title="The Wonder Stuff - Unfaithful" >}}<br>
+### CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989
+{{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}<br>
 
 ### More Videos
 
-- [CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989](https://www.youtube.com/watch?v=dOYo2IQ5UNo)
+- [The Wonder Stuff - Unfaithful](https://www.youtube.com/watch?v=onDvSeWeJsc)
 - [The Wonder Stuff 30 Years In The Bathroom.wmv](https://www.youtube.com/watch?v=fS2AA27i0Ag)
 
 

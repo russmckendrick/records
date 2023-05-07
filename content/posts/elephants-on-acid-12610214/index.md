@@ -70,17 +70,17 @@ styles: []
 
 
 ## Videos
-### Cypress Hill - Satao Interval (Audio)
-{{< youtube id="aeJf0A-0GvM" title="Cypress Hill - Satao Interval (Audio)" >}}<br>
+### Cypress Hill - LSD (Interval) (Audio)
+{{< youtube id="YtjMWUf-FwM" title="Cypress Hill - LSD (Interval) (Audio)" >}}<br>
 
 ### More Videos
 
 - [Cypress Hill - Tusko (Intro) (Audio)](https://www.youtube.com/watch?v=etAPOcsHgOk)
 - [Cypress Hill - Band of Gypsies (Official Video)](https://www.youtube.com/watch?v=buxccDwjkdA)
 - [Cypress Hill - Put Em in the Ground (Audio)](https://www.youtube.com/watch?v=nNyDk4Q503M)
+- [Cypress Hill - Satao Interval (Audio)](https://www.youtube.com/watch?v=aeJf0A-0GvM)
 - [Cypress Hill - Jesus Was A Stoner (Audio)](https://www.youtube.com/watch?v=-rtS8P5OHHc)
 - [Cypress Hill - Pass The Knife (Audio)](https://www.youtube.com/watch?v=cudK_NRB3Lw)
-- [Cypress Hill - LSD (Interval) (Audio)](https://www.youtube.com/watch?v=YtjMWUf-FwM)
 - [Cypress Hill - Oh Na Na (Audio)](https://www.youtube.com/watch?v=wUzYFdhGL7g)
 - [Cypress Hill - Holy Mountain (Interval) (Audio)](https://www.youtube.com/watch?v=fMsT2emhc3A)
 - [Cypress Hill - Locos feat. Sick Jacken (Official Video)](https://www.youtube.com/watch?v=glZQaFukto0)

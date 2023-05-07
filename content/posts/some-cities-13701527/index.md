@@ -39,15 +39,14 @@ styles: ["Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Doves - Black & White Town (From Some Cities - 2005)
-{{< youtube id="Nio3f2yN8u8" title="Doves - Black & White Town (From Some Cities - 2005)" >}}<br>
+### Doves – Complete C Side [ Some Cities LP ]
+{{< youtube id="48n2X7H5hTg" title="Doves – Complete C Side [ Some Cities LP ]" >}}<br>
 
 ### More Videos
 
 - [Shadows Of Salford](https://www.youtube.com/watch?v=LR3rHOXQeeM)
 - [Doves – Complete A Side [ Some Cities LP ]](https://www.youtube.com/watch?v=UYQfuM1PP8o)
 - [Doves – Complete B Side [ Some Cities LP ]](https://www.youtube.com/watch?v=_HrOy64dsCs)
-- [Doves – Complete C Side [ Some Cities LP ]](https://www.youtube.com/watch?v=48n2X7H5hTg)
 - [Doves – Complete D Side [ Some Cities LP ]](https://www.youtube.com/watch?v=s4bLp-MDgyI)
 - [Some Cities - Doves](https://www.youtube.com/watch?v=ceiBoqK_SPE)
 - [Doves - The Storm](https://www.youtube.com/watch?v=46ynKrD5nYM)
@@ -57,6 +56,7 @@ styles: ["Downtempo", "Indie Rock"]
 - [DOVES - Some Cities](https://www.youtube.com/watch?v=nh76lzkZrCw)
 - [Doves - One Of These Days](https://www.youtube.com/watch?v=9fNTb8L1_m4)
 - [Doves - Walk in Fire](https://www.youtube.com/watch?v=NzXuCj-DXv4)
+- [Doves - Black & White Town (From Some Cities - 2005)](https://www.youtube.com/watch?v=Nio3f2yN8u8)
 
 
 ## Release Information

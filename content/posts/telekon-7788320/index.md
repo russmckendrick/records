@@ -46,14 +46,14 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Telekon
-{{< youtube id="EAFu1wj2f44" title="Telekon" >}}<br>
+### Remind Me to Smile
+{{< youtube id="WW_dgV9sYnk" title="Remind Me to Smile" >}}<br>
 
 ### More Videos
 
 - [Gary Numan - This Wreckage](https://www.youtube.com/watch?v=m9uvIqIUq4U)
 - [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
-- [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
+- [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
 - [Sleep by Windows](https://www.youtube.com/watch?v=0Wu9AtBqpnY)
 - [I'm an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
 - [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)

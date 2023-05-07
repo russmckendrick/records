@@ -38,14 +38,14 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 
 
 ## Videos
-### The Black Crowes - Sting Me
-{{< youtube id="OaH9wIQDUwE" title="The Black Crowes - Sting Me" >}}<br>
+### No Speak No Slave
+{{< youtube id="-bPhju3r1qc" title="No Speak No Slave" >}}<br>
 
 ### More Videos
 
 - [The Black Crowes - Remedy](https://www.youtube.com/watch?v=BYyRLTveFJQ)
 - [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
-- [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
+- [The Black Crowes - Sting Me](https://www.youtube.com/watch?v=OaH9wIQDUwE)
 
 
 ## Release Information

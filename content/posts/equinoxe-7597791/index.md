@@ -36,14 +36,14 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 
 
 ## Videos
-### Equinoxe, Pt. 3
-{{< youtube id="lzcPAAaeAF8" title="Equinoxe, Pt. 3" >}}<br>
+### Equinoxe, Pt. 2
+{{< youtube id="_okeeslfmh8" title="Equinoxe, Pt. 2" >}}<br>
 
 ### More Videos
 
 - [Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ]](https://www.youtube.com/watch?v=RAhgz9aLukk)
 - [Equinoxe, Pt. 1](https://www.youtube.com/watch?v=kAcUmjU-ZDo)
-- [Equinoxe, Pt. 2](https://www.youtube.com/watch?v=_okeeslfmh8)
+- [Equinoxe, Pt. 3](https://www.youtube.com/watch?v=lzcPAAaeAF8)
 - [Equinoxe, Pt. 4](https://www.youtube.com/watch?v=W18VtbMEbZ0)
 - [Equinoxe, Pt. 5](https://www.youtube.com/watch?v=sH16HY2oEzk)
 - [Equinoxe, Pt. 7](https://www.youtube.com/watch?v=IuJ50xs2rWU)

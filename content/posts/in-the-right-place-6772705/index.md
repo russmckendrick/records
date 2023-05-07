@@ -39,16 +39,16 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 
 
 ## Videos
-### Peace Brother Peace
-{{< youtube id="fPcIqqUhVtk" title="Peace Brother Peace" >}}<br>
+### Just the Same
+{{< youtube id="aSfIvbQ39ZY" title="Just the Same" >}}<br>
 
 ### More Videos
 
 - [Right Place Wrong Time](https://www.youtube.com/watch?v=zw-2CTx4YgY)
 - [Same Old Same Old](https://www.youtube.com/watch?v=R9FXjsc9uBs)
-- [Just the Same](https://www.youtube.com/watch?v=aSfIvbQ39ZY)
 - [Qualified](https://www.youtube.com/watch?v=ebnKMMqKMMc)
 - [Traveling Mood](https://www.youtube.com/watch?v=ZBm_EW2qqAk)
+- [Peace Brother Peace](https://www.youtube.com/watch?v=fPcIqqUhVtk)
 - [Life](https://www.youtube.com/watch?v=03eYl97ZbUg)
 - [Such a Night](https://www.youtube.com/watch?v=fj9lG30WzcA)
 - [Shoo Fly Marches On](https://www.youtube.com/watch?v=xARxgZKQ0IE)

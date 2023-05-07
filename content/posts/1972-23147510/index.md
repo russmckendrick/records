@@ -34,8 +34,8 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 
 
 ## Videos
-### Black Crowes - Moonage Daydream
-{{< youtube id="lKu1T6ccwFI" title="Black Crowes - Moonage Daydream" >}}<br>
+### Black Crowes - Papa Was A Rolling Stone
+{{< youtube id="frN4RjtwV0Y" title="Black Crowes - Papa Was A Rolling Stone" >}}<br>
 
 ### More Videos
 
@@ -44,7 +44,7 @@ styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 - [The Black Crowes – Papa Was A Rolling Stone](https://www.youtube.com/watch?v=rwOYwWPyrxk)
 - [THE BLACK CROWES new EP an Amazon Original EP titled 1972 + studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
 - [Black Crowes - You Wear It Well](https://www.youtube.com/watch?v=qNbe-OIomVs)
-- [Black Crowes - Papa Was A Rolling Stone](https://www.youtube.com/watch?v=frN4RjtwV0Y)
+- [Black Crowes - Moonage Daydream](https://www.youtube.com/watch?v=lKu1T6ccwFI)
 
 
 ## Release Information

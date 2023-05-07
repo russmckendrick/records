@@ -40,18 +40,18 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Animal (Remastered)
-{{< youtube id="vR7OWzvf5uM" title="Animal (Remastered)" >}}<br>
+### Glorified G (Remastered)
+{{< youtube id="CyPMgPa6RbE" title="Glorified G (Remastered)" >}}<br>
 
 ### More Videos
 
 - [Go (Remastered)](https://www.youtube.com/watch?v=gBt8DnKC1_Y)
 - [Rearviewmirror (Remastered)](https://www.youtube.com/watch?v=bf2LDmkzmwo)
+- [Animal (Remastered)](https://www.youtube.com/watch?v=vR7OWzvf5uM)
 - [Dissident (Remastered)](https://www.youtube.com/watch?v=4cpJ982JGOo)
 - [W.M.A. (Remastered)](https://www.youtube.com/watch?v=Q2bZS_nPPNA)
 - [Indifference (Remastered)](https://www.youtube.com/watch?v=vZCMgm6Z-8M)
 - [Pearl Jam - Daughter HQ](https://www.youtube.com/watch?v=uG6YjrtzPFg)
-- [Glorified G (Remastered)](https://www.youtube.com/watch?v=CyPMgPa6RbE)
 - [Blood (Remastered)](https://www.youtube.com/watch?v=p84QQvrL74s)
 - [Leash (Remastered)](https://www.youtube.com/watch?v=x3pRrMz_Uqk)
 - [Pearl Jam - Elderly Woman Behind the Counter in a Small Town (Official Audio)](https://www.youtube.com/watch?v=4YFYNUu_sqE)

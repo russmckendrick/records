@@ -28,13 +28,13 @@ styles: ["New Wave", "Electro"]
 
 
 ## Videos
-### New Order - Mesh
-{{< youtube id="hpghMn2Vg1c" title="New Order - Mesh" >}}<br>
+### New Order - Everything's Gone Green (Official Lyric Video)
+{{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [New Order - Everything's Gone Green (Official Lyric Video)](https://www.youtube.com/watch?v=Aaf-eqg8dvo)
 - [New Order -- Cries and Whispers](https://www.youtube.com/watch?v=0NZfjbht79M)
+- [New Order - Mesh](https://www.youtube.com/watch?v=hpghMn2Vg1c)
 
 
 ## Release Information

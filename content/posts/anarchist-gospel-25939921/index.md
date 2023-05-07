@@ -42,14 +42,14 @@ styles: []
 
 
 ## Videos
-### Sunny War - Baby Bitch  [Official Audio]
-{{< youtube id="Qim2TSC3x40" title="Sunny War - Baby Bitch  [Official Audio]" >}}<br>
+### Sunny War - New Day [Official Audio]
+{{< youtube id="XOxIAk-DQSs" title="Sunny War - New Day [Official Audio]" >}}<br>
 
 ### More Videos
 
 - [Sunny War - Higher (feat. David Rawlings) [Official Audio]](https://www.youtube.com/watch?v=8hnaMoHzx7o)
 - [Sunny War performs Whole](https://www.youtube.com/watch?v=VflAVCg385Q)
-- [Sunny War - New Day [Official Audio]](https://www.youtube.com/watch?v=XOxIAk-DQSs)
+- [Sunny War - Baby Bitch  [Official Audio]](https://www.youtube.com/watch?v=Qim2TSC3x40)
 - [Sunny War - Shelter And Storm (feat. David Rawlings) [Official Audio]](https://www.youtube.com/watch?v=w0xt2H9COvo)
 - [Sweet Nothing](https://www.youtube.com/watch?v=p6F-CmRerF4)
 - [Sunny War - Whole [Official Audio]](https://www.youtube.com/watch?v=O7GlPPDZp_A)

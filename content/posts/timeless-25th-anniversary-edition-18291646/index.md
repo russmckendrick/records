@@ -41,8 +41,8 @@ styles: ["Drum n Bass", "Jungle"]
 
 
 ## Videos
-### Goldie & Beverley Knight - Inner City Life (Live at Commonwealth Games 2022 Closing)
-{{< youtube id="AseB9RMuRSI" title="Goldie & Beverley Knight - Inner City Life (Live at Commonwealth Games 2022 Closing)" >}}<br>
+### Goldie / Timeless
+{{< youtube id="UHnE7N79rBQ" title="Goldie / Timeless" >}}<br>
 
 ### More Videos
 
@@ -81,7 +81,6 @@ styles: ["Drum n Bass", "Jungle"]
 - [Goldie - Timeless](https://www.youtube.com/watch?v=X6h2Wgs1nkA)
 - [Goldie - Timeless](https://www.youtube.com/watch?v=OKHlQa-N8FU)
 - [GOLDIE - TIMELESS - PART 1/2 | London Real](https://www.youtube.com/watch?v=fTPMmV8-MHA)
-- [Goldie / Timeless](https://www.youtube.com/watch?v=UHnE7N79rBQ)
 - [Goldie - Timeless (Full Version)](https://www.youtube.com/watch?v=BzezB5An9SI)
 - [Goldie - State Of Mind](https://www.youtube.com/watch?v=eElkoPuJm6E)
 - [Goldie - Timeless](https://www.youtube.com/watch?v=LWdP9Y_ERf4)
@@ -94,6 +93,7 @@ styles: ["Drum n Bass", "Jungle"]
 - [Timeless (25 Year Remaster)](https://www.youtube.com/watch?v=BPb9IRfD_YE)
 - [Goldie - live at Bizarre festival1998 feat. Diane Charlemagne  (pro)](https://www.youtube.com/watch?v=2-jiGAL1fB4)
 - [Goldie Presents Metalheads   Inner City Life](https://www.youtube.com/watch?v=fqX5AM-7ixM)
+- [Goldie & Beverley Knight - Inner City Life (Live at Commonwealth Games 2022 Closing)](https://www.youtube.com/watch?v=AseB9RMuRSI)
 
 
 ## Release Information

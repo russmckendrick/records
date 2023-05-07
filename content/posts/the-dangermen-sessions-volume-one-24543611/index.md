@@ -38,20 +38,20 @@ styles: ["Ska"]
 
 
 ## Videos
-### You'll Lose a Good Thing
-{{< youtube id="IwN-74fBrqY" title="You'll Lose a Good Thing" >}}<br>
+### Girl Why Don't You?
+{{< youtube id="HcKWvvGhcJ0" title="Girl Why Don't You?" >}}<br>
 
 ### More Videos
 
 - [Israelites](https://www.youtube.com/watch?v=KPoypZ9casY)
 - [Madness You Keep Me Hanging on](https://www.youtube.com/watch?v=U3Ms2s4Uq38)
-- [Girl Why Don't You?](https://www.youtube.com/watch?v=HcKWvvGhcJ0)
 - [You Keep Me Hanging On](https://www.youtube.com/watch?v=D8yXfL_Y67E)
 - [This Is Where](https://www.youtube.com/watch?v=wGFg1hVBR-Y)
 - [Taller Than You Are](https://www.youtube.com/watch?v=1gOB44FkP2k)
 - [Lola](https://www.youtube.com/watch?v=v142-oPlnNI)
 - [So Much Trouble in the World](https://www.youtube.com/watch?v=vIHMY6EtOQI)
 - [I Chase the Devil AKA Ironshirt](https://www.youtube.com/watch?v=JQ0CrMJec5A)
+- [You'll Lose a Good Thing](https://www.youtube.com/watch?v=IwN-74fBrqY)
 - [Madness - You'll Lose A Good Thing](https://www.youtube.com/watch?v=Ju4kJhEM18k)
 - [John Jones](https://www.youtube.com/watch?v=ISJyYFV8iyE)
 - [Madness - The Dangermen Sessions Volume One (Full Album)](https://www.youtube.com/watch?v=GGZ9W7_HCE4)

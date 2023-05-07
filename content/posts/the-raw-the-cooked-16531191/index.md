@@ -38,8 +38,8 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### It's Ok (It's Alright)
-{{< youtube id="MvmBjzI6KCc" title="It's Ok (It's Alright)" >}}<br>
+### Ever Fallen in Love? (Remastered)
+{{< youtube id="r2l7dvXfjHs" title="Ever Fallen in Love? (Remastered)" >}}<br>
 
 ### More Videos
 
@@ -55,9 +55,9 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 - [I'm Not Satisfied (Remastered)](https://www.youtube.com/watch?v=rAv92AJRpQ4)
 - [Tell Me What (Remastered)](https://www.youtube.com/watch?v=CkUSSOnO4NU)
 - [Fine Young Cannibals - Don't Look Back](https://www.youtube.com/watch?v=t0VauRGl0f0)
+- [It's Ok (It's Alright)](https://www.youtube.com/watch?v=MvmBjzI6KCc)
 - [Don't Let It Get You Down (Remastered)](https://www.youtube.com/watch?v=sZgT4I2ALb8)
 - [As Hard As It Is (Remastered)](https://www.youtube.com/watch?v=RarYl823bPo)
-- [Ever Fallen in Love? (Remastered)](https://www.youtube.com/watch?v=r2l7dvXfjHs)
 - [You Never Know (Remastered)](https://www.youtube.com/watch?v=iejcqPeNhls)
 - [Social Security (Remastered)](https://www.youtube.com/watch?v=QIUQnClOTm4)
 

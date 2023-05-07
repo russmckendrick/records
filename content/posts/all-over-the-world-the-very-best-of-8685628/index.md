@@ -45,12 +45,12 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 
 
 ## Videos
-### Electric Light Orchestra - Showdown (Official Audio)
-{{< youtube id="JHsUGJ4jDsw" title="Electric Light Orchestra - Showdown (Official Audio)" >}}<br>
+### ELO- Showdown
+{{< youtube id="8hqmmVXcXzU" title="ELO- Showdown" >}}<br>
 
 ### More Videos
 
-- [ELO- Showdown](https://www.youtube.com/watch?v=8hqmmVXcXzU)
+- [Electric Light Orchestra - Showdown (Official Audio)](https://www.youtube.com/watch?v=JHsUGJ4jDsw)
 - [Electric Light Orchestra - All Over The World (1980)](https://www.youtube.com/watch?v=36XYt4mpRxI)
 
 

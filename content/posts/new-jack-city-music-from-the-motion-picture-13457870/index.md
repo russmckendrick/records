@@ -39,14 +39,13 @@ styles: ["Pop Rap", "RnB/Swing"]
 
 
 ## Videos
-### Keith Sweat - (There You Go) Tellin' Me No Again
-{{< youtube id="fEVN_yPyXXg" title="Keith Sweat - (There You Go) Tellin' Me No Again" >}}<br>
+### Ice-T - New Jack Hustler (Nino's Theme)
+{{< youtube id="WN4uGxN3_Go" title="Ice-T - New Jack Hustler (Nino's Theme)" >}}<br>
 
 ### More Videos
 
 - [F.S. Effect - Get It Together (Black Is A Force)](https://www.youtube.com/watch?v=0e5z8givs6Y)
 - [Guy - New Jack City](https://www.youtube.com/watch?v=K_Jn9qJleRc)
-- [Ice-T - New Jack Hustler (Nino's Theme)](https://www.youtube.com/watch?v=WN4uGxN3_Go)
 - [Troop x LeVert x Queen Latifah - For The Love Of Money/Living For The City](https://www.youtube.com/watch?v=-QwkkiZjXmI)
 - [Johnny Gill - I'm Still Waiting](https://www.youtube.com/watch?v=pQoh1bjCoFs)
 - [Christopher Williams - I'm Dreamin'](https://www.youtube.com/watch?v=gkBkArjnXzM)
@@ -54,6 +53,7 @@ styles: ["Pop Rap", "RnB/Swing"]
 - [Danny Madden - Facts Of Life](https://www.youtube.com/watch?v=EQfqL9Yk-vE)
 - [Color Me Badd - I Wanna Sex You Up](https://www.youtube.com/watch?v=woLqPI0zmi8)
 - [Essence - Lyrics 2 The Rhythm](https://www.youtube.com/watch?v=oDIfvCvNLuw)
+- [Keith Sweat - (There You Go) Tellin' Me No Again](https://www.youtube.com/watch?v=fEVN_yPyXXg)
 
 
 ## Release Information

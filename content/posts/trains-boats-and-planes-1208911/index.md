@@ -39,16 +39,16 @@ styles: []
 
 
 ## Videos
-### This Is Not A Song
-{{< youtube id="4gKKL_jw5WI" title="This Is Not A Song" >}}<br>
+### Fashion Crisis Hits New York
+{{< youtube id="l8CaQDIiKvk" title="Fashion Crisis Hits New York" >}}<br>
 
 ### More Videos
 
+- [This Is Not A Song](https://www.youtube.com/watch?v=4gKKL_jw5WI)
 - [Walter's Trip](https://www.youtube.com/watch?v=Veh7a-K3Dls)
 - [Trainspotters](https://www.youtube.com/watch?v=-uudQ9BSbp0)
 - [After All](https://www.youtube.com/watch?v=i9Uv2t6kI1o)
 - [Happy Busman](https://www.youtube.com/watch?v=xU0Cdf-TnAI)
-- [Fashion Crisis Hits New York](https://www.youtube.com/watch?v=l8CaQDIiKvk)
 - [Daisy Chain](https://www.youtube.com/watch?v=B1Oq2A06gQg)
 - [John And Sue](https://www.youtube.com/watch?v=qK3dbtWyxO0)
 - [Bake Us A Song](https://www.youtube.com/watch?v=Ly9DwySs3T8)

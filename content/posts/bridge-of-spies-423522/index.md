@@ -36,19 +36,19 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### T'pau - Bridge Of Spies (Live QEF 3 of 7)
-{{< youtube id="7zRQUnmDQQ8" title="T'pau - Bridge Of Spies (Live QEF 3 of 7)" >}}<br>
+### China in your hand - T'pau
+{{< youtube id="wfvJS4UO7xI" title="China in your hand - T'pau" >}}<br>
 
 ### More Videos
 
 - [T'Pau - Heart And Soul (Official Video)](https://www.youtube.com/watch?v=SwrYMWoqg5w)
 - [T'Pau - Valentine](https://www.youtube.com/watch?v=s047ZgjysX8)
-- [China in your hand - T'pau](https://www.youtube.com/watch?v=wfvJS4UO7xI)
 - [T'Pau - Bridge Of Spies](https://www.youtube.com/watch?v=06e3N7VBVZM)
 - [T'pau - Bridge Of Spies](https://www.youtube.com/watch?v=5EARm7TkZj8)
 - [T'Pau: Bridge Of Spies (UK, 1988)](https://www.youtube.com/watch?v=1HuYW2l4n9Q)
 - [T'pau - Bridge Of Spies (Single Version)](https://www.youtube.com/watch?v=6xoOHfhUTuI)
 - [T'Pau - Bridge Of Spies (US Version)](https://www.youtube.com/watch?v=j4dpC6owCME)
+- [T'pau - Bridge Of Spies (Live QEF 3 of 7)](https://www.youtube.com/watch?v=7zRQUnmDQQ8)
 - [T'Pau - Bridge Of Spies Live 2013 Tour Bishops Stortford](https://www.youtube.com/watch?v=017sZD6JZT8)
 - [T'pau Bridge Of Spies](https://www.youtube.com/watch?v=bruw9QIq6rQ)
 - [T'Pau 10 Bridge Of Spies](https://www.youtube.com/watch?v=6bv9-W0E_Pc)

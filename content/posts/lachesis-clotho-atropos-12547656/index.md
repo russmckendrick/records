@@ -31,13 +31,13 @@ styles: ["Post Rock", "Experimental", "Folk"]
 
 
 ## Videos
-### Lachesis
-{{< youtube id="U77FkZhmijU" title="Lachesis" >}}<br>
+### Atropos
+{{< youtube id="gQ1IDEN58JU" title="Atropos" >}}<br>
 
 ### More Videos
 
+- [Lachesis](https://www.youtube.com/watch?v=U77FkZhmijU)
 - [Clotho](https://www.youtube.com/watch?v=lTVndB71EGU)
-- [Atropos](https://www.youtube.com/watch?v=gQ1IDEN58JU)
 
 
 ## Release Information

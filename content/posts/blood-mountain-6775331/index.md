@@ -40,15 +40,15 @@ styles: ["Prog Rock", "Heavy Metal"]
 
 
 ## Videos
-### Mastodon - Capillarian Crest
-{{< youtube id="9d75JaaUVuU" title="Mastodon - Capillarian Crest" >}}<br>
+### Mastodon - The Wolf Is Loose (Lyrics)
+{{< youtube id="Gm9P1QsoGhw" title="Mastodon - The Wolf Is Loose (Lyrics)" >}}<br>
 
 ### More Videos
 
 - [Mastodon Colony Of Birchmen (Official Video)](https://www.youtube.com/watch?v=VQo9bwQ2rQc)
-- [Mastodon - The Wolf Is Loose (Lyrics)](https://www.youtube.com/watch?v=Gm9P1QsoGhw)
 - [Crystal Skull](https://www.youtube.com/watch?v=wHv3MqhT9Jk)
 - [Sleeping Giant](https://www.youtube.com/watch?v=1Oo63VEPFMA)
+- [Mastodon - Capillarian Crest](https://www.youtube.com/watch?v=9d75JaaUVuU)
 - [Circle of Cysquatch](https://www.youtube.com/watch?v=cX9TYo130jg)
 - [Bladecatcher](https://www.youtube.com/watch?v=6_v4V6JTF3M)
 - [Mastodon-Colony Of Birchmen](https://www.youtube.com/watch?v=2vyc8Ns9Xfs)

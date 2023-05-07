@@ -48,15 +48,15 @@ styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 
 
 ## Videos
-### Tough Guy - Beastie Boys
-{{< youtube id="DNkYVaRzhxE" title="Tough Guy - Beastie Boys" >}}<br>
+### Beastie Boys - Root Down
+{{< youtube id="Xf1YF_MH1xc" title="Beastie Boys - Root Down" >}}<br>
 
 ### More Videos
 
 - [Beastie Boys - Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)
 - [Beastie Boys - Sure Shot](https://www.youtube.com/watch?v=JhqyZeUlE8U)
-- [Beastie Boys - Root Down](https://www.youtube.com/watch?v=Xf1YF_MH1xc)
 - [Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)](https://www.youtube.com/watch?v=ajbr64jeLjQ)
+- [Tough Guy - Beastie Boys](https://www.youtube.com/watch?v=DNkYVaRzhxE)
 - [Tough Guy](https://www.youtube.com/watch?v=30CKfFLfNh0)
 - [Tough Guy (Remastered 2009)](https://www.youtube.com/watch?v=-AvF_LckwrE)
 

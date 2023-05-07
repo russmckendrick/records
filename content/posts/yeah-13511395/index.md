@@ -39,12 +39,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Wannadies - Idiot Boy
-{{< youtube id="TN3pSDdISnQ" title="The Wannadies - Idiot Boy" >}}<br>
+### I Love Myself by The Wannadies (Album Yeah)
+{{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies (Album Yeah)" >}}<br>
 
 ### More Videos
 
-- [I Love Myself by The Wannadies (Album Yeah)](https://www.youtube.com/watch?v=S7mLQhPCOLk)
+- [The Wannadies - Idiot Boy](https://www.youtube.com/watch?v=TN3pSDdISnQ)
 
 
 ## Release Information

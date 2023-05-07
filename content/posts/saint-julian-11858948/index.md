@@ -38,8 +38,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Shot Down
-{{< youtube id="_Y33pdrH42w" title="Shot Down" >}}<br>
+### Julian Cope -  A Crack In The Clouds
+{{< youtube id="jQHxcafCFu8" title="Julian Cope -  A Crack In The Clouds" >}}<br>
 
 ### More Videos
 
@@ -47,8 +47,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 - ['Saint Julian' Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
 - [Julian Cope - World shut your mouth](https://www.youtube.com/watch?v=2UJbz-pp6GQ)
 - [Julian Cope - Trampolene](https://www.youtube.com/watch?v=dawFWa0hfL4)
-- [Julian Cope -  A Crack In The Clouds](https://www.youtube.com/watch?v=jQHxcafCFu8)
 - [Julian Cope - Saint Julian](https://www.youtube.com/watch?v=LWESpsMNv_E)
+- [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
 - [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
 
 

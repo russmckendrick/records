@@ -62,16 +62,16 @@ styles: ["Indie Rock", "Experimental"]
 
 
 ## Videos
-### John Grant - Grey Tickles, Black Pressure (Full Album)
-{{< youtube id="5yOYx2qsIUg" title="John Grant - Grey Tickles, Black Pressure (Full Album)" >}}<br>
+### John Grant - Disappointing feat. Tracey Thorn (Official Music Video)
+{{< youtube id="U2Ig4sMURdc" title="John Grant - Disappointing feat. Tracey Thorn (Official Music Video)" >}}<br>
 
 ### More Videos
 
 - [John Grant - Grey Tickles, Black Pressure (Album Trailer)](https://www.youtube.com/watch?v=-0QsMQZf1q4)
 - [Intro](https://www.youtube.com/watch?v=SAvuoyxR_eU)
-- [John Grant - Disappointing feat. Tracey Thorn (Official Music Video)](https://www.youtube.com/watch?v=U2Ig4sMURdc)
 - [John Grant - Down Here (Official Video)](https://www.youtube.com/watch?v=eViyPYJ2okc)
 - [John Grant - Voodoo Doll (Official Music Video)](https://www.youtube.com/watch?v=rOIZbYaVWSg)
+- [John Grant - Grey Tickles, Black Pressure (Full Album)](https://www.youtube.com/watch?v=5yOYx2qsIUg)
 
 
 ## Release Information

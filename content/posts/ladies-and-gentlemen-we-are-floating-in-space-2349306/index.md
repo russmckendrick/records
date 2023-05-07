@@ -40,15 +40,15 @@ styles: ["Gospel", "Psychedelic Rock"]
 
 
 ## Videos
-### Spiritualized - I Think I'm in Love (Official Audio)
-{{< youtube id="CyZ4IvOwJYI" title="Spiritualized - I Think I'm in Love (Official Audio)" >}}<br>
+### Stay with Me
+{{< youtube id="gSGA1Q5NFUM" title="Stay with Me" >}}<br>
 
 ### More Videos
 
 - [Spiritualized - Come Together (Official Music Video)](https://www.youtube.com/watch?v=uWOdSeDzyy4)
+- [Spiritualized - I Think I'm in Love (Official Audio)](https://www.youtube.com/watch?v=CyZ4IvOwJYI)
 - [Spiritualized - Electricity (Official Music Video)](https://www.youtube.com/watch?v=ZVKXnWDeNr8)
 - [Come Together](https://www.youtube.com/watch?v=idRkBNs-Jgs)
-- [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)
 
 

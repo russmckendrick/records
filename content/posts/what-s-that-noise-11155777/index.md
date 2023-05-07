@@ -36,8 +36,8 @@ styles: ["House", "Breaks", "Downtempo"]
 
 
 ## Videos
-### What's That Noise (Original Mix)
-{{< youtube id="KerrBcAMxZI" title="What's That Noise (Original Mix)" >}}<br>
+### People Hold On
+{{< youtube id="iwjIMoHf-mk" title="People Hold On" >}}<br>
 
 ### More Videos
 
@@ -45,6 +45,7 @@ styles: ["House", "Breaks", "Downtempo"]
 - [COLDCUT - WHAT'S THAT NOISE(FULL ALBUM - VINYL) 33RPM - 1988](https://www.youtube.com/watch?v=l13T8AboN7U)
 - [Coldcut - Stop This Crazy Thing](https://www.youtube.com/watch?v=0-kcCNgd9SE)
 - [Coldcut - People Hold On (Video) ft. Lisa Stansfield](https://www.youtube.com/watch?v=4IoWjow6xDs)
+- [What's That Noise (Original Mix)](https://www.youtube.com/watch?v=KerrBcAMxZI)
 - [Coldcut - People Hold On [single version wLisa Stansfield]](https://www.youtube.com/watch?v=f2nt4wAFjh4)
 - [What's That Noise?](https://www.youtube.com/watch?v=D1vO1w8-UKM)
 - [Coldcut - 'True Skool'](https://www.youtube.com/watch?v=PRHCP-Czj0Y)
@@ -52,7 +53,6 @@ styles: ["House", "Breaks", "Downtempo"]
 - [Hey!What's This Noise!](https://www.youtube.com/watch?v=6I2w0ToT-qI)
 - [People Hold On (12 Version)](https://www.youtube.com/watch?v=-fGRqtvy9ro)
 - [coldcut - stop this crazy thing(original version - 1988)](https://www.youtube.com/watch?v=TflHD9lEv2M)
-- [People Hold On](https://www.youtube.com/watch?v=iwjIMoHf-mk)
 - [Stop This Crazy Thing](https://www.youtube.com/watch?v=r9QIIFDdC_Y)
 - [Fat (Party And Bullshit)](https://www.youtube.com/watch?v=RVtW2AfF2S4)
 - [My Telephone](https://www.youtube.com/watch?v=dLpDOpD7Z9k)

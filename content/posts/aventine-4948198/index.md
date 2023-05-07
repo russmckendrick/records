@@ -53,14 +53,13 @@ styles: ["Folk"]
 
 
 ## Videos
-### Agnes Obel - Smoke And Mirrors
-{{< youtube id="QOGQx4khAG0" title="Agnes Obel - Smoke And Mirrors" >}}<br>
+### Agnes Obel - Fuel To Fire (David Lynch Remix) (Official Audio)
+{{< youtube id="bNV28kwDWHA" title="Agnes Obel - Fuel To Fire (David Lynch Remix) (Official Audio)" >}}<br>
 
 ### More Videos
 
 - [Agnes Obel - Chord Left](https://www.youtube.com/watch?v=bbU31JLtlug)
 - [Agnes Obel - September Song (Official Audio)](https://www.youtube.com/watch?v=wIhfU8Woci4)
-- [Agnes Obel - Fuel To Fire (David Lynch Remix) (Official Audio)](https://www.youtube.com/watch?v=bNV28kwDWHA)
 - [Agnes Obel - Fuel To Fire (Official Video)](https://www.youtube.com/watch?v=hqZGvkF00DI)
 - [Agnes Obel - Dorian (Official Video)](https://www.youtube.com/watch?v=wZN1HKn3Qus)
 - [Agnes Obel - Aventine (Official Video)](https://www.youtube.com/watch?v=VBLCqJNPoBw)
@@ -70,6 +69,7 @@ styles: ["Folk"]
 - [Agnes Obel - Pass Them By](https://www.youtube.com/watch?v=ELfqgI-X3yA)
 - [Agnes Obel - Words Are Dead](https://www.youtube.com/watch?v=hZpn7Cde1w8)
 - [Agnes Obel - Fivefold](https://www.youtube.com/watch?v=nBqvRZQbFdA)
+- [Agnes Obel - Smoke And Mirrors](https://www.youtube.com/watch?v=QOGQx4khAG0)
 
 
 ## Release Information

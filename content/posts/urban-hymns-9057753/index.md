@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Echo Bass
-{{< youtube id="PV4iqmJayhw" title="Echo Bass" >}}<br>
+### Bitter Sweet Symphony (MSG Version)
+{{< youtube id="I6MdbXqQhl0" title="Bitter Sweet Symphony (MSG Version)" >}}<br>
 
 ### More Videos
 
@@ -67,12 +67,12 @@ styles: ["Alternative Rock", "Britpop"]
 - [Country Song](https://www.youtube.com/watch?v=abQ-akIlY_U)
 - [Bitter Sweet Symphony (James Lavelle Remix)](https://www.youtube.com/watch?v=qeXNol9xVMk)
 - [So Sister](https://www.youtube.com/watch?v=D0aDnjNZImE)
+- [Echo Bass](https://www.youtube.com/watch?v=PV4iqmJayhw)
 - [Three Steps](https://www.youtube.com/watch?v=VFiM4FORyC8)
 - [The Drugs Don't Work (Demo)](https://www.youtube.com/watch?v=UpQ66S4peNM)
 - [The Crab](https://www.youtube.com/watch?v=urlZ0LPk8Kk)
 - [Stamped](https://www.youtube.com/watch?v=LQUe_NwBnJg)
 - [Never Wanna See You Cry](https://www.youtube.com/watch?v=EEFSpz974A8)
-- [Bitter Sweet Symphony (MSG Version)](https://www.youtube.com/watch?v=I6MdbXqQhl0)
 - [The Longest Day](https://www.youtube.com/watch?v=KD7bW8BsY9g)
 - [Lucky Man (Happiness More Or Less Mix)](https://www.youtube.com/watch?v=o0Xe0vswleo)
 - [Bitter Sweet Symphony (Extended Version)](https://www.youtube.com/watch?v=1WTATreAg08)

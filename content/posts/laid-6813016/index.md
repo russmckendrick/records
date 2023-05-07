@@ -41,18 +41,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### James - Out to get you
-{{< youtube id="rZ_ePY2CjRw" title="James - Out to get you" >}}<br>
+### James - Laid (Version 3) [Official Video]
+{{< youtube id="0trh9Y598fM" title="James - Laid (Version 3) [Official Video]" >}}<br>
 
 ### More Videos
 
+- [James - Out to get you](https://www.youtube.com/watch?v=rZ_ePY2CjRw)
 - [James - Sometimes](https://www.youtube.com/watch?v=ejU5YAHN3vQ)
 - [James - Sometimes](https://www.youtube.com/watch?v=LGfnw4YscBA)
 - [James - One Of The Three (Video Subtitulado)](https://www.youtube.com/watch?v=K2hqxNywzIA)
 - [James - Say Something](https://www.youtube.com/watch?v=icehffFWOck)
 - [James - Say Something (US Version)](https://www.youtube.com/watch?v=50dZQkrqxAk)
 - [James - Laid (Version 2)](https://www.youtube.com/watch?v=g_qZ5B-yioU)
-- [James - Laid (Version 3) [Official Video]](https://www.youtube.com/watch?v=0trh9Y598fM)
 
 
 ## Release Information

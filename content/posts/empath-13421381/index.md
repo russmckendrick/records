@@ -48,14 +48,14 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 
 
 ## Videos
-### Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition
-{{< youtube id="ZDrwCSoia6M" title="Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition" >}}<br>
+### Hear Me
+{{< youtube id="NOoBfVFQdQg" title="Hear Me" >}}<br>
 
 ### More Videos
 
 - [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
+- [Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition](https://www.youtube.com/watch?v=ZDrwCSoia6M)
 - [Sprite](https://www.youtube.com/watch?v=HsPqxO7lVaM)
-- [Hear Me](https://www.youtube.com/watch?v=NOoBfVFQdQg)
 - [Why?](https://www.youtube.com/watch?v=Ob8IsKzRPwg)
 - [Singularity](https://www.youtube.com/watch?v=RDSaodyiBQo)
 - [DEVIN TOWNSEND - Genesis (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=1n7uvokARQ4)

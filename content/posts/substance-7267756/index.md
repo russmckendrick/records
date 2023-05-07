@@ -47,20 +47,20 @@ styles: ["Post-Punk", "New Wave"]
 
 
 ## Videos
-### Digital (2010 Remaster)
-{{< youtube id="MnnWHhAJktM" title="Digital (2010 Remaster)" >}}<br>
+### Love Will Tear Us Apart (2010 Remaster)
+{{< youtube id="mAAqKx4aD_g" title="Love Will Tear Us Apart (2010 Remaster)" >}}<br>
 
 ### More Videos
 
 - [Warsaw (2010 Remaster)](https://www.youtube.com/watch?v=gtSFtvXgeRk)
 - [Leaders of Men (2010 Remaster)](https://www.youtube.com/watch?v=iQjGHxQ2nn4)
+- [Digital (2010 Remaster)](https://www.youtube.com/watch?v=MnnWHhAJktM)
 - [Joy Division - Autosuggestion](https://www.youtube.com/watch?v=qrX5d6pt60k)
 - [Transmission (2010 Remaster)](https://www.youtube.com/watch?v=Kx3EqNYQklg)
 - [She's Lost Control (2010 Remaster)](https://www.youtube.com/watch?v=Hzd5inljWhA)
 - [Incubation (2010 Remaster)](https://www.youtube.com/watch?v=12q03RA0HKY)
 - [Dead Souls (2010 Remaster)](https://www.youtube.com/watch?v=mKWHa65cmns)
 - [Atmosphere (2010 Remaster)](https://www.youtube.com/watch?v=KSYBW8JlijM)
-- [Love Will Tear Us Apart (2010 Remaster)](https://www.youtube.com/watch?v=mAAqKx4aD_g)
 - [No Love Lost (2010 Remaster)](https://www.youtube.com/watch?v=5v8Frk_37-Y)
 - [Failures (2010 Remaster)](https://www.youtube.com/watch?v=7Bbb86ajF3U)
 - [Glass (2010 Remaster)](https://www.youtube.com/watch?v=iI-IoAEGV4U)

@@ -39,12 +39,12 @@ styles: ["Britpop"]
 
 
 ## Videos
-### Oasis - The Masterplan - 1998 (FULL ALBUM)
-{{< youtube id="jFMtTIh1zjM" title="Oasis - The Masterplan - 1998 (FULL ALBUM)" >}}<br>
+### Oasis - The Masterplan
+{{< youtube id="dPPi2D6GK7A" title="Oasis - The Masterplan" >}}<br>
 
 ### More Videos
 
-- [Oasis - The Masterplan](https://www.youtube.com/watch?v=dPPi2D6GK7A)
+- [Oasis - The Masterplan - 1998 (FULL ALBUM)](https://www.youtube.com/watch?v=jFMtTIh1zjM)
 
 
 ## Release Information

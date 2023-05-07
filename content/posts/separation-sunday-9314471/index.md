@@ -39,13 +39,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Hold Steady - Cattle and the Creeping Things
-{{< youtube id="vH73KPV11hE" title="The Hold Steady - Cattle and the Creeping Things" >}}<br>
+### Stevie Nix
+{{< youtube id="IapupJ1gf9I" title="Stevie Nix" >}}<br>
 
 ### More Videos
 
 - [The Hold Steady - How a Resurrection Really Feels](https://www.youtube.com/watch?v=PFiiq2sFD7E)
-- [Stevie Nix](https://www.youtube.com/watch?v=IapupJ1gf9I)
+- [The Hold Steady - Cattle and the Creeping Things](https://www.youtube.com/watch?v=vH73KPV11hE)
 - [Charlemagne in Sweatpants](https://www.youtube.com/watch?v=a1Garm5R3nU)
 - [How a Resurrection Really Feels](https://www.youtube.com/watch?v=OYI4Xj-l1rk)
 - [The Most Important Thing](https://www.youtube.com/watch?v=Df29NhNhANA)

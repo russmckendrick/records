@@ -37,12 +37,12 @@ styles: ["Blues Rock", "Hard Rock"]
 
 
 ## Videos
-### Led Zeppelin - Led Zeppelin I (1969) (Full Album)
-{{< youtube id="G1rJohGD9LA" title="Led Zeppelin - Led Zeppelin I (1969) (Full Album)" >}}<br>
+### Babe, I'm Gonna Leave You - Led Zeppelin HQ (with lyrics)
+{{< youtube id="v0IJPytL-bk" title="Babe, I'm Gonna Leave You - Led Zeppelin HQ (with lyrics)" >}}<br>
 
 ### More Videos
 
-- [Babe, I'm Gonna Leave You - Led Zeppelin HQ (with lyrics)](https://www.youtube.com/watch?v=v0IJPytL-bk)
+- [Led Zeppelin - Led Zeppelin I (1969) (Full Album)](https://www.youtube.com/watch?v=G1rJohGD9LA)
 - [Good Times Bad Times (Remaster)](https://www.youtube.com/watch?v=lsZG7n7ries)
 
 

@@ -39,17 +39,17 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### PiL - Flowers Of Romance
-{{< youtube id="bZhomMUzYUg" title="PiL - Flowers Of Romance" >}}<br>
+### PIL (Public Image Ltd) - Public Image (Public Image)
+{{< youtube id="cifo77azntk" title="PIL (Public Image Ltd) - Public Image (Public Image)" >}}<br>
 
 ### More Videos
 
 - [PIL Greatest Hits](https://www.youtube.com/watch?v=BjFDqPPhP0w)
-- [PIL (Public Image Ltd) - Public Image (Public Image)](https://www.youtube.com/watch?v=cifo77azntk)
 - [PUBLIC IMAGE LIMITED - This Is Not A Love Song](https://www.youtube.com/watch?v=-Kzk1xZCiv8)
 - [Death Disco (Remastered)](https://www.youtube.com/watch?v=Whxd1twSFfM)
 - [Memories (2011 Remaster)](https://www.youtube.com/watch?v=rlM__Fk7d2E)
 - [Careering (2011 Remaster)](https://www.youtube.com/watch?v=2kxpZitrSIQ)
+- [PiL - Flowers Of Romance](https://www.youtube.com/watch?v=bZhomMUzYUg)
 - [Public Image Ltd. - This is Not a Love Song (album version)](https://www.youtube.com/watch?v=GZR-SgyD8R8)
 - [PiL - Rise](https://www.youtube.com/watch?v=mQLfxmuI6YM)
 - [PiL - Home](https://www.youtube.com/watch?v=p3ZlwitRLFY)

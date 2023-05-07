@@ -37,8 +37,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Woodpecker from Mars
-{{< youtube id="FMGA21QxzsM" title="Woodpecker from Mars" >}}<br>
+### Chinese Arithmetic (Live in Sheffield) (B-Side)
+{{< youtube id="0jB7-5-Z_qc" title="Chinese Arithmetic (Live in Sheffield) (B-Side)" >}}<br>
 
 ### More Videos
 
@@ -49,6 +49,7 @@ styles: ["Alternative Rock"]
 - [The Real Thing](https://www.youtube.com/watch?v=HYFDKk4K1tY)
 - [Underwater Love](https://www.youtube.com/watch?v=jQ1N9khfSYc)
 - [The Morning After](https://www.youtube.com/watch?v=LWMjJxpgbgM)
+- [Woodpecker from Mars](https://www.youtube.com/watch?v=FMGA21QxzsM)
 - [War Pigs](https://www.youtube.com/watch?v=pQD-u6FfXp0)
 - [Edge of the World](https://www.youtube.com/watch?v=pDRUHMOXZts)
 - [Sweet Emotion](https://www.youtube.com/watch?v=To7EeBQtBRQ)
@@ -57,7 +58,6 @@ styles: ["Alternative Rock"]
 - [From out of Nowhere (Extended Remix)](https://www.youtube.com/watch?v=7_-Mg20ISiU)
 - [War Pigs (Live in Berlin 11.9.1989)](https://www.youtube.com/watch?v=305qpNQfhq8)
 - [Surprise! You're Dead! (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=Io1zkvfbQrs)
-- [Chinese Arithmetic (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=0jB7-5-Z_qc)
 - [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
 - [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
 

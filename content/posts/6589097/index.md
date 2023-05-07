@@ -44,13 +44,13 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 
 ## Videos
-### Untitled #1 (Vaka)
-{{< youtube id="b8ByoWG1iGo" title="Untitled #1 (Vaka)" >}}<br>
+### Untitled #3 (Samskeyti)
+{{< youtube id="Z7ynnRnQHLw" title="Untitled #3 (Samskeyti)" >}}<br>
 
 ### More Videos
 
+- [Untitled #1 (Vaka)](https://www.youtube.com/watch?v=b8ByoWG1iGo)
 - [Untitled #2 (Fyrsta)](https://www.youtube.com/watch?v=_AzjHRndmvA)
-- [Untitled #3 (Samskeyti)](https://www.youtube.com/watch?v=Z7ynnRnQHLw)
 - [Untitled #4 (Njósnavélin)](https://www.youtube.com/watch?v=Cr5XOZ1uyVE)
 - [Untitled #5 (Álafoss)](https://www.youtube.com/watch?v=F9j6GlC1siw)
 - [Untitled #6 (E-Bow)](https://www.youtube.com/watch?v=WbdT259GLX8)

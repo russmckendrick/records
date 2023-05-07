@@ -38,15 +38,15 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 
 
 ## Videos
-### Space Age Bachelor Pad Music (Mellow)
-{{< youtube id="omLgNwbcPb8" title="Space Age Bachelor Pad Music (Mellow)" >}}<br>
+### Ronco Symphony
+{{< youtube id="zOl52t2OjWI" title="Ronco Symphony" >}}<br>
 
 ### More Videos
 
 - [Avant Garde M.O.R.](https://www.youtube.com/watch?v=40fwESeQ3XE)
+- [Space Age Bachelor Pad Music (Mellow)](https://www.youtube.com/watch?v=omLgNwbcPb8)
 - [The Groop Play Chord X](https://www.youtube.com/watch?v=1ESJ9GXUCWI)
 - [Space Age Bachelor Pad Music (Foamy)](https://www.youtube.com/watch?v=IGBOxp-DMvM)
-- [Ronco Symphony](https://www.youtube.com/watch?v=zOl52t2OjWI)
 - [We're Not Adult Orientated](https://www.youtube.com/watch?v=IKwbQjWq2zQ)
 - [U.H.F. - M.F.P.](https://www.youtube.com/watch?v=bOndzPF8O8g)
 - [We're Not Adult Orientated (Neu Wave Live)](https://www.youtube.com/watch?v=pa3WPWxZ7GM)

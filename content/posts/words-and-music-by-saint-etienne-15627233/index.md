@@ -41,8 +41,8 @@ styles: ["Indie Pop", "Dance-pop"]
 
 
 ## Videos
-### Saint Etienne - Haunted Jukebox
-{{< youtube id="_SswsMjN0TU" title="Saint Etienne - Haunted Jukebox" >}}<br>
+### Saint Etienne - Tonight
+{{< youtube id="UEWEAqNR2XQ" title="Saint Etienne - Tonight" >}}<br>
 
 ### More Videos
 
@@ -55,10 +55,10 @@ styles: ["Indie Pop", "Dance-pop"]
 - [Haunted Jukebox *Saint Etienne*](https://www.youtube.com/watch?v=tjTN83By2Mw)
 - [I Threw It All Away](https://www.youtube.com/watch?v=csAlD1-0l1U)
 - [Saint Etienne - Last Days of Disco](https://www.youtube.com/watch?v=PKM6a6AyyFI)
+- [Saint Etienne - Haunted Jukebox](https://www.youtube.com/watch?v=_SswsMjN0TU)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=tAk6slCEuIw)
 - [Saint Etienne - Popular (Tom Middleton Cosmos Remix)](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
 - [Saint Etienne - I've Got Your Music](https://www.youtube.com/watch?v=3MQmsHPwLvU)
-- [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
 
 
 ## Release Information

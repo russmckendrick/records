@@ -43,13 +43,13 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Silver Sun - Silver Sun (1997) FULL ALBUM
-{{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun (1997) FULL ALBUM" >}}<br>
+### Silver sun- I'll see you around.wmv
+{{< youtube id="-nLWLxHYYyw" title="Silver sun- I'll see you around.wmv" >}}<br>
 
 ### More Videos
 
+- [Silver Sun - Silver Sun (1997) FULL ALBUM](https://www.youtube.com/watch?v=UHrMubFZ0qM)
 - [Silver Sun - Dumb](https://www.youtube.com/watch?v=Y4PJp8nuW34)
-- [Silver sun- I'll see you around.wmv](https://www.youtube.com/watch?v=-nLWLxHYYyw)
 
 
 ## Release Information

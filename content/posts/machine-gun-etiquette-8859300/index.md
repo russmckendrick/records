@@ -40,16 +40,16 @@ styles: ["Punk"]
 
 
 ## Videos
-### Liar
-{{< youtube id="wpZD8c3bvBI" title="Liar" >}}<br>
+### Machine Gun Etiquette
+{{< youtube id="6gqxFAqCRYQ" title="Machine Gun Etiquette" >}}<br>
 
 ### More Videos
 
-- [Machine Gun Etiquette](https://www.youtube.com/watch?v=6gqxFAqCRYQ)
 - [I Just Can't Be Happy Today](https://www.youtube.com/watch?v=Qd529s4Ae30)
 - [Melody Lee](https://www.youtube.com/watch?v=VyLgixqK_1s)
 - [Anti-Pope](https://www.youtube.com/watch?v=zJ16UNwRm5M)
 - [These Hands](https://www.youtube.com/watch?v=WO45ZvujnpY)
+- [Liar](https://www.youtube.com/watch?v=wpZD8c3bvBI)
 - [Noise, Noise, Noise](https://www.youtube.com/watch?v=Eq8aXdJzSUE)
 - [Looking at You](https://www.youtube.com/watch?v=14PKjhC9Fnk)
 - [Smash It Up (Pts. 1 & 2)](https://www.youtube.com/watch?v=z0VdIX2YM9c)

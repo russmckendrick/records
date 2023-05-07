@@ -31,14 +31,14 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Baby Baby - Amy Grant With Lyrics
-{{< youtube id="MvoCxOv6zL0" title="Baby Baby - Amy Grant With Lyrics" >}}<br>
+### Amy Grant Baby Baby (UK radio edit)
+{{< youtube id="TxG8GAdIlCE" title="Amy Grant Baby Baby (UK radio edit)" >}}<br>
 
 ### More Videos
 
 - [Amy Grant - Baby, Baby](https://www.youtube.com/watch?v=vMXuuYnoRdI)
 - [Amy Grant - Baby Baby (Lyric Video) ft. Tori Kelly](https://www.youtube.com/watch?v=euMfgdv_TWw)
-- [Amy Grant Baby Baby (UK radio edit)](https://www.youtube.com/watch?v=TxG8GAdIlCE)
+- [Baby Baby - Amy Grant With Lyrics](https://www.youtube.com/watch?v=MvoCxOv6zL0)
 - [Amy Grant feat. Tori Kelly - “Baby Baby” (Official Audio) from Amy Grant](https://www.youtube.com/watch?v=JGIHP5vcB0s)
 - [Amy Grant - Baby Baby (7 Heart In Motion Mix) (1991)](https://www.youtube.com/watch?v=cqlmQMSt0yg)
 - [Amy Grant / Tori Kelly - Baby Baby (Behind The Scenes)](https://www.youtube.com/watch?v=SjpnDyWlfjg)

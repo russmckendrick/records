@@ -38,15 +38,15 @@ styles: ["Britpop"]
 
 
 ## Videos
-### Pulp - Babies (Official Video)
-{{< youtube id="38by00DGid0" title="Pulp - Babies (Official Video)" >}}<br>
+### Pulp Acrylic Afternoons
+{{< youtube id="S__GVGr9LuI" title="Pulp Acrylic Afternoons" >}}<br>
 
 ### More Videos
 
+- [Pulp - Babies (Official Video)](https://www.youtube.com/watch?v=38by00DGid0)
 - [Pulp  - His 'n Hers](https://www.youtube.com/watch?v=djxqJv65CC4)
 - [Pulp - Lipgloss](https://www.youtube.com/watch?v=1MDpGCTdJxw)
 - [Pulp - Do You Remember The First Time (Promo)](https://www.youtube.com/watch?v=sPGepgWupTw)
-- [Pulp Acrylic Afternoons](https://www.youtube.com/watch?v=S__GVGr9LuI)
 - [Pulp - Pink Glove](https://www.youtube.com/watch?v=N2GvX8oWB-o)
 - [pulp - she's a lady](https://www.youtube.com/watch?v=TovAH2NaYso)
 - [Pulp ‎‎– Joyriders](https://www.youtube.com/watch?v=ko-Uhyt6Y3M)

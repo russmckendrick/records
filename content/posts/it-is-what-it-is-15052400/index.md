@@ -43,8 +43,8 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 
 
 ## Videos
-### Thundercat - 'Dragonball Durag' (Official Video)
-{{< youtube id="ormQQG2UhtQ" title="Thundercat - 'Dragonball Durag' (Official Video)" >}}<br>
+### Existential Dread
+{{< youtube id="f728T_wocZ8" title="Existential Dread" >}}<br>
 
 ### More Videos
 
@@ -58,10 +58,10 @@ styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 - [Overseas](https://www.youtube.com/watch?v=HE-2bO2I_es)
 - [I Love Louis Cole](https://www.youtube.com/watch?v=YHTufn3VWq0)
 - [Unrequited Love](https://www.youtube.com/watch?v=eRo_FFrliAs)
-- [Existential Dread](https://www.youtube.com/watch?v=f728T_wocZ8)
 - [Miguel's Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
 - [It Is What It Is](https://www.youtube.com/watch?v=lqDs_quhy0I)
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
+- [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
 
 ## Release Information

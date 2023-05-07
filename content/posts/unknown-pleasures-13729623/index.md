@@ -40,8 +40,8 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### New Dawn Fades (2007 Remaster)
-{{< youtube id="7j5LmyNNsrE" title="New Dawn Fades (2007 Remaster)" >}}<br>
+### Interzone (2007 Remaster)
+{{< youtube id="WHg4jVrbg60" title="Interzone (2007 Remaster)" >}}<br>
 
 ### More Videos
 
@@ -49,10 +49,10 @@ styles: ["New Wave", "Post-Punk"]
 - [Day of the Lords (2007 Remaster)](https://www.youtube.com/watch?v=WhgaY4fuUvo)
 - [Candidate (2007 Remaster)](https://www.youtube.com/watch?v=4yQhvdOJW8M)
 - [Insight (2007 Remaster)](https://www.youtube.com/watch?v=owjTYe4K1hk)
+- [New Dawn Fades (2007 Remaster)](https://www.youtube.com/watch?v=7j5LmyNNsrE)
 - [She's Lost Control (2007 Remaster)](https://www.youtube.com/watch?v=UBAO9WcdrOM)
 - [Shadowplay (2007 Remaster)](https://www.youtube.com/watch?v=Dvgbk4MkHF8)
 - [Wilderness (2007 Remaster)](https://www.youtube.com/watch?v=jd-A18o15y0)
-- [Interzone (2007 Remaster)](https://www.youtube.com/watch?v=WHg4jVrbg60)
 - [I Remember Nothing (2007 Remaster)](https://www.youtube.com/watch?v=NDMxGIyZGgg)
 
 

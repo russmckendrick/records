@@ -52,14 +52,14 @@ styles: ["Folk", "Prog Rock"]
 
 
 ## Videos
-### THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)
-{{< youtube id="2q2Wx5H6wkg" title="THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)" >}}<br>
+### THE GENTLE STORM -  Endless Sea  (Lyric Video - Storm Version)
+{{< youtube id="iPE3j6Gg_r4" title="THE GENTLE STORM -  Endless Sea  (Lyric Video - Storm Version)" >}}<br>
 
 ### More Videos
 
 - [THE GENTLE STORM - Shores Of India (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=nY0Y1AwOyw0)
-- [THE GENTLE STORM -  Endless Sea  (Lyric Video - Storm Version)](https://www.youtube.com/watch?v=iPE3j6Gg_r4)
 - [The Gentle Storm - The Storm](https://www.youtube.com/watch?v=ZaqGcJBFXPk)
+- [THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=2q2Wx5H6wkg)
 - [THE GENTLE STORM - Endless Sea (LYRIC VIDEO) (Gentle Version)](https://www.youtube.com/watch?v=ml-v1bgMJDQ)
 
 

@@ -36,12 +36,12 @@ styles: ["New Wave", "Punk"]
 
 
 ## Videos
-### Venus
-{{< youtube id="dsOYZcP9o-4" title="Venus" >}}<br>
+### See No Evil
+{{< youtube id="puIM6LkKLpI" title="See No Evil" >}}<br>
 
 ### More Videos
 
-- [See No Evil](https://www.youtube.com/watch?v=puIM6LkKLpI)
+- [Venus](https://www.youtube.com/watch?v=dsOYZcP9o-4)
 - [Friction](https://www.youtube.com/watch?v=vkXDUMQ6nLM)
 - [Marquee Moon](https://www.youtube.com/watch?v=g4myghLPLZc)
 - [Elevation](https://www.youtube.com/watch?v=VAdRgg9K-Jw)

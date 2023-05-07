@@ -59,8 +59,8 @@ styles: []
 
 
 ## Videos
-### Layla (40th Anniversary Version / 2010 Remastered)
-{{< youtube id="XVGTGW0cCw8" title="Layla (40th Anniversary Version / 2010 Remastered)" >}}<br>
+### Derek and the Dominos - I Am Yours
+{{< youtube id="DO6TvPqCQCo" title="Derek and the Dominos - I Am Yours" >}}<br>
 
 ### More Videos
 
@@ -68,7 +68,6 @@ styles: []
 - [Derek And The Dominos - Bell Bottom Blues ( studio version)](https://www.youtube.com/watch?v=BKAYGVIkbok)
 - [Derek and the Dominos - Keep on Growing](https://www.youtube.com/watch?v=jUVUJ_Wbw4E)
 - [Derek and the Dominos - Nobody Knows You When You're Down and Out](https://www.youtube.com/watch?v=S0vVSzr1ee4)
-- [Derek and the Dominos - I Am Yours](https://www.youtube.com/watch?v=DO6TvPqCQCo)
 - [Derek and the Dominos - Anyday](https://www.youtube.com/watch?v=QrWK5XWuGpk)
 - [Derek and the Dominos - Key to the Highway](https://www.youtube.com/watch?v=f3dW5F6GKTs)
 - [Derek and the Dominos - Tell the Truth](https://www.youtube.com/watch?v=ml5K4BgrcaQ)
@@ -76,6 +75,7 @@ styles: []
 - [Derek and the Dominos - Have You Ever Loved a Woman](https://www.youtube.com/watch?v=a73Lxi-o388)
 - [Derek and the Dominos - Little Wing (Studio)](https://www.youtube.com/watch?v=jLPHz8KT9No)
 - [Derek and the Dominos - It's Too Late](https://www.youtube.com/watch?v=t1pYDgR6zhE)
+- [Layla (40th Anniversary Version / 2010 Remastered)](https://www.youtube.com/watch?v=XVGTGW0cCw8)
 - [Derek and the Dominos - Thorn Tree in the Garden](https://www.youtube.com/watch?v=DrofkmicrRM)
 
 

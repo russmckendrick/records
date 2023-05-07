@@ -49,8 +49,8 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 
 
 ## Videos
-### The Only Star In Heaven
-{{< youtube id="H45pKYBmsLA" title="The Only Star In Heaven" >}}<br>
+### Two Tribes
+{{< youtube id="o7jrM8E82Sw" title="Two Tribes" >}}<br>
 
 ### More Videos
 
@@ -60,7 +60,6 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 - [Welcome To The Pleasuredome](https://www.youtube.com/watch?v=XcSLxE_a-H8)
 - [Relax](https://www.youtube.com/watch?v=pJ2L1dh-dSo)
 - [War](https://www.youtube.com/watch?v=EPA9B3YZtlc)
-- [Two Tribes](https://www.youtube.com/watch?v=o7jrM8E82Sw)
 - [Tag](https://www.youtube.com/watch?v=3MoWj2Qrezc)
 - [Fury](https://www.youtube.com/watch?v=t9AsldPY2ts)
 - [Born To Run](https://www.youtube.com/watch?v=2g5lMRzPLZw)
@@ -69,6 +68,7 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 - [The Ballad of 32](https://www.youtube.com/watch?v=OWHHk3UvSo4)
 - [Krisco Kisses](https://www.youtube.com/watch?v=_P8l1Y-tNow)
 - [Black Night White Light](https://www.youtube.com/watch?v=pIy3Jv3ejAI)
+- [The Only Star In Heaven](https://www.youtube.com/watch?v=H45pKYBmsLA)
 - [The Power Of Love](https://www.youtube.com/watch?v=3-APuH5b46M)
 - [Bang](https://www.youtube.com/watch?v=49rN_5MNO98)
 

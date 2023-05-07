@@ -46,12 +46,12 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Belle and Sebastian - We Were Beautiful
-{{< youtube id="qlAfus-n9-U" title="Belle and Sebastian - We Were Beautiful" >}}<br>
+### Belle and Sebastian - I'll Be Your Pilot
+{{< youtube id="JsL1fVhaNbg" title="Belle and Sebastian - I'll Be Your Pilot" >}}<br>
 
 ### More Videos
 
-- [Belle and Sebastian - I'll Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
+- [Belle and Sebastian - We Were Beautiful](https://www.youtube.com/watch?v=qlAfus-n9-U)
 
 
 ## Release Information

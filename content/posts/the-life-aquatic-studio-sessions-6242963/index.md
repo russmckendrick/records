@@ -42,15 +42,14 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 
 
 ## Videos
-### Team Zissou
-{{< youtube id="SRq7izFVDO4" title="Team Zissou" >}}<br>
+### Ziggy Stardust
+{{< youtube id="eO4Y1I1pmXo" title="Ziggy Stardust" >}}<br>
 
 ### More Videos
 
 - [Rebel Rebel](https://www.youtube.com/watch?v=-D_3bPt0wcw)
 - [Life On Mars?](https://www.youtube.com/watch?v=l-Sx_NgkpTs)
 - [Starman](https://www.youtube.com/watch?v=A-izaHiBdfE)
-- [Ziggy Stardust](https://www.youtube.com/watch?v=eO4Y1I1pmXo)
 - [Lady Stardust](https://www.youtube.com/watch?v=PtNsulPqGQA)
 - [Changes](https://www.youtube.com/watch?v=hVJyDvOeQfA)
 - [Oh! You Pretty Things](https://www.youtube.com/watch?v=U2TC3A2GaMo)
@@ -60,6 +59,7 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 - [Queen Bitch](https://www.youtube.com/watch?v=pXvMddhYGew)
 - [When I Live My Dream](https://www.youtube.com/watch?v=YA8G9O6V6Ws)
 - [Quicksand](https://www.youtube.com/watch?v=2P5GExUP_FM)
+- [Team Zissou](https://www.youtube.com/watch?v=SRq7izFVDO4)
 
 
 ## Release Information

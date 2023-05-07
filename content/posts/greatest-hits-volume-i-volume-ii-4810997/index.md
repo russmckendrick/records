@@ -49,12 +49,12 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 
 
 ## Videos
-### Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP
-{{< youtube id="wltzv3no6bY" title="Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP" >}}<br>
+### She's Always a Woman - BILLY JOEL ~ from the album Greatest Hits / Volume I & II (1985)
+{{< youtube id="8mCmCvZ7dLA" title="She's Always a Woman - BILLY JOEL ~ from the album Greatest Hits / Volume I & II (1985)" >}}<br>
 
 ### More Videos
 
-- [She's Always a Woman - BILLY JOEL ~ from the album Greatest Hits / Volume I & II (1985)](https://www.youtube.com/watch?v=8mCmCvZ7dLA)
+- [Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP](https://www.youtube.com/watch?v=wltzv3no6bY)
 
 
 ## Release Information

@@ -35,8 +35,8 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Dexys Midnight Runners - The Celtic Soul Brothers
-{{< youtube id="sQkkzNic1Vs" title="Dexys Midnight Runners - The Celtic Soul Brothers" >}}<br>
+### Until I Believe In My Soul (As It Should Have Sounded 2022)
+{{< youtube id="VvrDUFcrxIs" title="Until I Believe In My Soul (As It Should Have Sounded 2022)" >}}<br>
 
 ### More Videos
 
@@ -51,6 +51,7 @@ styles: ["Pop Rock"]
 - [T.S.O.P. [Live]](https://www.youtube.com/watch?v=EMbsPhGM3AI)
 - [Let's Make This Precious (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=deew4kIh7kc)
 - [Dexys Midnight Runners - Come On Eileen (HD)](https://www.youtube.com/watch?v=VjG3kdUp8qc)
+- [Dexys Midnight Runners - The Celtic Soul Brothers](https://www.youtube.com/watch?v=sQkkzNic1Vs)
 - [Dexy's Midnight Runners : The Celtic Soul Brothers  (Australian TV 1983)](https://www.youtube.com/watch?v=hENk6H_0PUM)
 - [All In All (This One Last Wild Waltz)](https://www.youtube.com/watch?v=zJpbO8_2aqQ)
 - [Dexy's Midnight Runners - Plan B/I'll Show You](https://www.youtube.com/watch?v=4CTfGEFaV3A)
@@ -62,7 +63,6 @@ styles: ["Pop Rock"]
 - [Plan B (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=uZHKz9y5Nyg)
 - [I'll Show You (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=KfJGMJnvUVg)
 - [Liars A To E (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fJdPH1xcsZo)
-- [Until I Believe In My Soul (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=VvrDUFcrxIs)
 - [Come On Eileen (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fVaQeoWzwRU)
 
 

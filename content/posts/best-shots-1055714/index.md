@@ -40,12 +40,12 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 
 
 ## Videos
-### Pat Benatar - Love is a battlefield 1984
-{{< youtube id="0q2jL8hpT_0" title="Pat Benatar - Love is a battlefield 1984" >}}<br>
+### Pat Benatar- Hit Me With Your Best Shot
+{{< youtube id="x5kisPBwZOM" title="Pat Benatar- Hit Me With Your Best Shot" >}}<br>
 
 ### More Videos
 
-- [Pat Benatar- Hit Me With Your Best Shot](https://www.youtube.com/watch?v=x5kisPBwZOM)
+- [Pat Benatar - Love is a battlefield 1984](https://www.youtube.com/watch?v=0q2jL8hpT_0)
 
 
 ## Release Information

@@ -35,15 +35,15 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 
 
 ## Videos
-### Good Girl / Carrots
-{{< youtube id="iRk1DM04GfA" title="Good Girl / Carrots" >}}<br>
+### Take Pills
+{{< youtube id="ggKdy2n_DXA" title="Take Pills" >}}<br>
 
 ### More Videos
 
 - [Comfy In Nautica](https://www.youtube.com/watch?v=7xqOz_YqDxM)
-- [Take Pills](https://www.youtube.com/watch?v=ggKdy2n_DXA)
 - [Bros](https://www.youtube.com/watch?v=pxBvg6QSZZw)
 - [I'm Not](https://www.youtube.com/watch?v=_98TZ-rxLos)
+- [Good Girl / Carrots](https://www.youtube.com/watch?v=iRk1DM04GfA)
 - [Search For Delicious](https://www.youtube.com/watch?v=Hiz0C5hQsxU)
 - [Ponytail](https://www.youtube.com/watch?v=EgDqnQLX6hk)
 

@@ -40,13 +40,13 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 
 ## Videos
-### If I Were with Her Now
-{{< youtube id="zi016ZvkMFM" title="If I Were with Her Now" >}}<br>
+### You Know It's True
+{{< youtube id="1jt6Do5O2mg" title="You Know It's True" >}}<br>
 
 ### More Videos
 
-- [You Know It's True](https://www.youtube.com/watch?v=1jt6Do5O2mg)
 - [Spiritualized - Run (Video)](https://www.youtube.com/watch?v=NtVuqjd5oSc)
+- [If I Were with Her Now](https://www.youtube.com/watch?v=zi016ZvkMFM)
 - [Spiritualized - Lazer Guided Melodies (Full Album Stream)](https://www.youtube.com/watch?v=gkPPxLm50V0)
 - [I Want You](https://www.youtube.com/watch?v=EcaKOuChJlk)
 - [Run](https://www.youtube.com/watch?v=VD8x88wzyI4)

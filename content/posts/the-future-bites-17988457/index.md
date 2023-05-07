@@ -37,12 +37,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### S͟teven W͟ilson - The Future Bites (Full Album) 2021
-{{< youtube id="fd7NTkWEBHo" title="S͟teven W͟ilson - The Future Bites (Full Album) 2021" >}}<br>
+### COUNT OF UNEASE
+{{< youtube id="wsoA82vOtns" title="COUNT OF UNEASE" >}}<br>
 
 ### More Videos
 
 - [Steven Wilson - SELF (Official Video)](https://www.youtube.com/watch?v=UroVey4fJ_g)
+- [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
 - [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
 - [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
 - [Steven Wilson - KING GHOST (Official Video)](https://www.youtube.com/watch?v=zSvdLcS62ZM)
@@ -53,7 +54,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)](https://www.youtube.com/watch?v=G_yW8ornhK4)
 - [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
 - [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
-- [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 
 

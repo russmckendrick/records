@@ -38,13 +38,13 @@ styles: ["Art Rock", "Post Rock"]
 
 
 ## Videos
-### Mogwai - Friend of the Night
-{{< youtube id="yC_3alnTE9g" title="Mogwai - Friend of the Night" >}}<br>
+### Mogwai Auto Rock @ Les Nuits De Fourvière 2014
+{{< youtube id="5uyznyJQFI0" title="Mogwai Auto Rock @ Les Nuits De Fourvière 2014" >}}<br>
 
 ### More Videos
 
-- [Mogwai Auto Rock @ Les Nuits De Fourvière 2014](https://www.youtube.com/watch?v=5uyznyJQFI0)
 - [Mogwai - Travel Is Dangerous (Official Video - 2006)](https://www.youtube.com/watch?v=BqXv_7j3Ryc)
+- [Mogwai - Friend of the Night](https://www.youtube.com/watch?v=yC_3alnTE9g)
 
 
 ## Release Information

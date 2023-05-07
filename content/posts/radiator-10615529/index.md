@@ -42,12 +42,12 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 
 
 ## Videos
-### Super Furry Animals - Demons (Video)
-{{< youtube id="BmvwINJeLKU" title="Super Furry Animals - Demons (Video)" >}}<br>
+### Super Furry Animals - Hermann Loves Pauline (Video)
+{{< youtube id="njhQ23ZKjFU" title="Super Furry Animals - Hermann Loves Pauline (Video)" >}}<br>
 
 ### More Videos
 
-- [Super Furry Animals - Hermann Loves Pauline (Video)](https://www.youtube.com/watch?v=njhQ23ZKjFU)
+- [Super Furry Animals - Demons (Video)](https://www.youtube.com/watch?v=BmvwINJeLKU)
 
 
 ## Release Information

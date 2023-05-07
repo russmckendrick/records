@@ -36,13 +36,13 @@ styles: ["Indie Rock", "Folk Rock"]
 
 
 ## Videos
-### Decemberists preview 'i'll be your girl' lp with new 'severed' video
-{{< youtube id="A8zrQYAygeo" title="Decemberists preview 'i'll be your girl' lp with new 'severed' video" >}}<br>
+### The Decemberists - Severed
+{{< youtube id="ksTFj6L0mao" title="The Decemberists - Severed" >}}<br>
 
 ### More Videos
 
-- [The Decemberists - Severed](https://www.youtube.com/watch?v=ksTFj6L0mao)
 - [The Decemberists - Once In My Life (Audio)](https://www.youtube.com/watch?v=hMiFPHWQ5Yw)
+- [Decemberists preview 'i'll be your girl' lp with new 'severed' video](https://www.youtube.com/watch?v=A8zrQYAygeo)
 
 
 ## Release Information

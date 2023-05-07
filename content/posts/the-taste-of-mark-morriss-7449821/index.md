@@ -40,13 +40,13 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### This Pullover
-{{< youtube id="yq-NOQHY1xI" title="This Pullover" >}}<br>
+### Souvenir
+{{< youtube id="6RGWoXzmp7k" title="Souvenir" >}}<br>
 
 ### More Videos
 
-- [Souvenir](https://www.youtube.com/watch?v=6RGWoXzmp7k)
 - [You Are My Friend](https://www.youtube.com/watch?v=n3V6cL8M2ao)
+- [This Pullover](https://www.youtube.com/watch?v=yq-NOQHY1xI)
 
 
 ## Release Information

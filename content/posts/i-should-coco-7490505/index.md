@@ -43,13 +43,13 @@ styles: ["Alternative Rock", "Britpop"]
 
 
 ## Videos
-### Supergrass - Alright (Official HD Video)
-{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright (Official HD Video)" >}}<br>
+### Supergrass - Mansize Rooster (Official HD Video)
+{{< youtube id="dHlLcVHncDw" title="Supergrass - Mansize Rooster (Official HD Video)" >}}<br>
 
 ### More Videos
 
 - [Supergrass - Caught By The Fuzz (Official HD Video - US Version)](https://www.youtube.com/watch?v=GNIMuvbiZcc)
-- [Supergrass - Mansize Rooster (Official HD Video)](https://www.youtube.com/watch?v=dHlLcVHncDw)
+- [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
 
 
 ## Release Information

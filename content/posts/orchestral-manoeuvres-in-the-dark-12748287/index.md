@@ -38,8 +38,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Julia's Song (Remastered 2003)
-{{< youtube id="M2irYat2wf4" title="Julia's Song (Remastered 2003)" >}}<br>
+### Electricity (Hannett/Cargo Studios Version / Remastered 2003)
+{{< youtube id="n2-RNug1XoI" title="Electricity (Hannett/Cargo Studios Version / Remastered 2003)" >}}<br>
 
 ### More Videos
 
@@ -50,6 +50,7 @@ styles: ["Synth-pop"]
 - [Electricity (Remastered 2003)](https://www.youtube.com/watch?v=SJpX-wNgZ00)
 - [The Messerschmitt Twins (Remastered 2003)](https://www.youtube.com/watch?v=z_oVRJ088BE)
 - [Messages (Remastered 2003)](https://www.youtube.com/watch?v=6P4ELM0nB9M)
+- [Julia's Song (Remastered 2003)](https://www.youtube.com/watch?v=M2irYat2wf4)
 - [Red Frame/White Light (Remastered 2003)](https://www.youtube.com/watch?v=fibz9Z0IXYA)
 - [Dancing (Remastered 2003)](https://www.youtube.com/watch?v=VVaDw5zU9do)
 - [Pretending To See The Future (Remastered 2003)](https://www.youtube.com/watch?v=1YXu7vRJ5tA)
@@ -57,7 +58,6 @@ styles: ["Synth-pop"]
 - [I Betray My Friends (Remastered 2003)](https://www.youtube.com/watch?v=W4FL4SOBwh8)
 - [Taking Sides Again (Remastered 2003)](https://www.youtube.com/watch?v=STMujfrPghs)
 - [Waiting For The Man (Remastered 2003)](https://www.youtube.com/watch?v=k5bQ9BL5NTc)
-- [Electricity (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=n2-RNug1XoI)
 - [Almost (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=e9LDb3bgq3c)
 
 

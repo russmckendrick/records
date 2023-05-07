@@ -51,8 +51,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### The Gentle Art of Making Enemies
-{{< youtube id="l_HtpFAlPWY" title="The Gentle Art of Making Enemies" >}}<br>
+### Get Out
+{{< youtube id="FOkh5hxPY6s" title="Get Out" >}}<br>
 
 ### More Videos
 
@@ -63,7 +63,7 @@ styles: ["Alternative Rock", "Hard Rock"]
 - [Faith No More - Digging The Grave](https://www.youtube.com/watch?v=mhyzG5nTUH0)
 - [Faith No More - Digging The Grave (Official Music Video)](https://www.youtube.com/watch?v=CANh13XKFVk)
 - [King for a Day, Fool for a Lifetime (2016 Remaster)](https://www.youtube.com/watch?v=Rb1cld8WtSE)
-- [Get Out](https://www.youtube.com/watch?v=FOkh5hxPY6s)
+- [The Gentle Art of Making Enemies](https://www.youtube.com/watch?v=l_HtpFAlPWY)
 - [Star A.D.](https://www.youtube.com/watch?v=xALb75mMnJ0)
 - [Cuckoo for Caca](https://www.youtube.com/watch?v=pPJSHpRhge8)
 - [Caralho Voador](https://www.youtube.com/watch?v=tsm9VlnRJdM)

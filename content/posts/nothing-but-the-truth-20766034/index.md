@@ -45,8 +45,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Driving Like Maniacs (Nothing But The Truth)
-{{< youtube id="DvPRkwAXuYg" title="Driving Like Maniacs (Nothing But The Truth)" >}}<br>
+### The Pineapple Thief - Someone Pull Me Out of Here
+{{< youtube id="hKYOamo5BkY" title="The Pineapple Thief - Someone Pull Me Out of Here" >}}<br>
 
 ### More Videos
 
@@ -56,7 +56,7 @@ styles: ["Prog Rock"]
 - [The Pineapple Thief - Our Mire](https://www.youtube.com/watch?v=fXK3bTcUDOs)
 - [Build a World (Nothing But The Truth)](https://www.youtube.com/watch?v=vP57XBhB5-0)
 - [Demons (Nothing But The Truth)](https://www.youtube.com/watch?v=rljS4gjt02E)
-- [The Pineapple Thief - Someone Pull Me Out of Here](https://www.youtube.com/watch?v=hKYOamo5BkY)
+- [Driving Like Maniacs (Nothing But The Truth)](https://www.youtube.com/watch?v=DvPRkwAXuYg)
 - [Uncovering Your Tracks (Nothing But The Truth)](https://www.youtube.com/watch?v=r8MUOwUCDIQ)
 - [Break It All (Nothing But The Truth)](https://www.youtube.com/watch?v=l4VIlJJH1dk)
 - [White Mist (Nothing But The Truth)](https://www.youtube.com/watch?v=lMmZyB1zS_Y)

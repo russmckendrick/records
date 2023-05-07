@@ -41,8 +41,8 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 
 
 ## Videos
-### Return to the Journey
-{{< youtube id="-czZoYtzB9c" title="Return to the Journey" >}}<br>
+### Thundercat- Is It Love?
+{{< youtube id="ijiP-FSjDxU" title="Thundercat- Is It Love?" >}}<br>
 
 ### More Videos
 
@@ -57,8 +57,8 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 - [It Really Doesn't Matter to You](https://www.youtube.com/watch?v=VS4L2K-CLUI)
 - [Seasons](https://www.youtube.com/watch?v=_0jVG1zcJSo)
 - [Boat Cruise](https://www.youtube.com/watch?v=O9k-B_46fMg)
+- [Return to the Journey](https://www.youtube.com/watch?v=-czZoYtzB9c)
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
-- [Thundercat- Is It Love?](https://www.youtube.com/watch?v=ijiP-FSjDxU)
 
 
 ## Release Information

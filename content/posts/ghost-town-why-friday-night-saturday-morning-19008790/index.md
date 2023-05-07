@@ -29,7 +29,7 @@ styles: ["Ska", "Rocksteady"]
 
 ## Videos
 ### Ghost Town (Re-Recorded)
-{{< youtube id="TgOCumR2GxI" title="Ghost Town (Re-Recorded)" >}}<br>
+{{< youtube id="bUpuTqCW41I" title="Ghost Town (Re-Recorded)" >}}<br>
 
 ### More Videos
 
@@ -59,7 +59,6 @@ styles: ["Ska", "Rocksteady"]
 - [Ghost Town (Extended Version)](https://www.youtube.com/watch?v=qiCxtmIDq5I)
 - [Ghost Town](https://www.youtube.com/watch?v=d0qnu1ZYcys)
 - [Ghost Town](https://www.youtube.com/watch?v=X46whHwfEdo)
-- [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=bUpuTqCW41I)
 - [Ghost Town](https://www.youtube.com/watch?v=UF392XbwzPk)
 - [Ghost Town](https://www.youtube.com/watch?v=njEAldevfpc)
 - [Ghost Town](https://www.youtube.com/watch?v=TMRcz1-Cl4k)
@@ -99,6 +98,7 @@ styles: ["Ska", "Rocksteady"]
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=sC3BLJetUHU)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=QhGCeoc2QRs)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=zWdukGVU17Q)
+- [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=TgOCumR2GxI)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=oetKVHBFWmk)
 - [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
 - [Friday Night, Saturday Morning](https://www.youtube.com/watch?v=Mn9ldQNt_OQ)

@@ -40,14 +40,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Gomez - Get Miles Vinyl Rip from Bring It On (1998)
-{{< youtube id="eMtfb1j5sw0" title="Gomez - Get Miles Vinyl Rip from Bring It On (1998)" >}}<br>
+### Gomez - Bring It On
+{{< youtube id="F2vJBaq6zlE" title="Gomez - Bring It On" >}}<br>
 
 ### More Videos
 
+- [Gomez - Get Miles Vinyl Rip from Bring It On (1998)](https://www.youtube.com/watch?v=eMtfb1j5sw0)
 - [Get Miles](https://www.youtube.com/watch?v=8hEFQsqWhUQ)
 - [Gomez - Tijuana Lady](https://www.youtube.com/watch?v=1ojprhey24c)
-- [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
 
 
 ## Release Information

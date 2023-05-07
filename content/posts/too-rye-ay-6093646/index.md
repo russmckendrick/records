@@ -35,12 +35,11 @@ styles: []
 
 
 ## Videos
-### Plan B (As It Should Have Sounded 2022)
-{{< youtube id="uZHKz9y5Nyg" title="Plan B (As It Should Have Sounded 2022)" >}}<br>
+### Too-Rye-Ay
+{{< youtube id="v2DYDWModyg" title="Too-Rye-Ay" >}}<br>
 
 ### More Videos
 
-- [Too-Rye-Ay](https://www.youtube.com/watch?v=v2DYDWModyg)
 - [Kevin Rowland & Dexys Midnight Runners - Until I Belive In My Soul (Original)](https://www.youtube.com/watch?v=zEiRtCI6WJI)
 - [Dexys Midnight Runners - Old](https://www.youtube.com/watch?v=wVB9PpwuTJM)
 - [Come On Eileen](https://www.youtube.com/watch?v=GbpnAGajyMc)
@@ -60,6 +59,7 @@ styles: []
 - [Dexy's Midnight Runners - Let's Make This Precious (UK 1982)](https://www.youtube.com/watch?v=zg0KPlYYycY)
 - [Old (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=68Pz0grG40c)
 - [Dexy's Midnight Runners  - All In All (This One Last Wild Waltz)](https://www.youtube.com/watch?v=xRjR6fMbCpI)
+- [Plan B (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=uZHKz9y5Nyg)
 - [I'll Show You (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=KfJGMJnvUVg)
 - [Liars A To E (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=fJdPH1xcsZo)
 - [Until I Believe In My Soul (As It Should Have Sounded 2022)](https://www.youtube.com/watch?v=VvrDUFcrxIs)

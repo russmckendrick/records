@@ -44,8 +44,8 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 
 
 ## Videos
-### Kitty's Back (Live at the Hammersmith Odeon, London '75)
-{{< youtube id="RWRlqFywXTY" title="Kitty's Back (Live at the Hammersmith Odeon, London '75)" >}}<br>
+### Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)
+{{< youtube id="yUGJak2IY2c" title="Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)" >}}<br>
 
 ### More Videos
 
@@ -66,11 +66,11 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 - [Detroit Medley (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=nyQieGYfmfs)
 - [4th of July, Asbury Park (Sandy) (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=f_lSDQy03LY)
 - [Bruce Springsteen - Credits (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=IfSrB5DLT_4)
+- [Kitty's Back (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=RWRlqFywXTY)
 - [Pretty Flamingo - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=2OMF9B-UnLc)
 - [Bruce Springsteen & The E Street Band ‎– Hammersmith Odeon, London '75 - Kitty's Back](https://www.youtube.com/watch?v=CkSPap8PIz4)
 - [Thunder Road - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=bPkPUS148xE)
 - [Kitty's Back (Live at the Hammersmith Odeon, London, UK - November 1975)](https://www.youtube.com/watch?v=MWhGrwrxCkk)
-- [Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)](https://www.youtube.com/watch?v=yUGJak2IY2c)
 - [Lost in the Flood - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=8DvTeI7-kLM)
 - [Wear My Ring Around Your  - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=qfNMOFHIoag)
 - [Bruce Springsteen - For You (Live 1975)](https://www.youtube.com/watch?v=nxyo1bMQyEY)

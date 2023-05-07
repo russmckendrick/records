@@ -38,17 +38,17 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### DOOM SIDE OF THE MOON - ON THE RUN
-{{< youtube id="NAF3MT9vpfU" title="DOOM SIDE OF THE MOON - ON THE RUN" >}}<br>
+### DOOM SIDE OF THE MOON - GREAT GIG IN THE SKY
+{{< youtube id="N_4L3hv4Fp8" title="DOOM SIDE OF THE MOON - GREAT GIG IN THE SKY" >}}<br>
 
 ### More Videos
 
 - [DOOM SIDE OF THE MOON - ECLIPSE](https://www.youtube.com/watch?v=a8HYM6bGtps)
+- [DOOM SIDE OF THE MOON - ON THE RUN](https://www.youtube.com/watch?v=NAF3MT9vpfU)
 - [DOOM SIDE OF THE MOON - US AND THEM](https://www.youtube.com/watch?v=0JSr6nOxrqQ)
 - [DOOM SIDE OF THE MOON - TIME](https://www.youtube.com/watch?v=tBQE9vS_iKU)
 - [DOOM SIDE OF THE MOON - BRAIN DAMAGE](https://www.youtube.com/watch?v=oFywrrHHaVY)
 - [DOOM SIDE OF THE MOON - BREATHE (IN THE AIR)](https://www.youtube.com/watch?v=zsuwZrnSZJ8)
-- [DOOM SIDE OF THE MOON - GREAT GIG IN THE SKY](https://www.youtube.com/watch?v=N_4L3hv4Fp8)
 - [DOOM SIDE OF THE MOON - MONEY](https://www.youtube.com/watch?v=iEG6SdZ7hXQ)
 
 

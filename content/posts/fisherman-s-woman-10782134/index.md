@@ -40,8 +40,8 @@ styles: ["Folk Rock", "Acoustic"]
 
 
 ## Videos
-### Emiliana Torrini - Today Has Been OK
-{{< youtube id="-k0Uxn-TU_0" title="Emiliana Torrini - Today Has Been OK" >}}<br>
+### Emiliana Torrini-Serenade lyrics
+{{< youtube id="giMPPilet8Y" title="Emiliana Torrini-Serenade lyrics" >}}<br>
 
 ### More Videos
 
@@ -53,6 +53,7 @@ styles: ["Folk Rock", "Acoustic"]
 - [Emiliana Torrini - Lifesaver](https://www.youtube.com/watch?v=A2R0Rwqqlzk)
 - [Emiliana Torrini-Lifesaver (FAMU)](https://www.youtube.com/watch?v=K_ebeNtn_0c)
 - [Emiliana Torrini - Honeymoon Child](https://www.youtube.com/watch?v=1sMKw_8Spwo)
+- [Emiliana Torrini - Today Has Been OK](https://www.youtube.com/watch?v=-k0Uxn-TU_0)
 - [Emiliana Torrini - Fisherman's Woman - Today Has Been Ok](https://www.youtube.com/watch?v=CQ0-abF1StE)
 - [Emiliana Torrini - Next Time Around](https://www.youtube.com/watch?v=WMburqgnork)
 - [Emiliana Torrini - Heartstopper](https://www.youtube.com/watch?v=Bt_Mdm-Ew94)
@@ -64,7 +65,6 @@ styles: ["Folk Rock", "Acoustic"]
 - [Emiliana Torrini - Thinking Out Loud](https://www.youtube.com/watch?v=jwG4mM6R9As)
 - [Emiliana Torrini - Thinking out loud](https://www.youtube.com/watch?v=47QZhX2ACLo)
 - [Emiliana Torrini - Serenade](https://www.youtube.com/watch?v=hoLBtOOuM34)
-- [Emiliana Torrini-Serenade lyrics](https://www.youtube.com/watch?v=giMPPilet8Y)
 
 
 ## Release Information

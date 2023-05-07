@@ -34,14 +34,14 @@ styles: ["Alternative Rock", "Goth Rock"]
 
 
 ## Videos
-### HIM  - It's All Tears (Drown In This Love)
-{{< youtube id="kKJl1xDi7Ew" title="HIM  - It's All Tears (Drown In This Love)" >}}<br>
+### HIM - Wicked Game (official video, old version)
+{{< youtube id="GyfbCr0EDss" title="HIM - Wicked Game (official video, old version)" >}}<br>
 
 ### More Videos
 
 - [HIM-When Love And Death Embrace Music Video (HD)](https://www.youtube.com/watch?v=lERFDES7qz4)
 - [HIM - (Don't Fear) The Reaper](https://www.youtube.com/watch?v=jvxRTs9bVoo)
-- [HIM - Wicked Game (official video, old version)](https://www.youtube.com/watch?v=GyfbCr0EDss)
+- [HIM  - It's All Tears (Drown In This Love)](https://www.youtube.com/watch?v=kKJl1xDi7Ew)
 - [HIM - Wicked Game](https://www.youtube.com/watch?v=ZD2OPPQYDec)
 
 

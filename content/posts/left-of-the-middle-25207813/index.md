@@ -40,8 +40,8 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 
 
 ## Videos
-### Natalie Imbruglia   Left of the Middle
-{{< youtube id="oE9FGK-J9jA" title="Natalie Imbruglia   Left of the Middle" >}}<br>
+### Left Of The Middle
+{{< youtube id="_7WwzAfTAyw" title="Left Of The Middle" >}}<br>
 
 ### More Videos
 
@@ -54,6 +54,7 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 - [Natalie Imbruglia - Smoke](https://www.youtube.com/watch?v=JzbjYNUak4I)
 - [Natalie Imbruglia - Torn (Official Video)](https://www.youtube.com/watch?v=VV1XWJN3nJo)
 - [Natalie Imbruglia - Wishing I Was There (Video UK Version) [4K Remastered]](https://www.youtube.com/watch?v=byBOtfWdfZY)
+- [Natalie Imbruglia   Left of the Middle](https://www.youtube.com/watch?v=oE9FGK-J9jA)
 - [One More Addiction](https://www.youtube.com/watch?v=-hOVpna9DDg)
 - [Natalie Imbruglia - Wishing I Was There (Video (US Version)) [4K Remastered]](https://www.youtube.com/watch?v=Fu4_5e1skTM)
 - [Natalie Imbruglia - Big Mistake (Video (SFX Version))](https://www.youtube.com/watch?v=8Jg4VSp7GG0)
@@ -64,7 +65,6 @@ styles: ["Soft Rock", "Pop Rock", "Vocal"]
 - [Impressed](https://www.youtube.com/watch?v=Fp0D91YRtj8)
 - [Intuition](https://www.youtube.com/watch?v=4Clo8te75No)
 - [City](https://www.youtube.com/watch?v=Od9nYiK2rhY)
-- [Left Of The Middle](https://www.youtube.com/watch?v=_7WwzAfTAyw)
 - [Natalie Imbruglia don't you think](https://www.youtube.com/watch?v=JTqHnW29iVI)
 - [Impressed](https://www.youtube.com/watch?v=fs3f3xCU4O4)
 

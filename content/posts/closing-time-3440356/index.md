@@ -40,13 +40,13 @@ styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 
 
 ## Videos
-### Tom Waits - Virginia Avenue
-{{< youtube id="cyCc4miQnos" title="Tom Waits - Virginia Avenue" >}}<br>
+### Tom Waits - Ol' 55
+{{< youtube id="BeeK37wrBDQ" title="Tom Waits - Ol' 55" >}}<br>
 
 ### More Videos
 
-- [Tom Waits - Ol' 55](https://www.youtube.com/watch?v=BeeK37wrBDQ)
 - [Tom Waits - I Hope That I Don't Fall In Love With You](https://www.youtube.com/watch?v=UhZyLn0oVCs)
+- [Tom Waits - Virginia Avenue](https://www.youtube.com/watch?v=cyCc4miQnos)
 - [Tom Waits - Old Shoes (& Picture Postcards)](https://www.youtube.com/watch?v=6MegTgHW6sg)
 - [Tom Waits - Midnight Lullaby](https://www.youtube.com/watch?v=MVe3rJAL6qk)
 - [Tom Waits - Martha](https://www.youtube.com/watch?v=VXQwDb7AUmo)

@@ -48,14 +48,13 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 
 
 ## Videos
-### Kamasi Washington - 'The Message'
-{{< youtube id="gI1wK508370" title="Kamasi Washington - 'The Message'" >}}<br>
+### Kamasi Washington - 'Isabelle'
+{{< youtube id="bCIAMO3Al1A" title="Kamasi Washington - 'Isabelle'" >}}<br>
 
 ### More Videos
 
 - [Kamasi Washington - 'Change of the Guard'](https://www.youtube.com/watch?v=NtQRBzSN9Vw)
 - [Kamasi Washington - 'Askim'](https://www.youtube.com/watch?v=mYdDFZLGx7U)
-- [Kamasi Washington - 'Isabelle'](https://www.youtube.com/watch?v=bCIAMO3Al1A)
 - [Kamasi Washington - 'Final Thought'](https://www.youtube.com/watch?v=YuQdtFb_Z2k)
 - [Kamasi Washington - 'The Next Step'](https://www.youtube.com/watch?v=rQ2bkIfHDl4)
 - [Kamasi Washington - 'The Rhythm Changes'](https://www.youtube.com/watch?v=OkLz4MyDmuE)
@@ -69,6 +68,7 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 - [Kamasi Washington - 'Cherokee'](https://www.youtube.com/watch?v=3DM9fGXHhlk)
 - [Kamasi Washington - 'Clair de Lune'](https://www.youtube.com/watch?v=KqJJ-2cRR0M)
 - [Kamasi Washington - 'Malcolm's Theme'](https://www.youtube.com/watch?v=h-ywrqeQPto)
+- [Kamasi Washington - 'The Message'](https://www.youtube.com/watch?v=gI1wK508370)
 
 
 ## Release Information

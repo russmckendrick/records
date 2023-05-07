@@ -45,18 +45,18 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Sublime - Pawn Shop (Official Video)
-{{< youtube id="gAQ7fGXHFJ8" title="Sublime - Pawn Shop (Official Video)" >}}<br>
+### Sublime - Seed (Official Video)
+{{< youtube id="_dC48Y4Fk34" title="Sublime - Seed (Official Video)" >}}<br>
 
 ### More Videos
 
-- [Sublime - Seed (Official Video)](https://www.youtube.com/watch?v=_dC48Y4Fk34)
 - [Sublime - What I Got (Official Music Video)](https://www.youtube.com/watch?v=0Uc3ZrmhDN4)
 - [Sublime - Santeria (Official Music Video)](https://www.youtube.com/watch?v=AEYN5w4T_aM)
 - [Sublime - Wrong Way (Official Video)](https://www.youtube.com/watch?v=uLifSFBs_Lk)
 - [Sublime - Same In The End (Official Video)](https://www.youtube.com/watch?v=XINAJ7jgg6Y)
 - [Sublime - Garden Grove](https://www.youtube.com/watch?v=qpSo_zj0UQw)
 - [Sublime - Doin' Time (Official Video)](https://www.youtube.com/watch?v=2yT8RsCarJA)
+- [Sublime - Pawn Shop (Official Video)](https://www.youtube.com/watch?v=gAQ7fGXHFJ8)
 
 
 ## Release Information

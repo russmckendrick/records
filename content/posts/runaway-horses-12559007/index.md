@@ -38,8 +38,8 @@ styles: ["Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Vision Of You
-{{< youtube id="q1xXNddPmnk" title="Vision Of You" >}}<br>
+### Shades Of Michaelangelo
+{{< youtube id="c8GV0CxraL4" title="Shades Of Michaelangelo" >}}<br>
 
 ### More Videos
 
@@ -47,13 +47,13 @@ styles: ["Soft Rock", "Pop Rock"]
 - [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=SheKvJKtpdU)
 - [Runaway Horses](https://www.youtube.com/watch?v=2vMM5gjqVUA)
 - [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=lLhqsopncHE)
+- [Vision Of You](https://www.youtube.com/watch?v=q1xXNddPmnk)
 - [Summer Rain](https://www.youtube.com/watch?v=H25HYjXMB8g)
 - [La Luna](https://www.youtube.com/watch?v=yE1gIRq7yJw)
 - [[We Want] The Same Thing](https://www.youtube.com/watch?v=WPJRQS189bo)
 - [Deep Deep Ocean](https://www.youtube.com/watch?v=RWJ_sZd9VxM)
 - [Valentine](https://www.youtube.com/watch?v=FaSq1WmCTvg)
 - [Whatever It Takes](https://www.youtube.com/watch?v=7T3HLGHigwI)
-- [Shades Of Michaelangelo](https://www.youtube.com/watch?v=c8GV0CxraL4)
 
 
 ## Release Information

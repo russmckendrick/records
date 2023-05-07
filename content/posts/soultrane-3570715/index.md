@@ -34,15 +34,15 @@ styles: []
 
 
 ## Videos
-### You Say You Care
-{{< youtube id="qKIYtNZkQgY" title="You Say You Care" >}}<br>
+### Theme For Ernie
+{{< youtube id="OGzrwu7uTCo" title="Theme For Ernie" >}}<br>
 
 ### More Videos
 
 - [Russian Lullaby (Rudy Van Gelder Remaster)](https://www.youtube.com/watch?v=8RfThojoh40)
 - [John Coltrane - Soultrane [FULL ALBUM]](https://www.youtube.com/watch?v=OJTD8eSgOjw)
+- [You Say You Care](https://www.youtube.com/watch?v=qKIYtNZkQgY)
 - [I Want To Talk About You](https://www.youtube.com/watch?v=osUFSIugxx8)
-- [Theme For Ernie](https://www.youtube.com/watch?v=OGzrwu7uTCo)
 
 
 ## Release Information

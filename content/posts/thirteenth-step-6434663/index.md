@@ -40,15 +40,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### The Package
-{{< youtube id="m2Yhn6-jJPE" title="The Package" >}}<br>
+### 07. The Outsider - A Perfect Circle
+{{< youtube id="nzyNWyZhUS0" title="07. The Outsider - A Perfect Circle" >}}<br>
 
 ### More Videos
 
+- [The Package](https://www.youtube.com/watch?v=m2Yhn6-jJPE)
 - [A Perfect Circle - Weak and Powerless](https://www.youtube.com/watch?v=s-GsLh6dazI)
 - [Blue](https://www.youtube.com/watch?v=6sU_Ra-u5J0)
 - [A Perfect Circle - Outsider (Director's Cut)](https://www.youtube.com/watch?v=KO3l733WRN0)
-- [07. The Outsider - A Perfect Circle](https://www.youtube.com/watch?v=nzyNWyZhUS0)
 
 
 ## Release Information

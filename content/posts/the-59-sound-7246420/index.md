@@ -40,14 +40,14 @@ styles: ["Alternative Rock", "Punk"]
 
 
 ## Videos
-### The '59 Sound
-{{< youtube id="Jp4FWR8ixec" title="The '59 Sound" >}}<br>
+### The Gaslight Anthem - The '59 Sound (2008) [Full Album]
+{{< youtube id="L7XJcQVXtuY" title="The Gaslight Anthem - The '59 Sound (2008) [Full Album]" >}}<br>
 
 ### More Videos
 
-- [The Gaslight Anthem - The '59 Sound (2008) [Full Album]](https://www.youtube.com/watch?v=L7XJcQVXtuY)
 - [Great Expectations](https://www.youtube.com/watch?v=l_Y03cyHJoI)
 - [The Gaslight Anthem - The '59 Sound (Official Video)](https://www.youtube.com/watch?v=G1lq40tR72Q)
+- [The '59 Sound](https://www.youtube.com/watch?v=Jp4FWR8ixec)
 - [Old White Lincoln](https://www.youtube.com/watch?v=XTOXCvSaAeA)
 - [High Lonesome](https://www.youtube.com/watch?v=rUvMNJt2wMM)
 - [Film Noir](https://www.youtube.com/watch?v=fWBEALZgsEo)

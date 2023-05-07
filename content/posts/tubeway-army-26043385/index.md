@@ -40,13 +40,13 @@ styles: ["Punk", "Synth-pop"]
 
 
 ## Videos
-### The Life Machine
-{{< youtube id="DSUJgPJIymU" title="The Life Machine" >}}<br>
+### My Shadow In Vain
+{{< youtube id="L1XohGWRQSQ" title="My Shadow In Vain" >}}<br>
 
 ### More Videos
 
 - [Listen To The Sirens](https://www.youtube.com/watch?v=iA6smLm8cog)
-- [My Shadow In Vain](https://www.youtube.com/watch?v=L1XohGWRQSQ)
+- [The Life Machine](https://www.youtube.com/watch?v=DSUJgPJIymU)
 - [Friends](https://www.youtube.com/watch?v=vv_NKfnmv6Y)
 - [Something's In The House](https://www.youtube.com/watch?v=lffjz6kf5fI)
 - [Every Day I Die](https://www.youtube.com/watch?v=w6gqcm3mMs4)
