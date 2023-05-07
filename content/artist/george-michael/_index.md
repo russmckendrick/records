@@ -1,0 +1,5 @@
+---
+title: "George Michael"
+summary: "George Michael was a British pop and soul singer, songwriter and producer. He began his career as one half of the duo along with and went on to establish a solo career as a soul-influenced pop musician. His 1987 debut solo album, \"Faith\", became one of the best selling albums of all time, and also the first album to produce six top 5 singles in the United States and it has sold over 20 million copies worldwide. All four of his solo studio albums reached #1 on the U.K. charts and went on to become huge international successes. He has sold over 100 million records worldwide, encompassing 12 British #1 singles, 7 British #1 albums, 10 US #1 singles and 2 US #1 albums. He is one of the most played artists on British radio over the past two decades. Michael won numerous music awards throughout his 30-year career, including three Brit Awards , four MTV Video Music Awards, six Ivor Novello Awards , three American Music Awards and two Grammy Awards ."
+image: "george-michael.jpg"
+---

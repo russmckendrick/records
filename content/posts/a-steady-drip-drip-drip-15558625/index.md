@@ -1,0 +1,67 @@
+---
+title: "Sparks - A Steady Drip, Drip, Drip"
+artist: "Sparks"
+album_name: "A Steady Drip, Drip, Drip"
+date: 2020-07-05T11:38:50.000000Z
+release_id: "15558625"
+slug: "a-steady-drip-drip-drip-15558625"
+hideSummary: true
+cover:
+    image: "a-steady-drip-drip-drip-15558625.jpg"
+    alt: "A Steady Drip, Drip, Drip by Sparks"
+    caption: "A Steady Drip, Drip, Drip by Sparks"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
+---
+
+![A Steady Drip, Drip, Drip by Sparks](a-steady-drip-drip-drip-15558625.jpg)
+
+<!-- section break -->
+
+1. All That
+2. I'm Toast
+3. Lawnmower
+4. Sainthood Is Not In Your Future
+5. Pacific Standard Time
+6. Stravinsky's Only Hit
+7. Left Out In The Cold
+8. Self-Effacing
+9. One For The Ages
+10. Onomato Pia
+11. iPhone
+12. The Existential Threat
+13. Nothing Travels Faster Than The Speed Of Light
+14. Please Don't Fuck Up My World
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="43DZQacT84CN8EYfKcmeSL" width="100%" height="500" >}}
+
+
+
+## Videos
+### Pacific Standard Time
+{{< youtube id="zf6y7p2iauE" title="Pacific Standard Time" >}}<br>
+
+### More Videos
+
+- [Sparks - I'm Toast (Unofficial Video)](https://www.youtube.com/watch?v=aJpfdcurYoQ)
+- [Sparks - iPhone (Official Video)](https://www.youtube.com/watch?v=C3CIDPuxwrY)
+- [SPARKS - All That - From The Album A Steady, Drip, Drip, Drip](https://www.youtube.com/watch?v=3ebYtDHlMDY)
+- [Sparks - Lawnmower (Official Video)](https://www.youtube.com/watch?v=tPSFpaCQEvA)
+- [Sparks - The Existential Threat (Official Video)](https://www.youtube.com/watch?v=dLxPIOxgkM0)
+- [Sparks - One for the Ages (Official Video)](https://www.youtube.com/watch?v=6DA95FFBJNs)
+- [Sparks - The Existential Threat (+ bonus How To Make A Music Video by Cyriak)](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2020                                   |
+| Discogs Link   | [Sparks - A Steady Drip, Drip, Drip](https://www.discogs.com/release/15558625-Sparks-A-Steady-Drip-Drip-Drip) |
+| Label          | BMG |
+| Format         | Vinyl LP 45 RPM (Blue, 180g), Vinyl LP 45 RPM (Purple, 180g), All Media Album Limited Edition |
+| Catalog Number | 538603240 |
+| Notes | Includes exclusive poster.  Gatefold sleeve |

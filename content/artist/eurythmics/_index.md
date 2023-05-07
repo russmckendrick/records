@@ -1,0 +1,5 @@
+---
+title: "Eurythmics"
+summary: "British synthpop duo: and . They first recorded together as members of new wave band who would change their name to and enjoy two UK top ten hits in early 1980, but disband before the year was out. In 1981, Lennox and Stewart made their debut as Eurythmics, though they struggled to gain recognition at first, only breaking through with their sixth single \"Sweet Dreams \". This was the turning point of their career. They continued to be one of the leading synth groups throughout the eighties. After a long period of solo activities in the early and mid-90s Eurythmics re-united for one album and charity world tour in 1999 and in 2004 for the release of extended, remastered and repacked editions of their previous albums and a second hits compilation. Eurythmics released one song under the alias \"The Spheres Of Celestial Influence\", a name considered before naming themselves Eurythmics. Note: There are combined audio & video masters for , and ."
+image: "eurythmics.jpg"
+---

@@ -1,0 +1,68 @@
+---
+title: "Booker T & The MG's - Green Onions"
+artist: "Booker T & The MG's"
+album_name: "Green Onions"
+date: 2017-05-12T18:25:56.000000Z
+release_id: "7877126"
+slug: "green-onions-7877126"
+hideSummary: true
+cover:
+    image: "green-onions-7877126.jpg"
+    alt: "Green Onions by Booker T & The MG's"
+    caption: "Green Onions by Booker T & The MG's"
+genres: ["Funk / Soul"]
+styles: ["Rhythm & Blues", "Soul", "Funk"]
+---
+
+![Green Onions by Booker T & The MG's](green-onions-7877126.jpg)
+
+<!-- section break -->
+
+1. Green Onions
+2. Rinky-Dink
+3. I Got A Woman
+4. Mo' Onions
+5. Twist And Shout
+6. Behave Yourself
+7. Stranger On The Shore
+8. Lonely Avenue
+9. One Who Really Loves You
+10. I Can't Sit Down
+11. A Woman, A Lover, A Friend
+12. Comin' Home Baby
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="2aGFVLz0oQPa3uxCfq9lcU" width="100%" height="500" >}}
+
+
+
+## Videos
+### Behave Yourself
+{{< youtube id="ZdVhIiPJohs" title="Behave Yourself" >}}<br>
+
+### More Videos
+
+- [Booker T. & The MG's - Green Onions (Official Audio)](https://www.youtube.com/watch?v=0oox9bJaGJ8)
+- [Rinky Dink (MONO Audio)](https://www.youtube.com/watch?v=gFUwxnL5h_Q)
+- [I Got a Woman](https://www.youtube.com/watch?v=0ZXqw_cQeTw)
+- [Mo' Onions](https://www.youtube.com/watch?v=3AXwb7GL4-4)
+- [Twist and Shout](https://www.youtube.com/watch?v=gv2BjQIAf5Y)
+- [Stranger on the Shore](https://www.youtube.com/watch?v=dMz3TLRvDEY)
+- [Lonely Avenue](https://www.youtube.com/watch?v=DFYSfgotEa4)
+- [One Who Really Loves You](https://www.youtube.com/watch?v=d9G_X_7ze8o)
+- [You Can't Sit Down](https://www.youtube.com/watch?v=53glDIYrBog)
+- [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
+- [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2015                                   |
+| Discogs Link   | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |
+| Label          | DOL |
+| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Catalog Number | DOL1517H |

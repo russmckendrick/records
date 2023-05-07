@@ -1,0 +1,5 @@
+---
+title: "Porcupine Tree"
+summary: "English progressive rock band founded in 1987 by in Hemel Hempstead, Hertfordshire. Originally a pseudonym for Wilson's solo recordings, in 1993 the project mutated into a full band with the inclusion of Colin Edwin, Chris Maitland and Richard Barbieri. Maitland was replaced by Gavin Harrison in 2002 and the line-up remained the same until 2010, when the band went into hiatus. In November 2021 the band officially return as a three-piece lineup comprised of Wilson, Barbieri and Harrison, releasing the new single \"Harridan\". The band's eleventh studio album Closure / Continuation, their first in 13 years, is released in June 2022. **Line-up** Steven Wilson - vocals, guitar, bass, keyboards Richard Barbieri - keyboards, synthesizers Gavin Harrison - drums, percussion **Former members** Chris Maitland - drums Colin Edwin - bass **Touring members** Randy McStine - guitar, backing vocals Nathan Navarro - bass John Wesley - guitar, backing vocals"
+image: "porcupine-tree.jpg"
+---

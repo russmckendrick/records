@@ -1,0 +1,5 @@
+---
+title: "The Black Crowes"
+summary: "US blues rock band from Atlanta, Georgia. Formed in 1989, with a 3 year hiatus between 2002 and 2005. Disbanded in January 2015, over a dispute concerning Chris Robinson, who wanted drummer Gorman and brother Rich to surrender their share of the band. They reformed in late 2019 after the brothers Robinson resolved their differences, with an all new band behind them, and are planning a tour throughout 2021. **Members:** Chris Robinson - Vocals 1989-present Rich Robinson - Guitar 1989-present Isiah Mitchell - Guitar 2019-present Tim Lefebvre - Bass 2019-present Joel Robinow - Keyboards 2019-present Raj Ojha - Drums 2019-present **Former Members:** Guitarists Jeff Cease - 1989-1991 Marc Ford - 1991-mid-2006 Audley Freed - 1998-2002 Paul Stacey - 2006-2007 Luther Dickinson - 2007-2011 Jackie Greene - 2012-2015 Bassists Johnny Colt - 1989-1997 Greg Rzab - 2000-mid-2000 Andy Hess - mid-2000-2002 Sven Pipien - 1998-2000, 2005-2015 Keyboardists Eddie Harsch - 1991-2002 Rob Clores - 2006-2006 Adam MacDougall - 2007-2015 Drummers Bill Dobrow - 2005-mid-2005 Steve Gorman - 1989-2015"
+image: "the-black-crowes.jpg"
+---

@@ -1,0 +1,72 @@
+---
+title: "Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)"
+artist: "Bruce Springsteen"
+album_name: "Only The Strong Survive (Covers Vol. 1)"
+date: 2022-11-14T05:20:50.000000Z
+release_id: "25126471"
+slug: "only-the-strong-survive-covers-vol-1-25126471"
+hideSummary: true
+cover:
+    image: "only-the-strong-survive-covers-vol-1-25126471.jpg"
+    alt: "Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen"
+    caption: "Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: []
+---
+
+![Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen](only-the-strong-survive-covers-vol-1-25126471.jpg)
+
+<!-- section break -->
+
+1. Only The Strong Survive
+2. Soul Days
+3. Night Shift
+4. Do I Love You (Indeed I Do)
+5. The Sun Ain't Gonna Shine Anymore
+6. Turn Back The Hands Of Time
+7. When She Was My Girl
+8. Hey, Western Union Man
+9. I Wish It Would Rain
+10. Don't Play That Song
+11. Any Other Way
+12. I Forgot To Be Your Lover
+13. 7 Rooms Of Gloom
+14. What Becomes Of The Brokenhearted
+15. Someday We'll Be Together
+
+<!-- section break -->
+
+
+
+
+## Videos
+### Bruce Springsteen - Soul Days (Official Audio)
+{{< youtube id="JQuq72GnDOQ" title="Bruce Springsteen - Soul Days (Official Audio)" >}}<br>
+
+### More Videos
+
+- [Bruce Springsteen - Only the Strong Survive (Official Audio)](https://www.youtube.com/watch?v=oiUuEeA5aKo)
+- [Bruce Springsteen - Any Other Way (Official Audio)](https://www.youtube.com/watch?v=vcvxp5E-ROw)
+- [Bruce Springsteen - Hey, Western Union Man (Official Audio)](https://www.youtube.com/watch?v=A-Q3NYVr1iM)
+- [Bruce Springsteen - What Becomes of the Brokenhearted (Official Audio)](https://www.youtube.com/watch?v=Fo8H_m11awI)
+- [Bruce Springsteen - Someday We'll Be Together (Official Audio)](https://www.youtube.com/watch?v=rcmW_O_pYzk)
+- [Bruce Springsteen - The Sun Ain't Gonna Shine Anymore (Official Audio)](https://www.youtube.com/watch?v=B3ugToQv0c4)
+- [Bruce Springsteen - I Forgot To Be Your Lover (Official Audio)](https://www.youtube.com/watch?v=Zan5lbpglSI)
+- [Bruce Springsteen - I Wish It Would Rain (Official Audio)](https://www.youtube.com/watch?v=iZ6Ojns6Fs0)
+- [Bruce Springsteen - When She Was My Girl (Official Audio)](https://www.youtube.com/watch?v=zNKOKfSEKSo)
+- [Bruce Springsteen - 7 Rooms Of Gloom (Official Audio)](https://www.youtube.com/watch?v=Rv_wJfibpGo)
+- [Bruce Springsteen - Do I Love You (Indeed I Do) (Official Video)](https://www.youtube.com/watch?v=O0jBwk71Qcw)
+- [Bruce Springsteen - Turn Back the Hands of Time (Official Video)](https://www.youtube.com/watch?v=lTRS-dNAgvA)
+- [Bruce Springsteen - Don't Play That Song (Official Video)](https://www.youtube.com/watch?v=6bM3L296ZNw)
+- [Bruce Springsteen - Nightshift (Official Video)](https://www.youtube.com/watch?v=GsTKEQzLkmw)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2022                                   |
+| Discogs Link   | [Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)](https://www.discogs.com/release/25126471-Springsteen-Only-The-Strong-Survive-Covers-Vol-1) |
+| Label          | Columbia |
+| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Orange [Orbit Orange]) |
+| Catalog Number | 19658753701 |
+| Notes | Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.  © & ℗ 2022 Columbia Records Made in the EU  Comes with a sticker on the front cover: "INDIE RETAIL EXCLUSIVE THE NEW ALBUM FROM BRUCE SPRINGSTEEN LIMITED EDITION ORBIT ORANGE VINYL" |

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div id="main" class="alt">
+  <section id="one">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ .Title }}</h1>
+      </header>
+    </div>
+  </section>
+  <section id="two" class="spotlights">
+    <div class="inner">
+      <div class="col-6 col-12-small">
+        {{ $taxonomy := index .Site.Taxonomies (lower .Title) }}
+        {{ $total := len $taxonomy }}
+        {{ range $index, $term := $taxonomy }}
+        <a href="{{ $term.Page.Permalink }}">{{ $term.Page.Title }} ({{
+          $term.Count }})</a>
+        {{ if ne $index (sub $total 1) }}, &nbsp; {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}

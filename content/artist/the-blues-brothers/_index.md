@@ -1,0 +1,5 @@
+---
+title: "The Blues Brothers"
+summary: "American Rhythm & Blues duo, founded in 1978 by comedians and . As the characters and , Belushi and Aykroyd performed as the lead vocalist and harpist/vocalist, respectively. In character, they were the frontmen for which was composed of renowned musicians. The band made its debut as the musical guest on the April 22, 1978 episode of Saturday Night Live. With the help of pianist-arranger , Belushi and Aykroyd started assembling a collection of studio talents to form their own band. These artists included saxophonist and trombonist-saxophonist , who had previously played in . In addition, guitarist and bassist , from were signed as well. Over time, additional artists such as trumpeter , guitarist , drummer and keyboardist have performed with the band. After Belushi’s death in 1982, the Blues Brothers Band has continued to perform with a rotation of guest singers and other band members."
+image: "the-blues-brothers.jpg"
+---

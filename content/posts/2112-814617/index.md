@@ -1,0 +1,45 @@
+---
+title: "Rush - 2112"
+artist: "Rush"
+album_name: "2112"
+date: 2016-03-16T18:38:08.000000Z
+release_id: "814617"
+slug: "2112-814617"
+hideSummary: true
+cover:
+    image: "2112-814617.jpg"
+    alt: "2112 by Rush"
+    caption: "2112 by Rush"
+genres: ["Rock"]
+styles: ["Hard Rock", "Prog Rock"]
+---
+
+![2112 by Rush](2112-814617.jpg)
+
+<!-- section break -->
+
+1. 2112
+2. A Passage To Bangkok (3:30)
+3. The Twilight Zone (3:14)
+4. Lessons (3:48)
+5. Tears (3:29)
+6. Something For Nothing (3:56)
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="5g5aKkI0ExfU4kDvADP6JK" width="100%" height="500" >}}
+
+
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 1976                                   |
+| Discogs Link   | [Rush - 2112](https://www.discogs.com/release/814617-Rush-2112) |
+| Label          | Mercury |
+| Format         | Vinyl LP Album (Gatefold Sleeve) |
+| Catalog Number | 9100 039 |
+| Notes | ℗ 1976 Phonogram Inc.  Runouts are stamped except for the 'PR' on side A which is etched. |

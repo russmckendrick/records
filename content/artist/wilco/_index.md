@@ -1,0 +1,5 @@
+---
+title: "Wilco"
+summary: "American alternative rock band formed in 1994 and based in Chicago, Illinois. Wilco is a sextet formed by singer-songwriter and guitarist Jeff Tweedy. The band’s current lineup solidified in 2004 when guitarist Nels Cline and guitarist/keyboardist Patrick Sansone joined Tweedy, founding bassist John Stirratt, drummer Glenn Kotche and keyboardist Mikael Jorgensen. Wilco’s brand of classic roots rock incorporates folk, pop and genre-spanning experimentalism. The band’s catalog includes 2002’s Yankee Hotel Foxtrot , 2005’s Grammy award-winning A Ghost is Born, the Grammy-nominated Wilco and The Whole Love and more. NPR has called Wilco “the best rock band in America” and the band has been heralded by the Los Angeles Times as “an amazing machine whose six players seem more at one with their music than any rock group working today.” The Wilco catalog includes Mermaid Avenue Volumes 1, 2 and 3, which, in collaboration with British folk singer Billy Bragg, sets original music to song lyrics by the iconic Woody Guthrie."
+image: "wilco.jpg"
+---

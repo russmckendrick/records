@@ -1,0 +1,5 @@
+---
+title: "Jean-Michel Jarre"
+summary: "Jean-Michel Jarre is a French composer of electronic music. Son of , a composer of film music, who has written the scores to such films as Lawrence Of Arabia and Dr. Zhivago, among many others. He is well-known for staging spectacular outdoor concerts of his music, which feature laser displays and fireworks, and three of which appeared in the Guinness Book of Records for their large audiences. One of his albums, Musique pour supermarchés had a print run on only a single copy, which was auctioned to raise money for French artists. In 1986 he worked with NASA; astronaut Ronald McNair was to play the saxophone part of Jarre's piece Rendez-Vous VI while in orbit on board the Space Shuttle Challenger. It was to have been the first piece of music recorded in space, for the album Rendez-Vous. After the Challenger disaster of January 28, 1986, the piece was recorded with a different saxophonist, retitled Ron's piece and the album dedicated to the seven Challenger astronauts. He is a UNESCO Goodwill Ambassador."
+image: "jean-michel-jarre.jpg"
+---

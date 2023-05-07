@@ -1,0 +1,63 @@
+---
+title: "Split Enz - Mental Notes"
+artist: "Split Enz"
+album_name: "Mental Notes"
+date: 2020-05-26T13:00:53.000000Z
+release_id: "15348568"
+slug: "mental-notes-15348568"
+hideSummary: true
+cover:
+    image: "mental-notes-15348568.jpg"
+    alt: "Mental Notes by Split Enz"
+    caption: "Mental Notes by Split Enz"
+genres: ["Rock"]
+styles: ["Prog Rock", "Art Rock"]
+---
+
+![Mental Notes by Split Enz](mental-notes-15348568.jpg)
+
+<!-- section break -->
+
+1. Late Last Night
+2. Walking Down A Road
+3. Titus
+4. Lovey Dovey
+5. Sweet Dreams
+6. Stranger Than Fiction
+7. Time For A Change
+8. Matinee Idyll
+9. The Woman Who Loves You
+10. Mental Notes
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="40kD3JoZgiQL0ZwH9OZ2Bg" width="100%" height="500" >}}
+
+
+
+## Videos
+### Split Enz Amy [Darling]
+{{< youtube id="2CWQ6EDZGYc" title="Split Enz Amy [Darling]" >}}<br>
+
+### More Videos
+
+- [Split Enz - Stranger Than Fiction](https://www.youtube.com/watch?v=7T4bHxbR0vk)
+- [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
+- [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
+- [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
+- [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
+- [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
+- [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2020                                   |
+| Discogs Link   | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568-Split-Enz-Mental-Notes) |
+| Label          | Demon Records |
+| Format         | Vinyl LP Album Reissue Remastered (White, 180g) |
+| Catalog Number | DEMREC540 |
+| Notes | Gatefold Runouts are stamped |

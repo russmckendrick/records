@@ -1,0 +1,79 @@
+---
+title: "Devin Townsend - Empath"
+artist: "Devin Townsend"
+album_name: "Empath"
+date: 2019-03-31T17:27:19.000000Z
+release_id: "13421381"
+slug: "empath-13421381"
+hideSummary: true
+cover:
+    image: "empath-13421381.jpg"
+    alt: "Empath by Devin Townsend"
+    caption: "Empath by Devin Townsend"
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Progressive Metal", "Symphonic Rock"]
+---
+
+![Empath by Devin Townsend](empath-13421381.jpg)
+
+<!-- section break -->
+
+1. Castaway
+2. Genesis
+3. Spirits Will Collide
+4. Evermore
+5. Sprite
+6. Hear Me
+7. Why?
+8. Borderlands
+9. Requiem
+10. Singularity
+11. Castaway (2:29)
+12. Genesis (6:06)
+13. Spirits Will Collide (4:40)
+14. Evermore (5:30)
+15. Sprite (6:37)
+16. Hear Me (6:30)
+17. Why? (4:59)
+18. Borderlands (11:03)
+19. Requiem (2:47)
+20. Singularity
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="7MPJRyMFbWbgezRP2Pj4TZ" width="100%" height="500" >}}
+
+
+
+## Videos
+### Evermore
+{{< youtube id="V2-cKI34bpU" title="Evermore" >}}<br>
+
+### More Videos
+
+- [DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AdHJurX0yVA)
+- [Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition](https://www.youtube.com/watch?v=ZDrwCSoia6M)
+- [Sprite](https://www.youtube.com/watch?v=HsPqxO7lVaM)
+- [Hear Me](https://www.youtube.com/watch?v=NOoBfVFQdQg)
+- [Why?](https://www.youtube.com/watch?v=Ob8IsKzRPwg)
+- [Singularity](https://www.youtube.com/watch?v=RDSaodyiBQo)
+- [DEVIN TOWNSEND - Genesis (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=1n7uvokARQ4)
+- [Spirits Will Collide](https://www.youtube.com/watch?v=8wpOAM_A4xo)
+- [DEVIN TOWNSEND - Evermore (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-zIxPUPWVq8)
+- [Requiem](https://www.youtube.com/watch?v=9pks_5P-hlQ)
+- [Castaway](https://www.youtube.com/watch?v=XrEGBV1zQGY)
+- [Gulag (Demo)](https://www.youtube.com/watch?v=WKzaSSPooeI)
+- [Borderlands](https://www.youtube.com/watch?v=J52C4Z7uya0)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2019                                   |
+| Discogs Link   | [Devin Townsend - Empath](https://www.discogs.com/release/13421381-Devin-Townsend-Empath) |
+| Label          | Inside Out Music |
+| Format         | Vinyl 2× LP Album (180g), CD Album |
+| Catalog Number | IOMLP 526 |
+| Notes | [Booklet] All songs published by HevyDevy Records Inc, administered by Kobalt Music Services Ltd., except ’Curious Gods’; Published by HevyDevy Records Inc, administered by Kobalt Music Services Ltd. / Vague Pagoda Music BMI / Copyright Control.  Mastered for S.P.E.C.T.R.E. Mastering  [Additional death metal vocals] Recorded at The Grid in Montreal, Canada  Drums and Bass recorded at Monnow Valley Studios, Wales UK Guitars and vocals recorded at The Armoury Studios, Vancouver BC Additional recordings at Recroom, The Farm and Devlab, Vancouver BC  Choir: recorded at The Armoury.  Vinyl mastering: at Black Belt Mastering  [Rear sleeve] © 2019 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic ℗ HevyDevy Records. Issued under license to Century Media Records Ltd., under exclusive license to InsideOutMusic Distributed by Sony Music Entertainment · Made in the EU · Sony Music Entertainment International Services GmbH - PO Box 510 - 33311 Gütersloh - Germany  [Labels] © 2019 HevyDevy Records. Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2019 HevyDevy Records. Issued under license to Century Media Records Ltd., under exclusive license to InsideOutMusic · Made in the EU  Gatefold  Error in credit section, backing vocals by Anneke van Giersbergen for track "King" is listed, however this track was only released on the limited edition. On the track "Borderlands", Jessica Vaira is credited as both "Jessica" and "Jess Vaira" |

@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+
+
+{{ if eq .Paginator.PageNumber 1 }}
+<!-- Banner -->
+<section id="banner" class="major">
+  <div class="inner">
+    <header class="major">
+      <h1>{{ .Site.Params.homeHeader }}</h1>
+    </header>
+    <div class="content">
+      <p>{{ .Site.Params.homeSubheader }}</p>
+      <ul class="actions">
+        <li><a href="#one" class="button next scrolly">{{
+            .Site.Params.homeButton }}</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section id="one" class="tiles">
+
+
+  {{ range $paginator.Pages }}
+  <article>
+    <span class="image">
+      <img src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}"
+        alt="" />
+    </span>
+    <header class="major">
+      <h3><a href="{{ .Permalink }}" class="link">{{ .Page.Params.Artist }}<br>{{
+          .Page.Params.album_name }}</a></h3>
+      {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+      {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+      <p>Added: {{ .PublishDate.Format $dateFormat }}</p>
+    </header>
+  </article>
+
+  {{end}}
+
+</section>
+</section>
+<section id="three">
+  <div class="inner">
+    <center>{{- partial "pagination.html" . -}}</center>
+  </div>
+</section>
+
+{{ end }}

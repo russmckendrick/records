@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div id="main" class="alt">
+  <section id="one">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ .Page.Params.album_name }}<br>{{ .Page.Params.Artist }}</h1>
+        {{ partial "metadata.html" . }}<br>
+      </header>
+      {{- $sectionDelimiter := "<!-- section break -->" -}}
+      {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+      {{- if gt (len $rawContentSections) 1 -}}
+      <div class="row gtr-200">
+        <div class="col-6 col-12-medium">
+          {{ index $rawContentSections 0 | .RenderString }}
+        </div>
+        <div class="col-6 col-12-medium">
+          {{ index $rawContentSections 1 | .RenderString }}
+        </div>
+        <div class="col-12 col-12-medium">
+          {{ index $rawContentSections 2 | .RenderString }}
+        </div>
+        {{- else -}}
+        <div>
+          {{ .Content }}
+        </div>
+        {{- end -}}
+        <ul class="icons">
+          {{- $artist := .Language.Params.Taxonomies.tag | default "artist"
+          }}{{- range ($.GetTerms $artist) }}<li><a href="{{ .Permalink }}"
+              class="icon alt fa-music"> {{ .LinkTitle }}</a></li>{{- end }}
+          {{- $genres := .Language.Params.Taxonomies.tag | default "genres"
+          }}{{- range ($.GetTerms $genres) }}<li><a href="{{ .Permalink }}"
+              class="icon alt fa-headphones"> {{ .LinkTitle }}</a></li>{{- end
+          }}
+          {{- $styles := .Language.Params.Taxonomies.tag | default "styles"
+          }}{{- range ($.GetTerms $styles) }}<li><a href="{{ .Permalink }}"
+              class="icon alt fa-headphones"> {{ .LinkTitle }}</a></li>{{- end
+          }}
+        </ul>
+      </div>
+    </div>
+    </section>
+  </div>
+  {{ end }}

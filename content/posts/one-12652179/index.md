@@ -1,0 +1,55 @@
+---
+title: "Dubstar - One"
+artist: "Dubstar"
+album_name: "One"
+date: 2018-10-13T07:28:15.000000Z
+release_id: "12652179"
+slug: "one-12652179"
+hideSummary: true
+cover:
+    image: "one-12652179.jpg"
+    alt: "One by Dubstar"
+    caption: "One by Dubstar"
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock"]
+---
+
+![One by Dubstar](one-12652179.jpg)
+
+<!-- section break -->
+
+1. Love Comes Late (4:48)
+2. Love Gathers (4:28)
+3. Torched (5:09)
+4. Please Stop Leaving Me Alone (4:16)
+5. I Hold Your Heart (5:07)
+6. Waltz No. 9 (3:53)
+7. You Were Never In Love (4:36)
+8. Locked Inside (5:52)
+9. Why Don't You Kiss Me (3:12)
+10. Mantra (6:32)
+
+<!-- section break -->
+
+
+
+
+## Videos
+### Dubstar - You Were Never In Love (Official Video)
+{{< youtube id="9ORxgXkNb7w" title="Dubstar - You Were Never In Love (Official Video)" >}}<br>
+
+### More Videos
+
+- [Dubstar - Love Comes Late (Official Music Video)](https://www.youtube.com/watch?v=W3c4_v-wPw8)
+- [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2018                                   |
+| Discogs Link   | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-One) |
+| Label          | Northern Writes |
+| Format         | Vinyl LP Album Limited Edition Numbered (Red) |
+| Catalog Number | none |
+| Notes | Limited to 500 copies.  Comes with Mp3 download code card. |

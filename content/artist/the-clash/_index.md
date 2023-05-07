@@ -1,0 +1,5 @@
+---
+title: "The Clash"
+summary: "Influential British punk group from west and south London, active between 1976 and 1985. Adding catchy sloganistic socio-political lyrics to their brand of garage rock 'n' roll, the band soon explored wider musical horizons than most of their contemporaries, incorporating reggae, dub, rockabilly, hip hop and funk influences into their music and a whole lot more. The US saw the 2nd album \"Give 'Em Enough Rope\" released before the first to coincide with the band's first transatlantic tour in early 1979 the 1st LP \"The Clash\" was soon repackaged with an updated track list and the addition of a free 7\" \"Groovy Times\" / \"Gates Of The West\" which wasn't released separately. A year later they were receiving worldwide acclaim with their classic double album \"London Calling\". Inducted into Rock And Roll Hall of Fame in 2003 , their classic line-up comprised , Paul Simonon , Mick Jones and Nicky \"Topper\" Headon ."
+image: "the-clash.jpg"
+---

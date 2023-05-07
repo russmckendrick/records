@@ -1,0 +1,48 @@
+---
+title: "Kraftwerk - Radio-Aktivität"
+artist: "Kraftwerk"
+album_name: "Radio-Aktivität"
+date: 2016-02-14T11:11:50.000000Z
+release_id: "6872562"
+slug: "radio-aktivitt-6872562"
+hideSummary: true
+cover:
+    image: "radio-aktivitt-6872562.jpg"
+    alt: "Radio-Aktivität by Kraftwerk"
+    caption: "Radio-Aktivität by Kraftwerk"
+genres: ["Electronic"]
+styles: ["Experimental"]
+---
+
+![Radio-Aktivität by Kraftwerk](radio-aktivitt-6872562.jpg)
+
+<!-- section break -->
+
+1. Geigerzähler (1:07)
+2. Radioaktivität (6:42)
+3. Radioland (5:52)
+4. Ätherwellen (4:40)
+5. Sendepause (0:39)
+6. Nachrichten (1:17)
+7. Die Stimme Der Energie (0:55)
+8. Antenne (3:42)
+9. Radio Sterne (3:34)
+10. Uran (1:27)
+11. Transistor (2:14)
+12. Ohm Sweet Ohm (5:38)
+
+<!-- section break -->
+
+
+
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2014                                   |
+| Discogs Link   | [Kraftwerk - Radio-Aktivität](https://www.discogs.com/release/6872562-Kraftwerk-Radio-Aktivit%C3%A4t) |
+| Label          | Kling Klang |
+| Format         | Vinyl LP Album Reissue Remastered (180 g) |
+| Catalog Number | 50999 6 99587 1 7 |
+| Notes | Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider  ℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.  Printed In EU   Include a huge booklet in LP-size |

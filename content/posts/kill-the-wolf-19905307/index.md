@@ -1,0 +1,68 @@
+---
+title: "Matt Berry - Kill The Wolf"
+artist: "Matt Berry"
+album_name: "Kill The Wolf"
+date: 2021-08-19T02:26:39.000000Z
+release_id: "19905307"
+slug: "kill-the-wolf-19905307"
+hideSummary: true
+cover:
+    image: "kill-the-wolf-19905307.jpg"
+    alt: "Kill The Wolf by Matt Berry"
+    caption: "Kill The Wolf by Matt Berry"
+genres: ["Rock", "Pop", "Folk, World, & Country"]
+styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
+---
+
+![Kill The Wolf by Matt Berry](kill-the-wolf-19905307.jpg)
+
+<!-- section break -->
+
+1. Gather Up
+2. Devil Inside Me
+3. Fallen Angel
+4. Medicine
+5. Wolf Quartet
+6. Solstice
+7. October Sun
+8. The Signs
+9. Knock Knock
+10. Bonfire
+11. Village Dance
+12. Farewell Summer Sun
+
+<!-- section break -->
+
+
+
+
+## Videos
+### Matt Berry - Solstice (Kill the Wolf Album)
+{{< youtube id="5f_3iqHpnVM" title="Matt Berry - Solstice (Kill the Wolf Album)" >}}<br>
+
+### More Videos
+
+- [Matt Berry - Gather Up (Kill the Wolf Album)](https://www.youtube.com/watch?v=gdx-EanE6Hk)
+- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
+- [Matt Berry - Devil Inside Me](https://www.youtube.com/watch?v=2yE8htFL1m8)
+- [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
+- [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)
+- [Matt Berry - Wolf Quartet (Kill the Wolf Album)](https://www.youtube.com/watch?v=Cqx4BsxsMts)
+- [Matt Berry - October Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=zSjjsJzKlzE)
+- [Matt Berry - The Signs (Kill the Wolf Album)](https://www.youtube.com/watch?v=LEgX3IBnnlg)
+- [Matt Berry - Knock Knock (Kill the Wolf Album)](https://www.youtube.com/watch?v=Zq_JpcQGYaU)
+- [Matt Berry - Bonfire (Kill the Wolf Album)](https://www.youtube.com/watch?v=3ykbiAL-48s)
+- [Matt Berry - Village Dance (Kill the Wolf Album)](https://www.youtube.com/watch?v=MEok98HV7_8)
+- [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
+- [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2021                                   |
+| Discogs Link   | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/19905307-Matt-Berry-Kill-The-Wolf) |
+| Label          | Acid Jazz |
+| Format         | Vinyl LP Album Limited Edition (Green Bottle) |
+| Catalog Number | AJXLP327G |
+| Notes | 2021 Reissue -   Hype sticker reads:  PRESSED ON BOTTLE GREEN VINYL Facsimile of rare first pressing with gatefold sleeve and printed inner |

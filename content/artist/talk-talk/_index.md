@@ -1,0 +1,5 @@
+---
+title: "Talk Talk"
+summary: "British synth pop / art rock band founded in 1981 in London and disbanded in 1991. The group had a string of international hit singles including \"\", \"\", \"\", \"\", \"\" and \"\". They moved away from synth-pop to a more experimental form with the album ** in 1986, and their critical reputation increased. Their final two albums, ** and ** , are highly acclaimed and remain influential to experimental alternative rock genres. With out, was recruited to assist with the recording of their second album ** and he soon became the band's producer and de facto fourth member. He played keyboards and became Hollis' frequent songwriting partner, co-writing all the songs on ** , ** and ** . Although a major contributor to the band's studio output, did not regularly play with the touring band, and was absent from the band's publicity material."
+image: "talk-talk.jpg"
+---

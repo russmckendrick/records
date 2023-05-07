@@ -1,0 +1,63 @@
+---
+title: "Duran Duran - Rio"
+artist: "Duran Duran"
+album_name: "Rio"
+date: 2020-08-02T13:40:07.000000Z
+release_id: "140843"
+slug: "rio-140843"
+hideSummary: true
+cover:
+    image: "rio-140843.jpg"
+    alt: "Rio by Duran Duran"
+    caption: "Rio by Duran Duran"
+genres: ["Rock", "Pop"]
+styles: ["New Wave", "Synth-pop"]
+---
+
+![Rio by Duran Duran](rio-140843.jpg)
+
+<!-- section break -->
+
+1. Rio (5:39)
+2. My Own Way (4:51)
+3. Lonely In Your Nightmare (3:52)
+4. Hungry Like The Wolf (3:40)
+5. Hold Back The Rain (3:59)
+6. New Religion (5:31)
+7. Last Chance On The Stairway (4:18)
+8. Save A Prayer (5:33)
+9. The Chauffeur (5:12)
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="02tfQwJSOLP77oCd9U8bqm" width="100%" height="500" >}}
+
+
+
+## Videos
+### Duran Duran - My Own Way (Official Music Video )
+{{< youtube id="QUrIDz6L5vc" title="Duran Duran - My Own Way (Official Music Video )" >}}<br>
+
+### More Videos
+
+- [Duran Duran - Hungry like the Wolf (Official Music Video)](https://www.youtube.com/watch?v=oJL-lCzEXgI)
+- [Duran Duran - Rio (Official Music Video)](https://www.youtube.com/watch?v=nTizYn3-QN0)
+- [Duran Duran - Save A Prayer (Official Music Video)](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
+- [Duran Duran - Lonely In Your Nightmare (Official Music Video)](https://www.youtube.com/watch?v=rGdLNbIc2ZA)
+- [Duran Duran - New Religion from AS THE LIGHTS GO DOWN](https://www.youtube.com/watch?v=hV0nzGy3TRs)
+- [Last Chance on the Stairway (2009 Remaster)](https://www.youtube.com/watch?v=0TSOM7PkFkg)
+- [Duran Duran - The Chauffeur (Official Music Video)](https://www.youtube.com/watch?v=1B__8N5d_LA)
+- [Duran Duran - Lonely In Your Nightmare Version 2 (Official Music Video)](https://www.youtube.com/watch?v=zU20mJJULyI)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 1982                                   |
+| Discogs Link   | [Duran Duran - Rio](https://www.discogs.com/release/140843-Duran-Duran-Rio) |
+| Label          | EMI |
+| Format         | Vinyl LP Album Stereo |
+| Catalog Number | EMC 3411 |
+| Notes | Original UK pressing in a textured outer sleeve with a glossy inner picture/lyrics sleeve  [Back cover] ℗ 1982 Original sound recording made by Tritec Music Limiited ... country of manufacture of record as stated on record labels SP 8205 GL  [Record labels]  All songs composed and arranged by Duran Duran... All songs published by Tritec/Peterman/Carlin  ℗ 1982 Original sound recordings made by Tritec Music Limited. ... Manufactured in the UK by EMI Records Ltd.  [Inner sleeve credits side] All songs written and arranged by Duran Duran ℗ 1982 Tritec Music Limiited © 1982 (except * © 1981) lyrics used....and published by Tritec Music/Carlin Music/Peterman Music Recorded Air, (London) Spring 1982.  Note:  * is printed on the lyrics side of the inner sleeve against "My Own Way") and that the credits on the inner sleeve give credit as "All songs written and arranged by" while the record labels give credit as "All songs composed and arranged by"  [Inner sleeve lyrics side] EMI Records EMC 3411(I) (top right of inner sleeve lyric side) |

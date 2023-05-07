@@ -1,0 +1,5 @@
+---
+title: "Boston"
+summary: "Hard / arena rock band from Boston, Massachusetts, USA, formed in 1976. The band gained commercial success during the mid & late 1970's. **Current members:** ● – lead and rhythm guitar, bass, keyboards, percussion, backing vocals ● – rhythm and lead guitar, keyboards, backing vocals ● – drums, percussion, harmonica, backing vocals ● – drums, percussion, backing vocals ● – lead vocals, keyboards, percussion ● – bass guitar, backing vocals ● – keyboards, guitar and vocals **Former members:** ● – lead vocals, rhythm guitar, keyboards, percussion ● – drums, percussion, keyboards ● – bass ● – drums, percussion, backing vocals ● – guitars, backing vocals ● – vocals, bass, keyboards ● – drums, percussion, keyboards, backing vocals ● – lead vocals, guitar ● – guitar, backing vocals, songwriter ● – drums ● – drums ● – lead vocals, rhythm guitar ● – guitar, vocals ● – bass, guitar, vocals"
+image: "boston.jpg"
+---

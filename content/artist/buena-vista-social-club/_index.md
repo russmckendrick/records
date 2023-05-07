@@ -1,0 +1,5 @@
+---
+title: "Buena Vista Social Club"
+summary: "Buena Vista Social Club is an ensemble of Cuban musicians established in 1996 to revive the music of pre-revolutionary Cuba. The project was organized by World Circuit executive Nick Gold, produced by American guitarist Ry Cooder and directed by Juan de Marcos González. They named the group after the homonymous members' club in the Buenavista quarter of Havana, a popular music venue in the 1940s. To showcase the popular styles of the time, such as son, bolero and danzón, they recruited a dozen veteran musicians, many of whom had been retired for many years. Musicians: Luis Barzaga Joachim Cooder Ry Cooder Julio Alberto Fernández Ibrahim Ferrer Carlos González Juan de Marcos González Rubén González Salvador Repilado Labrada Manuel 'Puntillita' Licea Orlando 'Cachaito' López Benito Suárez Magana Manuel 'Guajiro' Mirabal Eliades Ochoa Omara Portuondo Julienne Oviedo Sánchez Compay Segundo Barbarito Torres Alberto 'Virgilio' Valdés Lázaro Villa"
+image: "buena-vista-social-club.jpg"
+---

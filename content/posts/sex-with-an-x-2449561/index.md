@@ -1,0 +1,59 @@
+---
+title: "The Vaselines - Sex With An X"
+artist: "The Vaselines"
+album_name: "Sex With An X"
+date: 2020-08-01T12:42:00.000000Z
+release_id: "2449561"
+slug: "sex-with-an-x-2449561"
+hideSummary: true
+cover:
+    image: "sex-with-an-x-2449561.jpg"
+    alt: "Sex With An X by The Vaselines"
+    caption: "Sex With An X by The Vaselines"
+genres: ["Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Britpop"]
+---
+
+![Sex With An X by The Vaselines](sex-with-an-x-2449561.jpg)
+
+<!-- section break -->
+
+1. Ruined
+2. Sex With An X
+3. The Devil's Inside Me
+4. Such A Fool
+5. Turning It On
+6. Overweight But Over You
+7. Poison Pen
+8. I Hate The 80's
+9. Mouth To Mouth
+10. Whitechapel
+11. My God's Bigger Than Your God
+12. Exit The Vaselines
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="485E7qOktHuqCNj9ivL8Xc" width="100%" height="500" >}}
+
+
+
+## Videos
+### The Vaselines - Sex With An X [OFFICIAL VIDEO]
+{{< youtube id="GHIa3zr_vTQ" title="The Vaselines - Sex With An X [OFFICIAL VIDEO]" >}}<br>
+
+### More Videos
+
+- [The Vaselines - I Hate The 80's (2010)](https://www.youtube.com/watch?v=i1zMx4Eltbo)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2010                                   |
+| Discogs Link   | [The Vaselines - Sex With An X](https://www.discogs.com/release/2449561-The-Vaselines-Sex-With-An-X) |
+| Label          | Sub Pop |
+| Format         | Vinyl LP Album |
+| Catalog Number | SP 889 |
+| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.    ©℗2010 Under exclusive license to Sub Pop.    First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].    Gatefold sleeve.  |

@@ -1,0 +1,5 @@
+---
+title: "Bobby Brown"
+summary: "Robert Barisford \"Bobby\" Brown, born February 5, 1969, in Roxbury, Massachusetts, is an American R&B singer-songwriter, occasional rapper, and dancer. After success in pop group , Brown began his solo career in 1987 and had a string of Top 10 Billboard hits, culminating in a Grammy Award. He was a pioneer of New Jack Swing music, a fusion of hip hop and R&B. His second album, Don't Be Cruel, included popular songs such as \"My Prerogative\". Brown starred in the reality show Being Bobby Brown Brown is the ex-husband of pop singer . They were married on July 18, 1992, separated in October 2006 and divorced on April 24, 2007. They had a daughter: . Brown also has three sons and a second daughter . He also has a cousin, , who has had success as a vocalist on a number of club-oriented songs. Brown got remarried to Alicia Etheredge on June 19, 2012. As of 2014 Bobby Brown had rejoined New Edition."
+image: "bobby-brown.jpg"
+---

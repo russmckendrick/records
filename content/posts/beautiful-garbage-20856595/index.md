@@ -1,0 +1,52 @@
+---
+title: "Garbage - Beautiful Garbage"
+artist: "Garbage"
+album_name: "Beautiful Garbage"
+date: 2022-10-05T12:03:47.000000Z
+release_id: "20856595"
+slug: "beautiful-garbage-20856595"
+hideSummary: true
+cover:
+    image: "beautiful-garbage-20856595.jpg"
+    alt: "Beautiful Garbage by Garbage"
+    caption: "Beautiful Garbage by Garbage"
+genres: ["Electronic", "Rock"]
+styles: ["Pop Rock", "Synth-pop", "Experimental"]
+---
+
+![Beautiful Garbage by Garbage](beautiful-garbage-20856595.jpg)
+
+<!-- section break -->
+
+1. Shut Your Mouth
+2. Androgyny
+3. Can't Cry These Tears
+4. Til The Day I Die
+5. Cup Of Coffee
+6. Silence Is Golden
+7. Cherry Lips (Go Baby Go!)
+8. Breaking Up The Girl
+9. Drive You Home
+10. Parade
+11. Nobody Loves You
+12. Untouchable
+13. So Like A Rose
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="0NVuRvkKyJU72UAADRQ1nq" width="100%" height="500" >}}
+
+
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2021                                   |
+| Discogs Link   | [Garbage - Beautiful Garbage](https://www.discogs.com/release/20856595-Garbage-Beautiful-Garbage) |
+| Label          | Stun Volume |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 140g) |
+| Catalog Number | BMGCAT528DCLP |
+| Notes | Made in Poland  20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."  Tracks are numbered sequentially on release.  ℗ & © 2021 |

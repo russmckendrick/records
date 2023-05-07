@@ -1,0 +1,48 @@
+---
+title: "Primal Scream - Give Out But Don't Give Up (The Original Memphis Recordings)"
+artist: "Primal Scream"
+album_name: "Give Out But Don't Give Up (The Original Memphis Recordings)"
+date: 2018-10-14T15:21:19.000000Z
+release_id: "12646547"
+slug: "give-out-but-don-t-give-up-the-original-memphis-recordings-12646547"
+hideSummary: true
+cover:
+    image: "give-out-but-don-t-give-up-the-original-memphis-recordings-12646547.jpg"
+    alt: "Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream"
+    caption: "Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream"
+genres: ["Rock"]
+styles: ["Pop Rock"]
+---
+
+![Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream](give-out-but-don-t-give-up-the-original-memphis-recordings-12646547.jpg)
+
+<!-- section break -->
+
+1. Jailbird (3:51)
+2. Rocks (3:48)
+3. Call On Me (3:21)
+4. Everybody Needs Somebody (6:03)
+5. Sad And Blue (3:46)
+6. Big Jet Plane (5:29)
+7. Free (6:51)
+8. Jesus (6:38)
+9. Cry Myself Blind (4:49)
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="5UwPMUtxGKZRcULMAkpxQm" width="100%" height="500" >}}
+
+
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2018                                   |
+| Discogs Link   | [Primal Scream - Give Out But Don't Give Up (The Original Memphis Recordings)](https://www.discogs.com/release/12646547-Primal-Scream-Give-Out-But-Dont-Give-Up-The-Original-Memphis-Recordings) |
+| Label          | Sony Music |
+| Format         | Vinyl 2× 12" 45 RPM Album Misprint (180 Gram) |
+| Catalog Number | 19075815741 |
+| Notes | Gatefold sleeve includes booklet and download code for full 2-CD (24 track) edition plus an additional track: Big Jet Plane (Sitar Version) 4:47.  Made in the EU.  33 R.P.M was incorrectly ticked on the first 1000 units pressed. All subsequent unit pressings are correctly ticked 45 R.P.M. |

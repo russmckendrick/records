@@ -1,0 +1,5 @@
+---
+title: "Eels"
+summary: "US alternative rock band formed in 1995 by singer & songwriter aka . Other members rotate frequently, both in studio and on stage."
+image: "eels.jpg"
+---

@@ -1,0 +1,59 @@
+---
+title: "Crippled Black Phoenix - Great Escape"
+artist: "Crippled Black Phoenix"
+album_name: "Great Escape"
+date: 2018-09-19T17:58:20.000000Z
+release_id: "12492262"
+slug: "great-escape-12492262"
+hideSummary: true
+cover:
+    image: "great-escape-12492262.jpg"
+    alt: "Great Escape by Crippled Black Phoenix"
+    caption: "Great Escape by Crippled Black Phoenix"
+genres: ["Rock"]
+styles: ["Prog Rock", "Post Rock"]
+---
+
+![Great Escape by Crippled Black Phoenix](great-escape-12492262.jpg)
+
+<!-- section break -->
+
+1. You Brought It Upon Yourselves
+2. To You I Give
+3. Uncivil War (Pt I)
+4. Madman
+5. Times They Are A'Raging
+6. Rain Black, Reign Heavy
+7. Slow Motion Breakdown
+8. Nebulas
+9. Las Diabolicas
+10. Great Escape (Pt I)
+11. Great Escape (Pt II)
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="6F2EJ4TAUAyPShRxIa8EOj" width="100%" height="500" >}}
+
+
+
+## Videos
+### Crippled Black Phoenix - Great Escape (2018) Full Album Stream
+{{< youtube id="C0KCueuqvt8" title="Crippled Black Phoenix - Great Escape (2018) Full Album Stream" >}}<br>
+
+### More Videos
+
+- [Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)](https://www.youtube.com/watch?v=CV07GXCsQGg)
+- [Crippled Black Phoenix - Uncivil War (pt I)](https://www.youtube.com/watch?v=sF2xgZWPcHs)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2018                                   |
+| Discogs Link   | [Crippled Black Phoenix - Great Escape](https://www.discogs.com/release/12492262-Crippled-Black-Phoenix-Great-Escape) |
+| Label          | Season Of Mist |
+| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Catalog Number | SOM 491LP |
+| Notes | Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.  SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels. |

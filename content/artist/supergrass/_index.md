@@ -1,0 +1,5 @@
+---
+title: "Supergrass"
+summary: "English alternative rock band from Oxford. Existed from 1993-2010, reformed in 2019 for live touring and a box set. Two members were originally part of . Gaz met Mick at a Harvester pub in Oxford where they both worked part time and got together with Danny to form the band. Gaz’s older brother was an ancillary member until officially being added in 2002. When Mickey injured himself in 2008 the band went on a brief hiatus. Danny and Gaz performed as a duo called doing cover versions of their favourite songs in their own style. Whilst Mickey was recovering Danny and Gaz also performed as , playing favourite Supergrass songs, as well as songs that would be part of their 6th album. An abandoned 7th album when the band were at loggerheads that was recorded in 2009 has never seen the light of day. All members also went on to have solo careers under their own name or as part of other bands with Gaz and Danny collaborating on each other’s solo outputs."
+image: "supergrass.jpg"
+---

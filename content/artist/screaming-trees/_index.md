@@ -1,0 +1,5 @@
+---
+title: "Screaming Trees"
+summary: "Screaming Trees was a unique voice in the Pacific Northwest \"grunge\" scene. Their sound was more psychedelic, garage-rock, and '70s hard rock influenced which made them stand out amongst their peers. After a couple independent releases on local , they were signed to where they released 3 albums before making the jump to Records in 1990. Their Epic debut \"Uncle Anesthesia\" was released around the same time as major label debuts from Smashing Pumpkins, Pearl Jam, Soundgarden, and Alice In Chains hit the stores... but Screaming Trees didn't have their first hit until their second Epic album \"Sweet Oblivion\" came out and their first single from that album appeared on the soundtrack for the movie \"Singles\". The band broke up in 2000, and continued his solo projects from there. and were also involved in the side-project along with singer ."
+image: "screaming-trees.jpg"
+---

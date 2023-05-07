@@ -1,0 +1,47 @@
+baseURL = 'http://www.mckendrick.rocks/'
+languageCode = 'en-gb'
+title = 'McKendrickRocks'
+theme = "rocks"
+paginate = 20
+enableRobotsTXT = true
+
+[permalinks]
+    posts = "/albums/:slug"
+
+[params]
+  titleBold = "McKendrick"
+  titleLight = "Rocks"
+  homeHeader = "Hi, my name is Russ"
+  homeSubheader = "and this is my record collection, listed in the order I added them."
+  homeButton = "View my collection"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Artists"
+    url = "/artist/"
+    weight = 2
+  [[menu.main]]
+    name = "Styles"
+    url = "/styles/"
+    weight = 3
+  [[menu.main]]
+    name = "Genres"
+    url = "/genres/"
+    weight = 4
+
+[taxonomies]
+  artists = "artist"
+  genres = "genres"
+  styles = "styles"
+
+[outputs]
+  home = [ "HTML", "JSON", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

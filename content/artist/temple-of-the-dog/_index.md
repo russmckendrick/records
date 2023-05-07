@@ -1,0 +1,5 @@
+---
+title: "Temple Of The Dog"
+summary: "Temple Of The Dog was a collaboration between members of and , initiated as a tribute to Mother Love Bone's vocalist Andrew Wood who died of a heroin overdose in March, 1990 - two weeks before the release of MLB's debut album, \"Apple\". The group's one and only album also featured the first recorded appearance of , who contributes backing vocals on several tracks. Vedder had recently moved from San Diego to Seattle, and became friends with the band members during the recording of the record. Soon after the Temple Of The Dog sessions, Gossard, Ament, McCready & Vedder went on to form . The self-titled Temple Of The Dog album was originally released in April, 1991 to very little acclaim and low sales. It was reissued later that year following the success of Soundgarden's \"Badmotorfinger\" and Pearl Jam's \"Ten\", and was marketed at that time as a sort of \"grunge supergroup\" project."
+image: "temple-of-the-dog.jpg"
+---

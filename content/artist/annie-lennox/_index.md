@@ -1,0 +1,5 @@
+---
+title: "Annie Lennox"
+summary: "Scottish singer, songwriter, political activist and philanthropist, born December 25, 1954 in Aberdeen, Aberdeenshire, Scotland, UK. After achieving moderate success in the late 1970s as part of the new wave band , she and band mate went on to achieve major international success in the 1980s as . She embarked on a solo career in 1992. In 2011, Lennox was appointed an Officer of the Order of the British Empire. At the 2015 Ivor Novello Awards, Lennox was made a fellow of the British Academy of Songwriters, Composers and Authors, the first female to receive the honour. In 2020 Annie Lennox and Dave Stewart were inducted into the Songwriters Hall of Fame and in November 2022 the two were enshrined into the Rock and Roll Hall of Fame."
+image: "annie-lennox.jpg"
+---

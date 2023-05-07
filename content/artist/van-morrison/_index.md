@@ -1,0 +1,5 @@
+---
+title: "Van Morrison"
+summary: "Van Morrison, OBE , born 31 August 1945 in Belfast, is a Grammy Award-winning Northern Irish singer, songwriter, author, poet and multi-instrumentalist, who has been a professional musician since the late 1950s. He plays a variety of instruments, including the guitar, harmonica, keyboards, drums, and saxophone. Known as \"Van the Man\" by his fans, Morrison started his musical career as the lead singer of the Northern Irish band Them, penning their seminal 1964 hit \"Gloria\". A few years later, Morrison left the band for a successful solo career. He was inducted into the Rock and Roll Hall of Fame in 1993 and the Songwriters Hall of Fame in 2003. In 2000, Morrison ranked #25 on American cable music channel VH1's list of its 100 greatest artists of rock and roll, and in 2004, Rolling Stone Magazine ranked Van Morrison 42nd on their list of The Immortals: 100 Greatest Artists of All Time. Paste Magazine ranked him 20th in their list of 100 Greatest Living Songwriters in 2006 and Q Magazine ranked him 22nd on their list of 100 Greatest Singers in April 2007."
+image: "van-morrison.jpg"
+---

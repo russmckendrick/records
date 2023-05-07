@@ -1,0 +1,66 @@
+---
+title: "XTC - Wasp Star (Apple Venus Volume 2)"
+artist: "XTC"
+album_name: "Wasp Star (Apple Venus Volume 2)"
+date: 2018-10-27T09:35:52.000000Z
+release_id: "12617487"
+slug: "wasp-star-apple-venus-volume-2-12617487"
+hideSummary: true
+cover:
+    image: "wasp-star-apple-venus-volume-2-12617487.jpg"
+    alt: "Wasp Star (Apple Venus Volume 2) by XTC"
+    caption: "Wasp Star (Apple Venus Volume 2) by XTC"
+genres: ["Rock"]
+styles: []
+---
+
+![Wasp Star (Apple Venus Volume 2) by XTC](wasp-star-apple-venus-volume-2-12617487.jpg)
+
+<!-- section break -->
+
+1. Playground
+2. Stupidly Happy
+3. In Another Life
+4. My Brown Guitar
+5. Boarded Up
+6. I'm The Man Who Murdered Love
+7. We're All Light
+8. Standing In For Joe
+9. Wounded Horse
+10. You And The Clouds Will Still Be Beautiful
+11. Church Of Women
+12. The Wheel And The Maypole
+
+<!-- section break -->
+
+
+
+
+## Videos
+### XTC   We're All Light
+{{< youtube id="9SfAoKxt4bw" title="XTC   We're All Light" >}}<br>
+
+### More Videos
+
+- [XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2](https://www.youtube.com/watch?v=g1I4AJJZ-1w)
+- [XTC - I'm The Man Who Murdered Love](https://www.youtube.com/watch?v=jdqk6AD69tg)
+- [XTC - Playground](https://www.youtube.com/watch?v=HERvQzYl2W8)
+- [XTC ~ Stupidly Happy ~ Wasp Star (Apple Venus Vol 2)](https://www.youtube.com/watch?v=HkzQeYWaL3w)
+- [XTC - In Another Life-](https://www.youtube.com/watch?v=dsWdNdk6plg)
+- [XTC- Boarded Up-](https://www.youtube.com/watch?v=gv7D_u-rv_Q)
+- [XTC - Standing In For Joe -Wasp Star -Apple Venus Vol. 2-](https://www.youtube.com/watch?v=MKCKKyxCIf0)
+- [XTC - Wounded Horse](https://www.youtube.com/watch?v=IDwi-Mb54JE)
+- [XTC -You and the clouds will still be beautiful](https://www.youtube.com/watch?v=XRxcyukrgHk)
+- [XTC  -  Church Of Women](https://www.youtube.com/watch?v=cgiueeCJOLY)
+- [XTC -The Wheel and the Maypole-](https://www.youtube.com/watch?v=vRIP77kLhxI)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2018                                   |
+| Discogs Link   | [XTC - Wasp Star (Apple Venus Volume 2)](https://www.discogs.com/release/12617487-XTC-Wasp-Star-Apple-Venus-Volume-2) |
+| Label          | Ape House |
+| Format         | Vinyl LP Album Reissue (200 gram) |
+| Catalog Number | APELP119 |
+| Notes | lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits  |

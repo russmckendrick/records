@@ -1,0 +1,59 @@
+---
+title: "Prince - Prince"
+artist: "Prince"
+album_name: "Prince"
+date: 2016-06-26T13:15:41.000000Z
+release_id: "8486292"
+slug: "prince-8486292"
+hideSummary: true
+cover:
+    image: "prince-8486292.jpg"
+    alt: "Prince by Prince"
+    caption: "Prince by Prince"
+genres: ["Rock", "Funk / Soul", "Pop"]
+styles: ["Disco", "Pop Rock"]
+---
+
+![Prince by Prince](prince-8486292.jpg)
+
+<!-- section break -->
+
+1. I Wanna Be Your Lover (5:47)
+2. Why You Wanna Treat Me So Bad? (3:49)
+3. Sexy Dancer (4:18)
+4. When We're Dancing Close And Slow (5:18)
+5. With You (3:59)
+6. Bambi (4:22)
+7. Still Waiting (4:24)
+8. I Feel For You (3:24)
+9. It's Gonna Be Lonely (5:30)
+
+<!-- section break -->
+
+
+## Spotify
+{{< spotify type="album" id="5zEFCJy9kAyD8rMbBESdYh" width="100%" height="500" >}}
+
+
+
+## Videos
+### Bambi
+{{< youtube id="INduB7K6VWo" title="Bambi" >}}<br>
+
+### More Videos
+
+- [Prince - Why You Wanna Treat Me So Bad? (Official Music Video)](https://www.youtube.com/watch?v=fPaYtVJouYA)
+- [I Wanna Be Your Lover](https://www.youtube.com/watch?v=nzbOY4mGIug)
+- [Prince - I Wanna Be Your Lover (Official Music Video)](https://www.youtube.com/watch?v=Rp8WL621uGM)
+- [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2016                                   |
+| Discogs Link   | [Prince - Prince](https://www.discogs.com/release/8486292-Prince-Prince) |
+| Label          | Warner Bros. Records |
+| Format         | Vinyl LP Album Reissue |
+| Catalog Number | 9362-49220-8 |
+| Notes | Cover: Manufactured in the E.U.  Dust sleeve: © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8  Labels: 553365-1 © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. Manufactured in the Netherlands  Vinyl, matrix/runout: 14944 2A and 14944 2B are stamped the rest is etched |

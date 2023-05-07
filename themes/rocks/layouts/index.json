@@ -1,0 +1,15 @@
+{
+    "items" : [
+    {{ range $.Site.RegularPages -}}
+    {
+        
+        "url" : "{{ .Permalink }}",
+        "title" : "{{ .Title }}",
+        "date" : "{{ .Date }}",
+        "artist" : "{{ .Params.artist }}",
+        "album" : "{{ .Params.album_name }}",
+        "content": {{ .Content | plainify | jsonify }},
+        
+    {{ end -}}
+    ]
+}

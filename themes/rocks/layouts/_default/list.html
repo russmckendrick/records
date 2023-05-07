@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div id="main" class="alt">
+    <section id="one">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+            {{ if .Params.image }}
+            <div class="row gtr-200">
+                <div class="col-8 col-12-medium">
+                    <p>{{ .Summary }}</p>
+                </div>
+                <div class="col-4 col-12-medium">
+                    <span class="image fit"><img src="{{ (path.Join
+                            .RelPermalink .Params.image) | absURL }}" alt="" /></span>
+                </div>
+            </div>
+        </section>
+        {{ end }}
+        {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) }}
+        <section id="two" class="spotlights">
+            {{ range $index, $page := $paginator.Pages }}
+            <section>
+                <a href="{{ $page.RelPermalink }}" class="image">
+                    {{ if partial "modBool" $index }}
+                    <img src="{{ (path.Join $page.RelPermalink
+                        $page.Params.cover.image) | absURL }}" alt=""
+                        data-position="center center" />
+                    {{ else }}
+                    <img src="{{ (path.Join $page.RelPermalink
+                        $page.Params.cover.image) | absURL }}" alt=""
+                        data-position="top center" />
+                    {{ end }}
+                </a>
+                <div class="content">
+                    <div class="inner">
+                        <header class="major">
+                            <h3>{{ $page.Params.album_name }}</h3>
+                        </header>
+                        {{ $dateTime := .PublishDate.Format "2006-01-02"
+                        }}
+                        {{ $dateFormat := .Site.Params.dateFormat |
+                        default "Jan 2, 2006" }}
+                        <p>Added: {{ .PublishDate.Format $dateFormat }}</p>
+                        <ul class="actions">
+                            <li><a href="{{ $page.RelPermalink }}"
+                                    class="button">View album</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            {{ end }}
+        </section>
+        <section id="three">
+            <div class="inner">
+                <br><center>{{- partial "pagination.html" . -}}</center>
+            </div>
+        </section>
+        {{ end }}

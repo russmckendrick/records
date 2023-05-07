@@ -1,0 +1,70 @@
+---
+title: "Various - Office Space (The Motion Picture Soundtrack)"
+artist: "Various"
+album_name: "Office Space (The Motion Picture Soundtrack)"
+date: 2019-04-13T11:18:00.000000Z
+release_id: "13458583"
+slug: "office-space-the-motion-picture-soundtrack-13458583"
+hideSummary: true
+cover:
+    image: "office-space-the-motion-picture-soundtrack-13458583.jpg"
+    alt: "Office Space (The Motion Picture Soundtrack) by Various"
+    caption: "Office Space (The Motion Picture Soundtrack) by Various"
+genres: ["Hip Hop", "Latin", "Stage & Screen"]
+styles: ["Gangsta", "Soundtrack", "Mambo"]
+---
+
+![Office Space (The Motion Picture Soundtrack) by Various](office-space-the-motion-picture-soundtrack-13458583.jpg)
+
+<!-- section break -->
+
+1. Shove This Jay-Oh-Bee
+2. Get Dis Money
+3. Get Off My Elevator
+4. Big Boss Man
+5. 9 To 5
+6. Down For Whatever
+7. Damn It Feels Good To Be A Gangsta
+8. Home
+9. No Tears
+10. Still
+11. Mambo No. 8
+12. Peanut Vendor
+
+<!-- section break -->
+
+
+
+
+## Videos
+### Get Dis Money
+{{< youtube id="TumoVqPuPVw" title="Get Dis Money" >}}<br>
+
+### More Videos
+
+- [Mambo 8](https://www.youtube.com/watch?v=lqi_HT1MfsU)
+- [9-5](https://www.youtube.com/watch?v=rOifm4AbsuY)
+- [Geto Boys - Still (Office Space soundtrack)](https://www.youtube.com/watch?v=lCOeIksA3Yo)
+- [No Tears](https://www.youtube.com/watch?v=9KWpIxdfNzY)
+- [Office Space Soundtrack - Shove This Jay Oh Bee (HQ)](https://www.youtube.com/watch?v=HyxoLqbFDkI)
+- [Damn It Feels Good To Be A Gangsta](https://www.youtube.com/watch?v=0PqRXVCGKIA)
+- [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
+- [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
+- [Shove This Jay-Oh-Bee](https://www.youtube.com/watch?v=axJVs-OseS8)
+- [Ice Cube - Down for Whatever (DIRTY)](https://www.youtube.com/watch?v=-T44yl-LMSU)
+- [Big Boss Man](https://www.youtube.com/watch?v=CY4lNkIO76U)
+- [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
+- [Home](https://www.youtube.com/watch?v=QKuJ-DJPUXs)
+- [Get Off My Elevator](https://www.youtube.com/watch?v=r-WMAkO7r3Q)
+- [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2019                                   |
+| Discogs Link   | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |
+| Label          | Interscope Records |
+| Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
+| Catalog Number | B0029333-01 |
+| Notes | Stapler red, Record Store Day release limited to 2,500.  |

@@ -1,0 +1,73 @@
+---
+title: "Atoms For Peace - Amok"
+artist: "Atoms For Peace"
+album_name: "Amok"
+date: 2018-01-06T10:51:25.000000Z
+release_id: "4312273"
+slug: "amok-4312273"
+hideSummary: true
+cover:
+    image: "amok-4312273.jpg"
+    alt: "Amok by Atoms For Peace"
+    caption: "Amok by Atoms For Peace"
+genres: ["Electronic", "Rock"]
+styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
+---
+
+![Amok by Atoms For Peace](amok-4312273.jpg)
+
+<!-- section break -->
+
+1. Before Your Very Eyes...
+2. Default
+3. Ingenue
+4. Dropped
+5. Unless
+6. Stuck Together Pieces
+7. Judge Jury And Executioner
+8. Reverse Running
+9. Amok
+10. Before Your Very Eyes... (5:47)
+11. Default (5:15)
+12. Ingenue (4:30)
+13. Dropped (4:57)
+14. Unless (4:40)
+15. Stuck Together Pieces (5:28)
+16. Judge Jury And Executioner (3:28)
+17. Reverse Running (5:06)
+18. Amok (5:24)
+
+<!-- section break -->
+
+
+
+
+## Videos
+### Atoms For Peace - Dropped
+{{< youtube id="a9uL315xak8" title="Atoms For Peace - Dropped" >}}<br>
+
+### More Videos
+
+- [Atoms For Peace - Before Your Very Eyes](https://www.youtube.com/watch?v=1GQF9y2dKv8)
+- [Atoms For Peace - Default](https://www.youtube.com/watch?v=yxWBd840E9g)
+- [Atoms For Peace - Default](https://www.youtube.com/watch?v=zU7lArEL0qs)
+- [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=uK2sW_eaNqs)
+- [Atoms For Peace - Unless](https://www.youtube.com/watch?v=sTncKpk0OTo)
+- [Atoms For Peace - Stuck Together Pieces](https://www.youtube.com/watch?v=UMfh89GQoQE)
+- [Atoms For Peace - Judge Jury And Executioner](https://www.youtube.com/watch?v=SZgN_SuxuBg)
+- [Atoms For Peace - Reverse Running](https://www.youtube.com/watch?v=l2yEXYCF7tg)
+- [Atoms For Peace - Amok](https://www.youtube.com/watch?v=dZHrwFvmRxg)
+- [Atoms For Peace - Before Your Very Eyes](https://www.youtube.com/watch?v=ZWrUEsVrdSU)
+- [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=DpVfF4U75B8)
+- [Atoms For Peace  - Judge Jury and Executioner](https://www.youtube.com/watch?v=LmNXMAQhp-I)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2013                                   |
+| Discogs Link   | [Atoms For Peace - Amok](https://www.discogs.com/release/4312273-Atoms-For-Peace-Amok) |
+| Label          | XL Recordings |
+| Format         | Vinyl 2× LP 45 RPM Album, CD Album |
+| Catalog Number | XLLP583 |
+| Notes | Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way. Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.  P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd. Track durations not given on release. |

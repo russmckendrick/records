@@ -1,0 +1,5 @@
+---
+title: "Dusty Springfield"
+summary: "Born : April 16, 1939 / Hampstead, London, United Kingdom Died : March 02, 1999 / Henley, Oxfordshire, United Kingdom Influential British singer who began her career with , later in the early 60's before going solo. She achieved a long string of successful albums and singles through most of the 1960's, as well as having several variety series on BBC and ITV networks in the UK which she headlined during those years. Her chart successes slowed in the 1970s, but she achieved a renaissance in the 1980's with the help of the Pet Shop Boys, with whom she recorded two hit records, including her hit duet with PSB, \"What Have I Done To Deserve This?\" She was diagnosed with cancer after the recording of her final album, \"A Very Fine Love.\" After treatment the cancer was briefly in remission, but eventually returned, and she died in March 1999, a few days after she had been awarded the Order of the British Empire. Later that same year, she was inducted as a performer into the Rock and Roll Hall of Fame."
+image: "dusty-springfield.jpg"
+---

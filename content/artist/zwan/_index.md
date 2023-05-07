@@ -1,0 +1,5 @@
+---
+title: "Zwan"
+summary: "Zwan was an American alternative rock supergroup that was formed by and , lead singer and guitarist, and the drummer of the Smashing Pumpkins respectively, after they disbanded in December 2000. Other members included bassist , of A Perfect Circle, and guitarists and of various prior bands and projects. The band released only one album, Mary Star of the Sea, in 2003, before breaking up acrimoniously that same year during their world tour to promote the album. Following the disbanding, Corgan released a solo album, TheFutureEmbrace before reforming the Smashing Pumpkins in 2005, with Chamberlin in 2006. Despite allusions to multiple albums' worth of material written by band members, no further material has surfaced beyond their only studio album, and none of the material has ever been revisited in performances by any of the members outside of a brief 2017 tour by Corgan."
+image: "zwan.jpg"
+---

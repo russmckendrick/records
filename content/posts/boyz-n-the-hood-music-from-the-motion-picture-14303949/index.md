@@ -1,0 +1,63 @@
+---
+title: "Various - Boyz N The Hood (Music From The Motion Picture)"
+artist: "Various"
+album_name: "Boyz N The Hood (Music From The Motion Picture)"
+date: 2020-07-14T11:07:39.000000Z
+release_id: "14303949"
+slug: "boyz-n-the-hood-music-from-the-motion-picture-14303949"
+hideSummary: true
+cover:
+    image: "boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg"
+    alt: "Boyz N The Hood (Music From The Motion Picture) by Various"
+    caption: "Boyz N The Hood (Music From The Motion Picture) by Various"
+genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
+styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
+---
+
+![Boyz N The Hood (Music From The Motion Picture) by Various](boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg)
+
+<!-- section break -->
+
+1. How To Survive In South Central (3:40)
+2. Just Ask Me To (4:08)
+3. Mama Don't Take No Mess (4:05)
+4. Growin' Up In The Hood (4:13)
+5. Just A Friendly Game Of Baseball (Remix) (4:02)
+6. Me & You (4:11)
+7. Work It Out (4:15)
+8. Every Single Weekend (4:37)
+9. Too Young (4:35)
+10. Hangin' Out (2:36)
+11. It's Your Life (4:47)
+12. Spirit (Does Anyone Care?) (4:19)
+13. Setembro
+14. Black On Black Crime
+
+<!-- section break -->
+
+
+
+
+## Videos
+### Tevin Campbell - Just Ask Me
+{{< youtube id="VwHp7G7d9WM" title="Tevin Campbell - Just Ask Me" >}}<br>
+
+### More Videos
+
+- [Every Single Weekend](https://www.youtube.com/watch?v=-2L2JoIrCG4)
+- [Stanley Clarke-Boyz N The Hood Theme](https://www.youtube.com/watch?v=qsvAI3A7c_c)
+- [Ice Cube - How To Survive In South Central](https://www.youtube.com/watch?v=hTtl7YdOjcA)
+- [Ice Cube - How To Survive In South Central (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=h5CX4x9KP0g)
+- [Dr. Buzzard & The Savannah Band - Sunshower Boyz N The Hood Soundtrack](https://www.youtube.com/watch?v=Z7trsR5oFY4)
+- [Tevin Campbell     Just Ask Me To (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=doRNgKeIGFA)
+- [Too Short    It's Your Life (Boyz N The Hood Soundtrack)](https://www.youtube.com/watch?v=yO90oQDOBeE)
+
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Release Year   | 2019                                   |
+| Discogs Link   | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949-Various-Boyz-N-The-Hood-Music-From-The-Motion-Picture) |
+| Label          | Universal |
+| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Blue Translucent, 180g) |
+| Catalog Number | B0030621-01 |
