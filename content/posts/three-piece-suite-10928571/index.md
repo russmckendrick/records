@@ -40,13 +40,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Schooldays (Steven Wilson Mix)
-{{< youtube id="e9JzxQyYdWg" title="Schooldays (Steven Wilson Mix)" >}}<br>
+### Gentle Giant - Giant (Official Lyric Video)
+{{< youtube id="SQPp69MVAaw" title="Gentle Giant - Giant (Official Lyric Video)" >}}<br>
 
 ### More Videos
 
-- [Gentle Giant - Giant (Official Lyric Video)](https://www.youtube.com/watch?v=SQPp69MVAaw)
 - [Three Friends (Steven Wilson Mix)](https://www.youtube.com/watch?v=TBWPlsVcd18)
+- [Schooldays (Steven Wilson Mix)](https://www.youtube.com/watch?v=e9JzxQyYdWg)
 
 
 ## Release Information

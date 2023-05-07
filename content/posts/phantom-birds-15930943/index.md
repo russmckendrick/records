@@ -38,8 +38,8 @@ styles: ["Psychedelic", "Easy Listening"]
 
 
 ## Videos
-### Man Of Doom
-{{< youtube id="gbvx_kYHin4" title="Man Of Doom" >}}<br>
+### Covered In Clowns
+{{< youtube id="OZFsqfN49Dc" title="Covered In Clowns" >}}<br>
 
 ### More Videos
 
@@ -47,6 +47,7 @@ styles: ["Psychedelic", "Easy Listening"]
 - [You Danced All Night](https://www.youtube.com/watch?v=QBuxse1m-t0)
 - [Phantom Birds](https://www.youtube.com/watch?v=HPPRRXHonzE)
 - [Moonlight Flit](https://www.youtube.com/watch?v=pwe8SVBBvoM)
+- [Man Of Doom](https://www.youtube.com/watch?v=gbvx_kYHin4)
 - [Where's My Love?](https://www.youtube.com/watch?v=27tI2Kg0FkY)
 - [Take A Bow](https://www.youtube.com/watch?v=bJVX9FyO8nY)
 - [Intermission](https://www.youtube.com/watch?v=QXuyeK0N6so)
@@ -54,7 +55,6 @@ styles: ["Psychedelic", "Easy Listening"]
 - [In My Mind](https://www.youtube.com/watch?v=RwBRK3iVJ1A)
 - [That Yellow Bird](https://www.youtube.com/watch?v=eCmVnGdltts)
 - [Waving Goodbye](https://www.youtube.com/watch?v=RztchZ6f3Oo)
-- [Covered In Clowns](https://www.youtube.com/watch?v=OZFsqfN49Dc)
 
 
 ## Release Information

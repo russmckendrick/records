@@ -39,13 +39,13 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 
 
 ## Videos
-### The Black Crowes – Cursed Diamond
-{{< youtube id="7OeNv8IwK9s" title="The Black Crowes – Cursed Diamond" >}}<br>
+### The Black Crowes - A Conspiracy
+{{< youtube id="zvGXRCQSd44" title="The Black Crowes - A Conspiracy" >}}<br>
 
 ### More Videos
 
-- [The Black Crowes - A Conspiracy](https://www.youtube.com/watch?v=zvGXRCQSd44)
 - [The Black Crowes – Nonfiction](https://www.youtube.com/watch?v=NWrWA7Vnmy4)
+- [The Black Crowes – Cursed Diamond](https://www.youtube.com/watch?v=7OeNv8IwK9s)
 - [The Black Crowes – Gone](https://www.youtube.com/watch?v=fk67JUBuhRw)
 - [The Black Crowes – Descending](https://www.youtube.com/watch?v=j5c5KVWwEsI)
 - [The Black Crowes – She Gave Good Sunflower](https://www.youtube.com/watch?v=iKqRWpsZOqs)

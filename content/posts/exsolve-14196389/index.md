@@ -32,13 +32,13 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 
 
 ## Videos
-### Causleen's Wheel Excerpt
-{{< youtube id="-AZHMrvxCfI" title="Causleen's Wheel Excerpt" >}}<br>
+### Mandrel Cantus Excerpt
+{{< youtube id="9Pwhuk_tLdc" title="Mandrel Cantus Excerpt" >}}<br>
 
 ### More Videos
 
-- [Mandrel Cantus Excerpt](https://www.youtube.com/watch?v=9Pwhuk_tLdc)
 - [Of Two Forms Excerpt](https://www.youtube.com/watch?v=Jn7Tvl0wq3U)
+- [Causleen's Wheel Excerpt](https://www.youtube.com/watch?v=-AZHMrvxCfI)
 - [Forge Excerpt](https://www.youtube.com/watch?v=yxvphxyl0_I)
 - [Jo Quail - Exsolve [Full Album]](https://www.youtube.com/watch?v=7kaOG7dQ6m0)
 

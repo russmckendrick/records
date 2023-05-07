@@ -35,15 +35,15 @@ styles: []
 
 
 ## Videos
-### Sunshine After the Rain
-{{< youtube id="0kLsI7nnp9g" title="Sunshine After the Rain" >}}<br>
+### True Faith
+{{< youtube id="5DwsT7QCf3M" title="True Faith" >}}<br>
 
 ### More Videos
 
-- [True Faith](https://www.youtube.com/watch?v=5DwsT7QCf3M)
 - [I'm Not in Love](https://www.youtube.com/watch?v=5GUyKPcIgFg)
 - [Nothing You Can Do](https://www.youtube.com/watch?v=pVeGgakuIJk)
 - [Evangeline](https://www.youtube.com/watch?v=3FcaFSIQKww)
+- [Sunshine After the Rain](https://www.youtube.com/watch?v=0kLsI7nnp9g)
 - [Well I Wonder](https://www.youtube.com/watch?v=P_R5Y3-2utE)
 - [Steal Me Easy](https://www.youtube.com/watch?v=tBDmZT2_3dY)
 

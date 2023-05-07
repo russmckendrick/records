@@ -85,8 +85,8 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 
 
 ## Videos
-### Ghost Song
-{{< youtube id="4_nVb9kYlBU" title="Ghost Song" >}}<br>
+### The Word Hurricane
+{{< youtube id="ocTDASQ8sfA" title="The Word Hurricane" >}}<br>
 
 ### More Videos
 
@@ -96,8 +96,8 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 - [Air - Suicide Underground (Official Audio)](https://www.youtube.com/watch?v=qquFdHCxArA)
 - [Air - Highschool Lover (Official Audio)](https://www.youtube.com/watch?v=lXFEVqi4iPE)
 - [Air - Dead Bodies (Official Audio)](https://www.youtube.com/watch?v=Ivkwud7MrX0)
+- [Ghost Song](https://www.youtube.com/watch?v=4_nVb9kYlBU)
 - [Cemetary Party](https://www.youtube.com/watch?v=U5kwoGYZjDo)
-- [The Word Hurricane](https://www.youtube.com/watch?v=ocTDASQ8sfA)
 - [Air - Playground Love from The Virgin Suicides OST (Vinyl)](https://www.youtube.com/watch?v=8WglwMp20Mg)
 - [Air - Afternoon Sister (Official Audio)](https://www.youtube.com/watch?v=fMz77CUQKPw)
 - [The Virgin Suicides - Thème](https://www.youtube.com/watch?v=8-elWUT2Avg)
